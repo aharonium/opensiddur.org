@@ -23,4 +23,5 @@ tags:
 categories:
   - Birkhot Ha-Shaḥar
   - Shaḥarit
+  - Shaḥarit
 ---
