@@ -18,6 +18,7 @@ tags:
 categories:
   - Shaḥarit
   - Shema
+  - Shaḥarit
   - Liturgical traditions
 ---
 Once upon a time, according to the Mishnah, it was the <em>nusaḥ</em> (liturgical tradition) of the Cohanim in the Bet Hamikdash[foot]Priests of the Temple in Jerusalem[/foot] for the Ten Commandments to be read prior to the <a href="http://en.wikipedia.org/wiki/Shema_Yisrael">Sh'ma</a>. Here's the relevant teaching from <em>Mishnah Tamid</em> (32b in <em>Talmud Bavli Tamid</em>), emphasis mine:
