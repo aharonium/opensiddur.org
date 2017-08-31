@@ -24,6 +24,7 @@ categories:
   - Shaḥarit
   - Shema
   - "Ma'ariv"
+  - Shaḥarit
   - Nighttime
   - Daytime
   - Praxes
