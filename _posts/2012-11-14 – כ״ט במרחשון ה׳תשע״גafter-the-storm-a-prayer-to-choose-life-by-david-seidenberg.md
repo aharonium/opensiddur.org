@@ -89,7 +89,7 @@ and for all the people who are in need and exposed “because of the storm,”[f
 
 
 <tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
-אַתָּה הַיֹּסֵר גֹּ֭ויִים וְהַמְלַמֵּד אָדָם דַּעַת
+אַתָּה הַיֹּסֵר גֹּויִים וְהַמְלַמֵּד אָדָם דַּעַת
 נָא לְלַמְּדֵנוּ דֶרֶךְ קָדִימָה לָקַחַת אַחֲרָיוּת זֶה אֶל זֶה
 וְעַל עַתִּיד הָעוֺלָם הַנִּפְלָא.
 </span></div></td>
