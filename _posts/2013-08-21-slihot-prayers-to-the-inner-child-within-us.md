@@ -17,8 +17,11 @@ link: >
   http://opensiddur.org/prayers-for/forgiveness/slihot-prayers-to-the-inner-child-within-us/
 published: true
 tags:
-  - Sliḥot
+  - North America
+  - 57th Century
+  - 21st century Gregorian
   - psychology
+  - Sliḥot
 categories:
   - Tshuvah
 ---
