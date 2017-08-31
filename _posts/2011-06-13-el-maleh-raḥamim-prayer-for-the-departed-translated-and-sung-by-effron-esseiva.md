@@ -1,0 +1,70 @@
+---
+ID: 3315
+post_title: >
+  אל מלא רחמים | El Maleh
+  Raḥamim (Prayer for the Departed)
+  translated and sung by Effron Esseiva
+post_name: 'el-maleh-ra%e1%b8%a5amim-prayer-for-the-departed-translated-and-sung-by-effron-esseiva'
+author: Effron Esseiva
+post_date: 2011-06-13 15:18:05
+post_excerpt: "Almost two years ago my best friend passed away and I had the honour of chanting this <em>maleh rachamim</em> for him. In mid-May this year another friend approached me and said he really liked the way I did it at the time and could I record it for him because he was going to do it too for an unrelated unveiling. So, I recorded it on May 18, 2011. I didn't compose it. It's a traditional tune, but it's my voice and I hope someone else can perhaps learn it with this material. The more resource there are out there through means such as Open Siddur the better we can learn and share."
+layout: post
+link: 'http://opensiddur.org/prayers-for/mourning/el-maleh-ra%e1%b8%a5amim-prayer-for-the-departed-translated-and-sung-by-effron-esseiva/'
+published: true
+tags:
+  - Renewal
+  - Audio
+categories:
+  - Mourning
+---
+Almost two years ago my best friend passed away and I had the honour of chanting this <em>maleh rachamim</em> for him. In mid-May this year another friend approached me and said he really liked the way I did it at the time and could I record it for him because he was going to do it too for an unrelated unveiling. So, I recorded it on May 18, 2011. I didn't compose it. It's a traditional tune, but it's my voice and I hope someone else can perhaps learn it with this material. The more resource there are out there through means such as Open Siddur the better we can learn and share.
+
+The recording is shared with a Public Domain Dedication (<a href="http://creativecommons.org/publicdomain/zero/1.0/">CC0</a>).
+
+DOWNLOAD: <a href="http://opensiddur.org/wp-content/uploads/2011/06/Effron-Esseiva-El-Maleh-Rachamim.ogg">OGG</a> | <a href="http://opensiddur.org/wp-content/uploads/2011/06/Effron-Esseiva-El-Maleh-Rachamim.mp3">MP3</a>
+
+<table style="margin-left: auto;margin-right: auto;">
+<tbody>
+<tr>
+<td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+אֵל מָלֵא רַחֲמִים שׁוֹכֵן בַּמְּרוֹמִים,
+הַמְצֵא מְנוּחָה נְכוֹנָה עַל כַּנְפֵי הַשְּׁכִינָה,
+בְּמַעֲלוֹת קְדוֹשִׁים וּטְהוֹרִים
+כְּזוֹהַר הָרָקִיעַ מַזְהִירִים,
+בורך טוב בן בלימע ושלמה אֶת נִשְׁמַת
+שֶׁהָלַךְ לְעוֹלָמוֹ, בְּגַן עֵדֶן תְּהֵא מְנוּחָתוֹ.
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%"><div class="english">
+Compassionate source of all that is,
+who is present in the heavens,
+take our loved one [name]
+under your holy, pure and glorious wings
+that shine like the sky,
+as we provide charity
+in the name of the soul of our loved one.
+</td></tr>
+<tr>
+<td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+[אָנָא,] בַּעַל הָרַחֲמִים יַסְתִּירֵהוּ
+בְּסֵתֶר [כְּנָפֶיךָ] כְּנָפָיו לְעוֹלָמִים,
+וְיִצְרֹר [וּצְרֹר] בִּצְרוֹר הַחַיִּים
+אֶת נִשְׁמָתוֹ, יְיָ הוּא נַחֲלָתוֹ,
+וְיָנוּחַ בְּשָׁלוֹם עַל מִשְׁכָּבוֹ, וְנֹאמַר אָמֵן׃
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%"><div class="english">
+[Please] Compassionate one, 
+provide rest for the soul of our loved one in Ga’an Eden 
+and never withdraw your protective wings and take [bundle] 
+this soul into the bond of life. Hashem is this soul’s 
+everlasting inheritance and peaceful resting place, 
+and let us say: Amen. 
+</td>
+</tr>
+</tbody></tbody></table>
+
+<hr />
+We are grateful to Effron Esseiva of the <em>Shirat Hayam</em> on Bowen Island havurah and <a href="http://www.orshalom.ca/"><em>Or Shalom</em> Synagogue</a> in Vancouver for sharing his recording and abbreviated translation (below) of <em>El Malei Raḥamim</em> (lit. "God, full of Compassion"), the prayer for the departed traditionally read at the unveiling of the headstone. Effron is studying davvening leadership through <a href="http://aleph.org/">Aleph</a> with teachers Rabbi Marcia Prager, Rabbi Shawn Zevit, and Hazzan Jack Kessler.
