@@ -21,6 +21,7 @@ tags:
 categories:
   - Birkhot Ha-Shaḥar
   - Shaḥarit
+  - Shaḥarit
   - Art
 ---
 [caption id="attachment_3395" align="aligncenter" width="864" caption="Image: המנורה כתובה by Ba&#39;al haKokhav, converted to vector art by Andrew Meit (CC0)"]<a href="http://opensiddur.org/wp-content/uploads/2011/06/Sheviti-by-Baal-haKokhav-converted-to-vector-art-by-Andrew-Meit.svg_.png"><img class="size-full wp-image-3395" title="המנורה כתובה by Ba'al haKokhav (Shiviti converted to vector art by Andrew Meit).svg" src="http://opensiddur.org/wp-content/uploads/2011/06/Sheviti-by-Baal-haKokhav-converted-to-vector-art-by-Andrew-Meit.svg_.png" alt="" width="864" height="1224" /></a>[/caption]
