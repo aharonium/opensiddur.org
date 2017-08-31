@@ -26,6 +26,7 @@ tags:
 categories:
   - Birkhot Ha-Shaḥar
   - Shaḥarit
+  - Shaḥarit
   - Daytime
 ---
 <table style="margin-left: auto;margin-right: auto;">
