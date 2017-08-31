@@ -1,0 +1,55 @@
+---
+ID: 7665
+post_title: '&#8220;Database Davvenen&#8221; by Rabbi Zalman Schachter-Shalomi (circa 1984)'
+post_name: >
+  database-davvenen-by-reb-zalman-schachter-shalomi-havurah
+author: Zalman Schachter-Shalomi
+post_date: 2013-10-08 11:06:12
+post_excerpt: >
+  The following work was published by a
+  Havurah publication in the late 1970s or
+  early 1980s by Rab Zalman
+  Schachter-Shalomi. In it, Rab Zalman
+  presciently describes a digital database
+  of liturgy and liturgy-related work that
+  havurah groups across the world could
+  use to bring together custom designed
+  and crafted works for use in communal
+  prayer. We are grateful to Reb Zalman
+  for bringing this work to our attention.
+layout: post
+link: >
+  http://opensiddur.org/concerning/the-open-siddur-project/by-others/database-davvenen-by-reb-zalman-schachter-shalomi-havurah/
+published: true
+tags:
+  - antecedents
+  - inspirations
+categories:
+  - 'Press &amp; Research'
+---
+<blockquote>The following work was published by a Havurah publication by Rabbi Zalman Schachter-Shalomi. In it, Reb Zalman presciently describes a digital database of liturgy and liturgy-related work that havurah groups across the world could use to bring together custom designed and crafted works for use in communal prayer. We are grateful to Reb Zalman for bringing this work to our attention. If anyone can help us identify the exact date and issue of this work's original publication, we'd be additionally grateful.
+
+Folks might already be aware that Reb Zalman and Rebbetzin Eve Ilsen were among those impacted by the <a href="http://boulderjewishnews.org/flood">flooding in Colorado this summer</a> (2013). Their house was flooded, with Reb Zalman's office containing many years of his documents and visions being especially damaged. Reb Zalman found this piece of writing while cleaning up the remains of his office and thought to send it to us.
+
+If you would like to help in this salvaging process, you can make an online donation via Aleph, or <a href="http://www.rzlp.org/Yesod-RZLP/Donate.html">Yesod</a>, indicating that your donation is for the repair of Reb Zalman's and Rebbetzin Eve's home. --Aharon Varady, founding director of the Open Siddur Project</blockquote>
+
+<hr />
+
+<div class="english">
+Last spring, HAVURAH spoke with Reb Zalman Schachter-Shalomi about the kind of liturgy needed in the havurah movement, and how a siddur could be put together. Here are some of Zalman's thoughts about why and how we davven, and what we can create.
+<h3><strong>WHY DO WE DAVVEN?</strong></h3>
+At one time we used to have a notion that <em>davvenen</em> was in order to impress God. But the philosophers said, "Come on, you can't impress God." Most of the <em>ḥavurah</em> folks don't <em>davven</em> just because <em>halacha</em> says to do it. That's not the way we are touched or connected. What we are connected with is harder to talk about, but what keeps coming up is this: "A whole week I'm "I"; now I want to become "we." I must have some connection with transcendence, but transcendence as defined by my reference group." It has to be non-sexist, non-age-ist, and so forth; it becomes very hard to have a <em>siddur</em>, because if it had any zap, it's been circumscribed out; it has to be an androgynous zap, and we don't have that in our language.
+<h3><strong>A SOFTWARE SIDDUR</strong></h3>
+Let's play a little science fiction. Imagine that we have <em>davvenen</em> software. The program gets projected on one of those big projection screens, or on the wall. You enter on the computer, "<em>Ḥavurah</em> style" and the time allotted, the number of participants, the different participants (<em>Ḥazan</em>, <em>Baal Korah</em>, etc.) and all the parts of the <em>minyan</em>. Then it gives you a little musical interlude, and it invites you to do some movements along with <em>Birchat haShachar</em>. Whenever you've finished with that (you can make it go slower or faster) it begins with a text for "<em>Mizmor Shir, hannukat habayit leDavid</em>," done in clusters, so you have, "<em>mizmor Shir</em>," "<em>Hannukat habayit</em>," "<em>leDavid</em>," and each cluster has an English side and a Hebrew side to it. As it goes on with the text, it flashes bits of Tanach on the side, with <em>posek aleph</em> and <em>posek bet</em>, with imagery. We're trying to translate what <em>kavvanah</em> is doing into imagery, giving options all the time.
+<h3><strong>THE DATABASE</strong></h3>
+The idea is to have a central database, into which lots of people in the ḥavurah movement can make their contribution. Many options could be included for all parts of the service, created by different people and different groups. People will add their own personal rubrics, based on their own experience. Right now we have calendar rubrics, e.g., on Monday and Thursday you don't recite this, but we will add, "<em>Birchot haShachar</em> works best close to dawn," and ways to involve the group. We don't put it as law, but as suggestion, as a recipe. We make a big appendix to the <em>siddur</em>. We leave out some of the things now in the siddurs, things that are so hackneyed that you can't put them in your mouth, but we include the ones that are good. And we might want to have a series of poems. Many poets who never think of themselves as religious poets (or even religious people), are writing poetry that is current prophesy, that is modern <em>piyyut</em>. We want to use that stuff for <em>musaf</em>, where we need one more fortissimo after <em>k'riat ha Torah</em>. This poetry is not the kind of thing that's made for reading by the group, but if someone reads it well and dramatically, the congregation can say amen afterward.
+
+The way this would be used, is that people would phone in, on their modems, and have a printout on which they could assemble the <em>siddurim</em> they want from the things that are available. It wouldn't even have to be on paper; it could be made into transparencies, to be projected overhead, so that people's hands are free to move as they want. All this would be very fluid, with new possibilities available all the time. For example, you have a printout, "<em>Elokenu, Elokei avotenu, Elokei Avraham v'Eloket Yitzhak, v'Elokei Yaakov</em>." Then you have an alternate: "<em>Elokei Avraham v'Sarah</em>; alternate: <em>Elokei Avraham, Yitzhok v'Yaakov, Elokei Sarah, Rivkah, Leah v'Rochel</em>; you can have <em>Bilhah v'Zilpah</em>, and you can show the fantastic range of what people have done—<em>Baruch Atah Adoshem, magen Avraham v'Sarah; Baruch Atah HaShem, magen Avraham v'esrat Sarah</em>—so much is already floating around, there's no need for people always to have to reinvent the wheel, instead of adding to the storehouse of what we've already got. The database can also include a little handbook for the <em>baal tefillah</em>, to point out what are the social dimensions of the service, a sort of checklist to review with <em>chaverim</em> after the service: "how did go, how did that go, how can we improve it?"
+<h3><strong>VIDEOTAPE</strong></h3>
+There are other forms, song-forms and dance-forms. At B'nai Or we've been doing things with different phases of the service. Some people have been doing dance, and motion choirs to certain responses that get incorporated into the davvenen; you don't have to be a ballet dancer, and yet you'll be able to do something more than <em>shucklen</em>. We can record some of the very fluid things that the women are creating for Rosh Hodesh. We can record whole services. Moshe Waldoks recorded a <em>Ma'ariv</em> service that B'nai Or is working on, which is not finished yet. Shut-in people can especially benefit from these videotapes, so that if they have a VCR, they can put on their <em>Shaḥarit</em>, <em>Minha</em> and <em>Ma'ariv</em> and <em>davven</em> along, and get <em>kavvanah</em> along with it. In order to be good the material can't come from one source. A lot of people are working on many different pieces. This kind of usage will also make it possible for things to get tried out by people davvening. Sometimes things [work] real well for the eye, but not for the ear; you have to try out how it sings.
+
+I really believe that a wonderful renaissance of <em>davvenen</em> can be made, using a central database. Because then you don't have to tell anyone, do this or that, because our people aren't the ones to be told—but if you give them resources, they sure use resources. And every ḥavurah has at least one member who can connect with a database. People who have the equipment are proud to have it and show it off; it's a nice magic.
+</div>
+
+<em>Zalman Schachter-Shalomi is Professor of Religion and Jewish Mysticism at Temple University, and is the Rebbe of the B'nai Or Community. He was a founding member of Havurat Shalom.</em>
+
