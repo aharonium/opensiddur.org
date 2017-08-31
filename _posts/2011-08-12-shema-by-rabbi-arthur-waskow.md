@@ -40,6 +40,7 @@ categories:
   - Shaḥarit
   - Shema
   - "Ma'ariv"
+  - Shaḥarit
 ---
 <a href="http://opensiddur.org/wp-content/uploads/2011/08/Aharon-Varady-Shhhmmma.png"><img src="http://opensiddur.org/wp-content/uploads/2011/08/Aharon-Varady-Shhhmmma.png" alt="Aharon Varady - Shhhmmma (CC BY-SA)" width="4012" height="850" class="aligncenter size-full wp-image-10540" /></a>
 
