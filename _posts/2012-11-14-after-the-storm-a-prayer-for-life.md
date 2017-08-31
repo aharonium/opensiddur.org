@@ -46,54 +46,56 @@ And so choose life, in order that you will live, you and your seed."[foot]Deuter
 
 
 <tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
-רִבּוֺנוֺ שֶׁל עוֺלָם, צִוָותְ‬נוּ לִבְחוֺר בָּחֲיִים,
+רִבּוֺנוֺ שֶׁל עוֺלָם, צִווִי‪תָ‬נוּ וּבָחַרְתָּ בַּחַיִּים,
 וּבְנֵי דוֺרֵנוּ אֵינָם הִבְחִינוּ בִּבְחִירָת הַחֲיִים.
 </span></div></td>
 
  
 <td style="vertical-align:top;" width="53%"><div class="english">
-Master of the universe, you commanded us to choose life,
-and the people of our generation have no certainty about how to choose life.
+Master of the universe, you commanded us <em>choose life</em>,
+but the people of our generation have no certainty how to choose life.
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
-וְכּוּלָנוּ אֲחְרָאִים גָם בַּעֲל כּוֺרְחֵנוּ גָם מִבְּחִירָתֵנוּ
-לְהַפְרָעָת הַאֲקִלִים שֶׁסָבִיר לְהַגְדִיל הַסַעֲרָה הַקָטְלָנִית הַזֹאת, וּלְרָפֹּאתוֺ.
+וְכּוּלָנוּ אֲחְרָאִים גָם בַּעֲל כּוֺרְחֵנוּ אוֺ מִבְּחִירָתֵנוּ לְהַפְרָעָת הַאֲקִלִים 
+שֶׁסָבִיר לְהַגְדִיל הַסַעֲרָה הַקָטְלָנִית הַזֹאת, וְגַם אֲחְרָאִים וּלְרָפֹּאתוֺ.
 </span></div></td>
 
  
 <td style="vertical-align:top;" width="53%"><div class="english">
-We are all of us responsible, whether by necessity or by our choice,
-for the disruption of the climate that would have magnified this deadly storm, and for its healing.
+We are all of us responsible, whether by necessity or by our choice, for the disruption of the climate 
+that would have magnified this deadly storm, and responsible for its healing.
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
-עֲתָּה עֲלֵינוּ לוֺקְחִים אֲחְרָיוּת
+מְבַקְשִׁים אֲנָחְנוּ אֶת הַכֹּחַ לְקָבֵּל אֲחְרָיוּת עֲלֵינוּ עֲתָּה
 לַעֲזוֺר לְאֵלוּ שֶׁנִפְגָעִים עֲל יְדֵי הַסָעֲרָה,
-וְלִתְּמוֺך בְּאֵלוּ שֶׁמִּצְטָרְפִים בַּעֲבוֺדוֺת הַהָצָלָה וְהַסְעֲד,
-וּמִתְּפָּלְלִים בַּעֲד כּוּלָם הַנִזְקָקִים וְחֲשׁוּפִים כַּעֲבֹור סוּפָה.
+וְלִתְּמוֺך בְּאֵלוּ שֶׁמִּצְטָרְפִים בַּעֲבוֺדוֺת הַהָצָלָה וְהַסְעֲד וּלְחֲבֵּר אִתַּם.
+וּבַּעֲד כּוּלָם הַנִזְקָקִים וְחֲשׁוּפִים כַּעֲבֹור סוּפָה אֲנוּ מִתְּפָּלְלִים, נַא לְהוֺשִׁיעֵם.
 </span></div></td>
 
  
 <td style="vertical-align:top;" width="53%"><div class="english">
-Now we must take responsibility
+We seek the strength to accept our responsibility now
 for helping those directly harmed by the storm,
-and for supporting all those who have joined in rescue and relief work,
-and we are praying for all the people who are in need and exposed “because of the storm.”[foot]Proverbs 10:25 partial[/foot]
+and for supporting all those who have joined in rescue and relief work and to join with them,
+and for all the people who are in need and exposed “because of the storm,”[foot]Proverbs 10:25 partial[/foot] we pray, please save them.
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
-הֲיֹסֵר גֹּ֭ויִם והַֽמְלַמֵּד אָדָם דָּעַת
-נָא לְלָמְדֵנוּ דֶרֶךְ קָדִימָה לָקָחֲת אֲחְרִיוּת עֲל עֲתִּיד הָעוֺלָם הַנִפְלָא הָזֶה.
+אֲתָּה הֲיֹסֵר גֹּ֭ויִם והַֽמְלַמֵּד אָדָם דָּעַת
+נָא לְלָמְדֵנוּ דֶרֶךְ קָדִימָה לָקָחֲת אֲחְרִיוּת זֶה אֶל זֶה
+וְעֲל עֲתִּיד הָעוֺלָם הַנִפְלָא.
 </span></div></td>
 
  
 <td style="vertical-align:top;" width="53%"><div class="english">
-“The One who chastises nations and who teaches humanity knowledge,”[foot]Psalms 94:10[/foot]&nbsp;
-please teach us a path forward to take responsibility for the future of this wondrous planet.
+You are “the One who chastises nations and who teaches humanity knowledge,”[foot]Psalms 94:10[/foot]&nbsp;
+please teach us a path forward to take responsibility for each other - please!
+and for the future of this wondrous planet.
 </td></tr>
 
 
@@ -101,7 +103,6 @@ please teach us a path forward to take responsibility for the future of this won
 עֲזוֺר לָנוּ לִמְצוֹא דֶרֶךְ הַחֲיִים, לִבְחוֺר בַּחֲיִים בְּצֶדֶק, כִּי צַדִּ֗יק יְס֣וֹד עוֹלָֽם,
 לְמַעֲן יִתְּקָיֵם בָּנוּ לִבְנֵינוּ וּלִבְנֵי בֵּנֵינוּ הַכָּתּוּב,
 ״בָּר֥וּךְ אַתָּ֖ה בָּעִ֑יר וּבָר֥וּךְ אַתָּ֖ה בַּשָּׂדֶֽה,״ 
-כֵּן תִּהְיֶה לָנוּ וּלְבָנֵינוּ וּלִבְנֵי בֵּנֵינוּ, 
 שֶּׁלֹא נֶאֱבָד מְהֵרָ֗ה מֵעַל֙ הָאָ֣רֶץ הַטֹּבָ֔ה׃
 </span></div></td>
 
@@ -110,7 +111,6 @@ please teach us a path forward to take responsibility for the future of this won
 Help us find a way to live, to choose a life of justice, for “the just establish the world,”[foot]Proverbs 10:25 partial[/foot]&nbsp;
 in order that the verse will be upheld through us for our children and our children’s children,
 "Blessed will you be in the city, blessed will you be in the field,"[foot]Deuteronomy 28:3[/foot]&nbsp;
-can be true for us and for our children and our children's children, 
 so that we will not be "lost from off the good earth"![foot]Deuteronomy 11:17[/foot]
 </td>
 </tr>
@@ -119,24 +119,24 @@ so that we will not be "lost from off the good earth"![foot]Deuteronomy 11:17[/f
 <div class="english">
 <h3>Transliteration</h3>
 
-Ribono shel olam, tsivatnu liv’chor bachayyim
+Ribono shel olam, tsivitanu uvacharta bachayyim
 uv’nei doreinu einam hivchinu biv’chirat hachayyim
 
-v’kulanu achrai’im, gam ba’al korcheinu gam mib’chirateinu
-l’hafra’at ha’akilim shesavir l’hagdil has’ara hakat’lanit hazot, ul'rapoto
+v’kulanu achrai’im, ba’al korcheinu o mib’chirateinu, l’hafra’at ha’akilim
+shesavir l’hagdil has’ara hakat’lanit hazot, v’gam achrai’im l’rapo’to.
 
-Atah aleinu lokchim achrayut
-la’azor l’elu shenifga’im al y’dei has’arah
-v’litmokh b’elu shemits’tarfim ba’avodot hahatsalah v’has’ad
-numitpal’lim ba’ad kulam haniz’kakim vchashufim ka’avur sufah
+‫M’vakshim‬ anachnu et hakoach l’kabel ha’achrayut aleinu atah
+la’azor l’eilu shenifga’im al y’dei ha-s’arah
+v’litmokh b’eilu shemits’tarfim ba’avodot hahatsalah v’has’ad ul’chaber itam
+Ba’ad kulam haniz’kakim v’chashufim ka’avur sufah anu mitpal’lim, na l’hoshi’eim.
 
-Hayoseir goyim v’ham’lamed adam da’at
-na l’lamdeinu derekh kadimah lakachat achraiyut al atid ha’olom hanifla’ hazeh
+Atah hayoseir goyim v’ham’lamed adam da’at
+na l’lamdeinu derekh kadimah lakachat acharaiyut zeh el zeh
+v’al atid ha’olom hanifla’
 
 azor lanu lim’tso derekh hachayyim, livchor bachayyim b’tsedek, ki tsadik y’sod olam
 l’ma’an yitkayeim banu liv’neinu v’livnei baneinu hakatuv
 Barukh atah ba’ir, uvarukh atah b’sadeh
-keyn tihyeh lanu ulvanenu ulivnei beneinu
 shelo ne’evad m’heirah mei’al ha’arets hatovah
 </div>
 
