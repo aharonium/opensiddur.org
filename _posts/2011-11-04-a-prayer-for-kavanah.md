@@ -34,6 +34,7 @@ tags:
   - North America
 categories:
   - Shaḥarit
+  - Shaḥarit
   - Needing Translation
 ---
 <div class="english">
