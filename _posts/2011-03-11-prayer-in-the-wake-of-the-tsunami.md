@@ -115,8 +115,9 @@ and fulfill Your words,
 Amen. So may it be your will.
 </div></td>
 </tr>
-</tbody>
-</tbody></tbody></table>
+</tbody></table>
+
+<h3>Transliteration</h3>
 
 <div class="english">
 Avinu SheBaShamayim, Adon Kol HaMa'asim, Ribon Kol HaOlamim,
