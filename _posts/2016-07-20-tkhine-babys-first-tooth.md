@@ -1,0 +1,50 @@
+---
+ID: 14112
+post_title: 'תְּחִנָּה מִגְדַּל הַשֵּׁן | Tkhine for a Baby&#8217;s First Tooth'
+post_name: tkhine-babys-first-tooth
+author: Aharon N. Varady (transcription)
+post_date: 2016-07-20 14:00:17
+post_excerpt: |
+  This is a faithful transcription of the תְּחִנָּה מִגְדַּל הַשֵּׁן ("Tkhine for a Baby's First Tooth") which first appeared in ש״ס תחנה חדשה (<em>Shas Tkhine Ḥaḥadasha</em>), a collection of tkhines published by Ben-Zion Alfes in Vilna, 1922.
+layout: post
+link: >
+  http://opensiddur.org/prayers-for/child-care/tkhine-babys-first-tooth/
+published: true
+tags:
+  - tkhines
+  - breastfeeding
+  - weaning
+  - children
+categories:
+  - Needing Attribution
+  - Needing Source Imaging
+  - Needing Translation
+  - Child care
+---
+<table style="margin-left: auto;margin-right: auto;">
+<tbody>
+<tr><td style="vertical-align:top;" width="46%">
+<div class="yiddish" style="text-align: right;"><span lang="yi">
+(װען עס שנײַדט זיך א צײנדעלע בײַ א קינד)
+</div></td>
+
+<td style="vertical-align:top;" width="53%"><div class="english">
+
+</div></td>
+</tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="yiddish" style="text-align: right;"><span lang="yi">
+גרויסער גאָט, דײַנע װאונדער און דײַן הַשְׁגָחַה אויף דײַנע באשעפענעס איז ניט אויסצודערצײלן, װי דער קינד דארף ארויסגײן אויף אײגענע קעסט (ענטװאנען פון מוטער׳ס ברוסט) גרײטסטו אים צײנער צו מאָלן זײַן שפײַז. איך דאנק און לויב דײַן ליבן נאָמען פאר דעם טײַערן פּרעזענט, די כָּשֶׁר׳ע מְצִיאָה, דעם פּערעלע װאָס איך האָב געפונען בײַ מײַן קינד אין מײַלעלע, און איך בעט דײַן רַחֲמָנוּת דו זאָלסט ניט אָפּטאן דײַן חֶסֶד אויף װײַטער, און העלפן עס זאָל זיך גרינג אויסשנײַדן די איבעריגע צײנדלאך ביז דעם לעצטן, ער זאָל קענען טאָן דײַן רָצוֺן, עסן און קלײַבן גראפטן צו גײן אין חדר לערנען דײַן הײליגע תּוֺרָה. איך בעט דיר גאָט, שטארק זײַן הארץ און העלף אונז מיר זאָלן אים אפּהיטן ער זאָל חָלִילָה מיט די צײנער ניט עסן קײן מַאֲכָלוֺת אֲסוּרוֺת, נאָר ער זאָל זײַן גוט און פרום, גאָט און מענטשן זאלן מיט אים פרײען, אמן.
+</div></td>
+
+<td style="vertical-align:top;" width="53%"><div class="english">
+
+</div></td>
+</tr>
+</tbody>
+</tbody></table>
+
+<hr />
+This is a faithful transcription of the תְּחִנָּה מִגְדַּל הַשֵּׁן ("Tkhine for a Baby's First Tooth") which first appeared in ש״ס תחנה חדשה (<em>Shas Tkhine Ḥadasha</em>), a collection of tkhines published by Ben-Zion Alfes in Vilna, 1922.
