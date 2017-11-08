@@ -14,14 +14,14 @@ published: true
 tags:
   - Israel
   - kavvanah
-  - God as co-worker
   - 57th Century
-  - First day of the week
+  - God as co-worker
   - Petiḥot
-  - kivun
+  - First day of the week
   - 21st century Gregorian
-  - After Sukkot
+  - kivun
   - workers
+  - After Sukkot
   - Jerusalem
   - Post-Ḥag
   - English vernacular prayers
