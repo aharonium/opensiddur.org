@@ -22,10 +22,10 @@ tags:
   - Yiddish vernacular prayer
   - Vilna
   - 56th Century
-  - Scorpio
   - teḥinot
-  - Mazal Aqrav
+  - Scorpio
   - shabbat mevorkhim
+  - Mazal Aqrav
   - new moon
   - Binyamin
   - tkhines
