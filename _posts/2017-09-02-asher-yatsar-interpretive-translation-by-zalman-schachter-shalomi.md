@@ -15,27 +15,27 @@ link: >
   http://opensiddur.org/prayers-for/daytime/birkhot-hashahar/asher-yatsar-interpretive-translation-by-zalman-schachter-shalomi/
 published: true
 tags:
-  - plumbing as metaphor
   - interpretive translation
   - Body as Temple
-  - urination
+  - plumbing as metaphor
   - Bathroom Prayer
-  - Bathroom etiquette
+  - urination
   - אשר יצר
-  - Body as Society
+  - Bathroom etiquette
   - Asher Yatsar
+  - Body as Society
+  - excretion
   - Body as Earth
   - Prayers of Pumbedita
-  - excretion
-  - Prayers in the Babylonian Talmud
   - Late Antiquity
   - Asiyah
-  - Amoraic prayers
+  - Prayers in the Babylonian Talmud
   - English Translation
   - Body as Cosmos
-  - internal plumbing
+  - Amoraic prayers
   - four worlds
   - Adam Kadmon
+  - internal plumbing
 categories:
   - Birkhot Ha-Shaḥar
   - Well-being
