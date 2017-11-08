@@ -16,8 +16,8 @@ tags:
   - 57th Century
   - 21st century Gregorian
   - Jewish Renewal
-  - Neo-Ḥasidic
   - Late Antiquity
+  - Neo-Ḥasidic
   - North America
   - Antiquity
   - English Translation
