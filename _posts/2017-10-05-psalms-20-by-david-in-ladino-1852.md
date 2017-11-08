@@ -19,8 +19,8 @@ tags:
   - Mizmor
   - Psalms 20
   - 56th Century
-  - stress
   - Ottoman Empire
+  - stress
   - Izmir
   - childbirth
   - Ladino Translation
