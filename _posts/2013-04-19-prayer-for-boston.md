@@ -1,0 +1,40 @@
+---
+ID: 6682
+post_title: >
+  תפילה לבאסטאן | Prayer for
+  Boston after the bombing by Rabbi
+  Stephen Belsky
+post_name: prayer-for-boston
+author: Stephen Belsky
+post_date: 2013-04-19 09:36:11
+post_excerpt: "May the One who spoke the world into being, and who blessed humanity created in God's image, and who brought about the miracle of these United States to promote freedom and peace among all people -- bless, guard, and protect all the inhabitants of the Boston area, and strengthen and encourage their leaders, representatives, police officers, and detectives; bring them out from the shadow of death to light, and from danger to relief; and may the verse be fulfilled for them which says, 'God is good to all, and shows mercy to all God's creatures.' And let us say: amein."
+layout: post
+link: >
+  http://opensiddur.org/prayers-for/collective-welfare/trouble/terror/prayer-for-boston/
+published: true
+tags:
+  - tragedy
+  - bombing
+  - Boston
+categories:
+  - Terror
+---
+[caption id="attachment_6689" align="aligncenter" width="200"]<a href="http://opensiddur.org/wp-content/uploads/2013/04/200px-Seal_of_Boston.svg_.png"><img src="http://opensiddur.org/wp-content/uploads/2013/04/200px-Seal_of_Boston.svg_.png" alt="&quot;Seal of Boston, Massachusetts&quot; (credit: John R. Penniman (1822, Public Domain)" width="200" height="200" class="size-full wp-image-6689" /></a> "<a href="http://commons.wikimedia.org/wiki/File:Seal_of_Boston.svg">Seal of Boston, Massachusetts</a>" (credit: John R. Penniman (1822, Public Domain)[/caption]
+
+<table style="margin-left: auto;margin-right: auto;">
+<tbody>
+<tr>
+<td style="vertical-align:top;" width="44%">
+<div class="liturgy"><span  lang="he">
+מִי שֶׁאָמַר וְהָיָה הָעוֹלָם, וּבֵרַךְ אֶת־הָאָדָם אֲשֶׁר בָּרָא בְצַלְמוֹ, וְהִפְלִיא בָאָ֫רֶץ לְהָקִים אֶת־הַמְּדִינוֹת הַמְאֻחָדוֹת הָאֵ֫לֶּה לִהְיוֹת דּוֹרְשֵׁי חֵרוּת וְשָׁלוֹם לְכָל־בִּרְיוֹתָיו, הוּא יְבָרֵךְ וְיִשְׁמֹר וְיִנְצֹר אֶת־כָּל־תּֽוֹשָׁבֵי בָּאסְטָאן וּסְבִֽיבוֹתֶ֫יהָ, וִיחַזֵּק וִיאַמֵּץ אֶת־מַנְהִֽיגֵיהֶם, נְצִֽיגֵיהֶם, שׁוֹטְרֵיהֶם, וּבַלָּֽשֵׁיהֶם, וְיוֹצִיאֵם מִצַּלְמָ֫וֶת לָאוֹר וּמִצָּרָה לִרְוָחָה. וִיקֻיַּם בָּהֶם הַכָּתוּב׃ טוֹב יי לַכֹּל וְרַחֲמָיו עַל־כָּל־מַעֲשָׂיו. וְנֹאמַר׃ אָמֵן.‏
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%"><div class="english">
+May the One who spoke the world into being, and who blessed humanity created in God's image, and who brought about the miracle of these United States to promote freedom and peace among all people -- bless, guard, and protect all the inhabitants of the Boston area, and strengthen and encourage their leaders, representatives, police officers, and detectives; bring them out from the shadow of death to light, and from danger to relief; and may the verse be fulfilled for them which says, 'God is good to all, and shows mercy to all God's creatures.'[foot]Psalms 145:9[/foot] And let us say: amein.
+</td></tr>
+</tbody>
+</tbody></tbody></tbody></table>
+
+<hr />
+This prayer was first said at the middle school minyan of <a href="http://www.akiva.org">Yeshivat Akiva / Akiva Hebrew Day School</a> this morning (9 Iyyar, 5773/April 19th, 2013).
+<em>Niqqud</em> and additional editing provided by Gabriel Wasserman.
