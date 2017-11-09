@@ -19,19 +19,19 @@ link: >
   http://opensiddur.org/prayers-for/daytime/birds-of-passage-flight-the-first-sandalphon-by-henry-wadsworth-longfellow/
 published: true
 tags:
-  - 56th Century
   - romanticism
+  - 56th Century
   - Angels
   - Hekhalot
   - Wheel
-  - Angelic Nature
   - Wreath
-  - Qedushah
+  - Angelic Nature
   - Crown
-  - Coronation
+  - Qedushah
   - Keter
-  - Sandalphon
+  - Coronation
   - 19th century Gregorian
+  - Sandalphon
 categories:
   - Daytime
 ---
