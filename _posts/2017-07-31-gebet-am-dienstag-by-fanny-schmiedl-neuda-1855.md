@@ -17,8 +17,8 @@ tags:
   - Teḥinot in German
   - Bohemia
   - Psalm of the Day
-  - Shir Shel Yom
   - Third Day of Creation
+  - Shir Shel Yom
   - paraliturgical teḥinot
   - Paraliturgical Psalms 82
   - 56th Century
