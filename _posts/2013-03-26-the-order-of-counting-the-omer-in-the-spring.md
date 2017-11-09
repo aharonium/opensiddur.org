@@ -13,8 +13,8 @@ link: >
   http://opensiddur.org/prayers-for/special-days/pilgrimage/sefirat-haomer/the-order-of-counting-the-omer-in-the-spring/
 published: true
 tags:
-  - eco-conscious
   - growth
+  - eco-conscious
   - trepidation
   - watchfulness
   - apprehension
