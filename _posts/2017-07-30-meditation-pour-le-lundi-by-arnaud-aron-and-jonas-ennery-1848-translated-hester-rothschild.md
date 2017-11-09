@@ -17,8 +17,8 @@ tags:
   - Psalm of the Day
   - Shir Shel Yom
   - British Jewry
-  - Paraliturgical Psalms 48
   - French Jewry
+  - Paraliturgical Psalms 48
   - paraliturgical teḥinot
   - Loose Translation
   - 56th Century
