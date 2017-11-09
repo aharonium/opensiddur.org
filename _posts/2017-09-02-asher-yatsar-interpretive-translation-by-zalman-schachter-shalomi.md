@@ -24,18 +24,18 @@ tags:
   - Bathroom etiquette
   - Asher Yatsar
   - Body as Society
-  - Prayers of Pumbedita
   - excretion
   - Body as Earth
-  - Prayers in the Babylonian Talmud
+  - Prayers of Pumbedita
   - Late Antiquity
   - Asiyah
-  - Amoraic prayers
+  - Prayers in the Babylonian Talmud
   - English Translation
   - Body as Cosmos
-  - internal plumbing
+  - Amoraic prayers
   - four worlds
   - Adam Kadmon
+  - internal plumbing
 categories:
   - Birkhot Ha-Shaḥar
   - Well-being
