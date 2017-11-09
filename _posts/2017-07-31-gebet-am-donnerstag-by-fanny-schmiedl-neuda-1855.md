@@ -17,8 +17,8 @@ tags:
   - Bohemia
   - Psalm of the Day
   - Shir Shel Yom
-  - Fifth Day of Creation
   - Thursday
+  - Fifth Day of Creation
   - paraliturgical teḥinot
   - Paraliturgical Psalms 81
   - 56th Century
