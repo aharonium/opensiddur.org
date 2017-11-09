@@ -17,8 +17,8 @@ tags:
   - Bohemia
   - Psalm of the Day
   - Shir Shel Yom
-  - Paraliturgical Psalms 94
   - Wednesday
+  - Paraliturgical Psalms 94
   - paraliturgical teḥinot
   - Fourth Day of Creation
   - 56th Century
