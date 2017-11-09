@@ -17,18 +17,18 @@ link: >
   http://opensiddur.org/prayers-for/seasons/by-month/elul/slihot-prayers-to-the-inner-child-within-us/
 published: true
 tags:
-  - על חטא
   - seliḥot
+  - על חטא
   - Al Ḥet
   - New York
   - 57th Century
   - 21st century Gregorian
-  - Correspondence as prayer
   - Elul Zman
-  - Correspondence to self
+  - Correspondence as prayer
   - elul
-  - Prayers to self
+  - Correspondence to self
   - North America
+  - Prayers to self
 categories:
   - Elul
   - Tshuvah
