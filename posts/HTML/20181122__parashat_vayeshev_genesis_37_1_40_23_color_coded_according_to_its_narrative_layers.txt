@@ -1,0 +1,330 @@
+<div class="english"style="font-size:1.2em">
+According to the poetry of the Midrash Tanchuma, Bereshit 1:1, the words of the Torah were inscribed "black fire on white fire." For many years, I've wanted to look deeply into the black fire and visualize the full spectrum of the Torah's sources, hidden within the black fire but revealed through  a critical analysis of its layers of <a href="https://en.wikipedia.org/wiki/Redaction_criticism">redaction</a>. Below, I've set the text of the first Torah portion in the annual Torah reading cycle, using color-coding to distinguish the stratigraphic layers forming the composition of the Masoretic text according to the <a href="https://en.wikipedia.org/wiki/Supplementary_hypothesis">Supplementary Hypothesis</a> presented by Tsemaḥ Yoreh in his <a href="http://books.google.com/books?id=tpLIngEACAAJ">Kernel to Canon</a> series of books (2013-2017). As Dr. Yoreh explains, 
+
+<blockquote>The Supplementary Hypothesis asserts that the Pentateuch was composed by several different writers. This reflects an overwhelming academic consensus on Biblical authorship, even among scholars who do not subscribe to the Supplementary Hypothesis in particular.[....] According to the Supplementary Hypothesis, Biblical narrative is layered. No editor took a blowtorch to the parts of the Bible he disagreed with and destroyed them; if he had, we would not find these repetitions and contradictions. Instead, Biblical narrative began with a coherent, foundational bedrock, which over time accreted more and more storylines. Unlike geological processes, though, this process of addition was deliberate. What happened if one author disagreed with his predecessor’s storyline or worldview? He did not simply take an axe to the narrative; instead, he attempted to bury his predecessor’s point of view by repeating his own over and over again, thus skewing our understanding of the story in new ways. Every generation of readers sees the world differently, and thus every generation of writers seeks to adapt their predecessors’ cultural heritage to their own situation. We are not meant simply to dismiss earlier stories; rather, the intention of later writers is to transform our understanding of those stories via their additions.</blockquote>
+
+<span class="e">&#11035; The kernel of biblical text upon which all other narratives were laid is thought to have been composed in the mid- to late eighth century BCE toward the end of the heyday of the northern Kingdom of Ephraim (one of the two kingdoms that occupied Biblical Israel). This layer, commonly referred to as 'E', is indicated with INDIGO text. The first parashah in Genesis containing text of this layer was <a href="https://opensiddur.org/liturgical-readings/torah-readings/annual-cycle/sefer-bereshit/parashat-vayera/parashat-vayera-color-coded-according-to-its-narrative-layers/">parashat Vayera</a>.</span>
+
+<span class="j">&#11035; The next oldest layer is thought to have been composed in the late eighth or early seventh century BCE in the southern Kingdom of Judah. This layer, commonly known as 'J', is indicated with a BLUE text.</span> 
+
+<span class="p">&#11035; The next strata, thought to have been composed during the exilic to early post-exilic period (571–486 BCE) is, as Dr. Yoreh explains, "responsible for supplementing the 'J' narrative with dates, names, and numbers, thus 'ordering' and authenticating 'J's account." This layer, commonly referred to as 'P' (for 'Priestly') appears here in GREEN text.</span>
+
+<span class="b">&#11035; The most recent layer of text, is a post-exilic (pre-3rd century BCE) text that Dr. Yoreh refers to as the "Bridger" which supplements earlier strata with genealogies and popular myths, providing narrative bridges between distant story cycles. This 'B' layer is presented here in FUCHSIA.</span>
+
+Parashat Vayeshev (Genesis 37:1-40:23) in the annual Torah reading cycle, is read on the third shabbat of the month of Kislev. The parashah is preceded by <a href="https://opensiddur.org/readings-and-sourcetexts/torah-readings/annual-cycle/sefer-bereshit/parashat-vayishlah/parashat-vayishlah-color-coded-according-to-its-narrative-layers/">Vayishlaḥ</a> (Genesis 32:4-36:43); parashat <a href="https://opensiddur.org/readings-and-sourcetexts/torah-readings/annual-cycle/sefer-bereshit/parashat-miqets/parashat-miqets-color-coded-according-to-its-narrative-layers/">Miqets</a> (Genesis 41:1–44:17) follows it.
+</div>
+
+<table style="margin-left: auto;margin-right: auto;" class="draggable">
+<thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
+<tbody>
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+<span class="p">לז <sup>א</sup>&nbsp;וַיֵּ֣שֶׁב יַעֲקֹ֔ב בְּאֶ֖רֶץ מְגוּרֵ֣י אָבִ֑יו בְּאֶ֖רֶץ כְּנָֽעַן׃ <sup>ב</sup>&nbsp;אֵ֣לֶּה ׀ תֹּלְד֣וֹת יַעֲקֹ֗ב יוֹסֵ֞ף בֶּן־שְׁבַֽע־עֶשְׂרֵ֤ה שָׁנָה֙ הָיָ֨ה רֹעֶ֤ה אֶת־אֶחָיו֙ בַּצֹּ֔אן וְה֣וּא נַ֗עַר אֶת־בְּנֵ֥י בִלְהָ֛ה וְאֶת־בְּנֵ֥י זִלְפָּ֖ה נְשֵׁ֣י אָבִ֑יו וַיָּבֵ֥א יוֹסֵ֛ף אֶת־דִּבָּתָ֥ם רָעָ֖ה אֶל־אֲבִיהֶֽם׃ </span>
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+<span class="p">37 <sup>1</sup>&nbsp;Yaakov settled in the land of his father's sojournings, in the land of K'naan. <sup>2</sup>&nbsp;These are the progeny of Yaakov. Yosef, seventeen years old, used to tend the sheep along with his brothers, for he was serving-lad with the sons of Bilhah and the sons of Zilpah, his father's wives. And Yosef brought a report of them, an ill one, to their father.</span>
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+<span class="e"><sup>ג</sup>&nbsp;וְיִשְׂרָאֵ֗ל אָהַ֤ב אֶת־יוֹסֵף֙ מִכׇּל־בָּנָ֔יו כִּֽי־בֶן־זְקֻנִ֥ים ה֖וּא ל֑וֹ וְעָ֥שָׂה ל֖וֹ כְּתֹ֥נֶת פַּסִּֽים׃ <sup>ד</sup>&nbsp;וַיִּרְא֣וּ אֶחָ֗יו כִּֽי־אֹת֞וֹ אָהַ֤ב אֲבִיהֶם֙ מִכׇּל־אֶחָ֔יו וַֽיִּשְׂנְא֖וּ אֹת֑וֹ וְלֹ֥א יָכְל֖וּ דַּבְּר֥וֹ לְשָׁלֹֽם׃ <sup>ה</sup>&nbsp;וַיַּחֲלֹ֤ם יוֹסֵף֙ חֲל֔וֹם וַיַּגֵּ֖ד לְאֶחָ֑יו וַיּוֹסִ֥פוּ ע֖וֹד שְׂנֹ֥א אֹתֽוֹ׃ <sup>ו</sup>&nbsp;וַיֹּ֖אמֶר אֲלֵיהֶ֑ם שִׁמְעוּ־נָ֕א הַחֲל֥וֹם הַזֶּ֖ה אֲשֶׁ֥ר חָלָֽמְתִּי׃ <sup>ז</sup>&nbsp;וְ֠הִנֵּ֠ה אֲנַ֜חְנוּ מְאַלְּמִ֤ים אֲלֻמִּים֙ בְּת֣וֹךְ הַשָּׂדֶ֔ה וְהִנֵּ֛ה קָ֥מָה אֲלֻמָּתִ֖י וְגַם־נִצָּ֑בָה וְהִנֵּ֤ה תְסֻבֶּ֙ינָה֙ אֲלֻמֹּ֣תֵיכֶ֔ם וַתִּֽשְׁתַּחֲוֶ֖יןָ לַאֲלֻמָּתִֽי׃ <sup>ח</sup>&nbsp;וַיֹּ֤אמְרוּ לוֹ֙ אֶחָ֔יו הֲמָלֹ֤ךְ תִּמְלֹךְ֙ עָלֵ֔ינוּ אִם־מָשׁ֥וֹל תִּמְשֹׁ֖ל בָּ֑נוּ וַיּוֹסִ֤פוּ עוֹד֙ שְׂנֹ֣א אֹת֔וֹ עַל־חֲלֹמֹתָ֖יו וְעַל־דְּבָרָֽיו׃ </span>
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+<span class="e"><sup>3</sup>&nbsp;Now Yisrael loved Yosef above all his sons, for he was a son of old age to him, so he made him an ornamented coat. <sup>4</sup>&nbsp;When his brothers saw that it was he whom their father loved above all his brothers, they hated him, and could not speak to him in peace. <sup>5</sup>&nbsp;Now Yosef dreamt a dream, and told it to his brothers – from then on they hated him still more – <sup>6</sup>&nbsp;he said to them: "Pray hear this dream that I have dreamt: <sup>7</sup>&nbsp;Here, we were binding sheaf-bundles out in the field, and here, my sheaf arose, it was standing upright, and here, your sheaves were circling round and bowing down to my sheaf!" <sup>8</sup>&nbsp;His brothers said to him: "Would you be king, yes, king over us? Or would you really rule, yes, rule us?" From then on they hated him still more – for his dreams, for his words.</span>
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+<span class="j"><sup>ט</sup>&nbsp;וַיַּחֲלֹ֥ם עוֹד֙ חֲל֣וֹם אַחֵ֔ר וַיְסַפֵּ֥ר אֹת֖וֹ לְאֶחָ֑יו וַיֹּ֗אמֶר הִנֵּ֨ה חָלַ֤מְתִּֽי חֲלוֹם֙ ע֔וֹד וְהִנֵּ֧ה הַשֶּׁ֣מֶשׁ וְהַיָּרֵ֗חַ וְאַחַ֤ד עָשָׂר֙ כּֽוֹכָבִ֔ים מִֽשְׁתַּחֲוִ֖ים לִֽי׃ <sup>י</sup>&nbsp;וַיְסַפֵּ֣ר אֶל־אָבִיו֮ וְאֶל־אֶחָיו֒ וַיִּגְעַר־בּ֣וֹ אָבִ֔יו וַיֹּ֣אמֶר ל֔וֹ מָ֛ה הַחֲל֥וֹם הַזֶּ֖ה אֲשֶׁ֣ר חָלָ֑מְתָּ הֲב֣וֹא נָב֗וֹא אֲנִי֙ וְאִמְּךָ֣ וְאַחֶ֔יךָ לְהִשְׁתַּחֲוֺ֥ת לְךָ֖ אָֽרְצָה׃ <sup>יא</sup>&nbsp;וַיְקַנְאוּ־ב֖וֹ אֶחָ֑יו וְאָבִ֖יו שָׁמַ֥ר אֶת־הַדָּבָֽר׃ </span>
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+<span class="j"><sup>9</sup>&nbsp;But he dreamt still another dream, and recounted it to his brothers, he said: "Here, I have dreamt still (another) dream: Here, the sun and the moon and eleven stars were bowing down to me!" <sup>10</sup>&nbsp;When he recounted it to his father and his brothers, his father rebuked him and said to him: "What kind of dream is this that you have dreamt! Shall we come, yes, come, I, your mother and your brothers, to bow down to you to the ground?" <sup>11</sup>&nbsp;His brothers envied him, while his father kept the matter in mind.</span>
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+<span class="e"><mark>שני</mark> <sup>יב</sup>&nbsp;וַיֵּלְכ֖וּ אֶחָ֑יו לִרְע֛וֹת אֶׄתׄ־צֹ֥אן אֲבִיהֶ֖ם בִּשְׁכֶֽם׃ <sup>יג</sup>&nbsp;וַיֹּ֨אמֶר יִשְׂרָאֵ֜ל אֶל־יוֹסֵ֗ף הֲל֤וֹא אַחֶ֙יךָ֙ רֹעִ֣ים בִּשְׁכֶ֔ם לְכָ֖ה וְאֶשְׁלָחֲךָ֣ אֲלֵיהֶ֑ם וַיֹּ֥אמֶר ל֖וֹ הִנֵּֽנִי׃ </span> <span class="j"><sup>יד</sup>&nbsp;וַיֹּ֣אמֶר ל֗וֹ לֶךְ־נָ֨א רְאֵ֜ה אֶת־שְׁל֤וֹם אַחֶ֙יךָ֙ וְאֶת־שְׁל֣וֹם הַצֹּ֔אן וַהֲשִׁבֵ֖נִי דָּבָ֑ר וַיִּשְׁלָחֵ֙הוּ֙ מֵעֵ֣מֶק חֶבְר֔וֹן וַיָּבֹ֖א שְׁכֶֽמָה׃ </span>
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+<span class="e"><sup>12</sup>&nbsp;Now his brothers went to tend their father's sheep in Shekhem. <sup>13</sup>&nbsp;Yisrael said to Yosef: "Are not your brothers tending sheep in Shekhem? Come, I will send you to them!" He said to him: "Here I am."</span> <span class="j"><sup>14</sup>&nbsp;And he said to him: "Come, pray, look into the well-being of your brothers and into the well-being of the sheep, and bring me back word."</span> <span class="e">So he sent him out from the valley of Ḥevron, and he came to Shekhem.</span>
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+<span class="j"><sup>טו</sup>&nbsp;וַיִּמְצָאֵ֣הוּ אִ֔ישׁ וְהִנֵּ֥ה תֹעֶ֖ה בַּשָּׂדֶ֑ה וַיִּשְׁאָלֵ֧הוּ הָאִ֛ישׁ לֵאמֹ֖ר מַה־תְּבַקֵּֽשׁ׃ <sup>טז</sup>&nbsp;וַיֹּ֕אמֶר אֶת־אַחַ֖י אָנֹכִ֣י מְבַקֵּ֑שׁ הַגִּֽידָה־נָּ֣א לִ֔י אֵיפֹ֖ה הֵ֥ם רֹעִֽים׃ <sup>יז</sup>&nbsp;וַיֹּ֤אמֶר הָאִישׁ֙ נָסְע֣וּ מִזֶּ֔ה כִּ֤י שָׁמַ֙עְתִּי֙ אֹֽמְרִ֔ים נֵלְכָ֖ה דֹּתָ֑יְנָה וַיֵּ֤לֶךְ יוֹסֵף֙ אַחַ֣ר אֶחָ֔יו וַיִּמְצָאֵ֖ם בְּדֹתָֽן׃ </span> <span class="e"><sup>יח</sup>&nbsp;וַיִּרְא֥וּ אֹת֖וֹ מֵרָחֹ֑ק וּבְטֶ֙רֶם֙ יִקְרַ֣ב אֲלֵיהֶ֔ם וַיִּֽתְנַכְּל֥וּ אֹת֖וֹ לַהֲמִיתֽוֹ׃ <sup>יט</sup>&nbsp;וַיֹּאמְר֖וּ אִ֣ישׁ אֶל־אָחִ֑יו הִנֵּ֗ה בַּ֛עַל הַחֲלֹמ֥וֹת הַלָּזֶ֖ה בָּֽא׃ <sup>כ</sup>&nbsp;וְעַתָּ֣ה ׀ לְכ֣וּ וְנַֽהַרְגֵ֗הוּ וְנַשְׁלִכֵ֙הוּ֙ בְּאַחַ֣ד הַבֹּר֔וֹת וְאָמַ֕רְנוּ חַיָּ֥ה רָעָ֖ה אֲכָלָ֑תְהוּ וְנִרְאֶ֕ה מַה־יִּהְי֖וּ חֲלֹמֹתָֽיו׃ </span>
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+<span class="j"><sup>15</sup>&nbsp;And a man came upon him – here, he was roaming in the field; the man asked him, saying: "What do you seek?" <sup>16</sup>&nbsp;He said: "I seek my brothers, pray tell me where they are tending-sheep." <sup>17</sup>&nbsp;The man said: "They have moved on from here, indeed, I heard them say: 'Let us go to Dotan.'" Yosef went after his brothers and came upon them in Dotan.</span> <span class="e"><sup>18</sup>&nbsp;They saw him from afar, and before he had gotten near them, they plotted-cunningly against him to cause his death. <sup>19</sup>&nbsp;They said each man to his brother: "Here comes the master dreamer! <sup>20</sup>&nbsp;So now, come, let us kill him and throw him into one of these pits and say: 'An ill-tempered beast has devoured him!' Then we will see what becomes of his dreams!"</span>
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+<span class="e"><sup>כא</sup>&nbsp;וַיִּשְׁמַ֣ע רְאוּבֵ֔ן וַיַּצִּלֵ֖הוּ מִיָּדָ֑ם וַיֹּ֕אמֶר לֹ֥א נַכֶּ֖נּוּ נָֽפֶשׁ׃ <sup>כב</sup>&nbsp;וַיֹּ֨אמֶר אֲלֵהֶ֣ם ׀ רְאוּבֵן֮ אַל־תִּשְׁפְּכוּ־דָם֒ הַשְׁלִ֣יכוּ אֹת֗וֹ אֶל־הַבּ֤וֹר הַזֶּה֙ אֲשֶׁ֣ר בַּמִּדְבָּ֔ר וְיָ֖ד אַל־תִּשְׁלְחוּ־ב֑וֹ לְמַ֗עַן הַצִּ֤יל אֹתוֹ֙ מִיָּדָ֔ם לַהֲשִׁיב֖וֹ אֶל־אָבִֽיו׃ </span>
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+<span class="e"><sup>21</sup>&nbsp;When Re'uven heard it he tried to rescue him from their hand, he said: "Let us not take his life!" <sup>22</sup>&nbsp;And Re'uven said to them: "Do not shed blood! Throw him into this pit that is in the wilderness, but do not lay a hand upon him!" – in order that he might save him from their hand, to return him to his father.</span>
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+<span class="e"><mark>שלישי</mark> <sup>כג</sup>&nbsp;וַֽיְהִ֕י כַּֽאֲשֶׁר־בָּ֥א יוֹסֵ֖ף אֶל־אֶחָ֑יו וַיַּפְשִׁ֤יטוּ אֶת־יוֹסֵף֙ אֶת־כֻּתׇּנְתּ֔וֹ אֶת־כְּתֹ֥נֶת הַפַּסִּ֖ים אֲשֶׁ֥ר עָלָֽיו׃ <sup>כד</sup>&nbsp;וַיִּ֨קָּחֻ֔הוּ וַיַּשְׁלִ֥כוּ אֹת֖וֹ הַבֹּ֑רָה וְהַבּ֣וֹר רֵ֔ק אֵ֥ין בּ֖וֹ מָֽיִם׃ </span>
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+<span class="e"><sup>23</sup>&nbsp;So it was, when Yosef came to his brothers, that they stripped Yosef of his coat, the ornamented coat that he had on, <sup>24</sup>&nbsp;and took him and cast him into the pit. Now the pit was empty – no water in it.</span>
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+<span class="j"><sup>כה</sup>&nbsp;וַיֵּשְׁבוּ֮ לֶֽאֱכׇל־לֶ֒חֶם֒ וַיִּשְׂא֤וּ עֵֽינֵיהֶם֙ וַיִּרְא֔וּ וְהִנֵּה֙ אֹרְחַ֣ת יִשְׁמְעֵאלִ֔ים בָּאָ֖ה מִגִּלְעָ֑ד וּגְמַלֵּיהֶ֣ם נֹֽשְׂאִ֗ים נְכֹאת֙ וּצְרִ֣י וָלֹ֔ט הוֹלְכִ֖ים לְהוֹרִ֥יד מִצְרָֽיְמָה׃ <sup>כו</sup>&nbsp;וַיֹּ֥אמֶר יְהוּדָ֖ה אֶל־אֶחָ֑יו מַה־בֶּ֗צַע כִּ֤י נַהֲרֹג֙ אֶת־אָחִ֔ינוּ וְכִסִּ֖ינוּ אֶת־דָּמֽוֹ׃ <sup>כז</sup>&nbsp;לְכ֞וּ וְנִמְכְּרֶ֣נּוּ לַיִּשְׁמְעֵאלִ֗ים וְיָדֵ֙נוּ֙ אַל־תְּהִי־ב֔וֹ כִּֽי־אָחִ֥ינוּ בְשָׂרֵ֖נוּ ה֑וּא וַֽיִּשְׁמְע֖וּ אֶחָֽיו׃ </span> <span class="e"><sup>כח</sup>&nbsp;וַיַּֽעַבְרוּ֩ אֲנָשִׁ֨ים מִדְיָנִ֜ים סֹֽחֲרִ֗ים וַֽיִּמְשְׁכוּ֙ וַיַּֽעֲל֤וּ אֶת־יוֹסֵף֙ מִן־הַבּ֔וֹר</span> <span class="j">וַיִּמְכְּר֧וּ אֶת־יוֹסֵ֛ף לַיִּשְׁמְעֵאלִ֖ים בְּעֶשְׂרִ֣ים כָּ֑סֶף</span> <span class="e">וַיָּבִ֥יאוּ אֶת־יוֹסֵ֖ף מִצְרָֽיְמָה׃ </span>
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+<span class="j"><sup>25</sup>&nbsp;And they sat down to eat bread. They lifted up their eyes and saw: there was a caravan of Yishmaelim coming from Gil'ad, their camels carrying balm, balsam, and ladanum, traveling to take them down to Mitsrayim. <sup>26</sup>&nbsp;Now Yehudah said to his brothers: "What gain is there if we kill our brother and cover up his blood? <sup>27</sup>&nbsp;Come, let us sell him to the Yishmaelim – but let not our hand be upon him, for he is our brother, our flesh!" And his brothers listened to him.</span> <span class="e"><sup>28</sup>&nbsp;Meanwhile, some Midyanite men, merchants, passed by; they hauled up Yosef from the pit</span> <span class="j">and sold Yosef to the Yishmaelim, for twenty pieces-of-silver.</span> <span class="e">They brought Yosef to Mitsrayim.</span>
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+<span class="e"><sup>כט</sup>&nbsp;וַיָּ֤שׇׁב רְאוּבֵן֙ אֶל־הַבּ֔וֹר וְהִנֵּ֥ה אֵין־יוֹסֵ֖ף בַּבּ֑וֹר וַיִּקְרַ֖ע אֶת־בְּגָדָֽיו׃ <sup>ל</sup>&nbsp;וַיָּ֥שׇׁב אֶל־אֶחָ֖יו וַיֹּאמַ֑ר הַיֶּ֣לֶד אֵינֶ֔נּוּ וַאֲנִ֖י אָ֥נָה אֲנִי־בָֽא׃ </span> <span class="j"><sup>לא</sup>&nbsp;וַיִּקְח֖וּ אֶת־כְּתֹ֣נֶת יוֹסֵ֑ף וַֽיִּשְׁחֲטוּ֙ שְׂעִ֣יר עִזִּ֔ים וַיִּטְבְּל֥וּ אֶת־הַכֻּתֹּ֖נֶת בַּדָּֽם׃ <sup>לב</sup>&nbsp;וַֽיְשַׁלְּח֞וּ אֶת־כְּתֹ֣נֶת הַפַּסִּ֗ים וַיָּבִ֙יאוּ֙ אֶל־אֲבִיהֶ֔ם וַיֹּאמְר֖וּ זֹ֣את מָצָ֑אנוּ הַכֶּר־נָ֗א הַכְּתֹ֧נֶת בִּנְךָ֛ הִ֖וא אִם־לֹֽא׃ <sup>לג</sup>&nbsp;וַיַּכִּירָ֤הּ וַיֹּ֙אמֶר֙ כְּתֹ֣נֶת בְּנִ֔י חַיָּ֥ה רָעָ֖ה אֲכָלָ֑תְהוּ טָרֹ֥ף טֹרַ֖ף יוֹסֵֽף׃ <sup>לד</sup>&nbsp;וַיִּקְרַ֤ע יַעֲקֹב֙ שִׂמְלֹתָ֔יו וַיָּ֥שֶׂם שַׂ֖ק בְּמׇתְנָ֑יו וַיִּתְאַבֵּ֥ל עַל־בְּנ֖וֹ יָמִ֥ים רַבִּֽים׃ <sup>לה</sup>&nbsp;וַיָּקֻ֩מוּ֩ כׇל־בָּנָ֨יו וְכׇל־בְּנֹתָ֜יו לְנַחֲמ֗וֹ וַיְמָאֵן֙ לְהִתְנַחֵ֔ם וַיֹּ֕אמֶר כִּֽי־אֵרֵ֧ד אֶל־בְּנִ֛י אָבֵ֖ל שְׁאֹ֑לָה וַיֵּ֥בְךְּ אֹת֖וֹ אָבִֽיו׃ </span> <span class="e"><sup>לו</sup>&nbsp;וְהַ֨מְּדָנִ֔ים מָכְר֥וּ אֹת֖וֹ אֶל־מִצְרָ֑יִם לְפֽוֹטִיפַר֙ סְרִ֣יס פַּרְעֹ֔ה שַׂ֖ר הַטַּבָּחִֽים׃</span>
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+<span class="e"><sup>29</sup>&nbsp;When Re'uven returned to the pit: here, Yosef was no more in the pit! He rent his garments <sup>30</sup>&nbsp;and returned to his brothers and said: "The child is no more! And I – where am I to go?"</span> <span class="j"><sup>31</sup>&nbsp;But they took Yosef's coat, they slew a hairy goat and dipped the coat in the blood. <sup>32</sup>&nbsp;They had the ornamented coat sent out and had it brought to their father and said: "We found this; pray recognize whether it is your son's coat or not!" <sup>33</sup>&nbsp;He recognized it and said: "My son's coat! An ill-tempered beast has devoured him! Yosef is torn, torn-to-pieces!" <sup>34</sup>&nbsp;Yaakov rent his clothes, he put sackcloth on his loins and mourned his son for many days. <sup>35</sup>&nbsp;All his sons and daughters arose to comfort him, but he refused to be comforted. He said: "No, I will go down to my son in mourning, to Sheol!" Thus his father wept for him.</span> <span class="e"><sup>36</sup>&nbsp;Meanwhile, the Midyanites had sold him into Mitsrayim to Potifar, Pharaoh's court-official, Chief of the (palace) Guard.</span>
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+<span class="b"><mark>רביעי</mark> לח <sup>א</sup>&nbsp;וַֽיְהִי֙ בָּעֵ֣ת הַהִ֔וא וַיֵּ֥רֶד יְהוּדָ֖ה מֵאֵ֣ת אֶחָ֑יו וַיֵּ֛ט עַד־אִ֥ישׁ עֲדֻלָּמִ֖י וּשְׁמ֥וֹ חִירָֽה׃ <sup>ב</sup>&nbsp;וַיַּרְא־שָׁ֧ם יְהוּדָ֛ה בַּת־אִ֥ישׁ כְּנַעֲנִ֖י וּשְׁמ֣וֹ שׁ֑וּעַ וַיִּקָּחֶ֖הָ וַיָּבֹ֥א אֵלֶֽיהָ׃ <sup>ג</sup>&nbsp;וַתַּ֖הַר וַתֵּ֣לֶד בֵּ֑ן וַיִּקְרָ֥א אֶת־שְׁמ֖וֹ עֵֽר׃ <sup>ד</sup>&nbsp;וַתַּ֥הַר ע֖וֹד וַתֵּ֣לֶד בֵּ֑ן וַתִּקְרָ֥א אֶת־שְׁמ֖וֹ אוֹנָֽן׃ <sup>ה</sup>&nbsp;וַתֹּ֤סֶף עוֹד֙ וַתֵּ֣לֶד בֵּ֔ן וַתִּקְרָ֥א אֶת־שְׁמ֖וֹ שֵׁלָ֑ה וְהָיָ֥ה בִכְזִ֖יב בְּלִדְתָּ֥הּ אֹתֽוֹ׃ <sup>ו</sup>&nbsp;וַיִּקַּ֧ח יְהוּדָ֛ה אִשָּׁ֖ה לְעֵ֣ר בְּכוֹר֑וֹ וּשְׁמָ֖הּ תָּמָֽר׃ <sup>ז</sup>&nbsp;וַיְהִ֗י עֵ֚ר בְּכ֣וֹר יְהוּדָ֔ה רַ֖ע בְּעֵינֵ֣י יְהֹוָ֑ה וַיְמִתֵ֖הוּ יְהֹוָֽה׃ <sup>ח</sup>&nbsp;וַיֹּ֤אמֶר יְהוּדָה֙ לְאוֹנָ֔ן בֹּ֛א אֶל־אֵ֥שֶׁת אָחִ֖יךָ וְיַבֵּ֣ם אֹתָ֑הּ וְהָקֵ֥ם זֶ֖רַע לְאָחִֽיךָ׃ <sup>ט</sup>&nbsp;וַיֵּ֣דַע אוֹנָ֔ן כִּ֛י לֹּ֥א ל֖וֹ יִהְיֶ֣ה הַזָּ֑רַע וְהָיָ֞ה אִם־בָּ֨א אֶל־אֵ֤שֶׁת אָחִיו֙ וְשִׁחֵ֣ת אַ֔רְצָה לְבִלְתִּ֥י נְתׇן־זֶ֖רַע לְאָחִֽיו׃ <sup>י</sup>&nbsp;וַיֵּ֛רַע בְּעֵינֵ֥י יְהֹוָ֖ה אֲשֶׁ֣ר עָשָׂ֑ה וַיָּ֖מֶת גַּם־אֹתֽוֹ׃ <sup>יא</sup>&nbsp;וַיֹּ֣אמֶר יְהוּדָה֩ לְתָמָ֨ר כַּלָּת֜וֹ שְׁבִ֧י אַלְמָנָ֣ה בֵית־אָבִ֗יךְ עַד־יִגְדַּל֙ שֵׁלָ֣ה בְנִ֔י כִּ֣י אָמַ֔ר פֶּן־יָמ֥וּת גַּם־ה֖וּא כְּאֶחָ֑יו וַתֵּ֣לֶךְ תָּמָ֔ר וַתֵּ֖שֶׁב בֵּ֥ית אָבִֽיהָ׃ </span>
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+<span class="b">38 <sup>1</sup>&nbsp;Now it was at about that time that Yehudah went down, away from his brothers and turned aside to an Adullami man – his name was Ḥirah. <sup>2</sup>&nbsp;There Yehudah saw the daughter of a K'naani man – his name was Shua, he took her (as his wife) and came in to her. <sup>3</sup>&nbsp;She became pregnant and bore a son, and he called his name: Er. <sup>4</sup>&nbsp;She became pregnant again and bore a son, and she called his name: Onan. <sup>5</sup>&nbsp;Once again she bore a son, and she called his name: Sheilah. Now he was in K'ziv when she bore him. <sup>6</sup>&nbsp;Yehudah took a wife for Er, his firstborn – her name was Tamar. <sup>7</sup>&nbsp;But Er, Yehudah's firstborn, did ill in the eyes of YHVH, and YHVH caused him to die. <sup>8</sup>&nbsp;Yehudah said to Onan: "Come in to your brother's wife, do a brother-in-law's duty by her, to preserve seed for your brother!" <sup>9</sup>&nbsp;But Onan knew that the seed would not be his, so it was, whenever he came in to his brother's wife, he let it go to ruin on the ground, so as not to provide seed for his brother. <sup>10</sup>&nbsp;What he did was ill in the eyes of YHVH, and he caused him to die as well. <sup>11</sup>&nbsp;Now Yehudah said to Tamar his daughter-in-law: "Sit as a widow in your father's house until Sheilah my son has grown up." For he said to himself: "Otherwise he will die as well, like his brothers!" So Tamar went and stayed in her father's house.</span>
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+<span class="b"><sup>יב</sup>&nbsp;וַיִּרְבּוּ֙ הַיָּמִ֔ים וַתָּ֖מׇת בַּת־שׁ֣וּעַ אֵֽשֶׁת־יְהוּדָ֑ה וַיִּנָּ֣חֶם יְהוּדָ֗ה וַיַּ֜עַל עַל־גֹּֽזְזֵ֤י צֹאנוֹ֙ ה֗וּא וְחִירָ֛ה רֵעֵ֥הוּ הָעֲדֻלָּמִ֖י תִּמְנָֽתָה׃ <sup>יג</sup>&nbsp;וַיֻּגַּ֥ד לְתָמָ֖ר לֵאמֹ֑ר הִנֵּ֥ה חָמִ֛יךְ עֹלֶ֥ה תִמְנָ֖תָה לָגֹ֥ז צֹאנֽוֹ׃ </span>
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+<span class="b"><sup>12</sup>&nbsp;And many days passed. Now Shua's daughter, Yehudah's wife, died. When Yehudah had been comforted, he went up to his sheep-shearers, he and his friend Ḥirah the Adullami, to Timnatah. <sup>13</sup>&nbsp;Tamar was told, saying: "Here, your father-in-law is going up to Timnatah to shear his sheep."</span>
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+<span class="b"><sup>יד</sup>&nbsp;וַתָּ֩סַר֩ בִּגְדֵ֨י אַלְמְנוּתָ֜הּ מֵֽעָלֶ֗יהָ וַתְּכַ֤ס בַּצָּעִיף֙ וַתִּתְעַלָּ֔ף וַתֵּ֙שֶׁב֙ בְּפֶ֣תַח עֵינַ֔יִם אֲשֶׁ֖ר עַל־דֶּ֣רֶךְ תִּמְנָ֑תָה כִּ֤י רָאֲתָה֙ כִּֽי־גָדַ֣ל שֵׁלָ֔ה וְהִ֕וא לֹֽא־נִתְּנָ֥ה ל֖וֹ לְאִשָּֽׁה׃ <sup>טו</sup>&nbsp;וַיִּרְאֶ֣הָ יְהוּדָ֔ה וַֽיַּחְשְׁבֶ֖הָ לְזוֹנָ֑ה כִּ֥י כִסְּתָ֖ה פָּנֶֽיהָ׃ <sup>טז</sup>&nbsp;וַיֵּ֨ט אֵלֶ֜יהָ אֶל־הַדֶּ֗רֶךְ וַיֹּ֙אמֶר֙ הָֽבָה־נָּא֙ אָב֣וֹא אֵלַ֔יִךְ כִּ֚י לֹ֣א יָדַ֔ע כִּ֥י כַלָּת֖וֹ הִ֑וא וַתֹּ֙אמֶר֙ מַה־תִּתֶּן־לִ֔י כִּ֥י תָב֖וֹא אֵלָֽי׃ <sup>יז</sup>&nbsp;וַיֹּ֕אמֶר אָנֹכִ֛י אֲשַׁלַּ֥ח גְּדִֽי־עִזִּ֖ים מִן־הַצֹּ֑אן וַתֹּ֕אמֶר אִם־תִּתֵּ֥ן עֵרָב֖וֹן עַ֥ד שָׁלְחֶֽךָ׃ <sup>יח</sup>&nbsp;וַיֹּ֗אמֶר מָ֣ה הָעֵרָבוֹן֮ אֲשֶׁ֣ר אֶתֶּן־לָךְ֒ וַתֹּ֗אמֶר חֹתָֽמְךָ֙ וּפְתִילֶ֔ךָ וּמַטְּךָ֖ אֲשֶׁ֣ר בְּיָדֶ֑ךָ וַיִּתֶּן־לָ֛הּ וַיָּבֹ֥א אֵלֶ֖יהָ וַתַּ֥הַר לֽוֹ׃ </span>
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+<span class="b"><sup>14</sup>&nbsp;She removed her widow's garments from her, covered herself with a veil and wrapped herself, and sat down by the entrance to Enayim/Two-wells, which is on the way to Timnatah, for she saw that Sheilah had grown up, yet she had not been given to him as a wife. <sup>15</sup>&nbsp;When Yehudah saw her, he took her for a whore, for she had covered her face. <sup>16</sup>&nbsp;So he turned aside to her by the road and said: "Come-now, pray let me come in to you" – for he did not know that she was his daughter-in-law. She said: "What will you give me for coming in to me?" <sup>17</sup>&nbsp;He said: "I myself will send out a goat kid from the flock." She said: "Only if you give me a pledge, until you send it." <sup>18</sup>&nbsp;He said: "What is the pledge that I am to give you?" She said: "Your seal, your cord, and your staff that is in your hand." He gave them to her and then he came in to her – and she became pregnant by him."</span>
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+<span class="b"><sup>יט</sup>&nbsp;וַתָּ֣קׇם וַתֵּ֔לֶךְ וַתָּ֥סַר צְעִיפָ֖הּ מֵעָלֶ֑יהָ וַתִּלְבַּ֖שׁ בִּגְדֵ֥י אַלְמְנוּתָֽהּ׃ <sup>כ</sup>&nbsp;וַיִּשְׁלַ֨ח יְהוּדָ֜ה אֶת־גְּדִ֣י הָֽעִזִּ֗ים בְּיַד֙ רֵעֵ֣הוּ הָֽעֲדֻלָּמִ֔י לָקַ֥חַת הָעֵרָב֖וֹן מִיַּ֣ד הָאִשָּׁ֑ה וְלֹ֖א מְצָאָֽהּ׃ <sup>כא</sup>&nbsp;וַיִּשְׁאַ֞ל אֶת־אַנְשֵׁ֤י מְקֹמָהּ֙ לֵאמֹ֔ר אַיֵּ֧ה הַקְּדֵשָׁ֛ה הִ֥וא בָעֵינַ֖יִם עַל־הַדָּ֑רֶךְ וַיֹּ֣אמְר֔וּ לֹא־הָיְתָ֥ה בָזֶ֖ה קְדֵשָֽׁה׃ <sup>כב</sup>&nbsp;וַיָּ֙שׇׁב֙ אֶל־יְהוּדָ֔ה וַיֹּ֖אמֶר לֹ֣א מְצָאתִ֑יהָ וְגַ֨ם אַנְשֵׁ֤י הַמָּקוֹם֙ אָֽמְר֔וּ לֹא־הָיְתָ֥ה בָזֶ֖ה קְדֵשָֽׁה׃ <sup>כג</sup>&nbsp;וַיֹּ֤אמֶר יְהוּדָה֙ תִּֽקַּֽח־לָ֔הּ פֶּ֖ן נִהְיֶ֣ה לָב֑וּז הִנֵּ֤ה שָׁלַ֙חְתִּי֙ הַגְּדִ֣י הַזֶּ֔ה וְאַתָּ֖ה לֹ֥א מְצָאתָֽהּ׃ </span>
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+<span class="b"><sup>19</sup>&nbsp;She arose and went away, then she put off her veil from her and clothed herself in her widow's garments. <sup>20</sup>&nbsp;Now when Yehudah sent the goat kid by the hand of his friend the Adullami, to fetch the pledge from the woman's hand, he could not find her. <sup>21</sup>&nbsp;He asked the people of her place, saying: "Where is that holy-prostitute, the one in Two-wells by the road?" They said: "There has been no holy-prostitute here!" <sup>22</sup>&nbsp;So he returned to Yehudah and said: "I could not find her; moreover, the people of the place said: 'There has been no holy-prostitute here!'" <sup>23</sup>&nbsp;Yehudah said: "Let her keep them for herself, lest we become a laughing-stock. Here, I sent her this kid, but you, you could not find her."</span>
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+<span class="b"><sup>כד</sup>&nbsp;וַיְהִ֣י ׀ כְּמִשְׁלֹ֣שׁ חֳדָשִׁ֗ים וַיֻּגַּ֨ד לִֽיהוּדָ֤ה לֵֽאמֹר֙ זָֽנְתָה֙ תָּמָ֣ר כַּלָּתֶ֔ךָ וְגַ֛ם הִנֵּ֥ה הָרָ֖ה לִזְנוּנִ֑ים וַיֹּ֣אמֶר יְהוּדָ֔ה הוֹצִיא֖וּהָ וְתִשָּׂרֵֽף׃ <sup>כה</sup>&nbsp;הִ֣וא מוּצֵ֗את וְהִ֨יא שָׁלְחָ֤ה אֶל־חָמִ֙יהָ֙ לֵאמֹ֔ר לְאִישׁ֙ אֲשֶׁר־אֵ֣לֶּה לּ֔וֹ אָנֹכִ֖י הָרָ֑ה וַתֹּ֙אמֶר֙ הַכֶּר־נָ֔א לְמִ֞י הַחֹתֶ֧מֶת וְהַפְּתִילִ֛ים וְהַמַּטֶּ֖ה הָאֵֽלֶּה׃ <sup>כו</sup>&nbsp;וַיַּכֵּ֣ר יְהוּדָ֗ה וַיֹּ֙אמֶר֙ צָֽדְקָ֣ה מִמֶּ֔נִּי כִּֽי־עַל־כֵּ֥ן לֹא־נְתַתִּ֖יהָ לְשֵׁלָ֣ה בְנִ֑י וְלֹֽא־יָסַ֥ף ע֖וֹד לְדַעְתָּֽהּ׃ </span>
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+<span class="b"><sup>24</sup>&nbsp;Now it was, after almost three New-moons that Yehudah was told, saying: "Tamar your daughter-in-law has played-the-whore, in fact, she has become pregnant from whoring!" Yehudah said: "Bring her out and let her be burned!" <sup>25</sup>&nbsp;(But) as she was being brought out, she sent a message to her father-in-law, saying: "By the man to whom these belong I am pregnant." And she said: "Pray recognize – whose seal and cords and staff are these?" <sup>26</sup>&nbsp;Yehudah recognized them and said: "She is in-the-right more than I! For after all, I did not give her to Sheilah my son!" And he did not know her again. </span>
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+<span class="b"><sup>כז</sup>&nbsp;וַיְהִ֖י בְּעֵ֣ת לִדְתָּ֑הּ וְהִנֵּ֥ה תְאוֹמִ֖ים בְּבִטְנָֽהּ׃ <sup>כח</sup>&nbsp;וַיְהִ֥י בְלִדְתָּ֖הּ וַיִּתֶּן־יָ֑ד וַתִּקַּ֣ח הַמְיַלֶּ֗דֶת וַתִּקְשֹׁ֨ר עַל־יָד֤וֹ שָׁנִי֙ לֵאמֹ֔ר זֶ֖ה יָצָ֥א רִאשֹׁנָֽה׃ <sup>כט</sup>&nbsp;וַיְהִ֣י ׀ כְּמֵשִׁ֣יב יָד֗וֹ וְהִנֵּה֙ יָצָ֣א אָחִ֔יו וַתֹּ֕אמֶר מַה־פָּרַ֖צְתָּ עָלֶ֣יךָ פָּ֑רֶץ וַיִּקְרָ֥א שְׁמ֖וֹ פָּֽרֶץ׃ <sup>ל</sup>&nbsp;וְאַחַר֙ יָצָ֣א אָחִ֔יו אֲשֶׁ֥ר עַל־יָד֖וֹ הַשָּׁנִ֑י וַיִּקְרָ֥א שְׁמ֖וֹ זָֽרַח׃</span>
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+<span class="b"><sup>27</sup>&nbsp;Now it was, at the time of her birthing, that here: twins were in her body! <sup>28</sup>&nbsp;And it was, as she was giving birth, that (one of them) put out a hand; the midwife took and tied a scarlet thread on his hand, saying: "This one came out first." <sup>29</sup>&nbsp;But it was, as he pulled back his hand, here, his brother came out! So she said: "What a breach you have breached for yourself!" So they called his name: 'Parets/Breach.' <sup>30</sup>&nbsp;Afterward his brother came out, on whose hand was the scarlet thread. They called his name: 'Zaraḥ.'</span>
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+<span class="j"><mark>חמישי</mark> לט <sup>א</sup>&nbsp;וְיוֹסֵ֖ף הוּרַ֣ד מִצְרָ֑יְמָה וַיִּקְנֵ֡הוּ פּוֹטִיפַר֩ סְרִ֨יס פַּרְעֹ֜ה שַׂ֤ר הַטַּבָּחִים֙ אִ֣ישׁ מִצְרִ֔י מִיַּד֙ הַיִּשְׁמְעֵאלִ֔ים אֲשֶׁ֥ר הוֹרִדֻ֖הוּ שָֽׁמָּה׃ <sup>ב</sup>&nbsp;וַיְהִ֤י יְהֹוָה֙ אֶת־יוֹסֵ֔ף וַיְהִ֖י אִ֣ישׁ מַצְלִ֑יחַ וַיְהִ֕י בְּבֵ֖ית אֲדֹנָ֥יו הַמִּצְרִֽי׃ <sup>ג</sup>&nbsp;וַיַּ֣רְא אֲדֹנָ֔יו כִּ֥י יְהֹוָ֖ה אִתּ֑וֹ וְכֹל֙ אֲשֶׁר־ה֣וּא עֹשֶׂ֔ה יְהֹוָ֖ה מַצְלִ֥יחַ בְּיָדֽוֹ׃ <sup>ד</sup>&nbsp;וַיִּמְצָ֨א יוֹסֵ֥ף חֵ֛ן בְּעֵינָ֖יו וַיְשָׁ֣רֶת אֹת֑וֹ וַיַּפְקִדֵ֙הוּ֙ עַל־בֵּית֔וֹ וְכׇל־יֶשׁ־ל֖וֹ נָתַ֥ן בְּיָדֽוֹ׃ <sup>ה</sup>&nbsp;וַיְהִ֡י מֵאָז֩ הִפְקִ֨יד אֹת֜וֹ בְּבֵית֗וֹ וְעַל֙ כׇּל־אֲשֶׁ֣ר יֶשׁ־ל֔וֹ וַיְבָ֧רֶךְ יְהֹוָ֛ה אֶת־בֵּ֥ית הַמִּצְרִ֖י בִּגְלַ֣ל יוֹסֵ֑ף וַיְהִ֞י בִּרְכַּ֤ת יְהֹוָה֙ בְּכׇל־אֲשֶׁ֣ר יֶשׁ־ל֔וֹ בַּבַּ֖יִת וּבַשָּׂדֶֽה׃ <sup>ו</sup>&nbsp;וַיַּעֲזֹ֣ב כׇּל־אֲשֶׁר־לוֹ֮ בְּיַד־יוֹסֵף֒ וְלֹא־יָדַ֤ע אִתּוֹ֙ מְא֔וּמָה כִּ֥י אִם־הַלֶּ֖חֶם אֲשֶׁר־ה֣וּא אוֹכֵ֑ל וַיְהִ֣י יוֹסֵ֔ף יְפֵה־תֹ֖אַר וִיפֵ֥ה מַרְאֶֽה׃ </span>
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+<span class="j">39 <sup>1</sup>&nbsp;Now when Yosef was brought down to Mitsrayim, Potifar, an official of Pharaoh, and chief of the guard, a Mitsri man, acquired him from the hand of the Yishmaelim who brought him down there. <sup>2</sup>&nbsp;But YHVH was with Yosef, so that he became a man of success: while he was in the house of his lord the Mitsri, <sup>3</sup>&nbsp;his lord saw that YHVH was with him, so that whatever he did, YHVH made succeed in his hands. <sup>4</sup>&nbsp;Yosef found favor in his eyes, and he waited upon him; he appointed him over his house, and everything belonging to him he placed in his hands. <sup>5</sup>&nbsp;And it was, from when he had appointed him over his house and over everything that belonged to him, that YHVH blessed the Mitsri's house because of Yosef; YHVH'S blessing was upon everything that belonged to him, in the house and in the fields. <sup>6</sup>&nbsp;So he left everything that was his in Yosef's hands, not concerning himself about anything with him there, except for the bread that he ate. Now Yosef was fair of form and fair to look at.</span>
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+<span class="j"><mark>ששי</mark> <sup>ז</sup>&nbsp;וַיְהִ֗י אַחַר֙ הַדְּבָרִ֣ים הָאֵ֔לֶּה וַתִּשָּׂ֧א אֵֽשֶׁת־אֲדֹנָ֛יו אֶת־עֵינֶ֖יהָ אֶל־יוֹסֵ֑ף וַתֹּ֖אמֶר שִׁכְבָ֥ה עִמִּֽי׃ </span>
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+<span class="j"><sup>7</sup>&nbsp;Now after these events it was that his lord's wife fixed her eyes upon Yosef and said: "Lie with me!"</span>
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+<span class="j"><sup>ח</sup>&nbsp;וַיְמָאֵ֓ן ׀ וַיֹּ֙אמֶר֙ אֶל־אֵ֣שֶׁת אֲדֹנָ֔יו הֵ֣ן אֲדֹנִ֔י לֹא־יָדַ֥ע אִתִּ֖י מַה־בַּבָּ֑יִת וְכֹ֥ל אֲשֶׁר־יֶשׁ־ל֖וֹ נָתַ֥ן בְּיָדִֽי׃ <sup>ט</sup>&nbsp;אֵינֶ֨נּוּ גָד֜וֹל בַּבַּ֣יִת הַזֶּה֮ מִמֶּ֒נִּי֒ וְלֹֽא־חָשַׂ֤ךְ מִמֶּ֙נִּי֙ מְא֔וּמָה כִּ֥י אִם־אוֹתָ֖ךְ בַּאֲשֶׁ֣ר אַתְּ־אִשְׁתּ֑וֹ וְאֵ֨יךְ אֶֽעֱשֶׂ֜ה הָרָעָ֤ה הַגְּדֹלָה֙ הַזֹּ֔את וְחָטָ֖אתִי לֵֽאלֹהִֽים׃ </span>
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+<span class="j"><sup>8</sup>&nbsp;But he refused, he said to his lord's wife: "Look, my lord need not concern himself with anything in the house, with me here, and everything that belongs to him, he has placed in my hands. <sup>9</sup>&nbsp;He is no greater in this house than I and has withheld nothing from me except for yourself, since you are his wife. So how could I do this great ill? I would be sinning against Elohim!"</span>
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+<span class="j"><sup>י</sup>&nbsp;וַיְהִ֕י כְּדַבְּרָ֥הּ אֶל־יוֹסֵ֖ף י֣וֹם ׀ י֑וֹם וְלֹא־שָׁמַ֥ע אֵלֶ֛יהָ לִשְׁכַּ֥ב אֶצְלָ֖הּ לִהְי֥וֹת עִמָּֽהּ׃ <sup>יא</sup>&nbsp;וַיְהִי֙ כְּהַיּ֣וֹם הַזֶּ֔ה וַיָּבֹ֥א הַבַּ֖יְתָה לַעֲשׂ֣וֹת מְלַאכְתּ֑וֹ וְאֵ֨ין אִ֜ישׁ מֵאַנְשֵׁ֥י הַבַּ֛יִת שָׁ֖ם בַּבָּֽיִת׃ <sup>יב</sup>&nbsp;וַתִּתְפְּשֵׂ֧הוּ בְּבִגְד֛וֹ לֵאמֹ֖ר שִׁכְבָ֣ה עִמִּ֑י וַיַּעֲזֹ֤ב בִּגְדוֹ֙ בְּיָדָ֔הּ וַיָּ֖נׇס וַיֵּצֵ֥א הַחֽוּצָה׃
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+<span class="j"><sup>10</sup>&nbsp;Now it was, as she would speak to Yosef day after day, that he would not hearken to her, to lie beside her, to be with her – <sup>11</sup>&nbsp;so it was, on such a day, when he came into the house to do his work, and none of the house-people was there in the house – <sup>12</sup>&nbsp;that she grabbed him by his garment, saying: "Lie with me!" But he left his garment in her hand and fled, escaping outside.</span>
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+<span class="j"><sup>יג</sup>&nbsp;וַיְהִי֙ כִּרְאוֹתָ֔הּ כִּֽי־עָזַ֥ב בִּגְד֖וֹ בְּיָדָ֑הּ וַיָּ֖נׇס הַחֽוּצָה׃ <sup>יד</sup>&nbsp;וַתִּקְרָ֞א לְאַנְשֵׁ֣י בֵיתָ֗הּ וַתֹּ֤אמֶר לָהֶם֙ לֵאמֹ֔ר רְא֗וּ הֵ֥בִיא לָ֛נוּ אִ֥ישׁ עִבְרִ֖י לְצַ֣חֶק בָּ֑נוּ בָּ֤א אֵלַי֙ לִשְׁכַּ֣ב עִמִּ֔י וָאֶקְרָ֖א בְּק֥וֹל גָּדֽוֹל׃ <sup>טו</sup>&nbsp;וַיְהִ֣י כְשׇׁמְע֔וֹ כִּֽי־הֲרִימֹ֥תִי קוֹלִ֖י וָאֶקְרָ֑א וַיַּעֲזֹ֤ב בִּגְדוֹ֙ אֶצְלִ֔י וַיָּ֖נׇס וַיֵּצֵ֥א הַחֽוּצָה׃ <sup>טז</sup>&nbsp;וַתַּנַּ֥ח בִּגְד֖וֹ אֶצְלָ֑הּ עַד־בּ֥וֹא אֲדֹנָ֖יו אֶל־בֵּיתֽוֹ׃ <sup>יז</sup>&nbsp;וַתְּדַבֵּ֣ר אֵלָ֔יו כַּדְּבָרִ֥ים הָאֵ֖לֶּה לֵאמֹ֑ר בָּֽא־אֵלַ֞י הָעֶ֧בֶד הָֽעִבְרִ֛י אֲשֶׁר־הֵבֵ֥אתָ לָּ֖נוּ לְצַ֥חֶק בִּֽי׃ <sup>יח</sup>&nbsp;וַיְהִ֕י כַּהֲרִימִ֥י קוֹלִ֖י וָאֶקְרָ֑א וַיַּעֲזֹ֥ב בִּגְד֛וֹ אֶצְלִ֖י וַיָּ֥נׇס הַחֽוּצָה׃ </span>
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+<span class="j"><sup>13</sup>&nbsp;Now it was, when she saw that he had left his garment in her hand and had fled outside, <sup>14</sup>&nbsp;that she called in her house-people and said to them, saying: "See! He has brought to us an Ivri man to play around with us! He came to me, to lie with me, but I called out with a loud voice, <sup>15</sup>&nbsp;and it was, when he heard that I lifted up my voice and called out that he left his garment beside me and fled, escaping outside!" <sup>16</sup>&nbsp;Now she kept his garment beside her, until his lord came back to the house. <sup>17</sup>&nbsp;Then she spoke to him according to these words, saying: "There came to me the Ivri servant whom you brought to us, to play around with me; <sup>18</sup>&nbsp;but it was, when I lifted up my voice and called out, that he left his garment beside me and fled outside."</span>
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+<span class="j"><sup>יט</sup>&nbsp;וַיְהִי֩ כִשְׁמֹ֨עַ אֲדֹנָ֜יו אֶת־דִּבְרֵ֣י אִשְׁתּ֗וֹ אֲשֶׁ֨ר דִּבְּרָ֤ה אֵלָיו֙ לֵאמֹ֔ר כַּדְּבָרִ֣ים הָאֵ֔לֶּה עָ֥שָׂה לִ֖י עַבְדֶּ֑ךָ וַיִּ֖חַר אַפּֽוֹ׃ <sup>כ</sup>&nbsp;וַיִּקַּח֩ אֲדֹנֵ֨י יוֹסֵ֜ף אֹת֗וֹ וַֽיִּתְּנֵ֙הוּ֙ אֶל־בֵּ֣ית הַסֹּ֔הַר מְק֕וֹם אֲשֶׁר־אֲסִירֵ֥י [אסורי] הַמֶּ֖לֶךְ אֲסוּרִ֑ים וַֽיְהִי־שָׁ֖ם בְּבֵ֥ית הַסֹּֽהַר׃ <sup>כא</sup>&nbsp;וַיְהִ֤י יְהֹוָה֙ אֶת־יוֹסֵ֔ף וַיֵּ֥ט אֵלָ֖יו חָ֑סֶד וַיִּתֵּ֣ן חִנּ֔וֹ בְּעֵינֵ֖י שַׂ֥ר בֵּית־הַסֹּֽהַר׃ <sup>כב</sup>&nbsp;וַיִּתֵּ֞ן שַׂ֤ר בֵּית־הַסֹּ֙הַר֙ בְּיַד־יוֹסֵ֔ף אֵ֚ת כׇּל־הָ֣אֲסִירִ֔ם אֲשֶׁ֖ר בְּבֵ֣ית הַסֹּ֑הַר וְאֵ֨ת כׇּל־אֲשֶׁ֤ר עֹשִׂים֙ שָׁ֔ם ה֖וּא הָיָ֥ה עֹשֶֽׂה׃ <sup>כג</sup>&nbsp;אֵ֣ין ׀ שַׂ֣ר בֵּית־הַסֹּ֗הַר רֹאֶ֤ה אֶֽת־כָּל־מְא֙וּמָה֙ בְּיָד֔וֹ בַּאֲשֶׁ֥ר יְהֹוָ֖ה אִתּ֑וֹ וַֽאֲשֶׁר־ה֥וּא עֹשֶׂ֖ה יְהֹוָ֥ה מַצְלִֽיחַ׃</span>
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+<span class="j"><sup>19</sup>&nbsp;Now it was, when his lord heard his wife's words which she spoke to him, saying: "According to these words, your servant did to me!" – that his anger flared up; <sup>20</sup>&nbsp;Yosef's lord took him and put him in the dungeon house, in the place where the king's prisoners are imprisoned. But while he was there in the dungeon house, <sup>21</sup>&nbsp;YHVH was with Yosef and extended kindness to him: he put his favor in the eyes of the dungeon warden. <sup>22</sup>&nbsp;And the dungeon warden put in Yosef's hands all the prisoners that were in the dungeon house; whatever had to be done there, it was he that did it. <sup>23</sup>&nbsp;The dungeon warden did not need to see to anything at all in his hands, since YHVH was with him, and whatever he did, YHVH made succeed.</span>
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+<span class="e"><mark>שביעי</mark> מ <sup>א</sup>&nbsp;וַיְהִ֗י אַחַר֙ הַדְּבָרִ֣ים הָאֵ֔לֶּה חָ֥טְא֛וּ מַשְׁקֵ֥ה מֶֽלֶךְ־מִצְרַ֖יִם וְהָאֹפֶ֑ה לַאֲדֹנֵיהֶ֖ם לְמֶ֥לֶךְ מִצְרָֽיִם׃ </span> <span class="j"><sup>ב</sup>&nbsp;וַיִּקְצֹ֣ף פַּרְעֹ֔ה עַ֖ל שְׁנֵ֣י סָרִיסָ֑יו עַ֚ל שַׂ֣ר הַמַּשְׁקִ֔ים וְעַ֖ל שַׂ֥ר הָאוֹפִֽים׃ </span> <span class="e"><sup>ג</sup>&nbsp;וַיִּתֵּ֨ן אֹתָ֜ם בְּמִשְׁמַ֗ר בֵּ֛ית שַׂ֥ר הַטַּבָּחִ֖ים אֶל־בֵּ֣ית הַסֹּ֑הַר</span> <span class="j">מְק֕וֹם אֲשֶׁ֥ר יוֹסֵ֖ף אָס֥וּר שָֽׁם׃ </span> <span class="e"><sup>ד</sup>&nbsp;וַ֠יִּפְקֹ֠ד שַׂ֣ר הַטַּבָּחִ֧ים אֶת־יוֹסֵ֛ף אִתָּ֖ם וַיְשָׁ֣רֶת אֹתָ֑ם וַיִּהְי֥וּ יָמִ֖ים בְּמִשְׁמָֽר׃ <sup>ה</sup>&nbsp;וַיַּֽחַלְמוּ֩ חֲל֨וֹם שְׁנֵיהֶ֜ם אִ֤ישׁ חֲלֹמוֹ֙ בְּלַ֣יְלָה אֶחָ֔ד אִ֖ישׁ כְּפִתְר֣וֹן חֲלֹמ֑וֹ הַמַּשְׁקֶ֣ה וְהָאֹפֶ֗ה אֲשֶׁר֙ לְמֶ֣לֶךְ מִצְרַ֔יִם</span> <span class="j">אֲשֶׁ֥ר אֲסוּרִ֖ים בְּבֵ֥ית הַסֹּֽהַר׃ </span> <span class="e"><sup>ו</sup>&nbsp;וַיָּבֹ֧א אֲלֵיהֶ֛ם יוֹסֵ֖ף בַּבֹּ֑קֶר וַיַּ֣רְא אֹתָ֔ם וְהִנָּ֖ם זֹעֲפִֽים׃ </span> <span class="j"><sup>ז</sup>&nbsp;וַיִּשְׁאַ֞ל אֶת־סְרִיסֵ֣י פַרְעֹ֗ה אֲשֶׁ֨ר אִתּ֧וֹ בְמִשְׁמַ֛ר בֵּ֥ית אֲדֹנָ֖יו לֵאמֹ֑ר מַדּ֛וּעַ פְּנֵיכֶ֥ם רָעִ֖ים הַיּֽוֹם׃ </span>
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+<span class="e">40 <sup>1</sup>&nbsp;Now after these events it was that the cupbearer and the baker of the king of Mitsrayim fell afoul of their lord, the king of Mitsrayim.</span> <span class="j"><sup>2</sup>&nbsp;Pharaoh became infuriated with his two officials, with the chief cupbearer and the chief baker,</span> <span class="e"><sup>3</sup>&nbsp;and he placed them in custody in the house of the chief of the guard, in the dungeon house,</span> <span class="j">the place where Yosef was imprisoned.</span> <span class="e"><sup>4</sup>&nbsp;The chief of the guard appointed Yosef for them, that he should wait upon them. They were in custody for many days. <sup>5</sup>&nbsp;And then the two of them dreamt a dream, each man his own dream, in a single night, each man according to his dream's interpretation, the cupbearer and the baker of the king of Mitsrayim,</span> <span class="j">who were imprisoned in the dungeon house.</span> <span class="e"><sup>6</sup>&nbsp;When Yosef came to them in the morning and saw them, here, they were dejected!</span> <span class="j"><sup>7</sup>&nbsp;So he asked Pharaoh's officials who were with him in custody in the house of his lord, saying: "Why are your faces in such ill-humor today?"</span>
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+<span class="e"><sup>ח</sup>&nbsp;וַיֹּאמְר֣וּ אֵלָ֔יו חֲל֣וֹם חָלַ֔מְנוּ וּפֹתֵ֖ר אֵ֣ין אֹת֑וֹ </span>
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+<span class="e"><sup>8</sup>&nbsp;They said to him: "We have dreamt a dream, and there is no interpreter for it!"</span>
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+<span class="e">וַיֹּ֨אמֶר אֲלֵהֶ֜ם יוֹסֵ֗ף הֲל֤וֹא לֵֽאלֹהִים֙ פִּתְרֹנִ֔ים סַפְּרוּ־נָ֖א לִֽי׃ </span>
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+<span class="e">Yosef said to them: "Are not interpretations from Elohim? Pray recount them to me!"</span>
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+<span class="e"><sup>ט</sup>&nbsp;וַיְסַפֵּ֧ר שַֽׂר־הַמַּשְׁקִ֛ים אֶת־חֲלֹמ֖וֹ לְיוֹסֵ֑ף וַיֹּ֣אמֶר ל֔וֹ בַּחֲלוֹמִ֕י וְהִנֵּה־גֶ֖פֶן לְפָנָֽי׃ <sup>י</sup>&nbsp;וּבַגֶּ֖פֶן שְׁלֹשָׁ֣ה שָׂרִיגִ֑ם וְהִ֤וא כְפֹרַ֙חַת֙ עָלְתָ֣ה נִצָּ֔הּ הִבְשִׁ֥ילוּ אַשְׁכְּלֹתֶ֖יהָ עֲנָבִֽים׃ <sup>יא</sup>&nbsp;וְכ֥וֹס פַּרְעֹ֖ה בְּיָדִ֑י וָאֶקַּ֣ח אֶת־הָֽעֲנָבִ֗ים וָֽאֶשְׂחַ֤ט אֹתָם֙ אֶל־כּ֣וֹס פַּרְעֹ֔ה וָאֶתֵּ֥ן אֶת־הַכּ֖וֹס עַל־כַּ֥ף פַּרְעֹֽה׃ </span>
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+<span class="e"><sup>9</sup>&nbsp;The chief cupbearer recounted his dream to Yosef, he said to him: "In my dream – here, a vine was in front of me, <sup>10</sup>&nbsp;and on the vine, three winding-tendrils, and just as it was budding, the blossom came up, (and) its clusters ripened into grapes. <sup>11</sup>&nbsp;Now Pharaoh's cup was in my hand – I picked the grapes and squeezed them into Pharaoh's cup and put the cup in Pharaoh's palm."</span>
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+<span class="e"><sup>יב</sup>&nbsp;וַיֹּ֤אמֶר לוֹ֙ יוֹסֵ֔ף זֶ֖ה פִּתְרֹנ֑וֹ שְׁלֹ֙שֶׁת֙ הַשָּׂ֣רִגִ֔ים שְׁלֹ֥שֶׁת יָמִ֖ים הֵֽם׃ <sup>יג</sup>&nbsp;בְּע֣וֹד ׀ שְׁלֹ֣שֶׁת יָמִ֗ים יִשָּׂ֤א פַרְעֹה֙ אֶת־רֹאשֶׁ֔ךָ וַהֲשִֽׁיבְךָ֖ עַל־כַּנֶּ֑ךָ וְנָתַתָּ֤ כוֹס־פַּרְעֹה֙ בְּיָד֔וֹ כַּמִּשְׁפָּט֙ הָֽרִאשׁ֔וֹן אֲשֶׁ֥ר הָיִ֖יתָ מַשְׁקֵֽהוּ׃ <sup>יד</sup>&nbsp;כִּ֧י אִם־זְכַרְתַּ֣נִי אִתְּךָ֗ כַּאֲשֶׁר֙ יִ֣יטַב לָ֔ךְ וְעָשִֽׂיתָ־נָּ֥א עִמָּדִ֖י חָ֑סֶד וְהִזְכַּרְתַּ֙נִי֙ אֶל־פַּרְעֹ֔ה וְהוֹצֵאתַ֖נִי מִן־הַבַּ֥יִת הַזֶּֽה׃ <sup>טו</sup>&nbsp;כִּֽי־גֻנֹּ֣ב גֻּנַּ֔בְתִּי מֵאֶ֖רֶץ הָעִבְרִ֑ים</span> <span class="j">וְגַם־פֹּה֙ לֹא־עָשִׂ֣יתִֽי מְא֔וּמָה כִּֽי־שָׂמ֥וּ אֹתִ֖י בַּבּֽוֹר׃ </span>
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+<span class="e"><sup>12</sup>&nbsp;Yosef said to him: "This is its interpretation: The three windings are three days – <sup>13</sup>&nbsp;in another three days Pharaoh will lift up your head, he will restore you to your position so that you will put Pharaoh's cup in his hand (once more), according to the former practice, when you were his cupbearer. <sup>14</sup>&nbsp;But keep me in mind with you, when it goes well for you, pray deal kindly with me and call me to mind to Pharaoh, so that you have me brought out of this house. <sup>15</sup>&nbsp;For I was stolen, yes, stolen from the land of the Ivrim,</span> <span class="j">and here too I have done nothing that they should have put me in the pit."</span>
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+<span class="e"><sup>טז</sup>&nbsp;וַיַּ֥רְא שַׂר־הָאֹפִ֖ים כִּ֣י ט֣וֹב פָּתָ֑ר וַיֹּ֙אמֶר֙ אֶל־יוֹסֵ֔ף אַף־אֲנִי֙ בַּחֲלוֹמִ֔י וְהִנֵּ֗ה שְׁלֹשָׁ֛ה סַלֵּ֥י חֹרִ֖י עַל־רֹאשִֽׁי׃ <sup>יז</sup>&nbsp;וּבַסַּ֣ל הָֽעֶלְי֗וֹן מִכֹּ֛ל מַאֲכַ֥ל פַּרְעֹ֖ה מַעֲשֵׂ֣ה אֹפֶ֑ה וְהָע֗וֹף אֹכֵ֥ל אֹתָ֛ם מִן־הַסַּ֖ל מֵעַ֥ל רֹאשִֽׁי׃ </span>
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+<span class="e"><sup>16</sup>&nbsp;Now when the chief baker saw that he had interpreted for good, he said to Yosef: "I too, in my dream – here, three baskets of white-bread were on my head, <sup>17</sup>&nbsp;and in the uppermost basket, all sorts of edibles for Pharaoh, baker's work, and birds were eating them from the basket, from off my head." </span>
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+<span class="e"><sup>יח</sup>&nbsp;וַיַּ֤עַן יוֹסֵף֙ וַיֹּ֔אמֶר זֶ֖ה פִּתְרֹנ֑וֹ שְׁלֹ֙שֶׁת֙ הַסַּלִּ֔ים שְׁלֹ֥שֶׁת יָמִ֖ים הֵֽם׃ <sup>יט</sup>&nbsp;בְּע֣וֹד ׀ שְׁלֹ֣שֶׁת יָמִ֗ים יִשָּׂ֨א פַרְעֹ֤ה אֶת־רֹֽאשְׁךָ֙ מֵֽעָלֶ֔יךָ וְתָלָ֥ה אוֹתְךָ֖ עַל־עֵ֑ץ וְאָכַ֥ל הָע֛וֹף אֶת־בְּשָׂרְךָ֖ מֵעָלֶֽיךָ׃ <mark>מפטיר</mark> <sup>כ</sup>&nbsp;וַיְהִ֣י ׀ בַּיּ֣וֹם הַשְּׁלִישִׁ֗י י֚וֹם הֻלֶּ֣דֶת אֶת־פַּרְעֹ֔ה וַיַּ֥עַשׂ מִשְׁתֶּ֖ה לְכׇל־עֲבָדָ֑יו וַיִּשָּׂ֞א אֶת־רֹ֣אשׁ ׀ שַׂ֣ר הַמַּשְׁקִ֗ים וְאֶת־רֹ֛אשׁ שַׂ֥ר הָאֹפִ֖ים בְּת֥וֹךְ עֲבָדָֽיו׃ <sup>כא</sup>&nbsp;וַיָּ֛שֶׁב אֶת־שַׂ֥ר הַמַּשְׁקִ֖ים עַל־מַשְׁקֵ֑הוּ וַיִּתֵּ֥ן הַכּ֖וֹס עַל־כַּ֥ף פַּרְעֹֽה׃ <sup>כב</sup>&nbsp;וְאֵ֛ת שַׂ֥ר הָאֹפִ֖ים תָּלָ֑ה כַּאֲשֶׁ֥ר פָּתַ֛ר לָהֶ֖ם יוֹסֵֽף׃ <sup>כג</sup>&nbsp;וְלֹֽא־זָכַ֧ר שַֽׂר־הַמַּשְׁקִ֛ים אֶת־יוֹסֵ֖ף וַיִּשְׁכָּחֵֽהוּ׃</span>
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+<span class="e"><sup>18</sup>&nbsp;Yosef gave answer, he said: "This is its interpretation: The three baskets are three days – <sup>19</sup>&nbsp;in another three days Pharaoh will lift up your head from off you, he will hang you on a tree, and the birds will eat your flesh from off you." <sup>20</sup>&nbsp;And thus it was, on the third day, Pharaoh's birthday, that he made a great drinking-feast for all his servants, and he lifted up the head of the chief cupbearer and the head of the chief baker amidst his servants: <sup>21</sup>&nbsp;he restored the chief cupbearer to his cupbearership, so that he put the cup in Pharaoh's palm (once more), <sup>22</sup>&nbsp;but the chief baker he hanged, just as Yosef had interpreted to them. <sup>23</sup>&nbsp;But the chief cupbearer did not keep Yosef in mind, he forgot him.</span>
+</div></td></tr>
+</tbody></table>
+
+<hr />
+
+The Masoretic text presented here is from Rabbi Dr. Seth (Avi) Kadish's <a href="https://he.wikisource.org/wiki/פרשת_וישב/טעמים">Miqra al pi ha-Mesorah</a>. For the translation in English, I have adapted the translation of Everett Fox in the <a href="https://www.penguinrandomhouse.com/series/DA5/the-schocken-bible">Schocken Bible</a> (1997), mostly to re-Hebraize divine names, place names, and personal names, but I have made other changes. In place of "begettings," I have "progeny." Aside from these, I have made minor punctuation changes.
