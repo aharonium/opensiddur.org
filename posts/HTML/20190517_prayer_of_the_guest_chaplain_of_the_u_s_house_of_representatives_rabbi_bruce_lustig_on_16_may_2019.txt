@@ -95,13 +95,14 @@ an America better than ours.
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
-
+&nbsp;
+אָמֵן׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
 Hear our prayer. 
-Amen.
+<em>Amen.</em>
 </div></td></tr>
 </tbody></table>
 

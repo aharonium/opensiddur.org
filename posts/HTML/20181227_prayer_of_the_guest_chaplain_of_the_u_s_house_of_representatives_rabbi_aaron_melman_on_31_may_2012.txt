@@ -139,6 +139,6 @@ Issue: Vol. 158, No. 80 — Daily Edition (May 31, 2012)
 
 Link: <a href="https://chaplain.house.gov/chaplaincy/display_gc.html?id=1799">https://chaplain.house.gov/chaplaincy/display_gc.html?id=1799</a>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="?c4510129/rabbi-aaron-melman-congregation-beth-shalom-northbrook-il" width="512" height="330"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.c-span.org/video/standalone/?c4510129/rabbi-aaron-melman-congregation-beth-shalom-northbrook-il" width="512" height="330"]
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.congress.gov/112/crec/2012/05/31/CREC-2012-05-31-pt1-PgH3277-4.pdf" width="100%" height="900"]

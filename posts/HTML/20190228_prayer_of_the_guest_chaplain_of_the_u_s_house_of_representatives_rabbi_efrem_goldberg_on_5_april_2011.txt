@@ -94,7 +94,13 @@ are privileged to enjoy.
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
-
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+אָמֵן׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
@@ -104,7 +110,8 @@ protect our courageous Armed Forces,
 watch over our elected leaders, 
 grant peace and prosperity to these United States
  and the entire world, 
- and let us respond, Amen.
+ and let us respond, 
+<em>Amen.</em>
 </div></td></tr>
 </tbody></table>
 

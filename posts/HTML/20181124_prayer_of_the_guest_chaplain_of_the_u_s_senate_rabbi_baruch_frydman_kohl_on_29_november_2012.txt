@@ -86,12 +86,12 @@ of this great country.
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
-
+אָמֵן׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Amen.
+<em>Amen.</em>
 </div></td></tr>
 </tbody></table>
 
@@ -104,4 +104,4 @@ Issue: Vol. 158, No. 151 — Daily Edition (November 29, 2012)
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.c-span.org/video/standalone/?c4510373/rabbi-baruch-frydman-kohl-beth-tzedec-congregationtoronto-canada" width="512" height="330"]
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.congress.gov/crec/2012/11/29/CREC-2012-11-29-pt1-PgS7127-2.pdf" width="100%" height="900"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.congress.gov/112/crec/2012/11/29/CREC-2012-11-29-pt1-PgS7127-2.pdf" width="100%" height="900"]

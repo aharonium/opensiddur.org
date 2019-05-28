@@ -117,12 +117,12 @@ without forgetting the lessons of our past.
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
-
+אָמֵן׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Amen.
+<em>Amen.</em>
 </div></td></tr>
 </tbody></table>
 

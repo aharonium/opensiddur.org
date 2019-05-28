@@ -68,19 +68,19 @@ hatred into love,
 violence into vision, 
 and pain into promise 
 in a global village 
-at Shalom's peace 
+at SHALOM's peace 
 at last.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
-
+אָמֵן׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Amen.
+<em>Amen.</em>
 </div></td></tr>
 </tbody></table>
 
@@ -95,4 +95,4 @@ Link: <a href="https://chaplain.house.gov/chaplaincy/display_gc.html?id=2128">ht
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.c-span.org/video/standalone/?c4510463/rabbi-israel-zoberman-congregation-beth-chaverim-virginia-beach-va-2014" width="512" height="330"]
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.congress.gov/crec/2014/06/25/CREC-2014-06-25-pt1-PgH5732-4.pdf" width="100%" height="900"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.congress.gov/113/crec/2014/06/25/CREC-2014-06-25-pt1-PgH5732-4.pdf" width="100%" height="900"]

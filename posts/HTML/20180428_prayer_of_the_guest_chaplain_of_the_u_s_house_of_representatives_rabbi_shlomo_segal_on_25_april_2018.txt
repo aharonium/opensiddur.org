@@ -96,6 +96,16 @@ In the words of the Psalmist,
 "May the Lord give you grace and glory."[foot]Psalms 84:12 partial - חן וכבוד יתן ה׳[/foot] 
 In that spirit, may we each find the strength and courage 
 to bring God's honor and glory to this great Nation. 
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+אָמֵן׃
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
 Amen.
 </div></td></tr>
 </tbody></table>

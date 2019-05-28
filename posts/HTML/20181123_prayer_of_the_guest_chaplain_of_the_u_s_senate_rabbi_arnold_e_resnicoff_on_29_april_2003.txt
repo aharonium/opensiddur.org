@@ -105,12 +105,14 @@ to all the world.
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
-
+&nbsp;
+אָמֵן׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-And may we say, amen.
+And may we say, 
+<em>amen.</em>
 </div></td></tr>
 </tbody></table>
 

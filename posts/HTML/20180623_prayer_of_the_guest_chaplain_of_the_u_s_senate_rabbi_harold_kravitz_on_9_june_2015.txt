@@ -1,4 +1,3 @@
-
 <blockquote>
 <h3>WELCOMING THE GUEST CHAPLAIN:</h3>
 Mr. FRANKEN. Mr. President, I rise today to thank Rabbi Harold Kravitz for offering the opening prayer today in the Senate and to praise him for all of his excellent work.
@@ -62,13 +61,14 @@ to do that which is right and good.
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
-
+&nbsp;
+הַזָּן אֶת הַכֹּל
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
 May the One who Provides Sustenance for All--
-Hazan et Hakol--
+<em>Hazan et Hakol</em>--
 bless this United States Senate 
 with the wisdom and compassion 
 to act on its responsibilities 
@@ -92,12 +92,12 @@ with which this Nation is blessed.
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
-
+אָמֵן׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Amen.
+<em>Amen.</em>
 </div></td></tr>
 </tbody></table>
 

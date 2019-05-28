@@ -29,7 +29,7 @@ Master of the Universe,
 continue to grant compassion 
 and understanding 
 to this august body. 
-We live in a world "on fire,'' 
+We live in a world "on fire," 
 where there is turmoil throughout the globe; 
 a world that is ravaged by terror and barbarism; 
 a world where youthful potential and its rich contributions 
@@ -46,7 +46,7 @@ are instantaneously destroyed.
 <div class="english">
 Yesterday, in these hallowed Halls, 
 the United States Congress posthumously honored Raoul Wallenberg 
-for his humanitarian efforts in saving Jews during the Holocaust. 
+for his humanitarian efforts in saving Jews during the Holocaust.[foot]"<a href="https://www.congress.gov/congressional-record/2014/7/9/senate-section/article/s4327-1">Awarding Congressional Gold Medal to Raoul Wallenberg</a>" (10 July 2014)[/foot]&nbsp; 
 Please, God, enable this body to continue to advocate for decency 
 and be the moral compass of our Nation.
 </div></td></tr>
@@ -72,12 +72,12 @@ one small candle can light up the world.[foot]Cf. Proverbs 6:23[/foot]
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
-
+אָמֵן׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Amen.
+<em>Amen.</em>
 </div></td></tr>
 </tbody></table>
 
@@ -92,4 +92,4 @@ Link: <a href="https://chaplain.house.gov/chaplaincy/display_gc.html?id=2135">ht
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.c-span.org/video/standalone/?c4503213/rabbi-dovid-cohen-young-israel-west-side-ny-ny" width="512" height="330"]
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.congress.gov/crec/2014/07/10/CREC-2014-07-10-pt1-PgH6039-4.pdf" width="100%" height="900"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.congress.gov/113/crec/2014/07/10/CREC-2014-07-10-pt1-PgH6039-4.pdf" width="100%" height="900"]

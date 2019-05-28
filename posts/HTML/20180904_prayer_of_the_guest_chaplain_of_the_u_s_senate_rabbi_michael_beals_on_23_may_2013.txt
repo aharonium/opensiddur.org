@@ -108,13 +108,16 @@ to the firmament above.
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
-
+&nbsp;
+&nbsp;
+אָמֵן׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
 We pray this in Your sacred and Holy Name. 
-And let us all say amen.
+And let us all say 
+<em>amen.</em>
 </div></td></tr>
 </tbody></table>
 
@@ -127,4 +130,4 @@ Issue: Vol. 159, No. 74 — Daily Edition (May 23, 2013)
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.c-span.org/video/standalone/?c4499895/rabbi-michael-beals-congregation-beth-shalom" width="512" height="330"]
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.congress.gov/crec/2013/05/23/CREC-2013-05-23-pt1-PgS3791-2.pdf" width="100%" height="900"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.congress.gov/113/crec/2013/05/23/CREC-2013-05-23-pt1-PgS3791-2.pdf" width="100%" height="900"]

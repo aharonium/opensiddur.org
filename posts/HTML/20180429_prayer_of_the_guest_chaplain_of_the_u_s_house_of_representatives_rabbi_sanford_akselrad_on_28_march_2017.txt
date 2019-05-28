@@ -99,7 +99,14 @@ to stand tall.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-With eyes raised skyward, seeing today, tomorrow, and the next, let them govern our country with compassion, courage, and insight.
+With eyes raised skyward, 
+seeing today, 
+tomorrow, 
+and the next, 
+let them govern our country 
+with compassion, 
+courage, 
+and insight.
 </div></td></tr>
 
 
@@ -110,7 +117,9 @@ With eyes raised skyward, seeing today, tomorrow, and the next, let them govern 
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Let them stand tall to give voice to those who feel unheard and presence to those too long ignored.
+Let them stand tall 
+to give voice to those who feel unheard 
+and presence to those too long ignored.
 </div></td></tr>
 
 
@@ -121,7 +130,11 @@ Let them stand tall to give voice to those who feel unheard and presence to thos
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Let the pursuit of justice and mercy lift them with heavenly wings,closer still to Heaven than before. Let them stand tall. Amen.
+Let the pursuit of justice and mercy 
+lift them with heavenly wings,
+closer still to Heaven than before. 
+Let them stand tall. 
+<em>Amen.</em>
 </div></td></tr>
 </tbody></table>
 
