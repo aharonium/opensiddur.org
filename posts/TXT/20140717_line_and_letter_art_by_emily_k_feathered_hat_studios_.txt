@@ -1,1 +1,0 @@
-[gallery type="rectangular" link="file" ids="9174,9173,9172,9171,9170" orderby="rand"]
