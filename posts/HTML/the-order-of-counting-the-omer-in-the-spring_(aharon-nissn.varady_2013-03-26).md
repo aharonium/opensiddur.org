@@ -638,7 +638,7 @@ and commanded us to count the Omer.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="instruction">3 Sivan:</span> Today is Forty-Seven Days, which are Six Weeks and Five Days of the Omer. (<em>Hōd</em> within <em>Malkhut</em>)
+<img src="https://opensiddur.org/wp-content/uploads/2013/03/Hod-shebeMalkhut-1.png" alt="" width="90" height="96" class="alignleft size-full wp-image-24687" /> <span class="instruction">3 Sivan:</span> Today is Forty-Seven Days, which are Six Weeks and Five Days of the Omer. (<em>Hōd</em> within <em>Malkhut</em>)
 </div></td></tr>
 
 
@@ -649,7 +649,7 @@ and commanded us to count the Omer.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="instruction">4 Sivan:</span> Today is Forty-Eight Days, which are Six Weeks and Six Days of the Omer. (<em>Yesōd</em> within <em>Malkhut</em>)
+<img src="https://opensiddur.org/wp-content/uploads/2013/03/Yesod-shebeMalkhut-1.png" alt="" width="90" height="94" class="alignleft size-full wp-image-24715" /> <span class="instruction">4 Sivan:</span> Today is Forty-Eight Days, which are Six Weeks and Six Days of the Omer. (<em>Yesōd</em> within <em>Malkhut</em>)
 </div></td></tr>
 
 
@@ -660,7 +660,7 @@ and commanded us to count the Omer.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="instruction">5 Sivan:</span> Today is Forty-Nine Days, which are Seven Weeks of the Omer. (<em>Malkhut</em> within <em>Malkhut</em>)
+<img src="https://opensiddur.org/wp-content/uploads/2013/03/Malkhut-shebeMalkhut-1.png" alt="" width="90" height="86" class="alignleft size-full wp-image-24694" /> <span class="instruction">5 Sivan:</span> Today is Forty-Nine Days, which are Seven Weeks of the Omer. (<em>Malkhut</em> within <em>Malkhut</em>)
 </div></td></tr>
 
 

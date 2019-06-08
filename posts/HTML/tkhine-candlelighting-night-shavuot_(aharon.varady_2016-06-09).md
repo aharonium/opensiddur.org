@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: תְּחִינָה לִשָּׁבוּעוֺת נאָך ליכט צינדן | Teḥinah upon Candlelighting at the Onset of Shavuot<br />
+Title: תְּחִינָה לִשָּׁבוּעוֺת נאָך ליכט צינדן | Tkhine upon Candlelighting at the Onset of Shavuot<br />
 Author: aharon.varady<br />
 Link: http://opensiddur.org/?p=13617
 <p />
@@ -555,7 +555,7 @@ that he brighten the stars of our fortune, with help to be kind to us and to pro
 
 This tekhinah (supplication) upon candlelighting for Shavuot in Hebrew and Yiddish appears in the <em>Maḥzor for Shavuot Rav Peninim</em> (Vilna 1911) although we are uncertain whether it first appeared here. Please help to provide a complete attribution. We are grateful to Rivka Zakutinsky for including it in her collection of Tekhinot: <em>Tekhinas, A voice From the Heart</em> (Aura 1992). 
 
-The girsah that Morah Zakutinsky used is different than the one which found in the Rav Peninim. There are a couple of extra stanzas in Rav Peninim absent in Zakutinsky's girsah, and a handful of stanzas in her girsah that are absent in Rav Peninim. The transcription above includes all stanzas found in both versions. For this year's Shavuot (2018/5778), we have translated all but two of them. If you wish, please submit your translation to complete it!
+The girsah that Morah Zakutinsky used is different than the one which found in the Rav Peninim. There are a couple of extra stanzas in Rav Peninim absent in Zakutinsky's girsah, and a handful of stanzas in her girsah that are absent in Rav Peninim. The transcription above includes all stanzas found in both versions. We are grateful to Jonah S. Boyarin's help in reviewing and translating the remaining text.
 
 I have faithfully transcribed the Yiddish according to the orthography in Zakutinsky although I have modified the layout to its appearance in the <em>Maḥzor for Shavuot Rav Peninim</em>. <strong>shgiyot mi yavin, ministarot nakeni.</strong> --Aharon N. Varady
 
