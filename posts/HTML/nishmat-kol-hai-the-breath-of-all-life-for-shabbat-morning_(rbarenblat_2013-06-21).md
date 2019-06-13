@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: נשמת כל חי | Nishmat Kol Ḥai: The Breath of All Life (for Shabbat morning) by Rabbi Rachel Barenblat<br />
+Title: נשמת כל חי | Nishmat Kol Ḥai: The Breath of All Life, a paraliturgical poem for Shabbat morning by Rabbi Rachel Barenblat<br />
 Author: rbarenblat<br />
 Link: http://opensiddur.org/?p=7050
 <p />

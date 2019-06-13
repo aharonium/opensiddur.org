@@ -1,33 +1,158 @@
 <html>
 <head></head>
 <body>
-Title: A Ten-Step, Four-Worlds, One-Earth Tashlikh by Avi Dolgin<br />
+Title: A Ten-Step, Four-Worlds, One-Earth Tashlikh, by Avi Dolgin<br />
 Author: avi.dolgin<br />
 Link: http://opensiddur.org/?p=3778
 <p />
 <hr />
 
+<table style="margin-left: auto;margin-right: auto;" class="draggable">
+<thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
+<tbody>
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
 <div class="english">
-<ol>
-    <li>Think of the practice or attitude that you most wish to change. Be honest with yourself. And be realistic!</li>
-    <li>Take a few minutes to approach it in a "<a href="http://en.wikipedia.org/wiki/Four_worlds">Four Worlds</a>" manner:
-<ul>
-    <li><em>Briyah</em> (Concrete) - Just what is it you do? Be specific.</li>
-    <li><em>Yetzirah</em> (Feelings) - How do you feel as you are doing it? How do you feel just after doing it?</li>
-    <li><em>Assiyah</em> (Knowledge) - Can you create an alternate plan for yourself to analyze the situation and change the response?</li>
-    <li><em>Atzilut</em> (Being) - Imagine the Higher Power within, and visualize yourself as acting consistently with that higher self.</li>
-</ul>
-</li>
-    <li>Now summarize the behaviour and the levels of awareness of it into ONE word.</li>
-    <li>Go outside, get a leaf.</li>
-    <li>Get a water-soluble marker.</li>
-    <li>Write that word on the leaf. (Alternate version: Skip the leaf. Write the word on your hand)</li>
-    <li>Stick it in your pocket (perhaps wrapped in a bit of plastic wrap to keep it fresh and legible. Do it in advance if possible, so you can walk around with <em>Tashlikh</em> consciousness for a few days before you first hear the shofar.</li>
-    <li>Bring the leaf with you to <em>Tashlikh</em> service or to your own personal meditation with moving water.</li>
-    <li>Throw the leaf (minus the plastic wrap!) into the water. (Alternate version: With awareness that your feet are on the ground, move your hands from the air above to the water below). Let your "sin" be washed away.</li>
-    <li>Spend the year working on your plan. Let each sighting of moving water be your reminder.</li>
-</ol>
-</div>
+Think of the practice or attitude that you most wish to change. Be honest with yourself. And be realistic!
+Take a few minutes to approach it in a "<a href="http://en.wikipedia.org/wiki/Four_worlds">Four Worlds</a>" manner:
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+<em>Briyah</em> (Concrete) - Just what is it you do? Be specific.
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+Yetsirah</em> (Feelings) - How do you feel as you are doing it? How do you feel just after doing it?
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+<em>Asiyah</em> (Knowledge) - Can you create an alternate plan for yourself to analyze the situation and change the response?
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+<em>Atsilut</em> (Being) - Imagine the Higher Power within, and visualize yourself as acting consistently with that higher self.
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+Now summarize the behavior and the levels of awareness of it into ONE word.
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+Go outside, get a leaf.
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+Get a water-soluble marker.
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+Write that word on the leaf. (Alternate version: Skip the leaf. Write the word on your hand)
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+Stick the leaf in your pocket (perhaps wrapped in a bit of plastic wrap to keep it fresh and legible. Do it in advance if possible, so you can walk around with <em>Tashlikh</em> consciousness for a few days before you first hear the shofar.
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+Bring the leaf with you to <em>Tashlikh</em> service or to your own personal meditation with moving water.
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+Throw the leaf (minus the plastic wrap!) into the water. (Alternate version: With awareness that your feet are on the ground, move your hands from the air above to the water below). Let your "sin" be washed away.
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+Spend the year working on your plan. Let each sighting of moving water be your reminder.
+</div></td></tr>
+</tbody></table>
 
 <hr />
 
@@ -53,9 +178,7 @@ The name "<em>Tashlikh</em>" and the practice itself are derived from the book o
 He will again have compassion upon us;
 He will subdue our iniquities;
 And Thou wilt cast all their sins into the depths of the sea.[foot]Translation of Micah 7:19 from the JPS 1917.[/foot]
-</td>
-</tr>
-</tbody>
+</td></tr>
 </tbody></table>
 
 The previous year's sins are symbolically "cast off" by literally casting off something (pocket detritus, crumbs, etc.) into a large, natural body of flowing water (such as a river, lake, sea or ocean) while reciting the verse above.

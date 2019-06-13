@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: ברכת האילנות | The Blessing of Flowering Fruit Trees in the Spring Season<br />
+Title: בִּרְכַּת הָאִילָנוֹת | The Blessing of Flowering Fruit Trees in the Spring Season<br />
 Author: aharon.varady<br />
 Link: http://opensiddur.org/?p=2943
 <p />
@@ -92,7 +92,7 @@ Rabbi David Seidenberg (neohasid.org) <a href="http://neohasid.org/stoptheflood/
 
 <blockquote>The language of the blessing recalls part of the <em>borei n'fashot</em> blessing for food, which thanks God for creating "many souls and all their deficiencies" <em>ḥesronan</em>, yet here we say that there is nothing missing or lacking. One could say that the things we lack are themselves the essence of creation, calling us to weave relationships with all forms of life. The gift of fruit, however, embodies an even greater sense of pure abundance and blessing than almost anything else we encounter.
 
-We have a unique intimacy with fruit trees. In scripture that goes back to <em>Gan Eden</em> and the tree of knowing. The connection is even more powerful in the midrashic interpretation of the statement in Deuteronomy 20, <em>Ha'adam eitz ha-sadeh</em>, "A person is a tree of the field" (that is, a fruit tree). (The statement in context is really a question.) For the Kabbalah, a fruit tree is as true an image of God as a person (see below as well as the blessing from <a href="https://opensiddur.org/2010/11/pri-etz-hadar/">P'ri Eitz Hadar</a>). The Sefirot, "the Tree of Life", are thought of as a fruit tree. The reason why is that a fruit tree embodies the principle of sharing, and is a more perfect model for how God interacts with the world than human beings can be.
+We have a unique intimacy with fruit trees. In scripture that goes back to <em>Gan Eden</em> and the tree of knowing. The connection is even more powerful in the midrashic interpretation of the statement in Deuteronomy 20, <em>Ha'adam eitz ha-sadeh</em>, "A person is a tree of the field" (that is, a fruit tree). (The statement in context is really a question.) For the Kabbalah, a fruit tree is as true an image of God as a person (see below as well as the blessing from <a href="https://opensiddur.org/2010/11/pri-etz-hadar/">P'ri Ets Hadar</a>). The Sefirot, "the Tree of Life", are thought of as a fruit tree. The reason why is that a fruit tree embodies the principle of sharing, and is a more perfect model for how God interacts with the world than human beings can be.
 
 Why do we need to see two trees rather than just one to say the blessing? I haven't heard an explanation, but one reason is that the trees need each other to reproduce, at least on the species level (most fruits—except dates and a few others that are gendered by tree—can also fertilize themselves). The <em>halakhah</em> (religious rules) specifically forbids saying the blessing over trees that are grafted from one species onto another – there is an idea of appreciating the awesome reality of this world in itself, separate from human <em>ḥokhmas</em> (wisdom) and power.
 </blockquote>

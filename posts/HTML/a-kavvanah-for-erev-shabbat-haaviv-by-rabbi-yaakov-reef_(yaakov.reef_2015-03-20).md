@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: A Kavvanah for Erev Shabbat HaAviv, by Rabbi Yaakov Reef<br />
+Title: A Kavvanah for Welcoming the Shabbat with the Spring Equinox, by Rabbi Yaakov Reef<br />
 Author: yaakov.reef<br />
 Link: http://opensiddur.org/?p=10867
 <p />
@@ -17,9 +17,9 @@ Link: http://opensiddur.org/?p=10867
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%"><div class="english">
-Gather around the Shabbat candles. 
+<span class="instruction">Gather around the Shabbat candles. 
 Before lighting the candles, 
-have each person share a favorite memory of this past winter.
+have each person share a favorite memory of this past winter.</span>
 </div></td></tr>
 
 
@@ -29,8 +29,8 @@ have each person share a favorite memory of this past winter.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%"><div class="english">
-Once everyone has had a chance to share, 
-have someone read aloud Genesis 1:14:
+<span class="instruction">Once everyone has had a chance to share, 
+have someone read aloud Genesis 1:14:</span>
 </div></td></tr>
 
 
@@ -64,9 +64,9 @@ and years.’
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%"><div class="english">
-Have everyone go around again, 
+<span class="instruction">Have everyone go around again, 
 this time sharing something they are looking forward to this spring. 
-After, have someone read aloud Hosea 6:3:
+After, have someone read aloud Hosea 6:3:</span>
 </div></td></tr>
 
 
@@ -94,7 +94,7 @@ as the spring rains that waters the earth.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%"><div class="english">
-Now light the Shabbat candles.
+<span class="instruction">Now light the Shabbat candles.</span>
 </div></td></tr>
 
 
@@ -113,7 +113,7 @@ Now light the Shabbat candles.
 Blessed are You, 
 Eternal One our G-d, 
 Sovereign of the Universe, 
-Who has made us Holy with your mitzvot 
+Who has made us Holy with your <em>mitsvot</em> 
 and have obligated us to light the Shabbat flame.
 </div></td></tr>
 
@@ -124,8 +124,8 @@ and have obligated us to light the Shabbat flame.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%"><div class="english">
-After wishing everyone a Shabbat Shalom, 
-conclude with reciting Song of Songs:
+<span class="instruction">After wishing everyone a Shabbat Shalom, 
+conclude with reciting Song of Songs:</span>
 </div></td></tr>
 
 

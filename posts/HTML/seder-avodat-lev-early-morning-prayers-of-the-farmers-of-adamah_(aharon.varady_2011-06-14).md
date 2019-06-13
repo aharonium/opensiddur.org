@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: סדר עבודת הלב שחרית | Seder Avodat Lev Shaḥarit: Service of the Heart by the farmers of the Adamah Fellowship<br />
+Title: סדר עבודת הלב שחרית | Seder Avodat Lev Shaḥarit: Service of the Heart, by the farmers of the Adamah Fellowship<br />
 Author: aharon.varady<br />
 Link: http://opensiddur.org/?p=3367
 <p />
@@ -442,11 +442,6 @@ so that my mouth may speak your praise.[foot]Psalms 51:17[/foot]
 עוֹד יָבוֹא שָׁלוֹם עָלֵינוּ. 
 עוֹד יָבוֹא שָׁלוֹם עָלֵינוּ וְעַל כּוּלָם.
 שָׂלָם, עָלֵינוּ וְעַל כׇּל הָעוֹלָם, שָׂלָם, שָׂלֳם.
-</span></div><div class="arabic" style="text-align: right;"><span lang="ar">
-سوف ياتي السلام علينا 
-سوف ياتي السلام علينا 
-سوف ياتي السلام علينا  و على الكل
-سلام علينا و على كل العالم, سلام, سلام
 </span></div>
 </td>
  
@@ -456,12 +451,35 @@ Od yavo shalom aleynu,
 od yavo shalom aleynu, 
 od yavo shalom aleynu v'al kulam.
 Salam, aleynu v’al kol ha’olam, Salam, Salam
-&nbsp;
+</span></div>
+</td>
+ 
+<td style="vertical-align:top;" width="33%">
+<div class="english">
+Let there be peace on us.
+Let there be peace on us.
+Let there be peace on us and the world.
+Peace, on us and on the World. Peace, Peace.[foot]adapted from Kaddish[/foot] 
+</div>
+</td></tr>
+
+
+<tr><td style="vertical-align:top;" width="32%">
+<div class="arabic" style="text-align: right;">
+سوف ياتي السلام علينا 
+سوف ياتي السلام علينا 
+سوف ياتي السلام علينا  و على الكل
+سلام علينا و على كل العالم, سلام, سلام</span>
+</span></div>
+</td>
+ 
+<td style="vertical-align:top;" width="33%">
+<div class="english">
 Sawfa Yaati a-Salam Aleyna.
 Sawfa Yaati a-Salam Aleyna.
 Sawfa Yaati a-Salam Aleyna. Wa alla al-kul 
 Salam, Aleina Wa alla kuhl al-allam, Salam, Salam 
-</span></div>
+</div>
 </td>
  
 <td style="vertical-align:top;" width="33%">

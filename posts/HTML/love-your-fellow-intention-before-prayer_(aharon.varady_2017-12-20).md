@@ -12,11 +12,11 @@ Link: http://opensiddur.org/?p=18441
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
-נכון לומר קודם התפלה (דשחרית):
+<span class="instruction">נכון לומר קודם התפלה (דשחרית):</span>
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
-It is proper to say before morning prayers:
+<span class="instruction">It is proper to say before morning prayers:</span>
 </div></td></tr>
 
 
@@ -32,11 +32,11 @@ I hereby take upon myself the mitzvah, "Love your neighbor as yourself."[foot]Le
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
-לאחרי התפלה יאמר:
+<span class="instruction">לאחרי התפלה יאמר:</span>
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
-It is proper to say after prayer:
+<span class="instruction">It is proper to say after prayer:</span>
 </div></td></tr>
 
 
@@ -55,8 +55,7 @@ Indeed, the righteous will extol Your Name; the upright will dwell in Your prese
 
 Rav Yitsḥak Luria, circa 16th century, on Leviticus 19:18, recorded in Minhagei ha-ARI z"l Petura d’Abba, p.3b by R’ Ḥayyim Vital:
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
+<table style="margin-left: auto;margin-right: auto;">
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
 <div class="commentary" style="text-align: right;"><span lang="he">

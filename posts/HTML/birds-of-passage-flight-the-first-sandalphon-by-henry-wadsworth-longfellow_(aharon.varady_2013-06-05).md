@@ -1,14 +1,14 @@
 <html>
 <head></head>
 <body>
-Title: סנדלפון | Sandalphon, by Henry Wadsworth Longfellow (1858)<br />
+Title: Sandalphon, by Henry Wadsworth Longfellow (1858)<br />
 Author: aharon.varady<br />
 Link: http://opensiddur.org/?p=7047
 <p />
 <hr />
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;">Contribute a translation</th><th style="text-align: left;">Source (English)</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;"><a href="https://opensiddur.org/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
@@ -210,5 +210,9 @@ Now as I beheld the living creatures, behold one wheel on the earth besides the 
 But is it so? Behold it is written: "Blessed be the resplendence of haShem from His place,"[foot]Ezekiel 3:12.[/foot] accordingly, no one knows His place![foot]I.e., the vagueness of the expression ‘from His place’ indicates that God's place is unknown even to His angels.[/foot] — [Sandalphon] pronounces a divine name over the crown, and it goes and rests on His head.[foot]More on Sandalphon can be learned from Arthur Green's <a href="http://books.google.com/books?id=J0B-QgAACAAJ&dq=inauthor:%22Arthur+Green%22&hl=en&sa=X&ei=CvevUc7GO5fG4APezoDgCA&ved=0CEsQ6AEwBzgU">Keter: The Crown of God in Early Jewish Mysticism</a> (1997).[/foot]
 </td></tr>
 </tbody></table>
+
+<h3>Source</h3>
+
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/cu31924021954510#page/n71/mode/2up"]
 </body>
 </html>

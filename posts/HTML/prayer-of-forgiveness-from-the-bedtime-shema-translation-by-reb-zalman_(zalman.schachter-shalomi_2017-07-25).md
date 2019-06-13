@@ -7,18 +7,29 @@ Link: http://opensiddur.org/?p=16104
 <p />
 <hr />
 
-<div class="english">
-Before you go to sleep, make an examination of your conscience for the entire day. Check your relationships and make an act of forgiveness.
-
-Recalling  whatever frustration and hurt  was experienced during the day, at the hands of others, 
-visualize them written on slips of paper. Rip these up one by one,
-forgiving fully  those who hurt you
- as you say:
-</div>
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+Before you go to sleep, 
+make an examination of your conscience for the entire day. 
+Check your relationships and make an act of forgiveness.
+
+Recalling whatever frustration and hurt was experienced during the day, at the hands of others, 
+visualize them written on slips of paper. 
+Rip these up one by one,
+forgiving fully those who hurt you
+as you say:
+</div></td></tr>
+
+
 <tr>
 <td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">

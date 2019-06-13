@@ -1,16 +1,14 @@
 <html>
 <head></head>
 <body>
-Title: פתח אליהו | Pataḥ Eliyahu :: Elijah Began Saying (That We Might Pray Well), translated by Rabbi Zalman Schachter-Shalomi from the Tikkunei Zohar<br />
+Title: פָּתַח אֵלִיָּֽהוּ | Pataḥ Eliyahu (Tiqqunei Zohar 17a), translated by Rabbi Zalman Schachter-Shalomi<br />
 Author: zalman.schachter-shalomi<br />
 Link: http://opensiddur.org/?p=9764
 <p />
 <hr />
 
-תפילה קודם התפילה | Prayer before Praying
-
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">English</th><th style="text-align: left;">Translation (English)</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="28%">
 <div class="liturgy"><span lang="he">
@@ -197,7 +195,7 @@ Gevurah
 the 'Left Arm'
 Tiferet
 the 'Trunk'
-Netzakh and Hod
+Netzaḥ and Hod
 the two 'Thighs'
 Y'sod
 the trunk's 'Extremity';
@@ -576,7 +574,7 @@ Amen Amen.
 </tbody></table>
 
 <hr />
-We are grateful to Gabbai Seth Fishman for his transcription of Reb Zalman's translation of Pataḥ Eliyahu, originally posted at his website, <a href="http://www.jewishrenewalhasidus.org/wordpress/reb-zalman-resources/">Jewish Renewal Hasidus</a>.
+We are grateful to Gabbai Seth Fishman for his transcription of Reb Zalman's translation of Pataḥ Eliyahu "Prayer before Praying that we may Pray Well," originally posted at his website, <a href="http://www.jewishrenewalhasidus.org/wordpress/reb-zalman-resources/">Jewish Renewal Hasidus</a>.
 
 </body>
 </html>

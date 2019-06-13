@@ -80,9 +80,10 @@ This is what we live for.
 This is what keeps us going.
 Day and night we will
 Ponder their meaning. 
+&nbsp;
 Just keep on all along loving us.
-Barukh Attah Yah
-Ohev Ammo Yisrael.
+<em>Barukh Attah Yah
+Ohev Ammo Yisrael.</em>
 </div></td></tr>
 </tbody></table>
 
