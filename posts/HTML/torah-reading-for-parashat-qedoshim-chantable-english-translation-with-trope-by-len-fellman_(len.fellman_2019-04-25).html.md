@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: Torah Reading for Parashat Qedoshim (Leviticus 18:1-20:27): Chantable English translation with trope, by Len Fellman<br />
+Title: Torah Reading for Parashat Qedoshim (Leviticus 18:1-20:27): Chantable English translation with trōp, by Len Fellman<br />
 Author: len.fellman<br />
 License: for license, please consult the following link.<br />
 Link: <a href="http://opensiddur.org/?p=24838">http://opensiddur.org/?p=24838</a>

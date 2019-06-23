@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: סדר קידוש לבנה ☽ Kiddush Levanah: Sanctification of the Moon (Rabbi David Seidenberg, neohasid.org)<br />
+Title: סֵדֶר קִדּוּשׁ לְבָנָה ☽ Kiddush Levanah: Sanctification of the Moon (Rabbi David Seidenberg, neohasid.org)<br />
 Author: david.seidenberg<br />
 License: for license, please consult the following link.<br />
 Link: <a href="http://opensiddur.org/?p=9000">http://opensiddur.org/?p=9000</a>
@@ -10,7 +10,8 @@ Link: <a href="http://opensiddur.org/?p=9000">http://opensiddur.org/?p=9000</a>
 
 <style type="text/css" media="all">.printfriendly {display: none!important;}</style>
 
-<strong>DOWNLOAD:</strong> <a href="https://opensiddur.org/wp-content/uploads/2014/06/Kiddush-Levanah-R-David-Seidenberg-neohasid.org_.odt">ODT</a> | <a href="https://opensiddur.org/wp-content/uploads/2014/06/Kiddush-Levanah-R-David-Seidenberg-neohasid.org_.pdf">PDF</a>
+<strong>DOWNLOAD:</strong> 
+<a href="https://opensiddur.org/wp-content/uploads/2014/06/Kiddush-Levanah-R-David-Seidenberg-neohasid.org_.odt">ODT</a> | <a href="https://opensiddur.org/wp-content/uploads/2014/06/Kiddush-Levanah-R-David-Seidenberg-neohasid.org_.pdf">PDF</a>
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>

@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: תפילת הדרך | The Traveler's Prayer (with a Supplement for Airplane Travel)<br />
+Title: תְּפִלַּת הַדֶּרֶךְ | The Traveler's Prayer (with a Supplement for Airplane Travel)<br />
 Author: aharon.varady<br />
 License: for license, please consult the following link.<br />
 Link: <a href="http://opensiddur.org/?p=12592">http://opensiddur.org/?p=12592</a>
@@ -13,118 +13,41 @@ Link: <a href="http://opensiddur.org/?p=12592">http://opensiddur.org/?p=12592</a
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
-יְהִי רָצוֹן מִלְּפָנֶֽיךָ 
-יְיָ אֱלֹהֵֽינוּ וֵֽאלֹהֵי אֲבוֹתֵֽינוּ 
-שֶׁתּוֹלִיכֵֽנוּ לְשָׁלוֹם 
-וְתַצְעִידֵֽנוּ לְשָׁלוֹם 
-וְתִסְמְכֵֽנוּ לְשָׁלוֹם 
-וּתְבִיאֵֽנוּ אֶל־מְחוֹז חֶפְצֵֽנוּ לְחַיִּים וּלְשָׁלוֹם 
+יְהִי רָצוֹן מִלְּפָנֶֽיךָ יְיָ אֱלֹהֵֽינוּ וֵֽאלֹהֵי אֲבוֹתֵֽינוּ שֶׁתּוֹלִיכֵֽנוּ לְשָׁלוֹם וְתַצְעִידֵֽנוּ לְשָׁלוֹם וְתִסְמְכֵֽנוּ לְשָׁלוֹם וּתְבִיאֵֽנוּ אֶל־מְחוֹז חֶפְצֵֽנוּ לְחַיִּים וּלְשָׁלוֹם וְתַצִּילֵֽנוּ מִכַּף כָּל־אוֹיֵב וְאוֹרֵב בַּדֶּֽרֶךְ וְתִשְׁלַח בְּרָכָה בְּמַעֲשֵׂה יָדֵֽינוּ וְתִתְּנֵֽנוּ לְחֵן וּלְחֶֽסֶד וּלְרַחֲמִים בְּעֵינֶֽיךָ וּבְעֵינֵי כָל־רוֹאֵֽנוּ כִּי אַתָּה שׁוֹמֵֽעַ תְּפִלַּת עַמְּךָ יִשְׂרָאֵל בְּרַחֲמִים: בָּרוּךְ אַתָּה יְיָ שׁוֹמֵֽעַ תְּפִלָּה:‏ 
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-May it be your will, 
-YHVH (haShem) our elo'ah and elo'ah of our ancestors, 
-that we journey toward peace, 
-that our footsteps be guided towards peace, 
-that we are supported in peace,
-and that we reach our desired destinations for life and peace. 
-</div></td></tr>
+May it be Your will, Eternal One, God of our ancestors, that we journey toward peace, that our footsteps be guided towards peace, and that we reach our desired destinations for life, gladness, and peace. May we be protected from every predator, man or animal, lying in wait for us along the way and may there be blessing in our handiwork, and may we be granted peace, kindness, and mercy in the eyes of all who see us. May our prayer be heard, for You are the One who hears and holds all prayer. Blessed are You YHVH, who hears prayer.[foot]Mishnah Berakhot 4:4, Mishnah Taanit 2:4[/foot][foot]Cf. Aruch HaShulchan 1:110:8; Shulchan Arukh Orach Chayyim 230:1[/foot]
+</div>
+</td></tr></tbody></table>
 
-
+<table style="margin-left: auto;margin-right: auto;" class="draggable">
+<thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
+<tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
-וְתַצִּילֵֽנוּ מִכַּף כָּל־אוֹיֵב וְאוֹרֵב בַּדֶּֽרֶךְ 
-וְתִשְׁלַח בְּרָכָה בְּמַעֲשֵׂה יָדֵֽינוּ 
-וְתִתְּנֵֽנוּ לְחֵן וּלְחֶֽסֶד וּלְרַחֲמִים בְּעֵינֶֽיךָ 
-וּבְעֵינֵי כָל־רוֹאֵֽנוּ 
-כִּי אַתָּה שׁוֹמֵֽעַ תְּפִלַּת עַמְּךָ יִשְׂרָאֵל בְּרַחֲמִים: 
-בָּרוּךְ אַתָּה יְיָ שׁוֹמֵֽעַ תְּפִלָּה:‏ 
-</span></div>
-</td>
- 
-<td style="vertical-align:top;" width="53%">
-<div class="english">
-May we be protected from every predator, man or animal, (lying in wait for us) along the way 
-and may there be blessing in our handiwork, 
-and may we be granted peace, kindness, and mercy in your sight
-and in the eyes of all who see us. 
-for you are the one who hears the prayer of your people Yisra'el with compassion. 
-Blessed are You YHVH, who hears prayer.[foot]Mishnah Berakhot 4:4, Mishnah Taanit 2:4[/foot][foot]Cf. Aruch HaShulchan 1:110:8; Shulchan Arukh Orach Chayyim 230:1[/foot]
-</div></td></tr>
-
-
-<tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="commentary" style="text-align: right;"><span lang="he">
 תפילה נוספת לנוסע באוירון
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Supplemental Prayer for Airplane Travel
+<u>Special Added Prayer for Airplane Travel</u>
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
-אִם אֶסַק שָׁמַיִם שָׁם אָתָּה, 
-וְאַצִיעָה שְׁאוֺל הִנְךָ. 
-אֶשָׂא כַנְפֵי שָׁחַר, 
-אֶשְׁכְּנָה בְאַחֲרִית יָם. 
-גַם שָׁם יָדְךָ תַנְחֵנִי, 
-וְתֹאחֲזֵנִי יְמִינְךָ. 
+אִם אֶסַק שָׁמַיִם שָׁם אָתָּה, וְאַצִיעָה שְׁאוֺל הִנְךָ. אֶשָׂא כַנְפֵי שָׁחַר, אֶשְׁכְּנָה בְאַחֲרִית יָם. גַם שָׁם יָדְךָ תַנְחֵנִי, וְתֹאחֲזֵנִי יְמִינְךָ. וִיהִי רָצוֺן מִלְפָנֶיךָ אָבִינוּ שֶׁבַשָׁמַיִם שֶׁתִּשְׁמְרֵנוּ מֵרוּחַ סוֺעָה מִסַעַר וּמִצַעַר וְתוֺצִיא רוּחַ טוֺב מֵאוֺצרוֺתֶיךָ לְהַנְהִיג אֶת סְפִינַת הָאַוִיר וְחַזֵק כָּל מַנְהִיגֶהָ וְאָמָנֶיהָ שֶׁיַנְהִגוּ אוֺתָה כָּרָאוּי בְּלֹא עַצְלוּת וְתֵשׁוּת כֹּחַ, וְתַגִיעֵנוּ אֶל מְחוֺז חֶפְצֵנוּ לְחַיִים וּלְשָׁלוֺם בְּלִי שׁוּם צַעַר וָנֵזֶק. שָׁמְרָה נַפְשִׁי וְהַצִילֵנִי אַל אֵבוֹשׁ כִּי חָסִיתִי בָךְ. וַאֲנַחְנוּ נְבָרֵךְ יָהּ, מֵעַתָּה וְעַד עוֺלָם הַלְלוּיָהּ׃
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-If I ascend up into the heavens, you are there, 
-[and if I descend to Sheol, you are there too[foot]This full translation of Psalms 139:8 was not included in the original prayer's English translation[/foot]]. 
-If I take wings of the morning 
-and dwell in the uttermost parts of the sea, 
-even there would your hand lead me, 
-and your right hand would hold me.[foot]Psalms 139:8-10[/foot] 
-</div></td></tr>
-
-
-<tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
-וִיהִי רָצוֺן מִלְפָנֶיךָ 
-אָבִינוּ שֶׁבַשָׁמַיִם 
-שֶׁתִּשְׁמְרֵנוּ מֵרוּחַ סוֺעָה מִסַעַר וּמִצַעַר 
-וְתוֺצִיא רוּחַ טוֺב מֵאוֺצרוֺתֶיךָ 
-לְהַנְהִיג אֶת סְפִינַת הָאַוִיר 
-וְחַזֵק כָּל מַנְהִיגֶהָ וְאָמָנֶיהָ שֶׁיַנְהִגוּ אוֺתָה כָּרָאוּי 
-בְּלֹא עַצְלוּת וְתֵשׁוּת כֹּחַ, 
-וְתַגִיעֵנוּ אֶל מְחוֺז חֶפְצֵנוּ לְחַיִים וּלְשָׁלוֺם 
-בְּלִי שׁוּם צַעַר וָנֵזֶק. 
-שָׁמְרָה נַפְשִׁי וְהַצִילֵנִי 
-אַל אֵבוֹשׁ 
-כִּי חָסִיתִי בָךְ. 
-וַאֲנַחְנוּ נְבָרֵךְ יָהּ, 
-מֵעַתָּה וְעַד עוֺלָם הַלְלוּיָהּ׃
-</span></div>
-</td>
- 
-<td style="vertical-align:top;" width="53%">
-<div class="english">
-And may it be your will, 
-our father in heaven, 
-that you guard us from storm and tempest and grief. 
-And may you bring forth from your storehouses a propitious wind 
-to carry our plane, 
-and may you sustain and preserve those who fly it, 
-that they neither weaken nor falter, 
-and may we reach our destination alive and well, 
-without any trouble and injury. 
-O keep my soul, and deliver me. 
-Let me not be abashed, 
-for I have taken refuge in you.[foot]Psalms 25:20[/foot] 
-But we will bless Yah 
-from this time forth and for ever, Hallelu-Yah.[foot]Psalms 115:18[/foot]
+If I ascend up into the heavens, you are there, [and if I descend to Sheol, you are there too[foot]This full translation of Psalms 139:8 was not included in the original prayer's English translation[/foot]]. If I take wings of the morning and dwell in the uttermost parts of the sea, even there would your hand lead me, and your right hand would hold me.[foot]Psalms 139:8-10[/foot] And may it be your will, our father in heaven, that you guard us from storm and tempest and grief. And may you bring forth from your storehouses a propitious wind to carry our plane, and may you sustain and preserve those who fly it, that they neither weaken nor falter, and may we reach our destination alive and well, without any trouble and injury. O keep my soul, and deliver me. Let me not be abashed, for I have taken refuge in you.[foot]Psalms 25:20[/foot] But we will bless Yah from this time forth and for ever, Hallelu-Yah.[foot]Psalms 115:18[/foot]
 </div>
 </td></tr></tbody></table>
 

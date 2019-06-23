@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: Torah Reading for Parashat Shemot (Exodus 1:1-6:1): Chantable English translation with trope, by Len Fellman<br />
+Title: Torah Reading for Parashat Shemot (Exodus 1:1-6:1): Chantable English translation with trōp, by Len Fellman<br />
 Author: len.fellman<br />
 License: for license, please consult the following link.<br />
 Link: <a href="http://opensiddur.org/?p=23055">http://opensiddur.org/?p=23055</a>

@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: מגילת איכה | Megillat Eikhah: Chantable English translation with trope, by Len Fellman<br />
+Title: מְגִלַּת אֵיכָה | Megillat Eikhah: Chantable English translation with trōp, by Len Fellman<br />
 Author: len.fellman<br />
 License: for license, please consult the following link.<br />
 Link: <a href="http://opensiddur.org/?p=20739">http://opensiddur.org/?p=20739</a>
@@ -10,7 +10,7 @@ Link: <a href="http://opensiddur.org/?p=20739">http://opensiddur.org/?p=20739</a
 
 <style type="text/css" media="all">.printfriendly {display: none!important;}</style>
 
-<strong>DOWNLOAD:</strong> <a href="https://opensiddur.org/wp-content/uploads/2018/07/Lamentations-in-English-with-trope-Len-Fellman-2017.pdf">PDF</a>
+<strong>DOWNLOAD:</strong> <a href="https://archive.org/download/LamentationsInEnglishWithTropeLenFellman2017/Lamentations%20in%20English%20with%20trope%20%28Len%20Fellman%202017%29.pdf">PDF</a>
 
 Chapter 1: [su_audio url="https://archive.org/download/LamentationsInEnglishWithTropeLenFellman2017/LenFellman-LamentationsChapter1.mp3" width="60%"]
 
@@ -26,13 +26,9 @@ Chapter 5: [su_audio url="https://archive.org/download/LamentationsInEnglishWith
 
 <h3>Source</h3>
 
-
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/LamentationsInEnglishWithTropeLenFellman2017#page/n0/mode/2up"]
 
-
 <hr />
-
-
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
@@ -2267,7 +2263,7 @@ The goal was to create an English reading that can be sung to the traditional <e
 
 If one examines the authoritative translations, it becomes clear that there are many passages in the text of whose meaning the experts are unsure. In those situations I attempted to choose a reading which scans well with the melody, and which agrees with some (or at least one) of the authoritative renderings.
 
-The <em>trōp</em> melodies I used were taken from the book CHANTING THE HEBREW BIBLE by Joshua R. Jacobson. In order to adapt the <em>trōp</em> symbols to a left-to-right language like English, I reversed the direction of the following <em>trōp</em> symbols: mercha tip’cha munach tevir kadma/pashta geresh gershayim 
+The <em>trōp</em> melodies I used were taken from the book CHANTING THE HEBREW BIBLE by Joshua R. Jacobson. In order to adapt the <em>trōp</em> symbols to a left-to-right language like English, I reversed the direction of the following <em>trōp</em> symbols: mercha tip’cha munach tevir kadma/pashta geresh gershayim
 
 However, I left these the way they are: telisha katana telisha gedola
 

@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: יגדל אלהים חי | Yigdal by Daniel ben Judah (German translation by Chajm Guski)<br />
+Title: יִגְדַּל אֱלֹהִים חַי | Yigdal by Daniel ben Judah (German translation by Chajm Guski)<br />
 Author: Chajm<br />
 License: for license, please consult the following link.<br />
 Link: <a href="http://opensiddur.org/?p=1409">http://opensiddur.org/?p=1409</a>

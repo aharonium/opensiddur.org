@@ -57,7 +57,7 @@ Sustainer of All.
 עַל שֶׁהִנְחַֽלְתָּ לַאֲבוֹתֵֽינוּ 
 אֶֽרֶץ חֶמְדָּה טוֹבָה וּרְחָבָה׃
 וְנָתַתָּ לָֽנוּ 
-בְּרִית וְתּוֹרַת 
+בְּרִית וְתּוֹרָה 
 חַיִים וּמָזוֹן׃
 בָּרוּךְ אַתָּה יְיָ 
 עַל הָאָֽרֶץ וְעַל הַמָּזוֹן׃
@@ -144,6 +144,5 @@ Aharon Varady adapted this translation from the English translation made by Rabb
 <h3>Source(s)</h3>
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/AuthorisedDailyPrayerBook9thEdition1912#page/n594/mode/2up"]
-
 </body>
 </html>

@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: אשת חיל | Eyshet Ḥayil, adapted by Alex and Peri Sinclair<br />
+Title: אֵשֶׁת חַיִל | Eyshet Ḥayil, adapted by Alex and Peri Sinclair<br />
 Author: peri.sinclair<br />
 License: for license, please consult the following link.<br />
 Link: <a href="http://opensiddur.org/?p=4378">http://opensiddur.org/?p=4378</a>

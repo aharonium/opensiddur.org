@@ -1,18 +1,18 @@
 <html>
 <head></head>
 <body>
-Title: תפלה בעד הממשׁלה | A Prayer for the Government by Louis Ginzberg (1927)<br />
+Title: תְּפִלָּה בְּעַד הַמֶּמְשָׁלָה | A Prayer for the Government, by Louis Ginzberg (1927)<br />
 Author: tim.bernard<br />
 License: for license, please consult the following link.<br />
 Link: <a href="http://opensiddur.org/?p=1134">http://opensiddur.org/?p=1134</a>
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;">
+<table style="margin-left: auto;margin-right: auto;" class="draggable">
+<thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr>
-<td width="46%">
-<div style="text-align: right;" class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
 אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֹתֵֽינוּ
 קַבֵּל נָא בְּרַחַמִים אֶת־תְּפִלָּתֵֽנוּ בְּעַד אַרְצֵֽנוּ וּמֶמְשַׁלְתָּהּ. 
 הָרֵק אֶת־בּרְכָתְךָ ע֚ל הָאָֽרֶץ הַזֺּאת 

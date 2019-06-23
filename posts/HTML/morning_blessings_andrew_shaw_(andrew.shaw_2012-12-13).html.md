@@ -1,15 +1,19 @@
 <html>
 <head></head>
 <body>
-Title: ברכות השחר | Morning blessings for waking up and starting the day, adapted by Andrew Shaw<br />
+Title: סֵדֶר בִּרְכוֹת הַשַּׁחַר | Morning blessings for waking up and starting the day, adapted by Andrew Shaw<br />
 Author: andrew.shaw<br />
 License: for license, please consult the following link.<br />
 Link: <a href="http://opensiddur.org/?p=5603">http://opensiddur.org/?p=5603</a>
 <p />
 <hr />
 
+[caption id="attachment_4212" align="aligncenter" width="768"]<img class="size-full wp-image-4212 " title="Good Morning by khawkins04 (CC-BY 2.0)" alt="" src="https://opensiddur.org/wp-content/uploads/2011/12/good-morning-by-khawkins04-cc-by.jpg" width="768" height="1024" /> Image: <a href="http://www.flickr.com/photos/khawkins04/390311799/">Good Morning</a> by khawkins04 (License: CC-BY 2.0)[/caption]
+
+<strong>DOWNLOAD:</strong> <a href="https://opensiddur.org/wp-content/uploads/2012/12/Andrew-Shaw-Birkhot-haShachar-Morning-Blessings.txt">TXT</a> | <a href="https://opensiddur.org/wp-content/uploads/2012/12/Andrew-Shaw-Birkhot-haShachar-Morning-Blessings.odt">ODT</a> | <a href="https://opensiddur.org/wp-content/uploads/2012/12/Andrew-Shaw-Birkhot-haShachar-Morning-Blessings.pdf">PDF</a>
+
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation and Paraliturgical reflection (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
@@ -50,8 +54,8 @@ With words of thanks I’ll greet the dawn.
 
 <td style="vertical-align:top;" width="53%"><div class="english">
 All blessing flow from Yah, our God, life of the worlds.
-We are renewed through the holiness of mitzvot,
-and through the mitzvah of washing the hands.
+We are renewed through the holiness of <em>mitsvot</em>,
+and through the <em>mitsvah </em>of washing the hands.
 
 <hr />
 One hand washes the other
@@ -360,7 +364,7 @@ who removes sleep from my eyes, slumber from my eyelids.
 May it be your will, Eternal One, our God,
 the God of my fathers, and the God of my mothers,
 that we will accustom ourselves to your Torah,
-and attach ourselves to your mitzvot.
+and attach ourselves to your <emzmitsvot</em>.
 Do not bring us under the influence of sin, 
 of transgression or iniquity, of temptation, or of scorn.
 Do not allow our bad inclinations to control us,
@@ -401,8 +405,8 @@ bringing wholeness to our lives and healing to the world.
 
 <td style="vertical-align:top;" width="53%"><div class="english">
 All blessing flow from Yah, our God, life of the worlds.
-We are renewed through the holiness of mitzvot,
-and through the mitzvah of engaging in words of Torah.
+We are renewed through the holiness of <emzmitsvot</em>,
+and througz the <em>mitsvah</em> of engaging in words of Torah.
 </div></td>
 </tr>
 
@@ -505,13 +509,9 @@ and the study of Torah is comparable to them all.
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
-I hereby accept upon myself the mitzvah of the creator:
+I hereby accept uzon myself the <em>mitsvah</em> of the creator:
 “Love your neighbor as yourself.”
 </div></td></tr>
 </tbody></table>
-
-<hr />
-
-<strong>DOWNLOAD:</strong> <a href="https://opensiddur.org/wp-content/uploads/2012/12/Andrew-Shaw-Birkhot-haShachar-Morning-Blessings.txt">TXT</a> | <a href="https://opensiddur.org/wp-content/uploads/2012/12/Andrew-Shaw-Birkhot-haShachar-Morning-Blessings.odt">ODT</a> | <a href="https://opensiddur.org/wp-content/uploads/2012/12/Andrew-Shaw-Birkhot-haShachar-Morning-Blessings.pdf">PDF</a>
 </body>
 </html>

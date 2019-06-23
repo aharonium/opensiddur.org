@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: Torah Reading for Parashat Vayeshev (Genesis 37:1-40:23): Chantable English translation with trope, by Len Fellman<br />
+Title: Torah Reading for Parashat Vayeshev (Genesis 37:1-40:23): Chantable English translation with trōp, by Len Fellman<br />
 Author: len.fellman<br />
 License: for license, please consult the following link.<br />
 Link: <a href="http://opensiddur.org/?p=22761">http://opensiddur.org/?p=22761</a>

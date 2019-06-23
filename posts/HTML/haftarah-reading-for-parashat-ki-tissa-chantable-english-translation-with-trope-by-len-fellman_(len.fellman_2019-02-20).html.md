@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: Haftarah Reading for Parashat Ki Tissa (I Kings 18:1-39): Chantable English translation with trope, by Len Fellman<br />
+Title: Haftarah Reading for Parashat Ki Tissa (I Kings 18:1-39): Chantable English translation with trōp, by Len Fellman<br />
 Author: len.fellman<br />
 License: for license, please consult the following link.<br />
 Link: <a href="http://opensiddur.org/?p=23852">http://opensiddur.org/?p=23852</a>

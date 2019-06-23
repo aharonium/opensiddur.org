@@ -27,7 +27,7 @@ According to the poetry of the Midrash Tanḥuma, Bereshit 1:1, the words of the
 
 The kernel of biblical text 'E and' its early supplemental layer 'J', are absent from this parashah. 
 
-Parashat Naso (Numbers 4:21-7:89) in the annual Torah reading cycle begins Sefer Bamidbar. It is preceded by parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-bamidbar/parashat-bamidbar/parashat-bmidbar-color-coded-according-to-its-narrative-layers/">b'Midbar</a> (Numbers 1:1–4:20). Parashat b'Ha'alot'kha (Numbers 8:1-12:16) follows it. 
+Parashat Naso (Numbers 4:21-7:89) in the annual Torah reading cycle begins Sefer Bamidbar. It is preceded by parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-bamidbar/parashat-bamidbar/parashat-bmidbar-color-coded-according-to-its-narrative-layers/">b'Midbar</a> (Numbers 1:1–4:20). Parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-bamidbar/parashat-bhaalotekha/parashat-bhaalotekha-color-coded-according-to-its-narative-layers/">b'Ha'alotekha</a> (Numbers 8:1-12:16) follows it. 
 </div>
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">

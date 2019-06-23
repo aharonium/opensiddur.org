@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: מודה אני | Modah/Modeh Ani (translation by Andrew Shaw)<br />
+Title: מודה אני | Modah/Modeh Ani, by Moshe ibn Makhir (translation by Andrew Shaw)<br />
 Author: andrew.shaw<br />
 License: for license, please consult the following link.<br />
 Link: <a href="http://opensiddur.org/?p=4211">http://opensiddur.org/?p=4211</a>
@@ -25,11 +25,10 @@ for You've returned to me my soul with compassion.
 Abundant is your faith!
 </div></td>
 </tr>
-</tbody>
 </tbody></table>
 
 <hr />
 
-<em>Modeh Ani</em> first appeared as an addendum in <em>Seder ha-Yom</em> by Rav Moshe Ibn Machir of Tzfat, published in 1599. Read more on Modeh Ani at <a href="https://hardcoremesorah.wordpress.com/2011/08/20/modeh-ani-i-give-thanks-before-you/">Hardcore Mesorah</a>.
+<em>Modeh Ani</em> first appeared as an addendum in <em>Seder ha-Yom</em> by Rav Moshe Ibn Machir of Tzfat, published in 1599. In this 20th century variation, <em>melekh</em> (king) has been replaced by <em>ruaḥ</em> (spirit). Read more on "Modeh Ani" at <a href="https://hardcoremesorah.wordpress.com/2011/08/20/modeh-ani-i-give-thanks-before-you/">Hardcore Mesorah</a>.
 </body>
 </html>

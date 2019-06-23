@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: Torah Reading for Parashat Ph'qudei (Exodus 38:21-40:38): Chantable English translation with trope, by Len Fellman<br />
+Title: Torah Reading for Parashat Ph'qudei (Exodus 38:21-40:38): Chantable English translation with trōp, by Len Fellman<br />
 Author: len.fellman<br />
 License: for license, please consult the following link.<br />
 Link: <a href="http://opensiddur.org/?p=24100">http://opensiddur.org/?p=24100</a>
