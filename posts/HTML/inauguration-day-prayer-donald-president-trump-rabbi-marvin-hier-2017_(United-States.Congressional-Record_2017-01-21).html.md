@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: Inauguration Day Prayer for "President" Donald Trump, by Rabbi Marvin Hier (2017)<br />
+Title: Inauguration Day Prayer for Donald Trump, by Rabbi Marvin Hier (2017)<br />
 Author: United-States.Congressional-Record<br />
 License: for license, please consult the following link.<br />
 Link: <a href="http://opensiddur.org/?p=15020">http://opensiddur.org/?p=15020</a>
@@ -19,7 +19,7 @@ Link: <a href="http://opensiddur.org/?p=15020">http://opensiddur.org/?p=15020</a
 <td style="vertical-align:top;" width="53%">
 <div class="english">
 Eternal God, 
-bless "President" Donald J. Trump, 
+bless President Donald J. Trump, 
 and America, our great nation.
 </div></td></tr>
 
@@ -130,7 +130,7 @@ Amen.
 
 <hr />
 
-Rabbi Marvin Hier offered this prayer of blessing for "President" Donald Trump and the United States of America on January 20, 2017 at the inauguration day ceremony, whereafter it was entered into the <em>Congressional Record</em> (a U.S. government document in the Public Domain). Misgivings over Rabbi Hier's presentation of a prayer at this ceremony reflected widely felt opposition within the Jewish community to any normalization of "President" Trump's unpopular election to the chief executive office.  -- A.N. Varady, ed.
+Rabbi Marvin Hier offered this prayer of blessing for Donald Trump and the United States of America on January 20, 2017 at the inauguration day ceremony, whereafter it was entered into the <em>Congressional Record</em> (a U.S. government document in the Public Domain). Misgivings over Rabbi Hier's presentation of a prayer at this ceremony reflected widely felt opposition within the Jewish community to any normalization of "President" Trump's unpopular election to the chief executive office.  -- A.N. Varady, ed.
 
 <h3>Source</h3>
 

@@ -7801,7 +7801,8 @@ Like a flock of homesick cranes flying night and day back to their mountain nest
 </tbody></table>
 
 <hr />
-Rabindranath Tagore's Gitanjali (Song-offerings) was first published in Bengali containing 157 songs. A second edition in English soon followed containing 103 "songs" out of which 53 were taken from the original Bengali edition and translated by Tagore himself. 
+
+Rabindranath Tagore's Gitanjali (Song-offerings) was first published in Bengali containing 157 songs. A second edition in English soon followed containing 103 "songs" out of which 53 were taken from the original Bengali edition and translated by Tagore himself.
 
 <blockquote>These translations are of poems contained in three books—Naivedya, Kheya, and Gitanjali—to be had at the Indian Publishing House, 22 Cornwallis Street, Calcutta; and of a few poems which have appeared only in periodicals.</blockquote>
 
