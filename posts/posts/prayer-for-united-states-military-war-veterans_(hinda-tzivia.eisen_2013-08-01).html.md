@@ -62,7 +62,7 @@ and foster among us true peace,
 that we might bring about the words written by the hand of Your prophet: 
 “Nation shall not lift up sword against nation, 
 neither shall they learn war anymore.”[foot]Isaiah 2:4 and Micah 4:3[/foot] 
-And let us say: Amen.
+And let us say: <em>Amen</em>.
 </td></tr>
 </tbody></table>
 </body>

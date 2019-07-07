@@ -147,7 +147,7 @@ The discussion and formula for the blessing preceding Torah Study can be found i
 The Gemara clarifies: What formula of blessings does he recite (for studying Torah)?  
 Rav Yehuda said that Shmuel said: 
 The formula of this blessing is like the standard formula for blessings recited over other mitsvot: 
-Blessed are You, YHVH our elo'ah, cosmic majesty, 
+Blessed are You, YHVH our <em>elo'ah</em>, cosmic majesty, 
 Who sanctified us with their mitsvot 
 and commanded us to engage in matters of Torah.
 </div></td>
@@ -175,7 +175,7 @@ and commanded us to engage in matters of Torah.
 <div class="english">
 And Rabbi Yoḥanan concludes the blessing by adding the following: 
 Please help,
-YHVH our elo'ah, 
+YHVH our <em>elo'ah</em>, 
 make the words of your Torah sweet in our mouths 
 and in the mouths of your people, the house of Yisra'el, 
 so that we and our descendants 

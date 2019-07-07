@@ -47,7 +47,7 @@ and not one child die.
 And may we merit to raise them to [follow] Torah, 
 to [the wedding] Khupe, 
 and to [a life of] good deeds with fear of Heaven — 
-Amen and Amen!
+Amen and <em>Amen</em>!
 </div></td>
 </tr>
 </tbody></table>

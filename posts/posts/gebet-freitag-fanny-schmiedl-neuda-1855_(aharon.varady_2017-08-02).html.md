@@ -82,7 +82,7 @@ Du hast, o Gott, in deinem Ebenbilde den Menschen geschaffen und gebildet. Einen
 
 <tr><td style="vertical-align:top;" width="50%">
 <div class="english"><span lang="de">
-Mögest nur du mir beistehen, mein Gott und Herr, und mich stärken in meinem Streben, mögest du mich bewahren, Allbarmherziger, vor jeder Versuchung, daß nicht Mangel und Noth, Kummer und Sorge mich bewältigen, daß nicht körperliche Leiden und Drangsale das Licht meines Geistes trüben, daß nicht Seelenkummer und Pein meinen Körper schwächen und zerstören vor der Zeit, damit ich stets aufwärts strebe, und dir die Kraft des Geistes, und die Gluth des Herzens zum Opfer bringe, bis einst nach deinem unerforschlichen Rathschlusse Körper und Geist sich trennen, und die Seele sich emporschwingt, um wieder zu sein bei dir, Allerhabener, der du bist und bleibst von Ewigkeit zu Ewigkeit. Amen.
+Mögest nur du mir beistehen, mein Gott und Herr, und mich stärken in meinem Streben, mögest du mich bewahren, Allbarmherziger, vor jeder Versuchung, daß nicht Mangel und Noth, Kummer und Sorge mich bewältigen, daß nicht körperliche Leiden und Drangsale das Licht meines Geistes trüben, daß nicht Seelenkummer und Pein meinen Körper schwächen und zerstören vor der Zeit, damit ich stets aufwärts strebe, und dir die Kraft des Geistes, und die Gluth des Herzens zum Opfer bringe, bis einst nach deinem unerforschlichen Rathschlusse Körper und Geist sich trennen, und die Seele sich emporschwingt, um wieder zu sein bei dir, Allerhabener, der du bist und bleibst von Ewigkeit zu Ewigkeit. <em>Amen</em>.
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">

@@ -179,12 +179,12 @@ May I devote all my energies to these sublime purposes and thereby seek and find
 
 <tr><td style="vertical-align:top;" width="50%">
 <div class="german"><span lang="de">
-Also sei dein göttlicher Wille! Amen.
+Also sei dein göttlicher Wille! <em>Amen</em>.
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
 <div class="english"><span lang="en">
-May this be your divine will. Amen.
+May this be your divine will. <em>Amen</em>.
 </span></div>
 </td></tr>
 </tbody></table>

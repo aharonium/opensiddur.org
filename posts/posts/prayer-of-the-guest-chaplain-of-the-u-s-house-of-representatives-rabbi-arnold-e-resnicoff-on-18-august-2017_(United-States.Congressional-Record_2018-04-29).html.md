@@ -111,7 +111,7 @@ Thy liberty in law.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-–– And let us say, Amen
+–– And let us say, <em>Amen</em>
 </div></td></tr>
 </tbody></table>
 

@@ -41,7 +41,7 @@ in our lives and in our time,
 now in this world, 
 and in every moment to come. 
 
-And let us say: Amen.
+And let us say: <em>Amen</em>.
 </div></td></tr>
 
 
@@ -52,7 +52,7 @@ And let us say: Amen.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-[Everyone:] Amen. 
+[Everyone:] <em>Amen</em>. 
 
 May that great Name be blessed within us 
 and in all worlds, 
@@ -81,7 +81,7 @@ to the highest and most majestic… ([Everyone:] Blessed be!)
 and songs and prayers
 that can ever be said in the whole world. 
 
-And let us say: ([Everyone:] Amen.)
+And let us say: ([Everyone:] <em>Amen</em>.)
 </div></td></tr>
 
 
@@ -106,7 +106,7 @@ to our community,
 to all peoples, 
 and to all beings in this world. 
 
-And let us say: ([Everyone:] Amen.)
+And let us say: ([Everyone:] <em>Amen</em>.)
 </div></td></tr>
 
 
@@ -124,7 +124,7 @@ in the furthest reaches of Creation
 will bring Peace to us 
 and to all living beings. 
 
-And let us say: ([Everyone:] Amen.)
+And let us say: ([Everyone:] <em>Amen</em>.)
 </div></td></tr>
 </tbody></table>
 

@@ -192,7 +192,7 @@ Parashat Shemot (Exodus 1:1-6:1) in the annual Torah reading cycle, is read on t
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="e"><sup>4</sup>&nbsp;</span><span class="j">When YHVH saw that he had turned aside to see,</span> <span class="e">Elohim called to him out of the midst of the bush, he said: "Mosheh! Mosheh!" He said: "Here I am." <sup>5</sup>&nbsp;He said: "Do not come near to here, put off your sandal from your foot, for the place on which you stand – it is holy ground!" <sup>6</sup>&nbsp;And he said: "I am the elo'ah of your father,</span> <span class="j">the elo'ah of Avraham, the elo'ah of Yitsḥaq, and the elo'ah of Yaaqov."</span> <span class="e">Mosheh concealed his face, for he was afraid to gaze upon Elohim.</span>
+<span class="e"><sup>4</sup>&nbsp;</span><span class="j">When YHVH saw that he had turned aside to see,</span> <span class="e">Elohim called to him out of the midst of the bush, he said: "Mosheh! Mosheh!" He said: "Here I am." <sup>5</sup>&nbsp;He said: "Do not come near to here, put off your sandal from your foot, for the place on which you stand – it is holy ground!" <sup>6</sup>&nbsp;And he said: "I am the <em>elo'ah</em> of your father,</span> <span class="j">the <em>elo'ah</em> of Avraham, the <em>elo'ah</em> of Yitsḥaq, and the <em>elo'ah</em> of Yaaqov."</span> <span class="e">Mosheh concealed his face, for he was afraid to gaze upon Elohim.</span>
 </div></td></tr>
 
 
@@ -225,7 +225,7 @@ Parashat Shemot (Exodus 1:1-6:1) in the annual Torah reading cycle, is read on t
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="e"><sup>13</sup>&nbsp;Mosheh said to Elohim: "Here, I will come to the Children of Yisrael and I will say to them: 'The elo'ah of your fathers has sent me to you,' and they will say to me: 'What is his name?' – what shall I say to them?" <sup>14</sup>&nbsp;Elohim said to Mosheh: "'EHYEH ASHER EHYEH/I will be-there howsoever I will be-there.'" And he said: "Thus shall you say to the Children of Yisrael: 'EHYEH/I-WILL-BE-THERE sends me to you.'"</span>
+<span class="e"><sup>13</sup>&nbsp;Mosheh said to Elohim: "Here, I will come to the Children of Yisrael and I will say to them: 'The <em>elo'ah</em> of your fathers has sent me to you,' and they will say to me: 'What is his name?' – what shall I say to them?" <sup>14</sup>&nbsp;Elohim said to Mosheh: "'EHYEH ASHER EHYEH/I will be-there howsoever I will be-there.'" And he said: "Thus shall you say to the Children of Yisrael: 'EHYEH/I-WILL-BE-THERE sends me to you.'"</span>
 </div></td></tr>
 
 
@@ -236,7 +236,7 @@ Parashat Shemot (Exodus 1:1-6:1) in the annual Torah reading cycle, is read on t
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="j"><sup>15</sup>&nbsp;And Elohim said further to Mosheh: "Thus shall you say to the Children of Yisrael: 'YHVH, the elo'ah of your fathers, the elo'ah of Avraham, the elo'ah of Yitsḥaq, and the elo'ah of Yaaqov, sends me to you. That is my name for the ages, that is my title (from) generation to generation.' <sup>16</sup>&nbsp;Go, gather the elders of Yisrael and say to them: 'YHVH, the elo'ah of your fathers, has been seen by me, the elo'ah of Avraham, of Yitsḥaq, and of Yaaqov, saying: I have taken account, yes, account of you and of what is being done to you in Mitsrayim, <sup>17</sup>&nbsp;and I have declared: I will bring you up from the affliction of Mitsrayim, to the land of the K'naani and of the Ḥitti, of the Emori and of the Perizzi, of the Ḥivvi and of the Yevusi, to a land flowing with milk and honey.'"</span>
+<span class="j"><sup>15</sup>&nbsp;And Elohim said further to Mosheh: "Thus shall you say to the Children of Yisrael: 'YHVH, the <em>elo'ah</em> of your fathers, the <em>elo'ah</em> of Avraham, the <em>elo'ah</em> of Yitsḥaq, and the <em>elo'ah</em> of Yaaqov, sends me to you. That is my name for the ages, that is my title (from) generation to generation.' <sup>16</sup>&nbsp;Go, gather the elders of Yisrael and say to them: 'YHVH, the <em>elo'ah</em> of your fathers, has been seen by me, the <em>elo'ah</em> of Avraham, of Yitsḥaq, and of Yaaqov, saying: I have taken account, yes, account of you and of what is being done to you in Mitsrayim, <sup>17</sup>&nbsp;and I have declared: I will bring you up from the affliction of Mitsrayim, to the land of the K'naani and of the Ḥitti, of the Emori and of the Perizzi, of the Ḥivvi and of the Yevusi, to a land flowing with milk and honey.'"</span>
 </div></td></tr>
 
 
@@ -247,7 +247,7 @@ Parashat Shemot (Exodus 1:1-6:1) in the annual Torah reading cycle, is read on t
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="e"><sup>18</sup>&nbsp;"They will hearken to your voice, and you will come, you and the elders of Yisrael, to the king of Mitsrayim and say to him: YHVH, the elo'ah of the Ivrim, has met with us – so now, pray let us go a three days' journey into the wilderness and let us slaughter (offerings) to YHVH our elo'ah! <sup>19</sup>&nbsp;But I, I know that the king of Mitsrayim will not give you leave to go, not (even) under a strong hand. <sup>20</sup>&nbsp;So I will send forth my hand and I will strike Mitsrayim with all my wonders which I will do in its midst</span><span class="j"> – after that he will send you free!"</span>
+<span class="e"><sup>18</sup>&nbsp;"They will hearken to your voice, and you will come, you and the elders of Yisrael, to the king of Mitsrayim and say to him: YHVH, the <em>elo'ah</em> of the Ivrim, has met with us – so now, pray let us go a three days' journey into the wilderness and let us slaughter (offerings) to YHVH our <em>elo'ah</em>! <sup>19</sup>&nbsp;But I, I know that the king of Mitsrayim will not give you leave to go, not (even) under a strong hand. <sup>20</sup>&nbsp;So I will send forth my hand and I will strike Mitsrayim with all my wonders which I will do in its midst</span><span class="j"> – after that he will send you free!"</span>
 </div></td></tr>
 
 
@@ -269,7 +269,7 @@ Parashat Shemot (Exodus 1:1-6:1) in the annual Torah reading cycle, is read on t
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="j">4 <sup>1</sup>&nbsp;Mosheh spoke up, he said: "But they will not trust me, and will not hearken to my voice, indeed, they will say: 'YHVH has not been seen by you. . . !'" <sup>2</sup>&nbsp;YHVH said to him: "What is that in your hand?" He said: "A staff." <sup>3</sup>&nbsp;He said: "Throw it to the ground!" He threw it to the ground, and it became a snake, and Mosheh fled from its face. <sup>4</sup>&nbsp;YHVH said to Mosheh: "Send forth your hand! Seize it by its tail!" – He sent forth his hand, took hold of it, and it became a staff in his fist – <sup>5</sup>&nbsp;"so that they may trust that YHVH, the elo'ah of their fathers, the elo'ah of Avraham, the elo'ah of Yitsḥaq, and the elo'ah of Yaaqov, has been seen by you."</span>
+<span class="j">4 <sup>1</sup>&nbsp;Mosheh spoke up, he said: "But they will not trust me, and will not hearken to my voice, indeed, they will say: 'YHVH has not been seen by you. . . !'" <sup>2</sup>&nbsp;YHVH said to him: "What is that in your hand?" He said: "A staff." <sup>3</sup>&nbsp;He said: "Throw it to the ground!" He threw it to the ground, and it became a snake, and Mosheh fled from its face. <sup>4</sup>&nbsp;YHVH said to Mosheh: "Send forth your hand! Seize it by its tail!" – He sent forth his hand, took hold of it, and it became a staff in his fist – <sup>5</sup>&nbsp;"so that they may trust that YHVH, the <em>elo'ah</em> of their fathers, the <em>elo'ah</em> of Avraham, the <em>elo'ah</em> of Yitsḥaq, and the <em>elo'ah</em> of Yaaqov, has been seen by you."</span>
 </div></td></tr>
 
 
@@ -379,7 +379,7 @@ Parashat Shemot (Exodus 1:1-6:1) in the annual Torah reading cycle, is read on t
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="j">5 <sup>1</sup>&nbsp;Afterward Mosheh and Aharon came and said to Pharaoh: "Thus says YHVH, the elo'ah of Yisrael: Send free my people, that they may hold-a-festival to me in the wilderness!" <sup>2</sup>&nbsp;Pharaoh said: "Who is YHVH, that I should hearken to his voice to send Yisrael free? I do not know YHVH, moreover, Yisrael I will not send free!"</span> <span class="e"><sup>3</sup>&nbsp;They said: "The elo'ah of the Ivrim has met with us; pray let us go a three days' journey into the wilderness, and let us slaughter (offerings) to YHVH our elo'ah, lest he confront us with the pestilence or the sword!"</span>
+<span class="j">5 <sup>1</sup>&nbsp;Afterward Mosheh and Aharon came and said to Pharaoh: "Thus says YHVH, the <em>elo'ah</em> of Yisrael: Send free my people, that they may hold-a-festival to me in the wilderness!" <sup>2</sup>&nbsp;Pharaoh said: "Who is YHVH, that I should hearken to his voice to send Yisrael free? I do not know YHVH, moreover, Yisrael I will not send free!"</span> <span class="e"><sup>3</sup>&nbsp;They said: "The <em>elo'ah</em> of the Ivrim has met with us; pray let us go a three days' journey into the wilderness, and let us slaughter (offerings) to YHVH our <em>elo'ah</em>, lest he confront us with the pestilence or the sword!"</span>
 </div></td></tr>
 
 
@@ -390,7 +390,7 @@ Parashat Shemot (Exodus 1:1-6:1) in the annual Torah reading cycle, is read on t
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="e"><sup>4</sup>&nbsp;The king of Mitsrayim said to them: "For-what-reason, Mosheh and Aharon, would you let the people loose from their tasks? Go back to your burdens!"</span> <span class="j"><sup>5</sup>&nbsp;Pharaoh said: "Here, too many now are the people of the land, and you would have them cease from their burdens!" <sup>6</sup>&nbsp;So that day Pharaoh commanded the slave-drivers of the people and its officers, saying: <sup>7</sup>&nbsp;"You are no longer to give straw to the people to make the bricks as yesterday and the day-before; let it be them that go and gather straw for themselves! <sup>8</sup>&nbsp;But the (same) measure of bricks that they have been making, yesterday and the day-before, you are to impose on them, you are not to subtract from it! For they are lax – therefore they cry out, saying: 'Let us go, let us slaughter (offerings) to our elo'ah!' <sup>9</sup>&nbsp;Let the servitude weigh-heavily on the men! They shall have to do it, so that they pay no more regard to false words!"</span>
+<span class="e"><sup>4</sup>&nbsp;The king of Mitsrayim said to them: "For-what-reason, Mosheh and Aharon, would you let the people loose from their tasks? Go back to your burdens!"</span> <span class="j"><sup>5</sup>&nbsp;Pharaoh said: "Here, too many now are the people of the land, and you would have them cease from their burdens!" <sup>6</sup>&nbsp;So that day Pharaoh commanded the slave-drivers of the people and its officers, saying: <sup>7</sup>&nbsp;"You are no longer to give straw to the people to make the bricks as yesterday and the day-before; let it be them that go and gather straw for themselves! <sup>8</sup>&nbsp;But the (same) measure of bricks that they have been making, yesterday and the day-before, you are to impose on them, you are not to subtract from it! For they are lax – therefore they cry out, saying: 'Let us go, let us slaughter (offerings) to our <em>elo'ah</em>!' <sup>9</sup>&nbsp;Let the servitude weigh-heavily on the men! They shall have to do it, so that they pay no more regard to false words!"</span>
 </div></td></tr>
 
 

@@ -124,12 +124,12 @@ So, All-Compassionate One, may the moon renew itself as a redemption and a bless
 
 <tr><td style="vertical-align:top;" width="50%">
 <div class="english"><span lang="de">
-Möge der kommende Monat mir und den Meinen Alles bringen, was zu unserem wahren Wohl gereicht: Gesundheit der Seele und des Körpers, innern und äußern Frieden, gesegnete Früchte unsrer Thätigkeit und eine reiche Saat für unser ewiges Heil. Amen.
+Möge der kommende Monat mir und den Meinen Alles bringen, was zu unserem wahren Wohl gereicht: Gesundheit der Seele und des Körpers, innern und äußern Frieden, gesegnete Früchte unsrer Thätigkeit und eine reiche Saat für unser ewiges Heil. <em>Amen</em>.
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
 <div class="english"><span lang="en">
-May the coming month bring me and my loved ones all we require for our well-being — health of soul and body, peace within and without, the blessed fruits of our labors, and a fertile seed for our eternal redemption. Amen.
+May the coming month bring me and my loved ones all we require for our well-being — health of soul and body, peace within and without, the blessed fruits of our labors, and a fertile seed for our eternal redemption. <em>Amen</em>.
 </span></div></td></tr>
 </tbody></table>
 

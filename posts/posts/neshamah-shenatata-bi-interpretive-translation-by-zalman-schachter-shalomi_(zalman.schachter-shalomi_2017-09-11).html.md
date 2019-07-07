@@ -177,7 +177,7 @@ The earliest formula for "Neshama Shenatata Bi" can be found in the <a href="htt
 <td style="vertical-align:top;" width="53%">
 <div class="english">
 When one awakens, they recite: 
-My elo'ah, the <em>neshamah</em>[foot]<em>neshamah</em> ≈ breath, soul. <em>neshamot</em> ≈ Breath, souls[/foot] you have placed within me is pure. 
+My <em>elo'ah</em>, the <em>neshamah</em>[foot]<em>neshamah</em> ≈ breath, soul. <em>neshamot</em> ≈ Breath, souls[/foot] you have placed within me is pure. 
 You formed her within me, 
 You breathed her into me, 
 and you guard her while she is within me. 
@@ -185,7 +185,7 @@ One day you will take her from me
 and restore her within me in the time to come. 
 As long as the <em>neshamah</em> is within me, 
 I thank you, 
-YHVH my elo'ah and elo'ah of my ancestors, 
+YHVH my <em>elo'ah</em> and <em>elo'ah</em> of my ancestors, 
 Master of all worlds, 
 Lord of all <em>neshamot</em>. 
 Blessed are you, YHVH, 

@@ -51,7 +51,7 @@ and upholding our highest values.
 <div class="liturgy"><span lang="he">
 וּשְׁמר צֵאתֵנוּ וּבוֹאֵנוּ לְחַיִּים וּלְשָׁלוֹם מֵעַתָּה וְעַד עוֹלָם׃ אָמֵן׃
 </span></div>
-U-shmor tseiteinu u-vo’ainu l’ḥayim u-l’shalom, mei-ata v’ad olam. Amen.
+U-shmor tseiteinu u-vo’ainu l’ḥayim u-l’shalom, mei-ata v’ad olam. <em>Amen</em>.
 </td>
  
 <td style="vertical-align:top;" width="53%"><div class="english">

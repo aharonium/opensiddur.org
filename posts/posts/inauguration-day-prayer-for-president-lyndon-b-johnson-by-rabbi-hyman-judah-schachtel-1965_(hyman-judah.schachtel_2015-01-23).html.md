@@ -15,7 +15,7 @@ As Lyndon Baines Johnson and Hubert Horatio Humphrey each places his hand on the
 
 We ask for no miracles beyond the miracle which is always with us, if we will only use it, the power of love to transform foes into friends, slaves into free-men, the curse of war and poverty into the benediction of concord and plenty.
 
-May this inauguration mark. O Lord, the renewal of a people unafraid of the tasks of greatness, a turning point in American history when we move closer to the realization of President Johnson’s dream of a better life for every citizen, and of uniting with all who are dedicated to the continuance of humanity’s immemorial, heroic journey toward freedom and prosperity, justice, and peace. Amen.
+May this inauguration mark. O Lord, the renewal of a people unafraid of the tasks of greatness, a turning point in American history when we move closer to the realization of President Johnson’s dream of a better life for every citizen, and of uniting with all who are dedicated to the continuance of humanity’s immemorial, heroic journey toward freedom and prosperity, justice, and peace. <em>Amen</em>.
 </div>
 
 <hr />

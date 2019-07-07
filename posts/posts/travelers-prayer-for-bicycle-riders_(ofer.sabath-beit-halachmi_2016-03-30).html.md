@@ -28,7 +28,7 @@ Link: <a href="http://opensiddur.org/?p=13155">http://opensiddur.org/?p=13155</a
 
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-May it be Your will, YHVH (haShem) our elo'ah
+May it be Your will, YHVH (haShem) our <em>elo'ah</em>
 That You lead us toward peace;
 that You enable us to ride in safety; 
 that You lead us with blessing.

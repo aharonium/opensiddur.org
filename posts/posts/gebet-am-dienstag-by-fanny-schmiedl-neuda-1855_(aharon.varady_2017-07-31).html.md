@@ -49,7 +49,7 @@ Wenn mein Herz an alles dieses denkt, dann zieht Hoffnung und Vertrauen in mein 
 
 <tr><td style="vertical-align:top;" width="50%">
 <div class="english"><span lang="de">
-Du Erhalter der Keime und Saaten, die du am dritten Schöpfungstage ins Sein gerufen, erhalte auch in mir die Keime und Saaten solcher hoffnungsreichen Gedanken, daß die Stürme und Sonnengluthen der Zeit ihnen nichts anhaben mögen, sondern daß sie im Boden meines Herzens feste Wurzel fassen, und segensreiche Früchte tragen, daran die Welt sich erfreue, und du, mein Gott, Gefallen findest. Amen. 
+Du Erhalter der Keime und Saaten, die du am dritten Schöpfungstage ins Sein gerufen, erhalte auch in mir die Keime und Saaten solcher hoffnungsreichen Gedanken, daß die Stürme und Sonnengluthen der Zeit ihnen nichts anhaben mögen, sondern daß sie im Boden meines Herzens feste Wurzel fassen, und segensreiche Früchte tragen, daran die Welt sich erfreue, und du, mein Gott, Gefallen findest. <em>Amen</em>. 
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">

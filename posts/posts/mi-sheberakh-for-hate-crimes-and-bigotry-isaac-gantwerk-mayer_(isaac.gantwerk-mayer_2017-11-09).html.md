@@ -81,7 +81,7 @@ Have I not from of old been heard to you?
 I told, and you were my witnesses, so is there any god but me? 
 There is no other Rock I know of!” 
 May it be in this year, speedily, and close in time, 
-and let us say amen!
+and let us say <em>amen</em>!
 </div></td>
 </tr>
 </tbody></table>

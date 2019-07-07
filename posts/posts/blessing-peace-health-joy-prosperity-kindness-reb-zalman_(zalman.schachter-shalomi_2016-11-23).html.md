@@ -35,7 +35,7 @@ If you do drink from this mug, don't forget to prepare it as a holy vessel by sa
 
 <td style="vertical-align:top;" width="53%"><div class="english">
 Blessed are you, 
-YHVH our elo'ah, 
+YHVH our <em>elo'ah</em>, 
 cosmic majesty, 
 who hallowed us with their mitsvot,
 and obligated us to immerse a new vessel.
@@ -60,7 +60,7 @@ Barukh atah, Adonai Eloheinu, melekh ha-olam, asher kidshanu bemitsvotav, vetsiv
 
 <td style="vertical-align:top;" width="53%"><div class="english">
 Blessed are you, 
-YHVH our elo'ah, 
+YHVH our <em>elo'ah</em>, 
 cosmic majesty, 
 Who brings all things into being through their word (<em>logos</em>).
 
@@ -86,7 +86,7 @@ Barukh atah, Adonai Eloheinu, melekh ha-olam, shehakol nih’yeh bid’varo
 
 <td style="vertical-align:top;" width="53%"><div class="english">
 Blessed are you, 
-YHVH our elo'ah, 
+YHVH our <em>elo'ah</em>, 
 Cosmic Majesty, 
 who creates a diverse multitude of creatures, 
 each shaped with a dependency (ḥesronan, lit. 'absence')

@@ -73,7 +73,7 @@ Barukh Atah Adonai
  For the hurts and fears of others.
  We pray for all who are in pain
  And all who cause pain.
- Amen
+ <em>Amen</em>
 </div></td>
 </tr>
 </tbody></table>

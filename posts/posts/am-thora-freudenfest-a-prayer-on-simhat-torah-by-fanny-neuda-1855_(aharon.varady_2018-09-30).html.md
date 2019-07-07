@@ -47,12 +47,12 @@ Thanks to you, O God, for entrusting such a jewel to us. We adore and worship yo
 
 <tr><td style="vertical-align:top;" width="50%">
 <div class="german"><span lang="de">
-O, mir schwindelt, wenn ich bedenke, was ich ohne sie wäre, und heiliger Jubel durchzieht meine Seele, wenn ich denke, was ich in ihr besitze. Gib, Allmächtiger, daß dein göttliches Wort stets in mir lebe, mein Herz veredle und stark mache, stark im Glauben, stark in der Liebe und Treue zu dir, stark im Dulden und Tragen deiner Prüfungen und Schickungen. Möge nie der Segen deiner Lehre von meinem Hause, von meinen Kindern und von meinen Kindeskindern weichen; möge der helle Strahl deines Gottesfriedens und deiner Gottesfreuden uns stets erleuchten und verklären. Amen.
+O, mir schwindelt, wenn ich bedenke, was ich ohne sie wäre, und heiliger Jubel durchzieht meine Seele, wenn ich denke, was ich in ihr besitze. Gib, Allmächtiger, daß dein göttliches Wort stets in mir lebe, mein Herz veredle und stark mache, stark im Glauben, stark in der Liebe und Treue zu dir, stark im Dulden und Tragen deiner Prüfungen und Schickungen. Möge nie der Segen deiner Lehre von meinem Hause, von meinen Kindern und von meinen Kindeskindern weichen; möge der helle Strahl deines Gottesfriedens und deiner Gottesfreuden uns stets erleuchten und verklären. <em>Amen</em>.
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
 <div class="english"><span lang="en">
-I shudder to think of where I would be without it. Sacred exultation moves my soul when I recall what a treasure I possess in it. Grant, Almighty One, that your divine word may ever be alive within me, that it may ennoble and fortify my heart, that it may strengthen my faith, my love, my hope in you through suffering and hardship and in all the trials and calls to courage I may encounter on my way. May the blessings of your word never leave my home or those of my children and my children’s children. May the brilliant rays of your heavenly peace and joy always inspire and cheer me. Amen.
+I shudder to think of where I would be without it. Sacred exultation moves my soul when I recall what a treasure I possess in it. Grant, Almighty One, that your divine word may ever be alive within me, that it may ennoble and fortify my heart, that it may strengthen my faith, my love, my hope in you through suffering and hardship and in all the trials and calls to courage I may encounter on my way. May the blessings of your word never leave my home or those of my children and my children’s children. May the brilliant rays of your heavenly peace and joy always inspire and cheer me. <em>Amen</em>.
 </span></div>
 </td></tr>
 </tbody></table>

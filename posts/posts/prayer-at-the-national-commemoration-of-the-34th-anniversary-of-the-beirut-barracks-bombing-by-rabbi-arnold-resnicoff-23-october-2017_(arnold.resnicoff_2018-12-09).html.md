@@ -73,7 +73,7 @@ but also brave enough to believe
 that through our words, our deeds, and our lives, 
 we'll keep the dream of peace alive. 
 We'll make the future better than the past.
-And may we say, Amen.
+And may we say, <em>Amen</em>.
 </div></td></tr>
 </tbody></table>
 

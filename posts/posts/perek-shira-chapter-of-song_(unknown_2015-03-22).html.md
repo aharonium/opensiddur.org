@@ -758,7 +758,7 @@ The Rooster is saying,
 <td style="vertical-align:top;" width="53%">
 <div class="english">
 In its first call it says, 
-“Such is the generation of them that seek after thon, that seek your face, even Ya’akov. Selah! Lift up your heads, O gates! And be lifted up, O everlasting doors! And the King of <em>kavod</em> shall come in. Who is this King of <em>kavod</em>? YHVH strong and mighty, YHVH mighty in battle!”[foot]Psalms 24:6-8[/foot]
+“Such is the generation of them that seek after thon, that seek your face, even Ya’akov. <em>Selah</em>! Lift up your heads, O gates! And be lifted up, O everlasting doors! And the King of <em>kavod</em> shall come in. Who is this King of <em>kavod</em>? YHVH strong and mighty, YHVH mighty in battle!”[foot]Psalms 24:6-8[/foot]
 </div>
 </td></tr>
 
@@ -773,7 +773,7 @@ In its first call it says,
 <td style="vertical-align:top;" width="53%">
 <div class="english">
 In its second call, it says, 
-“Lift up your heads, O gates! Lift them up, O everlasting doors! And the King of <em>kavod</em> shall come in. Who is He, this King of <em>kavod</em>? YHVH Tseva'ot, he is the King of <em>kavod</em>, Selah!”[foot]Psalms 24:9-10[/foot]
+“Lift up your heads, O gates! Lift them up, O everlasting doors! And the King of <em>kavod</em> shall come in. Who is He, this King of <em>kavod</em>? YHVH Tseva'ot, he is the King of <em>kavod</em>, <em>Selah</em>!”[foot]Psalms 24:9-10[/foot]
 </div>
 </td></tr>
 
@@ -920,7 +920,7 @@ rather than it being sweet as honey through flesh and blood.”[foot]Talmud, Eru
 <td style="vertical-align:top;" width="53%">
 <div class="english">
 The Vulture is saying, 
-“And you, YHVH Elohim Tseva'ot, elo'ah of Yisra'el, 
+“And you, YHVH Elohim Tseva'ot, <em>elo'ah</em> of Yisra'el, 
 awake to punish all the nations; 
 do not be gracious to any wicked traitors, <em>Selah!</em>”[foot]Psalms 59:6[/foot]
 </div>
@@ -958,7 +958,7 @@ make music for him with the ten-stringed harp.”[foot]Psalms 33:2[/foot]
 The Songbird is saying, 
 “The songbird has also found her home, 
 and the sparrow a nest for herself, where she may lay her young - 
-Your altars, YHVH Tseva'ot, my King and my elo'ah.”[foot]Psalms 84:4[/foot]
+Your altars, YHVH Tseva'ot, my King and my <em>elo'ah</em>.”[foot]Psalms 84:4[/foot]
 </div>
 </td></tr>
 
@@ -975,7 +975,7 @@ Your altars, YHVH Tseva'ot, my King and my elo'ah.”[foot]Psalms 84:4[/foot]
 <div class="english">
 The Swallow is saying, 
 “So that my soul shall praise you, and shall not be silent, 
-YHVH my elo'ah, I shall give thanks to you forever.”[foot]Psalms 30:13[/foot]
+YHVH my <em>elo'ah</em>, I shall give thanks to you forever.”[foot]Psalms 30:13[/foot]
 </div>
 </td></tr>
 
@@ -1024,7 +1024,7 @@ and joy for the straight-hearted.”[foot]Psalms 97:11[/foot]
 <td style="vertical-align:top;" width="53%">
 <div class="english">
 The Laughing Dove is saying: 
-“Comfort My people, comfort them, says your elo'ah.”[foot]Isaiah 1:40[/foot]
+“Comfort My people, comfort them, says your <em>elo'ah</em>.”[foot]Isaiah 1:40[/foot]
 </div>
 </td></tr>
 
@@ -1110,7 +1110,7 @@ The Domestic Goose is saying,
 The Wild Goose flying in the wilderness, when it sees Yisra'el busy with Torah, is saying,
 “A voice cries, 
 Prepare in the wilderness the way of YHVH, 
-make straight in the desert a path for our elo'ah.”[foot]Isaiah 40:3[/foot]. 
+make straight in the desert a path for our <em>elo'ah</em>.”[foot]Isaiah 40:3[/foot]. 
 
 And upon finding its food in the wilderness, it says, 
 “Cursed is the man who trusts in human beings...”[foot]Jeremiah 17:5 partial[/foot]&nbsp;
@@ -1183,7 +1183,7 @@ wherefrom shall my help come?”[foot]Psalms 121:1[/foot]
 <td style="vertical-align:top;" width="53%">
 <div class="english">
 The Locust is saying, 
-“YHVH, you are my elo'ah; I will exalt you, I will praise your Name; 
+“YHVH, you are my <em>elo'ah</em>; I will exalt you, I will praise your Name; 
 for you have done wondrous things; 
 Your counsels of old are faithfulness and truth.”[foot]Isaiah 25:1[/foot]
 </div>
@@ -1224,7 +1224,7 @@ The Fly, when Yisra'el is not busying itself with Torah, is saying,
 “The voice said, ‘Call out.’ 
 And he said, ‘What shall I call out?' 
 'All flesh is grass, and all its grace is as the flower of the field.’[foot]Isaiah 40:6[/foot]&nbsp; 
-‘...The grass withers, the flower fades; but the word of our elo'ah shall endure forever.'”[foot]Isaiah 40:8[/foot]&nbsp;
+‘...The grass withers, the flower fades; but the word of our <em>elo'ah</em> shall endure forever.'”[foot]Isaiah 40:8[/foot]&nbsp;
 '“I will create a new expression of the lips; Peace, peace for him who is far off and for him who is near, says YHVH; and I will heal him.'”[foot]Isaiah 57:19[/foot]
 </div>
 </td></tr>
@@ -1339,7 +1339,7 @@ awesome in praise, worker of wonders.”[foot]Exodus 15:11[/foot]
 <div class="english">
 The Cow is saying: 
 “Rejoice to Elohim over our strength, 
-trumpet to the elo'ah of Yaakov!”[foot]Psalms 81 :2[/foot]
+trumpet to the <em>elo'ah</em> of Yaakov!”[foot]Psalms 81 :2[/foot]
 </div>
 </td></tr>
 
@@ -1403,7 +1403,7 @@ The Camel is saying:
 <td style="vertical-align:top;" width="53%">
 <div class="english">
 The Horse is saying: 
-“Behold, as the eyes of the servants to the hand of their master, as the eyes of the maidservant to the hand of her mistress, so are our eyes to YHVH our elo'ah until he will favor us.”[foot]Psalms 123:2[/foot]
+“Behold, as the eyes of the servants to the hand of their master, as the eyes of the maidservant to the hand of her mistress, so are our eyes to YHVH our <em>elo'ah</em> until he will favor us.”[foot]Psalms 123:2[/foot]
 </div>
 </td></tr>
 
@@ -1851,10 +1851,10 @@ let us kneel before YHVH our Maker.”[foot]Psalms 95:6[/foot]
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Blessed is YHVH forever, Amen and Amen. 
+Blessed is YHVH forever, <em>Amen</em> and <em>Amen</em>. 
 Blessed is YHVH from Tsiyon, Dweller in Jerusalem, praise Yah! 
-Blessed is YHVH Elohim, elo'ah of Yisra'el, worker of wonders alone. 
-And blessed is the Name of his <em>kavod</em>, and his <em>kavod</em> should fill the entire land, Amen and Amen.
+Blessed is YHVH Elohim, <em>elo'ah</em> of Yisra'el, worker of wonders alone. 
+And blessed is the Name of his <em>kavod</em>, and his <em>kavod</em> should fill the entire land, <em>Amen</em> and <em>Amen</em>.
 </div>
 </td></tr>
 </tbody></table>

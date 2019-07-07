@@ -207,7 +207,7 @@ Tzur Israel, Our Rock and inspiration to be free, gather us in from the four cor
 <td style="vertical-align:top;" width="53%"><div class="english">
 11. Charity and Justice
 
-Nurture our role models, gemilut chesed and justice in all nations of the world. Blessed are you Melech HaMelachim who loves righteousness and justice.
+Nurture our role models, gemilut ḥesed and justice in all nations of the world. Blessed are you Melech HaMelachim who loves righteousness and justice.
 </div></td>
 </tr>
 

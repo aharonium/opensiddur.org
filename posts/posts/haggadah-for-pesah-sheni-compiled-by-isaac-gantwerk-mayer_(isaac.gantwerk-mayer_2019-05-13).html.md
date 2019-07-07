@@ -1226,7 +1226,7 @@ We thank You, CAUSE our God, for You endowed our ancestors with a treasured land
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Please have compassion, CAUSE our God, on Israel Your people, and on Jerusalem Your city, and on Zion the dwelling-place of Your honor, and on the kingdom of David Your anointed one, and on the Great and Holy House upon which Your name was called. Or God, our Parent, our Friend, our Nourisher, our Provider, our Supporter, our Benefactor, benefit us, CAUSE our God, quickly, from all our trials. And please, do not cause us need, CAUSE our God, neither relying on the gifts nor loans of flesh and blood, but your hand, full, open, holy, and wide, that we be not ashamed or humiliated ever after. And build Jerusalem Your holy city, quickly, in our days. Blessed are You, CAUSE, mercifully building Jerusalem – amen!
+Please have compassion, CAUSE our God, on Israel Your people, and on Jerusalem Your city, and on Zion the dwelling-place of Your honor, and on the kingdom of David Your anointed one, and on the Great and Holy House upon which Your name was called. Or God, our Parent, our Friend, our Nourisher, our Provider, our Supporter, our Benefactor, benefit us, CAUSE our God, quickly, from all our trials. And please, do not cause us need, CAUSE our God, neither relying on the gifts nor loans of flesh and blood, but your hand, full, open, holy, and wide, that we be not ashamed or humiliated ever after. And build Jerusalem Your holy city, quickly, in our days. Blessed are You, CAUSE, mercifully building Jerusalem – <em>amen</em>!
 </div></td></tr>
 
 
@@ -1336,7 +1336,7 @@ Blessed are you, CAUSE our God, Sovereign of Eternity, God, our Parent, our Sove
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-	O Merciful One, may You bless all who sit here, them and their homes and their descendants and all that is theirs, us and all that is ours, just as our forefathers Abraham, Isaac, and Jacob (in all, from all, all) – and our foremothers Sarah, Rebecca, Rachel, and Leah (doing good, goodness, good, good) – were blessed, thus may we be blessed, all of us together with a complete blessing, to which we say amen.
+	O Merciful One, may You bless all who sit here, them and their homes and their descendants and all that is theirs, us and all that is ours, just as our forefathers Abraham, Isaac, and Jacob (in all, from all, all) – and our foremothers Sarah, Rebecca, Rachel, and Leah (doing good, goodness, good, good) – were blessed, thus may we be blessed, all of us together with a complete blessing, to which we say <em>amen</em>.
 </div></td></tr>
 
 
@@ -1415,7 +1415,7 @@ Increasing salvations of God's king, doing kindness to God's anointed one, to Da
 <td style="vertical-align:top;" width="53%">
 <div class="english">
 May the Maker of Peace in on High make peace for us
-and for all Israel and for all the world, to which we say amen.
+and for all Israel and for all the world, to which we say <em>amen</em>.
 </div></td></tr>
 
 
@@ -1788,7 +1788,7 @@ Let all with breath praise the SOURCE,	praise the SOURCE!
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Bless the CAUSE forever, 		amen and amen![foot]Psalms 89:53[/foot]
+Bless the CAUSE forever, 		amen and <em>amen</em>![foot]Psalms 89:53[/foot]
 Bless the CAUSE from Zion,		dwelling in Jerusalem,
 Praise the SOURCE![foot]Psalms 135:21[/foot]
 </div></td></tr>
@@ -1805,7 +1805,7 @@ Praise the SOURCE![foot]Psalms 135:21[/foot]
 <div class="english">
 Bless the CAUSE God, 			God of Israel,
 who does great works alone,		and bless the honorable name forever
-may God's honor fill all the world,	amen and amen![foot]Psalms 72:18-19[/foot]
+may God's honor fill all the world,	amen and <em>amen</em>![foot]Psalms 72:18-19[/foot]
 </div></td></tr>
 
 

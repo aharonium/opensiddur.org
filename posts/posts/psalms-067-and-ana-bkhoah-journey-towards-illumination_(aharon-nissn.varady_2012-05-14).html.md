@@ -70,7 +70,7 @@ Let the peoples give thanks unto you, all of them.
 <td style="vertical-align:top;" width="53%"><div class="english">
 <sup>5</sup> O let the nations be glad and sing for joy;
 For you will judge the peoples with equity,
-And guide the people upon earth. Selah
+And guide the people upon earth. <em>Selah</em>
     </div></td></tr>
 
 

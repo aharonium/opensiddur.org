@@ -1102,7 +1102,7 @@ Moses declared to Israel the set times of Adonai. (Lev 23:44)
 <div class="english">
 Chatzi Kaddish
 
-Let the great name of God be extolled and sanctified in the world whose creation He willed. May God’s kingdom soon prevail, in our own day, in our own lives, and the life of all Israel, and let us say: Amen. Let God’s great name be blessed for ever and ever. Let the name of the blessed Holy One be glorified, exalted and honored, though God is (on Shabbat of Repentance: above and) beyond all the praises, songs, and adorations that we can utter, and let us say: Amen.
+Let the great name of God be extolled and sanctified in the world whose creation He willed. May God’s kingdom soon prevail, in our own day, in our own lives, and the life of all Israel, and let us say: <em>Amen</em>. Let God’s great name be blessed for ever and ever. Let the name of the blessed Holy One be glorified, exalted and honored, though God is (on Shabbat of Repentance: above and) beyond all the praises, songs, and adorations that we can utter, and let us say: <em>Amen</em>.
 </div>
 </td></tr>
 
@@ -1446,7 +1446,7 @@ Mar son of Rabinah
 <div class="english">
 Ps 19:15 
 
-May the words of my mouth, and the meditations of my heart, be acceptable to You, Adonai, my Rock and my Redeemer. May God who causes peace to reign in the high heavens, grant us peace, and all Israel, and on all the world, and let us say: Amen.
+May the words of my mouth, and the meditations of my heart, be acceptable to You, Adonai, my Rock and my Redeemer. May God who causes peace to reign in the high heavens, grant us peace, and all Israel, and on all the world, and let us say: <em>Amen</em>.
 </div>
 </td></tr>
 
@@ -2467,7 +2467,7 @@ Sovereign God, great and holy ruler, let Your name be praised forever in heaven 
 <div class="english">
 Chatzi Kaddish
 
-Let the great name of God be extolled and sanctified in the world whose creation He willed. May God’s kingdom soon prevail, in our own day, in our own lives, and the life of all Israel, and let us say: Amen. Let God’s great name be blessed for ever and ever. Let the name of the blessed Holy One be glorified, exalted and honored, though God is (on Shabbat of Repentance: above and) beyond all the praises, songs, and adorations that we can utter, and let us say: Amen.
+Let the great name of God be extolled and sanctified in the world whose creation He willed. May God’s kingdom soon prevail, in our own day, in our own lives, and the life of all Israel, and let us say: <em>Amen</em>. Let God’s great name be blessed for ever and ever. Let the name of the blessed Holy One be glorified, exalted and honored, though God is (on Shabbat of Repentance: above and) beyond all the praises, songs, and adorations that we can utter, and let us say: <em>Amen</em>.
 </div>
 </td></tr>
 
@@ -3409,7 +3409,7 @@ Based on a prayer of R. Nachman of Bratzlav, 18th-19th Century
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-May the words of my mouth, and the meditations of my heart, be acceptable to You, Adonai, my Rock and my Redeemer. May God who causes peace to reign in the high heavens, grant us peace, and all Israel, and on all the world, and let us say: Amen.
+May the words of my mouth, and the meditations of my heart, be acceptable to You, Adonai, my Rock and my Redeemer. May God who causes peace to reign in the high heavens, grant us peace, and all Israel, and on all the world, and let us say: <em>Amen</em>.
 </div>
 </td></tr></tbody></table>
 
@@ -3819,7 +3819,7 @@ For Torah will come out of Zion, and the word of Adonai from Jerusalem. Praised 
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-I put my trust in God: to God's holy, honored name I utter praise. May it be Your will to open my consciousness with and for Your Torah. Answer my prayers and the heartfelt prayers of all Your people Israel, for goodness, for life, for peace. Amen.
+I put my trust in God: to God's holy, honored name I utter praise. May it be Your will to open my consciousness with and for Your Torah. Answer my prayers and the heartfelt prayers of all Your people Israel, for goodness, for life, for peace. <em>Amen</em>.
 </div>
 </td></tr>
 
@@ -3938,7 +3938,7 @@ for Adonai our God is holy.
 <td style="vertical-align:top;" width="53%">
 <div class="english">
 On calling the first "aliyah" to the Torah
-May God help, save and shield all who trust in Him . Let us say, Amen.
+May God help, save and shield all who trust in Him . Let us say, <em>Amen</em>.
 Let us declare the greatness of our God and give honor to the Torah.
 Come up___________________
 Blessed be the One who in holiness has given the Torah to the people Israel.
@@ -4039,7 +4039,7 @@ Amen. May the One who has been gracious to you continue to favor you with all th
 <div class="english">
 For the congregation
 
-May God who blessed our fathers Abraham, Isaac and Jacob and our mothers Sarah, Rebecca, Rachel and Leah bless all those who were called up to the Torah, and all this holy congregation, together with all the congregations, and all those who build synagogues to pray in, and those who come to pray there, and all those who work for the good of others and those who faithfully build up the Land of Israel. The Holy One will repay them and bestow blessing and success on all that they do, together with all Israel, and let us say: Amen  
+May God who blessed our fathers Abraham, Isaac and Jacob and our mothers Sarah, Rebecca, Rachel and Leah bless all those who were called up to the Torah, and all this holy congregation, together with all the congregations, and all those who build synagogues to pray in, and those who come to pray there, and all those who work for the good of others and those who faithfully build up the Land of Israel. The Holy One will repay them and bestow blessing and success on all that they do, together with all Israel, and let us say: <em>Amen</em>  
 </div>
 </td></tr>
 
@@ -4238,7 +4238,7 @@ For those in need of healing
 May God who blessed our fathers Abraham Isaac and Jacob and our mothers Sarah Rebecca, Rachel and Leah bless and heal the sick: ________.
 May God strengthen them and grant them stamina and courage and may the divine spirit grant them complete physical, mental and emotional healing, along with all the sick of the Jewish people and of the whole world, as it is written: Please God, please heal her/him.
 El na refa na la. El na refa na lo.
-And let us say: Amen
+And let us say: <em>Amen</em>
 </div>
 </td></tr>
 
@@ -4255,7 +4255,7 @@ And let us say: Amen
 <div class="english">
 For the Israel Defense Forces
 
-May God who blessed our fathers Abraham, Isaac and Jacob and our mothers Sarah, Rebecca, Rachel and Leah and our warriors Joshua, David, Deborah and Yael, bless the soldiers of Israel's Defense Forces, and every one who stands guard in order to protect our people. May the blessed Holy One protect them and save them from all troubles and afflictions, from all sickness and injury and may their careful actions be a source of blessing. May the words of the Prophets come true through them: They shall beat their swords into plough shares and their spears into pruning hooks; nation shall not lift up sword against nation, neither shall they learn war any more. Each person shall sit under their vine and under their fig tree and none shall make them afraid. And let us say: Amen.
+May God who blessed our fathers Abraham, Isaac and Jacob and our mothers Sarah, Rebecca, Rachel and Leah and our warriors Joshua, David, Deborah and Yael, bless the soldiers of Israel's Defense Forces, and every one who stands guard in order to protect our people. May the blessed Holy One protect them and save them from all troubles and afflictions, from all sickness and injury and may their careful actions be a source of blessing. May the words of the Prophets come true through them: They shall beat their swords into plough shares and their spears into pruning hooks; nation shall not lift up sword against nation, neither shall they learn war any more. Each person shall sit under their vine and under their fig tree and none shall make them afraid. And let us say: <em>Amen</em>.
 </div>
 </td></tr>
 
@@ -4275,7 +4275,7 @@ For the State of Israel
 Our Divine Guardian, Rock and Redeemer of Israel, bless the State of Israel, the first flowering of our redemption. Shield it beneath the wings of Your steadfast love and spread over it the shelter of Your peace. May a spark of Your spirit inspire the actions of its leaders, officials, judges and advisors that they may follow the path of righteousness, liberty and freedom. Strengthen the hands of those who protect our Holy Land and grant them salvation and life. Grant peace to this land and everlasting joy to its inhabitants.
 Be near to all the people of Israel throughout the lands of their dispersion. Plant within their hearts the love of Zion, and may those of our people who are so inspired, come to Jerusalem, Your city, which bears Your name. Spread Your spirit over all the inhabitants of our land. Uproot hatred, jealousy and evil; plant in our hearts love and kinship, peace and friendship. And speedily fulfill the vision of Your prophet: Nation shall not lift up sword against nation, neither shall they learn war any more.
 Lo yisa goy el goy cherev, lo yilmedu `od milchamah. 
-And let us say: Amen
+And let us say: <em>Amen</em>
 </div>
 </td></tr>
 
@@ -4294,8 +4294,8 @@ And let us say: Amen
 <div class="english">
 For the captured soldiers
 
-May it be the will of our Parent in heaven that we hear good tidings, salvation and comfort and that our scattered ones be reunited from all four corners of the earth, and let us say: Amen.
-May the Holy One be merciful to any the house of Israel who are entrapped or in captivity, wherever they be, and bring them from the narrow places to wide spaces, from darkness to light, from enslavement to redemption, speedily and in our days, and let us say: Amen.
+May it be the will of our Parent in heaven that we hear good tidings, salvation and comfort and that our scattered ones be reunited from all four corners of the earth, and let us say: <em>Amen</em>.
+May the Holy One be merciful to any the house of Israel who are entrapped or in captivity, wherever they be, and bring them from the narrow places to wide spaces, from darkness to light, from enslavement to redemption, speedily and in our days, and let us say: <em>Amen</em>.
 </div>
 </td></tr>
 
@@ -4314,8 +4314,8 @@ May the Holy One be merciful to any the house of Israel who are entrapped or in 
 Blessing for the New Month
 On the Shabbat preceding the New Moon
 
-Adonai our God, let the coming month bring us renewed good and blessing. May we have long life, a life of peace, prosperity, and health, a life full of blessing, a life marked by the awe of heaven and the fear of sin, a life free of shame, a life of honor and a life exalted by love of Your Torah and devotion to Your service, a life in which our heart's desires are fulfilled for good. Amen Selah.
-May the one who performed miracle for our ancestors and led our people from bondage to freedom, grant us full redemption and gather in our dispersed from the far corners of the earth. All Israel is bound together, and let us say: Amen.
+Adonai our God, let the coming month bring us renewed good and blessing. May we have long life, a life of peace, prosperity, and health, a life full of blessing, a life marked by the awe of heaven and the fear of sin, a life free of shame, a life of honor and a life exalted by love of Your Torah and devotion to Your service, a life in which our heart's desires are fulfilled for good. <em>Amen</em> Selah.
+May the one who performed miracle for our ancestors and led our people from bondage to freedom, grant us full redemption and gather in our dispersed from the far corners of the earth. All Israel is bound together, and let us say: <em>Amen</em>.
 </div>
 </td></tr>
 
@@ -4334,7 +4334,7 @@ Announcing the New Moon
 
 May the new month of _____ which begins for us and for all Israel on _____, be for good. 
 
-May the blessed Holy One bring renewal on this new month for us, and for the whole House of Israel, with life and peace, joy and happiness, deliverance and comfort, and let us say: Amen.
+May the blessed Holy One bring renewal on this new month for us, and for the whole House of Israel, with life and peace, joy and happiness, deliverance and comfort, and let us say: <em>Amen</em>.
 </div>
 </td></tr>
 
@@ -5043,7 +5043,7 @@ Mar son of Rabinah
 <td style="vertical-align:top;" width="53%">
 <div class="english">
 May the words of my mouth and the meditations of my heart be acceptable to You, Adonai, my Rock and my Redeemer.
-May God who causes peace to reign in the high heavens, grant us peace, and all Israel, and all the world, and let us say: Amen.
+May God who causes peace to reign in the high heavens, grant us peace, and all Israel, and all the world, and let us say: <em>Amen</em>.
 </div>
 </td></tr>
 
@@ -5263,9 +5263,9 @@ Zech 14.9	It has been said: Adonai shall reign over all the earth; on that
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Let the great name of God be extolled and be sanctified in the world whose creation He willed. May God’s kingdom soon prevail, in our own day, in our own lives, and the life of all Israel, and let us say: Amen. Let God’s great name be blessed forever and ever. Let the name of the blessed Holy One be glorified, exalted and honored, though God is (on Shabbat Teshuva add: above and) beyond all the praises, songs, and adorations that we can utter, and let us say: Amen.
-For us and for all Israel, may the blessing of peace and the promise of life come true, and let us say: Amen.
-May God who causes peace to reign in the high heavens, grant peace to us, all Israel, and all mankind and let us say: Amen.
+Let the great name of God be extolled and be sanctified in the world whose creation He willed. May God’s kingdom soon prevail, in our own day, in our own lives, and the life of all Israel, and let us say: <em>Amen</em>. Let God’s great name be blessed forever and ever. Let the name of the blessed Holy One be glorified, exalted and honored, though God is (on Shabbat Teshuva add: above and) beyond all the praises, songs, and adorations that we can utter, and let us say: <em>Amen</em>.
+For us and for all Israel, may the blessing of peace and the promise of life come true, and let us say: <em>Amen</em>.
+May God who causes peace to reign in the high heavens, grant peace to us, all Israel, and all mankind and let us say: <em>Amen</em>.
 </div>
 </td></tr>
 
@@ -5495,9 +5495,9 @@ Based on a prayer composed by R. Nachman of Bratzlav
 <td style="vertical-align:top;" width="53%">
 <div class="english">
 Allahuma, inta-s salaam wa-minka-s salaam
-Adon ha-shalom, barkheinu ba-shalom, amen.
+Adon ha-shalom, barkheinu ba-shalom, <em>amen</em>.
 God – You are the peace and from You is the peace
-Source of peace, bless us with peace, amen
+Source of peace, bless us with peace, <em>amen</em>
 </div>
 </td></tr>
 
@@ -6000,7 +6000,7 @@ Mar son of Rabinah
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-May the words of my mouth, and the meditations of my heart, be acceptable to You, Adonai, my Rock and my Redeemer. May God who causes peace to reign in the high heavens, grant us peace, and all Israel, and on all the world, and let us say: Amen.
+May the words of my mouth, and the meditations of my heart, be acceptable to You, Adonai, my Rock and my Redeemer. May God who causes peace to reign in the high heavens, grant us peace, and all Israel, and on all the world, and let us say: <em>Amen</em>.
 </div>
 </td></tr>
 

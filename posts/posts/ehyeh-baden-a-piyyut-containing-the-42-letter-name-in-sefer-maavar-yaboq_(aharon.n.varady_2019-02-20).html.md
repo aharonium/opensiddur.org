@@ -158,7 +158,7 @@ Your perfection of the beauty of Elohim appeared, from Tsiyon. [foot]Psalms 50:1
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Hear Yisrael, YHVH our elo'ah, YHVH is one/unique.[foot]Deuteronomy 6:4.[/foot]
+Hear Yisrael, YHVH our <em>elo'ah</em>, YHVH is one/unique.[foot]Deuteronomy 6:4.[/foot]
 </div></td></tr>
 
 

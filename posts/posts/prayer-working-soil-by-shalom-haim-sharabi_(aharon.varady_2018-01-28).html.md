@@ -55,7 +55,7 @@ the holy soil.
 </span></div></td>
 
 <td style="vertical-align:top;"><div class="english">
-May it be your will, YHVH our elo'ah and elo'ah of our ancestors, 
+May it be your will, YHVH our <em>elo'ah</em> and <em>elo'ah</em> of our ancestors, 
 creator of borders[foot]Cf. Proverbs 15:25[/foot] and the returner of children to their border,[foot]Cf. Jeremiah 31:17[/foot]
 that you will strengthen us and make our path successful 
 in laboring our holy labor 

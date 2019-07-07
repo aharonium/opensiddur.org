@@ -751,7 +751,7 @@ YHVH reigns, robed in majesty. YHVH is robed, girded with strength. The earth ho
 
 <blockquote>While often associated with mourning, the Kaddish does not mention death, resurrection, or the afterlife at all. Instead, it proclaims the greatness, holiness, and eternity of God and expresses a wish that the harmony of the heavenly spheres guide us here below, as it does above. Mourners usually stand to recite the Mourners’ Kaddish. In Sephardi and Mizrachi communities, it is common for other worshippers to stand silently with the mourners as they say Kaddish. Some Ashkenazi communities also have adopted this custom. 
 
-If you are reciting Kaddish, you may choose to take three steps back as you start the final line, then bow once to the left, once to the right, and once to the center, finishing with ואמרו אמן / <em>ve’imru amen</em> / and let us say amen. If you are not reciting the Kaddish but responding to the prayer leader or mourners reciting it, you may respond to each amen with amen, as well as recite with the community the line, יהא שמה רבא מברך לעלם ולעלמי / <em>yehe shmeh rabba mevarakh Le’alam ul’almeh almaya</em> / May His great name be blessed for ever, and to all eternity. At עושה שלום, some find it customary to take three steps back, bow left and say עושה / <em>oseh</em> / who makes; bow right and say הוא / <em>hu</em> / grant, bow forward and say ועל כל / <em>ve'al kol</em> / for all. When finished, it is customary to take three steps forward. You may sit after completing the prayer.</blockquote>
+If you are reciting Kaddish, you may choose to take three steps back as you start the final line, then bow once to the left, once to the right, and once to the center, finishing with ואמרו אמן / <em>ve’imru amen</em> / and let us say <em>amen</em>. If you are not reciting the Kaddish but responding to the prayer leader or mourners reciting it, you may respond to each amen with <em>amen</em>, as well as recite with the community the line, יהא שמה רבא מברך לעלם ולעלמי / <em>yehe shmeh rabba mevarakh Le’alam ul’almeh almaya</em> / May His great name be blessed for ever, and to all eternity. At עושה שלום, some find it customary to take three steps back, bow left and say עושה / <em>oseh</em> / who makes; bow right and say הוא / <em>hu</em> / grant, bow forward and say ועל כל / <em>ve'al kol</em> / for all. When finished, it is customary to take three steps forward. You may sit after completing the prayer.</blockquote>
 
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
@@ -1443,7 +1443,7 @@ Who is like you, merciful God, remember your creation for life in mercy.)
 <td style="vertical-align:top;" width="53%"><div class="english">
 You are holy, 
 and your name is holy, 
-and holy beings praise you daily. Selah. 
+and holy beings praise you daily. <em>Selah</em>. 
 &nbsp;
 Blessed are you, the holy god.
 (<em>On the Shabbat before Yom Kippur:</em> The holy Ruler.)
@@ -1694,7 +1694,7 @@ Do this for your name’s sake, do this for your right hand’s sake, do this fo
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
-The maker of perfection in the highest places, will be the maker of well-being for us and for all Yisrael; (and for all who dwell upon this planet), and let us say: Amen.
+The maker of perfection in the highest places, will be the maker of well-being for us and for all Yisrael; (and for all who dwell upon this planet), and let us say: <em>Amen</em>.
 </div></td></tr>
 
 
@@ -1749,7 +1749,7 @@ Peace is not the absence of conflict. Peace is dealing with conflict while honor
 justice, to live with compassion, to live with desire, to live with fear, to live with self, to live with emptiness.
 
 <h5>Netzor Leshoni Mera</h5>
-Let me attend to my words, taking care to say what I mean and do what I say. Let me guard my tongue from evil and my lips from speaking falsehood. Let me rise above those who slander me and take care not to slander others. Let me forgive those who offend against me and take care to offend only the unjust. Let me open my heart to Torah and find in her wisdom my way to righteousness. May the words of my mouth, the meditations of my heart be acceptable to You, my friend, my rock and my redeemer. May the power that makes for peace throughout the heavens be the power from which I learn to draw to make for peace in my world and in my life. Amen.</blockquote>
+Let me attend to my words, taking care to say what I mean and do what I say. Let me guard my tongue from evil and my lips from speaking falsehood. Let me rise above those who slander me and take care not to slander others. Let me forgive those who offend against me and take care to offend only the unjust. Let me open my heart to Torah and find in her wisdom my way to righteousness. May the words of my mouth, the meditations of my heart be acceptable to You, my friend, my rock and my redeemer. May the power that makes for peace throughout the heavens be the power from which I learn to draw to make for peace in my world and in my life. <em>Amen</em>.</blockquote>
 
 
 
@@ -1869,7 +1869,7 @@ Blessed are you, YHVH, who sanctifies the Shabbat.
 
 <blockquote>The Kaddish is one of the most familiar prayers in the siddur and comes in several forms, chanted to distinctive melodies depending on the holiday. It closes the whole service or sections of the service and concludes the study of Torah or other sacred texts. The Kaddish is composed in Aramaic, an ancient language closely related to Hebrew and once spoken widely in the Near East. Many worshippers stand during the half Kaddish, and it is customary for most to stand for the full Kaddish.
 
-If you are reciting Kaddish, you may choose to take three steps back as you start the final line. Then bow once to the left, once to the right, and once to the center, finishing with ואמרו אמן / <em>ve'imru amen</em> / and let us say amen. if you are not reciting the kaddish but responding to the prayer leader or mourners reciting it, you may respond to each amen with amen, as well as recite with the community the line, יהא שמה רבא מברך לעלם ולעלמי / <em>yehe shmeh rabba mevarakh Le'alam ul'almeh almaya</em> / May His great name be blessed for ever, and to all eternity. At עושה שלום, it is customary for some to take three steps back, bow left and say עושה / <em>oseh</em> / who makes; bow right and say הוא / <em>hu</em> / grant, bow forward and say על כל / <em>ve'al kol</em> / for all. when finished, it is customary to take three steps forward.</blockquote>
+If you are reciting Kaddish, you may choose to take three steps back as you start the final line. Then bow once to the left, once to the right, and once to the center, finishing with ואמרו אמן / <em>ve'imru amen</em> / and let us say <em>amen</em>. if you are not reciting the kaddish but responding to the prayer leader or mourners reciting it, you may respond to each amen with <em>amen</em>, as well as recite with the community the line, יהא שמה רבא מברך לעלם ולעלמי / <em>yehe shmeh rabba mevarakh Le'alam ul'almeh almaya</em> / May His great name be blessed for ever, and to all eternity. At עושה שלום, it is customary for some to take three steps back, bow left and say עושה / <em>oseh</em> / who makes; bow right and say הוא / <em>hu</em> / grant, bow forward and say על כל / <em>ve'al kol</em> / for all. when finished, it is customary to take three steps forward.</blockquote>
 
 
 
@@ -1975,7 +1975,7 @@ Therefore we hope in you, YHVH Elohenu, to see quickly the splendor of your stre
 
 <blockquote>While often associated with mourning, the Kaddish does not mention death, resurrection, or the afterlife at all. Instead, it proclaims the greatness, holiness, and eternity of God and expresses a wish that the harmony of the heavenly spheres guide us here below, as it does above. Mourners usually stand to recite the Mourners’ Kaddish. In Sephardi and Mizrachi communities, it is common for other worshippers to stand silently with the mourners as they say Kaddish. Some Ashkenazi communities also have adopted this custom. 
 
-If you are reciting Kaddish, you may choose to take three steps back as you start the final line, then bow once to the left, once to the right, and once to the center, finishing with ואמרו אמן / <em>ve’imru amen</em> / and let us say amen. If you are not reciting the Kaddish but responding to the prayer leader or mourners reciting it, you may respond to each amen with amen, as well as recite with the community the line, יהא שמה רבא מברך לעלם ולעלמי / <em>yehe shmeh rabba mevarakh Le’alam ul’almeh almaya</em> / May His great name be blessed for ever, and to all eternity. At עושה שלום, some find it customary to take three steps back, bow left and say עושה / <em>oseh</em> / who makes; bow right and say הוא / <em>hu</em> / grant, bow forward and say ועל כל / <em>ve'al kol</em> / for all. When finished, it is customary to take three steps forward. You may sit after completing the prayer.</blockquote>
+If you are reciting Kaddish, you may choose to take three steps back as you start the final line, then bow once to the left, once to the right, and once to the center, finishing with ואמרו אמן / <em>ve’imru amen</em> / and let us say <em>amen</em>. If you are not reciting the Kaddish but responding to the prayer leader or mourners reciting it, you may respond to each amen with <em>amen</em>, as well as recite with the community the line, יהא שמה רבא מברך לעלם ולעלמי / <em>yehe shmeh rabba mevarakh Le’alam ul’almeh almaya</em> / May His great name be blessed for ever, and to all eternity. At עושה שלום, some find it customary to take three steps back, bow left and say עושה / <em>oseh</em> / who makes; bow right and say הוא / <em>hu</em> / grant, bow forward and say ועל כל / <em>ve'al kol</em> / for all. When finished, it is customary to take three steps forward. You may sit after completing the prayer.</blockquote>
 
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">

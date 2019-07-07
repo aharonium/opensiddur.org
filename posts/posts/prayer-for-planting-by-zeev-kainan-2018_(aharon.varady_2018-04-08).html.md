@@ -27,7 +27,7 @@ Link: <a href="http://opensiddur.org/?p=19706">http://opensiddur.org/?p=19706</a
 
 <td style="vertical-align:top;"><div class="english">
 Master of worlds 
-and elo'ah of Heaven and Earth
+and <em>elo'ah</em> of Heaven and Earth
 that has promised us:
 “I will plant you and not uproot you,”[foot]Jeremiah 42:10 partial[/foot]
 may you strengthen our hands 
@@ -88,7 +88,7 @@ and I will plant them in this land in truth.”[foot]Jeremiah 32:41 partial[/foo
 Those who sow in joy, may they harvest in happiness!
 And may you place, quickly in our day, 
 everyone under their vine and under their fig tree. 
-And may we say Amen.
+And may we say <em>Amen</em>.
 </div></td></tr>
 </tbody></table>
 

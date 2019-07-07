@@ -163,7 +163,7 @@ And this is our share from all our labors.
 May the Lord, God of Israel widen our borders. 
 And, according to our needs, may He give us bread and clothing. 
 To make a great nation live,[foot]end of Genesis 50:20, (thank you Emily Fishman)[/foot] and with it, our children and offspring. 
-And may He grant us peace with all our brethren in Israel. Amen, may it be His will.
+And may He grant us peace with all our brethren in Israel. <em>Amen</em>, may it be His will.
 </div></td>
 </tr>
 </tbody></table>

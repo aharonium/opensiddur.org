@@ -45,7 +45,7 @@ King GEORGE the third, our most gracious Queen CHARLOTTE, their royal highness G
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-may the supreme king of kings through his infinite mercy preserve them, and grant them life and deliver them from all manner of danger; may the supreme king of kings aggrandize and highly exalt our sovereign Lord the king, and grant him long and prosperously to reign; may the supreme king of kings inspire him and his council and the state of the kingdom with benevolence towards us, and all Israel our brethren; in his days and in our days, may Jehudah be saved, and Israel dwell in safety, and may the redeemer come unto Zion, which God of his infinite mercies grant; and let us say, Amen.
+may the supreme king of kings through his infinite mercy preserve them, and grant them life and deliver them from all manner of danger; may the supreme king of kings aggrandize and highly exalt our sovereign Lord the king, and grant him long and prosperously to reign; may the supreme king of kings inspire him and his council and the state of the kingdom with benevolence towards us, and all Israel our brethren; in his days and in our days, may Jehudah be saved, and Israel dwell in safety, and may the redeemer come unto Zion, which God of his infinite mercies grant; and let us say, <em>Amen</em>.
 </div>
 </td></tr></tbody></table>
 

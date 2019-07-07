@@ -16,7 +16,7 @@ Inspire our leaders to defeat hunger and hurt, to promote compassion and to find
 
 O God, may You, who makes peace in high places, help us here on Earth to find the way to peace.
 
-Blessed are You, O God. Aleichem Shalom, grantor of peace. Amen.
+Blessed are You, O God. Aleichem Shalom, grantor of peace. <em>Amen</em>.
 
 </div>
 

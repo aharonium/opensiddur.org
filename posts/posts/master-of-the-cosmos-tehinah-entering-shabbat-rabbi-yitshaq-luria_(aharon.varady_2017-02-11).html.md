@@ -72,7 +72,7 @@ Please majestic King of kings, command the heavenly angels to visit my house in 
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
-Angels of peace, may your coming be in peace; bless me with peace, and bless my prepared table. May your departure be in peace, henceforth in the cosmos. Amen.
+Angels of peace, may your coming be in peace; bless me with peace, and bless my prepared table. May your departure be in peace, henceforth in the cosmos. <em>Amen</em>.
 </div></td>
 </tr>
 

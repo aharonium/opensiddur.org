@@ -68,12 +68,12 @@ We therefore should now do, what at the hour of death we should wish to have don
 
 <tr><td style="vertical-align:top;" width="50%">
 <div class="french"><span lang="fr">
-C’est pourquoi, Seigneur tout-puissant, Dieu d’Israël, je te supplie de m’accorder ta grâce et ta bénédiction dans ce nouveau mois qui com-mence; que par ta divine protection, il s’écoule pour moi et pour tous tes enfants dans la paix de l’àme, dans la pratique de ta loi, dans la piété et la charité; qu’aucune action, aucune pensée coupable ne trouble mon esprit ni mon cœur, et que le travail de mes mains suffise à la nourrie ture de mon corps. Que ton amour, ô notre Père, veille sans cesse sur nous. Amen.
+C’est pourquoi, Seigneur tout-puissant, Dieu d’Israël, je te supplie de m’accorder ta grâce et ta bénédiction dans ce nouveau mois qui com-mence; que par ta divine protection, il s’écoule pour moi et pour tous tes enfants dans la paix de l’àme, dans la pratique de ta loi, dans la piété et la charité; qu’aucune action, aucune pensée coupable ne trouble mon esprit ni mon cœur, et que le travail de mes mains suffise à la nourrie ture de mon corps. Que ton amour, ô notre Père, veille sans cesse sur nous. <em>Amen</em>.
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
 <div class="english"><span lang="en">
-Therefore, O Lord God of Israel! I pray Thee, grant me Thy favour and blessing in this new month, now commencing. May it pass in charity, peace, piety, and the practice of Thy law; may no sinful act or guilty thought trouble my heart or mind, and may the work of my hands be sufficient for my material wants. And may Thy love, O Father! watch over us unceasingly. Amen.
+Therefore, O Lord God of Israel! I pray Thee, grant me Thy favour and blessing in this new month, now commencing. May it pass in charity, peace, piety, and the practice of Thy law; may no sinful act or guilty thought trouble my heart or mind, and may the work of my hands be sufficient for my material wants. And may Thy love, O Father! watch over us unceasingly. <em>Amen</em>.
 </span></div></td>
  </tr></tbody></table>
 

@@ -246,7 +246,7 @@ declare
 For you do hear 
 The voice of Prayer,
 Are blessed!  
-This we declare. Amen
+This we declare. <em>Amen</em>
 </div></td></tr>
 </tbody></table>
 
@@ -326,7 +326,7 @@ Shmuel said: [An abridged version of the prayer of eighteen blessings refers to 
  
 <td style="vertical-align:top;" width="36%">
 <div class="english">
-Grant us understanding, YHVH our elo'ah, to know your ways, 
+Grant us understanding, YHVH our <em>elo'ah</em>, to know your ways, 
 and circumscribe our minds so that we may fear you,[foot]or, 'that our predatory inclination may be tempered by you.' --ANV[/foot] 
 and forgive us so that we may be redeemed, 
 and keep us far from our suffering, 

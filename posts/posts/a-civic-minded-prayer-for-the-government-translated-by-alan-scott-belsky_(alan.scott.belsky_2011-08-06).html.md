@@ -90,7 +90,7 @@ May violence not be heard, nor robbery, nor injury within its borders.
 May You call its walls 'Rescue', and its gates 'Praise'.
 Please remove from all its inhabitants sickness and misfortune, impediment and injury.
 Please spread over it Your shelter of peace,
-and may Your Glory, Yah, hover above it every day. Amen.
+and may Your Glory, Yah, hover above it every day. <em>Amen</em>.
 </td>
 </tr>
 <tr>

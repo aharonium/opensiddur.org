@@ -50,7 +50,7 @@ With the help of God the Almighty, He Who heals all who are ill, may He relieve 
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
-If someone gave him an Evil Eye, may it not harm him in the daytime nor by nighttime, for we are all the children of Joseph the Righteous,[foot]To the descendants of Joseph the evil eye can do no manner of harm (Berakhot 20a, Baba Metzia 84a. Cf. Sotah 36b)[/foot] so we cannot direct the Evil Eye — — so may it not harm you either; and by the count of nine may the Blessed One heal you, and may you recover this very hour; this is the truth, in God’s name, Amen Selah!
+If someone gave him an Evil Eye, may it not harm him in the daytime nor by nighttime, for we are all the children of Joseph the Righteous,[foot]To the descendants of Joseph the evil eye can do no manner of harm (Berakhot 20a, Baba Metzia 84a. Cf. Sotah 36b)[/foot] so we cannot direct the Evil Eye — — so may it not harm you either; and by the count of nine may the Blessed One heal you, and may you recover this very hour; this is the truth, in God’s name, <em>Amen</em> Selah!
 </div></td>
 </tr>
 

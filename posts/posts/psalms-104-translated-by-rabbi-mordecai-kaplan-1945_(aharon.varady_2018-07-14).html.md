@@ -21,7 +21,7 @@ Link: <a href="http://opensiddur.org/?p=20696">http://opensiddur.org/?p=20696</a
 <td style="vertical-align:top;" width="53%">
 <div class="english">
 Bless YHVH, O my soul.
-O YHVH my elo'ah, you are very great;
+O YHVH my <em>elo'ah</em>, you are very great;
 You are clothed with glory and majesty.
 </div></td></tr>
 
@@ -414,7 +414,7 @@ He but touches the mountains, and they smoke.
 <td style="vertical-align:top;" width="53%">
 <div class="english">
 I will sing to YHVH while I live;
-I will sing praise to my elo'ah while I have my being.
+I will sing praise to my <em>elo'ah</em> while I have my being.
 </div></td></tr>
 
 

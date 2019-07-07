@@ -69,7 +69,7 @@ May no one again know the shame and humiliation of slavery
 and may we – all of us – be able to serve YHVH (G-d) 
 as we were created --
 as free men, women, and children. 
-And let us say: Amen.
+And let us say: <em>Amen</em>.
 </td>
 </tr>
 </tbody></table>

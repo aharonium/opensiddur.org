@@ -89,7 +89,7 @@ Speedily may we realize the words of your prophet
 to Yisra'el with your holiness 
 and to all inhabitants of Earth,[foot]Cf. the qedusha for the Yamim Noraim. "והופע בהדר גאון עוזך על כל יושבי תבל ארצך"[/foot]
 as it is written in your holy declaration, 
-Amen and Amen.
+Amen and <em>Amen</em>.
 </div></td></tr>
 </tbody></table>
 

@@ -34,7 +34,7 @@ Parashat Yitro (Exodus 18:1-20:22) in the annual Torah reading cycle, is read on
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="e">18 <sup>1</sup>&nbsp;Now Yitro, the priest of Midyan, Mosheh's father-in-law, heard about all that Elohim had done for Mosheh and for Yisrael his people,</span> <span class="j">that YHVH had brought Yisrael out of Mitsrayim. <sup>2</sup>&nbsp;Yitro, Mosheh's father-in-law, took Tsipporah, Mosheh's wife – after she had been sent home – <sup>3</sup>&nbsp;and her two sons, of whom the first-one's name was 'Gershom/Sojourner There,' for he had said: "I have become a sojourner in a foreign land," <sup>4</sup>&nbsp;and the name of the other was 'Eliezer/El's-help,' for: "the elo'ah of my father is my help, he rescued me from Pharaoh's sword";</span> <span class="e"><sup>5</sup>&nbsp;Yitro, Mosheh's father-in-law, came</span> <span class="j">with his sons and his wife</span> <span class="e">to Mosheh, to the wilderness, where he was encamped, at the mountain of Elohim.</span> <span class="j"><sup>6</sup>&nbsp;He (had it) said to Mosheh: "I, your father-in-law Yitro, am coming to you, and your wife and her two sons with her."</span>
+<span class="e">18 <sup>1</sup>&nbsp;Now Yitro, the priest of Midyan, Mosheh's father-in-law, heard about all that Elohim had done for Mosheh and for Yisrael his people,</span> <span class="j">that YHVH had brought Yisrael out of Mitsrayim. <sup>2</sup>&nbsp;Yitro, Mosheh's father-in-law, took Tsipporah, Mosheh's wife – after she had been sent home – <sup>3</sup>&nbsp;and her two sons, of whom the first-one's name was 'Gershom/Sojourner There,' for he had said: "I have become a sojourner in a foreign land," <sup>4</sup>&nbsp;and the name of the other was 'Eliezer/El's-help,' for: "the <em>elo'ah</em> of my father is my help, he rescued me from Pharaoh's sword";</span> <span class="e"><sup>5</sup>&nbsp;Yitro, Mosheh's father-in-law, came</span> <span class="j">with his sons and his wife</span> <span class="e">to Mosheh, to the wilderness, where he was encamped, at the mountain of Elohim.</span> <span class="j"><sup>6</sup>&nbsp;He (had it) said to Mosheh: "I, your father-in-law Yitro, am coming to you, and your wife and her two sons with her."</span>
 </div></td></tr>
 
 
@@ -166,7 +166,7 @@ Parashat Yitro (Exodus 18:1-20:22) in the annual Torah reading cycle, is read on
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="j"><sup>25</sup>&nbsp;Mosheh went down to the people and said to them,</span> <span class="p">20 <sup>1</sup>&nbsp;"Elohim spoke all these words, saying:</span> <span class="j"><sup>2</sup>&nbsp;'I am YHVH your elo'ah, who brought you out from the land of Mitsrayim, from a house of serfs.'</span> 
+<span class="j"><sup>25</sup>&nbsp;Mosheh went down to the people and said to them,</span> <span class="p">20 <sup>1</sup>&nbsp;"Elohim spoke all these words, saying:</span> <span class="j"><sup>2</sup>&nbsp;'I am YHVH your <em>elo'ah</em>, who brought you out from the land of Mitsrayim, from a house of serfs.'</span> 
 
 
 <tr><td style="vertical-align:top;" width="46%">
@@ -178,7 +178,7 @@ Parashat Yitro (Exodus 18:1-20:22) in the annual Torah reading cycle, is read on
 <td style="vertical-align:top;" width="53%">
 <div class="english">
 <span class="e"><sup>(3)</sup>&nbsp;'You are not to have any other elohim before my presence.
-<sup>3 (4)</sup>&nbsp;You are not to make yourself a carved-image or any figure</span> <span class="j">that is in the heavens above, that is on the earth beneath, that is in the waters beneath the earth; <sup>4 (5)</sup>&nbsp;you are not to bow down to them, you are not to serve them, for I, YHVH your elo'ah, am a jealous El, calling-to-account the iniquity of the fathers upon the sons, to the third and the fourth (generation) of those that hate me, <sup>5 (6)</sup>&nbsp;but showing loyalty to the thousandth of those that love me, of those that keep my commandments. <sup>6 (7)</sup>&nbsp;You are not to take up the name of YHVH your elo'ah for emptiness, for YHVH will not clear him that takes up his name for emptiness.'</span>
+<sup>3 (4)</sup>&nbsp;You are not to make yourself a carved-image or any figure</span> <span class="j">that is in the heavens above, that is on the earth beneath, that is in the waters beneath the earth; <sup>4 (5)</sup>&nbsp;you are not to bow down to them, you are not to serve them, for I, YHVH your <em>elo'ah</em>, am a jealous El, calling-to-account the iniquity of the fathers upon the sons, to the third and the fourth (generation) of those that hate me, <sup>5 (6)</sup>&nbsp;but showing loyalty to the thousandth of those that love me, of those that keep my commandments. <sup>6 (7)</sup>&nbsp;You are not to take up the name of YHVH your <em>elo'ah</em> for emptiness, for YHVH will not clear him that takes up his name for emptiness.'</span>
 </div></td></tr>
 
 
@@ -189,7 +189,7 @@ Parashat Yitro (Exodus 18:1-20:22) in the annual Torah reading cycle, is read on
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="j"><sup>7 (8)</sup>&nbsp;'Remember the Shabbat day, to hallow it. <sup>8 (9)</sup>&nbsp;For six days, you are to serve, and are to make all your work, <sup>9 (10)</sup>&nbsp;but the seventh day is Shabbat for YHVH your elo'ah: you are not to make any kind of work, (not) you, nor your son, nor your daughter, (not) your servant, nor your maid, nor your domesticated-animal, nor your sojourner that is within your gates.</span> <span class="p"><sup>10 (11)</sup>&nbsp;For in six days YHVH made the heavens and the earth, the sea and all that is in it, and he rested on the seventh day; therefore YHVH gave the Shabbat day his blessing, and he hallowed it.'</span>
+<span class="j"><sup>7 (8)</sup>&nbsp;'Remember the Shabbat day, to hallow it. <sup>8 (9)</sup>&nbsp;For six days, you are to serve, and are to make all your work, <sup>9 (10)</sup>&nbsp;but the seventh day is Shabbat for YHVH your <em>elo'ah</em>: you are not to make any kind of work, (not) you, nor your son, nor your daughter, (not) your servant, nor your maid, nor your domesticated-animal, nor your sojourner that is within your gates.</span> <span class="p"><sup>10 (11)</sup>&nbsp;For in six days YHVH made the heavens and the earth, the sea and all that is in it, and he rested on the seventh day; therefore YHVH gave the Shabbat day his blessing, and he hallowed it.'</span>
 </div></td></tr>
 
 
@@ -200,7 +200,7 @@ Parashat Yitro (Exodus 18:1-20:22) in the annual Torah reading cycle, is read on
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="j"><sup>11 (12)</sup>&nbsp;'Honor your father and your mother, in order that your days may be prolonged on the fertile-ground that YHVH your elo'ah is giving you.'</span>
+<span class="j"><sup>11 (12)</sup>&nbsp;'Honor your father and your mother, in order that your days may be prolonged on the fertile-ground that YHVH your <em>elo'ah</em> is giving you.'</span>
 </div></td></tr>
 
 

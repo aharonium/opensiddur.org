@@ -154,7 +154,7 @@ Give to them the desires of their heart,
 so that they may deal well with us unceasingly. 
 Cause us to find favor and grace in their eyes 
 that they may set us a seal upon their heart. 
-O that this may be your will and let us say Amen. 
+O that this may be your will and let us say <em>Amen</em>. 
 </div>
 </td></tr>
 
@@ -217,7 +217,7 @@ through the merit of the love of the <em>Avot</em>, as it is written:
 also my covenant with Yitsḥak, 
 yea also my covenant with Avraham 
 and the land shall I remember."[foot]Leviticus 26:42[/foot] 
-O that this may be your will and let us say Amen. 
+O that this may be your will and let us say <em>Amen</em>. 
 </div>
 </td></tr>
 
@@ -266,7 +266,7 @@ And may we be granted to gaze on the beauty of Hashem and to behold His sanctuar
 May He send us the Priest of Righteousness who will lead us upright to our land. 
 May the beauty of Hashem be upon us, 
 and may the Redeemer come speedily to Tsiyon in our days. 
-O that this may be your will and let us say Amen.
+O that this may be your will and let us say <em>Amen</em>.
 </div>
 </td></tr></tbody></table>
 

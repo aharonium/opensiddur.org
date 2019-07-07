@@ -30,7 +30,7 @@ YHVH our god, the God of our Fathers, Avraham, Yitsḥaq and Ya'aqov, may it ple
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-YHVH our god, we beseech you to open unto us the gates of mercy on this our solemn Fast and that our prayers and the prayers of all the people that stand before you this day, may come before you that war may no more pass through our Land, and that you may send the Angels of mercy to proclaim Peace to all America and to the inhabitants thereof. That you may once more plant an everlasting peace between Great Britain and her Colonies as in former times and confirm unto us what is written: "And they shall beat their swords into plowshares, and their spears into pruning hooks; Nation shall not lift up sword against Nation, neither shall they learn war any more."[foot]Isaiah 2:4, Micah 4:3[/foot] Amen.
+YHVH our god, we beseech you to open unto us the gates of mercy on this our solemn Fast and that our prayers and the prayers of all the people that stand before you this day, may come before you that war may no more pass through our Land, and that you may send the Angels of mercy to proclaim Peace to all America and to the inhabitants thereof. That you may once more plant an everlasting peace between Great Britain and her Colonies as in former times and confirm unto us what is written: "And they shall beat their swords into plowshares, and their spears into pruning hooks; Nation shall not lift up sword against Nation, neither shall they learn war any more."[foot]Isaiah 2:4, Micah 4:3[/foot] <em>Amen</em>.
 </div>
 </td></tr></tbody></table>
 

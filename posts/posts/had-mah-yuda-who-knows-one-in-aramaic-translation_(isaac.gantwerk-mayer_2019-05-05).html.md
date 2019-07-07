@@ -38,7 +38,7 @@ A recording of one melody can be found <a href="https://soundcloud.com/yshtencel
 <div class="english">
 Who knows one? 
 I know one! 
-One is our elo'ah 
+One is our <em>elo'ah</em> 
 in the Heavens and the Earth.
 </div></td></tr>
 
@@ -67,7 +67,7 @@ in the Heavens and the Earth.
 Who knows two? 
 I know two! 
 Two are the stelae of the covenant, 
-and One is our elo'ah 
+and One is our <em>elo'ah</em> 
 in the Heavens and the Earth.
 </div></td></tr>
 
@@ -99,7 +99,7 @@ Who knows three?
 I know three! 
 Three are the forefathers, 
 Two are the stelae of the covenant, 
-and One is our elo'ah 
+and One is our <em>elo'ah</em> 
 in the Heavens and the Earth.
 </div></td></tr>
 
@@ -134,7 +134,7 @@ I know four!
 Four are the foremothers, 
 Three are the forefathers, 
 Two are the stelae of the covenant, 
-and One is our elo'ah 
+and One is our <em>elo'ah</em> 
 in the Heavens and the Earth.
 </div></td></tr>
 
@@ -172,7 +172,7 @@ Five are the books of the Torah,
 Four are the foremothers, 
 Three are the forefathers, 
 Two are the stelae of the covenant, 
-and One is our elo'ah 
+and One is our <em>elo'ah</em> 
 in the Heavens and the Earth.
 </div></td></tr>
 
@@ -213,7 +213,7 @@ Five are the books of the Torah,
 Four are the foremothers, 
 Three are the forefathers, 
 Two are the stelae of the covenant, 
-and One is our elo'ah 
+and One is our <em>elo'ah</em> 
 in the Heavens and the Earth.
 </div></td></tr>
 
@@ -257,7 +257,7 @@ Five are the books of the Torah,
 Four are the foremothers, 
 Three are the forefathers, 
 Two are the stelae of the covenant, 
-and One is our elo'ah 
+and One is our <em>elo'ah</em> 
 in the Heavens and the Earth.
 </div></td></tr>
 
@@ -304,7 +304,7 @@ Five are the books of the Torah,
 Four are the foremothers, 
 Three are the forefathers, 
 Two are the stelae of the covenant, 
-and One is our elo'ah 
+and One is our <em>elo'ah</em> 
 in the Heavens and the Earth.
 </div></td></tr>
 
@@ -354,7 +354,7 @@ Five are the books of the Torah,
 Four are the foremothers, 
 Three are the forefathers, 
 Two are the stelae of the covenant, 
-and One is our elo'ah 
+and One is our <em>elo'ah</em> 
 in the Heavens and the Earth.
 </div></td></tr>
 
@@ -407,7 +407,7 @@ Five are the books of the Torah,
 Four are the foremothers, 
 Three are the forefathers, 
 Two are the stelae of the covenant, 
-and One is our elo'ah 
+and One is our <em>elo'ah</em> 
 in the Heavens and the Earth.
 </div></td></tr>
 
@@ -463,7 +463,7 @@ Five are the books of the Torah,
 Four are the foremothers, 
 Three are the forefathers, 
 Two are the stelae of the covenant, 
-and One is our elo'ah 
+and One is our <em>elo'ah</em> 
 in the Heavens and the Earth.
 </div></td></tr>
 
@@ -522,7 +522,7 @@ Five are the books of the Torah,
 Four are the foremothers, 
 Three are the forefathers, 
 Two are the stelae of the covenant, 
-and One is our elo'ah 
+and One is our <em>elo'ah</em> 
 in the Heavens and the Earth.
 </div></td></tr>
 
@@ -584,7 +584,7 @@ Five are the books of the Torah,
 Four are the foremothers, 
 Three are the forefathers, 
 Two are the stelae of the covenant, 
-and One is our elo'ah 
+and One is our <em>elo'ah</em> 
 in the Heavens and the Earth.
 </div></td></tr>
 </tbody></table>

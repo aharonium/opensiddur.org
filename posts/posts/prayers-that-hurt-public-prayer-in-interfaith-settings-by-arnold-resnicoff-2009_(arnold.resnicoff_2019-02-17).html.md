@@ -447,7 +447,7 @@ On the other hand, we should not underestimate the healing impact of inclusive p
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-For many Christians, the New Testament gives a scriptural basis for “general” prayers. They point to Jesus’ prayer as an example. When asked how to pray, Jesus began, “Our Father, who art in heaven . . .” (Matthew 6:9 and Luke 11:2). For another illustration of “general” prayers, they point to the words of Stephen recorded in Acts 7:60, “Lord, lay not this sin to their charge.” Or “God, be merciful to me, a sinner,” written in Luke 18:13. Many of the New Testament epistles end with prayers offered in the name of Jesus, but in the Epistle to the Hebrews there is a simple prayer we might emulate today when ending an invocation or benediction, “Grace be with you all, Amen” (Hebrews 13:25).
+For many Christians, the New Testament gives a scriptural basis for “general” prayers. They point to Jesus’ prayer as an example. When asked how to pray, Jesus began, “Our Father, who art in heaven . . .” (Matthew 6:9 and Luke 11:2). For another illustration of “general” prayers, they point to the words of Stephen recorded in Acts 7:60, “Lord, lay not this sin to their charge.” Or “God, be merciful to me, a sinner,” written in Luke 18:13. Many of the New Testament epistles end with prayers offered in the name of Jesus, but in the Epistle to the Hebrews there is a simple prayer we might emulate today when ending an invocation or benediction, “Grace be with you all, <em>Amen</em>” (Hebrews 13:25).
 </div></td></tr>
 
 
@@ -722,7 +722,7 @@ For those of us who do value that moment, and yet struggle with the challenge of
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<strong><em>Invitational Ending</em>.</strong> As a variation of the silent ending, I have sometimes offered a prayer and ended with the invitation for all persons present to complete the prayer using the words of their own faith and of their tradition. After a few moments, I conclude with the words, “And may we say, Amen.”
+<strong><em>Invitational Ending</em>.</strong> As a variation of the silent ending, I have sometimes offered a prayer and ended with the invitation for all persons present to complete the prayer using the words of their own faith and of their tradition. After a few moments, I conclude with the words, “And may we say, <em>Amen</em>.”
 </div></td></tr>
 
 
@@ -733,7 +733,7 @@ For those of us who do value that moment, and yet struggle with the challenge of
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<strong><em>Shared Images</em>.</strong> When Abraham prayed with Melchizedek (Genesis 14) this non- Jewish priest offered a prayer to “the most high God, the possessor of heaven and earth.” One modern rabbinical commentary points out that this may be the first example of persons of different faiths searching for a “shared image” in order to join together in prayer. The story may be an appropriate basis for our prayer, “in the Lord's name,” which may allow everyone with a theistic belief system to say amen, even if the words take on different meanings within the different traditions. The Bible offers many shared images. So we may pray together to God as savior, redeemer, shepherd, creator, and king. Even the image of the Holy Spirit possesses a Jewish meaning. It comes from the Jewish idea of .ru'aḥ ha-kodesh.
+<strong><em>Shared Images</em>.</strong> When Abraham prayed with Melchizedek (Genesis 14) this non- Jewish priest offered a prayer to “the most high God, the possessor of heaven and earth.” One modern rabbinical commentary points out that this may be the first example of persons of different faiths searching for a “shared image” in order to join together in prayer. The story may be an appropriate basis for our prayer, “in the Lord's name,” which may allow everyone with a theistic belief system to say <em>amen</em>, even if the words take on different meanings within the different traditions. The Bible offers many shared images. So we may pray together to God as savior, redeemer, shepherd, creator, and king. Even the image of the Holy Spirit possesses a Jewish meaning. It comes from the Jewish idea of .ru'aḥ ha-kodesh.
 </div></td></tr>
 
 
@@ -843,7 +843,7 @@ Earlier, I mentioned the meeting I had with the Rev. Jerry Falwell, which took p
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-The word, “amen,” means “it is true,” or “may it be so.” According to Jewish tradition, adopted by Christianity, saying amen is the equivalent of reciting the entire prayer (Talmud, Berakhot 53b). Because of this, the Talmud cautions Jews not to say amen to prayers of non-Jews, unless they have heard the entire prayer (Berakhot 51b). Prayer should always be taken seriously, and we must be able to make it our own before saying amen.
+The word, “amen,” means “it is true,” or “may it be so.” According to Jewish tradition, adopted by Christianity, saying amen is the equivalent of reciting the entire prayer (Talmud, Berakhot 53b). Because of this, the Talmud cautions Jews not to say amen to prayers of non-Jews, unless they have heard the entire prayer (Berakhot 51b). Prayer should always be taken seriously, and we must be able to make it our own before saying <em>amen</em>.
 </div></td></tr>
 
 

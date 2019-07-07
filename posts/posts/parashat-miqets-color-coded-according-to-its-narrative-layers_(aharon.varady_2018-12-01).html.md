@@ -307,7 +307,7 @@ Parashat Miqets (Genesis 41:1-44:17) in the annual Torah reading cycle, is read 
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="b"> <sup>23</sup>&nbsp;He said: "It is well with you, do not be afraid! Your elo'ah, the elo'ah of your father, placed a treasure in your packs for you – (for) your silver has come in to me." And he brought Shim'on out to them. <sup>24</sup>&nbsp;Then the man had the men come into Yosef's house and gave them water so that they might wash their feet and gave them fodder for their donkeys. <sup>25</sup>&nbsp;They prepared the gift, until Yosef came back at noon, for they understood that they were to eat bread there.</span>
+<span class="b"> <sup>23</sup>&nbsp;He said: "It is well with you, do not be afraid! Your <em>elo'ah</em>, the <em>elo'ah</em> of your father, placed a treasure in your packs for you – (for) your silver has come in to me." And he brought Shim'on out to them. <sup>24</sup>&nbsp;Then the man had the men come into Yosef's house and gave them water so that they might wash their feet and gave them fodder for their donkeys. <sup>25</sup>&nbsp;They prepared the gift, until Yosef came back at noon, for they understood that they were to eat bread there.</span>
 </div></td></tr>
 
 

@@ -29,7 +29,7 @@ Nefesh kol ḥai (Spirit of All Life)
 whose spirit is woven 
 through the ḥesronan (absences/dependencies) 
 inherent in all living creatures 
-binding us all together as one,[foot]Cf. the blessing Borei Nefashot: <span class="hebrew">בָּרוּךְ אַתָּה יְיָ אֱלֹהֵֽינוּ מֶֽלֶךְ הָעוֹלָם בּוֹרֵא נְפָשׁוֹת רַבּוֹת וְחֶסְרוֹנָן עַל כָּל מַה שֵּׁבָּרָאתָ לְהַחֲיוֹת בָּהֶם נֶֽפֶשׁ כָּל חָי: בָּרוּךְ חַי הָעוֹלָמִים:</span> ("Blessed are you, YHVH our elo'ah, Cosmic Majesty, who creates a diverse multitude of creatures, each with a dependency (lit. absence) through which it is enlivened with the Spirit of Life. Blessed is the Life of the Worlds.")[/foot]&nbsp; 
+binding us all together as one,[foot]Cf. the blessing Borei Nefashot: <span class="hebrew">בָּרוּךְ אַתָּה יְיָ אֱלֹהֵֽינוּ מֶֽלֶךְ הָעוֹלָם בּוֹרֵא נְפָשׁוֹת רַבּוֹת וְחֶסְרוֹנָן עַל כָּל מַה שֵּׁבָּרָאתָ לְהַחֲיוֹת בָּהֶם נֶֽפֶשׁ כָּל חָי: בָּרוּךְ חַי הָעוֹלָמִים:</span> ("Blessed are you, YHVH our <em>elo'ah</em>, Cosmic Majesty, who creates a diverse multitude of creatures, each with a dependency (lit. absence) through which it is enlivened with the Spirit of Life. Blessed is the Life of the Worlds.")[/foot]&nbsp; 
 please strengthen the vitality of Yita Rokhl bat Tsirl Leah.
 </div></td></tr>
 

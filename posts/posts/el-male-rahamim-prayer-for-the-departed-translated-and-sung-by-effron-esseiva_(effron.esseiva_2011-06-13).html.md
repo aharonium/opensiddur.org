@@ -58,7 +58,7 @@ and never withdraw your protective wings and take [bundle]
 this soul into the bond of life. 
 Hashem is this soul’s everlasting inheritance 
 and peaceful resting place, 
-and let us say: Amen. 
+and let us say: <em>Amen</em>. 
 </td>
 </tr>
 </tbody></table>

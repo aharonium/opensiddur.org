@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: A Prayer for the Spiritual Welfare of the United States at a Time of Trial, by Rabbi Joe Schwartz<br />
+Title: תְּפִלָּה לְמַעַן אַרְצוֹת הַבְּרִית בְּעֵת נִסָּיוֹן | A Prayer for the United States at a Time of Trial, by Rabbi Joe Schwartz<br />
 Author: RabbiJoeSchwartz<br />
 License: for license, please consult the following link.<br />
 Link: <a href="http://opensiddur.org/?p=25842">http://opensiddur.org/?p=25842</a>
@@ -19,7 +19,7 @@ Link: <a href="http://opensiddur.org/?p=25842">http://opensiddur.org/?p=25842</a
 חוּס וְהָגֵן עַל אַרְצוֹת הַבְּרִית — 
 אֲנְשֶׁיהָ, שָׂרֶיהָ וְיוֹעֲצֶיהָ — 
 וּשְׁמוֹר נָא עַל שְׁאִיפוֹתֶיהָ וּמוֹסְדוֹתֶיהָ הַחָפְשִיִּים, 
-שֶהֵם תְּהִילָּתָהּ וְתִּפְאָרְתָּהּ. 
+שֶׁהֵם תְּהִלָּתָהּ וְתִּפְאָרְתָּהּ. 
 מִי יִתֵּן וּתְהֵא לָעֲשׁוּקִים וְלִמְשֻׁעְבָּדִים תִּקְוָה, 
 וּמָנוֹס לְכָל חַסְרֵי קֵן וּטְרוּפֵי סוּפָה, 
 מְגַנָּה שִֹנְאַת חִנָּם וְדוֹחָה כָל רְדִיפָה.
@@ -29,8 +29,8 @@ Link: <a href="http://opensiddur.org/?p=25842">http://opensiddur.org/?p=25842</a
 <div class="english">
 El Elyon, 
 ram ’al kol goyim, 
-ohev tzedakah umishpat, 
-ḥus v’hagen ’al artzot habrit — 
+ohev tsedakah umishpat, 
+ḥus v’hagen ’al artsot habrit — 
 ansheiha, sareiha v’yo’atzeiha — 
 ushmor na ’al she’ifoteiha umos’doteiha haḥofshi’im, 
 shehem tehilatah v’tifartah. 
@@ -49,7 +49,7 @@ its people, its ministers and its advisers —
 and safeguard the ideals and free institutions 
 that are its pride and its glory. 
 May it be a beacon of hope for the oppressed and the enslaved 
-and a refuge for the homeless and tempest-tost, 
+and a refuge for the homeless and tempest-tost,[foot]Cf. Emma Lazarus’s <a href="https://opensiddur.org/prayers/secular-calendar/united-states/thanksgiving-day/the-new-collosus-by-emma-lazarus-1883-yiddish-translation-by-rachel-kirsch-holtman-1938/">New Collossus</a> (1883).[/foot] 
 giving "to bigotry no sanction, and to persecution no assistance."[foot]George Washington’s <a href="https://founders.archives.gov/documents/Washington/05-06-02-0135">Letter to the Jews of Newport, Rhode Island</a> (1790).[/foot] 
 </div></td></tr>
 
@@ -78,11 +78,11 @@ haketanim ’im hagedolim,
 k’mo shekatuv betoratekha: 
 Adonai “oseh mishpat yatom v’almanah, 
 veohev ger latet lo leḥem vesimlah.” 
-Vekhen katuv: “v’ger lo toneh v’lo tilḥatzenu . . . . 
+Vekhen katuv: “v’ger lo toneh v’lo tilḥatsenu . . . . 
 kol almanah v’yatom lo t’anun.” 
 V’khatuv: “im ’aneh t’aneh oto, 
-ki im tza’ok yitz’ak elai — 
-shamo’a eshma’ tza’akato” 
+ki im tsa’ok yits’ak elai — 
+shamo’a eshma’ tsa’akato” 
 v’tariv rivo.
 </span></div></td>
  
@@ -108,7 +108,7 @@ and take up their cause.
 אֵל רָחוּם וְחַנּוּן, 
 לַמְּדֵנוּ אוֹרְחוֹת רַחֲמִים וְדַרְכֵי נוֹעָם; 
 שְׁפוֹךְ אֶת רוּחֲךָ עַל הָאָרֶץ, 
-שֶׁכָּל יוֹשְׁבֵיהָ יֵדעוּ 
+שֶׁכָּל יוֹשְׁבֶיהָ יֵדעוּ 
 שֶׁבָּנִים אֲנַחְנוּ לָךְ, 
 וְאַחִים נוֹצַרְנוּ לְזוּלָתֵנוּ. 
 קַיֵּם בִּמְהֵרָה מִקְרָא שֶׁכָּתוּב,
@@ -121,14 +121,14 @@ and take up their cause.
 <div class="english">
 El raḥum v’ḥanun, 
 lamdenu orḥot raḥamim v’darkhei no’am; 
-shfokh et ruḥakha ’al ha’aretz, 
+shfokh et ruḥakha ’al ha’arets, 
 shekol yoshveiha yed’u 
 shebanim anaḥnu lakh, 
-v’aḥim notzarnu l’zulateinu. 
+v’aḥim notsarnu l’zulateinu. 
 Kayyem bimheira mikra shekatuv: 
-“Ki mal’a ha’aretz de’ah et Adonai, 
+“Ki mal’a ha’arets de’ah et Adonai, 
 kamayim l’yam m’khasim.” 
-V’nomar: Amen.
+V’nomar: <em>Amen</em>.
 </span></div></td> 
  
 <td style="vertical-align:top;" width="53%">
@@ -142,12 +142,12 @@ created as brothers and sisters to one another.
 May the words of scripture speedily be fulfilled:
 that "the land be filled with knowledge of You 
 as the waters cover the sea,[foot]Isaiah 11:9.[/foot]
-and let us say: Amen.
+and let us say: <em>Amen</em>.
 </div></td></tr>
 </tbody></table>
 
 <hr />
 
-"A Prayer for the Spiritual Welfare of the United States at a Time of Trial," by Rabbi Joe Schwartz was first published at <a href="https://forward.com/opinion/426422/a-new-prayer-for-the-united-states-in-a-time-of-trial/">The Forward</a> on 28 June 2019. For several lines without direct translation in the English, I have added a translation. --Aharon Varady
+"A Prayer for the Spiritual Welfare of the United States at a Time of Trial," by Rabbi Joe Schwartz was first published in a low resolution graphical format at <a href="https://forward.com/opinion/426422/a-new-prayer-for-the-united-states-in-a-time-of-trial/">The Forward</a> on 28 June 2019. It is published here as text. For several lines without direct translation in the English, I have added a translation. --Aharon Varady
 </body>
 </html>

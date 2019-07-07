@@ -1084,7 +1084,7 @@ Remember us, haShem Eloheinu, for our well-being, (Amen) and (please) keep us in
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
-And rebuild the holy City of Peace, Yerushalayim, speedily in our days. Blessed are you haShem who with compassion (and with peace) builds the City of Peace. Amen.
+And rebuild the holy City of Peace, Yerushalayim, speedily in our days. Blessed are you haShem who with compassion (and with peace) builds the City of Peace. <em>Amen</em>.
 </div></td>
 </tr>
 
@@ -1128,7 +1128,7 @@ Blessed are you haShem Eloheinu Cosmic Majesty, the god that is our Guide, our M
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
-<em>Share your own requests here, using the formula, “May haRaḥaman (the Compassionate One).” Everyone participating affirms the request by saying, Amen, afterward.</em>
+<em>Share your own requests here, using the formula, “May haRaḥaman (the Compassionate One).” Everyone participating affirms the request by saying, <em>Amen</em>, afterward.</em>
 </div></td>
 </tr>
 
@@ -1256,7 +1256,7 @@ and our ancestral fathers, Avraham, Yitsḥak, Yaakov, [were each blessed]&nbsp;
 in all [foot]Bereishit 24:1[/foot],
 from all [foot]Bereishit 27:33[/foot], 
 and with all things [foot]Bereishit 33:11[/foot]&nbsp;<br />
-so may the Compassionate Womb bless us all as one with a perfect blessing – and let us say, Amen!
+so may the Compassionate Womb bless us all as one with a perfect blessing – and let us say, <em>Amen</em>!
 </div></td>
 </tr>
 
@@ -1357,7 +1357,7 @@ May the Compassionate Womb make us worthy of the days of the moshiaḥ and of a 
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
-She intervenes for Her king, [On Shabbat, Rosh Ḥodesh, and Yontov: She is a tower for Her king, [foot]II Shmuel 22:41[/foot]] bringing lovingkindness to Her chosen servant, to David and to his descendants, throughout the world [foot]Tehilim 18:51[/foot]. The One who makes peace in lofty places, may He make peace here below for us and for all Yisrael (and for everyone in the world) – and let us say, Amen! 
+She intervenes for Her king, [On Shabbat, Rosh Ḥodesh, and Yontov: She is a tower for Her king, [foot]II Shmuel 22:41[/foot]] bringing lovingkindness to Her chosen servant, to David and to his descendants, throughout the world [foot]Tehilim 18:51[/foot]. The One who makes peace in lofty places, may He make peace here below for us and for all Yisrael (and for everyone in the world) – and let us say, <em>Amen</em>! 
 </div></td>
 </tr>
 

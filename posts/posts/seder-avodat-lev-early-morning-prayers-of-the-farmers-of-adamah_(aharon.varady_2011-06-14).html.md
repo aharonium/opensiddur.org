@@ -252,7 +252,7 @@ od yehallelukha selah
 <td style="vertical-align:top;" width="33%">
 <div class="english">
 Happy are those who dwell in Your house, 
-may they always praise You. Selah![foot]Psalm 84:5[/foot] 
+may they always praise You. <em>Selah</em>![foot]Psalm 84:5[/foot] 
 </div>
 </td></tr>
 

@@ -112,7 +112,7 @@ and speedily effectuate,
 that among us may be heard "the voice of him who bringeth glad tidings,"[foot]Isaiah 52:7.[/foot]&nbsp; 
 announcing that "the redeemer cometh to Zion."[foot]Isaiah 59:20.[/foot]&nbsp; 
 So be it thy will, 
-and we will say Amen.
+and we will say <em>Amen</em>.
 </div></td></tr>
 </tbody></table>
 

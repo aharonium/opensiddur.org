@@ -570,7 +570,7 @@ YHVH
 into the world
 for ever
 truly so truly so
-Amen Amen.
+Amen <em>Amen</em>.
 </td></tr>
 </tbody></table>
 

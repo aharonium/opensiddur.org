@@ -36,7 +36,7 @@ When the spring (Aviv) season arrives, a blessing is traditionally said when one
  
 <td style="vertical-align:top;" width="53%"><div class="english">
 Blessed are you, 
-YHVH (haShem) our elo'ah,
+YHVH (haShem) our <em>elo'ah</em>,
 cosmic majesty, 
 for there is nothing lacking in the world at all,[foot]In the Nusah ha-Ari z"l, there is a slight variation in the wording: שֶׁלוֹ חִסַּר בָּעוֹלָמוֹ דָּבָר[/foot]&nbsp;
 and good creatures and good trees were created in it, 
@@ -74,7 +74,7 @@ As a formula, this blessing has some language in common with another blessing, t
  
 <td style="vertical-align:top;" width="53%"><div class="english">
 Blessed are you,
-YHVH (haShem) our elo'ah,
+YHVH (haShem) our <em>elo'ah</em>,
 Cosmic Majesty,
 who creates a diverse multitude of creatures,
 with ḥesronan (lit. something lacking) in all of them

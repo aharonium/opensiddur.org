@@ -48,7 +48,7 @@ Gott, mein Gott, wie[foot]Vorlage: <em>wir</em>[/foot] groß, wie voll unendlich
 
 <tr><td style="vertical-align:top;" width="50%">
 <div class="english"><span lang="de">
-Und so will ich denn mit diesem frohen Vertrauen zu dir, Allvater, mein Tagewerk beginnen, das du segnen mögest aus der Fülle deiner Gnade, daß es mir und den Meinigen zum Heile gereiche. Amen. 
+Und so will ich denn mit diesem frohen Vertrauen zu dir, Allvater, mein Tagewerk beginnen, das du segnen mögest aus der Fülle deiner Gnade, daß es mir und den Meinigen zum Heile gereiche. <em>Amen</em>. 
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">

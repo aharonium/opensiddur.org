@@ -414,7 +414,7 @@ Rabbi Elazar ben Azaria, a Talmudic sage of the 1st century CE, said: &quot;Anyt
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
-May it be your will, Hashem our God, that by virtue of our blessing and eating these fruits we shall enjoy the hidden heavenly roots from which they draw the divine flow of fruiting and blessing. Once again, abundantly fill them with Your glorious flow, nourish and ripen them for an entire year of blessing, good life, and peace. Amen.
+May it be your will, Hashem our God, that by virtue of our blessing and eating these fruits we shall enjoy the hidden heavenly roots from which they draw the divine flow of fruiting and blessing. Once again, abundantly fill them with Your glorious flow, nourish and ripen them for an entire year of blessing, good life, and peace. <em>Amen</em>.
 </div></td>
 </tr>
 
@@ -1031,7 +1031,7 @@ household ...
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%"><div class="english">
-The Jewish tradition teaches us that our relations with all things in the world of action can lead us to higher spiritual levels. We realize wasting, pollution, and not actively caring for the environment lead to very ill consequences. By internalizing and acting on the Jewish values of <em>chesed </em>(caring), <em>tzedakah</em> (righteousness),<em> rachamim </em>(compassion), and <em>kavvanah</em> (proper intention) we can create and sustain a world in harmony with Being. Through action, and also through study of the Torah - which is likened to water - we can enter the World of Formation.
+The Jewish tradition teaches us that our relations with all things in the world of action can lead us to higher spiritual levels. We realize wasting, pollution, and not actively caring for the environment lead to very ill consequences. By internalizing and acting on the Jewish values of <em>ḥesed </em>(caring), <em>tsedakah</em> (righteousness),<em> raḥamim </em>(compassion), and <em>kavvanah</em> (proper intention) we can create and sustain a world in harmony with Being. Through action, and also through study of the Torah - which is likened to water - we can enter the World of Formation.
 </div></td>
 </tr>
 

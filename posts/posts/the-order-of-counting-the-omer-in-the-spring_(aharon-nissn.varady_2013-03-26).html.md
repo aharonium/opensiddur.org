@@ -1013,7 +1013,7 @@ May I be purified and sanctified with the holiness of Above,
 and through this may abundant <em>shefa</em> flow [unimpeded] through all the worlds.
 And may it heal our lives, spirits, and souls from all impurity and impairment.
 May it purify and sanctify us with your most precious holiness.
-<em>Amen. Selah.</em>
+<em>Amen. <em>Selah</em>.</em>
 </div>
 </td></tr>
 </tbody></table>

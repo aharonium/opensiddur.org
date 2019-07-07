@@ -85,7 +85,7 @@ And after the fire, a still small voice."[foot]I Kings 19:11-12[/foot]
 Thus may it be for us 
 and our children 
 and for all those who dwell on earth –
-and we say: Amen.
+and we say: <em>Amen</em>.
 </div></td>
 </tr>
 </tbody></table>

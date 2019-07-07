@@ -79,12 +79,12 @@ But above all, it is for us, the descendants of the patriarchs, the servants of 
 
 <tr><td style="vertical-align:top;">
 <div class="english"><span lang="fr">
-Seigneur, accorde-moi un cœur pur et pénètre-le de ton esprit, pour qu’aucune pensée mondaine ne puisse me poursuivre jusqu’en ce lieu sacré. C’est dans ton temple que je dois me souvenir qu’une âme droite est la meilleure des offrandes, et le repentir, la plus efficace des prières. Pénètre-moi, pénètre tous mes frères ici réunis, des sentiments de ta grandeur et de notre humilité, afin que nos têtes se courbent devant ta majesté, et que, de la profondeur de nos cœurs saintement recueillis, noire prière, comme un encens divin, s’élève vers ton trône céleste. Amen.
+Seigneur, accorde-moi un cœur pur et pénètre-le de ton esprit, pour qu’aucune pensée mondaine ne puisse me poursuivre jusqu’en ce lieu sacré. C’est dans ton temple que je dois me souvenir qu’une âme droite est la meilleure des offrandes, et le repentir, la plus efficace des prières. Pénètre-moi, pénètre tous mes frères ici réunis, des sentiments de ta grandeur et de notre humilité, afin que nos têtes se courbent devant ta majesté, et que, de la profondeur de nos cœurs saintement recueillis, noire prière, comme un encens divin, s’élève vers ton trône céleste. <em>Amen</em>.
 </span></div></td>
 
 <td style="vertical-align:top;">
 <div class="english"><span lang="en">
-Grant me, O Lord, a pure heart filled with Thy spirit, so that no worldly thought may follow me into this sacred place. In Thy temple must I remember that an upright soul is the best offering, and repentance the most efficient prayer. Fill my mind, and the minds of my brethren here assembled, with the knowledge of Thy greatness, and our littleness, so that we may bend in fitting humility before Thee; and grant that our prayers may ascend, as incense, from the depths of our hearts towards Thy heavenly throne. Amen.
+Grant me, O Lord, a pure heart filled with Thy spirit, so that no worldly thought may follow me into this sacred place. In Thy temple must I remember that an upright soul is the best offering, and repentance the most efficient prayer. Fill my mind, and the minds of my brethren here assembled, with the knowledge of Thy greatness, and our littleness, so that we may bend in fitting humility before Thee; and grant that our prayers may ascend, as incense, from the depths of our hearts towards Thy heavenly throne. <em>Amen</em>.
 </span></div></td>
 </tr>
 </tbody></table>

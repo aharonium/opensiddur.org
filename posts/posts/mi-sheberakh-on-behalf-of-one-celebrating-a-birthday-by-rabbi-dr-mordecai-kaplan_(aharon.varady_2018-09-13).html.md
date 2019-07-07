@@ -119,7 +119,7 @@ Amen.
 <td style="vertical-align:top;" width="53%">
 <div class="english">
 Blessed be you
-YHVH our elo'ah
+YHVH our <em>elo'ah</em>
 King of the universe
 who has kept us in life,
 sustained us

@@ -212,7 +212,7 @@ as for our transgressions, you will pardon them.
 Happy is the one whom you choose and bring near, that they may dwell in your courts; 
 may we be satisfied with the goodness of your house, the holy place of your temple! 
 
-With wondrous works do you answer us in righteousness, elo'ah of our salvation; 
+With wondrous works do you answer us in righteousness, <em>elo'ah</em> of our salvation; 
 You are the confidence of all the ends of the earth, and of the far distant seas; 
 
 Who by your strength sets fast the mountains, who are girded about with might; 

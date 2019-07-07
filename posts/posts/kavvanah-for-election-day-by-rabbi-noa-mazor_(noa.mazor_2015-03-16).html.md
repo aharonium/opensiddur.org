@@ -22,7 +22,7 @@ Link: <a href="http://opensiddur.org/?p=25720">http://opensiddur.org/?p=25720</a
 <td style="vertical-align:top;" width="53%">
 <div class="english">
 May it be your will,
-YHVH our elo'ah, and elo'ah of our mothers and fathers,
+YHVH our <em>elo'ah</em>, and <em>elo'ah</em> of our mothers and fathers,
 that the election today be an election of justice and truth.
 </div>
 </td></tr>

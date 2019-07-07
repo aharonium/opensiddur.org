@@ -47,7 +47,7 @@ The same affection is confirmed by the inviolable custom of all the Jews whereso
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-From the continuall and never broken Custome of the Jews wheresoever they are, on the Sabbath-Day, or other solemn Feasts; at which time all the Jews from all places come together to the Synagogue, after the benediction of the Holy Law, before the Minister of the Synagogue blesseth the people of the Jews; with a loud voice he blesseth the Prince of the Country under whom they live, that all the Jews may hear it, and say, Amen.
+From the continuall and never broken Custome of the Jews wheresoever they are, on the Sabbath-Day, or other solemn Feasts; at which time all the Jews from all places come together to the Synagogue, after the benediction of the Holy Law, before the Minister of the Synagogue blesseth the people of the Jews; with a loud voice he blesseth the Prince of the Country under whom they live, that all the Jews may hear it, and say, <em>Amen</em>.
 </div>
 </td></tr>
 

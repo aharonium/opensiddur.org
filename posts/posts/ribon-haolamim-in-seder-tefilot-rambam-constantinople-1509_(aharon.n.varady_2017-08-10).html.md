@@ -264,7 +264,7 @@ But you are the same, and your years never end.[foot]Psalms 102:28[/foot]
 <div class="english">
 YHVH reigns,[foot]Psalms 10:16[/foot] YHVH has reigned,[foot]Psalms 93:1, et al[/foot] YHVH shall reign in the Cosmos forever.[foot]Exodus 15:18 in Shir HaYam[/foot]
 YHVH reigns, YHVH has reigned, YHVH shall reign in the Cosmos forever.
-Blessed is YHVH in the Cosmos, amen and amen.
+Blessed is YHVH in the Cosmos, <em>amen</em> and <em>amen</em>.
 </div></td>
 </tr>
 </tbody></table>

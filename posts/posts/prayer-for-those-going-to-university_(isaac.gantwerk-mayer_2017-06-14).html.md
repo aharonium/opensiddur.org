@@ -63,7 +63,7 @@ as it is written in Your Torah,
 and also in the words of Your messenger the prophet: 
 “And He will turn the hearts of the fathers upon the children, 
 and the hearts of the children upon the fathers,”[foot]Malachi 3:24[/foot] 
-And we say: amen.
+And we say: <em>amen</em>.
 </div></td>
 </tr>
 </tbody></table>

@@ -112,7 +112,7 @@ but with the blood of he that shed it.”[foot]Numbers 35:33[/foot]
 May God who makes peace on high, 
 make peace upon us 
 and upon all Israel, 
-and let us say amen.
+and let us say <em>amen</em>.
 </div></td>
 </tr>
 </tbody></table>

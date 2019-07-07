@@ -196,7 +196,7 @@ On May 15th, 2018, Rabbi Danya Ruttenberg <a href="https://twitter.com/TheRaDR/s
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-And Rebbi Elazar further said that Rebbi Ḥanina said: One should never regard the blessing of an ordinary person [<em>hedyot</em>] as light in your eyes, [as two of the great men of their generations received blessings from ordinary people and those blessings were fulfilled in them]. And they were David and Daniel. David, for Araunah blessed him, as it is written: “And Araunah said to the king, May YHVH your elo'ah accept you” (II Samuel 24:23), and it was fulfilled. Daniel, for Darius blessed him, as it is written: “Your elo'ah whom you serve continually, will rescue you” (Daniel 6:17), [and this too was fulfilled when Daniel was saved from the lions’ den].
+And Rebbi Elazar further said that Rebbi Ḥanina said: One should never regard the blessing of an ordinary person [<em>hedyot</em>] as light in your eyes, [as two of the great men of their generations received blessings from ordinary people and those blessings were fulfilled in them]. And they were David and Daniel. David, for Araunah blessed him, as it is written: “And Araunah said to the king, May YHVH your <em>elo'ah</em> accept you” (II Samuel 24:23), and it was fulfilled. Daniel, for Darius blessed him, as it is written: “Your <em>elo'ah</em> whom you serve continually, will rescue you” (Daniel 6:17), [and this too was fulfilled when Daniel was saved from the lions’ den].
 </div></td></tr>
 </tbody></table>
 </body>

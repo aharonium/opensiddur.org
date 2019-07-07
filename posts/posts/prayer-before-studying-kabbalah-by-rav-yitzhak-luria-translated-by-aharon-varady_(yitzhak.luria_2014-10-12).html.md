@@ -26,7 +26,7 @@ Link: <a href="http://opensiddur.org/?p=9508">http://opensiddur.org/?p=9508</a>
 Master of the worlds and Lord of Lords, 
 Father of Compassion and Forgiveness,
 we give thanks before you 
-YHVH our elo'ah, and elo'ah of our ancestors, 
+YHVH our <em>elo'ah</em>, and <em>elo'ah</em> of our ancestors, 
 kneeling and bowing, 
 for drawing us close to your Torah and to your service [in] the holy mission, 
 and for granting us a portion in the hidden insights of your holy Torah.
@@ -71,7 +71,7 @@ and that our sins shall not alienate us from you.
 
 <td width="53%"><div class="english">
 Therefore may it be your will, 
-YHVH our elo'ah, and elo'ah of our ancestors, 
+YHVH our <em>elo'ah</em>, and <em>elo'ah</em> of our ancestors, 
 that you attune our minds[foot]Until the modern period, the heart was understood as the locus of the intellect, and thus translated here as mind, not literally as heart.[/foot] to your fearsomeness and your lovingness, 
 and let your ears hear our speech, 
 and open our closed[foot]Here I interpret, <em>he'aral</em>, literally "uncircumcised," as closed, i.e., unprepared, immature.[/foot] minds with the secrets of your Torah,

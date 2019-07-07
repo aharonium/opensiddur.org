@@ -872,7 +872,7 @@ Then Judith became queen over the land[foot]2 Kings 11:3.[/foot] and judged Isra
 </span></div></td>
 
 <td style="vertical-align:top;" width="36%"><div class="english">
-And now God, as you were with our fathers, so be you with us, and bring our souls out of prison.[foot]Ps 142:8 [7].[/foot] Therefore we will look to the LORD, and wait for the God who saves us.[foot]Mic 7:7.[/foot] Behold the LORD will announce to Zion: Behold your Saviour is coming! Behold his reward is with him![foot]Isaiah 62:11.[/foot] And they shall be called: The holy people, The redeemed of the LORD.[foot]Isaiah 62:12.[/foot] Amen, Amen, Selah.
+And now God, as you were with our fathers, so be you with us, and bring our souls out of prison.[foot]Ps 142:8 [7].[/foot] Therefore we will look to the LORD, and wait for the God who saves us.[foot]Mic 7:7.[/foot] Behold the LORD will announce to Zion: Behold your Saviour is coming! Behold his reward is with him![foot]Isaiah 62:11.[/foot] And they shall be called: The holy people, The redeemed of the LORD.[foot]Isaiah 62:12.[/foot] <em>Amen</em>, <em>Amen</em>, <em>Selah</em>.
 </div></td>
 </tr>
 
@@ -905,7 +905,7 @@ And now God, as you were with our fathers, so be you with us, and bring our soul
 </span></div></td>
 
 <td style="vertical-align:top;" width="36%"><div class="english">
-Blessed be HASHEM who teaches my hand to bring near from on high all blessing and praise. Amen, Amen, Selah.]
+Blessed be HASHEM who teaches my hand to bring near from on high all blessing and praise. <em>Amen</em>, <em>Amen</em>, <em>Selah</em>.]
 </div></td>
 </tr>
 </tbody></table>

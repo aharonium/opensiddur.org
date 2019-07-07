@@ -307,7 +307,7 @@ Link: <a href="http://opensiddur.org/?p=16053">http://opensiddur.org/?p=16053</a
 
 To the best of my ability, this is a faithful transcription of <a href="https://en.wikipedia.org/wiki/Psalm_9">Psalms 9</a> from תהילים או לוס סאלמוס ; טריסלאד'אד'וס דיל לשון הקדש אין לה לינגואה ספרדית (<em>Tehillim, or the Psalms, translated from the Holy language [Hebrew] into the Sephardic language</em>, Estampado por Ǧ. Griffit 1852/3) from a <a href="http://digitalcollections.lib.washington.edu/cdm/compoundobject/collection/p16786coll3/id/2453/rec/">digital copy</a> made available by the collection of Sephardic Studies at the University of Washington. Please join me in <a href="https://he.wikisource.org/wiki/%D7%9E%D7%A4%D7%AA%D7%97:Tehilim,_o_los_Salmos,_trezladados_del_leshon_ha-%E1%B8%B3odesh_en_la_lingua_Sefaradit.pdf">making a complete transcription</a> of this Ladino translation of Psalms. --Aharon N. Varady
 
-Psalms 9:4 is found in the repetition of the Amidah on Rosh Hashanah. Psalms 9:11 is part of the prayer, Uva Letzion. Psalms 9:13 is part of the prayer, Av Harachamim. Psalm 10 is considered part of Psalm 9 in the Septuagint.
+Psalms 9:4 is found in the repetition of the Amidah on Rosh Hashanah. Psalms 9:11 is part of the prayer, Uva Letzion. Psalms 9:13 is part of the prayer, Av Haraḥamim. Psalm 10 is considered part of Psalm 9 in the Septuagint.
 
 <h3>Source</h3>
 

@@ -136,7 +136,7 @@ and with kindness and with mercy.[foot]Hosea 2:21 partial[/foot]&nbsp;
 Help us all to have compassion for one another, 
 as it is written, “and I will take your heart of stone, 
 and replace it with a heart of flesh.”[foot]Ezekiel 26:36[/foot]&nbsp;
-and we will say, amen.”
+and we will say, <em>amen</em>.”
 </div></td>
 </tr>
 </tbody></table>

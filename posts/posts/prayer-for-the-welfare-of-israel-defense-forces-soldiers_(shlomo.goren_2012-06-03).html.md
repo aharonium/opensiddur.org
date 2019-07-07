@@ -94,7 +94,7 @@ And may there be fulfilled for them the verse:
 “<em>For it is the Lord your God, 
 Who goes with you to battle your enemies for you 
 to save you</em>,”[foot]Deuteronomy 20:4[/foot] 
-and let us say, Amen.</div>
+and let us say, <em>Amen</em>.</div>
 </div></td></tr>
 </tbody></table>
 

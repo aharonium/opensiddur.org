@@ -125,14 +125,14 @@ Let us, then, practise active charity, which is shown in works, and not in words
 <div class="english"><span lang="fr">
 PRIÈRE. 
 
-Je veux, ô mon Dieu, rejeter loin de moi l’indifférence et l’égoïsme; je veux vivre pour pratiquer l’amour du prochain, selon tes divins commandements; je veux l’aimer comme moi-même, supporter ses défauts avec douceur, compatir à ses misères corporelles et morales, lui procurer, selon mon pouvoir, toutes les choses dont il a besoin pour le corps et pour l’âme; car je sais, ô mon Dieu, qu’agir ainsi, c’est rendre le pins glorieux hommage à ta Sain-teté et à ta religion. Amen.
+Je veux, ô mon Dieu, rejeter loin de moi l’indifférence et l’égoïsme; je veux vivre pour pratiquer l’amour du prochain, selon tes divins commandements; je veux l’aimer comme moi-même, supporter ses défauts avec douceur, compatir à ses misères corporelles et morales, lui procurer, selon mon pouvoir, toutes les choses dont il a besoin pour le corps et pour l’âme; car je sais, ô mon Dieu, qu’agir ainsi, c’est rendre le pins glorieux hommage à ta Sain-teté et à ta religion. <em>Amen</em>.
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
 <div class="english"><span lang="en">
 Prayer.
 
-I will strive, O God! to subdue all selfishness and indifference to the lot of others, to perform deeds of love towards my fellow-creatures, and, according to Thy divine command, to love them, inasmuch as they are, like myself, created in Thy image. I will bear their misconduct with gentleness, sympathize with their moral and physical infirmities, and supply their wants according to my means; for I know, O God! that to act in this manner is rendering the most acceptable homage to Thy holiness and to the blessed faith which Thou hast given us. Amen.
+I will strive, O God! to subdue all selfishness and indifference to the lot of others, to perform deeds of love towards my fellow-creatures, and, according to Thy divine command, to love them, inasmuch as they are, like myself, created in Thy image. I will bear their misconduct with gentleness, sympathize with their moral and physical infirmities, and supply their wants according to my means; for I know, O God! that to act in this manner is rendering the most acceptable homage to Thy holiness and to the blessed faith which Thou hast given us. <em>Amen</em>.
 </span></div></tr>
 
 

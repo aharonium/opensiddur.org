@@ -38,7 +38,7 @@ Blessed are You, O Lord our God, King of the Universe,
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Who shares a portion of His glory with mortal man. Amen.
+Who shares a portion of His glory with mortal man. <em>Amen</em>.
 </div>
 </td></tr>
 </tbody></table>

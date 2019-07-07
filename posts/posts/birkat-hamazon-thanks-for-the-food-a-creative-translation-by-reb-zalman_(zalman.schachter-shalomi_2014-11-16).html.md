@@ -1307,7 +1307,7 @@ like Jacob--in everyway
 like Rachel--with warmth
 like Leah--with love.[foot]Where is Rivka in Reb Zalman's Imahot formulation? Perhaps it was a mistake in the girsah (manuscript)? We don't know. If you do, please <a href="https://opensiddur.org/contact">contact us</a>.[/foot]
 
-And to all this let us say, Amen!
+And to all this let us say, <em>Amen</em>!
 </div>
 </td></tr>
 

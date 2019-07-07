@@ -23,7 +23,7 @@ Link: <a href="http://opensiddur.org/?p=21923">http://opensiddur.org/?p=21923</a
 נוֹתֵן לִבְהֵמָה לַחְמָהּ לִבְנֵי עֹרֵב אֲשֶׁר יִקְרָאוּ׃</span>
 &nbsp;
 <div class="english">
-"Sing to YHVH a song of praise, chant a hymn with a lyre to our elo'ah, 
+"Sing to YHVH a song of praise, chant a hymn with a lyre to our <em>elo'ah</em>, 
 who covers the heavens with clouds, provides rain for the earth, makes mountains put forth grass; 
 who gives the animals their food, to the raven’s brood what they cry for." (Psalms 147:7-9)
 </div></td></tr>
@@ -86,12 +86,12 @@ O Father! cause dew and rain to fall, grant us abundant crops, bless our harvest
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="french">
-Père des hommes, toi qui veilles avec un amour si constant sur toutes tes créatures, permets qu’à l’entrée d’une saison rigoureuse, je me recommande, moi et les miens, à ta sollicitude paternelle. Ce n’est point pour le superflu et les richesses que je t’implore, ô mon Dieu; je ne demande que le pain de chaque jour, les vétements nécessaires, et surtout, ô Seigneur, fais que je les reçoive de ta main paternelle et que je les gagne par mon travail quotidien, maintenant et toujours. O mon père, ne permets pas que la misère frappe à ma porte; éloigne de moi et de tous ceux qui me sont chers, la dure nécessité de tendre la main pour recevoir l’aumône de celle des hommes. O toi qui entretiens tout ce qui existe, tu ne me laisseras pas sans secours. Sois béni, ô mon Dieu, qui fournis aux besoins de l’homme. Amen.
+Père des hommes, toi qui veilles avec un amour si constant sur toutes tes créatures, permets qu’à l’entrée d’une saison rigoureuse, je me recommande, moi et les miens, à ta sollicitude paternelle. Ce n’est point pour le superflu et les richesses que je t’implore, ô mon Dieu; je ne demande que le pain de chaque jour, les vétements nécessaires, et surtout, ô Seigneur, fais que je les reçoive de ta main paternelle et que je les gagne par mon travail quotidien, maintenant et toujours. O mon père, ne permets pas que la misère frappe à ma porte; éloigne de moi et de tous ceux qui me sont chers, la dure nécessité de tendre la main pour recevoir l’aumône de celle des hommes. O toi qui entretiens tout ce qui existe, tu ne me laisseras pas sans secours. Sois béni, ô mon Dieu, qui fournis aux besoins de l’homme. <em>Amen</em>.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-O Father! you who watch with constant love over all your creatures, permit me now at the commencement of the rigorous season, to solicit your paternal care for me and mine. I do not ask of you wealth or superfluity, but for daily bread and necessary raiment; and above all, O Lord! grant me the strength to gain these by my daily labour, now and for ever, through your blessing. O Father! remove distress far from me and mine, grant that neither I nor those dear to me may ever be compelled to depend on alms from man. O you who sustain all creatures! withdraw not your aid from me. Blessed be you, O God! who suppliest the wants of all your creatures. Amen.
+O Father! you who watch with constant love over all your creatures, permit me now at the commencement of the rigorous season, to solicit your paternal care for me and mine. I do not ask of you wealth or superfluity, but for daily bread and necessary raiment; and above all, O Lord! grant me the strength to gain these by my daily labour, now and for ever, through your blessing. O Father! remove distress far from me and mine, grant that neither I nor those dear to me may ever be compelled to depend on alms from man. O you who sustain all creatures! withdraw not your aid from me. Blessed be you, O God! who suppliest the wants of all your creatures. <em>Amen</em>.
 </div></td></tr>
 </tbody></table>
 

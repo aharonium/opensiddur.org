@@ -35,7 +35,7 @@ according to the custom of the holy community of the Jews of Pressburg, yts"v[fo
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-May it be your will, elo'ah of all souls, 
+May it be your will, <em>elo'ah</em> of all souls, 
 to mercifully account for the soul of _____, 
 upon whose burial spot we have erected a standing-monument[foot]matzeva means lit a standing rock, from n.tz.v, to stand in place[/foot]. 
 </div></td></tr>
@@ -116,7 +116,7 @@ and "by your light we will see light"[foot]Psalms 36:10.[/foot]
 Then all of us can walk, 
 with your Name, 
 toward Right Living and Peace, 
-Amen, Selah.
+Amen, <em>Selah</em>.
 </div></td></tr>
 </tbody></table>
 

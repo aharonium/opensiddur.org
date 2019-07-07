@@ -59,12 +59,12 @@ Our lives are truly like a sukkah. Green, hopeful leaves make up its roof. The w
 
 <tr><td style="vertical-align:top;" width="50%">
 <div class="german"><span lang="de">
-Dies Alles laß uns gedenken, mein Gott, daß es uns zur Lehre und zum Heil gereiche auf unsrer Erdenbahn, daß wir uns nie niederdrücken lassen von des Unglücks schwerer Hand, daß wir uns nicht überheben in des Glückes Glanz und Strahl, daß wir nicht um den Schmuck der flüchtigen Hütten hingeben die Herrlichkeiten des ewigen Seins, und unser Wandel stets ein reiner, heiliger, dir gefälliger sei und bleibe. <span class="hebrew" lang="he">אָמֵן</span> Amen. 
+Dies Alles laß uns gedenken, mein Gott, daß es uns zur Lehre und zum Heil gereiche auf unsrer Erdenbahn, daß wir uns nie niederdrücken lassen von des Unglücks schwerer Hand, daß wir uns nicht überheben in des Glückes Glanz und Strahl, daß wir nicht um den Schmuck der flüchtigen Hütten hingeben die Herrlichkeiten des ewigen Seins, und unser Wandel stets ein reiner, heiliger, dir gefälliger sei und bleibe. <span class="hebrew" lang="he">אָמֵן</span> <em>Amen</em>. 
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
 <div class="english"><span lang="en">
-Let us be mindful of all this, O God, that it might serve as a good teaching and healing throughout the course of our lives, so we never let ourselves be crushed by misfortune’s heavy hand, never let ourselves be carried away by the dazzle of good fortune, never forsake the holy treasure of our eternal beings for the sake of adorning our flimsy, earthly huts. Let our lives be wholesome, holy, God-pleasing lives before you now and forever. Amen.
+Let us be mindful of all this, O God, that it might serve as a good teaching and healing throughout the course of our lives, so we never let ourselves be crushed by misfortune’s heavy hand, never let ourselves be carried away by the dazzle of good fortune, never forsake the holy treasure of our eternal beings for the sake of adorning our flimsy, earthly huts. Let our lives be wholesome, holy, God-pleasing lives before you now and forever. <em>Amen</em>.
 </span></div></td></tr>
 </tbody></table>
 

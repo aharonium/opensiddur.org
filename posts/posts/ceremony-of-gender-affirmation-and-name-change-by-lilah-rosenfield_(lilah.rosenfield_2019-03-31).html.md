@@ -189,7 +189,7 @@ and Ma’asim Tovim.
 And may [she/he/they] be a blessing on [her/his/their] family 
 for many years to come. 
 &nbsp;
-And let us say, Amen.
+And let us say, <em>Amen</em>.
 </div></td></tr>
 
 
@@ -403,7 +403,7 @@ a blessing to [her/his/their] family,
 [her/his/their] people, 
 and all humanity. 
 &nbsp;
-And let us say, Amen.
+And let us say, <em>Amen</em>.
 </div></td></tr>
 
 

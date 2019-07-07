@@ -21,7 +21,7 @@ Link: <a href="http://opensiddur.org/?p=21001">http://opensiddur.org/?p=21001</a
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Barukh Yah always, Amen, Amen.[foot]Psalms 89:53[/foot]
+Barukh Yah always, <em>Amen</em>, <em>Amen</em>.[foot]Psalms 89:53[/foot]
 From Tsiyyon,
 From your dwelling 
 in Yerushalayim,
@@ -58,7 +58,7 @@ Who alone, does amazing things.[foot]Psalms 72:18[/foot]
 May the glorious Presence,
 Governing numberless worlds,
 Manifest in this world
-In all magnificence, Amen, Amen.[foot]Psalms 72:19[/foot]
+In all magnificence, <em>Amen</em>, <em>Amen</em>.[foot]Psalms 72:19[/foot]
 </div></td></tr>
 </tbody></table>
 

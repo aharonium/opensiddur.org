@@ -92,7 +92,7 @@ and bless this child all her days.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-And let us say amen.
+And let us say <em>amen</em>.
 </div>
 </td></tr>
 </tbody></table>

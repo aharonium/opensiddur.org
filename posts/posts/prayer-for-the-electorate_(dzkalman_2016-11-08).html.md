@@ -84,7 +84,7 @@ and make knowledge pleasant to their soul,
 as it says, "Then you shall understand virtue and justice; 
 equality and every good path."[foot]Proverbs 2:9[/foot]&nbsp;
 And may it be Your will.
-And let us say: Amen.
+And let us say: <em>Amen</em>.
 </div></td>
 </tr>
 </tbody></table>

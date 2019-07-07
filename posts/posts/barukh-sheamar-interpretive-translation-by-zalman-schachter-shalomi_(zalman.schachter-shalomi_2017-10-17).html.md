@@ -279,14 +279,14 @@ Blessed be the One who has compassion upon the creatures.
 Blessed be the One who brings a good reward to them that fear him. 
 Blessed be El who lives for ever and endures to eternity, 
 blessed are they and blessed is their name. 
-Blessed are you, YHVH our elo'ah, cosmic majesty,
+Blessed are you, YHVH our <em>elo'ah</em>, cosmic majesty,
 Majestic El, 
 praised and glorified and extolled 
 by the tongue of all their pious ones and their servants 
 and by the songs of your servant David, 
-YHVH our elo'ah, by praises and psalms 
+YHVH our <em>elo'ah</em>, by praises and psalms 
 we will praise you, magnify you, extol you and revere you and proclaim you Majesty, 
-and make mention of your name, our Majesty, our elo'ah,
+and make mention of your name, our Majesty, our <em>elo'ah</em>,
 the only one who enlivens the Cosmos, 
 praised for ever and ever. 
 Blessed are you, YHVH, Majesty extolled with praises.
@@ -338,16 +338,16 @@ Blessed be the One who brings a good reward to those that fear him.
 Blessed are they, before whom there is neither iniquity, forgetfulness, 
 nor bias, nor the taking of bribes, 
 blessed are they, blessed their name. 
-Blessed are you, YHVH our elo'ah, cosmic majesty, 
+Blessed are you, YHVH our <em>elo'ah</em>, cosmic majesty, 
 El, the great and holy King, 
 the compassionate Father, 
 praised by the mouth of your people, 
 lauded and glorified always 
 by the tongue of all their pious ones and their servants, 
 by the songs of David, your servant, we will praise you, 
-YHVH our elo'ah, with praises and psalms 
+YHVH our <em>elo'ah</em>, with praises and psalms 
 we will magnify and laud and extol you, 
-and make mention of your name and proclaim you our King, our elo'ah, 
+and make mention of your name and proclaim you our King, our <em>elo'ah</em>, 
 the only one who enlivens the Cosmos, 
 praised and glorified for ever and ever. 
 Blessed are you, YHVH, Majesty extolled with praises.
@@ -412,17 +412,17 @@ and periods of free-will offerings to their people Yisra'el.]&nbsp;
 Blessed be El who lives for ever and endures to eternity, 
 blessed are they, blessed their name,
 and blessed be their remembrance for ever. 
-Blessed are you, YHVH our elo'ah, cosmic majesty, 
+Blessed are you, YHVH our <em>elo'ah</em>, cosmic majesty, 
 El, the great and holy Majesty, 
 the compassionate Father, 
 praised by the mouth of their people,
 lauded and glorified 
 by the tongue of all their pious ones and their servants, 
 and by the songs of your servant David, we will praise you, 
-YHVH our elo'ah, with his praises and psalms
+YHVH our <em>elo'ah</em>, with his praises and psalms
 we will praise you, magnify you, laud you, glorify you and extol you 
 and proclaim you Majesty, and sanctify you, and revere you, 
-and make mention of your name, our Majesty, our elo'ah, 
+and make mention of your name, our Majesty, our <em>elo'ah</em>, 
 the only one who enlivens the Cosmos, 
 praised and glorified be their name for ever and ever. 
 Blessed are you, YHVH, Majesty extolled with praises.

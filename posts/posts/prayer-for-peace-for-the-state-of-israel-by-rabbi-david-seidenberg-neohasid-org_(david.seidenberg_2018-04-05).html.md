@@ -110,7 +110,7 @@ v’natata shalom ba’arets
 <span style="color: green;">v’shalvah lim’gineha</span>, 
 simchat olam <span style="color: green;">l’khol</span> yoshveha 
 <span style="color: green;">v’tikvah tovah l’khol ameha</span>, 
-v’nomar: Amen.
+v’nomar: <em>Amen</em>.
 </div></td>
 
  
@@ -126,7 +126,7 @@ and grant peace in the land,
 <span style="color: green;">and secure calm to her defenders,</span>
 lasting joy to <span style="color: green;">all</span> her inhabitants, 
 <span style="color: green;">and true hope for all her peoples.</span>
-And let us say: Amen.
+And let us say: <em>Amen</em>.
 </span></div></td>
 </tbody></table>
 

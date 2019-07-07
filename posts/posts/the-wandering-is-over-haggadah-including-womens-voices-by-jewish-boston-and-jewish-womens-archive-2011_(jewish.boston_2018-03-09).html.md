@@ -213,7 +213,7 @@ Melech ha-Olam,
 borei p’ree hagafen.
 
 We praise you 
-YHVH (haShem) our elo'ah (god), 
+YHVH (haShem) our <em>elo'ah</em> (god), 
 Ruler of Everything, 
 who creates the fruit of the vine.
 </div></td></tr>
@@ -248,7 +248,7 @@ v’key’manu
 v’higiyanu lazman hazeh.
 
 We praise you 
-YHVH (haShem) our elo'ah (god), 
+YHVH (haShem) our <em>elo'ah</em> (god), 
 Ruler of Everything, 
 who has kept us alive, 
 raised us up, 
@@ -361,7 +361,7 @@ Melech ha-Olam,
 borei p’ree ha‐adama.
 
 We praise you 
-YHVH (haShem) our elo'ah (god), 
+YHVH (haShem) our <em>elo'ah</em> (god), 
 Ruler of Everything, 
 who creates the fruits of the earth.
 </div></td></tr>
@@ -1878,7 +1878,7 @@ Melech ha-Olam,
 borei p’ree hagafen.
 
 We praise you 
-YHVH (haShem) our elo'ah (god), 
+YHVH (haShem) our <em>elo'ah</em> (god), 
 Ruler of Everything, 
 who creates the fruit of the vine.
 </div></td></tr>
@@ -1951,7 +1951,7 @@ asher kid’shanu b’mitzvotav
 v’tzivanu al n’tilat yadayim.
 
 We praise you 
-YHVH (haShem) our elo'ah (god), 
+YHVH (haShem) our <em>elo'ah</em> (god), 
 Ruler of Everything, 
 who made us holy through obligations, 
 commanding us to wash our hands.
@@ -1993,7 +1993,7 @@ Melech ha-Olam,
 hamotzi lechem min ha‐aretz.
 
 We praise you 
-YHVH (haShem) our elo'ah (god), 
+YHVH (haShem) our <em>elo'ah</em> (god), 
 Ruler of Everything, 
 who brings bread from the land.
 </div></td></tr>
@@ -2016,7 +2016,7 @@ asher kid’shanu b’mitzvotav
 v’tzivanu al achilat matzah.
 
 We praise you 
-YHVH (haShem) our elo'ah (god), 
+YHVH (haShem) our <em>elo'ah</em> (god), 
 Ruler of Everything, 
 who made us holy through obligations, 
 commanding us to eat matzah.
@@ -2070,7 +2070,7 @@ asher kid’shanu b’mitzvotav
 v’tzivanu al achilat maror.
 
 We praise you 
-YHVH (haShem) our elo'ah (god), 
+YHVH (haShem) our <em>elo'ah</em> (god), 
 Ruler of Everything, 
 who made us holy through obligations, 
 commanding us to eat bitter herbs.
@@ -2203,7 +2203,7 @@ Renew our spiritual center in our time. We praise God, who centers us.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%"><div class="english">
-May the source of peace grant peace to us, to the Jewish people, and to the entire world. Amen.
+May the source of peace grant peace to us, to the Jewish people, and to the entire world. <em>Amen</em>.
 </div></td></tr>
 
 
@@ -2252,7 +2252,7 @@ Melech ha-Olam,
 borei p’ree hagafen.
 
 We praise you 
-YHVH (haShem) our elo'ah (god), 
+YHVH (haShem) our <em>elo'ah</em> (god), 
 Ruler of Everything, 
 who creates the fruit of the vine.
 </div></td></tr>
@@ -2422,7 +2422,7 @@ Melech ha-Olam,
 borei p’ree hagafen.
 
 We praise you 
-YHVH (haShem) our elo'ah (god), 
+YHVH (haShem) our <em>elo'ah</em> (god), 
 Ruler of Everything, 
 who creates the fruit of the vine.
 </div></td></tr>

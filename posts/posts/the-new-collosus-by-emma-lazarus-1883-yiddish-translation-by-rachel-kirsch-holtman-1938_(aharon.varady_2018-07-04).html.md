@@ -17,8 +17,8 @@ Link: <a href="http://opensiddur.org/?p=20604">http://opensiddur.org/?p=20604</a
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english"><span style="text-transform: uppercase;">
-The New Collosus</span>[foot]Written in aid of Bartholdi Pedestal Fund 1883[/foot]
+<div class="english">
+<span style="text-transform: uppercase;">The New Collosus</span>[foot]Written in aid of Bartholdi Pedestal Fund 1883[/foot]
 </div></td></tr>
 
 
@@ -69,6 +69,7 @@ I lift my lamp beside the golden door!"
 </tbody></table>
 
 <hr />
+
 This is the sonnet, "The New Collosus" (1883) by Emma Lazarus set side-by-side with its Yiddish translation by Rachel Kirsch Holtman. The translation appears in a section dedicated to Emma Lazarus in Holtman's 1938 work, <em>Fir Barimte Froyen</em> (Four Famous Women). Lazarus famously penned her sonnet in response to the waves of Russian-Jewish refugees seeking refuge in the Unites States of America as a result of murderous Russian pogroms following the assassination of Tsar Alexander II in 1881. Her identification and revisioning of the Statue of Liberty as the Mother of Exiles points to the familiar Jewish identification of the Shekhinah (the Divine Presence, in its feminine aspect) with the light of the Jewish people in their Diaspora, as found in the Talmud Bavli, tractate Megillah 29a:
 
 <blockquote>
@@ -105,7 +106,7 @@ when they were in Mitsrayim?” (I Samuel 2:27).
 They were exiled to Babylonia, and the Shekhinah went with them, 
 as it is stated: “For your sake I have sent to Babylonia” (Isaiah 43:14). 
 So too, when, in the future, they will be redeemed, the Shekhinah will be with them, 
-as it is stated: “Then YHVH your elo'ah will return with your captivity” (Deuteronomy 30:3). 
+as it is stated: “Then YHVH your <em>elo'ah</em> will return with your captivity” (Deuteronomy 30:3). 
 It does not state: Hashem will bring back, (i.e., Hashem will cause the Jewish people to return,)
 but rather it says: “Hashem will return,” 
 which teaches that the blessed Holy One will return together with them from among the various exiles.
@@ -118,6 +119,5 @@ which teaches that the blessed Holy One will return together with them from amon
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/lazarusemmapoem01lazarich#page/202/mode/2up"]
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/nybc205375#page/n14/mode/2up"]
-
 </body>
 </html>

@@ -112,7 +112,7 @@ Friday. 4th day of Passah, 5649.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-
+<hr />
 </div></td></tr>
 
 
@@ -130,207 +130,49 @@ PRAYER.
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
-ואני תפֿלה שיהיו נא אמרינו ומפֿעלינו 
-ביום חג הזכרון, 
-חג מאת השנים להנשא געאָרג װאַשינגטאָן 
-לפרעזידענט בארצות הברית 
-לרצון לפני אדון כל.
+ואני תפֿלה שיהיו נא אמרינו ומפֿעלינו ביום חג הזכרון, חג מאת השנים להנשא געאָרג װאַשינגטאָן לפרעזידענט בארצות הברית לרצון לפני אדון כל.
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-I pray that all we may say and do 
-in the centennial celebration commemorating 
-the installation of George Washington 
-as President of the United States 
-may be acceptable before the Lord of all.
+I pray that all we may say and do in the centennial celebration commemorating the installation of George Washington as President of the United States may be acceptable before the Lord of all.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
-אבינו שבשמים! 
-למן אז רחף רוח קדשיך על תהום רבה 
-וברברך צוית יבשה 
-להראות מתחולל הארץ 
-ויצוריה נתת בינה בלב האדם יציר כפּיך 
-למשול בים וביבשה 
-ולדרוש דעת קדשך במרחבי הבריאה, 
-ובלב אנוש נטעת חיים רוחניים 
-ותחזק אותו לעבור מצולות ימים 
-ולהודיע פעלך וגדלך על מלא רחב כל חלקי האדמה, 
+אבינו שבשמים! למן אז רחף רוח קדשיך על תהום רבה וברברך צוית יבשה להראות מתחולל הארץ ויצוריה נתת בינה בלב האדם יציר כפּיך למשול בים וביבשה ולדרוש דעת קדשך במרחבי הבריאה, ובלב אנוש נטעת חיים רוחניים ותחזק אותו לעבור מצולות ימים ולהודיע פעלך וגדלך על מלא רחב כל חלקי האדמה, ובעת אשר גלאו עמי הארץ בדרכי יושר וצדק ואמונת קדשיך כמעט עוממה בלבותם מפֿני חמת המציק העירות רוח כריסטאָפהער קאָלוּמבוּס לגלות ארצנו החדשה, אשר אנחנו גרים בה כעת, והבאים אליה מעמי הזאַכסין הורית בינה ליסד ממשלת חפֿש ודרור לכל מין האנושי לבלתי יעיק איש לרעהו ולמען יהיו זכיות כל איש שוים לפֿני החקים והמשפטים אשר ישוו למו. ותגדל חסדיך על שרידי פליפי עם בחירך הבאים לארצות הכרית האלה להיות כיתר אזרחי הארץ ולקרא בשמך הגדול וללכת בדרכי תורתך הקדושה באין מכלים דבר. 
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Our Father, who art in heaven, 
-since Thy holy spirit was hovering over the waters of creation 
-and Thy word commanded dry land to appear, 
-and the earth and the creatures thereon were called into existence, 
-Thou hast granted knowledge to the heart of man 
-to rule the seas and the dry land 
-and to search Thy holy wisdom throughout the breadth of creation. 
-Aye, in the heart of man hast Thou implanted spiritual life 
-and hast given it strength to brave the deep waters 
-and to proclaim Thy work and Thy glory throughout all lands. 
+Our Father, who art in heaven, since Thy holy spirit was hovering over the waters of creation and Thy word commanded dry land to appear, and the earth and the creatures thereon were called into existence. Thou hast granted knowledge to the heart of man to rule the seas and the dry land and to search Thy holy wisdom throughout the breadth of creation. Aye, in the heart of man hast Thou implanted spiritual life and hast given it strength to brave the deep waters and to proclaim Thy work and Thy glory throughout all lands. And when the nations on earth were erring in the paths of justice and righteousness, and Thy holy faith was extinct in the hearts of many from oppression and the overbearing of men, Thou didst inspire Christopher Columbus to discover this our new land in which we live today. Those who have come hither from the Saxon race Thou hast granted wisdom to establish a government of freedom and liberty for all men, that one should not oppress the other, and that the rights of every one should be equal before the laws and the statutes they created. Thy mercy was great upon the remainder of Thy people Israel, who have come to the United States, for here they enjoy the same rights as all other citizens, and could worship Thy holy name and walk in the ways of Thy holy law without hindrance.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
-ובעת אשר גלאו עמי הארץ 
-בדרכי יושר וצדק 
-ואמונת קדשיך כמעט עוממה 
-בלבותם מפֿני חמת המציק 
-העירות רוח כריסטאָפהער קאָלוּמבוּס 
-לגלות ארצנו החדשה, אשר אנחנו גרים בה כעת, 
+אנא, זכר נא לרצון את נשמות המחוקקים הישרים אשר על פּיהם נוסרה תקנת עם האמעריקאני ובתוכם את הנשיא הראשון לארצנו זאת, הפרעזירענט געאָרג װאַשינגטאָן ובצל כנפֿי חסדך תנוח נשמתו הטהורה, תן חכמ וגבורה בלב נשיאנוּ השומר חקי ארצנו לעת כזאת, בנימין האָרריסאָן שיחי׳ להוליך את העם אשר בחרו בו, על דרכי החיים המאושרים ועל מביע האמונה והדעת ובלב יועציו ושריו מידות רצון ורחמים ונר בני האדם. 
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-And when the nations on earth were erring 
-in the paths of justice and righteousness, 
-and Thy holy faith was extinct 
-in the hearts of many from oppression and the overbearing of men, 
-Thou didst inspire Christopher Columbus 
-to discover this our new land in which we live today. 
+May it be Thy inscrutable will to remember in grace the souls of the framers of the constitution of the United States, and among them the first President of this people, George Washington, of blessed memory. Grant wisdom and strength to our present Executive, Benjamin Harrison; long may he live, that he may lead the people who have elected him on the road to prosperous living and in the paths of faith and wisdom. May his ministers, counsellors and advisers be imbued with the virtues of grace and of mercy toward all men.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
-והבאים אליה מעמי הזאַכסין 
-הורית בינה 
-ליסד ממשלת חפֿש ודרור לכל מין האנושי 
-לבלתי יעיק איש לרעהו 
-ולמען יהיו זכיות כל איש 
-שוים לפֿני החקים והמשפטים אשר ישוו למו. 
+האצל נא מרוח קדשך על כל מחקקי ארצנו ומנהיגי עם אמעריקאַ לשמור משפּט צדק ודת יושר, וחין פעלך יראה על נשיא הפלך הזה ושר העיר נוי-יאָרק וכל עוזריהם ותומכיהם והגלוים להם בשירות העם, ומברכתך יבורך ישראל עמך ויקדיש ויעריץ שמך הגדול ער תמלא הארץ דעת את ד׳ כַּמַּ֖יִם לַיָּ֥ם מְכַסִּֽים. אמן.
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Those who have come hither from the Saxon race 
-Thou hast granted wisdom 
-to establish a government of freedom and liberty for all men, 
-that one should not oppress the other, 
-and that the rights of every one 
-should be equal before the laws and the statutes they created. 
-</div></td></tr>
-
-
-<tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
-ותגדל חסדיך על שרידי פליפי עם בחירך 
-הבאים לארצות הברית 
-האלה להיות כיתר אזרחי הארץ 
-ולקרא בשמך הגדול 
-וללכת בדרכי תורתך הקדושה 
-באין מכלים דבר. 
-</span></div>
-</td>
- 
-<td style="vertical-align:top;" width="53%">
-<div class="english">
-Thy mercy was great upon the remainder of Thy people Israel, 
-who have come to the United States, 
-for here they enjoy the same rights as all other citizens, 
-and could worship Thy holy name 
-and walk in the ways of Thy holy law 
-without hindrance.
-</div></td></tr>
-
-
-<tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
-אנא, זכר נא 
-לרצון את נשמות המחוקקים הישרים 
-אשר על פּיהם נוסרה תקנת עם האמעריקאני 
-ובתוכם את הנשיא הראשון לארצנו זאת, הפרעזירענט 
-געאָרג װאַשינגטאָן 
-ובצל כנפֿי חסדך תנוח נשמתו הטהורה, 
-</span></div>
-</td>
- 
-<td style="vertical-align:top;" width="53%">
-<div class="english">
-May it be Thy inscrutable will 
-to remember in grace the souls of the framers 
-of the Constitution of the United States, 
-and among them the first President of this people, 
-George Washington, 
-of blessed memory. 
-</div></td></tr>
-
-
-<tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
-תן חכמה וגבורה 
-בלב נשיאנוּ השומר חקי ארצנו לעת כזאת, 
-בנימין האָרריסאָן 
-שיחי׳ להוליך את העם אשר בחרו בו, 
-על דרכי החיים המאושרים 
-ועל מביע האמונה והדעת 
-ובלב יועציו ושריו 
-מידות רצון 
-ורחמים ונר בני האדם. 
-</span></div>
-</td>
- 
-<td style="vertical-align:top;" width="53%">
-<div class="english">
-Grant wisdom and strength 
-to our present Executive, 
-Benjamin Harrison; long may he live, 
-that he may lead the people who have elected him 
-on the road to prosperous living 
-and in the paths of faith and wisdom. 
-May his ministers, counsellors and advisers 
-be imbued with the virtues of grace 
-and of mercy toward all men.
-</div></td></tr>
-
-
-<tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
-האצל נא מרוח קדשך 
-על כל מחקקי ארצנו ומנהיגי עם אמעריקאַ 
-לשמור משפּט 
-צדק 
-ודת יושר, 
-וחין פעלך יראה 
-על נשיא הפלך הזה 
-ושר העיר נוי-יאָרק 
-וכל עוזריהם ותומכיהם והגלוים להם 
-בשירות העם, 
-ומברכתך יבורך ישראל עמך 
-ויקדיש ויעריץ שמך הגדול 
-עד תמלא הארץ דעת את ה׳ 
-כַּמַּ֖יִם לַיָּ֥ם מְכַסִּֽים. 
-אמן.
-</span></div>
-</td>
- 
-<td style="vertical-align:top;" width="53%">
-<div class="english">
-May Thy holy spirit be apportioned 
-to all the law givers and administrators of this land, 
-that they uphold the principles of justice, 
-righteousness 
-and religious fidelity. 
-May the grace of Thy work become known 
-through the Governor of this State, 
-the Mayor of the city of New York 
-and all those who help and assist them 
-in the service of the people. 
-And may Israel, Thy people, participate in Thy blessings, 
-and Thy holy name be sanctified and extolled 
-until the world be full of the knowledge of God 
-like water covering the sea.[foot]Cf. Isaiah 11:9[/foot]&nbsp; 
-Amen.
+May Thy holy spirit be apportioned to all the law givers and administrators of this land, that they uphold the principles of justice, righteousness and religious fidelity. May the grace of Thy work become known through the Governor of this State, the Mayor of the city of New York and all those who help and assist them in the service of the people. And may Israel, Thy people, participate in Thy blessings, and Thy holy name be sanctified and extolled until the world be full of the knowledge of God like water covering the sea.[foot]Cf. Isaiah 11:9[/foot] Amen.
 </div>
 </td></tr></tbody></table>
 

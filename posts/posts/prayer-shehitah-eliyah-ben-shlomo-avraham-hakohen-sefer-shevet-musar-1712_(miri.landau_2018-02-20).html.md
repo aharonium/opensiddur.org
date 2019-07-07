@@ -24,7 +24,7 @@ Link: <a href="http://opensiddur.org/?p=18884">http://opensiddur.org/?p=18884</a
  
 <td style="vertical-align:top;" width="53%"><div class="english">
 May it be your will,
-YHVH my elo'ah and elo'ah of my ancestors,
+YHVH my <em>elo'ah</em> and <em>elo'ah</em> of my ancestors,
 the most Merciful of all,
 the One who desires the repair of every nefesh (being/spirit) that has transgressed
 without exception,

@@ -185,7 +185,7 @@ may Hashem bless this woman
 and let her name (in Yisra'el) be ... [insert first name here]&nbsp;
 with good luck and in a blessed hour; 
 and so may it be your will, 
-and let it be said, Amen!”
+and let it be said, <em>Amen</em>!”
 </div></td></tr>
 
 
@@ -225,7 +225,7 @@ may Hashem bless this man
 and let his name (in Yisra'el) be ... [insert first name here]&nbsp;
 with good luck and in a blessed hour; 
 and so may it be your will, 
-and let it be said, Amen!”
+and let it be said, <em>Amen</em>!”
 </div></td></tr>
 </tbody></table>
 

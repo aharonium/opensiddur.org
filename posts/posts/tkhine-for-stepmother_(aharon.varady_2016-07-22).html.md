@@ -50,7 +50,7 @@ Raising stepchildren is a holy task. It shows a higher human feeling, one that i
 </div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
-So, Kindhearted Father, purify my heart from all bad traits, especially anger and hatred, and plant in me good-heartedness and nobility. If my lot is to be that of a stepmother, at least let me be one of the good stepmothers that are a blessing to the world. Let me treat my stepchildren as my own children. Let me merit to see from them and my own children much nachas, joy. Amen.
+So, Kindhearted Father, purify my heart from all bad traits, especially anger and hatred, and plant in me good-heartedness and nobility. If my lot is to be that of a stepmother, at least let me be one of the good stepmothers that are a blessing to the world. Let me treat my stepchildren as my own children. Let me merit to see from them and my own children much nachas, joy. <em>Amen</em>.
 </div></td>
 </tr>
 </tbody></table>

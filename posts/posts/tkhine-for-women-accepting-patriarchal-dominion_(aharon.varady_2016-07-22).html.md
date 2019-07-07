@@ -80,7 +80,7 @@ One should not behave in this world like an animal with foolish thoughts, but ev
 </div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
-I therefore take upon myself the yoke of the kingdom of heaven and I recite the holy verse, "I have placed HASHEM before me always", so that the Transcendent One might strengthen my force, give me understanding, so that I might be able to conduct my household and raise my children in awe of God and in friendship with people, to find favor and wisdom in the eyes of God and man. That is the true purpose of creation of every woman. Through its merit may I be worthy to achieve both worlds, comfort and wealth, health and strength, good children in this world, and no fear, heaven forbid, of punishment in the next world, that I might always find favor and have bright luck to grow old along with my husband, Amen.
+I therefore take upon myself the yoke of the kingdom of heaven and I recite the holy verse, "I have placed HASHEM before me always", so that the Transcendent One might strengthen my force, give me understanding, so that I might be able to conduct my household and raise my children in awe of God and in friendship with people, to find favor and wisdom in the eyes of God and man. That is the true purpose of creation of every woman. Through its merit may I be worthy to achieve both worlds, comfort and wealth, health and strength, good children in this world, and no fear, heaven forbid, of punishment in the next world, that I might always find favor and have bright luck to grow old along with my husband, <em>Amen</em>.
 </div></td>
 </tr>
 </tbody></table>

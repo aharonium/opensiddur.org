@@ -184,7 +184,7 @@ the horse and its charioteer he flung into the sea!
 <sup>2</sup>&nbsp;My fierce-might and strength is YAH, 
 he has become deliverance for me. 
 This is my El – I honor him, 
-the elo'ah of my father – I exalt him.
+the <em>elo'ah</em> of my father – I exalt him.
 <sup>3</sup>&nbsp;YHVH is a man of war, 
 YHVH is his name!
 <sup>4</sup>&nbsp;Pharaoh's chariots and his army he hurled into the sea,
@@ -267,7 +267,7 @@ the Holy-shrine, O Lord, founded by your hands.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="j"><sup>26</sup>&nbsp;He said: "If you will hearken, yes, hearken to the voice of YHVH your elo'ah, and what is right in his eyes will do, giving-ear to his commandments and keeping all his laws: all the sicknesses which I have imposed upon Mitsrayim, I will not impose upon you; for I am YHVH, your healer."</span>
+<span class="j"><sup>26</sup>&nbsp;He said: "If you will hearken, yes, hearken to the voice of YHVH your <em>elo'ah</em>, and what is right in his eyes will do, giving-ear to his commandments and keeping all his laws: all the sicknesses which I have imposed upon Mitsrayim, I will not impose upon you; for I am YHVH, your healer."</span>
 </div></td></tr>
 
 
@@ -311,7 +311,7 @@ the Holy-shrine, O Lord, founded by your hands.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="p"><sup>6</sup>&nbsp;Mosheh and Aharon said to all the Children of Yisrael: "At sunset you will know that it is YHVH who brought you out of the land of Mitsrayim; <sup>7</sup>&nbsp;at daybreak you will see the Kavod of YHVH: when he hearkens to your grumblings against YHVH – what are we, that you grumble against us?"</span> <span class="h"><sup>8</sup>&nbsp;Mosheh said: "Since YHVH gives you flesh to eat at sunset, and at daybreak, bread to satisfy (yourselves); since YHVH hearkens to your grumblings which you grumble against him – what are we: not against us are your grumblings, but against YHVH!" <sup>9</sup>&nbsp;Mosheh said to Aharon: "Say to the entire community of the Children of Yisrael: Come-near, in the presence of YHVH, for he has hearkened to your grumblings!" <sup>10</sup>&nbsp;Now it was, when Aharon spoke to the entire community of the Children of Yisrael, they faced the wilderness, and here: the Kavod of YHVH could be seen in the cloud.</span> <span class="p"><sup>11</sup>&nbsp;YHVH spoke to Mosheh, saying: <sup>12</sup>&nbsp;"I have hearkened to the grumblings of the Children of Yisrael – speak to them, and say: 'Between the setting-times you shall eat flesh, and at daybreak you shall be satisfied with bread, and you shall know that I am YHVH your elo'ah.'"</span>
+<span class="p"><sup>6</sup>&nbsp;Mosheh and Aharon said to all the Children of Yisrael: "At sunset you will know that it is YHVH who brought you out of the land of Mitsrayim; <sup>7</sup>&nbsp;at daybreak you will see the Kavod of YHVH: when he hearkens to your grumblings against YHVH – what are we, that you grumble against us?"</span> <span class="h"><sup>8</sup>&nbsp;Mosheh said: "Since YHVH gives you flesh to eat at sunset, and at daybreak, bread to satisfy (yourselves); since YHVH hearkens to your grumblings which you grumble against him – what are we: not against us are your grumblings, but against YHVH!" <sup>9</sup>&nbsp;Mosheh said to Aharon: "Say to the entire community of the Children of Yisrael: Come-near, in the presence of YHVH, for he has hearkened to your grumblings!" <sup>10</sup>&nbsp;Now it was, when Aharon spoke to the entire community of the Children of Yisrael, they faced the wilderness, and here: the Kavod of YHVH could be seen in the cloud.</span> <span class="p"><sup>11</sup>&nbsp;YHVH spoke to Mosheh, saying: <sup>12</sup>&nbsp;"I have hearkened to the grumblings of the Children of Yisrael – speak to them, and say: 'Between the setting-times you shall eat flesh, and at daybreak you shall be satisfied with bread, and you shall know that I am YHVH your <em>elo'ah</em>.'"</span>
 </div></td></tr>
 
 

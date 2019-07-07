@@ -48,7 +48,7 @@ So too, Master of the Cosmos, protect us all the months of the entire year, from
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-El who frees their nation Yisra'el from all suffering, we come before you now to bless the month of Tevet. In this month many catastrophes happened. One is that on the ninth day Ezra the Scribe and Neḥemiah the son of Hakhal-Yah who rebuilt the Beit haMiqdash and took the Jews out of the Babylonian exile died. Master of the Cosmos, remember us in their merit and be merciful unto us. Send us the righteous redeemer, quickly in our day. Amen.
+El who frees their nation Yisra'el from all suffering, we come before you now to bless the month of Tevet. In this month many catastrophes happened. One is that on the ninth day Ezra the Scribe and Neḥemiah the son of Hakhal-Yah who rebuilt the Beit haMiqdash and took the Jews out of the Babylonian exile died. Master of the Cosmos, remember us in their merit and be merciful unto us. Send us the righteous redeemer, quickly in our day. <em>Amen</em>.
 </div></td>
 </tr>
 
@@ -76,7 +76,7 @@ The second misfortune that happened in this month is that on the 10th day Nebukh
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Another great catastrophe happened in Spain on the 14th day when 950 Jews were burned in an auto-da-fe. Master of the Cosmos, how long will your anger rage against us? Awaken your mercy and redeem Yisra'el from all its troubles, my husband and my children among them. Just as you poured favor on Queen Esther when she was taken, in this month, to King Aḥashverosh, so too give us your favor and kindness, and let our fortune be set aright for good. So should it be decreed. Amen and Amen.
+Another great catastrophe happened in Spain on the 14th day when 950 Jews were burned in an auto-da-fe. Master of the Cosmos, how long will your anger rage against us? Awaken your mercy and redeem Yisra'el from all its troubles, my husband and my children among them. Just as you poured favor on Queen Esther when she was taken, in this month, to King Aḥashverosh, so too give us your favor and kindness, and let our fortune be set aright for good. So should it be decreed. <em>Amen</em> and <em>Amen</em>.
 </div></td>
 </tr>
 </tbody></table>

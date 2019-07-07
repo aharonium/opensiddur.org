@@ -85,7 +85,7 @@ Hurry to my aid, YHVH, my salvation!"[foot]Psalms 25:20[/foot]
 <td style="vertical-align:top;" width="53%">
 <div class="english">
 Please, let my soul be precious in your eyes, 
-YHVH my elo'ah and elo'ah of my fathers. 
+YHVH my <em>elo'ah</em> and <em>elo'ah</em> of my fathers. 
 Let your compassion prevail over your attribute of justice. 
 Let your heart be stirred with compassion 
 for my soul is so poor and miserable. 
@@ -153,7 +153,7 @@ and don't close your eyes to their tears!
 Master of the Cosmos, 
 to you YHVH,[foot]Psalms 30:9 partial[/foot] 
 "I lift up my soul; I spread out my hands to you. 
-My soul is like a tired land waiting for you, Selah!"[foot]Psalms 143:6[/foot] 
+My soul is like a tired land waiting for you, <em>Selah</em>!"[foot]Psalms 143:6[/foot] 
 "For the enemy has been chasing after my soul, 
 he has crushed my spirit to the ground, 
 he has taken me down into the dark places 
@@ -202,7 +202,7 @@ Please, YHVH, save my soul from all bodily cravings and evil traits.
 Great Compassionate One, help and save 
 with your genuine compassion 
 my crushed soul and give her power and strength from you, 
-YHVH, my elo'ah and elo'ah of my fathers, 
+YHVH, my <em>elo'ah</em> and <em>elo'ah</em> of my fathers, 
 so that she'll be able to conquer the body. 
 Let my soul overcome my body, 
 let my form hold sway over my substance, 
@@ -583,7 +583,7 @@ There is absolutely no way to escape death.
 What will we think about YHVH 
 and what will we do on the Day of Judgment? 
 "My soul remembers and is bowed down within me."[foot]Lamentations 3:20[/foot]
-"Remember, do not forget how you angered YHVH your elo'ah"[foot]Deuteronomy 9:7[/foot] 
+"Remember, do not forget how you angered YHVH your <em>elo'ah</em>"[foot]Deuteronomy 9:7[/foot] 
 from your youngest days until today, 
 for there is no forgetfulness before the throne of his kavod, 
 and nothing is hidden from before his eyes. 
@@ -664,7 +664,7 @@ Let me remember them at all times — in this world and in the world to come.
 
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-May it be your will YHVH our elo'ah and elo'ah of our fathers, 
+May it be your will YHVH our <em>elo'ah</em> and <em>elo'ah</em> of our fathers, 
 elo'ah of Avraham, Yitsḥak and Yaakov, 
 elo'ah of all the true Tsaddikim in earlier and later times, 
 elo'ah of all your holy people of Yisra'el, 
@@ -752,7 +752,7 @@ for I've lifted my soul to you."[foot]Psalms 143:8[/foot]
 <td style="vertical-align:top;" width="53%">
 <div class="english">
 And may it be your will, 
-YHVH, my elo'ah and elo'ah of my fathers, 
+YHVH, my <em>elo'ah</em> and <em>elo'ah</em> of my fathers, 
 that you help me give plenty of tsedakah to many genuinely deserving people. 
 Great Compassionate One,
 have mercy on me and help me give plenty of tsedakah to causes in Erets Yisra'el. 

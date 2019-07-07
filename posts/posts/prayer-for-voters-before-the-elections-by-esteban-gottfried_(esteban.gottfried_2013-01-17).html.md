@@ -123,7 +123,7 @@ And quickly bring about the vision of your prophet,
 They shall never again know war.”[foot]Isaiah 2:4 part.[/foot]&nbsp; 
 May the pleasantness of Adonai our elo’ah be upon us; 
 may our handiwork be established for us.[foot]Psalms 90:17 part.[/foot]&nbsp; 
-And let us say, Amen.
+And let us say, <em>Amen</em>.
 </div></td></tr>
 </tbody></table>
 

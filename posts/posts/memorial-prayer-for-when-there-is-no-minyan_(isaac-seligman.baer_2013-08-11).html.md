@@ -71,7 +71,7 @@ You God who examines hearts, may You link good thinking to such action, and may 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%"><div class="english">
-be bound in the bond of life in the Garden of Eden, along with all other righteous and pious people, sheltered beneath the shade of Your wings. Amen, and amen.
+be bound in the bond of life in the Garden of Eden, along with all other righteous and pious people, sheltered beneath the shade of Your wings. <em>Amen</em>, and <em>amen</em>.
 </td></tr>
 </tbody></table>
 

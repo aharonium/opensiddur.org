@@ -40,7 +40,7 @@ Abermals ist ein Fest für uns eingetreten, ein Fest, ganz verschieden von dem, 
 
 <td style="vertical-align:top;" width="50%">
 <div class="english"><span lang="en">
-Once more the time has come for a festival. So different from the last one, which we observed with tears and repentance, with self-denial and confession. This one we celebrate in joy, with jubilation, and with songs of praise, as it is written: "You shall rejoice before YHVH, your elo'ah, for seven days."[foot]Leviticus 23:40[/foot] And how could good cheer and delight not resound through our hearts—how could holy joy not till our souls after the Day of Atonement, when you, O God, lifted our guilt from us and set us free? How, from the humble awareness of our darkest places, could a joyous ray of light beam so brilliantly if you had not stretched out your forgiving hand? You have not only forgiven us, you have also turned your countenance toward us again in love and kindness. You do not pardon us as a lord might pardon a knight but rather as a good parent gathers her regretful child into her arms, presses him to her heart, and embraces him in love. So you treat us, Eternal Parent, in your vast, divine grace. So we rejoice before you, my God. With joyous, comforted spirits we enter the sukkot we have built and decorated to honor your decree. From our cleansed and renewed hearts our prayers rise up toward you.
+Once more the time has come for a festival. So different from the last one, which we observed with tears and repentance, with self-denial and confession. This one we celebrate in joy, with jubilation, and with songs of praise, as it is written: "You shall rejoice before YHVH, your <em>elo'ah</em>, for seven days."[foot]Leviticus 23:40[/foot] And how could good cheer and delight not resound through our hearts—how could holy joy not till our souls after the Day of Atonement, when you, O God, lifted our guilt from us and set us free? How, from the humble awareness of our darkest places, could a joyous ray of light beam so brilliantly if you had not stretched out your forgiving hand? You have not only forgiven us, you have also turned your countenance toward us again in love and kindness. You do not pardon us as a lord might pardon a knight but rather as a good parent gathers her regretful child into her arms, presses him to her heart, and embraces him in love. So you treat us, Eternal Parent, in your vast, divine grace. So we rejoice before you, my God. With joyous, comforted spirits we enter the sukkot we have built and decorated to honor your decree. From our cleansed and renewed hearts our prayers rise up toward you.
 </span></div></td></tr>
 
 
@@ -68,12 +68,12 @@ Haven’t you also worked wonders for us since? Haven’t you spread out your gr
 
 <tr><td style="vertical-align:top;" width="50%">
 <div class="german"><span lang="de">
-Drum sei gepriesen, Herr, für die Wunder, die du einst unsern Vätern erzeiget hast, und für die Wunder, die du uns, ihren Kindern, noch heute erzeigest! Du hast uns nicht verlassen und wirst uns nicht verlassen. Gepriesen und gebenedeiet sei dein heiliger Name. <span class="hebrew" lang="he">אָמֵן</span> Amen.
+Drum sei gepriesen, Herr, für die Wunder, die du einst unsern Vätern erzeiget hast, und für die Wunder, die du uns, ihren Kindern, noch heute erzeigest! Du hast uns nicht verlassen und wirst uns nicht verlassen. Gepriesen und gebenedeiet sei dein heiliger Name. <span class="hebrew" lang="he">אָמֵן</span> <em>Amen</em>.
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
 <div class="english"><span lang="en">
-So we praise you, Eternal One, for the many wonders you permitted our ancestors to witness, and for the wonders you allow us, their children, to witness even to this day. You have not forsaken us, and you shall never forsake us. Praised and blessed be your holy name. Amen. 
+So we praise you, Eternal One, for the many wonders you permitted our ancestors to witness, and for the wonders you allow us, their children, to witness even to this day. You have not forsaken us, and you shall never forsake us. Praised and blessed be your holy name. <em>Amen</em>. 
 </span></div></td></tr>
 </tbody></table>
 

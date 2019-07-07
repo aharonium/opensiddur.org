@@ -199,7 +199,7 @@ In the name of the many who are One.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english"> 
-And may the people say, Amen! Ah’meyn! Ah’min!
+And may the people say, <em>Amen</em>! Ah’meyn! Ah’min!
 </div></td>
 </tr>
 </tbody></table>

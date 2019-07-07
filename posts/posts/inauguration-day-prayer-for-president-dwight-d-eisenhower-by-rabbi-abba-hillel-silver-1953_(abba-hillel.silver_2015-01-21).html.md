@@ -19,7 +19,7 @@ May Thy spirit rest upon the Vice President of the United States and upon all th
 
 Be gracious, O Lord, unto our land and our people. Help us to preserve our blessed heritage of freedom and to make secure our institutions of law. equality, and justice. May it be given unto us to walk always in the dignity of free men secure in our rights and faithful in the obligations of our prized citizenship.
 
-Make us all of one heart, O God, so that together as one people we may move forward unafraid to the tasks and challenges of the inscrutable years which lie ahead. Amen.
+Make us all of one heart, O God, so that together as one people we may move forward unafraid to the tasks and challenges of the inscrutable years which lie ahead. <em>Amen</em>.
 </div>
 <hr />
 This prayer by Rabbi Abba Hillel Silver, of Cleveland, Ohio, was recorded in the United States’ <a href="https://archive.org/stream/congressionalrec99aunit#page/n225/mode/2up">Congressional Record for January 20, 1953</a>.

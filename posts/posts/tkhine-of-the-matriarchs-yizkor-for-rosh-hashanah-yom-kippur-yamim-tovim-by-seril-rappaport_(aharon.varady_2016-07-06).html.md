@@ -28,7 +28,7 @@ The following is recited at yizkor:[foot]Passages taken from the yom tov yizkor 
 </span></div></td>
  
 <td width="53%"><div class="english">
-May God remember the soul of my father, (ploni ben ploni), who has gone on to the other world. Remember him today, and for that purpose I donate to tsedoke[foot]Tsedakah (along with teshuvah and tefilah) to avert harsh decrees. Cf. Bereishit Rabbah 44:15[/foot] for his sake, so that his soul may rest in Gan Eydn with the souls of Avraham, Yitsḥak, Yaakov, Sarah, Raḥel, and Leah and with the souls of the other righteous men and women who are in Gan Eydn, and let us say omeyn.
+May God remember the soul of my father, (ploni ben ploni), who has gone on to the other world. Remember him today, and for that purpose I donate to tsedoke[foot]Tsedakah (along with teshuvah and tefilah) to avert harsh decrees. Cf. Bereishit Rabbah 44:15[/foot] for his sake, so that his soul may rest in Gan Eydn with the souls of Avraham, Yitsḥak, Yaakov, Sarah, Raḥel, and Leah and with the souls of the other righteous men and women who are in Gan Eydn, and let us say <em>omeyn</em>.
 </div></td></tr>
 
 
@@ -38,7 +38,7 @@ May God remember the soul of my father, (ploni ben ploni), who has gone on to th
 </span></div></td>
  
 <td width="53%"><div class="english">
-May God remember the soul of my mother, (plones bas plones), who has gone on to the other world. Remember her today, and for that purpose I donate to tsedoke for her sake, that her soul may rest in gan eydn with the souls of avrom, yitskhok, yankev, sore, rivke, rokhl, and leye and with the souls of the other righteous men and women who are in Gan Eydn and let us say omeyn.
+May God remember the soul of my mother, (plones bas plones), who has gone on to the other world. Remember her today, and for that purpose I donate to tsedoke for her sake, that her soul may rest in gan eydn with the souls of avrom, yitskhok, yankev, sore, rivke, rokhl, and leye and with the souls of the other righteous men and women who are in Gan Eydn and let us say <em>omeyn</em>.
 </div></td></tr>
 
 
@@ -48,7 +48,7 @@ May God remember the soul of my mother, (plones bas plones), who has gone on to 
 </span></div></td>
  
 <td width="53%"><div class="english">
-May God remember the souls of my father and mother, my grandfathers and grandmothers, my uncles and aunts, my father-in-law and my mother-in-law, my brothers and sisters, who have gone on to the other world. Remember them today, and for that purpose I donate to tsedoke for their sake so that their souls may rest in Gan Eydn with the souls of Avraham, Yitsḥak, Yaakov, Sarah, Raḥel, and Leah and with the souls of the other righteous men and women who are in Gan Eydn, and let us say omeyn.
+May God remember the souls of my father and mother, my grandfathers and grandmothers, my uncles and aunts, my father-in-law and my mother-in-law, my brothers and sisters, who have gone on to the other world. Remember them today, and for that purpose I donate to tsedoke for their sake so that their souls may rest in Gan Eydn with the souls of Avraham, Yitsḥak, Yaakov, Sarah, Raḥel, and Leah and with the souls of the other righteous men and women who are in Gan Eydn, and let us say <em>omeyn</em>.
 </div></td></tr>
 
 
@@ -58,7 +58,7 @@ May God remember the souls of my father and mother, my grandfathers and grandmot
 </span></div></td>
  
 <td width="53%"><div class="english">
-May God remember the soul of (ploni ben ploni) and the souls of all of my friends and relatives from my father’s side and from my mother’s side, those who have died as well as those who were martyred for your Holy Name’s sake, by drowning or by strangulation. Remember them today, and may my donations to tsedoke memorialize their names. For this deed, may their souls rest in Gan Eydn with the souls of Avraham, Yitsḥak, Yaakov, Sarah, Raḥel, and Leah and with the souls of the other righteous men and women who are in Gan Eydn and let us say omeyn.
+May God remember the soul of (ploni ben ploni) and the souls of all of my friends and relatives from my father’s side and from my mother’s side, those who have died as well as those who were martyred for your Holy Name’s sake, by drowning or by strangulation. Remember them today, and may my donations to tsedoke memorialize their names. For this deed, may their souls rest in Gan Eydn with the souls of Avraham, Yitsḥak, Yaakov, Sarah, Raḥel, and Leah and with the souls of the other righteous men and women who are in Gan Eydn and let us say <em>omeyn</em>.
 </div></td></tr>
 
 
@@ -78,7 +78,7 @@ On holidays, this is said:
 </span></div></td>
  
 <td width="53%"><div class="english">
-May the One who blessed our ancestors[foot]From the mi sheberakh given for the honor of an aliyah at a Torah reading.[/foot] Avraham, Yitsḥak, and Yaakov, bless (ploni ben ploni), who has vowed to give tsedoke to memorialize the pure souls of those we have caused to be remembered today. For the sake of the blessed Holy One and for the sake of their holy Torah and for the sake of the holiness of this day, may the blessed Holy One guard and protect him from sickness and bestow blessings upon him and grant him success in all of his endeavors, upon him and upon all Yisro’el, for all are brothers, and let us say omeyn.
+May the One who blessed our ancestors[foot]From the mi sheberakh given for the honor of an aliyah at a Torah reading.[/foot] Avraham, Yitsḥak, and Yaakov, bless (ploni ben ploni), who has vowed to give tsedoke to memorialize the pure souls of those we have caused to be remembered today. For the sake of the blessed Holy One and for the sake of their holy Torah and for the sake of the holiness of this day, may the blessed Holy One guard and protect him from sickness and bestow blessings upon him and grant him success in all of his endeavors, upon him and upon all Yisro’el, for all are brothers, and let us say <em>omeyn</em>.
 </div></td></tr>
 
 
@@ -98,7 +98,7 @@ On Yom Kippur, this is said:
 </span></div></td>
  
 <td width="53%"><div class="english">
-May the One who blessed our ancestors Avraham, Yitsḥak, and Yaakov, bless (ploni ben ploni), who has vowed to give tsedoke for the sake of the pure souls of those we have caused to be remembered today before the blessed Holy One and for the sake of their holy Torah and for the sake of the holiness of this day. Therefore may the blessed Holy One protect him and guard him from all pain and from those who would cause him suffer and from all illness. Inscribe (ploni ben ploni) in the Book of Life and grant him a good life on this Day of Judgment. Bestow blessings upon him and success in all his endeavors, and upon all Yisro’el, for all are brothers, and let us say omeyn.
+May the One who blessed our ancestors Avraham, Yitsḥak, and Yaakov, bless (ploni ben ploni), who has vowed to give tsedoke for the sake of the pure souls of those we have caused to be remembered today before the blessed Holy One and for the sake of their holy Torah and for the sake of the holiness of this day. Therefore may the blessed Holy One protect him and guard him from all pain and from those who would cause him suffer and from all illness. Inscribe (ploni ben ploni) in the Book of Life and grant him a good life on this Day of Judgment. Bestow blessings upon him and success in all his endeavors, and upon all Yisro’el, for all are brothers, and let us say <em>omeyn</em>.
 </div></td></tr>
 
 
@@ -148,7 +148,7 @@ May your ears accept my plea with mercy. May you turn away in confusion all wrat
 </span></div></td>
  
 <td width="53%"><div class="english">
-I beseech you, dear God, shed your light upon the souls of relatives and upon all the people who live on the earth. May the Shekhina[foot]Cf. Ezekiel 43:2[/foot] shine forth, and may you tell the angel who is appointed over them to lighten their sentence, and may they find their resting place and be at peace, and may they rise continually from one level of heaven to another under the wings of the kerubim.[foot]Cf. Isaiah 6:1-3[/foot] Omeyn, keyn yehi ratson.
+I beseech you, dear God, shed your light upon the souls of relatives and upon all the people who live on the earth. May the Shekhina[foot]Cf. Ezekiel 43:2[/foot] shine forth, and may you tell the angel who is appointed over them to lighten their sentence, and may they find their resting place and be at peace, and may they rise continually from one level of heaven to another under the wings of the kerubim.[foot]Cf. Isaiah 6:1-3[/foot] <em>Omeyn</em>, keyn yehi ratson.
 </div></td></tr>
 </tbody></table>
 

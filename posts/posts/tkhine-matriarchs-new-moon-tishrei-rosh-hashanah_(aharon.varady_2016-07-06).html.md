@@ -48,7 +48,7 @@ Therefore, we beseech our matriarchs to pray for us and to bring before the Resp
 </span></div></td>
  
 <td width="53%"><div class="english">
-We also beseech our matriarchs to pray for us that we may not, [G!D] forbid, need to depend upon human charity, for the shame which is incurred thereby is greater than the gift which is received. May we be nourished by your beloved holy hand. Omeyn.
+We also beseech our matriarchs to pray for us that we may not, [G!D] forbid, need to depend upon human charity, for the shame which is incurred thereby is greater than the gift which is received. May we be nourished by your beloved holy hand. <em>Omeyn</em>.
 </div></td></tr>
 </tbody></table>
 

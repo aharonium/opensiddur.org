@@ -144,7 +144,7 @@ Parashat Vayigash (Genesis 44:18-47:27) in the annual Torah reading cycle, is re
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="e">46 <sup>1</sup>&nbsp;Yisrael traveled with all that was his and came to Be'er-shava, and he slaughtered slaughter-offerings to the elo'ah of his father</span> <span class="j">Yitzhak.</span> <span class="e"><sup>2</sup>&nbsp;And Elohim said to Yisrael in visions of the night,</span> <span class="j">he said: "Yaakov! Yaakov!" He said: "Here I am."</span>
+<span class="e">46 <sup>1</sup>&nbsp;Yisrael traveled with all that was his and came to Be'er-shava, and he slaughtered slaughter-offerings to the <em>elo'ah</em> of his father</span> <span class="j">Yitzhak.</span> <span class="e"><sup>2</sup>&nbsp;And Elohim said to Yisrael in visions of the night,</span> <span class="j">he said: "Yaakov! Yaakov!" He said: "Here I am."</span>
 </div></td></tr>
 
 
@@ -155,7 +155,7 @@ Parashat Vayigash (Genesis 44:18-47:27) in the annual Torah reading cycle, is re
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="j"><sup>3</sup>&nbsp;Now he said:</span> <span class="e">"I am El, the elo'ah of your father. Do not be afraid of going down to Mitsrayim, for a great nation will I make of you there. <sup>4</sup>&nbsp;I myself will go down with you to Mitsrayim, and I myself will bring you up, yes, up again. And Yosef will lay his hand on your eyes."</span>
+<span class="j"><sup>3</sup>&nbsp;Now he said:</span> <span class="e">"I am El, the <em>elo'ah</em> of your father. Do not be afraid of going down to Mitsrayim, for a great nation will I make of you there. <sup>4</sup>&nbsp;I myself will go down with you to Mitsrayim, and I myself will bring you up, yes, up again. And Yosef will lay his hand on your eyes."</span>
 </div></td></tr>
 
 

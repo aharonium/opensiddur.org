@@ -381,7 +381,7 @@ On this night, we all recline.
 <td style="vertical-align:top" width="53%"><div class="english">
 We were slaves to Pharaoh in Egypt,
 and Adonai, our God, brought us out from there with a strong hand and an outstretched arm.
-If the Holy One, blessed is He, had not brought our ancestors out of Egypt, then we, our children, and our children's children would still be enslaved to (<em>some add:</em> to Pharaoh in Egypt).
+If the blessed Holy One had not brought our ancestors out of Egypt, then we, our children, and our children's children would still be enslaved to (<em>some add:</em> to Pharaoh in Egypt).
 Therefore, even if we were all wise,
 all insightful,
 all old,
@@ -633,7 +633,7 @@ And I gave Isaac Jacob and Esau. And I gave Esau Mount Seir to inherit, and Jaco
 <td style="vertical-align:top" width="53%"><div class="english">
 Blessed is the One who keeps His promise to Israel,
 blessed is He.
-For the Holy One, blessed is He, premeditated the end [of Israel's enslavement]
+For the blessed Holy One premeditated the end [of Israel's enslavement]
 and fulfilled that which He foretold to our ancestor Abraham in the covenant between the pieces,
 as scripture relates:
 “And He said to Abraham: 'Know with certainty that your descendents will be strangers in a land not their own, and they shall serve its inhabitants, who will afflict them for four hundred years.
@@ -658,7 +658,7 @@ But I will also judge the nation that they serve, and afterward they will leave 
 <em>Cover the matzot, raise the cup and recite:</em>That which stood for our ancestors applies to us as well.
 For it was not only one individual who stood up against us to destroy us.
 Rather, in every generation they stand up against us to destroy us.
-But the Holy One, blessed is He, redeems us from their hands.
+But the blessed Holy One redeems us from their hands.
 
 <em>Put down the cup, uncover the matsot, and continue.</em></div></td>
 </tr>
@@ -943,7 +943,7 @@ as scripture relates:[God said:] “I also saw the oppression with which the Egy
 “And Adonai brought us out of Egypt”:
 Not by an angel
 and not by a messenger,
-but the Holy One, blessed is He, Himself, in His glory,
+but the blessed Holy One Himself, in His glory,
 as scripture relates: [God said,] “I will pass through the land of Egypt tonight, and I will smite every firstborn in the land of Egypt, from man to beast. And I will execute judgment against all the gods of Egypt. I am Adonai.”[foot]Exodus 12:12[/foot]</div></td>
 </tr>
 
@@ -1101,7 +1101,7 @@ Another interpretation:
 מַכּוֹת בְּכוֹרוֹת׃</span></div></td>
  
 <td style="vertical-align:top" width="53%"><div class="english">
-These are the ten plagues that the Holy One, blessed is He, brought against the Egyptians in Egypt. And they are as follows:
+These are the ten plagues that the blessed Holy One brought against the Egyptians in Egypt. And they are as follows:
 Blood,
 frogs,
 lice,
@@ -1195,7 +1195,7 @@ and at the sea they were afflicted with fifty plagues.</div></td>
  
 <td style="vertical-align:top" width="53%"><div class="english">
 Rabbi Eliezer said:
-How do we know that each and every plague that the Holy One, blessed is He, brought against the Egyptians in Egypt consisted of four plagues?
+How do we know that each and every plague that the blessed Holy One brought against the Egyptians in Egypt consisted of four plagues?
 Scripture says: “He sent against them His burning anger, wrath, fury, distress, and messengers of evil.”[foot]Psalms 78:49[/foot]
 “Wrath”: One [plague].
 “Fury”: Two [plagues].
@@ -1236,7 +1236,7 @@ and on the sea they were afflicted with two hundred plagues.</div></td>
  
 <td style="vertical-align:top" width="53%"><div class="english">
 Rabbi Akiva said:
-How do we know that each and every plague that the Holy One, blessed is He, brought against the Egyptians in Egypt consisted of five plagues?
+How do we know that each and every plague that the blessed Holy One brought against the Egyptians in Egypt consisted of five plagues?
 Scripture says: “He sent against them His burning anger, wrath, fury, distress, and messengers of evil.”[foot]Psalms 78:49[/foot]
 “His burning anger”: One plague.
 “Wrath”: Two [plagues].
@@ -1451,7 +1451,7 @@ and the bitter herbs.</div></td>
 <td style="vertical-align:top" width="53%"><div class="english">
 The Passover offering that our ancestors ate at the time that temple stood---
 what does it represent?
-It recalls how the Holy One, blessed is He, passed over the houses of our ancestors in Egypt,
+It recalls how the blessed Holy One passed over the houses of our ancestors in Egypt,
 as scripture relates: “You shall say, ‘This is a Passover sacrifice to Adonai, who passed over the houses of the Israelites in Egypt when He smote Egypt and spared our houses.’ And the people bowed low.”[foot]Exodus 12:27[/foot]</div></td>
 </tr>
 
@@ -1476,7 +1476,7 @@ as scripture relates: “You shall say, ‘This is a Passover sacrifice to Adona
  
 <td style="vertical-align:top" width="53%"><div class="english">
 The matzah that we eat--- what does it represent?
-It recalls that our ancestors’ dough did not have time to rise before sovereign of sovereigns, the Holy One, blessed is He, was revealed to them and redeemed them.
+It recalls that our ancestors’ dough did not have time to rise before sovereign of sovereigns, the blessed Holy One was revealed to them and redeemed them.
 As scripture relates: “They baked the dough that they brought out of Egypt into loaves of matzah because it did not rise, because they were thrown out of Egypt and they were not able to wait; neither did they prepare provisions for themselves.”[foot]Exodus 12:39[/foot]</div></td>
 </tr>
 
@@ -1523,7 +1523,7 @@ as scripture relates: “And the Egyptians embittered their lives with hard labo
 <td style="vertical-align:top" width="53%"><div class="english">
 In every generation one must view oneself as though one had personally left Egypt,
 as scripture instructs: “And you shall say to your child on that day, ‘This is because of what the Lord did for me when I left Egypt.’”[foot]Exodus 13:8[/foot]
-It was not only our ancestors that the Holy One, blessed is He, redeemed.
+It was not only our ancestors that the blessed Holy One redeemed.
 Rather, even we were redeemed with them,
 as scripture says: “And He brought us out of there in order to bring us to and give us the land that He promised our ancestors.”[foot]Deut 6:23[/foot]</div></td>
 </tr>
@@ -2186,7 +2186,7 @@ With regard to salvation and mercy, act graciously toward us, have mercy on us, 
 אָמֵן׃</span></div></td>
  
 <td style="vertical-align:top" width="53%"><div class="english">
-May the holy city of Jerusalem be rebuilt speedily in our day. Blessed are You, Adonai, merciful rebuilder of Jerusalem. Amen.</div></td>
+May the holy city of Jerusalem be rebuilt speedily in our day. Blessed are You, Adonai, merciful rebuilder of Jerusalem. <em>Amen</em>.</div></td>
 </tr>
 
 
@@ -2377,7 +2377,7 @@ May the Merciful One send us Elijah the prophet, of blessed memory, and may He b
 May the Merciful One bless
 (<em>at one's father's home, add</em>: my father, my teacher, the master of this house,)
 (<em>at one's mother's home, add</em>: and my mother, my teacher, the mistress of this house,)
-along with their household and all that is theirs. And [may He bless] us and all that is ours. As He blessed our ancestors, Abraham, Isaac, and Jacob with everything, so may He bless us, all of us together, with a complete blessing. And let us say Amen.</div></td>
+along with their household and all that is theirs. And [may He bless] us and all that is ours. As He blessed our ancestors, Abraham, Isaac, and Jacob with everything, so may He bless us, all of us together, with a complete blessing. And let us say <em>Amen</em>.</div></td>
 </tr>
 
 
@@ -2448,7 +2448,7 @@ May the Merciful One grant us a day that is fully good.</div></td>
 </span></span></div></td>
  
 <td style="vertical-align:top" width="53%"><div class="english">
-May the Merciful One find us worthy of the coming of the messiah and life in the world to come. He brings salvation to His king and acts kindly to His anointed one, to David and to His descendants forever. May the One who creates peace in His heavens create peace among us and all Israel. And let us say Amen.</div></td>
+May the Merciful One find us worthy of the coming of the messiah and life in the world to come. He brings salvation to His king and acts kindly to His anointed one, to David and to His descendants forever. May the One who creates peace in His heavens create peace among us and all Israel. And let us say <em>Amen</em>.</div></td>
 </tr>
 
 

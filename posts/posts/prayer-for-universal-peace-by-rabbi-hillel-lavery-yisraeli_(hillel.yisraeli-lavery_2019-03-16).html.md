@@ -64,7 +64,7 @@ in a true spirit of co-existence and cooperation.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-And let us say, Amen.
+And let us say, <em>Amen</em>.
 </div></td></tr>
 </tbody></table>
 
@@ -95,7 +95,7 @@ The prayer for peace appearing in Siddur Sim Shalom is adapted from the Prayer f
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-May it be your will YHVH our elo'ah, and elo'ah of our forefathers and foremothers,
+May it be your will YHVH our <em>elo'ah</em>, and <em>elo'ah</em> of our forefathers and foremothers,
 That we see the day when war and bloodshed cease from the work, 
 when a great peace and wonder will embrace the whole world.
 Then nation will not threaten nation,
@@ -161,7 +161,7 @@ Let God’s peace fill the earth as the waters fill the sea."[foot]Isaiah 11:9.[
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-And let us say: Amen.
+And let us say: <em>Amen</em>.
 </div></td></tr>
 </tbody></table>
 

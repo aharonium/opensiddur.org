@@ -163,7 +163,7 @@ for you are our protector.
 no one will terrify him again.”[foot]Yirmiyahu 30:10, 46:27 (part)[/foot] 
 Guard our going out and our coming in, 
 from now until eternity,[foot]from Birkat Hashkivenu, nusaḥ Edot ha-Mizraḥ[/foot] 
-and let us say, Amen.
+and let us say, <em>Amen</em>.
 </span></div>
 </td>
  
@@ -175,7 +175,7 @@ för du är vår befriare.
 och ingen skall förskräcka honom.”
 Bevara oss vart vi än går
  från nu och till evig tid. 
-Och låt oss säga: Amen.
+Och låt oss säga: <em>Amen</em>.
 </div>
 </td></tr>
 </tbody></table>

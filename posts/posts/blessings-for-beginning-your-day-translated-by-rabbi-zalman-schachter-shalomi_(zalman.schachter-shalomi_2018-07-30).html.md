@@ -487,7 +487,7 @@ yet my life has been preserved.”
 </div></td></tr>
 </tbody></table>
 
-As we arouse ourselves from sleep, an intimate experience with "1/60th of death"[foot]Cf. Berachot 57b, Midrash Rabbah Genesis 17:7[/foot], we bless Hashem that we may perceive (or benefit from other's perception) of the dawn as well as our eponymous ancestor's taking by force the blessing of the name Yisra'el which informs our daily identity and actions, may our wrestling with these challenges be righteous and just in the perception of our peers and in the judgement of our elo'ah who is Just. –Aharon N. Varady
+As we arouse ourselves from sleep, an intimate experience with "1/60th of death"[foot]Cf. Berachot 57b, Midrash Rabbah Genesis 17:7[/foot], we bless Hashem that we may perceive (or benefit from other's perception) of the dawn as well as our eponymous ancestor's taking by force the blessing of the name Yisra'el which informs our daily identity and actions, may our wrestling with these challenges be righteous and just in the perception of our peers and in the judgement of our <em>elo'ah</em> who is Just. –Aharon N. Varady
 
 <h3>Source(s)</h3>
 

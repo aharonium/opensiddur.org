@@ -78,7 +78,7 @@ The people of Yisra'el were left with no doors, and there's nothing like a door 
 </span></div></td>
 
 <td style="vertical-align:top;"><div class="english">
-Since the Greeks saw that the people of Yisra'el were withstanding the decree, and not a one fell to anything bad, they stood and decreed a new decree, and announced: “Every person of Yisra'el that has a donkey or an ox will engrave on its horns that it has no part in the elo'ah of Yisra'el.” And why? So that the people of Yisra'el would not be able to eat meat or milk or cheese, and also wouldn't have animals for plowing. They said to themselves, We know they won’t be able to withstand this decree. (Bwahahahaha!)
+Since the Greeks saw that the people of Yisra'el were withstanding the decree, and not a one fell to anything bad, they stood and decreed a new decree, and announced: “Every person of Yisra'el that has a donkey or an ox will engrave on its horns that it has no part in the <em>elo'ah</em> of Yisra'el.” And why? So that the people of Yisra'el would not be able to eat meat or milk or cheese, and also wouldn't have animals for plowing. They said to themselves, We know they won’t be able to withstand this decree. (Bwahahahaha!)
 </div></td></tr>
 
 
@@ -88,7 +88,7 @@ Since the Greeks saw that the people of Yisra'el were withstanding the decree, a
 </span></div></td>
 
 <td style="vertical-align:top;"><div class="english">
-When the people of Yisra'el heard this, they were dismayed indeed. They said, “Heaven forbid that we would reject our elo'ah.” They stood and sold their animals, [both] kosher and not kosher. And the people of Yisra'el would walk on their feet, and regarding them it is written: “I saw slaves on horses and princes walking” (Ecclesiastes 10:7).
+When the people of Yisra'el heard this, they were dismayed indeed. They said, “Heaven forbid that we would reject our <em>elo'ah</em>.” They stood and sold their animals, [both] kosher and not kosher. And the people of Yisra'el would walk on their feet, and regarding them it is written: “I saw slaves on horses and princes walking” (Ecclesiastes 10:7).
 </div></td></tr>
 
 

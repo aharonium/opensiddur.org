@@ -189,7 +189,7 @@ for so will be ripened the fruit of the highest tree,
 </span></div></td>
  
 <td style="vertical-align:top;"><div class="english">
-May it be Your will, YHVH our elo'ah, and elo'ah of our ancestors
+May it be Your will, YHVH our <em>elo'ah</em>, and <em>elo'ah</em> of our ancestors
 that our eating and blessing these fruits, 
 and our meditating over their roots above, 
 will strengthen the flow of love and blessing and free gift over the trees, 

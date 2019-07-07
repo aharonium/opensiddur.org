@@ -153,7 +153,7 @@ and may they rest in peace wherever they may be lying.
 May their righteousness be a source of merit for us, 
 for all of Yisrael, 
 and for all those who fight for freedom, justice and peace.  
-And let us say: Amen. 
+And let us say: <em>Amen</em>. 
 </div></td>
 </tr></tbody></table>
 

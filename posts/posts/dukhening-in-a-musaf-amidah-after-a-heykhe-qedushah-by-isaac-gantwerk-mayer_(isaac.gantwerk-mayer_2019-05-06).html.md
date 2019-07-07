@@ -187,7 +187,7 @@ May the <span style="text-transform: uppercase;">Cause</span> turn Their face to
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Blessed is the <span style="text-transform: uppercase;">Cause</span> God of Israel, from eternity to eternity, 			amen and amen. 
+Blessed is the <span style="text-transform: uppercase;">Cause</span> God of Israel, from eternity to eternity, 			amen and <em>amen</em>. 
 </div></td></tr>
 
 
@@ -198,7 +198,7 @@ Blessed is the <span style="text-transform: uppercase;">Cause</span> God of Isra
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-And blessed is the Glorious Name forever, whose glory fills all the earth, 	amen and amen. 
+And blessed is the Glorious Name forever, whose glory fills all the earth, 	amen and <em>amen</em>. 
 </div></td></tr>
 
 
@@ -209,7 +209,7 @@ And blessed is the Glorious Name forever, whose glory fills all the earth, 	amen
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Blessed is the <span style="text-transform: uppercase;">Cause</span> forever,							amen and amen. 
+Blessed is the <span style="text-transform: uppercase;">Cause</span> forever,							amen and <em>amen</em>. 
 </div></td></tr>
 
 

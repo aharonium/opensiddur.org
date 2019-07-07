@@ -29,7 +29,7 @@ Link: <a href="http://opensiddur.org/?p=25337">http://opensiddur.org/?p=25337</a
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-On the fourth of July, in the year 1776, a new nation was horn, the United States of America, conceived in liberty and dedicated to the proposition that all men are created equal. The faith and vision of the Founding Fathers are expressed in a solemn Declaration of Independence. That Declaration set forth the principles which moved them to establish the former British colonies as an independent union of states. It is well that on the anniversary of this event we be reminded of the spiritual foundations of our Republic, and that we renew from year to year our allegiance to them. Let us then rise and listen to the words of that epoch-making Declaration:
+On the fourth of July, in the year 1776, a new nation was born, the United States of America, conceived in liberty and dedicated to the proposition that all men are created equal. The faith and vision of the Founding Fathers are expressed in a solemn Declaration of Independence. That Declaration set forth the principles which moved them to establish the former British colonies as an independent union of states. It is well that on the anniversary of this event we be reminded of the spiritual foundations of our Republic, and that we renew from year to year our allegiance to them. Let us then rise and listen to the words of that epoch-making Declaration:
 </div></td></tr>
 
 
@@ -62,7 +62,7 @@ On the fourth of July, in the year 1776, a new nation was horn, the United State
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-“We, therefore, the Representatives of the United States of America, in General Congress, Assembled, appealing to the Supreme Judge of the world for the rectitude of our intentions, do, in the name, and by the authority of the good People of these Colonies, solemnly publish and declare that these United Colonies are, and of right ought to be, free and independent States.	. . . . And for the support of this Declaration, with a firm reliance on the protection of Divine Providence, we mutually pledge to each other our lives, our fortune and our sacred honor.”
+“We, therefore, the Representatives of the United States of America, in General Congress, Assembled, appealing to the Supreme Judge of the world for the rectitude of our intentions, do, in the name, and by the authority of the good People of these Colonies, solemnly publish and declare that these United Colonies are, and of right ought to be, free and independent States.   . . . . And for the support of this Declaration, with a firm reliance on the protection of Divine Providence, we mutually pledge to each other our lives, our fortune and our sacred honor.”
 </div></td></tr>
 
 
@@ -231,6 +231,7 @@ and the home of the brave.
 </tbody></table>
 
 <hr />
+
 This service for Independence Day appears on pages 545-547 of <em><a href="https://opensiddur.org/compilations/shabbat-siddur/sabbath-prayer-book-by-mordecai-kaplan-1945/">The Sabbath Prayer Book</a></em> (Jewish Reconstructionist Foundation, 1945). In Rabbi Kaplan's prayer, "That America Fulfil the Promise of Its Founding," I have replaced "thee, thy, and thou" archaisms. I have also tagged this prayer with the "problematic prayer" flag due to a statement concerning the use of natural resources "for the highest good of all men." I enjoin those adopting this prayer to adapt this statement to one which fully embraces our human role in preserving local, regional, and global ecologies for the mutual benefit of all species, as our continued existence on earth is interdependent and interconnected. --Aharon N. Varady
 
 <h3>Source(s)</h3>

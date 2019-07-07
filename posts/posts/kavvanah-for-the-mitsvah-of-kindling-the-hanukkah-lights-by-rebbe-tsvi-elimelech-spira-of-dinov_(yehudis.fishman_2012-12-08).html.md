@@ -47,7 +47,7 @@ to repair her root in a supernal abode.
  
 <td style="vertical-align:top" width="53%"><div class="english">
 And so, may it be Your will before You, 
-YHVH our elo'ah and elo'ah of our ancestors, 
+YHVH our <em>elo'ah</em> and <em>elo'ah</em> of our ancestors, 
 that the commandment of lighting the Ḥanukkah light should be as important, accepted, and desirable before You 
 as if I had intended all the intentions that were intended by the priests, the ministers of the Name, 
 at the time that they aroused their souls to the death 
@@ -155,7 +155,7 @@ over all the dwellers of Your terrestrial plane.
 And may every creature know that you made it, 
 may every created being understand that You created it, 
 and may all who have a breath <strong>in his nostrils</strong>[foot]"Bi'apo" = <em>in his nostrils</em>, numerically equals 89 which is the same numerical equivalent as the Hebrew spelling of Ḥanukkah[/foot] proclaim: 
-YHVH, elo'ah of Yisra'el, the King and His Kingdom, reigns over all...’[foot]Here there is a complex gematria (numerical equivalence)[/foot] 
+YHVH, <em>elo'ah</em> of Yisra'el, the King and His Kingdom, reigns over all...’[foot]Here there is a complex gematria (numerical equivalence)[/foot] 
 </div></td></tr>
     
     

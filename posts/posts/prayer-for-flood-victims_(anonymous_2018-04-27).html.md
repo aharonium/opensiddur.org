@@ -78,7 +78,7 @@ And Aharon was silent.[foot]Leviticus 10:3 partial[/foot]
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Please, our elo'ah!,
+Please, our <em>elo'ah</em>!,
 cause a wind to blow across the Land, so the waters may subside,[foot]After Genesis 8:1 partial[/foot]
 and let there be springs of water in the arid land,[foot]Isaiah 41:18 partial[/foot]
 and may the rains be brought in their appointed time,

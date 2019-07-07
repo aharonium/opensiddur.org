@@ -10,6 +10,8 @@ Link: <a href="http://opensiddur.org/?p=9105">http://opensiddur.org/?p=9105</a>
 
 This prayer was first published by the Office of the Chief Rabbi of the United Hebrew Congregations of Great Britain and the Commonwealth in June 2014, as "<a href="https://chiefrabbi.org/prayer-missing-teenagers/">Prayer Issued for Missing Israeli Teenagers</a>," writing: "The prayer...currently being recited across Israel for missing teenagers Naftali Frenkel, Gilad Shaar and Eyal Yifrach, was issued today to Rabbanim of the United Hebrew Congregations by Chief Rabbi Mirvis."
 
+Recitation of this psalm and mi sheberakh seem appropriate to me in the case of unconscionable, immoral, and unjust state policies that separate children from their caregivers. To help fulfill the mitsvah of ransoming captives, please <a href="https://www.marketwatch.com/story/this-is-what-it-costs-to-free-one-immigrant-from-detention-2018-06-20">contribute to funds paying out bail bonds</a> and demonstrate your opposition to these policies. --Aharon Varady
+
 <hr />
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
@@ -201,7 +203,7 @@ and come with singing unto Tsiyon,
 and everlasting joy shall be upon their heads; 
 They shall obtain gladness and joy, 
 and sorrow and sighing shall flee away."[foot]Isaiah 35:10[/foot]
-and let us say, Amen.
+and let us say, <em>Amen</em>.
 </td>
  
  <td style="vertical-align:top;" width="36%%">

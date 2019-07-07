@@ -162,7 +162,7 @@ Thoughts on Charity
 Humbleness before God
 Supplication in Sorrow
 Thanksgiving after a Fortunate Recovery
-Resolution to Amend
+Resolution to <em>Amen</em>d
 Petition for Perseverance in doing Good
 Petition for Mercy for Oneself or Another
 In a Time of Public Calamity

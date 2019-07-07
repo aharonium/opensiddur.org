@@ -152,7 +152,7 @@ From Exodus, chapter 15:1-19. In the layout below which emulates the traditional
 <td style="text-align: right;" colspan="6" width="50%">Yah is my strength and song. They have become my</td>
 </tr>   <tr>
 <td colspan="3" width="25%" style="text-align: left;" >salvation.</td>
-<td colspan="6" width="50%" style="text-align: center;">This is my elo'ah, and I will praise them;</td>
+<td colspan="6" width="50%" style="text-align: center;">This is my <em>elo'ah</em>, and I will praise them;</td>
 <td style="text-align: right;" colspan="3" width="25%">Elo'ah</td>
 </tr>   <tr>
 

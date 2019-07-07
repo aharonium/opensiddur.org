@@ -129,7 +129,7 @@ Blessed art thou, O Lord, who revivest the dead.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Thou art holy and thy name is holy, and holy beings praise thee daily. Selah!
+Thou art holy and thy name is holy, and holy beings praise thee daily. <em>Selah</em>!
 
 When the Reader repeats the Shemoneh Esreh, the following Kedushah is said:
 We sanctify thy name in this world even as they sanctify it in the highest heavens, as it is written by thy prophet: “They keep calling to one another: 
@@ -223,7 +223,7 @@ Blessed art thou, O Lord, Redeemer of Israel.
 <div class="english">
 Heal us, O Lord, and we shall be healed; save us and we shall be saved; for thou art our praise. Grant a perfect healing to all our wounds; 
 
-For the ill, say: May it be your will YHVH our elo'ah and elo'ah of our ancestors to quickly relay a complete healing from Heaven:
+For the ill, say: May it be your will YHVH our <em>elo'ah</em> and <em>elo'ah</em> of our ancestors to quickly relay a complete healing from Heaven:
 a healing of spirit and a healing of body to the sick one (...) among the sick assembled in Israel.
  
 for thou art a faithful and merciful God, King and Healer. 
@@ -467,7 +467,7 @@ That thy beloved may be rescued, save with thy right hand and answer me.
 
 May the words of my mouth and the meditation of my heart be pleasing before thee, O Lord, my Stronghold and my Redeemer.[foot]Psalms 60:7.[/foot] 
 
-May he who creates peace in his high heavens create peace for us and for all Israel. Amen. 
+May he who creates peace in his high heavens create peace for us and for all Israel. <em>Amen</em>. 
 </div></td></tr>
 
 

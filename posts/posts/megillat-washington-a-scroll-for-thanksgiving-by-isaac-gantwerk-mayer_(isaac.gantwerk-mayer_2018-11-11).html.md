@@ -183,7 +183,7 @@ These, this translation and this framework, were completed by Yitsḥaq Har'el b
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Blessed be the Holy One who taught my hand to bring close from on high all blessing and praise, amen, amen, selah.
+Blessed be the Holy One who taught my hand to bring close from on high all blessing and praise, <em>amen</em>, <em>amen</em>, <em>selah</em>.
 </div></td></tr>
 </tbody></table>
 

@@ -64,7 +64,7 @@ May we have the faith to pray our prayers again.
 May we have the courage to march along together again 
 and together make this the kind of country 
 and the kind of world for which we all pray.
-May we all join together and say, Amen.
+May we all join together and say, <em>Amen</em>.
 </div></td></tr>
 </tbody></table>
 

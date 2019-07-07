@@ -100,7 +100,7 @@ This Megillah encourages involvement! The English text is simple and fun for all
  
 <td style="vertical-align:top;" width="53%"><div class="english">
 Blessed be You, 
-YHVH (Hashem), our elo'ah, 
+YHVH (Hashem), our <em>elo'ah</em>, 
 Master of the Cosmos, 
 who makes us holy through your mitsvot, 
 and the reading of this Megilla.
@@ -125,7 +125,7 @@ v'tsivanu al mikra Megilla
  
 <td style="vertical-align:top;" width="53%"><div class="english">
 Blessed be You, 
-YHVH (Hashem), our elo'ah, 
+YHVH (Hashem), our <em>elo'ah</em>, 
 Master of the Cosmos, 
 who has done great things for our ancestors, 
 in their days, 
@@ -152,7 +152,7 @@ bazman hazeh
  
 <td style="vertical-align:top;" width="53%"><div class="english">
 Blessed be You, 
-YHVH (Hashem), our elo'ah, 
+YHVH (Hashem), our <em>elo'ah</em>, 
 Master of the Cosmos, 
 who gives us life, 
 strength, 
@@ -572,7 +572,7 @@ and th֥is ma֖kes us free!</strong>׃
  
 <td style="vertical-align:top;" width="53%"><div class="english">
 Blessed are You, 
-YHVH (Hashem), our elo'ah, 
+YHVH (Hashem), our <em>elo'ah</em>, 
 Master of the Cosmos, 
 Who helps us in our struggles,
 Who brings our enemies to justice.

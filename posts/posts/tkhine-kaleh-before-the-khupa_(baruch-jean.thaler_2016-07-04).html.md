@@ -55,7 +55,7 @@ therefore, I wish to fulfill them.
 Strengthen and empower me, 
 Beloved God, that I have the energy to do what You desire, 
 and to serve You with my entire heart — 
-Amen and Amen!
+Amen and <em>Amen</em>!
 </div></td>
 </tr>
 </tbody></table>

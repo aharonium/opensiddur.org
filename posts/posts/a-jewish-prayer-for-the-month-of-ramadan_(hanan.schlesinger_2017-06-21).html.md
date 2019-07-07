@@ -134,7 +134,7 @@ And may we all, both them and us, know that we are but one family.
 </div></td>
 
 <td style="vertical-align:top;" width="36%"><div class="english">
-Give peace in your land and eternal joy to all its inhabitants – Amen.
+Give peace in your land and eternal joy to all its inhabitants – <em>Amen</em>.
 </div></td>
 </tr>
 </tbody></table>

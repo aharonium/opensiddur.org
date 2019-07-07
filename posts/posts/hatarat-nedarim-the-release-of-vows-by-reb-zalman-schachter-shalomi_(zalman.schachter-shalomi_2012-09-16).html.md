@@ -107,7 +107,7 @@ Many times when I ask for prayers for some people
 whether they are prayers for healing, for blessing 
 or for the repose of souls departed, 
 in which the formula includes, 
-"Because I shall contribute to tzedakah" 
+"Because I shall contribute to <em>tsedakah</em>" 
 and I may have forgotten to do that or not been aware, 
 I ask you to release me from that, too.
 </div></td></tr>

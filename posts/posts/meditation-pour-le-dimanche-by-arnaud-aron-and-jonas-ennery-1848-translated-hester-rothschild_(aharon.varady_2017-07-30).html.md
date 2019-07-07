@@ -196,12 +196,12 @@ Grant, O God, that I may think, act, and live but for the sanctification of my f
 
 <tr><td style="vertical-align:top;" width="50%">
 <div class="english"><span lang="fr">
-Seigneur! Seigneur! détourne de moi le soufflé pernicieux qui pourrait ternir ma foi; éclaire et fortifie ma raison, afin qu’elle résiste aux suggestions désolantes de l’incrédulité. Éclaire tous les hommes, ouvre leurs yeux à la foi; fais-leur compréndre les vérités éternelles annoncées par tes prophètes, afin qu’ils reviennent de leur égarement, qu’ils confessent ton nom et proclament avec tout Israël, que L’ÉTERNEL NOTRE DIEU EST UN! Amen. 
+Seigneur! Seigneur! détourne de moi le soufflé pernicieux qui pourrait ternir ma foi; éclaire et fortifie ma raison, afin qu’elle résiste aux suggestions désolantes de l’incrédulité. Éclaire tous les hommes, ouvre leurs yeux à la foi; fais-leur compréndre les vérités éternelles annoncées par tes prophètes, afin qu’ils reviennent de leur égarement, qu’ils confessent ton nom et proclament avec tout Israël, que L’ÉTERNEL NOTRE DIEU EST UN! <em>Amen</em>. 
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
 <div class="english"><span lang="en">
-Lord God, enlighten and strengthen my reason, so that it may overcome all the evil suggestions of unbelief. Enlighten all men, open their eyes to true wisdom, make them comprehend the eternal truths announced through Thy prophets, so that they may return to Thee, confess Thy name, and proclaim with all Israel, “The Eternal, our God, is One.”[foot]Deuteronomy 6:4.[/foot] Amen.
+Lord God, enlighten and strengthen my reason, so that it may overcome all the evil suggestions of unbelief. Enlighten all men, open their eyes to true wisdom, make them comprehend the eternal truths announced through Thy prophets, so that they may return to Thee, confess Thy name, and proclaim with all Israel, “The Eternal, our God, is One.”[foot]Deuteronomy 6:4.[/foot] <em>Amen</em>.
 </span></div></td></tr>
 
 

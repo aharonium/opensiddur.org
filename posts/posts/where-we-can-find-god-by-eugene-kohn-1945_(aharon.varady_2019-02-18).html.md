@@ -31,7 +31,7 @@ Link: <a href="http://opensiddur.org/?p=23777">http://opensiddur.org/?p=23777</a
 <td style="vertical-align:top;" width="53%">
 <div class="english">
 Yah, where shall I find you,
-Whose kavod fills the universe?[foot]From the piyyut, "<a href="https://benyehuda.org/rihal/rihal7_4_2.html">Yah Anah Emtsa'akha</a>" by Rabbi Yehudah Halevi. Cf. Baḥya ibn Pakuda in his מחשבת ישראל, חובות הלבבות, שער ראשון - שער ייחוד, י׳ (<a href="https://www.sefaria.org/Duties_of_the_Heart%2C_First_Treatise_on_Unity.10.67?vhe=Chovat_Halevavot,_Warsaw_1875.&lang=bi&with=all&lang2=en">Duties of the Heart, First Treatise on Unity 10.67</a>). <span class="hebrew">ונאמר על קצת מן החכמים שהיה אומר בתפלתו אלהי אנה אמצאך אך אנה לא אמצאך נסתרת ולא תראה והכל ממך מלא. דומה למה שאמר יתברך (ירמיהו כ״ג:כ״ד) את השמים ואת הארץ אני מלא נאם ה׳.</span>  "It is said of one of the Sages who would say in his prayer: "My elo'ah, where can I find you, yet where can I not find you. You are hidden and invisible yet everything is filled with you, similar to the verse 'Do I not fill heaven and earth says YHVH' (Jeremiah 23:24)." (Many thanks to Aryeh Sklar for his identification of the piyyut via this statement by ibn Pakuda.[/foot]
+Whose kavod fills the universe?[foot]From the piyyut, "<a href="https://benyehuda.org/rihal/rihal7_4_2.html">Yah Anah Emtsa'akha</a>" by Rabbi Yehudah Halevi. Cf. Baḥya ibn Pakuda in his מחשבת ישראל, חובות הלבבות, שער ראשון - שער ייחוד, י׳ (<a href="https://www.sefaria.org/Duties_of_the_Heart%2C_First_Treatise_on_Unity.10.67?vhe=Chovat_Halevavot,_Warsaw_1875.&lang=bi&with=all&lang2=en">Duties of the Heart, First Treatise on Unity 10.67</a>). <span class="hebrew">ונאמר על קצת מן החכמים שהיה אומר בתפלתו אלהי אנה אמצאך אך אנה לא אמצאך נסתרת ולא תראה והכל ממך מלא. דומה למה שאמר יתברך (ירמיהו כ״ג:כ״ד) את השמים ואת הארץ אני מלא נאם ה׳.</span>  "It is said of one of the Sages who would say in his prayer: "My <em>elo'ah</em>, where can I find you, yet where can I not find you. You are hidden and invisible yet everything is filled with you, similar to the verse 'Do I not fill heaven and earth says YHVH' (Jeremiah 23:24)." (Many thanks to Aryeh Sklar for his identification of the piyyut via this statement by ibn Pakuda.[/foot]
 </div></td></tr>
 
 
@@ -160,7 +160,7 @@ And in death that keeps knocking on the doors of life.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-O my elo'ah,
+O my <em>elo'ah</em>,
 Fill me ever with new life.
 Give me strength to keep my body pure
 Of all stain and perversion,
@@ -191,7 +191,7 @@ For I know that it is you who girds me with the power to achieve.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-O my elo'ah,
+O my <em>elo'ah</em>,
 Give me the strength never to desert the helpless,
 Never to bend the knee before a haughty tyrant.
 Enable me to live my life above the vanities of the daily round,

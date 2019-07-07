@@ -858,7 +858,7 @@ While in context this means gifts or loans from other people, it could also be u
 
 <ol>
 <li>Why might a shepherd be inclined to say a simpler, shorter form of this blessing?</p></li>
-<li><p>Later authorities added the phrase “Sovereign of the World” to Benjamin’s original prayer. In the context of slavery and freedom, why does it matter that every blessing remind us that God is the ultimate Sovereign? How does our sense of the sacred or the Divine inspire our actions to build a world of chesed, lovingkindness?</p></li>
+<li><p>Later authorities added the phrase “Sovereign of the World” to Benjamin’s original prayer. In the context of slavery and freedom, why does it matter that every blessing remind us that God is the ultimate Sovereign? How does our sense of the sacred or the Divine inspire our actions to build a world of ḥesed, lovingkindness?</p></li>
 </ol>
 
 <p><em>Bless and drink the third cup. </em>
@@ -1082,7 +1082,7 @@ is to have no fear at all.
 </td></tr>
 </tbody></table>
 
-<h4>עוֹלָם חֶסֶד יִבָּנֶה. Olam chesed yibaneh.</h4>
+<h4>עוֹלָם חֶסֶד יִבָּנֶה. Olam ḥesed yibaneh.</h4>
 
 <h3>הַלֵּל Hallel</h3>
 

@@ -33,7 +33,7 @@ Link: <a href="http://opensiddur.org/?p=23948">http://opensiddur.org/?p=23948</a
 <td style="vertical-align:top;" width="53%">
 <div class="english">
 Blessed are you, 
-YHVH our elo'ah, 
+YHVH our <em>elo'ah</em>, 
 cosmic majesty, 
 who nourishes the entire Cosmos with your beneficence, 
 with grace, with lovingkindness, and compassion; 
@@ -66,7 +66,7 @@ Sustainer of All.
 <td style="vertical-align:top;" width="53%">
 <div class="english">
 We thank you 
-YHVH our elo'ah, 
+YHVH our <em>elo'ah</em>, 
 for that which you bequeathed to our ancestors 
 a desirable, good, and ample land, 
 and you gave to them 
@@ -92,7 +92,7 @@ for the Earth and for the food.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Have compassion upon us, YHVH our elo'ah,
+Have compassion upon us, YHVH our <em>elo'ah</em>,
 on Yisrael your people, 
 upon Yerushalayim (the City of Peace) your city,[foot]Cf. Psalms 122, Ibn Ezra on Psalms 122:6, Ibn Ezra on Psalms 76:3, and Ibn Ezra on Genesis 14:18.[/foot] 
 and upon the kingdom of the House of David your anointed: 
@@ -123,7 +123,7 @@ Amen.
 <td style="vertical-align:top;" width="53%">
 <div class="english">
 Blessed are you, 
-YHVH our elo'ah
+YHVH our <em>elo'ah</em>
 cosmic majesty, 
 beneficent king who is benevolent with us,
 you have been benevolent, you are benevolent, 

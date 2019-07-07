@@ -69,7 +69,7 @@ Father in Heaven, see how we, your nation Yisra'el, stand and beg you to comfort
 </div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
-Dear God, hear the weeping of Tsiyon and accept the anguished cries of Yerushalayim, for she wails with a bitter heart. Just as you burned her with fire, so rebuild her with fire. As it says, “I will be to her (Yerushalayim) a wall of fire encircling her.”[foot]Zechariah 2:9[/foot] Praised are you, the Comforter of Tsiyon and the Builder of Yerushalayim. Amen.
+Dear God, hear the weeping of Tsiyon and accept the anguished cries of Yerushalayim, for she wails with a bitter heart. Just as you burned her with fire, so rebuild her with fire. As it says, “I will be to her (Yerushalayim) a wall of fire encircling her.”[foot]Zechariah 2:9[/foot] Praised are you, the Comforter of Tsiyon and the Builder of Yerushalayim. <em>Amen</em>.
 </div></td>
 </tr>
 </tbody></table>

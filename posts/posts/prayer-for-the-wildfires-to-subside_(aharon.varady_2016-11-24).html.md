@@ -102,7 +102,7 @@ and with the richness of Your generosity.
 Protect and save this year from any manner of evil, 
 and from any species of destruction or any kind of trouble, 
 and create for it good hope and a finality of peace. 
-And so, may it be Your will, and let us say: Amen.
+And so, may it be Your will, and let us say: <em>Amen</em>.
 </div></td>
 </tr>
 </tbody></table>

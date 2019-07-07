@@ -48,7 +48,7 @@ Master of the Cosmos, you raise all those that are lowly, and you make successfu
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Dear mother Leah, stand before the Resplendent Throne and plead for your children and also for me your daughter (___daughter of___) that I and my husband should merit to raise our children, and that our daughters not fall to the lot of wicked men. Let us be fortunate in our livelihood so that we may be able to give them good and religious men and let them have good and religious children. Amen.
+Dear mother Leah, stand before the Resplendent Throne and plead for your children and also for me your daughter (___daughter of___) that I and my husband should merit to raise our children, and that our daughters not fall to the lot of wicked men. Let us be fortunate in our livelihood so that we may be able to give them good and religious men and let them have good and religious children. <em>Amen</em>.
 </div></td>
 </tr>
 
@@ -90,7 +90,7 @@ He enacted harsh decrees upon the Jews, and did not allow them to circumcise the
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-This miracle shows how far-reaching is the love that Hashem be blessed, has for Jews when they observe the Torah. So too, dear God, awaken your mercy to do miracles and wonders with us. We should be able to keep your Torah with a happy heart. You should illuminate our constellation in this month with health and sustenance, and allow us the merit to kindle lights in the Holy Temple, speedily in our days. Amen.
+This miracle shows how far-reaching is the love that Hashem be blessed, has for Jews when they observe the Torah. So too, dear God, awaken your mercy to do miracles and wonders with us. We should be able to keep your Torah with a happy heart. You should illuminate our constellation in this month with health and sustenance, and allow us the merit to kindle lights in the Holy Temple, speedily in our days. <em>Amen</em>.
 </div></td>
 </tr>
 </tbody></table>

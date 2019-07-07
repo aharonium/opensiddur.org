@@ -62,7 +62,7 @@ Chapter 1
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<sup>5</sup>&nbsp;The sailors took fright, and each of them called on his own elo'ah,[foot]The sailors are from different countries: each has his own god but believes in the power of other gods as well.[/foot] and to lighten the ship they threw the cargo overboard. Yonah, however, had gone below and lain down in the hold and fallen fast asleep. 
+<sup>5</sup>&nbsp;The sailors took fright, and each of them called on his own <em>elo'ah</em>,[foot]The sailors are from different countries: each has his own god but believes in the power of other gods as well.[/foot] and to lighten the ship they threw the cargo overboard. Yonah, however, had gone below and lain down in the hold and fallen fast asleep. 
 </div></td></tr>
 
 
@@ -73,7 +73,7 @@ Chapter 1
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<sup>6</sup>&nbsp;The boatswain came upon him and said, ‘What do you mean by sleeping? Get up! Call on your elo'ah! Perhaps he will spare us a thought, and not leave us to die.’ 
+<sup>6</sup>&nbsp;The boatswain came upon him and said, ‘What do you mean by sleeping? Get up! Call on your <em>elo'ah</em>! Perhaps he will spare us a thought, and not leave us to die.’ 
 </div></td></tr>
 
 
@@ -95,7 +95,7 @@ Chapter 1
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<sup>8</sup>&nbsp;Then they said to him, ‘Tell us, who is responsible for bringing this evil upon us?[foot]Hebr. inserts ‘who is responsible for bringing this evil on us‘. a gloss from v. 7; Greek omits.[/foot] What is your business? Where do you come from? What is your country? What is your nationality?’ <sup>9</sup>&nbsp;He replied, ‘I am a Hebrew, and I worship YHVH, the elo'ah of Heaven, who made the sea and the land’. 
+<sup>8</sup>&nbsp;Then they said to him, ‘Tell us, who is responsible for bringing this evil upon us?[foot]Hebr. inserts ‘who is responsible for bringing this evil on us‘. a gloss from v. 7; Greek omits.[/foot] What is your business? Where do you come from? What is your country? What is your nationality?’ <sup>9</sup>&nbsp;He replied, ‘I am a Hebrew, and I worship YHVH, the <em>elo'ah</em> of Heaven, who made the sea and the land’. 
 </div></td></tr>
 
 
@@ -139,7 +139,7 @@ Chapter 2
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<sup>1</sup>&nbsp;YHVH had arranged that a great fish should be there to swallow Yonah;[foot]On this fish and the other prodigies, of which the author is fond, see Introduction to the Prophets.[/foot] and Yonah remained in the belly of the fish for three days and three nights. <sup>2</sup>&nbsp;From the belly of the fish he prayed to YHVH, his elo'ah; <sup>3</sup>&nbsp;he said:[foot]This song is a mosaic of Psalm-texts and is constructed on the conventional pattern of thanksgiving psalms: description of sufferings undergone, account of deliverance from them. For the psalmists, grave danger is a ‘death’ and deliverance a ‘resurrection'; cf. here w. 6,7,8. The sea, God’s primordial ‘enemy’, cf. Job 7:12+, is seen either as the kingdom of death itself or at least as the way that leads to it.[/foot]
+<sup>1</sup>&nbsp;YHVH had arranged that a great fish should be there to swallow Yonah;[foot]On this fish and the other prodigies, of which the author is fond, see Introduction to the Prophets.[/foot] and Yonah remained in the belly of the fish for three days and three nights. <sup>2</sup>&nbsp;From the belly of the fish he prayed to YHVH, his <em>elo'ah</em>; <sup>3</sup>&nbsp;he said:[foot]This song is a mosaic of Psalm-texts and is constructed on the conventional pattern of thanksgiving psalms: description of sufferings undergone, account of deliverance from them. For the psalmists, grave danger is a ‘death’ and deliverance a ‘resurrection'; cf. here w. 6,7,8. The sea, God’s primordial ‘enemy’, cf. Job 7:12+, is seen either as the kingdom of death itself or at least as the way that leads to it.[/foot]
 </div></td></tr>
 
 
@@ -198,7 +198,7 @@ The seaweed was wrapped round my head
 I went down into the countries underneath the earth, 
 to the peoples of the past.[foot]Text obscure. Others translate 'I went down to a land whose bars closed on me for ever.'[/foot]
 But you lifted my life from the pit,[foot]Psalms 30:3, Psalms 16:10[/foot]
-YHVH, my elo'ah.
+YHVH, my <em>elo'ah</em>.
 <sup>8</sup>&nbsp;While my soul was fainting within me,
 I remembered YHVH,
 and my prayer came before you
@@ -368,7 +368,7 @@ Chapter 4
 
 <hr />
 
-This is the Masoretic text of Megillat Yonah set side-by-side with its translation, made by J.R.R. Tolkien for the Jerusalem Bible (1966). I have replaced anglicized names with romanizations from the Hebrew and replaced the "castor-oil plant" with the mysterious hapax legomenon 'qiqayon' in the Hebrew. I have also replaced the divine names 'Yahweh' with YHVH, and 'God' with Elohim (and 'god' with el or elo'ah) where appropriate. Tolkien, or an editor, indicated where the Hebrew deviated from the Greek of the Septuagint. In such cases, I have added the English translation of the Hebrew in the footnote to the maintext. For references to Christian literature as published in the Jerusalem Bible, please consult the latter. –Aharon N. Varady
+This is the Masoretic text of Megillat Yonah set side-by-side with its translation, made by J.R.R. Tolkien for the Jerusalem Bible (1966). I have replaced anglicized names with romanizations from the Hebrew and replaced the "castor-oil plant" with the mysterious hapax legomenon 'qiqayon' in the Hebrew. I have also replaced the divine names 'Yahweh' with YHVH, and 'God' with Elohim (and 'god' with el or <em>elo'ah</em>) where appropriate. Tolkien, or an editor, indicated where the Hebrew deviated from the Greek of the Septuagint. In such cases, I have added the English translation of the Hebrew in the footnote to the maintext. For references to Christian literature as published in the Jerusalem Bible, please consult the latter. –Aharon N. Varady
 
 Megillat Yonah is traditionally read on Yom haKippurim.
 

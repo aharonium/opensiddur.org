@@ -41,7 +41,7 @@ Parashat Qedoshim (Leviticus 19:1-20:26) in the annual Torah reading cycle is pr
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="h">19 <sup>1</sup>&nbsp;YHVH spoke to Mosheh, saying: <sup>2</sup>&nbsp;"Speak to the entire community of the Children of Yisrael, and say to them: 'Holy are you to be, for holy am I, YHVH your elo'ah!'"</span>
+<span class="h">19 <sup>1</sup>&nbsp;YHVH spoke to Mosheh, saying: <sup>2</sup>&nbsp;"Speak to the entire community of the Children of Yisrael, and say to them: 'Holy are you to be, for holy am I, YHVH your <em>elo'ah</em>!'"</span>
 </div></td></tr>
 
 
@@ -52,7 +52,7 @@ Parashat Qedoshim (Leviticus 19:1-20:26) in the annual Torah reading cycle is pr
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="h"><sup>3</sup>&nbsp;"Each-man — his mother and his father you are to hold-in-reverence, and my Shabbatot you are to keep: I am YHVH your elo'ah!"</span>
+<span class="h"><sup>3</sup>&nbsp;"Each-man — his mother and his father you are to hold-in-reverence, and my Shabbatot you are to keep: I am YHVH your <em>elo'ah</em>!"</span>
 </div></td></tr>
 
 
@@ -63,7 +63,7 @@ Parashat Qedoshim (Leviticus 19:1-20:26) in the annual Torah reading cycle is pr
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="h"><sup>4</sup>&nbsp;"Do not turn-your-faces to elilim/totems, and molten elo'ah you are not to make yourselves, I am YHVH your elo'ah!"</span>
+<span class="h"><sup>4</sup>&nbsp;"Do not turn-your-faces to elilim/totems, and molten <em>elo'ah</em> you are not to make yourselves, I am YHVH your <em>elo'ah</em>!"</span>
 </div></td></tr>
 
 
@@ -85,7 +85,7 @@ Parashat Qedoshim (Leviticus 19:1-20:26) in the annual Torah reading cycle is pr
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="h"><sup>9</sup>&nbsp;"Now when you harvest the harvest of your land, you are not to finish (to the) edge of your field in harvesting, the full-gathering of your harvest you are not to gather; <sup>10</sup>&nbsp;your vineyard you are not to glean, the break-off of your vineyard you are not to gather — rather, for the afflicted and for the sojourner you are to leave them, I am YHVH your elo'ah!"</span>
+<span class="h"><sup>9</sup>&nbsp;"Now when you harvest the harvest of your land, you are not to finish (to the) edge of your field in harvesting, the full-gathering of your harvest you are not to gather; <sup>10</sup>&nbsp;your vineyard you are not to glean, the break-off of your vineyard you are not to gather — rather, for the afflicted and for the sojourner you are to leave them, I am YHVH your <em>elo'ah</em>!"</span>
 </div></td></tr>
 
 
@@ -96,7 +96,7 @@ Parashat Qedoshim (Leviticus 19:1-20:26) in the annual Torah reading cycle is pr
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="p"><sup>11</sup>&nbsp;"You are not to steal, you are not to lie, you are not to deal-falsely, each-man with his fellow! <sup>12</sup>&nbsp;You are not to swear by my name falsely, thus profaning the name of your elo'ah — I am YHVH!"</span>
+<span class="p"><sup>11</sup>&nbsp;"You are not to steal, you are not to lie, you are not to deal-falsely, each-man with his fellow! <sup>12</sup>&nbsp;You are not to swear by my name falsely, thus profaning the name of your <em>elo'ah</em> — I am YHVH!"</span>
 </div></td></tr>
 
 
@@ -107,7 +107,7 @@ Parashat Qedoshim (Leviticus 19:1-20:26) in the annual Torah reading cycle is pr
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="p"><sup>13</sup>&nbsp;"You are not to withhold (property from) your neighbor, you are not to commit-robbery. You are not to keep-overnight the working-wages of a hired-hand with you until morning. <sup>14</sup>&nbsp;You are not to insult the deaf, before the blind you are not to place a stumbling-block: rather, you are to hold your elo'ah in reverence; I am YHVH!"</span>
+<span class="p"><sup>13</sup>&nbsp;"You are not to withhold (property from) your neighbor, you are not to commit-robbery. You are not to keep-overnight the working-wages of a hired-hand with you until morning. <sup>14</sup>&nbsp;You are not to insult the deaf, before the blind you are not to place a stumbling-block: rather, you are to hold your <em>elo'ah</em> in reverence; I am YHVH!"</span>
 </div></td></tr>
 
 
@@ -162,7 +162,7 @@ Parashat Qedoshim (Leviticus 19:1-20:26) in the annual Torah reading cycle is pr
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="h"><sup>23</sup>&nbsp;"Now when you enter the land, and plant any-kind of tree for eating, you are to regard its fruit (like) a foreskin, a foreskin. For three years it is to be considered-foreskinned for you, you are not to eat (it). <sup>24</sup>&nbsp;And in the fourth year shall all its fruit be a holy-portion, (for) jubilation for YHVH; <sup>25</sup>&nbsp;in the fifth year may you eat its fruit, to add for you its produce, I am YHVH your elo'ah!"</span>
+<span class="h"><sup>23</sup>&nbsp;"Now when you enter the land, and plant any-kind of tree for eating, you are to regard its fruit (like) a foreskin, a foreskin. For three years it is to be considered-foreskinned for you, you are not to eat (it). <sup>24</sup>&nbsp;And in the fourth year shall all its fruit be a holy-portion, (for) jubilation for YHVH; <sup>25</sup>&nbsp;in the fifth year may you eat its fruit, to add for you its produce, I am YHVH your <em>elo'ah</em>!"</span>
 </div></td></tr>
 
 
@@ -195,7 +195,7 @@ Parashat Qedoshim (Leviticus 19:1-20:26) in the annual Torah reading cycle is pr
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="h"><sup>31</sup>&nbsp;"Do not turn-your-faces to ghosts, of favorable-spirits do not inquire, to become-tamei through them, I am YHVH your elo'ah!"</span>
+<span class="h"><sup>31</sup>&nbsp;"Do not turn-your-faces to ghosts, of favorable-spirits do not inquire, to become-tamei through them, I am YHVH your <em>elo'ah</em>!"</span>
 </div></td></tr>
 
 
@@ -206,7 +206,7 @@ Parashat Qedoshim (Leviticus 19:1-20:26) in the annual Torah reading cycle is pr
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="p"><sup>32</sup>&nbsp;"In the face of the gray-hair, you are to rise, you are to honor the face of the elderly, thus holding your elo'ah in reverence, I am YHVH!"</span>
+<span class="p"><sup>32</sup>&nbsp;"In the face of the gray-hair, you are to rise, you are to honor the face of the elderly, thus holding your <em>elo'ah</em> in reverence, I am YHVH!"</span>
 </div></td></tr>
 
 
@@ -217,7 +217,7 @@ Parashat Qedoshim (Leviticus 19:1-20:26) in the annual Torah reading cycle is pr
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="h"><sup>33</sup>&nbsp;"Now when there sojourns with you a sojourner in your land, you are not to maltreat him; <sup>34</sup>&nbsp;like the native-born among you shall he be to you, the sojourner that sojourns with you; be-loving to him (as one) like yourself, for sojourners were you in the land of Mitsrayim. I am YHVH your elo'ah!"</span>
+<span class="h"><sup>33</sup>&nbsp;"Now when there sojourns with you a sojourner in your land, you are not to maltreat him; <sup>34</sup>&nbsp;like the native-born among you shall he be to you, the sojourner that sojourns with you; be-loving to him (as one) like yourself, for sojourners were you in the land of Mitsrayim. I am YHVH your <em>elo'ah</em>!"</span>
 </div></td></tr>
 
 
@@ -228,7 +228,7 @@ Parashat Qedoshim (Leviticus 19:1-20:26) in the annual Torah reading cycle is pr
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="h"><sup>35</sup>&nbsp;"You are not to commit corruption in justice, in measure, weight, or capacity; <sup>36</sup>&nbsp;scales of equity, weighing-stones of equity, an efa of equity and a hin of equity you shall have. I am YHVH your elo'ah, who brought you out of the land of Mitsrayim!</span> <span class="p"><sup>37</sup>&nbsp;You are to keep all my laws and all my regulations, and observe them, I am YHVH!"</span>
+<span class="h"><sup>35</sup>&nbsp;"You are not to commit corruption in justice, in measure, weight, or capacity; <sup>36</sup>&nbsp;scales of equity, weighing-stones of equity, an efa of equity and a hin of equity you shall have. I am YHVH your <em>elo'ah</em>, who brought you out of the land of Mitsrayim!</span> <span class="p"><sup>37</sup>&nbsp;You are to keep all my laws and all my regulations, and observe them, I am YHVH!"</span>
 </div></td></tr>
 
 
@@ -239,7 +239,7 @@ Parashat Qedoshim (Leviticus 19:1-20:26) in the annual Torah reading cycle is pr
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="h">20 <sup>1</sup>&nbsp;YHVH spoke to Mosheh, saying: <sup>2</sup>&nbsp;"And to the Children of Yisrael you are to say: 'Any-man, any-man of the Children of Yisrael and of the sojourners that sojourn in Yisrael that gives of his seed-offspring to the Molekh is to be put-to-death, yes, death; the People of the Land are to pelt him with stones. <sup>3</sup>&nbsp;As for me, I will direct my face against that man and will cut him off from amid his kinspeople, since of his seed he has given to the Molekh with the result that he makes my Holy-shrine tamei and profanes my holy name. <sup>4</sup>&nbsp;Now if the People of the Land should hide, yes, hide their eyes from that man when he gives of his seed to the Molekh, by not putting him to death, <sup>5</sup>&nbsp;I myself will set my face against that man and against his clan, and will cut off him and all who go whoring along with him, to whore after the Molekh, from amid their kinspeople. <sup>6</sup>&nbsp;And the person who turns-his-face to ghosts or to familiar-spirits, to whore after them, I will direct my face against that person and will cut him off from amid his kinspeople! <sup>7</sup>&nbsp;So you are to hallow-yourselves, you are to be holy, for I YHVH am your elo'ah!'"</span>
+<span class="h">20 <sup>1</sup>&nbsp;YHVH spoke to Mosheh, saying: <sup>2</sup>&nbsp;"And to the Children of Yisrael you are to say: 'Any-man, any-man of the Children of Yisrael and of the sojourners that sojourn in Yisrael that gives of his seed-offspring to the Molekh is to be put-to-death, yes, death; the People of the Land are to pelt him with stones. <sup>3</sup>&nbsp;As for me, I will direct my face against that man and will cut him off from amid his kinspeople, since of his seed he has given to the Molekh with the result that he makes my Holy-shrine tamei and profanes my holy name. <sup>4</sup>&nbsp;Now if the People of the Land should hide, yes, hide their eyes from that man when he gives of his seed to the Molekh, by not putting him to death, <sup>5</sup>&nbsp;I myself will set my face against that man and against his clan, and will cut off him and all who go whoring along with him, to whore after the Molekh, from amid their kinspeople. <sup>6</sup>&nbsp;And the person who turns-his-face to ghosts or to familiar-spirits, to whore after them, I will direct my face against that person and will cut him off from amid his kinspeople! <sup>7</sup>&nbsp;So you are to hallow-yourselves, you are to be holy, for I YHVH am your <em>elo'ah</em>!'"</span>
 </div></td></tr>
 
 
@@ -371,7 +371,7 @@ Parashat Qedoshim (Leviticus 19:1-20:26) in the annual Torah reading cycle is pr
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="h"><sup>22</sup>&nbsp;"You are to keep all my laws and all my regulations, and observe them, that the land not vomit you out into which I am bringing you to settle. <sup>23</sup>&nbsp;You are not to walk by the laws of the nations that I am sending-out before you, for all these they did, and (so) I abhorred them, <sup>24</sup>&nbsp;so I say to you: 'It is you who will possess their fertile-ground, I myself will give it to you, to take-possession of it, a land flowing with milk and honey. I am YHVH your elo'ah, who has separated you from the (other) peoples!' <sup>25</sup>&nbsp;So you are to separate between the pure animals and the tamei-ones, and between the tamei birds and the pure ones, that you not make your selves detestable through animal or bird or anything with which the fertile-ground stirs, that I have separated for you to treat-as-tamei. <sup>26</sup>&nbsp;You are to be holy to me, for holy am I, YHVH; I have separated you from the (other) peoples to be mine!"</span>
+<span class="h"><sup>22</sup>&nbsp;"You are to keep all my laws and all my regulations, and observe them, that the land not vomit you out into which I am bringing you to settle. <sup>23</sup>&nbsp;You are not to walk by the laws of the nations that I am sending-out before you, for all these they did, and (so) I abhorred them, <sup>24</sup>&nbsp;so I say to you: 'It is you who will possess their fertile-ground, I myself will give it to you, to take-possession of it, a land flowing with milk and honey. I am YHVH your <em>elo'ah</em>, who has separated you from the (other) peoples!' <sup>25</sup>&nbsp;So you are to separate between the pure animals and the tamei-ones, and between the tamei birds and the pure ones, that you not make your selves detestable through animal or bird or anything with which the fertile-ground stirs, that I have separated for you to treat-as-tamei. <sup>26</sup>&nbsp;You are to be holy to me, for holy am I, YHVH; I have separated you from the (other) peoples to be mine!"</span>
 </div></td></tr>
 
 

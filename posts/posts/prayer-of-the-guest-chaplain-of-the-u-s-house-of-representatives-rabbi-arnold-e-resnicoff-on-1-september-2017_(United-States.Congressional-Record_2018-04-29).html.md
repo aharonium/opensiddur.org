@@ -171,7 +171,7 @@ none less human than our own.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-And may we say, amen.
+And may we say, <em>amen</em>.
 </div></td></tr>
 </tbody></table>
 

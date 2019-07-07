@@ -106,7 +106,7 @@ Parashat Qoraḥ (Numbers 16:1-18:32) in the annual Torah reading cycle is the f
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="p"><sup>20</sup>&nbsp;and YHVH said to Mosheh and to Aharon, saying: <sup>21</sup>&nbsp;"Separate (yourselves) from the midst of this community, that I may finish them off in an instant!" <sup>22</sup>&nbsp;They flung themselves on their faces and said: "O El, elo'ah of the spirits of all flesh, when one man sins, at the entire community will you be furious?"</span>
+<span class="p"><sup>20</sup>&nbsp;and YHVH said to Mosheh and to Aharon, saying: <sup>21</sup>&nbsp;"Separate (yourselves) from the midst of this community, that I may finish them off in an instant!" <sup>22</sup>&nbsp;They flung themselves on their faces and said: "O El, <em>elo'ah</em> of the spirits of all flesh, when one man sins, at the entire community will you be furious?"</span>
 </div></td></tr>
 
 

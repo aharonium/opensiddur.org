@@ -17,7 +17,7 @@ Link: <a href="http://opensiddur.org/?p=14019">http://opensiddur.org/?p=14019</a
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
-Great God! You performed miracles by water many times: the Righteous Noaḥ was saved from the flood, Moshe our Master was drawn from the water, the Well of Miriam went along with the Jews through the desert [providing] water. Show your miracle today too, [that] I be helped through these waters, to be rewarded with a son who will be wholesomely righteous, who will learn Torah day and night, [and] who will illuminate for me after my long days a straight path into Paradise[foot]also an allusion to reciting Kaddish[/foot]. In his merit, may I merit to sit with the Matriarchs in one company in the World to Come — Amen.
+Great God! You performed miracles by water many times: the Righteous Noaḥ was saved from the flood, Moshe our Master was drawn from the water, the Well of Miriam went along with the Jews through the desert [providing] water. Show your miracle today too, [that] I be helped through these waters, to be rewarded with a son who will be wholesomely righteous, who will learn Torah day and night, [and] who will illuminate for me after my long days a straight path into Paradise[foot]also an allusion to reciting Kaddish[/foot]. In his merit, may I merit to sit with the Matriarchs in one company in the World to Come — <em>Amen</em>.
 </div></td>
 </tr>
 </tbody></table>

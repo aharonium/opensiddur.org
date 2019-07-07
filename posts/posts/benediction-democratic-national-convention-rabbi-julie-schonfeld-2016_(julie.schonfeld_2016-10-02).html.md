@@ -117,7 +117,7 @@ Help us to choose wisely,
 to walk in your ways 
 which are paths of pleasantness 
 and peace, 
-and let us say Amen.
+and let us say <em>Amen</em>.
 </div></td></tr>
 </tbody></table>
 

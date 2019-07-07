@@ -62,7 +62,7 @@ I beseech you, God, I trust in your compassion and I ask that you hear the bitte
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-This means, before they call, I will answer. El, full of compassion, have mercy on me and accept my plea. Accept this confession of my bitter sins, for I have mocked your holy mitsvot. I did not observe the mitsvot which you commanded us. Lord of the whole world, before I begin to confess before you, I fall upon my face[foot]“Falling on one’s face” is found in the Yom Kippur liturgy and in the daily supplication taḥanun; cf. Deuteronomy 9:18 and Joshua 7:6.[/foot] and beseech you that your compassion should be stronger than your anger. Hear my confession with great mercy. Open my mouth that I may confess properly. Omeyn.
+This means, before they call, I will answer. El, full of compassion, have mercy on me and accept my plea. Accept this confession of my bitter sins, for I have mocked your holy mitsvot. I did not observe the mitsvot which you commanded us. Lord of the whole world, before I begin to confess before you, I fall upon my face[foot]“Falling on one’s face” is found in the Yom Kippur liturgy and in the daily supplication taḥanun; cf. Deuteronomy 9:18 and Joshua 7:6.[/foot] and beseech you that your compassion should be stronger than your anger. Hear my confession with great mercy. Open my mouth that I may confess properly. <em>Omeyn</em>.
 </div></td></tr>
 
 
@@ -84,7 +84,7 @@ This means, before they call, I will answer. El, full of compassion, have mercy 
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Treat me with lovingkindness and judge me with great mercy. I beseech you to accept my plea, for I have no defender before your Holy Name, other than your holy attribute of mercy. I therefore pray that you accept my confession and open the gates of repentance[foot]Midrash, Genesis Rabbah 38:14 and Deuteronomy Rabbah 2:12.[/foot] and the gates of the seven heavens,[foot]Louis Ginzberg, Legends of the Jews, V, 9-12.[/foot] just as you opened the gates of heaven when Yisro’el received the Torah on Har Sinai. And I also beseech you to accept my bitter tears, just as you accepted the tears of the angels who wept when Avraham Avinu brought his beloved son Yitsḥak to the binding. The angels’ tears fell on Avraham’s knife and did not let him slaughter his son Yitsḥak.[foot]Legends, I, 281.[/foot] So, too, may my tears fall before you and prevent me and my husband and my children and all my good friends from being taken away from this world. I beseech you to have mercy on me and that you yourself should be my defender in the trial in which you will judge me.[foot]Babylonian Talmud, Rosh Hashanah 16b[/foot] Accept my plea and forgive me my sins. Omeyn.
+Treat me with lovingkindness and judge me with great mercy. I beseech you to accept my plea, for I have no defender before your Holy Name, other than your holy attribute of mercy. I therefore pray that you accept my confession and open the gates of repentance[foot]Midrash, Genesis Rabbah 38:14 and Deuteronomy Rabbah 2:12.[/foot] and the gates of the seven heavens,[foot]Louis Ginzberg, Legends of the Jews, V, 9-12.[/foot] just as you opened the gates of heaven when Yisro’el received the Torah on Har Sinai. And I also beseech you to accept my bitter tears, just as you accepted the tears of the angels who wept when Avraham Avinu brought his beloved son Yitsḥak to the binding. The angels’ tears fell on Avraham’s knife and did not let him slaughter his son Yitsḥak.[foot]Legends, I, 281.[/foot] So, too, may my tears fall before you and prevent me and my husband and my children and all my good friends from being taken away from this world. I beseech you to have mercy on me and that you yourself should be my defender in the trial in which you will judge me.[foot]Babylonian Talmud, Rosh Hashanah 16b[/foot] Accept my plea and forgive me my sins. <em>Omeyn</em>.
 </div></td></tr>
 
 
@@ -106,7 +106,7 @@ Treat me with lovingkindness and judge me with great mercy. I beseech you to acc
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-May your great compassion protect me. I am very frightened because of my great sins. I have not deserved your mercy because of my deeds. I do not know how to begin to beseech you to forgive me. May my plea be accepted by you for the sake of the merits of my forefathers. As it is written in the holy Torah: “And I shall be gracious and I shall remember the merits of the fathers for the sake of their children and their children’s children.”[foot]Cf. Exodus 20:5-6 and Psalms 103:17.[/foot] You are God, our God and God of our ancestors. God, our consoler, have mercy upon us, console us, and bring us joy. Omeyn.
+May your great compassion protect me. I am very frightened because of my great sins. I have not deserved your mercy because of my deeds. I do not know how to begin to beseech you to forgive me. May my plea be accepted by you for the sake of the merits of my forefathers. As it is written in the holy Torah: “And I shall be gracious and I shall remember the merits of the fathers for the sake of their children and their children’s children.”[foot]Cf. Exodus 20:5-6 and Psalms 103:17.[/foot] You are God, our God and God of our ancestors. God, our consoler, have mercy upon us, console us, and bring us joy. <em>Omeyn</em>.
 </div></td></tr>
 
 
@@ -194,7 +194,7 @@ How can I bring myself to rise early to plead before your Holy Name? Nevertheles
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-All the gates are locked but the gate of tears is not locked. And so, merciful Father, accept my tears and place them in a jug and wash away our sins with these tears. Move from the seat of your attribute of justice to the seat of your attribute of mercy.[foot]Midrash, Leviticus Rabbah 29. God ascends to the Throne of Mercy when He hears the shofar.[/foot] Omeyn.
+All the gates are locked but the gate of tears is not locked. And so, merciful Father, accept my tears and place them in a jug and wash away our sins with these tears. Move from the seat of your attribute of justice to the seat of your attribute of mercy.[foot]Midrash, Leviticus Rabbah 29. God ascends to the Throne of Mercy when He hears the shofar.[/foot] <em>Omeyn</em>.
 </div></td></tr>
 
 
@@ -216,7 +216,7 @@ All the gates are locked but the gate of tears is not locked. And so, merciful F
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-May my plea come near to you, and may no evil angel or accuser be able to come between my plea and the Throne of Glory. May you yourself stretch out your hand to receive my prayer so that it should not have to pass through the angels who were created by my wicked deeds.[foot]Cf. Psalms 78:49.[/foot] May they not take away my prayer or prevent it from reaching you. I beseech you to put your sword back into its sheath and to place your hand over our little children. Omeyn.
+May my plea come near to you, and may no evil angel or accuser be able to come between my plea and the Throne of Glory. May you yourself stretch out your hand to receive my prayer so that it should not have to pass through the angels who were created by my wicked deeds.[foot]Cf. Psalms 78:49.[/foot] May they not take away my prayer or prevent it from reaching you. I beseech you to put your sword back into its sheath and to place your hand over our little children. <em>Omeyn</em>.
 </div></td></tr>
 
 
@@ -282,7 +282,7 @@ See my suffering and help me. Accept my plea. I know that I am not worthy of ope
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-With my whole heart, I call upon you that you may continue to help me as you have until now. I plead to you as a child pleads to a father. Answer me. Have mercy upon me like a father upon his children. As it is written: “As a father has pity upon his children,[foot]Psalms 103:13.[/foot] so does the Lord pity us. Have compassion upon us.” Omeyn.
+With my whole heart, I call upon you that you may continue to help me as you have until now. I plead to you as a child pleads to a father. Answer me. Have mercy upon me like a father upon his children. As it is written: “As a father has pity upon his children,[foot]Psalms 103:13.[/foot] so does the Lord pity us. Have compassion upon us.” <em>Omeyn</em>.
 </div></td></tr>
 
 
@@ -304,7 +304,7 @@ With my whole heart, I call upon you that you may continue to help me as you hav
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Take away from me, God, my God, your anger and your great wrath. Accept my plea as I beg you to forgive my sins which I shall never again commit. I will observe your mitsvot, and I beseech you to strengthen my heart to fulfill your mitsvot as you have commanded. The acronym of these mitsvot is ḥ-n-h.[foot]Taking ḥallah, observing menstrual purity, and lighting the candles.[/foot] May you strengthen my hands to give tsedakah and to light candles, and may you strengthen my feet that I may go to shut to praise you. Omeyn.
+Take away from me, God, my God, your anger and your great wrath. Accept my plea as I beg you to forgive my sins which I shall never again commit. I will observe your mitsvot, and I beseech you to strengthen my heart to fulfill your mitsvot as you have commanded. The acronym of these mitsvot is ḥ-n-h.[foot]Taking ḥallah, observing menstrual purity, and lighting the candles.[/foot] May you strengthen my hands to give tsedakah and to light candles, and may you strengthen my feet that I may go to shut to praise you. <em>Omeyn</em>.
 </div></td></tr>
 
 
@@ -326,7 +326,7 @@ Take away from me, God, my God, your anger and your great wrath. Accept my plea 
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-What should we say and what should we request? I know that I have committed unworthy acts. But I rely on the merits of my little children who will study Torah, that through their merits you may help me, so that I may never have any sorrow or lamentation, but only happiness and joy. Omeyn.
+What should we say and what should we request? I know that I have committed unworthy acts. But I rely on the merits of my little children who will study Torah, that through their merits you may help me, so that I may never have any sorrow or lamentation, but only happiness and joy. <em>Omeyn</em>.
 </div></td></tr>
 
 
@@ -348,7 +348,7 @@ What should we say and what should we request? I know that I have committed unwo
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-I praise you with all my heart for you, God, are the protector of all people and you provide for all. You forgive all the sins we have committed, yet you are hidden from us all. You hear the cries of the poor. Though you are holy and awesome, I beseech your dear Name to allow the attribute of mercy to enter into your attribute of justice. For, just as one puts a little sweet stuff into a sharp-tasting food, so, too, may our deeds become sweetened. Omeyn.
+I praise you with all my heart for you, God, are the protector of all people and you provide for all. You forgive all the sins we have committed, yet you are hidden from us all. You hear the cries of the poor. Though you are holy and awesome, I beseech your dear Name to allow the attribute of mercy to enter into your attribute of justice. For, just as one puts a little sweet stuff into a sharp-tasting food, so, too, may our deeds become sweetened. <em>Omeyn</em>.
 </div></td></tr>
 
 
@@ -370,7 +370,7 @@ I praise you with all my heart for you, God, are the protector of all people and
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Do not punish me with your anger for your Name is the True Judge.[foot]Babylonian Talmud, Berakhot 20.[/foot] Your judgment is true and you act with grace and truth when you forgive our sins. Therefore, I rejoice in my hope that you will forgive my sins, for I regret them. I will not sin any more; rather, I will praise you and serve you with all my heart. Omeyn.
+Do not punish me with your anger for your Name is the True Judge.[foot]Babylonian Talmud, Berakhot 20.[/foot] Your judgment is true and you act with grace and truth when you forgive our sins. Therefore, I rejoice in my hope that you will forgive my sins, for I regret them. I will not sin any more; rather, I will praise you and serve you with all my heart. <em>Omeyn</em>.
 </div></td></tr>
 
 
@@ -414,7 +414,7 @@ I distanced myself from your mitsvot. I have sinned. I mocked your dear mitsvot.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Let your compassion stand by your maidservant. I bow down and beseech your favor. How can I not be fearful, how can I control my trembling and my awe when I will have to stand in judgment before the heavenly court to answer for my sins? But you, Almighty God, show compassion in your judgment. Therefore, have mercy on me and grant me and my husband and my children life and health. Omeyn.
+Let your compassion stand by your maidservant. I bow down and beseech your favor. How can I not be fearful, how can I control my trembling and my awe when I will have to stand in judgment before the heavenly court to answer for my sins? But you, Almighty God, show compassion in your judgment. Therefore, have mercy on me and grant me and my husband and my children life and health. <em>Omeyn</em>.
 </div></td></tr>
 
 
@@ -458,7 +458,7 @@ Take away your anger from me. May you silence Satan, who constantly accuses us a
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-I have become one with my evil deeds, for I have allowed the yetser hara to seduce me. I did not think about having to stand in judgment, but only followed the passions of my heart. Ribono shel Olam, were I to wish to confess all my sins before your Holy Name, the days would go by and I would not have completed the accounting of my bitter transgressions, which are so numerous. There are the sins I committed intentionally and those I committed unintentionally.[foot]Cf. the al khet litany in the High Holy Day liturgy.[/foot] Ribono shel Olam, I beseech you. As I have washed my sins with my tears, so may you cleanse me from sin. Omeyn.
+I have become one with my evil deeds, for I have allowed the yetser hara to seduce me. I did not think about having to stand in judgment, but only followed the passions of my heart. Ribono shel Olam, were I to wish to confess all my sins before your Holy Name, the days would go by and I would not have completed the accounting of my bitter transgressions, which are so numerous. There are the sins I committed intentionally and those I committed unintentionally.[foot]Cf. the al khet litany in the High Holy Day liturgy.[/foot] Ribono shel Olam, I beseech you. As I have washed my sins with my tears, so may you cleanse me from sin. <em>Omeyn</em>.
 </div></td></tr>
 
 
@@ -480,7 +480,7 @@ I have become one with my evil deeds, for I have allowed the yetser hara to sedu
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-As I open my lips to ask for your favor, I begin to speak with great trembling. Woe unto me that I did not stand in awe before my two witnesses, the two angels who will testify about my bitter sins when I stand in judgment, when I am shown the list of my sins, written by my own hand.[foot]Cf. the u’nsane tokef prayer in the High Holy Day liturgy.[/foot] Woe unto me. How did I not have mercy on my little children? For I may - ḥas vesholem - be punished for my sins. Therefore I plead for your grace, that you may have mercy upon me. Omeyn.
+As I open my lips to ask for your favor, I begin to speak with great trembling. Woe unto me that I did not stand in awe before my two witnesses, the two angels who will testify about my bitter sins when I stand in judgment, when I am shown the list of my sins, written by my own hand.[foot]Cf. the u’nsane tokef prayer in the High Holy Day liturgy.[/foot] Woe unto me. How did I not have mercy on my little children? For I may - ḥas vesholem - be punished for my sins. Therefore I plead for your grace, that you may have mercy upon me. <em>Omeyn</em>.
 </div></td></tr>
 
 
@@ -502,7 +502,7 @@ As I open my lips to ask for your favor, I begin to speak with great trembling. 
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-What can I depend on, if not your mercy, in such bitter days when each person is investigated and each one’s deeds are read aloud? Upon what can I depend, if not on repentance, which you created before you created sins? Therefore, I accept the obligation to repent and to serve you with all my heart. Omeyn.
+What can I depend on, if not your mercy, in such bitter days when each person is investigated and each one’s deeds are read aloud? Upon what can I depend, if not on repentance, which you created before you created sins? Therefore, I accept the obligation to repent and to serve you with all my heart. <em>Omeyn</em>.
 </div></td></tr>
 
 
@@ -568,7 +568,7 @@ I regret the evil deeds which I have committed. With what kind of gift can I be 
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-I implore that your compassion may accompany us to judgment, for otherwise we will not be able to stand before that judgment. May your grace and compassion rise early and may you personally judge each of us. May your eyes see uprightness and may you grant us favor. You are our Father and we are your children. How can you listen to our crying? Be merciful to us and listen patiently to our plea. Omeyn.
+I implore that your compassion may accompany us to judgment, for otherwise we will not be able to stand before that judgment. May your grace and compassion rise early and may you personally judge each of us. May your eyes see uprightness and may you grant us favor. You are our Father and we are your children. How can you listen to our crying? Be merciful to us and listen patiently to our plea. <em>Omeyn</em>.
 </div></td></tr>
 
 
@@ -590,7 +590,7 @@ I implore that your compassion may accompany us to judgment, for otherwise we wi
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Have mercy upon us since we are your children. Have mercy upon us as a father does upon his children. And since we are your servants, you are obligated to have mercy upon us as a master does upon his servants. We are diminished every day. Awaken and help us. Omeyn.
+Have mercy upon us since we are your children. Have mercy upon us as a father does upon his children. And since we are your servants, you are obligated to have mercy upon us as a master does upon his servants. We are diminished every day. Awaken and help us. <em>Omeyn</em>.
 </div></td></tr>
 
 
@@ -656,7 +656,7 @@ May your grace and your compassion serve as defenders of Yisro’el, whose name 
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-I know that I have mocked your dear mitsvot. I have faith in your Holy Name that you will not be harsh. Let the verse that is written come to pass on my behalf: “God throws away the big sins.”[foot]Cf. Micah 7:19.[/foot] May our merits outweigh our sins. Omeyn.
+I know that I have mocked your dear mitsvot. I have faith in your Holy Name that you will not be harsh. Let the verse that is written come to pass on my behalf: “God throws away the big sins.”[foot]Cf. Micah 7:19.[/foot] May our merits outweigh our sins. <em>Omeyn</em>.
 </div></td></tr>
 
 
@@ -700,7 +700,7 @@ It is time to stand before your judgment. I beseech you, arise from the seat of 
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Accept my cry and my plea. I repent for my sins, so that it may come to pass, as it is written, that when one repents, one’s sins will be turned into merits. Omeyn.
+Accept my cry and my plea. I repent for my sins, so that it may come to pass, as it is written, that when one repents, one’s sins will be turned into merits. <em>Omeyn</em>.
 </div></td></tr>
 
 
@@ -722,7 +722,7 @@ Accept my cry and my plea. I repent for my sins, so that it may come to pass, as
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-With your righteousness may you erase the stains that I have made with my great sins upon the garment of my soul. How would our bitter death or - khas vekholile - the death of our little children, benefit you? What have we done to your Holy Name by means of our sins? Instead, we have only done evil to ourselves. Your Name remains holy and everlasting. Therefore, have mercy on us and let the verse come to pass: “You are near to those who call upon you with their pleas.”[foot]Psalms 145:18.[/foot] Have mercy upon your kingdom, for we are the sheep of your pasture.[foot]Cf. Psalms 23:1, 95:7, and 100:3.[/foot] May it come to pass for us: “The Redeemer will come to Tsiyon.”[foot]Isaiah 59:20.[/foot] Omeyn.
+With your righteousness may you erase the stains that I have made with my great sins upon the garment of my soul. How would our bitter death or - khas vekholile - the death of our little children, benefit you? What have we done to your Holy Name by means of our sins? Instead, we have only done evil to ourselves. Your Name remains holy and everlasting. Therefore, have mercy on us and let the verse come to pass: “You are near to those who call upon you with their pleas.”[foot]Psalms 145:18.[/foot] Have mercy upon your kingdom, for we are the sheep of your pasture.[foot]Cf. Psalms 23:1, 95:7, and 100:3.[/foot] May it come to pass for us: “The Redeemer will come to Tsiyon.”[foot]Isaiah 59:20.[/foot] <em>Omeyn</em>.
 </div></td></tr>
 </tbody></table>
 

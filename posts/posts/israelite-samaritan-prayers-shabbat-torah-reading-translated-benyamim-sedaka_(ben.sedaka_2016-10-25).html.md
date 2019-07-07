@@ -111,7 +111,7 @@ Your servants to whom You swore by Your own self.
 <em>(Then the first reader says):</em>
 
 You have done well, O petitioners and readers
-Continue saying Amen.
+Continue saying <em>Amen</em>.
 You will be blessed Shema Our Eloowem
 There is no Eloowwem but The One
 And the praise be to Him
@@ -126,7 +126,7 @@ Thanks to those who dwelt in the cave of Macphelaa
 Abraham and Yessac and Yaaqob.
 And thanks to Yoosef and our Master Moses
 Who received the Torah from Eloowwem
-Please say Amen.
+Please say <em>Amen</em>.
 
 <em>(Then the petitioners rest in their seats, and tea and cakes are served)</em>
 </div></td>

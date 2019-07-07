@@ -187,7 +187,7 @@ For your sake God of Life
 Let us choose Life.
 
 For you are Peace, your world is Peace and all that is yours is Peace,
-And so shall be your will and let us say Amen.
+And so shall be your will and let us say <em>Amen</em>.
 </td>
  
 <td style="vertical-align:top;" width="22%"><p />
@@ -197,7 +197,7 @@ Um Deinetwillen, G-tt des Lebens,
 Lass uns das Leben wählen.
 
 Denn Du bist Frieden, deine Welt ist Frieden, und alles was Dein ist Frieden.
-Und so möge Dein Wille geschehen, und lasst uns zusammen sagen: Amen.
+Und so möge Dein Wille geschehen, und lasst uns zusammen sagen: <em>Amen</em>.
 </div>
 </td>
 </tr>   <tr><td style="vertical-align:top;" width="22%">

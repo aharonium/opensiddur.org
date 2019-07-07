@@ -61,7 +61,7 @@ What I wanted was a baby-naming ceremony that did similar work; that is, that re
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-“I greatly rejoice in YHVH, my whole being exults in my elo'ah. For He has clothed me with garments of triumph, wrapped me in a robe of victory, like a bridegroom adorned with a turban, like a bride bedecked with her finery. For as the earth brings forth her growth and a garden makes the seed shoot up, so my Master YHVH will make victory and renown shoot up in the presence of all the nations.”[foot]Isaiah 61:10-11[/foot]
+“I greatly rejoice in YHVH, my whole being exults in my <em>elo'ah</em>. For He has clothed me with garments of triumph, wrapped me in a robe of victory, like a bridegroom adorned with a turban, like a bride bedecked with her finery. For as the earth brings forth her growth and a garden makes the seed shoot up, so my Master YHVH will make victory and renown shoot up in the presence of all the nations.”[foot]Isaiah 61:10-11[/foot]
 </div></td></tr>
 
 
@@ -94,7 +94,7 @@ What I wanted was a baby-naming ceremony that did similar work; that is, that re
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-“You shall be a glorious crown in the hand of YHVH, and a royal diadem in the palm of your God. Nevermore shall you be called Azuvah/Forsaken, nor shall you be called Shemamah/Desolate; but you shall be called Hephzibah/I delight in her, and your land Beulah/Espoused. For YHVH takes delight in you, and your land shall be espoused. As a youth espouses a maiden, your sons shall espouse you; and as a bridegroom rejoices over his bride, so will your elo'ah rejoice over you.”[foot]Isaiah 62:3-5[/foot]
+“You shall be a glorious crown in the hand of YHVH, and a royal diadem in the palm of your God. Nevermore shall you be called Azuvah/Forsaken, nor shall you be called Shemamah/Desolate; but you shall be called Hephzibah/I delight in her, and your land Beulah/Espoused. For YHVH takes delight in you, and your land shall be espoused. As a youth espouses a maiden, your sons shall espouse you; and as a bridegroom rejoices over his bride, so will your <em>elo'ah</em> rejoice over you.”[foot]Isaiah 62:3-5[/foot]
 </div></td></tr>
 
 
@@ -195,7 +195,7 @@ v’ki-e-manu,
 v’higianu lazman hazeh
 
 Blessed are You, 
-YHVH (Adonai) our elo'ah, 
+YHVH (Adonai) our <em>elo'ah</em>, 
 Master of the Universe, 
 who has given us life, 
 sustained us, 
@@ -229,7 +229,7 @@ May YHVH (Adonai) be delighted with you and give you peace.[foot]Cf. Numbers 6:2
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="instruction">All:</span> Amen!
+<span class="instruction">All:</span> <em>Amen</em>!
 </div></td></tr>
 </tbody></table>
 
