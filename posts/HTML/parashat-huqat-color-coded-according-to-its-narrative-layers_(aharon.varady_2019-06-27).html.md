@@ -26,7 +26,7 @@ According to the poetry of the Midrash Tanḥuma, Bereshit 1:1, the words of the
 <span class="b">&#11035; The most recent layer of text, is a post-exilic (pre-3rd century BCE) text that Dr. Yoreh refers to as the "Bridger" which supplements earlier strata with genealogies and popular myths, providing narrative bridges between distant story cycles. This 'B' layer is presented here in FUCHSIA.</span>
 
 
-Parashat Ḥuqat (Numbers 19:1-22:1) in the annual Torah reading cycle is the seventh parashah in Sefer Bamidbar. It is preceded by parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-bamidbar/parashat-qorah/parashat-qorah-color-coded-according-to-its-narrative-layers/">Qoraḥ</a> (Numbers 16:1-18:32). Parashat Balaq (Numbers 22:2-25:9) follows it. 
+Parashat Ḥuqat (Numbers 19:1-22:1) in the annual Torah reading cycle is the seventh parashah in Sefer Bamidbar. It is preceded by parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-bamidbar/parashat-qorah/parashat-qorah-color-coded-according-to-its-narrative-layers/">Qoraḥ</a> (Numbers 16:1-18:32). Parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-bamidbar/parashat-balaq/parashat-balaq-color-coded-according-to-its-narrative-layers/">Balaq</a> (Numbers 22:2-25:9) follows it. 
 </div>
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
@@ -105,7 +105,7 @@ Parashat Ḥuqat (Numbers 19:1-22:1) in the annual Torah reading cycle is the se
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="p"><sup>12</sup>&nbsp;Now YHVH said to Mosheh and to Aharon: "Because you did not have-trust in me to treat-me-as-holy before the eyes of the Children of Yisra'el, therefore: you (two) shall not bring this assembly into the land that I am giving them!" <sup>13</sup>&nbsp;Those were the Waters of Meriva/Quarreling, where the Children of Yisra'el quarreled with YHVH, and he was hallowed through them.</span>
+<span class="p"><sup>12</sup>&nbsp;Now YHVH said to Mosheh and to Aharon: "Because you did not have-trust in me to treat-me-as-holy before the eyes of the Children of Yisra'el, therefore: you (two) shall not bring this assembly into the land that I am giving them!" <sup>13</sup>&nbsp;Those were the Waters of Merivah/Quarreling, where the Children of Yisra'el quarreled with YHVH, and he was hallowed through them.</span>
 </div></td></tr>
 
 
@@ -138,7 +138,7 @@ Parashat Ḥuqat (Numbers 19:1-22:1) in the annual Torah reading cycle is the se
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="p"><sup>22</sup>&nbsp;They marched on from Qadesh, and they came, the Children of Yisra'el, the entire community, to Hill's Hill. <sup>23</sup>&nbsp;Now YHVH said to Mosheh and to Aharon at Hill's Hill, by the border of the land of Edom, saying: <sup>24</sup>&nbsp;"Let Aharon be gathered to his kinspeople, for he is not to enter the land that I am giving to the Children of Yisra'el — since you (both) rebelled against my orders at the Waters of Meriva. <sup>25</sup>&nbsp;Take Aharon and El'azar his son, and bring them up on Hill's Hill; <sup>26</sup>&nbsp;strip Aharon of his garments and clothe in them El'azar his son. Aharon will be gathered and will die there."</span>
+<span class="p"><sup>22</sup>&nbsp;They marched on from Qadesh, and they came, the Children of Yisra'el, the entire community, to Hill's Hill. <sup>23</sup>&nbsp;Now YHVH said to Mosheh and to Aharon at Hill's Hill, by the border of the land of Edom, saying: <sup>24</sup>&nbsp;"Let Aharon be gathered to his kinspeople, for he is not to enter the land that I am giving to the Children of Yisra'el — since you (both) rebelled against my orders at the Waters of Merivah. <sup>25</sup>&nbsp;Take Aharon and El'azar his son, and bring them up on Hill's Hill; <sup>26</sup>&nbsp;strip Aharon of his garments and clothe in them El'azar his son. Aharon will be gathered and will die there."</span>
 </div></td></tr>
 
 
@@ -193,7 +193,7 @@ Parashat Ḥuqat (Numbers 19:1-22:1) in the annual Torah reading cycle is the se
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="b"><sup>10</sup>&nbsp;The Children of Yisra'el marched on and encamped at Ovot. <sup>11</sup>&nbsp;They marched on from Ovot and encamped at Iyyei Ha-Avarim, in the wilderness that faces Moav; toward the rising of the sun. <sup>12</sup>&nbsp;From there they marched on and encamped at Wadi Zered. <sup>13</sup>&nbsp;From there they marched on and encamped across the Arnon that is in the wilderness, that goes out of the Amorite territory; for the Arnon is the border of Moav between Moav and the Emori. <sup>14</sup>&nbsp;Therefore it is said in the Book of the Wars of YHVH: . . . Vahev in Sufa, the wadis, Arnon, <sup>15</sup>&nbsp;along with its canyon wadis, that stretch along the settled-country of Ar, leaning on the territory of Moav. <sup>16</sup>&nbsp;From there to Be'er/The Well; that is the well of which YHVH said to Mosheh: "Gather the people, and I will give them water."</span>
+<span class="b"><sup>10</sup>&nbsp;The Children of Yisra'el marched on and encamped at Ovot. <sup>11</sup>&nbsp;They marched on from Ovot and encamped at Iyyei Ha-Avarim, in the wilderness that faces Moav; toward the rising of the sun. <sup>12</sup>&nbsp;From there they marched on and encamped at Wadi Zered. <sup>13</sup>&nbsp;From there they marched on and encamped across the Arnon that is in the wilderness, that goes out of the Emori territory; for the Arnon is the border of Moav between Moav and the Emori. <sup>14</sup>&nbsp;Therefore it is said in the Book of the Wars of YHVH: . . . Vahev in Sufa, the wadis, Arnon, <sup>15</sup>&nbsp;along with its canyon wadis, that stretch along the settled-country of Ar, leaning on the territory of Moav. <sup>16</sup>&nbsp;From there to Be'er/The Well; that is the well of which YHVH said to Mosheh: "Gather the people, and I will give them water."</span>
 </div></td></tr>
 
 
@@ -248,7 +248,7 @@ Parashat Ḥuqat (Numbers 19:1-22:1) in the annual Torah reading cycle is the se
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="e"><sup>25</sup>&nbsp;Yisra'el took all these towns and Yisra'el settled in all the Amorite towns — in Ḥeshbon and in all her daughter-villages;</span> <span class="b"><sup>26</sup>&nbsp;for Ḥeshbon-it was the town of Siḥon king of the Emori. He had made-war on a former king of Moav and had taken all his land from his hand, as far as the Arnon. <sup>27</sup>&nbsp;Therefore the parable-makers say: Come to Ḥeshbon! be built up, be established, Siḥon's town! <sup>28</sup>&nbsp;For fire went forth from Ḥeshbon, Flame from the city of Siḥon; devouring Ar of Moav, the inhabitants of the heights of Arnon. <sup>29</sup>&nbsp;Woe to you, Moav! You have perished, people of Kemosh! His sons (become) fugitives, His daughters, captives of the king of the Emori, Siḥon. <sup>30</sup>&nbsp;We shot them, Ḥeshbon perished as far as Divon, we desolated (them) as far as Nofaḥ, fire as far as Medeva!</span>
+<span class="e"><sup>25</sup>&nbsp;Yisra'el took all these towns and Yisra'el settled in all the Emori towns — in Ḥeshbon and in all her daughter-villages;</span> <span class="b"><sup>26</sup>&nbsp;for Ḥeshbon-it was the town of Siḥon king of the Emori. He had made-war on a former king of Moav and had taken all his land from his hand, as far as the Arnon. <sup>27</sup>&nbsp;Therefore the parable-makers say: Come to Ḥeshbon! be built up, be established, Siḥon's town! <sup>28</sup>&nbsp;For fire went forth from Ḥeshbon, Flame from the city of Siḥon; devouring Ar of Moav, the inhabitants of the heights of Arnon. <sup>29</sup>&nbsp;Woe to you, Moav! You have perished, people of Kemosh! His sons (become) fugitives, His daughters, captives of the king of the Emori, Siḥon. <sup>30</sup>&nbsp;We shot them, Ḥeshbon perished as far as Divon, we desolated (them) as far as Nofaḥ, fire as far as Medeva!</span>
 </div></td></tr>
 
 

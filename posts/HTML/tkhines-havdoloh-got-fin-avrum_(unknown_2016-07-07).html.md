@@ -57,7 +57,7 @@ Master of the universe! You are the one who gives strength to the weak! Give You
 </tbody></table>
 
 <hr />
-These translations of the tkhines read before havdalah were first published in the benscher, <em>Oneg Shabbes</em> (Philadelphia: 2014, Print-O-Craft). Got fin Avrum (a/k/a Got Fun Avrohom) has been attributed to Rav Levi Yitsḥok of Berditchev.
+These translations of the tkhines read before havdalah were first published in the bentsher, <em>Oneg Shabbes</em> (Philadelphia: 2014, Print-O-Craft). Got fin Avrum (a/k/a Got Fun Avrohom) has been attributed to Rav Levi Yitsḥok of Berditchev.
 
 </body>
 </html>

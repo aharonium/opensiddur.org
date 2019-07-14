@@ -15,7 +15,7 @@ The English translation of Isaiah's poem uses terms for Greek mythology - specif
 
 These readings would be performed as in a normal Torah service on weekdays, with two exceptions. Because of the nature of the Gregorian calendar, the Fourth of July often falls on a Saturday, in which case the first two parashiyot would be combined to form a special maftir, and the regular Shabbat haftarah would be replaced (unless falling during the three weeks, in which case the haftarot of retribution take precedence). 
 
-A more difficult problem is that the Fourth of July can often fall on the 17th of Tammuz, a fast day. When this occurs, the Fourth of July reading would occur in the morning. The first two aliyot would be equivalent, but the third aliyah would be extended from 26:3 to 26:46, including the Tochechah. There is in fact an ancient tradition of reading the Tochechah on fast days - see Megillah 31b - so this is appropriate. The haftarah would not be read. In the afternoon, the standard fast day reading and haftarah would be read.
+A more difficult problem is that the Fourth of July can often fall on the 17th of Tammuz, a fast day. When this occurs, the Fourth of July reading would occur in the morning. The first two aliyot would be equivalent, but the third aliyah would be extended from 26:3 to 26:48, including the Tochechah. There is in fact an ancient tradition of reading the Tochechah on fast days - see Megillah 31b - so this is appropriate. The haftarah would not be read. In the afternoon, the standard fast day reading and haftarah would be read.
 
 Note: “The CAUSE” is used to translate the Divine Name YHVH, based on the philosophical idea of God as the Prime Mover and on the interpretation of the Name as a causative form of the copula – “causes to be.”
 
@@ -29,8 +29,6 @@ Second Aliyah: Leviticus 25:14-19 [su_audio url="https://archive.org/download/Is
 Third Aliyah: Leviticus 26:42-48 [su_audio url="https://archive.org/download/IsaacGantwerkMayerScripturalReadingsForTheFourthOfJuly/Isaac%20Gantwerk%20Mayer%20-%20Scriptural%20Readings%20for%20the%20Fourth%20of%20July%20-%203%20-%20Third%20Aliyah%20%28Leviticus%2026v42-46%29.mp3" width="60%"]
 
 Haftarah: Isaiah 14:3-27 [su_audio url="https://archive.org/download/IsaacGantwerkMayerScripturalReadingsForTheFourthOfJuly/Isaac%20Gantwerk%20Mayer%20-%20Scriptural%20Readings%20for%20the%20Fourth%20of%20July%20-%204%20-%20Haftarah%20%28Isaiah%2014v3-27%29.mp3" width="60%"]
-
-
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
@@ -144,6 +142,5 @@ And it will be, on the day that the CAUSE grants you rest from your pain and tur
 The CAUSE of Multitudes has vowed this: Thus it will be: If I thought it, thus it is, and if I planned it, thus it comes to pass. To break Assyria in My land, on My mountain to crush him. And his yoke will drop from them, and his burden from their shoulders will drop. That is the plan planned for all the earth, that is the outstretched arm over all the nations. For the CAUSE of Multitudes has planned, who can foil? The Outstretched Arm is God's, so who can turn it away?
 </div></td></tr>
 </tbody></table>
-
 </body>
 </html>

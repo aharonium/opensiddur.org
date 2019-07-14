@@ -29,7 +29,7 @@ If you do drink from this mug, don't forget to prepare it as a holy vessel by sa
 בָּרוּךְ אַתָּה
  יְיָ אֶלֹהֵינוּ
  מֶלֶךְ הָעוֹלָם,
- אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו,
+ אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֺתָיו,
  וְצִוָנוּ עַל טְבִלַת כֶּלִי:
 </span></div></td>
 

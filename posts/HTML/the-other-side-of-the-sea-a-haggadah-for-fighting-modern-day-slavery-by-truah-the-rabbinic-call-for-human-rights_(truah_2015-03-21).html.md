@@ -728,7 +728,7 @@ Blessed are You ETERNAL our God, Master of time and space, who brings forth brea
 <table style="margin-left: auto;margin-right: auto;"><tbody>
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
-בָּרוּךְ אַתָּה ה’ אֱלֹהֵינוּ מֶלֶך הָעוֹלָם אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו וְצִוָּנוּ עַל נְטִילַת יָדָיִּם.
+בָּרוּךְ אַתָּה ה’ אֱלֹהֵינוּ מֶלֶך הָעוֹלָם אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֺתָיו וְצִוָּנוּ עַל נְטִילַת יָדָיִּם.
 </span></div>
 </td>
  
@@ -865,7 +865,7 @@ While in context this means gifts or loans from other people, it could also be u
 
 <h3>בָּרֵךְ Barech</h3>
 
-<em>Pour the third cup.</em> (Those wishing to say the full birkat hamazon can find its text easily in whatever siddur or bencher is handy.)
+<em>Pour the third cup.</em> (Those wishing to say the full birkat hamazon can find its text easily in whatever siddur or bentsher is handy.)
 
 <table style="margin-left: auto;margin-right: auto;"><tbody>
 <tr><td style="vertical-align:top;" width="46%">

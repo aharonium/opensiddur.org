@@ -39,7 +39,7 @@ Make sure left and right hands, with all “four species,” are joined. Recite 
 <table style="margin-left: auto;margin-right: auto;">
 <tbody>
 <tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
-בָּרוּךְ אַתָּה יְיָ אֱלֹהֵֽינוּ מֶֽלֶךְ הָעוֹלָם . אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו . וְצִוָּֽנוּ עַל נְטִילַת לוּלָב:‏
+בָּרוּךְ אַתָּה יְיָ אֱלֹהֵֽינוּ מֶֽלֶךְ הָעוֹלָם . אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֺתָיו . וְצִוָּֽנוּ עַל נְטִילַת לוּלָב:‏
 </span><em>Barukh atah Adonai Eloheinu melekh ha'olam asher kid'shanu b'mitzvotav v'tzivanu al netilat lulav.</em></div>
 </td>
  

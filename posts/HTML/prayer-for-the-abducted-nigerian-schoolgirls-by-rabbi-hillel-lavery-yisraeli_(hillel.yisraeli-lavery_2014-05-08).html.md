@@ -8,7 +8,7 @@ Link: <a href="http://opensiddur.org/?p=8919">http://opensiddur.org/?p=8919</a>
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+<table style="width:100%;margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: right;">Arabic</th><th style="text-align: left;">Igbo</th><th style="text-align: left;">English</th><th style="text-align: left;">Swedish</th></tr></thead>
 <tbody>
 <tr>

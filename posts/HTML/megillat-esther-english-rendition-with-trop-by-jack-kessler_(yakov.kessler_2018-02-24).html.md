@@ -94,7 +94,7 @@ This Megillah encourages involvement! The English text is simple and fun for all
 בָּרוּךְ אַתָּה 
 יְיָ אֱלֹהֵֽינוּ 
 מֶֽלֶךְ הָעוֹלָם, 
-אֲשֶׁר קִדְּשָֽׁנוּ בְּמִצְוֹתָיו, 
+אֲשֶׁר קִדְּשָֽׁנוּ בְּמִצְוֺתָיו, 
 וְצִוָּֽנוּ עַל מִקְרָא מְגִלָּה:‏
 </span></div></td>
  

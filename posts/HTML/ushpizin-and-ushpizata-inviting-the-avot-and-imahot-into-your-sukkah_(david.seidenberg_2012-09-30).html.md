@@ -144,7 +144,7 @@ Come in exalted holy guests, come in exalted holy fathers, come in exalted holy 
 G!d full of compassion, make your Presence, <em>Shekhinah</em>, rest among us, and spread over us a sukkah of compassion and peace. Encompass us with the radiance of the Shekhinah, heal the heavens from our wounding actions and purify us from our sins. As an eagle awakens its nest, may you awaken the flow of life-energy to flow upon your world to give life to all, and water them. Give the hungry their bread faithfully, and grant us merit to dwell many days on them earth. Blessed be <em>Yah</em> for all time, <em>Amen</em>, <em>Amen</em>.
     </div></td></tr>   <tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
 בכל סעודה מברך׃
-בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶה הָעוֺלָם, אֲשֶׁר קִדְּשָֽׁנוּ בְּמִצְוֹתָיו, וְצִוָּֽנוּ לֵישֵׁב בַסֻּכָּה.‏
+בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶה הָעוֺלָם, אֲשֶׁר קִדְּשָֽׁנוּ בְּמִצְוֺתָיו, וְצִוָּֽנוּ לֵישֵׁב בַסֻּכָּה.‏
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%"><div class="english">

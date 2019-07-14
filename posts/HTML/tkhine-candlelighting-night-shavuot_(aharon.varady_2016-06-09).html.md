@@ -102,7 +102,7 @@ Please, YHVH, let me merit to keep your Torah.
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="yiddish"><span lang="he">
-איך בּעט דיך דערבּאַרמדיגער גאָט זײ מיך מְזַכֶּה איך זאָל היטן דײַן הײליגע תּוֹרָה און די תרי״ג מִצְוֹת װאָס דו האָסט אונז געבּאָטן׃
+איך בּעט דיך דערבּאַרמדיגער גאָט זײ מיך מְזַכֶּה איך זאָל היטן דײַן הײליגע תּוֹרָה און די תרי״ג מִצְוֺת װאָס דו האָסט אונז געבּאָטן׃
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
@@ -212,7 +212,7 @@ Upon those who sacrificed their souls and lives for the sake of your holy Torah,
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="yiddish"><span lang="he">
-געדענק אונז ליבּער גאָט װאָס פיל פון דײַן פאָלק יִשְׂרָאֵל האָבּן איבּער געענטפערט זײער לײבּ און זײער ליבּן װעגן דעם הײליגקײט פון דײַן תּוֹרָה און דײנע מִצְוֹת זײ זאָלן חָלִילָה נישּׁט פאַרשּׁװעכן׃ 
+געדענק אונז ליבּער גאָט װאָס פיל פון דײַן פאָלק יִשְׂרָאֵל האָבּן איבּער געענטפערט זײער לײבּ און זײער ליבּן װעגן דעם הײליגקײט פון דײַן תּוֹרָה און דײנע מִצְוֺת זײ זאָלן חָלִילָה נישּׁט פאַרשּׁװעכן׃ 
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">

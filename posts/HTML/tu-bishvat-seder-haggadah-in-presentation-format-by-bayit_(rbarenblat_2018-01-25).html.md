@@ -199,7 +199,7 @@ giving it existence, enlivening it, causing it to grow.[foot]Quoted in Yitzhak B
 בָּרוּךְ אַתָּה 
 יהו״ה אֱלֹהֵינוּ 
 מֶלֶךְ הָעוֹלָם 
-אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו 
+אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֺתָיו 
 וְצִוָּנוּ עַל נְטִילַת יָדָיִם׃
 </span></div></td>
  

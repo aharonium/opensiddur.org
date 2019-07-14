@@ -120,7 +120,7 @@ Amen, so may it be Your will.
     
     
 <tr><td style="vertical-align:top" width="46%"><div class="liturgy"><span lang="he">
-קַדְּשֵׁנוּ בְּמִצְוֹתֶיךָ 
+קַדְּשֵׁנוּ בְּמִצְוֺתֶיךָ 
 וְתֵן חֶלְקֵנוּ בְּתוֹרָתֶךָ 
 שַׂבְּעֵנוּ מִטוּבֶךָ וְשַׂמַּח 
 נַפְשֵׁנוּ בִּישׁוּעָתֶךָ 

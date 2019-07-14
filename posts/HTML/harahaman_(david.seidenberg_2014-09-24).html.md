@@ -40,7 +40,7 @@ during the whole year of the Shmita.
 Here's a <em>niggun</em> (melody) by Nili Simḥai for the haraḥaman, sung by Rabbi David Seidenberg.
 [audio mp3="https://opensiddur.org/wp-content/uploads/2014/09/David-Seidenberg-and-Nili-Simhai-Harachaman-for-the-Shmita-Year.mp3"][/audio]
 
-For your festive meal, you can also print out <a href="http://neohasid.org/pdf/Shmita-Harachaman.pdf">this PDF</a> and add the Haraḥaman prayer to your <em>birkon</em> (benscher).
+For your festive meal, you can also print out <a href="http://neohasid.org/pdf/Shmita-Harachaman.pdf">this PDF</a> and add the Haraḥaman prayer to your <em>birkon</em> (bentsher).
 
 <h3>Addition to the Rosh Hashanah Seder</h3>
 

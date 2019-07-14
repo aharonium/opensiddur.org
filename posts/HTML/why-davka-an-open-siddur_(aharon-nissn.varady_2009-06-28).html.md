@@ -14,7 +14,7 @@ Imagine if a tool existed for a diverse group of Hillel students at a small coll
 
 Imagine if the first siddur presented to a first or second grade day school student was actually developed by that student over the course of a year while learning about the traditionally liturgy from a teacher, while integrating personal art, poetry and inspirational quotes and teaching from other classes into their structured daily t'fillah.
 
-Imagine a bar or bat mitzvah where the young teenager has composed a bencher with graphics and images, translation, commentary and transliteration tailor made for his or her guests. Imagine if this were a wedding or simply a custom bencher developed by a family as a resource of their favorite traditions.
+Imagine a bar or bat mitzvah where the young teenager has composed a bentsher with graphics and images, translation, commentary and transliteration tailor made for his or her guests. Imagine if this were a wedding or simply a custom bentsher developed by a family as a resource of their favorite traditions.
 
 Imagine a young professional struggling to find time in the morning to continue their daily practice and keep it meaningful rather than a rote routine. They use the Open Siddur to find unfamiliar content and new ways to daven, integrating yoga with prayer, or subscribing to a stream of commentary or source text integrating learning within their practice.
 
