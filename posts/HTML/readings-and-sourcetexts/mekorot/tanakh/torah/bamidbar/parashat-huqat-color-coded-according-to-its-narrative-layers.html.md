@@ -26,7 +26,7 @@ According to the poetry of the Midrash Tanḥuma, Bereshit 1:1, the words of the
 <span class="b">&#11035; The most recent layer of text, is a post-exilic (pre-3rd century BCE) text that Dr. Yoreh refers to as the "Bridger" which supplements earlier strata with genealogies and popular myths, providing narrative bridges between distant story cycles. This 'B' layer is presented here in FUCHSIA.</span>
 
 
-Parashat Ḥuqat (Numbers 19:1-22:1) in the annual Torah reading cycle is the seventh parashah in Sefer Bamidbar. It is preceded by parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-bamidbar/parashat-qorah/parashat-qorah-color-coded-according-to-its-narrative-layers/">Qoraḥ</a> (Numbers 16:1-18:32). Parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-bamidbar/parashat-balaq/parashat-balaq-color-coded-according-to-its-narrative-layers/">Balaq</a> (Numbers 22:2-25:9) follows it. 
+Parashat Ḥuqat (Numbers 19:1-22:1) in the annual Torah reading cycle is the sixth parashah in Sefer Bamidbar. It is preceded by parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-bamidbar/parashat-qorah/parashat-qorah-color-coded-according-to-its-narrative-layers/">Qoraḥ</a> (Numbers 16:1-18:32). Parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-bamidbar/parashat-balaq/parashat-balaq-color-coded-according-to-its-narrative-layers/">Balaq</a> (Numbers 22:2-25:9) follows it. 
 </div>
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">

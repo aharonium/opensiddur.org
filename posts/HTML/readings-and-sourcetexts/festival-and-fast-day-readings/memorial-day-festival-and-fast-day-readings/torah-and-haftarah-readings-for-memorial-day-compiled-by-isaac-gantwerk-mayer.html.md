@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: קריאות ליום הזכרון | Scriptural Readings for Memorial Day, compiled by Isaac Gantwerk Mayer<br />
+Title: קריאות ליום הזכרון | Torah and Haftarah Readings for Days Memorializing Fallen Military Personnel, compiled by Isaac Gantwerk Mayer<br />
 Author: isaac.gantwerk-mayer<br />
 License: for license, please consult the following link.<br />
 Link: <a href="http://opensiddur.org/?p=25245">http://opensiddur.org/?p=25245</a>
@@ -15,14 +15,6 @@ This is part one of what will be a series of Torah and Haftarah readings for civ
 
 Note: “The CAUSE” is used to translate the Divine Name YHVH, based on the philosophical idea of God as the Prime Mover and on the interpretation of the Name as a causative form of the copula – “causes to be.”
 </div>
-
-Kohen: [su_audio url="https://archive.org/download/ScripturalReadingsForMemorialDayIsaacGantwerkMayer2019/Isaac%20Gantwerk%20Mayer%20-%20Scriptural%20Readings%20for%20Memorial%20Day%20-%201%20-%20Torah%20Reading%201%20Numbers%202022-26.mp3" width="60%"]
-
-Levi: [su_audio url="https://archive.org/download/ScripturalReadingsForMemorialDayIsaacGantwerkMayer2019/Isaac%20Gantwerk%20Mayer%20-%20Scriptural%20Readings%20for%20Memorial%20Day%20-%202%20-%20Torah%20Reading%202%20Numbers%202027-29.mp3" width="60%"]
-
-Maftir: [su_audio url="https://archive.org/download/ScripturalReadingsForMemorialDayIsaacGantwerkMayer2019/Isaac%20Gantwerk%20Mayer%20-%20Scriptural%20Readings%20for%20Memorial%20Day%20-%203%20-%20Torah%20Reading%203%20Numbers%20211-3.mp3" width="60%"]
-
-Haftarah: [su_audio url="https://archive.org/download/ScripturalReadingsForMemorialDayIsaacGantwerkMayer2019/Isaac%20Gantwerk%20Mayer%20-%20Scriptural%20Readings%20for%20Memorial%20Day%20-%204%20-%20Haftarah%20Reading%20II%20Samuel%20117-27.mp3" width="60%"]
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
@@ -120,6 +112,10 @@ And David sent messengers to the men of Jabesh-gilead and said to them, "Blessed
 </div></td></tr>
 </tbody></table>
 
+<hr />
 
+<h3>Recordings</h3>
+
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/details/ScripturalReadingsForMemorialDayIsaacGantwerkMayer2019#page/n0/mode/2up"]
 </body>
 </html>

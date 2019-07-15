@@ -27,7 +27,7 @@ According to the poetry of the Midrash Tanḥuma, Bereshit 1:1, the words of the
 
 The 'H' layer is absent from this parashah. 
 
-Parashat Balaq (Numbers 22:2-25:9) in the annual Torah reading cycle is the eighth parashah in Sefer Bamidbar. It is preceded by parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-bamidbar/parashat-huqat/parashat-huqat-color-coded-according-to-its-narrative-layers/">Ḥuqat</a> (Numbers 19:1-22:1). Parashat Pinḥas (Numbers 25:10-30:1) follows it. 
+Parashat Balaq (Numbers 22:2-25:9) in the annual Torah reading cycle is the seventh parashah in Sefer Bamidbar. It is preceded by parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-bamidbar/parashat-huqat/parashat-huqat-color-coded-according-to-its-narrative-layers/">Ḥuqat</a> (Numbers 19:1-22:1). Parashat Pinḥas (Numbers 25:10-30:1) follows it. 
 </div>
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">

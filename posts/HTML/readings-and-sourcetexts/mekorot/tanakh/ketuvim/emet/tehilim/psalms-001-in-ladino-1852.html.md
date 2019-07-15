@@ -101,6 +101,6 @@ To the best of my ability, this is a faithful transcription of Psalms 1 from ת�
 
 <h3>Source</h3>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/TehilimEnLaLinguaSefaradit#page/n2/mode/2up"]
+<a href="https://he.wikisource.org/wiki/%D7%A2%D7%9E%D7%95%D7%93:Tehilim,_o_los_Salmos,_trezladados_del_leshon_ha-%E1%B8%B3odesh_en_la_lingua_Sefaradit.pdf/2"><img src="https://opensiddur.org/wp-content/uploads/2017/05/page2-1024px-Tehilim_o_los_Salmos_trezladados_del_leshon_ha-ḳodesh_en_la_lingua_Sefaradit.pdf.jpg" alt="" width="827" height="916" class="aligncenter size-full wp-image-15435" /></a>
 </body>
 </html>

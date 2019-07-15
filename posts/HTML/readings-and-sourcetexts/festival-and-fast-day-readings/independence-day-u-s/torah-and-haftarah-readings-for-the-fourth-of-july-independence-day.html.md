@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: קריאות ליום העצמאות האמריקאי (ד׳ ביולי)‏ | Torah and Haftarah Readings for the Fourth of July (Independence Day)<br />
+Title: קריאות ליום העצמאות האמריקאי | Torah and Haftarah Readings for United States Independence Day, compiled by Isaac Gantwerk Mayer<br />
 Author: isaac.gantwerk-mayer<br />
 License: for license, please consult the following link.<br />
 Link: <a href="http://opensiddur.org/?p=25545">http://opensiddur.org/?p=25545</a>
@@ -22,17 +22,20 @@ Note: “The CAUSE” is used to translate the Divine Name YHVH, based on the ph
 This is part two of what will be a series of Torah and Haftarah readings for civic holidays. (For a reading on Thanksgiving Day (U.S.) <a href="https://opensiddur.org/readings-and-sourcetexts/mekorot/non-canonical/modern/megillat-washington-a-scroll-for-thanksgiving-by-isaac-gantwerk-mayer/">visit here</a>.)
 </div>
 
-First Aliyah: Leviticus 25:8-13 [su_audio url="https://archive.org/download/IsaacGantwerkMayerScripturalReadingsForTheFourthOfJuly/Isaac%20Gantwerk%20Mayer%20-%20Scriptural%20Readings%20for%20the%20Fourth%20of%20July%20-%201%20-%20First%20Aliyah%20%28Leviticus%2025v8-13%29.mp3" width="60%"]
-
-Second Aliyah: Leviticus 25:14-19 [su_audio url="https://archive.org/download/IsaacGantwerkMayerScripturalReadingsForTheFourthOfJuly/Isaac%20Gantwerk%20Mayer%20-%20Scriptural%20Readings%20for%20the%20Fourth%20of%20July%20-%202%20-%20Second%20Aliyah%20%28Leviticus%2025v14-19%29.mp3" width="60%"]
-
-Third Aliyah: Leviticus 26:42-48 [su_audio url="https://archive.org/download/IsaacGantwerkMayerScripturalReadingsForTheFourthOfJuly/Isaac%20Gantwerk%20Mayer%20-%20Scriptural%20Readings%20for%20the%20Fourth%20of%20July%20-%203%20-%20Third%20Aliyah%20%28Leviticus%2026v42-46%29.mp3" width="60%"]
-
-Haftarah: Isaiah 14:3-27 [su_audio url="https://archive.org/download/IsaacGantwerkMayerScripturalReadingsForTheFourthOfJuly/Isaac%20Gantwerk%20Mayer%20-%20Scriptural%20Readings%20for%20the%20Fourth%20of%20July%20-%204%20-%20Haftarah%20%28Isaiah%2014v3-27%29.mp3" width="60%"]
-
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+קריאות ליום העצמאות האמריקאי (ד׳ ביולי)‏
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+Scriptural Readings for the Fourth of July (Independence Day)
+</div></td></tr>
+
+
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
 1 (ויקרא כה:ח-יג) 
@@ -142,5 +145,11 @@ And it will be, on the day that the CAUSE grants you rest from your pain and tur
 The CAUSE of Multitudes has vowed this: Thus it will be: If I thought it, thus it is, and if I planned it, thus it comes to pass. To break Assyria in My land, on My mountain to crush him. And his yoke will drop from them, and his burden from their shoulders will drop. That is the plan planned for all the earth, that is the outstretched arm over all the nations. For the CAUSE of Multitudes has planned, who can foil? The Outstretched Arm is God's, so who can turn it away?
 </div></td></tr>
 </tbody></table>
+
+<hr />
+
+<h3>Recordings</h3>
+
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/details/IsaacGantwerkMayerScripturalReadingsForTheFourthOfJuly#page/n0/mode/2up"]
 </body>
 </html>

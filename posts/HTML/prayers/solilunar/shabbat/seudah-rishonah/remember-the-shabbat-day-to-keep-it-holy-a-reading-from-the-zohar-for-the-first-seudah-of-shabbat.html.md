@@ -162,13 +162,10 @@ Blessed is YHVH in the Cosmos, <em>Amen v'Amen.</em>
 
 The transcription above has been pointed according to the text at <a href="https://www.sefaria.org/Zohar.2.88a.3?vhe=Torat_Emet_Zohar&lang=he&with=all&lang2=he">Sefaria</a> (copied from Torat Emet Freeware) and checked against the critical transcription made available by the Zohar Education Project (Daniel Matt) pp.197-199.
 
-The translation above was adapted from that of Daniel Matt in <em><a href="https://www.sup.org/books/title/?id=11996">The Zohar: Pritzker edition, volume four</a></em> (Stanford University Press 2007). Please consult this volume for Matt's invaluable commentary. 
+The translation above was adapted from that of Daniel Matt in <em><a href="https://www.sup.org/books/title/?id=11996">The Zohar: Pritzker edition, volume four</a></em> (Stanford University Press 2007). Please consult this volume for Matt's invaluable commentary.
 
 <h3>Source(s)</h3>
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/TheZoharAramaicCriticalTextPritzkerEditionVol4#page/n196/mode/2up"]
-
-
-
 </body>
 </html>
