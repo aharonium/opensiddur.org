@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: In Celebration of the Coronation of Her Majesty Queen Elizabeth II (1953)<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=23110">http://opensiddur.org/?p=23110</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=23110">http://opensiddur.org/?p=23110</a>
 <p />
 <hr />
 

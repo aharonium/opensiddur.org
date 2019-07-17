@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: על הכל יתגדל ויתקדש | A Kaddish During the Removal of the Torah from the Ark in the Nusaḥ ha-ARI z"l (translation by R' Oren Steinitz)<br />
-Author: oren-steinitz<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=15634">http://opensiddur.org/?p=15634</a>
+Primary contributor: oren-steinitz<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=15634">http://opensiddur.org/?p=15634</a>
 <p />
 <hr />
 

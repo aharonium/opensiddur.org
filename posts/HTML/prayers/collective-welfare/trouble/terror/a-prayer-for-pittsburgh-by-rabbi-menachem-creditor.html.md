@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: A Prayer for Pittsburgh, by Rabbi Menachem Creditor (2018)<br />
-Author: menachem.creditor<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=22332">http://opensiddur.org/?p=22332</a>
+Primary contributor: menachem.creditor<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=22332">http://opensiddur.org/?p=22332</a>
 <p />
 <hr />
 

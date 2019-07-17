@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Prayer at the Presidential Signing Ceremony for the Don't Ask, Don't Tell Repeal Act, by Rabbi Arnold Resnicoff on 22 December 2010<br />
-Author: arnold.resnicoff<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=22908">http://opensiddur.org/?p=22908</a>
+Primary contributor: arnold.resnicoff<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=22908">http://opensiddur.org/?p=22908</a>
 <p />
 <hr />
 

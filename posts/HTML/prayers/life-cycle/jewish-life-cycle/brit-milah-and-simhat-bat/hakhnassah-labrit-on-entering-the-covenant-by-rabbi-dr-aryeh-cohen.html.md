@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: חג הכנסה לברית | Ḥag hakhnassah labrit - On Entering the Covenant by Rabbi Dr. Aryeh Cohen<br />
-Author: aryeh.cohen<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=10417">http://opensiddur.org/?p=10417</a>
+Primary contributor: aryeh.cohen<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=10417">http://opensiddur.org/?p=10417</a>
 <p />
 <hr />
 

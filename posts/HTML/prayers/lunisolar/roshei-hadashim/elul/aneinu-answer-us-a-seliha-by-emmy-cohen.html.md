@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: עננו | Aneinu, Answer us, a seliḥah in advance of the Shemita year by Emmy Cohen<br />
-Author: emmy.cohen<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=9401">http://opensiddur.org/?p=9401</a>
+Primary contributor: emmy.cohen<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=9401">http://opensiddur.org/?p=9401</a>
 <p />
 <hr />
 

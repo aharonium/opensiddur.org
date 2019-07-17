@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Transition Ritual Poems, by Joy Ladin<br />
-Author: joy.ladin<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=8734">http://opensiddur.org/?p=8734</a>
+Primary contributor: joy.ladin<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=8734">http://opensiddur.org/?p=8734</a>
 <p />
 <hr />
 

@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: סדר אכילת הסמנים | Seder Akhilat haSimanim: The “Symbolic Foods of Life” Seder for Rosh Hashanah by R' R. Karpov, Ph.D.<br />
-Author: rabbi.r.karpov<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=5204">http://opensiddur.org/?p=5204</a>
+Primary contributor: rabbi.r.karpov<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=5204">http://opensiddur.org/?p=5204</a>
 <p />
 <hr />
 

@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: (אתא הוא ואז ישיר (מקוצר | Atah Hu and a condensed Az Yashir, adapted and translated by Rabbi Zalman Schachter-Shalomi<br />
-Author: zalman.schachter-shalomi<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=21013">http://opensiddur.org/?p=21013</a>
+Primary contributor: zalman.schachter-shalomi<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=21013">http://opensiddur.org/?p=21013</a>
 <p />
 <hr />
 

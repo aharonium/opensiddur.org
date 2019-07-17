@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: נוסח אנגליה | The Nusaḥ of the Jews of England in 1287<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=13834">http://opensiddur.org/?p=13834</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=13834">http://opensiddur.org/?p=13834</a>
 <p />
 <hr />
 

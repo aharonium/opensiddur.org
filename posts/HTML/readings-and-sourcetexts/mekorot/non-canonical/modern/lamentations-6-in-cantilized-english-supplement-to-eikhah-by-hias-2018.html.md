@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: איכה פרק ו׳ | Lamentations "chapter 6" in cantilized English, a supplement to public readings of Eikhah by HIAS (2018)<br />
-Author: rachel.grant-meyer<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=20649">http://opensiddur.org/?p=20649</a>
+Primary contributor: rachel.grant-meyer<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=20649">http://opensiddur.org/?p=20649</a>
 <p />
 <hr />
 

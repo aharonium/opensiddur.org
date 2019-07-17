@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: מעשה טוביה ליום שני של שבועות | The Story of Toḅiyah for the second day of Shavuot<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=23063">http://opensiddur.org/?p=23063</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=23063">http://opensiddur.org/?p=23063</a>
 <p />
 <hr />
 

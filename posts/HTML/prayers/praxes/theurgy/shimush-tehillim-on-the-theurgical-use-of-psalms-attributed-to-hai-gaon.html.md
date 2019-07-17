@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: שִׁמּוּשׁ תְּהִלִּים‬ | Shimush Tehillim (the Theurgical Use of Psalms), attributed to Hai ben Sherira Gaon<br />
-Author: hai.ben-sherira<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=11438">http://opensiddur.org/?p=11438</a>
+Primary contributor: hai.ben-sherira<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=11438">http://opensiddur.org/?p=11438</a>
 <p />
 <hr />
 

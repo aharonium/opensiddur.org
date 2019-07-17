@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: ט״וּ בִּשְׁבָט | A Tree Comes of Age, an essay on the awakening of the trees during the month of Sh'vat by Rabbi Dr. Daniel Sperber<br />
-Author: hai.ben-sherira<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=12558">http://opensiddur.org/?p=12558</a>
+Primary contributor: hai.ben-sherira<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=12558">http://opensiddur.org/?p=12558</a>
 <p />
 <hr />
 

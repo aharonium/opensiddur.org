@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: הגדה לסדר פסח | MLK +50 Labor-Justice Interfaith Freedom Seder, by R' Arthur Waskow and The Shalom Center<br />
-Author: arthur.waskow<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=19204">http://opensiddur.org/?p=19204</a>
+Primary contributor: arthur.waskow<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=19204">http://opensiddur.org/?p=19204</a>
 <p />
 <hr />
 

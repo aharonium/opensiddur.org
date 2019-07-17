@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: ספר תפילות לשבת | Sabbath Prayer Book, by the Jewish Reconstructionist Foundation (1945)<br />
-Author: jewish-reconstructionist-foundation<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=17387">http://opensiddur.org/?p=17387</a>
+Primary contributor: jewish-reconstructionist-foundation<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=17387">http://opensiddur.org/?p=17387</a>
 <p />
 <hr />
 

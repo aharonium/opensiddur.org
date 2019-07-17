@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: תפילה לחודש כסלו עד סוף חנוכה | Prayer for the month of Kislev through the end of Ḥanukkah, by Rabbi Levi Weiman-Kelman (from Isaiah 60)<br />
-Author: levi.weiman-kelman<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=18296">http://opensiddur.org/?p=18296</a>
+Primary contributor: levi.weiman-kelman<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=18296">http://opensiddur.org/?p=18296</a>
 <p />
 <hr />
 

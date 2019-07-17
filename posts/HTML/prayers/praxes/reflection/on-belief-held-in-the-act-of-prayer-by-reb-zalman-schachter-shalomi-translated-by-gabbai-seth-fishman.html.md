@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: On Belief Held in the Act of Prayer by Reb Zalman Schachter-Shalomi, translated by Gabbai Seth Fishman<br />
-Author: seth.fishman<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=12754">http://opensiddur.org/?p=12754</a>
+Primary contributor: seth.fishman<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=12754">http://opensiddur.org/?p=12754</a>
 <p />
 <hr />
 

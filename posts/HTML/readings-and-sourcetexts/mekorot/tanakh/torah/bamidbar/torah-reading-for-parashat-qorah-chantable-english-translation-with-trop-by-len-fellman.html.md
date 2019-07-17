@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Torah Reading for Parashat Qoraḥ (Numbers 16:1-18:32): Chantable English translation with trōp, by Len Fellman<br />
-Author: len.fellman<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=25795">http://opensiddur.org/?p=25795</a>
+Primary contributor: len.fellman<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=25795">http://opensiddur.org/?p=25795</a>
 <p />
 <hr />
 

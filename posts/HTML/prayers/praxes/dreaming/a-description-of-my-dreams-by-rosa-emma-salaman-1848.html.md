@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: A Description of my Dreams, a poem by Rosa Emma Salaman (1848)<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=16475">http://opensiddur.org/?p=16475</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=16475">http://opensiddur.org/?p=16475</a>
 <p />
 <hr />
 

@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: תפילה למען תושבי/ות אל-עראקיב | A Thanksgiving Day Prayer for the Residents of Al-Araqeeb (قرية العراقيب), by Rabbi Arik Ascherman<br />
-Author: arik.ascherman<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=1939">http://opensiddur.org/?p=1939</a>
+Primary contributor: arik.ascherman<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=1939">http://opensiddur.org/?p=1939</a>
 <p />
 <hr />
 

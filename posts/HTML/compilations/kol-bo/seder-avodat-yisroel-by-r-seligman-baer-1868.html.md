@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Seder Avodat Yisroel, by Isaac Seligman Baer (1868)<br />
-Author: hierophant<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=904">http://opensiddur.org/?p=904</a>
+Primary contributor: hierophant<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=904">http://opensiddur.org/?p=904</a>
 <p />
 <hr />
 

@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Prayer for Alexandru Ioan I Cuza, Domnitor of Romania by Rabbi Meir Leibush (1862)<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=5960">http://opensiddur.org/?p=5960</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=5960">http://opensiddur.org/?p=5960</a>
 <p />
 <hr />
 

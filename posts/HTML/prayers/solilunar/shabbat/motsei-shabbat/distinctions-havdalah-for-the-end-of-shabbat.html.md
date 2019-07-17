@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: הבדלה | Distinctions (Havdalah) for the end of Shabbat, by Rabbi Rachel Barenblat<br />
-Author: rbarenblat<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=7053">http://opensiddur.org/?p=7053</a>
+Primary contributor: rbarenblat<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=7053">http://opensiddur.org/?p=7053</a>
 <p />
 <hr />
 

@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Kavvanah between Lag BaOmer and Yom Qeshet (the 42nd day of the Omer), by Rabbi David Seidenberg (neohasid.org)<br />
-Author: david.seidenberg<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=19726">http://opensiddur.org/?p=19726</a>
+Primary contributor: david.seidenberg<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=19726">http://opensiddur.org/?p=19726</a>
 <p />
 <hr />
 

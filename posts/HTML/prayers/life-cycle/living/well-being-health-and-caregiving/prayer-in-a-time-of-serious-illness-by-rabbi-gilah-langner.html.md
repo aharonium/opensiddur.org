@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Prayer in a Time of Serious Illness by Rabbi Gilah Langner<br />
-Author: gilah.langner<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=3650">http://opensiddur.org/?p=3650</a>
+Primary contributor: gilah.langner<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=3650">http://opensiddur.org/?p=3650</a>
 <p />
 <hr />
 

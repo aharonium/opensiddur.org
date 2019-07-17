@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Prayer for the United States Government, by Rabbi Shmuly Yanklowitz (2017)<br />
-Author: shmuly.yanklowitz<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=14985">http://opensiddur.org/?p=14985</a>
+Primary contributor: shmuly.yanklowitz<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=14985">http://opensiddur.org/?p=14985</a>
 <p />
 <hr />
 

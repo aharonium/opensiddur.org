@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: הַמַּפִּיל | A Parent’s Prayer for the Safe Sleep of their Newborn Child by Aurora Mendelsohn<br />
-Author: rainbowtallitbaby<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=1426">http://opensiddur.org/?p=1426</a>
+Primary contributor: rainbowtallitbaby<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=1426">http://opensiddur.org/?p=1426</a>
 <p />
 <hr />
 

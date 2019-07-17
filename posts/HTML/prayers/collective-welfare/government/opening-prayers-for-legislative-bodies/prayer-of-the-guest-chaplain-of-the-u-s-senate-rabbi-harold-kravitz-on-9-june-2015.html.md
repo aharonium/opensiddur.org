@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Prayer of the Guest Chaplain of the U.S. Senate: Rabbi Harold Kravitz on 9 June 2015<br />
-Author: United-States.Congressional-Record<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=20415">http://opensiddur.org/?p=20415</a>
+Primary contributor: United-States.Congressional-Record<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=20415">http://opensiddur.org/?p=20415</a>
 <p />
 <hr />
 

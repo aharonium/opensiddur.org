@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: אַ געבעט פאַר דער אימונירונג | תְּפִלָּה לִפְנֵי חִסּוּן | Prayer before a Vaccination, by Hannah Katsman<br />
-Author: hannah-katsman<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=25144">http://opensiddur.org/?p=25144</a>
+Primary contributor: hannah-katsman<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=25144">http://opensiddur.org/?p=25144</a>
 <p />
 <hr />
 

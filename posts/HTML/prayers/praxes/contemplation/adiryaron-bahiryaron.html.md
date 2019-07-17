@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: אַדִירְיַרוֹן בַהִירְיַרוֹן | Adiryaron Ḅahiryaron, a litany of angelic names associated with the 42 letter name, recorded in Sefer haQanah<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=24076">http://opensiddur.org/?p=24076</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=24076">http://opensiddur.org/?p=24076</a>
 <p />
 <hr />
 

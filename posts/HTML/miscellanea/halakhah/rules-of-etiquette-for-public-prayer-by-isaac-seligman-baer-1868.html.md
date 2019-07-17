@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Rules of Etiquette for Public Prayer, by Isaac Seligman Baer (1868)<br />
-Author: isaac-seligman.baer<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=3276">http://opensiddur.org/?p=3276</a>
+Primary contributor: isaac-seligman.baer<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=3276">http://opensiddur.org/?p=3276</a>
 <p />
 <hr />
 

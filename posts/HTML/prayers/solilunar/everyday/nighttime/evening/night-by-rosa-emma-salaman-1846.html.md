@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Night, a poem by Rosa Emma Salaman (1846)<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=16342">http://opensiddur.org/?p=16342</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=16342">http://opensiddur.org/?p=16342</a>
 <p />
 <hr />
 

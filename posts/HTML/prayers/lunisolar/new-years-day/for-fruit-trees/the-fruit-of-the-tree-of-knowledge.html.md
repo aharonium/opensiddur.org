@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: פְּרִי עֵץ הַדַּעַת עַל צַלַּחַת סֵדֶר ט״וּ בִּשְׁבָט | The Fruit of the Tree of Knowledge on the Tu biShvat Seder Plate, by Rabbi Dr. Dalia Marx<br />
-Author: Dalia.Marx<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=2114">http://opensiddur.org/?p=2114</a>
+Primary contributor: Dalia.Marx<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=2114">http://opensiddur.org/?p=2114</a>
 <p />
 <hr />
 

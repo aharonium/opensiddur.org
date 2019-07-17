@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: מעוז צור | Maoz Tsur, attributed to Mordecai ben Yitsḥak haLevi (adapted by R' Joseph H. Hertz, trans. by Solomon Solis-Cohen)<br />
-Author: solomon.da-silva-solis-cohen<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=18422">http://opensiddur.org/?p=18422</a>
+Primary contributor: solomon.da-silva-solis-cohen<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=18422">http://opensiddur.org/?p=18422</a>
 <p />
 <hr />
 

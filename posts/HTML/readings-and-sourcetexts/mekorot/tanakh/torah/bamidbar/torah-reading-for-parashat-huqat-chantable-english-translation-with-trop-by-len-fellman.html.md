@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Torah Reading for Parashat Ḥuqat (Numbers 19:1-22:1): Chantable English translation with trōp, by Len Fellman<br />
-Author: len.fellman<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=25837">http://opensiddur.org/?p=25837</a>
+Primary contributor: len.fellman<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=25837">http://opensiddur.org/?p=25837</a>
 <p />
 <hr />
 

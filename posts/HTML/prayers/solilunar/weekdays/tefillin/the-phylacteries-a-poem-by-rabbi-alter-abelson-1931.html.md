@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: The Phylacteries, a poem by Rabbi Alter Abelson (1931)<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=23477">http://opensiddur.org/?p=23477</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=23477">http://opensiddur.org/?p=23477</a>
 <p />
 <hr />
 

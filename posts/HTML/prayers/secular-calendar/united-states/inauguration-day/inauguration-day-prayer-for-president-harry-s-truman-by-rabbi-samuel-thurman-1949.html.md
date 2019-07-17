@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Inauguration Day Prayer for President Harry S. Truman by Rabbi Samuel Thurman (1949)<br />
-Author: samuel.thurman<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=11268">http://opensiddur.org/?p=11268</a>
+Primary contributor: samuel.thurman<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=11268">http://opensiddur.org/?p=11268</a>
 <p />
 <hr />
 

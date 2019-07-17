@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: "Das Gebet Als Äußerung Und Einfühlung," von Abraham Joshua Heschel (1939)<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=21386">http://opensiddur.org/?p=21386</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=21386">http://opensiddur.org/?p=21386</a>
 <p />
 <hr />
 

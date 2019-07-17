@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: בִּסְעוּדָה הַזּוֹ | At this meal!, a piyyut for the Passover seder translated by Rabbi Jonah Rank<br />
-Author: jonah.rank<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=24791">http://opensiddur.org/?p=24791</a>
+Primary contributor: jonah.rank<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=24791">http://opensiddur.org/?p=24791</a>
 <p />
 <hr />
 

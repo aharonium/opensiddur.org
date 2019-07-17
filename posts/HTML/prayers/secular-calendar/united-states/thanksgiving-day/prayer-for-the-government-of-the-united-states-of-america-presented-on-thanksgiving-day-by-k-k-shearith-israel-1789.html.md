@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: הַנּוֺתֵן תְּשׁוּעָה | Prayer for the Government of the United States of America, presented by Gershom Seixas on Thanksgiving Day 1789<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=22785">http://opensiddur.org/?p=22785</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=22785">http://opensiddur.org/?p=22785</a>
 <p />
 <hr />
 

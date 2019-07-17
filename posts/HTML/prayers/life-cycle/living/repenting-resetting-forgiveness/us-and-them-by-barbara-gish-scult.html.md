@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Us and Them, by Barbara Gish Scult<br />
-Author: barbara.gish-scult<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=20712">http://opensiddur.org/?p=20712</a>
+Primary contributor: barbara.gish-scult<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=20712">http://opensiddur.org/?p=20712</a>
 <p />
 <hr />
 

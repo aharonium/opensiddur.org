@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: הַל״ב מִצְוֺת הַתְלוּיוֹת בַּלֵּב | Thirty-two Mitsvot One Can Do With Consciousness Alone, by Reb Ahrele Roth (trans. Reb Zalman Schachter-Shalomi & Hillel Goelman)<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=21031">http://opensiddur.org/?p=21031</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=21031">http://opensiddur.org/?p=21031</a>
 <p />
 <hr />
 

@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: תהלים קמ״ב | Psalms 142 and Mi Sheberakh for those in captivity or whose whereabouts are unknown<br />
-Author: ephraim.mirvis<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=9105">http://opensiddur.org/?p=9105</a>
+Primary contributor: ephraim.mirvis<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=9105">http://opensiddur.org/?p=9105</a>
 <p />
 <hr />
 

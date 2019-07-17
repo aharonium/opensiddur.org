@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: חנוכה מדריך | Nomi and Aharon’s Ḥanukkah Madrikh!<br />
-Author: aharon-nissn.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=4194">http://opensiddur.org/?p=4194</a>
+Primary contributor: aharon-nissn.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=4194">http://opensiddur.org/?p=4194</a>
 <p />
 <hr />
 

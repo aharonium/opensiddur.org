@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: תהלים ק׳ | Psalms 100, interpretive translation and adaptation by Reb Zalman Schachter-Shalomi z"l<br />
-Author: zalman.schachter-shalomi<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=16555">http://opensiddur.org/?p=16555</a>
+Primary contributor: zalman.schachter-shalomi<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=16555">http://opensiddur.org/?p=16555</a>
 <p />
 <hr />
 

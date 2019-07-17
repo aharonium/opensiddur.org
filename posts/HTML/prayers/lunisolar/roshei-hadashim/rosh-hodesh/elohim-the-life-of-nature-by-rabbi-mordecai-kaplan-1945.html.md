@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: אלהים חיי הטבע | Elohim the Life of Nature, by Rabbi Mordecai Kaplan (1945)<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=23144">http://opensiddur.org/?p=23144</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=23144">http://opensiddur.org/?p=23144</a>
 <p />
 <hr />
 

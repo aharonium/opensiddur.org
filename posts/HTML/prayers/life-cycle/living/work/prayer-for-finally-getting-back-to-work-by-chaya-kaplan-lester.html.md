@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: תפילה לשוב לעבודה | A Prayer for – finally - getting back to WORK by Chaya Kaplan-Lester<br />
-Author: chaya.kaplan-lester<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=17783">http://opensiddur.org/?p=17783</a>
+Primary contributor: chaya.kaplan-lester<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=17783">http://opensiddur.org/?p=17783</a>
 <p />
 <hr />
 

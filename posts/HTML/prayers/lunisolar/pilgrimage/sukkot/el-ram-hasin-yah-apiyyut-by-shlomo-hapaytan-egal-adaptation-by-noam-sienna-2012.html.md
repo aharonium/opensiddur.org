@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: אל רם חסין יה | El Ram Ḥasin Yah, a piyyut for Sukkot by Shlomo haPaytan (egal adaptation by Noam Sienna, 2012)<br />
-Author: noam.sienna<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=21822">http://opensiddur.org/?p=21822</a>
+Primary contributor: noam.sienna<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=21822">http://opensiddur.org/?p=21822</a>
 <p />
 <hr />
 

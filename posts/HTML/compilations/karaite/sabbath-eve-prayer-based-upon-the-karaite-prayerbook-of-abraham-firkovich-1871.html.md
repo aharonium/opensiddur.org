@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: תפלת ערב של שבת | Sabbath Eve Prayer, based upon the Karaite Prayerbook of Abraham Firkovich (1871)<br />
-Author: nehemia.gordon<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=24637">http://opensiddur.org/?p=24637</a>
+Primary contributor: nehemia.gordon<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=24637">http://opensiddur.org/?p=24637</a>
 <p />
 <hr />
 

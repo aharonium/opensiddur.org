@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: הגדה לסדר פסח | The Ritual of the Seder and the Agada of the English Jews Before the Expulsion (1287)<br />
-Author: david.kaufmann<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=4609">http://opensiddur.org/?p=4609</a>
+Primary contributor: david.kaufmann<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=4609">http://opensiddur.org/?p=4609</a>
 <p />
 <hr />
 

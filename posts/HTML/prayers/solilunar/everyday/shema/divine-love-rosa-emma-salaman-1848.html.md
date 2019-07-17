@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Divine Love, a poem by Rosa Emma Salaman (1848)<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=16381">http://opensiddur.org/?p=16381</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=16381">http://opensiddur.org/?p=16381</a>
 <p />
 <hr />
 

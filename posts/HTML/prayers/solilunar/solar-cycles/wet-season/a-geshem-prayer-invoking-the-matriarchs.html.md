@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: תפילת גשם בזכות האמהות | Prayer for Rain in the Merit of the Matriarchs by Rabbi Jill Hammer<br />
-Author: jill.hammer<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=12438">http://opensiddur.org/?p=12438</a>
+Primary contributor: jill.hammer<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=12438">http://opensiddur.org/?p=12438</a>
 <p />
 <hr />
 

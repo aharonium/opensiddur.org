@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Activist Prayer for a Trauma Center on Chicago's South Side, by Aryeh Bernstein (2015)<br />
-Author: aryeh.bernstein<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=11404">http://opensiddur.org/?p=11404</a>
+Primary contributor: aryeh.bernstein<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=11404">http://opensiddur.org/?p=11404</a>
 <p />
 <hr />
 

@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: כוונה להדלקת נרוֺת חנוּכה | Kavvanah for Ḥanukkiah Lighting by Bonna Devora Haberman, z"l (Mistabra Institute for Jewish Textual Activism, 2002)<br />
-Author: bonna.devora<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=5637">http://opensiddur.org/?p=5637</a>
+Primary contributor: bonna.devora<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=5637">http://opensiddur.org/?p=5637</a>
 <p />
 <hr />
 

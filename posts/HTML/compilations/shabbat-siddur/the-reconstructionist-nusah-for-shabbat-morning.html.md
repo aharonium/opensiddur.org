@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: שחרית | The Reconstructionist Nusaḥ for Shabbat Morning<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=11764">http://opensiddur.org/?p=11764</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=11764">http://opensiddur.org/?p=11764</a>
 <p />
 <hr />
 

@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Teshuvah on Ketubbah Where Woman Acquires Man<br />
-Author: jonah.rank<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=14217">http://opensiddur.org/?p=14217</a>
+Primary contributor: jonah.rank<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=14217">http://opensiddur.org/?p=14217</a>
 <p />
 <hr />
 

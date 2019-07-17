@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: סדר לפסח: כוונה לסדר | A Kavvanah for Human Rights for the Passover Seder, from T’ruah<br />
-Author: truah<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=3089">http://opensiddur.org/?p=3089</a>
+Primary contributor: truah<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=3089">http://opensiddur.org/?p=3089</a>
 <p />
 <hr />
 

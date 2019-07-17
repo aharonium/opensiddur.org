@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: פָּרָשַׁת שְׁמִינִי | Parashat Sh'mini (Leviticus 9:1-11:47), color-coded according to its narrative layers<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=24291">http://opensiddur.org/?p=24291</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=24291">http://opensiddur.org/?p=24291</a>
 <p />
 <hr />
 

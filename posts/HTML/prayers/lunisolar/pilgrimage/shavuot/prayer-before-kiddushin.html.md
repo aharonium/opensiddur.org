@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: תפילה לפני קידושין | Prayer before Kiddushin for Couples by Sarah Groner<br />
-Author: sarah.groner<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=6636">http://opensiddur.org/?p=6636</a>
+Primary contributor: sarah.groner<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=6636">http://opensiddur.org/?p=6636</a>
 <p />
 <hr />
 

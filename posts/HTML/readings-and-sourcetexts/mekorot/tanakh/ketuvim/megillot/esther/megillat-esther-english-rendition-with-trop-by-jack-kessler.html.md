@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: The Megillah of Esther: An Original English Rendition Set to Trōp, by Ḥazzan Jack Kessler<br />
-Author: yakov.kessler<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=18913">http://opensiddur.org/?p=18913</a>
+Primary contributor: yakov.kessler<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=18913">http://opensiddur.org/?p=18913</a>
 <p />
 <hr />
 

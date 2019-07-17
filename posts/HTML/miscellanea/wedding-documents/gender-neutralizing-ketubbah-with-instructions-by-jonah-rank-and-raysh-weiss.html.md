@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Gender Neutralizing Ketubbah with Instructions by Jonah Rank and Raysh Weiss<br />
-Author: jonah.rank<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=7889">http://opensiddur.org/?p=7889</a>
+Primary contributor: jonah.rank<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=7889">http://opensiddur.org/?p=7889</a>
 <p />
 <hr />
 

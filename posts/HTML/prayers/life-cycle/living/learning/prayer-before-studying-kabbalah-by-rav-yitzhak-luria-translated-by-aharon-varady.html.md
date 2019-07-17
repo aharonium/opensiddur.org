@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: תפילה קודם למוד הקבלה | Prayer Before Studying Kabbalah, by Yitsḥak Luria (translated by Aharon Varady)<br />
-Author: yitzhak.luria<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=9508">http://opensiddur.org/?p=9508</a>
+Primary contributor: yitzhak.luria<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=9508">http://opensiddur.org/?p=9508</a>
 <p />
 <hr />
 

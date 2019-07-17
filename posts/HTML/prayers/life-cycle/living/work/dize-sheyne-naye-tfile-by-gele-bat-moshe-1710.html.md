@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: דיזי שיני נייאי תפילה | Dize sheyne naye tfile: This Beautiful New Prayer, by Gele bat Moshe v'Freyde (1710)<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=15900">http://opensiddur.org/?p=15900</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=15900">http://opensiddur.org/?p=15900</a>
 <p />
 <hr />
 

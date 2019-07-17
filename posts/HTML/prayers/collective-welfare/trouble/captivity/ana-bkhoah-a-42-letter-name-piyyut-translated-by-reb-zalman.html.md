@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: אָנָּא בְּכֹחַ | Ana b'Khoaḥ, with a singing translation in English by Reb Zalman z"l<br />
-Author: zalman.schachter-shalomi<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=17798">http://opensiddur.org/?p=17798</a>
+Primary contributor: zalman.schachter-shalomi<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=17798">http://opensiddur.org/?p=17798</a>
 <p />
 <hr />
 

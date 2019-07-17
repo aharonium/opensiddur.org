@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: בִּרְכַּת הַמָּזוֹן בִּקְצָרָה | Birkat HaMazon Biqtsarah :: Abbreviated Blessing after the Meal<br />
-Author: aharon.n.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=23948">http://opensiddur.org/?p=23948</a>
+Primary contributor: aharon.n.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=23948">http://opensiddur.org/?p=23948</a>
 <p />
 <hr />
 

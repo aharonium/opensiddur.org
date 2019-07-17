@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Some thoughts on God's proper, ineffable name, a d'var tefillah by Shoshana Michael Zucker<br />
-Author: shoshana-zucker<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=19614">http://opensiddur.org/?p=19614</a>
+Primary contributor: shoshana-zucker<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=19614">http://opensiddur.org/?p=19614</a>
 <p />
 <hr />
 

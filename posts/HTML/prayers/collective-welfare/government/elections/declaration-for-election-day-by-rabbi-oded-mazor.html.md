@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: הכרזת יום הבחירות | Declaration for Election Day, by Rabbi Oded Mazor<br />
-Author: oded.mazor<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=10758">http://opensiddur.org/?p=10758</a>
+Primary contributor: oded.mazor<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=10758">http://opensiddur.org/?p=10758</a>
 <p />
 <hr />
 

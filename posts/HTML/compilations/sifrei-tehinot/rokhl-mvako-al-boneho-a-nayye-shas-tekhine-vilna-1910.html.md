@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: רָחֵל מְבַכָּה עַל־בָּנֶיהָ | Rokhl M'vako al Boneho: A Nayye Shas Tekhine :: Raḥel Weeps for Her Children: A New Collection of Teḥinot (Vilna 1910)<br />
-Author: rokhl-esther.bat-avihayil<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=22300">http://opensiddur.org/?p=22300</a>
+Primary contributor: rokhl-esther.bat-avihayil<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=22300">http://opensiddur.org/?p=22300</a>
 <p />
 <hr />
 

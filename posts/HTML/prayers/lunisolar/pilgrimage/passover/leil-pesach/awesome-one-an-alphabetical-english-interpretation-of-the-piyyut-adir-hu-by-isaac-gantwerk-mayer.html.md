@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: אדיר הוא | Awesome One: an Alphabetical English Interpretation by Isaac Gantwerk Mayer of the piyyut Adir Hu<br />
-Author: isaac.gantwerk-mayer<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=24656">http://opensiddur.org/?p=24656</a>
+Primary contributor: isaac.gantwerk-mayer<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=24656">http://opensiddur.org/?p=24656</a>
 <p />
 <hr />
 

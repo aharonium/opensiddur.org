@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: כוונה ליום הבחירות | Kavvanah for Election Day, by Rabbi Noa Mazor<br />
-Author: noa.mazor<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=25720">http://opensiddur.org/?p=25720</a>
+Primary contributor: noa.mazor<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=25720">http://opensiddur.org/?p=25720</a>
 <p />
 <hr />
 

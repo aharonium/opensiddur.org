@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Kavvanah on Standing Before God-Who-Sees-Me, by Virginia Spatz (1999)<br />
-Author: vspatz<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=859">http://opensiddur.org/?p=859</a>
+Primary contributor: vspatz<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=859">http://opensiddur.org/?p=859</a>
 <p />
 <hr />
 

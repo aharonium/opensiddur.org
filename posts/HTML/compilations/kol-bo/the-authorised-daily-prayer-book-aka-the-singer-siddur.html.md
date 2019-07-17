@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: סדר תפלות כל השנה | The Authorised Daily Prayer Book of the United Hebrew Congregations of the British Empire (trans. Rabbi Simeon Singer, 1890)<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=1166">http://opensiddur.org/?p=1166</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=1166">http://opensiddur.org/?p=1166</a>
 <p />
 <hr />
 

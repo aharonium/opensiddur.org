@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: תְּפִלָּה לָעֵצִים עַל ט״וּ בִּשְׁבָט | Prayer for the Trees of Erets Yisrael on Tu Bishvat, by Rabbis for Human Rights in Israel (2011)<br />
-Author: anonymous<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=2473">http://opensiddur.org/?p=2473</a>
+Primary contributor: anonymous<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=2473">http://opensiddur.org/?p=2473</a>
 <p />
 <hr />
 

@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: [Gebet] Am Freitag, by Fanny Schmiedl Neuda (1855)<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=16329">http://opensiddur.org/?p=16329</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=16329">http://opensiddur.org/?p=16329</a>
 <p />
 <hr />
 

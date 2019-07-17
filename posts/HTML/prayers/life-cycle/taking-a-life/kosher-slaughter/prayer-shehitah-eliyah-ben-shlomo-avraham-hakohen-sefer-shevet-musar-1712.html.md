@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: תפילה לפני שחיטה | Prayer before Kosher Slaughter, by Eliyah ben Shlomo Avraham haKohen (Sefer Shevet Musar, 1712)<br />
-Author: miri.landau<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=18884">http://opensiddur.org/?p=18884</a>
+Primary contributor: miri.landau<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=18884">http://opensiddur.org/?p=18884</a>
 <p />
 <hr />
 

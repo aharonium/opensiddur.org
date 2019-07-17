@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: עלינו | An Alternative Aleinu by Leon Gunther<br />
-Author: leon.gunther<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=8463">http://opensiddur.org/?p=8463</a>
+Primary contributor: leon.gunther<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=8463">http://opensiddur.org/?p=8463</a>
 <p />
 <hr />
 

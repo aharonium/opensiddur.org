@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Prayer that the Lands of Our Freedom Never Resemble Mitsrayim, by Rabbi Jill Jacobs<br />
-Author: jill.jacobs<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=25803">http://opensiddur.org/?p=25803</a>
+Primary contributor: jill.jacobs<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=25803">http://opensiddur.org/?p=25803</a>
 <p />
 <hr />
 

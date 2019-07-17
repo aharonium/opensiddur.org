@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: צַפְרִירִים | Tsafririm ("Morning Spirits"), a poem by Ḥayyim Naḥman Bialik (1900)<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=23268">http://opensiddur.org/?p=23268</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=23268">http://opensiddur.org/?p=23268</a>
 <p />
 <hr />
 

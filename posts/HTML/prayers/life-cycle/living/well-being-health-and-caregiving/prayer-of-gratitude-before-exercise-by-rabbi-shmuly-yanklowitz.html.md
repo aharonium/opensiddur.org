@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: הודאה לפני התרגיל | Prayer of Gratitude Before Exercise, by Rabbi Shmuly Yanklowitz<br />
-Author: shmuly.yanklowitz<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=20294">http://opensiddur.org/?p=20294</a>
+Primary contributor: shmuly.yanklowitz<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=20294">http://opensiddur.org/?p=20294</a>
 <p />
 <hr />
 

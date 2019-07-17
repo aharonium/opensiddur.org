@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: סֵדֶר ט״וּ בִּשְׁבָט | Seder Rosh Hashanah La'Ilan: A four worlds seder for Tu Bishvat, by Rabbi R. Karpov<br />
-Author: rabbi.r.karpov<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=5677">http://opensiddur.org/?p=5677</a>
+Primary contributor: rabbi.r.karpov<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=5677">http://opensiddur.org/?p=5677</a>
 <p />
 <hr />
 

@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: The Israelite-Samaritan Prayerbook for Weekday Evenings & Mornings<br />
-Author: uri.deyoung<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=11499">http://opensiddur.org/?p=11499</a>
+Primary contributor: uri.deyoung<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=11499">http://opensiddur.org/?p=11499</a>
 <p />
 <hr />
 

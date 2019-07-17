@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Israelite Samaritan Kiddush for the Shabbat Evening Meal, translated by Benyamim Sedaka<br />
-Author: ben.sedaka<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=14599">http://opensiddur.org/?p=14599</a>
+Primary contributor: ben.sedaka<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=14599">http://opensiddur.org/?p=14599</a>
 <p />
 <hr />
 

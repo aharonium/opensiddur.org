@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Israelite Samaritan Prayers for the Shabbat Torah Reading, translated by Benyamim Sedaka<br />
-Author: ben.sedaka<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=14598">http://opensiddur.org/?p=14598</a>
+Primary contributor: ben.sedaka<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=14598">http://opensiddur.org/?p=14598</a>
 <p />
 <hr />
 

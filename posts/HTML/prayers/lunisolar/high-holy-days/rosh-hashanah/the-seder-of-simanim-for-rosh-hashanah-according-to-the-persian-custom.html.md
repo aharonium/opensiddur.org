@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: סדר הסמנים | The Seder of Auspicious Foods for the Feast of Rosh Hashanah according to the Persian custom<br />
-Author: nili.simhai<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=3943">http://opensiddur.org/?p=3943</a>
+Primary contributor: nili.simhai<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=3943">http://opensiddur.org/?p=3943</a>
 <p />
 <hr />
 

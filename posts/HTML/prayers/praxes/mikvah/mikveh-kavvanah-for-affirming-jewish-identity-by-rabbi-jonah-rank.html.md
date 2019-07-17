@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Mikveh Kavvanah for Affirming Jewish identity, by Rabbi Jonah Rank<br />
-Author: jonah.rank<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=23434">http://opensiddur.org/?p=23434</a>
+Primary contributor: jonah.rank<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=23434">http://opensiddur.org/?p=23434</a>
 <p />
 <hr />
 

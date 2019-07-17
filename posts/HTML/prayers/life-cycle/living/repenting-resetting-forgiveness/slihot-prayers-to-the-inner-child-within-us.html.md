@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: סליחות | Sliḥot Prayers to the Inner Child within us by Miriam Rubin<br />
-Author: Miriam Rubin<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=6814">http://opensiddur.org/?p=6814</a>
+Primary contributor: Miriam Rubin<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=6814">http://opensiddur.org/?p=6814</a>
 <p />
 <hr />
 

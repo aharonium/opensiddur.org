@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: ברוך ה׳ לעולם | Barukh Hashem l'Olam :: Bless Yah Always, translated by Rabbi Zalman Schachter-Shalomi<br />
-Author: zalman.schachter-shalomi<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=21001">http://opensiddur.org/?p=21001</a>
+Primary contributor: zalman.schachter-shalomi<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=21001">http://opensiddur.org/?p=21001</a>
 <p />
 <hr />
 

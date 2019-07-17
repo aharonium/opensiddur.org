@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Prayer of the Guest Chaplain of the Massachusetts State Senate: Rabbi Joseph Rudavsky on 24 March 1959<br />
-Author: United-States.Congressional-Record<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=24213">http://opensiddur.org/?p=24213</a>
+Primary contributor: United-States.Congressional-Record<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=24213">http://opensiddur.org/?p=24213</a>
 <p />
 <hr />
 

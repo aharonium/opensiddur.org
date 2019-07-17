@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: From the Depths: A Prayer For Christchurch, by Rabbi Menachem Creditor (2019)<br />
-Author: menachem.creditor<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=24225">http://opensiddur.org/?p=24225</a>
+Primary contributor: menachem.creditor<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=24225">http://opensiddur.org/?p=24225</a>
 <p />
 <hr />
 

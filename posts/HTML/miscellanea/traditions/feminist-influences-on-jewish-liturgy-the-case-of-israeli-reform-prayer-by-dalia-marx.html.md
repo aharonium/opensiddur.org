@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Feminist Influences on Jewish Liturgy:  The Case of Israeli Reform Prayer (2009)<br />
-Author: Dalia.Marx<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=2614">http://opensiddur.org/?p=2614</a>
+Primary contributor: Dalia.Marx<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=2614">http://opensiddur.org/?p=2614</a>
 <p />
 <hr />
 

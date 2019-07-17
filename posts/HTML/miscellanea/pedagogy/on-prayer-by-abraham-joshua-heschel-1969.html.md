@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: "On Prayer," by Abraham Joshua Heschel (1969)<br />
-Author: abraham-joshua.heschel<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=21124">http://opensiddur.org/?p=21124</a>
+Primary contributor: abraham-joshua.heschel<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=21124">http://opensiddur.org/?p=21124</a>
 <p />
 <hr />
 

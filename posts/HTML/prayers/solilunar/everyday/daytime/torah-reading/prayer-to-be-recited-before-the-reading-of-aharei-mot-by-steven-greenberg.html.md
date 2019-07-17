@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: תפילה קודם קריאת פרשת אחרי מות | Prayer to be Recited Before the Reading of Parashat Aḥarei Mōt, by Rabbi Steven Greenberg<br />
-Author: steven.greenberg<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=20423">http://opensiddur.org/?p=20423</a>
+Primary contributor: steven.greenberg<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=20423">http://opensiddur.org/?p=20423</a>
 <p />
 <hr />
 

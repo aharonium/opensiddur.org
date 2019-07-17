@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Reconstruction of a Greek text of the Shabbat Amidah preserved in the Constitutiones Apostolorum (circa 380 CE), by Dr. David Fiensy<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=11776">http://opensiddur.org/?p=11776</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=11776">http://opensiddur.org/?p=11776</a>
 <p />
 <hr />
 

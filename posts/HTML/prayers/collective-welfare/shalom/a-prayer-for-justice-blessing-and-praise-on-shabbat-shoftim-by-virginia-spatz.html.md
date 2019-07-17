@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: A Prayer for Justice, Blessing, and Praise on Shabbat Shoftim, by Virginia Spatz<br />
-Author: vspatz<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=11890">http://opensiddur.org/?p=11890</a>
+Primary contributor: vspatz<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=11890">http://opensiddur.org/?p=11890</a>
 <p />
 <hr />
 

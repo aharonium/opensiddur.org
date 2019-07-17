@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: ברכה לסבוב הסביבון | A Blessing for Dreidel Spinning, by Lieba B. Deutsch<br />
-Author: lauren.deutsch<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=5595">http://opensiddur.org/?p=5595</a>
+Primary contributor: lauren.deutsch<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=5595">http://opensiddur.org/?p=5595</a>
 <p />
 <hr />
 

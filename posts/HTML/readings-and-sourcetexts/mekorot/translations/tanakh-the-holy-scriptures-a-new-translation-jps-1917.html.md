@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: תנ״ך | TaNaKh: the Holy Scriptures: A New Translation (JPS 1917)<br />
-Author: hierophant<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=1082">http://opensiddur.org/?p=1082</a>
+Primary contributor: hierophant<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=1082">http://opensiddur.org/?p=1082</a>
 <p />
 <hr />
 

@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: סֵדֶר ט״וּ בִּשְׁבָט לִקּוּיֵי הַיָּרֵחַ | A Tu BiShvat Seder Haggadah for the Total Lunar Eclipse, by Rabbi David Seidenberg (neohasid.org, 5779/2019)<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=23331">http://opensiddur.org/?p=23331</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=23331">http://opensiddur.org/?p=23331</a>
 <p />
 <hr />
 

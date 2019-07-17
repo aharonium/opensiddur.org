@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Inauguration Day Prayer for President Richard M. Nixon by Rabbi Seymour Siegel (1973)<br />
-Author: seymour.siegel<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=11289">http://opensiddur.org/?p=11289</a>
+Primary contributor: seymour.siegel<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=11289">http://opensiddur.org/?p=11289</a>
 <p />
 <hr />
 

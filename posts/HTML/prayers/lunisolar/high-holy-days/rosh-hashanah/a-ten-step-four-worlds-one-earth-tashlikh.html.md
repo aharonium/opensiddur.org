@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: A Ten-Step, Four-Worlds, One-Earth Tashlikh, by Avi Dolgin<br />
-Author: avi.dolgin<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=3778">http://opensiddur.org/?p=3778</a>
+Primary contributor: avi.dolgin<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=3778">http://opensiddur.org/?p=3778</a>
 <p />
 <hr />
 

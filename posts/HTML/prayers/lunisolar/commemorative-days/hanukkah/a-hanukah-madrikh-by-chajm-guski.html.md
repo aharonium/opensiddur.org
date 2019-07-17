@@ -1,10 +1,9 @@
 <html>
 <head></head>
 <body>
-Title: חנוכה מדריך | A Guide for the Blessing over kindling the Ḥanukkah lights, (German trans. by Chajm Guski)<br />
-Author: Chajm<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=1530">http://opensiddur.org/?p=1530</a>
+Title: ברכות לנרות חנוכה | the Blessing over kindling the Ḥanukkah lights, (German trans. by Chajm Guski)<br />
+Primary contributor: Chajm<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=1530">http://opensiddur.org/?p=1530</a>
 <p />
 <hr />
 
@@ -23,7 +22,7 @@ An allen Abenden:
 <div style="text-align: right;" class="liturgy"><span lang="he">
 בָּרוּךְ אַתָּה יְיָ
 אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם
-אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֺתָיו
+אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו
 וְצִוָּנוּ לְהַדְלִיק נֵר שֶׁל חֲנֻכָּה׃
 </span></div></td>
  

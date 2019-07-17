@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: נֻסְחָאוֹת | A Historical Map of Jewish Liturgical Influence and Variation, by Aharon Varady after Joseph Heinemann<br />
-Author: aharon-nissn.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=567">http://opensiddur.org/?p=567</a>
+Primary contributor: aharon-nissn.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=567">http://opensiddur.org/?p=567</a>
 <p />
 <hr />
 

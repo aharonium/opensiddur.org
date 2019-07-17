@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: אֶהְיֶה בְּעֵדֶן | Ehyeh b'Aden :: A piyyut containing the 42 Letter Name, in Sefer Ma'avar Yaboq (1626)<br />
-Author: aharon.n.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=23800">http://opensiddur.org/?p=23800</a>
+Primary contributor: aharon.n.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=23800">http://opensiddur.org/?p=23800</a>
 <p />
 <hr />
 

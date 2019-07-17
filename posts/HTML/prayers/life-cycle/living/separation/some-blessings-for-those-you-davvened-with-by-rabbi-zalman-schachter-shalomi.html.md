@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: ברכות בשביל הקהל | Some blessings for those you davvened with, by Rabbi Zalman Schachter-Shalomi<br />
-Author: zalman.schachter-shalomi<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=21390">http://opensiddur.org/?p=21390</a>
+Primary contributor: zalman.schachter-shalomi<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=21390">http://opensiddur.org/?p=21390</a>
 <p />
 <hr />
 

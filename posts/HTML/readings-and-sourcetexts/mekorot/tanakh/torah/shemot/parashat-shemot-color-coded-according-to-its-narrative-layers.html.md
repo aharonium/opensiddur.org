@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: פָּרָשַׁת שְׁמוֹת | Parashat Shemot (Exodus 1:1-6:1), color-coded according to its narrative layers<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=23034">http://opensiddur.org/?p=23034</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=23034">http://opensiddur.org/?p=23034</a>
 <p />
 <hr />
 

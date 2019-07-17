@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: פָּרָשַׁת וַיִּשְׁלַח | Parashat Vayishlaḥ (Genesis 32:4-36:43), color-coded according to its narrative layers<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=22607">http://opensiddur.org/?p=22607</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=22607">http://opensiddur.org/?p=22607</a>
 <p />
 <hr />
 

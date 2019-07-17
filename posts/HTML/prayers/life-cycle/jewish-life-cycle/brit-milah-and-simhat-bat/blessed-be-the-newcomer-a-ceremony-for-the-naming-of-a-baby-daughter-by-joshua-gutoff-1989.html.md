@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: ברוכה הבאה | Blessed be the newcomer!, a ceremony for the naming of a baby daughter by Joshua Gutoff (ca. 1989)<br />
-Author: joshua.gutoff<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=24762">http://opensiddur.org/?p=24762</a>
+Primary contributor: joshua.gutoff<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=24762">http://opensiddur.org/?p=24762</a>
 <p />
 <hr />
 

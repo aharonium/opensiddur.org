@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: תהלים קמ״ה | Psalms 145 by David, translated by Isaac Gantwerk Mayer<br />
-Author: isaac.gantwerk-mayer<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=25627">http://opensiddur.org/?p=25627</a>
+Primary contributor: isaac.gantwerk-mayer<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=25627">http://opensiddur.org/?p=25627</a>
 <p />
 <hr />
 

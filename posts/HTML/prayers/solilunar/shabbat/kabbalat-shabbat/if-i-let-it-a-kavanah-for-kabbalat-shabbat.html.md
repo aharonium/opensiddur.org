@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: If I Let It: A Kavvanah for Kabbalat Shabbat, by Trisha Arlin<br />
-Author: trishaarlin<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=6224">http://opensiddur.org/?p=6224</a>
+Primary contributor: trishaarlin<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=6224">http://opensiddur.org/?p=6224</a>
 <p />
 <hr />
 

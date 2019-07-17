@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: אמרי לב | Imrei Lev - Meditations And Prayers For Every Situation And Occasion In Life by Jonas Ennery, translated by Isaac Leeser (1863)<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=10136">http://opensiddur.org/?p=10136</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=10136">http://opensiddur.org/?p=10136</a>
 <p />
 <hr />
 

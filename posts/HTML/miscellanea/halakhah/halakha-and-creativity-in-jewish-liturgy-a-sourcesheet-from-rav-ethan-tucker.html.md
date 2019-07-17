@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: The Limits of Liturgical Change: selections of halakhic discourse with translations by Rav Ethan Tucker (sourcesheet)<br />
-Author: ethan.tucker<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=612">http://opensiddur.org/?p=612</a>
+Primary contributor: ethan.tucker<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=612">http://opensiddur.org/?p=612</a>
 <p />
 <hr />
 

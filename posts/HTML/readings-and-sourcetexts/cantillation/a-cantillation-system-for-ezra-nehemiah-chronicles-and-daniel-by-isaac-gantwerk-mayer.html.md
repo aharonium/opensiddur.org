@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: A Cantillation System For Ezra/Neḥemiah, Chronicles, and Daniel, by Isaac Gantwerk Mayer<br />
-Author: isaac.gantwerk-mayer<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=19397">http://opensiddur.org/?p=19397</a>
+Primary contributor: isaac.gantwerk-mayer<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=19397">http://opensiddur.org/?p=19397</a>
 <p />
 <hr />
 

@@ -2,48 +2,43 @@
 <head></head>
 <body>
 Title: מְגִלַּת אֵיכָה | Megillat Eikhah: Chantable English translation with trōp, by Len Fellman<br />
-Author: len.fellman<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=20739">http://opensiddur.org/?p=20739</a>
+Primary contributor: len.fellman<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=20739">http://opensiddur.org/?p=20739</a>
 <p />
 <hr />
 
-<style type="text/css" media="all">.printfriendly {display: none!important;}</style>
+<strong>DOWNLOAD:</strong> 
+<a href="https://archive.org/download/LamentationsInEnglishWithTropeLenFellman2017/Megillat%20Eikhah%20-%20English%20transtropilation%20%28Len%20Fellman%202019%29.pdf">PDF</a> and <a href="https://archive.org/download/LamentationsInEnglishWithTropeLenFellman2017/Megillat%20Eikhah%20-%20English%20transtropilation%20%28Len%20Fellman%202019%29.odt">ODT</a>
+<a href="https://archive.org/download/LamentationsInEnglishWithTropeLenFellman2017/Megillat%20Eikhah%20-%20English%20transtropilation%20%28Len%20Fellman%202019%29%20-%20english%20only.pdf">PDF</a> and <a href="https://archive.org/download/LamentationsInEnglishWithTropeLenFellman2017/Megillat%20Eikhah%20-%20English%20transtropilation%20%28Len%20Fellman%202019%29%20-%20english%20only.odt">ODT</a> (sans Hebrew)
+<a href="https://archive.org/download/LamentationsInEnglishWithTropeLenFellman2017/Megillat%20Eikhah%20-%20English%20transtropilation%20with%20audio%20%28Len%20Fellman%202019%29.pdf">PDF</a> (with audio)
 
-<strong>DOWNLOAD:</strong> <a href="https://archive.org/download/LamentationsInEnglishWithTropeLenFellman2017/Lamentations%20in%20English%20with%20trope%20%28Len%20Fellman%202017%29.pdf">PDF</a>
+<div class="english" style="font-size: 1.2em;">
+This English version of Lamentations has been prepared by drawing on the following translations: The Stone Edition Tanach, JPS, H.L. Ginsberg, David Seidenberg, James Moffat, Jerusalem Bible, New King James Bible.
 
-Chapter 1: [su_audio url="https://archive.org/download/LamentationsInEnglishWithTropeLenFellman2017/LenFellman-LamentationsChapter1.mp3" width="60%"]
+The goal was to create an English reading that can be sung to the traditional <em>trōp</em>s that are used for the Hebrew, but which follows the Hebrew with its <em>trōp</em>s as closely as possible.
 
-Chapter 2: [su_audio url="https://archive.org/download/LamentationsInEnglishWithTropeLenFellman2017/LenFellman-LamentationsChapter2.mp3" width="60%"]
+If one examines the authoritative translations, it becomes clear that there are many passages in the text of whose meaning the experts are unsure. In those situations I attempted to choose a reading which scans well with the melody, and which agrees with some (or at least one) of the authoritative renderings.
 
-Chapter 3: [su_audio url="https://archive.org/download/LamentationsInEnglishWithTropeLenFellman2017/LenFellman-LamentationsChapter3.mp3" width="60%"]
+The <em>trōp</em> melodies I used were taken from the book CHANTING THE HEBREW BIBLE by Joshua R. Jacobson. In order to adapt the <em>trōp</em> symbols to a left-to-right language like English, I reversed the direction of the following <em>trōp</em> symbols: mercha tip’cha munach tevir kadma/pashta geresh gershayim 
 
-Chapter 4: [su_audio url="https://archive.org/download/LamentationsInEnglishWithTropeLenFellman2017/LenFellman-LamentationsChapter4.mp3" width="60%"]
+However, I left these the way they are: telisha katana telisha gedola
 
-Chapter 5: [su_audio url="https://archive.org/download/LamentationsInEnglishWithTropeLenFellman2017/LenFellman-LamentationsChapter5.mp3" width="60%"]
+I also indicate a mercha/tipcha pair or a kadma/geresh pair by “wrapping it around” the phrase which will have the combined melody, as in: Renew our days She weeps bitterly
 
-<hr />
+I also frequently indicate an entire English phrase to be chanted to a single <em>trōp</em> melody, as in: [clings to her skirts]
 
-<h3>Source</h3>
+Chapter 3 of Lamentations is sung by singing each set of three verses to three melodies, in turn. I grouped each set of three verses together, as in 1-3, 4-6, etc. The first two of the three melodies end their first half (the “half-cadence”) with a high note, and the third with a “falling tone”. I have marked the corresponding syllable with an arrow: &#x2197; for the high note or half-cadence of the first melody, ↑ for the high note of the second melody, and &#x2198; for the “falling tone” of the third melody.
+</div>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/LamentationsInEnglishWithTropeLenFellman2017#page/n0/mode/2up"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/LamentationsInEnglishWithTropeLenFellman2017/Megillat%20Eikhah%20-%20English%20transtropilation%20%28Len%20Fellman%202019%29#page/n0/mode/2up"]
+
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/details/LamentationsInEnglishWithTropeLenFellman2017"]
 
 <hr />
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
-
-</span></div></td>
- 
-<td style="vertical-align:top;" width="53%">
-<div class="english">
-<strong>NOTE: As of 17 July 2018, only Len Fellman's translation appears below. We are in the process of adding <em>trōp</em>/t'amim in Unicode to his English translation as it appears in his PDF above.</strong>
-</div></td></tr>
-
-
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
 אֵיכָה א
@@ -2254,23 +2249,5 @@ and we shall return.
 </span></div></td>
  </tr>
 </tbody></table>
-
-<hr />
-
-This English version of Lamentations has been prepared by drawing on the following translations: The Stone Edition Tanach, JPS, H.L. Ginsberg, David Seidenberg, James Moffat, Jerusalem Bible, New King James Bible.
-
-The goal was to create an English reading that can be sung to the traditional <em>trōp</em>s that are used for the Hebrew, but which follows the Hebrew with its <em>trōp</em>s as closely as possible.
-
-If one examines the authoritative translations, it becomes clear that there are many passages in the text of whose meaning the experts are unsure. In those situations I attempted to choose a reading which scans well with the melody, and which agrees with some (or at least one) of the authoritative renderings.
-
-The <em>trōp</em> melodies I used were taken from the book CHANTING THE HEBREW BIBLE by Joshua R. Jacobson. In order to adapt the <em>trōp</em> symbols to a left-to-right language like English, I reversed the direction of the following <em>trōp</em> symbols: mercha tip’cha munach tevir kadma/pashta geresh gershayim
-
-However, I left these the way they are: telisha katana telisha gedola
-
-I also indicate a mercha/tipcha pair or a kadma/geresh pair by “wrapping it around” the phrase which will have the combined melody, as in: Renew our days She weeps bitterly
-
-I also frequently indicate an entire English phrase to be chanted to a single <em>trōp</em> melody, as in: [clings to her skirts]
-
-Chapter 3 of Lamentations is sung by singing each set of three verses to three melodies, in turn. I grouped each set of three verses together, as in 1-3, 4-6, etc. The first two of the three melodies end their first half (the “half-cadence”) with a high note, and the third with a “falling tone”. I have marked the corresponding syllable with an arrow: &#x2197; for the high note or half-cadence of the first melody, ↑ for the high note of the second melody, and &#x2198; for the “falling tone” of the third melody.
 </body>
 </html>

@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: א תחנה פאר א מוטער װאס פירט איהר קינד דעם ערשׁטען מאל אין חדר | Tkhine for a Mother Who Leads their Child for the First Time to Religious School (1910)<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=14062">http://opensiddur.org/?p=14062</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=14062">http://opensiddur.org/?p=14062</a>
 <p />
 <hr />
 

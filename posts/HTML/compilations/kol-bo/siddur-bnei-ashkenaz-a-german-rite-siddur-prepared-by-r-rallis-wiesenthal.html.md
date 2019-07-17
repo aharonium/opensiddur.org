@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: תפלה שפת ישראל | Tefiloh Sefas Yisroel, a nusaḥ Ashkenaz siddur dedicated to the memory of the Bad Homburg Jewish community<br />
-Author: rallisw<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=1450">http://opensiddur.org/?p=1450</a>
+Primary contributor: rallisw<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=1450">http://opensiddur.org/?p=1450</a>
 <p />
 <hr />
 

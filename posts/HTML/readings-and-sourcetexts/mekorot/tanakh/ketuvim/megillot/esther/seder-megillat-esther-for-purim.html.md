@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: סדר מגילת אסתר עם פסוקים שנאמרו על אסתר ומרדכי | Seder Megillat Esther (with verses to be said for Esther and Mordekhai)<br />
-Author: unknown<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=2710">http://opensiddur.org/?p=2710</a>
+Primary contributor: unknown<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=2710">http://opensiddur.org/?p=2710</a>
 <p />
 <hr />
 

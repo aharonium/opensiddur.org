@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Inauguration Day Benediction for President John F. Kennedy by Rabbi Dr. Nelson Glueck (1961)<br />
-Author: nelson.glueck<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=11282">http://opensiddur.org/?p=11282</a>
+Primary contributor: nelson.glueck<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=11282">http://opensiddur.org/?p=11282</a>
 <p />
 <hr />
 

@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: אֵל מָלֵא רַחֲמִים | El Malé Raḥamim (Prayer for the Departed), translated and sung by Effron Esseiva<br />
-Author: effron.esseiva<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=3315">http://opensiddur.org/?p=3315</a>
+Primary contributor: effron.esseiva<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=3315">http://opensiddur.org/?p=3315</a>
 <p />
 <hr />
 

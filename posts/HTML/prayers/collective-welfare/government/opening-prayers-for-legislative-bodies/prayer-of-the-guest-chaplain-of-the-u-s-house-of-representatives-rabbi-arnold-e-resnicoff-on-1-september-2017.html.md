@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Prayer of the Guest Chaplain of the U.S. House of Representatives: Rabbi Arnold E. Resnicoff on 1 September 2017<br />
-Author: United-States.Congressional-Record<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=20010">http://opensiddur.org/?p=20010</a>
+Primary contributor: United-States.Congressional-Record<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=20010">http://opensiddur.org/?p=20010</a>
 <p />
 <hr />
 

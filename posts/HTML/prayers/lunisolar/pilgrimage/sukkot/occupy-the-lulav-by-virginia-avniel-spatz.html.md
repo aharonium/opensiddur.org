@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Occupy the Lulav by Virginia Avniel Spatz<br />
-Author: vspatz<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=4054">http://opensiddur.org/?p=4054</a>
+Primary contributor: vspatz<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=4054">http://opensiddur.org/?p=4054</a>
 <p />
 <hr />
 

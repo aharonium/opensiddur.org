@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: על הניסים ליום העצמאות | Al Hanissim for Yom Ha'atsma'ut, by Amos Ḥakham z"l<br />
-Author: amos.hakham<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=13540">http://opensiddur.org/?p=13540</a>
+Primary contributor: amos.hakham<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=13540">http://opensiddur.org/?p=13540</a>
 <p />
 <hr />
 

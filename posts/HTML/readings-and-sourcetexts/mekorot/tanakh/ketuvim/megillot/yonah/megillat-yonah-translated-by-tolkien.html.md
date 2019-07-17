@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: מגילת יונה | Megillat Yonah, translated by J.R.R. Tolkien (1966)<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=21311">http://opensiddur.org/?p=21311</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=21311">http://opensiddur.org/?p=21311</a>
 <p />
 <hr />
 

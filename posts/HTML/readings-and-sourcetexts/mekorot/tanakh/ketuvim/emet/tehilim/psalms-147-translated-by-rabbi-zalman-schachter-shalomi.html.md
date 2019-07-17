@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: תהלים קמ״ז | Psalms 147, translated by Rabbi Zalman Schachter-Shalomi<br />
-Author: zalman.schachter-shalomi<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=20969">http://opensiddur.org/?p=20969</a>
+Primary contributor: zalman.schachter-shalomi<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=20969">http://opensiddur.org/?p=20969</a>
 <p />
 <hr />
 

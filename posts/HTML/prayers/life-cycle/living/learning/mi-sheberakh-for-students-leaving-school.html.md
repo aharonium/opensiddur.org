@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: מי שברך לתלמידים היוצאים לחופשת הקיץ | A Mi Sheberakh prayer for students leaving school for their summer break, by Rabbi Esteban Gottfried<br />
-Author: esteban.gottfried<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=5415">http://opensiddur.org/?p=5415</a>
+Primary contributor: esteban.gottfried<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=5415">http://opensiddur.org/?p=5415</a>
 <p />
 <hr />
 

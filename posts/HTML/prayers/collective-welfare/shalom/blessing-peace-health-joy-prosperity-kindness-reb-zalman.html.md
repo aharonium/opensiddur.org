@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: A Blessing for Peace, Health, Joy, Prosperity, and Kindness by Reb Zalman<br />
-Author: zalman.schachter-shalomi<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=14723">http://opensiddur.org/?p=14723</a>
+Primary contributor: zalman.schachter-shalomi<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=14723">http://opensiddur.org/?p=14723</a>
 <p />
 <hr />
 

@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: אשרי | Ashrei (Psalms 145), in an adapted translation by Rabbi Sam Seicol<br />
-Author: sam.seicol<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=16515">http://opensiddur.org/?p=16515</a>
+Primary contributor: sam.seicol<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=16515">http://opensiddur.org/?p=16515</a>
 <p />
 <hr />
 

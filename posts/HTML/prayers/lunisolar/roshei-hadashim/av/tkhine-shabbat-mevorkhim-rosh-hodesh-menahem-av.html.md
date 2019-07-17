@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: תְּחִנָה לְשַׁבָּת מְבָרְכִים רֹאשׁ חוֺדֶשׁ מְנַחֵם אָב | Tkhine for Shabbat Mevorkhim Rosh Ḥodesh Menaḥem Av (1877 and 1910)<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=14152">http://opensiddur.org/?p=14152</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=14152">http://opensiddur.org/?p=14152</a>
 <p />
 <hr />
 

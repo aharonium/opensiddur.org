@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: An Intention for the New Year (5779), by Rabbi Menachem Creditor<br />
-Author: menachem.creditor<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=21615">http://opensiddur.org/?p=21615</a>
+Primary contributor: menachem.creditor<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=21615">http://opensiddur.org/?p=21615</a>
 <p />
 <hr />
 

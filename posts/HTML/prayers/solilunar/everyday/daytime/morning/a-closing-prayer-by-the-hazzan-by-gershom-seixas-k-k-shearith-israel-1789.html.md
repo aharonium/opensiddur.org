@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: A Closing Prayer by the Ḥazzan, by Gershom Seixas (K.K. Shearith Israel, 1789)<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=22804">http://opensiddur.org/?p=22804</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=22804">http://opensiddur.org/?p=22804</a>
 <p />
 <hr />
 

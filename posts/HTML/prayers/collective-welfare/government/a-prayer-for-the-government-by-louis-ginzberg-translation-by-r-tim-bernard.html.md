@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: תְּפִלָּה בְּעַד הַמֶּמְשָׁלָה | A Prayer for the Government, by Louis Ginzberg (1927)<br />
-Author: tim.bernard<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=1134">http://opensiddur.org/?p=1134</a>
+Primary contributor: tim.bernard<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=1134">http://opensiddur.org/?p=1134</a>
 <p />
 <hr />
 

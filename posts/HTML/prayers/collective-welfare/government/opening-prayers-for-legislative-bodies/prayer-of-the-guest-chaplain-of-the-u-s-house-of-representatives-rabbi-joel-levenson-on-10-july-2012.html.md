@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Prayer of the Guest Chaplain of the U.S. House of Representatives: Rabbi Joel Levenson on 10 July 2012<br />
-Author: United-States.Congressional-Record<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=23091">http://opensiddur.org/?p=23091</a>
+Primary contributor: United-States.Congressional-Record<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=23091">http://opensiddur.org/?p=23091</a>
 <p />
 <hr />
 

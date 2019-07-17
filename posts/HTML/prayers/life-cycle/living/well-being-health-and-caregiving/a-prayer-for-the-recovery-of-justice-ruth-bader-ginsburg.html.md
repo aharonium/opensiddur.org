@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: A prayer for the recovery of Justice Ruth Bader Ginsburg<br />
-Author: aharon-nissn.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=22562">http://opensiddur.org/?p=22562</a>
+Primary contributor: aharon-nissn.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=22562">http://opensiddur.org/?p=22562</a>
 <p />
 <hr />
 

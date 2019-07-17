@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Bendigamos al Altísimo, a Spanish hymn for the meal, performed by Rabbi Shuviel Ma'aravi and Joshua Polak<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=11935">http://opensiddur.org/?p=11935</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=11935">http://opensiddur.org/?p=11935</a>
 <p />
 <hr />
 

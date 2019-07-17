@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Prayer of the Guest Chaplain of the U.S. House of Representatives: Rabbi Arnold E. Resnicoff on 6 February 2019<br />
-Author: arnold.resnicoff<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=23631">http://opensiddur.org/?p=23631</a>
+Primary contributor: arnold.resnicoff<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=23631">http://opensiddur.org/?p=23631</a>
 <p />
 <hr />
 

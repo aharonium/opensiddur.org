@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Inauguration Day Prayer for President Dwight D. Eisenhower by Rabbi Abba Hillel Silver (1953)<br />
-Author: abba-hillel.silver<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=11272">http://opensiddur.org/?p=11272</a>
+Primary contributor: abba-hillel.silver<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=11272">http://opensiddur.org/?p=11272</a>
 <p />
 <hr />
 

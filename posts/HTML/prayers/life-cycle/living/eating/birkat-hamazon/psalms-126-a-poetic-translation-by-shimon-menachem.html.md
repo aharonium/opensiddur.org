@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: תהלים קכו | Shir Hama'alot :: Psalms 126, a poetic translation by Shim'on Menachem<br />
-Author: shimonides<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=7731">http://opensiddur.org/?p=7731</a>
+Primary contributor: shimonides<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=7731">http://opensiddur.org/?p=7731</a>
 <p />
 <hr />
 

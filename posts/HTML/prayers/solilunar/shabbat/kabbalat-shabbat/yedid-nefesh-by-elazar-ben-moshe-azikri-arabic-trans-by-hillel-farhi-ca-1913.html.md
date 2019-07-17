@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: ידיד נפש | Yedid Nefesh attributed to Elazar ben Moshe Azikri ca. 16th c. (Arabic translation by Hillel Farḥi, ca. 1913)<br />
-Author: elazar-ben-moshe.azikri<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=15816">http://opensiddur.org/?p=15816</a>
+Primary contributor: elazar-ben-moshe.azikri<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=15816">http://opensiddur.org/?p=15816</a>
 <p />
 <hr />
 

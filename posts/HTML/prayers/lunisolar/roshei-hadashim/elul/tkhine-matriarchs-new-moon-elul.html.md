@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: תחנה אמהות מן ראש חודש אלול | Tkhine of the Matriarchs for the New Moon of Elul, by Seril Rappaport (ca. 18th c.)<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=14039">http://opensiddur.org/?p=14039</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=14039">http://opensiddur.org/?p=14039</a>
 <p />
 <hr />
 

@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: תפילת לשלום ירושלים | Prayer for the Peace of Jerusalem, by Rabbi Eliyahu Yosef She'ar Yashuv Cohen<br />
-Author: aharon.n.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=20519">http://opensiddur.org/?p=20519</a>
+Primary contributor: aharon.n.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=20519">http://opensiddur.org/?p=20519</a>
 <p />
 <hr />
 

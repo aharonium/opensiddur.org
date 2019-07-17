@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: תְּחִנָה לְשַׁבָּת מְבָרְכִים רֹאשׁ חוֹדֶשׁ שְׁבָט | Tkhine for Shabbat Mevorkhim Rosh Ḥodesh Shvat (1877)<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=18484">http://opensiddur.org/?p=18484</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=18484">http://opensiddur.org/?p=18484</a>
 <p />
 <hr />
 

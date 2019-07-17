@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Torah Reading for Parashat Naso (Numbers 4:21-7:89): Chantable English translation with trōp, by Len Fellman<br />
-Author: len.fellman<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=25364">http://opensiddur.org/?p=25364</a>
+Primary contributor: len.fellman<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=25364">http://opensiddur.org/?p=25364</a>
 <p />
 <hr />
 

@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: תפילה לשלום המדינה | Prayer for the Peace of the State of Israel, by Rabbi David Seidenberg (neohasid.org)<br />
-Author: david.seidenberg<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=19667">http://opensiddur.org/?p=19667</a>
+Primary contributor: david.seidenberg<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=19667">http://opensiddur.org/?p=19667</a>
 <p />
 <hr />
 

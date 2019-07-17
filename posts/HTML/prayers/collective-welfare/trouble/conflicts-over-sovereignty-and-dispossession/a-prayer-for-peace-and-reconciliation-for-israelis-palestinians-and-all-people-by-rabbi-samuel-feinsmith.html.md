@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: תפילה לשלום ופיוס לישראלים ולפלסטינים ולכל העם | A Prayer for Peace and Reconciliation for Israelis, Palestinians, and all People by Rabbi Samuel Feinsmith<br />
-Author: sam.feinsmith<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=9146">http://opensiddur.org/?p=9146</a>
+Primary contributor: sam.feinsmith<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=9146">http://opensiddur.org/?p=9146</a>
 <p />
 <hr />
 

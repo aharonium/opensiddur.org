@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: סדר לפסח: חרוסת | Ḥaroset, the Seder’s Innermost Secret: Earth & Eros in the Celebration of Pesaḥ, by Rabbi Arthur Waskow<br />
-Author: arthur.waskow<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=8830">http://opensiddur.org/?p=8830</a>
+Primary contributor: arthur.waskow<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=8830">http://opensiddur.org/?p=8830</a>
 <p />
 <hr />
 

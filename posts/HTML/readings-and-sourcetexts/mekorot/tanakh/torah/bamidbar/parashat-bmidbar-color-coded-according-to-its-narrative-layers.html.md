@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: פָּרָשַׁת בְּמִדְבַּר | Parashat b'Midbar (Numbers 1:1-4:20), color-coded according to its narrative layers<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=25462">http://opensiddur.org/?p=25462</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=25462">http://opensiddur.org/?p=25462</a>
 <p />
 <hr />
 

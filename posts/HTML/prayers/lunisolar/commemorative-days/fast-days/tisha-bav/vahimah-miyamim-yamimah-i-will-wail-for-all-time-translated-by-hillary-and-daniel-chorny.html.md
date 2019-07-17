@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: וְאָהִימָה מִיָּמִים יָמִימָה | v’Ahimah Miyamim Yamimah: I Will Wail for All Time (translated by Hillary and Daniel Chorny)<br />
-Author: hillary.chorny<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=11858">http://opensiddur.org/?p=11858</a>
+Primary contributor: hillary.chorny<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=11858">http://opensiddur.org/?p=11858</a>
 <p />
 <hr />
 

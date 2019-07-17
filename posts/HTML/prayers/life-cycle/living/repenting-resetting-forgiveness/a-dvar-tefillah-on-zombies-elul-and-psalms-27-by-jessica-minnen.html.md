@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: A D’var Tefillah on Zombies, Elul, and Psalms 27 by Rabbi Jessica Minnen<br />
-Author: jessica.minnen<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=3892">http://opensiddur.org/?p=3892</a>
+Primary contributor: jessica.minnen<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=3892">http://opensiddur.org/?p=3892</a>
 <p />
 <hr />
 

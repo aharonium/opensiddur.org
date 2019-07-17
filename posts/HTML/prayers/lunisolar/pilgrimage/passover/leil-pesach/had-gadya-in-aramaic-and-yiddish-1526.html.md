@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: חַד גַּדְיָא | Ḥad Gadya in Aramaic and Yiddish (Prague Haggadah, ca. 1526)<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=12981">http://opensiddur.org/?p=12981</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=12981">http://opensiddur.org/?p=12981</a>
 <p />
 <hr />
 

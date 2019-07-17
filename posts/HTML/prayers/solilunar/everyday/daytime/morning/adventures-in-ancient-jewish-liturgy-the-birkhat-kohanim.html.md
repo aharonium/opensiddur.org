@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Adventures in Ancient Jewish Liturgy: the Birkat Kohanim<br />
-Author: aharon-nissn.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=5815">http://opensiddur.org/?p=5815</a>
+Primary contributor: aharon-nissn.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=5815">http://opensiddur.org/?p=5815</a>
 <p />
 <hr />
 

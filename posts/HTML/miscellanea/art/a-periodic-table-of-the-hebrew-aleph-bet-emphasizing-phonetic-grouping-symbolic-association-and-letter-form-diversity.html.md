@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: האותיות של האבג״ד בעברית | A Periodic Table of the Hebrew Aleph Bet Emphasizing Phonetic Grouping, Symbolic Association, and Diversity of Letter Form<br />
-Author: aharon-nissn.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=12374">http://opensiddur.org/?p=12374</a>
+Primary contributor: aharon-nissn.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=12374">http://opensiddur.org/?p=12374</a>
 <p />
 <hr />
 

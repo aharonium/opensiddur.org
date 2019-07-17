@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: סדר תפילות | The Seder Tefillot of Rabbi Moshe ben Maimon (c. 1180 CE)<br />
-Author: moshe.ben-maimon<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=6698">http://opensiddur.org/?p=6698</a>
+Primary contributor: moshe.ben-maimon<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=6698">http://opensiddur.org/?p=6698</a>
 <p />
 <hr />
 

@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: An den letzten Tagen des Laubhüttenfestes | [A prayer] on the last days of Sukkot, by Fanny Neuda (1855)<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=17602">http://opensiddur.org/?p=17602</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=17602">http://opensiddur.org/?p=17602</a>
 <p />
 <hr />
 

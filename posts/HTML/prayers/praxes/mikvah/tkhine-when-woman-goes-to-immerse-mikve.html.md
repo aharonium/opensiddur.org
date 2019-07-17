@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: תחנה אײדער אפרויא גײט אין טבילת מצוה | Tkhine for when a Woman Goes to Immerse in the Mikve (1910)<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=14019">http://opensiddur.org/?p=14019</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=14019">http://opensiddur.org/?p=14019</a>
 <p />
 <hr />
 

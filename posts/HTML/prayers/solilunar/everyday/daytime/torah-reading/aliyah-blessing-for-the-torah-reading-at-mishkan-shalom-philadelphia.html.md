@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: ברכות על קריאת התורה | Blessing over the Torah Reading, at Mishkan Shalom, Philadelphia<br />
-Author: zalman.schachter-shalomi<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=18340">http://opensiddur.org/?p=18340</a>
+Primary contributor: zalman.schachter-shalomi<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=18340">http://opensiddur.org/?p=18340</a>
 <p />
 <hr />
 

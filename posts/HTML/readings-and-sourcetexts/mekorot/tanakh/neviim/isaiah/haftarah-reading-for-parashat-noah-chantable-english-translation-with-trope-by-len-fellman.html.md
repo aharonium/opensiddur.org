@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Haftarah Reading for Parashat Noaḥ (Isaiah 54:1-55:5): Chantable English translation with trōp, by Len Fellman<br />
-Author: len.fellman<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=22050">http://opensiddur.org/?p=22050</a>
+Primary contributor: len.fellman<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=22050">http://opensiddur.org/?p=22050</a>
 <p />
 <hr />
 

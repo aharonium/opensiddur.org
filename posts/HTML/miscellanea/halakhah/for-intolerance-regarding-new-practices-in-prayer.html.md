@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Concerning Intolerance of New Practices in Jewish Prayer, by Reb Zalman Schachter-Shalomi (1989)<br />
-Author: seth.fishman<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=5480">http://opensiddur.org/?p=5480</a>
+Primary contributor: seth.fishman<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=5480">http://opensiddur.org/?p=5480</a>
 <p />
 <hr />
 

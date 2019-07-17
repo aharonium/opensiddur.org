@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Prayer of the Guest Chaplain of the U.S. House of Representatives: Rabbi Hannah Spiro on 29 May 2018<br />
-Author: hannah.spiro<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=20220">http://opensiddur.org/?p=20220</a>
+Primary contributor: hannah.spiro<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=20220">http://opensiddur.org/?p=20220</a>
 <p />
 <hr />
 

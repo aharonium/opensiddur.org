@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: אֵשֶׁת חַיִל | Eyshet Ḥayil, adapted by Alex and Peri Sinclair<br />
-Author: peri.sinclair<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=4378">http://opensiddur.org/?p=4378</a>
+Primary contributor: peri.sinclair<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=4378">http://opensiddur.org/?p=4378</a>
 <p />
 <hr />
 

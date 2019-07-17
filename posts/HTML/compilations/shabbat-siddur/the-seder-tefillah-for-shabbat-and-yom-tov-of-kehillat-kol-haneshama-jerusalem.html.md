@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: שבת | The Seder Tefillah for Shabbat and Yom Tov of Kehillat Kol Haneshama, Jerusalem<br />
-Author: levi.weiman-kelman<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=12061">http://opensiddur.org/?p=12061</a>
+Primary contributor: levi.weiman-kelman<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=12061">http://opensiddur.org/?p=12061</a>
 <p />
 <hr />
 

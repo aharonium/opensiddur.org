@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: פָּרָשַׁת חַיֵּי שָׂרָה | Parashat Ḥayyei Sarah (Genesis 23:1-25:18), color-coded according to its narrative layers<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=22268">http://opensiddur.org/?p=22268</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=22268">http://opensiddur.org/?p=22268</a>
 <p />
 <hr />
 

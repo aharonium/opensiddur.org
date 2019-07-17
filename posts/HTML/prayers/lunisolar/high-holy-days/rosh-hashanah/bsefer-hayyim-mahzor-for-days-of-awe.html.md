@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: בספר חיים | B'Sefer Ḥayyim: A Maḥzor for the Days of Awe<br />
-Author: Gershon-b<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=14388">http://opensiddur.org/?p=14388</a>
+Primary contributor: Gershon-b<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=14388">http://opensiddur.org/?p=14388</a>
 <p />
 <hr />
 

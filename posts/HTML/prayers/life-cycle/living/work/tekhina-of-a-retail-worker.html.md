@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: תפילה של עובד קמעונאי | Prayer of a Retail Worker<br />
-Author: azriel<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=2717">http://opensiddur.org/?p=2717</a>
+Primary contributor: azriel<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=2717">http://opensiddur.org/?p=2717</a>
 <p />
 <hr />
 

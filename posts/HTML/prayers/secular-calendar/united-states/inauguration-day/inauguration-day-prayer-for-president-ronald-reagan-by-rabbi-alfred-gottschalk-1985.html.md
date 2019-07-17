@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Inauguration Day Prayer for President Ronald Reagan by Rabbi Alfred Gottschalk (1985)<br />
-Author: alfred.gottschalk<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=11293">http://opensiddur.org/?p=11293</a>
+Primary contributor: alfred.gottschalk<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=11293">http://opensiddur.org/?p=11293</a>
 <p />
 <hr />
 

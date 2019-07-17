@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: אחרי הסערה | Prayer in the Aftermath of the Hurricane by Rabbi Samuel Barth<br />
-Author: samuel.barth<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=5375">http://opensiddur.org/?p=5375</a>
+Primary contributor: samuel.barth<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=5375">http://opensiddur.org/?p=5375</a>
 <p />
 <hr />
 

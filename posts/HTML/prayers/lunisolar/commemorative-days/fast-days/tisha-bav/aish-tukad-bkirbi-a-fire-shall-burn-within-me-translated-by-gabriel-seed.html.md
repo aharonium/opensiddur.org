@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: אֵשׁ תּוּקַד בְּקִרְבִּי | Aish Tuqad b'Qirbi: A Fire Shall Burn Within Me, translated by Gabriel Seed<br />
-Author: gabriel.seed<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=11853">http://opensiddur.org/?p=11853</a>
+Primary contributor: gabriel.seed<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=11853">http://opensiddur.org/?p=11853</a>
 <p />
 <hr />
 

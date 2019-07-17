@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: נשמה שנתת בי | Neshamah Shenatata Bi (the breath you have given me), interpretive translation by Reb Zalman Schachter-Shalomi, z"l<br />
-Author: zalman.schachter-shalomi<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=17309">http://opensiddur.org/?p=17309</a>
+Primary contributor: zalman.schachter-shalomi<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=17309">http://opensiddur.org/?p=17309</a>
 <p />
 <hr />
 

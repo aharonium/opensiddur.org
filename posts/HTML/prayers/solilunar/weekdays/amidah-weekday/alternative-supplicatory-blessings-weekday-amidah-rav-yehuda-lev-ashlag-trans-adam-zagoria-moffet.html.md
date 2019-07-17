@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Alternative Supplicatory Blessings for the Weekday Amidah by Rav Yehuda Lev Ashlag (trans. Adam Zagoria-Moffet)<br />
-Author: adam.zagoria-moffet<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=14361">http://opensiddur.org/?p=14361</a>
+Primary contributor: adam.zagoria-moffet<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=14361">http://opensiddur.org/?p=14361</a>
 <p />
 <hr />
 

@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: תפילה לילדי עזה | A Prayer for Gaza’s Children, by Bradley Burston (2008)<br />
-Author: bradley.burston<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=5783">http://opensiddur.org/?p=5783</a>
+Primary contributor: bradley.burston<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=5783">http://opensiddur.org/?p=5783</a>
 <p />
 <hr />
 

@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: תפילה למצביעי המדינה | Prayer for the Electorate, by David Zvi Kalman (2016)<br />
-Author: dzkalman<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=14649">http://opensiddur.org/?p=14649</a>
+Primary contributor: dzkalman<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=14649">http://opensiddur.org/?p=14649</a>
 <p />
 <hr />
 

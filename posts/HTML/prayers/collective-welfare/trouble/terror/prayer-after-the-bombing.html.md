@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: תפילה לבאסטאן | Prayer After the Bombing in Boston, by Rabbi Rachel Barenblat (2013)<br />
-Author: rbarenblat<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=6679">http://opensiddur.org/?p=6679</a>
+Primary contributor: rbarenblat<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=6679">http://opensiddur.org/?p=6679</a>
 <p />
 <hr />
 

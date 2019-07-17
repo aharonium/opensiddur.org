@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Torah Reading for Parashat B'shalaḥ (Exodus 13:17-17:16): Chantable English translation with trōp, by Len Fellman<br />
-Author: len.fellman<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=23314">http://opensiddur.org/?p=23314</a>
+Primary contributor: len.fellman<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=23314">http://opensiddur.org/?p=23314</a>
 <p />
 <hr />
 

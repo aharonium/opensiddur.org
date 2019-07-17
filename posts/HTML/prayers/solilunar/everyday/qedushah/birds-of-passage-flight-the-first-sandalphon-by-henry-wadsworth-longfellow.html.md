@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Sandalphon, by Henry Wadsworth Longfellow (1858)<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=7047">http://opensiddur.org/?p=7047</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=7047">http://opensiddur.org/?p=7047</a>
 <p />
 <hr />
 

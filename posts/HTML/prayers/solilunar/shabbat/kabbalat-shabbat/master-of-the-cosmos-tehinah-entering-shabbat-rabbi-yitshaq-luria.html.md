@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: רבון כל העולמים | Master of the Cosmos, a tehinah for entering Shabbat by Rabbi Yitsḥaq Luria (circa 16th c.)<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=15137">http://opensiddur.org/?p=15137</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=15137">http://opensiddur.org/?p=15137</a>
 <p />
 <hr />
 

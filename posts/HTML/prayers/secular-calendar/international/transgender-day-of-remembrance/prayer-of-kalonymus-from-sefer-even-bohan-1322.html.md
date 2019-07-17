@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: תפילה להפך – מאבן בֹחן | Prayer for Transformation, from the poem Even Boḥan ("Touchstone") by Rabbi Qalonymus ben Qalonymus ben Meir (1322 C.E.)<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=21633">http://opensiddur.org/?p=21633</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=21633">http://opensiddur.org/?p=21633</a>
 <p />
 <hr />
 

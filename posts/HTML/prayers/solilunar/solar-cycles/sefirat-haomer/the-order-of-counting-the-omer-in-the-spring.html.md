@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: סֵדֶר סְפִירַת הָעֹמֶר | the Order of Counting the Omer in the Spring<br />
-Author: aharon-nissn.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=6353">http://opensiddur.org/?p=6353</a>
+Primary contributor: aharon-nissn.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=6353">http://opensiddur.org/?p=6353</a>
 <p />
 <hr />
 

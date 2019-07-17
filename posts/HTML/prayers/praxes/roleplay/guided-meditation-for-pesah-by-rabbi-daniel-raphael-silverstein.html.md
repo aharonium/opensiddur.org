@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: A Guided Meditation for Pesaḥ, by Rabbi Daniel Raphael Silverstein<br />
-Author: daniel-raphael.silverstein<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=24501">http://opensiddur.org/?p=24501</a>
+Primary contributor: daniel-raphael.silverstein<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=24501">http://opensiddur.org/?p=24501</a>
 <p />
 <hr />
 

@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Knowing But Not Revealing: A Purim Tax Deduction Loophole, by Lieba B. Ruth<br />
-Author: lauren.deutsch<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=6003">http://opensiddur.org/?p=6003</a>
+Primary contributor: lauren.deutsch<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=6003">http://opensiddur.org/?p=6003</a>
 <p />
 <hr />
 

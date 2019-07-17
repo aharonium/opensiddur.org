@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Prayer for Israeli-Palestinian Solidarity, by Rabbi Ḥanan Schlesinger<br />
-Author: hanan.schlesinger<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=24155">http://opensiddur.org/?p=24155</a>
+Primary contributor: hanan.schlesinger<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=24155">http://opensiddur.org/?p=24155</a>
 <p />
 <hr />
 

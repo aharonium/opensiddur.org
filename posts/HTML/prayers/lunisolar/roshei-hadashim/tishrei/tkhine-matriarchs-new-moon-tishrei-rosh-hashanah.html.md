@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: תחנה אמהות מן ראש חדש תשרי | Tkhine of the Matriarchs for the New Moon of Tishrei [Rosh Hashanah] by Seril Rappaport (ca. 18th century)<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=14045">http://opensiddur.org/?p=14045</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=14045">http://opensiddur.org/?p=14045</a>
 <p />
 <hr />
 

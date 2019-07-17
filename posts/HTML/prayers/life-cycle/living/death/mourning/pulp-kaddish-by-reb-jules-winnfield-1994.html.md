@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: אַ פּאָלףּ קדיש | A Kaddish by Reb Jules Winnfield (Pulp Fiction, 1994)<br />
-Author: kosherchorizo<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=2557">http://opensiddur.org/?p=2557</a>
+Primary contributor: kosherchorizo<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=2557">http://opensiddur.org/?p=2557</a>
 <p />
 <hr />
 

@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: סדר תפילות כמנהג ק״ק ספרדים מתורגמות יונית | Καθημεριναι Προσευχαι (Yosef Naḥmuli, Corfu 1885)<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=22353">http://opensiddur.org/?p=22353</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=22353">http://opensiddur.org/?p=22353</a>
 <p />
 <hr />
 

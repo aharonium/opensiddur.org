@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: A Jewish Prayer for Nakba Day (يوم النكبة), by Rabbi Brant Rosen<br />
-Author: RavBoaz<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=25183">http://opensiddur.org/?p=25183</a>
+Primary contributor: RavBoaz<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=25183">http://opensiddur.org/?p=25183</a>
 <p />
 <hr />
 

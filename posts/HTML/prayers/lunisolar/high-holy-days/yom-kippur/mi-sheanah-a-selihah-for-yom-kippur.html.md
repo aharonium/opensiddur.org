@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: מי שענה... הוא יעננו | Mi She'anah... Hu Ya'anenu - A Seliḥah for Yom Kippur (egal adaptation by Lisa Exler and R' Julia Andelman, 2004)<br />
-Author: unknown<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=14412">http://opensiddur.org/?p=14412</a>
+Primary contributor: unknown<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=14412">http://opensiddur.org/?p=14412</a>
 <p />
 <hr />
 

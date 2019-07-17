@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Prayer of the Guest Chaplain of the U.S. Senate: Rabbi Baruch Frydman-Kohl on 29 November 2012<br />
-Author: United-States.Congressional-Record<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=22753">http://opensiddur.org/?p=22753</a>
+Primary contributor: United-States.Congressional-Record<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=22753">http://opensiddur.org/?p=22753</a>
 <p />
 <hr />
 

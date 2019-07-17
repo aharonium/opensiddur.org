@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Hanna. Gebet- und Andachtsbuch für israelitische Frauen und Mädchen. (Jacob Freund et al, 1867)<br />
-Author: jacob.freund<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=6866">http://opensiddur.org/?p=6866</a>
+Primary contributor: jacob.freund<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=6866">http://opensiddur.org/?p=6866</a>
 <p />
 <hr />
 

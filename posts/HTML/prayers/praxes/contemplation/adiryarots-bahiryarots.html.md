@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: אַדִירְיַרוֹץ בַּהִירְיַרוֹץ | Adiryarots Bahiryarots, a litany of angelic names associated with the 42 letter name, recorded in Sefer haPeliah<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=24049">http://opensiddur.org/?p=24049</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=24049">http://opensiddur.org/?p=24049</a>
 <p />
 <hr />
 

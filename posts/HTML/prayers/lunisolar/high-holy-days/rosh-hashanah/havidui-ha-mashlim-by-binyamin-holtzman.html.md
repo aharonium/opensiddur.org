@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: הַוִּדּוּי הַמַּשְׁלִים | HaVidui Ha-Mashlim :: Complementary Confession, by Rabbi Binyamin Holtzman<br />
-Author: benny.holzman<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=9453">http://opensiddur.org/?p=9453</a>
+Primary contributor: benny.holzman<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=9453">http://opensiddur.org/?p=9453</a>
 <p />
 <hr />
 

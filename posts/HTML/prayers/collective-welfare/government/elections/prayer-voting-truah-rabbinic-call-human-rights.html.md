@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: A Prayer on Voting, by T'ruah: The Rabbinic Call for Human Rights (2016)<br />
-Author: truah<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=14653">http://opensiddur.org/?p=14653</a>
+Primary contributor: truah<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=14653">http://opensiddur.org/?p=14653</a>
 <p />
 <hr />
 

@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: מִי שֶׁבֵּרַךְ | Mi Sheberakh for Victims of Slavery, by Rabbi Joshua Boettiger (2009)<br />
-Author: joshua.boettiger<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=3079">http://opensiddur.org/?p=3079</a>
+Primary contributor: joshua.boettiger<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=3079">http://opensiddur.org/?p=3079</a>
 <p />
 <hr />
 

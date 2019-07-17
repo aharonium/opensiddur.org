@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: הגדה לסדר פסח | Haggadah of the Inner Seder, by Rabbi David Seidenberg (neohasid.org)<br />
-Author: david.seidenberg<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=11018">http://opensiddur.org/?p=11018</a>
+Primary contributor: david.seidenberg<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=11018">http://opensiddur.org/?p=11018</a>
 <p />
 <hr />
 

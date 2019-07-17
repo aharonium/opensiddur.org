@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Musical Liturgy and Traditions of Colonial American Jews<br />
-Author: laurie.rappeport<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=8482">http://opensiddur.org/?p=8482</a>
+Primary contributor: laurie.rappeport<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=8482">http://opensiddur.org/?p=8482</a>
 <p />
 <hr />
 

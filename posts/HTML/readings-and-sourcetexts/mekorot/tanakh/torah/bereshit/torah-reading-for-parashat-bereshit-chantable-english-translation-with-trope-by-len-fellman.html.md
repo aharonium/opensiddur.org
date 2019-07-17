@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Torah Reading for Parashat Bereshit (Genesis 1:1-6:8): Chantable English translation with trōp, by Len Fellman<br />
-Author: len.fellman<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=22033">http://opensiddur.org/?p=22033</a>
+Primary contributor: len.fellman<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=22033">http://opensiddur.org/?p=22033</a>
 <p />
 <hr />
 

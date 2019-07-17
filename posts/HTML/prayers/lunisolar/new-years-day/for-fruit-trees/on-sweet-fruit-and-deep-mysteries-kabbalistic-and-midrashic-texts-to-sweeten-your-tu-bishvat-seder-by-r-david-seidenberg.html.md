@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: סֵדֶר ט״וּ בִּשְׁבָט | On Sweet Fruit and Deep Mysteries: Kabbalistic and Midrashic Texts to Sweeten your Tu Bishvat Seder, by Rabbi David Seidenberg (neohasid.org)<br />
-Author: david.seidenberg<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=4424">http://opensiddur.org/?p=4424</a>
+Primary contributor: david.seidenberg<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=4424">http://opensiddur.org/?p=4424</a>
 <p />
 <hr />
 

@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: ט״ו באב | Tu b’Av: sources for study and celebration on the 15th of Av<br />
-Author: aharon-nissn.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=3572">http://opensiddur.org/?p=3572</a>
+Primary contributor: aharon-nissn.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=3572">http://opensiddur.org/?p=3572</a>
 <p />
 <hr />
 

@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: אלף באלול | The Council of All Beings on the New Year's Day festival for Animals, Rosh Hashanah LaBehemot (ראש השנה לבהימות)<br />
-Author: aharon-nissn.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=7428">http://opensiddur.org/?p=7428</a>
+Primary contributor: aharon-nissn.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=7428">http://opensiddur.org/?p=7428</a>
 <p />
 <hr />
 

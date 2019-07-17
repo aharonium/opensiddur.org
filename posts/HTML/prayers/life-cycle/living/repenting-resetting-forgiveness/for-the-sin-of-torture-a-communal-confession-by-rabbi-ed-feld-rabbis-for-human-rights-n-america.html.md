@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: על חטא | For the Sin of Torture: A Communal Confession by Rabbi Ed Feld<br />
-Author: truah<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=5245">http://opensiddur.org/?p=5245</a>
+Primary contributor: truah<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=5245">http://opensiddur.org/?p=5245</a>
 <p />
 <hr />
 

@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Prayer for the Abducted Nigerian Schoolgirls, by Rabbi Hillel Lavery-Yisraëli (2014)<br />
-Author: hillel.yisraeli-lavery<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=8919">http://opensiddur.org/?p=8919</a>
+Primary contributor: hillel.yisraeli-lavery<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=8919">http://opensiddur.org/?p=8919</a>
 <p />
 <hr />
 

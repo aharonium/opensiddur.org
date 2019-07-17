@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: בורא עד אנה | Borei Ad Anah, "Creator! How long" (after 1492 C.E.)<br />
-Author: unknown<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=14255">http://opensiddur.org/?p=14255</a>
+Primary contributor: unknown<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=14255">http://opensiddur.org/?p=14255</a>
 <p />
 <hr />
 

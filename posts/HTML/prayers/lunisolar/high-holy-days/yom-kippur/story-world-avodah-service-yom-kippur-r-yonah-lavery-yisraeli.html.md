@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: A Story of the World (for the Avodah Service on Yom Kippur) by R' Yonah Lavery-Yisraeli<br />
-Author: yonah.lavery-yisraeli<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=18042">http://opensiddur.org/?p=18042</a>
+Primary contributor: yonah.lavery-yisraeli<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=18042">http://opensiddur.org/?p=18042</a>
 <p />
 <hr />
 

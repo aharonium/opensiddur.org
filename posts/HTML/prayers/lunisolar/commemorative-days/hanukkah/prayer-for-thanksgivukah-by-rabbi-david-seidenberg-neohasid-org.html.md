@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: תפילה ליום הודו על חנוכּה | Prayer on Thanksgivukah by Rabbi David Seidenberg (neohasid.org)<br />
-Author: david.seidenberg<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=7746">http://opensiddur.org/?p=7746</a>
+Primary contributor: david.seidenberg<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=7746">http://opensiddur.org/?p=7746</a>
 <p />
 <hr />
 

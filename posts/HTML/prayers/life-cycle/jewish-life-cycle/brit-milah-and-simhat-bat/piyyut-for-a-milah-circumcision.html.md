@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: פיוט למילה | Piyyut for a Milah (circumcision) by Rabbi Dr. Aryeh Cohen<br />
-Author: aryeh.cohen<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=15370">http://opensiddur.org/?p=15370</a>
+Primary contributor: aryeh.cohen<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=15370">http://opensiddur.org/?p=15370</a>
 <p />
 <hr />
 

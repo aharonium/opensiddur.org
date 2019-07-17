@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: יָצַר הָאֵל | Yatsar ha'El, a Shabbat song by Ya'aqov ha-Qara'i<br />
-Author: karaite-jews.of-america<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=24325">http://opensiddur.org/?p=24325</a>
+Primary contributor: karaite-jews.of-america<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=24325">http://opensiddur.org/?p=24325</a>
 <p />
 <hr />
 

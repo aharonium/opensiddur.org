@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Memorial Day Prayer at the Vietnam Veterans Memorial, by Rabbi Arnold Resnicoff on 28 May 2018<br />
-Author: arnold.resnicoff<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=22893">http://opensiddur.org/?p=22893</a>
+Primary contributor: arnold.resnicoff<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=22893">http://opensiddur.org/?p=22893</a>
 <p />
 <hr />
 

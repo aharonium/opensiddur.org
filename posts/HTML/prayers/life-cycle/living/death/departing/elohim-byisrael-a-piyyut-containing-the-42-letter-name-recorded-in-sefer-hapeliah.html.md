@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: אֱלֹהִים בְּיִשְׂרָאֵל | Elohim b'Yisrael :: A piyyut containing the 42 Letter Name, recorded in Sefer haPeliah<br />
-Author: aharon.n.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=23011">http://opensiddur.org/?p=23011</a>
+Primary contributor: aharon.n.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=23011">http://opensiddur.org/?p=23011</a>
 <p />
 <hr />
 

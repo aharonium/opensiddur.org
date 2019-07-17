@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: קִדּוּשׁ שֶׁל שִׁחְרוּר עַל שַׁבָּת ט״וּ בִּשְׁבָט | Shabbat Kiddush of Liberation for Shabbat Tu biShvat, by Mark X. Jacobs (1993)<br />
-Author: mark.x.jacobs<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=1692">http://opensiddur.org/?p=1692</a>
+Primary contributor: mark.x.jacobs<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=1692">http://opensiddur.org/?p=1692</a>
 <p />
 <hr />
 

@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: In Kinderloser Ehe | [Prayer for a Woman] In a Childless Marriage, by Fanny Neuda (1855)<br />
-Author: julia.watts-belser<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=24927">http://opensiddur.org/?p=24927</a>
+Primary contributor: julia.watts-belser<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=24927">http://opensiddur.org/?p=24927</a>
 <p />
 <hr />
 

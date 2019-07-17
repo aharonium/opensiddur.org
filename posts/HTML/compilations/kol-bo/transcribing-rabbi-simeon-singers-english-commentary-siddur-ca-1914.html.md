@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: סדר תפלות כל השנה | The Authorised Daily Prayer Book annotated by Israel Abrahams (1914)<br />
-Author: hierophant<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=12943">http://opensiddur.org/?p=12943</a>
+Primary contributor: hierophant<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=12943">http://opensiddur.org/?p=12943</a>
 <p />
 <hr />
 

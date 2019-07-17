@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: א תחנה פאר א כלה קודם החופה | A Tkhine for a Bride [to say] before the Khupe [wedding canopy ceremony]<br />
-Author: baruch-jean.thaler<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=13976">http://opensiddur.org/?p=13976</a>
+Primary contributor: baruch-jean.thaler<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=13976">http://opensiddur.org/?p=13976</a>
 <p />
 <hr />
 

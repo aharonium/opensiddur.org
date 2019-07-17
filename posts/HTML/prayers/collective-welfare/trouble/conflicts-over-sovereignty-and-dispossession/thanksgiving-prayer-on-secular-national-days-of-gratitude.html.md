@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: עַל הַנִּסִּים בִּימֵי הוֹדָיָה לְאֻמִּיִּים | Al Hanissim prayer for thanksgiving on all Secular/National Days of Gratitude, by Aharon Varady<br />
-Author: aharon-nissn.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=6661">http://opensiddur.org/?p=6661</a>
+Primary contributor: aharon-nissn.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=6661">http://opensiddur.org/?p=6661</a>
 <p />
 <hr />
 

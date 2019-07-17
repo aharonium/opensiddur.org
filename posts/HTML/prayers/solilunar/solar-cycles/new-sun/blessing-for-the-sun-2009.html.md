@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: ברכת החמה | Kavvanah for the Blessing for the Sun, by Rabbi David Seidenberg (neohasid.org, 2009)<br />
-Author: david.seidenberg<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=6838">http://opensiddur.org/?p=6838</a>
+Primary contributor: david.seidenberg<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=6838">http://opensiddur.org/?p=6838</a>
 <p />
 <hr />
 

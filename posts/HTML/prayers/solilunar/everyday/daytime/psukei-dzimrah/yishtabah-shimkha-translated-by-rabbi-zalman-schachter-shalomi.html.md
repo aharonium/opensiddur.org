@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: ישתבח שמך | Yishtabaḥ Shimkha, translated by Rabbi Zalman Schachter-Shalomi<br />
-Author: zalman.schachter-shalomi<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=21023">http://opensiddur.org/?p=21023</a>
+Primary contributor: zalman.schachter-shalomi<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=21023">http://opensiddur.org/?p=21023</a>
 <p />
 <hr />
 

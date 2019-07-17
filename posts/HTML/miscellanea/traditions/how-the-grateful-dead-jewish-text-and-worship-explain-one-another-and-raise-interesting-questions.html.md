@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: בלוס פון חלה | How the Grateful Dead, Jewish Text, and Worship Explain One Another and Raise Interesting Questions, by Virginia Spatz<br />
-Author: vspatz<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=7873">http://opensiddur.org/?p=7873</a>
+Primary contributor: vspatz<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=7873">http://opensiddur.org/?p=7873</a>
 <p />
 <hr />
 

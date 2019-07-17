@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: כַּוָּנָה לִפְנֵי עֲבוֹדָה בְּאַדְמַת הַקֹּדֶשׁ | Kavvanah before working with the holy soil, by Rabbi Shalom Ḥayyim Sharabi (ca. 1911)<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=18767">http://opensiddur.org/?p=18767</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=18767">http://opensiddur.org/?p=18767</a>
 <p />
 <hr />
 

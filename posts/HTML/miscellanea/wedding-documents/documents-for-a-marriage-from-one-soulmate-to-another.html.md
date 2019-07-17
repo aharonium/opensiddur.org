@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: שטרות לקישור נפשות | Documents for a Marriage from One Soulmate to Another by Raysh Weiss and Jonah Rank<br />
-Author: jonah.rank<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=9160">http://opensiddur.org/?p=9160</a>
+Primary contributor: jonah.rank<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=9160">http://opensiddur.org/?p=9160</a>
 <p />
 <hr />
 

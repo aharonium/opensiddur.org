@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: ברכת תפלין | Ευχη Δια Τα “Τεφιλιν„ (Φυλακτηρια) :: The Blessings for Wrapping and Crowning Oneself with Tefillin, Greek translation by Yosef Naḥmuli (1885)<br />
-Author: yosef.nahmuli<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=22870">http://opensiddur.org/?p=22870</a>
+Primary contributor: yosef.nahmuli<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=22870">http://opensiddur.org/?p=22870</a>
 <p />
 <hr />
 

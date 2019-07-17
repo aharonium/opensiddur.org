@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: הרחמן הוא ישבור עול כיבוש | Prayer to the Compassionate One for the Peace of Two States for Two Peoples (for Inclusion in the Birkat Hamazon) by Ira Tick<br />
-Author: ira.tick<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=9371">http://opensiddur.org/?p=9371</a>
+Primary contributor: ira.tick<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=9371">http://opensiddur.org/?p=9371</a>
 <p />
 <hr />
 

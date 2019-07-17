@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: שירת הים | Shirat haYam :: the Song of the Sea (Exodus 15:1-19)<br />
-Author: aharon-nissn.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=6587">http://opensiddur.org/?p=6587</a>
+Primary contributor: aharon-nissn.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=6587">http://opensiddur.org/?p=6587</a>
 <p />
 <hr />
 

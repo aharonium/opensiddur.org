@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: ימים נוראים | My Ten Days of Repentance Writing Exercise, by David Wolkin<br />
-Author: david.wolkin<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=14429">http://opensiddur.org/?p=14429</a>
+Primary contributor: david.wolkin<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=14429">http://opensiddur.org/?p=14429</a>
 <p />
 <hr />
 

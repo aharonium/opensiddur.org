@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: A Haftarah for Martin Luther King Shabbat, by Rabbi Marcia Prager and Ḥazzan Jack Kessler<br />
-Author: marcia.prager<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=18621">http://opensiddur.org/?p=18621</a>
+Primary contributor: marcia.prager<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=18621">http://opensiddur.org/?p=18621</a>
 <p />
 <hr />
 

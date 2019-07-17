@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Prayers that Hurt: Public Prayer in Interfaith Settings, by Rabbi Chaplain (Captain) Arnold E. Resnicoff, USN, Ret. (1987, 2009)<br />
-Author: arnold.resnicoff<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=23749">http://opensiddur.org/?p=23749</a>
+Primary contributor: arnold.resnicoff<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=23749">http://opensiddur.org/?p=23749</a>
 <p />
 <hr />
 

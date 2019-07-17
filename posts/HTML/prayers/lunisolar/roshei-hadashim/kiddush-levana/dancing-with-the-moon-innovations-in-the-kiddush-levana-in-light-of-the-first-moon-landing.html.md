@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Dancing with the Moon: innovations in the Kiddush Levana in light of the first moon landing<br />
-Author: shlomo.goren<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=3440">http://opensiddur.org/?p=3440</a>
+Primary contributor: shlomo.goren<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=3440">http://opensiddur.org/?p=3440</a>
 <p />
 <hr />
 

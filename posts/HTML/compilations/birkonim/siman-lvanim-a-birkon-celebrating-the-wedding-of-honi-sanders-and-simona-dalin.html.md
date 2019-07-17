@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: סִימָן לְבָנִים | Siman L'vanim: a birkon celebrating the wedding of Honi Sanders and Simona Dalin<br />
-Author: aharon.n.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=25938">http://opensiddur.org/?p=25938</a>
+Primary contributor: aharon.n.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=25938">http://opensiddur.org/?p=25938</a>
 <p />
 <hr />
 

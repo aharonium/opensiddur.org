@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: ברכת המזון | Ḥaveri Nevarekh: Blessing the Spirit of All-which-Lives after Eating and Feeling Satiated, a Birkon by Aharon Varady (v.1.01)<br />
-Author: aharon-nissn.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=13386">http://opensiddur.org/?p=13386</a>
+Primary contributor: aharon-nissn.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=13386">http://opensiddur.org/?p=13386</a>
 <p />
 <hr />
 

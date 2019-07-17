@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: תפילה בין השריפות | Abridged Prayer Between the Fires (between the 32nd and 42nd days of the Omer, neohasid.org)<br />
-Author: david.seidenberg<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=20101">http://opensiddur.org/?p=20101</a>
+Primary contributor: david.seidenberg<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=20101">http://opensiddur.org/?p=20101</a>
 <p />
 <hr />
 

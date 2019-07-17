@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: That Religion Be Not a Cloak for Hypocrisy, by Rabbi Mordecai Kaplan (1945)<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=20685">http://opensiddur.org/?p=20685</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=20685">http://opensiddur.org/?p=20685</a>
 <p />
 <hr />
 

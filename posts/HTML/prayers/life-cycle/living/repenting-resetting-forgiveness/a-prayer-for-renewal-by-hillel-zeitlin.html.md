@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: תפילה להתחדש | A Prayer for Renewal, by Hillel Zeitlin<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=23169">http://opensiddur.org/?p=23169</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=23169">http://opensiddur.org/?p=23169</a>
 <p />
 <hr />
 

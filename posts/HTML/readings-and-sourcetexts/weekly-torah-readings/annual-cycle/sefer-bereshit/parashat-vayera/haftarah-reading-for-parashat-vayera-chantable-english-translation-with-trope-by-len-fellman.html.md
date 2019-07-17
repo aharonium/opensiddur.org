@@ -2,19 +2,13 @@
 <head></head>
 <body>
 Title: Haftarah Reading for Parashat Vayera (II Kings 4:1-37): Chantable English translation with trōp, by Len Fellman<br />
-Author: len.fellman<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=22114">http://opensiddur.org/?p=22114</a>
+Primary contributor: len.fellman<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=22114">http://opensiddur.org/?p=22114</a>
 <p />
 <hr />
 
-<style type="text/css" media="all">.printfriendly {display: none!important;}</style>
-
-<strong>DOWNLOAD:</strong> <a href="https://archive.org/download/HaftarahForParashatVayeraWithEnglishTranstropilationLenFellman2018/Parashat%20Vayera%20Haftarah%20Reading%20%28II%20Kings%204%2C%201-37%29%20in%20English%20transtropilation%20%28Len%20Fellman%202018%29.pdf">PDF</a> or <a href="https://archive.org/download/HaftarahForParashatVayeraWithEnglishTranstropilationLenFellman2018/Parashat%20Vayera%20Haftarah%20Reading%20%28II%20Kings%204%2C%201-37%29%20in%20English%20transtropilation%20%28Len%20Fellman%202018%29.odt">ODT</a>
-
-
-II Kings 4:1-37 [su_audio url="https://archive.org/download/HaftarahForParashatVayeraWithEnglishTranstropilationLenFellman2018/HaftarahForParashatVayera-IiKings41-37lenFellman2018.mp3" width="60%"]
-
+<strong>DOWNLOAD:</strong> 
+<a href="https://archive.org/download/HaftarahForParashatVayeraWithEnglishTranstropilationLenFellman2018/Parashat%20Vayera%20Haftarah%20Reading%20%28II%20Kings%204%2C%201-37%29%20in%20English%20transtropilation%20%28Len%20Fellman%202018%29.pdf">PDF</a> or <a href="https://archive.org/download/HaftarahForParashatVayeraWithEnglishTranstropilationLenFellman2018/Parashat%20Vayera%20Haftarah%20Reading%20%28II%20Kings%204%2C%201-37%29%20in%20English%20transtropilation%20%28Len%20Fellman%202018%29.odt">ODT</a>
 
 <hr />
 
@@ -23,7 +17,5 @@ This is an English translation of the Haftarah readings for Parashat Vayera (II 
 <h3>Source</h3>
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/HaftarahForParashatVayeraWithEnglishTranstropilationLenFellman2018#page/n0"]
-
-
 </body>
 </html>

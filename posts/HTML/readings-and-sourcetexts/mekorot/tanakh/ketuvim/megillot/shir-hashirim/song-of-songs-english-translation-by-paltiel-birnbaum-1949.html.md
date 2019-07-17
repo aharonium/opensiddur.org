@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: שִׁיר הַשִּׁירִים | The Song of Songs, English translation by Paltiel Birnbaum (1949)<br />
-Author: paltiel.birnbaum<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=15069">http://opensiddur.org/?p=15069</a>
+Primary contributor: paltiel.birnbaum<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=15069">http://opensiddur.org/?p=15069</a>
 <p />
 <hr />
 

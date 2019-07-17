@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: סֵדֶר בִּרְכוֹת הַשַּׁחַר | Morning blessings for waking up and starting the day, adapted by Andrew Shaw<br />
-Author: andrew.shaw<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=5603">http://opensiddur.org/?p=5603</a>
+Primary contributor: andrew.shaw<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=5603">http://opensiddur.org/?p=5603</a>
 <p />
 <hr />
 

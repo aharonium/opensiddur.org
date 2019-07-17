@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Méditation Pour le Lundi by R' Arnaud Aron and Jonas Ennery (1848), translated to English by Hester Rothschild (1855)<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=16208">http://opensiddur.org/?p=16208</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=16208">http://opensiddur.org/?p=16208</a>
 <p />
 <hr />
 

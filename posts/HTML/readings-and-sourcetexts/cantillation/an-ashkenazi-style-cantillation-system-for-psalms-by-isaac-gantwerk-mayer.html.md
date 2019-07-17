@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: An Ashkenazi-style Cantillation System for Psalms, by Isaac Gantwerk Mayer<br />
-Author: isaac.gantwerk-mayer<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=21267">http://opensiddur.org/?p=21267</a>
+Primary contributor: isaac.gantwerk-mayer<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=21267">http://opensiddur.org/?p=21267</a>
 <p />
 <hr />
 

@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: שִׁיר לְשִׂמְחָה | Shir l'Simḥa, Friedrich Schiller's An die Freude (ode to Joy) in Hebrew, 1795<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=12839">http://opensiddur.org/?p=12839</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=12839">http://opensiddur.org/?p=12839</a>
 <p />
 <hr />
 

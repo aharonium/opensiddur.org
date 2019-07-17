@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: פָּרָשַׁת וַיֵּשֶׁב | Parashat Vayeshev (Genesis 37:1-40:23), color-coded according to its narrative layers<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=22701">http://opensiddur.org/?p=22701</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=22701">http://opensiddur.org/?p=22701</a>
 <p />
 <hr />
 

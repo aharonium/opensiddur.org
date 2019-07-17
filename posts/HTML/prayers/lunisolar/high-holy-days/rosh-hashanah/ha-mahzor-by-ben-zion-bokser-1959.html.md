@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: המחזור לראש השנה ויום כּיפּור | Ha-Maḥzor for Rosh Hashanah and Yom Kippur by Rabbi Ben-Zion Bokser (1959)<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=17333">http://opensiddur.org/?p=17333</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=17333">http://opensiddur.org/?p=17333</a>
 <p />
 <hr />
 

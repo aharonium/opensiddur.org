@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: תְּפִלַּת הַדֶּרֶךְ לְרוֹכְבִים | A Traveler's Prayer for Bicycle Riders, by Rabbis Rachel and Ofer Sabath Beit-Halachmi<br />
-Author: ofer.sabath-beit-halachmi<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=13155">http://opensiddur.org/?p=13155</a>
+Primary contributor: ofer.sabath-beit-halachmi<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=13155">http://opensiddur.org/?p=13155</a>
 <p />
 <hr />
 

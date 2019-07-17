@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Haftarah Reading for Yom Kippur morning (Isaiah 57:14-58:14): Chantable English translation with trōp, by Len Fellman<br />
-Author: len.fellman<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=21425">http://opensiddur.org/?p=21425</a>
+Primary contributor: len.fellman<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=21425">http://opensiddur.org/?p=21425</a>
 <p />
 <hr />
 

@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: תְּחִנָה קַבָּלַת עוֺל מַלְכוּת שָׁמַיִם | Tkhine [for Women] Receiving the Yoke of the Kingdom of Heaven (1916)<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=14126">http://opensiddur.org/?p=14126</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=14126">http://opensiddur.org/?p=14126</a>
 <p />
 <hr />
 

@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: מה טובו | Mah Tovu: Prayer upon Entering the Synagogue (Romanian trans. Avraham Shlomo Gold, ca. 1903)<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=15799">http://opensiddur.org/?p=15799</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=15799">http://opensiddur.org/?p=15799</a>
 <p />
 <hr />
 

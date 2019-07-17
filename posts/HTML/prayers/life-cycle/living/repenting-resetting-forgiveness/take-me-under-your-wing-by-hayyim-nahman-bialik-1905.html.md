@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: הַכְנִיסִינִי תַּחַת כְּנָפֵךְ | Take Me Under Your Wing, by Ḥayyim Naḥman Bialik (1905)<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=23187">http://opensiddur.org/?p=23187</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=23187">http://opensiddur.org/?p=23187</a>
 <p />
 <hr />
 

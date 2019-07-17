@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: אלף בּײס – דרשן :: Aleph Bass by Darshan<br />
-Author: eprhyme<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=12337">http://opensiddur.org/?p=12337</a>
+Primary contributor: eprhyme<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=12337">http://opensiddur.org/?p=12337</a>
 <p />
 <hr />
 

@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: תפילה לשלום העיר תל אביב־יפו | Prayer for the Welfare of Tel Aviv-Yafo, by Rabbi Isser Yehuda Unterman (1959), amended by Rabbi Esteban Gottfried (2009)<br />
-Author: esteban.gottfried<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=5532">http://opensiddur.org/?p=5532</a>
+Primary contributor: esteban.gottfried<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=5532">http://opensiddur.org/?p=5532</a>
 <p />
 <hr />
 

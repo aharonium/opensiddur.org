@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: אֵל מִסְתַּתֵּר | El Mistater :: The God who is hidden, by Avraham Maimin (circa 1550)<br />
-Author: len.fellman<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=25448">http://opensiddur.org/?p=25448</a>
+Primary contributor: len.fellman<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=25448">http://opensiddur.org/?p=25448</a>
 <p />
 <hr />
 

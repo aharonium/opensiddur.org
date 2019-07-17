@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: יום קשת מ״ב בעומר | The 42nd Day of the Omer is Rainbow Day<br />
-Author: david.seidenberg<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=3270">http://opensiddur.org/?p=3270</a>
+Primary contributor: david.seidenberg<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=3270">http://opensiddur.org/?p=3270</a>
 <p />
 <hr />
 

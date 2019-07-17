@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: קדיש | A Kaddish by Rabbi Daniel Brenner<br />
-Author: daniel.s.brenner<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=261">http://opensiddur.org/?p=261</a>
+Primary contributor: daniel.s.brenner<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=261">http://opensiddur.org/?p=261</a>
 <p />
 <hr />
 

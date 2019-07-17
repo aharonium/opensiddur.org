@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: פָּרָשַׁת בְּרֵאשִׁית | Parashat Bereshit (Genesis 1:1-6:8), color-coded according to its narrative layers<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=21943">http://opensiddur.org/?p=21943</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=21943">http://opensiddur.org/?p=21943</a>
 <p />
 <hr />
 

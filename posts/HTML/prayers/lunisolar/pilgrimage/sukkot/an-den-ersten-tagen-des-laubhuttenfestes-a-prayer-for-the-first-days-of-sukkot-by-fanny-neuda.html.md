@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: An den ersten Tagen des Laubhüttenfestes | [A prayer] on the first days of Sukkot by Fanny Neuda (1855)<br />
-Author: fanny.neuda<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=5273">http://opensiddur.org/?p=5273</a>
+Primary contributor: fanny.neuda<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=5273">http://opensiddur.org/?p=5273</a>
 <p />
 <hr />
 

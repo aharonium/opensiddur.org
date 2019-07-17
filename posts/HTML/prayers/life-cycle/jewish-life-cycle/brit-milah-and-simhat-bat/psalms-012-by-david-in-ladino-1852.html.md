@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: תהלים י״ב בלשון לאדינו | Psalms 12 by David in Ladino (Estampado por Ǧ. Griffit, ca. 1852/3)<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=16587">http://opensiddur.org/?p=16587</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=16587">http://opensiddur.org/?p=16587</a>
 <p />
 <hr />
 

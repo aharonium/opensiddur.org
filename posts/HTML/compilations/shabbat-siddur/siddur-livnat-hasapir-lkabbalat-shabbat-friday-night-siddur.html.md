@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: סדור לבנת הספיר לקבלת שבת | Siddur Livnat HaSapir l'Kabbalat Shabbat, a Friday Night Siddur by Aharon Varady<br />
-Author: aharon-nissn.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=15230">http://opensiddur.org/?p=15230</a>
+Primary contributor: aharon-nissn.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=15230">http://opensiddur.org/?p=15230</a>
 <p />
 <hr />
 

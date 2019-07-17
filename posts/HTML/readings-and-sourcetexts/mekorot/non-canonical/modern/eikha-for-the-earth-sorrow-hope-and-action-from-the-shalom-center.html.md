@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: תשעה באב | Eikha for the Earth: Sorrow, Hope, and Action from the Shalom Center<br />
-Author: arthur.waskow<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=8984">http://opensiddur.org/?p=8984</a>
+Primary contributor: arthur.waskow<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=8984">http://opensiddur.org/?p=8984</a>
 <p />
 <hr />
 

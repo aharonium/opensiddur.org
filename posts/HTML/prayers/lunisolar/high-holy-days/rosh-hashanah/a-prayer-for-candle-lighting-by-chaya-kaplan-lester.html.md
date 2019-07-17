@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: A Prayer before Candle-lighting, by Chaya Kaplan-Lester<br />
-Author: chaya.kaplan-lester<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=4265">http://opensiddur.org/?p=4265</a>
+Primary contributor: chaya.kaplan-lester<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=4265">http://opensiddur.org/?p=4265</a>
 <p />
 <hr />
 

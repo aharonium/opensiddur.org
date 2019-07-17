@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: פֶּרֶק שִׁירָה | Pereq Shirah (Chapter of Song), a hymn of creation<br />
-Author: unknown<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=10950">http://opensiddur.org/?p=10950</a>
+Primary contributor: unknown<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=10950">http://opensiddur.org/?p=10950</a>
 <p />
 <hr />
 

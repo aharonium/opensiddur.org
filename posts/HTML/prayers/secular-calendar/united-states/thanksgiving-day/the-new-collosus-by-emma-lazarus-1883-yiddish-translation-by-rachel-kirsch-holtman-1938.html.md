@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: דער נײער קאָלאסוס | The New Collosus, by Emma Lazarus (1883), Yiddish translation by Rachel Kirsch Holtman (1938)<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=20604">http://opensiddur.org/?p=20604</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=20604">http://opensiddur.org/?p=20604</a>
 <p />
 <hr />
 

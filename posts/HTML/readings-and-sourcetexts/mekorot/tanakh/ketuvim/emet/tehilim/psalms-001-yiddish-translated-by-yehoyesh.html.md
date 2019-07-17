@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: תהלים א׳ בלשון ײִדיש | Psalms 1 in Yiddish (translated by Yehoyesh Shloyme Blumgarten ca. 1920s)<br />
-Author: yehoyesh.blumgarten<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=15863">http://opensiddur.org/?p=15863</a>
+Primary contributor: yehoyesh.blumgarten<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=15863">http://opensiddur.org/?p=15863</a>
 <p />
 <hr />
 

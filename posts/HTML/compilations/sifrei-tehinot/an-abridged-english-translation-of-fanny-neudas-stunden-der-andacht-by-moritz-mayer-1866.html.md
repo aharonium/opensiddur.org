@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Hours of Devotion: Fanny Neuda’s Stunden Der Andacht translated with additional prayers by Rabbi Moritz Mayer (1866)<br />
-Author: moritz.mayer<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=3692">http://opensiddur.org/?p=3692</a>
+Primary contributor: moritz.mayer<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=3692">http://opensiddur.org/?p=3692</a>
 <p />
 <hr />
 

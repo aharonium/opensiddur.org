@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: מעריב ערבים | Who Brings the Evenings, translated by Shim'on Menachem<br />
-Author: shimonides<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=7503">http://opensiddur.org/?p=7503</a>
+Primary contributor: shimonides<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=7503">http://opensiddur.org/?p=7503</a>
 <p />
 <hr />
 

@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: תחנה אמהות | Tkhine of the Matriarchs for Yizkor on Rosh Hashanah, Yom Kippur, and Yamim Tovim by Seril Rappaport (ca. 18th century)<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=14043">http://opensiddur.org/?p=14043</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=14043">http://opensiddur.org/?p=14043</a>
 <p />
 <hr />
 

@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: וידוי לראש השנה לבהמות | Meat and Feathers: We Confess for Rosh Hashanah LaBehemot on Rosh Ḥodesh Elul, by Trisha Arlin<br />
-Author: trishaarlin<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=16696">http://opensiddur.org/?p=16696</a>
+Primary contributor: trishaarlin<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=16696">http://opensiddur.org/?p=16696</a>
 <p />
 <hr />
 

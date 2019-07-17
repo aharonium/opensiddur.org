@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: הגדה לסדר אל"ף באלול, ראש השנה לבעלי־החיים (זנגביל, התשע"ג)‏ | Haggadah for the Alef B’Elul Seder, the New Year for Domesticated Animals (Ginger House, the Jewish Vegetarian Society in Jerusalem, 2013)<br />
-Author: yossi.wolfson<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=9300">http://opensiddur.org/?p=9300</a>
+Primary contributor: yossi.wolfson<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=9300">http://opensiddur.org/?p=9300</a>
 <p />
 <hr />
 

@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: מי שברך למיני פשעי שנאה | Mi Sheberakh for Hate Crimes and Bigotry, by Isaac Gantwerk-Mayer<br />
-Author: isaac.gantwerk-mayer<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=18098">http://opensiddur.org/?p=18098</a>
+Primary contributor: isaac.gantwerk-mayer<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=18098">http://opensiddur.org/?p=18098</a>
 <p />
 <hr />
 

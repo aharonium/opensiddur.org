@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: כוונה בהדלקת נר חנוכּה | Kavvanah for the Mitsvah of Kindling the Ḥanukkah Lights by Rebbe Tsvi Elimelekh Spira of Dinov (trans. Morah Yehudis Fishman)<br />
-Author: yehudis.fishman<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=5580">http://opensiddur.org/?p=5580</a>
+Primary contributor: yehudis.fishman<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=5580">http://opensiddur.org/?p=5580</a>
 <p />
 <hr />
 

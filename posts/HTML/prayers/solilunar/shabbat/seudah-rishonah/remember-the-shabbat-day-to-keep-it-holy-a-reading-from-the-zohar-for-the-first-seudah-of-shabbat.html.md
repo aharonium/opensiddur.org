@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: זָכוֹר אֶת־יוֹם הַשַּׁבָּת לְקַדְּשׁוֹ | Remember the Shabbat day to keep it holy, a reading from the Zohar for the first se'udah of Shabbat<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=25507">http://opensiddur.org/?p=25507</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=25507">http://opensiddur.org/?p=25507</a>
 <p />
 <hr />
 

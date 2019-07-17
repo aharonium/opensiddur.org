@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: יום העבודה | Salvation through Avodah, a prayer for the Sabbath before Labor Day, adapted from the writings of A.D. Gordon by Rabbi Mordecai Kaplan (1945)<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=21234">http://opensiddur.org/?p=21234</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=21234">http://opensiddur.org/?p=21234</a>
 <p />
 <hr />
 

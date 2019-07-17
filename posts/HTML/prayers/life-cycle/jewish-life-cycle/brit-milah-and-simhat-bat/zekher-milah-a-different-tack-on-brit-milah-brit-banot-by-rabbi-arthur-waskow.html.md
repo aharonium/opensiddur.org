@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Zekher Milah, a different tack on Brit milah & Brit banot by Rabbi Arthur Waskow<br />
-Author: arthur.waskow<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=8323">http://opensiddur.org/?p=8323</a>
+Primary contributor: arthur.waskow<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=8323">http://opensiddur.org/?p=8323</a>
 <p />
 <hr />
 

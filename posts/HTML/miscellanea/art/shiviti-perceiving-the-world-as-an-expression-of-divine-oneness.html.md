@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: שִׁוִּיתִי | Shiviti: perceiving the world as an expression of divine Oneness<br />
-Author: aharon-nissn.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=3393">http://opensiddur.org/?p=3393</a>
+Primary contributor: aharon-nissn.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=3393">http://opensiddur.org/?p=3393</a>
 <p />
 <hr />
 

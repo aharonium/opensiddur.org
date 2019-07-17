@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: תהלים ק״ד | Psalms 104, a hymn of creation translated by Rabbi Mordecai Kaplan (1945)<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=20696">http://opensiddur.org/?p=20696</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=20696">http://opensiddur.org/?p=20696</a>
 <p />
 <hr />
 

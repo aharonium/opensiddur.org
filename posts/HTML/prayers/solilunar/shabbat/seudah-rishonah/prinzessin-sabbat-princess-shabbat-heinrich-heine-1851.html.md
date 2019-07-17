@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Prinzessin Sabbat | Princess Shabbat, by Heinrich Heine (1851)<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=18373">http://opensiddur.org/?p=18373</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=18373">http://opensiddur.org/?p=18373</a>
 <p />
 <hr />
 

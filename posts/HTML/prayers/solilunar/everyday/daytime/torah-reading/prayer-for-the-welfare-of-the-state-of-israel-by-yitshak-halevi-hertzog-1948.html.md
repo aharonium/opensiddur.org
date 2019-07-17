@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: תפילה לשלום מדינת ישראל | Prayer for the Welfare of the State of Israel, by Rabbi Yitsḥak haLevi Hertzog (1948)<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=17652">http://opensiddur.org/?p=17652</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=17652">http://opensiddur.org/?p=17652</a>
 <p />
 <hr />
 

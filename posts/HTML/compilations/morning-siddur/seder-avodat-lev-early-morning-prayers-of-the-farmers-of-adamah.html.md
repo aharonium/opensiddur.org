@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: סדר עבודת הלב שחרית | Seder Avodat Lev Shaḥarit: Service of the Heart, by the farmers of the Adamah Fellowship<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=3367">http://opensiddur.org/?p=3367</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=3367">http://opensiddur.org/?p=3367</a>
 <p />
 <hr />
 

@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: שמחת בת | Simḥat Bat of Amalya Shaḥar Exler-Kaunfer, by Rabbi Elie Kaunfer and Lisa Exler<br />
-Author: elie.kaunfer<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=640">http://opensiddur.org/?p=640</a>
+Primary contributor: elie.kaunfer<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=640">http://opensiddur.org/?p=640</a>
 <p />
 <hr />
 

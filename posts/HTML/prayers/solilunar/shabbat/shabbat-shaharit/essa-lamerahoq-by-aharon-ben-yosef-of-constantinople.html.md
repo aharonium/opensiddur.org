@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: אשׂא למרחוק | Essa Lameraḥoq by Aharon ben Yosef of Constantinople (13th c.), translated by Gabriel Wasserman<br />
-Author: mar.gavriel<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=17923">http://opensiddur.org/?p=17923</a>
+Primary contributor: mar.gavriel<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=17923">http://opensiddur.org/?p=17923</a>
 <p />
 <hr />
 

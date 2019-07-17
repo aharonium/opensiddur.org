@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: אֵל בָּרוּךְ | El Barukh :: A piyyut containing the 42 Letter Name, recorded by Rabbi Isaiah Horowitz<br />
-Author: aharon.n.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=22998">http://opensiddur.org/?p=22998</a>
+Primary contributor: aharon.n.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=22998">http://opensiddur.org/?p=22998</a>
 <p />
 <hr />
 

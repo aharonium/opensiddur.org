@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: A Kavvanah on Praying, Singing, and Listening to Torah Readings, by Rabbi Mordecai Kaplan (1942)<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=24168">http://opensiddur.org/?p=24168</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=24168">http://opensiddur.org/?p=24168</a>
 <p />
 <hr />
 

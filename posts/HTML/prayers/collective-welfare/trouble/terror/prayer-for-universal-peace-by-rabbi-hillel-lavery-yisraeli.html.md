@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Prayer for Universal Peace, by Rabbi Hillel Lavery-Yisraëli<br />
-Author: hillel.yisraeli-lavery<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=24233">http://opensiddur.org/?p=24233</a>
+Primary contributor: hillel.yisraeli-lavery<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=24233">http://opensiddur.org/?p=24233</a>
 <p />
 <hr />
 

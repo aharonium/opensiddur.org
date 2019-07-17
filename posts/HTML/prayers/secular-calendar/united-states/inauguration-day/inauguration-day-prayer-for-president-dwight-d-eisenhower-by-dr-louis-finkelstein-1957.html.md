@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Inauguration Day Prayer for President Dwight D. Eisenhower by Rabbi Dr. Louis Finkelstein (1957)<br />
-Author: United-States.Congressional-Record<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=11275">http://opensiddur.org/?p=11275</a>
+Primary contributor: United-States.Congressional-Record<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=11275">http://opensiddur.org/?p=11275</a>
 <p />
 <hr />
 

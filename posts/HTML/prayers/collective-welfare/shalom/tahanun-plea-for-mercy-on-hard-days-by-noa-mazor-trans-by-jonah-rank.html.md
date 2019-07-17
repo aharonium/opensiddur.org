@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: תחנון לימים קשים | Taḥanun [Plea for Mercy] on Hard Days by Noa Mazor (trans. by Jonah Rank)<br />
-Author: noa.mazor<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=9200">http://opensiddur.org/?p=9200</a>
+Primary contributor: noa.mazor<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=9200">http://opensiddur.org/?p=9200</a>
 <p />
 <hr />
 

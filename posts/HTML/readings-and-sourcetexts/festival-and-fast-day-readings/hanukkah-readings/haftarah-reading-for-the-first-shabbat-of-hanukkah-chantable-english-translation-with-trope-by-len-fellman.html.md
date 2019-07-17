@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Haftarah Reading for the First Shabbat of Ḥanukkah (Zekharyah 2:14-4:7): Chantable English translation with trōp, by Len Fellman<br />
-Author: len.fellman<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=22772">http://opensiddur.org/?p=22772</a>
+Primary contributor: len.fellman<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=22772">http://opensiddur.org/?p=22772</a>
 <p />
 <hr />
 

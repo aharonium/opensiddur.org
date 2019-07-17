@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: והיה אם שמע | v'haya im shemo'a: a Prayer in a Time of Planetary Danger by Rabbi Arthur Waskow<br />
-Author: arthur.waskow<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=5424">http://opensiddur.org/?p=5424</a>
+Primary contributor: arthur.waskow<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=5424">http://opensiddur.org/?p=5424</a>
 <p />
 <hr />
 

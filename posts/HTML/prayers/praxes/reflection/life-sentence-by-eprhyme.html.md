@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Life Sentence by Eprhyme<br />
-Author: eprhyme<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=4146">http://opensiddur.org/?p=4146</a>
+Primary contributor: eprhyme<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=4146">http://opensiddur.org/?p=4146</a>
 <p />
 <hr />
 

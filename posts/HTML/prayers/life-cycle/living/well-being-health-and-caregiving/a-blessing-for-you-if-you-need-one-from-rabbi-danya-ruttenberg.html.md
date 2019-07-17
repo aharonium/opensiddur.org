@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: A blessing for you if you need one, from Rabbi Danya Ruttenberg<br />
-Author: danya.ruttenberg<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=20792">http://opensiddur.org/?p=20792</a>
+Primary contributor: danya.ruttenberg<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=20792">http://opensiddur.org/?p=20792</a>
 <p />
 <hr />
 

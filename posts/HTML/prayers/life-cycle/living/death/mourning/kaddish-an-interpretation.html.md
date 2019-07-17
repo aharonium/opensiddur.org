@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: קדיש יתום | Mourner's Kaddish, an interpretive translation by Alan Wagman<br />
-Author: Alan Wagman<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=6613">http://opensiddur.org/?p=6613</a>
+Primary contributor: Alan Wagman<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=6613">http://opensiddur.org/?p=6613</a>
 <p />
 <hr />
 

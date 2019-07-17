@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: A Jewish Prayer for Graduation and an Interfaith Meditation on Wisdom and Learning, by Jonah Rank (2010)<br />
-Author: jonah.rank<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=23429">http://opensiddur.org/?p=23429</a>
+Primary contributor: jonah.rank<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=23429">http://opensiddur.org/?p=23429</a>
 <p />
 <hr />
 

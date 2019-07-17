@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: בָּאנוּ חׇשֵׁךְ לְקַדֵּשׁ | Banu Ḥoshekh l'Qadesh (We come to sanctify the dark), by rabbis David Seidenberg and Jill Hammer<br />
-Author: david.seidenberg<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=22916">http://opensiddur.org/?p=22916</a>
+Primary contributor: david.seidenberg<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=22916">http://opensiddur.org/?p=22916</a>
 <p />
 <hr />
 

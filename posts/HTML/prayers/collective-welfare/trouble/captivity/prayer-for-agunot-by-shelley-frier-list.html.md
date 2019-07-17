@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: תפילה לעגונות | Prayer for the Liberation of Agunot, by Shelley Frier List (2005)<br />
-Author: shelly.frier.list<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=8064">http://opensiddur.org/?p=8064</a>
+Primary contributor: shelly.frier.list<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=8064">http://opensiddur.org/?p=8064</a>
 <p />
 <hr />
 

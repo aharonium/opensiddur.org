@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Inauguration Day Prayer for Donald Trump, by Rabbi Marvin Hier (2017)<br />
-Author: United-States.Congressional-Record<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=15020">http://opensiddur.org/?p=15020</a>
+Primary contributor: United-States.Congressional-Record<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=15020">http://opensiddur.org/?p=15020</a>
 <p />
 <hr />
 

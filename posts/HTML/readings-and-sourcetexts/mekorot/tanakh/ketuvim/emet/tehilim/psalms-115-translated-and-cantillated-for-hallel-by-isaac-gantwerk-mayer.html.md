@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: תהלים קט״ו | Psalms 115, translated and cantillated for Hallel by Isaac Gantwerk Mayer<br />
-Author: isaac.gantwerk-mayer<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=23832">http://opensiddur.org/?p=23832</a>
+Primary contributor: isaac.gantwerk-mayer<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=23832">http://opensiddur.org/?p=23832</a>
 <p />
 <hr />
 

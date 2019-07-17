@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: An Untitled Prayer for Shaḥarit on days without Taḥanun after Psalms 15, by Rabbi Zalman Schachter-Shalomi (2009)<br />
-Author: zalman.schachter-shalomi<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=20851">http://opensiddur.org/?p=20851</a>
+Primary contributor: zalman.schachter-shalomi<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=20851">http://opensiddur.org/?p=20851</a>
 <p />
 <hr />
 

@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: An Ashkenazi-style Cantillation System for Job, by Isaac Gantwerk Mayer<br />
-Author: isaac.gantwerk-mayer<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=21293">http://opensiddur.org/?p=21293</a>
+Primary contributor: isaac.gantwerk-mayer<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=21293">http://opensiddur.org/?p=21293</a>
 <p />
 <hr />
 

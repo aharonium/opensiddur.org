@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Am Laubhüttenfest beim Kreisgang mit dem Lulaw und Esrog | [Prayer] on Sukkot at the Haqafot with the Lulav and Etrog, by Fanny Neuda (1855)<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=5322">http://opensiddur.org/?p=5322</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=5322">http://opensiddur.org/?p=5322</a>
 <p />
 <hr />
 

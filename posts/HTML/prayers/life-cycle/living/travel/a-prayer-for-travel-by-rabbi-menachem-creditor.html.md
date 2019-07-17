@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: A Prayer for Travel, by Rabbi Menachem Creditor<br />
-Author: menachem.creditor<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=5401">http://opensiddur.org/?p=5401</a>
+Primary contributor: menachem.creditor<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=5401">http://opensiddur.org/?p=5401</a>
 <p />
 <hr />
 

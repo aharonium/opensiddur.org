@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Prayer on Kneading and Baking Ḥallot for Shabbat, by Perle Derbaremdiger Peretz (fl. 18th c.)<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=22626">http://opensiddur.org/?p=22626</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=22626">http://opensiddur.org/?p=22626</a>
 <p />
 <hr />
 

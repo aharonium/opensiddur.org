@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Prayer at the National Civic Commemoration of the Days of Remembrance of the Victims of the Holocaust, by Rabbi Arnold Resnicoff on 27 April 1987<br />
-Author: arnold.resnicoff<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=22887">http://opensiddur.org/?p=22887</a>
+Primary contributor: arnold.resnicoff<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=22887">http://opensiddur.org/?p=22887</a>
 <p />
 <hr />
 

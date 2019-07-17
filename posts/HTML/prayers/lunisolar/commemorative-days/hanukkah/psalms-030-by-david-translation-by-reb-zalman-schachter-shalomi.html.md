@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: תהלים ל׳ | Psalms 30 by David (interpretive translation by Reb Zalman Schachter-Shalomi, z"l)<br />
-Author: zalman.schachter-shalomi<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=16071">http://opensiddur.org/?p=16071</a>
+Primary contributor: zalman.schachter-shalomi<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=16071">http://opensiddur.org/?p=16071</a>
 <p />
 <hr />
 

@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: ש״ס תחנה חדשה | Shas Teḥinah Ḥadashah (A New Tkhine of Six Orders), compiled by Ben-Tsiyon Alfes (Vilna 1910)<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=24279">http://opensiddur.org/?p=24279</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=24279">http://opensiddur.org/?p=24279</a>
 <p />
 <hr />
 

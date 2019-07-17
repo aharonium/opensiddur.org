@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: تعالوا نضيئ شمعات السلام | בואו נאיר נרות שלום | Let us Light Candles for Peace, by Sheikha Ibtisam Maḥameed and Rabbi Tamar Elad-Appelbaum<br />
-Author: tamar.elad-appelbaum<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=9186">http://opensiddur.org/?p=9186</a>
+Primary contributor: tamar.elad-appelbaum<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=9186">http://opensiddur.org/?p=9186</a>
 <p />
 <hr />
 

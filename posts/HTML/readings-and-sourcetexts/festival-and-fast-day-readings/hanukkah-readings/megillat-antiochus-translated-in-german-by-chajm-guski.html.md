@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: מגילת אנטיוכס | Megillat Antiochus, translated into German by Chajm Guski<br />
-Author: Chajm<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=10262">http://opensiddur.org/?p=10262</a>
+Primary contributor: Chajm<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=10262">http://opensiddur.org/?p=10262</a>
 <p />
 <hr />
 

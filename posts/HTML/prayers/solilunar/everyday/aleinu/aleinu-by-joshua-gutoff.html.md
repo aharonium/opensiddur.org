@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: עלינו | Aleinu, interpretive translation by Joshua Gutoff<br />
-Author: joshua.gutoff<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=7692">http://opensiddur.org/?p=7692</a>
+Primary contributor: joshua.gutoff<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=7692">http://opensiddur.org/?p=7692</a>
 <p />
 <hr />
 

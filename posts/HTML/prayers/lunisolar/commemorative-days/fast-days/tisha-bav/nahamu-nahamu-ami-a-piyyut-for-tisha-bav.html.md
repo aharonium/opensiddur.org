@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: נחמו נחמו עמי | Naḥamu, Naḥamu Ami (Comfort, comfort, my people), a piyyut for Tisha b'Aḅ<br />
-Author: gabriel.seed<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=20857">http://opensiddur.org/?p=20857</a>
+Primary contributor: gabriel.seed<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=20857">http://opensiddur.org/?p=20857</a>
 <p />
 <hr />
 

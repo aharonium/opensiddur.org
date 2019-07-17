@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: קדיש יתום בזמן מלחמה | Mourner’s Kaddish in Times of War and Violence, by Arthur Waskow<br />
-Author: arthur.waskow<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=3165">http://opensiddur.org/?p=3165</a>
+Primary contributor: arthur.waskow<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=3165">http://opensiddur.org/?p=3165</a>
 <p />
 <hr />
 

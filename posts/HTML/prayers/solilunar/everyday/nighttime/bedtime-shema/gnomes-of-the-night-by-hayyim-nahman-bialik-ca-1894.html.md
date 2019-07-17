@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: גַּמָּדֵי לָיִל | Gnomes of the Night, a poem by Ḥayyim Naḥman Bialik (ca. 1894)<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=23294">http://opensiddur.org/?p=23294</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=23294">http://opensiddur.org/?p=23294</a>
 <p />
 <hr />
 

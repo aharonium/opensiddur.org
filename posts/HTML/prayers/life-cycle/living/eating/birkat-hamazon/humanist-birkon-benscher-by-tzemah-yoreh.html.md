@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: ברכת המזון | By the Sweat of their Brow, a Humanist Birkon by Dr. Tzemaḥ Yoreh<br />
-Author: tzemah.yoreh<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=8272">http://opensiddur.org/?p=8272</a>
+Primary contributor: tzemah.yoreh<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=8272">http://opensiddur.org/?p=8272</a>
 <p />
 <hr />
 

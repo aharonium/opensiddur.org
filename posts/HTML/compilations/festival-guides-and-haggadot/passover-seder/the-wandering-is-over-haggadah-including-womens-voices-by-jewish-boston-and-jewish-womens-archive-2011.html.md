@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: הגדה לסדר פסח | The Wandering is Over Haggadah: Including Women’s Voices, by Jewish Boston and the Jewish Women's Archive (2011)<br />
-Author: jewish.boston<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=19085">http://opensiddur.org/?p=19085</a>
+Primary contributor: jewish.boston<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=19085">http://opensiddur.org/?p=19085</a>
 <p />
 <hr />
 

@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: [Gebet] Am Dienstag, by Fanny Schmiedl Neuda (1855)<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=16249">http://opensiddur.org/?p=16249</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=16249">http://opensiddur.org/?p=16249</a>
 <p />
 <hr />
 

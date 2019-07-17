@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: תהלים ק״נ | Psalms 150, translated by Rabbi Zalman Schachter-Shalomi<br />
-Author: zalman.schachter-shalomi<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=20989">http://opensiddur.org/?p=20989</a>
+Primary contributor: zalman.schachter-shalomi<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=20989">http://opensiddur.org/?p=20989</a>
 <p />
 <hr />
 

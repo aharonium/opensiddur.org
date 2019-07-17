@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: תפילת לשלום החיילים | Prayer on Behalf of the Jewish Soldier Going into Battle by Rabbi Dr. Nathan Lopes Cardozo<br />
-Author: nathan.lopez-cardozo<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=9232">http://opensiddur.org/?p=9232</a>
+Primary contributor: nathan.lopez-cardozo<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=9232">http://opensiddur.org/?p=9232</a>
 <p />
 <hr />
 

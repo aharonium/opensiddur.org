@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: תפילת המדינה | Prayer for the State [of Israel], by S.Y. Agnon (1948)<br />
-Author: aharon.n.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=17675">http://opensiddur.org/?p=17675</a>
+Primary contributor: aharon.n.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=17675">http://opensiddur.org/?p=17675</a>
 <p />
 <hr />
 

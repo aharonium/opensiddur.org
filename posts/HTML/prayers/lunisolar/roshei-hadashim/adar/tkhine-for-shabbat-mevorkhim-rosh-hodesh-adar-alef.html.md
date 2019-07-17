@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: תְּחִנָה לְשַׁבָּת מְבָרְכִים רֹאשׁ חוֹדֶשׁ אַדָר רִאשׁוֹן | Tkhine for Shabbat Mevorkhim Rosh Ḥodesh Adar א on Leap Years (1877)<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=18822">http://opensiddur.org/?p=18822</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=18822">http://opensiddur.org/?p=18822</a>
 <p />
 <hr />
 

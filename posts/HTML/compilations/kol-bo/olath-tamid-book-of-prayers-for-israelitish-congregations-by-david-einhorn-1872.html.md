@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: עלת תמיד | Olath Tamid: Book of Prayers for Israelitish Congregations, by David Einhorn (1st English ed. 1872)<br />
-Author: david.einhorn<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=19562">http://opensiddur.org/?p=19562</a>
+Primary contributor: david.einhorn<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=19562">http://opensiddur.org/?p=19562</a>
 <p />
 <hr />
 

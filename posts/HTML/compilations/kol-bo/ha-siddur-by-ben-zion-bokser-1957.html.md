@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: הסדור | Ha-Siddur by Rabbi Ben-Zion Bokser (1957)<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=15176">http://opensiddur.org/?p=15176</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=15176">http://opensiddur.org/?p=15176</a>
 <p />
 <hr />
 

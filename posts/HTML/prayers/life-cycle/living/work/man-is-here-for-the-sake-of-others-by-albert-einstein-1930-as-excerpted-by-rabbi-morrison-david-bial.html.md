@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Man Is Here for the Sake of Others, by Albert Einstein (1930) as excerpted by Rabbi Morrison David Bial<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=23691">http://opensiddur.org/?p=23691</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=23691">http://opensiddur.org/?p=23691</a>
 <p />
 <hr />
 

@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Mikveh Meditation for Erev Shabbat by Rabbi Haviva Ner-David and Shira Gura<br />
-Author: haviva.ner-david<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=4398">http://opensiddur.org/?p=4398</a>
+Primary contributor: haviva.ner-david<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=4398">http://opensiddur.org/?p=4398</a>
 <p />
 <hr />
 

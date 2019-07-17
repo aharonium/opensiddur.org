@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Memorial Prayer for Abraham Lincoln by Isaac Goldstein the Levite (1865)<br />
-Author: abe.katz<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=4477">http://opensiddur.org/?p=4477</a>
+Primary contributor: abe.katz<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=4477">http://opensiddur.org/?p=4477</a>
 <p />
 <hr />
 

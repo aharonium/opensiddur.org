@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: סדר תפילות ישראל | Seder Tefilot Yisrael: Sabbath and Festival Prayer Book (Joint Commission of the Rabbinical Assembly and United Synagogue of America, 1946)<br />
-Author: morris.silverman<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=15128">http://opensiddur.org/?p=15128</a>
+Primary contributor: morris.silverman<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=15128">http://opensiddur.org/?p=15128</a>
 <p />
 <hr />
 

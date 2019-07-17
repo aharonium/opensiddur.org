@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: It’s All Greek To Me–Praying in Languages Other than Hebrew (sourcesheet) by R’ Ethan Tucker<br />
-Author: ethan.tucker<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=2892">http://opensiddur.org/?p=2892</a>
+Primary contributor: ethan.tucker<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=2892">http://opensiddur.org/?p=2892</a>
 <p />
 <hr />
 

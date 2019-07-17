@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: Torah Reading for Yom Kippur morning (Leviticus 16:1-34): Chantable English translation with trōp, by Len Fellman<br />
-Author: len.fellman<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=21440">http://opensiddur.org/?p=21440</a>
+Primary contributor: len.fellman<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=21440">http://opensiddur.org/?p=21440</a>
 <p />
 <hr />
 

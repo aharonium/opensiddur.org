@@ -2,9 +2,8 @@
 <head></head>
 <body>
 Title: The Story of Gedaliah, as told by Titus Flavius Josephus in Antiquities of the Jews<br />
-Author: aharon.varady<br />
-License: for license, please consult the following link.<br />
-Link: <a href="http://opensiddur.org/?p=21677">http://opensiddur.org/?p=21677</a>
+Primary contributor: aharon.varady<br />
+Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=21677">http://opensiddur.org/?p=21677</a>
 <p />
 <hr />
 
