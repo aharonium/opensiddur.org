@@ -347,6 +347,5 @@ Parashat Bereshit (Genesis 1:1-6:8) in the annual Torah reading cycle is read on
 <hr />
 
 The Masoretic text presented here is from Rabbi Dr. Seth (Avi) Kadish's <a href="https://he.wikisource.org/wiki/פרשת_בראשית/טעמים">Miqra al pi ha-Mesorah</a>. For the translation in English, I have adapted the translation of Everett Fox in the <a href="https://www.penguinrandomhouse.com/series/DA5/the-schocken-bible">Schocken Bible</a> (1997), mostly to re-Hebraize divine names, but I have made other changes. In place of Fox's "humanity" and "the human" for the translation for "ha-Adam," I have chosen "the Earthling." In place of "begetting," I have chosen "fathering." And in place of "soil" (for Adamah), I have chosen "fertile-ground" in almost every instance, as well as emphasizing the feminine gender of Adamah, which seems to me important for this mythopoetic narrative. By replacing "snake" with a transliteration of its Hebrew naḥash, I mean to draw attention to the word's cognate in Sanskrit, <a href="https://en.wikipedia.org/wiki/Nāga">naga</a> (नाग), a serpent-like being whose echo in Indian mythology seems strongly related. Aside from these, I have made minor punctuation changes.
-
 </body>
 </html>
