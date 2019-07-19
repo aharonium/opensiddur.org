@@ -3,7 +3,7 @@
 <body>
 Title: תפילה ל-11 בספטמבר | Memorial Prayer for those whose lives were lost on 11 September 2001, by Rabbi Gilah Langner<br />
 Primary contributor: gilah.langner<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=3568">http://opensiddur.org/?p=3568</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=3568">http://opensiddur.org/?p=3568</a>
 <p />
 <hr />
 

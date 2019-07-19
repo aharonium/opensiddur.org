@@ -3,7 +3,7 @@
 <body>
 Title: Prayer of the Guest Chaplain of the U.S. House of Representatives: Rabbi Abram Simon on 16 February 1905<br />
 Primary contributor: United-States.Congressional-Record<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=24406">http://opensiddur.org/?p=24406</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=24406">http://opensiddur.org/?p=24406</a>
 <p />
 <hr />
 

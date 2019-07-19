@@ -3,7 +3,7 @@
 <body>
 Title: Kavanot when Washing One's Body Before Shabbes by Eyal Raviv<br />
 Primary contributor: eyal.raviv<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=9223">http://opensiddur.org/?p=9223</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=9223">http://opensiddur.org/?p=9223</a>
 <p />
 <hr />
 

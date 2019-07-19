@@ -3,7 +3,7 @@
 <body>
 Title: Prayer for Human Solidarity, by Rabbi Ḥanan Schlesinger<br />
 Primary contributor: hanan.schlesinger<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=24151">http://opensiddur.org/?p=24151</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=24151">http://opensiddur.org/?p=24151</a>
 <p />
 <hr />
 

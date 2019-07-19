@@ -3,7 +3,7 @@
 <body>
 Title: Translating the TaNaKh — a new Jewish translation based on the World English Bible<br />
 Primary contributor: JET<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=4095">http://opensiddur.org/?p=4095</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=4095">http://opensiddur.org/?p=4095</a>
 <p />
 <hr />
 

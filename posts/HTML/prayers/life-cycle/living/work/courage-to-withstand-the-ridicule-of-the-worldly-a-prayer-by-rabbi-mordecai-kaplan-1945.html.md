@@ -3,7 +3,7 @@
 <body>
 Title: Courage to Withstand the Ridicule of the Worldly, a prayer by Rabbi Mordecai Kaplan (1945)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=20721">http://opensiddur.org/?p=20721</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=20721">http://opensiddur.org/?p=20721</a>
 <p />
 <hr />
 

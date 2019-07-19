@@ -3,7 +3,7 @@
 <body>
 Title: Prayer of the Guest Chaplain of the U.S. House of Representatives: Rabbi Aaron Krupnick on 6 June 2018<br />
 Primary contributor: United-States.Congressional-Record<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=20274">http://opensiddur.org/?p=20274</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=20274">http://opensiddur.org/?p=20274</a>
 <p />
 <hr />
 

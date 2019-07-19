@@ -3,7 +3,7 @@
 <body>
 Title: תהלים | Schedule for the Reading of Psalms corresponding to the Weekly Torah Portion, by Isaac Gantwerk-Mayer<br />
 Primary contributor: isaac.gantwerk-mayer<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=19629">http://opensiddur.org/?p=19629</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=19629">http://opensiddur.org/?p=19629</a>
 <p />
 <hr />
 

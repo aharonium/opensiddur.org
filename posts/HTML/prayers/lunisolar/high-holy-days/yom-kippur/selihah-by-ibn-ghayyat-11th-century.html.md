@@ -3,7 +3,7 @@
 <body>
 Title: סליחה מר׳ יצחק אבן גיאת | Seliḥah by Yitsḥak ben Yehudah Ibn Ghayyat (ca. 11th century) translated by Reb Zalman Schachter-Shalomi z"l<br />
 Primary contributor: zalman.schachter-shalomi<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=17543">http://opensiddur.org/?p=17543</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=17543">http://opensiddur.org/?p=17543</a>
 <p />
 <hr />
 

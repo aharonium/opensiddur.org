@@ -3,7 +3,7 @@
 <body>
 Title: רפא אותי | Heal Me by Trisha Arlin<br />
 Primary contributor: trishaarlin<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=4564">http://opensiddur.org/?p=4564</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=4564">http://opensiddur.org/?p=4564</a>
 <p />
 <hr />
 

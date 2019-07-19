@@ -3,7 +3,7 @@
 <body>
 Title: פָּרָשַׁת וַיַּקְהֵל | Parashat Vayaqhel (Exodus 35:1-38:20), color-coded according to its narrative layers<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=23893">http://opensiddur.org/?p=23893</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=23893">http://opensiddur.org/?p=23893</a>
 <p />
 <hr />
 

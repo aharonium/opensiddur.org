@@ -3,7 +3,7 @@
 <body>
 Title: תהלים ב׳ בלשון ספרדית | Psalms 2 in Spanish (trans. Rabbi Yahakob Yehuda, Leon Hebréo 1671)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=15746">http://opensiddur.org/?p=15746</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=15746">http://opensiddur.org/?p=15746</a>
 <p />
 <hr />
 

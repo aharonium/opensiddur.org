@@ -3,7 +3,7 @@
 <body>
 Title: The Body Speaking to the Soul Which Just Left It, a poem by Rosa Emma Salaman (1842)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=16487">http://opensiddur.org/?p=16487</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=16487">http://opensiddur.org/?p=16487</a>
 <p />
 <hr />
 

@@ -3,7 +3,7 @@
 <body>
 Title: תפלת בקר של חול | Weekday Morning Prayer, based upon the Karaite Prayerbook of Abraham Firkovich (1871)<br />
 Primary contributor: nehemia.gordon<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=24639">http://opensiddur.org/?p=24639</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=24639">http://opensiddur.org/?p=24639</a>
 <p />
 <hr />
 

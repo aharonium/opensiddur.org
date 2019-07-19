@@ -3,7 +3,7 @@
 <body>
 Title: סידור תורה אור | Siddur Torah Ohr:  the Nusaḥ Ha-ARI according to Rav Schneur Zalman of Lyadi<br />
 Primary contributor: kosherchorizo<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=1260">http://opensiddur.org/?p=1260</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=1260">http://opensiddur.org/?p=1260</a>
 <p />
 <hr />
 

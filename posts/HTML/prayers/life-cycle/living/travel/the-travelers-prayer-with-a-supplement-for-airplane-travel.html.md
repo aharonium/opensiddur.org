@@ -3,7 +3,7 @@
 <body>
 Title: תְּפִלַּת הַדֶּרֶךְ | The Traveler's Prayer (with a Supplement for Airplane Travel)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=12592">http://opensiddur.org/?p=12592</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=12592">http://opensiddur.org/?p=12592</a>
 <p />
 <hr />
 

@@ -3,7 +3,7 @@
 <body>
 Title: A Supplication Before the Divine Throne During an Outbreak of Asiatic Cholera in Montreal by R' Abraham de Sola (1849)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=16397">http://opensiddur.org/?p=16397</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=16397">http://opensiddur.org/?p=16397</a>
 <p />
 <hr />
 

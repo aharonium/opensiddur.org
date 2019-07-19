@@ -3,7 +3,7 @@
 <body>
 Title: מדרשים על אדם הראשון וקלנדס על תקופת החורף | Midrashim on the Origin of the Festival of Kalends on the Winter Solstice by the Primordial Adam<br />
 Primary contributor: devora.steinmetz<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=1548">http://opensiddur.org/?p=1548</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=1548">http://opensiddur.org/?p=1548</a>
 <p />
 <hr />
 

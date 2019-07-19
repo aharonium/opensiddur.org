@@ -3,7 +3,7 @@
 <body>
 Title: Prayer of the Guest Chaplain of the U.S. Senate: Rabbi Moshe Feller on 11 June 2013<br />
 Primary contributor: United-States.Congressional-Record<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=21570">http://opensiddur.org/?p=21570</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=21570">http://opensiddur.org/?p=21570</a>
 <p />
 <hr />
 

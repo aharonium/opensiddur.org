@@ -3,7 +3,7 @@
 <body>
 Title: Stunden Der Andacht (Fanny Schmiedl Neuda, 1855)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=6753">http://opensiddur.org/?p=6753</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=6753">http://opensiddur.org/?p=6753</a>
 <p />
 <hr />
 

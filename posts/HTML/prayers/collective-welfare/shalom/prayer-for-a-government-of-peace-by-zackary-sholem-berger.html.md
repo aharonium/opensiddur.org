@@ -3,7 +3,7 @@
 <body>
 Title: תְּפִלָּה בְּעַד מֶמְשֶׁלֶת שָׁלוֹם | Prayer for a Government of Peace, by Zackary Sholem Berger<br />
 Primary contributor: zackary-sholem.berger<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=25940">http://opensiddur.org/?p=25940</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=25940">http://opensiddur.org/?p=25940</a>
 <p />
 <hr />
 

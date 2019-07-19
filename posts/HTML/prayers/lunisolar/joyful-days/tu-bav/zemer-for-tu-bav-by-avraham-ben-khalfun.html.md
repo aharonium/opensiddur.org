@@ -3,7 +3,7 @@
 <body>
 Title: זמר לט״ו באב | Zemer for Tu b'Av, by Avraham ben Ḥalfon (ca. 12th c.)<br />
 Primary contributor: abraham.ben-halfon<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=14317">http://opensiddur.org/?p=14317</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=14317">http://opensiddur.org/?p=14317</a>
 <p />
 <hr />
 

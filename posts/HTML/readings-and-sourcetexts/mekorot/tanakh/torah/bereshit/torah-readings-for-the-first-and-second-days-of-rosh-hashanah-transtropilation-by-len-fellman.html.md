@@ -3,7 +3,7 @@
 <body>
 Title: Torah Readings for the first day (Genesis 21:1-34) and second day (Genesis 22:1-24) of Rosh Hashanah: Chantable English translation with trōp, by Len Fellman<br />
 Primary contributor: len.fellman<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=21190">http://opensiddur.org/?p=21190</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=21190">http://opensiddur.org/?p=21190</a>
 <p />
 <hr />
 

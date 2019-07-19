@@ -3,7 +3,7 @@
 <body>
 Title: תפילה לשלום המלכות | Prayer for the Welfare of George Washington, George Clinton, and the 13 States of America by Hendla Jochanan van Oettingen (1784)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=12657">http://opensiddur.org/?p=12657</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=12657">http://opensiddur.org/?p=12657</a>
 <p />
 <hr />
 

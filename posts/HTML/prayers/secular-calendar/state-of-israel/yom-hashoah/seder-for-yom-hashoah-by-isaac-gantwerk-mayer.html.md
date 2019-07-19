@@ -3,7 +3,7 @@
 <body>
 Title: סֵדֶר לְיוֹם הַשׁוֹאָה | Seder for Yom haSho'ah, by Isaac Gantwerk Mayer<br />
 Primary contributor: isaac.gantwerk-mayer<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=19662">http://opensiddur.org/?p=19662</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=19662">http://opensiddur.org/?p=19662</a>
 <p />
 <hr />
 

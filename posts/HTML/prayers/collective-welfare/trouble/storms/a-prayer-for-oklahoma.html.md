@@ -3,7 +3,7 @@
 <body>
 Title: אחרי הסערה | A Prayer for Central Oklahoma After the Tornado, by Rabbi Abby Jacobson (2013)<br />
 Primary contributor: abby.jacobson<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=7059">http://opensiddur.org/?p=7059</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=7059">http://opensiddur.org/?p=7059</a>
 <p />
 <hr />
 

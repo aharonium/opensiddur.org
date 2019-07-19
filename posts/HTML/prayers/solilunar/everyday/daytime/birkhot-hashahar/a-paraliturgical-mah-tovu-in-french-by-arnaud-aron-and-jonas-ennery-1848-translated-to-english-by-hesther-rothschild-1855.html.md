@@ -3,7 +3,7 @@
 <body>
 Title: מה טבו | A Paraliturgical Mah Tovu in French by R' Arnaud Aron and Jonas Ennery (1848), translated to English by Hester Rothschild (1855)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=15841">http://opensiddur.org/?p=15841</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=15841">http://opensiddur.org/?p=15841</a>
 <p />
 <hr />
 

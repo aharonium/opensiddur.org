@@ -3,7 +3,7 @@
 <body>
 Title: Prayer of the Guest Chaplain of the U.S. Senate: Rabbi Michael Beals on 23 May 2013<br />
 Primary contributor: United-States.Congressional-Record<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=21573">http://opensiddur.org/?p=21573</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=21573">http://opensiddur.org/?p=21573</a>
 <p />
 <hr />
 

@@ -3,7 +3,7 @@
 <body>
 Title: תהלים קמ״ט | Psalms 149, translated by Rabbi Zalman Schachter-Shalomi<br />
 Primary contributor: zalman.schachter-shalomi<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=20984">http://opensiddur.org/?p=20984</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=20984">http://opensiddur.org/?p=20984</a>
 <p />
 <hr />
 

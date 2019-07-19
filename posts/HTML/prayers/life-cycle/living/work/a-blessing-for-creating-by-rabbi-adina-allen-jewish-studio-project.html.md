@@ -3,7 +3,7 @@
 <body>
 Title: ברכת יוצר יצירים | A Blessing for Creating, by Rabbi Adina Allen (Jewish Studio Project)<br />
 Primary contributor: adina.allen<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=18020">http://opensiddur.org/?p=18020</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=18020">http://opensiddur.org/?p=18020</a>
 <p />
 <hr />
 

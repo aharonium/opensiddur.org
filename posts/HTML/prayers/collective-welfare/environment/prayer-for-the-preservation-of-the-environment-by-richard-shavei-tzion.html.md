@@ -3,7 +3,7 @@
 <body>
 Title: תְּפִלָּה לְמַעַן תֵּבֵל וּמְלוֹאָהּ | Prayer for the Preservation of the Environment, by Richard Shavei-Tzion<br />
 Primary contributor: richard.shavei-tzion<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=25863">http://opensiddur.org/?p=25863</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=25863">http://opensiddur.org/?p=25863</a>
 <p />
 <hr />
 

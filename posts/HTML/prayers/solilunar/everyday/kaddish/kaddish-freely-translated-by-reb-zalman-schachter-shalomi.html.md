@@ -3,7 +3,7 @@
 <body>
 Title: קדיש יתום | Mourner's Kaddish, interpretive translation by Rabbi Zalman Schachter-Shalomi z"l<br />
 Primary contributor: zalman.schachter-shalomi<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=7680">http://opensiddur.org/?p=7680</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=7680">http://opensiddur.org/?p=7680</a>
 <p />
 <hr />
 

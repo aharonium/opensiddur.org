@@ -3,7 +3,7 @@
 <body>
 Title: סֵדֶר ט״וּ בִּשְׁבָט | A Tu BiShvat Seder to Heal the Wounded Earth, by Rabbi Arthur Waskow (The Shalom Center)<br />
 Primary contributor: arthur.waskow<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=8119">http://opensiddur.org/?p=8119</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=8119">http://opensiddur.org/?p=8119</a>
 <p />
 <hr />
 

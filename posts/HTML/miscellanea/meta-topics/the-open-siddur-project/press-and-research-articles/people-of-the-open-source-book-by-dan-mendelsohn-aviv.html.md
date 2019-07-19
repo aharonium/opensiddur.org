@@ -3,7 +3,7 @@
 <body>
 Title: "People of the (Open Source) Book" by Dan Mendelsohn Aviv (Key Publishing, 2012)<br />
 Primary contributor: dan.mendelsohn.aviv<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=8739">http://opensiddur.org/?p=8739</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=8739">http://opensiddur.org/?p=8739</a>
 <p />
 <hr />
 

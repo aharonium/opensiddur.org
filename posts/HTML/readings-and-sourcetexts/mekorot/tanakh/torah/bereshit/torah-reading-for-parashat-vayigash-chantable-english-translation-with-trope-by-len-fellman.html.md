@@ -3,7 +3,7 @@
 <body>
 Title: Torah Reading for Parashat Vayigash (Genesis 44:18-47:27): Chantable English translation with trōp, by Len Fellman<br />
 Primary contributor: len.fellman<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=22884">http://opensiddur.org/?p=22884</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=22884">http://opensiddur.org/?p=22884</a>
 <p />
 <hr />
 

@@ -3,7 +3,7 @@
 <body>
 Title: A Blessing for the Sudden Relief from Chronic Pain, by Rabbi Menachem Creditor<br />
 Primary contributor: menachem.creditor<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=20997">http://opensiddur.org/?p=20997</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=20997">http://opensiddur.org/?p=20997</a>
 <p />
 <hr />
 

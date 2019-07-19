@@ -3,7 +3,7 @@
 <body>
 Title: A Memory’s fire burns within me still, by Andrew Meit adapted from the Qinah, "Aish Tuqad b'Qirbi"<br />
 Primary contributor: andrew.meit<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=11926">http://opensiddur.org/?p=11926</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=11926">http://opensiddur.org/?p=11926</a>
 <p />
 <hr />
 

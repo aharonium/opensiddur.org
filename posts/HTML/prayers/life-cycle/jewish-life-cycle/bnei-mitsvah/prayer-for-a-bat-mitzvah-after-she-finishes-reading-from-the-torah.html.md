@@ -3,7 +3,7 @@
 <body>
 Title: תפילת בת המצווה | Prayer of the Bat Mitzvah after she finishes reading from the Torah, by Chaim Hames-Ezra<br />
 Primary contributor: haim.hames<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=10755">http://opensiddur.org/?p=10755</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=10755">http://opensiddur.org/?p=10755</a>
 <p />
 <hr />
 

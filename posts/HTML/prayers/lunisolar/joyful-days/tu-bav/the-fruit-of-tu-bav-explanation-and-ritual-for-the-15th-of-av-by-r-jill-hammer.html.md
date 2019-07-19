@@ -3,7 +3,7 @@
 <body>
 Title: ט״ו באב | The Fruit of Tu B’Av: explanation and ritual for the 15th of Av by R’ Jill Hammer<br />
 Primary contributor: jill.hammer<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=3579">http://opensiddur.org/?p=3579</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=3579">http://opensiddur.org/?p=3579</a>
 <p />
 <hr />
 

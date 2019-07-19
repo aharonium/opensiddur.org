@@ -3,7 +3,7 @@
 <body>
 Title: סדר לפסח: שתי כוסות, לאליהו ומרים | Two Cups: Elijah and Miriam, by Trisha Arlin<br />
 Primary contributor: trishaarlin<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=4680">http://opensiddur.org/?p=4680</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=4680">http://opensiddur.org/?p=4680</a>
 <p />
 <hr />
 

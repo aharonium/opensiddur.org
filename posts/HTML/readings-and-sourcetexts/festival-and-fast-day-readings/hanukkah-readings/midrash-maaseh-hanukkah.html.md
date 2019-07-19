@@ -3,7 +3,7 @@
 <body>
 Title: מדרש מעשה חנוכּה | Midrash Ma'aseh Ḥanukkah, another Ḥanukkah story<br />
 Primary contributor: anat.hochberg<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=12327">http://opensiddur.org/?p=12327</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=12327">http://opensiddur.org/?p=12327</a>
 <p />
 <hr />
 

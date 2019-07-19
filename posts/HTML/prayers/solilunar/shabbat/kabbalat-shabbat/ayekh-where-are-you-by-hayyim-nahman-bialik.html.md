@@ -3,7 +3,7 @@
 <body>
 Title: ?אַיֵּךְ | Ayekh (Where are you?), by Ḥayyim Naḥman Bialik (1904)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=23122">http://opensiddur.org/?p=23122</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=23122">http://opensiddur.org/?p=23122</a>
 <p />
 <hr />
 

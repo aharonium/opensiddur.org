@@ -3,7 +3,7 @@
 <body>
 Title: Prayer of the Guest Chaplain of the U.S. House of Representatives: Rabbi Joshua Gruenberg on 13 November 2013<br />
 Primary contributor: United-States.Congressional-Record<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=21567">http://opensiddur.org/?p=21567</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=21567">http://opensiddur.org/?p=21567</a>
 <p />
 <hr />
 

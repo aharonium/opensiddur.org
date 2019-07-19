@@ -3,7 +3,7 @@
 <body>
 Title: Actions de graces pour la récolte et Prière pour demander un bon hiver (Thanks for the Harvest, and Prayer for a Favorable Winter), by Jonas Ennery (1848)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=21923">http://opensiddur.org/?p=21923</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=21923">http://opensiddur.org/?p=21923</a>
 <p />
 <hr />
 

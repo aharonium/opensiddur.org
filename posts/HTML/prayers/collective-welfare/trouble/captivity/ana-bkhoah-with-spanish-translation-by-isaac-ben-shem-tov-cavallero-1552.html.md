@@ -3,7 +3,7 @@
 <body>
 Title: אָנָּא בְּכֹחַ | Ana b'Khoaḥ, with Spanish translation by Rabbi Isaac ben Shem Tov Cavallero (1552)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=24302">http://opensiddur.org/?p=24302</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=24302">http://opensiddur.org/?p=24302</a>
 <p />
 <hr />
 

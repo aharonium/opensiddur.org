@@ -3,7 +3,7 @@
 <body>
 Title: עמידה | Weekday Affirmations Based on the Amidah, by Rabbi Zalman Schachter-Shalomi (2009)<br />
 Primary contributor: zalman.schachter-shalomi<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=21107">http://opensiddur.org/?p=21107</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=21107">http://opensiddur.org/?p=21107</a>
 <p />
 <hr />
 

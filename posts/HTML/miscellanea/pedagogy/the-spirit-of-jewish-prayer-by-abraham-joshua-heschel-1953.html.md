@@ -3,7 +3,7 @@
 <body>
 Title: "The Spirit of Jewish Prayer," by Abraham Joshua Heschel (1953)<br />
 Primary contributor: abraham-joshua.heschel<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=21135">http://opensiddur.org/?p=21135</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=21135">http://opensiddur.org/?p=21135</a>
 <p />
 <hr />
 

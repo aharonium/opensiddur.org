@@ -3,7 +3,7 @@
 <body>
 Title: Prayer at the Dedication of the Vietnam Veterans Memorial by Rabbi Arnold Resnicoff on 13 November 1982<br />
 Primary contributor: arnold.resnicoff<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=22902">http://opensiddur.org/?p=22902</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=22902">http://opensiddur.org/?p=22902</a>
 <p />
 <hr />
 

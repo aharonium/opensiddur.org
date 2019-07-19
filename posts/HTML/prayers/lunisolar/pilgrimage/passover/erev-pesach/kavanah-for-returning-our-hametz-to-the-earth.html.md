@@ -3,7 +3,7 @@
 <body>
 Title: ביעור חמץ | Kavanah for Returning Our Ḥametz to the Earth by Rabbi David Seidenberg (neohasid.org)<br />
 Primary contributor: david.seidenberg<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=6335">http://opensiddur.org/?p=6335</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=6335">http://opensiddur.org/?p=6335</a>
 <p />
 <hr />
 

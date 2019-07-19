@@ -3,7 +3,7 @@
 <body>
 Title: סדר לקריאת מגילת העצמאות | Reading of the Israeli Declaration of Independence for Yom Ha'atsma'ut<br />
 Primary contributor: isaac.gantwerk-mayer<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=15325">http://opensiddur.org/?p=15325</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=15325">http://opensiddur.org/?p=15325</a>
 <p />
 <hr />
 

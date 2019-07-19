@@ -3,7 +3,7 @@
 <body>
 Title: תהלים ג׳ בלשון ײִדיש | Psalms 3 in Yiddish (translated by Yehoyesh Shloyme Blumgarten ca. 1920s)<br />
 Primary contributor: yehoyesh.blumgarten<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=15879">http://opensiddur.org/?p=15879</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=15879">http://opensiddur.org/?p=15879</a>
 <p />
 <hr />
 

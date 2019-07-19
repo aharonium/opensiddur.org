@@ -3,7 +3,7 @@
 <body>
 Title: HAVDALLAH: Prayers for the Holy Separations, by Trisha Arlin<br />
 Primary contributor: trishaarlin<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=2026">http://opensiddur.org/?p=2026</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=2026">http://opensiddur.org/?p=2026</a>
 <p />
 <hr />
 

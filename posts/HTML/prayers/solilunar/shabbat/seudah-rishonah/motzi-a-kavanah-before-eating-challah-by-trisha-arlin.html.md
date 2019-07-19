@@ -3,7 +3,7 @@
 <body>
 Title: Motzi — a kavvanah before eating ḥallah, by Trisha Arlin<br />
 Primary contributor: trishaarlin<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=3256">http://opensiddur.org/?p=3256</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=3256">http://opensiddur.org/?p=3256</a>
 <p />
 <hr />
 

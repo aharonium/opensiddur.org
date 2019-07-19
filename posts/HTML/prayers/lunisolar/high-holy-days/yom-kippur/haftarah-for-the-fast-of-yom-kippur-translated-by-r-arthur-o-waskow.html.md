@@ -3,7 +3,7 @@
 <body>
 Title: Haftarah Reading for Yom Kippur morning (Isaiah 57:14-58:14), a slightly midrashic translation by Arthur O. Waskow<br />
 Primary contributor: arthur.waskow<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=3914">http://opensiddur.org/?p=3914</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=3914">http://opensiddur.org/?p=3914</a>
 <p />
 <hr />
 

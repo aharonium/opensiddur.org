@@ -3,7 +3,7 @@
 <body>
 Title: Torah Reading for Parashat b'Har (Leviticus 25:1-26:2): Chantable English translation with trōp, by Len Fellman<br />
 Primary contributor: len.fellman<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=24993">http://opensiddur.org/?p=24993</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=24993">http://opensiddur.org/?p=24993</a>
 <p />
 <hr />
 

@@ -3,7 +3,7 @@
 <body>
 Title: תחנה פון ליכט בענטשין | Tkhine for Lighting Candles [for Shabbes]<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=14154">http://opensiddur.org/?p=14154</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=14154">http://opensiddur.org/?p=14154</a>
 <p />
 <hr />
 

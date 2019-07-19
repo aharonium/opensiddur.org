@@ -3,7 +3,7 @@
 <body>
 Title: מגילה ליום ניקנור | A Reading for Yom Niqanor, the Day of the Elephantarch: II Maccabees, chapters 13-15<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=13102">http://opensiddur.org/?p=13102</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=13102">http://opensiddur.org/?p=13102</a>
 <p />
 <hr />
 

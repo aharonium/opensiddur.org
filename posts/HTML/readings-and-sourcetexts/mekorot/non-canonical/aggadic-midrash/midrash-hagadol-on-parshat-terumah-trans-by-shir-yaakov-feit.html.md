@@ -3,7 +3,7 @@
 <body>
 Title: מדרש הגדול על פרשת תרומה | Why the Mishkan Resembles the World and the Human Body: a translation of Midrash haGadol on Parashat Terumah, by Shir Yaakov Feit (in memory of Laurie Feit, z”l, 5777/2017)<br />
 Primary contributor: shir-yaakov.feinstein-feit<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=18859">http://opensiddur.org/?p=18859</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=18859">http://opensiddur.org/?p=18859</a>
 <p />
 <hr />
 

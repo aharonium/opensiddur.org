@@ -3,7 +3,7 @@
 <body>
 Title: פְּרִי עֵץ הֲדַר | The Pri Ets Hadar: Fruit of the Majestic Tree, the original seder for Tu biShvat (School of Rabbi Yitsḥak Luria, circa 17th century)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=1503">http://opensiddur.org/?p=1503</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=1503">http://opensiddur.org/?p=1503</a>
 <p />
 <hr />
 

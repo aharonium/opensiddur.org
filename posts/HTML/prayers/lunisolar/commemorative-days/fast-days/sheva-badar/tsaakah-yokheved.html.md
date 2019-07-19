@@ -3,7 +3,7 @@
 <body>
 Title: ז׳ אדר | Tsa'akah Yokheved, a piyyut attributed to Shmuel Shlomo (before 1050 CE)<br />
 Primary contributor: hierophant<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=13001">http://opensiddur.org/?p=13001</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=13001">http://opensiddur.org/?p=13001</a>
 <p />
 <hr />
 

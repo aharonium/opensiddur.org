@@ -3,7 +3,7 @@
 <body>
 Title: הסדור השלם | Ha-Siddur Ha-Shalem, The Daily Prayerbook by Paltiel Birnbaum (Hebrew Publishing Company, 1949)<br />
 Primary contributor: paltiel.birnbaum<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=14900">http://opensiddur.org/?p=14900</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=14900">http://opensiddur.org/?p=14900</a>
 <p />
 <hr />
 

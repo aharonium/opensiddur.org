@@ -3,7 +3,7 @@
 <body>
 Title: תהלים קמ״ד | Psalms 144 by David, translated by Isaac Gantwerk Mayer<br />
 Primary contributor: isaac.gantwerk-mayer<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=23869">http://opensiddur.org/?p=23869</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=23869">http://opensiddur.org/?p=23869</a>
 <p />
 <hr />
 

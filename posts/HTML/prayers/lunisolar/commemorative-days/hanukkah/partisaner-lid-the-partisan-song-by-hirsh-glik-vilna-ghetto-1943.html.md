@@ -3,7 +3,7 @@
 <body>
 Title: זאָג ניט קײן מאָל | Partisaner Lid (the Partisan Song), by Hirsh Glik (Vilna Ghetto, 1943)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=18257">http://opensiddur.org/?p=18257</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=18257">http://opensiddur.org/?p=18257</a>
 <p />
 <hr />
 

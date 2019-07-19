@@ -3,7 +3,7 @@
 <body>
 Title: The Samaritan Liturgy in two volumes (transcribed by A.E. Cowley)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=14996">http://opensiddur.org/?p=14996</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=14996">http://opensiddur.org/?p=14996</a>
 <p />
 <hr />
 

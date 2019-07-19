@@ -3,7 +3,7 @@
 <body>
 Title: מקרא על פי המסורה | Miqra `al pi ha-Mesorah: A New Experimental Edition of the Tanakh Online<br />
 Primary contributor: avi.kadish<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=7610">http://opensiddur.org/?p=7610</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=7610">http://opensiddur.org/?p=7610</a>
 <p />
 <hr />
 

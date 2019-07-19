@@ -3,7 +3,7 @@
 <body>
 Title: הַנּוֺתֵן תְּשׁוּעָה | A Prayer for the royal family of Queen Victoria (1860)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=12722">http://opensiddur.org/?p=12722</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=12722">http://opensiddur.org/?p=12722</a>
 <p />
 <hr />
 

@@ -3,7 +3,7 @@
 <body>
 Title: תפילה לפני חלוקת תרופות | Prayer before the dispensation of medication, by Dafna Meir, z"l<br />
 Primary contributor: dafna.meir<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=12517">http://opensiddur.org/?p=12517</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=12517">http://opensiddur.org/?p=12517</a>
 <p />
 <hr />
 

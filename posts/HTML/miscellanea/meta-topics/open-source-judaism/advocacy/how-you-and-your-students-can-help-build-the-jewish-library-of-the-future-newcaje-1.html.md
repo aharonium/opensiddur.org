@@ -3,7 +3,7 @@
 <body>
 Title: Efraim Feinstein presents the Open Siddur Project at NewCAJE, 2010<br />
 Primary contributor: Efraim<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=1010">http://opensiddur.org/?p=1010</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=1010">http://opensiddur.org/?p=1010</a>
 <p />
 <hr />
 

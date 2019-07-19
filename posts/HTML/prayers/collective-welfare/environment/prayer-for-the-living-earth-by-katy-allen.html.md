@@ -3,7 +3,7 @@
 <body>
 Title: תפילה לעולם החי | Prayer for the Living Earth by Rabbi Katy Z. Allen<br />
 Primary contributor: katy.allen<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=17110">http://opensiddur.org/?p=17110</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=17110">http://opensiddur.org/?p=17110</a>
 <p />
 <hr />
 

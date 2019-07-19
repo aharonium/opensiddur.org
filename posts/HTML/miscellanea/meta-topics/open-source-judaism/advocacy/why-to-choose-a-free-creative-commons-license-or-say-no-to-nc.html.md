@@ -3,7 +3,7 @@
 <body>
 Title: Copyright and Commercial Use: the Problem with Creative Commons’ Non-Commercial Use Licenses<br />
 Primary contributor: Efraim<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=2707">http://opensiddur.org/?p=2707</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=2707">http://opensiddur.org/?p=2707</a>
 <p />
 <hr />
 

@@ -3,7 +3,7 @@
 <body>
 Title: פָּרָשַׁת חֻקַּת | Parashat Ḥuqat (Numbers 19:1-22:1), color-coded according to its narrative layers<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=25831">http://opensiddur.org/?p=25831</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=25831">http://opensiddur.org/?p=25831</a>
 <p />
 <hr />
 

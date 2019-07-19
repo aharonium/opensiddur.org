@@ -3,7 +3,7 @@
 <body>
 Title: A Prayer before Torah Study by Rabbi Zalman Schachter-Shalomi<br />
 Primary contributor: zalman.schachter-shalomi<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=11428">http://opensiddur.org/?p=11428</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=11428">http://opensiddur.org/?p=11428</a>
 <p />
 <hr />
 

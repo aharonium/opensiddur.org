@@ -3,7 +3,7 @@
 <body>
 Title: Saturday Afternoon Request by Rabbi Rachel Barenblat<br />
 Primary contributor: rbarenblat<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=7055">http://opensiddur.org/?p=7055</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=7055">http://opensiddur.org/?p=7055</a>
 <p />
 <hr />
 

@@ -3,7 +3,7 @@
 <body>
 Title: תהלים כ׳ | Psalms 20 by David, translated by Isaac Gantwerk Mayer<br />
 Primary contributor: isaac.gantwerk-mayer<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=23883">http://opensiddur.org/?p=23883</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=23883">http://opensiddur.org/?p=23883</a>
 <p />
 <hr />
 

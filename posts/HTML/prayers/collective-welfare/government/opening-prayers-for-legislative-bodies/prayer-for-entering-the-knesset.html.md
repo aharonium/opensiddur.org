@@ -3,7 +3,7 @@
 <body>
 Title: תפילה בכניסה לכנסת | Prayer for Entering the Knesset, by Dr. Chaim Hames-Ezra (2013)<br />
 Primary contributor: elli.fischer<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=6234">http://opensiddur.org/?p=6234</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=6234">http://opensiddur.org/?p=6234</a>
 <p />
 <hr />
 

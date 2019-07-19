@@ -3,7 +3,7 @@
 <body>
 Title: A Jewish Prayer for Peace between England and her Colonies on a public day of fasting and prayer, May 17, 1776<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=12673">http://opensiddur.org/?p=12673</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=12673">http://opensiddur.org/?p=12673</a>
 <p />
 <hr />
 

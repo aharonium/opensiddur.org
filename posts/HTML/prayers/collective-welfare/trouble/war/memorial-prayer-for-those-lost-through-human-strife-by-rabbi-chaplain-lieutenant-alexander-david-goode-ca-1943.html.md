@@ -3,7 +3,7 @@
 <body>
 Title: Memorial Prayer for Those Lost Through Human Strife, by Rabbi Chaplain (Lieutenant) Alexander David Goode (ca. 1943)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=23708">http://opensiddur.org/?p=23708</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=23708">http://opensiddur.org/?p=23708</a>
 <p />
 <hr />
 

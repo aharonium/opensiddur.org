@@ -3,7 +3,7 @@
 <body>
 Title: ברכת השנים | On December 4th (or 5th) and the Birkat Hashanim<br />
 Primary contributor: ethan.tucker<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=5563">http://opensiddur.org/?p=5563</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=5563">http://opensiddur.org/?p=5563</a>
 <p />
 <hr />
 

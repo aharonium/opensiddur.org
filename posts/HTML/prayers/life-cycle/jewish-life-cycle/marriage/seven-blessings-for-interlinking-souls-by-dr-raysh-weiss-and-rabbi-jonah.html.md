@@ -3,7 +3,7 @@
 <body>
 Title: שבע ברכות לנפשות קשורות | Seven Blessings For Interlinking Souls, by Rabbi Dr. Raysh Weiss and Rabbi Jonah Rank<br />
 Primary contributor: raysh.weiss<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=11906">http://opensiddur.org/?p=11906</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=11906">http://opensiddur.org/?p=11906</a>
 <p />
 <hr />
 

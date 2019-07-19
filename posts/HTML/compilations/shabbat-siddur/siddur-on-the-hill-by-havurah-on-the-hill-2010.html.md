@@ -3,7 +3,7 @@
 <body>
 Title: Siddur on the Hill for Friday Night, by Ḥavurah on the Hill at the Vilna Shul, Boston (trans. Rabbi Sam Seicol, 2010)<br />
 Primary contributor: sam.seicol<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=8760">http://opensiddur.org/?p=8760</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=8760">http://opensiddur.org/?p=8760</a>
 <p />
 <hr />
 

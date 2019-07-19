@@ -3,7 +3,7 @@
 <body>
 Title: תְּפִילַּת הַנּוֹטֵעַ | Prayer for Tree Planting, by Rabbi Eliyahu Yosef She'ar Yashuv Cohen<br />
 Primary contributor: aharon.n.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=20494">http://opensiddur.org/?p=20494</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=20494">http://opensiddur.org/?p=20494</a>
 <p />
 <hr />
 

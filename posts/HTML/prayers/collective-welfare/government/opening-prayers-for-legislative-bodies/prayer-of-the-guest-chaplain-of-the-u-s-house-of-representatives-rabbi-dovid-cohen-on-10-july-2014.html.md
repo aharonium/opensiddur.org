@@ -3,7 +3,7 @@
 <body>
 Title: Prayer of the Guest Chaplain of the U.S. House of Representatives: Rabbi Dovid Cohen on 10 July 2014<br />
 Primary contributor: United-States.Congressional-Record<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=21523">http://opensiddur.org/?p=21523</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=21523">http://opensiddur.org/?p=21523</a>
 <p />
 <hr />
 

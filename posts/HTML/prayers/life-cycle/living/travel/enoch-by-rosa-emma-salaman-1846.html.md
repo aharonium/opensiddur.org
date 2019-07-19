@@ -3,7 +3,7 @@
 <body>
 Title: Enoch, a poem by Rosa Emma Salaman (1846)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=16311">http://opensiddur.org/?p=16311</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=16311">http://opensiddur.org/?p=16311</a>
 <p />
 <hr />
 

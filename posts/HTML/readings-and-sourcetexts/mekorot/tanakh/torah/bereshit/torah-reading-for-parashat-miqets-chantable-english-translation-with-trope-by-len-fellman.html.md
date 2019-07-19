@@ -3,7 +3,7 @@
 <body>
 Title: Torah Reading for Parashat Miqets (Genesis 41:1-44:17): Chantable English translation with trōp, by Len Fellman<br />
 Primary contributor: len.fellman<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=22849">http://opensiddur.org/?p=22849</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=22849">http://opensiddur.org/?p=22849</a>
 <p />
 <hr />
 

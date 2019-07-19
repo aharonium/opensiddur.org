@@ -3,7 +3,7 @@
 <body>
 Title: Prayer after a Mass Shooting at a Public School, by Rabbi David Dine Wirtschafter (2018)<br />
 Primary contributor: david.dine-wirtschafter<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=18752">http://opensiddur.org/?p=18752</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=18752">http://opensiddur.org/?p=18752</a>
 <p />
 <hr />
 

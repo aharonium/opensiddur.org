@@ -3,7 +3,7 @@
 <body>
 Title: פָּרָשַׁת קְדֹשִׁים | Parashat Qedoshim (Leviticus 19:1-20:26), color-coded according to its narrative layers<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=24529">http://opensiddur.org/?p=24529</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=24529">http://opensiddur.org/?p=24529</a>
 <p />
 <hr />
 

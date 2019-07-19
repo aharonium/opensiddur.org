@@ -3,7 +3,7 @@
 <body>
 Title: אשר יצר | Asher Yatsar, interpretive translation by Reb Zalman Schachter-Shalomi z”l<br />
 Primary contributor: zalman.schachter-shalomi<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=17029">http://opensiddur.org/?p=17029</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=17029">http://opensiddur.org/?p=17029</a>
 <p />
 <hr />
 

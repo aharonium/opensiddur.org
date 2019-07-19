@@ -3,7 +3,7 @@
 <body>
 Title: תפילת טל | A Prayer for Dew, by Rabbi Rachel Barenblat<br />
 Primary contributor: rbarenblat<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=594">http://opensiddur.org/?p=594</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=594">http://opensiddur.org/?p=594</a>
 <p />
 <hr />
 

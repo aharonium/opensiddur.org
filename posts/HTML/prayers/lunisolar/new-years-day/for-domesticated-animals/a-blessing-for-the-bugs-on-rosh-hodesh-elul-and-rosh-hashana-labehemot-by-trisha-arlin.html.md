@@ -3,7 +3,7 @@
 <body>
 Title: A Blessing for the Bugs on Rosh Ḥodesh Elul and Rosh Hashana LaBehemot, by Trisha Arlin<br />
 Primary contributor: trishaarlin<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=12177">http://opensiddur.org/?p=12177</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=12177">http://opensiddur.org/?p=12177</a>
 <p />
 <hr />
 

@@ -3,7 +3,7 @@
 <body>
 Title: ודוי חיובית | Positive Vidui, by Rabbi Avi Weiss<br />
 Primary contributor: avi.weiss<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=14447">http://opensiddur.org/?p=14447</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=14447">http://opensiddur.org/?p=14447</a>
 <p />
 <hr />
 

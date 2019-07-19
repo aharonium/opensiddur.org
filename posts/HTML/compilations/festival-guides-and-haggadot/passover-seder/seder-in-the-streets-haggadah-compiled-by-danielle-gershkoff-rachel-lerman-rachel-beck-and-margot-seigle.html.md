@@ -3,7 +3,7 @@
 <body>
 Title: הגדה לסדר פסח | Seder in the Streets Passover Haggadah, compiled by Danielle Gershkoff, Rachel Lerman, Rachel Beck, and Margot Seigle (5774/2014)<br />
 Primary contributor: margot.seigle<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=10879">http://opensiddur.org/?p=10879</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=10879">http://opensiddur.org/?p=10879</a>
 <p />
 <hr />
 

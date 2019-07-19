@@ -3,7 +3,7 @@
 <body>
 Title: עלת תמיד | Olath Tamid: Gebetbuch Für Israelitische Reform-Gemeinden, by David Einhorn (3rd German ed. 1862)<br />
 Primary contributor: david.einhorn<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=19572">http://opensiddur.org/?p=19572</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=19572">http://opensiddur.org/?p=19572</a>
 <p />
 <hr />
 

@@ -3,7 +3,7 @@
 <body>
 Title: סידור פרחי | Siddur Farḥi, by Dr. Hillel Farḥi (ca. 1913)<br />
 Primary contributor: hillel.farhi<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=12938">http://opensiddur.org/?p=12938</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=12938">http://opensiddur.org/?p=12938</a>
 <p />
 <hr />
 

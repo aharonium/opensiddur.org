@@ -3,7 +3,7 @@
 <body>
 Title: סתיו הנחל יסודי | Fall Creek Elementary: a Kavvanah for Teaching Children, by Eli Steier<br />
 Primary contributor: eli.steier<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=7603">http://opensiddur.org/?p=7603</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=7603">http://opensiddur.org/?p=7603</a>
 <p />
 <hr />
 

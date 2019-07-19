@@ -3,7 +3,7 @@
 <body>
 Title: תפילת דרך משולשת | A Kavvanah for Crossroads: Triple Prayer for the Road, by Yakov Green<br />
 Primary contributor: yakov.green<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=2929">http://opensiddur.org/?p=2929</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=2929">http://opensiddur.org/?p=2929</a>
 <p />
 <hr />
 

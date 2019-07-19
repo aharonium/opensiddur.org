@@ -3,7 +3,7 @@
 <body>
 Title: A Kavvanah for Welcoming the Shabbat with the Spring Equinox, by Rabbi Yaakov Reef<br />
 Primary contributor: yaakov.reef<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=10867">http://opensiddur.org/?p=10867</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=10867">http://opensiddur.org/?p=10867</a>
 <p />
 <hr />
 

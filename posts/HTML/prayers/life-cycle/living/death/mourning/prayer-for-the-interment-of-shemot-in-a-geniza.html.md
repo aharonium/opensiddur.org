@@ -3,7 +3,7 @@
 <body>
 Title: תפילה לפני הגניזה | Prayer for the Interment of Sacred Writing in a Genizah, by Morah Yehudis Fishman<br />
 Primary contributor: yehudis.fishman<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=7755">http://opensiddur.org/?p=7755</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=7755">http://opensiddur.org/?p=7755</a>
 <p />
 <hr />
 

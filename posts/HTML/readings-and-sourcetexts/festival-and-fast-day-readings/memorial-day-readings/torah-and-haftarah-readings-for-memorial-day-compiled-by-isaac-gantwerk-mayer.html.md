@@ -3,7 +3,7 @@
 <body>
 Title: קריאות ליום הזכרון | Torah and Haftarah Readings for Days Memorializing Fallen Military Personnel, compiled by Isaac Gantwerk Mayer<br />
 Primary contributor: isaac.gantwerk-mayer<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=25245">http://opensiddur.org/?p=25245</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=25245">http://opensiddur.org/?p=25245</a>
 <p />
 <hr />
 

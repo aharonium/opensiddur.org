@@ -3,7 +3,7 @@
 <body>
 Title: תהלים כ״ד | The Psalm for Sunday, Psalms 24 (translation by Reb Zalman Schachter-Shalomi, z”l)<br />
 Primary contributor: zalman.schachter-shalomi<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=16164">http://opensiddur.org/?p=16164</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=16164">http://opensiddur.org/?p=16164</a>
 <p />
 <hr />
 

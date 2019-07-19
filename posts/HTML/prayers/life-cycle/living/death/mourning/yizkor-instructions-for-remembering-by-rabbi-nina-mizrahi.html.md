@@ -3,7 +3,7 @@
 <body>
 Title: יזכור | Yizkor: Instructions for Remembering, by Rabbi Nina Mizrahi<br />
 Primary contributor: nina-jane.mizrahi<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=12004">http://opensiddur.org/?p=12004</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=12004">http://opensiddur.org/?p=12004</a>
 <p />
 <hr />
 

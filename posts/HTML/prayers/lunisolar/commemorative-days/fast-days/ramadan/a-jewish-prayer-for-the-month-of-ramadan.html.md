@@ -3,7 +3,7 @@
 <body>
 Title: תפילה יהודית לחודש הרמדאן | صلاة يهودية لشهر رمضان | A Jewish Prayer for the Month of Ramadan, by Rav Ḥanan Schlesinger<br />
 Primary contributor: hanan.schlesinger<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=15582">http://opensiddur.org/?p=15582</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=15582">http://opensiddur.org/?p=15582</a>
 <p />
 <hr />
 

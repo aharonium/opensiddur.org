@@ -3,7 +3,7 @@
 <body>
 Title: Torah Reading for Parashat Vayeshev (Genesis 37:1-40:23): Chantable English translation with trōp, by Len Fellman<br />
 Primary contributor: len.fellman<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=22761">http://opensiddur.org/?p=22761</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=22761">http://opensiddur.org/?p=22761</a>
 <p />
 <hr />
 

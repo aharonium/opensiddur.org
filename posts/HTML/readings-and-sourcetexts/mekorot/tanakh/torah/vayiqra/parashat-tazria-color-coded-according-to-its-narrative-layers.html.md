@@ -3,7 +3,7 @@
 <body>
 Title: פָּרָשַׁת תַזְרִיעַ | Parashat Tazria (Leviticus 12:1-13:59), color-coded according to its narrative layers<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=24376">http://opensiddur.org/?p=24376</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=24376">http://opensiddur.org/?p=24376</a>
 <p />
 <hr />
 

@@ -3,7 +3,7 @@
 <body>
 Title: כְּגַוְנָא | K'gavna, a reading from the Zohar (Terumah §163-166) on the Secret of Oneness and the Mystery of Shabbat<br />
 Primary contributor: marcia.prager<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=14104">http://opensiddur.org/?p=14104</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=14104">http://opensiddur.org/?p=14104</a>
 <p />
 <hr />
 

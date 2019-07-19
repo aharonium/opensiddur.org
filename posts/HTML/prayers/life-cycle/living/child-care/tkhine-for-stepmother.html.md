@@ -3,7 +3,7 @@
 <body>
 Title: א תְּחִנָה פאר א שׂטיףּ מוטער | A Tkhine for a Stepmother (from Shas Tkhine Ḥadasha, 1922)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=14121">http://opensiddur.org/?p=14121</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=14121">http://opensiddur.org/?p=14121</a>
 <p />
 <hr />
 

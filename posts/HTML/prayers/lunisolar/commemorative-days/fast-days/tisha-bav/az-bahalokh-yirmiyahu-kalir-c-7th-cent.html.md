@@ -3,7 +3,7 @@
 <body>
 Title: אז בהלוך ירמיהו | Az Bahalokh Yirmiyahu: Then As Jeremiah Went, by Elazar ben Killir circa 7th century CE (translated by Gabriel Seed)<br />
 Primary contributor: gabriel.seed<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=11870">http://opensiddur.org/?p=11870</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=11870">http://opensiddur.org/?p=11870</a>
 <p />
 <hr />
 

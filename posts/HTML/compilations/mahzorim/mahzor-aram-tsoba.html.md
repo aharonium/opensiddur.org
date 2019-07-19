@@ -3,7 +3,7 @@
 <body>
 Title: Maḥzor Aram Tsoba (1560)<br />
 Primary contributor: pizmonim.project<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=9769">http://opensiddur.org/?p=9769</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=9769">http://opensiddur.org/?p=9769</a>
 <p />
 <hr />
 

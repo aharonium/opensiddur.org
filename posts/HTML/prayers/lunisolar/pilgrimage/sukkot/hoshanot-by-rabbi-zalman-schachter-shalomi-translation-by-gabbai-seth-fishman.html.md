@@ -3,7 +3,7 @@
 <body>
 Title: הושׁענות | Hoshanot by Rabbi Zalman Schachter-Shalomi, translation by Gabbai Seth Fishman<br />
 Primary contributor: seth.fishman<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=12098">http://opensiddur.org/?p=12098</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=12098">http://opensiddur.org/?p=12098</a>
 <p />
 <hr />
 

@@ -3,7 +3,7 @@
 <body>
 Title: סידור זכרון יהודה לייב | Siddur Zichron Yehudah Leib, a Friday Night Siddur dedicated in honor of Leonard Nimoy, z"l (2017)<br />
 Primary contributor: eschultz72<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=14962">http://opensiddur.org/?p=14962</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=14962">http://opensiddur.org/?p=14962</a>
 <p />
 <hr />
 

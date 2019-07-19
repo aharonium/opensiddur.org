@@ -3,7 +3,7 @@
 <body>
 Title: תהלים ס״ז | Psalms 67 (interpretive translation by Reb Zalman Schachter-Shalomi, z”l)<br />
 Primary contributor: zalman.schachter-shalomi<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=16529">http://opensiddur.org/?p=16529</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=16529">http://opensiddur.org/?p=16529</a>
 <p />
 <hr />
 

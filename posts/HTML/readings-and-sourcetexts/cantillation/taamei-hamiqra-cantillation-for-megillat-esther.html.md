@@ -3,7 +3,7 @@
 <body>
 Title: פורים | Ta’amei Hamiqra (cantillation) for Megillat Esther<br />
 Primary contributor: gabriel.seed<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=2622">http://opensiddur.org/?p=2622</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=2622">http://opensiddur.org/?p=2622</a>
 <p />
 <hr />
 

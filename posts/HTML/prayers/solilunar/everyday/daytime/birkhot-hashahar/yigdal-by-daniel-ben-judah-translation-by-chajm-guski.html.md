@@ -3,7 +3,7 @@
 <body>
 Title: יִגְדַּל אֱלֹהִים חַי | Yigdal by Daniel ben Judah (German translation by Chajm Guski)<br />
 Primary contributor: Chajm<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=1409">http://opensiddur.org/?p=1409</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=1409">http://opensiddur.org/?p=1409</a>
 <p />
 <hr />
 

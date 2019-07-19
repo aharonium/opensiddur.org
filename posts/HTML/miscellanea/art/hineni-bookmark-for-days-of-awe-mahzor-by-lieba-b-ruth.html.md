@@ -3,7 +3,7 @@
 <body>
 Title: הנני ☞ Hineni: Here I Am, a bookmark for your Rosh Hashanah and Yom Kippur maḥzor by Lieba B. Ruth<br />
 Primary contributor: lauren.deutsch<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=5232">http://opensiddur.org/?p=5232</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=5232">http://opensiddur.org/?p=5232</a>
 <p />
 <hr />
 

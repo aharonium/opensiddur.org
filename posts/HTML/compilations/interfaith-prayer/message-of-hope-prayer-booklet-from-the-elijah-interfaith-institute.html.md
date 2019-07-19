@@ -3,7 +3,7 @@
 <body>
 Title: Message of Hope Prayer Booklet from the Elijah Interfaith Institute and UNESCO (2012)<br />
 Primary contributor: pesachtree<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=5641">http://opensiddur.org/?p=5641</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=5641">http://opensiddur.org/?p=5641</a>
 <p />
 <hr />
 

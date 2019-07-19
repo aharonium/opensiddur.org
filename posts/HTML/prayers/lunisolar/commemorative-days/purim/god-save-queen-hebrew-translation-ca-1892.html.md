@@ -3,7 +3,7 @@
 <body>
 Title: אֵל שְׁמֹר הַמַּלְכָּה | God Save the Queen (Hebrew translation, ca. 1892)<br />
 Primary contributor: unknown<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=15453">http://opensiddur.org/?p=15453</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=15453">http://opensiddur.org/?p=15453</a>
 <p />
 <hr />
 

@@ -3,7 +3,7 @@
 <body>
 Title: Jewish Content, Free Culture and “Content Compatibility” by Efraim Feinstein<br />
 Primary contributor: Efraim<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=231">http://opensiddur.org/?p=231</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=231">http://opensiddur.org/?p=231</a>
 <p />
 <hr />
 

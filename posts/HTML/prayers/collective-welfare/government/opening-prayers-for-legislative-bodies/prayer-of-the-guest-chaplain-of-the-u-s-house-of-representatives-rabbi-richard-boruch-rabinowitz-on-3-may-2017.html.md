@@ -3,7 +3,7 @@
 <body>
 Title: Prayer of the Guest Chaplain of the U.S. House of Representatives: Rabbi Richard Boruch Rabinowitz on 3 May 2017<br />
 Primary contributor: United-States.Congressional-Record<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=20050">http://opensiddur.org/?p=20050</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=20050">http://opensiddur.org/?p=20050</a>
 <p />
 <hr />
 

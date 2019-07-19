@@ -3,7 +3,7 @@
 <body>
 Title: תפילה לארצות הברית לאחר הטבח בפּיטסבּורג | Prayer for the United States after the Pittsburgh Massacre, by Rabbi Stephen Belsky (2018)<br />
 Primary contributor: stephen.belsky<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=22493">http://opensiddur.org/?p=22493</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=22493">http://opensiddur.org/?p=22493</a>
 <p />
 <hr />
 

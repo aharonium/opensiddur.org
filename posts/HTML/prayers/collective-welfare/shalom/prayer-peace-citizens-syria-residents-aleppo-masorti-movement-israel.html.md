@@ -3,7 +3,7 @@
 <body>
 Title: תפילה לשלום אזרחי סוריה וחלבּ (ארם-צובה, אר"ץ)‏ | Prayer for the Well-being of the Citizens of Syria and Residents of Aleppo (Masorti Movement in Israel)<br />
 Primary contributor: masorti-foundation<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=15245">http://opensiddur.org/?p=15245</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=15245">http://opensiddur.org/?p=15245</a>
 <p />
 <hr />
 

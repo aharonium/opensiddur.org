@@ -3,7 +3,7 @@
 <body>
 Title: A Tale of Two Codexes: The Aleppo and Leningrad Codex<br />
 Primary contributor: aharon-nissn.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=1624">http://opensiddur.org/?p=1624</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=1624">http://opensiddur.org/?p=1624</a>
 <p />
 <hr />
 

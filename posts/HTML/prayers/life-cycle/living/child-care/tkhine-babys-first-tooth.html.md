@@ -3,7 +3,7 @@
 <body>
 Title: תְּחִנָּה מִגְדַּל הַשֵּׁן | Tkhine for a Baby's First Tooth<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=14112">http://opensiddur.org/?p=14112</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=14112">http://opensiddur.org/?p=14112</a>
 <p />
 <hr />
 

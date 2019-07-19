@@ -3,7 +3,7 @@
 <body>
 Title: המלך הקדוש | From Uman to the Olam: Clapping upon the Coronation of the Holy Majesty during the Days of Awe (neohasid.org)<br />
 Primary contributor: david.seidenberg<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=3985">http://opensiddur.org/?p=3985</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=3985">http://opensiddur.org/?p=3985</a>
 <p />
 <hr />
 

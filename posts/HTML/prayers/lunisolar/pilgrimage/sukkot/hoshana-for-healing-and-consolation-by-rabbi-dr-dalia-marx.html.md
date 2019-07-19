@@ -3,7 +3,7 @@
 <body>
 Title: הושענא לתיקון ולנחמה | Hoshana for Healing and Consolation, by Rabbi Dr. Dalia Marx<br />
 Primary contributor: Dalia.Marx<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=12143">http://opensiddur.org/?p=12143</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=12143">http://opensiddur.org/?p=12143</a>
 <p />
 <hr />
 

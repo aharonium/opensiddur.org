@@ -3,7 +3,7 @@
 <body>
 Title: Kavvana: Directing the Heart in Jewish Prayer, by Rabbi Dr. Seth Kadish (1997)<br />
 Primary contributor: avi.kadish<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=25888">http://opensiddur.org/?p=25888</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=25888">http://opensiddur.org/?p=25888</a>
 <p />
 <hr />
 

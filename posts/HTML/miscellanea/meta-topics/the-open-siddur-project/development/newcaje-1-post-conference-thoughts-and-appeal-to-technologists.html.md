@@ -3,7 +3,7 @@
 <body>
 Title: Technology is a “plus” not “or” proposition: thoughts after NewCAJE 2010 by Efraim Feinstein<br />
 Primary contributor: Efraim<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=1223">http://opensiddur.org/?p=1223</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=1223">http://opensiddur.org/?p=1223</a>
 <p />
 <hr />
 

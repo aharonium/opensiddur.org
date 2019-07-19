@@ -3,7 +3,7 @@
 <body>
 Title: The personal prayer of this shaliaḥ tsibbur, by Yosef Goldman<br />
 Primary contributor: yosef.goldman<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=21623">http://opensiddur.org/?p=21623</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=21623">http://opensiddur.org/?p=21623</a>
 <p />
 <hr />
 

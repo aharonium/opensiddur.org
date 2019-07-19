@@ -3,7 +3,7 @@
 <body>
 Title: Blessing Group Torah Study with Brakhot, Kaddish, and Kavvanah, by Rabbi Arthur Waskow<br />
 Primary contributor: arthur.waskow<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=3161">http://opensiddur.org/?p=3161</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=3161">http://opensiddur.org/?p=3161</a>
 <p />
 <hr />
 

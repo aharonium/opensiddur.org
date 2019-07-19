@@ -3,7 +3,7 @@
 <body>
 Title: אודך כי אנפת בי | Odekha Ki Anafta Bi, a Yotser (Hymn) for Ḥanukkah by Yosef bar Shlomo of Carcassone (ca. 11th cent.)<br />
 Primary contributor: yosef-ben-shlomo.carcassonne<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=13727">http://opensiddur.org/?p=13727</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=13727">http://opensiddur.org/?p=13727</a>
 <p />
 <hr />
 

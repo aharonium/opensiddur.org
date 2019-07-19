@@ -3,7 +3,7 @@
 <body>
 Title: A Prayer for the Earth, by Rabbi David Seidenberg (neohasid.org)<br />
 Primary contributor: david.seidenberg<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=1488">http://opensiddur.org/?p=1488</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=1488">http://opensiddur.org/?p=1488</a>
 <p />
 <hr />
 

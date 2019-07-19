@@ -3,7 +3,7 @@
 <body>
 Title: כׇּל יֹשְׁבֵי תֵבֵל | Kol Yoshvei Tevel: the L&L Wedding Bentsher, by Lara Chausow and Lauren Weiss<br />
 Primary contributor: lauren.weiss<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=21581">http://opensiddur.org/?p=21581</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=21581">http://opensiddur.org/?p=21581</a>
 <p />
 <hr />
 

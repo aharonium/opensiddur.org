@@ -3,7 +3,7 @@
 <body>
 Title: פָּרָשַׁת מְצֹרָע | Parashat Metsora (Leviticus 14:1-15:33), color-coded according to its narrative layers<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=24449">http://opensiddur.org/?p=24449</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=24449">http://opensiddur.org/?p=24449</a>
 <p />
 <hr />
 

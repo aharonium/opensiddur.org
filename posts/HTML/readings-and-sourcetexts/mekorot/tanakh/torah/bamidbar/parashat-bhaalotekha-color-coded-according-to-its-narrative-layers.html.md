@@ -3,7 +3,7 @@
 <body>
 Title: פָּרָשַׁת בְּהַעֲלֹתְךָ | Parashat b'Ha'alotekha (Numbers 8:1-12:16), color-coded according to its narrative layers<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=25751">http://opensiddur.org/?p=25751</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=25751">http://opensiddur.org/?p=25751</a>
 <p />
 <hr />
 

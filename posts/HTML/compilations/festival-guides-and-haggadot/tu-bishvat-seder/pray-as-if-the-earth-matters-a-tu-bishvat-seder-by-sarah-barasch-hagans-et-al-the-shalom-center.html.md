@@ -3,7 +3,7 @@
 <body>
 Title: סֵדֶר ט״וּ בִּשְׁבָט | Pray as if the Earth Matters: A Tu BiShvat Seder, by Sarah Barasch-Hagans, et al (The Shalom Center)<br />
 Primary contributor: arthur.waskow<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=19218">http://opensiddur.org/?p=19218</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=19218">http://opensiddur.org/?p=19218</a>
 <p />
 <hr />
 

@@ -3,7 +3,7 @@
 <body>
 Title: יַכֵּי בּוּזְגָאלַה | Yake Buzghola :: a Judeo-Tajik Translation of Ḥad Gadya, by Rabbi Shimon ben Eliyahu Hakham (1904)<br />
 Primary contributor: isaac.gantwerk-mayer<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=24918">http://opensiddur.org/?p=24918</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=24918">http://opensiddur.org/?p=24918</a>
 <p />
 <hr />
 

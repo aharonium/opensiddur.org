@@ -3,7 +3,7 @@
 <body>
 Title: מגילת רות | Megillat Ruth with Yiddish translation by Yehoyesh Blumgarten (1910)<br />
 Primary contributor: yehoyesh.blumgarten<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=13605">http://opensiddur.org/?p=13605</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=13605">http://opensiddur.org/?p=13605</a>
 <p />
 <hr />
 

@@ -3,7 +3,7 @@
 <body>
 Title: המדריך | Ha-Madrikh: The Rabbi's Guide by R' Hyman E. Goldin (1939, rev. 1956)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=15120">http://opensiddur.org/?p=15120</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=15120">http://opensiddur.org/?p=15120</a>
 <p />
 <hr />
 

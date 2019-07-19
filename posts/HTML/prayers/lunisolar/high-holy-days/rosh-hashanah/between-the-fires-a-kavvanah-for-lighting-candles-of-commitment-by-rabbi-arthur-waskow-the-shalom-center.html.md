@@ -3,7 +3,7 @@
 <body>
 Title: Between the Fires: A Kavvanah for Lighting Candles of Commitment, by Rabbi Arthur Waskow (the Shalom Center)<br />
 Primary contributor: arthur.waskow<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=20096">http://opensiddur.org/?p=20096</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=20096">http://opensiddur.org/?p=20096</a>
 <p />
 <hr />
 

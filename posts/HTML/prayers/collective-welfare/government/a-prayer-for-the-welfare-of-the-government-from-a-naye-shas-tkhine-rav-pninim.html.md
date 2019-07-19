@@ -3,7 +3,7 @@
 <body>
 Title: א תְּפִילָה פיר שָׁלוֹם הַמְדִינָה | A Prayer for the Welfare of the Government during WWII (from A Naye Shas Tkhine Rav Pninim, ca. 1942)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=18072">http://opensiddur.org/?p=18072</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=18072">http://opensiddur.org/?p=18072</a>
 <p />
 <hr />
 

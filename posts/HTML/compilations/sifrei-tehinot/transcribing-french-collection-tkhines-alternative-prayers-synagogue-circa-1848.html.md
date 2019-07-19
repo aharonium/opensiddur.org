@@ -3,7 +3,7 @@
 <body>
 Title: אמרי לב | Prières D’un Cœur Israélite, a collection of paraliturgical prayers and teḥinot in French by Jonas Ennery and Rabbi Arnaud Aron (1848)<br />
 Primary contributor: hierophant<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=12950">http://opensiddur.org/?p=12950</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=12950">http://opensiddur.org/?p=12950</a>
 <p />
 <hr />
 

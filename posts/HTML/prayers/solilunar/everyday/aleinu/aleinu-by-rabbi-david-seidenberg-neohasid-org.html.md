@@ -3,7 +3,7 @@
 <body>
 Title: עלינו | Aleinu, by Rabbi David Seidenberg (neohasid.org)<br />
 Primary contributor: david.seidenberg<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=7723">http://opensiddur.org/?p=7723</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=7723">http://opensiddur.org/?p=7723</a>
 <p />
 <hr />
 

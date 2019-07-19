@@ -3,7 +3,7 @@
 <body>
 Title: פָּרָשַׁת וַיֵּצֵא | Parashat Vayetsei (Genesis 28:10-32:3), color-coded according to its narrative layers<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=22508">http://opensiddur.org/?p=22508</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=22508">http://opensiddur.org/?p=22508</a>
 <p />
 <hr />
 

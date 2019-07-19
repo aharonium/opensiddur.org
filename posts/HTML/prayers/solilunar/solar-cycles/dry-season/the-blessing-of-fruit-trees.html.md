@@ -3,7 +3,7 @@
 <body>
 Title: בִּרְכַּת הָאִילָנוֹת | The Blessing of Flowering Fruit Trees in the Spring Season<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=2943">http://opensiddur.org/?p=2943</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=2943">http://opensiddur.org/?p=2943</a>
 <p />
 <hr />
 

@@ -3,7 +3,7 @@
 <body>
 Title: מִי שֶׁבֵּרַךְ | Mi Sheberakh for United States Military War Veterans, by Hinda Tzivia Eisen<br />
 Primary contributor: hinda-tzivia.eisen<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=7478">http://opensiddur.org/?p=7478</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=7478">http://opensiddur.org/?p=7478</a>
 <p />
 <hr />
 

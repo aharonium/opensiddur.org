@@ -3,7 +3,7 @@
 <body>
 Title: סֵדֶר ט״וּ בִּשְׁבָט | A New Year For The Trees: A Tu BiShvat Seder, by Ellen Bernstein (1988, revised: 2017)<br />
 Primary contributor: Ellen Bernstein<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=23320">http://opensiddur.org/?p=23320</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=23320">http://opensiddur.org/?p=23320</a>
 <p />
 <hr />
 

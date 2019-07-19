@@ -3,7 +3,7 @@
 <body>
 Title: Prayer of the Guest Chaplain of the U.S. Senate: Rabbi David Philipson on 2 February 1904<br />
 Primary contributor: United-States.Congressional-Record<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=24415">http://opensiddur.org/?p=24415</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=24415">http://opensiddur.org/?p=24415</a>
 <p />
 <hr />
 

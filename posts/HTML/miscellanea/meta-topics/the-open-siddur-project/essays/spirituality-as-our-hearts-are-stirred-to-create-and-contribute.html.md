@@ -3,7 +3,7 @@
 <body>
 Title: Our hearts are stirred to create and to share<br />
 Primary contributor: aharon-nissn.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=631">http://opensiddur.org/?p=631</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=631">http://opensiddur.org/?p=631</a>
 <p />
 <hr />
 

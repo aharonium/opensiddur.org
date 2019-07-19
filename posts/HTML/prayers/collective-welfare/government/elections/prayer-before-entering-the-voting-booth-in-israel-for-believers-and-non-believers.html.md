@@ -3,7 +3,7 @@
 <body>
 Title: תפילה (ישראלית) לפני הכניסה לקלפי (למאמין וללא מאמין)‏ | Prayer before entering the voting booth in Israel (for believers and non-believers)<br />
 Primary contributor: haim.hames<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=6255">http://opensiddur.org/?p=6255</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=6255">http://opensiddur.org/?p=6255</a>
 <p />
 <hr />
 

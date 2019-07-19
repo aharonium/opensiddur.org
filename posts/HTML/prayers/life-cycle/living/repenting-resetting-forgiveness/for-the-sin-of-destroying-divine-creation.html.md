@@ -3,7 +3,7 @@
 <body>
 Title: על חטא | For the Sin of Destroying God’s Creation by Rabbi Danny Nevins, adapted by Rabbi David Seidenberg (2007)<br />
 Primary contributor: david.seidenberg<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=4017">http://opensiddur.org/?p=4017</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=4017">http://opensiddur.org/?p=4017</a>
 <p />
 <hr />
 

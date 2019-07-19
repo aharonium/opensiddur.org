@@ -3,7 +3,7 @@
 <body>
 Title: תְּחִנָה לְשַׁבָּת מְבָרְכִים רֹאשׁ חוֺדֶשׁ אִיָיר | Tkhine for Shabbat Mevorkhim Rosh Ḥodesh Iyyar (1877)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=19760">http://opensiddur.org/?p=19760</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=19760">http://opensiddur.org/?p=19760</a>
 <p />
 <hr />
 

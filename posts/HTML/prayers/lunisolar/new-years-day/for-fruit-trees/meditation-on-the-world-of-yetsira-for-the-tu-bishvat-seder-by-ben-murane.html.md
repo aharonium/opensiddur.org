@@ -3,7 +3,7 @@
 <body>
 Title: Meditation on the World of Yetsirah for the Tu biShvat Seder, by Ben Murane<br />
 Primary contributor: kungfujew18<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=3187">http://opensiddur.org/?p=3187</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=3187">http://opensiddur.org/?p=3187</a>
 <p />
 <hr />
 

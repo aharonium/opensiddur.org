@@ -3,7 +3,7 @@
 <body>
 Title: תפלת אחר הקמת המצבה, מנהג ק״ק פרעסבורג יצ״ו | Prayer after the Unveiling of a Tombstone, according to the custom of the Jewish community of Pressburg<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=21163">http://opensiddur.org/?p=21163</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=21163">http://opensiddur.org/?p=21163</a>
 <p />
 <hr />
 

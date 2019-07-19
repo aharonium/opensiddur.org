@@ -3,7 +3,7 @@
 <body>
 Title: MLK Day | Readings from the Speeches and Letters of Rev. Dr. Martin Luther King Jr.<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=14943">http://opensiddur.org/?p=14943</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=14943">http://opensiddur.org/?p=14943</a>
 <p />
 <hr />
 

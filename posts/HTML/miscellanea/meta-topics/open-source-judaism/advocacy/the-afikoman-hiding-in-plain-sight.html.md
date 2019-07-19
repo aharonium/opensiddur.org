@@ -3,7 +3,7 @@
 <body>
 Title: The afikoman hiding in plain sight: On Freedom and Roleplaying in Re-enacting Judaism's Archetypal Hero's Journey<br />
 Primary contributor: aharon-nissn.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=2962">http://opensiddur.org/?p=2962</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=2962">http://opensiddur.org/?p=2962</a>
 <p />
 <hr />
 

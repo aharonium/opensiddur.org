@@ -3,7 +3,7 @@
 <body>
 Title: עמידה | An Amidah for associating blessings with memory by Rabbi Dr. Oren Steinitz<br />
 Primary contributor: oren-steinitz<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=13338">http://opensiddur.org/?p=13338</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=13338">http://opensiddur.org/?p=13338</a>
 <p />
 <hr />
 

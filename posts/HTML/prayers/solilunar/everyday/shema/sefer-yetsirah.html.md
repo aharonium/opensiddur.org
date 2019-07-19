@@ -3,7 +3,7 @@
 <body>
 Title: ספר יצירה | Sefer Yetsirah, a derivation of A. Peter Hayman's experimental "earliest recoverable text," by Aharon Varady for practitioners<br />
 Primary contributor: aharon.n.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=13644">http://opensiddur.org/?p=13644</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=13644">http://opensiddur.org/?p=13644</a>
 <p />
 <hr />
 

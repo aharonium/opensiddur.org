@@ -3,7 +3,7 @@
 <body>
 Title: Fully Egalitarian Ketubah from Naomi & Beverly Socher-Lerner's Wedding<br />
 Primary contributor: beverly.socher-lerner<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=7342">http://opensiddur.org/?p=7342</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=7342">http://opensiddur.org/?p=7342</a>
 <p />
 <hr />
 

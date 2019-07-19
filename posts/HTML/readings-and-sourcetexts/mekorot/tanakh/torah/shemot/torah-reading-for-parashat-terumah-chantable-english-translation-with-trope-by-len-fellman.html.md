@@ -3,7 +3,7 @@
 <body>
 Title: Torah Reading for Parashat Terumah (Exodus 25:1-27:19): Chantable English translation with trōp, by Len Fellman<br />
 Primary contributor: len.fellman<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=23622">http://opensiddur.org/?p=23622</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=23622">http://opensiddur.org/?p=23622</a>
 <p />
 <hr />
 

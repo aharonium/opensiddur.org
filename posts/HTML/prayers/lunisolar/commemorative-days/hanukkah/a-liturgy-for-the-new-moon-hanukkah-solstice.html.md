@@ -3,7 +3,7 @@
 <body>
 Title: תפילה לראש חודש טבת ותקופת החורף על חנוכּה | Prayer for the new moon of Tevet on Ḥanukkah occurring on the winter solstice, by Rabbi David Seidenberg (neohasid.org)<br />
 Primary contributor: david.seidenberg<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=10313">http://opensiddur.org/?p=10313</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=10313">http://opensiddur.org/?p=10313</a>
 <p />
 <hr />
 

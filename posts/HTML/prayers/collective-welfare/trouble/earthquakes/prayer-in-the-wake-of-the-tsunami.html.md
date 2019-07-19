@@ -3,7 +3,7 @@
 <body>
 Title: אחרי הצונמי | Prayer in the Wake of the Tsunami by Rabbi Shai Held (2004)<br />
 Primary contributor: shai.held<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=2788">http://opensiddur.org/?p=2788</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=2788">http://opensiddur.org/?p=2788</a>
 <p />
 <hr />
 

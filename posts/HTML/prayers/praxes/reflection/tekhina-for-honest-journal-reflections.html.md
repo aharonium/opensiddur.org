@@ -3,7 +3,7 @@
 <body>
 Title: תחינה לתחילת יומן חדש | Prayer on Beginning a New Journal, by Aharon N. Varady<br />
 Primary contributor: aharon-nissn.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=6916">http://opensiddur.org/?p=6916</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=6916">http://opensiddur.org/?p=6916</a>
 <p />
 <hr />
 

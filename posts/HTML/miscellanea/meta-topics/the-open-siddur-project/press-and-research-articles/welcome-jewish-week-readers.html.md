@@ -3,7 +3,7 @@
 <body>
 Title: “Taking Prayer Into Their Own Hands” (The Jewish Week 2010)<br />
 Primary contributor: hierophant<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=318">http://opensiddur.org/?p=318</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=318">http://opensiddur.org/?p=318</a>
 <p />
 <hr />
 

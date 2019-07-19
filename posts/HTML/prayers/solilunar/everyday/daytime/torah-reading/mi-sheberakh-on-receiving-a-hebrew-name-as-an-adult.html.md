@@ -3,7 +3,7 @@
 <body>
 Title: מי שברך על קבלת שם עברי | Mi Sheberakh on Receiving a Hebrew Name as an Adult<br />
 Primary contributor: aharon-nissn.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=20363">http://opensiddur.org/?p=20363</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=20363">http://opensiddur.org/?p=20363</a>
 <p />
 <hr />
 

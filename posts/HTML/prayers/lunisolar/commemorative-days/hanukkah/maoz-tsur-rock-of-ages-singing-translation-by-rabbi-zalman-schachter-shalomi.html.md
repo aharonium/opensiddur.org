@@ -3,7 +3,7 @@
 <body>
 Title: מעוז צור | Maoz Tsur (Rock of Ages), singing translation by Rabbi Zalman Schachter-Shalomi z"l<br />
 Primary contributor: zalman.schachter-shalomi<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=12322">http://opensiddur.org/?p=12322</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=12322">http://opensiddur.org/?p=12322</a>
 <p />
 <hr />
 

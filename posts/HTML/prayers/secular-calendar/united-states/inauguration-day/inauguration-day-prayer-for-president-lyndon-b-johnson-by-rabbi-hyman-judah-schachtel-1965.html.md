@@ -3,7 +3,7 @@
 <body>
 Title: Inauguration Day Prayer for President Lyndon B. Johnson by Rabbi Hyman Judah Schachtel (1965)<br />
 Primary contributor: hyman-judah.schachtel<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=11265">http://opensiddur.org/?p=11265</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=11265">http://opensiddur.org/?p=11265</a>
 <p />
 <hr />
 

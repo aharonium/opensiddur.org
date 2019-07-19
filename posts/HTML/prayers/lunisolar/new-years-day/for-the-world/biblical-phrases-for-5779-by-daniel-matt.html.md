@@ -3,7 +3,7 @@
 <body>
 Title: פסוקים לשנת תשע"ט | Biblical Phrases for 5779, by Daniel Matt<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=21651">http://opensiddur.org/?p=21651</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=21651">http://opensiddur.org/?p=21651</a>
 <p />
 <hr />
 

@@ -3,7 +3,7 @@
 <body>
 Title: תפלה בעד שלום המדינה | Prayer for the Welfare of the State by Avraham Hyman Charlap (1916)<br />
 Primary contributor: alan.scott.belsky<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=3502">http://opensiddur.org/?p=3502</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=3502">http://opensiddur.org/?p=3502</a>
 <p />
 <hr />
 

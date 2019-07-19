@@ -3,7 +3,7 @@
 <body>
 Title: "That America Fulfil the Promise of Its Founding," a prayer for Independence Day by Rabbi Mordecai Kaplan (1945)<br />
 Primary contributor: mordecai.kaplan<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=25337">http://opensiddur.org/?p=25337</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=25337">http://opensiddur.org/?p=25337</a>
 <p />
 <hr />
 

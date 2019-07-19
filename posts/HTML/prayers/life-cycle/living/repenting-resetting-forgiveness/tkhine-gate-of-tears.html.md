@@ -3,7 +3,7 @@
 <body>
 Title: תחנה שערי דמעות | Tkhine of the Gate of Tears<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=13963">http://opensiddur.org/?p=13963</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=13963">http://opensiddur.org/?p=13963</a>
 <p />
 <hr />
 

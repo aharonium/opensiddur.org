@@ -3,7 +3,7 @@
 <body>
 Title: Benediction by Rabbi Julie Schonfeld at the Democratic National Convention (2016)<br />
 Primary contributor: julie.schonfeld<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=14458">http://opensiddur.org/?p=14458</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=14458">http://opensiddur.org/?p=14458</a>
 <p />
 <hr />
 

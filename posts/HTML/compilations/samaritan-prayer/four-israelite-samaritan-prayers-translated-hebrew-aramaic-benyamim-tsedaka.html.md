@@ -3,7 +3,7 @@
 <body>
 Title: Israelite Samaritan Devotional Prayers for Weekdays and Shabbat, translated by Benyamim Sedaka<br />
 Primary contributor: ben.sedaka<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=13250">http://opensiddur.org/?p=13250</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=13250">http://opensiddur.org/?p=13250</a>
 <p />
 <hr />
 

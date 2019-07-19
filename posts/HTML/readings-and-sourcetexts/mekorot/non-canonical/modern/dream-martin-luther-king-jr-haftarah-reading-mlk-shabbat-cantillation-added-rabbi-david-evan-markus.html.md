@@ -3,7 +3,7 @@
 <body>
 Title: "I have a Dream" by Martin Luther King, Jr.: a Haftarah reading for MLK Shabbat with cantillation added by Rabbi David Evan Markus<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=18599">http://opensiddur.org/?p=18599</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=18599">http://opensiddur.org/?p=18599</a>
 <p />
 <hr />
 

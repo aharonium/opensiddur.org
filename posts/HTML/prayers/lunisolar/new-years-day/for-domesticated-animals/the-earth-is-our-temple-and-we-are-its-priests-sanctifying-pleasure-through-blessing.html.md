@@ -3,7 +3,7 @@
 <body>
 Title: ברכות | Bringing blessing to all life on Earth, a d'var tefilah on making blessings over foods by Rabbi David Seidenberg (neohasid.org)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=12613">http://opensiddur.org/?p=12613</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=12613">http://opensiddur.org/?p=12613</a>
 <p />
 <hr />
 

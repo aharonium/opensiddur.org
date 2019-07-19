@@ -3,7 +3,7 @@
 <body>
 Title: After Shaḥarit: Abiding Advice for Daily Living, by Eliyahu Carmi (1767)<br />
 Primary contributor: abe.katz<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=5258">http://opensiddur.org/?p=5258</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=5258">http://opensiddur.org/?p=5258</a>
 <p />
 <hr />
 

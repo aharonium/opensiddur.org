@@ -3,7 +3,7 @@
 <body>
 Title: SHARE WHAT YOU LOVE ♡ A Decision Tree for Choosing Free-Culture Compatible Open Content Licenses for Cultural & Technological Work<br />
 Primary contributor: aharon-nissn.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=8798">http://opensiddur.org/?p=8798</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=8798">http://opensiddur.org/?p=8798</a>
 <p />
 <hr />
 

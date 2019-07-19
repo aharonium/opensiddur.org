@@ -3,7 +3,7 @@
 <body>
 Title: Torah Reading for Parashat Qedoshim (Leviticus 18:1-20:27): Chantable English translation with trōp, by Len Fellman<br />
 Primary contributor: len.fellman<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=24838">http://opensiddur.org/?p=24838</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=24838">http://opensiddur.org/?p=24838</a>
 <p />
 <hr />
 

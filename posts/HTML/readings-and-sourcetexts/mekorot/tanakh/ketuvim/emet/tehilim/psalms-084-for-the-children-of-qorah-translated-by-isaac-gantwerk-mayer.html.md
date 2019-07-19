@@ -3,7 +3,7 @@
 <body>
 Title: תהלים פ״ד | Psalms 84 for the children of Qoraḥ, translated by Isaac Gantwerk Mayer<br />
 Primary contributor: isaac.gantwerk-mayer<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=23881">http://opensiddur.org/?p=23881</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=23881">http://opensiddur.org/?p=23881</a>
 <p />
 <hr />
 

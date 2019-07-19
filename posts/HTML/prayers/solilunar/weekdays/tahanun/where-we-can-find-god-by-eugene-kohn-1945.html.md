@@ -3,7 +3,7 @@
 <body>
 Title: Where We Can Find Yah, a prayer-poem by Eugene Kohn (1945) inspired by Rabindranath Tagore's Gitanjali (Song Offerings, 1912)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=23777">http://opensiddur.org/?p=23777</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=23777">http://opensiddur.org/?p=23777</a>
 <p />
 <hr />
 

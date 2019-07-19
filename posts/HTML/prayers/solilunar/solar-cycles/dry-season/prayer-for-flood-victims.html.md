@@ -3,7 +3,7 @@
 <body>
 Title: תפילה לנספים בשטפונות | Prayer for Flood Victims (Masorti Movement in Israel)<br />
 Primary contributor: anonymous<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=19949">http://opensiddur.org/?p=19949</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=19949">http://opensiddur.org/?p=19949</a>
 <p />
 <hr />
 

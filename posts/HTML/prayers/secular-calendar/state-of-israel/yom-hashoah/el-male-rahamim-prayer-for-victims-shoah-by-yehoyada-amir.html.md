@@ -3,7 +3,7 @@
 <body>
 Title: ‏אֵל מָלֵא רַחֲמִים תְפִילָה לַנִּסְפִּים בַּשּׁוֹאָה | El Malé Raḥamim Prayer for the Victims of the Shoah, by Rabbi Yehoyada Amir<br />
 Primary contributor: yehoyada.amir<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=13457">http://opensiddur.org/?p=13457</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=13457">http://opensiddur.org/?p=13457</a>
 <p />
 <hr />
 

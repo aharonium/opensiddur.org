@@ -3,7 +3,7 @@
 <body>
 Title: Kinah for the Chmielnicki Massacres of 1648–1649 in Sefer Kol Yaakov (1658)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=24029">http://opensiddur.org/?p=24029</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=24029">http://opensiddur.org/?p=24029</a>
 <p />
 <hr />
 

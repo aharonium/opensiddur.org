@@ -3,7 +3,7 @@
 <body>
 Title: The Mapmaker<br />
 Primary contributor: eli.steier<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=7536">http://opensiddur.org/?p=7536</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=7536">http://opensiddur.org/?p=7536</a>
 <p />
 <hr />
 

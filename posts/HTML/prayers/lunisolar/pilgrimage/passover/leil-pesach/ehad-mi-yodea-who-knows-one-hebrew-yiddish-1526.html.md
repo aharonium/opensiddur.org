@@ -3,7 +3,7 @@
 <body>
 Title: אֶחָד מִי יוֹדֵעַ | Eḥad Mi Yode'a :: Who Knows One?, a counting song in Hebrew and Yiddish (Prague Haggadah, 1526)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=24948">http://opensiddur.org/?p=24948</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=24948">http://opensiddur.org/?p=24948</a>
 <p />
 <hr />
 

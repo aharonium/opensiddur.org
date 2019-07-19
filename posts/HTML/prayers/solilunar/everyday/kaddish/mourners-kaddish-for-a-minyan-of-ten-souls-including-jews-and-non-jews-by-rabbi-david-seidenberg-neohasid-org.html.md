@@ -3,7 +3,7 @@
 <body>
 Title: קדיש יתום | Mourners Kaddish for a Minyan of Ten People (including Jews and non-Jews), by Rabbi David Seidenberg (neohasid.org)<br />
 Primary contributor: david.seidenberg<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=21656">http://opensiddur.org/?p=21656</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=21656">http://opensiddur.org/?p=21656</a>
 <p />
 <hr />
 

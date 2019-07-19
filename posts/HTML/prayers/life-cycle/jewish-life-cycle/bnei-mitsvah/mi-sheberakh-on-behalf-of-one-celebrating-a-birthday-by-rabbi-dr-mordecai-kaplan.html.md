@@ -3,7 +3,7 @@
 <body>
 Title: מי שברך לתקופת יום הולדת | Mi Sheberakh on behalf of one celebrating a birthday, by Rabbi Dr. Mordecai Kaplan (1945)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=21695">http://opensiddur.org/?p=21695</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=21695">http://opensiddur.org/?p=21695</a>
 <p />
 <hr />
 

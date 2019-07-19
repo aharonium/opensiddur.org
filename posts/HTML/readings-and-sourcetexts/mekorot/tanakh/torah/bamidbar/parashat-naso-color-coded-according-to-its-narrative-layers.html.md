@@ -3,7 +3,7 @@
 <body>
 Title: פָּרָשַׁת נָשֹׂא | Parashat Naso (Numbers 4:21-7:89), color-coded according to its narrative layers<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=25477">http://opensiddur.org/?p=25477</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=25477">http://opensiddur.org/?p=25477</a>
 <p />
 <hr />
 

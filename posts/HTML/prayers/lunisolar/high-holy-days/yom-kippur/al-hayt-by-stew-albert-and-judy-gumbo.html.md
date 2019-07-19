@@ -3,7 +3,7 @@
 <body>
 Title: על חטא | Al Ḥeit, by Stew Albert and Judy Gumbo (2006)<br />
 Primary contributor: judy.gumbo<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=4043">http://opensiddur.org/?p=4043</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=4043">http://opensiddur.org/?p=4043</a>
 <p />
 <hr />
 

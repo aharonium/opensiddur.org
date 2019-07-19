@@ -3,7 +3,7 @@
 <body>
 Title: "Database Davvenen" by Rabbi Zalman Schachter-Shalomi (circa 1984)<br />
 Primary contributor: zalman.schachter-shalomi<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=7665">http://opensiddur.org/?p=7665</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=7665">http://opensiddur.org/?p=7665</a>
 <p />
 <hr />
 

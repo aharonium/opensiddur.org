@@ -3,7 +3,7 @@
 <body>
 Title: יוֺם פּײַ | On the Rabbinical Approximation of π, by Boaz Tsaban and David Gardner<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=8684">http://opensiddur.org/?p=8684</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=8684">http://opensiddur.org/?p=8684</a>
 <p />
 <hr />
 

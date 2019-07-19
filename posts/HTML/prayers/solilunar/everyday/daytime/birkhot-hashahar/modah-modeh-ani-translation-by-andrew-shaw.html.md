@@ -3,7 +3,7 @@
 <body>
 Title: מודה אני | Modah/Modeh Ani, by Moshe ibn Makhir (translation by Andrew Shaw)<br />
 Primary contributor: andrew.shaw<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=4211">http://opensiddur.org/?p=4211</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=4211">http://opensiddur.org/?p=4211</a>
 <p />
 <hr />
 

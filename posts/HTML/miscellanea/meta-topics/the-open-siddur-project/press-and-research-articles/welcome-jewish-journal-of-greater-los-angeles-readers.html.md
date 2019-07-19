@@ -3,7 +3,7 @@
 <body>
 Title: “Ten Commandments of Jewish Social Networking” (Jewish Journal of Greater Los Angeles 2010)<br />
 Primary contributor: hierophant<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=1613">http://opensiddur.org/?p=1613</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=1613">http://opensiddur.org/?p=1613</a>
 <p />
 <hr />
 

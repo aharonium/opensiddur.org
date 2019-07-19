@@ -3,7 +3,7 @@
 <body>
 Title: הֲרֵינִי מְקַבֵּל עָלַי | A kavvanah to love your fellow as yourself, before prayer<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=18441">http://opensiddur.org/?p=18441</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=18441">http://opensiddur.org/?p=18441</a>
 <p />
 <hr />
 

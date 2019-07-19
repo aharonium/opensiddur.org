@@ -3,7 +3,7 @@
 <body>
 Title: Prayer of the Guest Chaplain of the U.S. House of Representatives: Rabbi Hershel Lutch on 21 June 2017<br />
 Primary contributor: United-States.Congressional-Record<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=20041">http://opensiddur.org/?p=20041</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=20041">http://opensiddur.org/?p=20041</a>
 <p />
 <hr />
 

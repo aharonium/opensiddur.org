@@ -3,7 +3,7 @@
 <body>
 Title: the past didn't go anywhere: making resistance to antisemitism part of all of our movements, by April Rosenblum (2007)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=19261">http://opensiddur.org/?p=19261</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=19261">http://opensiddur.org/?p=19261</a>
 <p />
 <hr />
 

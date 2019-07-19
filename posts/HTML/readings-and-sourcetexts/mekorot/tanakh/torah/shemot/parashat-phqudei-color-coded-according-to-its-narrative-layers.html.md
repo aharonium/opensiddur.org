@@ -3,7 +3,7 @@
 <body>
 Title: פָּרָשַׁת פְקוּדֵי | Parashat Ph'qudei (Exodus 38:21-40:38), color-coded according to its narrative layers<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=23933">http://opensiddur.org/?p=23933</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=23933">http://opensiddur.org/?p=23933</a>
 <p />
 <hr />
 

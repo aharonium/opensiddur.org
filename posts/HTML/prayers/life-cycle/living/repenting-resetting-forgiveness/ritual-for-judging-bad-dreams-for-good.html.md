@@ -3,7 +3,7 @@
 <body>
 Title: Ritual for Judging Bad Dreams for Good<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=7028">http://opensiddur.org/?p=7028</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=7028">http://opensiddur.org/?p=7028</a>
 <p />
 <hr />
 

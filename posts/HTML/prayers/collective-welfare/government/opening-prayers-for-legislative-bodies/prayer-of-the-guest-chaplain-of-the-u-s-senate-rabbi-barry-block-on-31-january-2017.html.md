@@ -3,7 +3,7 @@
 <body>
 Title: Prayer of the Guest Chaplain of the U.S. Senate: Rabbi Barry Block on 31 January 2017<br />
 Primary contributor: United-States.Congressional-Record<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=20063">http://opensiddur.org/?p=20063</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=20063">http://opensiddur.org/?p=20063</a>
 <p />
 <hr />
 

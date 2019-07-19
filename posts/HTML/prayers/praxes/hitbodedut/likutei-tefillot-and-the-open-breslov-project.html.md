@@ -3,7 +3,7 @@
 <body>
 Title: ליקוטי תפילות ב:יא אות רכד | Prayer for the Ability to Pray Alone by Reb Natan of Nemirov from the teachings of Rebbe Naḥman (from Likutei Tefillot 2:11, №224)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=3797">http://opensiddur.org/?p=3797</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=3797">http://opensiddur.org/?p=3797</a>
 <p />
 <hr />
 

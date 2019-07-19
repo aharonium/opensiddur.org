@@ -3,7 +3,7 @@
 <body>
 Title: Public policy, technology, and copyright in Halakha: a sourcesheet<br />
 Primary contributor: hierophant<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=4115">http://opensiddur.org/?p=4115</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=4115">http://opensiddur.org/?p=4115</a>
 <p />
 <hr />
 

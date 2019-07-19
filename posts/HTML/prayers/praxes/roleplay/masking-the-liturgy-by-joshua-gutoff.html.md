@@ -3,7 +3,7 @@
 <body>
 Title: Masking the Liturgy: a pedagogy for learning the Siddur, by Rabbi Dr. Joshua Gutoff (2003)<br />
 Primary contributor: joshua.gutoff<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=11812">http://opensiddur.org/?p=11812</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=11812">http://opensiddur.org/?p=11812</a>
 <p />
 <hr />
 

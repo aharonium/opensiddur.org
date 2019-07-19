@@ -3,7 +3,7 @@
 <body>
 Title: סידור ולא נבוש | Jewish Prayer as Shame Resilience Practice: Siddur v'Lo Nevosh for Shaḥarit by Rabbi Shoshana Friedman<br />
 Primary contributor: shoshana.friedman<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=9556">http://opensiddur.org/?p=9556</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=9556">http://opensiddur.org/?p=9556</a>
 <p />
 <hr />
 

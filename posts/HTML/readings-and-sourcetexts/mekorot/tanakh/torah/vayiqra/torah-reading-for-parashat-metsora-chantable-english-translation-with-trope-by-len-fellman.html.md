@@ -3,7 +3,7 @@
 <body>
 Title: Torah Reading for Parashat Metsora (Leviticus 14:1-15:33): Chantable English translation with trōp, by Len Fellman<br />
 Primary contributor: len.fellman<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=24492">http://opensiddur.org/?p=24492</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=24492">http://opensiddur.org/?p=24492</a>
 <p />
 <hr />
 

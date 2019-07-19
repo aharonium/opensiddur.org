@@ -3,7 +3,7 @@
 <body>
 Title: Torah Reading for Parashat Vayetsei (Genesis 28:10-32:3): Chantable English translation with trōp, by Len Fellman<br />
 Primary contributor: len.fellman<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=22479">http://opensiddur.org/?p=22479</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=22479">http://opensiddur.org/?p=22479</a>
 <p />
 <hr />
 

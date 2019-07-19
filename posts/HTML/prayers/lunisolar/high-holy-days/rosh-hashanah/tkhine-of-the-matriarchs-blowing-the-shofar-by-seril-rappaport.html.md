@@ -3,7 +3,7 @@
 <body>
 Title: תחנה אמהות | Tkhine of the Matriarchs for the Blowing of the Shofar by Seril Rappaport (ca. 18th century)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=14042">http://opensiddur.org/?p=14042</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=14042">http://opensiddur.org/?p=14042</a>
 <p />
 <hr />
 

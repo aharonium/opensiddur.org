@@ -3,7 +3,7 @@
 <body>
 Title: תְּחִנָה לְשַׁבָּת מִבָרְכִים רֹאשׁ חוֺדֶשׁ מַרְחֶשְׁוָן | Tkhine for Shabbat Mevorkhim Rosh Ḥodesh Marḥeshvan (1877)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=17876">http://opensiddur.org/?p=17876</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=17876">http://opensiddur.org/?p=17876</a>
 <p />
 <hr />
 

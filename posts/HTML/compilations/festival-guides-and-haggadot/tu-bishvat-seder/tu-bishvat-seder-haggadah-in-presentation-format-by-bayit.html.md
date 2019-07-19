@@ -3,7 +3,7 @@
 <body>
 Title: סֵדֶר ט״וּ בִּשְׁבָט | Tu BiShvat Seder Haggadah in presentation format, by rabbis Rachel Barenblat and David Evan Markus (Bayit: Your Jewish Home 5778)<br />
 Primary contributor: rbarenblat<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=18722">http://opensiddur.org/?p=18722</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=18722">http://opensiddur.org/?p=18722</a>
 <p />
 <hr />
 

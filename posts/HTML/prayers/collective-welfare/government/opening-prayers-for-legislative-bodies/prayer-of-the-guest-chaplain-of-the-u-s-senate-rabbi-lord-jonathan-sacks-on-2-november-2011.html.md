@@ -3,7 +3,7 @@
 <body>
 Title: Prayer of the Guest Chaplain of the U.S. Senate: Rabbi Lord Jonathan Sacks on 2 November 2011<br />
 Primary contributor: United-States.Congressional-Record<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=22746">http://opensiddur.org/?p=22746</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=22746">http://opensiddur.org/?p=22746</a>
 <p />
 <hr />
 

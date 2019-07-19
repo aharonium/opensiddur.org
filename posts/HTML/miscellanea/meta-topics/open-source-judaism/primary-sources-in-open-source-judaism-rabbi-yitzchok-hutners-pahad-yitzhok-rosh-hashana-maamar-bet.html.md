@@ -3,7 +3,7 @@
 <body>
 Title: Primary sources in open-source Judaism: Rabbi Yitzchok Hutner’s Paḥad Yitzḥok, Rosh Hashana Ma’amar Bet<br />
 Primary contributor: ally.ehrman<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=12113">http://opensiddur.org/?p=12113</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=12113">http://opensiddur.org/?p=12113</a>
 <p />
 <hr />
 

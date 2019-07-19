@@ -3,7 +3,7 @@
 <body>
 Title: שִׁיר הַשִּׁירִים | Shir haShirim :: the Song of Songs, chantable English translation with trōp by Len Fellman<br />
 Primary contributor: len.fellman<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=24467">http://opensiddur.org/?p=24467</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=24467">http://opensiddur.org/?p=24467</a>
 <p />
 <hr />
 

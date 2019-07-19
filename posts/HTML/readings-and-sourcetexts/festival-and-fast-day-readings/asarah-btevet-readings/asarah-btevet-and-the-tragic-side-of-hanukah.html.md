@@ -3,7 +3,7 @@
 <body>
 Title: עשרה בטבת | Asarah b’Tevet and the Tragic Side of Ḥanukkah, by Rabbi Shem Tov Gaguine (1934)<br />
 Primary contributor: shem-tov.gaguine<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=10272">http://opensiddur.org/?p=10272</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=10272">http://opensiddur.org/?p=10272</a>
 <p />
 <hr />
 

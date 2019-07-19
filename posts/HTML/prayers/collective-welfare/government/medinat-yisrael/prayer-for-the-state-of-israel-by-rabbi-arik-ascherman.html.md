@@ -3,7 +3,7 @@
 <body>
 Title: תפילה למדינת ישראל | Prayer for the State of Israel by Rabbi Arik Ascherman (2008)<br />
 Primary contributor: arik.ascherman<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=4929">http://opensiddur.org/?p=4929</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=4929">http://opensiddur.org/?p=4929</a>
 <p />
 <hr />
 

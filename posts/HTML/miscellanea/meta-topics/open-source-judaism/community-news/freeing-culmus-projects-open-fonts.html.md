@@ -3,7 +3,7 @@
 <body>
 Title: Culmus Project’s Ancient Semitic Scripts Fonts Now Licensed GPL with “font exception”<br />
 Primary contributor: hierophant<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=478">http://opensiddur.org/?p=478</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=478">http://opensiddur.org/?p=478</a>
 <p />
 <hr />
 

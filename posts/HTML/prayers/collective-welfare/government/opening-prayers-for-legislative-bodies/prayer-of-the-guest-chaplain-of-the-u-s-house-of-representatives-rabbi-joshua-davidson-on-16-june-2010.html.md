@@ -3,7 +3,7 @@
 <body>
 Title: Prayer of the Guest Chaplain of the U.S. House of Representatives: Rabbi Joshua Davidson on 16 June 2010<br />
 Primary contributor: United-States.Congressional-Record<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=24025">http://opensiddur.org/?p=24025</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=24025">http://opensiddur.org/?p=24025</a>
 <p />
 <hr />
 

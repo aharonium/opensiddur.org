@@ -3,7 +3,7 @@
 <body>
 Title: Pew Study of American Jewry: A Few Grains of Salt by Dr. Samuel Klausner<br />
 Primary contributor: samuel.klausner<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=7777">http://opensiddur.org/?p=7777</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=7777">http://opensiddur.org/?p=7777</a>
 <p />
 <hr />
 

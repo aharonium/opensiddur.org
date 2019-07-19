@@ -3,7 +3,7 @@
 <body>
 Title: סדור תפילות הקראים | Weekday and Sabbath Prayers based upon the Karaite Prayerbook of Abraham Firkovich (2002)<br />
 Primary contributor: nehemia.gordon<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=13583">http://opensiddur.org/?p=13583</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=13583">http://opensiddur.org/?p=13583</a>
 <p />
 <hr />
 

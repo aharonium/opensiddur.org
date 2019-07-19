@@ -3,7 +3,7 @@
 <body>
 Title: תְּפִילַּת הַנּוֹטֵעַ | Prayer for a Tree Planting, by Rav Ben-Tsiyon Meir Ḥai Uziel (before 1942)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=18671">http://opensiddur.org/?p=18671</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=18671">http://opensiddur.org/?p=18671</a>
 <p />
 <hr />
 

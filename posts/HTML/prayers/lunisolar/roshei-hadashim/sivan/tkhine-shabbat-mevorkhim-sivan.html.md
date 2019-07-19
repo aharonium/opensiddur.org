@@ -3,7 +3,7 @@
 <body>
 Title: תחינה לשבת מברכים ראש חודש סיון | Tkhine for Shabbat Mevorkhim Rosh Ḥodesh Sivan (1877)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=15403">http://opensiddur.org/?p=15403</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=15403">http://opensiddur.org/?p=15403</a>
 <p />
 <hr />
 

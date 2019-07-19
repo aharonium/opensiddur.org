@@ -3,7 +3,7 @@
 <body>
 Title: תפילה למדינת ישראל | Prayer for the State of Israel by Rabbi Dr. Aryeh Cohen (2002)<br />
 Primary contributor: aryeh.cohen<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=11834">http://opensiddur.org/?p=11834</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=11834">http://opensiddur.org/?p=11834</a>
 <p />
 <hr />
 

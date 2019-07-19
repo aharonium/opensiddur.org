@@ -3,7 +3,7 @@
 <body>
 Title: תחנון | Taḥanun, translated by Reb Zalman Schachter-Shalomi<br />
 Primary contributor: zalman.schachter-shalomi<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=10440">http://opensiddur.org/?p=10440</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=10440">http://opensiddur.org/?p=10440</a>
 <p />
 <hr />
 

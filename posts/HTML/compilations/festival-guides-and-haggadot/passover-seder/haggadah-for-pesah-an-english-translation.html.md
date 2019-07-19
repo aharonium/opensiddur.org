@@ -3,7 +3,7 @@
 <body>
 Title: הגדה לסדר פסח | Haggadah for the Passover Seder, with an English translation by Eve Feinstein<br />
 Primary contributor: eve.feinstein<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=6207">http://opensiddur.org/?p=6207</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=6207">http://opensiddur.org/?p=6207</a>
 <p />
 <hr />
 

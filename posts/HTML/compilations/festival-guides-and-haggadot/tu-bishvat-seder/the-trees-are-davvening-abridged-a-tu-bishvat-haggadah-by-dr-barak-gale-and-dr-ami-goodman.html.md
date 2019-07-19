@@ -3,7 +3,7 @@
 <body>
 Title: סֵדֶר ט״וּ בִּשְׁבָט | The Trees are Davvening, a Tu Bishvat Seder Haggadah by Barak Gale and Ami Goodman with excerpts from the P'ri Ets Hadar (1991 abridged)<br />
 Primary contributor: barak.gale<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=2376">http://opensiddur.org/?p=2376</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=2376">http://opensiddur.org/?p=2376</a>
 <p />
 <hr />
 

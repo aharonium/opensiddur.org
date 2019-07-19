@@ -3,7 +3,7 @@
 <body>
 Title: בְּכִסְלֵו - מאבן בֹחן | On Kislev, from the poem Even Boḥan ("Touchstone") by Rabbi Kalonymus ben Kalonymus ben Meir (1322)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=18267">http://opensiddur.org/?p=18267</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=18267">http://opensiddur.org/?p=18267</a>
 <p />
 <hr />
 

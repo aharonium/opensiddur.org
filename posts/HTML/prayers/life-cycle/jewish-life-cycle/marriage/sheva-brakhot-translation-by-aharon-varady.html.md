@@ -3,7 +3,7 @@
 <body>
 Title: שבע ברכות | The Seven Blessings over a Wedding (interpretive translation by Aharon Varady)<br />
 Primary contributor: aharon.n.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=5036">http://opensiddur.org/?p=5036</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=5036">http://opensiddur.org/?p=5036</a>
 <p />
 <hr />
 

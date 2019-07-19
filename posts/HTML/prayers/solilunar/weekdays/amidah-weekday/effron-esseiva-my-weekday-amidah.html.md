@@ -3,7 +3,7 @@
 <body>
 Title: עמידה | My Weekday Amidah by Effron Esseiva<br />
 Primary contributor: effron.esseiva<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=5060">http://opensiddur.org/?p=5060</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=5060">http://opensiddur.org/?p=5060</a>
 <p />
 <hr />
 

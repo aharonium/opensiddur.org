@@ -3,7 +3,7 @@
 <body>
 Title: פורים | Purim: Esther's Global Leadership Proposal, by Dr. Bonna Devora Haberman<br />
 Primary contributor: bonna.devora<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=10497">http://opensiddur.org/?p=10497</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=10497">http://opensiddur.org/?p=10497</a>
 <p />
 <hr />
 

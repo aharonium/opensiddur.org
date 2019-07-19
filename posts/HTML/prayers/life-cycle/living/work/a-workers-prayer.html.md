@@ -3,7 +3,7 @@
 <body>
 Title: תפילת היוצר | A Worker's Prayer, by Rabbi Stephen Belsky<br />
 Primary contributor: stephen.belsky<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=14344">http://opensiddur.org/?p=14344</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=14344">http://opensiddur.org/?p=14344</a>
 <p />
 <hr />
 

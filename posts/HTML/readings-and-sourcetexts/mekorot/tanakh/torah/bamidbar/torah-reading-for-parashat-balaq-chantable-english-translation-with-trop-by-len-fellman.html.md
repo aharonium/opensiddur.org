@@ -3,7 +3,7 @@
 <body>
 Title: Torah Reading for Parashat Balaq (Numbers 22:2-25:9): Chantable English translation with trōp, by Len Fellman<br />
 Primary contributor: len.fellman<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=25933">http://opensiddur.org/?p=25933</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=25933">http://opensiddur.org/?p=25933</a>
 <p />
 <hr />
 

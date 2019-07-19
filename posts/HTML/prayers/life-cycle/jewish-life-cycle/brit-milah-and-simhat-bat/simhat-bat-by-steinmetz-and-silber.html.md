@@ -3,7 +3,7 @@
 <body>
 Title: שמחת בת | Simḥat Bat, by Dr. Devora Steinmetz and Rabbi David Silber (1987)<br />
 Primary contributor: devora.steinmetz<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=1101">http://opensiddur.org/?p=1101</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=1101">http://opensiddur.org/?p=1101</a>
 <p />
 <hr />
 

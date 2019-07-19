@@ -3,7 +3,7 @@
 <body>
 Title: How to Annotate Your Siddur by Rabbi Mordechai Torczyner<br />
 Primary contributor: Mordechai Torczyner<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=4157">http://opensiddur.org/?p=4157</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=4157">http://opensiddur.org/?p=4157</a>
 <p />
 <hr />
 

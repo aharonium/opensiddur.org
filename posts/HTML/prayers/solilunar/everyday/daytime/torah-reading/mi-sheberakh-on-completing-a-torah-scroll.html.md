@@ -3,7 +3,7 @@
 <body>
 Title: מִי שֶׁבֵּרַךְ | A Hadran Mi Sheberakh Upon Completing the Writing of a Sefer Torah, by Rabbi Menachem Creditor<br />
 Primary contributor: menachem.creditor<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=5399">http://opensiddur.org/?p=5399</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=5399">http://opensiddur.org/?p=5399</a>
 <p />
 <hr />
 

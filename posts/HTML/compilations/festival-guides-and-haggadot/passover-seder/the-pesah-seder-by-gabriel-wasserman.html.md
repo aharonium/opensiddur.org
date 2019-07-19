@@ -3,7 +3,7 @@
 <body>
 Title: הגדה לסדר פסח | The Pesaḥ Seder, by Gabriel Wasserman<br />
 Primary contributor: mar.gavriel<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=9692">http://opensiddur.org/?p=9692</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=9692">http://opensiddur.org/?p=9692</a>
 <p />
 <hr />
 

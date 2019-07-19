@@ -3,7 +3,7 @@
 <body>
 Title: תְּפִלָּה לְהַצָּלָה מִפִּגּוּעֵי טֶרוֹר | Prayer for Rescue from Terror Attacks | Bön om skydd från terrorhot, by R' Hillel Ḥayyim Lavery-Yisraëli<br />
 Primary contributor: hillel.yisraeli-lavery<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=10150">http://opensiddur.org/?p=10150</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=10150">http://opensiddur.org/?p=10150</a>
 <p />
 <hr />
 

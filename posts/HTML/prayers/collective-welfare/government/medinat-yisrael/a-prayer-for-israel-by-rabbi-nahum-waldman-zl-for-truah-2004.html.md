@@ -3,7 +3,7 @@
 <body>
 Title: תפילה לישראל | A Prayer for Israel, by Rabbi Nahum Waldman z"l (2004)<br />
 Primary contributor: truah<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=11333">http://opensiddur.org/?p=11333</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=11333">http://opensiddur.org/?p=11333</a>
 <p />
 <hr />
 

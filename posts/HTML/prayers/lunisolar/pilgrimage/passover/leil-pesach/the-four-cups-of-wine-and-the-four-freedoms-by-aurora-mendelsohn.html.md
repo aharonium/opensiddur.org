@@ -3,7 +3,7 @@
 <body>
 Title: סדר לפסח: הארבה כוסות ואת הארבה חופשות  | The Four Cups of Wine and the Four Freedoms, by Aurora Mendelsohn<br />
 Primary contributor: rainbowtallitbaby<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=8785">http://opensiddur.org/?p=8785</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=8785">http://opensiddur.org/?p=8785</a>
 <p />
 <hr />
 

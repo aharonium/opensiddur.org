@@ -3,7 +3,7 @@
 <body>
 Title: תפילה לישראל ופלסטין | Prayer for Israel and Palestine by IfNotNow-Chicago (5778)<br />
 Primary contributor: IfNotNow.Chicago<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=17632">http://opensiddur.org/?p=17632</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=17632">http://opensiddur.org/?p=17632</a>
 <p />
 <hr />
 

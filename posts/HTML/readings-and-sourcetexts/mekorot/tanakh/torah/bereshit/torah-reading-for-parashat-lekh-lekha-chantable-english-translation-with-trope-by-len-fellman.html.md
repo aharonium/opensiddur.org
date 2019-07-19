@@ -3,7 +3,7 @@
 <body>
 Title: Torah Reading for Parashat Lekh Lekha (Genesis 12:1-17:27): Chantable English translation with trōp, by Len Fellman<br />
 Primary contributor: len.fellman<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=22123">http://opensiddur.org/?p=22123</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=22123">http://opensiddur.org/?p=22123</a>
 <p />
 <hr />
 

@@ -3,7 +3,7 @@
 <body>
 Title: A Prayer for Compassion During Violent Conflict, by Trisha Arlin<br />
 Primary contributor: trishaarlin<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=11412">http://opensiddur.org/?p=11412</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=11412">http://opensiddur.org/?p=11412</a>
 <p />
 <hr />
 

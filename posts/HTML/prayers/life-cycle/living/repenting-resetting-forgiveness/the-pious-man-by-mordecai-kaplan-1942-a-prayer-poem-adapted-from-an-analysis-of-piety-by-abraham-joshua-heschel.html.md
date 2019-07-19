@@ -3,7 +3,7 @@
 <body>
 Title: The Pious Man, a prayer-poem by Mordecai Kaplan adapted from the essay "An Analysis of Piety" by Abraham Joshua Heschel (1942)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=20670">http://opensiddur.org/?p=20670</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=20670">http://opensiddur.org/?p=20670</a>
 <p />
 <hr />
 

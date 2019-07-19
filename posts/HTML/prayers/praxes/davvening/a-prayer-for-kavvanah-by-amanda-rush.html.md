@@ -3,7 +3,7 @@
 <body>
 Title: A Prayer For Kavvanah, by Amanda Rush<br />
 Primary contributor: amanda.rush<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=4140">http://opensiddur.org/?p=4140</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=4140">http://opensiddur.org/?p=4140</a>
 <p />
 <hr />
 

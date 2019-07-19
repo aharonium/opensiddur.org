@@ -3,7 +3,7 @@
 <body>
 Title: Inauguration Day Prayer for President Richard M. Nixon by Rabbi Edgar F. Magnin (1969)<br />
 Primary contributor: United-States.Congressional-Record<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=11285">http://opensiddur.org/?p=11285</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=11285">http://opensiddur.org/?p=11285</a>
 <p />
 <hr />
 

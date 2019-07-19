@@ -3,7 +3,7 @@
 <body>
 Title: נוסח ארץ ישראל | Nusaḥ Ereṣ Yisrael :: Tefillat Minḥah, Birkat HaMazon, and Tefillat HaDerekh, by Uri DeYoung<br />
 Primary contributor: uri.deyoung<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=11528">http://opensiddur.org/?p=11528</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=11528">http://opensiddur.org/?p=11528</a>
 <p />
 <hr />
 

@@ -3,7 +3,7 @@
 <body>
 Title: על הניסים | Tanksgiv All the Boona, an al hanissim prayer of thanksgiving on Thanksgiving Day by Rabbi Zalman Schachter-Shalomi, z"l<br />
 Primary contributor: zalman.schachter-shalomi<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=5470">http://opensiddur.org/?p=5470</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=5470">http://opensiddur.org/?p=5470</a>
 <p />
 <hr />
 

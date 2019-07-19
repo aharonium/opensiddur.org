@@ -3,7 +3,7 @@
 <body>
 Title: The Presence of an Absence: a Public Reading for the Fast of Esther, the dark side to Purim, by Rabbi Arthur O. Waskow<br />
 Primary contributor: arthur.waskow<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=24197">http://opensiddur.org/?p=24197</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=24197">http://opensiddur.org/?p=24197</a>
 <p />
 <hr />
 

@@ -3,7 +3,7 @@
 <body>
 Title: Prayer for the Government in honor of George Washington, First President of the United States of America by K.K. Beit Shalome (1789)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=4518">http://opensiddur.org/?p=4518</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=4518">http://opensiddur.org/?p=4518</a>
 <p />
 <hr />
 

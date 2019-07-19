@@ -3,7 +3,7 @@
 <body>
 Title: A Kavvanah for Waking Up, by Andrew Shaw<br />
 Primary contributor: andrew.shaw<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=4220">http://opensiddur.org/?p=4220</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=4220">http://opensiddur.org/?p=4220</a>
 <p />
 <hr />
 

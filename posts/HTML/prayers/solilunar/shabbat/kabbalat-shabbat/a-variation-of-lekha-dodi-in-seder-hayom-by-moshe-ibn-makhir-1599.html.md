@@ -3,7 +3,7 @@
 <body>
 Title: לכה דודי (נוסח אחר)‏ | A different version of Lekha Dodi found in R' Moshe ibn Makhir's Seder haYom (1599)<br />
 Primary contributor: isaac.gantwerk-mayer<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=24334">http://opensiddur.org/?p=24334</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=24334">http://opensiddur.org/?p=24334</a>
 <p />
 <hr />
 

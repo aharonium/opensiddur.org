@@ -3,7 +3,7 @@
 <body>
 Title: Source texts on Jewish Prayer and Spirituality, compiled by Rabbi Levi Weiman-Kelman<br />
 Primary contributor: levi.weiman-kelman<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=5789">http://opensiddur.org/?p=5789</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=5789">http://opensiddur.org/?p=5789</a>
 <p />
 <hr />
 

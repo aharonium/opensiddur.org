@@ -3,7 +3,7 @@
 <body>
 Title: מגילת יהודית לאמרה בחנוכּה | Megillat Yehudit, the Medieval Scroll of Judith to be said on Ḥanukkah<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=14162">http://opensiddur.org/?p=14162</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=14162">http://opensiddur.org/?p=14162</a>
 <p />
 <hr />
 

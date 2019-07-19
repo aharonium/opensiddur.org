@@ -3,7 +3,7 @@
 <body>
 Title: Prayer of the Guest Chaplain of the U.S. Senate: Rabbi Arnold E. Resnicoff on 22 January 2003<br />
 Primary contributor: United-States.Congressional-Record<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=22718">http://opensiddur.org/?p=22718</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=22718">http://opensiddur.org/?p=22718</a>
 <p />
 <hr />
 

@@ -3,7 +3,7 @@
 <body>
 Title: ברכת המזון | Thanks for the Food, an interpretive translation of the Birkat Hamazon by Rabbi Zalman Schachter-Shalomi<br />
 Primary contributor: zalman.schachter-shalomi<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=10070">http://opensiddur.org/?p=10070</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=10070">http://opensiddur.org/?p=10070</a>
 <p />
 <hr />
 

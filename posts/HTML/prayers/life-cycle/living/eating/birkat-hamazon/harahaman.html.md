@@ -3,7 +3,7 @@
 <body>
 Title: הרחמן | Haraḥaman, Prayer to the merciful One for the Shmita Year, R"H seder additions, and other liturgical tweaks by Rabbi David Seidenberg (neohasid.org)<br />
 Primary contributor: david.seidenberg<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=9418">http://opensiddur.org/?p=9418</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=9418">http://opensiddur.org/?p=9418</a>
 <p />
 <hr />
 

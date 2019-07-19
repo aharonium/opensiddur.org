@@ -3,7 +3,7 @@
 <body>
 Title: God’s Goodness — the Testament of [Am] Yisrael, for Thanksgiving Day by Rabbi Milton Steinberg (1945)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=25392">http://opensiddur.org/?p=25392</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=25392">http://opensiddur.org/?p=25392</a>
 <p />
 <hr />
 

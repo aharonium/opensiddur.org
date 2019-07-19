@@ -3,7 +3,7 @@
 <body>
 Title: A Prayer for Daily Guidance, a poem by Rosa Emma Salaman (1851)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=16303">http://opensiddur.org/?p=16303</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=16303">http://opensiddur.org/?p=16303</a>
 <p />
 <hr />
 

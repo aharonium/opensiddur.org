@@ -3,7 +3,7 @@
 <body>
 Title: הַגָּדָה שֶׁלַּפֶּסַח הַשֵּׁנִי | Haggadah for Pesaḥ Sheni on the Evening of the 14th of Iyar, compiled by Isaac Gantwerk Mayer<br />
 Primary contributor: isaac.gantwerk-mayer<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=25116">http://opensiddur.org/?p=25116</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=25116">http://opensiddur.org/?p=25116</a>
 <p />
 <hr />
 

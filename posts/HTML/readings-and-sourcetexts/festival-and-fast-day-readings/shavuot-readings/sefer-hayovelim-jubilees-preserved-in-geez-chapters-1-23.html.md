@@ -3,7 +3,7 @@
 <body>
 Title: መጽሐፈ ኩፋሌ | ספר היובלים | Sefer haYovelim (the book of Jubilees, in Ge'ez) chapters 1-23<br />
 Primary contributor: unknown<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=12310">http://opensiddur.org/?p=12310</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=12310">http://opensiddur.org/?p=12310</a>
 <p />
 <hr />
 

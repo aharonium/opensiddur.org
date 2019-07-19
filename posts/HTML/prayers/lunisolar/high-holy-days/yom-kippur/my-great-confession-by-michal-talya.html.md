@@ -3,7 +3,7 @@
 <body>
 Title: וידוי הגדול | Vidui HaGadol: The Great Confession, an Al Ḥeyt litany by Michal Talya<br />
 Primary contributor: michal.talya<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=22668">http://opensiddur.org/?p=22668</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=22668">http://opensiddur.org/?p=22668</a>
 <p />
 <hr />
 

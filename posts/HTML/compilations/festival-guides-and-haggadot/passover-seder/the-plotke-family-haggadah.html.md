@@ -3,7 +3,7 @@
 <body>
 Title: הגדה לסדר פסח | The Plotke Family Haggadah<br />
 Primary contributor: michael.plotke<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=4594">http://opensiddur.org/?p=4594</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=4594">http://opensiddur.org/?p=4594</a>
 <p />
 <hr />
 

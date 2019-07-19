@@ -3,7 +3,7 @@
 <body>
 Title: לְמַלְמֵל וּלְהַמהֵם | The non-cognitive experience of ambient mumbling in communal Jewish prayer by R' Elie Kaunfer<br />
 Primary contributor: elie.kaunfer<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=12960">http://opensiddur.org/?p=12960</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=12960">http://opensiddur.org/?p=12960</a>
 <p />
 <hr />
 

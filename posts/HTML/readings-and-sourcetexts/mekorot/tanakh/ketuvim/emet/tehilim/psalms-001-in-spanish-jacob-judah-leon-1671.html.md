@@ -3,7 +3,7 @@
 <body>
 Title: תהלים א׳ בלשון ספרדית | Psalms 1 in Spanish (trans. Rabbi Yahakob Yehuda, Leon Hebréo 1671)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=15651">http://opensiddur.org/?p=15651</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=15651">http://opensiddur.org/?p=15651</a>
 <p />
 <hr />
 

@@ -3,7 +3,7 @@
 <body>
 Title: רבון העולמים | Ribon HaOlamim from the Seder Tefilot of the RaMBaM in M.S. Constantinople 1509 (trans. Aharon Varady)<br />
 Primary contributor: aharon.n.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=16541">http://opensiddur.org/?p=16541</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=16541">http://opensiddur.org/?p=16541</a>
 <p />
 <hr />
 

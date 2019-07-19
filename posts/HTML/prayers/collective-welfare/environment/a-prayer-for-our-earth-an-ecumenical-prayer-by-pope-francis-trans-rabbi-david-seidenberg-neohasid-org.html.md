@@ -3,7 +3,7 @@
 <body>
 Title: תְּפִילָת הָאָרֶץ | A Prayer for Our Earth, an ecumenical prayer by Pope Francis, translated and adapted by Rabbi David Seidenberg (neohasid.org)<br />
 Primary contributor: david.seidenberg<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=11958">http://opensiddur.org/?p=11958</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=11958">http://opensiddur.org/?p=11958</a>
 <p />
 <hr />
 

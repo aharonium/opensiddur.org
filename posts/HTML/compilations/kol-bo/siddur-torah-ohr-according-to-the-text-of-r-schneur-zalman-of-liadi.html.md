@@ -3,7 +3,7 @@
 <body>
 Title: Siddur Torah Ohr of R’ Schneur Zalman of Liadi<br />
 Primary contributor: schneur.zalman<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=925">http://opensiddur.org/?p=925</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=925">http://opensiddur.org/?p=925</a>
 <p />
 <hr />
 

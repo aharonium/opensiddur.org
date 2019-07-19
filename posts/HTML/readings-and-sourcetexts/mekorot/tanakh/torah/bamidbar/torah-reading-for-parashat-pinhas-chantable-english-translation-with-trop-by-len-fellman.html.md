@@ -3,7 +3,7 @@
 <body>
 Title: Torah Reading for Parashat Pinḥas (Numbers 25:10-30:1): Chantable English translation with trōp, by Len Fellman<br />
 Primary contributor: len.fellman<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=26059">http://opensiddur.org/?p=26059</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=26059">http://opensiddur.org/?p=26059</a>
 <p />
 <hr />
 

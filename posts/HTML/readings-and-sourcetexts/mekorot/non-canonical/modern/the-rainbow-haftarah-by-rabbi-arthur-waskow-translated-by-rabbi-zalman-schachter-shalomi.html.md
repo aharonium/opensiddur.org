@@ -3,7 +3,7 @@
 <body>
 Title: The Rainbow Haftarah by Rabbi Arthur Waskow, translated by Rabbi Zalman Schachter-Shalomi (1993)<br />
 Primary contributor: arthur.waskow<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=9567">http://opensiddur.org/?p=9567</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=9567">http://opensiddur.org/?p=9567</a>
 <p />
 <hr />
 

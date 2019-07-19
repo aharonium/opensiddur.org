@@ -3,7 +3,7 @@
 <body>
 Title: An Economic Argument for Open Data by Efraim Feinstein<br />
 Primary contributor: Efraim<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=359">http://opensiddur.org/?p=359</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=359">http://opensiddur.org/?p=359</a>
 <p />
 <hr />
 

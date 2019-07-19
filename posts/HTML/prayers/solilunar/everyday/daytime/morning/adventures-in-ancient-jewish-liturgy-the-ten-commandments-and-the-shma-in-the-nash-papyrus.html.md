@@ -3,7 +3,7 @@
 <body>
 Title: Adventures in Ancient Jewish Liturgy: The Ten Commandments and the Sh’ma in the Nash Papyrus<br />
 Primary contributor: aharon-nissn.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=2520">http://opensiddur.org/?p=2520</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=2520">http://opensiddur.org/?p=2520</a>
 <p />
 <hr />
 

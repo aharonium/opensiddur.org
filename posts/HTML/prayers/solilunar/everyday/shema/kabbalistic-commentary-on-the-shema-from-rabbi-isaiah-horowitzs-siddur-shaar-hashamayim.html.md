@@ -3,7 +3,7 @@
 <body>
 Title: שמע | Kabbalistic Commentary on the Shema from Rabbi Isaiah Horowitz's Siddur Shaar haShamayim<br />
 Primary contributor: isaiah.horowitz<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=10563">http://opensiddur.org/?p=10563</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=10563">http://opensiddur.org/?p=10563</a>
 <p />
 <hr />
 

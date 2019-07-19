@@ -3,7 +3,7 @@
 <body>
 Title: Torah Reading for Parashat Noaḥ (Genesis 6:9-11:32): Chantable English translation with trōp, by Len Fellman<br />
 Primary contributor: len.fellman<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=22053">http://opensiddur.org/?p=22053</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=22053">http://opensiddur.org/?p=22053</a>
 <p />
 <hr />
 

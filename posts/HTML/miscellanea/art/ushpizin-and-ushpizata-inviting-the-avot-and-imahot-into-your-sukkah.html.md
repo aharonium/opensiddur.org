@@ -3,7 +3,7 @@
 <body>
 Title: סדר אושפיזין / אושפיזתא | Seder Ushpizin and Ushpizata: Inviting the Avot and Imahot into your Sukkah by Rabbi David Seidenberg (neohasid.org)<br />
 Primary contributor: david.seidenberg<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=5294">http://opensiddur.org/?p=5294</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=5294">http://opensiddur.org/?p=5294</a>
 <p />
 <hr />
 

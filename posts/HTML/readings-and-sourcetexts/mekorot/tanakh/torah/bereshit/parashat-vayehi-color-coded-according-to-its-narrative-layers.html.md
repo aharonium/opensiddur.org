@@ -3,7 +3,7 @@
 <body>
 Title: פָּרָשַׁת וַיְחִי | Parashat Vayeḥi (Genesis 47:28-50:26), color-coded according to its narrative layers<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=22945">http://opensiddur.org/?p=22945</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=22945">http://opensiddur.org/?p=22945</a>
 <p />
 <hr />
 

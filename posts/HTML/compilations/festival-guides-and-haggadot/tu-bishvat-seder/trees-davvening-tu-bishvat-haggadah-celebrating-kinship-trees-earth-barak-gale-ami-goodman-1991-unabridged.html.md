@@ -3,7 +3,7 @@
 <body>
 Title: סֵדֶר ט״וּ בִּשְׁבָט | The Trees are Davvening: A Tu biShvat Haggadah Celebrating our Kinship with the Trees and the Earth, by Barak Gale and Ami Goodman (1991, unabridged)<br />
 Primary contributor: barak.gale<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=2427">http://opensiddur.org/?p=2427</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=2427">http://opensiddur.org/?p=2427</a>
 <p />
 <hr />
 

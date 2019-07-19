@@ -3,7 +3,7 @@
 <body>
 Title: תפילה קודם התפילה מרבי אלימלך מליזשענסק | Rabbi Elimelekh of Lizhensk’s prayer to be able to pray (interpretive translation by Reb Zalman Schachter-Shalomi)<br />
 Primary contributor: zalman.schachter-shalomi<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=16095">http://opensiddur.org/?p=16095</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=16095">http://opensiddur.org/?p=16095</a>
 <p />
 <hr />
 

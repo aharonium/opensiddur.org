@@ -3,7 +3,7 @@
 <body>
 Title: ודוי | Vidui meditation, by Danny Cohen<br />
 Primary contributor: danny.cohen<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=14515">http://opensiddur.org/?p=14515</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=14515">http://opensiddur.org/?p=14515</a>
 <p />
 <hr />
 

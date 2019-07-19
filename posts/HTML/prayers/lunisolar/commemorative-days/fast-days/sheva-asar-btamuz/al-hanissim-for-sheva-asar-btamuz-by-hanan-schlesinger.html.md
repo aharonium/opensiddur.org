@@ -3,7 +3,7 @@
 <body>
 Title: תפילת ”על הנסים“ חדשה ליום י״ז בתמוז | Al Hanissim for 17 Tamuz, by Rav Ḥanan Schlesinger<br />
 Primary contributor: hanan.schlesinger<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=20443">http://opensiddur.org/?p=20443</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=20443">http://opensiddur.org/?p=20443</a>
 <p />
 <hr />
 

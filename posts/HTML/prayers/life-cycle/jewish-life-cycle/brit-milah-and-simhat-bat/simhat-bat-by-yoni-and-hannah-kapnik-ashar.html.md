@@ -3,7 +3,7 @@
 <body>
 Title: שמחת בת | Simḥat Bat by Yoni and Hannah Kapnik Ashar<br />
 Primary contributor: yoni.ashar<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=9124">http://opensiddur.org/?p=9124</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=9124">http://opensiddur.org/?p=9124</a>
 <p />
 <hr />
 

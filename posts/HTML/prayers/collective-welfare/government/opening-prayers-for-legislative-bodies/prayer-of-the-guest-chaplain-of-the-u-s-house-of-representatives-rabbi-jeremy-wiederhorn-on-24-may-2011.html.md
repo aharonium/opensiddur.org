@@ -3,7 +3,7 @@
 <body>
 Title: Prayer of the Guest Chaplain of the U.S. House of Representatives: Rabbi Jeremy Wiederhorn on 24 May 2011<br />
 Primary contributor: United-States.Congressional-Record<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=24015">http://opensiddur.org/?p=24015</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=24015">http://opensiddur.org/?p=24015</a>
 <p />
 <hr />
 

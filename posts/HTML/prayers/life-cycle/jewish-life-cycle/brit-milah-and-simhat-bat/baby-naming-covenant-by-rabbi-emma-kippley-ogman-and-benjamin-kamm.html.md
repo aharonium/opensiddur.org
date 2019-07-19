@@ -3,7 +3,7 @@
 <body>
 Title: ברית שמות | Baby Naming Covenant by Rabbi Emma Kippley-Ogman and Benjamin Kamm<br />
 Primary contributor: benj.kamm<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=5117">http://opensiddur.org/?p=5117</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=5117">http://opensiddur.org/?p=5117</a>
 <p />
 <hr />
 

@@ -3,7 +3,7 @@
 <body>
 Title: הגדה לסדר פסח | The Freedom Seder Passover Haggadah for the Earth by The Shalom Center and Rabbi Arthur Waskow<br />
 Primary contributor: arthur.waskow<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=8852">http://opensiddur.org/?p=8852</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=8852">http://opensiddur.org/?p=8852</a>
 <p />
 <hr />
 

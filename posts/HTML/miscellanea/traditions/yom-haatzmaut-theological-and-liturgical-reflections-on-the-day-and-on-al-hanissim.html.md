@@ -3,7 +3,7 @@
 <body>
 Title: על הניסים ליום העצמאות | Al Hanissim for Yom ha’Atsmaut: Theological and Liturgical Reflections, by Yehonatan Chipman (2003)<br />
 Primary contributor: Yehonatan Chipman<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=4894">http://opensiddur.org/?p=4894</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=4894">http://opensiddur.org/?p=4894</a>
 <p />
 <hr />
 

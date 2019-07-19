@@ -3,7 +3,7 @@
 <body>
 Title: תהלים כ״א בלשון לאדינו | Psalms 21 by David in Ladino (Estampado por Ǧ. Griffit, ca. 1852/3)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=17776">http://opensiddur.org/?p=17776</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=17776">http://opensiddur.org/?p=17776</a>
 <p />
 <hr />
 

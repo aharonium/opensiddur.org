@@ -3,7 +3,7 @@
 <body>
 Title: For Tisha b'Av : Our Cherished Litany of Loss, by Rabbi Menachem Creditor<br />
 Primary contributor: menachem.creditor<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=20729">http://opensiddur.org/?p=20729</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=20729">http://opensiddur.org/?p=20729</a>
 <p />
 <hr />
 

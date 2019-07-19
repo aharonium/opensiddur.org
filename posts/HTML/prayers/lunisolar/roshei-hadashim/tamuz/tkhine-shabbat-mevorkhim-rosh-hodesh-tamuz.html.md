@@ -3,7 +3,7 @@
 <body>
 Title: תְּחִנָה לְשַׁבָּת מְבָרְכִים רֹאשׁ חוֺדֶשׁ תַּמּוּז | Tkhine for Shabbat Mevorkhim Rosh Ḥodesh Tamuz (1877)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=14149">http://opensiddur.org/?p=14149</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=14149">http://opensiddur.org/?p=14149</a>
 <p />
 <hr />
 

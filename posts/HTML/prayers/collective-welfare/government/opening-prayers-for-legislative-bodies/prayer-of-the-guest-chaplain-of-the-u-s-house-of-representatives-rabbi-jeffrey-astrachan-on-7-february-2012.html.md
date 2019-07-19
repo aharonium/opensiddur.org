@@ -3,7 +3,7 @@
 <body>
 Title: Prayer of the Guest Chaplain of the U.S. House of Representatives: Rabbi Jeffrey Astrachan on 7 February 2012<br />
 Primary contributor: United-States.Congressional-Record<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=23099">http://opensiddur.org/?p=23099</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=23099">http://opensiddur.org/?p=23099</a>
 <p />
 <hr />
 

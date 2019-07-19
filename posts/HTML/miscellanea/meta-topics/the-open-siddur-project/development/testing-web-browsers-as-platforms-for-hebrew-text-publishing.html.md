@@ -3,7 +3,7 @@
 <body>
 Title: Testing Web browsers as Platforms for Hebrew Text Publishing<br />
 Primary contributor: aharon-nissn.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=4262">http://opensiddur.org/?p=4262</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=4262">http://opensiddur.org/?p=4262</a>
 <p />
 <hr />
 

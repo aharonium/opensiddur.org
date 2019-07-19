@@ -3,7 +3,7 @@
 <body>
 Title: אײן אנשפראכע געגען עין הרע | An Incantation against the Ayin hoReh (1896)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=13957">http://opensiddur.org/?p=13957</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=13957">http://opensiddur.org/?p=13957</a>
 <p />
 <hr />
 

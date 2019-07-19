@@ -3,7 +3,7 @@
 <body>
 Title: Needed Prophets for Our Day, a prayer-poem by Mordecai Kaplan (1942) adapted from "The Divinity School Address" by Ralph Waldo Emerson<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=20239">http://opensiddur.org/?p=20239</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=20239">http://opensiddur.org/?p=20239</a>
 <p />
 <hr />
 

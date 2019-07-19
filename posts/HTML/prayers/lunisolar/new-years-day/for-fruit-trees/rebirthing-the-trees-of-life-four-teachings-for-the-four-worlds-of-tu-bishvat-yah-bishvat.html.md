@@ -3,7 +3,7 @@
 <body>
 Title: ט״וּ בִּשְׁבָט | Rebirthing the Tree(s) of Life: Four Teachings for the Four Worlds of Tu BiShvat/Yah BiShvat by Arthur Waskow<br />
 Primary contributor: arthur.waskow<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=5684">http://opensiddur.org/?p=5684</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=5684">http://opensiddur.org/?p=5684</a>
 <p />
 <hr />
 

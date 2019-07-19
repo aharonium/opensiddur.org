@@ -3,7 +3,7 @@
 <body>
 Title: Kiss of death: a prayer upon the death of a parent by Andrew Meit<br />
 Primary contributor: andrew.meit<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=4002">http://opensiddur.org/?p=4002</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=4002">http://opensiddur.org/?p=4002</a>
 <p />
 <hr />
 

@@ -3,7 +3,7 @@
 <body>
 Title: How to craft a small siddur or bentsher by Aharon Varady<br />
 Primary contributor: aharon-nissn.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=3294">http://opensiddur.org/?p=3294</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=3294">http://opensiddur.org/?p=3294</a>
 <p />
 <hr />
 

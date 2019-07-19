@@ -3,7 +3,7 @@
 <body>
 Title: Loss of what could be; but is - a prayer-poem in eulogy after a suicide, by Andrew Meit<br />
 Primary contributor: andrew.meit<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=14626">http://opensiddur.org/?p=14626</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=14626">http://opensiddur.org/?p=14626</a>
 <p />
 <hr />
 

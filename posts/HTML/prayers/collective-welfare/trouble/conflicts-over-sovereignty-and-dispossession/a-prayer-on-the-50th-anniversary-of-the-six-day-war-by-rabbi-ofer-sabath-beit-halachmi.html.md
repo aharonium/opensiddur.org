@@ -3,7 +3,7 @@
 <body>
 Title: תחינה ליובל מלחמת ששת הימים | A prayer on the 50th anniversary of the Six Day War, by Rabbi Ofer Sabath Beit Halachmi (2017)<br />
 Primary contributor: ofer.sabath-beit-halachmi<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=15528">http://opensiddur.org/?p=15528</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=15528">http://opensiddur.org/?p=15528</a>
 <p />
 <hr />
 

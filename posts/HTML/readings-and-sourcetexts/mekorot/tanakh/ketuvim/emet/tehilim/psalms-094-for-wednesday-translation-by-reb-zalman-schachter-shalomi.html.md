@@ -3,7 +3,7 @@
 <body>
 Title: תהלים צ״ד  | The Psalm for Wednesday, Psalms 94 (translation by Reb Zalman Schachter-Shalomi, z"l)<br />
 Primary contributor: zalman.schachter-shalomi<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=16119">http://opensiddur.org/?p=16119</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=16119">http://opensiddur.org/?p=16119</a>
 <p />
 <hr />
 

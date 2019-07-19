@@ -3,7 +3,7 @@
 <body>
 Title: An interview with Aharon Varady on Open Source Judaism (Radio613, 2010)<br />
 Primary contributor: aharon-nissn.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=1161">http://opensiddur.org/?p=1161</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=1161">http://opensiddur.org/?p=1161</a>
 <p />
 <hr />
 

@@ -3,7 +3,7 @@
 <body>
 Title: תהלים ק״נ בלשון לאדינו | Psalms 150 in Ladino (Estampado por Ǧ. Griffit, ca. 1852/3)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=23673">http://opensiddur.org/?p=23673</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=23673">http://opensiddur.org/?p=23673</a>
 <p />
 <hr />
 

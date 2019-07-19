@@ -3,7 +3,7 @@
 <body>
 Title: שבחי המשפחה לבת המצווה | A Prayer in Honor of a Bat Mitzvah from her Family, by Dr. Chaim Hames-Ezra<br />
 Primary contributor: haim.hames<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=10753">http://opensiddur.org/?p=10753</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=10753">http://opensiddur.org/?p=10753</a>
 <p />
 <hr />
 

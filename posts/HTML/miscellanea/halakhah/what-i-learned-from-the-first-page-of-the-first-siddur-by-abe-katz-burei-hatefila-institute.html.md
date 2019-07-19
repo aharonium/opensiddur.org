@@ -3,7 +3,7 @@
 <body>
 Title: להבין את התפלה | Rav Amram Gaon's letter to Rav Yitzḥok b. Shimon of Sepharad, circa 9th century<br />
 Primary contributor: amram.ben-rav-sheshna<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=10075">http://opensiddur.org/?p=10075</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=10075">http://opensiddur.org/?p=10075</a>
 <p />
 <hr />
 

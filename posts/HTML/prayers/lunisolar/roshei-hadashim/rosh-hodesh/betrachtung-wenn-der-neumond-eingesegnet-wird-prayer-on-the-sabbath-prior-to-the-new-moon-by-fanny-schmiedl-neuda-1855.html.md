@@ -3,7 +3,7 @@
 <body>
 Title: Betrachtung, wenn der Neumond eingesegnet wird | Prayer on the Sabbath Prior to the New Moon, by Fanny Schmiedl-Neuda (1855)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=19386">http://opensiddur.org/?p=19386</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=19386">http://opensiddur.org/?p=19386</a>
 <p />
 <hr />
 

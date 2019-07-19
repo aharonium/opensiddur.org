@@ -3,7 +3,7 @@
 <body>
 Title: Prayer for the Centennial of the Inauguration of George Washington, by Rabbi Yaakov Yosef Joseph (1889)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=18504">http://opensiddur.org/?p=18504</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=18504">http://opensiddur.org/?p=18504</a>
 <p />
 <hr />
 

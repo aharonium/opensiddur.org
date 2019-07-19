@@ -3,7 +3,7 @@
 <body>
 Title: מתי לא לבקש סליחה | When not to seek forgiveness, by Josh Rosenberg<br />
 Primary contributor: josh.rosenberg<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=17554">http://opensiddur.org/?p=17554</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=17554">http://opensiddur.org/?p=17554</a>
 <p />
 <hr />
 

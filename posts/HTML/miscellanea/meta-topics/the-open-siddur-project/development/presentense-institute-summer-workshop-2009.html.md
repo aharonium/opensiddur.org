@@ -3,7 +3,7 @@
 <body>
 Title: PresenTense Institute Summer Workshop 2009<br />
 Primary contributor: aharon-nissn.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=10">http://opensiddur.org/?p=10</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=10">http://opensiddur.org/?p=10</a>
 <p />
 <hr />
 

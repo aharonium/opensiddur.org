@@ -3,7 +3,7 @@
 <body>
 Title: הַתִּקּוּן הַכְּלָלִי שֶׁל רֶבִּי נַחְמָן | The Tiqqun haKlali (General Remedy) of Rebbe Naḥman of Bratslav<br />
 Primary contributor: aharon-nissn.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=2657">http://opensiddur.org/?p=2657</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=2657">http://opensiddur.org/?p=2657</a>
 <p />
 <hr />
 

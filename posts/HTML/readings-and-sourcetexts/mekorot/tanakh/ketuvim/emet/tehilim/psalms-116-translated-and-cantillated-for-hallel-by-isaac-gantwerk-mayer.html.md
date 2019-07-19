@@ -3,7 +3,7 @@
 <body>
 Title: תהלים קט״ז | Psalms 116, translated and cantillated for Hallel by Isaac Gantwerk Mayer<br />
 Primary contributor: isaac.gantwerk-mayer<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=23827">http://opensiddur.org/?p=23827</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=23827">http://opensiddur.org/?p=23827</a>
 <p />
 <hr />
 

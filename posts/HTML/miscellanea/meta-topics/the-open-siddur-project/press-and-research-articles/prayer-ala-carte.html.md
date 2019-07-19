@@ -3,7 +3,7 @@
 <body>
 Title: “Prayer a la Carte” (Haaretz 2009)<br />
 Primary contributor: hierophant<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=99">http://opensiddur.org/?p=99</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=99">http://opensiddur.org/?p=99</a>
 <p />
 <hr />
 

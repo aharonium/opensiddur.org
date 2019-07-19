@@ -3,7 +3,7 @@
 <body>
 Title: תהלים ג׳ בלשון לאדינו | Psalms 3 by David in Ladino (Estampado por Ǧ. Griffit, ca. 1852/3)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=15500">http://opensiddur.org/?p=15500</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=15500">http://opensiddur.org/?p=15500</a>
 <p />
 <hr />
 

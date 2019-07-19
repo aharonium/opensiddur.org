@@ -3,7 +3,7 @@
 <body>
 Title: סדר לפסח: אליהו הנביא | A reflection on despair and suicide awareness to be read upon opening the door for Elijah at the Passover seder<br />
 Primary contributor: elijahs-journey<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=10993">http://opensiddur.org/?p=10993</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=10993">http://opensiddur.org/?p=10993</a>
 <p />
 <hr />
 

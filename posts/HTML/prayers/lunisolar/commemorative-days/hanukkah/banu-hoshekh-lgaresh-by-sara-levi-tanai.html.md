@@ -3,7 +3,7 @@
 <body>
 Title: באנו חשך לגרש | Banu Ḥoshekh l’Garesh (We come to chase the dark away), by Sara Levi-Tanai (1960)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=1658">http://opensiddur.org/?p=1658</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=1658">http://opensiddur.org/?p=1658</a>
 <p />
 <hr />
 

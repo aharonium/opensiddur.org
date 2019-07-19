@@ -3,7 +3,7 @@
 <body>
 Title: קינה | Kinah/lamentation, by Aryeh Cohen (2004)<br />
 Primary contributor: aryeh.cohen<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=18050">http://opensiddur.org/?p=18050</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=18050">http://opensiddur.org/?p=18050</a>
 <p />
 <hr />
 

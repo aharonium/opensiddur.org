@@ -3,7 +3,7 @@
 <body>
 Title: זָכוֹר אֶת־יוֹם הַשַּׁבָּת לְקַדְּשׁוֹ | Remember the Shabbat day to keep it holy, a reading from the Zohar for the third se'udah of Shabbat<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=25534">http://opensiddur.org/?p=25534</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=25534">http://opensiddur.org/?p=25534</a>
 <p />
 <hr />
 

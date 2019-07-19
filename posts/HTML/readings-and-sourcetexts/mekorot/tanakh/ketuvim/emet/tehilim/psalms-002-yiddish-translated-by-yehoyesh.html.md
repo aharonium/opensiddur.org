@@ -3,7 +3,7 @@
 <body>
 Title: תהלים ב׳ בלשון ײִדיש | Psalms 2 in Yiddish (translated by Yehoyesh Shloyme Blumgarten ca. 1920s)<br />
 Primary contributor: yehoyesh.blumgarten<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=15876">http://opensiddur.org/?p=15876</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=15876">http://opensiddur.org/?p=15876</a>
 <p />
 <hr />
 

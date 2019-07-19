@@ -3,7 +3,7 @@
 <body>
 Title: Prayer of the Guest Chaplain of the U.S. House of Representatives: Rabbi Shea Hecht on 30 November 2016<br />
 Primary contributor: United-States.Congressional-Record<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=20380">http://opensiddur.org/?p=20380</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=20380">http://opensiddur.org/?p=20380</a>
 <p />
 <hr />
 

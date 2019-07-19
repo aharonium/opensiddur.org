@@ -3,7 +3,7 @@
 <body>
 Title: תהלים ד׳ בלשון ײִדיש | Psalms 4 in Yiddish (translated by Yehoyesh Shloyme Blumgarten ca. 1920s)<br />
 Primary contributor: yehoyesh.blumgarten<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=15885">http://opensiddur.org/?p=15885</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=15885">http://opensiddur.org/?p=15885</a>
 <p />
 <hr />
 

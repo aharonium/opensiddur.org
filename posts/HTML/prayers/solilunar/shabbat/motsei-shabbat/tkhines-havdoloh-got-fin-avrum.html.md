@@ -3,7 +3,7 @@
 <body>
 Title: גאָט פון אַבְרָהָם | Tkhine before Havdalah and Bakashe for the End of Shabbat (Got fin Avrum)<br />
 Primary contributor: unknown<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=13975">http://opensiddur.org/?p=13975</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=13975">http://opensiddur.org/?p=13975</a>
 <p />
 <hr />
 

@@ -3,7 +3,7 @@
 <body>
 Title: Prayer of the Guest Chaplain of the U.S. Senate: Rabbi Seth H. Frisch on 27 February 2018<br />
 Primary contributor: United-States.Congressional-Record<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=19992">http://opensiddur.org/?p=19992</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=19992">http://opensiddur.org/?p=19992</a>
 <p />
 <hr />
 

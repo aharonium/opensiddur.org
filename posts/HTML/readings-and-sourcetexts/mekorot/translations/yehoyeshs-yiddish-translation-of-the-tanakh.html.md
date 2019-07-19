@@ -3,7 +3,7 @@
 <body>
 Title: תורה, נביאים וכתובים: תּרגום ייִדיש פֿון יהואש | The Yiddish Translation of the TaNaKh by Yehoyesh Shloyme Blumgarten<br />
 Primary contributor: yehoyesh.blumgarten<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=4292">http://opensiddur.org/?p=4292</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=4292">http://opensiddur.org/?p=4292</a>
 <p />
 <hr />
 

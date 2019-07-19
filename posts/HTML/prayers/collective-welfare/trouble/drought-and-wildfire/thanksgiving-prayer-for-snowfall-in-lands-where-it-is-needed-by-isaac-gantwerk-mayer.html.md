@@ -3,7 +3,7 @@
 <body>
 Title: תפילת הודיה לשלג | Thanksgiving Prayer for Snowfall in Lands Where It is Needed, by Isaac Gantwerk Mayer<br />
 Primary contributor: isaac.gantwerk-mayer<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=23865">http://opensiddur.org/?p=23865</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=23865">http://opensiddur.org/?p=23865</a>
 <p />
 <hr />
 

@@ -3,7 +3,7 @@
 <body>
 Title: תפילה לתורם דם | The Blood Donor's Prayer, by Elli Fischer<br />
 Primary contributor: elli.fischer<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=9347">http://opensiddur.org/?p=9347</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=9347">http://opensiddur.org/?p=9347</a>
 <p />
 <hr />
 

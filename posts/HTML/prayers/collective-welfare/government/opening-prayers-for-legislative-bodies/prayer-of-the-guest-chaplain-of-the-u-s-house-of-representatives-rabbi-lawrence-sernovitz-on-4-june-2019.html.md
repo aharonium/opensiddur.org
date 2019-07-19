@@ -3,7 +3,7 @@
 <body>
 Title: Prayer of the Guest Chaplain of the U.S. House of Representatives: Rabbi Lawrence Sernovitz on 4 June 2019<br />
 Primary contributor: United-States.Congressional-Record<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=25613">http://opensiddur.org/?p=25613</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=25613">http://opensiddur.org/?p=25613</a>
 <p />
 <hr />
 

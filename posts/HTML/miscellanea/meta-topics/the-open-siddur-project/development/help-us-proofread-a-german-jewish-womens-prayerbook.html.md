@@ -3,7 +3,7 @@
 <body>
 Title: Transcribing Fanny Schmiedl-Neuda’s Sefer Tkhines: Stunden Der Andacht (1855)<br />
 Primary contributor: hierophant<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=5129">http://opensiddur.org/?p=5129</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=5129">http://opensiddur.org/?p=5129</a>
 <p />
 <hr />
 

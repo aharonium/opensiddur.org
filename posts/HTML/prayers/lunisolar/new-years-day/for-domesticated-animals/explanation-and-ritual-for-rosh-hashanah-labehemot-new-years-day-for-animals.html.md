@@ -3,7 +3,7 @@
 <body>
 Title: אלף באלול | Explanation and ritual for the New Year’s Day for Domesticated Animals (ראש השנה לבהמות)<br />
 Primary contributor: aharon-nissn.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=3498">http://opensiddur.org/?p=3498</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=3498">http://opensiddur.org/?p=3498</a>
 <p />
 <hr />
 

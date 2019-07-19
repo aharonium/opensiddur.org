@@ -3,7 +3,7 @@
 <body>
 Title: תשעה באב | Prayer for Tisha b'Av by Reb Zalman Schachter-Shalomi z"l (translated by Gabbai Seth Fishman)<br />
 Primary contributor: zalman.schachter-shalomi<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=7316">http://opensiddur.org/?p=7316</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=7316">http://opensiddur.org/?p=7316</a>
 <p />
 <hr />
 

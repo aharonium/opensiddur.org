@@ -3,7 +3,7 @@
 <body>
 Title: A Prayer for Knowledge of the Messiah, a poem by Rosa Emma Salaman (1851)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=16294">http://opensiddur.org/?p=16294</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=16294">http://opensiddur.org/?p=16294</a>
 <p />
 <hr />
 

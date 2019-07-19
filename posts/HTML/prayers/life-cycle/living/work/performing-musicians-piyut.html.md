@@ -3,7 +3,7 @@
 <body>
 Title: פיוט למוזיקאי קודם שיופיע | A Performing Musician’s Piyut by Alan Jay Sufrin<br />
 Primary contributor: alan.jay.sufrin<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=6070">http://opensiddur.org/?p=6070</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=6070">http://opensiddur.org/?p=6070</a>
 <p />
 <hr />
 

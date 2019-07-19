@@ -3,7 +3,7 @@
 <body>
 Title: ברכות והודאות | Brakhot v'Hoda'ot (Blessings and Thanksgivings): A Birkon for the Bar Mitsvah of Yeshayahu Yisraeli<br />
 Primary contributor: hillel.yisraeli-lavery<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=13819">http://opensiddur.org/?p=13819</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=13819">http://opensiddur.org/?p=13819</a>
 <p />
 <hr />
 

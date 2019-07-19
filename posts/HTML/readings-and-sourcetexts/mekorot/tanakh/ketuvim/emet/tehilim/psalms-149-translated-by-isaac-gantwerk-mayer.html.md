@@ -3,7 +3,7 @@
 <body>
 Title: תהלים קמ״ט | Psalms 149, translated by Isaac Gantwerk Mayer<br />
 Primary contributor: isaac.gantwerk-mayer<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=25631">http://opensiddur.org/?p=25631</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=25631">http://opensiddur.org/?p=25631</a>
 <p />
 <hr />
 

@@ -3,7 +3,7 @@
 <body>
 Title: Blessing over Separation, by Shelby Handler<br />
 Primary contributor: shelby.handler<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=18155">http://opensiddur.org/?p=18155</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=18155">http://opensiddur.org/?p=18155</a>
 <p />
 <hr />
 

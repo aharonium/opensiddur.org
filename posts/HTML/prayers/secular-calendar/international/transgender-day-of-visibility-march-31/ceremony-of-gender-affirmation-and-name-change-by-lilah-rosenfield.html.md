@@ -3,7 +3,7 @@
 <body>
 Title: Ceremony of Gender Affirmation and Name Change, by Lilah Rosenfield<br />
 Primary contributor: lilah.rosenfield<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=24384">http://opensiddur.org/?p=24384</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=24384">http://opensiddur.org/?p=24384</a>
 <p />
 <hr />
 

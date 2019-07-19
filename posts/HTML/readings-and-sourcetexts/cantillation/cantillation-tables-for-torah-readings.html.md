@@ -3,7 +3,7 @@
 <body>
 Title: טעמי המקרא | Cantillation Tables for Torah Readings<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=7627">http://opensiddur.org/?p=7627</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=7627">http://opensiddur.org/?p=7627</a>
 <p />
 <hr />
 

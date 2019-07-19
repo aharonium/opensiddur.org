@@ -3,7 +3,7 @@
 <body>
 Title: אשר יצר | Asher Yatsar prayer for recognizing the Divine Image in all our bodies by R' Emily Aviva Kapor<br />
 Primary contributor: emily.aviva.kapor<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=10348">http://opensiddur.org/?p=10348</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=10348">http://opensiddur.org/?p=10348</a>
 <p />
 <hr />
 

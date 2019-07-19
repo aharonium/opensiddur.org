@@ -3,7 +3,7 @@
 <body>
 Title: תהלים קל״ה | Psalms 135, translated by Isaac Gantwerk Mayer<br />
 Primary contributor: isaac.gantwerk-mayer<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=25128">http://opensiddur.org/?p=25128</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=25128">http://opensiddur.org/?p=25128</a>
 <p />
 <hr />
 

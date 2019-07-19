@@ -3,7 +3,7 @@
 <body>
 Title: פורים | Learn the Kriyat Megillat Esther with Rabbi Hillel Yisraeli-Lavery<br />
 Primary contributor: hillel.yisraeli-lavery<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=4515">http://opensiddur.org/?p=4515</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=4515">http://opensiddur.org/?p=4515</a>
 <p />
 <hr />
 

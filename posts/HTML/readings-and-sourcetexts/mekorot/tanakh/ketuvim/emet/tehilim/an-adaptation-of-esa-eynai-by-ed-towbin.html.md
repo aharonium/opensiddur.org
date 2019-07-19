@@ -3,7 +3,7 @@
 <body>
 Title: אֶשָׂא עֵנַי | An adaptation of Esa Eynai (Psalms 121:1-2), by Ed Towbin-Issur haLevi<br />
 Primary contributor: ed.towbin<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=20117">http://opensiddur.org/?p=20117</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=20117">http://opensiddur.org/?p=20117</a>
 <p />
 <hr />
 

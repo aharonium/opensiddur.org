@@ -3,7 +3,7 @@
 <body>
 Title: פָּרָשַׁת לֶךְ־לְךָ | Parashat Lekh Lekha (Genesis 12:1-17:27), color-coded according to its narrative layers<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=22085">http://opensiddur.org/?p=22085</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=22085">http://opensiddur.org/?p=22085</a>
 <p />
 <hr />
 

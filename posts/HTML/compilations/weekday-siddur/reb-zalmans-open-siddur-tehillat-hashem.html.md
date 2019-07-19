@@ -3,7 +3,7 @@
 <body>
 Title: סידור תהילת ה׳ ידבר פי | Siddur Tehillat Hashem Yidaber Pi: A Weekday Siddur ~ As I Can Say It (for Praying in the Vernacular), by Rabbi Zalman Schachter-Shalomi (2009)<br />
 Primary contributor: zalman.schachter-shalomi<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=177">http://opensiddur.org/?p=177</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=177">http://opensiddur.org/?p=177</a>
 <p />
 <hr />
 

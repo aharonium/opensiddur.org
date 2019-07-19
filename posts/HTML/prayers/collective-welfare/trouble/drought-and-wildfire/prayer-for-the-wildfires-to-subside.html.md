@@ -3,7 +3,7 @@
 <body>
 Title: תפילה לעת שרפה - וחמת האש תשכך | Prayer for the Wildfires to Subside (Masorti Foundation, trans. by R' Jonah Rank)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=14761">http://opensiddur.org/?p=14761</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=14761">http://opensiddur.org/?p=14761</a>
 <p />
 <hr />
 

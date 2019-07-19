@@ -3,7 +3,7 @@
 <body>
 Title: Torah Reading for Parashat Bo (Exodus 10:1-13:16): Chantable English translation with trōp, by Len Fellman<br />
 Primary contributor: len.fellman<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=23241">http://opensiddur.org/?p=23241</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=23241">http://opensiddur.org/?p=23241</a>
 <p />
 <hr />
 

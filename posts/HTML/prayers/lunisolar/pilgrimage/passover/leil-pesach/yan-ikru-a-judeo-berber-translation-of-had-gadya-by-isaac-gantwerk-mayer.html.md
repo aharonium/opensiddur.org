@@ -3,7 +3,7 @@
 <body>
 Title: יַאן יִכְּרוּ | Yan ikru :: a Judeo-Berber Translation of Ḥad Gadya, by Isaac Gantwerk Mayer<br />
 Primary contributor: isaac.gantwerk-mayer<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=24621">http://opensiddur.org/?p=24621</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=24621">http://opensiddur.org/?p=24621</a>
 <p />
 <hr />
 

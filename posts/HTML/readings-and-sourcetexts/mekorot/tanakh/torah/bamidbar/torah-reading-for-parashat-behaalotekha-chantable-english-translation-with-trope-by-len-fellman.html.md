@@ -3,7 +3,7 @@
 <body>
 Title: Torah Reading for Parashat Beha'alotekha (Numbers 8:1-12:16): Chantable English translation with trōp, by Len Fellman<br />
 Primary contributor: len.fellman<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=25637">http://opensiddur.org/?p=25637</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=25637">http://opensiddur.org/?p=25637</a>
 <p />
 <hr />
 

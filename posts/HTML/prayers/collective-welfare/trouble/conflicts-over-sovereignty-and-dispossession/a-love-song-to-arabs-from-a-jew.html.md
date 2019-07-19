@@ -3,7 +3,7 @@
 <body>
 Title: A Love Song to Arabs from a Jew, by Pesach Dahvid Stadlin (2011)<br />
 Primary contributor: pesachtree<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=3928">http://opensiddur.org/?p=3928</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=3928">http://opensiddur.org/?p=3928</a>
 <p />
 <hr />
 

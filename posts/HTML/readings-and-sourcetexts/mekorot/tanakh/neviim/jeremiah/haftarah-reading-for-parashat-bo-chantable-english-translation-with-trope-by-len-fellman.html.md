@@ -3,7 +3,7 @@
 <body>
 Title: Haftarah Reading for Parashat Bo (Jeremiah 46:13-28): Chantable English translation with trōp, by Len Fellman<br />
 Primary contributor: len.fellman<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=23246">http://opensiddur.org/?p=23246</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=23246">http://opensiddur.org/?p=23246</a>
 <p />
 <hr />
 

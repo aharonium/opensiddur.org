@@ -3,7 +3,7 @@
 <body>
 Title: ברכות לנרות חנוכה | the Blessing over kindling the Ḥanukkah lights, (German trans. by Chajm Guski)<br />
 Primary contributor: Chajm<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=1530">http://opensiddur.org/?p=1530</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=1530">http://opensiddur.org/?p=1530</a>
 <p />
 <hr />
 

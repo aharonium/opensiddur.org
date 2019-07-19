@@ -3,7 +3,7 @@
 <body>
 Title: ברוך שאמר | Barukh She’amar, interpretive translation by Reb Zalman Schachter-Shalomi z"l<br />
 Primary contributor: zalman.schachter-shalomi<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=17825">http://opensiddur.org/?p=17825</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=17825">http://opensiddur.org/?p=17825</a>
 <p />
 <hr />
 

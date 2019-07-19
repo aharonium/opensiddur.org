@@ -3,7 +3,7 @@
 <body>
 Title: תחנה אמהות | Tkhine of the Matriarchs for the Torah Reading on Rosh Hashanah (Genesis 21:1–34) by Seril Rappaport (ca. 18th century)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=14040">http://opensiddur.org/?p=14040</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=14040">http://opensiddur.org/?p=14040</a>
 <p />
 <hr />
 

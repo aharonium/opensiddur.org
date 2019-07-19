@@ -3,7 +3,7 @@
 <body>
 Title: חנוכה שמח - מנדלה | Ḥanukkah Sameaḥ Mandala by Ḥatul Yehudi (Cat Jew)<br />
 Primary contributor: cat.jew<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=12368">http://opensiddur.org/?p=12368</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=12368">http://opensiddur.org/?p=12368</a>
 <p />
 <hr />
 

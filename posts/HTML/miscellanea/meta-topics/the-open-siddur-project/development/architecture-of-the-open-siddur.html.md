@@ -3,7 +3,7 @@
 <body>
 Title: Architecture of the Open Siddur<br />
 Primary contributor: Efraim<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=272">http://opensiddur.org/?p=272</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=272">http://opensiddur.org/?p=272</a>
 <p />
 <hr />
 

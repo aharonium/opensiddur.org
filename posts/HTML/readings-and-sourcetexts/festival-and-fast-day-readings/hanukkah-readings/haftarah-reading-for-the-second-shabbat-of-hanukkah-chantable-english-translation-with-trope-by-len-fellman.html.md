@@ -3,7 +3,7 @@
 <body>
 Title: Haftarah Reading for the Second Shabbat of Ḥanukkah (I Kings 7:40-50): Chantable English translation with trōp, by Len Fellman<br />
 Primary contributor: len.fellman<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=22776">http://opensiddur.org/?p=22776</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=22776">http://opensiddur.org/?p=22776</a>
 <p />
 <hr />
 

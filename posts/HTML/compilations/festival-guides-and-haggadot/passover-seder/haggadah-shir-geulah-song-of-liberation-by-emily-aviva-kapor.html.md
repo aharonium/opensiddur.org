@@ -3,7 +3,7 @@
 <body>
 Title: הגדה שיר געולה | Haggadah Shir Ge’ulah (Song of Liberation) for Passover, by Rabbi Emily Aviva Kapor-Mater<br />
 Primary contributor: emily.aviva.kapor<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=8819">http://opensiddur.org/?p=8819</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=8819">http://opensiddur.org/?p=8819</a>
 <p />
 <hr />
 

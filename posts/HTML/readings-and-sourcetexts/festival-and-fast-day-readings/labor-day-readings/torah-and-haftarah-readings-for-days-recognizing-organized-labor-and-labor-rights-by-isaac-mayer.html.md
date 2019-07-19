@@ -3,7 +3,7 @@
 <body>
 Title: קריאות לימי העבודה | Torah and Haftarah Readings for Days Recognizing Organized Labor and Labor Rights, compiled by Isaac Gantwerk Mayer<br />
 Primary contributor: isaac.gantwerk-mayer<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=26046">http://opensiddur.org/?p=26046</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=26046">http://opensiddur.org/?p=26046</a>
 <p />
 <hr />
 

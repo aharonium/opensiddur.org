@@ -3,7 +3,7 @@
 <body>
 Title: 'Make yourself into a maqom hefker': Primary sources on open-source in Judaism (sourcesheet)<br />
 Primary contributor: aharon-nissn.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=8397">http://opensiddur.org/?p=8397</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=8397">http://opensiddur.org/?p=8397</a>
 <p />
 <hr />
 

@@ -3,7 +3,7 @@
 <body>
 Title: שִׁוִּיתִי | Shiviti by Mashiah Asgari, circa late 19th – early 20th century Herat, Afghanistan<br />
 Primary contributor: andrew.meit<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=3425">http://opensiddur.org/?p=3425</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=3425">http://opensiddur.org/?p=3425</a>
 <p />
 <hr />
 

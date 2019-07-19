@@ -3,7 +3,7 @@
 <body>
 Title: Prayer of the Guest Chaplain of the U.S. Senate: Rabbi Leslie Gutterman on 15 September 2011<br />
 Primary contributor: United-States.Congressional-Record<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=23104">http://opensiddur.org/?p=23104</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=23104">http://opensiddur.org/?p=23104</a>
 <p />
 <hr />
 

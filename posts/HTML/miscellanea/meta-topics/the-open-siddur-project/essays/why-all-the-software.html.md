@@ -3,7 +3,7 @@
 <body>
 Title: Why all the software? by Efraim Feinstein<br />
 Primary contributor: Efraim<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=221">http://opensiddur.org/?p=221</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=221">http://opensiddur.org/?p=221</a>
 <p />
 <hr />
 

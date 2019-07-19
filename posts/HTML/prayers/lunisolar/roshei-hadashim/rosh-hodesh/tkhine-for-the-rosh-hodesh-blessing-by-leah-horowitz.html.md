@@ -3,7 +3,7 @@
 <body>
 Title: תְּחִנָה פון רֹאשׁ חוֹדֶשׁ בענטשן | Tkhine for the Rosh Ḥodesh Blessing, by Sarah Rivka Raḥel Leah Horowitz (ca. 18th c.)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=15526">http://opensiddur.org/?p=15526</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=15526">http://opensiddur.org/?p=15526</a>
 <p />
 <hr />
 

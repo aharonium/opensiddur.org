@@ -3,7 +3,7 @@
 <body>
 Title: ואחד גׄדי | Waaḥid Jady :: a Judeo-Arabic Translation of Ḥad Gadya, by Isaac Gantwerk Mayer<br />
 Primary contributor: isaac.gantwerk-mayer<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=24599">http://opensiddur.org/?p=24599</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=24599">http://opensiddur.org/?p=24599</a>
 <p />
 <hr />
 

@@ -3,7 +3,7 @@
 <body>
 Title: תפלת מנחה לשבת | Shabbat Minḥah Prayers, a prayer-pamphlet by Dr. Jakob J. Petuchowski (1966)<br />
 Primary contributor: sam.petuchowski<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=1355">http://opensiddur.org/?p=1355</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=1355">http://opensiddur.org/?p=1355</a>
 <p />
 <hr />
 

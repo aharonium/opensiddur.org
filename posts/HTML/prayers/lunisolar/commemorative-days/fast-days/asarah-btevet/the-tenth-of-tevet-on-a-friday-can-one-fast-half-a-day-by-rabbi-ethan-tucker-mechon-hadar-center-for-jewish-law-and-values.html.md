@@ -3,7 +3,7 @@
 <body>
 Title: עשרה בטבת | The Tenth of Tevet on a Friday, Can one fast half a day? by Rabbi Ethan Tucker (Mechon Hadar, Center for Jewish Law and Values)<br />
 Primary contributor: ethan.tucker<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=7827">http://opensiddur.org/?p=7827</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=7827">http://opensiddur.org/?p=7827</a>
 <p />
 <hr />
 

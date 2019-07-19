@@ -3,7 +3,7 @@
 <body>
 Title: תפילה לשלום העם הסורי | Prayer for the Peace of the Syrian People (Rabbi Yuval Cherlow, 2013) trans. Elli Sacks<br />
 Primary contributor: yuval.cherlow<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=15291">http://opensiddur.org/?p=15291</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=15291">http://opensiddur.org/?p=15291</a>
 <p />
 <hr />
 

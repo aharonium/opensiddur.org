@@ -3,7 +3,7 @@
 <body>
 Title: תפילת יחיד | Tefillat yaḥid: a prayer for when praying by oneself, by David Zvi Kalman<br />
 Primary contributor: dzkalman<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=2856">http://opensiddur.org/?p=2856</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=2856">http://opensiddur.org/?p=2856</a>
 <p />
 <hr />
 

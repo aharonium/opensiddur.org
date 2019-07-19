@@ -3,7 +3,7 @@
 <body>
 Title: תפילה למעמד המשותף | أغنية الحياة والسلام | Prayer of Mothers for Life and Peace by Sheikha Ibtisam Maḥameed and Rabbi Tamar Elad-Appelbaum<br />
 Primary contributor: tamar.elad-appelbaum<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=9158">http://opensiddur.org/?p=9158</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=9158">http://opensiddur.org/?p=9158</a>
 <p />
 <hr />
 

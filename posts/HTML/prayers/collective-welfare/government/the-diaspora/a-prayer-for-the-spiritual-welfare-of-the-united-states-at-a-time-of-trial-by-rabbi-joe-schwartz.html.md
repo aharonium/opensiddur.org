@@ -3,7 +3,7 @@
 <body>
 Title: תְּפִלָּה לְמַעַן אַרְצוֹת הַבְּרִית בְּעֵת נִסָּיוֹן | A Prayer for the United States at a Time of Trial, by Rabbi Joe Schwartz<br />
 Primary contributor: RabbiJoeSchwartz<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=25842">http://opensiddur.org/?p=25842</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=25842">http://opensiddur.org/?p=25842</a>
 <p />
 <hr />
 

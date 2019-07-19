@@ -3,7 +3,7 @@
 <body>
 Title: סידור עֹלת תמיד | Siddur Olas Tamid, by Aaron Wolf (2018)<br />
 Primary contributor: aaron.wolf<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=19550">http://opensiddur.org/?p=19550</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=19550">http://opensiddur.org/?p=19550</a>
 <p />
 <hr />
 

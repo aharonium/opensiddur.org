@@ -3,7 +3,7 @@
 <body>
 Title: בן סירא מב:כא-מג:לא | ben Sira 42:21-43:31, a hymn of creation translated by Rabbi Mordecai Kaplan<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=20773">http://opensiddur.org/?p=20773</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=20773">http://opensiddur.org/?p=20773</a>
 <p />
 <hr />
 

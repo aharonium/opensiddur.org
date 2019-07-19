@@ -3,7 +3,7 @@
 <body>
 Title: קינות לתשעה באב | Alelai Li: Woe is me! by Elazar ben Killir, circa 7th century CE (translated by Rachel Salston)<br />
 Primary contributor: kalir<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=11883">http://opensiddur.org/?p=11883</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=11883">http://opensiddur.org/?p=11883</a>
 <p />
 <hr />
 

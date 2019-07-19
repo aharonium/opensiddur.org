@@ -3,7 +3,7 @@
 <body>
 Title: סידור קבלת שבת | A Kabbalat Shabbat Siddur, illustrated by Daniel Nebenzahl<br />
 Primary contributor: daniel.nebenzahl<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=7237">http://opensiddur.org/?p=7237</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=7237">http://opensiddur.org/?p=7237</a>
 <p />
 <hr />
 

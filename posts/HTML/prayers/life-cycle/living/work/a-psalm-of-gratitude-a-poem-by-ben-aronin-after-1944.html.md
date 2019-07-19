@@ -3,7 +3,7 @@
 <body>
 Title: A Psalm of Gratitude, a poem by Ben Aronin<br />
 Primary contributor: the-aronin-family<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=23529">http://opensiddur.org/?p=23529</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=23529">http://opensiddur.org/?p=23529</a>
 <p />
 <hr />
 

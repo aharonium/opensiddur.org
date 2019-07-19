@@ -3,7 +3,7 @@
 <body>
 Title: תהלים כט | Psalms 29, an interpretive translation by Avi Dolgin<br />
 Primary contributor: avi.dolgin<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=3199">http://opensiddur.org/?p=3199</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=3199">http://opensiddur.org/?p=3199</a>
 <p />
 <hr />
 

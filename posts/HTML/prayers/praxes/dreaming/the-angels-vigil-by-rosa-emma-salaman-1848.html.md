@@ -3,7 +3,7 @@
 <body>
 Title: The Angels’ Vigil, a poem by Rosa Emma Salaman (1848)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=16479">http://opensiddur.org/?p=16479</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=16479">http://opensiddur.org/?p=16479</a>
 <p />
 <hr />
 

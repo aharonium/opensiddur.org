@@ -3,7 +3,7 @@
 <body>
 Title: קינות לתשעה באב | Oy Meh Haya Lanu: Oy What Has Happened to Us, by Baruch ben Samuel d.1221 (translated by Rachel Salston)<br />
 Primary contributor: rachel-salston<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=11878">http://opensiddur.org/?p=11878</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=11878">http://opensiddur.org/?p=11878</a>
 <p />
 <hr />
 

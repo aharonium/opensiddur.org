@@ -3,7 +3,7 @@
 <body>
 Title: און קאבﬞריטיקו | Un Kavritiko :: a Judezmo (Ladino) Translation of Ḥad Gadya, by Isaac Gantwerk Mayer<br />
 Primary contributor: isaac.gantwerk-mayer<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=24616">http://opensiddur.org/?p=24616</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=24616">http://opensiddur.org/?p=24616</a>
 <p />
 <hr />
 

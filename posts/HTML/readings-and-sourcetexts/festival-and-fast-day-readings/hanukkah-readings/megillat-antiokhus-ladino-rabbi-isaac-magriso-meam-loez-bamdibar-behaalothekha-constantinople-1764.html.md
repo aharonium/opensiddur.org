@@ -3,7 +3,7 @@
 <body>
 Title: מגילת אנטיוכס | Megillat Antiokhus in Ladino by Rabbi Isaac Magriso (Me'am Lo'ez: Bamdibar BeHa'alothekha, Constantinople 1764)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=14886">http://opensiddur.org/?p=14886</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=14886">http://opensiddur.org/?p=14886</a>
 <p />
 <hr />
 

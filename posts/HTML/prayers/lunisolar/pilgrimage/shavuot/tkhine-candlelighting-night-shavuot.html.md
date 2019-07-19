@@ -3,7 +3,7 @@
 <body>
 Title: תְּחִינָה לִשָּׁבוּעוֺת נאָך ליכט צינדן | Tkhine upon Candlelighting at the Onset of Shavuot<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=13617">http://opensiddur.org/?p=13617</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=13617">http://opensiddur.org/?p=13617</a>
 <p />
 <hr />
 

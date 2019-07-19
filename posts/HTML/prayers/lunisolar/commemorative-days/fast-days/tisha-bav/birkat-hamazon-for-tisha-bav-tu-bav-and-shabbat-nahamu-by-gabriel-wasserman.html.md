@@ -3,7 +3,7 @@
 <body>
 Title: Birkat Hamazon additions for Tisha b’Av, Shabbat Naḥamu, and Tu b’Av by Gabriel Wasserman<br />
 Primary contributor: mar.gavriel<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=6817">http://opensiddur.org/?p=6817</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=6817">http://opensiddur.org/?p=6817</a>
 <p />
 <hr />
 

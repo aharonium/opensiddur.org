@@ -3,7 +3,7 @@
 <body>
 Title: פָּרָשַׁת בְּחֻקֹּתַי | Parashat b'Ḥuqotai (Leviticus 26:3-27:34), color-coded according to its narrative layers<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=25087">http://opensiddur.org/?p=25087</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=25087">http://opensiddur.org/?p=25087</a>
 <p />
 <hr />
 

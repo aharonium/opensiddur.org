@@ -3,7 +3,7 @@
 <body>
 Title: Prayer at the National Commemoration of the 34th Anniversary of the Beirut Barracks Bombing, by Rabbi Arnold Resnicoff 23 October 2017<br />
 Primary contributor: arnold.resnicoff<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=22898">http://opensiddur.org/?p=22898</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=22898">http://opensiddur.org/?p=22898</a>
 <p />
 <hr />
 

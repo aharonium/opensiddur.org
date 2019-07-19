@@ -3,7 +3,7 @@
 <body>
 Title: חשבון הפנים | An accounting of punny foods for the Rosh Hashanah feast<br />
 Primary contributor: stephen.belsky<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=3969">http://opensiddur.org/?p=3969</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=3969">http://opensiddur.org/?p=3969</a>
 <p />
 <hr />
 

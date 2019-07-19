@@ -3,7 +3,7 @@
 <body>
 Title: שיר של מרים הנביאה | The Song of Miriam, a petiḥah by Rabbi Ruth H. Sohn (1981)<br />
 Primary contributor: ruth-h.sohn<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=15189">http://opensiddur.org/?p=15189</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=15189">http://opensiddur.org/?p=15189</a>
 <p />
 <hr />
 

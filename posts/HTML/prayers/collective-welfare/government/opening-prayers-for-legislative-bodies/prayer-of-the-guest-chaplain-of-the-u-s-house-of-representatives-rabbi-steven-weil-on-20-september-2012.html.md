@@ -3,7 +3,7 @@
 <body>
 Title: Prayer of the Guest Chaplain of the U.S. House of Representatives: Rabbi Steven Weil on 20 September 2012<br />
 Primary contributor: United-States.Congressional-Record<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=23082">http://opensiddur.org/?p=23082</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=23082">http://opensiddur.org/?p=23082</a>
 <p />
 <hr />
 

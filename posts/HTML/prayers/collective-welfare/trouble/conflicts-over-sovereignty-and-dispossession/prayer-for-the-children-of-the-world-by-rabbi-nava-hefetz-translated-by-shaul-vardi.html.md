@@ -3,7 +3,7 @@
 <body>
 Title: תפילה למען ילדי העולם | Prayer for the Children of the World, by Rabbi Nava Hefetz<br />
 Primary contributor: nava.hefetz<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=12184">http://opensiddur.org/?p=12184</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=12184">http://opensiddur.org/?p=12184</a>
 <p />
 <hr />
 

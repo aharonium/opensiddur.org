@@ -3,7 +3,7 @@
 <body>
 Title: Preserving Public Domain resources from End User License Agreements in Proprietary Torah Databases<br />
 Primary contributor: aharon-nissn.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=201">http://opensiddur.org/?p=201</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=201">http://opensiddur.org/?p=201</a>
 <p />
 <hr />
 

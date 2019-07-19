@@ -3,7 +3,7 @@
 <body>
 Title: די דעקלאראציע פון אומאָפּהענגיקײט | The Declaration of Independence of the United States of America, 1776 (Yiddish translation, 1954)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=25901">http://opensiddur.org/?p=25901</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=25901">http://opensiddur.org/?p=25901</a>
 <p />
 <hr />
 

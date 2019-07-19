@@ -3,7 +3,7 @@
 <body>
 Title: תְּפִלָּה יְהוּדִית לְיוֹם הַנַּכְּבָּה | A Jewish Prayer for Nakba Day (يوم النكبة), by Sarah M.<br />
 Primary contributor: sarah.m<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=8938">http://opensiddur.org/?p=8938</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=8938">http://opensiddur.org/?p=8938</a>
 <p />
 <hr />
 

@@ -3,7 +3,7 @@
 <body>
 Title: Prayer of the Guest Chaplain of the U.S. House of Representatives: Rabbi David Algaze on 11 July 2012<br />
 Primary contributor: United-States.Congressional-Record<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=23085">http://opensiddur.org/?p=23085</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=23085">http://opensiddur.org/?p=23085</a>
 <p />
 <hr />
 

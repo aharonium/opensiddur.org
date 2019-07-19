@@ -3,7 +3,7 @@
 <body>
 Title: Am Thora-Freudenfest | [A prayer] on Simḥat Torah, by Fanny Neuda (1855)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=21914">http://opensiddur.org/?p=21914</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=21914">http://opensiddur.org/?p=21914</a>
 <p />
 <hr />
 

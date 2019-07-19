@@ -3,7 +3,7 @@
 <body>
 Title: A prayer for the Greater Iowa City Church of the Nazarene, by Rabbi Menachem Creditor<br />
 Primary contributor: menachem.creditor<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=24178">http://opensiddur.org/?p=24178</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=24178">http://opensiddur.org/?p=24178</a>
 <p />
 <hr />
 

@@ -3,7 +3,7 @@
 <body>
 Title: דיא װײבּער װאס האבּין אײן שׁװערין מזל צו קינדר זאלין דיא תחנה זאגין | Women who Have Bad Luck with Children Should Recite this Tkhine (1910)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=14013">http://opensiddur.org/?p=14013</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=14013">http://opensiddur.org/?p=14013</a>
 <p />
 <hr />
 

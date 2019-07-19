@@ -3,7 +3,7 @@
 <body>
 Title: Access, Sharing, and Innovation through Digitization and the Public Domain<br />
 Primary contributor: aharon-nissn.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=420">http://opensiddur.org/?p=420</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=420">http://opensiddur.org/?p=420</a>
 <p />
 <hr />
 

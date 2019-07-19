@@ -3,7 +3,7 @@
 <body>
 Title: Prayer of the Guest Chaplain of the U.S. House of Representatives: Rabbi Michael Siegel on 30 April 2015<br />
 Primary contributor: United-States.Congressional-Record<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=21516">http://opensiddur.org/?p=21516</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=21516">http://opensiddur.org/?p=21516</a>
 <p />
 <hr />
 

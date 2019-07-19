@@ -3,7 +3,7 @@
 <body>
 Title: God’s Goodness — the Testament of America, for Thanksgiving Day by Rabbi Milton Steinberg (1945)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=25370">http://opensiddur.org/?p=25370</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=25370">http://opensiddur.org/?p=25370</a>
 <p />
 <hr />
 

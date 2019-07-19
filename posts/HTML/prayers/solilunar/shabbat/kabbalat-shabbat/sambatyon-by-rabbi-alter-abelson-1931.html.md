@@ -3,7 +3,7 @@
 <body>
 Title: Sambatyon, a poem for Shabbat by Rabbi Alter Abelson (1931)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=23341">http://opensiddur.org/?p=23341</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=23341">http://opensiddur.org/?p=23341</a>
 <p />
 <hr />
 

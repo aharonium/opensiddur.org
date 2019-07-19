@@ -3,7 +3,7 @@
 <body>
 Title: ריבונו של עולם הריני מוחל | Prayer of Forgiveness by Rabbi Yitsḥak Luria z"l, from the Bedtime Shema (translation by Reb Zalman Schachter-Shalomi)<br />
 Primary contributor: zalman.schachter-shalomi<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=16104">http://opensiddur.org/?p=16104</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=16104">http://opensiddur.org/?p=16104</a>
 <p />
 <hr />
 

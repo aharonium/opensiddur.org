@@ -3,7 +3,7 @@
 <body>
 Title: ברכת הורים לבר או בת מצווה | Parents' blessing for a Bar or Bat Mitsvah by Rabbi Dr. Aryeh Cohen<br />
 Primary contributor: aryeh.cohen<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=10389">http://opensiddur.org/?p=10389</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=10389">http://opensiddur.org/?p=10389</a>
 <p />
 <hr />
 

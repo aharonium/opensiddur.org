@@ -3,7 +3,7 @@
 <body>
 Title: שחרית לשבת (אשכנז)‏ | Shaḥarit (Shabbat) Nusaḥ Ashkenaz, from Seder Avodat Yisrael (Isaac Seligman Baer, 1868)<br />
 Primary contributor: isaac-seligman.baer<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=10812">http://opensiddur.org/?p=10812</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=10812">http://opensiddur.org/?p=10812</a>
 <p />
 <hr />
 

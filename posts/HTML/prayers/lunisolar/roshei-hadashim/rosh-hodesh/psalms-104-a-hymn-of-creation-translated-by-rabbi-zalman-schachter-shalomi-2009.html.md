@@ -3,7 +3,7 @@
 <body>
 Title: תהלים ק״ד | Psalms 104, a hymn of creation translated by Rabbi Zalman Schachter-Shalomi (2009)<br />
 Primary contributor: zalman.schachter-shalomi<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=20811">http://opensiddur.org/?p=20811</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=20811">http://opensiddur.org/?p=20811</a>
 <p />
 <hr />
 

@@ -3,7 +3,7 @@
 <body>
 Title: חֶסֶד־וּמִשְׁפָּט אָשִׁירָה לְךָ | Ḥesed uMishpat Ashirah Lekha, a bentsher celebrating the wedding of Isaac Brooks and Eliana Fishman (2018)<br />
 Primary contributor: isaac.brooks-fishman<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=25960">http://opensiddur.org/?p=25960</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=25960">http://opensiddur.org/?p=25960</a>
 <p />
 <hr />
 

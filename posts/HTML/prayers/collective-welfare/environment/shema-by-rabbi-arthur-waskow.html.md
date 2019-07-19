@@ -3,7 +3,7 @@
 <body>
 Title: שמע | Sh’ma: an Interpretation for the 21st Century by Rabbi Arthur Waskow (2003)<br />
 Primary contributor: arthur.waskow<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=3580">http://opensiddur.org/?p=3580</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=3580">http://opensiddur.org/?p=3580</a>
 <p />
 <hr />
 

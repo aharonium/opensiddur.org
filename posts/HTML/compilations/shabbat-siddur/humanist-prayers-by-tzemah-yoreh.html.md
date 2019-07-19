@@ -3,7 +3,7 @@
 <body>
 Title: A Love Song for Shabbat, a Humanist supplement to the Kabbalat Shabbat Siddur by Dr. Tzemaḥ Yoreh<br />
 Primary contributor: tzemah.yoreh<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=7261">http://opensiddur.org/?p=7261</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=7261">http://opensiddur.org/?p=7261</a>
 <p />
 <hr />
 

@@ -3,7 +3,7 @@
 <body>
 Title: Siddur Class: Sourcesheets from Amit Gvaryahu’s Shiur on Tefillah<br />
 Primary contributor: amit.gvaryahu<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=3829">http://opensiddur.org/?p=3829</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=3829">http://opensiddur.org/?p=3829</a>
 <p />
 <hr />
 

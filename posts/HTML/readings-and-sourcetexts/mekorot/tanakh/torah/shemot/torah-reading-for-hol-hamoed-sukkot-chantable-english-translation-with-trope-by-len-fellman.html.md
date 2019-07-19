@@ -3,7 +3,7 @@
 <body>
 Title: Torah Reading for Ḥol HaMo'ed Sukkot (Exodus 33:12-34:26): Chantable English translation with trōp, by Len Fellman<br />
 Primary contributor: len.fellman<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=21763">http://opensiddur.org/?p=21763</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=21763">http://opensiddur.org/?p=21763</a>
 <p />
 <hr />
 

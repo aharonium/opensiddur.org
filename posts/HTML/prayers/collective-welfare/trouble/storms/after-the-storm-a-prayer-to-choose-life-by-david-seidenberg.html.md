@@ -3,7 +3,7 @@
 <body>
 Title: כעבור סופה | After the Storm: A Prayer to Choose Life by Rabbi David Seidenberg (neohasid.org)<br />
 Primary contributor: david.seidenberg<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=5439">http://opensiddur.org/?p=5439</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=5439">http://opensiddur.org/?p=5439</a>
 <p />
 <hr />
 

@@ -3,7 +3,7 @@
 <body>
 Title: פָּרָשַׁת בְּשַׁלַּח | Parashat B'shalaḥ (Exodus 13:17-17:16), color-coded according to its narrative layers<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=23280">http://opensiddur.org/?p=23280</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=23280">http://opensiddur.org/?p=23280</a>
 <p />
 <hr />
 

@@ -3,7 +3,7 @@
 <body>
 Title: שמע | An illustrated meditation on the unification of imagination and awareness through empathy<br />
 Primary contributor: aharon-nissn.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=2910">http://opensiddur.org/?p=2910</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=2910">http://opensiddur.org/?p=2910</a>
 <p />
 <hr />
 

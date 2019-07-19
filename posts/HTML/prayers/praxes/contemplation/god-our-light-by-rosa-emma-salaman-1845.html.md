@@ -3,7 +3,7 @@
 <body>
 Title: God Our Light, a poem by Rosa Emma Salaman (1845)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=16507">http://opensiddur.org/?p=16507</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=16507">http://opensiddur.org/?p=16507</a>
 <p />
 <hr />
 

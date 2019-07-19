@@ -3,7 +3,7 @@
 <body>
 Title: תפלת בקר של שבת | Sabbath Morning Prayer, based upon the Karaite Prayerbook of Abraham Firkovich (1871)<br />
 Primary contributor: nehemia.gordon<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=24633">http://opensiddur.org/?p=24633</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=24633">http://opensiddur.org/?p=24633</a>
 <p />
 <hr />
 

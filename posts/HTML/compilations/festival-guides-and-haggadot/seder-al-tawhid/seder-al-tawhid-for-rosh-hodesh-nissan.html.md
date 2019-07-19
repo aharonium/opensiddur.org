@@ -3,7 +3,7 @@
 <body>
 Title: סדר אל־תוחיד | Seder al-Tawḥid for Rosh Ḥodesh Nissan<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=24426">http://opensiddur.org/?p=24426</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=24426">http://opensiddur.org/?p=24426</a>
 <p />
 <hr />
 

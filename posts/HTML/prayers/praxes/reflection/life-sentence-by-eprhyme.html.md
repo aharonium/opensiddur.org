@@ -3,7 +3,7 @@
 <body>
 Title: Life Sentence by Eprhyme<br />
 Primary contributor: eprhyme<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=4146">http://opensiddur.org/?p=4146</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=4146">http://opensiddur.org/?p=4146</a>
 <p />
 <hr />
 

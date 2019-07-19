@@ -3,7 +3,7 @@
 <body>
 Title: הגדה לסדר פסח | Liber Rituum Paschalium, a haggadah in Latin translation by Johann Stephan Rittangel (1644)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=19649">http://opensiddur.org/?p=19649</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=19649">http://opensiddur.org/?p=19649</a>
 <p />
 <hr />
 

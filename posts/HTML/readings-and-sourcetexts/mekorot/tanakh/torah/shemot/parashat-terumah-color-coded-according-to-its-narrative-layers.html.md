@@ -3,7 +3,7 @@
 <body>
 Title: פָּרָשַׁת תְּרוּמָה | Parashat Terumah (Exodus 25:1-27:19), color-coded according to its narrative layers<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=23580">http://opensiddur.org/?p=23580</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=23580">http://opensiddur.org/?p=23580</a>
 <p />
 <hr />
 

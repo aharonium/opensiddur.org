@@ -3,7 +3,7 @@
 <body>
 Title: תְּפִילַת הוֹלְכִים לְאוּנִיבֶרְסִיטָה | Prayer for Those Leaving Home for University, by Isaac Gantwerk Mayer<br />
 Primary contributor: isaac.gantwerk-mayer<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=15556">http://opensiddur.org/?p=15556</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=15556">http://opensiddur.org/?p=15556</a>
 <p />
 <hr />
 

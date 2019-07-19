@@ -3,7 +3,7 @@
 <body>
 Title: קינות לתשעה באב | Eli Tsiyon v'Ar'eha (Mourn Zion and her cities) translated by Joel Goldstein<br />
 Primary contributor: joel-avi.goldstein<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=10454">http://opensiddur.org/?p=10454</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=10454">http://opensiddur.org/?p=10454</a>
 <p />
 <hr />
 

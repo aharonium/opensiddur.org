@@ -3,7 +3,7 @@
 <body>
 Title: Haftarah Reading for Parashat Bereshit (Isaiah 42:5-43:10): Chantable English translation with trōp, by Len Fellman<br />
 Primary contributor: len.fellman<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=22029">http://opensiddur.org/?p=22029</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=22029">http://opensiddur.org/?p=22029</a>
 <p />
 <hr />
 

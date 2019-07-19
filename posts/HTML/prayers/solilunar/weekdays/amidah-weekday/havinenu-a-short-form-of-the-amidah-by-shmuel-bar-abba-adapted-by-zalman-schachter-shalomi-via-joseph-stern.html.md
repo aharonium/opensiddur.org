@@ -3,7 +3,7 @@
 <body>
 Title: הבינינו | Havinenu, a short form of the Amidah by Mar Shmuel bar Abba, adapted by Reb Zalman Schachter-Shalomi from a paraphrasing by Rev. Joseph F. Stern<br />
 Primary contributor: joseph-frederick.stern<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=21089">http://opensiddur.org/?p=21089</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=21089">http://opensiddur.org/?p=21089</a>
 <p />
 <hr />
 

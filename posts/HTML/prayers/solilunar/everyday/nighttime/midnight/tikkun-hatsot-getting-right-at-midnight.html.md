@@ -3,7 +3,7 @@
 <body>
 Title: חצות | Tikkun Ḥatsot: Getting Right at Midnight — An Introduction to the Midnight Rite by Shmuel Gonzales<br />
 Primary contributor: kosherchorizo<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=1769">http://opensiddur.org/?p=1769</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=1769">http://opensiddur.org/?p=1769</a>
 <p />
 <hr />
 

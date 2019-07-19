@@ -3,7 +3,7 @@
 <body>
 Title: הברכה שמח תשמח | Blessing for Joy: A Poetic Rendering of Sheva Brakhah no. 6 (Same'aḥ T'samaḥ), by Daniel Kieval<br />
 Primary contributor: daniel.kieval<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=22056">http://opensiddur.org/?p=22056</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=22056">http://opensiddur.org/?p=22056</a>
 <p />
 <hr />
 

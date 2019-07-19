@@ -3,7 +3,7 @@
 <body>
 Title: אֵשֶׁת חַיִל | Eyshet Ḥayil, adapted by Alex and Peri Sinclair<br />
 Primary contributor: peri.sinclair<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=4378">http://opensiddur.org/?p=4378</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=4378">http://opensiddur.org/?p=4378</a>
 <p />
 <hr />
 

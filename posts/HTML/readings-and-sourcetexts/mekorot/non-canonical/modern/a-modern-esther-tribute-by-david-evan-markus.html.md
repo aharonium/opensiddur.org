@@ -3,7 +3,7 @@
 <body>
 Title: A Modern Esther Tribute for Purim and Women's History Month, by Rabbi David Evan Markus<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=18946">http://opensiddur.org/?p=18946</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=18946">http://opensiddur.org/?p=18946</a>
 <p />
 <hr />
 

@@ -3,7 +3,7 @@
 <body>
 Title: סידור עבודת ישראל | Siddur Aḅodath Yisrael, 2nd revised edition (1873) arranged by R' Benjamin Szold and translated by R' Marcus Jastrow<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=15157">http://opensiddur.org/?p=15157</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=15157">http://opensiddur.org/?p=15157</a>
 <p />
 <hr />
 

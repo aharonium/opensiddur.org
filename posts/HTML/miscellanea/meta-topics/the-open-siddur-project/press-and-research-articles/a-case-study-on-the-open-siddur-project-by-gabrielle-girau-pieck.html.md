@@ -3,7 +3,7 @@
 <body>
 Title: A Case Study on the Open Siddur Project by Gabrielle Girau Pieck (University of Basel, 2014)<br />
 Primary contributor: gabrielle.girau-pieck<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=9359">http://opensiddur.org/?p=9359</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=9359">http://opensiddur.org/?p=9359</a>
 <p />
 <hr />
 

@@ -3,7 +3,7 @@
 <body>
 Title: ז׳ אדר | Ḥonenu Yah Ḥonenu (Forgive Us Yah in the Merit of Moshe Rabbenu)<br />
 Primary contributor: aharon.varady<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=13004">http://opensiddur.org/?p=13004</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=13004">http://opensiddur.org/?p=13004</a>
 <p />
 <hr />
 

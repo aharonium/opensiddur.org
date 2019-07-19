@@ -3,7 +3,7 @@
 <body>
 Title: Development Status (11/11/2009)<br />
 Primary contributor: hierophant<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=227">http://opensiddur.org/?p=227</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=227">http://opensiddur.org/?p=227</a>
 <p />
 <hr />
 

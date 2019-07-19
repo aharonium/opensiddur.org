@@ -3,7 +3,7 @@
 <body>
 Title: תהילים או לוס סאלמוס; טריסלאד'אד'וס דיל לשון הקדש אין לה לינגואה ספרדית | Psalms in Ladino (Estampado por Ǧ. Griffit, ca. 1852/3)<br />
 Primary contributor: estampado.por.g.griffit<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=12927">http://opensiddur.org/?p=12927</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=12927">http://opensiddur.org/?p=12927</a>
 <p />
 <hr />
 

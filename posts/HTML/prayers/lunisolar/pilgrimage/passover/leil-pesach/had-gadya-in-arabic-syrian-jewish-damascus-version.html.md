@@ -3,7 +3,7 @@
 <body>
 Title: ואחד ג'די | أغنية لعيد الفصح اليهودي | Waaḥid Jady :: Ḥad Gadya in Arabic translation (Syrian Damascus variation)<br />
 Primary contributor: eden-miqedem<br />
-Attribution and License: please consult the following URL: <a href="http://opensiddur.org/?p=25674">http://opensiddur.org/?p=25674</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=25674">http://opensiddur.org/?p=25674</a>
 <p />
 <hr />
 
