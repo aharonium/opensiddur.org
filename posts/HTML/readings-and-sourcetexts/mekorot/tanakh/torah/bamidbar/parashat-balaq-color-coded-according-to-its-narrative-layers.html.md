@@ -14,7 +14,7 @@ According to the poetry of the Midrash Tanḥuma, Bereshit 1:1, the words of the
 
 <h3>Legend</h3>
 
-<span class="e">&#11035; The kernel of biblical text upon which all other narratives were laid is thought to have been composed in the mid- to late eighth century BCE toward the end of the heyday of the northern Kingdom of Ephraim (one of the two kingdoms that occupied Biblical Israel). This layer, commonly referred to as 'E', is indicated with INDIGO text. The first parashah containing text of this layer was <a href="https://opensiddur.org/liturgical-readings/torah-readings/annual-cycle/sefer-bereshit/parashat-vayera/parashat-vayera-color-coded-according-to-its-narrative-layers/">parashat Vayera</a> in Sefer Bereshit.</span>
+<span class="e">&#11035; The kernel of biblical text upon which all other narratives were laid is thought to have been composed in the mid- to late eighth century BCE toward the end of the heyday of the northern Kingdom of Ephraim (one of the two kingdoms that occupied Biblical Israel). This layer, commonly referred to as 'E', is indicated with INDIGO text. The first parashah containing text of this layer was <a href="https://opensiddur.org/liturgical-readings/torah-readings/annual-cycle/sefer-bereshit/parashat-vayera/parashat-vayera-color-coded-according-to-its-narrative-layers/">parashat Vayera</a> in Sefer Bereshit. The last parashah containing text from E is Parashat Balaq in Sefer b'Midbar.</span>
 
 <span class="j">&#11035; The next oldest layer is thought to have been composed in the late 8th or early 7th century BCE in the southern Kingdom of Judah. This layer, commonly known as 'J', is indicated with a BLUE text.</span>
 
@@ -26,7 +26,7 @@ According to the poetry of the Midrash Tanḥuma, Bereshit 1:1, the words of the
 
 The 'H' layer is absent from this parashah. 
 
-Parashat Balaq (Numbers 22:2-25:9) in the annual Torah reading cycle is the seventh parashah in Sefer Bamidbar. It is preceded by parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-bamidbar/parashat-huqat/parashat-huqat-color-coded-according-to-its-narrative-layers/">Ḥuqat</a> (Numbers 19:1-22:1). Parashat Pinḥas (Numbers 25:10-30:1) follows it. 
+Parashat Balaq (Numbers 22:2-25:9) in the annual Torah reading cycle is the seventh parashah in Sefer Bamidbar. It is preceded by parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-bamidbar/parashat-huqat/parashat-huqat-color-coded-according-to-its-narrative-layers/">Ḥuqat</a> (Numbers 19:1-22:1). Parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-bamidbar/parashat-pinhas/parashat-pinhas-color-coded-according-to-its-narrative-layers/">Pinḥas</a> (Numbers 25:10-30:1) follows it. 
 </div>
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
@@ -208,7 +208,7 @@ Parashat Balaq (Numbers 22:2-25:9) in the annual Torah reading cycle is the seve
 <div class="english">
 <span class="j"><sup>7</sup>&nbsp;He took up his parable and said: 
 &nbsp;
-"From Aram Balaq led me, Moav's king from the hills of Kedem: Go, damn Yaakov for me, go, execrate Yisra'el! <sup>8</sup>&nbsp;How shall I revile (him) whom El has not reviled, how shall I execrate (him) whom YHVH has not execrated? <sup>9</sup>&nbsp;Indeed, from the top of crags I see him: from hills I behold him: here, a people, alone-in-security it dwells, among the nations it does not need to come-to-reckoning. <sup>10</sup>&nbsp;Who can measure the dust of Yaakov, or (find a) number (for) the dust-clouds of Yisra'el? May I die the death of the upright, may my future be like his!"</span>
+"From Aram Balaq led me, Moav's king from the hills of Qedem: Go, damn Yaakov for me, go, execrate Yisra'el! <sup>8</sup>&nbsp;How shall I revile (him) whom El has not reviled, how shall I execrate (him) whom YHVH has not execrated? <sup>9</sup>&nbsp;Indeed, from the top of crags I see him: from hills I behold him: here, a people, alone-in-security it dwells, among the nations it does not need to come-to-reckoning. <sup>10</sup>&nbsp;Who can measure the dust of Yaakov, or (find a) number (for) the dust-clouds of Yisra'el? May I die the death of the upright, may my future be like his!"</span>
 </div></td></tr>
 
 

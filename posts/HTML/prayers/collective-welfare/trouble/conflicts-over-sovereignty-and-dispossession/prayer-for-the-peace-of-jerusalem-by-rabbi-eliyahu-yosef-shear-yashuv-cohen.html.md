@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: תפילת לשלום ירושלים | Prayer for the Peace of Jerusalem, by Rabbi Eliyahu Yosef She'ar Yashuv Cohen<br />
+Title: תפילה לשלום ירושלים | Prayer for the Peace of Jerusalem, by Rabbi Eliyahu Yosef She'ar Yashuv Cohen<br />
 Primary contributor: aharon.n.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=20519">http://opensiddur.org/?p=20519</a>
 <p />
@@ -13,12 +13,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tr>
 <td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
-אָבִינוּ שֶׁבַּשָּׁמַיִם 
-הַבּוֹחֵר בַּצִּיּוֹן וִירוּשָׁלַיִם 
-אֲשֶׁר אִוִּיתָ לְמוּשָׁב לְךָ אֶת עִיר הַקֹּדֶשׁ,
-בָּרֵךְ כׇּל בּוֹנֶיהָ, 
-בְּנִיָּה וְדוֹרְשֵׁי שְׁלוֹמָהּ, 
-וְשָׁלַח בְּרָכָה וְהַצְלָחָה בְּכׇל מַעֲשֵׂי יְדֵיהֶם. 
+אָבִינוּ שֶׁבַּשָּׁמַֽיִם
+הַבּוֹחֵר בְּצִיּוֹן וִירוּשָׁלַֽיִם
+אֲשֶׁר אִוִּֽיתָ לְמוֹשַׁב לְךָ אֶת עִיר הַקֹּֽדֶשׁ,
+בָּרֵךְ כׇּל בּוֹנֶֽיהָ,
+בָּנֶֽיהָ וְדוֹרְשֵׁי שְׁלוֹמָהּ,
+וּשְׁלַח בְּרָכָה וְהַצְלָחָה בְּכׇל מַעֲשֵׂי יְדֵיהֶם.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
@@ -34,18 +34,18 @@ and send blessing and prosperity in all their handiwork.
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
-וּפְרֹשׂ עָלֶיהָ סֻכַּת שְׁלוֹמֶךָ,
-וְקִיֵּם בָּהּ בַּמִּקְרָא שֶׁכָּתוּב:
+וּפְרֹשׂ עָלֶֽיהָ סֻכַּת שְׁלוֹמֶֽךָ,
+וְקַֽיֶּם־בָּהּ מִקְרָא שֶׁכָּתוּב:
 לְמַעַן צִיּוֹן לֹא אֶחֱשֶׁה 
 וּלְמַעַן יְרוּשָׁלִַם לֹא אֶשְׁקוֹט
 עַד־יֵצֵא כַנֹּגַהּ צִדְקָהּ 
 וִישׁוּעָתָהּ כְּלַפִּיד יִבְעָר׃ <span class="citation">(ישעיהו סב:א)</span>
-וּבָנָה אוֹתָהּ בִּמְהֵרָה בְּיַמֵּנוּ בִּנְיָן עוֹלָם, 
-וְכִסֵּא דָּוִד עַבְדְּךָ בִּמְהֵרָה לְתוֹכָהּ תָּכִין. 
-בָּרוּךְ מְנַחֵם צִּיּוֹן  
-וּבוֹנֶה 	יְרוּשָׁלַיִם 
-מֵעַתָּה וְעַד עוֹלָם, 
-אָמֵן. כֵּן יְהִי רָצוֹן.
+וּבְנֵה אוֹתָהּ בִּמְהֵרָה בְּיָמֵֽינוּ בִּנְיָן עוֹלָם,
+וְכִסֵּא דָּוִד עַבְדְּךָ בִּמְהֵרָה לְתוֹכָהּ תָּכִין.
+בָּרוּךְ מְנַחֵם צִיּוֹן 
+וּבוֹנֵה יְרוּשָׁלַֽיִם
+מֵעַתָּה וְעַד עוֹלָם,
+אָמֵן. כֵּן יְהִי רָצוֹן.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%"><div class="english">
@@ -68,7 +68,7 @@ Amen, may it be your will.
 
 The "Prayer for the Peace of Jerusalem" by the late chief rabbi of Ḥaifa, Eliyahu Yosef She'ar Yashuv Cohen zt"l (1927-2016), is often included in programs praying for peace in Jerusalem in periods of conflict. The text we have transcribed here is that <a href="http://www.unisyn.org.il/images/שבת-ירושלים/חוברת_תפילות_יום_ירושלים.pdf">found in the 2009 Jerusalem Day program</a> of the Union of Synagogues in Israel. We do not know whether the prayer was authored and published at an earlier date. A slightly different version can be heard sung in the recording by <a href="https://youtu.be/Tb8Q4mQdjgY">Ovadia Hamama</a>.
 
-English translation and vocalization by Aharon Varady ("shgiyot mi yavin ministarot nakeni"). For an alternative English translation, see <a href="http://izionist.org/eng/prayer-peace-jerusalem/">here</a>.
+English translation by Aharon Varady and niqqud corrections by Rabbi Dr. Seth (Avi) Kadish. For an alternative English translation, see <a href="http://izionist.org/eng/prayer-peace-jerusalem/">here</a>.
 
 <h3>Source(s)</h3>
 
