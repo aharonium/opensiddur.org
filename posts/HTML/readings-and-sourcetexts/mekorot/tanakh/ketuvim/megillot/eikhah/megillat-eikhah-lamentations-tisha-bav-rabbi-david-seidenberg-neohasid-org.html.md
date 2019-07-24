@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: מגילת איכה | Megillat Eikhah (Lamentations), translation by Rabbi David Seidenberg (neohasid.org)<br />
+Title: מְגִלַּת אֵיכָה | Megillat Eikhah (Lamentations), translation by Rabbi David Seidenberg (neohasid.org)<br />
 Primary contributor: david.seidenberg<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=14238">http://opensiddur.org/?p=14238</a>
 <p />

@@ -251,7 +251,7 @@ od yehallelukha selah
 <td style="vertical-align:top;" width="33%">
 <div class="english">
 Happy are those who dwell in Your house, 
-may they always praise You. <em>Selah</em>![foot]Psalm 84:5[/foot] 
+may they always praise You. Selah![foot]Psalm 84:5[/foot] 
 </div>
 </td></tr>
 
@@ -443,6 +443,12 @@ so that my mouth may speak your praise.[foot]Psalms 51:17[/foot]
 עוֹד יָבוֹא שָׁלוֹם עָלֵינוּ וְעַל כּוּלָם.
 שָׂלָם, עָלֵינוּ וְעַל כׇּל הָעוֹלָם, שָׂלָם, שָׂלֳם.
 </span></div>
+<div class="arabic" style="text-align: right;"><span lang="ar">
+سوف ياتي السلام علينا 
+سوف ياتي السلام علينا 
+سوف ياتي السلام علينا  و على الكل
+سلام علينا و على كل العالم, سلام, سلام
+</span></div>
 </td>
  
 <td style="vertical-align:top;" width="33%">
@@ -451,35 +457,12 @@ Od yavo shalom aleynu,
 od yavo shalom aleynu, 
 od yavo shalom aleynu v'al kulam.
 Salam, aleynu v’al kol ha’olam, Salam, Salam
-</span></div>
-</td>
- 
-<td style="vertical-align:top;" width="33%">
-<div class="english">
-Let there be peace on us.
-Let there be peace on us.
-Let there be peace on us and the world.
-Peace, on us and on the World. Peace, Peace.[foot]adapted from Kaddish[/foot] 
-</div>
-</td></tr>
-
-
-<tr><td style="vertical-align:top;" width="32%">
-<div class="arabic" style="text-align: right;">
-سوف ياتي السلام علينا 
-سوف ياتي السلام علينا 
-سوف ياتي السلام علينا  و على الكل
-سلام علينا و على كل العالم, سلام, سلام</span>
-</span></div>
-</td>
- 
-<td style="vertical-align:top;" width="33%">
-<div class="english">
+&nbsp;
 Sawfa Yaati a-Salam Aleyna.
 Sawfa Yaati a-Salam Aleyna.
 Sawfa Yaati a-Salam Aleyna. Wa alla al-kul 
 Salam, Aleina Wa alla kuhl al-allam, Salam, Salam 
-</div>
+</span></div>
 </td>
  
 <td style="vertical-align:top;" width="33%">

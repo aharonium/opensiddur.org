@@ -226,7 +226,7 @@ Parashat Vayiqra (Leviticus 1:1-5:26) in the annual Torah reading cycle, is read
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="h"><sup>11</sup>&nbsp;"Now if his hand cannot reach two turtledoves or two young pigeons, he is to bring as his near-offering (for) what he sinned a tenth of an efa of flour, for a ḥattat-offering; he is not to put on it (any) oil, he is not to place on it (any) frankincense, for it is a ḥattat-offering. <sup>12</sup>&nbsp;He is to bring it to the kohen, the kohen is to scoop out with his fist a fistful of some of it, as a reminder-portion, and is to turn it into smoke on the Mizbe'aḥ, along with the fire-offerings of YHVH, it is a ḥattat-offering. <sup>13</sup>&nbsp;So the kohen is to effect-atonement for him for his sin whereby he sinned, in (any) one of these, and he shall be granted-pardon. And it shall be for the kohen, like the grain-gift."</span>
+<span class="h"><sup>11</sup>&nbsp;"Now if his hand cannot reach two turtledoves or two young pigeons, he is to bring as his near-offering (for) what he sinned a tenth of an <em>efa</em> of flour, for a ḥattat-offering; he is not to put on it (any) oil, he is not to place on it (any) frankincense, for it is a ḥattat-offering. <sup>12</sup>&nbsp;He is to bring it to the kohen, the kohen is to scoop out with his fist a fistful of some of it, as a reminder-portion, and is to turn it into smoke on the Mizbe'aḥ, along with the fire-offerings of YHVH, it is a ḥattat-offering. <sup>13</sup>&nbsp;So the kohen is to effect-atonement for him for his sin whereby he sinned, in (any) one of these, and he shall be granted-pardon. And it shall be for the kohen, like the grain-gift."</span>
 </div></td></tr>
 
 

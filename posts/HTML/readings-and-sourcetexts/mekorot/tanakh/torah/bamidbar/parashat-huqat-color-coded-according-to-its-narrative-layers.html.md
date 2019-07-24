@@ -137,7 +137,7 @@ Parashat Ḥuqat (Numbers 19:1-22:1) in the annual Torah reading cycle is the si
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="p"><sup>22</sup>&nbsp;They marched on from Qadesh, and they came, the Children of Yisra'el, the entire community, to Hill's Hill. <sup>23</sup>&nbsp;Now YHVH said to Mosheh and to Aharon at Hill's Hill, by the border of the land of Edom, saying: <sup>24</sup>&nbsp;"Let Aharon be gathered to his kinspeople, for he is not to enter the land that I am giving to the Children of Yisra'el — since you (both) rebelled against my orders at the Waters of Merivah. <sup>25</sup>&nbsp;Take Aharon and El'azar his son, and bring them up on Hill's Hill; <sup>26</sup>&nbsp;strip Aharon of his garments and clothe in them El'azar his son. Aharon will be gathered and will die there."</span>
+<span class="p"><sup>22</sup>&nbsp;They marched on from Qadesh, and they came, the Children of Yisra'el, the entire community, to Hor Ha-Har. <sup>23</sup>&nbsp;Now YHVH said to Mosheh and to Aharon at Hor Ha-Har, by the border of the land of Edom, saying: <sup>24</sup>&nbsp;"Let Aharon be gathered to his kinspeople, for he is not to enter the land that I am giving to the Children of Yisra'el — since you (both) rebelled against my orders at the Waters of Merivah. <sup>25</sup>&nbsp;Take Aharon and El'azar his son, and bring them up on Hor Ha-Har; <sup>26</sup>&nbsp;strip Aharon of his garments and clothe in them El'azar his son. Aharon will be gathered and will die there."</span>
 </div></td></tr>
 
 
@@ -148,7 +148,7 @@ Parashat Ḥuqat (Numbers 19:1-22:1) in the annual Torah reading cycle is the si
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="p"><sup>27</sup>&nbsp;So Mosheh did as YHVH commanded him: they went up Hill's Hill before the eyes of the entire community; <sup>28</sup>&nbsp;Mosheh stripped Aharon of his garments and clothed in them El'azar his son. So Aharon died there on top of the hill. When Mosheh and El'azar came down from the hill, <sup>29</sup>&nbsp;the entire community saw that Aharon had expired, and they wept for Aharon thirty days, the whole House of Yisra'el.</span>
+<span class="p"><sup>27</sup>&nbsp;So Mosheh did as YHVH commanded him: they went up Hor Ha-Har before the eyes of the entire community; <sup>28</sup>&nbsp;Mosheh stripped Aharon of his garments and clothed in them El'azar his son. So Aharon died there on top of the hill. When Mosheh and El'azar came down from the hill, <sup>29</sup>&nbsp;the entire community saw that Aharon had expired, and they wept for Aharon thirty days, the whole House of Yisra'el.</span>
 </div></td></tr>
 
 
@@ -170,7 +170,7 @@ Parashat Ḥuqat (Numbers 19:1-22:1) in the annual Torah reading cycle is the si
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="p"><sup>4</sup>&nbsp;They marched from Hill's Hill by the Reed Sea Road, to go-around the land of Edom,</span> <span class="e">and the people (became) short-tempered on the way. <sup>5</sup>&nbsp;The people spoke against Elohim and against Mosheh: "Why did you bring us up from Mitsrayim to die in the wilderness? For there is no food and no water,</span> <span class="p">and our throats loathe the despicable food!"</span> <span class="j"><sup>6</sup>&nbsp;So YHVH sent upon the people</span> <span class="e">vipers, burning-snakes; they bit the people, and there died many people of Yisra'el. <sup>7</sup>&nbsp;The people came to Mosheh and said: "We have sinned!</span> <span class="j">For we have spoken against YHVH and against you. Intercede to YHVH, so that he may remove from us the vipers!" So Mosheh interceded on behalf of the people.</span>
+<span class="p"><sup>4</sup>&nbsp;They marched from Hor Ha-Har by the Reed Sea Road, to go-around the land of Edom,</span> <span class="e">and the people (became) short-tempered on the way. <sup>5</sup>&nbsp;The people spoke against Elohim and against Mosheh: "Why did you bring us up from Mitsrayim to die in the wilderness? For there is no food and no water,</span> <span class="p">and our throats loathe the despicable food!"</span> <span class="j"><sup>6</sup>&nbsp;So YHVH sent upon the people</span> <span class="e">vipers, burning-snakes; they bit the people, and there died many people of Yisra'el. <sup>7</sup>&nbsp;The people came to Mosheh and said: "We have sinned!</span> <span class="j">For we have spoken against YHVH and against you. Intercede to YHVH, so that he may remove from us the vipers!" So Mosheh interceded on behalf of the people.</span>
 </div></td></tr>
 
 

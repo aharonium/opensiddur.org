@@ -66,9 +66,11 @@ Amen, may it be your will.
 
 <hr />
 
-The "Prayer for the Peace of Jerusalem" by the late chief rabbi of Ḥaifa, Eliyahu Yosef She'ar Yashuv Cohen zt"l (1927-2016), is often included in programs praying for peace in Jerusalem in periods of conflict. The text we have transcribed here is that <a href="http://www.unisyn.org.il/images/שבת-ירושלים/חוברת_תפילות_יום_ירושלים.pdf">found in the 2009 Jerusalem Day program</a> of the Union of Synagogues in Israel. We do not know whether the prayer was authored and published at an earlier date. A slightly different version can be heard sung in the recording by <a href="https://youtu.be/Tb8Q4mQdjgY">Ovadia Hamama</a>.
+The "Prayer for the Peace of Jerusalem" by the late chief rabbi of Ḥaifa, Eliyahu Yosef She'ar Yashuv Cohen zt"l (1927-2016), is often included in programs praying for peace in Jerusalem in periods of conflict. The text we have transcribed here is that <a href="http://www.unisyn.org.il/images/שבת-ירושלים/חוברת_תפילות_יום_ירושלים.pdf">found in the 2009 Jerusalem Day program</a> of the Union of Synagogues in Israel. We do not know whether the prayer was authored and published at an earlier date or whether it was composed by the chief rabbi of Haifa for <a href="https://www.bridgeofgold.com/%D7%A4%D7%A8%D7%95%D7%99%D7%A7%D7%98%D7%99%D7%9D-%D7%A2%D7%AA%D7%99%D7%93%D7%99%D7%99%D7%9D.html">this project</a>. A slightly different version can be heard sung in the recording by <a href="https://youtu.be/Tb8Q4mQdjgY">Ovadia Hamama</a>.
 
-English translation by Aharon Varady and niqqud corrections by Rabbi Dr. Seth (Avi) Kadish. For an alternative English translation, see <a href="http://izionist.org/eng/prayer-peace-jerusalem/">here</a>.
+In the United States, public documents by U.S. or foreign government officials or agencies are offered in the Public Domain and are not covered by copyright.
+
+English translation by Aharon Varady (shared CC BY-SA) and niqqud corrections by Rabbi Dr. Seth (Avi) Kadish. For an alternative English translation, see <a href="http://izionist.org/eng/prayer-peace-jerusalem/">here</a>.
 
 <h3>Source(s)</h3>
 

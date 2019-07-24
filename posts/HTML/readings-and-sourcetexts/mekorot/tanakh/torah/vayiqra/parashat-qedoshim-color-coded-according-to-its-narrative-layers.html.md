@@ -227,7 +227,7 @@ Parashat Qedoshim (Leviticus 19:1-20:26) in the annual Torah reading cycle is pr
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="h"><sup>35</sup>&nbsp;"You are not to commit corruption in justice, in measure, weight, or capacity; <sup>36</sup>&nbsp;scales of equity, weighing-stones of equity, an efa of equity and a hin of equity you shall have. I am YHVH your <em>elo'ah</em>, who brought you out of the land of Mitsrayim!</span> <span class="p"><sup>37</sup>&nbsp;You are to keep all my laws and all my regulations, and observe them, I am YHVH!"</span>
+<span class="h"><sup>35</sup>&nbsp;"You are not to commit corruption in justice, in measure, weight, or capacity; <sup>36</sup>&nbsp;scales of equity, weighing-stones of equity, an <em>efa</em> of equity and a <em>hin</em> of equity you shall have. I am YHVH your <em>elo'ah</em>, who brought you out of the land of Mitsrayim!</span> <span class="p"><sup>37</sup>&nbsp;You are to keep all my laws and all my regulations, and observe them, I am YHVH!"</span>
 </div></td></tr>
 
 

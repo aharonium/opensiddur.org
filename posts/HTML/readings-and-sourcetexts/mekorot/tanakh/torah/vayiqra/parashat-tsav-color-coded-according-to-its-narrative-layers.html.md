@@ -61,7 +61,7 @@ Parashat Tsav (Leviticus 6:1-8:26) in the annual Torah reading cycle, is read on
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="h"><sup>12</sup>&nbsp;YHVH spoke to Mosheh, saying: <sup>13</sup>&nbsp;"This is the near-offering of Aharon and his sons that they are to bring-near to YHVH at the time of his being-anointed: a tenth-measure of an efa of flour as a regular grain-gift, half of it in the morning and half of it in the evening. <sup>14</sup>&nbsp;On a griddle, with oil, it is to be made, well-stirred are you to bring it, as baked crumbled-bits of grain you are to bring-it-near, a soothing savor for YHVH. <sup>15</sup>&nbsp;Thus shall the kohen anointed in his stead, from (among) his sons, sacrifice it, a law for the ages, for YHVH: completely it is to be turned into smoke. <sup>16</sup>&nbsp;And every grain-gift of a kohen, completely-offered shall it be; it is not to be eaten."</span>
+<span class="h"><sup>12</sup>&nbsp;YHVH spoke to Mosheh, saying: <sup>13</sup>&nbsp;"This is the near-offering of Aharon and his sons that they are to bring-near to YHVH at the time of his being-anointed: a tenth-measure of an <em>efa</em> of flour as a regular grain-gift, half of it in the morning and half of it in the evening. <sup>14</sup>&nbsp;On a griddle, with oil, it is to be made, well-stirred are you to bring it, as baked crumbled-bits of grain you are to bring-it-near, a soothing savor for YHVH. <sup>15</sup>&nbsp;Thus shall the kohen anointed in his stead, from (among) his sons, sacrifice it, a law for the ages, for YHVH: completely it is to be turned into smoke. <sup>16</sup>&nbsp;And every grain-gift of a kohen, completely-offered shall it be; it is not to be eaten."</span>
 </div></td></tr>
 
 
