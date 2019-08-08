@@ -183,6 +183,6 @@ The Teḥina for the blessing of the new moon is said each Shabbat Mevorkhim, ad
 
 <h3>Source</h3>
 
-[gview file="https://opensiddur.org/wp-content/uploads/2017/06/תחינה-פון-ראש-חודש-בענטשן-סידור-קרבן-מנחה.pdf"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/SiddurKorbanMinchah#page/n238/mode/2up"]
 </body>
 </html>

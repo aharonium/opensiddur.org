@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: פָּרָשַׁת מַסְעֵי | Parashat Masei (Numbers 33:1-36:13), color-coded according to its narrative layers<br />
+Title: פָּרָשַׁת מַסְעֵי | Parashat Mas'ei (Numbers 33:1-36:13), color-coded according to its narrative layers<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=26185">http://opensiddur.org/?p=26185</a>
 <p />
@@ -26,7 +26,7 @@ According to the poetry of the Midrash Tanḥuma, Bereshit 1:1, the words of the
 
 The 'E' kernel, 'J' and 'B' layer are absent from this parashah. 
 
-Parashat Matōt (Numbers 33:1-36:13) in the annual Torah reading cycle is the tenth and final parashah in Sefer Bamidbar. It is preceded by parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-bamidbar/parashat-matot/parashat-matot-color-coded-according-to-its-narrative-layers/">Matōt</a> (Numbers 30:2-32:42). Parashat Devarim (Deuteronomy 1:1-3:22), the first parashah of Sefer Devarim, follows it. 
+Parashat Mas'ei (Numbers 33:1-36:13) in the annual Torah reading cycle is the tenth and final parashah in Sefer Bamidbar. It is preceded by parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-bamidbar/parashat-matot/parashat-matot-color-coded-according-to-its-narrative-layers/">Matōt</a> (Numbers 30:2-32:42). Parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-devarim/parashat-devarim/parashat-devarim-color-coded-according-to-its-narrative-layers/">Devarim</a> (Deuteronomy 1:1-3:22), the first parashah of Sefer Devarim, follows it. 
 </div>
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
@@ -50,7 +50,7 @@ Parashat Matōt (Numbers 33:1-36:13) in the annual Torah reading cycle is the te
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="p"><sup>3</sup>&nbsp;They marched from Ra'mses, in the first New-moon, on the fifteenth day after the first New-moon; on the morrow of the Passover-meal the Children of Yisra'el departed with a high hand, before the eyes of all Mitsrayim, <sup>4</sup>&nbsp;while Mitsrayim was burying those that YHVH had struck-dead among them, all the firstborn, and on their deities, YHVH had rendered judgment. <sup>5</sup>&nbsp;And the Children of Yisra'el marched on from Ra'mses, and encamped at Sukkot; <sup>6</sup>&nbsp;they marched on from Sukkot and encamped at Eitam, which is at the edge of the wilderness. <sup>7</sup>&nbsp;And they marched on from Eitam and turned toward Pi-ha-hirot, that (runs) along the face of Baal Tsefon, and encamped before Migdol. </span>
+<span class="p"><sup>3</sup>&nbsp;They marched from Ra'mses, in the first New-moon, on the fifteenth day after the first New-moon; on the morrow of the Pesaḥ-meal the Children of Yisra'el departed with a high hand, before the eyes of all Mitsrayim, <sup>4</sup>&nbsp;while Mitsrayim was burying those that YHVH had struck-dead among them, all the firstborn, and on their deities, YHVH had rendered judgment. <sup>5</sup>&nbsp;And the Children of Yisra'el marched on from Ra'mses, and encamped at Sukkot; <sup>6</sup>&nbsp;they marched on from Sukkot and encamped at Eitam, which is at the edge of the wilderness. <sup>7</sup>&nbsp;And they marched on from Eitam and turned toward Pi-ha-hirot, that (runs) along the face of Baal Tsefon, and encamped before Migdol. </span>
 </div></td></tr>
 
 

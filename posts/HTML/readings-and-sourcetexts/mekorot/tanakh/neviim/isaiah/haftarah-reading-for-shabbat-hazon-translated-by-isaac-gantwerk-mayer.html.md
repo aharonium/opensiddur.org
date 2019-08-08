@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: Haftarah reading for Shabbat Ḥazon (Isaiah 1:1-27), translated by Isaac Gantwerk Mayer<br />
+Title: Haftarah Reading for Parashat Devarim (Shabbat Ḥazon, Isaiah 1:1-27), translated by Isaac Gantwerk Mayer<br />
 Primary contributor: isaac.gantwerk-mayer<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=26154">http://opensiddur.org/?p=26154</a>
 <p />

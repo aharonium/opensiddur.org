@@ -26,7 +26,7 @@ May it be Your will, Eternal One, God of our ancestors, that we journey toward p
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="commentary" style="text-align: right;"><span lang="he">
+<div class="liturgy" style="text-align: right;"><span lang="he">
 תפילה נוספת לנוסע באוירון
 </span></div>
 </td>

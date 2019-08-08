@@ -1,19 +1,17 @@
 <html>
 <head></head>
 <body>
-Title: מְגִלַּת אֵיכָה | Megillat Eikhah (Lamentations), translation by Rabbi David Seidenberg (neohasid.org)<br />
+Title: מְגִלַּת אֵיכָה | Megillat Eikhah (Lamentations) for Reading on Tisha b'Av, translation by Rabbi David Seidenberg (neohasid.org)<br />
 Primary contributor: david.seidenberg<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=14238">http://opensiddur.org/?p=14238</a>
 <p />
 <hr />
 
-<style type="text/css" media="all">.printfriendly {display: none!important;}</style>
+<strong>You can support Reb Duvid’s work by making a <a href="http://neohasid.org/contribute-laments.html">financial contribution</a>.</strong>
 
-<strong>Please support Reb Dovid's work with a <a href="http://neohasid.org/contribute-laments.html">financial contribution</a>.</strong>
-
-<strong>DOWNLOAD:</strong> <a href="http://neohasid.org/pdf/EikhahLaments2017booklet.pdf">Booklet PDF</a> | <a href="http://www.neohasid.org/pdf/EikhahLaments2017handout.pdf">Handout PDF</a>
-
-<h3>[Translator's Notes]</h3>
+<strong>DOWNLOAD:</strong> 
+<a href="http://www.neohasid.org/pdf/EikhahLaments2018booklet.pdf">PDF</a> (Booklet format)
+<a href="http://www.neohasid.org/pdf/EikhahLaments2018handout.pdf">PDF</a> (Handout format)
 
 This translation of Laments, the book of mourning poems read on Tish’a B’Av, uses principles of the Buber-Rosenzweig Bible. It strives to be “concordant”, translating related Hebrew words with related English words and following the order and syntax of the Hebrew where possible. It also focuses on the more physical, earthy meaning of words, in order to draw the reader from modern towards more ancient ways of seeing and feeling. Sometimes alternate translations are given, indicated by a slash. (When reading aloud, simply pick one of the translations. For YHVH, you can read Adonai or Hashem or “the Eternal”.) James Moffat’s 1922 translation was consulted. As a somewhat literal translation, Laments uses “He” and “His” as pronouns for God, even though Torah and common sense command us not to make an exclusively male or female image of God. If you are using Laments liturgically, please feel encouraged to change the pronouns. For brief essays on the theology of Eikhah and more, see the bottom of this page.
 
@@ -2376,6 +2374,6 @@ Some of this material is excerpted from <em><a href="http://kabbalahandecology.c
 
 <h3>Source</h3>
 
-[gview file="https://opensiddur.org/wp-content/uploads/2016/08/Eikhah-Laments-handout-David-Seidenberg-neohasid.org-2017.pdf"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.neohasid.org/pdf/EikhahLaments2018handout.pdf"]
 </body>
 </html>
