@@ -96,7 +96,7 @@ This miracle shows how far-reaching is the love that Hashem be blessed, has for 
 
 <hr />
 
-To the best of my ability, this is a faithful transcription of the תְּחִנָה לְשַׁבָּת מְבָרְכִים רֹאשׁ חוֺדֶשׁ כִּסְלֵו("Tkhine for Shabbat Mevorkhim Rosh Ḥodesh Kislev") which appeared in תחנות מקרא קודש (<em>Teḥinot Miqra Qodesh</em>, Widow and Brothers Romm, Vilna 1877). English translation adapted slightly from <em>Techinas: A Voice from the Heart "As Only A Woman Can Pray"</em> by Rivka Zakutinsky (Aura Press, 1992). --A.N. Varady
+To the best of my ability, this is a faithful transcription of the תְּחִנָה לְשַׁבָּת מְבָרְכִים רֹאשׁ חוֺדֶשׁ כִּסְלֵו ("Tkhine for Shabbat Mevorkhim Rosh Ḥodesh Kislev") which appeared in תחנות מקרא קודש (<em>Teḥinot Miqra Qodesh</em>, Widow and Brothers Romm, Vilna 1877). English translation adapted slightly from <em>Techinas: A Voice from the Heart "As Only A Woman Can Pray"</em> by Rivka Zakutinsky (Aura Press, 1992). --A.N. Varady
 
 <h3>Source</h3>
 

@@ -725,7 +725,6 @@ With your righteousness may you erase the stains that I have made with my great 
 </div></td></tr>
 </tbody></table>
 
-
 <hr />
 
 This is a faithful transcription of the "Tkhine of the Matriarchs for the New Moon of Elul" by Rebbetsin Seril Rappaport published in Vilna, 1874, as re-published in <em>The Merit of Our Mothers</em> בזכות אמהות <em>A Bilingual Anthology of Jewish Women's Prayers</em>, compiled and translated by Rabbi Tracy Guren Klirs, Cincinnati: Hebrew Union College Press, 1992. <em>shgiyot mi yavin, ministarot nakeni.</em> –Aharon N. Varady

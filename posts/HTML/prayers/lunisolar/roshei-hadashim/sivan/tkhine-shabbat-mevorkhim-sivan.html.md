@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: תחינה לשבת מברכים ראש חודש סיון | Tkhine for Shabbat Mevorkhim Rosh Ḥodesh Sivan (1877)<br />
+Title: תְּחִנָה לְשַׁבָּת מְבָרְכִים רֹאשׁ חוֺדֶשׁ סִיוָן | Tkhine for Shabbat Mevorkhim Rosh Ḥodesh Sivan (1877)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=15403">http://opensiddur.org/?p=15403</a>
 <p />
@@ -42,6 +42,5 @@ To the best of my ability, this is a faithful transcription of the תְּחִנ�
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.archive.org/stream/ShasTkhineChadashah1910#page/n134/mode/2up"]
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.archive.org/stream/teinotmiraodesht00tehi#page/25/mode/2up"]
-
 </body>
 </html>

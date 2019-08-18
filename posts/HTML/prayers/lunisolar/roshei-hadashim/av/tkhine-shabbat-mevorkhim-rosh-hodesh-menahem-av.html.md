@@ -7,46 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-This is a faithful transcription of the תְּחִנָה לְשַׁבָּת מְבָרְכִים רֹאשׁ חוֺדֶשׁ מְנַחֵם אָב ("Tkhine for Shabbat Mevorkhim Rosh Ḥodesh Menaḥem Av") as printed in <em>Shas Tkhine Ḥodoshe</em> (1910) and תחנות מקרא קודש (<em>Teḥinot Miqra Qodesh</em>, Widow & Brothers Romm, Vilna 1872/3, 1877). English translation adapted slightly from <em>Techinas: A Voice from the Heart "As Only A Woman Can Pray"</em> by Rivka Zakutinsky (Aura Press, 1992). Using Shas Tkhine Ḥodoshe as her source, Moreh Zakutinsky probably had not seen the additional paragraph in the earlier printing. --A.N. Varady
-
-<hr />
-
-<em>Teḥinot Miqra Qodesh</em> (1877)
-
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.archive.org/stream/teinotmiraodesht00tehi#page/29/mode/2up"]
-
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;">Source (Yiddish)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
-<tbody>
-<tr><td style="vertical-align:top;" width="46%">
-<div class="yiddish"><span lang="yi">
-אַב הָרַחֲמִים דר בּארעמינער פאטער װען מיר קומען איצונד פר דיר דעם חוֹדֶשׁ מְנַחֵם אָב בּענטשין דאָס אין דעם רֹאשׁ חוֹדֶשׁ איז אונזער פאָטער אַהֲרֹן הַכֹּהֵן גישטאָרבּין אזו זאָל דער װעקט װערין זײַן גרױסער זְכוּת צו בענטשין אונז אױף דעם זְכוּת דאָס ער פלענט פיל לײַט מַחֲזִיר בִּתְּשׁוּבָה זײַן דען װען זער האָט גיזעהען דאָס אײנער האָט אײַן עֲבֵירָה גיטאן פלענט ער אים ליבּשאפט װײַזין אונ דער מענטש האָט זיך גיטראכט װען אַהֲרֹן זאָל װיסין װאָס פר אײַן חוֹטֵא איך בּין װאָלט ער דאָך בּװַדאי מיט מיר ניט נישמועסט דרום פלענט דער מענטש תּשׁוּבָה טאָן • איצוּנד ליבּער גאָט גידײנק אונז זײַן זְכוּת דאָס מיר זאָלין זיך אלײן אום קוּקין אױף אונזערע בײזע מַעֲשִׂים אונ זאָלסט אָפּ מעקין אונזערע זינד אונ עס זאָל זײַן שָׁלוֹם אונ פריד אין אונזערע גיצעלטין אין דעם זְכוּת פון אַהֲרֹן הַכֹּהֵן דער דאָ איז גיװאוֹנט גיװען צוא שָׁלוֹם מֵאבִין צװישין אײַן מענטש מיט זײַן חַבֵר אונ צװישין אײַן מאן מיט זײַן װײַבּ • (יְהִי שָׁלוֹם בְּחֵילֵנוּ שַׁלְוָה בְּאַרְמְנוֹתֵינוּ) עס זאָל זײַן אײַטיל פריד אין אונזערע מױערין אונ שטילקײַט אין אונזערע פאלאצין אַמֵן סֶלָה:
-</div></td>
-
-<td style="vertical-align:top;" width="53%"><div class="english">
-
-</div></td>
-</tr>
-
-
-<tr><td style="vertical-align:top;" width="46%">
-<div class="yiddish"><span lang="yi">
-הַבֶּט נָא עַמְךָ כֻּלָנוּ, לוג נון דאָס מיר אלע דײַן פאָלק שטײן אונ בּעטין דיך דאָס דוא זאָלסט אױף אונז בּענטשין דעם חוֺדֶש מְנַחֵם אָב װאָס מיר בּענטשין איצונד אונ זאָלסט אונז טרײסטין אזוא װיא אײַן פאָטער אונ פאר גיבּ אונזערע זינד דאָס איבּער זײא זײַנען מיר פון אונזער לאנד פאר טריבּין געװאָרין און פון אונזער ערד דער װײַטערט גיװאָרין אונ דײן היליגע װאונונג איז אין דעם חוֺדֶשׁ מְנַחֵם אָב פר ברענט גיװאָרין • (אױ לָנוּ וְאױ לְנַפְשֵׁנוּ) ווײא איז צוא אונז אונ ווײא איז צוא אונזערע לײַבּער דען עם איז צוא גינומען גיװארין די ליכט פון אונזערע אױגין דאם איז דר בֵּית הַמִקְדָּשׁ װאָס עס פלעגט פר געבּין אױף אעזערע זינד אויך װען דער בֵּית הַמִקְדָּשׁ איז גישטאנען איז אין דעם חוֺדֶשׁ גיװען אזו אײַן יוֹם טוֹב דאם עס איז זײַן גלײַכין ניט גיװען אָבּער איצונד איז ער צו אונז נאָר אײַטיל קלאָג אונ גיװײן דען מיר טוען זיך באדינקען דיא גְדוּלָה וואָס עס איז פון אונז אװעק גינומען גיװאָרין ליבּעד גאָט הער צוא דאָס קוֹל פון צִיוֹן אונ פאר נעם דאס גישרײא פון יְרוּשָׁלַיִם וואָס זיא טוּט מיט אײַן בּיטער הארץ קלאָגין אונ אזוא װיא דוא האָסט זיא מיט פײער פאר בּרענט אזוֹא זאָלסטו זיא בּױען פון פײַער אזוֹא װיא אין פָּסוּק שטײט (וְאֲנִי אֶהְיֶה לָּהּ נְאֻם יְיָ חוֺמַת אֵשׁ סָבִיב) דאָס איז טײַטש אונ איך וועל זײַן צו איר דאָס זײַנען דיא רײד פון גאָט אײַן מױער פון פײַער ארום און ארום • געלױבּט בּיסטו דר טרײסטער פון ציּוֺן, און דער בױער פון יְרוּשָׁלַיִם אָמֵן׃
-</div></td>
-
-<td style="vertical-align:top;" width="53%"><div class="english">
-
-</div></td>
-</tr>
-</tbody></table>
-
-
-
-<hr />
-
-<em>Shas Tkhine Ḥodoshe</em> (1910)
-
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.archive.org/stream/ShasTkhineChadashah1910#page/n138/mode/2up"]
+<h3>Tkhine for Shabbat Mevorkhim Rosh Ḥodesh Menaḥem Av (1910)</h3>
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Yiddish)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
@@ -73,11 +34,43 @@ Dear God, hear the weeping of Tsiyon and accept the anguished cries of Yerushala
 </tr>
 </tbody></table>
 
+<hr />
+
+<h3>Tkhine for Shabbat Mevorkhim Rosh Ḥodesh Menaḥem Av (1877)</h3>
+
+<table style="margin-left: auto;margin-right: auto;" class="draggable">
+<thead><tr><th id="x" style="text-align: right;">Source (Yiddish)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
+<tbody>
+<tr><td style="vertical-align:top;" width="46%">
+<div class="yiddish"><span lang="yi">
+אַב הָרַחֲמִים דר בּארעמינער פאטער װען מיר קומען איצונד פר דיר דעם חוֹדֶשׁ מְנַחֵם אָב בּענטשין דאָס אין דעם רֹאשׁ חוֹדֶשׁ איז אונזער פאָטער אַהֲרֹן הַכֹּהֵן גישטאָרבּין אזו זאָל דער װעקט װערין זײַן גרױסער זְכוּת צו בענטשין אונז אױף דעם זְכוּת דאָס ער פלענט פיל לײַט מַחֲזִיר בִּתְּשׁוּבָה זײַן דען װען זער האָט גיזעהען דאָס אײנער האָט אײַן עֲבֵירָה גיטאן פלענט ער אים ליבּשאפט װײַזין אונ דער מענטש האָט זיך גיטראכט װען אַהֲרֹן זאָל װיסין װאָס פר אײַן חוֹטֵא איך בּין װאָלט ער דאָך בּװַדאי מיט מיר ניט נישמועסט דרום פלענט דער מענטש תּשׁוּבָה טאָן • איצוּנד ליבּער גאָט גידײנק אונז זײַן זְכוּת דאָס מיר זאָלין זיך אלײן אום קוּקין אױף אונזערע בײזע מַעֲשִׂים אונ זאָלסט אָפּ מעקין אונזערע זינד אונ עס זאָל זײַן שָׁלוֹם אונ פריד אין אונזערע גיצעלטין אין דעם זְכוּת פון אַהֲרֹן הַכֹּהֵן דער דאָ איז גיװאוֹנט גיװען צוא שָׁלוֹם מֵאבִין צװישין אײַן מענטש מיט זײַן חַבֵר אונ צװישין אײַן מאן מיט זײַן װײַבּ • (יְהִי שָׁלוֹם בְּחֵילֵנוּ שַׁלְוָה בְּאַרְמְנוֹתֵינוּ) עס זאָל זײַן אײַטיל פריד אין אונזערע מױערין אונ שטילקײַט אין אונזערע פאלאצין אַמֵן סֶלָה:
+</div></td>
+
+<td style="vertical-align:top;" width="53%"><div class="english">
+
+</div></td>
+</tr>
 
 
+<tr><td style="vertical-align:top;" width="46%">
+<div class="yiddish"><span lang="yi">
+הַבֶּט נָא עַמְךָ כֻּלָנוּ, לוג נון דאָס מיר אלע דײַן פאָלק שטײן אונ בּעטין דיך דאָס דוא זאָלסט אױף אונז בּענטשין דעם חוֺדֶש מְנַחֵם אָב װאָס מיר בּענטשין איצונד אונ זאָלסט אונז טרײסטין אזוא װיא אײַן פאָטער אונ פאר גיבּ אונזערע זינד דאָס איבּער זײא זײַנען מיר פון אונזער לאנד פאר טריבּין געװאָרין און פון אונזער ערד דער װײַטערט גיװאָרין אונ דײן היליגע װאונונג איז אין דעם חוֺדֶשׁ מְנַחֵם אָב פר ברענט גיװאָרין • (אױ לָנוּ וְאױ לְנַפְשֵׁנוּ) ווײא איז צוא אונז אונ ווײא איז צוא אונזערע לײַבּער דען עם איז צוא גינומען גיװארין די ליכט פון אונזערע אױגין דאם איז דר בֵּית הַמִקְדָּשׁ װאָס עס פלעגט פר געבּין אױף אעזערע זינד אויך װען דער בֵּית הַמִקְדָּשׁ איז גישטאנען איז אין דעם חוֺדֶשׁ גיװען אזו אײַן יוֹם טוֹב דאם עס איז זײַן גלײַכין ניט גיװען אָבּער איצונד איז ער צו אונז נאָר אײַטיל קלאָג אונ גיװײן דען מיר טוען זיך באדינקען דיא גְדוּלָה וואָס עס איז פון אונז אװעק גינומען גיװאָרין ליבּעד גאָט הער צוא דאָס קוֹל פון צִיוֹן אונ פאר נעם דאס גישרײא פון יְרוּשָׁלַיִם וואָס זיא טוּט מיט אײַן בּיטער הארץ קלאָגין אונ אזוא װיא דוא האָסט זיא מיט פײער פאר בּרענט אזוֹא זאָלסטו זיא בּױען פון פײַער אזוֹא װיא אין פָּסוּק שטײט (וְאֲנִי אֶהְיֶה לָּהּ נְאֻם יְיָ חוֺמַת אֵשׁ סָבִיב) דאָס איז טײַטש אונ איך וועל זײַן צו איר דאָס זײַנען דיא רײד פון גאָט אײַן מױער פון פײַער ארום און ארום • געלױבּט בּיסטו דר טרײסטער פון ציּוֺן, און דער בױער פון יְרוּשָׁלַיִם אָמֵן׃
+</div></td>
 
+<td style="vertical-align:top;" width="53%"><div class="english">
 
+</div></td>
+</tr>
+</tbody></table>
 
+<hr />
 
+This is a faithful transcription of the תְּחִנָה לְשַׁבָּת מְבָרְכִים רֹאשׁ חוֺדֶשׁ מְנַחֵם אָב ("Tkhine for Shabbat Mevorkhim Rosh Ḥodesh Menaḥem Av") as printed in <em>Shas Tkhine Ḥodoshe</em> (1910) and תחנות מקרא קודש (<em>Teḥinot Miqra Qodesh</em>, Widow &amp; Brothers Romm, Vilna 1872/3, 1877). English translation adapted slightly from <em>Techinas: A Voice from the Heart "As Only A Woman Can Pray"</em> by Rivka Zakutinsky (Aura Press, 1992). Using Shas Tkhine Ḥodoshe as her source, Moreh Zakutinsky probably had not seen the additional paragraph in the earlier printing. --A.N. Varady
+
+<h3>Sources</h3>
+
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.archive.org/stream/ShasTkhineChadashah1910#page/n138/mode/2up"]
+
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.archive.org/stream/teinotmiraodesht00tehi#page/29/mode/2up"]
 </body>
 </html>

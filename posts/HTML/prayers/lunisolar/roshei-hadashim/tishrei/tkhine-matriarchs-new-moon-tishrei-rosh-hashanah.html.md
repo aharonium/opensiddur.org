@@ -16,8 +16,8 @@ For attribution and license, please consult the following URL: <a href="http://o
 רבונו של עולם דוא האסט אונז גיגעבין אלע חודש אײן טאג ראש חודש דער איז (יום כפרה וסליחה) אויף אונזרי זינד דאס מיר זאלין אלע (ערב ראש חודש תשובה) טאן אונ אום (ראש חודש) װערן דיא זינד פאר געבן. אבר מיר האבין אײן גאנץ יאר קײן תשובה ניט גטאן נײערט נאר הײנטיגן טאג (ראש השנה) איז ראש חודש װאס מיר האבין צײט (תשובה) צו טאן. דער יום טוב פון ראש השנה שטײט דעם זיבנטן חודש דעם ערשטן טאג אין חודש זאל זײן צו אײך נײערט דאס מײנט דר פסוק דר טאג ראש השנה גיהער זײן צו אײך יום טוב אז איר װעט תשובה טאן אונ חרטה האבין אויף אײערע עבירות אונ רוען פון בײזע מעשים װעט דר טאג זײן יום טוב אבר חֲלִילָה אז מיר טוען ניט קײן (תשובה) איז דער טאג קײן יום טוב עס איז חֲלִילָה אײן פינצטערער טאג דרום טוען מיר צו ברעכין אונזרע הערצר. 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
-Master of the Cosmos, you have given us one day every month, Rosh Ḥodesh, as a day of expiation and forgiveness of our sins, so that we may repent every erev Rosh Ḥodesh, and on  Rosh Ḥodesh our sins will be forgiven.[foot]Numbers 10:10[/foot] Although we did not repent all year long, since this day Rosh haShanah, is also Rosh Ḥodesh, we still have time to repent. For it written: ‘The first day of the seventh month should be Rosh haShanah for you,”[foot]Leviticus 23:24[/foot] which means that Rosh haShanah will be a <em>yontef</em> (lit. good day) if you repent and regret your sins and refrain from evil deeds, but if, [G!D] forbid, you do not repent, it will not be a good day but, [G!D] forbid, a dark day instead.
+<td width="53%"><div class="english">
+Master of the Cosmos, you have given us one day every month, Rosh Ḥodesh, as a day of expiation and forgiveness of our sins, so that we may repent every erev Rosh Ḥodesh, and on  Rosh Ḥodesh our sins will be forgiven.[foot]Numbers 10:10[/foot] Although we did not repent all year long, since this day Rosh haShanah, is also Rosh Ḥodesh, we still have time to repent. For it written: ‘The first day of the seventh month should be Rosh haShanah for you,”[foot]Leviticus 23:24[/foot] which means that Rosh haShanah will be a <em>yontev</em> (good day) if you repent and regret your sins and refrain from evil deeds, but if, [G!D] forbid, you do not repent, it will not be a good day but, [G!D] forbid, a dark day instead.
 </div></td></tr>
 
 
@@ -47,7 +47,7 @@ Therefore, we beseech our matriarchs to pray for us and to bring before the Resp
 </span></div></td>
  
 <td width="53%"><div class="english">
-We also beseech our matriarchs to pray for us that we may not, [G!D] forbid, need to depend upon human charity, for the shame which is incurred thereby is greater than the gift which is received. May we be nourished by your beloved holy hand. <em>Omeyn</em>.
+We also beseech our matriarchs to pray for us that we may not, [G!D] forbid, need to depend upon human charity, for the shame which is incurred thereby is greater than the gift which is received. May we be nourished by your beloved holy hand. Omeyn.
 </div></td></tr>
 </tbody></table>
 

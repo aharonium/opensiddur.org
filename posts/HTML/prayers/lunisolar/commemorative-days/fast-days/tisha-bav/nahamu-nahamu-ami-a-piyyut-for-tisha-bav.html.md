@@ -151,6 +151,5 @@ After attending Minḥah services on Tisha B’ab at Congregation Shearith Israe
 <h3>Source(s)</h3>
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/SederTaaniyot1771#page/n251/mode/2up"]
-
 </body>
 </html>

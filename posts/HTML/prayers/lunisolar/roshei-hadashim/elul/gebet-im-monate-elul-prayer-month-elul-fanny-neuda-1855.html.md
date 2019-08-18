@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: Gebet im Monate Elul | Prayer for the Month of Elul by Fanny Neuda (1855)<br />
+Title: Gebet im Monate Elul | Prayer for the Month of Elul, by Fanny Schmiedl Neuda (1855)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=16631">http://opensiddur.org/?p=16631</a>
 <p />

@@ -44,6 +44,7 @@ Wake up, Miriam the prophet, wake up from your rest and stand in front of the Ki
 </tbody></table>
 
 <hr />
+
 To the best of my ability, this is a faithful transcription of the תְּחִנָה לְשַׁבָּת מְבָרְכִים רֹאשׁ חוֺדֶשׁ אִיָיר ("Tkhine for Shabbat Mevorkhim Rosh Ḥodesh Iyyar") which appeared in תחנות מקרא קודש (<em>Teḥinot Miqra Qodesh</em>, <a href="http://www.yivoencyclopedia.org/article.aspx/Romm_Family">Widow and Brothers Romm</a>, Vilna 1877) before its adaptation in <a href="https://opensiddur.org/compilations/sifrei-tehinot/shas-tehinah-hadashah-1910/">Shas Tkhine Ḥadashe</a> (Ben-Tsiyon Alfes 1910), the source from which this translation was made. English translation adapted slightly from <em>Techinas: A Voice from the Heart "As Only A Woman Can Pray"</em> by Rivka Zakutinsky (Aura Press, 1992). --A.N. Varady
 
 <h3>Source(s)</h3>
@@ -51,6 +52,5 @@ To the best of my ability, this is a faithful transcription of the תְּחִנ�
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.archive.org/stream/ShasTkhineChadashah1910#page/n134/mode/2up"]
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.archive.org/stream/teinotmiraodesht00tehi#page/23/mode/2up"]
-
 </body>
 </html>

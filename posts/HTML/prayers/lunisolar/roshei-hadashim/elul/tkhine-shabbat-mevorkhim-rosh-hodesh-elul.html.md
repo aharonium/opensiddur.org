@@ -33,7 +33,7 @@ When a lion roars who is not afraid?[foot]Amos 3:8, partial.[/foot]
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-The word “lion” signifies the letter “alef ” in the word Elul. The “yud” stands for Yom Kippur. The “heh” stands for Hoshanah Rabba. When these Days of Awe come, who is not afraid?
+The word “lion” signifies the letter “alef ” in the word Elul. The "resh" stands for Rosh ha-Shanah. The “yud” stands for Yom Kippur. The “heh” stands for Hoshanah Rabba. When these Days of Awe come, who is not afraid?
 </div></td>
 </tr>
 
@@ -121,5 +121,7 @@ While no mention is made in this tekhine of Rosh Hashanah L'Maasar Behema, the N
 <h3>Source</h3>
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.archive.org/stream/teinotmiraodesht00tehi#page/30/mode/2up"]
+
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.archive.org/stream/ShasTkhineChadashah1910#page/n138/mode/2up"]
 </body>
 </html>
