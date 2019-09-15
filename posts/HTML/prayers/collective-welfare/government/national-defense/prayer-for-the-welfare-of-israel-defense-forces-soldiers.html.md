@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: מי שברך לחיילי צה"ל | Mi Sheberakh Prayer for the Welfare of Israel Defense Forces Soldiers, amended by Dr. Alex Sinclair (2012)<br />
+Title: מי שברך לחיילי צה"ל | Mi sheBerakh Prayer for the Welfare of Israel Defense Forces Soldiers, amended by Dr. Alex Sinclair (2012)<br />
 Primary contributor: shlomo.goren<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=5094">http://opensiddur.org/?p=5094</a>
 <p />

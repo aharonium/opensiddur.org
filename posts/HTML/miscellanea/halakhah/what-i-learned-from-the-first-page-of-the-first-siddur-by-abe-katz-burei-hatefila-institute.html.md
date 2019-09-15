@@ -62,7 +62,6 @@ King David established the practice of reciting one hundred Brakhos each day. Wh
 
 <hr />
 
-
 The first Siddur has a born-on-date but its birth was accidental and not planned. The Siddur resulted from <a href="http://en.wikipedia.org/wiki/Amram_Gaon">Rav Amram Gaon</a>, who was presiding over the Rabbinic academy at Sura, Babylonia, and who was viewed as the Chief Rabbi of his time -- he died in 875 CE -- entertaining a question from a community in Spain:
 
 <blockquote>The order of prayers and Brakhos for the entire year that you requested, that has been shown to us by Heaven, we deem appropriate to set forth and lay out in the manner in which the tradition was passed down to us, as compiled by the Rabbis during the period of the Mishna and the Gemara.</blockquote>
@@ -84,5 +83,9 @@ That the compilation of the first Siddur was unintentional and that the geograph
 Rav Amram Gaon in the above statement defined the Siddur as a guide to reaching the goal of reciting 100 Brakhos each day.  In doing so, Rav Amram provided a key to understanding Jewish Prayer.  To know Jewish Prayer, study the Brakhos that are a part of each prayer service.  That the Brakhos are central to Jewish prayer explains why our Sages were very protective of the wording of each Brakha.  An examination of the Brakhos included in the prayer services reveals that each Brakha contains a summary of the prayer being recited with that Brakha.  We can therefore derive the following pedagogical lesson from the first page of the first Siddur: understanding Jewish prayer begins with creating a list of all the Brakhos that are recited during the day that total 100 and then studying each one.
 
 The compilers of Siddurim that were published during the first centuries after the appearance of Seder Rav Amram Gaon such as the Siddur of Rashi, the Maḥzor Vitry and the Avudrohom, opened their Siddurim with the same lesson.  At some point during the subsequent years, the lesson of the first page of the first Siddur was forgotten.  Editors of Siddurim published in those years chose alternate opening statements.  This article is a friendly reminder to contemporary Hebrew book publishing houses that it is not too late to  resurrect the lesson of the first page of the first Siddur.
+
+<h3>Source</h3>
+
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/sederravamramgaonparticriticaltextdavidhedegard1951#page/n4/mode/2up"]
 </body>
 </html>

@@ -120,7 +120,7 @@ the beginning of the flowering of our redemption,[foot]Cf. the <a href="https://
 And quickly bring about the vision of your prophet, 
 “Nation shall not take up Sword against nation; 
 They shall never again know war.”[foot]Isaiah 2:4 part.[/foot]&nbsp; 
-May the pleasantness of Adonai our elo’ah be upon us; 
+May the pleasantness of Adonai our <em>elo'ah</em> be upon us; 
 may our handiwork be established for us.[foot]Psalms 90:17 part.[/foot]&nbsp; 
 And let us say, <em>Amen</em>.
 </div></td></tr>

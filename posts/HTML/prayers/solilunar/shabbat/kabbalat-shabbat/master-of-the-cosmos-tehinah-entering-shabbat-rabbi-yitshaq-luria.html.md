@@ -27,7 +27,7 @@ Lord of all worlds, Master of all souls, Master of peace: you are the life of th
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
-I am grateful to you, YHVH our elo’ah and elo’ah of our forefathers, for all the kindness that you have shown me and are ready to show me and my family and my friends, your creatures. Blessed be your holy angels who perform your will. 
+I am grateful to you, YHVH our <em>elo'ah</em> and elo’ah of our forefathers, for all the kindness that you have shown me and are ready to show me and my family and my friends, your creatures. Blessed be your holy angels who perform your will. 
 </div></td>
 </tr>
 

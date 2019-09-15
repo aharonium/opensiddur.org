@@ -8,8 +8,9 @@ For attribution and license, please consult the following URL: <a href="http://o
 <hr />
 
 <div style="text-align: center;"><span class="scribe" style="font-size:3em;">נֹטֶ֣ה צָפ֣וֹן עַל־תֹּ֑הוּ תֹּ֥לֶה אֶ֝֗רֶץ עַל־בְּלִי־מָֽה׃</span> 
+&nbsp;
 <span class="english" style="font-size:3em;">"He stretches out the North over the Abyss, 
-and suspends the Earth over nothingness" (Job 26:7).</span></div>
+and suspends the Earth upon Nothingness" (Job 26:7).</span></div>
 
 The Sefer Yetsirah is an esoteric cosmological work whose earliest layer was written by an unknown author during the Tannaitic period (1st-2nd centuries CE). A second layer was added in the Amoraic period (3rd-6th centuries CE), but variations of the text only became more widely extant in the Geonic period (7th-9th centuries). Three variations of the text were known by the 10th century: a Short version, a Long Version, and a variation that R' Saadya Gaon translated and commented upon in Arabic. The text of the Sefer Yetsirah presented here follows the "experimental exercise" produced by Dr. A. Peter Hayman in his <em>Sefer Yeṣira: Edition, Translation, and Text-Critical Commentary</em>, "<a href="https://opensiddur.org/wp-content/uploads/2016/06/sefer-yetsira-earliest-recoverable-text-a.-peter-hayman-Mohr-Siebeck-2004.pdf">Appendix III: The Earliest Recoverable Text of Sefer Yeṣira</a>" (Mohr Siebeck, 2004). Hayman looked through the extant early manuscripts, translations, and commentaries witnessing each strand of the text in order to locate his "earliest recoverable text." By carefully analyzing these manuscripts, Hayman reconstructed a layer of the text common to the the three versions that may have circulated early in the Geonic period (or perhaps even earlier). Absent from Hayman's earliest recoverable text are the astrological, anatomical, and some of the linguistic material found in later versions. (Such material may have originated as an esoteric commentary or gloss, on this earlier layer or even earlier layers of the work. "It is the glory of Elohim to conceal a thing; but the glory of kings to search a matter out"--Proverbs 25:2.)
 
@@ -29,8 +30,8 @@ Summer 5776
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
-שְׁלֹשִׁים וּשְׁתַּיִם נְתִיבוֺת פְּלִאוֺת חָכְמָה 
-חָקַק יָהּ יהוה צְבָאוֺת 
+שְׁלֹשִׁים וּשְׁתַּיִם נְתִיבוֹת פְּלִאוֹת חָכְמָה 
+חָקַק יָהּ יהוה צְבָאוֹת 
 בְּשָׁלֹשׁ סְפָרִים 
 בִּסְפָר וְסֹפֵר וְסָפֻר.
 </span></div></td>
@@ -38,8 +39,8 @@ Summer 5776
 <td style="vertical-align:top;" width="53%"><div class="english">
 Thirty-two wondrous paths of wisdom
 Yah YHVH Tsevaot, carved out 
-by means of three delineations (<em>sepharim</em>)[foot]from ספר, "cuttings" or "accountings." I think the valence here is scribal, architectural, design: actively separating (i.e., cutting) by means of semiotic treatment. Hayman translates as "three types of things" which is understandably neutral given his interest in avoiding kabbalistic anachronisms on this work from Antiquity.[/foot]: 
-with writing (<em>bisphar</em>), and counting (<em>v'sopher</em>), and speech (<em>v'saphur</em>). [§1]
+by means of three delineations (<em>sefarim</em>)[foot]from ספר, "cuttings" or "accountings." I think the valence here is scribal, architectural, design: actively separating (i.e., cutting) by means of semiotic treatment. Hayman translates as "three types of things" which is understandably neutral given his interest in avoiding kabbalistic anachronisms on this work from Antiquity.[/foot]: 
+with writing (<em>bisfar</em>), and counting (<em>v'sofer</em>), and speech (<em>v'safur</em>). [§1]
 </div></td>
 </tr>
 
@@ -50,22 +51,22 @@ with writing (<em>bisphar</em>), and counting (<em>v'sopher</em>), and speech (<
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
-<h3>1: Ten Sefirot</h3>
+<h3>[1: Ten Sefirot]</h3>
 </div></td>
 </tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
-עֶשֶׂר סְפִירוֺת בְּלִימָה 
-מִסְפַּר עֶשֶׁר אֶצְבָּעוֺת 
+עֶשֶׂר סְפִירוֹת בְּלִי־מָה 
+מִסְפַּר עֶשֶׁר אֶצְבָּעוֹת 
 חָמֵשׁ כְּנֶגֶד חָמֵשׁ 
 וּבְרִית יָחִיד מְכוּוֶנֶת בְּאֶמְצָע 
-בְּמִילַּה וְלָּשׁוֺן וְפֶּה.
+בְּמִילַּה וְלָּשׁוֹן וְפֶּה.
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
-The ten <em>sefirot</em>[foot]R' Aryeh Kaplan notes in his commentary on the Sefer Yetzirah that the ten sefirot directly refer to the ten creative utterances in Genesis 1. Each of these creative acts is a kind of separation, one thing from another.[/foot] of <em>blimah</em> (Nothingness)[foot]A reference to the hapax legomenon in Job 26:7, <span class="scribe">נֹטֶ֣ה צָפ֣וֹן עַל־תֹּ֑הוּ תֹּ֥לֶה אֶ֝֗רֶץ עַל־בְּלִי־מָֽה׃</span>  "he has suspended the world on <em>bli mah</em> -- nothing." Alternately, "emptiness." <em>Bli Mah</em> literally translates to "without" or "absence" of "what." Hayman translates בלימה as "the basis," the implicit question of the author here being: "What is the foundation on which the God has constructed the Universe?" A language of mechanics is perhaps most proper for this metaphysics and so I translate <em>blimah</em> as the suspension point or fulcrum -- the central support on which a lever pivots or a pendulum swings. I understand the relationship with the <em>shoresh</em> (root), בלם -- to hold in, curb, check, stop, muzzle, restrain, restrict -- in the manner in which our physical laws define our physical reality. Alternately, the limit of nothing may establish the form (יצר) of creation.[/foot] -- 
+Ten <em>sefirot</em>[foot]R' Aryeh Kaplan notes in his commentary on the Sefer Yetzirah that the ten sefirot directly refer to the ten creative utterances in Genesis 1. Each of these creative acts is a kind of separation, one thing from another.[/foot] of <em>blimah</em> (Nothingness)[foot]A reference to the hapax legomenon in Job 26:7, <span class="scribe">נֹטֶ֣ה צָפ֣וֹן עַל־תֹּ֑הוּ תֹּ֥לֶה אֶ֝֗רֶץ עַל־בְּלִי־מָֽה׃</span>  "he has suspended the world on <em>bli mah</em> -- nothing." Alternately, "emptiness." <em>Bli Mah</em> literally translates to "without" or "absence" of "what." Hayman translates בלימה as "the basis," the implicit question of the author here being: "What is the foundation on which the God has constructed the Universe?" A language of mechanics is perhaps most proper for this metaphysics and so I translate <em>blimah</em> as the suspension point or fulcrum -- the central support on which a lever pivots or a pendulum swings. I understand the relationship with the <em>shoresh</em> (root), בלם -- to hold in, curb, check, stop, muzzle, restrain, restrict -- in the manner in which our physical laws define our physical reality. Alternately, the limit of nothing may establish the form (יצר) of creation.[/foot] -- 
 the number of the ten fingers, 
 five opposite five, 
 and the covenant of the Unique One is exactly in the middle,
@@ -75,16 +76,16 @@ and the covenant of the Unique One is exactly in the middle,
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
-עֶשֶׂר סְפִירוֺת בְּלִימָה 
+עֶשֶׂר סְפִירוֹת בְּלִי־מָה 
 עֶשֶׂר וְלֹא תֵּשַׁע, עֶשֶׂר וְלֹא אַחַת עֶשְׂרֵה 
 הָבֵן בְּחָכְמָה וְחֲכַם בְּבִינָה 
-בְּחוֺן בָּהֶם וַחֲקוֺר מֵהֶם 
+בְּחוֹן בָּהֶם וַחֲקוֹר מֵהֶם 
 וְהַעֲמֵד דָּבָר עַל־בֵּרַיו 
-וְהֹשֵב יוֺצֵר עַל־מְכוֺנוֺ.
+וְהֹשֵב יוֹצֵר עַל־מְכוֹנוֹ.
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
-The ten <em>sefirot</em> of <em>blimah</em> -- 
+Ten <em>sefirot</em> of <em>bli-mah</em> -- 
 ten and not nine, ten and not eleven. 
 Understand with wisdom, and be wise with understanding. 
 Test them and investigate them,
@@ -95,16 +96,16 @@ Test them and investigate them,
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
-עֶשֶׂר סְפִירוֺת בְּלִימָה 
+עֶשֶׂר סְפִירוֹת בְּלִי־מָה 
 בְּלוּם פִּיךָ מְלְּדַבֵּר 
 בְּלוּם לִבְּךָ מִלְּהַרְהֵר 
-וְאִם רָץ לִיבְּךָ שׁוּב לְמָקוֺם 
-שֶׁכַּךְ נֶאֱמַר <span class="scribe">רָצוֺא וָשׁוֺב</span> 
+וְאִם רָץ לִיבְּךָ שׁוּב לְמָקוֹם 
+שֶׁכַּךְ נֶאֱמַר <span class="scribe">רָצוֹא וָשׁוֹב</span> 
 וְעַל דָּבָר זֶה נִכְרְתָה בְרִית.
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
-The ten <em>sefirot</em> of <em>blimah</em>:
+Ten <em>sefirot</em> of <em>bli-mah</em>:
  restrain (<em>b'lum</em>) your mouth from speaking, 
 restrain your mind (<em>lev</em>)[foot]literally, heart[/foot] from thinking.
  And if your mind races return to the Maqom, 
@@ -115,15 +116,15 @@ And concerning this matter the covenant was made. [§5]
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
-עֶשֶׂר סְפִירוֺת בְּלִימָה 
-נָעוּץ סוֺפָן בִּתְחִילָּתָן וּתְחִילָּתָן בְּסוֺפָן 
+עֶשֶׂר סְפִירוֹת בְּלִי־מָה 
+נָעוּץ סוֹפָן בִּתְחִילָּתָן וּתְחִילָּתָן בְּסוֹפָן 
 כְּשַׁלְהֶבֶת בְגַחֶלֶת 
-שֶׁהַיוֺצֵר אֶחָד וְאֵין לוֹ שֵׁינִי 
-וְלִפְנֵי אֶחָד מָה אַתָּה סוֺפֵר.
+שֶׁהַיוֹצֵר אֶחָד וְאֵין לוֹ שֵׁינִי 
+וְלִפְנֵי אֶחָד מָה אַתָּה סוֹפֵר.
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
-The ten <em>sefirot</em> of <em>blimah</em>. 
+Ten <em>sefirot</em> of <em>bli-mah</em>. 
 Their end is fixed in their beginning and their beginning in their end,
  as the flame to the burning coal
  and form (a mental image) that the Creator is one, and he has none second to him; 
@@ -133,19 +134,19 @@ and before one, what can you count? [§6]
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
-עֶשֶׂר סְפִירוֺת בְּלִימָה 
-וּמִידָּתָן עֶשֶׂר שֶׁאֵין לָהֶן סוֺף 
-עוֺמֶק רֵאשִׁית וֽעוֺמֶק אַחֵרִית 
-עוֺמֶק טוֺב וְעוֺמֶק רַע 
-עוֺמֶק רוּם וְעוֺמֶק תַּחַת 
-עוֺמֶק מִזְרָח וְעוֺמֶק מַעֲרָב 
-עוֺמֶק צָפוֺן וְעוֺמֶק דָּרוֺם 
-וְאָדוֺן יָחִיד אֵל מֶלֶךְ נֶאֱמָן 
-מוֺשֵׁל בְּכוּלָּן מְמְּעוֺן קָדְשׁוֺ וְעַד עֲדֵי עַד
+עֶשֶׂר סְפִירוֹת בְּלִי־מָה 
+וּמִידָּתָן עֶשֶׂר שֶׁאֵין לָהֶן סוֹף 
+עוֹמֶק רֵאשִׁית וֽעוֹמֶק אַחֵרִית 
+עוֹמֶק טוֹב וְעוֹמֶק רַע 
+עוֹמֶק רוּם וְעוֹמֶק תַּחַת 
+עוֹמֶק מִזְרָח וְעוֹמֶק מַעֲרָב 
+עוֹמֶק צָפוֹן וְעוֹמֶק דָּרוֹם 
+וְאָדוֹן יָחִיד אֵל מֶלֶךְ נֶאֱמָן 
+מוֹשֵׁל בְּכוּלָּן מְמְּעוֹן קָדְשׁוֹ וְעַד עֲדֵי עַד
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
-The ten <em>sefirot</em> of <em>blimah</em>
+Ten <em>sefirot</em> of <em>bli-mah</em>
  and their measure is ten for they have no end:
  dimension of first and dimension of last, 
 dimension of good and dimension of evil, 
@@ -159,16 +160,16 @@ dimension of above and dimension of below,
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
-עֶשֶׂר סְפִירוֺת בְּלִימָה 
+עֶשֶׂר סְפִירוֹת בְּלִי־מָה 
 צְפִיָּתָן <span class="scribe">כְּמַרְאֵה הַבָּזָק</span>
 וְתַכְלִיתָם אֵין לָהֶן קֵץ 
-וּדְבָרוֺ בָהֶן כְּ<span class="scribe">רָצוֺא וָשׁוֺב</span> 
-וּלְמַאֲמָרוֺ כְסוּפָה יִרְדּוֺפוּ 
-וְלִפְנֵי כִסְאוֺ הֵם מִשְׁתַחֲוִים
+וּדְבָרוֹ בָהֶן כְּ<span class="scribe">רָצוֹא וָשׁוֹב</span> 
+וּלְמַאֲמָרוֹ כְסוּפָה יִרְדּוֹפוּ 
+וְלִפְנֵי כִסְאוֹ הֵם מִשְׁתַחֲוִים
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
-The ten <em>sefirot</em> of <em>blimah</em>.
+Ten <em>sefirot</em> of <em>bli-mah</em>.
 Their appearance? "like a vision of lightning," (Ezekiel 1:14)
 and their end? -- they have no limit. 
 And his word (<em>davar</em>) is in them as though "running and returning" (ibid),[foot]Here is another inspiration for the practice of "running and returning" in contemplating divine expansiveness. I understand <em>davar</em> here to be akin to <em>Logos</em>.[/foot]&nbsp;
@@ -179,13 +180,13 @@ and before his throne they bow down. [§8]
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
-עֶשֶׂר סְפִירוֺת בְּלִימָה 
+עֶשֶׂר סְפִירוֹת בְּלִי־מָה 
 אַחַת רוּחַ אֱלֹהִים חַיִּים 
-זוּ הִיא רוּחַ הַקּוֺדֶשׁ
+זוּ הִיא רוּחַ הַקּוֹדֶשׁ
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
-The ten <em>sefirot</em> of <em>blimah</em>. 
+Ten <em>sefirot</em> of <em>blimah</em>. 
 One -- the Ruaḥ Elohim Ḥayyim (Spirit of the Living God).[foot]<span class="hebrew">קול ורוח ודיבור</span> (Voice, and wind, and word) This phrase is absent in the recension of R' Saadya Gaon. Gruenwald comments that "the three words may well point to possible <em>Logos</em>-speculation which lie at the bottom of this section of the book" (1972: p.500). Hayman agrees with Weinstock that the phrase is a "conspicuous enigmatic addition" (1972: 45, n. 8), that the two kinds of <em>ruaḥ</em> are distinguished in the very next section (Mss. 12), and that identifying the two kinds of <em>ruaḥ</em> here compounds the ambiguity of its meaning rather than clarifying it (Hayman, p81-82). The identification of <em>ruaḥ</em> with a Jewish conception of <em>Logos</em> appears significant here, as an introduction to Mss. 12 in its short recension, which further explains that <em>ruaḥ</em> was carved and hewed in the aleph-bet.[/foot] -- 
 this is the Ruaḥ haQodesh (the Holy Spirit). [§10]
 </div></td></tr>
@@ -194,7 +195,7 @@ this is the Ruaḥ haQodesh (the Holy Spirit). [§10]
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
 שְׁתַּיִם רוּחַ מֵרוּחַ 
-חָקַק וְחָצַב בָּה אַרְבַּע רוּחוֺת הַשָׁמַיִם
+חָקַק וְחָצַב בָּה אַרְבַּע רוּחוֹת הַשָׁמַיִם
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
@@ -208,7 +209,7 @@ he carved and hewed in it the four winds of heaven. [§12]
 שָׁלֹש מַיִם מֵרוּחַ 
 חָקַק וְחָצַב בָּהֶם <span class="scribe">תֹהוּ וָבֹהוּ</span> רֶפֶשׁ וָטִיט 
 חֲקָקָן כְּמִין עֲרוּגָה 
-הַצִיבָן כְמִין חוֺמָה 
+הַצִיבָן כְמִין חוֹמָה 
 סִיכְכָן כְמִין מַעֲזִיבָה
 </span></div></td>
 
@@ -224,7 +225,7 @@ and he wove them like a sort of ceiling. [§13]
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
 אַרְבַּע אֵשׁ מִמַּיִם 
-חָקַק וְחָצַב בָּה כִּסֵּא כָּבוֺד וְכֹּל צָבָא מָרוֹם
+חָקַק וְחָצַב בָּה כִּסֵּא כָּבוֹד וְכֹּל צָבָא מָרוֹם
 שֶׁכַּךְ כָּתוּב <span class="scribe">עֹשֶׂה מַלְאָכָיו רוּחוֹת</span>
 </span></div></td>
 
@@ -237,12 +238,12 @@ for thus it is written: "he makes his angels winds" (Psalms 104:4).  [§14]
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
-חָמֵשׁ חָתַם רוּם פָנָה לְמַעְלָה וַחֲתָמוֺ בְּ<span class="scribe">יה״ו</span>
-שֵׁשׁ חָתַם תַּחַת פָנָה לְמַטָּה וַחֲתָמוֺ בְּ<span class="scribe">יו״ה</span>
-שֶׁבַע חָתַם מִזְרָח פָנָה לְפָנָיו וַחֲתָמוֺ בְּ<span class="scribe">הו״י</span>
-שְׁמֹנֶה חָתַם מַעֲרָב פָנָה לְאַחֲרָיו וַחֲתָמוֺ בְּ<span class="scribe">הי״ו</span>
-תֵּשַׁע חָתַם דָּרוֺם פָנָה לִימִינוֺ וַחֲתָמוֺ בְּ<span class="scribe">וי״ה</span>
-עֶשֶׂר חָתַם צָפוֺן פָנָה לִשְׂמֹאלוֺ וַחֲתָמוֺ בְּ<span class="scribe">וה״י</span>
+חָמֵשׁ חָתַם רוּם פָנָה לְמַעְלָה וַחֲתָמוֹ בְּ<span class="scribe">יה״ו</span>
+שֵׁשׁ חָתַם תַּחַת פָנָה לְמַטָּה וַחֲתָמוֹ בְּ<span class="scribe">יו״ה</span>
+שֶׁבַע חָתַם מִזְרָח פָנָה לְפָנָיו וַחֲתָמוֹ בְּ<span class="scribe">הו״י</span>
+שְׁמֹנֶה חָתַם מַעֲרָב פָנָה לְאַחֲרָיו וַחֲתָמוֹ בְּ<span class="scribe">הי״ו</span>
+תֵּשַׁע חָתַם דָּרוֹם פָנָה לִימִינוֹ וַחֲתָמוֹ בְּ<span class="scribe">וי״ה</span>
+עֶשֶׂר חָתַם צָפוֹן פָנָה לִשְׂמֹאלוֹ וַחֲתָמוֹ בְּ<span class="scribe">וה״י</span>
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
@@ -257,10 +258,10 @@ Ten -- he sealed the north. He turned to his left and sealed it with VHY. [§15]
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
-אֵילּוּ עֶשֶׂר סְפִירוֺת בְּלִימָה 
+אֵילּוּ עֶשֶׂר סְפִירוֹת בְּלִי־מָה 
 רוּחַ אֱלֹהִים חַיִּים 
 וְרוּחַ מַיִם אֵשׁ. 
-מַעְלָה מַטָּה מִזְרָח מַעֲרָב צָפוֺן וְדָרוֺם
+מַעְלָה מַטָּה מִזְרָח מַעֲרָב צָפוֹן וְדָרוֹם
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
@@ -283,10 +284,10 @@ above, below, east, west, north, and south. [§16]
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
-עֶשְׂרִים וּשְׁתַּיִם אוֺתִיּוֺת יְסוֺד 
-שָׁלֹשׁ אִמּוֺת 
-שֶׁבַע כְּפוּלוֺת 
-וּשְׁתֵּים עֶשְֹרֵה פְשׁוּטוֺת.
+עֶשְׂרִים וּשְׁתַּיִם אוֹתִיּוֹת יְסוֹד 
+שָׁלֹשׁ אִמּוֹת 
+שֶׁבַע כְּפוּלוֹת 
+וּשְׁתֵּים עֶשְֹרֵה פְשׁוּטוֹת.
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
@@ -299,10 +300,10 @@ and twelve simple (letters). [§9]
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
-[עֶשְׂרִים וּשְׁתַּיִם אוֺתִיּוֺת 
-חֲקוּקוֺת בְּקוֺל 
-חֲצוּבוֺת בְּרוּחַ 
-קְבוּעוֺת בְּפֶה בַחֲמֵשׁ מְקוֺמוֺת 
+[עֶשְׂרִים וּשְׁתַּיִם אוֹתִיּוֹת 
+חֲקוּקוֹת בְּקוֹל 
+חֲצוּבוֹת בְּרוּחַ 
+קְבוּעוֹת בְּפֶה בַחֲמֵשׁ מְקוֹמוֹת 
 א״ח ה״ע 
 ב״ו מ״ף 
 ג״י כ״ק 
@@ -317,7 +318,7 @@ hewn out with wind,
 fixed in the mouth in five positions: 
 Alef, Ḥet; He, Ayin; 
 Bet, Vav; Mem, Pe; 
-Gimel, Zayin; Kaph, Qof; 
+Gimel, Zayin; Khaf, Qof; 
 Dalet, Tet; Lamed, Nun, Tav; 
 Zayin, Samekh; Shin, Resh, Tsadi.] [§17][foot]The second part of Mss. 17, omitted here, organizes the letters by the place of articulation in the mouth. Hayman notes that "the closest parallel to the theory of phonetics expressed here...is found in an Arabic treatise Kit'ab Al-Ayin produced by the Muslim scientist and linguist Al-Halil (c. 710-775/91)....parallels...discussed by Allony (1972:88-91)" (p.95).[/foot]
 </div></td></tr>
@@ -325,11 +326,11 @@ Zayin, Samekh; Shin, Resh, Tsadi.] [§17][foot]The second part of Mss. 17, omitt
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
-עֶשְׂרִים וּשְׁתַּיִם אוֺתִיּוֺת 
-קְבוּעוֺת בְּגַלְגַּל 
-חֹזֵר גַלְגַּל פָּנִים וְאָחוֺר 
+עֶשְׂרִים וּשְׁתַּיִם אוֹתִיּוֹת 
+קְבוּעוֹת בְּגַלְגַּל 
+חֹזֵר גַלְגַּל פָּנִים וְאָחוֹר 
 סִימָן לְדָבָר 
-אֵין בְּטוֺבָה לְמַעְלָה מֵעוֺנֶג
+אֵין בְּטוֹבָה לְמַעְלָה מֵעוֹנֶג
 וְאִם בְּרָעָה לְמַטָּה בַּנֶּגַע
 </span></div></td>
 
@@ -345,7 +346,7 @@ and if in evil, below pain (<em>nega</em>). [§18]
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
-עֶשְׂרִים וּשְׁתַּיִם אוֺתִיּוֺת 
+עֶשְׂרִים וּשְׁתַּיִם אוֹתִיּוֹת 
 חֲקָקָן
 חֲצָבָן 
 צְרָפָן 
@@ -353,9 +354,9 @@ and if in evil, below pain (<em>nega</em>). [§18]
 [כֵּיצַד שְׁקָלָן וְהֲמִירָן 
 אָלֶף עִם כֻּלָּן, וְכֻּלָּן עִם אָלֶף 
 בֵּית עִם כֻּלָּן וְכֻּלָּן עִם בֵּית 
-וְכֻּלָּן חוֺזְרוֺת חֲלִילָה 
-נִמְצְאוּ יוצְאוֺת בְּמָאתַיִם וּשְׁלֹשִים וְאֶחָד שְׁעָרִים 
-נִמְצָא כָל־הַיְצוּר וְכָל־הַדִּבּוּר יוֺצֵא בְּשֵׁם אֶחָד]
+וְכֻּלָּן חוֹזְרוֹת חֲלִילָה 
+נִמְצְאוּ יוצְאוֹת בְּמָאתַיִם וּשְׁלֹשִים וְאֶחָד שְׁעָרִים 
+נִמְצָא כָל־הַיְצוּר וְכָל־הַדִּבּוּר יוֹצֵא בְּשֵׁם אֶחָד]
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
@@ -375,9 +376,9 @@ The result is that they go out by two-hundred and thirty-one openings.[foot]or "
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
-יָצַר מִתּוֺהוּ מַמָּשׁ 
-וְעָשָׂאוֺ בַּאֵשׁ וַיֶשְׁנוֺ 
-וְחָצַב עַמּוּדִים גְּדוֹלִים מְאַוֵּיר שֶׁאֵינוֺ נִתְּפַשׁ.
+יָצַר מִתּוֹהוּ מַמָּשׁ 
+וְעָשָׂאוֹ בַּאֵשׁ וַיֶשְׁנוֹ 
+וְחָצַב עַמּוּדִים גְּדוֹלִים מְאַוֵּיר שֶׁאֵינוֹ נִתְּפַשׁ.
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
@@ -399,9 +400,9 @@ and he hewed out great columns from intangible air.[foot]Hayman notes that "grea
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
-שָׁלוֺשׁ אִימּוֺת אמ״ש 
-יְסוֺדָן כַּף זְכוּת וְכַּף חוֺבָה 
-וְלָשׁוֺן חֹק מַכְרִיעַ בֵּינָתַּיִים.
+שָׁלוֹשׁ אִימּוֹת אמ״ש 
+יְסוֹדָן כַּף זְכוּת וְכַּף חוֹבָה 
+וְלָשׁוֹן חֹק מַכְרִיעַ בֵּינָתַּיִים.
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
@@ -413,10 +414,10 @@ and the language of statute (<em>ḥoq</em>) decides between them. [§23]
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
-שָׁלוֺשׁ אִימּוֺת אמ״ש 
-סוֺד גָּדוֺל מְכוּסָּה וּמוּפְלָא 
-וְחָתוּם בְּשֵׁשׁ טַבָּעוֺת 
-וּמִמֶּנוּ יוֺצְאִין אֵשׁ מַיִם וִּרוּחַ 
+שָׁלוֹשׁ אִימּוֹת אמ״ש 
+סוֹד גָּדוֹל מְכוּסָּה וּמוּפְלָא 
+וְחָתוּם בְּשֵׁשׁ טַבָּעוֹת 
+וּמִמֶּנוּ יוֹצְאִין אֵשׁ מַיִם וִּרוּחַ 
 וּמְחוּתָּל בִּזָכָר וּנְקֵבָה.
 </span></div></td>
 
@@ -431,7 +432,7 @@ and it is wrapped up in male and female. [§24]
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
-שָׁלֹשׁ(ה) [אִמּוֺת] &nbsp;
+שָׁלֹשׁ(ה) [אִמּוֹת] &nbsp;
 אֵשׁ לְמַעְלָה 
 מַיִם לְמַטָּה 
 וִּרוּחַ [חֹק מַכְרִיעַ] בֵּנָתַּיִים.
@@ -447,9 +448,9 @@ and wind is [the rule deciding] between them. [§25]
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
-שָׁלוֺשׁ אִימּוֺת אמ״ש 
+שָׁלוֹשׁ אִימּוֹת אמ״ש 
 מֵם דּוֹמֶמֶת 
-שִׁין שׁוֺרֶקֶת 
+שִׁין שׁוֹרֶקֶת 
 אָלֶף רוּחַ חֹק מַכְרִיעַ בֵּנָתַּיִם.
 </span></div></td>
 
@@ -464,7 +465,7 @@ Alef is the rule of wind deciding between them. [§26]
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
 [הִמְלִיךְ אֹת אָלֶף בְּרוּחַ 
-וְקָשַׁר לוֺ כֶתֶר וְחָתַם בּוֺ אַוֵּיר בָּעוֺלָם
+וְקָשַׁר לוֹ כֶתֶר וְחָתַם בּוֹ אַוֵּיר בָּעוֹלָם
 רְוִיָה בַשָּׁנָה 
 וּגְוִיָּה בַנֶּפֶשׁ.]
 </span></div></td>
@@ -480,8 +481,8 @@ humidity in the year,
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
 [הִמְלִיךְ אֹת מֵם בְּמַיִם 
-וְקָשַׁר לוֺ כֶתֶר וְחָתַם בּוֺ אֶרֶץ בָּעוֺלָם 
-וְקוֺר בַּשָּׁנָה 
+וְקָשַׁר לוֹ כֶתֶר וְחָתַם בּוֹ אֶרֶץ בָּעוֹלָם 
+וְקוֹר בַּשָּׁנָה 
 וּבֶטֶן בַּנֶפֶשׁ.]
 </span></div></td>
 
@@ -496,8 +497,8 @@ and the belly in the body.] [§33]
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
 [הִמְלִיךְ אֹת שִׁין בְּאֵשׁ 
-וְקָשַׁר לוֺ כֶתֶר וְחָתַם בּוֺ שָׁמַיִם בָּעוֺלָם 
-וְחוֺם בַּשָּׁנָה 
+וְקָשַׁר לוֹ כֶתֶר וְחָתַם בּוֹ שָׁמַיִם בָּעוֹלָם 
+וְחוֹם בַּשָּׁנָה 
 וְרֹאשׁ בַּנֶּפֶשׁ.]
 </span></div></td>
 
@@ -521,46 +522,46 @@ and the head in the body.] [§34]
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
-שֶׁבַע כְּפוּלוֺת בג״ד כפר״ת 
-מִתְנַהֲגוֺת בְּשְׁתֵּי לְשׁוֺנוֺת
-חַיִּים וֽשָׁלוֺם וְחָכְמָה וְעוֺשֶׁר 
+שֶׁבַע כְּפוּלוֹת בג״ד כפר״ת 
+מִתְנַהֲגוֹת בְּשְׁתֵּי לְשׁוֹנוֹת
+חַיִּים וֽשָׁלוֹם וְחָכְמָה וְעוֹשֶׁר 
 חֵן זֶרַע מֶמְשָׁלָה 
-וּמִתְנַהֲגוֺת בְּשְׁתֵּי לְשׁוֺנוֺת
+וּמִתְנַהֲגוֹת בְּשְׁתֵּי לְשׁוֹנוֹת
 בֵּי בֵי גִּימַל גִמַל דֶּלֶת דֶלֶת כַּף כַף פֵּי פֵי רֵּישׁ רֵישׁ תָּיו תָיו
-רַק וְקָשֶׁה גִיבּוֺר וְחָלָשׁ
+רַק וְקָשֶׁה גִיבּוֹר וְחָלָשׁ
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
-Seven double letters: Bet, Gimel, Dalet; Kaph, Pe, Resh, Tav. 
+Seven double letters: Bet, Gimel, Dalet; Khaf, Phe, Resh, Tav. 
 They are pronounced with the tongue in two different positions: 
 life and peace and wisdom and wealth, 
 prosperity, beauty, and mastery. 
 They are pronounced with the tongue in two different positions: 
-Bet/Vet, Gimel/Ghimel, Dalet/Dhalet, Kaph/Khaph, Pe/Fe, Resh/Rhesh, Tav/Thav -- 
+Bet/Vet, Gimel/Ghimel, Dalet/Dhalet, Kaf/Khaf, Pe/Fe, Resh/Rhesh, Tav/Thav -- 
 soft and hard, a paradigm of strong and weak. [§37a]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
-[שֶׁבַע כְּפוּלוֺת בג״ד כפר״ת 
-מִשְׁתַּמְשׁוֺת בְּשְׁתֵּי לְשׁוֺנוֺת
+[שֶׁבַע כְּפוּלוֹת בג״ד כפר״ת 
+מִשְׁתַּמְשׁוֹת בְּשְׁתֵּי לְשׁוֹנוֹת
 בֵּי בֵי גִּימַל גִמַל דֶּלֶת דֶלֶת כַּף כַף פֵּי פֵי רֵּישׁ רֵישׁ תָּיו תָיו
-רַךְ וְקָשֶׁה תַּבְנִית גִבּוֺר וְחָלָשׁ 
-כְּפוּלוֺת שֶׁהֵן תְּמוּרוֺת 
+רַךְ וְקָשֶׁה תַּבְנִית גִבּוֹר וְחָלָשׁ 
+כְּפוּלוֹת שֶׁהֵן תְּמוּרוֹת 
 תְּמוּרַת חַיִּים מָוֶת 
-תְּמוּרַת שָׁלוֺם רַע 
+תְּמוּרַת שָׁלוֹם רַע 
 תְּמוּרַת חָכְמָה אִוֶּלֶת 
-תְּמוּרַת עוֺשֶר עוֺנִי 
+תְּמוּרַת עוֹשֶר עוֹנִי 
 תְּמוּרַת זֶרַע שְׁמָמָה 
 תְּמוּרַת חֵן כִּיאוּר 
 תְּמוּרַת מֶמְשָׁלָה עַבְדוּת]
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
-[Seven double letters: Bet, Gimel, Dalet; Kaph, Pe, Resh, Tav. 
+[Seven double letters: Bet, Gimel, Dalet; Khaf, Phe, Resh, Tav. 
 They are pronounced with the tongue in two different positions: 
-Bet/Vet, Gimel/Ghimel, Dalet/Dhalet, Kaph/Khaph, Pe/Fe, Resh/Rhesh, Tav/Thav -- 
+Bet/Vet, Gimel/Ghimel, Dalet/Dhalet, Kaf/Khaf, Pe/Fe, Resh/Rhesh, Tav/Thav -- 
 soft and hard, a paradigm of strong and weak. 
 They are double letters because they are opposites. 
 The opposite of life is death; 
@@ -575,27 +576,27 @@ and the opposite of mastery is slavery.] [§37b]
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
-שֶׁבַע כְּפוּלוֺת בג״ד כפר״ת 
-שֵׁשׁ קְצָווֺת וְהֵיכַל קָדוֹשׁ מוּכָן בְּאֶמְצָע [וְהוּא נוֺשֵׂא אֶת כּוּלָם]
+שֶׁבַע כְּפוּלוֹת בג״ד כפר״ת 
+שֵׁשׁ קְצָווֹת וְהֵיכַל קָדוֹשׁ מוּכָן בְּאֶמְצָע [וְהוּא נוֹשֵׂא אֶת כּוּלָם]
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
-Seven double letters: Bet, Gimel, Dalet; Kaph, Pe, Resh, Tav.
+Seven double letters: Bet, Gimel, Dalet; Khaf, Phe, Resh, Tav.
 Six edges and the holy temple set in the middle [and it supports them all]. [§38]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
-שֶׁבַע כְּפוּלוֺת בג״ד כפר״ת
+שֶׁבַע כְּפוּלוֹת בג״ד כפר״ת
 חֲקָקָן
 חֲצָבָן 
 צְרָפָן 
-וְצָר בָּהֶן כוֺכָבִים יָמִים וּשְׁעָרִּים
+וְצָר בָּהֶן כוֹכָבִים יָמִים וּשְׁעָרִּים
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
-Seven double letters: Bet, Gimel, Dalet; Kaph, Pe, Resh, Tav. 
+Seven double letters: Bet, Gimel, Dalet; Khaf, Phe, Resh, Tav. 
 He carved them, 
 he hewed them, 
 he combined them, 
@@ -606,15 +607,15 @@ and formed with them the starry planets, the days, and the openings.[foot]Some r
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
 כְּאֵיזֶה צָד צְרָפָן  
-שְׁתֵּי אֲבָנִים בּוֺנוֺת שְׁנֵי בָּתִּים 
-שָׁלוֺשׁ בּוֺנוֺת שִׁשָׁה בָּתִּים 
-אַרְבָּע בּוֺנוֺת עֶשְׂרִים וְאַרְבָּע בָּתִּים 
-חָמֵשׁ בּוֺנוֺת מֵאָה וְעֶשְׂרִים בָּתִּים 
-שֵׁשׁ בּוֺנוֺת שֶׁבַע מֵאוֺת וְעֶשְׂרִים בָּתִּים 
-שֶׁבַע בּוֺנוֺת חֲמֵשֶׁת אֲלָפִים וְאַרְבָּעִים בָּתִּים 
-מִיכַּאן וְאֵילָךְ צֵא וַחֲשׁוֺב 
-מַה שֶׁאֵין הַפֶּה יְכוֺלָה לְדַבֵּר 
-וּמַה שֶׁאֵין הַאוֺזֶן יְכוֺלָה לִשְׁמוֺעַ
+שְׁתֵּי אֲבָנִים בּוֹנוֹת שְׁנֵי בָּתִּים 
+שָׁלוֹשׁ בּוֹנוֹת שִׁשָׁה בָּתִּים 
+אַרְבָּע בּוֹנוֹת עֶשְׂרִים וְאַרְבָּע בָּתִּים 
+חָמֵשׁ בּוֹנוֹת מֵאָה וְעֶשְׂרִים בָּתִּים 
+שֵׁשׁ בּוֹנוֹת שֶׁבַע מֵאוֹת וְעֶשְׂרִים בָּתִּים 
+שֶׁבַע בּוֹנוֹת חֲמֵשֶׁת אֲלָפִים וְאַרְבָּעִים בָּתִּים 
+מִיכַּאן וְאֵילָךְ צֵא וַחֲשׁוֹב 
+מַה שֶׁאֵין הַפֶּה יְכוֹלָה לְדַבֵּר 
+וּמַה שֶׁאֵין הַאוֹזֶן יְכוֹלָה לִשְׁמוֹעַ
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
@@ -668,12 +669,12 @@ Also see the wikipedia entry "<a href="https://en.wikipedia.org/wiki/Factorial">
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
-שְׁתֵים עֶשְׂרֵה פְשׁוּטוֺת
+שְׁתֵים עֶשְׂרֵה פְשׁוּטוֹת
 הוזחטילנסעצ״ק 
-יְסוֺדָן רְאִיָּה שְׁמִיעָה רִיחָה 
+יְסוֹדָן רְאִיָּה שְׁמִיעָה רִיחָה 
 שִׂיחָה לְעִיטָה תַּשְׁמִישׁ 
-מַעֲשֶׂה הִילּוּךְ רוֺגֶז
-שֹחוֺק הִרְהוּר שֵׁינָה.
+מַעֲשֶׂה הִילּוּךְ רוֹגֶז
+שֹחוֹק הִרְהוּר שֵׁינָה.
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
@@ -688,19 +689,19 @@ laughter, thought, sleep. [§45]
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
-שְׁנֵים עָשָׂר גְּבוּלֵי אֲלַכְסוֺן 
-גְּבוּל מִזְרָחִית צְפוֺנִית 
-גְּבוּל מִזְרָחִית דְּרוֺמִית 
-גְּבוּל מִזְרָחִית רוֺמִית 
+שְׁנֵים עָשָׂר גְּבוּלֵי אֲלַכְסוֹן 
+גְּבוּל מִזְרָחִית צְפוֹנִית 
+גְּבוּל מִזְרָחִית דְּרוֹמִית 
+גְּבוּל מִזְרָחִית רוֹמִית 
 גְּבוּל מִזְרָחִית תַּחְתִּית 
-גְּבוּל צְפוֺנִית תַּחְתִּית 
-גְּבוּל צְפוֺנִית מַעֲרָבִית 
-גְּבוּל צְפוֺנִית רוֺמִית 
+גְּבוּל צְפוֹנִית תַּחְתִּית 
+גְּבוּל צְפוֹנִית מַעֲרָבִית 
+גְּבוּל צְפוֹנִית רוֹמִית 
 גְּבוּל מַעֲרָבִית תַּחְתִּית 
-גְּבוּל מַעֲרָבִית דְּרוֺמִית 
-גְּבוּל מַעֲרָבִית רוֺמִית 
-גְּבוּל דְּרוֺמִית תַּחְתִּית 
-גְּבוּל דְּרוֺמִית רוֺמִית
+גְּבוּל מַעֲרָבִית דְּרוֹמִית 
+גְּבוּל מַעֲרָבִית רוֹמִית 
+גְּבוּל דְּרוֹמִית תַּחְתִּית 
+גְּבוּל דְּרוֹמִית רוֹמִית
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
@@ -722,12 +723,12 @@ the lower eastern line,
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
-שְׁתֵים עֶשְׂרֵה פְשׁוּטוֺת
+שְׁתֵים עֶשְׂרֵה פְשׁוּטוֹת
 חֲקָקָן
 צְרָפָן 
 חֲצָבָן 
 שְׁקָלָן וְהֲמִירָן 
-וְצָר בָּהֶם מַזָּלוֺת וְחֲדָשִׁים וּמַנְהִיגִים
+וְצָר בָּהֶם מַזָּלוֹת וְחֲדָשִׁים וּמַנְהִיגִים
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
@@ -745,13 +746,13 @@ and formed with them constellations, the months, and the principle (bodily) orga
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
-<h3>6: The Witnesses and the Statute of Opposition</h3>
+<h3>[6: The Proof]</h3>
 </div></td>
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
-[אֵילּוּ עֶשְׂרִים וּשְׁתַּיִם אוֺתִיּוֺת 
-שֶׁבָּהֶן יָסַד יָהּ יהוה צְבָאוֺת אֱלֹהִים חַיִּים אֱלֹהֵי יִשְׂרָאֵל 
+[אֵילּוּ עֶשְׂרִים וּשְׁתַּיִם אוֹתִיּוֹת 
+שֶׁבָּהֶן יָסַד יָהּ יהוה צְבָאוֹת אֱלֹהִים חַיִּים אֱלֹהֵי יִשְׂרָאֵל 
 <span class="scribe">רָם וְנִשָּׂא שֹׁכֵן עַד וְקָדוֹשׁ שְׁמוֹ</span>]
 </span></div></td>
 
@@ -764,11 +765,11 @@ and formed with them constellations, the months, and the principle (bodily) orga
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
-שְׁלֹשָה אָבוֺת וְתוֺלְדוֺתֵיהֶן 
-וְשִׁבְעָה כֹּבֵשִׁים וְצִבְאוֺתֵיהֶן 
+שְׁלֹשָה אָבוֹת וְתוֹלְדוֹתֵיהֶן 
+וְשִׁבְעָה כֹּבֵשִׁים וְצִבְאוֹתֵיהֶן 
 וּשְׁנֵים עָשָׂר גְבוּלֵי אֻכְלוּסִין 
 וְרַאֲיָה לֻדָבָר עֵדִים נֶאֱמָנִים 
-עוֺלָם שָׁנָה וָנֶפֶש
+עוֹלָם שָׁנָה וָנֶפֶש
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
@@ -783,8 +784,8 @@ And a proof for the matter -- trustworthy witnesses:[foot]The custom of enlargin
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
 [חִיצָה אֶת הַעֵדִים 
-וְהַעֲמִידָן אִחָה אֶחָד לְבַדּוֺ 
-עוֺלָם לְבַדּוֺ, 
+וְהַעֲמִידָן אִחָה אֶחָד לְבַדּוֹ 
+עוֹלָם לְבַדּוֹ, 
 שָׁנָה לְבַדָּה 
 נֶפֶשׁ לְבַדָּה].
 </span></div></td>
@@ -802,7 +803,7 @@ and the body by itself.] [§43c][foot]Hayman has this section set between §40 a
 <div class="liturgy" style="text-align: right;"><span lang="he">
 חֹק עֲשָׂרָה שְׁלֹשָׁה וְשִׁבְעָה וּשְׁנֵים עָשָׂר 
 פְקוּדִין בְּתָּלִי וְגַלְגַּל וָלֵב. 
-תָּלִי בְעוֺלָם כְּמֶלֶךְ עַל־כִּסְאוֺ 
+תָּלִי בְעוֹלָם כְּמֶלֶךְ עַל־כִּסְאוֹ 
 גַלְגַּל בְּשָׁנָה כְּמֶלֶךְ בִּמְדִינָה 
 לֵב בְּנֶפֶשׁ כְּמֶלֶךְ בְּמִלְחָמָה
 </span></div></td>
@@ -832,13 +833,13 @@ he arranged them a sort of battle,
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
-שְׁלֹשָה אֶחָד אֶחָד לְבַדּוֺ 
-עוֺמֵד שִׁבְעָה 
+שְׁלֹשָה אֶחָד אֶחָד לְבַדּוֹ 
+עוֹמֵד שִׁבְעָה 
 שְׁלֹשָה חָלוּקִין עַל שְׁלֹשָה 
-וְאֶחָד חוֺק מַכְרִיעַ בֵּנָתַיִים
-שְׁנֵים עָשָׂר עוֺמְדִין בְּמִלְחָמָה 
+וְאֶחָד חוֹק מַכְרִיעַ בֵּנָתַיִים
+שְׁנֵים עָשָׂר עוֹמְדִין בְּמִלְחָמָה 
 שְׁלֹשָה אוֹיֵבִים
-וּשְׁלֹשָה אוֺהֲבִים 
+וּשְׁלֹשָה אוֹהֲבִים 
 שְׁלֹשָה מְחַיִּים
 וּשְׁלֹשָה מְמִיתִים
 וְכּוּלָּן אָדוּקִין זֶה בְּזֶה
@@ -861,9 +862,9 @@ And all of them are engaged[foot]literally, are fastened. Hayman has, "adhered."
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
 גַּם כָל חֵפֶץ זֶה לְעוּמַּת זֶה עָשָׂה אֱלֹהִים 
-טוֺב לְעוּמַּת רַע רַע מִרַע וְטוֺב מִטּוֺב 
-טוֺב מַבְחִין אֶת רַע וְרַע מַבְחִין אֶת טוֺב 
-טוֺבָה גְּנוּזָה לַטּוֺבִים
+טוֹב לְעוּמַּת רַע רַע מִרַע וְטוֹב מִטּוֹב 
+טוֹב מַבְחִין אֶת רַע וְרַע מַבְחִין אֶת טוֹב 
+טוֹבָה גְּנוּזָה לַטּוֹבִים
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
@@ -879,7 +880,7 @@ good opposite evil -- good from good and evil from evil.
 כְּשֶׁהֵבִין אַבְרָהָם אָבִינוּ 
 וְצָר וְצֹרַף 
 וְחָקַר וְחָשַׁב 
-וְעָלְתָה בְּיַדוֺ 
+וְעָלְתָה בְּיַדוֹ 
 נִיגְלָה עַלָיו יהוה
 </span></div></td>
 

@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: ידיד נפש | Yedid Nefesh attributed to Elazar ben Moshe Azikri ca. 16th c. (translation by Rabbi Zalman Schachter-Shalomi)<br />
+Title: ידיד נפש | Yedid Nefesh, attributed to Elazar ben Moshe Azikri ca. 16th c. (translation by Rabbi Zalman Schachter-Shalomi)<br />
 Primary contributor: zalman.schachter-shalomi<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=10031">http://opensiddur.org/?p=10031</a>
 <p />
@@ -122,5 +122,7 @@ Grace us as of old...
 <hr />
 
 <a href="http://en.wikipedia.org/wiki/Yedid_Nefesh"><em>Yedid Nefesh</em></a> is a piyyut of uncertain authorship. Rabbi Elazar Moshe Azikri (1533-1600) included the piyyut in his <em>Sefer Haḥaredim</em> (1588). (The images below are of pages with <em>Yedid Nefesh</em> handwritten by Azikri.) A version of the piyyut "with noteworthy text, spelling and pointing"[foot]Stefan C. Reif, <em>The Hebrew Manuscripts at Cambridge University Libraries: A Description and Introduction</em> Cambridge: Cambridge University Press, 1997, page 93.[/foot] may be found on folio 146 (verso) of Samuel b. David b. Solomon's <em>Commentary On the Book of Numbers</em> (ca. 1437 CE). Presumably, this text was added to the 15th century manuscript sometime in the 17th century after the popularization of <em>Yedid Nefesh</em>. The piyyut has since appeared with a number of variations in various siddurim. The variation of the piyyut shared above is sourced from the Nusaḥ ha-ARI of Rav Schenur Zalman of Liadi, transcribed by Shmuel Gonzales from the <em>Siddur Torah Ohr</em>.
+
+[gallery type="square" link="file" ids="10050,10051"]
 </body>
 </html>

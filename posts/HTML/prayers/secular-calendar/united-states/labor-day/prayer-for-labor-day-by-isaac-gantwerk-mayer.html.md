@@ -7,6 +7,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
+<div class="english" style="font-size: 1.2em;">
+This is a petition for the worker in the style of "Av Haraḥamim" and similar texts, using Biblical and Mishnaic language and co-opting it into a new meaning. It could be read after the Torah service (like many other petitionary texts) or focused on in private.
+
+The Biblical relationship between God, humanity, and labor is fascinating. Often it is treated as a curse placed upon us, and just as often as the purpose of humanity. In Genesis 3:19 it is the curse placed upon a disobedient First Adam, but less than a chapter earlier in Genesis 2:15 it is the reason for First Adam's creation in the first place!
+
+In the past century or so, traditional Judaism has somewhat tilted away from the ideas of workers' rights so clearly stated in the Tanakh and in rabbinic texts. Partially this was to disassociate from the Bundists, partially out of fear of "looking too Communist" in a xenophobic American society, and partially because the Jewish working class is nowhere near as substantial a part of the community as it once was. If this text is meant to do anything, it's to show that love of God and love of the worker aren't opposed to each other – in fact, they go hand in hand!
+</div>
+
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
@@ -108,17 +116,5 @@ and plants for humanity's work,
 to bring forth bread from the earth.[foot]Psalm 104:14[/foot]
 </div></td></tr>
 </tbody></table>
-
-<hr />
-
-This is a petition for the worker in the style of "Av Haraḥamim" and similar texts, using Biblical and Mishnaic language and co-opting it into a new meaning. It could be read after the Torah service (like many other petitionary texts) or focused on in private.
-
-The Biblical relationship between God, humanity, and labor is fascinating. Often it is treated as a curse placed upon us, and just as often as the purpose of humanity. In Genesis 3:19 it is the curse placed upon a disobedient First Adam, but less than a chapter earlier in Genesis 2:15 it is the reason for First Adam's creation in the first place!
-
-In the past century or so, traditional Judaism has somewhat tilted away from the ideas of workers' rights so clearly stated in the Tanakh and in rabbinic texts. Partially this was to disassociate from the Bundists, partially out of fear of "looking too Communist" in a xenophobic American society, and partially because the Jewish working class is nowhere near as substantial a part of the community as it once was. If this text is meant to do anything, it's to show that love of God and love of the worker aren't opposed to each other – in fact, they go hand in hand!
-
-<h3>Source(s)</h3>
-
-[gview file="https://opensiddur.org/wp-content/uploads/2018/08/Prayer-for-Labor-Day-Isaac-Gantwerk-Mayer-2018.pdf"]
 </body>
 </html>

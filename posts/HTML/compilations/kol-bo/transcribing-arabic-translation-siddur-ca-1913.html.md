@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: סידור פרחי | Siddur Farḥi, by Dr. Hillel Farḥi (ca. 1913)<br />
+Title: סידור פרחי (ספרד)‏ | Siddur Farḥi, a bilingual Hebrew-Arabic prayerbook by Dr. Hillel Farḥi (1913)<br />
 Primary contributor: hillel.farhi<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=12938">http://opensiddur.org/?p=12938</a>
 <p />
@@ -19,6 +19,6 @@ Join us in creating a faithful digital transcription of the <a href="http://he.w
 
 <h3>Source</h3>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.archive.org/stream/Siddur_Farhi-Hillel_Farhi_2nd_ed.-1917?ui=embed"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.archive.org/stream/Siddur_Farhi-Hillel_Farhi_2nd_ed.-1917#page/n0/mode/2up"]
 </body>
 </html>

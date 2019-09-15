@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: מי שבירך לתלמידים החוזרים מחופשת הקיץ | A Mi Sheberakh prayer for students returning to school after their summer break, by Rabbi Esteban Gottfried<br />
+Title: מי שבירך לתלמידים החוזרים מחופשת הקיץ | A Mi sheBerakh prayer for students returning to school after their summer break, by Rabbi Esteban Gottfried<br />
 Primary contributor: esteban.gottfried<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=21148">http://opensiddur.org/?p=21148</a>
 <p />

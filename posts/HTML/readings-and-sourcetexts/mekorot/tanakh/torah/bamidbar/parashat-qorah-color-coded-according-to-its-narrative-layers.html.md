@@ -61,7 +61,7 @@ Parashat Qoraḥ (Numbers 16:1-18:32) in the annual Torah reading cycle is the f
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="h"><sup>8</sup>&nbsp;And Mosheh said to Qoraḥ: "Pray hearken, Sons of Levi: <sup>9</sup>&nbsp;Is it too little for you that the God of Yisra'el has separated you from the community of Yisra'el to bring you near to him, to serve the serving-tasks of the Mishkan of YHVH, to stand before the community, to attend on them? <sup>10</sup>&nbsp;He has brought-near you and all your brothers, the Sons of Levi, with you — would you seek the priesthood as well? <sup>11</sup>&nbsp;Truly, (it is) you and your entire community that come-together against YHVH — as for Aharon, what is (wrong) with him that you should grumble against him!"</span>
+<span class="h"><sup>8</sup>&nbsp;And Mosheh said to Qoraḥ: "Pray hearken, Sons of Levi: <sup>9</sup>&nbsp;Is it too little for you that the Elo'ah of Yisra'el has separated you from the community of Yisra'el to bring you near to him, to serve the serving-tasks of the Mishkan of YHVH, to stand before the community, to attend on them? <sup>10</sup>&nbsp;He has brought-near you and all your brothers, the Sons of Levi, with you — would you seek the priesthood as well? <sup>11</sup>&nbsp;Truly, (it is) you and your entire community that come-together against YHVH — as for Aharon, what is (wrong) with him that you should grumble against him!"</span>
 </div></td></tr>
 
 
@@ -105,7 +105,7 @@ Parashat Qoraḥ (Numbers 16:1-18:32) in the annual Torah reading cycle is the f
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="p"><sup>20</sup>&nbsp;and YHVH said to Mosheh and to Aharon, saying: <sup>21</sup>&nbsp;"Separate (yourselves) from the midst of this community, that I may finish them off in an instant!" <sup>22</sup>&nbsp;They flung themselves on their faces and said: "O El, <em>elo'ah</em> of the spirits of all flesh, when one man sins, at the entire community will you be furious?"</span>
+<span class="p"><sup>20</sup>&nbsp;and YHVH said to Mosheh and to Aharon, saying: <sup>21</sup>&nbsp;"Separate (yourselves) from the midst of this community, that I may finish them off in an instant!" <sup>22</sup>&nbsp;They flung themselves on their faces and said: "O El, elo'ah of the spirits of all flesh, when one man sins, at the entire community will you be furious?"</span>
 </div></td></tr>
 
 

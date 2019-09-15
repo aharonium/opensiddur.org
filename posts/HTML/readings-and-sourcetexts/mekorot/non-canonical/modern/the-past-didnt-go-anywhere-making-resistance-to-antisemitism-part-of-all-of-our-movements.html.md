@@ -7,6 +7,8 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
+<a href="http://www.engageonline.org.uk/home"></a>
+
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
@@ -2478,7 +2480,7 @@ Note: Second dates indicate most recent editions. *= Good starters for a basic c
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%"><div class="english">
-<strong>Anti-Jewish oppression's history:</strong> The Devil and the Jews by Joshua Trachtenberg (1944/1984); Toward the Final Solution: A History of European Racism by George Mosse (1985); Protocols of Zion [documentary] by Marc Levin (2005); Constantine's Sword by James Carroll (2001); Russian Antisemitism, Pamyat, and the Demonology of Zionism, by William Korey (1995); *"The Longest Hatred," in New Internationalist 372 (2004) [See links]; Antisemitism in America, by Leonard Dinnerstein (1994/1995)
+<strong>Anti-Jewish oppression's history:</strong> <em>The Devil and the Jews</em> by Joshua Trachtenberg (1944/1984); <em>Toward the Final Solution: A History of European Racism</em> by George Mosse (1985); <em>Protocols of Zion</em> [documentary] by Marc Levin (2005); <em>Constantine's Sword</em>, by James Carroll (2001); <em>Russian Antisemitism, Pamyat, and the Demonology of Zionism</em>, by William Korey (1995); *"The Longest Hatred," in <em>New Internationalist</em> 372 (2004) [See links]; <em>Antisemitism in America</em>, by Leonard Dinnerstein (1994/1995)
 </div></td></tr>
 
 
@@ -2488,7 +2490,7 @@ Note: Second dates indicate most recent editions. *= Good starters for a basic c
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%"><div class="english">
-<strong>Jewish history</strong>: A Historical Atlas of the Jewish People, Eli Barnavi, ed. (1992/2002); *The Jew in the Modern World: A Documentary History, Paul Mendes-Flohr &amp; Jehuda Reinharz, eds. (1980/1995); Power and Powerlessness in Jewish History, by David Biale (1986); Torn at the Roots: The Crisis of Jewish Liberalism in Postwar America, by Michael Staub (2002); www.newjewishagenda.org, [website] by Emily Nepon (2006); *The Holocaust in American Life, by Peter Novick (1999); *Jewish Issues in Multiculturalism: A Handbook for Clinicians and Educators, by Peter Langman (1999);
+<strong>Jewish history</strong>: <em>A Historical Atlas of the Jewish People</em>, Eli Barnavi, ed. (1992/2002); *<em>The Jew in the Modern World: A Documentary History</em>, Paul Mendes-Flohr &amp; Jehuda Reinharz, eds. (1980/1995); <em>Power and Powerlessness in Jewish History</em>, by David Biale (1986); <em>Torn at the Roots: The Crisis of Jewish Liberalism in Postwar America</em>, by Michael Staub (2002); <a href="http://www.newjewishagenda.org">www.newjewishagenda.org</a>, [website] by Emily Nepon (2006); *<em>The Holocaust in American Life</em>, by Peter Novick (1999); *<em>Jewish Issues in Multiculturalism: A Handbook for Clinicians and Educators</em>, by Peter Langman (1999);
 </div></td></tr>
 
 
@@ -2498,7 +2500,7 @@ Note: Second dates indicate most recent editions. *= Good starters for a basic c
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%"><div class="english">
-<strong>Radicals on antisemitism:</strong> "That's Funny, You Don't Look Anti-Semitic: An anti-racist analysis of left anti-semitism," by Steve Cohen (1984/2005) [See links]; *"The Cyclical Nature of Jewish Oppression," [skit] by Progressives Challenging Anti-Semitism Among Progressives (1998)[See links]; *Yours in Struggle: Three Feminist Perspectives on Anti-Semitism and Racism, by Elly Bulkin, Minnie Bruce Pratt &amp; Barbara Smith (1984/1991); "Anti-Semitism," [speech] by Cherie Brown (2004) [See links]; The Socialism of Fools: Anti-Semitism On the Left, by Michael Lerner (1992); Reframing Anti-Semitism: Alternative Jewish Perspectives, Jewish Voice for Peace, eds. (2004/6th ed.)
+<strong>Radicals on antisemitism:</strong> "That's Funny, You Don't Look Anti-Semitic: An anti-racist analysis of left anti-semitism," by Steve Cohen (1984/2005) [See links]; *"The Cyclical Nature of Jewish Oppression," [skit] by Progressives Challenging Anti-Semitism Among Progressives (1998)[See links]; *<em>Yours in Struggle: Three Feminist Perspectives on Anti-Semitism and Racism</em>, by Elly Bulkin, Minnie Bruce Pratt &amp; Barbara Smith (1984/1991); "Anti-Semitism," [speech] by Cherie Brown (2004) [See links]; <em>The Socialism of Fools: Anti-Semitism On the Left</em>, by Michael Lerner (1992); <em>Reframing Anti-Semitism: Alternative Jewish Perspectives</em>, Jewish Voice for Peace, eds. (2004/6th ed.)
 </div></td></tr>
 
 
@@ -2508,7 +2510,7 @@ Note: Second dates indicate most recent editions. *= Good starters for a basic c
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%"><div class="english">
-<strong>Jewish identity &amp; liberation:</strong> *Chutzpah: A Jewish Liberation Anthology, Steven Lubet &amp; the Chutzpah Collective, eds. (1977) ; *The Flying Camel: Essays on Identity by Women of North African and Middle Eastern Jewish Heritage, Loolwa Khazzoom, ed. (2003); *The Issue is Power: Essays on Women, Jews, Violence &amp; Resistance, by Melanie Kaye/Kantrowitz (1992); The Colors of Jews, by Melanie Kaye/Kantrowitz (forthcoming); Davita's Harp [novel] by Chaim Potok (1985/1996); *" 'I'm Not White, I'm Jewish': Standing As Jews in the Fight for Racial Justice," [speech] by Paul Kivel (1998), [See links]; "How Did Jews Become White Folks?," [short essay version] by Karen Brodkin (Sacks) from Race, Steven Gregory and Roger Sanjek, eds. (1994)
+<strong>Jewish identity &amp; liberation:</strong> *<em>Chutzpah: A Jewish Liberation Anthology</em>, Steven Lubet &amp; the Chutzpah Collective, eds. (1977) ; *<em>The Flying Camel: Essays on Identity by Women of North African and Middle Eastern Jewish Heritage</em>, Loolwa Khazzoom, ed. (2003); *<em>The Issue is Power: Essays on Women, Jews, Violence &amp; Resistance</em>, by Melanie Kaye/Kantrowitz (1992); <em>The Colors of Jews</em>, by Melanie Kaye/Kantrowitz (forthcoming); <em>Davita's Harp</em> [novel] by Chaim Potok (1985/1996); *"'I'm Not White, I'm Jewish': Standing As Jews in the Fight for Racial Justice," [speech] by Paul Kivel (1998), [See links]; "How Did Jews Become White Folks?," [short essay version] by Karen Brodkin (Sacks) from <em>Race</em>, Steven Gregory and Roger Sanjek, eds. (1994)
 </div></td></tr>
 
 
@@ -2518,7 +2520,7 @@ Note: Second dates indicate most recent editions. *= Good starters for a basic c
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%"><div class="english">
-<strong>Bringing an understanding of Jewish oppression into Israel/Palestine/Jewish-Arab work:</strong> *"A Big Piece is Missing From This 'Peace'," by Loolwa Khazzoom, in Clamor #5 (2000) [See links]; "O Havruta O Mituta: How to Strengthen the Palestine Solidarity Movement By Making Friends With Jews," by Guy Izhak Austrian (2003) [See links]; Jews and Arabs, by Albert Memmi (1975/1976)
+<strong>Bringing an understanding of Jewish oppression into Israel/Palestine/Jewish-Arab work:</strong> *"A Big Piece is Missing From This 'Peace'," by Loolwa Khazzoom, in Clamor #5 (2000) [See links]; "O Havruta O Mituta: How to Strengthen the Palestine Solidarity Movement By Making Friends With Jews," by Guy Izhak Austrian (2003) [See links]; <em>Jews and Arabs</em>, by Albert Memmi (1975/1976)
 </div></td></tr>
 
 
@@ -2528,7 +2530,7 @@ Note: Second dates indicate most recent editions. *= Good starters for a basic c
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%"><div class="english">
-<strong>Organizations (from varying perspectives):</strong> Facing A Challenge Within, www.facingachallenge.com; Political Research Associates, www.publiceye.org; Engage, www.engageonline.org.uk/home; Catalyst Project, www.collectiveliberation.org
+<strong>Organizations (from varying perspectives):</strong> Facing A Challenge Within, <a href="http://www.facingachallenge.com">www.facingachallenge.com</a>; Political Research Associates, <a href="http://www.publiceye.org">www.publiceye.org</a>; Engage, <a href="http://www.engageonline.org.uk/home">www.engageonline.org.uk/home</a>; Catalyst Project, <a href="http://www.collectiveliberation.org">www.collectiveliberation.org</a>
 </div></td></tr>
 
 
@@ -2538,7 +2540,7 @@ Note: Second dates indicate most recent editions. *= Good starters for a basic c
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%"><div class="english">
-<strong>Deconstructing anti-Jewish myths:</strong> See a list of excellent web-based articles, broken down by myth, at www.pinteleyid.com/myths.html
+<strong>Deconstructing anti-Jewish myths:</strong> See a list of excellent web-based articles, broken down by myth, at <a href="http://www.pinteleyid.com/myths.html">www.pinteleyid.com/myths.html</a>
 </div></td></tr>
 
 
@@ -2563,14 +2565,13 @@ Dedicated to:
 
 and <strong>Cherie Brown</strong>, whose work to analyze anti-Jewish oppression was mentioned by so many interviewees as a source of inspiration and belief in themselves, whether they had worked with her closely, or seen one article by her long ago.
 
-FIRST EDITION, PDF APRIL 2007. (4/24/07 revision), pinteleyid.org, thepast.info
-SECOND EDITION. HTML (2018-03-16). 
+FIRST EDITION, PDF APRIL 2007. (4/24/07 revision), <a href="http://pinteleyid.org">pinteleyid.org</a>, <a href="http://thepast.info">thepast.info</a>
+SECOND EDITION. HTML (2018-03-16).
 
 This was written and researched by April Rosenblum and helped by many small donations from supportive individuals. Special thanks to Judy Rosenblum, Joel Rosenblum, Josef Kardos, all of the "If Not Together" interviewees and advisors, and dedicated readers of early drafts of "The Past;" to Kate Zaidan, whose generosity of heart and mind went beyond the call of duty in ways I won't forget; and to my friends, across many borders.
 
 <h3>Source</h3>
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.archive.org/stream/ThePastDidntGoAnywhere#page/n0/mode/2up"]
-
 </body>
 </html>

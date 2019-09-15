@@ -7,8 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-
-Compiled by Rabbis Mordecai Kaplan, Eugene Kohn, Ira Eisenstein, and Milton Steinberg, the Sabbath Prayer Book is the first Reconstructionist prayerbook we know of to have entered the Public Domain. (The prayerbook entered the Public Domain due to lack of copyright renewal by the copyright owner listed in the copyright notice, the Jewish Reconstructionist Foundation, as evidenced in the <a href="https://exhibits.stanford.edu/copyrightrenewals/about/about">Stanford Copyright Renewal database</a>.)
+Arranged and translated by Rabbi Mordecai Kaplan, the <em>Sabbath Prayer Book</em> is the first Reconstructionist prayerbook we know of to have entered the Public Domain. (The prayerbook entered the Public Domain due to lack of copyright renewal by the copyright owner listed in the copyright notice, the Jewish Reconstructionist Foundation, as evidenced in the <a href="https://exhibits.stanford.edu/copyrightrenewals/about/about">Stanford Copyright Renewal database</a>.)
 
 The original publication of this siddur was met by opposition from the <a href="https://en.wikipedia.org/wiki/Union_of_Orthodox_Rabbis">Agudas haRabbonim</a>, who enacted a ḥerem against Mordecai Kaplan and <a href="http://americanjewisharchives.org/journal/PDF/2010_62_01_00_silver.pdf">publicly burned</a> a stack of this siddur. The Jewish Virtual Library provides a <a href="http://www.jewishvirtuallibrary.org/reconstructionism">concise summary</a> of the controversy:
 
@@ -20,7 +19,7 @@ Making digital scans of siddurim and other collections of prayers in the Public 
 
 <h3>Source</h3>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.archive.org/stream/SabbathPrayerBookJewishReconstructionistFoundation1945?ui=embed"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/SabbathPrayerBookJewishReconstructionistFoundation1945#page/n02/mode/2up"]
 
 <hr />
 

@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: המחזור לראש השנה ויום כּיפּור | Ha-Maḥzor for Rosh Hashanah and Yom Kippur by Rabbi Ben-Zion Bokser (1959)<br />
+Title: המחזור לראש השנה ויום כּיפּור (אשכנז)‏ | Ha-Maḥzor for Rosh Hashanah and Yom Kippur, translated and arranged by Rabbi Ben-Zion Bokser (1959)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=17333">http://opensiddur.org/?p=17333</a>
 <p />
@@ -13,7 +13,7 @@ Arranged and translated by Rabbi Ben-Zion Bokser, Ha-Maḥzor (1959) and <a href
 
 <h3>Source</h3>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/BenZionBokserHaMahzorLRoshHaShanahVYomKippurTheHighHolydayPrayerBook1959#page/n02/mode/2up"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.archive.org/stream/BenZionBokserHaMahzorLRoshHaShanahVYomKippurTheHighHolydayPrayerBook1959?ui=embed"]
 
 <hr />
 

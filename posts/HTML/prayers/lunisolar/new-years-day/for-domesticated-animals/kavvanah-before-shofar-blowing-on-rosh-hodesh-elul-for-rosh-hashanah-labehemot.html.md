@@ -1,111 +1,375 @@
 <html>
 <head></head>
 <body>
-Title: ראש השנה לבהמות | Kavvanah before Shofar Blowing on Rosh Ḥodesh Elul for Rosh Hashanah LaBehemot (New Year's Day for Domesticated Animals)<br />
+Title: Kavvanah before Shofar Blowing on Rosh Ḥodesh Elul for Rosh haShanah la-Behemah (the Jewish New Year's Day for Animals), by Aharon Varady<br />
 Primary contributor: aharon-nissn.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=14280">http://opensiddur.org/?p=14280</a>
 <p />
 <hr />
 
-<strong>DOWNLOAD:</strong> <a href="https://opensiddur.org/wp-content/uploads/2016/08/Kavanah-for-the-Animals.odt">ODT</a> | <a href="https://opensiddur.org/wp-content/uploads/2016/08/Kavvanah-and-Shofar-Blowing-for-Rosh-Hodesh-Elul-and-Rosh-Hashanah-LaBehemot.pdf">PDF</a> (<a href="https://opensiddur.org/wp-content/uploads/2016/08/Kavvanah-and-Shofar-Blowing-for-Rosh-Hodesh-Elul-and-Rosh-Hashanah-LaBehemot-11x17.pdf">11x17</a>)
+<strong>DOWNLOAD:</strong> 
+<a href="https://opensiddur.org/wp-content/uploads/2016/08/Kavanah-for-the-Animals.odt">ODT</a>
+<a href="https://opensiddur.org/wp-content/uploads/2016/08/Kavvanah-and-Shofar-Blowing-for-Rosh-Hodesh-Elul-and-Rosh-Hashanah-LaBehemot.pdf">PDF</a> (8.5x11 format)
+<a href="https://opensiddur.org/wp-content/uploads/2016/08/Kavvanah-and-Shofar-Blowing-for-Rosh-Hodesh-Elul-and-Rosh-Hashanah-LaBehemot-11x17.pdf"></a> (11x17 format)
 
-[gview file="https://opensiddur.org/wp-content/uploads/2016/08/Kavvanah-and-Shofar-Blowing-for-Rosh-Hodesh-Elul-and-Rosh-Hashanah-LaBehemot.pdf"]
+<div class="english" style="font-size: 1.2em;">
+For a sourcesheet on Rosh ha-Shanah la-Behemah, find Aharon Varady's compilation of texts, <a href="https://www.sefaria.org/sheets/184964?lang=bi">here</a>.
 
-<div class="english">
-
-(Opening Song: <em>Nishmat Kol Chai Tivarech et Shimcha, YHVH Eloheinu...</em>)
-
-<em>If meeting in front of a working farm or garden with grazing animals, introduce the animals and the purpose of the farm to guests, visitors, and staff.</em>
-
-<em>Introduce Rosh Hashanah La'Behemot with the following kavvanah:</em>
-
-On Rosh Ḥodesh Elul falls the Rosh Hashanah La'Behemot -- the New Year's Day for Tithing Domesticated Animals described in the Mishnah.
+The text of this ritual shofar blowing for Rosh Ḥodesh Elul and Rosh ha-Shanah La-Behemah developed as part of the annual ceremony taking place at the dairy barn on the campus of the Isabella Freedman Retreat Center beginning in 2009 under the auspices of Elat Chayyim and the Adamah Jewish Farming Fellowship. The ceremony was co-developed by Rabbi Jill Hammer and Sarah Chandler in 2009, with the kavvanah added by Aharon Varady beginning in 2010. The text presented here was further developed by Aharon prior to the Detroit Hazon Jewish Food Festival in 2016. 
 </div>
 
-<table style="margin-left: auto; margin-right: auto;">
+<hr />
+
+<table style="margin-left: auto;margin-right: auto;" class="draggable">
+<thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr>
-<td style="vertical-align: top;" width="46%">
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+<span class="instruction">(Opening Song: <em>Nishmat Kol Chai Tivarech et Shimcha, YHVH Eloheinu...</em></span>
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+<span class="instruction">If meeting in front of a working farm or garden with grazing animals, introduce the animals and the purpose of the farm to guests, visitors, and staff.</span>
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+<span class="instruction">Introduce Rosh haShanah La-Behemah with the following explanation:</span>
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+On Rosh Ḥodesh Elul falls the Rosh haShanah La-Behemah -- 
+the New Year's Day for Tithing Domesticated Animals described in the Mishnah.
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
 ראש השנה פרק א משנה א
 </span></div></td>
 <td style="vertical-align: top;" width="53%">
 <div class="english">
 Seder Moed: Rosh Hashanah, Chapter 1, Mishnah 1</div></td>
-</tr>   <tr>
+</tr>
+
+
+<tr>
 <td style="vertical-align: top;" width="46%">
 <div class="liturgy"><span lang="he">
 באחד באלול ראש השנה למעשר בהמה. 
 </span></div></td>
 <td style="vertical-align: top;" width="53%">
 <div class="english">
-The first of <em>Elul</em> is the Rosh HaShanah for tithing <em>behema</em> (domesticated animals). 
-</div></td>
-</tr>
-</tbody></table>
+The first of <em>Elul</em> is the Rosh haShanah for tithing <em>behema</em> (domesticated animals). 
+</div></td></tr>
 
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
 <div class="english">
-On the day intended to <em>count</em> one's animals for sacrificial temple offerings, <em>take into account</em> and consider how domesticated animals
-<p style="padding-left: 30px;">rely on humankind for their health and well-being
-and in what ways our lives rely upon those of domesticated animals.</p>
-On Rosh Ḥodesh Elul, the first day of the new moon of Elul, we begin an <em>accounting</em> for all the souls with whom we are in a relationship.
+On the day intended to <em>count</em> one's animals for sacrificial temple offerings, 
+<em>take into account</em> and consider how domesticated animals
+rely on humankind for their health and well-being
+and in what ways our lives rely upon those of domesticated animals.
+</div></td></tr>
 
-On a day dedicated to <em>counting</em>, this is an <em>accounting</em> (a <em>ḥeshbon nefesh</em>) for all of our souls.
-<p style="padding-left: 30px;">Before we can expect to be forgiven our transgressions,
-we must examine them thoroughly, and wherever possible, correct and heal them.</p>
-On Rosh Hashanah La'Behemot, the New Years Day for Domesticated Animals, we specifically take into account 
-<p style="padding-left: 30px;">all those souls which we depend upon for our diet and lifestyle choices 
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+On Rosh Ḥodesh Elul, 
+the first day of the new moon of Elul, 
+we begin an <em>accounting</em> for all the souls 
+with whom we are in a relationship.
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+On a day dedicated to <em>counting</em>, 
+this is an <em>accounting</em> (a <em>ḥeshbon nefesh</em>) for all of our souls.
+Before we can expect to be forgiven our transgressions,
+we must examine them thoroughly, and wherever possible, correct and heal them.
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+On Rosh hashanah la-Behemah, 
+the New Years Day for Domesticated Animals, 
+we specifically take into account 
+all those souls which we depend upon for our diet and lifestyle choices 
 and which, in turn, depend upon us for their well-being --
 all the creatures that we (our society, and our ancestors before us) have brought 
 from the category of <em>ḥayot</em> (wild animals that can make their own living) 
-into the category of <em>behemot</em> (domesticated animals which depend upon us for their living).</p>
+into the category of <em>behemot</em> (domesticated animals which depend upon us for their living).
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
 Just as we depend on the Compassionate One (<em>haRaḥaman</em>) for our sustenance,
-<p style="padding-left: 30px;">so too has humankind made many creatures dependent upon our welfare,
+so too has humankind made many creatures dependent upon our welfare,
 directly through our need for them,
-and indirectly through our disruption of their ecosystem.</p>
-On the first day of Rosh Ḥodesh Elul when the shofar is blown to remind us to begin our preparation for <em>Yamim Noraim</em>, the Days of Awe,
+and indirectly through our disruption of their ecosystem.
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+On the first day of Rosh Ḥodesh Elul 
+when the shofar is blown to remind us 
+to begin our preparation for <em>Yamim Noraim</em>, the Days of Awe,
 <ul>
     <li>consider all the animals that were once domesticated and now live as homeless scavengers in our communities,</li>
     <li>all the animals being used for experiments intended to improve human life,</li>
     <li>all the animals kept captive to satisfy appetites for flesh and clothing made from their bodies.</li>
 </ul>
-The <em>mitsvah</em> in the Torah that demands our mindful awareness of the suffering of all living creatures is called <em>tsa'ar baalei ḥayim</em>.
-<p style="padding-left: 30px;">We are forbidden to cause other creatures unnecessary suffering,
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+The <em>mitsvah</em> in the Torah 
+that demands our mindful awareness of the suffering of all living creatures 
+is called <em>tsa'ar baalei ḥayim</em>.
+We are forbidden to cause other creatures unnecessary suffering,
 and we are obligated not to turn away from, pass by, or neglect other creatures
-that have fallen under the burden our fellow human beings have placed upon them.</p>
+that have fallen under the burden our fellow human beings have placed upon them.
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
 Before we ask the blessed Holy One, our Shepherd,
 to take responsibility with care and compassion for their flock,
 we must show that we are taking care and responsibility
 for the flock that depends on us.
+</div></td></tr>
 
-For Elohim gave us dominion -- the power to domesticate other creatures -- to cultivate and preserve the Garden of Eden with them. We are liable for their care and we are liable for our impact together on Adamah, which Elohim loves.
 
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+For Elohim gave us dominion -- 
+the power to domesticate other creatures -- 
+to cultivate and preserve the Garden of Eden with them. 
+We are liable for their care 
+and we are liable for our impact together on the Adamah, 
+which Elohim loves.
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
 <strong>Take a census of all the creatures you are directly and indirectly in relationship with.
 In what way can you take responsibility for the animals on whom your lifestyle and diet depends?</strong>
+</div></td></tr>
 
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
 Take a moment, consider, and share your your thoughts with a friend or someone next to you, then pause and <em>"<strong>listen for the voice of the animals in the sound of the shofar.</strong>"</em>
+</div></td></tr>
 
-<em>Take a moment for people to coalesce, share thoughts. </em>
-<p style="padding-left: 30px;"><strong>On the first day of the month of Elul,
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+<span class="instruction">Take a moment for people to coalesce, share thoughts. </span>
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+<strong>On the first day of the month of Elul,
 on the New Year's Day for all animals that depend on us for their welfare,
 when our thoughts turn inwards towards correcting and healing all of our relationships,
-listen for the voice of the animals in the sound of the shofar.</strong></p>
-<em>(The shofar is blown once, a single tekiyah/blast.)</em>
+listen for the voice of the animals in the sound of the shofar.</strong>
+</div></td></tr>
 
-<em>Open the gates to the animal pen and let any shepherded animals (e.g. goats) run free.</em>
 
-We have become as the <em>Nefilim</em> and the Giants in the Generation of the Flood: tyrants on this planet, using its resources for ourselves and driving animals into the corners of the earth.
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
 
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+<span class="instruction">(The shofar is blown once, a single tekiyah/blast.)</span>
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+<span class="instruction">(If the ritual is taking place at an animal pen: Open the gates to the animal pen and let any shepherded animals (e.g. goats) run free.)</span>
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+We have become as the <em>Nefilim</em> and the Giants in the Generation of the Flood: tyrants on this planet, using its resources for ourselves and driving its wild creatures into the corners of the earth.
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
 As our energy, food, settlement, and other land use choices impact and disrupt the capability of <em>ḥayot</em> (wild animals) to make their own living, the more we incur liability for their lives as animals that depend on us for their welfare.
+</div></td></tr>
 
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
 Before we can make amends to one another this <em>Elul Zman</em>, we must first make amends to the vulnerable creatures who live among us.
+</div></td></tr>
 
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
 As we hear the cry of the shofar for the first time, may we hear in it the cry of all animals, <em>behemot</em> and <em>ḥayot</em>, together with all our interconnected ecosystems supporting life on earth.
+</div></td></tr>
 
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
 May the One who is the breath of life guide us to protect the earth and make room in it for other creatures to thrive.
+</div></td></tr>
 
-<em>(The shofar is blown a second time.)</em>
 
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+<span class="instruction">(The shofar is blown a second time.)</span>
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
 We are grateful for all the good we receive from <em>behemot</em>, from domesticated animals.
 <ul>
     <li>Some of us eat them,</li>
@@ -117,9 +381,27 @@ We are grateful for all the good we receive from <em>behemot</em>, from domestic
     <li>Some of us do none of these things, but we benefit from the bee that pollinates the flowers and the worm that softens the earth.</li>
 </ul>
 May the One who is the breath of life cause us to be mindful of these gifts and never to waste them or take them for granted.
+</div></td></tr>
 
-<em>(The shofar is blown a third time.)</em>
 
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+<span class="instruction">(The shofar is blown a third time.)</span>
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
 We bless all the creatures, <em>behemot</em> and <em>ḥayot</em> we are privileged to live with on the earth:
 <ul>
     <li>the loving companion animals who live in our houses,</li>
@@ -128,14 +410,22 @@ We bless all the creatures, <em>behemot</em> and <em>ḥayot</em> we are privile
     <li>the fish in the waters of our streams and oceans.</li>
 </ul>
 May the One who is the breath of life bless all living things that we love and strengthen them.
+</div></td></tr>
 
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
 We bless all the spirits, all the <em>nefashot</em> we are privileged to live with on the earth, the known and the unknown.</div>
+</div></td></tr>
 
-<table style="margin-left: auto; margin-right: auto;">
-<tbody>
-<tr>
-<td style="vertical-align: top;" width="46%">
-<div class="liturgy"><span lang="he"><span lang="he">
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
 עֲשָׂרָה דְבָרִים נִבְרְאוּ בְּעֶרֶב שַׁבָּת בֵּין הַשְּׁמָשׁוֹת, וְאֵלּוּ הֵן,
 פִּי הָאָרֶץ,
 וּפִי הַבְּאֵר,
@@ -152,12 +442,12 @@ We bless all the spirits, all the <em>nefashot</em> we are privileged to live wi
 וּקְבוּרָתוֹ שֶׁל משֶׁה,
 וְאֵילוֹ שֶׁל אַבְרָהָם אָבִינוּ.
 וְיֵשׁ אוֹמְרִים, אַף צְבָת בִּצְבָת עֲשׂוּיָה:
-
-</div></td>
-<td style="vertical-align: top;" width="53%">
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
 <div class="english">
 Ten things were created on the eve of the [first] Shabbat at twilight. They are:
-the mouth of the earth [that swallowed Koraḥ and his followers in the wilderness],
+the mouth of the earth [that swallowed Qoraḥ and his followers in the wilderness],
 the mouth of the well [of Miriam, that accompanied the Camp of the Israelites in the wilderness],
 the mouth of the donkey [which spoke to Bil'am],
 the rainbow [of the covenant with the survivors of the Great Flood],
@@ -168,50 +458,111 @@ the writing (of the tablets of the Ten Commandments),
 the writing instrument [for the tablets of the covenant on Mt. Sinai],
 and the tablets [of the covenant at Mt. Sinai].
 Some say [also]:
-the <em>sheidim</em> [the unseen spirits of nature that surround us],
+the <em>sheidim</em> [the unseen spirits animating creation around us],
 the grave of Moshe [hidden from us],
 and the ram [sacrificed in place of Isaac on Mount Moriah].
 And some say, also the [first human-made] tongs, made with [Divine] tongs.
+</div></td></tr>
 
-</div></td>
-</tr>
-</tbody></table>
 
-<div class="english"><em>(Bring forward or turn toward any creatures you wish to bless. Together, recite the following blessing over seeing unique creatures (male and female.)</em></div>
-
-<table style="margin-left: auto; margin-right: auto;">
-<tbody>
-<tr>
-<td style="vertical-align: top;" width="46%">
+<tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
-בָּרוּךְ אַתָּה יְיָ אֶלֹהֵינוּ מֶלֶךְ הָעוֹלָם, מְשַׁנֶּה הַבְּרִיּוֹת:
+
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+<span class="instruction">(Bring forward or turn toward any creatures you wish to bless. Together, recite the following blessing over observing creatures that one finds strange or unusual.)</span>
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+בָּרוּךְ אַתָּה 
+יְיָ אֶלֹהֵינוּ 
+מֶלֶךְ הָעוֹלָם, 
+מְשַׁנֶּה הַבְּרִיּוֹת:
 </span></div></td>
 <td style="vertical-align: top;" width="53%">
 <div class="english">
-Blessed are you YHVH Elohenu Cosmic Majesty who diversified the creatures. (Blessing upon seeing strange or unusual creatures)</div></td>
-</tr>
-</tbody></table>
+Blessed are you 
+YHVH our <em>elo'ah</em> 
+Cosmic Majesty 
+who diversified the creatures. 
 
+Baruch ata 
+adonai eloheinu 
+melekh ha’olam, 
+meshaneh/meshanah haberiyot.
+
+Beruchah at 
+shekhinah eloheinu 
+ruach ha’olam, 
+meshaneh/meshanah haberiyot.
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">Another translation: 
+
+Blessed are You, 
+Infinite Presence 
+surrounding and filling the world, 
+who makes many kinds of creatures. 
+May we hear their voices and delight in them.
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
 <div class="english">
-<p style="padding-left: 30px;">Baruch ata adonai, eloheinu melekh ha’olam, meshaneh/meshanah haberiyot.
-Beruchah at shekhinah, eloheinu ruach ha’olam, meshaneh/meshanah haberiyot.</p>
-<p style="padding-left: 30px;">Translation: Blessed are You, Infinite Presence surrounding and filling the world, who makes many kinds of creatures. May we hear their voices and delight in them.</p>
-<em>(The shofar is blown a fourth and final time.)</em>
+<span class="instruction">(The shofar is blown a fourth and final time.)</span>
+</div></td></tr>
 
-</div>
 
-Closing Song: <em>Kol Haneshama</em>...
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
 
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
 <h3>Optional: Songs and Liturgy</h3>
+</div></td></tr>
 
-<h4>Psalms 36 - תְּהִלִּים לו</h4>
 
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+תְּהִלִּים לו
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+Psalms 36
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
 Psalms 36:7 declares that both the fate of humankind and its domesticated animals are preserved by Hashem.
+</div></td></tr>
 
-<table style="margin-left: auto; margin-right: auto;">
-<tbody>
-<tr>
-<td style="vertical-align: top;" width="46%">
+
+<tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
 1 לַמְנַצֵּ֬חַ ׀ לְעֶֽבֶד־יְהוָ֬ה לְדָוִֽד׃
 
@@ -254,8 +605,9 @@ Psalms 36:7 declares that both the fate of humankind and its domesticated animal
 13 שָׁ֣ם נָ֭פְלוּ פֹּ֣עֲלֵי אָ֑וֶן
 דֹּ֝ח֗וּ וְלֹא־יָ֥כְלוּ קֽוּם׃
 </span></div></td>
-
-<td><div class="english">
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
 For the Leader. [A Psalm] of David the servant of YHVH.
 
 Transgression speaks to the wicked, methinks—
@@ -276,7 +628,7 @@ Your faithfulness reaches unto the skies.
 
 Your righteousness is like the mighty mountains;
 Your judgments are like the great deep;
-<strong>Human (<em>adam</em>) and domesticated animal (<em>beheima</em>) you preserve, YHVH.</strong>
+<strong>Human (<em>adam</em>) and domesticated animal (<em>behemah</em>) you preserve, YHVH.</strong>
 
 How precious is your lovingkindness, <em>Elohim</em>!
 And the children of <em>Adam</em>
@@ -296,18 +648,32 @@ And let not the hand of the wicked drive me away.
 
 There are the workers of iniquity fallen;
 They are thrust down, and are not able to rise.
-</div>
-</tr>
-</tbody></table>
+</div></td></tr>
 
-<h4>Psalms 65 - תְּהִלִּים סה</h4>
 
-Talmud Bavli Rosh Hashana 8a gives Psalms 65:13 as the source-text for whenthe New Year's Day for tithing domesticated animals occurs.
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+תְּהִלִּים סה
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+Psalms 65
+</div></td></tr>
 
-<table style="margin-left: auto; margin-right: auto;">
-<tbody>
-<tr>
-<td style="vertical-align: top;" width="46%">
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+Talmud Bavli Rosh Hashana 8a gives Psalms 65:13 as the source-text for whenthe New Year's Day for tithing domesticated animals occurs. 
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
 לַמְנַצֵּ֥חַ מִזְמ֗וֹר לְדָוִ֥ד שִֽׁיר׃ 
 
@@ -365,7 +731,7 @@ as for our transgressions, you will pardon them.
 Happy is the one whom you choose and bring near, that they may dwell in your courts; 
 may we be satisfied with the goodness of your house, the holy place of your temple! 
 
-With wondrous works do you answer us in righteousness, <em>elo'ah</em> of our salvation; 
+With wondrous works do you answer us in righteousness, elo'ah of our salvation; 
 You are the confidence of all the ends of the earth, and of the far distant seas; 
 
 Who by your strength sets fast the mountains, who are girded about with might; 
@@ -392,16 +758,29 @@ and the hills are girded with joy.
 The meadows are clothed with flocks; 
 the valleys also are covered over with corn; 
 they shout for joy, yea, they sing. 
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+Closing Song: <em>Kol Haneshama</em>...
 </div>
 </tr>
 </tbody></table>
+
+<hr />
 
 In rabbinic Judaism, the law of <em>tsaar baalei ḥayyim</em> is derived from Genesis 9:4, as interpreted in the Talmud (<em>Sanhedrin</em> 59a). Compassion for animals is declared to have been the merit of Moshe which made him the <em>shepherd</em> of his people (<em>Exodus Rabbah</em> 2), while Yehudah ha-Nasi saw in his own ailment the punishment for having once failed to show compassion for a frightened calf (<em>Bava Metzia</em> 85a). The <em>aggadic</em> (mythic) tradition concerned with the origin of predatory nature in <em>Olam Hazeh</em> (this world) can be found in the Jewish deutero-canonical works of <em>Sefer Ḥanokh</em> (1 Enoch) and <em>Sefer Yubalim</em> (Jubilees) as well as in<em> Midrash Abkir</em> and the collection of rabbinic midrash and midrash aggadah, <em>Yalkut Shimoni</em>.
 
 In Sefer Yubalim (circa 3rd century BCE), the need for circumscribing the predatory nature of humankind after the <em>Dor Hamabul</em> (depraved generation of the Flood) is given as the <em>raison d'etre</em> for the giving of the Torah. As required by the covenant of the Rainbow made to Noaḥ and his descendants after the flood, a representative people was needed who might abide by the general commandment of <em>ever min haḥai</em> (forbidding eating living creatures). In this tradition, Avraham was the first to prove worthy since his actions epitomized <em>ḥesed</em>, lovingkindness (an innovation in Judaism's mytho-historic chronicle of humanity in Genesis). As noted in Rav Shlomo Kluger's HaElef L’cha Shlomo in Yoreh Deah 322, dairy foods, the product of living creatures, were prohibited after the Flood, but this prohibition was relaxed upon the giving of the Torah at Sinai just as the prohibition against eating flesh was relaxed after the covenant at Ararat. For this reason, dairy is a symbolic food eaten on the festival of Shavuot (Pentecost) and remains a symbolic food representing the subversion of predatory nature as reflected in Megillat Yehudith and the dairy food traditions of the festival of Ḥanukkah. (More <a href="http://aharon.varady.net/omphalos/2010/05/happy-vegetarian-shavuot">here</a>.)
 
-<hr />
+<h3>Source</h3>
 
-The text of this ritual shofar blowing for Rosh Ḥodesh Elul and Rosh Hashanah La'behemot developed as part of the annual ceremony taking place at the dairy barn on the campus of the Isabella Freedman Retreat Center beginning in 2009 under the auspices of Elat Chayyim and the Adamah Jewish Farming Fellowship. The ceremony was co-developed by Rabbi Jill Hammer and Sarah Chandler in 2009, with elements added by Aharon Varady beginning in 2012.
+[gview file="https://opensiddur.org/wp-content/uploads/2016/08/Kavvanah-and-Shofar-Blowing-for-Rosh-Hodesh-Elul-and-Rosh-Hashanah-LaBehemot.pdf"]
 </body>
 </html>

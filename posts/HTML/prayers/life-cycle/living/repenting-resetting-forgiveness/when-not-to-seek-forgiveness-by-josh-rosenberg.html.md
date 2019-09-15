@@ -8,12 +8,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 <hr />
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;"><a href="https://opensiddur.org/contributing/upload/">אנא תרמו תרגום</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
-<a href="https://opensiddur.org/upload/">אנא תרמו תרגום</a>
+
 </span></div></td>
  
 <td width="53%"><div class="english">

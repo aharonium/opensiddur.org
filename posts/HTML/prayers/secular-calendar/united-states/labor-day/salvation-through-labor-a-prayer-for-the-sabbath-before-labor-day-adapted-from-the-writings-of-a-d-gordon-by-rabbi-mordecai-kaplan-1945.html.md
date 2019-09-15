@@ -17,7 +17,7 @@ For attribution and license, please consult the following URL: <a href="http://o
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-[for the Sabbath before Labor Day]
+<span class="instruction">for the Sabbath before Labor Day</span>
 </div></td></tr>
 
 
@@ -176,7 +176,7 @@ may fulfil what is lacking in you.’
 
 <hr />
 
-Mel Scult writes, "Kaplan had always believed that one way to compose new liturgy was to take an inspiring essay and turn it into a prayer" (<em>The Radical American Judaism of Mordecai M. Kaplan</em> Indiana University Press, 2013, p. 209). This prayer for the Shabbat before Labor Day, "Salvation through Labor," was adapted by Rabbi Mordecai Menaḥem Kaplan from האדם והטבע (Man and Nature, 1924) by Aaron David Gordon, and can be found on p. 548-551 of his <em><a href="https://opensiddur.org/compilations/siddurim/sabbath-prayer-book-by-mordecai-kaplan-1945/">The Sabbath Prayer Book</a></em> (New York: The Jewish Reconstructionist Foundation, 1945). The translation was attributed in the Sabbath Prayer Book to its editors (Mordecai Kaplan & Eugene Kohn, assisted by Ira Eisenstein and Milton Steinberg). More on A.D. Gordon's Man and Nature can be read from Hillel Halkin in his essay in Moment Magazine, "<a href="https://mosaicmagazine.com/observation/2018/02/the-self-actualizing-zionism-of-a-d-gordon/">The Self-Actualizing Zionism of A.D. Gordon</a>" (18 February 2018). Writes Halkin,
+Mel Scult writes, "Kaplan had always believed that one way to compose new liturgy was to take an inspiring essay and turn it into a prayer" (<em>The Radical American Judaism of Mordecai M. Kaplan</em> Indiana University Press, 2013, p. 209). This prayer for the Shabbat before Labor Day, "Salvation through Labor," was adapted by Rabbi Mordecai Menaḥem Kaplan from האדם והטבע (Man and Nature, 1924) by Aaron David Gordon, and can be found on p. 548-551 of his <em><a href="https://opensiddur.org/compilations/siddurim/sabbath-prayer-book-by-mordecai-kaplan-1945/">The Sabbath Prayer Book</a></em> (New York: The Jewish Reconstructionist Foundation, 1945). The translation was attributed in the Sabbath Prayer Book to its editors (Mordecai Kaplan &amp; Eugene Kohn, assisted by Ira Eisenstein and Milton Steinberg). More on A.D. Gordon's Man and Nature can be read from Hillel Halkin in his essay in Moment Magazine, "<a href="https://mosaicmagazine.com/observation/2018/02/the-self-actualizing-zionism-of-a-d-gordon/">The Self-Actualizing Zionism of A.D. Gordon</a>" (18 February 2018). Writes Halkin,
 
 <blockquote>Although it is never quite clear whether Man and Nature is written by a pantheist for whom nature and God are one, or by a deist for whom nature proceeds from God, it is the insistence on a life lived in conjunction with nature and having no substitute in religious practice, prayer, or meditation that keeps Gordon’s book from being a mere restatement of ḥasidic or general mystical themes. Yet its author is neither a “nature lover” nor a primitivist. He has no interest in the naturalist’s study of nature or in the vacationer’s appreciation of it, both of which treat it as an object of consciousness, thus perpetuating the rift with it; nor does he wish to roll back civilization in its name. “When you return to nature,” he writes “return not to your starting point or empty-handed. Be like the traveler who has circled the globe and comes home again wiser, more experienced, and purged of the superfluous, but also wealthier and enriched by all he has seen and felt, by his material no less than his spiritual acquisitions.” Living with nature does not demand the abandonment of railroads and electricity. It demands participation rather than exploitation.
 
@@ -186,11 +186,8 @@ And this, says Gordon, means physical work. Nature itself is continually at work
 
 </blockquote>
 
-
-
 <h3>Source(s)</h3>
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/SabbathPrayerBookJewishReconstructionistFoundation1945#page/n576/mode/2up"]
-
 </body>
 </html>

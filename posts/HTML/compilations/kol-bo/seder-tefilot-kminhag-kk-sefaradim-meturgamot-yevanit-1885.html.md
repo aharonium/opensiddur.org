@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: סדר תפילות כמנהג ק״ק ספרדים מתורגמות יונית | Καθημεριναι Προσευχαι (Yosef Naḥmuli, Corfu 1885)<br />
+Title: סדר תפילות (ספרד)‏ | Καθημεριναι Προσευχαι | Seder Tefilot, a bilingual Hebrew-Greek prayerbook translated and arranged by R' Yosef Naḥmuli (Corfu 1885)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=22353">http://opensiddur.org/?p=22353</a>
 <p />

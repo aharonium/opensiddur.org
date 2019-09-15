@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: Seder Avodat Yisroel, by Isaac Seligman Baer (1868)<br />
+Title: סדר עבודת ישראל (אשכנז)‏ | Seder Avodat Yisroel, a critical text of the Siddur annotated by Isaac Seligman Baer (1868)<br />
 Primary contributor: hierophant<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=904">http://opensiddur.org/?p=904</a>
 <p />

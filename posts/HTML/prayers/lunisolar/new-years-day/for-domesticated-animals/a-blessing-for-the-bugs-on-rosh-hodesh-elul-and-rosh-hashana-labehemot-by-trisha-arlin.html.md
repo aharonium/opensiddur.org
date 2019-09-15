@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: A Blessing for the Bugs on Rosh Ḥodesh Elul and Rosh Hashana LaBehemot, by Trisha Arlin<br />
+Title: A Blessing for the Bugs on the Jewish New Year's Day for Animals, Rosh Hashana La-Behemah, by Trisha Arlin<br />
 Primary contributor: trishaarlin<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=12177">http://opensiddur.org/?p=12177</a>
 <p />
@@ -57,7 +57,7 @@ When I was little I wanted nothing more than to see all bugs dead.
 <div class="english">
 But I was wrong.
 I have come to see
-That we are not the only creatures who are B'tzelem Elohim,
+That we are not the only creatures who are <em>B'tselem Elohim</em>,
 We are all in God's image.
 So today, on Rosh Ḥodesh Elul,
 On the New Year of the Domesticated Beasts,
@@ -82,7 +82,7 @@ And the bugs who live only for themselves, without any reference to us.
 <td style="vertical-align:top;" width="53%">
 <div class="english">
 First, in the world of <em>Assiyah</em>,
-(Touch the earth)
+<span class="instruction">(Touch the earth)</span>
 Let us touch this earth.
 the world of Doing, of the dirt,
 the world of the body, of physical pleasure and need
@@ -108,7 +108,7 @@ And pray with the bugs of the earth who exist only for themselves.
 <td style="vertical-align:top;" width="53%">
 <div class="english">
 Second, in the world of <em>Briah</em>,
-(reach into the air)
+<span class="instruction">(reach into the air)</span>
 Let us reach into the air
 The world of Thinking,
 the world of the mind, the intellect
@@ -128,8 +128,8 @@ And pray with the bugs of the air who fly all around without any reference to us
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Third, in the world of <em>Yetzirah</em>,
-(Touch the heart and the gut)
+Third, in the world of <em>Yetsirah</em>,
+<span class="instruction">(Touch the heart and the gut)</span>
 The world of Feeling, heart, the emotions.
 Touch your own body, touch your heart and your gut
 And give thanks for the domesticated bugs that we eat, the bacteria that give us yogurt and yeast,
@@ -150,7 +150,7 @@ And the bugs in and on our bodies that, thank God, most of us don’t even know 
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-And last, in the world <em>Atzilut</em>, of Being/Soul SPIRIT,
+And last, in the world <em>Atsilut</em>, of Being/Soul SPIRIT,
 I invite you to turn you face to the sun and close your eyes.
 This is the world of the spirit, of spirituality, of God, however you approach God and even if you don't.
 And let’s imagine another kind of bug--

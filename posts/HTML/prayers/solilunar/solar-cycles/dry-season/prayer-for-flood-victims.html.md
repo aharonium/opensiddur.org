@@ -148,6 +148,7 @@ Amen.
 </tbody></table>
 
 <hr />
+
 The Masorti Movement of Israel's prayer for flood victims was first published on their website, <a href="http://www.masorti.org.il/page.php?pid=5792">here</a>. English translation by Aharon Varady and proofread by Rabbi Oren Steinitz.
 
 Flash floods are dangerous in every season, but are rare in the dry season, after most rain and snow are thought to have fallen. Changes in the global climate due to global warming caused by anthropogenic activities such as the burning of fossil fuels and the conversion of land for raising animals for their meat is a significant contributor to extreme weather experienced around the world. In addition to this prayer, please see Rabbi David Seidenberg's <a href="https://opensiddur.org/prayers/collective-welfare/trouble/storms/after-the-storm-a-prayer-to-choose-life-by-david-seidenberg/">prayer for life in the aftermath of storms</a>.--Aharon N. Varady, ed.

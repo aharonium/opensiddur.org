@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: מִי שֶׁבֵּרַךְ | Mi Sheberakh for United States Military War Veterans, by Hinda Tzivia Eisen<br />
+Title: מִי שֶׁבֵּרַךְ | Mi sheBerakh for United States Military War Veterans, by Hinda Tzivia Eisen<br />
 Primary contributor: hinda-tzivia.eisen<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=7478">http://opensiddur.org/?p=7478</a>
 <p />

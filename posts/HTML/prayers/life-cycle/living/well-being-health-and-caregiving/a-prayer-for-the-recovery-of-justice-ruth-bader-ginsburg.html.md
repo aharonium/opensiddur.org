@@ -23,10 +23,10 @@ For attribution and license, please consult the following URL: <a href="http://o
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-HaQadosh Barukh hu (Blessed Holy one), 
-Nefesh kol ḥai (Spirit of All Life) 
+<em>HaQadosh Barukh hu</em> (Blessed Holy one), 
+<em>Nefesh kol ḥai</em> (Spirit of All Life) 
 whose spirit is woven 
-through the ḥesronan (absences/dependencies) 
+through the <em>ḥesronan</em> (absences/dependencies) 
 inherent in all living creatures 
 binding us all together as one,[foot]Cf. the blessing Borei Nefashot: <span class="hebrew">בָּרוּךְ אַתָּה יְיָ אֱלֹהֵֽינוּ מֶֽלֶךְ הָעוֹלָם בּוֹרֵא נְפָשׁוֹת רַבּוֹת וְחֶסְרוֹנָן עַל כָּל מַה שֵּׁבָּרָאתָ לְהַחֲיוֹת בָּהֶם נֶֽפֶשׁ כָּל חָי: בָּרוּךְ חַי הָעוֹלָמִים:</span> ("Blessed are you, YHVH our <em>elo'ah</em>, Cosmic Majesty, who creates a diverse multitude of creatures, each with a dependency (lit. absence) through which it is enlivened with the Spirit of Life. Blessed is the Life of the Worlds.")[/foot]&nbsp; 
 please strengthen the vitality of Yita Rokhl bat Tsirl Leah.
@@ -54,7 +54,7 @@ to be received before the throne of your resplendent spirit,
 that you may restore her in complete and vibrant health 
 and that she may continue to perform her holy work for justice, 
 as is proclaimed in your teaching: 
-"Tsedek - Tsedek Tirdof l'Ma'an Tiḥyeh" 
+<em>"Tsedek - Tsedek Tirdof l'Ma'an Tiḥyeh"</em> 
 ("Justice, Justice shall you pursue that you may live")[foot]Deuteronomy 16:20 part[/foot] -- 
 </div></td></tr>
 

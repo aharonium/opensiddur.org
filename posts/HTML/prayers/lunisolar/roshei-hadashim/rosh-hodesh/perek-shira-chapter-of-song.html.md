@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: פֶּרֶק שִׁירָה | Pereq Shirah (Chapter of Song), a hymn of creation<br />
+Title: פֶּרֶק שִׁירָה | Pereq Shirah (Chapter of Song), a litany of verses pronounced in the voice of the creatures and works of Creation<br />
 Primary contributor: unknown<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=10950">http://opensiddur.org/?p=10950</a>
 <p />
@@ -757,7 +757,7 @@ The Rooster is saying,
 <td style="vertical-align:top;" width="53%">
 <div class="english">
 In its first call it says, 
-“Such is the generation of them that seek after thon, that seek your face, even Ya’akov. <em>Selah</em>! Lift up your heads, O gates! And be lifted up, O everlasting doors! And the King of <em>kavod</em> shall come in. Who is this King of <em>kavod</em>? YHVH strong and mighty, YHVH mighty in battle!”[foot]Psalms 24:6-8[/foot]
+“Such is the generation of them that seek after thon, that seek your face, even Ya’akov. Selah! Lift up your heads, O gates! And be lifted up, O everlasting doors! And the King of <em>kavod</em> shall come in. Who is this King of <em>kavod</em>? YHVH strong and mighty, YHVH mighty in battle!”[foot]Psalms 24:6-8[/foot]
 </div>
 </td></tr>
 
@@ -772,7 +772,7 @@ In its first call it says,
 <td style="vertical-align:top;" width="53%">
 <div class="english">
 In its second call, it says, 
-“Lift up your heads, O gates! Lift them up, O everlasting doors! And the King of <em>kavod</em> shall come in. Who is He, this King of <em>kavod</em>? YHVH Tseva'ot, he is the King of <em>kavod</em>, <em>Selah</em>!”[foot]Psalms 24:9-10[/foot]
+“Lift up your heads, O gates! Lift them up, O everlasting doors! And the King of <em>kavod</em> shall come in. Who is He, this King of <em>kavod</em>? YHVH Tseva'ot, he is the King of <em>kavod</em>, Selah!”[foot]Psalms 24:9-10[/foot]
 </div>
 </td></tr>
 
@@ -919,7 +919,7 @@ rather than it being sweet as honey through flesh and blood.”[foot]Talmud, Eru
 <td style="vertical-align:top;" width="53%">
 <div class="english">
 The Vulture is saying, 
-“And you, YHVH Elohim Tseva'ot, <em>elo'ah</em> of Yisra'el, 
+“And you, YHVH Elohim Tseva'ot, elo'ah of Yisra'el, 
 awake to punish all the nations; 
 do not be gracious to any wicked traitors, <em>Selah!</em>”[foot]Psalms 59:6[/foot]
 </div>
@@ -957,7 +957,7 @@ make music for him with the ten-stringed harp.”[foot]Psalms 33:2[/foot]
 The Songbird is saying, 
 “The songbird has also found her home, 
 and the sparrow a nest for herself, where she may lay her young - 
-Your altars, YHVH Tseva'ot, my King and my <em>elo'ah</em>.”[foot]Psalms 84:4[/foot]
+Your altars, YHVH Tseva'ot, my King and my elo'ah.”[foot]Psalms 84:4[/foot]
 </div>
 </td></tr>
 
@@ -974,7 +974,7 @@ Your altars, YHVH Tseva'ot, my King and my <em>elo'ah</em>.”[foot]Psalms 84:4[
 <div class="english">
 The Swallow is saying, 
 “So that my soul shall praise you, and shall not be silent, 
-YHVH my <em>elo'ah</em>, I shall give thanks to you forever.”[foot]Psalms 30:13[/foot]
+YHVH my elo'ah, I shall give thanks to you forever.”[foot]Psalms 30:13[/foot]
 </div>
 </td></tr>
 
@@ -1182,7 +1182,7 @@ wherefrom shall my help come?”[foot]Psalms 121:1[/foot]
 <td style="vertical-align:top;" width="53%">
 <div class="english">
 The Locust is saying, 
-“YHVH, you are my <em>elo'ah</em>; I will exalt you, I will praise your Name; 
+“YHVH, you are my elo'ah; I will exalt you, I will praise your Name; 
 for you have done wondrous things; 
 Your counsels of old are faithfulness and truth.”[foot]Isaiah 25:1[/foot]
 </div>
@@ -1828,7 +1828,7 @@ let us kneel before YHVH our Maker.”[foot]Psalms 95:6[/foot]
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="commentary"><span lang="he">
-<span class="citation">(ילקוט שמעוני פרשת בא רמז קפז)</span> רַבִּי יְשַׁעְיָה תַּלְמִידוֹ שֶׁל רַבִּי חֲנִינָא בֶּן דּוֹסָא הִתְעַנָּה חָמֵשׁ וּשְׁמוֹנִים תַּעֲנִיּוֹת. אָמַר כְּלָבִים שֶׁכָּתוּב בָּהֶם <span class="citation">(ישעיה נו:יא)</span> <span class="liturgy-inline">וְהַכְּלָבִים עַזֵּי נֶפֶשׁ לֹא יָדְעוּ שָׂבְעָה</span>, יִזְכּוּ לוֹמַר שִׁירָה. עָנָה לוֹ מַלְאָךְ מִן הַשָּׁמַיִם וְאָמַר לוֹ יְשַעְיָה עַד מָתַי אַתָּה מִתְעַנֶּה עַל זֶה הַדָּבָר שְׁבוּעָה הִיא מִלִּפְנֵי הַמָּקוֹם בָּרוּךְ הוּא מִיּוֹם שֶׁגִּילָּה סוֹדוֹ לַחֲבַקּוּק הַנָּבִיא לֹא גִלָּה דָבָר זֶה לְשׁוּם בְּרִיאָה בָּעוֹלָם. אֶלָּא בִּשְׁבִיל שֶׁתַּלְמִידוֹ שֶׁל אָדָם גָּדוֹל אַתָּה שְׁלָחוּנִי מִן הַשָּׁמַיִם לִזְדַקֵּק אֵלֶיךָ לְהַגִיד לְךָ בַּמֶה זָכוּ הַכְּלָבִים לוֹמַר שִׁירָה. לְפִי שֶׁכָּתוּב בָּהֶם <span class="citation">(שמות יא:ז)</span> <span class="liturgy-inline">וּלְכֹל בְּנֵי יִשְׂרָאֵל לֹא יֶחֱרַץ כֶּלֶב לְשׁוֹנוֹ</span>. וְלֹא עוֹד אֶלָּא שֶׁזָכוּ לְעַבֵּד עוֹרוֹת מִצּוֹאָתָם שֶׁכּוֹתְבִים בָּהֶם תְּפִילִּין וּמְזוּזוֹת וְסִפְרֵי תּוֹרָה. עַל כֵּן זָכוּ לוֹמַר שׁירָה. וּלְעִנְיַן הַשְׁאֵלָה שֶּׁשָּׁאַלתָּ חֲזוֹר לַאֲחֹרֶיךָ וְאַל תּוֹסִיף בַּדָּבָר הַזֶּה עוֹד, כְּמוֹ שֶׁכָּתוּב <span class="citation">(משלי כא:כג)</span> <span class="liturgy-inline">שׁוֹמֵר פִּיו וּלְשׁוֹנוֹ שׁוֹמֵר מִצָּרוֹת נַפְשׁוֹ</span>. 
+<span class="citation">(ילקוט שמעוני פרשת בא רמז קפז)</span> רַבִּי יְשַׁעְיָה תַּלְמִידוֹ שֶׁל רַבִּי חֲנִינָא בֶּן דּוֹסָא הִתְעַגָּה חָמֵשׁ וּשְׁמוֹנִים תַּעֲנִיּוֹת. אָמַר כְּלָבִים שֶׁכָּתוּב בָּהֶם <span class="citation">(ישעיה נו:יא)</span> <span class="liturgy-inline">וְהַכְּלָבִים עַזֵּי נֶפֶשׁ לֹא יָדְעוּ שָׂבְעָה</span>, יִזְכּוּ לוֹמַר שִׁירָה. עָנָה לוֹ מַלְאָךְ מִן הַשָּׁמַיִם וְאָמַר לוֹ יְשַעְיָה עַד מָתַי אַתָּה מִתְעַנֶּה עַל זֶה הַדָּבָר שְׁבוּעָה הִיא מִלִּפְנֵי הַמָּקוֹם בָּרוּךְ הוּא מִיּוֹם שֶׁגִּילָּה סוֹדוֹ לַחֲבַקּוּק הַנָּבִיא לֹא גִלָּה דָבָר זֶה לְשׁוּם בְּרִיאָה בָּעוֹלָם. אֶלָּא בִּשְׁבִיל שֶׁתַּלְמִידוֹ שֶׁל אָדָם גָּדוֹל אַתָּה שְׁלָחוּנִי מִן הַשָּׁמַיִם לִזְדַקֵּק אֵלֶיךָ לְהַגִיד לְךָ בַּמֶה זָכוּ הַכְּלָבִים לוֹמַר שִׁירָה. לְפִי שֶׁכָּתוּב בָּהֶם <span class="citation">(שמות יא:ז)</span> <span class="liturgy-inline">וּלְכֹל בְּנִי יִשְׂרָאֵל לֹא יֶחֱרַץ כֶּלֶב לְשׁוֹנוֹ</span>. וְלֹא עוֹד אֶלָּא שֶׁזָכוּ לְעַבֵּד עוֹרוֹת מִצּוֹאָתָם שֶׁכּוֹתְבִים בָּהֶם תְּפִילִּין וּמְזוּזוֹת וְסִפְרֵי תּוֹרָה. עַל כֵּן זָכוּ לוֹמַר שׁירָה. וּלְעִנְיַן הַשְׁאֵלָה שֶּׁשָּׁאַלתָּ חֲזוֹר לַאֲחֹרֶיךָ וְאַל תּוֹסִיף בַּדָּבָר הַזֶּה עוֹד, כְּמוֹ שֶׁכָּתוּב <span class="citation">(משלי כא:כג)</span> <span class="liturgy-inline">שׁוֹמֵר פִּיו וּלְשׁוֹנוֹ שׁוֹמֵר מִצָּרוֹת נַפְשׁוֹ</span>. 
 </span></div>
 </td>
  
@@ -1850,10 +1850,10 @@ let us kneel before YHVH our Maker.”[foot]Psalms 95:6[/foot]
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Blessed is YHVH forever, <em>Amen</em> and <em>Amen</em>. 
+Blessed is YHVH forever, Amen and Amen. 
 Blessed is YHVH from Tsiyon, Dweller in Jerusalem, praise Yah! 
-Blessed is YHVH Elohim, <em>elo'ah</em> of Yisra'el, worker of wonders alone. 
-And blessed is the Name of his <em>kavod</em>, and his <em>kavod</em> should fill the entire land, <em>Amen</em> and <em>Amen</em>.
+Blessed is YHVH Elohim, elo'ah of Yisra'el, worker of wonders alone. 
+And blessed is the Name of his <em>kavod</em>, and his <em>kavod</em> should fill the entire land, Amen and Amen.
 </div>
 </td></tr>
 </tbody></table>
@@ -1864,13 +1864,10 @@ This edition of Perek Shira follows the identification and ordering of Perek Shi
 
 <blockquote>Perek Shirah, a work of tremendous historic value, is extremely mysterious and cryptic. However, various commentaries have been written on it over the last five hundred years, which give an insight into what the verse is telling us to learn from the creature. <em>Nature's Song</em>, (Targum/Feldheim 2001), is the first English explanation of Perek Shirah. It makes use of rare ancient commentaries on Perek Shirah, as well as contemporary insights from fields of science such as meteorology and zoology. The result is a Biblical encyclopedia of the natural world, synthesizing the ancient with the modern. Nature’s Song is an encyclopedic work; beautifully designed, lavishly illustrated, and extensively footnoted.</blockquote>
 
-This edition of Perek Shira was published in <a href="https://opensiddur.org/compilations/siddurim/siddur-livnat-hasapir-lkabbalat-shabbat-friday-night-siddur/">Siddur Livnat HaSapir L'Kabbalat Shabbat</a> (Aharon Varady, Dimus Parrhesia Press, 2017). For a critical text, please consult the edition prepared by Malachi Beit-Arie (1967).
+This edition of Perek Shira was published in <a href="https://opensiddur.org/compilations/siddurim/siddur-livnat-hasapir-lkabbalat-shabbat-friday-night-siddur/">Siddur Livnat HaSapir L'Kabbalat Shabbat</a> (Aharon Varady, Dimus Parrhesia Press, 2017).
 
 <h3>Source</h3>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.archive.org/stream/SiddurLivnatHaSapirForWelcomingTheShabbatAharonVarady2017#page/n54/mode/2up"]
-
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/PerekShiraCriticalEditionMalachiBeitArie1967/PerekShiraCriticalEditionVol.2malachiBeit-arie1967#page/n20/mode/2up"]
-
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.archive.org/stream/SiddurLivnatHaSapirForWelcomingTheShabbatAharonVarady2017/Siddur-Livnat-Hasapir-lKabbalat-Shabbat-archive.org-v3.7.2#page/n54/mode/2up"]
 </body>
 </html>

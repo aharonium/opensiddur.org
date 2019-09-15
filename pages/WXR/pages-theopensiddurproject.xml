@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.2.2" created="2019-07-17 06:52" -->
+	<!-- generator="WordPress/5.2.3" created="2019-09-15 17:56" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>the Open Siddur Project</title>
 	<link>https://opensiddur.org</link>
 	<description>פְּרוֺיֶּקט הַסִּדּוּר הַפָּתוּחַ ✍ the open-source project for folk liberating liturgy and crafting their own prayerbooks</description>
-	<pubDate>Wed, 17 Jul 2019 06:52:11 +0000</pubDate>
+	<pubDate>Sun, 15 Sep 2019 17:56:26 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://opensiddur.org</wp:base_site_url>
@@ -41,7 +41,7 @@
 	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email>email redacted</wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[The]]></wp:author_first_name><wp:author_last_name><![CDATA[Admin]]></wp:author_last_name></wp:author>
 
 				
-	<generator>https://wordpress.org/?v=5.2.2</generator>
+	<generator>https://wordpress.org/?v=5.2.3</generator>
 
 <image>
 	<url>https://opensiddur.org/wp-content/uploads/2015/03/Open-Siddur-Project-Logo-2015-5509b4bdv1_site_icon-32x32.png</url>
@@ -248,7 +248,7 @@ What inspired the Open Siddur Project? Several related ideas. First, there is th
 
 <a href="https://opensiddur.org/wp-content/uploads/2009/06/Neal-Stephenson-Diamond-Age-cover.jpg"><img src="https://opensiddur.org/wp-content/uploads/2009/06/Neal-Stephenson-Diamond-Age-cover.jpg" alt="Neal Stephenson - Diamond Age (cover)" width="212" height="314" class="alignright size-full wp-image-10557" /></a> Second, there is the do-it-yourself ethos and the celebration of studied craft traditions that derives directly from the Arts and Crafts Movement of William Morris and his Kelmscott Press. This idea is described brilliantly in the life and work of bespoke artisans and master book artists in Neal Stephenson's 1995 sci-fi novel, <em>The Diamond Age (or a Young Lady's Illustrated Primer)</em>. 
 
-We've already, above, discussed the illustration of textual metadata in Rabbi Jacob Freedman's unpublished Siddur Bays Yosef (Polychrome Historical Prayer Book). The need for a free-culture movement, first articulated by Richard Stallman concerning software, and later by Lawrence Lessig concerning all manner of cultural products, is central to this effort in reviving creativity and artistic mastery in works of Judaism. Finally, Aharon Varady's first-hand experience witnessing the benefit of radical Jewish pluralism in the grassroots intentional community, Jews in the Woods, convinced him of the value of sharing inspirations and knowledge throughout the Jewish community regardless of sectarian or denominational affiliation.
+We've already, above, discussed the illustration of textual metadata in Rabbi Jacob Freedman's unpublished Siddur Bays Yosef (Polychrome Historical Prayer Book). The efforts of the free-culture movement articulated by Lawrence Lessig and others concerning all manner of cultural work, provides some contemporary inspiration for reviving creativity and artistic mastery in works of Judaism. Finally, Aharon Varady's first-hand experience witnessing the benefit of radical Jewish pluralism in the grassroots intentional community, Jews in the Woods, convinced him of the value of sharing inspirations and knowledge throughout the Jewish community regardless of sectarian or denominational affiliation.
 
 
 <h3>Open Source, Open Content, and Open Standards</h3>
@@ -338,6 +338,26 @@ Media inquiries can be directed to our Hierophant, Aharon Varady, via our <a hre
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wogh_github_path]]></wp:meta_key>
 		<wp:meta_value><![CDATA[_pages/history.md]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[editInHTML]]></wp:meta_key>
+		<wp:meta_value><![CDATA[off]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
+		<wp:meta_value><![CDATA[ ]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oh_add_script_footer]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oh_add_script_header_hide]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oh_add_script_footer_hide]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4477,7 +4497,7 @@ Connect with us on <a href="http://facebook.com/opensiddur">Facebook</a>, <a hre
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
-		<wp:meta_value><![CDATA[61]]></wp:meta_value>
+		<wp:meta_value><![CDATA[26]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpghs_github_path]]></wp:meta_key>
@@ -4509,7 +4529,7 @@ Connect with us on <a href="http://facebook.com/opensiddur">Facebook</a>, <a hre
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[ ]]></wp:meta_value>
+		<wp:meta_value><![CDATA[  ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_footer]]></wp:meta_key>
@@ -4522,6 +4542,10 @@ Connect with us on <a href="http://facebook.com/opensiddur">Facebook</a>, <a hre
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_footer_hide]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_scriptlesssocialsharing_disable]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -6213,7 +6237,7 @@ In the summer of 2009, the Open Siddur was one of sixteen innovative projects ch
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[     ]]></wp:meta_value>
+		<wp:meta_value><![CDATA[      ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header_hide]]></wp:meta_key>
@@ -6238,6 +6262,14 @@ In the summer of 2009, the Open Siddur was one of sixteen innovative projects ch
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_canonical]]></wp:meta_key>
 		<wp:meta_value><![CDATA[https://opensiddur.org/contributing/contributors/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_scriptlesssocialsharing_disable]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpcom_is_markdown]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>

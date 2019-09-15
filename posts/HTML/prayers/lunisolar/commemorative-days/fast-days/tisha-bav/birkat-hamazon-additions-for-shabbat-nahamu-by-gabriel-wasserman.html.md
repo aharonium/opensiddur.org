@@ -17,7 +17,7 @@ For attribution and license, please consult the following URL: <a href="http://o
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Blessed are you, YHVH our elo'ah, cosmic majesty, who nourishes the entire cosmos with goodness, with grace, with mercy, and with compassion.
+Blessed are you, YHVH our <em>elo'ah</em>, cosmic majesty, who nourishes the entire cosmos with goodness, with grace, with mercy, and with compassion.
 </div></td></tr>
 
 
@@ -66,7 +66,7 @@ Grace us ח to hear "Comfort" from your servants.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-As it is written: "Comfort, comfort, my people, says your elo'ah" (Isaiah 40:1)
+As it is written: "Comfort, comfort, my people, says your <em>elo'ah</em>" (Isaiah 40:1)
 </div></td></tr>
 
 
@@ -99,7 +99,7 @@ Blessed are you, YHVH, who nourishes everything.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-We thank you, YHVH our elo'ah, for what You endowed our ancestors, a beautiful, good, and wide land, covenant, Torah, life, and nourishment.
+We thank you, YHVH our <em>elo'ah</em>, for what You endowed our ancestors, a beautiful, good, and wide land, covenant, Torah, life, and nourishment.
 </div></td></tr>
 
 
@@ -148,7 +148,7 @@ Steppe ע and desert to clear, as the garden of YHVH.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-As it is written: "A voice calls out, 'In the desert push a path of YHVH; straighten in the steppe a highway for our elo'ah!" (Isaiah 40:3)
+As it is written: "A voice calls out, 'In the desert push a path of YHVH; straighten in the steppe a highway for our <em>elo'ah</em>!" (Isaiah 40:3)
 </div></td></tr>
 
 
@@ -159,7 +159,7 @@ As it is written: "A voice calls out, 'In the desert push a path of YHVH; straig
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-And it is said, "And you shall eat and be satiated and bless YHVH your elo'ah for the good land that Hashem has given to you" (Deuteronomy 8:10)
+And it is said, "And you shall eat and be satiated and bless YHVH your <em>elo'ah</em> for the good land that Hashem has given to you" (Deuteronomy 8:10)
 </div></td></tr>
 
 
@@ -181,7 +181,7 @@ Blessed are you, YHVH, for the land and for the nourishment.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Have mercy, YHVH our elo'ah, on Yisra'el your people, and on Jerusalem your city, and on Tsiyon the dwelling-place of your <em>kavod</em>, and on the rule of the house of David Your anointed, and on the Great and Holy House upon which you called your name.
+Have mercy, YHVH our <em>elo'ah</em>, on Yisra'el your people, and on Jerusalem your city, and on Tsiyon the dwelling-place of your <em>kavod</em>, and on the rule of the house of David Your anointed, and on the Great and Holy House upon which you called your name.
 </div></td></tr>
 
 
@@ -228,7 +228,7 @@ Strengthen חזק its neighbors in raising her full-throatedly
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-As it is written: "Up a tall mountain, ascend, herald of Tsiyon, raise your voice in power, herald of Jerusalem's joy, raise it, do not fear, call to the cities of Jerusalem, here is your elo'ah!" (Isaiah 40:9)
+As it is written: "Up a tall mountain, ascend, herald of Tsiyon, raise your voice in power, herald of Jerusalem's joy, raise it, do not fear, call to the cities of Jerusalem, here is your <em>elo'ah</em>!" (Isaiah 40:9)
 </div></td></tr>
 
 
@@ -261,7 +261,7 @@ Blessed are you, YHVH, Rebuilder in mercy of Jerusalem, amen.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Blessed are You, YHVH our elo'ah, cosmic majesty, El, our Parent, our Majesty, our Mighty One, our Holy One, the Holy One of Yaaqov, the Majestic Power who is Good and Does Good, who on each and every day has done good, does good, and will do good to us, who has rewarded us, rewards us, and will reward us forever, in grace, in mercy, and in compassion, and in all good.
+Blessed are You, YHVH our <em>elo'ah</em>, cosmic majesty, El, our Parent, our Majesty, our Mighty One, our Holy One, the Holy One of Yaaqov, the Majestic Power who is Good and Does Good, who on each and every day has done good, does good, and will do good to us, who has rewarded us, rewards us, and will reward us forever, in grace, in mercy, and in compassion, and in all good.
 </span></div></td></tr>
 </tbody></table>
 

@@ -104,7 +104,7 @@ Signed: ___________________________________________________________________ Witn
 
 <hr />
 
-I have been writing non-binary certificates for folks with whom I've worked on conversion, but I have, rather than applying Lior Gross' system, opted for workarounds within classical Hebrew so as to ensure that the language is comprehensible. Depending on where someone's Jewish journey may take them, having a clear and comprehensible te'udat gerut can be critical; of course, I also recognize that there are many institutions and individuals who would not accept conversions that I have overseen.
+I have been writing non-binary certificates for folks with whom I've worked on conversion, but rather than applying <a href="https://www.nonbinaryhebrew.com">Lior Gross' system</a>, I have opted for workarounds within classical Hebrew so as to ensure that the language is comprehensible. Depending on where someone's Jewish journey may take them, having a clear and comprehensible <em>te'udat gerut</em> can be critical; of course, I also recognize that there are many institutions and individuals who would not accept conversions that I have overseen.
 
 <h3>Source</h3>
 

@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: סידור עֹלת תמיד | Siddur Olas Tamid, by Aaron Wolf (2018)<br />
+Title: סידור עֹלת תמיד (אשכנז)‏ | Siddur Olas Tamid, derived by Aaron Wolf (2018) from Tefiloh Sefas Yisroel by Rallis Wiesenthal (2010)<br />
 Primary contributor: aaron.wolf<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=19550">http://opensiddur.org/?p=19550</a>
 <p />
@@ -17,12 +17,13 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 Full XeLaTeX source code available at <a href="https://github.com/wolf-math/olastamid">github</a>.
 
-<h3>To purchase a copy</h3>
+<h3>To purchase a print copy</h3>
 
 Please visit <a href="http://dimus.parrhesia.press/shop/siddurim/siddur-olas-tamid-compiled-by-aaron-wolf/">Dimus Parrhesia Press</a>.
 
 <hr />
 
+<blockquote><div class="english" style="font-size: 1.2em;">
 <h3>About</h3>
 
 Siddur Olas Tamid is written in XeLaTeX markup language. It became my project once I learned how to typeset Hebrew using XeLaTeX. I originally wrote this siddur for myself since I was unable to find a bound siddur of the German rite. However I wanted my siddur to be refined enough so that anybody with a background in tefila would be able to use it.
@@ -39,9 +40,9 @@ I would like to extend my most profound gratitude to those who helped me put thi
 
 Rabbi Raphael Davidovich, Rabbi Benjamin Levi, Rabbi Sholmo Hunger,H. aver Mark Selent, Mr. Brian Rothenberg, Rabbi Jason Claude, and Steven Perlin all helped out in their own ways by answering questions about nusaḥ, instructions, page layout, and every inane detail of tefila.
 
-Rabbi Rallis Wiesenthal did a great חסד by providing much of the text available under a Creative Commons Attribution-ShareAlike licence and providing his own input. Ari Auerbach, and many others on Stack Exchange helped with the source code.
+Rabbi Rallis Wiesenthal did a great חסד by providing much of the text available under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike</a> licence and providing his own input. Ari Auerbach, and many others on Stack Exchange helped with the source code.
 
 The Wolf logo was drawn by Yisroel Mendenhall. Most of all I would like to thank Ha-Shem, Der Ewige, for bringing me to the occasion of being able to put together such a work. Forgive me for anyone whom I may have forgotten to mention above. Please attribute all errors to me, be them in ḥ, instructions, page layout, or anything else.
-
+</div></blockquote>
 </body>
 </html>

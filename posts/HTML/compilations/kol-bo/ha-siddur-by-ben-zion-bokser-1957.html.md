@@ -1,23 +1,25 @@
 <html>
 <head></head>
 <body>
-Title: הסדור | Ha-Siddur by Rabbi Ben-Zion Bokser (1957)<br />
+Title: הַסִּדוּר (אשכנז)‏ | Ha-Siddur, a bilingual Hebrew-English prayerbook translated and arranged by Rabbi Ben-Zion Bokser (1957)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=15176">http://opensiddur.org/?p=15176</a>
 <p />
 <hr />
 
-Arranged and translated by Rabbi Ben-Zion Bokser, <a href="https://opensiddur.org/prayers-for/special-days/high-holy-days/ha-mahzor-by-rabbi-ben-zion-bokser-1959/">Ha-Maḥzor</a> (1959) and Ha-Siddur (1957), are the most recent modern prayerbooks to have entered the Public Domain. (Both Ha-Siddur and Ha-Maḥzor entered the Public Domain due to lack of copyright renewal by the copyright owner listed in the copyright notice, the Hebrew Publishing Company.) Making digital images of these works available is the first step in our process of making the entire prayerbook, both Hebrew liturgy and English translation, machine-readable (copy-pastable and searchable). If you would like to take part in the transcription of this work, please join our <a href="https://groups.google.com/forum/#!forum/opensiddur-tech">opensiddur-tech discussion group</a>.
+Arranged and translated by Rabbi Ben-Zion Bokser, <em><a href="https://opensiddur.org/prayers-for/special-days/high-holy-days/ha-mahzor-by-rabbi-ben-zion-bokser-1959/">Ha-Maḥzor</a></em> (1959) and <em>Ha-Siddur</em> (1957), are the most recent modern prayerbooks to have entered the Public Domain. (Both <em>Ha-Siddur</em> and <em>Ha-Maḥzor</em> entered the Public Domain due to lack of copyright renewal by the copyright owner listed in the copyright notice, the Hebrew Publishing Company.)
+
+Making digital images of these works available is the first step in our process of making the entire prayerbook, both Hebrew liturgy and English translation, machine-readable (copy-pastable and searchable). If you would like to take part in the transcription of this work, please join our <a href="https://groups.google.com/forum/#!forum/opensiddur-tech">opensiddur-tech discussion group</a>.
 
 <hr />
 
 <h3>Source</h3>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.archive.org/stream/HaSiddurThePrayerBookBenZionBokser1957rev1961?ui=embed"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/HaSiddurThePrayerBookBenZionBokser1957rev1961#page/n02/mode/2up"]
 
 <hr />
 
-<div class="english">
+<blockquote><div class="english" style="font-size: 1.2em;">
 <h3>Introduction</h3>
 
 Prayer is the human side of an unending dialogue between God and man. In the wondrous phenomena of nature as in the inspired word of Scripture, God speaks to man. God speaks to man of His love for him, of His purposes in having fashioned life, and of the ultimate goodness of all existence. We who hear God, try to respond. Man’s response to God is prayer.
@@ -106,6 +108,6 @@ In planning the new edition I had the benefit of the criticisms and suggestions 
 
 B. Z. B.
 Forest Hills, N.Y., Elul, 5721 [1961]
-</div>
+</div></blockquote>
 </body>
 </html>

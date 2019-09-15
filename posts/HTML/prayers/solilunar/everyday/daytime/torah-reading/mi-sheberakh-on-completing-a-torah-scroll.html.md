@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: מִי שֶׁבֵּרַךְ | A Hadran Mi Sheberakh Upon Completing the Writing of a Sefer Torah, by Rabbi Menachem Creditor<br />
+Title: מִי שֶׁבֵּרַךְ | A Hadran Mi sheBerakh Upon Completing the Writing of a Sefer Torah, by Rabbi Menachem Creditor<br />
 Primary contributor: menachem.creditor<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=5399">http://opensiddur.org/?p=5399</a>
 <p />

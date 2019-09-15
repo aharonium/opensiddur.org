@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: סדר תפילות ישראל | Seder Tefilot Yisrael: Sabbath and Festival Prayer Book (Joint Commission of the Rabbinical Assembly and United Synagogue of America, 1946)<br />
+Title: סדר תפילות ישראל (אשכנז)‏ | Seder Tefilot Yisrael: Sabbath and Festival Prayer Book, compiled by the Rabbinical Assembly & United Synagogue of America (1946)<br />
 Primary contributor: morris.silverman<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=15128">http://opensiddur.org/?p=15128</a>
 <p />
@@ -13,11 +13,11 @@ Making digital images of these works available is the first step in our process 
 
 <h3>Sources</h3>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.archive.org/stream/SederTefilotYisraelRabbinicalAssemblyOfAmerica1946?ui=embed"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.archive.org/stream/SederTefilotYisraelRabbinicalAssemblyOfAmerica1946#page/n02/mode/2up"]
 
 <hr />
 
-<div class="english">
+<div class="english" style="font-size: 1.2em;">
 This Sabbath and Festival Prayer Book is presented with the hope that it will serve the needs of all who are striving to perpetuate traditional Judaism in the modern spirit. 
 
 The past century and a half has witnessed a number of attempts to achieve a living synthesis of the old and the new, of Jewish tradition and the contemporary scene. To attain this goal in the realm of public and private worship, a number of teachers of Conservative Judaism during the past few decades published prayer books for the various occasions of the year under individual auspices. The only collective enterprise in the field was the United Synagogue Festival Prayer Book, undoubtedly the most attractive traditional Mahzor hitherto issued. As time went on, it was increasingly recognized that the principles and techniques of a traditional Prayer Book for the modern age needed to be reconsidered. Everywhere the conviction grew that the time was ripe for the issuance of a Prayer Book that would express the viewpoint of Conservative Judaism and bear the official imprint of the Rabbinical Assembly of America, representing the spiritual leadership of the movement and of the United Synagogue, the lay congregational organization. 

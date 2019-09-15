@@ -1249,5 +1249,9 @@ for you have been kind to me."[foot]Psalms 142:8[/foot]
 Reb Nosson's Likutei Tefillot I:37 was first translated to English and published by Avraham Greenbaum in <a href="https://books.breslov.org/product/the-fiftieth-gate-volume-2/"><em>The Fiftieth Gate Volume 2: Prayers 21-40</em></a> (Breslov Research Insitute 1992). Greenbaum is a far better translator than I, but his style sometimes abridges the text and in some case omits important phrases. I have attempted to correct passages omitted from his translation by first setting down the entire text opposite his translation, adding all citation references, and making additional changes. Lacunae still remain, so please if you can, help to make a more complete translation of this prayer.
 
 This prayer is tagged with our "problematic prayers" tag since it contains curses that we believe should be contextualized within the anti-Enlightenment and reactionary currents of 19th century Jewry. Amidst these anxieties is an admonishment on gazing at women which may be misapplied, we believe, to the repression of women visible in the public sphere. We share this prayer for historical interest and the possibility of revision through adaptive reuse.
+
+<h3>Source</h3>
+
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/liquteitefilotnathansternhartzofnemirovjerusalem1943#page/n180/mode/2up"]
 </body>
 </html>

@@ -1,14 +1,14 @@
 <html>
 <head></head>
 <body>
-Title: A Rosh Hashana Amidah by Trisha Arlin<br />
+Title: A Rosh haShanah Amidah, by Trisha Arlin<br />
 Primary contributor: trishaarlin<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=4010">http://opensiddur.org/?p=4010</a>
 <p />
 <hr />
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;"></th><th style="text-align: left;">Source (English)</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;"><a href="https://opensiddur.org/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">

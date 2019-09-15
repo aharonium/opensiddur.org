@@ -78,7 +78,7 @@ May I live to see Nachas and pride from my child, whose upbringing has been so d
 
 <hr />
 
-This tkhine was translated from the סידור קרבן מנחה (Siddur Qorban Minḥah 1897) by Mendel Spalter. The tkhine can also be found in earlier and later editions of the Siddur Qorban Minḥah.
+This tkhine was translated from the סידור קרבן מנחה (Siddur Qorban Minḥah 1897) by Mendel Spalter. The tkhine can also be found in earlier and later editions of the <a href="https://opensiddur.org/compilations/sifrei-tehinot/siddur-qorban-minhah-1897">Siddur Qorban Minḥah</a>.
 
 <h3>Source(s)</h3>
 

@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: רבותי נברך | Rabotai Nevarekh, a bentsher compiled by the Cantors Assembly of America (Hebrew Publishing Co., 1954)<br />
+Title: רבותי נברך | Rabotai Nevarekh, a bentsher compiled by the Cantors Assembly of America (1954)<br />
 Primary contributor: paltiel.birnbaum<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=26294">http://opensiddur.org/?p=26294</a>
 <p />
@@ -9,7 +9,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 The Cantors Assembly of America had the segment of <em><a href="https://opensiddur.org/compilations/kol-bo/ha-siddur-ha-shalem-paltiel-birnbaum-hebrew-publishing-company-1949/">Ha-Siddur Ha-Shalem</a></em> (Birnbaum 1949) containing the Birkat ha-Mazon (Blessing [after] the Meal) published by itself as a <em>bentsher</em> titled <em>Rabbotai Nevareḥ</em> in 1954. Added to the bentsher were notes to the popular Ashkenazi tune of the <em>birkat hamazon</em> provided by Moshe Nathanson.
 
-This bentsher is in the Public Domain in the United States due to the lack of copyright renewal required for works published in the US between 1923 and 1963.
+This <em>bentsher</em> is in the Public Domain in the United States due to the lack of copyright renewal by the copyright holder indicated in the work's copyright notice, a condition required for works published in the US between 1923 and 1963.
 
 Making digital images of these works available is the first step in our process of making the entire prayerbook, both Hebrew liturgy and English translation, machine-readable (copy-pastable and searchable). If you would like to take part in the transcription of this work, please join our <a href="https://groups.google.com/forum/#!forum/opensiddur-tech">opensiddur-tech discussion group</a>.
 

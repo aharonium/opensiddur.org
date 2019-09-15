@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: אלף באלול | The Council of All Beings on the New Year's Day festival for Animals, Rosh Hashanah LaBehemot (ראש השנה לבהימות)<br />
+Title: The Council of All Beings, an activity for all ages on the Jewish New Year's Day for Animals, Rosh haShanah la-Behemah, on Rosh Ḥodesh Elul<br />
 Primary contributor: aharon-nissn.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=7428">http://opensiddur.org/?p=7428</a>
 <p />
@@ -9,11 +9,18 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 [caption id="attachment_7440" align="aligncenter" width="1024"]<a href="https://opensiddur.org/wp-content/uploads/2013/07/Free-Spirit-Nature-Camp-Council-of-All-Beings-6-schipygrl.jpg"><img class="size-full wp-image-7440" alt="Free Spirit Nature Camp - Council of All Beings (credit: schipygrl)" src="https://opensiddur.org/wp-content/uploads/2013/07/Free-Spirit-Nature-Camp-Council-of-All-Beings-6-schipygrl.jpg" width="1024" height="768" /></a> <a href="http://www.freespiritnaturecamp.com/">Free Spirit Nature Camp</a> - Council of All Beings (credit: schipygrl)[/caption]
 
-This year, the first of Elul 5774, Rosh Hashanah LaBeheimot — the New Year for the Animals, begins the evening of August 26, 2014 and continues through August 27. In ancient Israel, Rosh Hashanah LaBeheimot affected shepherds and cattle herders: domesticated animals (<em>beheimot</em>) born before this date were placed in one group for tithing, and those born after were placed in another group. But in our time, the New Year for the Animals is an opportunity to celebrate all animal life. Especially now that humanity's impact is felt over the whole planet, and the livelihood and survival of wild animals (<em>ḥayot</em>) increasingly depends on our choices, we are responsible for their care, just as Noah became responsible for all the animals in the ark.
+<div class="english" style="font-size: 1.2em;">
+For a sourcesheet on Rosh haShanah la-Behemah, find Aharon Varady's compilation of texts, <a href="https://www.sefaria.org/sheets/184964?lang=bi">here</a>.
+</div>
 
-This New Year can be a time to examine and correct our relationship with all the creatures that share the world with us, now that every species is in a sense domesticated because its survival is affected by our decisions and actions. The New Year Festival for the Animals in the month of Elul also marks the beginning of our journey toward the Rosh Hashanah of Tishrei, when we blow the shofar and focus on our relationships with each other and with God. Last year, <a href="https://opensiddur.org/2011/08/%d7%a8%d7%90%d7%a9-%d7%94%d7%a9%d7%a0%d7%94-%d7%9c%d7%91%d7%94%d7%9e%d7%94-explanation-and-ritual-for-rosh-hashanah-labeheimot-new-years-day-for-animals/">we shared rituals for how to celebrate the day</a> -- for example, by listening for the voices of all the <em>beheimot</em>, the domesticated animals that we depend on for our lifestyle and diet, in the sound of the shofar, the horn of a <em>beheimah</em>.
+<hr />
 
-This year, in advance of Rosh Hashanah LaBeheimot, we are sharing a profound and imaginative activity that Rabbi David Seidenberg first introduced at the <a href="http://web.archive.org/web/20130927183251/http://www.tevalearningalliance.org/teva_seminar.php">Teva Education Seminar</a> in 2010 (organized by the <a href="http://hazon.org/teva">Teva Learning Alliance</a>). The activity, “The Council of All Beings,” is an exercise in empathy where we challenge ourselves to walk in the shoes, hoofs and paws of the creatures we share this beautiful world with. It's an activity that is fun and meaningful for young and old, whether they are at a Jewish summer camp or at a Rosh Hashanah LaBeheimot <em>seudah</em> (feast) organized for celebrating all life, great and small.
+<div class="english" style="font-size: 1.2em;">
+This year, the first of Elul 5774, Rosh haShanah la-Behemah — the Jewish New Year's Day for Animals, begins the evening of August 26, 2014 and continues through August 27. In ancient Israel, Rosh haShanah la-Behemah affected shepherds and cattle herders: domesticated animals (<em>behemot</em>) born before this date were placed in one group for tithing, and those born after were placed in another group. But in our time, the New Year for the Animals is an opportunity to celebrate all animal life. Especially now that humanity's impact is felt over the whole planet, and the livelihood and survival of wild animals (<em>ḥayot</em>) increasingly depends on our choices, we are responsible for their care, just as Noah became responsible for all the animals in the ark.
+
+This New Year can be a time to examine and correct our relationship with all the creatures that share the world with us, now that every species is in a sense domesticated because its survival is affected by our decisions and actions. The New Year Festival for the Animals in the month of Elul also marks the beginning of our journey toward the Rosh Hashanah of <em>Tishrei</em>, when we blow the shofar and focus on our relationships with each other and with God. Last year, <a href="https://opensiddur.org/prayers/lunisolar/new-years-day/for-domesticated-animals/explanation-and-ritual-for-rosh-hashanah-labehemot-new-years-day-for-animals/">we shared rituals for how to celebrate the day</a> -- for example, by listening for the voices of all the <em>behemot</em>, the domesticated animals that we depend on for our lifestyle and diet, in the sound of the shofar, the horn of a <em>behemah</em>.
+
+This year, in advance of Rosh haShanah la-Behemah, we are sharing a profound and imaginative activity that Rabbi David Seidenberg first introduced at the <a href="http://web.archive.org/web/20130927183251/http://www.tevalearningalliance.org/teva_seminar.php">Teva Education Seminar</a> in 2010 (organized by the <a href="http://hazon.org/teva">Teva Learning Alliance</a>). The activity, “The Council of All Beings,” is an exercise in empathy where we challenge ourselves to walk in the shoes, hoofs and paws of the creatures we share this beautiful world with. It's an activity that is fun and meaningful for young and old, whether they are at a Jewish summer camp or at a Rosh haShanah la-Behemah <em>seudah</em> (feast) organized for celebrating all life, great and small.
 
 Participants in the activity choose any non-human being to roleplay, including not only animals, but plants, bacteria, ecosystems, places, etc. How they pick their "ally" is described below. Then they take on the persona of that ally, perhaps using masks or face-painting, and come together "in council" to talk about what they see happening to the planet. Inevitably the discussion will come round to the question, how can the creatures can communicate with human beings to change what is happening? After the Council, this can lead directly to a discussion of our responsibilities as Jews and human beings to choose life, to be mindful of <em>tsa'ar baalei ḥayyim</em> — the suffering of other living creatures — and to not let the world become a wasteland.
 
@@ -115,11 +122,13 @@ Barbara Deming</blockquote>
 </li>
 </ol>
 
-Here is a gallery of images of Council of All Beings taking place around the world.
-[gallery type="slideshow" ids="7541,7473,7460,7449,7448,7447,7446,7445,7444,7443,7442,7441,7440,7438" orderby="rand"]
+</div>
 
 <hr />
 
 We are grateful to Rabbi David Seidenberg for sharing this activity and his drafted edits compiled from earlier sources with emendations by the authors and including feedback from John Seed. David Seidenberg first published this activity at neohasid.org, <a href="http://www.neohasid.org/stoptheflood/council/">here</a>. Please <a href="https://www.facebook.com/neohasid.org">LIKE Neohasid.org on Facebook</a> and help advance Rabbi Seidenberg's work.
+
+Here is a gallery of images of Council of All Beings taking place around the world.
+[gallery type="slideshow" ids="7541,7473,7460,7449,7448,7447,7446,7445,7444,7443,7442,7441,7440,7438" orderby="rand"]
 </body>
 </html>

@@ -643,6 +643,10 @@ YHVH, my Rock-fortress and my Redeemer."[foot]Psalms 19:15.[/foot]
 
 <hr />
 
-Prayer 145 of Liqutei Tefilot vol. 1 by Reb Nosson Sternhartz of Nemirov, after the teachings of Rebbe Naḥman in Liqutei Moharan, was translated by Yaacov Dovid Shulman in <em><a href="https://books.breslov.org/product/the-fiftieth-gate-volume-5">The Fiftieth Gate volume 5: Part One Prayers 111-152, Part Two Prayers 1-4</a></em> (Breslov Research Institute). I have adapted this translation slightly, mainly to clarify the terms behemah (domesticated animal) and ḥayah (wild creatures), but I have also made other subtle changes and added citation references. --Aharon Varady
+Prayer 145 of Liqutei Tefilot vol. 1 by Reb Nosson Sternhartz of Nemirov, after the teachings of Rebbe Naḥman in Liqutei Moharan, was translated by Yaacov Dovid Shulman in <em><a href="https://books.breslov.org/product/the-fiftieth-gate-volume-5">The Fiftieth Gate volume 5: Part One Prayers 111-152, Part Two Prayers 1-4</a></em> (Breslov Research Institute). I have adapted this translation slightly, mainly to clarify the terms <em>behemah</em> (domesticated animal) and <em>ḥayah</em> (wild creatures), but I have also made other subtle changes and added citation references. --Aharon Varady
+
+<h3>Source</h3>
+
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/liquteitefilotnathansternhartzofnemirovjerusalem1943#page/n424/mode/2up"]
 </body>
 </html>

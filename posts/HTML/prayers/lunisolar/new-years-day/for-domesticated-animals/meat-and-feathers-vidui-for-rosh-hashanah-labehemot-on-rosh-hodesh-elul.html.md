@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: וידוי לראש השנה לבהמות | Meat and Feathers: We Confess for Rosh Hashanah LaBehemot on Rosh Ḥodesh Elul, by Trisha Arlin<br />
+Title: Meat and Feathers: We Confess, a vidui for Rosh haShanah la-Behemah (the Jewish New Year's Day for Animals), by Trisha Arlin<br />
 Primary contributor: trishaarlin<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=16696">http://opensiddur.org/?p=16696</a>
 <p />
@@ -17,7 +17,7 @@ For attribution and license, please consult the following URL: <a href="http://o
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-(leader)
+<span class="instruction">(leader)</span>
 I feel the Presence
 Of what today I call God
 Tomorrow I may call nature--
@@ -35,7 +35,7 @@ This connection that must know everything because it is everything.
 <td style="vertical-align:top;" width="53%">
 <div class="english">
 During Elul we must confess to people before we confess to God
-And perhaps on Rosh HaShanah LaBehemot we must confess to animals before we confess to people.
+And perhaps on Rosh HaShanah LaBehemah we must confess to animals before we confess to people.
 </div></td></tr>
 
 
@@ -65,7 +65,7 @@ Our property, our friends, our victims.
 <div class="english">
 And we ask that they hear our confessions and our blessings:
 
-(together)
+<span class="instruction">(together)</span>
 Cattle
 Sheep
 Pigs
@@ -87,7 +87,7 @@ We celebrate the many gifts you give us, willingly and unwillingly.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-(leader)
+<span class="instruction">(leader)</span>
 We eat you,
 We eat your bodies and reminisce over the best parts,
 We share recipes.
@@ -157,7 +157,7 @@ We use you for sport or dog food.
 <div class="english">
 We bless your memory.
 
-(together)
+<span class="instruction">(together)</span>
 Cattle
 Sheep
 Pigs
@@ -178,7 +178,7 @@ We acknowledge how we have abused you.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-(leader)
+<span class="instruction">(leader)</span>
 We imprison you.
 We torture you.
 We test our make up and drugs on you.
@@ -238,7 +238,7 @@ We chop and grind you up.
 <div class="english">
 We acknowledge our cruelty and ask for your forgiveness.
 
-(together)
+<span class="instruction">(together)</span>
 Cattle
 Sheep
 Pigs
@@ -261,7 +261,7 @@ We confess how we have lied to ourselves about what we do to you.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-(leader)
+<span class="instruction">(leader)</span>
 We call you
 Porterhouse Steak
 Buffalo Wings
@@ -307,7 +307,7 @@ And we sleep well.
 <div class="english">
 We give thanks for denial, without which we could not get through the day.
 
-(together)
+<span class="instruction">(together)</span>
 Cattle
 Sheep
 Pigs
@@ -328,7 +328,7 @@ Forgive those of us who cannot give you up.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-(leader)
+<span class="instruction">(leader)</span>
 You domestic beasts are all vegetarians, why is that?
 Why don't we eat predators?
 Is it because you are docile and easy to domesticate?
@@ -357,7 +357,7 @@ But many of us do.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-(optional)
+<span class="instruction">(optional)</span>
 I do.
 I eat meat. I love meat.
 I love eggs, honey, yogurt, chicken, steak.
@@ -380,9 +380,9 @@ This month, anyway.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-(optional: are there any other confessions, besides mine? anyone?)
+<span class="instruction">(optional)</span> Are there any other confessions, besides mine? anyone? (<span class="instruction">(wait)</span>
 
-(together)
+<span class="instruction">(together)</span>
 Cattle
 Sheep
 Pigs
@@ -404,7 +404,7 @@ We could try to make at least small changes.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-(leader)
+<span class="instruction">(leader)</span>
 We can eat less meat.
 We can wear less leather.
 We can refuse to wear real fur.
@@ -412,7 +412,7 @@ We can refuse to eat veal.
 We can only buy grass fed and pasture raised poultry and meat, if we can afford it.
 We can stop wearing feathers.
 We can use alternative down feather pillows, though that's plastic and not so good for the environment.
-(optional) What else can we do? (wait for suggestions)
+<span class="instruction">(optional)</span> What else can we do? <span class="instruction">(wait for suggestions)</span>
 </div></td></tr>
 
 
@@ -437,9 +437,9 @@ We can start.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-(together)
-Barukh Atah Adonai
-Brukha At Shekhinah
+<span class="instruction">(together)</span>
+<em>Barukh Atah Adonai
+Brukha At Shekhinah</em>
 Blessed Yah,
 Breath of Life,
 Remembering us in Death,
@@ -461,7 +461,7 @@ And we wish them a Happy New Year and a Ḥodesh Tov
 <td style="vertical-align:top;" width="53%">
 <div class="english">
 And let us say,
-Amen
+<em>Amen</em>
 </div></td></tr>
 </tbody></table>
 

@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: תפלה שפת ישראל | Tefiloh Sefas Yisroel, a nusaḥ Ashkenaz siddur dedicated to the memory of the Bad Homburg Jewish community<br />
+Title: תפלה שפת ישראל (אשכנז)‏ | Tefiloh Sefas Yisroel (minhag Bad Homburg), compiled by R' Rallis Wiesenthal (2010)<br />
 Primary contributor: rallisw<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=1450">http://opensiddur.org/?p=1450</a>
 <p />
@@ -15,109 +15,109 @@ For attribution and license, please consult the following URL: <a href="http://o
 <th>ODT</th>
 <th>TXT</th>
 <th>PDF[foot]In order to support machine-readable and searchable Unicode Hebrew fonts, the layout in these PDFs has been modified. There has been no changes made to the content.[/foot]</th>
-</tr>   <tr>
+</tr><tr>
 <td>Title, Memorial, Table of Contents, and Preface</td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-0-Title-TOC-Preface.xhtml">XHTML</a></td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-0-Title-TOC-Preface.odt">ODT</a></td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-0-Title-TOC-Preface.txt">TXT</a></td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-0-Title-TOC-Preface.pdf">PDF</a></td>
-</tr>   <tr>
+</tr><tr>
 <td><strong>WEEKDAY PRAYERS</strong></td>
-</tr>   <tr>
+</tr><tr>
 <td>Shaḥaris</td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-1-Shacharit.xhtml">XHTML</a></td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-1-Shacharit.odt">ODT</a></td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-1-Shacharit.txt">TXT</a></td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-1-Shacharit.pdf">PDF</a></td>
-</tr>   <tr>
+</tr><tr>
 <td>Minḥa</td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-2-Mincha.xhtml">XHTML</a></td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-2-Mincha.odt">ODT</a></td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-2-Mincha.txt">TXT</a></td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-2-Mincha.pdf">PDF</a></td>
-</tr>   <tr>
+</tr><tr>
 <td>Arvis</td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-3-Arvit.xhtml">XHTML</a></td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-3-Arvit.odt">ODT</a></td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-3-Arvit.txt">TXT</a></td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-3-Arvit.pdf">PDF</a></td>
-</tr>   <tr>
+</tr><tr>
 <td><strong>SHABBES</strong></td>
-</tr>   <tr>
+</tr><tr>
 <td>Kabbolas Shabbes and Arvis</td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-4-Erev-Shabbat-and-Yom-Tov.xhtml">XHTML</a></td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-4-Erev-Shabbat-and-Yom-Tov.odt">ODT</a></td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-4-Erev-Shabbat-and-Yom-Tov.txt">TXT</a></td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-4-Erev-Shabbat-and-Yom-Tov.pdf">PDF</a></td>
-</tr>   <tr>
+</tr><tr>
 <td>Seder Leil Shabbes and Yontov</td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-5-Seder-Leil-Shabbat-and-Yom-Tov.xhtml">XHTML</a></td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-5-Seder-Leil-Shabbat-and-Yom-Tov.odt">ODT</a></td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-5-Seder-Leil-Shabbat-and-Yom-Tov.txt">TXT</a></td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-5-Seder-Leil-Shabbat-and-Yom-Tov.pdf">PDF</a></td>
-</tr>   <tr>
+</tr><tr>
 <td>Shabbos Shacharis and Musaf</td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-6-Shacharit-and-Musaf-for-Shabbat-and-Yom-Tov.xhtml">XHTML</a></td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-6-Shacharit-and-Musaf-for-Shabbat-and-Yom-Tov.odt">ODT</a></td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-6-Shacharit-and-Musaf-for-Shabbat-and-Yom-Tov.txt">TXT</a></td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-6-Shacharit-and-Musaf-for-Shabbat-and-Yom-Tov.pdf">PDF</a></td>
-</tr>   <tr>
+</tr><tr>
 <td>Seder Yom Shabbes and Yontov</td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-7-Seder-Yom-Shabbat-and-Yom-Tov.xhtml">XHTML</a></td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-7-Seder-Yom-Shabbat-and-Yom-Tov.odt">ODT</a></td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-7-Seder-Yom-Shabbat-and-Yom-Tov.txt">TXT</a></td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-7-Seder-Yom-Shabbat-and-Yom-Tov.pdf">PDF</a></td>
-</tr>   <tr>
+</tr><tr>
 <td>Shabbos Minḥa</td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-8-Mincha-for-Shabbat-and-Yom-Tov.xhtml">XHTML</a></td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-8-Mincha-for-Shabbat-and-Yom-Tov.odt">ODT</a></td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-8-Mincha-for-Shabbat-and-Yom-Tov.txt">TXT</a></td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-8-Mincha-for-Shabbat-and-Yom-Tov.pdf">PDF</a></td>
-</tr>   <tr>
+</tr><tr>
 <td>Pirkei Ovos</td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-9-Pirkei-Avot.xhtml">XHTML</a></td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-9-Pirkei-Avot.odt">ODT</a></td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-9-Pirkei-Avot.txt">TXT</a></td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-9-Pirkei-Avot.pdf">PDF</a></td>
-</tr>   <tr>
+</tr><tr>
 <td>Motzoei Shabbos, Arvis</td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-10-Arvit-for-Motzei-Shabbat-and-Yom-Tov.xhtml">XHTML</a></td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-10-Arvit-for-Motzei-Shabbat-and-Yom-Tov.odt">ODT</a></td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-10-Arvit-for-Motzei-Shabbat-and-Yom-Tov.txt">TXT</a></td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-10-Arvit-for-Motzei-Shabbat-and-Yom-Tov.pdf">PDF</a></td>
-</tr>   <tr>
+</tr><tr>
 <td><strong>HOLIDAYS</strong></td>
-</tr>   <tr>
+</tr><tr>
 <td>Hallel, Amidos For Rosh Chodesh and Yomim Tovim, Hoshanos, Yomim Noraim, Ḥanukkah, Purim, etc.</td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-11-Holidays.xhtml">XHTML</a></td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-11-Holidays.odt">ODT</a></td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-11-Holidays.txt">TXT</a></td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-11-Holidays.pdf">PDF</a></td>
-</tr>   <tr>
+</tr><tr>
 <td><strong>BLESSINGS, LIFECYCLE EVENTS</strong></td>
-</tr>   <tr>
+</tr><tr>
 <td>Brachos, Celebrations</td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-12-Brachot-and-Celebrations.xhtml">XHTML</a></td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-12-Brachot-and-Celebrations.odt">ODT</a></td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-12-Brachot-and-Celebrations.txt">TXT</a></td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-12-Brachot-and-Celebrations.pdf">PDF</a></td>
-</tr>   <tr>
+</tr><tr>
 <td>Kaddish</td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-13-Kaddish.xhtml">XHTML</a></td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-13-Kaddish.odt">ODT</a></td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-13-Kaddish.txt">TXT</a></td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-13-Kaddish.pdf">PDF</a></td>
-</tr>   <tr>
+</tr><tr>
 <td><strong>TORAH READINGS</strong></td>
-</tr>   <tr>
+</tr><tr>
 <td>Weekday Torah Readings</td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-14-Kriyat-HaTorah.xhtml">XHTML</a></td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-14-Kriyat-HaTorah.odt">ODT</a></td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-14-Kriyat-HaTorah.txt">TXT</a></td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-14-Kriyat-HaTorah.pdf">PDF</a></td>
-</tr>   <tr>
+</tr><tr>
 <td><strong>APPENDIX</strong></td>
-</tr>   <tr>
+</tr><tr>
 <td>Bad Homburg, Recording Family Customs, etc.</td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-15-Appendixes.xhtml">XHTML</a></td>
 <td><a href="https://opensiddur.org/wp-content/uploads/2010/11/Tefiloh-Sefas-Yisroel-15-Appendixes.odt">ODT</a></td>
@@ -130,7 +130,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <h3>Source</h3>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.archive.org/stream/TefilohSefasYisroelRallisWiesenthal#page/n0/mode/2up"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.archive.org/stream/TefilohSefasYisroelRallisWiesenthal?ui=embed"]
 
 <hr />
 
@@ -138,7 +138,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <hr />
 
-Since 1998, Rabbi Rallis Wiesenthal has been laboring on the holy task of preparing a German Rite Nusaḥ Ashkenaz siddur, in Memory Of The Bad Homburg Kehilloh (1335-1942). Recently completed with help from <a href="http://moreshesashkenaz.org">Machon Moreshes Ashkenaz</a> and <a href="http://kayj.net">K'hal Adas Yeshurun-Jerusalem</a> (KAYJ), Rabbi Wiesenthal described the history of the <em>Siddur Bnei Ashkenaz</em> in 2010 as follows:
+Since 1998, Rabbi Rallis Wiesenthal has been laboring on the holy task of preparing a German Rite Nusaḥ Ashkenaz siddur, in Memory Of The Bad Homburg Kehilloh (1335-1942). Recently completed with help from <a href="http://moreshesashkenaz.org">Machon Moreshes Ashkenaz</a> and <a href="http://kayj.net">K'hal Adas Yeshurun-Jerusalem</a> (KAYJ), Rabbi Wiesenthal describes the history of the <em>Siddur Bnei Ashkenaz</em>:
 
 <blockquote>It started as a project to compile a siddur that I could daven from. Living in Chicago, most of the siddurim which are available are Artscroll, Birnbaum, etc. Just to try and find a Rodelheim, or Baer's Avodat Yisroel is nearly impossible. That was about twelve years ago.
 
