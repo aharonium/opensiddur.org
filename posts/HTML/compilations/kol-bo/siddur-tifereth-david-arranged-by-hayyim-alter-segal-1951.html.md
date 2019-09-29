@@ -7,13 +7,15 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<em>Siddur Tifereth David</em> (1951), arranged by Ḥayyim (Hyman) Alter Segal, was the first nusaḥ ha-ARI z"l ("Sephardic-Ḥassidic") prayerbook with a relatively complete English translation. A note in the siddur (following the table of contents) celebrates this fact:
-
-<blockquote><div class="english" style="font-size: 1.2em;">
-The HEBREW PUBLISHING COMPANY presents, for the first time, a carefully edited and revised English version of the SIDDUR for those who follow the Sephardic form of worship. There has been a serious need for a Sephardic Daily Prayer Book with an English translation for many years and it is hoped that Jews who observe the traditional Sephardic services will find this English version an essential and important book for daily and Sabbath worship. 
+<div class="english" style="font-size: 1.2em;">
+The HEBREW PUBLISHING COMPANY presents, for the first time, a carefully edited and revised English version of the SIDDUR for those who follow the Sephardic[-Ḥassidic] form of worship. There has been a serious need for a Sephardic[-Ḥassidic] Daily Prayer Book with an English translation for many years and it is hoped that Jews who observe the traditional Sephardic[-Ḥassidic] services will find this English version an essential and important book for daily and Sabbath worship. 
 
 This volume also includes prayers for additional services as are found in other complete Siddurim in the Ashkenazic service. 
-</div></blockquote>
+</div>
+
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.archive.org/stream/siddurtiferethdavidsefardhymanaltersegal1951#page/n02/mode/2up"]
+
+<em>Siddur Tifereth David</em> (1951), arranged by Ḥayyim (Hyman) Alter Segal, was the first nusaḥ ha-ARI z"l ("Sephardic-Ḥassidic") prayerbook with a relatively complete English translation.
 
 In 1912, the Hebrew Publishing company had published the <em>Siddur Tiferet Yehudah</em> by Abraham Ḥayyim (Hyman) Charlap (1862-1916) in both nusaḥ Ashkenaz and "sfard" editions which were reprinted over the next several decades.  Indeed, if one compares prayerbooks, Segal's <em>Tifereth David</em> essentially adds its English translation opposite the Hebrew pages of the <em>Tiferet Yehudah</em> siddur.
 
@@ -26,7 +28,5 @@ We are not certain whether the English translation in the <em>Tifereth David</em
 <em>Siddur Tifereth David</em> is in the Public Domain in the United States due to the lack of copyright renewal by the entity indicated in the copyright notice as the owner of the copyright, a condition required for works published in the United States between January 1, 1924 and January 1, 1964.
 
 Making digital images of these works available is the first step in our process of making the entire prayerbook, both Hebrew liturgy and English translation, machine-readable (copy-pastable and searchable). If you would like to take part in the transcription of this work, please join our <a href="https://groups.google.com/forum/#!forum/opensiddur-tech">opensiddur-tech discussion group</a>.
-
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.archive.org/stream/siddurtiferethdavidsefardhymanaltersegal1951#page/n02/mode/2up"]
 </body>
 </html>

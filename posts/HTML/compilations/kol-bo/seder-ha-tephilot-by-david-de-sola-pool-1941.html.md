@@ -1,17 +1,11 @@
 <html>
 <head></head>
 <body>
-Title: סדר התפילות (ספרד)‏ | Seder ha-Tephilot, a bilingual Hebrew-English prayerbook translated and arranged by R' David de Sola Pool (1941)<br />
+Title: סדר התפילות (ספרד)‏ | Seder haTefilot, a bilingual Hebrew-English prayerbook translated and arranged by Rabbi David de Sola Pool (1941)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=26575">http://opensiddur.org/?p=26575</a>
 <p />
 <hr />
-
-<em>Seder ha-Tephilot</em> is in the Public Domain in the United States due to the lack of copyright renewal by the person or corporate entity indicated in the copyright notice as the owner of the copyright, a condition required for works published in the United States between January 1, 1924 and January 1, 1964.
-
-Making digital images of these works available is the first step in our process of making the entire prayerbook, both Hebrew liturgy and English translation, machine-readable (copy-pastable and searchable). If you would like to take part in the transcription of this work, please join our <a href="https://groups.google.com/forum/#!forum/opensiddur-tech">opensiddur-tech discussion group</a>.
-
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.archive.org/stream/DavidDeSolaPoolSederTefilotBookOfPrayer1960#page/n02/mode/2up"]
 
 <div class="english" style="font-size: 1.2em;">
 PREFACE 
@@ -39,5 +33,13 @@ It is the humble prayer of the editor that this edition of the traditional Sepha
 
 D. de Sola Pool
 </div>
+
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.archive.org/stream/DavidDeSolaPoolSederTefilotBookOfPrayer1960#page/n02/mode/2up"]
+
+<hr />
+
+<em>Seder ha-Tephilot</em> is in the Public Domain in the United States due to the lack of copyright renewal by the person or corporate entity indicated in the copyright notice as the owner of the copyright, a condition required for works published in the United States between January 1, 1924 and January 1, 1964.
+
+Making digital images of these works available is the first step in our process of making the entire prayerbook, both Hebrew liturgy and English translation, machine-readable (copy-pastable and searchable). If you would like to take part in the transcription of this work, please join our <a href="https://groups.google.com/forum/#!forum/opensiddur-tech">opensiddur-tech discussion group</a>.
 </body>
 </html>

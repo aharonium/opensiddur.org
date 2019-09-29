@@ -7,17 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-Arranged and translated by Rabbi Ben-Zion Bokser, Ha-Maḥzor (1959) and <a href="https://opensiddur.org/siddurim/ashkenaz/ha-siddur-by-ben-zion-bokser-1957/">Ha-Siddur</a> (1957), are the most recent modern prayerbooks to have entered the Public Domain. (Both Ha-Siddur and Ha-Maḥzor entered the Public Domain due to lack of copyright renewal by the copyright owner listed in the copyright notice, the Hebrew Publishing Company.) Making digital images of these works available is the first step in our process of making the entire prayerbook, both Hebrew liturgy and English translation, machine-readable (copy-pastable and searchable). If you would like to take part in the transcription of this work, please join our <a href="https://groups.google.com/forum/#!forum/opensiddur-tech">opensiddur-tech discussion group</a>.
-
-<hr />
-
-<h3>Source</h3>
-
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.archive.org/stream/BenZionBokserHaMahzorLRoshHaShanahVYomKippurTheHighHolydayPrayerBook1959?ui=embed"]
-
-<hr />
-
-<div class="english">
+<div class="english" style="font-size: 1.2em;">
 
 <h3>INTRODUCTION</h3>
 
@@ -170,5 +160,11 @@ Director, National Academy for Adult Jewish Studies, United Synagogue of America
 Hazzan Max Wohlberg 
 Malverne Jewish Center, Malverne, L. I., N. Y. 
 </div>
+
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.archive.org/stream/BenZionBokserHaMahzorLRoshHaShanahVYomKippurTheHighHolydayPrayerBook1959?ui=embed"]
+
+<hr />
+
+Arranged and translated by Rabbi Ben-Zion Bokser, Ha-Maḥzor (1959) and <a href="https://opensiddur.org/siddurim/ashkenaz/ha-siddur-by-ben-zion-bokser-1957/">Ha-Siddur</a> (1957), are the most recent modern prayerbooks to have entered the Public Domain. (Both Ha-Siddur and Ha-Maḥzor entered the Public Domain due to lack of copyright renewal by the copyright owner listed in the copyright notice, the Hebrew Publishing Company.) Making digital images of these works available is the first step in our process of making the entire prayerbook, both Hebrew liturgy and English translation, machine-readable (copy-pastable and searchable). If you would like to take part in the transcription of this work, please join our <a href="https://groups.google.com/forum/#!forum/opensiddur-tech">opensiddur-tech discussion group</a>.
 </body>
 </html>

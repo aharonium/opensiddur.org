@@ -7,14 +7,6 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<em>Seliḥot for the First Day</em> translated and annotated by Philip Birnbaum (Hebrew Publishing Co., 1952) provides a Seliḥot service for the first day of Seliḥot in the week prior to Rosh ha-Shanah.
-
-Scanning this work is the first step in a more comprehensive project of transcribing each prayer and associating it with its translation. You are invited to participate in this project!
-
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/selihotpaltielbirnbaum1952#page/n0/mode/2up"]
-
-This work was scanned by Aharon Varady for the Open Siddur Project from a volume held in the collection of the HUC Klau Library, Cincinnati, Ohio. (Thank you!) This work is cross-posted to the Internet Archive, as a repository for our transcription efforts.
-
 <div class="english" style="font-size: 1.2em;">
 <h3>PREFACE</h3> 
 
@@ -28,5 +20,17 @@ Without the help of a translation the noble thoughts of the payyetanim are barre
 
 PHILIP BIRNBAUM 
 </div>
+
+<hr />
+
+<em>Seliḥot for the First Day</em>, translated and annotated by Philip Birnbaum (Hebrew Publishing Co., 1952), is a Seliḥot service for the first day of Seliḥot in the week prior to Rosh ha-Shanah.
+
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/selihotpaltielbirnbaum1952#page/n0/mode/2up"]
+
+This work is in the Public Domain due to the lack of a copyright renewal by the copyright holder listed in the copyright notice (a condition required for works published in the United States between January 1st 1924 and January 1st 1964).
+
+This work was scanned by Aharon Varady for the Open Siddur Project from a volume held in the collection of the HUC Klau Library, Cincinnati, Ohio. (Thank you!) This work is cross-posted to the Internet Archive, as a repository for our transcription efforts.
+
+Scanning this work is the first step in a more comprehensive project of transcribing each prayer and associating it with its translation. You are invited to participate in this project!
 </body>
 </html>

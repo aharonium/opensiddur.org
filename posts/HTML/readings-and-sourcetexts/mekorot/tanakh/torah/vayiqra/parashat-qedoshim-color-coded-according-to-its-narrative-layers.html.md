@@ -29,7 +29,6 @@ The kernel of biblical text 'E,' its early supplemental layer 'J', and its later
 Parashat Qedoshim (Leviticus 19:1-20:26) in the annual Torah reading cycle is preceded by parashat <a href="https://opensiddur.org/readings-and-sourcetexts/mekorot/tanakh/torah/vayiqra/parashat-aharei-mot-color-coded-according-to-its-narrative-layers/">Aḥarei Mōt</a> (Leviticus 16:1-18:30); parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-vayiqra/parashat-emor/parashat-emor-color-coded-according-to-its-narrative-layers/">Emor</a> (Leviticus 21:1-24:23) follows it. 
 </div>
 
-
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
@@ -139,7 +138,7 @@ Parashat Qedoshim (Leviticus 19:1-20:26) in the annual Torah reading cycle is pr
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="h"><sup>19</sup>&nbsp;"My laws, you are to keep: Your animal, you are not to (allow to) mate (in) two-kinds; your field, you are not to sow with two-kinds; a garment of two-kinds, of shaatnez, is not to go on you. </span>
+<span class="h"><sup>19</sup>&nbsp;"My laws, you are to keep: Your domesticated animal, you are not to (allow to) mate (in) two-kinds; your field, you are not to sow with two-kinds; a garment of two-kinds, of shaatnez, is not to go on you. </span>
 </div></td></tr>
 
 
@@ -315,7 +314,7 @@ Parashat Qedoshim (Leviticus 19:1-20:26) in the annual Torah reading cycle is pr
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="h"><sup>15</sup>&nbsp;"A man who gives his emission to an animal is to be put-to-death, yes, death, and the animal you are to kill! <sup>16</sup>&nbsp;A woman who comes-near any animal to mate with it — you are to kill the woman and the animal, they are to be put-to-death, yes, death, their bloodguilt is upon them!"</span>
+<span class="h"><sup>15</sup>&nbsp;"A man who gives his emission to a domesticated animal is to be put-to-death, yes, death, and the animal you are to kill! <sup>16</sup>&nbsp;A woman who comes-near any domesticated animal to mate with it — you are to kill the woman and the animal, they are to be put-to-death, yes, death, their bloodguilt is upon them!"</span>
 </div></td></tr>
 
 
@@ -370,7 +369,7 @@ Parashat Qedoshim (Leviticus 19:1-20:26) in the annual Torah reading cycle is pr
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="h"><sup>22</sup>&nbsp;"You are to keep all my laws and all my regulations, and observe them, that the land not vomit you out into which I am bringing you to settle. <sup>23</sup>&nbsp;You are not to walk by the laws of the nations that I am sending-out before you, for all these they did, and (so) I abhorred them, <sup>24</sup>&nbsp;so I say to you: 'It is you who will possess their fertile-ground, I myself will give it to you, to take-possession of it, a land flowing with milk and honey. I am YHVH your <em>elo'ah</em>, who has separated you from the (other) peoples!' <sup>25</sup>&nbsp;So you are to separate between the pure animals and the tamei-ones, and between the tamei birds and the pure ones, that you not make your selves detestable through animal or bird or anything with which the fertile-ground stirs, that I have separated for you to treat-as-tamei. <sup>26</sup>&nbsp;You are to be holy to me, for holy am I, YHVH; I have separated you from the (other) peoples to be mine!"</span>
+<span class="h"><sup>22</sup>&nbsp;"You are to keep all my laws and all my regulations, and observe them, that the land not vomit you out into which I am bringing you to settle. <sup>23</sup>&nbsp;You are not to walk by the laws of the nations that I am sending-out before you, for all these they did, and (so) I abhorred them, <sup>24</sup>&nbsp;so I say to you: 'It is you who will possess their fertile-ground, I myself will give it to you, to take-possession of it, a land flowing with milk and honey. I am YHVH your <em>elo'ah</em>, who has separated you from the (other) peoples!' <sup>25</sup>&nbsp;So you are to separate between the pure domesticated animals and the tamei-ones, and between the tamei birds and the pure ones, that you not make your selves detestable through animal or bird or anything with which the fertile-ground stirs, that I have separated for you to treat-as-tamei. <sup>26</sup>&nbsp;You are to be holy to me, for holy am I, YHVH; I have separated you from the (other) peoples to be mine!"</span>
 </div></td></tr>
 
 

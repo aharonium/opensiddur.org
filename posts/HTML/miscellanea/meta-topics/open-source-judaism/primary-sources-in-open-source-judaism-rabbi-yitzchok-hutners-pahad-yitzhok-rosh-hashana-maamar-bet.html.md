@@ -11,17 +11,17 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 Rabbi Ehrman's shiur is more of an exposition rather than a word-for-word translation. If you would like to help us create a more exact translation please add your translation or correction in the comments. Please correct any mistakes in our transcription. I want to recognize <a href="https://opensiddur.org/by/miri.landau">Miri Landau</a> for her contributions to this transcription. Thank you. --Aharon Varady</em>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Exposition (English)</th></tr></thead>
+<table style="margin-left: auto;margin-right: auto;">
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<tr>
+<td style="vertical-align: top;" width="46%">
+<div class="commentary" style="text-align: right;"><span lang="he">
 פחד יצחק ראש השנה מאמר ב
 </span></div></td>
 
 <td style="vertical-align: top;" width="53%">
-<div class="english">
-Transcription of Rabbi Ally Ehrman's exposition of the Paḥad Yitzḥok, Rosh Hashana Ma'amar Bet 
+<div class="english">Transcription of Rabbi Ally Ehrman's exposition of the Paḥad Yitzḥok, Rosh Hashana Ma'amar Bet 
+
 </div></td>
 </tr>
 
@@ -36,9 +36,7 @@ Transcription of Rabbi Ally Ehrman's exposition of the Paḥad Yitzḥok, Rosh H
 </span></div></td>
 
 <td style="vertical-align: top;" width="53%">
-<div class="english">
-"Her mouth is open in wisdom and a torah of <em>ḥesed</em> is on her tongue” (Proverbs 31:26)
-</div></td>
+<div class="english">"Her mouth is open in wisdom and a torah of <em>ḥesed</em> is on her tongue” (Proverbs 31:26)</div></td>
 </tr>
 
 
@@ -50,7 +48,7 @@ Transcription of Rabbi Ally Ehrman's exposition of the Paḥad Yitzḥok, Rosh H
 
 <td style="vertical-align: top;" width="53%">
 <div class="english">
-Says the gemara (Sukkot 49b): Is there a Torah of <em>ḥesed</em> (lovingkindness) and a Torah that is not of <em>ḥesed</em>? Torah <em>l’lamdah</em> is a Torah of <em>ḥesed</em>. Torah that is not <em>l’lamdah</em> is a Torah <em>sheiyno shel ḥesed</em>. If the Torah is in order to teach it (<em>l'lamdah</em>) it’s a Torah that is <em>ḥesed.</em> If there is a Torah that's not in order to teach it, then it's not a Torah of <em>ḥesed</em>.[foot]Talmud Bavli Sukkot 49b -- <span class="commentary">וא"ר אלעזר מאי דכתיב (משלי לא, כו) פיה פתחה בחכמה ותורת חסד על לשונה וכי יש תורה של חסד יש תורה שאינה של חסד אלא תורה לשמה זו היא תורה של חסד שלא לשמה זו היא תורה שאינה של חסד איכא דאמרי תורה ללמדה זו היא תורה של חסד שלא ללמדה זו היא תורה שאינה של חסד:</span> Rebbi Elazar further stated: What is it that is written, “She opens her mouth with wisdom, and loving-kind Torah is on her tongue?” (Proverbs 31:26): Is there then a Torah of loving kindness and a Torah which is not of loving kindness? Rather Torah [which is studied] for its own sake is a ‘Torah of loving kindness’, whereas Torah [which is studied] for an ulterior motive is a Torah which is not of loving kindness. There are those who say, Torah [which is studied] in order to teach it is a ‘Torah of loving kindness’, but Torah [which is] not [studied] in order to teach it is a Torah which is not of loving kindness.[/foot]
+Says the gemara (Sukkot 49b): Is there a Torah of <em>ḥesed</em> (lovingkindness) and a Torah that is not of <em>ḥesed</em>? Torah <em>l’lamdah</em> is a Torah of <em>ḥesed</em>. Torah that is not <em>l’lamdah</em> is a Torah <em>sheiyno shel ḥesed</em>. If the Torah is in order to teach it (<em>l'lamdah</em>) it’s a Torah that is <em>ḥesed.</em> If there is a Torah that's not in order to teach it, then it's not a Torah of <em>ḥesed</em>.[foot]Talmud Bavli Sukkot 49b -- <div class="commentary">וא"ר אלעזר מאי דכתיב (משלי לא, כו) פיה פתחה בחכמה ותורת חסד על לשונה וכי יש תורה של חסד יש תורה שאינה של חסד אלא תורה לשמה זו היא תורה של חסד שלא לשמה זו היא תורה שאינה של חסד איכא דאמרי תורה ללמדה זו היא תורה של חסד שלא ללמדה זו היא תורה שאינה של חסד:</div> Rebbi Elazar further stated: What is it that is written, “She opens her mouth with wisdom, and loving-kind Torah is on her tongue?” (Proverbs 31:26): Is there then a Torah of loving kindness and a Torah which is not of loving kindness? Rather Torah [which is studied] for its own sake is a ‘Torah of loving kindness’, whereas Torah [which is studied] for an ulterior motive is a Torah which is not of loving kindness. There are those who say, Torah [which is studied] in order to teach it is a ‘Torah of loving kindness’, but Torah [which is] not [studied] in order to teach it is a Torah which is not of loving kindness.[/foot]
 </div></td>
 </tr>
 
@@ -62,8 +60,7 @@ Says the gemara (Sukkot 49b): Is there a Torah of <em>ḥesed</em> (lovingkindne
 </span></div></td>
 
 <td style="vertical-align: top;" width="53%">
-<div class="english">
-So now we have to understand, says Rebbi Yitzḥok Hutner, what’s this idea of Torah of <em>ḥesed</em>.
+<div class="english">So now we have to understand, says Rebbi Yitzḥok Hutner, what’s this idea of Torah of <em>ḥesed</em>.
 </div></td>
 </tr>
 
@@ -75,8 +72,7 @@ So now we have to understand, says Rebbi Yitzḥok Hutner, what’s this idea of
 </span></div></td>
 
 <td style="vertical-align: top;" width="53%">
-<div class="english">
-That is the noun of Torah. That’s the <em>shem toar</em> (adjective). Torah itself is called a <em>torat ḥesed</em>. It’s not just <em>Torah</em> and <em>ḥesed</em> at the same time...
+<div class="english">That is the noun of Torah. That’s the <em>shem toar</em> (adjective). Torah itself is called a <em>torat ḥesed</em>. It’s not just <em>Torah</em> and <em>ḥesed</em> at the same time...
 </div></td>
 </tr>
 
@@ -88,9 +84,7 @@ That is the noun of Torah. That’s the <em>shem toar</em> (adjective). Torah it
 </span></div></td>
 
 <td style="vertical-align: top;" width="53%">
-<div class="english">
-Like if someone reads a book to a blind person to be teaching him Torah, then it’s also <em>ḥesed</em> since he’s blind and can’t be reading it on his own? <em>Rachmana litzlan</em> (Heaven forfend). Oh no. This is not just <em>Torah</em> and <em>ḥesed</em> that just happen to become Torah. No. It’s the Torah that is defined as <em>torat ḥesed</em>.
-</div></td>
+<div class="english">Like if someone reads a book to a blind person to be teaching him Torah, then it’s also <em>ḥesed</em> since he’s blind and can’t be reading it on his own? <em>Rachmana litzlan</em> (Heaven forfend). Oh no. This is not just <em>Torah</em> and <em>ḥesed</em> that just happen to become Torah. No. It’s the Torah that is defined as <em>torat ḥesed</em>.</div></td>
 </tr>
 
 
@@ -102,7 +96,9 @@ Like if someone reads a book to a blind person to be teaching him Torah, then it
 
 <td style="vertical-align: top;" width="53%">
 <div class="english">
+
 What’s this <em>torat ḥesed</em>? If you’re doing it in order to teach, it has a new <em>shem l’vai</em>[foot]a clarifying, qualifying, complementing name[/foot] and it’s called <em>torat ḥesed</em>. It’s not just <em>Torah</em> AND <em>ḥesed</em>, it’s <em>Torah</em> that is itself <em>ḥesed</em> if it’s <em>hanilmadat l’lamdah</em>. So we want to understand what’s unique about this <em>torat ḥesed</em> -- why it’s not just <em>Torah</em> and <em>ḥesed</em> that is coming together. It’s not <em>torah</em> and <em>ḥesed</em>. It is <em>torah</em> that is <em>ḥesed</em>. Why is it teaching the <em>talmidim</em> Torah, that learning in order to teach, is a <em>Torah</em> that is <em>ḥesed</em>?
+
 </div></td>
 </tr>
 
@@ -115,7 +111,7 @@ What’s this <em>torat ḥesed</em>? If you’re doing it in order to teach, it
 
 <td style="vertical-align: top;" width="53%">
 <div class="english">
-Avraham avinu was promised by <em>Hakadosh Barukh Hu</em> (HKB”H) that he was going to guard him, as it says <em>anokhi magen lakh</em> (Genesis 15:1) -- I am going to guard you.[foot]<span class="scribe">אַחַ֣ר ׀ הַדְּבָרִ֣ים הָאֵ֗לֶּה הָיָ֤ה דְבַר־יְהוָה֙ אֶל־אַבְרָ֔ם בַּֽמַּחֲזֶ֖ה לֵאמֹ֑ר אַל־תִּירָ֣א אַבְרָ֗ם אָנֹכִי֙ מָגֵ֣ן לָ֔ךְ שְׂכָרְךָ֖ הַרְבֵּ֥ה מְאֹֽד׃</span> After these things the word of YHVH came unto Avram in a vision, saying: ‘Fear not, Avram, I am your <em>magen</em> (shield), your reward shall be exceeding great.’[/foot] And the MaHaRaL explains that <em>magen</em> [literally, "shield"] is <em>lashon ḥinam</em> (free), as it says <em>d’vyatzah ḥinam</em> (Exodus 21:11) -- the targum [Onkelos translation of <em>ḥinam</em>, "free"] is <em>magen</em>.[foot]Exodus 21:11 -- <span class="scribe">וְאִם־שְׁלָ֨שׁ־אֵ֔לֶּה לֹ֥א יַעֲשֶׂ֖ה לָ֑הּ וְיָצְאָ֥ה חִנָּ֖ם אֵ֥ין כָּֽסֶף׃</span> "And if he does not these three unto her, then shall she go out for nothing, without money." Targum Onkelos Exodus 21:11-- <span class="commentary">וְאִם תְּלָת אִלֵין לָא יַעְבֵּד לַהּ וְתִפּוֹק <strong>מַגָן</strong> בְּלָא כְסַף</span>[/foot] <em>Magen</em> means <b>free</b>.
+Avraham avinu was promised by <em>Hakadosh Barukh Hu</em> (HKB”H) that he was going to guard him, as it says <em>anokhi magen lakh</em> (Genesis 15:1) -- I am going to guard you.[foot]<div class="scribe">אַחַ֣ר ׀ הַדְּבָרִ֣ים הָאֵ֗לֶּה הָיָ֤ה דְבַר־יְהוָה֙ אֶל־אַבְרָ֔ם בַּֽמַּחֲזֶ֖ה לֵאמֹ֑ר אַל־תִּירָ֣א אַבְרָ֗ם אָנֹכִי֙ מָגֵ֣ן לָ֔ךְ שְׂכָרְךָ֖ הַרְבֵּ֥ה מְאֹֽד׃</div> After these things the word of YHVH came unto Avram in a vision, saying: ‘Fear not, Avram, I am your <em>magen</em> (shield), your reward shall be exceeding great.’[/foot] And the MaHaRaL explains that <em>magen</em> [literally, "shield"] is <em>lashon ḥinam</em> (free), as it says <em>d’vyatzah ḥinam</em> (Exodus 21:11) -- the targum [Onkelos translation of <em>ḥinam</em>, "free"] is <em>magen</em>.[foot]Exodus 21:11 -- <div class="scribe">וְאִם־שְׁלָ֨שׁ־אֵ֔לֶּה לֹ֥א יַעֲשֶׂ֖ה לָ֑הּ וְיָצְאָ֥ה חִנָּ֖ם אֵ֥ין כָּֽסֶף׃</div> "And if he does not these three unto her, then shall she go out for nothing, without money." Targum Onkelos Exodus 21:11-- <div class="commentary">וְאִם תְּלָת אִלֵין לָא יַעְבֵּד לַהּ וְתִפּוֹק <strong>מַגָן</strong> בְּלָא כְסַף</div>[/foot] <em>Magen</em> means <b>free</b>.
 
 So that’s <em>magen</em>. <em>magen shavya</em>. <em>Magen</em> means "free." So what does it mean <em>anokhi magen lakh</em>, <em>b’lashon</em> <strong>Free</strong>?
 
@@ -131,9 +127,11 @@ So that’s <em>magen</em>. <em>magen shavya</em>. <em>Magen</em> means "free." 
 
 <td style="vertical-align: top;" width="53%">
 <div class="english">
+
 Since the <em>midah</em> (attribute) of Avaraham Avinu is <em>ḥesed</em>, and the <em>skhar</em> (reward, payment) of the <em>gomlei ḥesed</em> (people who do acts of loving kindness) eat the fruits of their work in <em>olam hazeh</em> (this world), and they are <em>b’ḥinam</em>. In other words, you’re not losing out on anything. You’re not going to be lacking because <em>hakeren kayemet l’olam haba</em> -- because the <em>keren</em> which is the principle will remain <em>l’olam haba</em> (the coming world). So here you just get bonuses, but you don’t have to take away. The principle remains also in <em>olam haba</em>. And in this world you eat the fruits (<em>peiros</em>) for free. You don’t have to pay anything because the principle of your reward is waiting in <em>olam haba</em>. That’s the <em>middah</em> of <em>ḥesed</em> and we know that that’s the <em>skhar</em> of <em>gomlei ḥasadim</em>. So <em>gmilut ḥasadim</em> is <em>skhar keren kayemet</em> and we eat the fruit for free, and that’s the <em>middah</em> of Avraham Avinu.
 
 So therefore it says with respect to Avraham Avinu, <em>anokhi magen lakh</em>, I’m going to guard you <em>lashon ḥinam</em> because that’s his <em>middah</em> of <em>ḥesed</em> that he gets <em>skhar ḥinam.</em>
+
 </div></td>
 </tr>
 
@@ -146,7 +144,8 @@ So therefore it says with respect to Avraham Avinu, <em>anokhi magen lakh</em>, 
 
 <td style="vertical-align: top;" width="53%">
 <div class="english">
-Adds the MaHaRaL (Gevurot Hashem 6:4): "and you will understand, that this world is a world of <em>ḥesed</em> of Hashem as it says <em>olam ḥesed yibaneh</em>,[foot]Psalms 88:3 -- <span class="scribe">כִּֽי־אָמַ֗רְתִּי ע֭וֹלָם חֶ֣סֶד יִבָּנֶ֑ה שָׁמַ֓יִם ׀ תָּכִ֖ן אֱמוּנָתְךָ֣ בָהֶֽם׃</span> "For I have said: 'the cosmos is built [with] lovingkindness; In the very heavens you have established your faithfulness."[/foot] we have this world because Hashem did <em>ḥesed</em> in creating the world, and through the <em>ḥesed</em> of hashem, <em>yotzi'im la-poal ha-toladot ba-olam</em>, through the <em>ḥesed</em> of Hashem we have <em>toladot</em> (generations) in the world. And from this you can understand, that if you’re <em>davek</em>[foot]<em>diligent</em>, lit. "sticky"[/foot] in this <em>middah</em> of <em>ḥesed</em> you have <em>keren</em> (principle) and you have <em>peiros</em> (fruit)."[foot]Rabbi Judah Loew ben Bezalel (1520-1609), <a href="http://www.sefaria.org/Gevurot_Hashem.6.4"><em>Gevurot Hashem</em> 6:4</a><p /><span class="commentary" style="font-size: medium;">כלל הדבר כי העושה הטוב לנמצאים והוא טוב להם אוכל פירות בעולם הזה והקרן קיימת לעולם הבא, וזה כי דבר אשר הוא טוב לעולם הזה, הנה טובתו כפולה טוב לשמים וטוב לבריות כמו כל אלו שזכרנו אשר הם טובים ויש בהן מן הטוב והחסד בעולם הזה, לא כמו מצות ציצית וסוכה ולולב שאין נראה בהם הטוב בעולם הזה, ומפני שלא נראה בהם הטוב בעולם הזה, אין לומר עליהם אוכל פירותיהם בעולם הזה והקרן קיימת לעולם הבא. אבל כיבוד אב ואם וגמילות חסדים והבאת שלום ותלמוד תורה דבק בהם הטוב בענין העולם הזה, ומפני הטוב הזה אשר נראה בהם, שייך בהם אוכל פירותיהם בעולם הזה, דוגמא למצוה עצמה שהיא רצון בוראו וזה עיקר המצוה לעשות רצון הבורא, וגם מן המצוה הזאת נמשך הטוב לבריות וזהו כמו פירות שעושה המצוה פירות, וכך איתא בהדיא בסוף פרק קמא דקדושין (דף מ' ע"ב). ולפיכך אמר לאברהם שהוא היה בלבד יורש המדה הזאת שהוא גמילות חסדים וכל חלקיה והיה ירא שקיבל שכרו, אמר לו אל תירא אנכי מגן לך, ולשון מגן הוא לשון חנם ויצאה חנם (שמות כ"א) תרגומו מגן. כי זהו שכר גומלי חסדים שאוכלים הפירות בעולם הזה והם בחנם, כיון שהקרן קיים לעולם הבא, ולכך שכרו הרבה מאוד לעולם הבא, ופירוש הזה נכבד מאד. ותבין עוד כי העולם הוא מחסדו של הקדוש ברוך הוא כדכתיב (תהלים פ"ט) אמרתי עולם חסד יבנה, ועל ידי חסדו יוצאים לפעל התולדות בעולם, ומזה תבין כי הדבק במדה הזאת יש לו קרן ויש לו פירות, כי מאחר שהוא גומל חסד, והוא דבק במדת טובו יתברך אשר מדת טובו משפיע לעולם והשפעתו יתברך עושה פירות בודאי, ולפיכך מי שגומל חסד אוכל פירות בעולם הזה והקרן קיימת לעולם הבא, ולכך אמר לאברהם אנכי מגן לך שכרך הרבה מאוד:</span> c.f. Netivot Olam (Netiv Hatorah 7:3)[/foot]
+
+Adds the MaHaRaL (Gevurot Hashem 6:4): "and you will understand, that this world is a world of <em>ḥesed</em> of Hashem as it says <em>olam ḥesed yibaneh</em>,[foot]Psalms 88:3 -- <div class="scribe">כִּֽי־אָמַ֗רְתִּי ע֭וֹלָם חֶ֣סֶד יִבָּנֶ֑ה שָׁמַ֓יִם ׀ תָּכִ֖ן אֱמוּנָתְךָ֣ בָהֶֽם׃</div> "For I have said: 'the cosmos is built [with] lovingkindness; In the very heavens you have established your faithfulness."[/foot] we have this world because Hashem did <em>ḥesed</em> in creating the world, and through the <em>ḥesed</em> of hashem, <em>yotzi'im la-poal ha-toladot ba-olam</em>, through the <em>ḥesed</em> of Hashem we have <em>toladot</em> (generations) in the world. And from this you can understand, that if you’re <em>davek</em>[foot]<em>diligent</em>, lit. "sticky"[/foot] in this <em>middah</em> of <em>ḥesed</em> you have <em>keren</em> (principle) and you have <em>peiros</em> (fruit)."[foot]Rabbi Judah Loew ben Bezalel (1520-1609), <a href="http://www.sefaria.org/Gevurot_Hashem.6.4"><em>Gevurot Hashem</em> 6:4</a><p /><span class="commentary" style="font-size: medium;">כלל הדבר כי העושה הטוב לנמצאים והוא טוב להם אוכל פירות בעולם הזה והקרן קיימת לעולם הבא, וזה כי דבר אשר הוא טוב לעולם הזה, הנה טובתו כפולה טוב לשמים וטוב לבריות כמו כל אלו שזכרנו אשר הם טובים ויש בהן מן הטוב והחסד בעולם הזה, לא כמו מצות ציצית וסוכה ולולב שאין נראה בהם הטוב בעולם הזה, ומפני שלא נראה בהם הטוב בעולם הזה, אין לומר עליהם אוכל פירותיהם בעולם הזה והקרן קיימת לעולם הבא. אבל כיבוד אב ואם וגמילות חסדים והבאת שלום ותלמוד תורה דבק בהם הטוב בענין העולם הזה, ומפני הטוב הזה אשר נראה בהם, שייך בהם אוכל פירותיהם בעולם הזה, דוגמא למצוה עצמה שהיא רצון בוראו וזה עיקר המצוה לעשות רצון הבורא, וגם מן המצוה הזאת נמשך הטוב לבריות וזהו כמו פירות שעושה המצוה פירות, וכך איתא בהדיא בסוף פרק קמא דקדושין (דף מ' ע"ב). ולפיכך אמר לאברהם שהוא היה בלבד יורש המדה הזאת שהוא גמילות חסדים וכל חלקיה והיה ירא שקיבל שכרו, אמר לו אל תירא אנכי מגן לך, ולשון מגן הוא לשון חנם ויצאה חנם (שמות כ"א) תרגומו מגן. כי זהו שכר גומלי חסדים שאוכלים הפירות בעולם הזה והם בחנם, כיון שהקרן קיים לעולם הבא, ולכך שכרו הרבה מאוד לעולם הבא, ופירוש הזה נכבד מאד. ותבין עוד כי העולם הוא מחסדו של הקדוש ברוך הוא כדכתיב (תהלים פ"ט) אמרתי עולם חסד יבנה, ועל ידי חסדו יוצאים לפעל התולדות בעולם, ומזה תבין כי הדבק במדה הזאת יש לו קרן ויש לו פירות, כי מאחר שהוא גומל חסד, והוא דבק במדת טובו יתברך אשר מדת טובו משפיע לעולם והשפעתו יתברך עושה פירות בודאי, ולפיכך מי שגומל חסד אוכל פירות בעולם הזה והקרן קיימת לעולם הבא, ולכך אמר לאברהם אנכי מגן לך שכרך הרבה מאוד:</span> c.f. Netivot Olam (Netiv Hatorah 7:3)[/foot]
 
 This is the word of the MaHaRaL, just translating. This world is of the <em>ḥesed</em> of Hashem, <em>olam ḥesed yibaneh</em>, and through the <em>ḥesed</em> of Hashem we have <em>toladot</em>-- the outgrowth that is in this world, and therefore if you’re <em>davek</em> in this <em>middah</em> of Hashem of <em>ḥesed</em> you will have <em>keren --</em> you will have the principle -- and then you will also have the <em>peiros</em>, the <em>toladot</em>.
 
@@ -164,9 +163,11 @@ What did he (the MaHaRaL) mean? <em>vav tatztumim.</em> It’s very hard to unde
 
 <td style="vertical-align: top;" width="53%">
 <div class="english">
+
 Explains the Paḥad Yitschok: we see that in this matter of <em>tzmiḥa</em> and <em>holada</em>-- of sprouting fruits and giving birth and generating <em>peiros</em>, fruits -- the rule of <em>mekhalyeh karnah</em>, that the principle is destroyed, is much less at work than in other areas.
 
 (We’ll explain, <em>b’ezrat hashem</em>.)
+
 </div></td>
 </tr>
 
@@ -179,11 +180,13 @@ Explains the Paḥad Yitschok: we see that in this matter of <em>tzmiḥa</em> a
 
 <td style="vertical-align: top;" width="53%">
 <div class="english">
+
 Whenever you’re <em>mefid toelet</em>, when you get some benefit, that weakens the <em>etzem</em>, the source of this benefit, much more than when the ground produces fruit.
 
 <em>Mashal le-mah ha-davar domeh.</em> (To what may the thing be likened?) A person has an animal and a person wants to eat this animal, so what does this person do? He <em>shechts</em> the animal. Therefore he has some benefit. However there’s <em>mekhalyeh karnah</em>, now he doesn’t have a living animal anymore. This cow is no longer going to give milk anymore. The cow is now meat. That’s <em>mekhalyeh karnah</em>. However what’s this talk about producing fruit? You have a ground and the ground gives fruit but there’s no real <em>mekhalyeh karnah</em>. The ground is still a good strong solid ground. Like we see in the gemara, maybe it weakens the ground a little bit. But all in all at the end of the day we still have a good strong ground. And even there are <em>peiros</em> there’s not very much <em>mekhalyeh karnah</em>. Why is that? Why when you talk about <em>tzmiḥat hapeiros</em>, is there less <em>mekhalyeh karnah</em>, the ruining of the principle, then there is in other areas of life? Why is that?
 
 Another example. Say you have a tree and you want wood. Do you want to make a table? So this table, you’re right it’s gevaldik, it is going to produce a nice table. However, it’s <em>mekhalyeh karnah</em>. Now you no longer have trees that are producing fruits. So again only with respect to the actual production of fruits, i.e., the ground produces fruits and then you take the fruits, there’s very little <em>mekhalyeh karnah</em>. Whereas in other areas, like the two examples we gave, there’s a lot more <em>mekhalyeh karnah</em>. Why is that?
+
 </div></td>
 </tr>
 
@@ -195,8 +198,7 @@ Another example. Say you have a tree and you want wood. Do you want to make a ta
 </span></div></td>
 
 <td style="vertical-align: top;" width="53%">
-<div class="english">
-Explains the Paḥad Yitschok: because in our world the <em>peulah</em> of <em>tsmiḥa</em> and <em>holadah</em>, the <em>peulah</em> of sprouting and producing, is very close to <em>yetzirat breishis</em> of <em>yesh me’ayin</em> -- of something coming from nothing as Hashem created the world.</div></td>
+<div class="english">Explains the Paḥad Yitschok: because in our world the <em>peulah</em> of <em>tsmiḥa</em> and <em>holadah</em>, the <em>peulah</em> of sprouting and producing, is very close to <em>yetzirat breishis</em> of <em>yesh me’ayin</em> -- of something coming from nothing as Hashem created the world.</div></td>
 </tr>
 
 
@@ -305,8 +307,7 @@ It’s not possible that his <em>skhar</em> would be any less <em>anochi magen l
 </span></div></td>
 
 <td style="vertical-align: top;" width="53%">
-<div class="english">This flows from the <em>madrega</em> (spiritual attainment) of <em>anokhi magen lakh</em>, that I am guarding you, that I am going to give you reward, <em>b’ḥinam</em>, that you’re going to get the reward and you’re not going to lose out by getting the reward.
-</div></td>
+<div class="english">This flows from the <em>madrega</em> (spiritual attainment) of <em>anokhi magen lakh</em>, that I am guarding you, that I am going to give you reward, <em>b’ḥinam</em>, that you’re going to get the reward and you’re not going to lose out by getting the reward.</div></td>
 </tr>
 
 
@@ -317,8 +318,7 @@ It’s not possible that his <em>skhar</em> would be any less <em>anochi magen l
 </span></div></td>
 
 <td style="vertical-align: top;" width="53%">
-<div class="english">That is from this flows, in other words Avraham Avinu flows from the <em>madrega</em> of <em>anokhi magen</em> and we learn this from what the rabbis call the first <em>brakha</em>: <em>birkhot avos</em>.
-</div></td>
+<div class="english">That is from this flows, in other words Avraham Avinu flows from the <em>madrega</em> of <em>anokhi magen</em> and we learn this from what the rabbis call the first <em>brakha</em>: <em>birkhot avos</em>.</div></td>
 </tr>
 
 
@@ -367,8 +367,7 @@ And this is impossible unless you say that <em>keren</em> is <em>kayemet</em>, t
 </span></div></td>
 
 <td style="vertical-align: top;" width="53%">
-<div class="english">The growth of the <em>peiros</em> is free and it doesn’t cost anything and subtract from the <em>ḥiyut</em> (vitality) of the root.
-</div></td>
+<div class="english">The growth of the <em>peiros</em> is free and it doesn’t cost anything and subtract from the <em>ḥiyut</em> (vitality) of the root.</div></td>
 </tr>
 
 
@@ -379,9 +378,7 @@ And this is impossible unless you say that <em>keren</em> is <em>kayemet</em>, t
 </span></div></td>
 
 <td style="vertical-align: top;" width="53%">
-<div class="english">
-This level is what seals the <em>brakha</em> of <em>avot</em>. Because that’s what <em>avos</em> is. <em>Avos</em> is constant <em>peiros</em> without any subtraction of <em>ḥiyus</em>, of their own personal <em>ḥiyus</em>. More and more and more <em>peiros</em>. That’s <em>magen avraham</em>. That’s the definition of the <em>avos</em>.
-</div></td>
+<div class="english">This level is what seals the <em>brakha</em> of <em>avot</em>. Because that’s what <em>avos</em> is. <em>Avos</em> is constant <em>peiros</em> without any subtraction of <em>ḥiyus</em>, of their own personal <em>ḥiyus</em>. More and more and more <em>peiros</em>. That’s <em>magen avraham</em>. That’s the definition of the <em>avos</em>.</div></td>
 </tr>
 
 
@@ -392,9 +389,7 @@ This level is what seals the <em>brakha</em> of <em>avot</em>. Because that’s 
 </span></div></td>
 
 <td style="vertical-align: top;" width="53%">
-<div class="english">
-And that’s why we don’t mention any other <em>midos</em> of the <em>avos</em> explicitly in the first <em>brakha</em> besides <em>ḥesed</em>. We say <em>bzokher ḥasdo b’avot halo dabru</em>. We don’t mention <em>gevurah</em> (power), <em>tiferet</em> (beauty), any of the other <em>midos</em>. All we talk about is <em>ḥesed</em>. Why? Because the deeper meaning of the essence of father of the Jewish people is the secret of <em>hakeren kayemes</em>, this notion that the principle will remain:
-</div></td>
+<div class="english">And that’s why we don’t mention any other <em>midos</em> of the <em>avos</em> explicitly in the first <em>brakha</em> besides <em>ḥesed</em>. We say <em>bzokher ḥasdo b’avot halo dabru</em>. We don’t mention <em>gevurah</em> (power), <em>tiferet</em> (beauty), any of the other <em>midos</em>. All we talk about is <em>ḥesed</em>. Why? Because the deeper meaning of the essence of father of the Jewish people is the secret of <em>hakeren kayemes</em>, this notion that the principle will remain:</div></td>
 </tr>
 
 
@@ -405,9 +400,7 @@ And that’s why we don’t mention any other <em>midos</em> of the <em>avos</em
 </span></div></td>
 
 <td style="vertical-align: top;" width="53%">
-<div class="english">
-<strong>constant growth without any diminishing of the fruit.</strong>
-</div></td>
+<div class="english"><strong>constant growth without any diminishing of the fruit.</strong></div></td>
 </tr>
 
 
@@ -418,9 +411,7 @@ And that’s why we don’t mention any other <em>midos</em> of the <em>avos</em
 </span></div></td>
 
 <td style="vertical-align: top;" width="53%">
-<div class="english">
-And the roots of this <em>tzmikha</em> (growth) are found in the middah of <em>ḥesed</em>, of the world and of man. Just like when the <em>avos</em> have <em>tolados</em>, they’re not weakened. More and more and more <em>peiros</em> without any <em>mekhalyeh karnah</em>. The principle remains intact. So too, in <em>klal yisroel</em>, the principle remains intact, and when HKB”H created the world, he created the world with <em>ḥesed</em> and we know the source of this <em>ḥesed</em> the principle <em>ki byakhal HKB”H</em> remains just as strong as he was previously.
-</div></td>
+<div class="english">And the roots of this <em>tzmikha</em> (growth) are found in the middah of <em>ḥesed</em>, of the world and of man. Just like when the <em>avos</em> have <em>tolados</em>, they’re not weakened. More and more and more <em>peiros</em> without any <em>mekhalyeh karnah</em>. The principle remains intact. So too, in <em>klal yisroel</em>, the principle remains intact, and when HKB”H created the world, he created the world with <em>ḥesed</em> and we know the source of this <em>ḥesed</em> the principle <em>ki byakhal HKB”H</em> remains just as strong as he was previously.</div></td>
 </tr>
 
 
@@ -431,9 +422,7 @@ And the roots of this <em>tzmikha</em> (growth) are found in the middah of <em>�
 </span></div></td>
 
 <td style="vertical-align: top;" width="53%">
-<div class="english">
-If we look deeper into the path of the MaHaRaL we will stand in a <em>keren orah</em>. We will have light and a ray of light.
-</div></td>
+<div class="english">If we look deeper into the path of the MaHaRaL we will stand in a <em>keren orah</em>. We will have light and a ray of light.</div></td>
 </tr>
 
 
@@ -444,9 +433,7 @@ If we look deeper into the path of the MaHaRaL we will stand in a <em>keren orah
 </span></div></td>
 
 <td style="vertical-align: top;" width="53%">
-<div class="english">
-The deeper characteristic of the <em>middah</em> of <em>ḥesed</em> in its pristine purity is being <em>mashpiah tova</em> (a good influence) and adding to the <em>metziut</em> (reality) without any lacking in the spring that flows. In other words, <em>ḥesed</em> means giving and giving and giving, <em>anokhi sarad</em> in the giver. That’s the <em>tnumat pnimit</em> of <em>ḥesed</em>. <em>ḥesed</em> in the purer sense is giving giving giving <em>keren kayemes</em>. The giver lacks for nothing. And that’s what we said is HKB”H and that’s Avrahom Avinu and that’s having children. And that’s producing a child, I mean, and that is a -- the ground lacks nothing. That’s what <em>ḥesed</em> is.
-</div></td>
+<div class="english">The deeper characteristic of the <em>middah</em> of <em>ḥesed</em> in its pristine purity is being <em>mashpiah tova</em> (a good influence) and adding to the <em>metziut</em> (reality) without any lacking in the spring that flows. In other words, <em>ḥesed</em> means giving and giving and giving, <em>anokhi sarad</em> in the giver. That’s the <em>tnumat pnimit</em> of <em>ḥesed</em>. <em>ḥesed</em> in the purer sense is giving giving giving <em>keren kayemes</em>. The giver lacks for nothing. And that’s what we said is HKB”H and that’s Avrahom Avinu and that’s having children. And that’s producing a child, I mean, and that is a -- the ground lacks nothing. That’s what <em>ḥesed</em> is.</div></td>
 </tr>
 
 
@@ -457,9 +444,7 @@ The deeper characteristic of the <em>middah</em> of <em>ḥesed</em> in its pris
 </span></div></td>
 
 <td style="vertical-align: top;" width="53%">
-<div class="english">
-I already hear you saying to me. But how can you say that? A person does <em>ḥesed</em>: you bring an <em>oleh</em> into your house you give him breakfast now you have less food in your fridge. So it is a <em>ḥisar</em> (absence) and a <em>maaniq</em> (offer) and a <em>mashpiah</em> (influence) in the giver. The answer is that when we do <em>ḥesed</em> in this world. It’s really a combination of two things. <em>ruḥniyut</em> (spirituality), it’s a mitzvah. But it’s also <em>gashmiyut</em> (materiality) and since there is <em>gashmiyut</em>, we don’t see the <em>Keren Kayemet</em>. We see that we’re losing out on the <em>keren</em>.
-</div></td>
+<div class="english">I already hear you saying to me. But how can you say that? A person does <em>ḥesed</em>: you bring an <em>oleh</em> into your house you give him breakfast now you have less food in your fridge. So it is a <em>ḥisar</em> (absence) and a <em>maaniq</em> (offer) and a <em>mashpiah</em> (influence) in the giver. The answer is that when we do <em>ḥesed</em> in this world. It’s really a combination of two things. <em>ruḥniyut</em> (spirituality), it’s a mitzvah. But it’s also <em>gashmiyut</em> (materiality) and since there is <em>gashmiyut</em>, we don’t see the <em>Keren Kayemet</em>. We see that we’re losing out on the <em>keren</em>.</div></td>
 </tr>
 
 
@@ -470,9 +455,7 @@ I already hear you saying to me. But how can you say that? A person does <em>ḥ
 </span></div></td>
 
 <td style="vertical-align: top;" width="53%">
-<div class="english">
-However, let’s say you talk about <em>ḥesed</em> in the realm of <em>ḥokhma</em>. So not only when in you’re in the realm of <em>ḥokhma</em> (wisdom) does one give over who gives over <em>ḥokhma</em> not lack for his own <em>ḥokhma</em>, but on the contrary he has <em>tosefet ḥokhma</em> (supplementary wisdom). He has additional measure of wisdom after he has shared his torah. As the rabbis say so beautifully, <em>mi talmidah yotzer mikulam</em>. You learn much from his rabbeim, more from his friends, and most from his <em>talmidim</em>. When a person teaches <em>middot ḥesed</em> with his torah, he becomes greater.
-</div></td>
+<div class="english">However, let’s say you talk about <em>ḥesed</em> in the realm of <em>ḥokhma</em>. So not only when in you’re in the realm of <em>ḥokhma</em> (wisdom) does one give over who gives over <em>ḥokhma</em> not lack for his own <em>ḥokhma</em>, but on the contrary he has <em>tosefet ḥokhma</em> (supplementary wisdom). He has additional measure of wisdom after he has shared his torah. As the rabbis say so beautifully, <em>mi talmidah yotzer mikulam</em>. You learn much from his rabbeim, more from his friends, and most from his <em>talmidim</em>. When a person teaches <em>middot ḥesed</em> with his torah, he becomes greater.</div></td>
 </tr>
 
 
@@ -483,9 +466,7 @@ However, let’s say you talk about <em>ḥesed</em> in the realm of <em>ḥokhm
 </span></div></td>
 
 <td style="vertical-align: top;" width="53%">
-<div class="english">
-Even though there is the <em>middah</em> of <em>ḥesed</em> as the <em>koaḥ</em> (inner strength), to be <em>nistar</em> (hidden) for every other <em>inyan</em> in the world, for every other matter in the world you can be a <em>mashpiah</em> good on someone everything else. You can always give. You can give anything. You can give them lunch, money, a pen. You can give somebody your car, so many things.
-</div></td>
+<div class="english">Even though there is the <em>middah</em> of <em>ḥesed</em> as the <em>koaḥ</em> (inner strength), to be <em>nistar</em> (hidden) for every other <em>inyan</em> in the world, for every other matter in the world you can be a <em>mashpiah</em> good on someone everything else. You can always give. You can give anything. You can give them lunch, money, a pen. You can give somebody your car, so many things.</div></td>
 </tr>
 
 
@@ -496,9 +477,7 @@ Even though there is the <em>middah</em> of <em>ḥesed</em> as the <em>koaḥ</
 </span></div></td>
 
 <td style="vertical-align: top;" width="53%">
-<div class="english">
-The power of creation that the <em>middah</em> of creation has is rooted in the power of the creation of the world. <em>olam ḥesed yibaneh.</em>
-</div></td>
+<div class="english">The power of creation that the <em>middah</em> of creation has is rooted in the power of the creation of the world. <em>olam ḥesed yibaneh.</em></div></td>
 </tr>
 
 
@@ -522,9 +501,7 @@ When do we see the root of <em>ḥesed</em> in the world? <em>ḥesed</em> in th
 </span></div></td>
 
 <td style="vertical-align: top;" width="53%">
-<div class="english">
-Because of this, torah that you’re learning in order to teach is <em>torat ḥesed</em>. It’s not <em>torat mi-ḥesed</em> that just comes together by chance. It just happens to be that this torah comes with <em>ḥesed</em>. <strong>No</strong>. This torah becomes a <em>hefsa torat ḥesed</em>. That’s the definition of this torah. It’s a torah of <em>ḥesed</em> because in this <em>ḥesed</em>, in this torah, we see true <em>ḥesed</em>. Because when we learn in order to teach, in preparing the shiur and giving the shiur, we become greater. We understand more, the [teachers] preparing the people learning the Torah, not only the <em>talmidim</em>.
-</div></td>
+<div class="english">Because of this, torah that you’re learning in order to teach is <em>torat ḥesed</em>. It’s not <em>torat mi-ḥesed</em> that just comes together by chance. It just happens to be that this torah comes with <em>ḥesed</em>. <strong>No</strong>. This torah becomes a <em>hefsa torat ḥesed</em>. That’s the definition of this torah. It’s a torah of <em>ḥesed</em> because in this <em>ḥesed</em>, in this torah, we see true <em>ḥesed</em>. Because when we learn in order to teach, in preparing the shiur and giving the shiur, we become greater. We understand more, the [teachers] preparing the people learning the Torah, not only the <em>talmidim</em>.</div></td>
 </tr>
 
 

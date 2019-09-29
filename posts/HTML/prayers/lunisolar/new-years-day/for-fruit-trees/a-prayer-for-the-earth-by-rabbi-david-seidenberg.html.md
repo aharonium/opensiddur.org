@@ -17,7 +17,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <div class="liturgy"><span lang="he">
 אֱלֹהֵי הָרוּחוֹת,  
 נָתַתָּ בְּיָדֵינוּ
-הַכֹּחַ שֶׁלֹא־הָיָה כֵן כָּמ֔הוּ
+הַכֹּחַ שֶׁלֹא־הָיָה כֵן כָּמֹהוּ
 מֵרֵאשִׁית הָרָת עוֹלָם
 לְהֲפוֹךְ סִדְרֵי בְּרֵאשִׁית.‏
 </span></div></td>
