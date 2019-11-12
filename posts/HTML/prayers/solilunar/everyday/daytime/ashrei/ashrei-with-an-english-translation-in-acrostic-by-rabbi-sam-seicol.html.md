@@ -13,13 +13,13 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tr>
 <td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
-אַשְׁרֵי יוֹשְׁבֵי בֵיתֶךָ עוֹד יְהַלְלוּךָ סֶּלָה׃ (תהלים פד:ה)
+אַשְׁרֵי יוֹשְׁבֵי בֵיתֶךָ עוֹד יְהַלְלוּךָ סֶּלָה׃ <span class="citation">(תהלים פד:ה)</span>
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Happy are those who sit in Your house, they will continue praising You. Selah![foot]Psalms 84:5[/foot]
+Happy are those who sit in Your house, they will continue praising You. Selah![foot]Psalms 84:5.[/foot]
 </div></td>
 </tr>
 
@@ -27,13 +27,13 @@ Happy are those who sit in Your house, they will continue praising You. Selah![
 <tr>
 <td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
-אַשְׁרֵ֣י הָ֭עָם שֶׁכָּ֣כָה לּ֑וֹ אַֽשְׁרֵ֥י הָ֝עָ֗ם שֶׁיֲהוָ֥ה אֱלֹהָֽיו׃ (תהלים קמד:טו)
+אַשְׁרֵ֣י הָ֭עָם שֶׁכָּ֣כָה לּ֑וֹ אַֽשְׁרֵ֥י הָ֝עָ֗ם שֶׁיֲהוָ֥ה אֱלֹהָֽיו׃ <span class="citation">(תהלים קמד:טו)</span>
     </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Happy are such people, happy the people for whom the Eternal is God.[foot]Psalms 144:15[/foot]
+Happy are such people, happy the people for whom the Eternal is God.[foot]Psalms 144:15.[/foot]
 </div></td>
 </tr>
 

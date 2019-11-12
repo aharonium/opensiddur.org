@@ -82,7 +82,7 @@ Another great catastrophe happened in Spain on the 14th day when 950 Jews were b
 
 <hr />
 
-To the best of my ability, this is a faithful transcription of the תְּחִנָה לְשַׁבָּת מְבָרְכִים רֹאשׁ חוֺדֶשׁ טֵבֵת ("Tkhine for Shabbat Mevorkhim Rosh Ḥodesh Tevet") which appeared in תחנות מקרא קודש (<em>Teḥinot Miqra Qodesh</em>, Widow and Brothers Romm, Vilna 1877). English translation adapted slightly from <em>Techinas: A Voice from the Heart "As Only A Woman Can Pray"</em> by Rivka Zakutinsky (Aura Press, 1992). --A.N. Varady
+To the best of my ability, this is a faithful transcription of the תְּחִנָה לְשַׁבָּת מְבָרְכִים רֹאשׁ חוֺדֶשׁ טֵבֵת ("Tkhine for Shabbat Mevorkhim Rosh Ḥodesh Tevet") which appeared in תחנות מקרא קודש (<em>Teḥinot Miqra Ḳodesh</em>, Widow and Brothers Romm, Vilna 1877). English translation adapted slightly from <em>Techinas: A Voice from the Heart "As Only A Woman Can Pray"</em> by Rivka Zakutinsky (Aura Press, 1992). --A.N. Varady
 
 <h3>Source</h3>
 

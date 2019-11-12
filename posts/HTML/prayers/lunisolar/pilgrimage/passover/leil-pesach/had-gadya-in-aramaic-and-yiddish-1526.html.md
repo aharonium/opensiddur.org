@@ -281,7 +281,7 @@ The Angel of Death came and slaughtered the shoḥet who slaughtered the ox that
 
 <td style="vertical-align:top;" width="36%">
 <div class="romanized-yiddish">	
-HaQadosh Barukh Hu da kom unzr libr her got un shekht den Malakh haMovet, der da hat gishekht den shoḥeyt, der da hat gishekht den oksin, der da hat gitrunkn dash washrleyn, do da hat far lesht do fayrleyn, do da hat far brent do shtekleyn, do da hat gishlagn do hintleyn, do da hat gbishn do ketsleyn, do da hat gigeshn do tsikleyn, do da hat gikoyft meyn fetrleyn, um tsvey pfening, eyn tsikleyn, eyn tsikleyn.
+HaḲadosh Barukh Hu da kom unzr libr her got un shekht den Malakh haMovet, der da hat gishekht den shoḥeyt, der da hat gishekht den oksin, der da hat gitrunkn dash washrleyn, do da hat far lesht do fayrleyn, do da hat far brent do shtekleyn, do da hat gishlagn do hintleyn, do da hat gbishn do ketsleyn, do da hat gigeshn do tsikleyn, do da hat gikoyft meyn fetrleyn, um tsvey pfening, eyn tsikleyn, eyn tsikleyn.
 </div>
 </td>
 

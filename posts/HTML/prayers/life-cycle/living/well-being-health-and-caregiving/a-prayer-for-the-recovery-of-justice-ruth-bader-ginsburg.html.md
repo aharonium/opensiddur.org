@@ -23,7 +23,7 @@ For attribution and license, please consult the following URL: <a href="http://o
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<em>HaQadosh Barukh hu</em> (Blessed Holy one), 
+<em>HaḲadosh Barukh hu</em> (Blessed Holy one), 
 <em>Nefesh kol ḥai</em> (Spirit of All Life) 
 whose spirit is woven 
 through the <em>ḥesronan</em> (absences/dependencies) 

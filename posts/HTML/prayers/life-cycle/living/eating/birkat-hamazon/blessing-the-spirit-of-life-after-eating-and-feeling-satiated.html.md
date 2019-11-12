@@ -89,7 +89,7 @@ And Elohim exclaimed: ‘Behold, I have given you every herb yielding seed that 
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
-Rivi Yosi ben Rivi Bun said, “It is forbidden to live in a town in which there is no vegetable garden.” [foot]Talmud Yerushalmi Kiddushin 4:12[/foot]
+Rivi Yosi ben Rivi Bun said, “It is forbidden to live in a town in which there is no vegetable garden.” [foot]Talmud Yerushalmi Ḳiddushin 4:12[/foot]
 </div></td>
 </tr>
 

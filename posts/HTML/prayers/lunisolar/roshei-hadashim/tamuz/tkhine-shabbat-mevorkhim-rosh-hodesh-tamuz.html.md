@@ -35,7 +35,7 @@ Holy God! Yosef the Righteous withstood the great test of the enticements of the
 
 <hr />
 
-This is a faithful transcription of the תְּחִנָה לְשַׁבָּת מְבָרְכִים רֹאשׁ חוֺדֶשׁ תַּמוּז ("Tkhine for Shabbat Mevorkhim Rosh Ḥodesh Tamuz") which appeared in תחנות מקרא קודש (<em>Teḥinot Miqra Qodesh</em>, <a href="http://www.yivoencyclopedia.org/article.aspx/Romm_Family">Widow and Brothers Romm</a>, Vilna 1877) before its adaptation in <a href="https://opensiddur.org/compilations/sifrei-tehinot/shas-tehinah-hadashah-1910/">Shas Tkhine Ḥadashe</a> (Ben-Tsiyon Alfes 1910), the source from which this translation was made. English translation adapted slightly from <em>Techinas: A Voice from the Heart “As Only A Woman Can Pray”</em> by Rivka Zakutinsky (Aura Press, 1992). –A.N. Varady
+This is a faithful transcription of the תְּחִנָה לְשַׁבָּת מְבָרְכִים רֹאשׁ חוֺדֶשׁ תַּמוּז ("Tkhine for Shabbat Mevorkhim Rosh Ḥodesh Tamuz") which appeared in תחנות מקרא קודש (<em>Teḥinot Miqra Ḳodesh</em>, <a href="http://www.yivoencyclopedia.org/article.aspx/Romm_Family">Widow and Brothers Romm</a>, Vilna 1877) before its adaptation in <a href="https://opensiddur.org/compilations/sifrei-tehinot/shas-tehinah-hadashah-1910/">Shas Tkhine Ḥadashe</a> (Ben-Tsiyon Alfes 1910), the source from which this translation was made. English translation adapted slightly from <em>Techinas: A Voice from the Heart “As Only A Woman Can Pray”</em> by Rivka Zakutinsky (Aura Press, 1992). –A.N. Varady
 
 <h3>Transcription Source</h3>
 

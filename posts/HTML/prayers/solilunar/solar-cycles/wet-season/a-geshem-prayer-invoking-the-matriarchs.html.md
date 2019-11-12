@@ -9,7 +9,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <h3>גשם | Geshem</h3>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+<table style="width: 100%;margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew (masculine god-language)</th><th style="text-align: right;">Hebrew (feminine god-language)</th><th>English (translation)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="(100/3)%">
@@ -248,7 +248,6 @@ For Miriam’s sake, do not withhold water.
 
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
 The time of Sukkot is a time of fullness and generosity, but also a time to pray for the coming season.  Shemini Atzeret, the festival when we pray for rain, is an expression of our need for water, which in the Jewish tradition symbolizes life, renewal, and deliverance.  <em>Tefillat Geshem</em>, a graceful fixture of the Ashkenazic liturgy, invokes the patriarchs as exemplars of holiness and model recipients of God’s love.  This prayer uses water as a metaphor for devotion and faith, asking that God grant us life-sustaining rain. While its authorship is unknown, it is sometimes attributed to Elazar Kallir, the great liturgist who lived sometime during the first millenium.   Each year, we are reminded of our people’s connection to the patriarchs and to the rhythms of water, spiritual and physical sources of life, through this medieval <em>piyyut</em>.  While we know that rain is a natural process, formal thanksgiving for water as a source of life, energy, and beauty reminds us that our Creator is the source of our physical world and its many wonders.
 
 My profound thanks go to Rabbi Neil Gillman for his thoughtful comments on this prayer, Rabbi William Marder for his poetic suggestions, and to Michelle Kwitkin for her scholarly editing and her cantorial courage in offering an embryonic version of this prayer for the first time on Shemini Atzeret of 5756.
@@ -279,6 +278,5 @@ Eighth Day of Ḥanukkah
 
 (edited New York City, New York
 27 Tevet, 5776/Jan. 8, 2015)
-</div>
 </body>
 </html>

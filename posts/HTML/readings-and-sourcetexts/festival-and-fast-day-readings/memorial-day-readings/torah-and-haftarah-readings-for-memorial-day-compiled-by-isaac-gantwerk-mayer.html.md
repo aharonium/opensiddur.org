@@ -40,7 +40,7 @@ Note: “The CAUSE” is used to translate the Divine Name YHVH, based on the ph
 <div class="english">
 Kohen (Numbers 20:22-26) 
 &nbsp;
-And they went out from Qadesh, and the children of Israel, all the community, came to Hor the mountain. And the CAUSE said to Moses and to Aharon at Hor the mountain, at the border of the land of Edom, and said: Aharon will be gathered to his people, for he will not go to the land that I gave to the children of Israel, because you rebelled against me at the waters of Meribah. Take Aharon and Eleazar his son and take them up Hor the mountain. And strip Aharon of his clothes and dress Eleazar his son with them, and Aharon will be gathered and die there.
+And they went out from Ḳadesh, and the children of Israel, all the community, came to Hor the mountain. And the CAUSE said to Moses and to Aharon at Hor the mountain, at the border of the land of Edom, and said: Aharon will be gathered to his people, for he will not go to the land that I gave to the children of Israel, because you rebelled against me at the waters of Meribah. Take Aharon and Eleazar his son and take them up Hor the mountain. And strip Aharon of his clothes and dress Eleazar his son with them, and Aharon will be gathered and die there.
 </div></td></tr>
 
 

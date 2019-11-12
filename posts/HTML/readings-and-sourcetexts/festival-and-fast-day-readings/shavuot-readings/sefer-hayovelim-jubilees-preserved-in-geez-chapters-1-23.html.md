@@ -1328,7 +1328,7 @@ Go in peace.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<sup>16:10</sup>&nbsp;During this month Abraham migrated from Hebron. He went and settled between Kadesh and Sur in the mountains of Gerar. <sup>16:11</sup>&nbsp;In the middle of the fifth month he migrated from there and settled at the well of the oath. <sup>16:12</sup>&nbsp;In the middle of the sixth month the Lord visited Sarah and did for her as he had said. <sup>16:13</sup>&nbsp;She became pregnant and gave birth to a son in the third month; in the middle of the month, on the day that the Lord had told Abraham — on the festival of the firstfruits of the harvest — Isaac was born. <sup>16:14</sup>&nbsp;Abraham circumcised him when he was eight days old. He was the first to be circumcised according to the covenant which was ordained forever.
+<sup>16:10</sup>&nbsp;During this month Abraham migrated from Hebron. He went and settled between Ḳadesh and Sur in the mountains of Gerar. <sup>16:11</sup>&nbsp;In the middle of the fifth month he migrated from there and settled at the well of the oath. <sup>16:12</sup>&nbsp;In the middle of the sixth month the Lord visited Sarah and did for her as he had said. <sup>16:13</sup>&nbsp;She became pregnant and gave birth to a son in the third month; in the middle of the month, on the day that the Lord had told Abraham — on the festival of the firstfruits of the harvest — Isaac was born. <sup>16:14</sup>&nbsp;Abraham circumcised him when he was eight days old. He was the first to be circumcised according to the covenant which was ordained forever.
 </div></td></tr>
 
 

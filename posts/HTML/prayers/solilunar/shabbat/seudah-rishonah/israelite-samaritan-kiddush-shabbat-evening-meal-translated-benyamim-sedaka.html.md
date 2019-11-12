@@ -96,6 +96,6 @@ And your Sabbaths are blessed by Eloowwem.
 
 
 <hr />
-Benyamim Sedaka's English translations of the Israelite-Samaritan "Blessing on the Food" (Kiddush) and Abraham ben Marchiv Tsedaka Hassafari's opening to the Friday night Shabbat meal were first published at the Israelite-Samaritan website, <a href="https://www.israelite-samaritans.com/religion/prayer/">here</a>. We intend to provide this translation side-by-side with the Israelite-Samaritan liturgical Hebrew as soon as we can. If you can read and transcribe Israelite-Samaritan, please <a href="https://opensiddur.org/contact/">contact us</a>.
+Benyamim Sedaka's English translations of the Israelite-Samaritan "Blessing on the Food" (Ḳiddush) and Abraham ben Marchiv Tsedaka Hassafari's opening to the Friday night Shabbat meal were first published at the Israelite-Samaritan website, <a href="https://www.israelite-samaritans.com/religion/prayer/">here</a>. We intend to provide this translation side-by-side with the Israelite-Samaritan liturgical Hebrew as soon as we can. If you can read and transcribe Israelite-Samaritan, please <a href="https://opensiddur.org/contact/">contact us</a>.
 </body>
 </html>

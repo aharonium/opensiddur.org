@@ -244,6 +244,6 @@ Blessed are You, Yah, who sanctified the Shabbat.
 
 <hr />
 
-This Kiddush Shabbat was specially written for Leyl Shabbat on February 5th, 1993, when the Sabbath coincided with Tu biShvat 5753, the Rosh Hashana for Trees, the 15th of the month of Sh'vat.
+This Ḳiddush Shabbat was specially written for Leyl Shabbat on February 5th, 1993, when the Sabbath coincided with Tu biShvat 5753, the Rosh Hashana for Trees, the 15th of the month of Sh'vat.
 </body>
 </html>

@@ -179,7 +179,7 @@ May the utterances of my mouth and the thoughts of my heart find favor before yo
 
 This is a faithful transcription of the תחינה פון ראש חודש בענטשן ("Tkhine for the Rosh Ḥodesh Blessing") which first appeared in סידור קרבן מנחה (<em><a href="https://books.google.com/books?id=-UQ2AQAAMAAJ&printsec=frontcover">Siddur Korban Minḥah</a></em>), 1844. Translation adapted from Rivka Zakutinsky as found in <em>Techinas: A Voice from the Heart, "As Only A Woman Can Pray"</em> (New York: Aura Press, 1992), p.46-61. --A.N. Varady
 
-The Teḥina for the blessing of the new moon is said each Shabbat Mevorkhim, addition to the specific Teḥinah for that month. The prayer is recited when the Aron HaKodesh is opened, signifying the opening of the Heavenly gates of mercy (an especially propitious time to pray for health, livelihood, and all good).
+The Teḥina for the blessing of the new moon is said each Shabbat Mevorkhim, addition to the specific Teḥinah for that month. The prayer is recited when the Aron HaḲodesh is opened, signifying the opening of the Heavenly gates of mercy (an especially propitious time to pray for health, livelihood, and all good).
 
 <h3>Source</h3>
 

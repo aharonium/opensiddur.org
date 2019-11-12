@@ -82,7 +82,7 @@ In the merit that we will make blessings on the fruit to praise your holy name, 
 
 <hr />
 
-To the best of my ability, this is a faithful transcription of the תְּחִנָה לְשַׁבָּת מְבָרְכִים רֹאשׁ חוֺדֶשׁ שְׁבָט ("Tkhine for Shabbat Mevorkhim Rosh Ḥodesh Shvat") which appeared in תחנות מקרא קודש (<em>Teḥinot Miqra Qodesh</em>, Widow and Brothers Romm, Vilna 1877). English translation adapted slightly from <em>Techinas: A Voice from the Heart "As Only A Woman Can Pray"</em> by Rivka Zakutinsky (Aura Press, 1992). --A.N. Varady
+To the best of my ability, this is a faithful transcription of the תְּחִנָה לְשַׁבָּת מְבָרְכִים רֹאשׁ חוֺדֶשׁ שְׁבָט ("Tkhine for Shabbat Mevorkhim Rosh Ḥodesh Shvat") which appeared in תחנות מקרא קודש (<em>Teḥinot Miqra Ḳodesh</em>, Widow and Brothers Romm, Vilna 1877). English translation adapted slightly from <em>Techinas: A Voice from the Heart "As Only A Woman Can Pray"</em> by Rivka Zakutinsky (Aura Press, 1992). --A.N. Varady
 
 <h3>Source</h3>
 

@@ -281,7 +281,7 @@ Parashat Pinḥas (Numbers 25:10-30:1) in the annual Torah reading cycle is the 
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="p"><sup>12</sup>&nbsp;YHVH said to Mosheh: "Go up these Mountains of Avarim/The-region-across and see the land that I am giving to the Children of Yisra'el. <sup>13</sup>&nbsp;When you have seen it, you will be gathered to your kinspeople, even you, as Aharon your brother was gathered; <sup>14</sup>&nbsp;since you rebelled against my order in the Wilderness of Tsyn — when the community quarreled — to treat-me-as-holy through water before their eyes; they are the waters of Merivat Qadesh/Quarreling at Qadesh, in the Wilderness of Tsyn."</span>
+<span class="p"><sup>12</sup>&nbsp;YHVH said to Mosheh: "Go up these Mountains of Avarim/The-region-across and see the land that I am giving to the Children of Yisra'el. <sup>13</sup>&nbsp;When you have seen it, you will be gathered to your kinspeople, even you, as Aharon your brother was gathered; <sup>14</sup>&nbsp;since you rebelled against my order in the Wilderness of Tsyn — when the community quarreled — to treat-me-as-holy through water before their eyes; they are the waters of Merivat Ḳadesh/Quarreling at Ḳadesh, in the Wilderness of Tsyn."</span>
 </div></td></tr>
 
 

@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: Actions de graces pour la récolte et Prière pour demander un bon hiver (Thanks for the Harvest, and Prayer for a Favorable Winter), by Jonas Ennery (1848)<br />
+Title: Actions de graces pour la récolte et Prière pour demander un bon hiver | Thanks for the Harvest, and Prayer for a Favorable Winter, a paraliturgical prayer for rain by Jonas Ennery (1848)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=21923">http://opensiddur.org/?p=21923</a>
 <p />
@@ -97,7 +97,6 @@ O Father! you who watch with constant love over all your creatures, permit me no
 <hr />
 
 This is a paraliturgical prayer for rain during the wet season, read during the festival of Sukkot, from Imrei Lev, a collection of teḥinot and paraliturgical prayers adapted for French Jewry by Jonas Ennery and Rabbi Arnaud Aron. The prayer does not appear in Hester Rothschild's abridged English translation of Imrei Lev: Prayers and Meditations (1855). The translation provided here is from Isaac Leeser's "corrected and revised" edition from 1866. This is the first time that the French source and English translations have been set side-by-side. I have modernized Leeser's translation, replacing Thees, Thys, and Thous. --Aharon Varady.
-
 
 <h3>Source(s)</h3>
 

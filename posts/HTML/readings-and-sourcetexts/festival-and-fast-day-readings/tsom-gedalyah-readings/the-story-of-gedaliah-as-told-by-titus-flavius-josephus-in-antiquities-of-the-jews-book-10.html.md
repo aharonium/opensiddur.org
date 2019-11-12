@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: The Story of Gedaliah, as told by Titus Flavius Josephus in Antiquities of the Jews<br />
+Title: The Story of Gedalyah, as told by Titus Flavius Josephus in Antiquities of the Jews<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=21677">http://opensiddur.org/?p=21677</a>
 <p />
@@ -17,7 +17,7 @@ For attribution and license, please consult the following URL: <a href="http://o
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-(9:1) As for the general Nabuzardanes, after taking captive the Hebrew people, he left behind the poor and the deserters in the country and, appointing a governor over them, named Gedaliah, son of Aḥiqam who was of noble family and kind and just, he imposed upon them the payment of a fixed tribute to the king from the cultivation of the soil.[foot]Cf. 2 Kings 25:22; Yirmiyahu 40:1[/foot] 
+(9:1) As for the general Nabuzardanes, after taking captive the Hebrew people, he left behind the poor and the deserters in the country and, appointing a governor over them, named Gedalyah, son of Aḥiqam who was of noble family and kind and just, he imposed upon them the payment of a fixed tribute to the king from the cultivation of the soil.[foot]Cf. 2 Kings 25:22; Yirmiyahu 40:1[/foot] 
 </div></td></tr>
 
 
@@ -39,7 +39,7 @@ Then he took the prophet Yirmiyahu out of prison and tried to persuade him to go
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-The prophet, however, neither wished to accompany him nor to dwell anywhere else, but was content to live on among the ruins of his native land and its miserable remains.[foot]Cf. Yirmiyahu 40:4[/foot] When the general learned of his resolve, he commanded Gedaliah, whom he left behind, forthwith to take all possible care of him and provide him with everything he might need,[foot]According to Scripture (Yirmiyahu 40:5) Nebuzaradan himself provides Yirmiyahu with food.[/foot] and, having presented him with valuable gifts, he let him go. 
+The prophet, however, neither wished to accompany him nor to dwell anywhere else, but was content to live on among the ruins of his native land and its miserable remains.[foot]Cf. Yirmiyahu 40:4[/foot] When the general learned of his resolve, he commanded Gedalyah, whom he left behind, forthwith to take all possible care of him and provide him with everything he might need,[foot]According to Scripture (Yirmiyahu 40:5) Nebuzaradan himself provides Yirmiyahu with food.[/foot] and, having presented him with valuable gifts, he let him go. 
 </div></td></tr>
 
 
@@ -61,7 +61,7 @@ And so Yirmiyahu remained in the country, in a city called Mitspah, and urged Na
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-(2)	Then Nabuzardanes, having disposed of these matters, set out for Babylon. But, when those who had fled from Jerusalem while it was being besieged and had scattered throughout the country heard that the Babylonians had withdrawn, leaving behind some few survivors in the country round Jerusalem and some people to cultivate this land, they gathered together from all parts and came to Gedaliah at Mitspah.[foot]Cf. 2 Kings 25:23; Yirmiyahu 40:7[/foot] 
+(2) Then Nabuzardanes, having disposed of these matters, set out for Babylon. But, when those who had fled from Jerusalem while it was being besieged and had scattered throughout the country heard that the Babylonians had withdrawn, leaving behind some few survivors in the country round Jerusalem and some people to cultivate this land, they gathered together from all parts and came to Gedalyah at Mitspah.[foot]Cf. 2 Kings 25:23; Yirmiyahu 40:7[/foot] 
 </div></td></tr>
 
 
@@ -83,7 +83,7 @@ Their leaders were Yoḥanan, the son of Qare'aḥ, and Serayah and Yazanyahu an
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Accordingly, when they arrived there, Gedaliah persuaded them to remain there for the present without any fear of the Babylonians, for, he said, if they worked the land they would suffer no harm. These assurances he confirmed by giving them his oath and telling them that they should have him as their protector, so that, if anyone molested them, they would find him ready to help. 
+Accordingly, when they arrived there, Gedalyah persuaded them to remain there for the present without any fear of the Babylonians, for, he said, if they worked the land they would suffer no harm. These assurances he confirmed by giving them his oath and telling them that they should have him as their protector, so that, if anyone molested them, they would find him ready to help. 
 </div></td></tr>
 
 
@@ -105,7 +105,7 @@ And he advised them to settle down in the cities, each wherever he chose, and to
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-(3)	Now, when a rumour was spread among the nations round Judaea that Gedaliah had received with friendliness those of the fugitives who came to him, and had permitted them to settle down and work the land on condition of paying tribute to the Babylonian king, they[foot]Josephus's language is decidedly careless; by "they" he means the Jewish fugitives among the surrounding nations, not these nations themselves.[/foot] too came together to Gedaliah and settled on the land. 
+(3) Now, when a rumour was spread among the nations round Judaea that Gedalyah had received with friendliness those of the fugitives who came to him, and had permitted them to settle down and work the land on condition of paying tribute to the Babylonian king, they[foot]Josephus's language is decidedly careless; by "they" he means the Jewish fugitives among the surrounding nations, not these nations themselves.[/foot] too came together to Gedalyah and settled on the land. 
 </div></td></tr>
 
 
@@ -116,7 +116,7 @@ And he advised them to settle down in the cities, each wherever he chose, and to
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-And, when they observed (the nature of) the land[foot]text uncertain; Lat. renders "observed that the land was ruled in peace."[/foot] and the kindness and friendliness of Gedaliah, Yoḥanan and the leaders with him came to feel a very great affection for him and told him that Baalis, the king of the Ammonites, had sent Yishmael to kill him by treachery and in secret, in order that Yishmael might rule over the Israelites,[foot]Cf. Yirmiyahu 40:11[/foot] for he was of the royal line. 
+And, when they observed (the nature of) the land[foot]text uncertain; Lat. renders "observed that the land was ruled in peace."[/foot] and the kindness and friendliness of Gedalyah, Yoḥanan and the leaders with him came to feel a very great affection for him and told him that Baalis, the king of the Ammonites, had sent Yishmael to kill him by treachery and in secret, in order that Yishmael might rule over the Israelites,[foot]Cf. Yirmiyahu 40:11[/foot] for he was of the royal line. 
 </div></td></tr>
 
 
@@ -149,7 +149,7 @@ But he confessed that he did not believe them when they accused a man who had be
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-In any case, he said, even if he must believe their words to be true, it was better for him to die by the hands of Yishmael than to put to death a man who had taken refuge with him and had entrusted his very life into his hands for safe keeping.[foot]In the preceding passage Josephus greatly amplifies the brief statement of Gedaliah in Scripture, "Thou shalt not do this thing; for thou speakest falsely of Ishmael."[/foot]
+In any case, he said, even if he must believe their words to be true, it was better for him to die by the hands of Yishmael than to put to death a man who had taken refuge with him and had entrusted his very life into his hands for safe keeping.[foot]In the preceding passage Josephus greatly amplifies the brief statement of Gedalyah in Scripture, "Thou shalt not do this thing; for thou speakest falsely of Ishmael."[/foot]
 </div></td></tr>
 
 
@@ -160,7 +160,7 @@ In any case, he said, even if he must believe their words to be true, it was bet
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-(4)	And so Yoḥanan and those of the leaders who were with him went away without being able to convince Gedaliah. But, when a period of thirty days had elapsed,[foot]Bibl. "in the 7th month." The medieval Jewish commentator Kimchi, like Josephus, takes this to mean a month after Gedaliah's statement to Johanan, although Scripture does not indicate how long the interval was.[/foot] Yishmael came with ten men to Gedaliah at the city of Mitspah, where he entertained them with a splendid banquet and presents and, in his cordial reception of Yishmael and those with him, went so far as to become drunk. 
+(4) And so Yoḥanan and those of the leaders who were with him went away without being able to convince Gedalyah. But, when a period of thirty days had elapsed,[foot]Bibl. "in the 7th month." The medieval Jewish commentator Kimchi, like Josephus, takes this to mean a month after Gedalyah's statement to Johanan, although Scripture does not indicate how long the interval was.[/foot] Yishmael came with ten men to Gedalyah at the city of Mitspah, where he entertained them with a splendid banquet and presents and, in his cordial reception of Yishmael and those with him, went so far as to become drunk. 
 </div></td></tr>
 
 
@@ -171,7 +171,7 @@ In any case, he said, even if he must believe their words to be true, it was bet
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Seeing him in this condition, sunken into unconsciousness and a drunken sleep, Yishmael sprang up with his ten friends and slaughtered Gedaliah and those reclining with him at the banquet table;[foot]Scripture says nothing of a splendid banquet or the intoxication of Gedaliah ; cf. Yirmiyahu 41:1-2, "... they ate bread together in Mitspah. Then arose Ishmael, the son of Nethaniah, and the ten that were with him and smote Gedaliah " etc.[/foot] after slaying them, he went out by night and murdered all the Jews in the city and the soldiers who had been left there by the Babylonians.
+Seeing him in this condition, sunken into unconsciousness and a drunken sleep, Yishmael sprang up with his ten friends and slaughtered Gedalyah and those reclining with him at the banquet table;[foot]Scripture says nothing of a splendid banquet or the intoxication of Gedalyah ; cf. Yirmiyahu 41:1-2, "... they ate bread together in Mitspah. Then arose Ishmael, the son of Nethaniah, and the ten that were with him and smote Gedalyah " etc.[/foot] after slaying them, he went out by night and murdered all the Jews in the city and the soldiers who had been left there by the Babylonians.
 </div></td></tr>
 
 
@@ -182,7 +182,7 @@ Seeing him in this condition, sunken into unconsciousness and a drunken sleep, Y
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-But on the following day eighty of the people of the country came with gifts for Gedaliah, for no one of them knew what had happened to him.[foot]Josephus omits the scriptural detail that they were in mourning; moreover Scripture says that they brought gifts for the temple, not for Gedaliah.[/foot] And, when Yishmael saw them, he invited them in as if to see Gedaliah; then, when they were inside, he closed the gates of the court[foot]Lit. "closed off the court," but this implies closing the gates, as in the variant. Scripture says that he slew them "when they came into the midst of the city."[/foot] and murdered them and cast their bodies into the bottom of a deep pit, that they might not be seen.[foot]Josephus omits the scriptural detail that this pit had been dug by Asa to prevent Baasha's invasion of Judah.[/foot] 
+But on the following day eighty of the people of the country came with gifts for Gedalyah, for no one of them knew what had happened to him.[foot]Josephus omits the scriptural detail that they were in mourning; moreover Scripture says that they brought gifts for the temple, not for Gedalyah.[/foot] And, when Yishmael saw them, he invited them in as if to see Gedalyah; then, when they were inside, he closed the gates of the court[foot]Lit. "closed off the court," but this implies closing the gates, as in the variant. Scripture says that he slew them "when they came into the midst of the city."[/foot] and murdered them and cast their bodies into the bottom of a deep pit, that they might not be seen.[foot]Josephus omits the scriptural detail that this pit had been dug by Asa to prevent Baasha's invasion of Judah.[/foot] 
 </div></td></tr>
 
 
@@ -204,7 +204,7 @@ But of these eighty men some[foot]10, according to Scripture.[/foot] were saved 
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-But the people in Mitspah he took captive with their wives and young children; among them were the daughters of King Sacchias himself, whom Nabuzardanes, the Babylonian general, had left with Gedaliah. Having carried out these crimes, he came to the king of the Ammonites.
+But the people in Mitspah he took captive with their wives and young children; among them were the daughters of King Sacchias himself, whom Nabuzardanes, the Babylonian general, had left with Gedalyah. Having carried out these crimes, he came to the king of the Ammonites.
 </div></td></tr>
 
 
@@ -215,7 +215,7 @@ But the people in Mitspah he took captive with their wives and young children; a
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-(5)	When Yoḥanan and the leaders with him heard of the things done at Mitspah by Yishmael and of the death of Gedaliah, they were very indignant and, each taking his own soldiers, they set out to make war on Yishmael, and came upon him at the spring in Ḥebron.[foot]Cf. Yirmiyahu 41:11[/foot] 
+(5) When Yoḥanan and the leaders with him heard of the things done at Mitspah by Yishmael and of the death of Gedalyah, they were very indignant and, each taking his own soldiers, they set out to make war on Yishmael, and came upon him at the spring in Ḥebron.[foot]Cf. Yirmiyahu 41:11[/foot] 
 </div></td></tr>
 
 
@@ -237,7 +237,7 @@ But, when those who had been taken captive by Yishmael saw Yoḥanan and the lea
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-But Yoḥanan took those whom he had saved from Yishmael’s hands and the eunuchs and women and young children, and came to a certain place called Mandra.[foot]The name means "cattle-pen." Dr. Thackeray, <em>Josephus, the Man</em>, etc., p.89 note, suggests that Josephus read Gid'roth Kimham "cattle-pens of Kimham" in the Heb. of Yirmiyahu 41:17 where our Masoretic text reads "Geroth Kimham (Targum and A.V. "habitation of Kimham") near Bethlehem"...[/foot] And there he remained for that day until they decided to depart from there and go to Egypt, fearing that the Babylonians might kill them, if they remained in the country, in their wrath over the murder of Gedaliah who had been appointed by them as governor.
+But Yoḥanan took those whom he had saved from Yishmael’s hands and the eunuchs and women and young children, and came to a certain place called Mandra.[foot]The name means "cattle-pen." Dr. Thackeray, <em>Josephus, the Man</em>, etc., p.89 note, suggests that Josephus read Gid'roth Kimham "cattle-pens of Kimham" in the Heb. of Yirmiyahu 41:17 where our Masoretic text reads "Geroth Kimham (Targum and A.V. "habitation of Kimham") near Bethlehem"...[/foot] And there he remained for that day until they decided to depart from there and go to Egypt, fearing that the Babylonians might kill them, if they remained in the country, in their wrath over the murder of Gedalyah who had been appointed by them as governor.
 </div></td></tr>
 
 
@@ -248,7 +248,7 @@ But Yoḥanan took those whom he had saved from Yishmael’s hands and the eunuc
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-(6)	While they were considering this plan, Yoḥanan, the son of Qare'aḥ, and the leaders with him approached the prophet Yirmiyahu and urged him to entreat God to reveal to them what they should do, for they were unable to decide this, and they swore that they would do whatever Yirmiyahu told them.[foot]Cf. Yirmiyahu 42:1[/foot] 
+(6) While they were considering this plan, Yoḥanan, the son of Qare'aḥ, and the leaders with him approached the prophet Yirmiyahu and urged him to entreat God to reveal to them what they should do, for they were unable to decide this, and they swore that they would do whatever Yirmiyahu told them.[foot]Cf. Yirmiyahu 42:1[/foot] 
 </div></td></tr>
 
 
@@ -292,7 +292,7 @@ And so the people and Yoḥanan disregarded the counsel[foot]Variant "alliance."
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-(7)	But, when they came there,[foot]To the city of Taḥpanḥes, according to Scripture.[/foot] the Deity revealed to the prophet that the king of Babylonia was about to march against the Egyptians, and He bade the prophet foretell to the people[foot]Josephus omits the symbolism of the stones which God commands Yirmiyahu to hide (Yirmiyahu 43:9 ff).[/foot] that Egypt would be taken and that the Babylonian king would kill some of them and would take the rest captive and carry them off to Babylon. 
+(7) But, when they came there,[foot]To the city of Taḥpanḥes, according to Scripture.[/foot] the Deity revealed to the prophet that the king of Babylonia was about to march against the Egyptians, and He bade the prophet foretell to the people[foot]Josephus omits the symbolism of the stones which God commands Yirmiyahu to hide (Yirmiyahu 43:9 ff).[/foot] that Egypt would be taken and that the Babylonian king would kill some of them and would take the rest captive and carry them off to Babylon. 
 </div></td></tr>
 
 
@@ -354,7 +354,6 @@ Now the entire interval of time from the captivity of the Israelites until the d
 <hr />
 
 From <em>Jewish Antiquities</em> (Ioudaikē archaiologia) by Josephus, Book 10, chapter 9 (154-187), translated by Ralph Marcus and Henry St. John Thackeray, Loeb Classical Library (1937). I have replaced the Greek names reproduced by Marcus and Thackeray with their biblical cognates. I have included most but not all of the annotation (see original for the full annotation.) The Greek source text is from the <a href="http://www.perseus.tufts.edu/hopper/text?doc=J.+AJ+10.9.1&fromdoc=Perseus%3Atext%3A1999.01.0145">Perseus Digital Library</a> (Flavius Josephus. Flavii Iosephi opera. B. Niese. Berlin. Weidmann. 1892). --Aharon N. Varady
-
 
 <h3>Source(s)</h3>
 

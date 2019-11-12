@@ -130,7 +130,7 @@ Blessed art thou, O Lord, who revivest the dead.
 <div class="english">
 Thou art holy and thy name is holy, and holy beings praise thee daily. <em>Selah</em>!
 
-When the Reader repeats the Shemoneh Esreh, the following Kedushah is said:
+When the Reader repeats the Shemoneh Esreh, the following Ḳedushah is said:
 We sanctify thy name in this world even as they sanctify it in the highest heavens, as it is written by thy prophet: “They keep calling to one another: 
 Holy, holy, holy is the Lord of hosts; 
 The whole, earth is full of his glory.”[foot]Isaiah 6:3.[/foot]

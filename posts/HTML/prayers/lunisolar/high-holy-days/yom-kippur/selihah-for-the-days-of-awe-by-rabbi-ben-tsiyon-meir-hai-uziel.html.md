@@ -119,6 +119,6 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <h3>Source(s)</h3>
 
-<img src="https://opensiddur.org/wp-content/uploads/2019/06/11988246_1057925320895056_3947934455505689287_n.jpg" alt="" width="720" height="960" class="alignleft size-full wp-image-25490" />
+<img src="https://opensiddur.org/wp-content/uploads/2019/06/11988246_1057925320895056_3947934455505689287_n-225x300.jpg" alt="" width="225" height="300" class="alignnone size-medium wp-image-25490" />
 </body>
 </html>

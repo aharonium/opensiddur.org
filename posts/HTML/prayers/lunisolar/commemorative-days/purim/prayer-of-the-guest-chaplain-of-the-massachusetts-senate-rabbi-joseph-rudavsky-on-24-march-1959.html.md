@@ -108,7 +108,7 @@ Amen.
 
 <hr />
 
-This prayer offered by Rabbi Joseph Rudavsky as an opening prayer for the Massachusetts Senate was added to the <a href="https://books.google.com/books?id=0zh_RCocxbgC&lpg=PP788&ots=9zl5u_WcpP&dq=congressional%20record%2014%20April%201959%20rabbi%20prayer%20purim&pg=PP788#v=onepage&q&f=false">Congressional Record of the United States House of Representatives</a> by Rep. <a href="https://en.wikipedia.org/wiki/Thomas_J._Lane">Thomas Lane</a> (MA 7- D) on 14 April 1959. 
+This prayer offered by Rabbi Joseph Rudavsky as an opening prayer for the Massachusetts Senate was added to the <a href="https://books.google.com/books?id=0zh_RCocxbgC&lpg=PP788&ots=9zl5u_WcpP&dq=congressional%20record%2014%20April%201959%20rabbi%20prayer%20purim&pg=PP788#v=onepage&q&f=false">Congressional Record of the United States House of Representatives</a> by Rep. <a href="https://en.wikipedia.org/wiki/Thomas_J._Lane">Thomas Lane</a> (MA 7- D) on 14 April 1959.
 
 <h3>Source(s)</h3>
 

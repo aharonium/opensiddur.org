@@ -39,14 +39,14 @@ Open your eyes and see, dear God, with what effort your dear nation observes you
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%"><div class="english">
-Master of the Cosmos, we now bless the month of Nisan, during which we observe the festival of Passover, so called because you, God, passed over the houses of Yisra'el, when you passed through the land of Mitsrayim to put to death all their firstborn. The Jews smeared the blood of the Korban Pesaḥ as mezuzot on the lintel of the doorpost, so that the Destroyer (mashḥit) would not have permission to go into the home of Jews. Thus, may you scold all destroyers (mashḥitim), that they not come to the doors of our houses to do evil to us Jews, to our children our grandchildren. Save our entire household from all evil and redeem us this month, as you promised us, “Behold I have redeemed you [in later times as in earlier times to be for you Elohim]”,[foot]Shabbat Musaf, Qedushah -- Shema Yisrael[/foot] speedily in our days. <em>Amen</em>.
+Master of the Cosmos, we now bless the month of Nisan, during which we observe the festival of Passover, so called because you, God, passed over the houses of Yisra'el, when you passed through the land of Mitsrayim to put to death all their firstborn. The Jews smeared the blood of the Korban Pesaḥ as mezuzot on the lintel of the doorpost, so that the Destroyer (mashḥit) would not have permission to go into the home of Jews. Thus, may you scold all destroyers (mashḥitim), that they not come to the doors of our houses to do evil to us Jews, to our children our grandchildren. Save our entire household from all evil and redeem us this month, as you promised us, “Behold I have redeemed you [in later times as in earlier times to be for you Elohim]”,[foot]Shabbat Musaf, Ḳedushah -- Shema Yisrael[/foot] speedily in our days. <em>Amen</em>.
 </div></td>
 </tr>
 </tbody></table>
 
 <hr />
 
-To the best of my ability, this is a faithful transcription of the תְּחִנָה לְשַׁבָּת מְבָרְכִים רֹאשׁ חוֺדֶשׁ נִיסָן ("Tkhine for Shabbat Mevorkhim Rosh Ḥodesh Nisan") which appeared in תחנות מקרא קודש (<em>Teḥinot Miqra Qodesh</em>, <a href="http://www.yivoencyclopedia.org/article.aspx/Romm_Family">Widow and Brothers Romm</a>, Vilna 1877) before its adaptation in Shas Tkhine Ḥadashe (Ben-Tsiyon Alfes 1910), the source from which this translation was made. English translation adapted slightly from <em>Techinas: A Voice from the Heart "As Only A Woman Can Pray"</em> by Rivka Zakutinsky (Aura Press, 1992). --A.N. Varady
+To the best of my ability, this is a faithful transcription of the תְּחִנָה לְשַׁבָּת מְבָרְכִים רֹאשׁ חוֺדֶשׁ נִיסָן ("Tkhine for Shabbat Mevorkhim Rosh Ḥodesh Nisan") which appeared in תחנות מקרא קודש (<em>Teḥinot Miqra Ḳodesh</em>, <a href="http://www.yivoencyclopedia.org/article.aspx/Romm_Family">Widow and Brothers Romm</a>, Vilna 1877) before its adaptation in Shas Tkhine Ḥadashe (Ben-Tsiyon Alfes 1910), the source from which this translation was made. English translation adapted slightly from <em>Techinas: A Voice from the Heart "As Only A Woman Can Pray"</em> by Rivka Zakutinsky (Aura Press, 1992). --A.N. Varady
 
 <h3>Source</h3>
 

@@ -73,7 +73,7 @@ on the Evening of the 14th of Iyar
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<u>Kadesh – Sanctification</u>
+<u>Ḳadesh – Sanctification</u>
 </div></td></tr>
 
 

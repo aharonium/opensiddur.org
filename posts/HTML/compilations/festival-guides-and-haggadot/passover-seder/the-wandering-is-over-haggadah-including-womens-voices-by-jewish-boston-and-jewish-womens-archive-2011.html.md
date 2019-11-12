@@ -140,7 +140,7 @@ Some people like to begin their seder by reciting or singing the names of the 14
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%"><div class="english">
-Kiddush (the blessing over wine) | kadeish 
+Ḳiddush (the blessing over wine) | kadeish 
 Ritual hand‐washing in preparation for the seder | urchatz 
 Dipping a green vegetable in salt water| karpas 
 Breaking the middle matzah | yachatz 
@@ -163,7 +163,7 @@ Ending the seder and thinking about the future | nirtzah
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%"><div class="english">
-<h3>Kiddush (the blessing over wine) | kadeish</h3>
+<h3>Ḳiddush (the blessing over wine) | kadeish</h3>
 </div></td></tr>
 
 

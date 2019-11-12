@@ -7,9 +7,26 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<a href="http://www.engageonline.org.uk/home"></a>
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://docs.wixstatic.com/ugd/4dc342_10d68441b6c44ee0a12909a242074ca6.pdf"]
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+A new edition of <em>The Past Didn't Go Anywhere</em> is now available directly from April Rosenblum's website, <a href="https://www.aprilrosenblum.com/thepast"><strong>HERE</a>.
+
+<!--
+
+<div class="english" style="font-size: 1.2em;">
+Feel free to copy and distribute this...
+You can sell it, if you charge $2 (plus shipping) or less.
+
+Dedicated to:
+
+<strong>Dr. Oscar Klier</strong>, founder and ex-Rector of the Universidad de Congreso in Argentina, mentor and friend; whose life's dream was destroyed in 1998 by an organized antisemitic campaign, and who is still seeking justice.
+
+and <strong>Cherie Brown</strong>, whose work to analyze anti-Jewish oppression was mentioned by so many interviewees as a source of inspiration and belief in themselves, whether they had worked with her closely, or seen one article by her long ago.
+
+FIRST EDITION, PDF APRIL 2007. (4/24/07 revision), <a href="http://pinteleyid.org">pinteleyid.org</a>, <a href="http://thepast.info">thepast.info</a>
+</div>
+
+<a href="http://www.engageonline.org.uk/home"></a><table style="margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
 <tr>
@@ -19,6 +36,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
+[A new edition of <em>The Past Didn't Go Anywhere</em> is now available directly from April Rosenblum's website, <a href="https://www.aprilrosenblum.com/thepast">HERE</a>. 
+
+The HTML edition presented on this page reflects the penultimate edition from <a href="https://web.archive.org/web/20120116084836/http://pinteleyid.com/past">January 16, 2012</a> archived by the Wayback Machine's snapshot of the websites: thepast.info (pinteleyid.com). --ANV]
+
 <blockquote>
 <h3>A few notes...</h3>
 <strong>The word "Left"</strong> is used here to describe radical and progressive social justice movements and the individual activists who take up social justice struggles. You don't have to identify with this specific term -- it's a useful word here mainly because it's short.
@@ -28,8 +49,6 @@ For attribution and license, please consult the following URL: <a href="http://o
 I have chosen, where possible, not to show peoples' faces or use activists' and organizations' names. First, many perpetuate anti-Jewish behavior unintentionally; second, our goal should be not to shift blame to individuals, but to deal with the whole pattern. 
 
 A <strong>glossary</strong> is located at the end of this pamphlet.
-
-[Links in the PDF pamphlet from which this HTML was derived are deprecated. The Wayback Machine of the Internet Archive has a snapshot of the websites: thepast.info (pinteleyid.com), from <a href="https://web.archive.org/web/20120116084836/http://pinteleyid.com/past">January 16, 2012</a> The PDF of <em>The Past Didn't Go Anywhere</em> is available for <a href="https://opensiddur.org/wp-content/uploads/2018/03/The-Past-Didnt-Go-Anywhere-Making-Resistance-to-Antisemitism-Part-of-All-of-Our-Movements-April-Ronseblum-2007.pdf"><strong>DOWNLOAD</strong> here</a>. --ANV]
 </blockquote>
 </div></td></tr>
 
@@ -2554,24 +2573,6 @@ Note: Second dates indicate most recent editions. *= Good starters for a basic c
 </div></td></tr>
 </tbody></table>
 
-<hr />
-
-Feel free to copy and distribute this..
-You can sell it, if you charge $2 (plus shipping) or less.
-
-Dedicated to:
-
-<strong>Dr. Oscar Klier</strong>, founder and ex-Rector of the Universidad de Congreso in Argentina, mentor and friend; whose life's dream was destroyed in 1998 by an organized antisemitic campaign, and who is still seeking justice.
-
-and <strong>Cherie Brown</strong>, whose work to analyze anti-Jewish oppression was mentioned by so many interviewees as a source of inspiration and belief in themselves, whether they had worked with her closely, or seen one article by her long ago.
-
-FIRST EDITION, PDF APRIL 2007. (4/24/07 revision), <a href="http://pinteleyid.org">pinteleyid.org</a>, <a href="http://thepast.info">thepast.info</a>
-SECOND EDITION. HTML (2018-03-16).
-
-This was written and researched by April Rosenblum and helped by many small donations from supportive individuals. Special thanks to Judy Rosenblum, Joel Rosenblum, Josef Kardos, all of the "If Not Together" interviewees and advisors, and dedicated readers of early drafts of "The Past;" to Kate Zaidan, whose generosity of heart and mind went beyond the call of duty in ways I won't forget; and to my friends, across many borders.
-
-<h3>Source</h3>
-
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.archive.org/stream/ThePastDidntGoAnywhere#page/n0/mode/2up"]
+-->
 </body>
 </html>

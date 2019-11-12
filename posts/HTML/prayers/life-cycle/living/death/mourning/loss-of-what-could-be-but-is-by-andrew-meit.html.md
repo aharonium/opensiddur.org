@@ -17,8 +17,8 @@ For attribution and license, please consult the following URL: <a href="http://o
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-For Ben, a bright soul
-by Andrew Meit, uncle.
+<em>For Ben, a bright soul
+by Andrew Meit, uncle.</em>
 </div></td></tr>
 
 
@@ -29,8 +29,7 @@ by Andrew Meit, uncle.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<strong>Loss of what could be; but is.</strong>
-<em>(loosely based on the poem "Praying for what is lost" by Rabbi David Wolpe)</em>
+<u>Loss of what could be; but is.</u>[foot]Loosely based on "A Jewish Prayer" by Rabbi David Wolpe in "<a href="https://www.huffpost.com/entry/prayer-for-911_n_955705">Prayers for 9/11</a>," Huffington Post, 9 September 2011.[/foot]
 </div></td></tr>
 
 
@@ -141,6 +140,14 @@ to keep trust in the potential to love.
 <hr />
 
 This eulogy by Andrew Meit was read at Temple Beit Ami in Rockville, Maryland at the funeral of Benjamin Meit. Andrew writes, "Ben would have turned 19 next week. He died from complications from depression and mental illness." Donations in Ben's memory may be made <a href="http://www.benjaminmeit.com/donations/">here</a>.
+
+The poem is loosely based upon words shared by Rabbi David Wolpe for an ecumenical collection of prayers and statements of religious leaders a decade after the terrorism on September 11, 2001, collected by the Huffington Post and <a href="https://www.huffpost.com/entry/prayer-for-911_n_955705">published</a> 9 September 2011.
+
+<blockquote>
+<strong>A Jewish Prayer</strong> 
+
+Dear God, how do we pray for what was lost? We cannot pray for deliverance or a miracle, for the tragedy has already burned itself into our souls. Children have grown fatherless. Families are long since bereaved. We know there is no prayer to change the past. So we pray to live with memory, with constant love, with the promise both to combat evil and to cherish goodness. Do not let our pain cloud our hopes or crush our hearts. Help us grow through this tragedy, keep faith with its victims, and sustain our trust in You.
+</blockquote>
 
 If you or anyone you know is in need of help, please call 911, or 1-800 273 8255, the national suicide prevention hotline.
 </body>

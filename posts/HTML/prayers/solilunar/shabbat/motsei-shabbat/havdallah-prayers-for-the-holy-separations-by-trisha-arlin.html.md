@@ -38,7 +38,7 @@ Praise the Time In Between
 <div class="english">
 Praise <em>Kadosh</em>, the holy
 Praise <em>Khol</em>, the mundane
-Praise <em>Ha Mavdil Bein Kodesh L’khol</em>, the one who differentiates between them
+Praise <em>Ha Mavdil Bein Ḳodesh L’khol</em>, the one who differentiates between them
 </div></td>
 </tr>
 

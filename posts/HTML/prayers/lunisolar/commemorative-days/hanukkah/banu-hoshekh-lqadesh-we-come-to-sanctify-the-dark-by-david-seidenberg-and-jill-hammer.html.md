@@ -127,6 +127,6 @@ These are alternative lyrics to the popular Ḥanukkah song, <a href="https://op
 
 <h3>Source(s)</h3>
 
-[gview file="https://opensiddur.org/wp-content/uploads/2018/12/Banu-Hoshekh-lQadesh-David-Seidenberg-neohasid.org-2018.pdf"]
+[gview file="https://opensiddur.org/wp-content/uploads/2018/12/Banu-Hoshekh-lḲadesh-David-Seidenberg-neohasid.org-2018.pdf"]
 </body>
 </html>

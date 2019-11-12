@@ -111,7 +111,7 @@ Shine forth in your glorious majesty
 over all the inhabitants of your world. 
 Let everything that breathes proclaim: 
 YHVH, <em>elo'ah</em> of Yisra'el is King;
-"their majesty reigns over all.”[foot]Psalms 103:19[/foot][foot]Cf. <a href="https://www.sefaria.org/Machzor_Rosh_Hashanah_Ashkenaz_Linear,_The_Morning_Prayers,_First_Day_of_Rosh_Hashana,_Amidah.153?lang=he&with=all&lang2=he">Amidah, Kedushat Hayom for Yamim Noraim</a>. This entire final section is a paraphrase of the <em>malkhuyot</em>. Many thanks to Avital Morris, Eliran Sobel, and Amit Gvaryahu for helping to source this section.[/foot] 
+"their majesty reigns over all.”[foot]Psalms 103:19[/foot][foot]Cf. <a href="https://www.sefaria.org/Machzor_Rosh_Hashanah_Ashkenaz_Linear,_The_Morning_Prayers,_First_Day_of_Rosh_Hashana,_Amidah.153?lang=he&with=all&lang2=he">Amidah, Ḳedushat Hayom for Yamim Noraim</a>. This entire final section is a paraphrase of the <em>malkhuyot</em>. Many thanks to Avital Morris, Eliran Sobel, and Amit Gvaryahu for helping to source this section.[/foot] 
 <em>Amen. <em>Selah</em>.</em>
 </div></td></tr>
 </tbody></table>

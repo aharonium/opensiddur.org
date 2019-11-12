@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: על חטא | Al Ḥeit, by Stew Albert and Judy Gumbo (2006)<br />
+Title: על חטא | Al Ḥeit, by Stew Albert & Judy Gumbo (2006)<br />
 Primary contributor: judy.gumbo<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=4043">http://opensiddur.org/?p=4043</a>
 <p />

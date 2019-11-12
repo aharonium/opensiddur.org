@@ -76,7 +76,7 @@ And death.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<h3>Qedushah</h3>
+<h3>Ḳedushah</h3>
 
 I affirm God's holiness, 
 And my growth toward it.

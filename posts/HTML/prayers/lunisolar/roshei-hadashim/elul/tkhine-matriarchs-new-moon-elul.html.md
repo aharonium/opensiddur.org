@@ -435,7 +435,7 @@ Let your compassion stand by your maidservant. I bow down and beseech your favor
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Take away your anger from me. May you silence Satan, who constantly accuses us at the sounding of the shofar.[foot]Babylonian Talmud, Rosh Hashanah 16b.[/foot] And forgive our sins through the sound of the shofar. Just as the shofar is bent, so will we bend our hearts to repent for our sins. And with the sounding of the shofar, may you remove the stains which we have made upon our souls. With each breath which is blown into the shofar, may you blow upon the scale of our mitsvot[foot]Babylonian Talmud, Kiddushin 40b.[/foot] so that they may outweigh our sins. And may we merit to hear good tidings this year.
+Take away your anger from me. May you silence Satan, who constantly accuses us at the sounding of the shofar.[foot]Babylonian Talmud, Rosh Hashanah 16b.[/foot] And forgive our sins through the sound of the shofar. Just as the shofar is bent, so will we bend our hearts to repent for our sins. And with the sounding of the shofar, may you remove the stains which we have made upon our souls. With each breath which is blown into the shofar, may you blow upon the scale of our mitsvot[foot]Babylonian Talmud, Ḳiddushin 40b.[/foot] so that they may outweigh our sins. And may we merit to hear good tidings this year.
 </div></td></tr>
 
 

@@ -169,7 +169,7 @@ Blessed are You, Lord our God, Ruler of the Universe, who has granted us life, s
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%"><div class="english">
-<h3>Kadesh - four cups of water</h3>
+<h3>Ḳadesh - four cups of water</h3>
 In a traditional seder, we drink four cups of wine, marking the ways God redeemed us from Israel. In this seder, as we stand in solidarity with the hunger strikers, we will drink four cups of water.
 </div></td></tr>
 
@@ -1007,7 +1007,7 @@ Personal Liberation Items represent liberation to each of us in our own lives.
  
 <td style="vertical-align:top;" width="53%"><div class="english">
 <h4>Second Cup of Water</h4>
-<em>repeat ritual in <strong>Kadesh</strong></em>
+<em>repeat ritual in <strong>Ḳadesh</strong></em>
 </div></td></tr>
 
 
@@ -1029,7 +1029,7 @@ Personal Liberation Items represent liberation to each of us in our own lives.
  
 <td style="vertical-align:top;" width="53%"><div class="english">
 <h4>Third Cup of Water</h4>
-<em>repeat ritual in <strong>Kadesh</strong></em>
+<em>repeat ritual in <strong>Ḳadesh</strong></em>
 </div></td></tr>
 
 
@@ -1190,7 +1190,7 @@ But I dreamt we were all beautiful and strong
  
 <td style="vertical-align:top;" width="53%"><div class="english">
 <h4>Fourth Cup of Wine</h4>
-<em>repeat ritual in Kadesh</em>
+<em>repeat ritual in Ḳadesh</em>
 </div></td></tr>
 
 

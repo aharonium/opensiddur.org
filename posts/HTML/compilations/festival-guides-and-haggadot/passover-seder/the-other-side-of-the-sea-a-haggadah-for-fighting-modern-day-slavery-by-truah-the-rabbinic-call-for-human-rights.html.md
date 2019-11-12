@@ -53,7 +53,7 @@ Adar 5775/March 2015
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Kadesh (Sanctifying)
+Ḳadesh (Sanctifying)
 Ur’chatz (Preparing)
 Karpas (Salting)
 Yachatz (Breaking)
@@ -112,11 +112,11 @@ How will this ancient wisdom propel us forward to empower the silent? How will w
  
 - Jessica K. Shimberg, Spiritual Leader, The Little Minyan Kehilla, Columbus, OH; ALEPH Rabbinical Program Class of 2018</blockquote>
 
-<h3>קַדֵּשׁ Kadesh</h3>
+<h3>קַדֵּשׁ Ḳadesh</h3>
 
-We begin our seder with the Kiddush, the sanctification of this moment in time.
+We begin our seder with the Ḳiddush, the sanctification of this moment in time.
 
-The text of the Kiddush reminds us that the choice to uphold the sacred is in our hands. We do not directly bless wine, or praise its sweetness. Rather, we thank God for the fruit of the vine. That fruit can also be used to make vinegar, which is sharp and bitter. Our actions determine whether this sacred moment in time inspires bitterness or sweetness, complacency or action.
+The text of the Ḳiddush reminds us that the choice to uphold the sacred is in our hands. We do not directly bless wine, or praise its sweetness. Rather, we thank God for the fruit of the vine. That fruit can also be used to make vinegar, which is sharp and bitter. Our actions determine whether this sacred moment in time inspires bitterness or sweetness, complacency or action.
 
 Bless and drink the first cup of wine/grape juice.
 

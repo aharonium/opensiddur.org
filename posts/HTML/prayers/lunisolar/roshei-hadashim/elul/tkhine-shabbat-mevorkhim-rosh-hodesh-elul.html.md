@@ -114,7 +114,7 @@ Master of the Cosmos, I am very afraid of your ruling on the Day of Judgment tha
 
 <hr />
 
-To the best of my ability, this is a faithful transcription of the תְּחִנָה לְשַׁבָּת מְבָרְכִים רֹאשׁ חוֺדֶשׁ אֶלוּל ("Tkhine for Shabbat Mevorkhim Rosh Ḥodesh Elul") which appeared in תחנות מקרא קודש (<em>Teḥinot Miqra Qodesh</em>, Widow and Brothers Romm, Vilna 1877). English translation adapted slightly from <em>Techinas: A Voice from the Heart "As Only A Woman Can Pray"</em> by Rivka Zakutinsky (Aura Press, 1992). --A.N. Varady
+To the best of my ability, this is a faithful transcription of the תְּחִנָה לְשַׁבָּת מְבָרְכִים רֹאשׁ חוֺדֶשׁ אֶלוּל ("Tkhine for Shabbat Mevorkhim Rosh Ḥodesh Elul") which appeared in תחנות מקרא קודש (<em>Teḥinot Miqra Ḳodesh</em>, Widow and Brothers Romm, Vilna 1877). English translation adapted slightly from <em>Techinas: A Voice from the Heart "As Only A Woman Can Pray"</em> by Rivka Zakutinsky (Aura Press, 1992). --A.N. Varady
 
 While no mention is made in this tekhine of Rosh Hashanah L'Maasar Behema, the New Year's Day for Animals coinciding with Rosh Chodesh Elul, we can't help but note that the tekhine commences with the image of the Lion. Many thanks to R' Simcha Daniel Burstyn for aiding me in translating some of the Hebrew in this tkhine. --A.N. Varady
 

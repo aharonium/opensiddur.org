@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: ליקוטי תפילות חלק א תפילה קמה | Liqutei Tefilot I:145 for Sukkot, by Reb Nosson Steinhartz of Nemirov (early 19th century)<br />
+Title: ליקוטי תפילות חלק א׳ תפילה קמ״ה | Liqutei Tefilot I:145 for Sukkot, by Reb Nosson Steinhartz of Nemirov (early 19th century)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=26201">http://opensiddur.org/?p=26201</a>
 <p />
@@ -118,7 +118,7 @@ How many times without number
 must I plead and pray 
 that You will give me a holy state of mind, energies of kindness, 
 so that I will attain true, human knowledge, 
-so that I will quickly go from being a domestic-animal to being a human being.
+so that I will quickly go from being a domesticated-animal to being a human being.
 </div></td></tr>
 
 
@@ -133,7 +133,7 @@ so that I will quickly go from being a domestic-animal to being a human being.
 <td style="vertical-align:top;" width="53%">
 <div class="english">
 May I have pity on myself from now on 
-and no longer commit the acts of a domestic-animal. 
+and no longer commit the acts of a domesticated-animal. 
 Rather, may I quickly attain true knowledge, 
 which is the definition of a human being.
 </div></td></tr>
@@ -150,9 +150,9 @@ which is the definition of a human being.
 <td style="vertical-align:top;" width="53%">
 <div class="english">
 May I draw from the energy that goes to Adam/humanity
-and no longer from the energy that goes to Behemah/domestic-animals. 
-May I soon emerge from being defined as a domestic-animal 
-and instead be defined as human.
+and no longer from the energy that goes to Behemah/domesticated-animals. 
+May I soon ascend from the category of domesticated-animal 
+to the category of human.
 </div></td></tr>
 
 
@@ -173,7 +173,7 @@ and instead be defined as human.
 Master of the world, Master of the world, 
 You are good and do good to all. 
 You are compassionate to all Your creatures. 
-Have pity, mercy and compassion on the domestic-animals and wild creatures. 
+Have pity, mercy and compassion on the domesticated-animals and wild creatures. 
 Help me and Your entire nation, the House of Yisra'el, 
 not to spoil the mitsvah of Sukkah at all, 
 so that we will always draw from the energy of Adam
@@ -190,9 +190,9 @@ that comes from the level of Sukkah.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-May we not have to draw from the energy of domestic-animals, Heaven forbid. 
+May we not have to draw from the energy of domesticated-animals, Heaven forbid. 
 May we not take their energy to ourselves, Heaven forbid, 
-so that we will not cause the premature deaths of domestic-animals and wild creatures, Heaven forbid.
+so that we will not cause the premature deaths of domesticated-animals and wild creatures, Heaven forbid.
 </div></td></tr>
 
 
@@ -212,9 +212,9 @@ so that we will not cause the premature deaths of domestic-animals and wild crea
 May the verse be realized as it is written: 
 "YHVH, you save human and behemah/domesticated-animal."[foot]Psalms 37:7.[/foot] 
 and as it says: "Blessed will be the fruit of your womb 
-and the fruit of your land 
-and the fruit of your livestock, 
-the offspring of your domesticated-animals 
+and the fruit of your fertile-ground,
+and the fruit of your domesticated-animals, 
+the offspring of your tame-ones,
 and the flocks of your sheep."[foot]Deuteronomy 28:4.[/foot] 
 </div></td></tr>
 
@@ -393,7 +393,7 @@ and compassionately fulfill our requests for the good.
 <div class="english">
 Help us fulfill the mitsvah of Sukkah in its time completely, 
 so that we will attain everything that we have requested of You. 
-May we not cause the premature death of domestic-animals and wild creatures, Heaven forbid, 
+May we not cause the premature death of domesticated-animals and wild creatures, Heaven forbid, 
 but may we always derive our sustenance from the energy for Adam/humanity 
 that is drawn from the level of Sukkah.
 </div></td></tr>

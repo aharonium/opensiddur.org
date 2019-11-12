@@ -65,7 +65,7 @@ Dear God, hear the weeping of Tsiyon and accept the anguished cries of Yerushala
 
 <hr />
 
-This is a faithful transcription of the תְּחִנָה לְשַׁבָּת מְבָרְכִים רֹאשׁ חוֺדֶשׁ מְנַחֵם אָב ("Tkhine for Shabbat Mevorkhim Rosh Ḥodesh Menaḥem Av") as printed in <em>Shas Tkhine Ḥodoshe</em> (1910) and תחנות מקרא קודש (<em>Teḥinot Miqra Qodesh</em>, Widow &amp; Brothers Romm, Vilna 1872/3, 1877). English translation adapted slightly from <em>Techinas: A Voice from the Heart "As Only A Woman Can Pray"</em> by Rivka Zakutinsky (Aura Press, 1992). Using Shas Tkhine Ḥodoshe as her source, Moreh Zakutinsky probably had not seen the additional paragraph in the earlier printing. --A.N. Varady
+This is a faithful transcription of the תְּחִנָה לְשַׁבָּת מְבָרְכִים רֹאשׁ חוֺדֶשׁ מְנַחֵם אָב ("Tkhine for Shabbat Mevorkhim Rosh Ḥodesh Menaḥem Av") as printed in <em>Shas Tkhine Ḥodoshe</em> (1910) and תחנות מקרא קודש (<em>Teḥinot Miqra Ḳodesh</em>, Widow &amp; Brothers Romm, Vilna 1872/3, 1877). English translation adapted slightly from <em>Techinas: A Voice from the Heart "As Only A Woman Can Pray"</em> by Rivka Zakutinsky (Aura Press, 1992). Using Shas Tkhine Ḥodoshe as her source, Moreh Zakutinsky probably had not seen the additional paragraph in the earlier printing. --A.N. Varady
 
 <h3>Sources</h3>
 

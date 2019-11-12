@@ -122,7 +122,7 @@ May his memory be for a blessing
 and his merit be for a shield 
 for our government 
 and our Nation, 
-which he always referred to as "a nation of kindness." 
+which he always referred to as "a nation of kindness."[foot]lit. <em>medina shel ḥesed</em>.[/foot] 
 </div></td></tr>
 
 

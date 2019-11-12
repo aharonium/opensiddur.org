@@ -13,25 +13,21 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tr>
 <td style="vertical-align:top;" width="46%">
 <div class="commentary" style="text-align: right;"><span lang="he">
-‏...על כן, 
-כשם שיש תועלת גדולה לתיקון הנפש 
-בוידוי העוונות... 
-גם כן 
-בוידוי המצוות, 
+‏...על כן, כשם שיש תועלת גדולה 
+לתיקון הנפש בוידוי העוונות... 
+גם כן בוידוי המצוות, 
 למען ישמח בהם בלבבו, 
 ויחזק ארחות חייו בדרך ה׳.‏ 
---<span class="citation">(הרב קוק, עין אי״ה, מסכת מעשר שני פרק ז משנה י)‏</span>
+<span class="citation">(הרב קוק, עין אי״ה, מסכת מעשר שני פרק ז משנה י)‏</span>
 </span></div></td>
  
 <td width="53%"><div class="english">
-...Therefore, 
-just as there is great value 
+...Therefore, just as there is great value 
 to the confession of sins... 
-there is also great value 
-to the confession of mitzvot (our positive deeds), 
+there is also great value to the confession of mitzvot (our positive deeds), 
 which gladdens the heart 
 and strengthens the holy paths of life!
---Rav Avraham Itzḥak Kook, <em>Ayn Aya</em>, tractate Maaser sheni, chapter 7, mishna 10.[foot]Translation of Rav Kook by Rabbi Sue Mauer Morningstar[/foot]
+--Rav Avraham Itzḥak Kook [foot]<em>Ayn Aya</em>, tractate Maaser sheni, chapter 7, mishna 10. Translation of Rav Kook by Rabbi Sue Mauer Morningstar[/foot]
 </div></td>
 </tr>
 
@@ -43,8 +39,8 @@ and strengthens the holy paths of life!
 </span></div></td>
  
 <td width="53%"><div class="english">
-the Complementary Confession
-    </div></td></tr>
+<u>the Complementary Confession</u>
+</div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%"><div class="liturgy" style="text-align: right;"><span lang="he">

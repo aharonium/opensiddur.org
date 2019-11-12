@@ -21,7 +21,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <div class="english">
 [After unveiling the tombstone 
 this prayer is recited 
-according to the custom of the holy community of the Jews of Pressburg, yts"v[foot]<span class="hebrew">יִשְׁמְרֵיהוּ צוּרוֹ וִיחַיֵּהוּ</span> “May their Rock keep them and grant them life.” Kehilat Kodesh Pressburg, a/k/a Pozsony/Bratislava, the capital of Slovakia[/foot]]
+according to the custom of the holy community of the Jews of Pressburg, yts"v[foot]<span class="hebrew">יִשְׁמְרֵיהוּ צוּרוֹ וִיחַיֵּהוּ</span> “May their Rock keep them and grant them life.” Kehilat Ḳodesh Pressburg, a/k/a Pozsony/Bratislava, the capital of Slovakia[/foot]]
 </div></td></tr>
 
 

@@ -1,13 +1,13 @@
 <html>
 <head></head>
 <body>
-Title: סליחה מר׳ יצחק אבן גיאת | Seliḥah by Yitsḥak ben Yehudah Ibn Ghayyat (ca. 11th century) translated by Reb Zalman Schachter-Shalomi z"l<br />
+Title: סליחה מר׳ יצחק אבן גיאת | Seliḥah by Yitsḥaq ben Yehudah Ibn Ghayyat (ca. 11th century) translated by Reb Zalman Schachter-Shalomi z"l<br />
 Primary contributor: zalman.schachter-shalomi<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=17543">http://opensiddur.org/?p=17543</a>
 <p />
 <hr />
 
-The following love poem is one of the Selihot recited between Rosh Hashanah and Yom Kippur. Ibn Gayat (1038 – 1089) was not timid about using the most intimate symbols in asking God to become reconciled with us.
+The following love poem is one of the Seliḥot recited between Rosh Hashanah and Yom Kippur. Ibn Gayat (1038 – 1089) was not timid about using the most intimate symbols in asking God to become reconciled with us.
 
 <hr />
 

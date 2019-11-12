@@ -82,7 +82,7 @@ and those who are still at risk of losing their homes.[foot]Yizkor prayer for Na
 May their prayers be heard 
 so that families be re-united in the land of their ancestors, 
 and they can return in happiness to their land 
-and in joy to their homes,[foot]Cf. Festival day Kiddush, "בְּשִׂמְחָה וּבְשָׂשׂוֹן הִנְחַלְתָּנוּ"[/foot]&nbsp; 
+and in joy to their homes,[foot]Cf. Festival day Ḳiddush, "בְּשִׂמְחָה וּבְשָׂשׂוֹן הִנְחַלְתָּנוּ"[/foot]&nbsp; 
 in the cities, in the villages, and outside the villages. 
 </div></td>
 </tr>

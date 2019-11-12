@@ -76,7 +76,7 @@ Rabbi Yehudah said, “One should delight on this day, eating three meals on Sha
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Rabbi Abba said, “To couple with those days above, blessed by this day. On this day the head of the Zer Anpin/Short-Tempered One is filled with dew descending from the Atiqa Qadisha/Holy Ancient One, concealed of all, and He casts it into the Ḥaqal Tapuḥin Qadishin/Holy Apple Orchard three times once Shabbat enters, so that all are blessed as one.”
+Rabbi Abba said, “To couple with those days above, blessed by this day. On this day the head of the Zer Anpin/Short-Tempered One is filled with dew descending from the Atiqa Ḳadisha/Holy Ancient One, concealed of all, and He casts it into the Ḥaqal Tapuḥin Ḳadishin/Holy Apple Orchard three times once Shabbat enters, so that all are blessed as one.”
 </div></td></tr>
 
 

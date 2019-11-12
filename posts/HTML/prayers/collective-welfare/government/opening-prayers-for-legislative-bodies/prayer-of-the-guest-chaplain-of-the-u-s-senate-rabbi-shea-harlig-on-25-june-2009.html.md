@@ -100,7 +100,7 @@ we are 15 years--to the day--
 from the passing of our esteemed spiritual leader, 
 the Lubavitcher Rebbe, Rabbi Menachem Mendel Schneerson, of blessed memory, 
 who consistently extolled the virtues of this great land 
-as a "Nation of Kindness."
+as a "Nation of Kindness."[foot]lit. <em>medina shel ḥesed</em>.[/foot] 
 </div></td></tr>
 
 

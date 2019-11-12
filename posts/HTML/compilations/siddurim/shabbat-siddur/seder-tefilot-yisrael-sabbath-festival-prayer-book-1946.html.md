@@ -1,0 +1,106 @@
+<html>
+<head></head>
+<body>
+Title: סדר תפילות ישראל (אשכנז)‏ | Seder Tefilot Yisrael: Sabbath and Festival Prayer Book, compiled by the Rabbinical Assembly & United Synagogue of America (1946)<br />
+Primary contributor: aharon-nissen.varady<br />
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=15128">http://opensiddur.org/?p=15128</a>
+<p />
+<hr />
+
+&nbsp;
+
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.archive.org/stream/SederTefilotYisraelRabbinicalAssemblyOfAmerica1946#page/n02/mode/2up"]
+
+<em>Siddur Tefilot Yisrael</em> (Sabbath &amp; Festival Prayer Book), based upon a manuscript of Rabbi Morris Silverman, was widely used in Conservative synagogues until the late 1980s and remains a favorite prayerbook for many who grew up using it.
+
+This work is in the Public Domain due to the lack of a copyright renewal by the copyright holder listed in the copyright notice (a condition required for works published in the United States between January 1st 1924 and January 1st 1964).
+
+This work was scanned by Aharon Varady for the Open Siddur Project from a volume held in the collection of the Varady family, Cincinnati, Ohio. (Thank you!) This work is cross-posted to the Internet Archive, as a repository for our transcription efforts.
+
+Scanning this work (making digital images of each page) is the first step in a more comprehensive project of transcribing each prayer and associating it with its translation. You are invited to participate in this collaborative transcription effort!
+
+<hr />
+
+<div class="english" style="font-size: 1.2em;">
+This Sabbath and Festival Prayer Book is presented with the hope that it will serve the needs of all who are striving to perpetuate traditional Judaism in the modern spirit. 
+
+FOREWORD
+
+The past century and a half has witnessed a number of attempts to achieve a living synthesis of the old and the new, of Jewish tradition and the contemporary scene. To attain this goal in the realm of public and private worship, a number of teachers of Conservative Judaism during the past few decades published prayer books for the various occasions of the year under individual auspices. The only collective enterprise in the field was the United Synagogue Festival Prayer Book, undoubtedly the most attractive traditional Mahzor hitherto issued. As time went on, it was increasingly recognized that the principles and techniques of a traditional Prayer Book for the modern age needed to be reconsidered. Everywhere the conviction grew that the time was ripe for the issuance of a Prayer Book that would express the viewpoint of Conservative Judaism and bear the official imprint of the Rabbinical Assembly of America, representing the spiritual leadership of the movement and of the United Synagogue, the lay congregational organization. 
+
+This goal might have long remained unrealized were it not for the fortunate circumstance that Rabbi Morris Silverman of Hartford, Conn, who had been working in the field for many years, had prepared a manuscript for a Sabbath and Festival Prayer Book containing a new English translation, much supplementary material and original prayers. In his work he had drawn upon the counsel and aid of many of his colleagues and of several distinguished scholars, notably Professors Louis Ginzberg and H. L. Ginsberg of the Jewish Theological Seminary of America, to whom we wish to record our grateful acknowledgment, though responsibility for the final form of the work attaches to the Joint Prayer Book Commission alone, as is indicated below. 
+
+In the Fall of 1944, the Rabbinical Assembly and United Synagogue agreed to adopt Rabbi Silverman’s manuscript as the basis for a Prayer Book to be issued jointly by them. A Commission was created by the two bodies, with authority to revise, supplement and edit the material. This Joint Prayer Book Commission consisted of the following rabbis: 
+
+Robert Gordis, Chairman 
+Morris Silverman, Editor 
+Max Arzt, Secretary 
+Simon Greenberg 
+Jacob Kohn 
+Israel H. Levinthal 
+Louis M. Levitsky 
+Abraham A. Neuman 
+Elias L. Solomon 
+
+The procedure adopted by the Commission was as follows: The members of the Commission met at frequent intervals, for the study and consideration of the Hebrew text and the English version in the light of previous efforts in the field, the best available scholarship and our own approach to Jewish tradition. Research on special points and the preparation of supplementary notes were undertaken by individual members whose names are indicated in the Index. To expedite the work, a special sub-committee consisting of Rabbis Arzt, Gordis and Silverman met between plenary sessions. The Commission voices its deep gratitude to Rabbi Silverman who, as Editor, undertook the onerous task of seeing the manuscript through the press. 
+
+Three fundamental principles guided the Commission in the preparation of this prayerbook:[foot]For a more detailed treatment of the principles and techniques of procedure required in preparing a modern traditional ritual, see Robert Gordis, “A Jewish Prayer Book for the Modern Age,” in Conservative Judaism, Oct. 1945.[/foot] 
+
+First is the principle of continuity with tradition. Continuity is important for every faith and culture, but infinitely more so for Judaism. This is true not only because, as Ranke declared, Jews are the most historical of peoples, but also because loyalty to tradition is the strongest bulwark against the centrifugal forces that threaten Jewish survival everywhere. This emphasis upon maintaining tradition is no blind ancestor worship. Whatever other virtues our generation may possess, it cannot pretend to a genius for religious expression, a gift which is so beautifully exemplified in the traditional Prayer Book. This consideration does not free us from the obligation to strive perpetually after fresh and creative devotional forms. But it should prevent us from rashly laying hands on the product of the piety of earlier generations. 
+
+Relevance to the needs and ideals of our generation is the second basic principle. A Prayer Book is not a museum piece. It must express our own aspirations, and not merely those of our ancestors, however much we may revere them. This problem of relevance has two aspects. There are modern ideals that are expressed inadequately or too briefly in the traditional liturgy. This lack can be met with relative ease by supplementing the accepted service and thus incidentally stimulating religious and literary activity. The second and more difficult aspect lies in the fact that there are passages in the traditional Prayer Book that no longer seem to express the convictions and hopes of our day. Such passages require sympathetic study and skillful treatment in order to be made relevant to our age. 
+
+Intellectual integrity, the third criterion for a modern Jewish Prayer Book, demands that we do not seek to deny or evade the difficult problem of bringing tradition into focus with contemporary life. Thus, we cannot take refuge in the procedure of printing a traditional Hebrew text and a parallel English version that has little or nothing in common with the original. 
+
+These basic principles, continuity with tradition, relevance to the modern age, and intellectual integrity, are obviously not easy to harmonize. The extent to which one or another principle ought to prevail in a given case will naturally be the subject of differences of opinion. Our procedure has varied with the circumstances involved in each instance. 
+
+In many cases, apparent divergences of outlook between tradition and the modern age disappear when the true intent of the Prayer Book is grasped and its mode of expression is understood. The concept of Israel as a people chosen by God which is so prominent in Jewish tradition, is a striking case in point. To eliminate it from the Prayer Book because it has been vulgarized and misunderstood in some circles would mean surrendering to error and incidentally perpetrating an injustice upon the prophets and sages of Israel who understood the concept aright. 
+
+Moreover, in affirming God’s election of Israel, we stand on solid historical ground. The great religions of Christianity and Islam, the modern humanitarian ideals and the basic principles of democracy are all rooted in the Hebrew Bible. They testify to the central role that Israel has played in the religious and ethical development of Western man. 
+
+Recalling this historical truth is no mere concession to group vanity. If our generation is to accept loyalty to Judaism willingly and joyously, notwithstanding the disabilities of Jewish life and the many temptations to desert the fellowship of Israel, it requires a sense of consecration, a conviction that the Jewish people has played and yet will play a noble and significant role in the world. They must feel that Jewish loyalty is nothing petty and insular, but that on the contrary, it ministers to the progress of humanity. This concept is therefore a psychological necessity as well as a historical truth, and therefore, an indispensable factor for Jewish survival today. 
+
+Besides, the idea of the election of Israel is invariably linked in Judaism with the great instruments of Jewish living, the Torah and the Mitzvot. In every instance, the Prayer Book associates the election of Israel, not with any inherent personal or group superiority, but with the higher responsibilities which come to the Jew as the custodian of Torah and the devotee of the Jewish way of life. This is no modern reinterpretation, but an instance of the correct understanding of both the letter and the spirit of tradition. 
+
+There are, to be sure, instances where the modern attitude varies from the traditional understanding of a concept. Often, it is possible to reinterpret traditional phrases in order to express our own convictions. Thus, the word abodah which in Hebrew means “religious worship” was referred by our ancestors to public worship in the Temple which centered about the sacrificial system. The word may quite properly mean for us the entire system of public religious worship. Nor need the prayer for the re-establishment of a great religious center in Jerusalem include for us, as it did for our fathers, the hope for the restoration of the sacrifices. The same connotation exists in the Festival Musaf prayer <em>Vehashev Kohanim L’avodatam U’Leviim Leshiram U’lezimrant</em>, etc. There our rendering voices our aspiration for the restoration of Temple worship on Mount Zion with the Kohanim pronouncing the Priestly benediction and the Levites offering song and psalmody as elements in the historical continuity of Israel’s religion. The rendering of the phrase <em>mehayyai hametim</em> “who calls the dead to everlasting life” is linguistically sound and rich in meaning for those who cherish the faith in human immortality, as much as for those who maintain the belief in resurrection. It may be added that the older rendering of this phrase is itself a reinterpretation of a still older Biblical idiom. 
+
+In all our striving for intellectual integrity and historical truth, it must not be forgotten that the Prayer Book is couched in poetry and not in prose. It must be approached with warm emotion and not in a mood of cold intellectuality. Thus, the emphasis in the Prayer Book upon the Messiah need not mean for us the belief in a personal redeemer, but it serves superbly as the poetic and infinitely moving symbol of the Messianic age. To have eliminated reference to the Messiah from the Prayer Book would have meant the impoverishment of the Jewish spirit, the loss of one of the most picturesque elements of Jewish belief, culture, music and art. The Prayer Book, like all poetry and truth, has things in it too exalted for literalness. 
+
+There will naturally be instances, however, where re-interpretation is impossible and the traditional formulation cannot be made to serve our modern outlook. Such pre-eminently are the passages dealing concretely with animal sacrifices. Passages like <em>ezehu mekoman</em> and <em>pittum haketoret</em> or the phrase <em>v’ishei Yisrael</em> “the fire offerings of Israel in “<em>Retzeh</em>,” can be dropped without injuring the rubric of the service. The deletion of the Musaf service as a whole, however, would mean destroying the entire structure of the traditional liturgy, besides eliminating several valuable ideas and aspirations from the Prayer Book. Primarily, the Musaf service voices our hope for the restoration of Palestine as the homeland of the Jewish people. But that is not all. Also implied in the prayer is the recognition that sacrifice is essential for the fulfillment of all human ideals. Then too, we cherish the hope that Palestine will again become significant not only for Israel but for the spiritual life of mankind as a whole. Finally, it is characteristic of Judaism to recall the sacrificial system which represents a legitimate stage in the evolution of Judaism and religion generally. As Israel Abrahams wrote, “This is the virtue of a historical religion, that the traces of history are never obliterated. . . . The lower did not perish in the birth of the higher, but persisted.” For all these reasons, neither the deletion of the Musaf nor its retention unchanged would satisfy the basic principles of a Jewish Prayer Book for the modern age. 
+
+The Prayer Book Commission accordingly decided upon the following procedure. Both <em>Tikkanta Shabbat</em> and <em>Umipne Hata'enu</em> are retained as a reminiscence of Israel’s glorious past by changing the tense of two verbs and a few other minor modifications. The other ideas we wished to express are embodied in a Bakashah preceding <em>Tikkanta Shabbat</em> and <em>Umipne Hata'enu</em>. Both for the sake of variety and in order to interpret the distinctive spirit of the Sabbath and the different Festivals, two distinct Bakashot have been included. 
+
+Another section of the Prayer Book where re-interpretation did not suffice is to be found in the Preliminary Blessings <em>shelo asani goy, ebhed, ishah</em>. As their position near the benedictions dealing with the Torah indicates, these blessings express the sense of privilege that the Jew felt in being able to fulfill the Torah and the Mitzvot, which were not obligatory in equal measure for non-Jews, slaves and women. However, the negative form in which these blessings are couched caused Jewish leadership much concern through the ages. Supported by the trend of tradition, the Commission decided to rephrase the blessings in the positive form. 
+
+In a few instances, the traditional text was made more relevant to our aspirations by adding brief supplementary phrases. Thus, the Babylonian prayer, <em>Yekum Purkan</em> with its prayer for the welfare of the scholars preserves a noble Jewish tradition appropriate to our age, in spite of its archaic flavor. All that was required was the addition of the phrase <em>bekhol arat galvatana</em> “and in all the lands of our dispersion.” In the following blessing, Mishebarah la’avo-tenu, we have added the phrase <em>ubhebhinyan eretz yisrael</em> "for the upbuilding of Palestine” to express our conviction that therein lies one of the great mitzvot of Judaism today. 
+
+In Sim Shalom, the concluding blessing of the Amidah, it was felt that the universal note should be made more explicit. Basing itself upon a reading in the Siddur of Rabbenu Saadya Gaon <em>sim shalom ba'olam</em>, the Commission therefore has amplified the passage to read: <em>sim shalom tovah ubrakhah ba'olam hen vahesed v'rahamim alenu v'al kol yisrael amekha</em>. 
+
+The creative approach to tradition means not only the surrender of out-worn material and the reinterpretation of what can still be made viable, but also the enrichment of the Prayer Book by new material. Consequently, a large number of supplementary readings, both for unison and congregational reading, have been included. This material, both in prose and verse, is drawn from all ages of Jewish experience and is concerned with all the fundamental elements of Israel’s life and thought. These readings may be integrated with the weekly Sidrah or the sermon themes. In addition, many of them are appropriate for the special occasions of the year. To this end, a list of suggestions for such use will be found in the back of the volume. The sources for all the supplementary readings are indicated in a special Index. 
+
+While the content of the Prayer Book is naturally our first concern, the form is scarcely less important. Here, too, certain principles and techniques emerged in the course of the work. 
+
+A modern Prayer Book should contain as accurate a text as possible and here S. Baer’s Abodat Israel has been generally followed. The excellent innovation of the United Synagogue <a href="https://opensiddur.org/compilations/mahzorim/mahzor-lshalosh-regalim-festival-prayer-book-the-united-synagogue-of-america-1927/">Mahzor</a> of printing Biblical poetry in verse form has been adopted and even extended. The various sections of the service as well as necessary directions have been indicated for the guidance of congregations and individuals. 
+
+Hebrew and English differ radically in spirit and structure and a literal translation is often a distortion of the meaning. Thus much of the objection raised to the concept of the Chosen People is due to a failure to recognize the intent of the Hebrew text, which uses a coordinate clause where English uses a subordinate construction. Nor is this all. Hebrew is an Oriental language abounding in imagery. The use of many synonyms, which was stimulated by Biblical parallelism, is a characteristic feature. To eliminate these synonyms in the Hebrew means to commit the literary sin of judging Hebrew style by Western standards. On the other hand, to translate them all violates the spirit of the English language. Obviously, a briefer formulation is required in the English, while the Hebrew text requires no change. In general, the reader deserves an idiomatic English version exactly as the worshipper requires an authentic Hebrew text. Hence long phrases may be shortened, the word-order may be varied and the syntax modified when necessary. The changes of person and number that are characteristic of Biblical literature and hence are frequent in the Prayer Book should be brought into harmony with one another in the English. For the requirements of an English version are that it be clear, succinct and true to the meaning and spirit of the original. 
+
+A comment is in order on the treatment of the Biblical passages in the Prayer Book. Since the issuance of the excellent Jewish Publication Society Version of the Holy Scriptures in 1917, Biblical studies have made considerable progress. This improved understanding of the Book of Books should be registered in Jewish life and thought and nowhere more effectively than through the Prayer Book, which is pre-eminently the possession of the people. To be sure, the Masoretic text which has been hallowed through centuries should not be emended in a work intended for popular use, but the English version offers an excellent opportunity for new and better interpretations. A few examples in our translation out of many are Num. 10:36, Ps. 29:9; 90:5; 116:15; 19; 135:9; 147:17. 
+
+Finally, practical utility has been taken into account at many points. The Minhah and Maariv services for weekdays have been added to the Prayer Book to make its use convenient at the inauguration and the conclusion of Sabbaths and Festivals. Hebrew and English hymns have been included for the further enrichment of the service. 
+
+The Prayer Book is a repository of a rich religious culture, and therefore cannot be understood or appreciated without a background of Jewish knowledge. This is supplied by brief introductory notes at important points of the service as well as by titles for some prayers. Where a subject requires more extensive treatment, supplementary notes have been added. The themes treated include the Shema, the Preliminary Blessings, Sacrifices in Judaism, the Chosen People and the Messiah idea in Israel. 
+
+A number of other innovations that will aid, we hope, in the fruitful use of the Prayer Book have been introduced in the content, form and arrangement of the Hebrew text and in the character of the English version. 
+
+Conscious of our limitations, the members of the Prayer Book Commission venture to hope that this Prayer Book may help advance the great cause of spiritual revival in American Israel. We have sought to keep before us the ideal proclaimed by Chief Rabbi Kook of blessed memory, <em>hayashan yithadesh, hahadash yitkadesh</em>, “The old must be renewed and the new become sacred.” For the privilege of sharing in this enterprise, we are humbly thankful to Almighty God. 
+
+Robert Gordis, 
+Chairman, 
+Joint Prayer Book Commission
+[Rabbinical Assembly of America
+United Synagogue of America]
+</div>
+
+&nbsp;
+</body>
+</html>

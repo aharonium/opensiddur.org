@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: הכרזת יום הבחירות | Declaration for Election Day, by Rabbi Oded Mazor<br />
+Title: הכרזת יום הבחירות | Declaration for Israeli Election Day, by Rabbi Oded Mazor<br />
 Primary contributor: oded.mazor<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=10758">http://opensiddur.org/?p=10758</a>
 <p />
@@ -85,7 +85,7 @@ I call heaven and earth to witness against you this day, that I have set before 
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-
+Brothers and sisters in the House of Israel, hear: The elections for the Israeli Knesset will be on Tuesday, (enter date) may it come for the good. May the blessed Holy One make for Israel a day of gladness, rejoicing, and a good occasion. And may truth and peace be as one:
 </div>
 </td></tr>
 
@@ -113,7 +113,7 @@ Who is the man that desireth life, and loveth days, That he may see good therein
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-
+May it be your will, Shekhinah source of our life, that you renew the Knesset of Israel for goodness and for blessing, and that you grant upon us a new Knesset (lit. gathering) of Israel for good and blessing. May you give us a long life in its days of ruling and leading. A life of peace, a life of good, a life of blessing, a life of sustenance, a life of <em>hiluts atsamot</em> (pioneering endeavours). A life that is full of awe of the heavens and fear of sin. A life that has no shame. A life of respect and honesty. A life in which we will have love of people, the earth, and Torah. A life in which the wishes of our hearts will be fulfilled for good. <em>Amen</em>, so may it be.
 </div>
 </td></tr>
 
@@ -126,7 +126,7 @@ Who is the man that desireth life, and loveth days, That he may see good therein
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-
+May she who gave from her knowledge to those of flesh and blood and dealt the nation of Israel wise and worthy leaders sow intelligence, wisdom, and logic in our hearts as we stand as electors. All of Israel are kin (lit. friends), and may we say, <em>amen</em>.
 </div>
 </td></tr>
 
@@ -139,7 +139,7 @@ Who is the man that desireth life, and loveth days, That he may see good therein
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-
+May the years of ruling by the 20th Knesset of Israel be brought upon us and upon all the people of Israel, wherever they may be, by the blessed Holy One. For good and for benediction, for life and for peace, for good tidings and declarations, for the rains in their times, for full recovery, and for a close/near salvation, and may we say <em>amen</em>.
 </div>
 </td></tr>
 </tbody></table>

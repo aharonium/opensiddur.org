@@ -68,7 +68,7 @@ Awaken Binyamin, son of Yaakov our father. Stand at the right hand of your mothe
 
 <hr />
 
-To the best of my ability, this is a faithful transcription of the תְּחִנָה לְשַׁבָּת מְבָרְכִים רֹאשׁ חוֺדֶשׁ מַרְחֶשְׁוָן ("Tkhine for Shabbat Mevorkhim Rosh Ḥodesh Marḥeshvan") which appeared in תחנות מקרא קודש (<em>Teḥinot Miqra Qodesh</em>, Widow and Brothers Romm, Vilna 1877) before its adaptation in <em>Shas Tkhine Ḥadashe</em>, the source from which this translation was made. English translation adapted slightly from <em>Techinas: A Voice from the Heart "As Only A Woman Can Pray"</em> by Rivka Zakutinsky (Aura Press, 1992). --A.N. Varady
+To the best of my ability, this is a faithful transcription of the תְּחִנָה לְשַׁבָּת מְבָרְכִים רֹאשׁ חוֺדֶשׁ מַרְחֶשְׁוָן ("Tkhine for Shabbat Mevorkhim Rosh Ḥodesh Marḥeshvan") which appeared in תחנות מקרא קודש (<em>Teḥinot Miqra Ḳodesh</em>, Widow and Brothers Romm, Vilna 1877) before its adaptation in <em>Shas Tkhine Ḥadashe</em>, the source from which this translation was made. English translation adapted slightly from <em>Techinas: A Voice from the Heart "As Only A Woman Can Pray"</em> by Rivka Zakutinsky (Aura Press, 1992). --A.N. Varady
 
 <h3>Source</h3>
 

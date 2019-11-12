@@ -43,6 +43,6 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <hr />
 
-This prayer is based on the personal prayer said on holidays before Torah reading. The grammar has been adapted as plural rather than singular, so that the couple says the prayer together before their ritual of <em>Kiddushin</em> (betrothal).
+This prayer is based on the personal prayer said on holidays before Torah reading. The grammar has been adapted as plural rather than singular, so that the couple says the prayer together before their ritual of <em>Ḳiddushin</em> (betrothal).
 </body>
 </html>

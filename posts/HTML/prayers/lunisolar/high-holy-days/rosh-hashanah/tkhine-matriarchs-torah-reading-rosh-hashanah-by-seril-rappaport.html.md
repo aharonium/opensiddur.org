@@ -31,7 +31,7 @@ On Rosh Hashanah one should say the following, three times:
 </span></div></td>
  
 <td width="53%"><div class="english">
-Master of the Cosmos, I depend upon your thirteen attributes which are purest compassion. I stand before you and beseech your Holy Name, that just as we open the door of the Aron haKodesh to take out the holy Sefer Torah, so will you open your gates of compassion and forgive us our sins which we have committed against you. Just as we have dressed your holy Sifrei Torah in white mantles,[foot]Per custom. Compare with the custom of wearing a white kittle.[/foot] so may you make white the stains upon our souls that we have stained with our sins. As the verse says: ‘Though your sins be like scarlet threads, I will make them white.”[foot]Cf. Isaiah 1:18[/foot]
+Master of the Cosmos, I depend upon your thirteen attributes which are purest compassion. I stand before you and beseech your Holy Name, that just as we open the door of the Aron haḲodesh to take out the holy Sefer Torah, so will you open your gates of compassion and forgive us our sins which we have committed against you. Just as we have dressed your holy Sifrei Torah in white mantles,[foot]Per custom. Compare with the custom of wearing a white kittle.[/foot] so may you make white the stains upon our souls that we have stained with our sins. As the verse says: ‘Though your sins be like scarlet threads, I will make them white.”[foot]Cf. Isaiah 1:18[/foot]
 </div></td></tr>
 
 
