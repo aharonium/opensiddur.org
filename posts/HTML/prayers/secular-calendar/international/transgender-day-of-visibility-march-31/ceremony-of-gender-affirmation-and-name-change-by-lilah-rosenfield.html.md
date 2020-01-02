@@ -38,7 +38,7 @@ This ceremony was remarkably meaningful to me. I hope others find the same spiri
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<em>Transitioner lights Havdalah candle.</em>
+<span class="instruction">Transitioner lights Havdalah candle.</span>
 </div></td></tr>
 
 
@@ -49,7 +49,7 @@ This ceremony was remarkably meaningful to me. I hope others find the same spiri
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-[<em>Transitioner can explain that the Havdalah candle marks a moment of passage. Both end and beginning.</em>]
+<span class="instruction">[Transitioner may explain that the Havdalah candle marks a moment of passage. Both end and beginning.]</span>
 </div></td></tr>
 
 
@@ -60,7 +60,7 @@ This ceremony was remarkably meaningful to me. I hope others find the same spiri
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<em>Transitioner says (in English):</em>
+<span class="instruction">Transitioner says (in English):</span>
 &nbsp;
 Our God, and God of our ancestors, 
 I stand here today to mark a transition. 
@@ -172,7 +172,7 @@ instructed by the hidden Jewish legacy of gender complexity and by your word).
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<em>Parents or Close Jewish Mentor figure(s) say:</em> 
+<span class="instruction">Parents or Close Jewish Mentor figure(s) say:</span> 
 &nbsp;
 Our God and God of our ancestors, 
 bless and sustain this [woman/man/nonbinary person]&nbsp;
@@ -204,7 +204,7 @@ And let us say, <em>Amen</em>.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<em>Transitioner:</em>
+<span class="instruction">Transitioner:</span>
 &nbsp;
 Brukhah at 
 YAH haShekhinah, 
@@ -248,7 +248,7 @@ Up until now my Hebrew name has been [old Hebrew name],
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-[optionally talk about the old name]. 
+<span class="instruction">[optionally talk about the old name]</span> 
 </div></td></tr>
 
 
@@ -274,7 +274,7 @@ and the name by which I shall be known for all Jewish life-cycle events.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-[optionally talk about the significance of the name] 
+<span class="instruction">[optionally talk about the significance of the name]</span>
 </div></td></tr>
 
 
@@ -311,7 +311,7 @@ I have asked [Parents/Trusted Jewish Mentor figures (s)]&nbsp;
 [to talk about my name, then]&nbsp;
 to confer my name upon me with their blessing.
 &nbsp;
-[Either you or your mentor may talks about the meaning/significance of your name] 
+<span class="instruction">[Either you or your mentor may talk about the meaning/significance of your name]</span>
 </div></td></tr>
 
 
@@ -327,7 +327,7 @@ to confer my name upon me with their blessing.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<em>All assembled make the following blessing:</em>
+<span class="instruction">All assembled make the following blessing:</span>
 &nbsp;
 Barukh atah 
 Adonai eloheinu 
@@ -339,7 +339,7 @@ YHVH (Adonai) our god,
 ruler of the universe,
 creator of the fruit of the vine.
 &nbsp;
-<em>Drink!</em>
+<span class="instruction">Drink!</span>
 </div></td></tr>
 
 
@@ -350,7 +350,7 @@ creator of the fruit of the vine.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-[Jewish friends/mentors read each of the following lines]&nbsp;
+<span class="instruction">[Jewish friends/mentors read each of the following lines]</span>&nbsp;
 Adonai, God of our Ancestors, 
 sustain this [child/man/woman/nonbinary person]. 
 In the presence of loved ones, 
@@ -394,7 +394,7 @@ Joy, and acts of kindness.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<em>All together, say:</em>
+<span class="instruction">All together, say:</span>
 &nbsp;
 May we all share in the joy of seeing this [young] [Woman/Man/Person]&nbsp;
 continue to grow [into adulthood], 
@@ -413,7 +413,7 @@ And let us say, <em>Amen</em>.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<em>extinguish havdalah candle in wine</em>
+<span class="instruction">extinguish havdalah candle in wine</span>
 </div></td></tr>
 
 
@@ -431,7 +431,7 @@ And let us say, <em>Amen</em>.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<em>Together, recite the following blessing:</em>
+<span class="instruction">Together, recite the following blessing:</span>
 &nbsp;
 Barukh ata 
 Adonai Eloheinu 
@@ -455,7 +455,7 @@ and brought us to this joyous time.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<em>Individual parent/Jewish Mentor Figure:</em>
+<span class="instruction">Individual parent/Jewish Mentor Figure:</span>
 &nbsp;
 I offer the following benediction to [Name], 
 and use the same holy words 
@@ -477,7 +477,7 @@ to bless the ancient tribes of our people:
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<em>For a woman, say:</em>
+<span class="instruction">For a woman, say:</span>
 &nbsp;
 May you be like Sarah, Rivqah, Raḥel, and Le'ah
 &nbsp;
@@ -500,7 +500,7 @@ May God show you kindness and grant you peace.[foot]Cf. Numbers 6:24-26.[/foot]
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<em>For a man, say:</em>
+<span class="instruction">For a man, say:</span>
 &nbsp;
 May you be like Ephraim and Menashe
 &nbsp;
@@ -523,7 +523,7 @@ May God show you kindness and grant you peace.[foot]Numbers 6:24-26.[/foot]
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<em>For a nonbinary person, say:</em>
+<span class="instruction">For a nonbinary person, say:</span>
 &nbsp;
 May you be like Adam and Sarai and Yosef,
 &nbsp;

@@ -1,8 +1,8 @@
 <html>
 <head></head>
 <body>
-Title: קדיש יתום בלי מנין או אם לבד (אשכנז)‏ | Abbreviated, Personal Mourner's Kaddish for when Praying Alone or Without a Minyan (Nusaḥ Ashkenaz), by Isaac Gantwerk Mayer<br />
-Primary contributor: isaac.gantwerk-mayer<br />
+Title: קדיש יתום בלי מנין או אם לבד (אשכנז)‏ | Abbreviated, Personal Mourner's Ḳaddish for when Praying Alone or Without a Minyan (Nusaḥ Ashkenaz), by Isaac Gantwerk Mayer<br />
+Primary contributor: isaac-gantwerk.mayer<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=27234">http://opensiddur.org/?p=27234</a>
 <p />
 <hr />

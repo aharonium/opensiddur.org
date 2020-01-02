@@ -20,7 +20,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 וְעָלַ֙יִךְ֙ יִזְרַ֣ח יְהוָ֔ה 
 וּכְבוֹד֖וֹ עָלַ֥יִךְ יֵרָאֶֽה׃
 וְהָלְכ֥וּ גוֹיִ֖ם לְאוֹרֵ֑ךְ 
-וּמְלָכִ֖ים לְנֹ֥גַהּ זַרְחֵֽךְ׃
+וּמְלָכִ֖ים לְנֹ֥גַהּ זַרְחֵֽךְ׃ <span class="citation">(ישעיה ס:א-ג)</span>
 </span></div></td>
 
 <td style="vertical-align:top;"><div class="english">
@@ -45,7 +45,7 @@ Nations will walk by your light,
 לֹא־יָב֥וֹא עוֹד֙ שִׁמְשֵׁ֔ךְ 
 וִירֵחֵ֖ךְ לֹ֣א יֵאָסֵ֑ף 
 כִּ֣י יְהוָ֗ה יִֽהְיֶה־לָּךְ֙ לְא֣וֹר עוֹלָ֔ם 
-וְשָׁלְמ֖וּ יְמֵ֥י אֶבְלֵֽךְ׃
+וְשָׁלְמ֖וּ יְמֵ֥י אֶבְלֵֽךְ׃ <span class="citation">(ישעיה ס:יט-כ)</span>
 </span></div></td>
 
 <td style="vertical-align:top;"><div class="english">
@@ -96,6 +96,6 @@ The translation provided here (published in <a href="https://opensiddur.org/comp
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.archive.org/stream/SiddurHaAvodahSheBaLevLShabbatKehilatKolHaneshama2007#page/n26/mode/2up"]
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.archive.org/stream/SiddurLivnatHaSapirForWelcomingTheShabbatAharonVarady2017#page/n110/mode/2up"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.archive.org/stream/SiddurLivnatHaSapirForWelcomingTheShabbatAharonVarady2017#page/n112/mode/2up"]
 </body>
 </html>

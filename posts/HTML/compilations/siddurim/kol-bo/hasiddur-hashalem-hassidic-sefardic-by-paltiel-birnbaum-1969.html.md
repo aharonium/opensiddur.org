@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: הסדור השלם (נוסח האר״י)‏ | Ha-Siddur Ha-Shalem (Ḥassidic-Sefardic), a bilingual Hebrew-English prayerbook translated and annotated by Paltiel Birnbaum (1969)<br />
+Title: הסדור השלם (נוסח האר״י)‏ | HaSiddur HaShalem (Ḥassidic-Sefardic), a bilingual Hebrew-English prayerbook translated and annotated by Paltiel Birnbaum (1969)<br />
 Primary contributor: aharon-nissen.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=27810">http://opensiddur.org/?p=27810</a>
 <p />

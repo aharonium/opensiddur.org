@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: סדר התפלות לפסח ולשבועות (ספרד)‏ | Seder haTefilot l'Pesaḥ u'l'Shavuot, translated by Rabbi David de Aaron de Sola (1835/1852), edited and revised by Moses Gaster (1906)<br />
+Title: סדר התפלות לפסח ולשבועות (ספרד)‏ | Seder haTefilot l'Pesaḥ u'l'Shavuot, edited and revised by Moses Gaster (1906)<br />
 Primary contributor: aharon-nissen.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=27800">http://opensiddur.org/?p=27800</a>
 <p />

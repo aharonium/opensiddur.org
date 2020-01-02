@@ -79,7 +79,7 @@ is engraved in bold letters "In God We Trust.''
 Grant, Almighty God,
 that the Senators realize 
 that in legislating just laws 
-they are fulfilling one of the seven commandments 
+they are fulfilling one of the seven commandments[foot]Sanhedrin 56a; cf. Tosefta Avodah Zarah 8:4 and Genesis Rabbah 34:8. Six items were commanded to Adam: concerning idolatry, blasphemy, bloodshed, illicit sexuality, theft, and laws…God added to Noah, the law of not eating from the flesh of a live animal.” (Maimonides, Laws of Kings 9:1). The impetus behind sharing the sheva mitsvot in the context of ḤaBaD Lubavitch originates with the following teaching of Rabbi Menachem Mendel Schneerson: "We must do everything possible to ensure that the seven Noahide laws are observed. If this can be accomplished through force or through other kinder and more peaceful means through explaining to non-Jews that they should accept God’s wishes [we should do so]…Anyone who is able to influence a non-Jew in any way to keep the seven commandments is obligated to do so, since that is what God commanded Moses our teacher," (“Sheva Mitzvot Shel Benai Noach,” Hapardes 59:9 7-11, 5745).[/foot]&nbsp; 
 which You issued to Noah and his family 
 after the great flood 
 as related in the book of Genesis and its sacred commentaries--

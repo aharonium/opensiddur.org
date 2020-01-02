@@ -2,7 +2,7 @@
 <head></head>
 <body>
 Title: ברכו בלי מנין או אם לבד (אשכנז)‏ | Barkhu replacement for when Praying Alone or Without a Minyan (Nusaḥ Ashkenaz), by Isaac Gantwerk Mayer<br />
-Primary contributor: isaac.gantwerk-mayer<br />
+Primary contributor: isaac-gantwerk.mayer<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=27246">http://opensiddur.org/?p=27246</a>
 <p />
 <hr />

@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-Ḥesed uMishpat Ashirah Lekha is a nusaḥ Ashkenaz bentsher (birkon) containing the birkat hamazon (blessing after meals) with sheva b'rakhot and child welcoming additions, kiddush for Shabbat and holidays, Shabbat songs, and other songs. The Sheva B'rakhot includes options for both same-sex and opposite-sex couples. It is fully transliterated and translated into English, taking care to avoid gendered pronouns: "they" pronouns are used for people, and pronouns are not used for God.
+Ḥesed uMishpat Ashirah Lekha is a nusaḥ Ashkenaz bentsher (birkon) containing the birkat hamazon (blessing after meals) with sheva b'rakhot and child welcoming additions, ḳiddush for Shabbat and holidays, Shabbat songs, and other songs. The Sheva B'rakhot includes options for both same-sex and opposite-sex couples. It is fully transliterated and translated into English, taking care to avoid gendered pronouns: "they" pronouns are used for people, and pronouns are not used for God.
 
 The bentsher is based on the <a href="https://opensiddur.org/compilations/birkonim/kol-yoshvei-tevel-the-l-and-l-wedding-bentcher-by-lara-chausow-and-lauren-weiss/">"כל יושבי תבל" (Kol Yoshvei Tevel) L&amp;L bentsher</a> compiled by Lara Chausow amd Lauren Weiss, and designed by Hillel Smith.
 

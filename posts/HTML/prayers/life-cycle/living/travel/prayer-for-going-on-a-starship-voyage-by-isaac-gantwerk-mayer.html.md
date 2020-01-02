@@ -2,7 +2,7 @@
 <head></head>
 <body>
 Title: תפילת הדרך באניית הכוכבים | Prayer for Going on a Starship Voyage, by Isaac Gantwerk Mayer<br />
-Primary contributor: isaac.gantwerk-mayer<br />
+Primary contributor: isaac-gantwerk.mayer<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=19657">http://opensiddur.org/?p=19657</a>
 <p />
 <hr />

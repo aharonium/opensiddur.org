@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: הַסִּדוּר (אשכנז)‏ | Ha-Siddur, a bilingual Hebrew-English prayerbook translated and arranged by Rabbi Ben-Zion Bokser (1957)<br />
+Title: הַסִּדוּר (אשכנז)‏ | HaSiddur, a bilingual Hebrew-English prayerbook translated and arranged by Rabbi Ben-Zion Bokser (1957)<br />
 Primary contributor: aharon-nissen.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=15176">http://opensiddur.org/?p=15176</a>
 <p />

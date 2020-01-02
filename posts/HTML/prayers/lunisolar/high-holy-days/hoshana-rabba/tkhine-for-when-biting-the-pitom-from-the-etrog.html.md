@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: תְּחִנָה זאָנט מען װען מען בּײַסט אָפּ דעם פִּטוּם פוּן דעם אֶתְרוֹג | Tkhine for when biting the pitom from the etrog (Siddur Qorban Minḥah, 1897)<br />
+Title: תְּחִנָה זאָנט מען װען מען בּײַסט אָפּ דעם פִּטוּם פוּן דעם אֶתְרוֹג | Tkhine for when biting the pitom from the etrog (Siddur Ḳorban Minḥah, 1897)<br />
 Primary contributor: emily.k<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=26937">http://opensiddur.org/?p=26937</a>
 <p />
@@ -29,7 +29,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <hr />
 
-This tkhine appears before Hallel in the <a href="https://opensiddur.org/compilations/sifrei-tehinot/siddur-qorban-minhah-1897">Siddur Qorban Minḥah</a>. Variations in the Yiddish spelling can be found in earlier and later editions of this siddur. Many thanks to Noam Sienna for highlighting this (in a <a href="https://www.facebook.com/noam.sienna/posts/10157731649798487">Facebook post</a>).
+This tkhine appears before Hallel in the <a href="https://opensiddur.org/compilations/sifrei-tehinot/siddur-qorban-minhah-1897">Siddur Ḳorban Minḥah</a>. Variations in the Yiddish spelling can be found in earlier and later editions of this siddur. Many thanks to Noam Sienna for highlighting this (in a <a href="https://www.facebook.com/noam.sienna/posts/10157731649798487">Facebook post</a>).
 
 <h3>Source(s)</h3>
 

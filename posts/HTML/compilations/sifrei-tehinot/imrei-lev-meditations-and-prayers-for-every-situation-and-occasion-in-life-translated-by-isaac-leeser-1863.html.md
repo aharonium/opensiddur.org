@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: אמרי לב | Imrei Lev - Meditations And Prayers For Every Situation And Occasion In Life by Jonas Ennery, translated by Isaac Leeser (1863)<br />
+Title: אמרי לב | Imrei Lev - Meditations And Prayers For Every Situation And Occasion In Life by Jonas Ennery, revised and adapted from the translation of Hester Rothschild by Isaac Leeser (1863)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=10136">http://opensiddur.org/?p=10136</a>
 <p />
@@ -272,10 +272,10 @@ Un très-grand nombre des prières de notre recueil sont originales, d'autres so
 
 Pour la division matérielle de notre ouvrage, nous avons adopté la classification suivante:
 <ol>
-	<li>Prières qui reviennent périodiquement, soit tous les jours, soit aux jours de fête.</li>
-	<li>Prières et méditations religieuses pour les diverses circonstances de la vie; ces méditations remplissent une lacune importante de notre rituel, qui n’a pas de prières pour ce que nous appelons la piété domestique.</li>
-	<li>Prières de deuil, à réciter soit aux anniversaires, soit au cimetière.</li>
-	<li>Enfin, dans une quatrième et dernière partie, nous avons placé quelques morceaux de philosophie religieuse, qui sont plutôt des préparations à la foi que de véritables prières.</li>
+    <li>Prières qui reviennent périodiquement, soit tous les jours, soit aux jours de fête.</li>
+    <li>Prières et méditations religieuses pour les diverses circonstances de la vie; ces méditations remplissent une lacune importante de notre rituel, qui n’a pas de prières pour ce que nous appelons la piété domestique.</li>
+    <li>Prières de deuil, à réciter soit aux anniversaires, soit au cimetière.</li>
+    <li>Enfin, dans une quatrième et dernière partie, nous avons placé quelques morceaux de philosophie religieuse, qui sont plutôt des préparations à la foi que de véritables prières.</li>
 </ol>
 Avant dé terminer, qu’il nous soit permis d’adresser une humble supplique à nos lecleurs et surtout à nos pieuses lectrices. Nous les conjurons de ne pas lire ce livre comme on lit une œuvre de littérature, c’est-à-dire avec l’esprit d’analyse et de critique. La prière écrite, quelque parfaite qu’elle soit, est impuissante si l’élan du cœur ne la complète, si l’enthousiasme de l’âme ne l’é-chauffe. Or, l’analyse refroidit l’âme et les sentiments du cœur. Ouvrez donc ce livre avec la pieuse intention de prier, et non de lire, alors la religion vous inspirera, et votre prière étant l’expression de votre foi, sera agréable au Seigneur.
 

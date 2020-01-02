@@ -2,7 +2,7 @@
 <head></head>
 <body>
 Title: הגדה לסדר פסח | The Passover Seder Haggadah, tropified by Isaac Gantwerk Mayer<br />
-Primary contributor: isaac.gantwerk-mayer<br />
+Primary contributor: isaac-gantwerk-mayer<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=24582">http://opensiddur.org/?p=24582</a>
 <p />
 <hr />

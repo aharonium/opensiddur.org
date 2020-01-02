@@ -2,7 +2,7 @@
 <head></head>
 <body>
 Title: מי שברך לעגונות | Mi sheBerakh to Support Agunot and Call Get Refusers to Account, by Isaac Gantwerk Mayer<br />
-Primary contributor: isaac.gantwerk-mayer<br />
+Primary contributor: isaac-gantwerk.mayer<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=26585">http://opensiddur.org/?p=26585</a>
 <p />
 <hr />

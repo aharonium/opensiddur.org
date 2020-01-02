@@ -2,7 +2,7 @@
 <head></head>
 <body>
 Title: מַה נִּשְׁתַּנָּה | Ma Nishtana, a Spanish-Portuguese Qina for Ngereb Tishnga beAḅ<br />
-Primary contributor: isaac.gantwerk-mayer<br />
+Primary contributor: isaac-gantwerk.mayer<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=26321">http://opensiddur.org/?p=26321</a>
 <p />
 <hr />

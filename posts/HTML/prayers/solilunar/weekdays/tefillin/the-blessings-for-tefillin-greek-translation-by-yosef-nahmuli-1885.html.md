@@ -40,7 +40,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
-ואם הפסיק בדבור בין תפלין של יד לתפלין של ראש יברך
+<span class="instruction">ואם הפסיק בדבור בין תפלין של יד לתפלין של ראש יברך</span>
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">

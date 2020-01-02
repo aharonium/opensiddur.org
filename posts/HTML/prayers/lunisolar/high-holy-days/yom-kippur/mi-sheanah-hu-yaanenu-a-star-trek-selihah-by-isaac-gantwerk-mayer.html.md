@@ -2,7 +2,7 @@
 <head></head>
 <body>
 Title: מִי שֶׁעָנָה...הוּא יַעֲנֵנוּ | Mi she'Anah...Hu Ya'anenu :: A Star Trek Seliḥah, by Isaac Gantwerk Mayer<br />
-Primary contributor: isaac.gantwerk-mayer<br />
+Primary contributor: isaac-gantwerk.mayer<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=21219">http://opensiddur.org/?p=21219</a>
 <p />
 <hr />

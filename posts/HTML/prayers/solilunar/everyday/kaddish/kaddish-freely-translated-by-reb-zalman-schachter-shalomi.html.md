@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: קדיש יתום | Mourner's Kaddish, interpretive translation by Rabbi Zalman Schachter-Shalomi z"l<br />
+Title: קדיש יתום | Mourner's Ḳaddish, interpretive translation by Rabbi Zalman Schachter-Shalomi z"l<br />
 Primary contributor: zalman.schachter-shalomi<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=7680">http://opensiddur.org/?p=7680</a>
 <p />
@@ -9,10 +9,6 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Aramaic)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
-<tbody>
-<tr>
-<td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
@@ -52,10 +48,7 @@ and those of all the house of Israel.
 Make this happen soon, without delay.
 We express our agreement and hope
 by saying *AMEN*
-</div></td></tr>
-
-
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+    </div></td></tr><tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
 יְהֵא 
 שְׁמֵהּ רַבָּא 
 מְבָרַךְ 
@@ -69,10 +62,7 @@ residing in God's great name
 flow freely
 into our world
 and worlds beyond."</strong>
-</div></td></tr>
-
-
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+    </div></td></tr><tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
 יִתְבָּרַךְ,
  וְיִשְׁתַּבַּח,
  וְיִתְפָּאֵר,
@@ -82,7 +72,7 @@ and worlds beyond."</strong>
  וְיִתְעַלֶּה,
  וְיִתְהַלָּל,
 שְׁמֵהּ דְקֻדְשָׁא בְּרִיךְ הוּא.
-&nbsp;
+
 לְעֵלָּא מִן כָּל 
 בִּרְכָתָא וְשִׁירָתָא,
  תֻּשְׁבְּחָתָא וְנֶחֱמָתָא,
@@ -100,17 +90,14 @@ and be given the right honor
 and be seen as beautiful
 and elevating
 and bring jubilation.
-&nbsp;
+
 Way beyond
 our input
 of worshipful song and praise,
 which we express in this world,
 As we confirm our agreement and hope
 by saying *AMEN*.
-</div></td></tr>
-
-
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+    </div></td></tr><tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
 יְהֵא שְׁלָמָה 
 רַבָּא מִן שְׁמַיָּא 
 וְחַיִּים טוֹבִים  
@@ -125,10 +112,7 @@ bring about the good life
 for us and for all Israel
 As we express our agreement and hope
 by saying: *AMEN*.
-</div></td></tr>
-
-
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+    </div></td></tr><tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
 עוֹשֶׂה שָׁלוֹם 
 בִּמְרוֹמָיו
  הוּא יַעֲשֶׂה בְּרַחֲמָיו שָׁלוֹם עָלֵינוּ
@@ -140,10 +124,7 @@ You, who harmonize it all
 on the highest planes –
 bring harmony and peace to us,
 to all Israel and all sentient beings
-</div></td></tr>
-
-
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+    </div></td></tr><tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
  וְאִמְרוּ אָמֵן.
 </span></div></td>
  

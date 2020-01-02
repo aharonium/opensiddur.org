@@ -7,13 +7,6 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<center>
-Psalm 118:1-4, Call and response [su_audio url="https://archive.org/download/HallelCantillatedIsaacGantwerkMayer2018/Hallel%2C%20Cantillated%20-%20Psalm%20118%20Part%201%20%28Isaac%20Gantwerk%20Mayer%202018%29.mp3" width="60%"]
-
-Psalm 118:5-20 [su_audio url="https://archive.org/download/HallelCantillatedIsaacGantwerkMayer2018/Hallel%2C%20Cantillated%20-%20Psalm%20118%20Part%202%20%28Isaac%20Gantwerk%20Mayer%202018%29.mp3" width="60%"]
-
-Psalm 118:21-29, Call and response [su_audio url="https://archive.org/download/HallelCantillatedIsaacGantwerkMayer2018/Hallel%2C%20Cantillated%20-%20Psalm%20118%20Part%203%20%28Isaac%20Gantwerk%20Mayer%202018%29.mp3" width="60%"]
-</center>
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
@@ -402,5 +395,24 @@ who is eternally merciful!
 “The <span style="text-transform: uppercase;">Cause</span>” is used to translate the Divine Name, based on the philosophical idea of God as the Prime Mover and on the interpretation of the Name as a causative form of the copula – “causes to be.”
 
 Psalms 118 is part of the Hallel Shalem or Ḥatsi Hallel near the end of Shaḥarit on festival days. 
+
+<h3>Recordings</h3>
+
+
+Psalm 118:1-4, Call and response 
+
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/details/HallelCantillatedIsaacGantwerkMayer2018/Hallel%2C%20Cantillated%20-%20Psalm%20118%20Part%201%20%28Isaac%20Gantwerk%20Mayer%202018%29" show_part_of_iframe="true" show_part_of_iframe_y="75" show_part_of_iframe_height="145" show_part_of_iframe_allow_scrollbar_vertical="false"]
+
+
+Psalm 118:5-20 
+
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/details/HallelCantillatedIsaacGantwerkMayer2018/Hallel%2C%20Cantillated%20-%20Psalm%20118%20Part%202%20%28Isaac%20Gantwerk%20Mayer%202018%29" show_part_of_iframe="true" show_part_of_iframe_y="75" show_part_of_iframe_height="145" show_part_of_iframe_allow_scrollbar_vertical="false"]
+
+
+Psalm 118:21-29, Call and response 
+
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/details/HallelCantillatedIsaacGantwerkMayer2018/Hallel%2C%20Cantillated%20-%20Psalm%20118%20Part%203%20%28Isaac%20Gantwerk%20Mayer%202018%29" show_part_of_iframe="true" show_part_of_iframe_y="75" show_part_of_iframe_height="145" show_part_of_iframe_allow_scrollbar_vertical="false"]
+
+
 </body>
 </html>

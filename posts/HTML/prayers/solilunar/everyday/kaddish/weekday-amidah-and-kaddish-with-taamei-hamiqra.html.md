@@ -1,8 +1,8 @@
 <html>
 <head></head>
 <body>
-Title: העמידה לימות החל עם טעמי המקרא‎ | Weekday Amidah and Kaddish with Ta'amei haMiqra (cantillation), by Isaac Gantwerk Mayer (Nusaḥ Ashkenaz)<br />
-Primary contributor: isaac.gantwerk-mayer<br />
+Title: העמידה לימות החל עם טעמי המקרא‎ | Weekday Amidah and Ḳaddish with Ta'amei haMiqra (cantillation), by Isaac Gantwerk Mayer (Nusaḥ Ashkenaz)<br />
+Primary contributor: isaac-gantwerk-mayer<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=20304">http://opensiddur.org/?p=20304</a>
 <p />
 <hr />

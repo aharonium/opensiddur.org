@@ -2,7 +2,7 @@
 <head></head>
 <body>
 Title: מִי שֶׁבֵּרָךְ לִמְקַבְּלֵי שֵׁם אֱמֶת אַחַר אִשּׁוּר מְגַדְּרִי | Mi sheBerakh for those receiving a true name after gender confirmation, by Isaac Gantwerk Mayer<br />
-Primary contributor: isaac.gantwerk-mayer<br />
+Primary contributor: isaac-gantwerk.mayer<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=26895">http://opensiddur.org/?p=26895</a>
 <p />
 <hr />

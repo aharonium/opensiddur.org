@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: מעוז צור | Maoz Tsur, attributed to Mordecai ben Yitsḥak haLevi (adapted by R' Joseph H. Hertz, trans. by Solomon Solis-Cohen)<br />
+Title: מָעוֹז צוּר | Maoz Tsur, attributed to Mordecai ben Yitsḥak haLevi (adapted by R' Joseph H. Hertz, trans. by Solomon Solis-Cohen)<br />
 Primary contributor: solomon.da-silva-solis-cohen<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=18422">http://opensiddur.org/?p=18422</a>
 <p />
@@ -233,6 +233,7 @@ Since it has been seventy years since the death of Rabbi Hertz (1872-1946), the 
 
 <h3>Source</h3>
 
-[gview file="https://opensiddur.org/wp-content/uploads/2017/12/hertz-siddur-maoz-tsur.pdf"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/sedertefilotkolhashanahvol3yoseftsvihertz1945#page/n204/mode/2up"]
+
 </body>
 </html>

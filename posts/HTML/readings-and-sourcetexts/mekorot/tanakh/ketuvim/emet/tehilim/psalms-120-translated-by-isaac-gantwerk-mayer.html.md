@@ -1,16 +1,16 @@
 <html>
 <head></head>
 <body>
-Title: תהלים ק״כ | Psalms 120, translated by Isaac Gantwerk Mayer<br />
+Title: תהלים ק״כ | Psalms 120 for the Fast of Gedalyah, translated by Isaac Gantwerk Mayer<br />
 Primary contributor: isaac.gantwerk-mayer<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=26901">http://opensiddur.org/?p=26901</a>
 <p />
 <hr />
 
 <div class="english" style="font-size: 1.2em;">
-The psalm is included in Isaac Mayer's Psalms for Fast Days according to his order for yearly psalms and cantillation systems for Psalms and Job. He offers Psalms 120 with Psalms 121:1-2 for Tsom Gedalyah.
+Presented here is Psalms 120 with Psalms 121:1-2 for Tsom Gedalyah. The psalm is included in Isaac Mayer's Psalms for Fast Days according to his order for yearly psalms and cantillation systems for Psalms and Job. 
 
-Several parts, marked in blue, are meant to be read in <a href="https://opensiddur.org/readings-and-sourcetexts/cantillation/an-ashkenazi-style-cantillation-system-for-job-by-isaac-gantwerk-mayer/">Job cantillation</a>, inspired by the system of switching to Lamentations cantillation during the Shabbat Ḥazon haftarah (Isaiah 1:1-27).
+Text marked in blue is intended to be read in <a href="https://opensiddur.org/readings-and-sourcetexts/cantillation/an-ashkenazi-style-cantillation-system-for-job-by-isaac-gantwerk-mayer/">Job cantillation</a>, inspired by the system of switching to Lamentations cantillation during the Shabbat Ḥazon haftarah (Isaiah 1:1-27).
 
 Note: “The CAUSE” is used to translate the Divine Name YHVH, based on the philosophical idea of God as the Prime Mover and on the interpretation of the Name as a causative form of the copula – “causes to be.”
 </div>

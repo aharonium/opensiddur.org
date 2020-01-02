@@ -38,7 +38,8 @@ to repair her root in a supernal abode.
 <tr><td style="vertical-align:top" width="46%"><div class="liturgy"><span lang="he">
 וּבְכֵן יְהִי רָצוֹן מִלְפָנֶיךָ 
 יְיָ אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֹתֵינוּ 
-שֶׁתְּהֵא חֲשׁוּבָה וּמְקֻבֶּלֶת וּמְרֻצָּה לְפָנֶיךָ מִצְוַת הַדְלָקַת נֵר חֲנוּכָּה 
+שֶׁתְּהֵא חֲשׁוּבָה וּמְקֻבֶּלֶת וּמְרֻצָּה לְפָנֶיךָ 
+מִצְוַת הַדְלָקַת נֵר חֲנוּכָּה 
 כְּאִלּוּ כִּוַּנְתִּי כׇּל הַכַּוָּנוֹת שֶׁכִּוְּנוּ הַכֹּהֲנִים מְשָׁרְתֵי הַשֵׁם 
 בְּעֵת אֲשֶׁר הֶעֱרוּ לַמָּוֶת נַפְשָׁם 
 בִּשְׁבִיל כְּבוֹד שִׁמְךָ הַגָדוֹל הַגִּבּוֹר וְהַנּוֹרָא.‏
@@ -47,7 +48,8 @@ to repair her root in a supernal abode.
 <td style="vertical-align:top" width="53%"><div class="english">
 And so, may it be Your will before You, 
 YHVH our <em>elo'ah</em> and <em>elo'ah</em> of our ancestors, 
-that the commandment of lighting the Ḥanukkah light should be as important, accepted, and desirable before You 
+that the commandment of lighting the Ḥanukkah light 
+should be as important, accepted, and desirable before You 
 as if I had intended all the intentions that were intended by the priests, the ministers of the Name, 
 at the time that they aroused their souls to the death 
 for the sake of the honor of Your great, powerful and awesome name.

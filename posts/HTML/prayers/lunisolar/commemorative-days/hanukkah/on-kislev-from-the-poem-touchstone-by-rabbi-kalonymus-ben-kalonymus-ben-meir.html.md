@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: בְּכִסְלֵו - מאבן בֹחן | On Kislev, from the poem Even Boḥan ("Touchstone") by Rabbi Kalonymus ben Kalonymus ben Meir (1322)<br />
+Title: בְּכִסְלֵו - מאבן בֹחן | On Kislev, from the poem "Even Boḥan" by Rabbi Ḳalonymus ben Ḳalonymus ben Meir (1322)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=18267">http://opensiddur.org/?p=18267</a>
 <p />
@@ -65,7 +65,7 @@ For Ḥanukkah, the motif of dairy foods as the means by which Jews subvert pred
 
 <blockquote>Thus these two medieval Jewish sources note a custom of eating cheese on Ḥanukkah somehow connected to the story of Judith. However, there is no mention of Judith feeding Holophernes with cheese in the apocryphal book of Judith, or in most of the other extant versions of the Judith story. The only place where there are details of a connection between cheese and milk, and Judith’s encounter with Holophernes is in our <a href="https://opensiddur.org/prayers-for/special-days/commemorative-days/hanukkah/megillat-yehudit-for-hanukkah/">Megillat Yehudit</a>. Here, when Judith comes to meet Holophernes, she gets her maid to make levivot, salt them, and add pieces of cheese, <em>haritzei ḥalav</em>. The salty cheese makes Holophernes thirsty so he drinks more wine, which leads to his downfall. The reference to halav, milk, in this story of a woman defeating an enemy general in a tent, reminds us of the biblical Jael, who tempted the enemy general, Sisera, made him drowsy with milk, and hammered a tent-peg into his head to kill him (Judges 4.19; 5.25). The reference to cheese as <em>haritzei ḥalav</em> also alludes to the young David, who took <em>haritzei ḥalav</em> to his brothers’ captain, just before his encounter with Goliath – which ended in cutting off his head (I Samuel 17.17; 17. 51). This cheese is now being used to foreshadow Judith’s eventual triumph over the enemy. And the pieces of cheese are picked up at the end, in the details of the <em>mishlo’aḥ manot</em>, the list of foods to be sent as gifts by each Jew to her neighbour in the future commemoration of Judith’s victory.</blockquote>
 
-Before potatoes entered the diet of Ashkenazi Jews, latkes were cheese pancakes, or cassola, as described in "Even Boḥan" (Touchstone), a satyrical poem by Rabbi Kalonymus ben Kalonymus ben Meir (b.1286 - died after 1328).
+Before potatoes entered the diet of Ashkenazi Jews, latkes were cheese pancakes, or cassola, as described in "Even Boḥan" (Touchstone), a poem by Rabbi Ḳalonymus ben Ḳalonymus ben Meir (b.1286 - died after 1328).
 
 Weingarten explains:
 

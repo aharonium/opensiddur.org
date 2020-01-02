@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: הסדור השלם (אשכנז)‏ | Ha-Siddur Ha-Shalem, a bilingual Hebrew-English prayerbook translated and annotated by Paltiel Birnbaum (1949)<br />
+Title: הסדור השלם (אשכנז)‏ | HaSiddur HaShalem, a bilingual Hebrew-English prayerbook translated and annotated by Paltiel Birnbaum (1949)<br />
 Primary contributor: aharon-nissen.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=14900">http://opensiddur.org/?p=14900</a>
 <p />

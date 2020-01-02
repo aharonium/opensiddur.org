@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: סדר התפלות לחג הסכות (ספרד)‏ | Seder haTefilot l'Ḥag haSukkot, translated by Rabbi David de Aaron de Sola (1835/1852), edited and revised by Moses Gaster (1906)<br />
+Title: סדר התפלות לחג הסכות (ספרד)‏ | Seder haTefilot l'Ḥag haSukkot, edited and revised by Moses Gaster (1906)<br />
 Primary contributor: aharon-nissen.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=27711">http://opensiddur.org/?p=27711</a>
 <p />

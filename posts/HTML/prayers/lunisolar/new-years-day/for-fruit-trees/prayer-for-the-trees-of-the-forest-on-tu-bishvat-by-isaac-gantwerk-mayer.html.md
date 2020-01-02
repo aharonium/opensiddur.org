@@ -2,7 +2,7 @@
 <head></head>
 <body>
 Title: תְּפִלָּה לַעֲצֵי הַיַּעַר עַל ט״וּ בִּשְׁבָט | Prayer for the Trees of the Forest on Tu biShvat, by Isaac Gantwerk Mayer<br />
-Primary contributor: isaac.gantwerk-mayer<br />
+Primary contributor: isaac-gantwerk.mayer<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=18491">http://opensiddur.org/?p=18491</a>
 <p />
 <hr />

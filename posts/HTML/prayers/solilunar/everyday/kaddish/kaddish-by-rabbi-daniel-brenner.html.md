@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: קדיש | A Kaddish by Rabbi Daniel Brenner<br />
+Title: קדיש | A Ḳaddish by Rabbi Daniel Brenner<br />
 Primary contributor: daniel.s.brenner<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=261">http://opensiddur.org/?p=261</a>
 <p />

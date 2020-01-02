@@ -47,8 +47,9 @@ I made them rejoice together, and I rejoiced in them.[foot]Sefer HaBahir §22. P
 וְעַל הַגְּבוּרוֹת 
 וְעַל הַתְּשׁוּעוֹת 
 וְעַל הַנִפְלָאוֹת 
-שֶׁעָשִׂיתָ לְאֲרְצֵינוּ  
-בַּיָּמִים הָהֵם בִּזְּמַן הַזֶּה:‏[foot]Here, we adopt the tradition of saying בִּזְּמַן הַזֶּה (in this season, at this time, now) rather than בָּזְּמַן הַזֶּה (at that time). The grammatical variant helpfully emphasizes a conception of time that is not so much linear as it is revisited by us, actively, through imaginative memory, theurgical ritual, and prayer, and perhaps also by cosmic Time itself.[/foot]
+שֶׁעָשִׂיתָ לַאֲרֶץ הַזֶּה  
+בַּיָּמִים הָהֵם בִּזְּמַן הַזֶּה[foot]Here, we adopt the tradition of saying בִּזְּמַן הַזֶּה (in this season, at this time, now) rather than בָּזְּמַן הַזֶּה (at that time). The grammatical variant helpfully emphasizes a conception of time that is not so much linear as it is revisited by us, actively, through imaginative memory, theurgical ritual, and prayer, and perhaps also by cosmic Time itself.[/foot]&nbsp;
+לִפְנֵי מִלְחָמָה וְטֶבַח, אֵימָה וְהִתְנַגְּדוּת:‏
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%"><div class="english">
@@ -56,9 +57,10 @@ And for the miracles,
  and for the redemptions,
  and for the mighty acts,
  and the rescues,
- and the fantastic wonder works,
- that you made for our country
- in those days, in this season. 
+ and the wonders,
+ that you made in this land
+ in those days, in this season,
+ in the face of war and massacre, terror and resistance.
 </div></td></tr>
 
 
@@ -80,7 +82,7 @@ For whom is the Earth's land to seize and to occupy‽!
 Speak to the Earth and she will teach you![foot]Job 12:8[/foot]&nbsp;
 For you (YHVH) and not for us, 
 is the Earth and the fullness thereof.[foot]cf. Psalms 24:1, cf. Psalm 50:11, and Deuteronomy 10:14. This land is not yours, and it is not mine. The land is the Garden of HaShem.[/foot]&nbsp; 
-Adam and Ḥava were knit together in the womb, 
+Adam and Ḥavah were knit together in the womb, 
 within the innermost depths of Adamah (the Earth),[foot]cf. Psalms 139:11-15[/foot]&nbsp;
 and we were only born as children of the Earth
 to cultivate and preserve her Garden[foot]cf. Genesis 2:15, <em>l'ovdah ul'shomrah</em>. We are commanded to be responsible stewards of this Garden, the earth's biosphere.[/foot]&nbsp;
@@ -143,7 +145,32 @@ from the blood of humanity which it cannot help but soak up,[foot]from Genesis 4
 while we cry with gratitude
  for the bounty and sanctuary we have found in her.[foot]cf. Psalms 126. As we should, but we need to reciprocate for our gratefulness by taking responsibility for our actions and the errors of the generations who came before us that acted with callous ignorance and neglect of the systems supporting life on earth and the welfare of the creatures we share this world with.[/foot]
 Meanwhile, we dare not look at each other's faces --
-how long will we hide our face from one another?[foot]Cf. Psalms 13:2 part.[/foot]
+how long will we hide our face from one another in shame?[foot]Cf. Psalms 13:2 part.[/foot]
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="44%">
+<div class="liturgy"><span  lang="he">
+
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%"><div class="english">
+Majestic King of all kings, 
+creator of all and sustainer of every burrow and dwelling:
+as immigrants in a new land, 
+you elevated our ancestors, Avraham and Sarah, who welcomed every guest.
+You commanded us to welcome the foreigner and stranger among us,
+to redeem the captive, and to pursue justice.
+You forbade us to steal and murder,
+and to care for the well-being of all creatures in creation.
+You elevated us to champion your light among the nations.
+Even as we were separated and spread abroad,
+we wrote down your word and kept your Torah/Teaching,
+we strove to make a home for you on earth
+with acts of kindness and prayers of thanksgiving.
+May we continue to be thankful and to strive with compassion 
+for peace and justice
+in every land that we dwell.
 </div></td></tr>
 
 
@@ -158,6 +185,7 @@ Blessed is the One who preserves the Earth for those who share in her bounty.
 </tbody></table>
 
 <hr />
-I wrote the prayer above in English and translated it into Hebrew. The latter was subsequently corrected thanks to Rabbi Simcha Daniel Burstyn at Kibbutz Lotan. In 2015, I revised this prayer, adding several verses in order to better emphasize my key points. In 2016, I switched the order of the two sections and polished the Hebrew grammar with the help of Tom Pessah. In 2019, I added the question preceding the ḥatimah.
+
+I wrote the prayer above in English and translated it into Hebrew. The latter was subsequently corrected thanks to Rabbi Simcha Daniel Burstyn at Kibbutz Lotan. In 2015, I revised this prayer, adding several verses in order to better emphasize my key points. In 2016, I switched the order of the two sections and polished the Hebrew grammar with the help of Tom Pessah. In 2019, I added a question invoking the shame of witnessing this depravity and an additional stanza (currently untranslated), preceding the ḥatimah, recognizing what I hope are the redemptive prescriptions of our tradition of pursuing justice while we give thanks.
 </body>
 </html>

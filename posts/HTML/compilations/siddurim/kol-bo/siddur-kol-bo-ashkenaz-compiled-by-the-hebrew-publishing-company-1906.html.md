@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: סדור כל בו (אשכנז)‏ | Siddur Kol Bo, the first bilingual Hebrew-English prayerbook compiled by the Hebrew Publishing Company (1906)<br />
+Title: סדור כל בו (אשכנז)‏ | Siddur Kol Bo, a bilingual Hebrew-English prayerbook compiled by the Hebrew Publishing Company (1906)<br />
 Primary contributor: aharon-nissen.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=26604">http://opensiddur.org/?p=26604</a>
 <p />

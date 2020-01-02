@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: Prayer of the Guest Chaplain of the U.S. Senate: Rabbi Gary P. Zola on 26 May 2005<br />
+Title: Prayer of the Guest Chaplain of the U.S. Senate: Rabbi Dr. Gary P. Zola on 26 May 2005<br />
 Primary contributor: United-States.Congressional-Record<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=28015">http://opensiddur.org/?p=28015</a>
 <p />

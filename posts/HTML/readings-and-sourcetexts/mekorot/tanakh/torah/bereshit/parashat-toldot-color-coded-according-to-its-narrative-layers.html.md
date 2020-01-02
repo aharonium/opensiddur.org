@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: פָּרָשַׁת תּוֹלְדֹת  | Parashat Toldōt (Genesis 25:19-28:9), color-coded according to its narrative layers<br />
+Title: פָּרָשַׁת תּוֹלְדֹת | Parashat Toldōt (Genesis 25:19-28:9), color-coded according to its narrative layers<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=22340">http://opensiddur.org/?p=22340</a>
 <p />
@@ -32,7 +32,7 @@ Parashat Toldōt (Genesis 25:19-28:9) in the annual Torah reading cycle, is read
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="p">25 <sup>19</sup>&nbsp;Now these are the progeny of Yitsḥaq, son of Avraham. Avraham fathered Yitsḥaq. <sup>20</sup>&nbsp;Yitsḥaq was forty years old when he took Rivqah daughter of Betuel the Arami, from the country of Aram, sister of Lavan the Arami, for himself as a wife.</span> <span class="j"><sup>21</sup>&nbsp;Yitsḥaq entreated YHVH on behalf of his wife, for she was barren, and YHVH granted-his-entreaty: Rivqah his wife became pregnant. <sup>22</sup>&nbsp;But the children almost crushed one another inside her, so she said: 'If this be so, why do I exist?' And she went to inquire of YHVH.</span>
+<span class="p">25 <sup>19</sup>&nbsp;Now these are the progeny of Yitsḥaq, son of Avraham. Avraham fathered Yitsḥaq. <sup>20</sup>&nbsp;Yitsḥaq was forty years old when he took Rivqah daughter of Betuel the Arami, from the country of Aram, sister of Lavan the Arami, for himself as a wife.</span>[foot]The deaths of Abraham and Ishmael close the Priestly Abraham cycle. The life summaries of Abraham and Ishmael impart the basic information P finds so important, namely ages, names, and places of habitation. This detailed information imparts an authenticity to P absent in the action oriented Yahwistic and Elohistic narrative. Note the reference to the Cave of Machpelah (vss. 8-10), which was bought in the Priestly narrative of Chapter 23.[/foot] <span class="j"><sup>21</sup>&nbsp;Yitsḥaq entreated YHVH on behalf of his wife, for she was barren, and YHVH granted-his-entreaty: Rivqah his wife became pregnant. <sup>22</sup>&nbsp;But the children almost crushed one another inside her, so she said: 'If this be so, why do I exist?' And she went to inquire of YHVH.</span>
 </div></td></tr>
 
 
@@ -62,7 +62,7 @@ elder shall be servant to younger!"</span>
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="j"><sup>24</sup>&nbsp;When her days were fulfilled for bearing, here: twins were in her body! <sup>25</sup>&nbsp;The first one came out ruddy, like a hairy mantle all over, so they called his name: 'Esav/Rough-one.' <sup>26</sup>&nbsp;After that his brother came out, his hand grasping Esav's heel, so they called his name: 'Yaaqov/Heel-holder.'</span> <span class="p">Yitsḥaq was sixty years old when she bore them.</span>
+<span class="j"><sup>24</sup>&nbsp;When her days were fulfilled for bearing, here: twins were in her body! <sup>25</sup>&nbsp;The first one came out ruddy, like a hairy mantle all over, so they called his name: 'Esav/Rough-one.' <sup>26</sup>&nbsp;After that his brother came out, his hand grasping Esav's heel, so they called his name: 'Yaaqov/Heel-holder.'</span>[foot]Note the abrupt change of style from informational to narratival. One of the functions of this narrative is to explain the origin of Jacob and Esau's names. Jacob will be the name used by J throughout the book of Genesis. In P and E the name Israel is used as well, following the name change narratives in each of these sources (Chapters 32 and 35).[/foot] <span class="p">Yitsḥaq was sixty years old when she bore them.</span>[foot]Quantitative information typical to P.[/foot]
 </div></td></tr>
 
 
@@ -117,7 +117,7 @@ elder shall be servant to younger!"</span>
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="j">He swore to him and sold his firstborn-right to Yaaqov. <sup>34</sup>&nbsp;Yaaqov gave Esav bread and boiled lentils; he ate and drank and arose and went off. Thus did Esav despise the firstborn-right.</span>
+<span class="j">He swore to him and sold his firstborn-right to Yaaqov. <sup>34</sup>&nbsp;Yaaqov gave Esav bread and boiled lentils; he ate and drank and arose and went off. Thus did Esav despise the firstborn-right.</span>[foot]The Israelite heroes are painted in varied colors in J. Abraham is described as an opportunist, Jacob is depicted here as a thief and liar, and Joseph as a pompous young boy.[/foot]
 </div></td></tr>
 
 
@@ -172,7 +172,7 @@ elder shall be servant to younger!"</span>
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="j"><sup>23</sup>&nbsp;He went up from there to Be'er-shava. <sup>24</sup>&nbsp;Now YHVH was seen by him on that night and said: "I am the <em>elo'ah</em> of Avraham your father. Do not be afraid, for I am with you, I will bless you and will make your seed many, for the sake of Avraham my servant." <sup>25</sup>&nbsp;He built a place-for-slaughter there and called out the name of YHVH. He spread his tent there, and Yitsḥaq's servants excavated a well there. <sup>26</sup>&nbsp;Now Avimelekh went to him from Gerar, along with Aḥuzzat his aide and Pikhol the commander of his army. <sup>27</sup>&nbsp;Yitsḥaq said to them: "Why have you come to me? For you hate me and have sent me away from you!" <sup>28</sup>&nbsp;They said: "We have seen, yes, seen that YHVH has been with you, so we say: 'Pray let there be an oath-curse between us, between us and you, we want to cut a covenant with you:' <sup>29</sup>&nbsp;If ever you should deal badly with us . . . ! Just as we have not harmed you and just as we have only dealt well with you and have sent you away in peace – you are now blessed by YHVH!" <sup>30</sup>&nbsp;He made them a drinking-feast, and they ate and drank. <sup>31</sup>&nbsp;Early in the morning they swore (an oath) to one another; then Yitsḥaq sent them off, and they went from him in peace. <sup>32</sup>&nbsp;Now it was on that same day that Yitsḥaq's servants came and told him about the well that they had been digging, they said to him: "We have found water!" <sup>33</sup>&nbsp;So he called it: 'Shiv'ah/Swearing-seven'; therefore the name of the city is Be'er-shava until this day.</span>
+<span class="j"><sup>23</sup>&nbsp;He went up from there to Be'er-shava. <sup>24</sup>&nbsp;Now YHVH was seen by him on that night and said: "I am the <em>elo'ah</em> of Avraham your father. Do not be afraid, for I am with you, I will bless you and will make your seed many, for the sake of Avraham my servant." <sup>25</sup>&nbsp;He built a place-for-slaughter there and called out the name of YHVH. He spread his tent there, and Yitsḥaq's servants excavated a well there. <sup>26</sup>&nbsp;Now Avimelekh went to him from Gerar, along with Aḥuzzat his aide and Pikhol the commander of his army. <sup>27</sup>&nbsp;Yitsḥaq said to them: "Why have you come to me? For you hate me and have sent me away from you!" <sup>28</sup>&nbsp;They said: "We have seen, yes, seen that YHVH has been with you, so we say: 'Pray let there be an oath-curse between us, between us and you, we want to cut a covenant with you:' <sup>29</sup>&nbsp;If ever you should deal badly with us . . . ! Just as we have not harmed you and just as we have only dealt well with you and have sent you away in peace – you are now blessed by YHVH!" <sup>30</sup>&nbsp;He made them a drinking-feast, and they ate and drank. <sup>31</sup>&nbsp;Early in the morning they swore (an oath) to one another; then Yitsḥaq sent them off, and they went from him in peace. <sup>32</sup>&nbsp;Now it was on that same day that Yitsḥaq's servants came and told him about the well that they had been digging, they said to him: "We have found water!" <sup>33</sup>&nbsp;So he called it: 'Shiv'ah/Swearing-seven'; therefore the name of the city is Be'er-shava until this day.</span>[foot]This chapter reworks themes from the Abraham cycle and is basically a narrative filler fabricated by J to link the two pillars Abraham and Jacob (Isaac was killed in Chapter 22 (E) and was resuscitated by J to create an unbroken genealogical chain between Abraham and Jacob). Isaac presents Rebecca as his sister just like Abraham did (Chapters 12, 20). The Philistines and Isaac fight over wells Abraham dug (Chapter 21). Isaac strikes a bargain with Abimelech like his father did in Chapter 21. Isaac does not leave Canaan contrary to his father Abraham.[/foot]
 </div></td></tr>
 
 
@@ -183,7 +183,7 @@ elder shall be servant to younger!"</span>
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="h"><sup>34</sup>&nbsp;When Esav was forty years old, he took to wife Yehudit daughter of B'eri the Ḥitti and Ba'semat daughter of Elon the Ḥitti. <sup>35</sup>&nbsp;And they were a bitterness of spirit to Yitsḥaq and Rivqah.</span>
+<span class="h"><sup>34</sup>&nbsp;When Esav was forty years old, he took to wife Yehudit daughter of B'eri the Ḥitti and Ba'semat daughter of Elon the Ḥitti. <sup>35</sup>&nbsp;And they were a bitterness of spirit to Yitsḥaq and Rivqah.</span>[foot]Detailed information typical to P (Esau's age and wives).[/foot]
 </div></td></tr>
 
 
@@ -545,7 +545,7 @@ you will tear his yoke from your neck."</span>
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="j"><sup>42</sup>&nbsp;Rivqah was told of the words of Esav, her elder son. She sent and called for Yaaqov, her younger son, and said to him: "Here, Esav your brother is consoling himself about you, with (the thought of) killing you. <sup>43</sup>&nbsp;So now, my son, listen to my voice: Arise and flee to Lavan my brother in Ḥarran, <sup>44</sup>&nbsp;and stay with him for some days, until your brother's fury has turned away, <sup>45</sup>&nbsp;until his anger turns away from you and he forgets what you did to him. Then I will send and have you taken from there – for should I be bereaved of you both in a single day?"</span>
+<span class="j"><sup>42</sup>&nbsp;Rivqah was told of the words of Esav, her elder son. She sent and called for Yaaqov, her younger son, and said to him: "Here, Esav your brother is consoling himself about you, with (the thought of) killing you. <sup>43</sup>&nbsp;So now, my son, listen to my voice: Arise and flee to Lavan my brother in Ḥarran, <sup>44</sup>&nbsp;and stay with him for some days, until your brother's fury has turned away, <sup>45</sup>&nbsp;until his anger turns away from you and he forgets what you did to him. Then I will send and have you taken from there – for should I be bereaved of you both in a single day?"</span>[foot]Jacob's is described here as a trickster, further explaining Jacob's name (עקב means to cheat in Biblical Hebrew).[/foot]
 </div></td></tr>
 
 
@@ -556,7 +556,7 @@ you will tear his yoke from your neck."</span>
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="h"><sup>46</sup>&nbsp;So Rivqah said to Yitsḥaq: "I loathe my life because of those Ḥet women ; if Yaaqov should take a wife from the Ḥet women – like these, from the women of the land, why should I have life?"</span>
+<span class="h"><sup>46</sup>&nbsp;So Rivqah said to Yitsḥaq: "I loathe my life because of those Ḥet women ; if Yaaqov should take a wife from the Ḥet women – like these, from the women of the land, why should I have life?"</span>[foot]The theme of Esau Hittite women is taken up from last chapter. If P is supplementary to J, then Rebeccah's statement may be understood as subterfuge – she doesn't want to tell Isaac that Esau wishes to kill Jacob (otherwise this text simply reflects P's version of events).[/foot]
 </div></td></tr>
 
 
@@ -578,7 +578,7 @@ you will tear his yoke from your neck."</span>
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="h"><sup>6</sup>&nbsp;Now Esav saw that Yitsḥaq had given Yaaqov farewell-blessing and had sent him to the country of Aram, to take himself a wife from there, (and that) when he had given him blessing, he had commanded him, saying: "You are not to take a wife from the women of K'naan!" <span class="p"><sup>7</sup>&nbsp;And Yaaqov had listened to his father and his mother and had gone to the country of Aram.</span> <span class="h"><sup>8</sup>&nbsp;And Esav saw that the women of K'naan were bad in the eyes of Yitsḥaq his father, <sup>9</sup>&nbsp;so Esav went to Yishmael and took Maḥalat daughter of Yishmael son of Avraham, sister of Nevayōt, in addition to his wives as a wife.</span>
+<span class="h"><sup>6</sup>&nbsp;Now Esav saw that Yitsḥaq had given Yaaqov farewell-blessing and had sent him to the country of Aram, to take himself a wife from there, (and that) when he had given him blessing, he had commanded him, saying: "You are not to take a wife from the women of K'naan!" <span class="p"><sup>7</sup>&nbsp;And Yaaqov had listened to his father and his mother and had gone to the country of Aram.</span> <span class="h"><sup>8</sup>&nbsp;And Esav saw that the women of K'naan were bad in the eyes of Yitsḥaq his father, <sup>9</sup>&nbsp;so Esav went to Yishmael and took Maḥalat daughter of Yishmael son of Avraham, sister of Nevayōt, in addition to his wives as a wife.</span>[foot]This Priestly episode follows Rebecca's complaint regarding Esau's Hittite wives. Isaac commands Jacob to take a wife from his brother in law's family. Note the use of El-Shadday (God Almighty) in vs. 3 as a divine name, particularly as a name connected with blessing, and compare its usage in the Priestly sections of Genesis 17 and 48.[/foot]
 </div></td></tr>
 </tbody></table>
 

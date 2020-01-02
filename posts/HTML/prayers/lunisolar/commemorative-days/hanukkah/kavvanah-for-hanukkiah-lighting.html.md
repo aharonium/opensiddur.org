@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: כוונה להדלקת נרוֺת חנוּכה | Kavvanah for Ḥanukkiah Lighting by Bonna Devora Haberman, z"l (Mistabra Institute for Jewish Textual Activism, 2002)<br />
+Title: כַּוָּנָה לְהַדְלָקַת נֵרוֹת חֲנֻכָּה | Kavvanah for Ḥanukkiah Lighting by Bonna Devora Haberman, z"l (Mistabra Institute for Jewish Textual Activism, 2002)<br />
 Primary contributor: bonna.devora<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=5637">http://opensiddur.org/?p=5637</a>
 <p />
@@ -12,11 +12,11 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
-כוונה להדלקת נרוֺת חנוּכה
+כַּוָּנָה לְהַדְלָקַת נֵרוֹת חֲנֻכָּה
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%"><div class="english">
-<strong>Intention for Kindling Ḥanukkah Lights</strong>
+<u>Intention for Kindling Ḥanukkah Lights</u>
 
 Holy One who blessed our People Israel with the foundation of a Jewish homeland in our time.
 
@@ -38,8 +38,8 @@ May we kindle the flame of others and usher in a more redeemed state.
 May our light "flow free and burn steady" during the dark hours in our hearts and minds, and in our world.
     </div></td></tr>
 <tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
-יוֺצרוֺת  אוֺר וּבוֺראת חוֺשׁךְ
-עוֺשׂה שׁלוֺם וּבוֺראת את הרע
+יוֹצְרוֹת אוֹר וּבֹרֵאת חֹשֶׁךְ
+עוֹשֶׂה שָׁלוֹם וּבֹרֵאת אֶת הָרַע.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%"><div class="english">
@@ -47,10 +47,10 @@ Maker of light and Creator of darkness, Maker of peace and Creator of evil.
 To the service of the sacred divine, we dedicate our Inner Fire.
     </div></td></tr>
 <tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
-ברוּכה שׁכינה
-שׁיכני בתוֺכנוּ בקדוּשׁה
-כשׁנרוֺת החנוּכה שׁלנוּ דוֺלקים
-וּבכל עת וּבכל שעה בשׁלוֺמךָ
+בְּרוּכָה שְׁכִינָה
+שִׁכְנֵי בְּתוֹכֵנוּ בִּקְדֻשָּׁה
+כְּשֶׁנֵּרוֹת הַחֲנֻכָּה שֶׁלָּנוּ דּוֹלְקִים
+וּבְכָל עֵת וּבְכָל שָׁעָה בִּשְׁלוֹמך
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%"><div class="english">
@@ -60,11 +60,11 @@ while our Ḥanukkah lights of dedication burn,
 at every moment and at all times in Your peace.
     </div></td></tr>
 <tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
-אמן. כן יהי רצוֺן.‏
+אָמֵן. כֵּן יְהִי רָצוֹן.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%"><div class="english">
-May this be Your will.
+Amen. May this be Your will.
     </div></td></tr>
 </tbody></table>
 

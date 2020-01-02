@@ -2,7 +2,7 @@
 <head></head>
 <body>
 Title: Dukhening in a Musaf Amidah after a Heykhe Qedushah: a version of the concluding three blessings for Kohanim, by Isaac Gantwerk Mayer<br />
-Primary contributor: isaac.gantwerk-mayer<br />
+Primary contributor: isaac-gantwerk.mayer<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=24998">http://opensiddur.org/?p=24998</a>
 <p />
 <hr />

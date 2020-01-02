@@ -7,7 +7,8 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english">Every Jewish holy day, even Shabbat and the highest ones, we call forth all the 22 Hebrew Letters to join us in celebration. For those of us who study Kabbalah from within the realm of the Alef-Bet, Ḥanukkah is unique in that we are given a magical tool with which to activate these signs and wonders.[foot]This teaching was composed with the inspiration of Gilla Nissan, a Teacher of the Hebrew Letter. Her website is <a href="http://thehebrewletter.com">thehebrewletter.com</a>.[/foot]The top-like <em>dreidel</em> / <em>sevivon</em> (literally, “spinner” in Yiddish and Hebrew, respectively) typically has four sides or sections, each one bearing a specific, single Letter from the collection: Nun, Gimmel, Hei and Shin. (Note: in contemporary Israel, the Shin has been supplanted by Peh, but here we are looking further back. How long? Hard to know, but more than 60 years for sure.)
+<div class="english" style="font-size: 1.2em;">
+Every Jewish holy day, even Shabbat and the highest ones, we call forth all the 22 Hebrew Letters to join us in celebration. For those of us who study Kabbalah from within the realm of the Alef-Bet, Ḥanukkah is unique in that we are given a magical tool with which to activate these signs and wonders.[foot]This teaching was composed with the inspiration of Gilla Nissan, a Teacher of the Hebrew Letter. Her website is <a href="http://thehebrewletter.com">thehebrewletter.com</a>.[/foot]The top-like <em>dreidel</em> / <em>sevivon</em> (literally, “spinner” in Yiddish and Hebrew, respectively) typically has four sides or sections, each one bearing a specific, single Letter from the collection: Nun, Gimmel, Hei and Shin. (Note: in contemporary Israel, the Shin has been supplanted by Peh, but here we are looking further back. How long? Hard to know, but more than 60 years for sure.)
 
 We are told as children that this “toy” was used by the Maccabees to disguise their clandestine Torah study, despite the distinct prohibition against any Jewish ritual observance by the Greek oppressors. As we know the Maccabees ultimately rose up against all odds and defeated the Greeks, as their successors have done at other times. In fact, some people are taught that each of the four letters stands for four oppressors of the Jewish people: Nun (Nebuchadnezzar of Babylonia); Hei (Haman of Persia); Gimel (Gog of Greece); and Shin (Se'ir who was identified with Esav and hence with Rome).
 
@@ -70,7 +71,7 @@ Who directs us to spin the <em>dreidel</em>.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Amen.
+<em>Amen.</em>
 </div></td>
 </tr>
 </tbody></table>

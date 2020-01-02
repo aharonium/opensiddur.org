@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: Blessing Group Torah Study with Brakhot, Kaddish, and Kavvanah, by Rabbi Arthur Waskow<br />
+Title: Blessing Group Torah Study with Brakhot, Ḳaddish, and Kavvanah, by Rabbi Arthur Waskow<br />
 Primary contributor: arthur.waskow<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=3161">http://opensiddur.org/?p=3161</a>
 <p />
@@ -26,7 +26,7 @@ Then when the class or discussion is over, I will ask people to stand -- if poss
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
-
+עַל יִשְׂרָאֵל וְעַל רַבָּנָן, וְעַל תַּלְמִידֵיהוֹן וְעַל כָּל תַּלְמִידֵי תַלְמִידֵיהוֹן...
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
@@ -37,16 +37,11 @@ for all who wrestle with God;
 For our teachers the Rabbis and
 for all our teachers;
 For their students --
-ourselves -- and
-for the students of their students --
+ourselves -- 
+and for the students of their students --
 those whom we go forth to teach --
 &nbsp;
-[and I literally, physically, look around the circle, making eye contact, as I say this]&nbsp;
-&nbsp;
-For all who study Torah,
-who aim toward wisdom,
-in this place
-and in every place --
+<span class="instruction">[and I literally, physically, look around the circle, making eye contact, as I say this]</span>
 </div></td></tr>
 
 
@@ -57,20 +52,58 @@ and in every place --
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-[and I will usually make two strong gestures, one to encompass this very place and one to reach beyond it]&nbsp;
+For all who study Torah,
+who aim toward wisdom,
+in this place
+and in every place --
 &nbsp;
+<span class="instruction">[and I will usually make two strong gestures, one to encompass this very place and one to reach beyond it]</span>
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
 For all these may there be ...
 overflowing love,
 peacefulness within and peace in the world,
 a healthy and a healing life,
 an honorable and sufficient livelihood
-that comes from working with the earth, as part of it,
+that comes from working with the earth, 
+as part of it,
 not from it or upon it --
-and above all, a sense that all these blessings
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+And above all, 
+a sense that all these blessings
 come not from our own efforts only,
 but from our efforts as part of the great
 weave of Unity --
-<em>v'nomar .... ameyn.</em>
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+וְנֹאמַר
+אָמֵן׃
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+<em>v'nomar .... 
+ameyn.</em>
 </div></td></tr>
 </tbody></table>
 

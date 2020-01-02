@@ -46,18 +46,18 @@ I selected my material from the following sources:
 [su_column size="1/3" center="no" class=""]
 The traditional liturgy 
 Miriam Del Banco 
-Bialik 
-Brandeis 
-Byron 
+[Hayim Nahman] Bialik 
+[Louis] Brandeis 
+[Lord George Gordon] Byron 
 Jacob Cohen 
 Deuteronomy 
 Ecclesiastes 
-Einstein 
+[Albert] Einstein 
 Exodus 
 Ezekiel 
 Yehuda Halevi 
 Avigdor Ham’iri 
-Heine 
+[Heinrich] Heine 
 Isabella R. Hess 
 [/su_column]
 
@@ -68,24 +68,24 @@ Ibn Gabirol
 Isaiah 
 Jeremiah 
 Kings 
-Lamdan 
+[Yitzhak] Lamdan 
 Leviticus 
 Micah 
 Mishnah Abot 
 Numbers 
 Proverbs 
 Psalms 
-Rachel 
+Rachel [Bluwstein]
 [/su_column]
 
 [su_column size="1/3" center="no" class=""]
-Raskin 
+[Saul] Raskin 
 Rebecca Hyneman 
-Renan 
+[Ernest] Renan 
 The Book of Samuel 
-Schechter 
-Shelley 
-Shiminowitz 
+[Solomon] Schechter 
+[Percy Bysshe] Shelley 
+[David] Shiminowitz 
 The Song of Songs 
 The Standard Book of Jewish Verse
 Jacob Steinberg 
@@ -93,12 +93,12 @@ The Talmud
 The Testament of Gad 
 The Testament of Zebulun 
 The Wisdom of Solomon
-Zangwill 
+[Israel] Zangwill 
 [/su_column]
 [/su_row]
 
 
-I availed myself of translations by Mr. Maurice Samuel, Mr. L. V. Snowman, and Mr. Harry H. Fein. Several of the translations from the modern Hebrew were done by Mr. Ben Aronin and myself. I have also translated one of the selections from Heine, and one from Renan. Of the selection from Professor Einstein, I preferred the translation in Doctor Lewisohn’s “Rebirth,” to the one which appeared in “Cosmic Religion.” 
+I availed myself of translations by Mr. Maurice Samuel, Mr. L.V. Snowman, and Mr. Harry H. Fein. Several of the translations from the modern Hebrew were done by Mr. Ben Aronin and myself. I have also translated one of the selections from [Heinrich] Heine, and one from [Ernest] Renan. Of the selection from Professor Einstein, I preferred the translation in Doctor Lewisohn’s “Rebirth,” to the one which appeared in “Cosmic Religion.” 
 
 Following medieval precedent I took considerable liberty in the arrangement of Biblical verses. I have, for example, not hesitated to add a verse from Isaiah to a chapter from the Psalms. Technical and financial reasons made it necessary to exclude many a passage which has brought me personally solace and inspiration. But Mr. Coopersmith and I regard this book an experiment. 
 

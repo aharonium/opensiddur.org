@@ -2,7 +2,7 @@
 <head></head>
 <body>
 Title: חַד מָה יוּדָא | Ḥad Mah Yuda :: Who Knows One?, a counting-song in Aramaic translation<br />
-Primary contributor: isaac.gantwerk-mayer<br />
+Primary contributor: isaac-gantwerk.mayer<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=24974">http://opensiddur.org/?p=24974</a>
 <p />
 <hr />

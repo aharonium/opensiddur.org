@@ -2,7 +2,7 @@
 <head></head>
 <body>
 Title: קדוש לסעודה מפסקת לפני יום הכפורים | Ḳiddush for the Seudah Mafseket before Yom Kippur, by Isaac Gantwerk Mayer<br />
-Primary contributor: isaac.gantwerk-mayer<br />
+Primary contributor: isaac-gantwerk.mayer<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=27500">http://opensiddur.org/?p=27500</a>
 <p />
 <hr />

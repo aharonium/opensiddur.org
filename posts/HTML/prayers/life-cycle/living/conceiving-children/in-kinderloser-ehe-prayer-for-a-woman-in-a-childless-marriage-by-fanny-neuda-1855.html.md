@@ -16,7 +16,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
-<div class="english"><span lang="en">
+<div class="english">
 <span class="liturgy">יְהוָה זְכָרָנוּ יְבָרֵךְ <span class="citation">(תהלים קטו:יב)‏</span></span>
 "YHVH who remembers us shall bless us." (Psalms 115:12 part)
 </span></div></td></tr>
@@ -28,7 +28,7 @@ Allwaltender! Alles, was in deinem großen Reiche lebt und webt, hast du derart 
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
-<div class="english"><span lang="en">
+<div class="english">
 All-Gracious God, you have created all that lives and moves in this great world that it may continue from generation to generation, all colored by the contented awareness of having fulfilled its duty.
 </span></div></td></tr>
 
@@ -39,7 +39,7 @@ Die Mutter drückt freudig ihr Kind ans Herz, unter Thränen lächelnd, vergißt
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
-<div class="english"><span lang="en">
+<div class="english">
 With joy a mother lifts her child to her breast. Smiling beneath her tears, she forgets all her worries, her pain, her life’s struggles, and is filled with the strength and courage to enjoy the pleasures of motherhood and to provide motherly love. 
 </span></div></td></tr>
 
@@ -50,7 +50,7 @@ Das wilde Thier, liebkosend seine Jungen, wird zahm, und hegt und trägt, und wa
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
-<div class="english"><span lang="en">
+<div class="english">
 Even the wild beast, fondling its young, seems tame as it bears and protects, guards and nourishes its young, yet she would defend them with her own blood.
 </span></div></td></tr>
 
@@ -61,7 +61,7 @@ Und selbst die Pflanze schüttelt wohlgefällig in den Lüften ihr Haupt, und st
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
-<div class="english"><span lang="en">
+<div class="english">
 Even the seed-bearing plant shakes its head in the air with confidence, broadcasting its seeds far and wide that they might spring up a thousandfold from the soil.
 </span></div></td></tr>
 
@@ -72,7 +72,7 @@ Doch ich – ich weiß nichts von diesen Freuden,
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
-<div class="english"><span lang="en">
+<div class="english">
 But I—I do not know these joys.
 </span></div></td></tr>
 
@@ -83,7 +83,7 @@ ich kenne sie nur vom Sehen, nicht vom eigenen Fühlen und Empfinden;
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
-<div class="english"><span lang="en">
+<div class="english">
 I know them only by sight, but alas not through my own experiences.
 </span></div></td></tr>
 
@@ -94,7 +94,7 @@ mich, Allvater hast du nicht würdig befunden der Mutterwonne, mir hast du das G
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
-<div class="english"><span lang="en">
+<div class="english">
 You, Almighty One, have not seen fit to grant me these maternal pleasures and have denied me the happiness of calling a child my own—refused me that sweet bond that unites the hearts of husband and wife in harmony and love and, with its very breath, extinguishes the flame of discord between them and causes peace to enter their home.
 </span></div></td></tr>
 
@@ -105,7 +105,7 @@ und wenn das Alter kommt, das kalte, blüthenlose, und ihr Herz zu verschrumpfen
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
-<div class="english"><span lang="en">
+<div class="english">
 When cold, blossomless old age arrives and their hearts could very well shrink, their child appears like a twig in full bloom, and with the fresh love and warm life their offspring brings, they grow young again.
 </span></div></td></tr>
 
@@ -116,7 +116,7 @@ Wie Hanna, die kinderlose, ihr schweres Leid, ihr Wünschen und ihr Hoffen vor d
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
-<div class="english"><span lang="en">
+<div class="english">
 As Ḥannah, a childless wife, poured out her heavy sadness, her wishes and hopes in heartfelt prayer before you, so do I stand before you, O my God, in the fullness of my grief and sorrow, and pray that you may hear my petition as you once fulfilled her supplication. 
 </span></div></td></tr>
 
@@ -127,7 +127,7 @@ O laß auch meinen Lebensbaum aufgehen zur süßen Blüthe, mein leeres Haus sic
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
-<div class="english"><span lang="en">
+<div class="english">
 Oh, may the tree of my life bear sweet blossoms, may my house be filled with the joy of children, may my conjugal life be adorned with the blessing of offspring.
 </span></div></td></tr>
 
@@ -138,7 +138,7 @@ Doch, wenn du in deiner unerforschlichen Allweisheit es beschlossen, meine Ehe k
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
-<div class="english"><span lang="en">
+<div class="english">
 But if you, in your inscrutable wisdom, have so ordained to leave me childless, then, O Source of Being, I longingly beg of you to grant me the strength and courage to reign my wishes to your exalted will, accept your judgment with humility, and always remember that your redemption comes not only from what you give us but also from what you refuse.
 </span></div></td></tr>
 
@@ -149,7 +149,7 @@ Laß mich stets eingedenk bleiben, dass, wenn du auch Mutterfreuden mir versagst
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
-<div class="english"><span lang="en">
+<div class="english">
 May I also always remember that although you may have denied me a mother’s joy, you have already granted me, in your endless goodness, countless pleasures and will surely grant me more each day.
 </span></div></td></tr>
 
@@ -160,7 +160,7 @@ laß mich stets eingedenk sein, dass, ob auch die Mutterpflichten meinem Leben a
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
-<div class="english"><span lang="en">
+<div class="english">
 May I always remember that although a mother’s tasks are not among my duties, my life is not without its use and value, and that many other no less sacred and satisfying tasks are bound up in my existence: to be a loving wife, to be a mother to the needy and the oppressed, to be a mother to the lonely orphan.
 </span></div></td></tr>
 
@@ -171,7 +171,7 @@ damit ich mich mit aller meiner Kraft dieser erhabenen Aufgabe widme und darin m
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
-<div class="english"><span lang="en">
+<div class="english">
 May I devote all my energies to these sublime purposes and thereby seek and find my joy and comfort.
 </span></div></td></tr>
 
@@ -182,7 +182,7 @@ Also sei dein göttlicher Wille! <em>Amen</em>.
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
-<div class="english"><span lang="en">
+<div class="english">
 May this be your divine will. <em>Amen</em>.
 </span></div>
 </td></tr>

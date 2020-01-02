@@ -2,7 +2,7 @@
 <head></head>
 <body>
 Title: תפילת הודיה לגשם | Thanksgiving Prayer for Rainfall in Lands Where It is Needed, by Isaac Gantwerk Mayer<br />
-Primary contributor: isaac.gantwerk-mayer<br />
+Primary contributor: isaac-gantwerk.mayer<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=23860">http://opensiddur.org/?p=23860</a>
 <p />
 <hr />

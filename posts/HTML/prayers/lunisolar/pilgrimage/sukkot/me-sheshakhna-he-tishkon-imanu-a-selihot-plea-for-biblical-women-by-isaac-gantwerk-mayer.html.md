@@ -2,7 +2,7 @@
 <head></head>
 <body>
 Title: מי ששכנה... היא תשכן עמנו | Mē She'shakhna... Hē Tishkon Imanu – a Seliḥot Plea for Biblical Women by Isaac Gantwerk Mayer<br />
-Primary contributor: isaac.gantwerk-mayer<br />
+Primary contributor: isaac-gantwerk.mayer<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=17609">http://opensiddur.org/?p=17609</a>
 <p />
 <hr />

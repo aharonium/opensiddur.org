@@ -1,14 +1,11 @@
 <html>
 <head></head>
 <body>
-Title: תפילה להפך – מאבן בֹחן | Prayer for Transformation, from the poem Even Boḥan ("Touchstone") by Rabbi Qalonymus ben Qalonymus ben Meir (1322 C.E.)<br />
+Title: תפילה להפך – מאבן בֹחן | Prayer for Transformation, from the poem "Even Boḥan" by Rabbi Ḳalonymus ben Ḳalonymus ben Meir (1322 C.E.)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=21633">http://opensiddur.org/?p=21633</a>
 <p />
 <hr />
-
-This prayer of רבי קלונימוס בן קלונימוס Qalonymus ben Qalonymus that appears in his ספר אבן בוחן, יג Even Boḥan (§13), was first published in partial English translation by Dr. Tova Rosen in her article, "<a href="https://opensiddur.org/wp-content/uploads/2018/10/Circumcised-Cinderella-The-Fantasies-of-a-Fourteenth-Century-Jewish-Author-Tova-Rosen-2000.pdf">Circumcised Cinderella: The Fantasies of a Fourteenth-Century Jewish Author</a>" (<em>Prooftexts</em>, 20:1-2, Reading through the Lens of Gender (Winter/Spring 2000), pp. 87-110), and afterward in a separate translation by Rabbi Steven Greenberg in <em><a href="https://uwpress.wisc.edu/books/2576.htm">Wrestling with Gods and Men: Homosexuality in the Jewish Tradition</a></em> (University of Wisconsin Press 2004) p.118-120. Rabbi Greenberg later published his partial translation online at <a href="http://www.eshelonline.org/commemorating-transgender-day-of-remembrance/">Eshel</a> to commemorate the <a href="https://en.wikipedia.org/wiki/Transgender_Day_of_Remembrance">International Transgender Day of Remembrance</a> (on November 20) in 2015. The translation appearing below uses Rabbi Greenberg's translation as a base which has been completed with a combination of new translations offered by the Open Siddur Project community and those from Dr. Rosen's article. If you find a line that can be improved or corrected, please <a href="https://opensiddur.org/contact/">contact us</a> or leave a comment.
-
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
@@ -167,11 +164,11 @@ Here is Logic;
 and the secrets of Arithmetic and Geometry
 They will not believe it can be told;
 and the wisdom of Measurements...
-they will not obtain it; the people’s pleasures in coffers and coffers[foot]Cf. Genesis 4:12 [/foot]&nbsp;
+they will not obtain it; the people’s pleasures in Field and Plane[foot]Possibly a reference to Genesis 4:12.[/foot]&nbsp;
 by which the seeker can measure
 the heights of heaven and the depth of abyss. 
-Those dwelling in a hut cannot (measure)
-the edge of Astronomy
+Those dwelling in an observatory cannot (measure)
+the extent[foot]lit. the edge[/foot] of Astronomy
 and if the wheel rotates yet the constellations remain fixed
 if they are weary wanderers.
 [Those are] the seven steps of the ladder. 
@@ -400,6 +397,10 @@ blessed are you YHVH who has not made me a woman.
 </tbody></table>
 
 <hr />
+
+This prayer of רבי קלונימוס בן קלונימוס Ḳalonymus ben Ḳalonymus that appears in his ספר אבן בוחן, יג Even Boḥan (§13), was first published in a partial and free rhyming English translation in <em>The Jewish Quarterly Review</em>, Vol. 13, No. 1 (Oct., 1900), pp. 128-146: "Kalonymos ben Kalonymos, a Thirteenth-Century Satirist" by Joseph Chotzner (1844-1914). There, Chotzner writes, "One of the most humorous parts in the <em>Eben Bochan</em> is that in which the author makes merry over his unlucky fate that he was born a male child of Jewish parents." More recently partial translations were published in reappraisals of Ḳalonymus's poem. See Dr. Tova Rosen in her article, "<a href="https://opensiddur.org/wp-content/uploads/2018/10/Circumcised-Cinderella-The-Fantasies-of-a-Fourteenth-Century-Jewish-Author-Tova-Rosen-2000.pdf">Circumcised Cinderella: The Fantasies of a Fourteenth-Century Jewish Author</a>" (<em>Prooftexts</em>, 20:1-2, Reading through the Lens of Gender (Winter/Spring 2000), pp. 87-110), and afterward in a separate translation by Rabbi Steven Greenberg in <em><a href="https://uwpress.wisc.edu/books/2576.htm">Wrestling with Gods and Men: Homosexuality in the Jewish Tradition</a></em> (University of Wisconsin Press 2004) p.118-120. Rabbi Greenberg later published his partial translation online at <a href="http://www.eshelonline.org/commemorating-transgender-day-of-remembrance/">Eshel</a> to commemorate the <a href="https://en.wikipedia.org/wiki/Transgender_Day_of_Remembrance">International Transgender Day of Remembrance</a> (on November 20) in 2015. The translation appearing below uses Rabbi Greenberg's translation as a base which has been completed with a combination of new translations offered by the Open Siddur Project community and those from Dr. Rosen's article. 
+
+If you find a line that can be improved or corrected, please <a href="https://opensiddur.org/contact/">contact us</a> or leave a comment.
 
 <h3>Source(s)</h3>
 

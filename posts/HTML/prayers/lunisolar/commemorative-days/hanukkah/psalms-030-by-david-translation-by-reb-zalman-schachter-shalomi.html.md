@@ -171,5 +171,10 @@ Yah, my God,
 This English translation of Psalms 30 by Rabbi Zalman Schachter-Shalomi z"l, was first published in his <em><a href="https://opensiddur.org/siddurim/ha-ari/neo-hasidut/reb-zalmans-open-siddur-tehillat-hashem/">Siddur Tehillat Hashem Yidaber Pi</a></em> (2009). Versification by Aharon Varady.
 
 Psalms 30 is the psalm for the days of Ḥanukkah. In the daily prayers, this psalm is often recited in the morning prayers just before the <em>Pesukei Dezimra</em>, appearing in siddurim in the context of messianic aspirations during the 17th century. Psalms 30:12 is found in the prayers recited following Motsei Shabbat Maariv. Psalms 30:13 is part of the prayer, "Uva Letzion."
+
+<h3>Source</h3>
+
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/SiddurTehillatHaShemYedaberPiWeekdaySiddur#page/n9/mode/2up"]
+
 </body>
 </html>

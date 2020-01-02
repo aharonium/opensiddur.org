@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: A Closing Prayer by the Ḥazzan, by Gershom Seixas (K.K. Shearith Israel, 1789)<br />
+Title: A Closing Prayer by the Ḥazzan, by Gershom Seixas (Ḳ.Ḳ. Shearith Israel, 1789)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=22804">http://opensiddur.org/?p=22804</a>
 <p />
@@ -44,13 +44,14 @@ at all times, as the matter shall require.
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
-
+שֶׁיֵדְעוּ כׇּל יוֹשְׁבֵי תֵבֵל
+כִּי יְיָ הוּא אֱלֹהִים וְאֵין עוֹד
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-That all the people of the earth may know 
-that the Lord he is God and none else.
+That all the people of the earth may know[foot]from the prayer, <em>Aleinu</em>.[/foot]
+that the Lord he is God and none else.[foot]Deuteronomy 4:35 part.[/foot]
 </div></td></tr>
 
 

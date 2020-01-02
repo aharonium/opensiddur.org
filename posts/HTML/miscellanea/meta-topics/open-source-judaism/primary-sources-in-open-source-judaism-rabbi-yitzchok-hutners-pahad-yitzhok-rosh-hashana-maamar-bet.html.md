@@ -25,7 +25,7 @@ Rabbi Ehrman's shiur is more of an exposition rather than a word-for-word transl
 </div></td>
 </tr>
 
-<tr><td colspan=2>Audio of <a href="http://www.yutorah.org/lectures/lecture.cfm/737202/Rabbi_Ally_Ehrman/Pachad_Yitzchak_Rosh_Hashana_Ma'amar_2:_Toras_Chessed_Al_Lishonah">Rabbi Ally Ehrman's shiur</a>: [su_audio url="http://download.yutorah.org/2009/1002/737202/Pachad%20Yitzchak%20Rosh%20Hashana%20Ma%27amar%202%3A%20Toras%20Chessed%20Al%20Lishonah.MP3"]
+<tr><td colspan=2>Audio of <a href="http://www.yutorah.org/lectures/lecture.cfm/737202/Rabbi_Ally_Ehrman/Pachad_Yitzchak_Rosh_Hashana_Ma'amar_2:_Toras_Chessed_Al_Lishonah">Rabbi Ally Ehrman's shiur</a>: [su_audio url="https://download.yutorah.org/2009/1002/737202/Pachad%20Yitzchak%20Rosh%20Hashana%20Ma%27amar%202%3A%20Toras%20Chessed%20Al%20Lishonah.MP3"]
 </td></tr>
 
 

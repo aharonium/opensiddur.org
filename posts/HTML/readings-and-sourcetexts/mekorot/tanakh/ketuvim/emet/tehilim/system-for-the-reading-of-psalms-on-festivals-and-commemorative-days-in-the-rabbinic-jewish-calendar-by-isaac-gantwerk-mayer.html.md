@@ -2,7 +2,7 @@
 <head></head>
 <body>
 Title: תהלים | Schedule for the Reading of Psalms corresponding to Festivals and Commemorative Days, by Isaac Gantwerk Mayer<br />
-Primary contributor: isaac.gantwerk-mayer<br />
+Primary contributor: isaac-gantwerk.mayer<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=20744">http://opensiddur.org/?p=20744</a>
 <p />
 <hr />

@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: רבון העולמים | Ribon HaOlamim from the Seder Tefilot of the RaMBaM in M.S. Constantinople 1509 (trans. Aharon Varady)<br />
+Title: רבון העולמים | Ribon HaOlamim from the Seder Tefilot of the RaMBaM in M.S. Constantinople 1509<br />
 Primary contributor: aharon.n.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=16541">http://opensiddur.org/?p=16541</a>
 <p />
@@ -21,9 +21,9 @@ For attribution and license, please consult the following URL: <a href="http://o
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Always may a person revere Heaven in solitude,[foot]lit. seclusion[/foot] 
+<span class="instruction">Always may a person revere Heaven in solitude,[foot]lit. seclusion[/foot] 
 to contemplate Truth and articulate truth in their mind,
-to arise and say:[foot]Cf. Eliyahu Rabbah, parshah 19[/foot] [foot]Others translate this instruction as follows: "Man should always fear Heaven in seclusion, and confess the truth, and speak truth in his heart, and arise and say:"[/foot] 
+to arise and say:</span>[foot]Cf. Eliyahu Rabbah, parshah 19. Others translate this instruction as follows: "Man should always fear Heaven in seclusion, and confess the truth, and speak truth in his heart, and arise and say:"[/foot] 
 </div></td>
 </tr>
 
@@ -263,7 +263,7 @@ But you are the same, and your years never end.[foot]Psalms 102:28[/foot]
 <div class="english">
 YHVH reigns,[foot]Psalms 10:16[/foot] YHVH has reigned,[foot]Psalms 93:1, et al[/foot] YHVH shall reign in the Cosmos forever.[foot]Exodus 15:18 in Shir HaYam[/foot]
 YHVH reigns, YHVH has reigned, YHVH shall reign in the Cosmos forever.
-Blessed is YHVH in the Cosmos, <em>amen</em> and <em>amen</em>.
+Blessed is YHVH in the Cosmos, amen and amen.
 </div></td>
 </tr>
 </tbody></table>
