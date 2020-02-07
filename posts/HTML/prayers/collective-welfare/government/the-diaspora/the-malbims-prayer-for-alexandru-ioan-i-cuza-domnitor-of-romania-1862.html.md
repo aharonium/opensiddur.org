@@ -59,7 +59,7 @@ Acoperă-l cu maiestate și glorie.
 <div class="english">
 A day when the gates of our land were opened
 May our chosen king enter through them
-Let us pour out our words before You HaShem our <em>elo'ah</em>
+Let us pour out our words before You HaShem our elo'ah
 Open the gates of Your heavens and let Your light shine
 Grant him long years of life
 Shower him with majesty and glory
@@ -197,7 +197,7 @@ Păzește-l, al nostru elo’ah
 <td style="vertical-align:top;" width="36%">
 <div class="english">
 Our lord, the king
-Protect him, our <em>elo'ah</em>, 
+Protect him, our elo'ah, 
 and his consort the Queen 
 and all the ministers of his kingdom
 </td></tr>

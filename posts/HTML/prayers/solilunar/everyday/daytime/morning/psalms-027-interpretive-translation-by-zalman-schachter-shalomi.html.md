@@ -286,5 +286,13 @@ Concerning Psalms 27:13, RaShI writes, "The word "<em>Lulei</em>" has dots on it
 While the virtues of Psalms 27 are extolled in a general way by others, Moshe Ḥalamish writes that the earliest plausible source for saying Psalms 27 during Elul Zman is the Sefer Shem Tov Katan of R. Binyamin Beineish ha-Cohen ("the Ba'al Shem of Kratshin") at the end of the 17th century, after which it appears in Ḥemdat ha-Yamim, Yamim Noraim 4, 14d. (Consult Ḥalamish, <em>Hikrei Kabbalah u_Tefilah</em> pp. 175-185. Many thanks to Pinchas Giller for this reference.)
 
 Psalms 27 is recited twice daily from Rosh Ḥodesh Elul till Shemini Atzeret. Psalms 27:7 is found in the repetition of the Shaḥarit Amidah during Rosh Hashanah. Psalms 27:13 is found in the Musaf Amidah on Rosh Hashanah. Psalms 27:14 is one of the verses recited before the piyyut, "Ein Keloheinu."
+
+<h3>Source</h3>
+
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/SiddurTehillatHaShemYedaberPiWeekdaySiddur#page/n47/mode/2up"]
+
+<hr />
+
+&nbsp;
 </body>
 </html>

@@ -47,7 +47,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 נתלו בדדיהם אשר צמקו 
 כמם לבב איש כהתה כל רוח ונש״מה 
 שמו למטרה וחץ זרקו 
-בכה נבכה ולא ינוח	
+בכה נבכה ולא ינוח   
 עד יצא נפשם ולאל קראו
 </span></div></td>
  
@@ -81,7 +81,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 מה אעיד׳ ומ׳ אדמ׳ לך מדינ׳ פולין
 ואיך עתה היא יושבת עלובה 
 ועתה נהפכת אין לנו מקום ללין
-ותבער בעדת ישראל אש להבה	
+ותבער בעדת ישראל אש להבה    
 אלו הן הלוקין והנסקלין
 איה מוציא סוד תורה לאורה 
 נשבה ארון הקדש ומאמר עין
@@ -97,9 +97,9 @@ For attribution and license, please consult the following URL: <a href="http://o
 <div class="liturgy"><span lang="he">
 אעש׳ מספד וקינים ואבל בבנו׳ יענה 
 מי יאסור ויטרוף טרף 
-מי ישמע ולא ידמע בבכי ויללה	
+מי ישמע ולא ידמע בבכי ויללה 
 מי הוא אשר יאמר למלאך הרף
-ויאחז בשרו פלצות וחלחלה	
+ויאחז בשרו פלצות וחלחלה 
 קשה פרידתם אשר נפרדו
 על שפיכ׳ כמי׳ דם ישראל עם סגולה 
 איה פרידתם אשר תמו
@@ -137,7 +137,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <hr />
 
-This kinah (elegy) appearing in <em><a href="http://hebrewbooks.org/24261">Sefer Kol Yaakov</a></em> (1658) by Yaakov Koppel ben Tsvi Margalit, was possibly written by an eyewitness survivor of the <a href="https://en.wikipedia.org/wiki/Khmelnytsky_Uprising#Jews">Chmielnicki massacres of 1648–1649</a>. Many thanks to Fred MacDowell for <a href="https://twitter.com/onthemainline/status/1098941009554300928">bringing this kinah to our attention</a>. 
+This kinah (elegy) appearing in <em><a href="http://hebrewbooks.org/24261">Sefer Kol Yaakov</a></em> (1658) by Yaakov Koppel ben Tsvi Margalit, was possibly written by an eyewitness survivor of the <a href="https://en.wikipedia.org/wiki/Khmelnytsky_Uprising#Jews">Chmielnicki massacres of 1648–1649</a>. Many thanks to Fred MacDowell for <a href="https://twitter.com/onthemainline/status/1098941009554300928">bringing this kinah to our attention</a>.
 
 As far as we know it has not yet been translated. If you are moved to, please <a href="https://opensiddur.org/contributing/upload/">contribute a translation</a>.
 

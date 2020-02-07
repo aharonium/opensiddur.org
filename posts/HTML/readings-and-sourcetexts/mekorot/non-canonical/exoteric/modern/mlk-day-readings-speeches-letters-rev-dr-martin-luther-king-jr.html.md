@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: MLK Day | Readings from the Speeches and Letters of Rev. Dr. Martin Luther King Jr.<br />
+Title: Readings from the Speeches and Letters of Rev. Dr. Martin Luther King Jr.<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=14943">http://opensiddur.org/?p=14943</a>
 <p />
@@ -85,9 +85,9 @@ Like anybody, I would like to live a long life -- longevity has its place. But I
 
 Readings from the speeches and letters of Rev. Dr. Martin Luther King, Jr. selected for an ecumenical service by Temple Emanu-El and Abyssinian Baptist Church on Friday, January 13, 2017: a "Sabbath Worship Service Commemorating the Life and Legacy of Dr. Martin Luther King, Jr."
 
-<h3>Transcription Source</h3>
+<h3>Source</h3>
 
-[gview file="https://opensiddur.org/wp-content/uploads/2017/01/Martin-Luther-King-Day-Temple-Emanuel-and-the-Abyssinian-Baptist-Church-2017.pdf"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/martinlutherkingdaytempleemanuelandtheabyssinianbaptistchurch2017#page/n0/mode/2up"]
 
 Several more quotes I would add to this list:
 
@@ -130,7 +130,7 @@ Whenever the government provides opportunities and privileges for white people a
 </div>
 </td></tr></tbody></table>
 
-https://youtu.be/tGzT6yfpmg4?t=1m21s
+https://youtu.be/tGzT6yfpmg4?t=1m22s
 
 https://www.youtube.com/watch?v=SLsXZXJAURk
 

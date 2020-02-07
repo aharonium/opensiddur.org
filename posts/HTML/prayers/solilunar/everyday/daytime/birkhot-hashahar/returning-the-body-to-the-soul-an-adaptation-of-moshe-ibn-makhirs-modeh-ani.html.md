@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: מודה אני | Returning the body to the soul: an adaptation of Modeh Ani by Moshe ibn Makhir<br />
+Title: מוֹדה אֲנִי | Returning the body to the soul: an adaptation of Modeh Ani by Moshe ibn Makhir<br />
 Primary contributor: yaqub.ibn-yusuf<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=5924">http://opensiddur.org/?p=5924</a>
 <p />
@@ -18,7 +18,7 @@ I have difficulty with the idea of thanking God for "returning my soul to me" <e
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
 מוֹדָה|מוֹדֶה אֲנִי לְפָנֶיךָ
-מֶֽלֳךְ חַי וְקַיָּם
+מֶֽלֶךְ חַי וְקַיָּם
 שֶׁהֶחֱזַרְתָּ בִּי
 הַנְשָׁמַתִי
 בְּחֶמְלָה

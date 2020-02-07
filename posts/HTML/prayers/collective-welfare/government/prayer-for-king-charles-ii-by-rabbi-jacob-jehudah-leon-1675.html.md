@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: הַנּוֺתֵן תְּשׁוּעָה | A Prayer for the Prosperitie of his Royal Majestie (King Charles II) delivered by Rabbi Jacob Jehudah Leon (1675)<br />
+Title: הַנּוֺתֵן תְּשׁוּעָה | Prayer for the Prosperitie of his Royal Majestie (King Charles II) delivered by Rabbi Jacob Jehudah Leon (1675)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=12159">http://opensiddur.org/?p=12159</a>
 <p />

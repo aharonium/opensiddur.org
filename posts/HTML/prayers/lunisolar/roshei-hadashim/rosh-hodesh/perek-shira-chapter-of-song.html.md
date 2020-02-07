@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: פֶּרֶק שִׁירָה | Pereq Shirah (Chapter of Song), a litany of verses pronounced in the voice of the creatures and works of Creation<br />
+Title: פֶּרֶק שִׁירָה | Pereq Shirah, a litany of verses pronounced in the voice of the creatures & works of Creation (after the arrangement of Natan Slifkin)<br />
 Primary contributor: unknown<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=10950">http://opensiddur.org/?p=10950</a>
 <p />
@@ -1023,7 +1023,7 @@ and joy for the straight-hearted.”[foot]Psalms 97:11[/foot]
 <td style="vertical-align:top;" width="53%">
 <div class="english">
 The Laughing Dove is saying: 
-“Comfort My people, comfort them, says your <em>elo'ah</em>.”[foot]Isaiah 1:40[/foot]
+“Comfort My people, comfort them, says your elo'ah.”[foot]Isaiah 1:40[/foot]
 </div>
 </td></tr>
 
@@ -1109,7 +1109,7 @@ The Domestic Goose is saying,
 The Wild Goose flying in the wilderness, when it sees Yisra'el busy with Torah, is saying,
 “A voice cries, 
 Prepare in the wilderness the way of YHVH, 
-make straight in the desert a path for our <em>elo'ah</em>.”[foot]Isaiah 40:3[/foot]. 
+make straight in the desert a path for our elo'ah.”[foot]Isaiah 40:3[/foot]. 
 
 And upon finding its food in the wilderness, it says, 
 “Cursed is the man who trusts in human beings...”[foot]Jeremiah 17:5 partial[/foot]&nbsp;
@@ -1223,7 +1223,7 @@ The Fly, when Yisra'el is not busying itself with Torah, is saying,
 “The voice said, ‘Call out.’ 
 And he said, ‘What shall I call out?' 
 'All flesh is grass, and all its grace is as the flower of the field.’[foot]Isaiah 40:6[/foot]&nbsp; 
-‘...The grass withers, the flower fades; but the word of our <em>elo'ah</em> shall endure forever.'”[foot]Isaiah 40:8[/foot]&nbsp;
+‘...The grass withers, the flower fades; but the word of our elo'ah shall endure forever.'”[foot]Isaiah 40:8[/foot]&nbsp;
 '“I will create a new expression of the lips; Peace, peace for him who is far off and for him who is near, says YHVH; and I will heal him.'”[foot]Isaiah 57:19[/foot]
 </div>
 </td></tr>
@@ -1338,7 +1338,7 @@ awesome in praise, worker of wonders.”[foot]Exodus 15:11[/foot]
 <div class="english">
 The Cow is saying: 
 “Rejoice to Elohim over our strength, 
-trumpet to the <em>elo'ah</em> of Yaakov!”[foot]Psalms 81 :2[/foot]
+trumpet to the elo'ah of Yaakov!”[foot]Psalms 81 :2[/foot]
 </div>
 </td></tr>
 
@@ -1402,7 +1402,7 @@ The Camel is saying:
 <td style="vertical-align:top;" width="53%">
 <div class="english">
 The Horse is saying: 
-“Behold, as the eyes of the servants to the hand of their master, as the eyes of the maidservant to the hand of her mistress, so are our eyes to YHVH our <em>elo'ah</em> until he will favor us.”[foot]Psalms 123:2[/foot]
+“Behold, as the eyes of the servants to the hand of their master, as the eyes of the maidservant to the hand of her mistress, so are our eyes to YHVH our elo'ah until he will favor us.”[foot]Psalms 123:2[/foot]
 </div>
 </td></tr>
 
@@ -1868,6 +1868,16 @@ This edition of Perek Shira was published in <a href="https://opensiddur.org/com
 
 <h3>Source</h3>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.archive.org/stream/SiddurLivnatHaSapirForWelcomingTheShabbatAharonVarady2017/Siddur-Livnat-Hasapir-lKabbalat-Shabbat-archive.org-v3.7.2#page/n54/mode/2up"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.archive.org/stream/SiddurLivnatHaSapirForWelcomingTheShabbatAharonVarady2017#page/n54/mode/2up"]
+
+&nbsp;
+
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/PerekShiraCriticalEditionMalachiBeitArie1967/PerekShiraCriticalEditionVol.2malachiBeit-arie1967#page/n20/mode/2up"]
+
+&nbsp;
+
+<hr />
+
+&nbsp;
 </body>
 </html>

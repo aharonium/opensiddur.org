@@ -225,5 +225,13 @@ for a fuller revelation of the Divine will.</div></td>
 <hr />
 
 This list of thirteen supplications for <em>emunah</em> (faith) was included by Rabbi Zalman Schachter-Shalomi, z"l, in his <em><a href="https://opensiddur.org/siddurim/ha-ari/neo-hasidut/reb-zalmans-open-siddur-tehillat-hashem/">Siddur Tehillat Hashem Yidaber Pi</a></em> (2009) under the heading, "The Teaching of the Beit Ha Midrash at Elat Chayyim." Sentence parsing by Aharon Varady.
+
+<h3>Source</h3>
+
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/SiddurTehillatHaShemYedaberPiWeekdaySiddur#page/n53/mode/2up"]
+
+<hr />
+
+&nbsp;
 </body>
 </html>

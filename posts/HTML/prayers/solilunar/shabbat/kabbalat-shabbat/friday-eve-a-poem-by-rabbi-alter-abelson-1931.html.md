@@ -8,7 +8,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <hr />
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;">Contribute a translation</th><th style="text-align: left;">Source (English)</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
@@ -120,8 +120,8 @@ Hymeneal hymns intone.
 </tbody></table>
 
 <hr />
-The poem “Friday Eve” can be found in Alter Abelson’s collection of poetry, <em>Sambatyon and other Poems, vol. 1</em> (New York: Ariel Publications, 1931), p. 79.
 
+The poem “Friday Eve” can be found in Alter Abelson’s collection of poetry, <em>Sambatyon and other Poems, vol. 1</em> (New York: Ariel Publications, 1931), p. 79.
 
 <h3>Source(s)</h3>
 

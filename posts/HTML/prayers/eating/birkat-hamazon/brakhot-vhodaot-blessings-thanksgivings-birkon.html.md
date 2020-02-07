@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<em>Brakhot v'Hoda'ot</em> (Blessings and Thanksgivings): A Birkon by R' Hillel Ḥayyim Yisraeli-Lavery. <em>Ḳiddush</em>, <em>Havdalah</em> and the <em>Birkat Hamazon</em> according to the custom of R' Saadia Gaon, RaMBaM, and the Vilna Gaon. <em>Zemirot</em>, <em>Piyyutim</em>, and <em>Shirim</em>. Ma'ariv for Weekdays and for after Shabbat. A souvenir for the Bar Mitsvah of Yeshayahu Yisraeli, 19 Sivan 5776 (Shabbat Parshat Shelakh Lekha). Published in the Holy City of Yerushalayim.
+<em>Brakhot v'Hoda'ot</em> (Blessings and Thanksgivings): A Birkon by R' Hillel Ḥayyim Yisraeli-Lavery. <em>Kiddush</em>, <em>Havdalah</em> and the <em>Birkat Hamazon</em> according to the custom of R' Saadia Gaon, RaMBaM, and the Vilna Gaon. <em>Zemirot</em>, <em>Piyyutim</em>, and <em>Shirim</em>. Ma'ariv for Weekdays and for after Shabbat. A souvenir for the Bar Mitsvah of Yeshayahu Yisraeli, 19 Sivan 5776 (Shabbat Parshat Shelakh Lekha). Published in the Holy City of Yerushalayim.
 
 <strong><span style="font-size: 18pt;">DOWNLOAD:</span></strong> <a href="https://opensiddur.org/wp-content/uploads/2016/06/Brachot-vHodaot-a-Birkon-Hillel-Hayyim-Lavery-Yisraeli-CC-BY-SA-2016.txt">TXT</a> | <a href="https://opensiddur.org/wp-content/uploads/2016/06/Brachot-vHodaot-a-Birkon-Hillel-Hayyim-Lavery-Yisraeli-CC-BY-SA-2016.odt">ODT</a> | <a href="https://opensiddur.org/wp-content/uploads/2016/06/Brachot-vHodaot-a-Birkon-Hillel-Hayyim-Lavery-Yisraeli-CC-BY-SA-2016.pdf">PDF</a>
 
@@ -48,9 +48,9 @@ For attribution and license, please consult the following URL: <a href="http://o
 <td style="vertical-align:top;" width="53%"><div class="english">
 The Order of the Shabbat Evening Feast
 Blessing the Children
-Ḳiddush for Shabbat Evening
-Ḳiddush for the Three Pilgrimage Festivals (Passover, Shavuot, and Sukkot)
-Ḳiddush for Rosh Hashanah
+Kiddush for Shabbat Evening
+Kiddush for the Three Pilgrimage Festivals (Passover, Shavuot, and Sukkot)
+Kiddush for Rosh Hashanah
 <em>Simana Milata</em>
 Songs for the Shabbat Evening
 Songs for the Shabbat Day
@@ -78,6 +78,6 @@ Counting of the Omer
 
 <h3>Source</h3>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/BrachotVHodaotABirkonHillelHayyimLaveryYisraeli2016#page/n0/mode/2up"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.archive.org/stream/BrachotVHodaotABirkonHillelHayyimLaveryYisraeli2016?ui=embed"]
 </body>
 </html>

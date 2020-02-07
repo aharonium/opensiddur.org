@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: Am Laubhüttenfest beim Kreisgang mit dem Lulaw und Esrog | [Prayer] on Sukkot at the Haqafot with the Lulav and Etrog, by Fanny Neuda (1855)<br />
+Title: [Gebet] Am Laubhüttenfest beim Kreisgang mit dem Lulaw und Esrog | [Prayer] on Sukkot at the Haḳafot with the Lulav & Etrog, by Fanny Neuda (1855)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=5322">http://opensiddur.org/?p=5322</a>
 <p />
@@ -17,7 +17,7 @@ Und umringe deinen Altar, o Ewiger.” (Psalm 26, 6.)
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
-<div class="english"><span lang="en">
+<div class="english">
 <span class="liturgy">אֶרְחַ֣ץ בְּנִקָּיֹ֣ון כַּפָּ֑י וַאֲסֹבְבָ֖ה אֶת־מִזְבַּחֲךָ֣ יְיָ׃</span>
 I will wash my hands in innocence; so will I circumambulate your altar, YHVH. (Psalms 26:6)
 </span></div></td></tr>
@@ -29,7 +29,7 @@ Herr des Weltalls, reich geschmückt mit deinen Gaben und Segnungen hast du die 
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
-<div class="english"><span lang="en">
+<div class="english">
 Source of Being, how abundantly you have adorned the natural world with your gifts and blessings! The valley with its luxurious greens, the mountain with its crown of forests, the fields with their fruits are all signs of your mercy, of your blessing to your human children for the nourishment of their bodies and the fulfillment of their needs, for the delight of their eyes and as a balm for their wounds. Amid nature’s vast richness no leaf is too small, no blade of grass too humble that it lacks healing power. The simple shrub and the resplendent tree, the sweet-smelling sprig and the golden fruit— all of them call to us: "Praise, you mortal beings, the Almighty One, who created all these wonders. Praise, you earthly children, your heavenly parent, who has provided and cared for you with such abundant goodness." So with praise, devotion, and gratitude, we grasp this festival bouquet, which holds the fourfold signs of nature, this miniature portrait of the rich diversity of the earth, this declaration of your might and goodness, O God. We raise, lower, and point it toward the six directions of earth and heaven because blessing awakens and sprouts from all sides and corners of the universe. Singing praises, we carry it around your altar.
 </span></div></td></tr>
 
@@ -40,8 +40,8 @@ Doch, Herr, nicht nur unser Mund soll dir danken, nicht nur unsere Lippen dir lo
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
-<div class="english"><span lang="en">
-Yet, Eternal One, not only do our mouths thank you, not only do our lips sing your praises, but we also must honor and extol you through our deeds, through our devotion, through our love. Just as you lovingly bless us with your goodness, so shall we be loving toward the poor in our midst. Just as you give us festivals of blessing and joy, so shall we, through generous charity, bring joy and festive feelings to the hearts of those who struggle. This shall be our act of gratitude, this our festival offering that you accept in the fullness of your grace.
+<div class="english">
+Yet, Eternal One, not only do our mouths thank you, not only do our lips sing your praises, but we also must honor and extol you through our deeds, through our devotion, through our love. Just as you lovingly bless us with your goodness, so shall we be loving toward the poor in our midst. Just as you give us festivals of blessing and joy, so shall we, through generous charity, bring joy and festive feelings to the hearts of those who struggle. This shall be our act of gratitude, this our festival offering that you accept in the fullness of your grace. Amen.
 </span></div></td></tr>
 </tbody></table>
 
@@ -53,6 +53,12 @@ From our new digital edition of Fanny Neuda's <a href="http://de.wikisource.org/
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/stundenderandac01neudgoog#page/n151/mode/2up/"]
 
+&nbsp;
+
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/StundenDerAndachtFannyNeuda1864#page/n180/mode/2up"]
+
+<hr />
+
+&nbsp;
 </body>
 </html>

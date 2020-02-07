@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: An den letzten Tagen des Laubhüttenfestes | [A prayer] on the last days of Sukkot, by Fanny Neuda (1855)<br />
+Title: [Gebet] An den letzten Tagen des Laubhüttenfestes | [A prayer] on the last days of Sukkot, by Fanny Neuda (1855)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=17602">http://opensiddur.org/?p=17602</a>
 <p />
@@ -17,7 +17,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
-<div class="english"><span lang="en">
+<div class="english">
 <span class="liturgy">וְשָׂמַחְתָּ֖ בְּחַגֶּ֑ךָ</span>
 And you shall rejoice in your festival. (Deuteronomy 16:14 part.)
 </span></div></td></tr>
@@ -29,7 +29,7 @@ Mit dem heutigen Tage beschließen wir das Laubhüttenfest und mein Herz erhebt 
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
-<div class="english"><span lang="en">
+<div class="english">
 With this day we conclude the festival of Sukkot (Tabernacles) and our heart rises up to you, All-Compassionate One, in gratitude for our joyous emotions and for every beautiful festival experience you have allowed us to share. 
 </span></div></td></tr>
 
@@ -40,7 +40,7 @@ Wir sind in Hütten gesessen, wie du geboten, und haben ungestört und in Frohmu
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
-<div class="english"><span lang="en">
+<div class="english">
 We have sat in our outdoor shelters as you have commanded, and we have eaten our festival meals within them, undisturbed and in good cheer. With pious, celebratory feelings we have sipped from your cup of joy, and so we have praised and sanctified your name. Soon we will leave these booths and move back into our houses amid all the usual comforts of our lives; there may you also spread the canopy of your peace over us.[foot]From the Kriyat Shema al ha-Mita. Cf. Jerusalem Talmud Berakhot 35b:1[/foot] May you never let us forget that you alone are the foundation and pillars of our houses, you alone are the support and umbrella of our lives, you are the one who blesses the fields and the wilderness, the home and the hearth. You adorn our lives on this earth with the gifts of your grace, and when the sukkah of our lives and desires finally collapses, you open the portals of your heavenly home for us.
 </span></div></td></tr>
 
@@ -51,7 +51,7 @@ Eine Laubhütte wohl ist unser Leben, grüne Hoffnungsblätter bilden das Dach, 
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
-<div class="english"><span lang="en">
+<div class="english">
 Our lives are truly like a sukkah. Green, hopeful leaves make up its roof. The walls are covered with ornaments and decoration. The table is set with inviting, lovely treats. Within it we experience a bounty of delights as we gaze out on pleasant vistas of the natural world. Yet often the sky grows dark, and in the midst of our joyous feast, in the midst of our celebrations, a cold shower of misfortune rains down on our heads. Heavy drops of bitter sorrow and pain descend on us. The raw north wind blows through the fresh, cheerful walls of our sukkah, and the partitions and poles of our luck and good fortune shake and shudder in the storm. One festive flower after the next falls ragged beneath our feet. One life ornament after another gets lost in the tumult. Deep pain runs through our souls, and we feel as if we've been delivered to the unfairness of fate. Then our only comfort is in remembering that all of life is fleeting,[foot]A reference to Qohelet (Ecclesiastes), traditionally read on the Shabbat of Sukkot[/foot] like the festival of Sukkot. Soon our earthly hut will break apart, our earthly husk fall away, and our souls will return to their eternal dwelling places. We will leave all our earthly joys behind, those joys we so often take for granted. They will remain behind, along with all our earthly needs, all our cares, sorrows, and worries. All that will accompany us are our deeds and gifts — all the labors of love we have practiced, all we have offered and done for good and noble purpose, all the tears that thankful hearts have cried on our behalf — these will be the garlands of gems that decorate our heavenly dwelling places, ornaments that never spoil and never pass away. There our hopes will ripen into glorious fruition, our merits blossom into crowns, and all our suffering transform into endless joy.
 </span></div></td></tr>
 
@@ -62,7 +62,7 @@ Dies Alles laß uns gedenken, mein Gott, daß es uns zur Lehre und zum Heil gere
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
-<div class="english"><span lang="en">
+<div class="english">
 Let us be mindful of all this, O God, that it might serve as a good teaching and healing throughout the course of our lives, so we never let ourselves be crushed by misfortune’s heavy hand, never let ourselves be carried away by the dazzle of good fortune, never forsake the holy treasure of our eternal beings for the sake of adorning our flimsy, earthly huts. Let our lives be wholesome, holy, God-pleasing lives before you now and forever. <em>Amen</em>.
 </span></div></td></tr>
 </tbody></table>
@@ -74,7 +74,6 @@ This is Fanny Neuda's "Prayer on the last days of Sukkot," faithfully transcribe
 In the subtitle in the printed editions of Stunden Der Andacht, this prayer is identified as a prayer for the last days of the festival of Sukkot (<a href="https://en.wikipedia.org/wiki/Shemini_Atzeret">Shemini Atseret</a>). Shemini Atseret is properly identified as a separate-yet-connected-to-Sukkot festival, ostensibly occurring the day <strong>after</strong> Sukkot. However, due to the celebration of a two day <em>yontef</em> in the Diaspora, the last day of Sukkot is extended to two days and the otherwise seven day festival of Sukkot is observed for eight days. It is this last day of the Diasporan Sukkot which overlaps with the first day of Diasporan Shemini Atseret. (The second day of Diasporan Shemini Atseret, and the very last day of all the festivals observed in the autumn month of Tishrei, is celebrated as the rabbinic Jewish festival of Simḥat Torah.)
 
 Rabbi Moritz Mayer (L. Frank 1866) was the first to offer an English translation of this prayer. Many prayers offered in his <a href="https://opensiddur.org/compilations/rabbinic-prayer/seder-tkhines/an-abridged-english-translation-of-fanny-neudas-stunden-der-andacht-by-moritz-mayer-1866/">1866 edition of Hours of Devotion</a> (published by L. Frank) deviate considerably from Neuda's German, and this is one of those in which he took <a href="https://archive.org/stream/hoursofdevotionb00neudrich#page/n68/mode/2up">numerous creative liberties</a>. (See below for Mayer's translation.)
-
 
 <h3>Transcription Source</h3>
 

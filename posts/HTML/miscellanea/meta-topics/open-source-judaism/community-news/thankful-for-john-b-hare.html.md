@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<a href="https://opensiddur.net/wp-content/uploads/2010/04/brujo.jpg"><img class="alignright size-full wp-image-505" title="John Bruno Hare" src="https://opensiddur.net/wp-content/uploads/2010/04/brujo.jpg" alt="" width="160" height="168" /></a>We just learned that yesterday (April 27, 2010) that <a href="http://www.webweasel.com/brujo/index.htm" target="_blank">John Bruno Hare</a>, founder of the <a href="http://www.sacred-texts.com/index.htm" target="_blank">Internet Sacred Texts Archive</a>, passed away. John's last decade of life was deeply invested in breathing life into public domain texts that had never been digitized. All this material was released back into the world as freely licensed content. Just as the many texts John made available inspire wisdom, so may John's life and work continue to be an inspiration.
+<a href="https://opensiddur.org/wp-content/uploads/2010/04/brujo.jpg"><img class="alignright size-full wp-image-505" title="John Bruno Hare" src="https://opensiddur.org/wp-content/uploads/2010/04/brujo.jpg" alt="" width="160" height="168" /></a>We just learned that yesterday (April 27, 2010) that <a href="http://www.webweasel.com/brujo/index.htm" target="_blank">John Bruno Hare</a>, founder of the <a href="http://www.sacred-texts.com/index.htm" target="_blank">Internet Sacred Texts Archive</a>, passed away. John's last decade of life was deeply invested in breathing life into public domain texts that had never been digitized. All this material was released back into the world as freely licensed content. Just as the many texts John made available inspire wisdom, so may John's life and work continue to be an inspiration.
 
 The day John died, we announced the completion of our transcription of the Jewish Publication Society's 1917 English translation of  דברי הימים א Chronicles I. After Psalms and Nehemia, this was the third work we had transcribed in partnership with the Internet Sacred Text Archive (ISTA). We were just one group of collaborators among many others. ISTA <a href="http://www.sacred-texts.com/bib/jps/" target="_blank">already completed</a> the Torah and Nevi'im up till 2 Kings. Due to the standard public domain licensing of our work, all that we endeavoured to complete could easily be shared with other free culture projects, such as Wikisource.
 
@@ -15,7 +15,7 @@ Indeed, we learned of John's passing from another ISTA volunteer working on the 
 
 Ramona Turner's <a href="http://web.archive.org/web/20140107165437/http://www.santacruzsentinel.com/localnews/ci_13035056" target="_blank">article</a> at the Santa Cruz Sentinel last August 11th, 2009, gave us some more information about John's declining health. John was working on making the archive into a self-sustaining publishing venture when he died.
 
-<blockquote><a href="https://opensiddur.net/wp-content/uploads/2010/04/Evinity-Publishing.jpg"><img class="alignright size-full wp-image-510" title="Evinity Publishing" src="https://opensiddur.net/wp-content/uploads/2010/04/Evinity-Publishing.jpg" alt="" width="240" height="174" /></a>[...] his goal is to make Evinity  Publishing, which he started this year as a parent company for his site  and other products, continue to educate curious minds long after he passes on.
+<blockquote><a href="https://opensiddur.org/wp-content/uploads/2010/04/Evinity-Publishing.jpg"><img class="alignright size-full wp-image-510" title="Evinity Publishing" src="https://opensiddur.org/wp-content/uploads/2010/04/Evinity-Publishing.jpg" alt="" width="240" height="174" /></a>[...] his goal is to make Evinity  Publishing, which he started this year as a parent company for his site  and other products, continue to educate curious minds long after he passes on.
 
 "Essentially, this is my gift to the world," he said. "I don't want  it to go away if I die. People consider it a world treasure."
 
@@ -64,6 +64,6 @@ Everybody pray:
 
 May it be true.
 
-(<a href="https://opensiddur.net/2009/12/kaddish-by-rabbi-daniel-brenner/" target="_self">A Kaddish by R' Daniel Brenner</a>)
+(<a href="https://opensiddur.org/2009/12/kaddish-by-rabbi-daniel-brenner/" target="_self">A Kaddish by R' Daniel Brenner</a>)
 </body>
 </html>

@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: ?אַיֵּךְ | Ayekh (Where are you?), by Ḥayyim Naḥman Bialik (1904)<br />
+Title: אַיֵּךְ | Ayekh (Where are you?), by Ḥayyim Naḥman Bialik (1904)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=23122">http://opensiddur.org/?p=23122</a>
 <p />
@@ -17,7 +17,7 @@ For attribution and license, please consult the following URL: <a href="http://o
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<h3>Where are you?</h3>
+<u>Where are you?</u>
 </div></td></tr>
 
 
@@ -116,14 +116,12 @@ self, you, you. You.
 
 <hr />
 
-Composed by Ḥayyim Naḥman Bialik in the month of Sivan 5664 (May 1904), in <a href="https://en.wikipedia.org/wiki/Gmina_Mrozy">Mrozy</a>, Poland. Translated by Ruth Nevo for <em>Chaim Nachman Bialik: Selected Poems</em> (Dvir and the Jerusalem Post 1981). Hebrew transcribed by the <a href="https://benyehuda.org/bialik/bia065.html">Ben-Yehuda Project</a>. 
+Composed by Ḥayyim Naḥman Bialik in the month of Sivan 5664 (May 1904), in <a href="https://en.wikipedia.org/wiki/Gmina_Mrozy">Mrozy</a>, Poland. Translated by Ruth Nevo for <em>Chaim Nachman Bialik: Selected Poems</em> (Dvir and the Jerusalem Post 1981). Hebrew transcribed by the <a href="https://benyehuda.org/bialik/bia065.html">Ben-Yehuda Project</a>.
 
 <h3>Source</h3>
 
 [caption id="attachment_23125" align="alignnone" width="640"]<a href="https://opensiddur.org/wp-content/uploads/2018/12/image00066.jpg"><img src="https://opensiddur.org/wp-content/uploads/2018/12/image00066-705x1024.jpg" alt="" width="640" height="930" class="size-large wp-image-23125" /></a> 241[/caption]
 
 [caption id="attachment_23124" align="alignnone" width="640"]<a href="https://opensiddur.org/wp-content/uploads/2018/12/image00065.jpg"><img src="https://opensiddur.org/wp-content/uploads/2018/12/image00065-692x1024.jpg" alt="" width="640" height="947" class="size-large wp-image-23124" /></a> 241[/caption]
-
-
 </body>
 </html>

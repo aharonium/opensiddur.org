@@ -119,7 +119,7 @@ Your heart
 and the hearts of Your children
 so that your love for your God
 will be wholehearted, inspired,
-to make Your life meaningful"
+to make Your life meaningful"[foot]Deuteronomy 30:6.[/foot]
 </div>
 </td></tr>
 
@@ -229,7 +229,7 @@ and we have sinned
 יְיָ אֱלֹהַי וֵאלֹהֵי אֲבוֹתַי,
 שֶׁלֹּא אֶחֱטָא עוֹד,
 וּמַה שֶּׁחָטָֽאתִי אֶתְוְוַדֶה לְפָנֶֽיךָ
-<span class="instruction">( לפרט החטא כאן )</span>
+<span class="instruction">(לפרט החטא כאן)</span>
 וַאֲבַקְשְךָ
 שֶתִּמְחוֹק בְּרַחֲמֶֽיךָ הָרַבִּים,
 אֲבָל לֹא עַל יְדֵי יִסּוּרִים וָחֳלָיִים רָעִים.
@@ -249,7 +249,7 @@ Help us
 with God’s help
 not to fail You again
 and what I hereby confess to You
-(insert the particular sin here)
+<span class="instruction">(insert the particular sin here)</span>
 I beg You,
 that in Your great mercy You erase my sins
 but not by means of suffering and illness.
@@ -265,7 +265,15 @@ I place my hope in You
 </tbody></table>
 
 <hr />
+
 Reb Zalman's translation of the Taḥanun was first published on the web at the Jewish Renewal Ḥasidus blog, <a href="http://www.jewishrenewalhasidus.org/Reb-Zalman-Resources/bilingual_tahanun.htm">here</a>. Thank you to Gabbai Seth Fishman for curating this resource.
 
+<h3>Source(s)</h3>
+
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/SiddurTehillatHaShemYedaberPiWeekdaySiddur#page/n35/mode/2up"]
+
+<hr />
+
+&nbsp;
 </body>
 </html>

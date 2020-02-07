@@ -1,8 +1,8 @@
 <html>
 <head></head>
 <body>
-Title: ט״וּ בִּשְׁבָט | A Tree Comes of Age, an essay on the awakening of the trees during the month of Sh'vat by Rabbi Dr. Daniel Sperber<br />
-Primary contributor: hai.ben-sherira<br />
+Title: A Tree Comes of Age, an essay on the awakening of the trees during the month of Sh'vat by Rabbi Dr. Daniel Sperber<br />
+Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=12558">http://opensiddur.org/?p=12558</a>
 <p />
 <hr />
@@ -223,7 +223,9 @@ During term-time, however, they were very strict in disciplining their instructo
 No more need be said.
 </div></td></tr>
 </tbody></table>
+
 <hr />
-"A Tree Comes of Age" was originally given as a lecture on Parashat Yitro 5769/ February 14, 2009 and published on Bar-Ilan University's Parashat Hashavua Study Center's website, <a href="http://www.biu.ac.il/JH/Parasha/eng/ytro/sper.html">here</a>. I have transcribed and added a number of the sourcetexts referred to in the lecture and in doing this I have added to the annotations in the original post.
+
+"A Tree Comes of Age" was originally given as a lecture on Parashat Yitro 5769/ February 14, 2009 and published on Bar-Ilan University's Parashat Hashavua Study Center's website, <a href="http://www.biu.ac.il/JH/Parasha/eng/ytro/sper.html">here</a>. I have transcribed and added a number of the sourcetexts referred to in the lecture and in doing this I have added to the annotations in the original post. --Aharon Varady
 </body>
 </html>

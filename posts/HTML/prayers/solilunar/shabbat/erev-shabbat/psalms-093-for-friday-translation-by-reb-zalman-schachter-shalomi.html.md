@@ -75,8 +75,17 @@ Through all of time.
 </tbody></table>
 
 <hr />
+
 Rabbi Zalman Schachter-Shalomi, z"l, included his translation of the Psalm of the Day for Friday (Psalms 93) in his <em><a href="https://opensiddur.org/siddurim/ha-ari/neo-hasidut/reb-zalmans-open-siddur-tehillat-hashem/">Siddur Tehillat Hashem Yidaber Pi</a></em> (2009). To the best of my ability, I have set his translation side-by-side with a transcription of the vocalized text of the Psalm. --Aharon N. Varady
 
-The association of particular psalms sung by Levites in the Temple for each day of the week is first attested in <a href="https://www.sefaria.org/Mishnah_Tamid.7.4?lang=bi">Mishnah Tamid 4.7</a>. 
+The association of particular psalms sung by Levites in the Temple for each day of the week is first attested in <a href="https://www.sefaria.org/Mishnah_Tamid.7.4?lang=bi">Mishnah Tamid 4.7</a>.
+
+<h3>Source</h3>
+
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/SiddurTehillatHaShemYedaberPiWeekdaySiddur#page/n45/mode/2up"]
+
+<hr />
+
+&nbsp;
 </body>
 </html>

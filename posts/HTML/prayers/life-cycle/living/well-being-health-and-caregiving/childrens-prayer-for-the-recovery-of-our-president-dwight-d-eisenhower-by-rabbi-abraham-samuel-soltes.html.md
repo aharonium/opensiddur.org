@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: Children's Prayer for the Recovery of our President [Dwight D. Eisenhower], by Rabbi Abraham Samuel Soltes (1955)<br />
+Title: Children's Prayer for the Recovery of our President [Dwight D. Eisenhower], by Rabbi Avraham Samuel Soltes (1955)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=27361">http://opensiddur.org/?p=27361</a>
 <p />
@@ -111,6 +111,6 @@ who healest the sick.
 
 <h3>Source(s)</h3>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/tefilahinvocationasheafofprayersavrahamsoltes1959#page/n31/mode/2up"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/tefilahinvocationasheafofprayersavrahamsoltes1959#page/n61/mode/2up"]
 </body>
 </html>

@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: תהלים קכו | Shir Hama'alot :: Psalms 126, a poetic translation by Shim'on Menachem<br />
+Title: תהלים קכ״ו | Shir Hama'alot :: Psalms 126, a poetic translation by Shim'on Menachem<br />
 Primary contributor: shimonides<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=7731">http://opensiddur.org/?p=7731</a>
 <p />

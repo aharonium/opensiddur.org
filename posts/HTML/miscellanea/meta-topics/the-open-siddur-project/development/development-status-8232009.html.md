@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: Development Status (8/23/2009)<br />
+Title: Development Status (2009-08-23)<br />
 Primary contributor: hierophant<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=179">http://opensiddur.org/?p=179</a>
 <p />
@@ -9,7 +9,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <strong>Open Siddur Project Development Status</strong> <strong>as of 8/23/2009</strong>
 
-<strong> </strong>This is our first development status post. Normally, this post will try to wrap up what we've achieved in the past week. Since this is our first, I'll be summing up some of the progress we've made in the last month or so. It will serve as something like a newsletter, and will be posted on the discussion list and at <a href="../">opensiddur.org</a>. <a href="https://opensiddur.org/contact/" target="_self">Contact us</a> if you want to include something we haven't covered.
+<strong> </strong>This is our first development status post. Normally, this post will try to wrap up what we've achieved in the past week. Since this is our first, I'll be summing up some of the progress we've made in the last month or so. It will serve as something like a newsletter, and will be posted on the discussion list and at <a href="../">opensiddur.org</a>. <a href="https://opensiddur.org/contact/" target="_self" rel="noopener noreferrer">Contact us</a> if you want to include something we haven't covered.
 
 If you'd like to get news of Open Siddur as it happens, make sure to follow <a href="http://twitter.com/opensiddur">@opensiddur</a> at Twitter.
 

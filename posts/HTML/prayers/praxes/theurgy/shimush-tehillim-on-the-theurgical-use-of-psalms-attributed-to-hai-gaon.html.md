@@ -1763,7 +1763,6 @@ For attribution and license, please consult the following URL: <a href="http://o
 </tr>
 </tbody></table>
 
-
 ‫קבלה מפי גאוני עולם לומר‬ מזמורים ‫אלו בשעת הוצאת ם״ת‬ מידי שבת בשבתו:‬
 
 בראשית. ברכי נפשי סימן‬ (קד)‏
@@ -1870,19 +1869,19 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 </div>
 
-
-
 <hr />
 
 The Shimush Tehillim is a medieval work providing prescriptive theurgical associations for Psalms and verses from Psalms. It has been historically attributed to Rav Hai Gaon (939-1038 CE) but any definitive statement of authorship is lacking. The suggestion that portions of the Shimush Tehillim were authored during the late Geonic period in Iraq isn't implausible. We also know that Hai Gaon was knowledgeable enough of Hekhalot writings to give a summary description of Hekhalot Rabbati and Zutarti in his correspondence. Writings found in the Shimush Tehillim have been found in a handbook from the Cairo Geniza with leaves dating from the 11th century.[foot]Cf. the Geniza text T.-S. K 1.28, as referenced by James Davila, <em>Descenders to the Chariot</em> (Brill 2001, p.237).[/foot]
 
 This digital transcription of Shimush Tehillim derives from Elias Klein Békéscsaba's 1936 compilation. This edition should not be considered a critical text, as earlier editions certainly exist. Not all of the Psalms are identified as having a particular theurgical use.
 
-I made this transcription manually in the ProofreadPage collaborative transcription environment of <a href="https://he.wikisource.org/wiki/%D7%9E%D7%A4%D7%AA%D7%97:Sefer_Shimush_Tehillim.pdf">Hebrew Wikisource</a>. Please <a href="https://opensiddur.org/contact">inform me of any errors</a>. Shgiyot mi yavin, Ministarot Nakeni <span class="scribe">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> "Who can know all one's flaws? From hidden errors, correct me" (Psalms 19:13). 
+I made this transcription manually in the ProofreadPage collaborative transcription environment of <a href="https://he.wikisource.org/wiki/%D7%9E%D7%A4%D7%AA%D7%97:Sefer_Shimush_Tehillim.pdf">Hebrew Wikisource</a>. Please <a href="https://opensiddur.org/contact">inform me of any errors</a>. Shgiyot mi yavin, Ministarot Nakeni <span class="scribe">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> "Who can know all one's flaws? From hidden errors, correct me" (Psalms 19:13).
 
 The theurgical use of only 120 of the 150 Psalms are provided by Békéscsaba. I have annotated these with Reuven Brauner's <a href="http://www.halakhah.com/rst/tehillim.pdf">synopsis of Shimush Tehilim</a> (Eclectic Torah Compilations 2012). He he has graciously shared this text through the Open Siddur with a CC BY-SA license. Brauner relied on another edition of Shimush Tehilim and so his synopsis includes information on the use of additional Psalms not provided in Békéscsaba's 1936 compilation, as well as additional details concerning praxis not found in the text I transcribed. I intend to provide a critical text of Shimush Tehillim that accounts for all of the Psalms indicating from which manuscript or printed work the theurgical explanation is first provided.
 
-Reuven Brauner writes:<blockquote>
+Reuven Brauner writes:
+
+<blockquote>
 Sefer Shimush Tehillim is a short and relatively little-known treatise attributed to Rav Hai Gaon (according to the Sedei Chemed) which describes the Kabbalistic uses of particular chapters and verses from the Book of Psalms for prophylactic or healing purposes. These selections are meant to be either recited alone, frequently multiple times, or in conjunction with some other action or prayer. Shimush Tehillim is mentioned in Teshuvas HaRashba (413), by the Chida, and others. This work is not to be confused with bibliomancy which is the use of Biblical verses for predicting the future.
 
 There are numerous instances cited in the Talmud and other sources regarding the utilization of Biblical verses to ward off demons and the Evil Eye, against bad dreams, against the effects of drinking water uncovered at night, and other more serious calamities. Verses were employed to lighten the pain at childbirth, as protection against danger on a journey, fierce dogs, bleeding and wounds, and the effects of fire and fever. Verses were recited to gain favor or improve one’s memory, and so on. (See Sanhedrin 101a and Shulchon Oruch, Yoreh Deoh 179:8-10, et al.)
@@ -1900,10 +1899,8 @@ Finally, I made no attempt at trying to determine why each chapter has the effec
 Reuven Brauner
 5 Sivan 5766</blockquote>
 
-
 <h3>Source</h3>
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/ShimushTehillimEliasKleinBekescsaba1936#page/n0/mode/2up"]
-
 </body>
 </html>

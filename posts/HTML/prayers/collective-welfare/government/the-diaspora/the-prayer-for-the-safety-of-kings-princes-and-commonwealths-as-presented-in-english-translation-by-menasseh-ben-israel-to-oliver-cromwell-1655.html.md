@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: הַנּוֺתֵן תְּשׁוּעָה | The Prayer for the Safety of Kings, Princes and Commonwealths, presented by Menasseh ben Israel to Oliver Cromwell (1655)<br />
+Title: הַנּוֺתֵן תְּשׁוּעָה | Prayer for the Safety of Kings, Princes and Commonwealths, presented by Menasseh ben Israel to Oliver Cromwell (1655)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=12692">http://opensiddur.org/?p=12692</a>
 <p />

@@ -13,9 +13,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <hr />
 
-<h3>Source</h3>
-
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.archive.org/stream/SiddurLivnatHaSapirForWelcomingTheShabbatAharonVarady2017?ui=embed"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/SiddurLivnatHaSapirForWelcomingTheShabbatAharonVarady2017#page/n0/mode/2up"]
 
 </hr>
 
@@ -51,7 +49,7 @@ All of these prayerful efforts are organized according to some intention, if not
 
 Such prayerbooks are in a very real sense, navigational, just as a map is understood as navigational; they should guide us how to get from the Shire to the Mirkwood, how to enter into a communion with other congregants, or how to meet the Divine safely in an experience of anamnesis and euphoria. However, just as a map can be mistaken for the imagined territory, so too the arrangement of prayers can be mistaken for the practice, completely obscuring the destination in its simple presentation of the set of text to be read, chanted, or sung alone and together. 
 
-☛ We advance with some severity that while it is imperative to hold and cherish the practice and its goal, it is crucial for the practicioner to critique the map / siddur on the basis of whether it helps one to attain this goal. To do less, I believe, is to put too much faith in the map maker or siddur designer. There are always manifold ways to reach a destination, some well trodden, others still waiting to be discovered. And some routes are already, purposefully designed to advance (or erase) certain worldviews and political agendas. We must be extra mindful and critical of any technology that presents itself as a mentor like guide for some of the most intimate experiences we can imagine: inviting with delicate subtleties, internal voices and divine projections.
+☛ We advance with some severity that while it is imperative to hold and cherish the practice and its goal, it is crucial for the practitioner to critique the map / siddur on the basis of whether it helps one to attain this goal. To do less, I believe, is to put too much faith in the map maker or siddur designer. There are always manifold ways to reach a destination, some well trodden, others still waiting to be discovered. And some routes are already, purposefully designed to advance (or erase) certain worldviews and political agendas. We must be extra mindful and critical of any technology that presents itself as a mentor like guide for some of the most intimate experiences we can imagine: inviting with delicate subtleties, internal voices and divine projections.
 
 This siddur, my first, is a bridge to the land beyond the River Sambatyon; in my translation I have sought to elevate and evoke the magical and mythical over any other critical literal or historical reading. Siddur Livnat haSapir will look different compared to other siddurim.[foot]<table style="margin-left: auto;margin-right: auto;">
 <tbody>
@@ -70,7 +68,7 @@ One should not pray opposite clothes with designs… and if one happens to pray 
 
 Rabbi Moshe ben Yisra’el Isserles (1520-1572): Therefore, one may not draw pictures in the books from which we pray, lest that prevent concentration.</td></tr></tbody></table>[/foot] I only hope that whether one is impressed or dissatisfied, it inspires the one who finds it to use this work to begin crafting their own prayerbook. I founded the Open Siddur Project to support everyone crafting their own siddur, and after seven years, I have finally made my own. I encourage others to share the product of their effort (as I have done - with an Open Content license) so as to help others to build upon and develop their own prayerbooks. 
 
-May the pleasantness of ה׳ our <em>elo'ah</em> be upon us; [may Hashem] establish our handiwork for us — our handiwork [may Hashem] establish. (Psalms 90:17)
+May the pleasantness of ה׳ our elo’ah be upon us; [may Hashem] establish our handiwork for us — our handiwork [may Hashem] establish. (Psalms 90:17)
 
 Who can know all one’s flaws? From hidden errors, correct me” (Psalms 19:13)
 
@@ -79,14 +77,6 @@ Who can know all one’s flaws? From hidden errors, correct me” (Psalms 19:13)
 <h3>Print Copies</h3>
 
 Print copies available for purchase from <a href="http://dimus.parrhesia.press/?p=317" rel="nofollow">Dimus Parrhesia Press</a>.
-
-<a href="http://dimus.parrhesia.press/?p=317"><img src="https://opensiddur.org/wp-content/uploads/2017/04/livnat-hasapir-cover-1024x739.jpg" alt="" width="640" height="462" class="size-large wp-image-15232" /></a>
-
-<h3>Digital Edition</h3>
-
-The entire siddur can be viewed and downloaded as PDF at the <a href="https://archive.org/details/SiddurLivnatHaSapirForWelcomingTheShabbatAharonVarady2017">Internet Archive</a>.
-
-<a href="https://archive.org/details/SiddurLivnatHaSapirForWelcomingTheShabbatAharonVarady2017"><img src="https://opensiddur.org/wp-content/uploads/2017/04/siddur-livnat-hasapir-lkabshab-title-1024x773.jpg" alt="" width="640" height="483" class="alignnone size-large wp-image-15231" /></a>
 
 <h3>Source Files</h3>
 

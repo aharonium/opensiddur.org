@@ -7,6 +7,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
+&nbsp;
+
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/SiddurHaAvodahSheBaLevLShabbatKehilatKolHaneshama2007#page/n0/mode/2up"]
+
 <div class="liturgy" style="text-align: right;">
 [su_tabs]
   [su_tab title="Kabbalat Shabbat"]
@@ -332,7 +336,7 @@ Adonai's voice above the waters! The God of glory thunders!
 Adonai's voice, with power - Adonai's voice, majestic.         
 Adonai's voice breaks cedars, Adonai shatters Lebanon's cedars,       
 Lebanon skips like a calf, Sirion like a wild young ox.        
-Adonai’s voice sparks fiery flames; Adonai’s voice makes the desert spin; Adonai’s voice shakes the Ḳadesh desert; Adonai’s voice uproots the oaks, and strips the forests bare, In God’s temple all cry: "Glory!"    
+Adonai’s voice sparks fiery flames; Adonai’s voice makes the desert spin; Adonai’s voice shakes the Kadesh desert; Adonai’s voice uproots the oaks, and strips the forests bare, In God’s temple all cry: "Glory!"    
 Adonai enthroned above the flood, Adonai will reign forever. Adonai will give strength to His people, Adonai will bless His people with peace.
 </div>
 </td></tr>
@@ -797,7 +801,7 @@ Blessed are you, Adonai, whose word makes evening fall.
 <div class="liturgy" style="text-align: right;"><span lang="he">
 הברכה השנייה  לפני קריאת שמע
 
-אַהֲבַת עוֹלָם בֵּית יִשְׂרָאֵל עַמְּךָ אָהָבְתָּ, תּוֹרָה וּמִצְוֺת חֻקִּים וּמִשְׁפָּטִים אוֹתָנוּ לִמַּדְתָּ, עַל כֵּן יהוה אֱלֹהֵינוּ בְּשָׁכְבֵנוּ וּבְקוּמֵנוּ נָשִׂיחַ בְּחֻקֶּיךָ, וְנִשְׂמַח בְּדִבְרֵי תוֹרָתֶךָ וּבְמִצְוֺתֶיךָ לְעוֹלָם וָעֶד. כִּי הֵם חַיֵינוּ וְאֹרֶךְ יָמֵינוּ וּבָהֶם נֶהְגֶּה יוֹמָם וָלָיְלָה. וְאַהֲבַתְךָ אַל תָּסִיר מִמֶּנּוּ לְעוֹלָמִים, בָּרוּךְ אַתָּה יהוה, אוֹהֵב עַמּוֹ יִשְׂרָאֵל:
+אַהֲבַת עוֹלָם בֵּית יִשְׂרָאֵל עַמְּךָ אָהָבְתָּ, תּוֹרָה וּמִצְוֹת חֻקִּים וּמִשְׁפָּטִים אוֹתָנוּ לִמַּדְתָּ, עַל כֵּן יהוה אֱלֹהֵינוּ בְּשָׁכְבֵנוּ וּבְקוּמֵנוּ נָשִׂיחַ בְּחֻקֶּיךָ, וְנִשְׂמַח בְּדִבְרֵי תוֹרָתֶךָ וּבְמִצְוֹתֶיךָ לְעוֹלָם וָעֶד. כִּי הֵם חַיֵינוּ וְאֹרֶךְ יָמֵינוּ וּבָהֶם נֶהְגֶּה יוֹמָם וָלָיְלָה. וְאַהֲבַתְךָ אַל תָּסִיר מִמֶּנּוּ לְעוֹלָמִים, בָּרוּךְ אַתָּה יהוה, אוֹהֵב עַמּוֹ יִשְׂרָאֵל:
 </span></div>
 </td>
  
@@ -849,7 +853,7 @@ You shall love Adonai your God with all your heart, with all your soul, and with
 פרשה שניה: קבלת עול מצוות
 נוסח מסורתי
 
-וְהָיָה אִם שָׁמֹעַ תִּשְׁמְעוּ אֶל מִצְוֺתַי אֲשֶׁר אָנֹכִי מְצַוֶּה אֶתְכֶם הַיּוֹם לְאַהֲבָה אֶת יהוה אֱלֹהֵיכֶם וּלְעָבְדוֹ בְּכָל לְבַבְכֶם וּבְכָל נַפְשְׁכֶם: וְנָתַתִּי מְטַר אַרְצְכֶם בְּעִתּוֹ יוֹרֶה וּמַלְקוֹשׁ וְאָסַפְתָּ דְגָנֶךָ וְתִירֹשְׁךָ וְיִצְהָרֶךָ: וְנָתַתִּי עֵשֶׂב בְּשָׂדְךָ לִבְהֶמְתֶּךָ וְאָכַלְתָּ וְשָׂבָעְתָּ:
+וְהָיָה אִם שָׁמֹעַ תִּשְׁמְעוּ אֶל מִצְוֹתַי אֲשֶׁר אָנֹכִי מְצַוֶּה אֶתְכֶם הַיּוֹם לְאַהֲבָה אֶת יהוה אֱלֹהֵיכֶם וּלְעָבְדוֹ בְּכָל לְבַבְכֶם וּבְכָל נַפְשְׁכֶם: וְנָתַתִּי מְטַר אַרְצְכֶם בְּעִתּוֹ יוֹרֶה וּמַלְקוֹשׁ וְאָסַפְתָּ דְגָנֶךָ וְתִירֹשְׁךָ וְיִצְהָרֶךָ: וְנָתַתִּי עֵשֶׂב בְּשָׂדְךָ לִבְהֶמְתֶּךָ וְאָכַלְתָּ וְשָׂבָעְתָּ:
 הִשָּׁמְרוּ לָכֶם פֶּן יִפְתֶּה לְבַבְכֶם. וְסַרְתֶּם וַעֲבַדְתֶּם אֱלֹהִים אֲחֵרִים וְהִשְׁתַּחֲוִיתֶם לָהֶם: וְחָרָה אַף יהוה בָּכֶם. וְעָצַר אֶת הַשָּׁמַיִם וְלֹא יִהְיֶה מָטָר. וְהָאֲדָמָה לֹא תִתֵּן אֶת יְבוּלָהּ. וַאֲבַדְתֶּם מְהֵרָה מֵעַל הָאָרֶץ הַטֹּבָה. אֲשֶׁר יהוה נֹתֵן לָכֶם: 
 וְשַׂמְתֶּם אֶת דְּבָרַי אֵלֶּה עַל לְבַבְכֶם וְעַל נַפְשְׁכֶם. וּקְשַׁרְתֶּם אֹתָם לְאוֹת עַל יֶדְכֶם. וְהָיוּ לְטוֹטָפֹת בֵּין עֵינֵיכֶם: וְלִמַּדְתֶּם אֹתָם אֶת בְּנֵיכֶם לְדַבֵּר בָּם. בְּשִׁבְתְּךָ בְּבֵיתֶךָ. וּבְלֶכְתְּךָ בַדֶּרֶךְ. וּבְשָׁכְבְּךָ וּבְקוּמֶךָ: וּכְתַבְתָּם עַל מְזֻזוֹת בֵּיתֶךָ וּבִשְׁעָרֶיךָ: לְמַעַן יִרְבּוּ יְמֵיכֶם וִימֵי בְנֵיכֶם עַל הָאֲדָמָה אֲשֶׁר נִשְׁבַּע יהוה לַאֲבֹתֵיכֶם לָתֵת לָהֶם. כִּימֵי הַשָּׁמַיִם עַל הָאָרֶץ: 
 </span></div>
@@ -871,7 +875,7 @@ If you obey the commandments that I command you this day, to love Adonai your Go
 <div class="liturgy" style="text-align: right;"><span lang="he">
 -נוסח חלופי
 
-רְאֵה נָתַתִּי לְפָנֶיךָ הַיּוֹם אֶת הַחַיִים וְאֶת הַטּוֹב וְאֶת הַמָּוֶת וְאֶת הָרָע: אֲשֶׁר אָנֹכִי מְצַוְּךָ הַיּוֹם לְאַהֲבָה אֶת יהוה אֱלֹהֶיךָ לָלֶכֶת בִּדְרָכָיו וְלִשְׁמֹר מִצְוֺתָיו וְחֻקֹּתָיו וּמִשְׁפָּטָיו וְחָיִיתָ וְרָבִיתָ וּבֵרַכְךָ יהוה אֱלֹהֶיךָ בָּאָרֶץ אֲשֶׁר אַתָּה בָא שָׁמָּה לְרִשְׁתָּהּ: וְאִם יִפְנֶה לְבָבְךָ וְלֹא תִשְׁמָע וְנִדַּחְתָּ וְהִשְׁתַּחֲוִיתָ לֵאלֹהִים אֲחֵרִים וַעֲבַדְתָּם: הִגַּדְתִּי לָכֶם הַיּוֹם כִּי אָבֹד תֹּאבֵדוּן לֹא תַאֲרִיכֻן יָמִים עַל הָאֲדָמָה אֲשֶׁר אַתָּה עֹבֵר אֶת הַיַּרְדֵּן לָבוֹא שָׁמָּה לְרִשְׁתָּהּ: הֲעִדֹתִי בָכֶם הַיּוֹם אֶת הַשָּׁמַיִם וְאֶת הָאָרֶץ הַחַיִים וְהַמָּוֶת נָתַתִּי לְפָנֶיךָ הַבְּרָכָה וְהַקְּלָלָה וּבָחַרְתָּ בַּחַיִים לְמַעַן תִּחְיֶה אַתָּה וְזַרְעֶךָ: לְאַהֲבָה אֶת יהוה אֱלֹהֶיךָ לִשְׁמֹעַ בְּקֹלוֹ וּלְדָבְקָה בוֹ כִּי הוּא חַיֶיךָ וְאֹרֶךְ יָמֶיךָ לָשֶׁבֶת עַל הָאֲדָמָה אֲשֶׁר נִשְׁבַּע יהוה לַאֲבֹתֶיךָ לְאַבְרָהָם לְיִצְחָק וּלְיַעֲקֹב לָתֵת לָהֶם:                                                
+רְאֵה נָתַתִּי לְפָנֶיךָ הַיּוֹם אֶת הַחַיִים וְאֶת הַטּוֹב וְאֶת הַמָּוֶת וְאֶת הָרָע: אֲשֶׁר אָנֹכִי מְצַוְּךָ הַיּוֹם לְאַהֲבָה אֶת יהוה אֱלֹהֶיךָ לָלֶכֶת בִּדְרָכָיו וְלִשְׁמֹר מִצְוֹתָיו וְחֻקֹּתָיו וּמִשְׁפָּטָיו וְחָיִיתָ וְרָבִיתָ וּבֵרַכְךָ יהוה אֱלֹהֶיךָ בָּאָרֶץ אֲשֶׁר אַתָּה בָא שָׁמָּה לְרִשְׁתָּהּ: וְאִם יִפְנֶה לְבָבְךָ וְלֹא תִשְׁמָע וְנִדַּחְתָּ וְהִשְׁתַּחֲוִיתָ לֵאלֹהִים אֲחֵרִים וַעֲבַדְתָּם: הִגַּדְתִּי לָכֶם הַיּוֹם כִּי אָבֹד תֹּאבֵדוּן לֹא תַאֲרִיכֻן יָמִים עַל הָאֲדָמָה אֲשֶׁר אַתָּה עֹבֵר אֶת הַיַּרְדֵּן לָבוֹא שָׁמָּה לְרִשְׁתָּהּ: הֲעִדֹתִי בָכֶם הַיּוֹם אֶת הַשָּׁמַיִם וְאֶת הָאָרֶץ הַחַיִים וְהַמָּוֶת נָתַתִּי לְפָנֶיךָ הַבְּרָכָה וְהַקְּלָלָה וּבָחַרְתָּ בַּחַיִים לְמַעַן תִּחְיֶה אַתָּה וְזַרְעֶךָ: לְאַהֲבָה אֶת יהוה אֱלֹהֶיךָ לִשְׁמֹעַ בְּקֹלוֹ וּלְדָבְקָה בוֹ כִּי הוּא חַיֶיךָ וְאֹרֶךְ יָמֶיךָ לָשֶׁבֶת עַל הָאֲדָמָה אֲשֶׁר נִשְׁבַּע יהוה לַאֲבֹתֶיךָ לְאַבְרָהָם לְיִצְחָק וּלְיַעֲקֹב לָתֵת לָהֶם:                                                
 </span></div>
 </td>
  
@@ -888,7 +892,7 @@ Behold, I have set before you this day life and good, or death and evil. For I c
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
 פרשה שלישית: ציצית - יציאת מצרים
-וַיֹּאמֶר יהוה אֶל משֶׁה לֵּאמֹר: דַּבֵּר אֶל בְּנֵי יִשְׂרָאֵל וְאָמַרְתָּ אֲלֵהֶם. וְעָשׂוּ לָהֶם צִיצִת עַל כַּנְפֵי בִגְדֵיהֶם לְדֹרֹתָם. וְנָתְנוּ עַל צִיצִת הַכָּנָף פְּתִיל תְּכֵלֶת: וְהָיָה לָכֶם לְצִיצִת. וּרְאִיתֶם אֹתוֹ. וּזְכַרְתֶּם אֶת כָּל מִצְוֺת יהוה וַעֲשִׂיתֶם אֹתָם. וְלֹא תָתוּרוּ אַחֲרֵי לְבַבְכֶם וְאַחֲרֵי עֵינֵיכֶם. אֲשֶׁר אַתֶּם זֹנִים אַחֲרֵיהֶם: לְמַעַן תִּזְכְּרוּ וַעֲשִׂיתֶם אֶת כָּל מִצְוֺתָי. וִהְיִיתֶם קְדשִׁים לֵאלֹהֵיכֶם: אֲנִי יהוה אֱלֹהֵיכֶם. אֲשֶׁר הוֹצֵאתִי אֶתְכֶם מֵאֶרֶץ מִצְרַיִם. לִהְיוֹת לָכֶם לֵאלֹהִים. אֲנִי יהוה אֱלֹהֵיכֶם: 
+וַיֹּאמֶר יהוה אֶל משֶׁה לֵּאמֹר: דַּבֵּר אֶל בְּנֵי יִשְׂרָאֵל וְאָמַרְתָּ אֲלֵהֶם. וְעָשׂוּ לָהֶם צִיצִת עַל כַּנְפֵי בִגְדֵיהֶם לְדֹרֹתָם. וְנָתְנוּ עַל צִיצִת הַכָּנָף פְּתִיל תְּכֵלֶת: וְהָיָה לָכֶם לְצִיצִת. וּרְאִיתֶם אֹתוֹ. וּזְכַרְתֶּם אֶת כָּל מִצְוֹת יהוה וַעֲשִׂיתֶם אֹתָם. וְלֹא תָתוּרוּ אַחֲרֵי לְבַבְכֶם וְאַחֲרֵי עֵינֵיכֶם. אֲשֶׁר אַתֶּם זֹנִים אַחֲרֵיהֶם: לְמַעַן תִּזְכְּרוּ וַעֲשִׂיתֶם אֶת כָּל מִצְוֹתָי. וִהְיִיתֶם קְדשִׁים לֵאלֹהֵיכֶם: אֲנִי יהוה אֱלֹהֵיכֶם. אֲשֶׁר הוֹצֵאתִי אֶתְכֶם מֵאֶרֶץ מִצְרַיִם. לִהְיוֹת לָכֶם לֵאלֹהִים. אֲנִי יהוה אֱלֹהֵיכֶם: 
 </span></div>
 </td>
  
@@ -1101,7 +1105,7 @@ Moses declared to Israel the set times of Adonai. (Lev 23:44)
 <div class="english">
 Chatzi Kaddish
 
-Let the great name of God be extolled and sanctified in the world whose creation He willed. May God’s kingdom soon prevail, in our own day, in our own lives, and the life of all Israel, and let us say: <em>Amen</em>. Let God’s great name be blessed for ever and ever. Let the name of the blessed Holy One be glorified, exalted and honored, though God is (on Shabbat of Repentance: above and) beyond all the praises, songs, and adorations that we can utter, and let us say: <em>Amen</em>.
+Let the great name of God be extolled and sanctified in the world whose creation He willed. May God’s kingdom soon prevail, in our own day, in our own lives, and the life of all Israel, and let us say: Amen. Let God’s great name be blessed for ever and ever. Let the name of the blessed Holy One be glorified, exalted and honored, though God is (on Shabbat of Repentance: above and) beyond all the praises, songs, and adorations that we can utter, and let us say: Amen.
 </div>
 </td></tr>
 
@@ -1232,7 +1236,7 @@ The sky and earth, and all their array - was completed. On the seventh day God e
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
-אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֹתֵינוּ וְאִמּוֹתֵינוּ, רְצֵה בִמְנוּחָתֵנוּ. קַדְּשֵׁנוּ בְּמִצְוֺתֶיךָ וְתֵן חֶלְקֵנוּ בְּתוֹרָתֶךָ, שַׂבְּעֵנוּ מִטּוּבֶךָ וְשַׂמְּחֵנו בִּישׁוּעָתֶךָ, וְטַהֵר לִבֵּנוּ לְעָבְדְּךָ בֶּאֱמֶת. וְהַנְחִילֵנוּ יהוה אֱלֹהֵינוּ, בְּאַהֲבָה וּבְרָצוֹן שַׁבַּת קָדְשֶׁךָ וְיָנוּחוּ בָהּ יִשְׂרָאֵל מְקַדְּשֵׁי שְׁמֶךָ. בָּרוּךְ אַתָּה יהוה, מְקַדֵּשׁ הַשַּׁבָּת:
+אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֹתֵינוּ וְאִמּוֹתֵינוּ, רְצֵה בִמְנוּחָתֵנוּ. קַדְּשֵׁנוּ בְּמִצְוֹתֶיךָ וְתֵן חֶלְקֵנוּ בְּתוֹרָתֶךָ, שַׂבְּעֵנוּ מִטּוּבֶךָ וְשַׂמְּחֵנו בִּישׁוּעָתֶךָ, וְטַהֵר לִבֵּנוּ לְעָבְדְּךָ בֶּאֱמֶת. וְהַנְחִילֵנוּ יהוה אֱלֹהֵינוּ, בְּאַהֲבָה וּבְרָצוֹן שַׁבַּת קָדְשֶׁךָ וְיָנוּחוּ בָהּ יִשְׂרָאֵל מְקַדְּשֵׁי שְׁמֶךָ. בָּרוּךְ אַתָּה יהוה, מְקַדֵּשׁ הַשַּׁבָּת:
 </span></div>
 </td>
  
@@ -1418,7 +1422,7 @@ Blessed are You, Adonai, who makes peace.
 בתר צלותא – התיחדות שלאחר תפילת עמידה
  תפילת מהלב או השראה מהתפילות הבאות
 
-אֱלֹהַי. נְצֹר לְשׁוֹנִי מֵרָע וּשְׂפָתַי מִדַּבֵּר מִרְמָה. וְלִמְקַלְלַי נַפְשִׁי תִדֹּם, וְנַפְשִׁי כֶּעָפָר לַכֹּל תִּהְיֶה. פְּתַח לִבִּי בְּתוֹרָתֶךָ, וּבְמִצְוֺתֶיךָ תִּרְדֹּף נַפְשִׁי. וְכָל הַחוֹשְׁבִים עָלַי רָעָה, מְהֵרָה הָפֵר עֲצָתָם וְקַלְקֵל מַחֲשַׁבְתָּם. עֲשֵׂה לְמַעַן שְׁמֶךָ. עֲשֵׂה לְמַעַן יְמִינֶךָ. עֲשֵׂה לְמַעַן קְדֻשָּׁתֶךָ. עֲשֵׂה לְמַעַן תּוֹרָתֶךָ. לְמַעַן יֵחָלְצוּן יְדִידֶיךָ הוֹשִׁיעָה יְמִינְךָ וַעֲנֵנִי.
+אֱלֹהַי. נְצֹר לְשׁוֹנִי מֵרָע וּשְׂפָתַי מִדַּבֵּר מִרְמָה. וְלִמְקַלְלַי נַפְשִׁי תִדֹּם, וְנַפְשִׁי כֶּעָפָר לַכֹּל תִּהְיֶה. פְּתַח לִבִּי בְּתוֹרָתֶךָ, וּבְמִצְוֹתֶיךָ תִּרְדֹּף נַפְשִׁי. וְכָל הַחוֹשְׁבִים עָלַי רָעָה, מְהֵרָה הָפֵר עֲצָתָם וְקַלְקֵל מַחֲשַׁבְתָּם. עֲשֵׂה לְמַעַן שְׁמֶךָ. עֲשֵׂה לְמַעַן יְמִינֶךָ. עֲשֵׂה לְמַעַן קְדֻשָּׁתֶךָ. עֲשֵׂה לְמַעַן תּוֹרָתֶךָ. לְמַעַן יֵחָלְצוּן יְדִידֶיךָ הוֹשִׁיעָה יְמִינְךָ וַעֲנֵנִי.
 
 מר בריה דרבינא
 </span></div>
@@ -1445,7 +1449,7 @@ Mar son of Rabinah
 <div class="english">
 Ps 19:15 
 
-May the words of my mouth, and the meditations of my heart, be acceptable to You, Adonai, my Rock and my Redeemer. May God who causes peace to reign in the high heavens, grant us peace, and all Israel, and on all the world, and let us say: <em>Amen</em>.
+May the words of my mouth, and the meditations of my heart, be acceptable to You, Adonai, my Rock and my Redeemer. May God who causes peace to reign in the high heavens, grant us peace, and all Israel, and on all the world, and let us say: Amen.
 </div>
 </td></tr>
 
@@ -1639,7 +1643,7 @@ Protector of our ancestors with His word, bringing life to all through His speec
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
-אֱלֹהֵינוּ וֵאלֹהֵי אִמּוֹתֵינו וַאֲבוֹתֵינוּ רְצֵה בִמְנוּחָתֵנוּ. קַדְּשֵׁנוּ בְּמִצְוֺתֶיךָ וְתֵן חֶלְקֵנוּ בְּתוֹרָתֶךָ. שַׂבְּעֵנוּ מִטּוּבֶךָ וְשַׂמְחֵנוּ בִּישׁוּעָתֶךָ, וְטַהֵר לִבֵּנוּ לְעָבְדְּךָ בֶּאֱמֶת. וְהַנְחִילֵנוּ יהוה אֱלֹהֵינוּ בְּאַהֲבָה וּבְרָצוֹן שַׁבַּת קָדְשֶׁךָ, וְיָנוּחוּ בָהּ כָּל יִשְׂרָאֵל מְקַדְּשֵׁי שְׁמֶךָ. בָּרוּךְ אַתָּה יהוה, מְקַדֵּשׁ הַשַּׁבָּת:
+אֱלֹהֵינוּ וֵאלֹהֵי אִמּוֹתֵינו וַאֲבוֹתֵינוּ רְצֵה בִמְנוּחָתֵנוּ. קַדְּשֵׁנוּ בְּמִצְוֹתֶיךָ וְתֵן חֶלְקֵנוּ בְּתוֹרָתֶךָ. שַׂבְּעֵנוּ מִטּוּבֶךָ וְשַׂמְחֵנוּ בִּישׁוּעָתֶךָ, וְטַהֵר לִבֵּנוּ לְעָבְדְּךָ בֶּאֱמֶת. וְהַנְחִילֵנוּ יהוה אֱלֹהֵינוּ בְּאַהֲבָה וּבְרָצוֹן שַׁבַּת קָדְשֶׁךָ, וְיָנוּחוּ בָהּ כָּל יִשְׂרָאֵל מְקַדְּשֵׁי שְׁמֶךָ. בָּרוּךְ אַתָּה יהוה, מְקַדֵּשׁ הַשַּׁבָּת:
 </span></div>
 </td>
  
@@ -1683,7 +1687,7 @@ from the day you bring the sheaf of omer - seven full weeks until the day after 
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
-בָּרוּךְ אַתָּה יהוה, אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֺתָיו וְצִוָּנוּ עַל סְפִירַת הָעוֹמֶר:
+בָּרוּךְ אַתָּה יהוה, אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו וְצִוָּנוּ עַל סְפִירַת הָעוֹמֶר:
 </span></div>
 </td>
  
@@ -1746,7 +1750,7 @@ so we can serve with awe as in days past forever
 <table style="margin-left: auto;margin-right: auto;"><tbody>
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">  
-בָּרוּךְ אַתָּה יהוה, אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֺתָיו וְצִוָּנוּ לְהִתְעַטֵּף בַּצִיצִית:
+בָּרוּךְ אַתָּה יהוה, אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו וְצִוָּנוּ לְהִתְעַטֵּף בַּצִיצִית:
 </span></div>
 </td>
  
@@ -2051,7 +2055,7 @@ Blessed are You, Adonai, our God, Infinite Ruler, who removes sleep from my eyes
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
-וִיהִי רָצוֹן מִלְּפָנֶיךָ יהוה אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֹתֵינוּ וְאִמּוֹתֵינוּ, שֶׁתַּרְגִּילֵנוּ בְּתוֹרָתֶךָ וְדַבְּקֵנוּ בְּמִצְוֺתֶיךָ, וְאַל תְּבִיאֵנוּ לֹא לִידֵי חֵטְא, וְלֹא לִידֵי עֲבֵרָה וְעָוֹן, וְלֹא לִידֵי נִסָּיוֹן, וְלֹא לִידֵי בִזָּיוֹן. וְאַל תַּשְׁלֵט בָּנוּ יֵצֶר הָרָע, וְהַרְחִיקֵנוּ מֵאָדָם רָע וּמֵחָבֵר רָע. וְדַבְּקֵנוּ בְּיֵצֶר הַטוֹב וּבְמַעֲשִׂים טוֹבִים, וְכֹף אֶת יִצְרֵנוּ לְהִשְׁתַּעְבֵּד לָךְ. וּתְנֵנוּ הַיּוֹם וּבְכָל יוֹם לְחֵן וּלְחֶסֶד וּלְרַחֲמִים בְּעֵינֶיךָ וּבְעֵינֵי כָל רוֹאֵינוּ, וְתִגְמְלֵנוּ חֲסָדִים טוֹבִים.
+וִיהִי רָצוֹן מִלְּפָנֶיךָ יהוה אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֹתֵינוּ וְאִמּוֹתֵינוּ, שֶׁתַּרְגִּילֵנוּ בְּתוֹרָתֶךָ וְדַבְּקֵנוּ בְּמִצְוֹתֶיךָ, וְאַל תְּבִיאֵנוּ לֹא לִידֵי חֵטְא, וְלֹא לִידֵי עֲבֵרָה וְעָוֹן, וְלֹא לִידֵי נִסָּיוֹן, וְלֹא לִידֵי בִזָּיוֹן. וְאַל תַּשְׁלֵט בָּנוּ יֵצֶר הָרָע, וְהַרְחִיקֵנוּ מֵאָדָם רָע וּמֵחָבֵר רָע. וְדַבְּקֵנוּ בְּיֵצֶר הַטוֹב וּבְמַעֲשִׂים טוֹבִים, וְכֹף אֶת יִצְרֵנוּ לְהִשְׁתַּעְבֵּד לָךְ. וּתְנֵנוּ הַיּוֹם וּבְכָל יוֹם לְחֵן וּלְחֶסֶד וּלְרַחֲמִים בְּעֵינֶיךָ וּבְעֵינֵי כָל רוֹאֵינוּ, וְתִגְמְלֵנוּ חֲסָדִים טוֹבִים.
 בָּרוּךְ אַתָּה יהוה,  הַגּוֹמֵל חֲסָדִים טוֹבִים לְעַמּוֹ יִשְׂרָאֵל:
 </span></div>
 </td>
@@ -2466,7 +2470,7 @@ Sovereign God, great and holy ruler, let Your name be praised forever in heaven 
 <div class="english">
 Chatzi Kaddish
 
-Let the great name of God be extolled and sanctified in the world whose creation He willed. May God’s kingdom soon prevail, in our own day, in our own lives, and the life of all Israel, and let us say: <em>Amen</em>. Let God’s great name be blessed for ever and ever. Let the name of the blessed Holy One be glorified, exalted and honored, though God is (on Shabbat of Repentance: above and) beyond all the praises, songs, and adorations that we can utter, and let us say: <em>Amen</em>.
+Let the great name of God be extolled and sanctified in the world whose creation He willed. May God’s kingdom soon prevail, in our own day, in our own lives, and the life of all Israel, and let us say: Amen. Let God’s great name be blessed for ever and ever. Let the name of the blessed Holy One be glorified, exalted and honored, though God is (on Shabbat of Repentance: above and) beyond all the praises, songs, and adorations that we can utter, and let us say: Amen.
 </div>
 </td></tr>
 
@@ -2676,7 +2680,7 @@ Let a new light shine on Zion, and may we soon be worthy to see it shining. Bles
 <div class="liturgy" style="text-align: right;"><span lang="he">
 הברכה השנייה שלפני קריאת שמע
 
-אַהֲבָה רַבָּה אֲהַבְתָּנוּ, יהוה אֱלֹהֵינוּ, חֶמְלָה גְּדוֹלָה וִיתֵרָה חָמַלְתָּ עָלֵינוּ. אָבִינוּ מַלְכֵּנוּ, בַּעֲבוּר אֲבוֹתֵינוּ וְאִמּוֹתֵינוּ שֶׁבָּטְחוּ בְךָ וַתְּלַמְּדֵם חֻקֵּי חַיִּים, כֵּן תְּחָנֵּנוּ וּתְלַמְּדֵנוּ. אָבִינוּ, הָאָב הָרַחֲמָן הַמְרַחֵם, רַחֵם עָלֵינוּ וְתֵן בְּלִבֵּנוּ בִּינָה לְהָבִין וּלְהַשְׂכִּיל, לִשְׁמֹעַ, לִלְמֹד וּלְלַמֵּד, לִשְׁמֹר וְלַעֲשׂוֹת וּלְקַיֵּם אֶת כָּל דִּבְרֵי תַלְמוּד תּוֹרָתֶךָ בְּאַהֲבָה. וְהָאֵר עֵינֵינוּ בְּתוֹרָתֶךָ, וְדַבֵּק לִבֵּנוּ בְּמִצְוֺתֶיךָ, וְיַחֵד לְבָבֵנוּ לְאַהֲבָה וּלְיִרְאָה אֶת שְׁמֶךָ, וְלֹא נֵבוֹשׁ וְלֹא נִכָּלֵם וְלֹא נִכָּשֵל לְעוֹלָם וָעֶד. כִּי בְשֵׁם קָדְשְׁךָ הַגָּדוֹל וְהַנּוֹרָא בָּטָחְנוּ, נָגִילָה וְנִשְׂמְחָה בִּישׁוּעָתֶך. וְהָבֵא עָלֵינוּ בְּרָכָה וְשָׁלוֹם, וְקַבֵּץ גָּלֻיּוֹתֵינוּ מֵאַרְבַּע כַּנְפוֹת הָאָרֶץ, וְתוֹלִיכֵם קוֹמְמִיּוּת לְאַרְצֵנוּ. כִּי אֵל פּוֹעֵל יְשׁוּעוֹת אָתָּה, וּבָנוּ בָחַרְתָּ מִכָּל עַם וְלָשׁוֹן, וְקֵרַבְתָּנוּ לְשִׁמְךָ הַגָּדוֹל סֶלָה בֶּאֱמֶת, לְהוֹדוֹת לְךָ וּלְיַחֶדְךָ בְּאַהֲבָה. בָּרוּךְ אַתָּה יהוה, הַבּוֹחֵר בְּעַמּוֹ יִשְׂרָאֵל בְּאַהֲבָה:
+אַהֲבָה רַבָּה אֲהַבְתָּנוּ, יהוה אֱלֹהֵינוּ, חֶמְלָה גְּדוֹלָה וִיתֵרָה חָמַלְתָּ עָלֵינוּ. אָבִינוּ מַלְכֵּנוּ, בַּעֲבוּר אֲבוֹתֵינוּ וְאִמּוֹתֵינוּ שֶׁבָּטְחוּ בְךָ וַתְּלַמְּדֵם חֻקֵּי חַיִּים, כֵּן תְּחָנֵּנוּ וּתְלַמְּדֵנוּ. אָבִינוּ, הָאָב הָרַחֲמָן הַמְרַחֵם, רַחֵם עָלֵינוּ וְתֵן בְּלִבֵּנוּ בִּינָה לְהָבִין וּלְהַשְׂכִּיל, לִשְׁמֹעַ, לִלְמֹד וּלְלַמֵּד, לִשְׁמֹר וְלַעֲשׂוֹת וּלְקַיֵּם אֶת כָּל דִּבְרֵי תַלְמוּד תּוֹרָתֶךָ בְּאַהֲבָה. וְהָאֵר עֵינֵינוּ בְּתוֹרָתֶךָ, וְדַבֵּק לִבֵּנוּ בְּמִצְוֹתֶיךָ, וְיַחֵד לְבָבֵנוּ לְאַהֲבָה וּלְיִרְאָה אֶת שְׁמֶךָ, וְלֹא נֵבוֹשׁ וְלֹא נִכָּלֵם וְלֹא נִכָּשֵל לְעוֹלָם וָעֶד. כִּי בְשֵׁם קָדְשְׁךָ הַגָּדוֹל וְהַנּוֹרָא בָּטָחְנוּ, נָגִילָה וְנִשְׂמְחָה בִּישׁוּעָתֶך. וְהָבֵא עָלֵינוּ בְּרָכָה וְשָׁלוֹם, וְקַבֵּץ גָּלֻיּוֹתֵינוּ מֵאַרְבַּע כַּנְפוֹת הָאָרֶץ, וְתוֹלִיכֵם קוֹמְמִיּוּת לְאַרְצֵנוּ. כִּי אֵל פּוֹעֵל יְשׁוּעוֹת אָתָּה, וּבָנוּ בָחַרְתָּ מִכָּל עַם וְלָשׁוֹן, וְקֵרַבְתָּנוּ לְשִׁמְךָ הַגָּדוֹל סֶלָה בֶּאֱמֶת, לְהוֹדוֹת לְךָ וּלְיַחֶדְךָ בְּאַהֲבָה. בָּרוּךְ אַתָּה יהוה, הַבּוֹחֵר בְּעַמּוֹ יִשְׂרָאֵל בְּאַהֲבָה:
 </span></div>
 </td>
  
@@ -2726,7 +2730,7 @@ You shall love Adonai your God with all your heart, with all your soul, and with
 פרשה שניה: קבלת עול מצוות
 נוסח מסורתי
 
-וְהָיָה אִם שָׁמֹעַ תִּשְׁמְעוּ אֶל מִצְוֺתַי  אֲשֶׁר אָנֹכִי מְצַוֶּה אֶתְכֶם הַיּוֹם  לְאַהֲבָה אֶת יהוה אֱלֹהֵיכֶם וּלְעָבְדוֹ בְּכָל לְבַבְכֶם וּבְכָל נַפְשְׁכֶם: וְנָתַתִּי מְטַר אַרְצְכֶם בְּעִתּוֹ  יוֹרֶה וּמַלְקוֹשׁ  וְאָסַפְתָּ דְגָנֶךָ וְתִירֹשְׁךָ וְיִצְהָרֶךָ: וְנָתַתִּי עֵשֶׂב בְּשָׂדְךָ לִבְהֶמְתֶּךָ  וְאָכַלְתָּ וְשָׂבָעְתָּ:
+וְהָיָה אִם שָׁמֹעַ תִּשְׁמְעוּ אֶל מִצְוֹתַי  אֲשֶׁר אָנֹכִי מְצַוֶּה אֶתְכֶם הַיּוֹם  לְאַהֲבָה אֶת יהוה אֱלֹהֵיכֶם וּלְעָבְדוֹ בְּכָל לְבַבְכֶם וּבְכָל נַפְשְׁכֶם: וְנָתַתִּי מְטַר אַרְצְכֶם בְּעִתּוֹ  יוֹרֶה וּמַלְקוֹשׁ  וְאָסַפְתָּ דְגָנֶךָ וְתִירֹשְׁךָ וְיִצְהָרֶךָ: וְנָתַתִּי עֵשֶׂב בְּשָׂדְךָ לִבְהֶמְתֶּךָ  וְאָכַלְתָּ וְשָׂבָעְתָּ:
 הִשָּׁמְרוּ לָכֶם פֶּן יִפְתֶּה לְבַבְכֶם  וְסַרְתֶּם וַעֲבַדְתֶּם אֱלֹהִים אֲחֵרִים וְהִשְׁתַּחֲוִיתֶם לָהֶם: וְחָרָה אַף יהוה בָּכֶם  וְעָצַר אֶת הַשָּׁמַיִם וְלֹא יִהְיֶה מָטָר  וְהָאֲדָמָה לֹא תִתֵּן אֶת יְבוּלָהּ  וַאֲבַדְתֶּם מְהֵרָה מֵעַל הָאָרֶץ הַטֹּבָה  אֲשֶׁר יהוה נֹתֵן לָכֶם: 
 וְשַׂמְתֶּם אֶת דְּבָרַי אֵלֶּה עַל לְבַבְכֶם וְעַל נַפְשְׁכֶם  וּקְשַׁרְתֶּם אֹתָם לְאוֹת עַל יֶדְכֶם  וְהָיוּ לְטוֹטָפֹת בֵּין עֵינֵיכֶם: וְלִמַּדְתֶּם אֹתָם אֶת בְּנֵיכֶם לְדַבֵּר בָּם  בְּשִׁבְתְּךָ בְּבֵיתֶךָ  וּבְלֶכְתְּךָ בַדֶּרֶךְ  וּבְשָׁכְבְּךָ וּבְקוּמֶךָ: וּכְתַבְתָּם עַל מְזֻזוֹת בֵּיתֶךָ וּבִשְׁעָרֶיךָ: לְמַעַן יִרְבּוּ יְמֵיכֶם וִימֵי בְנֵיכֶם עַל הָאֲדָמָה אֲשֶׁר נִשְׁבַּע יהוה לַאֲבֹתֵיכֶם לָתֵת לָהֶם  כִּימֵי הַשָּׁמַיִם עַל הָאָרֶץ: 
 </span></div>
@@ -2745,7 +2749,7 @@ If you obey the commandments that I command you this day, to love Adonai your Go
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
 -נוסח חלופי 
-רְאֵה נָתַתִּי לְפָנֶיךָ הַיּוֹם אֶת הַחַיִים וְאֶת הַטּוֹב וְאֶת הַמָּוֶת וְאֶת הָרָע: אֲשֶׁר אָנֹכִי מְצַוְּךָ הַיּוֹם לְאַהֲבָה אֶת יהוה אֱלֹהֶיךָ לָלֶכֶת בִּדְרָכָיו וְלִשְׁמֹר מִצְוֺתָיו וְחֻקֹּתָיו וּמִשְׁפָּטָיו וְחָיִיתָ וְרָבִיתָ וּבֵרַכְךָ יהוה אֱלֹהֶיךָ בָּאָרֶץ אֲשֶׁר אַתָּה בָא שָׁמָּה לְרִשְׁתָּהּ: וְאִם יִפְנֶה לְבָבְךָ וְלֹא תִשְׁמָע וְנִדַּחְתָּ וְהִשְׁתַּחֲוִיתָ לֵאלֹהִים אֲחֵרִים וַעֲבַדְתָּם: הִגַּדְתִּי לָכֶם הַיּוֹם כִּי אָבֹד תֹּאבֵדוּן לֹא תַאֲרִיכֻן יָמִים עַל הָאֲדָמָה אֲשֶׁר אַתָּה עֹבֵר אֶת הַיַּרְדֵּן לָבוֹא שָׁמָּה לְרִשְׁתָּהּ: הֲעִדֹתִי בָכֶם הַיּוֹם אֶת הַשָּׁמַיִם וְאֶת הָאָרֶץ הַחַיִים וְהַמָּוֶת נָתַתִּי לְפָנֶיךָ הַבְּרָכָה וְהַקְּלָלָה וּבָחַרְתָּ בַּחַיִים לְמַעַן תִּחְיֶה אַתָּה וְזַרְעֶךָ: לְאַהֲבָה אֶת יהוה אֱלֹהֶיךָ לִשְׁמֹעַ בְּקֹלוֹ וּלְדָבְקָה בוֹ כִּי הוּא חַיֶיךָ וְאֹרֶךְ יָמֶיךָ לָשֶׁבֶת עַל הָאֲדָמָה אֲשֶׁר נִשְׁבַּע יהוה לַאֲבֹתֶיךָ לְאַבְרָהָם לְיִצְחָק וּלְיַעֲקֹב לָתֵת לָהֶם:                                                
+רְאֵה נָתַתִּי לְפָנֶיךָ הַיּוֹם אֶת הַחַיִים וְאֶת הַטּוֹב וְאֶת הַמָּוֶת וְאֶת הָרָע: אֲשֶׁר אָנֹכִי מְצַוְּךָ הַיּוֹם לְאַהֲבָה אֶת יהוה אֱלֹהֶיךָ לָלֶכֶת בִּדְרָכָיו וְלִשְׁמֹר מִצְוֹתָיו וְחֻקֹּתָיו וּמִשְׁפָּטָיו וְחָיִיתָ וְרָבִיתָ וּבֵרַכְךָ יהוה אֱלֹהֶיךָ בָּאָרֶץ אֲשֶׁר אַתָּה בָא שָׁמָּה לְרִשְׁתָּהּ: וְאִם יִפְנֶה לְבָבְךָ וְלֹא תִשְׁמָע וְנִדַּחְתָּ וְהִשְׁתַּחֲוִיתָ לֵאלֹהִים אֲחֵרִים וַעֲבַדְתָּם: הִגַּדְתִּי לָכֶם הַיּוֹם כִּי אָבֹד תֹּאבֵדוּן לֹא תַאֲרִיכֻן יָמִים עַל הָאֲדָמָה אֲשֶׁר אַתָּה עֹבֵר אֶת הַיַּרְדֵּן לָבוֹא שָׁמָּה לְרִשְׁתָּהּ: הֲעִדֹתִי בָכֶם הַיּוֹם אֶת הַשָּׁמַיִם וְאֶת הָאָרֶץ הַחַיִים וְהַמָּוֶת נָתַתִּי לְפָנֶיךָ הַבְּרָכָה וְהַקְּלָלָה וּבָחַרְתָּ בַּחַיִים לְמַעַן תִּחְיֶה אַתָּה וְזַרְעֶךָ: לְאַהֲבָה אֶת יהוה אֱלֹהֶיךָ לִשְׁמֹעַ בְּקֹלוֹ וּלְדָבְקָה בוֹ כִּי הוּא חַיֶיךָ וְאֹרֶךְ יָמֶיךָ לָשֶׁבֶת עַל הָאֲדָמָה אֲשֶׁר נִשְׁבַּע יהוה לַאֲבֹתֶיךָ לְאַבְרָהָם לְיִצְחָק וּלְיַעֲקֹב לָתֵת לָהֶם:                                                
 </span></div>
 </td>
  
@@ -2762,7 +2766,7 @@ Behold, I have set before you this day life and good, or death and evil. For I c
 <div class="liturgy" style="text-align: right;"><span lang="he">
 פרשה שלישית: ציצית - יציאת מצרים
 
-וַיֹּאמֶר יהוה אֶל משֶׁה לֵּאמֹר: דַּבֵּר אֶל בְּנֵי יִשְׂרָאֵל וְאָמַרְתָּ אֲלֵהֶם  וְעָשׂוּ לָהֶם צִיצִת עַל כַּנְפֵי בִגְדֵיהֶם לְדֹרֹתָם  וְנָתְנוּ עַל צִיצִת הַכָּנָף פְּתִיל תְּכֵלֶת: וְהָיָה לָכֶם לְצִיצִת  וּרְאִיתֶם אֹתוֹ  וּזְכַרְתֶּם אֶת כָּל מִצְוֺת יהוה וַעֲשִׂיתֶם אֹתָם  וְלֹא תָתוּרוּ אַחֲרֵי לְבַבְכֶם וְאַחֲרֵי עֵינֵיכֶם  אֲשֶׁר אַתֶּם זֹנִים אַחֲרֵיהֶם: לְמַעַן תִּזְכְּרוּ וַעֲשִׂיתֶם אֶת כָּל מִצְוֺתָי  וִהְיִיתֶם קְדשִׁים לֵאלֹהֵיכֶם: אֲנִי יהוה אֱלֹהֵיכֶם  אֲשֶׁר הוֹצֵאתִי אֶתְכֶם מֵאֶרֶץ מִצְרַיִם  לִהְיוֹת לָכֶם לֵאלֹהִים  אֲנִי יהוה אֱלֹהֵיכֶם: 
+וַיֹּאמֶר יהוה אֶל משֶׁה לֵּאמֹר: דַּבֵּר אֶל בְּנֵי יִשְׂרָאֵל וְאָמַרְתָּ אֲלֵהֶם  וְעָשׂוּ לָהֶם צִיצִת עַל כַּנְפֵי בִגְדֵיהֶם לְדֹרֹתָם  וְנָתְנוּ עַל צִיצִת הַכָּנָף פְּתִיל תְּכֵלֶת: וְהָיָה לָכֶם לְצִיצִת  וּרְאִיתֶם אֹתוֹ  וּזְכַרְתֶּם אֶת כָּל מִצְוֹת יהוה וַעֲשִׂיתֶם אֹתָם  וְלֹא תָתוּרוּ אַחֲרֵי לְבַבְכֶם וְאַחֲרֵי עֵינֵיכֶם  אֲשֶׁר אַתֶּם זֹנִים אַחֲרֵיהֶם: לְמַעַן תִּזְכְּרוּ וַעֲשִׂיתֶם אֶת כָּל מִצְוֹתָי  וִהְיִיתֶם קְדשִׁים לֵאלֹהֵיכֶם: אֲנִי יהוה אֱלֹהֵיכֶם  אֲשֶׁר הוֹצֵאתִי אֶתְכֶם מֵאֶרֶץ מִצְרַיִם  לִהְיוֹת לָכֶם לֵאלֹהִים  אֲנִי יהוה אֱלֹהֵיכֶם: 
 </span></div>
 </td>
  
@@ -2808,7 +2812,7 @@ True, firm and enduring is this eternal teaching. This is true: the Eternal God 
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
-עֶזְרַת אֲבוֹתֵינוּ וְאִמּוֹתֵינוּ אַתָּה הוּא מֵעוֹלָם, מָגֵן וּמוֹשִׁיעַ לִבְנוֹתֵיהֶם וְלִבְנֵיהֶם אַחֲרֵיהֶם בְּכָל דּוֹר וָדוֹר. בְּרוּם עוֹלָם מוֹשָׁבֶךָ, וּמִשְׁפָּטֶיךָ וְצִדְקָתְךָ עַד אַפְסֵי אָרֶץ. אַשְׁרֵי אִישׁ שֶׁיִּשְׁמַע לְמִצְוֺתֶיךָ, וְתוֹרָתְךָ וּדְבָרְךָ יָשִׂים עַל לִבּוֹ. אֱמֶת, אַתָּה הוּא רִאשׁוֹן וְאַתָּה הוּא אַחֲרוֹן, וּמִבַּלְעָדֶיךָ אֵין לָנוּ מֶלֶךְ גּוֹאֵל וּמוֹשִׁיעַ. מִמִּצְרַיִם גְּאַלְתָּנוּ יהוה אֱלֹהֵינוּ, וּמִבֵּית עֲבָדִים פְּדִיתָנוּ, שְרִידֵי חֶרֶב הִצָּלְתָּ וּפְלִיטֵי חֶנֶק מִלַּטְתָּ, נִדָּחִים אָסַפְתָ וּנְפוּצוֹת קִבַּצְתָּ, וְשָבוּ בָנִים לִגְבוּלָם. עַל זֹאת שִׁבְּחוּ אֲהוּבִים וְרוֹמְמוּ אֵל וְנָתְנוּ יְדִידִים תְּהִלּוֹת לְאֵל עֶלְיוֹן, בָּרוּךְ הוּא וּמְבֹרָךְ. מִרְיָם ומשֶׁה וּבְנֵי יִשְׂרָאֵל לְךָ עָנוּ שִׁירָה בְּשִׂמְחָה רַבָּה, וְאָמְרוּ כֻלָּם: 
+עֶזְרַת אֲבוֹתֵינוּ וְאִמּוֹתֵינוּ אַתָּה הוּא מֵעוֹלָם, מָגֵן וּמוֹשִׁיעַ לִבְנוֹתֵיהֶם וְלִבְנֵיהֶם אַחֲרֵיהֶם בְּכָל דּוֹר וָדוֹר. בְּרוּם עוֹלָם מוֹשָׁבֶךָ, וּמִשְׁפָּטֶיךָ וְצִדְקָתְךָ עַד אַפְסֵי אָרֶץ. אַשְׁרֵי אִישׁ שֶׁיִּשְׁמַע לְמִצְוֹתֶיךָ, וְתוֹרָתְךָ וּדְבָרְךָ יָשִׂים עַל לִבּוֹ. אֱמֶת, אַתָּה הוּא רִאשׁוֹן וְאַתָּה הוּא אַחֲרוֹן, וּמִבַּלְעָדֶיךָ אֵין לָנוּ מֶלֶךְ גּוֹאֵל וּמוֹשִׁיעַ. מִמִּצְרַיִם גְּאַלְתָּנוּ יהוה אֱלֹהֵינוּ, וּמִבֵּית עֲבָדִים פְּדִיתָנוּ, שְרִידֵי חֶרֶב הִצָּלְתָּ וּפְלִיטֵי חֶנֶק מִלַּטְתָּ, נִדָּחִים אָסַפְתָ וּנְפוּצוֹת קִבַּצְתָּ, וְשָבוּ בָנִים לִגְבוּלָם. עַל זֹאת שִׁבְּחוּ אֲהוּבִים וְרוֹמְמוּ אֵל וְנָתְנוּ יְדִידִים תְּהִלּוֹת לְאֵל עֶלְיוֹן, בָּרוּךְ הוּא וּמְבֹרָךְ. מִרְיָם ומשֶׁה וּבְנֵי יִשְׂרָאֵל לְךָ עָנוּ שִׁירָה בְּשִׂמְחָה רַבָּה, וְאָמְרוּ כֻלָּם: 
 </span></div>
 </td>
  
@@ -2952,7 +2956,7 @@ Traditional version: Blessed are You, Adonai, who brings life to the dead.
 <div class="english">
 The Sanctity of God’s Name
 
-When the Amidah is read silently, this Ḳedusha is read:
+When the Amidah is read silently, this Kedusha is read:
 
 You are holy and Your name is holy, and holy ones declare Your glory day by day. 
 Blessed are You, Adonai, the holy God (on Shabbat Teshuva: the holy Ruler).
@@ -2971,7 +2975,7 @@ Blessed are You, Adonai, the holy God (on Shabbat Teshuva: the holy Ruler).
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-When the Amidah is recited communally, the full Ḳedusha is included:	
+When the Amidah is recited communally, the full Kedusha is included:	
 
 We sanctify Your name on earth, even as in the heights of heaven they proclaim Your holiness; and in the words of the prophet, they call one to another, saying:
 Holy, holy, holy is Adonai of Hosts; the fullness of the whole earth is God’s glory!
@@ -3068,7 +3072,7 @@ Those who keep the Shabbat and call it a delight shall rejoice in Your kingdom. 
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
-אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֹתֵינוּ וְאִמּוֹתֵינוּ, רְצֵה בִמְנוּחָתֵנוּ. קַדְּשֵׁנוּ בְּמִצְוֺתֶיךָ וְתֵן חֶלְקֵנוּ בְּתוֹרָתֶךָ. שַׂבְּעֵנוּ מִטּוּבֶךָ וְשַׂמְּחֵנוּ בִּישׁוּעָתֶךָ, וְטַהֵר לִבֵּנוּ לְעָבְדְּךָ בֶּאֱמֶת. וְהַנְחִילֵנוּ יהוה אֱלֹהֵינוּ בְּאַהֲבָה וּבְרָצוֹן שַׁבַּת קָדְשֶׁךָ, וְיָנוּחוּ בוֹ יִשְׂרָאֵל מְקַדְּשֵׁי שְׁמֶךָ. בָּרוּךְ אַתָּה יהוה,  מְקַדֵּשׁ הַשַּׁבָּת:
+אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֹתֵינוּ וְאִמּוֹתֵינוּ, רְצֵה בִמְנוּחָתֵנוּ. קַדְּשֵׁנוּ בְּמִצְוֹתֶיךָ וְתֵן חֶלְקֵנוּ בְּתוֹרָתֶךָ. שַׂבְּעֵנוּ מִטּוּבֶךָ וְשַׂמְּחֵנוּ בִּישׁוּעָתֶךָ, וְטַהֵר לִבֵּנוּ לְעָבְדְּךָ בֶּאֱמֶת. וְהַנְחִילֵנוּ יהוה אֱלֹהֵינוּ בְּאַהֲבָה וּבְרָצוֹן שַׁבַּת קָדְשֶׁךָ, וְיָנוּחוּ בוֹ יִשְׂרָאֵל מְקַדְּשֵׁי שְׁמֶךָ. בָּרוּךְ אַתָּה יהוה,  מְקַדֵּשׁ הַשַּׁבָּת:
 </span></div>
 </td>
  
@@ -3279,7 +3283,7 @@ Blessed are You, Adonai, who makes peace.
 בתר צלותא – התיחדות שלאחר תפילת עמידה
  תפילת מהלב או השראה מהתפילות הבאות
  
-אֱלֹהַי. נְצֹר לְשׁוֹנִי מֵרָע וּשְׂפָתַי מִדַּבֵּר מִרְמָה. וְלִמְקַלְלַי נַפְשִׁי תִדֹּם, וְנַפְשִׁי כֶּעָפָר לַכֹּל תִּהְיֶה. פְּתַח לִבִּי בְּתוֹרָתֶךָ, וּבְמִצְוֺתֶיךָ תִּרְדֹּף נַפְשִׁי. וְכָל הַחוֹשְׁבִים עָלַי רָעָה, מְהֵרָה הָפֵר עֲצָתָם וְקַלְקֵל מַחֲשַׁבְתָּם. עֲשֵׂה לְמַעַן שְׁמֶךָ. עֲשֵׂה לְמַעַן יְמִינֶךָ. עֲשֵׂה לְמַעַן קְדֻשָּׁתֶךָ. עֲשֵׂה לְמַעַן תּוֹרָתֶךָ. לְמַעַן יֵחָלְצוּן יְדִידֶיךָ, הוֹשִׁיעָה יְמִינְךָ וַעֲנֵנִי.
+אֱלֹהַי. נְצֹר לְשׁוֹנִי מֵרָע וּשְׂפָתַי מִדַּבֵּר מִרְמָה. וְלִמְקַלְלַי נַפְשִׁי תִדֹּם, וְנַפְשִׁי כֶּעָפָר לַכֹּל תִּהְיֶה. פְּתַח לִבִּי בְּתוֹרָתֶךָ, וּבְמִצְוֹתֶיךָ תִּרְדֹּף נַפְשִׁי. וְכָל הַחוֹשְׁבִים עָלַי רָעָה, מְהֵרָה הָפֵר עֲצָתָם וְקַלְקֵל מַחֲשַׁבְתָּם. עֲשֵׂה לְמַעַן שְׁמֶךָ. עֲשֵׂה לְמַעַן יְמִינֶךָ. עֲשֵׂה לְמַעַן קְדֻשָּׁתֶךָ. עֲשֵׂה לְמַעַן תּוֹרָתֶךָ. לְמַעַן יֵחָלְצוּן יְדִידֶיךָ, הוֹשִׁיעָה יְמִינְךָ וַעֲנֵנִי.
 
 מר בריה דרבינא
 </span></div>
@@ -3408,7 +3412,7 @@ Based on a prayer of R. Nachman of Bratzlav, 18th-19th Century
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-May the words of my mouth, and the meditations of my heart, be acceptable to You, Adonai, my Rock and my Redeemer. May God who causes peace to reign in the high heavens, grant us peace, and all Israel, and on all the world, and let us say: <em>Amen</em>.
+May the words of my mouth, and the meditations of my heart, be acceptable to You, Adonai, my Rock and my Redeemer. May God who causes peace to reign in the high heavens, grant us peace, and all Israel, and on all the world, and let us say: Amen.
 </div>
 </td></tr></tbody></table>
 
@@ -3425,7 +3429,7 @@ May the words of my mouth, and the meditations of my heart, be acceptable to You
 בראש חודש, ובשבת חול המועד פסח קוראים את ההלל בדילוג.
 
 הברכה שליפני ההלל
-ש"ץ ואחריו הקהל: בָּרוּךְ אַתָּה יהוה,  אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם. אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֺתָיו וְצִוָּנוּ לִקְרֹא אֶת הַהַלֵּל:
+ש"ץ ואחריו הקהל: בָּרוּךְ אַתָּה יהוה,  אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם. אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו וְצִוָּנוּ לִקְרֹא אֶת הַהַלֵּל:
 </span></div>
 </td>
  
@@ -3818,7 +3822,7 @@ For Torah will come out of Zion, and the word of Adonai from Jerusalem. Praised 
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-I put my trust in God: to God's holy, honored name I utter praise. May it be Your will to open my consciousness with and for Your Torah. Answer my prayers and the heartfelt prayers of all Your people Israel, for goodness, for life, for peace. <em>Amen</em>.
+I put my trust in God: to God's holy, honored name I utter praise. May it be Your will to open my consciousness with and for Your Torah. Answer my prayers and the heartfelt prayers of all Your people Israel, for goodness, for life, for peace. Amen.
 </div>
 </td></tr>
 
@@ -3842,11 +3846,11 @@ I put my trust in God: to God's holy, honored name I utter praise. May it be You
 <div class="liturgy" style="text-align: right;"><span lang="he">
 תפילה לבת־מצוה
 
-אֱלֹהַי וֵאלֹהֵי אֲבוֹתַי וְאִמּוֹתַי, לִפְנֵי הַקָּהָל הַקָּדוֹשׁ הַזֶּה הִנְנִי בּוֹחֶרֶת לְהִמָנוֹת בִּקְהַל יִשְֹרָאֵל – יוֹרֶשֶת לְמוֹרַשְתוֹ, שֻתָפָה לְגוֹרָלוֹ, וְחַיֶבֶת בְּמִצְוֺתָיו. תֵּן בִּי כֹּחַ לָלֶכֶת בִּדְרָכֶיךָ וְלִהְיוֹת לִמְקוֹר גַאֲוָה לְמִשְפַּחְתִי, לִקְהִלָתִי וּלְעַמִי. אַשְׁרֵינוּ, מַה טּוֹב חֶלְקֵנוּ, וּמַה נָּעִים גּוֹרָלֵנוּ, וּמַה יָּפָה יְרֻשָּׁתֵנוּ. אַשְׁרֵינוּ שֶׁאֲנַחְנוּ מְיַחֲדִים שִׁמְךָ וְאוֹמְרִים:
+אֱלֹהַי וֵאלֹהֵי אֲבוֹתַי וְאִמּוֹתַי, לִפְנֵי הַקָּהָל הַקָּדוֹשׁ הַזֶּה הִנְנִי בּוֹחֶרֶת לְהִמָנוֹת בִּקְהַל יִשְֹרָאֵל – יוֹרֶשֶת לְמוֹרַשְתוֹ, שֻתָפָה לְגוֹרָלוֹ, וְחַיֶבֶת בְּמִצְוֹתָיו. תֵּן בִּי כֹּחַ לָלֶכֶת בִּדְרָכֶיךָ וְלִהְיוֹת לִמְקוֹר גַאֲוָה לְמִשְפַּחְתִי, לִקְהִלָתִי וּלְעַמִי. אַשְׁרֵינוּ, מַה טּוֹב חֶלְקֵנוּ, וּמַה נָּעִים גּוֹרָלֵנוּ, וּמַה יָּפָה יְרֻשָּׁתֵנוּ. אַשְׁרֵינוּ שֶׁאֲנַחְנוּ מְיַחֲדִים שִׁמְךָ וְאוֹמְרִים:
 
 תפילה לבר־מצוה
 
-אֱלֹהַי וֵאלֹהֵי אֲבוֹתַי וְאִמּוֹתַי, לִפְנֵי הַקָּהָל הַקָּדוֹשׁ הַזֶּה הִנְנִי בּוֹחֵר לְהִמָנוֹת בִּקְהַל יִשְֹרָאֵל – יוֹרֵש לְמוֹרַשְתוֹ, שֻתָף לְגוֹרָלוֹ, וְחַיָב בְּמִצְוֺתָיו. תֵּן בִּי כֹּחַ לָלֶכֶת בִּדְרָכֶיךָ וְלִהְיוֹת לִמְקוֹר גַאֲוָה לְמִשְפַּחְתִי, לִקְהִלָתִי וּלְעַמִי. אַשְׁרֵינוּ, מַה טּוֹב חֶלְקֵנוּ, וּמַה נָּעִים גּוֹרָלֵנוּ, וּמַה יָּפָה יְרֻשָּׁתֵנוּ. אַשְׁרֵינוּ שֶׁאֲנַחְנוּ מְיַחֲדִים שִׁמְךָ וְאוֹמְרִים: 
+אֱלֹהַי וֵאלֹהֵי אֲבוֹתַי וְאִמּוֹתַי, לִפְנֵי הַקָּהָל הַקָּדוֹשׁ הַזֶּה הִנְנִי בּוֹחֵר לְהִמָנוֹת בִּקְהַל יִשְֹרָאֵל – יוֹרֵש לְמוֹרַשְתוֹ, שֻתָף לְגוֹרָלוֹ, וְחַיָב בְּמִצְוֹתָיו. תֵּן בִּי כֹּחַ לָלֶכֶת בִּדְרָכֶיךָ וְלִהְיוֹת לִמְקוֹר גַאֲוָה לְמִשְפַּחְתִי, לִקְהִלָתִי וּלְעַמִי. אַשְׁרֵינוּ, מַה טּוֹב חֶלְקֵנוּ, וּמַה נָּעִים גּוֹרָלֵנוּ, וּמַה יָּפָה יְרֻשָּׁתֵנוּ. אַשְׁרֵינוּ שֶׁאֲנַחְנוּ מְיַחֲדִים שִׁמְךָ וְאוֹמְרִים: 
 </span></div>
 </td>
  
@@ -3937,7 +3941,7 @@ for Adonai our God is holy.
 <td style="vertical-align:top;" width="53%">
 <div class="english">
 On calling the first "aliyah" to the Torah
-May God help, save and shield all who trust in Him . Let us say, <em>Amen</em>.
+May God help, save and shield all who trust in Him . Let us say, Amen.
 Let us declare the greatness of our God and give honor to the Torah.
 Come up___________________
 Blessed be the One who in holiness has given the Torah to the people Israel.
@@ -4038,7 +4042,7 @@ Amen. May the One who has been gracious to you continue to favor you with all th
 <div class="english">
 For the congregation
 
-May God who blessed our fathers Abraham, Isaac and Jacob and our mothers Sarah, Rebecca, Rachel and Leah bless all those who were called up to the Torah, and all this holy congregation, together with all the congregations, and all those who build synagogues to pray in, and those who come to pray there, and all those who work for the good of others and those who faithfully build up the Land of Israel. The Holy One will repay them and bestow blessing and success on all that they do, together with all Israel, and let us say: <em>Amen</em>  
+May God who blessed our fathers Abraham, Isaac and Jacob and our mothers Sarah, Rebecca, Rachel and Leah bless all those who were called up to the Torah, and all this holy congregation, together with all the congregations, and all those who build synagogues to pray in, and those who come to pray there, and all those who work for the good of others and those who faithfully build up the Land of Israel. The Holy One will repay them and bestow blessing and success on all that they do, together with all Israel, and let us say: Amen  
 </div>
 </td></tr>
 
@@ -4062,7 +4066,7 @@ This is the Torah that Moses placed before the people of Israel, as given to Mos
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
-וְהָאֵר עֵינֵינוּ בְּתוֹרָתֶךָ, וְדַבֵּק לִבֵּנוּ בְּמִצְוֺתֶיךָ, וְיַחֵד לְבָבֵנוּ לְאַהֲבָה וּלְיִרְאָה אֶת שְׁמֶךָ.                                   
+וְהָאֵר עֵינֵינוּ בְּתוֹרָתֶךָ, וְדַבֵּק לִבֵּנוּ בְּמִצְוֹתֶיךָ, וְיַחֵד לְבָבֵנוּ לְאַהֲבָה וּלְיִרְאָה אֶת שְׁמֶךָ.                                   
 </span></div>
 </td>
  
@@ -4237,7 +4241,7 @@ For those in need of healing
 May God who blessed our fathers Abraham Isaac and Jacob and our mothers Sarah Rebecca, Rachel and Leah bless and heal the sick: ________.
 May God strengthen them and grant them stamina and courage and may the divine spirit grant them complete physical, mental and emotional healing, along with all the sick of the Jewish people and of the whole world, as it is written: Please God, please heal her/him.
 El na refa na la. El na refa na lo.
-And let us say: <em>Amen</em>
+And let us say: Amen
 </div>
 </td></tr>
 
@@ -4254,7 +4258,7 @@ And let us say: <em>Amen</em>
 <div class="english">
 For the Israel Defense Forces
 
-May God who blessed our fathers Abraham, Isaac and Jacob and our mothers Sarah, Rebecca, Rachel and Leah and our warriors Joshua, David, Deborah and Yael, bless the soldiers of Israel's Defense Forces, and every one who stands guard in order to protect our people. May the blessed Holy One protect them and save them from all troubles and afflictions, from all sickness and injury and may their careful actions be a source of blessing. May the words of the Prophets come true through them: They shall beat their swords into plough shares and their spears into pruning hooks; nation shall not lift up sword against nation, neither shall they learn war any more. Each person shall sit under their vine and under their fig tree and none shall make them afraid. And let us say: <em>Amen</em>.
+May God who blessed our fathers Abraham, Isaac and Jacob and our mothers Sarah, Rebecca, Rachel and Leah and our warriors Joshua, David, Deborah and Yael, bless the soldiers of Israel's Defense Forces, and every one who stands guard in order to protect our people. May the blessed Holy One protect them and save them from all troubles and afflictions, from all sickness and injury and may their careful actions be a source of blessing. May the words of the Prophets come true through them: They shall beat their swords into plough shares and their spears into pruning hooks; nation shall not lift up sword against nation, neither shall they learn war any more. Each person shall sit under their vine and under their fig tree and none shall make them afraid. And let us say: Amen.
 </div>
 </td></tr>
 
@@ -4274,7 +4278,7 @@ For the State of Israel
 Our Divine Guardian, Rock and Redeemer of Israel, bless the State of Israel, the first flowering of our redemption. Shield it beneath the wings of Your steadfast love and spread over it the shelter of Your peace. May a spark of Your spirit inspire the actions of its leaders, officials, judges and advisors that they may follow the path of righteousness, liberty and freedom. Strengthen the hands of those who protect our Holy Land and grant them salvation and life. Grant peace to this land and everlasting joy to its inhabitants.
 Be near to all the people of Israel throughout the lands of their dispersion. Plant within their hearts the love of Zion, and may those of our people who are so inspired, come to Jerusalem, Your city, which bears Your name. Spread Your spirit over all the inhabitants of our land. Uproot hatred, jealousy and evil; plant in our hearts love and kinship, peace and friendship. And speedily fulfill the vision of Your prophet: Nation shall not lift up sword against nation, neither shall they learn war any more.
 Lo yisa goy el goy cherev, lo yilmedu `od milchamah. 
-And let us say: <em>Amen</em>
+And let us say: Amen
 </div>
 </td></tr>
 
@@ -4293,8 +4297,8 @@ And let us say: <em>Amen</em>
 <div class="english">
 For the captured soldiers
 
-May it be the will of our Parent in heaven that we hear good tidings, salvation and comfort and that our scattered ones be reunited from all four corners of the earth, and let us say: <em>Amen</em>.
-May the Holy One be merciful to any the house of Israel who are entrapped or in captivity, wherever they be, and bring them from the narrow places to wide spaces, from darkness to light, from enslavement to redemption, speedily and in our days, and let us say: <em>Amen</em>.
+May it be the will of our Parent in heaven that we hear good tidings, salvation and comfort and that our scattered ones be reunited from all four corners of the earth, and let us say: Amen.
+May the Holy One be merciful to any the house of Israel who are entrapped or in captivity, wherever they be, and bring them from the narrow places to wide spaces, from darkness to light, from enslavement to redemption, speedily and in our days, and let us say: Amen.
 </div>
 </td></tr>
 
@@ -4313,8 +4317,8 @@ May the Holy One be merciful to any the house of Israel who are entrapped or in 
 Blessing for the New Month
 On the Shabbat preceding the New Moon
 
-Adonai our God, let the coming month bring us renewed good and blessing. May we have long life, a life of peace, prosperity, and health, a life full of blessing, a life marked by the awe of heaven and the fear of sin, a life free of shame, a life of honor and a life exalted by love of Your Torah and devotion to Your service, a life in which our heart's desires are fulfilled for good. <em>Amen</em> Selah.
-May the one who performed miracle for our ancestors and led our people from bondage to freedom, grant us full redemption and gather in our dispersed from the far corners of the earth. All Israel is bound together, and let us say: <em>Amen</em>.
+Adonai our God, let the coming month bring us renewed good and blessing. May we have long life, a life of peace, prosperity, and health, a life full of blessing, a life marked by the awe of heaven and the fear of sin, a life free of shame, a life of honor and a life exalted by love of Your Torah and devotion to Your service, a life in which our heart's desires are fulfilled for good. Amen Selah.
+May the one who performed miracle for our ancestors and led our people from bondage to freedom, grant us full redemption and gather in our dispersed from the far corners of the earth. All Israel is bound together, and let us say: Amen.
 </div>
 </td></tr>
 
@@ -4333,7 +4337,7 @@ Announcing the New Moon
 
 May the new month of _____ which begins for us and for all Israel on _____, be for good. 
 
-May the blessed Holy One bring renewal on this new month for us, and for the whole House of Israel, with life and peace, joy and happiness, deliverance and comfort, and let us say: <em>Amen</em>.
+May the blessed Holy One bring renewal on this new month for us, and for the whole House of Israel, with life and peace, joy and happiness, deliverance and comfort, and let us say: Amen.
 </div>
 </td></tr>
 
@@ -4405,13 +4409,13 @@ We will bless Adonai now and forever, halleluyah.
 <div class="liturgy" style="text-align: right;"><span lang="he">
 מי שברך לבר מצוה
 
-מִי שֶׁבֵּרַךְ אֲבוֹתֵינוּ אַבְרָהָם יִצְחָק וְיַעֲקֹב, וְאִמּוֹתֵינוּ שָׂרָה רִבְקָה רָחֵל וְלֵאָה, הוּא יְבָרֵךְ אֶתֹ____ בֶּן ______שֶנִּכְנַס הַיוֹם לְמִצְוֺת בַּעֲלוֹתוֹ לַתּוֹרָה לְעֵינֵי קְהַל יִשְֹרָאֵל. יִתְּנֶנוּ אֱלֹהִים בְּרָכָה לְמִשְפַּחְתוֹ. כְּשֶם שֶזָכוּ לְגַדְּלוֹ לְמִצְוֺת, כֵּן יִזְכּוּ לְחַנְכוֹ לְתוֹרָה, לאהבה וּלְמַעֲשִׂים טוֹבִים. יְהִי רָצוֹן מִלִּפְנֵי אָבִינוּ שֶׁבַּשָּׁמַיִם שֶיִזְכֶּה לְהַתְמִיד בַּתּוֹרָה בִּבְרִיאוּת הַגּוּף וּבִשְׁלֵמוּת הַנֶּפֶשׁ, וְיִמְצָא חֵן וְשֵׂכֶל טוֹב בְּעֵינֵי אֱלֹהִים וְאָדָם. תִּרְאֶה מִשְפַּחְתוֹ וְתִשְֹמַח, וִידִידִים יַעֲלֹזוּ, וְכָל בֵּית יִשְׂרָאֵל בְּרִנָּה יָגִילוּ, בִּרְאוֹתָם יַלְדֵיהֶם בְּקִרְבָּם מְקַדְשִים אֶת קְדוֹשׁ יַעֲקֹב וְאֶת אֱלֹהֵי יַשְרָאֵל יַעֲרִיצוּ.
+מִי שֶׁבֵּרַךְ אֲבוֹתֵינוּ אַבְרָהָם יִצְחָק וְיַעֲקֹב, וְאִמּוֹתֵינוּ שָׂרָה רִבְקָה רָחֵל וְלֵאָה, הוּא יְבָרֵךְ אֶתֹ____ בֶּן ______שֶנִּכְנַס הַיוֹם לְמִצְוֹת בַּעֲלוֹתוֹ לַתּוֹרָה לְעֵינֵי קְהַל יִשְֹרָאֵל. יִתְּנֶנוּ אֱלֹהִים בְּרָכָה לְמִשְפַּחְתוֹ. כְּשֶם שֶזָכוּ לְגַדְּלוֹ לְמִצְוֹת, כֵּן יִזְכּוּ לְחַנְכוֹ לְתוֹרָה, לאהבה וּלְמַעֲשִׂים טוֹבִים. יְהִי רָצוֹן מִלִּפְנֵי אָבִינוּ שֶׁבַּשָּׁמַיִם שֶיִזְכֶּה לְהַתְמִיד בַּתּוֹרָה בִּבְרִיאוּת הַגּוּף וּבִשְׁלֵמוּת הַנֶּפֶשׁ, וְיִמְצָא חֵן וְשֵׂכֶל טוֹב בְּעֵינֵי אֱלֹהִים וְאָדָם. תִּרְאֶה מִשְפַּחְתוֹ וְתִשְֹמַח, וִידִידִים יַעֲלֹזוּ, וְכָל בֵּית יִשְׂרָאֵל בְּרִנָּה יָגִילוּ, בִּרְאוֹתָם יַלְדֵיהֶם בְּקִרְבָּם מְקַדְשִים אֶת קְדוֹשׁ יַעֲקֹב וְאֶת אֱלֹהֵי יַשְרָאֵל יַעֲרִיצוּ.
 
 ברוך אתה יהוה, אלהנו מלך העולם, שהחיינו וקימנו והגיענו לזמן הזה:
 
 מי שברך לבת מצוה
 
-מִי שֶׁבֵּרַךְ אֲבוֹתֵינוּ אַבְרָהָם יִצְחָק וְיַעֲקֹב, וְאִמּוֹתֵינוּ שָׂרָה רִבְקָה רָחֵל וְלֵאָה, הוּא יְבָרֵךְ אֶתֹ____ בַּת ______שֶנִּכְנְסָה הַיוֹם לְמִצְוֺת בַּעֲלוֹתָה לַתּוֹרָה לְעֵינֵי קְהַל יִשְֹרָאֵל. יִתְּנֶנָה אֱלֹהִים בְּרָכָה לְמִשְפַּחְתָה. כְּשֶם שֶזָכוּ לְגַדְּלָה לְמִצְוֺת, כֵּן יִזְכּוּ לְחַנְכָה לְתוֹרָה, לאהבה וּלְמַעֲשִׂים טוֹבִים. יְהִי רָצוֹן מִלִּפְנֵי אָבִינוּ שֶׁבַּשָּׁמַיִם שֶתִזְכֶּה לְהַתְמִיד בַּתּוֹרָה בִּבְרִיאוּת הַגּוּף וּבִשְׁלֵמוּת הַנֶּפֶשׁ, וְתִמְצָא חֵן וְשֵׂכֶל טוֹב בְּעֵינֵי אֱלֹהִים וְאָדָם. תִּרְאֶה מִשְפַּחְתָה וְתִשְֹמַח, וִידִידִים יַעֲלֹזוּ, וְכָל בֵּית יִשְׂרָאֵל. בְּרִנָּה יָגִילוּ, בִּרְאוֹתָם יַלְדֵיהֶם בְּקִרְבָּם מְקַדְשִים אֶת קְדוֹשׁ יַעֲקֹב וְאֶת אֱלֹהֵי יַשְרָאֵל יַעֲרִיצוּ.
+מִי שֶׁבֵּרַךְ אֲבוֹתֵינוּ אַבְרָהָם יִצְחָק וְיַעֲקֹב, וְאִמּוֹתֵינוּ שָׂרָה רִבְקָה רָחֵל וְלֵאָה, הוּא יְבָרֵךְ אֶתֹ____ בַּת ______שֶנִּכְנְסָה הַיוֹם לְמִצְוֹת בַּעֲלוֹתָה לַתּוֹרָה לְעֵינֵי קְהַל יִשְֹרָאֵל. יִתְּנֶנָה אֱלֹהִים בְּרָכָה לְמִשְפַּחְתָה. כְּשֶם שֶזָכוּ לְגַדְּלָה לְמִצְוֹת, כֵּן יִזְכּוּ לְחַנְכָה לְתוֹרָה, לאהבה וּלְמַעֲשִׂים טוֹבִים. יְהִי רָצוֹן מִלִּפְנֵי אָבִינוּ שֶׁבַּשָּׁמַיִם שֶתִזְכֶּה לְהַתְמִיד בַּתּוֹרָה בִּבְרִיאוּת הַגּוּף וּבִשְׁלֵמוּת הַנֶּפֶשׁ, וְתִמְצָא חֵן וְשֵׂכֶל טוֹב בְּעֵינֵי אֱלֹהִים וְאָדָם. תִּרְאֶה מִשְפַּחְתָה וְתִשְֹמַח, וִידִידִים יַעֲלֹזוּ, וְכָל בֵּית יִשְׂרָאֵל. בְּרִנָּה יָגִילוּ, בִּרְאוֹתָם יַלְדֵיהֶם בְּקִרְבָּם מְקַדְשִים אֶת קְדוֹשׁ יַעֲקֹב וְאֶת אֱלֹהֵי יַשְרָאֵל יַעֲרִיצוּ.
 
 ברוך אתה יהוה, אלהנו מלך העולם, שהחיינו וקימנו והגיענו לזמן הזה:
 </span></div>
@@ -4456,7 +4460,7 @@ God's splendor covers heaven and earth; God will ennoble Her people, bringing gl
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-A song of David. Praise Adonai, all celestial beings, praise Adonai - glory and strength! Praise Adonai, whose name is great; bow down to Adonai in the beauty of holiness. Adonai's voice above the waters. The God of glory thunders! Adonai over many waters. Adonai's voice, with power - Adonai's voice, majestic. Adonai's voice breaks cedars, Adonai shatters Lebanon's cedars, Lebanon skips like a calf, Sirion like a wild young ox. Adonai’s voice sparks fiery flames; Adonai’s voice makes the desert quake; Adonai’s voice shakes the Ḳadesh desert; Adonai’s voice terrifies the deer, and strips the forests bare, in God’s temple all cry: "Glory!" Adonai is enthroned above the flood, Adonai will reign forever. Adonai will give strength to His people; Adonai will bless His people with peace.
+A song of David. Praise Adonai, all celestial beings, praise Adonai - glory and strength! Praise Adonai, whose name is great; bow down to Adonai in the beauty of holiness. Adonai's voice above the waters. The God of glory thunders! Adonai over many waters. Adonai's voice, with power - Adonai's voice, majestic. Adonai's voice breaks cedars, Adonai shatters Lebanon's cedars, Lebanon skips like a calf, Sirion like a wild young ox. Adonai’s voice sparks fiery flames; Adonai’s voice makes the desert quake; Adonai’s voice shakes the Kadesh desert; Adonai’s voice terrifies the deer, and strips the forests bare, in God’s temple all cry: "Glory!" Adonai is enthroned above the flood, Adonai will reign forever. Adonai will give strength to His people; Adonai will bless His people with peace.
 </div>
 </td></tr>
 
@@ -4640,7 +4644,7 @@ Traditional version: Blessed are You, Adonai, who brings life to the dead.
 <div class="english">
 The Sanctity of God’s Name
 
-When the Amidah is read silently, this Ḳedusha is read:
+When the Amidah is read silently, this Kedusha is read:
 
 You are holy and Your name is holy, and holy ones declare Your glory day by day. 
 Blessed are You, Adonai, the holy God (on Shabbat Teshuva: the holy Ruler).
@@ -4659,7 +4663,7 @@ Blessed are You, Adonai, the holy God (on Shabbat Teshuva: the holy Ruler).
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-When the Amidah is recited communally, the full Ḳedusha is included:	
+When the Amidah is recited communally, the full Kedusha is included:	
 
 We shall adore You and sanctify You like the secret speech of the angels, who sanctify Your name in holiness and in the words of the prophet, they call to one another saying:
 Holy, holy, holy is Adonai of Hosts; the fullness of the whole earth is God’s glory!
@@ -4786,7 +4790,7 @@ But since then, our Temple has been destroyed – what shall we offer to You and
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
-אֱלֹהֵינוּ וֵאלֹהֵי  אִמּוֹתֵינוּ וַאֲבוֹתֵינוּ, רְצֵה בִמְנוּחָתֵנוּ. קַדְּשֵׁנוּ בְּמִצְוֺתֶךָ וְתֵן חֶלְקֵנוּ בְּתוֹרָתֶךָ. שַׂבְּעֵנוּ מִטּוּבֶךָ וְשַׂמְּחֵנוּ בִּישׁוּעָתֶךָ, וְטַהֵר לִבֵּנוּ לְעָבְדְּךָ בֶּאֱמֶת. וְהַנְחִילֵנוּ יהוה אֱלֹהֵינוּ בְּאַהֲבָה וּבְרָצוֹן שַׁבַּת קָדְשֶׁךָ וְיָנוּחוּ בוֹ יִשְׂרָאֵל מְקַדְּשֵׁי שְׁמֶךָ:
+אֱלֹהֵינוּ וֵאלֹהֵי  אִמּוֹתֵינוּ וַאֲבוֹתֵינוּ, רְצֵה בִמְנוּחָתֵנוּ. קַדְּשֵׁנוּ בְּמִצְוֹתֶךָ וְתֵן חֶלְקֵנוּ בְּתוֹרָתֶךָ. שַׂבְּעֵנוּ מִטּוּבֶךָ וְשַׂמְּחֵנוּ בִּישׁוּעָתֶךָ, וְטַהֵר לִבֵּנוּ לְעָבְדְּךָ בֶּאֱמֶת. וְהַנְחִילֵנוּ יהוה אֱלֹהֵינוּ בְּאַהֲבָה וּבְרָצוֹן שַׁבַּת קָדְשֶׁךָ וְיָנוּחוּ בוֹ יִשְׂרָאֵל מְקַדְּשֵׁי שְׁמֶךָ:
 בָּרוּךְ אַתָּה יהוה, מְקַדֵּשׁ הַשַּׁבָּת:
 </span></div>
 </td>
@@ -4802,7 +4806,7 @@ May it be Your will Adonai our God and God of our ancestors to bring all Israel 
 <div class="liturgy" style="text-align: right;"><span lang="he">
 קדושת היום לשבת ראש חודש  
 
-אַתָּה יָצַרְתָּ עוֹלָמְךָ מִקֶּדֶם כִּלִּיתָ מְלַאכְתְּךָ בַּיּוֹם הַשְּׁבִיעִי. אָהַבְתָּ אוֹתָנוּ וְרָצִיתָ בָּנוּ וְרוֹמַמְתָּנוּ מִכָּל הַלְּשׁוֹנוֹת וְקִדַּשְׁתָּנוּ בְּמִצְוֺתֶיךָ,  וְקֵרַבְתָּנוּ מַלְכֵּנוּ לַעֲבוֹדָתֶךָ, וְשִׁמְךָ הַגָּדוֹל וְהַקָּדוֹשׁ עָלֵינוּ קָרָאתָ. וַתִּתֶּן לָנוּ יהוה אֱלֹהֵינוּ בְּאַהֲבָה שַׁבָּתוֹת לִמְנוּחָה וְרָאשֵׁי חֳדָשִׁים לְכַפָּרָה. 
+אַתָּה יָצַרְתָּ עוֹלָמְךָ מִקֶּדֶם כִּלִּיתָ מְלַאכְתְּךָ בַּיּוֹם הַשְּׁבִיעִי. אָהַבְתָּ אוֹתָנוּ וְרָצִיתָ בָּנוּ וְרוֹמַמְתָּנוּ מִכָּל הַלְּשׁוֹנוֹת וְקִדַּשְׁתָּנוּ בְּמִצְוֹתֶיךָ,  וְקֵרַבְתָּנוּ מַלְכֵּנוּ לַעֲבוֹדָתֶךָ, וְשִׁמְךָ הַגָּדוֹל וְהַקָּדוֹשׁ עָלֵינוּ קָרָאתָ. וַתִּתֶּן לָנוּ יהוה אֱלֹהֵינוּ בְּאַהֲבָה שַׁבָּתוֹת לִמְנוּחָה וְרָאשֵׁי חֳדָשִׁים לְכַפָּרָה. 
 </span></div>
 </td>
  
@@ -5016,7 +5020,7 @@ Blessed are You, Adonai, who makes peace.
 <div class="liturgy" style="text-align: right;"><span lang="he">
  בתר צלותא - רגע של תפילה אישית 
 
-אֱלֹהַי, נְצֹר לְשׁוֹנִי מֵרָע וּשְׂפָתַי מִדַּבֵּר מִרְמָה, וְלִמְקַלְלַי נַפְשִׁי תִדֹּם, וְנַפְשִׁי כֶּעָפָר לַכֹּל תִּהְיֶה. פְּתַח לִבִּי בְּתוֹרָתֶךָ, וּבְמִצְוֺתֶיךָ תִּרְדֹּף נַפְשִׁי. וְכָל הַחוֹשְׁבִים עָלַי רָעָה, מְהֵרָה הָפֵר עֲצָתָם וְקַלְקֵל מַחֲשַׁבְתָּם. עֲשֵׂה לְמַעַן שְׁמֶךָ. עֲשֵׂה לְמַעַן יְמִינֶךָ. עֲשֵׂה לְמַעַן קְדֻשָּׁתֶךָ. עֲשֵׂה לְמַעַן תּוֹרָתֶךָ, לְמַעַן יֵחָלְצוּן יְדִידֶיךָ, הוֹשִׁיעָה יְמִינְךָ וַעֲנֵנִי:
+אֱלֹהַי, נְצֹר לְשׁוֹנִי מֵרָע וּשְׂפָתַי מִדַּבֵּר מִרְמָה, וְלִמְקַלְלַי נַפְשִׁי תִדֹּם, וְנַפְשִׁי כֶּעָפָר לַכֹּל תִּהְיֶה. פְּתַח לִבִּי בְּתוֹרָתֶךָ, וּבְמִצְוֹתֶיךָ תִּרְדֹּף נַפְשִׁי. וְכָל הַחוֹשְׁבִים עָלַי רָעָה, מְהֵרָה הָפֵר עֲצָתָם וְקַלְקֵל מַחֲשַׁבְתָּם. עֲשֵׂה לְמַעַן שְׁמֶךָ. עֲשֵׂה לְמַעַן יְמִינֶךָ. עֲשֵׂה לְמַעַן קְדֻשָּׁתֶךָ. עֲשֵׂה לְמַעַן תּוֹרָתֶךָ, לְמַעַן יֵחָלְצוּן יְדִידֶיךָ, הוֹשִׁיעָה יְמִינְךָ וַעֲנֵנִי:
 
 מר בריה דרבינא
 </span></div>
@@ -5042,7 +5046,7 @@ Mar son of Rabinah
 <td style="vertical-align:top;" width="53%">
 <div class="english">
 May the words of my mouth and the meditations of my heart be acceptable to You, Adonai, my Rock and my Redeemer.
-May God who causes peace to reign in the high heavens, grant us peace, and all Israel, and all the world, and let us say: <em>Amen</em>.
+May God who causes peace to reign in the high heavens, grant us peace, and all Israel, and all the world, and let us say: Amen.
 </div>
 </td></tr>
 
@@ -5262,9 +5266,9 @@ Zech 14.9	It has been said: Adonai shall reign over all the earth; on that
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Let the great name of God be extolled and be sanctified in the world whose creation He willed. May God’s kingdom soon prevail, in our own day, in our own lives, and the life of all Israel, and let us say: <em>Amen</em>. Let God’s great name be blessed forever and ever. Let the name of the blessed Holy One be glorified, exalted and honored, though God is (on Shabbat Teshuva add: above and) beyond all the praises, songs, and adorations that we can utter, and let us say: <em>Amen</em>.
-For us and for all Israel, may the blessing of peace and the promise of life come true, and let us say: <em>Amen</em>.
-May God who causes peace to reign in the high heavens, grant peace to us, all Israel, and all mankind and let us say: <em>Amen</em>.
+Let the great name of God be extolled and be sanctified in the world whose creation He willed. May God’s kingdom soon prevail, in our own day, in our own lives, and the life of all Israel, and let us say: Amen. Let God’s great name be blessed forever and ever. Let the name of the blessed Holy One be glorified, exalted and honored, though God is (on Shabbat Teshuva add: above and) beyond all the praises, songs, and adorations that we can utter, and let us say: Amen.
+For us and for all Israel, may the blessing of peace and the promise of life come true, and let us say: Amen.
+May God who causes peace to reign in the high heavens, grant peace to us, all Israel, and all mankind and let us say: Amen.
 </div>
 </td></tr>
 
@@ -5494,9 +5498,9 @@ Based on a prayer composed by R. Nachman of Bratzlav
 <td style="vertical-align:top;" width="53%">
 <div class="english">
 Allahuma, inta-s salaam wa-minka-s salaam
-Adon ha-shalom, barkheinu ba-shalom, <em>amen</em>.
+Adon ha-shalom, barkheinu ba-shalom, amen.
 God – You are the peace and from You is the peace
-Source of peace, bless us with peace, <em>amen</em>
+Source of peace, bless us with peace, amen
 </div>
 </td></tr>
 
@@ -5725,7 +5729,7 @@ Traditional version: Blessed are You, Adonai, who brings life to the dead.
 <div class="english">
 The Sanctity of God’s Name
 
-When the Amidah is read silently, this Ḳedusha is read:
+When the Amidah is read silently, this Kedusha is read:
 
 You are holy and Your name is holy, and holy ones declare Your glory day by day. 
 Blessed are You, Adonai, the holy God (on Shabbat Teshuva: the holy Ruler).
@@ -5750,7 +5754,7 @@ Blessed are You, Adonai, the holy God (on Shabbat Teshuva: the holy Ruler).
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-When the Amidah is recited communally, the full Ḳedusha is included:	
+When the Amidah is recited communally, the full Kedusha is included:	
 
 We sanctify Your name on earth, even as in the heights of heaven they proclaim Your holiness; and in the words of the prophet, they call one to another, saying:
 Holy, holy, holy is Adonai of Hosts; the fullness of the whole earth is God’s glory!
@@ -5781,7 +5785,7 @@ To all generations we will make known Your greatness, and to all eternity procla
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
-אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֹתֵינוּ וְאִמּוֹתֵינוּ, רְצֵה בִמְנוּחָתֵנוּ. קַדְּשֵׁנוּ בְּמִצְוֺתֶיךָ וְתֵן חֶלְקֵנוּ בְּתוֹרָתֶךָ. וְטַהֵר לִבֵּנוּ לְעָבְדְּךָ בֶּאֱמֶת. וְהַנְחִילֵנוּ יי אֱלֹהֵינוּ בְּאַהֲבָה וּבְרָצוֹן שַׁבַּת קָדְשֶׁךָ. וְיָנוּחוּ בוֹ יִשְׂרָאֵל מְקַדְּשֵׁי שְׁמֶךָ: 
+אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֹתֵינוּ וְאִמּוֹתֵינוּ, רְצֵה בִמְנוּחָתֵנוּ. קַדְּשֵׁנוּ בְּמִצְוֹתֶיךָ וְתֵן חֶלְקֵנוּ בְּתוֹרָתֶךָ. וְטַהֵר לִבֵּנוּ לְעָבְדְּךָ בֶּאֱמֶת. וְהַנְחִילֵנוּ יי אֱלֹהֵינוּ בְּאַהֲבָה וּבְרָצוֹן שַׁבַּת קָדְשֶׁךָ. וְיָנוּחוּ בוֹ יִשְׂרָאֵל מְקַדְּשֵׁי שְׁמֶךָ: 
 בָּרוּךְ אַתָּה יי מְקַדֵּשׁ הַשַּׁבָּת:
 </span></div>
 </td>
@@ -5972,7 +5976,7 @@ Blessed are You, Adonai, who makes peace.
 בתר צלותא – התיחדות שלאחר תפילת עמידה
  תפילת מהלב או השראה מהתפילות הבאות
  
-אֱלֹהַי. נְצֹר לְשׁוֹנִי מֵרָע וּשְׂפָתַי מִדַּבֵּר מִרְמָה. וְלִמְקַלְלַי נַפְשִׁי תִדֹּם, וְנַפְשִׁי כֶּעָפָר לַכֹּל תִּהְיֶה. פְּתַח לִבִּי בְּתוֹרָתֶךָ, וּבְמִצְוֺתֶיךָ תִּרְדֹּף נַפְשִׁי. וְכָל הַחוֹשְׁבִים עָלַי רָעָה, מְהֵרָה הָפֵר עֲצָתָם וְקַלְקֵל מַחֲשַׁבְתָּם. עֲשֵׂה לְמַעַן שְׁמֶךָ. עֲשֵׂה לְמַעַן יְמִינֶךָ. עֲשֵׂה לְמַעַן קְדֻשָּׁתֶךָ. עֲשֵׂה לְמַעַן תּוֹרָתֶךָ. לְמַעַן יֵחָלְצוּן יְדִידֶיךָ, הוֹשִׁיעָה יְמִינְךָ וַעֲנֵנִי.
+אֱלֹהַי. נְצֹר לְשׁוֹנִי מֵרָע וּשְׂפָתַי מִדַּבֵּר מִרְמָה. וְלִמְקַלְלַי נַפְשִׁי תִדֹּם, וְנַפְשִׁי כֶּעָפָר לַכֹּל תִּהְיֶה. פְּתַח לִבִּי בְּתוֹרָתֶךָ, וּבְמִצְוֹתֶיךָ תִּרְדֹּף נַפְשִׁי. וְכָל הַחוֹשְׁבִים עָלַי רָעָה, מְהֵרָה הָפֵר עֲצָתָם וְקַלְקֵל מַחֲשַׁבְתָּם. עֲשֵׂה לְמַעַן שְׁמֶךָ. עֲשֵׂה לְמַעַן יְמִינֶךָ. עֲשֵׂה לְמַעַן קְדֻשָּׁתֶךָ. עֲשֵׂה לְמַעַן תּוֹרָתֶךָ. לְמַעַן יֵחָלְצוּן יְדִידֶיךָ, הוֹשִׁיעָה יְמִינְךָ וַעֲנֵנִי.
 
 מר בריה דרבינא
 </span></div>
@@ -5999,7 +6003,7 @@ Mar son of Rabinah
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-May the words of my mouth, and the meditations of my heart, be acceptable to You, Adonai, my Rock and my Redeemer. May God who causes peace to reign in the high heavens, grant us peace, and all Israel, and on all the world, and let us say: <em>Amen</em>.
+May the words of my mouth, and the meditations of my heart, be acceptable to You, Adonai, my Rock and my Redeemer. May God who causes peace to reign in the high heavens, grant us peace, and all Israel, and on all the world, and let us say: Amen.
 </div>
 </td></tr>
 

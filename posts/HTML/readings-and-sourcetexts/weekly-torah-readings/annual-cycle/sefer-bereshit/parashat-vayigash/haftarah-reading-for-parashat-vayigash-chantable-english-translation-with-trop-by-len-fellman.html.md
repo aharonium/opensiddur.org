@@ -21,7 +21,7 @@ This is an English translation of the Haftarah reading for Parashat Vayigash (Ez
 
 <h3>Recording</h3>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/details/ParashatBereshitHaftarahReadingWithEnglishTranstropilation" show_part_of_iframe="true" show_part_of_iframe_y="75" show_part_of_iframe_height="145" show_part_of_iframe_allow_scrollbar_vertical="false"]
+https://archive.org/download/parashatvayigashhaftarahreadingwithenglishtranstropilationlenfellman2019/Parashat%20Vayigash%20Haftarah%20Reading%20%28Ezekiel%2037v15-28%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29.mp3
 
 <hr />
 &nbsp;

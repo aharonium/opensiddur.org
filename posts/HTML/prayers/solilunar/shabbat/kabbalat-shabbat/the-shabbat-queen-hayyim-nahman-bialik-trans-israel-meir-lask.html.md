@@ -7,17 +7,18 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;">
+<table style="margin-left: auto;margin-right: auto;" class="draggable">
+<thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
-הַחַמָּה מֵרֹאשׁ הָאִילָנוֺת נִסְתַּלְּקָה. 
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
+הַחַמָּה מֵרֹאשׁ הָאִילָנוֹת נִסְתַּלְּקָה. 
 בֹּֽאוּ וְנֵצֵא לִקְרַאת שַׁבָּת הַמַּלְכָּה.
-הִנֵּה הִיא יוֺרֶֽדֶת הַקְדוֺשָׁה הַבְּרוּכָה.
-וְעִמָּה מַלְאָכִים צְבָא שָׁלוֺם וּמְנוּחָה:
+הִנֵּה הִיא יוֹרֶֽדֶת הַקְדוֹשָׁה הַבְּרוּכָה.
+וְעִמָּה מַלְאָכִים צְבָא שָׁלוֹם וּמְנוּחָה:
 בֹּֽאִי בֹּֽאִי הַמַּלְכָּה.
 בֹּֽאִי בֹּֽאִי הַכַּלָּה.
-שָׁלוֺם עֲלֵיכֶם מַלְאֲכֵי הַשָּׁלוֺם:
+שָׁלוֹם עֲלֵיכֶם מַלְאֲכֵי הַשָּׁלוֹם:
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
@@ -36,11 +37,11 @@ Peace be unto you, angels of peace.
 <div class="liturgy" style="text-align: right;"><span lang="he">
 קִבַּֽלְנוּ פְנֵי שַׁבָּת בִרְנָנָה וּתְפִלָּה. 
 הַבַּֽיְתָה נָשׁוּבָה בְּלֵב מָלֵא גִילָה. 
-שָׁם עָרוּךְ הַשֻּׁלְחָן הַנֵרוֺת יָאִֽירוּ. 
-כָּל־פִּנוֺת הַבַּֽיִת יִזְרָֽחוּ יַזְהִירוּ.
-שַׁבַּת שָׁלוֺם וּבְרָכָה.
-שַׁבַּת שָׁלוֺם וּמְנוּחָה.
-בֹּאֲכֶם לְשָׁלוֺם מַלְאֲכֵי הַשָּׁלוֺם:
+שָׁם עָרוּךְ הַשֻּׁלְחָן הַנֵרוֹת יָאִֽירוּ. 
+כָּל־פִּנוֹת הַבַּֽיִת יִזְרָֽחוּ יַזְהִירוּ.
+שַׁבַּת שָׁלוֹם וּבְרָכָה.
+שַׁבַּת שָׁלוֹם וּמְנוּחָה.
+בֹּאֲכֶם לְשָׁלוֹם מַלְאֲכֵי הַשָּׁלוֹם:
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
@@ -57,13 +58,13 @@ Enter in peace, ye angels of peace.
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
-שְׁבִי זַכָּה עִמָּֽנוּ וּבְזִיוֵךְ נָא אֽוֺרִי 
-לַיְלָה וָיוֺם אַחַר תַּעֲבֹֽרִי.
-וַאֲנַחְנוּ נְכַבְּדֵךְ בְּבִגְדֵי חֲמוּדוֺת.
-בִּזְמִירוֺת וּתְפִלּוֺת וּבְשָׁלֹשׁ סְעֻדוֺת:
+שְׁבִי זַכָּה עִמָּֽנוּ וּבְזִיוֵךְ נָא אֽוֹרִי 
+לַיְלָה וָיוֹם אַחַר תַּעֲבֹֽרִי.
+וַאֲנַחְנוּ נְכַבְּדֵךְ בְּבִגְדֵי חֲמוּדוֹת.
+בִּזְמִירוֹת וּתְפִלּוֹת וּבְשָׁלֹשׁ סְעֻדוֹת:
 וּבִמְנוּחָה שְׁלֵמָה.
 וּבִמְנוּחָה נָעֵֽמָה.
-בָּרְכֽוּנוּ לְשָׁלוֺם מַלְאֲכֵי הַשָּׁלוֺם:
+בָּרְכֽוּנוּ לְשָׁלוֹם מַלְאֲכֵי הַשָּׁלוֹם:
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
@@ -80,13 +81,13 @@ Bless us with peace, ye angels of peace.
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
-הַחַמָּה מֵרֹאשׁ הָאִילָנוֺת נִסְתַּלְּקָה. 
+הַחַמָּה מֵרֹאשׁ הָאִילָנוֹת נִסְתַּלְּקָה. 
 בֹּֽאוּ וּנְלַוֶּה אֶת־שַׁבָּת הַמַּלְכָּה.
-צֵאתֵךְ לְשָׁלוֺם הַקְּדוֺשָׁה הַזַּכָּה.
+צֵאתֵךְ לְשָׁלוֹם הַקְּדוֹשָׁה הַזַּכָּה.
 דְעִי שֵֽׁשֶׁת יָמִים אֶל־שׁוּבֵךְ נְחַכֶּה:
 כֵּן לַשַּׁבָּת הַבָּאָה.
 כֵּן לַשַּׁבָּת הַבָּאָה.
-צֵאתְכֶם לְשָׁלוֺם מַלְאֲכֵי הַשָׁלוֺם:
+צֵאתְכֶם לְשָׁלוֹם מַלְאֲכֵי הַשָׁלוֹם:
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
@@ -102,11 +103,17 @@ Go forth in peace, ye angels of peace.
 </tbody></table>
 
 <hr />
-This translation of Ḥayyim Naḥman Bialik’s Shabbat Ha-Malkah by Israel Meir Lask can be found on pages 280-281 in the  <a href="https://archive.org/stream/SabbathPrayerBookJewishReconstructionistFoundation1945/Sabbath%20Prayer%20Book%20%28Jewish%20Reconstructionist%20Foundation%2C%201945%29#page/n312/mode/2up">Sabbath Prayer Book</a> (Jewish Reconstructionist Foundation, 1945) where it appears as “Greeting to Queen Sabbath.” The poem is based on the shabbat song, Shalom Aleikhem and first published in the poetry collection, Hazamir, in 1903. [I have made a faithful transcription of the Hebrew and its English translation as it appears in this siddur. –Aharon N. Varady]
 
+This translation of Ḥayyim Naḥman Bialik’s Shabbat Ha-Malkah by Israel Meir Lask can be found on pages 280-281 in the  <a href="https://archive.org/stream/SabbathPrayerBookJewishReconstructionistFoundation1945/Sabbath%20Prayer%20Book%20%28Jewish%20Reconstructionist%20Foundation%2C%201945%29#page/n312/mode/2up">Sabbath Prayer Book</a> (Jewish Reconstructionist Foundation, 1945) where it appears as “Greeting to Queen Sabbath.” The poem is based on the shabbat song, Shalom Aleikhem and first published in the poetry collection, Hazamir, in 1903. [I have made a faithful transcription of the Hebrew and its English translation as it appears in this siddur. –Aharon N. Varady]
 
 <h3>Source</h3>
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/SabbathPrayerBookJewishReconstructionistFoundation1945#page/n312/mode/2up"]
+
+&nbsp;
+
+<hr />
+
+&nbsp;
 </body>
 </html>

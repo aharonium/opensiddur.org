@@ -26,7 +26,6 @@ According to the poetry of the Midrash Tanchuma, Bereshit 1:1, the words of the 
 Parashat Shemot (Exodus 1:1-6:1) in the annual Torah reading cycle, is read on the third shabbat of the month of Tevet. The parashah is preceded by <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-bereshit/parashat-vayehi/parashat-vayehi-color-coded-according-to-its-narrative-layers/">Vayeḥi</a> (Genesis 47:28-50:26); parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-shemot/parashat-vaera/parashat-vaera-color-coded-according-to-its-narrative-layers/">Va'era</a> (Exodus 6:2-9:35) follows it.
 </div>
 
-
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
@@ -37,7 +36,7 @@ Parashat Shemot (Exodus 1:1-6:1) in the annual Torah reading cycle, is read on t
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="p">1 <sup>1</sup>&nbsp;Now these are the names of the children of Yisrael coming to Mitsrayim, with Yaaqov, each-man and his household they came: <sup>2</sup>&nbsp;Re'uven, Shim'on, Levi and Yehudah, <sup>3</sup>&nbsp;Yissakhar, Zevulun and Binyamin, <sup>4</sup>&nbsp;Dan and Naftali, Gad and Asher. <sup>5</sup>&nbsp;<span class="b">So all the persons, those issuing from Yaaqov's loins,</span> were seventy persons, – Yosef was (already) in Mitsrayim. <sup>6</sup>&nbsp;Now Yosef died, and all his brothers, and all that generation. <sup>7</sup>&nbsp;Yet the Children of Yisrael bore fruit, they swarmed, they became many, they grew mighty (in number) – exceedingly, yes, exceedingly; the land filled up with them.
+<span class="p">1 <sup>1</sup>&nbsp;Now these are the names of the children of Yisrael coming to Mitsrayim, with Yaaqov, each-man and his household they came: <sup>2</sup>&nbsp;Re'uven, Shim'on, Levi and Yehudah, <sup>3</sup>&nbsp;Yissakhar, Zevulun and Binyamin, <sup>4</sup>&nbsp;Dan and Naftali, Gad and Asher. <sup>5</sup>&nbsp;<span class="b">So all the persons, those issuing from Yaaqov's loins,</span> were seventy persons, – Yosef was (already) in Mitsrayim. <sup>6</sup>&nbsp;Now Yosef died, and all his brothers, and all that generation. <sup>7</sup>&nbsp;Yet the Children of Yisrael bore fruit, they swarmed, they became many, they grew mighty (in number) – exceedingly, yes, exceedingly; the land filled up with them.</span>[foot]The first verses of Exodus 1 serve as a narrative bridge between the books of Genesis and Exodus, and recount how the Israelites evolved from a family into a people. Note the genealogical information typical to P and compare similar lists in Genesis 35:23-26 and 46:8-27. The population increase in vs. 7 is described using the same terms as God's blessing to humans in Genesis 1:28 (P) and 9:7 (P).[/foot]
 </div></td></tr>
 
 
@@ -48,7 +47,7 @@ Parashat Shemot (Exodus 1:1-6:1) in the annual Torah reading cycle, is read on t
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="e"><sup>8</sup>&nbsp;Now a new king arose over Mitsrayim, who had not known Yosef. <sup>9</sup>&nbsp;He said to his people: "Here, (this) people, the Children of Yisrael, is many-more and mightier (in number) than we! <sup>10</sup>&nbsp;Come-now, let us use-our-wits against it, lest it become many-more, and then, if war should occur, it too be added to our enemies and make war upon us or go up away from the land!" </span>
+<span class="e"><sup>8</sup>&nbsp;Now a new king arose over Mitsrayim, who had not known Yosef. <sup>9</sup>&nbsp;He said to his people: "Here, (this) people, the Children of Yisrael, is many-more and mightier (in number) than we! <sup>10</sup>&nbsp;Come-now, let us use-our-wits against it, lest it become many-more, and then, if war should occur, it too be added to our enemies and make war upon us or go up away from the land!"</span>[foot]Note the use of "King of Egypt" in vs. 8, this term will be used by E, as opposed to J's Pharaoh. The words רב ועצום – "powerful and mighty" in vs. 10, more likely, indicate military might, not numerical might since in vs. 10 the King says "lest they increase" [פן ירבה], which seems to mean that they haven't increased yet, and it is only an eventuality that the king prepares for.[/foot]
 </div></td></tr>
 
 
@@ -59,7 +58,7 @@ Parashat Shemot (Exodus 1:1-6:1) in the annual Torah reading cycle, is read on t
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="j"><sup>11</sup>&nbsp;So they set gang-captains over it, to afflict it with their burdens. It built storage-cities for Pharaoh – Pitom and Ra'amses. <sup>12</sup>&nbsp;But as they afflicted it, so did it become many, so did it burst forth. And they felt dread before the Children of Yisrael.</span> <span class="p"><sup>13</sup>&nbsp;So they, Mitsrayim, made the Children of Yisrael subservient with crushing-labor; <sup>14</sup>&nbsp;they embittered their lives with hard servitude in loam and in bricks and with all kinds of servitude in the field – all their service in which they made them subservient with crushing-labor.</span>
+<span class="j"><sup>11</sup>&nbsp;So they set gang-captains over it, to afflict it with their burdens. It built storage-cities for Pharaoh – Pitom and Ra'amses. <sup>12</sup>&nbsp;But as they afflicted it, so did it become many, so did it burst forth. And they felt dread before the Children of Yisrael.</span> <span class="p"><sup>13</sup>&nbsp;So they, Mitsrayim, made the Children of Yisrael subservient with crushing-labor; <sup>14</sup>&nbsp;they embittered their lives with hard servitude in loam and in bricks and with all kinds of servitude in the field – all their service in which they made them subservient with crushing-labor.</span>[foot]The oppression of the Israelites through taskmasters is a Yahwistic innovation, and compare Exodus 5:4ff. Vss. 11-14, do not logically follow vss. 8-10 - setting taskmasters over the Israelites may perhaps be described as a cruel measure though not as ruse.[/foot]
 </div></td></tr>
 
 
@@ -70,7 +69,7 @@ Parashat Shemot (Exodus 1:1-6:1) in the annual Torah reading cycle, is read on t
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="e"><sup>15</sup>&nbsp;Now the king of Mitsrayim said to the midwives of the Ivrim – the name of the first one was Shifrah, the name of the second was Pu'ah – <sup>16</sup>&nbsp;he said: "When you help the Ivri women give birth, see the supporting-stones: if he be a son, put him to death, but if she be a daughter, she may live." <sup>17</sup>&nbsp;But the midwives held Elohim in awe, and they did not do as the king of Mitsrayim had spoken to them, they let the (male) children live. <sup>18</sup>&nbsp;The king of Mitsrayim called for the midwives and said to them: "Why have you done this thing, you have let the children live‽" <sup>19</sup>&nbsp;The midwives said</span> <span class="j">to Pharaoh</span><span class="e">: "Indeed, not like the Mitsri (women) are the Ivri (women), indeed, they are lively: before the midwife comes to them, they have given birth!"</span>
+<span class="e"><sup>15</sup>&nbsp;Now the king of Mitsrayim said to the midwives of the Ivrim – the name of the first one was Shifrah, the name of the second was Pu'ah – <sup>16</sup>&nbsp;he said: "When you help the Ivri women give birth, see the supporting-stones: if he be a son, put him to death, but if she be a daughter, she may live." <sup>17</sup>&nbsp;But the midwives held Elohim in awe, and they did not do as the king of Mitsrayim had spoken to them, they let the (male) children live. <sup>18</sup>&nbsp;The king of Mitsrayim called for the midwives and said to them: "Why have you done this thing, you have let the children live‽" <sup>19</sup>&nbsp;The midwives said</span>[foot]This narrative is at odds with vast numbers of Israelites posited by P in Numbers 2:32-34, and Numbers 26:51, since a nation of several million (600, 000 men above the age 20) could not survive with only two midwives. Some commentators suggest that Shifra and Puah were only the representatives or leaders of the midwives. Another option is that this narrative is folkloric and the details need not accord with other non-folkloric traditions. The simplest solution in my mind is that in the E narrative, the number of Israelites is nowhere near as prolific as in P, and that the source assumes a number closer to 6000. This approximation accords with many of the other E narratives, which speak of one well (Numbers 20:1-10), 70 date palms (Exodus 15:22-27), or 600 soldiers pursuing the Israelites (Exodus 14:5).[/foot] <span class="j">to Pharaoh:</span>[foot]For the sake of consistency I posit that the name Pharaoh is an insertion here, since the name used throughout the Elohistic verses of this section (Exodus 1:8-10, 15-29, 21) is the King of Egypt. It is possible that the later author (perhaps J) seeks to give the narrative a more Egyptian flavor, and compare this insertion of names to Genesis 45:25, 46:1, and elsewhere in Elohistic passages.[/foot] <span class="e">"Indeed, not like the Mitsri (women) are the Ivri (women), indeed, they are lively: before the midwife comes to them, they have given birth!"</span>[foot]This detail accords with the King's description of the Israelites as vital in vs. 9, they don't even need midwives.[/foot]
 </div></td></tr>
 
 
@@ -81,7 +80,7 @@ Parashat Shemot (Exodus 1:1-6:1) in the annual Torah reading cycle, is read on t
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="p"><sup>20</sup>&nbsp;Elohim dealt well with the midwives. And the people became many and grew exceedingly mighty (in number).</span> <span class="e"><sup>21</sup>&nbsp;It was, since the midwives held Elohim in awe, that he made them households.</span>
+<span class="p"><sup>20</sup>&nbsp;Elohim dealt well with the midwives. And the people became many and grew exceedingly mighty (in number).</span>[foot]In vs. 21, E describes the midwives as God-Fearing a typical Elohistic sentiment (and compare Genesis 22:12), and therefore worthy of God's reward, likely progeny (although the Hebrew is ambivalent). In vs. 20, their reward is stated more generally, and the main focus of the verse is the failure of the King's ruse. Together the verses are repetitive. It seems likely, that vs. 20 is an addition, since it focuses on the population increase which is a Priestly theme in Exodus 12:37, Numbers 1-2, Numbers 26:51 and elsewhere.[/foot] <span class="e"><sup>21</sup>&nbsp;It was, since the midwives held Elohim in awe, that he made them households.</span>[foot]See the above comment.[/foot]
 </div></td></tr>
 
 
@@ -92,7 +91,7 @@ Parashat Shemot (Exodus 1:1-6:1) in the annual Torah reading cycle, is read on t
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="j"><sup>22</sup>&nbsp;Now Pharaoh commanded all his people, saying: "Every son that is born, throw him into the Nile, but let every daughter live."</span>
+<span class="j"><sup>22</sup>&nbsp;Now Pharaoh commanded all his people, saying: "Every son that is born, throw him into the Nile, but let every daughter live."</span>[foot]This verse function as a Precursor to Exodus 2 (J), in which Moses is found floating on the Nile after his mother places him them there in a wicker basket (and note the use of the name Pharaoh.) In E, however, no further attempt to curtail Israel's might is recorded.[/foot]
 </div></td></tr>
 
 
@@ -158,7 +157,7 @@ Parashat Shemot (Exodus 1:1-6:1) in the annual Torah reading cycle, is read on t
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="j"><sup>21</sup>&nbsp;Mosheh agreed to settle down with the man, and he gave Tsipporah his daughter to Mosheh. <sup>22</sup>&nbsp;She gave birth to a son, and he called his name: 'Gershom/Sojourner There,' for he said: "A sojourner have I become in a foreign land."</span>
+<span class="j"><sup>21</sup>&nbsp;Mosheh agreed to settle down with the man, and he gave Tsipporah his daughter to Mosheh. <sup>22</sup>&nbsp;She gave birth to a son, and he called his name: 'Gershom/Sojourner There,' for he said: "A sojourner have I become in a foreign land."</span>[foot]In E, we are introduced to Moses when God appears to him in the desert. A more historically oriented source such as J must address the question of Moses' origins, thus this account of Moses' childhood and early adulthood. ¶ Note that the word אמתה in vs. 5, translated here as "her hand / arm", is usually rendered by English translations as "her maidservant" (which the masoretic vocalization supports). J, however, does not employ the word אמה for maidservant, preferring the parallel שפחה, if this passage is Yahwistic our translation / emendation is preferable. Note that אמה is attested to as arm or appendage in Psalms 91:4 (after the vocalization is emended) and elsewhere as was correctly noted by Zeligman.[/foot]
 </div></td></tr>
 
 
@@ -169,7 +168,7 @@ Parashat Shemot (Exodus 1:1-6:1) in the annual Torah reading cycle, is read on t
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="p"><sup>23</sup>&nbsp;It was, many years later, the king of Mitsrayim died. The Children of Yisrael groaned from the servitude, and they cried out; and their plea-for-help went up to Elohim, from the servitude. <sup>24</sup>&nbsp;Elohim hearkened to their moaning, Elohim called-to-mind his covenant with Avraham, with Yitsḥaq, and with Yaaqov, <sup>25</sup>&nbsp;Elohim saw the Children of Yisrael, and Elohim knew.</span>
+<span class="p"><sup>23</sup>&nbsp;It was, many years later, the king of Mitsrayim died. The Children of Yisrael groaned from the servitude, and they cried out; and their plea-for-help went up to Elohim, from the servitude. <sup>24</sup>&nbsp;Elohim hearkened to their moaning, Elohim called-to-mind his covenant with Avraham, with Yitsḥaq, and with Yaaqov, <sup>25</sup>&nbsp;Elohim saw the Children of Yisrael, and Elohim knew.</span>[foot]The only source that mentions a covenant with the forefathers is P, in Genesis 17 – this covenant is also alluded to in Exodus 6:3 (P). Note also a similar sequence of redemptive actions in the first verses of Exodus 6 (P). P accepts J's version of events in which the Israelites were enslaved - according to E, this is not necessarily the case, and see above, in Exodus 1.[/foot]
 </div></td></tr>
 
 
@@ -180,7 +179,7 @@ Parashat Shemot (Exodus 1:1-6:1) in the annual Torah reading cycle, is read on t
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="e">3 <sup>1</sup>&nbsp;Now Mosheh was shepherding the flock of Yitro his father-in-law, priest of Midyan. He led the flock behind the wilderness – and he came to the mountain of Elohim,</span> <span class="b">to Ḥorev.</span> <span class="e"><sup>2</sup>&nbsp;</span><span class="j">And YHVH's messenger was seen by him in the flame of a fire out of the midst of a bush.</span> <span class="e">He saw: here, the bush is burning with fire, and the bush is not consumed! <sup>3</sup>&nbsp;Mosheh said: "Now let me turn aside that I may see this great sight – why the bush does not burn up!"</span>
+<span class="e">3 <sup>1</sup>&nbsp;Now Mosheh was shepherding the flock of Yitro his father-in-law, priest of Midyan. He led the flock behind the wilderness – and he came to the mountain of Elohim,</span>[foot]Our first encounter with Moses according to E. Note the parallel terms – Mountain of God here, Mount Sinai in J and P, and Horeb in Deuteronomistic literature. The Deuteronomistic term is added here to harmonize between traditions.[/foot] <span class="b">to Ḥorev.</span>[foot]See above comment.[/foot] <span class="e"><sup>2</sup>&nbsp;</span><span class="j">And YHVH's messenger was seen by him in the flame of a fire out of the midst of a bush.</span>[foot]Note the abrupt switch from God (E) to the Angel of the Lord (J) – this type of abruptness characterizes the chapter. J's addition here clarifies that God wasn't in the bush (a stationary object), but rather in the fire, a frequent vehicle of divine manifestation. Moreover, it wasn't God himself but rather his angel.[/foot] <span class="e">He saw: here, the bush is burning with fire, and the bush is not consumed! <sup>3</sup>&nbsp;Mosheh said: "Now let me turn aside that I may see this great sight – why the bush does not burn up!"</span>[foot]In the more concise Elohistic narrative the burning bush draws Moses towards it -  the more reason oriented J articulates that this was the Lord's purpose.[/foot]
 </div></td></tr>
 
 
@@ -191,7 +190,8 @@ Parashat Shemot (Exodus 1:1-6:1) in the annual Torah reading cycle, is read on t
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="e"><sup>4</sup>&nbsp;</span><span class="j">When YHVH saw that he had turned aside to see,</span> <span class="e">Elohim called to him out of the midst of the bush, he said: "Mosheh! Mosheh!" He said: "Here I am." <sup>5</sup>&nbsp;He said: "Do not come near to here, put off your sandal from your foot, for the place on which you stand – it is holy ground!" <sup>6</sup>&nbsp;And he said: "I am the <em>elo'ah</em> of your father,</span> <span class="j">the <em>elo'ah</em> of Avraham, the <em>elo'ah</em> of Yitsḥaq, and the <em>elo'ah</em> of Yaaqov."</span> <span class="e">Mosheh concealed his face, for he was afraid to gaze upon Elohim.</span>
+<span class="e"><sup>4</sup>&nbsp;</span><span class="j">When YHVH saw that he had turned aside to see,</span>[foot]See the above comment.[/foot] <span class="e">Elohim called to him out of the midst of the bush, he said: "Mosheh! Mosheh!" He said: "Here I am." <sup>5</sup>&nbsp;He said: "Do not come near to here, put off your sandal from your foot, for the place on which you stand – it is holy ground!" <sup>6</sup>&nbsp;And he said: "I am the <em>elo'ah</em> of your father,</span>[foot]Note the abrupt switch from Lord to God indicating multiple authorship. God names himself as the "God of Moses' father" in the singular – a plurality of three forefathers follow, however. It is likely that this triad is an addition to the text relating Moses to the patriarchs of Genesis, thus connecting the narrative traditions. This triad is unknown to E since in his version of the Patriarchal narratives Abraham and Jacob are not related. 
+Moses' direct father remains unspecified in E and in J (in Exodus 6 [H] he is named), and in this context the divine title is likely a generic reference connecting Moses to the God of the Israelite nation.[/foot] <span class="j">the <em>elo'ah</em> of Avraham, the <em>elo'ah</em> of Yitsḥaq, and the <em>elo'ah</em> of Yaaqov."</span>[foot]See the above comment.[/foot] <span class="e">Mosheh concealed his face, for he was afraid to gaze upon Elohim.</span>[foot]Note Moses' fear vis-à-vis the divine – this is the appropriate reaction in all interactions with God according to E, and compare the Midwives fear in Exodus 1:21.[/foot]
 </div></td></tr>
 
 
@@ -202,7 +202,7 @@ Parashat Shemot (Exodus 1:1-6:1) in the annual Torah reading cycle, is read on t
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="j"><sup>7</sup>&nbsp;Now YHVH said: "I have seen, yes, seen the affliction of my people that is in Mitsrayim, their cry I have heard in the face of their slave-drivers; indeed, I have known their sufferings! <sup>8</sup>&nbsp;So I have come down to rescue it from the hand of Mitsrayim, to bring it up from that land to a land, goodly and spacious, to a land flowing with milk and honey, to the place of the K'naani and the Ḥitti, of the Emori and the Perizzi, of the Ḥivvi and the Yevusi.</span> <span class="e"><sup>9</sup>&nbsp;</span><span class="j">So now,</span> <span class="e">here, the cry of the Children of Yisrael has come to me, and I have also seen the oppression with which Mitsrayim oppresses them. <sup>10</sup>&nbsp;So now, go, for I send you to Pharaoh – bring my people, the Children of Yisrael, out of Mitsrayim!"</span>
+<span class="j"><sup>7</sup>&nbsp;Now YHVH said: "I have seen, yes, seen the affliction of my people that is in Mitsrayim, their cry I have heard in the face of their slave-drivers; indeed, I have known their sufferings! <sup>8</sup>&nbsp;So I have come down to rescue it from the hand of Mitsrayim, to bring it up from that land to a land, goodly and spacious, to a land flowing with milk and honey, to the place of the K'naani and the Ḥitti, of the Emori and the Perizzi, of the Ḥivvi and the Yevusi.</span>[foot]In J (vss. 7-8), the Lord announces to Moses his intention to Personally descend to Egypt and rescue the Israelites, Moses is merely the Lord's mouthpiece. In E (vss. 9-10), God appoints Moses to rescue the Israelites and the means are left up to Moses himself. Note also the allusion to the Egyptian taskmasters which J introduced to Exodus 1, according to E, the Israelites were not enslaved.[/foot] <span class="e"><sup>9</sup>&nbsp;</span><span class="j">So now,</span>[foot]The word behold here was likely added in order to better connect the disparate statements in vss. 7-8 and 9-10.[/foot] <span class="e">here, the cry of the Children of Yisrael has come to me, and I have also seen the oppression with which Mitsrayim oppresses them. <sup>10</sup>&nbsp;So now, go, for I send you to Pharaoh – bring my people, the Children of Yisrael, out of Mitsrayim!"</span>
 </div></td></tr>
 
 
@@ -224,7 +224,11 @@ Parashat Shemot (Exodus 1:1-6:1) in the annual Torah reading cycle, is read on t
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="e"><sup>13</sup>&nbsp;Mosheh said to Elohim: "Here, I will come to the Children of Yisrael and I will say to them: 'The <em>elo'ah</em> of your fathers has sent me to you,' and they will say to me: 'What is his name?' – what shall I say to them?" <sup>14</sup>&nbsp;Elohim said to Mosheh: "'EHYEH ASHER EHYEH/I will be-there howsoever I will be-there.'" And he said: "Thus shall you say to the Children of Yisrael: 'EHYEH/I-WILL-BE-THERE sends me to you.'"</span>
+<span class="e"><sup>13</sup>&nbsp;Mosheh said to Elohim: "Here, I will come to the Children of Yisrael and I will say to them: 'The <em>elo'ah</em> of your fathers has sent me to you,' and they will say to me: 'What is his name?' – what shall I say to them?" <sup>14</sup>&nbsp;Elohim said to Mosheh: "'EHYEH ASHER EHYEH/I will be-there howsoever I will be-there.'" And he said: "Thus shall you say to the Children of Yisrael: 'EHYEH/I-WILL-BE-THERE sends me to you.'"</span>[foot]The Masoretic (Hebrew) text employs the title Pharaoh in these verses (10 and 11) – there may be evidence from other textual witnesses that this is not the original title and thus we employ King of Egypt here which is used by E in Exodus 1, and elsewhere.
+
+There is frequent debate among commentators regarding the sign God gave Moses in vs. 12. It is unlikely that it was verbal since it would not have aided him in proving God's existence and commitment to the Israelites. The structure of vs. 12 seems to indicate that God's sign to Moses is the subsequent worship on the Mountain of God, this is difficult since it does not validate Moses' leadership until after the fact. If, however, this sign is read in the context of the E narrative it makes a lot of sense since worship at Mount Sinai is the first manifestation of God in this source after Exodus 3, and occurs at the relative beginning of Moses' tenure as leader which ends in E after the conquest of the land in Numbers 21 (in J and P Moses is only a desert leader). The sign thus validates Moses' continued leadership in God's first Elohistic manifestation after Exodus 3.
+
+According to some documentary scholars it is at this point in the narrative where E switches to "the Lord". There is, however, little textual evidence to support this claim since vs. 15 (15 God also said to Moses, “Thus you shall say to the Israelites, ‘The LORD, the God of your ancestors, the God of Abraham, the God of Isaac, and the God of Jacob, has sent me to you’: This is my name forever, and this my title for all generations.) is clearly an addition to the text (note the word "also"). God has already been named: "I am who I am"  in vs. 14, and vs. 15 clearly contradicts this statement. Moreover, vs. 15, mentions the Patriarchal triad which did not exist according to E (Isaac was killed in Genesis 22). Vs. 15 is a verse in the Yahwistic vein which seeks to reveal God special name "Yahweh" to the world through the Exodus.[/foot]
 </div></td></tr>
 
 
@@ -235,7 +239,7 @@ Parashat Shemot (Exodus 1:1-6:1) in the annual Torah reading cycle, is read on t
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="j"><sup>15</sup>&nbsp;And Elohim said further to Mosheh: "Thus shall you say to the Children of Yisrael: 'YHVH, the <em>elo'ah</em> of your fathers, the <em>elo'ah</em> of Avraham, the <em>elo'ah</em> of Yitsḥaq, and the <em>elo'ah</em> of Yaaqov, sends me to you. That is my name for the ages, that is my title (from) generation to generation.' <sup>16</sup>&nbsp;Go, gather the elders of Yisrael and say to them: 'YHVH, the <em>elo'ah</em> of your fathers, has been seen by me, the <em>elo'ah</em> of Avraham, of Yitsḥaq, and of Yaaqov, saying: I have taken account, yes, account of you and of what is being done to you in Mitsrayim, <sup>17</sup>&nbsp;and I have declared: I will bring you up from the affliction of Mitsrayim, to the land of the K'naani and of the Ḥitti, of the Emori and of the Perizzi, of the Ḥivvi and of the Yevusi, to a land flowing with milk and honey.'"</span>
+<span class="j"><sup>15</sup>&nbsp;And Elohim said further to Mosheh: "Thus shall you say to the Children of Yisrael: 'YHVH, the <em>elo'ah</em> of your fathers, the <em>elo'ah</em> of Avraham, the <em>elo'ah</em> of Yitsḥaq, and the <em>elo'ah</em> of Yaaqov, sends me to you. That is my name for the ages, that is my title (from) generation to generation.' <sup>16</sup>&nbsp;Go, gather the elders of Yisrael and say to them: 'YHVH, the <em>elo'ah</em> of your fathers, has been seen by me, the <em>elo'ah</em> of Avraham, of Yitsḥaq, and of Yaaqov, saying: I have taken account, yes, account of you and of what is being done to you in Mitsrayim, <sup>17</sup>&nbsp;and I have declared: I will bring you up from the affliction of Mitsrayim, to the land of the K'naani and of the Ḥitti, of the Emori and of the Perizzi, of the Ḥivvi and of the Yevusi, to a land flowing with milk and honey.'"</span>[foot]Note the nature of Moses' leadership – he is to act as the Lord's mouthpiece (and see vss. 7-8).[/foot]
 </div></td></tr>
 
 
@@ -246,7 +250,7 @@ Parashat Shemot (Exodus 1:1-6:1) in the annual Torah reading cycle, is read on t
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="e"><sup>18</sup>&nbsp;"They will hearken to your voice, and you will come, you and the elders of Yisrael, to the king of Mitsrayim and say to him: YHVH, the <em>elo'ah</em> of the Ivrim, has met with us – so now, pray let us go a three days' journey into the wilderness and let us slaughter (offerings) to YHVH our <em>elo'ah</em>! <sup>19</sup>&nbsp;But I, I know that the king of Mitsrayim will not give you leave to go, not (even) under a strong hand. <sup>20</sup>&nbsp;So I will send forth my hand and I will strike Mitsrayim with all my wonders which I will do in its midst</span><span class="j"> – after that he will send you free!"</span>
+<span class="e"><sup>18</sup>&nbsp;"They will hearken to your voice, and you will come, you and the elders of Yisrael, to the king of Mitsrayim and say to him: YHVH, the <em>elo'ah</em> of the Ivrim, has met with us – so now, pray let us go a three days' journey into the wilderness and let us slaughter (offerings) to YHVH our <em>elo'ah</em>! <sup>19</sup>&nbsp;But I, I know that the king of Mitsrayim will not give you leave to go, not (even) under a strong hand.[foot]The antecedent of "they" in vs. 18, is the Israelites (vs. 14) rather than the elders of vs. 17. ¶ God is named here as the "God of the Hebrews" which follows the Septuagint [Greek] rather than the Masoretic [Hebrew] text: "Yhwh God of the Hebrews". ¶ Note that according to E, the King of Egypt will not let them go, even if compelled to do so by a mighty hand – and indeed according to E, the Israelites escape Egypt after the plagues. In J, however, Pharaoh, sends them away, and thus the addition of vs. 20.[/foot] <sup>20</sup>&nbsp;So I will send forth my hand and I will strike Mitsrayim with all my wonders which I will do in its midst</span><span class="j"> – after that he will send you free!"</span>[foot]See the above comment.[/foot]
 </div></td></tr>
 
 
@@ -257,7 +261,7 @@ Parashat Shemot (Exodus 1:1-6:1) in the annual Torah reading cycle, is read on t
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="b"><sup>21</sup>&nbsp;"And I will give this people favor in the eyes of Mitsrayim; it will be that when you go, you shall not go empty-handed: <sup>22</sup>&nbsp;each woman shall ask of her neighbor and of the sojourner in her house objects of silver and objects of gold, and clothing, you shall put (them) on your sons and on your daughters – so shall you strip Mitsrayim!"</span>
+<span class="b"><sup>21</sup>&nbsp;"And I will give this people favor in the eyes of Mitsrayim; it will be that when you go, you shall not go empty-handed: <sup>22</sup>&nbsp;each woman shall ask of her neighbor and of the sojourner in her house objects of silver and objects of gold, and clothing, you shall put (them) on your sons and on your daughters – so shall you strip Mitsrayim!"</span>[foot]The tradition of plundering the Egyptians appears in Genesis 15:14, which is generally attributed to a very late stratum of Genesis (in our divisions it is attributed to B). In Exodus 11:1-3 it interrupts narrative continuity, thus a good case can be made for attributing to the same late stratum at this point as well.[/foot]
 </div></td></tr>
 
 
@@ -312,7 +316,7 @@ Parashat Shemot (Exodus 1:1-6:1) in the annual Torah reading cycle, is read on t
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="j"><sup>14</sup>&nbsp;YHVH's anger flared up against Mosheh, he said: "Is there not Aharon your brother, the Levite – I know that he can speak, yes, speak well, and here, he is even going out to meet you; when he sees you, he will rejoice in his heart. <sup>15</sup>&nbsp;You shall speak to him, you shall put the words in his mouth! I myself will be-there with your mouth and with his mouth, and will instruct you as to what you shall do. <sup>16</sup>&nbsp;He shall speak for you to the people, he, he shall be for you a mouth, and you, you shall be for him Elohim. <sup>17</sup>&nbsp;And this staff, take in your hand, with which you shall do the signs."</span>
+<span class="j"><sup>14</sup>&nbsp;YHVH's anger flared up against Mosheh, he said: "Is there not Aharon your brother, the Levite – I know that he can speak, yes, speak well, and here, he is even going out to meet you; when he sees you, he will rejoice in his heart. <sup>15</sup>&nbsp;You shall speak to him, you shall put the words in his mouth! I myself will be-there with your mouth and with his mouth, and will instruct you as to what you shall do. <sup>16</sup>&nbsp;He shall speak for you to the people, he, he shall be for you a mouth, and you, you shall be for him Elohim. <sup>17</sup>&nbsp;And this staff, take in your hand, with which you shall do the signs."</span>[foot]E's validation of Moses will occur on the Mountain of God following the exodus, this does not suffice for J since in his elongated version the Exodus is a much longer process, and thus the Lord presents Moses with three signs. Vss. 1-17 also portray Moses as a reluctant mouthpiece rather than the dynamic leader in the E text, all to further J's aggrandizement of the Lord. The Lord was the orchestrator of the Exodus not Moses. Even Moses' staff is no more than an ordinary staff and completely under the Lord's control.[/foot]
 </div></td></tr>
 
 
@@ -323,7 +327,7 @@ Parashat Shemot (Exodus 1:1-6:1) in the annual Torah reading cycle, is read on t
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="e"><sup>18</sup>&nbsp;Mosheh went and returned to Yitro his father-in-law and said to him: "Pray let me go and return to my brothers that are in Mitsrayim, that I may see whether they are still alive." Yitro said to Mosheh: "Go in peace!"</span> <span class="j"><sup>19</sup>&nbsp;Now YHVH said to Mosheh in Midyan: "Go, return to Mitsrayim, for all the men who sought (to take) your life have died."</span> <span class="e"><sup>20</sup>&nbsp;So Mosheh took his wife and his sons and mounted them upon a donkey, to return to the land of Mitsrayim, and Mosheh took the staff of Elohim in his hand.</span>
+<span class="e"><sup>18</sup>&nbsp;Mosheh went and returned to Yitro his father-in-law and said to him: "Pray let me go and return to my brothers that are in Mitsrayim, that I may see whether they are still alive." Yitro said to Mosheh: "Go in peace!"</span>[foot]Moses' father in law's name is Jether or Jethro as opposed to Reul in J (e.g. Exodus 2:18).[/foot] <span class="j"><sup>19</sup>&nbsp;Now YHVH said to Mosheh in Midyan: "Go, return to Mitsrayim, for all the men who sought (to take) your life have died."</span>[foot]J connects this narrative with Moses' adventures in Chapter 2. The reason for Moses' sojourn in Midian was that he'd murdered an Egyptian, in E no reason is given for Moses' residence in Midian. Moses is commanded to go to Egypt he doesn't do so on his own initiative, further highlighting his reluctance.[/foot] <span class="e"><sup>20</sup>&nbsp;So Mosheh took his wife and his sons and mounted them upon a donkey,[foot]We know Moses is married according to E, the name of his family members are deemed unimportant. The more historically oriented J furnishes us with details in Chapter 2 and in Chapter 18.[/foot] to return to the land of Mitsrayim,[foot]Moses does as the Lord commanded in vs. 19.[/foot] and Mosheh took the staff of Elohim in his hand.</span>[foot]In E, Moses' staff is under his own control (although referring to it as the staff of God implies that Moses' actions with the staff are divinely mandated) as we will find in the Elohistic version of the plagues in Chapters 9-10, in E's parting of the Reed Sea in Chapter 14, and in the Israelites war against Amalek in Exodus 17:7ff.[/foot]
 </div></td></tr>
 
 
@@ -334,7 +338,11 @@ Parashat Shemot (Exodus 1:1-6:1) in the annual Torah reading cycle, is read on t
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="h"><sup>21</sup>&nbsp;YHVH said to Mosheh: "When you go to return to Mitsrayim, see: All the portents that I have put in your hand, you are to do before Pharaoh, but I will make his heart strong-willed, so that he will not send the people free. <sup>22</sup>&nbsp;Then you are to say to Pharaoh: 'Thus says YHVH: My son, my firstborn, is Yisrael! <sup>23</sup>&nbsp;I said to you: Send free my son, that he may serve me, but you have refused to send him free, (so) here: I will kill your son, your firstborn!'"</span>
+<span class="h"><sup>21</sup>&nbsp;YHVH said to Mosheh: "When you go to return to Mitsrayim, see: All the portents that I have put in your hand, you are to do before Pharaoh, but I will make his heart strong-willed, so that he will not send the people free. <sup>22</sup>&nbsp;Then you are to say to Pharaoh: 'Thus says YHVH: My son, my firstborn, is Yisrael! <sup>23</sup>&nbsp;I said to you: Send free my son, that he may serve me, but you have refused to send him free, (so) here: I will kill your son, your firstborn!'"</span>[foot]Vss. 21-23 foreshadow the slaughtering of the first-born and are part of late H framing of the Plague narrative the other half of the frame is in Exodus 11:-10. In P and H, the slaughtering of the first born is not one of the ten plagues which begin with the swallowing of the snakes and end with darkness - according to P and H the plagues are non-fatal signs and wonders (and note the use of "wonders" in vs. 21). 
+
+Note also the use of the verb חזק – "to harden" – as opposed to כבד also "to harden" which is employed by J. In P and H God causes Pharaoh to harden his heart whereas in J Pharaoh hardens it on his own.
+
+We know that this section was added on by H rather than the earlier P since the verses use the name "the Lord" which is not employed by P until Exodus 6:2.[/foot]
 </div></td></tr>
 
 
@@ -345,7 +353,7 @@ Parashat Shemot (Exodus 1:1-6:1) in the annual Torah reading cycle, is read on t
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="b"><sup>24</sup>&nbsp;Now it was on the journey, at the night-camp, that YHVH encountered him and sought to make him die. <sup>25</sup>&nbsp;Tsipporah took a flint and cut off her son's foreskin, she touched it to his legs and said: "Indeed, a bridegroom of blood are you to me!" <sup>26</sup>&nbsp;Thereupon he released him. Then she said, "a bridegroom of blood" upon the circumcision-cuttings.</span>
+<span class="b"><sup>24</sup>&nbsp;Now it was on the journey, at the night-camp, that YHVH encountered him and sought to make him die. <sup>25</sup>&nbsp;Tsipporah took a flint and cut off her son's foreskin, she touched it to his legs and said: "Indeed, a bridegroom of blood are you to me!" <sup>26</sup>&nbsp;Thereupon he released him. Then she said, "a bridegroom of blood" upon the circumcision-cuttings.</span>[foot][An interpolation by B.] No reason is given for the Lord's sudden violence against Moses or his son [the text does not specify the target of the attack either]. The blood of the circumcision protects them from the divine wrath, which is comparable to the blood on the doors which prevent the angel of death from entering in Exodus 12:13.[/foot]
 </div></td></tr>
 
 
@@ -356,7 +364,7 @@ Parashat Shemot (Exodus 1:1-6:1) in the annual Torah reading cycle, is read on t
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="j"><sup>27</sup>&nbsp;Now YHVH said to Aharon: "Go to meet Mosheh in the wilderness!"</span> <span class="e">He went, he encountered him at the mountain of Elohim and he kissed him.</span> <span class="j"><sup>28</sup>&nbsp;And Mosheh told Aharon all YHVH's words with which he had sent him and all the signs with which he had charged him.</span>
+<span class="j"><sup>27</sup>&nbsp;Now YHVH said to Aharon: "Go to meet Mosheh in the wilderness!"</span>[foot]The Lord orchestrates events with a heavy hand in J's theistically centered account and as He promised in vs. 14 he sends Aaron to meet Moses. In E, Aaron simply comes out to meet him.[/foot] <span class="e">He went, he encountered him at the mountain of Elohim and he kissed him.</span>[foot]See the above comment.[/foot] <span class="j"><sup>28</sup>&nbsp;And Mosheh told Aharon all YHVH's words with which he had sent him and all the signs with which he had charged him.</span>[foot]A direct allusion to the signs the Lord gave Moses in vss. 1-17 (J).[/foot]
 </div></td></tr>
 
 
@@ -367,7 +375,7 @@ Parashat Shemot (Exodus 1:1-6:1) in the annual Torah reading cycle, is read on t
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="e"><sup>29</sup>&nbsp;Mosheh and Aharon went, they gathered all the elders of the Children of Yisrael,</span> <span class="j"><sup>30</sup>&nbsp;and Aharon spoke all the words which YHVH had spoken to Mosheh, he did the signs before the people's eyes. <sup>31</sup>&nbsp;The people trusted, they hearkened that YHVH had taken account of the Children of Yisrael, that he had seen their affliction. And they bowed low and did homage.</span>
+<span class="e"><sup>29</sup>&nbsp;Mosheh and Aharon went, they gathered all the elders of the Children of Yisrael,</span>[foot]As God commanded him in Exodus 3:18 (E). They then, according to E, go together to the King of Egypt (5:1 or 5:3, depending on the source).[/foot] <span class="j"><sup>30</sup>&nbsp;and Aharon spoke all the words which YHVH had spoken to Mosheh, he did the signs before the people's eyes. <sup>31</sup>&nbsp;The people trusted, they hearkened that YHVH had taken account of the Children of Yisrael, that he had seen their affliction. And they bowed low and did homage.</span>[foot]A further allusion to the Lord's commands of vss. 1-17 (J).[/foot]
 </div></td></tr>
 
 
@@ -378,7 +386,7 @@ Parashat Shemot (Exodus 1:1-6:1) in the annual Torah reading cycle, is read on t
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="j">5 <sup>1</sup>&nbsp;Afterward Mosheh and Aharon came and said to Pharaoh: "Thus says YHVH, the <em>elo'ah</em> of Yisrael: Send free my people, that they may hold-a-festival to me in the wilderness!" <sup>2</sup>&nbsp;Pharaoh said: "Who is YHVH, that I should hearken to his voice to send Yisrael free? I do not know YHVH, moreover, Yisrael I will not send free!"</span> <span class="e"><sup>3</sup>&nbsp;They said: "The <em>elo'ah</em> of the Ivrim has met with us; pray let us go a three days' journey into the wilderness, and let us slaughter (offerings) to YHVH our <em>elo'ah</em>, lest he confront us with the pestilence or the sword!"</span>
+<span class="j">5 <sup>1</sup>&nbsp;Afterward Mosheh and Aharon came and said to Pharaoh: "Thus says YHVH, the <em>elo'ah</em> of Yisrael: Send free my people, that they may hold-a-festival to me in the wilderness!" <sup>2</sup>&nbsp;Pharaoh said: "Who is YHVH, that I should hearken to his voice to send Yisrael free? I do not know YHVH, moreover, Yisrael I will not send free!"</span>[foot]Pharaoh is introduced to the Lord, whose fame is J's focus throughout the Exodus narratives. Moses' forceful request of vss. 1-2 (J) is placed before the more diplomatically worded request in vss. 3-4 (E).[/foot] <span class="e"><sup>3</sup>&nbsp;They said: "The <em>elo'ah</em> of the Ivrim has met with us; pray let us go a three days' journey into the wilderness, and let us slaughter (offerings) to YHVH our <em>elo'ah</em>, lest he confront us with the pestilence or the sword!"</span>
 </div></td></tr>
 
 
@@ -389,7 +397,7 @@ Parashat Shemot (Exodus 1:1-6:1) in the annual Torah reading cycle, is read on t
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="e"><sup>4</sup>&nbsp;The king of Mitsrayim said to them: "For-what-reason, Mosheh and Aharon, would you let the people loose from their tasks? Go back to your burdens!"</span> <span class="j"><sup>5</sup>&nbsp;Pharaoh said: "Here, too many now are the people of the land, and you would have them cease from their burdens!" <sup>6</sup>&nbsp;So that day Pharaoh commanded the slave-drivers of the people and its officers, saying: <sup>7</sup>&nbsp;"You are no longer to give straw to the people to make the bricks as yesterday and the day-before; let it be them that go and gather straw for themselves! <sup>8</sup>&nbsp;But the (same) measure of bricks that they have been making, yesterday and the day-before, you are to impose on them, you are not to subtract from it! For they are lax – therefore they cry out, saying: 'Let us go, let us slaughter (offerings) to our <em>elo'ah</em>!' <sup>9</sup>&nbsp;Let the servitude weigh-heavily on the men! They shall have to do it, so that they pay no more regard to false words!"</span>
+<span class="e"><sup>4</sup>&nbsp;The king of Mitsrayim said to them: "For-what-reason, Mosheh and Aharon, would you let the people loose from their tasks? Go back to your burdens!"</span>[foot]Note the use of "the King of Egypt in vs. 4, we assume that he was introduced with this title in vs. 3 (and was omitted after vss. 1-2 were added) which in E follows Moses' gathering of the elders in 4:29 (E). In E's account, after the King refuses to grant him his request, Moses immediately smites him with plagues. Note that in our rendition vs. 3 follows the Septuagint which omits the Lord's name – and simply reads "Our God".[/foot] <span class="j"><sup>5</sup>&nbsp;Pharaoh said: "Here, too many now are the people of the land, and you would have them cease from their burdens!" <sup>6</sup>&nbsp;So that day Pharaoh commanded the slave-drivers of the people and its officers, saying: <sup>7</sup>&nbsp;"You are no longer to give straw to the people to make the bricks as yesterday and the day-before; let it be them that go and gather straw for themselves! <sup>8</sup>&nbsp;But the (same) measure of bricks that they have been making, yesterday and the day-before, you are to impose on them, you are not to subtract from it! For they are lax – therefore they cry out, saying: 'Let us go, let us slaughter (offerings) to our <em>elo'ah</em>!' <sup>9</sup>&nbsp;Let the servitude weigh-heavily on the men! They shall have to do it, so that they pay no more regard to false words!"</span>
 </div></td></tr>
 
 
@@ -422,7 +430,7 @@ Parashat Shemot (Exodus 1:1-6:1) in the annual Torah reading cycle, is read on t
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="j"><sup>20</sup>&nbsp;They confronted Mosheh and Aharon, stationing themselves to meet them when they came out from Pharaoh, <sup>21</sup>&nbsp;they said to them: "May YHVH see you and judge, for having made our smell reek in the eyes of Pharaoh and in the eyes of his servants, giving a sword into their hand, to kill us!" <sup>22</sup>&nbsp;Mosheh returned to YHVH and said: "My Lord, for-what-reason have you dealt so ill with this people? For-what-reason have you sent me? <sup>23</sup>&nbsp;Since I came to Pharaoh to speak in your name, he has dealt only ill with this people, and rescued-you have not rescued your people!"</span>
+<span class="j"><sup>20</sup>&nbsp;They confronted Mosheh and Aharon, stationing themselves to meet them when they came out from Pharaoh, <sup>21</sup>&nbsp;they said to them: "May YHVH see you and judge, for having made our smell reek in the eyes of Pharaoh and in the eyes of his servants, giving a sword into their hand, to kill us!" <sup>22</sup>&nbsp;Mosheh returned to YHVH and said: "My Lord, for-what-reason have you dealt so ill with this people? For-what-reason have you sent me? <sup>23</sup>&nbsp;Since I came to Pharaoh to speak in your name, he has dealt only ill with this people, and rescued-you have not rescued your people!"</span>[foot]The Yahwist eloquently describes the Egyptian subjugation of the Israelites elaborating upon his original addition to Exodus 1 (vss. 11-14). In E the Israelites were simply prevented from leaving Egypt, not necessarily enslaved by the Egyptians.[/foot]
 </div></td></tr>
 
 
@@ -433,7 +441,7 @@ Parashat Shemot (Exodus 1:1-6:1) in the annual Torah reading cycle, is read on t
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="j">6 <sup>1</sup>&nbsp;YHVH said to Mosheh: "Now you will see what I will do to Pharaoh: for with a strong hand he will send them free, and with a strong hand he will drive them out of his land."</span>
+<span class="j">6 <sup>1</sup>&nbsp;YHVH said to Mosheh: "Now you will see what I will do to Pharaoh: for with a strong hand he will send them free, and with a strong hand he will drive them out of his land."</span>[foot]A response to Moses' complaint at the conclusion of Chapter 5, Moses is once again depicted as a reluctant leader, who doesn't do well in the face of adversity, and compare to the dialogue of 4:1-17(J).[/foot]
 </div></td></tr>
 </tbody></table>
 

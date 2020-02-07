@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: A Prayer for Pittsburgh, by Rabbi Menachem Creditor (2018)<br />
+Title: A Prayer for Pittsburgh [after the Tree of Life synagogue massacre], by Rabbi Menachem Creditor (2018)<br />
 Primary contributor: menachem.creditor<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=22332">http://opensiddur.org/?p=22332</a>
 <p />
@@ -162,6 +162,5 @@ Amen.
 <hr />
 
 "A Prayer for Pittsburgh" was first published by Rabbi Menachem Creditor <a href="https://rabbicreditor.blogspot.com/2018/10/a-prayer-for-pittsburgh.html">at his website</a>, and shared with the Open Siddur Project via <a href="https://www.facebook.com/groups/opensiddur/permalink/10156101029307746/">our Facebook discussion group</a>.
-
 </body>
 </html>

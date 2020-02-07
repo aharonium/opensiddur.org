@@ -7,20 +7,23 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;">
+<table style="width:100%;margin-left: auto;margin-right: auto;" class="draggable">
+<thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
 מוֹדָה|מוֹדֶה אֲנִי לְפָנֶיךָ
 רוּחַ חַי וְקַיָּם
-שֶׁהֶחֱזַרְתָּ בִּי נִשְׁמָתִי בְּחֶמְלָה
+שֶׁהֶחֱזַרְתָּ בִּי נִשְׁמָתִי 
+בְּחֶמְלָה
 רַבָּה אֱמוּנָתֶךָ‏׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%"><div class="english">
 Thankful am I in your Presence,
 Spirit who lives and endures,
-for You've returned to me my soul with compassion.
+for You've returned to me my soul 
+with compassion.
 Abundant is your faith!
 </div></td>
 </tr>

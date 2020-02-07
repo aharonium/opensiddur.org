@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: הַנּוֺתֵן תְּשׁוּעָה | A Prayer for the royal family of Queen Victoria (1860)<br />
+Title: הַנּוֺתֵן תְּשׁוּעָה | Prayer for the royal family of Queen Victoria (1860)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=12722">http://opensiddur.org/?p=12722</a>
 <p />
@@ -45,7 +45,7 @@ Our Sovereign Lady QUEEN VICTORIA, ALBERT EDWARD, Prince of Wales, the PRINCESS 
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-may the supreme king of kings through his infinite mercy preserve them, and grant them life and deliver them from all manner of danger; may the supreme king of kings aggrandize and highly exalt our sovereign Lady the queen, and grant her long and prosperously to reign; may the supreme king of kings inspire her and her council and the state of the kingdom with benevolence towards us, and all Israel our brethren; in her days and in our days, may Jehudah be saved, and Israel dwell in safety, and may the redeemer come unto Tsiyon, which God of his infinite mercies grant; and let us say, <em>Amen</em>.
+may the supreme king of kings through his infinite mercy preserve them, and grant them life and deliver them from all manner of danger; may the supreme king of kings aggrandize and highly exalt our sovereign Lady the queen, and grant her long and prosperously to reign; may the supreme king of kings inspire her and her council and the state of the kingdom with benevolence towards us, and all Israel our brethren; in her days and in our days, may Jehudah be saved, and Israel dwell in safety, and may the redeemer come unto Tsiyon, which God of his infinite mercies grant; and let us say, Amen.
 </div>
 </td></tr></tbody></table>
 

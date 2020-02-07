@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: ליקוטי תפילות חלק א תפילה לז | Likutei Tefilot I:37, by Reb Nosson Steinhartz of Nemirov (early 19th century)<br />
+Title: ליקוטי תפילות חלק א׳ תפילה לז | Likutei Tefilot I:37, by Reb Nosson Steinhartz of Nemirov (early 19th century)<br />
 Primary contributor: nathan.sternhartz<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=19927">http://opensiddur.org/?p=19927</a>
 <p />

@@ -1,13 +1,20 @@
 <html>
 <head></head>
 <body>
-Title: נוסח אנגליה | The Nusaḥ of the Jews of England in 1287<br />
+Title: נוסח אנגליה | The Nusaḥ of the Jews of England in 1287, transcribed by British chief Rabbi Israel Brodie (1962)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=13834">http://opensiddur.org/?p=13834</a>
 <p />
 <hr />
 
+&nbsp;
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/SederTefilahFromTheEtzHayyimJacobJehudahHazzanOfLondon1287#page/n0/mode/2up"]
+
+<hr />
+
 <div class="liturgy">
+
+&nbsp;
 
 <h1>סדר התפלות והברכות לכל השנה[foot]בכתב־היד אין כאן כותרת. לנוסח הברכות והתפילה אצל המחבר, עיין במבוא. ובגליון: תניא ר׳ מאיר אומר: חייב כל אדם מישראל לברך מאה ברכות בכל יום, שנאמר (דברים י, ב) ועתה ישראל מה יי אלהיך שואל מ״ה בא״ת ב״ש עולה ק. ואל תקרי מה אלא מאה (עיין מנחות מג, ב, ובדקדוקי סופרים, שם) ואלו הן: כ״ג מלפני יוצר וז׳ של קריאת שמע בקר וערב וצצית ותפלין וג״פ יח ברכות, הדי פו ברכות. וי״ד ברכות בשתי סעודות. עוד בזמן הזה איכא ה יתירות, הטוב והמטיב דברכת המזון וברכת המינים דתפלה. בשבת דליכא במקום יח אלא ז ברכות ובכל יום אם לא נתחייב, אוכל פרי ומברך לפניו ולאחריו וחוזר ואוכל עד שיגמר ק ברכות (עיין רמב״ם שם, הלכה יד). דברוך שאמר לאו מן המניין דכל ברכה שאין עמה מלכות אינה ברכה ותפלה אע״ג דאין מלכות כיון דרחמי נינהו אין צריך מלכות.[/foot]</h1>
 
@@ -581,8 +588,6 @@ In his <a href="https://opensiddur.org/wp-content/uploads/2016/06/The-Prayer-Boo
 
 <h3>SOURCE</h3>
 
-DOWNLOAD: (<a href="https://archive.org/details/SederTefilahFromTheEtzHayyimJacobJehudahHazzanOfLondon1287">Internet Archive link</a>)
-
-[caption id="attachment_13868" align="aligncenter" width="900"]<a href="https://opensiddur.org/wp-content/uploads/2016/06/Codex_Manesse_Süßkind_von_Trimberg-crop.jpg"><img src="https://opensiddur.org/wp-content/uploads/2016/06/Codex_Manesse_Süßkind_von_Trimberg-crop.jpg" alt="Detail of Codex Manesse, fol. 355r, Süßkind, der Jude von Trimberg. Der mit einem Judenhut bekleidete und auch durch den Bart als Jude gekennzeichnete Süßkind spricht vermutlich vor einem Vogt in Konstanz vor (das Fehlen einer Mitra und das schwarz-weiße Banner lassen in dem Thronenden auf einen weltlichen Herrn schließen, nicht etwa den Bischof von Konstanz). " width="900" height="797" class="size-full wp-image-13868" /></a> Detail of <a href="https://en.wikipedia.org/wiki/File:Codex_Manesse_S%C3%BC%C3%9Fkind_von_Trimberg.jpg">Codex Manesse, fol. 355r, Süßkind, der Jude von Trimberg.</a> Der mit einem Judenhut bekleidete und auch durch den Bart als Jude gekennzeichnete Süßkind spricht vermutlich vor einem Vogt in Konstanz vor (das Fehlen einer Mitra und das schwarz-weiße Banner lassen in dem Thronenden auf einen weltlichen Herrn schließen, nicht etwa den Bischof von Konstanz). [/caption]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/SederTefilahFromTheEtzHayyimJacobJehudahHazzanOfLondon1287#page/n0/mode/2up"]
 </body>
 </html>

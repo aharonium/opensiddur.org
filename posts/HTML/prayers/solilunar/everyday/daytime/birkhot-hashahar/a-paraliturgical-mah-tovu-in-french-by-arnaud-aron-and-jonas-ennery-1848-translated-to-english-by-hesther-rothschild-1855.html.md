@@ -1,13 +1,13 @@
 <html>
 <head></head>
 <body>
-Title: מה טבו | A Paraliturgical Mah Tovu in French by R' Arnaud Aron and Jonas Ennery (1848), translated to English by Hester Rothschild (1855)<br />
+Title: מה טובו | A Paraliturgical Mah Tovu in French by R' Arnaud Aron and Jonas Ennery (1848), translated to English by Hester Rothschild (1855)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=15841">http://opensiddur.org/?p=15841</a>
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+<table  class="copyright" style="margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: left;">Source (French)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
@@ -78,12 +78,12 @@ But above all, it is for us, the descendants of the patriarchs, the servants of 
 
 <tr><td style="vertical-align:top;">
 <div class="english"><span lang="fr">
-Seigneur, accorde-moi un cœur pur et pénètre-le de ton esprit, pour qu’aucune pensée mondaine ne puisse me poursuivre jusqu’en ce lieu sacré. C’est dans ton temple que je dois me souvenir qu’une âme droite est la meilleure des offrandes, et le repentir, la plus efficace des prières. Pénètre-moi, pénètre tous mes frères ici réunis, des sentiments de ta grandeur et de notre humilité, afin que nos têtes se courbent devant ta majesté, et que, de la profondeur de nos cœurs saintement recueillis, noire prière, comme un encens divin, s’élève vers ton trône céleste. <em>Amen</em>.
+Seigneur, accorde-moi un cœur pur et pénètre-le de ton esprit, pour qu’aucune pensée mondaine ne puisse me poursuivre jusqu’en ce lieu sacré. C’est dans ton temple que je dois me souvenir qu’une âme droite est la meilleure des offrandes, et le repentir, la plus efficace des prières. Pénètre-moi, pénètre tous mes frères ici réunis, des sentiments de ta grandeur et de notre humilité, afin que nos têtes se courbent devant ta majesté, et que, de la profondeur de nos cœurs saintement recueillis, noire prière, comme un encens divin, s’élève vers ton trône céleste. Amen.
 </span></div></td>
 
 <td style="vertical-align:top;">
 <div class="english"><span lang="en">
-Grant me, O Lord, a pure heart filled with Thy spirit, so that no worldly thought may follow me into this sacred place. In Thy temple must I remember that an upright soul is the best offering, and repentance the most efficient prayer. Fill my mind, and the minds of my brethren here assembled, with the knowledge of Thy greatness, and our littleness, so that we may bend in fitting humility before Thee; and grant that our prayers may ascend, as incense, from the depths of our hearts towards Thy heavenly throne. <em>Amen</em>.
+Grant me, O Lord, a pure heart filled with Thy spirit, so that no worldly thought may follow me into this sacred place. In Thy temple must I remember that an upright soul is the best offering, and repentance the most efficient prayer. Fill my mind, and the minds of my brethren here assembled, with the knowledge of Thy greatness, and our littleness, so that we may bend in fitting humility before Thee; and grant that our prayers may ascend, as incense, from the depths of our hearts towards Thy heavenly throne. Amen.
 </span></div></td>
 </tr>
 </tbody></table>
@@ -96,5 +96,11 @@ In preparing <a href="https://archive.org/details/Jonas-Ennery-Prieres-Dun-Coeur
 
 <blockquote>
 The concept of such a book does not necessitate a new genre among us; the printed supplications (תחנות) appended at the end of old editions of our siddurim sufficiently prove the opposite. However, all these prayers – faithful expressions of pious sentiments of our ancestors – are written in Yiddish[foot]Arnaud Aron here uses the term, <em>allemand corrompu</em>, “corrupt German.”[/foot] for which no translation exists in our language. They are also composed in a spirit and a form incompatible in style with the needs of our age [....] A great number of prayers in our collection are original, others are copies from our sacred texts or translated rituals from the Maḥzor, without, however, tying us slavishly to the literal text whenever the genius of our language required a different form. Finally, more than once, we drew from excellent religious books published in Germany, notably by (Meïr) Letteris, Jacobsohn, Rosenfield, etc.; their works have given us the subject and occasionally the text from other works. May these wise co-religionists please receive in public recognition our gratitude. [translation from the French by Aharon Varady]</blockquote>
+
+<h3>Sources</h3>
+
+<a href="https://archive.org/stream/Jonas-Ennery-Prieres-Dun-Coeur-Israelite/Jonas%20Ennery%20-%20אמרי%20לב%20Prières%20D%27un%20Cœur%20Israélite#page/n21/mode/2up"><img src="https://opensiddur.org/wp-content/uploads/2017/07/Paraliturgical-Mah-Tovu-French-Prières-Dun-Cœur-Israélite-Arnaud-and-Ennery-1848-1024x860.png" alt="" width="640" height="538" class="alignnone size-large wp-image-15852" /></a>
+
+<a href="https://archive.org/stream/HesterRothschildPrayersAndMeditations/ImreiLevprayersAndMediatations2ndEditionHesterRothschild1869#page/n23/mode/2up"><img src="https://opensiddur.org/wp-content/uploads/2017/07/Imrei-Lev-Prayers-and-Mediatations-2nd-edition-Hester-Rothschild1869-Mah-Tovu-p.8-9-1024x661.png" alt="" width="640" height="413" class="alignnone size-large wp-image-15851" /></a>
 </body>
 </html>

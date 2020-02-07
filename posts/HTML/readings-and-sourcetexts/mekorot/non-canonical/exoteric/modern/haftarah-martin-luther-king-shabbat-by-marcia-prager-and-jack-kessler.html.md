@@ -1,22 +1,14 @@
 <html>
 <head></head>
 <body>
-Title: A Haftarah for MLK Shabbat, excerpts from speeches 1956-1968 selected by Rabbi Marcia Prager and Ḥazzan Jack Kessler<br />
-Primary contributor: marcia.prager<br />
+Title: Haftarah for MLK Shabbat, excerpts from speeches 1956-1968 selected by Rabbi Marcia Prager & Ḥazzan Jack Kessler<br />
+Primary contributor: yakov.kessler<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=18621">http://opensiddur.org/?p=18621</a>
 <p />
 <hr />
 
-These quotations from Dr. King’s speeches were edited by Rabbi Marcia Prager and set to Haftarah Trop by Hazzan Jack Kessler. This adaptation was first published in <a href="http://kerem.org/final-issue-14/"><em>Kerem</em> (Fall 2014)</a>, in Jack Kessler's article, "<a href="http://kerem.org/wp-content/uploads/2014/12/Kessler-Final-PDF.pdf">English Leyning: Bringing New Meaning to the Torah Service</a>."
-
-[audio mp3="http://jewishfreeculture.org/wp-content/uploads/2018/01/Haftara-for-MLK-Shabbat-Jack-Kessler-and-Marcia-Prager.mp3"][/audio]
-
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.archive.org/stream/AHaftarahForMartinLutherKingShabbatJackKesslerKerem2014#page/n3/mode/2up"]
-
-<hr />
-
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;">Contribute a Translation</th><th style="text-align: left;">English (source)</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a Translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
@@ -126,5 +118,21 @@ Mine eyes have seen the glory of the coming of the Lord<span class="hebrew">׃</
 King's last sermon); in <em>A Testament of Hope</em>, 226.[/foot]
 </div>
 </td></tr></tbody></table>
+
+<hr >
+
+These quotations from Dr. King’s speeches were edited by Rabbi Marcia Prager and set to Haftarah Trop by Hazzan Jack Kessler. This adaptation was first published in <a href="http://kerem.org/final-issue-14/"><em>Kerem</em> (Fall 2014)</a>, in Jack Kessler's article, "<a href="http://kerem.org/wp-content/uploads/2014/12/Kessler-Final-PDF.pdf">English Leyning: Bringing New Meaning to the Torah Service</a>."
+
+<h3>Recording</h3>
+
+[audio mp3="http://jewishfreeculture.org/wp-content/uploads/2018/01/Haftara-for-MLK-Shabbat-Jack-Kessler-and-Marcia-Prager.mp3"][/audio]
+
+<h3>Source</h3>
+
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.archive.org/stream/AHaftarahForMartinLutherKingShabbatJackKesslerKerem2014#page/n3/mode/2up"]
+
+<hr />
+
+&nbsp;
 </body>
 </html>

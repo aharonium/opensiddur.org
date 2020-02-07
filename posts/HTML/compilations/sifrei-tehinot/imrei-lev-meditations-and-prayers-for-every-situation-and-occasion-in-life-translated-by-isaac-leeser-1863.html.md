@@ -205,7 +205,8 @@ MEDITATIONS FOR EVERY DAY OF THE WEEK
 <a href="https://opensiddur.org/?p=16289">Meditation for Tuesday (Third Day)—On the Love of thy Neighbour</a>
 <a href="https://opensiddur.org/?p=16321">Meditation for Wednesday (Fourth Day)—On False Shame in Matters of Religion</a>
 <a href="https://opensiddur.org/?p=19542">Meditation for Thursday (Fifth Day)—On our Duties as Israelites</a>
-Meditation for the Eve of Sabbath (Friday)</p>
+<a href="http://opensiddur.org/?p=29113">Meditation for the Eve of Sabbath (Friday)—On Providence</a>
+</p>
 VARIOUS MEDITATIONS FOR SABBATHS AND FESTIVALS
 <p style="padding-left: 30px;">I. The Mission of Israel
 II. On the Unity of God

@@ -1,17 +1,19 @@
 <html>
 <head></head>
 <body>
-Title: פיוט למוזיקאי קודם שיופיע | A Performing Musician’s Piyut by Alan Jay Sufrin<br />
+Title: פיוט למוזיקאי קודם שיופיע | A Performing Musician’s Piyut, by Alan Jay Sufrin<br />
 Primary contributor: alan.jay.sufrin<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=6070">http://opensiddur.org/?p=6070</a>
 <p />
 <hr />
 
+<div class="english" style="font-size: 1.2em;">
 This piyut (liturgical poem) arose after a very meaningful performance of mine in the summer of 2000. It was such a powerful experience that I was moved to say a prayer of thanks to G-d for the opportunity to perform my songs for audiences – but found no such prayer in existence. So I wrote this one. It took about a year to complete and I’ve been saying it backstage right before my performances, and sometimes before recording sessions, since then.
 
 It draws mostly from musical references in Psalms, from the Kabbalat Shabbat liturgy, and from some other places in the Torah. The rhyme scheme repeats the sounds "or" and "ai," which when spelled out in Hebrew, alludes to a mystical way of putting "the light of G-d" or possibly "my light." The 613th mitzvah is for all Jews to write their own sefer Torah, and the way in which the Aybishter[foot]from Yiddish, meaning The Most High -- Aharon Varady[/foot] commands us is by calling the Torah "this Song" (See Deuteronomy 31:19). It’s as if to say that G-d is a songwriter, and the Torah (also called "Orayta") is G-d’s song. The hope of this piyut is to draw musical energy from this G-dly Source, and is noted in the piyut itself as well.
 
 It is intended for performing musicians to say or on which to meditate before performances of their own original works, but other appropriate uses are also encouraged.
+</div>
 
 <hr />
 

@@ -1,14 +1,14 @@
 <html>
 <head></head>
 <body>
-Title: על הניסים ליום העצמאות | Al Hanissim for Yom Ha'atsma'ut, by Amos Ḥakham z"l<br />
+Title: על הניסים ליום העצמאות | Al Hanissim for Yom Ha'atsma'ut, by Amos Ḥakham (2012)<br />
 Primary contributor: amos.hakham<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=13540">http://opensiddur.org/?p=13540</a>
 <p />
 <hr />
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;"><a href="/contributing/upload/">Contribute a translation</a></th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;"><a href="/contributing/upload/">Contribute a translation</a></th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
@@ -87,13 +87,13 @@ For attribution and license, please consult the following URL: <a href="http://o
 </div></td>
 </tr>
 </tbody></table>
+
 <hr />
+
 This version of the Al Hanissim for Yom Ha'atsma'ut was composed by Amos Ḥakham z"l in 5772 (2011/2012) and first <a href="http://pluto.huji.ac.il/~noahh/%D7%A2%D7%9C%20%D7%94%D7%A0%D7%A1%D7%99%D7%9D%20%D7%9C%D7%99%D7%95%D7%9D%20%D7%94%D7%A2%D7%A6%D7%9E%D7%90%D7%95%D7%AA.pdf">published to the Web</a> by his son, Dr. Noaḥ Ḥakham at his <a href="http://pluto.huji.ac.il/~noahh/">Hebrew University homepage</a>.
 
 <h3>Source</h3>
 
 [gview file="https://opensiddur.org/wp-content/uploads/2016/05/על-הנסים-ליום-העצמאות-Amos-Hakham-5772.pdf"]
-
-
 </body>
 </html>

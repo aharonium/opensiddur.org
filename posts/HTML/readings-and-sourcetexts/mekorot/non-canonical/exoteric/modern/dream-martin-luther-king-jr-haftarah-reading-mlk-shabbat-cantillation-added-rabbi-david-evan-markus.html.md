@@ -7,15 +7,13 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-In 2017, Rabbi David Evan Markus prepared the end of Dr. King's famous speech read at the <a href="https://en.wikipedia.org/wiki/March_on_Washington_for_Jobs_and_Freedom">March on Washington for Jobs and Freedom</a> (August 28, 1963) with <em>trōp</em> (t'amim, cantillation marks). The following year on Facebook he shared a recording of the reading hosted on Soundcloud. Rabbi Markus writes, "This weekend at Temple Beth El of City Island, I offered the end of Dr. King's 1963 "<a href="https://www.archives.gov/files/press/exhibits/dream-speech.pdf">I Have a Dream</a>" speech, which I set to haftarah <em>trōp</em> because I hold Dr. King to be a prophet. When my community applauded, I offered President Obama's response, 'Don't clap: vote.' And do more than vote: organize, donate, volunteer, help, heal, advocate. Only then, in Dr. King's words quoting Isaiah 40:5, will 'all flesh see it together.'"
+<div class="english" style="font-size: 1.2em;">
+In 2017, Rabbi David Evan Markus prepared the end of Dr. King's famous speech read at the <a href="https://en.wikipedia.org/wiki/March_on_Washington_for_Jobs_and_Freedom">March on Washington for Jobs and Freedom</a> (August 28, 1963) with trope (t'amim, cantillation marks). The following year on Facebook he shared a recording of the reading hosted on Soundcloud. Rabbi Markus writes, "This weekend at Temple Beth El of City Island, I offered the end of Dr. King's 1963 "<a href="https://www.archives.gov/files/press/exhibits/dream-speech.pdf">I Have a Dream</a>" speech, which I set to haftarah trope because I hold Dr. King to be a prophet. When my community applauded, I offered President Obama's response, 'Don't clap: vote.' And do more than vote: organize, donate, volunteer, help, heal, advocate. Only then, in Dr. King's words quoting Isaiah 40:5, will 'all flesh see it together.'"
 
 In transcribing Rabbi Markus's cantillation into digital text, I had to Hebraicize the English text since Hebrew cantillation diacritical marks can only be combined with Hebrew letters. The orthography I've used is adapted from the convention we use for Yiddish which is similar to that suggested by YIVO. For Rabbi Markus's original cantillation over the text of the speech in English, see below. The text of Rabbi Markus speech is abridged from the original and also replaces several words in places. Where this has occured I have placed those words in brackets and indicated abridgement with four dots.
+</div>
 
 <hr />
-
-https://soundcloud.com/david-evan-markus/mlk-i-have-a-dream-in-haftarah-trope-dem-2018
-
-[gview file="https://opensiddur.org/wp-content/uploads/2018/01/MLK-Shabbat-Haftarah-Reading-David-Evan-Markus-2017.pdf"]
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Judeo-English (transliteration with cantillation)</th><th style="text-align: left;">English (source)</th></tr></thead>
@@ -123,8 +121,21 @@ This will be the day when all of God's children will be able to sing with new me
 
 <hr />
 
+Judeo-English added by Aharon Varady.
+
+<h3>Recording</h3>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/383436656&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
 <h3>Source</h3>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.archives.gov/files/press/exhibits/dream-speech.pdf"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/mlkshabbathaftarahreadingdavidevanmarkus2017#page/n0/mode/2up"]
+
+&nbsp;
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/ihaveadreammartinlutherkingjr.marchonwashington1963#page/n0/mode/2up"]
+
+<hr />
+
+&nbsp;
 </body>
 </html>

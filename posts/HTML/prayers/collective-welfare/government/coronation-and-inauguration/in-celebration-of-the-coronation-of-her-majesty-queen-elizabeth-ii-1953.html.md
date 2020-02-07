@@ -156,7 +156,7 @@ Adon Ngolam (Page 122, Daily Prayer Book)
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-GOD SAVE THE QUEEN
+<a href="http://opensiddur.org/?p=15453">GOD SAVE THE QUEEN</a>
 </div></td></tr>
 </tbody></table>
 

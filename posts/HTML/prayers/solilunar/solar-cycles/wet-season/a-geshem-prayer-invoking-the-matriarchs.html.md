@@ -7,12 +7,11 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<h3>גשם | Geshem</h3>
 
 <table style="width: 100%;margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew (masculine god-language)</th><th style="text-align: right;">Hebrew (feminine god-language)</th><th>English (translation)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="(100/3)%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" style="text-align: right;"><span lang="he">
 זְכוֹר יְפַת מַרְאֶה שֶׁזִיוָוהּ כַּטוֹהַר מַיִם
 עָשְׂתָה נְפָשׁוֹת עַל יְדֵי מִקְוָות מַיִם 
@@ -30,7 +29,7 @@ baavurah al timna mayim
 </div>
 </td>
  
-<td style="vertical-align:top;" width="(100/3)%">
+<td style="vertical-align:top;">
 <div class="liturgy" style="text-align: right;"><span lang="he">
 זִכְרִי יְפַת מַרְאֶה שֶׁזִיוָוהּ כַּטוֹהַר מַיִם
 עָשְׂתָה נְפָשׁוֹת עַל יְדֵי מִקְוָות מַיִם 
@@ -77,7 +76,7 @@ betzidkah chon chashrat mayim
 </div>
 </td>
  
-<td style="vertical-align:top;" width="(100/3)%">
+<td style="vertical-align:top;">
 <div class="liturgy" style="text-align: right;"><span lang="he">
 זִכְרִי נַעֲרָה שֶׁעַלוּ לִקְרָתָה מַיִם
 וַתּוֹרֶד כַּדָּהּ עַל יָדָהּ וְנָתְנָה מַיִם
@@ -124,7 +123,7 @@ baavurah al timna mayim
 </div>
 </td>
  
-<td style="vertical-align:top;" width="(100/3)%">
+<td style="vertical-align:top;">
 <div class="liturgy" style="text-align: right;"><span lang="he">
 זִכְרִי רוֹעָה שֶׁבָּאָה עִם הַצְאוֹן לְמַיִם
 נִפְטְלָה נַפְתּוּלֵי אֱלֹהִים אַדִּירִים מִמִּשְׁבְּרֵי מַיִם
@@ -171,7 +170,7 @@ betzidkah chon chashrat mayim
 </div>
 </td>
  
-<td style="vertical-align:top;" width="(100/3)%">
+<td style="vertical-align:top;">
 <div class="liturgy" style="text-align: right;"><span lang="he">
 זִכְרִי נִסְתָרָה נָפְלָה צְעִיפָה כַּמַיִם
 שִׁבְחָה הוֹדֵךְ וְיָלְדָה בְּזֶרֶם מַיִם
@@ -218,7 +217,7 @@ betzidkah chon chashrat mayim
 </div>
 </td>
  
-<td style="vertical-align:top;" width="(100/3)%">
+<td style="vertical-align:top;">
 <div class="liturgy" style="text-align: right;"><span lang="he">
 זִכְרִי אֲחוֹת שֶׁנִצְבָה מֵרַחוֹק לְמַיִם
 פוֹאָה לַוְולָדִים וְהִיצִילָם מִיְאוֹר מַיִם

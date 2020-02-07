@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: תְּפִילַּת הַנּוֹטֵעַ | Prayer for Tree Planting, by Rabbi Eliyahu Yosef She'ar Yashuv Cohen<br />
+Title: תְּפִילַּת הַנּוֹטֵעַ | Prayer for Tree Planting, by Rabbi Eliyahu Yosef She'ar Yashuv Cohen (2012)<br />
 Primary contributor: aharon.n.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=20494">http://opensiddur.org/?p=20494</a>
 <p />
@@ -38,13 +38,13 @@ to plant trees in the soil of Israel;
 to witness the blossoming of fruit trees
 and to delight in their produce.[foot]Cf. the <a href="https://opensiddur.org/?p=2943">Blessing over Flowering Fruit Trees in the Spring</a>, Birkat haIlanot[/foot]
 Blessed are you who hears prayer.
-Amen, may it be your will.
+<em>Amen</em>, may it be your will.
 </td></tr>
 </tbody></table>
 
 <hr />
 
-This is the prayer for planting trees by the late chief rabbi of Haifa, Eliyahu Yosef She'ar Yashuv Cohen zt"l (1927-2016). The text of the prayer here is adapted from the text provided in 2017 by the Union of Synagogues & Communities in Israel (איחוד בתי הכנסת והקהילות בישראל) <a href="http://www.unisyn.org.il/לוח-דינים-ומנהגים/item/135-לוח-דינים-ומנהגים-לחודש-שבט">here</a>. We are uncertain whether the prayer may have been written prior to <a href="http://www.babakama.co.il/article/item/id/709">its adoption in 2012</a> by the JNF (קק״ל) for a "virtual" . As far as we are aware, this is the first time the prayer has been translated into English. 
+This is the prayer for planting trees by the late chief rabbi of Haifa, Eliyahu Yosef She'ar Yashuv Cohen zt"l (1927-2016). The text of the prayer here is adapted from the text provided in 2017 by the Union of Synagogues & Communities in Israel (איחוד בתי הכנסת והקהילות בישראל) <a href="http://www.unisyn.org.il/לוח-דינים-ומנהגים/item/135-לוח-דינים-ומנהגים-לחודש-שבט">here</a>. We are uncertain whether the prayer may have been written prior to 2012</a> for <a href="http://www.babakama.co.il/article/item/id/709">"virtual" tree plantings</a> sponsored by the JNF (קק״ל), ostensibly so that Diaspora Jewish communities could take part in tree planting ceremonies in Erets Yisrael. As far as we are aware, this is the first time the prayer has been translated into English. 
 
 <h3>Source</h3>
 

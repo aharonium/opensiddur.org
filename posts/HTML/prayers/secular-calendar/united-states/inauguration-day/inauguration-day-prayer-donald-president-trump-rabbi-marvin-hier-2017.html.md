@@ -8,7 +8,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <hr />
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">English</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
@@ -112,7 +112,9 @@ shall never falter."[foot]Psalms 15:5 partial. Cf. Psalms 15:3-5 for the complet
 May the days comes soon 
 "when justice will dwell in the wilderness 
 and righteousness will abide in the fertile fields 
-and the work of righteousness will be peace, quietness, and confidence forever."[foot]Isaiah 32:16-17[/foot]
+and the work of righteousness 
+will be peace, quietness, and confidence 
+forever."[foot]Isaiah 32:16-17[/foot]
 </div></td></tr>
 
 

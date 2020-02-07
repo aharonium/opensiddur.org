@@ -1,13 +1,11 @@
 <html>
 <head></head>
 <body>
-Title: קינות לתשעה באב | Eli Tsiyon v'Ar'eha (Mourn Zion and her cities) translated by Joel Goldstein<br />
+Title: אֱלִי צִיּוֹן וְעָרֶֽיהָ | Eli Tsiyon v'Ar'eha (Mourn Zion and her cities), a ḳinnah for Tisha b'Av translated by Joel Goldstein<br />
 Primary contributor: joel-avi.goldstein<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=10454">http://opensiddur.org/?p=10454</a>
 <p />
 <hr />
-
-[caption id="attachment_10458" align="aligncenter" width="640"]<a href="https://opensiddur.org/wp-content/uploads/2015/07/Hartmann-Schedel-Hierosolima-14931.jpg"><img src="https://opensiddur.org/wp-content/uploads/2015/07/Hartmann-Schedel-Hierosolima-14931-1024x871.jpg" alt="An imaginary representation of the Temple &quot;Templum Salomois&quot; in the midst of walled-in Jerusalem. From: Schedel, Hartmann. Liber chronicarum. Nuernberg. Anton Koberger, 1493. Fol.XVII. The illustrations and the maps are cut in wood by Michael Wolgemut (1434-1519). (credit: National Library of Israel, Public Domain)" width="640" height="544" class="size-large wp-image-10458" /></a> An imaginary representation of the Temple "Templum Salomois" in the midst of walled-in Jerusalem. From: Schedel, Hartmann. Liber chronicarum. Nuernberg. Anton Koberger, 1493. Fol.XVII. The illustrations and the maps are cut in wood by Michael Wolgemut (1434-1519). (credit: <a href="http://web.archive.org/web/20160314033640/http://www.jnul.huji.ac.il/dl/maps/jer/html/jer007.htm">National Library of Israel</a>, Public Domain)[/caption]
 
 <table style="margin-left: auto;margin-right: auto;"><tbody>
 <tr><td style="vertical-align:top;" width="46%">

@@ -17,7 +17,7 @@ For attribution and license, please consult the following URL: <a href="http://o
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Le’el she’ḥafets teshuvah,
+<em>Le’el she’ḥafets teshuvah</em>,
 to the One who desires return:
 &nbsp;
 Receive with the fullness of your mercy
@@ -35,7 +35,7 @@ during the devastation of the Nakba.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Sanctify for tov u’verakha,
+Sanctify for <em>tov u’verakha</em>,
 for goodness and blessing,
 the memory of those who were killed
 in Lydda, in Haifa, in Beisan, in Deir Yassin
@@ -51,7 +51,7 @@ throughout Palestine.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Grant ḥesed ve’raḥamim,
+Grant <em>ḥesed ve’raḥamim</em>,
 kindness and compassion,
 upon the memory of the expelled
 who died from hunger,
@@ -67,7 +67,7 @@ along the way.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Shelter beneath kanfei ha’sheḥinah,
+Shelter beneath <em>kanfei ha’shekhinah</em>,
 the soft wings of your divine presence,
 those who still live under military occupation,
 who dwell in refugee camps,
@@ -83,7 +83,7 @@ still dreaming of return.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Gather them mei’arbah kanfot ha’arets
+Gather them <em>mei’arbah kanfot ha’arets</em>
 from the four corners of the earth
 that their right to return to their homes
 be honored at long last.
@@ -126,7 +126,7 @@ Amen.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Le’el she’ḥafets teshuvah,
+<em>L’El she’ḥafets teshuvah</em>,
 to the One who desires repentance:
 &nbsp;
 Inspire us to make a full accounting
@@ -157,7 +157,7 @@ of reparation and reconciliation.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Le’el malei raḥamim,
+<em>L’El malei raḥamim</em>,
 to the One filled with compassion:
 show us how to understand the pain
 that compelled our people to inflict
@@ -175,7 +175,7 @@ for our own.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Osei hashalom,
+<em>Osei hashalom</em>,
 Maker of peace,
 guide us all toward a place
 of healing and wholeness
@@ -195,9 +195,9 @@ speedily in our day.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Ve’nomar
+<em>V’nomar</em>
 and let us say,
-Amen.
+<em>Amen</em>.
 </div></td></tr>
 </tbody></table>
 

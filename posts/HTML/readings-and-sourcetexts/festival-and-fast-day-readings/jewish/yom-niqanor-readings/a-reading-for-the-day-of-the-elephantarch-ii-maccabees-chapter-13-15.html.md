@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: מגילה ליום ניקנור | A Reading for Yom Niqanor, the Day of the Elephantarch: II Maccabees, chapters 13-15<br />
+Title: מגילת ניקנור | Megillat Niqanor (II Maccabees, chapters 13-15), a Reading for the Day of the Elephantarch<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=13102">http://opensiddur.org/?p=13102</a>
 <p />
@@ -9,8 +9,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 [caption id="attachment_13108" align="aligncenter" width="711"]<a href="https://opensiddur.org/wp-content/uploads/2016/03/2015-02-25-14.47.07.jpg" rel="attachment wp-att-13108"><img src="https://opensiddur.org/wp-content/uploads/2016/03/2015-02-25-14.47.07.jpg" alt="Thomas of Cantimpré, Liber de natura rerum, France ca. 1290 (Valenciennes, Bibliothèque municipale, ms. 320, fol. 59v)" width="711" height="445" class="size-full wp-image-13108" /></a> Thomas of Cantimpré, Liber de natura rerum, France ca. 1290<br />(Valenciennes, Bibliothèque municipale, ms. 320, fol. 59v)[/caption]
 
-
-Rabbi Dr. Zev Farber writes in <a href="http://thetorah.com/yom-nicanor-13th-of-adar/">thetorah.com</a>, 
+Rabbi Dr. Zev Farber writes in <a href="http://thetorah.com/yom-nicanor-13th-of-adar/">thetorah.com</a>,
 
 <blockquote>Nicanor Day and its megillah did not fare as well as Purim, or even Chanukah. Its book (2 Maccabees), in Greek, was unknown or discarded by the Rabbis, and its celebration died out with the rest of the Megillat Ta’anit holidays. Eventually, to add insult to injury, during the Geonic period the custom developed to fast on the day before Purim (Ta’anit Esther).[foot]Megillat Esther mentions Esther calling all Jews of Shushan to observe a three day fast before she went to speak to the king, and a number of different Jewish fasting customs developed around commemorating these fasts. Some fasted for three days towards the end of Adar, some three days in Nissan (as it says in the Megillah). By the early second millennium C.E., the Babylonian custom of fasting on the day before Purim eventually became the dominant one. See Daniel Sperber, Minhagei Yisrael vol. 1, pp. 196-198, vol. 4 pp. 250-252 [Hebrew]. [/foot] For years, as someone who studies the Book of Maccabees, I have found it very difficult not to think of the 13th of Adar as Nicanor Day as well as Ta’anit Esther. Most years, this dual definition feels very dissonant, which is one reason I cherish the years when Purim is on Sunday and Ta’anit Esther is pushed back to Thursday. This allows Nicanor Day, for those of us who mark it—we have it on our family calendar—to be treated as a day of celebration and feasting (as I believe it deserves).
 
@@ -23,16 +22,15 @@ Nicanor Day celebrates a time when the Jews stood their ground against a force t
 It is challenging to think of how to mark Nicanor Day, as it remains at a disadvantage, not only on years when it conflicts with Ta’anit Esther but on all years since it has no mitzvot. This is probably the main reason that, unlike Chanukah and Purim, it was lost to Jewish practice for more than a thousand years. Nevertheless, we do have its megillah, which has been translated into Hebrew and English.[foot]For a modern Hebrew version, with scholarly notes, see Daniel R. Schwartz, <em>2 Maccabees: Introduction, Translation, Commentary</em> (Jerusalem: Yad Ben Tzvi Press, 2005). For a modern English version, also with scholarly notes, see Daniel R. Schwartz, <em>2 Maccabees</em>, (Commentaries on Early Jewish Literature [CEJL] Berlin/New York: Walter de Gruyter, 2008). For just a modern English translation, see Joachim Schaper’s translation in the <em>New English Translation of the Septuagint</em> [NETS], available here. There is no updated Hebrew text online, but the 1885 translation of Yitzhak Fraenkel is available on the <a href="http://www.daat.ac.il/daat/hasfarim/hashmonaim-b-2.htm">Da’at website</a>.[/foot] Perhaps, if we start reading chapters 13-15 of 2 Maccabees, even just to ourselves, on the 13 of Adar, we can begin to resurrect a holiday that was celebrated and instituted by Judah Maccabee and his followers over two millennia ago, and which they envisioned would continue throughout Jewish History. With the return of Jews to Israel and Jewish sovereignty to Jerusalem, I believe it is about time.  </blockquote>
 
 Note: The numbering of the verses in the Hebrew translation is that of Yitzhak Fraenkel (1885), and does not correspond to the Greek (source) or English translation.
-<hr />
 
-<h3>II Maccabees Chapter 13-15 </h3>
+<hr />
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew (translation)</th><th style="text-align: left;">Koine Greek (source)</th><th style="text-align: left;">English (translation)</th></tr></thead>
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="25%">
-<div class="antiquity"><span lang="he">
+<div class="liturgy"><span lang="he">
 (א) ויהי בשנת מאה וארבעים ותשע ויוגד ליהודה לאמור. (ב) הנה אנטיוכוס אאופטר יצא בחיל גדול לבוא ארץ יהודה, וליזיאש אומן המלך המושל בכל מלאכת העבודה אתו. (ג) ומספר פקודיו מאה ועשרת אלפים איש רגלי, וחמשת אלפים רוכבי סוסים, כולם בני יון, ועשרים ושנים שנהבים, ורכב ברזל שש מאות.  
 </spa></div></td>
 
@@ -50,7 +48,7 @@ Note: The numbering of the verses in the Hebrew translation is that of Yitzhak F
 
 <tr>
 <td style="vertical-align:top;" width="25%">
-<div class="antiquity"><span lang="he">
+<div class="liturgy"><span lang="he">
 (ד) וגם מינילאוס הלך אל המלך לרמותו בשפתי חלקות, לא לטובת ארצו כי אם להסב אליו את משמרת הכהונה. (ה) אולם מלך מלכי המלכים העיר את רוח אנטיוכוס לייסרהו כאחד הנבלים, כי ליזיאש הגיד לו לאמור, רק ביד מינילאוס נעשתה כל השערורייה הזאת. (ו) וישלחהו המלך לעיר כיריאה, ויצווה להמיתו כמשפט הארץ. (ז) כי בעיר ההיא היה מגדל גבוה חמישים אמה, ומראשו ועד רגלו מלא דשן, וגלגל הולך וסובב מלמעלה. (ח) וכי שלח איש את ידו בקודש, או עשה כל דבר פשע אשר לו משפט מות, הושיבוהו על הגלגל קל המרוץ ויבולע שם. (ט) כן בילע המוות את בן נעות המרדות מינילאוס, וימת ואין קובר. (י) ויעשה לו כמשפט בחטאתו אשר חטא במזבח ה', אשר אש התמיד יוקדת עליו ומלא דשן, ותשבע נפשו בדשן. 
 </spa></div></td>
 
@@ -69,7 +67,7 @@ Note: The numbering of the verses in the Hebrew translation is that of Yitzhak F
 
 <tr>
 <td style="vertical-align:top;" width="25%">
-<div class="antiquity"><span lang="he">
+<div class="liturgy"><span lang="he">
 (יא) והמלך שפך בחרון אפו כל חמתו על היהודים, וייתן את ליבו להרע עוד עימהם, מאשר הרע להם אביו לפניו. (יב) וישמע יהודה, ויצו לכל העם לקרוא יומם ולילה אל ה' להיות בעזרתם, כאשר עשה עד היום. (יג) לבל יגורשו מאדמתם, ולא תופר תורת ה' ומקדשו. (יד) ולבל יכניע את העם, אשר זה כמעט שב רוחו מכל העמל והיגון, לתת אותם ביד צורריהם. (טו) ויעשו כולם כאשר ציום, ויתחננו אל ה' בצום ובכי, ויפלו על פניהם שלושת ימים. ואחרי כן צווה להם להיות נכונים. 
 </spa></div></td>
 
@@ -87,7 +85,7 @@ Note: The numbering of the verses in the Hebrew translation is that of Yitzhak F
 
 <tr>
 <td style="vertical-align:top;" width="25%">
-<div class="antiquity"><span lang="he">
+<div class="liturgy"><span lang="he">
 (טז) ויוועץ יהודה עם זקני העם, ותהי העצה לצאת חושים לקראת המלך בטרם בואו אל הארץ ללכוד את העיר, וה' הטוב בעיניו יעשה. (יז) ויהי אחרי העירו את רוח העם, להלחם בעוז ותעצומות בעד התורה ובעד בית ה' וארץ אבותם ומלכותם, וישליכו את יהבם על ה' יוצר הכל ויסעו. (יח) ויחנו את פני עיר מודעית, וישם יהודה דבר בפיהם לקרוא לה' התשועה. (יט) ויקם הוא ומבחר אנשיו לילה, ויפלו על מחנה המלך, ויכו כארבעת אלפי איש לפי חרב. (כ) ויהרגו את הגדול בשנהבים, ואת כל האנשים אשר על הצריח אשר עליו, ויחרידו את כל העם אשר במחנה, וישובו אל המחנה בטח. (כא) את כל אלה עשו באשמורת הבוקר בחסד ה' עליהם. 
 </spa></div></td>
 
@@ -105,7 +103,7 @@ Note: The numbering of the verses in the Hebrew translation is that of Yitzhak F
 
 <tr>
 <td style="vertical-align:top;" width="25%">
-<div class="antiquity"><span lang="he">
+<div class="liturgy"><span lang="he">
 (כב) ויהי כראות המלך את אומץ רוחם, ויתנכל לקחת את עריהם בעורמה. (כג) וינהג את מחנהו לפני בית צור מבצר היהודים, אך גם שמה כשל כוחו. (כד) כי מלא יהודה את אסמיה בר ואוכל, ויינגף המלך לפני יושביה וחילו היה הלוך וחסר. (כה) ואיש היה במחנה העברים ושמו רודוקיס, ויגל כל דבר סתר אל האויב, וידרשו אחריו ויתפשוהו ויתנוהו בבור. (כו) וירא המלך כי גם פה נכזבה תוחלתו, וישלים את אנשי בית צור ויעל מעליהם להלחם ביהודה לבדו, ויינגף גם לפניו במערכה. (כז) ויוגד לו לאמור, הנה פוליפוס אשר שמת לנגיד באנטוכיא מרד בך מרד, ויפג ליבו ויחרד. (כח) ויכנע לבבו לחלות את פני יהודה להשלים אתו, וישבע להקים כל דבר במישרים, ולבלתי עבור עוד את בריתו. (כט) ויהי אחרי השלימם, ותהי רוח אחרת עמו ויקרב קרבן לה', ויכבד את ההיכל וייטיב עם העיר. (ל) ויבקש את אהבת יהודה, וישימהו לפקיד ולנשיא מעכו ועד גבולי ארץ בני נריני. (לא) ויהי בבוא המלך לעכו, וילונו כל העם אליו על דבר הברית אשר כרת את היהודים, ורצונם היה להפרה. (לב) ויקם ליזיאש ויהס את העם, וידבר על לבם להצדיק את המלך בעיניהם. (לג) ויהי אחרי השקיטו את תלונות העם, וילך המלך וישב לאנטוכיא. (לד) וזאת הייתה צאתו ובואו במלחמה ההיא. 
 </spa></div></td>
 
@@ -124,7 +122,7 @@ Note: The numbering of the verses in the Hebrew translation is that of Yitzhak F
 
 <tr>
 <td style="vertical-align:top;" width="25%">
-<div class="antiquity"><span lang="he">
+<div class="liturgy"><span lang="he">
 (א) ויהי מקץ שלוש שנים, ויוגד ליהודה לאמור: (ב) הנה דימיטריוס בן סליקוס בא דרך הים, לעיר שומרון (טריפוליס) בעם כבד ובאניות רבות. (ג) ואחרי הכותו את אנטיוכוס, ואת ליזיאש שר צבאו, כבש את כל הארץ. 
 </spa></div></td>
 
@@ -142,7 +140,7 @@ Note: The numbering of the verses in the Hebrew translation is that of Yitzhak F
 
 <tr>
 <td style="vertical-align:top;" width="25%">
-<div class="antiquity"><span lang="he">
+<div class="liturgy"><span lang="he">
 (ד) ויוודע הדבר גם לאליקים, הוא אליקים אשר היה כהן גדול מלפנים, ויפשע בעבודתו עת המבוכה בארץ. (ה) וירא כי כלתה אליו הרעה, ולא יספח עוד אל הכהונה, ויקם וילך אל המלך בשנת מאה וחמישים ואחת. (ו) ויבא לו מנחה עטרת זהב אחת וכפות תמרים וענפי זית אשר ישרתו בם בקודש, ויתחרש כל היום ההוא. (ז) ויהי כי באה עתו להפיק זממו בהיקראו אל המלך, וישאלהו המלך על אודות היהודים. 
 </spa></div></td>
 
@@ -160,7 +158,7 @@ Note: The numbering of the verses in the Hebrew translation is that of Yitzhak F
 
 <tr>
 <td style="vertical-align:top;" width="25%">
-<div class="antiquity"><span lang="he">
+<div class="liturgy"><span lang="he">
 (ח) ויען ויאמר, היהודים אשר יקראו בשם חסידים, ויהודה המכבי בראשם, מעוררי מדנים הם ומבקשי תואנה וריב, ולארץ לא תהיה מנוחה מפניהם. (ט) ראה, גם תפארת אבותיי שדדו ממני, וידיחו אותי מעבודת הכהונה. (י) ועתה באתי עד הלום, לדרוש בתום לבבי את טובת אדוני המלך ואת שלום ארצנו. (יא) כי אם יוספים אנחנו לשבת במהומה הזאת, תישום כל הארץ בעבורם. 
 </spa></div></td>
 
@@ -178,7 +176,7 @@ Note: The numbering of the verses in the Hebrew translation is that of Yitzhak F
 
 <tr>
 <td style="vertical-align:top;" width="25%">
-<div class="antiquity"><span lang="he">
+<div class="liturgy"><span lang="he">
 (יב) לכן יראה נא המלך וישפוט כפי רוב חסדו על אודותינו, כי כל עוד יהודה חי לא תשקוט הארץ. (יג) ויהי ככלותו לדבר, וייחר אף כל מבקשי רעת העם ביהודה, וישיאו את לב דימיטריוס בו. (יד) ויקרא המלך לניקנור אשר על הפילים, ויפקד אותו על כל ארץ יהודה. (טו) ויצווהו להמית את יהודה, ולהפיץ את כל עדתו, ולתת את משמרת הכהונה לאליקים. (טז) ויתלקטו אל ניקנור המון ריקים מן הגויים אשר הקיאה אותם הארץ בבורחם מפני יהודה, ויקוו להרים קרנם באובדן היהודים. 
 </spa></div></td>
 
@@ -196,7 +194,7 @@ Note: The numbering of the verses in the Hebrew translation is that of Yitzhak F
 
 <tr>
 <td style="vertical-align:top;" width="25%">
-<div class="antiquity"><span lang="he">
+<div class="liturgy"><span lang="he">
 (יז) וישמע יהודה כי יצא ניקנור בחרב לקראתו, וכי נאספו עליו כל הגויים מסביב. (יח) ויצו ויזרקו כל העם עפר על ראשם, ויתחננו אל ה' אשר הקים תמיד את עמו, ויפדה אותם מכל צרותם באותות ובמופתים. (יט) ויהי אחרי התחננם, ויצו אותם ראש צבאם לקום ולנסוע. ויקומו כולם וייסעו, ויפגעו במחנה אויביהם על כפר דיסו. (כ) ויהי כי החל שמעון אחי יהודה לערוך לקראתם, וישתומם על המראה, כי אין קול ואין קשב, וכולם נעלמו מנגד עיניו. 
 </spa></div></td>
 
@@ -214,7 +212,7 @@ Note: The numbering of the verses in the Hebrew translation is that of Yitzhak F
 
 <tr>
 <td style="vertical-align:top;" width="25%">
-<div class="antiquity"><span lang="he">
+<div class="liturgy"><span lang="he">
 (כא) וכה היה הדבר כשמוע ניקנור כי אנשי יהודה מרי נפש הם, ויחרפו נפשם למות על אחוזת אבותם, ויגר מפניהם ולא אבה להלחם. (כב) וישלח את פוזידוניוס ואת טיודוטס ואת מתתיהו אל יהודה לקרוא לו לשלום. (כג) ויבא יהודה את הדבר לפני העם ויועצו יחדיו, ויקראו כולם פה אחד: נעשה נא שלום. וישימו מועד להוועד בו. (כד) ויהי כי בא יום המועד, ויכינו כסאות לכורתי הברית, ויהודה הציג מקצת אנשיו חגורי חרב במקום נאמן, כי אמר אולי מרמה בלבב האויב לנפול בצדייה עלי. ואחרי כן דברו איש את אחיו לשלום. 
 </spa></div></td>
 
@@ -232,7 +230,7 @@ Note: The numbering of the verses in the Hebrew translation is that of Yitzhak F
 
 <tr>
 <td style="vertical-align:top;" width="25%">
-<div class="antiquity"><span lang="he">
+<div class="liturgy"><span lang="he">
 (כה) ויהי אחרי אשר כילו הדבר, וילך ניקנור ירושלימה וישב שם בלי עשות כל רע, וישלח את כל עמו מעליו. (כו) וימצא יהודה חן בעיניו ויכבד אותו נגד כל העם, וייעצהו לקחת אישה ולהוליד בנים. (כז) וירא יהודה כי שקטה הארץ, וישמע לקולו וייקח אישה וירא בטוב נפשו. 
 </spa></div></td>
 
@@ -250,7 +248,7 @@ Note: The numbering of the verses in the Hebrew translation is that of Yitzhak F
 
 <tr>
 <td style="vertical-align:top;" width="25%">
-<div class="antiquity"><span lang="he">
+<div class="liturgy"><span lang="he">
 (כח) ויהי כראות אליקים כי שלום בין יהודה ובין ניקנור, ונפשו קשורה בנפשו, וילך אל דימיטריוס ויאמר: (כט) הנה ניקנור מעל בך מעל, ואת יהודה השואף למלכותך הקים ליורש מלכותך. (ל) ויתעבר בו המלך כי האמין לדת הבלייעל, ויכתוב בחרון אפו לניקנור לאמור:     (לא) הנה שמעתי ותרגז בטני, כי כרת ברית שלום ואהבה את יהודה, לכן מהר ושלחהו אסור בזיקים לאנטוכיא. 
 </spa></div></td>
 
@@ -268,7 +266,7 @@ Note: The numbering of the verses in the Hebrew translation is that of Yitzhak F
 
 <tr>
 <td style="vertical-align:top;" width="25%">
-<div class="antiquity"><span lang="he">
+<div class="liturgy"><span lang="he">
 (לב) ויהי כי הגיע דבר המלך לניקנור, ויחמץ לבבו וירע בעיניו להפר בריתו את יהודה, כי לא חטא לו. (לג) אולם לא ערב את ליבו למרות את פי המלך, ויתנכל לתפשו בערמה. (לד) ויהודה ראה את פני ניקנור כי איננו אליו כתמול שלשום, וישער בנפשו כי מתאנה הוא לו, ויקח גדוד ממבחר אנשיו ויפטר מפניו. (לה) ויהי כראות ניקנור כי הקדימו יהודה בתחבולתו, ויקם ויעל אל בית ה', ויאמר אל הכוהנים המשרתים, הוציאו את יהודה אלי. (לו) ויהי כי נשבעו כולם לאמור לא ידענו איהו, וישלח את ידו נגד ההיכל וישבע ויאמר:  (לז) אם לא תסגירו את יהודה אסור בידי, והפכתי את הבית הזה למהפכת עולם, ואת המזבח אתוץ, והקימותי בית בכוס תחתיו. 
 </spa></div></td>
 
@@ -286,7 +284,7 @@ Note: The numbering of the verses in the Hebrew translation is that of Yitzhak F
 
 <tr>
 <td style="vertical-align:top;" width="25%">
-<div class="antiquity"><span lang="he">
+<div class="liturgy"><span lang="he">
 (לח) ויהי כאשר כילה לדבר, וילך בחרי אף. (לט) והכוהנים פרשו את ידיהם, ויקראו אל ה' אלוהים, אשר מעולם היה מגן בעדם בעת צרתם ויאמרו:    (מ) ה' אלוהים ורב מחולל כל, אף כי לא יפקד ממך דבר, רצית בבית הזה לשבתך בקרבנו עולמים. (מא) לכן אל הקודש ואבי כל הקדושים, חוסה נא על הבית הזה אשר טהרנו מקרוב לבל יטמא עוד, וסגור כל פה עיקש ופתלתול. 
 </spa></div></td>
 
@@ -304,7 +302,7 @@ Note: The numbering of the verses in the Hebrew translation is that of Yitzhak F
 
 <tr>
 <td style="vertical-align:top;" width="25%">
-<div class="antiquity"><span lang="he">
+<div class="liturgy"><span lang="he">
 (מב) ויוגד לניקנור לאמור: הנה איש מזקני יהודה בירושלים, ושמו רציץ, אשר נפשו דבקה בעמו, והוא נכבד מאוד בעיני העם, על כן יקראו אותו "אבי היהודים". (מג) ואף כי נענה ונוגע מעוכרי היהודים בימי צרתם, שם נפשו בכפו והחזיק בתומתו ותורת אלוהיו. (מד) וישלח ניקנור חמש מאות איש אחוזי חרב לתופשו חי, בעבור הראות שנאתו את היהודים לעיני כל העם. (מה) כי אמר בלבו, אם המסר ימסר האיש הזה בידי - והציקותי לכל העם מאוד. (מו) ויהי כי קרבו אנשי החיל אל הבית, וייגשו לשבור הדלת ולשורפה באש, וירא כי אין מקום לנוס, ויתקע חרב בבטנו ויאמר: (מז) אמותה הפעם מות ישרים, וביד הרשעים האלה אל אפול להתעלל בי. אך בחרדת לבבו החטיא את מכתו. (מח) וירא כי אצו האנשים לבוא בתוך הבית, וירוץ פתאום אל החומה, ויתנפל מעליה על העומדים מתחת. (מט) ויפרדו האנשים מלמטה לנטות מפניו, ויפול על בטנו ותבקע. (נ) ובעודנו חי, התחזק בחמת אפו, ויקום מגואל בדם אשר זב ממכתו ונגעו כואב עליו, וירוץ בין העם על אחד הסלעים. (נא) ויוציא בשתי ידיו את מעיו מבטנו, וישפוך אותם על אנשי החיל ויקרא: (נב) ה' אלוהים אלוהי כל בשר ורוח, אתה תשוב ותתנם לי ברוב רחמיך. וימות. 
 </span></div></td>
 
@@ -321,7 +319,7 @@ Note: The numbering of the verses in the Hebrew translation is that of Yitzhak F
 
 <tr>
 <td style="vertical-align:top;" width="25%">
-<div class="antiquity"><span lang="he">
+<div class="liturgy"><span lang="he">
  (א) וישמע ניקנור כי נאספו יהודה ואנשיו אל גבול שומרון, ויאמר הבה נא אבוא עליהם ביום השבת. (ב) ויאמרו לו היהודים אשר החזיק בם ללכת אחריו לאמור: (ג) אל נא תעשה עמנו הרעה הגדולה הזאת, חדל ממנו ותן כבוד ליום אשר כבדו אלוהים ויקדשהו. (ד) וישאל להם הרשע ויאמר, מי הוא זה אשר נתן לכם את השבת, הישנו אל בשמים? (ה) ויענו ויאמרו: הוא האלוהים אלוהי השמים, אשר נתן לנו את יום השבת ויצוונו לקדשו. (ו) ויאמר הנה אנוכי אלוהי הארץ, וצוויתי אתכם להיחלץ ולעשות את מצוות המלך. (ז) אך לא הצליח חפצו בידו, 
  </spa></div></td>
 
@@ -339,7 +337,7 @@ Note: The numbering of the verses in the Hebrew translation is that of Yitzhak F
 
 <tr>
 <td style="vertical-align:top;" width="25%">
-<div class="antiquity"><span lang="he">
+<div class="liturgy"><span lang="he">
  כי הוא אמר ברום לבבו, עתה אכבדה ביהודה ובכל עמו. ויהודה שם אלוהים מבטחו, וייחל לחסדו להינצל גם הפעם. (ח) ויאמץ את רוח האנשים אשר אתו ויאמר:  (ט) אל תיראו ואל תערצו מפני הגויים הנוסעים לקראתכם. (י) זכרו תשועת ה' מימי קדם, אשר שלח לכם מן השמים, ובטחו בישועתו גם עתה. (יא) וידבר על לבם לחזקם בדבר ה' ובדברי נביאיו, ויזכירם את המלחמות אשר נלחמו מקדם ויעורר את רוחם. (יב) ויאמר להם: זכרו את המעל אשר מעלו בכם הגויים, בהפרם את הברית אשר כרתו עמנו באלה ובשבועה. (יג) ויאזרם חיל למלחמה, לא בחיל ולא בכוח, כי אם בדברים נכוחים ומזהירים. (יד) ויספר להם את כל המחזה אשר ראה בחלומו, ויחזק גם בו את לבבם, ויאמר:    
 </spa></div></td>
 
@@ -357,7 +355,7 @@ Note: The numbering of the verses in the Hebrew translation is that of Yitzhak F
 
 <tr>
 <td style="vertical-align:top;" width="25%">
-<div class="antiquity"><span lang="he">
+<div class="liturgy"><span lang="he">
 (טו) הנה חוניו הכהן המשיח נראה אלי בחלומי, ואתם כולכם ידעתם את האיש ואת שיחו. (טז) ישר ותמים היה בדרכיו, ורודף צדקה וחסד מנעוריו, וחן הוצק בשפתיו. (יז) ואראה אותו פורש את כפיו אל ה' ומתחנן בעד עמו ישראל. (יח) ואחריו ראיתי איש נכבד בעטרת שיבה, עוטה אור כשלמה, והוד והדר בפניו. (יט) ויפתח חוניו את פיו ויאמר, הזקן הנכבד אשר עיניך רואות, הוא ירמיהו נביא האלוהים. (כ) ובאהבתו את אחיו יבקש רחמים על עמו ישראל ועל הקריה הקדושה. (כא) וחרב זהב בימין ירמיהו, ויתנה בידי ויאמר: קח נא את החרב בידך, והכית בו את צורריך. 
 </spa></div></td>
 
@@ -375,7 +373,7 @@ Note: The numbering of the verses in the Hebrew translation is that of Yitzhak F
 
 <tr>
 <td style="vertical-align:top;" width="25%">
-<div class="antiquity"><span lang="he">
+<div class="liturgy"><span lang="he">
 (כב) ויהי אחרי עוררו את רוח העם וכל בחורי כוח בדברי תנחומים כאלה, ויקראו כולם פה אחד ויאמרו: (כג) לא נבנה מקום למחנה, אך נסעה ונלכה חושים לקראת אויבנו, ונכם ונכיתם עד תומם. (כד) לכן נקום נא ונלחם בעד קריתנו הקדושה ובית מקדשנו. (כה) ולא שמו ליבם אל נשיהם וטפם, ולא אל אחיהם ושארי בשרם, כי אם אל בית ה' אלוהיהם. (כו) וכל הנשארים בעיר פחדו וחרדו ליוצאים למלחמה. 
 </spa></div></td>
 
@@ -393,7 +391,7 @@ Note: The numbering of the verses in the Hebrew translation is that of Yitzhak F
 
 <tr>
 <td style="vertical-align:top;" width="25%">
-<div class="antiquity"><span lang="he">
+<div class="liturgy"><span lang="he">
 (כז) ויהי כי קרבה המלחמה, וחיילי האויבים נאספים ועורכים את מערכותם. (כח) והשנהבים איש איש על מקומו, והפרשים ניצבים משני עבריהם, ויהודה ראה את מערכת האויב ושמע את נהם החיות. (כט) ויפרוש את כפיו השמיימה אל האלוהים עושה נפלאות, אשר לא בכוח ונשק יגבר, כי אם עוז ותשועה ייתן לאשר יקרו בעיניו, ויתפלל ויאמר:     (ל) ה' אלוהים, אתה שלחת את מלאכך בימי חזקיהו מלך יהודה, ויך במחנה סנחריב מאה ושמונים וחמישה אלף איש. (לא) ועתה אלוהי השמים שלח נא גם היום את מלאכך לפנינו, והפל פחדך על מחנות אויבינו. (לב) למען יחרדו לזרוע עוזך כל מחרפי אלוהים הנוסעים לקראתנו, ורגזו וחלו מפניך. 
 </spa></div></td>
 
@@ -411,7 +409,7 @@ Note: The numbering of the verses in the Hebrew translation is that of Yitzhak F
 
 <tr>
 <td style="vertical-align:top;" width="25%">
-<div class="antiquity"><span lang="he">
+<div class="liturgy"><span lang="he">
 (לג) ויהי ככלותו להתפלל, וניקנור וחילו נוסעים לקראתו, ויריעו בחצוצרות וירימו קול תרועת מלחמה, ויהודה ואנשיו החלו להתגרות בם. (לד) בפיהם קראו אל ה', ובידם הכו את האויב, ובתקוותם אל ישועת ה' השחיתו שלושים וחמישה אלף איש ארצה, וירונו לה' על תשועתו הנפלאה. 
 </spa></div></td>
 
@@ -429,7 +427,7 @@ Note: The numbering of the verses in the Hebrew translation is that of Yitzhak F
 
 <tr>
 <td style="vertical-align:top;" width="25%">
-<div class="antiquity"><span lang="he">
+<div class="liturgy"><span lang="he">
 (לה) ויהי כי תמה המלחמה, והעם נסע בקול שמחה משדה המערכה, ויכירו את ניקנור בשריונו נופל בין החללים. (לו) ויהום כל המחנה מקול המולה ותרועה, ויהללו וישבחו את ה' אלוהי צבאות בלשון עמם. (לז) ויהודה המכבי, אשר עיניו לא חסו על נפשו בדורשו את שלום עמו, בשומעו את הבשורה, ויצוו להסיר את ראש ניקנור, ולכרות זרועו עם ידו ולהביאם ירושלימה. (לח) ויהי בבואו אל העיר, ויאסוף את כל העם, ויעמיד את הכוהנים אצל המזבח, וישלח ויקרא לאנשים אשר על המצודה. (לט) ויראם את ראש ניקנור, ואת יד המקלל אשר נטה בזדון לבבו נגד היכל ה'. (מ) ויצו לכרות את לשון הרשע ולגזור אותה לגזרים ולתיתה מאכל לעופות, ואת זרוע הרשע תקע נוכח פתח הבית. (מא) ויהללו כולם את ה' אלוהי השמים ויאמרו, ברוך ה' אשר הציל את המקום הזה, ולא נתנו עוד בידי זרים לחללו. (מב) ואת ראש ניקנור הוקיעו מול פני המצודה, לאות עולם כי הושיע ה' את עמו. (מג) ויקבלו עליהם כולם לב אחד, כי לא ישכח היום הזה לעולם, ולחוג אותו בשלושה עשר לחודש שנים עשר הוא חודש אדר, והוא היום לפני ימי הפורים. 
 </spa></div></td>
 
@@ -447,7 +445,7 @@ Note: The numbering of the verses in the Hebrew translation is that of Yitzhak F
 
 <tr>
 <td style="vertical-align:top;" width="25%">
-<div class="antiquity"><span lang="he">
+<div class="liturgy"><span lang="he">
 (מד) ובכלות מעשה ניקנור, העיר שבה תחת יד היהודים. אסיים פה את הספר. 
 </spa></div></td>
 
@@ -465,7 +463,7 @@ Note: The numbering of the verses in the Hebrew translation is that of Yitzhak F
 
 <tr>
 <td style="vertical-align:top;" width="25%">
-<div class="antiquity"><span lang="he">
+<div class="liturgy"><span lang="he">
 (מה) ועתה אם נרציתי במלאכתי, והיה נועם לנפשי. ואם לא, הנה השלמתיה כפי יכולת ידי. (מו) כי כאשר לא יטעם לחיך לשתות תמיד יין או מים, וטוב ממנו להחליף איש באחיו, כן ינעמו דברים שונים לנפש הקורא. 
 </span></div></td>
 
@@ -481,6 +479,7 @@ Note: The numbering of the verses in the Hebrew translation is that of Yitzhak F
 </tbody></table>
 
 <hr />
+
 Text of 2 Maccabees ch. 13-15 from the <a href="http://en.katabiblon.com/us/index.php?text=lxx&book=2Mc&ch=1">Kata Biblon Greek Septuagint</a>. English translation by Joachim Schaper from <a href="http://ccat.sas.upenn.edu/nets/edition/">NETS</a> against 2 Maccabees [Maccabaeorum Liber II] (1959, 1976, W. Kappler, R. Hanhart). Hebrew translation by Yitzhak Fraenkel (1885), digital edition via <a href="http://www.daat.ac.il/daat/hasfarim/hashmonaim-b-2.htm">Daat</a>.
 </body>
 </html>

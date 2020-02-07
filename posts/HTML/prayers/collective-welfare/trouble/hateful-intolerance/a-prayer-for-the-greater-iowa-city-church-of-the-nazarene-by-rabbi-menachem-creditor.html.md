@@ -1,14 +1,14 @@
 <html>
 <head></head>
 <body>
-Title: A prayer for the Greater Iowa City Church of the Nazarene, by Rabbi Menachem Creditor<br />
+Title: A Prayer for the Greater Iowa City Church of the Nazarene, by Rabbi Menachem Creditor<br />
 Primary contributor: menachem.creditor<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=24178">http://opensiddur.org/?p=24178</a>
 <p />
 <hr />
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;"><a href="https://opensiddur.org/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
@@ -170,9 +170,6 @@ Amen.
 
 "A Prayer for Church of the Nazarene, Iowa City" was written by Rabbi Menachem Creditor in response to <a href="https://littlevillagemag.com/vigil-scheduled-for-tuesday-night-to-show-support-for-iowa-city-church-vandalized-with-swastikas/">vandalsim of the church with hateful graffiti</a> on March 2nd 2019. According to the Iowa City/Cedar Rapids Little Village Mag, "The building also houses IC Compassion, a faith-based nonprofit that provides services to immigrants." The verse cited in the graffiti appears to be Proverbs 2:16 set next to a swastika. Clearly, the vandals had not read Proverbs 2:1-15 (emphasis on Proverbs 2:15). --Aharon Varady
 
-The prayer was shared with the Open Siddur Project through its <a href="https://www.facebook.com/groups/opensiddur/permalink/10156415131127746/">Facebook discussion group</a>. 
-
-
-
+The prayer was shared with the Open Siddur Project through its <a href="https://www.facebook.com/groups/opensiddur/permalink/10156415131127746/">Facebook discussion group</a>.
 </body>
 </html>

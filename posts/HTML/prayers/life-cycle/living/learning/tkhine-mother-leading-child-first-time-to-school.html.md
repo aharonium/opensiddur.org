@@ -49,10 +49,16 @@ Amen.
 
 <hr />
 
-"Tkine for a Mother Who Leads Her Child for the First Time to Kheyder" by an unknown author is a faithful transcription of the tkhine published in  רחל מבכה על בניה <em><a href="https://opensiddur.org/compilations/rabbinic-prayer/seder-tkhines/rokhl-mvako-al-boneho-a-nayye-shas-tekhine-vilna-1910/">Rokhl m'vakeh al boneho</a></em> (Rokhl Weeps for her Children), Vilna, 1910. I have transcribed it without any changes from <em>The Merit of Our Mothers</em> בזכות אמהות <em>A Bilingual Anthology of Jewish Women's Prayers</em>, compiled by Rabbi Tracy Guren Klirs, Cincinnati: Hebrew Union College Press, 1992.
+"Tkine for a Mother Who Leads Her Child for the First Time to Kheyder" by an unknown author is a faithful transcription of the tkhine published in רחל מבכה על בניה <em>Rokhl m'vakoh al boneho</em> (Rokhl Weeps for her Children), Vilna, 1910. I have transcribed it without any changes from <em>The Merit of Our Mothers</em> בזכות אמהות <em>A Bilingual Anthology of Jewish Women's Prayers</em>, compiled by Rabbi Tracy Guren Klirs, Cincinnati: Hebrew Union College Press, 1992.
 
 <h3>Source</h3>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/RachelWeepsForHerChildrenVilna1910#page/n207/mode/2up"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/RachelWeepsForHerChildrenVilna1910#page/n208/mode/2up"]
+
+&nbsp;
+
+<hr />
+
+&nbsp;
 </body>
 </html>

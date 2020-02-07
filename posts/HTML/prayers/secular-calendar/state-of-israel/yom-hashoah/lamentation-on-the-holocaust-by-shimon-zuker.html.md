@@ -9,7 +9,6 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <strong>DOWNLOAD:</strong> <a href="https://archive.org/download/LamentationOnTheHolocaustSimonZuker1980/Len%20Fellman%27s%20transtropilation%20of%20the%20Lamentation%20on%20the%20Holocaust%20%28Simon%20Zuker%2C%20trans.%20Gertrude%20Hirschler%201980%29.pdf">PDF</a> | <a href="https://archive.org/download/LamentationOnTheHolocaustSimonZuker1980/Len%20Fellman%27s%20transtropilation%20of%20the%20Lamentation%20on%20the%20Holocaust%20%28Simon%20Zuker%2C%20trans.%20Gertrude%20Hirschler%201980%29.odt">ODT</a>
 
-<center>[su_audio url="https://archive.org/download/LamentationOnTheHolocaustSimonZuker1980/Simon%20Zuker%20and%20Gertrude%20Hirschler%20-%20Lamentation%20on%20the%20Holocaust%20%28chanted%20by%20Len%20Fellman%29.mp3" width="60%"]</center>
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
@@ -351,11 +350,21 @@ A note as to the copyright of this work. The Zachor Institute no longer exists (
 
 Len Fellman transtropilized this work, cantillizing Hirschler's English translation. Fellman writes, "this lamentation (while describing pretty brutal stuff) show not a trace of bitterness or anger, and while acknowledging God's presence (and calling on God to witness the experience), assigns no blame to God whatsoever. It's just pure grief and love; even trust. This what I find so amazing about this piece."
 
+<h3>Recording</h3>
+
+[su_audio url="https://archive.org/download/LamentationOnTheHolocaustSimonZuker1980/Simon%20Zuker%20and%20Gertrude%20Hirschler%20-%20Lamentation%20on%20the%20Holocaust%20%28chanted%20by%20Len%20Fellman%29.mp3" width="60%"]
+
 <h3>Source(s)</h3>
+
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/LamentationOnTheHolocaustSimonZuker1980/Len%20Fellman%27s%20transtropilation%20of%20the%20Lamentation%20on%20the%20Holocaust%20%28Simon%20Zuker%2C%20trans.%20Gertrude%20Hirschler%201980%29#page/n0/mode/2up"]
+
+&nbsp;
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/LamentationOnTheHolocaustSimonZuker1980/Lamentation%20on%20the%20Holocaust%20%28Simon%20Zuker%2C%20trans.%20Gertrude%20Hirschler%201980%29#page/n0/mode/2up"]
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/LamentationOnTheHolocaustSimonZuker1980/Len%20Fellman%27s%20transtropilation%20of%20the%20Lamentation%20on%20the%20Holocaust%20%28Simon%20Zuker%2C%20trans.%20Gertrude%20Hirschler%201980%29#page/n0/mode/2up"]
+<hr />
+
+&nbsp;
 
 </body>
 </html>

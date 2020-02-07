@@ -1,8 +1,8 @@
 <html>
 <head></head>
 <body>
-Title: An den ersten Tagen des Laubhüttenfestes | [A prayer] on the first days of Sukkot by Fanny Neuda (1855)<br />
-Primary contributor: fanny.neuda<br />
+Title: [Gebet] An den ersten Tagen des Laubhüttenfestes | [A prayer] on the first days of Sukkot by Fanny Neuda (1855)<br />
+Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=5273">http://opensiddur.org/?p=5273</a>
 <p />
 <hr />
@@ -12,24 +12,27 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr><td style="vertical-align:top;" width="50%">
 <div class="german"><span lang="de">
-<strong>An den ersten Tagen des Laubhüttenfestes</strong>[foot]Das Suckoth- oder Laubhüttenfest beginnt am Abend des vierzehnten Tischri und dauert ursprünglich nach dem Gebote der Schrift acht, bei uns jedoch neun Tage. Die Bedeutung dieses Festes ist die Erinnerung an die wunderbare Erhaltung und Verpflegung unserer Voreltern während ihrer Wanderung durch die Wüste, wo sie in offenen, freien Zeiten wohnten. Es ist zugleich, da es im Herbste gefeiert wird, ein Dank- und Erntefest.[/foot]
+<u>An den ersten Tagen des Laubhüttenfestes</u>[foot]Das Suckoth- oder Laubhüttenfest beginnt am Abend des vierzehnten Tischri und dauert ursprünglich nach dem Gebote der Schrift acht, bei uns jedoch neun Tage. Die Bedeutung dieses Festes ist die Erinnerung an die wunderbare Erhaltung und Verpflegung unserer Voreltern während ihrer Wanderung durch die Wüste, wo sie in offenen, freien Zeiten wohnten. Es ist zugleich, da es im Herbste gefeiert wird, ein Dank- und Erntefest.[/foot]
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
-<div class="english"><span lang="en">
-<strong>Prayer for the First Day of Sukkot</strong>
+<div class="english">
+<u>Prayer for the First Day of Sukkot</u>
 </span></div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="50%">
-<div class="english"><span lang="de">
-Das Fest der Hütten sollst du feiern sieben Tage lang. (5. B. M. 16, 13.)
+<div class="german"><span lang="de">
+Das Fest der Hütten sollst du feiern sieben
+Tage lang.
+ (5. B. M. 16, 13.)
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
+<div class="english">
 <span class="liturgy">חַ֧ג הַסֻּכֹּ֛ת תַּעֲשֶׂ֥ה לְךָ֖ שִׁבְעַ֣ת יָמִ֑ים בְּאָ֨סְפְּךָ֔ מִֽגָּרְנְךָ֖ וּמִיִּקְבֶֽךָ׃</span>
-<span class="english">The festival of Sukkot shall you make for yourself, seven days, at the time that you gather in [to your house the summer fruits] from your threshing floor and from your winepress. (Deuteronomy 16, 13.)
-</span></td></tr>
+The festival of Sukkot shall you make for yourself, seven days, at the time that you gather in [to your house the summer fruits] from your threshing floor and from your winepress. (Deuteronomy 16, 13.)
+</span></div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="50%">
@@ -38,7 +41,7 @@ Abermals ist ein Fest für uns eingetreten, ein Fest, ganz verschieden von dem, 
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
-<div class="english"><span lang="en">
+<div class="english">
 Once more the time has come for a festival. So different from the last one, which we observed with tears and repentance, with self-denial and confession. This one we celebrate in joy, with jubilation, and with songs of praise, as it is written: "You shall rejoice before YHVH, your <em>elo'ah</em>, for seven days."[foot]Leviticus 23:40[/foot] And how could good cheer and delight not resound through our hearts—how could holy joy not till our souls after the Day of Atonement, when you, O God, lifted our guilt from us and set us free? How, from the humble awareness of our darkest places, could a joyous ray of light beam so brilliantly if you had not stretched out your forgiving hand? You have not only forgiven us, you have also turned your countenance toward us again in love and kindness. You do not pardon us as a lord might pardon a knight but rather as a good parent gathers her regretful child into her arms, presses him to her heart, and embraces him in love. So you treat us, Eternal Parent, in your vast, divine grace. So we rejoice before you, my God. With joyous, comforted spirits we enter the sukkot we have built and decorated to honor your decree. From our cleansed and renewed hearts our prayers rise up toward you.
 </span></div></td></tr>
 
@@ -49,7 +52,7 @@ In Hütten feiern wir das Sukkotfest, gleich einem Nomadenvolk, gleich unsern V�
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
-<div class="english"><span lang="en">
+<div class="english">
 We celebrate the festival of Sukkot in booths like a nomadic people, like our ancestors who lived in temporary shelters as they wandered through the wilderness, elevated by wonder and blessed by your love. Our ancestors pitched their tents on the open ground, yet your grace always surrounded them, protecting them from every enemy, from every danger, from every need. You were a pillar of cloud before them by day, a pillar of lire beside them by night. You made fresh water spout from rocks to quench their thirst. You sent down manna from the clouds to nourish them. Their feet traveled unhurt across the burning ground. Their balance did not fail. You led them until they entered the praised, promised land that you had prepared for them as an inheritance.
 </span></div></td></tr>
 
@@ -60,7 +63,7 @@ Und hat nicht seitdem fort und fort deine göttliche Wunderkraft an uns sich off
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
-<div class="english"><span lang="en">
+<div class="english">
 Haven’t you also worked wonders for us since? Haven’t you spread out your grace before us as a shield and a cover for our hearts? Haven’t you spread your grace over your people, so no enemy could bring them to shame? For thousands of years Israel has been a wandering people. Our houses are but fragile huts — and these have been torn asunder too many times by unrest and the hatred of others. We have only your mercy to thank that we have not perished from the earth. Your compassion has held us and carried us through storm and flood, over every abyss that has threatened to devour us. And now, after generations of wandering, you have allowed us to taste the sweetness of home. Thanks to you, we have found a homeland — a beautiful, wonderful country that recognizes us as its children.[foot]Here, Neuda is referring to her native Bohemia.[/foot] Safe and free, like ancient Israel in the shade of its palm and fig trees, we rest beneath the tent of peace provided to us by the law, along with all our brothers and sisters in this land.
 </span></div></td></tr>
 
@@ -71,7 +74,7 @@ Drum sei gepriesen, Herr, für die Wunder, die du einst unsern Vätern erzeiget 
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
-<div class="english"><span lang="en">
+<div class="english">
 So we praise you, Eternal One, for the many wonders you permitted our ancestors to witness, and for the wonders you allow us, their children, to witness even to this day. You have not forsaken us, and you shall never forsake us. Praised and blessed be your holy name. <em>Amen</em>. 
 </span></div></td></tr>
 </tbody></table>
@@ -84,6 +87,12 @@ From our new digital edition of Fanny Neuda's <a href="http://de.wikisource.org/
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/stundenderandac01neudgoog#page/n81/mode/2up/"]
 
+&nbsp;
+
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/StundenDerAndachtFannyNeuda1864#page/n92/mode/2up"]
+
+<hr />
+
+&nbsp;
 </body>
 </html>

@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: Bendigamos al Altísimo, a Sefaradi hymn for the Birkat ha-Mazon<br />
+Title: Bendigamos al Altísimo, a Ladino song for the Birkat haMazon<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=11935">http://opensiddur.org/?p=11935</a>
 <p />
@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: left;">Source (Spanish)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="spanish"><span lang="he">
+<div class="spanish"><span lang="es">
 Bendigamos al Altísimo,
 Al Señor que nos crió,
 Démosle agradecimiento
@@ -159,6 +159,8 @@ Mandola and back up vocals: Joshua Polak
 Recorded by Ty Ford
 
 [caption id="attachment_11937" align="aligncenter" width="1200"]<a href="https://opensiddur.org/wp-content/uploads/2015/09/Maaravi-Polak.jpg"><img src="https://opensiddur.org/wp-content/uploads/2015/09/Maaravi-Polak.jpg" alt="Ma&#039;aravi-Polak featuring (left to right) Joshua Polak, Esther Polak, and Rabbi Shuviel Ma’aravi. Mike Abramov in foreground." width="1200" height="896" class="size-full wp-image-11937" /></a> Ma'aravi-Polak featuring (left to right) Joshua Polak, Esther Polak, and Rabbi Shuviel Ma’aravi. Mike Abramov in foreground.[/caption]
+
+<h3>Recording</h3>
 
 https://www.youtube.com/watch?v=owpKvz-ZGoo
 </body>

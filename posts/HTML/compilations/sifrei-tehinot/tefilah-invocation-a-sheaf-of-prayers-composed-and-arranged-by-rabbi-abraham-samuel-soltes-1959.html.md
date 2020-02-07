@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: תפלה | Tefilah ⁠— Invocation: A Sheaf of Prayers, composed and arranged by Rabbi Abraham Samuel Soltes (1959)<br />
+Title: תפלה | Tefilah ⁠— Invocation: A Sheaf of Prayers, composed and arranged by Rabbi Avraham Samuel Soltes (1959)<br />
 Primary contributor: aharon-nissen.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=27974">http://opensiddur.org/?p=27974</a>
 <p />

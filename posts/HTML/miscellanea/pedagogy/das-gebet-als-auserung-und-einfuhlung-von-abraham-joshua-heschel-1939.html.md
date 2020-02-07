@@ -267,7 +267,6 @@ Beten heißt, an ein Wort fassen, an den Endpunkt einer Schnur, die gleichsam zu
 
 Abraham Joshua Heschel's essay "Das Gebet Als Äußerung Und Einfühlung" (Prayers as expression and empathy) published in <em>Monatsschrift Für Geschichte Und Wissenschaft Des Judenthums</em>, vol. 83 (1939). This article was confiscated by the Nazis and not published until 1941.
 
-
 <h3>Source(s)</h3>
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/DasGebetAlsusserungUndEinfhhlungAJHeschel1939#page/n0/mode/2up"]

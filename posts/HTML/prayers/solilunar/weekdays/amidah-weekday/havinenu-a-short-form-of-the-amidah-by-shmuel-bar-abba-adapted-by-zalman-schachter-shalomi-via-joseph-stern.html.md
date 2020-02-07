@@ -253,7 +253,7 @@ This we declare. <em>Amen</em>
 
 Rabbi Zalman Schachter-Shalomi, z”l, included his adaptation of Rabbi Joseph F. Stern's (East London Synagogue, ca. early 20th c.) adaptation of the "Havinenu," short form of the Amidah in his <em><a href="https://opensiddur.org/siddurim/ha-ari/neo-hasidut/reb-zalmans-open-siddur-tehillat-hashem/">Siddur Tehillat Hashem Yidaber Pi</a></em> (2009). While I have not been able to find where Rabbi Stern's adaptation was originally published, it was reprinted in the Daily Prayer Book of Rabbi Joseph H. Hertz, p. 160. (See below for the page image.) To the best of my ability, I have set his English translation side-by-side with the nusaḥ of Havinenu as found in Maimonides' Mishneh Torah.[foot]<a href="https://www.sefaria.org/Mishneh_Torah%2C_Prayer_and_the_Priestly_Blessing.2.3?lang=bi" rel="noopener noreferrer" target="_blank">Mishneh Torah, Prayer and the Priestly Blessing 2:3</a>[/foot] I have replaced anglicizations and removed capitalization for divine pronouns. –Aharon N. Varady
 
-The earliest version of "Havinenu" appears in the Talmud in the name of Mar Shmuel. Here is Berakhot 29a with the version of Bavli Berakhot in <a href="https://www.sefaria.org/Kol_Bo.11.44-45?lang=bi" rel="noopener noreferrer" target="_blank">Kol Bo 11:44-45</a> appearing in [brackets] and the version left out of the Yerushalmi Berakhot appearing in (parentheses). The version of the Havinenu found in the Mishneh Torah follows the Bavli and adds the verse from Isaiah and it's explanation, both of which are also found in the Kol Bo's version of the Bavli nusaḥ. 
+The earliest version of "Havinenu" appears in the Talmud in the name of Mar Shmuel. Here is Berakhot 29a with the version of Bavli Berakhot in <a href="https://www.sefaria.org/Kol_Bo.11.44-45?lang=bi" rel="noopener noreferrer" target="_blank">Kol Bo 11:44-45</a> appearing in [brackets] and the version left out of the Yerushalmi Berakhot appearing in (parentheses). The version of the Havinenu found in the Mishneh Torah follows the Bavli and adds the verse from Isaiah and it's explanation, both of which are also found in the Kol Bo's version of the Bavli nusaḥ.
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
@@ -345,12 +345,16 @@ Blessed are you, YHVH, who listens to prayer.
 </div></td></tr>
 </tbody></table>
 
-
 <h3>Source(s)</h3>
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/SiddurTehillatHaShemYedaberPiWeekdaySiddur#page/n31/mode/2up"]
 
-[gview file="https://opensiddur.org/wp-content/uploads/2018/08/Havinenu-by-Joseph-F.-Stern-in-the-Daily-Prayer-Book-of-Joseph-H.-Hertz-p.158-160.pdf"]
+&nbsp;
 
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/sedertefilotkolhashanahvol1yoseftsvihertz1942#page/n182/mode/2up"]
+
+<hr />
+
+&nbsp;
 </body>
 </html>

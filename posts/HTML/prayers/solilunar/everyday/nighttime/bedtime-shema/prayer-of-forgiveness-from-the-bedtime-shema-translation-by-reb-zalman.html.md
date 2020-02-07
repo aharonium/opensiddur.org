@@ -7,7 +7,6 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
@@ -18,7 +17,7 @@ For attribution and license, please consult the following URL: <a href="http://o
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Before you go to sleep, 
+<span class="instruction">Before you go to sleep, 
 make an examination of your conscience for the entire day. 
 Check your relationships and make an act of forgiveness.
 
@@ -26,7 +25,7 @@ Recalling whatever frustration and hurt was experienced during the day, at the h
 visualize them written on slips of paper. 
 Rip these up one by one,
 forgiving fully those who hurt you
-as you say:
+as you say:</span>
 </div></td></tr>
 
 
@@ -139,9 +138,10 @@ O L~rd, My Rock and my Redeemer.[foot]Psalms 19:13[/foot]
 </tbody></table>
 
 <hr />
-Rabbi Zalman Schachter-Shalomi, z"l, included his translation of Rabbi Yitsḥak Luria's prayer "<em>Hareni Moḥel</em>" (I hereby forgive) in his <em><a href="https://opensiddur.org/siddurim/ha-ari/neo-hasidut/reb-zalmans-open-siddur-tehillat-hashem/">Siddur Tehillat Hashem Yidaber Pi</a></em> (2009). To the best of my ability, I have set his translation side-by-side with a transcription of the vocalized text of the prayer. 
 
-The prayer by the ARI z"l was first published in Ḥayim Vital's <em>Pri Ets Ḥayyim, Shaar Kriyat Shema al Hamitah, Pereq 2</em> (<a href="https://he.wikisource.org/wiki/פרי_עץ_חיים_שער_קריאת_שמע_שעל_המיטה_פרק_ב">פרי עץ חיים, שער קריאת שמע שעל המיטה, פרק ב</a>), and based on the statement of Reish Lakish in the Bavli Pesachim 66b and the practice of Mar Zutra attested in the Bavli Megillah 28a: 
+Rabbi Zalman Schachter-Shalomi, z"l, included his translation of Rabbi Yitsḥak Luria's prayer "<em>Hareni Moḥel</em>" (I hereby forgive) in his <em><a href="https://opensiddur.org/siddurim/ha-ari/neo-hasidut/reb-zalmans-open-siddur-tehillat-hashem/">Siddur Tehillat Hashem Yidaber Pi</a></em> (2009). To the best of my ability, I have set his translation side-by-side with a transcription of the vocalized text of the prayer.
+
+The prayer by the ARI z"l was first published in Ḥayim Vital's <em>Pri Ets Ḥayyim, Shaar Kriyat Shema al Hamitah, Pereq 2</em> (<a href="https://he.wikisource.org/wiki/פרי_עץ_חיים_שער_קריאת_שמע_שעל_המיטה_פרק_ב">פרי עץ חיים, שער קריאת שמע שעל המיטה, פרק ב</a>), and based on the statement of Reish Lakish in the Bavli Pesachim 66b and the practice of Mar Zutra attested in the Bavli Megillah 28a:
 
 <blockquote>
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
@@ -177,6 +177,18 @@ Rabbi Neḥunya also said: Nor did I ever allow the resentment caused by my fell
 </tbody></table>
 </blockquote>
 
+<h3>Source(s)</h3>
+
+<h3>Source</h3>
+
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/SiddurTehillatHaShemYedaberPiWeekdaySiddur#page/n51/mode/2up"]
+
 The page image below comes from <a href="https://books.google.com/books?id=ldhRAAAAcAAJ&dq="הריני+מוחל+לכל+מי+שהכעיס"&source=gbs_navlinks_s">ספר שערי ציון: תקון סעודה... וספר יצירה עם נקודות ותקון שלשה משמורת</a> (הרץ לוי רופא, Amsterdam, 1760). If you can find an earlier published edition of this prayer, please <a href="https://opensiddur.org/contact/">contact us</a> or comment below.
+
+<a href="https://books.google.com/books?id=ldhRAAAAcAAJ&amp;pg=PP144#v=onepage&amp;q&amp;f=false"><img class="alignnone size-large wp-image-16109" src="http://opensiddur.org/wp-content/uploads/2017/07/Hareni-Mochel-from-ספר-שערי-ציון-תקון-סעודה-1760-1024x721.png" alt="" width="640" height="451" /></a>
+
+<hr />
+
+&nbsp;
 </body>
 </html>

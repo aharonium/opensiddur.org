@@ -1,14 +1,14 @@
 <html>
 <head></head>
 <body>
-Title: A Prayer For Kavvanah, by Amanda Rush<br />
+Title: A Prayer for Kavvanah, by Amanda Rush<br />
 Primary contributor: amanda.rush<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=4140">http://opensiddur.org/?p=4140</a>
 <p />
 <hr />
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;"><a href="https://opensiddur.org/contributing/upload/">Contribute a Translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;">Contribute a Translation</th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
