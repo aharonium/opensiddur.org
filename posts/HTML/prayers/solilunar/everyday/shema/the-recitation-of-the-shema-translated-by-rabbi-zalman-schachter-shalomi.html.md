@@ -21,7 +21,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <td style="vertical-align:top;" width="53%">
 <div class="english">
 <strong>Listen</strong>, you, Yisrael person,
-(<em>say your own name here</em>)
+<span class="instruction">(say your own name here)</span>
 Yah who Is, is our God, 
 Yah who Is, Is One, Unique, 
 All there Is.[foot]Deuteronomy 6:4[/foot]
@@ -30,12 +30,14 @@ All there Is.[foot]Deuteronomy 6:4[/foot]
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
+<span class="instruction">[בלחש]</span> 
 בָּרוּךְ שֵׁם כְּבוֹד מַלְכוּתוֹ 
 לְעוֹלָם וָעֶד׃ <span class="citation">(משנה יומא ג:ח, פסחים נו א, <a href="https://www.sefaria.org/Midrash_Tanchuma_Buber%2C_Kedoshim.6?vhe=Midrash_Tanhuma_haKadum_veHaYashan,_S._Buber,_1885&lang=bi">מדרש תנחומא - בובר קדושים ו׳</a>, ועוד)</span> 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
+<span class="instruction">[<em>whisper</em>]</span> 
 Through time and space,
 Your glory shines, Majestic One.[foot]Mishna Yoma 3:8, Pesachim 56a, Bereishit Rabba 98:3, <a href="https://www.sefaria.org/Midrash_Tanchuma_Buber%2C_Kedoshim.6?vhe=Midrash_Tanhuma_haKadum_veHaYashan,_S._Buber,_1885&lang=bi">Midrash Tanchuma Buber Kedoshim 6</a>, et al[/foot]
 </div></td></tr>
@@ -314,5 +316,13 @@ Rabbi Zalman Schachter-Shalomi, z”l, included his translation of the <a href="
 <h3>Source</h3>
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/SiddurTehillatHaShemYedaberPiWeekdaySiddur#page/n27/mode/2up"]
+
+&nbsp;
+
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/sidurtehilashashemforweekdaysandshabbosmerkoslinyonaichinuch1953#page/n46/mode/2up"]
+
+<hr />
+
+&nbsp;
 </body>
 </html>

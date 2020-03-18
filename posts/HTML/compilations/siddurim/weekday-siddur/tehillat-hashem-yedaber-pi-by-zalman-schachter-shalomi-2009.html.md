@@ -7,13 +7,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<strong>DOWNLOAD:</strong> <a class="download" href="https://opensiddur.org/wp-content/uploads/2009/10/Siddur-Tehillat-haShem-Weekday-Siddur.odt">ODT</a><a class="pdf" href="https://opensiddur.org/wp-content/uploads/2009/10/Siddur-Tehillat-haShem-Weekday-Siddur.pdf">PDF</a>
+<strong>DOWNLOAD:</strong> 
+<a class="download" href="https://opensiddur.org/wp-content/uploads/2009/10/Siddur-Tehillat-haShem-Weekday-Siddur.odt">ODT</a> | <a class="pdf" href="https://opensiddur.org/wp-content/uploads/2009/10/Siddur-Tehillat-haShem-Weekday-Siddur.pdf">PDF</a>
 
-<a class="download" href="https://opensiddur.org/wp-content/uploads/2009/10/Siddur-Tehillat-haShem-Sabbath-Supplement.odt">ODT</a><a class="pdf" href="https://opensiddur.org/wp-content/uploads/2009/10/Siddur-Tehillat-haShem-Sabbath-Supplement.pdf">PDF</a> Siddur Tehillat HaShem Yidaber Pi -- Sabbath Evening Supplement
+<a class="download" href="https://opensiddur.org/wp-content/uploads/2009/10/Siddur-Tehillat-haShem-Sabbath-Supplement.odt">ODT</a> | <a class="pdf" href="https://opensiddur.org/wp-content/uploads/2009/10/Siddur-Tehillat-haShem-Sabbath-Supplement.pdf">PDF</a> Siddur Tehillat HaShem Yidaber Pi -- Sabbath Evening Supplement
 
-<a class="download" href="https://opensiddur.org/wp-content/uploads/2009/10/Siddur-Tehillat-HaShem-Yidaber-Pi.txt">TXT</a>Siddur Tehillat HaShem Y'daber Pi -- Weekdays and Sabbath Supplement
+<a class="download" href="https://opensiddur.org/wp-content/uploads/2009/10/Siddur-Tehillat-HaShem-Yidaber-Pi.txt">TXT</a> Siddur Tehillat HaShem Y'daber Pi -- Weekdays and Sabbath Supplement
 
-<a class="download" href="https://opensiddur.org/wp-content/uploads/2009/10/Reb-Zalmans-Psalms-utf-8.txt">TXT</a>Reb Zalman's translation of select Tehillim (Psalms: 6, 15, 24, 25, 30, 48, 67, 81-82, 93-94, 100, 104, 139, 145-150)
+<a class="download" href="https://opensiddur.org/wp-content/uploads/2009/10/Reb-Zalmans-Psalms-utf-8.txt">TXT</a> Reb Zalman's translation of select Tehillim (Psalms: 6, 15, 24, 25, 30, 48, 67, 81-82, 93-94, 100, 104, 139, 145-150)
 
 When Reb Zalman shared his siddur with the Open Siddur Project in 2009, it was the first contribution of a contemporary translation of the siddur with an Open Content license. Thank you so much, Reb Zalman!
 
@@ -221,7 +222,7 @@ Ga'al Yisrael
 <div class="liturgy"><span lang="he">
 <a href="http://opensiddur.org/?p=21107">חִיוּבִיוֹת ליום חול על פי הברכות של העמידה</a>
 <a href="http://opensiddur.org/?p=21089">הבננו (העמידה קצרה)‏</a>
-העמידה
+<a href="http://opensiddur.org/?p=30340">העמידה</a>
 <a href="http://opensiddur.org/?p=29416">אחרי העמידה</a>
 <a href="http://opensiddur.org/?p=10440">תחנון</a>
 <a href="http://opensiddur.org/?p=20900">תהלים ו׳</a>
@@ -247,7 +248,7 @@ Ga'al Yisrael
 
 <a href="http://opensiddur.org/?p=21107">Weekday Affirmations (based on the Amidah)</a>
 <a href="http://opensiddur.org/?p=21089">Havinenu</a>
-Another version of the Amidah
+<a href="http://opensiddur.org/?p=30340">Another version of the Amidah</a>
 <a href="http://opensiddur.org/?p=29416">Intention for After the Amidah</a>
 <a href="http://opensiddur.org/?p=10440">Taḥanun</a>
 <a href="http://opensiddur.org/?p=20900">Psalms 6</a>
@@ -283,7 +284,7 @@ Another version of the Amidah
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
 <a href="http://opensiddur.org/?p=20948">אשרי</a>
-העמידה
+<a href="http://opensiddur.org/?p=30340">העמידה</a>
 <a href="http://opensiddur.org/?p=20891">עלינו</a>
 </span></div></td>
  
@@ -291,7 +292,7 @@ Another version of the Amidah
 <div class="english">
 
 <a href="http://opensiddur.org/?p=20948">Ashrei</a>
-Amidah
+<a href="http://opensiddur.org/?p=30340">Amidah</a>
 <a href="http://opensiddur.org/?p=20891">Aleynu</a>
 
 </div></td></tr>
@@ -315,7 +316,7 @@ Amidah
 <a href="http://opensiddur.org/?p=20907">שמע ישראל</a>
 <a href="http://opensiddur.org/?p=29411">אמת ואמונה</a>
 <a href="http://opensiddur.org/?p=29407">השכיבנו</a>
-העמידה
+<a href="http://opensiddur.org/?p=30340">העמידה</a>
 <a href="http://opensiddur.org/?p=20891">עלינו</a>
 </span></div></td>
  
@@ -326,7 +327,7 @@ Amidah
 <a href="http://opensiddur.org/?p=20907">Sh’ma Yisrael</a>
 <a href="http://opensiddur.org/?p=29411">Emet v'Emunah</a>
 <a href="http://opensiddur.org/?p=29407">Hashkivenu</a>
-Amidah
+<a href="http://opensiddur.org/?p=30340">Amidah</a>
 <a href="http://opensiddur.org/?p=20891">Aleynu</a>
 </div></td></tr>
 

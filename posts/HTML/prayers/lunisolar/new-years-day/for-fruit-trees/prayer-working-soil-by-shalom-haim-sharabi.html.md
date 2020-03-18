@@ -12,12 +12,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="commentary"><span lang="he">
-(כְּזֶה הוּא הַסֵּדֶר לוֹמַר בְּשָׁעָה שֶׁמַּחֲזִיק בַּמַּעְדֵּר לַחֲפֹר חֲפִירָה לִנְטִיעָה:)
+<div class="liturgy"><span lang="he">
+<span class="instruction">כְּזֶה הוּא הַסֵּדֶר לוֹמַר בְּשָׁעָה שֶׁמַּחֲזִיק בַּמַּעְדֵּר לַחֲפֹר חֲפִירָה לִנְטִיעָה:</span>
 </span></div></td>
 
 <td style="vertical-align:top;"><div class="english">
-(This prayer is to be said while holding the hoe that will be used for the planting:[foot]The first line presenting instructional text on holding the hoe appears in versions circulated on the web in the context of Tu Bishvat tree planting programs. The line does not appear in the earliest versions of the prayer I could find, published between 1991 and 1997 (see below, "Sources").[/foot])
+<span class="instruction">This prayer is to be said while holding the hoe that will be used for the planting:</span>[foot]The first line presenting instructional text on holding the hoe appears in versions circulated on the web in the context of Tu Bishvat tree planting programs. The line does not appear in the earliest versions of the prayer I could find, published between 1991 and 1997 (see below, "Sources").[/foot]
 </div></td></tr>
 
 
@@ -28,18 +28,20 @@ For attribution and license, please consult the following URL: <a href="http://o
 הֲרֵינִי נוֹטֵל מַעְדֵּ״ר זֶה
 הָעוֹלָה בְּגִימַטְרִיָּה שַׁדַּ״י,
 לְהַכְרִית בּוֹ הַחוֹחִים וְהַקּוֹצִים,
-וְלַחֲצֹב בּוֹ כׇּל הַנִּיצוֹצִים מִתּוֹךְ אַדְמָתֵנוּ
+וְלַחֲצֹב בּוֹ כׇּל הַנִּיצוֹצִים 
+מִתּוֹךְ אַדְמָתֵנוּ
 אַדְמַת הַקּוֹדֶשׁ.
 </span></div></td>
 
 <td style="vertical-align:top;"><div class="english">
 To unify the name of the blessed Holy One and their Shekhinah, 
 with fear and compassion,
-I hereby take this hoe (ma’adeir) 
-which in <em>gematria</em> is numerically equivalent to [the divine name] Shadai,[foot]The numerical equivalence of מעד״ר and שד״י is 314[/foot]
+I hereby take this hoe (<em>ma’ader</em>) 
+which in <em>gematria</em> is equal to [the divine name] Shadai,[foot]The numerical equivalence of מעד״ר and שד״י is 314[/foot]
 to eliminate all thorns and thistles,[foot]Genesis 3:18, Genesis 5:29 (and Rashi on Genesis 5:29.1). This is also a textual reference to a phrase found in other post-Lurianic prayers, for example this from the prayer read prior to reading the Sefer Tehilim:
-"ותהא קריאת מזמורי תהלים רצויה לפניך לזמר עריצים ולהכרית כל החוחים והקוצים הסובבים השושנה העליונה. ולחבר אשת נעורים עם דודה באהבה ואחוה שלום וְרֵעוּת". (מתוך היהי רצון שאומרים קודם תהלים)[/foot]
-and to till with it all the [divine holy] sparks (nitsotsim) from within our soil, 
+"ותהא קריאת מזמורי תהלים רצויה לפניך לזמר עריצים ולהכרית כל החוחים והקוצים הסובבים השושנה העליונה. ולחבר אשת נעורים עם דודה באהבה ואחוה שלום וְרֵעוּת". (מתוך היהי רצון שאומרים קודם תהלים)[/foot]&nbsp;
+and to till with it all the [divine holy] sparks (<em>nitsotsim</em>) 
+from within our soil, 
 the holy soil. 
 </div></td></tr>
 
@@ -116,7 +118,7 @@ According to the obituary written by A. Sharabi and printed in HaTsefah on 20 Fe
 
 </blockquote>
 
-If you know more about this prayer or its author, please let us know in the comments (or <a href="https://opensiddur.org/contact/">contact us</a>). 
+If you know more about this prayer or its author, please let us know in the comments (or <a href="https://opensiddur.org/contact/">contact us</a>).
 
 <h3>Source</h3>
 

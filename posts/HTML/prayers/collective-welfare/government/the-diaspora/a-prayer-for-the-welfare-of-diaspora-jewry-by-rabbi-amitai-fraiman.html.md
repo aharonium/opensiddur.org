@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: תפילה לשלום התפוצה היהודית | A Prayer for the Welfare of Diaspora Jewry, by Rabbi Amitai Fraiman<br />
+Title: תפילה לשלום התפוצה היהודית | A Prayer for the Welfare of Diaspora Jewry, by Rabbi Amitai Fraiman (2018)<br />
 Primary contributor: amitaif<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=22554">http://opensiddur.org/?p=22554</a>
 <p />

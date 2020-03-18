@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: עלינו | Aleinu, attributed to Abba Arikha (early 3rd cent.), translated by Rabbi Zalman Schachter-Shalomi<br />
+Title: עָלֵינוּ | Aleinu, attributed to Abba Arikha (early 3rd cent.), translated by Rabbi Zalman Schachter-Shalomi<br />
 Primary contributor: zalman.schachter-shalomi<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=20891">http://opensiddur.org/?p=20891</a>
 <p />
@@ -156,6 +156,12 @@ Concerning the attribution of Aleinu, Seth Winberg <a href="https://www.myjewish
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/SiddurTehillatHaShemYedaberPiWeekdaySiddur#page/n47/mode/2up"]
 
+&nbsp;
 
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/sidurtehilashashemforweekdaysandshabbosmerkoslinyonaichinuch1953#page/n84/mode/2up"]
+
+<hr />
+
+&nbsp;
 </body>
 </html>

@@ -1,12 +1,11 @@
 <html>
 <head></head>
 <body>
-Title: אשת חיל | Eyshet Ḥayil (Proverbs 31:10-31) For an Accomplished Woman, translated by Rabbi Zalman Schachter-Shalomi<br />
+Title: אֵשֶׁת חַיִל | Éshet Ḥayil (Proverbs 31:10-31) For an Accomplished Woman, translated by Rabbi Zalman Schachter-Shalomi<br />
 Primary contributor: zalman.schachter-shalomi<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=9758">http://opensiddur.org/?p=9758</a>
 <p />
 <hr />
-
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
@@ -170,11 +169,16 @@ How you are in God awareness, that is worth extolling!
 for your fame deserves to be widely acknowledged.
 </td></tr></tbody></table>
 
-
-
-
 <hr />
+
 We are grateful to Gabbai Seth Fishman for his transcription of Reb Zalman's translation of Eyshet Hayil, originally posted at his website, <a href="http://www.jewishrenewalhasidus.org/wordpress/reb-zalman-resources/">Jewish Renewal Hasidus</a>.
 
+<h3>Source(s)</h3>
+
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/sidurtehilashashemforweekdaysandshabbosmerkoslinyonaichinuch1953#page/n144/mode/2up"]
+
+<hr />
+
+&nbsp;
 </body>
 </html>

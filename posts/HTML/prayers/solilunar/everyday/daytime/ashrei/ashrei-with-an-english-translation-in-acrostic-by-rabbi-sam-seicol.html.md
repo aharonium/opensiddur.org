@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: אשרי | Ashrei (Psalms 145), in an adapted translation by Rabbi Sam Seicol<br />
+Title: אַשְׁרֵי יוֹשְׁבֵי בֵיתֶךָ | Ashrei Yoshvei Veitekha (Psalms 145), an Abridged Alphabetical English translation by Rabbi Sam Seicol<br />
 Primary contributor: sam.seicol<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=16515">http://opensiddur.org/?p=16515</a>
 <p />
@@ -13,7 +13,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tr>
 <td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
-אַשְׁרֵי יוֹשְׁבֵי בֵיתֶךָ עוֹד יְהַלְלוּךָ סֶּלָה׃ <span class="citation">(תהלים פד:ה)</span>
+אַ֭שְׁרֵי יוֹשְׁבֵ֣י בֵיתֶ֑ךָ ע֝֗וֹד יְֽהַלְל֥וּךָ סֶּֽלָה <span class="citation">(תהלים פד:ה)</span>
 </span></div>
 </td>
  
@@ -28,7 +28,7 @@ Happy are those who sit in Your house, they will continue praising You. Selah![
 <td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
 אַשְׁרֵ֣י הָ֭עָם שֶׁכָּ֣כָה לּ֑וֹ אַֽשְׁרֵ֥י הָ֝עָ֗ם שֶׁיֲהוָ֥ה אֱלֹהָֽיו׃ <span class="citation">(תהלים קמד:טו)</span>
-    </span></div>
+</span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">

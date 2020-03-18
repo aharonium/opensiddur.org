@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: The Seder Tefillah for Shabbat and Yom Tov of Kehillat Kol Haneshama, Jerusalem (2009)<br />
+Title: The Seder Tefillah for Shabbat and Yom Tov of Kehillat Kol Haneshama, Jerusalem (2007)<br />
 Primary contributor: levi.weiman-kelman<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=12061">http://opensiddur.org/?p=12061</a>
 <p />
@@ -11,19 +11,169 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/SiddurHaAvodahSheBaLevLShabbatKehilatKolHaneshama2007#page/n0/mode/2up"]
 
-<div class="liturgy" style="text-align: right;">
-[su_tabs]
-  [su_tab title="Kabbalat Shabbat"]
+&nbsp;
+
+<hr />
+
+<table style="margin-left: auto;margin-right: auto;" class="draggable">
+<thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
+<tbody>
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
+התפילה בקהילת כל הנשמה
+&nbsp;
+תפילה היא לא לצורך בידור. תפילה היא משמעת כמו מוסיקה, ריצה או מדיטאציה. אם באתם לצפות - תשתעממו.
+</span></div>
+</td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+PRAYER AT KOL HANESHAMA
+&nbsp;
+Prayer is not entertainment. Prayer is a discipline, like music, running or meditation. If you are here to observe, you will be bored.
+</div>
+</td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="commentary"><span lang="he">
+אנו משווים את תפילתנו ללהקת ג'אז. לפעמים זה נשמע שכל אחד "מנגן ניגון" אישי שונה בעוצמה או בקצב משלו (ואחרים אינם משמיעים קול בכלל), ולפעמים כולם שרים בהרמוניה יפה.
+</span></div>
+</td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+Praying is like playing jazz. The more you pray, the richer your prayer becomes. Musicians improvise on a set of musical themes; they can play together in harmony one moment and in the next, they each play at their own rhythm, at their own volume. Sometimes we all pray in harmony, other times we each pray at our own rhythm and our own volume.
+</div>
+</td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="commentary"><span lang="he">
+הסידור הוא מסגרת; כמו דף תווים שעומד לפני המנגן.
+אם אתם בוחרים להשתמש במילים אלו דעו, כי אם הנכם קוראים את התפילות אינכם מתפללים. יש להגיע ליחסי גומלין בין המתפלל לתפילה ובין המתפלל למתפללים האחרים.
+</span></div>
+</td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+The siddur is a framework, like the page of notes for the jazz player. If you choose to use these words, know that you are not praying if you only read the prayers. One should try to reach a proper balance between the pray-er and the prayer, and between the pray-er and other pray-ers.
+</div>
+</td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="commentary"><span lang="he">
+דעו, כי לפי המסורת, התפילה כוללת גם ניגונים וגם שתיקה. נא להרפות מכל מתח. כולנו באים ברגשות מעורבים לבית הכנסת. אנחנו מודעים לתחושותינו בעת התפילה, לא בורחים מהן. אנו נותנים לרגשות להשפיע על התפילה ולתפילה להשפיע על הרגשות.
+</span></div>
+</td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+Know that according to tradition, praying includes both music and silence. Try to relax from all tension. We all come to synagogue with mixed feelings. We are aware of these feelings in prayer - we do not try to escape from them. We let our feelings influence our prayers and our prayers influence our feelings.
+</div>
+</td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="commentary"><span lang="he">
+אם את/ה לא מכיר/ה היטב את הסידור, די שתמצא מילים שתרגיש איתן בנוח. כמעט לכל מילה בסידור יש אסוציאציות מהתנ"ך, התלמוד, המדרש או הקבלה והספרות.
+</span></div>
+</td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+If you do not know the siddur well, start by trying to find words with which you feel comfortable. In almost every word in the Siddur we can find associations from the Torah, Talmud, Midrash, Kabbalah and modern literature. The more you are tuned into these connections, the richer the prayer can be.
+</div>
+</td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="commentary"><span lang="he">
+נא לזכור ש"הלהקה" הזאת נפגשת בכל שבוע, ואנו מתרגלים את תפילתנו. יכול להיות שהמילים או הניגונים לא מוכרים לך. כל משמעת קשה בהתחלה, אבל ההרגל מאפשר לך להרגיש חופשי יותר.
+</span></div>
+</td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+The band meets, at least, every week. It could well be that the words or melodies are not familiar to you. Remember, any discipline is difficult at the beginning and practice enables you to feel free.
+</div>
+</td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="commentary"><span lang="he">
+הרב לוי וימן-קלמן
+</span></div>
+</td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+Rabbi Levi Weiman-Kelman
+</div>
+</td></tr></tbody></table>
+
 <table style="margin-left: auto;margin-right: auto;"><tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
-משיר השירים 
+<div class="commentary"><span lang="he">
+סִדּוּר "הָעֲבוֹדָה שֶׁבַּלֵּב," מַהֲדוּרָה מְחֻדֶּשֶׁת, 
+קְהִילַת "כָּל הַנְּשָׁמָה" – יְרוּשָׁלַיִם
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+A new edition of the Prayerbook - Siddur, "HaAvodah SheBaLev" – the Service of the Heart, 
+Kehilat Kol HaNeshama, Jerusalem, 2007.
+</div>
+</td></tr>
 
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="commentary"><span lang="he">
+וועדת עריכה:  הָרָב לֵוִי וַיימָן־קַלְמָן, הרב מעין טורנר ושאול ורדי.
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+Editorial Committee: Rabbi Levi Weiman-Kelman, Rabbi Ma'ayan Turner and Shaul Vardi.
+</div>
+</td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="commentary"><span lang="he">
+נֹסַח "הָעֲבוֹדָה שֶׁבַּלֵּב," 
+עפ"י סִדּוּר הַתְּנוּעָה לְיַהֲדוּת מִתְקַדֶּמֶת בְּיִשְׂרָאֵל
+יו"ר הַוַּעֲדָה: הָרַב יְהוֹרָם מָזוֹר
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+This Siddur is based on "HaAvodah SheBalev", 
+the Prayerbook of the Israel Movement for Progressive Judaism.
+Editorial Chair: Rabbi Yehoram Mazor
+Original English edition by Kehilat Har-El, Jerusalem
+Editors: Adina Ben-Chorin, Calman Rosen, and Vivian Singer
+</div>
+</td></tr>
+</tbody></table>
+
+<h3>INDEX</h3>
+
+[su_tabs]
+  [su_tab title="Kabbalat Shabbat"]
+<table style="margin-left: auto;margin-right: auto;" class="draggable">
+<thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
+<tbody>
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
+משיר השירים 
+&nbsp;
 דּוֹדִי לִי וַאֲנִי לוֹ הָרֹעֶה בַּשּׁוֹשַׁנִּים. 
 מִי זֹאת עֹלָה מִן־הַמִּדְבָּר מְקֻטֶּרֶת מֹר וּלְבוֹנָה. 
 לִבַּבְתִּנִי אֲחֹתִי כַלָּה. 
 עוּרִי צָפוֹן וּבוֹאִי תֵימָן.
-
+&nbsp;
 קוֹל דּוֹדִי הִנֵּה־זֶה בָּא. 
 מְדַלֵּג עַל־הֶהָרִים מְקַפֵּץ עַל־הַגְּבָעוֹת. 
 הַשְׁמִיעִנִי אֶת־קוֹלֵךְ כִּי־קוֹלֵךְ עָרֵב וּמַרְאֵיךְ נָאוֶה.
@@ -33,13 +183,13 @@ For attribution and license, please consult the following URL: <a href="http://o
 <td style="vertical-align:top;" width="53%">
 <div class="english">
 From Song of Songs
-
+&nbsp;
 My beloved is for me and I am for my beloved 
 My beloved browses among the lilies. 
 Who is that coming out of the wilderness 
 Perfumed with myrrh and frankincense? 
 You have captured my heart, my sister-bride 
-
+&nbsp;
 Wake up North wind, come South wind!
 Here comes my beloved’s voice, skipping over mountains, jumping over hills.
 Let me hear your voice, your voice is pleasing, you look so beautiful!
@@ -49,86 +199,21 @@ Let me hear your voice, your voice is pleasing, you look so beautiful!
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
-ידיד נפש
-
-  <strong>יְ</strong>דִיד נֶפֶשׁ אָב הָרַחֲמָן,    מְשֹׁךְ עַבְדָּךְ אֶל רְצוֹנָךְ,
-          יָרוּץ עַבְדָּךְ כְּמוֹ אַיָּל,    יִשְׁתַּחֲוֶה מוּל הֲדָרָךְ,
-          כִּי יֶעֱרַב לוֹ יְדִידוּתָךְ,    מִנֹּפֶת צוּף וְכָל טַעַם.
+<a href="http://opensiddur.org/?p=30092">ידיד נפש</a>
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Yedid Nefesh 
-
-O most dearly beloved! O merciful father! 
-Draw me, your slave, toward your will; 
-your slave will run like a gazelle to prostrate himself before your splendor. 
-Your companionship will be as pleasing to him as honey and nectar and every good savor.
+<a href="http://opensiddur.org/?p=30092">Yedid Nefesh </a>
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
-<strong>הָ</strong>דוּר נָאֶה זִיו הָעוֹלָם,    נַפְשִׁי חוֹלַת אַהֲבָתָךְ,
-     אָנָּא אֵל נָא רְפָא נָא לָהּ,    בְּהַרְאוֹת לָהּ נֹעַם זִיוָךְ,
-   אָז תִּתְחַזֵּק וְתִתְרַפֵּא,    וְהָיְתָה לָךְ שִׁפְחַת עוֹלָם.
-</span></div>
-</td>
- 
-<td style="vertical-align:top;" width="53%">
-<div class="english">
-O most splendid! O light of the world! 
-My soul is ill from love of you. 
-Please, my God, please heal her by showing her the beauty of your light. 
-Then she will be strengthened, and she will be healed, and she will have eternal joy.
-</div>
-</td></tr>
-
-
-<tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
-<strong>וָ</strong>תִיק יֶהֱמוּ רַחֲמֶיךָ,   וְחוּסָה נָא עַל בֶּן אֲהוּבָךְ,
-    כִּי זֶה כַמֶּה נִכְסֹף נִכְסַף,    לִרְאוֹת בְּתִפְאֶרֶת עֻזָּךְ,
-  אָנָּא אֵלִי מַחֲמַד לִבִּי,    חוּשָׁה נָא וְאַל תִּתְעַלָּם.
-</span></div>
-</td>
- 
-<td style="vertical-align:top;" width="53%">
-<div class="english">
-O most faithful! Arouse your mercy! 
-Have pity on your beloved child, for how much how much! ­
-have I longed to gaze upon your mighty splendor. 
-This is my heart’s desire: have pity and do not disregard me.
-</div>
-</td></tr>
-
-
-<tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
-<strong>הִ</strong>גָּלֶה נָא וּפְרֹשׂ חָבִיב,    עָלַי אֶת סֻכַּת שְׁלוֹמֶךָ
-         תָּאִיר אֶרֶץ מִכְּבוֹדָךְ,    נָגִילָה וְנִשְׂמְחָה בָּךְ,
-         מַהֵר אָהוּב כִּי בָא מוֹעֵד,  וְחָנֵּנִי כִּימֵי עוֹלָם.
-
-ר' אלעזר אזכרי, מאה ה-16 
-</span></div>
-</td>
- 
-<td style="vertical-align:top;" width="53%">
-<div class="english">
-Be revealed, my beloved, 
-and spread the canopy of your peace over me. 
-Illumine the earth with your glory; we will rejoice and be glad in you. 
-Hurry, beloved, for the time has come. Be gracious to us for eternity.
-
-Eliezer ben Moses Azkri, Safed (1533-1600)
-</div>
-</td></tr>
-
-
-<tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+&nbsp;
+&nbsp;
 הַחַמָּה מֵרֹאשׁ הָאִילָנוֹת נִסְתַּלְּקָה -
 בּוֹאוּ וְנֵצֵא לִקְרַאת שַׁבָּת הַמַּלְכָּה.
 הִנֵּה הִיא יוֹרֶדֶת הַקְּדוֹשָׁה, הַבְּרוּכָה,
@@ -137,14 +222,14 @@ Eliezer ben Moses Azkri, Safed (1533-1600)
 בּוֹאִי, בּוֹאִי, הַמַּלְכָּה! 
 שָׁלוֹם עֲלֵיכֶם, מַלְאֲכֵי הַשָּׁלוֹם!
 
-ח"נ ביאליק,מאה ה-19-20 
+ח"נ ביאליק, מאה ה-19-20 
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-The Shabbat Queen 
-
+The Shabbat Queen (fourth stanza)
+&nbsp;
 The sun has already disappeared beyond the treetops.
 Come let us welcome the Shabbat Queen.
 She is already descending among us, holy and blessed,
@@ -153,590 +238,79 @@ Come, O Queen,
 Come, O Queen,
 Peace be unto you, O Angels of Peace.
 
-Ḥayyim Nachman Bialik (d. 1934)
-</div>
-</td></tr></tbody></table>
-
-
-<table style="margin-left: auto;margin-right: auto;"><tbody>
-<tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
-לְכוּ נְרַנְּנָה לַיהוה, נָרִיעָה לְצוּר יִשְׁעֵנוּ:
-נְקַדְּמָה פָנָיו בְּתוֹדָה, בִּזְמִרוֹת נָרִיעַ לוֹ:
-כִּי אֵל גָּדוֹל יהוה, וּמֶלֶךְ גָּדוֹל עַל־כָּל־אֱלֹהִים:
-אֲשֶׁר בְּיָדוֹ מֶחְקְרֵי־אָרֶץ, וְתוֹעֲפוֹת הָרִים לוֹ:
-אֲשֶׁר־לוֹ הַיָּם וְהוּא עָשָׂהוּ, וְיַבֶּשֶׁת יָדָיו יָצָרוּ:
-בֹּאוּ נִשְׁתַּחֲוֶה וְנִכְרָעָה, נִבְרְכָה לִפְנֵי־יהוה עֹשֵׂנוּ:
-כִּי הוּא אֱלֹהֵינוּ, וַאֲנַחְנוּ עַם מַרְעִיתוֹ וְצֹאן יָדו,
-הַיּוֹם אִם־בְּקֹלוֹ תִשְׁמָעוּ:
-אַל תַּקְשׁוּ לְבַבְכֶם כִּמְרִיבָה, כְּיוֹם מַסָּה בַּמִּדְבָּר:
-אֲשֶׁר נִסּוּנִי אֲבוֹתֵיכֶם, בְּחָנוּנִי גַּם־רָאוּ פָעֳלִי:
-אַרְבָּעִים שָׁנָה אָקוּט בְּדוֹר, וָאֹמַר עַם תֹּעֵי לֵבָב הֵם,
-וְהֵם לֹא יָדְעוּ דְרָכָי:
-אֲשֶׁר נִשְׁבַּעְתִּי בְאַפִּי, אִם־יְבֹאוּן אֶל־מְנוּחָתִי:
-</span></div>
-</td>
- 
-<td style="vertical-align:top;" width="53%">
-<div class="english">
-Psalms 95
-
-Come, let us sing to Adonai: 
-Let our song ring out to the rock of our salvation. 
-Let us come before God’s presence with thanksgiving; 
-Let us shout for joy to God; Adonai is a great God, a great ruler above all gods; 
-In whose hand are the depths of the earth and the heights of mountains;
-The sea is God’s, God made it; And God formed the land. 
-Come, let us bow down and bend the knee; 
-Let us kneel before Adonai our Maker; 
-For God is our God, and we are God’s people, God’s flock. 
-Today, if you would hearken to God’s voice! 
-Harden not your hearts as at Meribah, as in the day of Massah in the wilderness; 
-Your fathers tried Me, provoked Me, even though they saw My work. 
-Forty years I struggled with that generation. 
-I said: This people err in its heart, and they have not known My ways; 
-I swore in My wrath, that they should not enter into My resting place.
+Ḥayyim Naḥman Bialik (d. 1934)
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
-שִׁירוּ לַיהוה שִׁיר חָדָשׁ, שִׁירוּ לַיהוה כָּל הָאָרֶץ: שִׁירוּ לַיהוה בָּרְכוּ שְׁמוֹ, בַּשְּׂרוּ מִיּוֹם לְיוֹם יְשׁוּעָתוֹ: סַפְּרוּ בַגּוֹיִם כְּבוֹדוֹ, בְּכָל־הָעַמִּים נִפְלְאוֹתָיו: כִּי גָדוֹל יהוה וּמְהֻלָּל מְאֹד, נוֹרָא הוּא עַל־כָּל־אֱלֹהִים: כִּי כָּל־אֱלֹהֵי הָעַמִּים אֱלִילִים, וַיהוה שָׁמַיִם עָשָׂה: הוֹד־וְהָדָר לְפָנָיו, עֹז וְתִפְאֶרֶת בְּמִקְדָּשׁוֹ: הָבוּ לַיהוה מִשְׁפְּחוֹת עַמִּים, הָבוּ לַיהוה כָּבוֹד וָעֹז: הָבוּ לַיהוה כְּבוֹד שְׁמוֹ, שְׂאוּ־מִנְחָה וּבוֹאוּ לְחַצְרוֹתָיו: הִשְׁתַּחֲווּ לַיהוה בְּהַדְרַת־קֹדֶשׁ, חִילוּ מִפָּנָיו כָּל־הָאָרֶץ: אִמְרוּ בַגּוֹיִם יהוה מָלָךְ, אַף־תִּכּוֹן תֵּבֵל בַּל־תִּמּוֹט, יָדִין עַמִּים בְּמֵישָׁרִים: יִשְׂמְחוּ הַשָּׁמַיִם וְתָגֵל הָאָרֶץ, יִרְעַם הַיָּם וּמְלֹאוֹ: יַעֲלֹז שָׂדַי וְכָל־אֲשֶׁר־בּוֹ, אָז יְרַנְּנוּ כָּל־עֲצֵי־יָעַר: לִפְנֵי יהוה כִּי בָא, כִּי בָא לִשְׁפֹּט הָאָרֶץ, יִשְׁפֹּט תֵּבֵל בְּצֶדֶק וְעַמִּים בֶּאֱמוּנָתוֹ:
+<a href="http://opensiddur.org/?p=29994">תהלים צה</a>
+<a href="http://opensiddur.org/?p=30000">תהלים צו</a>
+<a href="http://opensiddur.org/?p=30003">תהלים צז</a>
+<a href="http://opensiddur.org/?p=30009">תהלים צח</a>
+<a href="http://opensiddur.org/?p=30011">תהלים צט</a>
+<a href="http://opensiddur.org/?p=30015">תהלים כט</a>
+<a href="http://opensiddur.org/?p=30075">לכה דודי</a>
+<a href="http://opensiddur.org/?p=30020">תהלים צב</a>
+<a href="http://opensiddur.org/?p=30024">תהלים צג</a>
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Psalms 96
-
-Sing a new song to Adonai; all the earth, sing to Adonai!
-Sing to Adonai, bless God’s name, tell of His power day after day. 
-Declare God’s glory among the nations, God’s wonders among the peoples. 
-For God is great, beyond all praise, 
-Awesome, far above the gods that are worshipped!
-All the other gods are merely idols:
-Adonai made the heavens. 
-Honor and beauty before God,
-Strength and splendor are in God’s sanctuary. 
-Give honor to Adonai, all races and peoples, give honor to Adonai For God’s glory and might. Give honor to Adonai 
-For the glory of God’s name; 
-Worship Adonai in the beauty of holiness. Let all the earth tremble at God’s presence. Declare to the nations:
-"Adonai reigns; now the world is secure and firmly based: 
-God will judge the peoples with integrity." 
-Let the heavens be glad and the earth rejoice; 
-Let the sea roar, and all that fills it. 
-Let the field and all its creatures exult; 
-Let the trees of the forest sing for joy before Adonai. 
-For God comes to rule the earth:
-God will rule the world with justice, and the peoples with divine truth.
+<a href="http://opensiddur.org/?p=29994">Psalms 95</a>
+<a href="http://opensiddur.org/?p=30000">Psalms 96</a>
+<a href="http://opensiddur.org/?p=30003">Psalms 97</a>
+<a href="http://opensiddur.org/?p=30009">Psalms 98</a>  
+<a href="http://opensiddur.org/?p=30011">Psalms 99</a>
+<a href="http://opensiddur.org/?p=30015">Psalms 29</a>    
+<a href="http://opensiddur.org/?p=30075">Lekhah Dodi </a>
+<a href="http://opensiddur.org/?p=30020">Psalms 92</a>
+<a href="http://opensiddur.org/?p=30024">Psalms 93</a>
 </div>
 </td></tr>
 
 
+
+
+
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
-יהוה מָלָךְ תָּגֵל הָאָרֶץ, יִשְׂמְחוּ אִיִים רַבִּים: עָנָן וַעֲרָפֶל סְבִיבָיו, צֶדֶק וּמִשְׁפָּט מְכוֹן כִּסְאוֹ: אֵשׁ לְפָנָיו תֵּלֵךְ, וּתְלַהֵט סָבִיב צָרָיו: הֵאִירוּ בְרָקָיו תֵּבֵל, רָאֲתָה וַתָּחֵל הָאָרֶץ: הָרִים כַּדּוֹנַג נָמַסּוּ מִלִּפְנֵי יהוה, מִלִּפְנֵי אֲדוֹן כָּל־הָאָרֶץ: הִגִּידוּ הַשָּׁמַיִם צִדְקוֹ, וְרָאוּ כָל־הָעַמִּים כְּבוֹדוֹ: יֵבֹשׁוּ כָּל־עֹבְדֵי פֶסֶל הַמִּתְהַלְלִים בָּאֱלִילִים, הִשְׁתַּחֲווּ־לוֹ כָּל אֱלֹהִים: שָׁמְעָה וַתִּשְׂמַח צִיּוֹן וַתָּגֵלְנָה בְּנוֹת יְהוּדָה, לְמַעַן מִשְׁפָּטֶיךָ יהוה: כִּי־אַתָּה יהוה עֶלְיוֹן עַל־כָּל־הָאָרֶץ, מְאֹד נַעֲלֵיתָ עַל־כָּל־אֱלֹהִים: אֹהֲבֵי יהוה שִׂנְאוּ רָע, שֹׁמֵר נַפְשׁוֹת חֲסִידָיו מִיַּד רְשָׁעִים יַצִּילֵם: אוֹר זָרֻעַ לַצַּדִּיק, וּלְיִשְׁרֵי־לֵב שִׂמְחָה: שִׂמְחוּ צַדִּיקִים בַּיהוה, וְהוֹדוּ לְזֵכֶר קָדְשׁוֹ:
+<a href="http://opensiddur.org/?p=30015">תהלים כז</a>
+<a href="http://opensiddur.org/?p=18296">ישעיה ס:א-ג, יט-כ</a>
+<a href="http://opensiddur.org/?p=30034">תהלים טו</a>
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Psalms 97
-
-God reigns: let the earth rejoice, the many nations be glad.
-Cloud and mist surround God,
-Right and justice are the foundation of God’s throne.
-The heavens tell of God’s righteousness, the peoples witness God’s glory.
-Idolaters are ashamed – let all who are worshipped bow before God!
-Zion hears and is glad,
-The cities of Judah rejoice over Your judgments Adonai. 
-For You, Adonai, are supreme over all the earth,
-You are exalted far above the gods that are worshipped. 
-Adonai loves those who hate evil!
-Light dawns for the righteous, gladness for the upright in heart. 
-Let the righteous rejoice in Adonai, and give thanks to God’s holy name.
+Throughout Elul and the Holidays of Tishrei: <a href="http://opensiddur.org/?p=30029">Psalms 27</a>
+Throughout Kislev and Ḥanukkah: <a href="http://opensiddur.org/?p=18296">Isaiah 60:1-3, 19-20</a>
+<a href="http://opensiddur.org/?p=30034">Psalms 15 </a>
 </div>
 </td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
-מִזְמוֹר שִׁירוּ לַיהוה שִׁיר חָדָשׁ כִּי־נִפְלָאוֹת עָשָׂה, הוֹשִׁיעָה־לּוֹ יְמִינוֹ וּזְרוֹעַ קָדְשׁוֹ: הוֹדִיעַ יהוה יְשׁוּעָתוֹ, לְעֵינֵי הַגּוֹיִם גִּלָּה צִדְקָתוֹ: זָכַר חַסְדּוֹ וֶאֱמוּנָתוֹ לְבֵית יִשְׂרָאֵל, רָאוּ כָל־אַפְסֵי־ אָרֶץ אֵת יְשׁוּעַת אֱלֹהֵינוּ: הָרִיעוּ לַיהוה כָּל־הָאָרֶץ, פִּצְחוּ וְרַנְּנוּ וְזַמֵּרוּ: זַמְּרוּ לַיהוה בְּכִנּוֹר, בְּכִנּוֹר וְקוֹל זִמְרָה: בַּחֲצֹצְרוֹת וְקוֹל שׁוֹפָר, הָרִיעוּ לִפְנֵי הַמֶּלֶךְ יהוה: יִרְעַם הַיָּם וּמְלֹאוֹ, תֵּבֵל וְיֹשְׁבֵי בָהּ: נְהָרוֹת יִמְחֲאוּ־כָף, יַחַד הָרִים יְרַנֵּנוּ: לִפְנֵי יהוה כִּי בָא לִשְׁפֹּט הָאָרֶץ, יִשְׁפֹּט־תֵּבֵל בְּצֶדֶק וְעַמִּים בְּמֵישָׁרִים:
-</span></div>
-</td>
- 
-<td style="vertical-align:top;" width="53%">
-<div class="english">
-Psalms 98  
-
-Sing a new song to Adonai, for God has done wonders. 
-God has made known power, God has revealed justice for all to see.
-God has remembered His love for Jacob,
-His faithfulness to Israel.
-All the ends of the earth have seen the power of God. 
-Let the earth ring out in song to God; 
-Break forth, sing aloud, shout praise! 
-Sound trumpet and horn before the Sovereign God. 
-Let the sea roar, and all that fills it; 
-The world and all that dwell there. Let the rivers clap hands!
-Let all the mountains sing for joy before God. 
-For God comes to rule the earth:
-God will rule the world with justice, and the peoples with integrity.
-</div>
-</td></tr>
-
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
-יהוה מָלָךְ יִרְגְּזוּ עַמִּים, ישֵׁב כְּרוּבִים תָּנוּט הָאָרֶץ: יהוה בְּצִיּוֹן גָּדוֹל, וְרָם הוּא עַל־כָּל־הָעַמִּים: יוֹדוּ שִׁמְךָ גָּדוֹל וְנוֹרָא, קָדוֹשׁ הוּא: וְעֹז מֶלֶךְ מִשְׁפָּט אָהֵב, אַתָּה כּוֹנַנְתָּ מֵישָׁרִים, מִשְׁפָּט וּצְדָקָה בְּיַעֲקֹב אַתָּה עָשִׂיתָ: רוֹמְמוּ יהוה אֱלֹהֵינוּ וְהִשְׁתַּחֲווּ לַהֲדֹם רַגְלָיו, קָדוֹשׁ הוּא: משֶׁה וְאַהֲרֹן בְּכֹהֲנָיו וּשְׁמוּאֵל בְּקֹרְאֵי שְׁמוֹ, קֹרִאים אֶל־יהוה וְהוּא יַעֲנֵם: בְּעַמּוּד עָנָן יְדַבֵּר אֲלֵיהֶם, שָׁמְרוּ עֵדוֹתָיו וְחֹק נָתַן לָמוֹ: יהוה אֱלֹהֵינוּ אַתָּה עֲנִיתָם, אֵל נֹשֵׂא הָיִיתָ לָהֶם, וְנֹקֵם עַל־עֲלִילוֹתָם: רוֹמְמוּ יהוה אֱלֹהֵינוּ וְהִשְׁתַּחֲווּ לְהַר קָדְשׁוֹ, כִּי קָדוֹשׁ יהוה אֱלֹהֵינוּ:
-</span></div>
-</td>
- 
-<td style="vertical-align:top;" width="53%">
-<div class="english">
-Psalms 99
-
-Adonai reigns; let the peoples tremble; 
-God is enthroned upon the cherubim; let the earth quake. 
-Adonai is great in Zion, high above all the peoples. 
-Let them praise Your name as great and awful. 
-God is Holy. 
-The strength also of the king that loves justice, 
-And has established equity.
-You have executed justice and righteousness in Jacob. 
-Exalt Adonai our God, and prostrate yourselves at His footstool; 
-God is Holy. 
-Moses and Aaron among God’s priests, 
-Samuel called God’s name, they called Adonai, and God answered them. 
-God spoke to them in the pillar of cloud; they kept God’s testimonies, and the statute that God gave them. 
-Adonai our God, You answered them: 
-You were a forgiving God to them, 
-You took vengeance for their misdeeds. 
-Exalt Adonai our God and worship at God’s holy mountain; 
-Adonai our God is holy.
-</div>
-</td></tr>
-
-
-<tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
-מִזְמוֹר לְדָוִד, הָבוּ לַיהוה בְּנֵי אֵלִים: הָבוּ לַיהוה כָּבוֹד וָעֹז: הָבוּ לַיהוה כְּבוֹד שְׁמוֹ, הִשְׁתַּחֲווּ לַיהוה בְּהַדְרַת קֹדֶשׁ: קוֹל יהוה עַל הַמָּיִם, אֵל הַכָּבוֹד הִרְעִים, יהוה עַל מַיִם רַבִּים: קוֹל יהוה בַּכֹּחַ: קוֹל יהוה בֶּהָדָר: קוֹל יהוה שֹׁבֵר אֲרָזִים, וַיְשַׁבֵּר יהוה אֶת אַרְזֵי הַלְּבָנוֹן: וַיַּרְקִידֵם כְּמוֹ עֵגֶל, לְבָנוֹן וְשִׂרְיוֹן כְּמוֹ בֶן רְאֵמִים: קוֹל יהוה חֹצֵב לַהֲבוֹת אֵשׁ: קוֹל יהוה יָחִיל מִדְבָּר, יָחִיל יהוה מִדְבַּר קָדֵשׁ: קוֹל יהוה יְחוֹלֵל אַיָּלוֹת, וַיֶּחֱשֹף יְעָרוֹת, וּבְהֵיכָלוֹ, כֻּלּוֹ אֹמֵר כָּבוֹד: יהוה לַמַּבּוּל יָשָׁב, וַיֵּשֶׁב יהוה מֶלֶךְ לְעוֹלָם: יהוה עֹז לְעַמּוֹ יִתֵּן, יהוה יְבָרֵךְ אֶת עַמּוֹ בַשָּׁלוֹם:
-</span></div>
-</td>
- 
-<td style="vertical-align:top;" width="53%">
-<div class="english">
-Psalms 29         
-
-A song of David.                                 
-Praise Adonai, all celestial beings, praise Adonai - glory and strength!      
-Praise Adonai, whose name is great; worship Adonai in the beauty of holiness. 
-Adonai's voice above the waters! The God of glory thunders!     
-Adonai's voice, with power - Adonai's voice, majestic.         
-Adonai's voice breaks cedars, Adonai shatters Lebanon's cedars,       
-Lebanon skips like a calf, Sirion like a wild young ox.        
-Adonai’s voice sparks fiery flames; Adonai’s voice makes the desert spin; Adonai’s voice shakes the Kadesh desert; Adonai’s voice uproots the oaks, and strips the forests bare, In God’s temple all cry: "Glory!"    
-Adonai enthroned above the flood, Adonai will reign forever. Adonai will give strength to His people, Adonai will bless His people with peace.
-</div>
-</td></tr>
-
-
-<tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
-לכה דודי
-(סימן: שלמה הלוי)
-</span></div>
-</td>
- 
-<td style="vertical-align:top;" width="53%">
-<div class="english">
-Lekha Dodi 
-(The Hebrew verses form the acrostic: Shlomo Halevy)
-</div>
-</td></tr>
-
-
-<tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
-לְכָה דוֹדִי לִקְרַאת כַּלָּה. פְּנֵי שַׁבָּת נְקַבְּלָה.
-לְכָה דוֹדִי לִקְרַאת כַּלָּה. פְּנֵי שַׁבָּת נְקַבְּלָה. 
-</span></div>
-</td>
- 
-<td style="vertical-align:top;" width="53%">
-<div class="english">
-Beloved, come to meet the bride – let us welcome Shabbat.
-</div>
-</td></tr>
-
-
-<tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
-שָׁמוֹר וְזָכוֹר בְּדִבּוּר אֶחָד 
-הִשְׁמִיעָנוּ אֵל הַמְיֻחָד,
-יהוה אֶחָד וּשְׁמוֹ אֶחָד 
-לְשֵׁם וּלְתִפְאֶרֶת וְלִתְהִלָּה. 
-לְכָה דוֹדִי לִקְרַאת כַּלָּה. פְּנֵי שַׁבָּת נְקַבְּלָה.
-</span></div>
-</td>
- 
-<td style="vertical-align:top;" width="53%">
-<div class="english">
-“Keep” and “remember” in a single utterance,
-The one God caused us to hear. 
-Adonai is One, God’s name is One; 
-For honor and glory and praise.
-</div>
-</td></tr>
-
-
-<tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
-לִקְרַאת שַׁבָּת לְכוּ וְנֵלְכָה, 
-כִּי הִיא מְקוֹר הַבְּרָכָה, 
-מֵרֹאשׁ מִקֶּדֶם נְסוּכָה, 
-סוֹף מַעֲשֶׂה בְּמַחֲשָׁבָה תְּחִלָּה. 
-לְכָה דוֹדִי לִקְרַאת כַּלָּה. פְּנֵי שַׁבָּת נְקַבְּלָה.
-</span></div>
-</td>
- 
-<td style="vertical-align:top;" width="53%">
-<div class="english">
-Let us go to meet Shabbat,                       
-For it is the source of blessing.                            
-Cast from the earliest time,
-Last created, first imagined.
-</div>
-</td></tr>
-
-
-<tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
-מִקְדַּשׁ מֶלֶךְ עִיר מְלוּכָה, 
-קוּמִי צְאִי מִתּוֹךְ הַהֲפֵכָה
-רַב לָךְ שֶׁבֶת בְּעֵמֶק הַבָּכָא 
-וְהוּא יַחֲמֹל עָלַיִךְ חֶמְלָה. 
-לְכָה דוֹדִי לִקְרַאת כַּלָּה. פְּנֵי שַׁבָּת נְקַבְּלָה.
-</span></div>
-</td>
- 
-<td style="vertical-align:top;" width="53%">
-<div class="english">
-Royal shrine, city of kings                         
-Rise up and leave your ravaged state.                    
-You have dwelt long enough in the valley of tears             
-Now God will take pity on you.
-</div>
-</td></tr>
-
-
-<tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
-הִתְנַעֲרִי מֵעָפָר קוּמִי, 
-לִבְשִׁי בִּגְדֵי תִפְאַרְתֵּךְ עַמִּי, 
-עַל יַד בֶּן יִשַׁי בֵּית הַלַּחְמִי 
-קָרְבָה אֶל נַפְשִׁי גְאָלָהּ.
-לְכָה דוֹדִי לִקְרַאת כַּלָּה. פְּנֵי שַׁבָּת נְקַבְּלָה.
-</span></div>
-</td>
- 
-<td style="vertical-align:top;" width="53%">
-<div class="english">
-Lift yourself up! Shake off the dust!
-My people, array yourself in beautiful garments!
-Through Jesse’s son of Bethlehem, 
-My soul’s deliverance draws near.
-</div>
-</td></tr>
-
-
-<tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
-הִתְעוֹרְרִי הִתְעוֹרְרִי 
-כִּי בָא אוֹרֵךְ קוּמִי אוֹרִי, 
-עוּרִי עוּרִי שִׁיר דַּבֵּרִי, 
-כְּבוֹד יהוה עָלַיִךְ נִגְלָה.
-לְכָה דוֹדִי לִקְרַאת כַּלָּה. פְּנֵי שַׁבָּת נְקַבְּלָה.
-</span></div>
-</td>
- 
-<td style="vertical-align:top;" width="53%">
-<div class="english">
-Awake, awake, Your light has come!
-Arise, shine,
-Wake up and sing: 
-Adonai's glory dawns upon you.
-</div>
-</td></tr>
-
-
-<tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
-לֹא תֵבוֹשִׁי וְלֹא תִכָּלְמִי, 
-מַה תִּשְׁתּוֹחֲחִי וּמַה תֶּהֱמִי, 
-בָּךְ יֶחֱסוּ עֲנִיֵי עַמִּי, 
-וְנִבְנְתָה עִיר עַל תִּלָּהּ. 
-לְכָה דוֹדִי לִקְרַאת כַּלָּה. פְּנֵי שַׁבָּת נְקַבְּלָה.
-</span></div>
-</td>
- 
-<td style="vertical-align:top;" width="53%">
-<div class="english">
-An end to shame and degradation;
-Forget your sorrow; quiet your groans.
-The poor of my people find shelter in you,
-And a city is built on its ancient ruins.
-</div>
-</td></tr>
-
-
-<tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
-וְהָיוּ לִמְשִׁסָה שֹׁאסָיִךְ, 
-וְרָחֲקוּ כָּל מְבַלְּעָיִךְ 
-יָשִׂישׂ עָלַיִךְ אֱלֹהָיִךְ 
-כִּמְשׂוֹשׂ חָתָן עַל כַּלָּה. 
-לְכָה דוֹדִי לִקְרַאת כַּלָּה. פְּנֵי שַׁבָּת נְקַבְּלָה.
-</span></div>
-</td>
- 
-<td style="vertical-align:top;" width="53%">
-<div class="english">
-The scavengers are scattered, 
-Your devourers have fled;
-Your God will take joy in you.
-As a bridegroom rejoices in his bride, 
-</div>
-</td></tr>
-
-
-<tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
-יָמִין וּשְׂמֹאל תִּפְרֹצִי, 
-וְאֶת יהוה תַּעֲרִיצִי
-עַל יַד אִישׁ בֶּן פַּרְצִי 
-וְנִשְׂמְחָה וְנָגִילָה. 
-לְכָה דוֹדִי לִקְרַאת כַּלָּה. פְּנֵי שַׁבָּת נְקַבְּלָה.
-</span></div>
-</td>
- 
-<td style="vertical-align:top;" width="53%">
-<div class="english">
-Burst out to the left and to the right                
-Adore Adonai                          
-Through the son of Peretz                       
-We will exalt, we will sing for joy!
-</div>
-</td></tr>
-
-
-<tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
-(נוהגים לפנות לעבר הדלת לקבל פני שבת המלכה)
-
-בּוֹאִי בְשָׁלוֹם עֲטֶרֶת בַּעְלָהּ 
-גַּם בְּשִׂמְחָה וּבְצָהֳלָה 
-תּוֹךְ אֱמוּנֵי עַם סְגֻלָּה, 
-בּוֹאִי כַלָּה. בּוֹאִי כַלָּה. 
-לְכָה דוֹדִי לִקְרַאת כַּלָּה. פְּנֵי שַׁבָּת נְקַבְּלָה.
-
-ר' שלמה הלוי אלקבץ מאה ה-16
-</span></div>
-</td>
- 
-<td style="vertical-align:top;" width="53%">
-<div class="english">
-(It is customary at this point to rise and face the entrance.)
-
-Enter in peace, crown of God; 
-Enter in gladness, enter in joy.
-Come to your cherished faithful people 
-Enter, O bride! Enter, O bride!
-
-R. Shlomo HaLevi Al-Qabetz (ca.1500-1580)
-</div>
-</td></tr>
-
-
-<tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
-מִזְמוֹר שִׁיר לְיוֹם הַשַּׁבָּת:
-טוֹב לְהֹדוֹת לַיהוה, וּלְזַמֵּר לְשִׁמְךָ עֶלְיוֹן:
-לְהַגִּיד בַּבּוֹקֶר חַסְדֶּךָ, וֶאֱמוּנָתְךָ בַּלֵּילוֹת:
-עֲלֵי־עָשֹוֹר וַעֲלֵי־נָבֶל, עֲלֵי הִגָּיוֹן בְּכִנּוֹר:
-כִּי שִׂמַּחְתַּנִי יהוה בְּפָעֳלֶךָ, בְּמַעֲשֵׂי יָדֶיךָ אֲרַנֵּן:
-מַה־גָּדְלוּ מַעֲשֶׂיךָ יהוה, מְאֹד עָמְקוּ מַחְשְׁבֹתֶיךָ:
-אִישׁ בַּעַר לֹא יֵדָע, וּכְסִיל לֹא־יָבִין אֶת זֹאת: 
-בִּפְרֹחַ רְשָׁעִים כְּמוֹ עֵשֶׂב, 
-וַיָּצִיצוּ כָּל־פֹּעֲלֵי אָוֶן, לְהִשָּׁמְדָם עֲדֵי עַד: 
-וְאַתָּה מָרוֹם לְעוֹלָם יהוה: 
-כִּי־הִנֵּה אֹיְבֶיךָ יהוה, כִּי הִנֵּה אֹיְבֶיךָ יֹאבֵדוּ, 
-יִתְפָּרְדוּ כָּל־פֹּעֲלֵי אָוֶן: 
-וַתָּרֶם כִּרְאֵים קַרְנִי, בַּלֹּתִי בְּשֶׁמֶן רַעֲנָן: 
-וַתַּבֵּט עֵינִי בְּשׁוּרָי, בַּקָּמִים עָלַי מְרֵעִים תִּשְׁמַעְנָה אָזְנָי:
-צַדִּיק כַּתָּמָר יִפְרָח, כְּאֶרֶז בַּלְּבָנוֹן יִשְׂגֶּה:
-שְׁתוּלִים בְּבֵית יהוה, בְּחַצְרוֹת אֱלֹהֵינוּ יַפְרִיחוּ:
-עוֹד יְנוּבוּן בְּשֵׂיבָה, דְּשֵׁנִים וְרַעֲנַנִּים יִהְיוּ:
-לְהַגִּיד כִּי־יָשָׁר יהוה, צוּרִי וְלֹא עַוְלָתָה בּוֹ:
-</span></div>
-</td>
- 
-<td style="vertical-align:top;" width="53%">
-<div class="english">
-A Song for the Shabbat Day.
-It is good to give thanks to Adonai,
-To sing to Your name, Most High! 
-To tell of Your compassion in the morning, 
-Your faithfulness in the nights; 
-On strings, on the lute, on the harp and violin. 
-Your deeds are so great, Adonai, Your thoughts are so deep.
-The fool will never learn, the dullard never grasp this: 
-The wicked flourish like grass, all who do evil may blossom, 
-Yet they are doomed to destruction, 
-You, Adonai, are exalted for all time.
-See how Your enemies, Adonai, see how Your enemies shall perish, 
-All who do evil shall be scattered. 
-You lift up my head in pride, 
-I am bathed in freshening oil. 
-I shall see the defeat of my foes,
-I shall hear of their fall.
-The righteous shall flourish like palms, 
-Grow tall like cedars in Lebanon. 
-Rooted in the house of Adonai, 
-They shall be forever fresh and green, 
-Proclaiming that Adonai is just, 
-My Rock, in whom there is no wrong.
-</div>
-</td></tr>
-
-
-<tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
-יהוה מָלָךְ גֵּאוּת לָבֵשׁ, לָבֵשׁ יהוה עֹז הִתְאַזָּר, אַף־תִּכּוֹן תֵּבֵל בַּל תִּמּוֹט: נָכוֹן כִּסְאֲךָ מֵאָז, מֵעוֹלָם אָתָּה: נָשְׂאוּ נְהָרוֹת יהוה, נָשְׂאוּ נְהָרוֹת קוֹלָם, יִשְׂאוּ נְהָרוֹת דָּכְיָם: מִקֹּלוֹת מַיִם רַבִּים, אַדִּירִים מִשְׁבְּרֵי־יָם, אַדִּיר בַּמָּרוֹם יהוה: עֵדֹתֶיךָ נֶאֶמְנוּ מְאֹד, לְבֵיתְךָ נָאֲוָה־קֹדֶשׁ, יהוה לְאֹרֶךְ יָמִים:
-</span></div>
-</td>
- 
-<td style="vertical-align:top;" width="53%">
-<div class="english">
-Psalm 93	
-
-Adonai is enthroned, robed in grandeur;
-Adonai is robed, girded with strength. 
-God founded the solid earth to be unmoving. 
-Ageless is Your throne, endless Your being.
-Great waters cry out, great breakers of the sea, 
-Adonai’s majesty on high! 
-Your law stands firm; Your temple pleasing holiness 
-Adonai until the end of time!
-</div>
-</td></tr>
-
-
-<tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
-לְדָוִד יהוה אוֹרִי וְיִשְׁעִי, מִמִּי אִירָא, יהוה מָעוֹז חַיָי מִמִּי אֶפְחָד:
-בִּקְרֹב עָלַי מְרֵעִים לֶאֱכֹל אֶת בְּשָׂרִי, צָרַי וְאֹיְבַי לִי, הֵמָּה כָשְׁלוּ וְנָפָלוּ: אִם תַּחֲנֶה עָלַי מַחֲנֶה לֹא יִירָא לִבִּי, אִם תָּקוּם עָלַי מִלְחָמָה בְּזֹאת אֲנִי בוֹטֵחַ:
-אַחַת שָׁאַלְתִּי מֵאֵת יהוה אוֹתָהּ אֲבַקֵּשׁ, שִׁבְתִּי בְּבֵית יהוה כָּל יְמֵי חַיָי, לַחֲזוֹת בְּנֹעַם יהוה וּלְבַקֵּר בְּהֵיכָלוֹ:
-כִּי יִצְפְּנֵנִי בְּסֻכֹּה בְּיוֹם רָעָה, יַסְתִּרֵנִי בְּסֵתֶר אָהֳלוֹ בְּצוּר יְרוֹמְמֵנִי: וְעַתָּה יָרוּם רֹאשִׁי עַל אֹיְבַי סְבִיבוֹתַי, וְאֶזְבְּחָה בְאָהֳלוֹ זִבְחֵי תְרוּעָה, אָשִׁירָה וַאֲזַמְּרָה לַיהוה:
-שְׁמַע יהוה קוֹלִי אֶקְרָא, וְחָנֵּנִי וַעֲנֵנִי:
-לְךָ אָמַר לִבִּי בַּקְּשׁוּ פָנָי, אֶת פָּנֶיךָ יהוה אֲבַקֵּשׁ:
-אַל תַּסְתֵּר פָּנֶיךָ מִמֶּנִּי, אַל תַּט בְּאַף עַבְדֶּךָ, עֶזְרָתִי הָיִיתָ, אַל תִּטְּשֵׁנִי וְאַל תַּעַזְבֵנִי אֱלֹהֵי יִשְׁעִי:
-כִּי אָבִי וְאִמִּי עֲזָבוּנִי וַיהוה יַאַסְפֵנִי: הוֹרֵנִי יהוה דַּרְכֶּךָ וּנְחֵנִי בְּאֹרַח מִישׁוֹר לְמַעַן שׁוֹרְרָי: אַל תִּתְּנֵנִי בְּנֶפֶשׁ צָרָי, כִּי קָמוּ בִי עֵדֵי שֶׁקֶר וִיפֵחַ חָמָס: לוּלֵא הֶאֱמַנְתִּי לִרְאוֹת בְּטוּב יהוה בְּאֶרֶץ חַיִים:
-קַוֵּה אֶל יהוה חֲזַק וְיַאֲמֵץ לִבֶּךָ וְקַוֵּה אֶל יהוה:
-</span></div>
-</td>
- 
-<td style="vertical-align:top;" width="53%">
-<div class="english">
-Throughout Elul and the Holidays of Tishrei
-
-Psalms 27
-
-Adonai is my light and my help; whom shall I fear.
-Adonai is the stronghold of my life; whom should I dread?
-When evildoers draw near to devour me, foes threaten 
-Yet they stumble and fall. Though armies are arrayed against me, I do not fear, 
-I may face war but in this I am sure:
-One thing I ask of Adonai, I seek this:
-To live in the house of Adonai my whole life,
-To gaze on the beauty of Adonai, to visit God's sanctuary.
-God will shelter me on the bad day, protected in God's tents 
-Or raised on God's rock. Now God will raise my head over my enemies; 
-I will bring offerings, shouting , singing to Adonai.
-Hear, O Adonai, when I cry out; nurture me, answer me 
-My heart says - "seek God." I seek You!
-Don't hide from me, don't dismiss Your servant angrily; 
-You have always been my help.
-Don't desert me! Don't abandon me! God, my deliverer!
-Though my father and mother have abandoned me, Adonai gathers me in:
-Teach me Your way,. Guide me on the right path, to confound my oppressors. 
-Don't abandon me to my foes; false witnesses oppose me, they breathe lies!
-Look to Adonai - be strong! Have courage! Look to Adonai.
-</div>
-</td></tr>
-
-
-<tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
-קוּמִי אוֹרִי כִּי בָא אוֹרֵךְ וּכְבוֹד יהוה עָלַיִךְ זָרָח: כִּי הִנֵּה הַחֹשֶׁךְ יְכַסֶּה אֶרֶץ וַעֲרָפֶל לְאֻמִּים, וְעָלַיִךְ יִזְרַח יהוה וּכְבוֹדוֹ עָלַיִךְ יֵרָאֶה: וְהָלְכוּ גוֹיִם לְאוֹרֵךְ וּמְלָכִים לְנֹגַהּ זַרְחֵךְ: ...לֹא יִהְיֶה־לָּךְ עוֹד הַשֶּׁמֶשׁ לְאוֹר יוֹמָם וּלְנֹגַהּ הַיָּרֵחַ לֹא יָאִיר לָךְ, וְהָיָה לָךְ יהוה לְאוֹר עוֹלָם וֵאלֹהַיִךְ לְתִפְאַרְתֵּךְ: לֹא יָבוֹא עוֹד שִׁמְשֵׁךְ וִירֵחֵךְ לֹא יֵאָסֵף, כִּי יהוה יִהְיֶה־לָּךְ לְאוֹר עוֹלָם וְשָׁלְמוּ יְמֵי אֶבְלֵךְ:                                                       
-</span></div>
-</td>
- 
-<td style="vertical-align:top;" width="53%">
-<div class="english">
-Throughout Kislev and Hanukkah
-
-Arise and shine, for your light has come; Adonai's glory has shown on you!     
-Behold - darkness shall cover the earth, thick clouds cover the nations.     
-But Adonai will shine upon you, God's glory will be seen over you.     
-Nations will walk by your light, royalty by your radiance...          
-You will not need the sun for light by day, nor the moon for radiance; Adonai will be your everlasting light, your God shall be your glory.            
-Your sun will never set; your moon will not die; Adonai will be your light forever, Your days of mourning will end.
-From Isaiah 60
-</div>
-</td></tr>
-
-
-<tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
-מִזְמוֹר לְדָוִד. יהוה, מִי יָגוּר בְּאָהֳלֶךָ, מִי יִשְׁכֹּן בְּהַר קָדְשֶׁךָ: הוֹלֵךְ תָּמִים וּפֹעֵל צֶדֶק וְדֹבֵר אֱמֶת בִּלְבָבוֹ: לֹא־רָגַל עַל לְשֹׁנוֺ, לֹא־עָשָֹה לְרֵעֵהוּ רָעָה, וְחֶרְפָּה לֹא־נָשָֹא עַל קְרֹבוֹ: נִבְזֶה בְּעֵינָיו נִמְאָס וְאֶת־יִרְאֵי יהוה יְכַבֵּד, נִשְׁבַּע לְהָרַע וְלֹא יָמִר: כַּסְפּוֹ לֹא־נָתַן בְּנֶשֶׁךְ וְשֹׁחַד עַל־נָקִי לֹא לָקָח, עֹשֵׂה־ אֵלֶּה לֹא יִמּוֹט לְעוֹלם:
-</span></div>
-</td>
- 
-<td style="vertical-align:top;" width="53%">
-<div class="english">
-Psalm 15 
-
-A Song of David.                                  
-Adonai , who may live in Your house?
-Who may dwell on Your holy mountain? 
-Those who are upright; who do justly; 
-They speak the truth within their hearts. 
-They do not slander others, or wrong them, 
-Or bring shame upon them.
-They have contempt for the lawless, 
-And honor those who revere the Adonai 
-They give their word, and, do not retract. 
-They do not exploit others, they never take bribes. 
-Those who act this way shall never be shaken.
-</div>
-</td></tr>
-
-
-<tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+ישעיה נח:יג-יד
+&nbsp;
 אִם תָּשִׁיב מִשַּׁבָּת רַגְלֶךָ, עֲשׂוֹת חֲפָצֶיךָ בְּיוֹם קָדְשִׁי וְקָרָאתָ לַשַּׁבָּת עֹנֶג לִקְדוֹשׁ יהוה מְכֻבָּד, וְכִבַּדְתּוֹ מֵעֲשׂוֹת דְּרָכֶיךָ מִמְּצוֹא חֶפְצְךָ וְדַבֵּר דָּבָר: אָז תִּתְעַנַּג עַל יהוה וְהִרְכַּבְתִּיךָ עַל בָּמֳתֵי אָרֶץ, וְהַאֲכַלְתִּיךָ נַחֲלַת יַעֲקֹב אָבִיךָ, כִּי פִּי יהוה דִּבֵּר:                    
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Isaiah 58:13-14 
-
+Isaiah 58:13-14
+&nbsp;
 If you refrain from trampling the Shabbat, from pursuing your affairs on My holy day; if you call the Shabbat "delight," Adonai's day "honored"; and if you honor it and do not go about your usual ways nor look to your affairs, nor strike bargains - then you can seek the favor of Adonai. I will set you astride the heights of the earth, and let you enjoy the heritage of your father Jacob - for the mouth of Adonai has spoken.
 </div>
 </td></tr>
+
+
+
 
 
 <tr><td style="vertical-align:top;" width="46%">
@@ -756,62 +330,20 @@ I hereby take upon myself the mitzvah of the Creator: "and you shall love your f
 <table style="margin-left: auto;margin-right: auto;"><tbody>
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
-קריאת שמע וברכותיה
-
-ש"ץ בָּרְכוּ אֶת יהוה הַמְבֹרָךְ.
-קהל בָּרוּךְ יהוה הַמְבֹרָךְ לְעוֹלָם וָעֶד.
-ש"ץ בָּרוּךְ יהוה הַמְבֹרָךְ לְעוֹלָם וָעֶד.
+<a href="http://opensiddur.org/?p=30099">ברכו</a>
+<a href="http://opensiddur.org/?p=30111">הברכה הראשונה לפני קריאת שמע</a>
+<a href="http://opensiddur.org/?p=30115">הברכה השנייה  לפני קריאת שמע</a>
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-The Shema and Its blessings
-
-Praise Adonai to whom our praise is due!
-Barekhu et adonai ha-mevorakh!
-Praised be Adonai to whom our praise is due,
-now and forever!
-Barukh adonai ha-mevorakh le-`olam va-`ed!
+<a href="http://opensiddur.org/?p=30099">Barkhu</a>
+<a href="http://opensiddur.org/?p=30111">The Ma`ariv blessing, the first blessing before reading the Shema</a>
+<a href="http://opensiddur.org/?p=30115">The Ahavah blessing, the second blessing before reading the Shema</a>
 </div>
 </td></tr>
 
-
-<tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
-הברכה הראשונה לפני קריאת שמע
-
-בָּרוּךְ אַתָּה יהוה,  אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, אֲשֶׁר בִּדְבָרוֹ מַעֲרִיב עֲרָבִים, בְּחָכְמָה פּוֹתֵחַ שְׁעָרִים, וּבִתְבוּנָה מְשַׁנֶּה עִתִּים וּמַחֲלִיף אֶת הַזְּמַנִּים, וּמְסַדֵּר אֶת הַכּוֹכָבִים בְּמִשְׁמְרוֹתֵיהֶם בָּרָקִיעַ כִּרְצוֹנוֹ.
-בּוֹרֵא יוֹם וָלָיְלָה, גּוֹלֵל אוֹר מִפְּנֵי חשֶׁךְ וְחשֶׁךְ מִפְּנֵי אוֹר, וּמַעֲבִיר יוֹם וּמֵבִיא לָיְלָה, וּמַבְדִּיל בֵּין יוֹם וּבֵין לָיְלָה, יהוה צְבָאוֹת שְׁמוֹ. אֵל חַי וְקַיָּם תָּמִיד יִמְלוֹךְ עָלֵינוּ לְעוֹלָם וָעֶד. בָּרוּךְ אַתָּה יהוה, הַמַּעֲרִיב עֲרָבִים:
-</span></div>
-</td>
- 
-<td style="vertical-align:top;" width="53%">
-<div class="english">
-The Ma`ariv blessing, the first blessing before reading the Shema
-
-Blessed are You, Adonai our God, Ruler of the world, whose word brings on the evening. God’s wisdom opens heaven's gates; God’s understanding makes the ages pass and the seasons alternate; God’s will controls the stars as they travel through the skies. Creator of day and night, rolling light away from darkness, and darkness from light; God causes day to pass and brings on the night; God sets day and night apart: Adonai of Hosts is God’s name.
-May the living and eternal God rule us always, to the end of time! 
-Blessed are you, Adonai, whose word makes evening fall.
-</div>
-</td></tr>
-
-
-<tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
-הברכה השנייה  לפני קריאת שמע
-
-אַהֲבַת עוֹלָם בֵּית יִשְׂרָאֵל עַמְּךָ אָהָבְתָּ, תּוֹרָה וּמִצְוֹת חֻקִּים וּמִשְׁפָּטִים אוֹתָנוּ לִמַּדְתָּ, עַל כֵּן יהוה אֱלֹהֵינוּ בְּשָׁכְבֵנוּ וּבְקוּמֵנוּ נָשִׂיחַ בְּחֻקֶּיךָ, וְנִשְׂמַח בְּדִבְרֵי תוֹרָתֶךָ וּבְמִצְוֹתֶיךָ לְעוֹלָם וָעֶד. כִּי הֵם חַיֵינוּ וְאֹרֶךְ יָמֵינוּ וּבָהֶם נֶהְגֶּה יוֹמָם וָלָיְלָה. וְאַהֲבַתְךָ אַל תָּסִיר מִמֶּנּוּ לְעוֹלָמִים, בָּרוּךְ אַתָּה יהוה, אוֹהֵב עַמּוֹ יִשְׂרָאֵל:
-</span></div>
-</td>
- 
-<td style="vertical-align:top;" width="53%">
-<div class="english">
-The Ahavah blessing, the second blessing before reading the Shema
-
-Unending is Your love for Your people, the House of Israel: Torah and Mitzvot, laws and precepts have You taught us. Adonai our God - when we lie down and when we rise up, we will meditate on Your laws and rejoice in Your Torah and Mitzvot forever. For they are our life and the length of our days; day and night we will reflect on them. Do not let Your love ever depart from us! Blessed are You, Adonai, who loves His people Israel.
-</div>
-</td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
@@ -6043,129 +5575,12 @@ May it be Your will, Adonai our God, that You imbue our fate with love and empat
 [/su_tab]
 [/su_tabs]
 
-</div>
-
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;"><tbody>
-<tr><td style="vertical-align:top;" width="46%">
-<div class="commentary"><span lang="he">
-התפילה בקהילת כל הנשמה
-
-תפילה היא לא לצורך בידור. תפילה היא משמעת כמו מוסיקה, ריצה או מדיטאציה. אם באתם לצפות - תשתעממו.
-</span></div>
-</td>
- 
-<td style="vertical-align:top;" width="53%">
-<div class="english">
-PRAYER AT KOL HANESHAMA
-
-Prayer is not entertainment. Prayer is a discipline, like music, running or meditation. If you are here to observe, you will be bored.
-</div>
-</td></tr>
-
-
-<tr><td style="vertical-align:top;" width="46%">
-<div class="commentary"><span lang="he">
-אנו משווים את תפילתנו ללהקת ג'אז. לפעמים זה נשמע שכל אחד "מנגן ניגון" אישי שונה בעוצמה או בקצב משלו (ואחרים אינם משמיעים קול בכלל), ולפעמים כולם שרים בהרמוניה יפה.
-</span></div>
-</td>
- 
-<td style="vertical-align:top;" width="53%">
-<div class="english">
-Praying is like playing jazz. The more you pray, the richer your prayer becomes. Musicians improvise on a set of musical themes; they can play together in harmony one moment and in the next, they each play at their own rhythm, at their own volume. Sometimes we all pray in harmony, other times we each pray at our own rhythm and our own volume.
-</div>
-</td></tr>
-
-
-<tr><td style="vertical-align:top;" width="46%">
-<div class="commentary"><span lang="he">
-הסידור הוא מסגרת; כמו דף תווים שעומד לפני המנגן.
-אם אתם בוחרים להשתמש במילים אלו דעו, כי אם הנכם קוראים את התפילות אינכם מתפללים. יש להגיע ליחסי גומלין בין המתפלל לתפילה ובין המתפלל למתפללים האחרים.
-</span></div>
-</td>
- 
-<td style="vertical-align:top;" width="53%">
-<div class="english">
-The siddur is a framework, like the page of notes for the jazz player. If you choose to use these words, know that you are not praying if you only read the prayers. One should try to reach a proper balance between the pray-er and the prayer, and between the pray-er and other pray-ers.
-</div>
-</td></tr>
-
-
-<tr><td style="vertical-align:top;" width="46%">
-<div class="commentary"><span lang="he">
-דעו, כי לפי המסורת, התפילה כוללת גם ניגונים וגם שתיקה. נא להרפות מכל מתח. כולנו באים ברגשות מעורבים לבית הכנסת. אנחנו מודעים לתחושותינו בעת התפילה, לא בורחים מהן. אנו נותנים לרגשות להשפיע על התפילה ולתפילה להשפיע על הרגשות.
-</span></div>
-</td>
- 
-<td style="vertical-align:top;" width="53%">
-<div class="english">
-Know that according to tradition, praying includes both music and silence. Try to relax from all tension. We all come to synagogue with mixed feelings. We are aware of these feelings in prayer - we do not try to escape from them. We let our feelings influence our prayers and our prayers influence our feelings.
-</div>
-</td></tr>
-
-
-<tr><td style="vertical-align:top;" width="46%">
-<div class="commentary"><span lang="he">
-אם את/ה לא מכיר/ה היטב את הסידור, די שתמצא מילים שתרגיש איתן בנוח. כמעט לכל מילה בסידור יש אסוציאציות מהתנ"ך, התלמוד, המדרש או הקבלה והספרות.
-</span></div>
-</td>
- 
-<td style="vertical-align:top;" width="53%">
-<div class="english">
-If you do not know the siddur well, start by trying to find words with which you feel comfortable. In almost every word in the Siddur we can find associations from the Torah, Talmud, Midrash, Kabbalah and modern literature. The more you are tuned into these connections, the richer the prayer can be.
-</div>
-</td></tr>
-
-
-<tr><td style="vertical-align:top;" width="46%">
-<div class="commentary"><span lang="he">
-נא לזכור ש"הלהקה" הזאת נפגשת בכל שבוע, ואנו מתרגלים את תפילתנו. יכול להיות שהמילים או הניגונים לא מוכרים לך. כל משמעת קשה בהתחלה, אבל ההרגל מאפשר לך להרגיש חופשי יותר.
-</span></div>
-</td>
- 
-<td style="vertical-align:top;" width="53%">
-<div class="english">
-The band meets, at least, every week. It could well be that the words or melodies are not familiar to you. Remember, any discipline is difficult at the beginning and practice enables you to feel free.
-</div>
-</td></tr>
-
-
-<tr><td style="vertical-align:top;" width="46%">
-<div class="commentary"><span lang="he">
-
-הרב לוי וימן-קלמן
-</span></div>
-</td>
- 
-<td style="vertical-align:top;" width="53%">
-<div class="english">
-Rabbi Levi Weiman-Kelman
-</div>
-</td></tr></tbody></table>
-
+<div class="english" style="font-size: 1.2em;">
 Please <a href="https://web.archive.org/web/20160821211533/http://www.kolhaneshama.org.il:80/Eng/Support_Us">contribute</a> to Kehillat Kol Haneshama.
+</div>
 
 [youtube https://www.youtube.com/watch?v=wceGk8e6aTU]
-
-<table style="margin-left: auto;margin-right: auto;"><tbody>
-<tr><td style="vertical-align:top;" width="46%">
-<div class="commentary"><span lang="he">
-סִדּוּר "הָעֲבוֹדָה שֶׁבַּלֵּב," מַהֲדוּרָה מְחֻדֶּשֶׁת, קְהִילַת "כָּל הַנְּשָׁמָה" – יְרוּשָׁלַיִם
-וועדת עריכה:  הָרָב לֵוִי וַיימָן־קַלְמָן, הרב מעין טורנר ושאול ורדי.
-
-נֹסַח "הָעֲבוֹדָה שֶׁבַּלֵּב," עפ"י סִדּוּר הַתְּנוּעָה לְיַהֲדוּת מִתְקַדֶּמֶת בְּיִשְׂרָאֵל, יו"ר הַוַּעֲדָה: הָרַב יְהוֹרָם מָזוֹר
-</span></div>
-</td>
- 
-<td style="vertical-align:top;" width="53%">
-<div class="english">
-A new edition of the Prayerbook - Siddur, "HaAvodah SheBaLev" – the Service of the Heart, Kehilat Kol HaNeshama, Jerusalem, 2007.
-Editorial Committee: Rabbi Levi Weiman-Kelman, Rabbi Ma'ayan Turner and Shaul Vardi.
-
-This Siddur is based on "HaAvodah SheBalev", the Prayerbook of the Israel Movement for Progressive Judaism.
-Editorial Chair: Rabbi Yehoram Mazor
-</div>
-</td></tr></tbody></table>
 </body>
 </html>

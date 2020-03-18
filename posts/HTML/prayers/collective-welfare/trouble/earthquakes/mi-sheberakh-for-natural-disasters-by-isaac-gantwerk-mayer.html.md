@@ -62,7 +62,7 @@ for You, our God, are a God of life, and Your name is Life and Peace.
 לֹ֥א בָרַ֖עַשׁ יְהוָֽה׃ 
 וְאַחַ֤ר הָרַ֙עַשׁ֙ אֵ֔שׁ 
 לֹ֥א בָאֵ֖שׁ יְהוָ֑ה 
-וְאַחַ֣ר הָאֵ֔שׁ ק֖וֹל דְּמָמָ֥ה דַקָּֽה׃
+וְאַחַ֣ר הָאֵ֔שׁ ק֖וֹל דְּמָמָ֥ה דַקָּֽה׃ <span class="citation">(מלכים א׳ יט:יא-יב)</span>
 כֵּן יְהִי לָנוּ 
 וּלְבָנֵינוּ 
 וּלְכׇל בָּאֵי עוֹלָם, 
@@ -72,7 +72,7 @@ for You, our God, are a God of life, and Your name is Life and Peace.
 <td width="53%"><div class="english">
 Please, Master of Peace, as You come to us, 
 come to us in a form of peace and tranquility and calm and trust,
- just as You appeared in the eyes of Elijah Your prophet, as it is written (I Kings 19:11-12):
+ just as You appeared in the eyes of Elijah Your prophet, as it is written <span class="citation">(I Kings 19:11-12)</span>:
 "And behold, Adonai was passing over, 
 and a great and strong wind, breaking mountains and shattering crags before Adonai, 
 and Adonai was not in the wind. 
@@ -84,7 +84,7 @@ And after the fire, a still small voice."[foot]I Kings 19:11-12[/foot]
 Thus may it be for us 
 and our children 
 and for all those who dwell on earth –
-and we say: <em>Amen</em>.
+and we say: Amen.
 </div></td>
 </tr>
 </tbody></table>

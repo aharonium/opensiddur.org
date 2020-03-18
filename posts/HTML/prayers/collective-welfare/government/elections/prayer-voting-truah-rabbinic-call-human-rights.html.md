@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: A Prayer on Voting, by T'ruah: The Rabbinic Call for Human Rights (2016)<br />
+Title: תפילה להצבעה | A Prayer on Voting, by Rabbi Lev Meirowitz Nelson (T'ruah 2016)<br />
 Primary contributor: truah<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=14653">http://opensiddur.org/?p=14653</a>
 <p />
@@ -44,7 +44,7 @@ to accepting our individual responsibility for the good of the whole.
 <div class="liturgy" style="text-align: right;"><span lang="he">
 שׁוֹפְטִים וְשׁוֹטְרִים נִתֵן לָנוּ בְּכָל שְׁעָרֵינוּ... 
 וְשָׁפְטוּ אֶת הָעָם מִשְׁפָּט צֵדֶק, 
-וְנִזְכֶּה לְהִמָּנוֹת בְּתוֹךְ ”כָּל מֵי שֶׁעוֹסְקִים בְּצָרְכֵי צִיבּוּר בֶּאֱמוּנָה“ <span class="citation">(דברים טז:יח)</span>. 
+וְנִזְכֶּה לְהִמָּנוֹת בְּתוֹךְ "כָּל מֵי שֶׁעוֹסְקִים בְּצָרְכֵי צִיבּוּר בֶּאֱמוּנָה."
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
@@ -58,7 +58,7 @@ and may we all merit to be counted among those who work faithfully for the publi
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
 פְּקַח עֵינֵינוּ לִרְאוֹת כָּל מָעֳמָד וְמָעֳמָד וְכָל שַׂר וְיוֹעֶצֶת כִּי הֵם נִבְרְאוּ בְּצֶלֶם אֱלֹהִים, 
-וּפְקַח עֵינֵיהֶם שֶׁיַּרְאוּ שֶׁכָּל יוֹשְׁבֵי תֵּבֵל נִבְרְאוּ גַּם הֵם בַּצֶּלֶם.
+וּפְקַח עֵינֵיהֶם שֶׁיַּרְאוּ שֶׁכָּל יוֹשְׁבַי תֵּבֵל נִבְרְאוּ גַּם הֵם בַּצֶּלֶם.
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
@@ -70,12 +70,12 @@ and may they see the image of God in all citizens of the earth.
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
-אָמֵץ אֶת לְבָבֵינוּ לִשְׁמוֹר מִצְוַת ”וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ“ <span class="citation">(ויקרא יט:יח)</span>, 
-וְתֵן בְּלִבֵּינוּ לְהָבִין אֶת אֵלּוּ הַחוֹלְקִים עָלִינוּ.
+אָמֵץ אֶת לְבָבֵינוּ לִשְׁמוֹר מִצְוַת "וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ", 
+וְתֵן בּלִבֵּינוּ לְהָבִין אֶת אֵלּוּ הַחוֹלְקִים עָלִינוּ.
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
-Grant us the courage to fulfill the mitzvah of loving our neighbors as ourselves,[foot]Leviticus 19:18[/foot] 
+Grant us the courage to fulfill the mitzvah of loving our neighbors as ourselves, 
 and place in our hearts the wisdom to understand those who do not share our views.
 </div></td>
 </tr>
@@ -84,7 +84,7 @@ and place in our hearts the wisdom to understand those who do not share our view
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
 כַּכָּתוּב בִּתְפִילַּת יוֹם הַזִּכָּרוֹן, 
-”וְיַעֲשׂוּ כּוּלָּם אֲגוּדָּה אַחַת לַעֲשׂוֹת רְצוֹנְךָ בְּלֵבָב שָׁלֵם“ 
+"וְיַעֲשׂוּ כּוּלָּם אֲגוּדָּה אַחַת לַעֲשׂוֹת רְצוֹנְךָ בְּלֵבָב שָׁלֵם,"
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
@@ -96,10 +96,10 @@ As we pray on the High Holidays,
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
-וְכָּכָּתוּב עַל יְדֵי דָּוִד עַבְדְּךָ, 
-”יְהִי שָׁלוֹם בְּחֵילֵךְ, 
+וְכָּכָּתוב עַל יְדֵי דָּוִד עַבְדְּךָ, 
+"יְהִי שָׁלוֹם בְּחֵילֵךְ, 
 שַׁלְוָה בְּאַרְמְנוֹתָיִךְ. 
-לְמַעַן אַחַי וְרֵעָי אֲדַבְּרָה נָּא שָׁלוֹם בָּךְ“ <span class="citation">(תהלים קכב:ז-ח)</span>.
+לְמַעַן אַחַי וְרֵעָי אֲדַבְּרָה נָּא שָׁלוֹם בָּךְ."
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">

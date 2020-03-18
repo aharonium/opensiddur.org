@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: Haftarah Reading for Parashat Miqets (I Kings 3:15-4:5): Chantable English translation with trōp, by Len Fellman<br />
+Title: Haftarah Reading for Parashat Miqets (1 Kings 3:15-4:5): Chantable English translation with trōp, by Len Fellman<br />
 Primary contributor: len.fellman<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=22856">http://opensiddur.org/?p=22856</a>
 <p />

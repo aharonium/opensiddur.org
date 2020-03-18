@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: מעריב ערבים | Who Brings the Evenings, translated by Shim'on Menachem<br />
+Title: מַעֲרִיב עֲרָבִים | Who Brings the Evenings, translated by Shim'on Menachem<br />
 Primary contributor: shimonides<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=7503">http://opensiddur.org/?p=7503</a>
 <p />

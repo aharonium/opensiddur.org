@@ -1,15 +1,15 @@
 <html>
 <head></head>
 <body>
-Title: Haftarah Reading for Parashat Ki Tissa (I Kings 18:1-39): Chantable English translation with trōp, by Len Fellman<br />
+Title: Haftarah Reading for Parashat Ki Tissa (1 Kings 18:1-39): Chantable English translation with trōp, by Len Fellman<br />
 Primary contributor: len.fellman<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=23852">http://opensiddur.org/?p=23852</a>
 <p />
 <hr />
 
-<style type="text/css" media="all">.printfriendly {display: none!important;}</style>
-
-<strong>DOWNLOAD:</strong> <a href="https://archive.org/download/ParashatKiTissaHaftarahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20Ki%20Tissa%20Haftarah%20Reading%20%28I%20Kings%2018v1-39%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29%20-%20english%20only.pdf">PDF</a> or <a href="https://archive.org/download/ParashatKiTissaHaftarahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20Ki%20Tissa%20Haftarah%20Reading%20%28I%20Kings%2018v1-39%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29%20-%20english%20only.odt">ODT</a> (sans Hebrew) | <a href="https://archive.org/download/ParashatKiTissaHaftarahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20Ki%20Tissa%20Haftarah%20Reading%20%28I%20Kings%2018v1-39%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29.pdf">PDF</a> or <a href="https://archive.org/download/ParashatKiTissaHaftarahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20Ki%20Tissa%20Haftarah%20Reading%20%28I%20Kings%2018v1-39%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29.odt">ODT</a> (with Hebrew)
+<strong>DOWNLOAD:</strong> 
+<a href="https://archive.org/download/ParashatKiTissaHaftarahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20Ki%20Tissa%20Haftarah%20Reading%20%28I%20Kings%2018v1-39%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29%20-%20english%20only.pdf">PDF</a> or <a href="https://archive.org/download/ParashatKiTissaHaftarahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20Ki%20Tissa%20Haftarah%20Reading%20%28I%20Kings%2018v1-39%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29%20-%20english%20only.odt">ODT</a> (sans Hebrew)
+<a href="https://archive.org/download/ParashatKiTissaHaftarahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20Ki%20Tissa%20Haftarah%20Reading%20%28I%20Kings%2018v1-39%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29.pdf">PDF</a> or <a href="https://archive.org/download/ParashatKiTissaHaftarahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20Ki%20Tissa%20Haftarah%20Reading%20%28I%20Kings%2018v1-39%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29.odt">ODT</a> (with Hebrew)
 
 <hr />
 

@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: מעריב ערבים | Maariv Aravim, translated by Rabbi Zalman Schachter-Shalomi, z"l<br />
+Title: מַעֲרִיב עֲרָבִים | Maariv Aravim, translated by Rabbi Zalman Schachter-Shalomi, z"l<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=22068">http://opensiddur.org/?p=22068</a>
 <p />
@@ -110,7 +110,7 @@ Oh! Living, Present God,
 May You always 
 Govern our lives.
 Barukh Attah Yah
-Ha ma’ariv Aravim.
+Ha-ma’ariv Aravim.
 </div></td></tr>
 </tbody></table>
 
@@ -121,5 +121,13 @@ Rabbi Zalman Schachter-Shalomi, z”l, included his translation of the blessing 
 <h3>Source</h3>
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/SiddurTehillatHaShemYedaberPiWeekdaySiddur#page/n50/mode/2up"]
+
+&nbsp;
+
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/sidurtehilashashemforweekdaysandshabbosmerkoslinyonaichinuch1953#page/n106/mode/2up"]
+
+<hr />
+
+&nbsp;
 </body>
 </html>

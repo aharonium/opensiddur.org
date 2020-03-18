@@ -183,9 +183,9 @@ Rabbi Neḥunya also said: Nor did I ever allow the resentment caused by my fell
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/SiddurTehillatHaShemYedaberPiWeekdaySiddur#page/n51/mode/2up"]
 
-The page image below comes from <a href="https://books.google.com/books?id=ldhRAAAAcAAJ&dq="הריני+מוחל+לכל+מי+שהכעיס"&source=gbs_navlinks_s">ספר שערי ציון: תקון סעודה... וספר יצירה עם נקודות ותקון שלשה משמורת</a> (הרץ לוי רופא, Amsterdam, 1760). If you can find an earlier published edition of this prayer, please <a href="https://opensiddur.org/contact/">contact us</a> or comment below.
+&nbsp;
 
-<a href="https://books.google.com/books?id=ldhRAAAAcAAJ&amp;pg=PP144#v=onepage&amp;q&amp;f=false"><img class="alignnone size-large wp-image-16109" src="http://opensiddur.org/wp-content/uploads/2017/07/Hareni-Mochel-from-ספר-שערי-ציון-תקון-סעודה-1760-1024x721.png" alt="" width="640" height="451" /></a>
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/sidurtehilashashemforweekdaysandshabbosmerkoslinyonaichinuch1953#page/n118/mode/2up"]
 
 <hr />
 

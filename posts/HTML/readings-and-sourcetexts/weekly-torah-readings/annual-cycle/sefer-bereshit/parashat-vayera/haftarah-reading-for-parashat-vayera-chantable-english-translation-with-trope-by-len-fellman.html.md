@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: Haftarah Reading for Parashat Vayera (II Kings 4:1-37): Chantable English translation with trōp, by Len Fellman<br />
+Title: Haftarah Reading for Parashat Vayera (2 Kings 4:1-37): Chantable English translation with trōp, by Len Fellman<br />
 Primary contributor: len.fellman<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=22114">http://opensiddur.org/?p=22114</a>
 <p />

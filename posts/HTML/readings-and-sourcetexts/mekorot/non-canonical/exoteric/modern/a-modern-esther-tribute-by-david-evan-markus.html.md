@@ -1,28 +1,19 @@
 <html>
 <head></head>
 <body>
-Title: A Modern Esther Tribute for Purim and Women's History Month, by Rabbi David Evan Markus<br />
+Title: Nevertheless She Persisted: A Modern Esther Tribute for Purim and Women's History Month, by Rabbi David Evan Markus (2018)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=18946">http://opensiddur.org/?p=18946</a>
 <p />
 <hr />
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/404707533&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+<div class="english" style="font-size: 1.2em;">
+Purim affirms Esther’s stand against official silencing, abuse of power, misogyny and anti-Semitism. At first an outsider, Queen Esther used her insider power to reveal and thwart official hatred that threatened Jewish life and safety. We celebrate one woman’s courageous cunning to right grievous wrongs within corrupt systems. The archetype of heroic woman standing against hatred continues to call out every society still wrestling with official misogyny, power abuses and silencing. For every official silencing and every threat to equality and freedom, may we all live the lesson of Esther and all who stand in her shoes: “Nevertheless, she persisted.”
+</div>
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
-<tr>
-<td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
-
-</span></div></td>
- 
-<td style="vertical-align:top;" width="53%"><div class="english">
-Purim affirms Esther’s stand against official silencing, abuse of power, misogyny and anti-Semitism. At first an outsider, Queen Esther used her insider power to reveal and thwart official hatred that threatened Jewish life and safety. We celebrate one woman’s courageous cunning to right grievous wrongs within corrupt systems. The archetype of heroic woman standing against hatred continues to call out every society still wrestling with official misogyny, power abuses and silencing. For every official silencing and every threat to equality and freedom, may we all live the lesson of Esther and all who stand in her shoes: “Nevertheless, she persisted.”
-</div></td></tr>
-
-
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
 
@@ -35,21 +26,11 @@ Purim affirms Esther’s stand against official silencing, abuse of power, misog
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
-<sup>12</sup>&nbsp;וּמְדִינָה֙ כִּכְתָבָ֔הּ וְעַ֥ם וָעָ֖ם כִּלְשׁוֹנ֑וֹ בְּשֵׁ֨ם הַמֶּ֤לֶךְ אֲחַשְׁוֵרֹשׁ֙ נִכְתָּ֔ב וְנֶחְתָּ֖ם בְּטַבַּ֥עַת הַמֶּֽלֶךְ׃
+<sup>12 part</sup>&nbsp;וּמְדִינָה֙ כִּכְתָבָ֔הּ וְעַ֥ם וָעָ֖ם כִּלְשׁוֹנ֑וֹ בְּשֵׁ֨ם הַמֶּ֤לֶךְ אֲחַשְׁוֵרֹשׁ֙ נִכְתָּ֔ב וְנֶחְתָּ֖ם בְּטַבַּ֥עַת הַמֶּֽלֶךְ׃ <sup>13</sup>&nbsp;וְנִשְׁל֨וֹחַ סְפָרִ֜ים בְּיַ֣ד הָרָצִים֮ אֶל־כָּל־מְדִינ֣וֹת הַמֶּלֶךְ֒ לְהַשְׁמִ֡יד לַהֲרֹ֣ג וּלְאַבֵּ֣ד אֶת־כָּל־הַ֠יְּהוּדִים מִנַּ֨עַר וְעַד־זָקֵ֨ן טַ֤ף וְנָשִׁים֙ בְּי֣וֹם אֶחָ֔ד בִּשְׁלוֹשָׁ֥ה עָשָׂ֛ר לְחֹ֥דֶשׁ שְׁנֵים־עָשָׂ֖ר הוּא־חֹ֣דֶשׁ אֲדָ֑ר וּשְׁלָלָ֖ם לָבֽוֹז׃ <sup>14</sup>&nbsp;פַּתְשֶׁ֣גֶן הַכְּתָ֗ב לְהִנָּ֤תֵֽן דָּת֙ בְּכָל־מְדִינָ֣ה וּמְדִינָ֔ה גָּל֖וּי לְכָל־הָֽעַמִּ֑ים לִהְי֥וֹת עֲתִדִ֖ים לַיּ֥וֹם הַזֶּֽה׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%"><div class="english">
-The following o֜rders [of Ham֔an] were iss֖ued in the na֥me of King Achashver֑osh, and s֖ealed with ֥the king’s sig֦net.
-</div></td></tr>
-
-
-<tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
-<sup>13</sup>&nbsp;וְנִשְׁל֨וֹחַ סְפָרִ֜ים בְּיַ֣ד הָרָצִים֮ אֶל־כָּל־מְדִינ֣וֹת הַמֶּלֶךְ֒ לְהַשְׁמִ֡יד לַהֲרֹ֣ג וּלְאַבֵּ֣ד אֶת־כָּל־הַ֠יְּהוּדִים מִנַּ֨עַר וְעַד־זָקֵ֨ן טַ֤ף וְנָשִׁים֙ בְּי֣וֹם אֶחָ֔ד בִּשְׁלוֹשָׁ֥ה עָשָׂ֛ר לְחֹ֥דֶשׁ שְׁנֵים־עָשָׂ֖ר הוּא־חֹ֣דֶשׁ אֲדָ֑ר וּשְׁלָלָ֖ם לָבֽוֹז׃ <sup>14</sup>&nbsp;פַּתְשֶׁ֣גֶן הַכְּתָ֗ב לְהִנָּ֤תֵֽן דָּת֙ בְּכָל־מְדִינָ֣ה וּמְדִינָ֔ה גָּל֖וּי לְכָל־הָֽעַמִּ֑ים לִהְי֥וֹת עֲתִדִ֖ים לַיּ֥וֹם הַזֶּֽה׃
-</span></div></td>
- 
-<td style="vertical-align:top;" width="53%"><div class="english">
-Co֣uriers disp֗atched written instr֧uctions to all the king’s pr֛ovinces to de֤stroy, m֜assacre and ext֣erminate all the J֔ews, yo֖ung and ol֥d, chil֖dren and wo֑men, on a ֜single d֨ay – the thirteenth d֧ay of the twelfth m֛onth, the m֖onth of Ad֥ar – and pl֖under their possessions.׃ The t֣ext of the doc֕ument was that a l֡aw be procl֧aimed in each prov֛ince, publicly displ֤ayed to all pe֜oples in their o֣wn langu֔ages, so that th֖ey might be re֥ady for that day.׃
+The following o֜rders [of Ham֔an] were iss֖ued in the na֥me of King Achashver֑osh, and s֖ealed with ֥the king’s sig֦net. Co֣uriers disp֗atched written instr֧uctions to all the king’s pr֛ovinces to de֤stroy, m֜assacre and ext֣erminate all the J֔ews, yo֖ung and ol֥d, chil֖dren and wo֑men, on a ֜single d֨ay – the thirteenth d֧ay of the twelfth m֛onth, the m֖onth of Ad֥ar – and pl֖under their possessions.׃ The t֣ext of the doc֕ument was that a l֡aw be procl֧aimed in each prov֛ince, publicly displ֤ayed to all pe֜oples in their o֣wn langu֔ages, so that th֖ey might be re֥ady for that day.׃
 </div></td></tr>
 
 
@@ -194,11 +175,21 @@ The Presiding Offi֜cer [s֗aid]: Obj֧ection is h֛eard. The sen֖ator [from Ma
 </tbody></table>
 
 <hr />
-The source images for "A Modern Esther Tribute" were first posted at Bayit: Your Jewish Home, <a href="https://yourbayit.org/2018/02/25/nevertheless-she-persisted-a-purim-tribute-for-womens-history-month/">here</a>.
 
+The source images for "A Modern Esther Tribute" were first posted at Bayit: Your Jewish Home, <a href="https://yourbayit.org/2018/02/25/nevertheless-she-persisted-a-purim-tribute-for-womens-history-month/">here</a>. Digital transcription of the t'amim with the digital text of the speech by Aharon Varady.
 
-<h3>Source</h3>
+<h3>Source(s)</h3>
 
-[gview file="https://opensiddur.org/wp-content/uploads/2018/02/Esther-Tribute-David-Evan-Markus-2018.pdf"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/purimtributeforwomenshistorymonthdavidevanmarkus2018#page/n1/mode/2up"]
+
+&nbsp;
+
+<h3>Recording</h3>
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/404707533&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
+<hr />
+
+&nbsp;
 </body>
 </html>

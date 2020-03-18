@@ -2,17 +2,15 @@
 <head></head>
 <body>
 Title: ברכת המזון | Thanks for the Food, an interpretive translation of the Birkat Hamazon by Rabbi Zalman Schachter-Shalomi<br />
-Primary contributor: zalman.schachter-shalomi<br />
+Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=10070">http://opensiddur.org/?p=10070</a>
 <p />
 <hr />
 
-[caption id="attachment_10083" align="aligncenter" width="1024"]<a href="https://opensiddur.org/wp-content/uploads/2014/11/1024px-Manatee_with_calf.PD_.jpg"><img src="https://opensiddur.org/wp-content/uploads/2014/11/1024px-Manatee_with_calf.PD_.jpg" alt="&quot;Manatee nursing calf&quot; (credit: Gaylen Rathburn, USFWS, Public Domain)" width="1024" height="672" class="size-full wp-image-10083" /></a> "<a href="http://commons.wikimedia.org/wiki/File:Manatee_with_calf.PD.jpg">Manatee nursing calf</a>" (credit: Gaylen Rathburn, USFWS, Public Domain)[/caption]
-
-
-<table style="margin-left: auto;margin-right: auto;">
+<table style="margin-left: auto;margin-right: auto;" class="draggable">
+<thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 שִׁ֗יר הַֽמַּֽ֫עֲל֥וֹת׃
 </span></div>
@@ -742,12 +740,12 @@ HOLY SEASONS
 <div class="liturgy"><span lang="he">
 אֱלֹהֵֽינוּ וֵאלֹהֵי אֲבוֹתֵֽינוּ, 
 יַעֲלֶה 
-
+&nbsp;
 וְיָבֹא וְיַגִּיעַ 
 וְיֵרָאֶה וְיֵרָצֶה 
 וְיִשָּׁמַע 
 וְיִפָּקֵד וְיִזָּכֵר 
-
+&nbsp;
 זִכְרוֹנֵֽנוּ 
 וּפִקְדּוֹנֵֽנוּ 
 </span></div>
@@ -757,12 +755,12 @@ HOLY SEASONS
 <div class="english">
 Our God and God of our ancestors,
 May this prayer we offer to You,
-
+&nbsp;
 Rise and come and reach You,
 Be noted and accepted and
 Heard by You;
 Be remembered and acted upon:
-
+&nbsp;
 As You become aware of us
 As You remember us.
 </div>
@@ -988,7 +986,7 @@ Source of our being
 <div class="liturgy"><span lang="he">
 &nbsp;
 שֶׁבְּכָל יוֹם וָיוֹם הוּא הֵטִיב 
-
+&nbsp;
 הוּא מֵטִיב 
 הוּא יֵיטִיב לָֽנוּ: 
 </span></div>
@@ -998,7 +996,7 @@ Source of our being
 <div class="english">
 In Your goodness you do not discriminate,
 Doing good day by day according to that day’s needs.
-
+&nbsp;
 So You did act out of goodness in the past,
 And so will You deal with us in the future.
 </div>
@@ -1019,7 +1017,7 @@ And so will You deal with us in the future.
 וִישׁוּעָה 
 נֶחָמָה 
 פַּרְנָסָה וְכַלְכָּלָה 
-
+&nbsp;
 וְרַחֲמִים וְחַיִּים וְשָׁלוֹם וְכָל טוֹב 
 וּמִכָּל טוֹב 
 אַל יְחַסְּרֵֽנוּ.
@@ -1040,7 +1038,7 @@ to save us,
    to redeem us
     to console us
      to sustain and support us—
-
+&nbsp;
 in mercy, life and in goodness,
 while not diminishing
 the good You hold in store for us for eternity.
@@ -1516,8 +1514,17 @@ God will bless our folk with SHALOM!
 </tbody></table>
 
 <hr />
+
 The style by which Rabbi Zalman Schachter-Shalomi, z"l translated Jewish liturgy in English was neither literal nor idiomatic, but highly interpretive and interspersed with his own ḥiddushim (innovations). Showing Reb Zalman's translation side-by-side with the Jewish liturgy helps to illuminate his understanding of the liturgy -- it's deeper meaning as well as how it might be communicated to a contemporary audience. In the version I have prepared above, I have set the interpretive translation of Rabbi Zalman Schachter-Shalomi, z"l side-by-side with the liturgical Hebrew that may have inspired it. In several places, Reb Zalman’s formulation departs from the traditional Ashkenazi nusaḥ. Where there is no Hebrew, we can more easily observe where Reb Zalman has expanded upon the blessing. Still, my work was not exhaustive and I appreciate any corrections to the nusaḥ (liturgical custom) of the Hebrew that may have inspired Reb Zalman's interpretation in English.
 
 The interpretive translation of Rabbi Zalman Schachter-Shalomi, z"l was first shared online by Gabbai Seth Fishman at his website, <a href="http://www.jewishrenewalhasidus.org/wordpress/reb-zalman-resources/">Jewish Renewal Chassidus</a>.
+
+<h3>Source</h3>
+
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/sidurtehilashashemforweekdaysandshabbosmerkoslinyonaichinuch1953#page/n88/mode/2up"]
+
+<hr />
+
+&nbsp;
 </body>
 </html>

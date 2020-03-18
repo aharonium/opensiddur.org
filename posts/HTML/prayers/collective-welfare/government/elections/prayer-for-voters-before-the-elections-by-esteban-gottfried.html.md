@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: תפילה לבוחר טרם הבחירות | A Prayer for Voters Before the Election, by Rabbi Esteban Gottfried<br />
+Title: תפילה לבוחר טרם הבחירות | A Prayer for Voters Before the Israeli Election, by Rabbi Esteban Gottfried<br />
 Primary contributor: esteban.gottfried<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=5733">http://opensiddur.org/?p=5733</a>
 <p />

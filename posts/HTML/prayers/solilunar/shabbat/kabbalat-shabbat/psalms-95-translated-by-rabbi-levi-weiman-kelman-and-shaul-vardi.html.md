@@ -12,10 +12,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
-לְכוּ נְרַנְּנָה לַיהוה, 
-נָרִיעָה לְצוּר יִשְׁעֵנוּ׃
-נְקַדְּמָה פָנָיו בְּתוֹדָה, 
-בִּזְמִרוֹת נָרִיעַ לוֹ׃
+לְ֭כוּ נְרַנְּנָ֣ה לַיהוָ֑ה 
+נָ֝רִ֗יעָה לְצ֣וּר יִשְׁעֵֽנוּ׃
+נְקַדְּמָ֣ה פָנָ֣יו בְּתוֹדָ֑ה 
+בִּ֝זְמִר֗וֹת נָרִ֥יעַֽ לֽוֹ׃
 </span></div></td>
  
 <td style="vertical-align:top;">

@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: אשר יצר | Asher Yatsar, interpretive translation by Reb Zalman Schachter-Shalomi z”l<br />
+Title: אֲשֶׁר יָצַר | Asher Yatsar, interpretive translation by Reb Zalman Schachter-Shalomi z”l<br />
 Primary contributor: zalman.schachter-shalomi<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=17029">http://opensiddur.org/?p=17029</a>
 <p />
@@ -166,5 +166,17 @@ Rav Pappa said: Therefore, let us say them both: Healer of all flesh, Who perfor
 </div></td>
 </tr>
 </tbody></table>
+
+<h3>Source(s)</h3>
+
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/SiddurTehillatHaShemYedaberPiWeekdaySiddur#page/n3/mode/2up"]
+
+&nbsp;
+
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/sidurtehilashashemforweekdaysandshabbosmerkoslinyonaichinuch1953#page/n6/mode/2up"]
+
+<hr />
+
+&nbsp;
 </body>
 </html>

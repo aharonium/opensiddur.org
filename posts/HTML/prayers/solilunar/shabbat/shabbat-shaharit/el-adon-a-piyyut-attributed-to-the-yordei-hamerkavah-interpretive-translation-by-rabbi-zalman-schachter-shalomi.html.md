@@ -160,6 +160,10 @@ The poem is an homage to God for the creation of the heavenly hosts--the sun, th
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/siddurtehillathashemyedaberpisabbathsupplementzalmanschachtershalomi2009#page/n8/mode/2up"]
 
+&nbsp;
+
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/sidurtehilashashemforweekdaysandshabbosmerkoslinyonaichinuch1953#page/n170/mode/2up"]
+
 <hr />
 
 &nbsp;

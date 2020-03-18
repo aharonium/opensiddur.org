@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: כוונה ליום הבחירות | Kavvanah for Election Day, by Rabbi Noa Mazor<br />
+Title: כוונה ליום הבחירות | Kavvanah for Israeli Election Day, by Rabbi Noa Mazor<br />
 Primary contributor: noa.mazor<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=25720">http://opensiddur.org/?p=25720</a>
 <p />
@@ -21,7 +21,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <td style="vertical-align:top;" width="53%">
 <div class="english">
 May it be your will,
-YHVH our <em>elo'ah</em>, and <em>elo'ah</em> of our mothers and fathers,
+YHVH our elo'ah, and elo'ah of our mothers and fathers,
 that the election today be an election of justice and truth.
 </div>
 </td></tr>

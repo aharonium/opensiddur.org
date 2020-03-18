@@ -307,5 +307,17 @@ In her article, "Biblical Texts in Jewish Prayer" (in Jewish and Christian Litur
 <blockquote>These biblical centos communicate in three different ways....The second method is characteristic of these centos in their most sophisticated forms. As in yehi khavod and va’anahnu lo neda, the verses generally relate one to the next by interlinking identical words or similar concepts from one verse to the next (underlined in the tables). It is the resulting chain of concepts that communicates the meaning of the composition. This technique has apparent precedent in the biblical period. Reuven Kimelman (‘Psalm 145: Theme, Structure, and Impact’, JBL 113, 1994) demonstrates that Psalm 145 also uses such chaining to communicate its message while organizing the verses according to its alphabetical acrostic. However, nothing suggests that Psalm 145 consists of verses culled verbatim from other compositions. In our prayers, this interlinking of concepts makes it impossible to construct an adequate narrative paraphrase of the cento’s message. However, the underlined words [see below PDF: Table B. Yehi Khavod] suggest that yehi khavod begins with a praise of God’s constant exaltation not only by the physical world, especially the heavens themselves, but also by all its inhabitants, over whom God reigns eternally. But because of God’s special redemptive relationship with Israel, this divine sovereignty over the nations results in God’s frustrating their plans, in favor of Israel’s protection.</blockquote>
 
 [gview file="https://opensiddur.org/wp-content/uploads/2017/11/Ruth-Langer-Biblical-Texts-in-Jewish-Prayers-Table-B.-Yehi-Khavod.pdf"]
+
+<h3>Source(s)</h3>
+
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/SiddurTehillatHaShemYedaberPiWeekdaySiddur#page/n13/mode/2up"]
+
+&nbsp;
+
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/sidurtehilashashemforweekdaysandshabbosmerkoslinyonaichinuch1953#page/n30/mode/2up"]
+
+<hr />
+
+&nbsp;
 </body>
 </html>

@@ -2,16 +2,15 @@
 <head></head>
 <body>
 Title: אֵל שְׁמֹר הַמַּלְכָּה | God Save the Queen (Hebrew translation, ca. 1892)<br />
-Primary contributor: unknown<br />
+Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=15453">http://opensiddur.org/?p=15453</a>
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;">Translation (Hebrew)</th><th style="text-align: left;">Source (English)</th></tr></thead>
+<table style="margin-left: auto;margin-right: auto;">
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" style="text-align: right;"><span lang="he">
 אֵל שְׁמֹר מַלְכָּתֵנוּ,
 לְעוֹלָם תְּחִי מַלְכָּתֵנוּ,
 אֵל שְׁמֹר הַמַּלְכָּה,

@@ -196,11 +196,5 @@ One important note: the name "Washington" has been consistently written here as 
 <h3>Source(s)</h3>
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/MegillatWashingtonIsaacGantwerkMayer2018#page/n0/mode/2up"]
-
-<h3>Recording</h3>
-
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/details/MegillatWashingtonIsaacGantwerkMayer2018/Megilat%20Washington%20%28Isaac%20Gantwerk%20Mayer%202019%29.mp3" show_part_of_iframe="true" show_part_of_iframe_y="75" show_part_of_iframe_height="145" show_part_of_iframe_allow_scrollbar_vertical="false"]
-
-
 </body>
 </html>

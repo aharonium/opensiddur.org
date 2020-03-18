@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: Needed Prophets for Our Day, a prayer-poem by Mordecai Kaplan (1942) adapted from "The Divinity School Address" by Ralph Waldo Emerson<br />
+Title: Needed Prophets for Our Day, a prayer-poem by Mordecai Kaplan (1942) adapted from "The Divinity School Address" by Ralph Waldo Emerson (1838)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=20239">http://opensiddur.org/?p=20239</a>
 <p />
@@ -129,12 +129,10 @@ Kaplan composed the prayer from key sentences that he took from Emerson’s 1838
 
 In a footnote (ff.11, p. 284), Scult provides some additional information on where the prayer would have been situated in the prayer service. "Kaplan was working on the Musaf (additional service for the Sabbath) in August 1942, and he states that “one of the following selections should be read.” Then follows the Kaplan-Baeck prayer, “Life Is What We Make It,” and two Kaplan-Emerson prayers, including “Needed Prophets for Our Day.” The obvious implication is that the Emerson prayer was to be part of the Musaf service."
 
-
 <h3>Source(s)</h3>
 
 [gview file="https://opensiddur.org/wp-content/uploads/2018/06/Law-of-the-Soul-and-Needed-Prophets-for-Our-Day-from-Mordecai-Kaplans-Diary-23-August-1942.pdf"]
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/divinityschoolad00emer#page/n3/mode/2up"]
-
 </body>
 </html>

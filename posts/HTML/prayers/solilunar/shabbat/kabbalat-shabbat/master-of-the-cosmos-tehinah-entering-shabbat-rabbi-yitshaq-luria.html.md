@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: רבון כל העולמים | Master of the Cosmos, a tehinah for entering Shabbat by Rabbi Yitsḥaq Luria (circa 16th c.)<br />
+Title: רבון כל העולמים | Master of the Cosmos, a teḥinah for entering Shabbat by Rabbi Yitsḥaq Luria (circa 16th c.)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=15137">http://opensiddur.org/?p=15137</a>
 <p />
@@ -27,7 +27,7 @@ Lord of all worlds, Master of all souls, Master of peace: you are the life of th
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
-I am grateful to you, YHVH our <em>elo'ah</em> and elo’ah of our forefathers, for all the kindness that you have shown me and are ready to show me and my family and my friends, your creatures. Blessed be your holy angels who perform your will. 
+I am grateful to you, YHVH our elo’ah and elo’ah of our forefathers, for all the kindness that you have shown me and are ready to show me and my family and my friends, your creatures. Blessed be your holy angels who perform your will. 
 </div></td>
 </tr>
 
@@ -71,7 +71,7 @@ Please majestic King of kings, command the heavenly angels to visit my house in 
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
-Angels of peace, may your coming be in peace; bless me with peace, and bless my prepared table. May your departure be in peace, henceforth in the cosmos. <em>Amen</em>.
+Angels of peace, may your coming be in peace; bless me with peace, and bless my prepared table. May your departure be in peace, henceforth in the cosmos. Amen.
 </div></td>
 </tr>
 
@@ -104,8 +104,14 @@ Ribon Kol Ha-Olamim is a teḥinah (supplication) for entering the Shabbat that 
 
 <h3>Sources</h3>
 
-[gview file="https://opensiddur.org/wp-content/uploads/2017/02/Tikunei-Shabbat-Isaac-Luria-1614.pdf"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/hasiddurhashalemhassidicsefardicpaltielbirnbaum1969#page/n344/mode/2up"]
 
-[gview file="https://opensiddur.org/wp-content/uploads/2017/02/Ribon-Kol-HaOlamim-Ha-Siddur-Ha-Shalem-Paltiel-Birnbaum1949.pdf"]
+&nbsp;
+
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/tikuneishabbatschoolofisaacluria1614#page/n18/mode/2up"]
+
+<hr />
+
+&nbsp;
 </body>
 </html>

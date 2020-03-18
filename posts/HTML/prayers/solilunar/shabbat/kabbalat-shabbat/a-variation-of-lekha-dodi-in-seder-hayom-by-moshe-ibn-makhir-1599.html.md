@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: לכה דודי (נוסח אחר)‏ | A different version of Lekha Dodi found in R' Moshe ibn Makhir's Seder haYom (1599)<br />
+Title: לכה דודי (נוסח אחר)‏ | A different version of Lekhah Dodi found in R' Moshe ibn Makhir's Seder haYom (1599)<br />
 Primary contributor: isaac.gantwerk-mayer<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=24334">http://opensiddur.org/?p=24334</a>
 <p />
@@ -10,11 +10,11 @@ For attribution and license, please consult the following URL: <a href="http://o
 <div class="english" style="font-size: 1.2em;">
 Rabbi Moshe ben Yehuda ibn Makhir was one of the great kabbalists of Tsfat in the sixteenth century, a contemporary of such famous figures as the ARI z"l and Yosef Caro. His greatest work was his sefer Seder haYom, literally "Daily Order," a collection of meditations, customs, and commentaries covering the entire liturgical year. It is perhaps the single best source we have for the way that the Tsfat community actually practiced.
 
-One of the most fascinating parts of the Seder haYom is ibn Makhir's description of Kabbalat Shabbat, where he suggests that members of the community physically go out into the fields, the garden, and the courtyards and welcome the Shabbat bride. In this description (which is also the earliest known source for the custom of reading Psalms 95 through 99 on Kabbalat Shabbat), ibn Makhir codifies a variant version of Lekha Dodi.
+One of the most fascinating parts of the Seder haYom is ibn Makhir's description of Kabbalat Shabbat, where he suggests that members of the community physically go out into the fields, the garden, and the courtyards and welcome the Shabbat bride. In this description (which is also the earliest known source for the custom of reading Psalms 95 through 99 on Kabbalat Shabbat), ibn Makhir codifies a variant version of Lekhah Dodi.
 
 This version shares the same refrain and similar (albeit altered) versions of the first and last verses, but its placement in the service is very distinct from standard modern practice. After six verses (concluding with the parallel to the standard text's last verse), we recite the entirety of Psalm 92, the official opening of Shabbat. This is then followed by a seventh verse and a repetition of the refrain – thus not just leading into Psalm 92 but totally enveloping it! Also fascinating is this version's emphasis on the exodus and liberation from Egypt, something not found in the standard version whose themes are more messianic.
 
-This version of Lekha Dodi is already a neat bit of liturgical history, but it would also be a wonderful custom to resurrect for those who seek to combine the wonder of Shabbat and the wonder of the natural world, or those who wish to avoid the emphasis on apocalyptic change in the more common text.
+This version of Lekhah Dodi is already a neat bit of liturgical history, but it would also be a wonderful custom to resurrect for those who seek to combine the wonder of Shabbat and the wonder of the natural world, or those who wish to avoid the emphasis on apocalyptic change in the more common text.
 
 The original text from which this is derived comes from the open-source worker's best friend, the <a href="https://archive.org/details/sefersederhayoms008800/page/43">Internet Archive</a>. 
 
@@ -325,11 +325,10 @@ Come, beloved, to greet the Bride, the face of Shabbat we will receive.
 
 <hr />
 
-<span class="hebrew">נוסח אחר של הפיוט לכה דודי לפי ספר ׳סדר היום׳ על ידי ר׳ משה אבן מכיר זצ״ל, מנוקדת ומתורגמת לאנגלית על ידי יצחק הראל בן אברהם מאיר הכהן.</span> (A different version of the poem Lekha Dodi according to the book Seder haYom by R. Moshe ibn Makhir of righteous blessed memory, vocalized and translated into English by Isaac Mayer.)
+<span class="hebrew">נוסח אחר של הפיוט לכה דודי לפי ספר ׳סדר היום׳ על ידי ר׳ משה אבן מכיר זצ״ל, מנוקדת ומתורגמת לאנגלית על ידי יצחק הראל בן אברהם מאיר הכהן.</span> (A different version of the poem Lekhah Dodi according to the book Seder haYom by R. Moshe ibn Makhir of righteous blessed memory, vocalized and translated into English by Isaac Mayer.)
 
 <h3>Source</h3>
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/sefersederhayoms008800#page/n45/mode/2up"]
-
 </body>
 </html>

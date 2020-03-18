@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: אשרי יושבי ביתך | Ashrei Yoshvei Beitekha :: Sitting in your home is happiness (Psalms 145), translated by Rabbi Zalman Schachter-Shalomi<br />
+Title: אַשְׁרֵי יוֹשְׁבֵי בֵיתֶךָ | Ashrei Yoshvei Veitekha :: Sitting in your home is happiness (Psalms 145), translated by Rabbi Zalman Schachter-Shalomi<br />
 Primary contributor: zalman.schachter-shalomi<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=20948">http://opensiddur.org/?p=20948</a>
 <p />
@@ -409,8 +409,6 @@ As there is life, on this world.[foot]Psalms 115:118[/foot]
 <hr />
 
 Rabbi Zalman Schachter-Shalomi, z”l, included his translation of <a href="https://en.wikipedia.org/wiki/Ashrei">Ashrei</a> in his <em><a href="https://opensiddur.org/siddurim/ha-ari/neo-hasidut/reb-zalmans-open-siddur-tehillat-hashem/">Siddur Tehillat Hashem Yidaber Pi</a></em> (2009). To the best of my ability, I have set his English translation side-by-side with the Hebrew verses comprising <a href="https://en.wikipedia.org/wiki/Psalms_145">Psalms 145</a> and additional verses. –Aharon N. Varady
-
-
 
 <h3>Source(s)</h3>
 
