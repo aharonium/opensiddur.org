@@ -57,7 +57,7 @@ We celebrate the values our flag
 in all its colors and its glory 
 represents, 
 and the memories and dreams our Stars and Stripes--
-our Star-Spangled Banner--
+our <a href="https://opensiddur.org/prayers/secular-calendar/united-states/flag-day/the-star-spangled-banner-by-francis-scott-key-yiddish-translation-by-berl-lapin/">Star-Spangled Banner</a>--
 still invokes. 
 "The grand old flag," as the old song goes, 
 is still "the emblem of the land I love"--we love--

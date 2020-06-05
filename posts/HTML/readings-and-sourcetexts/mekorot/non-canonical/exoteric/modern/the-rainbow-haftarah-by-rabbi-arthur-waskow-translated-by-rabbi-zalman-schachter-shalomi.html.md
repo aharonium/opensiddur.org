@@ -2,7 +2,7 @@
 <head></head>
 <body>
 Title: The Rainbow Haftarah by Rabbi Arthur Waskow, translated by Rabbi Zalman Schachter-Shalomi (1993)<br />
-Primary contributor: arthur.waskow<br />
+Primary contributor: isaac-gantwerk-mayer<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=9567">http://opensiddur.org/?p=9567</a>
 <p />
 <hr />
@@ -23,29 +23,19 @@ A few weeks later, Reb Zalman translated the Haftarah into Hebrew.
 Though the words came to me for one of the Shabbats of Consolation, I have often used it since as the Haftarah for Shabbat Noach, the Torah portion when we read the story of the Rainbow, symbolizing the healing of the Earth after the Flood.
 </div>
 
-<h3>Audio Recording of the Rainbow Haftarah Chanted (by Isaac Gantwerk Mayer)</h3>
-[su_audio url="https://archive.org/download/RainbowHaftarahCantillated/TheRainbowHaftarahByArthurWaskowhebrewTranslationByZalmanSchachter-shalomiCantillatedByIsaacGantwerkMayer.mp3" width="60%"]
-
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;">Translation (Hebrew)</th><th style="text-align: right;">Cantillated Translation (Hebrew)</th><th style="text-align: left;">Source(English)</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;">Translation (Hebrew)</th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
-<tr>
-<td style="vertical-align:top;" width="26%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
-הוי עמי! כוויי אש
-מביטים בלי לראות
-מוכי סנוורים בירי עשן וערפל
-עבים העולים מאושוויץ והירושימא
-</span></div></td>
-
-<td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
 ה֣וֹי עַמִּ֔י כֹּוֵ֖י אֵ֑שׁ 
 מַבִּיטִ֧ים בְּלִ֣י לִרְא֗וֹת 
 מֻכֵּ֨י סַּנְוֵרִ֜ים בְּיָרְיֵי֙ עָשָׁ֣ן וַעֲרָפֶ֔ל 
 עָבִ֧ים הַעוֹלִ֛ים מֵאַ֖וּשְׁוִיץ וּמֵ֥הִירֽוֹשִׁימָה׃  [ס]
 </span></div></td>
 
-<td width="36%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 You, My people, burnt in fire,
 still staring blinded
 by the flame and smoke
@@ -53,36 +43,23 @@ that rose from Auschwitz and from Hiroshima;
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
-הוי עמי! ‏
-רצוצי רעם
-של עולם בחבלי יסוריו;‏
-</span></div></td>
-
-<td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
 ה֖וֹי עַמִּ֑י 
 רְצוּצַ֤י רַעַם֙ 
 שֶׁ֣ל עוֹלָ֔ם בְּחַבְלֵ֖י יִסּוּרָֽיו׃  [ס]
  </span></div></td>
 
-<td width="36%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 You, My people,
 Battered by the earthquakes
 of a planet in convulsion;
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
-הוי עמי!‏
-טובעים במצולות מילים ותמונות
-התובעים מכם
-לזלול ולסבוא
-למלאות כרס ולפטם בטן
-משולחנות
-אליל, עושר וחמס.‏
-</span></div></td>
-
-<td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
 הוֹ֥י עַמִּ֛י 
 טוֹבְעִ֥ים בִּמְצוּל֖וֹת מִלִּ֣ים וּתְמוּנ֑וֹת 
 הַתּוֹבְעִ֨ים מִכֶּ֜ם 
@@ -92,7 +69,8 @@ of a planet in convulsion;
 אֱלִילֵ֥י ע֖וֹשֶׁר וְחָמָֽס׃  [ס]
 </span></div></td>
 
-<td width="36%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 You, My people,
 Drowning in the flood of words and images
 That beckon you to eat and eat,
@@ -103,15 +81,8 @@ the gods of wealth and power;
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
-הוי עמי!‏
-הטובעים במצולות מילים ותמונות
-השוטפים בלי הרף עלי עין ואוזן
-ומעלימים על דברי תורתי
-על חזיונות התבל הבריא:‏
-</span></div></td>
-
-<td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
 הוֹ֥י עַמִּ֛י 
 טוֹבְעִ֥ים בִּמְצוּל֖וֹת מִלִּ֣ים וּתְמוּנ֑וֹת 
 הַשּׁוֹטְפִ֤ים בְּלִי־הֶ֨רֶף֙ עֲלֵי־עַ֣יִן וְאֹ֔זֶן 
@@ -119,7 +90,8 @@ the gods of wealth and power;
 עַ֕ל חֶזְיוֹנ֥וֹת הַתֵּבֵ֖ל הִבְרִֽיא׃  [פ] 
 </span></div></td>
 
-<td width="36%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 You, My people,
 Drowning in the flood of words and images
 That—poured unceasing on your eyes and ears—
@@ -128,34 +100,23 @@ That—poured unceasing on your eyes and ears—
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
-התנחמו!‏
-כי אקראכם לשליחות מלא שמחה-‏
-לקראת עבודה חגיגית:‏
-</span></div></td>
-
-<td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
 הִתְנַחֲמ֞וּ 
 כִּ֤י אֶֽקְרָאֳכֶם֙ לִ֣שְׁלִיח֔וּת מָלֵּ֖א שִׂמְחָ֑ה 
 לִקְרַ֥את עֲבוֹדָ֖ה חֲגִיגִֽית׃ 
 </span></div></td>
 
-<td width="36%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 Be comforted:
 I have for you a mission full of joy.
 I call you to a task of celebration.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
-אליכם אקרא! ‏
-בל תבערו אש לשרפת כליון
-רק לאור מאיר בו ימהרו לראוות חן אחד את השנית
-כל אחד למינו
-כל אחד בעל ניצוץ האחדות
-</span></div></td>
-
-<td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
 אֲלֵיכֶ֨ם אֶקְרָ֜א‏ 
 בַּ֨ל תִּבְעֲר֤וּ אֵשׁ֙ לִשְׂרֵפַ֣ת כִלְי֔וֹן 
 רַ֣ק ׀ לְא֣וֹר מֵאִֽיר־ב֗וֹ יְמַ֤הֲרוּ֙ לְרַאֲוַ֣ת חֵ֔ן אֶחָ֖ד אֶת־הַשֵּׁנִ֑ית 
@@ -163,7 +124,8 @@ I call you to a task of celebration.
 כׇּל־אֶחָ֔ד בַּ֖עַל נִיצ֥וּץ הָאַחְדּֽוּת׃  [ס]  
 </span></div></td>
 
-<td width="36%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 I call you 
 to make from fire not an all-consuming blaze
 But the light in which all beings see each other fully.
@@ -172,17 +134,8 @@ All bearing One Spark.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
-אליכם אקרא להצית שלהבת מבהירה
-אשר הארץ ומלואה
-לא נתנים לשרפה
-אלא להב אור 
-שיופיע כקשת
-מלאת הגוונים
-של החיים כולה:‏
-</span></div></td>
-
-<td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
 אֲלֵיכֶ֨ם אֶקְרָ֜א לְהַצִּ֣ית ׀ שַׁלְהֲב֣וֹת מַבְהִירָ֗ה 
 אֲשֶׁר֙ הָאָ֣רֶץ וּמְלוֹאָ֔הּ 
 לֹ֥א נִתָּנִ֖ים לִשְׂרֵפָ֑ה 
@@ -192,7 +145,8 @@ All bearing One Spark.
 שֶׁ֥ל הָחַ֖יִּים כֻּלָּֽהּ׃  [ס] 
 </span></div></td>
 
-<td width="36%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 I call you to light a flame to see more clearly
 That the earth and all who live as part of it
 Are not for burning:
@@ -203,20 +157,8 @@ of all life.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
-אליכם אקרא! ‏
-אני הוי׳ רוח החיים
-השוכן בכם
-ומכם הלאה
-השוכן ביניכם והלאה
-הנושם בארז ובדוב הבר
-הנופש מארם ובאגם
-הנושם בדפיקות והקפות מערכת שמים
-עם כל נשימה אותי אתם נושים
-עם כל נשימה אני נופח אתכם...‏
-</span></div></td>
-
-<td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
 אֲלֵיכֶ֨ם אֶקְרָ֜א 
 אֲנִ֥י־יהו֣ה ׀ ר֣וּחַ הַחַיִּ֗ים 
 הַשּׁוֹכֵ֤ן בָּכֶם֙ 
@@ -229,7 +171,8 @@ of all life.
 עִ֚ם כׇּל־נְשִׁימָ֔ה אֲנִ֥י נוֹפֵ֖חַ אֶתְכֶֽם׃  [ס] 
 </span></div></td>
 
-<td width="36%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 I call you:
 I, the Breath of Life,
 Within you and beyond,
@@ -243,16 +186,8 @@ In every breath I breathe you.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
-אליכם אקרא
-ככל קול צריחת צפרדע
-בכל קול עלה נידף
-בקול חי בחיים
-אליכם אקרא
-בכל מתחת האדמה הפצועה.‏
-</span></div></td>
-
-<td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
 אֲלֵיכֶ֨ם אֶקְרָ֜א 
 בְּכׇל־ק֞וֹל צְרִיחַ֣ת צְפַרְדֵּ֗עַ 
 בְּכׇל־קוֹל֙ עָלֶ֣ה נִדָּ֔ף 
@@ -261,7 +196,8 @@ In every breath I breathe you.
 בַּכֹּ֛ל מִתָּ֥חָת הָאֲדָמָ֖ה הַפְּצוּעָֽה׃  [פ]   
 </span></div></td>
 
-<td width="36%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 I call you—
 In every croak of every frog I call you,
 In every rustle of each leaf, each life,
@@ -271,15 +207,8 @@ I call you.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
-אני קוראכם להקהל כאומה מתחדשת
-לארוג את טליתה של העם
-ובזאת אגודת ההחלמה
-לארוג מחדש את חיי הארץ
-אני קוראכם להגירת שבע דורות.‏
-</span></div></td>
-
-<td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
  אֲנִ֤י קוֹרֵאֱכֶם֙ לְהִ֣קָּהֵ֔ל כָּאֻמָּ֣ה מִתְחַדֶּ֔שֶׁת 
  לֶאֱר֣וֹג ׀ אֶת־טַלִּיתָ֣הּ שֶׁל־הָעָ֗ם 
  וּבְזֹאת֙ אֲגֻדַּ֣ת הָהַחְלָמָ֔ה 
@@ -287,7 +216,8 @@ I call you.
  אֲנִ֣י קוֹרֵאֱכֶ֔ם לַהֲגִירַ֖ת שֶׁ֥בַע דוֹרֽוֹת׃‏
 </span></div></td>
 
-<td width="36%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 I call you to a peoplehood renewed:
 I call you to reweave the fabric of your folk
 and so to join in healing
@@ -296,21 +226,8 @@ I call you to a journey of seven generations.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
-שבע דורור עברו להם
-והארץ לא רצת את שבתותיה
-לכן חרדים אתם בדורכם
-לאומת המבול הבא
-אוירכם מלאת רעל
-מטרכם וימכם בסם המות
-באדמתכם תסתירו נשקי אש מורעל
-זרעוני ברק עמוסי ערפלי מות:
-הרי קרח נמסו כדונג
-הימים גועשים
-ואוירכם חשוכי קיטור וחום המגביר:‏
-</span></div></td>
-
-<td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
 שֶׁ֤בַע דוֹרוֹת֙ עָבְר֣וּ לָהֶ֔ם 
 וְהָאָ֛רֶץ לֹא־הִרְצָ֖ה אֶת־שַׁבְּתֹתֶ֑יהָ 
 לָכֶ֗ן חֲרֵדִ֤ים אַתֶּם֙ בְּד֣וֹרְכֶ֔ם 
@@ -324,11 +241,12 @@ I call you to a journey of seven generations.
 וַאֲוִירְכֶם֙ חֲשׂוּכֵ֣י קִיט֔וֹר וְחֹ֖ם הַמַּגְבִֽיר׃  [פ]
 </span></div></td>
 
-<td width="36%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 For seven generations past,
 the earth has not been able to make Shabbos.
     And so in your own generation 
-	You tremble on the verge of Flood.
+    You tremble on the verge of Flood.
     Your air is filled with poison.
     The rain, the seas, with poison.
     The earth hides arsenals of poisonous fire,
@@ -339,34 +257,23 @@ the earth has not been able to make Shabbos.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
-לכן אקראכם לשאת אל כל העמים
-את משאת התורה לשבע דורות הבאים
-שילמדו לשבות, התבל והיושבים בו.‏
-</span></div></td>
-
-<td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
 לָכֵ֗ן אֶקְרָאֳכֶ֤ם לָשֵׂאת֙ אֶ֣ל־כׇּל־הָעַמִּ֔ים 
 אֵ֖ת מַשְׂאֵ֣ת הַתּוֹרָ֑ה לְשֶׁ֨בָע דוֹר֜וֹת הַבָּאִ֗ים 
 שֶׁ֤יִּלְמְדוּ֙ לִשְׁבּ֔וֹת הַתֵּבֵ֖ל וְהַיּוֹשְׁבִ֥ים בֽוֹ׃  [ס]
 </span></div></td>
 
-<td width="36%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 And so—I call you to carry to all peoples
 the teaching that for seven generations
 the earth and all her earthlings learn to rest.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
-אליכם אקרא שוב ושוב לנבאות בשמי
-לדבר בשמי - כי אין לי קול-, ‏
-להיות בשמו של האין־שם־לו
-להיות מליצים לשאין־להם־קול
-להיות לפה אילמי התבל.‏
-</span></div></td>
-
-<td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
 אֲלֵיכֶ֨ם אֶקְרָ֜א שׁ֣וּב וָשׁ֗וּב לנבאות [לְהִינָּבֵ֤א] בִּשְׁמִי֙ 
 לְדַבֵּ֣ר בִּשְׁמִ֔י כִּ֥י אֵ֖ין לִ֣י ק֑וֹל‏ 
 לִהְיוֹ֣ת בִּשְׁמ֡וֹ שֶׁל־הָאֵ֣ין ׀ שֶׁ֣ם לוֹ֩ 
@@ -374,7 +281,8 @@ the earth and all her earthlings learn to rest.
 לִהְי֕וֹת לְפֶ֖ה אִלְּמֵ֥י הַתֵּבֵֽל׃
 </span></div></td>
 
-<td width="36%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 I call you once again To speak for Me,
 To speak for Me because I have no voice,
 To speak the Name of the One who has no Name,
@@ -383,73 +291,51 @@ To speak for all the Voiceless of the planet.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
-מי ידבר לנו בעד ארזי אדומים וצורים
-בערי אריה וצרעה!‏
-</span></div></td>
-
-<td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
 מִ֥י יְדַבֵּ֖ר לָ֑נוּ בָּעַ֨ד אַרְזֵ֤י אֲדֻמִּים֙ וְצוּרִ֔ים 
 בַּעֲדֵ֥י אַרְיֵ֖ה וְצִרְעָֽה׃
 </span></div></td>
 
-<td width="36%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 Who speaks for the redwood and the rock,
-	the lion and the beetle?
+    the lion and the beetle?
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
-את רוחי אני נופח בכם להשמיע קול
-דברו לנו בעד ארזי אדומים וצורים
-אריות וצרעות
-</span></div></td>
-
-<td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
 אֶת־רוּחִ֧י אֲנִ֛י נוֹפֵ֥חַ בָּכֶ֖ם לְהַשְׁמִ֣יעַ ק֑וֹל 
 דַּבְּר֨וּ לָ֜נוּ בָּעַ֨ד אַרְזֵ֤י אֲדֻמִּים֙ וְצוּרִ֔ים 
 אֲרָי֖וֹת וְצִרְעֽוֹת׃  [פ]
 </span></div></td>
 
-<td width="36%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 My Breath I blow through you into a voicing:
 Speak for the redwood and the rock, 
 the lion and the beetle.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
-אקראכם לפקודת שמחה
-לשבע דורות
-זאת עשו וחיו:‏
-</span></div></td>
-
-<td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
 אֶקְרָאֳכֶם֙ לִפְקֻדַּ֣ת שִׂמְחָ֔ה 
 לְשֶׁ֖בָע דוֹר֑וֹת 
 זֹא֕ת עֲשׂ֖וּ וַחֲיֽוּ׃
 </span></div></td>
 
-<td width="36%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 I call you to a task of joy:
 For seven generations,
 this is what I call for you to do:
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
-עוד תחוגו מועדי שמחתכם
-לחגיגת עונות האדמה
-לקבל פני אופלי הסהר
-והשמש באבוקות נר
-לברך את פרי העץ
-בלעיסות לאטות
-כי תקבלו פני עסיס העולה
-בכל גופות העצים
-דעו נא כי אנכי עץ החיים:‏
-</span></div></td>
-
-<td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
 ע֣וֹד תָּחֹ֩גּוּ֩ מוֹעֲדֵ֨י שִׂמְחַתְכֶ֜ם 
 לַחֲגִיגַ֣ת ׀ עוֹנ֣וֹת הָאֲדָמָ֗ה 
 לְקַבֵּ֤ל פְּנֵי֙ אוֹפְלֵי֙ הַסַּ֣הַר 
@@ -461,7 +347,8 @@ this is what I call for you to do:
 דְּעוּ־נָ֕א כִּ֥י אָנֹכִ֖י עֵ֥ץ הַחַיִּֽים׃
 </span></div></td>
 
-<td width="36%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 To make once more the seasons of your joy
 into celebrations of the seasons of the earth;
 To welcome with your candles the dark of moon and sun,
@@ -474,21 +361,16 @@ I am the Tree of Life.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
-לֹחיות לשבוע בסוכות משיבי רוח
-להצהיר אמת לכל השכנים השוכנים בצדכם
-כי אתם חוטים מצרור החיים ורוחו
-איך תגביהו חומות להסגיר את הרוח?‏
-</span></div></td>
-
-<td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
 לִחְי֨וֹת לְשָׁב֜וּעַ בְּסֻכּ֣וֹת ׀ מְשִׁ֣יבֵי ר֗וּחַ 
 לְהַצְהִ֤יר אֱמֶת֙ לְכׇל־הַשְּׁכֵנִ֔ים הַשּׁוֹכְנִ֖ים בְּצִדְּכֶ֑ם 
 כִּ֣י אַ֠תֶּ֠ם חוּטִ֨ים מִצְּר֤וֹר הָחַיִּים֙ וְרוּח֔וֹ 
 אֵ֚יךְ תַּגְבִּ֣יהוּ חוֹמ֔וֹת לְהַסְגִּ֖יר אֶת־הָרֽוּח׃
 </span></div></td>
 
-<td width="36%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 To live seven days in the open, windy huts,
 And call out truth to all who live beside you—
 You are part of the weave and breath of life,
@@ -496,18 +378,8 @@ You cannot make walls to wall it out.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
-אקראכם לברית בין הדורות
-אם תקהלו לברך את יוצאי חלציכם
-כשתקבלו עליכם עול חדשים לבקרים
-אתם תגידו להם והם לכם
-כולכם נביאי אתם
-להשיב לב אבות אל בנים
-ולב בנים אל אבותם
-פן תחרב אדמתי לדראון עולם.‏
-</span></div></td>
-
-<td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
 אֶקְרָאֳכֶם֙ לִבְרִ֣ית בֵּין־הַדּוֹר֔וֹת 
 אִ֣ם תִּקָּהֲל֣וּ לְבָ֘רֵךְ֮ אֶת־יוֹצְאֵ֣י חֲלָצֵיכֶם֒ 
 כְּשֶׁ֤תְּקַבְּלוּ֙ עֲלֵיכֶ֔ם עֹ֥ל חֲדָשִׁ֖ים לִבְקָרִ֑ים 
@@ -518,7 +390,8 @@ You cannot make walls to wall it out.
 פֶּן־תֶּחֱרַ֥ב אַדְמָתִ֖י לְדִרְא֥וֹן עוֹלָֽם׃  [ס]
 </span></div></td>
 
-<td width="36%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 I call you to a covenant between the generations:
 That when you gather for a blessing of your children
 as they take on the tasks of new tomorrows,
@@ -530,18 +403,8 @@ Lest my earth be smashed in utter desolation.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
-אלכם אקרא
-לאכול אך 
-מה שאני
-מכשיר.‏
-אוכל הצומח מאדמה לא רעולה
-שמן הצף מן ארץ שאינכם מריקים
-נייר הבא מאדמה שאינכם מעלים גרזן עליה
-אויר שעולה מתהום שאינכם מחנקים:‏
-</span></div></td>
-
-<td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
 אֲלֵיכֶ֨ם אֶקְרָ֜א 
 לֶאֱכ֧וֹל אַ֛ךְ 
 מָ֥ה־שֶׁאֲנִ֖י 
@@ -552,7 +415,8 @@ Lest my earth be smashed in utter desolation.
 אֲוִ֧יר שֶׁעוֹלֶ֛ה מִתְּה֥וֹם שֶׁאֵינְכֶ֖ם מַחְנִקִֽים׃  [ס]
 </span></div></td>
 
-<td width="36%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 I call you
 To eat what I
 call
@@ -564,99 +428,68 @@ Air that comes from an earth you do not choke.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
-אלכם אקרא
-להתיצב
-לפני עמים ורוזנים
-</span></div></td>
-
-<td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
 אֲלֵיכֶ֨ם אֶקְרָ֜א 
 לְהִתְיַצֵּ֕ב 
 לִפְנֵ֥י עַמִּ֖ים וְרוֹזְנִֽים׃
 </span></div></td>
 
-<td width="36%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 I call you to speak
 to all the peoples,
 all the rulers.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
-להדריך לאומים 
-לרוות את האדמה במים זכים מרעל
-להאמירם לנקות ולזכות גשמי חורף.‏
-</span></div></td>
-
-<td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
 לְהַדְרִ֨יךְ לְאֻמִּ֤ים 
 לִרְווֹת֙ אֶת־הָ֣אֲדָמָ֔ה בְמַ֥יִם זַכִּ֖ים מֵרַ֑עַל 
 לְהַ֣אֲמִירָ֔ם לְנַקּ֥וֹת וְלִזְכּ֖וֹת גִּשְׁמֵ֥י חֽוֹרֶף׃ [ס]
 </span></div></td>
 
-<td width="36%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 I call you to walk forth before all nations,
     to pour out water that is free of poison
     and call them all to clean and clarify the rains of winter.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
-אלכם אקרא לחבוט ערבות עלי אדמות
-ובקול מבשר ואומר להשמיע ארוכה לכל העמים...‏
-</span></div></td>
-
-<td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
 אֲלֵיכֶ֨ם אֶקְרָ֜א לַחְבּ֛וֹט עֲרָב֖וֹת עֲלֵי־אֲדָמ֑וֹת 
 וּבְק֤וֹל מְבַשֵּׂר֙ וְאוֹמֵ֔ר לְהַשְׁמִ֥יעַ אֲרוּכָ֖ה לְכׇל־הָעַמִּֽים׃  [ס]
 </span></div></td>
 
-<td width="36%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 I call you to beat your willows on the earth
 and shout its healing to all peoples.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
-אליכם אקרא להזהיר את כל העדות
-לטהר את אויר שהוא רוחי ונשמתי
-לטהרו מכל מיני קיטורי מוות
-המהפכים את ארצי לכור וכבשן:‏
-</span></div></td>
-
-<td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
 אֲלֵיכֶ֨ם אֶקְרָ֜א לְהַזְהִ֣יר ׀ אֵ֣ת כׇּל־הָעֵד֗וֹת 
 לְטַהֵר֙ אֶת־אֲוִ֔יר שֶׁה֥וּא רוּחִ֖י וְנִשְׁמָתִ֑י 
 לְטַהֲר֗וֹ מִכׇּל־מִינֵי֙ קִיט֣וֹרֵי מָ֔וֶת 
 הַמַּהְפָּכִ֥ים אֶת־אָרְצִ֖י לְכ֥וּר וְכִבְשָֽׁן׃  [ס]
 </span></div></td>
 
-<td width="36%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 I call on you to call on all the peoples
 to cleanse My Breath, My air,
 from all the gases
 that turn My earth into a furnace.
-	</div></td></tr>
+</div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
-אליכם אקרא להאיר את כל צבעי הקשת
-להרים נס נראה לכל רואה
-דגל הברית ביני 
-ובין בני נח ונעמה
-ולכל נשמה החיה עלי אדמות
-כדי 
-שלא ישבות 
-לעולמי עד
-זריעה וקציר 
-קור וחום:
-קיץ וחורף 
-לילה ויום 
-לא ישבותו:‏
-</span></div></td>
-
-<td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
 אֲלֵיכֶ֨ם אֶקְרָ֜א לְהָאִ֛יר אֶת־כׇּל־צַבָּעֵ֖י הַקָּ֑שֶׁת 
 לְהָרִ֣ים נֵס֩ נִרְאֶ֨ה לְכׇל־רוֹאֶ֜ה 
 דֶּ֣גֶל הַבְּרִ֗ית בֵּינִ֨י 
@@ -672,7 +505,8 @@ that turn My earth into a furnace.
 לֹ֥א יִשְׁבֹּֽתוּ׃ [ס]
 </span></div></td>
 
-<td width="36%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 I call you to light the colors of the Rainbow,
 To raise once more before all eyes
 That banner of the covenant between Me,
@@ -686,39 +520,26 @@ all the days of the earth, shall
     summer and winter,
     day and night
     ever cease!
-	</div></td></tr>
+</div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
-א‏לכם אקרא! ‏
-ואהבתם את נשמת החיים
-כי האהבה היא הלהב בתוך הקשת.‏
-</span></div></td>
-
-<td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
 אֲלֵיכֶ֨ם אֶקְרָ֜א 
 וַאֲהַבְתֶּ֛ם אֶת־נִשְׁמַ֖ת הָחַיִּ֑ים 
 כִּ֧י הָאַהֲבָ֛ה הִ֥יא הַלַּהַ֖ב בְּת֣וֹךְ הַקָּֽשֶׁת׃  [ס]
 </span></div></td>
 
-<td width="36%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 I call you to love the Breath of Life—
 For love is the fire
 That blazes in the Rainbow.
-	</div></td></tr>
+</div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
-אלכם אקרא לחיות לשבע דורות
-כימי צאתכם מן השעיבוד
-והארץ תוציא את המן 
-לשבע דורות
-לחם חדוה וחרות
-ואז תשיר הארץ כולה כאחד
-את השיר החדש מזמור שיר ליום השבת:‏
-</span></div></td>
-
-<td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
 אֲלֵיכֶ֨ם אֶקְרָ֜א לִחְי֗וֹת לְשֶׁ֧בַע דוֹר֛וֹת 
 כִּימֵ֥י צֵאתְכֶ֖ם מִן־הַשִּׁיעְבּ֑וּד 
 וְהָאָ֨רֶץ תּוֹצִ֤יא אֶת־הַמָּן֙ 
@@ -728,7 +549,8 @@ That blazes in the Rainbow.
 אֶת־הַשִּׁ֣יר הֶחָדָ֑שׁ מִזְמ֕וֹר שִׁ֖יר לְי֥וֹם הַשַּׁבָּֽת׃  [ש]
 </span></div></td>
 
-<td width="36%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 I call you so to live for seven generations
 As in the days when you went forth from slavery;
 So in these seven generations
@@ -739,18 +561,31 @@ Songs of Shabbos.
 </div></td></tr>
 </tbody></table>
 
-מאנגלית לעברית: משולם זלמן חייא הכהן שחטר־שלומי
-
 <hr />
 
 This haftarah was transcribed by Aharon Varady from a PDF first published at <a href="https://theshalomcenter.org/node/487">The Shalom Center</a>. The transcription was incomplete in places. Reb Zalman added a couple lines of his own in his Hebrew translation, and where that occurs I've added translations of them in brackets. In December 2018/5779, Isaac Gantwerk Mayer added vocalization and cantillation for Reb Zalman's Hebrew translation. (Thank you!) --Aharon Varady
 
+<h3>Recordings</h3>
+
+the Rainbow Haftarah Chanted by Isaac Gantwerk Mayer
+https://archive.org/download/RainbowHaftarahCantillated/TheRainbowHaftarahByArthurWaskowhebrewTranslationByZalmanSchachter-shalomiCantillatedByIsaacGantwerkMayer.mp3
+
 <h3>Source</h3>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/RainbowHaftarahCantillated/TheRainbowHaftaraharthurWaskowTrans.ZalmanSchachter-shalomi1993#mode/2up"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/rainbow-haftarah-arthur-waskow-1993/Zalman%20Schachter-Shalomi%27s%20Hebrew%20translation%20of%20Arthur%20Waskow%27s%20Rainbow%20Haftarah%20%28cantillated%20by%20Isaac%20Mayer%202018%29#page/n0/mode/2up"]
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/RainbowHaftarahCantillated#mode/2up"]
+&nbsp;
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/RainbowHaftarahCantillated/TheRainbowHaftarahCantillatedByHazzanJackKesslerarthurWaskowTrans.ZalmanSchachter-shalomi1993#mode/2up"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/rainbow-haftarah-arthur-waskow-1993/Arthur%20Waskow%27s%20Rainbow%20Haftarah%20%28tropified%20by%20Jack%20Kessler%29#page/n0/mode/2up"]
+
+&nbsp;
+
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/rainbow-haftarah-arthur-waskow-1993/Arthur%20Waskow%27s%20Rainbow%20Haftarah%20%28Hebrew%20translation%20by%20Zalman%20Schachter-Shalomi%201993%29#page/n0/mode/2up"]
+
+&nbsp;
+
+<hr />
+
+&nbsp;
 </body>
 </html>

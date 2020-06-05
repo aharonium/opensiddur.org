@@ -53,7 +53,7 @@ And you infuse them all with Life.[foot]Neḥemyah 9:6 partial[/foot]
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-[here give Tsedakah]
+<span class="instruction">[here give Tsedakah]</span>
 </div></td></tr>
 
 

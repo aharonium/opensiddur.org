@@ -39,7 +39,7 @@ Wo Dein sanfter Flügel weilt.
 <td style="vertical-align:top;" width="33%">
 <div class="english">
 Joy, beautiful spark of <em>Elohim</em>,
-Daughter of Elysium,
+Daughter of <em>Gan Aden</em>,
 We enter, fire-drunk,
 Heavenly, thy sanctuary.
 Thy magic powers re-unite

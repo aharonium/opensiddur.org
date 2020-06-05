@@ -92,8 +92,8 @@ I would not murder in Heaven’s name!
 </tbody></table>
 
 <hr />
-The poem “Wormicide” can be found in Alter Abelson’s collection of poetry, <em>Sambatyon and other Poems, vol. 1</em> (New York: Ariel Publications, 1931), p. 258.
 
+The poem “Wormicide” can be found in Alter Abelson’s collection of poetry, <em>Sambatyon and other Poems, vol. 1</em> (New York: Ariel Publications, 1931), p. 258.
 
 <h3>Source(s)</h3>
 

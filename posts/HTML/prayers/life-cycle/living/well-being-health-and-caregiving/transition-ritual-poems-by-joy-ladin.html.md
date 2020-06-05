@@ -195,6 +195,7 @@ My voice is the voice of becoming:
 <hr />
 
 <h3>Psalms: Transformation as a Jewish Spiritual Path</h3>
+
 By Dr. Joy Ladin
 
 Trans Jews often feel estranged from traditional Jewish texts, which don’t reflect or acknowledge us or our experiences. However, many Biblical Psalms describe the search for and presence of God in terms of radical transformation of fundamental cagetories.

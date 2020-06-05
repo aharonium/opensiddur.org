@@ -13,64 +13,89 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tr>
 <td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
-<tbody>
-<tr>
-<td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
 אָֽנָּא יְיָ מֶֽלֶךְ רַחֲמִים,
  אֵל אֱלֹהֵי הָרוּחוֹת לְכׇל־בָּשָׂר,
- אֲבִי יְתוֹמִים וְדַיַּן[foot]Note that in <em>Sefer Totza’ot HaHayyim</em> (after some passages of Torah study; p. 111), Rabbi Joseph Nobel spells this word with the final vowel being a <em>kamatz</em> ( ָ), rather than a <em>patah</em> ( ַ ); however, because the word <em>dayyan</em> (דַּיָּן) here is in <em>semikhut</em> (סְמִיכוּת, “subordination”) form (the grammatical form where the noun preceding the next noun—without the use of a preposition or any word in-between—acts subordinately in relation to the following word), the grammatically correct vocalization is as written in the version of the text here, with a <em>patah</em>.[/foot] אַלְמָנוֹת אֱלֹהִים בִּמְעוֹן קׇדְשֶֽׁךָ! 
+ אֲבִי יְתוֹמִים וְדַיַּן[foot]Note that in <em>Sefer Totza’ot HaḤayyim</em> (after some passages of Torah study; p. 111), Rabbi Joseph Nobel spells this word with the final vowel being a <em>kamatz</em> (ָ), rather than a <em>patah</em> (ַ); however, because the word <em>dayyan</em> (דַּיָּן) here is in <em>semikhut</em> (סְמִיכוּת, “subordination”) form (the grammatical form where the noun preceding the next noun—without the use of a preposition or any word in-between—acts subordinately in relation to the following word), the grammatically correct vocalization is as written in the version of the text here, with a <em>pataḥ</em>.[/foot] אַלְמָנוֹת 
+אֱלֹהִים בִּמְעוֹן קׇדְשֶֽׁךָ! 
 תָּבֹא לְפָנֶֽיךָ תְּפִלָּתִי וְתוֹרַת חַיִּים שֶׁלָּמַדְתִּי בַּעֲבוּר נִשְׁמַת
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%"><div class="english">
-Please Lord, Sovereign of Compassion, 
-God, Arbiter of the spirits of all flesh, 
+Please YHVH, Sovereign of Compassion, 
+El, Arbiter of the spirits of all flesh, 
 Parent of Orphans and Judge of widows: 
-God, from the source of Your holiness! 
+Elohim, from the source of Your holiness! 
 May my prayer and the Torah of life that I have learned come before you on account of the soul,
-    </div></td></tr>   <tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
-<span class="instruction">להזכרת אב:</span> אָבִי מוֹרִי         (שם האב)         הַנּוֹלַד מִן       (שם אביו)        שֶׁהָלָךְ לְעוֹלָמוֹ
+</div></td></tr>
 
-<span class="instruction">להזכרת אם:</span> אִמִּי מוֹרָתִי         (שם האם)         הַנּוֹלֶֽדֶת מִן        (שם אביה)        שֶׁהָלְכָה לְעוֹלָמָהּ
+
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+<span class="instruction">להזכרת אב:</span> אָבִי מוֹרִי         <span class="instruction">(שם האב)</span>         הַנּוֹלַד מִן       <span class="instruction">(שם אביו)</span>        שֶׁהָלָךְ לְעוֹלָמוֹ
+
+<span class="instruction">להזכרת אם:</span> אִמִּי מוֹרָתִי         <span class="instruction">(שם האם)</span>         הַנּוֹלֶֽדֶת מִן        <span class="instruction">(שם אביה)</span>        שֶׁהָלְכָה לְעוֹלָמָהּ
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%"><div class="english">
-         (parent’s name)        born of        (grandparent’s name)      , who has gone on to her/his world. 
-    </div></td></tr>   <tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+<span class="instruction">(parent’s name)</span>        born of        <span class="instruction">(grandparent’s name)</span>, who has gone on to her/his world. 
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
 <span class="instruction">כולם ממשיכים:</span> וּבַאֲשֶׁר שֶׁלֹּא אוּכַל לְכַבֵּד זִכְרוֹן
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%"><div class="english">
 As I cannot honor the memory of 
-    </div></td></tr>   <tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
-<span class="instruction">להזכרת אב:</span>              (שם האב)            נִשְׁמָתוֹ
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+<span class="instruction">להזכרת אב:</span>              <span class="instruction">(שם האב)</span>            נִשְׁמָתוֹ
  
-<span class="instruction">להזכרת אם:</span>              (שם האם)            נִשְׁמָתָהּ
+<span class="instruction">להזכרת אם:</span>              <span class="instruction">(שם האם)</span>            נִשְׁמָתָהּ
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%"><div class="english">
-         (parent’s name)     ’s soul by saying a communal Kaddish, 
-    </div></td></tr>   <tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
-<span class="instruction">כולם ממשיכים:</span> בַּאֲמִירַת קַדִּישׁ בְּצִבּוּר[foot]In Nobel’s version, this word is spelled inconsistently with standard Hebrew grammatical laws: בְּצִיבּוֹר. The above text has incorporated this correction.[/foot] אַתָּה יְיָ הָרוֹאֶה לַלֵּבָב תְּצַדֵּף[foot]This word is likely a mistake for either תְּצַדֵּק (“justify”) or תְּצָרֵף (“link”). The translation here follows the latter interpretation.[/foot] מַחֲשָׁבָה טוֹבָה לְמַעֲשֶׂה וְהָיְתָה נֶֽפֶשׁ
+<span class="instruction">(parent’s name)</span>’s soul by saying a communal Kaddish, 
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+<span class="instruction">כולם ממשיכים: בַּאֲמִירַת קַדִּישׁ בְּצִבּוּר</span>[foot]In Nobel’s version, this word is spelled inconsistently with standard Hebrew grammatical laws: בְּצִיבּוֹר. The above text has incorporated this correction.[/foot] אַתָּה יְיָ הָרוֹאֶה לַלֵּבָב תְּצַדֵּף[foot]This word is likely a mistake for either תְּצַדֵּק (“justify”) or תְּצָרֵף (“link”). The translation here follows the latter interpretation.[/foot]&nbsp;
+מַחֲשָׁבָה טוֹבָה לְמַעֲשֶׂה 
+וְהָיְתָה נֶֽפֶשׁ
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%"><div class="english">
-You God who examines hearts, may You link good thinking to such action, and may the spirit of my
-    </div></td></tr>   <tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
-<span class="instruction">להזכרת אב:</span> אָבִי מוֹרִי              (שם האב)            נִשְׁמָתוֹ
+You YHVH, who examines hearts, 
+may You link good thinking to such action, 
+and may the spirit of my
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+<span class="instruction">להזכרת אב:</span> אָבִי מוֹרִי              <span class="instruction">(שם האב)</span>            נִשְׁמָתוֹ
  
-<span class="instruction">להזכרת אם:</span> אִמִּי מוֹרָתִי              (שם האם)            נִשְׁמָתָהּ
+<span class="instruction">להזכרת אם:</span> אִמִּי מוֹרָתִי              <span class="instruction">(שם האם)</span>            נִשְׁמָתָהּ
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%"><div class="english">
-         (relation)         , my teacher,       (parent’s name)     ’s soul 
-    </div></td></tr>   <tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
-<span class="instruction">כולם ממשיכים:</span> צְרוּרָה בִּצְרוֹר הַחַיִּים בְּגַן עֵֽדֶן עִם כׇּל־שְׁאָר צַדִּיקִים וְצַדִּיקוֹת[foot]This term, referring to “righteous women,” is technically already subsumed under the previous word צַדִּיקים (<em>tzaddikim</em>), “righteous people.” Some may choose to omit the word וְצַדִּיקוֹת (<em>vetzaddikot</em>).[/foot] חֲסִידִים[foot]In Nobel’s printing, there is a <em>dagesh</em> in the dalet of hasidim, thusly spelled incorrectly: חֲסִידִּים.[/foot] וַחֲסִידוֹת[foot]This term, referring to “pious women,” is technically already subsumed under the previous word חֲסִידִים (hasidim), “righteous people.” Some may choose to omit the word וַחֲסִידוֹת (<em>vahasidot</em>).[/foot] הַחוֹסִים בְּצֵל כְּנָפֶֽיךָ אָמֵן וְאָמֵן:
+<span class="instruction">(relation)</span>, my teacher, <span class="instruction">(parent’s name)</span>’s soul 
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+<span class="instruction">כולם ממשיכים:</span> צְרוּרָה בִּצְרוֹר הַחַיִּים בְּגַן עֵֽדֶן 
+עִם כׇּל־שְׁאָר צַדִּיקִים וְצַדִּיקוֹת[foot]This term, referring to “righteous women,” is technically already subsumed under the previous word צַדִּיקים (<em>tzaddikim</em>), “righteous people.” Some may choose to omit the word וְצַדִּיקוֹת (<em>vetzaddikot</em>).[/foot] חֲסִידִים[foot]In Nobel’s printing, there is a <em>dagesh</em> in the dalet of hasidim, thusly spelled incorrectly: חֲסִידִּים.[/foot] וַחֲסִידוֹת[foot]This term, referring to “pious women,” is technically already subsumed under the previous word חֲסִידִים (hasidim), “righteous people.” Some may choose to omit the word וַחֲסִידוֹת (<em>vahasidot</em>).[/foot]&nbsp;
+הַחוֹסִים בְּצֵל כְּנָפֶֽיךָ 
+אָמֵן וְאָמֵן:
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%"><div class="english">
-be bound in the bond of life in the Garden of Eden, along with all other righteous and pious people, sheltered beneath the shade of Your wings. <em>Amen</em>, and <em>amen</em>.
+be bound in the bond of life in the Garden of Eden, 
+along with all other righteous and pious people, 
+sheltered beneath the shade of Your wings. 
+Amen, and amen.
 </td></tr>
 </tbody></table>
 

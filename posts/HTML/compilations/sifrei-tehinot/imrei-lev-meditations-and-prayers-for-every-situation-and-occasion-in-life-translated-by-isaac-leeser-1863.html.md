@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: אמרי לב | Imrei Lev - Meditations And Prayers For Every Situation And Occasion In Life by Jonas Ennery, revised and adapted from the translation of Hester Rothschild by Isaac Leeser (1863)<br />
+Title: אמרי לב | Meditations and Prayers, an unendorsed revision by Isaac Leeser (1863) of an abridged translation by Hester Rothschild (1855) of a collection of teḥinot by Rabbi Arnaud Aron & Jonas Ennery (1848)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=10136">http://opensiddur.org/?p=10136</a>
 <p />
@@ -11,11 +11,25 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <hr />
 
-<h3>Source(s)</h3>
+<em>Meditations and Prayers</em> is an unendorsed revision by Isaac Leeser in 1863 of the second edition of an abridged translation by Hesther Rothschild in 1855 titled אמרי לב <em><a href="https://opensiddur.org/compilations/sifrei-tehinot/prayers-and-meditations-by-rabbi-arnaud-aron-jonas-ennery-translated-by-hesther-rothschild-1855/">Prayers and Meditations</a></em>, adapted from <em><a href="https://opensiddur.org/compilations/sifrei-tehinot/imrei-lev-prieres-dun-coeur-israelite-by-jonas-ennery-and-arnaud-aron-1848/">Prières d’un Cœur Israelite</a></em> published by the “Société Consistoriale de Bons Livres” (1848). The original work by Rabbi Arnaud Aron and Jonas Ennery contains tkhines translated into French, prayers by German reformers in French translation, and many additional liturgical translations and paraliturgical prayers. Rothschild's work presents several prayers in English unique to her compilation by Anglo-Jewish writers. Leeser's corrections in our opinion present improved translations over Rothschild's work in some cases -- and a more complete comparison is necessary to determine which material in this work is original to Leeser in order to properly provide credit for each paryer.
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/meditationsandp00jewsgoog#page/n7/mode/2up"]
 
-<div class="english">
+<div class="english" style="font-size: 1.2em;">
+<h3>[<a href="http://ubuwebser.cajs.upenn.edu/documentDisplay.php?id=LSDCBx3FF1_13">Letter from Hesther Rothschild to Isaac Leeser</a>]</h3>
+
+London February 16th 1866
+To the Revd Isaac Leeser
+
+Sir,
+
+Seeing in a recent number of the „Occident” an advertisement announcing the publication of “Meditations and Prayers adapted from the French by Hester Rothschild, American stereotype edition revised and corrected by Isaac Leeser.” I beg you will have the courtesy to withhold the publication as well as any further announcement of the correction and revision by you, until I am in a position to judge of and sanction such a revision and correction, for which purpose I must request you will be good enough to favor me with a copy of the work or a full and accurate list of the said corrections and revisions, as my M.S. of the first edition was submitted to our reverend chief Rabbi Dr Adler for his approval and the last English edition was most carefully looked over and revised by myself and a gentleman ably fitted for the task. I am induced to appeal to your gentlemanly feeling and sense of right by an old and esteemed friend Mr Jacob Franklin, whom you know as he has taken some trouble in your behalf in the matter of your translation of the Bible; and he assures me that although there is no international copyright between England and the United States, yet, you would be certain to acknowledge the moral obligations existing towards a laborer, however humble, who, although working but in the vestibule of literature, has bestowed much care, love and conscientiousness on the little volume in question. Therefore, I must claim from you, the withdrawal of the expressions „corrected and revised by Isaac Leeser” from your advertisements as well as from the work which should not be altered except by myself whilst it bears my name and I am still living. Hoping, Sir, that you will be good enough to accede to my wish
+
+I have the honor to be, Sir
+Yours very obediently
+Hester Rothschild
+
+
 <h3>[Isaac Leeser's Preface]</h3>
 
 In presenting this volume of meditations and prayers to the public, but little need be said on the propriety, we may almost say the necessity, of issuing a work of the kind to serve as a manual of domestic devotion in addition to our usual public form of service, whether of the Portuguese or German custom. Nothing, indeed, at all equal to this has ever been given to the world; for, let fault-finders say what they will, not a book of devotion ever devised contains so much that is sublime, useful, instructive, and consolatory, as does our liturgy. Still, it has always been the custom of our people to have short prayers in the languages used by them, in addition to the daily and festival services; and it is only following the good example of the great ones of former years, to place in the hands of our females especially a book which is, so to say, a mirror of the soul, containing reflections and short formulae of petitions or thanksgiving adapted to the several circumstances of our existence, to serve as a constant companion in our life’s journey, whether the incidents be of joy or of sorrow. It is erroneous to assert that Israelites are opposed to the use of prayer in the languages of the various countries. The efforts which have been made, both in ancient and modern times, to furnish special composition in tongues other than the Hebrew, and this by the most earnest and pious teachers, prove the contrary. The retention of the Hebrew, however, has quite another reason, namely, to maintain our national speech as the vehicle for public prayers and reading of the Law, in order to preserve a bond of union which, while it exists, can withstand all assaults against our religion, as it enables us, at all times, to verify any assertion made as founded on the Scriptures, by referring at once to the original text, which will uniformly refute all forced constructions, that are generally the only proof against our faith. But if the Hebrew were once banished, we should have to rely on authorised versions of the Holy Text, and thus open the door to all the evils resulting from resorting to a varying standard, which in itself is but an approximation to, not a perfect transcript of, the Divine Word. As long as our worship is, therefore, in the language of Israel, this will be studied and far better understood than others which are not the vernacular of the respective countries where we live, and will, at the same time, render the Synagogue an acceptable meeting-place for Israelites all over the world, who will listen there to a worship in which they can freely participate, as it is the same, or nearly the same, allowing for differences in Minhag, with what they have been accustomed to from infancy. It is, therefore, absolutely requisite that the knowledge of the Hebrew should be universally diffused among us, so that it may be, in truth, the language of heartfelt devotion, —not merely a lip-service without effect on the mind.
@@ -205,8 +219,7 @@ MEDITATIONS FOR EVERY DAY OF THE WEEK
 <a href="https://opensiddur.org/?p=16289">Meditation for Tuesday (Third Day)—On the Love of thy Neighbour</a>
 <a href="https://opensiddur.org/?p=16321">Meditation for Wednesday (Fourth Day)—On False Shame in Matters of Religion</a>
 <a href="https://opensiddur.org/?p=19542">Meditation for Thursday (Fifth Day)—On our Duties as Israelites</a>
-<a href="http://opensiddur.org/?p=29113">Meditation for the Eve of Sabbath (Friday)—On Providence</a>
-</p>
+Meditation for the Eve of Sabbath (Friday)</p>
 VARIOUS MEDITATIONS FOR SABBATHS AND FESTIVALS
 <p style="padding-left: 30px;">I. The Mission of Israel
 II. On the Unity of God

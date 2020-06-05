@@ -2,7 +2,7 @@
 <head></head>
 <body>
 Title: בּרידער | "Brothers" – Y.L. Peretz's Sardonic Rejoinder to Friedrich Schiller's Paean to Universal Enlightenment, An die Freude (Ode to Joy)<br />
-Primary contributor: aharon.varady<br />
+Primary contributor: aharon.n.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=12784">http://opensiddur.org/?p=12784</a>
 <p />
 <hr />
@@ -45,7 +45,7 @@ From the same father, from the same mother!
 <tr><td style="vertical-align:top;" width="46%">
 <div class="yiddish" style="text-align: right;"><span lang="he">
 אױך — אײן גאָט האָט זײ באַשאַפן,
-און — אײן ,פאָטערלאַנד די װעלט —
+און — אײן פאָטערלאַנד די װעלט —
 אלע מענטשן זײנען ברידער,
 דאָס איז אײנמאָל פעסטגעשטעלט!
 </span></div>
@@ -130,10 +130,10 @@ it's all an Enlightenment fiction!
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Everywhere the same <em>mussar</em>, [foot]moral, ethic, instruction, rebuke[/foot]&nbsp;<br />
+Everywhere the same <em>mussar</em>,[foot]moral, ethic, instruction, rebuke[/foot]&nbsp;<br />
 everywhere the same lie –
 the whole world with their mouth,
-the politician with their silence![foot]Thanks to Sabine Arndt for offering this interpretation.[/foot]
+the politicians with their silence![foot]Thanks to Sabine Arndt for offering this interpretation.[/foot]
 </div>
 </td></tr>
 
@@ -162,7 +162,7 @@ The three stanzas of Y.L. Peretz's "<em>Ale mentshn zaynen brider</em>" left uns
 
 I have not been able to learn any more details on when and where exactly Peretz wrote this poem. In 1889, Peretz's license to practice law was revoked by the Imperial Russian authorities on the basis of suspicion of Polish nationalist feelings. From his <a href="https://en.wikipedia.org/wiki/I._L._Peretz">article on wikipedia</a>, "Y.L. Peretz rejected cultural universalism, seeing the world as composed of different nations, each with its own character. Liptzin comments that "Every people is seen by him as a chosen people..."; he saw his role as a Jewish writer to express "Jewish ideals...grounded in Jewish tradition and Jewish history....While most Jewish intellectuals were unrestrained in their support of the Russian Revolution of 1905, Peretz's view was more reserved, focusing more on the pogroms that took place within the Revolution, and concerned that the Revolution's universalist ideals would leave little space for Jewish non-conformism."
 
-I have transcribed Y.L. Peretz's poem from <a href="https://archive.org/stream/nybc204295#page/n280/mode/2up">Oysgeṿeylṭe ṿerḳ in tsṿey bender</a> (1951), p.278-279. Many thanks to Dr. Raphael Finkel for his help with translation and interpretation.
+I have transcribed Y.L. Peretz's poem from <a href="https://archive.org/stream/nybc204295#page/n280/mode/2up">Oysgeṿeylṭe ṿerḳ in tsṿey bender</a> (1951), p.278-279. Many thanks to Dr. Raphael Finkel for his help with translation and interpretation and to Dr. Sabine Arndt with her suggestion. --Aharon Varady
 
 <h3>Source</h3>
 

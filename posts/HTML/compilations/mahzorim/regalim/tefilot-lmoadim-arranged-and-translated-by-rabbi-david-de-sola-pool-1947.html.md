@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/tefilotlmoadimdaviddesolapool1947#page/n2/mode/2up"]
 
-This work is in the Public Domain due to the lack of a copyright renewal by the copyright holder listed in the copyright notice (a condition required for works published in the United States between January 1st 1924 and January 1st 1964).
+This work has less than twenty years before the term of its copyright expires, during which we claim our <a href='https://www.law.cornell.edu/uscode/text/17/108'>Reproduction Right</a> (17 U.S. Code &sect;108 - Limitations on exclusive rights: Reproduction by libraries and archives), under United States Copyright law.
 
 This work was scanned by Aharon Varady for the Open Siddur Project from a volume held in the collection of the HUC Klau Library, Cincinnati, Ohio. (Thank you!) This work is cross-posted to the Internet Archive, as a repository for our transcription efforts.
 

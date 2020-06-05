@@ -110,7 +110,8 @@ by which the medicine affects the disease.
 <td style="vertical-align:top;" width="53%">
 <div class="english">
 Please grant me the privilege to notice any and every mistake and error, 
-of my own and those of my friends in the line of medication distribution, 
+of my own and those of my friends 
+in the line of medication distribution, 
 and to act rapidly to correct it, 
 before the medicine reaches the body of the ill patient.
 </div>
@@ -186,6 +187,6 @@ Amen
 </div>
 </td></tr></tbody></table>
 
-This prayer was originally published April 13th, 2013 on Dafna Meir's blog, Derekh Nashim (Women's Ways), <a href="https://derechnashim.wordpress.com/2013/04/25/%D7%AA%D7%A4%D7%99%D7%9C%D7%94-%D7%9C%D7%A4%D7%A0%D7%99-%D7%97%D7%9C%D7%95%D7%A7%D7%AA-%D7%AA%D7%A8%D7%95%D7%A4%D7%95%D7%AA/">here</a>, writing "את התפילה זכיתי לחבר תוך כדי למידה למבחן תרופות במחלקה הנוירוכירורגית בסורוקה, בה אני עובדת." (The prayer I composed for a friend while studying for a test at the Neurosurgery department at Soroka Hospital, which I work.) English translation by Moshe F. via <a href="http://www.israellycool.com/2016/01/18/dafna-meirs-prayer/">Israellycool</a>. More about Dafna Meir, <a href="http://www.timesofisrael.com/dafna-meir-killed-in-front-of-her-children-had-premonitions-of-tragedy/">here</a> and <a href="http://www.israelnationalnews.com/News/News.aspx/206634">here</a>. The prayer was disseminated widely over mailing-lists soon after Dafna was murdered in a terrorist attack on her home in <a href="https://en.wikipedia.org/wiki/Otniel">Otniel</a> in the South Hebron Hills on January 17, 2017. 
+This prayer was originally published April 13th, 2013 on Dafna Meir's blog, Derekh Nashim (Women's Ways), <a href="https://derechnashim.wordpress.com/2013/04/25/%D7%AA%D7%A4%D7%99%D7%9C%D7%94-%D7%9C%D7%A4%D7%A0%D7%99-%D7%97%D7%9C%D7%95%D7%A7%D7%AA-%D7%AA%D7%A8%D7%95%D7%A4%D7%95%D7%AA/">here</a>, writing "את התפילה זכיתי לחבר תוך כדי למידה למבחן תרופות במחלקה הנוירוכירורגית בסורוקה, בה אני עובדת." (The prayer I composed for a friend while studying for a test at the Neurosurgery department at Soroka Hospital, which I work.) English translation by Moshe F. via <a href="http://www.israellycool.com/2016/01/18/dafna-meirs-prayer/">Israellycool</a>. More about Dafna Meir, <a href="http://www.timesofisrael.com/dafna-meir-killed-in-front-of-her-children-had-premonitions-of-tragedy/">here</a> and <a href="http://www.israelnationalnews.com/News/News.aspx/206634">here</a>. The prayer was disseminated widely over mailing-lists soon after Dafna was murdered in a terrorist attack on her home in <a href="https://en.wikipedia.org/wiki/Otniel">Otniel</a> in the South Hebron Hills on January 17, 2017.
 </body>
 </html>

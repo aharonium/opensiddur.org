@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: אַמעריקע די פּרעכטיקע | America the Beautiful, a patriotic hymn by Katharine Lee Bates (Yiddish translation by Berl Lapin, 1950)<br />
+Title: אַמעריקע די פּרעכטיקע | America the Beautiful, a patriotic hymn by Katharine Lee Bates (1895)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=28792">http://opensiddur.org/?p=28792</a>
 <p />
@@ -140,7 +140,7 @@ We are very grateful to Samantha Zerin who identifies Berl Lapin as the translat
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/americabeautiful00baterich#page/n17/mode/2up"]
 
 <hr />
-&nbsp;
 
+&nbsp;
 </body>
 </html>

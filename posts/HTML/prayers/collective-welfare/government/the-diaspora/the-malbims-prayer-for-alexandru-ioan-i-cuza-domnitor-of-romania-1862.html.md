@@ -1,13 +1,11 @@
 <html>
 <head></head>
 <body>
-Title: תפילה לה בעד חיי׳ המלך אדוננו ובעד טובת | Prayer for Alexandru Ioan I Cuza, Domnitor of Romania, by Rabbi Meir Leibush (1862)<br />
+Title: תפילה לה׳ בעד חיי׳ המלך אדוננו ובעד טובת | Prayer for Alexandru Ioan I Cuza, Domnitor of Romania, by Rabbi Meir Leibush (1862)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=5960">http://opensiddur.org/?p=5960</a>
 <p />
 <hr />
-
-[caption id="attachment_5978" align="aligncenter" width="498"]<a href="https://opensiddur.org/wp-content/uploads/2013/02/Alexandru_Ioan_Cuza_-_Photo_by_Carol_Popp_de_Szathmáry.jpg"><img src="https://opensiddur.org/wp-content/uploads/2013/02/Alexandru_Ioan_Cuza_-_Photo_by_Carol_Popp_de_Szathmáry.jpg" alt="Photo of Alexandru Ioan Cuza (credit: Carol Popp de Szathmáry, Public Domain)" width="498" height="767" class="size-full wp-image-5978" /></a> <a href="http://en.wikipedia.org/wiki/File:Alexandru_Ioan_Cuza_-_Photo_by_Carol_Popp_de_Szathm%C3%A1ry.jpg">Photo of Alexandru Ioan Cuza</a> (credit: Carol Popp de Szathmáry, Public Domain)[/caption]
 
 <table style="width:100%;margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (Romanian)</th><th style="text-align: left;">Translation (English)</th></tr></thead>

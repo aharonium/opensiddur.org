@@ -8,7 +8,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <hr />
 
 <table style="width:100%;margin-left: auto;margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: left;">Source (German)</th><th style="text-align: right;">Translation (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
+<thead><tr><th id="x" style="text-align: left;">Source (German)</th><th style="text-align: right;">Translation (Hebrew)</th><th style="text-align: left;">Translation (English)</th><th style="text-align: left;">Translation (Magyar)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
 <div class="german"><span lang="de">
@@ -23,7 +23,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 <td style="vertical-align:top;">
 <div class="english">
 <u>The Physician's Prayer</u>
-</div></td></tr>
+</div></td>
+
+<td style="vertical-align:top;">
+<div class="magyar"><span lang="hu">
+<u>Az orvos napi fohásza a betegek meglátogatása előtt</u>
+</span></div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
@@ -39,7 +44,12 @@ Allgütiger! Du hast des Menschen Leib voller Weisheit gebildet. Zehn tausend ma
 <td style="vertical-align:top;">
 <div class="english">
 Almighty El, you have created the human body with infinite wisdom. Ten thousand times ten thousand organs have you combined in it that act unceasingly and harmoniously to preserve the whole in all its beauty the body which is the envelope of the immortal soul. They are ever acting in perfect order, agreement and accord. Yet, when the frailty of matter or the unbridling of passions deranges this order or interrupts this accord, then forces clash and the body crumbles into the primal dust from which it came. You send to man diseases as beneficent messengers to foretell approaching danger and to urge him to avert it.
-</div></td></tr>
+</div></td>
+
+<td style="vertical-align:top;">
+<div class="magyar"><span lang="hu">
+Mindenható Isten, Te teremtetted végtelen bölcsességeddel az emberi testet. Tízezerszer tízezer szervet egyesítettél benne, melyek megállás nélkül és harmóniában működnek, hogy megőrizzék a halhatatlan lelket körülfogó test egységét a maga szépségében. Mindegyikük tökéletes rendben működik, egybehangzóan és összehangolva. Mégis, amikor a törékeny anyag, vagy a vágyak szabadon engedése elrontja ezt a rendet, vagy megzavarja ezt az összhangot, akkor az erők összecsapnak, és a test szétmorzsálódik azzá az eredeti porrá, melyből jött. Jóindulatú hírnökökként küldesz az embernek betegségeket, hogy előre figyelmeztessenek a közeledő veszélyre, és arra ösztönözzenek, hogy megelőzzük azt.
+</span></div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
@@ -55,7 +65,12 @@ Deine Erde, deine Ströme, deine Berge hast du mit heilsamen Stoffen geschwänge
 <td style="vertical-align:top;">
 <div class="english">
 You have blessed your earth, your rivers and your mountains with healing substances; they enable your creatures to alleviate their sufferings and to heal their illnesses. 
-</div></td></tr>
+</div></td>
+
+<td style="vertical-align:top;">
+<div class="magyar"><span lang="hu">
+Földedet, folyóidat és hegyeidet gyógyító anyagokkal áldottad meg, melyek lehetővé teszik teremtményeid számára, hogy könnyítsenek a szenvedéseiken és meggyógyítsák a betegségeiket. 
+</span></div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
@@ -71,7 +86,12 @@ Und dem Menschen hast du Weisheit ertheilet, des Menschen Leib zu lösen, undsei
 <td style="vertical-align:top;">
 <div class="english">
 You have endowed man with the wisdom to relieve the suffering of his brother, to recognize his disorders, to extract the healing substances, to discover their powers and to prepare and to apply them to suit every ill. 
-</div></td></tr>
+</div></td>
+
+<td style="vertical-align:top;">
+<div class="magyar"><span lang="hu">
+Bölcsességgel ruháztad fel az embert, hogy könnyíthessen testvérei szenvedésén, megállapíthassa, mi a baja, gyógyító anyagokat találjon, felfedezze azok erejét, elkészítse és alkalmazza őket minden betegnek a saját szükségletei szerint. 
+</span></div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
@@ -87,7 +107,12 @@ Auch mich hat deine ewige Vorsicht erkohren über Leben und Gesundheit deiner Ge
 <td style="vertical-align:top;">
 <div class="english">
 In your Eternal Providence your have chosen me to watch over the life and health of your creatures. I am now about to apply myself to the duties of my profession. Support me, Almighty El, in these great labors that they may benefit mankind, for without your help not even the least thing will succeed.
-</div></td></tr>
+</div></td>
+
+<td style="vertical-align:top;">
+<div class="magyar"><span lang="hu">
+Örök Gondoskodásodban engem választottál, hogy teremtményeid élete és egészsége fölött őrködjem. Most szakmám kötelességeit fogom teljesíteni. Támogass engem, Mindenható Isten, ebben a hatalmas munkában, hogy az az emberiség hasznára váljon, mert a Te segítséged nélkül még a legkisebb dolog sem sikerülhet.
+</span></div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
@@ -103,7 +128,12 @@ Lass Liebe zur Kunst und deinen Geschöpfen mich ganz beseelen. Gieb es nicht zu
 <td style="vertical-align:top;">
 <div class="english">
 Inspire me with love for my art and for your creatures. Do not allow thirst for profit, ambition for renown and admiration, to interfere with my profession, for these are the enemies of truth and of love for mankind and they can lead astray in the great task of attending to the welfare of your creatures. 
-</div></td></tr>
+</div></td>
+
+<td style="vertical-align:top;">
+<div class="magyar"><span lang="hu">
+Olts belém szeretetet a munkám és teremtményeid iránt. Ne engedd, hogy a haszonra való szomjazás, az ismertségre és csodálatraméltóságra való vágyakozás megzavarja a munkámat, mert ezek a igazság és az emberiség szeretetének ellenségei, és rossz útra vezethetnek abban a hatalmas feladatban, hogy teremtményeid jóllétéről gondoskodjam. 
+</span></div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
@@ -119,7 +149,12 @@ Erhalte die Kräfte meines Körpers und meiner Seele aufrecht, dass unverdrossen
 <td style="vertical-align:top;">
 <div class="english">
 Preserve the strength of my body and of my soul that they ever be ready to cheerfully help and support rich and poor, good and bad, enemy as well as friend. In the sufferer let me see only the human being. 
-</div></td></tr>
+</div></td>
+
+<td style="vertical-align:top;">
+<div class="magyar"><span lang="hu">
+Őrizd meg testem és lelkem erejét, hogy mindig készen álljak arra, hogy örömmel segítsem és támogassam a gazdagot és a szegényt, a jót és a rosszat, az ellenséget, valamint a barátot is. Add, hogy a szenvedőben csak az emberi lényt lássam. 
+</span></div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
@@ -135,7 +170,12 @@ Erhalte meinen Verstand gesund und schlicht, dass er das Gegenwärtige fasse, un
 <td style="vertical-align:top;">
 <div class="english">
 Illumine my mind that it recognize what presents itself and that it may comprehend what is absent or hidden. Let it not fail to see what is visible, but do not permit it to arrogate to itself the power to see what cannot be seen, for delicate and indefinite are the bounds of the great art of caring for the lives and health of your creatures. 
-</div></td></tr>
+</div></td>
+
+<td style="vertical-align:top;">
+<div class="magyar"><span lang="hu">
+Világosítsd meg az elmémet, hogy felismerjem, ami nyilvánvalóan megmutatja magát, és felfogjam, ami hiányzik, vagy rejtve van.  Ne hagyd, hogy ne lássa meg azt, ami látható, de ne engedd, hogy megengedje magának, hogy olyat lásson, ami nem látható, mert a teremtményeid élete és egészsége ápolásának határai finomak és határozatlanok. 
+</span></div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
@@ -151,7 +191,12 @@ Lass meinen Geist immerdar sich selbst sein. Am Bette des Leidenden müssen kein
 <td style="vertical-align:top;">
 <div class="english">
 Let me never be absent-minded. May no strange thoughts divert my attention at the bedside of the sick, or disturb my mind in its silent labors, for great and sacred are the thoughtful deliberations required to preserve the lives and health of your creatures.
-</div></td></tr>
+</div></td>
+
+<td style="vertical-align:top;">
+<div class="magyar"><span lang="hu">
+Add, hogy sose legyek szórakozott, furcsa gondolatok ne vonják el a figyelmemet a betegágyak mellett, és ne zavarják meg az elmémet csöndes munkájában, mert nagyok és szentek azok a gondolatokkal teli elhatározások, melyekre szükség van teremtményeid életének és egészségének megőrzéséhez.
+</span></div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
@@ -167,7 +212,12 @@ Verleihe meinen Kranken Zutrauen zu mir und zu meiner Kunst, und Folgsamkeit zu 
 <td style="vertical-align:top;">
 <div class="english">
 Grant that my patients have confidence in me and my art and follow my directions and my counsel. Remove from their midst all charlatans and the whole host of officious relatives and know-all caretakers,[foot]Friedlander's translation reads "nurses," which I've modified. --ANV[/foot] cruel people who arrogantly frustrate the wisest purposes of our art and often lead your creatures to their death.
-</div></td></tr>
+</div></td>
+
+<td style="vertical-align:top;">
+<div class="magyar"><span lang="hu">
+Add, hogy a gondozottaim bízzanak bennem és tudásomban, és kövessék az előírásaimat és a tanácsomat. Távolítsd el közülük a sarlatánokat, a fontoskodó rokonok seregét, a mindentudó ápolókat és azokat a kegyetlen embereket, akik arrogáns módon kérdőjelezik meg hivatásunk legbölcsebb céljait, és gyakran teremtményeid halálát okozzák.
+</span></div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
@@ -183,7 +233,12 @@ Wenn weisere Künstler mich bessern und zurecht weisen wollen, lass meinen Geist
 <td style="vertical-align:top;">
 <div class="english">
 Should those who are wiser than I wish to improve and instruct me, let my soul gratefully follow their guidance; for vast is the extent of our art. Should conceited fools, however, censure me, then let love for my profession steel me against them, so that I remain steadfast without regard for age, for reputation, or for honor, because surrender would bring to your creatures sickness and death.
-</div></td></tr>
+</div></td>
+
+<td style="vertical-align:top;">
+<div class="magyar"><span lang="hu">
+A nálam bölcsebbek fejlesszenek és irányítsanak engem, és add, hogy a lelkem hálásan kövesse az iránymutatásukat, mert hatalmas hivatásunk kiterjedése. Ha azonban öntelt bolondok javítanának ki, akkor add, hogy a szakmám iránt érzett szeretetem megacélozzon ellenükben, hogy szilárd maradhassak koromtól, elismerésemtől, vagy tiszteletemtől függetlenül, mert a megalázkodás betegséget és halált hozna a teremtményeidnek.
+</span></div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
@@ -199,7 +254,12 @@ Verleihe meinem Geist Sanftmuth und Duldsamkeit, wenn ältere Mitkünstler, stol
 <td style="vertical-align:top;">
 <div class="english">
 Imbue my soul with gentleness and calmness when older colleagues, proud of their age, wish to displace me or to scorn me or disdainfully to teach me. May even this be of advantage to me, for they know many things of which I am ignorant, but let not their arrogance give me pain. For they are old and old age is not master of the passions. I also hope to attain old age upon this earth, before you, YHVH my <em>elo'ah</em>!
-</div></td></tr>
+</div></td>
+
+<td style="vertical-align:top;">
+<div class="magyar"><span lang="hu">
+Plántálj gyengédséget és nyugalmat a lelkembe, amikor korukra büszke idősebb kollégáim el akarnak távolítani, megbántanak, vagy megvető modorban okítanak. Forduljon még ez is a javamra, mert ők sok olyasmit tudnak, melyről én nem tudok, de ne legyen számomra fájdalmas az arroganciájuk. Mert ők idősek, és az idős kor nem a szenvedélyek mestere. Remélem, hogy én is elérem ezen a földön az idős kort a színed előtt, Mindenható Isten!
+</span></div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
@@ -215,7 +275,12 @@ Schenke mir in allem Genügsamkeit, nur in der grossen Kunst nicht. Lass nie den
 <td style="vertical-align:top;">
 <div class="english">
 Let me be contented in everything except in the great science of my profession. Never allow the thought to arise in me that I have attained to sufficient knowledge, but vouchsafe to me the strength, the leisure and the ambition ever to extend my knowledge. For art is great, but the mind of humanity is ever expanding.
-</div></td></tr>
+</div></td>
+
+<td style="vertical-align:top;">
+<div class="magyar"><span lang="hu">
+Add, hogy elégedett legyek mindennel, kivéve hivatásom nagyszerű tudományával. Soha ne engedd, hogy arra gondoljak, hogy elegendő tudásra tettem már szert, de biztosíts nekem erőt, szabadságot és vágyat, hogy tágítsam a tudásomat. Mert a hivatás nagy, de az ember elméje mindig tágítható.
+</span></div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
@@ -231,14 +296,19 @@ Allgütiger! du hast mich erkohren über Leben und Tod deiner Geschöpfe zu wach
 <td style="vertical-align:top;">
 <div class="english">
 Almighty El! You have chosen me in your mercy to watch over the life and death of your creatures. I now apply myself to my profession. Support me in this great task so that it may benefit mankind, for without your help not even the least thing will succeed.
-</div></td></tr>
+</div></td>
+
+<td style="vertical-align:top;">
+<div class="magyar"><span lang="hu">
+Mindenható Isten! Kegyelmedben engem választottál, hogy teremtményeid életét és halálát vigyázzam. Nekifogok a munkámnak. Támogass ebben a hatalmas feladatban, hogy az emberiség hasznára legyek, mert a Te segítséged nélkül még a legkisebb dolog sem sikerülhet.
+</span></div></td></tr>
 </tbody></table>
 
 <hr />
 
 This prayer was written by Markus Herz (1747-1803), a German-Jewish physician and lecturer on philosophy. He was a pupil of Immanuel Kant and physician to Moses Mendelssohn. His prayer was first published in 1783 as "Tägliches Gehet eines Arztes bevor er feine Kranke besucht" in <em>Deutches Museum</em> (1, pp. 43-45). A Hebrew translation by the editor of the periodical <em>Ha-Me'asef</em>, Isaac Abraham Euchel (Itziq Eikhel, 1756-1804), followed in 1790 (6, pp. 242-244). For a history of the misattribution of this prayer, see Fred Rosner's article, "The Physician's Prayer Attributed to Moses Maimonides" in the <em>Bulletin of the History of Medicine</em> (41:5, Sep/Oct 1968, pp. 440-454.).
 
-The first English translation was published in the London periodical Kol Yaakov in 1841, however, I was not able to locate a copy. The English translation appearing here was made by Dr. Harry Friedenwald as published in "The ethics of the practice of medicine from the Jewish Point of View," in the <em>Bulletin of the Johns Hopkins Hospital</em> (28, 1917, pp. 260-261). I have replaced archaisms and re-Hebraized divine names where they appeared in his translation. --Aharon Varady
+After this publication at the Open Siddur Project, Chana Deutsch translated the prayer from its original German <a href="https://zsido.com/az-orvosok-imaja/">into Magyar</a> (Hungarian). The first English translation was published in the London periodical Kol Yaakov in 1841, however, I was not able to locate a copy. The English translation appearing here was made by Dr. Harry Friedenwald as published in "The ethics of the practice of medicine from the Jewish Point of View," in the <em>Bulletin of the Johns Hopkins Hospital</em> (28, 1917, pp. 260-261). I have replaced archaisms and re-Hebraized divine names where they appeared in his translation. --Aharon Varady
 
 <h3>Source(s)</h3>
 

@@ -111,7 +111,7 @@ Across the newly visioned firmament.
 <div class="english">
 Lift your eyes, look up;
 Who made these stars?
-He who marshals them in order,
+The One who marshals them in order,
 Summoning each one by name.[foot]Isaiah 40:26.[/foot]
 </div></td></tr>
 
@@ -145,7 +145,7 @@ As we do in thought.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-He is the sameness
+Elohim is the sameness
 In the elemental substance of stars and planets, 
 Of this our earthly abode 
 And of all that it holds.
@@ -163,7 +163,7 @@ And of all that it holds.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-He is the unity 
+Elohim is the unity 
 Of all that is,
 The uniformity of all that moves,
 The rhythm of all things
@@ -181,7 +181,7 @@ And the nature of their interaction.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-He binds up the Pleiades in a cluster 
+[Elohim] binds up the Pleiades in a cluster 
 And loosens the chains of Orion;
 He directs the signs of the Zodiac 
 And guides the constellations of the Bear.[foot]Based on Job 38:31-32.[/foot]
@@ -214,7 +214,7 @@ With inner drive and purpose.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-He is the creative flame
+[Elohim] is the creative flame
 That transfigures lifeless substance,
 Leaping into ever higher realms of being, 
 Brightening into the radiant glow of feeling, 
@@ -270,22 +270,21 @@ In the bond of Life.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-It is he who forms the mountains
+It is [Elohim] who forms the mountains
 And creates the wind,
 And reveals his inner mind to man;
-He who makes the dawn and darkness, 
+The One who makes the dawn and darkness, 
 Who marches over the heights of earth; 
-YHVH Elohei Tseva'ot is his name.[foot]Amos 4:13.[/foot]
+YHVH Elohei Tseva'ot is Their name.[foot]Amos 4:13.[/foot]
 </div></td></tr>
 </tbody></table>
 
 <hr />
 
-"God the Life of Nature" by Rabbi Mordecai Kaplan was first published in his <em><a href="https://opensiddur.org/compilations/rabbinic-prayer/shabbat-siddur/sabbath-prayer-book-by-mordecai-kaplan-1945/">Sabbath Prayer Book</a></em> (Jewish Reconstructionist Foundation 1945), p. 382-391, where it appears side-by-side with its translation into Hebrew by Abraham Regelson. I have Hebraized Kaplan's use of 'God', bringing his invocation of the divine name Elohim in sync with that provided in Regelson's Hebrew translation. This seems to me significant given the relationship <a href="https://aharon.varady.net/omphalos/2012/10/great-nature-and-the-gematria-of-elohim">long expounded upon</a> between the divine name Elohim and the medieval Hebrew name for Nature, הטבע ha-teva. I have also introduced a Hebrew name for this prayer which was not included in the <em>Sabbath Prayer Book</em>. --Aharon N. Varady
+"God the Life of Nature" by Rabbi Mordecai Kaplan was first published in his <em><a href="https://opensiddur.org/compilations/rabbinic-prayer/shabbat-siddur/sabbath-prayer-book-by-mordecai-kaplan-1945/">Sabbath Prayer Book</a></em> (Jewish Reconstructionist Foundation 1945), p. 382-391, where it appears side-by-side with its translation into Hebrew by Abraham Regelson. I have Hebraized Kaplan's use of 'God,' bringing his invocation of the divine name Elohim in sync with that provided in Regelson's Hebrew translation.  This seems to me significant given the relationship <a href="https://aharon.varady.net/omphalos/2012/10/great-nature-and-the-gematria-of-elohim">long expounded upon</a> between the divine name Elohim and the medieval Hebrew name for Nature, הטבע ha-teva. I have also replaced gender-masucline pronouns with gender-neutral language. Finally, I have introduced a Hebrew name for this prayer which was not included in the <em>Sabbath Prayer Book</em>. --Aharon N. Varady
 
 <h3>Source(s)</h3>
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/SabbathPrayerBookJewishReconstructionistFoundation1945#page/n410/mode/2up"]
-
 </body>
 </html>

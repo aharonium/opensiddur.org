@@ -1,18 +1,27 @@
 <html>
 <head></head>
 <body>
-Title: A Prayer in Response to the Coronavirus, by Rav Shmuly Yanklowitz (Valley Beit Midrash 2020)<br />
+Title: תפילה בתגובה למגפה | A Prayer in Response to the Coronavirus, by Rav Shmuly Yanklowitz (Valley Beit Midrash 2020)<br />
 Primary contributor: shmuly.yanklowitz<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=30558">http://opensiddur.org/?p=30558</a>
 <p />
 <hr />
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;">Translation (Hebrew)</th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
-
+ריבונו של עולם,
+&nbsp;
+בוראינו ומשחרר מגיפות,
+אנו פוחדים ולא מוכנים.
+אנו מתחננים ממך הדרכה ותמיכה.
+תן לחולים את הכוח להחזיק מעמד.
+תן למטפלים את האומץ לרפא.
+תן לחוקרים ולמומחים את ההשראה לגלות, לטפל, ולחסן.
+תן לאנשי הרפואה את היכולות לרפא כל מי שסובל.
+תן למנהיגים את האומץ לדבר אמת ולא לחבל באימון הציבור.
 </span></div></td>
  
 <td style="vertical-align:top;">
@@ -32,7 +41,13 @@ Grant officials the courage to speak the truth and not to violate public trust.
 
 <tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
-
+אנא, תברך אותנו עם הכח לשמור על קור רוח.
+הרשה לנו לא לנצל את הפחד והחשש 
+כדרכים לשנאת זרים, אנוכיות, או בידוד.
+תן לנו אמפטיה לכל הנפגעים.
+צרף את האמפטיה שלנו לכל מי שנפגע או סובל בכל העולם.
+שנזכה להסתכל מבעד להבדלים תרבותיים וסיכסוכים 
+לחזק את שיתוף הפעולה הגלובלי לנצל חיים.
 </span></div></td>
  
 <td style="vertical-align:top;">
@@ -49,7 +64,15 @@ to strengthen global collaboration to preserve life.
 
 <tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
-
+הו, מקור החיים, 
+תן לנו שלווה ברגעי אי וודאות,
+תן לנו יכולת לעזור לפגיעים 
+בדרכים היעילות ביותר. 
+תן לאלה שצריכים אותם שיהיו מוכנים 
+לשאת את הסיכונים ושיהיו ערוכים ומוגנים, 
+למען הרדיפה להצלת החיים, 
+לעזור לסובבים אותם להתמודד 
+עם המציאות החדשה.
 </span></div></td>
  
 <td style="vertical-align:top;">
@@ -68,7 +91,9 @@ deal with this new reality.
 
 <tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
-
+תן לנו לעבוד ביחד 
+למנוע את הפצת המגפה הזאת 
+בין כל אחינו ואחיותנו בני האדם.
 </span></div></td>
  
 <td style="vertical-align:top;">
@@ -81,7 +106,11 @@ among our fellow human beings.
 
 <tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
-
+שנתמוך באלה שעובדים על פתרון למחלה הזאת.
+שכולנו ננצל הזדמנות זו להכיר בשברירות החיים 
+ונחתור לניצול המרבי של הזמן הקצר שיש לנו כאן, 
+ליצור ולחדש יחסים משמעותיים, 
+ולחזק את ההתחייבות שלנו למשימה הערכית שלנו.
 </span></div></td>
  
 <td style="vertical-align:top;">
@@ -96,12 +125,17 @@ to bolster our fervent commitment to our moral mission.
 
 <tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
-
+יהי רצון מלפניך, ה׳ אלהינו, מלך העולם, 
+שנתמיד לחתור פיזית ורוחנית להתגבר על האתגר החדש הזה. 
+כמו אתגרי העבר שחשבנו בלתי פתירים, 
+עזור לנו להתגבר על הניסיון החדש הזה, 
+ותן לנו הזדמנות לעבוד לרווחת כל משפחת האדם, 
+למען קדושת החיים.
 </span></div></td>
  
 <td style="vertical-align:top;">
 <div class="english">
-May it be your will O, Lord our God, Master of the Universe, 
+May it be your will O Lord our God, Master of the Universe, 
 that we will continue to (physically & spiritually) strive to overcome this new challenge. 
 Like many problems in the past that we thought were impossible, 
 help us overcome this new trial 
@@ -112,7 +146,7 @@ for the sanctity of all life.
 
 <tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
-
+היה איתנו בזמן המאתגר הזה.
 </span></div></td>
  
 <td style="vertical-align:top;">
@@ -123,7 +157,7 @@ May You be here with us in this trying time.
 
 <hr />
 
-"A Prayer in Response to the Coronavirus" by Rav Shmuly Yanklowitz was first published on the Valley Beit Midrash website, <a href="http://www.rabbishmuly.com/coronavirus-prayer.html">here</a>.
+"A Prayer in Response to the Coronavirus" by Rav Shmuly Yanklowitz was first published on the Valley Beit Midrash website, <a href="http://www.rabbishmuly.com/coronavirus-prayer.html">here</a>. Hebrew translation offered by Rabbi Simcha Daniel Burstyn.
 
 &nbsp;
 </body>

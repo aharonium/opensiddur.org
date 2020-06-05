@@ -7,11 +7,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<style type="text/css" media="all">.printfriendly {display: none!important;}</style>
+<strong>DOWNLOAD:</strong> 
+<a href="https://archive.org/download/HaggadahOfTheInnerSeder/Haggadah%20of%20the%20Inner%20Seder%20%28Rabbi%20David%20Seidenberg%2C%20neohasid.org%202020%29.odt">ODT</a> | <a href="https://archive.org/download/HaggadahOfTheInnerSeder/Haggadah%20of%20the%20Inner%20Seder%20%28Rabbi%20David%20Seidenberg%2C%20neohasid.org%202020%29.pdf">PDF</a>
 
-<strong>DOWNLOAD:</strong> <a href="https://archive.org/download/HaggadahOfTheInnerSeder/Haggadah%20of%20the%20Inner%20Seder%20%28Rabbi%20David%20Seidenberg%2C%20neohasid.org%202019%29.odt">ODT</a> | <a href="https://archive.org/download/HaggadahOfTheInnerSeder/Haggadah%20of%20the%20Inner%20Seder%20%28Rabbi%20David%20Seidenberg%2C%20neohasid.org%202019%29.pdf">PDF</a>
-
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/HaggadahOfTheInnerSeder#page/n2/mode/2up"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/HaggadahOfTheInnerSeder/Haggadah%20of%20the%20Inner%20Seder%20%28Rabbi%20David%20Seidenberg%2C%20neohasid.org%202020%29#page/n2/mode/2up"]
 
 <hr />
 
@@ -52,11 +51,12 @@ For further exploration of the haggadah see <a href="http://neohasid.org/torah/m
 
 <a href="http://neohasid.org/audio/classes/unlocking part2.mp3"><u>Part 2</u></a> – the first two meanings of matzah, the true meaning of "seder", and the transformation of the symbol of matsah.
 [<strong>The following sections are truly unedited and the end of the class has yet to be filled in. </strong>Someday with God's help all that will happen.]
-<p><a href="http://neohasid.org/audio/classes/unlocking part3.mp3"><u>Part 3</u></a> – the second two meanings of matzah; redemption and the afikoman.
+<a href="http://neohasid.org/audio/classes/unlocking part3.mp3"><u>Part 3</u></a> – the second two meanings of matzah; redemption and the afikoman.
 <a href="http://neohasid.org/audio/classes/unlocking part4.mp3"><u>Part 4</u></a> – the transformations of the verse "Ba'avor zeh..."; psychological dimensions; beginning of discussion of the four sons/children (last section incomplete).
+</div>
 
 <hr />
 
-This haggadah was first published by Rabbi David Seidenberg on neohasid.org, <a href="http://neohasid.org/zman/pesach/InnerSeder/">here</a>.
+<p>This haggadah was first published by Rabbi David Seidenberg on neohasid.org, <a href="http://neohasid.org/zman/pesach/InnerSeder/">here</a>.
 </body>
 </html>

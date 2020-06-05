@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: תפילה בין השריפות | Abridged Prayer Between the Fires (between the 32nd and 42nd days of the Omer, neohasid.org)<br />
+Title: תפילה בין השריפות | Abridged Prayer Between the Fires for Lag Ba'Omer (neohasid.org)<br />
 Primary contributor: david.seidenberg<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=20101">http://opensiddur.org/?p=20101</a>
 <p />
@@ -191,6 +191,7 @@ So May It Be.</span>
 </tbody></table>
 
 <hr />
+
 "Between the Fires" by Rabbi David Seidenberg, originally published <a href="http://www.neohasid.org/stoptheflood/flood_day/">at neohasid.org</a>, is derived from the prayer of Rabbi Arthur Waskow (the Shalom Center), "Between the Fires: A Prayer for lighting Candles of Commitment" which draws on traditional midrash about the danger of a Flood of Fire, and the passage from Malachi. Another version of this prayer by Rabbi David Seidenberg, "A Prayer between the Fires (between the 32nd and 42nd days of the Omer)" is available, <a href="https://opensiddur.org/prayers/special-days/sefirat-haomer/prayer-between-the-fires-by-rabbi-david-seidenberg-neohasid-org/">here</a>. Text in green is added by Rabbi Seidenberg. Text in black by Rabbi Waskow.
 </body>
 </html>

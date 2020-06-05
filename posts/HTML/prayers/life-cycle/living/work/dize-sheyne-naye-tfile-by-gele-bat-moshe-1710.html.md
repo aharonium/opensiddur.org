@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table  class="copyright" style="margin-left: auto;margin-right: auto;" class="draggable">
+<table style="margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Yiddish)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
@@ -169,10 +169,16 @@ And may He grant us peace with all our brethren in Israel. Amen, may it be His w
 
 <hr />
 
-This is a faithful transcription of the prayer of Gele (Gella), daughter of the printer Moshe, as found at the end of <em>Tfile LeMoshe</em> (2nd ed., <a href="https://en.wikipedia.org/wiki/Halle_(Saale)">Halle&lt;, Germany</a>, 1710), a prayerbook Gele typeset when she was only 11-years-old. This prayerbook is rare owing to the destruction of the press following the incarceration of Gele's father for publishing a prayerbook containing the prayer "Aleinu," which had been forbidden by royal decree.[foot]Kathryn Hellerstein in in <a href="https://books.google.com/books?id=XvKyAwAAQBAJ&lpg=PP1&pg=PA66#v=onepage&q&f=false"><em>A Question of Tradition: Women Poets in Yiddish, 1586-1987</em></a> (2014, Stanford University Press).[/foot] The translation provided here was made by Dr. <a href="https://ccat.sas.upenn.edu/jwst/people/kathryn-hellerstein">Kathryn Hellerstein</a> as found in <a href="https://books.google.com/books?id=XvKyAwAAQBAJ&lpg=PP1&pg=PA63#v=onepage&q&f=false"><em>A Question of Tradition: Women Poets in Yiddish, 1586-1987</em></a> (2014, Stanford University Press), p. 63-4. The layout of Gele's prayer follows that of Ezra Korman from his anthology of Jewish women's poetry, <a href="https://archive.org/stream/nybc210869#page/n102/mode/2up"><em>Yiddishe Dikhterins</em></a>, also the source of the page image provided. If you know the location of a copy or digital scan of this siddur, please <a href="https://opensiddur.org/contact/">contact us</a>.
+This is a faithful transcription of the prayer of Gele (Gella), daughter of the printer Moshe, as found at the end of <em>Tfile LeMoshe</em> (2nd ed., <a href="https://en.wikipedia.org/wiki/Halle_(Saale)">Halle, Germany</a>, 1710), a prayerbook Gele typeset when she was only 11-years-old. This prayerbook is rare owing to the destruction of the press following the incarceration of Gele's father for publishing a prayerbook containing the prayer "Aleinu," which had been forbidden by royal decree.[foot]Kathryn Hellerstein in in <a href="https://books.google.com/books?id=XvKyAwAAQBAJ&lpg=PP1&pg=PA66#v=onepage&q&f=false"><em>A Question of Tradition: Women Poets in Yiddish, 1586-1987</em></a> (2014, Stanford University Press).[/foot] The translation provided here was made by Dr. <a href="https://ccat.sas.upenn.edu/jwst/people/kathryn-hellerstein">Kathryn Hellerstein</a> as found in <a href="https://books.google.com/books?id=XvKyAwAAQBAJ&lpg=PP1&pg=PA63#v=onepage&q&f=false"><em>A Question of Tradition: Women Poets in Yiddish, 1586-1987</em></a> (2014, Stanford University Press), p. 63-4. The layout of Gele's prayer follows that of Ezra Korman from his anthology of Jewish women's poetry, <a href="https://archive.org/stream/nybc210869#page/n102/mode/2up"><em>Yiddishe Dikhterins</em></a>, also the source of the page image provided. If you know the location of a copy or digital scan of this siddur, please <a href="https://opensiddur.org/contact/">contact us</a>.
 
 <h3>Source</h3>
 
-<img src="https://opensiddur.org/wp-content/uploads/2017/07/Geles-Prayer-colophon-Tefilah-LMoshe-2nd-ed.-Halle-1710-1024x488.png" alt="" width="640" height="305" class="alignnone size-large wp-image-15902" />
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/nybc210869#page/n102/mode/2up"]
+
+&nbsp;
+
+<hr />
+
+&nbsp;
 </body>
 </html>

@@ -9,7 +9,9 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 [caption id="attachment_19110" align="aligncenter" width="1920"]<a href="https://opensiddur.org/wp-content/uploads/2018/03/Battlestar-Galactica-Last-Supper.jpg"><img src="https://opensiddur.org/wp-content/uploads/2018/03/Battlestar-Galactica-Last-Supper.jpg" alt="" width="1920" height="828" class="size-full wp-image-19110" /></a> "All of this has happened before and all of this will happen again."[/caption]
 
-<div style="text-align: center;">
+&nbsp;
+
+<div style="text-align: center;line-height: 2.5em;">
 <span class="scribe" style="font-size:3em;">״מַה־שֶּׁהָיָה הוּא שֶׁיִּהְיֶה וּמַה־שֶׁנַּעֲשָׂה הוּא שֶׁיֵּעָשֶׂה״</span> <span class="citation">קהלת א:ט חלק</span>
 <span class="english" style="font-size:3em;">"All of this has happened before and all of this will happen again."</span>[foot]Alternately, "Only that shall happen that has happened; only that will occur that has occurred." (Ecclesiastes 1:9 partial) H/T Judd Maltin.[/foot] (Kohelet 1:9 part)
 </div>
@@ -81,7 +83,7 @@ dhiyo yo naḥ prachodayāt[foot]This prayer is the <a href="http://veda.wikidot
 
 O Earth, atmosphere, heaven:
 May we attain that excellent glory
-Of the gods:
+Of the gods:[foot]Crypto-cylons substitute: "the One True God."[/foot]
 So they may stimulate our prayers.[foot]A non-literal translation of the <a href="http://veda.wikidot.com/gayatri-mantra">Gâyatrî Mantra</a>.[/foot]
 </div></td></tr>
 
@@ -122,7 +124,11 @@ We raise our cups of Ambrosia and recite together:
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%"><div class="english">
-Praised are you O Gods, Lords of Kobol, who have kept us in life, and sustained us to this day.
+Praised are you 
+O Gods, 
+Lords of Kobol, 
+who have kept us in life, 
+and sustained us to this day.
 </div></td></tr>
 
 
@@ -132,8 +138,12 @@ Praised are you O Gods, Lords of Kobol, who have kept us in life, and sustained 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%"><div class="english">
-[Crypto-Cylons say: 
-Blessed are you, the One True God, Cosmic Majesty, who has kept us in life, and sustained us to this day.]
+[<span class="instruction">Crypto-Cylons say:</span> 
+Blessed are you, 
+the One True God, 
+Cosmic Majesty, 
+who has kept us in life, 
+and sustained us to this day.]
 </div></td></tr>
 
 
@@ -195,7 +205,10 @@ We say together:
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%"><div class="english">
-Praised are you O Gods, Lords of Kobol, for creating the bounty of the planets.
+Praised are you 
+O Gods, 
+Lords of Kobol, 
+for creating the bounty of the planets.
 </div></td></tr>
 
 
@@ -205,8 +218,11 @@ Praised are you O Gods, Lords of Kobol, for creating the bounty of the planets.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%"><div class="english">
-[Crypto-Cylons say: 
-Blessed are you, the One True God, Cosmic Majesty, for creating the bounty of the planets.]
+[<span class="instruction">Crypto-Cylons say:</span>  
+Blessed are you, 
+the One True God, 
+Cosmic Majesty, 
+for creating the bounty of the planets.]
 </div></td></tr>
 
 
@@ -266,7 +282,10 @@ Next year may we all be at peace.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%"><div class="english">
-Praised are you O Gods, Lords of Kobol, for providing us with these now cornerless crackers.
+Praised are you 
+O Gods, 
+Lords of Kobol, 
+for providing us with these now cornerless crackers.
 </div></td></tr>
 
 
@@ -276,8 +295,11 @@ Praised are you O Gods, Lords of Kobol, for providing us with these now cornerle
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%"><div class="english">
-[Crypto-Cylons say: 
-Blessed are you, the One True God, Cosmic Majesty, for providing us with these now cornerless crackers.]
+[<span class="instruction">Crypto-Cylons say:</span>  
+Blessed are you, 
+the One True God, 
+Cosmic Majesty, 
+for providing us with these now cornerless crackers.]
 </div></td></tr>
 
 
@@ -327,7 +349,10 @@ We eat of the Chamalla root and say:
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%"><div class="english">
-Praised are you O Gods, Lords of Kobol, for blessing us with the visions of your divine wills.
+Praised are you 
+O Gods, 
+Lords of Kobol, 
+for blessing us with the visions of your divine wills.
 </div></td></tr>
 
 
@@ -337,8 +362,11 @@ Praised are you O Gods, Lords of Kobol, for blessing us with the visions of your
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%"><div class="english">
-[Crypto-Cylons say: 
-Blessed are you, the One True God, Cosmic Majesty, for blessing us with the vision of your divine will.]
+[<span class="instruction">Crypto-Cylons say:</span>  
+Blessed are you, 
+the One True God, 
+Cosmic Majesty, 
+for blessing us with the vision of your divine will.]
 </div></td></tr>
 
 
@@ -727,11 +755,11 @@ We drink.
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="english" style="text-align: right;">
-अस्तो मा सद् गमय		
-तमसो मा ज्योतिर्गमय		
+अस्तो मा सद् गमय        
+तमसो मा ज्योतिर्गमय     
 मृत्योर् मा अमृतं गमय
 </span></div></td>
-		
+        
 <td style="vertical-align:top;" width="53%"><div class="english">
 asato mā sad gamaya
 tamaso mā jyotir gamaya
@@ -754,6 +782,7 @@ Lead us from Death to Immortality[foot]This is a common Sanskrit prayer, found i
 </tbody></table>
 
 <hr />
+
 With gratitude to the One True God, and to the original creators, this is a derivation of the "Battlestar Seder Haggadah" prepared by David "Razor" Lieberman, Alison "Fat Six" Ogden, and Mary "Actual" Bruch, for "A Seder on Battlestar Galactica," an event held on Saturday, 26 April 2008, on Earth. The seder was first posted to galacticahaggadah.com and later to battlestarseder.org under a GNU Free Document License. Both of these domains having gone to ruin, the Haggadah was thankfully preserved on the <a href="https://web.archive.org/web/20141219192601/http://galacticahaggadah.com/index.php?title=Main_Page">Wayback Machine</a> thanks to the <a href="https://archive.org">Internet Archives</a>. I resurrected the Haggadah, adding the following: 1) alternate blessings for crypto-Cylons, 2) Devangari sourcetext in Sanskrit script along with annotation indicating the source of the prayer/mantra included, 3) a short prayer that Priestess Elosha recites at the very beginning of the funeral scene near the end of the <a href="https://en.battlestarwikiclone.org/wiki/Miniseries,_Night_2">miniseries</a>. --Aharon Varady
 </body>
 </html>

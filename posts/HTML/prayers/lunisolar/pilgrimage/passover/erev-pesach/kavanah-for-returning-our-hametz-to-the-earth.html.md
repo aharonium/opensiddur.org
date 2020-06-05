@@ -7,25 +7,36 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-Some people think of this as a magic formula that turns ḥamets into dust. It really is a legal formula that means that you renounce ownership of any ḥamets still in your space or your domain, so that it no longer has any value to you. But is it true that dirt is valueless and ownerless? We certainly act like we own the dirt, the soil. Developers take good land, build houses on it, and truck the topsoil away to sell to other people—thereby doubling profits and doubling damage to the earth. We act like the soil can be renewed and replaced at will, poisoning its microbial communities with pesticides applied even more strongly on our GMO corn and soy, while we replace the nutrients they create with petroleum-based fertilizers. We send the soil downstream and into the ocean along with vast quantities of agricultural runoff, creating algal blooms and anoxic dead zones. In that sense we do treat the soil like it is both ownerless and valueless. But our lives are almost entirely beholden to the soil. If it is ownerless it is because it belongs to all of us, or more precisely, as the story of the rabbi deciding between claimants goes, “The land says it doesn’t belong to you or to you, but that you belong to it.”
+<div class="english" style="font-size: 1.2em;">
+Some people think of this as a magic formula that turns <em>ḥamets</em> into dust. It really is a legal formula that means that you renounce ownership of any <em>ḥamets</em> still in your space or your domain, so that it no longer has any value to you. But is it true that dirt is valueless and ownerless? We certainly act like we own the dirt, the soil. Developers take good land, build houses on it, and truck the topsoil away to sell to other people—thereby doubling profits and doubling damage to the earth. We act like the soil can be renewed and replaced at will, poisoning its microbial communities with pesticides applied even more strongly on our GMO corn and soy, while we replace the nutrients they create with petroleum-based fertilizers. We send the soil downstream and into the ocean along with vast quantities of agricultural runoff, creating algal blooms and <a href="https://en.wikipedia.org/wiki/Anoxic_waters">anoxic</a> dead zones. In that sense we do treat the soil like it is both ownerless and valueless. But our lives are almost entirely beholden to the soil. If it is ownerless it is because it belongs to all of us, or more precisely, as the story of the rabbi deciding between claimants goes, “The land says it doesn’t belong to you or to you, but that you belong to it.”
 
-Like the dirt of the earth, the ḥamets inside your house becomes what at Burning Man we call “MOOP” or “Matter Out Of Place.” Finding out where it belongs means finding out that it doesn’t belong to you or to us. Returning it to the soil means tilling our stuff back into the earth, where it can become renewed, where it can become sustenance for new life.
+Like the dirt of the earth, the ḥamets inside your house becomes what at Burning Man we call “MOOP” or “<a href="https://burningman.org/event/preparation/leaving-no-trace/moop/">Matter Out Of Place</a>.” Finding out where it belongs means finding out that it doesn’t belong to you or to us. Returning it to the soil means tilling our stuff back into the earth, where it can become renewed, where it can become sustenance for new life.
+</div>
 
 <hr />
 
-<div class="english">(Add the words in parentheses in the morning when you burn the chamets.)</div>
-
-<table style="margin-left: auto;margin-right: auto;">
+<table style="margin-left: auto;margin-right: auto;" class="draggable">
+<thead><tr><th id="x" style="text-align: right;">Aramaic</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
-<tr>
-<td style="vertical-align:top;" width="44%">
-<div class="liturgy"><span  lang="he">
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
+
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%"><div class="english">
+<span class="instruction">(Add the words in parentheses in the morning when you burn the <em>ḥamets</em>.)</span>
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
 כָׇּל־חֲמִירָא וַחֲמִיעָא דְּאִכָּא בִרְשׁוּתִי (דַּחֲמִתֵּהּ וּ)דְלָא חֲמִתֵּהּ (דְּבַעֲרִתֵּהּ וּ)דְלָא בַעֲרִתֵּהּ לִבְטִיל וְלֶהֱוֵי כְּעַפְרָא דְאַרְעָא׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%"><div class="english">
-All the ḥamets that is in my possession/<em>r’shut</em>, which (I did see or) did not see and which (I did remove or) did not remove, let it be nullified and become like the dirt of the earth/<em>afra d’ar’a</em>.
+All the <em>ḥamets</em> that is in my possession/<em>r’shut</em>, which (I did see or) did not see and which (I did remove or) did not remove, let it be nullified and become like the dirt of the earth/<em>afra d’ar’a</em>.
 </div></td></tr>
+
 
 <tr>
 <td style="vertical-align:top;" width="44%">
@@ -38,7 +49,6 @@ May we remember on this day that just as we do not own this ḥamets, we do not 
 </div></td></tr>
 </tbody></table>
 
-
-
+&nbsp;
 </body>
 </html>

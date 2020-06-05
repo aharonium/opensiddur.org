@@ -12,7 +12,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <strong>DOWNLOAD</strong> 
 Sefirot HaOmer Calendar: <a href="https://opensiddur.org/wp-content/uploads/2013/03/Sefirot-HaOmer-Calendar-Chart-Hebrew-and-English-Aharon-Varady-2019.pdf">PDF</a>
 <a href="https://opensiddur.org/wp-content/uploads/2013/03/Sefirot-HaOmer-Calendar-Chart-Aharon-Varady-2018.png">PNG</a> and <a href="https://opensiddur.org/wp-content/uploads/2013/03/Sefirot-HaOmer-Calendar-Chart-Aharon-Varady-2018.svg">SVG</a> (English) 
-<a href="https://opensiddur.org/wp-content/uploads/2013/03/Aharon-Varady-Sefirot-HaOmer-Chart-3-Hebrew.png">PNG</a> and <a href="https://opensiddur.org/wp-content/uploads/2013/03/Aharon-Varady-Sefirot-HaOmer-Chart-3-Hebrew.svg">SVG</a> (Hebrew) 
+<a href="https://opensiddur.org/wp-content/uploads/2013/03/Aharon-Varady-Sefirot-HaOmer-Chart-3-Hebrew.png">PNG</a> and <a href="https://opensiddur.org/wp-content/uploads/2013/03/Aharon-Varady-Sefirot-HaOmer-Chart-3-Hebrew.svg">SVG</a> (Hebrew)
 
 <div class="english" style="font-size: 1.2em;">
 Explaining the <em>mitsvah</em> of <em>Sefirat HaOmer</em>, Rabbi David Seidenberg <a href="http://neohasid.org/resources/count_the_omer/">writes</a>: 
@@ -45,7 +45,7 @@ The biggest challenge of counting the Omer is that it is one long <em>mitsvah</e
 <td style="vertical-align:top;" width="53%">
 <div class="english">
 For the sake of the unification 
-of the blessed Holy One and their <em>shekhinah</em>,
+of the blessed Holy One and Their <em>shekhinah</em>,
 in reverence and compassion, 
 and in love and awe,
 to unify the Name Yud-Hei with Vav-Hei 
@@ -57,10 +57,10 @@ in the name of all Yisra'el.
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
 הִנְנִי מוּכָן וּמְזוּמָן 
-לְקַיֵים מִצְוַת עֲשֵׂה שֶׁל סְפִירַת הָעֽוֺמֶר,
-כְּמוֺ שֶׁכָּתוּב בַתּוֺרָה:‏
+לְקַיֵים מִצְוַת עֲשֵׂה שֶׁל סְפִירַת הָעֽוֹמֶר,
+כְּמוֹ שֶׁכָּתוּב בַתּוֹרָה:‏
 וּסְפַרְתֶּ֤ם לָכֶם֙ מִמָּחֳרַ֣ת הַשַּׁבָּ֔ת
-מִיּוֺם֙ הֲבִ֣יאֲכֶ֔ם אֶת־עֹ֖מֶר הַתְּנוּפָ֑ה
+מִיּוֹם֙ הֲבִ֣יאֲכֶ֔ם אֶת־עֹ֖מֶר הַתְּנוּפָ֑ה
 שֶׁ֥בַע שַׁבָּתֹ֖ות תְּמִימֹ֥ת תִּהְיֶֽינָה׃‏‏‏
 עַ֣ד מִֽמָּחֳרַ֤ת הַשַּׁבָּת֙ הַשְּׁבִיעִ֔ת 
 תִּסְפְּר֖וּ חֲמִשִּׁ֣ים יֹ֑ום <span class="citation">(ויקרא כג:טו-טז חלק)</span>‏
@@ -108,7 +108,7 @@ our handiwork, may it be established.[foot]Psalms 90:17[/foot]
 Blessed are you, 
 YHVH our <em>elo'ah</em>, 
 cosmic majesty, 
-who sanctified us with their <em>mitsvot</em>
+who sanctified us with Their <em>mitsvot</em>
 and commanded us to count the Omer.
 </div></td></tr>
 
@@ -712,7 +712,7 @@ and may you grant us a portion in your Torah.
  
 <td style="vertical-align:top;" width="53%"><div class="english">
 <sup>2</sup> ELOHIM be gracious unto us, and bless us;
-May they cause their face to shine toward us;[foot]cf. <a href="https://opensiddur.org/2013/01/adventures-in-ancient-jewish-liturgy-the-birkhat-kohanim">the Priestly Blessing</a>: Numbers 6:23–27[/foot] <em>Selah!</em>
+May they cause Their face to shine toward us;[foot]cf. <a href="https://opensiddur.org/2013/01/adventures-in-ancient-jewish-liturgy-the-birkhat-kohanim">the Priestly Blessing</a>: Numbers 6:23–27[/foot] <em>Selah!</em>
 </div></td></tr>
 
 
@@ -769,7 +769,7 @@ Let the peoples give thanks to you, all of them.
  
 <td style="vertical-align:top;" width="53%"><div class="english">
 <sup>7</sup> The Earth has granted her harvest;
-May ELOHIM, our <em>elo'ah</em>, bless us.
+Bless us ELOHIM, our <em>elo'ah</em>.
 </div></td></tr>
 
 
@@ -779,8 +779,8 @@ May ELOHIM, our <em>elo'ah</em>, bless us.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%"><div class="english">
-<sup>8</sup> May ELOHIM bless us;
-And let all the ends of the earth be in awe of them.
+<sup>8</sup> Bless us ELOHIM;
+And let all the ends of the earth revere them.
 </div></td></tr>
 
 
@@ -794,9 +794,9 @@ And let all the ends of the earth be in awe of them.
 
 <div class="instruction">In my practice, I reflect on the <em>Sefirat Ha'Omer</em> as neither a linear progression, nor as a spiraling ascent towards Shavuot. Rather, I see the seven weeks as a seven walled maze or labyrinth. Just as the winter ends in fits and starts, my psyche seeks some natural rhythm to guide it along with the rest of Nature into wakefulness. I share in an ancient deep apprehension whether the fields will yield a healthy and abundant crop and whether the pregnant animals will safely give birth to their offspring.[foot]Also make sure to take note of the Karaite tradition of beginning their calendar year with <a href="http://www.karaite-korner.org/abib.shtml">the first observation of ripe barley</a>.[/foot]
 
-After Psalms 67 is read, many recite the deeply mystical piyyut and teḥinah (petitionary prayer), <em>Ana b'Khoaḥ</em>. Many of the themes of Psalms 67 are repeated in this prayer. <em>Ana b'Khoaḥ</em> contains seven lines and forty-two words, with each initial letter forming a 42-letter name of G‽Δ. Counting each word together with the seven acronyms formed from the first letter of each line yields forty-nine words to correspond with each day of the Omer.[foot]You can listen to different melodies for <em>Ana b'Khoaḥ</em> at <a href="http://neohasid.org/audio/ana_bekhoach_mp3s">neohasid.org</a>. You can learn more about my take on <em>Ana b'Koaḥ</em> as it relates to the <em>Omer</em>, <a href="https://opensiddur.org/prayers/lunisolar/commemorative-days/hanukkah/journey-towards-illumination-psalm-67-and-ana-bkoah/">here</a>.[/foot]
+After Psalms 67 is read, many recite the 42-letter divine name acrostic piyyut and teḥinah (petitionary prayer), <em><a href="https://opensiddur.org/prayers/collective-welfare/trouble/captivity/ana-bkhoah-a-42-letter-name-piyyut-translated-by-reb-zalman/">Ana b'Khoaḥ</a></em>. Many of the themes of Psalms 67 are repeated in this prayer. <em>Ana b'Khoaḥ</em> contains seven lines and forty-two words, with each initial letter forming a 42-letter name of G‽Δ. Counting each word together with the seven acronyms formed from the first letter of each line yields forty-nine words to correspond with each day of the Omer.[foot]You can listen to different melodies for <em>Ana b'Khoaḥ</em> at <a href="http://neohasid.org/audio/ana_bekhoach_mp3s">neohasid.org</a>. You can learn more about my take on <em>Ana b'Khoaḥ</em> as it relates to the <em>Omer</em>, <a href="https://opensiddur.org/prayers/lunisolar/commemorative-days/hanukkah/journey-towards-illumination-psalm-67-and-ana-bkoah/">here</a>.[/foot]
 
-A Divine Name is formed by the first letters of <span class="hebrew">אָנָּא בְּכֹחַ</span>. These words appear below each stanza, and it is customary to look at or visualize these, and not to pronounce them. --Aharon N. Varady</div>
+A Divine Name is formed by the first letters of <span class="hebrew">אָנָּא בְּכֹחַ</span>, the acrostic being formed of the first letters of a series of angelic names (attested in the kabbalistic tomes <a href="https://opensiddur.org/prayers/praxes/contemplation/adiryaron-bahiryaron/">Sefer haQanah</a> and <a href="https://opensiddur.org/prayers/praxes/contemplation/adiryarots-bahiryarots/">Sefer haPeliah</a>). These words appear below each stanza, and it is customary to look at or visualize these, and not to pronounce them. --Aharon N. Varady</div>
 </div></td></tr>
 
 
@@ -805,7 +805,7 @@ A Divine Name is formed by the first letters of <span class="hebrew">אָנָּ�
 <div class="liturgy"><span lang="he">
 אָנָּא בְּכֹחַ גְּדֻלַּת יְמִינְךָ 
 תַּתִּיר צְרוּרָה 
-(אב״ג ית״ץ)
+(<span class="scribe">אב״ג ית״ץ</span>)
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
@@ -821,7 +821,7 @@ free the bound.
 <div class="liturgy"><span lang="he">
 קַבֵּל רִנַּת עַמְּךָ 
 שַׂגְּבֵנוּ טַהֲרֵנוּ נוֹרָא
-(קר״ע שט״ן)
+(<span class="scribe">קר״ע שט״ן</span>)
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
@@ -837,7 +837,7 @@ empower us, make us pure, Awesome One!
 נָא גִבּוֹר
 דּוֹרְשֵׁי יִחוּדְךָ
 כְּבָבַת שָׁמְרֵם
-(נג״ד יכ״ש)
+(<span class="scribe">נג״ד יכ״ש</span>)
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
@@ -854,7 +854,7 @@ watch them like the pupil of an eye.
 בָּרְכֵם טַהֲרֵם 
 רַחֲמֵי צִדְקָתְךָ
 תָּמִיד גָּמְלֵם
-(בט״ר צת״ג)
+(<span class="scribe">בט״ר צת״ג</span>)
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
@@ -872,7 +872,7 @@ Your justness bestow upon them always.
 חָסִין קָדוֹשׁ 
 בְּרֹב טוּבְךָ
 נַהֵל עֲדָתֶךָ
-(חק״ב טנ״ע)
+(<span class="scribe">חק״ב טנ״ע</span>)
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
@@ -890,7 +890,7 @@ guide Your community.
 יָחִיד גֵּאֶה 
 לְעַמְּךָ פְּנֵה
 זוֹכְרֵי קְדֻשָּׁתֶךָ
-(יג״ל פז״ק)
+(<span class="scribe">יג״ל פז״ק</span>)
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
@@ -908,7 +908,7 @@ who remember Your holiness.
 שַׁוְעָתֵנוּ קַבֵּל 
 וּשְׁמַע צַעֲקָתֵנוּ
 יוֹדֵעַ תַּעֲלוּמוֹת
-(שק״ו צי״ת)
+(<span class="scribe">שק״ו צי״ת</span>)
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
@@ -923,7 +923,7 @@ Knower of secrets.
 <tr>
 <td style="vertical-align:top;" width="48%">
 <div class="liturgy"><span lang="he">
-&nbsp;
+<span class="instruction">בלחש:</span>
 בָּרוּךְ שֵׁם 
 כְּבוֹד מַלְכוּתוֹ 
 לְעוֹלָם וָעֶד:‏
@@ -931,9 +931,9 @@ Knower of secrets.
 
 <td style="vertical-align:top;" width="50%">
 <div class="english">
-<span class="instruction">Say in an undertone:</span>
+<span class="instruction">whisper:</span>
 Blessed is the Name 
-of their resplendent majesty 
+of Their resplendent majesty 
 in the Cosmos forever.
 </div>
 </td></tr>
@@ -947,8 +947,8 @@ in the Cosmos forever.
 <td style="vertical-align:top;" width="53%"><div class="english">
 <span class="instruction">Because there are seven lower <em>sefirot</em> in Kabbalah associated with days of the week (and probably because of the homonym <em>sefirah</em>, which also means counting), there is also a custom to say which <em>sefirah</em> is connected with that day and that week, i.e. for Lag Ba'omer, the fifth day of the fifth week, or <em>Hod sheb'Hod</em> (<em>Hod</em> within <em>Hod</em>, Majesty squared). For the first night one would therefore add: <em>Ḥesed sheb'Ḥesed</em> ~ "Love within Love." We travel from <em>Ḥesed</em> within <em>Ḥesed</em> on the second night of Passover, the night of true lovingkindness, to the 49th day of the Omer, <em>Malkhut</em> within <em>Malkhut</em>, the radiance of <em>Shekhinah</em>. The significance of <em>Hod</em> within <em>Hod</em> is that it is the point in which physical manifestation (i.e. of the Torah or God's presence) begins. On a mystical level this is about the Torah being prepared to be given to the people, while on the natural level it's about the manifestation of divine blessing in the wheat crop itself. --Rabbi David Seidenberg (neohasid.org)</span>
 </div></td></tr>
-	
-	
+    
+    
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
 רִבּוֹנוֹ שֶׁל עוֹלָם,‏
@@ -977,8 +977,8 @@ Until the end of of the seventh week
 you shall count fifty days,"[foot]Leviticus 23:15-16[/foot]
 so that the lives of your people, Yisra'el, will be purified from their impurities.
 </div></td></tr>
-	
-	
+    
+    
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
  וּבְכֵן יְהִי רָצוֹן מִלְּפָנֶיךָ יְיָ אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֹתֵינוּ,‏
@@ -995,8 +995,8 @@ that in the merit of the <em>Sefirat HaOmer</em> that I have counted today,
 may there be healed any impairment of mine in the <em>sefirah</em>,
 &nbsp;<span class="instruction">(here say the corresponding <em>sefirah</em> for the day of the Omer.)</span>&nbsp;
 </div></td></tr>
-	
-	
+    
+    
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
 וְאֶטָּהֵר וְאֶתְקַדֵּשׁ בִּקְדֻשָּׁה שֶׁל מַעְלָה,‏
@@ -1019,7 +1019,7 @@ May it purify and sanctify us with your most precious holiness.
 
 <hr />
 
-<a href="https://opensiddur.org/wp-content/uploads/2013/03/Sefirot-HaOmer-Calendar-Chart-Hebrew-and-English-Aharon-Varady-2019.pdf"><img src="https://opensiddur.org/wp-content/uploads/2013/03/Aharon-Varady-Sefirot-HaOmer-Chart-3-Hebrew-836x1024.png" alt="" width="640" height="784" class="alignleft size-large wp-image-24804" /></a><a href="https://opensiddur.org/wp-content/uploads/2013/03/Sefirot-HaOmer-Calendar-Chart-Hebrew-and-English-Aharon-Varady-2019.pdf"><img src="https://opensiddur.org/wp-content/uploads/2013/03/Sefirot-HaOmer-Calendar-Chart-Aharon-Varady-2018-836x1024.png" alt="" width="640" height="784" class="alignnone size-large wp-image-19660" /></a>
+<center><span style="float: right;"><a href="https://opensiddur.org/wp-content/uploads/2013/03/Sefirot-HaOmer-Calendar-Chart-Hebrew-and-English-Aharon-Varady-2019.pdf"><img src="https://opensiddur.org/wp-content/uploads/2013/03/Aharon-Varady-Sefirot-HaOmer-Chart-3-Hebrew-836x1024.png" alt="" width="640" height="784" class="alignleft size-large wp-image-24804" /></a></span>  <span style="float: left;"><a href="https://opensiddur.org/wp-content/uploads/2013/03/Sefirot-HaOmer-Calendar-Chart-Hebrew-and-English-Aharon-Varady-2019.pdf"><img src="https://opensiddur.org/wp-content/uploads/2013/03/Sefirot-HaOmer-Calendar-Chart-Aharon-Varady-2018-836x1024.png" alt="" width="640" height="784" class="alignnone size-large wp-image-19660" /></a></span></center>[su_spacer]
 
 I adapted the Sefirot HaOmer calendar chart above from an earlier work, the <a href="https://opensiddur.org/wp-content/uploads/2013/03/Omer-Circles-Lauren-Deutsch-and-Aharon-Varady-Color-Spectrum-Schema.png">Sefirot HaOmer Chart of Lieba B. Ruth</a> (aka, Lauren Deutsch) to which I had added the 42nd day of the Omer. I wanted to make a version that corresponded with the <a href="https://web.archive.org/web/20130803041323/http://www.pinenet.com/~rooster/tallis.html">color schema innovated by Rabbi Zalman Schachter-Shalomi</a>.
 

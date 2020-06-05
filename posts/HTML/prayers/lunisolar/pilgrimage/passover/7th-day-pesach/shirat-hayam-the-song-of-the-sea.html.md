@@ -12,7 +12,7 @@ According to Rabbinic tradition, the 21st of Nissan is the day in the Jewish cal
 
 The 21st of Nissan corresponds to the 7th day of Passover, and the recitation of the Shirat HaYam is part of the daily Torah Reading. Some Sepharadi communities recite a song in Ladino based on the <em>Shirat Hayam</em>, the Ketuba del Seten Dia de Pesah (the Marriage Contract of Yom Vayyosha/the Day of "Vayosha" after the opening word in Exodus 14:30). It is the custom of the Ḥassidei ḤaBaD to stay up all night learning (just as on Shavuot and Hoshana Raba). The day also corresponds with the 6th day of the Omer, <em>Yesod sheb'Ḥesed</em> (Foundation within Lovingkindness) in the order of the lower <em>sefirot</em> or creative emanations.
 
-Rabbi Hillel Ḥayim Yisraeli-Lavery shares a performance of a melody he learned for the <em>Shirat Hayam</em> from <span class="hebrew" lang="he">צוף דבש</span> <em>Tzuf Devash</em>, a Moroccan synagogue in the Old City of Jerusalem. If there is something about this tune that strikes one as particularly celebratory, it might be because the relationship between G‽D and the Jewish people is traditionally described as a marriage consummated with the Covenant at Mt. Sinai. The passage of Bnei Yisrael through the Sea of Reeds towards Mt. Sinai thus begins a bridal march commencing in the theophany at Mt. Sinai, 42 days later.
+Rabbi Hillel Ḥayim Yisraeli-Lavery shares a performance of a melody he learned for the <em>Shirat Hayam</em> from <span class="hebrew" lang="he">צוף דבש</span> <em>Tsuf Devash</em>, a Moroccan synagogue in the Old City of Jerusalem. If there is something about this tune that strikes one as particularly celebratory, it might be because the relationship between G‽D and the Jewish people is traditionally described as a marriage consummated with the Covenant at Mt. Sinai. The passage of Bnei Yisrael through the Sea of Reeds towards Mt. Sinai thus begins a bridal march commencing in the theophany at Mt. Sinai, 42 days later.
 
 [youtube http://www.youtube.com/watch?v=WYJ2OOtfE9s]
 
@@ -29,105 +29,192 @@ From Exodus, chapter 15:1-19. In the layout below which emulates the traditional
 <table style="direction: rtl; margin: auto;" width="675">
 <tr>
 <td colspan="12" width="100%"><div class="scribe" lang="he" style="text-align: justify; justify-content: space-between;">אָ֣ז יָשִֽׁיר־מֹשֶׁה֩ וּבְנֵ֨י יִשְׂרָאֵ֜ל אֶת־הַשִּׁירָ֤ה הַזֹּאת֙ לַֽיהֹוָ֔ה וַיֹּאמְר֖וּ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div></td>
-</tr>   <tr>
+</tr>
+
+
+<tr>
 <td colspan="3" width="25%"><div class="scribe" lang="he" style="text-align: right;">לֵאמֹ֑ר</div></td>
 <td colspan="6" width="50%"><div class="scribe" lang="he" style="text-align: center;">אָשִׁ֤ירָה לַֽיהֹוָה֙ כִּֽי־גָאֹ֣ה גָּאָ֔ה</div></td>
 <td colspan="3" width="25%"><div class="scribe" lang="he" style="text-align: left;">ס֥וּס</div></td>
-</tr>   <tr>
+</tr>
+
+
+<tr>
 <td colspan="6" width="50%"><div class="scribe" lang="he" style="text-align: right;">וְרֹכְב֖וֹ רָמָ֥ה בַיָּֽם׃</div></td>
 <td colspan="6" width="50%"><div class="scribe" lang="he" style="text-align: left;">עָזִּ֤י וְזִמְרָת֙ יָ֔הּ וַֽיְהִי־לִ֖י</div></td>
-</tr>   <tr>
+</tr>
+
+
+<tr>
 <td colspan="3" width="25%"><div class="scribe" lang="he" style="text-align: right;">לִֽישׁוּעָ֑ה</div></td>
 <td colspan="6" width="50%"><div class="scribe" lang="he" style="text-align: center;">זֶ֤ה אֵלִי֙ וְאַנְוֵ֔הוּ</div></td>
 <td colspan="3" width="25%"><div class="scribe" lang="he" style="text-align: left;">אֱלֹהֵ֥י</div></td>
-</tr>   <tr>
+</tr>
+
+
+<tr>
 <td colspan="6" width="50%"><div class="scribe" lang="he" style="text-align: right;">אָבִ֖י וַאֲרֹמְמֶֽנְהוּ׃</div></td>
 <td colspan="6" width="50%"><div class="scribe" lang="he" style="text-align: left;">יְהֹוָ֖ה אִ֣ישׁ מִלְחָמָ֑ה יְהֹוָ֖ה</div></td>
-</tr>   <tr>
+</tr>
+
+
+<tr>
 <td colspan="3" width="25%"><div class="scribe" lang="he" style="text-align: right;">שְׁמֽוֹ׃</span></td>
 <td colspan="6" width="50%"><div class="scribe" lang="he" style="text-align: center;">מַרְכְּבֹ֥ת פַּרְעֹ֛ה וְחֵיל֖וֹ יָרָ֣ה בַיָּ֑ם</span></td>
 <td colspan="3" width="25%"><div class="scribe" lang="he" style="text-align: left;">וּמִבְחַ֥ר</span></td>
-</tr>   <tr>
+</tr>
+
+
+<tr>
 <td colspan="6" width="50%"><div class="scribe" lang="he" style="text-align: right;">שָֽׁלִשָׁ֖יו טֻבְּע֥וּ בְיַם־סֽוּף׃</span></td>
 <td colspan="6" width="50%"><div class="scribe" lang="he" style="text-align: left;">תְּהֹמֹ֖ת יְכַסְיֻ֑מוּ יָרְד֥וּ בִמְצוֹלֹ֖ת כְּמוֹ־</span></td>
-</tr>   <tr>
+</tr>
+
+
+<tr>
 <td colspan="3" width="25%"><div class="scribe" lang="he" style="text-align: right;">אָֽבֶן׃</span></td>
 <td colspan="6" width="50%"><div class="scribe" lang="he" style="text-align: center;">יְמִֽינְךָ֣ יְהֹוָ֔ה נֶאְדָּרִ֖י בַּכֹּ֑חַ</span></td>
 <td colspan="3" width="25%"><div class="scribe" lang="he" style="text-align: left;">יְמִֽינְךָ֥</span></td>
-</tr>   <tr>
+</tr>
+
+
+<tr>
 <td colspan="6" width="50%"><div class="scribe" lang="he" style="text-align: right;">יְהֹוָ֖ה תִּרְעַ֥ץ אוֹיֵֽב׃</span></td>
 <td colspan="6" width="50%"><div class="scribe" lang="he" style="text-align: left;">וּבְרֹ֥ב גְּאוֹנְךָ֖ תַּהֲרֹ֣ס</span></td>
-</tr>   <tr>
+</tr>
+
+
+<tr>
 <td colspan="3" width="25%"><div class="scribe" lang="he" style="text-align: right;">קָמֶ֑יךָ</span></td>
 <td colspan="6" width="50%"><div class="scribe" lang="he" style="text-align: center;">תְּשַׁלַּח֙ חֲרֹ֣נְךָ֔ יֹאכְלֵ֖מוֹ כַּקַּֽשׁ׃</span></td>
 <td colspan="3" width="25%"><div class="scribe" lang="he" style="text-align: left;">וּבְר֤וּחַ</span></td>
-</tr>   <tr>
+</tr>
+
+
+<tr>
 <td colspan="6" width="50%"><div class="scribe" lang="he" style="text-align: right;">אַפֶּ֙יךָ֙ נֶ֣עֶרְמוּ מַ֔יִם</span></td>
 <td colspan="6" width="50%"><div class="scribe" lang="he" style="text-align: left;">נִצְּב֥וּ כְמוֹ־נֵ֖ד</span></td>
-</tr>   <tr>
+</tr>
+
+
+<tr>
 <td colspan="3" width="25%"><div class="scribe" lang="he" style="text-align: right;">נֹזְלִ֑ים</span></td>
 <td colspan="6" width="50%"><div class="scribe" lang="he" style="text-align: center;">קָֽפְא֥וּ תְהֹמֹ֖ת בְּלֶב־יָֽם׃</span></td>
 <td colspan="3" width="25%"><div class="scribe" lang="he" style="text-align: left;">אָמַ֥ר</span></td>
-</tr>   <tr>
+</tr>
+
+
+<tr>
 <td colspan="6" width="50%"><div class="scribe" lang="he" style="text-align: right;">אוֹיֵ֛ב אֶרְדֹּ֥ף אַשִּׂ֖יג</span></td>
 <td colspan="6" width="50%"><div class="scribe" lang="he" style="text-align: left;">אֲחַלֵּ֣ק שָׁלָ֑ל תִּמְלָאֵ֣מוֹ</span></td>
-</tr>   <tr>
+</tr>
+
+
+<tr>
 <td colspan="3" width="25%"><div class="scribe" lang="he" style="text-align: right;">נַפְשִׁ֔י</span></td>
 <td colspan="6" width="50%"><div class="scribe" lang="he" style="text-align: center;">אָרִ֣יק חַרְבִּ֔י תּוֹרִישֵׁ֖מוֹ יָדִֽי׃</span></td>
 <td colspan="3" width="25%"><div class="scribe" lang="he" style="text-align: left;">נָשַׁ֥פְתָּ</span></td>
-</tr>   <tr>
+</tr>
+
+
+<tr>
 <td colspan="6" width="50%"><div class="scribe" lang="he" style="text-align: right;">בְרוּחֲךָ֖ כִּסָּ֣מוֹ יָ֑ם</span></td>
 <td colspan="6" width="50%"><div class="scribe" lang="he" style="text-align: left;">צָֽלְלוּ֙ כַּֽעוֹפֶ֔רֶת בְּמַ֖יִם</span></td>
-</tr>   <tr>
+</tr>
+
+
+<tr>
 <td colspan="3" width="25%"><div class="scribe" lang="he" style="text-align: right;">אַדִּירִֽים׃</span></td>
 <td colspan="6" width="50%"><div class="scribe" lang="he" style="text-align: center;">מִֽי־כָמֹ֤כָה בָּֽאֵלִם֙ יְהֹוָ֔ה</span></td>
 <td colspan="3" width="25%"><div class="scribe" lang="he" style="text-align: left;">מִ֥י</span></td>
-</tr>   <tr>
+</tr>
+
+
+<tr>
 <td colspan="6" width="50%"><div class="scribe" lang="he" style="text-align: right;">כָּמֹ֖כָה נֶאְדָּ֣ר בַּקֹּ֑דֶשׁ</span></td>
 <td colspan="6" width="50%"><div class="scribe" lang="he" style="text-align: left;">נוֹרָ֥א תְהִלֹּ֖ת עֹ֥שֵׂה</span></td>
-</tr>   <tr>
+</tr>
+
+
+<tr>
 <td colspan="3" width="25%"><div class="scribe" lang="he" style="text-align: right;">פֶֽלֶא׃</span></td>
 <td colspan="6" width="50%"><div class="scribe" lang="he" style="text-align: center;">נָטִ֙יתָ֙ יְמִ֣ינְךָ֔ תִּבְלָעֵ֖מוֹ אָֽרֶץ׃</span></td>
 <td colspan="3" width="25%"><div class="scribe" lang="he" style="text-align: left;">נָחִ֥יתָ</span></td>
-</tr>   <tr>
+</tr>
+
+
+<tr>
 <td colspan="6" width="50%"><div class="scribe" lang="he" style="text-align: right;">בְחַסְדְּךָ֖ עַם־ז֣וּ גָּאָ֑לְתָּ</span></td>
 <td colspan="6" width="50%"><div class="scribe" lang="he" style="text-align: left;">נֵהַ֥לְתָּ בְעָזְּךָ֖ אֶל־נְוֵ֥ה</span></td>
-</tr>   <tr>
+</tr>
+
+
+<tr>
 <td colspan="3" width="25%"><div class="scribe" lang="he" style="text-align: right;">קָדְשֶֽׁךָ׃</span></td>
 <td colspan="6" width="50%"><div class="scribe" lang="he" style="text-align: center;">שָֽׁמְע֥וּ עַמִּ֖ים יִרְגָּז֑וּן</span></td>
 <td colspan="3" width="25%"><div class="scribe" lang="he" style="text-align: left;">חִ֣יל</span></td>
-</tr>   <tr>
+</tr>
+
+
+<tr>
 <td colspan="6" width="50%"><div class="scribe" lang="he" style="text-align: right;">אָחַ֔ז יֹשְׁבֵ֖י פְּלָֽשֶׁת׃</span></td>
 <td colspan="6" width="50%"><div class="scribe" lang="he" style="text-align: left;">אָ֤ז נִבְהֲלוּ֙ אַלּוּפֵ֣י</span></td>
-</tr>   <tr>
+</tr>
+
+
+<tr>
 <td colspan="3" width="25%"><div class="scribe" lang="he" style="text-align: right;">אֱד֔וֹם</span></td>
 <td colspan="6" width="50%"><div class="scribe" lang="he" style="text-align: center;">אֵילֵ֣י מוֹאָ֔ב יֹֽאחֲזֵ֖מוֹ רָ֑עַד</span></td>
 <td colspan="3" width="25%"><div class="scribe" lang="he" style="text-align: left;">נָמֹ֕גוּ</span></td>
-</tr>   <tr>
+</tr>
+
+
+<tr>
 <td colspan="6" width="50%"><div class="scribe" lang="he" style="text-align: right;">כֹּ֖ל יֹשְׁבֵ֥י כְנָֽעַן׃</span></td>
 <td colspan="6" width="50%"><div class="scribe" lang="he" style="text-align: left;">תִּפֹּ֨ל עֲלֵיהֶ֤ם אֵימָ֙תָה֙</span></td>
-</tr>   <tr>
+</tr>
+
+
+<tr>
 <td colspan="3" width="25%"><div class="scribe" lang="he" style="text-align: right;">וָפַ֔חַד</span></td>
 <td colspan="6" width="50%"><div class="scribe" lang="he" style="text-align: center;">בִּגְדֹ֥ל זְרוֹעֲךָ֖ יִדְּמ֣וּ כָּאָ֑בֶן</span></td>
 <td colspan="3" width="25%"><div class="scribe" lang="he" style="text-align: left;">עַד־</span></td>
-</tr>   <tr>
+</tr>
+
+
+<tr>
 <td colspan="6" width="50%"><div class="scribe" lang="he" style="text-align: right;">יַעֲבֹ֤ר עַמְּךָ֙ יְהֹוָ֔ה</span></td>
 <td colspan="6" width="50%"><div class="scribe" lang="he" style="text-align: left;">עַֽד־יַעֲבֹ֖ר עַם־ז֥וּ</span></td>
-</tr>   <tr>
+</tr>
+
+
+<tr>
 <td colspan="3" width="25%"><div class="scribe" lang="he" style="text-align: right;">קָנִֽיתָ׃</span></td>
 <td colspan="6" width="50%"><div class="scribe" lang="he" style="text-align: center;">תְּבִאֵ֗מוֹ וְתִטָּעֵ֙מוֹ֙ בְּהַ֣ר נַחֲלָֽתְךָ֔</span></td>
 <td colspan="3" width="25%"><div class="scribe" lang="he" style="text-align: left;">מָכ֧וֹן</span></td>
-</tr>   <tr>
+</tr>
+
+
+<tr>
 <td colspan="6" width="50%"><div class="scribe" lang="he" style="text-align: right;">לְשִׁבְתְּךָ֛ פָּעַ֖לְתָּ יְהֹוָ֑ה</span></td>
 <td colspan="6" width="50%"><div class="scribe" lang="he" style="text-align: left;">מִקְּדָ֕שׁ אֲדֹנָ֖י כּוֹנְנ֥וּ</span></td>
-</tr>   <tr>
+</tr>
+
+
+<tr>
 <td colspan="3" width="25%"><div class="scribe" lang="he" style="text-align: right;">יָדֶֽיךָ׃</span></td>
 <td colspan="6" width="50%"><div class="scribe" lang="he" style="text-align: center;">יְהֹוָ֥ה ׀ יִמְלֹ֖ךְ לְעֹלָ֥ם וָעֶֽד׃</span></td>
 <td colspan="3" width="25%"><div class="scribe" lang="he" style="text-align: left;">כִּ֣י</span></td>
-</tr>   <tr>
+</tr>
+
+
+<tr>
 <td colspan="6" width="50%"><div class="scribe" lang="he" style="text-align: right;">בָא֩ ס֨וּס פַּרְעֹ֜ה בְּרִכְבּ֤וֹ וּבְפָרָשָׁיו֙ בַּיָּ֔ם</span></td>
 <td colspan="6" width="50%"><div class="scribe" lang="he" style="text-align: left;">וַיָּ֧שֶׁב יְהֹוָ֛ה עֲלֵהֶ֖ם</span></td>
-</tr>   <tr>
+</tr>
+
+
+<tr>
 <td colspan="3" width="25%"><div class="scribe" lang="he" style="text-align: right;">אֶת־מֵ֣י הַיָּ֑ם</span></td>
 <td colspan="6" width="50%"><div class="scribe" lang="he" style="text-align: center;">וּבְנֵ֧י יִשְׂרָאֵ֛ל הָלְכ֥וּ בַיַּבָּשָׁ֖ה בְּת֥וֹךְ</span></td>
 <td colspan="3" width="25%"><div class="scribe" lang="he" style="text-align: left;">הַיָּֽם׃</span></td>
@@ -141,119 +228,192 @@ From Exodus, chapter 15:1-19. In the layout below which emulates the traditional
 <tr>
 <td colspan="12" width="100%" style="text-align: center;"><div>Then Moshe and the children of Yisrael sang this song to YHVH,</span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div></td>
-</tr>   <tr>
+</tr>
+
+
+<tr>
 <td colspan="3" width="25%" style="text-align: left;" >and said,</td>
 <td colspan="6" width="50%" style="text-align: center;">“I will sing to YHVH, for THEY have triumphed gloriously.</td>
 <td style="text-align: right;" colspan="3" width="25%">The horse</span></td>
-</tr>   <tr>
+</tr>
 
+
+<tr>
 <td colspan="6" width="50%" style="text-align: left;">and his rider he has thrown into the sea.</td>
 <td style="text-align: right;" colspan="6" width="50%">Yah is my strength and song. They have become my</td>
-</tr>   <tr>
+</tr>
+
+
+<tr>
 <td colspan="3" width="25%" style="text-align: left;" >salvation.</td>
 <td colspan="6" width="50%" style="text-align: center;">This is my <em>elo'ah</em>, and I will praise them;</td>
 <td style="text-align: right;" colspan="3" width="25%">Elo'ah</td>
-</tr>   <tr>
+</tr>
 
+
+<tr>
 <td colspan="6" width="50%" style="text-align: left;">of my father, and I will exalt him.</td>
 <td style="text-align: right;" colspan="6" width="50%">YHVH is a man of war. YHVH</td>
-</tr>   <tr>
+</tr>
+
+
+<tr>
 <td colspan="3" width="25%" style="text-align: left;">is his name.</td>
 <td colspan="6" width="50%" style="text-align: center;">He has cast Pharaoh’s chariots and his army into the sea.</td>
 <td style="text-align: right;" colspan="3" width="25%">His chosen</td>
-</tr>   <tr>
+</tr>
 
+
+<tr>
 <td colspan="6" width="50%" style="text-align: left;">captains are sunk in the Reed Sea</td>
 <td style="text-align: right;" colspan="6" width="50%">The deeps cover them. They went down into the depths like a</td>
-</tr>   <tr>
+</tr>
+
+
+<tr>
 <td colspan="3" width="25%" style="text-align: left;">stone.</td>
 <td colspan="6" width="50%" style="text-align: center;">Your right hand, YHVH, is glorious in power.</td>
 <td style="text-align: right;" colspan="3" width="25%">Your right hand,</td>
-</tr>   <tr>
+</tr>
 
+
+<tr>
 <td colspan="6" width="50%" style="text-align: left;">YHVH, dashes the enemy in pieces.</td>
 <td style="text-align: right;" colspan="6" width="50%">In the greatness of your excellency, you overthrow</td>
-</tr>   <tr>
+</tr>
+
+
+<tr>
 <td colspan="3" width="25%" style="text-align: left;">those who rise up against you.</td>
 <td colspan="6" width="50%" style="text-align: center;">You send forth your wrath. It consumes them as stubble.</td>
 <td style="text-align: right;" colspan="3" width="25%">With the blast</td>
-</tr>   <tr>
+</tr>
 
+
+<tr>
 <td colspan="6" width="50%" style="text-align: left;">of your nostrils, the waters were piled up.</td>
 <td style="text-align: right;" colspan="6" width="50%">The floods stood upright as a </td>
-</tr>   <tr>
+</tr>
+
+
+<tr>
 <td colspan="3" width="25%" style="text-align: left;">heap.</td>
 <td colspan="6" width="50%" style="text-align: center;">The deeps were congealed in the heart of the sea.</td>
 <td style="text-align: right;" colspan="3" width="25%">Said</td>
-</tr>   <tr>
+</tr>
 
+
+<tr>
 <td colspan="6" width="50%" style="text-align: left;">the enemy, ‘I will pursue. I will overtake.</td>
 <td style="text-align: right;" colspan="6" width="50%">I will divide the spoil. Satisfied upon them, shall be</td>
-</tr>   <tr>
+</tr>
+
+
+<tr>
 <td colspan="3" width="25%" style="text-align: left;">my desire.</td>
 <td colspan="6" width="50%" style="text-align: center;">I will draw my sword, my hand shall destroy them.’</td>
 <td style="text-align: right;" colspan="3" width="25%">You blew</td>
-</tr>   <tr>
+</tr>
 
+
+<tr>
 <td colspan="6" width="50%" style="text-align: left;">with your wind. The sea covered them.</td>
 <td style="text-align: right;" colspan="6" width="50%">They sank like lead in the waters,</td>
-</tr>   <tr>
+</tr>
+
+
+<tr>
 <td colspan="3" width="25%" style="text-align: left;">mighty.</td>
 <td colspan="6" width="50%" style="text-align: center;">Who is like you, YHVH, among the gods?</td>
 <td style="text-align: right;" colspan="3" width="25%">Who</td>
-</tr>   <tr>
+</tr>
 
+
+<tr>
 <td colspan="6" width="50%" style="text-align: left;"> is like you, glorious in holiness</td>
 <td style="text-align: right;" colspan="6" width="50%">fearful in praises, doing</td>
-</tr>   <tr>
+</tr>
+
+
+<tr>
 <td colspan="3" width="25%" style="text-align: left;">wonders?</td>
 <td colspan="6" width="50%" style="text-align: center;">You stretched out your right hand. The earth swallowed them.</td>
 <td style="text-align: right;" colspan="3" width="25%">You have led</td>
-</tr>   <tr>
+</tr>
 
+
+<tr>
 <td colspan="6" width="50%" style="text-align: left;">in your loving kindness the people that you have redeemed.</td>
 <td style="text-align: right;" colspan="6" width="50%">You have guided them in your strength to your habitation, </td>
-</tr>   <tr>
+</tr>
+
+
+<tr>
 <td colspan="3" width="25%" style="text-align: left;">holy.</td>
 <td colspan="6" width="50%" style="text-align: center;">The peoples have heard. They tremble.</td>
 <td style="text-align: right;" colspan="3" width="25%">Pangs</td>
-</tr>   <tr>
+</tr>
 
+
+<tr>
 <td colspan="6" width="50%" style="text-align: left;">have taken hold on the inhabitants of Philistia.</td>
 <td style="text-align: right;" colspan="6" width="50%">Then, were dismayed the chiefs of</td>
-</tr>   <tr>
+</tr>
+
+
+<tr>
 <td colspan="3" width="25%" style="text-align: left;">Edom.</td>
 <td colspan="6" width="50%" style="text-align: center;">Trembling takes hold of the mighty men of Moav.</td>
 <td style="text-align: right;" colspan="3" width="25%">Melted away</td>
-</tr>   <tr>
+</tr>
 
+
+<tr>
 <td colspan="6" width="50%" style="text-align: left;">all the inhabitants of K'naan.</td>
 <td style="text-align: right;" colspan="6" width="50%">Falls on them terror</td>
-</tr>   <tr>
+</tr>
+
+
+<tr>
 <td colspan="3" width="25%" style="text-align: left;">and dread.</td>
 <td colspan="6" width="50%" style="text-align: center;">By the greatness of your arm they are as still as a stone–</td>
 <td style="text-align: right;" colspan="3" width="25%">until</td>
-</tr>   <tr>
+</tr>
 
+
+<tr>
 <td colspan="6" width="50%" style="text-align: left;">your people pass over, YHVH</td>
 <td style="text-align: right;" colspan="6" width="50%">until the people pass over who </td>
-</tr>   <tr>
+</tr>
+
+
+<tr>
 <td colspan="3" width="25%" style="text-align: left;">you have purchased.</td>
 <td colspan="6" width="50%" style="text-align: center;">You shall bring them in, and plant them in the mountain of your inheritance,</td>
 <td style="text-align: right;" colspan="3" width="25%">the place,</td>
-</tr>   <tr>
+</tr>
 
+
+<tr>
 <td colspan="6" width="50%" style="text-align: left;">YHVH, which you have made for yourself to dwell in;</td>
 <td style="text-align: right;" colspan="6" width="50%">the sanctuary, my Master, established.</td>
-</tr>   <tr>
+</tr>
+
+
+<tr>
 <td colspan="3" width="25%" style="text-align: left;" >with your hands</td>
 <td colspan="6" width="50%" style="text-align: center;">YHVH shall reign forever and ever.</td>
 <td style="text-align: right;" colspan="3" width="25%">For</td>
-</tr>   <tr>
+</tr>
 
+
+<tr>
 <td colspan="6" width="50%" style="text-align: left;">the horses of Pharaoh went in with his chariots and with his horsemen into the sea</td>
 <td style="text-align: right;" colspan="6" width="50%">and YHVH brought back on them</td>
-</tr>   <tr>
+</tr>
+
+
+<tr>
 <td colspan="3" width="25%" style="text-align: left;">the waters of the sea</td>
 <td colspan="6" width="50%" style="text-align: center;"> but the children of Yisroel walked on dry land in the midst of</td>
 <td style="text-align: right;" colspan="3" width="25%">the Sea.</td>
@@ -261,8 +421,6 @@ From Exodus, chapter 15:1-19. In the layout below which emulates the traditional
 </tbody></table>
 </div></td></tr>
 </tbody></table>
-
-
 
 <div class="english" style="font-size: 1.2em;">
 Any mention of rejoicing even at the cost of the death or injury of one's enemy must be tempered as all <em>Bnei Adam</em> are made <em>B'Tzelem Elohim</em> (with divine likeness). The Talmud Bavli Megillah 10b teaches,

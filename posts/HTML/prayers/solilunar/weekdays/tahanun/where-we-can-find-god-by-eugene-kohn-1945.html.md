@@ -147,14 +147,14 @@ And in death that keeps knocking on the doors of life.
 <div class="liturgy"><span lang="he">
 אֱלֹהַי.
 מַלְּאֵֽנִי תָמִיד חַיִּים חֲדָשִׁים׃ 
-תֶּן־לִי כֹֽח לִשְׁמֹר אֶת־בְּשָׂרִי לְמַֽעַן יִטְהַר 
+תֶּן־לִי כֹֽחַ לִשְׁמֹר אֶת־בְּשָׂרִי לְמַֽעַן יִטְהַר 
 מִּכׇּל־כֶּֽתֶם מִכׇּל־נֶעְקַשׁ בְּחַיַּי.
 וּמַחְשְׁבוֹתַי מִכׇּל־כָּזָב׃ 
 גָּרֵשׁ כׇּל־רָע מִקֶּֽרֶב לִבִּי. 
 וְהַרְחֵק גָּאוֹן מֵרוּחִי.
 תֶּן־לִי בִינָה לִמְצֹא אוֹתְךָ בְּכׇּל־מִפְעָלַי. 
 וְהָיוּ חַיַּי נְכוֹנִים וִישָׁרִים.
-כִּי יָדַֽעְתִּי כִּי אַתָּה הוּא הַמְאַזְּרֵֽנִי כֹֽח לְמַֽעַן אֶפְעָל׃
+כִּי יָדַֽעְתִּי כִּי אַתָּה הוּא הַמְאַזְּרֵֽנִי כֹֽחַ לְמַֽעַן אֶפְעָל׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
@@ -175,12 +175,12 @@ For I know that it is you who girds me with the power to achieve.
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
 אֱלֹהַי.
-תֶּן־לִי כֹֽח לְבִלְתִּי הַזְנִֽיחַ לְעוֹלָם דָּל. 
+תֶּן־לִי כֹֽחַ לְבִלְתִּי הַזְנִֽיחַ לְעוֹלָם דָּל. 
 וּלְבִלְתִּי כָפוֹף בִּרְכַּי לִפְנֵי עָרִיץ גְבַה־רוּחַ. 
-תֶּן־לִי כֹֽח לְנַשֵּׂא אֶת־רוּחִי מֵעַל־תַּעְתּוּעֵי יוֹם וָיוֹם. 
+תֶּן־לִי כֹֽחַ לְנַשֵּׂא אֶת־רוּחִי מֵעַל־תַּעְתּוּעֵי יוֹם וָיוֹם. 
 לָשֵׂאת עַל־נְקַלָּה אֶת־חֶדְוָתִי וְאֶת־דַּאֲגָתִי.
 וּלְהַסְגִּיר אֶל חֶפְצְךָ אֶת־כׇּל־כֹּחִי בְּאַהֲבָה.
-תֶּן־לִי כֹֽח לְהוֹדוֹת לְךָ עַל־כׇּל־מוֹשָׁב דָּל. 
+תֶּן־לִי כֹֽחַ לְהוֹדוֹת לְךָ עַל־כׇּל־מוֹשָׁב דָּל. 
 עַל־כׇּל־חֵֽלֶק חַיִּים קָטָן. 
 כִּי רַבּוֹת הַמַּתָּנוֹת אֲשֶׁר נָתַֽתָּ לִּי.
 אֶת־הַשָּׁמַֽיִם וְאֶת־הָאוֹר. אֶת־בְּשָׂרִי זֶה. 
@@ -216,7 +216,6 @@ I am nearly certain that "Where We Can Find God" was composed by Eugene Kohn. Ta
 The prayer-poem has been incorrectly attributed at least twice. First in Rabbi Morrison David Bial's <em>An Offering of Prayer</em> where it is attributed directly, albeit "<a href="https://archive.org/details/AnOfferingOfPrayerBial1962/page/n13">freely adapted</a>" to Tagore. Chaim Stern in his own translation appearing in <em>Gates of Prayer</em> (1975 CCAR Press) seems to attribute the prayer to David Frishman: "Page 659: "Lord where can I find You? You glory fills the world..." Translation by Chaim Stern from David Frischmann's Hebrew version of Rabindranath Tagore's <em>Gitanjali</em>. Cf. Chaim Stern's earlier translation in <em>Service of the Heart</em> [1967] pp. 225ff. and Eugene Kohn's translation in Recontructionist <em>Sabbath Prayer Book</em> [1945], pp. 342-9."
 
 I have made some very light editing to "Where We Can Find God," mainly to replace 'Thee,' 'Thy', and 'Thou' with 'you' and 'your.' And I have also made other subtle changes to bring the English translation closer to the Hebrew. --Aharon N. Varady.
-
 
 <h3>Source(s)</h3>
 

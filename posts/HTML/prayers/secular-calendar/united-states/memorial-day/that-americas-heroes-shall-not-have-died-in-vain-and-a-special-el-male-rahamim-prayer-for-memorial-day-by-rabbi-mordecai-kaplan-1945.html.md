@@ -8,7 +8,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <hr />
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
@@ -251,16 +251,22 @@ And let us say, <em>Amen</em>.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="instruction">Sing "America", or "America the Beautiful", or "The Star-Spangled Banner."</span>
+<span class="instruction">Sing "<a href="https://opensiddur.org/prayers/secular-calendar/united-states/july-4th/america-my-country-tis-of-thee-a-patriotic-hymn-by-samuel-francis-smith-yiddish-translation-by-berl-lapin-1950/">America</a>", or "<a href="https://opensiddur.org/prayers/secular-calendar/united-states/july-4th/america-the-beautiful-a-patriotic-hymn-by-katharine-lee-bates-yiddish-translation-by-berl-lapin/">America the Beautiful</a>", or "<a href="https://opensiddur.org/prayers/secular-calendar/united-states/flag-day/the-star-spangled-banner-by-francis-scott-key-yiddish-translation-by-berl-lapin/">The Star-Spangled Banner</a>."</span>
 </div></td></tr>
 </tbody></table>
 
 <hr />
-This service for Memorial Day appears on pages 541-544 of <em><a href="https://opensiddur.org/compilations/shabbat-siddur/sabbath-prayer-book-by-mordecai-kaplan-1945/">The Sabbath Prayer Book</a></em> (Jewish Reconstructionist Foundation, 1945). In the El Malé Raḥamim, I have replaced "thee, thy, and thou" archaisms. --Aharon N. Varady
 
+This service for Memorial Day appears on pages 541-544 of <em><a href="https://opensiddur.org/compilations/shabbat-siddur/sabbath-prayer-book-by-mordecai-kaplan-1945/">The Sabbath Prayer Book</a></em> (Jewish Reconstructionist Foundation, 1945). In the El Malé Raḥamim, I have replaced "thee, thy, and thou" archaisms. --Aharon N. Varady
 
 <h3>Source(s)</h3>
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/SabbathPrayerBookJewishReconstructionistFoundation1945#page/n568/mode/2up"]
+
+&nbsp;
+
+<hr />
+
+&nbsp;
 </body>
 </html>

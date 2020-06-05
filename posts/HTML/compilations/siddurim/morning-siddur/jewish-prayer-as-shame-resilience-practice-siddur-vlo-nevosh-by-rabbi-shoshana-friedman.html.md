@@ -7,7 +7,6 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-
 <strong>DOWNLOAD:</strong> <a href="https://opensiddur.org/wp-content/uploads/2014/10/Shoshana-Friedman-Siddur-vLo-Nevosh.pdf">PDF</a> | <a href="https://opensiddur.org/wp-content/uploads/2014/10/Shoshana-Friedman-Siddur-vLo-Nevosh.odt">ODT</a>
 
 <div class="english" style="font-size: 1.2em;">
@@ -21,6 +20,5 @@ For those of us who speak a religious language, we can understand our journey of
 The full essay accompanying Rabbi Friedman's siddur is available at her website, <a href="http://web.archive.org/web/20160804165328/http://shoshanameira.com:80/wp-content/uploads/2014/07/Prayer-as-Shame-Resilience-Practice.pdf">here</a>.
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/SiddurVLoNevoshShoshanaFriedman2014#page/n0/mode/2up"]
-
 </body>
 </html>
