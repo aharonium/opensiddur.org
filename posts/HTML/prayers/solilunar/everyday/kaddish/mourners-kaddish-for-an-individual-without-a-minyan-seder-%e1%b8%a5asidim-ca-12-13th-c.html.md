@@ -62,6 +62,8 @@ Let the name YHVH be blessed now and forever.[foot]Psalms 113:2.[/foot]
 
 <hr />
 
+This mourners ḳaddish in the event there is no minyan is found in the Sefer Ḥasidim of Rabbi Yehudah ben Shmuel of Regensburg (ca. 12th-13 c.).
+
 <h3>Source(s)</h3>
 
 Needing source images.

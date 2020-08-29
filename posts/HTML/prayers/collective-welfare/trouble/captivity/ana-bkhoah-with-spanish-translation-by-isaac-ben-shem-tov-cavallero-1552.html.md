@@ -8,7 +8,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <hr />
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;">Initials (Hebrew)</th><th style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (Ladino)</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;">Initials (Hebrew)</th><th style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (Spanish)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="16%">
 <div class="scribe"><span lang="he">
@@ -23,7 +23,8 @@ For attribution and license, please consult the following URL: <a href="http://o
 תַּתִּיר צְרוּרָה
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%">
+<div class="spanish"><span lang="es">
 Ruego con fuerça de grandeza de tu derecha, 
 suelta angustiada
 </td></tr>
@@ -42,7 +43,8 @@ suelta angustiada
 שַׂגְּבֵנוּ טַהֲרֵנוּ נוֹרָא
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%">
+<div class="spanish"><span lang="es">
 recibe exclamacion de tu pueblo
 En fortece nos munda nos timido
 </td></tr>
@@ -61,7 +63,8 @@ En fortece nos munda nos timido
 כְּבָבַת שׁוֹמְרֵם
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%">
+<div class="spanish"><span lang="es">
 ruego fuerte buscantes tu unidad
 como niñeta guarda 
 </td></tr>
@@ -80,7 +83,8 @@ como niñeta guarda
 תָּמִיד גּוֹמְלֵם
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%">
+<div class="spanish"><span lang="es">
 bendizelos lipialos piadades de tu justedad
 contino les galardona fuerte santo
 </td></tr>
@@ -99,7 +103,8 @@ contino les galardona fuerte santo
 נַהֵל עֲדָתֶךָ
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%">
+<div class="spanish"><span lang="es">
 Con muchedumbre de tu bien guia
 la tu compaña,
 </td></tr>
@@ -118,7 +123,8 @@ la tu compaña,
 זוֹכְרֵי קְדוּשָׁתֶךָ
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%">
+<div class="spanish"><span lang="es">
 unico altivo a tu pueblo atiede
 recordantes tu santidad
 </td></tr>
@@ -138,7 +144,8 @@ recordantes tu santidad
 יוֹדֵעַ תַּעֲלוּמוֹת׃
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%">
+<div class="spanish"><span lang="es">
 nostro gemido recibe
 y oye nostra exclamacion
 conocie entrinsecos:

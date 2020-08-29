@@ -36,11 +36,11 @@ For attribution and license, please consult the following URL: <a href="http://o
  
 <td style="vertical-align:top;">
 <div class="english">
-Master of the Cosmos
 <em>Ribono shel Olam
 Ribono shel Olam
 Ribono shel Olam
-Ribono shel Olam!</em>
+Ribono shel Olam</em>
+Master of the Cosmos!
 I want to sing for you a little song 
 [for] You you you, 
 you you —

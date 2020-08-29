@@ -135,7 +135,7 @@ helping others move towards a life of peace.
 <div class="english">
 May the words of our mouths 
 and the meditations of our hearts be acceptable to You, 
-O Lord, our Rock and our Redeemer. 
+O Lord, our Rock and our Redeemer.[foot]Psalms 19:15.[/foot] 
 </div></td></tr>
 </tbody></table>
 

@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: תפילת הזכרת הורים כשאין מניין לאמירת קדיש | "Gebet Statt Kaddisch" Memorial Prayer For When There is No Minyan (trans. Jonah Rank)<br />
+Title: תפילת הזכרת הורים כשאין מניין לאמירת קדיש | "Gebet Statt Kaddisch" Memorial Prayer For When There is No Minyan<br />
 Primary contributor: isaac-seligman.baer<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=7547">http://opensiddur.org/?p=7547</a>
 <p />

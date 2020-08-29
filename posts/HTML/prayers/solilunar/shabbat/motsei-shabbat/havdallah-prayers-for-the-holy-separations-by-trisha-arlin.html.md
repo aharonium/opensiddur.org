@@ -1,14 +1,14 @@
 <html>
 <head></head>
 <body>
-Title: HAVDALLAH: Prayers for the Holy Separations, by Trisha Arlin<br />
+Title: Havdallah: Three Meditations on Holy Separations, by Trisha Arlin<br />
 Primary contributor: trishaarlin<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=2026">http://opensiddur.org/?p=2026</a>
 <p />
 <hr />
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;"></th><th style="text-align: left;">Source (English)</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
@@ -38,7 +38,7 @@ Praise the Time In Between
 <div class="english">
 Praise <em>Kadosh</em>, the holy
 Praise <em>Khol</em>, the mundane
-Praise <em>Ha Mavdil Bein Ḳodesh L’khol</em>, the one who differentiates between them
+Praise <em>Ha Mavdil Bein Kodesh L’khol</em>, the one who differentiates between them
 </div></td>
 </tr>
 
@@ -210,7 +210,7 @@ Clear thinking at last and the work begins.
 <td style="vertical-align:top;" width="53%">
 <div class="english">
 IV.
-Blessed Was • Is • Will Be, that brings the harvest in its due time,
+Blessed Was•Is•Will Be, that brings the harvest in its due time,
 And wine to drink, fire to light our way and spices to make us happy
 </div></td>
 </tr>
@@ -260,5 +260,8 @@ Amen.
 </tr>
 </tbody></table>
 
+<hr />
+
+&nbsp;
 </body>
 </html>

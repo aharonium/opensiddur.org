@@ -549,6 +549,10 @@ In the United States, the copyright on this translation should expire in 2043, s
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/pirkeiavotandliturgicalwritingsisraelwolfslotki1964#page/n48/mode/2up"]
 
+&nbsp;
+
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/mahzoravodatohelmoedavodatyomhazikaronarthurdavisandherbertadler1907#page/n130/mode/2up"]
+
 <hr />
 
 &nbsp;

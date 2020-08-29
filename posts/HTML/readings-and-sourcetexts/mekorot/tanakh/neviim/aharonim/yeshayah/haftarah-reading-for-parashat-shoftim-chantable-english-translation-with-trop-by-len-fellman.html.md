@@ -8,8 +8,8 @@ For attribution and license, please consult the following URL: <a href="http://o
 <hr />
 
 <strong>DOWNLOAD:</strong> 
-<a href="https://archive.org/download/parashatshoftimhaftarahreadingwithenglishtranstropilationlenfellman2019/Parashat%20Shoftim%20Haftarah%20Reading%20%28Isaiah%2051v12-52v12%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29%20-%20english%20only.pdf">PDF</a> or <a href="https://archive.org/download/parashatshoftimhaftarahreadingwithenglishtranstropilationlenfellman2019/Parashat%20Shoftim%20Haftarah%20Reading%20%28Isaiah%2051v12-52v12%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29%20-%20english%20only.odt">ODT</a> (sans Hebrew)
-<a href="https://archive.org/download/parashatshoftimhaftarahreadingwithenglishtranstropilationlenfellman2019/Parashat%20Shoftim%20Haftarah%20Reading%20%28Isaiah%2051v12-52v12%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29.pdf">PDF</a> or <a href="https://archive.org/download/parashatshoftimhaftarahreadingwithenglishtranstropilationlenfellman2019/Parashat%20Shoftim%20Haftarah%20Reading%20%28Isaiah%2051v12-52v12%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29.odt">ODT</a> (with Hebrew)
+<a href="https://archive.org/download/parashatshoftimhaftarahreadingwithenglishtranstropilationlenfellman2019/Parashat%20Shoftim%20Haftarah%20Reading%20%28Isaiah%2051v12-52v12%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.pdf">PDF</a> or <a href="https://archive.org/download/parashatshoftimhaftarahreadingwithenglishtranstropilationlenfellman2019/Parashat%20Shoftim%20Haftarah%20Reading%20%28Isaiah%2051v12-52v12%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.odt">ODT</a> (sans Hebrew)
+<a href="https://archive.org/download/parashatshoftimhaftarahreadingwithenglishtranstropilationlenfellman2019/Parashat%20Shoftim%20Haftarah%20Reading%20%28Isaiah%2051v12-52v12%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29.pdf">PDF</a> or <a href="https://archive.org/download/parashatshoftimhaftarahreadingwithenglishtranstropilationlenfellman2019/Parashat%20Shoftim%20Haftarah%20Reading%20%28Isaiah%2051v12-52v12%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29.odt">ODT</a> (with Hebrew)
 
 <hr />
 
@@ -17,8 +17,16 @@ This is an English translation of the Haftarah reading for Parashat Shoftim (Isa
 
 <h3>Source</h3>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/parashatshoftimhaftarahreadingwithenglishtranstropilationlenfellman2019/Parashat%20Shoftim%20Haftarah%20Reading%20%28Isaiah%2051v12-52v12%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29#page/n0"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/parashatshoftimhaftarahreadingwithenglishtranstropilationlenfellman2019/Parashat%20Shoftim%20Haftarah%20Reading%20%28Isaiah%2051v12-52v12%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29#page/n0"]
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/details/parashatshoftimhaftarahreadingwithenglishtranstropilationlenfellman2019" show_part_of_iframe="true" show_part_of_iframe_y="75" show_part_of_iframe_height="145" show_part_of_iframe_allow_scrollbar_vertical="false"]
+<h3>Recordings</h3>
+
+https://archive.org/download/parashatshoftimhaftarahreadingwithenglishtranstropilationlenfellman2019/Len%20Fellman%20-%20Haftarah%20for%20Parashat%20Shoftim%20-%20Isaiah%2052v1-12%20%28Hebrew%20and%20English%29.mp3
+
+&nbsp;
+
+<hr />
+
+&nbsp;
 </body>
 </html>

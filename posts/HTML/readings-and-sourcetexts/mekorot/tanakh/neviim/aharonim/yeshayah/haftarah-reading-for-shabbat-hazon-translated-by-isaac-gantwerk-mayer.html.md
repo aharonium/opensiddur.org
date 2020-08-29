@@ -75,6 +75,6 @@ Therefore—declares the Lord CAUSE of Multitudes, Might of Israel—Oy, will I 
 
 <h3>Recordings</h3>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/details/haftarahreadingforshabbathazonisaacgantwerkmayer2019"]
+https://archive.org/download/haftarahreadingforshabbathazonisaacgantwerkmayer2019/Haftarah%20Reading%20for%20Shabbat%20Hazon%20-%20Isaiah%201v1-27.mp3
 </body>
 </html>

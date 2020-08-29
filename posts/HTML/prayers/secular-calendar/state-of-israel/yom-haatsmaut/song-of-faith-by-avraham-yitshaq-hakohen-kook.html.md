@@ -82,8 +82,6 @@ From the Wilderness it was gifted.[foot]cf. Numbers 21:18.[/foot]
 
 Information as to the origin of this song attributed to Rav Kook is based primarily on <a href="https://www.zemereshet.co.il/song.asp?id=4777">this page</a> at Zemereshet, quoting liner notes by Rabbi Elyahiv Berlin to <a href="http://he.israel-music.com/yeshivat_yerushalayim_l_tzeirim_choir/nafshi_takshiv_shiro/">this CD</a>. If you have additional information, please <a href="/contact/">contact us</a> or leave a comment.
 
-<h3>Source(s)</h3>
-
-Needing source images.
+&nbsp;
 </body>
 </html>

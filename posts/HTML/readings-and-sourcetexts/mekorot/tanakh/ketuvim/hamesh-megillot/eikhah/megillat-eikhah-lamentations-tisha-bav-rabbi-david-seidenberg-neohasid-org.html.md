@@ -12,8 +12,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <strong>DOWNLOAD:</strong> 
 <a href="http://www.neohasid.org/pdf/EikhahLaments2018booklet.pdf">PDF</a> (Booklet format)
 <a href="http://www.neohasid.org/pdf/EikhahLaments2018handout.pdf">PDF</a> (Handout format)
+<a href="http://www.neohasid.org/pdf/EikhahLaments-forzoom-wholepage.pdf">PDF</a> | <a href="http://www.neohasid.org/pdf/EikhahLaments-forzoom-wholepage.pptx">PPTX</a> (Presentation format)
 
-This translation of Laments, the book of mourning poems read on Tish’a B’Av, uses principles of the Buber-Rosenzweig Bible. It strives to be “concordant”, translating related Hebrew words with related English words and following the order and syntax of the Hebrew where possible. It also focuses on the more physical, earthy meaning of words, in order to draw the reader from modern towards more ancient ways of seeing and feeling. Sometimes alternate translations are given, indicated by a slash. (When reading aloud, simply pick one of the translations. For YHVH, you can read Adonai or Hashem or “the Eternal”.) James Moffat’s 1922 translation was consulted. As a somewhat literal translation, Laments uses “He” and “His” as pronouns for God, even though Torah and common sense command us not to make an exclusively male or female image of God. If you are using Laments liturgically, please feel encouraged to change the pronouns. For brief essays on the theology of Eikhah and more, see the bottom of this page.
+
+This translation of Laments, the book of mourning poems read on Tish’a B’Av, uses principles of the Buber-Rosenzweig Bible. It strives to be “concordant”, translating related Hebrew words with related English words and following the order and syntax of the Hebrew where possible. It also focuses on the more physical, earthy meaning of words, in order to draw the reader from modern towards more ancient ways of seeing and feeling. Sometimes alternate translations are given, indicated by a slash. (When reading aloud, simply pick one of the translations. For YHVH, you can read Adonai or Hashem or “the Eternal”.) James Moffatt’s 1922 translation was consulted. As a somewhat literal translation, Laments uses “He” and “His” as pronouns for God, even though Torah and common sense command us not to make an exclusively male or female image of God. If you are using Laments liturgically, please feel encouraged to change the pronouns. For brief essays on the theology of Eikhah and more, see the bottom of this page.
 
 This work is dedicated to all refugees fleeing war and upheaval, and to our remembering their needs.
 </blockquote>
@@ -21,7 +23,7 @@ This work is dedicated to all refugees fleeing war and upheaval, and to our reme
 <hr />
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;">Hebrew (source)</th><th style="text-align: left;">English (translation)</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
@@ -743,8 +745,8 @@ They drowned in the earth, her gates.
 He smashed and broke her bars.
 Her king and her ministers in the nations,
 there is no Torah / no teaching.
-Also her prophets,
-They found no vision from YHVH.
+Even her prophets
+found no vision from YHVH.
 </div></td>
 </tr>
 

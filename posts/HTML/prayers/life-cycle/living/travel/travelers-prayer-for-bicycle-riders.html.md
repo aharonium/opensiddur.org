@@ -7,11 +7,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;">
+<table style="margin-left: auto;margin-right: auto;" class="draggable">
+<thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
-יְהִי רָצוֹן מִלְּפָנֶיךָ ה׳ אֱלֹהֵינוּ
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
+יְהִי רָצוֹן מִלְּפָנֶיךָ ה' אֱלֹהֵינוּ
 שֶתַּסִּיעֵינוּ לְשָלוֹם 
 וְתַרְכִּיבִנוּ בְּבִטְחָה 
 וְתַנְחֵנוּ בִּבְרָכָה
@@ -22,17 +23,17 @@ For attribution and license, please consult the following URL: <a href="http://o
 הַרְאֵנוּ אֶת פָּנֶיךָ, בַּפְּרָטִים הַקְּטָנִים, 
 בִּפְנֵי אָדָם אַחֵר
 וּתְנֵנּוּ לְהַתְמִיד בְּדֶרֶך אֶמֶת שָלוֹם וְאַהֲבָה.
-בָּרוּך אַתָּה ה׳ שוֹמֵעַ תְּפִילָּה.
+בָּרוּך אַתָּה ה' שוֹמֵעַ תְּפִילָּה.
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
-May it be Your will, YHVH (haShem) our <em>elo'ah</em>
+May it be Your will, our God
 That You lead us toward peace;
 that You enable us to ride in safety; 
 that You lead us with blessing.
 Save us from all accidents and unstable wheels,
-from a dangerous driver and a bounding chariot.[foot]after Nahum 3:2[/foot]&nbsp;
+from a dangerous driver and a bounding chariot.[foot]after Nahum 3:2.[/foot]&nbsp;<br />
 Inspire in us unity of the material and the spiritual, 
 Love of the ascent as well as the descent.
 Show us Your face, in the smallest of details

@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: Kinah for the Chmielnicki Massacres of 1648–1649 in Sefer Kol Yaakov (1658)<br />
+Title: Ḳinah for the Chmielnicki Massacres of 1648–1649 in Sefer Ḳol Yaaqov (1658)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=24029">http://opensiddur.org/?p=24029</a>
 <p />
@@ -12,7 +12,8 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
-זה הקינה סדרתי על הרוגי חכמי פולונייא ה׳ ינקום דמם
+זה הקינה סדרתי על הרוגי חכמי פולונייא 
+ה׳ ינקום דמם
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
@@ -23,14 +24,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
-על אלה אני בוכיה 
-אם אבד חסיד ויושבי שער
+על אלה אני בוכיה
 עיני מקור דמעה במר תרדנה
-מה יעשו כסיל ובע״ר
-על נשמו׳ החסידי׳ התמימי׳ והישרים 
-כי קול נהי נשמע ושור ושבר
-שנשפך דמם כמים הנגרים 
-גס קבצו פרור פני כל גבר
+על נשמות החסידים התמימים והישרים
+שנשפך דמם כמים הנגרים
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
@@ -41,14 +38,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
-הנהרגים ונשחטי׳ ונשרפי׳ ונדקרים
-נשים בתולות נענו נטמאו 
-גאונים רבנים זקנים עם נערים 
-נתלו בדדיהם אשר צמקו 
-כמם לבב איש כהתה כל רוח ונש״מה 
-שמו למטרה וחץ זרקו 
-בכה נבכה ולא ינוח   
-עד יצא נפשם ולאל קראו
+הנהרגים ונשחטים ונשרפים ונדקרים
+גאונים רבנים זקנים עם נערים
+כמם לבב איש כהתה כל רוח ונש״מה
+בכה נבכה ולא ינוח
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
@@ -59,14 +52,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
-כי קול נהי נשמע ושוד ושבר 
-איך אהלי קדר ויון יחד 
+כי קול נהי נשמע ושוד ושבר
 חגרי בשק התפלשי באפר
-בקשו להרגם כאבור קמו
-למקוננות קראו ויודעי ספר 
-בחור וגם זקן ושב נהרגו 
-ווי לן דמייתנן היום כאן ומחר בקבר 
-איה פרי דתם אשר טעמו 
+למקוננות קראו ויודעי ספר
+ווי לן דמייתנן היום כאן ומחר בקבר
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
@@ -78,13 +67,9 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
 נר מצוה ואור תורה כבה
-מה אעיד׳ ומ׳ אדמ׳ לך מדינ׳ פולין
-ואיך עתה היא יושבת עלובה 
-ועתה נהפכת אין לנו מקום ללין
-ותבער בעדת ישראל אש להבה    
-אלו הן הלוקין והנסקלין
-איה מוציא סוד תורה לאורה 
-נשבה ארון הקדש ומאמר עין
+ואיך עתה היא יושבת עלובה
+ותבער בעדת ישראל אש להבה
+איה מוציא סוד תורה לאורה
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
@@ -95,13 +80,86 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
-אעש׳ מספד וקינים ואבל בבנו׳ יענה 
-מי יאסור ויטרוף טרף 
-מי ישמע ולא ידמע בבכי ויללה 
+אעש׳ מספד וקינים ואבל בבנו׳ יענה
+מי ישמע ולא ידמע בבכי ויללה
+ויאחז בשרו פלצות וחלחלה
+על שפיכ׳ כמי׳ דם ישראל עם סגולה
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+אם אבד חסיד ויושבי שער
+מה יעשו כסיל ובע״ר
+כי קול נהי נשמע ושוד ושבר
+גם קבצו פרור פני כל גבר
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+
+</div></td></tr>
+
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+נשים בתולות נענו נטמאו
+נתלו בדדיהם אשר צמקו
+שמו למטרה וחץ זרקו
+עד יצא נפשם ולאל קראו
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+
+</div></td></tr>
+
+
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+איך אהלי קדר ויון יחד
+בקשו להרגם כאבור קמו
+בחור וגם זקן ושב נהרגו
+איה פרי דתם אשר טעמו
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+
+</div></td></tr>
+
+
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+מה אעיד׳ ומ׳ אדמ׳ לך מדינ׳ פולין
+ועתה נהפכת אין לנו מקום ללין
+אלו הן הלוקין והנסקלין
+נשבה ארון הקדש ומאמר עין
+</span></div></td>
+ 
+<td style="vertical-align:top;" width="53%">
+<div class="english">
+
+</div></td></tr>
+
+
+
+
+<tr><td style="vertical-align:top;" width="46%">
+<div class="liturgy"><span lang="he">
+מי יאסור ויטרוף טרף
 מי הוא אשר יאמר למלאך הרף
-ויאחז בשרו פלצות וחלחלה 
 קשה פרידתם אשר נפרדו
-על שפיכ׳ כמי׳ דם ישראל עם סגולה 
 איה פרידתם אשר תמו
 </span></div></td>
  
@@ -143,6 +201,8 @@ As far as we know it has not yet been translated. If you are moved to, please <a
 
 <h3>Source(s)</h3>
 
-<a href="https://opensiddur.org/wp-content/uploads/2019/02/D0A5BMRXcAE7Wfm.jpg"><img src="https://opensiddur.org/wp-content/uploads/2019/02/D0A5BMRXcAE7Wfm-225x300.jpg" alt="" width="225" height="300" class="alignleft size-medium wp-image-24030" /></a>
+<span style="float: right;">[caption id="attachment_33024" align="alignleft" width="230"]<a href="https://opensiddur.org/wp-content/uploads/2019/02/title-from-Sefer-Kol-Yaakov-1658.png" rel="lightbox"><img src="https://opensiddur.org/wp-content/uploads/2019/02/title-from-Sefer-Kol-Yaakov-1658-230x300.png" alt="" width="230" height="300" class="size-medium wp-image-33024" /></a> title page from Sefer Kol Yaakov (1658)[/caption]</span> <span style="float: left;">[caption id="attachment_33025" align="alignnone" width="213"]<a href="https://opensiddur.org/wp-content/uploads/2019/02/kinah-from-Sefer-Kol-Yaakov-1658.png" rel="lightbox"><img src="https://opensiddur.org/wp-content/uploads/2019/02/kinah-from-Sefer-Kol-Yaakov-1658-213x300.png" alt="" width="213" height="300" class="size-medium wp-image-33025" /></a> kinah from Sefer Kol Yaakov (1658)[/caption]</span> <span style="float: left;">[caption id="attachment_24030" align="alignnone" width="225"]<a href="https://opensiddur.org/wp-content/uploads/2019/02/D0A5BMRXcAE7Wfm.jpg" rel="lightbox"><img src="https://opensiddur.org/wp-content/uploads/2019/02/D0A5BMRXcAE7Wfm-225x300.jpg" alt="" width="225" height="300" class="size-medium wp-image-24030" /></a> Kinah from Sefer Ḳol Yaaqov (1658)[/caption]</span>[su_spacer]
+
+&nbsp;
 </body>
 </html>

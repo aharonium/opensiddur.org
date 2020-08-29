@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: אֶת כּוֹס יְשׁוּעוֹת | Et Kos Yeshu`ot, a Havdallah song by Elyaḳim<br />
+Title: אֶת כּוֹס יְשׁוּעוֹת | Et Kos Yeshu`ot, a Havdalah song by Elyaḳim<br />
 Primary contributor: neria.haroeh<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=31646">http://opensiddur.org/?p=31646</a>
 <p />
@@ -202,10 +202,6 @@ Little is known of the payyetan Elyaqim aside that he was a rabbinic Jew. We kno
 <h3>Recordings</h3>
 
 https://www.youtube.com/watch?v=NCRjdQMY9xw
-
-&nbsp;
-
-<hr />
 
 &nbsp;
 </body>

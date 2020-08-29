@@ -8,7 +8,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <hr />
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;">Contribute a Translation</th><th style="text-align: left;">English (source)</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a Translation</a></th><th style="text-align: left;">English (source)</th></tr></thead>
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
@@ -197,7 +197,7 @@ of love and justice.
 May we demonstrate our gratitude 
 for the blessed privilege of living under the Stars and Stripes 
 by giving "to bigotry no sanction, 
-to persecution no assistance."[foot]George Washington's <a href="https://founders.archives.gov/documents/Washington/05-06-02-0135" rel="noopener" target="_blank">Letter to the Jews of Newport, Rhode Island</a> (1790)[/foot] 
+to persecution no assistance."[foot]George Washington's <a href="https://founders.archives.gov/documents/Washington/05-06-02-0135" rel="noopener noreferrer" target="_blank">Letter to the Jews of Newport, Rhode Island</a> (1790)[/foot]
 Banish hatred, 
 pride, 
 and arrogance 
@@ -244,7 +244,6 @@ Amen.
 <hr />
 
 I have faithfully transcribed this prayer delivered by Rabbi Uri Miller, President of the <a href="https://en.wikipedia.org/wiki/Synagogue_Council_of_America">Synagogue Council of America</a>, at the <a href="https://en.wikipedia.org/wiki/March_on_Washington_for_Jobs_and_Freedom">March on Washington for Jobs and Freedom</a>, August 28, 1963. --Aharon N. Varady
-
 
 <h3>Source</h3>
 

@@ -162,14 +162,14 @@ you elevated our ancestors, Avraham and Sarah, who welcomed every guest.
 You commanded us to welcome the foreigner and stranger among us,
 to redeem the captive, and to pursue justice.
 You forbade us to steal and murder,
-and to care for the well-being of all creatures in creation.
+and to care for the well-being of all creatures in creation.[foot]A reference to the umbrella mitsvah of <em>tsaar baalei ḥayyim</em>, being mindful not to cause the unnecessary suffering of all living creatures.[/foot]
 You elevated us to champion your light among the nations.
 Even as we were separated and spread abroad,
 we wrote down your word and kept your Torah/Teaching,
 we strove to make a home for you on earth
 with acts of kindness and prayers of thanksgiving.
 May we continue to be thankful and to strive with compassion 
-for peace and justice
+for justice and peace
 in every land that we dwell.
 </div></td></tr>
 

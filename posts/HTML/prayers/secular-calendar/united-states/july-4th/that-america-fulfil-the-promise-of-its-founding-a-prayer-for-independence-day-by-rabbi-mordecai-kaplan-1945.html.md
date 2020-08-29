@@ -111,7 +111,7 @@ and your love has sustained to this day.
 <td style="vertical-align:top;" width="53%">
 <div class="english">
 May America remain loyal 
-to the principles of the Declaration of Independence, 
+to the principles of the <a href="https://opensiddur.org/readings-and-sourcetexts/mekorot/non-canonical/exoteric/modern/the-declaration-of-independence-1776-yiddish-and-hebrew-translations/">Declaration of Independence</a>, 
 and extend their application 
 to ever widening areas of life.
 </div></td></tr>
@@ -211,7 +211,7 @@ to safeguard its life and to fulfil its promise;
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-That the Star-Spangled Banner, 
+That the <a href="https://opensiddur.org/prayers/secular-calendar/united-states/flag-day/the-star-spangled-banner-by-francis-scott-key-yiddish-translation-by-berl-lapin/">Star-Spangled Banner</a>, 
 the symbol of our American democracy, 
 may ever wave o’er the land of the free 
 and the home of the brave.
@@ -225,7 +225,7 @@ and the home of the brave.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<span class="instruction">The Congregation rise and sing the National Anthem.</span>
+<span class="instruction">The Congregation rise and sing the <a href="https://opensiddur.org/prayers/secular-calendar/united-states/flag-day/the-star-spangled-banner-by-francis-scott-key-yiddish-translation-by-berl-lapin/">National Anthem</a>.</span>
 </div></td></tr>
 </tbody></table>
 

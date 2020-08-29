@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: על הכל יתגדל ויתקדש | A Ḳaddish During the Removal of the Torah from the Ark in the Nusaḥ ha-ARI z"l (translation by R' Oren Steinitz)<br />
+Title: על הכל יתגדל ויתקדש | A Ḳaddish During the Removal of the Torah from the Ark in the Seder Rav Amram Gaon<br />
 Primary contributor: oren-steinitz<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=15634">http://opensiddur.org/?p=15634</a>
 <p />
@@ -10,7 +10,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <table  class="copyright" style="margin-left: auto;margin-right: auto;" class="dragtable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" style="text-align: right;"><span lang="he">
 עַל הַכֹּל יִתְגַּדַּל וְיִתְקַדַּשׁ
 וְיִשְׁתַּבַּח וְיִתְפָּאַר וְיִתְרוֹמַם וְיִתְנַשֵּׂא,
@@ -41,7 +41,8 @@ For attribution and license, please consult the following URL: <a href="http://o
 כִּי פִּי יְיָ דִּבֵּר.
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 May the name of the Ruler of Rulers,
 the Holy One of Blessings,
 be sanctified and magnified,

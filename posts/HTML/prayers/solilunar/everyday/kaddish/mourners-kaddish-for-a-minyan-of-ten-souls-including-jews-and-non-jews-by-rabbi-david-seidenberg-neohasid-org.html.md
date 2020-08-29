@@ -11,11 +11,13 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <strong>DOWNLOAD:</strong> <a href="http://neohasid.org/pdf/Kaddishforahumanminyan.pdf">PDF</a>
 
-As some folks may recall, I worked on a "secular" kaddish after my mother died so that I could say kaddish under circumstances where I could gather ten people but not ten Jews. I continued to work on this kaddish and have been sharing it with people in my home community, and people seem to really love it and get a lot out of it. So I thought I would share it with you all now (even though most will probably only see it after Rosh Hashanah), because you may find it useful in two ways:
+<div class="english" style="font-size: 1.2em;">
+As some folks may recall, I worked on a "secular" ḳaddish after my mother died so that I could say ḳaddish under circumstances where I could gather ten people but not ten Jews. I continued to work on this ḳaddish and have been sharing it with people in my home community, and people seem to really love it and get a lot out of it. So I thought I would share it with you all now (even though most will probably only see it after Rosh Hashanah), because you may find it useful in two ways:
 
 1) As a kind of prayer for Creation in the spirit of the Rosh Hashanah liturgy that hopes for the time when "all creatures become united in one band" to serve God.
 
-2) As an alternative kaddish to do at any point in the service where people might get benefit from something that they can read in English. As such this is not a replacement for kaddish but it might work as one of several kaddishes that get said in a service.
+2) As an alternative ḳaddish to do at any point in the service where people might get benefit from something that they can read in English. As such this is not a replacement for kaddish but it might work as one of several ḳaddishes that get said in a service.
+</div>
 
 <hr />
 
@@ -29,7 +31,7 @@ As some folks may recall, I worked on a "secular" kaddish after my mother died s
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-[Mourners:] 
+<span class="instruction">[Mourners:]</span> 
 
 May the Name that fills all names 
 be blessed and strengthened in this created world. 
@@ -51,7 +53,7 @@ And let us say: <em>Amen</em>.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-[Everyone:] <em>Amen</em>. 
+<span class="instruction">[Everyone:]</span> <em>Amen</em>. 
 
 May that great Name be blessed within us 
 and in all worlds, 
@@ -66,7 +68,7 @@ for all time.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-[Mourners:] 
+<span class="instruction">[Mourners:]</span> 
 
 May Holiness stream forth from its Source, 
 full of blessing and beauty. 
@@ -75,12 +77,12 @@ May the Name that weaves all Life
 be blessed and praised, 
 made beautiful and resplendent, 
 lifted up and exalted, 
-to the highest and most majestic… ([Everyone:] Blessed be!)
+to the highest and most majestic… (<span class="instruction">[Everyone:]</span> Blessed be!)
 …beyond all the praises and blessings 
 and songs and prayers
 that can ever be said in the whole world. 
 
-And let us say: ([Everyone:] <em>Amen</em>.)
+And let us say: (<span class="instruction">[Everyone:]</span> <em>Amen</em>.)
 </div></td></tr>
 
 
@@ -91,7 +93,7 @@ And let us say: ([Everyone:] <em>Amen</em>.)
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-[Mourners:] 
+<span class="instruction">[Mourners:]</span> 
 
 May the Life and Love 
 within us and between us 
@@ -105,7 +107,7 @@ to our community,
 to all peoples, 
 and to all beings in this world. 
 
-And let us say: ([Everyone:] <em>Amen</em>.)
+And let us say: (<span class="instruction">[Everyone:]</span> <em>Amen</em>.)
 </div></td></tr>
 
 
@@ -116,14 +118,14 @@ And let us say: ([Everyone:] <em>Amen</em>.)
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-[Mourners:] 
+<span class="instruction">[Mourners:]</span> 
 
 The One who makes Peace 
 in the furthest reaches of Creation
 will bring Peace to us 
 and to all living beings. 
 
-And let us say: ([Everyone:] <em>Amen</em>.)
+And let us say: (<span class="instruction">[Everyone:]</span> <em>Amen</em>.)
 </div></td></tr>
 </tbody></table>
 

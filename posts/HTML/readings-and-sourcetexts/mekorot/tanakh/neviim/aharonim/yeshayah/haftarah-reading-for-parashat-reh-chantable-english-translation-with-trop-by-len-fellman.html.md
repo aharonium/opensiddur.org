@@ -19,6 +19,16 @@ This is an English translation of the Haftarah reading for Parashat R'éh (Isaia
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/parashatrehhaftarahreadingwithenglishtranstropilationlenfellman2019/Parashat%20R%27%C3%A9h%20Haftarah%20Reading%20%28Isaiah%2054v11-55v5%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29#page/n0"]
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/details/parashatrehhaftarahreadingwithenglishtranstropilationlenfellman2019" show_part_of_iframe="true" show_part_of_iframe_y="75" show_part_of_iframe_height="145" show_part_of_iframe_allow_scrollbar_vertical="false"]
+&nbsp; 
+
+<h3>Recordings</h3>
+
+https://archive.org/download/parashatrehhaftarahreadingwithenglishtranstropilationlenfellman2019/Len%20Fellman%20-%20Haftarah%20for%20Parashat%20R%27%C3%A9h%20-%20Isaiah%2054v11-55v5%20%28Hebrew%20and%20English%29.mp3
+
+&nbsp;
+
+<hr />
+
+&nbsp;
 </body>
 </html>

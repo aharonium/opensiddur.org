@@ -9,14 +9,22 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <strong>DOWNLOAD:</strong> 
 <a href="https://opensiddur.org/wp-content/uploads/2016/08/Kavanah-for-the-Animals.odt">ODT</a>
-<a href="https://opensiddur.org/wp-content/uploads/2016/08/Kavvanah-and-Shofar-Blowing-for-Rosh-Hodesh-Elul-and-Rosh-Hashanah-LaBehemot.pdf">PDF</a> (8.5x11 format)
-<a href="https://opensiddur.org/wp-content/uploads/2016/08/Kavvanah-and-Shofar-Blowing-for-Rosh-Hodesh-Elul-and-Rosh-Hashanah-LaBehemot-11x17.pdf"></a> (11x17 format)
+<a href="https://opensiddur.org/wp-content/uploads/2016/08/Kavvanah-and-Shofar-Blowing-for-Rosh-Hodesh-Elul-and-Rosh-Hashanah-LaBehemot.pdf">PDF</a> (8.5×11" format)
+<a href="https://opensiddur.org/wp-content/uploads/2016/08/Kavvanah-and-Shofar-Blowing-for-Rosh-Hodesh-Elul-and-Rosh-Hashanah-LaBehemot-11x17.pdf">PDF</a> (11×17" format)
 
 <div class="english" style="font-size: 1.2em;">
 For a sourcesheet on Rosh ha-Shanah la-Behemah, find Aharon Varady's compilation of texts, <a href="https://www.sefaria.org/sheets/184964?lang=bi">here</a>.
 
-The text of this ritual shofar blowing for Rosh Ḥodesh Elul and Rosh ha-Shanah La-Behemah developed as part of the annual ceremony taking place at the dairy barn on the campus of the Isabella Freedman Retreat Center beginning in 2009 under the auspices of Elat Chayyim and the Adamah Jewish Farming Fellowship. The ceremony was co-developed by Rabbi Jill Hammer and Sarah Chandler in 2009, with the kavvanah added by Aharon Varady beginning in 2010. The text presented here was further developed by Aharon prior to the Detroit Hazon Jewish Food Festival in 2016. 
+The text of this ritual shofar blowing for Rosh Ḥodesh Elul on Rosh haShanah La-Behemah developed as part of the annual ceremony taking place at the dairy barn on the campus of the Isabella Freedman Jewish Retreat Center beginning in 2009 under the auspices of Elat Chayyim Center for Jewish Spirituality and the Adamah Farm & Fellowship. The first Rosh haShanah ritual ceremony was co-developed by Rabbi Jill Hammer and Kohenet Sarah Chandler. My contribution of the kavvanah came a year later in 2010. The text presented here was built upon that ceremony and was presented first at the Hazon Detroit Jewish Food Festival in 2016.
+
+<hr />
+
+In rabbinic Judaism, the law of <em>tsaar baalei ḥayyim</em> obligating concern and fulfillment of the basic needs of non-human animals so as not to cause them harm is derived from Deuteronomy 11:13-15.[foot]Berakhot 40a. Rav Yehuda taught in the name of Rav: "It is forbidden for a person to eat before he gives food to his animal as it says (Deuteronomy 11:15) 'I will provide grass in your field for your <em>behemah</em>' and only then does the verse state “and you will eat and be satisfied.” Also find, Genesis 9:4, as interpreted in the Talmud (<em>Sanhedrin</em> 59a). Many thanks to Sharona Margolin Halickman for <a href="https://blogs.timesofisrael.com/the-animals-eat-first/">her teaching</a> on <em>tsaar baalei ḥayyim</em>.[/foot] Compassion for animals is declared to have been the merit of Moshe which made him the <em>shepherd</em> of his people (<em>Exodus Rabbah</em> 2), while Yehudah ha-Nasi saw in his own ailment the punishment for having once failed to show compassion for a frightened calf (<em>Bava Metzia</em> 85a). The <em>aggadic</em> (mythic) tradition concerned with the origin of predatory nature in <em>Olam Hazeh</em> (this world) can be found in the Jewish deutero-canonical works of <em>Sefer Ḥanokh</em> (1 Enoch) and <em>Sefer Yubalim</em> (Jubilees) as well as in<em> Midrash Abkir</em> and the collection of rabbinic midrash and midrash aggadah, <em>Yalkut Shimoni</em>.[foot]In Sefer haYovelim (circa 3rd century BCE), the need for circumscribing the predatory nature of humankind after the <em>Dor Hamabul</em> (depraved generation of the Flood) is given as the <em>raison d'etre</em> for the giving of the Torah. As required by the covenant of the Rainbow made to Noaḥ and his descendants after the flood, a representative people was needed who might abide by the general commandment of <em>ever min haḥai</em> (forbidding eating living creatures). In this tradition, Avraham was the first to prove worthy since his actions epitomized <em>ḥesed</em>, lovingkindness (an innovation in Judaism's mytho-historic chronicle of humanity in Genesis). As noted in Rav Shlomo Kluger's HaElef L’cha Shlomo in Yoreh Deah 322, dairy foods, the product of living creatures, were prohibited after the Flood, but this prohibition was relaxed upon the giving of the Torah at Sinai just as the prohibition against eating flesh was relaxed after the covenant at Ararat. For this reason, dairy is a symbolic food eaten on the festival of Shavuot (Pentecost) and remains a symbolic food representing the subversion of predatory nature as reflected in Megillat Yehudith and the dairy food traditions of the festival of Ḥanukkah. (More <a href="http://aharon.varady.net/omphalos/2010/05/happy-vegetarian-shavuot">here</a>.)[/foot]
 </div>
+
+<h3>Source</h3>
+
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/kavvanah-and-shofar-blowing-for-rosh-hodesh-elul-and-rosh-hashanah-labehemah-aharon-varady-2017#page/n0/mode/2up"]
 
 <hr />
 
@@ -207,7 +215,7 @@ that have fallen under the burden our fellow human beings have placed upon them.
 Before we ask the blessed Holy One, our Shepherd,
 to take responsibility with care and compassion for their flock,
 we must show that we are taking care and responsibility
-for the flock that depends on us.
+for our flock -- the tame and domesticated animals that depends on us for their well-being.
 </div></td></tr>
 
 
@@ -426,47 +434,6 @@ We bless all the spirits, all the <em>nefashot</em> we are privileged to live wi
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
-עֲשָׂרָה דְבָרִים נִבְרְאוּ בְּעֶרֶב שַׁבָּת בֵּין הַשְּׁמָשׁוֹת, וְאֵלּוּ הֵן,
-פִּי הָאָרֶץ,
-וּפִי הַבְּאֵר,
-וּפִי הָאָתוֹן,
-וְהַקֶּשֶׁת,
-וְהַמָּן,
-וְהַמַּטֶּה,
-וְהַשָּׁמִיר,
-וְהַכְּתָב,
-וְהַמִּכְתָּב,
-וְהַלּוּחוֹת.
-וְיֵשׁ אוֹמְרִים,
-אַף הַמַּזִּיקִין,
-וּקְבוּרָתוֹ שֶׁל משֶׁה,
-וְאֵילוֹ שֶׁל אַבְרָהָם אָבִינוּ.
-וְיֵשׁ אוֹמְרִים, אַף צְבָת בִּצְבָת עֲשׂוּיָה:
-</span></div></td>
- 
-<td style="vertical-align:top;" width="53%">
-<div class="english">
-Ten things were created on the eve of the [first] Shabbat at twilight. They are:
-the mouth of the earth [that swallowed Qoraḥ and his followers in the wilderness],
-the mouth of the well [of Miriam, that accompanied the Camp of the Israelites in the wilderness],
-the mouth of the donkey [which spoke to Bil'am],
-the rainbow [of the covenant with the survivors of the Great Flood],
-the manna [that nourished the children of Israel through their journey in the wilderness],
-Moshe's staff,
-the <em>shamir </em>[worm whose secretion enabled the First Temple to be built without iron tools],
-the writing (of the tablets of the Ten Commandments),
-the writing instrument [for the tablets of the covenant on Mt. Sinai],
-and the tablets [of the covenant at Mt. Sinai].
-Some say [also]:
-the <em>sheidim</em> [the unseen spirits animating creation around us],
-the grave of Moshe [hidden from us],
-and the ram [sacrificed in place of Isaac on Mount Moriah].
-And some say, also the [first human-made] tongs, made with [Divine] tongs.
-</div></td></tr>
-
-
-<tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
 
 </span></div></td>
  
@@ -483,6 +450,7 @@ And some say, also the [first human-made] tongs, made with [Divine] tongs.
 מֶלֶךְ הָעוֹלָם, 
 מְשַׁנֶּה הַבְּרִיּוֹת:
 </span></div></td>
+
 <td style="vertical-align: top;" width="53%">
 <div class="english">
 Blessed are you 
@@ -490,7 +458,7 @@ YHVH our <em>elo'ah</em>
 Cosmic Majesty 
 who diversified the creatures. 
 
-Baruch ata 
+Barukh ata 
 adonai eloheinu 
 melekh ha’olam, 
 meshaneh/meshanah haberiyot.
@@ -773,14 +741,7 @@ Closing Song: <em>Kol Haneshama</em>...
 </tr>
 </tbody></table>
 
-<hr />
+&nbsp;
 
-In rabbinic Judaism, the law of <em>tsaar baalei ḥayyim</em> is derived from Genesis 9:4, as interpreted in the Talmud (<em>Sanhedrin</em> 59a). Compassion for animals is declared to have been the merit of Moshe which made him the <em>shepherd</em> of his people (<em>Exodus Rabbah</em> 2), while Yehudah ha-Nasi saw in his own ailment the punishment for having once failed to show compassion for a frightened calf (<em>Bava Metzia</em> 85a). The <em>aggadic</em> (mythic) tradition concerned with the origin of predatory nature in <em>Olam Hazeh</em> (this world) can be found in the Jewish deutero-canonical works of <em>Sefer Ḥanokh</em> (1 Enoch) and <em>Sefer Yubalim</em> (Jubilees) as well as in<em> Midrash Abkir</em> and the collection of rabbinic midrash and midrash aggadah, <em>Yalkut Shimoni</em>.
-
-In Sefer Yubalim (circa 3rd century BCE), the need for circumscribing the predatory nature of humankind after the <em>Dor Hamabul</em> (depraved generation of the Flood) is given as the <em>raison d'etre</em> for the giving of the Torah. As required by the covenant of the Rainbow made to Noaḥ and his descendants after the flood, a representative people was needed who might abide by the general commandment of <em>ever min haḥai</em> (forbidding eating living creatures). In this tradition, Avraham was the first to prove worthy since his actions epitomized <em>ḥesed</em>, lovingkindness (an innovation in Judaism's mytho-historic chronicle of humanity in Genesis). As noted in Rav Shlomo Kluger's HaElef L’cha Shlomo in Yoreh Deah 322, dairy foods, the product of living creatures, were prohibited after the Flood, but this prohibition was relaxed upon the giving of the Torah at Sinai just as the prohibition against eating flesh was relaxed after the covenant at Ararat. For this reason, dairy is a symbolic food eaten on the festival of Shavuot (Pentecost) and remains a symbolic food representing the subversion of predatory nature as reflected in Megillat Yehudith and the dairy food traditions of the festival of Ḥanukkah. (More <a href="http://aharon.varady.net/omphalos/2010/05/happy-vegetarian-shavuot">here</a>.)
-
-<h3>Source</h3>
-
-[gview file="https://opensiddur.org/wp-content/uploads/2016/08/Kavvanah-and-Shofar-Blowing-for-Rosh-Hodesh-Elul-and-Rosh-Hashanah-LaBehemot.pdf"]
 </body>
 </html>

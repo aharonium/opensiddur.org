@@ -8,7 +8,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <hr />
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;"><a href="https://opensiddur.org/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
@@ -132,6 +132,10 @@ I cannot imagine a God who rewards and punishes the objects of his creation, who
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/AnOfferingOfPrayerBial1962#page/n11/mode/2up"]
 
-[gview file="https://opensiddur.org/wp-content/uploads/2019/02/What-I-Believe-Albert-Einstein-1930.pdf"]
+&nbsp;
+
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/what-i-believe-albert-einstein-1930#page/n0/mode/2up"]
+
+&nbsp;
 </body>
 </html>
