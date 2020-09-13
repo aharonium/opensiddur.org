@@ -54,7 +54,7 @@ Y de cuidar y respetar a nuestros alumnos, en cuerpo y alma.
  
 <td style="vertical-align:top;" width="33%">
 <div class="english">
-My <em>elohim</em>,
+My <em>elo'ah</em>,
 who imparts a person with knowledge and teaches us wisdom,
 kindly grant me the ability to see into the hearts of my students, 
 and bestow me the courage to understand and accept them.
@@ -89,7 +89,7 @@ Danos fuerzas para poder superar los momentos difíciles de esta tarea. Y que te
 <td style="vertical-align:top;" width="33%">
 <div class="english">
 Fortify us,
-our <em>elohim</em>, and teach us,
+our <em>elo'ah</em>, and teach us,
 so that we may succeed in encouraging the shy one to study, 
 and may I always remember that the strict one does not teach.
 May my compassion overcome my anger,
@@ -129,7 +129,7 @@ y de mis alumnos más que de todos ellos juntos."
 <td style="vertical-align:top;" width="33%">
 <div class="english">
 May it be your will,
-YHVH my <em>elohim</em>, that no offence may occur through me, 
+YHVH my <em>elo'ah</em>, that no offence may occur through me, 
 and may my friends, colleagues and students rejoice in me.
 I shall not confuse “forbidden” with “permitted”;
 may my students not stumble because of me 

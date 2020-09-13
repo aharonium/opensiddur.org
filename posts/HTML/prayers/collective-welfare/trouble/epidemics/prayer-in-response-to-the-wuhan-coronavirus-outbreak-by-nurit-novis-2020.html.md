@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: תפילת לחולים במגפה | Prayer in response to the COVID-19 Coronavirus Outbreak, by Nurit Novis (2020)<br />
+Title: מי שברך לחולים במגפה | Mi sheBerakh for those ill from the COVID-19 Coronavirus , by Nurit Novis (2020)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=29916">http://opensiddur.org/?p=29916</a>
 <p />

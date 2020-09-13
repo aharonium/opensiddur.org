@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: אלהי נשמה | Elohai Neshamah, adapted by Rabbi Ofer Sabath Beit-Halachmi (2009)<br />
+Title: אלהי נשמה | Elohai Neshamah, adapted by Yael Schweid & Rabbi Ofer Sabath Beit-Halachmi (2009)<br />
 Primary contributor: ofer.sabath-beit-halachmi<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=33222">http://opensiddur.org/?p=33222</a>
 <p />
@@ -18,7 +18,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 וַאֲנִי קִבַּלְתִיהָ;
 אַתָּה יְצַרְתָהּ,	  
 וְהִיא שַׁבְרִיר קְדוּשָה;
-אַתָּה נְפַחְתָהּ בי, 
+אַתָּה נְפַחְתָהּ בִּי, 
 וְהִיא צֶלֶם אֱלֹהִים שֶׁבִּי.
 אַתָּה מְשַׁמְּרָהּ בְּקִרְבִּי, 
 וְעָלַי לְשָׁמְרָהּ טְהוֹרָה.
@@ -57,6 +57,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <hr />
 <span class="hebrew">ברכת נשמה נוסח קהילת צור הדסה, נכתבה באלול ה׳תשס״ט ע״י הרב עפר שבת בית־הלחמי ויעל שביד, לכבוד בר־המצוה של אהוד - בנה של יעל.‏</span>
+This prayer was composed for the Bar Mitzvah of Yael Schweid's son Ehud in 2009.
 
 &nbsp;
 

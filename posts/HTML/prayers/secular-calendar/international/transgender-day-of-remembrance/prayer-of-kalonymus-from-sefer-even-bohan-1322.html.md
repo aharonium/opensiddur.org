@@ -168,7 +168,7 @@ they will not obtain it; the people’s pleasures in Field and Plane[foot]Possib
 by which the seeker can measure
 the heights of heaven and the depth of abyss. 
 Those dwelling in an observatory cannot (measure)
-the extent[foot]lit. the edge[/foot] of Astronomy
+the extent[foot]lit. the edge[/foot] of the Celestial Map
 and if the wheel rotates yet the constellations remain fixed
 if they are weary wanderers.
 [Those are] the seven steps of the ladder. 
@@ -192,7 +192,7 @@ who can express such fortitude?
 <div class="english">
 How badly was he stricken by the finger 
 how much shame must he put up with, 
-he who was coined in the coin of men!
+he who was minted in the coin die of men!
 His field is blighted[foot]i.e, men lack breasts –Aharon Varady. Isaac Gantwerk Mayer: Possibly, but by no means certainly, a pun on שׂדה = field vs שַׁד = breast - "that which gives him nourishment has run dry." re: נסתחפה – I believe this was a typo/scribal error for the rare but legitimate Mishnaic word נשתדפה, which means "blighted" and comes from the same root as שדפון. See the Rambam's nusach for Mishna Bava Metzia 9:6 - המקבל שדה מחברו ואכלה חגב או נשתדפה (One who buys a field from his companion, and it is locust-eaten or נשתדפה...) Our standard text says נִשְׁדְּפָה instead, but Rambam's did not and it wouldn't be too much of a stretch to suggest Kalonymus's didn't either - elision of ת was common in Mishnaic Hebrew, especially near sibilants and dentals (and this one is between a sibilant and a dental)[/foot]&nbsp;
 Better who carries him than creates him!
 </div></td></tr>

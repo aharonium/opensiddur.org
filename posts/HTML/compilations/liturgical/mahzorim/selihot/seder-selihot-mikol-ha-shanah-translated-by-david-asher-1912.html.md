@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: סדר סליכות מכל השנה | Seder Seliḥot mikol ha-Shanah :: The Order of Seliḥot for the entire year, translated by David Asher, Ph.D. (1912)<br />
+Title: סדר סליחות מכל השנה | Seder Seliḥot mikol ha-Shanah :: The Order of Seliḥot for the entire year, translated by David Asher, Ph.D. (1912)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=26350">http://opensiddur.org/?p=26350</a>
 <p />

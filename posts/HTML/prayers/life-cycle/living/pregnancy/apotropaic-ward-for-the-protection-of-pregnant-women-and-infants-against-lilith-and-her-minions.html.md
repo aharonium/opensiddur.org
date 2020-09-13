@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: קמע לשמירה מפני לילית | Apotropaic ward for the protection of pregnant women and infants against Lilith & her minions<br />
+Title: קמע לשמירה מפני לילית | Apotropaic ward for the protection of pregnant women and infants against Lilith & her minions (Montgomery 1913, reconstructed)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=33247">http://opensiddur.org/?p=33247</a>
 <p />
@@ -31,8 +31,8 @@ For attribution and license, please consult the following URL: <a href="http://o
 <td style="vertical-align:top;">
 <div class="english">
 Sanoi, Sansanoi, Semanglaf[foot]Protecting angels common in childbirth charms whose significance to wards against Lilith is explained in the <em>Alphabet of ben Sira</em>.[/foot]
-Primæval Adam and Ḥavah: 
-out Lilit![foot]Montgomery originally had published this mistranscribed as "אדם יהוה קדמונה חיין לילית" where either he or Gottheil had misread וחוה as יהוה and חוץ as חיין. The resulting translation was thus, strange. Nevertheless, these errors have been republished for more than a century without note, alas, until now.[/foot]
+Adam and Primæval Ḥavah:[foot]i.e., another name for Lilith. --ANV[/foot] 
+out Lilit![foot]Montgomery originally had published this as "אדם יהוה קדמונה חיין לילית" where either he or Gottheil had misread וחוה (and Eve) as יהוה (the Tetragrammaton) and חוץ לילית ׁ(out Lilith!) as חיין לילית ׁ (ָLilith life). The latter, while plauisible given that the agreement the ward is based upon essentially guarantees Lilith remains alive so long as her names are repeated. However, the much more familiar formula is the former -- חוץ לילית ׁ(out Lilith!). I suspect that the vav and upper right arm of the tsaddi sofit were misread as two yuds and a nun sofit. --ANV[/foot]
 </div></td></tr>
 
 
@@ -60,7 +60,7 @@ whose Name is living and enduring forever.
 <td style="vertical-align:top;">
 <div class="english">
 Eliyahu haNavi was walking in the road 
-and he met the wicked Lilit and all her gang.[foot]Floorentina Beladenova Geller notes this tale appears related to the story of Agrat bat Mahlat and her encounter with Rabbi Hanina ben Dosa as recorded in amulet bowls and the Babylonian Talmud (Pesachim 112b). See "Between Demonology and Hagiology: The Slavonic Rendering of the Semitic Magical Historiola of the Child-Stealing Witch" in <em>In the Wake of the Compendia: Infrastructural Contexts and the Licensing of Empiricism in Ancient and Medieval Mesopotamia</em>. ed. J. Cale Johnson (2015), p. 184-185.[/foot]
+and he met the wicked Lilit and all her gang.[foot]Florentina Beladenova Geller notes this tale appears related to the story of Agrat bat Mahlat and her encounter with Rabbi Hanina ben Dosa as recorded in amulet bowls and the Babylonian Talmud (Pesachim 112b). See "Between Demonology and Hagiology: The Slavonic Rendering of the Semitic Magical Historiola of the Child-Stealing Witch" in <em>In the Wake of the Compendia: Infrastructural Contexts and the Licensing of Empiricism in Ancient and Medieval Mesopotamia</em>. ed. J. Cale Johnson (2015), p. 184-185. --ANV[/foot]
 </div></td></tr>
 
 
@@ -101,7 +101,7 @@ And she answered and said to him:
 “My lord Eliyahu, 
 I am going to the house of the woman in childbirth 
 who is in birthpangs,[foot]<span class="hebrew">מירקאדה ד׳מ(מירקאדה)‏</span> is obscure to me. The root is probably used in the Syriac sense of mourning, hence supplicating; or cf. Heb. <span class="hebrew">חיל</span>, "writhe," as well as "dance."[/foot] 
-of so-and-so daughter of such-a-one,[foot]I would read as <span class="hebrew">אידה בת דינה</span>, the first as the indefinite pronoun fem., <em>quaequae</em>, the last as representing the Greek <em>δεῑνα</em>, which is commonly used in the papyri, the actual name being inserted upon use.[/foot]
+of so-and-so daughter of such-a-one,[foot]I would read as <span class="hebrew">אידה בת דינה</span>, the first as the indefinite pronoun fem., <em>quaequae</em>, the last as representing the Greek <em>δεῑνα</em>, which is commonly used in the papyri, the actual name being inserted upon use. --Montgomery[/foot]
 to give her the sleep of death 
 and to take the child she is bearing, 
 to suck their blood 
@@ -171,7 +171,7 @@ And every time they are repeated
 or I see my names written, 
 it will not be in the power of me or of all my gang 
 to do evil or harm. 
-And these are my names:[foot]The order of corresponding names diverges slightly in parallel texts. Some differences of transliteration are due to the vocalization as interpreted by the scribe/copyist, others are due to common confusion in letters (e.g. daled and resh in the name <em>Odam</em> vs. <em>Orem</em>.[/foot] 
+And these are my names:[foot]The order of corresponding names diverges slightly in parallel texts. Some differences of transliteration are due to the vocalization as interpreted by the scribe/copyist, others are due to common confusion in letters (e.g. daled and resh in the name <em>Odam</em> vs. <em>Orem</em>. --ANV[/foot] 
 <em>Lilit</em>, 
 <em>Abitar</em>,[foot]or <em>Abatur</em>, the Mandaic genius, but the possible reading of the copy, <em>Abito</em>, may be preferable, in view of the Greek parallels. <em>Abito</em> is also found in a similar albeit abbreviated text cited by Moses Gaster, <em>Mystery of the Lord</em> (the original Hebrew title, unclear, but possibly <span class="hebrew">סודי ה׳</span>, a book that both Montgomery and I have yet to locate). More recently, Maria Kaspina published a text from an eighteenth-century Jewish amulet of German provenance in the collection of <em>The Museum of the History of the Jews in Russia</em> (Moscow 2014). There, the name is <em>Abitu</em>. A third comparative text, in Hebrew and Yiddish from the collection of the Jewish Museum Prague (inventory number JMP 178.801) was also recently published by Lenka Uličná in "Amulets Found in Bohemian Genizot: A First Approach," p.71-75 in <em>Genisa-Blätter III</em>.[/foot]
 <em>Abikar</em>,[foot]In the text cited by Gaster, <em>Abiko</em>. In the amulet cited by Kaspina, <em>Abizu</em>.[/foot]
@@ -218,12 +218,12 @@ And these are my names:[foot]The order of corresponding names diverges slightly 
 <div class="english">
 And Eliyahu haNavi (<em>z"l</em>) answered and said to her: 
 “Lo, I adjure thee and all your gang, 
-in the name of YHVH Elohei Yisrael, by the gematria of 613,[foot]the figure of 613 is the gematriac sum of 'YHVH Elohei Yisrael,' and the number of obligatory and prohibitory commandments in the Torah according to Jewish tradition.[/foot]
+in the name of YHVH Elohei Yisrael, by the gematria of 613,[foot]the figure of 613 is the gematria for 'YHVH Elohei Yisrael,' and the traditionally enumerated number of obligatory and prohibitory commandments in the Torah. --ANV after Montgomery[/foot]
 Avraham, Yitsḥaq and Yaaqov, 
 and in the name of his holy Shekhinah, 
 and in the name of the ten holy <em>Serafim</em>, 
 the <em>Ofanim</em> and the <em>Ḥayot haḳodesh</em>[foot]lit., the wheels and the sacred creatures or the wild creatures. Likely a reference to the sphere of the cosmos and its zodiacal constellations, as living cosmic or "angelic" entities. --ANV[/foot]
-and the [Five] Books of the Torah,[foot]Here, Gottheil's transcription before Montgomery reads <span class="hebrew">ועשרה ספרי תורה</span> and he does his best to provide an explanation. "The 10 Books of the Law are the double of the Pentateuch; cf. the Eighth Book of Moses in the Leyden MS. which Dieterich has published at the end of his <em>Abraxas</em>." The simpler answer is that this is an error, either in the original or in Gottheil's transcription, and so we do not need to resort to what might be a fantastic reference to gnostic pseudepigrapha including undiscovered 9th and 10th books of Moses.[/foot] 
+and the [Five] Books of the Torah,[foot]Here, Gottheil's transcription before Montgomery reads <span class="hebrew">ועשרה ספרי תורה</span> and he does his best to provide an explanation. "The 10 Books of the Law are the double of the Pentateuch; cf. the Eighth Book of Moses in the Leyden MS. which Dieterich has published at the end of his <em>Abraxas</em>." The simpler answer is that this is an error, either in the original or in Gottheil's transcription, and so we do not need to resort to what might be a fantastic reference to gnostic pseudepigrapha including undiscovered 9th and 10th books of Moses. --ANV[/foot] 
 and by the might of Elohei Tsevaot (<em>b"h</em>) – 
 that you come not, you nor your gang 
 to injure this woman 
@@ -231,7 +231,7 @@ or the child she is bearing,
 nor to drink its blood 
 nor to suck the marrow of its bones 
 nor to devour its flesh, 
-nor to touch them neither in their 256 limbs[foot]The "256 limbs" are 248 in Jewish lore. "This tradition harks back to a Talmudic dictum that the body has 248 bones and 365 sinews, which add up to 613, equal to the number of Mosaic commandments in the Pentateuch; this relates to a Talmudic account of the first-century CE Palestinian sage Rabbi Ishmael, whose students dissected the body of a prostitute and were surprised to discover that she had 252 bones (rather than 248), the problem being solved by the explanation that a woman has four additional bones (doors and hinges) in her vagina (Bekhorot 45a). The theme is fairly common in Aramaic magic bowls, which also distinguish between 252 bones for females and 248 bones in males; see Shaked, Ford & Bhayro 2013, 55. See also two magic bowls published by Dan Levene in which a male client is to be protected by the spell in all his 248 limbs, and alternatively the demon is forbidden from harming a female client in all her 252 limbs (Levene 2003, 46, 116)." --note 25 in Florentina Badalanova Geller's "Between Demonology and Hagiology: The Slavonic Rendering of the Semitic Magical Historiola of the Child-Stealing Witch" in <em>In the Wake of the Compendia: Infrastructural Contexts and the Licensing of Empiricism in Ancient and Medieval Mesopotamia</em>. ed. J. Cale Johnson (2015).[/foot] 
+nor to touch them neither in their 256 limbs[foot]The "256 limbs" are 248 in Jewish lore. "This tradition harks back to a Talmudic dictum that the body has 248 bones and 365 sinews, which add up to 613, equal to the number of Mosaic commandments in the Pentateuch; this relates to a Talmudic account of the first-century CE Palestinian sage Rabbi Ishmael, whose students dissected the body of a prostitute and were surprised to discover that she had 252 bones (rather than 248), the problem being solved by the explanation that a woman has four additional bones (doors and hinges) in her vagina (Bekhorot 45a). The theme is fairly common in Aramaic magic bowls, which also distinguish between 252 bones for females and 248 bones in males; see Shaked, Ford & Bhayro 2013, 55. See also two magic bowls published by Dan Levene in which a male client is to be protected by the spell in all his 248 limbs, and alternatively the demon is forbidden from harming a female client in all her 252 limbs (Levene 2003, 46, 116)." --note 25 in Florentina Badalanova Geller's "Between Demonology and Hagiology: The Slavonic Rendering of the Semitic Magical Historiola of the Child-Stealing Witch" in <em>In the Wake of the Compendia: Infrastructural Contexts and the Licensing of Empiricism in Ancient and Medieval Mesopotamia</em>. ed. J. Cale Johnson (2015). --ANV[/foot] 
 nor in their 365 ligaments and veins, 
 even as you are unable to count the number of the stars of heaven 
 nor dry up the water of the sea. 

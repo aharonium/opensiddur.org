@@ -125,11 +125,11 @@ These quotations from Dr. King’s speeches were edited by Rabbi Marcia Prager a
 
 <h3>Recording</h3>
 
-[audio mp3="http://jewishfreeculture.org/wp-content/uploads/2018/01/Haftara-for-MLK-Shabbat-Jack-Kessler-and-Marcia-Prager.mp3"][/audio]
+https://archive.org/download/AHaftarahForMartinLutherKingShabbatJackKesslerKerem2014/HaftaraForMlkShabbatjackKesslerAndMarciaPrager.mp3
 
 <h3>Source</h3>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.archive.org/stream/AHaftarahForMartinLutherKingShabbatJackKesslerKerem2014#page/n3/mode/2up"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.archive.org/stream/english-leyning-bringing-new-meaning-to-the-torah-service-jack-kessler-2014#page/n3/mode/2up"]
 
 <hr />
 

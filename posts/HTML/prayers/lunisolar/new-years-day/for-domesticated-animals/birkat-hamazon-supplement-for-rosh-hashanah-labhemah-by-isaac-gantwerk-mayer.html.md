@@ -289,9 +289,11 @@ for the land and for its food.
 
 <tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
-כָּאָמוּר		זְבַ֣ח לֵאלֹהִ֣ים תּוֹדָ֑ה 
+כָּאָמוּר
+זְבַ֣ח לֵאלֹהִ֣ים תּוֹדָ֑ה 
 וְשַׁלֵּ֖ם לְעֶלְי֣וֹן נְדָרֶֽיךָ׃
-וְנֶאֱמַר		בֹּונֵ֣ה יְרוּשָׁלִַ֣ם יְהוָ֑ה 
+וְנֶאֱמַר
+בֹּונֵ֣ה יְרוּשָׁלִַ֣ם יְהוָ֑ה 
 נִדְחֵ֖י יִשְׂרָאֵ֣ל יְכַנֵּֽס׃
 בָּרוּךְ אַתָּה יְהֹוָה
  בּוֹנֵה בְרַחֲמָיו ירוּשָׁלַיִם 
@@ -325,12 +327,14 @@ amen.
 
 <tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
-הָרַחֲמָן הוּא יְבָרֵךְ־נָא אֶת הַשָּׁנָה הַבָּאָה לְכׇל־חַיְתוֹ הָאָרֶץ וְאָז כׇּל־בְּנֵי־בָּשָׂר יְהַלְּלוּךָ׃
+הָרַחֲמָן הוּא 
+יְבָרֵךְ־נָא אֶת הַשָּׁנָה הַבָּאָה לְכׇל־חַיְתוֹ הָאָרֶץ וְאָז כׇּל־בְּנֵי־בָּשָׂר יְהַלְּלוּךָ׃
 </span></div></td>
  
 <td style="vertical-align:top;">
 <div class="english">
-May the Merciful One please bless the coming year for all the animals of the land, so that all flesh may praise you.
+May the Merciful One 
+please bless the coming year for all the animals of the land, so that all flesh may praise you.
 </div></td></tr>
 </tbody></table>
 </body>

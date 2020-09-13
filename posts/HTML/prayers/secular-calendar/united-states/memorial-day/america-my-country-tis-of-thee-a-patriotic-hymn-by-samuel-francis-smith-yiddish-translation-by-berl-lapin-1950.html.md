@@ -114,11 +114,9 @@ This is “<a href="https://www.loc.gov/item/ihas.100010476/">America (My Countr
 
 &nbsp;
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/SabbathPrayerBookJewishReconstructionistFoundation1945#page/n572/mode/2up"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/abridged-prayer-book-for-jews-in-the-army-and-navy-of-the-united-states-jps-1917#page/n166/mode/2up"]
 
 &nbsp;
-
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/prayersofisraelvol1forweekdaysandspecialoccasionsjacobbosniak1937#page/n60/mode/2up"]
 
 <hr />
 

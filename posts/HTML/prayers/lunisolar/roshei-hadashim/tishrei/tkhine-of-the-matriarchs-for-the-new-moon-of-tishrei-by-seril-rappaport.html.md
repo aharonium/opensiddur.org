@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: תחנה אמהות מן ראש חדש תשרי | Tkhine of the Matriarchs for the New Moon of Tishrei, by Seril Rappaport (ca. 18th century)<br />
+Title: תחנה אמהות מן ראש חדש תשרי | Prayer for the New Moon of Tishrei, from the Tkhine of the Matriarchs by Seril Rappaport (ca. 18th century)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=14045">http://opensiddur.org/?p=14045</a>
 <p />

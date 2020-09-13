@@ -53,8 +53,7 @@ We are all proud to welcome Rabbi Meyers here today as a guest chaplain.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-I am honored to be here this morning with you courageous leaders of our country to join together in prayer. 
-It takes courage to pray meaningfully in the wake of events shaping our lives.
+I am honored to be here this morning with you courageous leaders of our country to join together in prayer. It takes courage to pray meaningfully in the wake of events shaping our lives.
 </div></td></tr>
 
 <tr><td style="vertical-align:top;" width="46%">
