@@ -1376,7 +1376,7 @@ What are the Ten Healings that can begin to make our world a Beloved Community
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%"><div class="english">
-    • Families and congregations, at Bat/Bar Mitzvah time and teen-age confirmations, study together how to address the climate crisis so as to “turn the hearts of children and parents to each other, lest the Earth be utterly destroyed.” (From last passage of Malachi, last of the classical Hebrew Prophets)
+    • Families and congregations, at Bat/Bar mitsvah time and teen-age confirmations, study together how to address the climate crisis so as to “turn the hearts of children and parents to each other, lest the Earth be utterly destroyed.” (From last passage of Malachi, last of the classical Hebrew Prophets)
 	</div></td></tr>
 
 

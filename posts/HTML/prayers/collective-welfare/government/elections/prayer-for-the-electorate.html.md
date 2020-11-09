@@ -7,23 +7,24 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
-<em>To be recited together with the Prayer for Government on the Shabbat before an election (federal, state, or local)</em>
+<td style="vertical-align:top;">
+<div class="english">
+<span class="instruction">To be recited on the Shabbat before an election (federal, state, or local) 
+together with the <a href="https://opensiddur.org/shared/prayers/collective-welfare/government/the-diaspora/">Prayer for Government</a>.<span>
 </div></td>
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
 הַחֽוֹנֵן ‏לְאָדָם דַּעַת
 וּמְלַמֶד לֶאֱנוֹשׁ בִּינָה
 הוּא יְבָרֵךְ וְיִשְׁמֹר‎
@@ -36,7 +37,8 @@ For attribution and license, please consult the following URL: <a href="http://o
 אַנְשֵׁי אֱמֶת שֹׂנְאֵי בָצַע.
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 May the One who graces each person with knowledge
 and teaches humanity understanding,
 bless and protect 
@@ -51,8 +53,8 @@ people of truth who despise corruption.
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
 הַמַעֲמִיד אֲרָצוֹת 
 עַל־הַדִּין וְעַל־הָאֱמֶת וְעַל־הַשָּׁלוֹם
 יְהִי רָצוֹן 
@@ -69,7 +71,8 @@ people of truth who despise corruption.
 וְנֹאמַר אָמֵן׃
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 The One who sustains nations
 on order, on truth, and on peace:
 may it be Your will
@@ -94,6 +97,8 @@ David Zvi Kalman's "Prayer for the Electorate" was initially published on Ritual
 
 <h3>Source</h3>
 
-[gview file="https://opensiddur.org/wp-content/uploads/2016/11/David-Zvi-Kalman-Prayer-for-the-Electorate-CC-BY.pdf"]
+https://opensiddur.org/wp-content/uploads/2016/11/David-Zvi-Kalman-Prayer-for-the-Electorate-CC-BY.pdf
+
+&nbsp;
 </body>
 </html>

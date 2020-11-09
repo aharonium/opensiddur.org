@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: אײן אנשפראכע געגען עין הרע | An Incantation against the Ayin hoReh (1896)<br />
+Title: אײן אנשפראכע געגען עין הרע | An Incantation against the Ayin haRa (1896)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=13957">http://opensiddur.org/?p=13957</a>
 <p />
@@ -12,22 +12,22 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr><td style="vertical-align:top;">
 <div class="yiddish"><span lang="he">
-אײן געװיסע רפואה פאר עין הרע מחכמות רב הגמרא דער אנשפרוכ זאגט׃ 
+<span class="instruction">אײן געװיסע רפואה פאר עין הרע מחכמות רב הגמרא דער אנשפרוכ זאגט׃ </span>
 </span></div></td>
 
 <td style="vertical-align:top;"><div class="english">
-A certain cure of the Evil Eye, from the great wisdoms of the Talmud [or: from the wisdoms of a Talmudic Rabbi]; the incantation states [the following instructions]: 
+<span class="instruction">A certain cure of the Evil Eye, from the great wisdoms of the Talmud [or: from the wisdoms of a Talmudic Rabbi]; the incantation states [the following instructions]: </span>
 </div></td>
 </tr>
 
 
 <tr><td style="vertical-align:top;">
 <div class="yiddish"><span lang="he">
-מוס זיך דיא הענד װאשען אונד אוס לעגען דיא האנד אויף דען קאפף פון דען קראנקען עס זייא אײן קלײן קינד אדער אײן אלטער מאן אדער װײב אויך קאן מאן פאן דען קראנקען נעמען אײן הויב אדער איין טוך, אונד זאלל עס ניט װײט האלטען פון זײן קאפף אונד זאלל הערנאך דיא הויב אדער דאס טוך דעם קראנקען אונטער דעם קאפף לעגען. 
+<span class="instruction">מוס זיך דיא הענד װאשען אונד אוס לעגען דיא האנד אויף דען קאפף פון דען קראנקען עס זייא אײן קלײן קינד אדער אײן אלטער מאן אדער װײב אויך קאן מאן פאן דען קראנקען נעמען אײן הויב אדער איין טוך, אונד זאלל עס ניט װײט האלטען פון זײן קאפף אונד זאלל הערנאך דיא הויב אדער דאס טוך דעם קראנקען אונטער דעם קאפף לעגען. </span>
 </span></div></td>
 
 <td style="vertical-align:top;"><div class="english">
-[The healer] must wash his hands and place his hand on the head of the invalid, whether it be a small child or an old man or wife [i.e. woman]; one can also take a cap or kerchief from the invalid and hold it not far from his head, and thereafter place the cap or kerchief under his head. [The healer says:]
+<span class="instruction">[The healer] must wash his hands and place his hand on the head of the invalid, whether it be a small child or an old man or wife [i.e. woman]; one can also take a cap or kerchief from the invalid and hold it not far from his head, and thereafter place the cap or kerchief under his head. [The healer says:]</span>
 </div></td>
 </tr>
 
@@ -38,7 +38,7 @@ A certain cure of the Evil Eye, from the great wisdoms of the Talmud [or: from t
 </span></div></td>
 
 <td style="vertical-align:top;"><div class="english">
-With the help of God the Almighty, He Who heals all who are ill, may He relieve you of all pain and negative experiences that befell you from the Evil Gaze - whether you are a man or woman, old or young - may your body and soul not be harmed yet, neither your lungs or heart. Elijah the Prophet encountered the Angel Astribuda; said Elijah to him: “Where are you going?” To which he replied: “I want to go to (so-and-so son of so-and-so, daughter of so-and-so) and [eat] his limbs and flesh and drink his blood” — to which Elijah says to him: “Very well, but you have no permission to drink all the water, and you no longer have permission to harm him, nor his body, nor any one of his limbs - [even] in the smallest region of the entire world.”
+With the help of God the Almighty, He Who heals all who are ill, may He relieve you of all pain and negative experiences that befell you from the Predatory Gaze - whether you are a man or woman, old or young - may your body and soul not be harmed yet, neither your lungs or heart. Eliyahu haNavi encountered the Angel Astribuda;[foot]Does this name for the angel of death derive from "Star Buddha"? --ANV[/foot] said Eliyahu to him: “Where are you going?” To which he replied: “I want to go to (<span class="instruction">so-and-so son of so-and-so, daughter of so-and-so</span>) and [eat] his limbs and flesh and drink his blood” — to which Eliyahu says to him: “Very well, but you have no permission to drink all the water, and you no longer have permission to harm him, nor his body, nor any one of his limbs - [even] in the smallest region of the entire world.”[foot]Cf. the <a href="https://opensiddur.org/prayers/life-cycle/living/pregnancy/apotropaic-ward-for-the-protection-of-pregnant-women-and-infants-against-lilith-and-her-minions/">apotropaic ward</a> against Lilith and her minions.[/foot]
 </div></td>
 </tr>
 
@@ -49,25 +49,25 @@ With the help of God the Almighty, He Who heals all who are ill, may He relieve 
 </span></div></td>
 
 <td style="vertical-align:top;"><div class="english">
-If someone gave him an Evil Eye, may it not harm him in the daytime nor by nighttime, for we are all the children of Joseph the Righteous,[foot]To the descendants of Joseph the evil eye can do no manner of harm (Berakhot 20a, Baba Metzia 84a. Cf. Sotah 36b)[/foot] so we cannot direct the Evil Eye — — so may it not harm you either; and by the count of nine may the Blessed One heal you, and may you recover this very hour; this is the truth, in God’s name, <em>Amen</em> Selah!
+If someone directed against him a Predatory Gaze, may it not harm him in the daytime nor by nighttime, for we are all the children of Yosef the Righteous,[foot]To the descendants of Joseph the evil eye can do no manner of harm (Berakhot 20a, Baba Metzia 84a. Cf. Sotah 36b)[/foot] so we cannot direct the Predatory Gaze — — so may it not harm you either; and by the count of nine may the Blessed One heal you, and may you recover this very hour; this is the truth, in God’s name, <em>Amen Selah!</em>
 </div></td>
 </tr>
 
 
 <tr><td style="vertical-align:top;">
 <div class="yiddish"><span lang="he">
-אונד זאלל דען קראנקען רײנערן מיט נײן ערלײא פארבין פון װאללינע קלײדער אונד זאל דרײמאל אבלעשען אין פריש װאסער גליהענדע קאהלען אונד צוריקצעלען פאן נײן ביס 1 אונד אבװאשען דאס פנים אונד דיא בײדען דפק דאס הערץ אונד דרײמאל טרינקען פון דען אבגעלאשען װאססער, דיא קאהלען אויף דיא פיער עקען פון ציממער צו װארפען דאס איבריגע װאסער אויף דיא אויסװענדיגע טהיר אנגעל שיטטען, װירד הש״ית אײנע רפואה שלימה זיכער שיקען.
+<span class="instruction">אונד זאלל דען קראנקען רײנערן מיט נײן ערלײא פארבין פון װאללינע קלײדער אונד זאל דרײמאל אבלעשען אין פריש װאסער גליהענדע קאהלען אונד צוריקצעלען פאן נײן ביס 1 אונד אבװאשען דאס פנים אונד דיא בײדען דפק דאס הערץ אונד דרײמאל טרינקען פון דען אבגעלאשען װאססער, דיא קאהלען אויף דיא פיער עקען פון ציממער צו װארפען דאס איבריגע װאסער אויף דיא אויסװענדיגע טהיר אנגעל שיטטען, װירד הש״ית אײנע רפואה שלימה זיכער שיקען.</span>
 </span></div></td>
 
 <td style="vertical-align:top;"><div class="english">
-And then [the healer] should cleanse the invalid with nine different-colored woolen garments [i.e. cloths], and extinguish glowing coals in fresh water three times, and count backwards from nine to one, and wash the [invalid’s] face and both heart-pulse [points], and drink three times from the extinguished water, then throw the coals to the four corners of the room, and pour all the remaining water on [or: out of] the outer door. Then the Blessed One shall certainly deliver a complete recovery.
+<span class="instruction">And then [the healer] should cleanse the invalid with nine different-colored woolen garments [i.e. cloths], and extinguish glowing coals in fresh water three times, and count backwards from nine to one, and wash the [invalid’s] face and both heart-pulse [points], and drink three times from the extinguished water, then throw the coals to the four corners of the room, and pour all the remaining water on [or: out of] the outer door. Then the Blessed One shall certainly deliver a complete recovery.</span>
 </div></td>
 </tr>
 </tbody></table>
 
 <hr />
 
-This tkhine offers a formula for providing relief to a very ill person, and as such, should only be used as a supplement to recommendations provided by an expert physician or nurse. The source of this invocation is the <em>Tkhine of a Highly Respected Woman</em>, Budapest, 1896; and I have faithfully transcribed it as it appears in <em>The Merit of Our Mothers</em> בזכות אמהות <em>A Bilingual Anthology of Jewish Women's Prayers</em>, compiled by Rabbi Tracy Guren Klirs, Cincinnati: Hebrew Union College Press, 1992. Translation by Baruch Jean Thaler.
+This tkhine offers a formula for providing relief to a very ill person, and as such, should only be used as a supplement to recommendations provided by an expert physician or nurse. The source of this invocation is the <em>Tkhine of a Highly Respected Woman</em> (Budapest, 1896) and I have faithfully transcribed it as it appears in <em>The Merit of Our Mothers</em> בזכות אמהות <em>A Bilingual Anthology of Jewish Women's Prayers</em>, compiled by Rabbi Tracy Guren Klirs, Cincinnati: Hebrew Union College Press, 1992. Translation by Baruch Jean Thaler with edits by Aharon Varady.
 
 The 1906 Jewish Encyclopedia notes the following in its entry "<a href="http://www.jewishencyclopedia.com/articles/5920-evil-eye">Evil Eye</a>":
 

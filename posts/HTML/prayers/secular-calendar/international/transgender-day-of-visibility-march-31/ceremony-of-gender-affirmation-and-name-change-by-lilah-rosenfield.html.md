@@ -215,7 +215,7 @@ Blessed are you,
 source of being, 
 spirit of the world, 
 who has made me according to Your will.[foot]Cf. Rabbi Eli Kukla, "<a href="http://transtorah.org/PDFs/Blessing_for_Transitioning_Genders.pdf">A Blessing for Transitioning Genders</a>," TransTorah 2006. Rabbi Kukla writes, "The second blessing is also taken from morning liturgy. It is based on the book of Genesis, which teaches that male and female bodies were equally created in God’s image. The Midrash, classical Jewish exegesis, adds that the Adam HaRishon, the first human being formed in God’s likeness, was an androgynos, an intersex person. Hence our tradition teaches that all
-bodies and genders are created in God’s image whether we identify as men, women, intersex or something else. When we take physical or spiritual steps to more honestly manifest our gender identities we are fulfilling the foundational mitzvah, religious commandment, to be partnered with God in completing the work of creation."[/foot]
+bodies and genders are created in God’s image whether we identify as men, women, intersex or something else. When we take physical or spiritual steps to more honestly manifest our gender identities we are fulfilling the foundational mitsvah, religious commandment, to be partnered with God in completing the work of creation."[/foot]
 </div></td></tr>
 
 

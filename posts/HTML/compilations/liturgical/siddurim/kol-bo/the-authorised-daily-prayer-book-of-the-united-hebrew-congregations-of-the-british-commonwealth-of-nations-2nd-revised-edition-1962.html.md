@@ -56,11 +56,11 @@ We met a number of times over a period of twelve months. At the first Meeting, t
 
 The text of the Prayer Book is the same basically as printed by Singer with the subsequent additions for which my late predecessor Dr. J.H. Hertz זצ״ל was mainly responsible. This edition has been made more continuous than previously and consequently fresh pagination has had to be introduced. 
 
-Mention should be made of the following additional prayers which have been introduced: Shalom Aleichem—translated by Rabbi Dr. J. Rabbinowitz; Prayer for the Welfare of the State of Israel; Zemiroth for Sabbath morning—translated by Dr. L.V. Snowman ; Searching for Chametz; Eruv Tavshilin; Kiddush for Festival mornings; Kiddush for the morning of the New Year; Prayers for Travellers amended to include scriptural verses to be recited by those travelling by sea or air; A new Bar Mitzvah Prayer composed by the Chief Rabbi in place of the one by Haham Artom. 
+Mention should be made of the following additional prayers which have been introduced: Shalom Aleichem—translated by Rabbi Dr. J. Rabbinowitz; Prayer for the Welfare of the State of Israel; Zemiroth for Sabbath morning—translated by Dr. L.V. Snowman ; Searching for Chametz; Eruv Tavshilin; Kiddush for Festival mornings; Kiddush for the morning of the New Year; Prayers for Travellers amended to include scriptural verses to be recited by those travelling by sea or air; A new Bar mitsvah Prayer composed by the Chief Rabbi in place of the one by Haham Artom. 
 
 Attention is also drawn to the verse translation of Adon Olam by the late Mrs. Alice Lucas, which replaces the prose translation by the late Rev. S. Singer. This has been introduced as a tribute to the association of the Lucas family with the publication of the Singer’s Prayer Book from the first edition up to the present time. 
 
-I would like to take this opportunity of expressing appreciation to Dr. S. Fundaminsky, Education Officer of the London Board of Jewish Religious Education, and Dr. N. Wieder, a member of the staff of Jews’ College, for helpful suggestions in connection with the new Bar Mitzvah Prayer. 
+I would like to take this opportunity of expressing appreciation to Dr. S. Fundaminsky, Education Officer of the London Board of Jewish Religious Education, and Dr. N. Wieder, a member of the staff of Jews’ College, for helpful suggestions in connection with the new Bar mitsvah Prayer. 
 
 It is my fervent hope that this revised edition will prove as popular and indispensable as the former editions and that it will contribute to a deepening sense of reverence to Him who hearkeneth to prayer. 
 

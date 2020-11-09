@@ -171,7 +171,7 @@ Over the 15 years Rabbi Meyers served at Glendale's Temple Sinai the congregatio
 
 Rabbi Meyers significantly raised the profile of the temple through her extensive work in the community. Rabbi Meyers was involved with Habitat for Humanity and the Glendale Community Foundation. She served on the Mayor's Task Force on Hate Crimes, helping to craft a citywide response plan to fight hate crimes. Rabbi Meyers also trained as a chaplain for the Glendale Police Department and helped to create an annual AIDS Awareness Prayer Service with other Glendale religious leaders.
 
-After retiring in 2001 to spend more time with her family, Rabbi Meyers remained active in our community serving on the board of the Central Conference of American Rabbis, developing curriculum for Hebrew Union College in Los Angeles, and presiding at marriages and bar and bat mitzvahs.
+After retiring in 2001 to spend more time with her family, Rabbi Meyers remained active in our community serving on the board of the Central Conference of American Rabbis, developing curriculum for Hebrew Union College in Los Angeles, and presiding at marriages and bar and bat mitsvahs.
 
 In 2001, shortly after the tragic events of 9/11, Rabbi Meyers had the distinction of delivering the opening prayer in the House of Representatives. In such a sad and somber time Rabbi Meyers's prayer was uplifting and life-affirming. Her words helped console our nation. And her words that day still ring true today as we try to find answers to her untimely death.</blockquote>
 

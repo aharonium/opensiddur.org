@@ -18,6 +18,19 @@ This megillah, styled after other Second Purim megillot, celebrates this victory
 <tbody>
 <tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
+פרק א׳
+&nbsp;
+https://archive.org/download/megillat-lincoln-chapter-5-isaac-gantwerk-mayer-2020/Megillat%20Lincoln%20-%20Chapter%201%20%28Isaac%20Gantwerk%20Mayer%202020%29.mp3
+</span></div></td>
+ 
+<td style="vertical-align:top;">
+<div class="english">
+Chapter 1
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
 וַיְהִ֖י בִּימֵ֣י לִינְק֑וֹן ה֣וּא לִינְק֗וֹן הַנָּשִׂיא֙ מִמְּעֵ֣ין וְעַד־חֲלִיפֽוֹרְנִיָּ֔ה שְׁל֛וֹשׁ וּשְׁלוֹשִׁ֥ים מְדִינָ֖ה וַחֲבָלִ֥ים שִׁבְעָֽה׃ בַּיָּמִ֖ים הָהֵ֑ם כְּשֶׁ֣בֶת ׀ הַנָּשִׂ֣יא לִינְק֗וֹן בְּמַעֲמָד֙ מֶמְשַׁלְתּ֔וֹ אֲשֶׁ֖ר בְּוַשִׁעְתּ֥וֹן הַבִּירָֽה׃ בִּשְׁנַ֥ת אַחַ֖ת לְמֶמְשַׁלְתּ֑וֹ וַיִּפְרְשׁ֨וּ עַשְׁתֵּ֤י עֶשְׂרֵה֙ מְדִינ֣וֹת הַנֶּ֔גֶב מִן־צִבּ֤וּר הַבְּרִית֙ לִבְרֹ֣חַ מִן־הַדְּר֔וֹר וּלְקַיֵּ֥ם בָּהֶ֖ם בֵּ֥ית עֲבָדִֽים׃ וַיִּמְרְדוּ֙ הַמְּדִינ֣וֹת הָאֵ֔לֶּה מֶ֥רֶד גָּד֖וֹל וּמַ֣ר מְאֹ֑ד וַיִּקְצֹ֤ף הַנָּשִׂיא֙ מְאֹ֔ד וַחֲמָת֖וֹ בָּ֥עֲרָה בֽוֹ׃ וַיְהִ֛י מִלְחָמָ֥ה גְּדוֹלָ֖ה בָּאָ֑רֶץ <span style="color: dodgerblue;">וַיִּ֨שָּׂא אָ֤ח אֵל־אָחִיו֙ חֶ֔רֶב וְאִ֥ישׁ אֵל־רֵעֵ֖הוּ כִּידֽוֹן</span>׃            
 </span></div></td>
  
@@ -35,6 +48,19 @@ This megillah, styled after other Second Purim megillot, celebrates this victory
 <td style="vertical-align:top;">
 <div class="english">
 <sup>1:6</sup>&nbsp;After these things, President Lincoln promoted Ulysses (the son of Jesse Root) Grant and lifted him up and placed his seat above all the military commanders with him. <sup>7</sup>&nbsp;And the borders under his command were Tennessee, Mississippi, and Kentucky, three of the states that had been captured from the rebels. <sup>8</sup>&nbsp;And the rebels in these states were merchants of cotton — the slaves did hard labor and the masters took the money. <sup>9</sup>&nbsp;In the northern lands, which had not broken the communal covenant of union, they could not plant or harvest cotton, for these lands did not have the hot climate to do so. <sup>10</sup>&nbsp;And for many a day the northerners would buy all their cotton from the southerners. <sup>11</sup>&nbsp;Thus in these days of rebellion and rebelliousness in the United States, one could not find cotton, for cotton from the south was banned. <sup>12</sup>&nbsp;But craven people, lowlifes, were in the land, and they would trade in cotton and all the banned goods between the north and the south. <sup>13</sup>&nbsp;And these people were a mixed multitude from every people, but the eyes of Ulysses were shut, and he saw only the Jews. 
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
+פרק ב׳
+&nbsp;
+https://archive.org/download/megillat-lincoln-chapter-5-isaac-gantwerk-mayer-2020/Megillat%20Lincoln%20-%20Chapter%202%20%28Isaac%20Gantwerk%20Mayer%202020%29.mp3
+</span></div></td>
+ 
+<td style="vertical-align:top;">
+<div class="english">
+Chapter 2
 </div></td></tr>
 
 
@@ -62,12 +88,38 @@ This megillah, styled after other Second Purim megillot, celebrates this victory
 
 <tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
+פרק ג׳
+&nbsp;
+https://archive.org/download/megillat-lincoln-chapter-5-isaac-gantwerk-mayer-2020/Megillat%20Lincoln%20-%20Chapter%203%20%28Isaac%20Gantwerk%20Mayer%202020%29.mp3
+</span></div></td>
+ 
+<td style="vertical-align:top;">
+<div class="english">
+Chapter 3
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
 וְהַנָּשִׂ֣יא לִינְק֡וֹן אִ֠ישׁ חֲכַ֨ם צַדִּ֤יק תַּמִּים֙ בְּדוֹרוֹתָ֔יו אוֹהֵ֥ב אֶת־הַבְּרִיּ֖וֹת וְאוֹהֵ֣ב אֶת־הַדְּר֑וֹר וְה֗וּא אַ֨ב הֲמ֤וֹן גּוֹיִם֙ הָיָ֔ה וַיִּקְרְא֥וּ אֶת־שְׁמ֖וֹ אַבְרָהָֽם׃ וַיִּקְרָא֩ הַנָּשִׂ֨יא אַבְרָהָ֤ם לִינְקוֹן֙ אֶת־פַּתְשֶׁ֣גֶן הַכְּתָ֔ב וַיֵּרַ֖ע בְּלִבּ֑וֹ כִּ֥י לֹ֨א יֵעָ֤שֶׂה כֵן֙ בְּאַרְצ֣וֹת הַבְּרִ֔ית כִּנְבָלָ֖ה הַזֹּאֽת׃ וַיֹּ֣אמֵר הַנָּשִׂ֔יא אֶל־קֵיסָ֥ר קַסְקֶ֖ל לֵאמֹ֑ר אָ֥ז יְגֹרְשׁוּ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל מֵאֶ֥רֶץ חֶפְצָ֖ם אֶ֥רֶץ כְּנַֽעַן׃ וַיֹּ֛אמֶר קֵיסָ֥ר קַסְקֶ֖ל אָכֵ֑ן וְעַל־כֵּ֕ן הִנֵּ֤ה בָּ֙אנוּ֙ לְחֵיק֙ אַבְרָהָ֣ם אָבִ֔ינוּ לְבַקֵּ֥שׁ הַצָּלָ֖ה מִמֶּֽנּוּ׃ וַיֹּ֧אמֵר הַנָּשִׂ֛יא אַבְרָהָ֥ם לִינְק֖וֹן לֵאמֹ֑ר וְעַתָּה֙ אֶת־הַהַצָּלָ֣ה הַזֹּא֔ת לָהֶ֖ם תִּהְיֶֽה׃ וַיֹּאמֵ֣ר הַ֗לֵּק אֶחָד֙ מִן־הַ֣שָּׂרִ֔ים לִפְנֵ֥י הַנָּשִׂ֖יא לֵאמֹ֑ר הִ֠נֵּה אֶשְׁלַ֨ח דָּ֜ת לְהִנָּתֵ֣ן ׀ לְהָשִׁ֣יב אֶת־הַסְּפָרִ֗ים מַחֲשֶׁ֜בֶת יוּלִסִּ֧יז הַגְרַאנְטִ֛י לְגָרֵ֖שׁ אֶת־כׇּל־הַיְּהוּדִֽים׃ וַיִּיטַ֧ב הַדָּבָ֛ר בְּעֵינֵ֥י הַנָּשִׂ֖יא וַיִּשְׁלָחֵֽהוּ׃
 </span></div></td>
  
 <td style="vertical-align:top;">
 <div class="english">
 <sup>3:1</sup>&nbsp;And President Lincoln was a wise man, righteous and pure for his generation, a lover of life and a lover of liberty; and he was a father of many nations and they called him Abraham. <sup>2</sup>&nbsp;And President Abraham Lincoln read the written copy and it was bad in his heart, for such was not done in the United States like this atrocity. <sup>3</sup>&nbsp;And the president said to Cesar Kaskel, “And so the children of Israel were driven from the happy land of Canaan?” <sup>4</sup>&nbsp;And Cesar Kaskel said, “Yes, and that is why we have come unto Father Abraham's bosom, asking protection.” <sup>5</sup>&nbsp;And President Abraham Lincoln said, “And this protection they shall have at once.”[foot]This entire conversation, while anecdotal, is said to be exactly what Cesar Kaskel and President Lincoln said to each other.[/foot] <sup>6</sup>&nbsp;And Halleck,[foot]Henry Wager Halleck, at the time the General-in-Chief of the Union armies.[/foot] one of the generals before the president, said “Look, I will send a rule to be given to undo the papers thought up by Ulysses Grant to expel the Jews.” <sup>7</sup>&nbsp;And it was good in the eyes of the president, and he sent it.
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
+פרק ד׳
+&nbsp;
+https://archive.org/download/megillat-lincoln-chapter-5-isaac-gantwerk-mayer-2020/Megillat%20Lincoln%20-%20Chapter%204%20%28Isaac%20Gantwerk%20Mayer%202020%29.mp3
+</span></div></td>
+ 
+<td style="vertical-align:top;">
+<div class="english">
+Chapter 4
 </div></td></tr>
 
 
@@ -84,12 +136,38 @@ This megillah, styled after other Second Purim megillot, celebrates this victory
 
 <tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
+פרק ה׳
+&nbsp;
+https://archive.org/download/megillat-lincoln-chapter-5-isaac-gantwerk-mayer-2020/Megillat%20Lincoln%20-%20Chapter%205%20%28Isaac%20Gantwerk%20Mayer%202020%29.mp3
+</span></div></td>
+ 
+<td style="vertical-align:top;">
+<div class="english">
+Chapter 5
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
 וַיִּכְתְּב֥וּ הַיְּהוּדִ֖ים אֶת־הַדְּבָ֣רִים הָאֵ֑לֶּה וַיִּשְׁלְח֨וּ סְפָרִ֜ים אֶל־כׇּל־מְדִינוֹת֙ הַנָּשִׂ֔יא הַקְּרוֹבִ֖ים וְהָרְחוֹקִֽים׃ לְקַיֵּם֮ עֲלֵיהֶם֒ לִהְי֣וֹת עֹשִׂ֗ים אֵ֠ת י֣וֹם שְׁלֹשָׁ֤ה עָשָׂר֙ לַחֹ֣דֶשׁ טֵבֵ֔ת וְאֵ֛ת יוֹם־עֶשְׂרִ֥ים וְשִׁשָּׁ֖ה בּ֑וֹ בְּכׇל־שָׁ֖נָה וְשָׁנָֽה׃ כַּיָּמִ֗ים אֲשֶׁר־נָ֨חוּ בָהֶ֤ם הַיְּהוּדִים֙ מֵא֣וֹיְבֵיהֶ֔ם וְהַחֹ֗דֶשׁ אֲשֶׁר֩ נֶהְפַּ֨ךְ לָהֶ֤ם מִיָּגוֹן֙ לְשִׂמְחָ֔ה וּמֵאֵ֖בֶל לְי֣וֹם ט֑וֹב לַעֲשׂ֣וֹת אוֹתָ֗ם יְמֵי֙ מִשְׁתֶּ֣ה וְשִׂמְחָ֔ה וּמִשְׁל֤וֹחַ מָנוֹת֙ אִ֣ישׁ לְרֵעֵ֔הוּ וּמַתָּנ֖וֹת לָֽאֶבְיוֹנִֽים׃  וְקִבֵּל֙ הַיְּהוּדִ֔ים אֵ֥ת אֲשֶׁר־הֵחֵ֖לּוּ לַעֲשׂ֑וֹת וְאֵ֧ת אֲשֶׁר־כָּתַ֛ב קֵיסָ֥ר קַסְקֶ֖ל אֲלֵיהֶֽם׃ כִּ֨י יוּלִסִּ֤יז בֶּן־יִשַׁירוֹת֙ הַגְרַאנְטִ֔י חָשַׁ֥ב עַל־הַיְּהוּדִ֖ים לְגַרְשָׁ֑ם וְהִנָּ֣תֵן דָּ֔ת לִדְחֹתָ֖ם וּלְהַגְלֹתָֽם׃ וּבַבֹּא֖וֹ לִפְנֵ֣י הַנָּשִׂ֑יא אָמַ֣ר עִם־הַסֵּ֔פֶר יָשׁ֞וּב מַחֲשַׁבְתּ֧וֹ הָרָעָ֛ה אֲשֶׁר־חָשַׁ֥ב עַל־הַיְּהוּדִ֖ים עַל־רֹאשֽׁוֹ׃ עַל־כֵּ֡ן קָרְאוּ֩ לַיָּמִ֨ים הָאֵ֤לֶּה פֿוּרִים֙ לִינְק֔וֹן עַל־שֵׁם֙ הַנָּשִׂ֔יא עַל־כֵּ֕ן עַל־כׇּל־דִּבְרֵ֖י הָאִגֶּ֣רֶת הַזֹּ֑את וּמָֽה־רָא֣וּ עַל־כָּ֔כָה וּמָ֥ה הִגִּ֖יעַ אֲלֵיהֶֽם׃ קַיְּמ֣וּ וְקִבְלֻ֣ יִהוּדֵ֣י אַרְצ֣וֹת הַבְּרִית֩ ׀ עֲלֵיהֶ֨ם ׀ וְעַל־זַרְעָ֜ם וְעַ֨ל כׇּל־הַנִּלְוִ֤ים עֲלֵיהֶם֙ וְלֹ֣א יַעֲב֔וֹר לִהְי֣וֹת עֹשִׂ֗ים אֵ֣ת שְׁנֵ֤י הַיָּמִים֙ הָאֵ֔לֶּה כִּכְתָבָ֖ם וְכִזְמַנָּ֑ם בְּכׇל־שָׁנָ֖ה וְשָׁנָֽה׃ וְהַיָּמִ֣ים הָ֠אֵ֠לֶּה נִזְכָּרִ֨ים וְנַעֲשִׂ֜ים בְּכׇל־דּ֣וֹר וָד֗וֹר מִשְׁפָּחָה֙ וּמִשְׁפָּחָ֔ה מְדִינָ֥ה וּמְדִינָ֖ה וְעִ֣יר וָעִ֑יר וִימֵ֞י הַפּוּרִ֣ים הָאֵ֗לֶּה לֹ֤א יַֽעַבְרוּ֙ מִתּ֣וֹךְ הַיְּהוּדִ֔ים וְזִכְרָ֖ם לֹא־יָס֥וּף מִזַּרְעָֽם׃ וַיִּשְׁלַ֨ח סְפָרִ֜ים אֶל־כׇּל־הַיְּהוּדִ֗ים אֶל־שְׁלֹ֨שׁ וּשְׁלֹשִׁ֤ים מְדִינָה֙ וַחֲבָלִ֣ים שִׁבְעָ֔ה מֶמְשֶׁ֖לֶת לִינְק֑וֹן דִּבְרֵ֥י שָׁל֖וֹם וֶאֱמֶֽת׃ וּמַאֲמַר֙ קֵיסָ֣ר קַסְקֶ֔ל קִיַּ֕ם דִּבְרֵ֥י הַפֻּרִ֖ים הַאֵ֑לֶּה וְנִכְתָּ֖ב בַּסֵּֽפֶר׃
 </span></div></td>
  
 <td style="vertical-align:top;">
 <div class="english">
 <sup>5:1</sup>&nbsp;And the Jews wrote these things and sent out papers to all the states of the president, near and far, <sup>2</sup>&nbsp;to accept upon themselves to make the thirteenth day of the month of Tevet and the twenty-sixth day of it, every year, <sup>3</sup>&nbsp;as the days when the Jews rested from their enemies, and the month when it was overturned for them from sorrow to joy, and from mourning to a good day, to make them days of feasting and joy and giving gifts to one another and gifts to the poor. <sup>4</sup>&nbsp;And the Jews accepted what they had begun to do, and what Cesar Kaskel wrote for them. <sup>5</sup>&nbsp;For Ulysses (the son of Jesse Root) Grant had thought to expel the Jews, and sent out a rule to banish and exile them. <sup>6</sup>&nbsp;And when it came before the president, he said, “With this paper, let his evil thought that he thought against the Jews return on his head!” <sup>7</sup>&nbsp;Thus they called these days Lincoln’s Purim, for the name of the president, thus for all the words of this letter, and what they saw about how, and what had befallen them. <sup>8</sup>&nbsp;The Jews of the United States established and accepted upon them and their descendants and all who would join them — never to be passed — to do these two days as written at their time every single year. <sup>9</sup>&nbsp;And these days are remembered and done in every generation, every family, every state, every city, and these Purim days will not be passed from among the Jews, and their memory will not cease from their seed. <sup>10</sup>&nbsp;And they sent out papers to all the Jews, to the thirty-three states and seven territories of the government of Lincoln, words of peace and truth. <sup>11</sup>&nbsp;And the word of Cesar Kaskel established these Purim days and it was written in a book.[foot]These letters and this book do not <em>per se</em> exist, but an important part of the Purim Sheni scroll structure is establishing the holiday's legitimacy so the editor saw fit to indulge in a bit of pseudo-historical fancy in order to serve this purpose.[/foot]
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
+פרק ו׳
+&nbsp;
+https://archive.org/download/megillat-lincoln-chapter-5-isaac-gantwerk-mayer-2020/Megillat%20Lincoln%20-%20Chapter%206%20%28Isaac%20Gantwerk%20Mayer%202020%29.mp3
+</span></div></td>
+ 
+<td style="vertical-align:top;">
+<div class="english">
+Chapter 6
 </div></td></tr>
 
 
@@ -114,38 +192,6 @@ This megillah, styled after other Second Purim megillot, celebrates this victory
 <sup>6:4</sup>&nbsp;And now, the Returner of children to their borders, just as You returned the Jews of Tennessee and Mississippi and Kentucky from their exile to their land, thus return us to our land and let us rejoice in our borders. <sup>5</sup>&nbsp;The sowers in tears in joy will reap. <sup>6</sup>&nbsp;One who goes, goes a-weeping, bearing their seed-pouch, will come, come a-cheering, lifting their sheaves.[foot]Psalms 126:5-6.[/foot] <sup>7</sup>&nbsp;Blessed are You, who argues our arguments, and pleads our pleas, and avenges our vengeances, and fully repays our enemies, and redeems us from our enemies. <sup>8</sup>&nbsp;Blessed our You, who redeems Israel from all their enemies, Saving God.[foot]The benediction after the Megillah reading, with God’s name removed so as to avoid a brakhah levatalah.[/foot]
 </div></td></tr>
 </tbody></table>
-
-<hr />
-
-<h3>Recordings</h3>
-
-Chapter 1
-https://archive.org/download/megillat-lincoln-chapter-5-isaac-gantwerk-mayer-2020/Megillat%20Lincoln%20-%20Chapter%201%20%28Isaac%20Gantwerk%20Mayer%202020%29.mp3
-
-&nbsp;
-
-Chapter 2
-https://archive.org/download/megillat-lincoln-chapter-5-isaac-gantwerk-mayer-2020/Megillat%20Lincoln%20-%20Chapter%202%20%28Isaac%20Gantwerk%20Mayer%202020%29.mp3
-
-&nbsp;
-
-Chapter 3
-https://archive.org/download/megillat-lincoln-chapter-5-isaac-gantwerk-mayer-2020/Megillat%20Lincoln%20-%20Chapter%203%20%28Isaac%20Gantwerk%20Mayer%202020%29.mp3
-
-&nbsp;
-
-Chapter 4
-https://archive.org/download/megillat-lincoln-chapter-5-isaac-gantwerk-mayer-2020/Megillat%20Lincoln%20-%20Chapter%204%20%28Isaac%20Gantwerk%20Mayer%202020%29.mp3
-
-&nbsp;
-
-Chapter 5
-https://archive.org/download/megillat-lincoln-chapter-5-isaac-gantwerk-mayer-2020/Megillat%20Lincoln%20-%20Chapter%205%20%28Isaac%20Gantwerk%20Mayer%202020%29.mp3
-
-&nbsp;
-
-Chapter 6
-https://archive.org/download/megillat-lincoln-chapter-5-isaac-gantwerk-mayer-2020/Megillat%20Lincoln%20-%20Chapter%206%20%28Isaac%20Gantwerk%20Mayer%202020%29.mp3
 
 &nbsp;
 </body>

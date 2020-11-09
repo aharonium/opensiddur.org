@@ -17,7 +17,7 @@ For attribution and license, please consult the following URL: <a href="http://o
  
 <td style="vertical-align:top;">
 <div class="english">
-O Thou still, small voice
+O Thou still, small voice[foot]Cf. 1 Kings 19:11-13.[/foot]
 whose love
 is the heart of the universe,
 my whispering soul

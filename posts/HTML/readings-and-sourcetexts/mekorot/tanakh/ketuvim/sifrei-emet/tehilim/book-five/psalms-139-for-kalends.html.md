@@ -146,8 +146,8 @@ When as yet there was none of them.
 </div></span></td>
  
 <td  style="vertical-align:top;"><div class="english">
-<sup>17</sup>&nbsp;How weighty also are your thoughts unto me, 
-El! How great is the sum of them! 
+<sup>17</sup>&nbsp;How weighty also are your thoughts unto me, El!
+How great is the sum of them! 
 <sup>18</sup>&nbsp;If I would count them, they are more in number than the sand; 
 Were I to come to the end of them, I would still be with you.
 </div>

@@ -1973,7 +1973,7 @@ commanding us to wash our hands.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%"><div class="english">
-The familiar hamotzi blessing marks the formal start of the meal. Because we are using matzah instead of bread, we add a blessing celebrating this mitzvah.
+The familiar hamotzi blessing marks the formal start of the meal. Because we are using matzah instead of bread, we add a blessing celebrating this mitsvah.
 </div></td></tr>
 
 

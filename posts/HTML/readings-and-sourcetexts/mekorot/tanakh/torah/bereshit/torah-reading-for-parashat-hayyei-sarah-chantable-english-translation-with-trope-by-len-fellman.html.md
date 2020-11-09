@@ -9,14 +9,9 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <style type="text/css" media="all">.printfriendly {display: none!important;}</style>
 
-<strong>DOWNLOAD:</strong> <a href="https://archive.org/download/ParashatHayyeiSarahTorahReadingWithEnglishTranstropilationLenFellman2018/ParashatHayyeiSarahTorahReadinggenesis23v1-25v18InEnglishTranstropilationWithAudiolenFellman2018.pdf">PDF</a> (Hebrew and English w/ audio) | <a href="https://archive.org/download/ParashatHayyeiSarahTorahReadingWithEnglishTranstropilationLenFellman2018/ParashatHayyeiSarahTorahReadinggenesis23v1-25v18InEnglishTranstropilationlenFellman2018.odt">ODT</a> and <a href="https://archive.org/download/ParashatHayyeiSarahTorahReadingWithEnglishTranstropilationLenFellman2018/ParashatHayyeiSarahTorahReadinggenesis23v1-25v18InEnglishTranstropilationlenFellman2018.pdf">PDF</a> (with Hebrew sans audio) | <a href="https://archive.org/download/ParashatHayyeiSarahTorahReadingWithEnglishTranstropilationLenFellman2018/ParashatHayyeiSarahTorahReadinggenesis23v1-25v18InEnglishTranstropilationlenFellman2018-EnglishOnly.odt">ODT</a> and <a href="https://archive.org/download/ParashatHayyeiSarahTorahReadingWithEnglishTranstropilationLenFellman2018/ParashatHayyeiSarahTorahReadinggenesis23v1-25v18InEnglishTranstropilationlenFellman2018-EnglishOnly.pdf">PDF</a> (English only)
-
-Genesis 23:1-23 [su_audio url="https://archive.org/download/ParashatHayyeiSarahTorahReadingWithEnglishTranstropilationLenFellman2018/Len%20Fellman%20-%20Genesis%2023%2C%201-20%20%28Hebrew%20and%20English%29.mp3" width="60%"]
-
-Genesis 24:1-67 [su_audio url="https://archive.org/download/ParashatHayyeiSarahTorahReadingWithEnglishTranstropilationLenFellman2018/Len%20Fellman%20-%20Genesis%2024%2C%201-67%20%28Hebrew%20and%20English%29.mp3" width="60%"]
-
-Genesis 25:7-11 [su_audio url="https://archive.org/download/ParashatHayyeiSarahTorahReadingWithEnglishTranstropilationLenFellman2018/Len%20Fellman%20-%20Genesis%2025%2C%207-11%20%28Hebrew%20and%20English%29.mp3" width="60%"]
-
+<strong>DOWNLOAD:</strong> 
+<a href="https://archive.org/download/parashat-hayyei-sarah-torah-reading-with-english-transtropila/Parashat%20Hayyei%20Sarah%20Torah%20Reading%20%28Genesis%2023v1-25v18%29%20In%20English%20Transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.pdf">PDF</a> | <a href="https://archive.org/download/parashat-hayyei-sarah-torah-reading-with-english-transtropila/Parashat%20Hayyei%20Sarah%20Torah%20Reading%20%28Genesis%2023v1-25v18%29%20In%20English%20Transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.odt">ODT</a> (sans Hebrew)
+<a href="https://archive.org/download/parashat-hayyei-sarah-torah-reading-with-english-transtropila/Parashat%20Hayyei%20Sarah%20Torah%20Reading%20%28Genesis%2023v1-25v18%29%20In%20English%20Transtropilation%20%28Len%20Fellman%202020%29.pdf">PDF</a> | <a href="https://archive.org/download/parashat-hayyei-sarah-torah-reading-with-english-transtropila/Parashat%20Hayyei%20Sarah%20Torah%20Reading%20%28Genesis%2023v1-25v18%29%20In%20English%20Transtropilation%20%28Len%20Fellman%202020%29.odt">ODT</a> (with Hebrew)
 
 <hr />
 
@@ -24,6 +19,24 @@ This is an English translation of Genesis 23:1–25:18, the Torah reading for Pa
 
 <h3>Source</h3>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/ParashatHayyeiSarahTorahReadingWithEnglishTranstropilationLenFellman2018#page/n0/mode/2up"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/parashat-hayyei-sarah-torah-reading-with-english-transtropila/Parashat%20Hayyei%20Sarah%20Torah%20Reading%20%28Genesis%2023v1-25v18%29%20In%20English%20Transtropilation%20%28Len%20Fellman%202020%29#page/n0/mode/2up"]
+
+<h3>Recordings</h3>
+
+Genesis 23:1-23 
+https://archive.org/download/parashat-hayyei-sarah-torah-reading-with-english-transtropila/Len%20Fellman%20-%20Genesis%2023v1-20%20%28Hebrew%20and%20English%29.mp3
+
+Genesis 24:1-67 
+https://archive.org/download/parashat-hayyei-sarah-torah-reading-with-english-transtropila/Len%20Fellman%20-%20Genesis%2024v1-67%20%28Hebrew%20and%20English%29.mp3
+
+Genesis 25:7-11 
+https://archive.org/download/parashat-hayyei-sarah-torah-reading-with-english-transtropila/Len%20Fellman%20-%20Genesis%2025v7-11%20%28Hebrew%20and%20English%29.mp3
+
+&nbsp;
+
+<hr />
+
+&nbsp;
+
 </body>
 </html>

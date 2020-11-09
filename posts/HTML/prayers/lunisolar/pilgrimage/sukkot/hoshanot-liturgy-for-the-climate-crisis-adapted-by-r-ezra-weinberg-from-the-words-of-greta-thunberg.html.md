@@ -8,14 +8,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 <hr />
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;"><a href="https://opensiddur.org/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute&nbsp;a&nbsp;translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <em>Hoshana!</em>  <em>Hoshana!</em>  <em>Hoshana!</em> <em>Hoshana!</em>
 <em>Hoshana!</em>  People <span class="acrostic">a</span>re suffering.  <em>Hoshana!</em> (SAVE US NOW!)
@@ -31,12 +31,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <em>Hoshana!</em>  <a href="https://opensiddur.org/readings-and-sourcetexts/mekorot/non-canonical/modern/dream-martin-luther-king-jr-haftarah-reading-mlk-shabbat-cantillation-added-rabbi-david-evan-markus/">I also have a dream</a> (ML<span class="acrostic">K</span> <span class="acrostic">J</span>r). <em>Hoshana!</em> (SAVE US NOW!)
 <em>Hoshana!</em>  That governments, political parties and corporations grasp the urgency of the cli<span class="acrostic">m</span>ate crisis.  <em>Hoshana!</em>  
@@ -53,12 +53,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <em>Hoshana!</em>  It’s time to face the reality, the facts, the science.  <em>Hoshana!</em> (SAVE US NOW!) 
 <em>Hoshana!</em>  Science doesn’t speak of “great opportunities” to create the society we always wanted.  <em>Hoshana!</em>  
@@ -72,12 +72,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <em>Hoshana!</em>  So where do we begin?  <em>Hoshana!</em> (SAVE US NOW!)
 <em>Hoshana!</em>  I would suggest that we start looking at <a href="https://www.ipcc.ch/site/assets/uploads/sites/2/2019/02/SR15_Chapter2_Low_Res.pdf">chapter 2, on page 108 in the IPCC report</a> that came out last year. <em>Hoshana!</em>  
@@ -104,6 +104,6 @@ The "Hoshanot liturgy for Climate Crisis" by Reb Ezra Weinberg, adapting the wor
 
 <h3>Source(s)</h3>
 
-[gview file="https://opensiddur.org/wp-content/uploads/2019/10/Hoshanot-Liturgy-for-the-Climate-Crisis-Ezra-Weinberg-after-Greta-Thunberg-2019.pdf"]
+https://opensiddur.org/wp-content/uploads/2019/10/Hoshanot-Liturgy-for-the-Climate-Crisis-Ezra-Weinberg-after-Greta-Thunberg-2019.pdf
 </body>
 </html>

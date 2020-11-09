@@ -32,7 +32,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <div class="english">
 Sanoi, Sansanoi, Semanglaf[foot]Protecting angels common in childbirth charms whose significance to wards against Lilith is explained in the <em>Alphabet of ben Sira</em>.[/foot]
 Adam and Primæval Ḥavah:[foot]i.e., another name for Lilith. --ANV[/foot] 
-out Lilit![foot]Montgomery originally had published this as "אדם יהוה קדמונה חיין לילית" where either he or Gottheil had misread וחוה (and Eve) as יהוה (the Tetragrammaton) and חוץ לילית ׁ(out Lilith!) as חיין לילית ׁ (ָLilith life). The latter, while plauisible given that the agreement the ward is based upon essentially guarantees Lilith remains alive so long as her names are repeated. However, the much more familiar formula is the former -- חוץ לילית ׁ(out Lilith!). I suspect that the vav and upper right arm of the tsaddi sofit were misread as two yuds and a nun sofit. --ANV[/foot]
+out Lilit![foot]Montgomery originally had published this as "אדם יהוה קדמונה חיין לילית" where either he or Gottheil had misread וחוה (and Eve) as יהוה (the Tetragrammaton) and חוץ לילית ׁ(out Lilit!) as חיין לילית ׁ (ָLilit alive!). The latter, while plauisible given that the agreement the ward is based upon essentially guarantees Lilith remains alive so long as her names are repeated. However, the much more familiar formula is the former -- חוץ לילית ׁ(out Lilit!). I suspect that the vav and upper right arm of the tsaddi sofit (וץ) were misread as two yuds and a nun sofit (יין). --ANV[/foot]
 </div></td></tr>
 
 

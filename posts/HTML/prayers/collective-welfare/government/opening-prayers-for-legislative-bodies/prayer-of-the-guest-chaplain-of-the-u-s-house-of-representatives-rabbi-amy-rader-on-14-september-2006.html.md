@@ -19,7 +19,7 @@ Rabbi Rader is an excellent leader and role model for the Jewish community, and 
 
 After having studied in both Jerusalem and Los Angeles, Rabbi Rader was ordained by the Jewish Theological Seminary of America in New York City in 1999. Rabbi Rader also served as the rabbi for the Lakeland Hills Jewish Center in New Jersey, and was the first Jewish chaplain at Methodist Hospital in her hometown of Minneapolis.
 
-Rabbi Rader is now an associate rabbi at B'nai Torah Congregation in Boca Raton, where she directs their Mitzvah program. In her 4 years in the Boca Raton community, Rabbi Rader has earned a reputation as a compassionate pastoral counselor as well as an inspiring teacher and lecturer. I am honored to have her here with us today.
+Rabbi Rader is now an associate rabbi at B'nai Torah Congregation in Boca Raton, where she directs their mitsvah program. In her 4 years in the Boca Raton community, Rabbi Rader has earned a reputation as a compassionate pastoral counselor as well as an inspiring teacher and lecturer. I am honored to have her here with us today.
 
 [Rabbi Rader was also honored with <a href="https://www.congress.gov/congressional-record/2006/9/15/extensions-of-remarks-section/article/e1741-1">a tribute</a> by Rep. Robert Ira Wexler (D-FL).]
 </blockquote>

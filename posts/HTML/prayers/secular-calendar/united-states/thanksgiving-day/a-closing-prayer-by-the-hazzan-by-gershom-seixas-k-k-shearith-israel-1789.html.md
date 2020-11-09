@@ -8,54 +8,64 @@ For attribution and license, please consult the following URL: <a href="http://o
 <hr />
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;">Partially Reconstructed Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
-
+יְהִי יְהוָה אֱלֹהֵינוּ עִמָּנוּ כַּאֲשֶׁר הָיָה עִם־אֲבֹתֵינוּ 
+אַל־יַעַזְבֵנוּ וְאַל־יִטְּשֵׁנוּ׃
+לְהַטּוֹת לְבָבֵנוּ אֵלָיו 
+לָלֶכֶת בְּכָל־דְּרָכָיו 
+וְלִשְׁמֹר מִצְוֺתָיו 
+וְחֻקָּיו וּמִשְׁפָּטָיו אֲשֶׁר צִוָּה אֶת־אֲבֹתֵינוּ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 May the Lord our God be with us, as he was with our fathers; 
 may he never leave us or forsake us; 
 that he may incline our hearts unto him, 
 to walk in all his ways, 
 to keep his commandments, 
-his statutes and his judgments which he commanded our fathers. 
+his statutes and his judgments which he commanded our fathers.[foot]I Kings 8:57-58.[/foot] 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
-
+וְיִהְיוּ דְבָרַי אֵלֶּה 
+אֲשֶׁר הִתְחַנַּנְתִּי לִפְנֵי יְהוָה 
+קְרֹבִים אֶל־יְהוָה אֱלֹהֵינוּ יוֹמָם וָלָיְלָה 
+לַעֲשׂוֹת מִשְׁפַּט עַבְדּוֹ 
+וּמִשְׁפַּט עַמּוֹ יִשְׂרָאֵל 
+דְּבַר־יוֹם בְּיוֹמוֹ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 And may these my words, 
 wherewith I have made supplication before the Lord, 
 be nigh unto the Lord our God, day and night, 
 that he maintain the cause of his servant, 
 and the cause of his people Israel, 
-at all times, as the matter shall require.
+at all times, as the matter shall require.[foot]I Kings 8:59.[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 שֶׁיֵדְעוּ כׇּל יוֹשְׁבֵי תֵבֵל
-כִּי יְיָ הוּא אֱלֹהִים וְאֵין עוֹד
+כִּי יְיָ הוּא אֱלֹהִים וְאֵין עוֹד׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
-That all the people of the earth may know[foot]from the prayer, <em>Aleinu</em>.[/foot]
-that the Lord he is God and none else.[foot]Deuteronomy 4:35 part.[/foot]
+That all the people of the earth may know
+that the Lord he is God and none else.[foot]I Kings 8:60.[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 לֹא־יָמוּשׁ סֵפֶר הַתּוֹרָה הַזֶּה מִפִּיךָ 
 וְהָגִיתָ בּוֹ יוֹמָם וָלַיְלָה 
@@ -64,17 +74,17 @@ that the Lord he is God and none else.[foot]Deuteronomy 4:35 part.[/foot]
 וְאָז תַּשְׂכִּיל׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 This book of the law shall not depart from thy mouth; 
 and thou shalt meditate therein day and night, 
 that thou mayest observe to do according to all that is written therein: 
 for then shalt thou make thy way prosperous, 
-and then shalt thou be prudent.[foot]Joshua 1:8[/foot]
+and then shalt thou be prudent.[foot]Joshua 1:8.[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 הֲלוֹא צִוִּיתִיךָ 
 חֲזַק וֶאֱמָץ 
@@ -83,35 +93,35 @@ and then shalt thou be prudent.[foot]Joshua 1:8[/foot]
 בְּכֹל אֲשֶׁר תֵּלֵךְ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 Have I not commanded thee? 
 Be strong and of good courage;
 be not afraid, neither be thou dismayed: 
 for the Lord thy God is with thee 
-whithersoever thou goest.[foot]Joshua 1:9[/foot]
+whithersoever thou goest.[foot]Joshua 1:9.[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
-יִהְיוּ לְרָצוֹן אִמְרֵי־פִי וְהֶגְיוֹן לִבִּי לְפָנֶיךָ 
-יְהוָה צוּרִי וְגֹאֲלִי׃
+תְּקֻבַּל בְּרַחֲמִים וּבְרָצוֹן תְּפִלָּתֵנוּ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
-[May the words of my mouth and the prayer of my heart be acceptable to You, 
-O LORD, my rock and my redeemer.][foot]Psalms 19:15. The prayer ends as transcribed, "May our Prayers be acceptable, etc. etc."[/foot]
+May our prayers be accepted with loving favor.
 </div></td></tr>
 </tbody></table>
 
 <hr />
 
-This "Prayer by the Ḥazzan" by Gershom Seixas can be found on the last page of <em>A Religious Discourse Delivered in the Synagogue in this City, on Thursday the 26th November, 1789. Agreeable to the Proclamation of the President of the United States of America, to be Observed as a Day of Public Thanksgiving and Prayer.</em>. It appears to have been offered as a ḥatimah (closing) prayer for the special Thanksgiving Day service by K.K. Shearith Israel in 1789.
+This "Prayer by the Ḥazzan" by Gershom Seixas can be found on the last page of <em>A Religious Discourse Delivered in the Synagogue in this City, on Thursday the 26th November, 1789. Agreeable to the Proclamation of the President of the United States of America, to be Observed as a Day of Public Thanksgiving and Prayer.</em>. It appears to have been offered as a ḥatimah (closing) prayer for the special Thanksgiving Day service by K.K. Shearith Israel in 1789. As Zachary Edinger has noted in the comments below, "This is also a regular part of the Sephardic liturgy for the return of the sefer on shabbat morning" (<a href="https://archive.org/details/DavidDeSolaPoolSederTefilotBookOfPrayer1960/page/n450/mode/2up">as can be found here</a>).
 
 <h3>Source(s)</h3>
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/AReligiousDiscourseDeliveredInTheSynagogueInThisCityGershomSeixas1789#page/n15/mode/2up"]
+
+&nbsp;
 </body>
 </html>

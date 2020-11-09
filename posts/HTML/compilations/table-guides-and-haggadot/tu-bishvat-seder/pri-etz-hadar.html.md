@@ -95,7 +95,7 @@ The punishments [for these transgressions] also apply to someone who sees specie
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
-In order to effect this tikkun, it is fitting for us to eat all kinds of fruit on this very day and to bless them with this intention. For a mitzvah is best when performed at the proper time.
+In order to effect this tikkun, it is fitting for us to eat all kinds of fruit on this very day and to bless them with this intention. For a mitsvah is best when performed at the proper time.
 </div></td></tr>
 
 
@@ -245,7 +245,7 @@ Moreover the person performing the <em>tikkun</em> can also be affected. For thr
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
-My teacher used to say that one should intend through eating the fruit to correct the sin that Adam committed with the fruit of the tree. Even though our intention is directed toward this end all the days of the year, a <em>mitzvah</em> is best when observed at its proper time, and this day is the beginning for fruit of the tree. 
+My teacher used to say that one should intend through eating the fruit to correct the sin that Adam committed with the fruit of the tree. Even though our intention is directed toward this end all the days of the year, a <em>mitsvah</em> is best when observed at its proper time, and this day is the beginning for fruit of the tree. 
 </div></td></tr>
 
 
@@ -811,7 +811,7 @@ Afterwards, everyone should drink a cup of red wine with a little bit of white w
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
-Wherever all thirty of the fruits mentioned above, whose roots are in the worlds of Creation, Formation, and Making, can be found, it is a mitzvah to obtain them. For whoever does much is surely worthy of praise. However, wherever they are not all available, there should be no less than twelve types of fruit, corresponding to the fruit of the supernal tree, the Tree of Life. It is established as a Holy Tree in twelve directions, the secret of the twelve permutations of the Name, YHVH. For each of these the kavvanah should be one of the twelve permutations, according to the order mentioned above . . . .
+Wherever all thirty of the fruits mentioned above, whose roots are in the worlds of Creation, Formation, and Making, can be found, it is a mitsvah to obtain them. For whoever does much is surely worthy of praise. However, wherever they are not all available, there should be no less than twelve types of fruit, corresponding to the fruit of the supernal tree, the Tree of Life. It is established as a Holy Tree in twelve directions, the secret of the twelve permutations of the Name, YHVH. For each of these the kavvanah should be one of the twelve permutations, according to the order mentioned above . . . .
 </div></td></tr>
 
 

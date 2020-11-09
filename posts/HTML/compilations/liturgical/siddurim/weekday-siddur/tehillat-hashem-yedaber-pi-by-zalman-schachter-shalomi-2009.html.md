@@ -14,7 +14,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <a class="download" href="https://opensiddur.org/wp-content/uploads/2009/10/Siddur-Tehillat-HaShem-Yidaber-Pi.txt">TXT</a> Siddur Tehillat HaShem Y'daber Pi -- Weekdays and Sabbath Supplement
 
-<a class="download" href="https://opensiddur.org/wp-content/uploads/2009/10/Reb-Zalmans-Psalms-utf-8.txt">TXT</a> Reb Zalman's translation of select Tehillim (Psalms: 6, 15, 24, 25, 30, 48, 67, 81-82, 93-94, 100, 104, 139, 145-150)
+<a class="download" href="https://opensiddur.org/wp-content/uploads/2009/10/Reb-Zalmans-Psalms-utf-8.txt">TXT</a> Reb Zalman's translation of select Tehillim (6, 15, 24, 25, 30, 48, 67, 81-82, 93-94, 100, 104, 139, 145-150)
 
 When Reb Zalman shared his siddur with the Open Siddur Project in 2009, it was the first contribution of a contemporary translation of the siddur with an Open Content license. Thank you so much, Reb Zalman!
 

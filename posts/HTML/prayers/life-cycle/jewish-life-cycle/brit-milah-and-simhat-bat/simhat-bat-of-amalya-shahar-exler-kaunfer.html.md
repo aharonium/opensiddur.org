@@ -604,7 +604,7 @@ And may you live to see your children’s children.  Peace be upon Israel. (Psal
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<h3>Seudat Mitzvah – Festive Meal</h3>
+<h3>Seudat mitsvah – Festive Meal</h3>
 </div></td></tr>
 
 
@@ -615,7 +615,7 @@ And may you live to see your children’s children.  Peace be upon Israel. (Psal
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Please join us for a <em>seudat mitzvah</em> (festive meal) followed by a special <em>birkhat hamazon</em> (grace after meals) in honor of Amalya’s Simḥat Bat.
+Please join us for a <em>seudat mitsvah</em> (festive meal) followed by a special <em>birkhat hamazon</em> (grace after meals) in honor of Amalya’s Simḥat Bat.
 </div></td></tr>
 
 

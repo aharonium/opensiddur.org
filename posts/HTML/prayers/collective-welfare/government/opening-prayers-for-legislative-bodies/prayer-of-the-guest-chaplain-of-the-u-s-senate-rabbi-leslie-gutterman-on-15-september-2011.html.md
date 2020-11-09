@@ -23,7 +23,7 @@ The PRESIDING OFFICER. The Senator from Rhode Island.
 
 Mr. WHITEHOUSE. Mr. President, it is a great honor and a great pleasure to join my senior Senator Jack Reed in welcoming Rabbi Leslie Gutterman from Providence, RI, here onto the Senate floor to open the Senate on this day by leading us in prayer.
 
-Rabbi Gutterman is a personal friend, but he is more than that. He is a person of real significance in the Rhode Island community. He has served as the rabbi of Temple Beth El for 40 years, which means he has officiated at the weddings of the children of people whose bar mitzvahs at which he officiated, and he has officiated at the bar mitzvahs of the grandchildren of people whose weddings at which he officiated. He is an important part of the Rhode Island community. He has been described as a community asset and a moral compass for Rhode Island. In addition, he is just a beautiful person.
+Rabbi Gutterman is a personal friend, but he is more than that. He is a person of real significance in the Rhode Island community. He has served as the rabbi of Temple Beth El for 40 years, which means he has officiated at the weddings of the children of people whose bar mitsvahs at which he officiated, and he has officiated at the bar mitsvahs of the grandchildren of people whose weddings at which he officiated. He is an important part of the Rhode Island community. He has been described as a community asset and a moral compass for Rhode Island. In addition, he is just a beautiful person.
 
 He and his wife Janet have come here today to join us, and we are very proud and delighted that we could share this moment of the morning with our colleagues and with Rabbi Gutterman.
 

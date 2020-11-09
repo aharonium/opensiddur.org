@@ -154,7 +154,7 @@ The Sages felt kindly towards trees and cared for their welfare and health.   Th
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Just like human beings, trees have their own birthday and New Year, a sort of Bar Mitzvah, marking their no longer being <em>orlah</em> (their fruit forbidden because of the trees’ young age).   Trees are dormant in winter and awaken to drink the water that grows warmer from the second ember in the middle of the month of Shvat, so that they can produce their fruit in due season and enable us to recite a benediction over trees and the fruit they bear.
+Just like human beings, trees have their own birthday and New Year, a sort of Bar mitsvah, marking their no longer being <em>orlah</em> (their fruit forbidden because of the trees’ young age).   Trees are dormant in winter and awaken to drink the water that grows warmer from the second ember in the middle of the month of Shvat, so that they can produce their fruit in due season and enable us to recite a benediction over trees and the fruit they bear.
 </div></td></tr>
 
 

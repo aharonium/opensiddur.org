@@ -12,42 +12,42 @@ Today I turned my heart toward the new year and wrote a prayer-poem for Tashlikh
 </div>
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;"><a href="https://opensiddur.org/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">English (source)</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">English (source)</th></tr></thead>
 <tbody>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;" >
 <div class="english">
 <u>The Offering: A Tashlikh Prayer</u>
 </div>
 </td></tr>
 
 
-<tr><td style="vertical-align: top;" width="46%">
+<tr><td style="vertical-align: top;">
 <div class="liturgy" style="text-align: right;"><span lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;" >
 <div class="english">
 I cast this gift to the water.
 </div>
 </td></tr>
 
 
-<tr><td style="vertical-align: top;" width="46%">
+<tr><td style="vertical-align: top;">
 <div class="liturgy" style="text-align: right;"><span lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;" >
 <div class="english">
 It is my past: blessing and regret.
 It is my present: reflection and listening.
@@ -56,13 +56,13 @@ It is my future: intention and mystery.
 </td></tr>
 
 
-<tr><td style="vertical-align: top;" width="46%">
+<tr><td style="vertical-align: top;">
 <div class="liturgy" style="text-align: right;"><span lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;" >
 <div class="english">
 It is what I did
 and did not;
@@ -71,13 +71,13 @@ it is yes and no and silence.
 </td></tr>
 
 
-<tr><td style="vertical-align: top;" width="46%">
+<tr><td style="vertical-align: top;">
 <div class="liturgy" style="text-align: right;"><span lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;" >
 <div class="english">
 It is what was done
 and what arose from what was done 
@@ -86,13 +86,13 @@ and what arises in this body remembering.
 </td></tr>
 
 
-<tr><td style="vertical-align: top;" width="46%">
+<tr><td style="vertical-align: top;">
 <div class="liturgy" style="text-align: right;"><span lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;" >
 <div class="english">
 I let it all go. I own
 neither the sting nor the sweetness.
@@ -101,13 +101,13 @@ I hold on to nothing.
 </td></tr>
 
 
-<tr><td style="vertical-align: top;" width="46%">
+<tr><td style="vertical-align: top;">
 <div class="liturgy" style="text-align: right;"><span lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;" >
 <div class="english">
 The river has no past. 
 Each moment of rushing water
@@ -116,13 +116,13 @@ Is a new beginning.
 </td></tr>
 
 
-<tr><td style="vertical-align: top;" width="46%">
+<tr><td style="vertical-align: top;">
 <div class="liturgy" style="text-align: right;"><span lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;" >
 <div class="english">
 Harm that has been:
 heal in the rush of love and truth and time.
@@ -132,13 +132,13 @@ let the current take us homeward.
 </td></tr>
 
 
-<tr><td style="vertical-align: top;" width="46%">
+<tr><td style="vertical-align: top;">
 <div class="liturgy" style="text-align: right;"><span lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;" >
 <div class="english">
 May these waters churn what is broken
 into what is whole.
@@ -148,13 +148,13 @@ reach the ocean that is becoming.
 </td></tr>
 
 
-<tr><td style="vertical-align: top;" width="46%">
+<tr><td style="vertical-align: top;">
 <div class="liturgy" style="text-align: right;"><span lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;" >
 <div class="english">
 The journey awaits.
 I have no power to refrain from it;
@@ -163,13 +163,13 @@ only to steer it when I can.
 </td></tr>
 
 
-<tr><td style="vertical-align: top;" width="46%">
+<tr><td style="vertical-align: top;">
 <div class="liturgy" style="text-align: right;"><span lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;" >
 <div class="english">
 May the One who is
 the great Crossroad
@@ -178,13 +178,13 @@ guide my turning.
 </td></tr>
 
 
-<tr><td style="vertical-align: top;" width="46%">
+<tr><td style="vertical-align: top;">
 <div class="liturgy" style="text-align: right;"><span lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;" >
 <div class="english">
 Three times I declare:
 It is finished.
@@ -194,13 +194,13 @@ It is unending.
 </td></tr>
 
 
-<tr><td style="vertical-align: top;" width="46%">
+<tr><td style="vertical-align: top;">
 <div class="liturgy" style="text-align: right;"><span lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;" >
 <div class="english">
 Three times I listen:
 It is love.
@@ -210,13 +210,13 @@ It is before me.
 </td></tr>
 
 
-<tr><td style="vertical-align: top;" width="46%">
+<tr><td style="vertical-align: top;">
 <div class="liturgy" style="text-align: right;"><span lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;" >
 <div class="english">
 May my offering go where it is meant to go
 and may the one who offers it
@@ -225,19 +225,21 @@ find the way.
 </td></tr>
 
 
-<tr><td style="vertical-align: top;" width="46%">
+<tr><td style="vertical-align: top;">
 <div class="liturgy" style="text-align: right;"><span lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;" >
 <div class="english">
 <em>Amen</em>.
 </div>
 </td></tr>
 </tbody></table>
 
-[su_spacer size="100"]
+<hr />
+
+&nbsp;
 </body>
 </html>

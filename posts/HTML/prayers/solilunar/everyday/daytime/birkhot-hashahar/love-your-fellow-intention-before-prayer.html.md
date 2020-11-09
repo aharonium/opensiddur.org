@@ -26,7 +26,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
-I hereby take upon myself the mitzvah, "Love your neighbor as yourself."[foot]Leviticus 19:18[/foot]
+I hereby take upon myself the mitsvah, "Love your neighbor as yourself."[foot]Leviticus 19:18[/foot]
 </div></td></tr>
 
 

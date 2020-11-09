@@ -21,7 +21,7 @@ Furthermore, we know that this scroll was read in public at different times and 
 
 In Maḥzor Kaffa, which was published in the Crimea in 1735, the Scroll of Antiochus is printed in Hebrew and preceded by the following instructions: "It is customary to read Megillat Antiochus during Minḥah [the afternoon service on Shabbat] after <em>kaddish titkabbel</em> [the Reader's Kaddish] in order to publicize the miracle [of Ḥanukkah]..."
 
-Rabbi Yahya ben Yosef Zalih, who was the leading rabbi in San'a, Yemen, ca. 1715, says "that some read Megillat Antiochus on Shabbat [of Ḥanukkah] after the <em>haftarah</em> [reading from the Prophets]. This is not required; it is only a general mitzvah to publicize the miracle among the Jewish people."
+Rabbi Yahya ben Yosef Zalih, who was the leading rabbi in San'a, Yemen, ca. 1715, says "that some read Megillat Antiochus on Shabbat [of Ḥanukkah] after the <em>haftarah</em> [reading from the Prophets]. This is not required; it is only a general mitsvah to publicize the miracle among the Jewish people."
 
 But Rabbi Amram Zabban of G'ardaya in the Sahara Desert viewed this reading as a requirement. In his Sefer Ḥasdey Avot, published in 1926, he states:
 

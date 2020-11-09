@@ -10,72 +10,85 @@ For attribution and license, please consult the following URL: <a href="http://o
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֹתֵֽינוּ
-קַבֵּל נָא בְּרַחַמִים אֶת־תְּפִלָּתֵֽנוּ בְּעַד אַרְצֵֽנוּ וּמֶמְשַׁלְתָּהּ. 
+קַבֵּל נָא בְּרַחַמִים אֶת־תְּפִלָּתֵֽנוּ 
+בְּעַד אַרְצֵֽנוּ וּמֶמְשַׁלְתָּהּ. 
 הָרֵק אֶת־בּרְכָתְךָ ע֚ל הָאָֽרֶץ הַזֺּאת 
-עַל נְשִׂיאָהּ שׁוֹפְטֶֽיהָ שׁוֹטְרֶֽיהָ וּפְקִידֶֽהָ הָעוֹסְקִים בְצָרְכֵי צִבּוּר בֶּאֱמוּנָה. 
-הוֹרֵם מֵחֻקֵּי תוֺרָתֶֽךָ הַבִינֵם מִשְׁפְּטֵי צִדְקֶֽךָ 
-לְמַֽעַן לֺא יָסוּרוּ מֵאַרְצֵֽנוּ שָׁלוֹם וְשַׁלְוָה אֺֽשֶׁר וָחֺֽפֶשׁ כּל־הַיָּמִים. 
-</span></div>
-</td>
+עַל נְשִׂיאָהּ שׁוֹפְטֶֽיהָ שׁוֹטְרֶֽיהָ וּפְקִידֶֽהָ 
+הָעוֹסְקִים בְצָרְכֵי צִבּוּר בֶּאֱמוּנָה. 
+הוֹרֵם מֵחֻקֵּי תוֺרָתֶֽךָ 
+הַבִינֵם מִשְׁפְּטֵי צִדְקֶֽךָ 
+לְמַֽעַן לֺא יָסוּרוּ מֵאַרְצֵֽנוּ שָׁלוֹם וְשַׁלְוָה 
+אֺֽשֶׁר וָחֺֽפֶשׁ כּל־הַיָּמִים. 
+</span></div></td>
  
-<td width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 Our God and God of our ancestors:
-Accept with mercy our prayer for our land and its government. 
+Accept with mercy our prayer 
+for our land and its government. 
 Pour out your blessing on this land, 
-on its President, judges, officers and officials, who work faithfully for the public good. 
-Teach them from the laws of Your Torah, enlighten them with the rules of Your justice, 
-so that peace, tranquility, happiness and freedom will never depart from our land. 
-</div></td>
-</tr>
+on its President, judges, officers and officials, 
+who work faithfully for the public good. 
+Teach them from the laws of Your Torah, 
+enlighten them with the rules of Your justice, 
+so that peace, tranquility, happiness and freedom 
+will never depart from our land. 
+</div></td></tr>
 
 
 <tr>
-<td width="46%">
-<div style="text-align: right;" class="liturgy"><span lang="he">
-אָנָּא יְיָ אֱלֺהֵי הָרוּחוֺת לְכָל־בָּשָׂר שְׁלַח רוּחֲךָ עַל כָּל־תּוֹשְׁבֵי אַרְצֵֽנוּ 
+<td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
+אָנָּא יְיָ אֱלֺהֵי הָרוּחוֺת לְכָל־בָּשָׂר 
+שְׁלַח רוּחֲךָ עַל כָּל־תּוֹשְׁבֵי אַרְצֵֽנוּ 
 וְטַע בֵּין בְּנֵי הָאֻמּוֹת וְהָאֱמוּנוֹת הַשּׁוֹנוֹת הַשּׁוֹכְנִים בָּהּ 
 אַהֲבָה וְאַחֲוָה שָׁלוֹם וְרֵעוּת. 
 וַעֲקֺר נִלִּבָּם כָל שִׂנְאָה וְאֵיבָה קִנְאָה וְתַחֲרוּת. 
-לְמַלֺּאות מַשָּׂא נֶֽפשׁ בָּנֶֽיהָ הַמִּתְיַמְְּרִים בִּכְבוֹדָהּ 
+לְמַלֺּאות מַשָּׂא נֶֽפשׁ בָּנֶֽיהָ הַמִּתְיַמְּרִים בִּכְבוֹדָהּ 
 וְהַמִּשְׁתּוֹקְקִים לִרְאוֹתָהּ אוֹר לְכָל־הַגּוֹיִם.‏
-</span></div>
-</td>
+</span></div></td>
  
-<td width="53%"><div class="english">
-God of all that lives, please bestow Your spirit on all the inhabitants of our land, 
+<td style="vertical-align:top;">
+<div class="english">
+God of all that lives, 
+please bestow Your spirit on all the inhabitants of our land, 
 and plant love, fellowship, peace and friendship 
 between the different communities and faiths that dwell here. 
 Uproot from their hearts all hate, animosity, jealousy and strife, 
 in order to fulfill the longings of its people, who aspire for its dignity, 
 and desire to see it as a light for all nations.
-</div></td>
-</tr>
+</div></td></tr>
 
 
 <tr>
-<td width="46%">
-<div style="text-align: right;" class="liturgy"><span lang="he">
-וְכֵן יְהִי רָצוֹן מִלְּפָנֶֽיךָ שֶׁתְּהֵא אַרְצֵֽנוּ בְּרָכָה לְכָל־יוֹשְׁבֵי תֵבֵל 
+<td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
+וְכֵן יְהִי רָצוֹן מִלְּפָנֶֽיךָ 
+שֶׁתְּהֵא אַרְצֵֽנוּ בְּרָכָה לְכָל־יוֹשְׁבֵי תֵבֵל 
 וְתַשְׁרֶה בֵּינֵיהֶם רֵעוּת וְחֵרוּת 
 וְקַיֵּם בִּמְהֵרָה חֲזוֹן נְבִיאֶֽיךָ 
-"לֹא־יִשָּׂ֨א ג֤וֹי אֶל־גּוֹי֙ חֶ֔רֶב וְלֹא־יִלְמְד֥וּ ע֖וֹד מִלְחָמָֽה" 
-וְנֶאֱמַר "כִּֽי־כוּלָּם֩ יֵדְע֨וּ אוֹתִ֜י לְמִקְטַנָּ֤ם וְעַד־גְּדוֹלָם֙". 
+"לֹא־יִשָּׂ֨א ג֤וֹי אֶל־גּוֹי֙ חֶ֔רֶב 
+וְלֹא־יִלְמְד֥וּ ע֖וֹד מִלְחָמָֽה" 
+וְנֶאֱמַר "כִּֽי־כוּלָּם֩ יֵדְע֨וּ אוֹתִ֜י 
+לְמִקְטַנָּ֤ם וְעַד־גְּדוֹלָם֙". 
 אָמֵן׃
-</span></div>
-</td>
+</span></div></td>
  
-<td width="53%"><div class="english">
-And so may it be God's will that our land be a blessing for all who live on earth, 
+<td style="vertical-align:top;">
+<div class="english">
+And so may it be God's will 
+that our land be a blessing for all who live on earth, 
 and that fellowship and liberty will dwell between them. 
 Establish soon the vision of your prophet: 
-`Nation will not raise a sword against nation, and they will no longer learn war',[foot]Isaiah 2:4[/foot]&nbsp;
-and, as it is said: `for all of them will know Me, from the smallest to the greatest'.[foot]Jeremiah 31:34 partial[/foot]&nbsp;
-(Amen)
-</div></td>
-</tr>
+"Nation will not raise a sword against nation, 
+and they will no longer learn war,"[foot]Isaiah 2:4[/foot]&nbsp;
+and, as it is said: "for all of them will know Me, 
+from the smallest to the greatest'.[foot]Jeremiah 31:34 partial[/foot]&nbsp;
+<em>Amen</em>.
+</div></td></tr>
 </tbody></table>
 
 "A Prayer for the Government" by Rabbi Louis Ginzberg (a new translation by Rabbi Tim Bernard): <a class="pdf" href="https://opensiddur.org/wp-content/uploads/2010/08/Prayer-for-the-Government-Louis-Ginzberg-trans-Tim-Bernard.pdf">PDF</a> | <a class="download" href="https://opensiddur.org/wp-content/uploads/2010/08/Prayer-for-the-Government-Louis-Ginzberg-trans-Tim-Bernard.odt">ODT</a> | <a class="download" href="https://opensiddur.org/wp-content/uploads/2010/08/Prayer-for-the-Government-Louis-Ginzberg-trans-Tim-Bernard.txt">TXT</a>

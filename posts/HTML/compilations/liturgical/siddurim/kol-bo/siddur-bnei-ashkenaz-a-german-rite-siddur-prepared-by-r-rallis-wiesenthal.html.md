@@ -150,7 +150,7 @@ One of the important inspirations of Rav Hamburger to Rabbi Wiesenthal is his ho
 
 <blockquote>I would like to challenge all those who come across this work, no matter how religious or not you are, and regardless as to which movement you feel you belong, to write down as best as you can, your family <em>minhagim</em> [customs]!
 
-For myself, I wrote down the following categories: everyday, weekdays, Shabbat, Yom Tov, Pesach, Shavuot, Rosh HaShana, Yom Kippur, Succot, Ḥanukkah, Purim, Tisha B'Av, Bar Mitzvah, etc. Then I went about filling these categories throughout the year, by in large, recalling at the time, "What did we do growing up?", "What did my mom/dad say about what their families did when they were growing up?", "What minhagim did the shul/community do in their town?" It will give your children and grandchildren a rich heritage to pass on to them in written form.</blockquote>
+For myself, I wrote down the following categories: everyday, weekdays, Shabbat, Yom Tov, Pesach, Shavuot, Rosh HaShana, Yom Kippur, Succot, Ḥanukkah, Purim, Tisha B'Av, Bar mitsvah, etc. Then I went about filling these categories throughout the year, by in large, recalling at the time, "What did we do growing up?", "What did my mom/dad say about what their families did when they were growing up?", "What minhagim did the shul/community do in their town?" It will give your children and grandchildren a rich heritage to pass on to them in written form.</blockquote>
 
 Regarding the creation of the Siddur Bnei Ashkenaz, Rabbi Wiesenthal writes:
 

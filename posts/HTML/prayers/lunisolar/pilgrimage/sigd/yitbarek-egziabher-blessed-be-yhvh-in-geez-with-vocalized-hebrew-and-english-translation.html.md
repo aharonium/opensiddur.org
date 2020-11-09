@@ -1,14 +1,14 @@
 <html>
 <head></head>
 <body>
-Title: Prayers for the Morning of Sigd: Yitbärēk Egzi'äbḥer (Blessed be YHVH), in Ge'ez with vocalized Hebrew and English translation<br />
+Title: Prayers for the Morning of Sigd: ይትባረክ፡እግዚአብሔር | YətəbaräkəʾƎgəziʾäbəḥerə (Blessed be YHVH), in Ge'ez with vocalized Hebrew and English translation<br />
 Primary contributor: isaac.gantwerk-mayer<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=27883">http://opensiddur.org/?p=27883</a>
 <p />
 <hr />
 
 <div class="english" style="font-size: 1.2em;">
-Sigd is an Amharic word meaning "prostration" or "worship" and is the commonly used name for a holiday celebrated by the Ethiopian Jewish Beta Israel community on the 29th of the Hebrew month of Marḥheshvan. This date is exactly 50 days after Yom Kippur, usually falling out in late October or November, and according to Ethiopian Jewish tradition is also the date that God first revealed himself to Moses.[foot]Jewish Virtual Library, "<a href="https://www.jewishvirtuallibrary.org/ethiopian-sigd-holiday">Ethiopian Jewry: Sigd Holiday</a>"[/foot]
+Sigd is an Amharic word meaning "prostration" or "worship" and is the commonly used name for a holiday celebrated by the Ethiopian Jewish Beta Israel community on the 29th of the Hebrew month of Marḥeshvan. This date is exactly 50 days after Yom Kippur, usually falling out in late October or November, and according to Ethiopian Jewish tradition is also the date that God first revealed himself to Moses.[foot]Jewish Virtual Library, "<a href="https://www.jewishvirtuallibrary.org/ethiopian-sigd-holiday">Ethiopian Jewry: Sigd Holiday</a>"[/foot]
 
 Sigd is a unique holiday. Originally only celebrated by the Ethiopian Jewish Beta Esrael community, it has gotten more traction recently. One could describe the key concept of Sigd as being the acceptance of the Torah — not the giving, but the receiving of it. Sigd is a holiday of the continuation of the covenant. No matter the persecution that the Beta Esrael suffered (and hoo boy, did they suffer), Sigd announced that they would preserve their Judaism through it all.
 
@@ -34,296 +34,363 @@ This is part one of a series of Sigd readings in English, Hebrew, and Ge'ez tran
 </div>
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;">Translation (Hebrew)</th><th style="text-align: left;">Translation (English)</th><th style="text-align: left;">Source (Ge'ez)</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;">Translation (Hebrew)</th><th style="text-align: left;">Translation (English)</th><th style="text-align: left;">Source (Ge'ez)</th><th style="text-align: left;">Transliteration (Ge'ez)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
-יִתְבָּרַךְ יהוה
+<span class="instruction">חזן —</span> יִתְבָּרַךְ יהוה
 אֱלֹהֵי יִשְׂרָאֵל
-אֱלֹהִי אֲבוֹתֵינוּ אָתָּה
-(הַלֵּל)
-שַׁבְּחוּהוּ
-וְרוֹמְמוּהוּ לְעוֹלָם
+אֱלֹהֵי אֲבוֹתֵינוּ אָתָּה׃
+<span class="instruction">קהל —</span> הַלֵּל!
+<span class="instruction">חזן —</span> שַׁבְּחוּהוּ 
+וְהַעֲלוּהוּ לְעֹלָם׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
-Blessed be YHVH
-God of Israel.
-Our ancestors' God are You.
-(Praise!)
-Glorify the One
-and exult the One forever!
+<span class="instruction">Singer:</span> Blessed be the Lord
+God of Israel,
+God of our ancestors are You.
+<span class="instruction">Community:</span> Hail!
+<span class="instruction">Singer:</span> Laud the One,
+and exult the One forever.
 </div></td>
+
+<td style="vertical-align:top;">
+<div class="ethiopic"><span lang="am">
+ይትባረክ፡እግዚአብሔር፡
+አምላከ፡እስራኤል፣
+አምላከ፡አበዊነ፡አንተ።
+ሃሌ።
+ስቡሕኒ፡ውእቱ፣
+ወልዑልኒ፡ውእቱ፡ለዓለም።
+</span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
-Yitbärēk Egzi'äbḥer 
-ämläk Esräēl.
-Ämläke äbäwinē äntē.
-(Hälē)
-Sebḥuni we'etu
-weleʿulēni we'etu leʿälēm.
+<span class="instruction">Mäzämərə:</span> Yətəbaräkə ʾƎgəziʾäbəḥerə  
+ ʾÄməlakä ʾƎsəraʾelə, 
+ ʾÄməlakä ʾäbäwinä ʾänətä. 
+<span class="instruction">Maḫəbärä:</span> Hale!
+<span class="instruction">Mäzämərə:</span> Səbuḥəni wəʾətu, 
+wäləʿuləni wəʾətu läʿalämə. 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
-וְיִתְבָּרַךְ יהוה
-וְיִתְקַדַּשׁ וְיִתְרוֹמַם
-וְיִתְאַמֵּן וְיִתְהַלָּל
-וְיִשְׁתַּבַּח אֲדֹנָי
-כִּי גָּדוֹל שִׁבְחוֹתָיו
-קָדוֹשׁ וְחָזָק וּבָרוּךְ
-(הַלֵּל)
-שַׁבְּחוּהוּ
-וְרוֹמְמוּהוּ לְעוֹלָם
+<span class="instruction">חזן —</span> וְיִתְבָּרַךְ יהוה
+וְיִתְקַדֵּשׁ וְיִתְעַלֶּה
+וְיִתְאַמֵּן וְיִתְהַלֵּל
+וְיִשְׁתַּבַּח אֲדֹנָי
+כִּי גָּדוֹל תִּשְׁבְּחוֹתָיו׃
+קָדוֹשׁ וְאַמִּיץ וּבָרוּךְ׃
+<span class="instruction">קהל —</span> הַלֵּל!
+<span class="instruction">חזן —</span> שַׁבְּחוּהוּ 
+וְהַעֲלוּהוּ לְעֹלָם׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
-And blessed be YHVH
+<span class="instruction">Singer:</span> And blessed be the Lord
 and sanctified and exulted
 and trusted and praised
-and glorified is Adonai
-for great are God's glories,
-holy and mighty and blessed.
-(Praise!)
-Glorify the One
-and exult the One forever!
+and lauded be Adonai,
+who is greatly lauded.
+Holy and mighty and blessed.
+<span class="instruction">Community:</span> Hail!
+<span class="instruction">Singer:</span> Laud the One,
+and exult the One forever.
 </div></td>
- 
-<td style="vertical-align:top;" width="53%">
-<div class="english">
-Yitbärēk Egzi'äbḥer 
-wäyitqedäs wäyitleʿäl
-wäyit'ämen wäyit'äkot
-wäysebäḥ Ädonäi
-esmē ʿäbi sebḥätiḥu
-qedus ḥäyäl weburuk.
-(Hälē)
-Sebḥuni we'etu
-weleʿulēni we'etu leʿälēm.
-</div></td></tr>
 
-
-<tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
-בְּרוֹךְ אַתָּה יהוה
-מֵעַל הֵיכָל
-קְדוֹשׁ שְׁבָחֶיךָ
-שְׁבָחִים לֶאֱלֹהֵי הַשָּׁמַיִם 
-אַתָּה אֲדֹנָי לִשְׁמוֹ
-הַלֵּל אֶלֶף בָּרוּךְ
-שַׁבְּחוּהוּ וְיָשָׁר
-לְעוֹלָם כִּסְאֶיךָ
-(נ׳׳א) שַׁבְחוּהוּ 
-וּגְדָלוּהוּ לְעוֹלָם
+<td style="vertical-align:top;">
+<div class="ethiopic"><span lang="am">
+ወይትባረክ፡እግዚአብሔር፡
+ወይትቄደስ፡ወይትሌዓል፡
+ወይትኣመን፡ወይትኣኮት፡
+ወይሰባሕ፡አዶናይ፡
+ዐቢይ፡ስብሓትሁ።
+ቅዱስ፡ወሐየል፡ወቡሩክ።
+ሃሌ።
+ስቡሕኒ፡ውእቱ፣
+ወልዑልኒ፡ውእቱ፡ለዓለም።
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
-Blessed are you, YHVH
-Over the palace
-of Your glories' praises.
-Praises to the God of Heaven. 
-You are Adonai, to your name,
-praise a thousand blessings!
-Glorify God and Your throne
-upright forever!
-(or) Glorify the One
-and magnify the One forever!
-</div></td>
- 
-<td style="vertical-align:top;" width="53%">
-<div class="english">
-Beruk äntē Egzi'o
-bedibē ṣeraḥ
-qedusät sbeḥatike.
-Sebḥätihu le'ämläk sämäy.
-änt Ädonäi, lesemu
-hälē älef bruk.
-Sebḥuni äntē werutēni
-leʿalēm mēnbērk.
-(or) Sebḥuni äntē
-we'ekutēni änt leʿälēm.
+<span class="instruction">Mäzämərə:</span> Wäyətəbaräkə ʾƎgəziʾäbəḥerə 
+wäyətəḳedäsə wäyətəleʿalə 
+wäyətəʾamänə wäyətəʾakotə 
+wäyəsäbaḥə ʾÄdonayə
+ ʾəsəmä ʿäbiyə səbəḥatəhu. 
+Ḳədusə wäḥäyälə wäburukə. 
+<span class="instruction">Maḫəbärä:</span> Hale!
+<span class="instruction">Mäzämərə:</span> Səbuḥəni wəʾətu, 
+wäləʿuləni wəʾətu läʿalämə. 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
-בְּרוֹךְ אַתָּה יהוה
-שֶׁתִּרְאֶה מַעֲמַקִּים מוֹשָׁבֶיךָ
-מֵעַל הַכְּרוּבִים 
-הֵיכַל רָקִיעַ
-כִּסְאֶיךָ הָרָם
-(הַלֵּל)
-שַׁבְּחוּהוּ
-וְשַׁבְּחוּהוּ בְּכָל־הָעוֹלָם
+<span class="instruction">חזן —</span> בָּרוּךְ אַתָּה יהוה
+אֵצֶל הַהֵיכָל
+הַקְּדוֹשִׁים יְשַׁבְּחוּךָ
+שִׁבְּחוּ לֶאֱלֹהֵי הַשָּׁמַיִם
+אַתָּה אֲדֹנָי
+לִשְׁמוֹ אֶלֶף בְּרָכוֹת׃
+<span class="instruction">קהל —</span> הַלֵּל!
+<span class="instruction">חזן (נוסח א׳)—</span> שַׁבְּחוּהוּ
+וְיָשַׁר לְעֹלָם כִּסְאֶךָ׃
+<span class="instruction">חזן (נוסח ב׳)—</span> שַׁבְּחוּהוּ 
+וִיהַלְּלוּךָ לְעֹלָם׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
-Blessed are you, YHVH
-Seeing the depths of Your seat
-Over the cherubim, 
-Palace of the firmament
-Your throne on high!
-(Praise!)
-Glorify the the One
-Throughout all the earth!
+<span class="instruction">Singer:</span> Blessed are You, O Lord!
+At the Palace
+the holy laud You.
+Laud the God of heaven!
+You are Adonai —
+to God's Name, a thousand blessings.
+<span class="instruction">Community:</span> Hail!
+<span class="instruction">Singer (custom 1):</span> Laud the One,
+and upright be Your eternal Throne!
+<span class="instruction">Singer (custom 2):</span> Laud the One,
+and glorify You forever!
 </div></td>
- 
-<td style="vertical-align:top;" width="53%">
-<div class="english">
-Beruk äntē Egzi'o
-zētere'i qäläyät nebirēkē
-leʿul krubēl
-ṣerḥa äryäym
-mēnbēreke leʿul!
-(Hälē)
-Sebḥuni we'etu
-wesbuḥuni änt bekulu ʿälem
-</div></td></tr>
 
-
-<tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
-בְּרוֹךְ אַתָּה יהוה
-מֵעַל כִּסְאֶיךָ 
-שְׁבָחֶיךָ שִׁבְחַת מַלְכוּתְךָ
-מַלְכוּתוֹ שֶׁלֹּא יֶחְסַר בּוֹ
-כּוֹחוֹ שֶׁלֹּא יִפֹּל
-פָּנָיו שֶׁלֹּא יִכָּשֵׁל
-מַרְאֶה פָּנָיו
-שֶׁלֹּא יִשְׁתַּנֶּה
-וּמִשְׁפָּטוֹ
-שֶׁלֹּא יְאַלֵּם
-וְכִסְּאוֹ
-שֶׁלֹּא יִשָּׂרֵף
-וּשְׁנוֹתֶיךָ
-שֶׁלֹּא יִתַּמּוּ
-בְּכׇל־זְמַן תָּמִיד
-צַדִּיק יהוה
-לְעוֹלָם עוֹלָם
-(הַלֵּל)
-שַׁבְּחוּהוּ
-וְרוֹמְמוּהוּ לְעוֹלָם
+<td style="vertical-align:top;">
+<div class="ethiopic"><span lang="am">
+ብሩክ፡አንተ፡እግዚኦ፡
+በዲበ፡በጽርሐ፡
+ቅዱሳት፡ስብሓቲከ፣
+ስብሓትሁ፡ለአምላከ፡ሰማይ፣
+አንተ፡አዶናይ።
+ለስሙ፡እልፍ፡ቡሩክ።
+ሃሌ።
+ስቡሕኒ፡ውእቱ፣
+ወርቱዓን፡ለዓለም፡መንበርከ
+ስቡሕኒ፡ውእቱ፣
+ወእኩትኒ፡አንተ፡ለዓለም።
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
-Blessed are you, YHVH
-Over Your throne
-Your glories are royal glories
-Whose reign is flawless
-Whose power is faultless
-Whose Face will not stumble 
-Whose appearance
-will not be changed 
-and Whose judgement 
-will not be blinded
-and Whose seat
-will not be burnt
-And Your years
-are endless.
-At all times, always,
-Righteous is YHVH
-Forever, ever.
-(Praise!)
-Glorify the One
-and exult the One forever!
-</div></td>
- 
-<td style="vertical-align:top;" width="53%">
-<div class="english">
-Beruk äntē Egzi'o
-bedibē mēnbērē
-Sebḥätik sebḥat mēngesteke
-mēngesitu zē'iyēsēʿär
-ḥäyylu ze'iyedēkem
-gēṣu ze'iyeymäsēn
-re'it gēṣu
-zä'iyetelwēṣ
-wemekonänu
-zeyiälēm
-wemēnberu
-zē'iyenqelqel
-weʿämetätkeni
-zē'iyehäleyke.
-Wētrē wärēzē,
-ṣädq äntē Ädonäi
-leʿälēm ʿälēm.
-(Hälē)
-Sebḥuni äntē 
-weleʿulēni äntē leʿälēm.
+<span class="instruction">Mäzämərə:</span> Bərukə ʾänətä ʾƎgəziʾo 
+bädibä bäṣərəḥä 
+ḳədusatə səbəḥatikä, 
+səbəḥatəhu lä ʾÄməlakä sämayə, 
+ʾänətä ʾÄdonayə. 
+Läsəmu ʾələfə burukə. 
+<span class="instruction">Maḫəbärä:</span> Hale. 
+<span class="instruction">Mäzämərə 1:</span> Səbuḥəni wəʾətu, 
+wärətuʿanə läʿalämə mänəbärəkä.
+<span class="instruction">Mäzämərə 2:</span> Səbuḥəni wəʾətu, 
+wäʾəkutəni ʾänətä läʿalämə. 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
-בְּרוֹךְ אַתָּה יהוה
-כׇּל־הַמַּיִם מֵעַל הַשָּׁמָיִם
-בְּמַרְאֵהוּ בִּרְקִיעַ
-יהוה שֶׁהָיָה וְיִהְיֶה
+<span class="instruction">חזן —</span> בָּרוּךְ אַתָּה יִהְוֶה
+הָרוֹאֶה מַעֲמַקִּים מִמּוֹשָׁבֶךָ
+מֵעַל הַכְּרוּבִים
+הַהֵיכָל הָרָקִיעַ
+כִּסְּאֲךָ מׇעֳלֶה׃
+<span class="instruction">קהל —</span> הַלֵּל!
+<span class="instruction">חזן —</span> שַׁבְּחוּהוּ 
+וְהַעֲלוּהוּ לְעֹלָם׃
+</span></div></td>
+ 
+<td style="vertical-align:top;">
+<div class="english">
+<span class="instruction">Singer:</span> Blessed are You, O Lord,
+who sees the depths from Your seat.
+Above the cherubim,
+Palace, firmament —
+Your Throne is exulted.
+<span class="instruction">Community:</span> Hail!
+<span class="instruction">Singer:</span> Laud the One,
+and exult the One forever.
+</div></td>
+
+<td style="vertical-align:top;">
+<div class="ethiopic"><span lang="am">
+ብሩክ፡አንተ፡እግዚኦ፡
+ዘትሬኢ፡ቃላያት፡ንብርካ፣
+ልዑል፡ኪሩቤል፡
+ጽርሐ፡አርያም፡
+መንበርከ፡ልዑል።
+ሃሌ።
+ስቡሕኒ፡ውእቱ፣
+ወልዑልኒ፡ውእቱ፡ለዓለም።
+</span></div></td>
+ 
+<td style="vertical-align:top;">
+<div class="english">
+<span class="instruction">Mäzämərə:</span> Bərukə ʾänətä ʾƎgəziʾo 
+zätəreʾi ḳalayatə nəbərəka, 
+ləʿulə kirubelə  
+ṣərəḥä ʾärəyamə
+mänəbärəkä ləʿulə. 
+<span class="instruction">Maḫəbärä:</span> Hale. 
+<span class="instruction">Mäzämərə:</span> Səbuḥəni wəʾətu, 
+wäləʿuləni wəʾətu läʿalämə. 
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
+<span class="instruction">חזן —</span> בָּרוּךְ אַתָּה יהוה
+אֵצֶל הַכִּסֵּא שְׁבָחוּךָ
+מַלְכוּתְךָ מְלָכוֹת שֶׁלֹּא תֶּחְסַר
+וְאַמִּיצְךָ שֶׁלֹּא יִפֹּל 
+וּפָנֶיךָ שֶׁלֹּא יִכָּשֵׁלוּ
+וּמַרְאֶה פָנֶיךָ שֶׁלֹּא יִשְׁתַּנֶּה
+וּמִשְׁפָּטֶיךָ שֶׁלֹּא יְעֻוְּרוּ
+וְכִסְּאֲךָ שֶׁלֹּא יִמּוֹט
+וּשְׁנֹתֶיךָ שֶׁלֹּא יִתַּמּוּ
+צַדִּיק אַתָּה יהוה
+לְעֹלְמֵי עֹלָמִים בָּרוּךְ׃
+<span class="instruction">קהל —</span> הַלֵּל!
+<span class="instruction">חזן —</span> שַׁבְּחוּהוּ 
+וְהַעֲלוּהוּ לְעֹלָם׃
+</span></div></td>
+ 
+<td style="vertical-align:top;">
+<div class="english">
+<span class="instruction">Singer:</span> Blessed are You, O Lord,
+At the Throne, laud You.
+Your reign is a flawless reign,
+and Your power is unfalling;
+Your Face is untrembling,
+Your Face's Presence is unchanging,
+and Your rulings are unblinded,
+and Your Throne is unshaking,
+and Your Years are unending.
+Righteous are You, Adonai,
+forever and ever blessed.
+<span class="instruction">Community:</span> Hail!
+<span class="instruction">Singer:</span> Laud the One,
+and exult the One forever.
+</div></td>
+
+<td style="vertical-align:top;">
+<div class="ethiopic"><span lang="am">
+ብሩክ፡አንተ፡እግዚኦ፡
+በዲበ፡መንበር፡ስብሓቲከ፤
+መንግሥትከ፡መንግሥት፡ዘኢየሥዓር፣
+ወሐየልከ፡ዘኢየደክም፤
+ገጽከ፡ዘኢየመስን፣
+ርእየታ፡ገጹ፡ዘኢየተወለት፣
+ወመኮንን፡ዘኢየዓሌም፣
+ወመንበር፡ዘኢየኣንቀልቀል፣
+ወዐመቲከኒ፡ዘኢየኀልቅ።
+ጻድቅ፡አንተ፡አዶናይ፣
+ለዐለም፡ዐለም፡ቡሩክ።
+ሃሌ።
+ስቡሕኒ፡ውእቱ፣
+ወልዑልኒ፡ውእቱ፡ለዓለም።
+</span></div></td>
+ 
+<td style="vertical-align:top;">
+<div class="english">
+<span class="instruction">Mäzämərə:</span> Bərukə ʾänətä ʾƎgəziʾo 
+bädibä mänəbärə səbəḥatikä;
+mänəgəśətəkä mänəgəśətə zäʾiyäśəʿarə, 
+wäḥäyäləkä zäʾiyädäkəmə;
+gäṣəkä zäʾiyämäsənə, 
+rəʾəyäta gäṣu zäʾiyätäwälätə, 
+wämäkonənə zäʾiyäʿalemə, 
+wämänəbärə zäʾiyäʾanəḳäləḳälə, 
+wäʿämätikäni zäʾiyäḫäləḳə. 
+Ṣadəḳə ʾänətä ʾÄdonayə, 
+läʿälämə ʿälämə burukə. 
+<span class="instruction">Maḫəbärä:</span> Hale. 
+<span class="instruction">Mäzämərə:</span> Səbuḥəni wəʾətu, 
+wäləʿuləni wəʾətu läʿalämə. 
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
+<span class="instruction">חזן —</span> בָּרוּךְ אַתָּה יהוה
+כׇּל מַיִם אֲשֶׁר מֵעַל הַשָּׁמַיִם
+בַּחֲזוֹן הָרָקִיעַ.
+יהוה הָיָה וְיִהְיֶה
 אֱלֹהֵי אֲבוֹתֵינוּ
-יהוה אֱלֹהֵי אַבְרָהָם
-יהוה אֱלֹהֵי יִצְחָק
-יהוה אֱלֹהֵי יַעֲקֹב יִשְׂרָאֵל
-אֱלֹהֵי יִשְׂרָאֵל 
-וּקְדוֹשִׁים וּמְכֻבָּדִים
-כֻּלּוֹ מֻשְׁלָם
-מֶלֶךְ הַשָּׁמַיִם 
-וְקוֹלוֹ טָהוֹר 
-(הַלֵּל) 
-שַׁבְּחוּהוּ
-וְכַבְּדוּהוּ לְעֹלָם
-אַתָּה רָחוּם
-וּמַרְבֶּה לִסְלֹחַ
+יהוה אֱלֹהֵי אַבְרָהָם!
+יהוה אֱלֹהֵי יִצְחַק!
+יהוה אֱלֹהֵי יַעֲקֹב!
+יהוה אֱלֹהֵי יִשְׂרָאֵל!
+קָדוֹשׁ מְכֻבָּד שָׁדַי שָׁלֵם
+מֶלֶךְ הַשָּׁמַיִם
+וְקוֹלוֹ טָהוֹר׃
+<span class="instruction">קהל —</span> הַלֵּל!
+<span class="instruction">חזן —</span> שַׁבְּחוּהוּ 
+וְהַעֲלוּהוּ לְעֹלָם׃
+אַתָּה חָנוּן וּמַרְבֶּה לִסְלֹחַ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
-Blessed are you, YHVH
-all the waters over the heavens
-appearing in the firmament
-YHVH was and will be
-our ancestors' God,
-YHVH God of Abraham,
-YHVH God of Isaac,
-YHVH God of Jacob Israel,
-God of Israel,
-And the holy and the noble
-All is complete
-Heavenly Sovereign
-and pure voice.
-(Praise!)
-Glorify the One
-and honor the One forever
-You are merciful 
-and increase forgiveness.
+<span class="instruction">Singer:</span> Blessed are You, O Lord,
+all water that is above the heavens,
+at the envisioning of the firmament.
+The Lord was and will be
+God of our ancestors,
+O Lord God of Abraham!
+O Lord God of Isaac!
+O Lord God of Jacob!
+O Lord God of Israel!
+Holy, Noble, Almighty, Perfect,
+Heavenly Sovereign,
+and Pure Voice.
+<span class="instruction">Community:</span> Hail!
+<span class="instruction">Singer:</span> Laud the One,
+and exult the One forever.
+You are merciful and increase forgiveness.
 </div></td>
+
+<td style="vertical-align:top;">
+<div class="ethiopic"><span lang="am">
+ብሩክ፡አንተ፡እግዚኦ፡
+ኵሉ፡ማይ፡ዘመልዕልተ፡ሰማያት፣
+በሐበ፡ትአይንት፡አርያም።
+እግዚኦ፡ዘሃሎ፡ወይሄሎ፡
+አምላከ፡አበዊነ፣
+እግዚኦ፡አምላከ፡አብርሃም፡
+እግዚኦ፡አምላከ፡ይስሐቅ፡
+እግዚኦ፡አምላከ፡ያዕቆብ፣
+እግዚኦ፡አምላከ፡እስራኤል፡
+ቅዱሳን፡ክቡሩ፡ከሃሊ፡ፍጹም፡
+ሰማያዊ፡ንጉስ፡
+ወቃሉ፡ንጹሕ።
+ሃሌ።
+ስቡሕኒ፡ውእቱ፣
+ወልዑልኒ፡ውእቱ፡ለዓለም።
+አንተ፡መሃሪ፡ወመስተ፡ሣህል።
+</span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
-Beruk äntē Egzi'o
-kulu mäy zēlmeʿlte semäytä
-Beḥabē te'eyentē le'äryäm
-Egzi'o zehälo weyēyhēlo
-ämläk äbäwinē
-Egzi'o ämläk Äbrehäm
-Egzi'o ämläk Yeṣḥäq
-Egzi'o ämläk Yäʿqob Esräēl
-Ämläk Esräel
-qedusän kebru
-Kehäli feṣum
-Smäwi negus
-weqälu neṣuḥ.
-(Hälē)
-Sebḥuni äntē
-wekeburēni äntē leʿälēm.
-Äntēs mehäri
-wemestē sähil.
+<span class="instruction">Mäzämərə:</span> Bərukə ʾänətä ʾƎgəziʾo,
+kʷəlu mayə zämäləʿələtä sämayatə, 
+bäḥäbä təʾäyənətə ʾärəyamə.
+ʾƎgəziʾo zähalo wäyəhelo 
+ ʾÄməlakä ʾäbäwinä, 
+ʾƎgəziʾo  ʾÄməlakä ʾÄbərəhamə 
+ʾƎgəziʾo  ʾÄməlakä Yəsəḥäḳə 
+ʾƎgəziʾo  ʾÄməlakä Yaʿəḳobə, 
+ʾƎgəziʾo  ʾÄməlakä ʾƎsəraʾelə 
+ḳədusanə kəburu kähali fəṣumə 
+sämayawi nəgusə 
+wäḳalu nəṣuḥə. 
+<span class="instruction">Maḫəbärä:</span> Hale. 
+<span class="instruction">Mäzämərə:</span> Səbuḥəni wəʾətu, 
+wäləʿuləni wəʾətu läʿalämə. 
+ʾÄnətä mähari wämäsətä śahələ.
 </div></td></tr>
 </tbody></table>
 

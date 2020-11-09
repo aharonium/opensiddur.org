@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: Kinah (lamentation) for Yitzhak Rabin, by Rabbi Dr. Aryeh Cohen (2004)<br />
+Title: Ḳinah (lamentation) for Yitzḥak Rabin, by Rabbi Dr. Aryeh Cohen (2004)<br />
 Primary contributor: aryeh.cohen<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=18050">http://opensiddur.org/?p=18050</a>
 <p />
@@ -10,22 +10,24 @@ For attribution and license, please consult the following URL: <a href="http://o
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
-
-</span></div></td>
- 
-<td width="53%"><div class="english">
-I
-</div></td></tr>
-
-
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
+I
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
+
+</span></div></td>
+ 
+<td style="vertical-align:top;">
+<div class="english">
 On the day after Yitzhak Rabin was killed
 Moshe remonstrated with God
 as he does every day
@@ -40,12 +42,13 @@ out in the market.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 and God said they are turning 
 back the clock they are forcing
 my hand they are running toward 
@@ -53,12 +56,13 @@ an end that I didn’t intend to write
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 the benches are filled with those
 whose texts are filled with dirt and 
 rocks. and Moshe, faint with the
@@ -68,12 +72,13 @@ Solomon, the holy of holies?
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 and Elishah saw the angel sitting
 and Elishah saw the son dying 
 and Elishah turned on Rabbi Meir 
@@ -82,12 +87,13 @@ maybe he will teach you now.”
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 On the day after Yitzhak Rabin was killed
 a young girl with innocent
 hatred stared from behind 
@@ -97,12 +103,13 @@ and shuddered at her hatred
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 and when the Temple burnt the 
 stones fell
 and now
@@ -112,22 +119,24 @@ is this torah and this its reward.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 II
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 On the day after Yitzhak Rabin was killed
 three men gathered in a clearing 
 with a fresh parchment 
@@ -141,12 +150,13 @@ powder by time
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 On the day after Yitzhak Rabin was killed
 three men gathered in a clearing 
 and wrote woe and mourning
@@ -162,22 +172,24 @@ no one, of course, noticed him at all.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 III
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 On the day after Yitzhak Rabin was killed
 I stood in the cool dark Lebanese night
 shouting names of friends, acquaintances 
@@ -194,12 +206,13 @@ from the barrel of a tank.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 A harried officer with tattered 
 forms and a memory
 that would probably 
@@ -212,12 +225,13 @@ as best he could
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 On the day after Yitzhak Rabin was killed
 we planted a vineyard, got drunk
 and were raped by our eldest son
@@ -229,22 +243,24 @@ service of God.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 IV
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 On the day after Yitzhak Rabin was killed,
 having bathed in the mikvah in
 preparation, I, pure, walked 
@@ -279,5 +295,7 @@ On the day after Yitzhak Rabin was killed.
 <hr />
 
 A kinah (lamentation) for Israeli Prime Minister Yitzḥak Rabin, assassinated on 4 November 1995, the yahrzeit of which is י״א בְּמַרחֶשְׁוָן ‎(11 Marḥeshvan).
+
+&nbsp;
 </body>
 </html>

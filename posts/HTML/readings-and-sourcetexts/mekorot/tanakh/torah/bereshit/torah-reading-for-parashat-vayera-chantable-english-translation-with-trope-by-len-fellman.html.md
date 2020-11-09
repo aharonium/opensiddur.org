@@ -7,11 +7,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<style type="text/css" media="all">.printfriendly {display: none!important;}</style>
 
-<strong>DOWNLOAD:</strong> <a href="https://archive.org/download/ParashatVayeraTorahReadingWithEnglishTranstropilationLenFellman2018/ParashatVayeraTorahReadinggenesis18v1-22v24InEnglishTranstropilationlenFellman2018-EnglishOnly.odt">ODT</a> and <a href="https://archive.org/download/ParashatVayeraTorahReadingWithEnglishTranstropilationLenFellman2018/ParashatVayeraTorahReadinggenesis18v1-22v24InEnglishTranstropilationlenFellman2018-EnglishOnly.pdf">PDF</a> (sans hebrew) | <a href="https://archive.org/download/ParashatVayeraTorahReadingWithEnglishTranstropilationLenFellman2018/ParashatVayeraTorahReadinggenesis18v1-22v24InEnglishTranstropilationlenFellman2018.odt">ODT</a> and <a href="https://archive.org/download/ParashatVayeraTorahReadingWithEnglishTranstropilationLenFellman2018/ParashatVayeraTorahReadinggenesis18v1-22v24InEnglishTranstropilationlenFellman2018.pdf">PDF</a> (with Hebrew)
-
-Genesis 19:1-23 [su_audio url="https://archive.org/download/ParashatVayeraTorahReadingWithEnglishTranstropilationLenFellman2018/Len%20Fellman%20-%20Genesis%2019%2C%201-23%20%28Hebrew%20and%20English%29.mp3" width="60%"]
+<strong>DOWNLOAD:</strong> 
+<a href="https://archive.org/download/parashat-vayera-torah-reading-with-english-transtropilation-len-fellman-2020/Parashat%20Vayera%20Torah%20Reading%20%28Genesis%2018v1-22v24%29%20In%20English%20Transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.odt">ODT</a> | <a href="https://archive.org/download/parashat-vayera-torah-reading-with-english-transtropilation-len-fellman-2020/Parashat%20Vayera%20Torah%20Reading%20%28Genesis%2018v1-22v24%29%20In%20English%20Transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.pdf">PDF</a> (sans hebrew) 
+<a href="https://archive.org/download/parashat-vayera-torah-reading-with-english-transtropilation-len-fellman-2020/Parashat%20Vayera%20Torah%20Reading%20%28Genesis%2018v1-22v24%29%20In%20English%20Transtropilation%20%28Len%20Fellman%202020%29.odt">ODT</a> | <a href="https://archive.org/download/parashat-vayera-torah-reading-with-english-transtropilation-len-fellman-2020/Parashat%20Vayera%20Torah%20Reading%20%28Genesis%2018v1-22v24%29%20In%20English%20Transtropilation%20%28Len%20Fellman%202020%29.pdf">PDF</a> (with Hebrew)
 
 <hr />
 
@@ -19,6 +18,17 @@ This is an English translation of Genesis 18:1-22:24, the Torah reading for Para
 
 <h3>Source</h3>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/ParashatVayeraTorahReadingWithEnglishTranstropilationLenFellman2018#page/n0/mode/2up"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/parashat-vayera-torah-reading-with-english-transtropilation-len-fellman-2020/Parashat%20Vayera%20Torah%20Reading%20%28Genesis%2018v1-22v24%29%20In%20English%20Transtropilation%20%28Len%20Fellman%202020%29#page/n0/mode/2up"]
+
+<h3>Recordings</h3>
+
+Genesis 19:1-23
+https://archive.org/download/parashat-vayera-torah-reading-with-english-transtropilation-len-fellman-2020/Len%20Fellman%20-%20Genesis%2019v1-23%20%28Hebrew%20and%20English%29.mp3
+
+&nbsp;
+
+<hr />
+
+&nbsp;
 </body>
 </html>

@@ -368,7 +368,7 @@ What is so egregious that you will hear our pleas, that you will act and save us
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%"><div class="english">
-The more one drives in the enormity of the Holocaust, the more commendable the mitzvah.
+The more one drives in the enormity of the Holocaust, the more commendable the mitsvah.
 </div></td></tr>
 
 <tr><td style="vertical-align:top;" width="46%">

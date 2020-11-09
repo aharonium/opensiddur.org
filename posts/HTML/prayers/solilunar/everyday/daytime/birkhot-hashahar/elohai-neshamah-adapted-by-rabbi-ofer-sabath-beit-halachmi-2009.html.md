@@ -57,7 +57,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <hr />
 <span class="hebrew">ברכת נשמה נוסח קהילת צור הדסה, נכתבה באלול ה׳תשס״ט ע״י הרב עפר שבת בית־הלחמי ויעל שביד, לכבוד בר־המצוה של אהוד - בנה של יעל.‏</span>
-This prayer was composed for the Bar Mitzvah of Yael Schweid's son Ehud in 2009.
+This prayer was composed for the Bar mitsvah of Yael Schweid's son Ehud in 2009.
 
 &nbsp;
 

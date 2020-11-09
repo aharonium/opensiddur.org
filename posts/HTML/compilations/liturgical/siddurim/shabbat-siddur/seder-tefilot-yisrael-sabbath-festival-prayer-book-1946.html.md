@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: סדר תפילות ישראל (אשכנז)‏ | Seder Tefilot Yisrael: Sabbath and Festival Prayer Book, compiled by the Rabbinical Assembly & United Synagogue of America (1946)<br />
+Title: סדר תפלות ישראל (אשכנז)‏ | Seder Tefilot Yisrael: Sabbath and Festival Prayer Book, compiled by the Rabbinical Assembly & United Synagogue of America (1946)<br />
 Primary contributor: aharon-nissen.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=15128">http://opensiddur.org/?p=15128</a>
 <p />

@@ -56,7 +56,7 @@ O Guardian of Israel,
 guard them on the way, 
 and shepherd them while they reside there, 
 and return them home, 
-so that they fulfill the mitzvah of honoring their parents, 
+so that they fulfill the mitsvah of honoring their parents, 
 as it is written in Your Torah, 
 “Honor your father and your mother,”[foot]Deuteronomy 5:15[/foot]&nbsp;
 and also in the words of Your messenger the prophet: 

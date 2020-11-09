@@ -2,20 +2,24 @@
 <head></head>
 <body>
 Title: מוֹדה אֲנִי | Returning the body to the soul: an adaptation of Modeh Ani by Moshe ibn Makhir<br />
-Primary contributor: yaqub.ibn-yusuf<br />
+Primary contributor: aharon.n.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=5924">http://opensiddur.org/?p=5924</a>
 <p />
 <hr />
 
+<div class="english" style="font-size: 1.2em;">
 Last year around this time, I was sitting with Ya'qub ibn Yusuf in  his bookstore, <em><a href="http://www.olamqatan.com">Olam Qatan</a></em> (then at 54 Emek Refaim in South Jerusalem), asking if he might share some useful practice that I might share through the Open Siddur Project. He offered this thought which he had heard from someone else. (Unfortunately, Ya'qub could not remember who taught this insight. If you know its origin, please share in the comments.) He said,
 
 <blockquote>
 I have difficulty with the idea of thanking God for "returning my soul to me" <em>sheheḥezarta bi nishmati</em> when I’m getting up with an awareness of trying to stay in touch with my dreams. It’s not my soul that’s been missing through the night; I’m returning to experience my body. So I much prefer what I heard someone suggest, that instead of saying <em>nishmati</em> (my soul), to say instead <em>han'shamati</em> (the embodiment of my soul). I thank God for returning me to my body -- my soul was never missing! In the words of my Sufi teacher Murat Yagan, “I am a soul, and I have a body."</blockquote>
+</div>
+
+<hr />
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;">Hebrew (source)</th><th style="text-align: left;">English (translation)</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 מוֹדָה|מוֹדֶה אֲנִי לְפָנֶיךָ
 מֶֽלֶךְ חַי וְקַיָּם
@@ -25,7 +29,8 @@ I have difficulty with the idea of thanking God for "returning my soul to me" <e
 רַבָּה אֱמוּנָתֶךָ‏׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 So thankful am I before you,
 Living and enduring Majesty,
 for you have returned to me 

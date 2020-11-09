@@ -20,16 +20,17 @@ You are invited to change, add to, or subtract from this liturgy in any way you 
 </div>
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;"><a href="https://opensiddur.org/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute&nbsp;a&nbsp;translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
-
+א. הוֹשַׁעְנָא
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 1. <em>Hoshana!</em> 
+&nbsp;
 Please save the Azure of the Sky, the Brightness of the Heavens, the Clarity of the Firmament! 
 Please save the Darkness from Electric Lights, and may we behold the Radiant Stream of the Milky Way! 
 Please save the Glory of the Rainbow, and the Covenant with All Life! 
@@ -38,14 +39,15 @@ Please save this Living Planet, Suspended in Space!
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
-
+ב. הוֹשַׁעְנָא
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 2. <em>Hoshana!</em> 
+&nbsp;
 Please save Oceans from Acidification, Seas from Plastic, Rivers from Sewage! 
 Please save Harbors and Deltas from Runoff! 
 Please save Aquifers from Fracking and from Dessication! 
@@ -54,14 +56,15 @@ Please save Shores from Hurricanes!
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
-
+ג. הוֹשַׁעְנָא
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 3. <em>Hoshana!</em> 
+&nbsp;
 Please save Soil from Erosion, Microbes and Mycelia from Poisons, the Ground from Being Paved Over! 
 Please save Farmland from Industry, Cities from Smog, Mountains from Mining! 
 Please save Fall Trees from Storm Winds, Crops from Drought, Forests from Clearcutting and Conflagration! 
@@ -69,14 +72,15 @@ Please save Fall Trees from Storm Winds, Crops from Drought, Forests from Clearc
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
-
+ד. הוֹשַׁעְנָא
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 4. <em>Hoshana!</em> 
+&nbsp;
 Please save Summer from Scorching, Spring Rivers from Flooding, Islands from Inundation! 
 Please save Glaciers from Vanishing and Winter Snowpack from Melting Away! 
 Please save Clouds from Withholding Rains, Storms from Bringing Deluge, Deserts from Spreading! 
@@ -84,14 +88,15 @@ Please save Clouds from Withholding Rains, Storms from Bringing Deluge, Deserts 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
-
+ה. הוֹשַׁעְנָא
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 5. <em>Hoshana!</em> 
+&nbsp;
 Please save Salmon when they Spawn, Deep Sea Creatures from Oil, Fish from Red Tide! 
 Please save Plankton Shells from Thinning and Corals from Warm Water! 
 Please save Penguins from Homelessness, Sea Turtles from Sickness, Walruses and Polar Bears from Starvation! 
@@ -99,34 +104,38 @@ Please save Penguins from Homelessness, Sea Turtles from Sickness, Walruses and 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
-
+ו. הוֹשַׁעְנָא
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 6. <em>Hoshana!</em> 
+&nbsp;
 Please save Bee Hives from Collapsing, Bats from Fungus, Tigers from Extinction! 
-Please save Monarchs in their Migration! Please save Condor and Plover, Crane and Warbler! 
+Please save Monarchs in their Migration! 
+Please save Condor and Plover, Crane and Warbler! 
 Please save Elephants and Rhinos from Poachers, Mighty Species and Small Ones from Murder! 
 Please save Humans from Our Foolishness, Humility from Arrogance, Love from Hatred and Despair! 
 <em>Hoshana!</em> 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
-
+ז. הוֹשַׁעְנָא
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 7. <em>Hoshana!</em> 
+&nbsp;
 Please save Majesty from the Markets, and Rest from Unceasing Labor! 
 Please save, Let Us Remember the Holiness that Surrounds Us, the Awe that Can Fill Us, the Bounty that Comes to Us! 
 Please save, Nurture the Abundance of Life, Strengthen the Weave of All Living Creatures! 
-Please save, Teach us to Rest and to Release! Please save Creation that was called Very Good! 
+Please save, Teach us to Rest and to Release! 
+Please save Creation that was called Very Good! 
 Please save the Radiance of the Earth! 
 <em>Hoshana!</em>
 </div></td></tr>
@@ -138,6 +147,6 @@ Please save the Radiance of the Earth!
 
 <h3>Source(s)</h3>
 
-[gview file="https://opensiddur.org/wp-content/uploads/2019/10/Seven-Hoshanot-for-Creation-David-Seidenberg-neohasid.org-5780.pdf"]
+https://opensiddur.org/wp-content/uploads/2019/10/Seven-Hoshanot-for-Creation-David-Seidenberg-neohasid.org-5780.pdf
 </body>
 </html>

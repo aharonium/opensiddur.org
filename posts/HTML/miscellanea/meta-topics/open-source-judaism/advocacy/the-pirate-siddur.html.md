@@ -25,6 +25,6 @@ In the free culture movement, culture hacking employs copyright law in new and u
 
 <p style="text-align: left;">As tempting as this strategy is, the developers of the Open Siddur believe that the sustainability of this project as a platform for the creation of new cultural products within Judaism depends on our respect and awareness of the current restrictions on copyright and copyleft licensed works. We want the siddur to be Free as in Freedom, unencumbered, and unhassled.</p>
 
-<p style="text-align: left;">In our minds, this is a great act of loving-kindness (and gives us all a great big Mitzvah-rush!). But besides this, awareness of copyright licensing is essential for a project that envisions itself as a cultural platform for as yet unimagined projects that will add value to the  project and programs of Judaism in general.</p>
+<p style="text-align: left;">In our minds, this is a great act of loving-kindness (and gives us all a great big mitsvah-rush!). But besides this, awareness of copyright licensing is essential for a project that envisions itself as a cultural platform for as yet unimagined projects that will add value to the  project and programs of Judaism in general.</p>
 </body>
 </html>

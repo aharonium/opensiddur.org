@@ -98,7 +98,7 @@ and who merited to shine with the illumination of life.
 <td style="vertical-align:top" width="53%"><div class="english">
 With the awareness of all the righteous and the pious in our generation, 
 and with the mouth of their mouths and the acts of their acts, 
-and in the merit of this mitzvah, 
+and in the merit of this mitsvah, 
 may You cause us to merit to win over our opponents 
 and to be victorious for the service of G-d’s Home, 
 and reveal the glory of Your majesty upon us speedily. 
@@ -172,7 +172,7 @@ Amen, for all eternity.
 
 <hr />
 
-The preceding <em>kavvanah</em> for the mitzvah of kindling was composed by <span lang="he" class="liturgy">רבי צבי אלימלך שפירא מדינוב</span> (Rebbe Tzvi Elimelech Spira of <a href="http://kehilalinks.jewishgen.org/dynow/">Dynów</a>, c.1783 – 1841), author of the <span lang="he" class="liturgy">בני יששכר</span> (Bnei Yiśakhar) and founder of the Ḥasidic lineage that includes the Ḥasidim of Munkacz and Bluzhov. The <em>kavvanah</em> often appears just prior to the brakhot for kindling the lights of Ḥanukkah in many Ḥasidic prayerbooks.
+The preceding <em>kavvanah</em> for the mitsvah of kindling was composed by <span lang="he" class="liturgy">רבי צבי אלימלך שפירא מדינוב</span> (Rebbe Tzvi Elimelech Spira of <a href="http://kehilalinks.jewishgen.org/dynow/">Dynów</a>, c.1783 – 1841), author of the <span lang="he" class="liturgy">בני יששכר</span> (Bnei Yiśakhar) and founder of the Ḥasidic lineage that includes the Ḥasidim of Munkacz and Bluzhov. The <em>kavvanah</em> often appears just prior to the brakhot for kindling the lights of Ḥanukkah in many Ḥasidic prayerbooks.
 
 We are extremely grateful to Morah Yehudis Fishman for her translation of this <em>kavvanah</em> in time for the fifth night of Ḥanukkah 5774.
 </body>

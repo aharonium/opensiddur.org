@@ -324,7 +324,7 @@ This small one will grow. Just as she has entered the covenant…
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<strong><em>Everyone partakes of the Seudat Mitzvah.</em></strong>
+<strong><em>Everyone partakes of the Seudat mitsvah.</em></strong>
 </div>
 </td></tr>
 </tbody></table>

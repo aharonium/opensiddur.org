@@ -28,7 +28,7 @@ ELIJAH.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-“But he (Elijah) himself went a day’s journey in the wilderness, and came and sat down under a juniper tree; and he requested for himself that he might die, and said, It is enough; now, O Lord, take away my life, for I am not better than my fathers. And, as he lay and slept under a juniper tree, behold, then an angel touched him; and said unto him, Arise, and eat. And he looked, and behold, there was a cake baken on the coals, and a cruse of water at his head, and he did eat and drink, and laid him down again. And the angel of the Lord came again the second time, and touched him, and said, Arise, and eat, because the journey is too great for thee.” (1 Kings 19:4-7) 
+“But he (Elijah) himself went a day’s journey in the wilderness, and came and sat down under a juniper tree; and he requested for himself that he might die, and said, It is enough; now, O Lord, take away my life, for I am not better than my fathers. And, as he lay and slept under a juniper tree, behold, then an angel touched him; and said unto him, Arise, and eat. And he looked, and behold, there was a cake baken on the coals, and a cruse of water at his head, and he did eat and drink, and laid him down again. And the angel of the Lord came again the second time, and touched him, and said, Arise, and eat, because the journey is too great for thee.” <span class="citation">(1 Kings 19:4-7)</span>
 </div></td></tr>
 
 
@@ -39,7 +39,7 @@ ELIJAH.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-“And it came to pass, as they still went on, and talked, that, behold, there appeared a chariot of fire, and horses of fire, which parted them both assunder; and Elijah went up by a whirlwind into heaven.” (2 Kings 2:11.)
+“And it came to pass, as they still went on, and talked, that, behold, there appeared a chariot of fire, and horses of fire, which parted them both assunder; and Elijah went up by a whirlwind into heaven.” <span class="citation">(2 Kings 2:11)</span>
 </div></td></tr>
 
 
@@ -129,7 +129,7 @@ And eats the food prepared by angels’ hands;
 With heavenly might imbued, he walks along, 
 And sighs are changed to most melodious song. 
 How wonderful God’s dealings with his own! 
-That “still, small voice,” that most angelic tone, 
+That “still, small voice,”[foot]Cf. 1 Kings 19:11-13.[/foot] that most angelic tone, 
 Seemed to Elijah too divinely sweet 
 To sound on earth, for mortal ear to meet. 
 </div></td></tr>
@@ -167,6 +167,8 @@ The poem, "Elijah" by Rosa Emma Salaman, was written in September 1849 and first
 
 <h3>Source</h3>
 
-[gview file="https://opensiddur.org/wp-content/uploads/2017/08/Elijah-by-Rosa-Emma-Salaman-from-The-Occident-December-1849.pdf"]
+https://opensiddur.org/wp-content/uploads/2017/08/Elijah-by-Rosa-Emma-Salaman-from-The-Occident-December-1849.pdf
+
+&nbsp;
 </body>
 </html>

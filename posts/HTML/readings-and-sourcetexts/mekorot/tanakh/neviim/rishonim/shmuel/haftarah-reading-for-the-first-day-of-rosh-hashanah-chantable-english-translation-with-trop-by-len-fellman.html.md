@@ -7,9 +7,9 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<strong>DOWNLOAD:</strong> <a href="https://opensiddur.org/wp-content/uploads/2018/08/Rosh-Hashanah-Haftarah-Readings-in-English-transtropilation-with-audio-Len-Fellman-2018.pdf">PDF</a> (with audio) and <a href="https://opensiddur.org/wp-content/uploads/2018/08/Rosh-Hashanah-Haftarah-Readings-in-English-transtropilation-Len-Fellman-2018.pdf">PDF</a> (sans audio) | <a href="https://opensiddur.org/wp-content/uploads/2018/08/Rosh-Hashanah-Haftarah-Reading-Day-1-1-Samuel-1-01-to-2-10-in-English-transtropilation-Len-Fellman-2018.odt">ODT</a>
-
-<strong>I Samuel 1:1-2:10</strong> [su_audio url="https://archive.org/download/RoshHashanahHaftarahReadingsWithEnglishTranstropilationLenFellman2018/Len%20Fellman%20-%20Rosh%20Hashanah%20Day%201%20Haftarah%20-%201%20Samuel%201-01%20to%202-10%20%28English%29.mp3" width="60%"]
+<strong>DOWNLOAD:</strong> 
+<a href="https://archive.org/download/rosh-hashanah-day-one-haftarah-reading-with-english-transtrop/Rosh%20haShanah%20Day%20One%20Haftarah%20Reading%20%281%20Samuel%201v1-2v10%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29.pdf">PDF</a> | <a href="https://archive.org/download/rosh-hashanah-day-one-haftarah-reading-with-english-transtrop/Rosh%20haShanah%20Day%20One%20Haftarah%20Reading%20%281%20Samuel%201v1-2v10%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29.odt">ODT</a> (w/ Hebrew)
+<a href="https://archive.org/download/rosh-hashanah-day-one-haftarah-reading-with-english-transtrop/Rosh%20haShanah%20Day%20One%20Haftarah%20Reading%20%281%20Samuel%201v1-2v10%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.pdf">PDF</a> | <a href="https://archive.org/download/rosh-hashanah-day-one-haftarah-reading-with-english-transtrop/Rosh%20haShanah%20Day%20One%20Haftarah%20Reading%20%281%20Samuel%201v1-2v10%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.odt">ODT</a> (English only)
 
 <hr />
 
@@ -17,6 +17,16 @@ This is an English translation of the Haftarah reading for the first day of Rosh
 
 <h3>Source</h3>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/RoshHashanahHaftarahReadingsWithEnglishTranstropilationLenFellman2018#page/n0/mode/2up"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/rosh-hashanah-day-one-haftarah-reading-with-english-transtrop/Rosh%20haShanah%20Day%20One%20Haftarah%20Reading%20%281%20Samuel%201v1-2v10%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29#page/n0/mode/2up"]
+
+&nbsp;
+
+<h3>Recordings</h3>
+
+https://archive.org/download/rosh-hashanah-day-one-haftarah-reading-with-english-transtrop/Len%20Fellman%20-%20Rosh%20Hashanah%20Day%201%20Haftarah%20-%201%20Samuel%201v1-2v10%20%28English%29.mp3
+
+<hr />
+
+&nbsp;
 </body>
 </html>

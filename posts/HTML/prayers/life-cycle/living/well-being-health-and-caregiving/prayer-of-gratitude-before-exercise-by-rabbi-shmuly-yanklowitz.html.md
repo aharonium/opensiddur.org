@@ -52,7 +52,7 @@ and to lengthen my days in health.
 
 This prayer was first published at the Times of Israel in an essay by Rav Shmuly Yanklowitz, "<a href="http://blogs.timesofisrael.com/making-a-blessing-before-we-exercise/">Making a blessing before we exercise!</a>" on 15 June 2018. He writes:
 
-<blockquote>Rabbi Abraham Isaac HaKohen Kook teaches that exercise can be a holy mitzvah:
+<blockquote>Rabbi Abraham Isaac HaKohen Kook teaches that exercise can be a holy mitsvah:
 
 <blockquote>[W]hen young people engage in sport to strengthen the power and spirit for the sake of the might of the entire nation, that holy service raises God’s Presence higher and higher, as it is raised by the songs and praises that David, King of Israel, expressed in the book of Psalms.
 

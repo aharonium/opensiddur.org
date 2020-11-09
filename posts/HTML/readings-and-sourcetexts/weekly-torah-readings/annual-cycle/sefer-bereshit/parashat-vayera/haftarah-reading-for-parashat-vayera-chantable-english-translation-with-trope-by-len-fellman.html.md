@@ -8,7 +8,8 @@ For attribution and license, please consult the following URL: <a href="http://o
 <hr />
 
 <strong>DOWNLOAD:</strong> 
-<a href="https://archive.org/download/HaftarahForParashatVayeraWithEnglishTranstropilationLenFellman2018/Parashat%20Vayera%20Haftarah%20Reading%20%28II%20Kings%204%2C%201-37%29%20in%20English%20transtropilation%20%28Len%20Fellman%202018%29.pdf">PDF</a> or <a href="https://archive.org/download/HaftarahForParashatVayeraWithEnglishTranstropilationLenFellman2018/Parashat%20Vayera%20Haftarah%20Reading%20%28II%20Kings%204%2C%201-37%29%20in%20English%20transtropilation%20%28Len%20Fellman%202018%29.odt">ODT</a>
+<a href="https://archive.org/download/parashat-vayera-haftarah-reading-with-english-transtropilation-len-fellman-2020/Parashat%20Vayera%20Haftarah%20Reading%20%28II%20Kings%204v1-37%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29.pdf">PDF</a> | <a href="https://archive.org/download/parashat-vayera-haftarah-reading-with-english-transtropilation-len-fellman-2020/Parashat%20Vayera%20Haftarah%20Reading%20%28II%20Kings%204v1-37%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29.odt">ODT</a> (with Hebrew)
+<a href="https://archive.org/download/parashat-vayera-haftarah-reading-with-english-transtropilation-len-fellman-2020/Parashat%20Vayera%20Haftarah%20Reading%20%28II%20Kings%204v1-37%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.pdf">PDF</a> | <a href="https://archive.org/download/parashat-vayera-haftarah-reading-with-english-transtropilation-len-fellman-2020/Parashat%20Vayera%20Haftarah%20Reading%20%28II%20Kings%204v1-37%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.odt">ODT</a> (sans Hebrew)
 
 <hr />
 
@@ -16,6 +17,16 @@ This is an English translation of the Haftarah readings for Parashat Vayera (II 
 
 <h3>Source</h3>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/HaftarahForParashatVayeraWithEnglishTranstropilationLenFellman2018#page/n0"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/parashat-vayera-haftarah-reading-with-english-transtropilation-len-fellman-2020/Parashat%20Vayera%20Haftarah%20Reading%20%28II%20Kings%204v1-37%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29#page/n0"]
+
+<h3>Recordings</h3>
+
+https://archive.org/download/parashat-vayera-haftarah-reading-with-english-transtropilation-len-fellman-2020/Parashat%20Vayera%20Haftarah%20Reading%20%28II%20Kings%204v1-37%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29.mp3
+
+&nbsp;
+
+<hr />
+
+&nbsp;
 </body>
 </html>

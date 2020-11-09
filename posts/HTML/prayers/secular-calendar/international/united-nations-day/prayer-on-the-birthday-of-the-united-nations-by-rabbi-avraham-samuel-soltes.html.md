@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: [Prayer on] the Birthday of the United Nations, by Rabbi Avraham Samuel Soltes<br />
+Title: [Prayer on] the Birthday of the United Nations, by Rabbi Avraham Samuel Soltes (1947)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=26710">http://opensiddur.org/?p=26710</a>
 <p />

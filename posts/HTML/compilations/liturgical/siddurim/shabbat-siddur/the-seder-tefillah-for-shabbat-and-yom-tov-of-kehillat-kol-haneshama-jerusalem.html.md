@@ -321,7 +321,7 @@ If you refrain from trampling the Shabbat, from pursuing your affairs on My holy
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-I hereby take upon myself the mitzvah of the Creator: "and you shall love your fellow as yourself" (Lev 19:18) 
+I hereby take upon myself the mitsvah of the Creator: "and you shall love your fellow as yourself" (Lev 19:18) 
 </div>
 </td></tr></tbody></table>
 [/su_tab]
@@ -3388,7 +3388,7 @@ I put my trust in God: to God's holy, honored name I utter praise. May it be You
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Prayer of the Bar/Bat Mitzvah
+Prayer of the Bar/Bat mitsvah
 
 My God and God of my ancestors:
 In the presence of this holy congregation, I choose to be part of the community of Israel. I accept its heritage, share its fate and am bound by its commandments.
@@ -4288,7 +4288,7 @@ To all generations we will make known Your greatness, and to all eternity procla
 <div class="english">
 The Holiness of the Day
 
-You established Shabbat , Adonai our God, prescribing by Your will its special offerings and sacrifices. Those who delight in Shabbat will inherit enduring glory. Those who savor Shabbat share the bliss of eternal life; those who love its teachings have chosen greatness. At Sinai our ancestors received the mitzvah of Shabbat, and You com­manded them that on Shabbat an additional sacrifice be offered:
+You established Shabbat , Adonai our God, prescribing by Your will its special offerings and sacrifices. Those who delight in Shabbat will inherit enduring glory. Those who savor Shabbat share the bliss of eternal life; those who love its teachings have chosen greatness. At Sinai our ancestors received the mitsvah of Shabbat, and You com­manded them that on Shabbat an additional sacrifice be offered:
 </div>
 </td></tr>
 

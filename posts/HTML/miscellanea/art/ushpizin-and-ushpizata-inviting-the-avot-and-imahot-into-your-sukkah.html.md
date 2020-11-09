@@ -26,7 +26,7 @@ Seder Ushpizin / Ushpizata
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%"><div class="english">
-Behold we come here to fulfill the mitzvah to dwell in the sukkah, as YHVH our God commanded in the Torah: “Seven days you will dwell in sukkot, so that your generations will know that I made Israel’s children dwell in Sukkot when I brought them from Egypt.”[foot]Leviticus 23:43[/foot]
+Behold we come here to fulfill the mitsvah to dwell in the sukkah, as YHVH our God commanded in the Torah: “Seven days you will dwell in sukkot, so that your generations will know that I made Israel’s children dwell in Sukkot when I brought them from Egypt.”[foot]Leviticus 23:43[/foot]
     </div></td></tr>   <tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
 לְשֵׁם יִחוּד קֻדְשָׁא בְּרִיךְ הוּא וּשְׁכִינְתֵּהּ, לְיַחֲדָא שֵׁם י״ה בְּו״ה בְּיִחוּדָא שְׁלִים, אֲזַמֵּן לִסְעֻדָּתִי בְּשֵׁם כָּל יִשְֹרָאֵל אוּשִׁפִּיזִין עִלָּאִין וְאוּשְׁפִּיזָתָא עִלָּאָתָא.‏
 </span></div></td>

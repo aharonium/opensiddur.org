@@ -318,7 +318,7 @@ How might we engage "<em>the work of our hands</em>" in <em>tikkun olam</em>, in
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%"><div class="english">
-<em>"In order to effect this tikkun, it is fitting for us to eat all kinds of fruit on this very day and to bless them with this intention. For a mitzvah is best when performed at the proper time."</em> -- from Pri Eitz Hadar
+<em>"In order to effect this tikkun, it is fitting for us to eat all kinds of fruit on this very day and to bless them with this intention. For a mitsvah is best when performed at the proper time."</em> -- from Pri Eitz Hadar
 </div></td>
 </tr>
 

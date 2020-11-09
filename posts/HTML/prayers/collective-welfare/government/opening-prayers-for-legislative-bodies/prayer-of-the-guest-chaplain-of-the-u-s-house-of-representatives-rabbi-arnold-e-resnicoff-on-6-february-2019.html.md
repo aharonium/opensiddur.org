@@ -163,7 +163,7 @@ As Bill Platt <a href="https://news.dartmouth.edu/news/2019/02/rabbi-arnold-resn
 
 <blockquote>This was the 13th time that Resnicoff, who retired in 2001 after 25 years of service as a Jewish chaplain in the U.S. Navy, has delivered an opening prayer before Congress—eight times in the Senate and five in the House. 
 
-“It was, as my friend Howard Mortman of C-SPAN observed, my bar mitzvah prayer—because it was number 13,” Resnicoff says.
+“It was, as my friend Howard Mortman of C-SPAN observed, my bar mitsvah prayer—because it was number 13,” Resnicoff says.
 
 Prayers before Congress are limited to 150 words, must be submitted in advance for review, and cannot advocate for a specific policy or issue, Resnicoff says. He tries to make his words timely, relevant, and uplifting.</blockquote>
 

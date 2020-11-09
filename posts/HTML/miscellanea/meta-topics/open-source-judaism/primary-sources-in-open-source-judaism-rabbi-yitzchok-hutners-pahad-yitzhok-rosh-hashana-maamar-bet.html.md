@@ -444,7 +444,7 @@ And this is impossible unless you say that <em>keren</em> is <em>kayemet</em>, t
 </span></div></td>
 
 <td style="vertical-align: top;" width="53%">
-<div class="english">I already hear you saying to me. But how can you say that? A person does <em>ḥesed</em>: you bring an <em>oleh</em> into your house you give him breakfast now you have less food in your fridge. So it is a <em>ḥisar</em> (absence) and a <em>maaniq</em> (offer) and a <em>mashpiah</em> (influence) in the giver. The answer is that when we do <em>ḥesed</em> in this world. It’s really a combination of two things. <em>ruḥniyut</em> (spirituality), it’s a mitzvah. But it’s also <em>gashmiyut</em> (materiality) and since there is <em>gashmiyut</em>, we don’t see the <em>Keren Kayemet</em>. We see that we’re losing out on the <em>keren</em>.</div></td>
+<div class="english">I already hear you saying to me. But how can you say that? A person does <em>ḥesed</em>: you bring an <em>oleh</em> into your house you give him breakfast now you have less food in your fridge. So it is a <em>ḥisar</em> (absence) and a <em>maaniq</em> (offer) and a <em>mashpiah</em> (influence) in the giver. The answer is that when we do <em>ḥesed</em> in this world. It’s really a combination of two things. <em>ruḥniyut</em> (spirituality), it’s a mitsvah. But it’s also <em>gashmiyut</em> (materiality) and since there is <em>gashmiyut</em>, we don’t see the <em>Keren Kayemet</em>. We see that we’re losing out on the <em>keren</em>.</div></td>
 </tr>
 
 

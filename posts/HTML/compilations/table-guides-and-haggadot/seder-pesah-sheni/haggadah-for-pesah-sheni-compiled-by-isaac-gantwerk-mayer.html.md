@@ -399,7 +399,7 @@ And this is the key: One who is pure and not on a path and refrains from doing t
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-One might think this involves mitzvot that are not about the sacrificial animal! So we are taught, and a bone of it will not be broken. Just as not breaking a bone is a mitzvah about the sacrificial animal, so too every mitzvah about the sacrificial animal. Isi ben Yehuda says, They will do it – the verse is speaking of the mitzvot about the sacrificial animal.[foot]B. Talmud, Pesaḥim 95a.[/foot]
+One might think this involves mitzvot that are not about the sacrificial animal! So we are taught, and a bone of it will not be broken. Just as not breaking a bone is a mitsvah about the sacrificial animal, so too every mitsvah about the sacrificial animal. Isi ben Yehuda says, They will do it – the verse is speaking of the mitzvot about the sacrificial animal.[foot]B. Talmud, Pesaḥim 95a.[/foot]
 </div></td></tr>
 
 
@@ -847,7 +847,7 @@ There are three things that differ between this table and the table of the First
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Thus we must thank the One who did all these miracles for our ancestors and for us – the one who brought us from impurity to purity, and from slavery to hope, and from transgression to mitzvah, and from sins to repentance, and from darkness to great light, and from trembling fear to strong courage. You have forgiven us and forgiven our ancestors, and gave us this night on which to eat matza and bitter herbs again. And thus, CAUSE our God and God of our ancestors, draw us close, we scattered among the nations, and welcome us, we disseminated among the corners of the earth! And we will return to greet You in peace, happy in the building of Your city and rejoicing in Your work. And we will eat there of the sacrifices and the Pesaḥ offerings from which blood with go upon the corners of Your altar as is willed, and we will thank you with a new song for our redemption and for the freedom of our souls and for our our complete forgiveness. You redeemed Israel, and redeem Israel, and will redeem Israel, and to You we are to bless. My friends, all Israel, Attention! Blessed are You, CAUSE our God, Sovereign of Eternity, Creator of the Vine-Fruit.
+Thus we must thank the One who did all these miracles for our ancestors and for us – the one who brought us from impurity to purity, and from slavery to hope, and from transgression to mitsvah, and from sins to repentance, and from darkness to great light, and from trembling fear to strong courage. You have forgiven us and forgiven our ancestors, and gave us this night on which to eat matza and bitter herbs again. And thus, CAUSE our God and God of our ancestors, draw us close, we scattered among the nations, and welcome us, we disseminated among the corners of the earth! And we will return to greet You in peace, happy in the building of Your city and rejoicing in Your work. And we will eat there of the sacrifices and the Pesaḥ offerings from which blood with go upon the corners of Your altar as is willed, and we will thank you with a new song for our redemption and for the freedom of our souls and for our our complete forgiveness. You redeemed Israel, and redeem Israel, and will redeem Israel, and to You we are to bless. My friends, all Israel, Attention! Blessed are You, CAUSE our God, Sovereign of Eternity, Creator of the Vine-Fruit.
 </div></td></tr>
 
 

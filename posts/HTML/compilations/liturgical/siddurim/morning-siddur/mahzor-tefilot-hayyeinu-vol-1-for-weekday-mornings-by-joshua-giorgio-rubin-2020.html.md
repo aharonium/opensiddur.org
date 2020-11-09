@@ -24,7 +24,7 @@ PREFACE
 
 This prayer book began, as so many quests for “authenticity” do, with really bad news. My father, a pious Conservadox Jew, was diagnosed with terminal cancer, and he did not have much time left.
 
-One night, he mustered the strength to turn toward me and say, “Don’t you flush 4,000 years of history down the toilet.” I had not had much of a relationship with Judaism since my Bar Mitzvah. To a deeply closeted gay kid in the 1980s, an Orthodox synagogue and Day School were no places to foster a positive Jewish identity.
+One night, he mustered the strength to turn toward me and say, “Don’t you flush 4,000 years of history down the toilet.” I had not had much of a relationship with Judaism since my Bar mitsvah. To a deeply closeted gay kid in the 1980s, an Orthodox synagogue and Day School were no places to foster a positive Jewish identity.
 
 Before I acted on my father’s admonition and took the plunge back into organized Jewish life, I read up on the various movements’ stances on homosexuality. Having no Reconstructionist option, I decided to go Reform. Eventually, however, I became positively infuriated by the services—not necessarily by their performance, but by the prayer book I held in my hands. By my mid-twenties I had very little knowledge of Hebrew left, beyond the ability to decode it, but over time I was able to discern the book juxtaposed Hebrew texts with English texts that had absolutely nothing to do with each other, and there was absolutely no indication this was the case. This liturgy, which I had previously found edifying, gradually made my prayer feel wholly inauthentic.
 
