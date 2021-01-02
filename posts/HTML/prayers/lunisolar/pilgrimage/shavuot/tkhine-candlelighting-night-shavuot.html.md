@@ -35,7 +35,7 @@ You revealed your Kavod in a cloud on Mount Sinai,
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="yiddish"><span lang="he">
-רִבּוֹנוֹ שֶּׁל עוֹלָם דו בּיסט אַנטפּלעקט געװאָרן מיט דעם װאָלקן פון דײַן כָּבוֹד אויף דעם בּארג סִינַי צו דײַן ליבּ פאָלק יִשְׂרָאֵל צו געבּן זײ די הײליגע תּוֹרָה הײַנטיגן טאָג׃
+רִבּוֹנוֹ שֶּׁל עוֹלָם דו בּיסט אַנטפּלעקט געװאָרן מיט דעם װאָלקן פון דײַן כָּבוֹד אויף דעם בּארג סִינַי צו דײַן ליבּ פאָלק יִשְׂרָאֵל צו געבּן זײ די הײליגע תּוֹרָה הײַנטיגן טאָג׃
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
@@ -79,7 +79,7 @@ you showed your power and glory to your treasured nation.
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="yiddish"><span lang="he">
-דו האָסט בּאַװיזן דײַן גרויסע שּׁטאַרקײט און דײַן שּׁײנקײט צו דײַן ליבּ פאָלק יִשְׂרָאֵל׃
+דו האָסט בּאַװיזן דײַן גרויסע שּׁטאַרקײט און דײַן שּׁײנקײט צו דײַן ליבּ פאָלק יִשְׂרָאֵל׃
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
@@ -101,7 +101,7 @@ Please, YHVH, let me merit to keep your Torah.
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="yiddish"><span lang="he">
-איך בּעט דיך דערבּאַרמדיגער גאָט זײ מיך מְזַכֶּה איך זאָל היטן דײַן הײליגע תּוֹרָה און די תרי״ג מִצְוֺת װאָס דו האָסט אונז געבּאָטן׃
+איך בּעט דיך דערבּאַרמדיגער גאָט זײ מיך מְזַכֶּה איך זאָל היטן דײַן הײליגע תּוֹרָה און די תרי״ג מִצְוֺת װאָס דו האָסט אונז געבּאָטן׃
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
@@ -167,7 +167,7 @@ Compassionate El, arouse your compassion upon the people which preserves your te
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="yiddish"><span lang="he">
-דערבּאַרמדיגער גאָט דערװעק דײַן פיל דערבּאַרמקײט אויף דײַן ליבּ פאָלק יִשְׂרָאֵל און געדענק זײ דעם זְכוּת װאָס זײ האָבּן מְקַבֵּל געװען דײַן הײליגע תּוֹרָה׃
+דערבּאַרמדיגער גאָט דערװעק דײַן פיל דערבּאַרמקײט אויף דײַן ליבּ פאָלק יִשְׂרָאֵל און געדענק זײ דעם זְכוּת װאָס זײ האָבּן מְקַבֵּל געװען דײַן הײליגע תּוֹרָה׃
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
@@ -189,7 +189,7 @@ Yishma'el and Esav refused to receive her, but they (Yisro'el) welcomed her.
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="yiddish"><span lang="he">
-אז דוא בּיסט געגאנגען צו דיא קינדער פון יִשְׁמָעאֵל און עֵשָׂו צו געבּען זײ די תּוֹרָה האָבּען זײ זי ניט געװאָלט נעהמען, נור דײַן ליעב פאלק יִשְׂרָאֵל האָבּען זי גענומען׃
+אז דוא בּיסט געגאנגען צו דיא קינדער פון יִשְׁמָעאֵל און עֵשָׂו צו געבּען זײ די תּוֹרָה האָבּען זײ זי ניט געװאָלט נעהמען, נור דײַן ליעב פאלק יִשְׂרָאֵל האָבּען זי גענומען׃
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
@@ -211,7 +211,7 @@ Upon those who sacrificed their souls and lives for the sake of your holy Torah,
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="yiddish"><span lang="he">
-געדענק אונז ליבּער גאָט װאָס פיל פון דײַן פאָלק יִשְׂרָאֵל האָבּן איבּער געענטפערט זײער לײבּ און זײער ליבּן װעגן דעם הײליגקײט פון דײַן תּוֹרָה און דײנע מִצְוֺת זײ זאָלן חָלִילָה נישּׁט פאַרשּׁװעכן׃ 
+געדענק אונז ליבּער גאָט װאָס פיל פון דײַן פאָלק יִשְׂרָאֵל האָבּן איבּער געענטפערט זײער לײבּ און זײער ליבּן װעגן דעם הײליגקײט פון דײַן תּוֹרָה און דײנע מִצְוֺת זײ זאָלן חָלִילָה נישּׁט פאַרשּׁװעכן׃ 
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
@@ -233,7 +233,7 @@ you spilled their blood like water at the head of every street.[foot]Lamentation
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="yiddish"><span lang="he">
-עס איז פארגאָסען געװאָרען זײער בּלוּט אין יענע צײַטען אזױ װי װאסער אין אלע גאסען דורך די אומות װאָס האָבּען געװאָלט מאכען איבּערפאָהרען זײ אױף דיא געזעץ פון דער הײליגער תּוֹרָה׃
+עס איז פארגאָסען געװאָרען זײער בּלוּט אין יענע צײַטען אזױ װי װאסער אין אלע גאסען דורך די אומות װאָס האָבּען געװאָלט מאכען איבּערפאָהרען זײ אױף דיא געזעץ פון דער הײליגער תּוֹרָה׃
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
@@ -300,7 +300,7 @@ Illuminate the eyes of my husband and children in your holy Torah,
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="yiddish"><span lang="he">
-און דו זאָלסט דערלײכטן די אויגן פון מײן מאַן און מײנע קינדער אין דײַן הײליגע תּוֹרָה אַזוי װי איך האָבּ געטאָן דערלײכטן מיט די לעכט גאָר מײן הויז׃
+און דו זאָלסט דערלײכטן די אויגן פון מײן מאַן און מײנע קינדער אין דײַן הײליגע תּוֹרָה אַזוי װי איך האָבּ געטאָן דערלײכטן מיט די לעכט גאָר מײן הויז׃
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
@@ -322,7 +322,7 @@ and let not thunder and lightning bring about our demise.
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="yiddish"><span lang="he">
-און בִּזְכוּת װאָס מיר האָבּן מְקַבֵּל געװען דײַן הײליגע תּוֹרָה װאָס זי איז געגעבּן געװאָרן מיט דינערן און בְּליצן זאָלסטו אונז בּאַשּׁירמען עס זאָל חָלִילָה אונז נישּׁט שּׁאָדען קײן דינער און בּליץ׃
+און בִּזְכוּת װאָס מיר האָבּן מְקַבֵּל געװען דײַן הײליגע תּוֹרָה װאָס זי איז געגעבּן געװאָרן מיט דינערן און בְּליצן זאָלסטו אונז בּאַשּׁירמען עס זאָל חָלִילָה אונז נישּׁט שּׁאָדען קײן דינער און בּליץ׃
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
@@ -344,7 +344,7 @@ Let us merit hearing the shofar blast of the Moshiaḥ,
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="yiddish"><span lang="he">
-און אין דעם זְכוּת װאָס מיר האָבּן מְקַבֵּל געװען דײַן הײליגע תּוֹרָה װאָס זי איז געגעבּן געװאָרן מיט אײן קוֹל פון שּׁוֹפָר זאָלסטו אונז מְזַכֶּה זײן מיר זאָלן הערן גיך און בּאַלד דאָס קוֹל פון דעם שּׁוֹפָר שֶּׁל מָשִּׁיחַ׃
+און אין דעם זְכוּת װאָס מיר האָבּן מְקַבֵּל געװען דײַן הײליגע תּוֹרָה װאָס זי איז געגעבּן געװאָרן מיט אײן קוֹל פון שּׁוֹפָר זאָלסטו אונז מְזַכֶּה זײן מיר זאָלן הערן גיך און בּאַלד דאָס קוֹל פון דעם שּׁוֹפָר שֶּׁל מָשִּׁיחַ׃
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
@@ -388,7 +388,7 @@ Do it for the sake of innocent schoolchildren.
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="yiddish"><span lang="he">
-טו מיט אונז גוטס ליבּער גאָט אין דעם זְכוּת פון אונזערע קֹלײנע קינדער װאָס לערנען בּײ זײער רַבִּי אין חֵדֶר דײַן הײליגע תּוֹרָה׃
+טו מיט אונז גוטס ליבּער גאָט אין דעם זְכוּת פון אונזערע קֹלײנע קינדער װאָס לערנען בּײ זײער רַבִּי אין חֵדֶר דײַן הײליגע תּוֹרָה׃
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">
@@ -476,7 +476,7 @@ and may our eyes merit seeing your merciful return to Tsiyon.
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="yiddish"><span lang="he">
-און אונזערע אױגן זאָלן זוֹכֶה זײן צו זעהן אין דײַן טוען אומקערן זיך קײן צִיוֹן מיט גרויס דערבּאַרימקײט׃
+און אונזערע אױגן זאָלן זוֹכֶה זײן צו זעהן אין דײַן טוען אומקערן זיך קײן צִיוֹן מיט גרויס דערבּאַרימקײט׃
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%"><div class="english">

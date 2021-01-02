@@ -10,18 +10,18 @@ For attribution and license, please consult the following URL: <a href="http://o
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 צַפְרִירִים
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <u>Morning Spirits</u>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 הַנְשִׁיקַת פִּי אִמִּי, אִם־צִפְצוּף הַדְּרוֹר
 תְּנוּמָתִי וַחֲלוֹמִי הַמָּתוֹק הַפְסִיקוּ? –
@@ -33,7 +33,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 בְּדַהֲרוֹת עֲגָלָה עַל־מַרְצֶפֶת הָעִיר.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 Was it my mother’s kiss, was it the swallow 
 With its “twit-twitter”, broke off my sweet dream?
@@ -46,10 +46,10 @@ In a galloping cart oe’r the cobble-stone street.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 עַל־מַשְׁקוֹף אֶשְׁנַבִּי הִתְנַעֵר הַקֵּן,
-וִירֹעַע וִיצֻפְצַף "צְוִיץ, צְוִיץ" עַד־בְּלִי דָי,
+וִירֹעַע וִיצֻפְצַף ”צְוִיץ, צְוִיץ“ עַד־בְּלִי דָי,
 ובְזֹהַר אֶשְׁנַבִּי בְּפַחֲזוּת חֵן־חֵן
 צַפְרִירֵי הַבֹּקֶר מְשַׂקְּרִים אֵלָי.
 הֵם מְפַזְּזִים וְנוֹצְצִים בִּמְשׁוּבָה צֹהֶלֶת,
@@ -58,7 +58,7 @@ In a galloping cart oe’r the cobble-stone street.
 הַשֹּׁפַעַת, שֹּׁפַעַת עַל־גַּבִּי.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 The nest o’er my lintel awoke with a flutter,
 Aroused itself quickly with shout and with song,
@@ -71,7 +71,7 @@ And flowing abundantly down upon me.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 הֵם קֹרְצִים וְרֹמְזִים וּפְנֵיהֶם יִקְרָנוּ:
 "אֵלֵינוּ צֵא, פֹּחַז! זְרַח, הַזְהֵר עִמָּנוּ!
@@ -95,7 +95,7 @@ And flowing abundantly down upon me.
 אֱלֹהִים, שְׁטָפַתְנִי הָאוֹרָה!
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 They winked and they beckoned, their faces bright beaming: 
 “Come forth, roguish one, shine with us in our flight!
@@ -120,7 +120,7 @@ O God, I am swept, I am flooded with light!
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 הוֹ, אֵלַי בֹּאוּ, זַכִּים! צַפְרִירֵי הַתֹּם!
 אֶל־מִתַּחַת לִסְדִינִי הַצָּחֹר, הַצָּח!
@@ -140,7 +140,7 @@ O God, I am swept, I am flooded with light!
 אֱלֹהִים, שְׁטָפַתְנִי הָאוֹרָה!
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 O, come to me, pure ones, pure Spirits of Morning,
 Come under my cover, my sparkling white sheet,

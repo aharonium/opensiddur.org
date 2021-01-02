@@ -39,7 +39,7 @@ Niqqud (vowels) and t'amim (cantillation, trope) have been added by Isaac Gantwe
 </div>
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
-<thead><tr><th id="x">Hebrew (with niqqud and t'amim)</th><th style="text-align: left;">English (translation)</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;">Hebrew (with niqqud and t'amim)</th><th style="text-align: left;">English (translation)</th></tr></thead>
 <tbody>
 <tr>
 <td style="vertical-align:top;">

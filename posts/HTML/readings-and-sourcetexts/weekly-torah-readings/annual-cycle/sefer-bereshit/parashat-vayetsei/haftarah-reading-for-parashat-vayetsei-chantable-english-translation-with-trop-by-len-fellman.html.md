@@ -8,10 +8,8 @@ For attribution and license, please consult the following URL: <a href="http://o
 <hr />
 
 <strong>DOWNLOAD:</strong> 
-
-Nusaḥ Ashkenaz: <a href="https://archive.org/download/parashatvayetseihaftarahreadinghoseawithenglishtranstropilationlenfellman2019/Parashat%20Vayetsei%20Haftarah%20Reading%20%28Hosea%2012v13-14v10%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29%20-%20english%20only.pdf">PDF</a> or <a href="https://archive.org/download/parashatvayetseihaftarahreadinghoseawithenglishtranstropilationlenfellman2019/Parashat%20Vayetsei%20Haftarah%20Reading%20%28Hosea%2012v13-14v10%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29%20-%20english%20only.odt">ODT</a> (sans Hebrew) | <a href="https://archive.org/download/parashatvayetseihaftarahreadinghoseawithenglishtranstropilationlenfellman2019/Parashat%20Vayetsei%20Haftarah%20Reading%20%28Hosea%2012v13-14v10%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29.pdf">PDF</a> or <a href="https://archive.org/download/parashatvayetseihaftarahreadinghoseawithenglishtranstropilationlenfellman2019/Parashat%20Vayetsei%20Haftarah%20Reading%20%28Hosea%2012v13-14v10%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29.odt">ODT</a> (with Hebrew)
-
-Nusaḥ Sefarad: <a href="https://archive.org/download/parashatvayetseihaftarahreadinghoseawithenglishtranstropilationlenfellman2019/Parashat%20Vayetsei%20Haftarah%20Reading%20%28Hosea%2011v7-12v12%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29%20-%20english%20only.pdf">PDF</a> or <a href="https://archive.org/download/parashatvayetseihaftarahreadinghoseawithenglishtranstropilationlenfellman2019/Parashat%20Vayetsei%20Haftarah%20Reading%20%28Hosea%2011v7-12v12%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29%20-%20english%20only.odt">ODT</a> (sans Hebrew) | <a href="https://archive.org/download/parashatvayetseihaftarahreadinghoseawithenglishtranstropilationlenfellman2019/Parashat%20Vayetsei%20Haftarah%20Reading%20%28Hosea%2011v7-12v12%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29.pdf">PDF</a> or <a href="https://archive.org/download/parashatvayetseihaftarahreadinghoseawithenglishtranstropilationlenfellman2019/Parashat%20Vayetsei%20Haftarah%20Reading%20%28Hosea%2011v7-12v12%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29.odt">ODT</a> (with Hebrew)
+<a href="https://archive.org/download/parashatvayetseihaftarahreadinghoseawithenglishtranstropilationlenfellman2019/Parashat%20Vayetsei%20Haftarah%20Reading%20%28Hosea%2011v7-14v10%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.pdf">PDF</a> | <a href="https://archive.org/download/parashatvayetseihaftarahreadinghoseawithenglishtranstropilationlenfellman2019/Parashat%20Vayetsei%20Haftarah%20Reading%20%28Hosea%2011v7-14v10%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.odt">ODT</a> (sans Hebrew) 
+<a href="https://archive.org/download/parashatvayetseihaftarahreadinghoseawithenglishtranstropilationlenfellman2019/Parashat%20Vayetsei%20Haftarah%20Reading%20%28Hosea%2011v7-14v10%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29.pdf">PDF</a> | <a href="https://archive.org/download/parashatvayetseihaftarahreadinghoseawithenglishtranstropilationlenfellman2019/Parashat%20Vayetsei%20Haftarah%20Reading%20%28Hosea%2011v7-14v10%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29.odt">ODT</a> (with Hebrew)
 
 <hr />
 
@@ -20,10 +18,19 @@ This is an English translation of the Haftarah reading for Parashat Vayetsei (Nu
 
 <h3>Source</h3>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/parashatvayetseihaftarahreadinghoseawithenglishtranstropilationlenfellman2019/Parashat%20Vayetsei%20Haftarah%20Reading%20%28Hosea%2011v7-14v10%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29#page/n0"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/parashatvayetseihaftarahreadinghoseawithenglishtranstropilationlenfellman2019/Parashat%20Vayetsei%20Haftarah%20Reading%20%28Hosea%2011v7-14v10%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29#page/n0/mode/2up"]
 
-<h3>Recording (Hosea 12:13-14:10)</h3>
+&nbsp;
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/details/parashatvayetseihaftarahreadinghoseawithenglishtranstropilationlenfellman2019/Parashat%20Vayetsei%20Haftarah%20Reading%20%28Hosea%2012v13-14v10%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29" show_part_of_iframe="true" show_part_of_iframe_y="75" show_part_of_iframe_height="145" show_part_of_iframe_allow_scrollbar_vertical="false"]
+<h3>Recording</h3>
+
+Hosea 12:13-14:10
+https://archive.org/download/parashatvayetseihaftarahreadinghoseawithenglishtranstropilationlenfellman2019/Parashat%20Vayetsei%20Haftarah%20Reading%20%28Hosea%2012v13-14v10%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29.mp3
+
+&nbsp;
+
+<hr />
+
+&nbsp;
 </body>
 </html>

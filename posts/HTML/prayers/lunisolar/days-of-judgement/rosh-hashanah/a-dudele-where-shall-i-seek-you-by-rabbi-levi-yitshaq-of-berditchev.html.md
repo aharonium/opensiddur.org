@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: א דוּדעלע (איה אמצאך)‏ | A Dudele (Where shall I seek you?), by Rabbi Levi Yitsḥaq of Berditchev (ca. 18th c.)<br />
+Title: א דוּדעלע (אַיֵּה אֶמְצָאֶךָּ)‏ | A Dudele (Where shall I seek you?), by Rabbi Levi Yitsḥaq of Berditchev (ca. 18th c.)<br />
 Primary contributor: aharon.n.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=31809">http://opensiddur.org/?p=31809</a>
 <p />
@@ -31,7 +31,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 רִבּוֹנוֹ שֶׁל עוֹלָם!
 אֲנִי רוֹצֶה לָשִׁיר לְךָ שִׁיר!
 אַתָּה־אַתָּה־אַתָּה 
-אַתָּה אַתָּה —
+אַתָּה־אַתָּה —
 </span></div></td>
  
 <td style="vertical-align:top;">
@@ -41,8 +41,8 @@ Ribono shel Olam
 Ribono shel Olam
 Ribono shel Olam</em>
 Master of the Cosmos!
-I want to sing for you a little song 
-[for] You you you, 
+I want to sing a little song for you 
+You you you, 
 you you —
 </div></td></tr>
 
@@ -64,7 +64,7 @@ you you —
 אָנָה אֶמְצָאֶךָּ?
 אַךְ אָנָה לֹא אֶמְצָאֶךָּ?
 אַתָּה־אַתָּה־אַתָּה 
-אַתָּה אַתָּה —
+אַתָּה־אַתָּה —
 </span></div></td>
  
 <td style="vertical-align:top;">

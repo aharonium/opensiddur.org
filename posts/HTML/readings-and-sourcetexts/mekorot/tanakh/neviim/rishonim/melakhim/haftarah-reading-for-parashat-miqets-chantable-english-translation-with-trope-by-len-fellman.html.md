@@ -9,7 +9,9 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <style type="text/css" media="all">.printfriendly {display: none!important;}</style>
 
-<strong>DOWNLOAD:</strong> <a href="https://archive.org/download/HaftarahForParashatMiqetsWithEnglishTranstropilationLenFellman2018/ParashatMiqetsHaftarahReadingiKings3v15-4v5InEnglishTranstropilationlenFellman2018-EnglishOnly.pdf">PDF</a> or <a href="https://archive.org/download/HaftarahForParashatMiqetsWithEnglishTranstropilationLenFellman2018/ParashatMiqetsHaftarahReadingiKings3v15-4v5InEnglishTranstropilationlenFellman2018-EnglishOnly.odt">ODT</a> (sans Hebrew) | <a href="https://archive.org/download/HaftarahForParashatMiqetsWithEnglishTranstropilationLenFellman2018/Parashat%20Miqets%20Haftarah%20Reading%20%28I%20Kings%203v15-4v5%29%20in%20English%20transtropilation%20%28Len%20Fellman%202018%29.pdf">PDF</a> or <a href="https://archive.org/download/HaftarahForParashatMiqetsWithEnglishTranstropilationLenFellman2018/Parashat%20Miqets%20Haftarah%20Reading%20%28I%20Kings%203v15-4v5%29%20in%20English%20transtropilation%20%28Len%20Fellman%202018%29.odt">ODT</a> (with Hebrew)
+<strong>DOWNLOAD:</strong> 
+<a href="https://archive.org/download/HaftarahForParashatMiqetsWithEnglishTranstropilationLenFellman2018/Parashat%20Miqets%20Haftarah%20Reading%20%28I%20Kings%203v15-4v5%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.pdf">PDF</a> | <a href="https://archive.org/download/HaftarahForParashatMiqetsWithEnglishTranstropilationLenFellman2018/Parashat%20Miqets%20Haftarah%20Reading%20%28I%20Kings%203v15-4v5%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.odt">ODT</a> (sans Hebrew) 
+<a href="https://archive.org/download/HaftarahForParashatMiqetsWithEnglishTranstropilationLenFellman2018/Parashat%20Miqets%20Haftarah%20Reading%20%28I%20Kings%203v15-4v5%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29.pdf">PDF</a> | <a href="https://archive.org/download/HaftarahForParashatMiqetsWithEnglishTranstropilationLenFellman2018/Parashat%20Miqets%20Haftarah%20Reading%20%28I%20Kings%203v15-4v5%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29.odt">ODT</a> (with Hebrew)
 
 
 <hr />
@@ -18,7 +20,13 @@ This is an English translation of the Haftarah readings for Parashat Miqets (I K
 
 <h3>Source</h3>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/HaftarahForParashatMiqetsWithEnglishTranstropilationLenFellman2018#page/n0"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/HaftarahForParashatMiqetsWithEnglishTranstropilationLenFellman2018/Parashat%20Miqets%20Haftarah%20Reading%20%28I%20Kings%203v15-4v5%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29#page/n0"]
+
+&nbsp;
+
+<hr />
+
+&nbsp;
 
 
 </body>

@@ -10,7 +10,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <style type="text/css" media="all">.printfriendly {display: none!important;}</style>
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;">Contribute a Translation</th><th style="text-align: left;">English (source)</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;">Contribute a Translation</th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">

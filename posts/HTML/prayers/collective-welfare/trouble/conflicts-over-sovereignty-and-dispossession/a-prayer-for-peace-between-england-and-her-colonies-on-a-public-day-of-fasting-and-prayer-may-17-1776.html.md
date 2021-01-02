@@ -7,29 +7,75 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;"><tbody>
-<tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
-יְהִי רָצוֺן מִלְפָנֶיךָ הֳ״ אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֺתֵינוּ אֱלֹהֵי אַבְרָהָם יִצְחָק וְיָעֲקֹב שֶׁתִּתֶּן בְּלֵב אֲדוֺנֵינוּ הַמֶלֶךְ יוֺרְגי שְׁלִישִׁי וּבְלֵב כָּל יוֺעֲצָיו וְשָׁרָיו וַעֲבַדָיו לַהֲפֹךְ אֶת הַאַף וְהַחֵימָה מִנֶגֶד אֲמִירִיקַא צְפוֺנִית וּתְבַּטֵל גְּזֵרוֺת הָרָעוֺת מֵעָלֵינוּ וְתָשׁוּב מַחְשְׁבוֺת שׂוֺנִּאֵינוּ הָרָעָה עַל רֹאשָׁם וְשֶלֹא יִשָׁפֵךְ דַם עוֺד בַּמְּדִינוֺת הָאֵלּוּ׃ 
+<table style="margin-left: auto;margin-right: auto;" class="draggable">
+<thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
+<tbody>
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
+יְהִי רָצוֹן מִלְפָנֶיךָ 
+הֳ״ אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֹתֵינוּ 
+אֱלֹהֵי אַבְרָהָם יִצְחָק וְיָעֲקֹב 
+שֶׁתִּתֶּן בְּלֵב אֲדוֹנֵינוּ הַמֶלֶךְ יוֹרְגי שְׁלִישִׁי 
+וּבְלֵב כָּל יוֹעֲצָיו וְשָׁרָיו וַעֲבַדָיו 
+לַהֲפֹךְ אֶת הַאַף וְהַחֵימָה מִנֶגֶד אֲמִירִיקַא צְפוֹנִית 
+וּתְבַּטֵל גְּזֵרוֹת הָרָעוֹת מֵעָלֵינוּ 
+וְתָשׁוּב מַחְשְׁבוֹת שׂוֹנִּאֵינוּ הָרָעָה עַל רֹאשָׁם 
+וְשֶׁלֹא יִשָׁפֵךְ דַם עוֹד בַּמְּדִינוֹת הָאֵלּוּ׃ 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
-YHVH our god, the God of our Fathers, Avraham, Yitsḥaq and Ya'aqov, may it please you, to put it in the heart of our Sovereign Lord, George III, and in the hearts of his Councilors, Princes and Servants, to turn away their fierce Wrath from against North America, and to destroy the wicked devices of our enemies, that it may fall on their own heads, that there may no more blood be shed in these Countries.
+&nbsp;
+YHVH our <em>elo'ah</em>, the <em>elo'ah</em> of our Fathers, 
+Elo'ah of Avraham, Yitsḥaq and Ya'aqov, 
+may it please you to put it in the heart of our Sovereign Lord, George III, 
+and in the hearts of his Councilors, Princes and Servants, 
+to turn away their fierce Wrath from against North America, 
+and to destroy the wicked devices of our enemies, 
+that it may fall on their own heads, 
+that there may no more blood be shed in these Countries.
 </div>
 </td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
-אָנָא הֳ״ אֱלֹהֵינוּ שָׁתִפְתַח לָנוּ שַׁעֲרֵי רַחֲמִים בְּיוֺם צוֺם הַתָּעֲנִית הַזֶה וְתָּבֹא לְפָנֶיךָ תְּפִלָּתֵנוּ וּתְפִלָּת כָּל הָעָם הָעֹמְדִים לְפָנֶיךָ הַיוֺם שֶׁלֹא תַּעֲבֹר עוֺד חֶרֶב בְּאַרְצֵינוּ וְתִשְׁלַח מַלְאַכֵי רַחֲמִים לִקְרוֺא שָׁלוֺם לְכָל אֲמִירִיקַא וּלְכָל יוֺשְׁבֶיהָ, וְתִטַע עוֺד שָלוֺם בֵּינֵנוּ וּבֵין יוֺשְבֵי המְּדִינָה עֶנְגְלַא טִירָה כּאֲשֶׁר הָיָה מִקֶּרֶם וְקַיֵים לָנוּ מִקְרָא שֶׁכָּתוּב וְכִתְּהוּ חַרְבוֺתָם לְאִתִּים וַחֲנִיתוֺתֵיהֶם לְמַזְמֵרוֺת לֹא יִשָׂאגוֺי אֶל גּוֺי חֶרֶב וְלֹא יִלְמְדוּ עוֺד מִלְחָמָה אָמֵן׃
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
+אָנָא הֳ״ אֱלֹהֵינוּ 
+שָׁתִפְתַח לָנוּ שַׁעֲרֵי רַחֲמִים בְּיוֹם צוֹם הַתָּעֲנִית הַזֶה 
+וְתָּבֹא לְפָנֶיךָ תְּפִלָּתֵנוּ וּתְפִלָּת כָּל הָעָם 
+הָעֹמְדִים לְפָנֶיךָ הַיוֹם 
+שֶׁלֹא תַּעֲבֹר עוֹד חֶרֶב בְּאַרְצֵינוּ 
+וְתִשְׁלַח מַלְאַכֵי רַחֲמִים 
+לִקְרוֹא שָׁלוֹם לְכָל אֲמִירִיקַא וּלְכָל יוֹשְׁבֶיהָ, 
+וְתִטַע עוֹד שָלוֹם 
+בֵּינֵנוּ וּבֵין יוֹשְבֵי המְּדִינָה עֶנְגְלַא טִירָה 
+כּאֲשֶׁר הָיָה מִקֶּרֶם וְקַיֵים לָנוּ מִקְרָא שֶׁכָּתוּב 
+וְכִתְּהוּ חַרְבוֹתָם לְאִתִּים 
+וַחֲנִיתוֹתֵיהֶם לְמַזְמֵרוֹת 
+לֹא יִשָׂאגוֹי אֶל גּוֹי חֶרֶב 
+וְלֹא יִלְמְדוּ עוֹד מִלְחָמָה 
+אָמֵן׃
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
-YHVH our god, we beseech you to open unto us the gates of mercy on this our solemn Fast and that our prayers and the prayers of all the people that stand before you this day, may come before you that war may no more pass through our Land, and that you may send the Angels of mercy to proclaim Peace to all America and to the inhabitants thereof. That you may once more plant an everlasting peace between Great Britain and her Colonies as in former times and confirm unto us what is written: "And they shall beat their swords into plowshares, and their spears into pruning hooks; Nation shall not lift up sword against Nation, neither shall they learn war any more."[foot]Isaiah 2:4, Micah 4:3[/foot] <em>Amen</em>.
+YHVH our <em>elo'ah</em>, we beseech you 
+to open unto us the gates of mercy on this our solemn Fast 
+and that our prayers and the prayers of all the people 
+that stand before you this day, 
+may come before you that war may no more pass through our Land, 
+and that you may send the Angels of mercy 
+to proclaim Peace to all America and to the inhabitants thereof. 
+That you may once more plant an everlasting peace 
+between Great Britain and her Colonies 
+as in former times and confirm unto us what is written: 
+"And they shall beat their swords into plowshares, 
+and their spears into pruning hooks; 
+Nation shall not lift up sword against Nation, 
+neither shall they learn war any more."[foot]Isaiah 2:4, Micah 4:3[/foot] 
+<em>Amen</em>.
 </div>
 </td></tr></tbody></table>
 
@@ -49,8 +95,10 @@ I have transcribed this prayer myself and any imperfections are my own. <em>Shgi
 
 <h3>Sources</h3>
 
-[gallery type="columns" size="medium" link="file" ids="12678,12674,12675"]
-
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.archive.org/stream/lyonscollection27conguoft#page/30/mode/2up"]
+
+ֿ&nbsp;
+
+[gallery type="columns" size="medium" link="file" ids="12678,12674,12675"]
 </body>
 </html>

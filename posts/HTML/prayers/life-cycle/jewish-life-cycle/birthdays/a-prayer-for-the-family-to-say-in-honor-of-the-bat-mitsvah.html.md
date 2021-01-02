@@ -51,7 +51,7 @@ Blessed is the one who blessed us with this daughter who shines like the sun and
 <div class="yiddish">
 &nbsp;
 <span class="instruction">עלטערן:</span>
- מיר זײַנען טאַקע געבענטשט מיט אַ טאָכטער װאָס בלישטשעט װי די זון און װי די לבֿנה.
+ מיר זײַנען טאַקע געבענטשט מיט אַ טאָכטער װאָס בלישטשעט װי די זון און װי די לבֿנה.
 </div>
 </td></tr>
 
@@ -96,7 +96,7 @@ I was blessed with you, my sister, as my love for you is not dependent on anythi
 <td style="vertical-align:top;" width="33%">
 <div class="yiddish">
 &nbsp;
-<span class="instruction">שװעסטער/ברודער:</span> איך בין טאַקע געבענטשט מיט דיר, מײַן שװעסטער; אונדזער ליבע איז אָן אַ גרענעץ.
+<span class="instruction">שװעסטער/ברודער:</span> איך בין טאַקע געבענטשט מיט דיר, מײַן שװעסטער; אונדזער ליבע איז אָן אַ גרענעץ.
 </div>
 </td></tr>
 
@@ -142,7 +142,7 @@ Blessed is the one who blessed us with a granddaughter whose speech and heart ar
 <div class="yiddish">
 &nbsp;
 <span class="instruction">באָבע־זײדע:</span>
- מיר זײַנען טאַקע געבענטשט מיט אונדזער אײניקל; איר מױל און איר האַרץ זײַנען גלײַך.
+ מיר זײַנען טאַקע געבענטשט מיט אונדזער אײניקל; איר מױל און איר האַרץ זײַנען גלײַך.
 </div>
 </td></tr>
 
@@ -187,7 +187,7 @@ Blessed is the one who blessed us with a niece who loves all creatures.
 <td style="vertical-align:top;" width="33%">
 <div class="yiddish">
 &nbsp;
-<span class="instruction">פֿעטערס/מומעס:</span> מיר זײַנען טאַקע געבענטשט מיט אונדזער פּלימעניצע; זי שאַצט אָפּ אַלע באַשעפֿענישן.
+<span class="instruction">פֿעטערס/מומעס:</span> מיר זײַנען טאַקע געבענטשט מיט אונדזער פּלימעניצע; זי שאַצט אָפּ אַלע באַשעפֿענישן.
 </div>
 </td></tr>
 
@@ -233,7 +233,7 @@ Blessed is the one who blessed us with you, one who greets and accepts every per
 <div class="yiddish">
 &nbsp;
 <span class="instruction">שװעסטערקינדער:</span>
-  מיר זײַנען טאַקע געבענטשט מיט דיר.  דו באַגריסט יעדן אײנעם מיט אַ שמײכל.
+  מיר זײַנען טאַקע געבענטשט מיט דיר.  דו באַגריסט יעדן אײנעם מיט אַ שמײכל.
 </div>
 </td></tr>
 
@@ -256,7 +256,7 @@ Blessed is the one who blessed us with you, one who greets and accepts every per
 <div class="yiddish">
 &nbsp;
 <span class="instruction">אַלע:</span>
- (נאָמען פֿונעם מײדל) ― לאָמיר הערן דײַן קול, װײַל דײַן קול איז זיס; דײַן צורה איז בנעימות.
+ (נאָמען פֿונעם מײדל) ― לאָמיר הערן דײַן קול, װײַל דײַן קול איז זיס; דײַן צורה איז בנעימות.
 </div>
 </td></tr>
 </tbody></table>

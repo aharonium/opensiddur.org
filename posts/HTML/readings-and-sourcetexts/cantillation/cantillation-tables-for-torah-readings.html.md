@@ -39,7 +39,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 
 &nbsp;
-<div style="margin-left: auto;margin-right: auto; text-align: center;"><strong>Nusaḥ Italiani</strong>
+<div style="margin-left: auto;margin-right: auto; text-align: center;"><strong>Nusaḥ Italki</strong>
 <span style="font-size: x-large; text-align: center;" class="scribe">
 
 זַרְקָא֮ שְׁרֵ֒י פָּזֵ֡ר גָּדוֺל֡ קַרְ֟נֵי פָרָ֟ה תַּלְ֠שָׁא 
@@ -63,12 +63,10 @@ We are sharing these tables for <em><a href="http://en.wikipedia.org/wiki/Cantil
 
 <h3>Sources</h3>
 
-<a href="https://books.google.com/books?id=Ns43AQAAMAAJ&lpg=PA174&ots=-BW34s1AAo&dq=%D7%A9%D7%9E%D7%95%D7%AA%20%D7%94%D7%98%D7%A2%D7%9E%D7%99%D7%9D%20%D7%9C%D7%90%D7%A9%D7%9B%D7%A0%D7%96%D7%99%D7%9D&pg=PA174#v=onepage&q&f=false">Miqraot Gedolot</a> (1904 ed.), p.174
+<span style="float: right;">[caption id="attachment_14372" align="alignleft" width="300"]<a href="https://opensiddur.org/wp-content/uploads/2013/08/shemot-hateamim-leashkenazim.png" rel="lightbox"><img src="https://opensiddur.org/wp-content/uploads/2013/08/shemot-hateamim-leashkenazim-300x136.png" alt="" width="300" height="136" class="size-medium wp-image-14372" /></a> <a href="https://books.google.com/books?id=Ns43AQAAMAAJ&lpg=PA174&ots=-BW34s1AAo&dq=%D7%A9%D7%9E%D7%95%D7%AA%20%D7%94%D7%98%D7%A2%D7%9E%D7%99%D7%9D%20%D7%9C%D7%90%D7%A9%D7%9B%D7%A0%D7%96%D7%99%D7%9D&pg=PA174#v=onepage&q&f=false">Miqraot Gedolot (1904 ed.), p.174</a>[/caption]</span> <span style="float: left;">[caption id="attachment_14377" align="alignnone" width="274"]<a href="https://opensiddur.org/wp-content/uploads/2013/08/Sefer-Torah-Ohr-Levorno-Seder-Tamim-p132.png" rel="lightbox"><img src="https://opensiddur.org/wp-content/uploads/2013/08/Sefer-Torah-Ohr-Levorno-Seder-Tamim-p132-274x300.png" alt="" width="274" height="300" class="size-medium wp-image-14377" /></a> <a href="http://www.hebrewbooks.org/40100">Sefer Torah Ohr (1850, Levorno), p.132</a>[/caption]</span>[su_spacer]
 
-<a href="https://opensiddur.org/wp-content/uploads/2013/08/shemot-hateamim-leashkenazim.png"><img src="https://opensiddur.org/wp-content/uploads/2013/08/shemot-hateamim-leashkenazim.png" alt="shemot-hateamim-leashkenazim" width="1361" height="619" class="aligncenter size-full wp-image-14372" /></a>
+<hr />
 
-<a href="http://www.hebrewbooks.org/40100">Sefer Torah Ohr</a> (1850, Levorno), p.132
-
-<a href="https://opensiddur.org/wp-content/uploads/2013/08/Sefer-Torah-Ohr-Levorno-Seder-Tamim-p132.png"><img src="https://opensiddur.org/wp-content/uploads/2013/08/Sefer-Torah-Ohr-Levorno-Seder-Tamim-p132-935x1024.png" alt="sefer-torah-ohr-levorno-seder-tamim-p132" width="640" height="701" class="aligncenter size-large wp-image-14377" /></a>
+&nbsp;
 </body>
 </html>

@@ -12,7 +12,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <strong>DOWNLOAD:</strong> <a href="https://opensiddur.org/wp-content/uploads/2012/02/Kabbalistic-and-Midrashic-Texts-to-Sweeten-your-Tu-Bishvat-Seder-David-Seidenberg-neohasid.org-2018.pdf">PDF</a> | <a href="https://opensiddur.org/wp-content/uploads/2012/02/Kabbalistic-and-Midrashic-Texts-to-Sweeten-your-Tu-Bishvat-Seder-David-Seidenberg-neohasid.org-2018.docx">DOCX</a>
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;">Contribute a Translation</th><th style="text-align: left;">English (source)</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;">Contribute a Translation</th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">

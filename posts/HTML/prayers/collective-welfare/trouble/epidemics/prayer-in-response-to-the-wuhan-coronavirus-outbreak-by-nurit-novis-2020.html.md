@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: מי שברך לחולים במגפה | Mi sheBerakh for those ill from the COVID-19 Coronavirus , by Nurit Novis (2020)<br />
+Title: מי שברך לחולים במגפה | Mi sheBerakh for those ill from the COVID-19 Coronavirus, by Nurit Novis (2020)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=29916">http://opensiddur.org/?p=29916</a>
 <p />
@@ -29,7 +29,7 @@ May God who blessed our distant ancestors,
 Adam and Ḥavah, Noaḥ and his family, 
 bless and heal those stricken with the coronavirus and the plague 
 that has afflicted China and threatens the entire world. 
-May the Holy Blessed One be overcome by mercy for them, 
+May the blessed Holy One be overcome by mercy for them, 
 so as to heal, restore, strengthen and revive them. 
 Send them complete healing from heaven, 
 to both body and soul, 

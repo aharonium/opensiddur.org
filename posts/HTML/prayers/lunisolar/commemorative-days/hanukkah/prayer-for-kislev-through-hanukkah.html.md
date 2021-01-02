@@ -2,13 +2,13 @@
 <head></head>
 <body>
 Title: תפילה לחודש כסלו עד סוף חנוכה | Prayer for the month of Kislev through the end of Ḥanukkah, by Rabbi Levi Weiman-Kelman (from Isaiah 60)<br />
-Primary contributor: levi.weiman-kelman<br />
+Primary contributor: aharon.n.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=18296">http://opensiddur.org/?p=18296</a>
 <p />
 <hr />
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;">Hebrew (source)</th><th style="text-align: left;">English (translation)</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
@@ -25,10 +25,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <td style="vertical-align:top;"><div class="english">
 Arise! Shine for your light has come; 
-   יהוה’s <em>kavod</em>[foot]kavod כבוד - often translated as "glory." Alternately, "divine resplendent spirit"[/foot] has shined on you!
+   <span class="hebrew">יהוה</span>’s <em>kavod</em>[foot]kavod כבוד - often translated as "glory." Alternately, "divine resplendent spirit"[/foot] has shined on you!
 Behold – darkness shall cover the earth, 
-   thick clouds cover the nations,
-   but יהוה will shine upon you, 
+   thick clouds cover the people,
+   but <span class="hebrew">יהוה</span> will shine upon you, 
    their <em>kavod</em> will be seen over you.
 Nations will walk by your light, 
    royalty by your radiance.[foot]Isaiah 60:1-3[/foot]
@@ -52,11 +52,11 @@ Nations will walk by your light,
 You will not need 
    the sun for light by day, 
    nor the moon for radiance. 
-יהוה will be for you the light of the cosmos, 
+<span class="hebrew">יהוה</span> will be for you the light of the cosmos, 
   your <em>elo'ah</em> shall be for your enlightenment.
 Your sun will never set; 
    your moon will not wane.
-יהוה will be your light in the cosmos, 
+<span class="hebrew">יהוה</span> will be your light in the cosmos, 
    and your days of mourning will end.[foot]Isaiah 60:19-20[/foot]
    </div>
 </td></tr></tbody></table>
@@ -84,7 +84,7 @@ veshalemu yeme evlekh.
 
 <hr />
 
-Rabbi Levi Weiman-Kelman introduced the tradition of reading these verses from Isaiah during the month of Kislev through the end of Ḥanukkah in his <em>Siddur Ha'Avodah Shebalev</em> of Kehillat Kol HaNeshamah (R' Levi Weiman-Kelman, R' Ma'ayan Turner, and Shaul Vardi, 2007). The prayer is said  at the end of Kabbalat Shabbat, after Psalms 93, and before Barkhu.
+Rabbi Levi Weiman-Kelman introduced the tradition of reading these verses from Isaiah during the month of Kislev through the end of Ḥanukkah in his <em>Siddur Ha'Avodah Shebalev</em> of Ḳehillat Ḳol HaNeshamah (R' Levi Weiman-Kelman, R' Ma'ayan Turner, and Shaul Vardi, 2007). The prayer is said  at the end of Ḳabbalat Shabbat, after Psalms 93, and before Barkhu.
 
 Although the season of recitation is not clear in the print copy, it is shown in the draft manuscript (provided courtesy of Rabbi Weiman-Kelman).
 

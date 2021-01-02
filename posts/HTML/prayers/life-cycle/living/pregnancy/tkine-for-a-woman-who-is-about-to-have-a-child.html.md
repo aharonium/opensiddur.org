@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: תחנה פאר אײן אִשָׁה װאָס דארף האָבּין אײַן קינד | Tkhine for a Woman who is about to Have a Child (1910)<br />
+Title: תחנה פאר אײן אִשָׁה װאָס דארף האָבּין אײַן קינד | Tkhine for a Woman who is about to Have a Child (1910)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=29939">http://opensiddur.org/?p=29939</a>
 <p />
@@ -12,7 +12,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr><td style="vertical-align:top;">
 <div class="yiddish"><span lang="yi">
-אֵל רַחוּם וְחַנוּן! שטארקער בּאשעפער, האָבּ רַחֲמָנוֹת אױף די אִשָׁה (פב״פ) (מען דארף דא דערמאנען דעם נאמען פון די יוֹלֶדֶת, אונ דעם נאָמען פון איר מוטער) אז זי זאָל האָבּין דאָס קינד בְּשָׁלוֹם, דער זְכוּת פון אונזערע הײליגע אִמָהוֹת, שָׂרָה, רִבְקָה, רָחֵל, וְלֵאָה, אונ דעם זְכוּת פון אונזערע נְבִיאוּת מִרְיָם, דְבוֹרָה, חַנָה, חוּלְדָה, אונ דער זְכוּת פון יָעֵל זאָלין איר בּײַשטײן אין די סַכָּנָה צײַט, אז זי זאָל האָבּין דאָס קינד גרינג אן יְסוּרִים, דען דו גאָט קאָנסט װײַזין אזא נֵס, בִּזְכוּת די צִדְקָנִיוֹת פון אונזערע עלטערין, אונ דאס קינד זאָל גיבָּארין װערין אײַן רײַנע זעלע צו דײַן דינסט, אײַן צַדִיק, אונ ער זאָל עוֹסֵק זײַן בַּתּוֹרָה וּבְּמִצְוֹת, אונ אױבּע א נְקֵבָה, זאָל זי זײַן אײַן אִשָׁה צְנוּעָה, אײַן אִשָׁה יִרְאַת ה׳ אונ זאָל האָבּין אגוטין מַזָל, עס זאָל גיזונד זײַן די מוטער מיט די קינד, אונ זי זאָל קומען אױף דער װעלט, צוא יֽשׁוּעֹות וְנֶחָמוֹת אױף כְּלַל יִשְׂרָאֵל, אין איר צײַט זאָלין יודען זוֹכֶה זײַן אײַן װארע גְאוּלָה אָמֵן׃
+אֵל רַחוּם וְחַנוּן! שטארקער בּאשעפער, האָבּ רַחֲמָנוֹת אױף די אִשָׁה (פב״פ) (מען דארף דא דערמאנען דעם נאמען פון די יוֹלֶדֶת, אונ דעם נאָמען פון איר מוטער) אז זי זאָל האָבּין דאָס קינד בְּשָׁלוֹם, דער זְכוּת פון אונזערע הײליגע אִמָהוֹת, שָׂרָה, רִבְקָה, רָחֵל, וְלֵאָה, אונ דעם זְכוּת פון אונזערע נְבִיאוּת מִרְיָם, דְבוֹרָה, חַנָה, חוּלְדָה, אונ דער זְכוּת פון יָעֵל זאָלין איר בּײַשטײן אין די סַכָּנָה צײַט, אז זי זאָל האָבּין דאָס קינד גרינג אן יְסוּרִים, דען דו גאָט קאָנסט װײַזין אזא נֵס, בִּזְכוּת די צִדְקָנִיוֹת פון אונזערע עלטערין, אונ דאס קינד זאָל גיבָּארין װערין אײַן רײַנע זעלע צו דײַן דינסט, אײַן צַדִיק, אונ ער זאָל עוֹסֵק זײַן בַּתּוֹרָה וּבְּמִצְוֹת, אונ אױבּע א נְקֵבָה, זאָל זי זײַן אײַן אִשָׁה צְנוּעָה, אײַן אִשָׁה יִרְאַת ה׳ אונ זאָל האָבּין אגוטין מַזָל, עס זאָל גיזונד זײַן די מוטער מיט די קינד, אונ זי זאָל קומען אױף דער װעלט, צוא יֽשׁוּעֹות וְנֶחָמוֹת אױף כְּלַל יִשְׂרָאֵל, אין איר צײַט זאָלין יודען זוֹכֶה זײַן אײַן װארע גְאוּלָה אָמֵן׃
 </span></div></td>
 
 <td style="vertical-align:top;">
@@ -24,7 +24,7 @@ Merciful and gracious El! Mighty Creator, have compassion on the woman <span cla
 
 <hr />
 
-This is a faithful transcription of the תחנה פאר אײן אִשָׁה װאָס דארף האָבּין אײַן קינד ("Tkhine for a Woman who is about to Have a Child") as it appears in the compilation of tkhines, <em><a href="http://opensiddur.org/?p=22300">Rokhl Weeps for Her Children</a></em> (1910). I have transcribed it without any changes from <em>The Merit of Our Mothers</em> בזכות אמהות <em>A Bilingual Anthology of Jewish Women's Prayers</em>, compiled by Rabbi Tracy Guren Klirs, Cincinnati: Hebrew Union College Press, 1992. <em>shgiyot mi yavin, ministarot nakeni.</em>
+This is a faithful transcription of the תחנה פאר אײן אִשָׁה װאָס דארף האָבּין אײַן קינד ("Tkhine for a Woman who is about to Have a Child") as it appears in the compilation of tkhines, <em><a href="http://opensiddur.org/?p=22300">Rokhl Weeps for Her Children</a></em> (1910). I have transcribed it without any changes from <em>The Merit of Our Mothers</em> בזכות אמהות <em>A Bilingual Anthology of Jewish Women's Prayers</em>, compiled by Rabbi Tracy Guren Klirs, Cincinnati: Hebrew Union College Press, 1992. <em>shgiyot mi yavin, ministarot nakeni.</em>
 
 <h3>Source</h3>
 

@@ -12,7 +12,7 @@ Arranged and translated by Yosef Naḥmuli, Καθημεριναι Προσευ�
 
 Making digital images of these works available is the first step in our process of making the entire prayerbook, both Hebrew liturgy and Greek translation, machine-readable (copy-pastable and searchable). We are grateful to the Klau Library of Hebrew Union College of making this Public Domain work available to us for digitization from their copy on microfilm.
 
-Please join our transcription and proofreading of this siddur taking place on <a href="https://el.wikisource.org/wiki/%CE%92%CE%B9%CE%B2%CE%BB%CE%AF%CE%BF:Seder_Tefilot_K%27Minhag_K.K._Sefaradim_(Yosef_Nachmuli,_Korfu_1885).pdf">Greek Wikisource</a> and <a href="https://he.wikisource.org/wiki/%D7%9E%D7%A4%D7%AA%D7%97:Seder_Tefilot_K%27Minhag_K.K._Sefaradim_(Yosef_Nachmuli,_Korfu_1885).pdf">Hebrew Wikisource</a>.
+Please join our transcription and proofreading of this siddur taking place on <a href="https://el.wikisource.org/wiki/Μεταγραφή:Seder_Tefilot_K%27Minhag_K.K._Sefaradim_(Yosef_Nachmuli,_Korfu_1885).pdf">Greek Wikisource</a> and <a href="https://he.wikisource.org/wiki/%D7%9E%D7%A4%D7%AA%D7%97:Seder_Tefilot_K%27Minhag_K.K._Sefaradim_(Yosef_Nachmuli,_Korfu_1885).pdf">Hebrew Wikisource</a>.
 </div>
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/SederTefilotKMinhagK.K.SefaradimYosefNachmuliKorfu1885#page/n2/mode/2up"]

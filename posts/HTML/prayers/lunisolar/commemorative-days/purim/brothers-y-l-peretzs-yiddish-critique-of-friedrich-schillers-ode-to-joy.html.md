@@ -122,9 +122,9 @@ it's all an Enlightenment fiction!
 <tr><td style="vertical-align:top;" width="46%">
 <div class="yiddish" style="text-align: right;"><span lang="he">
 אומעטום דער זעלבער מוסר,
-אומעטום דאָס זעלבע לײַגן —
+אומעטום דאָס זעלבע לײַגן —
 מיטן מױל דער גאנצער עולם,
-די פּאָליטיקער מיט שװײַגן!
+די פּאָליטיקער מיט שװײַגן!
 </span></div>
 </td>
  

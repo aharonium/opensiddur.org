@@ -23,12 +23,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
-...וְכִתְּתוּ חַרְבוֹתָם לְאִתִּים...וְלֹא־יִלְמְדוּ עוֹד מִלְחָמָה׃ <span class="citation">(ישעיה ב:ד)</span>
+...וְכִתְּתוּ חַרְבוֹתָם לְאִתִּים...
+וְלֹא־יִלְמְדוּ עוֹד מִלְחָמָה׃ <span class="citation">(ישעיה ב:ד)</span>
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-“And they shall turn their swords into ploughshares, and . . . they shall not learn any more war ”— Isaiah 2:4 
+“And they shall turn their swords into ploughshares, and...
+they shall not learn any more war ”— <span class="citation">(Isaiah 2:4)</span>
 </div></td></tr>
 
 
@@ -95,5 +97,7 @@ And evermore resound.
 <h3>Source(s)</h3>
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/hymnsofpraiseandprayermaxklein1926#page/n41/mode/2up"]
+
+&nbsp;
 </body>
 </html>

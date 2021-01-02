@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: כוונה בהדלקת נר חנוכּה | Kavvanah for the Mitsvah of Kindling the Ḥanukkah Lights by Rebbe Tsvi Elimelekh Spira of Dinov (trans. Morah Yehudis Fishman)<br />
+Title: כוונה בהדלקת נר חנוכּה | Kavvanah for the Mitsvah of Kindling the Ḥanukkah Lights by Rebbe Tsvi Elimelekh Spira of Dinov (trans. Moreh Yehudis Fishman)<br />
 Primary contributor: yehudis.fishman<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=5580">http://opensiddur.org/?p=5580</a>
 <p />
@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr>
-<td style="vertical-align:top" width="46%">
+<td style="vertical-align:top" >
 <div class="liturgy"><span lang="he">
 לְשֵׁם יִחוּד קֻדְשָׁא בְּרִיךְ הוּא וּשְׁכִינְתֵּהּ, 
 בִּדְחִילוּ וּרְחִימוּ וּרְחִימוּ וּדְחִילוּ, 
@@ -23,7 +23,8 @@ For attribution and license, please consult the following URL: <a href="http://o
 לְתַקֵן אֶת שׁוֹרְשָׁה בְּמָקוֹם עֶלְיוֹן:‏
 </span></div></td>
  
-<td style="vertical-align:top" width="53%"><div class="english">
+<td style="vertical-align:top">
+<div class="english">
 For the purpose of the unification of the Holy One and His divine (feminine) Presence, 
 with trepidation and love and love and trepidation, 
 to unify the name Yud-Kay with Vav-Kay (the four letters of the Tetragrammaton) 
@@ -35,7 +36,8 @@ to repair her root in a supernal abode.
 </div></td></tr>
     
     
-<tr><td style="vertical-align:top" width="46%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top">
+<div class="liturgy"><span lang="he">
 וּבְכֵן יְהִי רָצוֹן מִלְפָנֶיךָ 
 יְיָ אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֹתֵינוּ 
 שֶׁתְּהֵא חֲשׁוּבָה וּמְקֻבֶּלֶת וּמְרֻצָּה לְפָנֶיךָ 
@@ -45,7 +47,8 @@ to repair her root in a supernal abode.
 בִּשְׁבִיל כְּבוֹד שִׁמְךָ הַגָדוֹל הַגִּבּוֹר וְהַנּוֹרָא.‏
 </span></div></td>
  
-<td style="vertical-align:top" width="53%"><div class="english">
+<td style="vertical-align:top">
+<div class="english">
 And so, may it be Your will before You, 
 YHVH our <em>elo'ah</em> and <em>elo'ah</em> of our ancestors, 
 that the commandment of lighting the Ḥanukkah light 
@@ -56,14 +59,16 @@ for the sake of the honor of Your great, powerful and awesome name.
 </div></td></tr>
     
     
-<tr><td style="vertical-align:top" width="46%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top">
+<div class="liturgy"><span lang="he">
 וְאַתָּה בְּרַחֲמֶיךָ הָרַבִּים 
 עוֹרַרְתָּ נִצְחֲךָ עֲלֵיהֶם 
 לְנַצֵּחַ אֶת אוֹיְבֵיהֶם 
 וּלְנַצֵחַ עַל מְלֶאכֶת בֵּית יְיָ, 
 </span></div></td>
  
-<td style="vertical-align:top" width="53%"><div class="english">
+<td style="vertical-align:top">
+<div class="english">
 And You, through your abundant compassion, 
 awakened Your victory upon them, 
 to overcome their opponents 
@@ -71,14 +76,16 @@ and to be victorious for the activities of the house of G-d.
 </div></td></tr>
     
     
-<tr><td style="vertical-align:top" width="46%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top">
+<div class="liturgy"><span lang="he">
 וְהִנְנִי עוֹשֶׂה עַל דַּעְתָּם וְעַל כַּוָּנָתָם 
 וְעַל דַּעַת כׇּל הַצַדִּיקִים וְהַחֲסִידִים שֶׁהָיוּ בְּאוֹתוֹ הַדּוֹר 
 שֶׁהִשְׁפַּעְתָּ לָהֶם נִסֶּיךָ 
 וְזָכוּ לֵאוֹר בְּאוֹר הַחַיִּים, 
 </span></div></td>
  
-<td style="vertical-align:top" width="53%"><div class="english">
+<td style="vertical-align:top">
+<div class="english">
 Behold I serve as an extension of their awareness and intention 
 and on the awareness of all the righteous and pious ones that were in that generation,
 upon whom You bestowed Your miracles 
@@ -86,7 +93,8 @@ and who merited to shine with the illumination of life.
 </div></td></tr>
     
     
-<tr><td style="vertical-align:top" width="46%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top">
+<div class="liturgy"><span lang="he">
 וְעַל דַּעַת כׇּל הַצַּדִּיקִים וְהַחֲסִידִים שֶׁבְּדוֹרוֹתֵינוּ, 
 וּפִי כְּפִיהֶם וַעֲשִׂיָּתִי כַּעֲשִׂיָּתָם, 
 וּבִזְכוּת הַמִּצְוָה הַזֹּאת 
@@ -95,7 +103,8 @@ and who merited to shine with the illumination of life.
 וְגַלֵּה כְּבוֹד מַלְכוּתְךָ עָלֵינוּ מְהֵרָה 
 </span></div></td>
  
-<td style="vertical-align:top" width="53%"><div class="english">
+<td style="vertical-align:top">
+<div class="english">
 With the awareness of all the righteous and the pious in our generation, 
 and with the mouth of their mouths and the acts of their acts, 
 and in the merit of this mitsvah, 
@@ -105,14 +114,16 @@ and reveal the glory of Your majesty upon us speedily.
 </div></td></tr>
     
     
-<tr><td style="vertical-align:top" width="46%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top">
+<div class="liturgy"><span lang="he">
 וְלֹא יָמוּשׁ הַתּוֹרָה מִפִּינוּ וּמִפִּי זַרְעֵינוּ 
 וּמִפִּי זֶרַע זַרְעֵינוּ מֵעַתָּה וְעַד עוֹלָם, 
 וְנִזְכֶּה לְבָנִים תַּלְמִידֵי חֲכָמִים 
 אָמֵן כֵּן יְהִי רָצוֹן.‏
 </span></div></td>
  
-<td style="vertical-align:top" width="53%"><div class="english">
+<td style="vertical-align:top">
+<div class="english">
 May the Torah never depart from our mouths and the mouths of our offspring, 
 and the offspring of our offspring, from now and forever. 
 And may we merit children who are students of the wise, 
@@ -120,7 +131,8 @@ Amen, so may it be Your will.
 </div></td></tr>
     
     
-<tr><td style="vertical-align:top" width="46%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top">
+<div class="liturgy"><span lang="he">
 קַדְּשֵׁנוּ בְּמִצְוֺתֶיךָ 
 וְתֵן חֶלְקֵנוּ בְּתוֹרָתֶךָ 
 שַׂבְּעֵנוּ מִטוּבֶךָ וְשַׂמַּח 
@@ -128,7 +140,8 @@ Amen, so may it be Your will.
 וְטַהֵר לִבֵּנוּ לְעָבְדְךָ בֶּאֱמֶת.‏
 </span></div></td>
  
-<td style="vertical-align:top" width="53%"><div class="english">
+<td style="vertical-align:top">
+<div class="english">
 Sanctify us in Your commandments 
 and give us a portion in Your Torah. 
 Satiate us from Your goodness, 
@@ -137,18 +150,22 @@ and purify our hearts to serve You in truth.
 </div></td></tr>
     
     
-<tr><td style="vertical-align:top" width="46%"><div class="liturgy"><span lang="he">
- מְלֹךְ עַל כׇּל הָעוֹלָם כֻּלּוֹ בִּכְבוֹדֶךָ 
- וְהִנָּשֵׂא עַל כׇּל הָאָרֶץ בִּיקָרֶךָ 
- וְהוֹפַע בַּהֲדַר גְּאוֹן עֻזֶּךָ 
- עַל כׇּל יוֹשְׁבֵי תֵבֵל אַרְצֶךָ, 
- וְיֵדַע כׇּל פָּעוּל כִּי אַתָּה פְעַלְתּוֹ 
- וְיָבִין כׇּל יְצִיר כִּי אַתָּה יְצַרְתּוֹ 
- וְיֹאמַר כׇּל אֲשֶׁר נְשָׁמָה <strong>בְאַפּוֹ</strong> (בגי' <strong>חנוכה</strong>) 
- <strong>יְהֹוָה אֱלֹהֵי יִשְׂרָאֵל מֶלֶךְ וּמַלְכוּתוֹ בַּכׇּל מָשָׁלָה</strong> (בגי' כ"ו פעמים חנ"ה אותיות <strong>חנוכה</strong>, ובגי' <strong>מתתיהו בן יוחנן כהן גדול חשמנאי ובניו</strong>).‏
+<tr><td style="vertical-align:top">
+<div class="liturgy"><span lang="he">
+מְלֹךְ עַל כׇּל הָעוֹלָם כֻּלּוֹ בִּכְבוֹדֶךָ 
+וְהִנָּשֵׂא עַל כׇּל הָאָרֶץ בִּיקָרֶךָ 
+וְהוֹפַע בַּהֲדַר גְּאוֹן עֻזֶּךָ 
+עַל כׇּל יוֹשְׁבֵי תֵבֵל אַרְצֶךָ, 
+וְיֵדַע כׇּל פָּעוּל כִּי אַתָּה פְעַלְתּוֹ 
+וְיָבִין כׇּל יְצִיר כִּי אַתָּה יְצַרְתּוֹ 
+וְיֹאמַר כׇּל אֲשֶׁר נְשָׁמָה <strong>בְאַפּוֹ</strong> (בגי' <strong>חנוכה</strong>) 
+<strong>יְהֹוָה אֱלֹהֵי יִשְׂרָאֵל מֶלֶךְ וּמַלְכוּתוֹ בַּכׇּל מָשָׁלָה</strong> 
+(בגי' כ"ו פעמים חנ"ה אותיות <strong>חנוכה</strong>, 
+ובגי' <strong>מתתיהו בן יוחנן כהן גדול חשמנאי ובניו</strong>).‏
 </span></div></td>
  
-<td style="vertical-align:top" width="53%"><div class="english">
+<td style="vertical-align:top">
+<div class="english">
 Draw the whole world to Your glory, 
 be elevated above all the earth in Your splendor, 
 and manifest in the magnificent majesty of Your might 
@@ -160,20 +177,21 @@ YHVH, <em>elo'ah</em> of Yisra'el, the King and His Kingdom, reigns over all...�
 </div></td></tr>
     
     
-<tr><td style="vertical-align:top" width="46%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top">
+<div class="liturgy"><span lang="he">
 אָמֵן נֶצַח סֶלָה וָעֶד:‏
 </span></div></td>
  
-<td style="vertical-align:top" width="53%"><div class="english">
-Amen, for all eternity.
-    </div></td></tr>
-</tbody>
+<td style="vertical-align:top">
+<div class="english">
+<em>Amen</em>, for all eternity.
+</div></td></tr>
 </tbody></table>
 
 <hr />
 
 The preceding <em>kavvanah</em> for the mitsvah of kindling was composed by <span lang="he" class="liturgy">רבי צבי אלימלך שפירא מדינוב</span> (Rebbe Tzvi Elimelech Spira of <a href="http://kehilalinks.jewishgen.org/dynow/">Dynów</a>, c.1783 – 1841), author of the <span lang="he" class="liturgy">בני יששכר</span> (Bnei Yiśakhar) and founder of the Ḥasidic lineage that includes the Ḥasidim of Munkacz and Bluzhov. The <em>kavvanah</em> often appears just prior to the brakhot for kindling the lights of Ḥanukkah in many Ḥasidic prayerbooks.
 
-We are extremely grateful to Morah Yehudis Fishman for her translation of this <em>kavvanah</em> in time for the fifth night of Ḥanukkah 5774.
+&nbsp;
 </body>
 </html>

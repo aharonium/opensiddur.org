@@ -9,7 +9,9 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <style type="text/css" media="all">.printfriendly {display: none!important;}</style>
 
-<strong>DOWNLOAD:</strong> <a href="https://archive.org/download/ParashatVayeshevTorahReadingWithEnglishTranstropilationLenFellman2018/ParashatVayeshevTorahReadinggenesis37-40InEnglishTranstropilationlenFellman2018-EnglishOnly.pdf">PDF</a> and <a href="https://archive.org/download/ParashatVayeshevTorahReadingWithEnglishTranstropilationLenFellman2018/ParashatVayeshevTorahReadinggenesis37-40InEnglishTranstropilationlenFellman2018-EnglishOnly.odt">ODT</a> (sans Hebrew) | <a href="https://archive.org/download/ParashatVayeshevTorahReadingWithEnglishTranstropilationLenFellman2018/Parashat%20Vayeshev%20Torah%20Reading%20%28Genesis%2037-40%29%20in%20English%20transtropilation%20%28Len%20Fellman%202018%29.pdf">PDF</a> and <a href="https://archive.org/download/ParashatVayeshevTorahReadingWithEnglishTranstropilationLenFellman2018/Parashat%20Vayeshev%20Torah%20Reading%20%28Genesis%2037-40%29%20in%20English%20transtropilation%20%28Len%20Fellman%202018%29.odt">ODT</a> (with Hebrew) 
+<strong>DOWNLOAD:</strong> 
+<a href="https://archive.org/download/ParashatVayeshevTorahReadingWithEnglishTranstropilationLenFellman2018/Parashat%20Vayeshev%20Torah%20Reading%20%28Genesis%2037v1-40v23%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.pdf">PDF</a> | <a href="https://archive.org/download/ParashatVayeshevTorahReadingWithEnglishTranstropilationLenFellman2018/Parashat%20Vayeshev%20Torah%20Reading%20%28Genesis%2037v1-40v23%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.odt">ODT</a> (sans Hebrew) 
+<a href="https://archive.org/download/ParashatVayeshevTorahReadingWithEnglishTranstropilationLenFellman2018/Parashat%20Vayeshev%20Torah%20Reading%20%28Genesis%2037v1-40v23%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29.pdf">PDF</a> | <a href="https://archive.org/download/ParashatVayeshevTorahReadingWithEnglishTranstropilationLenFellman2018/Parashat%20Vayeshev%20Torah%20Reading%20%28Genesis%2037v1-40v23%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29.odt">ODT</a> (with Hebrew) 
 
 <hr />
 
@@ -17,6 +19,12 @@ This is an English translation of Genesis 37:1-40:23, the Torah reading for Para
 
 <h3>Source</h3>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/ParashatVayeshevTorahReadingWithEnglishTranstropilationLenFellman2018#page/n0/mode/2up"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/ParashatVayeshevTorahReadingWithEnglishTranstropilationLenFellman2018/Parashat%20Vayeshev%20Torah%20Reading%20%28Genesis%2037v1-40v23%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29#page/n0/mode/2up"]
+
+&nbsp;
+
+<hr />
+
+&nbsp;
 </body>
 </html>

@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: God’s Goodness — the Testament of Nature, for Thanksgiving Day by Rabbi Milton Steinberg (1945)<br />
+Title: God’s Goodness — the Testament of Nature, a prayer for Thanksgiving Day by Rabbi Milton Steinberg (1945)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=25379">http://opensiddur.org/?p=25379</a>
 <p />

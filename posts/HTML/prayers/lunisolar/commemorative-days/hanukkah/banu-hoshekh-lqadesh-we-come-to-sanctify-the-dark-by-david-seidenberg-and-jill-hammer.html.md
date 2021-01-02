@@ -125,8 +125,14 @@ Come up, to greet the light! (2x)
 
 These are alternative lyrics to the popular Ḥanukkah song, <a href="https://opensiddur.org/prayers/lunar-cycle/commemorative-days/hanukkah/banu-hoshekh-lgaresh-by-sara-levi-tanai/">Banu Ḥoshekh L'Garesh</a> (We come to chase the dark away) by Sara Levi-Tanai (1960).
 
-<h3>Source(s)</h3>
+<h3>Recordings</h3>
 
-[gview file="https://opensiddur.org/wp-content/uploads/2018/12/Banu-Hoshekh-lQadesh-David-Seidenberg-neohasid.org-2018.pdf"]
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/948051217&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/itaiandtheophanim" title="ItaiGal" target="_blank" style="color: #cccccc; text-decoration: none;" rel="noopener">ItaiGal</a> · <a href="https://soundcloud.com/itaiandtheophanim/banu-choshech-she-renews-medley" title="Banu Choshech She Renews medley" target="_blank" style="color: #cccccc; text-decoration: none;" rel="noopener">Banu Choshech She Renews medley</a></div>
+
+<h3>Source</h3>
+
+https://opensiddur.org/wp-content/uploads/2018/12/Banu-Hoshekh-lQadesh-David-Seidenberg-neohasid.org-2018.pdf
+
+&nbsp;
 </body>
 </html>

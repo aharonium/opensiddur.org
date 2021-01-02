@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: אַ ײִדיש ליד, צער בעלי־חיים | Tsaar Baalei Ḥayyim [It is forbidden to cause] suffering to a living creature, a song in Yiddish<br />
+Title: צער בעלי־חיים | Tsaar Baalei Ḥayyim [It is forbidden to cause] suffering to a living creature, a song in Yiddish<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=12347">http://opensiddur.org/?p=12347</a>
 <p />
@@ -12,21 +12,21 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr><td style="vertical-align:top;" width="31%">
 <div class="yiddish"><span lang="he">
-צער בעלי־חיים, צער בעלי־חיים,
-מע טאָר נישט מאַכן אַ „בובו‟ פֿאַר אַ חיה.
-אויב מע מאַכט אַ „בובו‟ פֿאַר אַ חיה,
-פֿאַנגט עס אָן צו ווײַנען:
-„אוי וויי, סע טוט מיר וויי,
-אוי וויי, סע טוט מיר וויי.
-אוי וויי, סע טוט מיר וויי.‟
-סע שטייט אין דער הייליקער תּורה,
-מע טאָר נישט מאַכן אַ „בובו‟ פֿאַר אַ חיה.
+צַעַר בַּעֲלֵי־חַיִּים, צַעַר בַּעֲלֵי־חַיִּים,
+מע טאָר נישט מאַכן אַ „בּוּבּוּ‟ פֿאַר אַ חַיָּה.
+אויבּ מע מאַכט אַ „בּוּבּוּ‟ פֿאַר אַ חַיָּה,
+פֿאַנגט עס אָן צו װײַנען:
+„אױ װײַ, סע טוט מיר װײַ,
+אױ װײַ, סע טוט מיר װײַ.
+אױ װײַ, סע טוט מיר װײַ.‟
+סע שטײט אין דער הײליקער תּוֹרָה,
+מע טאָר נישט מאַכן אַ „בּוּבּוּ‟ פֿאַר אַ חַיָּה.
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="33%">
 <div class="english">
-Tsar balei ḥayyim, tsaar balei ḥayyim,
+Tsaar balei ḥayyim, tsaar balei ḥayyim,
 me tor nisht makhn a booboo far a ḥaye,
 (Vayl) oyb me makht a booboo far a ḥaye,
 Fangt es (Haybt zi) on tsu vaynen
@@ -39,7 +39,7 @@ Me tor nisht makhn a booboo far a ḥaye
  
 <td style="vertical-align:top;" width="33%">
 <div class="english">
-<em>Tsar balei ḥayyim</em>, <em>tsar balei ḥayyim</em>,
+<em>Tsaar baalei ḥayyim</em>, <em>tsaar baalei ḥayyim</em>,
 One may not make a booboo for an animal
 (Because) if one makes a booboo for an animal,
 She begins to cry
@@ -59,7 +59,7 @@ Among other verses, the mitsvah of <em>tsaar baalei ḥayyim</em> is derived fro
 
 In Sefer haYovelim (a/k/a Jubilees, circa 3rd century BCE), the need for circumscribing the predatory nature of humankind after the <em>Dor Hamabul</em> (depraved generation of the Flood) is given as the <em>raison d'etre</em> for the giving of the Torah. As required by the covenant of the Rainbow made to Noaḥ and his descendants after the flood, a representative people was needed who might abide by the general commandment of <em>ever min haḥai</em> (forbidding eating living creatures). In this tradition, Avraham was the first to prove worthy since his actions epitomized <em>ḥesed</em>, lovingkindness (an innovation in Judaism's mytho-historic chronicle of humanity in Genesis). As noted in Rav Shlomo Kluger's HaElef L’cha Shlomo in Yoreh Deah 322, dairy foods, the product of living creatures, were prohibited after the Flood, but this prohibition was relaxed upon the giving of the Torah at Sinai just as the prohibition against eating flesh was relaxed after the covenant at Ararat. For this reason, dairy is a symbolic food eaten on the festival of Shavuot (Pentecost) and remains a symbolic food representing the subversion of predatory nature as reflected in <a href="https://opensiddur.org/prayers-for/special-days/commemorative-days/hanukkah/megillat-yehudit-for-hanukkah/">Megilat Yehudith</a> and the dairy food traditions of the festival of Ḥanukkah. (More <a href="http://aharon.varady.net/omphalos/2010/05/happy-vegetarian-shavuot">here</a>.)
 
-<h3>Source</h3>
+<h3>Recordings</h3>
 
 https://youtu.be/lWlJ6_E923Y
 

@@ -130,7 +130,8 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <h3>Source</h3>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.archive.org/stream/TefilohSefasYisroelRallisWiesenthal?ui=embed"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/TefilohSefasYisroelRallisWiesenthal#page/n0/mode/2up"]
+
 
 <hr />
 

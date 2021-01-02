@@ -8,8 +8,8 @@ For attribution and license, please consult the following URL: <a href="http://o
 <hr />
 
 <strong>DOWNLOAD:</strong> 
-<a href="https://archive.org/download/parashatvayishlahhaftarahreadingovadiahwithenglishtranstropilationlenfellman2019/Parashat%20Vayishlah%20Haftarah%20Reading%20%28Ovadiah%201v1-21%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29%20-%20english%20only.pdf">PDF</a> or <a href="https://archive.org/download/parashatvayishlahhaftarahreadingovadiahwithenglishtranstropilationlenfellman2019/Parashat%20Vayishlah%20Haftarah%20Reading%20%28Ovadiah%201v1-21%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29%20-%20english%20only.odt">ODT</a> (sans Hebrew)
-<a href="https://archive.org/download/parashatvayishlahhaftarahreadingovadiahwithenglishtranstropilationlenfellman2019/Parashat%20Vayishlah%20Haftarah%20Reading%20%28Ovadiah%201v1-21%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29.pdf">PDF</a> or <a href="https://archive.org/download/parashatvayishlahhaftarahreadingovadiahwithenglishtranstropilationlenfellman2019/Parashat%20Vayishlah%20Haftarah%20Reading%20%28Ovadiah%201v1-21%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29.odt">ODT</a> (with Hebrew)
+<a href="https://archive.org/download/parashatvayishlahhaftarahreadingovadiahwithenglishtranstropilationlenfellman2019/Parashat%20Vayishlah%20Haftarah%20Reading%20%28Ovadiah%201v1-21%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.pdf">PDF</a> or <a href="https://archive.org/download/parashatvayishlahhaftarahreadingovadiahwithenglishtranstropilationlenfellman2019/Parashat%20Vayishlah%20Haftarah%20Reading%20%28Ovadiah%201v1-21%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.odt">ODT</a> (sans Hebrew)
+<a href="https://archive.org/download/parashatvayishlahhaftarahreadingovadiahwithenglishtranstropilationlenfellman2019/Parashat%20Vayishlah%20Haftarah%20Reading%20%28Ovadiah%201v1-21%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29.pdf">PDF</a> or <a href="https://archive.org/download/parashatvayishlahhaftarahreadingovadiahwithenglishtranstropilationlenfellman2019/Parashat%20Vayishlah%20Haftarah%20Reading%20%28Ovadiah%201v1-21%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29.odt">ODT</a> (with Hebrew)
 
 <hr />
 
@@ -17,7 +17,13 @@ This is an English translation of the Haftarah reading for Parashat Vayishlaḥ 
 
 <h3>Source</h3>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/parashatvayishlahhaftarahreadingovadiahwithenglishtranstropilationlenfellman2019/Parashat%20Vayishlah%20Haftarah%20Reading%20%28Ovadiah%201v1-21%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29#page/n0"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/parashatvayishlahhaftarahreadingovadiahwithenglishtranstropilationlenfellman2019/Parashat%20Vayishlah%20Haftarah%20Reading%20%28Ovadiah%201v1-21%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29#page/n0"]
+
+&nbsp;
+
+<hr />
+
+&nbsp;
 
 </body>
 </html>

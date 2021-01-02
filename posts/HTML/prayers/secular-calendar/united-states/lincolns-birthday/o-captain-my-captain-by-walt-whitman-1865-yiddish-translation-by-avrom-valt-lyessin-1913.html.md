@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: אָ, קאפּיטאן! מײַן קאפּיטאן!‏ | O Captain! My Captain!, an elegy for President Abraham Lincoln by Walt Whitman (1865), Yiddish translation by Avrom Valt-Lyessin (1913)<br />
+Title: אָ, קאפּיטאן! מײַן קאפּיטאן!‏ | O Captain! My Captain!, an elegy for President Abraham Lincoln by Walt Whitman (1865), Yiddish translation by Avrom Valt-Lyessin (1913)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=30201">http://opensiddur.org/?p=30201</a>
 <p />

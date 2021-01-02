@@ -24,7 +24,7 @@ A retelling of the story found in <a href="https://opensiddur.org/readings-and-s
  
 <td style="vertical-align:top;">
 <div class="english">
-In the twenty-third year of King Antiokhus, that is the two hundred and thirteenth year from the building of the Second Temple, an evil spirit drove him on[foot]Isaiah 59:19[/foot], his tongue was a sharp sword[foot]Psalm 57:5[/foot] outstretched from its sheath[foot]I Samuel 17:51[/foot], to strike down the land with the rod of his mouth[foot]Isaiah 11:4[/foot]. 
+In the twenty-third year of King Antiokhus, that is the two hundred and thirteenth year from the building of the Second Temple, an evil spirit drove him on[foot]Isaiah 59:19[/foot], his tongue was a sharp sword[foot]Psalms 57:5[/foot] outstretched from its sheath[foot]I Samuel 17:51[/foot], to strike down the land with the rod of his mouth[foot]Isaiah 11:4[/foot]. 
 </div></td></tr>
 
 
@@ -35,7 +35,7 @@ In the twenty-third year of King Antiokhus, that is the two hundred and thirteen
  
 <td style="vertical-align:top;">
 <div class="english">
-And he answered and said to all his officials and servants, the nobles[foot]Esther 1:3[/foot] sitting first in the kingdom[foot]Esther 1:15[/foot]: "Do you not know? Have you not heard?[foot]Isaiah 40:21[/foot] For this people, the children of Yisrael who are in Yerushalayim, are a ruthless nation[foot]Deuteronomy 28:50[/foot], and their laws are different from all peoples, and the laws of the king they do not obey[foot]Esther 3:8[/foot], which are great and high for them. They say, 'Our own hand has prevailed![foot]Deuteronomy 32:27[/foot] And always, every day, the destruction of kings is fulfilled, as is said: Lo, darkness shall cover the earth, And thick clouds the peoples[foot]Isaiah 60:2[/foot], and a light shines for the upright in the darkness[foot]Psalm 112:4[/foot], and all the children of Yisrael had light in their dwellings![foot]Exodus 10:23[/foot] And to me, I, the King, it is not in my interest to let them be.[foot]Esther 3:8[/foot] So now get up and we'll make war upon them; let's wipe them out as a nation[foot]Obadiah 1:1[/foot]; and Yisrael’s name will be mentioned no more![foot]Psalm 83:5[/foot] Come, let us be wise about them[foot]Exodus 1:10[/foot] to nullify their rest day and circumcision and new moon!" And it was good in the eyes of his officials and servants to do according to the word of the king. 
+And he answered and said to all his officials and servants, the nobles[foot]Esther 1:3[/foot] sitting first in the kingdom[foot]Esther 1:15[/foot]: "Do you not know? Have you not heard?[foot]Isaiah 40:21[/foot] For this people, the children of Yisrael who are in Yerushalayim, are a ruthless nation[foot]Deuteronomy 28:50[/foot], and their laws are different from all peoples, and the laws of the king they do not obey[foot]Esther 3:8[/foot], which are great and high for them. They say, 'Our own hand has prevailed![foot]Deuteronomy 32:27[/foot] And always, every day, the destruction of kings is fulfilled, as is said: Lo, darkness shall cover the earth, And thick clouds the peoples[foot]Isaiah 60:2[/foot], and a light shines for the upright in the darkness[foot]Psalms 112:4[/foot], and all the children of Yisrael had light in their dwellings![foot]Exodus 10:23[/foot] And to me, I, the King, it is not in my interest to let them be.[foot]Esther 3:8[/foot] So now get up and we'll make war upon them; let's wipe them out as a nation[foot]Obadiah 1:1[/foot]; and Yisrael’s name will be mentioned no more![foot]Psalms 83:5[/foot] Come, let us be wise about them[foot]Exodus 1:10[/foot] to nullify their rest day and circumcision and new moon!" And it was good in the eyes of his officials and servants to do according to the word of the king. 
 </div></td></tr>
 
 
@@ -79,13 +79,13 @@ And a divine spirit enclothed[foot]Judges 6:34[/foot] Yoḥanan son of Matityahu
  
 <td style="vertical-align:top;">
 <div class="english">
-And Yoḥanan went before the king, and Niqanor said to him, "Why do you transgress the king's command,[foot]Esther 3:3[/foot] and not desire peace of his kingdom? Do you not know, have you not heard[foot]Isaiah 40:28[/foot] that I have the power (in strength and military might) to do you harm,[foot]Genesis 31:29[/foot] so that not one of you escapes or gets away![foot]Joshua 8:22[/foot] For now you as well I should kill[foot]Numbers 22:33[/foot], and them, I burned them like chaff before the wind![foot]Psalm 83:14[/foot] And whom among all the national gods have saved their lands from my hand, that YHWH should save Yerushalayim from my hand[foot]II Kings 18:35[/foot]!" 
+And Yoḥanan went before the king, and Niqanor said to him, "Why do you transgress the king's command,[foot]Esther 3:3[/foot] and not desire peace of his kingdom? Do you not know, have you not heard[foot]Isaiah 40:28[/foot] that I have the power (in strength and military might) to do you harm,[foot]Genesis 31:29[/foot] so that not one of you escapes or gets away![foot]Joshua 8:22[/foot] For now you as well I should kill[foot]Numbers 22:33[/foot], and them, I burned them like chaff before the wind![foot]Psalms 83:14[/foot] And whom among all the national gods have saved their lands from my hand, that YHWH should save Yerushalayim from my hand[foot]II Kings 18:35[/foot]!" 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
-וַיַּעַן יוֹחָנָן לַמֶּלֶךְ לֵאמֹר׃ עַתָּה בָּאתִי אֵלֶיךָ כׇּל־אֲשֶׁר תַּחְפֹּץ אֶעֱשֶׂה לֹ֥א אָס֖וּר מִמִצְוֹתֶיךָ יָמִ֥ין וּשְׂמֹֽאול׃ וְיֹאמַר לוֹ הַמֶּלֶךְ וּבַמֶּ֣ה ׀ יִוָּדַ֣ע אֵפ֗וֹא כִּי אַתָּה סָר אֶל מִשְׁמַעְתִּי׃הַלֹּא כַּאֲשֶׁר תִּקְרַב אֶל הַמִּזְבֵּחַ וְתַּעֲשֶׂה אֶת־חַטָּֽאתְךָ֙ וְאֶת־עֹ֣לָתֶ֔ךָ בְּחָלָב וְדָם הַחֲזִיר הַזֶּה וַתִּלְבַּשׁ בִּגְדֵי מַלְכוּת אֲשֶׁ֥ר לָֽבַשׁ־בּ֖וֹ הַמֶּ֑לֶךְ  וַתִּרְכַּב עַל מִרְכֶּ֤בֶת הַמִּשְׁנֶה֙ אֲשֶׁר־ל֔וֹ  וַאֲשֶׁ֥ר נִתַּ֛ן כֶּ֥תֶר מַלְכ֖וּת בְּרֹאשֶֽׁךָ׃ 
+וַיַּעַן יוֹחָנָן לַמֶּלֶךְ לֵאמֹר׃ עַתָּה בָּאתִי אֵלֶיךָ כׇּל־אֲשֶׁר תַּחְפֹּץ אֶעֱשֶׂה לֹ֥א אָס֖וּר מִמִצְוֹתֶיךָ יָמִ֥ין וּשְׂמֹֽאול׃ וְיֹאמַר לוֹ הַמֶּלֶךְ וּבַמֶּ֣ה ׀ יִוָּדַ֣ע אֵפ֗וֹא כִּי אַתָּה סָר אֶל מִשְׁמַעְתִּי׃ הַלֹּא כַּאֲשֶׁר תִּקְרַב אֶל הַמִּזְבֵּחַ וְתַּעֲשֶׂה אֶת־חַטָּֽאתְךָ֙ וְאֶת־עֹ֣לָתֶ֔ךָ בְּחָלָב וְדָם הַחֲזִיר הַזֶּה וַתִּלְבַּשׁ בִּגְדֵי מַלְכוּת אֲשֶׁ֥ר לָֽבַשׁ־בּ֖וֹ הַמֶּ֑לֶךְ  וַתִּרְכַּב עַל מִרְכֶּ֤בֶת הַמִּשְׁנֶה֙ אֲשֶׁר־ל֔וֹ  וַאֲשֶׁ֥ר נִתַּ֛ן כֶּ֥תֶר מַלְכ֖וּת בְּרֹאשֶֽׁךָ׃ 
 </span></div></td>
  
 <td style="vertical-align:top;">
@@ -134,7 +134,7 @@ And at the end of his petition he strengthened and fortified his heart and said,
  
 <td style="vertical-align:top;">
 <div class="english">
-And when Antiokhus heard that his second-in-command Niqanor was killed, it troubled him greatly, and he sent out and called to all his officials and servants, as well as his higher second-in-command, and said to them, "Should I not have this nation be punished[foot]Jeremiah 5:29[/foot], that destroyed and injured my armies and disgraced my camps and officials? And now, why are we still? Come on, let's go to war on them, to nullify their rest day and new moon and circumcision, and who is the god who could save them from my hand?" And he sent Bagris with a a great army and many people, and he went to Yerushalayim and besieged it[foot]Daniel 1:1[/foot]. And they rebelled against the highest God[foot]Psalm 78:56[/foot], and they vexed Him with their high places; and with their idols they incensed Him[foot]Psalm 78:58[/foot] on the altar of their gods. And they sent out a call in the camp from the king that said: "Every single man who keeps the rest days of YHWH or the new moon or circumcision will die!" 
+And when Antiokhus heard that his second-in-command Niqanor was killed, it troubled him greatly, and he sent out and called to all his officials and servants, as well as his higher second-in-command, and said to them, "Should I not have this nation be punished[foot]Jeremiah 5:29[/foot], that destroyed and injured my armies and disgraced my camps and officials? And now, why are we still? Come on, let's go to war on them, to nullify their rest day and new moon and circumcision, and who is the god who could save them from my hand?" And he sent Bagris with a a great army and many people, and he went to Yerushalayim and besieged it[foot]Daniel 1:1[/foot]. And they rebelled against the highest God[foot]Psalms 78:56[/foot], and they vexed Him with their high places; and with their idols they incensed Him[foot]Psalms 78:58[/foot] on the altar of their gods. And they sent out a call in the camp from the king that said: "Every single man who keeps the rest days of YHWH or the new moon or circumcision will die!" 
 </div></td></tr>
 
 
@@ -145,7 +145,7 @@ And when Antiokhus heard that his second-in-command Niqanor was killed, it troub
  
 <td style="vertical-align:top;">
 <div class="english">
-And many of the children of Yisrael in those days were giving their lives for the sake of the <em>kavod</em>/glory of the blessed Maqom, rather than nullify the covenant of their ancestors. And a certain Levite woman circumcised her sons at eight days with drums and dance, and she went up to the wall of Yerushalayim and her son, the bridegroom of blood[foot]Exodus 4:25[/foot], she held in her hand. And she answered and said before God, "All this has come upon us, but we have not forgotten You, and we have not been false to Your covenant! Our hearts have not been led astray, our steps have not swerved from Your path![foot]Psalm 44:18-19[/foot]" And she threw herself with her son from atop the wall and the two of them died. And many of the children of Yisrael acted like her rather than break the covenant of their ancestors, or abandon the Holy One of Yisrael.
+And many of the children of Yisrael in those days were giving their lives for the sake of the <em>kavod</em>/glory of the blessed Maqom, rather than nullify the covenant of their ancestors. And a certain Levite woman circumcised her sons at eight days with drums and dance, and she went up to the wall of Yerushalayim and her son, the bridegroom of blood[foot]Exodus 4:25[/foot], she held in her hand. And she answered and said before God, "All this has come upon us, but we have not forgotten You, and we have not been false to Your covenant! Our hearts have not been led astray, our steps have not swerved from Your path![foot]Psalms 44:18-19[/foot]" And she threw herself with her son from atop the wall and the two of them died. And many of the children of Yisrael acted like her rather than break the covenant of their ancestors, or abandon the Holy One of Yisrael.
 </div></td></tr>
 
 
@@ -178,7 +178,7 @@ And when Yoḥanan son of Matityahu and his four brother heard all this, they gi
  
 <td style="vertical-align:top;">
 <div class="english">
-And now, king, may my advice be good before you, that you do not battle them with a small number, lest we become a shame and disgrace before all the peoples and the kings of the land and all the nations[foot]Psalm 148:11[/foot]. If it appears good to the king, let it be written[foot]Esther 3:9[/foot], and let us send books in all the lands of your kingdom and let all the officials of every people go out, and let there not be one of them left." And the king did according to the word of Bagris, and the king sent out from all the lands the officials of each nation, with thousands upon myriads of soldiers, leaders of the army. 
+And now, king, may my advice be good before you, that you do not battle them with a small number, lest we become a shame and disgrace before all the peoples and the kings of the land and all the nations[foot]Psalms 148:11[/foot]. If it appears good to the king, let it be written[foot]Esther 3:9[/foot], and let us send books in all the lands of your kingdom and let all the officials of every people go out, and let there not be one of them left." And the king did according to the word of Bagris, and the king sent out from all the lands the officials of each nation, with thousands upon myriads of soldiers, leaders of the army. 
 </div></td></tr>
 
 
@@ -200,7 +200,7 @@ And when Bagris saw that great was his means and his army was growing and very s
  
 <td style="vertical-align:top;">
 <div class="english">
-And Yisrael lifted its eyes to on high and they said, "Not for us, YHWH, not for us but for Your own name grant honor[foot]Psalm 115:1[/foot], that it not be shamed by idolaters! Now they will say 'their god has no other ideas,' of whom it is written 'Great in ideas and vast in deeds'[foot]Jeremiah 32:19[/foot]!" The blessed Holy One said, "By your lives, my ideas are greater than yours, for YHWH will not forsake His people, will not abandon His inheritance.[foot]Psalm 94:14[/foot]" 
+And Yisrael lifted its eyes to on high and they said, "Not for us, YHWH, not for us but for Your own name grant honor[foot]Psalms 115:1[/foot], that it not be shamed by idolaters! Now they will say 'their god has no other ideas,' of whom it is written 'Great in ideas and vast in deeds'[foot]Jeremiah 32:19[/foot]!" The blessed Holy One said, "By your lives, my ideas are greater than yours, for YHWH will not forsake His people, will not abandon His inheritance.[foot]Psalms 94:14[/foot]" 
 </div></td></tr>
 
 
@@ -211,7 +211,7 @@ And Yisrael lifted its eyes to on high and they said, "Not for us, YHWH, not for
  
 <td style="vertical-align:top;">
 <div class="english">
-At the time Yisrael would expect that from the eastern mountains, maybe Persian idolaters would come to help them. Then this was angering to Matityahu the high priest, and he said to him, to Ḥashmonai, "And isn't written, 'Cursed is the man who places flesh as his strength and turns his heart from YHWH[foot]Jeremiah 17:5[/foot],' and 'Blessed is the man who trusts in YHWH and whose only trust is in YHWH[foot]Jeremiah 17:7[/foot]?'" And he said, "You have spoken well. I and my seven sons and you and your five sons are like the twelve tribes of YAH, witness to Yisrael[foot]Psalm 122:4[/foot]. I trust that the blessed Holy One will do miracles and wonders for us." And they fasted and wore sackcloth and ashes to beg for mercy from before the God of Heaven, the help and shield of Yisrael. And when they finished praying they arise from crouching on their knees and composed their thoughts. Faster than eagles, stronger than lions they were, and made war on the people and killed a great many kills. 
+At the time Yisrael would expect that from the eastern mountains, maybe Persian idolaters would come to help them. Then this was angering to Matityahu the high priest, and he said to him, to Ḥashmonai, "And isn't written, 'Cursed is the man who places flesh as his strength and turns his heart from YHWH[foot]Jeremiah 17:5[/foot],' and 'Blessed is the man who trusts in YHWH and whose only trust is in YHWH[foot]Jeremiah 17:7[/foot]?'" And he said, "You have spoken well. I and my seven sons and you and your five sons are like the twelve tribes of YAH, witness to Yisrael[foot]Psalms 122:4[/foot]. I trust that the blessed Holy One will do miracles and wonders for us." And they fasted and wore sackcloth and ashes to beg for mercy from before the God of Heaven, the help and shield of Yisrael. And when they finished praying they arise from crouching on their knees and composed their thoughts. Faster than eagles, stronger than lions they were, and made war on the people and killed a great many kills. 
 </div></td></tr>
 
 
@@ -222,7 +222,7 @@ At the time Yisrael would expect that from the eastern mountains, maybe Persian 
  
 <td style="vertical-align:top;">
 <div class="english">
-Said Rabbi Yitsḥaq bar Naḥmani, at that time the blessed Holy One caught seventy lower officials from the officials of the nations of the earth and pierced them with an awl of fire, and said to them "Kill the men near you, and if one of them is left your souls for theirs!" And since the [Seleucid] Greeks were educated in arrows and swords, the angels came and inserted them into their hearts, so that their swords would go into their hearts and their bows be broken[foot]Psalm 37:15[/foot]. And the Ḥashmonai were seeing the miracles and saying, "YHWH is fighting for us!" And every single king from the kings who were killed, angels would come up and waste them, and commanded upon the houses of Yisrael that they could not take spoils from the corpses. 
+Said Rabbi Yitsḥaq bar Naḥmani, at that time the blessed Holy One caught seventy lower officials from the officials of the nations of the earth and pierced them with an awl of fire, and said to them "Kill the men near you, and if one of them is left your souls for theirs!" And since the [Seleucid] Greeks were educated in arrows and swords, the angels came and inserted them into their hearts, so that their swords would go into their hearts and their bows be broken[foot]Psalms 37:15[/foot]. And the Ḥashmonai were seeing the miracles and saying, "YHWH is fighting for us!" And every single king from the kings who were killed, angels would come up and waste them, and commanded upon the houses of Yisrael that they could not take spoils from the corpses. 
 </div></td></tr>
 
 

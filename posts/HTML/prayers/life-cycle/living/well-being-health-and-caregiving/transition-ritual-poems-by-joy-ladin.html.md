@@ -10,14 +10,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 The transition ritual poems below are an effort to hear in the Torah the voices of the various parts of the trans self calling one another toward wholeness.
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">English (source)</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 My voice is the voice of your body:
 <p style="padding-left: 30px;">I cry out all night, but you don't listen.</p>
@@ -41,12 +41,12 @@ My voice is the voice of your body:
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 My voice is the voice of the man you were:
 <p style="padding-left: 30px;">I was asleep, I was a kind of sleep,</p>
@@ -70,12 +70,12 @@ My voice is the voice of the man you were:
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 My voice is the voice of your grief:
 <p style="padding-left: 30px;">I am your cry for the children you lost,</p>
@@ -97,12 +97,12 @@ My voice is the voice of your grief:
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 My voice is the voice of the woman you wish you were:
 <p style="padding-left: 30px;">You keep trying to close the door, to lock yourself</p>
@@ -130,12 +130,12 @@ My voice is the voice of the woman you wish you were:
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 My voice is the voice of your future:
 <p style="padding-left: 30px;">Here I come, leaping over mountains, bounding over hills.</p>
@@ -161,12 +161,12 @@ My voice is the voice of your future:
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 My voice is the voice of becoming:
 <p style="padding-left: 30px;">I know, I'm pushing you hard, I'm knocking you off your feet.</p>

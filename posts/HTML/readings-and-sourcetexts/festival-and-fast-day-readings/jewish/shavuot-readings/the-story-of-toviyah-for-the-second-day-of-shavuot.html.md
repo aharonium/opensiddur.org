@@ -1,16 +1,16 @@
 <html>
 <head></head>
 <body>
-Title: מעשה טוביה ליום שני של שבועות | The Story of Toḅiyah for the second day of Shavuot<br />
+Title: מעשה טוביה ליום שני של שבועות | The Story of Toḇiyah for the second day of Shavuot<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=23063">http://opensiddur.org/?p=23063</a>
 <p />
 <hr />
 
 <div class="english" style="font-size: 1.2em;">
-I have set here Ḥakham Moses Gaster's transcription and his English translation of a medieval Jewish adaptation of the story of Toḅiyah (a/k/a Toḅit). I've made some light changes to Gaster's translation, mostly in removing the high english and re-hebraicizing Anglicized names. Isaac Gantwerk Mayer has kindly taken my transcription and applied his skills in adding niqqudot and t'amim so that this Megillat Tobit for the second day of Shavuot may be chanted.
+I have set here Ḥakham Moses Gaster's transcription and his English translation of a medieval Jewish adaptation of the story of Toḇiyah (a/k/a Toḅit). I've made some light changes to Gaster's translation, mostly in removing the high english and re-hebraicizing Anglicized names. Isaac Gantwerk Mayer has kindly taken my transcription and applied his skills in adding niqqudot and t'amim so that this Megillat Tobit for the second day of Shavuot may be chanted.
 
-The earliest texts of Toḅiyah can be found in Aramaic and these served as the basis for translations into Greek, Syriac, Latin, and Hebrew. Gaster published this short Hebrew version ("for reading on Shavuot") along with a longer Hebrew translation that is closer to what was found in an Aramaic version which Adolf Neubauer had published about twenty years prior. In his introduction to his 1897 publication of this manuscript, Moses Gaster writes, 
+The earliest texts of Toḇiyah can be found in Aramaic and these served as the basis for translations into Greek, Syriac, Latin, and Hebrew. Gaster published this short Hebrew version ("for reading on Shavuot") along with a longer Hebrew translation that is closer to what was found in an Aramaic version which Adolf Neubauer had published about twenty years prior. In his introduction to his 1897 publication of this manuscript, Moses Gaster writes, 
 
 <blockquote>In this MS. (Codex Or. Gaster 28), we find a homily for the second day of Pentecost (Shavuot), the first part of which is a literal translation of the Aramaic text (of Tobit), but very much shortened towards the end. The greatest stress is laid on the giving of tithes, and the history of Tobit is adduced as an example of the grace of God bestowed on the man who fulfils faithfully the duty of paying his tithes. The lesson for the second day of Pentecost commences with the verse, Deut. 14:22, “Thou shalt surely tithe all the increase of thy seed, that which cometh forth of the field year by year.” The same words stand at the head of the Aramaic text and of the Hebrew. Here the introduction is more spun out than in the Aramaic text, which is merely an abridged copy of the original. Through this official connection with the liturgy one understands the reason why in the Aramaic and in this Hebrew version, which I will call H.G. (Hebrew Gaster), and in Ar. mention is made (II, 1) of the feast of Pentecost. Jerome and H.L. (Gaster's other Hebrew manuscript of Tobit, Hebrew London) have merely a <em>feast of the Lord</em>. It may just as well be, that because this feast is mentioned in the legend the legend itself was brought in connection with the lesson of that day.
 
@@ -19,7 +19,9 @@ Now H.G. follows Aramaic as closely as possible, though leaving out the greater 
 The minute comparison of the Aramaic (Neub.) with H.G. (for which that is the direct original), besides being interesting as illustrating the way how the abridgement was effected, is also of value for critical purposes. One point is especially important. When Tobi deposits the money with Gabael he received from him, according to the Greek, a <em>handwriting</em> (5:3) or a <em>note of hand</em>, so also Itala and Jer. H. L. has, a <em>token</em> (4:10), Ar. and H.M. have instead <em>a bag</em>, which to say the least, is very incongruous. In H.G. we have <em>a ring</em> as a token, which seems to be superior to all the rest. With a slight alteration one could amend the word אמתחת, <em>bag</em>, of H.M., into חתמת, which means a <em>seal</em>. This would imply that the Aramaic is a translation from the corrupted Hebrew text and not </em>vice versa</em>. But one example alone would not suffice to determine definitely the position in which those texts stand to one another. Without pursuing, therefore, this question any further, I limit myself merely to pointing it out. Many other similar contributions to the criticism of the text are to be found in this Hebrew version, for which reasonl publish this also, and add an English translation to it. I have divided it into chapters according to the Aramaic and Greek, but without the division of verses, as these chapters are very small, and it is quite unnecessary to subdivide them any further.</em></blockquote>
 </div>
 
-[su_audio url="https://archive.org/download/MegilatTuviyahMetuamIsaacGantwerkMayer2018/Megilat%20Tuviyah%20metu%27am%20%28Isaac%20Gantwerk%20Mayer%202018%29.mp3" width="33%"]
+<h3>Recordings</h3>
+
+https://archive.org/download/MegilatTuviyahMetuamIsaacGantwerkMayer2018/Megilat%20Tuviyah%20metu%27am%20%28Isaac%20Gantwerk%20Mayer%202018%29.mp3
 
 <table style="width:100%;margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Adaptation (Hebrew with Niqqud and T'amim)</th><th style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
@@ -100,7 +102,7 @@ And after the death of the king Shalmanesser, his son Sennacherib reigned in his
  
 <td style="vertical-align:top;" width="48%">
 <div class="english">
-2. When the festival of Shavuot came, his wife prepared a plentiful meal, and as he sat at the table, he said to his son Toḅiyah: "Go, and bring to me some of our poor brethren, such as fear Elohim, to eat with us." Then Toḅiyah went and found a man slain, cast out in the street, and he told his father. What did his father do? He rose from the table and he went with him, and he took him from the street of the city, and brought him into a house until the going down of the sun, that he might be able to bury him. And he turned to his house and ate his bread in mourning. And he said: "Woe that on us is fulfilled, 'and I will turn your feasts and your songs into mourning' (Cf. Amos 8:10).” 
+2. When the festival of Shavuot came, his wife prepared a plentiful meal, and as he sat at the table, he said to his son Toḅiyah: "Go, and bring to me some of our poor brethren, such as fear Elohim, to eat with us." Then Toḇiyah went and found a man slain, cast out in the street, and he told his father. What did his father do? He rose from the table and he went with him, and he took him from the street of the city, and brought him into a house until the going down of the sun, that he might be able to bury him. And he turned to his house and ate his bread in mourning. And he said: "Woe that on us is fulfilled, 'and I will turn your feasts and your songs into mourning' (Cf. Amos 8:10).” 
 </div></td></tr>
 
 
@@ -228,7 +230,7 @@ Our sages say that on that day, the blessed Holy One accepted (both) their praye
  
 <td style="vertical-align:top;" width="48%">
 <div class="english">
-5. And Toḅiyah answered his father: "All that you have commanded me I will do: but how can I take the money from the hand of Gaḅael, who knows me not, and I know not him? His father said to him: "Take this ring, which he has given me, and I have given him my ring. And now, my son, seek you a trusty man, who may go with you, and I will give him his wages. So Toḅiyah went immediately to seek for a man who might go with him, and he found the angel Raphael standing by. But he did not recognise him that he was an angel of YHVH. He asked him: "From where are you?" He answered him, "From the Children of Yisrael." He said to him: "Know you how to go to Madai?" And he said: "Yes." Toḅiyah said to him: "Tarry a little for my sake, and I will tell my father." Toḅiyah went and told his father. He said to him: "Call him." And he said to him: "My son Toḅiyah desires to go to Madai; are you willing to go with him?" He said to him: "Yes!" And Toḅi called his son immediately, and said to him: "Prepare yourself, and go with this man, and may the Elo'ah of Heaven prosper your way and bring you back in peace.
+5. And Toḇiyah answered his father: "All that you have commanded me I will do: but how can I take the money from the hand of Gaḅael, who knows me not, and I know not him? His father said to him: "Take this ring, which he has given me, and I have given him my ring. And now, my son, seek you a trusty man, who may go with you, and I will give him his wages. So Toḇiyah went immediately to seek for a man who might go with him, and he found the angel Raphael standing by. But he did not recognise him that he was an angel of YHVH. He asked him: "From where are you?" He answered him, "From the Children of Yisrael." He said to him: "Know you how to go to Madai?" And he said: "Yes." Toḇiyah said to him: "Tarry a little for my sake, and I will tell my father." Toḇiyah went and told his father. He said to him: "Call him." And he said to him: "My son Toḇiyah desires to go to Madai; are you willing to go with him?" He said to him: "Yes!" And Toḅi called his son immediately, and said to him: "Prepare yourself, and go with this man, and may the Elo'ah of Heaven prosper your way and bring you back in peace.
 </div></td></tr>
 
 
@@ -244,7 +246,7 @@ Our sages say that on that day, the blessed Holy One accepted (both) their praye
  
 <td style="vertical-align:top;" width="48%">
 <div class="english">
-6. Both went then on their journey, and they came to the river Euphrates, and they passed the night there. And Toḅiyah ran to the river to drink, and a fish came out and ate his bread, and he cried out. And Raphael said to Toḅiyah: "Lay hold of the fish, and do not let it go." Toḅiyah went and laid hold of the fish and drew it out, and Raphael said to him: "Open it in the middle and take its heart; it is good to burn it before a man in whom the spirit of Sheydim is, to make them flee from him; and take also the gall, for it is good to anoint therewith the eyes in which there is blindness, and they shall be healed." So Toḅiyah did as the angel commanded him, and they went to Madai. And Raphael said to Toḅiyah: "My brother, you come to the house of Reuel, who is an old man, and has a daughter who is exceeding fair, whose name is Sarah, speak to him that he may give her to you for a wife. Toḅiyah said to him: "I have heard that she has been given in marriage to seven men, and they died before they came in unto her." Raphael said: "Fear not! when you shall be with her in the marriage chamber, take the heart of the fish and burn thereof under her garment, and the sheyd will smell it, and will run away."
+6. Both went then on their journey, and they came to the river Euphrates, and they passed the night there. And Toḇiyah ran to the river to drink, and a fish came out and ate his bread, and he cried out. And Raphael said to Toḅiyah: "Lay hold of the fish, and do not let it go." Toḇiyah went and laid hold of the fish and drew it out, and Raphael said to him: "Open it in the middle and take its heart; it is good to burn it before a man in whom the spirit of Sheydim is, to make them flee from him; and take also the gall, for it is good to anoint therewith the eyes in which there is blindness, and they shall be healed." So Toḇiyah did as the angel commanded him, and they went to Madai. And Raphael said to Toḅiyah: "My brother, you come to the house of Reuel, who is an old man, and has a daughter who is exceeding fair, whose name is Sarah, speak to him that he may give her to you for a wife. Toḇiyah said to him: "I have heard that she has been given in marriage to seven men, and they died before they came in unto her." Raphael said: "Fear not! when you shall be with her in the marriage chamber, take the heart of the fish and burn thereof under her garment, and the sheyd will smell it, and will run away."
 </div></td></tr>
 
 
@@ -260,7 +262,7 @@ Our sages say that on that day, the blessed Holy One accepted (both) their praye
  
 <td style="vertical-align:top;" width="48%">
 <div class="english">
-7. Raphael said to Reuel: "Give your daughter to Toḅiyah for a wife." And he said: "Hineni/I am willing." And Reuel took his daughter Sarah and gave her to Toḅiyah for a wife. And Reuel said to his wife: "Prepare a bedchamber." Toḅiyah and his wife Sarah went into it; and Toḅiyah remembered the words of Raphael, and he took the heart of the fish and put it on a censer and burnt it under the clothes of Sarah. And Ashmedai received the smell, and he fled instantly; and both prayed to the blessed Holy One, who had healed her. 
+7. Raphael said to Reuel: "Give your daughter to Toḇiyah for a wife." And he said: "Hineni/I am willing." And Reuel took his daughter Sarah and gave her to Toḇiyah for a wife. And Reuel said to his wife: "Prepare a bedchamber." Toḇiyah and his wife Sarah went into it; and Toḇiyah remembered the words of Raphael, and he took the heart of the fish and put it on a censer and burnt it under the clothes of Sarah. And Ashmedai received the smell, and he fled instantly; and both prayed to the blessed Holy One, who had healed her. 
 </div></td></tr>
 
 
@@ -276,7 +278,7 @@ Our sages say that on that day, the blessed Holy One accepted (both) their praye
  
 <td style="vertical-align:top;" width="48%">
 <div class="english">
-On the morrow, Toḅiyah said to Raphael: "Go to Gaḅael, that he may give you ten talents of gold." Raphael went immediately, and brought the money.
+On the morrow, Toḇiyah said to Raphael: "Go to Gaḅael, that he may give you ten talents of gold." Raphael went immediately, and brought the money.
 </div></td></tr>
 
 
@@ -308,7 +310,7 @@ And Raphael said to Toḅiyah: "You know that you have left your father and your
  
 <td style="vertical-align:top;" width="48%">
 <div class="english">
-In after days Elohim blessed Toḅiyah also, because he fulfilled the command of his father, and gave tithes of everything that he possessed. Hence we learn how great is the power of alms and tithes, and how, because Toḅi gave alms and separated his tithes as is required, the blessed Holy One rewarded him! And because the ancestors of the world knew the power of alms and tithes they were careful in observing them. Therefore did Mosheh warn the Yisraelim, saying to them: "You shall surely tithe all the increase of your seed."
+In after days Elohim blessed Toḇiyah also, because he fulfilled the command of his father, and gave tithes of everything that he possessed. Hence we learn how great is the power of alms and tithes, and how, because Toḅi gave alms and separated his tithes as is required, the blessed Holy One rewarded him! And because the ancestors of the world knew the power of alms and tithes they were careful in observing them. Therefore did Mosheh warn the Yisraelim, saying to them: "You shall surely tithe all the increase of your seed."
 </div></td></tr>
 </tbody></table>
 

@@ -13,10 +13,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 We have presented here a <a href="https://groups.google.com/d/msg/hasid/RRjDJzpfejQ/uHkqIR50LU0J">teaching that Rabbi Seidenberg shared</a> over the neoḥasid announcement listserve, "Chasidus w/o Borders" in 2013 just prior to the book entering its final phase of editing. Additionally, I have included with his teaching the sourcetexts he referenced from the Talmud Bavli, tractate <em>Brakhot</em>, and Rabbi Moshe Cordovero's <em>Palm Tree of Devorah</em>. --Aharon N. Varady, ed.</blockquote>
 
-<div class="english">
+<div class="english" style="font-size: 1.2em;">
 The Talmud (Brakhot 35a-b, see below) teaches that eating food without saying a <em>brakhah</em> (a blessing) beforehand is like stealing. A lot of people know that teaching, and it's pretty deep. But here's an even deeper part: the Talmud doesn't call it "stealing", but מעילה ("<em>me'ilah</em>"), which means taking from sacred property that belongs to the Temple. So that means that everything in the world is sacred and this Creation is like a HOLY TEMPLE.
 
-If <em>me'ilah</em> means that you can't use property that's sanctified, that's because sanctified property must be used for a sacred purpose and it must be used by the priests. So if saying a <em>brakhah</em> changes the status of something so that you can now eat it, what status is the <em>brakhah</em> changing? Is it turning the food into something that's no longer sacred and can therefore be used by an ordinary person (a הֶדיוֹט "<em>hedyot</em>")? OR, is it turning the person from a <em>hedyot</em> into a priest?
+If <em>me'ilah</em> means that you can't use property that's sanctified, that's because sanctified property must be used for a sacred purpose and it must be used by the priests. So if saying a <em>brakhah</em> changes the status of something so that you can now eat it, what status is the <em>brakhah</em> changing? Is it turning the food into something that's no longer sacred and can therefore be used by an ordinary person (a <span class="hebrew">הֶדיוֹט</span> "<em>hedyot</em>")? OR, is it turning the person from a <em>hedyot</em> into a priest?
 
 I think it means that by saying a blessing before we eat--or before we take in any pleasure that has a <em>brakhah</em>--we become like priests administering to Creation, which means we take on an awesome responsibility: that we should act not just for our own sake but for the sake of all people and all beings. That's the role of the priest in the Temple.
 
