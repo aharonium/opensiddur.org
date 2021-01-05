@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.4.1" created="2020-06-03 21:54" -->
+	<!-- generator="WordPress/5.6" created="2021-01-05 22:04" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>the Open Siddur Project</title>
 	<link>https://opensiddur.org</link>
 	<description>פְּרוֺיֶּקט הַסִּדּוּר הַפָּתוּחַ ✍ the open-source project for folk liberating liturgy and crafting their own prayerbooks</description>
-	<pubDate>Wed, 03 Jun 2020 21:54:35 +0000</pubDate>
+	<pubDate>Tue, 05 Jan 2021 22:04:19 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://opensiddur.org</wp:base_site_url>
@@ -41,7 +41,7 @@
 	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email>email redacted</wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[The]]></wp:author_first_name><wp:author_last_name><![CDATA[Admin]]></wp:author_last_name></wp:author>
 
 				
-	<generator>https://wordpress.org/?v=5.4.1</generator>
+	<generator>https://wordpress.org/?v=5.6</generator>
 
 <image>
 	<url>https://opensiddur.org/wp-content/uploads/2015/03/Open-Siddur-Project-Logo-2015-5509b4bdv1_site_icon-32x32.png</url>
@@ -120,7 +120,7 @@ The Open Siddur Project is committed to the following principles and movements w
 		<wp:post_name><![CDATA[mission]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>316</wp:post_parent>
-		<wp:menu_order>26</wp:menu_order>
+		<wp:menu_order>27</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -302,7 +302,7 @@ With modest financial needs and support from numerous small donors, Aharon, Efra
 		<wp:post_name><![CDATA[history]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>316</wp:post_parent>
-		<wp:menu_order>40</wp:menu_order>
+		<wp:menu_order>41</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -379,12 +379,8 @@ With modest financial needs and support from numerous small donors, Aharon, Efra
 		<dc:creator><![CDATA[hierophant]]></dc:creator>
 		<guid isPermaLink="false">http://opensiddur.net/?page_id=76</guid>
 		<description></description>
-		<content:encoded><![CDATA[<div class="english">
-If you'd like to connect with us over social media, join our discussion groups over on <a href="http://facebook.com/groups/opensiddur">Facebook</a>. We also have email groups for <a href="https://groups.google.com/forum/#!forum/opensiddur-tech">technical discussions</a> and for <a href="https://groups.google.com/forum/#!forum/opensiddur-talk">non-technical discussions</a>. 
-
-You can also follow our project on <a href="http://twitter.com/opensiddur">Twitter</a>, <a href="https://opensiddur.tumblr.com/">Tumblr</a>, <a href="http://pinterest.com/opensiddur">Pinterest</a>, and on our <a href="http://facebook.com/opensiddur">Facebook page</a>. 
-
-If you'd like to get an email when new posts appear on the site, please subscribe to our <a href="http://feedburner.google.com/fb/a/mailverify?uri=opensiddur">feedburner</a>.
+		<content:encoded><![CDATA[<div class="english" style="font-size: 1.2em;">
+If you'd like to connect with us over social media, join our discussion group on <a href="http://facebook.com/groups/opensiddur">Facebook</a>. For more technical discussions, find our <a href="https://groups.google.com/forum/#!forum/opensiddur-tech">email list</a> hosted on Google. You can also follow our project on <a href="http://twitter.com/opensiddur">Twitter</a> and via our <a href="http://facebook.com/opensiddur">Facebook page</a>. If you'd like to get an email when new posts appear on the site, please subscribe to our <a href="http://feedburner.google.com/fb/a/mailverify?uri=opensiddur">feedburner</a>.
 
 Want to make contact with our project? Please message us below. 
 
@@ -399,7 +395,7 @@ Want to make contact with our project? Please message us below.
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>56</wp:menu_order>
+		<wp:menu_order>57</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -458,7 +454,7 @@ Want to make contact with our project? Please message us below.
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[  ]]></wp:meta_value>
+		<wp:meta_value><![CDATA[    ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header_hide]]></wp:meta_key>
@@ -494,7 +490,7 @@ Want to make contact with our project? Please message us below.
 		<wp:post_name><![CDATA[contributing]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>18</wp:menu_order>
+		<wp:menu_order>19</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -593,7 +589,7 @@ Want to make contact with our project? Please message us below.
 		<wp:post_name><![CDATA[development]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>17414</wp:post_parent>
-		<wp:menu_order>21</wp:menu_order>
+		<wp:menu_order>22</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -658,57 +654,63 @@ Want to make contact with our project? Please message us below.
 		<dc:creator><![CDATA[hierophant]]></dc:creator>
 		<guid isPermaLink="false">http://opensiddur.net/?page_id=561</guid>
 		<description></description>
-		<content:encoded><![CDATA[
+		<content:encoded><![CDATA[&nbsp;
 
-<div class="english">
-<h4>General Questions</h4>
+<div class="english" style="font-size: 1.2em;">
+<h2>General Questions</h2>
+<hr />
+&nbsp;
 
-<h3>Ahem... what is a <em>siddur</em>?</h3>
-<p style="padding-left: 30px;">A <em>siddur</em> is a reference book for accessing Jewish spiritual practices. Because different communities have varying customs, any given <em>siddur</em> represents an established liturgy, or נוּסַח <em>nusaḥ</em>, of the community that it was published for. There are many different סִידּוּרִים <em>siddurim</em> (plural for <em>siddur</em>) since there are so many different Jewish communities. The variation between them reflects some of the history of the communities they represent. Any one siddur is an aggregate of thousands of years of creatively inspired work by many different authors. The content of a <em>siddur</em> is often arranged for an individual to use alone or as part of a group, and will contain Jewish liturgy and other material suitable for participating in Jewish spiritual practices, rituals, and other circumstances.</p>
+<h3>What is a <em>siddur</em>?</h3>
+<p style="padding-left: 30px;">A <em>siddur</em> is a reference book for accessing Jewish spiritual practices. Mainly, these are arrangements of prayers for communal worship with brief instructions for prayer leaders and for use by individuals. Because different communities have varying customs, any given <em>siddur</em> represents an established liturgical custom, or נוּסַח <em>nusaḥ</em>, of the community that it was published for. There are many different סִידּוּרִים <em>siddurim</em> (plural for <em>siddur</em>) since there are so many different Jewish communities. The variation between them reflects some of the history of the communities they represent. Any one siddur is an aggregate of thousands of years of creatively inspired work by many different authors. The content of a <em>siddur</em> is often arranged for an individual to use alone or as part of a group, and will contain Jewish liturgy and other material suitable for participating in Jewish spiritual practices, rituals, and other circumstances.
 
+A familiar expression of a Jewish spiritual practice is a form of intentional devotional reading, recitation, and singing. While there are pre-composed prayers in the siddur, there are also meditations, exercises, commentaries, readings from the תנ״ך <em>TaNaKh</em> (Hebrew Biblical Cannon), as well as instructions and guidelines for engaging in spiritual practices. The מטבע <em>matbeia</em> or arrangement of contents in any given Siddur might assume that text being read or listened to will help the practitioner focus their intention, access different internal relationships, and even achieve different mental states.</p>
 
-<h3>So it's like a prayer book... ?</h3>
-<p style="padding-left: 30px;">A familiar expression of a Jewish spiritual practice is a form of intentional devotional reading, recitation, and singing. While there are pre-composed prayers in the siddur, there are also meditations, exercises, commentaries, readings from the תנ״ך <em>TaNaKh</em> (Hebrew Biblical Cannon), as well as instructions and guidelines for engaging in spiritual practices. The מטבע <em>matbeia</em> or arrangement of contents in any given Siddur might assume that text being read or listened to will help the practitioner focus their intention, access different internal relationships, and even achieve different mental states.</p>
+&nbsp;
+<h3>What's the point of an "Open Siddur Project"? I already have a siddur.</h3>
+<p style="padding-left: 30px;">One-size fits all might make sense for elastic sweatpants, but hardly for expressing deep, meaningful relationships. Often, the deepest experiences are also the most fragile and difficult to access. Technologies which try to mediate these relationships, instead sadly succeed in alienating their users from their creative selves. For such an intimate relationship as that described by a spiritual practice, a mass-produced book cannot help but fail to reflect and support the practitioner's evolving personal experience. 
 
+The Open Siddur Project was begun with the goal of helping individuals to craft their own siddur. Imagine, for a moment, a web application where you  can compare the customs and variations that you're familiar with that of other communities, modify and adapt language and translation, incorporate personal or traditionally obscure material, and design new layouts that help you create a beautiful work reflecting your highest intentions in engaging in Jewish spiritual practices. Perhaps you want a very traditional siddur, just like your father or mother gave you, but you want to include family customs in it, or make some minor changes to the translation, or even translate portions yourself. It would cost thousands of dollars to pay a publisher to create a custom siddur for you. By providing the ingredients, digitized and freely licensed, this project empowers you to design a siddur for yourself. We're building such an application.  (At the end of the process we hope individuals can render a manuscript that the can handsomely print via an on-demand printer or custom bookbinder.) 
 
-<h3>Ok, so what's the point of your project? I already have a siddur.</h3>
-<p style="padding-left: 30px;">One-size fits all might make sense for elastic sweatpants, but hardly for expressing deep, meaningful relationships. Often, the deepest experiences are also the most fragile and difficult to access. Technologies which try to mediate these relationships, instead sadly succeed in alienating their users from their creative selves. For such an intimate relationship as that described by a spiritual practice, a mass-produced book cannot help but fail to reflect and support the practitioner's evolving personal experience. Imagine, for a moment, a siddur where you could compare the customs and variations you're familiar with with that of other communities, modify and adapt language and translation, incorporate personal or traditionally obscure material, and design new layouts that help you create a beautiful work reflecting your highest intentions in engaging in Jewish spiritual practices. The Open Siddur Project will help you craft such a siddur, and have it handsomely printed with an on-demand printer or custom bookbinder. Alternately, you can use the project to share material you've written, granting others explicit permission to adapt, modify, and incorporate it in their siddurim in accordance with standard Open Content, free-culture compatible licenses. By making so much material freely available, we want it to be adopted by Jewish educators and spiritual leaders helping to familiarize their students in the fluency of Jewish spirituality. Perhaps you want a very traditional siddur, just like your father or mother gave you, but you want to include family customs in it, or make some minor changes to the translation, or even translate portions yourself. It would cost thousands of dollars to pay a publisher to create a custom siddur for you. By providing the ingredients, digitized and freely licensed, this project empowers you to design a siddur for yourself.</p>
+While this application is being built, we're already a space for sharing prayers and related work with standard Open Content, free-culture compatible licenses. By making so much material freely available, we hope Jewish educators and spiritual leaders will find in this project a useful resource for their efforts. </p>
 
-
-<h3>What's this about Open Content licenses?</h3>
+&nbsp;
+<h3>What is an Open Content license?</h3>
 <p style="padding-left: 30px;">Cultures breathe creativity like we breathe oxygen. Can we envision a Jewish culture as vibrant and vital if copyright law automatically bottles up new works for the lifetime of the author plus 70 years? Open Content licenses are a means by which creators working as part of collaborative projects like Jewish spirituality, can grant their explicit permission for anyone to share, use, and modify their work so long as they provide attribution to the original author, and clearly indicate any changes to the work. The standard Open Content licenses used by the Open Siddur Project are three licenses composed by the Creative Commons organization in accordance with the Open Knowledge Foundation's <a href="http://opendefinition.org/">definition of open</a> and the Free Culture Foundation's <a href="http://freedomdefined.org/Definition">Definition of Free Cultural Works</a>. We recommend the <a href="http://www.creativecommons.org/publicdomain/zero/1.0">CC0</a> (Creative Commons Zero) license, a Public Domain dedication for digitizing and redistributing work that should unambiguously be considered to be in the Public Domain. We use <a href="http://www.creativecommons.org/licenses/by/3.0">CC BY</a> (By Attribution) for sharing work that are likely to be remixed in other works unlikely to be shared under an Open Content license. We recommend <a href="http://www.creativecommons.org/licenses/by-sa/3.0">CC BY-SA</a> (By Attribution ShareAlike) for creative work that we'd like to see remixed or improved upon under Open Content licenses until its copyright expires and it enters the Public Domain. Open Siddur Project contributors are empowered to choose their own Open Content license.</p>
 
-
-<h3>Ok, so how can I make my own siddur with the Open Siddur Project?</h3>
-<p style="padding-left: 30px;">Right now, since the Open Siddur Project is still in development, you can choose and select from the material we've made available with our free licenses and begin making your siddur offline. We recommend you use Unicode and open source licensed Hebrew fonts (take a look at our <a href="https://opensiddur.org/tools/fonts">font pack</a>), and make sure to configure your operating system so you can type with a Hebrew keyboard layout. (<a href="https://opensiddur.org/tools/typing">Here's how</a>.) Finally, we recommend you use a free open source text layout and editing tool: LibreOffice Writer, an application which is bundled in the <a href="http://www.libreoffice.org/download/">LibreOffice suite</a>. (<a href="https://opensiddur.org/tools/editing-layout/">Here's how to configure it to type in Right-to-Left texts like Hebrew</a>.)</p>
+&nbsp;
+<h3>How can I make my own siddur right now with this website?</h3>
+<p style="padding-left: 30px;">Right now, you can choose and select from the material we've made available with our free licenses and begin making your siddur offline. We recommend you use Unicode and open source licensed Hebrew fonts (take a look at our <a href="https://opensiddur.org/tools/fonts">font pack</a>), and make sure to configure your operating system so you can type with a Hebrew keyboard layout. (<a href="https://opensiddur.org/tools/typing">Here's how</a>.) Finally, we recommend you use a free open source text layout and editing tool: LibreOffice Writer, an application which is bundled in the <a href="http://www.libreoffice.org/download/">LibreOffice suite</a>. (<a href="https://opensiddur.org/tools/editing-layout/">Here's how to configure it to type in Right-to-Left texts like Hebrew</a>.)</p>
 <p style="padding-left: 30px;">We hope that you will help or join us in <a href="http://app.opensiddur.org">developing the Open Siddur web application</a> that will help you to select content, edit, and maintain your changes online. While developing this software we could also use your help digitizing content, researching and scanning manuscripts, providing legal support, or even sharing work you have created yourself. You can help us by volunteering for the project, sharing your own content with a standard free culture license, and helping us advocate for Judaism as a collaborative and non-proprietary communal endeavor.</p>
 
-
+&nbsp;
 <h3>This web application you mentioned, when will it be ready? I needed this last year!</h3>
 <p style="padding-left: 30px;">So far, the Open Siddur has been developed entirely on volunteer time by a handful of contributors. The scope of our vision is large, but the time it takes to realize our vision is really only limited to the number of folks who step up and volunteer with us. In the meantime, we will be adding features as we complete them and developing partnerships with allied organizations that believe in the utility of open source development and free culture. So the short answer is that the web application we're envisioning will be complete when we reach all of our <a href="https://github.com/opensiddur/opensiddur/milestones?state=open">Milestones</a> as soon as we have enough help to reach it. Until then, keep track of our progress via our news feeds on <a href="http://twitter.com/opensiddur">twitter</a>, <a href="https://opensiddur.tumblr.com">tumblr</a>, and <a href="https://www.facebook.com/opensiddur">facebook</a>. Or, you can use your skills to <a href="https://opensiddur.org/contribute">help us</a> make it a reality.</p>
 
 
+
+&nbsp; 
+
+
+<h2>Organizational Questions</h2>
 <hr />
-
-
-
-<h4>Organizational Questions</h4>
+&nbsp;
 
 <h3>Who are you people? Who are you affiliated with?</h3>
 <p style="padding-left: 30px;">The Open Siddur is an open source project and anyone can join by helping to code, transcribe, translate, scan books and facsimile editions, and compose new work shared with a free culture license. <strong>The project is non-denominational and non-prescriptive.</strong> What unites us is our intention to share our work on the Siddur and in Jewish spiritual practice. We come from many different backgrounds but share a passion for making the ingredients of the Siddur freely available.</p>
 <p style="padding-left: 30px;">Aharon Varady <a href="http://aharon.varady.net/omphalos/2002/08/update-2002-08-08">first articulated the project in 2002</a> but work did not begin in earnest until the project merged with <a href="http://efraimdf.tumblr.com/">Efraim Feinstein</a>'s Jewish Liturgy Project in early 2009. Aharon serves as hierophant and chief evangelist of the Open Siddur Project community and website. Efraim directs development of the Open Siddur <a href="https://github.com/opensiddur/opensiddur/milestones">web application</a> as its lead developer.</p>
 <p style="padding-left: 30px;">In order to receive <a href="https://www.razoo.com/us/story/Opensiddurproject">tax-deductible donations</a>, our project is a program of the <a href="http://jewishfreeculture.org/projects/">Jewish Free Culture Society</a> and is fiscally sponsored by the <a href="http://www.jewishcreativity.org/">Center for Jewish Culture &amp; Creativity</a>, a 501(3)c licensed non-profit organization.</p>
 
-
-<h3>What denomination of Judaism are you? Is this a Kiruv project?</h3>
+&nbsp;
+<h3>What denomination of Judaism are you? Is this a <em>kiruv</em> (Jewish outreach) project?</h3>
 <p style="padding-left: 30px;">Our project is non-prescriptive and non-denominational. What unites the community of contributors to the Open Siddur Project is an interest in sharing the literature and art of Jewish spiritual practice.</p>
 
-
-<h3>Who directs this project? Who's responsible? Is anything written down?</h3>
+&nbsp;
+<h3>Who directs this project? Who's responsible?</h3>
 <p style="padding-left: 30px;">When Efraim Feinstein and Aharon Varady first partnered on this project they wanted to empower as many people as possible to participate, but understood that there would need to be policies directing responsible stewardship of shared resources, and which might helpfully arbitrate disagreements. Take a look at our <a href="https://opensiddur.org/copyright-policy/">Copyright</a>, <a href="https://opensiddur.org/privacy-policy/">Privacy</a>, and <a href="https://opensiddur.org/terms-of-use/">Terms of Use</a> policies for additional guidance. The <a href="https://opensiddur.org/development/mission/">mission</a> and <a href="https://opensiddur.org/development/">vision</a> for the project provides documentation of our project's core principles and values.</p>
 <p style="padding-left: 30px;">The Open Siddur Project is directed by Aharon and he is responsible for administering the Open Siddur Project website and is the contact person on any questions not directly concerning software engineering. If you have any compliments or complaints concerning opensiddur.org -- <a href="https://opensiddur.org/contact/">please direct them</a> to Aharon, as it's his <em>avodat lev</em>. Aharon and Efraim collaborate on envisioning the Open Siddur web application, also called the Open Siddur Builder. Efraim is the lead developer and is responsible for birthing this application. He is the contact person on all details related to Open Siddur code <a href="http://github.com/opensiddur">hosted at Github</a>. If you would like to help develop our web application and want to get your hands dirty with syntax and libraries, please <a href="https://opensiddur.org/contact/">contact Efraim</a>. Both Aharon and Efraim regularly present on the topic of <a href="https://en.wikipedia.org/wiki/Open_Source_Judaism">Open Source in Judaism</a> and Open Content licensing.</p>
 
-
+&nbsp;
 <h3>I love this idea! So how do I volunteer and what can I do?</h3>
 <p style="padding-left: 30px;">In terms of organization, we are looking for individuals who can coordinate and lead teams dedicated to specific areas of the project:</p>
 
@@ -719,16 +721,18 @@ Want to make contact with our project? Please message us below.
 </ul>
 <p style="padding-left: 30px;">We need folks to transcribe, translate, scan books and facsimile editions, code, and share work they've already written or illustrated using free culture compatible Open Content licenses. If you can transcribe, the first step should be to <a href="https://opensiddur.org/tools/transcribe/">create an account on Wikisource</a> if you don't already have one. If you can code, your first step should be to create a github account and either <a href="https://opensiddur.org/contact/">start a conversation with Efraim</a>, or begin to read<a href="http://web.archive.org/web/20100507124255/http://wiki.jewishliturgy.org:80/Conditionals">conditional inclusion feature</a> we wrote for you. Communication is key in an Internet-based project like ours, so please join our<a href="http://groups.google.com/group/opensiddur-tech/"> technical discussion list</a> and introduce yourself. Please don't be shy. We need your passion for the project mission and your skills, whatever they are. If you don't have time to volunteer please make a charitable donation. We <a href="http://www.razoo.com/story/theopensiddurproject">accept financial donations using Razoo</a> through our fiscal sponsor, the <a href="http://www.jewishcreativity.org/">Center for Jewish Culture and Creativity</a>, a registered 501(c)3 nonprofit.</p>
 
-
+&nbsp;
 <h3>I have a related project. How can I use your resources or even partner with the Open Siddur Project?</h3>
 <p style="padding-left: 30px;">The project is open source so all of the work is free for you to use for your project so long as you adhere to the licenses we are using. In any case, please <a href="https://opensiddur.org/contact/">contact us</a> so that we can help signal boost your project!</p>
 
 
+
+&nbsp;
+
+
+<h2>Technical Questions</h2>
 <hr />
-
-
-
-<h4>Technical Questions</h4>
+&nbsp;
 
 <h3>Why not use OCR to speed up digitization of Hebrew texts?</h3>
 <p style="padding-left: 30px;"><a id="OCR"></a>Optical character recognition (OCR) works well to identify characters for English texts, and, in fact, we do use OCR on Latin-alphabet texts, such as the Singer Prayer Book and the 1917 JPS. We have not yet found any software (open or closed source) that will recognize Hebrew letters with vowels (<em>niqud</em>) with sufficient accuracy to make the proofreading effort less work than manual transcription. However, we do believe that with a little more attention, an open source project dedicated to this problem could make a great deal of headway.</p>
@@ -741,44 +745,47 @@ Want to make contact with our project? Please message us below.
 </blockquote>
 <p style="padding-left: 30px;">Such a two-pass OCR system would almost certainly benefit from a database of Hebrew words with niqqud. Such an open source Hebrew dictionary would also help the development of spell-checking and auto-niqqud modules for existing word processors. The <a href="http://culmus.sourceforge.net/">Culmus Project</a> has one such open source database of Hebrew words that they developed as an add-on to LibreOffice and OpenOffice, <a href="https://extensions.libreoffice.org/extensions/nakdan-by-culmus">Nakdan by Culmus</a>.</p>
 
-
+&nbsp;
 <h3>I want to help transcribe text. What do I need to start transcribing Hebrew?</h3>
 <p style="padding-left: 30px;">You will need to download and install Unicode fonts and a Hebrew Keyboard Layout that supports all the diacritical marks in Hebrew. We've prepared documentation to help you with your <a href="https://opensiddur.org/tools/typing">keyboard setup</a>, step by step.</p>
 
 
+
+&nbsp;
+
+
+
+<h2>Copyright and Licensing Questions</h2>
 <hr />
-
-
-
-<h4>Copyright and Licensing Questions</h4>
+&nbsp;
 
 <h3>I have some (translations/transcriptions/original prayers) I'd like to share. Can you help me share it through the Open Siddur Project?</h3>
 <p style="padding-left: 30px;">Absolutely. We will share all material related to Jewish spiritual practice so long as it licensed under one of these three standard free culture licenses written by the <a href="http://www.creativecommons.org">Creative Commons</a>:</p>
 
 <ul>
     <li><a href="http://www.creativecommons.org/publicdomain/zero/1.0">Creative Commons Zero</a> (CC0): a public domain declaration</li>
-    <li><a href="http://www.creativecommons.org/licenses/by/3.0">Creative Commons Attribution</a> (CC BY): a permissive attribution-requiring license</li>
-    <li><a href="http://www.creativecommons.org/licenses/by-sa/3.0">Creative Commons Attribution-ShareAlike</a> (CC BY-SA): a copyleft attribution-requiring license</li>
+    <li><a href="http://www.creativecommons.org/licenses/by/4.0">Creative Commons Attribution</a> (CC BY): a permissive attribution-requiring license</li>
+    <li><a href="http://www.creativecommons.org/licenses/by-sa/4.0">Creative Commons Attribution-ShareAlike</a> (CC BY-SA): a copyleft attribution-requiring license</li>
 </ul>
 <p style="padding-left: 30px;">By sharing your work with any of the above licenses you are granting explicit permission to anyone to adapt and modify your work. If you composed the work yourself we recommend sharing it with a CC BY-SA license, which mandates anyone using your work to correctly attribute its with your name as the author/artist/translators, etc, and requires any derivative work to also be licensed with that same CC BY-SA license, thus ensuring a chain of attribution to the original document and its creator.</p>
 <p style="padding-left: 30px;">We cannot share works that are not licensed with these licenses. Also, because of certain licensing conflicts with the language of these licenses we cannot share works that are licensed by the GNU Free Document License.</p>
 <p style="padding-left: 30px;">For more information see out <a href="https://opensiddur.org/copyright-policy/">Copyright policy</a>.</p>
 
-
+&nbsp;
 <h3>If anyone can edit my work, what about the integrity of my work and my good name?</h3>
 <p style="padding-left: 30px;">Under copyright law, you have a monopoly on your creative work for your lifetime. Copyright forbids anyone to copy, redistibute, adapt, remix, or otherwise create derivative works without your explicit consent. Your estate inherits this copyright for seventy years after you die. This might be fine if you wish others to simply passively consume your work. However, a living culture breathes creativity like we breathe oxygen. If you believe in your work, believe that it can be a useful ingredient in the creative work of someone else. Otherwise, in the very long amount of time it takes now for a creative work to enter the Public Domain, your ephemeral effort might be lost to obscurity and irrelevance.</p>
-<p style="padding-left: 30px;">The choice to share with a free-culture compatible Open Content license should reflect your intention for others to modify and adapt your work as needed so long as they correctly attribute the work, and their changes to it. <strong>The <a href="http://www.creativecommons.org/licenses/by/3.0">CC BY</a> and <a href="http://www.creativecommons.org/licenses/by-sa/3.0">CC BY-SA</a> require that derivative works state that they are modified and that there is no implication that any of the contributors endorse the modified work.</strong> (The CC BY-SA license in particular preserves a chain of attribution back to your original work by requiring any and all derivative works to be shared with the CC BY-SA license.) If you want to share your work but remain concerned about how your work might be modified, you may also choose to contribute the work anonymously or pseudonymously. Within the Open Siddur web application we are developing, your work will only be editable by individuals or groups you have permitted, and always preserving the correct attribution of all sources including your own.</p>
+<p style="padding-left: 30px;">The choice to share with a free-culture compatible Open Content license should reflect your intention for others to modify and adapt your work as needed so long as they correctly attribute the work, and their changes to it. <strong>The <a href="http://www.creativecommons.org/licenses/by/4.0">CC BY</a> and <a href="http://www.creativecommons.org/licenses/by-sa/4.0">CC BY-SA</a> require that derivative works state that they are modified and that there is no implication that any of the contributors endorse the modified work.</strong> (The CC BY-SA license in particular preserves a chain of attribution back to your original work by requiring any and all derivative works to be shared with the CC BY-SA license.) If you want to share your work but remain concerned about how your work might be modified, you may also choose to contribute the work anonymously or pseudonymously. Within the Open Siddur web application we are developing, your work will only be editable by individuals or groups you have permitted, and always preserving the correct attribution of all sources including your own.</p>
 
-
+&nbsp;
 <h3>What's the problem with restricting material to personal, non-commercial, scholarly, or educational use?</h3>
 <p style="padding-left: 30px;">The public interest and the vibrancy of Jewish culture are better served by free data. "Personal use only" data serves little purpose in a database whose user base includes synagogues and educational institutions. Many of the arguments for the use of "non-commercial only" licenses are also resolved by the use of a ShareAlike <a href="http://en.wikipedia.org/wiki/copyleft">copyleft</a> license. The ShareAlike clause is an option for contributors who prefer that their contributions remain freely available. "Educational use only" licenses are purely discriminatory against non-educators, so it is inappropriate for those seeking to create works for their own or others' Jewish spiritual practice. We strongly prefer that our users never face a legal wall in remixing any of the data they find in the Open Siddur's public database. The Creative Commons Attribution-ShareAlike license, a free <a href="http://en.wikipedia.org/wiki/copyleft">copyleft</a> license, disallows combination of the work with works that put additional restrictions on copying and distribution. All three of these additional restrictions would result in legal incompatibility within the database.</p>
 
-
+&nbsp;
 <h3>How about including this beautiful Hebrew font I found elsewhere on the Internet?</h3>
-<p style="padding-left: 30px;">It certainly is a beautiful font! But look carefully at the user license. The SBL Hebrew font, for example, has certain restrictions on it especially in regards to using the font in printed works. The SBL license is restricted to “non-commercial” use and requires commercial users to pay a license-fee. At this time, there are <a href="https://opensiddur.org/2010/07/unicode-compliant-and-open-source-licensed-hebrew-fonts">eleven Unicode Hebrew fonts</a> suitable for presenting Jewish liturgy with all of the Hebrew diacritics (<em>niqud</em> and <em>t'amim</em>) and that are licensed with free and open source licenses such as the <a href="https://en.wikipedia.org/wiki/Open_Font_License">OFL</a> and <a href="http://en.wikipedia.org/wiki/GNU_GPL_font_exception">GPL+FE</a> licenses.</p>
+<p style="padding-left: 30px;">It certainly is a beautiful font! But look carefully at the user license. The SBL Hebrew font, for example, has certain restrictions on it especially in regards to using the font in printed works. The SBL license is restricted to “non-commercial” use and requires commercial users to pay a license-fee. At this time, there are <a href="https://opensiddur.org/help/fonts">eleven Unicode Hebrew fonts</a> suitable for presenting Jewish liturgy with all of the Hebrew diacritics (<em>niqud</em> and <em>t'amim</em>) and that are licensed with free and open source licenses such as the <a href="https://en.wikipedia.org/wiki/Open_Font_License">OFL</a> and <a href="http://en.wikipedia.org/wiki/GNU_GPL_font_exception">GPL+FE</a> licenses.</p>
 <p style="padding-left: 30px;">One of the main objectives of our project is providing resources for folk designing and crafting siddurim for print. We must be careful to integrate technologies that are being shared with free-culture compatible Open Content and Open Source licenses. Otherwise, we will be distributing work with conflicting licenses. We cannot share resources with licensing that restricts how downstream users choose to distribute their remixed work. We cannot presume that digital fonts are licensed free and open source unless explicitly indicated. So-called "freeware," for instance, refers to software available free-without fee, <em>gratis</em>. (See above, "What's all this about Open Content licenses?")</p>
 
-
+&nbsp;
 <h3>Good grief! Ancient texts can't be under copyright even after they've been digitized. Why not ignore whatever restrictive terms someone slapped onto the text and be done with it?</h3>
 <p style="padding-left: 30px;">Yes, absolutely! We reject all copyright claims on work that is in the Public Domain, and historical liturgical texts are in the Public Domain . Under the important legal principle that "the creative is the enemy of the true," transcriptions and images of works in the Public Domain remain in the Public Domain. Changing their format can in no way remove them from the Public Domain, since a format change -- printed text to digital image or digital text -- is not a "creative" change, at least, under U.S. law (which is what we follow here at the Open Siddur Project). See our <a href="https://opensiddur.org/copyright-policy/">Copyright policy</a>.</p>
 <p style="padding-left: 30px;">A "creative" element added to a work in the Public Domain is protected by copyright. Often enough, when companies or institutions attempt to restrict use of digitized Public Domain texts, they package and remix it with some newly composed text or art that is under copyright -- often a scholarly introduction and illustrations. It's important to note that only the newly composed work is under Copyright. The original Public Domain text or art remains in the Public Domain regardless of how it is distributed or remixed with copyrighted work.</p>
@@ -787,17 +794,20 @@ Want to make contact with our project? Please message us below.
 <p style="padding-left: 30px;"><strong>The most important thing for us is the authority of a textual witness through correct attribution.</strong> Through transcription and proofreading our work authenticates and attributes text to its original author and/or source (a/k/a, its provenance).</p>
 <p style="padding-left: 30px;">If we follow our policy on copyright, the worst case is that it takes us longer to get to reach our goal in digitizing the source texts of Judaism's spiritual works. As a very positive consequence, by transcribing and proofreading these texts we will know and correctly attribute the sources of everything shared by the project.</p>
 
-</div>
 
+&nbsp;
+
+
+<h2>Layout Questions</h2>
 <hr />
+&nbsp;
 
-<h3>Layout Questions</h3>
-
-<h4>How can I switch the layout of text (with Hebrew "facing" the English)?</h4>
+<h3>How can I switch the layout of text (with Hebrew "facing" the English)?</h3>
 
 <span style="display: inline; background-color: yellow;">To reposition columns of text in any language (Hebrew, English, etc.), click on a table header and drag it under the column header to the right or left</span>. 
 
 Try that here:
+</div>
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: left;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
@@ -824,7 +834,7 @@ Rosh Ḥodesh
 		<wp:post_name><![CDATA[faq]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>316</wp:post_parent>
-		<wp:menu_order>44</wp:menu_order>
+		<wp:menu_order>45</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -873,9 +883,25 @@ Rosh Ḥodesh
 		<wp:meta_key><![CDATA[editInHTML]]></wp:meta_key>
 		<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
+		<wp:meta_value><![CDATA[    ]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oh_add_script_footer]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oh_add_script_header_hide]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oh_add_script_footer_hide]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
-		<title>UPLOAD / SHARE A PRAYER OR A RELATED WORK</title>
+		<title>Upload Form for Sharing Your Work</title>
 		<link>https://opensiddur.org/contributing/upload/</link>
 		<pubDate>Tue, 20 Jul 2010 05:09:18 +0000</pubDate>
 		<dc:creator><![CDATA[hierophant]]></dc:creator>
@@ -887,35 +913,39 @@ Rosh Ḥodesh
 <hr style="margin-right: 500px;">
 [files_fm_upload]
 <!--[contact-form-7 id="3883" title="Upload form"] -->
+
+&nbsp;
 </td>
 
 <td style="vertical-align:top;">
-<h3>Open Content Licensing</h3>
+<h3>Open Content License Options</h3>
 Ever feel like you've made something really special that you'd like other folk to use. Ever wonder how it might become better known and part of Jewish tradition at large? When you share your work, make your intention clear that your copyrighted work is indeed available for others to adopt, adapt, and redistribute.
 
-The Open Siddur Project will help you share any material related to Jewish spiritual practice so long as it is either a <a href="http://copyright.cornell.edu/resources/publicdomain.cfm">Public Domain</a> work or a contemporary work licensed under one of three standard Open Content licenses formulated by the <a href="http://www.creativecommons.org">Creative Commons</a>: <a href="http://creativecommons.org/publicdomain/zero/1.0/">CC0</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY</a>, or <a href="http://creativecommons.org/licenses/by-sa/3.0">CC BY-SA</a>.
+The Open Siddur Project will help you share any material related to Jewish spiritual practice so long as it is either a <a href="http://copyright.cornell.edu/resources/publicdomain.cfm">Public Domain</a> work or a contemporary work licensed under one of three standard Open Content licenses formulated by the <a href="http://www.creativecommons.org">Creative Commons</a>: <a href="http://creativecommons.org/publicdomain/zero/1.0/">CC0</a>, <a href="http://creativecommons.org/licenses/by/4.0">CC BY</a>, or <a href="http://creativecommons.org/licenses/by-sa/4.0">CC BY-SA</a>.
+
+<strong>IMPORTANT</strong>: With rare exception, the Open Siddur Project can only share work that is either already in the Public Domain, or else shared by its creator (or copyright proprietor) with one of the licenses indicated below. For more details, please refer to our <a href="/about-this-project/policies/copyright-policy/">copyright policy</a>.
 
 <table>
-<tr><td>
-[caption id="attachment_1118" align="alignleft" width="150" caption="Creative Commons By Attribution ShareAlike (CC BY-SA)"]<a href="http://creativecommons.org/licenses/by-sa/4.0/"><img title="(CC-BY-SA) Creative Commons By Attribution ShareAlike" src="https://opensiddur.org/wp-content/images/CC-BY-SA.svg.150x100.png" alt="" width="150" height="50" /></a>[/caption]
+<tr><td style="vertical-align:top;">
+[caption id="attachment_1118" align="alignleft" width="150" caption="Creative Commons By Attribution ShareAlike (CC BY-SA)"]<a href="http://creativecommons.org/licenses/by-sa/4.0/"><img title="(CC BY-SA) Creative Commons By Attribution ShareAlike" src="https://opensiddur.org/wp-content/images/CC-BY-SA.svg.150x100.png" alt="" width="150" height="50" /></a>[/caption]
 </td>
 
 <td>
-Share your work under the condition that any derivative work (for example, a translation) correctly credits you, citing your original work. The <a href="http://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0 International</a> license is a remix friendly, free-culture compatible, <a href="https://secure.wikimedia.org/wikipedia/en/wiki/Copyleft">copyleft</a> license. It ensures that any work derived from your work must also be shared with this same license, thereby ensuring an unbroken chain of attribution until the copyright term of your work expires and it enters the Public Domain. CC BY-SA licensed works can only be remixed or redistributed with works shared with compatible Open Content licenses (CC0 and CC BY).
+Share your work under the condition that any derivative work (for example, a translation) correctly credits you, citing your original work. The <a href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0 International</a> license is a remix friendly, free-culture compatible, <a href="https://secure.wikimedia.org/wikipedia/en/wiki/Copyleft">copyleft</a> license. It ensures that any work derived from your work must also be shared with this same license, thereby ensuring an unbroken chain of attribution until the copyright term of your work expires and it enters the Public Domain. CC BY-SA licensed works can only be remixed or redistributed with works shared with compatible Open Content licenses (CC0 and CC BY).
 </td></tr>
 
 
-<tr><td>
-[caption id="attachment_2977" align="alignleft" width="150" caption="Creative Commons By Attribution (CC BY)"]<a href="http://creativecommons.org/licenses/by/4.0"><img title="(CC-BY) Creative Commons By Attribution" src="https://opensiddur.org/wp-content/images/CC-BY.svg.150x100.png" alt="" width="150" height="50" /></a>[/caption]
+<tr><td style="vertical-align:top;">
+[caption id="attachment_2977" align="alignleft" width="150" caption="Creative Commons By Attribution (CC BY)"]<a href="http://creativecommons.org/licenses/by/4.0"><img title="(CC BY) Creative Commons By Attribution" src="https://opensiddur.org/wp-content/images/CC-BY.svg.150x100.png" alt="" width="150" height="50" /></a>[/caption]
 </td>
 
 <td>
-Share your work under the condition that any derivative work (such as a translation) correctly credits you, citing your original work. Second-generation derivative works (e.g., a reprint of the translation in a newspaper), however, may be shared under any license, including more restrictive licensing, or published under vanilla copyright. The <a href="http://creativecommons.org/licenses/by/4.0">CC-BY 4.0</a> International license is remix friendly -- content licensed under the CC-BY can be remixed with more restrictive Creative Commons licenses as well as with copyrighted work that is not being shared under any open content/free-culture license. 
+Share your work under the condition that any derivative work (such as a translation) correctly credits you, citing your original work. Second-generation derivative works (e.g., a reprint of the translation in a newspaper), however, may be shared under any license, including more restrictive licensing, or published under vanilla copyright. The <a href="http://creativecommons.org/licenses/by/4.0">CC BY 4.0 International</a> license is remix friendly -- content licensed under the CC BY can be remixed with more restrictive Creative Commons licenses as well as with copyrighted work that is not being shared under any open content/free-culture license. 
 
-By choosing to license your work with a <a href="http://creativecommons.org/licenses/by/4.0">CC-BY</a>, you will legally ensure that your work remains available for others to adopt, adapt, remix, and redistribute.
+By choosing to license your work with a <a href="http://creativecommons.org/licenses/by/4.0">CC BY</a> license, you will legally ensure that your work remains available for others to adopt, adapt, remix, and redistribute.
 </td></tr>
 
-<tr><td>
+<tr><td style="vertical-align:top;">
 [caption id="attachment_1145" align="alignleft" width="150" caption="Creative Commons Zero (CC0)"]<a href="http://creativecommons.org/publicdomain/zero/1.0/"><img title="(CC0) Creative Commons Zero" src="https://opensiddur.org/wp-content/images/CC-0-PD.svg.150x100.png" alt="" width="150" height="50" /></a>[/caption]
 </td>
 
@@ -924,10 +954,8 @@ Share your work without any conditions, for example, requiring correct attributi
 </td></tr>
 </tbody></table>
 
-<strong>IMPORTANT</strong>
-With rare exception, the Open Siddur Project can only share work that is either already in the Public Domain, or else shared by its creator (or copyright proprietor). For more details, please refer to our <a href="/about-this-project/policies/copyright-policy/">copyright policy</a>.
 </td></tr>
-<tr><td>You will receive a receipt of your submission at the email address entered above. An Open Siddur Project editor will be in touch with you if there are any questions. You may also <a href="/contact/">contact us</a> directly.</td><td></td>
+<tr><td colspan="2">Afer submitting your work through this form, you will receive a receipt of your submission at the email address you provided. An Open Siddur Project editor will be in touch with you if there are any questions. You may also <a href="/contact/">contact us</a> directly. Thank you for sharing your work through the Open Siddur Project!</td>
 </tr></table>
 </blockquote>
 
@@ -941,7 +969,7 @@ With rare exception, the Open Siddur Project can only share work that is either 
 		<wp:post_name><![CDATA[upload]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>281</wp:post_parent>
-		<wp:menu_order>20</wp:menu_order>
+		<wp:menu_order>21</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1004,7 +1032,7 @@ With rare exception, the Open Siddur Project can only share work that is either 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[                     ]]></wp:meta_value>
+		<wp:meta_value><![CDATA[                               ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_footer]]></wp:meta_key>
@@ -1093,7 +1121,7 @@ SHARE WHAT YOU LOVE ♡ -- A Decision Tree for Choosing Free-Culture Compatible 
 		<wp:post_name><![CDATA[a-decision-tree-for-choosing-freelibre-licenses-for-cultural-and-technological-work]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>281</wp:post_parent>
-		<wp:menu_order>35</wp:menu_order>
+		<wp:menu_order>36</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1294,7 +1322,8 @@ The <a href="http://tanach.us/">Westminster Leningrad Codex</a>: digital edition
 <p style="padding-left: 40px;"><a href="http://www.jewishgen.org/infofiles/m_jyear.htm">Jewish Calendar Year Conversion Tool</a> (JewishGen)
 <a href="http://www.jbilibrary.org/BrailleLibrary/utf_trans.php">Hebrew Braile Conversion Tool</a> (JBI International)
 <a href="http://nakdan.dicta.org.il">Naqdan</a> (for adding niqqud to unpointed (unvoweled/vocalized) Hebrew text)
-<a href="https://www.deepl.com/translator">DeepL Machine Translation</a></p>
+<a href="https://www.deepl.com/translator">DeepL Machine Translation</a>
+<a href="https://charakteres.com">charaktêres</a> (for investigating magical scripts)</p>
 
 <h3>The Public Domain &amp; Copyright: Terminology, Tools, and Articles</h3>
 <h3 style="padding-left: 40px;">Copyright and Judaism</h3>
@@ -1306,7 +1335,7 @@ The <a href="http://tanach.us/">Westminster Leningrad Codex</a>: digital edition
 <a href="https://opensiddur.org/wp-content/uploads/2013/04/Netanel-and-Nimmer-Is-Copyright-Property-The-Debate-in-Jewish-Law-Theoretical-Inquiries-in-Law-v12217-2011.pdf">Is Copyright Property? — The Debate in Jewish Law</a> by Neil Netanel and David Nimmer, 2011</p>
 
 <h3 style="padding-left: 40px;">International &amp; United States Copyright Law</h3>
-<p style="padding-left: 80px;"><a href="http://collections.stanford.edu/copyrightrenewals/bin/search/simple">Stanford Copyright Renewal Database</a>
+<p style="padding-left: 80px;"><a href="https://exhibits.stanford.edu/copyrightrenewals?q=">Stanford Copyright Renewal Database</a>
 <a href="http://copyright.cornell.edu/resources/publicdomain.cfm">Cornell University Public Domain Chart</a>
 <a href="http://web.archive.org/web/20170706045419/http://www.gutenberg.org/wiki/Gutenberg:No_Sweat_of_the_Brow_Copyright">Project Gutenberg: On Sweat of the Brow Copyright</a>
 <a href="https://www.law.cornell.edu/copyright/cases/36_FSupp2d_191.htm">Bridgeman Art Library, ltd., vs. Corel Corporation</a>: Case law on the Public Domain status of reproductions of art in the Public Domain. (It's permitted for two dimensional images.)
@@ -1436,7 +1465,7 @@ The <a href="http://tanach.us/">Westminster Leningrad Codex</a>: digital edition
 		<wp:post_name><![CDATA[recommended-links]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>51</wp:menu_order>
+		<wp:menu_order>52</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1499,7 +1528,7 @@ The <a href="http://tanach.us/">Westminster Leningrad Codex</a>: digital edition
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[       ]]></wp:meta_value>
+		<wp:meta_value><![CDATA[         ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header_hide]]></wp:meta_key>
@@ -1508,6 +1537,10 @@ The <a href="http://tanach.us/">Westminster Leningrad Codex</a>: digital edition
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_footer_hide]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
+		<wp:meta_value><![CDATA[classic-editor]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1565,7 +1598,7 @@ The source code for this romanizing transliterator is open source, LGPL licensed
 		<wp:post_name><![CDATA[transliterate]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>47</wp:menu_order>
+		<wp:menu_order>48</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1634,6 +1667,10 @@ The source code for this romanizing transliterator is open source, LGPL licensed
 		<wp:meta_key><![CDATA[_at_widget]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
+		<wp:meta_value><![CDATA[classic-editor]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title>Hebrew Fonts</title>
@@ -1684,8 +1721,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 </tr></thead>
 
 <tbody>
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=ShlomoSemiStam" frameborder="0" width="100%" height="100%"]
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=ShlomoSemiStam" frameborder="0" width="100%" height="240px"]
 <span style="color: #FFFFFF;">————————————————————————————————————————————</span></td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=ShlomoSemiStam" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe">Shlomo SemiStam</a></h3></td>
 <td style="vertical-align:top;">t'amim and niqqud</td>
@@ -1697,8 +1734,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="https://en.wikipedia.org/wiki/Open_Font_License">SIL OFL</a> 1.1</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=ShlomoStam" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=ShlomoStam" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=ShlomoStam" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe">Shlomo Stam</a></h3></td>
 <td style="vertical-align:top;">t'amim and niqqud</td>
 <td style="vertical-align:top;">missing:<br />wide ligatures</td>
@@ -1709,8 +1746,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="https://en.wikipedia.org/wiki/Open_Font_License">SIL OFL</a> 1.1</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=KeterAramTsova" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=KeterAramTsova" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=KeterAramTsova" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe">Keter Aram Sova</a></h3><br />(Aleppo Codex, 10th cen. CE</td>
 <td style="vertical-align:top;">t'amim and niqqud</td>
 <td style="vertical-align:top;"></td>
@@ -1721,8 +1758,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="http://en.wikipedia.org/wiki/GNU_GPL_font_exception">GPL+FE</a></td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=KeterYG" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=KeterYG" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=KeterYG" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe">Keter YG</a></h3><br />(based on Aleppo Codex, modernized</td>
 <td style="vertical-align:top;">t'amim and niqqud</td>
 <td style="vertical-align:top;"></td>
@@ -1733,8 +1770,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="http://en.wikipedia.org/wiki/GNU_GPL_font_exception">GPL+FE</a></td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Shofar" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Shofar" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=Shofar" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe">Shofar</a></h3></td>
 <td style="vertical-align:top;">t'amim and niqqud<p />positioning errors:<br />rafé<br />varika</td>
 <td style="vertical-align:top;"></td>
@@ -1745,8 +1782,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="http://en.wikipedia.org/wiki/GNU_GPL_font_exception">GPL+FE</a></td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=TaameyAshkenaz" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=TaameyAshkenaz" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=TaameyAshkenaz" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe">Taamey Ashkenaz</a></h3></td>
 <td style="vertical-align:top;">t'amim and niqqud<p />positioning errors:<br />rafé<br />varika</td>
 <td style="vertical-align:top;"></td>
@@ -1757,8 +1794,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="http://en.wikipedia.org/wiki/GNU_GPL_font_exception">GPL+FE</a></td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=TaameyFrankCLM" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=TaameyFrankCLM" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=TaameyFrankCLM" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe">Taamey Frank CLM</a></h3></td>
 <td style="vertical-align:top;">t'amim and niqqud</td>
 <td style="vertical-align:top;"></td>
@@ -1769,8 +1806,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="http://en.wikipedia.org/wiki/GNU_GPL_font_exception">GPL+FE</a></td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=FrankRuehlCLM" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=FrankRuehlCLM" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=FrankRuehlCLM" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe">Frank Ruehl CLM</a></h3></td>
 <td style="vertical-align:top;">t'amim and niqqud<p />positioning errors:<br />rafé<br />varika</td>
 <td style="vertical-align:top;"></td>
@@ -1781,8 +1818,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="http://en.wikipedia.org/wiki/GNU_General_Public_License">GPL</a> 2.0</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Cardo" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Cardo" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=Cardo" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe">Cardo</a></h3></td>
 <td style="vertical-align:top;">t'amim and niqqud<p />positioning errors:<br />rafé<br />varika</td>
 <td style="vertical-align:top;"></td>
@@ -1793,8 +1830,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="https://en.wikipedia.org/wiki/Open_Font_License">SIL OFL</a> 1.1</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=NotoSerifHebrew" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=NotoSerifHebrew" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=NotoSerifHebrew" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe">NotoSerifHebrew</a></h3></td>
 <td style="vertical-align:top;">t'amim and niqqud<p />positioning errors:<br />meteg<br />ḥolam w/ vav</td>
 <td style="vertical-align:top;">missing:<br />qamatz qatan</td>
@@ -1805,8 +1842,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="https://en.wikipedia.org/wiki/Open_Font_License">SIL OFL</a> 1.1</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=EzraSIL-SR" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=EzraSIL-SR" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=EzraSIL-SR" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe">Ezra SIL SR</a></h3></td>
 <td style="vertical-align:top;">t'amim and niqqud</td>
 <td style="vertical-align:top;">missing:<br />wide ligatures</td>
@@ -1817,8 +1854,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="https://en.wikipedia.org/wiki/Open_Font_License">SIL OFL</a> 1.1</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Shlomo" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Shlomo" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=Shlomo" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe">Shlomo</a></h3><br />(based on Ezra SIL</td>
 <td style="vertical-align:top;">t'amim and niqqud</td>
 <td style="vertical-align:top;">missing:<br />wide ligatures</td>
@@ -1829,8 +1866,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="https://en.wikipedia.org/wiki/Open_Font_License">SIL OFL</a> 1.1</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=MiriamMonoCLM" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=MiriamMonoCLM" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=MiriamMonoCLM" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe">Miriam Mono CLM</a></h3></td>
 <td style="vertical-align:top;">t'amim and niqqud<p />positioning errors:<br />rafé<br />varika</td>
 <td style="vertical-align:top;"></td>
@@ -1841,8 +1878,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="http://en.wikipedia.org/wiki/GNU_General_Public_License">GPL</a> 2.0</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=TaameyDavidCLM" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=TaameyDavidCLM" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=TaameyDavidCLM" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe">Taamey David CLM</a></h3></td>
 <td style="vertical-align:top;">t'amim and niqqud</td>
 <td style="vertical-align:top;"></td>
@@ -1854,8 +1891,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 </tr>
 
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=FiraGO" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=FiraGO" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=FiraGO" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe">FiraGO Hebrew</a></h3></td>
 <td style="vertical-align:top;">t'amim and niqqud</td>
 <td style="vertical-align:top;"></td>
@@ -1867,8 +1904,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 </tr>
 
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=NachlieliCLM" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=NachlieliCLM" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=NachlieliCLM" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe">Nachlieli CLM</a></h3></td>
 <td style="vertical-align:top;">t'amim and niqqud<p />positioning errors: meteg<br />rafé<br />varika</td>
 <td style="vertical-align:top;"></td>
@@ -1879,8 +1916,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="http://en.wikipedia.org/wiki/GNU_General_Public_License">GPL</a> 2.0</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=NotoSansHebrew" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=NotoSansHebrew" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=NotoSansHebrew" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe">Noto Sans<a/></td>
 <td style="vertical-align:top;">t'amim and niqqud<p />positioning error:<br />meteg</td>
 <td style="vertical-align:top;">missing:<br />numbers<br />punctuation</td>
@@ -1891,8 +1928,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="https://en.wikipedia.org/wiki/Open_Font_License">SIL OFL</a> 1.1</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=OpenSansHebrew" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=OpenSansHebrew" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=OpenSansHebrew" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe">Open Sans Hebrew</a></h3></td>
 <td style="vertical-align:top;">t'amim and niqqud</td>
 <td style="vertical-align:top;">missing:<br />rafé<br />varika<br />yiddish<br />ligatures</td>
@@ -1925,8 +1962,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <th style="background-color: orange; font-weight: bold;">License</th>
 </tr></thead>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=FrankCurledLamed" frameborder="0" width="100%" height="100%"]
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=FrankCurledLamed" frameborder="0" width="100%" height="240px"]
 <span style="color: #FFFFFF;">————————————————————————————————————————————</span></td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=FrankCurledLamed" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe">Frank CurledLamed CLM</a></h3></td>
 <td style="vertical-align:top;">niqqud only<p />positioning errors:<br />rafé</td>
@@ -1938,8 +1975,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="http://en.wikipedia.org/wiki/GNU_General_Public_License">GPL</a> 2.0</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=LinuxLibertine" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=LinuxLibertine" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=LinuxLibertine" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe"><h3>Linux Libertine</a></h3></td>
 <td style="vertical-align:top;">niqqud only</td>
 <td style="vertical-align:top;">missing:<br />qamats qatan<br />varika<br />wide ligatures</td>
@@ -1950,8 +1987,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="https://en.wikipedia.org/wiki/Open_Font_License">GPL & SIL OFL</a> 1.1</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=FrankRuhlLibre" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=FrankRuhlLibre" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=FrankRuhlLibre" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe">Frank Ruhl Libre</a></h3></td>
 <td style="vertical-align:top;">niqqud only<p />positioning errors:<br />rafé<br />meteg<br />ḥet and ayin w/ dagesh<br />mem sofit w/ ḥiriq</td>
 <td style="vertical-align:top;">missing:<br />varika<br />backwards facing nun</td>
@@ -1962,8 +1999,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="https://en.wikipedia.org/wiki/Open_Font_License">SIL OFL</a> 1.1</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=LiberationSerif" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=LiberationSerif" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=LiberationSerif" rel="lightbox" data-lightbox-type="iframe">Liberation Serif</a></h3></td>
 <td style="vertical-align:top;">niqqud only<p />positioning errors:<br />yud w/ ḥiriq<br />maqaf<br />t'amim</td>
 <td style="vertical-align:top;">missing:<br />wide ligatures</td>
@@ -1974,8 +2011,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="https://en.wikipedia.org/wiki/Open_Font_License">SIL OFL</a> 1.1</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=FreeSerif" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=FreeSerif" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=FreeSerif" rel="lightbox" data-lightbox-type="iframe">FreeSerif</a></h3></td>
 <td style="vertical-align:top;">niqqud only<p />positioning error:<br />nun with ḥolam ḥaser</td>
 <td style="vertical-align:top;">missing:<br />qamats qatan</td>
@@ -1986,8 +2023,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="http://www.gnu.org/licenses/gpl-3.0.en.html">GPL</a> 3.0</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Tinos" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Tinos" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=Tinos" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe">Tinos</a></h3></td>
 <td style="vertical-align:top;">niqqud only<p />positioning errors:<br />yud w/ ḥiriq<br />maqaf<br />t'amim</td>
 <td style="vertical-align:top;">missing:<br />wide ligatures</td>
@@ -1998,8 +2035,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="http://www.apache.org/licenses/">Apache</a> 2.0</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=HadasimCLM" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=HadasimCLM" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=HadasimCLM" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe">Hadasim CLM</a></h3></td>
 <td style="vertical-align:top;">niqqud only<p />positioning errors:<br />rafé</td>
 <td style="vertical-align:top;">missing:<br />varika</td>
@@ -2010,8 +2047,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="http://en.wikipedia.org/wiki/GNU_GPL_font_exception">GPL+FE</a></td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=ShmulikCLM" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=ShmulikCLM" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=ShmulikCLM" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe">Shmulik CLM</a></h3></td>
 <td style="vertical-align:top;">niqqud only<p />positioning errors:<br />rafé</td>
 <td style="vertical-align:top;">missing:<br />varika</td>
@@ -2022,8 +2059,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="http://en.wikipedia.org/wiki/GNU_GPL_font_exception">GPL+FE</a></td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=BenOrRashi" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=BenOrRashi" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=BenOrRashi" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe">BenOr Rashi</a></h3></td>
 <td style="vertical-align:top;">niqqud only</td>
 <td style="vertical-align:top;"></td>
@@ -2034,8 +2071,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="http://font.ubuntu.com/licence/">UFL</a> 1.0</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Mekorot-Rashi" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Mekorot-Rashi" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=Mekorot-Rashi" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe">Mekorot Rashi</a></h3></td>
 <td style="vertical-align:top;">niqqud only<p />positioning errors:<br />rafé<br />segol sheva<br />qamats sheva<br />pataḥ sheva</td>
 <td style="vertical-align:top;">missing:<br />varika<br />meteg</td>
@@ -2046,8 +2083,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="http://en.wikipedia.org/wiki/LaTeX_Project_Public_License">LPPL</a> 1.3c</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=DorianCLM-Italic" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=DorianCLM-Italic" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=DorianCLM-Italic" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe">Dorian CLM (Italic)</a></h3></td>
 <td style="vertical-align:top;">niqqud only<p />positioning errors:<br />varika<br />rafé<br />nun w/ qubutz<br />mem sofit w/ ḥiriq</td>
 <td style="vertical-align:top;"></td>
@@ -2058,8 +2095,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="http://en.wikipedia.org/wiki/GNU_General_Public_License">GPL</a> 2.0</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=GveretLevinAlefAlefAlef" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=GveretLevinAlefAlefAlef" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=GveretLevinAlefAlefAlef" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe">Gveret Levin AlefAlefAlef</a></h3></td>
 <td style="vertical-align:top;">niqqud only</td>
 <td style="vertical-align:top;">missing:<br />varika<br />meteg<br />yiddish<br />ligatures</td>
@@ -2070,9 +2107,9 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="https://en.wikipedia.org/wiki/Open_Font_License">SIL OFL</a> 1.1</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Mashkit" frameborder="0" width="100%" height="100%"]</td>
-<td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=Mashkit" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe">Máshkit</a></h3><br />(a/k/a méshit, máshet, máshket, vayberteutsch</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Mashkit" frameborder="0" width="100%" height="240px"]</td>
+<td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=Mashkit" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe">Máshkit</a></h3><br />(a/k/a méshit, máshet, máshket, vaybertaytsh)</td>
 <td style="vertical-align:top;">niqqud only</td>
 <td style="vertical-align:top;">missing:<br />varika<br />gershayim</td>
 <td style="vertical-align:top;">Mashkit</td>
@@ -2082,8 +2119,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="http://en.wikipedia.org/wiki/GNU_GPL_font_exception">GPL+FE</a></td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=FreeMono" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=FreeMono" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=FreeMono" rel="lightbox" data-lightbox-type="iframe">FreeMono</a></h3></td>
 <td style="vertical-align:top;">niqqud only<p />positioning errors:<br />varika</td>
 <td style="vertical-align:top;">missing:<br />qamats qatan<br />ḥolam</td>
@@ -2094,8 +2131,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="http://en.wikipedia.org/wiki/GNU_GPL_font_exception">GPL+FE</a></td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Cousine" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Cousine" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=Cousine" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe">Cousine</a></h3></td>
 <td style="vertical-align:top;">niqqud only</td>
 <td style="vertical-align:top;">missing:<br />wide ligatures</td>
@@ -2106,8 +2143,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="http://www.apache.org/licenses/">Apache</a> 2.0</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=DavidCLM" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=DavidCLM" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=DavidCLM" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe">David CLM</a></h3></td>
 <td style="vertical-align:top;">niqqud only</td>
 <td style="vertical-align:top;">missing:<br />wide ligatures<br />backwards facing nun</td>
@@ -2118,8 +2155,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="http://en.wikipedia.org/wiki/GNU_General_Public_License">GPL</a> 2.0</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=DavidLibre" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=DavidLibre" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=DavidLibre" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe">David Libre</a></h3></td>
 <td style="vertical-align:top;">niqqud only</td>
 <td style="vertical-align:top;">missing:<br />wide ligatures<br />varika</td>
@@ -2130,8 +2167,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="https://en.wikipedia.org/wiki/Open_Font_License">SIL OFL</a> 1.1</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Arimo" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Arimo" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=Arimo" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe">Arimo</a></h3></td>
 <td style="vertical-align:top;">niqqud only</td>
 <td style="vertical-align:top;">missing:<br />wide ligatures</td>
@@ -2142,8 +2179,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="http://www.apache.org/licenses/">Apache</a> 2.0</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Heebo" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Heebo" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=Heebo" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe">Heebo</a></h3></td>
 <td style="vertical-align:top;">niqqud only</td>
 <td style="vertical-align:top;">missing:<br />varika<br />meteg<br />backwards facing nun</td>
@@ -2154,8 +2191,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="https://en.wikipedia.org/wiki/Open_Font_License">SIL OFL</a> 1.1</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=VarelaRound" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=VarelaRound" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=VarelaRound" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe">Varela Round</a></h3></td>
 <td style="vertical-align:top;">niqqud only</td>
 <td style="vertical-align:top;">missing:<br />varika<br />rafé<br />meteg<br />ligatures<br />yiddish<br />qamats qatan<br />ḥolam</td>
@@ -2166,8 +2203,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="https://en.wikipedia.org/wiki/Open_Font_License">SIL OFL</a> 1.1</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=MiriamCLM" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=MiriamCLM" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=MiriamCLM" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe">Miriam CLM</a></h3></td>
 <td style="vertical-align:top;">niqqud only<p />positioning errors:<br />rafé<br />varika</td>
 <td style="vertical-align:top;">missing:<br />wide ligatures<br />backwards facing nun</td>
@@ -2178,8 +2215,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="http://en.wikipedia.org/wiki/GNU_General_Public_License">GPL</a> 2.0</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=MiriamLibre" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=MiriamLibre" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=MiriamLibre" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe">Miriam Libre</td>
 <td style="vertical-align:top;">niqqud only</td>
 <td style="vertical-align:top;">missing:<br />varika<br />rafé<br />meteg<br />ligatures<br />qamats qatan</td>
@@ -2190,8 +2227,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="https://en.wikipedia.org/wiki/Open_Font_License">SIL OFL</a> 1.1</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Assistant" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Assistant" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=Assistant" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe">Assistant</a></h3></td>
 <td style="vertical-align:top;">niqqud only</td>
 <td style="vertical-align:top;">missing:<br />varika<br />meteg<br />ligatures<br />yiddish</td>
@@ -2202,8 +2239,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="https://en.wikipedia.org/wiki/Open_Font_License">SIL OFL</a> 1.1</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=IBMPlexSansHebrew" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=IBMPlexSansHebrew" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=IBMPlexSansHebrew" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe">IBMPlexSansHebrew</a></h3></td>
 <td style="vertical-align:top;">niqqud only<p />positioning errors:<br />rafé</td></td>
 <td style="vertical-align:top;">missing:<br />varika<br />meteg<br />qamatz qatan</td>
@@ -2214,8 +2251,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="https://en.wikipedia.org/wiki/Open_Font_License">SIL OFL</a> 1.1</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=SimpleCLM" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=SimpleCLM" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=SimpleCLM" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe">Simple CLM</a></h3></td>
 <td style="vertical-align:top;">niqqud only<p />positioning errors:<br />rafé</td>
 <td style="vertical-align:top;">missing:<br />varika</td>
@@ -2226,8 +2263,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="http://en.wikipedia.org/wiki/GNU_GPL_font_exception">GPL+FE</a></td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Alef" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Alef" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=Alef" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe">Alef</a></h3></td>
 <td style="vertical-align:top;">niqqud only</td>
 <td style="vertical-align:top;">missing:<br />varika<br />rafé<br />meteg<br />qamats qatan<br />yiddish<br />ligatures</td>
@@ -2238,8 +2275,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="https://en.wikipedia.org/wiki/Open_Font_License">SIL OFL</a> 1.1</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Bellefair" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Bellefair" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=Bellefair" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe">Bellefair</a></h3></td>
 <td style="vertical-align:top;">niqqud only</td>
 <td style="vertical-align:top;">missing:<br />varika<br />rafé<br />meteg<br />yiddish<br />ligatures</td>
@@ -2250,8 +2287,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="https://en.wikipedia.org/wiki/Open_Font_License">SIL OFL</a> 1.1</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Shuneet_Square_v2" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Shuneet_Square_v2" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3>Shuneet (<a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=Shuneet_Square_v2" rel="lightbox" data-lightbox-type="iframe">Square</a>, <a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=Shuneet_Classic_v2" rel="lightbox" data-lightbox-type="iframe">Classic</a>)</a></td>
 <td style="vertical-align:top;">niqqud only<p />positioning errors:<br />varika<br />meteg</td>
 <td style="vertical-align:top;">missing:<br />qamats qatan</td>
@@ -2262,8 +2299,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="https://en.wikipedia.org/wiki/Open_Font_License">SIL OFL</a> 1.1</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=SecularOne" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=SecularOne" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=SecularOne" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe">Secular One</a></h3></td>
 <td style="vertical-align:top;">niqqud only</td>
 <td style="vertical-align:top;">missing:<br />varika<br />rafé<br />meteg<br />yiddish<br />ligatures</td>
@@ -2274,8 +2311,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="https://en.wikipedia.org/wiki/Open_Font_License">SIL OFL</a> 1.1</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=SuezOne" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=SuezOne" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=SuezOne" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe">Suez One</a></h3></td>
 <td style="vertical-align:top;">niqqud only</td>
 <td style="vertical-align:top;">missing:<br />varika<br />rafé<br />meteg<br />yiddish<br />ligatures</td>
@@ -2286,8 +2323,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="https://en.wikipedia.org/wiki/Open_Font_License">SIL OFL</a> 1.1</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=FreeSans" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=FreeSans" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=FreeSans" rel="lightbox" data-lightbox-type="iframe">FreeSans</a></h3></td>
 <td style="vertical-align:top;">niqqud only<p />positioning errors:<br />varika<br />meteg</td>
 <td style="vertical-align:top;">missing:<br />qamats qatan</td>
@@ -2298,8 +2335,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="http://www.gnu.org/licenses/gpl-3.0.en.html">GPL</a> 3.0</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=LiberationSans" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=LiberationSans" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=LiberationSans" rel="lightbox" data-lightbox-type="iframe">Liberation Sans</a></h3></td>
 <td style="vertical-align:top;">niqqud only<p />positioning errors:<br />lower niqqud too close to letters<br />yud w/ ḥiriq</td>
 <td style="vertical-align:top;">missing:<br />wide ligatures</td>
@@ -2310,8 +2347,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="https://en.wikipedia.org/wiki/Open_Font_License">SIL OFL</a> 1.1</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=PtilWide" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=PtilWide" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3>Ptil (<a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=PtilWide" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe">Wide</a> and <a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=PtilNarrow" rel="lightbox" data-lightbox-type="iframe">Narrow</a></td>
 <td style="vertical-align:top;">niqqud only<p />positioning errors:<br />varika</td>
 <td style="vertical-align:top;">missing:<br />qamats qatan<br />meteg<br />Yiddish<br />ligatures</td>
@@ -2322,8 +2359,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="https://en.wikipedia.org/wiki/Open_Font_License">SIL OFL</a> 1.1</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=AmaticSC" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=AmaticSC" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=AmaticSC" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe">Amatic SC</a></h3></td>
 <td style="vertical-align:top;">niqqud only</td>
 <td style="vertical-align:top;">missing:<br />varika<br />meteg<br />yiddish<br />ligatures</td>
@@ -2334,8 +2371,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="https://en.wikipedia.org/wiki/Open_Font_License">SIL OFL</a> 1.1</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=DorianCLM" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=DorianCLM" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=DorianCLM" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe">Dorian CLM</a></h3></td>
 <td style="vertical-align:top;">niqqud only<p />positioning errors:<br />meteg<br />varika<br />rafé<br />mem sofit w/ ḥiriq</td>
 <td style="vertical-align:top;">missing:<br />wide ligatures<br />backwards facing nun</td>
@@ -2346,8 +2383,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="http://en.wikipedia.org/wiki/GNU_General_Public_License">GPL</a> 2.0</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=MakabiYG" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=MakabiYG" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=MakabiYG" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe">Makabi YG</a></h3><br />(based on Qumran Isaiah Scroll, modernized</td>
 <td style="vertical-align:top;">niqqud only</td>
 <td style="vertical-align:top;">missing:<br />varika<br />qamats qatan<br />yiddish<br />ligatures</td>
@@ -2382,8 +2419,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <th style="background-color: orange; font-weight: bold;">License</th>
 </tr></thead>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Mekorot-Vilna" frameborder="0" width="100%" height="100%"]
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Mekorot-Vilna" frameborder="0" width="100%" height="240px"]
 <span style="color: #FFFFFF;">————————————————————————————————————————————</span></td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=Mekorot-Vilna" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe">Mekorot Vilna</a></h3></td>
 <td style="vertical-align:top;">general diacritic positioning errors</td>
@@ -2396,8 +2433,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 </tr>
 
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=DrugulinCLM" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=DrugulinCLM" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=DrugulinCLM" rel="lightbox" data-lightbox-type="iframe">Drugulin CLM</a></h3></td>
 <td style="vertical-align:top;">general diacritic positioning errors</td>
 <td style="vertical-align:top;">missing:<br />qamats qatan<br />ḥolam<br />varika<br />ligatures</td>
@@ -2409,8 +2446,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 </tr>
 
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Linux-Biolinum" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Linux-Biolinum" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3>Linux Biolinum</h3> (<a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=Linux-Biolinum" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe">Regular</a>, <a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=Linux-Biolinum-Outline" rel="lightbox" data-lightbox-type="iframe">Outline</a>, <a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=Linux-Biolinum-Shadow" rel="lightbox" data-lightbox-type="iframe">Shadow</a>, <a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=Linux-Biolinum-Keyboard" rel="lightbox" data-lightbox-type="iframe">Keyboard</a></td>
 <td style="vertical-align:top;">general diacritic positioning errors</td>
 <td style="vertical-align:top;">missing:<br />varika<br />qamats qatan<br />ligatures</td>
@@ -2422,8 +2459,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 </tr>
 
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Rubik" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Rubik" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=Rubik" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe">Rubik</a></h3></td>
 <td style="vertical-align:top;">general diacritic positioning errors<p />positioning errors:<br />rafé</td>
 <td style="vertical-align:top;">missing:<br />varika<br />rafé<br />meteg<br />qamats qatan<br />ligatures</td>
@@ -2435,8 +2472,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 </tr>
 
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=AharoniCLM" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=AharoniCLM" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=AharoniCLM" rel="lightbox" data-lightbox-type="iframe">Aharoni CLM</a></h3></td>
 <td style="vertical-align:top;">general diacritic positioning errors</td>
 <td style="vertical-align:top;">missing:<br />qamats qatan<br />most ligatures</td>
@@ -2448,8 +2485,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 </tr>
 
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=MPlus1p" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=MPlus1p" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=MPlus1p" rel="lightbox" data-lightbox-type="iframe">MPlus1p</a></h3></td>
 <td style="vertical-align:top;">general diacritic positioning errors</td>
 <td style="vertical-align:top;">missing:<br />varika<br />qamats qatan<br />vav w/ ḥolam<br />ligatures</td>
@@ -2461,8 +2498,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 </tr>
 
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Felix007" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Felix007" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=Felix007" rel="lightbox" data-lightbox-type="iframe">Felix007</a></h3></td>
 <td style="vertical-align:top;">general diacritic positioning errors</td>
 <td style="vertical-align:top;">missing:<br />varika<br />alef/ pataḥ<br />alef w/ qamats<br />ḥolam<br />qamats qatan<br />ligatures</td>
@@ -2474,8 +2511,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 </tr>
 
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=OSP_Le-patin-helvete" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=OSP_Le-patin-helvete" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=OSP_Le-patin-helvete" rel="lightbox" data-lightbox-type="iframe">OSP Le Patin Helvète</a></h3></td>
 <td style="vertical-align:top;">general diacritic positioning errors</td>
 <td style="vertical-align:top;">missing:<br />ḥolam<br />qamats qatan<br />gershayim<br />incomplete yiddish</td>
@@ -2486,8 +2523,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="http://en.wikipedia.org/wiki/GNU_GPL_font_exception">GPL+FE</a></td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=FredokaOne" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=FredokaOne" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=FredokaOne" rel="lightbox" data-lightbox-type="iframe">FredokaOne</a></h3></td>
 <td style="vertical-align:top;">general positioning errors</td>
 <td style="vertical-align:top;">no niqqud/t'amim<p >missing:<br />meteg<br />varika<br />Yiddish</td></td>
@@ -2498,8 +2535,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="http://en.wikipedia.org/wiki/GNU_General_Public_License">OFL</a> 1.1</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Noot" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Noot" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=Noot" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe">Noot</a></h3></td>
 <td style="vertical-align:top;">general diacritic positioning errors</td>
 <td style="vertical-align:top;">missing:<br />varika<br />qamats qatan<br />meteg</td>
@@ -2532,8 +2569,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <th style="background-color: orange; font-weight: bold;">License</th>
 </tr></thead>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=StamAshkenazCLM" frameborder="0" width="100%" height="100%"]
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=StamAshkenazCLM" frameborder="0" width="100%" height="240px"]
 <span style="color: #FFFFFF;">————————————————————————————————————————————</span></td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=StamAshkenazCLM" rel="lightbox" data-lightbox-type="iframe">Sofer Stam Ashkenaz</a></h3></td>
 <td style="vertical-align:top;">does not support diacritics</td>
@@ -2545,8 +2582,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="http://en.wikipedia.org/wiki/GNU_GPL_font_exception">GPL+FE</a></td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=StamSefaradCLM" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=StamSefaradCLM" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=StamSefaradCLM" rel="lightbox" data-lightbox-type="iframe">Sofer Stam Sefarad</a></h3></td>
 <td style="vertical-align:top;">does not support diacritics</td>
 <td style="vertical-align:top;">no niqqud/t'amim</td>
@@ -2563,8 +2600,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 
 
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=DrugulinCLM-Italic" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=DrugulinCLM-Italic" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=DrugulinCLM-Italic" rel="lightbox" data-lightbox-type="iframe">Drugulin CLM (Italic)</a></h3></td>
 <td style="vertical-align:top;">does not support diacritics</td>
 <td style="vertical-align:top;">no niqqud/t'amim</td>
@@ -2577,8 +2614,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 
 
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Pfennig" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Pfennig" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=Pfennig" rel="lightbox" data-lightbox-type="iframe">Pfennig</a></h3></td>
 <td style="vertical-align:top;">does not support diacritics</td>
 <td style="vertical-align:top;">no niqqud/t'amim</td>
@@ -2589,8 +2626,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="https://en.wikipedia.org/wiki/Open_Font_License">SIL OFL</a> 1.1</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Carmela" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Carmela" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=Carmela" rel="lightbox" data-lightbox-type="iframe">Carmela</a></h3></td>
 <td style="vertical-align:top;">does not support diacritics</td>
 <td style="vertical-align:top;">missing:<br />varika<br />meteg<br />rafe<br />qamats qatan</td>
@@ -2601,8 +2638,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="https://en.wikipedia.org/wiki/Open_Font_License">SIL OFL</a> 1.1</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Carmelit" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Carmelit" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=Carmelit" rel="lightbox" data-lightbox-type="iframe">Carmelit</a></h3></td>
 <td style="vertical-align:top;">does not support diacritics</td>
 <td style="vertical-align:top;">missing:<br />varika<br />meteg<br />qamats qatan<br />ligatures</td>
@@ -2613,8 +2650,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="https://en.wikipedia.org/wiki/Open_Font_License">SIL OFL</a> 1.1</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=HillelCLM" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=HillelCLM" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=HillelCLM" rel="lightbox" data-lightbox-type="iframe">Hillel CLM</a></h3></td>
 <td style="vertical-align:top;">does not support diacritics</td>
 <td style="vertical-align:top;">no niqqud/t'amim</td>
@@ -2631,8 +2668,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 
 
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=ElliniaCLM" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=ElliniaCLM" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=ElliniaCLM" rel="lightbox" data-lightbox-type="iframe">Ellinia CLM</a></h3></td>
 <td style="vertical-align:top;">does not support diacritics</td>
 <td style="vertical-align:top;">no niqqud/t'amim</td>
@@ -2644,8 +2681,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 </tr>
 
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=ComixNo2CLM" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=ComixNo2CLM" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=ComixNo2CLM" rel="lightbox" data-lightbox-type="iframe">Comix No2 CLM</a></h3></td>
 <td style="vertical-align:top;">does not support diacritics</td>
 <td style="vertical-align:top;">no niqqud/t'amim</td>
@@ -2656,8 +2693,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="http://en.wikipedia.org/wiki/GNU_General_Public_License">GPL</a> 2.0</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Dragon" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Dragon" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=Dragon" rel="lightbox" data-lightbox-type="iframe">Dragon</a></h3></td>
 <td style="vertical-align:top;">does not support diacritics</td>
 <td style="vertical-align:top;">no niqqud/t'amim</td>
@@ -2668,8 +2705,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="https://en.wikipedia.org/wiki/Open_Font_License">SIL OFL</a> 1.1</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=JournalCLM" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=JournalCLM" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=JournalCLM" rel="lightbox" data-lightbox-type="iframe">Journal CLM</a></h3></td>
 <td style="vertical-align:top;">does not support diacritics</td>
 <td style="vertical-align:top;">no niqqud/t'amim</td>
@@ -2680,8 +2717,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="http://en.wikipedia.org/wiki/GNU_General_Public_License">GPL</a> 2.0</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=SquarishSansCT" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=SquarishSansCT" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=SquarishSansCT" rel="lightbox" data-lightbox-type="iframe">Squarish Sans CT</a></h3></td>
 <td style="vertical-align:top;">does not support diacritics</td>
 <td style="vertical-align:top;">no niqqud/t'amim</td>
@@ -2692,8 +2729,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="https://en.wikipedia.org/wiki/Open_Font_License">SIL OFL</a> 1.1</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Tnua-Libre" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Tnua-Libre" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=Tnua-Libre" rel="lightbox" data-lightbox-type="iframe">Tnua Libre</a></h3></td>
 <td style="vertical-align:top;">does not support diacritics</td>
 <td style="vertical-align:top;">no niqqud/t'amim</td>
@@ -2704,8 +2741,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="http://www.gnu.org/licenses/gpl-3.0.en.html">GPL</a> 3.0</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=GanCLM" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=GanCLM" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=GanCLM" rel="lightbox" data-lightbox-type="iframe">GanCLM</a></h3></td>
 <td style="vertical-align:top;">does not support diacritics</td>
 <td style="vertical-align:top;">no niqqud/t'amim</td>
@@ -2716,8 +2753,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="http://en.wikipedia.org/wiki/GNU_General_Public_License">GPL</a> 2.0</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=GladiaCLM" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=GladiaCLM" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=GladiaCLM" rel="lightbox" data-lightbox-type="iframe">Gladia CLM</a></h3></td>
 <td style="vertical-align:top;">does not support diacritics</td>
 <td style="vertical-align:top;">no niqqud/t'amim</td>
@@ -2728,8 +2765,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="http://en.wikipedia.org/wiki/GNU_General_Public_License">GPL</a> 2.0</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=HorevCLM" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=HorevCLM" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=HorevCLM" rel="lightbox" data-lightbox-type="iframe">Horev CLM</a></h3></td>
 <td style="vertical-align:top;">does not support diacritics</td>
 <td style="vertical-align:top;">no niqqud/t'amim</td>
@@ -2740,8 +2777,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="http://en.wikipedia.org/wiki/GNU_General_Public_License">GPL</a> 2.0</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=OzradCLM" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=OzradCLM" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=OzradCLM" rel="lightbox" data-lightbox-type="iframe">Ozrad CLM</a></h3></td>
 <td style="vertical-align:top;">does not support diacritics</td>
 <td style="vertical-align:top;">no niqqud/t'amim</td>
@@ -2752,8 +2789,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="http://en.wikipedia.org/wiki/GNU_General_Public_License">GPL</a> 2.0</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=TrashimCLM" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=TrashimCLM" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=TrashimCLM" rel="lightbox" data-lightbox-type="iframe">Trashim CLM</a></h3></td>
 <td style="vertical-align:top;">does not support diacritics</td>
 <td style="vertical-align:top;">no niqqud/t'amim</td>
@@ -2764,8 +2801,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="http://en.wikipedia.org/wiki/GNU_General_Public_License">GPL</a> 2.0</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Asakim" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Asakim" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=Asakim" rel="lightbox" data-lightbox-type="iframe">Asakim</a></h3></td>
 <td style="vertical-align:top;">does not support diacritics</td>
 <td style="vertical-align:top;">no niqqud/t'amim</td>
@@ -2776,8 +2813,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="https://en.wikipedia.org/wiki/Open_Font_License">SIL OFL</a> 1.1</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Paskol" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Paskol" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=Paskol" rel="lightbox" data-lightbox-type="iframe">Paskol</a></h3></td>
 <td style="vertical-align:top;">does not support diacritics</td>
 <td style="vertical-align:top;">no niqqud/t'amim</td>
@@ -2788,8 +2825,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="https://en.wikipedia.org/wiki/Open_Font_License">SIL OFL</a> 1.1</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=MigdalHaemeq" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=MigdalHaemeq" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=MigdalHaemeq" rel="lightbox" data-lightbox-type="iframe">Migdal HaEmeq</a></h3></td>
 <td style="vertical-align:top;">does not support diacritics</td>
 <td style="vertical-align:top;">no niqqud/t'amim</td>
@@ -2800,8 +2837,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="https://en.wikipedia.org/wiki/Open_Font_License">SIL OFL</a> 1.1</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Retro-Perspective" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Retro-Perspective" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=Retro-Perspective" rel="lightbox" data-lightbox-type="iframe">Retro Perspective</a></h3></td>
 <td style="vertical-align:top;">does not support diacritics</td>
 <td style="vertical-align:top;">no niqqud/t'amim</td>
@@ -2812,8 +2849,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="https://en.wikipedia.org/wiki/Open_Font_License">SIL OFL</a> 1.1</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=StopMotion" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=StopMotion" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=StopMotion" rel="lightbox" data-lightbox-type="iframe">Stop Motion</a></h3></td>
 <td style="vertical-align:top;">does not support diacritics</td>
 <td style="vertical-align:top;">no niqqud/t'amim</td>
@@ -2824,8 +2861,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="https://en.wikipedia.org/wiki/Open_Font_License">SIL OFL</a> 1.1</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=LooksLikeSpht" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=LooksLikeSpht" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=LooksLikeSpht" rel="lightbox" data-lightbox-type="iframe">Looks Like S'pht</a></h3></td>
 <td style="vertical-align:top;">does not support diacritics</td>
 <td style="vertical-align:top;">no niqqud/t'amim</td>
@@ -2837,8 +2874,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 </tr>
 
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Nehama" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Nehama" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=Nehama" rel="lightbox" data-lightbox-type="iframe">Nehama</a></h3></td>
 <td style="vertical-align:top;">does not support diacritics</td>
 <td style="vertical-align:top;">no niqqud/t'amim</td>
@@ -2849,8 +2886,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="https://en.wikipedia.org/wiki/Open_Font_License">SIL OFL</a> 1.1</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=ShArpie" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=ShArpie" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=ShArpie" rel="lightbox" data-lightbox-type="iframe">ShArpie</a></h3></td>
 <td style="vertical-align:top;">does not support diacritics</td>
 <td style="vertical-align:top;">no niqqud/t'amim</td>
@@ -2862,8 +2899,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 </tr>
 
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Miri" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Miri" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=Miri" rel="lightbox" data-lightbox-type="iframe">Miri</a></h3></td>
 <td style="vertical-align:top;">does not support diacritics</td>
 <td style="vertical-align:top;">no niqqud/t'amim</td>
@@ -2874,8 +2911,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="https://en.wikipedia.org/wiki/Open_Font_License">SIL OFL</a> 1.1</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=YehudaCLM" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=YehudaCLM" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=YehudaCLM" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe">Yehuda CLM</a></h3></td>
 <td style="vertical-align:top;">does not support diacritics</td>
 <td style="vertical-align:top;">no niqqud/t'amim</td>
@@ -2886,8 +2923,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="http://en.wikipedia.org/wiki/GNU_General_Public_License">GPL</a> 2.0</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=AmaticaSC" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=AmaticaSC" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=AmaticaSC" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe">Amatica SC</a></h3></td>
 <td style="vertical-align:top;">does not support diacritics</td>
 <td style="vertical-align:top;">missing:<br />varika<br />meteg<br />ligatures</td>
@@ -2898,8 +2935,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="https://en.wikipedia.org/wiki/Open_Font_License">SIL OFL</a> 1.1</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Refoyl" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Refoyl" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=Refoyl" rel="lightbox" data-lightbox-type="iframe">Refoyl</a></h3></td>
 <td style="vertical-align:top;">does not support most diacritics</td>
 <td style="vertical-align:top;">missing:<br />varika<br />meteg<br />qubutz<br />ḥolam<br />ḥatef ḥolam<br />ligatures</td>
@@ -2910,8 +2947,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="http://en.wikipedia.org/wiki/GNU_GPL_font_exception">GPL+FE</a></td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=KtavYadCLM" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=KtavYadCLM" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=KtavYadCLM" rel="lightbox" data-lightbox-type="iframe">Ktav-Yad CLM</a></h3></td>
 <td style="vertical-align:top;">does not support diacritics</td>
 <td style="vertical-align:top;">no niqqud/t'amim</td>
@@ -2922,8 +2959,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="http://en.wikipedia.org/wiki/GNU_General_Public_License">GPL</a> 2.0</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=ElliniaCLM-Italic" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=ElliniaCLM-Italic" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=ElliniaCLM-Italic" rel="lightbox" data-lightbox-type="iframe">Ellinia CLM (Italic)</a></h3></td>
 <td style="vertical-align:top;">does not support diacritics</td>
 <td style="vertical-align:top;">no niqqud/t'amim</td>
@@ -2934,8 +2971,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="http://en.wikipedia.org/wiki/GNU_General_Public_License">GPL</a> 2.0</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=AnkaCLM" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=AnkaCLM" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=AnkaCLM" rel="lightbox" data-lightbox-type="iframe">Anka CLM</a></h3></td>
 <td style="vertical-align:top;">does not support diacritics</td>
 <td style="vertical-align:top;">no niqqud/t'amim</td>
@@ -2946,8 +2983,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="http://en.wikipedia.org/wiki/GNU_General_Public_License">GPL</a> 2.0</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Nachlaot" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Nachlaot" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=Nachlaot" rel="lightbox" data-lightbox-type="iframe">Nachlaot</a></h3></td>
 <td style="vertical-align:top;">does not support most diacritics</td>
 <td style="vertical-align:top;">missing:<br />sheva<br />qamats qatan<br />ḥolam<br />ḥatef ḥolam<br />varika<br />meteg<br />qubutz<br />ligatures</td>
@@ -2958,8 +2995,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="http://en.wikipedia.org/wiki/GNU_GPL_font_exception">GPL+FE</a></td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Bet-Shearim" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Bet-Shearim" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=Bet-Shearim" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe">Hebrew Square Bet-Shearim</a></h3><br />(Bet Shearim burial inscriptions, 3 CE)</td>
 <td style="vertical-align:top;">does not support diacritics</td>
 <td style="vertical-align:top;">no niqqud/t'amim</td>
@@ -2970,8 +3007,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="http://en.wikipedia.org/wiki/GNU_GPL_font_exception">GPL+FE</a></td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Hebrew-Square-BenKosba" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Hebrew-Square-BenKosba" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=Hebrew-Square-BenKosba" rel="lightbox" data-lightbox-type="iframe">Hebrew Square Ben-Kosba</a></h3><br />(Bar Kokhba letters, 132 CE)</td>
 <td style="vertical-align:top;">does not support diacritics</td>
 <td style="vertical-align:top;">no niqqud/t'amim</td>
@@ -2982,8 +3019,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="http://en.wikipedia.org/wiki/GNU_GPL_font_exception">GPL+FE</a></td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Hebrew-Square-Habakkuk" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Hebrew-Square-Habakkuk" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=Hebrew-Square-Habakkuk" rel="lightbox" data-lightbox-type="iframe">Hebrew Square Habakkuk</a></h3><br />(Habakkuk commentary, c.0 CE)</td>
 <td style="vertical-align:top;">does not support diacritics</td>
 <td style="vertical-align:top;">no niqqud/t'amim</td>
@@ -2994,8 +3031,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="http://en.wikipedia.org/wiki/GNU_GPL_font_exception">GPL+FE</a></td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Hebrew-Square-Isaiah" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Hebrew-Square-Isaiah" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=Hebrew-Square-Isaiah" rel="lightbox" data-lightbox-type="iframe">Hebrew Square Isaiah</a></h3><br />(Great Isaiah scroll, Qumran, 2nd cen. BCE)</td>
 <td style="vertical-align:top;">does not support diacritics</td>
 <td style="vertical-align:top;">no niqqud/t'amim</td>
@@ -3006,8 +3043,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="http://en.wikipedia.org/wiki/GNU_GPL_font_exception">GPL+FE</a></td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Hebrew-Samaritan" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Hebrew-Samaritan" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=Hebrew-Samaritan" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe">Hebrew Square Samaritan</a></h3><br />(Samaritan Pentateuch, 14th cen. CE)</td>
 <td style="vertical-align:top;">Samaritan-Hebrew niqqud only</td>
 <td style="vertical-align:top;"></td>
@@ -3018,8 +3055,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="http://en.wikipedia.org/wiki/GNU_GPL_font_exception">GPL+FE</a></td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=CrypticA-HaifaUni" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=CrypticA-HaifaUni" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=CrypticA-HaifaUni" rel="lightbox" data-lightbox-type="iframe">Cryptic A</a></h3></td>
 <td style="vertical-align:top;">does not support diacritics</td>
 <td style="vertical-align:top;">no niqqud/t'amim</td>
@@ -3030,8 +3067,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="https://en.wikipedia.org/wiki/Open_Font_License">SIL OFL</a> 1.1</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Hebrew-Paleo-Qumran" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Hebrew-Paleo-Qumran" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=Hebrew-Paleo-Qumran" rel="lightbox" data-lightbox-type="iframe">Hebrew Paleo Qumran</a></h3><br />(Leviticus Scroll, 2nd cen. BCE)</td>
 <td style="vertical-align:top;">does not support diacritics</td>
 <td style="vertical-align:top;">no niqqud/t'amim</td>
@@ -3042,8 +3079,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="http://en.wikipedia.org/wiki/GNU_GPL_font_exception">GPL+FE</a></td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=4Q416" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=4Q416" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=4Q416" rel="lightbox" data-lightbox-type="iframe">4Q416</a></h3></td>
 <td style="vertical-align:top;">does not support diacritics</td>
 <td style="vertical-align:top;">no niqqud/t'amim</td>
@@ -3054,8 +3091,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="https://en.wikipedia.org/wiki/Open_Font_License">SIL OFL</a> 1.1</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=4Q417" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=4Q417" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=4Q417" rel="lightbox" data-lightbox-type="iframe">4Q417</a></h3></td>
 <td style="vertical-align:top;">does not support diacritics</td>
 <td style="vertical-align:top;">no niqqud/t'amim</td>
@@ -3066,8 +3103,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="https://en.wikipedia.org/wiki/Open_Font_License">SIL OFL</a> 1.1</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=4Q418" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=4Q418" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=4Q418" rel="lightbox" data-lightbox-type="iframe">4Q418</a></h3></td>
 <td style="vertical-align:top;">does not support diacritics</td>
 <td style="vertical-align:top;">no niqqud/t'amim</td>
@@ -3078,8 +3115,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="https://en.wikipedia.org/wiki/Open_Font_License">SIL OFL</a> 1.1</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=4Q503" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=4Q503" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=4Q503" rel="lightbox" data-lightbox-type="iframe">4Q503</a></h3></td>
 <td style="vertical-align:top;">does not support diacritics</td>
 <td style="vertical-align:top;">no niqqud/t'amim</td>
@@ -3090,8 +3127,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="https://en.wikipedia.org/wiki/Open_Font_License">SIL OFL</a> 1.1</td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Aramaic-Imperial-Yeb" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Aramaic-Imperial-Yeb" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=Aramaic-Imperial-Yeb" rel="lightbox" data-lightbox-type="iframe">Aramaic Imperial Yeb</a></h3><br />(Yeb/Elephantine Papyri, 407 BCE)</td>
 <td style="vertical-align:top;">does not support diacritics</td>
 <td style="vertical-align:top;">no niqqud/t'amim</td>
@@ -3102,8 +3139,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="http://en.wikipedia.org/wiki/GNU_GPL_font_exception">GPL+FE</a></td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Hebrew-Paleo-Lachish" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Hebrew-Paleo-Lachish" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=Hebrew-Paleo-Lachish" rel="lightbox" data-lightbox-type="iframe">Hebrew Paleo Lakhish</a></h3><br />(Lakhich ostraca, 587 BCE)</td>
 <td style="vertical-align:top;">does not support diacritics</td>
 <td style="vertical-align:top;">no niqqud/t'amim</td>
@@ -3114,8 +3151,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="http://en.wikipedia.org/wiki/GNU_GPL_font_exception">GPL+FE</a></td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Aramaic-VIIBCE" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Aramaic-VIIBCE" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=Aramaic-VIIBCE" rel="lightbox" data-lightbox-type="iframe">Aramaic VIIBCE</a></h3><br />(Gözne inscription, 7th cen. BCE)</td>
 <td style="vertical-align:top;">does not support diacritics</td>
 <td style="vertical-align:top;">no niqqud/t'amim</td>
@@ -3126,8 +3163,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="http://en.wikipedia.org/wiki/GNU_GPL_font_exception">GPL+FE</a></td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Hebrew-Paleo-Siloam" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Hebrew-Paleo-Siloam" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=Hebrew-Paleo-Siloam" rel="lightbox" data-lightbox-type="iframe">Hebrew Paleo Siloam</a></h3><br />(Siloam inscription, 703 BCE)</td>
 <td style="vertical-align:top;">does not support diacritics</td>
 <td style="vertical-align:top;">no niqqud/t'amim</td>
@@ -3138,8 +3175,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="http://en.wikipedia.org/wiki/GNU_GPL_font_exception">GPL+FE</a></td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Aramaic-Early-Bar-Raqib" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Aramaic-Early-Bar-Raqib" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=Aramaic-Early-Bar-Raqib" rel="lightbox" data-lightbox-type="iframe">Aramaic Early Bar-Raqib</a></h3><br />(Bar Raqib inscription, 8th cen. BCE)</td>
 <td style="vertical-align:top;">does not support diacritics</td>
 <td style="vertical-align:top;">no niqqud/t'amim</td>
@@ -3150,8 +3187,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="http://en.wikipedia.org/wiki/GNU_GPL_font_exception">GPL+FE</a></td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Hebrew-Paleo-Mesha" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Hebrew-Paleo-Mesha" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=Hebrew-Paleo-Mesha" rel="lightbox" data-lightbox-type="iframe">Hebrew Paleo Mesha</a></h3><br />(Mesha Stele/Moabite Stone, 850 BCE)</td>
 <td style="vertical-align:top;">does not support diacritics</td>
 <td style="vertical-align:top;">no niqqud/t'amim</td>
@@ -3162,8 +3199,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="http://en.wikipedia.org/wiki/GNU_GPL_font_exception">GPL+FE</a></td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Hebrew-Paleo-Gezer" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Hebrew-Paleo-Gezer" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=Hebrew-Paleo-Gezer" rel="lightbox" data-lightbox-type="iframe">Hebrew Paleo Gezer </a></h3><br />(Gezer Calendar, 10th cen. BCE)</td>
 <td style="vertical-align:top;">does not support diacritics</td>
 <td style="vertical-align:top;">no niqqud/t'amim</td>
@@ -3174,8 +3211,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="http://en.wikipedia.org/wiki/GNU_GPL_font_exception">GPL+FE</a></td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Phoenician-Ahiram" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Phoenician-Ahiram" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=Phoenician-Ahiram" rel="lightbox" data-lightbox-type="iframe">Phoenician Ahiram</a></h3><br />(Ahiram of Gebel Sarcophagus, c.1300-1000 BCE)</td>
 <td style="vertical-align:top;">does not support diacritics</td>
 <td style="vertical-align:top;">no niqqud/t'amim</td>
@@ -3186,8 +3223,8 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="http://en.wikipedia.org/wiki/GNU_GPL_font_exception">GPL+FE</a></td>
 </tr>
 
-<tr style="outline: thin solid;">
-<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Proto-Canaanite" frameborder="0" width="100%" height="100%"]</td>
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Proto-Canaanite" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=Proto-Canaanite" rel="lightbox" data-lightbox-type="iframe">Proto Canaanite</a></h3><br />(Sarabit al-Kadim inscriptions, c.1700 BCE)</td>
 <td style="vertical-align:top;">does not support diacritics</td>
 <td style="vertical-align:top;">alternative characters with dagesh and rafé</td>
@@ -3198,7 +3235,7 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;"><a href="http://en.wikipedia.org/wiki/GNU_GPL_font_exception">GPL+FE</a></td>
 </tr>
 
-<tr style="outline: thin solid;">
+<tr style="outline: thin solid;" height="250px">
 <td style="vertical-align:top;"></td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=CaladingsCLM" rel="lightbox" data-lightbox-type="iframe">Caladings CLM</a></h3></td>
 <td style="vertical-align:top;">does not support diacritics</td>
@@ -3267,7 +3304,7 @@ If you or your company designed a Hebrew font which you never updated to Unicode
 		<wp:post_name><![CDATA[fonts]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>48</wp:menu_order>
+		<wp:menu_order>49</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3358,7 +3395,7 @@ If you or your company designed a Hebrew font which you never updated to Unicode
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[                           ]]></wp:meta_value>
+		<wp:meta_value><![CDATA[                              ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header_hide]]></wp:meta_key>
@@ -3386,7 +3423,7 @@ If you or your company designed a Hebrew font which you never updated to Unicode
 		<wp:post_name><![CDATA[help]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>34</wp:menu_order>
+		<wp:menu_order>35</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3519,7 +3556,7 @@ Another OCR project to keep an eye on is that of <a href="https://github.com/uri
 		<wp:post_name><![CDATA[transcribe]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>43</wp:menu_order>
+		<wp:menu_order>44</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3704,7 +3741,7 @@ Press "Layout options"</li>
 		<wp:post_name><![CDATA[typing]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>33</wp:menu_order>
+		<wp:menu_order>34</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3865,7 +3902,7 @@ For a <strong>Keyboard Shortcut</strong> to change the language orientation to 
 		<wp:post_name><![CDATA[editing-layout]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>45</wp:menu_order>
+		<wp:menu_order>46</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3996,7 +4033,7 @@ We maintain physical, electronic and procedural safeguards intended to protect a
 		<wp:post_name><![CDATA[privacy-policy]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>11058</wp:post_parent>
-		<wp:menu_order>32</wp:menu_order>
+		<wp:menu_order>33</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -4230,7 +4267,7 @@ We appreciate your taking the time to read these Terms of Use, and we are very h
 		<wp:post_name><![CDATA[terms-of-use]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>11058</wp:post_parent>
-		<wp:menu_order>28</wp:menu_order>
+		<wp:menu_order>29</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -4445,7 +4482,7 @@ Only DMCA notices and notices relating to complaints in connection with infringe
 		<wp:post_name><![CDATA[copyright-policy]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>11058</wp:post_parent>
-		<wp:menu_order>23</wp:menu_order>
+		<wp:menu_order>24</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -4564,7 +4601,7 @@ Connect with us on <a href="http://facebook.com/opensiddur">Facebook</a>, <a hre
 		<wp:post_name><![CDATA[home]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
+		<wp:menu_order>4</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -4669,6 +4706,10 @@ Connect with us on <a href="http://facebook.com/opensiddur">Facebook</a>, <a hre
 		<wp:meta_key><![CDATA[_scriptlesssocialsharing_disable]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
+		<wp:meta_value><![CDATA[classic-editor]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title>Imaging (Scanning) Books, Manuscripts, and Ephemeral Works</title>
@@ -4744,7 +4785,7 @@ Imaging is critical in providing a source image by which collaborative transcrip
 		<wp:post_name><![CDATA[document-manuscript-imaging]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>22</wp:menu_order>
+		<wp:menu_order>23</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -4896,7 +4937,7 @@ and <strong>Communicating the principles of sharing as the basis of a vital, cre
 		<wp:post_name><![CDATA[vision]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>316</wp:post_parent>
-		<wp:menu_order>36</wp:menu_order>
+		<wp:menu_order>37</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -5005,7 +5046,7 @@ and <strong>Communicating the principles of sharing as the basis of a vital, cre
 		<wp:post_name><![CDATA[hebrew-support-in-your-web-browser]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>50</wp:menu_order>
+		<wp:menu_order>51</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -5110,7 +5151,7 @@ The Open Siddur is a non-prescriptive, non-denominational project whose only int
 		<wp:post_name><![CDATA[contributors]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>281</wp:post_parent>
-		<wp:menu_order>53</wp:menu_order>
+		<wp:menu_order>54</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -5225,7 +5266,7 @@ The Open Siddur is a non-prescriptive, non-denominational project whose only int
 		<wp:post_name><![CDATA[policies]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>17414</wp:post_parent>
-		<wp:menu_order>42</wp:menu_order>
+		<wp:menu_order>43</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -5354,7 +5395,7 @@ Text on this page has been amended from <a href="http://creativecommons.org.il/i
 		<wp:post_name><![CDATA[%d7%97%d7%9c%d7%a7-%d7%9e%d7%94%d7%96%d7%9b%d7%95%d7%99%d7%95%d7%aa-%d7%a9%d7%9e%d7%95%d7%a8%d7%95%d7%aa]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>11058</wp:post_parent>
-		<wp:menu_order>39</wp:menu_order>
+		<wp:menu_order>40</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -5434,10 +5475,13 @@ Text on this page has been amended from <a href="http://creativecommons.org.il/i
 		<content:encoded><![CDATA[<div class="english" style="font-size: 1.2em;">
 
 In every case, we defer to the contributor's preferred style in contributing their work, whether it is an original work, or a translation or transcription of an existing work. However, we do suggest the following style as a baseline standard for all contributed works.
-<h3>Sources</h3>
-<p style="padding-left: 40px;">Transcribers should endeavor to transcribe either the earliest textual witness of a particular textual unit, prayer, or prayer related work. Lacking access to a manuscript image, transcribers should use a critical text whenever available.</p>
 
-<h3>Hebrew text</h3>
+&nbsp;
+<h3>Sources</h3>
+<p style="padding-left: 40px;">Transcribers should endeavor to transcribe either the earliest textual witness of a particular textual unit, prayer, or prayer related work.</p>
+<p style="padding-left: 40px;">Lacking access to a manuscript image, transcribers should use a critical text whenever available.</p>
+&nbsp;
+<h3>Transcriptions of Hebrew text</h3>
 <p style="padding-left: 40px;">Please vocalize all text as it appears in the work being transcribed. Leave unvocalized text, as is.</p>
 <p style="padding-left: 40px;">For all unvocalized text (text without vocalization points -- <em>niqud</em>), please provide (or solicit) a separate edition of the text that is completely vocalized.</p>
 <p style="padding-left: 40px;">Provide citations for all quoted references within brackets or parentheses.</p>
@@ -5445,18 +5489,61 @@ In every case, we defer to the contributor's preferred style in contributing the
 <p style="padding-left: 40px;">Transcribers should retain circumlocutions as they appear in historical works.</p>
 &nbsp;
 <h3>Translations: Names, Divine Names, Circumlocutions, and Generic divinities</h3>
-<p style="padding-left: 40px;">All names, place names, and complex terms should be romanized (transliterated with the alphabet) according to the dialect of the period and place of the original composition. For example, יעקב becomes Ya'akov (rather than Jacob).</p>
-<p style="padding-left: 40px;">Transliterate all divine names with the first letter in Uppercase. For example, אלהים becomes Elohim (rather than "God"), etc.</p>
-<p style="padding-left: 40px;">In the case of the Tetragrammaton (the Four-Letter Name), we recommend it simply being rendered as "YHVH" (rather than "LORD" or "the LORD").</p>
-<p style="padding-left: 40px;">Any indirect reference to divinity may be treated as a generic. For example יהוה אלהיך becomes "YHVH your <em>elo'ah</em> (rather than "YHVH your God") and  אלהי יעקב becomes "<em>elo'ah</em> of Ya'akov" (rather than God of Ya'akov").</p>
-<p style="padding-left: 40px;">Generic terms for divine entities should be identified in transliteration in lowercase. For example, אלים becomes <em>elim</em>.</p>
+<p style="padding-left: 40px;">All names, place names, and complex terms should be romanized (transliterated with the alphabet) according to the dialect of the period and place of the original composition. For example, <span class="hebrew">יעקב</span> becomes Ya'akov (rather than Jacob).</p>
+<p style="padding-left: 40px;">Transliterate all divine names with the first letter in Uppercase. For example, <span class="hebrew">אלהים</span> becomes Elohim (rather than "God"), etc.</p>
+<p style="padding-left: 40px;">In the case of the Tetragrammaton (the Four-Letter Name), we recommend it simply being rendered as "YHVH" (rather than "LORD" or "the LORD"). 'Adonai' is fine for presenting romanized transliterations of the Tetragrammaton.</p>
+<p style="padding-left: 40px;">When replacing he/him/his in a gender-neutral gramatical reference to the Divine, you may either (in order of preference): 1) replace the pronoun with singlular 'they,' 2) use a circumlocution for the most recent divine name mentioned (in cases where plural 'they' would be confusing), or else 3) choose a circumlocution such as "Hashem" for YHVH or "G♕d" for Elohim, if necessary. For example, "Praise YHVH for <em>They</em> are good. Hashem loves those with integrity."</p>
+<p style="padding-left: 40px;">Any indirect reference to divinity may be treated as a generic. For example <span class="hebrew">יהוה אלהיך</span> becomes "YHVH your <em>elo'ah</em> (rather than "YHVH your God") and <span class="hebrew">אלהי יעקב</span> becomes "<em>elo'ah</em> of Ya'aqov" (rather than God of Ya'aqov").</p>
+<p style="padding-left: 40px;">Generic terms for divine entities should be identified in transliteration in lowercase. For example, <span class="hebrew">אלים</span> becomes <em>elim</em>.</p>
 <p style="padding-left: 40px;">Circumlocutions should be replaced with the divine names they signify in the manner described above.</p>
+&nbsp;
 
 <h3>Annotations</h3>
 <p style="padding-left: 40px;">Provide all comments and citation references inline rather than as footnotes or endnotes. Begin and end references with reference tags, &lt;ref&gt; and &lt;/ref&gt;, respectively.</p>
 
-</div>
+&nbsp;
+<h3>Transliteration Schema</h3>
+<p style="padding-left: 40px;">אַ = a
+אָ = a
+אֵ = e, ei
+אֶ = e
+אִ = i
+אְ = ', e
+אֻ = u
+אֹ = o
+בּ = b
+ב = ḇ, v
+ג = g
+ד = d
+ה = h
+הּ = hh
+ו = v
+וּ = u
+וֹ = o
+ז = z
+ח = ḥ (ḥaroset)
+ט = t
+י = y
+כּ = k (kavod)
+כ = kh (ana b’khoaḥ)
+ל = l
+מ = m
+נ = n
+ס = s
+ע = 'a (follow the niqqud for alef, above)
+פּ = p
+פ = f
+צ = ts (tsitsit)
+ק = ḳ, q (ḳaddish)
+ר = r
+שׁ = sh
+שׂ = s
+תּ = t
+ת = t</p>
 
+
+
+</div>
 &nbsp;]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>14234</wp:post_id>
@@ -5467,7 +5554,7 @@ In every case, we defer to the contributor's preferred style in contributing the
 		<wp:post_name><![CDATA[style-guide]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>281</wp:post_parent>
-		<wp:menu_order>49</wp:menu_order>
+		<wp:menu_order>50</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -5494,7 +5581,7 @@ In every case, we defer to the contributor's preferred style in contributing the
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
-		<wp:meta_value><![CDATA[60]]></wp:meta_value>
+		<wp:meta_value><![CDATA[90]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wtpsw_views]]></wp:meta_key>
@@ -5530,7 +5617,7 @@ In every case, we defer to the contributor's preferred style in contributing the
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[      ]]></wp:meta_value>
+		<wp:meta_value><![CDATA[                    ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_footer]]></wp:meta_key>
@@ -5547,6 +5634,10 @@ In every case, we defer to the contributor's preferred style in contributing the
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[10855]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
+		<wp:meta_value><![CDATA[classic-editor]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -6142,7 +6233,7 @@ English translation courtesy of Leonard Berkowitz. Section numbers outside the s
 		<wp:post_name><![CDATA[rules-for-niqqud]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>46</wp:menu_order>
+		<wp:menu_order>47</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -6211,6 +6302,10 @@ English translation courtesy of Leonard Berkowitz. Section numbers outside the s
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[741]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
+		<wp:meta_value><![CDATA[classic-editor]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title>About this Project</title>
@@ -6229,7 +6324,7 @@ English translation courtesy of Leonard Berkowitz. Section numbers outside the s
 		<wp:post_name><![CDATA[about-this-project]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>41</wp:menu_order>
+		<wp:menu_order>42</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -6328,7 +6423,7 @@ In the summer of 2009, the Open Siddur was one of sixteen innovative projects ch
 		<wp:post_name><![CDATA[acknowledgements-2]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>316</wp:post_parent>
-		<wp:menu_order>54</wp:menu_order>
+		<wp:menu_order>55</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -6403,7 +6498,7 @@ In the summer of 2009, the Open Siddur was one of sixteen innovative projects ch
 		<wp:post_name><![CDATA[profile]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>55</wp:menu_order>
+		<wp:menu_order>56</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -6478,30 +6573,25 @@ In the summer of 2009, the Open Siddur was one of sixteen innovative projects ch
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Favorites</title>
-		<link>https://opensiddur.org/favorites/</link>
+		<title>Bookmarks</title>
+		<link>https://opensiddur.org/bookmarks/</link>
 		<pubDate>Thu, 24 Jan 2019 04:05:21 +0000</pubDate>
 		<dc:creator><![CDATA[aharon.varady]]></dc:creator>
 		<guid isPermaLink="false">https://opensiddur.org/?page_id=23456</guid>
 		<description></description>
 		<content:encoded><![CDATA[[user_favorites include_excerpts="true" include_thumbnails="true" include_buttons="true"]
 
-&nbsp;
-
-[clear_favorites_button]
-
-<hr />
-&nbsp;]]></content:encoded>
+[clear_favorites_button]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>23456</wp:post_id>
 		<wp:post_date><![CDATA[2019-01-23 19:05:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-01-24 04:05:21]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[favorites]]></wp:post_name>
+		<wp:post_name><![CDATA[bookmarks]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>15</wp:menu_order>
+		<wp:menu_order>16</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -6536,7 +6626,7 @@ In the summer of 2009, the Open Siddur was one of sixteen innovative projects ch
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[        ]]></wp:meta_value>
+		<wp:meta_value><![CDATA[         ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_footer]]></wp:meta_key>
@@ -6600,7 +6690,7 @@ In the summer of 2009, the Open Siddur was one of sixteen innovative projects ch
 		<wp:post_name><![CDATA[edit-profile]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>19</wp:menu_order>
+		<wp:menu_order>20</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -6679,7 +6769,7 @@ If you've lost it, you can also <a href="https://opensiddur.org/help/recover-pas
 		<wp:post_name><![CDATA[log-in]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>12</wp:menu_order>
+		<wp:menu_order>13</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -6758,7 +6848,7 @@ If you've lost it, you can also <a href="https://opensiddur.org/help/recover-pas
 		<wp:post_name><![CDATA[recover-password]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>16</wp:menu_order>
+		<wp:menu_order>17</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -6878,7 +6968,7 @@ New York, NY 10025-7449</p>
 		<wp:post_name><![CDATA[donations]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>281</wp:post_parent>
-		<wp:menu_order>17</wp:menu_order>
+		<wp:menu_order>18</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -7028,7 +7118,7 @@ New York, NY 10025-7449</p>
 		<wp:post_name><![CDATA[joining]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>281</wp:post_parent>
-		<wp:menu_order>6</wp:menu_order>
+		<wp:menu_order>7</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -7095,7 +7185,7 @@ New York, NY 10025-7449</p>
 		<wp:post_name><![CDATA[table-of-contents]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
+		<wp:menu_order>2</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -7135,6 +7225,66 @@ New York, NY 10025-7449</p>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[editInHTML]]></wp:meta_key>
 		<wp:meta_value><![CDATA[off]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>User Verification</title>
+		<link>https://opensiddur.org/help/user-verification/</link>
+		<pubDate>Thu, 13 Aug 2020 23:31:16 +0000</pubDate>
+		<dc:creator><![CDATA[aharon.varady]]></dc:creator>
+		<guid isPermaLink="false">https://opensiddur.org/?page_id=33233</guid>
+		<description></description>
+		<content:encoded><![CDATA[&nbsp;
+[user_verification_check]]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>33233</wp:post_id>
+		<wp:post_date><![CDATA[2020-08-13 15:31:16]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-08-13 23:31:16]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[user-verification]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>7952</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="author" nicename="cap-aharon-varady"><![CDATA[aharon.varady]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[131]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[editInHTML]]></wp:meta_key>
+		<wp:meta_value><![CDATA[on]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
+		<wp:meta_value><![CDATA[  ]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oh_add_script_footer]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oh_add_script_header_hide]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oh_add_script_footer_hide]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
