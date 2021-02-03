@@ -173,28 +173,13 @@ We never lacked Your kindness
 <tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 עַל כֵּן אֵבָרִים שֶׁפִּלַּגְתָּ בָּנוּ 
-וְרוּחַ וּנְשָׁמָה שֶׁנָּפַחְתָּ בְּאַפֵּינוּ 
-וְלָשׁוֹן אֲשֶׁר שַׂמְתָּ בְּפִינוּ: 
+וְרוּחַ וּנְשָׁמָה 
+שֶׁנָּפַחְתָּ בְּאַפֵּינוּ וְלָשׁוֹן אֲשֶׁר שַׂמְתָּ בְּפִינוּ: 
 הֵן הֵם יוֹדוּ וִיבָרְכוּ 
-וִישַׁבְּחוּ וִיפָאֲרוּ וִירוֹמְמוּ וְיַעֲרִיצוּ וְיַקְדִּישׁוּ 
+וִישַׁבְּחוּ וִיפָאֲרוּ וִירוֹמְמוּ 
+וְיַעֲרִיצוּ וְיַקְדִּישׁוּ 
 וְיַמְלִיכוּ אֶת שִׁמְךָ מַלְכֵּנוּ: 
  </span></div></td>
- 
-<td style="vertical-align:top;">
-<div class="english">
-Therefore the limbs which you set within us, 
-and the spirit and soul which you breathed into our nostrils, 
-and the tongue which you placed in our mouth – 
-they shall all thank, bless, 
-praise, glorify, exalt, adore, sanctify, 
-and crown your Name our King. 
-</div></td></tr>
-
-
-<tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
-
-</span></div></td>
  
 <td style="vertical-align:top;">
 <div class="english">

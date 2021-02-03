@@ -729,6 +729,10 @@ With your righteousness may you erase the stains that I have made with my great 
 
 This is a faithful transcription of the "Tkhine of the Matriarchs for the New Moon of Elul" by Rebbetsin Seril Rappaport published in Vilna, 1874, as re-published in <em>The Merit of Our Mothers</em> בזכות אמהות <em>A Bilingual Anthology of Jewish Women's Prayers</em>, compiled and translated by Rabbi Tracy Guren Klirs, Cincinnati: Hebrew Union College Press, 1992. <em>shgiyot mi yavin, ministarot nakeni.</em> –Aharon N. Varady
 
+<h3>Recording</h3>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/893913373&color=%23d0c0b8&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/tkhines" title="Tkhines in Song * תחינות לידער" target="_blank" style="color: #cccccc; text-decoration: none;" rel="noopener">Tkhines in Song * תחינות לידער</a> · <a href="https://soundcloud.com/tkhines/rak-shaarey-dmaos-by-nesya-nelkin" title="Rak Shaarey Dmaos * רק שערי דמעות by Nesya Nelkin" target="_blank" style="color: #cccccc; text-decoration: none;" rel="noopener">Rak Shaarey Dmaos * רק שערי דמעות by Nesya Nelkin</a></div>
+
 <h3>Transcription Source</h3>
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.archive.org/stream/seydertinesuvaos00unse#page/n124/mode/2up"]

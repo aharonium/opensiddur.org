@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: Prayer for the United States Government [upon the Inauguration of Donald Trump], by Rabbi Shmuly Yanklowitz (2017)<br />
+Title: Prayer for Our Nation [upon the Inauguration of Donald Trump], by Rabbi Shmuly Yanklowitz (2017)<br />
 Primary contributor: shmuly.yanklowitz<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=14985">http://opensiddur.org/?p=14985</a>
 <p />

@@ -10,6 +10,8 @@ For attribution and license, please consult the following URL: <a href="http://o
 <strong>DOWNLOAD:</strong> 
 <a href="https://opensiddur.org/wp-content/uploads/2014/06/Kiddush-Levanah-R-David-Seidenberg-neohasid.org_.odt">ODT</a> | <a href="https://opensiddur.org/wp-content/uploads/2014/06/Kiddush-Levanah-R-David-Seidenberg-neohasid.org_.pdf">PDF</a>
 
+<hr />
+
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
@@ -18,7 +20,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="50%">
+<td style="vertical-align:top;" width="60%">
 <div class="english">
 <span class="instruction">In Kabbalistic tradition, the new moon is sanctified seven days after its appearance, under a clear sky, standing facing east. It may be said as early as three days after the new moon, and as late as a day before the full moon (the moon should still be visibly waxing). It is the custom in the month of Av to wait to sanctify the moon until after Tisha b'Av, and in Tishrei to wait until after Yom Kippur. In a minyan, the Aleinu prayer and kaddish are traditionally added at the end.</span>
 </div></td></tr>
@@ -42,8 +44,8 @@ Praise Hashem from the skies, praise the One in the heights.
 Praise the One, all angels, praise the One, all the hosts. 
 Praise the One, sun and moon, praise the One, all stars of light. 
 Praise the One, skies above skies, and water that is beyond the sky. 
-They will praise Hashem's name, for G‽D commanded and they were created, 
-and G‽D set them up ever forever, giving them a law, and it will not be erased.[foot]Psalms 148:1-6[/foot]
+They will praise Hashem's name, for God commanded and they were created, 
+and God set them up ever forever, giving them a law, and it will not be erased.[foot]Psalms 148:1-6[/foot]
 </div></td></tr>
     
     
@@ -54,7 +56,7 @@ and G‽D set them up ever forever, giving them a law, and it will not be erased
  
 <td style="vertical-align:top;">
 <div class="english">
-<span class="instruction">The traditional custom is to not look upon the moon itself while saying the blessing, in order to avoid any appearance of praying to the moon. However, if one keeps in mind that we are thanking G‽D for the moon and asking for the moon to be blessed by G‽D, it is lovely to stay focused on the moon during the blessing. The blessing is found in Talmud Sanhedrin 42a, where it reads, “true workers whose work is true” <span class="hebrew">פּוֹעָלֵי אֱמֶת, שֶׁפְּעֻלָּתָן אֱמֶת</span>, referring to the moon and sun rather than to God.</span>
+<span class="instruction">The traditional custom is to not look upon the moon itself while saying the blessing, in order to avoid any appearance of praying to the moon. However, if one keeps in mind that we are thanking God for the moon and asking for the moon to be blessed by God, it is lovely to stay focused on the moon during the blessing. The blessing is found in Talmud Sanhedrin 42a, where it reads, “true workers whose work is true” <span class="hebrew">פּוֹעָלֵי אֱמֶת, שֶׁפְּעֻלָּתָן אֱמֶת</span>, referring to the moon and sun rather than to God.</span>
 </div></td></tr>
     
     
@@ -85,7 +87,7 @@ YHVH Adonai, our God,
 ruler of all space and time
 who with God’s word created galaxies, 
 and with the breath of God’s mouth all of their hosts
-law and time G‽D gave to them, 
+law and time God gave to them, 
 so they would not change their course
 joyful and happy to do the will of the One who possesses them,
 True Worker whose work is true. 
@@ -150,7 +152,7 @@ barukh ḳoneikh</em>
 <div class="liturgy"><span lang="he">
 &nbsp;
 כְּשֵׁם שֶׁאֲנִי רוֹקֵד כְּנֶגְדֵּךְ וְאֵינִי יָכוֹל לִנְגּוֹעַ בָּךְ, 
-כַּךְ לֹא יוּכְלוּ כָּל אוֹיְבים לִנְגוֹעַ בָּהֶם לְרָעָה׃
+כַּךְ לֹא יוּכְלוּ כָּל אוֹיְבִים לִנְגוֹעַ בָּהֶם לְרָעָה׃
 </span></div></td>
  
 <td style="vertical-align:top;">
@@ -247,7 +249,7 @@ Unto you peace!
 <tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 &nbsp;
-סִמָּן טוֹב וּמַזָּל טוֹב יְהֵא לָנוּ וּדְכָל יִשְֹרָאֵל אָמֵן׃
+סִמָּן טוֹב וּמַזָּל טוֹב יְהֵא לָנוּ וּדְכָל יִשְׂרָאֵל אָמֵן׃
 </span></div></td>
  
 <td style="vertical-align:top;">
@@ -263,8 +265,8 @@ A good omen and a good sign for us and for all Yisra'el!
 <div class="liturgy"><span lang="he">
 קוֹל דּוֹדִי הִנֵּה זֶה בָּא 
 מְדַלֵּג עַל הֶהָרִים מְקַפֵּץ עַל הַגְּבָעוֹת.
- דּוֹמֶה דוֹדִי לִצְבִי אוֹ לְעֹפֶר הָאַיָּלִים.
- הִנֵּה זֶה עוֹמֵד אַחַר כָּתְלֵנוּ, 
+דּוֹמֶה דוֹדִי לִצְבִי אוֹ לְעֹפֶר הָאַיָּלִים.
+הִנֵּה זֶה עוֹמֵד אַחַר כָּתְלֵנוּ, 
 מַשְׁגִּיחַ מִן הַחַלֹּנוֹת, מֵצִיץ מִן הַחֲרַכִּים׃ <span class="citation">(שיר השירים ב:ח-ט)</span>
 </span></div></td>
  
@@ -281,7 +283,7 @@ peering from the windows, peaking through the cracks.[foot]Song of Songs 2:8-9[/
 <tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 שִׁיר לַמַּעֲלוֹת,
- אֶשָּׂא עֵינַי אֶל הֶהָרִים, מֵאַיִן יָבֹא עֶזְרִי׃ 
+אֶשָּׂא עֵינַי אֶל הֶהָרִים, מֵאַיִן יָבֹא עֶזְרִי׃ 
 עֶזְרִי מֵעִם ה׳ עֹשֵׂה שָׁמַיִם וָאָרֶץ׃  
 אַל יִתֵּן לַמּוֹט רַגְלֶךָ, אַל יָנוּם שֹׁמְרֶךָ׃  
 הִנֵּה לֹא יָנוּם וְלֹא יִישָׁן שׁוֹמֵר יִשְׂרָאֵל׃ 
@@ -311,11 +313,11 @@ from this time forth and for ever.[foot]Psalms 121, translation JPS 1917[/foot]
 
 <tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
-אָמַר רב אָסִי אָמַר רבי יוֹחָנַן 
-כָּל הַמְבָרֵךְ עָל הַחדֶש בִּזְמָנוֹ 
+אָמַר רַב אָסִי אָמַר רַבִּי יוֹחָנַן 
+כָּל הַמְבָרֵךְ עָל הַחֹדֶש בִּזְמָנוֹ 
 כְּאִילוּ מְקָבֵל פְנֵי שְׁכִינָה. 
 תָּנָא דְבֵי רַבִּי יִשְׁמָעֵאל,
- אִלְמָלֵי לֹא זָכוּ יִשְֹרָאֵל אֶלָּא 
+ אִלְמָלֵי לֹא זָכוּ יִשְׂרָאֵל אֶלָּא 
 לְהַקְבִּיל פְּנֵי אֲבִיהֶם שֶׁבַּשָׁמַיִם 
 פַּעַם אַחַת בַּחֹדֶשׁ 
 דַּיָם. 
@@ -360,19 +362,19 @@ leaning upon her beloved?[foot]Song of Songs 8:5[/foot]
 וִיהִי אוֹר הַלְּבָנָה כְּאוֹר הַחַמָּה 
 וּכְאוֹר שִׁבְעַת יְמֵי בְרֵאשִׁית, 
 כְּמוֹ שֶׁהָיְתָה קוֹדֶם מִעוּטָהּ,
-שֶׁנֶּאֱמַר וַיַּעַשֹ אֱלֹהִים אֶת שְׁנֵי הַמְּאֹרֹת הַגְּדֹלִים
+שֶׁנֶּאֱמַר וַיַּעַשׂ אֱלֹהִים אֶת שְׁנֵי הַמְּאֹרֹת הַגְּדֹלִים
 </span></div></td>
  
 <td style="vertical-align:top;">
 <div class="english">
 May it be Your will Hashem, 
-my G‽D and my ancestors’ G‽D, 
+my God and my ancestors’ God, 
 to fulfill the blemish of the “white one” levanah (the moon), 
 and may there  be no diminishing at all in her;
  and may the light of the white one be like the light of the “hot one” <em>ḥamah</em> (the sun),
 and like the light of the seven days of beginning creation, 
 like it was before she was diminished, 
-as it says “And G‽D formed the two great lights.”[foot]based on Talmud Ḥulin 60b; for a Kabbalistic interpretation see <a href="http://astillsmallvoice.org/sys/articles/evolving_feminine.pdf">this article</a> at astillsmallvoice.org[/foot]
+as it says “And God formed the two great lights.”[foot]based on Talmud Ḥulin 60b; for a Kabbalistic interpretation see <a href="http://astillsmallvoice.org/sys/articles/evolving_feminine.pdf">this article</a> at astillsmallvoice.org[/foot]
 </td></tr>
 </tbody></table>
 </body>

@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: Intention for community garlic planting at the end of a harvest season, by Jess Berlin (translated by Miri Landau)<br />
+Title: Intention for community garlic planting at the end of a harvest season, by Jess Berlin<br />
 Primary contributor: miri.landau<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=12252">http://opensiddur.org/?p=12252</a>
 <p />

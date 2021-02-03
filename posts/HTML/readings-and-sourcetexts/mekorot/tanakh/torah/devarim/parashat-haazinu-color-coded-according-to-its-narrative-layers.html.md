@@ -26,7 +26,7 @@ Parashat Haazinu (Deuteronomy 32:1-52) in the annual Torah reading cycle is the 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="d1"><sup>א</sup>&nbsp;הַאֲזִ֥ינוּ הַשָּׁמַ֖יִם וַאֲדַבֵּ֑רָה
 וְתִשְׁמַ֥ע הָאָ֖רֶץ אִמְרֵי־פִֽי׃
@@ -36,7 +36,7 @@ Parashat Haazinu (Deuteronomy 32:1-52) in the annual Torah reading cycle is the 
 וְכִרְבִיבִ֖ים עֲלֵי־עֵֽשֶׂב׃</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="d1">32 <sup>1</sup>&nbsp;Give ear, O Heavens, that I may speak, 
 hear, O Earth, the utterance of my mouth.
@@ -47,7 +47,7 @@ like showers on grass.</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="d1"><sup>ג</sup>&nbsp;כִּ֛י שֵׁ֥ם יְהֹוָ֖ה אֶקְרָ֑א
 הָב֥וּ גֹ֖דֶל לֵאלֹהֵֽינוּ׃
@@ -57,7 +57,7 @@ like showers on grass.</span>
 צַדִּ֥יק וְיָשָׁ֖ר הֽוּא׃</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="d1"><sup>3</sup>&nbsp;For the name of YHVH I proclaim, 
 give greatness to our <em>elo'ah</em>!
@@ -68,7 +68,7 @@ equitable and upright is he.</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="d1"><sup>ה</sup>&nbsp;שִׁחֵ֥ת ל֛וֹ לֹ֖א בָּנָ֣יו מוּמָ֑ם
 דּ֥וֹר עִקֵּ֖שׁ וּפְתַלְתֹּֽל׃
@@ -78,7 +78,7 @@ equitable and upright is he.</span>
 ה֥וּא עָשְׂךָ֖ וַֽיְכֹנְנֶֽךָ׃</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="d1"><sup>5</sup>&nbsp;His children have wrought-ruin toward him — a defect in them, 
 a generation crooked and twisted!
@@ -89,7 +89,7 @@ he (who) made you and established you?</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="d1"><mark>שני</mark> <sup>ז</sup>&nbsp;זְכֹר֙ יְמ֣וֹת עוֹלָ֔ם בִּ֖ינוּ שְׁנ֣וֹת דֹּר־וָדֹ֑ר
 שְׁאַ֤ל אָבִ֙יךָ֙ וְיַגֵּ֔דְךָ זְקֵנֶ֖יךָ וְיֹ֥אמְרוּ לָֽךְ׃
@@ -99,7 +99,7 @@ he (who) made you and established you?</span>
 לְמִסְפַּ֖ר בְּנֵ֥י [אֱלֹהִים] יִשְׂרָאֵֽל׃</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="d1"><sup>7</sup>&nbsp;Regard the days of ages-past, understand the years of generation and generation (ago); 
 ask your father, he will tell you, your elders, they will declare it to you:
@@ -110,7 +110,7 @@ by the number of <em>bnei elohim</em>.</span>[foot]Masoretic text here has <em>b
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="d1"><sup>ט</sup>&nbsp;כִּ֛י חֵ֥לֶק יְהֹוָ֖ה עַמּ֑וֹ
 יַעֲקֹ֖ב חֶ֥בֶל נַחֲלָתֽוֹ׃
@@ -122,7 +122,7 @@ by the number of <em>bnei elohim</em>.</span>[foot]Masoretic text here has <em>b
 יִפְרֹ֤שׂ כְּנָפָיו֙ יִקָּחֵ֔הוּ יִשָּׂאֵ֖הוּ עַל־אֶבְרָתֽוֹ׃</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="d1"><sup>9</sup>&nbsp;Indeed, the portion of YHVH became his people, 
 Yaakov, the lot of his inheritance.
@@ -135,7 +135,7 @@ he spread out his wings, he took him, bearing him on his pinions.</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="d1"><sup>יב</sup>&nbsp;יְהֹוָ֖ה בָּדָ֣ד יַנְחֶ֑נּוּ
 וְאֵ֥ין עִמּ֖וֹ אֵ֥ל נֵכָֽר׃
@@ -150,7 +150,7 @@ he spread out his wings, he took him, bearing him on his pinions.</span>
 וְדַם־עֵנָ֖ב תִּשְׁתֶּה־חָֽמֶר׃</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="d1"><sup>12</sup>&nbsp;YHVH alone did lead them, 
 not with him any foreign <em>el</em>!
@@ -166,7 +166,7 @@ and blood of grapes, you drank fermented (wine).</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="d1"><sup>טו</sup>&nbsp;וַיִּשְׁמַ֤ן יְשֻׁרוּן֙ וַיִּבְעָ֔ט
 שָׁמַ֖נְתָּ עָבִ֣יתָ כָּשִׂ֑יתָ
@@ -182,7 +182,7 @@ and blood of grapes, you drank fermented (wine).</span>
 וַתִּשְׁכַּ֖ח אֵ֥ל מְחֹלְלֶֽךָ׃</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="d1"><sup>15</sup>&nbsp;But Yeshurun grew fat and kicked, you were fat, 
 you were gross, you were gorged, 
@@ -199,7 +199,7 @@ you forgot the <em>el</em> that produced-you-in-labor.</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="d1"><mark>רביעי</mark> יטוַיַּ֥רְא יְהֹוָ֖ה וַיִּנְאָ֑ץ
 מִכַּ֥עַס בָּנָ֖יו וּבְנֹתָֽיו׃
@@ -213,7 +213,7 @@ you forgot the <em>el</em> that produced-you-in-labor.</span>
 בְּג֥וֹי נָבָ֖ל אַכְעִיסֵֽם׃</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="d1"><sup>19</sup>&nbsp;When YHVH saw, he spurned (you), 
 from the vexation of his sons and daughters.
@@ -228,7 +228,7 @@ with a nation of fools I will vex them!"</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="d1"><sup>כב</sup>&nbsp;כִּי־אֵשׁ֙ קָדְחָ֣ה בְאַפִּ֔י
 וַתִּיקַ֖ד עַד־שְׁא֣וֹל תַּחְתִּ֑ית
@@ -244,7 +244,7 @@ with a nation of fools I will vex them!"</span>
 גַּם־בְּתוּלָ֔ה יוֹנֵ֖ק עִם־אִ֥ישׁ שֵׂיבָֽה׃</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="d1"><sup>22</sup>&nbsp;"For fire is kindled in my nostrils, 
 it burns (down) to Sheol, below, 
@@ -261,7 +261,7 @@ and virgins alike, nurselings along with men of gray-hair."</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="d1"><sup>כו</sup>&nbsp;אָמַ֖רְתִּי אַפְאֵיהֶ֑ם
 אַשְׁבִּ֥יתָה מֵאֱנ֖וֹשׁ זִכְרָֽם׃
@@ -271,7 +271,7 @@ and virgins alike, nurselings along with men of gray-hair."</span>
 וְלֹ֥א יְהֹוָ֖ה פָּעַ֥ל כׇּל־זֹֽאת׃</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="d1"><sup>26</sup>&nbsp;I would have said: "I will cleave-them-in-pieces, 
 I will make their memory cease from mortals,
@@ -282,7 +282,7 @@ not YHVH wrought all this!'"</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="d1"><sup>כח</sup>&nbsp;כִּי־ג֛וֹי אֹבַ֥ד עֵצ֖וֹת הֵ֑מָּה
 וְאֵ֥ין בָּהֶ֖ם תְּבוּנָֽה׃
@@ -290,7 +290,7 @@ not YHVH wrought all this!'"</span>
 יָבִ֖ינוּ לְאַחֲרִיתָֽם׃</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="d1"><sup>28</sup>&nbsp;"For a nation straying from counsel are they, 
 in them there is no understanding.
@@ -299,7 +299,7 @@ they would understand their future!"</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="d1"><sup>ל</sup>&nbsp;אֵיכָ֞ה יִרְדֹּ֤ף אֶחָד֙ אֶ֔לֶף
 וּשְׁנַ֖יִם יָנִ֣יסוּ רְבָבָ֑ה
@@ -315,7 +315,7 @@ they would understand their future!"</span>
 וְרֹ֥אשׁ פְּתָנִ֖ים אַכְזָֽר׃</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="d1"><sup>30</sup>&nbsp;How can one pursue a thousand, 
 two put a myriad to flight, 
@@ -332,7 +332,7 @@ the cruel poison of vipers.</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="d1"><sup>לד</sup>&nbsp;הֲלֹא־ה֖וּא כָּמֻ֣ס עִמָּדִ֑י
 חָת֖וּם בְּאוֹצְרֹתָֽי׃
@@ -342,7 +342,7 @@ the cruel poison of vipers.</span>
 וְחָ֖שׁ עֲתִדֹ֥ת לָֽמוֹ׃</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="d1"><sup>34</sup>&nbsp;"Is this not laid up in store with me, 
 sealed up in my treasuries:
@@ -353,7 +353,7 @@ making haste, the things impending for them."</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="d1"><sup>לו</sup>&nbsp;כִּֽי־יָדִ֤ין יְהֹוָה֙ עַמּ֔וֹ
 וְעַל־עֲבָדָ֖יו יִתְנֶחָ֑ם
@@ -367,7 +367,7 @@ making haste, the things impending for them."</span>
 יְהִ֥י עֲלֵיכֶ֖ם סִתְרָֽה׃</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="d1"><sup>36</sup>&nbsp;But YHVH will judge (in favor of) his people, 
 regarding his servants he will relent, 
@@ -382,7 +382,7 @@ let them be over you a shelter!"</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="d1"><sup>לט</sup>&nbsp;רְא֣וּ ׀ עַתָּ֗ה כִּ֣י אֲנִ֤י אֲנִי֙ ה֔וּא
 וְאֵ֥ין אֱלֹהִ֖ים עִמָּדִ֑י
@@ -401,7 +401,7 @@ let them be over you a shelter!"</span>
 מֵרֹ֖אשׁ פַּרְע֥וֹת אוֹיֵֽב׃</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="d1"><sup>39</sup>&nbsp;"See now that I, I am he, 
 there is no Elohim beside me; 
@@ -421,7 +421,7 @@ from the head thick-with-locks of the enemy."</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="d1"><sup>מג</sup>&nbsp;הַרְנִ֤ינוּ גוֹיִם֙ עַמּ֔וֹ
 כִּ֥י דַם־עֲבָדָ֖יו יִקּ֑וֹם
@@ -429,7 +429,7 @@ from the head thick-with-locks of the enemy."</span>
 וְכִפֶּ֥ר אַדְמָת֖וֹ עַמּֽוֹ׃</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="d1"><sup>43</sup>&nbsp;Shout-for-joy, O nations, (over) his people,
 for the blood of his servants he will avenge. 
@@ -438,23 +438,23 @@ effecting-atonement for the fertile-earth of his people!</span>[foot]Tigay (JPS 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="d1"><mark>שביעי</mark> <sup>מד</sup>&nbsp;וַיָּבֹ֣א מֹשֶׁ֗ה וַיְדַבֵּ֛ר אֶת־כׇּל־דִּבְרֵ֥י הַשִּׁירָֽה־הַזֹּ֖את בְּאׇזְנֵ֣י הָעָ֑ם</span> <span class="d2">ה֖וּא וְהוֹשֵׁ֥עַ בִּן־נֽוּן׃</span> <span class="d1"><sup>מה</sup>&nbsp;וַיְכַ֣ל מֹשֶׁ֗ה לְדַבֵּ֛ר אֶת־כׇּל־הַדְּבָרִ֥ים הָאֵ֖לֶּה אֶל־כׇּל־יִשְׂרָאֵֽל׃ <sup>מו</sup>&nbsp;וַיֹּ֤אמֶר אֲלֵהֶם֙ שִׂ֣ימוּ לְבַבְכֶ֔ם לְכׇ֨ל־הַדְּבָרִ֔ים אֲשֶׁ֧ר אָנֹכִ֛י מֵעִ֥יד בָּכֶ֖ם הַיּ֑וֹם אֲשֶׁ֤ר תְּצַוֻּם֙ אֶת־בְּנֵיכֶ֔ם לִשְׁמֹ֣ר לַעֲשׂ֔וֹת אֶת־כׇּל־דִּבְרֵ֖י הַתּוֹרָ֥ה הַזֹּֽאת׃</span> <span class="d2"><sup>מז</sup>&nbsp;כִּ֠י לֹֽא־דָבָ֨ר רֵ֥ק הוּא֙ מִכֶּ֔ם כִּי־ה֖וּא חַיֵּיכֶ֑ם וּבַדָּבָ֣ר הַזֶּ֗ה תַּאֲרִ֤יכוּ יָמִים֙ עַל־הָ֣אֲדָמָ֔ה אֲשֶׁ֨ר אַתֶּ֜ם עֹבְרִ֧ים אֶת־הַיַּרְדֵּ֛ן שָׁ֖מָּה לְרִשְׁתָּֽהּ׃</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="d1"><sup>44</sup>&nbsp;Mosheh came and spoke all the words of this song in the ears of the people,</span>[foot]In Dtr 1 the song is understood as a warning (as opposed to a comfort in J) this is also apparent in Dtr 2's additions to 31:14-30.[/foot] <span class="d2">he and Hoshe'a son of Nun.</span>[foot]If Joshua had been speaking to the Israelites then his name would have been mentioned as a subject of the verse, his mention at the end of the verse is very clearly an addition, in the same vein as the addition of Joshua in 31:3 (Dtr 2).[/foot] <span class="d1"><sup>45</sup>&nbsp;When Mosheh had finished speaking all these words to all Yisra'el, <sup>46</sup>&nbsp;he said to them: "Set your hearts toward all these words which I call-as-witness among you today, that you may command your children to carefully observe all the words of this Torah/Instruction.</span> <span class="d2"><sup>47</sup>&nbsp;Indeed, no empty word is it for you, indeed, it is your (very) life; through this word you shall prolong (your) days upon the fertile-earth that you are crossing over the Yarden to possess."</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="h"><mark>מפטיר</mark> <sup>מח</sup>&nbsp;וַיְדַבֵּ֤ר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה בְּעֶ֛צֶם הַיּ֥וֹם הַזֶּ֖ה לֵאמֹֽר׃ <sup>מט</sup>&nbsp;עֲלֵ֡ה אֶל־הַר֩ הָעֲבָרִ֨ים הַזֶּ֜ה הַר־נְב֗וֹ אֲשֶׁר֙ בְּאֶ֣רֶץ מוֹאָ֔ב אֲשֶׁ֖ר עַל־פְּנֵ֣י יְרֵח֑וֹ וּרְאֵה֙ אֶת־אֶ֣רֶץ כְּנַ֔עַן אֲשֶׁ֨ר אֲנִ֥י נֹתֵ֛ן לִבְנֵ֥י יִשְׂרָאֵ֖ל לַאֲחֻזָּֽה׃ <sup>נ</sup>&nbsp;וּמֻ֗ת בָּהָר֙ אֲשֶׁ֤ר אַתָּה֙ עֹלֶ֣ה שָׁ֔מָּה וְהֵאָסֵ֖ף אֶל־עַמֶּ֑יךָ כַּֽאֲשֶׁר־מֵ֞ת אַהֲרֹ֤ן אָחִ֙יךָ֙ בְּהֹ֣ר הָהָ֔ר וַיֵּאָ֖סֶף אֶל־עַמָּֽיו׃ <sup>נא</sup>&nbsp;עַל֩ אֲשֶׁ֨ר מְעַלְתֶּ֜ם בִּ֗י בְּתוֹךְ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל בְּמֵֽי־מְרִיבַ֥ת קָדֵ֖שׁ מִדְבַּר־צִ֑ן עַ֣ל אֲשֶׁ֤ר לֹֽא־קִדַּשְׁתֶּם֙ אוֹתִ֔י בְּת֖וֹךְ בְּנֵ֥י יִשְׂרָאֵֽל׃ <sup>נב</sup>&nbsp;כִּ֥י מִנֶּ֖גֶד תִּרְאֶ֣ה אֶת־הָאָ֑רֶץ וְשָׁ֙מָּה֙ לֹ֣א תָב֔וֹא אֶל־הָאָ֕רֶץ אֲשֶׁר־אֲנִ֥י נֹתֵ֖ן לִבְנֵ֥י יִשְׂרָאֵֽל׃</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="h"><sup>48</sup>&nbsp;Now YHVH spoke to Mosheh on that same day, saying: <sup>49</sup>&nbsp;"Go up these heights of Avarim/The-region-across, Mount Nevo that is in the land of Moav, that faces Yereḥo, and see the land of K'naan that I am giving to the Children of Yisra'el for a holding. <sup>50</sup>&nbsp;You are to die on the mountain that you are going up, and are to be gathered to your kinspeople, as Aharon your brother died on Hor haHar and was gathered to his kinspeople <sup>51</sup>&nbsp;— because you (both) broke-faith with me in the midst of the Children of Yisra'el at the waters of Merivat Ḳadesh, in the Wilderness of Tsyn, because you did not treat-me-as-holy in the midst of the Children of Yisra'el. <sup>52</sup>&nbsp;Indeed, at-a-distance you shall see the land, but there you shall not enter, the land that I am giving to the Children of Yisra'el.</span>[foot]Note that as opposed to P – the mountain upon which Moses ascends in order to die is Mount Nebo, whereas according to Numbers 33:12 (P) it is Mount Abarim. This text shows signs of Priestly authorship, however, as it alludes to the sin of Meribah (Numbers 20:12) and the death of Aaron (Numbers 20:22ff.), note also the expression ויאסף אל עמיו – in vs. 50, which occurs in the Priestly death notice of Aaron (Numbers 20:24), and the patriarchs. It is quite likely, therefore, that this section was composed by H, the later supplementor of P.[/foot]
 </div></td></tr>

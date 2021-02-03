@@ -17,7 +17,8 @@ For attribution and license, please consult the following URL: <a href="http://o
  אֵל אֱלֹהֵי הָרוּחוֹת לְכׇל־בָּשָׂר,
  אֲבִי יְתוֹמִים וְדַיַּן[foot]Note that in <em>Sefer Totza’ot HaḤayyim</em> (after some passages of Torah study; p. 111), Rabbi Joseph Nobel spells this word with the final vowel being a <em>kamatz</em> (ָ), rather than a <em>patah</em> (ַ); however, because the word <em>dayyan</em> (דַּיָּן) here is in <em>semikhut</em> (סְמִיכוּת, “subordination”) form (the grammatical form where the noun preceding the next noun—without the use of a preposition or any word in-between—acts subordinately in relation to the following word), the grammatically correct vocalization is as written in the version of the text here, with a <em>pataḥ</em>.[/foot] אַלְמָנוֹת 
 אֱלֹהִים בִּמְעוֹן קׇדְשֶֽׁךָ! 
-תָּבֹא לְפָנֶֽיךָ תְּפִלָּתִי וְתוֹרַת חַיִּים שֶׁלָּמַדְתִּי בַּעֲבוּר נִשְׁמַת
+תָּבֹא לְפָנֶֽיךָ תְּפִלָּתִי וְתוֹרַת חַיִּים שֶׁלָּמַדְתִּי 
+בַּעֲבוּר נִשְׁמַת
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%"><div class="english">
@@ -25,7 +26,8 @@ Please YHVH, Sovereign of Compassion,
 El, Arbiter of the spirits of all flesh, 
 Parent of Orphans and Judge of widows: 
 Elohim, from the source of Your holiness! 
-May my prayer and the Torah of life that I have learned come before you on account of the soul,
+May my prayer and the Torah of life that I have learned 
+come before you on account of the soul,
 </div></td></tr>
 
 

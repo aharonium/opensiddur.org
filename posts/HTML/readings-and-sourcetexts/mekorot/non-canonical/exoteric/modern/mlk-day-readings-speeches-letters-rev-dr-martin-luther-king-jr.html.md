@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: Readings from the Speeches and Letters of Rev. Dr. Martin Luther King Jr.<br />
+Title: Excerpts from the Speeches and Letters of Rev. Dr. Martin Luther King Jr. from an ecumenical MLK Day service by Temple Emanu-El & Abyssinian Baptist Church<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=14943">http://opensiddur.org/?p=14943</a>
 <p />

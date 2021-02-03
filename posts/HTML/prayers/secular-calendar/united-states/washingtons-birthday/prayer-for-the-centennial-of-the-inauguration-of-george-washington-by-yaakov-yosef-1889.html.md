@@ -8,82 +8,82 @@ For attribution and license, please consult the following URL: <a href="http://o
 <hr />
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;">Hebrew (source)</th><th style="text-align: left;">English (translation)</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="commentary"><span lang="he">
 קולּ קורא
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 PROCLAMATION.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="commentary"><span lang="he">
 לאחינו בני ישראל בּארצות הברית באמעריקא.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 TO OUR BRETHREN, THE CHILDREN OF ISRAEL IN THE UNITED STATES OF AMERICA:—
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="commentary"><span lang="he">
 ביום ג׳ לחדש הזה (בר׳ לח׳ אפּריל) הוציא הפּרעזידענט בּנימין האַרריסאָן קול קורא לאזרחי ארצנו החוסים בצל ממשלת החופֿש והאור, ויודיע את יקרת החג אשר קדוש יהי׳ לכל עם האמעריקאני ביום ג׳ כ״ט ניסן (ל׳ לחודש אפריל) הבע״ל, כי ביום הזה תמלאינה מאה שנה למן או קבל עליו געאָרג װאַשינגטאָן משרת הנשיאות בארצות הברית בשבועת אֵמין, ויהי הפּרעזידענט הראשון לעם האמעריקאַני ולנס לממשלת הצדק והיושר לכל מין האנושי
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 On the 3d day of this month (April 4) Benjamin Harrison, the President of the United States, <a href="http://www.presidency.ucsb.edu/ws/index.php?pid=71197">issued a proclamation</a> to all the citizens of this land of freedom and enlightenment, urging them to celebrate Tuesday, the 20th day of the month of Nissan (April 30), as a feast of glory and rejoicing, for on that day a hundred years will be completed since the first President of the United States, George Washington of blessed memory, was installed in office as the administrator of the laws of justice and righteousness that rule this nation.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="commentary"><span lang="he">
 והנה כעברים מאמינים בדברי חוזינו וחכמינו ז״ל הלא עלינו המצוה להתפלל בשלומה של מלכות בכל מקום אשר אנחנו חיים שם, כאשר צוה ירמיהו על אבותינו <span class="citation">(ירמי׳ כט:ז)</span> וכאשר צוו עלינו חכמינו ז״ל בכל העתים וככל המקומות. ואף כי כאזרחי הארץ המבורכה הזאת החוסים תחת כנפֿי החקים הטובים והמשפּטים הישרים אשר עשו מחוקקי עם האמע. ריקאני ובתוכם נשיאנו הראשון געאָרג װאַשינגטאָן, ואשר הביאו לנו פּרות וגאולה— הלא מחויבים אנחנו ביתר שאת לשמוח בכל אשר ישמחו יתר אזרחי הארץ הזאת ולהוקיר זכרון האיש הנעלה מרבבה לנשיא הראשון בארצות הברית זה כמאה שנה.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 As Jews it is our religious duty to pray for the weal of the government wherever we are settled, as the Prophet Jeremiah enjoined upon our ancestors (Jeremiah, 29:7), and as our rabbis have repeatedly urged us to do. But by far more is it our solemn duty and joyful privilege, as citizens of the United States, to take part in the national celebrations of the people of this glorious land for the freedom of conscience and the equality before the law which the constitution of the United States guarantees to us. We should dearly cherish the memory of George Washington, who was one of the framers of that constitution, and was installed as Executive of the nation under its provisions on the above date one hundred years ago.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="commentary"><span lang="he">
 הבה יתירה נורעת לנו כי המחוקקים אשר יסדו תקנות ארצות הברית (ובתוכם געאָרג װאַשינגטאָן, הנשיא הראשון) הכירו לטוב את תורתינו הקדושה, וישימו חקיה ומשפטיה אשר עליהם יחיה האדם, לראש פֿינתם, כמו: „כְּאֶזְרָ֣ח מִכֶּם֩ יִהְיֶ֨ה לָכֶ֜ם הַגֵּ֣ר ׀ הַגָּ֣ר אִתְּכֶ֗ם וְאָהַבְתָּ֥ לוֹ֙ כָּמ֔וֹךָ" <span class="citation">(ויקרא יט:לד חלק)</span> „וַאֲהַבְתֶּ֖ם אֶת־הַגֵּ֑ר" <span class="citation">(דברים י:יט חלק)</span> ועוד הרבא כמו אלה.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 That national constitution, in which we glory as citizens of the United States, should be doubly dear to us as Jews since it is based upon the principles of our sacred Torah which recognizes the equality of all men before the law. For thus it is written:— "Like any citizen in your own midst shall be unto you the stranger who sojourns with you. and thou shall love him as thyself" (Leviticus 19:34); "You shall love the stranger" (Deuteronomy 10:19), and many more commands of this purport.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="commentary"><span lang="he">
 ולכן תקותי חזקה שאחינו היהודים בארצות הברית יכירו את יקרת חג הזכרון הנ״ל ויוקירוהו בכל אשר יוכלו, ויקהלו בבתי כנסיות להודות לר׳ חסדו על עם האמעריקאני בכלל, להעריץ במשאת נפֿש זכר נשיא הארץ הזאת הראשון, געאָרג װאַשינגטאָן, לברכה בצל שדי ולהתפלל בעד שלום ממשלת העם האמעריקאַני כלו ביום ג׳ כ״ט ניסן (ל׳ לחדש אפריל) הבע״ל בשעה התשיעית בבקר.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 Therefore do I ardently hope that our brethren, the Jews of the United States, will heartily join in the festivities of the ensuing centennial celebration, and will do all that is in their power to make it impressive and memorable; that they will all assemble in the synagogues on Tuesday the twenty-ninth day of Nissen (April 30), at nine o'clock in the morning, and render praise and thanksgivings to God for His mercies upon the American nation, with solemnity and reverence pay respect to the memory of the first President of this land, George Washington, of blessed memory, and invoke blessings of heaven upon the government of this, our beloved land.    
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="commentary"><span lang="he">
 יעקב יאָסעף,
 רב הכולל לאגודת הקהילות באמעריקא
@@ -93,7 +93,7 @@ Therefore do I ardently hope that our brethren, the Jews of the United States, w
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 JACOB JOSEPH,
 Chief Rabbi of the Union of Orthodox Hebrew Congregations of the United States.
@@ -103,31 +103,31 @@ Friday. 4th day of Passah, 5649.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <hr />
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 תפלה
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 PRAYER.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 ואני תפֿלה שיהיו נא אמרינו ומפֿעלינו 
 ביום חג הזכרון, 
@@ -137,7 +137,7 @@ PRAYER.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 I pray that all we may say and do 
 in the centennial celebration commemorating 
@@ -147,7 +147,7 @@ may be acceptable before the Lord of all.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 אבינו שבשמים! 
 למן אז רחף רוח קדשיך על תהום רבה 
@@ -162,7 +162,7 @@ may be acceptable before the Lord of all.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 Our Father, who art in heaven, 
 since Thy holy spirit was hovering over the waters of creation 
@@ -177,7 +177,7 @@ and to proclaim Thy work and Thy glory throughout all lands.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 ובעת אשר גלאו עמי הארץ 
 בדרכי יושר וצדק 
@@ -188,7 +188,7 @@ and to proclaim Thy work and Thy glory throughout all lands.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 And when the nations on earth were erring 
 in the paths of justice and righteousness, 
@@ -199,7 +199,7 @@ to discover this our new land in which we live today.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 והבאים אליה מעמי הזאַכסין 
 הורית בינה 
@@ -210,7 +210,7 @@ to discover this our new land in which we live today.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 Those who have come hither from the Saxon race 
 Thou hast granted wisdom 
@@ -221,7 +221,7 @@ should be equal before the laws and the statutes they created.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 ותגדל חסדיך על שרידי פליפי עם בחירך 
 הבאים לארצות הברית 
@@ -232,7 +232,7 @@ should be equal before the laws and the statutes they created.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 Thy mercy was great upon the remainder of Thy people Israel, 
 who have come to the United States, 
@@ -243,7 +243,7 @@ without hindrance.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 אנא, זכר נא 
 לרצון את נשמות המחוקקים הישרים 
@@ -254,7 +254,7 @@ without hindrance.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 May it be Thy inscrutable will 
 to remember in grace the souls of the framers 
@@ -265,7 +265,7 @@ of blessed memory.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 תן חכמה וגבורה 
 בלב נשיאנוּ השומר חקי ארצנו לעת כזאת, 
@@ -279,7 +279,7 @@ of blessed memory.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 Grant wisdom and strength 
 to our present Executive, 
@@ -293,7 +293,7 @@ and of mercy toward all men.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 האצל נא מרוח קדשך 
 על כל מחקקי ארצנו ומנהיגי עם אמעריקאַ 
@@ -313,7 +313,7 @@ and of mercy toward all men.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 May Thy holy spirit be apportioned 
 to all the law givers and administrators of this land, 
@@ -345,6 +345,6 @@ It must be noted that the proclamation signed immediately prior to the Washingto
 
 <h3>Source</h3>
 
-[gallery type="columns" link="file" size="large" ids="18506,18507,18505"]
+<span style="float: right;">[caption id="attachment_18506" align="alignleft" width="167"]<a href="https://opensiddur.org/wp-content/uploads/2017/12/From-Israel-and-the-Centennial-New-York-Herald-1889-20-04-a.jpg"><img src="https://opensiddur.org/wp-content/uploads/2017/12/From-Israel-and-the-Centennial-New-York-Herald-1889-20-04-a-167x300.jpg" alt="" width="167" height="300" class="size-medium wp-image-18506" /></a> From 'Israel and the Centennial' (New York Herald 1889-20-04) part 1[/caption]</span> <span style="float: left;">[caption id="attachment_18507" align="alignnone" width="131"]<a href="https://opensiddur.org/wp-content/uploads/2017/12/From-Israel-and-the-Centennial-New-York-Herald-1889-20-04-b.jpg"><img src="https://opensiddur.org/wp-content/uploads/2017/12/From-Israel-and-the-Centennial-New-York-Herald-1889-20-04-b-131x300.jpg" alt="" width="131" height="300" class="size-medium wp-image-18507" /></a> From 'Israel and the Centennial' (New York Herald 1889-20-04) part 2[/caption]</span> <span style="float: left;">[caption id="attachment_18505" align="alignnone" width="156"]<a href="https://opensiddur.org/wp-content/uploads/2017/12/From-Israel-and-the-Centennial-New-York-Herald-1889-20-04-c.jpg"><img src="https://opensiddur.org/wp-content/uploads/2017/12/From-Israel-and-the-Centennial-New-York-Herald-1889-20-04-c-156x300.jpg" alt="" width="156" height="300" class="size-medium wp-image-18505" /></a> From 'Israel and the Centennial' (New York Herald 1889-20-04) part 3[/caption]</span>[su_spacer]
 </body>
 </html>

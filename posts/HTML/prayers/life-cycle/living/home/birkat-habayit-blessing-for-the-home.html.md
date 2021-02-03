@@ -26,21 +26,8 @@ Let no fear come through this door.
 Let no conflict be in this place.
 Let this home be filled with blessing and peace.
 </div></td></tr>
-</tbody></table>
 
-<hr />
 
-<div class="english" style="font-size: 1.2em;">
-The <a href="http://en.wikipedia.org/wiki/Birkat_HaBayit">Birkat Habayit</a> (home blessing) is perhaps the most popular supplication in the Jewish world, appearing as a hanging amulet inside the entrance of many houses of Jews of all streams. Numerous variations appear today. I have added <em>niqud</em> to the prayer and I am very grateful to Gabriel Wasserman for his corrections to my vocalization.
-
-The provenance and original authorship of the formula is unknown. I have not been able to locate its earliest attestation in a <em>kameya</em> (amulet) although a variation of it appears in a printed <a href="https://opensiddur.org/prayers/collective-welfare/trouble/epidemics/amulet-for-protection-from-the-plague-attributed-to-moshe-teitelbaum/">amulet for protection against plague</a>, dated from 1925 in Hungary and attributed to Rabbi Moshe Teitelbaum (1759-1841).
-
-The theurgical power of scriptural verse is one very significant element that distinguishes Jewish prayer from other literary prayer praxes. At least three verses seems apropos to me. The first two are suggested by <a href="https://imaginarius13.wordpress.com/2014/01/15/from-house-to-home-a-blessing-of-transition/">Ilene Winn-Lederer</a>. Exodus 25:8 associates ones own house with the archetypal <em>mishkan</em>, the dwelling place intended for the shekhina (Divine Presence). The second verse, from Proverbs 24:3-4, is prescriptive. When I <a href="https://www.facebook.com/groups/opensiddur/permalink/10152938885227746/">asked for an accompanying verse from the TaNaKh</a> to the popular Blessing for the Home on the Open Siddur Project Discussion Group on Facebook, Rabbi Alona Lisista offered the verse of blessing given by Bilaam the prophet in Numbers 24:5 upon seeing with his own eyes the wandering camp of the Israelites. These three verses, I think, help to ground the intention of the blessing in the context of the Jewish imagination.
-</div>
-
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
-<tbody>
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right; font-size: 1.5em;"><span lang="he">
 וְעָ֥שׂוּ לִ֖י מִקְדָּ֑שׁ 
@@ -78,8 +65,19 @@ With all precious and pleasant riches.[foot]Proverbs 24:3-4[/foot]
 <td width="53%"><div class="english">
 How excellent are your tents, O Ya'akov, 
 your dwellings, Yisrael![foot]Bilaam the prophet from Numbers 24:5[/foot]
+</div></td></tr>
+</tbody></table>
+
+<hr />
+
+<div class="english" style="font-size: 1.2em;">
+The <a href="http://en.wikipedia.org/wiki/Birkat_HaBayit">Birkat Habayit</a> (home blessing) is perhaps the most popular supplication in the Jewish world, appearing as a hanging amulet inside the entrance of many houses of Jews of all streams. Numerous variations appear today. The provenance and original authorship of the formula is unknown. I have not been able to locate its earliest attestation in a <em>kameya</em> (amulet) although a variation of it appears in a printed <a href="https://opensiddur.org/prayers/collective-welfare/trouble/epidemics/amulet-for-protection-from-the-plague-attributed-to-moshe-teitelbaum/">amulet for protection against plague</a>, dated from 1925 in Hungary and attributed to Rabbi Moshe Teitelbaum (1759-1841).
+
+I have appended several biblical verses to the prayer. The theurgical power of scriptural verse is one very significant element that distinguishes Jewish prayer from other literary prayer praxes. At least three verses seems apropos to me. The first two are suggested by <a href="https://imaginarius13.wordpress.com/2014/01/15/from-house-to-home-a-blessing-of-transition/">Ilene Winn-Lederer</a>. Exodus 25:8 associates ones own house with the archetypal <em>mishkan</em>, the dwelling place intended for the shekhina (Divine Presence). The second verse, from Proverbs 24:3-4, is prescriptive. When I <a href="https://www.facebook.com/groups/opensiddur/permalink/10152938885227746/">asked for an accompanying verse from the TaNaKh</a> to the popular Blessing for the Home on the Open Siddur Project Discussion Group on Facebook, Rabbi Alona Lisista offered the verse of blessing given by Bilaam the prophet in Numbers 24:5 upon seeing with his own eyes the wandering camp of the Israelites. These three verses, I think, help to ground the intention of the blessing in the context of the Jewish imagination.
+
+I have also added <em>niqud</em> to the prayer. (Many thanks to Gabriel Wasserman for his proofreading and corrections.) --Aharon Varady
 </div>
-</td></tr></tbody></table>
+
 
 <h3>Source</h3>
 

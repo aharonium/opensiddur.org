@@ -8,8 +8,8 @@ For attribution and license, please consult the following URL: <a href="http://o
 <hr />
 
 <strong>DOWNLOAD:</strong> 
-<a href="https://archive.org/download/parashatshemothaftarahreadingwithenglishtranstropilationlenfellman2019/Parashat%20Shemot%20Haftarah%20Reading%20%28Isaiah%2027v6-28v13%2C%2029v22-23%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29%20-%20english%20only.pdf">PDF</a> or <a href="https://archive.org/download/parashatshemothaftarahreadingwithenglishtranstropilationlenfellman2019/Parashat%20Shemot%20Haftarah%20Reading%20%28Isaiah%2027v6-28v13%2C%2029v22-23%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29%20-%20english%20only.odt">ODT</a> (sans Hebrew)
-<a href="https://archive.org/download/parashatshemothaftarahreadingwithenglishtranstropilationlenfellman2019/Parashat%20Shemot%20Haftarah%20Reading%20%28Isaiah%2027v6-28v13%2C%2029v22-23%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29.pdf">PDF</a> or <a href="https://archive.org/download/parashatshemothaftarahreadingwithenglishtranstropilationlenfellman2019/Parashat%20Shemot%20Haftarah%20Reading%20%28Isaiah%2027v6-28v13%2C%2029v22-23%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29.odt">ODT</a> (with Hebrew)
+<a href="https://archive.org/download/parashatshemothaftarahreadingwithenglishtranstropilationlenfellman2019/Parashat%20Shemot%20Haftarah%20Reading%20%28Isaiah%2027v6-28v13%2C%2029v22-23%29%20in%20English%20transtropilation%20%28Len%20Fellman%202021%29%20-%20english%20only.pdf">PDF</a> or <a href="https://archive.org/download/parashatshemothaftarahreadingwithenglishtranstropilationlenfellman2019/Parashat%20Shemot%20Haftarah%20Reading%20%28Isaiah%2027v6-28v13%2C%2029v22-23%29%20in%20English%20transtropilation%20%28Len%20Fellman%202021%29%20-%20english%20only.odt">ODT</a> (sans Hebrew)
+<a href="https://archive.org/download/parashatshemothaftarahreadingwithenglishtranstropilationlenfellman2019/Parashat%20Shemot%20Haftarah%20Reading%20%28Isaiah%2027v6-28v13%2C%2029v22-23%29%20in%20English%20transtropilation%20%28Len%20Fellman%202021%29.pdf">PDF</a> or <a href="https://archive.org/download/parashatshemothaftarahreadingwithenglishtranstropilationlenfellman2019/Parashat%20Shemot%20Haftarah%20Reading%20%28Isaiah%2027v6-28v13%2C%2029v22-23%29%20in%20English%20transtropilation%20%28Len%20Fellman%202021%29.odt">ODT</a> (with Hebrew)
 
 <hr />
 
@@ -17,15 +17,16 @@ This is an English translation of the Haftarah reading for Parashat Shemot (Isai
 
 <h3>Source</h3>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/parashatshemothaftarahreadingwithenglishtranstropilationlenfellman2019/Parashat%20Shemot%20Haftarah%20Reading%20%28Isaiah%2027v6-28v13%2C%2029v22-23%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29#page/n0"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/parashatshemothaftarahreadingwithenglishtranstropilationlenfellman2019/Parashat%20Shemot%20Haftarah%20Reading%20%28Isaiah%2027v6-28v13%2C%2029v22-23%29%20in%20English%20transtropilation%20%28Len%20Fellman%202021%29#page/n0"]
 
 &nbsp;
 
 <h3>Recording</h3>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/details/parashatshemothaftarahreadingwithenglishtranstropilationlenfellman2019" show_part_of_iframe="true" show_part_of_iframe_y="75" show_part_of_iframe_height="145" show_part_of_iframe_allow_scrollbar_vertical="false"]
+https://archive.org/download/parashatshemothaftarahreadingwithenglishtranstropilationlenfellman2019/Parashat%20Shemot%20Haftarah%20Reading%20%28Isaiah%2027v6-28v13%2C%2029v22-23%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29.mp3
 
 <hr />
+
 &nbsp;
 </body>
 </html>

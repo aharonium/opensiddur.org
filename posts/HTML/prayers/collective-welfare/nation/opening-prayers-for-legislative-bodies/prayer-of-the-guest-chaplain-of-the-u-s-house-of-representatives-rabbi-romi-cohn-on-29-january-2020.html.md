@@ -100,7 +100,7 @@ I offer humble words of praise and gratitude to the Almighty.
 &nbsp;
 Blessed are You, 
 King of the Universe, 
-who has granted me life and sustenance to this day.[foot]cf. the "shehekhiyanu" blessing.[/foot]
+who has granted me life and sustenance to this day.[foot]cf. the "sheheḥiyanu" blessing.[/foot]
 <em>Amen</em>.
 </div></td></tr>
 

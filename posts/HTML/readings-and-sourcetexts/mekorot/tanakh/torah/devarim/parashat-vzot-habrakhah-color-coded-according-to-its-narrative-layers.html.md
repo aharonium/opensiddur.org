@@ -22,24 +22,24 @@ According to the poetry of the Midrash Tanḥuma, Bereshit 1:1, the words of the
 
 <span class="h">&#11035; This strata popularized Kohanite law for the remnant of Judah after the Temple was destroyed, and functioned as an intermediary between Kohanite lists and laws and the surrounding narrative. This layer, which Dr. Yoreh calls 'H' (for the 'Holiness Code') appears here in LIME-GREEN text.</span>
 
-Parashat v'Zōt haBrakhah (Deuteronomy 33:1-34:12) in the annual Torah reading cycle is the eleventh and final parashah in Sefer Devarim. It is preceded by parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-devarim/parashat-haazinu/parashat-haazinu-color-coded-according-to-its-narrative-layers/">Haazinu</a> (Deuteronomy 32:1-52). Parashat <a href="https://opensiddur.org/readings-and-sourcetexts/mekorot/tanakh/torah/bereshit/parashat-bereshit-color-coded-according-to-its-narrative-layers/">Bereshit</a>, the first parashah in the Pentateuch, follows it. The story of the conquest of the land of K'naan under the leadership of Yehoshua ben Nun continues in the book of Yehoshua (Joshua).
+Parashat v'Zōt haBrakhah (Deuteronomy 33:1-34:12) in the annual Torah reading cycle is the eleventh and final parashah in Sefer Devarim. It is preceded by parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-devarim/parashat-haazinu/parashat-haazinu-color-coded-according-to-its-narrative-layers/">Haazinu</a> (Deuteronomy 32:1-52). Parashat <a href="https://opensiddur.org/readings-and-sourcetexts/mekorot/tanakh/torah/bereshit/parashat-bereshit-color-coded-according-to-its-narrative-layers/">Bereshit</a> (Genesis 1:1-6:8), the first parashah in the Pentateuch, follows it. The story of the conquest of the land of K'naan under the leadership of Yehoshua ben Nun continues in the book of Yehoshua (Joshua).
 </div>
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="d1">לג <sup>א</sup>&nbsp;וְזֹ֣את הַבְּרָכָ֗ה אֲשֶׁ֨ר בֵּרַ֥ךְ מֹשֶׁ֛ה אִ֥ישׁ הָאֱלֹהִ֖ים אֶת־בְּנֵ֣י יִשְׂרָאֵ֑ל לִפְנֵ֖י מוֹתֽוֹ׃ <sup>ב</sup>&nbsp;וַיֹּאמַ֗ר </span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="d1">33 <sup>1</sup>&nbsp;Now this is the blessing with which Mosheh the man of Elohim blessed the Children of Yisra'el before his death. <sup>2</sup>&nbsp;He said:</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="d1">יְהֹוָ֞ה מִסִּינַ֥י בָּא֙ 
 וְזָרַ֤ח מִשֵּׂעִיר֙ לָ֔מוֹ 
@@ -57,7 +57,7 @@ Parashat v'Zōt haBrakhah (Deuteronomy 33:1-34:12) in the annual Torah reading c
 יַ֖חַד שִׁבְטֵ֥י יִשְׂרָאֵֽל׃ </span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="d1">"YHVH from Sinai came, 
 he shone forth from Se'ir for them, 
@@ -76,20 +76,20 @@ together, the tribes of Yisra'el!"</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="d1"><sup>ו</sup>&nbsp;יְחִ֥י רְאוּבֵ֖ן וְאַל־יָמֹ֑ת 
 וִיהִ֥י מְתָ֖יו מִסְפָּֽר׃</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="d1"><sup>6</sup>&nbsp;"May Re'uven live and not die, 
 but let his menfolk be few-in-number."</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="d1"><sup>ז</sup>&nbsp;וְזֹ֣את לִיהוּדָה֮ וַיֹּאמַר֒ 
 שְׁמַ֤ע יְהֹוָה֙ ק֣וֹל יְהוּדָ֔ה
@@ -98,7 +98,7 @@ but let his menfolk be few-in-number."</span>
  וְעֵ֥זֶר מִצָּרָ֖יו תִּהְיֶֽה׃</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="d1"><sup>7</sup>&nbsp;And this to Yehudah, he said: 
 "Hearken, O YHVH, to the voice of Yehudah, 
@@ -108,7 +108,7 @@ A help against his foes may you be!"</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="d1"><mark>שני</mark> <sup>ח</sup>&nbsp;וּלְלֵוִ֣י אָמַ֔ר 
 תֻּמֶּ֥יךָ וְאוּרֶ֖יךָ לְאִ֣ישׁ חֲסִידֶ֑ךָ 
@@ -130,7 +130,7 @@ A help against his foes may you be!"</span>
  וּמְשַׂנְאָ֖יו מִן־יְקוּמֽוּן׃</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="d1"><sup>8</sup>&nbsp;To Levi he said: 
 "Your Tummim and your Urim for your loyal man, 
@@ -153,7 +153,7 @@ those hating him, from rising up!"</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="d1"><sup>יב</sup>&nbsp;לְבִנְיָמִ֣ן אָמַ֔ר 
 יְדִ֣יד יְהֹוָ֔ה 
@@ -162,7 +162,7 @@ those hating him, from rising up!"</span>
 וּבֵ֥ין כְּתֵפָ֖יו שָׁכֵֽן׃</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="d1"><sup>12</sup>&nbsp;To Binyamin he said: 
 "The beloved of YHVH! 
@@ -172,7 +172,7 @@ as between his shoulders he dwells."</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="d1"><mark>שלישי</mark> <sup>יג</sup>&nbsp;וּלְיוֹסֵ֣ף אָמַ֔ר 
 מְבֹרֶ֥כֶת יְהֹוָ֖ה אַרְצ֑וֹ
@@ -193,7 +193,7 @@ as between his shoulders he dwells."</span>
 וְהֵ֖ם אַלְפֵ֥י מְנַשֶּֽׁה׃</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="d1"><sup>13</sup>&nbsp;To Yosef he said: 
 "Blessed by YHVH be his land, 
@@ -215,7 +215,7 @@ they are the thousands of Menasheh."</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="d1"><mark>רביעי</mark> <sup>יח</sup>&nbsp;וְלִזְבוּלֻ֣ן אָמַ֔ר 
 שְׂמַ֥ח זְבוּלֻ֖ן בְּצֵאתֶ֑ךָ 
@@ -226,7 +226,7 @@ they are the thousands of Menasheh."</span>
 וּשְׂפֻנֵ֖י טְמ֥וּנֵי חֽוֹל׃</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="d1"><sup>18</sup>&nbsp;To Zevulun he said: 
 "Rejoice, O Zevulun, in your going-out, 
@@ -238,7 +238,7 @@ the hidden treasures of the sand."</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="d1"><sup>כ</sup>&nbsp;וּלְגָ֣ד אָמַ֔ר 
 בָּר֖וּךְ מַרְחִ֣יב גָּ֑ד 
@@ -251,7 +251,7 @@ the hidden treasures of the sand."</span>
  וּמִשְׁפָּטָ֖יו עִם־יִשְׂרָאֵֽל׃</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="d1"><sup>20</sup>&nbsp;To Gad he said:  
 "Blessed be he that expands Gad, 
@@ -265,14 +265,14 @@ his regulations along with Yisra'el."</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="d1"><mark>חמישי</mark> <sup>כב</sup>&nbsp;וּלְדָ֣ן אָמַ֔ר 
 דָּ֖ן גּ֣וּר אַרְיֵ֑ה 
 יְזַנֵּ֖ק מִן־הַבָּשָֽׁן׃ </span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="d1"><sup>22</sup>&nbsp;To Dan he said: 
 "Dan is a whelp of lions 
@@ -280,7 +280,7 @@ leaping forth from Bashan."</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="d1"><sup>כג</sup>&nbsp;וּלְנַפְתָּלִ֣י אָמַ֔ר 
 נַפְתָּלִי֙ שְׂבַ֣ע רָצ֔וֹן 
@@ -288,7 +288,7 @@ leaping forth from Bashan."</span>
  יָ֥ם וְדָר֖וֹם יְרָֽשָׁה׃</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="d1"><sup>23</sup>&nbsp;To Naftali he said: 
 "Naftali is sated with favor, 
@@ -297,7 +297,7 @@ full with the blessing of YHVH;
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="d1"><sup>כד</sup>&nbsp;וּלְאָשֵׁ֣ר אָמַ֔ר 
 בָּר֥וּךְ מִבָּנִ֖ים אָשֵׁ֑ר 
@@ -307,7 +307,7 @@ full with the blessing of YHVH;
 וּכְיָמֶ֖יךָ דׇּבְאֶֽךָ׃ </span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="d1"><sup>24</sup>&nbsp;To Asher he said: 
 "Most blessed of sons, Asher! 
@@ -318,7 +318,7 @@ and as your days, your strength."</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="d1"><sup>כו</sup>&nbsp;אֵ֥ין כָּאֵ֖ל יְשֻׁר֑וּן 
 רֹכֵ֤ב שָׁמַ֙יִם֙ בְעֶזְרֶ֔ךָ 
@@ -337,7 +337,7 @@ and as your days, your strength."</span>
 וְאַתָּ֖ה עַל־בָּמוֹתֵ֥ימוֹ תִדְרֹֽךְ׃</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="d1"><sup>26</sup>&nbsp;"There is none like El, O Yeshurun, 
 riding (through) the Heavens to your help, 
@@ -357,45 +357,45 @@ and you — on their backs you will tread!"</span>[foot]It is a big question wha
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="h"><mark>שביעי</mark> לד <sup>א</sup>&nbsp;וַיַּ֨עַל מֹשֶׁ֜ה מֵעַרְבֹ֤ת מוֹאָב֙ אֶל־הַ֣ר נְב֔וֹ רֹ֚אשׁ הַפִּסְגָּ֔ה אֲשֶׁ֖ר עַל־פְּנֵ֣י יְרֵח֑וֹ וַיַּרְאֵ֨הוּ יְהֹוָ֧ה אֶת־כׇּל־הָאָ֛רֶץ אֶת־הַגִּלְעָ֖ד עַד־דָּֽן׃ <sup>ב</sup>&nbsp;וְאֵת֙ כׇּל־נַפְתָּלִ֔י וְאֶת־אֶ֥רֶץ אֶפְרַ֖יִם וּמְנַשֶּׁ֑ה וְאֵת֙ כׇּל־אֶ֣רֶץ יְהוּדָ֔ה עַ֖ד הַיָּ֥ם הָאַחֲרֽוֹן׃ <sup>ג</sup>&nbsp;וְאֶת־הַנֶּ֗גֶב וְֽאֶת־הַכִּכָּ֞ר בִּקְעַ֧ת יְרֵח֛וֹ עִ֥יר הַתְּמָרִ֖ים עַד־צֹֽעַר׃ <sup>ד</sup>&nbsp;וַיֹּ֨אמֶר יְהֹוָ֜ה אֵלָ֗יו זֹ֤את הָאָ֙רֶץ֙ אֲשֶׁ֣ר נִ֠שְׁבַּ֠עְתִּי לְאַבְרָהָ֨ם לְיִצְחָ֤ק וּֽלְיַעֲקֹב֙ לֵאמֹ֔ר לְזַרְעֲךָ֖ אֶתְּנֶ֑נָּה הֶרְאִיתִ֣יךָ בְעֵינֶ֔יךָ וְשָׁ֖מָּה לֹ֥א תַעֲבֹֽר׃ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="h">34 <sup>1</sup>&nbsp;Now Mosheh went up from the Plains of Moav to Mount Nevo, at the top of the Pisgah (Range) that faces Yereḥo; and YHVH let him see all the land: Gil'ad as far as Dan&#x200b;, <sup>2</sup>&nbsp;and all Naftali, and the land of Efrayim and Menasheh, and all the land of Yehudah, as far as the Hindmost Sea, <sup>3</sup>&nbsp;and the Negev and the round-plain, the cleft of Yereḥo, the town of palms, as far as Tso'ar. <sup>4</sup>&nbsp;And YHVH said to him: "This is the land that I swore to Avraham, to Yitsḥaq, and to Yaaqov, saying: 'To your seed I give it!' I have let you see it with your eyes, but there you shall not cross!"</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="h"><sup>ה</sup>&nbsp;וַיָּ֨מׇת שָׁ֜ם מֹשֶׁ֧ה עֶבֶד־יְהֹוָ֛ה בְּאֶ֥רֶץ מוֹאָ֖ב עַל־פִּ֥י יְהֹוָה׃ <sup>ו</sup>&nbsp;וַיִּקְבֹּ֨ר אֹת֤וֹ בַגַּי֙ בְּאֶ֣רֶץ מוֹאָ֔ב מ֖וּל בֵּ֣ית פְּע֑וֹר וְלֹא־יָדַ֥ע אִישׁ֙ אֶת־קְבֻ֣רָת֔וֹ עַ֖ד הַיּ֥וֹם הַזֶּֽה׃ </span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
-<span class="h"><sup>5</sup>&nbsp;So there died there Mosheh, servant of YHVH, in the land of Moav, at the order of YHVH. <sup>6</sup>&nbsp;He buried him in a valley in the land of Moav, opposite Bet Pe'or, and no man has knowledge of the site of his burial-place until this day.</span>
+<span class="h"><sup>5</sup>&nbsp;So there died Mosheh, servant of YHVH, in the land of Moav, at the order of YHVH. <sup>6</sup>&nbsp;He buried him in a valley in the land of Moav, opposite Bet Pe'or, and no man has knowledge of the site of his burial-place until this day.</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="h"><sup>ז</sup>&nbsp;וּמֹשֶׁ֗ה בֶּן־מֵאָ֧ה וְעֶשְׂרִ֛ים שָׁנָ֖ה בְּמֹת֑וֹ לֹא־כָהֲתָ֥ה עֵינ֖וֹ וְלֹא־נָ֥ס לֵחֹֽה׃ <sup>ח</sup>&nbsp;וַיִּבְכּוּ֩ בְנֵ֨י יִשְׂרָאֵ֧ל אֶת־מֹשֶׁ֛ה בְּעַֽרְבֹ֥ת מוֹאָ֖ב שְׁלֹשִׁ֣ים י֑וֹם וַֽיִּתְּמ֔וּ יְמֵ֥י בְכִ֖י אֵ֥בֶל מֹשֶֽׁה׃ </span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="h"><sup>7</sup>&nbsp;Now Mosheh was a hundred and twenty years old at his death; his eye had not grown-dim, his vigor had not fled. <sup>8</sup>&nbsp;The Children of Yisra'el wept for Mosheh in the Plains of Moav for thirty days. Then the days of weeping in mourning for Mosheh were ended.</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="h"><sup>ט</sup>&nbsp;וִיהוֹשֻׁ֣עַ בִּן־נ֗וּן מָלֵא֙ ר֣וּחַ חׇכְמָ֔ה כִּֽי־סָמַ֥ךְ מֹשֶׁ֛ה אֶת־יָדָ֖יו עָלָ֑יו וַיִּשְׁמְע֨וּ אֵלָ֤יו בְּנֵֽי־יִשְׂרָאֵל֙ וַֽיַּעֲשׂ֔וּ כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃ <sup>י</sup>&nbsp;וְלֹא־קָ֨ם נָבִ֥יא ע֛וֹד בְּיִשְׂרָאֵ֖ל כְּמֹשֶׁ֑ה אֲשֶׁר֙ יְדָע֣וֹ יְהֹוָ֔ה פָּנִ֖ים אֶל־פָּנִֽים׃ <sup>יא</sup>&nbsp;לְכׇל־הָ֨אֹתֹ֜ת וְהַמּוֹפְתִ֗ים אֲשֶׁ֤ר שְׁלָחוֹ֙ יְהֹוָ֔ה לַעֲשׂ֖וֹת בְּאֶ֣רֶץ מִצְרָ֑יִם לְפַרְעֹ֥ה וּלְכׇל־עֲבָדָ֖יו וּלְכׇל־אַרְצֽוֹ׃ <sup>יב</sup>&nbsp;וּלְכֹל֙ הַיָּ֣ד הַחֲזָקָ֔ה וּלְכֹ֖ל הַמּוֹרָ֣א הַגָּד֑וֹל אֲשֶׁר֙ עָשָׂ֣ה מֹשֶׁ֔ה לְעֵינֵ֖י כׇּל־יִשְׂרָאֵֽל׃</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="h"><sup>9</sup>&nbsp;Now Yehoshua son of Nun was filled with the spirit of wisdom, for Mosheh had leaned his hands upon him, and (so) the Children of Yisra'el hearkened to him and did as YHVH had commanded Mosheh. <sup>10</sup>&nbsp;But there arose no further prophet in Yisra'el like Mosheh, whom YHVH knew face to face, <sup>11</sup>&nbsp;in all the signs and portents that YHVH sent him to do in the land of Mitsrayim, to Pharaoh and to all his servants, and to all his land; <sup>12</sup>&nbsp;and in all the strong hand and in all the great, awe-inspiring (acts) that Mosheh did before the eyes of all Yisra'el.</span>
 </div></td></tr>

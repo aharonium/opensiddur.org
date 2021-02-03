@@ -28,13 +28,22 @@ This is part five of an ongoing series of Torah and Haftarah readings for civic 
 <div class="liturgy"><span lang="he">
 כהן (שמות א ח-יב)
 &nbsp;
-וַיָּ֥קׇם מֶֽלֶךְ־חָדָ֖שׁ עַל־מִצְרָ֑יִם אֲשֶׁ֥ר לֹֽא־יָדַ֖ע אֶת־יוֹסֵֽף׃ וַיֹּ֖אמֶר אֶל־עַמּ֑וֹ הִנֵּ֗ה עַ֚ם בְּנֵ֣י יִשְׂרָאֵ֔ל רַ֥ב וְעָצ֖וּם מִמֶּֽנּוּ׃ הָ֥בָה נִֽתְחַכְּמָ֖ה ל֑וֹ פֶּן־יִרְבֶּ֗ה וְהָיָ֞ה כִּֽי־תִקְרֶ֤אנָה מִלְחָמָה֙ וְנוֹסַ֤ף גַּם־הוּא֙ עַל־שֹׂ֣נְאֵ֔ינוּ וְנִלְחַם־בָּ֖נוּ וְעָלָ֥ה מִן־הָאָֽרֶץ׃ וַיָּשִׂ֤ימוּ עָלָיו֙ שָׂרֵ֣י מִסִּ֔ים לְמַ֥עַן עַנֹּת֖וֹ בְּסִבְלֹתָ֑ם וַיִּ֜בֶן עָרֵ֤י מִסְכְּנוֹת֙ לְפַרְעֹ֔ה אֶת־פִּתֹ֖ם וְאֶת־רַעַמְסֵֽס׃ וְכַאֲשֶׁר֙ יְעַנּ֣וּ אֹת֔וֹ כֵּ֥ן יִרְבֶּ֖ה וְכֵ֣ן יִפְרֹ֑ץ וַיָּקֻ֕צוּ מִפְּנֵ֖י בְּנֵ֥י יִשְׂרָאֵֽל׃
+https://archive.org/download/scriptural-readings-for-holocaust-and-genocide-memorial-days/Scriptural%20Readings%20for%20Holocaust%20and%20Genocide%20Memorial%20Days%20-%201%20-%20Kohen%20Aliyah%20%28Exodus%201v8-12%29.mp3
 </span></div></td>
  
 <td style="vertical-align:top;">
 <div class="english">
 Kohen: Exodus 1:8-12
-&nbsp;
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
+וַיָּ֥קׇם מֶֽלֶךְ־חָדָ֖שׁ עַל־מִצְרָ֑יִם אֲשֶׁ֥ר לֹֽא־יָדַ֖ע אֶת־יוֹסֵֽף׃ וַיֹּ֖אמֶר אֶל־עַמּ֑וֹ הִנֵּ֗ה עַ֚ם בְּנֵ֣י יִשְׂרָאֵ֔ל רַ֥ב וְעָצ֖וּם מִמֶּֽנּוּ׃ הָ֥בָה נִֽתְחַכְּמָ֖ה ל֑וֹ פֶּן־יִרְבֶּ֗ה וְהָיָ֞ה כִּֽי־תִקְרֶ֤אנָה מִלְחָמָה֙ וְנוֹסַ֤ף גַּם־הוּא֙ עַל־שֹׂ֣נְאֵ֔ינוּ וְנִלְחַם־בָּ֖נוּ וְעָלָ֥ה מִן־הָאָֽרֶץ׃ וַיָּשִׂ֤ימוּ עָלָיו֙ שָׂרֵ֣י מִסִּ֔ים לְמַ֥עַן עַנֹּת֖וֹ בְּסִבְלֹתָ֑ם וַיִּ֜בֶן עָרֵ֤י מִסְכְּנוֹת֙ לְפַרְעֹ֔ה אֶת־פִּתֹ֖ם וְאֶת־רַעַמְסֵֽס׃ וְכַאֲשֶׁר֙ יְעַנּ֣וּ אֹת֔וֹ כֵּ֥ן יִרְבֶּ֖ה וְכֵ֣ן יִפְרֹ֑ץ וַיָּקֻ֕צוּ מִפְּנֵ֖י בְּנֵ֥י יִשְׂרָאֵֽל׃
+</span></div></td>
+ 
+<td style="vertical-align:top;">
+<div class="english">
 And a new king arose over Egypt who had not known Joseph. And he said to his people, “Look, the people of the children of Israel are too numerous and strong for us. Come, let’s be cunning about them, lest they multiply, and if war is called it would join with our rivals as a fifth column and leave the land.” And they placed over them gang overseers in order to oppress them with their labors, and they build fortress cities for Pharaoh, Pithom and Ra’amses. And when they were oppressing them, yet they grew and yet they spread, and the [Egyptians] loathed the children of Israel.
 </div></td></tr>
 
@@ -43,13 +52,22 @@ And a new king arose over Egypt who had not known Joseph. And he said to his peo
 <div class="liturgy"><span lang="he">
 לוי (שמות א יג-יז)
 &nbsp;
-וַיַּעֲבִ֧דוּ מִצְרַ֛יִם אֶת־בְּנֵ֥י יִשְׂרָאֵ֖ל בְּפָֽרֶךְ׃ וַיְמָרְר֨וּ אֶת־חַיֵּיהֶ֜ם בַּעֲבֹדָ֣ה קָשָׁ֗ה בְּחֹ֙מֶר֙ וּבִלְבֵנִ֔ים וּבְכׇל־עֲבֹדָ֖ה בַּשָּׂדֶ֑ה אֵ֚ת כׇּל־עֲבֹ֣דָתָ֔ם אֲשֶׁר־עָבְד֥וּ בָהֶ֖ם בְּפָֽרֶךְ׃ וַיֹּ֙אמֶר֙ מֶ֣לֶךְ מִצְרַ֔יִם לַֽמְיַלְּדֹ֖ת הָֽעִבְרִיֹּ֑ת אֲשֶׁ֨ר שֵׁ֤ם הָֽאַחַת֙ שִׁפְרָ֔ה וְשֵׁ֥ם הַשֵּׁנִ֖ית פּוּעָֽה׃ וַיֹּ֗אמֶר בְּיַלֶּדְכֶן֙ אֶת־הָֽעִבְרִיּ֔וֹת וּרְאִיתֶ֖ן עַל־הָאׇבְנָ֑יִם אִם־בֵּ֥ן הוּא֙ וַהֲמִתֶּ֣ן אֹת֔וֹ וְאִם־בַּ֥ת הִ֖וא וָחָֽיָה׃ וַתִּירֶ֤אןָ הַֽמְיַלְּדֹת֙ אֶת־הָ֣אֱלֹהִ֔ים וְלֹ֣א עָשׂ֔וּ כַּאֲשֶׁ֛ר דִּבֶּ֥ר אֲלֵיהֶ֖ן מֶ֣לֶךְ מִצְרָ֑יִם וַתְּחַיֶּ֖יןָ אֶת־הַיְלָדִֽים׃
+https://archive.org/download/scriptural-readings-for-holocaust-and-genocide-memorial-days/Scriptural%20Readings%20for%20Holocaust%20and%20Genocide%20Memorial%20Days%20-%202%20-%20Levi%20Aliyah%20%28Exodus%201v13-17%29.mp3
 </span></div></td>
  
 <td style="vertical-align:top;">
 <div class="english">
 Levi: Exodus 1:13-17
-&nbsp;
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
+וַיַּעֲבִ֧דוּ מִצְרַ֛יִם אֶת־בְּנֵ֥י יִשְׂרָאֵ֖ל בְּפָֽרֶךְ׃ וַיְמָרְר֨וּ אֶת־חַיֵּיהֶ֜ם בַּעֲבֹדָ֣ה קָשָׁ֗ה בְּחֹ֙מֶר֙ וּבִלְבֵנִ֔ים וּבְכׇל־עֲבֹדָ֖ה בַּשָּׂדֶ֑ה אֵ֚ת כׇּל־עֲבֹ֣דָתָ֔ם אֲשֶׁר־עָבְד֥וּ בָהֶ֖ם בְּפָֽרֶךְ׃ וַיֹּ֙אמֶר֙ מֶ֣לֶךְ מִצְרַ֔יִם לַֽמְיַלְּדֹ֖ת הָֽעִבְרִיֹּ֑ת אֲשֶׁ֨ר שֵׁ֤ם הָֽאַחַת֙ שִׁפְרָ֔ה וְשֵׁ֥ם הַשֵּׁנִ֖ית פּוּעָֽה׃ וַיֹּ֗אמֶר בְּיַלֶּדְכֶן֙ אֶת־הָֽעִבְרִיּ֔וֹת וּרְאִיתֶ֖ן עַל־הָאׇבְנָ֑יִם אִם־בֵּ֥ן הוּא֙ וַהֲמִתֶּ֣ן אֹת֔וֹ וְאִם־בַּ֥ת הִ֖וא וָחָֽיָה׃ וַתִּירֶ֤אןָ הַֽמְיַלְּדֹת֙ אֶת־הָ֣אֱלֹהִ֔ים וְלֹ֣א עָשׂ֔וּ כַּאֲשֶׁ֛ר דִּבֶּ֥ר אֲלֵיהֶ֖ן מֶ֣לֶךְ מִצְרָ֑יִם וַתְּחַיֶּ֖יןָ אֶת־הַיְלָדִֽים׃
+</span></div></td>
+ 
+<td style="vertical-align:top;">
+<div class="english">
 And Egypt, they worked the children of Israel harshly. And they embittered their lives with hard labor, with mortar and bricks and all fieldwork, all the labor that they did for them was harsh. And the king of Egypt said to the Hebrew midwives — of whom one was named Shifra and the other was named Pu’a. And he said, “When you are birthing the Hebrews, look at the pair of stones; if it is a boy kill him, and if it is a girl she may live.” And the midwives feared God and did not do as the king of Egypt told them, and let the boys live.
 </div></td></tr>
 
@@ -58,13 +76,22 @@ And Egypt, they worked the children of Israel harshly. And they embittered their
 <div class="liturgy"><span lang="he">
 מפטיר (שמות א:יח-ב:ד)
 &nbsp;
-וַיִּקְרָ֤א מֶֽלֶךְ־מִצְרַ֙יִם֙ לַֽמְיַלְּדֹ֔ת וַיֹּ֣אמֶר לָהֶ֔ן מַדּ֥וּעַ עֲשִׂיתֶ֖ן הַדָּבָ֣ר הַזֶּ֑ה וַתְּחַיֶּ֖יןָ אֶת־הַיְלָדִֽים׃ וַתֹּאמַ֤רְןָ הַֽמְיַלְּדֹת֙ אֶל־פַּרְעֹ֔ה כִּ֣י לֹ֧א כַנָּשִׁ֛ים הַמִּצְרִיֹּ֖ת הָֽעִבְרִיֹּ֑ת כִּֽי־חָי֣וֹת הֵ֔נָּה בְּטֶ֨רֶם תָּב֧וֹא אֲלֵהֶ֛ן הַמְיַלֶּ֖דֶת וְיָלָֽדוּ׃ וַיֵּ֥יטֶב אֱלֹהִ֖ים לַֽמְיַלְּדֹ֑ת וַיִּ֧רֶב הָעָ֛ם וַיַּֽעַצְמ֖וּ מְאֹֽד׃ וַיְהִ֕י כִּֽי־יָרְא֥וּ הַֽמְיַלְּדֹ֖ת אֶת־הָאֱלֹהִ֑ים וַיַּ֥עַשׂ לָהֶ֖ם בָּתִּֽים׃ וַיְצַ֣ו פַּרְעֹ֔ה לְכׇל־עַמּ֖וֹ לֵאמֹ֑ר כׇּל־הַבֵּ֣ן הַיִּלּ֗וֹד הַיְאֹ֙רָה֙ תַּשְׁלִיכֻ֔הוּ וְכׇל־הַבַּ֖ת תְּחַיּֽוּן׃    
+https://archive.org/download/scriptural-readings-for-holocaust-and-genocide-memorial-days/Scriptural%20Readings%20for%20Holocaust%20and%20Genocide%20Memorial%20Days%20-%203%20-%20Maftir%20Aliyah%20%28Exodus%201v18%C2%B72%204%29.mp3
 </span></div></td>
  
 <td style="vertical-align:top;">
 <div class="english">
 Maftir: Exodus 1:18-2:4
-&nbsp;
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
+וַיִּקְרָ֤א מֶֽלֶךְ־מִצְרַ֙יִם֙ לַֽמְיַלְּדֹ֔ת וַיֹּ֣אמֶר לָהֶ֔ן מַדּ֥וּעַ עֲשִׂיתֶ֖ן הַדָּבָ֣ר הַזֶּ֑ה וַתְּחַיֶּ֖יןָ אֶת־הַיְלָדִֽים׃ וַתֹּאמַ֤רְןָ הַֽמְיַלְּדֹת֙ אֶל־פַּרְעֹ֔ה כִּ֣י לֹ֧א כַנָּשִׁ֛ים הַמִּצְרִיֹּ֖ת הָֽעִבְרִיֹּ֑ת כִּֽי־חָי֣וֹת הֵ֔נָּה בְּטֶ֨רֶם תָּב֧וֹא אֲלֵהֶ֛ן הַמְיַלֶּ֖דֶת וְיָלָֽדוּ׃ וַיֵּ֥יטֶב אֱלֹהִ֖ים לַֽמְיַלְּדֹ֑ת וַיִּ֧רֶב הָעָ֛ם וַיַּֽעַצְמ֖וּ מְאֹֽד׃ וַיְהִ֕י כִּֽי־יָרְא֥וּ הַֽמְיַלְּדֹ֖ת אֶת־הָאֱלֹהִ֑ים וַיַּ֥עַשׂ לָהֶ֖ם בָּתִּֽים׃ וַיְצַ֣ו פַּרְעֹ֔ה לְכׇל־עַמּ֖וֹ לֵאמֹ֑ר כׇּל־הַבֵּ֣ן הַיִּלּ֗וֹד הַיְאֹ֙רָה֙ תַּשְׁלִיכֻ֔הוּ וְכׇל־הַבַּ֖ת תְּחַיּֽוּן׃    
+</span></div></td>
+ 
+<td style="vertical-align:top;">
+<div class="english">
 And the king of Egypt called to the midwives and said to them, “Why have you done this thing and let the boys live?” And the midwives said to Pharaoh, “For not like Egyptian women are the Hebrews, for they are beastly — by the time the midwife gets to them they have been born.” And God was good to the midwives and the people increased and grew stronger. And since the midwives feared God, God made houses for them. And Pharaoh commanded all his people and said, “Every son born, into the Nile throw him, and let only the daughters live.”
 </div></td></tr>
 
@@ -85,14 +112,23 @@ And a man from the house of Levi went and married a daughter of Levi. And the wo
 הפטרה (יואל א:א-כ, יואל ב:כה-כז)
 <span class="instruction" style="color: #0099ff;">מילים בכחול נקראו בניגון איכה</span>
 &nbsp;
-דְּבַר־יְהֹוָה֙ אֲשֶׁ֣ר הָיָ֔ה אֶל־יוֹאֵ֖ל בֶּן־פְּתוּאֵֽל׃ <span style="color: #0099ff;">שִׁמְעוּ־זֹאת֙ הַזְּקֵנִ֔ים וְהַֽאֲזִ֔ינוּ כֹּ֖ל יוֹשְׁבֵ֣י הָאָ֑רֶץ הֶהָ֤יְתָה זֹּאת֙ בִּֽימֵיכֶ֔ם וְאִ֖ם בִּימֵ֥י אֲבֹתֵיכֶֽם׃ עָלֶ֖יהָ לִבְנֵיכֶ֣ם סַפֵּ֑רוּ וּבְנֵיכֶם֙ לִבְנֵיהֶ֔ם וּבְנֵיהֶ֖ם לְד֥וֹר אַחֵֽר׃ יֶ֤תֶר הַגָּזָם֙ אָכַ֣ל הָאַרְבֶּ֔ה וְיֶ֥תֶר הָאַרְבֶּ֖ה אָכַ֣ל הַיָּ֑לֶק וְיֶ֣תֶר הַיֶּ֔לֶק אָכַ֖ל הֶחָסִֽיל׃ הָקִ֤יצוּ שִׁכּוֹרִים֙ וּבְכ֔וּ וְהֵילִ֖לוּ כׇּל־שֹׁ֣תֵי יָ֑יִן עַל־עָסִ֕יס כִּ֥י נִכְרַ֖ת מִפִּיכֶֽם׃ כִּי־גוֹי֙ עָלָ֣ה עַל־אַרְצִ֔י עָצ֖וּם וְאֵ֣ין מִסְפָּ֑ר שִׁנָּיו֙ שִׁנֵּ֣י אַרְיֵ֔ה וּֽמְתַלְּע֥וֹת לָבִ֖יא לֽוֹ׃ שָׂ֤ם גַּפְנִי֙ לְשַׁמָּ֔ה וּתְאֵנָתִ֖י לִקְצָפָ֑ה חָשֹׂ֤ף חֲשָׂפָהּ֙ וְהִשְׁלִ֔יךְ הִלְבִּ֖ינוּ שָׂרִיגֶֽיהָ׃ אֱלִ֕י כִּבְתוּלָ֥ה חֲגֻרַת־שַׂ֖ק עַל־בַּ֥עַל נְעוּרֶֽיהָ׃ הׇכְרַ֥ת מִנְחָ֛ה וָנֶ֖סֶךְ מִבֵּ֣ית יְהֹוָ֑ה אָֽבְלוּ֙ הַכֹּ֣הֲנִ֔ים מְשָׁרְתֵ֖י יְהֹוָֽה׃ שֻׁדַּ֣ד שָׂדֶ֔ה אָבְלָ֖ה אֲדָמָ֑ה כִּ֚י שֻׁדַּ֣ד דָּגָ֔ן הוֹבִ֥ישׁ תִּיר֖וֹשׁ אֻמְלַ֥ל יִצְהָֽר׃ הֹבִ֣ישׁוּ אִכָּרִ֗ים הֵילִ֙ילוּ֙ כֹּֽרְמִ֔ים עַל־חִטָּ֖ה וְעַל־שְׂעֹרָ֑ה כִּ֥י אָבַ֖ד קְצִ֥יר שָׂדֶֽה׃ הַגֶּ֣פֶן הוֹבִ֔ישָׁה וְהַתְּאֵנָ֖ה אֻמְלָ֑לָה רִמּ֞וֹן גַּם־תָּמָ֣ר וְתַפּ֗וּחַ כׇּל־עֲצֵ֤י הַשָּׂדֶה֙ יָבֵ֔שׁוּ כִּי־הֹבִ֥ישׁ שָׂשׂ֖וֹן מִן־בְּנֵ֥י אָדָֽם׃</span>
+https://archive.org/download/scriptural-readings-for-holocaust-and-genocide-memorial-days/Scriptural%20Readings%20for%20Holocaust%20and%20Genocide%20Memorial%20Days%20-%204%20-%20Haftarah%20%28Joel%201v1-20%2C%202v25-27%29.mp3
 </span></div></td>
  
 <td style="vertical-align:top;">
 <div class="english">
 Haftarah: Joel 1:1-20 & 2:25-27 
 <span class="instruction" style="color: #0099ff;">words in blue are read in Lamentations melody</span>
-&nbsp;
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
+דְּבַר־יְהֹוָה֙ אֲשֶׁ֣ר הָיָ֔ה אֶל־יוֹאֵ֖ל בֶּן־פְּתוּאֵֽל׃ <span style="color: #0099ff;">שִׁמְעוּ־זֹאת֙ הַזְּקֵנִ֔ים וְהַֽאֲזִ֔ינוּ כֹּ֖ל יוֹשְׁבֵ֣י הָאָ֑רֶץ הֶהָ֤יְתָה זֹּאת֙ בִּֽימֵיכֶ֔ם וְאִ֖ם בִּימֵ֥י אֲבֹתֵיכֶֽם׃ עָלֶ֖יהָ לִבְנֵיכֶ֣ם סַפֵּ֑רוּ וּבְנֵיכֶם֙ לִבְנֵיהֶ֔ם וּבְנֵיהֶ֖ם לְד֥וֹר אַחֵֽר׃ יֶ֤תֶר הַגָּזָם֙ אָכַ֣ל הָאַרְבֶּ֔ה וְיֶ֥תֶר הָאַרְבֶּ֖ה אָכַ֣ל הַיָּ֑לֶק וְיֶ֣תֶר הַיֶּ֔לֶק אָכַ֖ל הֶחָסִֽיל׃ הָקִ֤יצוּ שִׁכּוֹרִים֙ וּבְכ֔וּ וְהֵילִ֖לוּ כׇּל־שֹׁ֣תֵי יָ֑יִן עַל־עָסִ֕יס כִּ֥י נִכְרַ֖ת מִפִּיכֶֽם׃ כִּי־גוֹי֙ עָלָ֣ה עַל־אַרְצִ֔י עָצ֖וּם וְאֵ֣ין מִסְפָּ֑ר שִׁנָּיו֙ שִׁנֵּ֣י אַרְיֵ֔ה וּֽמְתַלְּע֥וֹת לָבִ֖יא לֽוֹ׃ שָׂ֤ם גַּפְנִי֙ לְשַׁמָּ֔ה וּתְאֵנָתִ֖י לִקְצָפָ֑ה חָשֹׂ֤ף חֲשָׂפָהּ֙ וְהִשְׁלִ֔יךְ הִלְבִּ֖ינוּ שָׂרִיגֶֽיהָ׃ אֱלִ֕י כִּבְתוּלָ֥ה חֲגֻרַת־שַׂ֖ק עַל־בַּ֥עַל נְעוּרֶֽיהָ׃ הׇכְרַ֥ת מִנְחָ֛ה וָנֶ֖סֶךְ מִבֵּ֣ית יְהֹוָ֑ה אָֽבְלוּ֙ הַכֹּ֣הֲנִ֔ים מְשָׁרְתֵ֖י יְהֹוָֽה׃ שֻׁדַּ֣ד שָׂדֶ֔ה אָבְלָ֖ה אֲדָמָ֑ה כִּ֚י שֻׁדַּ֣ד דָּגָ֔ן הוֹבִ֥ישׁ תִּיר֖וֹשׁ אֻמְלַ֥ל יִצְהָֽר׃ הֹבִ֣ישׁוּ אִכָּרִ֗ים הֵילִ֙ילוּ֙ כֹּֽרְמִ֔ים עַל־חִטָּ֖ה וְעַל־שְׂעֹרָ֑ה כִּ֥י אָבַ֖ד קְצִ֥יר שָׂדֶֽה׃ הַגֶּ֣פֶן הוֹבִ֔ישָׁה וְהַתְּאֵנָ֖ה אֻמְלָ֑לָה רִמּ֞וֹן גַּם־תָּמָ֣ר וְתַפּ֗וּחַ כׇּל־עֲצֵ֤י הַשָּׂדֶה֙ יָבֵ֔שׁוּ כִּי־הֹבִ֥ישׁ שָׂשׂ֖וֹן מִן־בְּנֵ֥י אָדָֽם׃</span>
+</span></div></td>
+ 
+<td style="vertical-align:top;">
+<div class="english">
 The word of the CAUSE that was of Joel son of Pethuel. <span style="color: #0099ff;">Hear this, elders, give ear, all residents of the earth, has something like this occurred in your days or the days of your ancestors? Upon your children tell it, and your children to their children, and their children to the next generation. What the cutter left, the locust has consumed; what the locust left, the larva has consumed, what the larva has left, the hopper has consumed. Wake up, drunkards, and weep, wail, all wine drinkers, for the juice cut off from your face! For a nation has arisen upon My land, vast and countless, its teeth the teeth of lions, its fangs those of the king of beasts. My vines it has made waste, My fig-trees to splinter, stripping, stripping and discarding, their tendrils made white. Lament like a maiden sackcloth-girt for the husband of her youth! Offering and libation have been cut off from the house of the CAUSE, mourn, priests, attendants to the CAUSE! Ravaged is the field, lost is the ground, for ravaged is the grain, withered is the wine, feeble is the oil! Farmworkers wither, vinedressers wail over wheat and barley, for lost is the crop of the field. The vine withers, the fig-tree is feeble, pomegranate, date, and apple and all the fruits of the field wither, for gladness has withered from mortals.</span> 
 </div></td></tr>
 
@@ -120,26 +156,6 @@ Yet I will repay you for the years that the locust, the larva, the hopper, and t
 </tbody></table>
 
 <hr />
-
-<h3>Recordings</h3>
-
-Kohen: 
-https://archive.org/download/scriptural-readings-for-holocaust-and-genocide-memorial-days/Scriptural%20Readings%20for%20Holocaust%20and%20Genocide%20Memorial%20Days%20-%201%20-%20Kohen%20Aliyah%20%28Exodus%201v8-12%29.mp3
-
-&nbsp;
-
-Levi: 
-https://archive.org/download/scriptural-readings-for-holocaust-and-genocide-memorial-days/Scriptural%20Readings%20for%20Holocaust%20and%20Genocide%20Memorial%20Days%20-%202%20-%20Levi%20Aliyah%20%28Exodus%201v13-17%29.mp3
-
-&nbsp;
-
-Maftir: 
-https://archive.org/download/scriptural-readings-for-holocaust-and-genocide-memorial-days/Scriptural%20Readings%20for%20Holocaust%20and%20Genocide%20Memorial%20Days%20-%203%20-%20Maftir%20Aliyah%20%28Exodus%201v18%C2%B72%204%29.mp3
-
-&nbsp;
-
-Haftarah: 
-https://archive.org/download/scriptural-readings-for-holocaust-and-genocide-memorial-days/Scriptural%20Readings%20for%20Holocaust%20and%20Genocide%20Memorial%20Days%20-%204%20-%20Haftarah%20%28Joel%201v1-20%2C%202v25-27%29.mp3
 
 &nbsp;
 </body>

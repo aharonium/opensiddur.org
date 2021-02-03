@@ -28,7 +28,7 @@ of beauty and truth,
 of fortitude and courage. 
 Whatever of good we have known, 
 we recognize as coming from you. 
-Therefore are we emboldened, Our Father, 
+Therefore are we emboldened, Our Guardian, 
 to pray for further gifts of your grace. 
 </div></td></tr>
 
@@ -108,7 +108,7 @@ to be used in accordance with your will.
 <div class="english">
 Help us to build on these shores 
 a free nation 
-of free men. 
+of free people. 
 Open our hearts to the truth 
 that every human soul has a worth of its own 
 and must be free to develop that worth to the utmost. 
@@ -120,7 +120,7 @@ ever ready to make sacrifices for the good of all.
 We know that there is no liberty but one: 
 the right, which is also a duty, 
 of making oneself and others free 
-through absolute allegiance to the final goal of man. 
+through absolute allegiance to the final goal of humanity. 
 Keep us aware of all that we owe to our country, 
 that its expectations of us may curb our impulses to do evil 
 and give free rein to our will to do good, 
@@ -131,7 +131,7 @@ for our own true happiness and that of our nation.
 
 <hr />
 
-This opening prayer for New Year's Day, "The Significance of the Day," was first published in <em><a href="/?p=34753">The Faith of America: Readings, Songs, and Prayers for the Celebration of American Holidays</a></em> (Jewish Reconstructionist Foundation 1951), p. 3-4 -- as preface to a number of readings selected by Mordecai Kaplan, Eugene Kohn, and J. Paul Williams for the day. It is unclear from this publication whether the prayer was written by Mordecai Kaplan, J. Paul Williams, or Eugene Kohn separately or together in collaboration. I have replaced archaisms in this prayer (thee, thy, thou, etc.). --Aharon Varady
+This opening prayer for New Year's Day, "The Significance of the Day," was first published in <em><a href="/?p=34753">The Faith of America: Readings, Songs, and Prayers for the Celebration of American Holidays</a></em> (Jewish Reconstructionist Foundation 1951), p. 3-4 -- as preface to a number of readings selected by Mordecai Kaplan, Eugene Kohn, and J. Paul Williams for the day. It is unclear from this publication whether the prayer was written by Mordecai Kaplan, J. Paul Williams, or Eugene Kohn separately or together in collaboration. I have replaced archaisms in this prayer (thee, thy, thou, etc.) and replaced "Father" with "Guardian" in addition to other gender-neutral changed. --Aharon Varady
 
 <h3>Source(s)</h3>
 

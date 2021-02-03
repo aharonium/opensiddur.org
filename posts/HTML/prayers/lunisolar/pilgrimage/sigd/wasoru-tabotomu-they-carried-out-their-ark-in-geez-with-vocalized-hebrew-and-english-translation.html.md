@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: Prayers for the Morning of Sigd: ወጾሩ፡ታቦቶሙ | Wäṣoru Tabotomu (They Carried Out Their Ark), in Ge'ez with vocalized Hebrew and English translation<br />
+Title: Prayers for the Morning of Sigd: ወጾሩ ፡ ታቦቶሙ | Wäṣoru Tabotomu (They Carried Out Their Ark), in Ge'ez with vocalized Hebrew and English translation<br />
 Primary contributor: isaac.gantwerk-mayer<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=27900">http://opensiddur.org/?p=27900</a>
 <p />
@@ -50,8 +50,8 @@ Michael led them.
 
 <td style="vertical-align:top;">
 <div class="ethiopic"><span lang="am">
-ወጾሩ፡ታቦቶሙ፤
-ሚካኤል፡ምርሖሙ።
+ወጾሩ ፡ ታቦቶሙ፤
+ሚካኤል ፡ ምርሖሙ ። 
 </span></div></td>
  
 <td style="vertical-align:top;">
@@ -75,8 +75,8 @@ Michael led them.
 
 <td style="vertical-align:top;">
 <div class="ethiopic"><span lang="am">
-አርብዓ፡ዓመቱ፡በገዳም፤
-ሚካኤል፡ምርሖሙ።
+አርብዓ ፡ ዓመቱ ፡ በገዳም፤
+ሚካኤል ፡ ምርሖሙ ። 
 </span></div></td>
  
 <td style="vertical-align:top;">
@@ -100,8 +100,8 @@ Michael led them.
 
 <td style="vertical-align:top;">
 <div class="ethiopic"><span lang="am">
-መዓልተ፡በደመና፤
-ሚካኤል፡ምርሖሙ።
+መዓልተ ፡ በደመና፤
+ሚካኤል ፡ ምርሖሙ ። 
 </span></div></td>
  
 <td style="vertical-align:top;">
@@ -125,8 +125,8 @@ Michael led them.
 
 <td style="vertical-align:top;">
 <div class="ethiopic"><span lang="am">
-ወሌሊተኒ፡በዐምደ፡እሳት፤
-ሚካኤል፡ምርሖሙ።
+ወሌሊተኒ ፡ በዐምደ ፡ እሳት፤
+ሚካኤል ፡ ምርሖሙ ። 
 </span></div></td>
  
 <td style="vertical-align:top;">
@@ -148,7 +148,7 @@ Four places are the gates of Zion.
 
 <td style="vertical-align:top;">
 <div class="ethiopic"><span lang="am">
-አርባዕቱ፡መቃን፡እምኣፍኣ፡ለጽዮን።
+አርባዕቱ ፡ መቃን ፡ እምኣፍኣ ፡ ለጽዮን ። 
 </span></div></td>
  
 <td style="vertical-align:top;">
@@ -171,8 +171,8 @@ Wear the strength of your right hand.
 
 <td style="vertical-align:top;">
 <div class="ethiopic"><span lang="am">
-ተንሥኢ፡ጽዮን፤
-ልበሲ፡ኅይለ፡መዝራዕተኪ።
+ተንሥኢ ፡ ጽዮን፤
+ልበሲ ፡ ኅይለ ፡ መዝራዕተኪ ። 
 </span></div></td>
  
 <td style="vertical-align:top;">
@@ -196,8 +196,8 @@ Gather the seeds of your people.
 
 <td style="vertical-align:top;">
 <div class="ethiopic"><span lang="am">
-ተንሥኢ፡ጽዮን፤
-አስተጋብኢ፡ዝሩዕ፡ሕዝብኪ።
+ተንሥኢ ፡ ጽዮን፤
+አስተጋብኢ ፡ ዝሩዕ ፡ ሕዝብኪ ። 
 </span></div></td>
  
 <td style="vertical-align:top;">

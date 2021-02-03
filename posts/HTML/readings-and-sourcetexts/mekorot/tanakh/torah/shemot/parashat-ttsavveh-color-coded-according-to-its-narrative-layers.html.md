@@ -33,188 +33,188 @@ Parashat T'tsavveh (Exodus 27:20-30:10) in the annual Torah reading cycle, is re
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="h"> <sup>כ</sup>&nbsp;וְאַתָּ֞ה תְּצַוֶּ֣ה ׀ אֶת־בְּנֵ֣י יִשְׂרָאֵ֗ל וְיִקְח֨וּ אֵלֶ֜יךָ שֶׁ֣מֶן זַ֥יִת זָ֛ךְ כָּתִ֖ית לַמָּא֑וֹר לְהַעֲלֹ֥ת נֵ֖ר תָּמִֽיד׃ <sup>כא</sup>&nbsp;בְּאֹ֣הֶל מוֹעֵד֩ מִח֨וּץ לַפָּרֹ֜כֶת אֲשֶׁ֣ר עַל־הָעֵדֻ֗ת יַעֲרֹךְ֩ אֹת֨וֹ אַהֲרֹ֧ן וּבָנָ֛יו מֵעֶ֥רֶב עַד־בֹּ֖קֶר לִפְנֵ֣י יְהֹוָ֑ה חֻקַּ֤ת עוֹלָם֙ לְדֹ֣רֹתָ֔ם מֵאֵ֖ת בְּנֵ֥י יִשְׂרָאֵֽל׃</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="h">27 <sup>20</sup>&nbsp;Now you, command the Children of Yisrael, that they may fetch you oil of olives, clear, beaten, for the light, to draw up a lampwick/Ner, regularly (tamid). <sup>21</sup>&nbsp;In the Tent of Appointment/Ohel Mo'ed, outside the Parokhet that is over the Testimony, Aharon and his sons are to arrange it, from sunset until daybreak before the presence of YHVH — a law for the ages, throughout your generations, on the part of the Children of Yisrael.[foot]The construction of the tabernacle was concluded in 27:19. 27:20-21, which detail the construction of an additional vessel, are out of place, since the description of the vessels was concluded in Chapter 25. Moreover vs. 21 alludes to the future investment of Aharon and his sons as priests which will only occur in Chapter 28 (these verses serve as kind of a bridge between the construction of the Tabernacle and the investment of Aharon and his sons). Finally, the idea of an eternal statute is H’s. H takes priestly laws that were for a specific time and specific group and makes them relevant for the larger community in perpetuity.[/foot]</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="p">כח <sup>א</sup>&nbsp;וְאַתָּ֡ה הַקְרֵ֣ב אֵלֶ֩יךָ֩ אֶת־אַהֲרֹ֨ן אָחִ֜יךָ</span> <span class="h">וְאֶת־בָּנָ֣יו אִתּ֗וֹ</span> <span class="p">מִתּ֛וֹךְ בְּנֵ֥י יִשְׂרָאֵ֖ל לְכַהֲנוֹ־לִ֑י</span> <span class="h">אַהֲרֹ֕ן נָדָ֧ב וַאֲבִיה֛וּא אֶלְעָזָ֥ר וְאִיתָמָ֖ר בְּנֵ֥י אַהֲרֹֽן׃</span> <span class="p"> <sup>ב</sup>&nbsp;וְעָשִׂ֥יתָ בִגְדֵי־קֹ֖דֶשׁ לְאַהֲרֹ֣ן אָחִ֑יךָ לְכָב֖וֹד וּלְתִפְאָֽרֶת׃ </span> <span class="h"> <sup>ג</sup>&nbsp;וְאַתָּ֗ה תְּדַבֵּר֙ אֶל־כׇּל־חַכְמֵי־לֵ֔ב אֲשֶׁ֥ר מִלֵּאתִ֖יו ר֣וּחַ חׇכְמָ֑ה וְעָשׂ֞וּ אֶת־בִּגְדֵ֧י אַהֲרֹ֛ן לְקַדְּשׁ֖וֹ לְכַהֲנוֹ־לִֽי׃ <sup>ד</sup>&nbsp;וְאֵ֨לֶּה הַבְּגָדִ֜ים אֲשֶׁ֣ר יַעֲשׂ֗וּ חֹ֤שֶׁן וְאֵפוֹד֙ וּמְעִ֔יל וּכְתֹ֥נֶת תַּשְׁבֵּ֖ץ מִצְנֶ֣פֶת וְאַבְנֵ֑ט וְעָשׂ֨וּ בִגְדֵי־קֹ֜דֶשׁ לְאַהֲרֹ֥ן אָחִ֛יךָ וּלְבָנָ֖יו לְכַהֲנוֹ־לִֽי׃ <sup>ה</sup>&nbsp;וְהֵם֙ יִקְח֣וּ אֶת־הַזָּהָ֔ב וְאֶת־הַתְּכֵ֖לֶת וְאֶת־הָֽאַרְגָּמָ֑ן וְאֶת־תּוֹלַ֥עַת הַשָּׁנִ֖י וְאֶת־הַשֵּֽׁשׁ׃ </span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="p">28 <sup>1</sup>&nbsp;Now you: have come-near to you Aharon your brother[foot]The command to bring Aharon did not originally include his sons, as is evident from the continuation of the verse which is phrased in the singular.[/foot]</span> <span class="h">and his sons with him,[foot]H adds Aharon’s sons in order to solidify their standing in the hereditary priesthood. Their clothes and their role in the investment of Aharon is an H elaboration.[/foot]</span> <span class="p">from amidst the Children of Yisrael, to be-priests for me;[foot]See initial comment on this verse (Exodus 28:1). Note the singular which refers only to Aharon.[/foot]</span> <span class="h">Aharon, Nadav and Avihu, Elazar and Itamar, the sons of Aharon.[foot]See previous comments.[/foot]</span> <span class="p"> <sup>2</sup>&nbsp;You are to make garments of holiness for Aharon your brother, for glory and for splendor.[foot]Note that the command to make the garments is also in the singular addressed to Moses. Subsequent commands in the plural to unknown craftsmen are a sign of editorial intervention.[/foot]</span> <span class="h"> <sup>3</sup>&nbsp;So you, speak to each who is wise of mind whom I have filled with the spirit of practical-wisdom, that they may make Aharon's garments, to hallow him, to be-priest for me. <sup>4</sup>&nbsp;And these are the garments that they are to make: breastpiece/ḥoshen and éfōd and tunic, braided coat, wound-turban and sash. So they are to make garments of holiness for Aharon your brother and for his sons, to be-priests for me. <sup>5</sup>&nbsp;And they, they are to take gold, blue-violet, purple, worm-scarlet and byssus.[foot]The singular command to weave the garments is qualified here. H involves multiple unknown craftsmen in the project, making the endeavor more democratic. Many of the commands to manufacture the garments are still in the singular.[/foot]</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="u"> <sup>ו</sup>&nbsp;וְעָשׂ֖וּ אֶת־</span><span class="p">הָאֵפֹ֑ד זָ֠הָ֠ב תְּכֵ֨לֶת וְאַרְגָּמָ֜ן תּוֹלַ֧עַת שָׁנִ֛י וְשֵׁ֥שׁ מׇשְׁזָ֖ר מַעֲשֵׂ֥ה חֹשֵֽׁב׃ <sup>ז</sup>&nbsp;שְׁתֵּ֧י כְתֵפֹ֣ת חֹֽבְרֹ֗ת יִֽהְיֶה־לּ֛וֹ אֶל־שְׁנֵ֥י קְצוֹתָ֖יו וְחֻבָּֽר׃ <sup>ח</sup>&nbsp;וְחֵ֤שֶׁב אֲפֻדָּתוֹ֙ אֲשֶׁ֣ר עָלָ֔יו כְּמַעֲשֵׂ֖הוּ מִמֶּ֣נּוּ יִהְיֶ֑ה זָהָ֗ב תְּכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֥שׁ מׇשְׁזָֽר׃ <sup>ט</sup>&nbsp;וְלָ֣קַחְתָּ֔ אֶת־שְׁתֵּ֖י אַבְנֵי־שֹׁ֑הַם וּפִתַּחְתָּ֣ עֲלֵיהֶ֔ם שְׁמ֖וֹת בְּנֵ֥י יִשְׂרָאֵֽל׃ <sup>י</sup>&nbsp;שִׁשָּׁה֙ מִשְּׁמֹתָ֔ם עַ֖ל הָאֶ֣בֶן הָאֶחָ֑ת וְאֶת־שְׁמ֞וֹת הַשִּׁשָּׁ֧ה הַנּוֹתָרִ֛ים עַל־הָאֶ֥בֶן הַשֵּׁנִ֖ית כְּתוֹלְדֹתָֽם׃ <sup>יא</sup>&nbsp;מַעֲשֵׂ֣ה חָרַשׁ֮ אֶ֒בֶן֒ פִּתּוּחֵ֣י חֹתָ֗ם תְּפַתַּח֙ אֶת־שְׁתֵּ֣י הָאֲבָנִ֔ים עַל־שְׁמֹ֖ת בְּנֵ֣י יִשְׂרָאֵ֑ל מֻסַבֹּ֛ת מִשְׁבְּצ֥וֹת זָהָ֖ב תַּעֲשֶׂ֥ה אֹתָֽם׃ <sup>יב</sup>&nbsp;וְשַׂמְתָּ֞ אֶת־שְׁתֵּ֣י הָאֲבָנִ֗ים עַ֚ל כִּתְפֹ֣ת הָֽאֵפֹ֔ד אַבְנֵ֥י זִכָּרֹ֖ן לִבְנֵ֣י יִשְׂרָאֵ֑ל וְנָשָׂא֩ אַהֲרֹ֨ן אֶת־שְׁמוֹתָ֜ם לִפְנֵ֧י יְהֹוָ֛ה עַל־שְׁתֵּ֥י כְתֵפָ֖יו לְזִכָּרֹֽן׃ </span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="u"> <sup>6</sup>&nbsp;They[foot]I believe that the plural marker of the first verb in this verse may be in error. The rest of the commands to construct the ephod are all in the singular.[/foot]</span> <span class="p">are to make the éfōd of gold, of blue-violet and of purple, of worm-scarlet and of twisted byssus, of designer's making. <sup>7</sup>&nbsp;Two shoulder-pieces, joined, it is to have, at its two ends, and it is to be joined. <sup>8</sup>&nbsp;The designed-band of its éfōd, which is on it, according to its making, is to be from it, of gold, of blue-violet, of purple, of worm-scarlet and of twisted byssus. <sup>9</sup>&nbsp;You are to take two onyx stones and are to engrave on them the names of the Children of Yisrael, <sup>10</sup>&nbsp;six of their names on the one stone, and the names of the six remaining-ones on the second stone, corresponding to their progeny. <sup>11</sup>&nbsp;Of stone-cutter's making, with seal engravings, you are to engrave the two stones, with the names of the Children of Yisrael; surrounded by braids of gold are you to make them. <sup>12</sup>&nbsp;You are to place the two stones on the shoulder-pieces of the éfōd, as stones of remembrance for the Children of Yisrael. Aharon is to bear their names before the presence of YHVH on his two shoulders, for remembrance.</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="p"><mark>שני</mark> <sup>יג</sup>&nbsp;וְעָשִׂ֥יתָ מִשְׁבְּצֹ֖ת זָהָֽב׃ <sup>יד</sup>&nbsp;וּשְׁתֵּ֤י שַׁרְשְׁרֹת֙ זָהָ֣ב טָה֔וֹר מִגְבָּלֹ֛ת תַּעֲשֶׂ֥ה אֹתָ֖ם מַעֲשֵׂ֣ה עֲבֹ֑ת וְנָתַתָּ֛ה אֶת־שַׁרְשְׁרֹ֥ת הָעֲבֹתֹ֖ת עַל־הַֽמִּשְׁבְּצֹֽת׃ <span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="p"> <sup>13</sup>&nbsp;You are to make braids of gold <sup>14</sup>&nbsp;and two chains of pure gold, (like) lacings are you to make them, of rope-making, and are to put the rope chains on the braids.</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="p"> <sup>טו</sup>&nbsp;וְעָשִׂ֜יתָ חֹ֤שֶׁן מִשְׁפָּט֙ מַעֲשֵׂ֣ה חֹשֵׁ֔ב כְּמַעֲשֵׂ֥ה אֵפֹ֖ד תַּעֲשֶׂ֑נּוּ זָ֠הָ֠ב תְּכֵ֨לֶת וְאַרְגָּמָ֜ן וְתוֹלַ֧עַת שָׁנִ֛י וְשֵׁ֥שׁ מׇשְׁזָ֖ר תַּעֲשֶׂ֥ה אֹתֽוֹ׃ </span> <span class="h"> <sup>טז</sup>&nbsp;רָב֥וּעַ יִֽהְיֶ֖ה כָּפ֑וּל זֶ֥רֶת אׇרְכּ֖וֹ וְזֶ֥רֶת רׇחְבּֽוֹ׃ <sup>יז</sup>&nbsp;וּמִלֵּאתָ֥ בוֹ֙ מִלֻּ֣אַת אֶ֔בֶן אַרְבָּעָ֖ה טוּרִ֣ים אָ֑בֶן ט֗וּר אֹ֤דֶם פִּטְדָה֙ וּבָרֶ֔קֶת הַטּ֖וּר הָאֶחָֽד׃ <sup>יח</sup>&nbsp;וְהַטּ֖וּר הַשֵּׁנִ֑י נֹ֥פֶךְ סַפִּ֖יר וְיָהֲלֹֽם׃ <sup>יט</sup>&nbsp;וְהַטּ֖וּר הַשְּׁלִישִׁ֑י לֶ֥שֶׁם שְׁב֖וֹ וְאַחְלָֽמָה׃ <sup>כ</sup>&nbsp;וְהַטּוּר֙ הָרְבִיעִ֔י תַּרְשִׁ֥ישׁ וְשֹׁ֖הַם וְיָשְׁפֵ֑ה מְשֻׁבָּצִ֥ים זָהָ֛ב יִהְי֖וּ בְּמִלּוּאֹתָֽם׃ <sup>כא</sup>&nbsp;וְ֠הָאֲבָנִ֠ים תִּֽהְיֶ֜יןָ עַל־שְׁמֹ֧ת בְּנֵֽי־יִשְׂרָאֵ֛ל שְׁתֵּ֥ים עֶשְׂרֵ֖ה עַל־שְׁמֹתָ֑ם פִּתּוּחֵ֤י חוֹתָם֙ אִ֣ישׁ עַל־שְׁמ֔וֹ תִּֽהְיֶ֕יןָ לִשְׁנֵ֥י עָשָׂ֖ר שָֽׁבֶט׃ <sup>כב</sup>&nbsp;וְעָשִׂ֧יתָ עַל־הַחֹ֛שֶׁן שַֽׁרְשֹׁ֥ת גַּבְלֻ֖ת מַעֲשֵׂ֣ה עֲבֹ֑ת זָהָ֖ב טָהֽוֹר׃ <sup>כג</sup>&nbsp;וְעָשִׂ֙יתָ֙ עַל־הַחֹ֔שֶׁן שְׁתֵּ֖י טַבְּע֣וֹת זָהָ֑ב וְנָתַתָּ֗ אֶת־שְׁתֵּי֙ הַטַּבָּע֔וֹת עַל־שְׁנֵ֖י קְצ֥וֹת הַחֹֽשֶׁן׃ <sup>כד</sup>&nbsp;וְנָתַתָּ֗ה אֶת־שְׁתֵּי֙ עֲבֹתֹ֣ת הַזָּהָ֔ב עַל־שְׁתֵּ֖י הַטַּבָּעֹ֑ת אֶל־קְצ֖וֹת הַחֹֽשֶׁן׃ <sup>כה</sup>&nbsp;וְאֵ֨ת שְׁתֵּ֤י קְצוֹת֙ שְׁתֵּ֣י הָעֲבֹתֹ֔ת תִּתֵּ֖ן עַל־שְׁתֵּ֣י הַֽמִּשְׁבְּצ֑וֹת וְנָתַתָּ֛ה עַל־כִּתְפ֥וֹת הָאֵפֹ֖ד אֶל־מ֥וּל פָּנָֽיו׃ <sup>כו</sup>&nbsp;וְעָשִׂ֗יתָ שְׁתֵּי֙ טַבְּע֣וֹת זָהָ֔ב וְשַׂמְתָּ֣ אֹתָ֔ם עַל־שְׁנֵ֖י קְצ֣וֹת הַחֹ֑שֶׁן עַל־שְׂפָת֕וֹ אֲשֶׁ֛ר אֶל־עֵ֥בֶר הָאֵפֹ֖ד‏[foot]בספרי ספרד ואשכנז הָאֵפ֖וֹד[/foot] בָּֽיְתָה׃ <sup>כז</sup>&nbsp;וְעָשִׂ֘יתָ֮ שְׁתֵּ֣י טַבְּע֣וֹת זָהָב֒ וְנָתַתָּ֣ה אֹתָ֡ם עַל־שְׁתֵּי֩ כִתְפ֨וֹת הָאֵפ֤וֹד מִלְּמַ֙טָּה֙ מִמּ֣וּל פָּנָ֔יו לְעֻמַּ֖ת מַחְבַּרְתּ֑וֹ מִמַּ֕עַל לְחֵ֖שֶׁב הָאֵפֽוֹד׃ <sup>כח</sup>&nbsp;וְיִרְכְּס֣וּ אֶת־הַ֠חֹ֠שֶׁן מִֽטַּבְּעֹתָ֞ו אֶל־טַבְּעֹ֤ת הָאֵפוֹד֙ בִּפְתִ֣יל תְּכֵ֔לֶת לִֽהְי֖וֹת עַל־חֵ֣שֶׁב הָאֵפ֑וֹד וְלֹֽא־יִזַּ֣ח הַחֹ֔שֶׁן מֵעַ֖ל הָאֵפֽוֹד׃ <sup>כט</sup>&nbsp;וְנָשָׂ֣א אַ֠הֲרֹ֠ן אֶת־שְׁמ֨וֹת בְּנֵֽי־יִשְׂרָאֵ֜ל בְּחֹ֧שֶׁן הַמִּשְׁפָּ֛ט עַל־לִבּ֖וֹ בְּבֹא֣וֹ אֶל־הַקֹּ֑דֶשׁ לְזִכָּרֹ֥ן לִפְנֵֽי־יְהֹוָ֖ה תָּמִֽיד׃ </span> <span class="p"> <sup>ל</sup>&nbsp;וְנָתַתָּ֞ אֶל־חֹ֣שֶׁן הַמִּשְׁפָּ֗ט אֶת־הָאוּרִים֙ וְאֶת־הַתֻּמִּ֔ים וְהָיוּ֙ עַל־לֵ֣ב אַהֲרֹ֔ן בְּבֹא֖וֹ לִפְנֵ֣י יְהֹוָ֑ה וְנָשָׂ֣א אַ֠הֲרֹ֠ן אֶת־מִשְׁפַּ֨ט בְּנֵי־יִשְׂרָאֵ֧ל עַל־לִבּ֛וֹ לִפְנֵ֥י יְהֹוָ֖ה תָּמִֽיד׃ </span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="p"> <sup>15</sup>&nbsp;You are to make the Breastpiece of Judgment/Ḥoshen Mishpat of designer's making, like the making of the éfōd are you to make it, of gold, of blue-violet, of purple, of worm-scarlet and of twisted byssus are you to make it.</span> <span class="h"> <sup>16</sup>&nbsp;Square it is to be, doubled-over, a span its length and a span its width. <sup>17</sup>&nbsp;You are to set-it-full with a setting of stones, four rows of stones — a row of carnelian, topaz and sparkling-emerald, the first row, <sup>18</sup>&nbsp;the second row: ruby, sapphire, and hard-onyx, <sup>19</sup>&nbsp;the third row: jacinth, agate, and amethyst, <sup>20</sup>&nbsp;the fourth row: beryl, onyx, and jasper. Braided with gold are they to be in their settings. <sup>21</sup>&nbsp;And the stones are to be with the names of the Children of Yisrael, twelve with their names, (with) signet engravings, each-one with its name, are they to be, for the twelve tribes. <sup>22</sup>&nbsp;You are to make, on the Ḥoshen, laced chains, of rope making, of pure gold; <sup>23</sup>&nbsp;and you are to make, on the Ḥoshen, two rings of gold; you are to put the two rings on the two ends of the Ḥoshen. <sup>24</sup>&nbsp;And you are to put the two ropes of gold on the two rings at the ends of the Ḥoshen; <sup>25</sup>&nbsp;and the two ends of the two ropes, you are to put on the two braids and you are to put them on the shoulder-piece of the éfōd, facing frontward. <sup>26</sup>&nbsp;You are to make two rings of gold, and are to place them on the two ends of the Ḥoshen, on its edge, which is across from the éfōd, inward, <sup>27</sup>&nbsp;and you are to make two rings of gold, and are to put them on the two shoulder-pieces of the éfōd, below, facing frontward, parallel to its joint, above the designed-band of the éfōd. <sup>28</sup>&nbsp;They are to tie the Ḥoshen from its rings to the rings of the éfōd with a thread of blue-violet, to be (fixed) on the designed-band of the éfōd; the Ḥoshen is not to slip from the éfōd. <sup>29</sup>&nbsp;So Aharon is to bear the names of the Children of Yisrael on the Ḥoshen Mishpat over his heart, whenever he comes into the Holy-shrine for remembrance, before the presence of YHVH, regularly.[foot]There is disagreement between P and H, with regard to the cultic objects upon the Ephod. According to P, in vss. 30-32,  the urim and thumim, two divination stones, were placed there. Whereas according to H, twelve precious stones were placed on the breast plate in four rows (vss. 16-29).[/foot]</span> <span class="p"> <sup>30</sup>&nbsp;And you are to put in the Ḥoshen Mishpat the Urim and the Tummim, that they may be over Aharon's heart, whenever he comes before the presence of YHVH. So Aharon is to bear the Ḥoshen Mishpat for the Children of Yisrael over his heart before the presence of YHVH, regularly.</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="p"><mark>שלישי</mark> <sup>לא</sup>&nbsp;וְעָשִׂ֛יתָ אֶת־מְעִ֥יל הָאֵפ֖וֹד כְּלִ֥יל תְּכֵֽלֶת׃ <sup>לב</sup>&nbsp;וְהָיָ֥ה פִֽי־רֹאשׁ֖וֹ בְּתוֹכ֑וֹ שָׂפָ֡ה יִֽהְיֶה֩ לְפִ֨יו סָבִ֜יב מַעֲשֵׂ֣ה אֹרֵ֗ג כְּפִ֥י תַחְרָ֛א יִֽהְיֶה־לּ֖וֹ לֹ֥א יִקָּרֵֽעַ׃ </span> <span class="h"> <sup>לג</sup>&nbsp;וְעָשִׂ֣יתָ עַל־שׁוּלָ֗יו רִמֹּנֵי֙ תְּכֵ֤לֶת וְאַרְגָּמָן֙ וְתוֹלַ֣עַת שָׁנִ֔י עַל־שׁוּלָ֖יו סָבִ֑יב וּפַעֲמֹנֵ֥י זָהָ֛ב בְּתוֹכָ֖ם סָבִֽיב׃ <sup>לד</sup>&nbsp;פַּעֲמֹ֤ן זָהָב֙ וְרִמּ֔וֹן פַּֽעֲמֹ֥ן זָהָ֖ב וְרִמּ֑וֹן עַל־שׁוּלֵ֥י הַמְּעִ֖יל סָבִֽיב׃ <sup>לה</sup>&nbsp;וְהָיָ֥ה עַֽל־אַהֲרֹ֖ן לְשָׁרֵ֑ת וְנִשְׁמַ֣ע ק֠וֹל֠וֹ בְּבֹא֨וֹ אֶל־הַקֹּ֜דֶשׁ לִפְנֵ֧י יְהֹוָ֛ה וּבְצֵאת֖וֹ וְלֹ֥א יָמֽוּת׃ </span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="p"> <sup>31</sup>&nbsp;You are to make the tunic for the éfōd all of blue-violet. <sup>32</sup>&nbsp;Its head-opening is to be in its middle; there shall be a seam for its opening, all around, of weaver's making, like the opening for armor is it to be for him, it is not to be split.[foot]See previous comment.[/foot]</span> <span class="h"> <sup>33</sup>&nbsp;You are to make on its skirts pomegranates of blue-violet, purple, and worm-scarlet, on its skirts, all around, and bells of gold amidst them, all around: <sup>34</sup>&nbsp;bell of gold and pomegranate, bell of gold and pomegranate, on the skirts of the tunic, all around. <sup>35</sup>&nbsp;It is to be (put) on Aharon, for attending, that its sound may be heard whenever he comes into the Holy-shrine before the presence of YHVH, and whenever he goes out, so that he does not die.[foot]In this section, H warns of Aharon’s possible death if he comes before YHVH at the wrong time, a familiar <em>trōp</em> in H, and see the commentary to Chapter 30, regarding the duplication of the anointing oil and the incense. An allusion is made to Aharon’s job as collector of all holy gifts, a theme which is elaborated upon in H’s Leviticus 27.[/foot]</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="h"> <sup>לו</sup>&nbsp;וְעָשִׂ֥יתָ צִּ֖יץ זָהָ֣ב טָה֑וֹר וּפִתַּחְתָּ֤ עָלָיו֙ פִּתּוּחֵ֣י חֹתָ֔ם קֹ֖דֶשׁ לַֽיהֹוָֽה׃ <sup>לז</sup>&nbsp;וְשַׂמְתָּ֤ אֹתוֹ֙ עַל־פְּתִ֣יל תְּכֵ֔לֶת וְהָיָ֖ה עַל־הַמִּצְנָ֑פֶת אֶל־מ֥וּל פְּנֵֽי־הַמִּצְנֶ֖פֶת יִהְיֶֽה׃ <sup>לח</sup>&nbsp;וְהָיָה֮ עַל־מֵ֣צַח אַהֲרֹן֒ וְנָשָׂ֨א אַהֲרֹ֜ן אֶת־עֲוֺ֣ן הַקֳּדָשִׁ֗ים אֲשֶׁ֤ר יַקְדִּ֙ישׁוּ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל לְכׇֽל־מַתְּנֹ֖ת קָדְשֵׁיהֶ֑ם וְהָיָ֤ה עַל־מִצְחוֹ֙ תָּמִ֔יד לְרָצ֥וֹן לָהֶ֖ם לִפְנֵ֥י יְהֹוָֽה׃ </span> <span class="p"> <sup>לט</sup>&nbsp;וְשִׁבַּצְתָּ֙ הַכְּתֹ֣נֶת שֵׁ֔שׁ וְעָשִׂ֖יתָ מִצְנֶ֣פֶת שֵׁ֑שׁ וְאַבְנֵ֥ט תַּעֲשֶׂ֖ה מַעֲשֵׂ֥ה רֹקֵֽם׃ </span> 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="h"> <sup>36</sup>&nbsp;You are to make a plate of pure gold and are to engrave on it signet engravings: 'Holiness for YHVH.' <sup>37</sup>&nbsp;You are to place it on a thread of blue-violet, that it may be on the turban; on the forefront of the turban is it to be. <sup>38</sup>&nbsp;It is to be on Aharon's brow. So Aharon is to bear the iniquity of the holy-offerings that the Children of Yisrael offer-as-holy, all their gifts of holiness; it is to be on his brow regularly, for (receiving) favor for them, before the presence of YHVH.</span> <span class="p"> <sup>39</sup>&nbsp;You are to braid the coat with byssus; you are to make a turban of byssus, and a sash you are to make, of embroiderer's making.[foot]Note that Aharon’s clothes are described succinctly in P, but are more elaborate in the canonical text which includes H.[/foot] </span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="h"> <sup>מ</sup>&nbsp;וְלִבְנֵ֤י אַהֲרֹן֙ תַּעֲשֶׂ֣ה כֻתֳּנֹ֔ת וְעָשִׂ֥יתָ לָהֶ֖ם אַבְנֵטִ֑ים וּמִגְבָּעוֹת֙ תַּעֲשֶׂ֣ה לָהֶ֔ם לְכָב֖וֹד וּלְתִפְאָֽרֶת׃ <sup>מא</sup>&nbsp;וְהִלְבַּשְׁתָּ֤ אֹתָם֙ אֶת־אַהֲרֹ֣ן אָחִ֔יךָ וְאֶת־בָּנָ֖יו אִתּ֑וֹ וּמָשַׁחְתָּ֨ אֹתָ֜ם וּמִלֵּאתָ֧ אֶת־יָדָ֛ם וְקִדַּשְׁתָּ֥ אֹתָ֖ם וְכִהֲנ֥וּ לִֽי׃ <sup>מב</sup>&nbsp;וַעֲשֵׂ֤ה לָהֶם֙ מִכְנְסֵי־בָ֔ד לְכַסּ֖וֹת בְּשַׂ֣ר עֶרְוָ֑ה מִמׇּתְנַ֥יִם וְעַד־יְרֵכַ֖יִם יִהְיֽוּ׃ <sup>מג</sup>&nbsp;וְהָיוּ֩ עַל־אַהֲרֹ֨ן וְעַל־בָּנָ֜יו בְּבֹאָ֣ם ׀ אֶל־אֹ֣הֶל מוֹעֵ֗ד א֣וֹ בְגִשְׁתָּ֤ם אֶל־הַמִּזְבֵּ֙חַ֙ לְשָׁרֵ֣ת בַּקֹּ֔דֶשׁ וְלֹא־יִשְׂא֥וּ עָוֺ֖ן וָמֵ֑תוּ חֻקַּ֥ת עוֹלָ֛ם ל֖וֹ וּלְזַרְע֥וֹ אַחֲרָֽיו׃</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="h"> <sup>40</sup>&nbsp;And for the sons of Aharon, you are to make coats, you are to make them sashes and caps you are to make for them, for glory and for splendor. <sup>41</sup>&nbsp;You are to clothe in them Aharon your brother, and his sons with him, you are to anoint them, you are to give-mandate to them, and you are to hallow them, that they may be-priests for me. <sup>42</sup>&nbsp;You are to make them breeches of linen to cover the flesh of nakedness; from the hips to the thighs are they to extend. <sup>43</sup>&nbsp;They are to be on Aharon and on his sons, whenever they come into the Ohel Mo'ed or whenever they approach the Mizbe'aḥ to attend at the Holy-shrine, that they do not bear iniquity and die — a law for the ages, for him and for his seed after him.[foot]Once again Aharon’s sons are included in the investment, so as to entrench their hereditary hierarchy in the Pentateuch.[/foot]</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="h"><mark>רביעי</mark> כט <sup>א</sup>&nbsp;וְזֶ֨ה הַדָּבָ֜ר אֲשֶֽׁר־תַּעֲשֶׂ֥ה לָהֶ֛ם לְקַדֵּ֥שׁ אֹתָ֖ם לְכַהֵ֣ן לִ֑י לְ֠קַ֠ח פַּ֣ר אֶחָ֧ד בֶּן־בָּקָ֛ר וְאֵילִ֥ם שְׁנַ֖יִם תְּמִימִֽם׃ <sup>ב</sup>&nbsp;וְלֶ֣חֶם מַצּ֗וֹת וְחַלֹּ֤ת מַצֹּת֙ בְּלוּלֹ֣ת בַּשֶּׁ֔מֶן וּרְקִיקֵ֥י מַצּ֖וֹת מְשֻׁחִ֣ים בַּשָּׁ֑מֶן סֹ֥לֶת חִטִּ֖ים תַּעֲשֶׂ֥ה אֹתָֽם׃ <sup>ג</sup>&nbsp;וְנָתַתָּ֤ אוֹתָם֙ עַל־סַ֣ל אֶחָ֔ד וְהִקְרַבְתָּ֥ אֹתָ֖ם בַּסָּ֑ל וְאֶ֨ת־הַפָּ֔ר וְאֵ֖ת שְׁנֵ֥י הָאֵילִֽם׃ <sup>ד</sup>&nbsp;וְאֶת־אַהֲרֹ֤ן וְאֶת־בָּנָיו֙ תַּקְרִ֔יב אֶל־פֶּ֖תַח אֹ֣הֶל מוֹעֵ֑ד וְרָחַצְתָּ֥ אֹתָ֖ם בַּמָּֽיִם׃ <sup>ה</sup>&nbsp;וְלָקַחְתָּ֣ אֶת־הַבְּגָדִ֗ים וְהִלְבַּשְׁתָּ֤ אֶֽת־אַהֲרֹן֙ אֶת־הַכֻּתֹּ֔נֶת וְאֵת֙ מְעִ֣יל הָאֵפֹ֔ד וְאֶת־הָאֵפֹ֖ד וְאֶת־הַחֹ֑שֶׁן וְאָפַדְתָּ֣ ל֔וֹ בְּחֵ֖שֶׁב הָאֵפֹֽד׃ <sup>ו</sup>&nbsp;וְשַׂמְתָּ֥ הַמִּצְנֶ֖פֶת עַל־רֹאשׁ֑וֹ וְנָתַתָּ֛ אֶת־נֵ֥זֶר הַקֹּ֖דֶשׁ עַל־הַמִּצְנָֽפֶת׃ <sup>ז</sup>&nbsp;וְלָֽקַחְתָּ֙ אֶת־שֶׁ֣מֶן הַמִּשְׁחָ֔ה וְיָצַקְתָּ֖ עַל־רֹאשׁ֑וֹ וּמָשַׁחְתָּ֖ אֹתֽוֹ׃ <sup>ח</sup>&nbsp;וְאֶת־בָּנָ֖יו תַּקְרִ֑יב וְהִלְבַּשְׁתָּ֖ם כֻּתֳּנֹֽת׃ <sup>ט</sup>&nbsp;וְחָגַרְתָּ֩ אֹתָ֨ם אַבְנֵ֜ט אַהֲרֹ֣ן וּבָנָ֗יו וְחָבַשְׁתָּ֤ לָהֶם֙ מִגְבָּעֹ֔ת וְהָיְתָ֥ה לָהֶ֛ם כְּהֻנָּ֖ה לְחֻקַּ֣ת עוֹלָ֑ם וּמִלֵּאתָ֥ יַֽד־אַהֲרֹ֖ן וְיַד־בָּנָֽיו׃ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="h">29 <sup>1</sup>&nbsp;Now this is the ceremony that you are to make for them to hallow them, to be-priests for me: Take a bull, a young-one of the herd, and rams, two, wholly-sound, <sup>2</sup>&nbsp;and bread of matsah and flat cakes of matsah, mixed with oil, and wafers of matsah, dipped in oil, of wheat flour are you to make them. <sup>3</sup>&nbsp;You are to put them in one basket and are to bring-them-near in the basket, along with the bull and along with the two rams. <sup>4</sup>&nbsp;And Aharon and his two sons you are to bring-near to the entrance of the Ohel Mo'ed and are to wash them with water. <sup>5</sup>&nbsp;You are to take the garments and are to clothe Aharon — in the coat, in the tunic of the éfōd, in the éfōd and in the Ḥoshen; you are to invest him in the designed-band of the éfōd, <sup>6</sup>&nbsp;you are to place the turban on his head, and are to put the sacred-diadem of holiness on the turban. <sup>7</sup>&nbsp;You are to take the oil for anointing and are to pour it on his head, anointing him. <sup>8</sup>&nbsp;And his sons, you are to bring-near and are to clothe them in coats; <sup>9</sup>&nbsp;you are to gird them with a sash, Aharon and his sons, and are to wind caps for them. It shall be for them as priestly-right, a law for the ages. So you are to give-mandate to Aharon and to his sons:</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="h"><sup>י</sup>&nbsp;וְהִקְרַבְתָּ֙ אֶת־הַפָּ֔ר לִפְנֵ֖י אֹ֣הֶל מוֹעֵ֑ד וְסָמַ֨ךְ אַהֲרֹ֧ן וּבָנָ֛יו אֶת־יְדֵיהֶ֖ם עַל־רֹ֥אשׁ הַפָּֽר׃ <sup>יא</sup>&nbsp;וְשָׁחַטְתָּ֥ אֶת־הַפָּ֖ר לִפְנֵ֣י יְהֹוָ֑ה פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃ <sup>יב</sup>&nbsp;וְלָֽקַחְתָּ֙ מִדַּ֣ם הַפָּ֔ר וְנָתַתָּ֛ה עַל־קַרְנֹ֥ת הַמִּזְבֵּ֖חַ בְּאֶצְבָּעֶ֑ךָ וְאֶת־כׇּל־הַדָּ֣ם תִּשְׁפֹּ֔ךְ אֶל־יְס֖וֹד הַמִּזְבֵּֽחַ׃ <sup>יג</sup>&nbsp;וְלָֽקַחְתָּ֗ אֶֽת־כׇּל־הַחֵ֘לֶב֮ הַֽמְכַסֶּ֣ה אֶת־הַקֶּ֒רֶב֒ וְאֵ֗ת הַיֹּתֶ֙רֶת֙ עַל־הַכָּבֵ֔ד וְאֵת֙ שְׁתֵּ֣י הַכְּלָיֹ֔ת וְאֶת־הַחֵ֖לֶב אֲשֶׁ֣ר עֲלֵיהֶ֑ן וְהִקְטַרְתָּ֖ הַמִּזְבֵּֽחָה׃ <sup>יד</sup>&nbsp;וְאֶת־בְּשַׂ֤ר הַפָּר֙ וְאֶת־עֹר֣וֹ וְאֶת־פִּרְשׁ֔וֹ תִּשְׂרֹ֣ף בָּאֵ֔שׁ מִח֖וּץ לַֽמַּחֲנֶ֑ה חַטָּ֖את הֽוּא׃ </span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="h"><sup>10</sup>&nbsp;You are to bring-near the bull, before the Ohel Mo'ed, and Aharon and his sons are to lean their hands on the head of the bull. <sup>11</sup>&nbsp;You are to slay the bull in the presence of YHVH, at the entrance of the Ohel Mo'ed, <sup>12</sup>&nbsp;and are to take some of the blood of the bull and are to put it on the horns of the Mizbe'aḥ with your finger, but all the (rest of the) blood, you are to throw against the foundation of the Mizbe'aḥ. <sup>13</sup>&nbsp;You are to take all the fat that covers the innards, with the extension on the liver, the two kidneys and the fat that is on them, and turn-them-into-smoke on the Mizbe'aḥ. <sup>14</sup>&nbsp;And the flesh of the bull, its skin and its dung, you are to burn with fire, outside the camp; it is a ḥattat/decontamination-offering.</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="h"><sup>טו</sup>&nbsp;וְאֶת־הָאַ֥יִל הָאֶחָ֖ד תִּקָּ֑ח וְסָ֨מְכ֜וּ אַהֲרֹ֧ן וּבָנָ֛יו אֶת־יְדֵיהֶ֖ם עַל־רֹ֥אשׁ הָאָֽיִל׃ <sup>טז</sup>&nbsp;וְשָׁחַטְתָּ֖ אֶת־הָאָ֑יִל וְלָֽקַחְתָּ֙ אֶת־דָּמ֔וֹ וְזָרַקְתָּ֥ עַל־הַמִּזְבֵּ֖חַ סָבִֽיב׃ <sup>יז</sup>&nbsp;וְאֶ֨ת־הָאַ֔יִל תְּנַתֵּ֖חַ לִנְתָחָ֑יו וְרָחַצְתָּ֤ קִרְבּוֹ֙ וּכְרָעָ֔יו וְנָתַתָּ֥ עַל־נְתָחָ֖יו וְעַל־רֹאשֽׁוֹ׃ <sup>יח</sup>&nbsp;וְהִקְטַרְתָּ֤ אֶת־כׇּל־הָאַ֙יִל֙ הַמִּזְבֵּ֔חָה עֹלָ֥ה ה֖וּא לַֽיהֹוָ֑ה רֵ֣יחַ נִיח֔וֹחַ אִשֶּׁ֥ה לַיהֹוָ֖ה הֽוּא׃ </span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="h"><sup>15</sup>&nbsp;And the first ram, you are to take, and Aharon and his sons are to lean their hands on the head of the ram. <sup>16</sup>&nbsp;You are to slay the ram, you are to take its blood and you are to toss it on the Mizbe'aḥ, all around. <sup>17</sup>&nbsp;And the ram you are to section into sections, you are to wash its innards and its legs and you are to put (them) on its sections and on its head <sup>18</sup>&nbsp;and are to turn-into-smoke the entire ram, on the Mizbe'aḥ; it is an offering-up for YHVH, a soothing savor, it is a fire-offering for YHVH. </span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="h"><mark>חמישי</mark> <sup>יט</sup>&nbsp;וְלָ֣קַחְתָּ֔ אֵ֖ת הָאַ֣יִל הַשֵּׁנִ֑י וְסָמַ֨ךְ אַהֲרֹ֧ן וּבָנָ֛יו אֶת־יְדֵיהֶ֖ם עַל־רֹ֥אשׁ הָאָֽיִל׃ <sup>כ</sup>&nbsp;וְשָׁחַטְתָּ֣ אֶת־הָאַ֗יִל וְלָקַחְתָּ֤ מִדָּמוֹ֙ וְנָֽתַתָּ֡ה עַל־תְּנוּךְ֩ אֹ֨זֶן אַהֲרֹ֜ן וְעַל־תְּנ֨וּךְ אֹ֤זֶן בָּנָיו֙ הַיְמָנִ֔ית וְעַל־בֹּ֤הֶן יָדָם֙ הַיְמָנִ֔ית וְעַל־בֹּ֥הֶן רַגְלָ֖ם הַיְמָנִ֑ית וְזָרַקְתָּ֧ אֶת־הַדָּ֛ם עַל־הַמִּזְבֵּ֖חַ סָבִֽיב׃ <sup>כא</sup>&nbsp;וְלָקַחְתָּ֞ מִן־הַדָּ֨ם אֲשֶׁ֥ר עַֽל־הַמִּזְבֵּ֘חַ֮ וּמִשֶּׁ֣מֶן הַמִּשְׁחָה֒ וְהִזֵּיתָ֤ עַֽל־אַהֲרֹן֙ וְעַל־בְּגָדָ֔יו וְעַל־בָּנָ֛יו וְעַל־בִּגְדֵ֥י בָנָ֖יו אִתּ֑וֹ וְקָדַ֥שׁ הוּא֙ וּבְגָדָ֔יו וּבָנָ֛יו וּבִגְדֵ֥י בָנָ֖יו אִתּֽוֹ׃ <sup>כב</sup>&nbsp;וְלָקַחְתָּ֣ מִן־הָ֠אַ֠יִל הַחֵ֨לֶב וְהָֽאַלְיָ֜ה וְאֶת־הַחֵ֣לֶב ׀ הַֽמְכַסֶּ֣ה אֶת־הַקֶּ֗רֶב וְאֵ֨ת יֹתֶ֤רֶת הַכָּבֵד֙ וְאֵ֣ת ׀ שְׁתֵּ֣י הַכְּלָיֹ֗ת וְאֶת־הַחֵ֙לֶב֙ אֲשֶׁ֣ר עֲלֵיהֶ֔ן וְאֵ֖ת שׁ֣וֹק הַיָּמִ֑ין כִּ֛י אֵ֥יל מִלֻּאִ֖ים הֽוּא׃ <sup>כג</sup>&nbsp;וְכִכַּ֨ר לֶ֜חֶם אַחַ֗ת וְֽחַלַּ֨ת לֶ֥חֶם שֶׁ֛מֶן אַחַ֖ת וְרָקִ֣יק אֶחָ֑ד מִסַּל֙ הַמַּצּ֔וֹת אֲשֶׁ֖ר לִפְנֵ֥י יְהֹוָֽה׃ <sup>כד</sup>&nbsp;וְשַׂמְתָּ֣ הַכֹּ֔ל עַ֚ל כַּפֵּ֣י אַהֲרֹ֔ן וְעַ֖ל כַּפֵּ֣י בָנָ֑יו וְהֵנַפְתָּ֥ אֹתָ֛ם תְּנוּפָ֖ה לִפְנֵ֥י יְהֹוָֽה׃ <sup>כה</sup>&nbsp;וְלָקַחְתָּ֤ אֹתָם֙ מִיָּדָ֔ם וְהִקְטַרְתָּ֥ הַמִּזְבֵּ֖חָה עַל־הָעֹלָ֑ה לְרֵ֤יחַ נִיח֙וֹחַ֙ לִפְנֵ֣י יְהֹוָ֔ה אִשֶּׁ֥ה ה֖וּא לַיהֹוָֽה׃ </span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="h"><sup>19</sup>&nbsp;And you are to take the second ram and Aharon and his sons are to lean their hands on the head of the ram. <sup>20</sup>&nbsp;You are to slay the ram, you are to take (some) of its blood and you are to put (it) on the ridge of Aharon's ear and on the ridge of the right ear of Aharon's sons, and on the thumb of their right hands and on the thumb-toe of their right feet, then you are to toss the blood on the Mizbe'aḥ, all around. <sup>21</sup>&nbsp;You are to take some of the blood that is on the Mizbe'aḥ, and some of the oil for anointing, and you are to toss it on Aharon and on his garments, on his sons and on his sons' garments with him, that he and his garments may be hallowed, and his sons and his sons' garments with him. <sup>22</sup>&nbsp;You are to take the fat from the ram, the tail, the fat that covers the innards and the extension on the liver, the two kidneys and the fat that is on them, and the right thigh, for it is the ram for giving-mandate; <sup>23</sup>&nbsp;and one loaf of bread and one cake of oil-bread and one wafer from the basket of matsah that is in the presence of YHVH; <sup>24</sup>&nbsp;you are to place them all on the palms of Aharon and on the palms of his sons, and you are to elevate them as an elevation-offering, in the presence of YHVH. <sup>25</sup>&nbsp;You are to take them from their hand and you are to turn-them-into-smoke on the Mizbe'aḥ, beside the offering-up, for a soothing savor in the presence of YHVH, it is a fire-offering for YHVH.</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="h"><sup>כו</sup>&nbsp;וְלָקַחְתָּ֣ אֶת־הֶֽחָזֶ֗ה מֵאֵ֤יל הַמִּלֻּאִים֙ אֲשֶׁ֣ר לְאַהֲרֹ֔ן וְהֵנַפְתָּ֥ אֹת֛וֹ תְּנוּפָ֖ה לִפְנֵ֣י יְהֹוָ֑ה וְהָיָ֥ה לְךָ֖ לְמָנָֽה׃ <sup>כז</sup>&nbsp;וְקִדַּשְׁתָּ֞ אֵ֣ת ׀ חֲזֵ֣ה הַתְּנוּפָ֗ה וְאֵת֙ שׁ֣וֹק הַתְּרוּמָ֔ה אֲשֶׁ֥ר הוּנַ֖ף וַאֲשֶׁ֣ר הוּרָ֑ם מֵאֵיל֙ הַמִּלֻּאִ֔ים מֵאֲשֶׁ֥ר לְאַהֲרֹ֖ן וּמֵאֲשֶׁ֥ר לְבָנָֽיו׃ <sup>כח</sup>&nbsp;וְהָיָה֩ לְאַהֲרֹ֨ן וּלְבָנָ֜יו לְחׇק־עוֹלָ֗ם מֵאֵת֙ בְּנֵ֣י יִשְׂרָאֵ֔ל כִּ֥י תְרוּמָ֖ה ה֑וּא וּתְרוּמָ֞ה יִהְיֶ֨ה מֵאֵ֤ת בְּנֵֽי־יִשְׂרָאֵל֙ מִזִּבְחֵ֣י שַׁלְמֵיהֶ֔ם תְּרוּמָתָ֖ם לַיהֹוָֽה׃ </span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="h"><sup>26</sup>&nbsp;You are to take the breast from the ram of giving-mandate that is Aharon's, and you are to elevate it as an elevation-offering, in the presence of YHVH, that it may be an allotment for you. <sup>27</sup>&nbsp;So you are to hallow the breast for the elevation-offering, and the thigh of the raised-contribution, that is elevated, that is raised from the ram of giving-mandate, from what is Aharon's and from what is his sons'. <sup>28</sup>&nbsp;It is to be Aharon's and his sons', a fixed-allocation for the ages, on the part of the Children of Yisrael, for it is a contribution, and a contribution is it to be on the part of the Children of Yisrael, from their slaughter-offerings of shalom, their raised-contribution for YHVH.[foot]The whole sacrificial ritual which serves to invest Aharon and his sons’ priesthood (repeated almost word for word in Leviticus 8-9) is H’s very lengthy elaboration of the simple Priestly command in vss. 29-30, which legislates that Aharon’s clothes shall be transferred to his children after a seven day ritual. H’s elaboration involving Aharon’s sons serves to entrench the Aharonite priesthood in the Pentateuch (Aharon is consecrated on his own according to P). Note also that sacrifices are not legislated until Leviticus 1-7, and so the sacrificial element of this ritual is out of place.[/foot]</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="p"> <sup>כט</sup>&nbsp;וּבִגְדֵ֤י הַקֹּ֙דֶשׁ֙ אֲשֶׁ֣ר לְאַהֲרֹ֔ן יִהְי֥וּ לְבָנָ֖יו אַחֲרָ֑יו לְמׇשְׁחָ֣ה בָהֶ֔ם וּלְמַלֵּא־בָ֖ם אֶת־יָדָֽם׃ <sup>ל</sup>&nbsp;שִׁבְעַ֣ת יָמִ֗ים יִלְבָּשָׁ֧ם הַכֹּהֵ֛ן תַּחְתָּ֖יו מִבָּנָ֑יו אֲשֶׁ֥ר יָבֹ֛א אֶל־אֹ֥הֶל מוֹעֵ֖ד לְשָׁרֵ֥ת בַּקֹּֽדֶשׁ׃</span> </span> <span class="h"> <sup>לא</sup>&nbsp;וְאֵ֛ת אֵ֥יל הַמִּלֻּאִ֖ים תִּקָּ֑ח וּבִשַּׁלְתָּ֥ אֶת־בְּשָׂר֖וֹ בְּמָקֹ֥ם קָדֹֽשׁ׃ <sup>לב</sup>&nbsp;וְאָכַ֨ל אַהֲרֹ֤ן וּבָנָיו֙ אֶת־בְּשַׂ֣ר הָאַ֔יִל וְאֶת־הַלֶּ֖חֶם אֲשֶׁ֣ר בַּסָּ֑ל פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃ <sup>לג</sup>&nbsp;וְאָכְל֤וּ אֹתָם֙ אֲשֶׁ֣ר כֻּפַּ֣ר בָּהֶ֔ם לְמַלֵּ֥א אֶת־יָדָ֖ם לְקַדֵּ֣שׁ אֹתָ֑ם וְזָ֥ר לֹא־יֹאכַ֖ל כִּי־קֹ֥דֶשׁ הֵֽם׃ <sup>לד</sup>&nbsp;וְֽאִם־יִוָּתֵ֞ר מִבְּשַׂ֧ר הַמִּלֻּאִ֛ים וּמִן־הַלֶּ֖חֶם עַד־הַבֹּ֑קֶר וְשָׂרַפְתָּ֤ אֶת־הַנּוֹתָר֙ בָּאֵ֔שׁ לֹ֥א יֵאָכֵ֖ל כִּי־קֹ֥דֶשׁ הֽוּא׃ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="p"> <sup>29</sup>&nbsp;Now the garments of holiness that are Aharon's are to belong to his sons after him, to anoint them in them and to give-them-mandate in them. <sup>30</sup>&nbsp;For seven days is the one of his sons that acts-as-priest in his stead to be clothed in them, the one who comes into the Ohel Mo'ed to attend at the Holy-shrine.[foot]See previous comment. In an abrupt shift from the sacrifices of the previous section, these two verses focus on the transfer of the Priestly clothes and are the precursor to the elaborate ritual constructed by H in this chapter.[/foot]</span> <span class="h"> <sup>31</sup>&nbsp;And the ram for giving-mandate you are to take and are to boil its flesh in the Holy-shrine. <sup>32</sup>&nbsp;Aharon and his sons are to eat the flesh of the ram, along with the bread that is in the basket, at the entrance of the Ohel Mo'ed. <sup>33</sup>&nbsp;They are to eat them — those who are purged by them, to give-them-mandate, to hallow them; an outsider is not to eat (them), for they are holiness. <sup>34</sup>&nbsp;Now if there be anything left over of the flesh of giving-mandate or of the bread in the morning, you are to burn what is left by fire, it is not to be eaten, for it is holiness.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="h"><sup>לה</sup>&nbsp;וְעָשִׂ֜יתָ לְאַהֲרֹ֤ן וּלְבָנָיו֙ כָּ֔כָה כְּכֹ֥ל אֲשֶׁר־צִוִּ֖יתִי אֹתָ֑כָה שִׁבְעַ֥ת יָמִ֖ים תְּמַלֵּ֥א יָדָֽם׃ <sup>לו</sup>&nbsp;וּפַ֨ר חַטָּ֜את תַּעֲשֶׂ֤ה לַיּוֹם֙ עַל־הַכִּפֻּרִ֔ים וְחִטֵּאתָ֙ עַל־הַמִּזְבֵּ֔חַ בְּכַפֶּרְךָ֖ עָלָ֑יו וּמָֽשַׁחְתָּ֥ אֹת֖וֹ לְקַדְּשֽׁוֹ׃ <sup>לז</sup>&nbsp;שִׁבְעַ֣ת יָמִ֗ים תְּכַפֵּר֙ עַל־הַמִּזְבֵּ֔חַ וְקִדַּשְׁתָּ֖ אֹת֑וֹ וְהָיָ֤ה הַמִּזְבֵּ֙חַ֙ קֹ֣דֶשׁ קׇֽדָשִׁ֔ים כׇּל־הַנֹּגֵ֥עַ בַּמִּזְבֵּ֖חַ יִקְדָּֽשׁ׃ </span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="h"><sup>35</sup>&nbsp;You are to make (thus) for Aharon and for his sons, according to all that I have commanded you, for seven days, you are to give-them-mandate. <sup>36</sup>&nbsp;A bull for the ḥattat-offering, you are to make-ready for each day, concerning the purging, that you may decontaminate the Mizbe'aḥ, by your purging it, and you are to anoint it, to hallow it. <sup>37</sup>&nbsp;For seven days you are to purge the Mizbe'aḥ, that you may hallow it. Thus the Mizbe'aḥ will become holiest holiness; whatever touches the Mizbe'aḥ shall become-holy.</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="h"><mark>ששי</mark> <sup>לח</sup>&nbsp;וְזֶ֕ה אֲשֶׁ֥ר תַּעֲשֶׂ֖ה עַל־הַמִּזְבֵּ֑חַ כְּבָשִׂ֧ים בְּנֵֽי־שָׁנָ֛ה שְׁנַ֥יִם לַיּ֖וֹם תָּמִֽיד׃ <sup>לט</sup>&nbsp;אֶת־הַכֶּ֥בֶשׂ הָאֶחָ֖ד תַּעֲשֶׂ֣ה בַבֹּ֑קֶר וְאֵת֙ הַכֶּ֣בֶשׂ הַשֵּׁנִ֔י תַּעֲשֶׂ֖ה בֵּ֥ין הָעַרְבָּֽיִם׃ <sup>מ</sup>&nbsp;וְעִשָּׂרֹ֨ן סֹ֜לֶת בָּל֨וּל בְּשֶׁ֤מֶן כָּתִית֙ רֶ֣בַע הַהִ֔ין וְנֵ֕סֶךְ רְבִיעִ֥ת הַהִ֖ין יָ֑יִן לַכֶּ֖בֶשׂ הָאֶחָֽד׃ <sup>מא</sup>&nbsp;וְאֵת֙ הַכֶּ֣בֶשׂ הַשֵּׁנִ֔י תַּעֲשֶׂ֖ה בֵּ֣ין הָעַרְבָּ֑יִם כְּמִנְחַ֨ת הַבֹּ֤קֶר וּכְנִסְכָּהּ֙ תַּֽעֲשֶׂה־לָּ֔הּ לְרֵ֣יחַ נִיחֹ֔חַ אִשֶּׁ֖ה לַיהֹוָֽה׃ <sup>מב</sup>&nbsp;עֹלַ֤ת תָּמִיד֙ לְדֹרֹ֣תֵיכֶ֔ם פֶּ֥תַח אֹֽהֶל־מוֹעֵ֖ד לִפְנֵ֣י יְהֹוָ֑ה אֲשֶׁ֨ר אִוָּעֵ֤ד לָכֶם֙ שָׁ֔מָּה לְדַבֵּ֥ר אֵלֶ֖יךָ שָֽׁם׃ <sup>מג</sup>&nbsp;וְנֹעַדְתִּ֥י שָׁ֖מָּה לִבְנֵ֣י יִשְׂרָאֵ֑ל וְנִקְדַּ֖שׁ בִּכְבֹדִֽי׃ <sup>מד</sup>&nbsp;וְקִדַּשְׁתִּ֛י אֶת־אֹ֥הֶל מוֹעֵ֖ד וְאֶת־הַמִּזְבֵּ֑חַ וְאֶת־אַהֲרֹ֧ן וְאֶת־בָּנָ֛יו אֲקַדֵּ֖שׁ לְכַהֵ֥ן לִֽי׃ <sup>מה</sup>&nbsp;וְשָׁ֣כַנְתִּ֔י בְּת֖וֹךְ בְּנֵ֣י יִשְׂרָאֵ֑ל וְהָיִ֥יתִי לָהֶ֖ם לֵאלֹהִֽים׃ <sup>מו</sup>&nbsp;וְיָדְע֗וּ כִּ֣י אֲנִ֤י יְהֹוָה֙ אֱלֹ֣הֵיהֶ֔ם אֲשֶׁ֨ר הוֹצֵ֧אתִי אֹתָ֛ם מֵאֶ֥רֶץ מִצְרַ֖יִם לְשׇׁכְנִ֣י בְתוֹכָ֑ם אֲנִ֖י יְהֹוָ֥ה אֱלֹהֵיהֶֽם׃ </span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="h"> <sup>38</sup>&nbsp;And this is what you are to sacrifice on the Mizbe'aḥ: year-old lambs, two for each day, regularly. <sup>39</sup>&nbsp;The first lamb you are to sacrifice at daybreak, and the second lamb you are to sacrifice between the setting-times. <sup>40</sup>&nbsp;A tenth-measure of fine-meal, mixed with beaten oil, a quarter of a hin, and (as) poured-offering, a quarter of a <em>hin</em> of wine — for the first lamb. <sup>41</sup>&nbsp;And the second lamb you are to sacrifice between the setting-times, like the grain-gift of morning, and like its poured-offering, (that) you make-ready for it, for a soothing savor, a fire-offering for YHVH; <sup>42</sup>&nbsp;a regular offering-up, throughout your generations, at the entrance to the Ohel Mo'ed, before the presence of YHVH; for I will appoint-meeting with you there, to speak to you there. <sup>43</sup>&nbsp;So I will appoint-meeting there with the Children of Yisrael, and it will be hallowed by my Kavod. <sup>44</sup>&nbsp;I will hallow the Ohel Mo'ed and the altar, and Aharon and his sons I will hallow, to be-priests for me. <sup>45</sup>&nbsp;And I will dwell amidst the Children of Yisrael and I will be an elohim for them, <sup>46</sup>&nbsp;that they may know that I am YHVH their <em>elo'ah</em> who brought them out of the land of Mitsrayim to dwell, myself, in their midst, I am YHVH their <em>elo'ah</em>.[foot]The final verses of the chapter are a complete non-sequitor to the investment, and focus on daily sacrifices, legislation which is completely out of place. This section does, however, function as a lead in for the construction of the incense altar at the beginning of Chapter 30.  Note the use of H, linguistic / ideological markers, such as “I am YHVH their God” in vs. 46, and “throughout your generations” in vs. 42.[/foot]</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="h"><mark>שביעי</mark> ל <sup>א</sup>&nbsp;וְעָשִׂ֥יתָ מִזְבֵּ֖חַ מִקְטַ֣ר קְטֹ֑רֶת עֲצֵ֥י שִׁטִּ֖ים תַּעֲשֶׂ֥ה אֹתֽוֹ׃ <sup>ב</sup>&nbsp;אַמָּ֨ה אׇרְכּ֜וֹ וְאַמָּ֤ה רׇחְבּוֹ֙ רָב֣וּעַ יִהְיֶ֔ה וְאַמָּתַ֖יִם קֹמָת֑וֹ מִמֶּ֖נּוּ קַרְנֹתָֽיו׃ <sup>ג</sup>&nbsp;וְצִפִּיתָ֨ אֹת֜וֹ זָהָ֣ב טָה֗וֹר אֶת־גַּגּ֧וֹ וְאֶת־קִירֹתָ֛יו סָבִ֖יב וְאֶת־קַרְנֹתָ֑יו וְעָשִׂ֥יתָ לּ֛וֹ זֵ֥ר זָהָ֖ב סָבִֽיב׃ <sup>ד</sup>&nbsp;וּשְׁתֵּי֩ טַבְּעֹ֨ת זָהָ֜ב תַּֽעֲשֶׂה־לּ֣וֹ ׀ מִתַּ֣חַת לְזֵר֗וֹ עַ֚ל שְׁתֵּ֣י צַלְעֹתָ֔יו תַּעֲשֶׂ֖ה עַל־שְׁנֵ֣י צִדָּ֑יו וְהָיָה֙ לְבָתִּ֣ים לְבַדִּ֔ים לָשֵׂ֥את אֹת֖וֹ בָּהֵֽמָּה׃ <sup>ה</sup>&nbsp;וְעָשִׂ֥יתָ אֶת־הַבַּדִּ֖ים עֲצֵ֣י שִׁטִּ֑ים וְצִפִּיתָ֥ אֹתָ֖ם זָהָֽב׃ <sup>ו</sup>&nbsp;וְנָתַתָּ֤ה אֹתוֹ֙ לִפְנֵ֣י הַפָּרֹ֔כֶת אֲשֶׁ֖ר עַל־אֲרֹ֣ן הָעֵדֻ֑ת לִפְנֵ֣י הַכַּפֹּ֗רֶת אֲשֶׁר֙ עַל־הָ֣עֵדֻ֔ת אֲשֶׁ֛ר אִוָּעֵ֥ד לְךָ֖ שָֽׁמָּה׃ <sup>ז</sup>&nbsp;וְהִקְטִ֥יר עָלָ֛יו אַהֲרֹ֖ן קְטֹ֣רֶת סַמִּ֑ים בַּבֹּ֣קֶר בַּבֹּ֗קֶר בְּהֵיטִיב֛וֹ אֶת־הַנֵּרֹ֖ת יַקְטִירֶֽנָּה׃ <mark>מפטיר</mark> <sup>ח</sup>&nbsp;וּבְהַעֲלֹ֨ת אַהֲרֹ֧ן אֶת־הַנֵּרֹ֛ת בֵּ֥ין הָעַרְבַּ֖יִם יַקְטִירֶ֑נָּה קְטֹ֧רֶת תָּמִ֛יד לִפְנֵ֥י יְהֹוָ֖ה לְדֹרֹתֵיכֶֽם׃ <sup>ט</sup>&nbsp;לֹא־תַעֲל֥וּ עָלָ֛יו קְטֹ֥רֶת זָרָ֖ה וְעֹלָ֣ה וּמִנְחָ֑ה וְנֵ֕סֶךְ לֹ֥א תִסְּכ֖וּ עָלָֽיו׃ <sup>י</sup>&nbsp;וְכִפֶּ֤ר אַהֲרֹן֙ עַל־קַרְנֹתָ֔יו אַחַ֖ת בַּשָּׁנָ֑ה מִדַּ֞ם חַטַּ֣את הַכִּפֻּרִ֗ים אַחַ֤ת בַּשָּׁנָה֙ יְכַפֵּ֤ר עָלָיו֙ לְדֹרֹ֣תֵיכֶ֔ם קֹֽדֶשׁ־קׇדָשִׁ֥ים ה֖וּא לַיהֹוָֽה׃</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="h">30 <sup>1</sup>&nbsp;You are to make a Mizbe'aḥ, a smoking (site) for smoking-incense, of acacia wood are you to make it, <sup>2</sup>&nbsp;a cubit its length and a cubit its width; square is it to be, and two cubits its height, its horns from it. <sup>3</sup>&nbsp;You are to overlay it with pure gold — its roof, its walls all around, and its horns, and you are to make a rim of gold all around. <sup>4</sup>&nbsp;And two rings of gold you are to make for it, beneath its rim, on its two flanks, you are to make (them) on its two sides, that they may be for holders for poles, to carry it by (means of) them. <sup>5</sup>&nbsp;You are to make the poles of acacia wood and you are to overlay them with gold. <sup>6</sup>&nbsp;And you are to put it in front of the Parokhet that is over the Arōn of Testimony, in front of the Kaporet that is over the Testimony, where I will appoint-meeting with you. <sup>7</sup>&nbsp;And Aharon is to send-up-in-smoke, fragrant smoking-incense on it, in the morning, (every) morning; when he polishes the lamps, he is to send-it-up-in-smoke. <sup>8</sup>&nbsp;And when Aharon draws up the lampwicks, between the setting-times, he is to send-it-up-in-smoke, a regular smoke-offering before the presence of YHVH, throughout your generations. <sup>9</sup>&nbsp;You are not to offer-up upon it any outsider's smoking-incense, either as offering-up or as grain-gift, nor are you to pour out any poured-offering upon it. <sup>10</sup>&nbsp;Aharon is to do-the-purging upon its horns, once a year, with the decontaminating blood of purgation (atonement); once a year he is to do-the-purging upon it, throughout your generations, holiest holiness it is for YHVH.[foot]The construction of this second incense altar is out of place. Most of the other cultic object were constructed in Chapter 25-26. It thus seems likely that this altar and the instructions in vss. 34-38 regarding the preparation of the incense, were inserted here by H. With this addition, H sets the stage for the drama enacted in Numbers 16, where Aharon alone is allowed to offer incense before the Lord, and Korach and his fellows conspirers die in a fire. The pans that Korach and his fellows used to burn incense were then melted and used as a coating for the altar, likely the same altar the Lord commands Aharon to build in this chapter.[/foot]</span>
 </div></td></tr>

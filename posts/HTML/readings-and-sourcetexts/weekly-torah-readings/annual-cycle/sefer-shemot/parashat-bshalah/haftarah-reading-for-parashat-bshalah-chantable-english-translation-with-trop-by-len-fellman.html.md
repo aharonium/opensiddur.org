@@ -8,8 +8,8 @@ For attribution and license, please consult the following URL: <a href="http://o
 <hr />
 
 <strong>DOWNLOAD:</strong> 
-<a href="https://archive.org/download/parashatbshalahhaftarahreadingwithenglishtranstropilationlenfellman2019/Parashat%20b%27Shalah%20Haftarah%20Reading%20%28Judges%204v4-5v31%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29%20-%20english%20only.pdf">PDF</a> or <a href="https://archive.org/download/parashatbshalahhaftarahreadingwithenglishtranstropilationlenfellman2019/Parashat%20b%27Shalah%20Haftarah%20Reading%20%28Judges%204v4-5v31%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29%20-%20english%20only.odt">ODT</a> (sans Hebrew)
-<a href="https://archive.org/download/parashatbshalahhaftarahreadingwithenglishtranstropilationlenfellman2019/Parashat%20b%27Shalah%20Haftarah%20Reading%20%28Judges%204v4-5v31%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29.pdf">PDF</a> or <a href="https://archive.org/download/parashatbshalahhaftarahreadingwithenglishtranstropilationlenfellman2019/Parashat%20b%27Shalah%20Haftarah%20Reading%20%28Judges%204v4-5v31%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29.odt">ODT</a> (with Hebrew)
+<a href="https://archive.org/download/parashatbshalahhaftarahreadingwithenglishtranstropilationlenfellman2019/Parashat%20b%27Shalah%20Haftarah%20Reading%20%28Judges%204v4-5v31%29%20in%20English%20transtropilation%20%28Len%20Fellman%202021%29%20-%20english%20only.pdf">PDF</a> | <a href="https://archive.org/download/parashatbshalahhaftarahreadingwithenglishtranstropilationlenfellman2019/Parashat%20b%27Shalah%20Haftarah%20Reading%20%28Judges%204v4-5v31%29%20in%20English%20transtropilation%20%28Len%20Fellman%202021%29%20-%20english%20only.odt">ODT</a> (sans Hebrew)
+<a href="https://archive.org/download/parashatbshalahhaftarahreadingwithenglishtranstropilationlenfellman2019/Parashat%20b%27Shalah%20Haftarah%20Reading%20%28Judges%204v4-5v31%29%20in%20English%20transtropilation%20%28Len%20Fellman%202021%29.pdf">PDF</a> | <a href="https://archive.org/download/parashatbshalahhaftarahreadingwithenglishtranstropilationlenfellman2019/Parashat%20b%27Shalah%20Haftarah%20Reading%20%28Judges%204v4-5v31%29%20in%20English%20transtropilation%20%28Len%20Fellman%202021%29.odt">ODT</a> (with Hebrew)
 
 <hr />
 
@@ -17,13 +17,18 @@ This is an English translation of the Haftarah reading for Parashat b'Shalaḥ (
 
 <h3>Source</h3>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/parashatbshalahhaftarahreadingwithenglishtranstropilationlenfellman2019/Parashat%20b%27Shalah%20Haftarah%20Reading%20%28Judges%204v4-5v31%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29#page/n0"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/parashatbshalahhaftarahreadingwithenglishtranstropilationlenfellman2019/Parashat%20b%27Shalah%20Haftarah%20Reading%20%28Judges%204v4-5v31%29%20in%20English%20transtropilation%20%28Len%20Fellman%202021%29#page/n0"]
+
+&nbsp;
 
 <h3>Recording</h3>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/details/parashatbshalahhaftarahreadingwithenglishtranstropilationlenfellman2019" show_part_of_iframe="true" show_part_of_iframe_y="75" show_part_of_iframe_height="145" show_part_of_iframe_allow_scrollbar_vertical="false"]
+https://archive.org/download/parashatbshalahhaftarahreadingwithenglishtranstropilationlenfellman2019/Parashat%20b%27Shalah%20Haftarah%20Reading%20%28Judges%204v4-5v31%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29.mp3
+
+&nbsp;
 
 <hr />
+
 &nbsp;
 </body>
 </html>

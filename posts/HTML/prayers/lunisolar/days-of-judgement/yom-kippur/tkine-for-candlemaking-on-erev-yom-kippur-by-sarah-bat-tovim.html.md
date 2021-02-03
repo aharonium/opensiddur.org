@@ -223,6 +223,10 @@ I beseech you, dear God, that my possessions and those of all Yisrael not be dim
 
 This is the tkhine for candlemaking on erev Yom Kippur as found in Sarah bat Tovim's Tkhine of Three Gates, likely written by her sometime in the early 18th century. The transcription was drawn from that of Rabbi Tracy Klirs published with her HUC dissertation and subsequently published by HUC Press in <em>In the Merit of Our Mothers</em> (1991). I have made light changes to the translation, re-Hebraizing loshen qodesh and biblical names, and presenting Hashem as gender-neutral. --Aharon Varady
 
+<h3>Recordings</h3>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/893913373&color=%23d0c0b8&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/tkhines" title="Tkhines in Song * תחינות לידער" target="_blank" style="color: #cccccc; text-decoration: none;" rel="noopener">Tkhines in Song * תחינות לידער</a> · <a href="https://soundcloud.com/tkhines/rak-shaarey-dmaos-by-nesya-nelkin" title="Rak Shaarey Dmaos * רק שערי דמעות by Nesya Nelkin" target="_blank" style="color: #cccccc; text-decoration: none;" rel="noopener">Rak Shaarey Dmaos * רק שערי דמעות by Nesya Nelkin</a></div>
+
 <h3>Source(s)</h3>
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/seydertinesuvaos00unse#page/7/mode/2up"]

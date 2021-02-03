@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: Haftarah for MLK Shabbat, excerpts from speeches 1956-1968 selected by Rabbi Marcia Prager & Ḥazzan Jack Kessler<br />
+Title: Haftarah for MLK Shabbat: Excerpts from speeches by MLK Jr. (1956-1968) selected by Rabbi Marcia Prager, cantillated by Ḥazzan Jack Kessler<br />
 Primary contributor: yakov.kessler<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=18621">http://opensiddur.org/?p=18621</a>
 <p />

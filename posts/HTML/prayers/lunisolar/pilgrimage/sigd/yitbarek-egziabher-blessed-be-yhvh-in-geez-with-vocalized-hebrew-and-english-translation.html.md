@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: Prayers for the Morning of Sigd: ይትባረክ፡እግዚአብሔር | YətəbaräkəʾƎgəziʾäbəḥerə (Blessed be YHVH), in Ge'ez with vocalized Hebrew and English translation<br />
+Title: Prayers for the Morning of Sigd: ይትባረክ ፡ እግዚአብሔር | YətəbaräkəʾƎgəziʾäbəḥerə (Blessed be YHVH), in Ge'ez with vocalized Hebrew and English translation<br />
 Primary contributor: isaac.gantwerk-mayer<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=27883">http://opensiddur.org/?p=27883</a>
 <p />
@@ -58,12 +58,12 @@ and exult the One forever.
 
 <td style="vertical-align:top;">
 <div class="ethiopic"><span lang="am">
-ይትባረክ፡እግዚአብሔር፡
-አምላከ፡እስራኤል፣
-አምላከ፡አበዊነ፡አንተ።
-ሃሌ።
-ስቡሕኒ፡ውእቱ፣
-ወልዑልኒ፡ውእቱ፡ለዓለም።
+ይትባረክ ፡ እግዚአብሔር ፡ 
+አምላከ ፡ እስራኤል፣
+አምላከ ፡ አበዊነ ፡ አንተ ። 
+ሃሌ ። 
+ስቡሕኒ ፡ ውእቱ፣
+ወልዑልኒ ፡ ውእቱ ፡ ለዓለም ። 
 </span></div></td>
  
 <td style="vertical-align:top;">
@@ -105,15 +105,15 @@ and exult the One forever.
 
 <td style="vertical-align:top;">
 <div class="ethiopic"><span lang="am">
-ወይትባረክ፡እግዚአብሔር፡
-ወይትቄደስ፡ወይትሌዓል፡
-ወይትኣመን፡ወይትኣኮት፡
-ወይሰባሕ፡አዶናይ፡
-ዐቢይ፡ስብሓትሁ።
-ቅዱስ፡ወሐየል፡ወቡሩክ።
-ሃሌ።
-ስቡሕኒ፡ውእቱ፣
-ወልዑልኒ፡ውእቱ፡ለዓለም።
+ወይትባረክ ፡ እግዚአብሔር ፡ 
+ወይትቄደስ ፡ ወይትሌዓል ፡ 
+ወይትኣመን ፡ ወይትኣኮት ፡ 
+ወይሰባሕ ፡ አዶናይ ፡ 
+ዐቢይ ፡ ስብሓትሁ ። 
+ቅዱስ ፡ ወሐየል ፡ ወቡሩክ ። 
+ሃሌ ። 
+ስቡሕኒ ፡ ውእቱ፣
+ወልዑልኒ ፡ ውእቱ ፡ ለዓለም ። 
 </span></div></td>
  
 <td style="vertical-align:top;">
@@ -162,17 +162,17 @@ and glorify You forever!
 
 <td style="vertical-align:top;">
 <div class="ethiopic"><span lang="am">
-ብሩክ፡አንተ፡እግዚኦ፡
-በዲበ፡በጽርሐ፡
-ቅዱሳት፡ስብሓቲከ፣
-ስብሓትሁ፡ለአምላከ፡ሰማይ፣
-አንተ፡አዶናይ።
-ለስሙ፡እልፍ፡ቡሩክ።
-ሃሌ።
-ስቡሕኒ፡ውእቱ፣
-ወርቱዓን፡ለዓለም፡መንበርከ
-ስቡሕኒ፡ውእቱ፣
-ወእኩትኒ፡አንተ፡ለዓለም።
+ብሩክ ፡ አንተ ፡ እግዚኦ ፡ 
+በዲበ ፡ በጽርሐ ፡ 
+ቅዱሳት ፡ ስብሓቲከ፣
+ስብሓትሁ ፡ ለአምላከ ፡ ሰማይ፣
+አንተ ፡ አዶናይ ። 
+ለስሙ ፡ እልፍ ፡ ቡሩክ ። 
+ሃሌ ። 
+ስቡሕኒ ፡ ውእቱ፣
+ወርቱዓን ፡ ለዓለም ፡ መንበርከ
+ስቡሕኒ ፡ ውእቱ፣
+ወእኩትኒ ፡ አንተ ፡ ለዓለም ። 
 </span></div></td>
  
 <td style="vertical-align:top;">
@@ -217,14 +217,14 @@ and exult the One forever.
 
 <td style="vertical-align:top;">
 <div class="ethiopic"><span lang="am">
-ብሩክ፡አንተ፡እግዚኦ፡
-ዘትሬኢ፡ቃላያት፡ንብርካ፣
-ልዑል፡ኪሩቤል፡
-ጽርሐ፡አርያም፡
-መንበርከ፡ልዑል።
-ሃሌ።
-ስቡሕኒ፡ውእቱ፣
-ወልዑልኒ፡ውእቱ፡ለዓለም።
+ብሩክ ፡ አንተ ፡ እግዚኦ ፡ 
+ዘትሬኢ ፡ ቃላያት ፡ ንብርካ፣
+ልዑል ፡ ኪሩቤል ፡ 
+ጽርሐ ፡ አርያም ፡ 
+መንበርከ ፡ ልዑል ። 
+ሃሌ ። 
+ስቡሕኒ ፡ ውእቱ፣
+ወልዑልኒ ፡ ውእቱ ፡ ለዓለም ። 
 </span></div></td>
  
 <td style="vertical-align:top;">
@@ -278,20 +278,20 @@ and exult the One forever.
 
 <td style="vertical-align:top;">
 <div class="ethiopic"><span lang="am">
-ብሩክ፡አንተ፡እግዚኦ፡
-በዲበ፡መንበር፡ስብሓቲከ፤
-መንግሥትከ፡መንግሥት፡ዘኢየሥዓር፣
-ወሐየልከ፡ዘኢየደክም፤
-ገጽከ፡ዘኢየመስን፣
-ርእየታ፡ገጹ፡ዘኢየተወለት፣
-ወመኮንን፡ዘኢየዓሌም፣
-ወመንበር፡ዘኢየኣንቀልቀል፣
-ወዐመቲከኒ፡ዘኢየኀልቅ።
-ጻድቅ፡አንተ፡አዶናይ፣
-ለዐለም፡ዐለም፡ቡሩክ።
-ሃሌ።
-ስቡሕኒ፡ውእቱ፣
-ወልዑልኒ፡ውእቱ፡ለዓለም።
+ብሩክ ፡ አንተ ፡ እግዚኦ ፡ 
+በዲበ ፡ መንበር ፡ ስብሓቲከ፤
+መንግሥትከ ፡ መንግሥት ፡ ዘኢየሥዓር፣
+ወሐየልከ ፡ ዘኢየደክም፤
+ገጽከ ፡ ዘኢየመስን፣
+ርእየታ ፡ ገጹ ፡ ዘኢየተወለት፣
+ወመኮንን ፡ ዘኢየዓሌም፣
+ወመንበር ፡ ዘኢየኣንቀልቀል፣
+ወዐመቲከኒ ፡ ዘኢየኀልቅ ። 
+ጻድቅ ፡ አንተ ፡ አዶናይ፣
+ለዐለም ፡ ዐለም ፡ ቡሩክ ። 
+ሃሌ ። 
+ስቡሕኒ ፡ ውእቱ፣
+ወልዑልኒ ፡ ውእቱ ፡ ለዓለም ። 
 </span></div></td>
  
 <td style="vertical-align:top;">
@@ -355,22 +355,22 @@ You are merciful and increase forgiveness.
 
 <td style="vertical-align:top;">
 <div class="ethiopic"><span lang="am">
-ብሩክ፡አንተ፡እግዚኦ፡
-ኵሉ፡ማይ፡ዘመልዕልተ፡ሰማያት፣
-በሐበ፡ትአይንት፡አርያም።
-እግዚኦ፡ዘሃሎ፡ወይሄሎ፡
-አምላከ፡አበዊነ፣
-እግዚኦ፡አምላከ፡አብርሃም፡
-እግዚኦ፡አምላከ፡ይስሐቅ፡
-እግዚኦ፡አምላከ፡ያዕቆብ፣
-እግዚኦ፡አምላከ፡እስራኤል፡
-ቅዱሳን፡ክቡሩ፡ከሃሊ፡ፍጹም፡
-ሰማያዊ፡ንጉስ፡
-ወቃሉ፡ንጹሕ።
-ሃሌ።
-ስቡሕኒ፡ውእቱ፣
-ወልዑልኒ፡ውእቱ፡ለዓለም።
-አንተ፡መሃሪ፡ወመስተ፡ሣህል።
+ብሩክ ፡ አንተ ፡ እግዚኦ ፡ 
+ኵሉ ፡ ማይ ፡ ዘመልዕልተ ፡ ሰማያት፣
+በሐበ ፡ ትአይንት ፡ አርያም ። 
+እግዚኦ ፡ ዘሃሎ ፡ ወይሄሎ ፡ 
+አምላከ ፡ አበዊነ፣
+እግዚኦ ፡ አምላከ ፡ አብርሃም ፡ 
+እግዚኦ ፡ አምላከ ፡ ይስሐቅ ፡ 
+እግዚኦ ፡ አምላከ ፡ ያዕቆብ፣
+እግዚኦ ፡ አምላከ ፡ እስራኤል ፡ 
+ቅዱሳን ፡ ክቡሩ ፡ ከሃሊ ፡ ፍጹም ፡ 
+ሰማያዊ ፡ ንጉስ ፡ 
+ወቃሉ ፡ ንጹሕ ። 
+ሃሌ ። 
+ስቡሕኒ ፡ ውእቱ፣
+ወልዑልኒ ፡ ውእቱ ፡ ለዓለም ። 
+አንተ ፡ መሃሪ ፡ ወመስተ ፡ ሣህል ። 
 </span></div></td>
  
 <td style="vertical-align:top;">

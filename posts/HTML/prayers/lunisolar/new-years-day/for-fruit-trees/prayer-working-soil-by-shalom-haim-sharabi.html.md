@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: כַּוָּנָה לִפְנֵי עֲבוֹדָה בְּאַדְמַת הַקֹּדֶשׁ | Kavvanah before working with the holy soil, by Rabbi Shalom Ḥayyim Sharabi (ca. 1911)<br />
+Title: כַּוָּנָה לִפְנֵי עֲבוֹדָה בְּאַדְמַת הַקֹּדֶשׁ | Kavvanah before working with the holy soil of Erets Yisrael, by Rabbi Shalom Ḥayyim Sharabi (ca. 1911)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=18767">http://opensiddur.org/?p=18767</a>
 <p />

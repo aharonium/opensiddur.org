@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: תְּפִילַּת הַנּוֹטֵעַ | Prayer for Tree Planting, by Rabbi Eliyahu Yosef She'ar Yashuv Cohen (2012)<br />
+Title: תְּפִילַּת הַנּוֹטֵעַ | Prayer for a Virtual Tree Planting in Israel, by Rabbi Eliyahu Yosef She'ar Yashuv Cohen (2012)<br />
 Primary contributor: aharon.n.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=20494">http://opensiddur.org/?p=20494</a>
 <p />

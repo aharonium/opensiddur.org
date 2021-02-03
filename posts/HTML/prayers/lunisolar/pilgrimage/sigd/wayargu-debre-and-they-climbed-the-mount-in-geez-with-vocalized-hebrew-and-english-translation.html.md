@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: Prayers for the Morning of Sigd: ወዐርጉ፡ደብር | Wäʿärəgu Däbərə (And They Climbed the Mount), in Ge'ez with vocalized Hebrew and English translation<br />
+Title: Prayers for the Morning of Sigd: ወዐርጉ ፡ ደብር | Wäʿärəgu Däbərə (And They Climbed the Mount), in Ge'ez with vocalized Hebrew and English translation<br />
 Primary contributor: isaac.gantwerk-mayer<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=27894">http://opensiddur.org/?p=27894</a>
 <p />
@@ -50,8 +50,8 @@ And they went up the mountain for all years.
 
 <td style="vertical-align:top;">
 <div class="ethiopic"><span lang="am">
-ወዐርጉ፡ደብር፡ለለዓመት፤
-ወዐርጉ፡ደብር፡ለለዓመቱ።
+ወዐርጉ ፡ ደብር ፡ ለለዓመት፤
+ወዐርጉ ፡ ደብር ፡ ለለዓመቱ ። 
 </span></div></td>
  
 <td style="vertical-align:top;">
@@ -75,8 +75,8 @@ So as to worship the Lord.
 
 <td style="vertical-align:top;">
 <div class="ethiopic"><span lang="am">
-ወዐርጉ፡ደብር፡ለለዓመቱ፤
-ከመ፡ይሰግዱ፡ለእግዚአብሔር።
+ወዐርጉ ፡ ደብር ፡ ለለዓመቱ፤
+ከመ ፡ ይሰግዱ ፡ ለእግዚአብሔር ። 
 </span></div></td>
  
 <td style="vertical-align:top;">
@@ -100,8 +100,8 @@ and read out before the Lord their God.
 
 <td style="vertical-align:top;">
 <div class="ethiopic"><span lang="am">
-ወዐርጉ፡ደብር፡ለለዓመቱ፤
-ወጸርሑ፡ኀበ፡እግዚአብሔር፡አምላኮሙ።
+ወዐርጉ ፡ ደብር ፡ ለለዓመቱ፤
+ወጸርሑ ፡ ኀበ ፡ እግዚአብሔር ፡ አምላኮሙ ። 
 </span></div></td>
  
 <td style="vertical-align:top;">
@@ -125,8 +125,8 @@ Levites in their positions.
 
 <td style="vertical-align:top;">
 <div class="ethiopic"><span lang="am">
-ሌዋዊያን፡በበ፡ምቅዋሞሙ፤
-ሌዋዊያን፡በበ፡መዐርጎሙ።
+ሌዋዊያን ፡ በበ ፡ ምቅዋሞሙ፤
+ሌዋዊያን ፡ በበ ፡ መዐርጎሙ ። 
 </span></div></td>
  
 <td style="vertical-align:top;">
@@ -150,8 +150,8 @@ and read out before the Lord their God.
 
 <td style="vertical-align:top;">
 <div class="ethiopic"><span lang="am">
-ቀዳምያል፡ሰጣርኤል፡አርአያሃ፤
-ወጸርሑ፡ኀበ፡እግዚአብሔር፡አምላኮሙ።
+ቀዳምያል ፡ ሰጣርኤል ፡ አርአያሃ፤
+ወጸርሑ ፡ ኀበ ፡ እግዚአብሔር ፡ አምላኮሙ ። 
 </span></div></td>
  
 <td style="vertical-align:top;">

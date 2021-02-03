@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: תפילה פרטית לשם הצבעה | Private Prayer for Voting, by Isaac Gantwerk Mayer<br />
+Title: תפילה פרטית לשם הצבעה | Private Prayer for Voting, by Isaac Gantwerk Mayer (2020)<br />
 Primary contributor: isaac-gantwerk.mayer<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=34076">http://opensiddur.org/?p=34076</a>
 <p />

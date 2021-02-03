@@ -26,463 +26,463 @@ Parashat Ki Tavō (Deuteronomy 26:1-29:8) in the annual Torah reading cycle is t
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="d1">כו <sup>א</sup>&nbsp;וְהָיָה֙ כִּֽי־תָב֣וֹא אֶל־הָאָ֔רֶץ אֲשֶׁר֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ נֹתֵ֥ן לְךָ֖ נַחֲלָ֑ה וִֽירִשְׁתָּ֖הּ וְיָשַׁ֥בְתָּ בָּֽהּ׃ <sup>ב</sup>&nbsp;וְלָקַחְתָּ֞ מֵרֵאשִׁ֣ית ׀ כׇּל־פְּרִ֣י הָאֲדָמָ֗ה אֲשֶׁ֨ר תָּבִ֧יא מֵֽאַרְצְךָ֛ אֲשֶׁ֨ר יְהֹוָ֧ה אֱלֹהֶ֛יךָ נֹתֵ֥ן לָ֖ךְ וְשַׂמְתָּ֣ בַטֶּ֑נֶא וְהָֽלַכְתָּ֙ אֶל־הַמָּק֔וֹם אֲשֶׁ֤ר יִבְחַר֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ לְשַׁכֵּ֥ן שְׁמ֖וֹ שָֽׁם׃ </span> <span class="dp"><sup>ג</sup>&nbsp;וּבָאתָ֙ אֶל־הַכֹּהֵ֔ן אֲשֶׁ֥ר יִהְיֶ֖ה בַּיָּמִ֣ים הָהֵ֑ם וְאָמַרְתָּ֣ אֵלָ֗יו הִגַּ֤דְתִּי הַיּוֹם֙ לַיהֹוָ֣ה אֱלֹהֶ֔יךָ כִּי־בָ֙אתִי֙ אֶל־הָאָ֔רֶץ אֲשֶׁ֨ר נִשְׁבַּ֧ע יְהֹוָ֛ה לַאֲבֹתֵ֖ינוּ לָ֥תֶת לָֽנוּ׃ <sup>ד</sup>&nbsp;וְלָקַ֧ח הַכֹּהֵ֛ן הַטֶּ֖נֶא מִיָּדֶ֑ךָ וְהִ֨נִּיח֔וֹ לִפְנֵ֕י מִזְבַּ֖ח יְהֹוָ֥ה אֱלֹהֶֽיךָ׃ </span> <span class="d1"><sup>ה</sup>&nbsp;וְעָנִ֨יתָ וְאָמַרְתָּ֜ לִפְנֵ֣י ׀ יְהֹוָ֣ה אֱלֹהֶ֗יךָ אֲרַמִּי֙ אֹבֵ֣ד אָבִ֔י וַיֵּ֣רֶד מִצְרַ֔יְמָה וַיָּ֥גׇר שָׁ֖ם בִּמְתֵ֣י מְעָ֑ט וַֽיְהִי־שָׁ֕ם לְג֥וֹי גָּד֖וֹל עָצ֥וּם וָרָֽב׃ <sup>ו</sup>&nbsp;וַיָּרֵ֧עוּ אֹתָ֛נוּ הַמִּצְרִ֖ים וַיְעַנּ֑וּנוּ וַיִּתְּנ֥וּ עָלֵ֖ינוּ עֲבֹדָ֥ה קָשָֽׁה׃ <sup>ז</sup>&nbsp;וַנִּצְעַ֕ק אֶל־יְהֹוָ֖ה אֱלֹהֵ֣י אֲבֹתֵ֑ינוּ וַיִּשְׁמַ֤ע יְהֹוָה֙ אֶת־קֹלֵ֔נוּ וַיַּ֧רְא אֶת־עׇנְיֵ֛נוּ וְאֶת־עֲמָלֵ֖נוּ וְאֶת־לַחֲצֵֽנוּ׃ <sup>ח</sup>&nbsp;וַיּוֹצִאֵ֤נוּ יְהֹוָה֙ מִמִּצְרַ֔יִם בְּיָ֤ד חֲזָקָה֙ וּבִזְרֹ֣עַ נְטוּיָ֔ה וּבְמֹרָ֖א גָּדֹ֑ל וּבְאֹת֖וֹת וּבְמֹפְתִֽים׃ <sup>ט</sup>&nbsp;וַיְבִאֵ֖נוּ אֶל־הַמָּק֣וֹם הַזֶּ֑ה וַיִּתֶּן־לָ֙נוּ֙ אֶת־הָאָ֣רֶץ הַזֹּ֔את אֶ֛רֶץ זָבַ֥ת חָלָ֖ב וּדְבָֽשׁ׃ <sup>י</sup>&nbsp;וְעַתָּ֗ה הִנֵּ֤ה הֵבֵ֙אתִי֙ אֶת־רֵאשִׁית֙ פְּרִ֣י הָאֲדָמָ֔ה אֲשֶׁר־נָתַ֥תָּה לִּ֖י יְהֹוָ֑ה וְהִנַּחְתּ֗וֹ לִפְנֵי֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ וְהִֽשְׁתַּחֲוִ֔יתָ לִפְנֵ֖י יְהֹוָ֥ה אֱלֹהֶֽיךָ׃ </span> <span class="d2"><sup>יא</sup>&nbsp;וְשָׂמַחְתָּ֣ בְכׇל־הַטּ֗וֹב אֲשֶׁ֧ר נָֽתַן־לְךָ֛ יְהֹוָ֥ה אֱלֹהֶ֖יךָ וּלְבֵיתֶ֑ךָ אַתָּה֙ וְהַלֵּוִ֔י וְהַגֵּ֖ר אֲשֶׁ֥ר בְּקִרְבֶּֽךָ׃</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="d1">28 <sup>1</sup>&nbsp;"Now it shall be: when you enter the land that YHVH your <em>elo'ah</em> is giving you as an inheritance, and you possess it and settle in it, <sup>2</sup>&nbsp;you are to take from the premier-part of all the fruit of the fertile-earth that you produce from your land that YHVH your <em>elo'ah</em> is giving you; you are to put it in a basket and are to go to the place that YHVH your <em>elo'ah</em> chooses to have his name dwell.</span> <span class="dp"><sup>3</sup>&nbsp;You are to come to the kohen that is (there) in those days, and you are to say to him: 'I announce today to YHVH your <em>elo'ah</em> that I have entered the land that YHVH swore to our fathers, to give us.' <sup>4</sup>&nbsp;Then the kohen is to take the basket from your hand and is to deposit it before the Mizbé'aḥ of YHVH your <em>elo'ah</em>.</span> <span class="d1"><sup>5</sup>&nbsp;And you are to speak up and say, before the presence of YHVH your <em>elo'ah</em>: 'An Aramean Astray my Ancestor; he went down to Mitsrayim and sojourned there, as menfolk few-in-number, but he became there a nation, great, mighty (in number) and many. <sup>6</sup>&nbsp;Now the Mitsrim dealt-ill with us and afflicted us, and placed upon us hard servitude. <sup>7</sup>&nbsp;We cried out to YHVH, the <em>elo'ah</em> of our fathers, and YHVH hearkened to our voice: he saw our affliction, and our strain, and our oppression, <sup>8</sup>&nbsp;and YHVH took us out from Mitsrayim, with a strong hand and with an outstretched arm, with great awe-inspiring (acts) and with signs and portents, <sup>9</sup>&nbsp;and he brought us to this place and gave us this land, a land flowing with milk and honey. <sup>10</sup>&nbsp;So now — here, I have brought the premier-part of the fruits of the fertile-earth that you have given me, O YHVH!' Then you are to deposit it before the presence of YHVH your <em>elo'ah</em> and you are to prostrate-yourself before the presence of YHVH your <em>elo'ah</em>;</span. <span class="d2"><sup>11</sup>&nbsp;you are to rejoice in all the good-things that YHVH your <em>elo'ah</em> has given you and your household, you and the Levi and the sojourner that is in your midst."</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="d2"><mark>שני</mark> <sup>יב</sup>&nbsp;כִּ֣י תְכַלֶּ֞ה לַ֠עְשֵׂ֠ר אֶת־כׇּל־מַעְשַׂ֧ר תְּבוּאָתְךָ֛ בַּשָּׁנָ֥ה הַשְּׁלִישִׁ֖ת שְׁנַ֣ת הַֽמַּעֲשֵׂ֑ר וְנָתַתָּ֣ה לַלֵּוִ֗י לַגֵּר֙ לַיָּת֣וֹם וְלָֽאַלְמָנָ֔ה וְאָכְל֥וּ בִשְׁעָרֶ֖יךָ וְשָׂבֵֽעוּ׃ <sup>יג</sup>&nbsp;וְאָמַרְתָּ֡ לִפְנֵי֩ יְהֹוָ֨ה אֱלֹהֶ֜יךָ בִּעַ֧רְתִּי הַקֹּ֣דֶשׁ מִן־הַבַּ֗יִת וְגַ֨ם נְתַתִּ֤יו לַלֵּוִי֙ וְלַגֵּר֙ לַיָּת֣וֹם וְלָאַלְמָנָ֔ה כְּכׇל־מִצְוָתְךָ֖ אֲשֶׁ֣ר צִוִּיתָ֑נִי לֹֽא־עָבַ֥רְתִּי מִמִּצְוֺתֶ֖יךָ וְלֹ֥א שָׁכָֽחְתִּי׃ <sup>יד</sup>&nbsp;לֹא־אָכַ֨לְתִּי בְאֹנִ֜י מִמֶּ֗נּוּ וְלֹא־בִעַ֤רְתִּי מִמֶּ֙נּוּ֙ בְּטָמֵ֔א וְלֹא־נָתַ֥תִּי מִמֶּ֖נּוּ לְמֵ֑ת שָׁמַ֗עְתִּי בְּקוֹל֙ יְהֹוָ֣ה אֱלֹהָ֔י עָשִׂ֕יתִי כְּכֹ֖ל אֲשֶׁ֥ר צִוִּיתָֽנִי׃ <sup>טו</sup>&nbsp;הַשְׁקִ֩יפָה֩ מִמְּע֨וֹן קׇדְשְׁךָ֜ מִן־הַשָּׁמַ֗יִם וּבָרֵ֤ךְ אֶֽת־עַמְּךָ֙ אֶת־יִשְׂרָאֵ֔ל וְאֵת֙ הָאֲדָמָ֔ה אֲשֶׁ֥ר נָתַ֖תָּה לָ֑נוּ כַּאֲשֶׁ֤ר נִשְׁבַּ֙עְתָּ֙ לַאֲבֹתֵ֔ינוּ אֶ֛רֶץ זָבַ֥ת חָלָ֖ב וּדְבָֽשׁ׃</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="d2"><sup>12</sup>&nbsp;"When you finish tithing all the tithe of your produce in the third year, the year of the tithe, you are to give (it) to the Levi, to the sojourner, to the orphan and to the widow; that they may eat (it) within your gates, and be-satisfied. <sup>13</sup>&nbsp;And you are to say, before the presence of YHVH your <em>elo'ah</em>: 'I have removed the holy-part from the house, I have also given (it) to the Levi, to the sojourner, to the orphan and to the widow, according to all your command that you have commanded me; I have not crossed-over away from your commandments, I have not forgotten: <sup>14</sup>&nbsp;I have not eaten of it while in sorrow, I have not removed any of it (while) tamei, I have not given any of it to the dead! I have hearkened to the voice of YHVH my <em>elo'ah</em>, I have done according to all that you have commanded me! <sup>15</sup>&nbsp;Look down from your holy abode, from heaven, and bless your people, Yisra'el, and the fertile-earth that you have given us, as you swore to our fathers, a land flowing with milk and honey.'"</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="dp"><mark>שלישי</mark> <sup>טז</sup>&nbsp;הַיּ֣וֹם הַזֶּ֗ה יְהֹוָ֨ה אֱלֹהֶ֜יךָ מְצַוְּךָ֧ לַעֲשׂ֛וֹת אֶת־הַחֻקִּ֥ים הָאֵ֖לֶּה וְאֶת־הַמִּשְׁפָּטִ֑ים וְשָׁמַרְתָּ֤ וְעָשִׂ֙יתָ֙ אוֹתָ֔ם בְּכׇל־לְבָבְךָ֖ וּבְכׇל־נַפְשֶֽׁךָ׃ <sup>יז</sup>&nbsp;אֶת־יְהֹוָ֥ה הֶאֱמַ֖רְתָּ הַיּ֑וֹם לִהְיוֹת֩ לְךָ֨ לֵֽאלֹהִ֜ים וְלָלֶ֣כֶת בִּדְרָכָ֗יו וְלִשְׁמֹ֨ר חֻקָּ֧יו וּמִצְוֺתָ֛יו וּמִשְׁפָּטָ֖יו וְלִשְׁמֹ֥עַ בְּקֹלֽוֹ׃ <sup>יח</sup>&nbsp;וַֽיהֹוָ֞ה הֶאֱמִֽירְךָ֣ הַיּ֗וֹם לִהְי֥וֹת לוֹ֙ לְעַ֣ם סְגֻלָּ֔ה כַּאֲשֶׁ֖ר דִּבֶּר־לָ֑ךְ וְלִשְׁמֹ֖ר כׇּל־מִצְוֺתָֽיו׃ <sup>יט</sup>&nbsp;וּֽלְתִתְּךָ֣ עֶלְי֗וֹן עַ֤ל כׇּל־הַגּוֹיִם֙ אֲשֶׁ֣ר עָשָׂ֔ה לִתְהִלָּ֖ה וּלְשֵׁ֣ם וּלְתִפְאָ֑רֶת וְלִֽהְיֹתְךָ֧ עַם־קָדֹ֛שׁ לַיהֹוָ֥ה אֱלֹהֶ֖יךָ כַּאֲשֶׁ֥ר דִּבֵּֽר׃</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="dp"><sup>16</sup>&nbsp;"This day YHVH your <em>elo'ah</em> commands you to observe these laws and the regulations; you are to take-care and observe them with all your heart and with all your being. <sup>17</sup>&nbsp;YHVH you have declared today, to be for you an <em>elohim</em>, to walk in his ways and to keep his laws, his commandments and his regulations, and to hearken to his voice. <sup>18</sup>&nbsp;And YHVH has declared you today, to be for him a specially-treasured people, as he promised you, to be-careful (regarding) all his commandments, <sup>19</sup>&nbsp;and to set you most-high above all the nations that he has made, for praise, for fame, and for honor, for you to be a people holy to YHVH your <em>elo'ah</em>, as he promised."</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="d2"><mark>רביעי</mark> כז <sup>א</sup>&nbsp;וַיְצַ֤ו מֹשֶׁה֙ וְזִקְנֵ֣י יִשְׂרָאֵ֔ל אֶת־הָעָ֖ם לֵאמֹ֑ר שָׁמֹר֙ אֶת־כׇּל־הַמִּצְוָ֔ה אֲשֶׁ֧ר אָנֹכִ֛י מְצַוֶּ֥ה אֶתְכֶ֖ם הַיּֽוֹם׃ <sup>ב</sup>&nbsp;וְהָיָ֗ה בַּיּוֹם֮ אֲשֶׁ֣ר תַּעַבְר֣וּ אֶת־הַיַּרְדֵּן֒ אֶל־הָאָ֕רֶץ אֲשֶׁר־יְהֹוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֣ן לָ֑ךְ וַהֲקֵמֹתָ֤ לְךָ֙ אֲבָנִ֣ים גְּדֹל֔וֹת וְשַׂדְתָּ֥ אֹתָ֖ם בַּשִּֽׂיד׃ <sup>ג</sup>&nbsp;וְכָתַבְתָּ֣ עֲלֵיהֶ֗ן אֶֽת־כׇּל־דִּבְרֵ֛י הַתּוֹרָ֥ה הַזֹּ֖את</span> <span class="dp">בְּעׇבְרֶ֑ךָ</span> <span class="d2">לְמַ֡עַן אֲשֶׁר֩ תָּבֹ֨א אֶל־הָאָ֜רֶץ אֲֽשֶׁר־יְהֹוָ֥ה אֱלֹהֶ֣יךָ ׀ נֹתֵ֣ן לְךָ֗ אֶ֣רֶץ זָבַ֤ת חָלָב֙ וּדְבַ֔שׁ כַּאֲשֶׁ֥ר דִּבֶּ֛ר יְהֹוָ֥ה אֱלֹהֵֽי־אֲבֹתֶ֖יךָ לָֽךְ׃ </span> <span class="dp"><sup>ד</sup>&nbsp;וְהָיָה֮ בְּעׇבְרְכֶ֣ם אֶת־הַיַּרְדֵּן֒ תָּקִ֜ימוּ אֶת־הָאֲבָנִ֣ים הָאֵ֗לֶּה אֲשֶׁ֨ר אָנֹכִ֜י מְצַוֶּ֥ה אֶתְכֶ֛ם הַיּ֖וֹם בְּהַ֣ר עֵיבָ֑ל וְשַׂדְתָּ֥ אוֹתָ֖ם בַּשִּֽׂיד׃ </span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="d2">27 <sup>1</sup>&nbsp;Now Mosheh and the elders of Yisra'el commanded the people, saying: "Keep all this commandment that I command you today! <sup>2</sup>&nbsp;And it shall be: at the time that you cross the Yarden into the land that YHVH your <em>elo'ah</em> is giving you, you are to set up for yourself great stones and are to plaster them with plaster; <sup>3</sup>&nbsp;you are to write on them all the words of this Torah/Instruction,</span> <span class="dp">when you cross over,</span> <span class="d2">in order that you may enter the land that YHVH your <em>elo'ah</em> is giving you, a land flowing with milk and honey, as YHVH, the <em>elo'ah</em> of your fathers, promised you.</span> <span class="dp"><sup>4</sup>&nbsp;Now it shall be, on your crossing the Yarden: set up these stones about which I command you today, on Mount Eval, and plaster them with plaster."</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="dp"><sup>ה</sup>&nbsp;וּבָנִ֤יתָ שָּׁם֙ מִזְבֵּ֔חַ לַיהֹוָ֖ה אֱלֹהֶ֑יךָ מִזְבַּ֣ח אֲבָנִ֔ים לֹא־תָנִ֥יף עֲלֵיהֶ֖ם בַּרְזֶֽל׃ <sup>ו</sup>&nbsp;אֲבָנִ֤ים שְׁלֵמוֹת֙ תִּבְנֶ֔ה אֶת־מִזְבַּ֖ח יְהֹוָ֣ה אֱלֹהֶ֑יךָ וְהַעֲלִ֤יתָ עָלָיו֙ עוֹלֹ֔ת לַיהֹוָ֖ה אֱלֹהֶֽיךָ׃ <sup>ז</sup>&nbsp;וְזָבַחְתָּ֥ שְׁלָמִ֖ים וְאָכַ֣לְתָּ שָּׁ֑ם וְשָׂ֣מַחְתָּ֔ לִפְנֵ֖י יְהֹוָ֥ה אֱלֹהֶֽיךָ׃ <sup>ח</sup>&nbsp;וְכָתַבְתָּ֣ עַל־הָאֲבָנִ֗ים אֶֽת־כׇּל־דִּבְרֵ֛י הַתּוֹרָ֥ה הַזֹּ֖את בַּאֵ֥ר הֵיטֵֽב׃</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="dp"><sup>5</sup>&nbsp;"You are to build there a Mizbé'aḥ to YHVH your <em>elo'ah</em>, a Mizbé'aḥ of stones; you are not to swing against them (any) iron. <sup>6</sup>&nbsp;(With) complete stones you are to build the Mizbé'aḥ of YHVH your <em>elo'ah</em>, you are to offer-up on it offerings-up to YHVH your <em>elo'ah</em>. <sup>7</sup>&nbsp;When you slaughter shalom-offerings, you may eat (them) there, and you are to rejoice before the presence of YHVH your <em>elo'ah</em>. <sup>8</sup>&nbsp;And you are to write on the stones all the words of this Torah/Instruction, explained well."</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="d2"><sup>ט</sup>&nbsp;וַיְדַבֵּ֤ר מֹשֶׁה֙ וְהַכֹּהֲנִ֣ים הַלְוִיִּ֔ם אֶ֥ל כׇּל־יִשְׂרָאֵ֖ל לֵאמֹ֑ר הַסְכֵּ֤ת ׀ וּשְׁמַע֙ יִשְׂרָאֵ֔ל הַיּ֤וֹם הַזֶּה֙ נִהְיֵ֣יתָֽ לְעָ֔ם לַיהֹוָ֖ה אֱלֹהֶֽיךָ׃ <sup>י</sup>&nbsp;וְשָׁ֣מַעְתָּ֔ בְּק֖וֹל יְהֹוָ֣ה אֱלֹהֶ֑יךָ וְעָשִׂ֤יתָ אֶת־מִצְוֺתָו֙ וְאֶת־חֻקָּ֔יו אֲשֶׁ֛ר אָנֹכִ֥י מְצַוְּךָ֖ הַיּֽוֹם׃</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="d2"><sup>9</sup>&nbsp;Now Mosheh and the Levite kohanim spoke to all Yisra'el, saying: "Be-silent and hearken, O Yisra'el: This day you are becoming a people to YHVH your <em>elo'ah</em>. <sup>10</sup>&nbsp;You are to hearken to the voice of YHVH your <em>elo'ah</em>, you are to observe his commandments and his laws that I command you today!"</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="dp"><mark>חמישי</mark> <sup>יא</sup>&nbsp;וַיְצַ֤ו מֹשֶׁה֙ אֶת־הָעָ֔ם בַּיּ֥וֹם הַה֖וּא לֵאמֹֽר׃ <sup>יב</sup>&nbsp;אֵ֠לֶּה יַֽעַמְד֞וּ לְבָרֵ֤ךְ אֶת־הָעָם֙ עַל־הַ֣ר גְּרִזִ֔ים בְּעׇבְרְכֶ֖ם אֶת־הַיַּרְדֵּ֑ן שִׁמְעוֹן֙ וְלֵוִ֣י וִֽיהוּדָ֔ה וְיִשָּׂשכָ֖ר וְיוֹסֵ֥ף וּבִנְיָמִֽן׃ <sup>יג</sup>&nbsp;וְאֵ֛לֶּה יַֽעַמְד֥וּ עַל־הַקְּלָלָ֖ה בְּהַ֣ר עֵיבָ֑ל רְאוּבֵן֙ גָּ֣ד וְאָשֵׁ֔ר וּזְבוּלֻ֖ן דָּ֥ן וְנַפְתָּלִֽי׃ <sup>יד</sup>&nbsp;וְעָנ֣וּ הַלְוִיִּ֗ם וְאָ֥מְר֛וּ אֶל־כׇּל־אִ֥ישׁ יִשְׂרָאֵ֖ל ק֥וֹל רָֽם׃</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="dp"><sup>11</sup>&nbsp;And Mosheh commanded the people at that time, saying: <sup>12</sup>&nbsp;"These you are to stand to bless the people, on Mount Gerizim, when you have crossed the Yarden: Shim'on, Levi, and Yehudah, Yissakhar, Yosef, and Binyamin. <sup>13</sup>&nbsp;And these you are to stand for the curse, on Mount Eval: Re'uven, Gad, and Asher, Zevulun, Dan, and Naftali. <sup>14</sup>&nbsp;And all the Levi'im are to speak up and say to every man of Yisra'el, (with) voice raised:"</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="dp"><sup>טו</sup>&nbsp;אָר֣וּר הָאִ֡ישׁ אֲשֶׁ֣ר יַעֲשֶׂה֩ פֶ֨סֶל וּמַסֵּכָ֜ה תּוֹעֲבַ֣ת יְהֹוָ֗ה מַעֲשֵׂ֛ה יְדֵ֥י חָרָ֖שׁ וְשָׂ֣ם בַּסָּ֑תֶר וְעָנ֧וּ כׇל־הָעָ֛ם וְאָמְר֖וּ אָמֵֽן׃</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="dp"><sup>15</sup>&nbsp;"'Damned be the man who makes a carved-image or molten-thing, an abomination to YHVH, made by the hands of an engraver, and sets (it) up in secret!' And all the people are to speak up and say: '<em>Amen</em>!'" </span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="dp"><sup>טז</sup>&nbsp;אָר֕וּר מַקְלֶ֥ה אָבִ֖יו וְאִמּ֑וֹ וְאָמַ֥ר כׇּל־הָעָ֖ם אָמֵֽן׃</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="dp"><sup>16</sup>&nbsp;"'Damned be he that insults his father or his mother!' And all the people are to say: '<em>Amen</em>!'" </span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="dp"><sup>יז</sup>&nbsp;אָר֕וּר מַסִּ֖יג גְּב֣וּל רֵעֵ֑הוּ וְאָמַ֥ר כׇּל־הָעָ֖ם אָמֵֽן׃</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="dp"><sup>17</sup>&nbsp;"'Damned be he that moves back the territory-marker of his neighbor!' And all the people are to say: '<em>Amen</em>!'" </span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="dp"><sup>יח</sup>&nbsp;אָר֕וּר מַשְׁגֶּ֥ה עִוֵּ֖ר בַּדָּ֑רֶךְ וְאָמַ֥ר כׇּל־הָעָ֖ם אָמֵֽן׃</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="dp"><sup>18</sup>&nbsp;"'Damned be he that leads-astray a blind-person in the way!' And all the people are to say: '<em>Amen</em>!'" </span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="dp"><sup>יט</sup>&nbsp;אָר֗וּר מַטֶּ֛ה מִשְׁפַּ֥ט גֵּר־יָת֖וֹם וְאַלְמָנָ֑ה וְאָמַ֥ר כׇּל־הָעָ֖ם אָמֵֽן׃ ‏[foot]ספק פרשה סתומה בכתר ארם צובה[/foot]</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="dp"><sup>19</sup>&nbsp;"'Damned be he that casts aside the case of a sojourner, an orphan, or a widow!' And all the people are to say: '<em>Amen</em>!'" </span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="dp"><sup>כ</sup>&nbsp;אָר֗וּר שֹׁכֵב֙ עִם־אֵ֣שֶׁת אָבִ֔יו כִּ֥י גִלָּ֖ה כְּנַ֣ף אָבִ֑יו וְאָמַ֥ר כׇּל־הָעָ֖ם אָמֵֽן׃</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="dp"><sup>20</sup>&nbsp;"'Damned be he that lies with the wife of his father, for he has exposed the skirt of his father!' And all the people are to say: '<em>Amen</em>!'" </span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="dp"><sup>כא</sup>&nbsp;אָר֕וּר שֹׁכֵ֖ב עִם־כׇּל־בְּהֵמָ֑ה וְאָמַ֥ר כׇּל־הָעָ֖ם אָמֵֽן׃</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="dp"><sup>21</sup>&nbsp;"'Damned be he that lies with any animal!' And all the people are to say: '<em>Amen</em>!'" </span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="dp"><sup>כב</sup>&nbsp;אָר֗וּר שֹׁכֵב֙ עִם־אֲחֹת֔וֹ בַּת־אָבִ֖יו א֣וֹ בַת־אִמּ֑וֹ וְאָמַ֥ר כׇּל־הָעָ֖ם אָמֵֽן׃</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="dp"><sup>22</sup>&nbsp;"'Damned be he that lies with his sister, the daughter of his father or the daughter of his mother!' And all the people are to say: '<em>Amen</em>!'" </span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="dp"><sup>כג</sup>&nbsp;אָר֕וּר שֹׁכֵ֖ב עִם־חֹֽתַנְתּ֑וֹ וְאָמַ֥ר כׇּל־הָעָ֖ם אָמֵֽן׃</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="dp"><sup>23</sup>&nbsp;"'Damned be he that lies with his mother-in-law!' And all the people are to say: '<em>Amen</em>!'" </span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="dp"><sup>כד</sup>&nbsp;אָר֕וּר מַכֵּ֥ה רֵעֵ֖הוּ בַּסָּ֑תֶר וְאָמַ֥ר כׇּל־הָעָ֖ם אָמֵֽן׃</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="dp"><sup>24</sup>&nbsp;"'Damned be he that strikes down his neighbor in secret!' And all the people are to say: '<em>Amen</em>!'" </span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="dp"><sup>כה</sup>&nbsp;אָרוּר֙ לֹקֵ֣חַ שֹׁ֔חַד לְהַכּ֥וֹת נֶ֖פֶשׁ דָּ֣ם נָקִ֑י וְאָמַ֥ר כׇּל־הָעָ֖ם אָמֵֽן׃</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="dp"><sup>25</sup>&nbsp;"'Damned be he that takes a bribe, (thus) striking-down a life (through) innocent blood!' And all the people are to say: '<em>Amen</em>!'" </span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="dp"><sup>כו</sup>&nbsp;אָר֗וּר אֲשֶׁ֧ר לֹא־יָקִ֛ים אֶת־דִּבְרֵ֥י הַתּוֹרָֽה־הַזֹּ֖את לַעֲשׂ֣וֹת אוֹתָ֑ם וְאָמַ֥ר כׇּל־הָעָ֖ם אָמֵֽן׃</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="dp"><sup>26</sup>&nbsp;"'Damned be he that does not fulfill the words of this Torah/Instruction, to observe them!' And all the people are to say: '<em>Amen</em>!'" </span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="d1">כח <sup>א</sup>&nbsp;וְהָיָ֗ה אִם־שָׁמ֤וֹעַ תִּשְׁמַע֙ בְּקוֹל֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ לִשְׁמֹ֤ר לַעֲשׂוֹת֙ אֶת־כׇּל־מִצְוֺתָ֔יו אֲשֶׁ֛ר אָנֹכִ֥י מְצַוְּךָ֖ הַיּ֑וֹם</span> <span class="dp">וּנְתָ֨נְךָ֜ יְהֹוָ֤ה אֱלֹהֶ֙יךָ֙ עֶלְי֔וֹן עַ֖ל כׇּל־גּוֹיֵ֥י הָאָֽרֶץ׃ </span> <span class="d1"><sup>ב</sup>&nbsp;וּבָ֧אוּ עָלֶ֛יךָ כׇּל־הַבְּרָכ֥וֹת הָאֵ֖לֶּה וְהִשִּׂיגֻ֑ךָ</span> <span class="dp">כִּ֣י תִשְׁמַ֔ע בְּק֖וֹל יְהֹוָ֥ה אֱלֹהֶֽיךָ׃ </span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="d1">28 <sup>1</sup>&nbsp;"Now it shall be: if you hearken, yes, hearken, to the voice of YHVH your <em>elo'ah</em>, taking-care to observe all his commandments that I command you today,</span> <span class="dp">then YHVH your <em>elo'ah</em> will make you most-high above all the nations of the earth.</span> <span class="d1"><sup>2</sup>&nbsp;Then there will come upon you all these blessings, and overtake you,</span> <span class="dp">since you have hearkened to the voice of YHVH your <em>elo'ah</em>:"</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="d1"><sup>ג</sup>&nbsp;בָּר֥וּךְ אַתָּ֖ה בָּעִ֑יר וּבָר֥וּךְ אַתָּ֖ה בַּשָּׂדֶֽה׃ </span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="d1"><sup>3</sup>&nbsp;"Blessed be you, in the town, blessed be you, in the (open) field."</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="d1"><sup>ד</sup>&nbsp;בָּר֧וּךְ פְּרִֽי־בִטְנְךָ֛ וּפְרִ֥י אַדְמָתְךָ֖ וּפְרִ֣י בְהֶמְתֶּ֑ךָ שְׁגַ֥ר אֲלָפֶ֖יךָ וְעַשְׁתְּר֥וֹת צֹאנֶֽךָ׃ </span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="d1"><sup>4</sup>&nbsp;"Blessed be the fruit of your womb, the fruit of your fertile-earth, and the fruit of your domesticated animals, the offspring of your cattle and the fecundity of your sheep."</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="d1"><sup>ה</sup>&nbsp;בָּר֥וּךְ טַנְאֲךָ֖ וּמִשְׁאַרְתֶּֽךָ׃ </span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="d1"><sup>5</sup>&nbsp;"Blessed be your basket and your kneading-bowl."</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="d1"><sup>ו</sup>&nbsp;בָּר֥וּךְ אַתָּ֖ה בְּבֹאֶ֑ךָ וּבָר֥וּךְ אַתָּ֖ה בְּצֵאתֶֽךָ׃ </span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="d1"><sup>6</sup>&nbsp;"Blessed be you, in your coming-in, blessed be you, in your going-out."</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="d2"><mark>ששי</mark> <sup>ז</sup>&nbsp;יִתֵּ֨ן יְהֹוָ֤ה אֶת־אֹיְבֶ֙יךָ֙ הַקָּמִ֣ים עָלֶ֔יךָ נִגָּפִ֖ים לְפָנֶ֑יךָ בְּדֶ֤רֶךְ אֶחָד֙ יֵצְא֣וּ אֵלֶ֔יךָ וּבְשִׁבְעָ֥ה דְרָכִ֖ים יָנ֥וּסוּ לְפָנֶֽיךָ׃ </span> <span class="d1"><sup>ח</sup>&nbsp;יְצַ֨ו יְהֹוָ֤ה אִתְּךָ֙ אֶת־הַבְּרָכָ֔ה בַּאֲסָמֶ֕יךָ וּבְכֹ֖ל מִשְׁלַ֣ח יָדֶ֑ךָ וּבֵ֣רַכְךָ֔ בָּאָ֕רֶץ אֲשֶׁר־יְהֹוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֥ן לָֽךְ׃ </span> <span class="dp"><sup>ט</sup>&nbsp;יְקִֽימְךָ֨ יְהֹוָ֥ה לוֹ֙ לְעַ֣ם קָד֔וֹשׁ כַּאֲשֶׁ֖ר נִֽשְׁבַּֽע־לָ֑ךְ כִּ֣י תִשְׁמֹ֗ר אֶת־מִצְוֺת֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ וְהָלַכְתָּ֖ בִּדְרָכָֽיו׃ <sup>י</sup>&nbsp;וְרָאוּ֙ כׇּל־עַמֵּ֣י הָאָ֔רֶץ כִּ֛י שֵׁ֥ם יְהֹוָ֖ה נִקְרָ֣א עָלֶ֑יךָ וְיָֽרְא֖וּ מִמֶּֽךָּ׃ </span> <span class="d1"><sup>יא</sup>&nbsp;וְהוֹתִרְךָ֤ יְהֹוָה֙ לְטוֹבָ֔ה בִּפְרִ֧י בִטְנְךָ֛ וּבִפְרִ֥י בְהֶמְתְּךָ֖ וּבִפְרִ֣י אַדְמָתֶ֑ךָ עַ֚ל הָאֲדָמָ֔ה אֲשֶׁ֨ר נִשְׁבַּ֧ע יְהֹוָ֛ה לַאֲבֹתֶ֖יךָ לָ֥תֶת לָֽךְ׃ <sup>יב</sup>&nbsp;יִפְתַּ֣ח יְהֹוָ֣ה ׀ לְ֠ךָ֠ אֶת־אוֹצָר֨וֹ הַטּ֜וֹב אֶת־הַשָּׁמַ֗יִם לָתֵ֤ת מְטַֽר־אַרְצְךָ֙ בְּעִתּ֔וֹ וּלְבָרֵ֕ךְ אֵ֖ת כׇּל־מַעֲשֵׂ֣ה יָדֶ֑ךָ</span> <span class="dp">וְהִלְוִ֙יתָ֙ גּוֹיִ֣ם רַבִּ֔ים וְאַתָּ֖ה לֹ֥א תִלְוֶֽה׃ </span> <span class="d1"><sup>יג</sup>&nbsp;וּנְתָֽנְךָ֨ יְהֹוָ֤ה לְרֹאשׁ֙ וְלֹ֣א לְזָנָ֔ב וְהָיִ֙יתָ֙ רַ֣ק לְמַ֔עְלָה וְלֹ֥א תִהְיֶ֖ה לְמָ֑טָּה כִּֽי־תִשְׁמַ֞ע אֶל־מִצְוֺ֣ת ׀ יְהֹוָ֣ה אֱלֹהֶ֗יךָ אֲשֶׁ֨ר אָנֹכִ֧י מְצַוְּךָ֛ הַיּ֖וֹם לִשְׁמֹ֥ר וְלַעֲשֽׂוֹת׃ </span> <span class="dp"><sup>יד</sup>&nbsp;וְלֹ֣א תָס֗וּר מִכׇּל־הַדְּבָרִים֙ אֲשֶׁ֨ר אָנֹכִ֜י מְצַוֶּ֥ה אֶתְכֶ֛ם הַיּ֖וֹם יָמִ֣ין וּשְׂמֹ֑אול לָלֶ֗כֶת אַחֲרֵ֛י אֱלֹהִ֥ים אֲחֵרִ֖ים לְעׇבְדָֽם׃</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="d2"><sup>7</sup>&nbsp;"May YHVH make your enemies, those that rise against you, be smitten before you; by one road they will go out against you, by seven roads they will flee before you.</span> <span class="d1"><sup>8</sup>&nbsp;YHVH will ordain for you the blessing in your storehouses, in all the enterprises of your hand, and he will bless you in the land that YHVH your <em>elo'ah</em> is giving you.</span> <span class="dp"><sup>9</sup>&nbsp;YHVH will establish you to be a people holy to him, as he swore to you, when you keep the commandments of YHVH your <em>elo'ah</em> and walk in his ways. <sup>10</sup>&nbsp;Now when all the peoples of the earth see that the name of YHVH is proclaimed over you, they will hold you in awe.</span> <span class="d1"><sup>11</sup>&nbsp;YHVH will leave-excess for you of good-things, in the fruit of your womb, the fruit of your domesticated animals, and the fruit of your fertile-earth, on the fertile-earth that YHVH swore to your fathers, to give them. <sup>12</sup>&nbsp;YHVH will open for you his goodly treasuries, the heavens, by giving the rain of your land in its set-time, and by blessing all the doings of your hand; you will lend to many nations, but you yourself will not have to take-a-loan.</span. <span class="d1"><sup>13</sup>&nbsp;YHVH will make you the head and not the tail, you will be only top, you will not be bottom, — if you hearken to the commandments of YHVH your <em>elo'ah</em> which I command you today, by taking-care and by observing (them),</span> <span class="dp"><sup>14</sup>&nbsp;that you not turn-aside from all the words that I command you today, to the right or to the left, by walking after other gods, by serving them."</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="d1"><sup>טו</sup>&nbsp;וְהָיָ֗ה אִם־לֹ֤א תִשְׁמַע֙ בְּקוֹל֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ לִשְׁמֹ֤ר לַעֲשׂוֹת֙ אֶת־כׇּל־מִצְוֺתָ֣יו וְחֻקֹּתָ֔יו אֲשֶׁ֛ר אָנֹכִ֥י מְצַוְּךָ֖ הַיּ֑וֹם וּבָ֧אוּ עָלֶ֛יךָ כׇּל־הַקְּלָל֥וֹת הָאֵ֖לֶּה וְהִשִּׂיגֽוּךָ׃ </span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="d1"><sup>15</sup>&nbsp;"But it shall be: If you do not hearken to the voice of YHVH your <em>elo'ah</em>, by taking-care and by observing all his commandments and his laws that I command you today, then there will come upon you all these curses, and overtake you:"</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="d1"><sup>טז</sup>&nbsp;אָר֥וּר אַתָּ֖ה בָּעִ֑יר וְאָר֥וּר אַתָּ֖ה בַּשָּׂדֶֽה׃ </span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="d1"><sup>16</sup>&nbsp;"Damned be you, in the town, damned be you, in the (open) field."</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="d1"><sup>יז</sup>&nbsp;אָר֥וּר טַנְאֲךָ֖ וּמִשְׁאַרְתֶּֽךָ׃ </span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="d1"><sup>17</sup>&nbsp;"Damned be your basket and your kneading-bowl."</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="d1"><sup>יח</sup>&nbsp;אָר֥וּר פְּרִֽי־בִטְנְךָ֖ וּפְרִ֣י אַדְמָתֶ֑ךָ שְׁגַ֥ר אֲלָפֶ֖יךָ וְעַשְׁתְּרֹ֥ת צֹאנֶֽךָ׃ </span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="d1"><sup>18</sup>&nbsp;"Damned be the fruit of your womb and the fruit of your fertile-earth, the offspring of your cattle and the fecundity of your sheep."</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="d1"><sup>יט</sup>&nbsp;אָר֥וּר אַתָּ֖ה בְּבֹאֶ֑ךָ וְאָר֥וּר אַתָּ֖ה בְּצֵאתֶֽךָ׃ </span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="d1"><sup>19</sup>&nbsp;"Damned be you, in your coming-in, damned be you, in your going-out."</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="d2"><sup>כ</sup>&nbsp;יְשַׁלַּ֣ח יְהֹוָ֣ה ׀ בְּ֠ךָ֠ אֶת־הַמְּאֵרָ֤ה אֶת־הַמְּהוּמָה֙ וְאֶת־הַמִּגְעֶ֔רֶת בְּכׇל־מִשְׁלַ֥ח יָדְךָ֖ אֲשֶׁ֣ר תַּעֲשֶׂ֑ה עַ֣ד הִשָּׁמֶדְךָ֤ וְעַד־אֲבׇדְךָ֙ מַהֵ֔ר מִפְּנֵ֛י רֹ֥עַ מַֽעֲלָלֶ֖יךָ אֲשֶׁ֥ר עֲזַבְתָּֽנִי׃ <sup>כא</sup>&nbsp;יַדְבֵּ֧ק יְהֹוָ֛ה בְּךָ֖ אֶת־הַדָּ֑בֶר עַ֚ד כַּלֹּת֣וֹ אֹֽתְךָ֔ מֵעַל֙ הָאֲדָמָ֔ה אֲשֶׁר־אַתָּ֥ה בָא־שָׁ֖מָּה לְרִשְׁתָּֽהּ׃ <sup>כב</sup>&nbsp;יַכְּכָ֣ה יְ֠הֹוָ֠ה בַּשַּׁחֶ֨פֶת וּבַקַּדַּ֜חַת וּבַדַּלֶּ֗קֶת וּבַֽחַרְחֻר֙ וּבַחֶ֔רֶב וּבַשִּׁדָּפ֖וֹן וּבַיֵּרָק֑וֹן וּרְדָפ֖וּךָ עַ֥ד אׇבְדֶֽךָ׃ </span> <span class="d1"><sup>כג</sup>&nbsp;וְהָי֥וּ שָׁמֶ֛יךָ אֲשֶׁ֥ר עַל־רֹאשְׁךָ֖ נְחֹ֑שֶׁת וְהָאָ֥רֶץ אֲשֶׁר־תַּחְתֶּ֖יךָ בַּרְזֶֽל׃ </span> <span class="d2"><sup>כד</sup>&nbsp;יִתֵּ֧ן יְהֹוָ֛ה אֶת־מְטַ֥ר אַרְצְךָ֖ אָבָ֣ק וְעָפָ֑ר מִן־הַשָּׁמַ֙יִם֙ יֵרֵ֣ד עָלֶ֔יךָ עַ֖ד הִשָּׁמְדָֽךְ׃ <sup>כה</sup>&nbsp;יִתֶּנְךָ֨ יְהֹוָ֥ה ׀ נִגָּף֮ לִפְנֵ֣י אֹיְבֶ֒יךָ֒ בְּדֶ֤רֶךְ אֶחָד֙ תֵּצֵ֣א אֵלָ֔יו וּבְשִׁבְעָ֥ה דְרָכִ֖ים תָּנ֣וּס לְפָנָ֑יו</span> <span class="dp">וְהָיִ֣יתָ לְזַֽעֲוָ֔ה לְכֹ֖ל מַמְלְכ֥וֹת הָאָֽרֶץ׃ </span> <span class="d2"><sup>כו</sup>&nbsp;וְהָיְתָ֤ה נִבְלָֽתְךָ֙ לְמַֽאֲכָ֔ל לְכׇל־ע֥וֹף הַשָּׁמַ֖יִם וּלְבֶהֱמַ֣ת הָאָ֑רֶץ וְאֵ֖ין מַחֲרִֽיד׃ </span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="d2"><sup>20</sup>&nbsp;"YHVH will send-forth against you Curse, Confusion and Reproach, against all the enterprises of your hand that you do, until you have been destroyed, until you have perished quickly because of the evil of your deeds by which you have abandoned me. <sup>21</sup>&nbsp;YHVH will make-cling to you the pestilence, until it has finished you off from the fertile-earth that you are entering to possess. <sup>22</sup>&nbsp;YHVH will strike you with consumption, with fever and with inflammation, with violent-fever and with dehydration, with blight and with jaundice; they will pursue you until you are destroyed.</span> <span class="d1"><sup>23</sup>&nbsp;The heavens that are above your head will become bronze, and the earth that is beneath you, iron.</span> <span class="d2"><sup>24</sup>&nbsp;YHVH will make the rain of your land powder and dust; from the heavens it will come-down upon you until you perish. <sup>25</sup>&nbsp;YHVH will cause you to be smitten before your enemies: by one road you will go-out against them, by seven roads you will flee before them</span> <span class="dp">— you will become an object-of-fright to all the kingdoms of the earth.</span> <span class="d2"><sup>26</sup>&nbsp;Your carcass will be for eating for all the birds of the heavens and for the animals of the earth, with none to make (them) tremble."</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="d2"><sup>כז</sup>&nbsp;יַכְּכָ֨ה יְהֹוָ֜ה בִּשְׁחִ֤ין מִצְרַ֙יִם֙ ובעפלים וּבַטְּחֹרִ֔ים וּבַגָּרָ֖ב וּבֶחָ֑רֶס אֲשֶׁ֥ר לֹא־תוּכַ֖ל לְהֵרָפֵֽא׃ <sup>כח</sup>&nbsp;יַכְּכָ֣ה יְהֹוָ֔ה בְּשִׁגָּע֖וֹן וּבְעִוָּר֑וֹן וּבְתִמְה֖וֹן לֵבָֽב׃ <sup>כט</sup>&nbsp;וְהָיִ֜יתָ מְמַשֵּׁ֣שׁ בַּֽצׇּהֳרַ֗יִם כַּאֲשֶׁ֨ר יְמַשֵּׁ֤שׁ הַֽעִוֵּר֙ בָּאֲפֵלָ֔ה וְלֹ֥א תַצְלִ֖יחַ אֶת־דְּרָכֶ֑יךָ וְהָיִ֜יתָ אַ֣ךְ עָשׁ֧וּק וְגָז֛וּל כׇּל־הַיָּמִ֖ים וְאֵ֥ין מוֹשִֽׁיעַ׃ <sup>ל</sup>&nbsp;אִשָּׁ֣ה תְאָרֵ֗שׂ וְאִ֤ישׁ אַחֵר֙ ישגלנה יִשְׁכָּבֶ֔נָּה בַּ֥יִת תִּבְנֶ֖ה וְלֹא־תֵשֵׁ֣ב בּ֑וֹ כֶּ֥רֶם תִּטַּ֖ע וְלֹ֥א תְחַלְּלֶֽנּוּ׃ <sup>לא</sup>&nbsp;שׁוֹרְךָ֞ טָב֣וּחַ לְעֵינֶ֗יךָ וְלֹ֣א תֹאכַל֮ מִמֶּ֒נּוּ֒ חֲמֹֽרְךָ֙ גָּז֣וּל מִלְּפָנֶ֔יךָ וְלֹ֥א יָשׁ֖וּב לָ֑ךְ צֹֽאנְךָ֙ נְתֻנ֣וֹת לְאֹיְבֶ֔יךָ וְאֵ֥ין לְךָ֖ מוֹשִֽׁיעַ׃ <sup>לב</sup>&nbsp;בָּנֶ֨יךָ וּבְנֹתֶ֜יךָ נְתֻנִ֨ים לְעַ֤ם אַחֵר֙ וְעֵינֶ֣יךָ רֹא֔וֹת וְכָל֥וֹת אֲלֵיהֶ֖ם כׇּל־הַיּ֑וֹם וְאֵ֥ין לְאֵ֖ל יָדֶֽךָ׃ <sup>לג</sup>&nbsp;פְּרִ֤י אַדְמָֽתְךָ֙ וְכׇל־יְגִ֣יעֲךָ֔ יֹאכַ֥ל עַ֖ם אֲשֶׁ֣ר לֹא־יָדָ֑עְתָּ וְהָיִ֗יתָ רַ֛ק עָשׁ֥וּק וְרָצ֖וּץ כׇּל־הַיָּמִֽים׃ <sup>לד</sup>&nbsp;וְהָיִ֖יתָ מְשֻׁגָּ֑ע מִמַּרְאֵ֥ה עֵינֶ֖יךָ אֲשֶׁ֥ר תִּרְאֶֽה׃ </span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="d2"><sup>27</sup>&nbsp;"YHVH will strike you with boils of Mitsrayim and with tumors, with scabs, and with itching, from which you cannot be healed; <sup>28</sup>&nbsp;YHVH will strike you with madness, with blindness, and with confusion of heart. <sup>29</sup>&nbsp;You will feel-about at noon like a blind-person feels about in deep-darkness, you will not make your way succeed; you will be, oh so withheld-from and robbed all the days, with no deliverer. <sup>30</sup>&nbsp;A woman you will betroth, but another man will lie with her, a house you will build, but you will not dwell in it, a vineyard you will plant, but you will not put-it-to-use, <sup>31</sup>&nbsp;your ox (will be) slaughtered before your eyes, but you will not eat of it, your donkey will be robbed (from you) in front of you, but it will not return to you, your sheep will be given to your enemies, with no deliverer for you. <sup>32</sup>&nbsp;Your sons and your daughters will be given to another people, while your eyes look on and languish for them all the day, with no <em>el</em>/divine-power to your hand. <sup>33</sup>&nbsp;The fruit of your fertile-earth and all that-you-toil-for will be consumed by a people that you have not known, you will be only withheld-from and downtrodden all the days, <sup>34</sup>&nbsp;and you will go mad from the sight of your eyes that you see!"</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="d2"><sup>לה</sup>&nbsp;יַכְּכָ֨ה יְהֹוָ֜ה בִּשְׁחִ֣ין רָ֗ע עַל־הַבִּרְכַּ֙יִם֙ וְעַל־הַשֹּׁקַ֔יִם אֲשֶׁ֥ר לֹא־תוּכַ֖ל לְהֵרָפֵ֑א מִכַּ֥ף רַגְלְךָ֖ וְעַ֥ד קׇדְקֳדֶֽךָ׃ </span> <span class="dp"><sup>לו</sup>&nbsp;יוֹלֵ֨ךְ יְהֹוָ֜ה אֹתְךָ֗ וְאֶֽת־מַלְכְּךָ֙ אֲשֶׁ֣ר תָּקִ֣ים עָלֶ֔יךָ אֶל־גּ֕וֹי אֲשֶׁ֥ר לֹא־יָדַ֖עְתָּ אַתָּ֣ה וַאֲבֹתֶ֑יךָ וְעָבַ֥דְתָּ שָּׁ֛ם אֱלֹהִ֥ים אֲחֵרִ֖ים עֵ֥ץ וָאָֽבֶן׃ <sup>לז</sup>&nbsp;וְהָיִ֣יתָ לְשַׁמָּ֔ה לְמָשָׁ֖ל וְלִשְׁנִינָ֑ה בְּכֹל֙ הָֽעַמִּ֔ים אֲשֶׁר־יְנַהֶגְךָ֥ יְהֹוָ֖ה שָֽׁמָּה׃ </span> <span class="d1"><sup>לח</sup>&nbsp;זֶ֥רַע רַ֖ב תּוֹצִ֣יא הַשָּׂדֶ֑ה וּמְעַ֣ט תֶּאֱסֹ֔ף כִּ֥י יַחְסְלֶ֖נּוּ הָאַרְבֶּֽה׃ <sup>לט</sup>&nbsp;כְּרָמִ֥ים תִּטַּ֖ע וְעָבָ֑דְתָּ וְיַ֤יִן לֹֽא־תִשְׁתֶּה֙ וְלֹ֣א תֶאֱגֹ֔ר כִּ֥י תֹאכְלֶ֖נּוּ הַתֹּלָֽעַת׃ <sup>מ</sup>&nbsp;זֵיתִ֛ים יִהְי֥וּ לְךָ֖ בְּכׇל־גְּבוּלֶ֑ךָ וְשֶׁ֙מֶן֙ לֹ֣א תָס֔וּךְ כִּ֥י יִשַּׁ֖ל זֵיתֶֽךָ׃ <sup>מא</sup>&nbsp;בָּנִ֥ים וּבָנ֖וֹת תּוֹלִ֑יד וְלֹא־יִהְי֣וּ לָ֔ךְ כִּ֥י יֵלְכ֖וּ בַּשֶּֽׁבִי׃ <sup>מב</sup>&nbsp;כׇּל־עֵצְךָ֖ וּפְרִ֣י אַדְמָתֶ֑ךָ יְיָרֵ֖שׁ הַצְּלָצַֽל׃ <sup>מג</sup>&nbsp;הַגֵּר֙ אֲשֶׁ֣ר בְּקִרְבְּךָ֔ יַעֲלֶ֥ה עָלֶ֖יךָ מַ֣עְלָה מָּ֑עְלָה וְאַתָּ֥ה תֵרֵ֖ד מַ֥טָּה מָּֽטָּה׃ </span> <span class="dp"><sup>מד</sup>&nbsp;ה֣וּא יַלְוְךָ֔ וְאַתָּ֖ה לֹ֣א תַלְוֶ֑נּוּ ה֚וּא יִהְיֶ֣ה לְרֹ֔אשׁ וְאַתָּ֖ה תִּֽהְיֶ֥ה לְזָנָֽב׃ </span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="d2"><sup>35</sup>&nbsp;"YHVH will strike you with evil boils upon the knees and upon the thighs, from which you cannot be healed — from the sole of your foot up to your crown.</span> <span class="dp"><sup>36</sup>&nbsp;YHVH will drive you and your king whom you have raised over you to a nation that you have not known, (either) you or your fathers, you shall serve there other gods, of wood and of stone. <sup>37</sup>&nbsp;You will become an example-of-desolation, a proverb and a byword among all the peoples to which YHVH drives you.</span> <span class="d1"><sup>38</sup>&nbsp;Much seed you will take out to the field, but little will you gather in, for locusts will ravage them. <sup>39</sup>&nbsp;Vineyards you will plant and till, but their wine you will not drink, nor will you store (it), for the worm will devour them. <sup>40</sup>&nbsp;Olive trees you will have throughout all your territory, but oil you will not (get to) pour-for-anointing, for your olives will drop off. <sup>41</sup>&nbsp;Sons and daughters you will beget, but they will not be yours, for they will go into captivity. <sup>42</sup>&nbsp;All the trees and the fruit of your fertile-earth, the buzzing-cricket will possess. <sup>43</sup>&nbsp;The sojourner that is in your midst will rise-high above you, higher (and) higher, while you descend lower and lower;</span> <span class="dp"><sup>44</sup>&nbsp;he will lend to you, but you will not lend to him; he will become the head, but you will become the tail."</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="d2"><sup>מה</sup>&nbsp;וּבָ֨אוּ עָלֶ֜יךָ כׇּל־הַקְּלָל֣וֹת הָאֵ֗לֶּה וּרְדָפ֙וּךָ֙ וְהִשִּׂיג֔וּךָ עַ֖ד הִשָּׁמְדָ֑ךְ</span> <span class="d1">כִּי־לֹ֣א שָׁמַ֗עְתָּ בְּקוֹל֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ לִשְׁמֹ֛ר מִצְוֺתָ֥יו וְחֻקֹּתָ֖יו אֲשֶׁ֥ר צִוָּֽךְ׃ </span> <span class="d2"><sup>מו</sup>&nbsp;וְהָי֣וּ בְךָ֔ לְא֖וֹת וּלְמוֹפֵ֑ת וּֽבְזַרְעֲךָ֖ עַד־עוֹלָֽם׃ <sup>מז</sup>&nbsp;תַּ֗חַת אֲשֶׁ֤ר לֹא־עָבַ֙דְתָּ֙ אֶת־יְהֹוָ֣ה אֱלֹהֶ֔יךָ בְּשִׂמְחָ֖ה וּבְט֣וּב לֵבָ֑ב מֵרֹ֖ב כֹּֽל׃ <sup>מח</sup>&nbsp;וְעָבַדְתָּ֣ אֶת־אֹיְבֶ֗יךָ אֲשֶׁ֨ר יְשַׁלְּחֶ֤נּוּ יְהֹוָה֙ בָּ֔ךְ בְּרָעָ֧ב וּבְצָמָ֛א וּבְעֵירֹ֖ם וּבְחֹ֣סֶר כֹּ֑ל וְנָתַ֞ן עֹ֤ל בַּרְזֶל֙ עַל־צַוָּארֶ֔ךָ עַ֥ד הִשְׁמִיד֖וֹ אֹתָֽךְ׃ </span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="d2"><sup>45</sup>&nbsp;"Now when there come upon you all these curses, and pursue you and overtake you, until you have been destroyed,</span> <span class="d1">since you did not hearken to the voice of YHVH your <em>elo'ah</em>, to keep his commandments and his regulations that I commanded you,</span> <span class="d2"><sup>46</sup>&nbsp;they will be for you a sign and a portent, and for your seed, for the ages — <sup>47</sup>&nbsp;because you did not serve YHVH your <em>elo'ah</em> in joy and in good-feeling of heart out of the abundance of everything. <sup>48</sup>&nbsp;So you will have to serve your enemies, whom YHVH will send-forth against you, in famine and in thirst, in nakedness and in lack of everything; he will put a yoke of iron upon your neck, until he has destroyed you."</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="d2"><sup>מט</sup>&nbsp;יִשָּׂ֣א יְהֹוָה֩ עָלֶ֨יךָ גּ֤וֹי מֵרָחֹק֙ מִקְצֵ֣ה הָאָ֔רֶץ כַּאֲשֶׁ֥ר יִדְאֶ֖ה הַנָּ֑שֶׁר גּ֕וֹי אֲשֶׁ֥ר לֹא־תִשְׁמַ֖ע לְשֹׁנֽוֹ׃ <sup>נ</sup>&nbsp;גּ֖וֹי עַ֣ז פָּנִ֑ים אֲשֶׁ֨ר לֹא־יִשָּׂ֤א פָנִים֙ לְזָקֵ֔ן וְנַ֖עַר לֹ֥א יָחֹֽן׃ <sup>נא</sup>&nbsp;וְ֠אָכַ֠ל פְּרִ֨י בְהֶמְתְּךָ֥ וּפְרִֽי־אַדְמָתְךָ֮ עַ֣ד הִשָּׁמְדָךְ֒ אֲשֶׁ֨ר לֹא־יַשְׁאִ֜יר לְךָ֗ דָּגָן֙ תִּיר֣וֹשׁ וְיִצְהָ֔ר שְׁגַ֥ר אֲלָפֶ֖יךָ וְעַשְׁתְּרֹ֣ת צֹאנֶ֑ךָ עַ֥ד הַאֲבִיד֖וֹ אֹתָֽךְ׃ <sup>נב</sup>&nbsp;וְהֵצַ֨ר לְךָ֜ בְּכׇל־שְׁעָרֶ֗יךָ עַ֣ד רֶ֤דֶת חֹמֹתֶ֙יךָ֙ הַגְּבֹהֹ֣ת וְהַבְּצֻר֔וֹת אֲשֶׁ֥ר אַתָּ֛ה בֹּטֵ֥חַ בָּהֵ֖ן בְּכׇל־אַרְצֶ֑ךָ וְהֵצַ֤ר לְךָ֙ בְּכׇל־שְׁעָרֶ֔יךָ בְּכׇ֨ל־אַרְצְךָ֔ אֲשֶׁ֥ר נָתַ֛ן יְהֹוָ֥ה אֱלֹהֶ֖יךָ לָֽךְ׃ <sup>נג</sup>&nbsp;וְאָכַלְתָּ֣ פְרִֽי־בִטְנְךָ֗ בְּשַׂ֤ר בָּנֶ֙יךָ֙ וּבְנֹתֶ֔יךָ אֲשֶׁ֥ר נָתַן־לְךָ֖ יְהֹוָ֣ה אֱלֹהֶ֑יךָ בְּמָצוֹר֙ וּבְמָצ֔וֹק אֲשֶׁר־יָצִ֥יק לְךָ֖ אֹיְבֶֽךָ׃ <sup>נד</sup>&nbsp;הָאִישׁ֙ הָרַ֣ךְ בְּךָ֔ וְהֶעָנֹ֖ג מְאֹ֑ד תֵּרַ֨ע עֵינ֤וֹ בְאָחִיו֙ וּבְאֵ֣שֶׁת חֵיק֔וֹ וּבְיֶ֥תֶר בָּנָ֖יו אֲשֶׁ֥ר יוֹתִֽיר׃ <sup>נה</sup>&nbsp;מִתֵּ֣ת ׀ לְאַחַ֣ד מֵהֶ֗ם מִבְּשַׂ֤ר בָּנָיו֙ אֲשֶׁ֣ר יֹאכֵ֔ל מִבְּלִ֥י הִשְׁאִֽיר־ל֖וֹ כֹּ֑ל בְּמָצוֹר֙ וּבְמָצ֔וֹק אֲשֶׁ֨ר יָצִ֥יק לְךָ֛ אֹיִבְךָ֖ בְּכׇל־שְׁעָרֶֽיךָ׃ <sup>נו</sup>&nbsp;הָרַכָּ֨ה בְךָ֜ וְהָעֲנֻגָּ֗ה אֲשֶׁ֨ר לֹא־נִסְּתָ֤ה כַף־רַגְלָהּ֙ הַצֵּ֣ג עַל־הָאָ֔רֶץ מֵהִתְעַנֵּ֖ג וּמֵרֹ֑ךְ תֵּרַ֤ע עֵינָהּ֙ בְּאִ֣ישׁ חֵיקָ֔הּ וּבִבְנָ֖הּ וּבְבִתָּֽהּ׃ <sup>נז</sup>&nbsp;וּֽבְשִׁלְיָתָ֞הּ הַיּוֹצֵ֣ת ׀ מִבֵּ֣ין רַגְלֶ֗יהָ וּבְבָנֶ֙יהָ֙ אֲשֶׁ֣ר תֵּלֵ֔ד כִּֽי־תֹאכְלֵ֥ם בְּחֹסֶר־כֹּ֖ל בַּסָּ֑תֶר בְּמָצוֹר֙ וּבְמָצ֔וֹק אֲשֶׁ֨ר יָצִ֥יק לְךָ֛ אֹיִבְךָ֖ בִּשְׁעָרֶֽיךָ׃ </span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="d2"><sup>49</sup>&nbsp;"YHVH will raise up against you a nation from afar, from the edge of the earth, like an eagle swooping-down, a nation whose language you do not understand, <sup>50</sup>&nbsp;a nation fierce of countenance that does not lift up the countenance of the elderly and (to) youths shows-no-mercy. <sup>51</sup>&nbsp;It will devour the fruit of your domesticated animals and the fruit of your fertile-earth, until you have been destroyed; it will not leave for you grain, new-wine, or shining-oil, the offspring of your cattle or the fecundity of your sheep, until it has caused-you-to-perish. <sup>52</sup>&nbsp;It will besiege you within all your gates, until the collapse of your walls, high and fortified, in which you were feeling-secure throughout all your land, and will besiege you within all your gates, throughout all your land that YHVH your <em>elo'ah</em> has given you. <sup>53</sup>&nbsp;You will consume the fruit of your womb, the flesh of your sons and of your daughters that he has given you, YHVH your <em>elo'ah</em>, in the siege and in the straits with which your enemy puts-you-in-straits. <sup>54</sup>&nbsp;The tenderest man among you, the one exceeding daintiest — his eye shall be too set-on-evil toward his brother, toward the wife of his bosom, and toward the rest of his children that he has spared <sup>55</sup>&nbsp;to give to (even) one of them some of the flesh of his children that he eats, because he has nothing left of anything in the siege and in the straits with which your enemy puts-you-in-straits, within all your gates. <sup>56</sup>&nbsp;(She) tenderest among you, the daintiest-one, whose sole of foot has not essayed to be placed upon the earth out of daintiness and out of being-tender — her eye shall be set-on-evil against the husband of her bosom, against her son and against her daughter, <sup>57</sup>&nbsp;against her afterbirth that goes out from between her legs and against her children that she bears; indeed, she shall eat them, out of lack of everything, in secret, in the siege and in the straits with which your enemy puts-you-in-straits, within your gates."</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="d2"><sup>נח</sup>&nbsp;אִם־לֹ֨א תִשְׁמֹ֜ר לַעֲשׂ֗וֹת אֶת־כׇּל־דִּבְרֵי֙ הַתּוֹרָ֣ה הַזֹּ֔את הַכְּתֻבִ֖ים בַּסֵּ֣פֶר הַזֶּ֑ה לְ֠יִרְאָ֠ה אֶת־הַשֵּׁ֞ם הַנִּכְבָּ֤ד וְהַנּוֹרָא֙ הַזֶּ֔ה אֵ֖ת יְהֹוָ֥ה אֱלֹהֶֽיךָ׃ <sup>נט</sup>&nbsp;וְהִפְלָ֤א יְהֹוָה֙ אֶת־מַכֹּ֣תְךָ֔ וְאֵ֖ת מַכּ֣וֹת זַרְעֶ֑ךָ מַכּ֤וֹת גְּדֹלֹת֙ וְנֶ֣אֱמָנ֔וֹת וׇחֳלָיִ֖ם רָעִ֥ים וְנֶאֱמָנִֽים׃ <sup>ס</sup>&nbsp;וְהֵשִׁ֣יב בְּךָ֗ אֵ֚ת כׇּל־מַדְוֵ֣ה מִצְרַ֔יִם אֲשֶׁ֥ר יָגֹ֖רְתָּ מִפְּנֵיהֶ֑ם וְדָבְק֖וּ בָּֽךְ׃ <sup>סא</sup>&nbsp;גַּ֤ם כׇּל־חֳלִי֙ וְכׇל־מַכָּ֔ה אֲשֶׁר֙ לֹ֣א כָת֔וּב בְּסֵ֖פֶר הַתּוֹרָ֣ה הַזֹּ֑את יַעְלֵ֤ם יְהֹוָה֙ עָלֶ֔יךָ עַ֖ד הִשָּׁמְדָֽךְ׃ <sup>סב</sup>&nbsp;וְנִשְׁאַרְתֶּם֙ בִּמְתֵ֣י מְעָ֔ט תַּ֚חַת אֲשֶׁ֣ר הֱיִיתֶ֔ם כְּכוֹכְבֵ֥י הַשָּׁמַ֖יִם לָרֹ֑ב כִּי־לֹ֣א שָׁמַ֔עְתָּ בְּק֖וֹל יְהֹוָ֥ה אֱלֹהֶֽיךָ׃ </span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="d2"><sup>58</sup>&nbsp;"If you do not carefully observe all the words of this Torah/Instruction, those written in this document, to hold-in-awe the Name, this honored and awe-inspiring one, YHVH your <em>elo'ah</em>, <sup>59</sup>&nbsp;then YHVH will make-extraordinary the blows (against) you and the blows (against) your seed, blows great and lasting, sicknesses evil and lasting; <sup>60</sup>&nbsp;he will return upon you every illness of Mitsrayim from which you shrank-in-fear, so that they cling to you; <sup>61</sup>&nbsp;also every sickness and every blow that is not written in this Sefer haTorah/document of Instruction YHVH will bring up against you, until you have been destroyed; <sup>62</sup>&nbsp;you will be left menfolk few-in-number, in place of your having-been like the stars of the heavens for multitude, since you did not hearken to the voice of YHVH your <em>elo'ah</em>."</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="dp"><sup>סג</sup>&nbsp;וְ֠הָיָ֠ה כַּאֲשֶׁר־שָׂ֨שׂ יְהֹוָ֜ה עֲלֵיכֶ֗ם לְהֵיטִ֣יב אֶתְכֶם֮ וּלְהַרְבּ֣וֹת אֶתְכֶם֒ כֵּ֣ן יָשִׂ֤ישׂ יְהֹוָה֙ עֲלֵיכֶ֔ם לְהַאֲבִ֥יד אֶתְכֶ֖ם וּלְהַשְׁמִ֣יד אֶתְכֶ֑ם וְנִסַּחְתֶּם֙ מֵעַ֣ל הָאֲדָמָ֔ה אֲשֶׁר־אַתָּ֥ה בָא־שָׁ֖מָּה לְרִשְׁתָּֽהּ׃ <sup>סד</sup>&nbsp;וֶהֱפִֽיצְךָ֤ יְהֹוָה֙ בְּכׇל־הָ֣עַמִּ֔ים מִקְצֵ֥ה הָאָ֖רֶץ וְעַד־קְצֵ֣ה הָאָ֑רֶץ וְעָבַ֨דְתָּ שָּׁ֜ם אֱלֹהִ֣ים אֲחֵרִ֗ים אֲשֶׁ֧ר לֹא־יָדַ֛עְתָּ אַתָּ֥ה וַאֲבֹתֶ֖יךָ עֵ֥ץ וָאָֽבֶן׃ </span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="dp"><sup>63</sup>&nbsp;"And it shall be: as YHVH once delighted in you by doing-good for you and by making-you-many, thus will YHVH delight in you by causing you to perish and by destroying you, and you shall be pulled up from the fertile-earth that you are entering to possess. <sup>64</sup>&nbsp;YHVH will scatter you among all the peoples, from the edge of the earth to the (other) edge of the earth; you will serve there other <em>elohim</em>, whom you have not known, (either) you or your fathers, of wood and of stone."</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="dp"><sup>סה</sup>&nbsp;וּבַגּוֹיִ֤ם הָהֵם֙ לֹ֣א תַרְגִּ֔יעַ וְלֹא־יִהְיֶ֥ה מָנ֖וֹחַ לְכַף־רַגְלֶ֑ךָ וְנָתַן֩ יְהֹוָ֨ה לְךָ֥ שָׁם֙ לֵ֣ב רַגָּ֔ז וְכִלְי֥וֹן עֵינַ֖יִם וְדַאֲב֥וֹן נָֽפֶשׁ׃ <sup>סו</sup>&nbsp;וְהָי֣וּ חַיֶּ֔יךָ תְּלֻאִ֥ים לְךָ֖ מִנֶּ֑גֶד וּפָֽחַדְתָּ֙ לַ֣יְלָה וְיוֹמָ֔ם וְלֹ֥א תַאֲמִ֖ין בְּחַיֶּֽיךָ׃ <sup>סז</sup>&nbsp;בַּבֹּ֤קֶר תֹּאמַר֙ מִֽי־יִתֵּ֣ן עֶ֔רֶב וּבָעֶ֥רֶב תֹּאמַ֖ר מִֽי־יִתֵּ֣ן בֹּ֑קֶר מִפַּ֤חַד לְבָֽבְךָ֙ אֲשֶׁ֣ר תִּפְחָ֔ד וּמִמַּרְאֵ֥ה עֵינֶ֖יךָ אֲשֶׁ֥ר תִּרְאֶֽה׃ <sup>סח</sup>&nbsp;וֶהֱשִֽׁיבְךָ֨ יְהֹוָ֥ה ׀ מִצְרַ֘יִם֮ בׇּאֳנִיּוֹת֒ בַּדֶּ֙רֶךְ֙ אֲשֶׁ֣ר אָמַ֣רְתִּֽי לְךָ֔ לֹא־תֹסִ֥יף ע֖וֹד לִרְאֹתָ֑הּ וְהִתְמַכַּרְתֶּ֨ם שָׁ֧ם לְאֹיְבֶ֛יךָ לַעֲבָדִ֥ים וְלִשְׁפָח֖וֹת וְאֵ֥ין קֹנֶֽה׃</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="dp"><sup>65</sup>&nbsp;"Yet among those nations you shall not find-repose, nor shall there be rest for the sole of your foot: YHVH will give you there a shuddering heart, failing eyes and languishing breath. <sup>66</sup>&nbsp;Your life will hang-by-a-thread before you, you will be terrified night and day, and you will not trust in (the security of) your life. <sup>67</sup>&nbsp;At daybreak you will say: 'Who would make it sunset!' And at sunset you will say: 'Who would make it daybreak!' — out of the terror of your heart that you feel-in-terror, out of the sight of your eyes that you see. <sup>68</sup>&nbsp;YHVH will return you to Mitsrayim in ships, by the route of which I had said to you: 'You shall not see it again any more! 'You will put yourselves up for sale there to your enemies as servants and as maids, with none to buy (you)."</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="d2"><sup>סט</sup>&nbsp;אֵ֩לֶּה֩ דִבְרֵ֨י הַבְּרִ֜ית אֲֽשֶׁר־צִוָּ֧ה יְהֹוָ֣ה אֶת־מֹשֶׁ֗ה לִכְרֹ֛ת אֶת־בְּנֵ֥י יִשְׂרָאֵ֖ל בְּאֶ֣רֶץ מוֹאָ֑ב מִלְּבַ֣ד הַבְּרִ֔ית אֲשֶׁר־כָּרַ֥ת אִתָּ֖ם בְּחֹרֵֽב׃</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="d2"><sup>69</sup>&nbsp;These are the words of the covenant that YHVH commanded Mosheh to cut with the Children of Yisra'el in the land of Moav, aside from the covenant that he cut with them at Ḥorev.</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="d2"><mark>שביעי</mark> כט <sup>א</sup>&nbsp;וַיִּקְרָ֥א מֹשֶׁ֛ה אֶל־כׇּל־יִשְׂרָאֵ֖ל וַיֹּ֣אמֶר אֲלֵהֶ֑ם אַתֶּ֣ם רְאִיתֶ֗ם אֵ֣ת כׇּל־אֲשֶׁר֩ עָשָׂ֨ה יְהֹוָ֤ה לְעֵֽינֵיכֶם֙ בְּאֶ֣רֶץ מִצְרַ֔יִם לְפַרְעֹ֥ה וּלְכׇל־עֲבָדָ֖יו וּלְכׇל־אַרְצֽוֹ׃ <sup>ב</sup>&nbsp;הַמַּסּוֹת֙ הַגְּדֹלֹ֔ת אֲשֶׁ֥ר רָא֖וּ עֵינֶ֑יךָ הָאֹתֹ֧ת וְהַמֹּפְתִ֛ים הַגְּדֹלִ֖ים הָהֵֽם׃ <sup>ג</sup>&nbsp;וְלֹא־נָתַן֩ יְהֹוָ֨ה לָכֶ֥ם לֵב֙ לָדַ֔עַת וְעֵינַ֥יִם לִרְא֖וֹת וְאׇזְנַ֣יִם לִשְׁמֹ֑עַ עַ֖ד הַיּ֥וֹם הַזֶּֽה׃ </span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="d2">29 <sup>1</sup>&nbsp;Now Mosheh called all Yisra'el (together) and said to them: "You yourselves have seen all that YHVH did before your eyes in the land of Mitsrayim, to Pharaoh, to all his servants and to all his land, <sup>2</sup>&nbsp;the great trials that your eyes saw, those great signs and portents. <sup>3</sup>&nbsp;But YHVH has not given you a mind to know or eyes to see or ears to hear, until this day."</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="dp"><sup>ד</sup>&nbsp;וָאוֹלֵ֥ךְ אֶתְכֶ֛ם אַרְבָּעִ֥ים שָׁנָ֖ה בַּמִּדְבָּ֑ר לֹֽא־בָל֤וּ שַׂלְמֹֽתֵיכֶם֙ מֵעֲלֵיכֶ֔ם וְנַעַלְךָ֥ לֹֽא־בָלְתָ֖ה מֵעַ֥ל רַגְלֶֽךָ׃ <sup>ה</sup>&nbsp;לֶ֚חֶם לֹ֣א אֲכַלְתֶּ֔ם וְיַ֥יִן וְשֵׁכָ֖ר לֹ֣א שְׁתִיתֶ֑ם לְמַ֙עַן֙ תֵּֽדְע֔וּ כִּ֛י אֲנִ֥י יְהֹוָ֖ה אֱלֹהֵיכֶֽם׃</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="dp"><sup>4</sup>&nbsp;"Now I had you travel for forty years in the wilderness; there did not wear-out your garments from upon you, your sandal did not wear-out from upon your foot, <sup>5</sup>&nbsp;bread you did not eat, wine and intoxicant you did not drink, in order that you might know that I am YHVH your <em>elo'ah</em>."</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="dp"><mark>מפטיר</mark> <sup>ו</sup>&nbsp;וַתָּבֹ֖אוּ אֶל־הַמָּק֣וֹם הַזֶּ֑ה וַיֵּצֵ֣א סִיחֹ֣ן מֶֽלֶךְ־חֶ֠שְׁבּ֠וֹן וְע֨וֹג מֶלֶךְ־הַבָּשָׁ֧ן לִקְרָאתֵ֛נוּ לַמִּלְחָמָ֖ה וַנַּכֵּֽם׃ <sup>ז</sup>&nbsp;וַנִּקַּח֙ אֶת־אַרְצָ֔ם וַנִּתְּנָ֣הּ לְנַחֲלָ֔ה לָראוּבֵנִ֖י וְלַגָּדִ֑י וְלַחֲצִ֖י שֵׁ֥בֶט הַֽמְנַשִּֽׁי׃ </span> <span class="d2"><sup>ח</sup>&nbsp;וּשְׁמַרְתֶּ֗ם אֶת־דִּבְרֵי֙ הַבְּרִ֣ית הַזֹּ֔את וַעֲשִׂיתֶ֖ם אֹתָ֑ם לְמַ֣עַן תַּשְׂכִּ֔ילוּ אֵ֖ת כׇּל־אֲשֶׁ֥ר תַּעֲשֽׂוּן׃</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="dp"><sup>6</sup>&nbsp;"When you came to this place, Siḥon king of Ḥeshbon and Og king of Bashan came-out to meet you in war, but we struck them down, <sup>7</sup>&nbsp;we took away their land and gave it as an inheritance to the Re'uveni and to the Gadi, and to half the Menashi tribe.</span> <span class="d2"><sup>8</sup>&nbsp;So you are to be-careful regarding the words of this covenant, and are to observe them, in order that you may act-wisely in all that you do."</span>
 </div></td></tr>

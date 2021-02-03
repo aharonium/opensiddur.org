@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: תְּפִילַּת הַנּוֹטֵעַ | Prayer for a Tree Planting, by Zeev Kainan (2018)<br />
+Title: תְּפִילַּת הַנּוֹטֵעַ | Prayer for a Tree Planting in Israel, by Zeev Kainan (2018)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=19706">http://opensiddur.org/?p=19706</a>
 <p />

@@ -17,6 +17,12 @@ Also, for the first time ever (as far as the editor is aware), this text feature
 This is traditionally read in a similar method to a regular megillah – in fact, you can find beautiful STaM editions on kosher parchment! In any case, it would generally be after the complete Kaddish in the evening, or the Torah service and/or Amidah in the morning. It's meant to mostly sound like Esther. For the sadder or darker passages, feel free to use Eikha trop – or even create your own detours! It's Purim – no need to be serious about it!
 </div>
 
+<h3>Recording</h3>
+
+https://archive.org/download/MegilatSaragossatrans.IsaacGrantwerkMayer2019/Megilat%20Saragosa%20metuam%20%28Isaac%20Gantwerk%20Mayer%202020%29.mp3
+
+&nbsp;
+
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
@@ -110,22 +116,16 @@ Thus the Jews found in the city of Saragossa ordained and accepted upon them and
 
 <hr />
 
-The text from which Isaac Gantwerk Mayer produced this cantillized text was sourced from an unpointed edition of the megillah found on the website of <a href="https://www.netivot-olam.org.il/מאמרים/נס-ההצלה/">Yesihvat Netivot Olam</a> and from two images (<a href="http://www.sephardicstudies.org/images/Purim-of-Siracusa1.jpg">1</a>, <a href="http://www.sephardicstudies.org/images/Purim-of-Siracusa1.jpg">2</a>) of the scroll found at the website of the Society for the Advancement of Sephardic Studies and Culture. The combination of these sources were edited for consistency and readability. Please contact us if you know of a publicly accessible digital image of the complete scroll.
+The text from which Isaac Gantwerk Mayer produced this cantillized text was sourced from an unpointed edition of the megillah found on the website of <a href="https://www.netivot-olam.org.il/מאמרים/נס-ההצלה/">Yeshivat Netivot Olam</a> and from two images (<a href="http://www.sephardicstudies.org/images/Purim-of-Siracusa1.jpg">1</a>, <a href="http://www.sephardicstudies.org/images/Purim-of-Siracusa2.jpg">2</a>) of the scroll found at the website of the Society for the Advancement of Sephardic Studies and Culture. The combination of these sources were edited for consistency and readability. Please contact us if you know of a publicly accessible digital image of the complete scroll.
 
 For more information on second Purims, read <a href="http://web.nli.org.il/sites/NLI/Hebrew/library/reading_corner/Pages/Second_purim.aspx">this article</a> (Hebrew) at the National Library of Israel.
 
 <h3>Source(s)</h3>
 
-<a href="https://opensiddur.org/wp-content/uploads/2019/02/Purim-of-Siracusa1.jpg"><img src="https://opensiddur.org/wp-content/uploads/2019/02/Purim-of-Siracusa1-300x161.jpg" alt="" width="300" height="161" class="alignleft size-medium wp-image-23768" /></a>
-
-<a href="https://opensiddur.org/wp-content/uploads/2019/02/Purim-of-Siracusa2.jpg"><img src="https://opensiddur.org/wp-content/uploads/2019/02/Purim-of-Siracusa2-300x151.jpg" alt="" width="300" height="151" class="alignnone size-medium wp-image-23769" /></a>
+<span style="float: right;">[caption id="attachment_23768" align="alignleft" width="300"]<a href="https://opensiddur.org/wp-content/uploads/2019/02/Purim-of-Siracusa1.jpg" rel="lightbox"><img src="https://opensiddur.org/wp-content/uploads/2019/02/Purim-of-Siracusa1-300x161.jpg" alt="" width="300" height="161" class="size-medium wp-image-23768" /></a> The first column of megillat Saragossa/Syracusa from an image of an edition of the scroll.[/caption]</span> <span style="float: left;">[caption id="attachment_23769" align="alignnone" width="300"]<a href="https://opensiddur.org/wp-content/uploads/2019/02/Purim-of-Siracusa2.jpg" rel="lightbox"><img src="https://opensiddur.org/wp-content/uploads/2019/02/Purim-of-Siracusa2-300x151.jpg" alt="" width="300" height="151" class="size-medium wp-image-23769" /></a> later columns of megillat Saragossa/Syracusa from an image of an edition of the scroll.[/caption]</span>[su_spacer]
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/MegilatSaragossatrans.IsaacGrantwerkMayer2019#page/n0/mode/2up"]
 
 &nbsp;
-
-<h3>Recording</h3>
-
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/details/MegilatSaragossatrans.IsaacGrantwerkMayer2019" show_part_of_iframe="true" show_part_of_iframe_y="75" show_part_of_iframe_height="145" show_part_of_iframe_allow_scrollbar_vertical="false"]
 </body>
 </html>

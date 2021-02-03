@@ -9,15 +9,9 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <style type="text/css" media="all">.printfriendly {display: none!important;}</style>
 
-<strong>DOWNLOAD:</strong> <a href="https://archive.org/download/ParashatShemotTorahReadingWithEnglishTranstropilationLenFellman2018/Parashat%20Shemot%20Torah%20Reading%20%28Exodus%201v1-6v1%29%20in%20English%20transtropilation%20%28Len%20Fellman%202018%29%20-%20english%20only.pdf">PDF</a> and <a href="https://archive.org/download/ParashatShemotTorahReadingWithEnglishTranstropilationLenFellman2018/Parashat%20Shemot%20Torah%20Reading%20%28Exodus%201v1-6v1%29%20in%20English%20transtropilation%20%28Len%20Fellman%202018%29%20-%20english%20only.odt">ODT</a> (sans Hebrew) | <a href="https://archive.org/download/ParashatShemotTorahReadingWithEnglishTranstropilationLenFellman2018/Parashat%20Shemot%20Torah%20Reading%20%28Exodus%201v1-6v1%29%20in%20English%20transtropilation%20%28Len%20Fellman%202018%29.pdf">PDF</a> and <a href="https://archive.org/download/ParashatShemotTorahReadingWithEnglishTranstropilationLenFellman2018/Parashat%20Shemot%20Torah%20Reading%20%28Exodus%201v1-6v1%29%20in%20English%20transtropilation%20%28Len%20Fellman%202018%29.odt">ODT</a> (with Hebrew) | <a href="https://archive.org/download/ParashatShemotTorahReadingWithEnglishTranstropilationLenFellman2018/Parashat%20Shemot%20Torah%20Reading%20%28Exodus%201v1-6v1%29%20in%20English%20transtropilation%20with%20audio%20%28Len%20Fellman%202018%29.pdf">PDF</a> and <a href="https://archive.org/download/ParashatShemotTorahReadingWithEnglishTranstropilationLenFellman2018/Parashat%20Shemot%20Torah%20Reading%20%28Exodus%201v1-6v1%29%20in%20English%20transtropilation%20with%20audio%20%28Len%20Fellman%202018%29.odt">ODT</a> (with Hebrew and audio)
-
-Exodus ch. 1 [su_audio url="https://archive.org/download/ParashatShemotTorahReadingWithEnglishTranstropilationLenFellman2018/LenFellman-Exodus1hebrewAndEnglish.mp3" width="60%"]
-
-Exodus 2:1-10 [su_audio url="https://archive.org/download/ParashatShemotTorahReadingWithEnglishTranstropilationLenFellman2018/LenFellman-Exodus21-10hebrewAndEnglish.mp3" width="60%"]
-
-Exodus 3:1-15 [su_audio url="https://archive.org/download/ParashatShemotTorahReadingWithEnglishTranstropilationLenFellman2018/LenFellman-Exodus31-15hebrewAndEnglish.mp3" width="60%"]
-
-Exodus 3:16-4:1-4 [su_audio url="https://archive.org/download/ParashatShemotTorahReadingWithEnglishTranstropilationLenFellman2018/LenFellman-Exodus316-22And41-4hebrewAndEnglish.mp3" width="60%"]
+<strong>DOWNLOAD:</strong> 
+<a href="https://archive.org/download/parashat-shemot-torah-reading-with-english-transtropilation-len-fellman-2021/Parashat%20Shemot%20Torah%20Reading%20%28Exodus%201v1-6v1%29%20in%20English%20transtropilation%20%28Len%20Fellman%202021%29%20-%20english%20only.pdf">PDF</a> | <a href="https://archive.org/download/parashat-shemot-torah-reading-with-english-transtropilation-len-fellman-2021/Parashat%20Shemot%20Torah%20Reading%20%28Exodus%201v1-6v1%29%20in%20English%20transtropilation%20%28Len%20Fellman%202021%29%20-%20english%20only.odt">ODT</a> (sans Hebrew)
+<a href="https://archive.org/download/parashat-shemot-torah-reading-with-english-transtropilation-len-fellman-2021/Parashat%20Shemot%20Torah%20Reading%20%28Exodus%201v1-6v1%29%20in%20English%20transtropilation%20%28Len%20Fellman%202021%29.pdf">PDF</a> | <a href="https://archive.org/download/parashat-shemot-torah-reading-with-english-transtropilation-len-fellman-2021/Parashat%20Shemot%20Torah%20Reading%20%28Exodus%201v1-6v1%29%20in%20English%20transtropilation%20%28Len%20Fellman%202021%29.odt">ODT</a> (with Hebrew)
 
 <hr />
 
@@ -25,6 +19,22 @@ This is an English translation of Exodus 1:1-6:1, the Torah reading for Parashat
 
 <h3>Source</h3>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/ParashatShemotTorahReadingWithEnglishTranstropilationLenFellman2018#page/n0/mode/2up"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/parashat-shemot-torah-reading-with-english-transtropilation-len-fellman-2021/Parashat%20Shemot%20Torah%20Reading%20%28Exodus%201v1-6v1%29%20in%20English%20transtropilation%20%28Len%20Fellman%202021%29#page/n0/mode/2up"]
+
+<h3>Recordings</h3>
+
+Exodus ch. 1 
+https://archive.org/download/parashat-shemot-torah-reading-with-english-transtropilation-len-fellman-2021/Parashat%20Shemot%20-%20Exodus%201v1-22%20%28Hebrew%20and%20English%29%20-%20Len%20Fellman%20%282018%29.mp3
+
+Exodus 2:1-10 
+https://archive.org/download/parashat-shemot-torah-reading-with-english-transtropilation-len-fellman-2021/Parashat%20Shemot%20-%20Exodus%202v1-10%20%28Hebrew%20and%20English%29%20-%20Len%20Fellman%20%282018%29.mp3
+
+Exodus 3:1-15 
+https://archive.org/download/parashat-shemot-torah-reading-with-english-transtropilation-len-fellman-2021/Parashat%20Shemot%20-%20Exodus%203v1-15%20%28Hebrew%20and%20English%29%20-%20Len%20Fellman%20%282018%29.mp3
+
+Exodus 3:16-4:1-4 
+https://archive.org/download/parashat-shemot-torah-reading-with-english-transtropilation-len-fellman-2021/Parashat%20Shemot%20-%20Exodus%203v16-22%20and%204v1-4%20%28Hebrew%20and%20English%29%20-%20Len%20Fellman%20%282018%29.mp3
+
+&nbsp;
 </body>
 </html>

@@ -9,9 +9,9 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <style type="text/css" media="all">.printfriendly {display: none!important;}</style>
 
-<strong>DOWNLOAD:</strong> <a href="https://archive.org/download/ParashatBshalahTorahReadingWithEnglishTranstropilationLenFellman2019/ParashatBshalahTorahReadingexodus13v17-17v16InEnglishTranstropilationlenFellman2019-EnglishOnly.pdf">PDF</a> and <a href="https://archive.org/download/ParashatBshalahTorahReadingWithEnglishTranstropilationLenFellman2019/ParashatBshalahTorahReadingexodus13v17-17v16InEnglishTranstropilationlenFellman2019-EnglishOnly.odt">ODT</a> (sans Hebrew) | <a href="https://archive.org/download/ParashatBshalahTorahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20B%27shalah%20Torah%20Reading%20%28Exodus%2013v17-17v16%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29.pdf">PDF</a> and <a href="https://archive.org/download/ParashatBshalahTorahReadingWithEnglishTranstropilationLenFellman2019/ParashatBshalahTorahReadingexodus13v17-17v16InEnglishTranstropilationlenFellman2019.odt">ODT</a> (with Hebrew) |
-
-Exodus 15:1-18 [su_audio url="https://archive.org/download/ParashatBshalahTorahReadingWithEnglishTranstropilationLenFellman2019/LenFellman-ParashatBshala-ShiratHayamsongOfTheSeaExodus151To18english.mp3" width="60%"]
+<strong>DOWNLOAD:</strong> 
+<a href="https://archive.org/download/ParashatBshalahTorahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20B%27shalah%20Torah%20Reading%20%28Exodus%2013v17-17v16%29%20in%20English%20transtropilation%20%28Len%20Fellman%202021%29%20-%20english%20only.pdf">PDF</a> | <a href="https://archive.org/download/ParashatBshalahTorahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20B%27shalah%20Torah%20Reading%20%28Exodus%2013v17-17v16%29%20in%20English%20transtropilation%20%28Len%20Fellman%202021%29%20-%20english%20only.odt">ODT</a> (sans Hebrew)
+<a href="https://archive.org/download/ParashatBshalahTorahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20B%27shalah%20Torah%20Reading%20%28Exodus%2013v17-17v16%29%20in%20English%20transtropilation%20%28Len%20Fellman%202021%29.pdf">PDF</a> | <a href="https://archive.org/download/ParashatBshalahTorahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20B%27shalah%20Torah%20Reading%20%28Exodus%2013v17-17v16%29%20in%20English%20transtropilation%20%28Len%20Fellman%202021%29.odt">ODT</a> (with Hebrew)
 
 <hr />
 
@@ -19,6 +19,18 @@ This is an English translation of Exodus 13:17-17:16, the Torah reading for Para
 
 <h3>Source</h3>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/ParashatBshalahTorahReadingWithEnglishTranstropilationLenFellman2019#page/n0/mode/2up"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/ParashatBshalahTorahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20B%27shalah%20Torah%20Reading%20%28Exodus%2013v17-17v16%29%20in%20English%20transtropilation%20%28Len%20Fellman%202021%29#page/n0/mode/2up"]
+
+&nbsp;
+
+<h3>Recordings</h3>
+
+Exodus 15:1-18 [su_audio url="https://archive.org/download/ParashatBshalahTorahReadingWithEnglishTranstropilationLenFellman2019/LenFellman-ParashatBshala-ShiratHayamsongOfTheSeaExodus151To18english.mp3" width="60%"]
+
+&nbsp;
+
+<hr />
+
+&nbsp;
 </body>
 </html>
