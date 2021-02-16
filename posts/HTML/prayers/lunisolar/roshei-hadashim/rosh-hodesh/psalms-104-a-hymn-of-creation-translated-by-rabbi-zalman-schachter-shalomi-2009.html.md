@@ -17,7 +17,9 @@ For attribution and license, please consult the following URL: <a href="http://o
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-[<em>On Rosh Ḥodesh (New Moon Day) or any other day in which you appreciate God’s hand in nature insert Psalm 104</em>]
+<span class="instruction">On Rosh Ḥodesh (New Moon Day) 
+or any other day in which you appreciate God’s hand in nature 
+insert Psalm 104</span>
 </div></td></tr>
 
 

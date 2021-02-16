@@ -10,26 +10,31 @@ For attribution and license, please consult the following URL: <a href="http://o
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
+
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 <em>Avinu she-ba-shamayim</em>, our Parent in heaven,
 <em>v’Ruaḥ kol basar</em>, the Spirit of all that lives, 
 We turn toward You as we recall today with sorrow and honor 
-those who lost their lives (<em>n</em>) years ago, and those who gave their lives 
--– as passengers, firemen, and rescuers –- so that others might live.  
+those who lost their lives <span class="instruction">(___)</span> years ago, 
+and those who gave their lives 
+-– as passengers, firemen, and rescuers –- 
+so that others might live.  
 Grant their souls continuing rest in the shelter of eternity.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 And grant to us peace and fortitude in the years ahead, 
 that we may restore a sense of trust and security to this great land, 
 that we may be guided not by fear or terror, 
@@ -38,16 +43,27 @@ and upholding our highest values.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
-וּשְׁמר צֵאתֵנוּ וּבוֹאֵנוּ לְחַיִּים וּלְשָׁלוֹם מֵעַתָּה וְעַד עוֹלָם׃ אָמֵן׃
-</span></div>
-U-shmor tseiteinu u-vo’ainu l’ḥayim u-l’shalom, mei-ata v’ad olam. Amen.
-</td>
+וּשְׁמר צֵאתֵנוּ וּבוֹאֵנוּ לְחַיִּים וּלְשָׁלוֹם מֵעַתָּה וְעַד עוֹלָם׃ 
+</span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
-Guard our comings and our goings in peace, now and always, <em>Amen</em>.[foot]From the prayer, <em>Hashkiveinu</em>, containing the blessing, "<em>shomer amo yisrael la'ad</em>," recited after the Sh'ma during <em>Ma'ariv</em>.[/foot]
-</td></tr>
+<td style="vertical-align:top;">
+<div class="english">
+<em>U-shmor tseiteinu u-vo’ainu l’ḥayim u-l’shalom, mei-ata v’ad olam.</em>
+Guard our comings and our goings in peace, now and always,[foot]From the prayer, <em>Hashkiveinu</em>, containing the blessing, "<em>shomer amo yisrael la'ad</em>," recited after the Sh'ma during <em>Ma'ariv</em>.[/foot]
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
+אָמֵן׃
+</span></div></td>
+ 
+<td style="vertical-align:top;">
+<div class="english">
+<em>Amen</em>.
+</div></td></tr>
 </tbody></table>
 
 <hr />
