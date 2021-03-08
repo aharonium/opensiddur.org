@@ -246,7 +246,11 @@ he will not forgive you your transgressions.
 
 <hr />
 
-In 1987, George Howard published <em>The Hebrew Gospel of Matthew</em>, a critical text of Shem Tov ibn Shaprut's Hebrew translation, presumably of Matthew. Soon afterward, other scholars determined ibn Shaprut's text to be based upon translations of Tatian's Diatessaron, a <a href="https://en.wikipedia.org/wiki/Gospel_harmony">gospel harmony</a> originally compiled sometime between 160–175 CE. Howards's transcription was largely drawn from <a href="http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_26964">Add MS 26964</a>, a manuscript of Even Boḥan held in the collection of the British Library. I have digitized Howard's Hebrew transcription of ibn Shaprut's chapter 22 for Matthew (Matthew 6:5-15) and set it side-by-side with the known Greek text of Matthew (copied from <a href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0155%3Abook%3DMatthew%3Achapter%3D6%3Averse%3D5">Perseus at Tufts</a>). The English translation provided is adapted from the one made by Howard after ibn Shaprut's Hebrew text. I've added niqqud for the text of the prayer. --Aharon Varady 
+In 1987, George Howard published <em>The Hebrew Gospel of Matthew</em>, a critical text of Shem Tov ibn Shaprut's Hebrew translation, presumably of Matthew. Soon afterward, other scholars determined ibn Shaprut's text to be based upon translations of Tatian's Diatessaron, a <a href="https://en.wikipedia.org/wiki/Gospel_harmony">gospel harmony</a> originally compiled sometime between 160–175 CE. Howards's transcription was largely drawn from <a href="http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_26964">Add MS 26964</a>, a manuscript of Even Boḥan held in the collection of the British Library. 
+
+For further insights as to the relationship between the phrasing of this prayer and other familiar Jewish prayers, find Rabbi Jeremy Kalmanofsky's essay <a href="https://www.anschechesed.org/the-lords-prayer/">at Ansche Chesed</a>.
+
+I have digitized Howard's Hebrew transcription of ibn Shaprut's chapter 22 for Matthew (Matthew 6:5-15) and set it side-by-side with the known Greek text of Matthew (copied from <a href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0155%3Abook%3DMatthew%3Achapter%3D6%3Averse%3D5">Perseus at Tufts</a>). The English translation provided is adapted from the one made by Howard after ibn Shaprut's Hebrew text. I've added niqqud for the text of the prayer. --Aharon Varady 
 
 <h3>Source(s)</h3>
 

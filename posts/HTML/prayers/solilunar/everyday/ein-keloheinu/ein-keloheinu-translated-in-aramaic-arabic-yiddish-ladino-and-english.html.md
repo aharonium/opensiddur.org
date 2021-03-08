@@ -8,9 +8,9 @@ For attribution and license, please consult the following URL: <a href="http://o
 <hr />
 
 <div class="english" style="font-size: 1.2em;">
-The mantra-like piyyut "Ēin k-Ēlohēinu," a praise of God's attributes and uniqueness featuring incremental repetition, is found in siddurim as far back as the siddur of Rav Amram, and may date back to the Hekhalot literature. [In the variations found in the Siddur Rav Amram and in genizah fragments, the order of the stanzas differs from how it is currently read today. --ANV]
+The mantra-like piyyut "Ein kEloheinu," a praise of God's attributes and uniqueness featuring incremental repetition, is found in siddurim as far back as the siddur of Rav Amram, and may date back to the Hekhalot literature. [In the variations found in the Siddur Rav Amram and in genizah fragments, the order of the stanzas differs from how it is currently read today. --ANV]
 
-Many versions of it have been compiled in different languages, most famously Flory Jagoda (zç"l)'s Judezmo variant "Non como muestro Dyo." Here the editor has compiled traditional Yiddish and Ladino translations, as well as developed new Aramaic and Arabic translations for this piyyut. The post-piyyut verses used in both the Ashkenazi and Sephardic rites have been included. --Isaac Gantwerk Mayer
+Many versions of Ein kEloheinu have been compiled in different languages, most famously Flory Jagoda (zç"l)'s Judezmo variant "<em>Non como muestro Dyo</em>." Here the editor has compiled traditional Yiddish and Ladino translations, as well as developed new Aramaic and Arabic translations for this piyyut. The post-piyyut verses used in both the Ashkenazi and Sephardic rites have been included. --Isaac Gantwerk Mayer
 
 [If you'd like to commission a Jewish creative work, check out my website at <a href="http://igmjewishcreativeworks.com">igmjewishcreativeworks.com</a>!]
 </div>
@@ -46,10 +46,10 @@ Many versions of it have been compiled in different languages, most famously Flo
  
 <td style="vertical-align:top;">
 <div class="yiddish"><span lang="he">
-עס איז קיין גאָט ווי אונדזער גאָט
-עס איז קיין הער ווי אונדזער הער
-עס איז קיין קעניג ווי אונדזער קעניג
-עס איז קיין העלפער ווי אונדזער העלפֿער
+עס איז קײן גאָט װי אונדזער גאָט
+עס איז קײן הער װי אונדזער הער
+עס איז קײן קעניג װי אונדזער קעניג
+עס איז קײן העלפער װי אונדזער העלפֿער
 </span></div></td>
  
 <td style="vertical-align:top;">
@@ -95,10 +95,10 @@ None is like our Rescuer!
  
 <td style="vertical-align:top;">
 <div class="yiddish"><span lang="he">
-ווער איז אַ גאָט ווי אונדזער גאָט
-ווער איז אַ הער ווי אונדזער הער
-ווער איז אַ קעניג ווי אונדזער קעניג
-ווער איז אַ העלפער ווי אונדזער העלפֿער
+װער איז אַ גאָט װי אונדזער גאָט
+װער איז אַ הער װי אונדזער הער
+װער איז אַ קעניג װי אונדזער קעניג
+װער איז אַ העלפער װי אונדזער העלפֿער
 </span></div></td>
  
 <td style="vertical-align:top;">
@@ -193,10 +193,10 @@ Let us thank our Rescuer!
  
 <td style="vertical-align:top;">
 <div class="yiddish"><span lang="he">
-זאָל געבענטשט זײַן אונדזער גאָט
-זאָל געבענטשט זײַן אונדזער הער
-זאָל געבענטשט זײַן אונדזער קעניג
-זאָל געבענטשט זײַן אונדזער העלפֿער
+זאָל געבענטשט זײַן אונדזער גאָט
+זאָל געבענטשט זײַן אונדזער הער
+זאָל געבענטשט זײַן אונדזער קעניג
+זאָל געבענטשט זײַן אונדזער העלפֿער
 </span></div></td>
  
 <td style="vertical-align:top;">
@@ -316,8 +316,8 @@ You are our Rescuer!
  
 <td style="vertical-align:top;">
 <div class="yiddish"><span lang="he">
-װאָרום דו ביסט וועם האָבן אונדזער אבותֿ  
-פֿאַר דיר דאָס וויירויך גערייכט
+װאָרום דו ביסט װעם האָבן אונדזער אבותֿ  
+פֿאַר דיר דאָס װײרױך גערײכט
 </span></div></td>
  
 <td style="vertical-align:top;">
@@ -390,9 +390,9 @@ our ancestors burned incense.
  
 <td style="vertical-align:top;">
 <div class="yiddish"><span lang="he">
-דו וועסט אונדז ראַטעווען!
+דו װעסט אונדז ראַטעװען!
 דו װעסט אױפֿשטײן און זיך דערבאַרימען אױף צִיון
-װאָרום עס איז צײַט זי צו לײַטזעליקן
+װאָרום עס איז צײַט זי צו לײַטזעליקן
 װאָרום געקומען איז די שָעה.
 </span></div></td>
  

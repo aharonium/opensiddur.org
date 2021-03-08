@@ -8,8 +8,9 @@ For attribution and license, please consult the following URL: <a href="http://o
 <hr />
 
 <strong>DOWNLOAD:</strong> 
-<a href="https://archive.org/download/parashatrehtorahreadingwithenglishtranstropilationlenfellman2019/Parashat%20R%27%C3%A9h%20Torah%20Reading%20%28Deuteronomy%2011v26-16v17%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.pdf">PDF</a> and <a href="https://archive.org/download/parashatrehtorahreadingwithenglishtranstropilationlenfellman2019/Parashat%20R%27%C3%A9h%20Torah%20Reading%20%28Deuteronomy%2011v26-16v17%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.odt">ODT</a> (sans Hebrew) 
-<a href="https://archive.org/download/parashatrehtorahreadingwithenglishtranstropilationlenfellman2019/Parashat%20R%27%C3%A9h%20Torah%20Reading%20%28Deuteronomy%2011v26-16v17%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29.pdf">PDF</a> and <a href="https://archive.org/download/parashatrehtorahreadingwithenglishtranstropilationlenfellman2019/Parashat%20R%27%C3%A9h%20Torah%20Reading%20%28Deuteronomy%2011v26-16v17%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29.odt">ODT</a> (with Hebrew)
+
+<a href="https://archive.org/download/parashatrehtorahreadingwithenglishtranstropilationlenfellman2019/Parashat%20R%27%C3%A9h%20Torah%20Reading%20%28Deuteronomy%2011v26-16v17%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.pdf">PDF</a> | <a href="https://archive.org/download/parashatrehtorahreadingwithenglishtranstropilationlenfellman2019/Parashat%20R%27%C3%A9h%20Torah%20Reading%20%28Deuteronomy%2011v26-16v17%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.odt">ODT</a> (sans Hebrew) 
+<a href="https://archive.org/download/parashatrehtorahreadingwithenglishtranstropilationlenfellman2019/Parashat%20R%27%C3%A9h%20Torah%20Reading%20%28Deuteronomy%2011v26-16v17%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29.pdf">PDF</a> | <a href="https://archive.org/download/parashatrehtorahreadingwithenglishtranstropilationlenfellman2019/Parashat%20R%27%C3%A9h%20Torah%20Reading%20%28Deuteronomy%2011v26-16v17%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29.odt">ODT</a> (with Hebrew)
 
 <hr />
 
@@ -23,7 +24,8 @@ This is an English translation of Deuteronomy 7:12-11:25, the Torah reading for 
 
 <h3>Recordings</h3>
 
-https://archive.org/download/parashatrehtorahreadingwithenglishtranstropilationlenfellman2019/Parashat%20R%27%C3%A9h%20Torah%20Reading%20%28Deuteronomy%2014v22-27%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29.mp3
+Deuteronomy 14:22-27
+https://archive.org/download/parashat-reh-torah-reading-with-english-transtropilation-audio-len-fellman-2020/Parashat%20R%27%C3%A9h%20Torah%20Reading%20%28Deuteronomy%2014v22-27%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29.mp3
 
 &nbsp;
 

@@ -10,8 +10,9 @@ For attribution and license, please consult the following URL: <a href="http://o
 <style type="text/css" media="all">.printfriendly {display: none!important;}</style>
 
 <strong>DOWNLOAD:</strong> 
-<a href="https://archive.org/download/ParashatTsavTorahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20Tsav%20Torah%20Reading%20Leviticus%206v1-8v36%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29%20-%20english%20only.pdf">PDF</a> and <a href="https://archive.org/download/ParashatTsavTorahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20Tsav%20Torah%20Reading%20Leviticus%206v1-8v36%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29%20-%20english%20only.odt">ODT</a> (sans Hebrew) 
-<a href="https://archive.org/download/ParashatTsavTorahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20Tsav%20Torah%20Reading%20Leviticus%206v1-8v36%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29.pdf">PDF</a> and <a href="https://archive.org/download/ParashatTsavTorahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20Tsav%20Torah%20Reading%20Leviticus%206v1-8v36%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29.odt">ODT</a> (with Hebrew)
+
+<a href="https://archive.org/download/ParashatTsavTorahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20Tsav%20Torah%20Reading%20Leviticus%206v1-8v36%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29%20-%20english%20only.pdf">PDF</a> | <a href="https://archive.org/download/ParashatTsavTorahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20Tsav%20Torah%20Reading%20Leviticus%206v1-8v36%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29%20-%20english%20only.odt">ODT</a> (sans Hebrew) 
+<a href="https://archive.org/download/ParashatTsavTorahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20Tsav%20Torah%20Reading%20Leviticus%206v1-8v36%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29.pdf">PDF</a> | <a href="https://archive.org/download/ParashatTsavTorahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20Tsav%20Torah%20Reading%20Leviticus%206v1-8v36%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29.odt">ODT</a> (with Hebrew)
 
 
 <hr />
@@ -22,5 +23,10 @@ This is an English translation of Leviticus 6:1-8:36, the Torah reading for Para
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/ParashatTsavTorahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20Tsav%20Torah%20Reading%20Leviticus%206v1-8v36%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29#page/n0/mode/2up"]
 
+&nbsp;
+
+<hr />
+
+&nbsp;
 </body>
 </html>

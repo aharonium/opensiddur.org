@@ -142,15 +142,16 @@ This is a piyyut containing the 42 letter divine name in an acrostic, recorded b
 
 <blockquote> In the late sixteenth and early seventeenth centuries, discussion of the [42 letter] name and of the piyyutim corresponding to it increases. Perhaps this is due to the rise in popularity of kabbalah after the incredibly prolific era of the kabbalists of 16th c. Tsfat. One rabbi who extensively discusses the name in the late 16th and early 17th centuries is Isaiah Horowitz (1565?–1630) in his Shnei Luḥot HaBerit. In addition to Ana be-Koaḥ, Horowitz records another piyyut which was derived from the name of 42. This piyyut which begins by describing God’s qualities is very interesting, and if my illustrious reader wants to see how it compares to other versions, please refer to the chart in the appendix. One fascinating point regarding this particular piyyut is that it is similar to the well-known El Barukh Gadol De’ah prayer.</blockquote>
 
-The vocalization provided for the unvocalized text in the Shnei Luḥot Habrit is that found in the Sefer Maavar Yabbok (1860 edition). In that version of the text, the 42 letter name provides the base for an expanded piyyut (which we have not yet transcribed fully).
-
-The translation provided here was made by Nir Krakauer, modified by Aharon Varady.
+The vocalization provided for the unvocalized text in the Shnei Luḥot Habrit is that found in the Sefer Maavar Yabbok (1860 edition). The translation provided here was made by Nir Krakauer, modified by Aharon Varady.
 
 <h3>Sources</h3>
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/ShneiLuhotHabritIsaiahHorowitz1649#page/n296/mode/2up"]
 
+&nbsp;
+
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/SeferMaavorYabok1860#page/n116/mode/2up"]
 
+&nbsp;
 </body>
 </html>

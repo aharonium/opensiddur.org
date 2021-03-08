@@ -17,13 +17,13 @@ This is an English translation of the Haftarah reading for Shabbat haḤodesh (E
 
 <h3>Source</h3>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/shabbathahodeshhaftarahreadingwithenglishtranstropilationlenfellman2019/Shabbat%20haHodesh%20Haftarah%20reading%20%28Ezekiel%2045v16-46v18%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29#page/n0"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/shabbathahodeshhaftarahreadingwithenglishtranstropilationlenfellman2019/Shabbat%20haHodesh%20Haftarah%20reading%20%28Ezekiel%2045v16-46v18%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29#page/n0/mode/2up"]
 
 &nbsp;
 
 <h3>Recording</h3>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/details/shabbathahodeshhaftarahreadingwithenglishtranstropilationlenfellman2019" show_part_of_iframe="true" show_part_of_iframe_y="75" show_part_of_iframe_height="145" show_part_of_iframe_allow_scrollbar_vertical="false"]
+https://archive.org/download/shabbat-hahodesh-haftarah-reading-with-english-transtropilation-audio-len-fellman-2019/Shabbat%20haHodesh%20Haftarah%20reading%20%28Ezekiel%2045v16-46v18%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29.mp3
 
 <hr />
 

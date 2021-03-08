@@ -21,7 +21,7 @@ More information and support are welcomed at <a href="https://blackjews.org">bla
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;" width="66%">
 <div class="english">
 Oh, merciful God who heard the cries of slaves, we beseech you now to hear the prayers of their descendants. Just as you stretch out Your mighty hand to deliver us from our first African captivity in Egypt, we implore you to remember the souls of the millions who were lost in all the places where Your people were held in cruel bondage.
 </div></td></tr>

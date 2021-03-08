@@ -8,9 +8,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <hr />
 
 <strong>DOWNLOAD:</strong> 
-<a href="https://archive.org/downloadmegillat-ruth-with-english-transtropilation-len-fellman-2020/Megillat%20Ruth%20with%20English%20transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.pdf">PDF</a> and <a href="https://archive.org/download/megillat-ruth-with-english-transtropilation-len-fellman-2020/Megillat%20Ruth%20with%20English%20transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.odt">ODT</a> (sans Hebrew) 
-<a href="https://archive.org/download/megillat-ruth-with-english-transtropilation-len-fellman-2020/Megillat%20Ruth%20with%20English%20transtropilation%20%28Len%20Fellman%202020%29.pdf">PDF</a> and <a href="https://archive.org/download/megillat-ruth-with-english-transtropilation-len-fellman-2020/Megillat%20Ruth%20with%20English%20transtropilation%20%28Len%20Fellman%202020%29.odt">ODT</a> (with Hebrew) 
-<a href="https://archive.org/download/megillat-ruth-with-english-transtropilation-len-fellman-2020/Megillat%20Ruth%20with%20English%20transtropilation%20and%20audio%20%28Len%20Fellman%202020%29.pdf">PDF</a> and <a href="https://archive.org/download/megillat-ruth-with-english-transtropilation-len-fellman-2020/Megillat%20Ruth%20with%20English%20transtropilation%20and%20audio%20%28Len%20Fellman%202020%29.odt">ODT</a> (with Hebrew and embedded audio)
+
+<a href="https://archive.org/download/megillat-ruth-with-english-transtropilation-len-fellman-2021/Megillat%20Ruth%20with%20English%20Transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.pdf">PDF</a> | <a href="https://archive.org/download/megillat-ruth-with-english-transtropilation-len-fellman-2021/Megillat%20Ruth%20with%20English%20Transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.odt">ODT</a> (sans Hebrew) 
+<a href="https://archive.org/download/megillat-ruth-with-english-transtropilation-len-fellman-2021/Megillat%20Ruth%20with%20English%20Transtropilation%20%28Len%20Fellman%202020%29.pdf">PDF</a> | <a href="https://archive.org/download/megillat-ruth-with-english-transtropilation-len-fellman-2021/Megillat%20Ruth%20with%20English%20Transtropilation%20%28Len%20Fellman%202020%29.odt">ODT</a> (with Hebrew) 
+<a href="https://archive.org/download/megillat-ruth-with-english-transtropilation-len-fellman-2021/Megillat%20Ruth%20with%20English%20Transtropilation%20and%20audio%20%28Len%20Fellman%202020%29.pdf">PDF</a> | <a href="https://archive.org/download/megillat-ruth-with-english-transtropilation-len-fellman-2021/Megillat%20Ruth%20with%20English%20Transtropilation%20and%20audio%20%28Len%20Fellman%202020%29.odt">ODT</a> (with Hebrew and embedded audio)
 
 <hr />
 
@@ -18,21 +19,22 @@ This is a megillah reading for Rūt (Ruth), transtropilized. (Transtropilation i
 
 <h3>Source</h3>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/megillat-ruth-with-english-transtropilation-len-fellman-2020/Megillat%20Ruth%20with%20English%20transtropilation%20%28Len%20Fellman%202020%29#page/n0/mode/2up"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/megillat-ruth-with-english-transtropilation-len-fellman-2021/Megillat%20Ruth%20with%20English%20Transtropilation%20%28Len%20Fellman%202020%29#page/n0/mode/2up"]
 
+&nbsp;
 <h3>Recordings</h3>
 
 Ruth chapter 1: 
-https://archive.org/download/megillat-ruth-with-english-transtropilation-len-fellman-2020/Megillat%20Ruth%20with%20Transtropilation%20-%2001%20-%20Ruth%20chapter%201%20%28Hebrew%20%26%20English%29.mp3
+https://archive.org/download/megillat-ruth-with-english-transtropilation-audio-len-fellman-2020/Megillat%20Ruth%20with%20Transtropilation%20-%2001%20-%20Ruth%20chapter%201%20%28Hebrew%20%26%20English%29.mp3
 
 Ruth chapter 2: 
-https://archive.org/download/megillat-ruth-with-english-transtropilation-len-fellman-2020/Megillat%20Ruth%20with%20Transtropilation%20-%2002%20-%20Ruth%20chapter%202%20%28Hebrew%20%26%20English%29.mp3
+https://archive.org/download/megillat-ruth-with-english-transtropilation-audio-len-fellman-2020/Megillat%20Ruth%20with%20Transtropilation%20-%2002%20-%20Ruth%20chapter%202%20%28Hebrew%20%26%20English%29.mp3
 
 Ruth chapter 3: 
-https://archive.org/download/megillat-ruth-with-english-transtropilation-len-fellman-2020/Megillat%20Ruth%20with%20Transtropilation%20-%2003%20-%20Ruth%20chapter%203%20%28Hebrew%20%26%20English%29.mp3
+https://archive.org/download/megillat-ruth-with-english-transtropilation-audio-len-fellman-2020/Megillat%20Ruth%20with%20Transtropilation%20-%2003%20-%20Ruth%20chapter%203%20%28Hebrew%20%26%20English%29.mp3
 
 Ruth chapter 4: 
-https://archive.org/download/megillat-ruth-with-english-transtropilation-len-fellman-2020/Megillat%20Ruth%20with%20Transtropilation%20-%2004%20-%20Ruth%20chapter%204%20%28Hebrew%20%26%20English%29.mp3
+https://archive.org/download/megillat-ruth-with-english-transtropilation-audio-len-fellman-2020/Megillat%20Ruth%20with%20Transtropilation%20-%2004%20-%20Ruth%20chapter%204%20%28Hebrew%20%26%20English%29.mp3
 
 <hr />
 

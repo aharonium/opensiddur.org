@@ -23,7 +23,8 @@ Making digital scans of siddurim and other collections of prayers in the Public 
 
 <hr />
 
-<div class="english">
+
+<div class="english" style="font-size: 1.2em;">
 <h3>PREFACE</h3>
 
 We offer to the Jewish public this arrangement of “Sabbath Services for the Modern Synagogue,” in the hope that it will advance our religious purpose to reconstruct and revitalize Jewish life. We believe that it will strengthen the spirit of faith and piety in many Jews who do not find that the prayer books now in use fully answer their spiritual needs. 

@@ -18,12 +18,12 @@ The <em>Birkat Kohanim</em> may have been a well-known liturgical formula in Anc
 <tr>
 <td style="vertical-align: top;" width="46%">
 <div class="liturgy"><span lang="he">
-<sup>כב</sup> וַיְדַבֵּר יְהוָה אֶל מֹשֶׁה לֵּאמֹר׃
+6 <sup>כב</sup> וַיְדַבֵּר יְהוָה אֶל מֹשֶׁה לֵּאמֹר׃
 <sup>כג</sup> דַּבֵּר אֶל אַהֲרֹן וְאֶל בָּנָיו לֵאמֹר כֹּה תְבָרֲכוּ אֶת בְּנֵי יִשְׂרָאֵל אָמוֹר לָהֶם׃
 </span></div></td>
 <td style="vertical-align: top;" width="53%">
-<div class="english">(6:22) Speak to Aharon and his sons:
-(6:23) Thus shall you bless the people of Israel. Say to them:</div></td>
+<div class="english">6 <sup>22</sup> Speak to Aharon and his sons:
+<sup>23</sup> Thus shall you bless the people of Israel. Say to them:</div></td>
 </tr>   <tr>
 <td style="vertical-align: top;" width="46%">
 <div class="liturgy"><span lang="he">
@@ -32,16 +32,16 @@ The <em>Birkat Kohanim</em> may have been a well-known liturgical formula in Anc
 <sup>כו</sup> יִשָּׂא יְהוָה פָּנָיו אֵלֶיךָ וְיָשֵׂם לְךָ שָׁלוֹם׃
 </span></div></td>
 <td style="vertical-align: top;" width="53%">
-<div class="english">(6:24) May YHVH bless you and protect you!
-(6:25) May YHVH shine his face upon you <em>and be gracious towards you</em>!
-(6:26) May YHVH lift his face up to you, and give you peace!</div></td>
+<div class="english"><sup>24</sup> May YHVH bless you and protect you!
+<sup>25</sup> May YHVH shine his face upon you <em>and be gracious towards you</em>!
+<sup>26</sup> May YHVH lift his face up to you, and give you peace!</div></td>
 </tr>   <tr>
 <td style="vertical-align: top;" width="46%">
 <div class="liturgy"><span lang="he">
 <sup>כז</sup> וְשָׂמוּ אֶת שְׁמִי עַל בְּנֵי יִשְׂרָאֵל וַאֲנִי אֲבָרֲכֵם׃
 </span></div></td>
 <td style="vertical-align: top;" width="53%">
-<div class="english">(6:27) Thus they shall link My name with the people of Israel, and I will bless them.</div></td>
+<div class="english"><sup>27</sup> Thus they shall link My name with the people of Israel, and I will bless them.</div></td>
 </tr>
 </tbody></table>
 

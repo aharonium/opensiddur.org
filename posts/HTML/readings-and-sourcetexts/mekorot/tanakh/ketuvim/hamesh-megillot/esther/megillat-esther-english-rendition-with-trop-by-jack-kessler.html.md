@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: The Megillah of Esther: An Original English Rendition Set to Trōp, by Ḥazzan Jack Kessler<br />
+Title: An Adaptation of the Megillah of Esther, an English Rendition with Trōp, by Ḥazzan Jack Kessler (1990)<br />
 Primary contributor: yakov.kessler<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=18913">http://opensiddur.org/?p=18913</a>
 <p />

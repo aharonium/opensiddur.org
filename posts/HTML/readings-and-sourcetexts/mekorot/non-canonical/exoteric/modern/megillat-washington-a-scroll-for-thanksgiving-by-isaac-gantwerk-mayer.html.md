@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: מְגִלַּת וָשִׁעְתּוֹן | Megillat Washington: A Scroll for Thanksgiving, by Isaac Gantwerk Mayer (1790, 2018)<br />
+Title: מְגִלַּת וָשִׁעְתּוֹן | Megillat Washington: A Scroll for Thanksgiving Day, by Isaac Gantwerk Mayer (1790, 2018)<br />
 Primary contributor: isaac-gantwerk.mayer<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=22602">http://opensiddur.org/?p=22602</a>
 <p />

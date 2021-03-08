@@ -2,7 +2,7 @@
 <head></head>
 <body>
 Title: בִּרְכוֹת הַתּוֹרָה | Birkhot haTorah, paraliturgical reflections by Rabbi Shoshana Meira Friedman<br />
-Primary contributor: aharon.varady<br />
+Primary contributor: shoshana.friedman<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=31384">http://opensiddur.org/?p=31384</a>
 <p />
 <hr />
@@ -99,7 +99,7 @@ I bless You, Holy One, who teaches wisdom through the ages and in my life.
 
 <hr />
 
-Rabbi Shoshana Meira's paraliturgical interpretation of the Birkhot haTorah (the blessings over learning Torah), is published in her <a href="https://opensiddur.org/compilations/siddurim/morning-siddur/jewish-prayer-as-shame-resilience-practice-siddur-vlo-nevosh-by-rabbi-shoshana-friedman/">Siddur v'lo Nevosh</a> (2014). Linear correspondence between the Hebrew source and the English by Aharon Varady.
+Rabbi Shoshana Meira's paraliturgical interpretation of the Birkhot haTorah (the blessings over learning Torah), was first published in her <a href="/?p=9556">Siddur v'lo Nevosh</a> (2014). Linear correspondence between the Hebrew source and the English by Aharon Varady.
 
 <h3>Source(s)</h3>
 

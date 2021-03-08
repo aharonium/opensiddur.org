@@ -2,7 +2,7 @@
 <head></head>
 <body>
 Title: רִבּוֹן הָעוֹלָמִים | Ribon HaOlamim, a paraliturgical reflection by Rabbi Shoshana Meira Friedman<br />
-Primary contributor: aharon.varady<br />
+Primary contributor: shoshana.friedman<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=31386">http://opensiddur.org/?p=31386</a>
 <p />
 <hr />
@@ -191,7 +191,7 @@ While being in humble relationship to You.
 
 <hr />
 
-Rabbi Shoshana Meira's paraliturgical interpretation of Ribon haOlamim (a/k/a <em>kabbalat ol malkhut shamayim</em>), is published in her <a href="https://opensiddur.org/compilations/siddurim/morning-siddur/jewish-prayer-as-shame-resilience-practice-siddur-vlo-nevosh-by-rabbi-shoshana-friedman/">Siddur v'lo Nevosh</a> (2014). Linear correspondence between the Hebrew source and the English by Aharon Varady.
+Rabbi Shoshana Meira's paraliturgical interpretation of Ribon haOlamim (a/k/a <em>kabbalat ol malkhut shamayim</em>), was first published in her <a href="/?p=9556">Siddur v'lo Nevosh</a> (2014). Linear correspondence between the Hebrew source and the English by Aharon Varady.
 
 <h3>Source(s)</h3>
 

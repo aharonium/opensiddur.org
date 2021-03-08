@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: אמת ואמונה | Emet v'Emunah, blessing following the Shema in the evening (interpretive rendering by Rabbi Zalman Schachter-Shalomi)<br />
+Title: בִּרְכָּת גָּאַל יִשְׂרָאֵל | Emet v'Emunah, interpretive translation by Rabbi Zalman Schachter-Shalomi<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=29411">http://opensiddur.org/?p=29411</a>
 <p />

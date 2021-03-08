@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: קריאת שמע | The Recitation of the Shema, translated by Rabbi Zalman Schachter-Shalomi<br />
+Title: שְׁמַע | The Shema, interpretive translation by Rabbi Zalman Schachter-Shalomi<br />
 Primary contributor: zalman.schachter-shalomi<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=20907">http://opensiddur.org/?p=20907</a>
 <p />
@@ -10,7 +10,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 שְׁמַ֖<span style="font-size: xx-large;">ע</span> יִשְׂרָאֵ֑ל 
 &nbsp;
@@ -18,7 +18,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 יְהוָ֥ה ׀ אֶחָֽ<span style="font-size: xx-large;">ד</span>׃ <span class="citation">(דברים ו:ד)</span> 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <strong>Listen</strong>, you, Yisrael person,
 <span class="instruction">(say your own name here)</span>
@@ -28,14 +28,14 @@ All there Is.[foot]Deuteronomy 6:4[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="instruction">[בלחש]</span> 
 בָּרוּךְ שֵׁם כְּבוֹד מַלְכוּתוֹ 
 לְעוֹלָם וָעֶד׃ <span class="citation">(משנה יומא ג:ח, פסחים נו א, <a href="https://www.sefaria.org/Midrash_Tanchuma_Buber%2C_Kedoshim.6?vhe=Midrash_Tanhuma_haKadum_veHaYashan,_S._Buber,_1885&lang=bi">מדרש תנחומא - בובר קדושים ו׳</a>, ועוד)</span> 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="instruction">[<em>whisper</em>]</span> 
 Through time and space,
@@ -43,7 +43,7 @@ Your glory shines, Majestic One.[foot]Mishna Yoma 3:8, Pesachim 56a, Bereishit R
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 וְאָ֣הַבְתָּ֔ אֵ֖ת יְהוָ֣ה אֱלֹהֶ֑יךָ 
 בְּכָל־לְבָבְךָ֥ 
@@ -51,7 +51,7 @@ Your glory shines, Majestic One.[foot]Mishna Yoma 3:8, Pesachim 56a, Bereishit R
 וּבְכָל־מְאֹדֶֽךָ׃ <span class="citation">(דברים ו:ה)</span> 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <strong>Love Yah</strong>, who is your God, 
 In what your heart is,
@@ -60,7 +60,7 @@ In what you have made your own.[foot]Deuteronomy 6:5[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 וְהָי֞וּ הַדְּבָרִ֣ים הָאֵ֗לֶּה 
 אֲשֶׁ֨ר אָנֹכִ֧י מְצַוְּךָ֛ הַיּ֖וֹם 
@@ -78,7 +78,7 @@ In what you have made your own.[foot]Deuteronomy 6:5[/foot]
 וּבִשְׁעָרֶֽיךָ׃ <span class="citation">(דברים ו:ו-ט)</span> 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 May these values
 Which I connect with your life,
@@ -97,7 +97,7 @@ And in your environment.[foot]Deuteronomy 6:6-9[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 וְהָיָ֗ה 
 אִם־שָׁמֹ֤עַ 
@@ -116,7 +116,7 @@ And in your environment.[foot]Deuteronomy 6:6-9[/foot]
 וְאָכַלְתָּ֖ וְשָׂבָֽעְתָּ׃ <span class="citation">(דברים יא:יג-טו)</span> 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <strong>How good it will be</strong>
 When you really listen,
@@ -136,7 +136,7 @@ All of you will eat and be content.[foot]Deuteronomy 11:13-15[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 הִשָּֽׁמְר֣וּ לָכֶ֔ם 
 פֶּ֥ן יִפְתֶּ֖ה לְבַבְכֶ֑ם 
@@ -155,7 +155,7 @@ All of you will eat and be content.[foot]Deuteronomy 11:13-15[/foot]
 אֲשֶׁ֥ר יְהוָ֖ה נֹתֵ֥ן לָכֶֽם׃ <span class="citation">(דברים יא:טז-יז)</span> 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 Be careful -- watch out!
 Don't let your cravings delude you;
@@ -175,7 +175,7 @@ In which God's gifts manifest.[foot]Deuteronomy 11:16-17[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 וְשַׂמְתֶּם֙ 
 אֶת־דְּבָרַ֣י אֵ֔לֶּה 
@@ -200,7 +200,7 @@ In which God's gifts manifest.[foot]Deuteronomy 11:16-17[/foot]
 עַל־הָאָֽרֶץ׃ <span class="citation">(דברים יא:יח-כא)</span> 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 May these values of Mine, 
 Reside in your 
@@ -226,7 +226,7 @@ Right here on this earth.[foot]Deuteronomy 11:18-21[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 וַיֹּ֥אמֶר יְהוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃
 דַּבֵּ֞ר אֶל־בְּנֵ֤י יִשְׂרָאֵל֙ וְאָמַרְתָּ֣ אֲלֵהֶ֔ם 
@@ -261,7 +261,7 @@ Right here on this earth.[foot]Deuteronomy 11:18-21[/foot]
 אֱמֶת <span class="citation">(ברכות יד ב)</span> 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <strong>Yah who Is, said to Moses,</strong>
 "Speak, telling the Israel folks
@@ -294,18 +294,6 @@ From oppression,
 in order to God you.
 I am Yah, who is your God."[foot]Numbers 15:37-41[/foot]
 That is the truth![foot]Cf. Jeremiah 10:10, Berakhot 14b[/foot]
-</div></td></tr>
-
-
-<tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
-
-</span></div></td>
- 
-<td style="vertical-align:top;" width="53%">
-<div class="english">
-
-
 </div></td></tr>
 </tbody></table>
 

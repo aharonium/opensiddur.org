@@ -2,7 +2,7 @@
 <head></head>
 <body>
 Title: אֲשֶׁר יָצַר | Asher Yatsar, a paraliturgical reflection by Rabbi Shoshana Meira Friedman<br />
-Primary contributor: aharon.varady<br />
+Primary contributor: shoshana.friedman<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=31371">http://opensiddur.org/?p=31371</a>
 <p />
 <hr />
@@ -93,7 +93,7 @@ who creates healing and miracles.[foot]Cf. Talmud Bavli Brachot 60b.[/foot]
 
 <hr />
 
-Rabbi Shoshana Meira's paraliturgical interpretation of Asher Yatsar (the blessing for health following urination and defecation), is published in her <a href="https://opensiddur.org/compilations/siddurim/morning-siddur/jewish-prayer-as-shame-resilience-practice-siddur-vlo-nevosh-by-rabbi-shoshana-friedman/">Siddur v'lo Nevosh</a> (2014). Linear correspondence between the Hebrew source and the English by Aharon Varady.
+Rabbi Shoshana Meira's paraliturgical interpretation of Asher Yatsar (the blessing for health following urination and defecation), was first published in her <a href="/?p=9556">Siddur v'lo Nevosh</a> (2014). Linear correspondence between the Hebrew source and the English by Aharon Varady.
 
 <h3>Source(s)</h3>
 

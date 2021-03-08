@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: בִּרְכָּת אַהֲבַה | Birkat Ahavah, by Michal Talya<br />
+Title: בִּרְכָּת אַהֲבַה | Ahavah Rabbah, by Michal Talya<br />
 Primary contributor: abraham.leader<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=30518">http://opensiddur.org/?p=30518</a>
 <p />

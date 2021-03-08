@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: שמע | Sh’ma: an Interpretation for the 21st Century by Rabbi Arthur Waskow (2003)<br />
+Title: שְׁמַע | Shema, an interpretive translation by Rabbi Arthur Waskow (2003)<br />
 Primary contributor: arthur.waskow<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=3580">http://opensiddur.org/?p=3580</a>
 <p />
@@ -266,6 +266,6 @@ The Infinite/ One.
 
 <hr />
 
-Rabbi Arthur Waskow's expansion of and meditation on the <a href="https://secure.wikimedia.org/wikipedia/en/wiki/Shema">Shema</a> was originally composed on the 6th of Tishrei, 5764 (October 2nd, 2003).
+Rabbi Arthur Waskow's "Sh'ma: An Interpretation for the 21st Century" was originally composed on the 6th of Tishrei, 5764 (October 2nd, 2003).
 </body>
 </html>

@@ -23,7 +23,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <div class="english">
 The soul of every living being 
 shall bless your Name, YHVH our <em>elo'ah</em>. 
-And the spirit of all flesh 
+And the spirit of every mortal being
 shall glorify and exalt your remembrance, 
 our King, always. 
 </div></td></tr>

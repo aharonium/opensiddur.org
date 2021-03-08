@@ -2,7 +2,7 @@
 <head></head>
 <body>
 Title: מַה־טֹּבוּ | Mah Tovu, a paraliturgical reflection by Rabbi Shoshana Meira Friedman<br />
-Primary contributor: aharon.varady<br />
+Primary contributor: shoshana.friedman<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=31341">http://opensiddur.org/?p=31341</a>
 <p />
 <hr />
@@ -60,7 +60,7 @@ This is what saves me from myself.[foot]cf. Psalms 69:14.[/foot]
 
 <hr />
 
-Rabbi Shoshana Meira's paraliturgical interpretation of Mah Tovu, the prayer for entering sacred communal spaces, is published in her <a href="https://opensiddur.org/compilations/siddurim/morning-siddur/jewish-prayer-as-shame-resilience-practice-siddur-vlo-nevosh-by-rabbi-shoshana-friedman/">Siddur v'lo Nevosh</a> (2014). Linear correspondence between the Hebrew source and the English by Aharon Varady.
+Rabbi Shoshana Meira's paraliturgical interpretation of Mah Tovu, the prayer for entering sacred communal spaces, was first published in her <a href="/?p=9556">Siddur v'lo Nevosh</a> (2014). Linear correspondence between the Hebrew source and the English by Aharon Varady.
 
 <h3>Source(s)</h3>
 

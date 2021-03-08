@@ -7,41 +7,9 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<strong>DOWNLOAD:</strong> 
-<a href="https://archive.org/download/megillatestherwithenglishtranstropilationlenfellman2019_202003/Megillat%20Esther%20-%20English%20transtropilation%20with%20special%20melodies%20%28Len%20Fellman%202021%29%20-%20english%20only.pdf">PDF</a> and <a href="https://archive.org/download/megillatestherwithenglishtranstropilationlenfellman2019_202003/Megillat%20Esther%20-%20English%20transtropilation%20with%20special%20melodies%20%28Len%20Fellman%202021%29%20-%20english%20only.odt">ODT</a> (sans Hebrew) 
-<a href="https://archive.org/download/megillatestherwithenglishtranstropilationlenfellman2019_202003/Megillat%20Esther%20-%20English%20transtropilation%20with%20special%20melodies%20%28Len%20Fellman%202021%29.pdf">PDF</a> and <a href="https://archive.org/download/megillatestherwithenglishtranstropilationlenfellman2019_202003/Megillat%20Esther%20-%20English%20transtropilation%20with%20special%20melodies%20%28Len%20Fellman%202021%29.odt">ODT</a> (with Hebrew) 
-<a href="https://archive.org/download/megillatestherwithenglishtranstropilationlenfellman2019_202003/Megillat%20Esther%20-%20English%20transtropilation%20with%20inline%20special%20melodies%20%28Len%20Fellman%202021%29.pdf">PDF</a> and <a href="https://archive.org/download/megillatestherwithenglishtranstropilationlenfellman2019_202003/Megillat%20Esther%20-%20English%20transtropilation%20with%20inline%20special%20melodies%20%28Len%20Fellman%202019%29.odt">ODT</a> (with Hebrew and inline special melodies) 
-<a href="https://archive.org/download/megillatestherwithenglishtranstropilationlenfellman2019_202003/Megillat%20Esther%20-%20English%20transtropilation%20with%20audio%20and%20inline%20special%20melodies%20%28Len%20Fellman%202019%29.pdf">PDF</a> and <a href="https://archive.org/download/megillatestherwithenglishtranstropilationlenfellman2019_202003/Megillat%20Esther%20-%20English%20transtropilation%20with%20audio%20and%20inline%20special%20melodies%20%28Len%20Fellman%202019%29.odt">ODT</a> (with Hebrew and audio and inline special melodies)
-
-Esther chapter 1 [su_audio url="https://archive.org/download/megillatestherwithenglishtranstropilationlenfellman2019_202003/Megillat%20Esther%20ch.01%20%28Len%20Fellman%202019%29.mp3" width="60%"]
-English transtropilation: [su_audio url="https://archive.org/download/megillatestherwithenglishtranstropilationlenfellman2019_202003/Megillat%20Esther%20with%20English%20transtropilation%20ch.01%20%28Len%20Fellman%202019%29.mp3" width="60%"]
-
-Esther chapter 2 [su_audio url="https://archive.org/download/megillatestherwithenglishtranstropilationlenfellman2019_202003/Megillat%20Esther%20ch.02%20%28Len%20Fellman%202019%29.mp3" width="60%"]
-English transtropilation: [su_audio url="https://archive.org/download/megillatestherwithenglishtranstropilationlenfellman2019_202003/Megillat%20Esther%20with%20English%20transtropilation%20ch.02%20%28Len%20Fellman%202019%29.mp3" width="60%"]
-
-Esther chapter 3 [su_audio url="https://archive.org/download/megillatestherwithenglishtranstropilationlenfellman2019_202003/Megillat%20Esther%20ch.03%20%28Len%20Fellman%202019%29.mp3" width="60%"]
-English transtropilation: [su_audio url="https://archive.org/download/megillatestherwithenglishtranstropilationlenfellman2019_202003/Megillat%20Esther%20with%20English%20transtropilation%20ch.03%20%28Len%20Fellman%202019%29.mp3" width="60%"]
-
-Esther chapter 4 [su_audio url="https://archive.org/download/megillatestherwithenglishtranstropilationlenfellman2019_202003/Megillat%20Esther%20ch.04%20%28Len%20Fellman%202019%29.mp3" width="60%"]
-English transtropilation: [su_audio url="https://archive.org/download/megillatestherwithenglishtranstropilationlenfellman2019_202003/Megillat%20Esther%20with%20English%20transtropilation%20ch.04%20%28Len%20Fellman%202019%29.mp3" width="60%"]
-
-Esther chapter 5 [su_audio url="https://archive.org/download/megillatestherwithenglishtranstropilationlenfellman2019_202003/Megillat%20Esther%20ch.05%20%28Len%20Fellman%202019%29.mp3" width="60%"]
-English transtropilation: [su_audio url="https://archive.org/download/megillatestherwithenglishtranstropilationlenfellman2019_202003/Megillat%20Esther%20with%20English%20transtropilation%20ch.05%20%28Len%20Fellman%202019%29.mp3" width="60%"]
-
-Esther chapter 6 [su_audio url="https://archive.org/download/megillatestherwithenglishtranstropilationlenfellman2019_202003/Megillat%20Esther%20ch.06%20%28Len%20Fellman%202019%29.mp3" width="60%"]
-English transtropilation: [su_audio url="https://archive.org/download/megillatestherwithenglishtranstropilationlenfellman2019_202003/Megillat%20Esther%20with%20English%20transtropilation%20ch.06%20%28Len%20Fellman%202019%29.mp3" width="60%"]
-
-Esther chapter 7 [su_audio url="https://archive.org/download/megillatestherwithenglishtranstropilationlenfellman2019_202003/Megillat%20Esther%20ch.07%20%28Len%20Fellman%202019%29.mp3" width="60%"]
-English transtropilation: [su_audio url="https://archive.org/download/megillatestherwithenglishtranstropilationlenfellman2019_202003/Megillat%20Esther%20with%20English%20transtropilation%20ch.07%20%28Len%20Fellman%202019%29.mp3" width="60%"]
-
-Esther chapter 8 [su_audio url="https://archive.org/download/megillatestherwithenglishtranstropilationlenfellman2019_202003/Megillat%20Esther%20ch.08%20%28Len%20Fellman%202019%29.mp3" width="60%"]
-English transtropilation: [su_audio url="https://archive.org/download/megillatestherwithenglishtranstropilationlenfellman2019_202003/Megillat%20Esther%20with%20English%20transtropilation%20ch.08%20%28Len%20Fellman%202019%29.mp3" width="60%"]
-
-Esther chapter 9 [su_audio url="https://archive.org/download/megillatestherwithenglishtranstropilationlenfellman2019_202003/Megillat%20Esther%20ch.09%20%28Len%20Fellman%202019%29.mp3" width="60%"]
-English transtropilation: [su_audio url="https://archive.org/download/megillatestherwithenglishtranstropilationlenfellman2019_202003/Megillat%20Esther%20with%20English%20transtropilation%20ch.09%20%28Len%20Fellman%202019%29.mp3" width="60%"]
-
-Esther chapter 10 [su_audio url="https://archive.org/download/megillatestherwithenglishtranstropilationlenfellman2019_202003/Megillat%20Esther%20ch.10%20%28Len%20Fellman%202019%29.mp3" width="60%"]
-English transtropilation: [su_audio url="https://archive.org/download/megillatestherwithenglishtranstropilationlenfellman2019_202003/Megillat%20Esther%20with%20English%20transtropilation%20ch.10%20%28Len%20Fellman%202019%29.mp3" width="60%"]
+<strong>DOWNLOAD:</strong>
+<a href="https://archive.org/download/megillatestherwithenglishtranstropilationlenfellman2019_202003/Megillat%20Esther%20-%20English%20transtropilation%20with%20special%20melodies%20%28Len%20Fellman%202021%29%20-%20english%20only.pdf">PDF</a> | <a href="https://archive.org/download/megillatestherwithenglishtranstropilationlenfellman2019_202003/Megillat%20Esther%20-%20English%20transtropilation%20with%20special%20melodies%20%28Len%20Fellman%202021%29%20-%20english%20only.odt">ODT</a> (sans Hebrew)
+<a href="https://archive.org/download/megillatestherwithenglishtranstropilationlenfellman2019_202003/Megillat%20Esther%20-%20English%20transtropilation%20with%20inline%20special%20melodies%20%28Len%20Fellman%202021%29.pdf">PDF</a> | <a href="https://archive.org/download/megillatestherwithenglishtranstropilationlenfellman2019_202003/Megillat%20Esther%20-%20English%20transtropilation%20with%20inline%20special%20melodies%20%28Len%20Fellman%202021%29.odt">ODT</a> (with Hebrew)
 
 <hr />
 
@@ -52,6 +20,29 @@ This is a megillah reading for Esther, transtropilized. (Transtropilation is the
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/megillatestherwithenglishtranstropilationlenfellman2019_202003/Megillat%20Esther%20-%20English%20transtropilation%20with%20inline%20special%20melodies%20%28Len%20Fellman%202021%29#page/n0/mode/2up"]
 
 &nbsp;
+
+<h3>Recordings</h3>
+Esther chapter 1 [su_audio url="https://archive.org/download/megillat-esther-with-transtropilation-len-fellman-2019/Megillat%20Esther%20ch.01%20%28Len%20Fellman%202019%29.mp3" width="60%"]
+<p style="padding-left: 40px;">English transtropilation: [su_audio url="https://archive.org/download/megillat-esther-with-transtropilation-len-fellman-2019/Megillat%20Esther%20with%20English%20transtropilation%20ch.01%20%28Len%20Fellman%202019%29.mp3" width="60%"]</p>
+Esther chapter 2 [su_audio url="https://archive.org/download/megillat-esther-with-transtropilation-len-fellman-2019/Megillat%20Esther%20ch.02%20%28Len%20Fellman%202019%29.mp3" width="60%"]
+<p style="padding-left: 40px;">English transtropilation: [su_audio url="https://archive.org/download/megillat-esther-with-transtropilation-len-fellman-2019/Megillat%20Esther%20with%20English%20transtropilation%20ch.02%20%28Len%20Fellman%202019%29.mp3" width="60%"]</p>
+Esther chapter 3 [su_audio url="https://archive.org/download/megillat-esther-with-transtropilation-len-fellman-2019/Megillat%20Esther%20ch.03%20%28Len%20Fellman%202019%29.mp3" width="60%"]
+<p style="padding-left: 40px;">English transtropilation: [su_audio url="https://archive.org/download/megillat-esther-with-transtropilation-len-fellman-2019/Megillat%20Esther%20with%20English%20transtropilation%20ch.03%20%28Len%20Fellman%202019%29.mp3" width="60%"]</p>
+Esther chapter 4 [su_audio url="https://archive.org/download/megillat-esther-with-transtropilation-len-fellman-2019/Megillat%20Esther%20ch.04%20%28Len%20Fellman%202019%29.mp3" width="60%"]
+<p style="padding-left: 40px;">English transtropilation: [su_audio url="https://archive.org/download/megillat-esther-with-transtropilation-len-fellman-2019/Megillat%20Esther%20with%20English%20transtropilation%20ch.04%20%28Len%20Fellman%202019%29.mp3" width="60%"]</p>
+Esther chapter 5 [su_audio url="https://archive.org/download/megillat-esther-with-transtropilation-len-fellman-2019/Megillat%20Esther%20ch.05%20%28Len%20Fellman%202019%29.mp3" width="60%"]
+<p style="padding-left: 40px;">English transtropilation: [su_audio url="https://archive.org/download/megillat-esther-with-transtropilation-len-fellman-2019/Megillat%20Esther%20with%20English%20transtropilation%20ch.05%20%28Len%20Fellman%202019%29.mp3" width="60%"]</p>
+Esther chapter 6 [su_audio url="https://archive.org/download/megillat-esther-with-transtropilation-len-fellman-2019/Megillat%20Esther%20ch.06%20%28Len%20Fellman%202019%29.mp3" width="60%"]
+<p style="padding-left: 40px;">English transtropilation: [su_audio url="https://archive.org/download/megillat-esther-with-transtropilation-len-fellman-2019/Megillat%20Esther%20with%20English%20transtropilation%20ch.06%20%28Len%20Fellman%202019%29.mp3" width="60%"]</p>
+Esther chapter 7 [su_audio url="https://archive.org/download/megillat-esther-with-transtropilation-len-fellman-2019/Megillat%20Esther%20ch.07%20%28Len%20Fellman%202019%29.mp3" width="60%"]
+<p style="padding-left: 40px;">English transtropilation: [su_audio url="https://archive.org/download/megillat-esther-with-transtropilation-len-fellman-2019/Megillat%20Esther%20with%20English%20transtropilation%20ch.07%20%28Len%20Fellman%202019%29.mp3" width="60%"]</p>
+Esther chapter 8 [su_audio url="https://archive.org/download/megillat-esther-with-transtropilation-len-fellman-2019/Megillat%20Esther%20ch.08%20%28Len%20Fellman%202019%29.mp3" width="60%"]
+<p style="padding-left: 40px;">English transtropilation: [su_audio url="https://archive.org/download/megillat-esther-with-transtropilation-len-fellman-2019/Megillat%20Esther%20with%20English%20transtropilation%20ch.08%20%28Len%20Fellman%202019%29.mp3" width="60%"]</p>
+Esther chapter 9 [su_audio url="https://archive.org/download/megillat-esther-with-transtropilation-len-fellman-2019/Megillat%20Esther%20ch.09%20%28Len%20Fellman%202019%29.mp3" width="60%"]
+<p style="padding-left: 40px;">English transtropilation: [su_audio url="https://archive.org/download/megillat-esther-with-transtropilation-len-fellman-2019/Megillat%20Esther%20with%20English%20transtropilation%20ch.09%20%28Len%20Fellman%202019%29.mp3" width="60%"]</p>
+Esther chapter 10 [su_audio url="https://archive.org/download/megillat-esther-with-transtropilation-len-fellman-2019/Megillat%20Esther%20ch.10%20%28Len%20Fellman%202019%29.mp3" width="60%"]
+<p style="padding-left: 40px;">English transtropilation: [su_audio url="https://archive.org/download/megillat-esther-with-transtropilation-len-fellman-2019/Megillat%20Esther%20with%20English%20transtropilation%20ch.10%20%28Len%20Fellman%202019%29.mp3" width="60%"]</p>
+
 
 <hr />
 

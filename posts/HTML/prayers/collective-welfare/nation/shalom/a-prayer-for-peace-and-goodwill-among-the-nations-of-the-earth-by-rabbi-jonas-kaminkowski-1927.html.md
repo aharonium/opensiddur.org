@@ -17,7 +17,24 @@ For attribution and license, please consult the following URL: <a href="http://o
  
 <td style="vertical-align:top;">
 <div class="english">
-Omnipotent God, merciful Father, from under the misty clouds of selfishness, prejudice, intolerance, and hatred that are still hovering over a great portion of humanity, we beseech Thee, O Lord our God, to dissipate the darkness of our earth and illuminate our souls with a flash of Heavenly light and truth. Kindle our hearts with a spark of Thy divine love, so that we may realize and fulfill Thy sacred will to bring about our salvation by sympathy, goodwill and peace among all the nations of the earth. 
+Omnipotent God, merciful Father, 
+from under the misty clouds of selfishness, 
+prejudice, 
+intolerance, 
+and hatred 
+that are still hovering over a great portion of humanity, 
+we beseech Thee, O Lord our God, 
+to dissipate the darkness of our earth 
+and illuminate our souls 
+with a flash of Heavenly light and truth. 
+Kindle our hearts 
+with a spark of Thy divine love, 
+so that we may realize and fulfill 
+Thy sacred will to bring about our salvation 
+by sympathy, 
+goodwill 
+and peace 
+among all the nations of the earth. 
 </div></td></tr>
 
 
@@ -28,7 +45,28 @@ Omnipotent God, merciful Father, from under the misty clouds of selfishness, pre
  
 <td style="vertical-align:top;">
 <div class="english">
-We all have sinned against Thee, O Heavenly Father! Those who have power and wealth by offending, injuring or oppressing the weak and the poor; and those oppressed, persecuted and humiliated, by abandoning their faith and losing their confidence in the brotherhood of men and providence of God. Have mercy upon Thy children who have lost Thy ways and forgotten Thy commandments; who are indifferent to, or cause, the sufferings of their fellow-men. Fulfill Thy promise that Thou hast given to Israel through Thy prophets, and extend it to all Thy children: “And I will give them one heart, and I will put a new spirit within you, and I will take the stony heart out of their flesh and will give them a heart of flesh.”[foot]Ezekiel 11:19 and Ezekiel 36:26–27. See also Jeremiah 32:39–40.[/foot]
+We all have sinned against Thee, O Heavenly Father! 
+Those who have power and wealth 
+by offending, injuring or oppressing 
+the weak and the poor; 
+and those oppressed, persecuted and humiliated, 
+by abandoning their faith 
+and losing their confidence 
+in the brotherhood of men 
+and providence of God. 
+Have mercy upon Thy children 
+who have lost Thy ways 
+and forgotten Thy commandments; 
+who are indifferent to, 
+or cause, 
+the sufferings of their fellow-men. 
+Fulfill Thy promise 
+that Thou hast given to Israel through Thy prophets, 
+and extend it to all Thy children: 
+“And I will give them one heart, 
+and I will put a new spirit within you, 
+and I will take the stony heart out of their flesh 
+and will give them a heart of flesh.”[foot]Ezekiel 11:19 and Ezekiel 36:26–27. See also Jeremiah 32:39–40.[/foot]
 </div></td></tr>
 
 
@@ -39,11 +77,31 @@ We all have sinned against Thee, O Heavenly Father! Those who have power and wea
  
 <td style="vertical-align:top;">
 <div class="english">
-Almighty God! Thou hast created man in Thine image and endowed him with the power to rise above his selfish interests. In extraordinary moments of great calamities, that from time to time befall mankind, we find within us the moral courage and divine inspiration which help us achieve wonderful deeds of heroism and self-sacrifice for the sake of our fellow-men. Awaken, O Lord, those dormant powers within us. Help us realize our spiritual and moral capacities to the end that we may exercise them every day and every hour for the benefit of mankind, thus glorifying Thy holy name and proclaiming Thy Divine will to have peace and love reign on earth. <em>Amen</em>. 
+Almighty God! 
+Thou hast created man in Thine image 
+and endowed him with the power 
+to rise above his selfish interests. 
+In extraordinary moments of great calamities, 
+that from time to time befall mankind, 
+we find within us the moral courage 
+and divine inspiration 
+which help us achieve wonderful deeds 
+of heroism and self-sacrifice 
+for the sake of our fellow-men. 
+Awaken, O Lord, those dormant powers within us. 
+Help us realize our spiritual and moral capacities 
+to the end that we may exercise them 
+every day and every hour for the benefit of mankind, 
+thus glorifying Thy holy name 
+and proclaiming Thy Divine will 
+to have peace and love reign on earth. 
+<em>Amen</em>. 
 </div></td></tr>
 </tbody></table>
 
 <hr />
+
+"A Prayer for Peace and Goodwill Among All the Nations of the Earth" by Rabbi Jonas Kaminkowski was published in <em><a href="/?p=27967">Liqutei Tefilot: Public and Pulpit Prayers</a></em> (1927), compiled by Rabbi Jacob Bosniak.
 
 <h3>Source(s)</h3>
 

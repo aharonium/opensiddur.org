@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: הַכָּרָת רִבּוֹנוּת הָאָרֶץ | Indigenous Land Acknowledgement, by Aurora Mendelsohn (2020)<br />
+Title: הַכָּרָת רִבּוֹנוּת הָאָרֶץ | Indigenous Land Acknowledgement for Toronto, by Aurora Mendelsohn (2020)<br />
 Primary contributor: rainbowtallitbaby<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=30866">http://opensiddur.org/?p=30866</a>
 <p />

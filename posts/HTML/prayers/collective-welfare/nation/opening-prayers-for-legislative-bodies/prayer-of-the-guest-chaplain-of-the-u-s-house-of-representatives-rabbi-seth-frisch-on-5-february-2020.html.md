@@ -27,8 +27,6 @@ I pray that we will all heed his words today, that out of many, we are one Natio
 
 </div>
 
-</div>
-
 <hr />
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
@@ -160,7 +158,7 @@ to all.
 
 <h3>Source(s)</h3>
 
-1116th Congress, 2nd Session
+116th Congress, 2nd Session
 Issue: Vol. 166, No. 24 — Daily Edition (February 5, 2020)
 <!-- 
 link: https://chaplain.house.gov/archive/index.html?id=1222

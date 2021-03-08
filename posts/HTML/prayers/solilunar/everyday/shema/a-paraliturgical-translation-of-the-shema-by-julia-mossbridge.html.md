@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: שמע | A Paraliturgical Interpretation of the Shema (Deuteronomy 6:4-9), by Julia Mossbridge<br />
+Title: שְׁמַע | A Paraliturgical Reflection of the Shema (Deuteronomy 6:4-9), by Julia Mossbridge<br />
 Primary contributor: julia.mossbridge<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=31930">http://opensiddur.org/?p=31930</a>
 <p />
@@ -36,7 +36,8 @@ God is unity.
  
 <td style="vertical-align:top;">
 <div class="english">
-Take a moment to imagine the day that we understand this and can live in peace. What would that be like?
+Take a moment to imagine the day that we understand this and can live in peace. 
+What would that be like?
 </div></td></tr>
 
 
@@ -47,7 +48,9 @@ Take a moment to imagine the day that we understand this and can live in peace. 
  
 <td style="vertical-align:top;">
 <div class="english">
-What would it be like to love unconditionally with all your heart and all your might? All the time?
+What would it be like to love unconditionally 
+with all your heart and all your might? 
+All the time?
 </div></td></tr>
 
 
@@ -64,7 +67,10 @@ What would it be like to love unconditionally with all your heart and all your m
 This is what it would be like.
 You would carry the oneness of Love in your heart.
 You would teach the oneness of Love to your children.
-You would speak of the oneness of Love when you are at home, in the car, at the grocery store, when you are protesting in the streets, and when you despair because the protests did not work.
+You would speak of the oneness of Love when you are at home,
+ in the car, at the grocery store, 
+when you are protesting in the streets, 
+and when you despair because the protests did not work.
 </div></td></tr>
 
 
@@ -75,7 +81,15 @@ You would speak of the oneness of Love when you are at home, in the car, at the 
  
 <td style="vertical-align:top;">
 <div class="english">
-You are going to forget all this because life is hard. To snap yourself out of this divine hypnosis, why not wear a piece of jewelry or a special hat? Or put these words on your doorway? Seriously, this is only the most important thing that you can ever know. And even if you do all the things, the jewelry and the hat and the doorway, you will still forget. You are designed to forget and then to remember.
+You are going to forget all this because life is hard. 
+To snap yourself out of this divine hypnosis, 
+why not wear a piece of jewelry or a special hat? 
+Or put these words on your doorway? 
+Seriously, this is only the most important thing that you can ever know. 
+And even if you do all the things, 
+the jewelry and the hat and the doorway, 
+you will still forget. 
+You are designed to forget and then to remember.
 </div></td></tr>
 
 

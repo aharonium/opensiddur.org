@@ -20,5 +20,27 @@ For those of us who speak a religious language, we can understand our journey of
 The full essay accompanying Rabbi Friedman's siddur is available at her website, <a href="http://web.archive.org/web/20160804165328/http://shoshanameira.com:80/wp-content/uploads/2014/07/Prayer-as-Shame-Resilience-Practice.pdf">here</a>.
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/SiddurVLoNevoshShoshanaFriedman2014#page/n0/mode/2up"]
+
+<hr />
+
+<div class="english" style="font-size: 1.2em;">
+<h3>Index of Prayers</h3>
+<ol>
+ 	<li><a href="/?p=31341">Mah Tovu</a></li>
+ 	<li><a href="/?p=31352">Birkhot haShaḥar</a></li>
+ 	<li><a href="/?p=31371">Asher Yatsar</a></li>
+ 	<li><a href="/?p=31380">Elohai Neshamah</a></li>
+ 	<li><a href="/?p=31384">Birkhot haTorah</a></li>
+ 	<li><a href="/?p=31386">Ribon haOlamim</a></li>
+ 	<li><a href="/?p=35668">Barukh she'Amar</a></li>
+ 	<li><a href="/?p=35674">Ashrei</a></li>
+ 	<li><a href="/?p=35681">Yotser Ohr</a></li>
+ 	<li><a href="/?p=35690">Ahavah Rabbah</a></li>
+ 	<li><a href="/?p=35700">Shema</a></li>
+ 	<li><a href="/?p=35705">Emet v'Yatsiv</a></li>
+ 	<li><a href="/?p=35719">Amidah</a></li>
+ 	<li><a href="/?p=35658">Aleinu</a></li>
+</ol>
+</div>
 </body>
 </html>

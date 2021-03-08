@@ -9,13 +9,13 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <h3>Minhagim</h3>
 
-Rabbi Rallis Wiesenthal explains that in the tradition of Ashkenaz, "three <em>tzedaka</em> boxes are put out. a) <span class="hebrew">זכר למחצית השקל</span> (the half shekel) which is given to benefit torah scholars in Jerusalem, b) <span class="hebrew">מתנות לאביונים</span> (gifts for the needy), and c) <span class="hebrew">אגרא דתעניתא צדקה</span>, (the cost of the meals one would have eaten that day). The minhag was to give <span class="hebrew">שלוח מנות</span> (gifts of food) after the daytime megillah reading, and not before."
+Rabbi Rallis Wiesenthal explains that in the tradition of Ashkenaz, "three <em>tsedakah</em> boxes are put out. a) <span class="hebrew">זכר למחצית השקל</span> (the half shekel) which is given to benefit torah scholars in Jerusalem, b) <span class="hebrew">מתנות לאביונים</span> (gifts for the needy), and c) <span class="hebrew">אגרא דתעניתא צדקה</span>, (the cost of the meals one would have eaten that day). The minhag was to give <span class="hebrew">שלוח מנות</span> (gifts of food) after the daytime megillah reading, and not before."
 
 Shmueli Gonzales writes, "It is a mitsvah on Purim for everyone to read Megillat Esther, or hear it read; once at night, and again during the day. In the evening it is read after the Maariv Amidah and the Full-Kaddish is recited; in the morning the Shaḥarit Amidah and Ḥatzi-Kaddish is recited, followed by the Torah reading, and then the Megillah is read at that point. The Megillah is to be unrolled and folded into three parts, as one would a letter.  It is the custom of ḤaBaD to say the <span class="hebrew">שֶׁהֶחֱיָנוּ</span> blessing both at night and by day.
 
-R' Wiesenthal adds, "A request for absolute quiet (<span class="hebrew">שתיקה יפה בשעת קריאת המגילה וברכותיה!‏</span>) is made before the blessings for the megillah reading. According to R. Yisroel Strauss of KAJ WH 'Groggers (sirens, whistles, etc) are fairly new, 30-35 years. In fact most of the noise is still generated with stamping feet and banging of the shtender covers. The first mention of המן (Haman) gets about four seconds and the rest about 1-2 seconds, his wife <span class="hebrew">זרש</span> (Zeresh) gets equal treatment.'”
+R' Wiesenthal adds, "A request for absolute quiet (<span class="hebrew">שתיקה יפה בשעת קריאת המגילה וברכותיה!‏</span>) is made before the blessings for the megillah reading. According to R. Yisroel Strauss of KAJ WH 'Groggers (sirens, whistles, etc) are fairly new, 30-35 years. In fact most of the noise is still generated with stamping feet and banging of the shtender covers. The first mention of המן (Hâman) gets about four seconds and the rest about 1-2 seconds, his wife <span class="hebrew">זרש</span> (Zeresh) gets equal treatment.'”
 
-During a public reading, four verses are read aloud by the assembled (2:5, 8:15-16, 10:3). As three of these verses pertain specifically to Mordekhai's role in the story, a growing custom at megillah readings is to include three verses that underscore Esther's role in the story. These are the verses 2:7, 5:1, and 9:32.[foot]See <a href="http://www.ritualwell.org/ritual/repeating-verses-during-megillah-reading">this article</a> by Julia Andelman.[/foot] I've highlighted in yellow all of these verses and their transliteration. --Aharon Varady
+<span style="display: inline; background-color: yellow;">During a public reading, four verses are read aloud by the assembled (2:5, 8:15-16, 10:3). As three of these verses pertain specifically to Mordekhai's role in the story, a growing custom at megillah readings is to include three verses that underscore Esther's role in the story, "since it is Esther who risks her life to save the Jewish people," as <a href="http://www.ritualwell.org/ritual/repeating-verses-during-megillah-reading">Julia Andelman explains</a>. These are the verses 2:7, 5:1, and 9:32. I've highlighted in yellow all of these verses and included their transliteration.</span> --Aharon Varady
 
 <hr />
 
@@ -48,7 +48,7 @@ During a public reading, four verses are read aloud by the assembled (2:5, 8:15-
 Blessed are you, 
 YHVH (Hashem) our <em>elo'ah</em>, 
 cosmic majesty, 
-who sanctifies us through <em>mitzvot</em>, 
+who sanctifies us through <em>mitsvot</em>, 
 and commands us concerning the reading of the Megillah.
 </div></td>
 </tr>
@@ -260,7 +260,7 @@ and enabled us to reach this season.
  
 <td style="vertical-align:top;">
 <div class="english">
- <sup>15</sup>&nbsp;Now when the turn of Esther, the daughter of Abiḥail the uncle of Mordekhai, who had taken her for his daughter, was come to go in unto the king, she required nothing but what Heygeh the king’s chamberlain, the keeper of the women, appointed. And Esther obtained favour in the sight of all them that looked upon her. <sup>16</sup>&nbsp;So Esther was taken unto king Aḥashverosh into his house royal in the tenth month, which is the month Teveth, in the seventh year of his reign. <sup>17</sup>&nbsp;And the king loved Esther above all the women, and she obtained grace and favour in his sight more than all the virgins; so that he set the royal crown upon her head, and made her queen instead of Vashti. <sup>18</sup>&nbsp;Then the king made a great feast unto all his princes and his servants, even Esther’s feast; and he made a release to the provinces, and gave gifts, according to the bounty of the king.
+ <sup>15</sup>&nbsp;Now when the turn of Esther, the daughter of Aviḥayil the uncle of Mordekhai, who had taken her for his daughter, was come to go in unto the king, she required nothing but what Heygeh the king’s chamberlain, the keeper of the women, appointed. And Esther obtained favour in the sight of all them that looked upon her. <sup>16</sup>&nbsp;So Esther was taken unto king Aḥashverosh into his house royal in the tenth month, which is the month Teveth, in the seventh year of his reign. <sup>17</sup>&nbsp;And the king loved Esther above all the women, and she obtained grace and favour in his sight more than all the virgins; so that he set the royal crown upon her head, and made her queen instead of Vashti. <sup>18</sup>&nbsp;Then the king made a great feast unto all his princes and his servants, even Esther’s feast; and he made a release to the provinces, and gave gifts, according to the bounty of the king.
 </div></td> </tr>
 
 
@@ -280,7 +280,7 @@ and enabled us to reach this season.
  
 <td style="vertical-align:top;">
 <div class="english">
- <sup>21</sup>&nbsp;in those days, while Mordekhai sat in the king’s gate, two of the king’s chamberlains, Bigthan and Teresh, of those that kept the door, were wroth, and sought to lay hands on the king Aḥashverosh. <sup>22</sup>&nbsp;And the thing became known to Mordekhai, who told it unto Esther the queen; and Esther told the king thereof in Mordekhai’s name.
+ <sup>21</sup>&nbsp;in those days, while Mordekhai sat in the king’s gate, two of the king’s chamberlains, Bigtan and Teresh, of those that kept the door, were wroth, and sought to lay hands on the king Aḥashverosh. <sup>22</sup>&nbsp;And the thing became known to Mordekhai, who told it unto Esther the queen; and Esther told the king thereof in Mordekhai’s name.
 </div></td> </tr>
 
 
@@ -312,7 +312,7 @@ and enabled us to reach this season.
  
 <td style="vertical-align:top;">
 <div class="english">
-<sup>1</sup>&nbsp;After these things did king Aḥashverosh promote Haman the son of Hammedatha the Agagite, and advanced him, and set his seat above all the princes that were with him.
+<sup>1</sup>&nbsp;After these things did king Aḥashverosh promote Hâman the son of Hammedâta ha-Agagi, and advanced him, and set his seat above all the princes that were with him.
 </div></td> </tr>
 
 
@@ -322,7 +322,7 @@ and enabled us to reach this season.
  
 <td style="vertical-align:top;">
 <div class="english">
- <sup>2</sup>&nbsp;And all the king’s servants, that were in the king’s gate, bowed down, and prostrated themselves before Haman; for the king had so commanded concerning him. But Mordekhai bowed not down, nor prostrated himself before him. <sup>3</sup>&nbsp;Then the king’s servants, that were in the king’s gate, said unto Mordekhai: ‘Why do you transgress the king’s commandment?’
+ <sup>2</sup>&nbsp;And all the king’s servants, that were in the king’s gate, bowed down, and prostrated themselves before Hâman; for the king had so commanded concerning him. But Mordekhai bowed not down, nor prostrated himself before him. <sup>3</sup>&nbsp;Then the king’s servants, that were in the king’s gate, said unto Mordekhai: ‘Why do you transgress the king’s commandment?’
 </div></td> </tr>
 
 
@@ -332,7 +332,7 @@ and enabled us to reach this season.
  
 <td style="vertical-align:top;">
 <div class="english">
- <sup>4</sup>&nbsp;Now it came to pass, when they spoke daily unto him, and he hearkened not unto them, that they told Haman, to see whether Mordekhai’s words would stand; for he had told them that he was a Jew. <sup>5</sup>&nbsp;And when Haman saw that Mordekhai bowed not down, nor prostrated himself before him, then was Haman full of wrath. <sup>6</sup>&nbsp;But it seemed contemptible in his eyes to lay hands on Mordekhai alone; for they had made known to him the people of Mordekhai; wherefore Haman sought to destroy all the Jews that were throughout the whole kingdom of Aḥashverosh, even the people of Mordekhai.
+ <sup>4</sup>&nbsp;Now it came to pass, when they spoke daily unto him, and he hearkened not unto them, that they told Hâman, to see whether Mordekhai’s words would stand; for he had told them that he was a Jew. <sup>5</sup>&nbsp;And when Hâman saw that Mordekhai bowed not down, nor prostrated himself before him, then was Hâman full of wrath. <sup>6</sup>&nbsp;But it seemed contemptible in his eyes to lay hands on Mordekhai alone; for they had made known to him the people of Mordekhai; wherefore Hâman sought to destroy all the Jews that were throughout the whole kingdom of Aḥashverosh, even the people of Mordekhai.
 </div></td> </tr>
 
 
@@ -342,7 +342,7 @@ and enabled us to reach this season.
  
 <td style="vertical-align:top;">
 <div class="english">
- <sup>7</sup>&nbsp;In the first month, which is the month Nisan, in the twelfth year of king Aḥashverosh, they cast <em>pur</em>, that is, the lot, before Haman from day to day, and from month to month, to the twelfth month, which is the month Adar.
+ <sup>7</sup>&nbsp;In the first month, which is the month Nisan, in the twelfth year of king Aḥashverosh, they cast <em>pur</em>, that is, the lot, before Hâman from day to day, and from month to month, to the twelfth month, which is the month Adar.
 </div></td> </tr>
 
 
@@ -352,7 +352,7 @@ and enabled us to reach this season.
  
 <td style="vertical-align:top;">
 <div class="english">
- <sup>8</sup>&nbsp;And Haman said unto king Aḥashverosh: ‘There is a certain people scattered abroad and dispersed among the peoples in all the provinces of your kingdom; and their laws are diverse from those of every people; neither keep they the king’s laws; therefore it profits not the king to suffer them. <sup>9</sup>&nbsp;If it please the king, let it be written that they be destroyed; and I will pay ten thousand talents of silver into the hands of those that have the charge of the king’s business, to bring it into the king’s treasuries.’ <sup>10</sup>&nbsp;And the king took his ring from his hand, and gave it unto Haman the son of Hammedatha the Agagite, the Jews’enemy. <sup>11</sup>&nbsp;And the king said unto Haman: ‘The silver is given to thee, the people also, to do with them as it seems good to thee.’
+ <sup>8</sup>&nbsp;And Hâman said unto king Aḥashverosh: ‘There is a certain people scattered abroad and dispersed among the peoples in all the provinces of your kingdom; and their laws are diverse from those of every people; neither keep they the king’s laws; therefore it profits not the king to suffer them. <sup>9</sup>&nbsp;If it please the king, let it be written that they be destroyed; and I will pay ten thousand talents of silver into the hands of those that have the charge of the king’s business, to bring it into the king’s treasuries.’ <sup>10</sup>&nbsp;And the king took his ring from his hand, and gave it unto Hâman the son of Hammedâta ha-Agagi, the Jews’ enemy. <sup>11</sup>&nbsp;And the king said unto Hâman: ‘The silver is given to thee, the people also, to do with them as it seems good to thee.’
 </div></td> </tr>
 
 
@@ -362,7 +362,7 @@ and enabled us to reach this season.
  
 <td style="vertical-align:top;">
 <div class="english">
- <sup>12</sup>&nbsp;Then were the king’s scribes called in the first month, on the thirteenth day thereof, and there was written, according to all that Haman commanded, unto the king’s satraps, and to the governors that were over every province, and to the princes of every people; to every province according to the writing thereof, and to every people after their language; in the name of king Aḥashverosh was it written, and it was sealed with the king’s ring. <sup>13</sup>&nbsp;And letters were sent by posts into all the king’s provinces, to destroy, to slay, and to cause to perish, all Jews, both young and old, little children and women, in one day, even upon the thirteenth day of the twelfth month, which is the month Adar, and to take the spoil of them for a prey.
+ <sup>12</sup>&nbsp;Then were the king’s scribes called in the first month, on the thirteenth day thereof, and there was written, according to all that Hâman commanded, unto the king’s satraps, and to the governors that were over every province, and to the princes of every people; to every province according to the writing thereof, and to every people after their language; in the name of king Aḥashverosh was it written, and it was sealed with the king’s ring. <sup>13</sup>&nbsp;And letters were sent by posts into all the king’s provinces, to destroy, to slay, and to cause to perish, all Jews, both young and old, little children and women, in one day, even upon the thirteenth day of the twelfth month, which is the month Adar, and to take the spoil of them for a prey.
 </div></td> </tr>
 
 
@@ -382,7 +382,7 @@ and enabled us to reach this season.
  
 <td style="vertical-align:top;">
 <div class="english">
- <sup>15</sup>&nbsp;The posts went forth in haste by the king’s commandment, and the decree was given out in Shushan the castle; and the king and Haman sat down to drink; but the city of Shushan was perplexed.
+ <sup>15</sup>&nbsp;The posts went forth in haste by the king’s commandment, and the decree was given out in Shushan the castle; and the king and Hâman sat down to drink; but the city of Shushan was perplexed.
 </div></td></tr>
 	
 	
@@ -424,7 +424,7 @@ and enabled us to reach this season.
  
 <td style="vertical-align:top;">
 <div class="english">
- <sup>6</sup>&nbsp;So Hatakh went forth to Mordekhai unto the broad place of the city, which was before the king’s gate. <sup>7</sup>&nbsp;And Mordekhai told him of all that had happened unto him, and the exact sum of the money that Haman had promised to pay to the king’s treasuries for the Jews, to destroy them. <sup>8</sup>&nbsp;Also he gave him the copy of the writing of the decree that was given out in Shushan to destroy them, to show it unto Esther, and to declare it unto her; and to charge her that she should go in unto the king, to make supplication unto him, and to make request before him, for her people.
+ <sup>6</sup>&nbsp;So Hatakh went forth to Mordekhai unto the broad place of the city, which was before the king’s gate. <sup>7</sup>&nbsp;And Mordekhai told him of all that had happened unto him, and the exact sum of the money that Hâman had promised to pay to the king’s treasuries for the Jews, to destroy them. <sup>8</sup>&nbsp;Also he gave him the copy of the writing of the decree that was given out in Shushan to destroy them, to show it unto Esther, and to declare it unto her; and to charge her that she should go in unto the king, to make supplication unto him, and to make request before him, for her people.
 </div></td> </tr>
 
 
@@ -496,7 +496,7 @@ and enabled us to reach this season.
  
 <td style="vertical-align:top;">
 <div class="english">
- <sup>2</sup>&nbsp;And it was so, when the king saw Esther the queen standing in the court, that she obtained favour in his sight; and the king held out to Esther the golden sceptre that was in his hand. So Esther drew near, and touched the top of the sceptre. <sup>3</sup>&nbsp;Then said the king unto her: ‘What wilt thou, queen Esther? for whatever your request, even to the half of the kingdom, it shall be given thee.’
+ <sup>2</sup>&nbsp;And it was so, when the king saw Esther the queen standing in the court, that she obtained favour in his sight; and the king held out to Esther the golden sceptre that was in his hand. So Esther drew near, and touched the top of the sceptre. <sup>3</sup>&nbsp;Then said the king unto her: ‘What will you [desire], queen Esther? for whatever your request, even to the half of the kingdom, it shall be given thee.’
 </div></td> </tr>
 
 
@@ -506,7 +506,7 @@ and enabled us to reach this season.
  
 <td style="vertical-align:top;">
 <div class="english">
- <sup>4</sup>&nbsp;And Esther said: ‘If it seem good unto the king, let the king and Haman come this day unto the banquet that I have prepared for him.’
+ <sup>4</sup>&nbsp;And Esther said: ‘If it seem good unto the king, let the king and Hâman come this day unto the banquet that I have prepared for him.’
 </div></td> </tr>
 
 
@@ -516,7 +516,7 @@ and enabled us to reach this season.
  
 <td style="vertical-align:top;">
 <div class="english">
- <sup>5</sup>&nbsp;Then the king said: ‘Cause Haman to make haste, that it may be done as Esther has said.’ So the king and Haman came to the banquet that Esther had prepared. <sup>6</sup>&nbsp;And the king said unto Esther at the banquet of wine: ‘Whatever your petition, it shall be granted thee; and whatever your request, even to the half of the kingdom, it shall be performed.’
+ <sup>5</sup>&nbsp;Then the king said: ‘Cause Hâman to make haste, that it may be done as Esther has said.’ So the king and Hâman came to the banquet that Esther had prepared. <sup>6</sup>&nbsp;And the king said unto Esther at the banquet of wine: ‘Whatever your petition, it shall be granted thee; and whatever your request, even to the half of the kingdom, it shall be performed.’
 </div></td> </tr>
 
 
@@ -526,7 +526,7 @@ and enabled us to reach this season.
  
 <td style="vertical-align:top;">
 <div class="english">
- <sup>7</sup>&nbsp;Then answered Esther, and said: ‘My petition and my request is— <sup>8</sup>&nbsp;if I have found favour in the sight of the king, and if it please the king to grant my petition, and to perform my request— let the king and Haman come to the banquet that I shall prepare for them, and I will do to-morrow as the king has said.’
+ <sup>7</sup>&nbsp;Then answered Esther, and said: ‘My petition and my request is— <sup>8</sup>&nbsp;if I have found favour in the sight of the king, and if it please the king to grant my petition, and to perform my request— let the king and Hâman come to the banquet that I shall prepare for them, and I will do to-morrow as the king has said.’
 </div></td> </tr>
 
 
@@ -536,7 +536,7 @@ and enabled us to reach this season.
  
 <td style="vertical-align:top;">
 <div class="english">
- <sup>9</sup>&nbsp;Then went Haman forth that day joyful and glad of heart; but when Haman saw Mordekhai in the king’s gate, that he stood not up, nor moved for him, Haman was filled with wrath against Mordekhai. <sup>10</sup>&nbsp;Nevertheless Haman refrained himself, and went home; and he sent and fetched his friends and Zeresh his wife. <sup>11</sup>&nbsp;And Haman recounted unto them the glory of his riches, and the multitude of his children, and everything as to how the king had promoted him, and how he had advanced him above the princes and servants of the king. <sup>12</sup>&nbsp;Haman said moreover: ‘Yea, Esther the queen did let no man come in with the king unto the banquet that she had prepared but myself; and to-morrow also am I invited by her together with the king. <sup>13</sup>&nbsp;Yet all this avails me nothing, so long as I see Mordekhai the Jew sitting at the king’s gate.’
+ <sup>9</sup>&nbsp;Then went Hâman forth that day joyful and glad of heart; but when Hâman saw Mordekhai in the king’s gate, that he stood not up, nor moved for him, Hâman was filled with wrath against Mordekhai. <sup>10</sup>&nbsp;Nevertheless Hâman refrained himself, and went home; and he sent and fetched his friends and Zeresh his wife. <sup>11</sup>&nbsp;And Hâman recounted unto them the glory of his riches, and the multitude of his children, and everything as to how the king had promoted him, and how he had advanced him above the princes and servants of the king. <sup>12</sup>&nbsp;Hâman said moreover: ‘Yea, Esther the queen did let no man come in with the king unto the banquet that she had prepared but myself; and to-morrow also am I invited by her together with the king. <sup>13</sup>&nbsp;Yet all this avails me nothing, so long as I see Mordekhai the Jew sitting at the king’s gate.’
 </div></td> </tr>
 
 
@@ -546,7 +546,7 @@ and enabled us to reach this season.
  
 <td style="vertical-align:top;">
 <div class="english">
- <sup>14</sup>&nbsp;Then said Zeresh his wife and all his friends unto him: ‘Let a gallows be made of fifty cubits high, and in the morning speak you unto the king that Mordekhai may be hanged thereon; then go you in merrily with the king unto the banquet.’ And the thing pleased Haman; and he caused the gallows to be made.
+ <sup>14</sup>&nbsp;Then said Zeresh his wife and all his friends unto him: ‘Let a gallows be made of fifty cubits high, and in the morning speak you unto the king that Mordekhai may be hanged thereon; then go you in merrily with the king unto the banquet.’ And the thing pleased Hâman; and he caused the gallows to be made.
 </div></td></tr>
 	
 	
@@ -578,7 +578,7 @@ and enabled us to reach this season.
  
 <td style="vertical-align:top;">
 <div class="english">
- <sup>2</sup>&nbsp;And it was found written, that Mordekhai had told of Bigthana and Teresh, two of the king’s chamberlains, of those that kept the door, who had sought to lay hands on the king Aḥashverosh. <sup>3</sup>&nbsp;And the king said: ‘What honour and dignity has been done to Mordekhai for this?’ Then said the king’s servants that ministered unto him: ‘There is nothing done for him.’
+ <sup>2</sup>&nbsp;And it was found written, that Mordekhai had told of Bigtana and Teresh, two of the king’s chamberlains, of those that kept the door, who had sought to lay hands on the king Aḥashverosh. <sup>3</sup>&nbsp;And the king said: ‘What honour and dignity has been done to Mordekhai for this?’ Then said the king’s servants that ministered unto him: ‘There is nothing done for him.’
 </div></td> </tr>
 
 
@@ -588,7 +588,7 @@ and enabled us to reach this season.
  
 <td style="vertical-align:top;">
 <div class="english">
- <sup>4</sup>&nbsp;And the king said: ‘Who is in the court?’—Now Haman was come into the outer court of the king’s house, to speak unto the king to hang Mordekhai on the gallows that he had prepared for him.— <sup>5</sup>&nbsp;And the king’s servants said unto him: ‘Behold, Haman stands in the court.’ And the king said: ‘Let him come in.’
+ <sup>4</sup>&nbsp;And the king said: ‘Who is in the court?’—Now Hâman was come into the outer court of the king’s house, to speak unto the king to hang Mordekhai on the gallows that he had prepared for him.— <sup>5</sup>&nbsp;And the king’s servants said unto him: ‘Behold, Hâman stands in the court.’ And the king said: ‘Let him come in.’
 </div></td> </tr>
 
 
@@ -598,7 +598,7 @@ and enabled us to reach this season.
  
 <td style="vertical-align:top;">
 <div class="english">
- <sup>6</sup>&nbsp;So Haman came in. And the king said unto him: ‘What shall be done unto the man whom the king delights to honour?’—Now Haman said in his heart: ‘Whom would the king delight to honour besides myself?’— <sup>7</sup>&nbsp;And Haman said unto the king: ‘For the man whom the king delights to honour, <sup>8</sup>&nbsp;let royal apparel be brought which the king uses to wear, and the horse that the king rides upon, and on whose head a crown royal is set; <sup>9</sup>&nbsp;and let the apparel and the horse be delivered to the hand of one of the king’s most noble princes, that they may array the man therewith whom the king delights to honour, and cause him to ride on horseback through the street of the city, and proclaim before him: Thus shall it be done to the man whom the king delights to honour.’
+ <sup>6</sup>&nbsp;So Hâman came in. And the king said unto him: ‘What shall be done unto the man whom the king delights to honour?’—Now Hâman said in his heart: ‘Whom would the king delight to honour besides myself?’— <sup>7</sup>&nbsp;And Hâman said unto the king: ‘For the man whom the king delights to honour, <sup>8</sup>&nbsp;let royal apparel be brought which the king uses to wear, and the horse that the king rides upon, and on whose head a crown royal is set; <sup>9</sup>&nbsp;and let the apparel and the horse be delivered to the hand of one of the king’s most noble princes, that they may array the man therewith whom the king delights to honour, and cause him to ride on horseback through the street of the city, and proclaim before him: Thus shall it be done to the man whom the king delights to honour.’
 </div></td> </tr>
 
 
@@ -608,7 +608,7 @@ and enabled us to reach this season.
  
 <td style="vertical-align:top;">
 <div class="english">
- <sup>10</sup>&nbsp;Then the king said to Haman: ‘Make haste, and take the apparel and the horse, as you have said, and do even so to Mordekhai the Jew, that sits at the king’s gate; let nothing fail of all that you have spoken.’ <sup>11</sup>&nbsp;Then took Haman the apparel and the horse, and arrayed Mordekhai, and caused him to ride through the street of the city, and proclaimed before him: ‘Thus shall it be done unto the man whom the king delights to honour.’
+ <sup>10</sup>&nbsp;Then the king said to Hâman: ‘Make haste, and take the apparel and the horse, as you have said, and do even so to Mordekhai the Jew, that sits at the king’s gate; let nothing fail of all that you have spoken.’ <sup>11</sup>&nbsp;Then took Hâman the apparel and the horse, and arrayed Mordekhai, and caused him to ride through the street of the city, and proclaimed before him: ‘Thus shall it be done unto the man whom the king delights to honour.’
 
 </div></td> </tr>
 
@@ -619,7 +619,7 @@ and enabled us to reach this season.
  
 <td style="vertical-align:top;">
 <div class="english">
- <sup>12</sup>&nbsp;And Mordekhai returned to the king’s gate. But Haman hasted to his house, mourning and having his head covered. <sup>13</sup>&nbsp;And Haman recounted unto Zeresh his wife and all his friends every thing that had befallen him. Then said his wise men and Zeresh his wife unto him: ‘If Mordekhai, before whom you have begun to fall, be of the seed of the Jews, you shall not prevail against him, but shall surely fall before him.’ <sup>14</sup>&nbsp;While they were yet talking with him, came the king’s chamberlains, and hastened to bring Haman unto the banquet that Esther had prepared.
+ <sup>12</sup>&nbsp;And Mordekhai returned to the king’s gate. But Hâman hasted to his house, mourning and having his head covered. <sup>13</sup>&nbsp;And Hâman recounted unto Zeresh his wife and all his friends every thing that had befallen him. Then said his wise men and Zeresh his wife unto him: ‘If Mordekhai, before whom you have begun to fall, be of the seed of the Jews, you shall not prevail against him, but shall surely fall before him.’ <sup>14</sup>&nbsp;While they were yet talking with him, came the king’s chamberlains, and hastened to bring Hâman unto the banquet that Esther had prepared.
 </div></td></tr>
 	
 	
@@ -641,7 +641,7 @@ and enabled us to reach this season.
  
 <td style="vertical-align:top;">
 <div class="english">
-<sup>1</sup>&nbsp;So the king and Haman came to banquet with Esther the queen.
+<sup>1</sup>&nbsp;So the king and Hâman came to banquet with Esther the queen.
 </div></td> </tr>
 
 
@@ -671,7 +671,7 @@ and enabled us to reach this season.
  
 <td style="vertical-align:top;">
 <div class="english">
- <sup>5</sup>&nbsp;Then spoke the king Aḥashverosh and said unto Esther the queen: ‘Who is he, and where is he, that he dare presume in his heart to do so?’ <sup>6</sup>&nbsp;And Esther said: ‘An adversary and an enemy, even this wicked Haman.’ Then Haman was terrified before the king and the queen. <sup>7</sup>&nbsp;And the king arose in his wrath from the banquet of wine and went into the palace garden; but Haman remained to make request for his life to Esther the queen; for he saw that there was evil determined against him by the king.
+ <sup>5</sup>&nbsp;Then spoke the king Aḥashverosh and said unto Esther the queen: ‘Who is he, and where is he, that he dare presume in his heart to do so?’ <sup>6</sup>&nbsp;And Esther said: ‘An adversary and an enemy, even this wicked Hâman.’ Then Hâman was terrified before the king and the queen. <sup>7</sup>&nbsp;And the king arose in his wrath from the banquet of wine and went into the palace garden; but Hâman remained to make request for his life to Esther the queen; for he saw that there was evil determined against him by the king.
 </div></td> </tr>
 
 
@@ -681,7 +681,7 @@ and enabled us to reach this season.
  
 <td style="vertical-align:top;">
 <div class="english">
- <sup>8</sup>&nbsp;Then the king returned out of the palace garden into the place of the banquet of wine; and Haman was fallen upon the couch whereon Esther was. Then said the king: ‘Will he even force the queen before me in the house?’ As the word went out of the king’s mouth, they covered Haman’s face. <sup>9</sup>&nbsp;Then said Ḥarbonah, one of the chamberlains that were before the king: ‘Behold also, the gallows fifty cubits high, which Haman has made for Mordekhai, who spoke good for the king, stands in the house of Haman.’ And the king said: ‘Hang him thereon.’ <sup>10</sup>&nbsp;So they hanged Haman on the gallows that he had prepared for Mordekhai. Then was the king’s wrath assuaged.
+ <sup>8</sup>&nbsp;Then the king returned out of the palace garden into the place of the banquet of wine; and Hâman was fallen upon the couch whereon Esther was. Then said the king: ‘Will he even force the queen before me in the house?’ As the word went out of the king’s mouth, they covered Hâman’s face. <sup>9</sup>&nbsp;Then said Ḥarbonah, one of the chamberlains that were before the king: ‘Behold also, the gallows fifty cubits high, which Hâman has made for Mordekhai, who spoke good for the king, stands in the house of Hâman.’ And the king said: ‘Hang him thereon.’ <sup>10</sup>&nbsp;So they hanged Hâman on the gallows that he had prepared for Mordekhai. Then was the king’s wrath assuaged.
 </div></td></tr>
 	
 	
@@ -703,7 +703,7 @@ and enabled us to reach this season.
  
 <td style="vertical-align:top;">
 <div class="english">
-<sup>1</sup>&nbsp;On that day did the king Aḥashverosh give the house of Haman the Jews’ enemy unto Esther the queen. And Mordekhai came before the king; for Esther had told what he was unto her. <sup>2</sup>&nbsp;And the king took off his ring, which he had taken from Haman, and gave it unto Mordekhai. And Esther set Mordekhai over the house of Haman.
+<sup>1</sup>&nbsp;On that day did the king Aḥashverosh give the house of Hâman the Jews’ enemy unto Esther the queen. And Mordekhai came before the king; for Esther had told what he was unto her. <sup>2</sup>&nbsp;And the king took off his ring, which he had taken from Hâman, and gave it unto Mordekhai. And Esther set Mordekhai over the house of Hâman.
 </div></td> </tr>
 
 
@@ -713,7 +713,7 @@ and enabled us to reach this season.
  
 <td style="vertical-align:top;">
 <div class="english">
- <sup>3</sup>&nbsp;And Esther spoke yet again before the king, and fell down at his feet, and besought him with tears to put away the mischief of Haman the Agagite, and his device that he had devised against the Jews. <sup>4</sup>&nbsp;Then the king held out to Esther the golden sceptre. So Esther arose, and stood before the king. <sup>5</sup>&nbsp;And she said: ‘If it please the king, and if I have found favour in his sight, and the thing seem right before the king, and I be pleasing in his eyes, let it be written to reverse the letters devised by Haman the son of Hammedatha the Agagite, which he wrote to destroy the Jews that are in all the king’s provinces; <sup>6</sup>&nbsp;for how can I endure to see the evil that shall come unto my people? or how can I endure to see the destruction of my kindred?’
+ <sup>3</sup>&nbsp;And Esther spoke yet again before the king, and fell down at his feet, and besought him with tears to put away the mischief of Hâman ha-Agagi, and his device that he had devised against the Jews. <sup>4</sup>&nbsp;Then the king held out to Esther the golden sceptre. So Esther arose, and stood before the king. <sup>5</sup>&nbsp;And she said: ‘If it please the king, and if I have found favour in his sight, and the thing seem right before the king, and I be pleasing in his eyes, let it be written to reverse the letters devised by Hâman the son of Hammedâta ha-Agagi, which he wrote to destroy the Jews that are in all the king’s provinces; <sup>6</sup>&nbsp;for how can I endure to see the evil that shall come unto my people? or how can I endure to see the destruction of my kindred?’
 </div></td> </tr>
 
 
@@ -723,7 +723,7 @@ and enabled us to reach this season.
  
 <td style="vertical-align:top;">
 <div class="english">
- <sup>7</sup>&nbsp;Then the king Aḥashverosh said unto Esther the queen and to Mordekhai the Jew: ‘Behold, I have given Esther the house of Haman, and him they have hanged upon the gallows, because he laid his hand upon the Jews. <sup>8</sup>&nbsp;Write you also concerning the Jews, as you like it, in the king’s name, and seal it with the king’s ring; for the writing which is written in the king’s name, and sealed with the king’s ring, may no man reverse.’ <sup>9</sup>&nbsp;Then were the king’s scribes called at that time, in the third month, which is the month Sivan, on the three and twentieth day thereof; and it was written according to all that Mordekhai commanded concerning the Jews, even to the satraps, and the governors and princes of the provinces which are from India unto Ethiopia, a hundred twenty and seven provinces, unto every province according to the writing thereof, and unto every people after their language, and to the Jews according to their writing, and according to their language. <sup>10</sup>&nbsp;And they wrote in the name of king Aḥashverosh, and sealed it with the king’s ring, and sent letters by posts on horseback, riding on swift steeds that were used in the king’s service, bred of the stud; <sup>11</sup>&nbsp;that the king had granted the Jews that were in every city to gather themselves together, and to stand for their life, to destroy, and to slay, and to cause to perish, all the forces of the people and province that would assault them, their little ones and women, and to take the spoil of them for a prey, <sup>12</sup>&nbsp;upon one day in all the provinces of king Aḥashverosh, namely, upon the thirteenth day of the twelfth month, which is the month Adar. <sup>13</sup>&nbsp;The copy of the writing, to be given out for a decree in every province, was to be published unto all the peoples, and that the Jews should be ready against that day to avenge themselves on their enemies. <sup>14</sup>&nbsp;So the posts that rode upon swift steeds that were used in the king’s service went out, being hastened and pressed on by the king’s commandment; and the decree was given out in Shushan the castle.
+ <sup>7</sup>&nbsp;Then the king Aḥashverosh said unto Esther the queen and to Mordekhai the Jew: ‘Behold, I have given Esther the house of Hâman, and him they have hanged upon the gallows, because he laid his hand upon the Jews. <sup>8</sup>&nbsp;Write you also concerning the Jews, as you like it, in the king’s name, and seal it with the king’s ring; for the writing which is written in the king’s name, and sealed with the king’s ring, may no man reverse.’ <sup>9</sup>&nbsp;Then were the king’s scribes called at that time, in the third month, which is the month Sivan, on the three and twentieth day thereof; and it was written according to all that Mordekhai commanded concerning the Jews, even to the satraps, and the governors and princes of the provinces which are from India unto Ethiopia, a hundred twenty and seven provinces, unto every province according to the writing thereof, and unto every people after their language, and to the Jews according to their writing, and according to their language. <sup>10</sup>&nbsp;And they wrote in the name of king Aḥashverosh, and sealed it with the king’s ring, and sent letters by posts on horseback, riding on swift steeds that were used in the king’s service, bred of the stud; <sup>11</sup>&nbsp;that the king had granted the Jews that were in every city to gather themselves together, and to stand for their life, to destroy, and to slay, and to cause to perish, all the forces of the people and province that would assault them, their little ones and women, and to take the spoil of them for a prey, <sup>12</sup>&nbsp;upon one day in all the provinces of king Aḥashverosh, namely, upon the thirteenth day of the twelfth month, which is the month Adar. <sup>13</sup>&nbsp;The copy of the writing, to be given out for a decree in every province, was to be published unto all the peoples, and that the Jews should be ready against that day to avenge themselves on their enemies. <sup>14</sup>&nbsp;So the posts that rode upon swift steeds that were used in the king’s service went out, being hastened and pressed on by the king’s commandment; and the decree was given out in Shushan the castle.
 </div></td> </tr>
 
 
@@ -785,17 +785,17 @@ and enabled us to reach this season.
  
 <td style="vertical-align:top;">
 <div class="english">
- <sup>7</sup>&nbsp;And Parshandatha, 
+ <sup>7</sup>&nbsp;And Parshandâta, 
  and Dalphon, 
- and Aspatha, 
- <sup>8</sup>&nbsp;and Poratha, 
+ and Aspâta, 
+ <sup>8</sup>&nbsp;and Porata, 
  and Adalia, 
- and Aridatha, 
+ and Aridâta, 
  <sup>9</sup>&nbsp;and Parmashta, 
  and Arisai, 
  and Aridai, 
- and Vaizatha, 
- <sup>10</sup>&nbsp;the ten sons of Haman the son of Hammedatha, the Jews’ enemy, slew they; but on the spoil they laid not their hand.
+ and Vaizâta, 
+ <sup>10</sup>&nbsp;the ten sons of Hâman the son of Hammedâta, the Jews’ enemy, slew they; but on the spoil they laid not their hand.
 </div></td> </tr>
 
 
@@ -805,7 +805,7 @@ and enabled us to reach this season.
  
 <td style="vertical-align:top;">
 <div class="english">
- <sup>11</sup>&nbsp;On that day the number of those that were slain in Shushan the castle was brought before the king. <sup>12</sup>&nbsp;And the king said unto Esther the queen: ‘The Jews have slain and destroyed five hundred men in Shushan the castle, and the ten sons of Haman; what then have they done in the rest of the king’s provinces! Now whatever your petition, it shall be granted thee; and whatever your request further, it shall be done.’
+ <sup>11</sup>&nbsp;On that day the number of those that were slain in Shushan the castle was brought before the king. <sup>12</sup>&nbsp;And the king said unto Esther the queen: ‘The Jews have slain and destroyed five hundred men in Shushan the castle, and the ten sons of Hâman; what then have they done in the rest of the king’s provinces! Now whatever your petition, it shall be granted thee; and whatever your request further, it shall be done.’
 </div></td> </tr>
 
 
@@ -815,7 +815,7 @@ and enabled us to reach this season.
  
 <td style="vertical-align:top;">
 <div class="english">
- <sup>13</sup>&nbsp;Then said Esther: ‘If it please the king, let it be granted to the Jews that are in Shushan to do to-morrow also according unto this day’s decree, and let Haman’s ten sons be hanged upon the gallows.’ <sup>14</sup>&nbsp;And the king commanded it so to be done; and a decree was given out in Shushan; and they hanged Haman’s ten sons. <sup>15</sup>&nbsp;And the Jews that were in Shushan gathered themselves together on the fourteenth day also of the month Adar, and slew three hundred men in Shushan; but on the spoil they laid not their hand.
+ <sup>13</sup>&nbsp;Then said Esther: ‘If it please the king, let it be granted to the Jews that are in Shushan to do to-morrow also according unto this day’s decree, and let Hâman’s ten sons be hanged upon the gallows.’ <sup>14</sup>&nbsp;And the king commanded it so to be done; and a decree was given out in Shushan; and they hanged Hâman’s ten sons. <sup>15</sup>&nbsp;And the Jews that were in Shushan gathered themselves together on the fourteenth day also of the month Adar, and slew three hundred men in Shushan; but on the spoil they laid not their hand.
 </div></td> </tr>
 
 
@@ -835,7 +835,7 @@ and enabled us to reach this season.
  
 <td style="vertical-align:top;">
 <div class="english">
- <sup>20</sup>&nbsp;And Mordekhai wrote these things, and sent letters unto all the Jews that were in all the provinces of the king Aḥashverosh, both nigh and far, <sup>21</sup>&nbsp;to enjoin them that they should keep the fourteenth day of the month Adar, and the fifteenth day of the same, yearly, <sup>22</sup>&nbsp;the days wherein the Jews had rest from their enemies, and the month which was turned unto them from sorrow to gladness, and from mourning into a good day; that they should make them days of feasting and gladness, and of sending portions one to another, and gifts to the poor. <sup>23</sup>&nbsp;And the Jews took upon them to do as they had begun, and as Mordekhai had written unto them; <sup>24</sup>&nbsp;because Haman the son of Hammedatha, the Agagite, the enemy of all the Jews, had devised against the Jews to destroy them, and had cast <em>pur</em>, that is, the lot, to discomfit them, and to destroy them; <sup>25</sup>&nbsp;but when she[foot]That is, Esther.[/foot] came before the king, he commanded by letters that his wicked device, which he had devised against the Jews, should return upon his own head; and that he and his sons should be hanged on the gallows.
+ <sup>20</sup>&nbsp;And Mordekhai wrote these things, and sent letters unto all the Jews that were in all the provinces of the king Aḥashverosh, both nigh and far, <sup>21</sup>&nbsp;to enjoin them that they should keep the fourteenth day of the month Adar, and the fifteenth day of the same, yearly, <sup>22</sup>&nbsp;the days wherein the Jews had rest from their enemies, and the month which was turned unto them from sorrow to gladness, and from mourning into a good day; that they should make them days of feasting and gladness, and of sending portions one to another, and gifts to the poor. <sup>23</sup>&nbsp;And the Jews took upon them to do as they had begun, and as Mordekhai had written unto them; <sup>24</sup>&nbsp;because Hâman the son of Hammedâta ha-Agagi, the enemy of all the Jews, had devised against the Jews to destroy them, and had cast <em>pur</em>, that is, the lot, to discomfit them, and to destroy them; <sup>25</sup>&nbsp;but when she[foot]That is, Esther.[/foot] came before the king, he commanded by letters that his wicked device, which he had devised against the Jews, should return upon his own head; and that he and his sons should be hanged on the gallows.
 </div></td> </tr>
 
 
@@ -855,7 +855,7 @@ and enabled us to reach this season.
  
 <td style="vertical-align:top;">
 <div class="english">
- <sup>29</sup>&nbsp;Then Esther the queen, the daughter of Abihail, and Mordekhai the Jew, wrote down all the acts of power, to confirm this second letter of Purim. <sup>30</sup>&nbsp;And he sent letters unto all the Jews, to the hundred twenty and seven provinces of the kingdom of Aḥashverosh, with words of peace and truth, <sup>31</sup>&nbsp;to confirm these days of Purim in their appointed times, according as Mordekhai the Jew and Esther the queen had enjoined them, and as they had ordained for themselves and for their seed, the matters of the fastings and their cry. 
+ <sup>29</sup>&nbsp;Then Esther the queen, the daughter of Aviḥayil, and Mordekhai the Jew, wrote down all the acts of power, to confirm this second letter of Purim. <sup>30</sup>&nbsp;And he sent letters unto all the Jews, to the hundred twenty and seven provinces of the kingdom of Aḥashverosh, with words of peace and truth, <sup>31</sup>&nbsp;to confirm these days of Purim in their appointed times, according as Mordekhai the Jew and Esther the queen had enjoined them, and as they had ordained for themselves and for their seed, the matters of the fastings and their cry. 
 </div></td> </tr>
 
 
@@ -982,7 +982,7 @@ he sought to destroy, but was speedily destroyed.
  
 <td style="vertical-align:top;">
 <div class="english">
-Haman displayed the hatred of his fathers, 
+Hâman displayed the hatred of his fathers, 
 and stirred up against the children the ancient enmity of the brothers (Esav and Yaakov), 
 remembering not the mercy of Shaul, 
 through whose compassion for Agag the enemy was born. 
@@ -1002,7 +1002,7 @@ through whose compassion for Agag the enemy was born.
 The wicked plotted to cut off the just, 
 and the unclean was caught in the hands of the pure. 
 (Mordekhai's) lovingkindness (to Esther) prevailed over the father's (Shaul's) error, 
-but the wicked (Haman) heaped sin upon the sins of his ancestor. 
+but the wicked (Hâman) heaped sin upon the sins of his ancestor. 
 </div></td></tr>
 
 
@@ -1034,7 +1034,7 @@ he gave his silver to cut off the remembrance of them.
 <td style="vertical-align:top;">
 <div class="english">
 When Mordekhai saw that wrath had gone forth, 
-and that the decrees of Haman were issued in Shushan, 
+and that the decrees of Hâman were issued in Shushan, 
 lie put on sackcloth and wrapped himself in mourning, 
 ordained a fast and sat upon ashes. 
 </div></td></tr>
@@ -1067,7 +1067,7 @@ lo! Hadassah arose to awaken the merit of those that slept in the grave.
  
 <td style="vertical-align:top;">
 <div class="english">
-Her servants hastened to make Haman 
+Her servants hastened to make Hâman 
 drink the wine of the poison of snakes. 
 He rose by his riches, but fell in his wickedness; 
 he made him a gallows, and was himself hung thereon. 
@@ -1087,7 +1087,7 @@ he made him a gallows, and was himself hung thereon.
 <td style="vertical-align:top;">
 <div class="english">
 All the inhabitants of the world opened their mouths, 
-for the lot of Haman was turned to be our lot. 
+for the lot of Hâman was turned to be our lot. 
 When the righteous was delivered out of the hand of the wicked, 
 and the enemy was put in his stead, 
 the Jews ordained for themselves to celebrate Purim, 
@@ -1106,7 +1106,7 @@ and to rejoice thereon every year.
 <td style="vertical-align:top;">
 <div class="english">
 You did regard the prayer of Mordekhai and Esther: 
-Haman and his sons you did hang upon the gallows. 
+Hâman and his sons you did hang upon the gallows. 
 The lily of Yaakov rejoiced and was glad 
 when Mordekhai was seen in the purple. 
 </div></td></tr>
@@ -1140,7 +1140,7 @@ neither shall any be confounded who put their trust in you.
  
 <td style="vertical-align:top;">
 <div class="english">
-Accursed be Haman who sought to destroy me; 
+Accursed be Hâman who sought to destroy me; 
 blessed be Mordekhai the Yehudi; 
 accursed be Zeresh, the wife of him that terrified me; 
 blessed be Esther my protectress, 

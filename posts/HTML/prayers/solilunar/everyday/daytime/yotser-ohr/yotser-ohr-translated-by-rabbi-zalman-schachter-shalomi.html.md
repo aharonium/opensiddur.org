@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: יוצר אור | Yotser Ohr, translated by Rabbi Zalman Schachter-Shalomi<br />
+Title: יוֹצֵר אוֹר | Yotser Ohr, interpretive translation by Rabbi Zalman Schachter-Shalomi<br />
 Primary contributor: zalman.schachter-shalomi<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=21412">http://opensiddur.org/?p=21412</a>
 <p />

@@ -9,9 +9,9 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <style type="text/css" media="all">.printfriendly {display: none!important;}</style>
 
-<strong>DOWNLOAD:</strong> <a href="https://archive.org/download/ParashatTerumahTorahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20Terumah%20Torah%20Reading%20%28Exodus%2025v1-27v19%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29%20-%20english%20only.pdf">PDF</a> and <a href="https://archive.org/download/ParashatTerumahTorahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20Terumah%20Torah%20Reading%20%28Exodus%2025v1-27v19%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29%20-%20english%20only.odt">ODT</a> (sans Hebrew) | <a href="https://archive.org/download/ParashatTerumahTorahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20Terumah%20Torah%20Reading%20%28Exodus%2025v1-27v19%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29.pdf">PDF</a> and <a href="https://archive.org/download/ParashatTerumahTorahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20Terumah%20Torah%20Reading%20%28Exodus%2025v1-27v19%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29.odt">ODT</a> (with Hebrew)
-
-Exodus 26:1-30 [su_audio url="https://archive.org/download/ParashatTerumahTorahReadingWithEnglishTranstropilationLenFellman2019/Len%20Fellman%20-%20Parashat%20Terumah%20-%20Exodus%2026%2C%201%20to%2030%20%28Hebrew%20and%20English%29.mp3" width="60%"]
+<strong>DOWNLOAD:</strong> 
+<a href="https://archive.org/download/ParashatTerumahTorahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20Terumah%20Torah%20Reading%20%28Exodus%2025v1-27v19%29%20in%20English%20transtropilation%20%28Len%20Fellman%202021%29%20-%20english%20only.pdf">PDF</a> | <a href="https://archive.org/download/ParashatTerumahTorahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20Terumah%20Torah%20Reading%20%28Exodus%2025v1-27v19%29%20in%20English%20transtropilation%20%28Len%20Fellman%202021%29%20-%20english%20only.odt">ODT</a> (sans Hebrew)
+<a href="https://archive.org/download/ParashatTerumahTorahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20Terumah%20Torah%20Reading%20%28Exodus%2025v1-27v19%29%20in%20English%20transtropilation%20%28Len%20Fellman%202021%29.pdf">PDF</a> | <a href="https://archive.org/download/ParashatTerumahTorahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20Terumah%20Torah%20Reading%20%28Exodus%2025v1-27v19%29%20in%20English%20transtropilation%20%28Len%20Fellman%202021%29.odt">ODT</a> (with Hebrew)
 
 <hr />
 
@@ -19,8 +19,12 @@ This is an English translation of Exodus 25:1-27:19, the Torah reading for Paras
 
 <h3>Source</h3>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/ParashatTerumahTorahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20Terumah%20Torah%20Reading%20%28Exodus%2025v1-27v19%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29#page/n0/mode/2up"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/ParashatTerumahTorahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20Terumah%20Torah%20Reading%20%28Exodus%2025v1-27v19%29%20in%20English%20transtropilation%20%28Len%20Fellman%202021%29#page/n0/mode/2up"]
 
+<h3>Recordings</h3>
 
+Exodus 26:1-30 [su_audio url="https://archive.org/download/Parashat-Terumah-Torah-Reading-with-English-Transtropilation-audio-Len-Fellman-2019/Len%20Fellman%20-%20Parashat%20Terumah%20-%20Exodus%2026v1-30%20%28Hebrew%20and%20English%29.mp3" width="60%"]
+
+&nbsp;
 </body>
 </html>

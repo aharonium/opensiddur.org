@@ -9,15 +9,9 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <style type="text/css" media="all">.printfriendly {display: none!important;}</style>
 
-<strong>DOWNLOAD:</strong> <a href="https://archive.org/download/ParashatKiTissaTorahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20Ki%20Tissa%20Torah%20Reading%20%28Exodus%2030v11-34v35%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29%20-%20english%20only.pdf">PDF</a> and <a href="https://archive.org/download/ParashatKiTissaTorahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20Ki%20Tissa%20Torah%20Reading%20%28Exodus%2030v11-34v35%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29%20-%20english%20only.odt">ODT</a> (sans Hebrew) | <a href="https://archive.org/download/ParashatKiTissaTorahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20Ki%20Tissa%20Torah%20Reading%20%28Exodus%2030v11-34v35%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29.pdf">PDF</a> and <a href="https://archive.org/download/ParashatKiTissaTorahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20Ki%20Tissa%20Torah%20Reading%20%28Exodus%2030v11-34v35%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29.odt">ODT</a> (with Hebrew) | <a href="https://archive.org/download/HolHaMoedSukkotTorahReadingWithEnglishTranstropilationLenFellman2018/Hol%20HaMo%27ed%20Sukkot%20Torah%20Reading%20in%20English%20transtropilation%20with%20audio%20%28Len%20Fellman%202018%29.pdf">PDF</a> (only Exodus 33:12-34:26 but with audio)
-
-Exodus 33:12-23 (English) [su_audio url="https://archive.org/download/ParashatKiTissaTorahReadingWithEnglishTranstropilationLenFellman2019/Len%20Fellman%20-%20Exodus%2033%2C%2012-23%20%28English%29.mp3" width="60%"]
-
-Exodus 33:12-23 (Hebrew) [su_audio url="https://archive.org/download/ParashatKiTissaTorahReadingWithEnglishTranstropilationLenFellman2019/Len%20Fellman%20-%20Exodus%2033%2C%2012-23%20%28Hebrew%29.mp3" width="60%"]
-
-Exodus 34:1-26 (English) [su_audio url="https://archive.org/download/ParashatKiTissaTorahReadingWithEnglishTranstropilationLenFellman2019/Len%20Fellman%20-%20Exodus%2034%2C%2001-26%20%28English%29.mp3" width="60%"]
-
-Exodus 34:1-26 (Hebrew) [su_audio url="https://archive.org/download/ParashatKiTissaTorahReadingWithEnglishTranstropilationLenFellman2019/Len%20Fellman%20-%20Exodus%2034%2C%2001-26%20%28Hebrew%29.mp3" width="60%"]
+<strong>DOWNLOAD:</strong> 
+<a href="https://archive.org/download/ParashatKiTissaTorahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20Ki%20Tissa%20Torah%20Reading%20%28Exodus%2030v11-34v35%29%20in%20English%20transtropilation%20%28Len%20Fellman%202021%29%20-%20english%20only.pdf">PDF</a> | <a href="https://archive.org/download/ParashatKiTissaTorahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20Ki%20Tissa%20Torah%20Reading%20%28Exodus%2030v11-34v35%29%20in%20English%20transtropilation%20%28Len%20Fellman%202021%29%20-%20english%20only.odt">ODT</a> (sans Hebrew)
+<a href="https://archive.org/download/ParashatKiTissaTorahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20Ki%20Tissa%20Torah%20Reading%20%28Exodus%2030v11-34v35%29%20in%20English%20transtropilation%20%28Len%20Fellman%202021%29.pdf">PDF</a> | <a href="https://archive.org/download/ParashatKiTissaTorahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20Ki%20Tissa%20Torah%20Reading%20%28Exodus%2030v11-34v35%29%20in%20English%20transtropilation%20%28Len%20Fellman%202021%29.odt">ODT</a> (with Hebrew)
 
 <hr />
 
@@ -25,7 +19,20 @@ This is an English translation of Exodus 30:11-34:35, the Torah reading for Para
 
 <h3>Source</h3>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/ParashatKiTissaTorahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20Ki%20Tissa%20Torah%20Reading%20%28Exodus%2030v11-34v35%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29#page/n0/mode/2up"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/ParashatKiTissaTorahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20Ki%20Tissa%20Torah%20Reading%20%28Exodus%2030v11-34v35%29%20in%20English%20transtropilation%20%28Len%20Fellman%202021%29#page/n0/mode/2up"]
 
+&nbsp;
+
+<h3>Recordings</h3>
+
+Exodus 33:12-23 (English) [su_audio url="https://archive.org/download/Parashat-Ki-Tissa-Torah-Reading-with-English-Transtropilation-audio-Len-Fellman-2019/Len%20Fellman%20-%20Exodus%2033v12-23%20%28English%29.mp3" width="60%"]
+
+Exodus 33:12-23 (Hebrew) [su_audio url="https://archive.org/download/Parashat-Ki-Tissa-Torah-Reading-with-English-Transtropilation-audio-Len-Fellman-2019/Len%20Fellman%20-%20Exodus%2033v12-23%20%28Hebrew%29.mp3" width="60%"]
+
+Exodus 34:1-26 (English) [su_audio url="https://archive.org/download/Parashat-Ki-Tissa-Torah-Reading-with-English-Transtropilation-audio-Len-Fellman-2019/Len%20Fellman%20-%20Exodus%2034v1-26%20%28English%29.mp3" width="60%"]
+
+Exodus 34:1-26 (Hebrew) [su_audio url="https://archive.org/download/Parashat-Ki-Tissa-Torah-Reading-with-English-Transtropilation-audio-Len-Fellman-2019/Len%20Fellman%20-%20Exodus%2034v1-26%20%28Hebrew%29.mp3" width="60%"]
+
+&nbsp;
 </body>
 </html>

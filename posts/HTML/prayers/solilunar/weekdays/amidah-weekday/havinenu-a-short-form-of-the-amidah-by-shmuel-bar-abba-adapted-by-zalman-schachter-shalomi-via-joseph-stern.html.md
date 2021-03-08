@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: הבינינו | Havinenu, a short form of the Amidah by Mar Shmuel bar Abba, adapted by Reb Zalman Schachter-Shalomi from a paraphrasing by Rev. Joseph F. Stern<br />
+Title: הֲבִינֵנוּ | Havinenu, a short form of the Amidah by Mar Shmuel bar Abba, adapted by Reb Zalman Schachter-Shalomi from a paraphrasing by Rev. Joseph F. Stern<br />
 Primary contributor: joseph-frederick.stern<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=21089">http://opensiddur.org/?p=21089</a>
 <p />
@@ -22,8 +22,8 @@ For attribution and license, please consult the following URL: <a href="http://o
  
 <td style="vertical-align:top;" width="36%">
 <div class="english">
-[If you are pressed for time, 
-you can use this short version.]
+<span class="instruction">If you are pressed for time, 
+you can use this short version.</span>
 </div></td></tr>
 
 
