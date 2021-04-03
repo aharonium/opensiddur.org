@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: אֲדוֹן הַסְּלִיחוֹת | Lord of Forgiveness<br />
+Title: אֲדוֹן הַסְּלִיחוֹת | Adon Seliḥot (Lord of Forgiveness), a pizmon for Seliḥot and Yom Kippur<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=33595">http://opensiddur.org/?p=33595</a>
 <p />

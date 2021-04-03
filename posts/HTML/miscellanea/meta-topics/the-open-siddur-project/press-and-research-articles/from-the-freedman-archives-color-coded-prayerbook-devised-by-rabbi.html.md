@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: “Color-Coded Prayerbook Devised by Rabbi” (Springfield Republican, 1972)<br />
+Title: &#8220;Color-Coded Prayerbook Devised by Rabbi&#8221; (Springfield Republican, 1972)<br />
 Primary contributor: hierophant<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=1346">http://opensiddur.org/?p=1346</a>
 <p />

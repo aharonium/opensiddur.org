@@ -8,8 +8,9 @@ For attribution and license, please consult the following URL: <a href="http://o
 <hr />
 
 <strong>DOWNLOAD:</strong> 
-<a href="https://archive.org/download/parashathaazinutorahreadingwithenglishtranstropilationlenfellman2019/Parashat%20Haazinu%20Torah%20Reading%20%28Deuteronomy%2032v1-52%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.pdf">PDF</a> and <a href="https://archive.org/download/parashathaazinutorahreadingwithenglishtranstropilationlenfellman2019/Parashat%20Haazinu%20Torah%20Reading%20%28Deuteronomy%2032v1-52%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.odt">ODT</a> (sans Hebrew) 
-<a href="https://archive.org/download/parashathaazinutorahreadingwithenglishtranstropilationlenfellman2019/Parashat%20Haazinu%20Torah%20Reading%20%28Deuteronomy%2032v1-52%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29.pdf">PDF</a> and <a href="https://archive.org/download/parashathaazinutorahreadingwithenglishtranstropilationlenfellman2019/Parashat%20Haazinu%20Torah%20Reading%20%28Deuteronomy%2032v1-52%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29.odt">ODT</a> (with Hebrew)
+
+<a href="https://archive.org/download/parashathaazinutorahreadingwithenglishtranstropilationlenfellman2019/Parashat%20Haazinu%20Torah%20Reading%20%28Deuteronomy%2032v1-52%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.pdf">PDF</a> | <a href="https://archive.org/download/parashathaazinutorahreadingwithenglishtranstropilationlenfellman2019/Parashat%20Haazinu%20Torah%20Reading%20%28Deuteronomy%2032v1-52%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.odt">ODT</a> (sans Hebrew) 
+<a href="https://archive.org/download/parashathaazinutorahreadingwithenglishtranstropilationlenfellman2019/Parashat%20Haazinu%20Torah%20Reading%20%28Deuteronomy%2032v1-52%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29.pdf">PDF</a> | <a href="https://archive.org/download/parashathaazinutorahreadingwithenglishtranstropilationlenfellman2019/Parashat%20Haazinu%20Torah%20Reading%20%28Deuteronomy%2032v1-52%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29.odt">ODT</a> (with Hebrew)
 
 <hr />
 

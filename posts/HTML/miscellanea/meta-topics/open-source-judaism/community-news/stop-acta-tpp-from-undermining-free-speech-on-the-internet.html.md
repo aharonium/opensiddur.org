@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: STOP ACTA & TPP from Undermining Free Speech on the Internet<br />
+Title: STOP ACTA &#038; TPP from Undermining Free Speech on the Internet<br />
 Primary contributor: hierophant<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=4472">http://opensiddur.org/?p=4472</a>
 <p />

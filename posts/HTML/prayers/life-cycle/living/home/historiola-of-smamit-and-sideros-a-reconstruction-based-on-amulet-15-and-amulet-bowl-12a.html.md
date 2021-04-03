@@ -91,7 +91,7 @@ He killed her son and strangled him.[foot]In other versions of the story, it is 
  
 <td style="vertical-align:top;">
 <div class="english">
-She stood up and cried at him: 
+She stood up and cried over him: 
 "O Saoni and Sasaoni and Sanigli! 
 What have they done to him?"
 </div></td></tr>

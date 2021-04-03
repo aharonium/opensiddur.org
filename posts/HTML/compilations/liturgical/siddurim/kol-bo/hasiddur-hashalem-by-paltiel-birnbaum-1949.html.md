@@ -9,7 +9,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 &nbsp;
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.archive.org/stream/PhilipBirnbaumHaSiddurHaShalemTheDailyPrayerBook1949#page/n02/mode/2up"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.archive.org/stream/PhilipBirnbaumHaSiddurHaShalemTheDailyPrayerBook1949/Philip%20Birnbaum%20-%20ha-Siddur%20ha-Shalem%20%28The%20Daily%20Prayer%20Book%2C1949%29#page/n02/mode/2up"]
 
 <em>Ha-Siddur Ha-Shalem</em> (The [Complete] Daily Prayer Book), translated and arranged by Paltiel Birnbaum, was widely used in Orthodox and Conservative synagogues until the late 1980s and remains a favorite prayerbook for many who grew up using it.
 

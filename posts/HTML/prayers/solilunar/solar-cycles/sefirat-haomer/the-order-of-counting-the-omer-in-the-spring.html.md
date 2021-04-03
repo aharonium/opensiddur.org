@@ -10,9 +10,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 [caption id="attachment_6605" align="aligncenter" width="850"]<img src="https://opensiddur.org/wp-content/uploads/2013/03/Aharon-Varady-Sefirot-HaOmer-Zalman-Schachter-Shalomi-color-correspondences1.png" alt="" width="850" height="850" class="size-full wp-image-6605" /> "<em>Sefirot HaOmer</em>" by Aharon Varady (image) and Lauren Deutsch (circle concept), following the <a href="https://web.archive.org/web/20130803041323/http://www.pinenet.com/~rooster/tallis.html">color correspondences of Reb Zalman Schachter-Shalomi</a>. Each of the seven weeks and days of the Omer is represented by one of the seven lower <em>sefirot</em>: <em>Ḥesed, Gevurah, Tiferet, Netsaḥ, Hōd, Yesod,</em> and <em>Malkhut</em>, the creative emanations all the worlds were created and continually sustained, as taught in the cosmology of esoteric Jewish tradition. The first day of the Omer at the top left signifies "<em>Ḥesed</em> within <em>Ḥesed</em>." The circle below representing the second day signifies "<em>Gevurah</em> within  <em>Hesed</em>," and so forth. The forty-second circle on the bottom row marks the 42nd day of the Omer, Yom Qeshet, Rainbow Day, which is "<em>Malkhut</em> that is in <em>Yesod</em>."[/caption]
 
 <strong>DOWNLOAD</strong> 
+
 Sefirot HaOmer Calendar: <a href="https://opensiddur.org/wp-content/uploads/2013/03/Sefirot-HaOmer-Calendar-Chart-Hebrew-and-English-Aharon-Varady-2019.pdf">PDF</a>
 <a href="https://opensiddur.org/wp-content/uploads/2013/03/Sefirot-HaOmer-Calendar-Chart-Aharon-Varady-2018.png">PNG</a> and <a href="https://opensiddur.org/wp-content/uploads/2013/03/Sefirot-HaOmer-Calendar-Chart-Aharon-Varady-2018.svg">SVG</a> (English) 
 <a href="https://opensiddur.org/wp-content/uploads/2013/03/Aharon-Varady-Sefirot-HaOmer-Chart-3-Hebrew.png">PNG</a> and <a href="https://opensiddur.org/wp-content/uploads/2013/03/Aharon-Varady-Sefirot-HaOmer-Chart-3-Hebrew.svg">SVG</a> (Hebrew)
+
+<hr />
 
 <div class="english" style="font-size: 1.2em;">
 Explaining the <em>mitsvah</em> of <em>Sefirat HaOmer</em>, Rabbi David Seidenberg <a href="http://neohasid.org/resources/count_the_omer/">writes</a>: 
@@ -61,7 +64,7 @@ in the name of all Yisra'el.
 כְּמוֹ שֶׁכָּתוּב בַתּוֹרָה:‏
 וּסְפַרְתֶּ֤ם לָכֶם֙ מִמָּחֳרַ֣ת הַשַּׁבָּ֔ת
 מִיּוֹם֙ הֲבִ֣יאֲכֶ֔ם אֶת־עֹ֖מֶר הַתְּנוּפָ֑ה
-שֶׁ֥בַע שַׁבָּתֹ֖ות תְּמִימֹ֥ת תִּהְיֶֽינָה׃‏‏‏
+שֶׁ֥בַע שַׁבָּת֖וֹת תְּמִימֹ֥ת תִּהְיֶֽינָה׃‏‏‏
 עַ֣ד מִֽמָּחֳרַ֤ת הַשַּׁבָּת֙ הַשְּׁבִיעִ֔ת 
 תִּסְפְּר֖וּ חֲמִשִּׁ֣ים יֹ֑ום <span class="citation">(ויקרא כג:טו-טז חלק)</span>‏
 </div></td>
@@ -1019,14 +1022,17 @@ May it purify and sanctify us with your most precious holiness.
 
 <hr />
 
-<center><span style="float: right;"><a href="https://opensiddur.org/wp-content/uploads/2013/03/Sefirot-HaOmer-Calendar-Chart-Hebrew-and-English-Aharon-Varady-2019.pdf"><img src="https://opensiddur.org/wp-content/uploads/2013/03/Aharon-Varady-Sefirot-HaOmer-Chart-3-Hebrew-836x1024.png" alt="" width="640" height="784" class="alignleft size-large wp-image-24804" /></a></span>  <span style="float: left;"><a href="https://opensiddur.org/wp-content/uploads/2013/03/Sefirot-HaOmer-Calendar-Chart-Hebrew-and-English-Aharon-Varady-2019.pdf"><img src="https://opensiddur.org/wp-content/uploads/2013/03/Sefirot-HaOmer-Calendar-Chart-Aharon-Varady-2018-836x1024.png" alt="" width="640" height="784" class="alignnone size-large wp-image-19660" /></a></span></center>[su_spacer]
-
-I adapted the Sefirot HaOmer calendar chart above from an earlier work, the <a href="https://opensiddur.org/wp-content/uploads/2013/03/Omer-Circles-Lauren-Deutsch-and-Aharon-Varady-Color-Spectrum-Schema.png">Sefirot HaOmer Chart of Lieba B. Ruth</a> (aka, Lauren Deutsch) to which I had added the 42nd day of the Omer. I wanted to make a version that corresponded with the <a href="https://web.archive.org/web/20130803041323/http://www.pinenet.com/~rooster/tallis.html">color schema innovated by Rabbi Zalman Schachter-Shalomi</a>.
-
-I've also adapted Lieba's omer circles to correspond to the days of the Omer in Rabbi David Seidenberg (Neohasid.org)'s Omer Widget app using Reb Zalman's color system.
+I adapted the Sefirot HaOmer calendar chart above from an earlier work, the <a href="https://opensiddur.org/wp-content/uploads/2013/03/Omer-Circles-Lauren-Deutsch-and-Aharon-Varady-Color-Spectrum-Schema.png">Sefirot HaOmer Chart of Lieba B. Ruth</a> (aka, Lauren Deutsch) to which I had added the 42nd day of the Omer. I wanted to make a version that corresponded with the <a href="https://web.archive.org/web/20130803041323/http://www.pinenet.com/~rooster/tallis.html">color schema innovated by Rabbi Zalman Schachter-Shalomi</a>. I've also adapted Lieba's omer circles to correspond to the days of the Omer in Rabbi David Seidenberg (Neohasid.org)'s Omer Widget app using Reb Zalman's color system.
 
 Many thanks to Rabbi David Seidenberg for sharing the code for his open source Omer Widget. You can see the code for the widget used on opensiddur.org, <a href=" https://opensiddur.org/wp-content/scripts/omer.js">here</a>, and the original Omer Widget code can be found on <a href="http://neohasid.org/js/sm_omer_widget.js">Neohasid.org</a>, where Reb Dovid's teachings above were first published.
 
-For more on the Omer from other Open Siddur contributors, please see, Shmueli Gonzales' post at Hardcore Mesorah, "<a href="http://hardcoremesorah.wordpress.com/2012/04/19/starting-off-the-spiritual-new-year-right/">Starting off the Spiritual New Year Right</a>."
+For more on the Omer from other Open Siddur contributors, please see, Shmueli Gonzales' post at Hardcore Mesorah, "<a href="http://hardcoremesorah.wordpress.com/2012/04/19/starting-off-the-spiritual-new-year-right/">Starting off the Spiritual New Year Right</a>." --Aharon Varady
+
+<h3>Source</h3>
+
+<span style="float: right;">[caption id="attachment_24804" align="alignleft" width="640"]<a href="https://opensiddur.org/wp-content/uploads/2013/03/Sefirot-HaOmer-Calendar-Chart-Hebrew-and-English-Aharon-Varady-2019.pdf" rel="lightbox"><img src="https://opensiddur.org/wp-content/uploads/2013/03/Aharon-Varady-Sefirot-HaOmer-Chart-3-Hebrew-836x1024.png" alt="" width="640" height="784" class="size-large wp-image-24804" /></a> Sefirot HaOmer Chart - Hebrew (Aharon Varady, CC BY-SA)[/caption]</span>  <span style="float: left;">[caption id="attachment_36561" align="alignnone" width="640"]<a href="https://opensiddur.org/wp-content/uploads/2013/03/Sefirot-HaOmer-Calendar-Chart-Hebrew-and-English-Aharon-Varady-2019.pdf" rel="lightbox"><img src="https://opensiddur.org/wp-content/uploads/2013/03/Sefirot-HaOmer-Calendar-Chart-Aharon-Varady-2018-1-836x1024.png" alt="" width="640" height="784" class="size-large wp-image-36561" /></a> Sefirot HaOmer Calendar Chart - English (Aharon Varady 2018, CC BY-SA)[/caption]</span>[su_spacer]
+
+
+
 </body>
 </html>

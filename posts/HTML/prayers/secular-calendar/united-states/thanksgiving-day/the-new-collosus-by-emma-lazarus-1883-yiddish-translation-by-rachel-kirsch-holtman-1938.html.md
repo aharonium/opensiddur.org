@@ -73,27 +73,26 @@ This is the sonnet, "The New Collosus" (1883) by Emma Lazarus set side-by-side w
 
 <blockquote>
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;">Talmud Bavli Megillah 29a (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="commentary"><span lang="he">
 תניא 
-ר"ש בן יוחי אומר 
+ר״ש בן יוחי אומר 
 בוא וראה כמה חביבין ישראל לפני הקב"ה 
 שבכל מקום שגלו שכינה עמהן 
 גלו למצרים שכינה עמהן 
-שנאמר <span class="citation">(שמואל א ב:כז)</span> הֲנִגְלֹה נִגְלֵיתִי לבית אָבִיךָ 
-בִּהְיוֹתָם בְּמִצְרַיִם וגו' 
+שנאמר הֲנִגְלֹה נִגְלֵיתִי לבית אָבִיךָ 
+בִּהְיוֹתָם בְּמִצְרַיִם וגו׳ <span class="citation">(שמואל א׳ ב:כז)</span>
 גלו לבבל שכינה עמהן 
-שנאמר <span class="citation">(ישעיהו מג:יד)</span> לְמַעַנְכֶם שִׁלַּחְתִּי בָבֶלָה 
+שנאמר לְמַעַנְכֶם שִׁלַּחְתִּי בָבֶלָה <span class="citation">(ישעיהו מג:יד)</span>
 ואף כשהן עתידין ליגאל שכינה עמהן 
-שנאמר <span class="citation">(דברים ל:ג)</span> וְשָׁב ה׳ אֱלֹהֶיךָ אֶת־שְׁבוּתְךָ 
+שנאמר וְשָׁב ה׳ אֱלֹהֶיךָ אֶת־שְׁבוּתְךָ <span class="citation">(דברים ל:ג)</span>
 והשיב לא נאמר 
 אלא ושב 
-מלמד שהקב"ה שב עמהן מבין הגליות
+מלמד שהקב״ה שב עמהן מבין הגליות
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 It is taught in a baraita: 
 Rabbi Shimon ben Yoḥai says: 
@@ -101,11 +100,11 @@ Come and see how beloved the Jewish people are before the blessed Holy One.
 As every place they were exiled, the Shekhinah (Divine Presence) went with them. 
 They were exiled to Mitsrayim, and the Shekhinah went with them, 
 as it is stated: “Did I reveal myself to the house of your father 
-when they were in Mitsrayim?” (I Samuel 2:27). 
+when they were in Mitsrayim?” <span class="citation">(I Samuel 2:27)</span>. 
 They were exiled to Babylonia, and the Shekhinah went with them, 
-as it is stated: “For your sake I have sent to Babylonia” (Isaiah 43:14). 
+as it is stated: “For your sake I have sent to Babylonia” <span class="citation">(Isaiah 43:14)</span>. 
 So too, when, in the future, they will be redeemed, the Shekhinah will be with them, 
-as it is stated: “Then YHVH your <em>elo'ah</em> will return with your captivity” (Deuteronomy 30:3). 
+as it is stated: “Then YHVH your <em>elo'ah</em> will return with your captivity” <span class="citation">(Deuteronomy 30:3)</span>. 
 It does not state: Hashem will bring back, (i.e., Hashem will cause the Jewish people to return,)
 but rather it says: “Hashem will return,” 
 which teaches that the blessed Holy One will return together with them from among the various exiles.

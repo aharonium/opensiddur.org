@@ -11,6 +11,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 The bentsher is based on the <a href="https://opensiddur.org/compilations/birkonim/kol-yoshvei-tevel-the-l-and-l-wedding-bentcher-by-lara-chausow-and-lauren-weiss/">"כל יושבי תבל" (Kol Yoshvei Tevel) L&amp;L bentsher</a> compiled by Lara Chausow amd Lauren Weiss, and designed by Hillel Smith.
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/hesedumishpatashirahlekhaisaacbrooksfishman2019#page/n0/mode/2up"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/hesedumishpatashirahlekhaisaacbrooksfishman2019/Hesed%20uMishpat%20Ashirah%20Lekha%20%28Isaac%20Brooks%20Fishman%202019%29#page/n0/mode/2up"]
+
+&nbsp;
+
+<hr />
+
+&nbsp;
 </body>
 </html>

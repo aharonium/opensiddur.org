@@ -115,7 +115,7 @@ to be reminded.
 
 <hr />
 
-"Just for a Moment" was first published by Rabbi Menachem Creditor on his Facebook page, and shared through the Open Siddur Project via our Facebook Discussion Group.
+"Just for a Moment" was first published by Rabbi Menachem Creditor on his Facebook page, and shared through the Open Siddur Project via our <a href="https://www.facebook.com/groups/opensiddur/permalink/10157980971172746/">Facebook Discussion Group</a>.
 
 &nbsp;
 </body>

@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: Thankful for the Internet Sacred Text Archive’s John Bruno Hare (1955-2010)<br />
+Title: Thankful for the Internet Sacred Text Archive&#8217;s John Bruno Hare (1955-2010)<br />
 Primary contributor: aharon-nissn.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=513">http://opensiddur.org/?p=513</a>
 <p />

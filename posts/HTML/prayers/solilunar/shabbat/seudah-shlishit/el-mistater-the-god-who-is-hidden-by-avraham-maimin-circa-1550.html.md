@@ -7,12 +7,6 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<center>
-Hebrew: [su_audio url="https://archive.org/download/ElMistaterLenFellman2019/Len%20Fellman%20-%20El%20Mistater%20-%20%20-%20El%20Mistater.mp3" width="60%"]
-
-English translation: [su_audio url="https://archive.org/download/ElMistaterLenFellman2019/El%20Mistater%20%28English%29/Len%20Fellman%20-%20El%20Mistater%20%28English%20translation%29%20-%20%20-%20El%20Mistater%20%28English%29.mp3" width="60%"]
-</center>
-
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
@@ -240,9 +234,16 @@ I treat the second Hisyatiner Rebbe, Yisroel Friedman (1858-1949), a grandson of
 
 As always, when I want to make a Hebrew text something of my own, I create a singable English version.  The more I sing this music, the more I feel the energy of each sefirah that its particular melody invokes. Singing it in both Hebrew and in English deepens my meditation on the sefirah’s essence.  I have made recordings in both languages of all eleven melodies (ten + a final verse which unites the ten sefirot into one).
 
+<h3>Recordings</h3>
+
+Hebrew: [su_audio url="https://archive.org/download/el-mistater-len-fellman-2019/Len%20Fellman%20-%20El%20Mistater%20-%20%20-%20El%20Mistater.mp3" width="60%"]
+
+English translation: [su_audio url="https://archive.org/download/el-mistater-len-fellman-2019/English/Len%20Fellman%20-%20El%20Mistater%20%28English%20translation%29%20-%20%20-%20El%20Mistater%20%28English%29.mp3" width="60%"]
+
 <h3>Source(s)</h3>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/ElMistaterLenFellman2019/El%20Mistater%20-%20English%20translation%20with%20background%20and%20commentary%20%28Len%20Fellman%202019%29#page/n0/mode/2up"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/ElMistaterLenFellman2019/El%20Mistater%20-%20English%20translation%20with%20background%20and%20commentary%20%28Len%20Fellman%202019%29#page/n1/mode/2up"]
 
+&nbsp;
 </body>
 </html>

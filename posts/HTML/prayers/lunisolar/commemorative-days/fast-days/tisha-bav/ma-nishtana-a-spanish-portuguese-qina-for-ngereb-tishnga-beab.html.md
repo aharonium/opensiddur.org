@@ -1,14 +1,14 @@
 <html>
 <head></head>
 <body>
-Title: מַה נִּשְׁתַּנָּה | Ma Nishtana, a Spanish-Portuguese Qina for Ngereb Tishnga beAḅ<br />
+Title: מַה נִּשְׁתַּנָּה | Ma Nishtana, a Spanish-Portuguese Qina for Ngereb Tishnga beAḇ<br />
 Primary contributor: isaac-gantwerk.mayer<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=26321">http://opensiddur.org/?p=26321</a>
 <p />
 <hr />
 
 <div class="english" style="font-size: 1.2em;">
-This qina is recited in the Spanish-Portuguese rite (as practiced in the Snoge in Amsterdam, the Bevis Marks Synagogue in London, and Shearith Israel in New York City among many other communities) at the conclusion of the recitation of qinot on the evening of the Ninth of Aḅ. Its refrain, taken from the Four Questions of the Passover liturgy, is reframed as a reflection of the suffering of such a day, contrasting the celebration of salvation on Passover with the fear and desolation of the fast day. 
+This qina is recited in the Spanish-Portuguese rite (as practiced in the Snoge in Amsterdam, the Bevis Marks Synagogue in London, and Shearith Israel in New York City among many other communities) at the conclusion of the recitation of qinot on the evening of the Ninth of Aḇ. Its refrain, taken from the Four Questions of the Passover liturgy, is reframed as a reflection of the suffering of such a day, contrasting the celebration of salvation on Passover with the fear and desolation of the fast day. 
 
 Along with a new modern translation, the editor has included a transliteration based on the traditional Spanish-Portuguese pronunciation system, in which:
 <ul>

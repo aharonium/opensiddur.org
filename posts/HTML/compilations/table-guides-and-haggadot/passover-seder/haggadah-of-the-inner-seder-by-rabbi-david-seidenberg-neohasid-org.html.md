@@ -8,15 +8,30 @@ For attribution and license, please consult the following URL: <a href="http://o
 <hr />
 
 <strong>DOWNLOAD:</strong> 
-<a href="https://archive.org/download/HaggadahOfTheInnerSeder/Haggadah%20of%20the%20Inner%20Seder%20%28Rabbi%20David%20Seidenberg%2C%20neohasid.org%202020%29.odt">ODT</a> | <a href="https://archive.org/download/HaggadahOfTheInnerSeder/Haggadah%20of%20the%20Inner%20Seder%20%28Rabbi%20David%20Seidenberg%2C%20neohasid.org%202020%29.pdf">PDF</a>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/HaggadahOfTheInnerSeder/Haggadah%20of%20the%20Inner%20Seder%20%28Rabbi%20David%20Seidenberg%2C%20neohasid.org%202020%29#page/n2/mode/2up"]
+Haggadah of the Inner Seder (2021, v.15.4): <a href="https://archive.org/download/HaggadahOfTheInnerSeder/Haggadah%20of%20the%20Inner%20Seder%20%28Rabbi%20David%20Seidenberg%2C%20neohasid.org%202021%29.odt">ODT</a> (<a href="https://support.microsoft.com/en-us/office/use-word-to-open-or-save-a-document-in-the-opendocument-text-odt-format-20e5189f-86f8-4d8f-ae74-ea06b7df3b0e">instructions for opening with MS Word</a>) | <a href="https://archive.org/download/HaggadahOfTheInnerSeder/Haggadah%20of%20the%20Inner%20Seder%20%28Rabbi%20David%20Seidenberg%2C%20neohasid.org%202021%29.doc">DOC</a> | <a href="https://archive.org/download/HaggadahOfTheInnerSeder/Haggadah%20of%20the%20Inner%20Seder%20%28Rabbi%20David%20Seidenberg%2C%20neohasid.org%202021%29.pdf">PDF</a> 
+
+"Zoom seder" (2021, slide presentation): <a href="https://archive.org/download/HaggadahOfTheInnerSeder/Haggadah%20of%20the%20Inner%20Seder%20-%20slides%20%28Rabbi%20David%20Seidenberg%2C%20neohasid.org%202021%29.odp">ODP</a> (<a href="https://support.microsoft.com/en-us/office/use-powerpoint-to-open-or-save-a-presentation-in-the-opendocument-presentation-odp-format-94805e84-1b09-4c98-a8b5-0da2a52242a0">instructions for opening with MS Powerpoint</a>) | <a href="https://archive.org/download/HaggadahOfTheInnerSeder/Haggadah%20of%20the%20Inner%20Seder%20-%20slides%20%28Rabbi%20David%20Seidenberg%2C%20neohasid.org%202021%29.pptx">PPTX</a> | <a href="https://archive.org/download/HaggadahOfTheInnerSeder/Haggadah%20of%20the%20Inner%20Seder%20-%20slides%20%28Rabbi%20David%20Seidenberg%2C%20neohasid.org%202021%29.pdf">PDF</a> 
+
+
+
+<hr />
+
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/HaggadahOfTheInnerSeder/Haggadah%20of%20the%20Inner%20Seder%20%28Rabbi%20David%20Seidenberg%2C%20neohasid.org%202021%29#page/n0/mode/2up"]
+
+&nbsp;
+
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/HaggadahOfTheInnerSeder/Haggadah%20of%20the%20Inner%20Seder%20-%20slides%20%28Rabbi%20David%20Seidenberg%2C%20neohasid.org%202021%29#page/n0/mode/2up"]
+<!-- -->
+&nbsp;
+
+<p><em>Haggadah of the Inner Seder</em> was first published by Rabbi David Seidenberg on <a href="http://neohasid.org/zman/pesach/InnerSeder/">neohasid.org</a> and is cross-posted there.
 
 <hr />
 
 <div class="english" style="font-size: 1.2em;">
 
-The Haggadah of the Inner Seder focuses on revealing the inner structure of the seder. This haggadah gives signposts and cues as to where the important shifts in meaning are happening. It also makes clear the seder's structure and adds in some commentaries that will make sense of not just what things mean but how they work. It also includes some of the customs I am fond of. It does not include a lot of material meant to update the seder or to bring in contemporary issues (though it does have a few commentaries related to peace between Israelis and Palestinians). The Haggadah is 18 pages long.
+The Haggadah of the Inner Seder focuses on revealing the inner structure of the seder. This haggadah gives signposts and cues as to where the important shifts in meaning are happening. It also makes clear the seder's structure and adds in some commentaries that will make sense of not just what things mean but how they work. It also includes some of the customs I am fond of. It does not include a lot of material meant to update the seder or to bring in contemporary issues (though it does have a few commentaries related to peace between Israelis and Palestinians). The Haggadah is 20 pages long.
 
 Here is a description of the main ideas in the traditional haggadah that are featured in the Haggadah of the Inner Seder -- you can use this as a guide to using the Haggadah:
 
@@ -48,15 +63,15 @@ For further exploration of the haggadah see <a href="http://neohasid.org/torah/m
 
 <a href="http://neohasid.org/audio/classes/unlocking part1.mp3"><u>Part 1</u></a> – the obvious fours of the haggadah, what they mean, and a list of the hidden fours to be discussed.
 
-
 <a href="http://neohasid.org/audio/classes/unlocking part2.mp3"><u>Part 2</u></a> – the first two meanings of matzah, the true meaning of "seder", and the transformation of the symbol of matsah.
-[<strong>The following sections are truly unedited and the end of the class has yet to be filled in. </strong>Someday with God's help all that will happen.]
+
+[<strong>The following sections are truly unedited and the end of the class has yet to be filled in. </strong>Someday with God's help all that will happen.]&nbsp;
+
 <a href="http://neohasid.org/audio/classes/unlocking part3.mp3"><u>Part 3</u></a> – the second two meanings of matzah; redemption and the afikoman.
+
 <a href="http://neohasid.org/audio/classes/unlocking part4.mp3"><u>Part 4</u></a> – the transformations of the verse "Ba'avor zeh..."; psychological dimensions; beginning of discussion of the four sons/children (last section incomplete).
 </div>
 
-<hr />
 
-<p>This haggadah was first published by Rabbi David Seidenberg on neohasid.org, <a href="http://neohasid.org/zman/pesach/InnerSeder/">here</a>.
 </body>
 </html>

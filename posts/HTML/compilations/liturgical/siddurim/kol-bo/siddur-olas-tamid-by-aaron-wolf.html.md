@@ -9,17 +9,17 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <style type="text/css" media="all">.printfriendly {display: none!important;}</style>
 
-<strong>DOWNLOAD:</strong> <a href="https://opensiddur.org/wp-content/uploads/2018/03/Siddur-Olas-Tamid-Aaron-Wolf-2018.pdf">PDF</a>
+<strong>DOWNLOAD:</strong> 
+
+<a href="https://opensiddur.org/wp-content/uploads/2018/03/Siddur-Olas-Tamid-Aaron-Wolf-2018.pdf">PDF</a>
+Full XeLaTeX source code available at <a href="https://github.com/wolf-math/olastamid">github</a>.
+To purchase a print copy, please visit <a href="http://dimus.parrhesia.press/shop/siddurim/siddur-olas-tamid-compiled-by-aaron-wolf/">Dimus Parrhesia Press</a>.
+
+<hr />
 
 <h3>Source(s)</h3>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/SiddurOlasTamidAaronWolf2018#page/n0/mode/2up"]
-
-Full XeLaTeX source code available at <a href="https://github.com/wolf-math/olastamid">github</a>.
-
-<h3>To purchase a print copy</h3>
-
-Please visit <a href="http://dimus.parrhesia.press/shop/siddurim/siddur-olas-tamid-compiled-by-aaron-wolf/">Dimus Parrhesia Press</a>.
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/SiddurOlasTamidAaronWolf2018/SiddurOlasTamidaaronWolf2018#page/n0/mode/2up"]
 
 <hr />
 

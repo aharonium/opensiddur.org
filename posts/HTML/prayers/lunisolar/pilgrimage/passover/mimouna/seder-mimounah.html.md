@@ -252,7 +252,7 @@ and all the ends of the earth will see God.
  
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%">
+<td style="vertical-align:top;">
 <div class="english">
  
 </div>
@@ -267,7 +267,7 @@ and all the ends of the earth will see God.
 (אב״ג ית״ץ)
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%">
+<td style="vertical-align:top;">
 <div class="english">
 Abolish, by greatness Yours,
 tangled chains.
@@ -283,7 +283,7 @@ tangled chains.
 (קר״ע שט״ן)
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%">
+<td style="vertical-align:top;">
 <div class="english">
 Quintessence, receive enthused songs,
 thread new.
@@ -300,7 +300,7 @@ thread new.
 (נג״ד יכ״ש)
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%">
+<td style="vertical-align:top;">
 <div class="english">
 Noblest, guard
 desiring Your
@@ -318,7 +318,7 @@ knowledge surely.
 (בט״ר צת״ג)
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%">
+<td style="vertical-align:top;">
 <div class="english">
 Blessings, trust,
 righteous character,
@@ -336,7 +336,7 @@ truly grant.
 (חק״ב טנ״ע)
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%">
+<td style="vertical-align:top;">
 <div class="english">
 Exalted quite,
 beneficial thousandfold,
@@ -354,7 +354,7 @@ nursing ecclesiae.
 (יג״ל פז״ק)
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%">
+<td style="vertical-align:top;">
 <div class="english">
 Your Glory
 let perceive
@@ -372,7 +372,7 @@ zealous qualifiers.
 (שק״ו צי״ת)
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%">
+<td style="vertical-align:top;">
 <div class="english">
 Secret questions,
 we clamor
@@ -389,7 +389,7 @@ Your truth.
 לְעוֹלָם וָעֶד:‏
  </span></div></td>
 
-<td style="vertical-align:top;" width="50%">
+<td style="vertical-align:top;">
 <div class="english">
 <span class="instruction">Say in an undertone:</span>
 Blessed be the glorious name of majesty 
@@ -635,7 +635,7 @@ V: Trees.
 בְּשֵׁם כׇּל־יִשְׂרָאֵל 
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%">
+<td style="vertical-align:top;">
 <div class="english">
 To encourage a uniting of His Majesty, 
 The Blessed Holy One with Her Immanence, the Presence:
@@ -654,7 +654,7 @@ For all of Israel’s sake
 וּמִכׇּל־פְּרָטֵי אֲצִילוּת בְּרִיאָה יְצִירָה עֲשִׂיָּה, 
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%">
+<td style="vertical-align:top;">
 <div class="english">
 And for the sake of all beings whose Life-Force, Soul, and Consciousness 
 is connected at the root to our Life-Force, Soul, and Consciousness
@@ -672,7 +672,7 @@ and which are from all pieces of Emanation, Creation, Formation and Action:
 עַל רְאִיַּת אִילָנֵי דִמְלַבְלְבֵי׃ 
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%">
+<td style="vertical-align:top;">
 <div class="english">
 We declare ourselves ready and willing
 to fulfill the commandment of the blessing 
@@ -1122,10 +1122,6 @@ Tirvaḥu w-tisʿadu! -- Feel at home and eat well!
 <hr />
 
 A Mimouna packet including havdalah, a Moroccan-rite birkat ha-ilanot, traditional study texts, and yehiretzonot. I've based it on the customs recorded in the Koren Nusach Avotenu as well as an outline provided by the <a href="http://archive.jewishagency.org/mimouna/content/37171">Jewish Agency</a>. --Isaac Gantwerk Mayer
-
-&nbsp;
-
-<hr />
 
 &nbsp;
 </body>

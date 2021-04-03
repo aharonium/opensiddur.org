@@ -2,7 +2,7 @@
 <head></head>
 <body>
 Title: שטר ברית | Shtar Brit - Covenant for a Brit Ahuvim wedding, by Rebecca Ennen and Ari Weisbard<br />
-Primary contributor: rebecca.ennen<br />
+Primary contributor: chana.kupetz<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=34872">http://opensiddur.org/?p=34872</a>
 <p />
 <hr />
@@ -14,7 +14,7 @@ Our covenantal document for an egalitarian wedding/partnership rooted in R' Rach
 <hr />
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;">Translation (Hebrew)</th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
 <div class="commentary"><span lang="he">
@@ -31,7 +31,7 @@ On the first day of the week, the twenty-fifth day of the month of Iyar in the y
 <div class="liturgy"><span lang="he">
 <span class="instruction">הכלה אמרה לחתן:</span> היה לי חבר ושותף בברית .אני אייחד מקום בליבי רק עבורך. 
 &nbsp;
-<span class="instruction">החתן אמר לכלה:</span> היי לי חברה ושותףה בברית. אני אייחד מקום בליבי רק עבורך. 
+<span class="instruction">החתן אמר לכלה:</span> היי לי חברה ושותפה בברית. אני אייחד מקום בליבי רק עבורך. 
 </span></div></td>
  
 <td style="vertical-align:top;">

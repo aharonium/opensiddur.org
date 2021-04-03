@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: ישתבח שמך | Yishtabaḥ Shimkha, translated by Rabbi Zalman Schachter-Shalomi<br />
+Title: יִשְׁתַּבַּח שִׁמְךָ | Yishtabaḥ Shimkha, translated by Rabbi Zalman Schachter-Shalomi<br />
 Primary contributor: zalman.schachter-shalomi<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=21023">http://opensiddur.org/?p=21023</a>
 <p />

@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: “Taking Prayer Into Their Own Hands” (The Jewish Week 2010)<br />
+Title: &#8220;Taking Prayer Into Their Own Hands&#8221; (The Jewish Week 2010)<br />
 Primary contributor: hierophant<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=318">http://opensiddur.org/?p=318</a>
 <p />
