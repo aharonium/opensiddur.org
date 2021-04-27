@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: על הניסים ליום העצמאות | Al Hanissim for Yom Ha'atsma'ut, by Amos Ḥakham (2012)<br />
+Title: על הניסים ליום העצמאות | Al haNissim for Yom ha-Atsma'ut, by Amos Ḥakham (2012)<br />
 Primary contributor: aharon.n.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=13540">http://opensiddur.org/?p=13540</a>
 <p />

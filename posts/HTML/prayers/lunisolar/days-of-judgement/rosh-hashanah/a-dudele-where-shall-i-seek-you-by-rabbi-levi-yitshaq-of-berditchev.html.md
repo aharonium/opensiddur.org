@@ -233,8 +233,8 @@ You you you!
  
 <td style="vertical-align:top;">
 <div class="english">
-Where I turn,
-And where do I turn? 
+Where I turn to,
+And where do I return to? 
 You — you!
 </div></td></tr>
 </tbody></table>

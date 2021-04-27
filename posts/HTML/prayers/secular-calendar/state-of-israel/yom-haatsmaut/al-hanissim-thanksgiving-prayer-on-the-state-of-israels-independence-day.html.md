@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: על הניסים ליום העצמאות | Al HaNissim on the State of Israel's Independence Day by Josh Weinberg<br />
+Title: על הניסים ליום העצמאות | Al haNissim on the State of Israel's Independence Day, by Josh Weinberg<br />
 Primary contributor: josh.weinberg<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=6618">http://opensiddur.org/?p=6618</a>
 <p />

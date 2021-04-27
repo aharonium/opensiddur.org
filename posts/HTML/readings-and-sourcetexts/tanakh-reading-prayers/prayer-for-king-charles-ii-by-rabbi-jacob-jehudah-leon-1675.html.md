@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: הַנּוֺתֵן תְּשׁוּעָה | Prayer for the Prosperity of his Royal Majesty, delivered by Rabbi Jacob Jehudah Leon Templo to King Charles II (1675)<br />
+Title: הַנּוֹתֵן תְּשׁוּעָה | Prayer for the Prosperity of his Royal Majesty, delivered by Rabbi Jacob Jehudah Leon Templo to King Charles II (1675)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=12159">http://opensiddur.org/?p=12159</a>
 <p />
@@ -13,17 +13,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy" style="text-align: right;"><span lang="he">
 הַנּוֹתֵן תְּשׁוּעָה לַמְּלָכִים
-וּמֶמְשָּׂלָה לֲנְּסִיכִים
+וּמֶמְשָׁלָה לֲנְּסִיכִים
 [מַלְכוּתְךָ וּמֶמְשֶׁלְתְּךָ כָּל־עֹלָמִים]&nbsp;
 הַפּוֹצֶה אֶת דָּוִד עַבְדּוֹ מֵחֶרֶב רָעָה 
 הַנּוֹתֵן בַּיַם דֶרֶךְ 
 וּבְמַיִם עַזִּים נְתִיבָה 
-הוּא יְבָרֵךְ וְיִשְׁמוֹר וְיַעֲזוֹר וִיגַדֵּל 
-וִינַשֵּׂא לְמַֽעְלָה לְמַֽעְלָה לאֲדוֹנֵנוּ 
-</span></div>
-</td>
+</span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 He that sends deliverance to Kings, 
 and gives Dominion to Princes, 
@@ -31,35 +28,32 @@ whose Kingdom and Dominion is everlasting;
 He that delivered David his servant from the perilous sword, 
 And he who made a way through the Red Sea, 
 and paths through the River Jordan: 
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
+הוּא יְבָרֵךְ וְיִשְׁמוֹר וְיַעֲזוֹר וִיגַדֵּל 
+וִינַשֵּׂא לְמַֽעְלָה לְמַֽעְלָה לַאֲדוֹנֵנוּ 
+</span></div></td>
+ 
+<td style="vertical-align:top;">
+<div class="english">
 He himself bless, preserve, assist, make great, 
 and more and more exalt our Gracious Lord
-</div>
-</td></tr>
-
-
-<tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
-
-</span></div>
-</td>
- 
-<td style="vertical-align:top;" width="53%">
-<div class="english">
 CHARLES the II. 
 King and Protector of England, Scotland, France, and Ireland, 
-</div>
-</td></tr>
+</div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
 הַמֶּלֶךְ מַלְכֵי הַמְלָכִים 
 בְּרַחֲמָיו 
 יִשְׁמְרֶהוּ וִיחַיֵיהוּ וּמִכָּל צָרָה וָנֶזֶק יַצִילֵהוּ׃ 
-</span></div>
-</td>
+</span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 the King of kings 
 by his Merciful Benevolence 
@@ -67,16 +61,14 @@ preserve, vivify, and deliver him from all trouble and danger.
 </div></td></tr>
 
 
-<tr>
-<td width="25%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 מֶֽלֶךְ מַלְכֵי הַמְלָכִים 
 יָרִוּם וְיַגְבִּיהַ כּוֹכַב מַעֲרַכְתָּוֹ 
 וְיַאֲרִיךְ יָמִים עַל מַמְלָכְתּוֹ׃ 
-</span></div>
-</td>
+</span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 The King of kings, 
 increase and heighten the Star of his Constellation, 
@@ -84,8 +76,7 @@ to prolong his days over his glorious Kingdom.
 </div></td></tr>
 
 
-<tr>
-<td width="25%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 מֶלֶךְ מַלְכֵי הַמְלָכִים 
 יִתֵּן בְּלבּוֹ 
@@ -93,17 +84,16 @@ to prolong his days over his glorious Kingdom.
 רַחֲמָנוּת לַעֲשׂוֹת טוֹבָה עִמָּנוּ 
 וְעִם כָּל יִשְּׂרָאֵל אַחֵינוּ 
 אָמֵן׃
-</span></div>
-</td>
+</span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 The King of kings 
 put it into his heart, 
 and into the hearts of his Nobles and Princes, 
 to use benign clemency towards Us, 
 and to the Israel of God, our brethren under his Dominion: 
-Amen.
+<em>Amen</em>.
 </div>
 </td></tr></tbody></table>
 
@@ -114,5 +104,7 @@ Rabbi Jacob Judah Leon's Prayer for <a href="https://en.wikipedia.org/wiki/Charl
 <h3>Source</h3>
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.archive.org/stream/RabbiJacobJehudahLeonPrayerForCharlesII#page/n1/mode/2up"]
+
+&nbsp;
 </body>
 </html>

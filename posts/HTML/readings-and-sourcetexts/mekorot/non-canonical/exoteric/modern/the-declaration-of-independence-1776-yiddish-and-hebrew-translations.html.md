@@ -889,10 +889,7 @@ Oliver Wolcott
 
 <hr />
 
-Presented here is a Yiddish and a Hebrew translation of the Declaration of Independence.
-
-The Hebrew translation comes from Merut u-mishtar: adam, 'am, medinah, ma'amad: otsar te'udot historyot ufolitiyot (1945) p.278-281. More on this translation may be gleaned from S. Ilan Toren's article, <a href="http://chnm.gmu.edu/declaration/troen.html">The Hebrew Translation of the
-Declaration of Independence</a>.
+Presented here is a Yiddish and a Hebrew translation of the Declaration of Independence. The Hebrew translation comes from Merut u-mishtar: adam, 'am, medinah, ma'amad: otsar te'udot historyot ufolitiyot (1945) p.278-281. More on this translation may be gleaned from S. Ilan Toren's article, <a href="http://chnm.gmu.edu/declaration/troen.html">The Hebrew Translation of the Declaration of Independence</a>.
 
 The Yiddish translation is one of two made of the Declaration of Independence I know of (the other being an 1892 translation by Sarahson and Son). The translation transcribed here by an unknown translator was published in 1954 by Aroysgegebn fun Idishn Farlag un Forshungs-Ḳomiṭeṭ along with other seminal civic texts of the United States in a collection called <em>Unzer Demokratishe Yerushe</em> (Our Democratic Heritage). It is in the Public Domain due to lack of a copyright renewal (required for all works published between 1923 and 1963). I hope to translate the 1892 version as well as a Hebrew translation from 1945 by Independence Day 2020. The source text of the Declaration was copied directly from the copy <a href="https://www.archives.gov/founding-docs/declaration-transcript">transcribed at the National Archives</a>. --Aharon Varady
 
@@ -900,8 +897,14 @@ The Yiddish translation is one of two made of the Declaration of Independence I 
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/nybc203501#page/n6/mode/2up"]
 
+&nbsp;
+
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/declarationofindsd00unit#page/n5/mode/2up"]
 
-[gview file="https://opensiddur.org/wp-content/uploads/2019/07/US-Declaration-of-Independence-Hebrew-trans.-1945-cleaned-up.pdf"]
+&nbsp;
+
+https://opensiddur.org/wp-content/uploads/2019/07/US-Declaration-of-Independence-Hebrew-trans.-1945-cleaned-up.pdf
+
+&nbsp;
 </body>
 </html>

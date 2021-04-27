@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: הַנּוֺתֵן תְּשׁוּעָה | The Prayer for the Safety of Kings, Princes and Commonwealths, presented by Menasseh ben Israel to Oliver Cromwell (1655)<br />
+Title: הַנּוֹתֵן תְּשׁוּעָה | The Prayer for the Safety of Kings, Princes and Commonwealths, presented by Menasseh ben Israel to Oliver Cromwell (1655)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=12692">http://opensiddur.org/?p=12692</a>
 <p />
@@ -10,7 +10,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew (reconstructed from the nusaḥ and translation)</th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="40%">
+<tr><td style="vertical-align:top;" width="33%">
 <div class="liturgy"><span lang="he">
 
 </span></div>
@@ -103,7 +103,8 @@ and lift up higher and higher, our Lord:
  
 <td style="vertical-align:top;">
 <div class="english">
-[And then he names, the Pope, the Emperour, King, Duke, or any other Prince under whom the Jews live, and add's :]
+<Span class="instruction">[And then he names, the Pope, the Emperour, King, Duke, or any other Prince under whom the Jews live, and adds:]</span>
+
 </div>
 </td></tr>
 

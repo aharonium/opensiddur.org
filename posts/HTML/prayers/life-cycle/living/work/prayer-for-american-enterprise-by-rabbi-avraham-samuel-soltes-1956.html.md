@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: Prayer for American Enterprise, by Rabbi Avraham Samuel Soltes (1956)<br />
+Title: Prayer for American Enterprise [at the opening of a Kresge's department store], by Rabbi Avraham Samuel Soltes (1956)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=29558">http://opensiddur.org/?p=29558</a>
 <p />

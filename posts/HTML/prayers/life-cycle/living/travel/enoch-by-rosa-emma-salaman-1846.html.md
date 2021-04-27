@@ -10,34 +10,36 @@ For attribution and license, please consult the following URL: <a href="http://o
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 חנוך
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 ENOCH
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
-וַיִּתְהַלֵּ֥ךְ חֲנ֖וֹךְ אֶת־הָֽאֱלֹהִ֑ים וְאֵינֶ֕נּוּ כִּֽי־לָקַ֥ח אֹת֖וֹ אֱלֹהִֽים׃ <span class="citation">(בראשית ה:כד)</span>
+וַיִּתְהַלֵּ֥ךְ חֲנ֖וֹךְ אֶת־הָֽאֱלֹהִ֑ים 
+וְאֵינֶ֕נּוּ כִּֽי־לָקַ֥ח אֹת֖וֹ אֱלֹהִֽים׃ <span class="citation">(בראשית ה:כד)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
-"And Enoch walked with God; and he was not, for God took him." —Genesis 5:24.
+"And Enoch walked with God; 
+and he was not, for God took him." <span class="citation">(Genesis 5:24)</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 Oh! words of holy import! sink ye deep
 Within my spirit; never more to sleep!
@@ -50,12 +52,12 @@ Would tempt all other feet that way to rove!
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 I see him first in youthful vigour stand,
 When Fancy calls him to her golden land,
@@ -68,12 +70,12 @@ He “walks with God,” his commune is on high.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 I see him next in manhood; and I trace
 A firmer piety, maturer grace,
@@ -96,12 +98,12 @@ As his who leans upon a heavenly arm.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 Again, I see him stand amid the storm;
 Harmless it beats against his unmoved form:
@@ -118,12 +120,12 @@ He smiles,—all nature waits upon that smile!
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 Once more I looked—the man of God was gone!
 Yet still the path he trod before me shone:
@@ -144,6 +146,8 @@ The poem, "Enoch" by Rosa Emma Salaman, was first published in the <em><a href="
 
 <h3>Source</h3>
 
-[gview file="https://opensiddur.org/wp-content/uploads/2017/08/Enoch-by-Rosa-Emma-Salaman-from-The-Occident-December-1846.pdf"]
+https://opensiddur.org/wp-content/uploads/2017/08/Enoch-by-Rosa-Emma-Salaman-from-The-Occident-December-1846.pdf
+
+&nbsp;
 </body>
 </html>

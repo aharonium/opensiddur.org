@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: הַנּוֺתֵן תְּשׁוּעָה | Prayer for the Government of the United States of America, presented by Gershom Seixas on Thanksgiving Day 1789<br />
+Title: הַנּוֹתֵן תְּשׁוּעָה | Prayer for the Government of the United States of America, presented by Gershom Seixas on Thanksgiving Day 1789<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=22785">http://opensiddur.org/?p=22785</a>
 <p />
@@ -44,7 +44,7 @@ The order of services included the recitation of special psalms for the day. The
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
 הַנּוֺתֵן תְּשׁוּעָה לַמְּלָכִים
-וּמֶמְשָּׂלָה לֲנְּסִיכִים
+וּמֶמְשָׁלָה לֲנְּסִיכִים
 מַלְכוּתְךָ וּמֶמְשֶׁלְתְּךָ כָּל־עֹלָמִים
 הַפּוֹצֶה אֶת דָּוִד עַבְדּוֹ מֵחֶרֶב רָעָה
 הַנּוֹתֵן בַּיַם דֶרֶךְ

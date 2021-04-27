@@ -130,11 +130,11 @@ I cannot imagine a God who rewards and punishes the objects of his creation, who
 
 <h3>Source(s)</h3>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/AnOfferingOfPrayerBial1962#page/n11/mode/2up"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/AnOfferingOfPrayerBial1962/An%20Offering%20of%20Prayer%20%28Morrison%20David%20Bial%201962%29#page/n11/mode/2up"]
 
 &nbsp;
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/what-i-believe-albert-einstein-1930#page/n0/mode/2up"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/what-i-believe-albert-einstein-1930/What%20I%20Believe%20%28Albert%20Einstein%201930%29#page/n0/mode/2up"]
 
 &nbsp;
 </body>

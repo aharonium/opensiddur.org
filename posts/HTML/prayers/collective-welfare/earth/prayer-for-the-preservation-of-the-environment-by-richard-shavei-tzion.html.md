@@ -121,6 +121,6 @@ for eternity,
 
 <h3>Source(s)</h3>
 
-[gview file="https://opensiddur.org/wp-content/uploads/2019/06/Prayer-for-the-Preservation-of-the-Environment-Richard-Shavei-Tzion-2019.pdf"]
+https://opensiddur.org/wp-content/uploads/2019/06/Prayer-for-the-Preservation-of-the-Environment-Richard-Shavei-Tzion-2019.pdf
 </body>
 </html>

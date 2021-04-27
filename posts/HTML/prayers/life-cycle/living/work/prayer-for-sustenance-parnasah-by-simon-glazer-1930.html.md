@@ -71,7 +71,7 @@ This prayer for <em>parnasah</em> can be found on pages 106-108 of Rabbi Simon G
 
 <h3>Source(s)</h3>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/techinahbooksimonglazer1930#page/n105/mode/2up"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/techinahbooksimonglazer1930/Techinah-Book%20%28Simon%20Glazer%201930%29#page/n105/mode/2up"]
 
 &nbsp;
 

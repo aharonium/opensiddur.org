@@ -1,8 +1,8 @@
 <html>
 <head></head>
 <body>
-Title: קמע לשמירה מפני לילית | Apotropaic ward for the protection of pregnant women and infants against Lilith & her minions (Montgomery 1913, reconstructed)<br />
-Primary contributor: aharon.varady<br />
+Title: קמע לשמירה מפני לילית | Apotropaic ward for the protection of pregnant women and infants against Lilith & her minions<br />
+Primary contributor: aharon.n.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=33247">http://opensiddur.org/?p=33247</a>
 <p />
 <hr />
@@ -32,7 +32,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <div class="english">
 Sanoi, Sansanoi, Semanglaf[foot]Protecting angels common in childbirth charms whose significance to wards against Lilith is explained in the <em>Alphabet of ben Sira</em>.[/foot]
 Adam and Primæval Ḥavah:[foot]i.e., another name for Lilith. --ANV[/foot] 
-out Lilit![foot]Montgomery originally had published this as "אדם יהוה קדמונה חיין לילית" where either he or Gottheil had misread וחוה (and Eve) as יהוה (the Tetragrammaton) and חוץ לילית ׁ(out Lilit!) as חיין לילית ׁ (ָLilit alive!). The latter, while plauisible given that the agreement the ward is based upon essentially guarantees Lilith remains alive so long as her names are repeated. However, the much more familiar formula is the former -- חוץ לילית ׁ(out Lilit!). I suspect that the vav and upper right arm of the tsaddi sofit (וץ) were misread as two yuds and a nun sofit (יין). --ANV[/foot]
+out Lilit!
 </div></td></tr>
 
 
@@ -86,8 +86,7 @@ with all your foul gang walking along?”
 ותען ותאמר לו 
 אדוני אליהו 
 אנכי הולכת לבית היולדה 
-מירקאדה ד׳מ(ירקאדה)‏
-ויאידה בת דונה 
+מירקאדה ד״מ[תקריא?] ויאידה בת דונה 
 לתת לה שינת המות 
 ולקחת את ילדה הנולד לה 
 למצוץ דמו 
@@ -100,8 +99,7 @@ with all your foul gang walking along?”
 And she answered and said to him: 
 “My lord Eliyahu, 
 I am going to the house of the woman in childbirth 
-who is in birthpangs,[foot]<span class="hebrew">מירקאדה ד׳מ(מירקאדה)‏</span> is obscure to me. The root is probably used in the Syriac sense of mourning, hence supplicating; or cf. Heb. <span class="hebrew">חיל</span>, "writhe," as well as "dance."[/foot] 
-of so-and-so daughter of such-a-one,[foot]I would read as <span class="hebrew">אידה בת דינה</span>, the first as the indefinite pronoun fem., <em>quaequae</em>, the last as representing the Greek <em>δεῑνα</em>, which is commonly used in the papyri, the actual name being inserted upon use. --Montgomery[/foot]
+Mercada of M.[foot]Shaked and Naveh comment (p.118, n.18) that "ד״מ is probably for דמתקריא Vida(?) daughter of Donna."[/foot] Viadah bat Donah
 to give her the sleep of death 
 and to take the child she is bearing, 
 to suck their blood 
@@ -121,7 +119,7 @@ and to devour their flesh.”
 <div class="english">
 And said Eliyahu haNavi, <em>z"l</em>, to her – 
 “With a ban from the Name (<em>may it be blessed</em>) shall you be restrained 
-and like a tombstone[foot]Gottheil has <span class="hebrew">דומה</span> ("grave, afterworld") but other later texts have <span class="hebrew">דומם</span> ("inanimate"). If we follow Gottheil's transcription, then perhaps this should indicate something like a stone of the netherworld, i.e., a tombstone. Others translate this as "like a dumb stone." I like the valence of tombstone here, so I'll leave it, although I'm skeptical of Gottheil's transcription. --ANV[/foot] shall you be!” 
+and like a tombstone[foot]Domah, <span class="hebrew">דומה</span> ("grave, afterworld"). Later girsot have <span class="hebrew">דומם</span> ("inanimate"). An <em>u-kh'even domah</em> should translate as 'like a stone of the netherworld,' i.e., a tombstone. Others translate this as "like a dumb stone." --ANV[/foot] shall you be!” 
 </div></td></tr>
 
 
@@ -131,8 +129,8 @@ and like a tombstone[foot]Gottheil has <span class="hebrew">דומה</span> ("gr
 למען ייי התירני מן החרם 
 ואנכי אברח ואשבע לך 
 בשם ייי אלהי ישראל 
-לעזוב הדברים 
-אלו מהיולדות הזאות 
+לעזוב את הדרכים 
+אלו מהיולתת הזאות 
 ומולדה הנולד לה 
 ומכל שכן להזיק 
 וכל זמן שמזכירים 
@@ -141,8 +139,8 @@ and like a tombstone[foot]Gottheil has <span class="hebrew">דומה</span> ("gr
 להרע ולהזיק 
 ואלו הן שמותי: 
 לילית 
-אביטר 
-אביקר
+אביטו 
+אכיזו
 אמורפו 
 הקש 
 אודם 
@@ -150,9 +148,9 @@ and like a tombstone[foot]Gottheil has <span class="hebrew">דומה</span> ("gr
 איילו 
 מטרוטה 
 אבנוקטה 
-שטריהה 
+שטריגה 
 קלי 
-&nbsp;
+בטזה
 תלתוי 
 ריטשה׃
 </span></div></td>
@@ -173,18 +171,18 @@ it will not be in the power of me or of all my gang
 to do evil or harm. 
 And these are my names:[foot]The order of corresponding names diverges slightly in parallel texts. Some differences of transliteration are due to the vocalization as interpreted by the scribe/copyist, others are due to common confusion in letters (e.g. daled and resh in the name <em>Odam</em> vs. <em>Orem</em>. --ANV[/foot] 
 <em>Lilit</em>, 
-<em>Abitar</em>,[foot]or <em>Abatur</em>, the Mandaic genius, but the possible reading of the copy, <em>Abito</em>, may be preferable, in view of the Greek parallels. <em>Abito</em> is also found in a similar albeit abbreviated text cited by Moses Gaster, <em>Mystery of the Lord</em> (the original Hebrew title, unclear, but possibly <span class="hebrew">סודי ה׳</span>, a book that both Montgomery and I have yet to locate). More recently, Maria Kaspina published a text from an eighteenth-century Jewish amulet of German provenance in the collection of <em>The Museum of the History of the Jews in Russia</em> (Moscow 2014). There, the name is <em>Abitu</em>. A third comparative text, in Hebrew and Yiddish from the collection of the Jewish Museum Prague (inventory number JMP 178.801) was also recently published by Lenka Uličná in "Amulets Found in Bohemian Genizot: A First Approach," p.71-75 in <em>Genisa-Blätter III</em>.[/foot]
-<em>Abikar</em>,[foot]In the text cited by Gaster, <em>Abiko</em>. In the amulet cited by Kaspina, <em>Abizu</em>.[/foot]
-<em>Amorpho</em>[foot]i.e., "amorphous, shapeless" gk. <em>ἂμορϕος</em>. Montgomery writes, "our Jewish text alone has preserved the correct form." In the text cited by Gaster, <em>Amizo</em>. In the amulet cited by Kaspina, <em>Amzarko</em>.[/foot]
-<em>haḲash</em>[foot]<em>κακός</em>. In the text cited by Gaster, <em>Koko</em>. In the amulet cited by Kaspina, <em>Hekesh</em>.[/foot]
+<em>Abitu</em>,[foot]or <em>Abatur</em>, the Mandaic genius, but the possible reading of the copy, <em>Abito</em>, may be preferable, in view of the Greek parallels. <em>Abito</em> is also found in a similar albeit abbreviated text cited by Moses Gaster, <em>Mystery of the Lord</em> (the original Hebrew title, unclear, but possibly <span class="hebrew">סודי ה׳</span>, a book that both Montgomery and I have yet to locate). More recently, Maria Kaspina published a text from an eighteenth-century Jewish amulet of German provenance in the collection of <em>The Museum of the History of the Jews in Russia</em> (Moscow 2014). There, the name is <em>Abitu</em>. A third comparative text, in Hebrew and Yiddish from the collection of the Jewish Museum Prague (inventory number JMP 178.801) was also recently published by Lenka Uličná in "Amulets Found in Bohemian Genizot: A First Approach," p.71-75 in <em>Genisa-Blätter III</em>.[/foot]
+<em>Akizu</em>,[foot]In the text cited by Gaster, <em>Abiko</em>. In the amulet cited by Kaspina, <em>Abizu</em>.[/foot]
+<em>Amorpho</em>[foot]i.e., "amorphous, shapeless" Gk. ἂμορϕος. Montgomery writes, "our Jewish text alone has preserved the correct form." In the text cited by Gaster, <em>Amizo</em>. In the amulet cited by Kaspina, <em>Amzarko</em>.[/foot]
+<em>Haqash</em>[foot]Gk. κακός. In the text cited by Gaster, <em>Koko</em>. In the amulet cited by Kaspina, <em>Hekesh</em>.[/foot]
 <em>Odam</em>,[foot]In the amulet cited by Kaspina, <em>Orem</em>.[/foot] 
-<em>Ikhphido</em>,[foot]In the text cited by Gaster, <em>Podo</em>. In the amulet cited by Kaspina, <em>Ikpodu</em>.[/foot]  
+<em>Ikpido</em>,[foot]In the text cited by Gaster, <em>Podo</em>. In the amulet cited by Kaspina, <em>Ikpodu</em>.[/foot]  
 <em>Eilo</em>,[foot]In the amulet cited by Kaspina, <em>Ilu</em>.[/foot]
 <em>Matrotah</em>,[foot]In the text cited by Gaster, <em>Patrota</em>. In the amulet cited by Kaspina, <em>Tatrota</em>.[/foot]  
-<em>Abnuktah</em>,[foot]In the amulet cited by Kaspina, <em>Abunukta</em>.[/foot]
-<em>Shatrihah</em>,[foot]In the text cited by Gaster, <em>Satrina</em>. In the amulet cited by Kaspina, <em>Shatruna</em>.[/foot]  
+<em>Abnuqtah</em>,[foot]In the amulet cited by Kaspina, <em>Abunukta</em>.[/foot]
+<em>Shatrigah</em>,[foot]In the text cited by Gaster, <em>Satrina</em>. In the amulet cited by Kaspina, <em>Shatruna</em>.[/foot]  
 <em>Ḳali</em>,[foot]In the amulet cited by Kaspina, <em>Kalikataza</em>.[/foot] 
-[<em>Batseh</em>],[foot]This name is included in Montgomery's translation but does not appear in his publication of Gottheil's transcription. In the text cited by Gaster, <em>Batna</em>.[/foot] 
+<em>Batzeh</em>,[foot]This name is included in Montgomery's translation but does not appear in his publication of Gottheil's transcription. I've transcribed it from the source. In the text cited by Gaster, <em>Batna</em>.[/foot] 
 <em>Taltui</em>,[foot]In the text cited by Gaster, <em>Talto</em>. In the amulet cited by Kaspina, <em>Tilatui</em>.[/foot] 
 <em>Ritshah</em>.[foot]In the text cited by Gaster, <em>Partasah</em>. In the amulet cited by Kaspina, <em>Piratsha</em>.[/foot]”
 </div></td></tr>
@@ -194,24 +192,25 @@ And these are my names:[foot]The order of corresponding names diverges slightly 
 <div class="liturgy"><span lang="he">
 והשיב לה אליהו הנביא ז״ל ואמר לה 
 הריני משביעך ולכל כת דילך 
-בשם ייי אלהי ישראל גי״ם תריג 
+בשם ייי אלהי ישראל גי״ם תיריג 
 אברהם יצחק ויעקב 
 ובשם שכינתו הקדושה 
-ובשם עשרה שרפים 
+ובכח עשרה שרפים 
 אופנים וחיות הקדש 
-[וחמשה] ספרי תורה 
+ועשרה ספרי תורה 
 ובכח אלהי הצבאות ב״ה 
 שלא תלכי לא את ולא מכת דילך 
 להזיק את היולדת הזאת 
 או את ילדה הנולד לה 
 לא לשתות את דמו 
-לא למצוץ מח עצמותיו 
+ולא למצוץ מיח עצמותיו 
 ולא לחתם את בשרו 
-ולא ליגע בהם לא ברו״ג אבריהן 
+ולא ליגע בהם לא ברנ״ב אבריהן 
 ולא בשס״ה גידיהן 
 וערקיהן כמו שאינה יכולה לספור את כוכבי השמים 
 ולא להוביש את מי הים 
-בשם קרע שטן חסדיאל שמריאל
+בשם קר״ע שט״ן׃ 
+חסדיאל שמריאל׃
 </span></div></td>
  
 <td style="vertical-align:top;">
@@ -221,9 +220,9 @@ And Eliyahu haNavi (<em>z"l</em>) answered and said to her:
 in the name of YHVH Elohei Yisrael, by the gematria of 613,[foot]the figure of 613 is the gematria for 'YHVH Elohei Yisrael,' and the traditionally enumerated number of obligatory and prohibitory commandments in the Torah. --ANV after Montgomery[/foot]
 Avraham, Yitsḥaq and Yaaqov, 
 and in the name of his holy Shekhinah, 
-and in the name of the ten holy <em>Serafim</em>, 
-the <em>Ofanim</em> and the <em>Ḥayot haḳodesh</em>[foot]lit., the wheels and the sacred creatures or the wild creatures. Likely a reference to the sphere of the cosmos and its zodiacal constellations, as living cosmic or "angelic" entities. --ANV[/foot]
-and the [Five] Books of the Torah,[foot]Here, Gottheil's transcription before Montgomery reads <span class="hebrew">ועשרה ספרי תורה</span> and he does his best to provide an explanation. "The 10 Books of the Law are the double of the Pentateuch; cf. the Eighth Book of Moses in the Leyden MS. which Dieterich has published at the end of his <em>Abraxas</em>." The simpler answer is that this is an error, either in the original or in Gottheil's transcription, and so we do not need to resort to what might be a fantastic reference to gnostic pseudepigrapha including undiscovered 9th and 10th books of Moses. --ANV[/foot] 
+and with the might of ten holy <em>Serafim</em>, 
+<em>Ofanim</em> and <em>Ḥayot haḳodesh</em>[foot]lit., the wheels and the sacred creatures or the wild creatures. Likely a reference to the sphere of the cosmos and its zodiacal constellations, as living cosmic or "angelic" entities. --ANV[/foot]
+and ten Sifrei Torah,
 and by the might of Elohei Tsevaot (<em>b"h</em>) – 
 that you come not, you nor your gang 
 to injure this woman 
@@ -235,33 +234,34 @@ nor to touch them neither in their 256 limbs[foot]The "256 limbs" are 248 in Jew
 nor in their 365 ligaments and veins, 
 even as you are unable to count the number of the stars of heaven 
 nor dry up the water of the sea. 
-In the name of: ‘Ḥasdiel Shamriel has rent Satan’” 
+In the name of QRA STN.[foot]An acrostic line found in the <a href="https://opensiddur.org/prayers/praxes/contemplation/adiryaron-bahiryaron-42-letter-name-in-the-sefer-hapeliah/">42-letter divine name</a>.[/foot]
+Ḥasdiel Shamriel.
 </div></td></tr>
 </tbody></table>
 
 <hr />
 
 <div class="english" style="font-size: 1.2em;">
-This is an incantation text, "№ 42" published in <em>Aramaic Incantation Texts from Nippur. The [University of Pennsylvania] Museum Publications of the Babylonian Section. Vol. 3</em> (Philadelphia, 1913) by James Alan Montgomery (1866-1949). 
+This historiola is found in the incantation text, "№ 42" published in <em>Aramaic Incantation Texts from Nippur, The [University of Pennsylvania] Museum Publications of the Babylonian Section. Vol. 3</em> (Philadelphia, 1913) by James Alan Montgomery (1866-1949) transcribed and annotated by <a href="https://en.wikipedia.org/wiki/Richard_James_Horatio_Gottheil">Richard Gottheil</a> (1862-1936). The amulet is undated and unprovenanced -- as Dr. Montgomery explains in his introduction: "Towards the close of my work on this volume, Professor Richard Gottheil, who had several years ago thought of publishing the bowls, kindly forwarded me some notes and transcriptions which he had made in his preliminary essays. Among the papers was the copy of a text which is not now found in the Museum. It differed so radically from the other inscriptions that I inquired of Prof. Gottheil if it was taken from a bowl. He replied that he knew of no other source whence the text could have come into his set of papers. Accordingly on the hypothesis that the original text was once in the Museum, I venture to publish Prof. Gottheil's copy, and do so the more readily because of its interesting character and the illustration it affords to several points in the texts above. It contains a form of the Lilith legend, widespread in folklore, and a bowl would have been a perfectly proper place for a text of this prophylactic character..." 
 
-I have corrected obvious errors in Gottheil's transcription and consequently in Montgomery's translation. I have paraphrased commentary of Montgomery with the text and I have also altered his translation in parts. See below, "Sources," for Montgomery's original article and complete notes including his important reference to a similar work quoted in translation by Moses Gaster in “Two Thousand Years of the Child-Stealing Witch” (1900) in <em>Folk-lore</em> 11(2), 129–162.
-
-The text is undated and unprovenaced and the actual source manuscript from which this text was transcribed appears to have been lost, unfortunately, as Dr. Montgomery explains in his introduction: "Towards the close of my work on this volume, Professor <a href="https://en.wikipedia.org/wiki/Richard_James_Horatio_Gottheil">Richard Gottheil</a> [(1862-1936)], who had several years ago thought of publishing the bowls, kindly forwarded me some notes and transcriptions which he had made in his preliminary essays. Among the papers was the copy of a text which is not now found in the Museum. It differed so radically from the other inscriptions that I inquired of Prof. Gottheil if it was taken from a bowl. He replied that he knew of no other source whence the text could have come into his set of papers. Accordingly on the hypothesis that the original text was once in the Museum, I venture to publish Prof. Gottheil's copy, and do so the more readily because of its interesting character and the illustration it affords to several points in the texts above. It contains a form of the Lilith legend, widespread in folklore, and a bowl would have been a perfectly proper place for a text of this prophylactic character..." After his translation, Montgomery includes the following important details relayed by Gottheil, which I think argues for this text originating from a <em>qame'a</em> that <strong><em>is not</em></strong> an incantation bowl, mainly due to the format restrictions of such objects. 
+After his translation, Montgomery includes the following important details relayed by Gottheil: 
 
 <blockquote>
 Accompanying the text are given some inscribed designs and phrases. A rough figure of a hand (prophylactic against the evil eye) contains the Aramaic legend:
 
-<span class="hebrew">אנא מזרעי דיוסף קא (? הא =) אתינא ולא שלטא ביה שנא בישא׃</span>
+<span class="hebrew">אנא מזרעי דיוסף קא (=הא?) אתינא ולא שלטא ביה שנא בישא</span>
 
 “I am the seed-producer (?) of Yosef; when I come, an evil year cannot prevail over him,”—a play of thought between Yosef as controller of the fertility of Egypt and the fertility of the family, and as a good omen for the expectant mother.
 
-A "David’s Shield” contains in the center <span class="hebrew">יאהדונהי</span>, a [combined form of the Tetragrammaton with] Adonai. On the left hand <span class="hebrew">שטן</span>, “Satan,” in another division <span class="hebrew">אבג</span> and nearby <span class="hebrew">יחץ</span>, i.e. <span class="hebrew">אבג״יחץ</span>, [from the 42 letter divine name --ANV] to be found in Schwab, <em>Vocab</em>. Another species of the shield more roughly designed contains <span class="hebrew">יהוה</span> in the center, flanked with <span class="hebrew">יה</span>, etc. and <span class="hebrew">אדני</span>, with <span class="hebrew">מטטרון</span> and <span class="hebrew">סנדלפון</span> on either side. The changes are rung on the possible mutations of <span class="hebrew">ילק</span>, and the scripture Deuteronomy 28:10 is cited. Similar charms against the Lilith are to be found at the end of <em>Sefer Raziel</em> and in Buxtorf’s <em>Lexicon</em>, s.v.</blockquote>
+A "David’s Shield” contains in the center <span class="hebrew">יאהדונהי</span>, a [combined form of the Tetragrammaton with] Adonai. On the left hand <span class="hebrew">שטן</span>...in another division <span class="hebrew">אבג</span> and nearby <span class="hebrew">יתץ</span>, i.e. <span class="hebrew">אבג״יתץ</span>, [from the <a href="https://opensiddur.org/prayers/praxes/contemplation/adiryaron-bahiryaron-42-letter-name-in-the-sefer-hapeliah/">42-letter divine name</a> --ANV] to be found in Schwab, <em>Vocab</em>. Another species of the shield more roughly designed contains <span class="hebrew">יהוה</span> in the center, flanked with <span class="hebrew">יה</span>, etc. and <span class="hebrew">אדני</span>, with <span class="hebrew">מטטרון</span> and <span class="hebrew">סנדלפון</span> on either side. The changes are rung on the possible mutations of <span class="hebrew">ילק</span>, and the scripture Deuteronomy 28:10 is cited. Similar charms against the Lilith are to be found at the end of <em>Sefer Raziel</em> and in Buxtorf’s <em>Lexicon</em>, s.v.</blockquote>
 
-There just does not seem to me to be enough room for all of these additional verses, symbols, and divine names in the center of an amulet bowl. A <em>qame'a</em> on parchment seems much more probable. The presence of portions of the 42-letter divine name found in <em>Sefer Raziel ha-Malakh</em> (ca. 13th c.) and described by Hai Gaon (939-1038), indicates to me that this variation of the text dates no earlier than the late Geonic period. Shorter versions of this text reproduced in later periods commonly end with the litany of Lilit's names and omit the adjuration of Eliyahu. 
+The presence of portions of the 42-letter divine name found in <em>Sefer Raziel ha-Malakh</em> (ca. 13th c.) and described by Hai Gaon (939-1038), indicates to me that this variation of the text dates no earlier than the late Geonic period. Shorter versions of this text reproduced in later periods commonly end with the litany of Lilit's names and omit the adjuration of Eliyahu. 
 
 Montgomery offers an additional insight for this Lilit text in the context of the stories appearing in the bowls he reviewed earlier: "The very ancient use of epical narrative as an efficient magical charm was described above p. 62; thus the mere narrative of a demon's power as in the case of Dibbarra, is potent, or, <em>à fortiori</em>, the relation of a triumph over the evil spirit from some sacred legend. In the present case we have the added virtue of the revelation of the demon's names, and she swears that whenever they confront her, she will retire; the knowledge of her names binds her (cf. p. 56)."
 
---Aharon Varady
+The source from which this transcription was derived appeared to me to have been lost,[foot]Shaked and Naveh comment "The provenance of that amulet is uncertain, but there can be no doubt that it is not part of the Nippur excavation material, despite Montgomery’s wavering on this point. The language and style are clearly late medieval or modern (Scholem 1948, "פרקים חדשים מענייני אשמדאי ולילית" תרביץ יט׳" p. 166, n. 25). Montgomery’s text seems to come from an area where Spanish was used. The name of the young mother to whose house Lilith goes may be read as Mercada who is known as (ד״מ is probably for דמתקריא) Vida (?), daughter of Donna." (p.118, n.18)[/foot]but by chance, I found an image of the manuscript <a href="https://twitter.com/CULHebrewMss/status/1385971816812875777">posted to Twitter</a> from the <a href="https://clio.columbia.edu/catalog/8595342">Columbia Hebrew Manuscripts collection</a> (MS General 194) with a link to the digital source posted to the <a href="https://archive.org/details/ldpd_11683790_000">Internet Archive</a>. I've provided a derivation of the source image below. I've altered the contrast in the image to improve its legibility. The manuscript conforms exactly to the girsah of the text as published by Montgomery along with his description of its accompanying segulot.
+
+From the manuscript, I have corrected obvious errors in the transcription published by Montgomery (and corrected the latter's translation). I have included the notes published by Montgomery where significant. See below, "Sources," for Montgomery's original article and complete notes including his important reference to a similar work quoted in translation by Moses Gaster in “Two Thousand Years of the Child-Stealing Witch” (1900) in <em>Folk-lore</em> 11(2), 129–162. --Aharon Varady
 </div>
 
 <h3>Source(s)</h3>
@@ -270,5 +270,8 @@ Montgomery offers an additional insight for this Lilit text in the context of th
 
 &nbsp;
 
+[caption id="attachment_36887" align="alignnone" width="238"]<a href="https://opensiddur.org/wp-content/uploads/2020/08/ldpd_11683790_000_00000001-scaled.jpg"><img src="https://opensiddur.org/wp-content/uploads/2020/08/ldpd_11683790_000_00000001-238x300.jpg" alt="" width="238" height="300" class="size-medium wp-image-36887" /></a> <a href="https://archive.org/details/ldpd_11683790_000">Qame'a for Mirḳada d'M. Ṿiadah bat Donah]</a> (in MS General 194 at Columbia Hebrew Manuscripts Collection)[/caption]
+
+&nbsp;
 </body>
 </html>

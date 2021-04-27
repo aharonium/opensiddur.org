@@ -7,13 +7,16 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<strong>DOWNLOAD:</strong> <a href="https://archive.org/download/LamentationOnTheHolocaustSimonZuker1980/Len%20Fellman%27s%20transtropilation%20of%20the%20Lamentation%20on%20the%20Holocaust%20%28Simon%20Zuker%2C%20trans.%20Gertrude%20Hirschler%201980%29.pdf">PDF</a> | <a href="https://archive.org/download/LamentationOnTheHolocaustSimonZuker1980/Len%20Fellman%27s%20transtropilation%20of%20the%20Lamentation%20on%20the%20Holocaust%20%28Simon%20Zuker%2C%20trans.%20Gertrude%20Hirschler%201980%29.odt">ODT</a>
+<strong>DOWNLOAD:</strong> 
 
+<a href="https://archive.org/download/LamentationOnTheHolocaustSimonZuker1980/Len%20Fellman%27s%20transtropilation%20of%20the%20Lamentation%20on%20the%20Holocaust%20%28Simon%20Zuker%2C%20trans.%20Gertrude%20Hirschler%201980%29.pdf">PDF</a> | <a href="https://archive.org/download/LamentationOnTheHolocaustSimonZuker1980/Len%20Fellman%27s%20transtropilation%20of%20the%20Lamentation%20on%20the%20Holocaust%20%28Simon%20Zuker%2C%20trans.%20Gertrude%20Hirschler%201980%29.odt">ODT</a>
+
+<hr />
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 הַזּוֹכֵר מַזְכִּירָיו, 
 דּוֹר דּוֹר וּקְדוֹשָׁיו, 
@@ -22,7 +25,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 אוֹיָה מֶה הָיָה לָנוּ...
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 May the One who remembers those who were mindful of them,
 each generation and its saintly martyrs
@@ -32,7 +35,7 @@ Woe! What has befallen us!
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 שְׁטוּפֵי מַבּוּל־דָּם, 
 שֶׁמָּכְרוּ נַפְשׁוֹתָם,
@@ -41,7 +44,7 @@ Woe! What has befallen us!
 וַעֲדֵי עַד זִכְרָם לִבְרָכָה.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 All those who were swept away by the flood of blood––
 All those who sacrificed their lives 
@@ -51,7 +54,7 @@ Forever may their memory be a blessing.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 שְׂאוּ אֵלָיו כַּפַּיִם, אֲהָהּ, אֵי שָׁמַיִם,
 הוֹי עַל מֵּיטַב שִׁבְטֵי־יִשְׂרָאֵל, 
@@ -63,7 +66,7 @@ Forever may their memory be a blessing.
 בְּמוֹ־אֵשׁ הַחֻרְבָּן וּזְוָעוֹת.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 Lift your hands up to Him, woe O ye Heavens!
 woe over the best of Yisrael’s tribes,
@@ -76,7 +79,7 @@ consumed in the fires of destruction and horror.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 וְעַל שֵׂרַי־הַתּוֹרָה, וּמַחֲזִיקֵי מָּסוֹרָה,
 וְעַל פִּרְחֵי הַכְּהוּנָה הַצְּעִירִים,
@@ -88,7 +91,7 @@ consumed in the fires of destruction and horror.
 בְּמוֹתָם לֹא נִפְרָדוּ.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 For the princes of Torah, the pillars of Tradition, 
 for the young flowers of priestly children,
@@ -101,7 +104,7 @@ whom death did not part.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 אֶת דָּמָם דְּרוֹשׁ, כִּי תִשָּׂא אֶת רֹאשׁ,
 שֶׁל כׇּל נִדָּף לֶעָלִים הַטְּרוּפִים,
@@ -115,7 +118,7 @@ whom death did not part.
 אַל תִּמְחֶה מִסֵּפֶר כָּתָבְתָּ.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 Search for their blood! 
 Take account of every driven leaf––
@@ -130,7 +133,7 @@ from the book which You have written.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 זְכוֹר הַנְּאָקוֹת, וְרַעֲשׁ צְעֲקוֹת, 
 אָז יוּבְלוּ לָרֶצַח,
@@ -143,7 +146,7 @@ from the book which You have written.
 עַד עֵת נְקֹם עֶלְבּוֹן עֲלוּבִים.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 Remember every moan, every horrifying scream,
 when they were herded for slaughter––
@@ -157,7 +160,7 @@ Till the day that You avenge their utter degradation.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 בְּמַחֲנוֹת הַפְּרָאִים, 
 כְּאֵב וּנְגָעִים, 
@@ -170,7 +173,7 @@ Till the day that You avenge their utter degradation.
 חָלִילָה לְךָ מִלִּשְׁכֹּחַ.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 In the camp of the barbarian: 
 pain and sickness,
@@ -184,7 +187,7 @@ O, far be it from You that this ever be forgotten.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 וְתִימְרוֹת־עָשָׁן 
 וְקִיטוֹר מִכִּבְשָׁן, 
@@ -200,7 +203,7 @@ O, far be it from You that this ever be forgotten.
 וְעוֹר־אִישׁ לְקִשּׁוּטֵי הַנָּשִׁים.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 And the smokestacks––
 heavy smoke from the furnaces,
@@ -217,7 +220,7 @@ And their skin into decorations for their womenfolk.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 וּקְרִיצַת אֶצְבָּעוֹת, 
 שֶׁל רׇאשֵׁי־הַפְּרָעוֹת, 
@@ -233,7 +236,7 @@ And their skin into decorations for their womenfolk.
 וְטִמָיוֹן יְלָדִים בְּבָתֵּי שְׁמַד־כְּמָרִים.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 Remember the savage leaders
 pointing their fingers––
@@ -250,7 +253,7 @@ Their children abandoned in idolatrous homes.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 שֶׂה־תָמִים לָעוֹלָה, 
 דַם בְּנֵי הַגּוֹלָה,
@@ -267,7 +270,7 @@ Their children abandoned in idolatrous homes.
 וְאַף אֲנִי מַאֲמִין עָנוּ, וְשָׁרוּ שִׁירַת בִּטָּחוֹן.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 Sheep without blemish––
 the blood of our captive children, 
@@ -285,7 +288,7 @@ singing aloud the song of faith “Ani ma’amin.”
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 וּבְכֵן נִשְׁאַר עָם, 
 כְּיָתוֹם נִדְהָם, 
@@ -298,7 +301,7 @@ singing aloud the song of faith “Ani ma’amin.”
 תְּרוּמוֹת דִּשְׁנֵי מִזְבֵּחַ.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 What is left now: a people,
 bewildered like orphans––
@@ -313,7 +316,7 @@ these shall be their lasting tribute.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 מִי יְמַלֵּל, צַעֲר יִשְׂרָאֵל,
 אֲשֶׁר דַּעְתּוֹ מִכְּאֵב נִטְרֶפֶת, 
@@ -327,7 +330,7 @@ these shall be their lasting tribute.
 מְרַחָפֶת.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 Who could express Yisrael’s torment,
 its mind disturbed by misery––
@@ -352,7 +355,7 @@ Len Fellman transtropilized this work, cantillizing Hirschler's English translat
 
 <h3>Recording</h3>
 
-[su_audio url="https://archive.org/download/LamentationOnTheHolocaustSimonZuker1980/Simon%20Zuker%20and%20Gertrude%20Hirschler%20-%20Lamentation%20on%20the%20Holocaust%20%28chanted%20by%20Len%20Fellman%29.mp3" width="60%"]
+[su_audio url="https://archive.org/download/Lamentation-on-the-Holocaust-audio-Simon-Zuker-1980/Simon%20Zuker%20and%20Gertrude%20Hirschler%20-%20Lamentation%20on%20the%20Holocaust%20%28chanted%20by%20Len%20Fellman%29.mp3" width="60%"]
 
 <h3>Source(s)</h3>
 

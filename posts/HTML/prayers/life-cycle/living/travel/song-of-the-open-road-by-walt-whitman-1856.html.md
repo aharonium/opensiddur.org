@@ -8,7 +8,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <hr />
 
 <div class="english" style="font-size: 1.2em;">
-"Song of the Open Road" by Walt Whitman, first published by the poet in 1856, is not found in any siddur to my knowledge. And yet I have no difficulty reading this poem as the romantic hymn of a ḥasid, especially with its language of adhesiveness and attachment (<em>dveiqut</em>), husks (<em>qelipot</em>), spiritual efflux (<em>shefa</em>), and wisdom (<em>ḥokhmah</em>). This is not entirely a projection. Whitman was fascinated by the teachings of the Christian mystic, <a href="https://en.wikipedia.org/wiki/Emanuel_Swedenborg">Emanuel Swedenborg</a> (1688-1772). "Swedenborg had been exposed to the Christian Kabbalism of Rabbi <a href="https://en.wikipedia.org/wiki/Johan_Kemper">Johann Kemper</a>, a former Sabbatian Jew, who converted to Christianity, moved to Sweden, and developed a daring Zoharic interpretation of the New Testament."[foot]Marsha Schuchard in "<a href="https://www.academia.edu/29175909/William_Blake_and_the_Jewish_Swedenborgians">William Blake and the Jewish Swedenborgians</a>," <em>The Jews and British Romanticism: Politics, Religion, and Culture</em>, ed. Sheila Spector (New York: Palgrave Macmillan, 2005), 61-86.[/foot] Whitman, while <a href="https://forward.com/culture/423653/the-secret-jewish-history-of-walt-whitman/">friendly to Jews and sympathetic to their struggles</a>, likely wasn't aware of the influence of esoteric Judaism on Swedenborg. Yet, for me the resonance comes through intact. For this reason, this poem speaks dearly to me in the context of a traveler's prayer (tefilat haderekh) and for reading in the first week of the Sefirat ha-Omer, when I am imagining myself in the context of <em>yetsiat mitsrayim</em> in this journey with my fellow travelers into the <em>midbar</em> (wilderness). Here the text of "Song of the Open Road" is presented for the first time side-by-side with its Hebrew translation by Shimon Halkin. --Aharon Varady
+"Song of the Open Road" by Walt Whitman, first published by the poet in 1856, is not found in any siddur to my knowledge. And yet I have no difficulty reading this poem as the romantic hymn of a ḥasid, especially with its language of adhesiveness and attachment (<em>dveiqut</em>), husks (<em>qelipot</em>), spiritual efflux (<em>shefa</em>), and wisdom (<em>ḥokhmah</em>). This is not entirely a projection. Whitman was fascinated by the teachings of the Christian mystic, <a href="https://en.wikipedia.org/wiki/Emanuel_Swedenborg">Emanuel Swedenborg</a> (1688-1772). "Swedenborg had been exposed to the Christian Kabbalism of Rabbi <a href="https://en.wikipedia.org/wiki/Johan_Kemper">Johann Kemper</a>, a former Sabbatian Jew, who converted to Christianity, moved to Sweden, and developed a daring Zoharic interpretation of the New Testament."[foot]Marsha Schuchard in "<a href="https://www.academia.edu/29175909/William_Blake_and_the_Jewish_Swedenborgians">William Blake and the Jewish Swedenborgians</a>," <em>The Jews and British Romanticism: Politics, Religion, and Culture</em>, ed. Sheila Spector (New York: Palgrave Macmillan, 2005), 61-86.[/foot] Whitman, while <a href="https://forward.com/culture/423653/the-secret-jewish-history-of-walt-whitman/">friendly to Jews and sympathetic to their struggles</a>, likely wasn't aware of the influence of esoteric Judaism on Swedenborg. Yet, for me the resonance comes through intact. For this reason, this poem speaks dearly to me in the context of a traveler's prayer (tefilat haderekh) and for reading in the first week of the Sefirat ha-Omer, when I am imagining myself and fellow travelers exiting the bounds/bonds of <em>Mitsrayim</em> and entering the open realm of <em>Midbar</em>. Here the text of "Song of the Open Road" is presented for the first time side-by-side with its Hebrew translation by Shimon Halkin. --Aharon Varady
 </div>
 <hr />
 
@@ -217,8 +217,10 @@ you timber-lined sides! you distant ships!
 אַתֶּם, הַחַלּוֹנוֹת, שֶׁקְּלִפּוֹתֵיכֶם הַשְּׁקוּפוֹת עֲשׂוּיוֹת שֶׁתְּגַלֶּינָה כׇּל כָּךְ! 
 אַתֶּן, הַדְּלָתוֹת וְהַמַּדְרֵגוֹת הָעוֹלוֹת! אַתֶּם, הַקִּמְרוֹנִים! 
 אַתֶּן, הָאֲבָנִים הָאֲפֹרוֹת שֶׁבַּמַּרְצָפוֹת לְאֵין קֵץ! אַתֶּם, מַעַבְרֵי־הָרְחוֹבוֹת סְלוּלֵי־כׇּל־רָגֶל!
-מִכֹּל שֶׁנָּגַע בָּכֶם, אֲנִי סָבוּר, הִקְנֵיתֶם לְעַצְמְכֶם וְעָכְשָׁו רְצוֹנְכֶם לְהַקְנוֹת מִכָּךְ אַף לִי בַּחַשַׁאי -
-מִשֶּׁל הַחַיִּים וּמִשֶּׁל הַמֵּתִים אִכְלַסְתֶּם אֶת שְׁטְחֵיכֶם אֲטוּמֵי־הָאֲרֶשֶׁת, וְרוּחוֹתֵיהֶם שֶׁל אֵלֶּה רְצוֹנָן לְהִגָּלוֹת וּלְהַסְבִּיר לִי פָּנִים.
+מִכֹּל שֶׁנָּגַע בָּכֶם, אֲנִי סָבוּר, הִקְנֵיתֶם לְעַצְמְכֶם 
+וְעָכְשָׁו רְצוֹנְכֶם לְהַקְנוֹת מִכָּךְ אַף לִי בַּחַשַׁאי -
+מִשֶּׁל הַחַיִּים וּמִשֶּׁל הַמֵּתִים אִכְלַסְתֶּם אֶת שְׁטְחֵיכֶם אֲטוּמֵי־הָאֲרֶשֶׁת, 
+וְרוּחוֹתֵיהֶם שֶׁל אֵלֶּה רְצוֹנָן לְהִגָּלוֹת וּלְהַסְבִּיר לִי פָּנִים.
 </span></div></td>
  
 <td style="vertical-align:top;">
@@ -228,8 +230,10 @@ You porches and entrances! you copings and iron guards!
 You windows whose transparent shells might expose so much!
 You doors and ascending steps! you arches!
 You gray stones of interminable pavements! you trodden crossings!
-From all that has touch’d you I believe you have imparted to yourselves, and now would impart the same secretly to me,
-From the living and the dead you have peopled your impassive surfaces, and the spirits thereof would be evident and amicable with me.
+From all that has touch’d you I believe you have imparted to yourselves, 
+and now would impart the same secretly to me,
+From the living and the dead you have peopled your impassive surfaces, 
+and the spirits thereof would be evident and amicable with me.
 </div></td></tr>
 
 
@@ -375,7 +379,7 @@ I did not know I held so much goodness.
 אֲזָרֶה עַצְמִי בְּקֶרֶב אֲנָשִׁים וְנָשִׁים בְּדֶרֶךְ הִלּוּכִי,
 אָטִיל בְּקִרְבָּם חֶדְוָה חֲדָשָׁה וְנִקְשׁוּת חֲדָשָׁה;
 יִתְכַּחַשׁ לִי הַמִּתְכַּחֵשׁ וְלֹא אִכְפָּת לִי,
-יְקַבְּלֵנִי הַמְקַבֵּל, אִם זֶה וִאִם זוֹ, וּבָרוּךְ יִהְיֶה אַף יְבָרְכֵנִי.
+יְקַבְּלֵנִי הַמְקַבֵּל, אִם זֶה וְאִם זוֹ, וּבָרוּךְ יִהְיֶה אַף יְבָרְכֵנִי.
 </span></div></td>
  
 <td style="vertical-align:top;">
@@ -756,7 +760,8 @@ The stale cadaver blocks up the passage—the burial waits no longer.
 הַהוֹלֵךְ עִמִּי לְמַסָּעָיו צָרִיךְ לְמֵיטַב הַדָּם, הַשְּׁרִירִים וְכֹחַ־הַסֵּבֶל -
 אִישׁ אַל יָבוֹא אֶל הַנִסָּיוֹן עַד שֶׁיָּבִיא, אִם הוּא וְאִם הִיא, אֶת אֹמֶץ־הַלֵּב וְאֶת בַּרְיוּת־הַגּוּף;
 אַל תִּקְרַב הֲלוֹם, אִם כְּבָר בִּזְבַּזְתָּ אֶת הַמֵּיטָב שֶׁבָּךְ: 
-רַק הַבָּאִים בְּגוּף נֶחְמָד וְתַקִיף־הָרָצוֹן יָבוֹאוּ, כׇּל יְדוּעַ חֹלִי, כׇּל שַׁתְיָן אוֹ נִכְתָּם בִּרְבָב וֵנֵרִי אֵינָם מֻתָּרִים כָּאן.
+רַק הַבָּאִים בְּגוּף נֶחְמָד וְתַקִיף־הָרָצוֹן יָבוֹאוּ, 
+כׇּל יְדוּעַ חֹלִי, כׇּל שַׁתְיָן אוֹ נִכְתָּם בִּרְבָב וֵנֵרִי אֵינָם מֻתָּרִים כָּאן.
 </span></div></td>
  
 <td style="vertical-align:top;">
@@ -1030,7 +1035,8 @@ Behold a secret silent loathing and despair.
 חִדְלַת־צוּרָה וְחִדְלַת־מִלִּים בִּרְחוֹבוֹת כְּרַכִּים, מְנֻמֶּסֶת וַאֲדִיבָה בַּטְּרַקְלִינִים,
 בִּקְרוֹנוֹת הָרַכָּבוֹת, בָּאֳנִיּוֹת־קִיטוֹר, בַּאֲסֵפַת עַם,
 וְשׁוּב בִּמְעוֹנוֹת אֲנֲשִׁים וְנָשִׁים, עִם הַשֻּׁלְחָן, בַּחֲדַר־הַמִּטּוֹת וּבְכׇל מָקוֹם;
-מְהַדֶּרֶת בִּלְבוּשָׁהּ, קְלַסְתֵּר־הַפָּנִים מְחַיֵּךְ, הַקּוֹמָה וְקוּפָה, הַמָּוֶת תַּחַת עַצְמוֹת־הֶחָזֶה, גֵיהִנֹּם תַּחַת עַצְמוֹת־הַגֻּלְגֹּלֶת,
+מְהַדֶּרֶת בִּלְבוּשָׁהּ, קְלַסְתֵּר־הַפָּנִים מְחַיֵּךְ, הַקּוֹמָה וְקוּפָה, 
+הַמָּוֶת תַּחַת עַצְמוֹת־הֶחָזֶה, גֵיהִנֹּם תַּחַת עַצְמוֹת־הַגֻּלְגֹּלֶת,
 תַּחַת אֶדֶר־הַיְקָר וְהַכְּסָיוֹת, תַּחַת סְרָטִים וּפְרָחִים מְלָאכוּתִיִּים; 
 חַיָּה בְּשָׁלוֹם עִם כׇּל נֹהַג, לֹא הוֹגָה קוֹל הֲבָרָה עַל עַצְמָהּ,
 מְדַבֶּרֶת עַל כֹּל וָכֹל, וּלְעוֹלָם לֹא עַל עַצְמָהּ.
@@ -1043,7 +1049,8 @@ Another self, a duplicate of every one, skulking and hiding it goes,
 Formless and wordless through the streets of the cities, polite and bland in the parlors,
 In the cars of railroads, in steamboats, in the public assembly,
 Home to the houses of men and women, at the table, in the bedroom, everywhere,
-Smartly attired, countenance smiling, form upright, death under the breast-bones, hell under the skull-bones,
+Smartly attired, countenance smiling, form upright, 
+death under the breast-bones, hell under the skull-bones,
 Under the broadcloth and gloves, under the ribbons and artificial flowers,
 Keeping fair with the customs, speaking not a syllable of itself,
 Speaking of any thing else but never of itself.
@@ -1167,7 +1174,7 @@ Shall we stick by each other as long as we live?
 
 <hr />
 
-"Song for the Open Road" by Walt Whitman was first published in <em>Leaves of Grass</em> in 1856. This Hebrew translation of "Song for the Open Road" can be found in <em>Alei Esev</em> (1952) p.203-216, Shimon Halkin's Hebrew translation of <em>Leaves of Grass</em>. Halkin leaves the French "Allons!" (let's go!) untranslated in the Hebrew. I have replaced Allons with the Judeo-Arabic, <span class="hebrew">יַאלְלָה</span> (yalla, Arabic: يلا), and in the last stanza <span class="hebrew">קָמַרַדּוֹ</span> with <span class="hebrew">חָבֵר</span>. In part 10, I have replaced Halkin's choice of word for priests (<span class="hebrew">כֹּהֲנִים</span>) with <span class="hebrew">כְּמָרִים</span>, as Whitman here is referring to non-Jewish priests. --Aharon Varady
+"Song for the Open Road" by Walt Whitman was first published in <em>Leaves of Grass</em> in 1856. This Hebrew translation of "Song for the Open Road" can be found in <em>Alei Esev</em> (1952) p.203-216, Shimon Halkin's Hebrew translation of <em>Leaves of Grass</em>. Halkin leaves the French "Allons!" (let's go!) untranslated in the Hebrew. I have replaced 'Allons' with the Judeo-Arabic, <span class="hebrew">יַאלְלָה</span> (yalla, Arabic: يلا), and in the last stanza <span class="hebrew">קָמַרַדּוֹ</span> (Camerado) with <span class="hebrew">חָבֵר</span>. In part 10, I have replaced Halkin's choice of word for priests (<span class="hebrew">כֹּהֲנִים</span>) with <span class="hebrew">כְּמָרִים</span>, as Whitman here is referring to non-Jewish priests. Besides this I have made no other changes save some line breaks so that the English and Hebrew lines may better correspond with one another in large displays. These lines in the English may easily be identified as beginning with a lowercase letter, continuing the line for that immediately preceding it. --Aharon Varady
 
 
 <h3>Source(s)</h3>

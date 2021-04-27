@@ -9,7 +9,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <div style="text-align: center;"><span class="scribe" style="font-size:3em; line-height: 1.6em;">נֹטֶ֣ה צָפ֣וֹן עַל־תֹּ֑הוּ תֹּ֥לֶה אֶ֝֗רֶץ עַל־בְּלִי־מָֽה׃</span> <span class="citation">(איוב כו:ז)</span>
 &nbsp;
-<span class="english" style="font-size:3em; line-height: 1.25em;">"He stretches out the North over the Abyss, 
+<span class="english" style="font-size:3em; line-height: 1.25em;">"[Elohim] stretches out the North over the Abyss, 
 and suspends the Earth upon Nothingness."</span> <span class="citation">(Job 26:7)</span></div>
 
 The Sefer Yetsirah is an esoteric cosmological work whose earliest layer was written by an unknown author during the Tannaitic period (1st-2nd centuries CE). A second layer was added in the Amoraic period (3rd-6th centuries CE), but variations of the text only became more widely extant in the Geonic period (7th-9th centuries). Three variations of the text were known by the 10th century: a Short version, a Long Version, and a variation that R' Saadya Gaon translated and commented upon in Arabic. The text of the Sefer Yetsirah presented here follows the "experimental exercise" produced by Dr. A. Peter Hayman in his <em>Sefer Yeṣira: Edition, Translation, and Text-Critical Commentary</em>, "<a href="https://opensiddur.org/wp-content/uploads/2016/06/sefer-yetsira-earliest-recoverable-text-a.-peter-hayman-Mohr-Siebeck-2004.pdf">Appendix III: The Earliest Recoverable Text of Sefer Yeṣira</a>" (Mohr Siebeck, 2004). Hayman looked through the extant early manuscripts, translations, and commentaries witnessing each strand of the text in order to locate his "earliest recoverable text." By carefully analyzing these manuscripts, Hayman reconstructed a layer of the text common to the three versions that may have circulated early in the Geonic period (or perhaps even earlier). Absent from Hayman's earliest recoverable text are the astrological, anatomical, and some of the linguistic material found in later versions. (Such material may have originated as an esoteric commentary or gloss, on this earlier layer or even earlier layers of the work. "It is the glory of Elohim to conceal a thing; but the glory of kings to search a matter out" --Proverbs 25:2.)
@@ -765,7 +765,10 @@ Also see the wikipedia entry "<a href="https://en.wikipedia.org/wiki/Factorial">
 <div class="liturgy"><span lang="he">
 <span class="citation">&nbsp;</span>
 שְׁתֵים עֶשְׂרֵה פְּשׁוּטוֹת
-הוזחטילנסעצ״ק 
+הו״ז
+חט״י
+לנ״ס
+עצ״ק 
 יְסוֹדָן רְאִיָּה שְׁמִיעָה רִיחָה 
 שִׂיחָה לְעִיטָה תַּשְׁמִישׁ 
 מַעֲשֶׂה הִילּוּךְ רוֹגֶז
@@ -776,7 +779,10 @@ Also see the wikipedia entry "<a href="https://en.wikipedia.org/wiki/Factorial">
 <div class="english">
 <span class="citation">[§45]</span>
 Twelve simple letters:
-He, Vav, Zayin, Ḥet, Tet, Yod, Lamed, Nun, Samekh, Ayin, Tsadi, Qof. 
+He, Vav, Zayin, 
+Ḥet, Tet, Yod, 
+Lamed, Nun, Samekh, 
+Ayin, Tsadi, Qof. 
 Their basis is sight, hearing, smelling,
  talking, eating, sexual intercourse,
 action, walking, anger,

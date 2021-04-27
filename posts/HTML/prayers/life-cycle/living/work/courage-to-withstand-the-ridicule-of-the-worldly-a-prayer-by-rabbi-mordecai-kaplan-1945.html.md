@@ -18,7 +18,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <td style="vertical-align:top;" width="53%">
 <div class="english">
 <u>Courage to Withstand the Ridicule of the Worldly</u>
-<em>Suggested by Psalm 4</em>
+<em>Suggested by Psalms 4</em>
 </div></td></tr>
 
 
@@ -183,6 +183,9 @@ in calm reliance on God’s blessed love.
 
 <h3>Source(s)</h3>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/SabbathPrayerBookJewishReconstructionistFoundation1945#page/n460/mode/2up"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/SabbathPrayerBookJewishReconstructionistFoundation1945/Sabbath%20Prayer%20Book%20%28Jewish%20Reconstructionist%20Foundation%2C%201945%29#page/n460/mode/2up"]
+
+&nbsp;
+
 </body>
 </html>

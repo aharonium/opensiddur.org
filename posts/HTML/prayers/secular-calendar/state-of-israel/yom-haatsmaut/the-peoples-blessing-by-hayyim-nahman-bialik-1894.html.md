@@ -37,7 +37,7 @@ Come as one to support the people.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Each trek we enumerate and hold dear
+Each trek we account and hold dear
 each tear drop and sweat upon brow
 that fall like dew for Yisra'el, reviving 
 its debilitated soul; so weighed upon
