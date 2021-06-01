@@ -189,7 +189,7 @@ Wir bitten Dich, lege in ihre Herzen Liebe und Verbundenheit zu Deinem Volk Isra
 וּלְהָבִין
 אֶת עַמְּךָ יִשְׁמָעֵאל,
 אֶת קְדֻשַּׁת חֹדֶשׁ הֲרָמָדָאן שֶׁלָּהֶם,
-וְאֶת זִקָּתָם לָאָרֶץ הַזּוֹ,
+וְאֶת זִקָּתָם לָאָרֶץ הַזֹּאת,
 אֶרֶץ הַקָּדוֹשׁ
 </span></div></td>
 

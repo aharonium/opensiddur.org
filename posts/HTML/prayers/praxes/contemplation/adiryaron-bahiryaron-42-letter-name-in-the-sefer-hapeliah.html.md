@@ -104,7 +104,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <td style="vertical-align:top;" width="30%">
 <div class="liturgy"><span lang="he">
 יְדָל־שַׂרְיָה גוֹרְרְיַה לְמֵימַרְיָה 
-פְּקוֹדְקַדְיָה זוֺהָר־זְהַרְיַה קַוֹוְלַיָה 
+פְּקוֹדְקַדְיָה זוֹהָר־זְהַרְיַה קַוֹוְלַיָה 
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%"><div class="english">

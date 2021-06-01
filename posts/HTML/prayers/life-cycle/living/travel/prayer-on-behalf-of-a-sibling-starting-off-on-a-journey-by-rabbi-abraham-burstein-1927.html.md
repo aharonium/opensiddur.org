@@ -8,7 +8,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <hr />
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;"><a href="/contribute/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="25%">
 <div class="liturgy"><span lang="he">
@@ -17,7 +17,23 @@ For attribution and license, please consult the following URL: <a href="http://o
  
 <td style="vertical-align:top;">
 <div class="english">
-Merciful Father, as children of a house of pilgrims do we now stand before you. Through all the lands and confines of earth have our ancestors stumbled in search of peace, in escape from the sword of the persecutor. Not to escape from trial does our <span class="instruction">(brother/sister, ___name___)</span> now depart from home and friends; not to seek refuge in lands across the sea; but only to perceive your works among other peoples, your greatness in other parts of your glorious universe. As you have watched over all Yisrael in its wanderings, as you have brought them ever again to home and happiness, as the life of Yisrael still glories in your everlasting providence, do you now, we beseech you, guide them and preserve them in their travels over earth. <em>Amen</em>. 
+Merciful Father, 
+as children of a house of pilgrims 
+do we now stand before you. 
+Through all the lands and confines of earth 
+have our ancestors stumbled in search of peace, 
+in escape from the sword of the persecutor. 
+Not to escape from trial does our <span class="instruction">(brother/sister, ___name___)</span> 
+now depart from home and friends; 
+not to seek refuge in lands across the sea; 
+but only to perceive your works among other peoples, 
+your greatness in other parts of your glorious universe. 
+As you have watched over all Yisrael in its wanderings, 
+as you have brought them ever again to home and happiness, 
+as the life of Yisrael still glories in your everlasting providence, 
+do you now, we beseech you, 
+guide them and preserve them in their travels over earth. 
+<em>Amen</em>. 
 </div></td></tr>
 </tbody></table>
 

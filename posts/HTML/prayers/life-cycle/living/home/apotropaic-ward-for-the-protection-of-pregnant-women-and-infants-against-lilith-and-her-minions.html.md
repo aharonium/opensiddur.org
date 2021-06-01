@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: קמע לשמירה מפני לילית | Apotropaic ward for the protection of pregnant women and infants against Lilith & her minions<br />
+Title: קמע לשמירה מפני לילית | Apotropaic ward for the protection of pregnant women and infants against Lilith & her minions (Columbia MS General 194, Montgomery 1913)<br />
 Primary contributor: aharon.n.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=33247">http://opensiddur.org/?p=33247</a>
 <p />
@@ -12,12 +12,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
-<span style="font-size: xxx-large;">שדי</span>
+שדי
 </span></div></td>
  
 <td style="vertical-align:top;">
 <div class="english">
-<span style="font-size: xxx-large;">SHADAI</span>
+SHADAI
 </div></td></tr>
 
 
@@ -60,7 +60,7 @@ whose Name is living and enduring forever.
 <td style="vertical-align:top;">
 <div class="english">
 Eliyahu haNavi was walking in the road 
-and he met the wicked Lilit and all her gang.[foot]Florentina Beladenova Geller notes this tale appears related to the story of Agrat bat Mahlat and her encounter with Rabbi Hanina ben Dosa as recorded in amulet bowls and the Babylonian Talmud (Pesachim 112b). See "Between Demonology and Hagiology: The Slavonic Rendering of the Semitic Magical Historiola of the Child-Stealing Witch" in <em>In the Wake of the Compendia: Infrastructural Contexts and the Licensing of Empiricism in Ancient and Medieval Mesopotamia</em>. ed. J. Cale Johnson (2015), p. 184-185. --ANV[/foot]
+and he met the wicked Lilit and all her gang.[foot]Florentina Badalanova Geller notes this tale appears related to the story of Agrat bat Mahlat and her encounter with Rabbi Hanina ben Dosa as recorded in amulet bowls and the Babylonian Talmud (Pesachim 112b). See "Between Demonology and Hagiology: The Slavonic Rendering of the Semitic Magical Historiola of the Child-Stealing Witch" in <em>In the Wake of the Compendia: Infrastructural Contexts and the Licensing of Empiricism in Ancient and Medieval Mesopotamia</em>. ed. J. Cale Johnson (2015), p. 184-185. --ANV[/foot]
 </div></td></tr>
 
 
@@ -171,20 +171,20 @@ it will not be in the power of me or of all my gang
 to do evil or harm. 
 And these are my names:[foot]The order of corresponding names diverges slightly in parallel texts. Some differences of transliteration are due to the vocalization as interpreted by the scribe/copyist, others are due to common confusion in letters (e.g. daled and resh in the name <em>Odam</em> vs. <em>Orem</em>. --ANV[/foot] 
 <em>Lilit</em>, 
-<em>Abitu</em>,[foot]or <em>Abatur</em>, the Mandaic genius, but the possible reading of the copy, <em>Abito</em>, may be preferable, in view of the Greek parallels. <em>Abito</em> is also found in a similar albeit abbreviated text cited by Moses Gaster, <em>Mystery of the Lord</em> (the original Hebrew title, unclear, but possibly <span class="hebrew">סודי ה׳</span>, a book that both Montgomery and I have yet to locate). More recently, Maria Kaspina published a text from an eighteenth-century Jewish amulet of German provenance in the collection of <em>The Museum of the History of the Jews in Russia</em> (Moscow 2014). There, the name is <em>Abitu</em>. A third comparative text, in Hebrew and Yiddish from the collection of the Jewish Museum Prague (inventory number JMP 178.801) was also recently published by Lenka Uličná in "Amulets Found in Bohemian Genizot: A First Approach," p.71-75 in <em>Genisa-Blätter III</em>.[/foot]
-<em>Akizu</em>,[foot]In the text cited by Gaster, <em>Abiko</em>. In the amulet cited by Kaspina, <em>Abizu</em>.[/foot]
-<em>Amorpho</em>[foot]i.e., "amorphous, shapeless" Gk. ἂμορϕος. Montgomery writes, "our Jewish text alone has preserved the correct form." In the text cited by Gaster, <em>Amizo</em>. In the amulet cited by Kaspina, <em>Amzarko</em>.[/foot]
-<em>Haqash</em>[foot]Gk. κακός. In the text cited by Gaster, <em>Koko</em>. In the amulet cited by Kaspina, <em>Hekesh</em>.[/foot]
-<em>Odam</em>,[foot]In the amulet cited by Kaspina, <em>Orem</em>.[/foot] 
-<em>Ikpido</em>,[foot]In the text cited by Gaster, <em>Podo</em>. In the amulet cited by Kaspina, <em>Ikpodu</em>.[/foot]  
-<em>Eilo</em>,[foot]In the amulet cited by Kaspina, <em>Ilu</em>.[/foot]
-<em>Matrotah</em>,[foot]In the text cited by Gaster, <em>Patrota</em>. In the amulet cited by Kaspina, <em>Tatrota</em>.[/foot]  
-<em>Abnuqtah</em>,[foot]In the amulet cited by Kaspina, <em>Abunukta</em>.[/foot]
-<em>Shatrigah</em>,[foot]In the text cited by Gaster, <em>Satrina</em>. In the amulet cited by Kaspina, <em>Shatruna</em>.[/foot]  
-<em>Ḳali</em>,[foot]In the amulet cited by Kaspina, <em>Kalikataza</em>.[/foot] 
-<em>Batzeh</em>,[foot]This name is included in Montgomery's translation but does not appear in his publication of Gottheil's transcription. I've transcribed it from the source. In the text cited by Gaster, <em>Batna</em>.[/foot] 
-<em>Taltui</em>,[foot]In the text cited by Gaster, <em>Talto</em>. In the amulet cited by Kaspina, <em>Tilatui</em>.[/foot] 
-<em>Ritshah</em>.[foot]In the text cited by Gaster, <em>Partasah</em>. In the amulet cited by Kaspina, <em>Piratsha</em>.[/foot]”
+<em>Abitu</em>,[foot]"or <em>Abatur</em>, the Mandaic genius, but the possible reading of the copy, <em>Abito</em>, may be preferable, in view of the Greek parallels" (Gottheil in Montgomery 1913). <em>Abito</em> is also found in a similar albeit abbreviated text cited by Moses Gaster, <em>Mystery of the Lord</em> (the original Hebrew title, unclear, but possibly <span class="hebrew">סודי ה׳</span>, a book that both Montgomery and I have yet to locate). Florentina Badalanova Geller, in "Between Demonology and Hagiology" (2015) also cites a text from an 18th-century Jewish amulet of German provenance, published by Maria Kaspina from the collection of The Museum of the History of the Jews in Russia ((Амулет для девочки, Германия, 18 век, Музей истории евреев в России, 3473-т6). Geller translates Kaspina's translation in Russian as published in “Илья Пророк и демоны в еврейских магических текстах (сборники заговоров и амулеты 18–20 вв.).” In: Д. И. Антонов, О. Б. Христофорова (eds). Российский государственный гуманитарный университет, Центр типологии и семиотики фольклора, Отделение социокультурных исследований, Третья научная конференция: "Демонология как семиотическая система." Москва, РГГУ. 15–17 мая 2014 г. ТЕЗИСЫ ДОКЛАДОВ. Москва 2014, 49–51. I believe the original amulets from which her transcriptions were derived are <a href="http://mievr.ru/en/collection/show/70">here</a> and <a href="http://mievr.ru/en/collection/show/245">here</a>. There, the name is <span class="hebrew">אַבִּיטִוּ</span> (<em>Abitu</em>). A third comparative text, in Hebrew and Yiddish from the collection of the Jewish Museum Prague (inventory number JMP 178.801) was also recently published by Lenka Uličná in "<a href="https://publishup.uni-potsdam.de/opus4-ubp/frontdoor/deliver/index/docId/47095/file/genisa_iii_online_69-80.pdf">Amulets Found in Bohemian Genizot: A First Approach</a>," p.71-75 in <em>Genisa-Blätter III</em>. There the name is <span class="hebrew">אַבִיטִי</span> (<em>Abiti</em>).[/foot]
+<em>Akizu</em>,[foot]In the text cited by Gaster, <em>Abiko</em>. In the amulets cited by Kaspina and Uličná -- <span class="hebrew">אַבִּיזוּ</span>.[/foot]
+<em>Amorpho</em>[foot]i.e., "amorphous, shapeless" Gk. ἂμορϕος. Gottheil notes, "our Jewish text alone has preserved the correct form." In the text cited by Gaster, <em>Amizo</em>. In the amulets cited by Kaspina and Uličná -- <span class="hebrew">אַמְזַרְפּוֹ</span>.[/foot]
+<em>Haqash</em>[foot]Gk. κακός. In the text cited by Gaster, <em>Koko</em>. In the amulets cited by Kaspina and Uličná -- <span class="hebrew">הַקַשׁ</span>.[/foot]
+<em>Odem</em>,[foot]In the amulets cited by Kaspina and Uličná -- <span class="hebrew">אוֹדֶם</span>.[/foot] 
+<em>Ikpido</em>,[foot]In the text cited by Gaster, <em>Podo</em>. In the amulets cited by Kaspina and Uličná -- <span class="hebrew">אִיקְפוֹדוּ</span>.[/foot]  
+<em>Eilo</em>,[foot]In the amulets cited by Kaspina and Uličná -- <span class="hebrew">אִיְילוּ</span>.[/foot]
+<em>Matrotah</em>,[foot]In the text cited by Gaster, <em>Patrota</em>. In the amulets cited by Kaspina and Uličná -- <span class="hebrew">טַטְרוֹטָה</span>.[/foot]  
+<em>Abnuqtah</em>,[foot]In the amulets cited by Kaspina and Uličná -- <span class="hebrew">אֲבַנוּקְטָה</span>.[/foot]
+<em>Shatrigah</em>,[foot]In the text cited by Gaster, <em>Satrina</em>. In the amulets cited by Kaspina and Uličná -- <span class="hebrew">שַׁטְרוּנָה</span>.[/foot]  
+<em>Ḳali</em>,[foot]Is this name the same as <a href="https://en.wikipedia.org/wiki/Kali">Kali</a>, the Hindu goddess? In her Indian context, she is the <strong>destroyer of</strong> evil forces, rather than a <strong>personification of</strong> malevolence, as Lilith is here. Perhaps this occurrence is only a coincidence, but it still seems remarkable to me. In the amulets cited by Kaspina and Uličná -- <span class="hebrew">קַלִיכַּטַזָה</span> (Ḳalikataza), combining Ḳali and the following name in this amulet, Batzeh, with the letter "בּ" (bet) in Batzeh made into the letter "כּ" (kaf), the result of an obvious scribal or printers error.[/foot] 
+<em>Batzeh</em>,[foot]This name is included in Montgomery's translation but does not appear in his publication of Gottheil's transcription. I've transcribed it from the source. In the text cited by Gaster, <em>Batna</em>. The name appears combined with Ḳali (as Kalikatazah) in the later attestations of the amulet text (find note on the amulets of Kaspina and Uličná above).[/foot] 
+<em>Taltui</em>,[foot]In the text cited by Gaster, <em>Talto</em>. In the amulets cited by Kaspina and Uličná -- <span class="hebrew">תִּילָתוּי</span>.[/foot] 
+<em>Ritshah</em>.[foot]In the text cited by Gaster, <em>Partasah</em>. In the amulets cited by Kaspina and Uličná -- <span class="hebrew">פִירַטְשָׁה</span>.[/foot]”
 </div></td></tr>
 
 
@@ -242,7 +242,7 @@ In the name of QRA STN.[foot]An acrostic line found in the <a href="https://open
 <hr />
 
 <div class="english" style="font-size: 1.2em;">
-This historiola is found in the incantation text, "№ 42" published in <em>Aramaic Incantation Texts from Nippur, The [University of Pennsylvania] Museum Publications of the Babylonian Section. Vol. 3</em> (Philadelphia, 1913) by James Alan Montgomery (1866-1949) transcribed and annotated by <a href="https://en.wikipedia.org/wiki/Richard_James_Horatio_Gottheil">Richard Gottheil</a> (1862-1936). The amulet is undated and unprovenanced -- as Dr. Montgomery explains in his introduction: "Towards the close of my work on this volume, Professor Richard Gottheil, who had several years ago thought of publishing the bowls, kindly forwarded me some notes and transcriptions which he had made in his preliminary essays. Among the papers was the copy of a text which is not now found in the Museum. It differed so radically from the other inscriptions that I inquired of Prof. Gottheil if it was taken from a bowl. He replied that he knew of no other source whence the text could have come into his set of papers. Accordingly on the hypothesis that the original text was once in the Museum, I venture to publish Prof. Gottheil's copy, and do so the more readily because of its interesting character and the illustration it affords to several points in the texts above. It contains a form of the Lilith legend, widespread in folklore, and a bowl would have been a perfectly proper place for a text of this prophylactic character..." 
+This historiola is found in the amulet, "№ 42" published in <em>Aramaic Incantation Texts from Nippur, The [University of Pennsylvania] Museum Publications of the Babylonian Section. Vol. 3</em> (Philadelphia, 1913) by James Alan Montgomery (1866-1949) transcribed and annotated by <a href="https://en.wikipedia.org/wiki/Richard_James_Horatio_Gottheil">Richard Gottheil</a> (1862-1936). The amulet is undated and unprovenanced -- as Dr. Montgomery explains in his introduction: "Towards the close of my work on this volume, Professor Richard Gottheil, who had several years ago thought of publishing the bowls, kindly forwarded me some notes and transcriptions which he had made in his preliminary essays. Among the papers was the copy of a text which is not now found in the Museum. It differed so radically from the other inscriptions that I inquired of Prof. Gottheil if it was taken from a bowl. He replied that he knew of no other source whence the text could have come into his set of papers. Accordingly on the hypothesis that the original text was once in the Museum, I venture to publish Prof. Gottheil's copy, and do so the more readily because of its interesting character and the illustration it affords to several points in the texts above. It contains a form of the Lilith legend, widespread in folklore, and a bowl would have been a perfectly proper place for a text of this prophylactic character..." 
 
 After his translation, Montgomery includes the following important details relayed by Gottheil: 
 
@@ -259,7 +259,9 @@ The presence of portions of the 42-letter divine name found in <em>Sefer Raziel 
 
 Montgomery offers an additional insight for this Lilit text in the context of the stories appearing in the bowls he reviewed earlier: "The very ancient use of epical narrative as an efficient magical charm was described above p. 62; thus the mere narrative of a demon's power as in the case of Dibbarra, is potent, or, <em>à fortiori</em>, the relation of a triumph over the evil spirit from some sacred legend. In the present case we have the added virtue of the revelation of the demon's names, and she swears that whenever they confront her, she will retire; the knowledge of her names binds her (cf. p. 56)."
 
-The source from which this transcription was derived appeared to me to have been lost,[foot]Shaked and Naveh comment "The provenance of that amulet is uncertain, but there can be no doubt that it is not part of the Nippur excavation material, despite Montgomery’s wavering on this point. The language and style are clearly late medieval or modern (Scholem 1948, "פרקים חדשים מענייני אשמדאי ולילית" תרביץ יט׳" p. 166, n. 25). Montgomery’s text seems to come from an area where Spanish was used. The name of the young mother to whose house Lilith goes may be read as Mercada who is known as (ד״מ is probably for דמתקריא) Vida (?), daughter of Donna." (p.118, n.18)[/foot]but by chance, I found an image of the manuscript <a href="https://twitter.com/CULHebrewMss/status/1385971816812875777">posted to Twitter</a> from the <a href="https://clio.columbia.edu/catalog/8595342">Columbia Hebrew Manuscripts collection</a> (MS General 194) with a link to the digital source posted to the <a href="https://archive.org/details/ldpd_11683790_000">Internet Archive</a>. I've provided a derivation of the source image below. I've altered the contrast in the image to improve its legibility. The manuscript conforms exactly to the girsah of the text as published by Montgomery along with his description of its accompanying segulot.
+The source from which this transcription was derived appeared to me to have been lost,[foot]Shaked and Naveh comment "The provenance of that amulet is uncertain, but there can be no doubt that it is not part of the Nippur excavation material, despite Montgomery’s wavering on this point. The language and style are clearly late medieval or modern (Scholem 1948, "פרקים חדשים מענייני אשמדאי ולילית" תרביץ יט׳" p. 166, n. 25). Montgomery’s text seems to come from an area where Spanish was used. The name of the young mother to whose house Lilith goes may be read as Mercada who is known as (ד״מ is probably for דמתקריא) Vida (?), daughter of Donna." (p.118, n.18)[/foot]but by chance, I found an image of the manuscript <a href="https://twitter.com/CULHebrewMss/status/1385971816812875777">posted to Twitter</a> from the Columbia Hebrew Manuscripts collection with a link to the digital source posted to the <a href="https://archive.org/details/ldpd_11683790_000">Internet Archive</a>. In the collection, the manuscript is known as <a href="https://clio.columbia.edu/catalog/8595342">MS General 194</a>. (When Gottheil died in 1936, his papers ultimately landed at the American Jewish Archives in Cincinnati, Ohio, but this manuscript and sundry other documents found their home at Columbia. Thanks to Michelle Chesner at Columbia for this information.)
+
+I've provided a derivation of the source image below. I've altered the contrast in the image to improve its legibility. The manuscript conforms exactly to the girsah of the text as published by Montgomery along with his description of its accompanying segulot.
 
 From the manuscript, I have corrected obvious errors in the transcription published by Montgomery (and corrected the latter's translation). I have included the notes published by Montgomery where significant. See below, "Sources," for Montgomery's original article and complete notes including his important reference to a similar work quoted in translation by Moses Gaster in “Two Thousand Years of the Child-Stealing Witch” (1900) in <em>Folk-lore</em> 11(2), 129–162. --Aharon Varady
 </div>

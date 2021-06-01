@@ -15,8 +15,8 @@ For attribution and license, please consult the following URL: <a href="http://o
 מִי שֶׁבֵּרַךְ אֲבוֹתֵֽינוּ 
 אַבְרָהָם יִצְחָק וְיַעֲקֹב, 
 שָׂרָה רִבְקָה רָחֵל וְלֵאָה, 
-הוּא יְבָרֵך אֶת [<span lang="en">names of veterans present</span> וְאֶת] 
-כׇּל-אֵלוּ שֶׁלָחֲמוּ בַּצָּבָא בְּעָד אַרְצֵינוּ, 
+הוּא יְבָרֵך אֶת [<span lang="en">names of veterans present</span> וְאֶת]&nbsp; 
+כׇּל־אֵלוּ שֶׁלָחֲמוּ בַּצָּבָא בְּעָד אַרְצֵינוּ, 
 אַרְצוֹת הַבְּרִית, 
 בְּכׇל זְמָן וַעֵת, 
 בְּכׇל מָקוֹם. 
@@ -29,7 +29,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 May He who blessed our ancestors, 
 Abraham, Isaac and Jacob, 
 Sarah, Rebecca, Rachel, and Leah, 
-bless [names of veterans present, and] 
+bless [names of veterans present, and]&nbsp; 
 all those who have fought in the military on behalf of our country, 
 the United States of America, 
 in every time and era, 

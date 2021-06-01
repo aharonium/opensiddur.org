@@ -8,8 +8,9 @@ For attribution and license, please consult the following URL: <a href="http://o
 <hr />
 
 <strong>DOWNLOAD:</strong> 
-<a href="https://archive.org/download/ParashatShlahTorahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20Shlah%20Torah%20Reading%20%28Numbers%2013v1-15v41%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.pdf">PDF</a> and <a href="https://archive.org/download/ParashatShlahTorahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20Shlah%20Torah%20Reading%20%28Numbers%2013v1-15v41%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.odt">ODT</a> (sans Hebrew) 
-<a href="https://archive.org/download/ParashatShlahTorahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20Shlah%20Torah%20Reading%20%28Numbers%2013v1-15v41%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29.pdf">PDF</a> and <a href="https://archive.org/download/ParashatShlahTorahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20Shlah%20Torah%20Reading%20%28Numbers%2013v1-15v41%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29.odt">ODT</a> (with Hebrew)
+
+<a href="https://archive.org/download/ParashatShlahTorahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20Shlah%20Torah%20Reading%20%28Numbers%2013v1-15v41%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.pdf">PDF</a> | <a href="https://archive.org/download/ParashatShlahTorahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20Shlah%20Torah%20Reading%20%28Numbers%2013v1-15v41%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.odt">ODT</a> (sans Hebrew) 
+<a href="https://archive.org/download/ParashatShlahTorahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20Shlah%20Torah%20Reading%20%28Numbers%2013v1-15v41%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29.pdf">PDF</a> | <a href="https://archive.org/download/ParashatShlahTorahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20Shlah%20Torah%20Reading%20%28Numbers%2013v1-15v41%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29.odt">ODT</a> (with Hebrew)
 
 <hr />
 
@@ -24,13 +25,13 @@ This is an English translation of Numbers 13:1-15:41, the Torah reading for Para
 <h3>Recordings</h3>
 
 Numbers 13:17-14:8 (English)
-https://archive.org/download/ParashatShlahTorahReadingWithEnglishTranstropilationLenFellman2019/Len%20Fellman%20-%20Torah%20Reading%20for%20Parashat%20Shla%E1%B8%A5%20-%20Numbers%2013v17-14v8%20%28English%29.mp3
+https://archive.org/download/parashat-shlah-torah-reading-with-english-transtropilation-audio-len-fellman-2020/Parashat%20Shlah%20Torah%20Reading%20%28Numbers%2013v7-14v8%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29.mp3
 
 Numbers 13:17-14:8 (Hebrew)
-https://archive.org/download/ParashatShlahTorahReadingWithEnglishTranstropilationLenFellman2019/Len%20Fellman%20-%20Torah%20Reading%20for%20Parashat%20Shla%E1%B8%A5%20-%20Numbers%2013v17-14v8%20%28Hebrew%29.mp3
+https://archive.org/download/parashat-shlah-torah-reading-with-english-transtropilation-audio-len-fellman-2020/Parashat%20Shlah%20Torah%20Reading%20%28Numbers%2013v7-14v8%2C%20Len%20Fellman%202020%29.mp3
 
-Numbers 14:14-24 (Hebrew and English)
-https://archive.org/download/ParashatShlahTorahReadingWithEnglishTranstropilationLenFellman2019/Len%20Fellman%20-%20Torah%20Reading%20for%20Parashat%20Shla%E1%B8%A5%20-%20Numbers%2014v14-34%20%28Hebrew%20and%20English%29.mp3
+Numbers 14:14-24 (Hebrew & English)
+https://archive.org/download/parashat-shlah-torah-reading-with-english-transtropilation-audio-len-fellman-2020/Parashat%20Shlah%20Torah%20Reading%20%28Numbers%2014v14-34%29%20Hebrew%20with%20English%20transtropilation%20%28Len%20Fellman%202020%29.mp3
 
 &nbsp;
 

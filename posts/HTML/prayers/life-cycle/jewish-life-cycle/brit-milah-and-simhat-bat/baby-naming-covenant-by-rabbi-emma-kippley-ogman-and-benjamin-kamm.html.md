@@ -11,6 +11,8 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 In honor of the birth of their son born 23 Shvat 5772 ~ 15 February 2012, Rabbi Emma Kippley-Ogman and Benjamin Kamm share their <em>Brit Shmot</em> (Naming Covenant). The ceremony took place February 23rd, 2012 (Rosh Ḥodesh Adar ~ 30 Shvat 5772) at Congregation Kehillath Israel, Brookline, Massachusetts.
 
-[gview file="https://opensiddur.org/wp-content/uploads/2012/06/Brit-Shmot-Baby-Kippley-Ogman-Kamm.pdf"]
+https://opensiddur.org/wp-content/uploads/2012/06/Brit-Shmot-Baby-Kippley-Ogman-Kamm.pdf
+
+&nbsp;
 </body>
 </html>

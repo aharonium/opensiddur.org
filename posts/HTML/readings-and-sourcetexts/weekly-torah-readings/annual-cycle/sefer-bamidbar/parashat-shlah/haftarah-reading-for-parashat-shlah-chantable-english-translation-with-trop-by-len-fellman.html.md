@@ -8,8 +8,9 @@ For attribution and license, please consult the following URL: <a href="http://o
 <hr />
 
 <strong>DOWNLOAD:</strong> 
-<a href="https://archive.org/download/ParashatShlahHaftarahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20Shlah%20Haftarah%20Reading%20%28Joshua%202v1-24%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.pdf">PDF</a> or <a href="https://archive.org/download/ParashatShlahHaftarahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20Shlah%20Haftarah%20Reading%20%28Joshua%202v1-24%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.odt">ODT</a> (sans Hebrew)
-<a href="https://archive.org/download/ParashatShlahHaftarahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20Shlah%20Haftarah%20Reading%20%28Joshua%202v1-24%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29.pdf">PDF</a> or <a href="https://archive.org/download/ParashatShlahHaftarahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20Shlah%20Haftarah%20Reading%20%28Joshua%202v1-24%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29.odt">ODT</a> (with Hebrew)
+
+<a href="https://archive.org/download/ParashatShlahHaftarahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20Shlah%20Haftarah%20Reading%20%28Joshua%202v1-24%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.pdf">PDF</a> | <a href="https://archive.org/download/ParashatShlahHaftarahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20Shlah%20Haftarah%20Reading%20%28Joshua%202v1-24%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.odt">ODT</a> (sans Hebrew)
+<a href="https://archive.org/download/ParashatShlahHaftarahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20Shlah%20Haftarah%20Reading%20%28Joshua%202v1-24%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29.pdf">PDF</a> | <a href="https://archive.org/download/ParashatShlahHaftarahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20Shlah%20Haftarah%20Reading%20%28Joshua%202v1-24%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29.odt">ODT</a> (with Hebrew)
 
 <hr />
 

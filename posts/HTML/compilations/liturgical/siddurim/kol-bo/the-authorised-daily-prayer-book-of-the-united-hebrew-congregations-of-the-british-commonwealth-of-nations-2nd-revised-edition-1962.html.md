@@ -16,7 +16,9 @@ The vast majority of this work is in the Public Domain due to the expiration of 
 <hr />
 
 <div class="english" style="font-size: 1.2em;">
-PREFACE TO THE FIRST EDITION 
+
+
+<blockquote>PREFACE TO THE FIRST EDITION 
 
 
 A complete Daily Prayer Book, in Hebrew and English, equally suitable for use in Synagogues, families, and schools, has never yet been within the reach of the community at large. The present volume is intended to supply this primal necessity. It owes its origin to the generosity and public spirit of Mrs. Nathaniel Montefiore, by whom the entire cost of production has been defrayed. It is, therefore, now possible for all who can afford the outlay of one shilling to obtain a book which could not otherwise have been offered to the public except at a far higher price. 
@@ -34,12 +36,16 @@ Thanks are due to the Rev. Dr. H. Adler, Dr. Friedlander, and Mr. I. Abrahams, f
 The copyright of the book is vested in the Jewish Association for the Diffusion of Religious Knowledge. 
 
 [Rabbi Simeon Singer]
-London, Tammuz , 5650 — July, 1890. 
+London, Tammuz , 5650 — July, 1890. </blockquote>
+
+
 
 
 <hr />
 
-PREFACE TO THE NEW EDITION 
+
+
+<blockquote>PREFACE TO THE NEW EDITION 
 
 
 This Prayer Book remains after 70 years, an abiding memorial to the honoured name of Simeon Singer. 
@@ -67,11 +73,15 @@ It is my fervent hope that this revised edition will prove as popular and indisp
 ISRAEL BRODIE, 
 Chief Rabbi. 
 
-Chanukah 5722 
+Chanukah 5722 </blockquote>
+
+
 
 <hr />
 
-NOTE TO THE NEW EDITION 
+
+
+<blockquote>NOTE TO THE NEW EDITION 
 
 
 Since the Singer's Prayer Book as it has come affectionately to be known, was first published in 1890, there have been twenty-six further impressions, and over that period more than half a million copies have been sold. 
@@ -105,7 +115,9 @@ Alfred H. Silverman, Esq., F.C.A. (Secretary)
 
 Woburn House, 
 Upper Woburn Place, 
-London, W.C. 1. 
+London, W.C. 1. </blockquote>
+
+
 </div>
 
 &nbsp;

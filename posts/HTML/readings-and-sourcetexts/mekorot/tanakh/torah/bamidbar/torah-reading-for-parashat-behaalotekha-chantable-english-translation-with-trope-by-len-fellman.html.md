@@ -8,8 +8,9 @@ For attribution and license, please consult the following URL: <a href="http://o
 <hr />
 
 <strong>DOWNLOAD:</strong> 
-<a href="https://archive.org/download/ParashatBehaalotekhaTorahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20b%27Ha%27alotekha%20Torah%20Reading%20%28Numbers%208v1-12v16%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.pdf">PDF</a> and <a href="https://archive.org/download/ParashatBehaalotekhaTorahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20b%27Ha%27alotekha%20Torah%20Reading%20%28Numbers%208v1-12v16%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.odt">ODT</a> (sans Hebrew) 
-<a href="https://archive.org/download/ParashatBehaalotekhaTorahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20b%27Ha%27alotekha%20Torah%20Reading%20%28Numbers%208v1-12v16%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29.pdf">PDF</a> and <a href="https://archive.org/download/ParashatBehaalotekhaTorahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20b%27Ha%27alotekha%20Torah%20Reading%20%28Numbers%208v1-12v16%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29.odt">ODT</a> (with Hebrew)
+
+<a href="https://archive.org/download/ParashatBehaalotekhaTorahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20b%27Ha%27alotekha%20Torah%20Reading%20%28Numbers%208v1-12v16%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.pdf">PDF</a> | <a href="https://archive.org/download/ParashatBehaalotekhaTorahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20b%27Ha%27alotekha%20Torah%20Reading%20%28Numbers%208v1-12v16%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.odt">ODT</a> (sans Hebrew) 
+<a href="https://archive.org/download/ParashatBehaalotekhaTorahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20b%27Ha%27alotekha%20Torah%20Reading%20%28Numbers%208v1-12v16%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29.pdf">PDF</a> | <a href="https://archive.org/download/ParashatBehaalotekhaTorahReadingWithEnglishTranstropilationLenFellman2019/Parashat%20b%27Ha%27alotekha%20Torah%20Reading%20%28Numbers%208v1-12v16%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29.odt">ODT</a> (with Hebrew)
 
 <hr />
 
@@ -21,9 +22,9 @@ This is an English translation of Numbers 8:1-12:16, the Torah reading for Paras
 
 <h3>Recordings</h3>
 
-Numbers 10:14-28 (Hebrew): [su_audio url="https://archive.org/download/ParashatBehaalotekhaTorahReadingWithEnglishTranstropilationLenFellman2019/Len%20Fellman%20-%20Numbers%2010%2C%2014-28%20%28Hebrew%29.mp3" width="60%"]
+Numbers 10:14-28 (Hebrew): [su_audio url="https://archive.org/download/parashat-bhaalotekha-torah-reading-with-english-transtropilation-audio-len-fellman-2020/Parashat%20b%27Ha%27alotekha%20Torah%20Reading%20%28Numbers%2010v14-28%2C%20Len%20Fellman%202020%29.mp3" width="60%"]
 
-Numbers 10:14-28 (English): [su_audio url="https://archive.org/download/ParashatBehaalotekhaTorahReadingWithEnglishTranstropilationLenFellman2019/Len%20Fellman%20-%20Numbers%2010%2C%2014-28%20%28English%29.mp3" width="60%"]
+Numbers 10:14-28 (English): [su_audio url="https://archive.org/download/parashat-bhaalotekha-torah-reading-with-english-transtropilation-audio-len-fellman-2020/Parashat%20b%27Ha%27alotekha%20Torah%20Reading%20%28Numbers%2010v14-28%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29.mp3" width="60%"]
 
 &nbsp;
 

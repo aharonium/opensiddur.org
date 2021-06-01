@@ -146,8 +146,10 @@ The poem "Sambatyon" can be found in Alter Abelson's collection of poetry, <em>S
 <h3>Source(s)</h3>
 
 
-<a href="https://opensiddur.org/wp-content/uploads/2019/01/Sambatyon-Abelson-a.jpg"><img src="https://opensiddur.org/wp-content/uploads/2019/01/Sambatyon-Abelson-a-188x300.jpg" alt="" width="188" height="300" class="alignleft size-medium wp-image-23467" /></a>
+<span style="float: right;">[caption id="attachment_23467" align="alignleft" width="188"]<a href="https://opensiddur.org/wp-content/uploads/2019/01/Sambatyon-Abelson-a.jpg"><img src="https://opensiddur.org/wp-content/uploads/2019/01/Sambatyon-Abelson-a-188x300.jpg" alt="" width="188" height="300" class="size-medium wp-image-23467" /></a> Sambatyon (Abelson), p.241[/caption]</span> <span style="float: left;">[caption id="attachment_23468" align="alignnone" width="193"]<a href="https://opensiddur.org/wp-content/uploads/2019/01/Sambatyon-Abelson-b.jpg"><img src="https://opensiddur.org/wp-content/uploads/2019/01/Sambatyon-Abelson-b-193x300.jpg" alt="" width="193" height="300" class="size-medium wp-image-23468" /></a> Sambatyon (Abelson), p.242[/caption]</span>[su_spacer]
 
-<a href="https://opensiddur.org/wp-content/uploads/2019/01/Sambatyon-Abelson-b.jpg"><img src="https://opensiddur.org/wp-content/uploads/2019/01/Sambatyon-Abelson-b-193x300.jpg" alt="" width="193" height="300" class="alignleft size-medium wp-image-23468" /></a>
+<hr />
+
+&nbsp;
 </body>
 </html>

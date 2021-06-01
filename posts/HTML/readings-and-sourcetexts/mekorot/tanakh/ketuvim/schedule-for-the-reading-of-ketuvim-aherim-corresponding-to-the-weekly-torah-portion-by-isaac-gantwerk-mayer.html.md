@@ -35,7 +35,7 @@ Vayishlaḥ: Proverbs 24:15-26
 Vayeshev: Daniel 1:1-19
 Miketz: Daniel 2:20-49 
 Vayigash: Daniel 5:16-6:5
-Vayḥi: II Chronicles 35:20-36:3
+Vayḥei: II Chronicles 35:20-36:4
 </div></td></tr>
 
 

@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.7" created="2021-04-03 03:47" -->
+	<!-- generator="WordPress/5.7.2" created="2021-06-01 20:13" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>the Open Siddur Project</title>
 	<link>https://opensiddur.org</link>
 	<description>פְּרוֺיֶּקט הַסִּדּוּר הַפָּתוּחַ ✍ the open-source project for folk liberating liturgy and crafting their own prayerbooks</description>
-	<pubDate>Sat, 03 Apr 2021 03:47:42 +0000</pubDate>
+	<pubDate>Tue, 01 Jun 2021 20:13:46 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://opensiddur.org</wp:base_site_url>
@@ -37,11 +37,11 @@
 
 		<wp:author><wp:author_id>310</wp:author_id><wp:author_login><![CDATA[hierophant]]></wp:author_login><wp:author_email>email redacted</wp:author_email><wp:author_display_name><![CDATA[the Hierophant]]></wp:author_display_name><wp:author_first_name><![CDATA[the]]></wp:author_first_name><wp:author_last_name><![CDATA[Hierophant]]></wp:author_last_name></wp:author>
 	<wp:author><wp:author_id>455</wp:author_id><wp:author_login><![CDATA[aharon-nissn.varady]]></wp:author_login><wp:author_email>email redacted</wp:author_email><wp:author_display_name><![CDATA[Aharon N. Varady]]></wp:author_display_name><wp:author_first_name><![CDATA[Aharon N.]]></wp:author_first_name><wp:author_last_name><![CDATA[Varady]]></wp:author_last_name></wp:author>
-	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email>email redacted</wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[The]]></wp:author_first_name><wp:author_last_name><![CDATA[Admin]]></wp:author_last_name></wp:author>
 	<wp:author><wp:author_id>131</wp:author_id><wp:author_login><![CDATA[aharon.varady]]></wp:author_login><wp:author_email>email redacted</wp:author_email><wp:author_display_name><![CDATA[Aharon N. Varady (transcription)]]></wp:author_display_name><wp:author_first_name><![CDATA[Aharon]]></wp:author_first_name><wp:author_last_name><![CDATA[Varady]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email>email redacted</wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[The]]></wp:author_first_name><wp:author_last_name><![CDATA[Admin]]></wp:author_last_name></wp:author>
 
 				
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
 	<url>https://opensiddur.org/wp-content/uploads/2015/03/Open-Siddur-Project-Logo-2015-5509b4bdv1_site_icon-32x32.png</url>
@@ -52,1027 +52,6 @@
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">25720407</site>
 		<item>
-		<title><![CDATA[Volunteer]]></title>
-		<link>https://opensiddur.org/?page_id=122</link>
-		<pubDate>Fri, 24 Jul 2009 11:38:21 +0000</pubDate>
-		<dc:creator><![CDATA[hierophant]]></dc:creator>
-		<guid isPermaLink="false">http://opensiddur.net/?page_id=122</guid>
-		<description></description>
-		<content:encoded><![CDATA[<iframe src="http://spreadsheets.google.com/embeddedform?key=tbmyXdOBfNzzYg87KtvWdZg" width="525" height="3650" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-<img src="https://opensiddur.org/wp-content/uploads/2009/07/alternate_logo.png" border="0" width="400"/>
-<font face="Arial,Helvetica">Thank You</font>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>122</wp:post_id>
-		<wp:post_date><![CDATA[2009-07-24 03:38:21]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2009-07-24 11:38:21]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2016-10-08 19:29:29]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2016-10-09 03:29:29]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[join-us]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>281</wp:post_parent>
-		<wp:menu_order>39</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="author" nicename="cap-hierophant"><![CDATA[hierophant]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[310]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Thank You]]></title>
-		<link>https://opensiddur.org/?page_id=131</link>
-		<pubDate>Fri, 24 Jul 2009 21:06:50 +0000</pubDate>
-		<dc:creator><![CDATA[hierophant]]></dc:creator>
-		<guid isPermaLink="false">http://opensiddur.net/?page_id=131</guid>
-		<description></description>
-		<content:encoded><![CDATA[
-
-[authoravatars roles=administrator,contributor avatar_size=75]
-]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>131</wp:post_id>
-		<wp:post_date><![CDATA[2009-07-24 13:06:50]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2009-07-24 21:06:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2017-02-19 09:27:23]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2017-02-19 18:27:23]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[acknowledgements]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>316</wp:post_parent>
-		<wp:menu_order>38</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="author" nicename="cap-hierophant"><![CDATA[hierophant]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[310]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Craft a Siddur]]></title>
-		<link>https://opensiddur.org/?page_id=670</link>
-		<pubDate>Thu, 17 Jun 2010 07:38:14 +0000</pubDate>
-		<dc:creator><![CDATA[hierophant]]></dc:creator>
-		<guid isPermaLink="false">http://opensiddur.net/?page_id=670</guid>
-		<description></description>
-		<content:encoded><![CDATA[So you want to craft your own siddur and you're looking for resources to start Volunteers programmers working on the Open Siddur Project are busy creating a web application to help folks easily craft a siddur from scratch, and then have it printed!
-
-Alas, it will take some time and more help before such an application is ready In the meantime, the Open Siddur Project is collecting contributed open source and free culture licensed resources that can get you started on your siddur (You can, of course, help us by sharing material you've already prepared, created, or transcribed)
-
-To begin making a siddur, here's what you'll need to start:
-
-1) A good intention and an open heart
-<p style="padding-left: 30px;">Spirituality is both a private relationship and a communal project Please share by licensing any work you make with a standard free culture license</p>
-2) A text editor that can read documents formatted with the Open Document Format
-<p style="padding-left: 30px;">We suggest <a href="http://wwwopenofficeorg/product/writerhtml">Open Office Writer</a></p>
-3) An attractive Unicode 41+ compliant, open source Hebrew font
-<p style="padding-left: 30px;">We suggest <a href="http://wwwsilorg/computing/catalog/show_softwareasp?id=76">Ezra SIL</a>, <a href="http://scholarsfontsnet/cardofnthtml">Cardo</a>, or <a href="http://sourceforgenet/projects/culmus/files/">Keter YG</a>  (Keter YG is one of a number of fonts in the Culmus Ancient Hebrew Scripts package)</p>
-4) Siddur Content
-<p style="padding-left: 30px;">41) Some traditional Hebrew liturgy The Open Siddur Project is busy digitizing a number of critical editions of particular Jewish liturgical traditions, none of which are yet complete The following material is either already Public Domain or has been shared with a Creative Commons By Attribution ShareAlike (CC BY-SA) license This license from the author grants you explicit permission to adapt and modfy their work, creating derivative works, so long as you correctly attribute the text you're modifying and share your derivative work with the same CC BY-SA license</p>
-<p style="padding-left: 60px;">Gabriel Wasserman's Machzor for Shabbat Hannukah (2008), a transcription based largely on Seligmann Baer's Seder Avodat Yisroel (1868)</p>
-<p style="padding-left: 60px;">Shmueli's transcription of the Nusach HaArizal as witnessed in the Siddur Tehillat HaShem</p>
-<p style="padding-left: 60px;">The AviChai Foundation's Siddur Avi Chai based on the work of Avigdor Shinan (work is being shared as a Public Domain work, text encoding is unfortunately proprietary</p>
-<p style="padding-left: 60px;">Juan Mejia's <em>Siddur Kol Tov Sefarad:  Víspera y noche de Shabbat</em> (2009)<em>
-</em></p>
-<!-- 		@page { margin: 079in } 		P { margin-bottom: 008in } -->
-<p style="padding-left: 60px;">The Westminster Leningrad Codex Check out our free culture licensed reformat of any part of the TaNaKh free from the Public Domain, with our demonstration applet</p>
-<p style="padding-left: 30px;">42) Translations in English and other languages The Open Siddur Project is busy transcribing the JPS 1917 translation of the TaNaKh Much of this translation is available on other free culture sites on the Internet, namely, wikisource and the Internet Sacred Text Archive</p>
-<p style="padding-left: 60px;">The Singer Siddur, an English translation digitized by the Internet Sacred Text Archive</p>
-<p style="padding-left: 60px;">R' Zalman  Scachter-Shalomi's creative translation of Psalms and other prayers in his Siddur Tehillat Hashem Midaber Pi</p>
-<p style="padding-left: 30px;">43) Transliterations The Open Siddur Project is creating an automated transliteration engine for Hebrew A good conversion of Hebrew vowels and consonants to any other script depends on the Hebrew being well marked with nikkud and some additional diacritical marks Unfortunately, we haven't found anyone else working on making free licensed trnasliterations of Jewish liturgy Keep tuned to the Open Siddur announcement list for news on our transliteration engine development</p>
-<p style="padding-left: 30px;">44) Newly composed exercises, meditations, liturgies, and rituals</p>
-<p style="padding-left: 60px;">David Seidenberg's liturgies being shared from his site: neoḤassidorg</p>
-<p style="padding-left: 60px;">Work already being shared through the Open Siddur Project See R' Daniel Brenner's Kaddish, Rachel Barenblat's Prayer for Dew, and R' Elie Kaunfer and Lisa Exler's Simhat Bat</p>
-<p style="padding-left: 30px;">45) Commentary The Open Siddur Project aims to digitize and incorporate into our database both the Midrash Tehillim and the Abduraham's medieval commentary on the Siddur There are other Public Domain works we'd like digitized: Rav Samson Raphael Hirsch's commentary on Psalms and other works These are not yet available as digitally corrected texts Yuo can help by joining our project, scanning texts and beginning to transcribe them We can help</p>
-<p style="padding-left: 30px;">46) Art and other illustrative graphics</p>
-<p style="padding-left: 60px;">Search Flickr, wikipedia, and archiveor for art that is licensed CC 0 (Creative Commons Zero), CC By Attribution (CC BY), CC BY-SA</p>
-5) Research As you create your siddur, you'll be learning and deepening your understanding of Jewish spiritual practice Please share what you've learned with others R' Aryeh Ben David of Ayeka recommends creating a file on your computer for recording your insights every day You can use this material to help you design your siddur and its contents If you deviate from traditional practices, are you certain you understand what wisdom is reflected in traditional practices, or does the traditional intent remain obscure? The Open Siddur is a non-prescriptive and non-denominational project that respects individual creativity and integrity as much as it values our common cultural inheritance reflected in the full diversity of traditional and contemporary Jewish spiritual resources This is the rich humus from which the flower of your siddur project will bloom
-
-6) Design Does form follow function or vice versa? What are the goals of your spiritual practice and how does will the design of the tools you are crafting to engage in this practice help or hinder your objectives Perhaps the siddur you want is a set of modular booklets for different circumstances Perhaps your siddur is only a single blank page that you fill in every morning, afternoon, and evening according to a set exercise, or perhaps it is a iant 800 page tome filled to the brim with liturgies and the multiplicity of their variations
-
-7) Printing Once you've finished putting your siddur together, and laying it out as well as like, you can save your file as a PDF Perhaps you only want to use your work in its native electronic format Perhaps you laid it out with the intention of printing it as a book If that was the case, you can print out your siddur using a print-on-demand service, or even a master bookartist/bookbinder We can help you with this process
-
-8) Publishing As your work depended on the creativity of so many others, so we hope you will honor the intention of all these creators by sharing your work Any created work is immediately given the protection of copyright, which restricts its use for your lifetime, and 70 years afterward The proprietary protections that copyright affords make realizing   a creatively and spiritually vibrant culture quite difficult Please share your work with a CC BY-SA license and join the Open Siddur Project
-<p style="padding-left: 30px;"></p>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>670</wp:post_id>
-		<wp:post_date><![CDATA[2010-06-16 23:38:14]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2010-06-17 07:38:14]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2016-10-08 19:31:28]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2016-10-09 03:31:28]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>32</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="author" nicename="cap-hierophant"><![CDATA[hierophant]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[310]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Application Overview]]></title>
-		<link>https://opensiddur.org/?page_id=758</link>
-		<pubDate>Sat, 17 Jul 2010 20:58:40 +0000</pubDate>
-		<dc:creator><![CDATA[hierophant]]></dc:creator>
-		<guid isPermaLink="false">http://opensiddur.net/</guid>
-		<description></description>
-		<content:encoded><![CDATA[This flowchart provides a general overview illustrating the Open Siddur Project web application: it's inputs, processes, and outputs. We hope the flowchart is self-explanatory but a key and explanation is provided below, just in case. The flowchart begins on the upper left hand side. Below is a key to the colors and shapes in the flowchart:</p>
-
-<ul>
-	<li>Rectangles represent <strong>Processes</strong>.</li>
-	<li>Rhomboids represent <strong>Data Formats</strong>.</li>
-	<li>Diamonds represent <strong>Decisions</strong>.</li>
-	<li>Concave/convex-ended rectangles represent <strong>Stored Data.</strong></li>
-	<li>Curve-cut rectangles represent <strong>Output.</strong></li>
-</ul>
-
-<a href="https://opensiddur.org/wp-content/uploads/2010/07/Open-Siddur-Project-Application-Overview-3.01.png"><img src="https://opensiddur.org/wp-content/uploads/2010/07/Open-Siddur-Project-Application-Overview-3.01-1024x706.png" alt="" title="Open-Siddur-Project-Application-Overview-3.0" width="640" height="441" class="aligncenter size-large wp-image-3245" /></a>
-
-<strong>Explanation</strong>
-
-Authentication is necessary to enable users to securely access their user data.  Users authenticate through <a href="https://secure.wikimedia.org/wikipedia/en/wiki/Openid">OpenID</a> (or through services that use OpenID). The authentication interface my be through an <a href="https://secure.wikimedia.org/wikipedia/en/wiki/Api">API</a> or via a widget on a website. Privacy is one important feature that distinguishes the Open Siddur Project from efforts to simply digitize liturgical content via wiki. Unless shared, all user data is kept private. 
-
-Once authenticated, users may access their own store of data, data shared by friends and groups, and data shared through the Open Siddur Project's public database. All content shared between friends or groups is subject to the terms of its content license: <a href="http://www.creativecommons.org/publicdomain/zero/1.0">CC0</a>, <a href="http://www.creativecommons.org/licenses/by/3.0">CC BY 3.0 Unported</a>, or <a href="http://www.creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0 Unported</a>. Users choose how to license their own newly created content (e.g. a translation or new prayer). Remixed content may only be re-licensed subject to the terms of its originating license. (For example, material licensed as a CC-BY-SA once remixed may only be licensed as CC-BY-SA.) Free/libre culture licensing</strong> provides the legal framework for this  type of sharing to flourish. 
-
-Users may create and join <strong>collaboration groups</strong>. The one group whose content is globally shared is the Core Content Group. This group is responsible for the public database of the Open Siddur Project. The public database of the Core Content Group is an open repository of rigorously proofread content that either resides in the Public Domain or has been shared globally with a Public Domain dedication (for example, the Creative Commons Zero). The Core Content Group vets all data to establish it is in the Public Domain, and that it is an accurate transcription of an original manuscript, printed or facsimile edition. Any contributor to the Open Siddur Project may join the Core Content Group so long as they abide by our transcription, proofreading, and encoding standards. Until the Open Siddur Project application is built, all content contributed must be manually encoded using STML markup language and converted to JLPTEI XML through a conversion process.
-
-User selected content may be <strong>rendered</strong> into <strong>digital file formats</strong> suitable for printing. Entrepreneurs are invited to add-value to the the Open Siddur Project by offering added-value support services to users (for example, a book arts studio may offer custom bookbinding, or a rabbi may offer their religious expertise). We hope that consultants will advertise their services through the Open Siddur Project website and thereby help to sustain the project. 
-
-All the content on the Open Siddur Project is freely-licensed. This, in our minds, will help spur innovation in the design, layout, and artistry of siddurim as well-crafted tools for spiritual practice. The project of Jewish spirituality is a matter of common interest and  private engagement. When Jewish individuals and groups <strong>engage and share</strong> in the legacy of their common cultural heritage what results is a more <strong>vibrant and vital Jewish culture</strong>.
-
-<hr />
-Earlier versions of our Application Overview: <a href="https://opensiddur.org/wp-content/uploads/2010/07/Open-Siddur-Project-Overview-v2.21.png">v.2.2</a>, and <a href="https://opensiddur.org/wp-content/uploads/2010/01/Aharons-Open-Siddur-Flowchart.png">version 1.0</a>.
-
-An overview of our website user interface is located <a href="http://web.archive.org/web/20090918153554/http://wiki.jewishliturgy.org:80/Website_User_Interface">here</a> and a description of this application's technical architecture is <a href="https://github.com/opensiddur/opensiddur/wiki/Architecture">here</a>.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>758</wp:post_id>
-		<wp:post_date><![CDATA[2010-07-17 12:58:40]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2010-07-17 20:58:40]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2016-10-09 13:03:11]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2016-10-09 21:03:11]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[application-overview]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>316</wp:post_parent>
-		<wp:menu_order>31</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="author" nicename="cap-hierophant"><![CDATA[hierophant]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[feat_slider]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[310]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[#opensiddur community live chat via Internet Relay Chat (IRC)]]></title>
-		<link>https://opensiddur.org/?page_id=2020</link>
-		<pubDate>Mon, 27 Dec 2010 08:12:50 +0000</pubDate>
-		<dc:creator><![CDATA[hierophant]]></dc:creator>
-		<guid isPermaLink="false">http://opensiddur.org/</guid>
-		<description></description>
-		<content:encoded><![CDATA[[caption id="attachment_8374" align="aligncenter" width="1024"]<a href="https://opensiddur.org/wp-content/uploads/2010/12/1024px-Gato_leyendo_canal_IRC_de_Wikipedia_en_español.jpg"><img src="https://opensiddur.org/wp-content/uploads/2010/12/1024px-Gato_leyendo_canal_IRC_de_Wikipedia_en_español.jpg" alt="&quot;Gato leyendo canal IRC de Wikipedia en español&quot; (credit: MisterWiki, license: CC-BY-SA 2.5)" width="1024" height="768" class="size-full wp-image-8374" /></a> "<a href="https://commons.wikimedia.org/wiki/File:Gato_leyendo_canal_IRC_de_Wikipedia_en_español.jpg">Gato leyendo canal IRC de Wikipedia en español</a>" (credit: MisterWiki, license: CC-BY-SA 2.5)[/caption]
-
-Internet Relay Chat (IRC) with Open Siddur Project contributors, developers, and other interested folk at <a href="irc://irc.freenode.net/opensiddur">irc://irc.freenode.net/opensiddur</a>
-
-<iframe src="http://webchat.freenode.net/?channels=opensiddur&prompt=1" width="100%" height="850" frameborder="0" marginheight="0" marginwidth="0" scrolling="no">Loading...</iframe>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2020</wp:post_id>
-		<wp:post_date><![CDATA[2010-12-26 23:12:50]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2010-12-27 08:12:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2016-10-09 13:04:41]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2016-10-09 21:04:41]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[irc]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>76</wp:post_parent>
-		<wp:menu_order>30</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="author" nicename="cap-hierophant"><![CDATA[hierophant]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[310]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[ברוך הבא | Welcome!]]></title>
-		<link>https://opensiddur.org/?page_id=3061</link>
-		<pubDate>Mon, 11 Apr 2011 23:27:31 +0000</pubDate>
-		<dc:creator><![CDATA[hierophant]]></dc:creator>
-		<guid isPermaLink="false">http://opensiddur.org/?page_id=3061</guid>
-		<description></description>
-		<content:encoded><![CDATA[<div class="english">
-Imagine a printing press and book arts studio shared by everyone in the world looking to design and craft their own siddur.
-
-Imagine an open database of Jewish prayers showing historical variations and changes across Jewish traditions, manuscripts, and facsimile editions. 
-
-Imagine the siddur as a record of your family's and community's <em>minhagim</em> and <em>nusaḥ</em> tweaked exactly to your needs.
-
-Re-imagine a siddur, custom designed by you, that integrates your practice with your learning -- from your own experience, your teachers, friends, family, and the complete corpus of Jewish tradition.
-
-Our collaborative, open-source project is working to create <em>libre</em> open access database of Jewish prayers and related work, historic and contemporary, familiar and obscure, in every language Jews pray or have ever prayed.
-
-We are building a complete end-to-end system for producing high-quality Jewish prayer books, for paper publication or for sharing online. We envision a system robust enough for use by academic researchers, Jewish educators, and DIY crafters. 
-<a href="https://opensiddur.org/contact/">Won't you join us?</a>
-
-While development proceeds, individuals, groups, and institutions are invited <a href="https://opensiddur.org/contribute/upload/">to share their Jewish liturgy and related creative work</a> immediately under their choice of Open Content license. 
-(Source code for alpha-ready <a href="http://app.opensiddur.org">Open Siddur application</a> is available from <a href="https://github.com/opensiddur">our github repositories</a>. Join our development team</a>.)
-
-If you can write a simple script, you can help us develop this open source software. Join us. <a href="https://github.com/opensiddur/opensiddur/wiki/Building">Obtain the source code and start building, here</a>!
-
-Can you transcribe or proofread? We have a number of works awaiting <a title="Transcribe with us" href="https://opensiddur.org/tools/transcribe/">transcription and proofreading</a>. Some works are in Hebrew, but we're also working on transcribing work in Arabic, German, French, Marathi, English, and Yiddish.
-
-Take a look at the prayers, translations, exercises, art, and recordings that folk are already sharing with open content licenses that permit their creative reuse. That means that you can use these works right now in the creation of new siddurim (alas, offline) while we continue developing the Open Siddur web application. Click on "Tools" up above and you'll find everything you need to get started on your siddur project right now.
-
-Connect with us on <a href="http://facebook.com/opensiddur">Facebook</a>, <a href="http://twitter.com/opensiddur">Twitter</a>, <a href="https://opensiddur.tumblr.com">Tumblr</a>, and <a href="http://pinterest.com/opensiddur">Pinterest</a>, or contact us <a href="https://opensiddur.org/contact/">directly</a> if you like. Get to work with us right now by <a href="https://opensiddur.org/contribute/upload/">sharing your own work</a>, and introduce yourself in our <a href="http://facebook.com/groups/opensiddur">Facebook</a> or <a href="https://groups.google.com/forum/?fromgroups#!forum/opensiddur-talk">email</a> discussion groups (or join the <a href="https://groups.google.com/forum/?fromgroups#!forum/opensiddur-tech">technical</a> one), and begin to imagine the siddur you've always wanted.
-</div>
-[caption id="attachment_14502" align="alignleft" width="1024"]<a href="https://opensiddur.org/wp-content/uploads/2014/01/Impressio-Librorum-modified-e1476045495782.jpg"><img src="https://opensiddur.org/wp-content/uploads/2014/01/Impressio-Librorum-modified-e1476045495782.jpg" alt="&quot;Impressió librorum&quot;. Engraving by Phillipus Galle of a drawing by Johannes Stradanus (Theodor Galle, Nova Reperta, Antwerp?, between 1590 and 1612?, No. 4. Madrid. ER/1605 National Library). This image has been altered" width="1024" height="721" class="size-full wp-image-14502" /></a> "Impressió librorum". Engraving by Phillipus Galle of a drawing by Johannes Stradanus (Theodor Galle, Nova Reperta, Antwerp?, between 1590 and 1612?, No. 4. Madrid. ER/1605 National Library). This image <a href="https://opensiddur.org/wp-content/uploads/2013/12/412d94b76e.png">has been altered</a>[/caption]
-]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>3061</wp:post_id>
-		<wp:post_date><![CDATA[2011-04-11 15:27:31]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2011-04-11 23:27:31]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2016-10-11 18:52:28]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2016-10-12 02:52:28]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[welcome]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>14</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="author" nicename="cap-hierophant"><![CDATA[hierophant]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[310]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[aFhfc_footer_code]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[aFhfc_head_code]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpas_done_all]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
-		<wp:meta_value><![CDATA[30]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Development Roadmap]]></title>
-		<link>https://opensiddur.org/?page_id=3219</link>
-		<pubDate>Sun, 24 Apr 2011 19:13:45 +0000</pubDate>
-		<dc:creator><![CDATA[hierophant]]></dc:creator>
-		<guid isPermaLink="false">http://opensiddur.org/?page_id=3219</guid>
-		<description></description>
-		<content:encoded><![CDATA[Note: This is the plan as of last edit. As development progresses, these goals will be evaluated. The version ordering may change and more minor versions may be added as new feature requests or difficulties emerge. Minor versions may also be added as bugfix releases or to improve look and feel of the UI without any major functionality changes. In general, development will be frozen on a released version and reported bugs will be fixed in subsequent versions.
-
-<table>
-<tr><td>Version</td><td>Completion Date</td><td>Milestone</td></tr>   <tr><td>0.1</td><td>2008-12</td><td>Proof of concept tag<p />Demonstrate conversion of a siddur to printable format -- <a href="https://opensiddur.org/wp-content/uploads/2011/04/Haggadat-Mah-Zot-Jewish-Liturgy-Project.pdf">Haggadat Mah Zot</a></td></tr>   <tr><td>0.2</td><td>2009-05</td><td>Complete Draft <a href="https://github.com/opensiddur/opensiddur/wiki/JLPTEI-101:-00:-Introduction">JLPTEI</a></td></tr>   <tr><td>0.3</td><td>2009-11</td><td>Demonstrate web-based <a href="https://opensiddur.org/2010/12/demonstrating-xml-to-xhtml-with-the-tanakh/">XHTML to JLPTEI transform</a> (client side)</td></tr>   <tr><td>0.3.1</td><td>2010-02</td><td>Show bibliographic, contributor, and license information</td></tr>   <tr><td>0.4.0</td><td>2011-01</td><td>Move transform server side<p />Cache concurrent hierarchy operations</td></tr>   <tr><td><a href="https://github.com/opensiddur/opensiddur/wiki/Release-Notes">0.4.1</a></td><td>2011-05</td><td><ul>
-	<li>interactive user interface for user account login</li>
-        	<li>Associate accounts with email addresses</li>
-        	<li>Copy public user data to the contributor list </li>
-    	<li>first "siddur" creation UI (using the WLC Tanach texts)</li>
-        	<li>Individual title page information UI</li>
-        	<li>UI to allow selection, combination, and ordering of pre-existing texts </li>
-</ul>
-</td></tr>   <tr><td><a href="http://web.archive.org/web/20110614162013/http://wiki.jewishliturgy.org:80/Release_Notes/0.4.2">0.4.2</a></td><td>2011-05</td><td>Text indexing (backend)
-    Search UI component integrated into text construction UI </td></tr>   <tr><td><a href="https://github.com/opensiddur/opensiddur/wiki/Release-Notes">0.4.3</a></td><td>2011-07</td><td>
-<ul>
-<li>Background task scheduler (backend)</li>
-	<li>Background caching (backend)</li>
-	<li>Find uncached/out of date resources and cache them at regular intervals</li>
- </ul>
-</td></tr>   <tr><td><a href="https://github.com/opensiddur/opensiddur/wiki/Release-Notes">0.4.4</a></td><td>2011-09</td><td>Task status UI to show compilations in Queued, Processing, and Complete states
-    </td></tr>   <tr><td>0.4.5</td><td></td><td><ul>
-	<li>UI for partial selection of pre-existing texts</li>
-	<li>Builder API adds contributor information to appropriate contributor lists and properly sets responsibility links within the file</li>
-</ul>
- </td></tr>   <tr><td>0.4.6</td><td></td><td>
-UI for import of STML documents directly into the database
- </td></tr>   <tr><td>0.5</td><td></td><td>The focus of 0.5 is on display of parallel texts
-    0.5.0: Conversion of 1917 JPS to JLPTEI
-    XML verse-by-verse alignment of 1917 JPS to WLC
-    Allow at least binary selection (yes/no) of 1917 JPS translation </td></tr>   <tr><td>0.5.1</td><td></td><td>Transliteration table editing UI </td></tr>   <tr><td>0.5.2</td><td></td><td>Integrate Raphael Finkel's qamats qatan detection code to backend
-    Qamats qatan/sheva na decision XML finalization
-    Qamats qatan/sheva na automation/correction UI </td></tr>   <tr><td>0.5.3</td><td></td><td>Integrate transliteration pass into transforms (backend)
-    Allow selection of automated transliteration
-    CSS to allow 3-way parallel texts </td></tr>   <tr><td>0.6</td><td></td><td>The focus of 0.6 is on transcription and text entry. Not expected to have any new user-visible features until 0.6.3 or 0.6.4, Reusable licensing selector UI control.
-0.6.0: Bibliography viewer (partially complete )
-    Embeddable Item-by-item bibliography editor control
-    Viewer for all public contributor information (allow editing/adding contributors who are not users)
-        Allow a user to adopt contributions as their own? </td></tr>   <tr><td>0.6.1</td><td></td><td>Define book-by-book mapping between page numbers (on the page) and URLs
-    Editor for page mappings (if necessary)
-    Embeddable scrollable (zoomable?) control to get a page image from a JLPTEI document (XQuery + UI) </td></tr>   <tr><td>0.6.2</td><td></td><td>Segment editor
-    Virtual keyboard </td></tr>   <tr><td>0.6.3</td><td></td><td>First integrated transcription editor (segment editor + embedded view + components above) </td></tr>   <tr><td>0.6.4</td><td></td><td>Multiple hierarchy markers in transcription editor
-    Output to JLPTEI file </td></tr>   <tr><td>0.7</td><td></td><td>introduce a user interface for conditional inclusion and features that depend on the existence of the conditional system.
-0.7.0: Conditional inclusion widget
-        make new conditional
-        search conditionals
-        apply conditional to selected text </td></tr>   <tr><td>0.7.1</td><td></td><td>Editor for default value dependent on other conditions </td></tr>   <tr><td>0.7.2</td><td></td><td>Translation alignment editor </td></tr>   <tr><td>0.7.3</td><td></td><td>Comment editor (apply out-of-line instructions and/or notes to text) </td></tr>   <tr><td>0.7.4</td><td></td><td>Annotation editor (apply meaningful out-of-line annotations to text) </td></tr>   <tr><td>0.8</td><td></td><td>Finalize JLPTEI schemas
-    Schematron assertions for otherwise unchecked conditions
-    Add schema validation to editing workflow </td></tr>   <tr><td>0.9</td><td></td><td>Style editor UI
-        represent CSS as XML settings?
-        jQuery-based selectors to show changes in real time? </td></tr>   <tr><td>0.10</td><td></td><td>focus on user identity and collaboration features
-0.10.0: Allow authentication by OpenID (I think this doesn't involve storage of sensitive information)
-    Merge user accounts and/or associate more than one OpenID with a given db identity? </td></tr>   <tr><td>0.10.1</td><td></td><td>Collaboration group console
-        Edit access to your own group
-        Add new groups
-        Admin groups
-        Join groups
-        Messaging within the group? Use email? </td></tr>   <tr><td>0.10.2</td><td></td><td>Sharing control in editors (self, group, all) </td></tr>   <tr><td>0.11</td><td></td><td>will focus on PDF output. The minor versions will depend on which method is used to get there.</td></tr>   <tr><td>0.12</td><td></td><td>Security and e-commerce. The actual release plan of major/minor versions is not yet known.</td></tr>   <tr><td>0.12.0</td><td></td><td>Examination of security in the code
-    Transition to production-grade security </td></tr>   <tr><td>0.12.1</td><td></td><td>Integrate one or more e-commerce systems
-    Allow generated PDFs to be printed-on-demand through the Open Siddur platform </td></tr>   <tr><td>0.13</td><td></td><td>Design and implementation of REST API for external usage
-    Define canonical reference or indexing system </td></tr>   <tr><td>0.14</td><td></td><td>This release focuses on Internationalization/Localization. Beyond having a framework, this depends on there being translators to translate the interface into at least one other language.
-0.14.0: Localized string framework for UI </td></tr>   <tr><td>0.14.1</td><td></td><td>Localize strings to at least one other language (he? ru?) </td></tr>   <tr><td>0.98</td><td></td><td>Bugfix and testing release(s): alpha </td></tr>   <tr><td>0.99</td><td></td><td>Bugfix and testing release(s): beta </td></tr>   <tr><td>1.0</td><td></td><td>Release! Yay!</td></tr>   <tr><td>1.0+</td><td></td><td>Page image upload or link by users
-    Semantic grammatical tagging of words (interface with Open Scriptures MorphDB)
-    Dictionaries (interface with Open Scriptures BDBMesh) </td></tr>
-</tbody></table>
-<br />]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>3219</wp:post_id>
-		<wp:post_date><![CDATA[2011-04-24 11:13:45]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2011-04-24 19:13:45]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2016-10-09 13:02:48]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2016-10-09 21:02:48]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[roadmap]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>316</wp:post_parent>
-		<wp:menu_order>26</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="author" nicename="cap-hierophant"><![CDATA[hierophant]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[feat_slider]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[310]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Open Siddur Community Discussion]]></title>
-		<link>https://opensiddur.org/?page_id=5615</link>
-		<pubDate>Thu, 13 Dec 2012 21:46:54 +0000</pubDate>
-		<dc:creator><![CDATA[hierophant]]></dc:creator>
-		<guid isPermaLink="false">http://opensiddur.org/?page_id=5615</guid>
-		<description></description>
-		<content:encoded><![CDATA[<iframe id="forum_embed"
-  src="javascript:void(0)"
-  scrolling="no"
-  frameborder="0"
-  width="900"
-  height="700">
-</iframe>
-<script type="text/javascript">
-  document.getElementById('forum_embed').src =
-     'https://groups.google.com/forum/embed/?place=forum/opensiddur-talk'
-     + '&showsearch=true&showpopout=true&showtabs=false'
-     + '&parenturl=' + encodeURIComponent(window.location.href);
-</script> ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5615</wp:post_id>
-		<wp:post_date><![CDATA[2012-12-13 12:46:54]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2012-12-13 21:46:54]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2016-10-08 19:29:41]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2016-10-09 03:29:41]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>25</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="author" nicename="cap-hierophant"><![CDATA[hierophant]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[310]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Transcribe Texts]]></title>
-		<link>https://opensiddur.org/?page_id=8045</link>
-		<pubDate>Tue, 24 Dec 2013 17:35:33 +0000</pubDate>
-		<dc:creator><![CDATA[hierophant]]></dc:creator>
-		<guid isPermaLink="false">http://opensiddur.org/?page_id=8045</guid>
-		<description></description>
-		<content:encoded><![CDATA[Want to help transcribe? Check out our <a href="https://opensiddur.org/tools/transcribe/">how to get started transcribing page</a>.
-
-<table>
-<tbody>
-<tr>
-<th>CURRENT TRANSCRIPTION PROJECTS</th>
-</tr>   <tr>
-<td><a href="http://he.wikisource.org/wiki/%D7%9E%D7%A4%D7%AA%D7%97:Siddur_Torah_Ohr_%28Schulzinger_Bros._1940%29.pdf"><img src="https://opensiddur.org/wp-content/uploads/2013/12/Siddur_Torah_Ohr_Schulzinger_Bros._1940.pdf-203x300.jpg" alt="Siddur_Torah_Ohr_(Schulzinger_Bros._1940).pdf" width="203" height="300" class="aligncenter size-medium wp-image-7984" /></a><br />
-<em><a href="http://he.wikisource.org/wiki/%D7%9E%D7%A4%D7%AA%D7%97:Siddur_Torah_Ohr_%28Schulzinger_Bros._1940%29.pdf">Siddur Torah Ohr</a></em>, ARI z"l/ḤaBaD (Rabbi Schneur Zalman of Lyadi, Schulsinger Bros. 1940)</td>
-<td><a href="http://he.wikisource.org/wiki/%D7%9E%D7%A4%D7%AA%D7%97:Seligman_Baer_-_Seder_Avodat_Yisroel_%281901_ed.%29.pdf"><img src="https://opensiddur.org/wp-content/uploads/2013/12/Seligman_Baer_-_Seder_Avodat_Yisroel_1901_ed..pdf-198x300.jpg" alt="Seligman_Baer_-_Seder_Avodat_Yisroel_(1901_ed.).pdf" width="198" height="300" class="aligncenter size-medium wp-image-7985" /></a><br /><em><a href="http://he.wikisource.org/wiki/%D7%9E%D7%A4%D7%AA%D7%97:Seligman_Baer_-_Seder_Avodat_Yisroel_%281901_ed.%29.pdf">Seder Avodat Yisroel</a></em>, Ashkenaz (Isaac Seligman Baer, 1868)</td>
-<td><a href="http://he.wikisource.org/wiki/%D7%9E%D7%A4%D7%AA%D7%97:The_Seli%E1%B8%A5ot_for_the_Entire_Year.pdf"><img src="https://opensiddur.org/wp-content/uploads/2013/12/Seligman_Baer_-_The_Seliḥot_for_the_Entire_Year.pdf.jpg" alt="Seligman_Baer_-_The_Seliḥot_for_the_Entire_Year.pdf" width="180" height="284" class="aligncenter size-full wp-image-7986" /></a><br /><em><a href="http://he.wikisource.org/wiki/%D7%9E%D7%A4%D7%AA%D7%97:The_Seli%E1%B8%A5ot_for_the_Entire_Year.pdf">Seliḥot for the Entire Year</a></em>, Ashkenaz (Isaac Seligman Baer)</td>
-</tr>   <tr>
-<td><a href="http://en.wikisource.org/wiki/Index:Annotated_Edition_of_the_Authorised_Daily_Prayer_Book.djvu"><img src="https://opensiddur.org/wp-content/uploads/2013/12/Simeon-Singer_-_Annotated_Edition_of_the_Authorised_Daily_Prayer_Book.djvu_-181x300.jpg" alt="Simeon Singer_-_Annotated_Edition_of_the_Authorised_Daily_Prayer_Book.djvu" width="181" height="300" class="aligncenter size-medium wp-image-7987" /></a><br /><em><a href="http://en.wikisource.org/wiki/Index:Annotated_Edition_of_the_Authorised_Daily_Prayer_Book.djvu">Annotated Edition of the Authorised Daily Prayer Book with Historical and Explanatory Notes, and Additional Matter, Compiled in Accordance with the Plans of the Rev. S. Singer</a></em>, Ashkenaz (Israel Abrahams, English, 1914)</td>
-<td><a href="http://he.wikisource.org/wiki/%D7%9E%D7%A4%D7%AA%D7%97:Siddur_Far%E1%B8%A5i_%281917%29_by_Hillel_Far%E1%B8%A5i,_Nusa%E1%B8%A5_Sefaradi,_Minhag_Egypt.pdf"><img src="https://opensiddur.org/wp-content/uploads/2013/12/Siddur_Farḥi_1917_by_Hillel_Farḥi_Nusaḥ_Sefaradi_Minhag_Egypt.pdf-212x300.jpg" alt="Siddur_Farḥi_(1917)_by_Hillel_Farḥi,_Nusaḥ_Sefaradi,_Minhag_Egypt.pdf" width="212" height="300" class="aligncenter size-medium wp-image-7988" /></a><br /><a href="http://he.wikisource.org/wiki/%D7%9E%D7%A4%D7%AA%D7%97:Siddur_Far%E1%B8%A5i_%281917%29_by_Hillel_Far%E1%B8%A5i,_Nusa%E1%B8%A5_Sefaradi,_Minhag_Egypt.pdf">Sidur Farḥi</a>, Sepharad/Egypt (Hillel Farḥi, Hebrew-Arabic, 1917)</td>
-<td><a href="http://fr.wikisource.org/wiki/Livre:%D7%90%D7%9E%D7%A8%D7%99_%D7%9C%D7%91_Pri%C3%A8res_D%27un_C%C5%93ur_Isra%C3%A9lite_%28Jonas_Ennery,_1848%29.pdf"><img src="https://opensiddur.org/wp-content/uploads/2013/12/Prières_Dun_Cœur_Israélite_Jonas_Ennery_1848.pdf-208x300.jpg" alt="Prières_D&#039;un_Cœur_Israélite_(Jonas_Ennery,_1848).pdf" width="208" height="300" class="aligncenter size-medium wp-image-7989" /></a><br /><em><a href="http://fr.wikisource.org/wiki/Livre:%D7%90%D7%9E%D7%A8%D7%99_%D7%9C%D7%91_Pri%C3%A8res_D%27un_C%C5%93ur_Isra%C3%A9lite_%28Jonas_Ennery,_1848%29.pdf">אמרי לב Prières D'un Cœur Israélite</a></em> (Arnaud Aron and Jonas Ennery, French, 1848)</td>
-</tr>   <tr>
-<td><a href="https://mr.wikisource.org/wiki/अनुक्रमणिका:The_History_of_Antiochus_Epiphanes_or_the_Institution_of_the_Feast_of_Dedication.pdf"><img src="https://opensiddur.org/wp-content/uploads/2013/12/cover-small-166x300.png" alt="Cover of Marathi translation of Megillat Antiokhus" width="166" height="300" class="aligncenter size-medium wp-image-8057" /></a><br /><em><a href="https://mr.wikisource.org/wiki/अनुक्रमणिका:The_History_of_Antiochus_Epiphanes_or_the_Institution_of_the_Feast_of_Dedication.pdf">The History of Antiochus Epiphanes or the Institution of the Feast of Dedication</a></em>, Bene Israel/Mumbai (Joseph Ezekiel Rajpurker, Marathi, 1866)</td>
-<td><a href="https://he.wikisource.org/wiki/מפתח:Megilasz_Maiszjahu_Chanuka_Története.pdf"><img src="https://opensiddur.org/wp-content/uploads/2013/12/Megilasz_Maiszjahu_Chanuka_Története.pdf-190x300.jpg" alt="Megilasz_Maiszjahu_Chanuka_Története.pdf" width="190" height="300" class="aligncenter size-medium wp-image-7991" /></a><br /><em><a href="https://he.wikisource.org/wiki/מפתח:Megilasz_Maiszjahu_Chanuka_Története.pdf">Megilasz Maiszjahu Chanuka Története</a></em> (Miklós Welcz, Magyar/Hebrew, 1935)</td>
-<td><a href="https://he.wikisource.org/wiki/מפתח:Sefer_Shimush_Tehillim.pdf"><img src="https://opensiddur.org/wp-content/uploads/2013/12/Sefer_Shimush_Tehillim.pdf-213x300.jpg" alt="Sefer_Shimush_Tehillim.pdf" width="213" height="300" class="aligncenter size-medium wp-image-8417" /></a><br /><em><a href="https://he.wikisource.org/wiki/מפתח:Sefer_Shimush_Tehillim.pdf">Sefer Shimush Tehilim</a></em> (Eli Klein, 1935)</td>
-</tr>   <tr>
-<td><a href="https://he.wikisource.org/wiki/%D7%9E%D7%A4%D7%AA%D7%97:Tehilim,_o_los_Salmos,_trezladados_del_leshon_ha-%E1%B8%B3odesh_en_la_lingua_Sefaradit.pdf"><img src="https://opensiddur.org/wp-content/uploads/2013/12/page1-220px-Tehilim_o_los_Salmos_trezladados_del_leshon_ha-ḳodesh_en_la_lingua_Sefaradit.pdf-187x300.jpg" alt="page1-220px-Tehilim,_o_los_Salmos,_trezladados_del_leshon_ha-ḳodesh_en_la_lingua_Sefaradit.pdf" width="187" height="300" class="aligncenter size-medium wp-image-10433" /></a><br /><a href="https://he.wikisource.org/wiki/%D7%9E%D7%A4%D7%AA%D7%97:Tehilim,_o_los_Salmos,_trezladados_del_leshon_ha-%E1%B8%B3odesh_en_la_lingua_Sefaradit.pdf">Tehilim, o los Salmos, trezladados del leshon ha-ḳodesh en la lingua Sefaradit</a> (Ǧ. Griffit, Ladino translation of Psalms, 1852/3)
-</td>
-</tr>
-</tbody></table>
-
-
-<table>
-<tbody>
-<tr>
-<th>COMPLETED TRANSCRIPTION PROJECTS</th>
-</tr>   <tr>
-<td><a href="https://opensiddur.org/2010/11/pri-etz-hadar/"><img src="https://opensiddur.org/wp-content/uploads/2013/12/Sefer-Chemdat-Yamim-Chelek-Sheni_title-201x300.jpg" alt="Sefer-Chemdat-Yamim-Chelek-Sheni_title" width="201" height="300" class="aligncenter size-medium wp-image-8029" /></a><br /><em><a href="https://opensiddur.org/2010/11/pri-etz-hadar/">Pri Etz Hadar</a></em>, Unknown author, possibly Natan Binyamin Ghazzati, et al, <em>Tu biShvat Seder</em>, Hebrew, 17th/18th century. Many thanks to Open Siddur Project volunteers, Aharon Varady and Shir Yaakov Feinstein Feit! (2010)
-</td>
-<td>
-<a href="https://opensiddur.org/2013/04/stunden-der-andacht-hours-of-devotion-by-fanny-schmiedl-neuda/"><img src="https://opensiddur.org/wp-content/uploads/2012/09/Fanny-Neuda-Stunden-Der-Andacht-1855-cover-cropped-173x300.jpg" alt="Image: Fanny Neuda - Stunden Der Andacht (1855) cover (cropped) by Aharon Varady for the Open Siddur Project (License: CC0)" width="173" height="300" class="aligncenter size-medium wp-image-5288" /></a><br /><em><a href="https://opensiddur.org/2013/04/stunden-der-andacht-hours-of-devotion-by-fanny-schmiedl-neuda/">Stunden Der Andacht</a></em>, >Fanny Neuda, <em>tkhines</em>, German, 1858. Many thanks to German Wikisource and Open Siddur Project volunteers, Aharon Varady and Chajm Guski! (2011-2013)
-</td>
-<td>
-<a href="https://opensiddur.org/2011/08/an-abridged-english-translation-of-fanny-neudas-stunden-der-andacht-by-moritz-mayer-1866/"><img src="https://opensiddur.org/wp-content/uploads/2013/12/Hours-of-Devotion-Title-Page-Large-185x300.png" alt="Hours of Devotion Title Page (Large)" width="185" height="300" class="aligncenter size-medium wp-image-8031" /></a><br /><em><a href="https://opensiddur.org/2011/08/an-abridged-english-translation-of-fanny-neudas-stunden-der-andacht-by-moritz-mayer-1866/">Hours of Devotion</a></em> (English translation of <em>Stunden Der Andacht</em> by Fanny Schmiedl-Neuda), Moritz Mayer (translator), <em>tkhines</em>, German, 1866. Many thanks to Open Siddur Project volunteer, Aharon Varady! (2011)
-</td>
-</tr>   <tr>
-<td><a href="https://opensiddur.org/2013/04/hanna-gebet-und-andachtsbuch-fur-israelitische-frauen-und-madchen-jacob-freund-et-al-1867/"><img src="https://opensiddur.org/wp-content/uploads/2013/04/Einband-184x300.jpg" alt="Einband" width="184" height="300" class="aligncenter size-medium wp-image-6870" /></a><br /><em><a href="https://opensiddur.org/2013/04/hanna-gebet-und-andachtsbuch-fur-israelitische-frauen-und-madchen-jacob-freund-et-al-1867/">Hanna</a></em>, Jacob Freund, et al, <em>tkhines</em>, German, 1867. Many thanks to Distributed Proofreaders Canada and Open Siddur Project volunteer, Enrico Segre! (2012-2013)</td>
-<td></td>
-<td></td>
-</tr>
-</tbody></table>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>8045</wp:post_id>
-		<wp:post_date><![CDATA[2013-12-24 08:35:33]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2013-12-24 17:35:33]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2016-10-08 19:29:13]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2016-10-09 03:29:13]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[transcription-projects]]></wp:post_name>
-		<wp:status><![CDATA[pending]]></wp:status>
-		<wp:post_parent>281</wp:post_parent>
-		<wp:menu_order>15</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="author" nicename="cap-hierophant"><![CDATA[hierophant]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[310]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpas_done_all]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[aFhfc_footer_code]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[aFhfc_head_code]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[essential_breadcrumbs_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Contributors]]></title>
-		<link>https://opensiddur.org/?page_id=8873</link>
-		<pubDate></pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://opensiddur.org/?page_id=8873</guid>
-		<description></description>
-		<content:encoded><![CDATA[[listsitecontributors]]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>8873</wp:post_id>
-		<wp:post_date><![CDATA[2014-04-18 21:15:10]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2014-04-18 21:15:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2014-04-19 05:15:10]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
-		<wp:status><![CDATA[pitch]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="author" nicename="cap-admin"><![CDATA[admin]]></category>
-		<category domain="author" nicename="cap-hierophant"><![CDATA[hierophant]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Calendar]]></title>
-		<link>https://opensiddur.org/?page_id=10062</link>
-		<pubDate>Fri, 14 Nov 2014 09:30:29 +0000</pubDate>
-		<dc:creator><![CDATA[hierophant]]></dc:creator>
-		<guid isPermaLink="false">http://opensiddur.org/calendar/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>10062</wp:post_id>
-		<wp:post_date><![CDATA[2014-11-14 00:30:29]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2014-11-14 09:30:29]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2016-10-08 19:32:03]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2016-10-09 03:32:03]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[calendar]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>10</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="author" nicename="cap-hierophant"><![CDATA[hierophant]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpas_done_all]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[310]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://opensiddur.org/?page_id=10063</link>
-		<pubDate></pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://opensiddur.org/?page_id=10063</guid>
-		<description></description>
-		<content:encoded><![CDATA[[php_event_calendar] ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>10063</wp:post_id>
-		<wp:post_date><![CDATA[2014-11-13 23:42:24]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2014-11-13 23:42:24]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2014-11-14 08:42:24]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
-		<wp:status><![CDATA[pitch]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="author" nicename="cap-admin"><![CDATA[admin]]></category>
-		<category domain="author" nicename="cap-hierophant"><![CDATA[hierophant]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Everything so far]]></title>
-		<link>https://opensiddur.org/?page_id=17421</link>
-		<pubDate>Sat, 16 Sep 2017 09:22:54 +0000</pubDate>
-		<dc:creator><![CDATA[aharon.varady]]></dc:creator>
-		<guid isPermaLink="false">http://opensiddur.org/?page_id=17421</guid>
-		<description></description>
-		<content:encoded><![CDATA[[display-posts posts_per_page="1000" order="ASC" orderby="name" include_link="true"]]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>17421</wp:post_id>
-		<wp:post_date><![CDATA[2017-09-16 01:22:54]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2017-09-16 09:22:54]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-03-13 20:22:21]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-03-14 04:22:21]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[display-posts-contributed]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>28</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="author" nicename="cap-aharon-varady"><![CDATA[aharon.varady]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpcom_is_markdown]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[131]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_at_widget]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
-		<wp:meta_value><![CDATA[30]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_publicize_pending]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wogh_sha]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1846308225ba10d66f86ee339c3961364836c73d]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wogh_github_path]]></wp:meta_key>
-		<wp:meta_value><![CDATA[_pages/display-posts-contributed.md]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[editInHTML]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://opensiddur.org/?page_id=18212</link>
-		<pubDate></pubDate>
-		<dc:creator><![CDATA[aharon.varady]]></dc:creator>
-		<guid isPermaLink="false">http://opensiddur.org/?page_id=18212</guid>
-		<description></description>
-		<content:encoded><![CDATA[[DynamicUserDirectory]]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>18212</wp:post_id>
-		<wp:post_date><![CDATA[2017-11-25 09:19:40]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2017-11-25 09:19:40]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2017-11-25 18:19:40]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>12</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="author" nicename="cap-aharon-varady"><![CDATA[aharon.varady]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpcom_is_markdown]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[131]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
-		<wp:meta_value><![CDATA[30]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Login]]></title>
-		<link>https://opensiddur.org/?page_id=19823</link>
-		<pubDate>Wed, 18 Apr 2018 00:14:23 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://opensiddur.org/login/</guid>
-		<description></description>
-		<content:encoded><![CDATA[[wpum_login_form]]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>19823</wp:post_id>
-		<wp:post_date><![CDATA[2018-04-17 16:14:23]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-04-18 00:14:23]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-04-17 17:19:54]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-04-18 01:19:54]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[login]]></wp:post_name>
-		<wp:status><![CDATA[pending]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>11</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="author" nicename="cap-admin"><![CDATA[admin]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[131]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Password Reset]]></title>
-		<link>https://opensiddur.org/?page_id=19824</link>
-		<pubDate>Wed, 18 Apr 2018 00:14:24 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://opensiddur.org/password-reset/</guid>
-		<description></description>
-		<content:encoded><![CDATA[[wpum_password_recovery form_id="" login_link="yes" psw_link="no" register_link="yes" ]]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>19824</wp:post_id>
-		<wp:post_date><![CDATA[2018-04-17 16:14:24]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-04-18 00:14:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-04-17 17:19:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-04-18 01:19:42]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[password-reset]]></wp:post_name>
-		<wp:status><![CDATA[pending]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>9</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="author" nicename="cap-admin"><![CDATA[admin]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[131]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Register]]></title>
-		<link>https://opensiddur.org/?page_id=19825</link>
-		<pubDate>Wed, 18 Apr 2018 00:14:24 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://opensiddur.org/register/</guid>
-		<description></description>
-		<content:encoded><![CDATA[[wpum_register form_id="" login_link="yes" psw_link="yes" register_link="no" ]]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>19825</wp:post_id>
-		<wp:post_date><![CDATA[2018-04-17 16:14:24]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-04-18 00:14:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-04-17 17:19:23]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-04-18 01:19:23]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[register]]></wp:post_name>
-		<wp:status><![CDATA[pending]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>8</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="author" nicename="cap-admin"><![CDATA[admin]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[131]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Account]]></title>
-		<link>https://opensiddur.org/?page_id=19826</link>
-		<pubDate>Wed, 18 Apr 2018 00:14:24 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://opensiddur.org/account/</guid>
-		<description></description>
-		<content:encoded><![CDATA[[wpum_account]]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>19826</wp:post_id>
-		<wp:post_date><![CDATA[2018-04-17 16:14:24]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-04-18 00:14:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-04-17 17:20:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-04-18 01:20:30]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[account]]></wp:post_name>
-		<wp:status><![CDATA[pending]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>6</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="author" nicename="cap-admin"><![CDATA[admin]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[131]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[All Prayers and Readings Shared So Far in One Big List]]></title>
-		<link>https://opensiddur.org/?page_id=23496</link>
-		<pubDate></pubDate>
-		<dc:creator><![CDATA[aharon.varady]]></dc:creator>
-		<guid isPermaLink="false">https://opensiddur.org/?page_id=23496</guid>
-		<description></description>
-		<content:encoded><![CDATA[[ACT-list show=”Title, Category”]]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>23496</wp:post_id>
-		<wp:post_date><![CDATA[2019-01-25 13:53:05]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-01-25 13:53:05]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-01-25 22:53:05]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>53</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="author" nicename="cap-aharon-varady"><![CDATA[aharon.varady]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[131]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[editInHTML]]></wp:meta_key>
-		<wp:meta_value><![CDATA[on]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_at_widget]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://opensiddur.org/?page_id=28983</link>
-		<pubDate></pubDate>
-		<dc:creator><![CDATA[aharon.varady]]></dc:creator>
-		<guid isPermaLink="false">https://opensiddur.org/?page_id=28983</guid>
-		<description></description>
-		<content:encoded><![CDATA[[display-posts display_by_year="true" posts_per_page="100" image_size="medium" wrapper="div" wrapper_class="display-posts-listing grid" meta_key="_thumbnail_id"]]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>28983</wp:post_id>
-		<wp:post_date><![CDATA[2020-01-05 22:29:45]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-01-05 22:29:45]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-01-06 07:29:45]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="author" nicename="cap-aharon-varady"><![CDATA[aharon.varady]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[131]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[editInHTML]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[ ]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oh_add_script_footer]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oh_add_script_header_hide]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oh_add_script_footer_hide]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
-		<wp:meta_value><![CDATA[30]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Our Mission]]></title>
 		<link>https://opensiddur.org/about-this-project/development/mission/</link>
 		<pubDate>Tue, 16 Jun 2009 14:26:11 +0000</pubDate>
@@ -1145,7 +124,7 @@ The Open Siddur Project is committed to the following principles and movements w
 		<wp:post_name><![CDATA[mission]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>316</wp:post_parent>
-		<wp:menu_order>27</wp:menu_order>
+		<wp:menu_order>31</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1333,7 +312,7 @@ With modest financial needs and support from numerous small donors, Aharon, Efra
 		<wp:post_name><![CDATA[history]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>316</wp:post_parent>
-		<wp:menu_order>41</wp:menu_order>
+		<wp:menu_order>45</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1434,7 +413,7 @@ If you'd like to connect with us over social media, join our discussion group on
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>57</wp:menu_order>
+		<wp:menu_order>61</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1535,7 +514,7 @@ If you'd like to connect with us over social media, join our discussion group on
 		<wp:post_name><![CDATA[contributing]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>19</wp:menu_order>
+		<wp:menu_order>23</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1636,7 +615,7 @@ If you'd like to connect with us over social media, join our discussion group on
 		<wp:post_name><![CDATA[development]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>17414</wp:post_parent>
-		<wp:menu_order>22</wp:menu_order>
+		<wp:menu_order>26</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1883,7 +862,7 @@ Rosh Ḥodesh
 		<wp:post_name><![CDATA[faq]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>316</wp:post_parent>
-		<wp:menu_order>45</wp:menu_order>
+		<wp:menu_order>49</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2024,7 +1003,7 @@ Share your work without any conditions, for example, requiring correct attributi
 		<wp:post_name><![CDATA[upload]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>281</wp:post_parent>
-		<wp:menu_order>21</wp:menu_order>
+		<wp:menu_order>25</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2182,7 +1161,7 @@ SHARE WHAT YOU LOVE ♡ -- A Decision Tree for Choosing Free-Culture Compatible 
 		<wp:post_name><![CDATA[a-decision-tree-for-choosing-freelibre-licenses-for-cultural-and-technological-work]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>281</wp:post_parent>
-		<wp:menu_order>36</wp:menu_order>
+		<wp:menu_order>40</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2528,7 +1507,7 @@ The <a href="http://tanach.us/">Westminster Leningrad Codex</a>: digital edition
 		<wp:post_name><![CDATA[recommended-links]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>52</wp:menu_order>
+		<wp:menu_order>56</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2663,7 +1642,7 @@ The source code for this romanizing transliterator is open source, LGPL licensed
 		<wp:post_name><![CDATA[transliterate]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>48</wp:menu_order>
+		<wp:menu_order>52</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -4371,7 +3350,7 @@ If you or your company designed a Hebrew font which you never updated to Unicode
 		<wp:post_name><![CDATA[fonts]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>49</wp:menu_order>
+		<wp:menu_order>53</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -4485,14 +3464,14 @@ If you or your company designed a Hebrew font which you never updated to Unicode
 		<wp:post_id>7952</wp:post_id>
 		<wp:post_date><![CDATA[2013-12-19 11:11:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2013-12-19 20:11:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2017-10-15 01:03:06]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2017-10-15 09:03:06]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-05-28 20:47:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-05-29 04:47:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[help]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>35</wp:menu_order>
+		<wp:menu_order>39</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -4532,6 +3511,30 @@ If you or your company designed a Hebrew font which you never updated to Unicode
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpcom_is_markdown]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
+		<wp:meta_value><![CDATA[classic-editor]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
+		<wp:meta_value><![CDATA[ ]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oh_add_script_footer]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oh_add_script_header_hide]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oh_add_script_footer_hide]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[60]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4627,7 +3630,7 @@ Another OCR project to keep an eye on is that of <a href="https://github.com/uri
 		<wp:post_name><![CDATA[transcribe]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>44</wp:menu_order>
+		<wp:menu_order>48</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -4814,7 +3817,7 @@ Press "Layout options"</li>
 		<wp:post_name><![CDATA[typing]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>34</wp:menu_order>
+		<wp:menu_order>38</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -5027,7 +4030,7 @@ For a <strong>Keyboard Shortcut</strong> to change the language orientation to 
 		<wp:post_name><![CDATA[editing-layout]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>46</wp:menu_order>
+		<wp:menu_order>50</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -5164,7 +4167,7 @@ We maintain physical, electronic and procedural safeguards intended to protect a
 		<wp:post_name><![CDATA[privacy-policy]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>11058</wp:post_parent>
-		<wp:menu_order>33</wp:menu_order>
+		<wp:menu_order>37</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -5400,7 +4403,7 @@ We appreciate your taking the time to read these Terms of Use, and we are very h
 		<wp:post_name><![CDATA[terms-of-use]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>11058</wp:post_parent>
-		<wp:menu_order>29</wp:menu_order>
+		<wp:menu_order>33</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -5617,7 +4620,7 @@ Only DMCA notices and notices relating to complaints in connection with infringe
 		<wp:post_name><![CDATA[copyright-policy]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>11058</wp:post_parent>
-		<wp:menu_order>24</wp:menu_order>
+		<wp:menu_order>28</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -5700,89 +4703,6 @@ Only DMCA notices and notices relating to complaints in connection with infringe
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[]]></title>
-		<link>https://opensiddur.org/?page_id=10428</link>
-		<pubDate></pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://opensiddur.org/?page_id=10428</guid>
-		<description></description>
-		<content:encoded><![CDATA[[wp_biographia user="t*" prefix=" " order="last-name" role="administrator,contributor"]]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>10428</wp:post_id>
-		<wp:post_date><![CDATA[2015-02-22 18:08:01]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2015-02-22 18:08:01]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2015-02-23 03:08:01]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
-		<wp:status><![CDATA[pitch]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="author" nicename="cap-admin"><![CDATA[admin]]></category>
-		<category domain="author" nicename="cap-hierophant"><![CDATA[hierophant]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Forum]]></title>
-		<link>https://opensiddur.org/community/</link>
-		<pubDate>Wed, 31 Oct 2018 02:21:13 +0000</pubDate>
-		<dc:creator><![CDATA[aharon.varady]]></dc:creator>
-		<guid isPermaLink="false">https://opensiddur.org/community/</guid>
-		<description></description>
-		<content:encoded><![CDATA[[wpforo]]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>22385</wp:post_id>
-		<wp:post_date><![CDATA[2018-10-31 02:21:13]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-10-31 02:21:13]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-10-30 18:57:23]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-10-31 02:57:23]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[community]]></wp:post_name>
-		<wp:status><![CDATA[private]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>5</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="author" nicename="cap-aharon-varady"><![CDATA[aharon.varady]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[131]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[editInHTML]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_at_widget]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
-		<wp:meta_value><![CDATA[30]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[פרויקט הסידור הפתוח &#x270d;︎ the Open Siddur Project]]></title>
 		<link>https://opensiddur.org/</link>
 		<pubDate>Wed, 08 Jan 2014 05:23:14 +0000</pubDate>
@@ -5821,7 +4741,7 @@ Connect with us on <a href="http://facebook.com/opensiddur">Facebook</a>, <a hre
 		<wp:post_name><![CDATA[home]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
+		<wp:menu_order>8</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -6007,7 +4927,7 @@ Imaging is critical in providing a source image by which collaborative transcrip
 		<wp:post_name><![CDATA[document-manuscript-imaging]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>23</wp:menu_order>
+		<wp:menu_order>27</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -6161,7 +5081,7 @@ and <strong>Communicating the principles of sharing as the basis of a vital, cre
 		<wp:post_name><![CDATA[vision]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>316</wp:post_parent>
-		<wp:menu_order>37</wp:menu_order>
+		<wp:menu_order>41</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -6272,7 +5192,7 @@ and <strong>Communicating the principles of sharing as the basis of a vital, cre
 		<wp:post_name><![CDATA[hebrew-support-in-your-web-browser]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>51</wp:menu_order>
+		<wp:menu_order>55</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -6361,9 +5281,9 @@ and <strong>Communicating the principles of sharing as the basis of a vital, cre
 		<dc:creator><![CDATA[hierophant]]></dc:creator>
 		<guid isPermaLink="false">http://opensiddur.org/?page_id=10402</guid>
 		<description></description>
-		<content:encoded><![CDATA[The Open Siddur Project is a volunteer-driven collaboration between folk passionate about Jewish spiritual practice. Some are interested in the Siddur as a technology for preserving and disseminating an evolving history of Jewish ritual, practice, and sacred poetry. Others are energized by the design challenge of crafting Siddurim that function effectively for nurturing spiritual, emotional and creative intelligence. All of us see the potential that creative engagement holds for empowering students and teachers to take ownership of those ingredients comprising their shared cultural inheritance.
+		<content:encoded><![CDATA[With <em>kavod</em> (honor) to "all whose hearts were stirred to share" (<em>kol asher nasa libam</em>, <span class="citation">cf. Exodus 36:2-3</span>), this is a searchable index of all liturgists, translators, transcribers, etc. whose work on Jewish prayer, on prayer books, and on public readings is being shared through the Open Siddur Project. After ten years, the total number of project contributors is nearly 800. A little over half have shared their work either directly with the project with an Open Content license, or indirectly by contributing their work into the Public Domain as a contributor to a government publication. Nearly fifty are institutional copyright stewards (operating or defunct for-profit and non-profit entities). The remaining contributors have had their works transcribed from material that has passed into the Public Domain after their deaths. Some transcribed works shared through the Open Siddur project remain unattributed due to <a href="/profile/unknown/">unknown authorship</a>. If you find an uncredited or improperly attributed work, please <a href="/contact/">contact us</a>.
 
-The Open Siddur is a non-prescriptive, non-denominational project whose only intent is to help revitalize Judaism by ensuring its collective spiritual resources — the creative content intended for communal use — remain free for creative reuse. The Open Siddur Project invites participation without prejudice towards ethnic heritage, skin color, nationality, belief or non-belief, sex, gender, sexuality or any other consideration. All we ask for is an intellectually honest commitment to the principles and sensibilities preserved in our <a title="Mission Statement" href="https://opensiddur.org/development/mission/">mission statement</a>.
+To join this community of contributors, please <a href="/contribute/upload/">share your work</a>. Making prayers and related religious works available for creative reuse and republication through Open Content licenses is crucial -- under the current climate of denominationally identified silos and contemporary copyright strictures --for keeping Jewish culture cross-pollinating, vital, and relevant. Prospective contributors should read our <a href="/development/mission/">Mission Statement</a>, <a href="/about-this-project/policies/terms-of-use/">Terms of Use</a>, and <a href="/about-this-project/policies/copyright-policy/">Copyleft Policy</a>. The Open Siddur is a non-prescriptive, non-denominational project and invites participation without prejudice towards ethnic heritage, skin color, nationality, belief or non-belief, sex, gender, sexuality or any other consideration. 
 
 <hr />
 
@@ -6372,14 +5292,14 @@ The Open Siddur is a non-prescriptive, non-denominational project whose only int
 		<wp:post_id>10402</wp:post_id>
 		<wp:post_date><![CDATA[2015-02-20 06:06:49]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-02-20 15:06:49]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-03-25 05:04:26]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-03-25 13:04:26]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-05-30 13:29:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-05-30 21:29:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contributors]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>281</wp:post_parent>
-		<wp:menu_order>54</wp:menu_order>
+		<wp:menu_order>58</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -6458,11 +5378,11 @@ The Open Siddur is a non-prescriptive, non-denominational project whose only int
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
-		<wp:meta_value><![CDATA[63]]></wp:meta_value>
+		<wp:meta_value><![CDATA[67]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[ ]]></wp:meta_value>
+		<wp:meta_value><![CDATA[            ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_footer]]></wp:meta_key>
@@ -6475,6 +5395,10 @@ The Open Siddur is a non-prescriptive, non-denominational project whose only int
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_footer_hide]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
+		<wp:meta_value><![CDATA[classic-editor]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -6496,7 +5420,7 @@ The Open Siddur is a non-prescriptive, non-denominational project whose only int
 		<wp:post_name><![CDATA[policies]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>17414</wp:post_parent>
-		<wp:menu_order>43</wp:menu_order>
+		<wp:menu_order>47</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -6627,7 +5551,7 @@ Text on this page has been amended from <a href="http://creativecommons.org.il/i
 		<wp:post_name><![CDATA[%d7%97%d7%9c%d7%a7-%d7%9e%d7%94%d7%96%d7%9b%d7%95%d7%99%d7%95%d7%aa-%d7%a9%d7%9e%d7%95%d7%a8%d7%95%d7%aa]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>11058</wp:post_parent>
-		<wp:menu_order>40</wp:menu_order>
+		<wp:menu_order>44</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -6742,7 +5666,7 @@ In every case, we defer to the contributor's preferred style in contributing the
 Find below, a chart for Hebrew consonants and vowels with their corresponding letters in romanized Latin script.
 
 <p style="padding-left: 40px;"> <span class="latin">אַ = a, â
-אָ = a
+אָ = a, â
 אׇ = o, ō
 אֵ = e, é, ei
 אֶ = e
@@ -6786,14 +5710,14 @@ Find below, a chart for Hebrew consonants and vowels with their corresponding le
 		<wp:post_id>14234</wp:post_id>
 		<wp:post_date><![CDATA[2016-08-07 13:37:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-08-07 21:37:59]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-02 12:56:01]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-02 21:56:01]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-04-07 06:35:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-04-07 14:35:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[style-guide]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>281</wp:post_parent>
-		<wp:menu_order>50</wp:menu_order>
+		<wp:menu_order>54</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -6856,7 +5780,7 @@ Find below, a chart for Hebrew consonants and vowels with their corresponding le
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[                                       ]]></wp:meta_value>
+		<wp:meta_value><![CDATA[                                        ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_footer]]></wp:meta_key>
@@ -7474,7 +6398,7 @@ English translation courtesy of Leonard Berkowitz. Section numbers outside the s
 		<wp:post_name><![CDATA[rules-for-niqqud]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>47</wp:menu_order>
+		<wp:menu_order>51</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -7567,7 +6491,7 @@ English translation courtesy of Leonard Berkowitz. Section numbers outside the s
 		<wp:post_name><![CDATA[about-this-project]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>42</wp:menu_order>
+		<wp:menu_order>46</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -7668,7 +6592,7 @@ In the summer of 2009, the Open Siddur was one of sixteen innovative projects ch
 		<wp:post_name><![CDATA[acknowledgements-2]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>316</wp:post_parent>
-		<wp:menu_order>55</wp:menu_order>
+		<wp:menu_order>59</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -7733,19 +6657,21 @@ In the summer of 2009, the Open Siddur was one of sixteen innovative projects ch
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://opensiddur.org/profile/</guid>
 		<description></description>
-		<content:encoded><![CDATA[[wpum_profile]]]></content:encoded>
+		<content:encoded><![CDATA[[wpum_profile]
+
+<!--[profilepress-user-profile id="1"]-->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>19827</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-17 16:14:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-18 00:14:25]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-08-20 21:00:56]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-08-21 05:00:56]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-05-28 21:23:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-05-29 05:23:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[profile]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>56</wp:menu_order>
+		<wp:menu_order>60</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -7784,7 +6710,7 @@ In the summer of 2009, the Open Siddur was one of sixteen innovative projects ch
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[      ]]></wp:meta_value>
+		<wp:meta_value><![CDATA[          ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header_hide]]></wp:meta_key>
@@ -7818,6 +6744,10 @@ In the summer of 2009, the Open Siddur was one of sixteen innovative projects ch
 		<wp:meta_key><![CDATA[_wpcom_is_markdown]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
+		<wp:meta_value><![CDATA[classic-editor]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Bookmarks]]></title>
@@ -7840,7 +6770,7 @@ In the summer of 2009, the Open Siddur was one of sixteen innovative projects ch
 		<wp:post_name><![CDATA[bookmarks]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>16</wp:menu_order>
+		<wp:menu_order>20</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -7918,13 +6848,16 @@ In the summer of 2009, the Open Siddur was one of sixteen innovative projects ch
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Edit Profile]]></title>
-		<link>https://opensiddur.org/help/edit-profile/</link>
+		<title><![CDATA[Edit Account]]></title>
+		<link>https://opensiddur.org/help/edit-account/</link>
 		<pubDate>Tue, 29 Jan 2019 00:40:24 +0000</pubDate>
 		<dc:creator><![CDATA[aharon.varady]]></dc:creator>
 		<guid isPermaLink="false">https://opensiddur.org/edit-profile/</guid>
 		<description></description>
 		<content:encoded><![CDATA[&nbsp;
+<!--
+[profilepress-edit-profile id="1"]
+-->
 
 [wppb-edit-profile]
 
@@ -7934,14 +6867,14 @@ In the summer of 2009, the Open Siddur was one of sixteen innovative projects ch
 		<wp:post_id>23550</wp:post_id>
 		<wp:post_date><![CDATA[2019-01-28 15:40:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-01-29 00:40:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-01-01 00:17:18]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-01-01 09:17:18]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-05-28 21:12:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-05-29 05:12:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[edit-profile]]></wp:post_name>
+		<wp:post_name><![CDATA[edit-account]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>20</wp:menu_order>
+		<wp:menu_order>24</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -7968,7 +6901,7 @@ In the summer of 2009, the Open Siddur was one of sixteen innovative projects ch
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[  ]]></wp:meta_value>
+		<wp:meta_value><![CDATA[        ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[editInHTML]]></wp:meta_key>
@@ -7992,7 +6925,11 @@ In the summer of 2009, the Open Siddur was one of sixteen innovative projects ch
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
-		<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		<wp:meta_value><![CDATA[60]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
+		<wp:meta_value><![CDATA[classic-editor]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -8002,7 +6939,10 @@ In the summer of 2009, the Open Siddur was one of sixteen innovative projects ch
 		<dc:creator><![CDATA[aharon.varady]]></dc:creator>
 		<guid isPermaLink="false">https://opensiddur.org/log-in/</guid>
 		<description></description>
-		<content:encoded><![CDATA[[wppb-login]
+		<content:encoded><![CDATA[
+[wppb-login]
+
+
 
 If you've lost it, you can also <a href="https://opensiddur.org/help/recover-password/">recover your password</a>.
 
@@ -8010,19 +6950,20 @@ If you've lost it, you can also <a href="https://opensiddur.org/help/recover-pas
 
 <hr />
 
-[wppb-register]]]></content:encoded>
+[wppb-register]
+]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>23551</wp:post_id>
 		<wp:post_date><![CDATA[2019-01-28 15:40:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-01-29 00:40:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-01-24 04:42:22]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-01-24 13:42:22]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-05-28 20:59:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-05-29 04:59:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[log-in]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>13</wp:menu_order>
+		<wp:menu_order>17</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -8045,7 +6986,7 @@ If you've lost it, you can also <a href="https://opensiddur.org/help/recover-pas
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[      ]]></wp:meta_value>
+		<wp:meta_value><![CDATA[          ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[sharing_disabled]]></wp:meta_key>
@@ -8079,6 +7020,10 @@ If you've lost it, you can also <a href="https://opensiddur.org/help/recover-pas
 		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
 		<wp:meta_value><![CDATA[90]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
+		<wp:meta_value><![CDATA[classic-editor]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Recover Password]]></title>
@@ -8088,22 +7033,24 @@ If you've lost it, you can also <a href="https://opensiddur.org/help/recover-pas
 		<guid isPermaLink="false">https://opensiddur.org/?page_id=23559</guid>
 		<description></description>
 		<content:encoded><![CDATA[&nbsp;
-[wppb-recover-password] (<a href="/help/edit-profile/">link</a>)
 
+[wppb-recover-password] (<a href="/help/edit-profile/">link</a>)
+<!--
+-->
 &nbsp;
 <hr />]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>23559</wp:post_id>
 		<wp:post_date><![CDATA[2019-01-28 16:09:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-01-29 01:09:05]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-01-01 00:16:36]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-01-01 09:16:36]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-05-28 21:01:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-05-29 05:01:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[recover-password]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>17</wp:menu_order>
+		<wp:menu_order>21</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -8118,7 +7065,7 @@ If you've lost it, you can also <a href="https://opensiddur.org/help/recover-pas
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[       ]]></wp:meta_value>
+		<wp:meta_value><![CDATA[          ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_at_widget]]></wp:meta_key>
@@ -8155,6 +7102,10 @@ If you've lost it, you can also <a href="https://opensiddur.org/help/recover-pas
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
 		<wp:meta_value><![CDATA[60]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
+		<wp:meta_value><![CDATA[classic-editor]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -8225,7 +7176,7 @@ New York, NY 10025-7449</p>
 		<wp:post_name><![CDATA[donations]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>281</wp:post_parent>
-		<wp:menu_order>18</wp:menu_order>
+		<wp:menu_order>22</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -8377,7 +7328,7 @@ New York, NY 10025-7449</p>
 		<wp:post_name><![CDATA[joining]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>281</wp:post_parent>
-		<wp:menu_order>7</wp:menu_order>
+		<wp:menu_order>11</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -8446,7 +7397,7 @@ New York, NY 10025-7449</p>
 		<wp:post_name><![CDATA[table-of-contents]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
+		<wp:menu_order>6</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -8512,7 +7463,7 @@ New York, NY 10025-7449</p>
 		<wp:post_name><![CDATA[user-verification]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
+		<wp:menu_order>5</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -8552,6 +7503,95 @@ New York, NY 10025-7449</p>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
 		<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Account]]></title>
+		<link>https://opensiddur.org/account-2/</link>
+		<pubDate>Sat, 29 May 2021 05:15:24 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://opensiddur.org/account-2/</guid>
+		<description></description>
+		<content:encoded><![CDATA[[wpum_account]]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>37251</wp:post_id>
+		<wp:post_date><![CDATA[2021-05-28 21:15:24]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-05-29 05:15:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-05-28 21:15:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-05-29 05:15:24]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[account-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[contributor]]></title>
+		<link>https://opensiddur.org/contributor/</link>
+		<pubDate>Sat, 29 May 2021 05:58:08 +0000</pubDate>
+		<dc:creator><![CDATA[hierophant]]></dc:creator>
+		<guid isPermaLink="false">https://opensiddur.org/?page_id=37257</guid>
+		<description></description>
+		<content:encoded><![CDATA[[wpum_profile]]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>37257</wp:post_id>
+		<wp:post_date><![CDATA[2021-05-28 21:58:08]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-05-29 05:58:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-05-28 22:05:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-05-29 06:05:26]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[contributor]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>56</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="author" nicename="cap-hierophant"><![CDATA[hierophant]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
+		<wp:meta_value><![CDATA[classic-editor]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[131]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
+		<wp:meta_value><![CDATA[   ]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oh_add_script_footer]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oh_add_script_header_hide]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oh_add_script_footer_hide]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[60]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>

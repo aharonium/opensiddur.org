@@ -11,28 +11,30 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 אָבִינוּ שֶׁבַּשָּׁמַֽיִם
 הַבּוֹחֵר בְּצִיּוֹן וִירוּשָׁלַֽיִם
-אֲשֶׁר אִוִּֽיתָ לְמוֹשַׁב לְךָ אֶת עִיר הַקֹּֽדֶשׁ,
-בָּרֵךְ כׇּל בּוֹנֶֽיהָ,
-בָּנֶֽיהָ וְדוֹרְשֵׁי שְׁלוֹמָהּ,
+אֲשֶׁר אִוִּֽיתָ לְמוֹשַׁב לְךָ 
+אֶת עִיר הַקֹּֽדֶשׁ,
+בָּרֵךְ כׇּל בּוֹנֶֽיהָ, בָּנֶֽיהָ 
+וְדוֹרְשֵׁי שְׁלוֹמָהּ,
 וּשְׁלַח בְּרָכָה וְהַצְלָחָה בְּכׇל מַעֲשֵׂי יְדֵיהֶם.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 Our Father in Heaven, 
 who chose Tsiyon and Yerushalayim, 
-which desired to return to you as the Holy City --
-Bless all those who labor 
-together with all those who seek her peace, 
+which you desired as your dwelling place, 
+the Holy City[foot]Cf. Psalms 132:13.[/foot] --
+Bless all her builders, her children 
+together with all who seek her peace, 
 and send blessing and prosperity in all their handiwork.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 וּפְרֹשׂ עָלֶֽיהָ סֻכַּת שְׁלוֹמֶֽךָ,
 וְקַֽיֶּם־בָּהּ מִקְרָא שֶׁכָּתוּב:
@@ -48,34 +50,39 @@ and send blessing and prosperity in all their handiwork.
 אָמֵן. כֵּן יְהִי רָצוֹן.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
-Spread over the city your Sukkah of Peace, 
-and fulfill in her the verse [in Isaiah], as it is written: 
+<td style="vertical-align:top;">
+<div class="english">
+Spread over her the Sukkah of your peace, 
+and fulfill with her as it is written: 
 “For the sake of Tsiyon I will not keep silent, 
 and for the sake of Yerushalayim I will not keep quiet – 
-until her righteousness goes forth like a star, 
+until her righteousness rises like Venus, 
 and her salvation burns like a torch;”[foot]Isaiah 62:1[/foot]
-and, speedily in our days, assemble her cosmic design,  
-and prepare soon your plan for the Throne of David, your servant.
+and construct, speedily in our days, the everlasting edifice
+and quickly prepare within her the Throne of  your servant David,.
 Blessed is the One who comforts Tsiyon 
-and assembles the City of Peace 
-from now and in the Cosmos, forever. 
-Amen, may it be your will.
+and constructs the City of Peace (Jerusalem)
+from now and for evermore. 
+<em>Amen</em>, may it be your will.
 </div></td></tr>
 </tbody></table>
 
 <hr />
 
-The "Prayer for the Peace of Jerusalem" by the late chief rabbi of Ḥaifa, Eliyahu Yosef She'ar Yashuv Cohen zt"l (1927-2016), is often included in programs praying for peace in Jerusalem in periods of conflict. The text we have transcribed here is that <a href="http://www.unisyn.org.il/images/שבת-ירושלים/חוברת_תפילות_יום_ירושלים.pdf">found in the 2009 Jerusalem Day program</a> of the Union of Synagogues in Israel. We do not know whether the prayer was authored and published at an earlier date or whether it was composed by the chief rabbi of Haifa for <a href="https://www.bridgeofgold.com/%D7%A4%D7%A8%D7%95%D7%99%D7%A7%D7%98%D7%99%D7%9D-%D7%A2%D7%AA%D7%99%D7%93%D7%99%D7%99%D7%9D.html">this project</a>. A slightly different version can be heard sung in the recording by <a href="https://youtu.be/Tb8Q4mQdjgY">Ovadia Hamama</a>.
+The "Prayer for the Peace of Jerusalem" by the late chief rabbi of Ḥaifa, Eliyahu Yosef She'ar Yashuv Cohen zt"l (1927-2016), is often included in programs praying for peace in Jerusalem in periods of conflict. The text we have transcribed here is that <a href="http://www.unisyn.org.il/images/שבת-ירושלים/חוברת_תפילות_יום_ירושלים.pdf">found in the 2009 Jerusalem Day program</a> of the Union of Synagogues in Israel. We do not know whether the prayer was authored and published at an earlier date or whether it was composed by the chief rabbi of Haifa for <a href="https://www.bridgeofgold.com/%D7%A4%D7%A8%D7%95%D7%99%D7%A7%D7%98%D7%99%D7%9D-%D7%A2%D7%AA%D7%99%D7%93%D7%99%D7%99%D7%9D.html">this project</a>. A slightly different version can be heard sung in the recording by <a href="https://youtu.be/Tb8Q4mQdjgY">Ovadia Hamama</a>. 
 
 In the United States, public documents by U.S. or foreign government officials or agencies are offered in the Public Domain and are not covered by copyright.
 
-English translation by Aharon Varady (shared CC BY-SA) and niqqud corrections by Rabbi Dr. Seth (Avi) Kadish. For an alternative English translation, see <a href="http://izionist.org/eng/prayer-peace-jerusalem/">here</a>.
+English translation by Aharon Varady with corrections and improvements offered by Ya'qub ibn Yusuf. Niqqud corrections by Rabbi Dr. Seth (Avi) Kadish. For an alternative English translation, see <a href="http://izionist.org/eng/prayer-peace-jerusalem/">here</a>.
+
+<h3>Recordings</h3>
+
+https://youtu.be/Tb8Q4mQdjgY
 
 <h3>Source(s)</h3>
 
-[gview file="https://opensiddur.org/wp-content/uploads/2018/07/Pages-3-4-from-tefilah-shalom-yerushalayim-Union-of-Synagogues-In-Israel-2009.pdf"]
+https://opensiddur.org/wp-content/uploads/2018/07/Pages-3-4-from-tefilah-shalom-yerushalayim-Union-of-Synagogues-In-Israel-2009.pdf
 
-https://youtu.be/Tb8Q4mQdjgY
+
 </body>
 </html>

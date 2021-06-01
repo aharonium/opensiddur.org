@@ -79,8 +79,16 @@ Barukh Atah Adonai
 
 <hr />
 
-This prayer was first published as "A Prayer for Suffering," by Trisha Arlin at her liturgy blog, <a href="https://web.archive.org/web/20141221001144/http://triganza.blogspot.com/2014/07/a-prayer-for-suffering.html">Trisha Arlin: Words of Prayer &amp; Intention</a>. "A Prayer for Suffering," was subsequently discovered by writers from the NBC mini-series A.D. The Bible Continues (s01e04) and included without attribution or adoption of the terms of the Creative Commons Attribution-ShareAlike license under which the prayer was shared. After this matter was raised with the network, the sequence in which the prayer appeared was removed from the episode of the show. 
+This prayer was first published as "A Prayer for Suffering," by Trisha Arlin at her liturgy blog, <a href="https://web.archive.org/web/20141221001144/http://triganza.blogspot.com/2014/07/a-prayer-for-suffering.html">Trisha Arlin: Words of Prayer &amp; Intention</a>. 
 
-https://www.facebook.com/opensourcejudaism/videos/1444068282557335/
+The prayer was discovered by writers from the NBC mini-series A.D. The Bible Continues (season 1, episode 4) and included without attribution or adoption of the terms of the Creative Commons Attribution-ShareAlike license under which the prayer was shared. After this matter was raised with the network, the sequence in which the prayer appeared was removed from the episode of the show. 
+
+<h3>Recordings</h3>
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fopensourcejudaism%2Fvideos%2F1444068282557335%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="false"></iframe>
+
+<hr />
+
+&nbsp;
 </body>
 </html>

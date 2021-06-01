@@ -8,8 +8,9 @@ For attribution and license, please consult the following URL: <a href="http://o
 <hr />
 
 <strong>DOWNLOAD:</strong> 
-<a href="https://archive.org/download/ParashatNasoTorahReadingWithEnglishTranstropilationLenFellman2019_201905/Parashat%20Naso%20Torah%20Reading%20Numbers%20%284v21-7v89%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.pdf">PDF</a> and <a href="https://archive.org/download/ParashatNasoTorahReadingWithEnglishTranstropilationLenFellman2019_201905/Parashat%20Naso%20Torah%20Reading%20Numbers%20%284v21-7v89%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.odt">ODT</a> (sans Hebrew) 
-<a href="https://archive.org/download/ParashatNasoTorahReadingWithEnglishTranstropilationLenFellman2019_201905/Parashat%20Naso%20Torah%20Reading%20Numbers%20%284v21-7v89%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29.pdf">PDF</a> and <a href="https://archive.org/download/ParashatNasoTorahReadingWithEnglishTranstropilationLenFellman2019_201905/Parashat%20Naso%20Torah%20Reading%20Numbers%20%284v21-7v89%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29.odt">ODT</a> (with Hebrew)
+
+<a href="https://archive.org/download/ParashatNasoTorahReadingWithEnglishTranstropilationLenFellman2019_201905/Parashat%20Naso%20Torah%20Reading%20Numbers%20%284v21-7v89%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.pdf">PDF</a> | <a href="https://archive.org/download/ParashatNasoTorahReadingWithEnglishTranstropilationLenFellman2019_201905/Parashat%20Naso%20Torah%20Reading%20Numbers%20%284v21-7v89%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.odt">ODT</a> (sans Hebrew) 
+<a href="https://archive.org/download/ParashatNasoTorahReadingWithEnglishTranstropilationLenFellman2019_201905/Parashat%20Naso%20Torah%20Reading%20Numbers%20%284v21-7v89%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29.pdf">PDF</a> | <a href="https://archive.org/download/ParashatNasoTorahReadingWithEnglishTranstropilationLenFellman2019_201905/Parashat%20Naso%20Torah%20Reading%20Numbers%20%284v21-7v89%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29.odt">ODT</a> (with Hebrew)
 
 <hr />
 

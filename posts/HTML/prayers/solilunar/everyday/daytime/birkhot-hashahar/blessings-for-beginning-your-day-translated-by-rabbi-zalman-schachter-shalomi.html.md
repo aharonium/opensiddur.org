@@ -2,7 +2,7 @@
 <head></head>
 <body>
 Title: ברכות השחר | Blessings at your Dawn of Wakefulness, translated by Rabbi Zalman Schachter-Shalomi<br />
-Primary contributor: zalman.schachter-shalomi<br />
+Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=20929">http://opensiddur.org/?p=20929</a>
 <p />
 <hr />

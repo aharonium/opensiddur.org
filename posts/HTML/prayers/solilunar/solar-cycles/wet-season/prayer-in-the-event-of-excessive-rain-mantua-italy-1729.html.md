@@ -417,7 +417,7 @@ This translation was made by Aharon Varady and Jacob Chatinover from an image sh
 
 <h3>Source(s)</h3>
 
-<a href="https://opensiddur.org/wp-content/uploads/2020/04/prayer-in-teh-event-of-excessive-rains-Mantua-1729-Schocken-Institute.jpg"><img src="https://opensiddur.org/wp-content/uploads/2020/04/prayer-in-teh-event-of-excessive-rains-Mantua-1729-Schocken-Institute-786x1024.jpg" alt="" width="640" height="834" class="alignnone size-large wp-image-31107" /></a>
+[caption id="attachment_31107" align="alignnone" width="230"]<a href="https://opensiddur.org/wp-content/uploads/2020/04/prayer-in-teh-event-of-excessive-rains-Mantua-1729-Schocken-Institute.jpg"><img src="https://opensiddur.org/wp-content/uploads/2020/04/prayer-in-teh-event-of-excessive-rains-Mantua-1729-Schocken-Institute-230x300.jpg" alt="" width="230" height="300" class="size-medium wp-image-31107" /></a> prayer in the event of excessive rains (Mantua 1729, Schocken Institute)[/caption]
 
 &nbsp;
 

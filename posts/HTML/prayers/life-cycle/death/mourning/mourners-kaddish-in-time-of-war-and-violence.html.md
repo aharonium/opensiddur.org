@@ -8,11 +8,11 @@ For attribution and license, please consult the following URL: <a href="http://o
 <hr />
 
 <div class="english" style="font-size: 1.2em;">
-Jews use the Kaddish to mourn the dead, though it has in it only one word — “<em>nechamata</em>," consolations – which hints at mourning. And this word itself is used in a puzzling way, once we look at it with care. As we will see below, it may be especially appropriate in time of war.
+Jews use the Ḳaddish to mourn the dead, though it has in it only one word — <span class="hebrew">נֶחְמָתָא</span> “<em>neḥamatah</em>," consolations – which hints at mourning. And this word itself is used in a puzzling way, once we look at it with care. As we will see below, it may be especially appropriate in time of war.
 
-The English also suggests why in the midst of saying we cannot praise, celebrate, or sing to God enough to meet the Reality, we also say we cannot CONSOLE (<em>nechamata</em>) God enough. Why we need to praise God and why we cannot give sufficient praise are clear enough; but why do we need to console God, and why can we not give God consolation enough? We suggest that for the killing of one human, bearing the Image of God, by another –- for this, God is inconsolable.
+The English also suggests why in the midst of saying we cannot praise, celebrate, or sing to God enough to meet the Reality, we also say we cannot CONSOLE (<em>neḥamata</em>) God enough. Why we need to praise God and why we cannot give sufficient praise are clear enough; but why do we need to console God, and why can we not give God consolation enough? We suggest that for the killing of one human, bearing the Image of God, by another –- for this, God is inconsolable.
 
-In this version, changes in the traditional last line of the Hebrew text specifically include not only peace for the people Israel (as in the traditional version) but also for the children of Abraham and Hagar through Ishmael (Arabs and Muslims) and for all the life-forms who dwell upon this planet. The interpretive English addresses the meaning of the Name God is given in most of the Kaddish — “<em>shmei rabbah</em>,” the “Great Name.” It is understood as that Name which includes all the names of all beings in the universe and which is also present within all beings. The Kaddish also prays first with concern for the peaceful life of the Jewish “family,” the people Israel, and then in this version expands that concern to include our cousins the children of Abraham through Ishmael and all who dwell upon the earth.
+In this version, changes in the traditional last line of the Hebrew text specifically include not only peace for the people Israel (as in the traditional version) but also for the children of Abraham and Hagar through Ishmael (Arabs and Muslims) and for all the life-forms who dwell upon this planet. The interpretive English addresses the meaning of the Name God is given in most of the Ḳaddish — <span class="hebrew">שְׁמֵהּ רַבָּא</span> “<em>shmeh rabba</em>,” the “Great Name.” It is understood as that Name which includes all the names of all beings in the universe and which is also present within all beings. The Ḳaddish also prays first with concern for the peaceful life of the Jewish “family,” the people Israel, and then in this version expands that concern to include our cousins the children of Abraham through Ishmael and all who dwell upon the earth.
 
 The interpretive English translation below may be appropriate for prayers of mourning and hope in wartime by other spiritual and religious communities.
 </div>
@@ -28,7 +28,7 @@ The interpretive English translation below may be appropriate for prayers of mou
 </span></div></td>
  
 <td style="vertical-align:top;"><div class="english">
-<em>Yitgadal V’yit’kadash Shmei Rabah</em> —
+<em>Yitgadal V’yit’ḳadash Shmeih Rabba</em> —
 
 May the Great Name, 
 through our expanding awareness and our fuller action, 
@@ -48,7 +48,7 @@ in which they would have lived.
 May the Great Name, 
 bearing ALL these names, 
 live within each one of us;
-(<span class="instruction">Cong:</span> <em>Amein</em>)
+(<span class="instruction">Cong:</span> <em>Amen</em>)
 </div></td>
 </tr>
 
@@ -66,12 +66,12 @@ live within each one of us;
  
 <td style="vertical-align:top;">
 <div class="english">
-<em>B’alma di vra chi’rooteh 
-v’yamlich malchuteh 
-b’chayeichun, u’v’yomeichun, 
-u’v’chayei d’chol beit yisrael, 
-b’agalah u’vzman kariv, 
-v’imru Amein</em>: —
+<em>B’alma di vra khi’rooteh 
+v’yamlikh malkhuteh 
+b’ḥayeikhon, u’v’yomeikhon, 
+u’v’ḥayei d’khol beit Yisrael, 
+b’agala u’vizman ḳariv, 
+v’imru Amen</em>: —
 
 May Your Great Name lift Itself
 still higher and more holy
@@ -79,7 +79,7 @@ throughout the world that You have offered us,
 a world of majestic peaceful order
 that gives life to the Godwrestling folk
 through time and through eternity –-
-And let’s say, <em>Amein</em> (<span class="instruction">Cong:</span> Amein)
+And let’s say, <em>Amen</em> (<span class="instruction">Cong:</span> <em>Amen</em>)
 </div></td>
 </tr>
 
@@ -93,8 +93,8 @@ And let’s say, <em>Amein</em> (<span class="instruction">Cong:</span> Amein)
  
 <td style="vertical-align:top;">
 <div class="english">
-<em>Y’hei sh’mei rabbah me’vorach 
-l’olam almei almaya.</em>
+<em>Y’hei sh’meih rabba me’vorakh 
+l’olam ul'almei almaya.</em>
 
 So therefore may the Great Name be blessed, 
 through every Mystery and Mastery
@@ -114,10 +114,10 @@ of every universe.
  
 <td style="vertical-align:top;">
 <div class="english">
-<em>Yitbarach, v’yishtabach, 
+<em>Yitbarakh, v’yishtabaḥ, 
 v’yitpa’ar, v’yitromam, v’yitnasei, 
 v’yithadar, v’yit’aleh, v’yithalal — 
-Shmei di’kudshah, — Brikh hu,</em> (<span class="instruction">Cong:</span> <em>Brikh Hu</em>) 
+Shmeih di’ḳudshah, — Brikh hu,</em> (<span class="instruction">Cong:</span> <em>Brikh Hu</em>) 
 
 May the Great Name be blessed and celebrated, 
 Its beauty honored and raised high; 
@@ -138,11 +138,11 @@ may Its radiance be praised in all Its Holiness –— Blessed be!
  
 <td style="vertical-align:top;">
 <div class="english">
-<em>L’eylah min kol bir’chatah v’shir’atah 
-tush’be’chatah v’nechematah, 
+<em>L’eylah min kol bir’khata v’shir’ata 
+tush’be’ḥata v’neḥemata, 
 de’amiran be’alma, 
-v’imru: Amein</em> 
-(<span class="instruction">Cong:</span> <em>Amein</em>)
+v’imru: Amen</em> 
+(<span class="instruction">Cong:</span> <em>Amen</em>)
 
 Even though we cannot give You enough blessing, 
 enough song, enough praise, enough consolation
@@ -168,14 +168,14 @@ who bear Your Image in our being.
  
 <td style="vertical-align:top;">
 <div class="english">
-<em>Yehei Shlama Rabah min Shemaya 
-v’chayyim aleinu 
+<em>Yehei Shlama Rabba min Shemaya 
+v’ḥayyim aleinu 
 v’al kol Yisrael, 
-v’imru Amein.</em>
+v’imru Amen.</em>
 
 Still we beseech that from the unity of Your Great Name 
 flow great harmony and joyful life for the Godwrestling folk;
-(<span class="instruction">Cong:</span> <em>Amein</em>)
+(<span class="instruction">Cong:</span> <em>Amen</em>)
 </div></td>
 </tr>
 
@@ -195,10 +195,10 @@ flow great harmony and joyful life for the Godwrestling folk;
 <div class="english">
 <em>Oseh Shalom bi’m’romav, 
 hu ya’aseh shalom aleinu 
-v’al kol yisrael 
-v’al kol yishmael 
+v’al kol Yisrael 
+v’al kol Yishmael 
 v’al kol yoshvei tevel — 
-v’imru: Amein.</em>
+v’imru: Amen.</em>
 
 You who make harmony
 in the ultimate reaches of the universe,
@@ -209,7 +209,7 @@ through Hagar and through Sarah —
 the children of Israel;
 the children of Ishmael;
 and for all who dwell upon this planet.
-(<span class="instruction">Cong:</span> <em>Amein</em>)
+(<span class="instruction">Cong:</span> <em>Amen</em>)
 </div></td></tr>
 </tbody></table>
 

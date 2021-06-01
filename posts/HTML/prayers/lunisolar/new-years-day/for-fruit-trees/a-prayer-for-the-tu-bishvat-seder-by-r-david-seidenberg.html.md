@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: תְּפִילַּת ט״וּ בִּשְׁבָט | The Prayer for Tu BiShvat from the Seder Pri Ets Hadar, adapted by Rabbi David Seidenberg (neohasid.org)<br />
+Title: תְּפִילַּת ט״וּ בִּשְׁבָט | The Prayer for Tu biShvat from the Seder Pri Ets Hadar, adapted by Rabbi David Seidenberg (neohasid.org)<br />
 Primary contributor: david.seidenberg<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=2145">http://opensiddur.org/?p=2145</a>
 <p />
@@ -231,7 +231,7 @@ be restored and included in the majestic might of the Tree of Life.</blockquote>
 
 <hr />
 
-Rabbi David Seidenberg's translation and adaptation of the Prayer for the Tu biShvat Seder found in the <em><a href="https://opensiddur.org/2010/11/pri-etz-hadar/">Pri Ets Hadar</a></em> (Fruit of the Majestic Tree) the first ever published Tu biShvat Seder (circa 17th century), varies from the version found in Sefer Ḥemdat Yamim, by omitting certain phrases. Compare with the version found in the Sefer Hemdat Yamim, <a href="https://opensiddur.org/2010/11/pri-etz-hadar/">here</a>. Rabbi Seidenberg's translation of the prayer in the <em>Pri Ets Hadar</em> was first posted in 2006 at neohasid.org, <a href="http://www.neohasid.org/torah/blessing_for_tubi/">here</a>. Some additional thoughts on <em>Pri Ets Hadar</em> by Rabbi Seidenberg can be found <a href="http://www.neohasid.org/stoptheflood/meditations_on_pri_etz_hadar/">here</a>. All footnotes to the <em>Pri Ets Hadar</em> were added by Aharon Varady. This prayer was revised by Rabbi Seidenberg in 2016.
+Rabbi David Seidenberg's translation and adaptation of the Prayer for the Tu biShvat Seder found in the <em><a href="/?p=1503">Pri Ets Hadar</a></em> (Fruit of the Majestic Tree) the first ever published Tu biShvat Seder (circa 17th century), varies from the version found in Sefer Ḥemdat Yamim, by omitting certain phrases. Compare with the version found in the Sefer Ḥemdat Yamim, <a href="https://opensiddur.org/2010/11/pri-etz-hadar/">here</a>. Rabbi Seidenberg's translation of the prayer in the <em>Pri Ets Hadar</em> was first posted in 2006 at neohasid.org, <a href="http://www.neohasid.org/torah/blessing_for_tubi/">here</a>. Some additional thoughts on <em>Pri Ets Hadar</em> by Rabbi Seidenberg can be found <a href="http://www.neohasid.org/stoptheflood/meditations_on_pri_etz_hadar/">here</a>. All footnotes to the <em>Pri Ets Hadar</em> were added by Aharon Varady. This prayer was revised by Rabbi Seidenberg in 2016.
 
 A list of all the Tu biShvat resources on neohasid.org can be found <a href="http://neohasid.org/resources/tu_bishvat/">here</a>. This includes a link to download all the versions of the haggadot and the text study sheets in a single file.
 </body>
