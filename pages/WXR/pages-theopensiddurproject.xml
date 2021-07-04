@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.7.2" created="2021-06-01 20:13" -->
+	<!-- generator="WordPress/5.7.2" created="2021-07-04 03:59" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>the Open Siddur Project</title>
 	<link>https://opensiddur.org</link>
 	<description>פְּרוֺיֶּקט הַסִּדּוּר הַפָּתוּחַ ✍ the open-source project for folk liberating liturgy and crafting their own prayerbooks</description>
-	<pubDate>Tue, 01 Jun 2021 20:13:46 +0000</pubDate>
+	<pubDate>Sun, 04 Jul 2021 03:59:07 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://opensiddur.org</wp:base_site_url>
@@ -138,24 +138,8 @@ The Open Siddur Project is committed to the following principles and movements w
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[feat_slider]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[aFhfc_head_code]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[aFhfc_footer_code]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
 		<wp:meta_value><![CDATA[30]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[essential_breadcrumbs_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wtpsw_views]]></wp:meta_key>
@@ -184,10 +168,6 @@ The Open Siddur Project is committed to the following principles and movements w
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpcom_is_markdown]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[editInHTML]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
@@ -326,10 +306,6 @@ With modest financial needs and support from numerous small donors, Aharon, Efra
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[feat_slider]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
 		<wp:meta_value><![CDATA[30]]></wp:meta_value>
 		</wp:postmeta>
@@ -360,10 +336,6 @@ With modest financial needs and support from numerous small donors, Aharon, Efra
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wogh_github_path]]></wp:meta_key>
 		<wp:meta_value><![CDATA[_pages/history.md]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[editInHTML]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
@@ -463,10 +435,6 @@ If you'd like to connect with us over social media, join our discussion group on
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[editInHTML]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_footer]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
@@ -528,22 +496,6 @@ If you'd like to connect with us over social media, join our discussion group on
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[feat_slider]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[aFhfc_footer_code]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[aFhfc_head_code]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[essential_breadcrumbs_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wtpsw_views]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021]]></wp:meta_value>
 		</wp:postmeta>
@@ -574,10 +526,6 @@ If you'd like to connect with us over social media, join our discussion group on
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpcom_is_markdown]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[editInHTML]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
@@ -627,10 +575,6 @@ If you'd like to connect with us over social media, join our discussion group on
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[feat_slider]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_pprredirect_rewritelink]]></wp:meta_key>
@@ -789,7 +733,7 @@ While this application is being built, we're already a space for sharing prayers
 <p style="padding-left: 30px;">Absolutely. We will share all material related to Jewish spiritual practice so long as it licensed under one of these three standard free culture licenses written by the <a href="http://www.creativecommons.org">Creative Commons</a>:</p>
 
 <ul>
-    <li><a href="http://www.creativecommons.org/publicdomain/zero/1.0">Creative Commons Zero</a> (CC0): a public domain declaration</li>
+    <li><a href="http://www.creativecommons.org/publicdomain/zero/1.0">Creative Commons Zero</a> (CC0): a Public Domain dedication</li>
     <li><a href="http://www.creativecommons.org/licenses/by/4.0">Creative Commons Attribution</a> (CC BY): a permissive attribution-requiring license</li>
     <li><a href="http://www.creativecommons.org/licenses/by-sa/4.0">Creative Commons Attribution-ShareAlike</a> (CC BY-SA): a copyleft attribution-requiring license</li>
 </ul>
@@ -855,8 +799,8 @@ Rosh Ḥodesh
 		<wp:post_id>561</wp:post_id>
 		<wp:post_date><![CDATA[2010-05-05 23:32:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2010-05-06 07:32:02]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-10-25 23:43:28]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-10-26 07:43:28]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-06-25 09:20:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-06-25 17:20:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[faq]]></wp:post_name>
@@ -908,12 +852,8 @@ Rosh Ḥodesh
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[editInHTML]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[    ]]></wp:meta_value>
+		<wp:meta_value><![CDATA[     ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_footer]]></wp:meta_key>
@@ -926,6 +866,10 @@ Rosh Ḥodesh
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_footer_hide]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
+		<wp:meta_value><![CDATA[classic-editor]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1017,18 +961,6 @@ Share your work without any conditions, for example, requiring correct attributi
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[feat_slider]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[aFhfc_head_code]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[aFhfc_footer_code]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wtpsw_views]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2491]]></wp:meta_value>
 		</wp:postmeta>
@@ -1059,10 +991,6 @@ Share your work without any conditions, for example, requiring correct attributi
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpcom_is_markdown]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[editInHTML]]></wp:meta_key>
-		<wp:meta_value><![CDATA[on]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
@@ -1183,10 +1111,6 @@ SHARE WHAT YOU LOVE ♡ -- A Decision Tree for Choosing Free-Culture Compatible 
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[feat_slider]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_efficient_related_posts]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:9:{i:0;a:5:{s:2:"ID";s:4:"2707";s:10:"post_title";s:92:"Copyright and Commercial Use: the Problem with Creative Commons' Non-Commercial Use Licenses";s:7:"matches";s:1:"2";s:9:"permalink";s:116:"http://opensiddur.org/development/open-source-judaism/why-to-choose-a-free-creative-commons-license-or-say-no-to-nc/";s:10:"post_image";s:290:"<img width="150" height="60" src="http://opensiddur.org/wp-content/uploads/2011/03/cc-by-nc-sa.svg_-150x60.png" class="attachment-post-thumbnail wp-post-image" alt="Which of the above Creative Commons licensing option conflicts with the entire copyleft and free/libre license ecosystem?" />";}i:1;a:5:{s:2:"ID";s:4:"1613";s:10:"post_title";s:91:""Ten Commandments of Jewish Social Networking" (Jewish Journal of Greater Los Angeles 2011)";s:7:"matches";s:1:"2";s:9:"permalink";s:94:"http://opensiddur.org/development/press/welcome-jewish-journal-of-greater-los-angeles-readers/";s:10:"post_image";s:0:"";}i:2;a:5:{s:2:"ID";s:3:"420";s:10:"post_title";s:52:"Access, sharing, and innovation through digitization";s:7:"matches";s:1:"2";s:9:"permalink";s:105:"http://opensiddur.org/development/open-source-judaism/access-sharing-and-innovation-through-digitization/";s:10:"post_image";s:0:"";}i:3;a:5:{s:2:"ID";s:3:"231";s:10:"post_title";s:80:"Jewish Content, Free Culture and “Content Compatibility” by Efraim Feinstein";s:7:"matches";s:1:"2";s:9:"permalink";s:108:"http://opensiddur.org/development/open-source-judaism/jewish-content-free-culture-and-content-compatibility/";s:10:"post_image";s:0:"";}i:4;a:5:{s:2:"ID";s:4:"8798";s:10:"post_title";s:132:"SHARE WHAT YOU LOVE ♡ A Decision Tree for Choosing Free-Culture Compatible Open Content Licenses for Cultural & Technological Work";s:7:"matches";s:1:"1";s:9:"permalink";s:191:"http://opensiddur.org/development/open-source-judaism/share-what-you-love-%e2%99%a1-a-decision-tree-for-choosing-free-culture-compatible-open-content-licenses-for-cultural-technological-work/";s:10:"post_image";s:386:"<img width="150" height="97" src="http://opensiddur.org/wp-content/uploads/2014/04/Licensing-Creative-Works-for-Advancing-A-Creative-Culture-1.0-150x97.png" class="attachment-post-thumbnail wp-post-image" alt="SHARE WHAT YOU LOVE ♡ A Decision Tree for Choosing Free-Culture Compatible Open Content Licenses for Cultural &amp; Technological Work (v.1.0) by Aharon Varady (CC-BY-SA)" />";}i:5;a:5:{s:2:"ID";s:4:"2962";s:10:"post_title";s:34:"The afikoman hiding in plain sight";s:7:"matches";s:1:"1";s:9:"permalink";s:89:"http://opensiddur.org/development/open-source-judaism/the-afikoman-hiding-in-plain-sight/";s:10:"post_image";s:258:"<img width="124" height="150" src="http://opensiddur.org/wp-content/uploads/2011/04/Pharoahs-Imagination-124x150.jpg" class="attachment-post-thumbnail wp-post-image" alt="Image: Pharoah&#039;s Imagination by Aharon Varady (License: CC-BY-SA 3.0 Unported)" />";}i:6;a:5:{s:2:"ID";s:4:"1624";s:10:"post_title";s:64:"תנ״ך | A Tale of Two Codexes: The Aleppo and Leningrad Codex";s:7:"matches";s:1:"1";s:9:"permalink";s:111:"http://opensiddur.org/development/open-source-judaism/%d7%aa%d7%a0%d7%b3%d7%9a-the-westminster-leningrad-codex/";s:10:"post_image";s:205:"<img width="130" height="150" src="http://opensiddur.org/wp-content/uploads/2010/11/Leningrad_Codex_Carpet_page_e.jpg" class="attachment-post-thumbnail wp-post-image" alt="Leningrad Codex (carpet page)" />";}i:7;a:5:{s:2:"ID";s:4:"1500";s:10:"post_title";s:60:"Openness, remixability, and free culture by Efraim Feinstein";s:7:"matches";s:1:"1";s:9:"permalink";s:93:"http://opensiddur.org/development/open-source-judaism/openness-remixability-and-free-culture/";s:10:"post_image";s:0:"";}i:8;a:5:{s:2:"ID";s:3:"359";s:10:"post_title";s:54:"An Economic Argument for Open Data by Efraim Feinstein";s:7:"matches";s:1:"1";s:9:"permalink";s:97:"http://opensiddur.org/development/open-source-judaism/an-economic-argument-for-free-primary-data/";s:10:"post_image";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
@@ -1196,10 +1120,6 @@ SHARE WHAT YOU LOVE ♡ -- A Decision Tree for Choosing Free-Culture Compatible 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpas_skip_5493188]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[rp4wp_cached]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -1227,14 +1147,6 @@ SHARE WHAT YOU LOVE ♡ -- A Decision Tree for Choosing Free-Culture Compatible 
 		<wp:meta_value><![CDATA[289]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[aFhfc_footer_code]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[aFhfc_head_code]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_primary_category]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1181]]></wp:meta_value>
 		</wp:postmeta>
@@ -1253,10 +1165,6 @@ SHARE WHAT YOU LOVE ♡ -- A Decision Tree for Choosing Free-Culture Compatible 
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpghs_github_path]]></wp:meta_key>
 		<wp:meta_value><![CDATA[_pages/a-decision-tree-for-choosing-freelibre-licenses-for-cultural-and-technological-work.md]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[crp_related_posts]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<div class="crp_related "><p /><h4>Related liturgy and liturgy-related work:</h4>✍ <a href="http://opensiddur.org/concerning/open-source-judaism/source-texts/primary-sources-in-open-source-judaism-rabbi-yitzchok-hutners-pa%e1%b8%a5ad-yitz%e1%b8%a5ok-rosh-hashana-maamar-bet/"    ><span class="crp_title">Primary sources in open-source Judaism: Rabbi Yitzchok Hutner’s Paḥad Yitzḥok, Rosh Hashana Ma&#8217;amar Bet</span></a><p /><div class="crp_clear"></div></div>]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wogh_sha]]></wp:meta_key>
@@ -1281,10 +1189,6 @@ SHARE WHAT YOU LOVE ♡ -- A Decision Tree for Choosing Free-Culture Compatible 
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[open_content_license]]></wp:meta_key>
 		<wp:meta_value><![CDATA[<a href='https://creativecommons.org/licenses/by-sa/4.0/'>Creative Commons Attribution-ShareAlike (CC BY-SA) 4.0 International</a> copyleft license]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[editInHTML]]></wp:meta_key>
-		<wp:meta_value><![CDATA[on]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[custom_solicitation]]></wp:meta_key>
@@ -1561,10 +1465,6 @@ The <a href="http://tanach.us/">Westminster Leningrad Codex</a>: digital edition
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[editInHTML]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_footer]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
@@ -1648,14 +1548,6 @@ The source code for this romanizing transliterator is open source, LGPL licensed
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="author" nicename="cap-hierophant"><![CDATA[hierophant]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[aFhfc_head_code]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[aFhfc_footer_code]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[131]]></wp:meta_value>
 		</wp:postmeta>
@@ -1666,10 +1558,6 @@ The source code for this romanizing transliterator is open source, LGPL licensed
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpas_done_all]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[essential_breadcrumbs_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wtpsw_views]]></wp:meta_key>
@@ -1702,10 +1590,6 @@ The source code for this romanizing transliterator is open source, LGPL licensed
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpcom_is_markdown]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[editInHTML]]></wp:meta_key>
-		<wp:meta_value><![CDATA[on]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_at_widget]]></wp:meta_key>
@@ -3356,18 +3240,6 @@ If you or your company designed a Hebrew font which you never updated to Unicode
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="author" nicename="cap-hierophant"><![CDATA[hierophant]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[essential_breadcrumbs_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[aFhfc_footer_code]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[aFhfc_head_code]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[131]]></wp:meta_value>
 		</wp:postmeta>
@@ -3430,10 +3302,6 @@ If you or your company designed a Hebrew font which you never updated to Unicode
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_at_widget]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[editInHTML]]></wp:meta_key>
-		<wp:meta_value><![CDATA[on]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_footer]]></wp:meta_key>
@@ -3648,18 +3516,6 @@ Another OCR project to keep an eye on is that of <a href="https://github.com/uri
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[aFhfc_footer_code]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[aFhfc_head_code]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[essential_breadcrumbs_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wtpsw_views]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1866]]></wp:meta_value>
 		</wp:postmeta>
@@ -3686,10 +3542,6 @@ Another OCR project to keep an eye on is that of <a href="https://github.com/uri
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[8524]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[editInHTML]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
@@ -3823,10 +3675,6 @@ Press "Layout options"</li>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="author" nicename="cap-hierophant"><![CDATA[hierophant]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[aFhfc_footer_code]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[131]]></wp:meta_value>
 		</wp:postmeta>
@@ -3837,14 +3685,6 @@ Press "Layout options"</li>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpas_done_all]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[aFhfc_head_code]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[essential_breadcrumbs_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wtpsw_views]]></wp:meta_key>
@@ -3877,10 +3717,6 @@ Press "Layout options"</li>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpcom_is_markdown]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[editInHTML]]></wp:meta_key>
-		<wp:meta_value><![CDATA[on]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_at_widget]]></wp:meta_key>
@@ -4036,14 +3872,6 @@ For a <strong>Keyboard Shortcut</strong> to change the language orientation to 
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="author" nicename="cap-hierophant"><![CDATA[hierophant]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[aFhfc_footer_code]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[aFhfc_head_code]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[131]]></wp:meta_value>
 		</wp:postmeta>
@@ -4054,10 +3882,6 @@ For a <strong>Keyboard Shortcut</strong> to change the language orientation to 
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpas_done_all]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[essential_breadcrumbs_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wtpsw_views]]></wp:meta_key>
@@ -4090,10 +3914,6 @@ For a <strong>Keyboard Shortcut</strong> to change the language orientation to 
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
 		<wp:meta_value><![CDATA[60]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[editInHTML]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -4215,10 +4035,6 @@ We maintain physical, electronic and procedural safeguards intended to protect a
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpcom_is_markdown]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[editInHTML]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
@@ -4453,10 +4269,6 @@ We appreciate your taking the time to read these Terms of Use, and we are very h
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[editInHTML]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
 		<wp:meta_value><![CDATA[  ]]></wp:meta_value>
 		</wp:postmeta>
@@ -4481,7 +4293,7 @@ We appreciate your taking the time to read these Terms of Use, and we are very h
 		<guid isPermaLink="false">http://opensiddur.org/?page_id=8016</guid>
 		<description></description>
 		<content:encoded><![CDATA[<div class="english" style="font-size: 1.2em;">
-The Open Siddur Project is committed to making the semantic data of Jewish liturgy and liturgy-related work accessible for adaptive reuse, especially in the compilation of new Jewish prayerbooks. We respect the intellectual property rights of others and expect our community of users to do the same in honoring the terms of the licenses under which content is shared. Users contributing content through this project may only share work that is either already in the Public Domain or else under copyright and shared by the copyright owner with a <a href="http://freedomdefined.org/definition">free-culture license compatible,</a> <a href="http://opendefinition.org/">Open Content</a> license. (Please refer to the Free Culture Foundation for <a href="http://freedomdefined.org/definition"><em>the definition of free as in libre</em></a> that the Open Siddur Project abides by. Please refer to the Open Knowledge Foundation for <a href="http://opendefinition.org/">the definition of Open Content and Open Data</a> that the Open Siddur Project adheres to.)
+The Open Siddur Project is committed to making the semantic data of Jewish liturgy and liturgy-related work accessible for adaptive reuse, especially in the compilation of new Jewish prayerbooks. We respect the intellectual property rights of others and expect our community of users to do the same in honoring the terms of the licenses under which content is shared. Users contributing content through this project may only share work that is either already in the Public Domain or else under copyright and shared by the copyright steward with a <a href="http://freedomdefined.org/definition">free-culture license compatible,</a> <a href="http://opendefinition.org/">Open Content</a> license. (Please refer to the Free Culture Foundation for <a href="http://freedomdefined.org/definition"><em>the definition of free as in libre</em></a> that the Open Siddur Project abides by. Please refer to the Open Knowledge Foundation for <a href="http://opendefinition.org/">the definition of Open Content and Open Data</a> that the Open Siddur Project adheres to.)
 
 In exceptional circumstances, users may share work by claiming their Fair Use Right. In such circumstances, the administrators of the Open Siddur Project reserve the right to remove such content at a copyright owner's request.
 
@@ -4613,8 +4425,8 @@ Only DMCA notices and notices relating to complaints in connection with infringe
 		<wp:post_id>8016</wp:post_id>
 		<wp:post_date><![CDATA[2013-12-22 11:19:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2013-12-22 20:19:14]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-01-25 04:48:26]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-01-25 13:48:26]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-06-02 12:56:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-06-02 20:56:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[copyright-policy]]></wp:post_name>
@@ -4640,14 +4452,6 @@ Only DMCA notices and notices relating to complaints in connection with infringe
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[4120]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[aFhfc_head_code]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[aFhfc_footer_code]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
@@ -4679,11 +4483,7 @@ Only DMCA notices and notices relating to complaints in connection with infringe
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[                      ]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[editInHTML]]></wp:meta_key>
-		<wp:meta_value><![CDATA[on]]></wp:meta_value>
+		<wp:meta_value><![CDATA[                       ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_footer]]></wp:meta_key>
@@ -4700,6 +4500,10 @@ Only DMCA notices and notices relating to complaints in connection with infringe
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_at_widget]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
+		<wp:meta_value><![CDATA[classic-editor]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4747,18 +4551,6 @@ Connect with us on <a href="http://facebook.com/opensiddur">Facebook</a>, <a hre
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="author" nicename="cap-hierophant"><![CDATA[hierophant]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[editInHTML]]></wp:meta_key>
-		<wp:meta_value><![CDATA[on]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[aFhfc_footer_code]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[aFhfc_head_code]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
@@ -4773,10 +4565,6 @@ Connect with us on <a href="http://facebook.com/opensiddur">Facebook</a>, <a hre
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[14502]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[essential_breadcrumbs_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
@@ -4945,18 +4733,6 @@ Imaging is critical in providing a source image by which collaborative transcrip
 		<wp:meta_value><![CDATA[131]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[aFhfc_head_code]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[aFhfc_footer_code]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[essential_breadcrumbs_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wtpsw_views]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1745]]></wp:meta_value>
 		</wp:postmeta>
@@ -4983,10 +4759,6 @@ Imaging is critical in providing a source image by which collaborative transcrip
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
 		<wp:meta_value><![CDATA[   ]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[editInHTML]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_footer]]></wp:meta_key>
@@ -5135,10 +4907,6 @@ and <strong>Communicating the principles of sharing as the basis of a vital, cre
 		<wp:meta_value><![CDATA[  ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[editInHTML]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_footer]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
@@ -5210,18 +4978,6 @@ and <strong>Communicating the principles of sharing as the basis of a vital, cre
 		<wp:meta_value><![CDATA[131]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[aFhfc_head_code]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[aFhfc_footer_code]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[essential_breadcrumbs_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wtpsw_views]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1696]]></wp:meta_value>
 		</wp:postmeta>
@@ -5252,10 +5008,6 @@ and <strong>Communicating the principles of sharing as the basis of a vital, cre
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
 		<wp:meta_value><![CDATA[30]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[editInHTML]]></wp:meta_key>
-		<wp:meta_value><![CDATA[on]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
@@ -5317,18 +5069,6 @@ To join this community of contributors, please <a href="/contribute/upload/">sha
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[aFhfc_head_code]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[aFhfc_footer_code]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[essential_breadcrumbs_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wtpsw_views]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2364]]></wp:meta_value>
 		</wp:postmeta>
@@ -5363,10 +5103,6 @@ To join this community of contributors, please <a href="/contribute/upload/">sha
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[sharing_disabled]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[editInHTML]]></wp:meta_key>
-		<wp:meta_value><![CDATA[on]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
@@ -5601,10 +5337,6 @@ Text on this page has been amended from <a href="http://creativecommons.org.il/i
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[editInHTML]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
 		<wp:meta_value><![CDATA[ ]]></wp:meta_value>
 		</wp:postmeta>
@@ -5647,14 +5379,30 @@ In every case, we defer to the contributor's preferred style in contributing the
 <p style="padding-left: 40px;">Transcribers should retain circumlocutions as they appear in historical works.</p>
 
 &nbsp;
-<h3>Names, Divine Names, Circumlocutions, Complex Terms, and Terms for generic divinities</h3>
-<p style="padding-left: 40px;">All names, place names, and complex terms should be romanized (transliterated with the alphabet) according to the transliteration schema set below. For example, <span class="hebrew">יעקב</span> becomes Ya'aqov (rather than Jacob).</p>
+<h3>Rendering Names, Divine Names, Circumlocutions, and Terms for generic divinities</h3>
+<p style="padding-left: 40px;">All names and place names should be romanized (transliterated with the alphabet) according to the transliteration schema set below. For example, <span class="hebrew">יעקב</span> becomes Ya'aqov (rather than Jacob).</p>
+<p style="padding-left: 40px;">Please do not translate divine names.</p>
 <p style="padding-left: 40px;">Transliterate all divine names with the first letter in Uppercase. For example, <span class="hebrew">אלהים</span> becomes Elohim (rather than "God"), etc.</p>
 <p style="padding-left: 40px;">In the case of the Tetragrammaton (the Four-Letter Name), we recommend it simply being rendered as "YHVH" (rather than "LORD" or "the LORD"). 'Adonai' is fine for presenting romanized transliterations of the Tetragrammaton.</p>
-<p style="padding-left: 40px;">When replacing he/him/his in a gender-neutral grammatical reference to the Divine, you may either (in order of preference): <ol style="padding-left: 80px;"><li>replace the pronoun with singlular 'they,'</li> <li>use a circumlocution for the most recent divine name mentioned (in cases where plural 'they' would be confusing), or else</li> <li>choose a circumlocution such as "Hashem" for YHVH or "G♕d" for Elohim, if necessary. For example, "Praise YHVH for <em>They</em> are good. Hashem loves those with integrity."</li></ol></p>
-<p style="padding-left: 40px;">Any indirect reference to divinity may be treated as a generic. For example <span class="hebrew">יהוה אלהיך</span> becomes "YHVH your <em>elo'ah</em> (rather than "YHVH your God") and <span class="hebrew">אלהי יעקב</span> becomes "<em>elo'ah</em> of Ya'aqov" (rather than God of Ya'aqov").</p>
+<p style="padding-left: 40px;">Do not capitalize the first letter of divine pronouns. For example: "you" instead of "You." Exceptions may be made for distinguishing singular "They" or <span style="text-transform: uppercase;">THEY</span> from plural "they."</p>
+<p style="padding-left: 40px;">When replacing he/him/his in a gender-neutral grammatical reference to the Divine in translation, you may either (in order of preference): 
+<ol style="padding-left: 80px;">
+<li>replace the pronoun with singlular 'they,'</li> 
+<li>use a circumlocution for the most recent divine name mentioned (in cases where plural 'they' would be confusing), or else</li> 
+<li>choose a circumlocution such as "Hashem" for YHVH or "G♕d" for Elohim, if necessary. For example, "Praise YHVH for <span style="text-transform: uppercase;">THEY</span> are good. Hashem loves those with integrity."</li>
+</ol></p>
+<p style="padding-left: 40px;">Divine epithets may remain gender-neutral or gendered, based on the translator's preference. For example: "Melekh ha-Olam" may be translated as "Cosmic Majesty." "Avinu Malkeinu" may be translated as "My father, My king."</p>
+<p style="padding-left: 40px;">Any indirect reference to divinity may be treated as a generic. For example <span class="hebrew">יהוה אלהיך</span> becomes "YHVH your <em>elo'ah</em> (rather than "YHVH your god") and <span class="hebrew">אלהי יעקב</span> becomes "<em>elo'ah</em> of Ya'aqov" (rather than god of Ya'aqov").</p>
 <p style="padding-left: 40px;">Generic terms for divine entities should be identified in transliteration in lowercase. For example, <span class="hebrew">אלים</span> becomes <em>elim</em>.</p>
-<p style="padding-left: 40px;">Circumlocutions should be replaced with the divine names they signify in the manner described above.</p>
+<p style="padding-left: 40px;">Circumlocutions found in contemporary works should be replaced with the divine names they signify in the manner described above.</p>
+
+&nbsp;
+<h3>Translations and Complex Terms</h3>
+<p style="padding-left: 40px;">Please do not translate complex terms. Transliterate them and, if necessary, provide more expansive explanations in a footnote.</p>
+<p style="padding-left: 40px;">All complex terms should be romanized (transliterated with the Latin script alphabet) according to the transliteration schema set below. For example, <span class="hebrew">ציצית</span> becomes tsisit (rather than tzizit).</p>
+<p style="padding-left: 40px;">Default male-gender language, where the gender is not significant, should be translated using gender neutral alternatives. For example: "<em>avot</em>/<em>avoteinu</em>" may be translated as "ancestors" rather than "forefathers."</p>
+<p style="padding-left: 40px;">Gendered language, where the gender is significant, should retain the gender in translation. For example: "<em>imahot</em>" may be translated as "foremothers."</p>
+
 
 &nbsp;
 <h3>Annotations</h3>
@@ -5710,8 +5458,8 @@ Find below, a chart for Hebrew consonants and vowels with their corresponding le
 		<wp:post_id>14234</wp:post_id>
 		<wp:post_date><![CDATA[2016-08-07 13:37:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-08-07 21:37:59]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-04-07 06:35:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-04-07 14:35:00]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-06-29 16:16:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-06-30 00:16:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[style-guide]]></wp:post_name>
@@ -5733,14 +5481,6 @@ Find below, a chart for Hebrew consonants and vowels with their corresponding le
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpas_done_all]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[aFhfc_head_code]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[aFhfc_footer_code]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
@@ -5771,16 +5511,12 @@ Find below, a chart for Hebrew consonants and vowels with their corresponding le
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[editInHTML]]></wp:meta_key>
-		<wp:meta_value><![CDATA[on]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_at_widget]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[                                        ]]></wp:meta_value>
+		<wp:meta_value><![CDATA[                                                 ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_footer]]></wp:meta_key>
@@ -6440,10 +6176,6 @@ English translation courtesy of Leonard Berkowitz. Section numbers outside the s
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[editInHTML]]></wp:meta_key>
-		<wp:meta_value><![CDATA[on]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpghs_github_path]]></wp:meta_key>
 		<wp:meta_value><![CDATA[_pages/rules-for-niqqud.md]]></wp:meta_value>
 		</wp:postmeta>
@@ -6630,10 +6362,6 @@ In the summer of 2009, the Open Siddur was one of sixteen innovative projects ch
 		<wp:meta_value><![CDATA[10855]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[editInHTML]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
 		<wp:meta_value><![CDATA[ ]]></wp:meta_value>
 		</wp:postmeta>
@@ -6687,10 +6415,6 @@ In the summer of 2009, the Open Siddur was one of sixteen innovative projects ch
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[editInHTML]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
@@ -6786,10 +6510,6 @@ In the summer of 2009, the Open Siddur was one of sixteen innovative projects ch
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[editInHTML]]></wp:meta_key>
-		<wp:meta_value><![CDATA[on]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_at_widget]]></wp:meta_key>
@@ -6904,10 +6624,6 @@ In the summer of 2009, the Open Siddur was one of sixteen innovative projects ch
 		<wp:meta_value><![CDATA[        ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[editInHTML]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
@@ -6981,10 +6697,6 @@ If you've lost it, you can also <a href="https://opensiddur.org/help/recover-pas
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[editInHTML]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
 		<wp:meta_value><![CDATA[          ]]></wp:meta_value>
 		</wp:postmeta>
@@ -7034,17 +6746,18 @@ If you've lost it, you can also <a href="https://opensiddur.org/help/recover-pas
 		<description></description>
 		<content:encoded><![CDATA[&nbsp;
 
-[wppb-recover-password] (<a href="/help/edit-profile/">link</a>)
+[wppb-recover-password] (<a href="/help/edit-account/">link</a>)
 <!--
 -->
 &nbsp;
-<hr />]]></content:encoded>
+<hr />
+]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>23559</wp:post_id>
 		<wp:post_date><![CDATA[2019-01-28 16:09:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-01-29 01:09:05]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-05-28 21:01:32]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-05-29 05:01:32]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-07-03 08:56:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-07-03 16:56:54]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[recover-password]]></wp:post_name>
@@ -7060,12 +6773,8 @@ If you've lost it, you can also <a href="https://opensiddur.org/help/recover-pas
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[editInHTML]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[          ]]></wp:meta_value>
+		<wp:meta_value><![CDATA[           ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_at_widget]]></wp:meta_key>
@@ -7196,10 +6905,6 @@ New York, NY 10025-7449</p>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[editInHTML]]></wp:meta_key>
-		<wp:meta_value><![CDATA[on]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
@@ -7354,10 +7059,6 @@ New York, NY 10025-7449</p>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[editInHTML]]></wp:meta_key>
-		<wp:meta_value><![CDATA[on]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
 		<wp:meta_value><![CDATA[  ]]></wp:meta_value>
 		</wp:postmeta>
@@ -7435,10 +7136,6 @@ New York, NY 10025-7449</p>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[editInHTML]]></wp:meta_key>
-		<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
 		<wp:meta_value><![CDATA[30]]></wp:meta_value>
 		</wp:postmeta>
@@ -7479,10 +7176,6 @@ New York, NY 10025-7449</p>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[editInHTML]]></wp:meta_key>
-		<wp:meta_value><![CDATA[on]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
