@@ -10,7 +10,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
  בְּזֶה הַשַּׁעַר לֹא יָבוֹא צַעַר.
 בְּזֹאת הַדִּירָה לֹא תָבוֹא צָרָה.
@@ -19,7 +19,8 @@ For attribution and license, please consult the following URL: <a href="http://o
 בְּזֶה הַמָּקוֹם תְּהִי בְרָכָה וְשָׁלוֹם.
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 Let no sadness come through this gate.
 Let no trouble come to this dwelling.
 Let no fear come through this door.
@@ -28,43 +29,46 @@ Let this home be filled with blessing and peace.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right; font-size: 1.5em;"><span lang="he">
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
 וְעָ֥שׂוּ לִ֖י מִקְדָּ֑שׁ 
 וְשָׁכַנְתִּ֖י בְּתוֹכָֽם׃ <span class="citation">(שמות כה:ח)</span>
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 And let them make Me a sanctuary, 
-that I may dwell among them.[foot]Exodus 25:8[/foot]
+that I may dwell among them. <span class="citation">(Exodus 25:8)</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right; font-size: 1.5em;"><span lang="he">
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
 בְּ֭חָכְמָה יִבָּ֣נֶה בָּ֑יִת 
 וּ֝בִתְבוּנָ֗ה יִתְכּוֹנָֽן׃
  וּ֭בְדַעַת חֲדָרִ֣ים יִמָּלְא֑וּ 
 כָּל־ה֖וֹן יָקָ֣ר וְנָעִֽים׃ <span class="citation">(משלי כד:ג-ד)</span>
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 Through Ḥokhma (Wisdom) is a house built; 
 And with Binah (Understanding) it is established; 
 And with Da'at (Knowledge) are its chambers filled 
-With all precious and pleasant riches.[foot]Proverbs 24:3-4[/foot]
+With all precious and pleasant riches. <span class="citation">(Proverbs 24:3-4)</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right; font-size: 1.5em;"><span lang="he">
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
 מַה טֹּבוּ אֹהָלֶיךָ יַעֲקֹב 
 מִשְׁכְּנֹתֶיךָ יִשְׂרָאֵל. <span class="citation">(במדבר כד:ה)</span>
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 How excellent are your tents, O Ya'akov, 
-your dwellings, Yisrael![foot]Bilaam the prophet from Numbers 24:5[/foot]
+your dwellings, Yisrael! <span class="citation">(Numbers 24:5)</span>
 </div></td></tr>
 </tbody></table>
 

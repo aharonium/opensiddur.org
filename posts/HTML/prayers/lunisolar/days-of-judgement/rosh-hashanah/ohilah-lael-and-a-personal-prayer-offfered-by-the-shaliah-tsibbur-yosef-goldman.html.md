@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: The personal prayer of this shaliaḥ tsibbur, by Yosef Goldman<br />
+Title: אוֹחִילָה לָאֵל | Oḥilah la'El, a reshut and a personal prayer offered by the shaliaḥ tsibbur, Yosef Goldman<br />
 Primary contributor: yosef.goldman<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=21623">http://opensiddur.org/?p=21623</a>
 <p />
@@ -10,24 +10,23 @@ For attribution and license, please consult the following URL: <a href="http://o
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
-The personal prayer of this shaliaḥ tsibbur-- 
-mortal communal representative and prayer weaver:
+
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 Holy One, Beloved One. 
 As I sit here trembling, 
@@ -46,12 +45,12 @@ we never even knew we needed to be.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 Even when my joints and muscles hurt. 
 Even when my heart and soul hurt. 
@@ -65,12 +64,12 @@ into the heart of community.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 It's in You 
 that I will find 
@@ -80,18 +79,18 @@ to express all that's inside.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 אוֹחִילָה לָאֵל 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <h3>Oḥilah la'El</h3>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 אוֹחִילָה לָאֵל 
 אֲחַלֶּה פָנָיו	
@@ -101,7 +100,7 @@ to express all that's inside.
 לְאָדָם מַעַרְכֵי לֵב וּמֵה׳ מַעֲנֵה לָשׁוֹן 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 I pray to You, Dear One, 
 That I may come into Your presence.
@@ -118,5 +117,7 @@ A shaliaḥ tsibbur is the one who serves as the representative of a minyan and 
 
 
 https://youtu.be/pYri_lg9fqI
+
+&nbsp;
 </body>
 </html>

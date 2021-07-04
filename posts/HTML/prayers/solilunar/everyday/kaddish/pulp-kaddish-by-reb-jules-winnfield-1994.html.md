@@ -7,9 +7,11 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-Tired of people who can’t tell their <em>kiddish</em> from their <em>kaddish</em>? Well, it sets Samuel L. Jackson off too! But he found a way of making a <em>brakha</em> and mourning the dead at the same time.[foot]Cf. PULP FICTION (dir. Quentin Tarantino, 1994) [youtube http://youtu.be/3PeyiU3uWJ8?t=2m25s][/foot] Now I can’t vouch for the origins of his <em>nusaḥ</em> but it sounds very effective!
+<div class="english" style="font-size: 1.2em;">
+Tired of people who can’t tell their <em>kiddish</em> from their <em>kaddish</em>? Well, it sets Samuel L. Jackson off too! But he found a way of making a <em>brakhah</em> and mourning the dead at the same time.[foot]Cf. <a href="https://www.youtube.com/watch?v=3PeyiU3uWJ8&t=145s">PULP FICTION</a> (dir. Quentin Tarantino, 1994)[/foot] Now I can’t vouch for the origins of his <em>nusaḥ</em> but it sounds very effective!
 
-Most people haven’t noticed, the only real part from the Bible is that last section (adapted from Ezekiel 25:17), the first part is actually his own <em>spiel</em>.[foot]Jules Winnfield's <em>spiel</em> was adapted from a reference to the verse which first appeared in the THE BODYGUARD (1976), an American release of the Japanese martial-arts film, ボディガード牙 (<a href="http://en.wikipedia.org/wiki/Karate_Kiba">Karate Kiba</a>, dir. Ikki Kajiwara and Ken Nakagusuku, 1973). [youtube http://youtu.be/8LYT4JC2dd4][/foot] Here is Reb <a href="http://en.wikiquote.org/wiki/Pulp_Fiction">Jules Winnfield</a>, in the name of Marsellus Wallace, circa 1994.
+Most people haven’t noticed, the only real part from the Bible is that last section (adapted from Ezekiel 25:17), the first part is actually his own <em>spiel</em>.[foot]Jules Winnfield's <em>spiel</em> was adapted from a reference to the verse which first appeared in the <a href="http://<a href="https://www.youtube.com/watch?v=8LYT4JC2dd4">">THE BODYGUARD</a> (1976), an American release of the Japanese martial-arts film, ボディガード牙 (<a href="http://en.wikipedia.org/wiki/Karate_Kiba">Karate Kiba</a>, dir. Ikki Kajiwara and Ken Nakagusuku, 1973). https://www.youtube.com/watch?v=8LYT4JC2dd4[/foot] Here is Reb <a href="http://en.wikiquote.org/wiki/Pulp_Fiction">Jules Winnfield</a>, in the name of Marsellus Wallace, circa 1994.
+</div>
 
 <hr />
 
@@ -17,7 +19,7 @@ Most people haven’t noticed, the only real part from the Bible is that last se
 <thead><tr><th id="x" style="text-align: right;">Translation (Hebrew)</th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 הַדֶרֶךְ שֶׁל הַצָדִיק 
 מִתְמוֹדֶדֶת בְּכֹּל שָׁלָב
@@ -25,7 +27,8 @@ Most people haven’t noticed, the only real part from the Bible is that last se
 וְהַעָרִיצוּת שֶׁל רְשָׁעִים.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 The path of the righteous man[foot]Cf. Proverbs 4:18. THE BODYGUARD (1976) has "the righteous man <em>and defender</em>." (translated: <span class="hebrew">הַצָדִיק וּמָגֵן</span>)[/foot]&nbsp;
 is beset on all sides[foot]lit. "confronted at every step."[/foot]&nbsp;
 with the iniquities of the selfish 
@@ -34,8 +37,7 @@ and the tyranny of evil men.
 </tr>
 
 
-<tr>
-<td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 בָּרוּךְ הוּא אֲשֶׁר לְטוֹבַת צֶדֶק וְרַצוֹן טוֹב,
 יוֹבִיל אֶת הַחָלָשׁ בְּגֵיְא צַלְמָוֶת
@@ -43,7 +45,8 @@ and the tyranny of evil men.
 וּמַּצִיל שֶׁל טָפִים אֲבּוּדִים
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 Blessed is he who in the name of charity and good will
 shepherds the weak through the valley of darkness,[foot]Cf. Psalms 23:4[/foot]&nbsp;
 for he is truly his brother’s keeper[foot]Cf. Genesis 4:9[/foot]&nbsp;
@@ -52,8 +55,7 @@ and the finder of lost children.[foot]THE BODYGUARD (1976) has "the <em>father</
 </tr>
 
 
-<tr>
-<td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <span class="scribe">וְעָשִׂ֤יתִי בָם֙ נְקָמ֣וֹת גְּדֹל֔וֹת בְּתוֹכְח֖וֹת חֵמָ֑ה</span>
 
@@ -62,7 +64,8 @@ and the finder of lost children.[foot]THE BODYGUARD (1976) has "the <em>father</
 <span class="scribe">וְיָֽדְעוּ֙ כִּֽי־אֲנִ֣י יְהוָ֔ה בְּתִתִּ֥י אֶת־נִקְמָתִ֖י בָּֽם׃</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 “And I will strike down upon those with great vengeance and with furious anger"[foot]Ezekiel 25:17, first part of verse.[/foot]&nbsp;
 
 those who attempt to poison and destroy my brothers.
@@ -74,5 +77,13 @@ those who attempt to poison and destroy my brothers.
 <hr />
 
 Translation into Hebrew by Aharon Varady. An earlier version of this post with another translation was originally published by Shmueli Gonzales at his blog, <a href="http://hardcoremesorah.wordpress.com/2011/01/22/59/">Hardcore Mesorah</a>.
+
+<h3>Source(s)</h3>
+
+https://www.youtube.com/watch?v=3PeyiU3uWJ8&t=145s
+
+https://www.youtube.com/watch?v=8LYT4JC2dd4
+
+&nbsp;
 </body>
 </html>

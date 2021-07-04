@@ -7,7 +7,6 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-[caption id="attachment_4212" align="aligncenter" width="768"]<img class="size-full wp-image-4212 " title="Good Morning by khawkins04 (CC-BY 2.0)" alt="" src="https://opensiddur.org/wp-content/uploads/2011/12/good-morning-by-khawkins04-cc-by.jpg" width="768" height="1024" /> Image: <a href="http://www.flickr.com/photos/khawkins04/390311799/">Good Morning</a> by khawkins04 (License: CC-BY 2.0)[/caption]
 
 <strong>DOWNLOAD:</strong> <a href="https://opensiddur.org/wp-content/uploads/2012/12/Andrew-Shaw-Birkhot-haShachar-Morning-Blessings.txt">TXT</a> | <a href="https://opensiddur.org/wp-content/uploads/2012/12/Andrew-Shaw-Birkhot-haShachar-Morning-Blessings.odt">ODT</a> | <a href="https://opensiddur.org/wp-content/uploads/2012/12/Andrew-Shaw-Birkhot-haShachar-Morning-Blessings.pdf">PDF</a>
 

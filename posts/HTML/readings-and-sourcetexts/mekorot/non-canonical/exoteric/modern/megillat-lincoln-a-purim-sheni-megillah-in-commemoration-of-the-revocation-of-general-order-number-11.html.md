@@ -8,7 +8,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <hr />
 
 <div class="english" style="font-size: 1.2em;">
-The single greatest act of government anti-Semitism in U.S. history was done in December 1862, when Ulysses S. Grant sent out <a href="https://en.wikipedia.org/wiki/General_Order_No._11_(1862)">General Order No. 11</a>, expelling all Jews from Tennessee, Mississippi, and Kentucky. Through massive petitionary action to President Lincoln, this breach of the First Amendment was overturned within a month, and serves as a classic example of Lincoln's support of the Jewish community's right to exist. 
+The single greatest act of government antisemitism in U.S. history was done in December 1862, when Ulysses S. Grant sent out <a href="https://en.wikipedia.org/wiki/General_Order_No._11_(1862)">General Order No. 11</a>, expelling all Jews from Tennessee, Mississippi, and Kentucky. Through massive petitionary action to President Lincoln, this breach of the First Amendment was overturned within a month, and serves as a classic example of Lincoln's support of the Jewish community's right to exist. 
 
 This megillah, styled after other Second Purim megillot, celebrates this victory. It is cantillated with Esther cantillation, along with certain verses to be read according to the melody of Lamentations. (Passages in blue bold text are recited in Lamentations melody. Passages in red bold text are recited using a nusaḥ detour as in the reading of Esther.)
 </div>

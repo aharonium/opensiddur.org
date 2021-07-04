@@ -113,7 +113,7 @@ Second Shabbat of Consolation: Job 38:22-38
 Third Shabbat of Consolation: Job 38:39-39:18
 Fourth Shabbat of Consolation: Job 39:19-40:2
 Fifth Shabbat of Consolation: Job 40:3-14
-Sixth Shabbat of Consolation: Job 40:14-41:26
+Sixth Shabbat of Consolation: Job 40:15-41:26
 Seventh Shabbat of Consolation: Job 42:1-17
 Shabbat Shuvah: Daniel 9:21-10:12
 Ha’azinu: Proverbs 30:1-31:9
@@ -150,11 +150,11 @@ RḤ Nisan: repeat verse 2, then read for Shabbat haḤodesh
 RḤ Iyar: repeat verse 4
 RḤ Sivan: repeat verse 5
 RḤ Tammuz: repeat verse 7
-RḤ Av: repeat verse 8, then read appropriate Shabbat of rebuke
-RḤ Elul: repeat verse 9,    then read appropriate Shabbat of consolation
+RḤ Av: repeat verse 8, then read Job 2:1-13
+RḤ Elul: repeat verse 9,    then read Job 38:39-39:18
 RḤ Ḥeshvan: repeat verse 11
 RḤ Kislev: repeat verse 12
-RḤ Tevet: repeat verse 13
+RḤ Tevet: repeat verse 13, then read for Shabbat Ḥanukkah
 RḤ Shevat: repeat verse 14
 RḤ Adar Alef: repeat verse 15
 RḤ Adar or RḤ Adar Bet: repeat verse 15, then read for Shabbat Shekalim

@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: אֲגַדֶלְךָ | Agadelkha, a piyyut by Avraham ibn Ezra (ca. 12th c.)<br />
+Title: אֲגַדֶלְךָ | Agadelkha, a piyyut by Avraham ibn Ezra (ca. 12th c.) translation by Anonymous<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=29727">http://opensiddur.org/?p=29727</a>
 <p />
@@ -90,7 +90,7 @@ may Hashem's great name be made holy in the world!
 
 <hr />
 
-A short piyyut by Avraham Ibn Ezra, whose first name is signed in an acrostic. The translation here follows after the translation that Honi Sanders and I published in the birkon for his wedding, <em><a href="http://opensiddur.org/?p=25938">Siman l'Vanim</a></em> (Dimus Parrhesia Press 2019) with some minor changes. --Aharon Varady
+A short piyyut by Avraham Ibn Ezra, whose first name is signed in an acrostic. The translation here, from an unknown and anonymous contributor to <a href="http://zemirotdatabase.org/edit_song.php?id=244&version=9">zemirotdatabase.org</a>, follows after the translation that Honi Sanders and I published in the birkon for his wedding, <em><a href="http://opensiddur.org/?p=25938">Siman l'Vanim</a></em> (Dimus Parrhesia Press 2019) with some minor changes. --Aharon Varady
 
 <h3>Source(s)</h3>
 

@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: Bendigamos al Altísimo, a Ladino song for the Birkat haMazon<br />
+Title: Bendigamos al Altísimo, a Spanish song for the Birkat haMazon<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=11935">http://opensiddur.org/?p=11935</a>
 <p />

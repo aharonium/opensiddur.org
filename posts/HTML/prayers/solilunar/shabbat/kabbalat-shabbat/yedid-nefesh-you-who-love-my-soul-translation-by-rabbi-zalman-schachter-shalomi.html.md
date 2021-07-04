@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: יְדִיד נֶפֶשׁ | Yedid Nefesh, interpretive translation by Rabbi Zalman Schachter-Shalomi<br />
+Title: יְדִיד נֶפֶשׁ | Yedid Nefesh, a piyyut by Elazar ben Moshe Azikri (ca. 16th c.) interpretive translation by Rabbi Zalman Schachter-Shalomi<br />
 Primary contributor: zalman.schachter-shalomi<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=10031">http://opensiddur.org/?p=10031</a>
 <p />
@@ -152,7 +152,7 @@ Grace us as of old...
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/sidurtehilashashemforweekdaysandshabbosmerkoslinyonaichinuch1953#page/n126/mode/2up"]
 
-[gallery type="square" link="file" ids="10050,10051"]
+<span style="float: right;">[caption id="attachment_10050" align="alignleft" width="236"]<a href="https://opensiddur.org/wp-content/uploads/2014/11/IMG-20141021-00809-1024x768.jpg"><img src="https://opensiddur.org/wp-content/uploads/2014/11/IMG-20141021-00809-1024x768-236x300.jpg" alt="" width="236" height="300" class="size-medium wp-image-10050" /></a> Yedid Nefesh manuscript (1)[/caption]</span> <span style="float: left;">[caption id="attachment_10051" align="alignnone" width="265"]<a href="https://opensiddur.org/wp-content/uploads/2014/11/mos-320.jpg"><img src="https://opensiddur.org/wp-content/uploads/2014/11/mos-320-265x300.jpg" alt="" width="265" height="300" class="size-medium wp-image-10051" /></a> Yedid Nefesh manuscript (2)[/caption]</span>[su_spacer]
 
 <hr />
 

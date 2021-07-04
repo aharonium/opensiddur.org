@@ -190,7 +190,7 @@ For the thing is very close to us, it is in our mouths and in our hearts, to do 
 
 <hr />
 
-The kinnah, "Woe to the Heart that is not Broken," was first published in <em>Tikkun</em> in the article, "<a href="https://www.tikkun.org/a-new-lamentation-for-tisha-bav">A New Lamentation for Tisha b’Av</a>" on August 1st, 2019.
+The kinnah, "Woe to the Heart that is not Broken," was first published in <em>Tikkun</em> in the article, "<a href="https://www.tikkun.org/a-new-lamentation-for-tisha-bav">A New Lamentation for Tishah b'Av</a>" on August 1st, 2019.
 
 &nbsp;
 </body>

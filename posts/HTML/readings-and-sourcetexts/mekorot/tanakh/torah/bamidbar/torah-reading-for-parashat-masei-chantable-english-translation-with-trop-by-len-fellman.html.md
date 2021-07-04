@@ -8,8 +8,9 @@ For attribution and license, please consult the following URL: <a href="http://o
 <hr />
 
 <strong>DOWNLOAD:</strong> 
-<a href="https://archive.org/download/parashatmaseitorahreadingwithenglishtranstropilationlenfellman2019/Parashat%20Masei%20Torah%20Reading%20%28Numbers%2033v1-36v13%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.pdf">PDF</a> and <a href="https://archive.org/download/parashatmaseitorahreadingwithenglishtranstropilationlenfellman2019/Parashat%20Masei%20Torah%20Reading%20%28Numbers%2033v1-36v13%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.odt">ODT</a> (sans Hebrew) 
-<a href="https://archive.org/download/parashatmaseitorahreadingwithenglishtranstropilationlenfellman2019/Parashat%20Masei%20Torah%20Reading%20%28Numbers%2033v1-36v13%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29.pdf">PDF</a> and <a href="https://archive.org/download/parashatmaseitorahreadingwithenglishtranstropilationlenfellman2019/Parashat%20Masei%20Torah%20Reading%20%28Numbers%2033v1-36v13%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29.odt">ODT</a> (with Hebrew)
+
+<a href="https://archive.org/download/parashatmaseitorahreadingwithenglishtranstropilationlenfellman2019/Parashat%20Masei%20Torah%20Reading%20%28Numbers%2033v1-36v13%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.pdf">PDF</a> | <a href="https://archive.org/download/parashatmaseitorahreadingwithenglishtranstropilationlenfellman2019/Parashat%20Masei%20Torah%20Reading%20%28Numbers%2033v1-36v13%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.odt">ODT</a> (sans Hebrew) 
+<a href="https://archive.org/download/parashatmaseitorahreadingwithenglishtranstropilationlenfellman2019/Parashat%20Masei%20Torah%20Reading%20%28Numbers%2033v1-36v13%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29.pdf">PDF</a> | <a href="https://archive.org/download/parashatmaseitorahreadingwithenglishtranstropilationlenfellman2019/Parashat%20Masei%20Torah%20Reading%20%28Numbers%2033v1-36v13%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29.odt">ODT</a> (with Hebrew)
 
 <hr />
 
@@ -21,6 +22,12 @@ This is an English translation of Numbers 33:1-36:13, the Torah reading for Para
 
 <h3>Recording</h3>
 
-https://archive.org/download/parashatmaseitorahreadingwithenglishtranstropilationlenfellman2019/Len%20Fellman%20-%20Numbers%2033%2C%2011-49%20%28English%29.mp3
+https://archive.org/download/parashat-masei-torah-reading-with-english-transtropilation-audio-len-fellman-2019/Parashat%20Masei%20Torah%20Reading%20%28Numbers%2033v11-49%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29.mp3
+
+&nbsp;
+
+<hr />
+
+&nbsp;
 </body>
 </html>

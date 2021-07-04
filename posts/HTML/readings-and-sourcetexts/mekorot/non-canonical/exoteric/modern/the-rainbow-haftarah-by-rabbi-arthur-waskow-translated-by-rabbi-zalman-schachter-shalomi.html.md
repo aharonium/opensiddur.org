@@ -14,7 +14,7 @@ During the week of August 8, I was invited to speak to speak with teen-agers at 
 
 When I awoke, I felt unrolling in me a scroll of passionate words that seemed to me not in any ordinary way my own. I wrote them down.
 
-Then I went to Reb Zalman to say I felt and thought as if I had been channeled a Haftarah for the days of Consolation that follow after the grief of Tisha B’Av, mourning the destruction of the Temple. I asked whether he would permit me to deliver it as the haftarah for the coming Shabbat. He agreed, and I did so on 27 Av 5753/ August 14, 1993.
+Then I went to Reb Zalman to say I felt and thought as if I had been channeled a Haftarah for the days of Consolation that follow after the grief of Tishah b'Av, mourning the destruction of the Temple. I asked whether he would permit me to deliver it as the haftarah for the coming Shabbat. He agreed, and I did so on 27 Av 5753/ August 14, 1993.
 
 When I read it that Shabbat, I felt myself again not the “author” but a channel for the message. One of the participants in the service said he had accidentally brushed against me as I was reading, and felt a shock like static electricity.
 

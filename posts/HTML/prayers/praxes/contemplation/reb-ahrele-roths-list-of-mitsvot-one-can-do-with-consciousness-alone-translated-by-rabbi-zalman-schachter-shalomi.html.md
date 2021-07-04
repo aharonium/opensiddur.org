@@ -163,8 +163,8 @@ I reject unfit thoughts that rise in my heart.[foot]Deuteronomy 12:2-3[/foot]
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-16. I remember Yerushalayim,
-Your House of Prayer for all peoples,[foot]Psalms 137:5[/foot]
+16. I remember Yerushalayim,[foot]Psalms 137:5.[/foot]
+Your House of Prayer for all peoples,[foot]Cf. Isaiah 56:7.[/foot]
 17. and look out to you,
 to redeem us and free our souls.[foot]Ḥabakuk 2:3[/foot]
 </div></td></tr>

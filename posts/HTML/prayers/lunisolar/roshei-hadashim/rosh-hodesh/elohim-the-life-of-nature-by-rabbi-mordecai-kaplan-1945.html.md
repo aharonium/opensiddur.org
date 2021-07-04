@@ -20,7 +20,7 @@ For attribution and license, please consult the following URL: <a href="http://o
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-Our fathers acclaimed the El
+Our fathers acclaimed the <em>el</em>[foot]deity.[/foot]
 Whose handiwork they read 
 In the mysterious heavens above 
 And in the varied scene of earth below,

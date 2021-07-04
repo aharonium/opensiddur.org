@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: קמע לשמירה מפני לילית | Apotropaic ward for the protection of pregnant women and infants against Lilith & her minions (Columbia MS General 194, Montgomery 1913)<br />
+Title: קמע לשמירה מפני לילית | Apotropaic ward for the protection of pregnant women and infants against Lilith & her minions (CUL MS General 194, Montgomery 1913 Amulet No. 42)<br />
 Primary contributor: aharon.n.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=33247">http://opensiddur.org/?p=33247</a>
 <p />

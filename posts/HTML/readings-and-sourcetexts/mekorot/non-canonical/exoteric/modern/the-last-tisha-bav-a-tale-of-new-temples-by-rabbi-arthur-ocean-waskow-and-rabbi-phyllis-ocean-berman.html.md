@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: The Last Tisha b’Av: A Tale of New Temples, by Rabbi Arthur Ocean Waskow and Rabbi Phyllis Ocean Berman (2006)<br />
+Title: The Last Tishah b'Av: A Tale of New Temples, by Rabbi Arthur Ocean Waskow and Rabbi Phyllis Ocean Berman (2006)<br />
 Primary contributor: arthur.waskow<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=9252">http://opensiddur.org/?p=9252</a>
 <p />
@@ -173,7 +173,7 @@ The Rebbe’s eyes turned inward. “You know,” he said, “Here in Tz’fat w
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-“I can see from the sun, the heat, it is late afternoon. Yet the crowd are wearing t’fillin. The only time in all the year when Jews wear t’fillin in the afternoon is Tisha B’Av, so I can see that it is the day of mourning for our beloved Temple. But there are no signs of mourning — — except perhaps the way, the wistful way, Mashiaḥ reaches out to touch the Wall, to tuck one last petition between the great carved stones.
+“I can see from the sun, the heat, it is late afternoon. Yet the crowd are wearing t’fillin. The only time in all the year when Jews wear t’fillin in the afternoon is Tishah b'Av, so I can see that it is the day of mourning for our beloved Temple. But there are no signs of mourning — — except perhaps the way, the wistful way, Mashiaḥ reaches out to touch the Wall, to tuck one last petition between the great carved stones.
 </div></td></tr>
 
 
@@ -655,7 +655,7 @@ Far, far beyond the hills, much farther than the Lake they call Kinneret.
 
 <hr />
 
-This year (2014), the Jewish Fast of Tisha B’Av (August 4-5) and its memory of bloodshed and destruction of the Holy Temple/s in Jerusalem comes in the midst of bloodshed between the two families of Abraham -- a destruction of the deeper moral Temple. In Jewish tradition, on this very day of disaster Mashiaḥ (Messiah) was born, but hidden away till a generation would come that is ready to make peace and eco-social justice in the world. So this year, we offer this story of hope and redemption to be read by Jews and Muslims together on the fast day or for the evening break-fast when it ends (August 5).
+This year (2014), the Jewish Fast of Tishah b'Av (August 4-5) and its memory of bloodshed and destruction of the Holy Temple/s in Jerusalem comes in the midst of bloodshed between the two families of Abraham -- a destruction of the deeper moral Temple. In Jewish tradition, on this very day of disaster Mashiaḥ (Messiah) was born, but hidden away till a generation would come that is ready to make peace and eco-social justice in the world. So this year, we offer this story of hope and redemption to be read by Jews and Muslims together on the fast day or for the evening break-fast when it ends (August 5).
 
 For many other midrashic reinterpretations of Torah for our generation, see <a href="http://www.theshalomcenter.org">theshalomcenter.org</a>. To help The Shalom Center keep creating such materials and organizing peace-building events, please <a href="https://theshalomcenter.org/sites/all/modules/civicrm/extern/url.php?u=8011&qid=3600265">DONATE</a>.
 </body>

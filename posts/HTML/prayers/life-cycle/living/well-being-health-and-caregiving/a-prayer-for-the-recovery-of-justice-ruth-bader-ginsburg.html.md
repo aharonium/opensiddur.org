@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: A prayer for the recovery of Justice Ruth Bader Ginsburg<br />
+Title: A prayer for the recovery of Justice Ruth Bader Ginsburg (2018)<br />
 Primary contributor: aharon-nissn.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=22562">http://opensiddur.org/?p=22562</a>
 <p />
@@ -54,7 +54,7 @@ to be received before the throne of your resplendent spirit,
 that you may restore her in complete and vibrant health 
 and that she may continue to perform her holy work for justice, 
 as is proclaimed in your teaching: 
-<em>"Tsedek - Tsedek Tirdof l'Ma'an Tiḥyeh"</em> 
+<em>"Tsedeq - Tsedeq Tirdof l'Ma'an Tiḥyeh"</em> 
 ("Justice, Justice shall you pursue that you may live")[foot]Deuteronomy 16:20 part[/foot] -- 
 </div></td></tr>
 

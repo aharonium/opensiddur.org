@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: אֵל אָדוֹן | El Adōn, a piyyut attributed to the Yordei haMerkavah (interpretive translation by Rabbi Zalman Schachter-Shalomi)<br />
+Title: אֵל אָדוֹן (אשכנז) | El Adōn, a piyyut attributed to the Yordei Merkavah (interpretive translation by Rabbi Zalman Schachter-Shalomi)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=29274">http://opensiddur.org/?p=29274</a>
 <p />
@@ -144,7 +144,7 @@ Nature and mankind the rhythm provide.
 
 <hr />
 
-This "praying translation" of the piyyut El Adon appears in Rabbi Zalman Schachter-Shalomi's <a href="http://opensiddur.org/?p=29177">Sabbath Supplement</a> to his <em><a href="http://opensiddur.org/?p=177">Siddur Tehillat Hashem Yidaber Pi ~ As I Can Say It (for Praying in the Vernacular)</a></em> (2009).
+This "praying translation" of the piyyut El Adon appears in Rabbi Zalman Schachter-Shalomi's <a href="http://opensiddur.org/?p=29177">Sabbath Supplement</a> to his <em><a href="http://opensiddur.org/?p=177">Siddur Tehillat Hashem Yidaber Pi ~ As I Can Say It (for Praying in the Vernacular)</a></em> (2009). 
 
 Note that in El Adon, the acrostic line for the letter <em>samekh</em> uses the <em>sin</em> in it's stead, the two being phonetically equivalent.
 

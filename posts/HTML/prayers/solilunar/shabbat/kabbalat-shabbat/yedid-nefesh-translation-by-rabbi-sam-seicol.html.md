@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: יְדִיד נֶפֶשׁ | Yedid Nefesh, translation by Rabbi Sam Seicol<br />
+Title: יְדִיד נֶפֶשׁ | Yedid Nefesh, a piyyut by Elazar ben Moshe Azikri (ca. 16th c.) translated by Rabbi Sam Seicol<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=30284">http://opensiddur.org/?p=30284</a>
 <p />

@@ -15,7 +15,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <a href="http://www.neohasid.org/pdf/EikhahLaments-forzoom-wholepage.pdf">PDF</a> | <a href="http://www.neohasid.org/pdf/EikhahLaments-forzoom-wholepage.pptx">PPTX</a> (Presentation format)
 
 
-This translation of Laments, the book of mourning poems read on Tish’a B’Av, uses principles of the Buber-Rosenzweig Bible. It strives to be “concordant”, translating related Hebrew words with related English words and following the order and syntax of the Hebrew where possible. It also focuses on the more physical, earthy meaning of words, in order to draw the reader from modern towards more ancient ways of seeing and feeling. Sometimes alternate translations are given, indicated by a slash. (When reading aloud, simply pick one of the translations. For YHVH, you can read Adonai or Hashem or “the Eternal”.) James Moffatt’s 1922 translation was consulted. As a somewhat literal translation, Laments uses “He” and “His” as pronouns for God, even though Torah and common sense command us not to make an exclusively male or female image of God. If you are using Laments liturgically, please feel encouraged to change the pronouns. For brief essays on the theology of Eikhah and more, see the bottom of this page.
+This translation of Laments, the book of mourning poems read on Tishah b'Av, uses principles of the Buber-Rosenzweig Bible. It strives to be “concordant”, translating related Hebrew words with related English words and following the order and syntax of the Hebrew where possible. It also focuses on the more physical, earthy meaning of words, in order to draw the reader from modern towards more ancient ways of seeing and feeling. Sometimes alternate translations are given, indicated by a slash. (When reading aloud, simply pick one of the translations. For YHVH, you can read Adonai or Hashem or “the Eternal”.) James Moffatt’s 1922 translation was consulted. As a somewhat literal translation, Laments uses “He” and “His” as pronouns for God, even though Torah and common sense command us not to make an exclusively male or female image of God. If you are using Laments liturgically, please feel encouraged to change the pronouns. For brief essays on the theology of Eikhah and more, see the bottom of this page.
 
 This work is dedicated to all refugees fleeing war and upheaval, and to our remembering their needs.
 </blockquote>
@@ -2335,16 +2335,16 @@ like dawn / long ago.
 
 <hr />
 
-For Reb Dovid's essay on cannibalism in Eikha, please read "<a href="http://jcarrot.org/driven-beyond-reason-tisha-b%e2%80%99av%e2%80%99s-connection-to-cannibalism">To Prey or to Pray? The Lessons of Famine on Tisha B’Av</a>" (The Jew &amp; the Carrot blog, 2008-08-07).
+For Reb Dovid's essay on cannibalism in Eikha, please read "<a href="http://jcarrot.org/driven-beyond-reason-tisha-b%e2%80%99av%e2%80%99s-connection-to-cannibalism">To Prey or to Pray? The Lessons of Famine on Tishah b'Av</a>" (The Jew &amp; the Carrot blog, 2008-08-07).
 
 Rabbi Seidenberg writes:
 
 <blockquote>
 <h3>Some notes on the theology of Eikhah:</h3>
 
-1. Tisha B’Av could not be more relevant than it is today, when the crisis of war refugees and fear of terrorism have overwhelmed the political process in so many countries. We think of Tisha B’Av as a time of mourning, but it is more importantly a call to identify with the experience of the refugee, being thrown into a hostile world without shelter or protection. That’s what happened to the Jewish people when the Temple, and the nation and society it stood for, were destroyed, when they became “like deer, not finding a place to graze, walking without strength before a pursuer.” (1:6)
+1. Tishah b'Av could not be more relevant than it is today, when the crisis of war refugees and fear of terrorism have overwhelmed the political process in so many countries. We think of Tishah b'Av as a time of mourning, but it is more importantly a call to identify with the experience of the refugee, being thrown into a hostile world without shelter or protection. That’s what happened to the Jewish people when the Temple, and the nation and society it stood for, were destroyed, when they became “like deer, not finding a place to graze, walking without strength before a pursuer.” (1:6)
 
-2. The author(s) of Eikhah (traditionally Jeremiah) believed that what happened to Jerusalem was an expression of divine judgment. The idea that tragedy and disaster are punishment for our sins may seem alien to most most modern Jews. This is also why it is hard to connect the Holocaust with Tish’a B’Av. But this theology can be consoling, because it allows people to find meaning in tragedy.
+2. The author(s) of Eikhah (traditionally Jeremiah) believed that what happened to Jerusalem was an expression of divine judgment. The idea that tragedy and disaster are punishment for our sins may seem alien to most most modern Jews. This is also why it is hard to connect the Holocaust with Tishah b'Av. But this theology can be consoling, because it allows people to find meaning in tragedy.
 
 3. For the ancients, the choices were to believe that the destruction was God’s punishment, or that God no longer cared about what happened to them. It is easy to imagine why people would choose a punishing God over an uncaring God (though the latter possibility is suggested in the very last verse:of Eikhah). Even though Eikhah sounds like it’s about God punishing us, it’s not really a theodicy, but a prayer that tragedies prove God still cares about us, instead of proving God’s indifference.
 

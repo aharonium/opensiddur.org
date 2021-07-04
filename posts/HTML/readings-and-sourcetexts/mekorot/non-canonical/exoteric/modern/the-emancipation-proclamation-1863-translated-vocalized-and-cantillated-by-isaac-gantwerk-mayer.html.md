@@ -11,6 +11,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 In honor of Juneteenth, the holiday of American liberation, this is a translation of Lincoln’s Emancipation Proclamation into Biblical Hebrew, largely read with Esther cantillation. The list of rebellious provinces is read quickly in a monotone, in the manner of the children of Haman. The line declaring that the proclamation does not apply in states under Union control, and extending slavery to 1865 in much of Louisiana and Virginia, is read in Lamentations trope. #BLM
 </div>
 
+<h3>Recording</h3>
+
+https://archive.org/download/hatsharat-haemantsipatsya-isaac-gantwerk-mayer-2020/Hatsharat%20Ha-Emantsipatsya%20%28Isaac%20Gantwerk%20Mayer%202020%29.mp3
+
 <hr />
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
@@ -113,10 +117,6 @@ A Transcription of <a href="https://www.archives.gov/exhibits/featured-documents
 [caption id="attachment_32305" align="alignnone" width="224"]<a href="https://opensiddur.org/wp-content/uploads/2020/06/preliminary-emancipation-proclamation-1024.jpg" rel="lightbox"><img src="https://opensiddur.org/wp-content/uploads/2020/06/preliminary-emancipation-proclamation-1024-224x300.jpg" alt="" width="224" height="300" class="size-medium wp-image-32305" /></a> Preliminary Emancipation Proclamation, January 1, 1863.[/caption]
 
 &nbsp;
-
-<h3>Recordings</h3>
-
-https://archive.org/download/hatsharat-haemantsipatsya-isaac-gantwerk-mayer-2020/Hatsharat%20Ha-Emantsipatsya%20%28Isaac%20Gantwerk%20Mayer%202020%29.mp3
 
 <hr />
 

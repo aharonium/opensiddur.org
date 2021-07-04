@@ -10,9 +10,9 @@ For attribution and license, please consult the following URL: <a href="http://o
 <div class="english" style="font-size: 1.2em;">
 Tisha b'Av (the midsummer day of Jewish mourning for the ancient Temples in Jerusalem, and of hope for a transformed future) can be focused on the endangered Earth as our Temple.
 
-Tisha b’Av, the ninth day of the month of Av, has historically been a day to mourn the Destruction of the First and Second Temples, centers of Israelite practice before the rise of Rabbinic Judaism (First Temple 975 BCE – 586 BCE; Second Temple 515 BCE – 70 CE) and the exiles that followed those destructions. Over the course of Jewish history this day of mourning and fasting has also come to commemorate many other tragedies that have befallen the Jewish people throughout history.
+Tishah b'Av, the ninth day of the month of Av, has historically been a day to mourn the Destruction of the First and Second Temples, centers of Israelite practice before the rise of Rabbinic Judaism (First Temple 975 BCE – 586 BCE; Second Temple 515 BCE – 70 CE) and the exiles that followed those destructions. Over the course of Jewish history this day of mourning and fasting has also come to commemorate many other tragedies that have befallen the Jewish people throughout history.
 
-This year we are beginning a new tradition. We are suggesting that in addition to, or instead of (depending on the norms of your community and personal practice) the traditional observance of Tisha b’Av, the time has come to use this powerful day to mourn the ongoing destruction of the “temple” that is our Earth, a tragedy for all peoples, creatures and living things, but one that is not complete and thus, with sufficient will and action, is in part, reversible.
+This year we are beginning a new tradition. We are suggesting that in addition to, or instead of (depending on the norms of your community and personal practice) the traditional observance of Tishah b'Av, the time has come to use this powerful day to mourn the ongoing destruction of the “temple” that is our Earth, a tragedy for all peoples, creatures and living things, but one that is not complete and thus, with sufficient will and action, is in part, reversible.
 
 Although this approach may seem highly non-traditional, there are some Jewish textual sources that lend themselves to make the leap from the Temple to the Earth:
 
@@ -22,15 +22,15 @@ According to some Rabbinic texts, the Temple was the center of the Earth – thu
 
 And the Temple offerings represented an effort to heal the spiritual defects of all aspects of earth -- mineral (salt), vegetation, animal life, and (through the songs of the Levites) the human community.
 
-In addition, we also draw on a midrash (rabbinic interpretation of a biblical text) about the first word of the Book of Lamentations/Eikha, the traditional text read on Tisha b’Av. This midrash links this first word ‘Eikha’ (also the name of the book in its entirety) to the question asked by God to Adam and Eve in the Garden of Eden narrative. Both words are written with the same exact Hebrew letters and are only differentiated through their different vocalizations.
+In addition, we also draw on a midrash (rabbinic interpretation of a biblical text) about the first word of the Book of Lamentations/Eikha, the traditional text read on Tishah b'Av. This midrash links this first word ‘Eikha’ (also the name of the book in its entirety) to the question asked by God to Adam and Eve in the Garden of Eden narrative. Both words are written with the same exact Hebrew letters and are only differentiated through their different vocalizations.
 
 The Rabbis link these textual moments, the moment that God is searching for Adam and Eve after they have transgressed and eaten from the Tree of Knowledge of Good and Evil with the opening “Alas” of Lamentations. By linking the exile of the Jews from Israel with the exile of Adam and Eve from the Garden of Eden, the Rabbis link the particularistic story to the universalistic story, giving us the seeds to link what has been a holiday about the particular suffering of Jews with the need for a day of mourning for the universal suffering of the Earth and all its peoples and life forms.
 
-The midrash, read in the context of a Tisha b’Av for the Earth, also focuses our attention on perhaps a new way to read the transgression of Adam and Eve, as a story about the difficulty the first humans, like humanity in our day, were not able to honor the boundaries set out for them about what of Eden’s bounty to enjoy and what to refrain from consuming.
+The midrash, read in the context of a Tishah b'Av for the Earth, also focuses our attention on perhaps a new way to read the transgression of Adam and Eve, as a story about the difficulty the first humans, like humanity in our day, were not able to honor the boundaries set out for them about what of Eden’s bounty to enjoy and what to refrain from consuming.
 
 If you want to study any of these texts with your gathered group, please return to this website soon, and you will find them linked here, in a format accessible for group study.
 
-What follows is the text of what such an Earth-centered prayerful mourning/ action/ celebration might look like. Although we have put considerable energy into working this out, it is not carved in stone. We encourage communities to work out their own changes or additions. Whatever you do, please let us at the Shalom Center, know what your plans are. Write us at <a href="mailto:office@theshalomcenter.org">office@theshalomcenter.org</a> We will use this information to help local people who are looking for a Tisha b’Av for the Earth in your area find you. It will also give all of us a sense of being part of a larger national, and perhaps even international community.
+What follows is the text of what such an Earth-centered prayerful mourning/ action/ celebration might look like. Although we have put considerable energy into working this out, it is not carved in stone. We encourage communities to work out their own changes or additions. Whatever you do, please let us at the Shalom Center, know what your plans are. Write us at <a href="mailto:office@theshalomcenter.org">office@theshalomcenter.org</a> We will use this information to help local people who are looking for a Tishah b'Av for the Earth in your area find you. It will also give all of us a sense of being part of a larger national, and perhaps even international community.
 
 <h3>Setting and Presentation</h3>
 
@@ -42,10 +42,10 @@ You may also choose, if you have the capability, to show a slide show of images 
 
 The English can be read responsively or with each person reading one stanza and going around in a circle and the whole group joining together for the repeating refrain of “Hashiveinu.”
 
-For groups that have generally gathered for a more traditional Tisha b’Av Service, have a discussion, before or after your chanting, about what it means to bring this new level of meaning to the observance of Tisha b’Av. Some possible questions for your discussion:
+For groups that have generally gathered for a more traditional Tishah b'Av Service, have a discussion, before or after your chanting, about what it means to bring this new level of meaning to the observance of Tishah b'Av. Some possible questions for your discussion:
 <ul>
-	<li>Do we need a day of mourning for the Earth? If so, what do you think it should look like? What is the relationship between such a day and Earth Day? What are other contemporary resonances you see for Tisha b’Av? Can it work for you as a day about the Earth and about senseless hatred between Jews or is that too much for one day to hold?</li>
-	<li>It is said that the Messiah will be born on Tisha b’Av. While many of us do not believe in an actual human being who be a messiah come to save the world, we might still find inspiration in the idea of a messianic age –-- a time very different from our current reality in which peace and justice reign. How do you think the seeds of such a time could be planted by you and your community on this Tisha b’Av? What would that look like?</li>
+	<li>Do we need a day of mourning for the Earth? If so, what do you think it should look like? What is the relationship between such a day and Earth Day? What are other contemporary resonances you see for Tishah b'Av? Can it work for you as a day about the Earth and about senseless hatred between Jews or is that too much for one day to hold?</li>
+	<li>It is said that the Messiah will be born on Tishah b'Av. While many of us do not believe in an actual human being who be a messiah come to save the world, we might still find inspiration in the idea of a messianic age –-- a time very different from our current reality in which peace and justice reign. How do you think the seeds of such a time could be planted by you and your community on this Tishah b'Av? What would that look like?</li>
 	<li>The text of Eikha speaks about “our enemies” who destroyed the Temple and Jerusalem. Historically the First Temple was destroyed by the Babylonian Empire and the Second Temple by the Roman Empire. Yet the Rabbis blame the destruction of the Temples on actions of the People Israel –- for the first Temple, according to the Rabbis the sins of idolatry, sexual immorality and bloodshed, and the Second Temple because of senseless hatred among Jews.</li>
 	<li>When it comes to thinking about “enemies” in the context of our current environmental crisis, we too can look outward at the visible big scale enemies like oil and coal companies causing destruction or we can follow the Rabbinic impulse and look inward at the forces of which we are a part that have led to our current state of environmental destruction -- or both.. What do you think? Is the language of “enemies” helpful or outdated? Should we focus our energy on changing ourselves and our communities or on fighting large companies and governmental policies? What is the right balance for you and your community?</li>
 </ul>
@@ -77,7 +77,7 @@ The gathering could end by chanting. Any of these passages might suffice.</li>
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<h3><b>Part 1. Eikha / Lament for the Earth: Tisha B’Av</b></h3>
+<h3><b>Part 1. Eikha / Lament for the Earth: Tishah b'Av</b></h3>
 <b>By Tamara Cohen (Barbara Bick Memorial Fellow of The Shalom Center, 2010)</b>
 </div></td></tr>
 

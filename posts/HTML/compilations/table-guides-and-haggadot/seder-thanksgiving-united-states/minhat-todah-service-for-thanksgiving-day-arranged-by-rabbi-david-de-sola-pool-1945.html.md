@@ -2,7 +2,7 @@
 <head></head>
 <body>
 Title: מנחת תודה | Minḥat Todah :: Service for Thanksgiving Day, arranged by Rabbi David de Sola Pool (1945)<br />
-Primary contributor: isaac-gantwerk.mayer<br />
+Primary contributor: aharon-nissen.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=28238">http://opensiddur.org/?p=28238</a>
 <p />
 <hr />

@@ -17,151 +17,162 @@ It is intended for performing musicians to say or on which to meditate before pe
 
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;">
+<table style="margin-left: auto;margin-right: auto;" class="draggable">
+<thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;"><a href="/contribute/upload">Contribute a translation</a></th></tr></thead>
 <tbody>
-<tr>
-<td style="vertical-align: top;" width="46%">
-<div class="liturgy"><span lang="he"><span lang="he">
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
 הַחֽוֹנֵן לְדָוִיד מִזְמוֹר,‏
 הַנֽוֹתֵן שִיר לְבֶן־יִשַי בְחַסְדוֹ הוּא יַעֲזֹר,‏
 וּשְכִינָתוֹ יִשְרֶה עָלַי
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 שֶאֲזַמֵר בְקוֹל טָהוֹר,‏
 זְמִירוֹת טוֹבוֹת לֶאלֹהַי
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 שֶבַח נֵבֶל וְעָשׂוֹר,‏
 לְהַלֵל בְשִׂמְחוֹתַי
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 עֲלֵי הִגָיוֹן בְכִנוֹר,‏
 יְהִי בְרָכָה כָל תָו דְרָכַי
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 אָז אָשִיר לוֹ כְמוֹ צִפּוֹר,‏
 לְיַיפּוֹת אֶת בִרְכוֹתַי
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 יְשִישוֹ נָא בְנִי הַדוֹר,‏
 יָגִילוּ הֵם בְמַנְגִינַי
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 לִרְנָנָה הוּא הַמָקוֹר,‏
 וְהוּא רֵאשִית לְכָל שִירַי
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 שִיר שֶלוֹ הוּא שִיר שֶל אוֹר,‏
 יִפְתַח שִפְעוֹ אֶת שְׂפָתַי
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 לִפְנֵי כִסְאוֹ זְכוּת וּמִישוֹר,‏
 קָהָל יָהּ יֵש לְפָנַי
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 יְהִי רָצוֹן הָאֵל גִבוֹר,‏
 הַשּׁוֹמֵעַ תְפִלוֹתַי
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 שֶכָל הַנְשָמָה תִזְכֹר,‏
 אַל תִשְכַח אֶת שְתֵי אוֹזְנַי
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 שִירָה זֹאת אֹמַר לֵאמֹר,‏
 אָשִיר לָךְ כָל יְמֵי חַיַי
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 
 </div></td></tr>
 </tbody></table>
 
-<div class="liturgy"><span lang="he">
-פיוט למוזיקאי קודם שיופיע
-מאת חנן יהודה בן נתן נטע סופרין
-</span></div>
-
 <hr />
+
+<span class="hebrew">פיוט למוזיקאי קודם שיופיע מאת חנן יהודה בן נתן נטע סופרין</span>
 
 <h3>Source</h3>
 
-[gview file="https://opensiddur.org/wp-content/uploads/2013/03/Alan-Jay-Sufrin_-_Performing-Musicians-Piyut.pdf"]
+https://opensiddur.org/wp-content/uploads/2013/03/Alan-Jay-Sufrin_-_Performing-Musicians-Piyut.pdf
+
+&nbsp;
 </body>
 </html>

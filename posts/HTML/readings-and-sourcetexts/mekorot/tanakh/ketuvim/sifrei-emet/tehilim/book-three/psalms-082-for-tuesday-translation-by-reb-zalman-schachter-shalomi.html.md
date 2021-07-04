@@ -38,7 +38,7 @@ This psalm was the Tuesday song of the Levites in the Holy Temple.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<sup>1</sup>&nbsp;Assaph sings:
+<sup>1</sup>&nbsp;<span class="instruction">Assaph sings:</span>
 God is present 
 to the godly gathering.
 He presides among those
