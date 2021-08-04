@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: &#8220;Color-Coded Prayerbook Devised by Rabbi&#8221; (Springfield Republican, 1972)<br />
+Title: “Color-Coded Prayerbook Devised by Rabbi” (Martin Lauer, Springfield Republican 1972)<br />
 Primary contributor: hierophant<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=1346">http://opensiddur.org/?p=1346</a>
 <p />
@@ -9,7 +9,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 [caption id="attachment_1350" align="alignright" width="260" caption="Crop of Color Key from the Bookmark included with the Polychrome Historic Haggadah (image not included in original article)"]<a href="https://opensiddur.org/wp-content/uploads/2010/08/Polychrome-Historical-Prayerbook-Color-Coding-Schema-crop.jpg"><img class="size-medium wp-image-1350" title="Polychrome Historical Prayerbook Color Coding Schema" src="https://opensiddur.org/wp-content/uploads/2010/08/Polychrome-Historical-Prayerbook-Color-Coding-Schema-crop-260x300.jpg" alt="" width="260" height="300" /></a>[/caption]
 
-<div class="english">
+<div class="english" style="font-size: 1.2em;">
 <h3>Color-Coded Prayerbook Devised by Rabbi</h3>
 <em>Springfield Republican</em>, May 21st, 1972 by Martin Lauer 
 
@@ -50,6 +50,8 @@ He has been a rabbi for 42 years, serving congregations in Chelsea, Fall River, 
 
 Above is a transcription of Rabbi Freedman's <a class="pdf" href="https://opensiddur.org/wp-content/uploads/2010/08/1972-05-21-Martin-Lauer-Color-Coded-Prayerbook-Devised-by-Rabbi-newsclipping.pdf">news clipping</a> of the article by Lauer. Obvious typos and misspellings have been corrected. Thank you to Harry Aizenstadt for contributing this clipping to us.
 
-<img class="alignright" src="https://opensiddur.org/wp-content/uploads/2009/06/Jacob-Freedman-crop.png" alt="" width="136" height="207" />In our <a href="https://opensiddur.org/development/history/">project history</a>, we explain how Rabbi Jacob Freedman's Polychrome Historical Haggadah was a major inspiration behind our vision for an open siddur project. While researching it's history I was so pleased to discover that the <em>haggadah</em> Rabbi Freedman managed to self-publish in 1974 to rave reviews, was really only a proof-of-concept for his life's ambition -- a Polychrome Historical Siddur. Rabbi Freedman published a <a class="pdf" href="https://opensiddur.org/wp-content/uploads/2009/12/Jacob_Freedman_-_Polychrome_Historical_Prayerbook.pdf">brochure</a> outlining the scope and color of his envisioned siddur in 1969. In the papers of Rabbi Freedman donated to the Open Siddur Project by Harry Aizenstadt and Lisa Rubins, this article printed May 21st, 1972 by Martin Lauer in the Springfield Republican describes the completed siddur that Freedman was never able to publish in his lifetime. -- Aharon Varady
+In our <a href="https://opensiddur.org/development/history/">project history</a>, we explain how Rabbi Jacob Freedman's Polychrome Historical Haggadah was a major inspiration behind our vision for an open siddur project. While researching it's history I was so pleased to discover that the <em>haggadah</em> Rabbi Freedman managed to self-publish in 1974 to rave reviews, was really only a proof-of-concept for his life's ambition -- a Polychrome Historical Siddur. Rabbi Freedman published a <a class="pdf" href="https://opensiddur.org/wp-content/uploads/2009/12/Jacob_Freedman_-_Polychrome_Historical_Prayerbook.pdf">brochure</a> outlining the scope and color of his envisioned siddur in 1969. In the papers of Rabbi Freedman donated to the Open Siddur Project by Harry Aizenstadt and Lisa Rubins, this article printed May 21st, 1972 by Martin Lauer in the Springfield Republican describes the completed siddur that Freedman was never able to publish in his lifetime. -- Aharon Varady
+
+&nbsp;
 </body>
 </html>

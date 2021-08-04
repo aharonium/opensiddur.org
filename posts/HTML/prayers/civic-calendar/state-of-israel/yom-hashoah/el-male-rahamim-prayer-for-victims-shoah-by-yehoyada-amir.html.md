@@ -242,7 +242,7 @@ al libertății asupra subjugării.
 <td style="vertical-align:top;"><div class="english">
 Master of compassion, safeguard them in your wings forever 
 and bind their souls in the everlasting matrix of life. 
-May they rest in Gan Eden, 
+May they rest in Gan Aden, 
 may Hashem be their inheritance, 
 and may they rest in peace wherever they may be lying. 
 </div></td>
@@ -294,12 +294,14 @@ And let us say: <em>Amen</em>.
 fie o sursă de merit pentru noi, 
 pentru tot Israelul, 
 și pentru toți cei care luptă pentru libertate, dreptate și pace. 
-Și să spunem: Amin.
+Și să spunem: <em>Amin</em>.
 </span></div></td>
 </tr></tbody></table>
 
 <hr />
 
 Translation of Rabbi Yehoyada Amir's "El Male Raḥamim Prayer for the Victims of the Shoah" from Hebrew into English by Aharon Varady, reviewed and corrected by R' Hillel Lavery-Yisraëli. The Romanian translation was offered by Mona Lantz Levi. Lada Moskalets translated the prayer into Ukrainian. <a href="https://opensiddur.org/contact/">Please contribute</a> a translation of the prayer in your language. 
+
+&nbsp;
 </body>
 </html>

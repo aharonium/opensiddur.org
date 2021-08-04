@@ -1,12 +1,13 @@
 <html>
 <head></head>
 <body>
-Title: &#8220;Ten Commandments of Jewish Social Networking&#8221; (Jewish Journal of Greater Los Angeles 2010)<br />
+Title: “Ten Commandments of Jewish Social Networking” (Jonah Lowenfeld, Jewish Journal of Greater Los Angeles 2010)<br />
 Primary contributor: hierophant<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=1613">http://opensiddur.org/?p=1613</a>
 <p />
 <hr />
 
+<div class="english" style="font-size: 1.2em;">
 A belated post that our humble project was mentioned in a cover story in the Jewish Journal of Greater Los Angeles on September 28th, 2010. Thanks to writer Jonah Lowenfeld, a very patient interviewer. In his article, "<a href="http://web.archive.org/web/20140106031708/http://www.jewishjournal.com/articles/print/the_ten_commandments_of_social_networking_20100928/">The Ten Commandments of social networking</a>" Jonah felt the Open Siddur Project exemplified the eighth commandment:
 
 <blockquote>[No.] 8. Don’t steal content; share.
@@ -34,5 +35,10 @@ This oneness has to exist on the three planes of thought, word, and deed. The ta
 The word <em>nefesh</em>, used for the "seventy souls" [who went into Egypt], appears to be singular. They all worshiped the same God, had the same longing and desire in their hearts. All of them were turned to God, and thus they became a single nation.</blockquote>
 
 The Open Siddur Project envisions Jewish spirituality as a shared and collaborative project that is rooted in the wisdom of our traditions and which finds expression through the evolving diversity of our communities and the intimate experiences of our individual relationships. Much like the <em>mishkan</em>, the traveling tent of meeting (or tabernacle) was the focal point for those creatively inspired Israelites to share their work, כֹּל אֲשֶׁר נְשָׂאוֹ לִבּוֹ, as their hearts were stirred (Exodus 36:2), so too we see the Open Siddur Project as a kind of יִחוּד, a unification of holy כַּוָּנוֹת (intentions) for those sharing their חִדּוּשִׁים (innovations) in Jewish spiritual practice, in sacred liturgy, in meditations and exercises, and in understanding through translations and commentary. In an age when our עֲבוֹדָה <em>avodah</em> (intentional practice) is expressed by communities and individuals in a multiplicity of ways, it behooves us to take our avodah seriously, respect and reflect this diversity, and provide the means for crafting newly designed סִידּוּרִים <em>Siddurim</em> accordingly. The Open Siddur Project is a community, space, and licensing framework for sharing those designs and enrich our individual and communal avodah with each others’ creativity and insight.
+</div>
+
+<hr />
+
+&nbsp;
 </body>
 </html>

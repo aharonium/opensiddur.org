@@ -489,7 +489,7 @@ He has constrained our fellow Citizens taken Captive on the high Seas to bear Ar
 
 <td style="vertical-align:top;">
 <div class="english">
-He has excited domestic insurrections amongst us, and has endeavoured to bring on the inhabitants of our frontiers, the merciless Indian Savages, whose known rule of warfare, is an undistinguished destruction of all ages, sexes and conditions.
+He has excited domestic insurrections amongst us, and has endeavoured to bring on the inhabitants of our frontiers, the merciless Indian Savages,[foot]The language here in Clause 27 of the Declaration is derogatory by intention -- rhetoric intended to unify the nascent United States in the popular hatred of the indigenous peoples which they were at war with <a href="https://www.npr.org/2021/07/02/1012680822/examining-a-racist-passage-in-the-declaration-of-independence">even while consulting them</a> on matters of establishing large political confederations.[/foot] whose known rule of warfare, is an undistinguished destruction of all ages, sexes and conditions.
 </div></td></tr>
 
 
@@ -903,7 +903,7 @@ The Yiddish translation is one of two made of the Declaration of Independence I 
 
 &nbsp;
 
-https://opensiddur.org/wp-content/uploads/2019/07/US-Declaration-of-Independence-Hebrew-trans.-1945-cleaned-up.pdf
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/us-declaration-of-independence-hebrew-translation-hen-melekh-merkhaviyah-1945/US%20Declaration%20of%20Independence%20-%20Hebrew%20trans.%20%28Hen%20Melekh%20Merkhaviyah%201945%29#page/n0/mode/2up"]
 
 &nbsp;
 </body>

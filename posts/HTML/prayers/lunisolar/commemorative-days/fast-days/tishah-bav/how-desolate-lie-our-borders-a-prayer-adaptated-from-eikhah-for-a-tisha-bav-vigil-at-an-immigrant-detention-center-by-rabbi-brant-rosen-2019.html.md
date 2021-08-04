@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: How Desolate Lie Our Borders, a prayer adaptated from Eikhah for a Tisha b'Av vigil at an immigrant detention center by Rabbi Brant Rosen (2019)<br />
+Title: How Desolate Lie Our Borders, a prayer adaptated from Eikhah for a Tishah b'Av vigil at an immigrant detention center by Rabbi Brant Rosen (2019)<br />
 Primary contributor: RavBoaz<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=37524">http://opensiddur.org/?p=37524</a>
 <p />

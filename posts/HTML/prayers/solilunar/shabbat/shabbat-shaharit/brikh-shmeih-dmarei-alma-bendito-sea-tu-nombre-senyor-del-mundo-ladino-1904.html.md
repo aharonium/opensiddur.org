@@ -32,7 +32,7 @@ Bendito sea Tu nombre, Senyor del Mundo, i bendita Tu korona i Tu trono.
  
 <td style="vertical-align:top;">
 <div class="english">
-Blessed be the name of the Master of the Universe, blessed be Your crown and Your throne.. 
+Blessed be the name of the Master of the Universe, blessed be Your crown and Your throne. 
 </div></td></tr>
 
 

@@ -149,7 +149,6 @@ The prayer by the ARI z"l was first published in Ḥayim Vital's <em>Pri Ets Ḥ
 
 <blockquote>
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;">Source (Talmud Bavli)</th><th style="text-align: left;">Translation (English, William Davidson edition, <a href="https://www.sefaria.org/Pesachim.66b.7/he/William_Davidson_Edition_-_Aramaic?lang=bi">Sefaria</a>)</th></tr></thead>
 <tbody>
 <tr>
 <td style="vertical-align:top;">
@@ -158,32 +157,22 @@ The prayer by the ARI z"l was first published in Ḥayim Vital's <em>Pri Ets Ḥ
 </span></div></td>
  
 <td style="vertical-align:top;"><div class="english">
-Similarly, Reish Lakish said: Any person who becomes angry, if he is a Torah scholar, his wisdom departs from him, and if he is a prophet, his prophecy departs from him. The Gemara explains: That if he is a Torah scholar his wisdom departs from him is learned from Moshe, as it is written: “And Moshe became angry with the officers of the host, the captains over thousands and the captains over hundreds, who came from the battle” (Numbers 31:14). And what was his punishment? As it is written afterward: “And Elazar the priest said to the men of war who went to the battle: This is the statute of the law, which YHVH commanded Moshe” (Numbers 31:21), which proves by inference that this law had become hidden from Moshe due to his anger.
-</div></td>
- </tr>
-</tbody></table>
-</blockquote>
+Similarly, Reish Lakish said: Any person who becomes angry, if he is a Torah scholar, his wisdom departs from him, and if he is a prophet, his prophecy departs from him. The Gemara explains: That if he is a Torah scholar his wisdom departs from him is learned from Moshe, as it is written: “And Moshe became angry with the officers of the host, the captains over thousands and the captains over hundreds, who came from the battle” (Numbers 31:14). And what was his punishment? As it is written afterward: “And Elazar the priest said to the men of war who went to the battle: This is the statute of the law, which YHVH commanded Moshe” (Numbers 31:21), which proves by inference that this law had become hidden from Moshe due to his anger. (Pesachim 66b)
+</div></td></tr>
 
-<blockquote>
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;">Source (Talmud Bavli)</th><th style="text-align: left;">Translation (English, William Davidson edition, <a href="https://www.sefaria.org/Megillah.28a.8/he/William_Davidson_Edition_-_Aramaic?lang=bi&with=all&lang2=en">Sefaria</a>)</th></tr></thead>
-<tbody>
-<tr>
-<td style="vertical-align:top;">
+
+<tr><td style="vertical-align:top;">
 <div class="commentary"><span lang="he">
 ולא עלתה על מטתי קללת חברי כי הא דמר זוטרא כי הוה סליק לפורייה אמר שרי ליה לכל מאן דצערן
 </span></div></td>
  
 <td style="vertical-align:top;"><div class="english">
-Rabbi Neḥunya also said: Nor did I ever allow the resentment caused by my fellow’s curse to go up with me upon my bed. This is referring to conduct such as that of Mar Zutra. When he would go to bed at night, he would first say: "I forgive anyone who has vexed me."
-</div></td>
- </tr>
+Rabbi Neḥunya also said: Nor did I ever allow the resentment caused by my fellow’s curse to go up with me upon my bed. This is referring to conduct such as that of Mar Zutra. When he would go to bed at night, he would first say: "I forgive anyone who has vexed me." (Megillah 28a)
+</div></td></tr>
 </tbody></table>
 </blockquote>
 
 <h3>Source(s)</h3>
-
-<h3>Source</h3>
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/SiddurTehillatHaShemYedaberPiWeekdaySiddur#page/n51/mode/2up"]
 

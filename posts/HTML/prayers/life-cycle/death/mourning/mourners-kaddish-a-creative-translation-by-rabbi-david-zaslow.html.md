@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: קדיש יתום | Mourners' Kaddish: A Creative Translation, by Rabbi David Zaslow<br />
+Title: קדיש יתום | Mourner's Ḳaddish: A Creative Translation, by Rabbi David Zaslow<br />
 Primary contributor: david.zaslow<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=35922">http://opensiddur.org/?p=35922</a>
 <p />
@@ -16,7 +16,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 בְּעָלְמָא דִּי בְרָא כִרְעוּתֵהּ 
 וְיַמְלִיךְ מַלְכוּתֵהּ,
 &nbsp;
-בְּחַיֵּיכוֺן וּבְיוֹמֵיכוֹן
+בְּחַיֵּיכוֹן וּבְיוֹמֵיכוֹן
 וּבְחַיֵּי דְכָל בֵּית יִשְׂרָאֵל, בַּעֲגָלָא וּבִזְמַן קָרִיב.
 וְאִמְרוּ אָמֵן׃
 </span></div></td>

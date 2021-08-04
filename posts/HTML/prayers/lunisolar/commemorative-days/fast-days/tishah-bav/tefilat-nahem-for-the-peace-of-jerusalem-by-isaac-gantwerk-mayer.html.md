@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: תפילת נחם לשלם בירושלם | Tefilat Naḥem for the Peace of Jerusalem on Tisha b'Av, by Isaac Gantwerk Mayer<br />
+Title: תפילת נחם לשלם בירושלם | Tefilat Naḥem for the Peace of Jerusalem on Tishah b'Av, by Isaac Gantwerk Mayer<br />
 Primary contributor: isaac-gantwerk.mayer<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=20201">http://opensiddur.org/?p=20201</a>
 <p />

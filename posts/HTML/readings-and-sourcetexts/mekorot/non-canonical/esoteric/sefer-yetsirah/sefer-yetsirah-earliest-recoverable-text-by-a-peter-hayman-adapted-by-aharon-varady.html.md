@@ -110,8 +110,8 @@ Test them and investigate them,
 <div class="liturgy"><span lang="he">
 <span class="citation">&nbsp;</span>
 עֶשֶׂר סְפִירוֹת בְּלִי־מָה 
-בְּלוּם פִּיךָ מְלְּדַבֵּר 
-בְּלוּם לִבְּךָ מִלְּהַרְהֵר 
+בְּלוֹם פִּיךָ מְלְּדַבֵּר 
+בְּלוֹם לִבְּךָ מִלְּהַרְהֵר 
 וְאִם רָץ לִיבְּךָ שׁוּב לְמָקוֹם 
 שֶׁכַּךְ נֶאֱמַר <span class="scribe">רָצוֹא וָשׁוֹב</span> <span class="citation">(יחזקאל א:יד)</span>
 וְעַל דָּבָר זֶה נִכְרְתָה בְרִית.
@@ -121,7 +121,7 @@ Test them and investigate them,
 <div class="english">
 <span class="citation">[§5]</span>
 Ten <em>sefirot</em> of <em>bli-mah</em>:
- restrain (<em>b'lum</em>) your mouth from speaking, 
+ restrain (<em>b'lom</em>) your mouth from speaking, 
 restrain your mind (<em>lev</em>)[foot]literally, heart but it always bears repeating that until recently, the heart was the locus of the mind as attested by Galen.[/foot] from thinking.
  And if your mind races return to the Maqom, 
 for thus it is written "running and returning" <span class="citation">(Ezekiel 1:14)</span>. 
@@ -863,8 +863,8 @@ and formed with them constellations, the months, and the principle (bodily) orga
 <div class="liturgy"><span lang="he">
 <span class="citation">&nbsp;</span>
 [אֵילּוּ עֶשְׂרִים וּשְׁתַּיִם אוֹתִיּוֹת 
-שֶׁבָּהֶן יָסַד יָהּ יהוה צְבָאוֹת אֱלֹהִים חַיִּים אֱלֹהֵי יִשְׂרָאֵל <span class="citation">(ישעיה נז:טו)</span>
-<span class="scribe">רָם וְנִשָּׂא שֹׁכֵן עַד וְקָדוֹשׁ שְׁמוֹ</span>]
+שֶׁבָּהֶן יָסַד יָהּ יהוה צְבָאוֹת אֱלֹהִים חַיִּים אֱלֹהֵי יִשְׂרָאֵל 
+<span class="scribe">רָם וְנִשָּׂא שֹׁכֵן עַד וְקָדוֹשׁ שְׁמוֹ</span> <span class="citation">(ישעיה נז:טו)</span>]
 </span></div></td>
 
 <td style="vertical-align:top;">

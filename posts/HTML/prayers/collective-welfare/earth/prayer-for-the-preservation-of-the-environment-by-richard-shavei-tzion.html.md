@@ -11,6 +11,8 @@ For attribution and license, please consult the following URL: <a href="http://o
 At this time when mankind is wreaking havoc on our Eco-System, we pray to God to preserve the treasure that is the earth and to grant us the wisdom to make pro-active efforts to protect it for the sake of our future generations and all which dwell upon it.
 </div>
 
+<hr />
+
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
@@ -117,10 +119,7 @@ for eternity,
 </div></td></tr>
 </tbody></table>
 
-<hr />
+&nbsp;
 
-<h3>Source(s)</h3>
-
-https://opensiddur.org/wp-content/uploads/2019/06/Prayer-for-the-Preservation-of-the-Environment-Richard-Shavei-Tzion-2019.pdf
 </body>
 </html>

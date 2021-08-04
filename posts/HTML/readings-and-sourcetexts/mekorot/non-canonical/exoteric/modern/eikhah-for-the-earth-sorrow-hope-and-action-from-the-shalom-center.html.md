@@ -1,14 +1,14 @@
 <html>
 <head></head>
 <body>
-Title: תשעה באב | Eikha for the Earth: Sorrow, Hope, and Action from the Shalom Center<br />
+Title: Eikhah for the Earth: Sorrow, Hope, and Action from the Shalom Center<br />
 Primary contributor: arthur.waskow<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=8984">http://opensiddur.org/?p=8984</a>
 <p />
 <hr />
 
 <div class="english" style="font-size: 1.2em;">
-Tisha b'Av (the midsummer day of Jewish mourning for the ancient Temples in Jerusalem, and of hope for a transformed future) can be focused on the endangered Earth as our Temple.
+Tishah b'Av (the midsummer day of Jewish mourning for the ancient Temples in Jerusalem, and of hope for a transformed future) can be focused on the endangered Earth as our Temple.
 
 Tishah b'Av, the ninth day of the month of Av, has historically been a day to mourn the Destruction of the First and Second Temples, centers of Israelite practice before the rise of Rabbinic Judaism (First Temple 975 BCE – 586 BCE; Second Temple 515 BCE – 70 CE) and the exiles that followed those destructions. Over the course of Jewish history this day of mourning and fasting has also come to commemorate many other tragedies that have befallen the Jewish people throughout history.
 
@@ -36,7 +36,7 @@ What follows is the text of what such an Earth-centered prayerful mourning/ acti
 
 Choose a place for your gathering. Things to think about: Do you want to meet at synagogue or community center? At a space that has been used for interfaith gathering? At a more public space in your community? At a riverside or lakeside outdoors? At a place denoting political power -- e.g. a Senator's Home Office, a regional EPA headquarters, etc? By a gas station or power plant or other visible symbol of fossil fuel and dirty energy in your local community?
 
-If you plan to use our English readings as a supplement to the <a href="https://opensiddur.org/keriyat-hatorah/megillat-eikhah-lamentations-for-tisha-bav-by-rabbi-david-seidenberg/">traditional Eikha</a>, you can do that either by reading one section between each of the five chapters of Eikha, or by using the readings at the end or the beginning and end of your Eikha to frame or deepen the meaning of the reading. In this way, our Eikha joins the tradition of <em>kinnot</em> (dirges sung after the chanting of Eikhah that often focus on other times of destruction in addition to the destruction of the Temples.)
+If you plan to use our English readings as a supplement to the <a href="https://opensiddur.org/keriyat-hatorah/megillat-eikhah-lamentations-for-tisha-bav-by-rabbi-david-seidenberg/">traditional Eikha</a>, you can do that either by reading one section between each of the five chapters of Eikha, or by using the readings at the end or the beginning and end of your Eikhah to frame or deepen the meaning of the reading. In this way, our Eikhah joins the tradition of <em>kinnot</em> (dirges sung after the chanting of Eikhah that often focus on other times of destruction in addition to the destruction of the Temples.)
 
 You may also choose, if you have the capability, to show a slide show of images of the BP oil disaster and other threats to the environment, during or after your Hebrew reading of Eikha. For an example, see the <a href="https://www.youtube.com/user/TheShalomCenter/videos">Shalom Center Youtube video</a>.
 
@@ -46,18 +46,18 @@ For groups that have generally gathered for a more traditional Tishah b'Av Servi
 <ul>
 	<li>Do we need a day of mourning for the Earth? If so, what do you think it should look like? What is the relationship between such a day and Earth Day? What are other contemporary resonances you see for Tishah b'Av? Can it work for you as a day about the Earth and about senseless hatred between Jews or is that too much for one day to hold?</li>
 	<li>It is said that the Messiah will be born on Tishah b'Av. While many of us do not believe in an actual human being who be a messiah come to save the world, we might still find inspiration in the idea of a messianic age –-- a time very different from our current reality in which peace and justice reign. How do you think the seeds of such a time could be planted by you and your community on this Tishah b'Av? What would that look like?</li>
-	<li>The text of Eikha speaks about “our enemies” who destroyed the Temple and Jerusalem. Historically the First Temple was destroyed by the Babylonian Empire and the Second Temple by the Roman Empire. Yet the Rabbis blame the destruction of the Temples on actions of the People Israel –- for the first Temple, according to the Rabbis the sins of idolatry, sexual immorality and bloodshed, and the Second Temple because of senseless hatred among Jews.</li>
+	<li>The text of Eikhah speaks about “our enemies” who destroyed the Temple and Jerusalem. Historically the First Temple was destroyed by the Babylonian Empire and the Second Temple by the Roman Empire. Yet the Rabbis blame the destruction of the Temples on actions of the People Israel –- for the first Temple, according to the Rabbis the sins of idolatry, sexual immorality and bloodshed, and the Second Temple because of senseless hatred among Jews.</li>
 	<li>When it comes to thinking about “enemies” in the context of our current environmental crisis, we too can look outward at the visible big scale enemies like oil and coal companies causing destruction or we can follow the Rabbinic impulse and look inward at the forces of which we are a part that have led to our current state of environmental destruction -- or both.. What do you think? Is the language of “enemies” helpful or outdated? Should we focus our energy on changing ourselves and our communities or on fighting large companies and governmental policies? What is the right balance for you and your community?</li>
 </ul>
 
 
 <h3>Parts of the Service:</h3>
 <ol>
-	<li>An English-language Lament for the earth, woven from some underlying sense of the meaning of the Book of Lamentations/ Eikha, traditionally read on Tisha b'Av.
-This Lament for the earth can be chanted according to the ancient wailing Lamentations melody, or not.It can be used as it is, or woven in part or in whole into a more traditional reading of Eikha.It could be read /chanted on Tisha b'Av itself and/or on perhaps the Sunday before, when many people who might not take part in such an event on a weekday might do so on Sunday. It could be read as shown here, with the "Hashivenu" passage of hope interwoven with lament, or that passage could be held to the end, as it is in the original Eikha. This lament for the Earth could be treated as one among Kinot (traditionally, poems of sorrow about various disasters that have befallen the Jewish people) that are often added to the liturgy of Tisha B'Av.Some communities may also wish to take note of sorrow and hope for other troubles and travails arising in Jewish or multireligious awareness today.</li>
+	<li>An English-language Lament for the earth, woven from some underlying sense of the meaning of the Book of Lamentations/ Eikha, traditionally read on Tishah b'Av.
+This Lament for the earth can be chanted according to the ancient wailing Lamentations melody, or not.It can be used as it is, or woven in part or in whole into a more traditional reading of Eikhah. It could be read /chanted on Tishah b'Av itself and/or on perhaps the Sunday before, when many people who might not take part in such an event on a weekday might do so on Sunday. It could be read as shown here, with the "Hashivenu" passage of hope interwoven with lament, or that passage could be held to the end, as it is in the original Eikha. This lament for the Earth could be treated as one among Kinot (traditionally, poems of sorrow about various disasters that have befallen the Jewish people) that are often added to the liturgy of Tishah b'Av.Some communities may also wish to take note of sorrow and hope for other troubles and travails arising in Jewish or multireligious awareness today.</li>
 	<li>A <em>Kinah</em> -- "We are the generation that lives between the fires," a litany of sorrow and hope (optional)</li>
 	<li>A passage from the Song of Songs that celebrates a loving awareness of the intertwining of all life, a planetary community.
-Drawing on the rabbinic tradition that the Messiah was/ is born on Tisha b'Av but has not yet been revealed because the world is not yet ready for the necessary transformation, we include this passage and a chant from the Song by Rabbi Shefa Gold.</li>
+Drawing on the rabbinic tradition that the Messiah was/ is born on Tishah b'Av but has not yet been revealed because the world is not yet ready for the necessary transformation, we include this passage and a chant from the Song by Rabbi Shefa Gold.</li>
 	<li>Several brief demands or proposals for change in public policy.
 In our generation, messianic hope must be encoded into public action. Specific communities, congregations, or groups could change these as their own concerns point the way. These demands or proposals could be encoded into petitions, could be presented to public officials, corporate or union leaders, etc. (You can draw on The Shalom Center's "Seven Principles for Public Policy" by <a href="http://www.theshalomcenter.org/node/1588">clicking here</a>.)</li>
 	<li>A passage from Isaiah and/or by reading together Psalm 104 or 148 or a contemporary poetic celebration of the earth.
@@ -77,7 +77,7 @@ The gathering could end by chanting. Any of these passages might suffice.</li>
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<h3><b>Part 1. Eikha / Lament for the Earth: Tishah b'Av</b></h3>
+<h3><b>Part 1. Eikhah / Lament for the Earth: Tishah b'Av</b></h3>
 <b>By Tamara Cohen (Barbara Bick Memorial Fellow of The Shalom Center, 2010)</b>
 </div></td></tr>
 
@@ -188,7 +188,7 @@ our abundant transgressions.
 Infants of every species,
 captive to our conceit.
 <p style="padding-left: 30px;"><span class="hebrew">הֲשִׁיבֵנוּ יְהוָה אֵלֶיךָ וְנָשׁוּבָה חַדֵּשׁ יָמֵינוּ כְּקֶדֶם.‏</span>
-<em>Hashivenu Yahh elekha v’nashuva, ḥadesh yameinu kekedem.</em>[foot]Eikha 5:21[/foot]
+<em>Hashivenu Yahh elekha v’nashuva, ḥadesh yameinu kekedem.</em>[foot]Lamentations 5:21[/foot]
 Let us return, help us repent,
 You Who Breathe all Life;
 Breathe us, Breathe us,
@@ -549,9 +549,13 @@ Does not fall upon us.
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
 עָנָה דוֹדִי וְאָמַר לִי קוּמִי לָךְ רַעְיָתִי יָפָתִי וּלְכִי לָךְ.
-כִּי הִנֵּה הסתו [הַסְּתָיו] עָבָר הַגֶּשֶׁם חָלַף הָלַךְ לוֹ.
-הַנִּצָּנִים נִרְאוּ בָאָרֶץ עֵת הַזָּמִיר הִגִּיעַ וְקוֹל הַתּוֹר נִשְׁמַע בְּאַרְצֵנוּ.
-הַתְּאֵנָה חָנְטָה פַגֶּיהָ וְהַגְּפָנִים סְמָדַר נָתְנוּ רֵיחַ קוּמִי לכי [לָךְ] רַעְיָתִי יָפָתִי וּלְכִי לָךְ.
+כִּי הִנֵּה הסתו [הַסְּתָיו] עָבָר 
+הַגֶּשֶׁם חָלַף הָלַךְ לוֹ.
+הַנִּצָּנִים נִרְאוּ בָאָרֶץ עֵת הַזָּמִיר הִגִּיעַ 
+וְקוֹל הַתּוֹר נִשְׁמַע בְּאַרְצֵנוּ.
+הַתְּאֵנָה חָנְטָה פַגֶּיהָ 
+וְהַגְּפָנִים סְמָדַר נָתְנוּ רֵיחַ 
+קוּמִי לכי [לָךְ] רַעְיָתִי יָפָתִי וּלְכִי לָךְ.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
@@ -588,7 +592,7 @@ by Rabbi Shefa Gold from Song of Songs
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-<i>Kamti ani, liftoakh l'dodi; Kamti ani, liftoakh l'dodi;</i>[foot]Song of Songs 5:5, <span class="hebrew">קַמְתִּי אֲנִי לִפְתֹּחַ לְדוֹדִי וְיָדַי נָטְפוּ מוֹר וְאֶצְבְּעֹתַי מוֹר עֹבֵר עַל כַּפּוֹת הַמַּנְעוּל.‏</span> ("I rose up to open to my beloved; And my hands dropped with myrrh, And my fingers with flowing myrrh, Upon the handles of the bar." (JPS 1917)[/foot]
+<i>Ḳamti ani, liftoaḥ l'dodi; Ḳamti ani, liftoaḥ l'dodi;</i>[foot]Song of Songs 5:5, <span class="hebrew">קַמְתִּי אֲנִי לִפְתֹּחַ לְדוֹדִי וְיָדַי נָטְפוּ מוֹר וְאֶצְבְּעֹתַי מוֹר עֹבֵר עַל כַּפּוֹת הַמַּנְעוּל.‏</span> ("I rose up to open to my beloved; And my hands dropped with myrrh, And my fingers with flowing myrrh, Upon the handles of the bar." (JPS 1917)[/foot]
 I will open to you my beloved; Will you open, open to me?
 </div></td></tr>
 
@@ -683,41 +687,57 @@ d. To share the wealth of the world so that nations and regions, domestic and wo
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
-תהילים קמח
-&nbsp;
-הַ֥לְלוּ יָ֨הּ׀ הַֽלְל֣וּ אֶת־יְ֭הוָה מִן־הַשָּׁמַ֑יִם הַֽ֝לְל֗וּהוּ בַּמְּרוֹמִֽים׃
-הַֽלְל֥וּהוּ כָל־מַלְאָכָ֑יו הַֽ֝לְל֗וּהוּ כָּל־צבאו [צְבָאָֽיו]׃
-הַֽ֭לְלוּהוּ שֶׁ֣מֶשׁ וְיָרֵ֑חַ הַ֝לְל֗וּהוּ כָּל־כּ֥וֹכְבֵי אֽוֹר׃
-הַֽ֭לְלוּהוּ שְׁמֵ֣י הַשָּׁמָ֑יִם וְ֝הַמַּ֗יִם אֲשֶׁ֤ר׀ מֵעַ֬ל הַשָּׁמָֽיִם׃
-יְֽ֭הַֽלְלוּ אֶת־שֵׁ֣ם יְהוָ֑ה כִּ֤י ה֭וּא צִוָּ֣ה וְנִבְרָֽאוּ׃
-וַיַּעֲמִידֵ֣ם לָעַ֣ד לְעוֹלָ֑ם חָק־נָ֝תַ֗ן וְלֹ֣א יַעֲבֽוֹר׃
-הַֽלְל֣וּ אֶת־יְ֭הוָה מִן־הָאָ֑רֶץ תַּ֝נִּינִ֗ים וְכָל־תְּהֹמֽוֹת׃
-אֵ֣שׁ וּ֭בָרָד שֶׁ֣לֶג וְקִיט֑וֹר ר֥וּחַ סְ֝עָרָ֗ה עֹשָׂ֥ה דְבָרֽוֹ׃
-הֶהָרִ֥ים וְכָל־גְּבָע֑וֹת עֵ֥ץ פְּ֝רִ֗י וְכָל־אֲרָזִֽים׃
-הַֽחַיָּ֥ה וְכָל־בְּהֵמָ֑ה רֶ֝֗מֶשׂ וְצִפּ֥וֹר כָּנָֽף׃
-מַלְכֵי־אֶ֭רֶץ וְכָל־לְאֻמִּ֑ים שָׂ֝רִ֗ים וְכָל־שֹׁ֥פְטֵי אָֽרֶץ׃
-בַּחוּרִ֥ים וְגַם־בְּתוּל֑וֹת זְ֝קֵנִ֗ים עִם־נְעָרִֽים׃
-יְהַלְל֤וּ׀ אֶת־שֵׁ֬ם יְהוָ֗ה כִּֽי־נִשְׂגָּ֣ב שְׁמ֣וֹ לְבַדּ֑וֹ ה֝וֹד֗וֹ עַל־אֶ֥רֶץ וְשָׁמָֽיִם׃
-וַיָּ֤רֶם קֶ֨רֶן׀ לְעַמּ֡וֹ תְּהִלָּ֤ה לְֽכָל־חֲסִידָ֗יו לִבְנֵ֣י יִ֭שְׂרָאֵל עַֽם־קְרֹב֗וֹ הַֽלְלוּ־יָֽהּ׃
+הַ֥לְלוּ יָ֨הּ ׀ הַֽלְל֣וּ אֶת־יְ֭הוָה מִן־הַשָּׁמַ֑יִם 
+הַֽ֝לְל֗וּהוּ בַּמְּרוֹמִֽים׃
+הַֽלְל֥וּהוּ כָל־מַלְאָכָ֑יו 
+הַֽ֝לְל֗וּהוּ כָּל־צבאו [צְבָאָֽיו]׃
+הַֽ֭לְלוּהוּ שֶׁ֣מֶשׁ וְיָרֵ֑חַ 
+הַ֝לְל֗וּהוּ כָּל־כּ֥וֹכְבֵי אֽוֹר׃
+הַֽ֭לְלוּהוּ שְׁמֵ֣י הַשָּׁמָ֑יִם 
+וְ֝הַמַּ֗יִם אֲשֶׁ֤ר ׀ מֵעַ֬ל הַשָּׁמָֽיִם׃
+יְֽ֭הַֽלְלוּ אֶת־שֵׁ֣ם יְהוָ֑ה 
+כִּ֤י ה֭וּא צִוָּ֣ה וְנִבְרָֽאוּ׃
+וַיַּעֲמִידֵ֣ם לָעַ֣ד לְעוֹלָ֑ם 
+חָק־נָ֝תַ֗ן וְלֹ֣א יַעֲבֽוֹר׃
 </span></div></td>
- 
-<td style="vertical-align:top;" width="53%">
+
+<td style="vertical-align:top;">
 <div class="english">
-Psalm 148
-&nbsp;
-Praise YHWH/Yahh the Breath of Life from the heavens,
+Praise Yahh the Breath of Life from the heavens,
 Praise Yah in the heights,
-Praise Yah, you messengers; Praise Yah, you multitudes!
+Praise Yah, you messengers; 
+Praise Yah, you multitudes!
 Praise Yah, sun and moon
-And all you light-filled stars!
+And praise, all you light-filled stars!
 Praise Yah, Heavens beyond the heavens.
 Praise Yah, waters beneath the heavens.
-Praise the Name of YHWH/ Yahh Breath of Life,
+Praise the Name of YHVH/ Yahh Breath of Life,
 For through Its intertwining all comes to Be,
 Each finds its place in the dance of All:
-YHWH/ Yahh carves them a role that no one can erase.
+YHVH/ Yahh carves them a role that no one can erase.
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
+הַֽלְל֣וּ אֶת־יְ֭הוָה מִן־הָאָ֑רֶץ 
+תַּ֝נִּינִ֗ים וְכָל־תְּהֹמֽוֹת׃
+אֵ֣שׁ וּ֭בָרָד שֶׁ֣לֶג וְקִיט֑וֹר 
+ר֥וּחַ סְ֝עָרָ֗ה עֹשָׂ֥ה דְבָרֽוֹ׃
+הֶהָרִ֥ים וְכָל־גְּבָע֑וֹת 
+עֵ֥ץ פְּ֝רִ֗י וְכָל־אֲרָזִֽים׃
+הַֽחַיָּ֥ה וְכָל־בְּהֵמָ֑ה 
+רֶ֝֗מֶשׂ וְצִפּ֥וֹר כָּנָֽף׃
+מַלְכֵי־אֶ֭רֶץ וְכָל־לְאֻמִּ֑ים 
+שָׂ֝רִ֗ים וְכָל־שֹׁ֥פְטֵי אָֽרֶץ׃
+בַּחוּרִ֥ים וְגַם־בְּתוּל֑וֹת 
+זְ֝קֵנִ֗ים עִם־נְעָרִֽים׃
+</span></div></td>
+
+<td style="vertical-align:top;">
+<div class="english">
 So sing praise, all that is earthy and grounded,
 All that flows in the deeps like the great sea-monsters,
 Fire and hail, snow and fog,
@@ -730,13 +750,29 @@ Powerful rulers and empowered peoples,
 Prosecutors and public defenders,
 Men and women sprouting promise,
 Bearded elders bent by life and beardless youth not yet on path,
-All sing praise to the Breath of Life --
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
+יְהַלְל֤וּ ׀ אֶת־שֵׁ֬ם יְהוָ֗ה 
+כִּֽי־נִשְׂגָּ֣ב שְׁמ֣וֹ לְבַדּ֑וֹ 
+ה֝וֹד֗וֹ עַל־אֶ֥רֶץ וְשָׁמָֽיִם׃
+וַיָּ֤רֶם קֶ֨רֶן׀ לְעַמּ֡וֹ 
+תְּהִלָּ֤ה לְֽכָל־חֲסִידָ֗יו 
+לִבְנֵ֣י יִ֭שְׂרָאֵל עַֽם־קְרֹב֗וֹ 
+הַֽלְלוּ־יָֽהּ׃
+</span></div></td>
+
+<td style="vertical-align:top;">
+<div class="english">
+All sing praise to the Breath of Life —
 For Yahh stands alone in radiance,
 Filling with splendor earth and sky,
 Making all peoples a horn of plenty.
 For the sake of all who love Yahh
 Or who come near through Wrestling God,
-Let us praise the Breath of Life -- Hallelu-YAH!
+Let us praise the Breath of Life — Hallelu-YAH!
 </div></td></tr>
 
 
@@ -748,7 +784,7 @@ Let us praise the Breath of Life -- Hallelu-YAH!
 <td style="vertical-align:top;" width="53%">
 <div class="english">
 <strong>CHANT</strong>
-Verse from Isaiah 51:3, from one of the Haftarot of Consolation after Tisha b'Av.
+Verse from Isaiah 51:3, from one of the Haftarot of Consolation after Tishah b'Av.
 </div></td></tr>
 
 

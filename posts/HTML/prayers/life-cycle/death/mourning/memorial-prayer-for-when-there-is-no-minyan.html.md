@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: תפילת הזכרת הורים כשאין מניין לאמירת קדיש | "Gebet Statt Kaddisch" Memorial Prayer For When There is No Minyan<br />
+Title: תפילת הזכרת הורים כשאין מניין לאמירת קדיש | "Gebet Statt Ḳaddisch" Memorial Prayer For When There is No Minyan<br />
 Primary contributor: isaac-seligman.baer<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=7547">http://opensiddur.org/?p=7547</a>
 <p />
@@ -58,7 +58,7 @@ As I cannot honor the memory of
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%"><div class="english">
-<span class="instruction">(parent’s name)</span>’s soul by saying a communal Kaddish, 
+<span class="instruction">(parent’s name)</span>’s soul by saying a communal Ḳaddish, 
 </div></td></tr>
 
 
@@ -103,7 +103,7 @@ Amen, and amen.
 
 <hr />
 
-We are grateful to Jonah Rank for sharing his translation of "Gebet Statt Kaddisch" (Memorial Prayer for when there is no Minyan,תפילת הזכרת הורים כשאין מניין לאמירת קדיש) from Dr. Seligmann Baer and Rabbi Joseph Nobel's <em><a href="http://books.google.com/books?id=MI4_AAAAYAAJ&lpg=PA322&ots=EiG6GnjAuy&dq=gebet+statt+kaddisch&pg=PA322#v=onepage&q&f=false">Tozeoth Chajm: Vollständiges Gebet- und Erbauungsbuch zum Gebrauche bei Kranken, Sterbenden...</a></em> (1900). Jonah first published his translation on his personal blog, <a href="http://jonahrank.wordpress.com/2013/08/08/memorial-prayer-when-there-is-no-minyan-for-saying-kaddish/">here</a>, thanking Rabbi Tzvi Graetz for calling the original source to his attention over Facebook. Rabbi Graetz titled this prayer "תפילת הזכרת הורים כשאין מניין לאמירת קדיש". We are not certain who to attribute this Kaddish to. (Possibly, it was composed by Dr. Seligmann Baer.) Please comment below if you can add more certain attribution.
+We are grateful to Jonah Rank for sharing his translation of "Gebet Statt Kaddisch" (Memorial Prayer for when there is no Minyan,תפילת הזכרת הורים כשאין מניין לאמירת קדיש) from Dr. Seligmann Baer and Rabbi Joseph Nobel's <em><a href="http://books.google.com/books?id=MI4_AAAAYAAJ&lpg=PA322&ots=EiG6GnjAuy&dq=gebet+statt+kaddisch&pg=PA322#v=onepage&q&f=false">Tozeoth Chajm: Vollständiges Gebet- und Erbauungsbuch zum Gebrauche bei Kranken, Sterbenden...</a></em> (1900). Jonah first published his translation on his personal blog, <a href="http://jonahrank.wordpress.com/2013/08/08/memorial-prayer-when-there-is-no-minyan-for-saying-kaddish/">here</a>, thanking Rabbi Tzvi Graetz for calling the original source to his attention over Facebook. Rabbi Graetz titled this prayer "תפילת הזכרת הורים כשאין מניין לאמירת קדיש". We are not certain who to attribute this Ḳaddish to. (Possibly, it was composed by Dr. Seligmann Baer.) Please comment below if you can add more certain attribution.
 
 <strong>DOWNLOAD:</strong> <a href="https://opensiddur.org/wp-content/uploads/2013/08/Seligmann-Baer-Kaddish-without-minyan-trans.-Jonah-Rank.odt">ODT</a> | <a href="https://opensiddur.org/wp-content/uploads/2013/08/Seligmann-Baer-Kaddish-without-minyan-trans.-Jonah-Rank.pdf">PDF</a>
 </body>

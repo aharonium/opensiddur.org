@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: אֱלִי צִיּוֹן וְעָרֶיהָ | Eli Tsiyon v'Areha — Coronavirus, by Daniel Olson & Rabbi Benjamin Goldberg (2020)<br />
+Title: אֱלִי צִיּוֹן וְעָרֶיהָ | Eli Tsiyon v'Arehah — Coronavirus, by Daniel Olson & Rabbi Benjamin Goldberg (2020)<br />
 Primary contributor: daniel-adam.olson<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=32960">http://opensiddur.org/?p=32960</a>
 <p />

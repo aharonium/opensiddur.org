@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: ברכת המזון לסעודה מפסקת ערב תשעה בעב | Birkat haMazon for the Seudah Mafseqet (Pre-Fast Meal) of Tisha b'Av, by Isaac Gantwerk Mayer<br />
+Title: ברכת המזון לסעודה מפסקת ערב תשעה בעב | Birkat haMazon for the Seudah Mafseqet (Pre-Fast Meal) of Tishah b'Av, by Isaac Gantwerk Mayer<br />
 Primary contributor: isaac-gantwerk.mayer<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=33041">http://opensiddur.org/?p=33041</a>
 <p />

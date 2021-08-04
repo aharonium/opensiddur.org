@@ -377,7 +377,7 @@ That women eat their own children, they make noise about this.
  
 <td style="vertical-align:top;" width="53%">
 <div class="english">
-But, that they killed a prophet and a priest (the Prophet Zechariah) in the Temple of my Lord, they make no noise about this.
+But, that they killed a prophet and a priest[foot]<a href="https://en.wikipedia.org/wiki/Zechariah_ben_Jehoiada">Zekhariah ben Jehoiada</a>, not to be confused with the prophet of the book of Zechariah, <a href="https://en.wikipedia.org/wiki/Zechariah_(Hebrew_prophet)">Zekahriah ben Berekhiah</a>.[/foot] in the Temple of my Lord, they make no noise about this.
 </div>
 </td></tr>
 </tbody></table>
@@ -387,5 +387,7 @@ But, that they killed a prophet and a priest (the Prophet Zechariah) in the Temp
 “<em>Alelai Li</em>” is a kinah recited on the morning of Tisha bAv. It was written by HaKalir around the 7th century. According to the Koren Mesorat HaRav Kinot, it is number 17 of 50. The title is the refrain of the poem and is an onomatopoeic whimper (try saying it aloud, focusing on the alliteration). It is difficult to translate the opening word “im” which means “if” or “should”. This is an allusion to Job 10:15, “If I have done evil, then woe unto me.” I have decided to translate the kinah not in the conditional tense (which would render “If these horrible things happened, then woe is me!”) but as a lament upon memory; however, the former would be a more accurate (if not more awkward in English) translation.
 
 Adding to the awkwardness of the poem’s language is the feminine conditional verb that each line has after the word “im”. I have maintained this strange verb tense and placement in my translation by using the English progressive tense. The kinah ends with a collection in lines in a different meter suggesting that the Holy One (and the paytan himself) is angered that the Jewish people announce their sufferings but not their transgressions.
+
+&nbsp;
 </body>
 </html>

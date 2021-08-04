@@ -272,7 +272,7 @@ From the manuscript, I have corrected obvious errors in the transcription publis
 
 &nbsp;
 
-[caption id="attachment_36887" align="alignnone" width="238"]<a href="https://opensiddur.org/wp-content/uploads/2020/08/ldpd_11683790_000_00000001-scaled.jpg"><img src="https://opensiddur.org/wp-content/uploads/2020/08/ldpd_11683790_000_00000001-238x300.jpg" alt="" width="238" height="300" class="size-medium wp-image-36887" /></a> <a href="https://archive.org/details/ldpd_11683790_000">Qame'a for Mirḳada d'M. Ṿiadah bat Donah]</a> (in MS General 194 at Columbia Hebrew Manuscripts Collection)[/caption]
+[caption id="attachment_36887" align="alignnone" width="640"]<a href="https://opensiddur.org/wp-content/uploads/2020/08/ldpd_11683790_000_00000001-scaled.jpg"><img src="https://opensiddur.org/wp-content/uploads/2020/08/ldpd_11683790_000_00000001-811x1024.jpg" alt="" width="640" height="808" class="size-large wp-image-36887" /></a> <a href="https://archive.org/details/ldpd_11683790_000">Qame'a for Mirḳada d'M. Ṿiadah bat Donah]</a> (in MS General 194 at Columbia Hebrew Manuscripts Collection)[/caption]
 
 &nbsp;
 </body>

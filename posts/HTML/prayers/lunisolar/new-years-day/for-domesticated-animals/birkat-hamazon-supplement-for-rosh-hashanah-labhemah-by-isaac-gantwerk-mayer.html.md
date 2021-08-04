@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: ברכת המזון לראש השנה לבהמה | Birkat haMazon Supplement for Rosh haShanah laB'hemah, by Isaac Gantwerk Mayer<br />
+Title: ברכת המזון לראש השנה לבהמה | Birkat haMazon Supplement for Rosh haShanah la-Behemah, by Isaac Gantwerk Mayer<br />
 Primary contributor: isaac-gantwerk.mayer<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=33312">http://opensiddur.org/?p=33312</a>
 <p />

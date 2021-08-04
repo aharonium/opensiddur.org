@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: ברכת המזון לסעודת ההבראה במוצאי תשעה באב | Birkat Hamazon additions for the Break Fast Meal after Tisha b'Av, by Gabriel Wasserman<br />
+Title: ברכת המזון לסעודת ההבראה במוצאי תשעה באב | Birkat Hamazon additions for the Break Fast Meal after Tishah b'Av, by Gabriel Wasserman<br />
 Primary contributor: mar.gavriel<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=26392">http://opensiddur.org/?p=26392</a>
 <p />

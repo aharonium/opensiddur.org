@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: בַּחֹֽדֶשׁ הָֽרְבִיעִי | baḤodesh haRevi'i (In the fourth month), a kinah for the 17th of Tamuz attributed to Solomon ibn Gabirol (ca. 11th c.)<br />
+Title: בַּחֹֽדֶשׁ הָֽרְבִיעִי | baḤodesh haRevi'i (In the fourth month), a ḳinah for the 17th of Tamuz attributed to Solomon ibn Gabirol (ca. 11th c.)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=37858">http://opensiddur.org/?p=37858</a>
 <p />

@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <h3>Additions to the Birkat Hamazon</h3>
 
-This <em>Haraḥaman</em> (prayer to the merciful or compassionate One) for the <em>Shmitah</em> or sabbatical year can be added to Birkat Hamazon (blessing after meals) during the whole Shmitah year, in order to remember and open our hearts to the sanctity of the land. Say it right before the Harachaman for Shabbat, since Shmitah is the grand shabbat, and right after the paragraph beginning with <em>Bamarom</em> (a/k/a, <em>Mimarom</em>).
+This <em>Haraḥaman</em> (prayer to the merciful or compassionate One) for the <em>Shmitah</em> or sabbatical year can be added to Birkat Hamazon (blessing after meals) during the whole Shmitah year, in order to remember and open our hearts to the sanctity of the land. Say it right before the Haraḥaman for Shabbat, since Shmitah is the grand shabbat, and right after the paragraph beginning with <em>Bamarom</em> (a/k/a, <em>Mimarom</em>).
 
 
 <table style="margin-left: auto;margin-right: auto;">

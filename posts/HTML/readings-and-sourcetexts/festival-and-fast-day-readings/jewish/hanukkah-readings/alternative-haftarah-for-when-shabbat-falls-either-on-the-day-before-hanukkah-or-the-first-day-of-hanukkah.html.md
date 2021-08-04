@@ -20,12 +20,14 @@ Note: “The CAUSE” is used to translate the Divine Name YHVH, based on the ph
 <tbody>
 <tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
-חגי ב:ב-כג
+<span class="citation">חגי ב:ב-כג</span>
+&nbsp;
+https://archive.org/download/alternative-haftarah-for-first-day-shabbat-hanukkah-audio/Alternative%20Haftarah%20for%20when%20Shabbat%20falls%20either%20on%20the%20day%20before%20%E1%B8%A4anukkah%20or%20the%20first%20day%20of%20%E1%B8%A4anukkah%20%28Isaac%20Gantwerk%20Mayer%202020%29.mp3
 </span></div></td>
  
 <td style="vertical-align:top;">
 <div class="english">
-Ḥaggai 2:2–23
+<span class="citation">Ḥaggai 2:2–23</span>
 </div></td></tr>
 
 

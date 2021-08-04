@@ -8,6 +8,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <hr />
 
 <strong>DOWNLOAD:</strong> 
+
 <a href="https://archive.org/download/megillat-eikhah-with-english-transtropilation-len-fellman-2019/Megillat%20Eikhah%20-%20English%20transtropilation%20%28Len%20Fellman%202020%29.pdf">PDF</a> | <a href="https://archive.org/download/megillat-eikhah-with-english-transtropilation-len-fellman-2019/Megillat%20Eikhah%20-%20English%20transtropilation%20%28Len%20Fellman%202020%29.odt">ODT</a> (stanza view)
 <a href="https://archive.org/download/megillat-eikhah-with-english-transtropilation-len-fellman-2019/Megillat%20Eikhah%20-%20English%20transtropilation%20%28Len%20Fellman%202020%29%20landscape.pdf">PDF</a> | <a href="https://archive.org/download/megillat-eikhah-with-english-transtropilation-len-fellman-2019/Megillat%20Eikhah%20-%20English%20transtropilation%20%28Len%20Fellman%202020%29%20landscape.odt">ODT</a> (landscape view)
 <a href="https://archive.org/download/megillat-eikhah-with-english-transtropilation-len-fellman-2019/Megillat%20Eikhah%20-%20English%20transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.pdf">PDF</a> | <a href="https://archive.org/download/megillat-eikhah-with-english-transtropilation-len-fellman-2019/Megillat%20Eikhah%20-%20English%20transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.odt">ODT</a> (sans Hebrew)
@@ -19,19 +20,19 @@ For attribution and license, please consult the following URL: <a href="http://o
 <h3>Recordings</h3>
 
 Chapter 1: 
-https://archive.org/download/megillat-eikhah-with-english-transtropilation-len-fellman-2019/Eikhah%20chapter%201%20%28Len%20Fellman%29.mp3
+https://archive.org/download/eikhah-with-english-transtropilation-audio-len-fellman-2020/Eikhah%20with%20English%20transtropilation%20-%20chapter%201%20%28Len%20Fellman%202020%29.mp3
 
 Chapter 2: 
-https://archive.org/download/megillat-eikhah-with-english-transtropilation-len-fellman-2019/Eikhah%20chapter%202%20%28Len%20Fellman%29.mp3
+https://archive.org/download/eikhah-with-english-transtropilation-audio-len-fellman-2020/Eikhah%20with%20English%20transtropilation%20-%20chapter%202%20%28Len%20Fellman%202020%29.mp3
 
 Chapter 3: 
-https://archive.org/download/megillat-eikhah-with-english-transtropilation-len-fellman-2019/Eikhah%20chapter%203%20%28Len%20Fellman%29.mp3
+https://archive.org/download/eikhah-with-english-transtropilation-audio-len-fellman-2020/Eikhah%20with%20English%20transtropilation%20-%20chapter%203%20%28Len%20Fellman%202020%29.mp3
 
 Chapter 4: 
-https://archive.org/download/megillat-eikhah-with-english-transtropilation-len-fellman-2019/Eikhah%20chapter%204%20%28Len%20Fellman%29.mp3
+https://archive.org/download/eikhah-with-english-transtropilation-audio-len-fellman-2020/Eikhah%20with%20English%20transtropilation%20-%20chapter%204%20%28Len%20Fellman%202020%29.mp3
 
 Chapter 5: 
-https://archive.org/download/megillat-eikhah-with-english-transtropilation-len-fellman-2019/Eikhah%20chapter%205%20%28Len%20Fellman%29.mp3
+https://archive.org/download/eikhah-with-english-transtropilation-audio-len-fellman-2020/Eikhah%20with%20English%20transtropilation%20-%20chapter%205%20%28Len%20Fellman%202020%29.mp3
 
 <hr />
 
@@ -50,7 +51,7 @@ I also indicate a mercha/tipcha pair or a kadma/geresh pair by “wrapping it ar
 
 I also frequently indicate an entire English phrase to be chanted to a single <em>trōp</em> melody, as in: [clings to her skirts]
 
-Chapter 3 of Lamentations is sung by singing each set of three verses to three melodies, in turn. I grouped each set of three verses together, as in 1-3, 4-6, etc. The first two of the three melodies end their first half (the “half-cadence”) with a high note, and the third with a “falling tone”. I have marked the corresponding syllable with an arrow: &#x2197; for the high note or half-cadence of the first melody, ↑ for the high note of the second melody, and &#x2198; for the “falling tone” of the third melody.
+Chapter 3 of Lamentations is sung by singing each set of three verses to three melodies, in turn. I grouped each set of three verses together, as in 1-3, 4-6, etc. The first two of the three melodies end their first half (the “half-cadence”) with a high note, and the third with a “falling tone”. I have marked the corresponding syllable with an arrow: &#x2197; for the high note or half-cadence of the first melody, &#x2191; for the high note of the second melody, and &#x2198; for the “falling tone” of the third melody.
 </div>
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
@@ -1074,7 +1075,7 @@ CHAPTER 3 <span class="instruction"> [special melody––see note below]</span>
 <sup>1-3</sup>&nbsp;I am the man    
 who has seen affliction&#x2197;
 by the rod of his anger.
-Me––he has lead and driven
+Me––he has lead and driven&#x2191;
 in darkness, not in light.
 Surely on me He brings down His hand&#x2198; the whole day long.
 </div></td></tr>
@@ -1094,7 +1095,7 @@ Surely on me He brings down His hand&#x2198; the whole day long.
 <div class="english">
 <sup>4-6</sup>&nbsp;He wore away my flesh and skin&#x2197;, 
 and shattered my bones.
-He has besieged me and surrounded me
+He has besieged me and surrounded me&#x2191;
 with bitterness and woe.
 He has made me dwell in darkness&#x2198;
 like men long dead.
@@ -1117,7 +1118,7 @@ like men long dead.
 <sup>7-9</sup>&nbsp;He has walled me in
    till I can’t escape&#x2197;.
 He has weighed me down with chains.
-And when I cry and plead
+And when I cry and plead&#x2191;
 He shuts out my prayer.
 He has blocked my way with boulders&#x2198;.
 He has twisted my path.
@@ -1138,7 +1139,7 @@ He has twisted my path.
 <div class="english">
 <sup>10-12</sup>&nbsp;He is a lurking bear to me&#x2197;,
 a lion in hiding.
-He has filled my path with thorns,
+He has filled my path with thorns&#x2191;,
 torn me in pieces, left me forlorn.
 He has directed His bow&#x2198;
 and made me the arrow’s mark.
@@ -1159,7 +1160,7 @@ and made me the arrow’s mark.
 <div class="english">
 <sup>13-15</sup>&nbsp;He shot into my vitals&#x2197;
 the arrows of His quiver.
-I am a derision to my people,
+I am a derision to my people&#x2191;,
 they taunt me all day long.
 He has filled me up with bitterness&#x2198;,
 and made me drink wormwood.
@@ -1180,7 +1181,7 @@ and made me drink wormwood.
 <div class="english">
 <sup>16-18</sup>&nbsp;He has broken my teeth with gravel&#x2197;, 
 and covered me with ashes.
-He has bereft me of all peace;
+He has bereft me of all peace&#x2191;;
 I forgot what it is to prosper.
 I said, “my strength has perished&#x2198;,
 even my hope in God.”
@@ -1200,7 +1201,7 @@ even my hope in God.”
 <td style="vertical-align:top;" width="53%">
 <div class="english">
 <sup>19-21</sup>&nbsp;Remember my afflictions and sorrow&#x2197;, the wormwood and the gall.
-My soul remembers clearly,
+My soul remembers clearly&#x2191;,
 and is now bowed down within me.
 Here’s what I’ll tell my heart&#x2198;,
 and so recover hope:
@@ -1223,7 +1224,7 @@ and so recover hope:
 <div class="english">
 <sup>22-24</sup>&nbsp;The kindness of the Lord has not ended&#x2197;, 
 His mercies not exhausted.
-They are new every morning.
+They are new every morning&#x2191;.
 <em>Raba emunatecha</em>.
 “My portion is God”, says my soul&#x2198;, 
 thus do I hope in Him.
@@ -1245,7 +1246,7 @@ thus do I hope in Him.
 <td style="vertical-align:top;" width="53%">
 <div class="english">
 <sup>25-27</sup>&nbsp;God is good to the one who trusts&#x2197;, to every soul that seeks Him.
-It is good to wait in silence
+It is good to wait in silence&#x2191;
 for salvation from Adonai.
 It is good that a man bear the yoke&#x2198;
 from his youth and on.
@@ -1266,7 +1267,7 @@ from his youth and on.
 <div class="english">
 <sup>28-30</sup>&nbsp;Let him sit alone in silence&#x2197;,
 because God lays it upon him,
-to put his lips to the dust:
+to put his lips to the dust&#x2191;:
 perhaps there still is hope.
 Let him offer his cheek to the smiter&#x2198;.
 and suffer all men’s taunts.
@@ -1287,7 +1288,7 @@ and suffer all men’s taunts.
 <div class="english">
 <sup>31-33</sup>&nbsp;For the Lord will not cast us off&#x2197;  
                                   forever and ever.
-He wounds, but He shows compassion,
+He wounds, but He shows compassion&#x2191;,
 abundant is His kindness.
 For He is loathe to cause pain or grief&#x2198;
 to the sons of men.
@@ -1308,7 +1309,7 @@ to the sons of men.
 <div class="english">
 <sup>34-36</sup>&nbsp;To crush under His feet&#x2197;
 all the prisoners of the earth,
-To deny a man his rights
+To deny a man his rights&#x2191;
 before the face of the Most High,
 to deprive a man of justice&#x2198;,
 does not the Lord see it?
@@ -1329,7 +1330,7 @@ does not the Lord see it?
 <div class="english">
 <sup>37-39</sup>&nbsp;Who’s will can be fulfilled&#x2197;,
 if God did not ordain it?
-From the mouth of the Most High
+From the mouth of the Most High&#x2191;
 do not good and evil come?
 Of what should a living man complain&#x2198;?
 Only for his own sins!
@@ -1350,7 +1351,7 @@ Only for his own sins!
 <div class="english">
 <sup>40-42</sup>&nbsp;Let us search and examine our ways&#x2197;, 
 and return to Adonai.
-Let us lift up our hearts and our hands
+Let us lift up our hearts and our hands&#x2191;
 to God who is in the heavens.
 We transgressed and we rebelled&#x2198;,
 and You have not forgiven.
@@ -1374,7 +1375,7 @@ and You have not forgiven.
 <sup>43-45</sup>&nbsp;You wrapped Yourself in wrath 
                                     and pursued&#x2197; us,
 and slain us without pity.
-You covered Yourself with a cloud
+You covered Yourself with a cloud&#x2191;
 so prayer cannot pass through it.
 You have made us filth and refuse&#x2198;
 among the nations.
@@ -1395,7 +1396,7 @@ among the nations.
 <div class="english">
 <sup>46-48</sup>&nbsp;Our enemies have opened
 their mouths&#x2197; in chorus against us.
-Panic and pitfall befell us,
+Panic and pitfall befell us&#x2191;,
 ravages and ruin.
 My eyes run with streams of water&#x2198;
 at my poor people’s ruin.
@@ -1417,7 +1418,7 @@ at my poor people’s ruin.
 <div class="english">
 <sup>49-51</sup>&nbsp;My eyes flow without ceasing&#x2197;,
 and find no relief.
-Until the Lord looks down
+Until the Lord looks down&#x2191;
 and sees us from the heavens.
 My eyes are sore with sorrow&#x2198;
 for the maidens of my city.
@@ -1439,7 +1440,7 @@ for the maidens of my city.
 <sup>52-54</sup>&nbsp;They hunted me down 
 like a bird&#x2197;, 
 those who hate me for no reason.
-They dropped me to die in a dungeon,
+They dropped me to die in a dungeon&#x2191;,
 and threw stones down upon me.
 The waters flowed over my head&#x2198;.
 and I said “I am cut off.”
@@ -1461,7 +1462,7 @@ and I said “I am cut off.”
 <div class="english">
 <sup>55-57</sup>&nbsp;I called on your name, Adonai&#x2197;, 
 from the depths of the dungeon.
-You then heard me crying:
+You then heard me crying&#x2191;:
 “Don’t close your ears to my pleading.”
 You drew near on the day 
 that I called&#x2198;You,
@@ -1484,7 +1485,7 @@ and said to me, “Do not fear!”
 <sup>58-60</sup>&nbsp;You have defended the cause 
 of my soul&#x2197;; 
 you have redeemed my life.
-Adonai, you see how I am wronged,
+Adonai, you see how I am wronged&#x2191;,
 O vindicate my right!
 You have seen all of their vengeance&#x2198;,
 all their designs toward me.
@@ -1506,7 +1507,7 @@ all their designs toward me.
 <sup>61-63</sup>&nbsp;You have heard their reproach 
                                              Adonai&#x2197;, 
 the schemes they plot against me.
-The talk of the men who attack me; their muttering all day long.
+The talk of the men who attack me&#x2191;; their muttering all day long.
 Observe their sitting and rising&#x2198;;
 I am their taunting song.
 </div></td></tr>
@@ -1526,7 +1527,7 @@ I am their taunting song.
 <div class="english">
 <sup>64-66</sup>&nbsp;Pay them back, Adonai&#x2197;
 according to their deeds.
-Give them anguish of heart,
+Give them anguish of heart&#x2191;,
 Your curse should be upon them!
 Pursue them in wrath
 and destroy them&#x2198;,

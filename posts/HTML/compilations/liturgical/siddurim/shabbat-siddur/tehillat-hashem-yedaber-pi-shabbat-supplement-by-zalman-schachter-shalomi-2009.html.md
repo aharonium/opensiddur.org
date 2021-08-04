@@ -121,7 +121,7 @@ This is Reb Zalman's Sabbath Supplement to his <em><a href="http://opensiddur.or
 <a href="http://opensiddur.org/?p=29274">El Adon</a>
 <a href="http://opensiddur.org/?p=21403">Ahavat Olam</a>
 <a href="http://opensiddur.org/?p=20907">Shema</a>
-Amidah for Shabbat 
+<a href="/?p=38339">Amidah for Shabbat (Day)</a>
 </div></td></tr>
 
 

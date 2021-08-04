@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<em>Siddur Livnat HaSapir l'Kabbalat Shabbat</em> is a complete prayerbook (<em>siddur</em>) for welcoming the Shabbat on nearly all Friday evenings. This is my personal prayerbook containing my idiosyncratic preferences in liturgical custom and aesthetic presentation.
+<em><a href="https://dimus.parrhesia.press/shop/siddurim/siddur-livnat-hasapir-lqabbalat-shabbat-by-aharon-varady/">Siddur Livnat HaSapir l'Kabbalat Shabbat</a></em> is a complete prayerbook (<em>siddur</em>) for welcoming the Shabbat on nearly all Friday evenings. This is my personal prayerbook containing my idiosyncratic preferences in liturgical custom and aesthetic presentation.
 
 <blockquote>"This siddur, my first, is an attempt to build a bridge to the land beyond the River Sambatyon, by which I mean, the sanctuary of our cultural imagination. In my translation I have sought to elevate and evoke the magical and mythical over any other critical literal or historical reading. Siddur Livnat haSapir also looks different compared to other siddurim. I only hope that whether one is impressed or dissatisfied, it will inspire those who discover it to craft their own siddur. I encourage others to craft a prayerbook containing the wisdom, understanding, and insight they have gleaned throughout their lives, to use it as a tool to develop their creative and emotional intelligence, and to pass it along to others in a way that others can adapt it to their own personal contexts."</blockquote>
 
@@ -28,16 +28,7 @@ The consequence of participating in a familiar praxis of uncertain utility is th
 
 Prayer and prayers are often conflated, but they should not be, especially when educators who should know better introduce or intervene in the instruction of prayer. Prayers, the pre-recorded, written or memorized kind, are a form of media, just as wax cylinder recordings, FM radio commercials, and podcasts of short stories are a form of media. As Hakim Bey has explained in his essay “<a href="https://youtu.be/c0v2apGezu0">Immediatism</a>,” the effect of media is a mediation from immediate experience. Different forms of media can be said to be more removed, less immediate than others. Pre-written prayers and the technologies distributing them stand between and thus mediate prayer as perhaps one of the most intimate person praxes we can know. However, distancing from this intimacy is long familiar. It was not unheard of for there to be paid prayer reciters, especially at grave-sites. Pre-composed prayers and prayerbooks can be said to always be in danger of alienating the practitioner of prayer. Be forewarned.
 
-<table style="margin-left: auto;margin-right: auto;">
-<tbody><tr>
-<td width="53%">
-I have much sympathy with the 2nd century CE teaching concerning written blessings in Tosefta <em>Shabbat</em> 13:4, “Even though blessings contain the letters of the Name and many matters of Torah, one may not save them; they are burned where they are. Therefore they said: Those who write blessings are as those who burn Torah.” Whatever the popularity of fixed liturgies after the Geonic period, the Mishnah appears to suggest a praxis for prayer that eschews fixed prayer, at least for personal supplications (<em>taḥanunim</em>). “Ra’bi Eliezer said: One who makes his prayer ‘fixed’ – his prayer is not a proper plea” (<em>Berakhot</em> 4.4).</td>
- 
-<td width="46%"><div class="hebrew"><span lang="he">
-תוספתא שבת: הברכות אע”פ שיש בהן מאותות השם ומענינות הרבה שבתורה אין מצילין אותן אבל נשרפין במקומן מכן אמרו כותבי ברכות כשורפי תורה
-
-משנה ברכות:
-רבי אליעזר אומר העושה תפלתו קבע אין תפלתו תחנונים</span></div></td></tr></tbody></table>
+I have much sympathy with the 2nd century CE teaching concerning written blessings in Tosefta <em>Shabbat</em> 13:4, <span class="hebrew">תוספתא שבת: הברכות אע”פ שיש בהן מאותות השם ומענינות הרבה שבתורה אין מצילין אותן אבל נשרפין במקומן מכן אמרו כותבי ברכות כשורפי תורה</span> (“Even though blessings contain the letters of the Name and many matters of Torah, one may not save them; they are burned where they are. Therefore they said: Those who write blessings are as those who burn Torah.”) Whatever the popularity of fixed liturgies after the Geonic period, the Mishnah appears to suggest a praxis for prayer that eschews fixed prayer, at least for personal supplications (<em>taḥanunim</em>). <span class="hebrew">משנה ברכות: רבי אליעזר אומר העושה תפלתו קבע אין תפלתו תחנונים</span> (“Ra’bi Eliezer said: One who makes his prayer ‘fixed’ – his prayer is not a proper plea” <em>Berakhot</em> 4.4.)
 
 Praying, with or without pre-composed prayers, occurs in Time. Whether or not it occurs during a rote practice, as part of a structured ritual praxis, as an improvised outburst, or as a steady internal conversation, praying is incidental, perhaps only limited by sleep. Time is prayer’s container. Any technology or structure that seeks to utilize prayer must partner with Time. While space for praying is ornamental and evocative (and thus subject to personal and cultural standards, conventions, assumptions, and expectations), Time is simply necessary.
 
@@ -51,24 +42,9 @@ Such prayerbooks are in a very real sense, navigational, just as a map is unders
 
 ☛ We advance with some severity that while it is imperative to hold and cherish the practice and its goal, it is crucial for the practitioner to critique the map / siddur on the basis of whether it helps one to attain this goal. To do less, I believe, is to put too much faith in the map maker or siddur designer. There are always manifold ways to reach a destination, some well trodden, others still waiting to be discovered. And some routes are already, purposefully designed to advance (or erase) certain worldviews and political agendas. We must be extra mindful and critical of any technology that presents itself as a mentor like guide for some of the most intimate experiences we can imagine: inviting with delicate subtleties, internal voices and divine projections.
 
-This siddur, my first, is a bridge to the land beyond the River Sambatyon; in my translation I have sought to elevate and evoke the magical and mythical over any other critical literal or historical reading. Siddur Livnat haSapir will look different compared to other siddurim.[foot]<table style="margin-left: auto;margin-right: auto;">
-<tbody>
-<tr>
-<td width="46%">
-<div class="hebrew"><span lang="he">
-שולחן ארוך צ:כג— 
-הבגדים המצויירים... 
-אין נכון להתפלל כנגדם, ואם יקרה לו להתפלל כנגד בגד או כותל מצויר, יעלים עיניו. 
+This siddur, my first, is a bridge to the land beyond the River Sambatyon; in my translation I have sought to elevate and evoke the magical and mythical over any other critical literal or historical reading. Siddur Livnat haSapir will look different compared to other siddurim.[foot]שולחן ארוך צ:כג— הבגדים המצויירים... אין נכון להתפלל כנגדם, ואם יקרה לו להתפלל כנגד בגד או כותל מצויר, יעלים עיניו. הגה: ולכן אסור ג”כ לצייר ציורים בספרים שמתפללין בהן, שלא תתבטל הכוונה (Shulḥan Arukh: Oraḥ Ḥayim 90:23 — One should not pray opposite clothes with designs… and if one happens to pray opposite a garment or wall with a picture, they should close their eyes. Rabbi Moshe ben Yisra’el Isserles (1520-1572): Therefore, one may not draw pictures in the books from which we pray, lest that prevent concentration.[/foot] I only hope that whether one is impressed or dissatisfied, it inspires the one who finds it to use this work to begin crafting their own prayerbook. I founded the Open Siddur Project to support everyone crafting their own siddur, and after seven years, I have finally made my own. I encourage others to share the product of their effort (as I have done - with an Open Content license) so as to help others to build upon and develop their own prayerbooks. 
 
-הגה: ולכן אסור ג”כ לצייר ציורים בספרים שמתפללין בהן, שלא תתבטל הכוונה</span></div></td>
- 
-<td width="53%">
-Shulḥan Arukh: Oraḥ Ḥayim 90:23 —
-One should not pray opposite clothes with designs… and if one happens to pray opposite a garment or wall with a picture, they should close their eyes.
-
-Rabbi Moshe ben Yisra’el Isserles (1520-1572): Therefore, one may not draw pictures in the books from which we pray, lest that prevent concentration.</td></tr></tbody></table>[/foot] I only hope that whether one is impressed or dissatisfied, it inspires the one who finds it to use this work to begin crafting their own prayerbook. I founded the Open Siddur Project to support everyone crafting their own siddur, and after seven years, I have finally made my own. I encourage others to share the product of their effort (as I have done - with an Open Content license) so as to help others to build upon and develop their own prayerbooks. 
-
-May the pleasantness of ה׳ our elo’ah be upon us; [may Hashem] establish our handiwork for us — our handiwork [may Hashem] establish. (Psalms 90:17)
+May the pleasantness of Adonai our <em>elo’ah</em> be upon us; establish our handiwork for us — our handiwork may it be established. (Psalms 90:17)
 
 Who can know all one’s flaws? From hidden errors, correct me” (Psalms 19:13)
 
@@ -76,7 +52,7 @@ Who can know all one’s flaws? From hidden errors, correct me” (Psalms 19:13)
 
 <h3>Print Copies</h3>
 
-Print copies available for purchase from <a href="http://dimus.parrhesia.press/?p=317" rel="nofollow">Dimus Parrhesia Press</a>.
+Print copies available for purchase from <a href="https://dimus.parrhesia.press/shop/siddurim/siddur-livnat-hasapir-lqabbalat-shabbat-by-aharon-varady/" rel="nofollow">Dimus Parrhesia Press</a>.
 
 <h3>Source Files</h3>
 

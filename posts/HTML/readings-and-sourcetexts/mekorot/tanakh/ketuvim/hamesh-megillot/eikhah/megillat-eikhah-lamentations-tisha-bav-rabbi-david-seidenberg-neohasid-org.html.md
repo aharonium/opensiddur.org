@@ -1,24 +1,26 @@
 <html>
 <head></head>
 <body>
-Title: מְגִלַּת אֵיכָה | Megillat Eikhah (Lamentations) for Reading on Tisha b'Av, translation by Rabbi David Seidenberg (neohasid.org)<br />
+Title: מְגִלַּת אֵיכָה | Megillat Eikhah (Lamentations) for Reading on Tishah b'Av, translation by Rabbi David Seidenberg (neohasid.org)<br />
 Primary contributor: david.seidenberg<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=14238">http://opensiddur.org/?p=14238</a>
 <p />
 <hr />
 
-<strong>You can support Reb Duvid’s work by making a <a href="http://neohasid.org/contribute-laments.html">financial contribution</a>.</strong>
-
 <strong>DOWNLOAD:</strong> 
+
 <a href="http://www.neohasid.org/pdf/EikhahLaments2018booklet.pdf">PDF</a> (Booklet format)
 <a href="http://www.neohasid.org/pdf/EikhahLaments2018handout.pdf">PDF</a> (Handout format)
-<a href="http://www.neohasid.org/pdf/EikhahLaments-forzoom-wholepage.pdf">PDF</a> | <a href="http://www.neohasid.org/pdf/EikhahLaments-forzoom-wholepage.pptx">PPTX</a> (Presentation format)
+<a href="http://www.neohasid.org/pdf/EikhahLaments-forzoom-wholepage.pdf">PDF</a> | <a href="http://www.neohasid.org/pdf/EikhahLaments-forzoom-wholepage-bg-no.odp">ODP</a> (whole-page presentation format) 
+<a href="http://www.neohasid.org/docs/EikhahLaments-forzoom.pdf">PDF</a> | <a href="http://www.neohasid.org/docs/EikhahLaments-forzoom.odp">ODP</a> (half-page presentation format)
 
-
+<div class="english" style="font-size: 1.2em;">
 This translation of Laments, the book of mourning poems read on Tishah b'Av, uses principles of the Buber-Rosenzweig Bible. It strives to be “concordant”, translating related Hebrew words with related English words and following the order and syntax of the Hebrew where possible. It also focuses on the more physical, earthy meaning of words, in order to draw the reader from modern towards more ancient ways of seeing and feeling. Sometimes alternate translations are given, indicated by a slash. (When reading aloud, simply pick one of the translations. For YHVH, you can read Adonai or Hashem or “the Eternal”.) James Moffatt’s 1922 translation was consulted. As a somewhat literal translation, Laments uses “He” and “His” as pronouns for God, even though Torah and common sense command us not to make an exclusively male or female image of God. If you are using Laments liturgically, please feel encouraged to change the pronouns. For brief essays on the theology of Eikhah and more, see the bottom of this page.
 
 This work is dedicated to all refugees fleeing war and upheaval, and to our remembering their needs.
-</blockquote>
+
+<strong>You can support Reb Duvid’s work by making a <a href="http://neohasid.org/contribute-laments.html">financial contribution</a>.</strong>
+</div>
 
 <hr />
 
@@ -2335,7 +2337,9 @@ like dawn / long ago.
 
 <hr />
 
-For Reb Dovid's essay on cannibalism in Eikha, please read "<a href="http://jcarrot.org/driven-beyond-reason-tisha-b%e2%80%99av%e2%80%99s-connection-to-cannibalism">To Prey or to Pray? The Lessons of Famine on Tishah b'Av</a>" (The Jew &amp; the Carrot blog, 2008-08-07).
+This work is updated annually based on the source material posted to neohasid.org, <a href="http://neohasid.org/resources/laments/">here</a>.
+
+For Reb Dovid's essay on cannibalism in Eikhah, please read "<a href="http://jcarrot.org/driven-beyond-reason-tisha-b%e2%80%99av%e2%80%99s-connection-to-cannibalism">To Prey or to Pray? The Lessons of Famine on Tishah b'Av</a>" (The Jew &amp; the Carrot blog, 2008-08-07).
 
 Rabbi Seidenberg writes:
 
@@ -2377,5 +2381,7 @@ Some of this material is excerpted from <em><a href="http://kabbalahandecology.c
 <h3>Source</h3>
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.neohasid.org/pdf/EikhahLaments2018handout.pdf"]
+
+&nbsp;
 </body>
 </html>

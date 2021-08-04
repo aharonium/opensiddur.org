@@ -87,9 +87,10 @@ One should not rely only upon this text. A Siddur is not just an order of prayer
 <td><a class="download" href="https://opensiddur.org/wp-content/uploads/2010/08/The-Shabbat-Book-Nusaḥ-Ha-Ari-ḤaBaD.txt">TXT</a></td>
 </tr><tr>
 <td>Ḳiddush Levana (Blessing of the New Moon, v.3.3)</td>
-<td><a class="pdf" href="https://opensiddur.org/wp-content/uploads/2010/08/Ḳiddush-Levana-Nusaḥ-Ha-Ari-ḤaBaD.pdf">PDF</a></td>
-<td><a class="download" href="https://opensiddur.org/wp-content/uploads/2010/08/Ḳiddush-Levana-Nusaḥ-Ha-Ari-ḤaBaD.odt">ODT</a></td>
-<td><a class="download" href="https://opensiddur.org/wp-content/uploads/2010/08/Ḳiddush-Levana-Nusaḥ-Ha-Ari-ḤaBaD.txt">TXT</a></td>
+https://opensiddur.org/wp-content/uploads/2010/08/Kiddush-Levana-Nusaḥ-Ha-Ari-ḤaBaD.odt
+<td><a class="pdf" href="https://opensiddur.org/wp-content/uploads/2010/08/Kiddush-Levana-Nusaḥ-Ha-Ari-ḤaBaD.pdf">PDF</a></td>
+<td><a class="download" href="https://opensiddur.org/wp-content/uploads/2010/08/Kiddush-Levana-Nusaḥ-Ha-Ari-ḤaBaD.odt">ODT</a></td>
+<td><a class="download" href="https://opensiddur.org/wp-content/uploads/2010/08/Kiddush-Levana-Nusaḥ-Ha-Ari-ḤaBaD.txt">TXT</a></td>
 </tr><tr>
 <td>Hallel and Musaf for Rosh Ḥodesh (New Moon's Day, v.3.3)</td>
 <td><a class="pdf" href="https://opensiddur.org/wp-content/uploads/2010/08/Hallel-Musaf-Rosh-Ḥodesh-Nusaḥ-Ha-Ari-ḤaBaD.pdf">PDF</a></td>

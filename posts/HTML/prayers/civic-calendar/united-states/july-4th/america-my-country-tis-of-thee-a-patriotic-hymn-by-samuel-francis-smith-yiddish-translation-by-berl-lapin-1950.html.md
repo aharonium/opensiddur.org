@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: אמעריקע | America (My Country, 'Tis of Thee), a patriotic hymn by Samuel Francis Smith (1832)<br />
+Title: אמעריקע | America (My Country, 'Tis of Thee), a patriotic hymn by Samuel Francis Smith (1832) with Yiddish translation by Berl Lapin (1950)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=31758">http://opensiddur.org/?p=31758</a>
 <p />

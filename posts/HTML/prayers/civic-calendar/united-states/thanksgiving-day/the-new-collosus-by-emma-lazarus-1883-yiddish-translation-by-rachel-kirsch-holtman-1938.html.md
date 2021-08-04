@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: דער נײער קאָלאסוס | The New Collosus, by Emma Lazarus (1883), Yiddish translation by Rachel Kirsch Holtman (1938)<br />
+Title: דער נײער קאָלאסוס | Emma Lazarus's paean to the Shekhinah, "Mother of Exiles" (The New Collosus, 1883), Yiddish translation by Rachel Kirsch Holtman (1938)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=20604">http://opensiddur.org/?p=20604</a>
 <p />
@@ -40,7 +40,7 @@ With conquering limbs astride from land to land;
 Here at our sea-washed, sunset gates shall stand
 A mighty woman with a torch, whose flame
 Is the imprisoned lightning, and her name
-MOTHER OF EXILES. From her beacon-hand
+MOTHER OF EXILES.[foot]Cf. Megillah 29a.4.[/foot] From her beacon-hand
 Glows world-wide welcome; her mild eyes command
 The air-bridged harbor that twin cities frame.
 </div></td></tr>
@@ -69,7 +69,7 @@ I lift my lamp beside the golden door!"
 
 <hr />
 
-This is the sonnet, "The New Collosus" (1883) by Emma Lazarus set side-by-side with its Yiddish translation by Rachel Kirsch Holtman. The translation appears in a section dedicated to Emma Lazarus in Holtman's 1938 work, <em>Fir Barimte Froyen</em> (Four Famous Women). Lazarus famously penned her sonnet in response to the waves of Russian-Jewish refugees seeking refuge in the Unites States of America as a result of murderous Russian pogroms following the assassination of Tsar Alexander II in 1881. Her identification and revisioning of the Statue of Liberty as the Mother of Exiles points to the familiar Jewish identification of the Shekhinah (the Divine Presence, in its feminine aspect) with the light of the Jewish people in their Diaspora, as found in the Talmud Bavli, tractate Megillah 29a:
+This is the sonnet, "The New Collosus" (1883) by Emma Lazarus set side-by-side with its Yiddish translation by Rachel Kirsch Holtman. The translation appears in a section dedicated to Emma Lazarus in Holtman's 1938 work, <em>Fir Barimte Froyen</em> (Four Famous Women). Lazarus famously penned her sonnet in response to the waves of Russian-Jewish refugees seeking refuge in the Unites States of America as a result of murderous Russian pogroms following the assassination of Tsar Alexander II in 1881. Her identification and revisioning of the Statue of Liberty as the Mother of Exiles points to the familiar Jewish identification of the Shekhinah (the Divine Presence, in its feminine aspect) with the light of the Jewish people in their Diaspora, as found in the Talmud Bavli, tractate Megillah 29a.4:
 
 <blockquote>
 <table style="margin-left: auto;margin-right: auto;" class="draggable">

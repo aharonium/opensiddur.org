@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: קדיש יתום ליחיד | Mourners Ḳaddish for an Individual Without a Minyan (Seder Ḥasidim, ca. 12-13th c.)<br />
+Title: קדיש יתום ליחיד | Mourner's Ḳaddish for an Individual Without a Minyan (Seder Ḥasidim, ca. 12-13th c.)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=30978">http://opensiddur.org/?p=30978</a>
 <p />

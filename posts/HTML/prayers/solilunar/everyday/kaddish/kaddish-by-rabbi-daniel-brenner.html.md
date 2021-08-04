@@ -1,14 +1,14 @@
 <html>
 <head></head>
 <body>
-Title: קדיש | A Ḳaddish, by Rabbi Daniel Brenner<br />
+Title: קדיש | Ḳaddish, an abridged paraliturgical reading by Rabbi Daniel Brenner<br />
 Primary contributor: daniel.s.brenner<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=261">http://opensiddur.org/?p=261</a>
 <p />
 <hr />
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;">Source (Aramaic)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
@@ -119,7 +119,7 @@ May it be true.
 
 <hr />
 
-Interpretation of the Ḳaddish by Rabbi Daniel Brenner. The wording of the ḳaddish itseld is neither a half-ḳaddish and a bit shorter than the mourners' ḳaddish. Text of the ḳaddish in Aramaic adapted slightly to Rabbi Brenner's interpretation. --Aharon Varady
+A paraliturgical reading of a Ḳaddish by Rabbi Daniel Brenner. The wording of the ḳaddish itself is neither a half-ḳaddish and a bit shorter than the mourner's ḳaddish. Text of the ḳaddish in Aramaic amended to Rabbi Brenner's interpretation. --Aharon Varady
 
 &nbsp;
 </body>

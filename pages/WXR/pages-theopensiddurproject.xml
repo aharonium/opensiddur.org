@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.7.2" created="2021-07-04 03:59" -->
+	<!-- generator="WordPress/5.8" created="2021-08-04 04:17" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>the Open Siddur Project</title>
 	<link>https://opensiddur.org</link>
 	<description>פְּרוֺיֶּקט הַסִּדּוּר הַפָּתוּחַ ✍ the open-source project for folk liberating liturgy and crafting their own prayerbooks</description>
-	<pubDate>Sun, 04 Jul 2021 03:59:07 +0000</pubDate>
+	<pubDate>Wed, 04 Aug 2021 04:17:33 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://opensiddur.org</wp:base_site_url>
@@ -41,7 +41,7 @@
 	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email>email redacted</wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[The]]></wp:author_first_name><wp:author_last_name><![CDATA[Admin]]></wp:author_last_name></wp:author>
 
 				
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 
 <image>
 	<url>https://opensiddur.org/wp-content/uploads/2015/03/Open-Siddur-Project-Logo-2015-5509b4bdv1_site_icon-32x32.png</url>
@@ -124,7 +124,7 @@ The Open Siddur Project is committed to the following principles and movements w
 		<wp:post_name><![CDATA[mission]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>316</wp:post_parent>
-		<wp:menu_order>31</wp:menu_order>
+		<wp:menu_order>30</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -193,6 +193,7 @@ The Open Siddur Project is committed to the following principles and movements w
 			<wp:comment_id>5</wp:comment_id>
 			<wp:comment_author><![CDATA[The Jewish Liturgy Project: A Toolkit for Custom Liturgy | eJewish Philanthropy: The Jewish Philanthropy Blog]]></wp:comment_author>
 			<wp:comment_author_email>email redacted</wp:comment_author_email>
+
 			<wp:comment_author_url>http://ejewishphilanthropy.com/the-jewish-liturgy-project-a-toolkit-for-custom-liturgy/</wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[74.50.25.250]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2009-07-04 22:51:55]]></wp:comment_date>
@@ -207,6 +208,7 @@ The Open Siddur Project is committed to the following principles and movements w
 			<wp:comment_id>58</wp:comment_id>
 			<wp:comment_author><![CDATA[Prayer Unbound: Reactions to Open Siddur « This is What a Rabbi Looks Like]]></wp:comment_author>
 			<wp:comment_author_email>email redacted</wp:comment_author_email>
+
 			<wp:comment_author_url>http://thisiswhatarabbilookslike.wordpress.com/2009/12/03/prayer-unbound-reactions-to-open-siddur/</wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[72.233.96.139]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2009-12-03 13:04:12]]></wp:comment_date>
@@ -292,7 +294,7 @@ With modest financial needs and support from numerous small donors, Aharon, Efra
 		<wp:post_name><![CDATA[history]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>316</wp:post_parent>
-		<wp:menu_order>45</wp:menu_order>
+		<wp:menu_order>44</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -482,7 +484,7 @@ If you'd like to connect with us over social media, join our discussion group on
 		<wp:post_name><![CDATA[contributing]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>23</wp:menu_order>
+		<wp:menu_order>22</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -563,7 +565,7 @@ If you'd like to connect with us over social media, join our discussion group on
 		<wp:post_name><![CDATA[development]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>17414</wp:post_parent>
-		<wp:menu_order>26</wp:menu_order>
+		<wp:menu_order>25</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -806,7 +808,7 @@ Rosh Ḥodesh
 		<wp:post_name><![CDATA[faq]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>316</wp:post_parent>
-		<wp:menu_order>49</wp:menu_order>
+		<wp:menu_order>48</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -947,7 +949,7 @@ Share your work without any conditions, for example, requiring correct attributi
 		<wp:post_name><![CDATA[upload]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>281</wp:post_parent>
-		<wp:menu_order>25</wp:menu_order>
+		<wp:menu_order>24</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1089,7 +1091,7 @@ SHARE WHAT YOU LOVE ♡ -- A Decision Tree for Choosing Free-Culture Compatible 
 		<wp:post_name><![CDATA[a-decision-tree-for-choosing-freelibre-licenses-for-cultural-and-technological-work]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>281</wp:post_parent>
-		<wp:menu_order>40</wp:menu_order>
+		<wp:menu_order>39</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1411,7 +1413,7 @@ The <a href="http://tanach.us/">Westminster Leningrad Codex</a>: digital edition
 		<wp:post_name><![CDATA[recommended-links]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>56</wp:menu_order>
+		<wp:menu_order>55</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1542,7 +1544,7 @@ The source code for this romanizing transliterator is open source, LGPL licensed
 		<wp:post_name><![CDATA[transliterate]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>52</wp:menu_order>
+		<wp:menu_order>51</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3234,7 +3236,7 @@ If you or your company designed a Hebrew font which you never updated to Unicode
 		<wp:post_name><![CDATA[fonts]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>53</wp:menu_order>
+		<wp:menu_order>52</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3339,7 +3341,7 @@ If you or your company designed a Hebrew font which you never updated to Unicode
 		<wp:post_name><![CDATA[help]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>39</wp:menu_order>
+		<wp:menu_order>38</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3498,7 +3500,7 @@ Another OCR project to keep an eye on is that of <a href="https://github.com/uri
 		<wp:post_name><![CDATA[transcribe]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>48</wp:menu_order>
+		<wp:menu_order>47</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3669,7 +3671,7 @@ Press "Layout options"</li>
 		<wp:post_name><![CDATA[typing]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>38</wp:menu_order>
+		<wp:menu_order>37</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3866,7 +3868,7 @@ For a <strong>Keyboard Shortcut</strong> to change the language orientation to 
 		<wp:post_name><![CDATA[editing-layout]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>50</wp:menu_order>
+		<wp:menu_order>49</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3987,7 +3989,7 @@ We maintain physical, electronic and procedural safeguards intended to protect a
 		<wp:post_name><![CDATA[privacy-policy]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>11058</wp:post_parent>
-		<wp:menu_order>37</wp:menu_order>
+		<wp:menu_order>36</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -4219,7 +4221,7 @@ We appreciate your taking the time to read these Terms of Use, and we are very h
 		<wp:post_name><![CDATA[terms-of-use]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>11058</wp:post_parent>
-		<wp:menu_order>33</wp:menu_order>
+		<wp:menu_order>32</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -4432,7 +4434,7 @@ Only DMCA notices and notices relating to complaints in connection with infringe
 		<wp:post_name><![CDATA[copyright-policy]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>11058</wp:post_parent>
-		<wp:menu_order>28</wp:menu_order>
+		<wp:menu_order>27</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -4545,7 +4547,7 @@ Connect with us on <a href="http://facebook.com/opensiddur">Facebook</a>, <a hre
 		<wp:post_name><![CDATA[home]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>8</wp:menu_order>
+		<wp:menu_order>7</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -4715,7 +4717,7 @@ Imaging is critical in providing a source image by which collaborative transcrip
 		<wp:post_name><![CDATA[document-manuscript-imaging]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>27</wp:menu_order>
+		<wp:menu_order>26</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -4853,7 +4855,7 @@ and <strong>Communicating the principles of sharing as the basis of a vital, cre
 		<wp:post_name><![CDATA[vision]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>316</wp:post_parent>
-		<wp:menu_order>41</wp:menu_order>
+		<wp:menu_order>40</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -4960,7 +4962,7 @@ and <strong>Communicating the principles of sharing as the basis of a vital, cre
 		<wp:post_name><![CDATA[hebrew-support-in-your-web-browser]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>55</wp:menu_order>
+		<wp:menu_order>54</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -5035,7 +5037,7 @@ and <strong>Communicating the principles of sharing as the basis of a vital, cre
 		<description></description>
 		<content:encoded><![CDATA[With <em>kavod</em> (honor) to "all whose hearts were stirred to share" (<em>kol asher nasa libam</em>, <span class="citation">cf. Exodus 36:2-3</span>), this is a searchable index of all liturgists, translators, transcribers, etc. whose work on Jewish prayer, on prayer books, and on public readings is being shared through the Open Siddur Project. After ten years, the total number of project contributors is nearly 800. A little over half have shared their work either directly with the project with an Open Content license, or indirectly by contributing their work into the Public Domain as a contributor to a government publication. Nearly fifty are institutional copyright stewards (operating or defunct for-profit and non-profit entities). The remaining contributors have had their works transcribed from material that has passed into the Public Domain after their deaths. Some transcribed works shared through the Open Siddur project remain unattributed due to <a href="/profile/unknown/">unknown authorship</a>. If you find an uncredited or improperly attributed work, please <a href="/contact/">contact us</a>.
 
-To join this community of contributors, please <a href="/contribute/upload/">share your work</a>. Making prayers and related religious works available for creative reuse and republication through Open Content licenses is crucial -- under the current climate of denominationally identified silos and contemporary copyright strictures --for keeping Jewish culture cross-pollinating, vital, and relevant. Prospective contributors should read our <a href="/development/mission/">Mission Statement</a>, <a href="/about-this-project/policies/terms-of-use/">Terms of Use</a>, and <a href="/about-this-project/policies/copyright-policy/">Copyleft Policy</a>. The Open Siddur is a non-prescriptive, non-denominational project and invites participation without prejudice towards ethnic heritage, skin color, nationality, belief or non-belief, sex, gender, sexuality or any other consideration. 
+To join this community of contributors, please <a href="/contribute/upload/">share your work</a>. Making prayers and related religious works available for creative reuse and republication through Open Content licenses is crucial for keeping Jewish culture cross-pollinating, vital, and relevant under the current climate of denominationally identified silos and proprietary-by-default copyright strictures. Prospective contributors should read our <a href="/development/mission/">Mission Statement</a>, <a href="/about-this-project/policies/terms-of-use/">Terms of Use</a>, and <a href="/about-this-project/policies/copyright-policy/">Copyleft Policy</a>. The Open Siddur is a non-prescriptive, non-denominational project and invites participation without prejudice towards ethnic heritage, skin color, nationality, belief or non-belief, sex, gender, sexuality or any other consideration. 
 
 <hr />
 
@@ -5044,8 +5046,8 @@ To join this community of contributors, please <a href="/contribute/upload/">sha
 		<wp:post_id>10402</wp:post_id>
 		<wp:post_date><![CDATA[2015-02-20 06:06:49]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-02-20 15:06:49]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-05-30 13:29:01]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-05-30 21:29:01]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-08-01 17:58:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-08-02 01:58:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contributors]]></wp:post_name>
@@ -5118,7 +5120,7 @@ To join this community of contributors, please <a href="/contribute/upload/">sha
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[            ]]></wp:meta_value>
+		<wp:meta_value><![CDATA[             ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_footer]]></wp:meta_key>
@@ -5156,7 +5158,7 @@ To join this community of contributors, please <a href="/contribute/upload/">sha
 		<wp:post_name><![CDATA[policies]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>17414</wp:post_parent>
-		<wp:menu_order>47</wp:menu_order>
+		<wp:menu_order>46</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -5287,7 +5289,7 @@ Text on this page has been amended from <a href="http://creativecommons.org.il/i
 		<wp:post_name><![CDATA[%d7%97%d7%9c%d7%a7-%d7%9e%d7%94%d7%96%d7%9b%d7%95%d7%99%d7%95%d7%aa-%d7%a9%d7%9e%d7%95%d7%a8%d7%95%d7%aa]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>11058</wp:post_parent>
-		<wp:menu_order>44</wp:menu_order>
+		<wp:menu_order>43</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -5465,7 +5467,7 @@ Find below, a chart for Hebrew consonants and vowels with their corresponding le
 		<wp:post_name><![CDATA[style-guide]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>281</wp:post_parent>
-		<wp:menu_order>54</wp:menu_order>
+		<wp:menu_order>53</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -6134,7 +6136,7 @@ English translation courtesy of Leonard Berkowitz. Section numbers outside the s
 		<wp:post_name><![CDATA[rules-for-niqqud]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>51</wp:menu_order>
+		<wp:menu_order>50</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -6223,7 +6225,7 @@ English translation courtesy of Leonard Berkowitz. Section numbers outside the s
 		<wp:post_name><![CDATA[about-this-project]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>46</wp:menu_order>
+		<wp:menu_order>45</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -6494,7 +6496,7 @@ In the summer of 2009, the Open Siddur was one of sixteen innovative projects ch
 		<wp:post_name><![CDATA[bookmarks]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>20</wp:menu_order>
+		<wp:menu_order>19</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -6594,7 +6596,7 @@ In the summer of 2009, the Open Siddur was one of sixteen innovative projects ch
 		<wp:post_name><![CDATA[edit-account]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>24</wp:menu_order>
+		<wp:menu_order>23</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -6679,7 +6681,7 @@ If you've lost it, you can also <a href="https://opensiddur.org/help/recover-pas
 		<wp:post_name><![CDATA[log-in]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>17</wp:menu_order>
+		<wp:menu_order>16</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -6763,7 +6765,7 @@ If you've lost it, you can also <a href="https://opensiddur.org/help/recover-pas
 		<wp:post_name><![CDATA[recover-password]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>21</wp:menu_order>
+		<wp:menu_order>20</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -6849,15 +6851,15 @@ Scheduled monthly donations will be received through our account on <a href="htt
 </td>
 
 <td style="vertical-align:top;">
-If you would rather make a single, one-time donation, 
+If you would rather make a non-recurring donation, 
 you may do so through Jewish Creativity International (EIN 95-4328467), 
 a 501(3)c registered non-profit which acts as our fiscal sponsor for just such donations. 
 
 You can make your donation online through Jewish Creativity International 
 via the philanthropic website, <a href="https://www.mightycause.com/story/Opensiddurproject">Mightycause</a>. 
 
-Alternately, if you would prefer to make an offline donation by mail, 
-please make a check out to "Jewish Creativity International" 
+If you would prefer to make an offline donation by mail of <strong>$250 or more</strong>, 
+<em>please make your check out to</em> "<strong>Jewish Creativity International</strong>" 
 indicating that your donation should be directed to <strong>"the Open Siddur Project"</strong> 
 at the following address:
 
@@ -6878,14 +6880,14 @@ New York, NY 10025-7449</p>
 		<wp:post_id>28454</wp:post_id>
 		<wp:post_date><![CDATA[2019-12-10 23:30:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-12-11 08:30:05]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-04-16 14:25:37]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-04-16 22:25:37]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-07-08 18:21:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-07-09 02:21:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[donations]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>281</wp:post_parent>
-		<wp:menu_order>22</wp:menu_order>
+		<wp:menu_order>21</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -6908,7 +6910,7 @@ New York, NY 10025-7449</p>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[                    ]]></wp:meta_value>
+		<wp:meta_value><![CDATA[                       ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_footer]]></wp:meta_key>
@@ -6929,6 +6931,10 @@ New York, NY 10025-7449</p>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[10855]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
+		<wp:meta_value><![CDATA[classic-editor]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -7033,7 +7039,7 @@ New York, NY 10025-7449</p>
 		<wp:post_name><![CDATA[joining]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>281</wp:post_parent>
-		<wp:menu_order>11</wp:menu_order>
+		<wp:menu_order>10</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -7098,7 +7104,7 @@ New York, NY 10025-7449</p>
 		<wp:post_name><![CDATA[table-of-contents]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>6</wp:menu_order>
+		<wp:menu_order>5</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -7160,7 +7166,7 @@ New York, NY 10025-7449</p>
 		<wp:post_name><![CDATA[user-verification]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>5</wp:menu_order>
+		<wp:menu_order>4</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -7217,7 +7223,7 @@ New York, NY 10025-7449</p>
 		<wp:post_name><![CDATA[account-2]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
+		<wp:menu_order>3</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>

@@ -1,15 +1,17 @@
 <html>
 <head></head>
 <body>
-Title: &#8220;Taking Prayer Into Their Own Hands&#8221; (The Jewish Week 2010)<br />
+Title: “Taking Prayer Into Their Own Hands” (Steve Lipman, New York Jewish Week 2010)<br />
 Primary contributor: hierophant<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=318">http://opensiddur.org/?p=318</a>
 <p />
 <hr />
 
-In January 2010, the Jewish Week published a piece about the Open Siddur Project by Steve Lipman, entitled, "Taking Prayer Into Their Own Hands." The article is no longer available online at the Jewish Week website or in any online cache. Below is an excerpt preserved for posterity:
+In January 2010, the New York Jewish Week published a piece about the Open Siddur Project by Steve Lipman, entitled, "Taking Prayer Into Their Own Hands." The article is no longer available online at the Jewish Week website or in any online cache. Below is an excerpt preserved for posterity:
 
-<blockquote>
+<hr />
+
+<div class="english" style="font-size: 1.2em;">
 Five and a half centuries after Gutenberg invented the printing press and changed the face of Christianity by making mass-produced copies of the Bible available to the laity, 21st-century technology is beginning to revolutionize Judaism in a similar, if more individualizing way. Jewish individuals, Jewish denominations and Jewish organizations, who don’t find a prayer book to their liking in the pews of synagogues or on the shelves of book stores, are finding an answer in cyberspace.
 
 “I would enjoy more davening out of a siddur if it had what I say,” says Josh Rosenberg, a computer analyst in Philadelphia and a founder of an independent minyan there who hopes to make his own siddur through opensiddur.org.
@@ -87,6 +89,10 @@ Aryeh Ben David, a Scarsdale native who moved in 1980 to Israel, where he heads 
 True prayer, Ben David says, is not reading words from a book; it’s talking from the heart.
 
 Like Teyve, in “Fiddler on the Roof,” who addresses God like a close friend. “That’s how we should daven,” Ben David says.
-</blockquote>
+</div>
+
+<hr />
+
+&nbsp;
 </body>
 </html>

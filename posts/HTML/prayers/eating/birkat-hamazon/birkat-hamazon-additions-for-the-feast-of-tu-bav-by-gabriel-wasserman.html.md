@@ -10,18 +10,23 @@ For attribution and license, please consult the following URL: <a href="http://o
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;"><a href="https://opensiddur.org/contributing/upload/">Contribute a translation</a></th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;" >
 <div class="liturgy"><span lang="he">
-ברוך אתה יי אלהינו מלך העולם הזן את העולם כולו בטובו בחן בחסד וברחמים
+ברוך אתה 
+יי אלהינו 
+מלך העולם 
+הזן את העולם 
+כולו בטובו בחן 
+בחסד וברחמים
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;" >
 <div class="english">
 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;" >
 <div class="liturgy"><span lang="he">
 אָגִיל
 גִּ֯ילָה וְאָשִׁיר שִׁירָה
@@ -33,49 +38,57 @@ For attribution and license, please consult the following URL: <a href="http://o
 <blockquote>בְּסָלְחָךְ לָ֫נוּ אֲשָׁמֵ֫נוּ לִמְחֹל
 שַׂבְּעֵ֫נוּ וּפְתִיחַת־יָדְךָ עָלֵ֫ינוּ תָּחוֹל
 בְּלֶכְתֵּ֫נוּ לַכְּרָמִים לָצֵאת בְּמָחוֹל</blockquote>
-ככתוב: אז תשמח בתולה במחול ובחֻרים וזקנים יחדו והפכתי אבלם לששון ונחמתים ושִמחתים מיגונם (יר' לא, יב)
+ככתוב: אָז תִּשְׂמַח בְּתוּלָה בְּמָחוֹל 
+וּבַחֻרִים וּזְקֵנִים יַחְדָּו 
+וְהָפַכְתִּי אֶבְלָם לְשָׂשׂוֹן 
+וְנִחַמְתִּים וְשִׂמַּחְתִּים מִיגוֹנָם׃ <span class="citation">(ירמיהו לא:יג)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;" >
 <div class="english">
 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;" >
 <div class="liturgy"><span lang="he">
-ונאמר: פותח את ידך ומשביע לכל חי רצון (תהלים קמה:טז)
+ונאמר: פותח את ידך 
+ומשביע לכל חי רצון <span class="citation">(תהלים קמה:טז)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;" >
 <div class="english">
 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;" >
 <div class="liturgy"><span lang="he">
 ברוך אתה יי הזן את הכל.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;" >
 <div class="english">
 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;" >
 <div class="liturgy"><span lang="he">
-נודה לך יי אלהינו על שהנחלת לאבותינו ארץ חמדה טובה ורחבה ברית ותורה חיים ומזון
+נודה לך יי אלהינו 
+על שהנחלת לאבותינו 
+ארץ חמדה טובה ורחבה 
+ברית ותורה 
+חיים ומזון
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;" >
 <div class="english">
 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;" >
 <div class="liturgy"><span lang="he">
 אָגִיל
 רִ֯נּוּנִים וְאֶעֱלֹס עִלּוּסִים
@@ -87,49 +100,58 @@ For attribution and license, please consult the following URL: <a href="http://o
 <blockquote>כִּי בָאָדָם מַעֲשִׂים יִיצְרוּ גְּבִיר
 אֲבָל בְּאַדְמָתֵ֫ינוּ נוֹיָהּ לֹא תַעֲבִיר
 יֹ֫פִי אַדְמַת דָּת וּבְרִית תַּגְבִּיר</blockquote>
-ככתוב: שקר החן והבל היפי אשה יראת יי היא תתהלל. (משלי לא:ל)
+ככתוב: שקר החן 
+והבל היפי 
+אשה יראת יי 
+היא תתהלל. <span class="citation">(משלי לא:ל)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;" >
 <div class="english">
 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;" >
 <div class="liturgy"><span lang="he">
-ונאמר: ואכלת ושבעת וברכת את יי אלהיך על הארץ הטֹבה אשר נתן לך (דברים ח, י)
+ונאמר: ואכלת ושבעת וברכת את יי אלהיך 
+על הארץ הטֹבה אשר נתן לך <span class="citation">(דברים ח:י)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;" >
 <div class="english">
 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;" >
 <div class="liturgy"><span lang="he">
 ברוך אתה יי על הארץ ועל המזון.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;" >
 <div class="english">
 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;" >
 <div class="liturgy"><span lang="he">
-רחם יי אלהינו על ישראל עמך ועל ירושלים עירך ועל ציון משכן כבודך ועל מלכות בית דוד משיחך ועל הבית הגדול והקדוש שנקרא שמך עליו
+רחם יי אלהינו 
+על ישראל עמך 
+ועל ירושלים עירך 
+ועל ציון משכן כבודך 
+ועל מלכות בית דוד משיחך 
+ועל הבית הגדול והקדוש שנקרא שמך עליו
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;" >
 <div class="english">
 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;" >
 <div class="liturgy"><span lang="he">
 אָגִיל
 אֲ֯הָבִים וְאֶעֱרֹג בְּרֹן
@@ -141,43 +163,57 @@ For attribution and license, please consult the following URL: <a href="http://o
 <blockquote>כְּמוֹ לַ֫נּוּ בַּכְּפָרִים וּבְכַרְמֵי מְגָדֵ֫ינוּ
 חַדֵּשׁ דְּבִירֵ֫נוּ וּבֵית כְּבוֹדֵי֫נוּ
 עֲטֶ֫רֶת הֵיכָלֵ֫נוּ בָּנָה מֶ֫לֶךְ שְׁלוֹמֵ֫נוּ</blockquote>
-ככתוב: צאנה וראנה בנות ציון במלך שלמה בעטרה שעטרה לו אמו ביום חתנתו וביום שמחת לבו (שיר השירים ש ג, יא)
+ככתוב: צְאֶנָה  וּרְאֶינָה בְּנוֹת צִיּוֹן בַּמֶּלֶךְ שְׁלֹמֹה 
+בָּעֲטָרָה שֶׁעִטְּרָה־לּוֹ אִמּוֹ 
+בְּיוֹם חֲתֻנָּתוֹ 
+וּבְיוֹם שִׂמְחַת לִבּוֹ <span class="citation">(שיר השירים ג:יא)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;" >
 <div class="english">
 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;" >
 <div class="liturgy"><span lang="he">
-ונאמר: בונה ירושלם יי נדחי ישראל יכנס (תהלים קמז:ב)
+ונאמר: בונה ירושלם יי נדחי ישראל יכנס <span class="citation">(תהלים קמז:ב)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;" >
 <div class="english">
 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;" >
 <div class="liturgy"><span lang="he">
-ברוך אתה יי בונה ברחמיו ירושלים. אמן.
+ברוך אתה יי בונה ברחמיו ירושלים. 
+אמן.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;" >
 <div class="english">
 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;" >
 <div class="liturgy"><span lang="he">
-ברוך אתה יי אלהינו מלך העולם האל אבינו מלכנו אדירנו קדושנו קדוש יעקב המלך הטוב והמטיב אשר בכל יום ויום הוא הטיב מטיב ייטיב לנו, הוא גמלנו גומלנו יגמלנו לעד חן וחסד ורחמים וכל טוב.
+ברוך אתה 
+יי אלהינו 
+מלך העולם 
+האל 
+אבינו מלכנו 
+אדירנו קדושנו 
+קדוש יעקב 
+המלך הטוב והמטיב 
+אשר בכל יום ויום 
+הוא הטיב מטיב ייטיב לנו, 
+הוא גמלנו גומלנו יגמלנו לעד חן וחסד ורחמים וכל טוב.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;" >
 <div class="english">
 
 </span></div></td></tr>

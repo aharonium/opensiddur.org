@@ -78,7 +78,7 @@ That YHVH has consoled Tsiyon.[foot]Isa. 51:3[/foot]
 <td style="vertical-align:top;" width="53%"><div class="english">
 Today long ago the plague
 Ceased to claim the desert dead,
-And Benyamin, young ruler,[foot]Ps. 68:28[/foot]
+And Binyamin, young ruler,[foot]Ps. 68:28[/foot]
 Joined this day the tribes of Yah
 And the Rock who redeems favored them
 After they felt his wrath

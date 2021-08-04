@@ -1,12 +1,11 @@
 <html>
 <head></head>
 <body>
-Title: תפילה ליום הודו על חנוכּה | Prayer on Thanksgivukah by Rabbi David Seidenberg (neohasid.org)<br />
+Title: תפילה ליום הודו על חנוכּה | Prayer for when Thanksgiving Day falls during Ḥanukkah, by Rabbi David Seidenberg (neohasid.org)<br />
 Primary contributor: david.seidenberg<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=7746">http://opensiddur.org/?p=7746</a>
 <p />
 <hr />
-
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
@@ -59,8 +58,7 @@ that lives with love towards all beings.
 This prayer was originally published in the essay "<a href="http://www.huffingtonpost.com/rabbi-david-seidenberg/thanksgivukkah-2-coming-s_b_4325703.html">Thanksgivukkah 2 Coming Sooner Than You Think! Climate Change Coming Sooner!</a>" by Rabbi David Seidenberg at The Huffington Post (2013-11-23).
 
 <blockquote>
-
-[caption id="attachment_7748" align="alignright" width="180"]<a href="https://opensiddur.org/wp-content/uploads/2013/11/553909_10152066489242363_967081566_a.jpg"><img src="https://opensiddur.org/wp-content/uploads/2013/11/553909_10152066489242363_967081566_a.jpg" alt="Beit Ahavah solar ner tamid, along with menorah and Tree of Life (Northampton, Massachusetts)" width="180" height="186" class="size-full wp-image-7748" /></a> Beit Ahavah solar ner tamid, along with menorah and Tree of Life (Northampton, Massachusetts)[/caption]You may have heard the next Thanksgivukkah--the mashup of Thanksgiving and Chanukkah--won’t come for 79,000 years.That’s not exactly right. In fact, this is just the one time for a very long while that the *second* night of Chanukkah will coincide with Thanksgiving. But the first night of Chanukkah will fall out on Thanksgiving in 2070, and then again in 2165. 2070 is soon enough that most Jews under 30 will be there to celebrate. That’s a long time, but it’s on a time scale similar to the Jubilee, which is every 50th year.
+You may have heard the next Thanksgivukkah--the mashup of Thanksgiving and Chanukkah--won’t come for 79,000 years.That’s not exactly right. In fact, this is just the one time for a very long while that the *second* night of Chanukkah will coincide with Thanksgiving. But the first night of Chanukkah will fall out on Thanksgiving in 2070, and then again in 2165. 2070 is soon enough that most Jews under 30 will be there to celebrate. That’s a long time, but it’s on a time scale similar to the Jubilee, which is every 50th year.
 
 I’ll explain below why the number 79,000 is wrong for ecological and sociological reasons. But we have to make two other huge assumptions to even imagine a Thanksgivukkah in 79,000 years. One is that Thanksgiving will exist 79,000 years from now. Given that the United States has only been around for 200-some odd years, and that the nation-state hasn’t even been around for a thousand years, that’s a pretty big stretch.
 
