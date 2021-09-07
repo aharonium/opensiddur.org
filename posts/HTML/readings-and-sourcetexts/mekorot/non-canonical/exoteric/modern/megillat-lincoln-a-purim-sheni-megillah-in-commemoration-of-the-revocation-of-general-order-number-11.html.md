@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: מגילת לינקון | Megillat Lincoln, a Purim Sheni scroll for the 13th of Tevet commemorating the revocation of Ulysses S. Grant's General Order № 11<br />
+Title: מְגִלַּת לִינְקוֹן | Megillat Lincoln, a Purim Sheni scroll for the 13th of Tevet commemorating the revocation of Ulysses S. Grant's General Order № 11 (1862, 2020)<br />
 Primary contributor: isaac-gantwerk.mayer<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=31723">http://opensiddur.org/?p=31723</a>
 <p />

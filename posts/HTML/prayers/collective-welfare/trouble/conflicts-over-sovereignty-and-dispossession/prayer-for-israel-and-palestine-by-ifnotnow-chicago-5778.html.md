@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: תפילה לישראל ופלסטין | Prayer for Israel and Palestine by IfNotNow-Chicago (5778)<br />
+Title: תפילה לישראל ופלסטין | Prayer for Israel and Palestine, by IfNotNow-Chicago (2017)<br />
 Primary contributor: IfNotNow.Chicago<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=17632">http://opensiddur.org/?p=17632</a>
 <p />
@@ -36,31 +36,41 @@ and all those who dwell among them.
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
-שָׁלַח אֶת אֹרֶךְ וְאֶת הָאֱמֶת שֶׁלָּךְ אֶל מַנְהִיגֵיהֶם וְאֶל תּוֹשָׁבֵיהֶם
-לְקַיֵּם חֵרוּת וְכָבוֹד לְכׇל הַפַּלָסְטִינִים וְהַיִּשְׂרָאֵלִים
+שָׁלַח אֶת אֹרֶךְ וְאֶת הָאֱמֶת 
+שֶׁלָּךְ אֶל מַנְהִיגֵיהֶם וְאֶל תּוֹשָׁבֵיהֶם
+לְקַיֵּם חֵרוּת וְכָבוֹד 
+לְכׇל הַפַּלָסְטִינִים וְהַיִּשְׂרָאֵלִים
 כַּכָּתוּב בְּתוֹרָתֶךָ,
-”וּקְרָאתֶם דְּרוֹר בָּאָרֶץ לְכָל־יֹשְׁבֶיהָ“ <span class="citation">(ויקרא כה:י)</span>, 
+”וּקְרָאתֶם דְּרוֹר בָּאָרֶץ 
+לְכָל־יֹשְׁבֶיהָ“ <span class="citation">(ויקרא כה:י)</span>. 
 </span></div></td>
 
 <td style="vertical-align:top;"><div class="english">
-Send light and truth to its leaders and inhabitants 
-to establish freedom and dignity for all Palestinians and Israelis, 
+Send light and truth 
+to its leaders and inhabitants 
+to establish freedom and dignity 
+for all Palestinians and Israelis, 
 as it is written in your Torah: 
-"And you shall proclaim release throughout the land for all its inhabitants" (Leviticus 25:10).
+"And you shall proclaim release throughout the land 
+for all its inhabitants" <span class="citation">(Leviticus 25:10)</span>.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
-עָשֵׂה שֶׁתַּכִּיר מְדִינַת יִשְׂרָאֵל בָּאֱנוֹשִׁיּוּת מְדֻכָּאֶיהָ
+עָשֵׂה שֶׁתַּכִּיר מְדִינַת יִשְׂרָאֵל 
+בָּאֱנוֹשִׁיּוּת מְדֻכָּאֶיהָ
 וְשֶׁתְּסַיֵּם אֶת הַכִּבּוּשׁ בִּמְהֵרָה בִּימִינוֹ
-לְקַיֵּם הַנְּבוּאָה הָעַתִּיקָה, ”כִּי־אָמַרְתִּי עוֹלָם חֶסֶד יִבָּנֶה“ <span class="citation">(תהלים פט:ג)</span>.
+לְקַיֵּם הַנְּבוּאָה הָעַתִּיקָה, 
+”כִּי־אָמַרְתִּי עוֹלָם חֶסֶד יִבָּנֶה“ <span class="citation">(תהלים פט:ג)</span>.
 </span></div></td>
 
 <td style="vertical-align:top;"><div class="english">
-May the state of Israel recognize the humanity of those it oppresses 
+May the state of Israel recognize 
+the humanity of those it oppresses 
 and end the Occupation swiftly in our days. 
-And fulfill the ancient vision that "the world will be built on love" (Psalms 89:3).
+And fulfill the ancient vision 
+that "the world will be built on love" <span class="citation">(Psalms 89:3)</span>.
 </div></td></tr>
 </tbody></table>
 
@@ -74,5 +84,7 @@ Our members have reimagined the Prayer for the State of Israel. We hope you use 
 <h3>Source</h3>
 
 <a href="https://opensiddur.org/wp-content/uploads/2017/10/New-Prayer-for-Israel-and-Palestine-IfNotNow-Chicago-2017.jpg"><img src="https://opensiddur.org/wp-content/uploads/2017/10/New-Prayer-for-Israel-and-Palestine-IfNotNow-Chicago-2017-1024x1024.jpg" alt="" width="640" height="640" class="alignnone size-large wp-image-17634" /></a>
+
+&nbsp;
 </body>
 </html>

@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: אחרי הסערה | A Prayer in the Aftermath of a Devastating Storm, by Rabbi Menachem Creditor<br />
+Title: A Prayer in the Aftermath of a Devastating Storm, by Rabbi Menachem Creditor (2012)<br />
 Primary contributor: menachem.creditor<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=5389">http://opensiddur.org/?p=5389</a>
 <p />

@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.8" created="2021-08-04 04:17" -->
+	<!-- generator="WordPress/5.8" created="2021-09-07 05:41" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -26,26 +26,30 @@
 >
 
 <channel>
-	<title>the Open Siddur Project</title>
+	<title>the Open Siddur Project ✍ פְּרוֺיֶּקט הַסִּדּוּר הַפָּתוּחַ</title>
 	<link>https://opensiddur.org</link>
-	<description>פְּרוֺיֶּקט הַסִּדּוּר הַפָּתוּחַ ✍ the open-source project for folk liberating liturgy and crafting their own prayerbooks</description>
-	<pubDate>Wed, 04 Aug 2021 04:17:33 +0000</pubDate>
+	<description>an open-source, community contributed archive for those sharing prayers and crafting their own prayerbooks</description>
+	<pubDate>Tue, 07 Sep 2021 05:41:26 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://opensiddur.org</wp:base_site_url>
 	<wp:base_blog_url>https://opensiddur.org</wp:base_blog_url>
 
-		<wp:author><wp:author_id>310</wp:author_id><wp:author_login><![CDATA[hierophant]]></wp:author_login><wp:author_email>email redacted</wp:author_email><wp:author_display_name><![CDATA[the Hierophant]]></wp:author_display_name><wp:author_first_name><![CDATA[the]]></wp:author_first_name><wp:author_last_name><![CDATA[Hierophant]]></wp:author_last_name></wp:author>
-	<wp:author><wp:author_id>455</wp:author_id><wp:author_login><![CDATA[aharon-nissn.varady]]></wp:author_login><wp:author_email>email redacted</wp:author_email><wp:author_display_name><![CDATA[Aharon N. Varady]]></wp:author_display_name><wp:author_first_name><![CDATA[Aharon N.]]></wp:author_first_name><wp:author_last_name><![CDATA[Varady]]></wp:author_last_name></wp:author>
-	<wp:author><wp:author_id>131</wp:author_id><wp:author_login><![CDATA[aharon.varady]]></wp:author_login><wp:author_email>email redacted</wp:author_email><wp:author_display_name><![CDATA[Aharon N. Varady (transcription)]]></wp:author_display_name><wp:author_first_name><![CDATA[Aharon]]></wp:author_first_name><wp:author_last_name><![CDATA[Varady]]></wp:author_last_name></wp:author>
-	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email>email redacted</wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[The]]></wp:author_first_name><wp:author_last_name><![CDATA[Admin]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>310</wp:author_id><wp:author_login><![CDATA[hierophant]]></wp:author_login><wp:author_email>email redacted</wp:author_email>
+<wp:author_display_name><![CDATA[the Hierophant]]></wp:author_display_name><wp:author_first_name><![CDATA[the]]></wp:author_first_name><wp:author_last_name><![CDATA[Hierophant]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_id>455</wp:author_id><wp:author_login><![CDATA[aharon-nissn.varady]]></wp:author_login><wp:author_email>email redacted</wp:author_email>
+<wp:author_display_name><![CDATA[Aharon N. Varady]]></wp:author_display_name><wp:author_first_name><![CDATA[Aharon N.]]></wp:author_first_name><wp:author_last_name><![CDATA[Varady]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_id>131</wp:author_id><wp:author_login><![CDATA[aharon.varady]]></wp:author_login><wp:author_email>email redacted</wp:author_email>
+<wp:author_display_name><![CDATA[Aharon N. Varady (transcription)]]></wp:author_display_name><wp:author_first_name><![CDATA[Aharon]]></wp:author_first_name><wp:author_last_name><![CDATA[Varady]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email>email redacted</wp:author_email>
+<wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[The]]></wp:author_first_name><wp:author_last_name><![CDATA[Admin]]></wp:author_last_name></wp:author>
 
 				
 	<generator>https://wordpress.org/?v=5.8</generator>
 
 <image>
 	<url>https://opensiddur.org/wp-content/uploads/2015/03/Open-Siddur-Project-Logo-2015-5509b4bdv1_site_icon-32x32.png</url>
-	<title>the Open Siddur Project</title>
+	<title>the Open Siddur Project ✍ פְּרוֺיֶּקט הַסִּדּוּר הַפָּתוּחַ</title>
 	<link>https://opensiddur.org</link>
 	<width>32</width>
 	<height>32</height>
@@ -193,7 +197,6 @@ The Open Siddur Project is committed to the following principles and movements w
 			<wp:comment_id>5</wp:comment_id>
 			<wp:comment_author><![CDATA[The Jewish Liturgy Project: A Toolkit for Custom Liturgy | eJewish Philanthropy: The Jewish Philanthropy Blog]]></wp:comment_author>
 			<wp:comment_author_email>email redacted</wp:comment_author_email>
-
 			<wp:comment_author_url>http://ejewishphilanthropy.com/the-jewish-liturgy-project-a-toolkit-for-custom-liturgy/</wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[74.50.25.250]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2009-07-04 22:51:55]]></wp:comment_date>
@@ -208,7 +211,6 @@ The Open Siddur Project is committed to the following principles and movements w
 			<wp:comment_id>58</wp:comment_id>
 			<wp:comment_author><![CDATA[Prayer Unbound: Reactions to Open Siddur « This is What a Rabbi Looks Like]]></wp:comment_author>
 			<wp:comment_author_email>email redacted</wp:comment_author_email>
-
 			<wp:comment_author_url>http://thisiswhatarabbilookslike.wordpress.com/2009/12/03/prayer-unbound-reactions-to-open-siddur/</wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[72.233.96.139]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2009-12-03 13:04:12]]></wp:comment_date>
@@ -899,7 +901,9 @@ Please consult our <a href="/contributing/style-guide/">style guide</a> for guid
 <h3>Open Content License Options</h3>
 Ever feel like you've made something really special that you'd like other folk to use. Ever wonder how it might become better known and part of Jewish tradition at large? When you share your work, make your intention clear that your copyrighted work is indeed available for others to adopt, adapt, and redistribute.
 
-The Open Siddur Project will help you share any material related to Jewish spiritual practice so long as it is either a <a href="http://copyright.cornell.edu/resources/publicdomain.cfm">Public Domain</a> work or a contemporary work licensed under one of three standard Open Content licenses formulated by the <a href="http://www.creativecommons.org">Creative Commons</a>: <a href="http://creativecommons.org/publicdomain/zero/1.0/">CC0</a>, <a href="http://creativecommons.org/licenses/by/4.0">CC BY</a>, or <a href="http://creativecommons.org/licenses/by-sa/4.0">CC BY-SA</a>.
+The Open Siddur Project will help you share any material related to Jewish spiritual practice so long as it is either a <a href="http://copyright.cornell.edu/resources/publicdomain.cfm">Public Domain</a> work or a contemporary work licensed under one of three standard Open Content licenses (<a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a>, <a href="https://creativecommons.org/licenses/by/4.0">CC BY</a>, or <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA</a>) formulated by the organization, <a href="https://creativecommons.org">Creative Commons</a>.
+
+<hr />
 
 <strong>IMPORTANT</strong>: With rare exception, the Open Siddur Project can only share work that is either already in the Public Domain, or else shared by its creator (or copyright proprietor) with one of the licenses indicated below. For more details, please refer to our <a href="/about-this-project/policies/copyright-policy/">copyright policy</a>.
 
@@ -942,8 +946,8 @@ Share your work without any conditions, for example, requiring correct attributi
 		<wp:post_id>781</wp:post_id>
 		<wp:post_date><![CDATA[2010-07-19 21:09:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2010-07-20 05:09:18]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-28 13:50:45]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-28 22:50:45]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-08-22 09:53:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-08-22 17:53:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[upload]]></wp:post_name>
@@ -961,6 +965,10 @@ Share your work without any conditions, for example, requiring correct attributi
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ao_post_optimize]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wtpsw_views]]></wp:meta_key>
@@ -996,7 +1004,7 @@ Share your work without any conditions, for example, requiring correct attributi
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[                                ]]></wp:meta_value>
+		<wp:meta_value><![CDATA[                                  ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_footer]]></wp:meta_key>

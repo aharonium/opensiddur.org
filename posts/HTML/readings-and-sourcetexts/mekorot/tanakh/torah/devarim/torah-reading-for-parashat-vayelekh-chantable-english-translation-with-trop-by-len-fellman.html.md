@@ -8,8 +8,9 @@ For attribution and license, please consult the following URL: <a href="http://o
 <hr />
 
 <strong>DOWNLOAD:</strong> 
-<a href="https://archive.org/download/parashatvayelekhtorahreadingwithenglishtranstropilationlenfellman2019/Parashat%20Vayelekh%20Torah%20Reading%20%28Deuteronomy%2031v1-30%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29%20-%20english%20only.pdf">PDF</a> and <a href="https://archive.org/download/parashatvayelekhtorahreadingwithenglishtranstropilationlenfellman2019/Parashat%20Vayelekh%20Torah%20Reading%20%28Deuteronomy%2031v1-30%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29%20-%20english%20only.odt">ODT</a> (sans Hebrew) 
-<a href="https://archive.org/download/parashatvayelekhtorahreadingwithenglishtranstropilationlenfellman2019/Parashat%20Vayelekh%20Torah%20Reading%20%28Deuteronomy%2031v1-30%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29.pdf">PDF</a> and <a href="https://archive.org/download/parashatvayelekhtorahreadingwithenglishtranstropilationlenfellman2019/Parashat%20Vayelekh%20Torah%20Reading%20%28Deuteronomy%2031v1-30%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29.odt">ODT</a> (with Hebrew)
+
+<a href="https://archive.org/download/parashatvayelekhtorahreadingwithenglishtranstropilationlenfellman2019/Parashat%20Vayelekh%20Torah%20Reading%20%28Deuteronomy%2031v1-30%29%20in%20English%20transtropilation%20%28Len%20Fellman%202021%29%20-%20english%20only.pdf">PDF</a> | <a href="https://archive.org/download/parashatvayelekhtorahreadingwithenglishtranstropilationlenfellman2019/Parashat%20Vayelekh%20Torah%20Reading%20%28Deuteronomy%2031v1-30%29%20in%20English%20transtropilation%20%28Len%20Fellman%202021%29%20-%20english%20only.odt">ODT</a> (sans Hebrew) 
+<a href="https://archive.org/download/parashatvayelekhtorahreadingwithenglishtranstropilationlenfellman2019/Parashat%20Vayelekh%20Torah%20Reading%20%28Deuteronomy%2031v1-30%29%20in%20English%20transtropilation%20%28Len%20Fellman%202021%29.pdf">PDF</a> | <a href="https://archive.org/download/parashatvayelekhtorahreadingwithenglishtranstropilationlenfellman2019/Parashat%20Vayelekh%20Torah%20Reading%20%28Deuteronomy%2031v1-30%29%20in%20English%20transtropilation%20%28Len%20Fellman%202021%29.odt">ODT</a> (with Hebrew)
 
 <hr />
 
@@ -17,6 +18,12 @@ This is an English translation of Deuteronomy 31:1-30, the Torah reading for Par
 
 <h3>Source</h3>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/parashatvayelekhtorahreadingwithenglishtranstropilationlenfellman2019/Parashat%20Vayelekh%20Torah%20Reading%20%28Deuteronomy%2031v1-30%29%20in%20English%20transtropilation%20%28Len%20Fellman%202019%29#page/n0/mode/2up"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/parashatvayelekhtorahreadingwithenglishtranstropilationlenfellman2019/Parashat%20Vayelekh%20Torah%20Reading%20%28Deuteronomy%2031v1-30%29%20in%20English%20transtropilation%20%28Len%20Fellman%202021%29#page/n0/mode/2up"]
+
+&nbsp;
+
+<hr />
+
+&nbsp;
 </body>
 </html>

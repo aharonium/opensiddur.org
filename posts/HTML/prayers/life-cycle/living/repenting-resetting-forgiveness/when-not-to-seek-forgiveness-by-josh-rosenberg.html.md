@@ -8,96 +8,105 @@ For attribution and license, please consult the following URL: <a href="http://o
 <hr />
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;"><a href="https://opensiddur.org/contributing/upload/">אנא תרמו תרגום</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;"><a href="/contribute/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;" width="33%">
 <div class="liturgy"><span lang="he">
 
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 A thought about the need to seek forgiveness from those you've wronged during this week before Yom Kippur:
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 I love that this is part of our tradition, but I'm becoming more aware of the ways in which this doesn't work as a one-size-fits-all prescription.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 If you are the sort of person who is bad at asking for what you need without apology, or deferring to others' needs before your own, it may be worth carefully considering whether the closure you're looking for is not forgiveness, but is instead perhaps an apology. Or some complicated interaction of both. Or something else that you need to stand up and ask for.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 If someone has cut off contact with you, please consider whether your seeking forgiveness is possible in a way that's helpful to them, not just to you.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 If you are being <a href="https://en.wikipedia.org/wiki/Gaslighting">gaslit</a> by someone, or being made to feel bad for being who you are, then please do whatever is necessary to secure your safety. But if your safety is not at risk, consider that <strong>not</strong> apologizing might be the best way to grow from the situation and put it behind you.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 If you have escaped from an abusive situation, please don't feel like you owe your abuser anything at all, or that G-d is in any way asking you to re-establish contact with your abuser.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 The converse of all of this is true too, of course, if you're the sort of person who is prone to acting without regard for how you're affecting others (as many of us are at times). But that's what everyone is talking about this week. I want to make sure you have both sides of the situation in mind.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 Above all, I think the best way to approach this process is to first take time for objective introspection of the relationships and incidents on your mind, as best as you can. If you are in general a thoughtful and conscientious person, you might find that more often than you think, the person who should be forgiving you is you.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 
 </span></div></td>
  
-<td width="53%"><div class="english">
-G'mar tov.
+<td style="vertical-align:top;">
+<div class="english">
+<em>G'mar tov</em>.
 </div></td></tr>
 </tbody></table>
 

@@ -660,6 +660,8 @@ We are grateful to the Hazon <a href="http://isabellafreedman.org/adamah">Adamah
 
 <h3>Source</h3>
 
-[gview file="https://opensiddur.org/wp-content/uploads/2011/06/Avodat-Lev-2016.pdf"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/avodat-lev-adamah-fellowship-2016/Avodat%20Lev%20%28Adamah%20Fellowship%202016%29#page/n0/mode/2up"]
+
+&nbsp;
 </body>
 </html>

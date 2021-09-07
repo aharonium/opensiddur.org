@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: על הכל יתגדל ויתקדש | A Ḳaddish During the Removal of the Torah from the Ark in the Seder Rav Amram Gaon<br />
+Title: על הכל יתגדל ויתקדש | An Alternative Mourner's Ḳaddish, from a prayer offered during the removal of the Torah from the Arōn (Seder Rav Amram Gaon)<br />
 Primary contributor: oren-steinitz<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=15634">http://opensiddur.org/?p=15634</a>
 <p />

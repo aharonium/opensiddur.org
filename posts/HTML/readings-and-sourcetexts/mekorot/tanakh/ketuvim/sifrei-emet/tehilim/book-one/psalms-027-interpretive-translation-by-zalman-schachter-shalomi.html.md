@@ -7,33 +7,38 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english"><em>From the beginning of Elul we include Psalm 27</em></div>
-
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr>
-<td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
+
+</span></div></td>
+ 
+<td style="vertical-align:top;">
+<div class="english">
+<span class="instruction">From the beginning of Elul we include Psalms 27</span>
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
 <sup>א</sup>&nbsp;לְדָוִ֨ד ׀ יְהוָ֤ה ׀ אוֹרִ֣י וְ֭יִשְׁעִי 
 מִמִּ֣י אִירָ֑א 
 יְהוָ֥ה מָֽעוֹז־חַ֝יַּ֗י 
 מִמִּ֥י אֶפְחָֽד׃ 
-</span></div>
-</td>
+</span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <sup>1</sup>&nbsp;Yah, you are my Light, my Savior, 
 Whom need I dread? 
 Yah, With You as my strong Protector 
 Who can make me panic? 
-</div></td>
-</tr>
+</div></td></tr>
 
 
-<tr>
-<td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;" width="46%">
 <div class="liturgy"><span lang="he">
 <sup>ב</sup>&nbsp;בִּקְרֹ֤ב עָלַ֨י ׀ מְרֵעִים֮ 
 לֶאֱכֹ֪ל אֶת־בְּשָׂ֫רִ֥י 
@@ -42,18 +47,16 @@ Who can make me panic?
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <sup>2</sup>&nbsp;When hateful bullies gang up on me, 
 Wanting to harass me,
 To oppress and terrorize me, 
 They are the ones who stumble and fall. 
-</div></td>
-</tr>
+</div></td></tr>
 
 
-<tr>
-<td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <sup>ג</sup>&nbsp;אִם־תַּחֲנֶ֬ה עָלַ֨י ׀ מַחֲנֶה֮ 
 לֹֽא־יִירָ֪א לִ֫בִּ֥י 
@@ -62,18 +65,16 @@ They are the ones who stumble and fall.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <sup>3</sup>&nbsp;Even if a gang surrounds me 
 My heart is not weakened. 
 If a battle is joined around me 
 My trust in You is firm. 
-</div></td>
-</tr>
+</div></td></tr>
 
 
-<tr>
-<td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <sup>ד</sup>&nbsp;אַחַ֤ת ׀ שָׁאַ֣לְתִּי מֵֽאֵת־יְהוָה֮ 
 אוֹתָ֪הּ אֲבַ֫קֵּ֥שׁ 
@@ -84,7 +85,7 @@ My trust in You is firm.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <sup>4</sup>&nbsp;Only one thing do I ask of You, Yah, 
 Just this alone do I seek: 
@@ -92,12 +93,10 @@ I want to be at home with You, Yah,
 All the days of my life. 
 I want to delight in seeing You, 
 When I come to visit You in Your Temple. 
-</div></td>
-</tr>
+</div></td></tr>
 
 
-<tr>
-<td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <sup>ה</sup>&nbsp;כִּ֤י יִצְפְּנֵ֨נִי ׀ בְּסֻכֹּה֮ בְּי֪וֹם רָ֫עָ֥ה
 יַ֭סְתִּרֵנִי בְּסֵ֣תֶר אָהֳל֑וֹ 
@@ -105,17 +104,15 @@ When I come to visit You in Your Temple.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <sup>5</sup>&nbsp;You hide me in Your Sukkah on a foul day. 
 You conceal me unseen in Your tent 
 And also raise me beyond anyone’s reach. 
-</div></td>
-</tr>
+</div></td></tr>
 
 
-<tr>
-<td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <sup>ו</sup>&nbsp;וְעַתָּ֨ה יָר֪וּם רֹאשִׁ֡י 
 עַ֤ל אֹֽיְבַ֬י סְֽבִיבוֹתַ֗י 
@@ -124,50 +121,44 @@ And also raise me beyond anyone’s reach.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <sup>6</sup>&nbsp;And now, as You have held my head high, 
 Despite the presence of my powerful foes, 
 I prepare to celebrate and thrill, 
 Singing and making music to You, Yah! 
-</div></td>
-</tr>
+</div></td></tr>
 
 
-<tr>
-<td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <sup>ז</sup>&nbsp;שְׁמַע־יְהוָ֖ה קוֹלִ֥י אֶקְרָ֗א 
 וְחָנֵּ֥נִי וַעֲנֵֽנִי׃ 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <sup>7</sup>&nbsp;Listen, Yah, to the sound of my cry 
 And, being kind, answer me. 
-</div></td>
-</tr>
+</div></td></tr>
 
 
-<tr>
-<td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <sup>ח</sup>&nbsp;לְךָ֤ ׀ אָמַ֣ר לִ֭בִּי בַּקְּשׁ֣וּ פָנָ֑י 
 אֶת־פָּנֶ֖יךָ יְהוָ֣ה אֲבַקֵּֽשׁ׃ 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <sup>8</sup>&nbsp;My heart has said: I turn to seek You, 
 Your Presence is what I beg for. 
-</div></td>
-</tr>
+</div></td></tr>
 
 
-<tr>
-<td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <sup>ט</sup>&nbsp;אַל־תַּסְתֵּ֬ר פָּנֶ֨יךָ ׀ מִמֶּנִּי֮ 
 אַֽל־תַּט־בְּאַ֗ף 
@@ -177,51 +168,45 @@ Your Presence is what I beg for.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <sup>9</sup>&nbsp;Don’t hide Your Face from me. 
 Don’t just put me down, 
 You, who have been my helper 
 Don’t abandon me, don’t forsake me, 
 God, my support. 
-</div></td>
-</tr>
+</div></td></tr>
 
 
-<tr>
-<td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <sup>י</sup>&nbsp;כִּי־אָבִ֣י וְאִמִּ֣י עֲזָב֑וּנִי 
 וַֽיהוָ֣ה יַֽאַסְפֵֽנִי׃ 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <sup>10</sup>&nbsp;Though father and mother have left me 
 You, Yah, will hold me securely. 
-</div></td>
-</tr>
+</div></td></tr>
 
 
-<tr>
-<td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <sup>יא</sup>&nbsp;ה֤וֹרֵ֥נִי יְהוָ֗ה דַּ֫רְכֶּ֥ךָ 
 וּ֭נְחֵנִי בְּאֹ֣רַח מִישׁ֑וֹר לְ֝מַ֗עַן שׁוֹרְרָֽי׃ 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <sup>11</sup>&nbsp;Please teach me Your way 
 And guide me on the straight path. 
-</div></td>
-</tr>
+</div></td></tr>
 
 
-<tr>
-<td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <sup>יב</sup>&nbsp;אַֽל־תִּ֭תְּנֵנִי בְּנֶ֣פֶשׁ צָרָ֑י 
 כִּ֥י קָֽמוּ־בִ֥י עֵֽדֵי־שֶׁ֝֗קֶר 
@@ -229,18 +214,16 @@ And guide me on the straight path.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <sup>12</sup>&nbsp;Discourage those who defame me. 
 False witnesses stood up against me, 
 Belching out violence. 
 Don’t let me become the victim of my foes. 
-</div></td>
-</tr>
+</div></td></tr>
 
 
-<tr>
-<td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 &nbsp;
 <sup>יג</sup>&nbsp;לׅׄוּלֵׅׄ֗אׅׄ הֶ֭אֱמַנְתִּי לִרְא֥וֹת 
@@ -248,17 +231,15 @@ Don’t let me become the victim of my foes.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 [I would not have survived]&nbsp;
 <sup>13</sup>&nbsp;If I had not hoped that I would yet see 
 Yah’s goodness fully alive on Earth. 
-</div></td>
-</tr>
+</div></td></tr>
 
 
-<tr>
-<td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 <sup>יד</sup>&nbsp;קַוֵּ֗ה אֶל־יְה֫וָ֥ה 
 חֲ֭זַק 
@@ -267,14 +248,13 @@ Yah’s goodness fully alive on Earth.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english">
 <sup>14</sup>&nbsp;So friend, you too, hope to Yah. 
 Be sturdy! 
 And make strong your heart! 
 And most of all ---keep hoping to Yah. 
-</div></td>
-</tr>
+</div></td></tr>
 </tbody></table>
 
 <hr />

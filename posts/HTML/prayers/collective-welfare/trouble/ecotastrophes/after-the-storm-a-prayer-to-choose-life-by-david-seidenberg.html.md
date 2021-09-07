@@ -7,28 +7,40 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<style type="text/css" media="all">.printfriendly {display: none!important;}</style>
+<strong>DOWNLOAD:</strong> <a href="https://opensiddur.org/wp-content/uploads/2012/11/After-the-Storm-A-Prayer-to-Choose-Life-David-Seidenberg-neohasid.org-2018.pdf">PDF</a>
 
+<div class="english" style="font-size: 1.2em;">
+The prayers for hurricane victims that are circulating here and elsewhere are poignant and heartfelt, but they don’t speak an important piece of the truth that we need to hear. What about our collective responsibility for climate disruption that undoubtedly increases the harm caused by this and every major storm? And what about the Deuteronomic promise that God brings us recompense for our actions <em>davka</em> through the weather? Here’s an attempt at a prayer that incorporates a deeper understanding of our responsibility. For a longer essay on the concerns inspiring the composition of this prayer, please read "<a href="http://blogs.timesofisrael.com/after-the-storm-how-should-we-pray/">After the Storm: How Should we Pray?</a>," at <em>The Times of Israel</em>.
+</div>
+
+<hr />
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th><th style="text-align: left;">Transliteration (Romanized Hebrew)</th></tr></thead>
 <tbody>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="hebrew" style="font-size: 1em;"><span lang="he">
 ”הַעִידֹתִי בָכֶם הַיּוֹם אֶת הַשָּׁמַיִם וְאֶת הָאָרֶץ 
 הַחַיִּים וְהַמָּוֶת נָתַתִּי לְפָנֶיךָ הַבְּרָכָה וְהַקְּלָלָה 
 וּבָחַרְתָּ בַּחַיִּים לְמַעַן תִּחְיֶה אַתָּה וְזַרְעֶךָ.‏“
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" style="font-size: 1em;">
+<td style="vertical-align:top;">
+<div class="english" style="font-size: 1em;">
 "I call on the skies and the land to witness against you today: 
 Life and death I have put before you, the blessing and the curse. 
 And so choose life, in order that you will live, you and your seed."[foot]Deuteronomy 30:19[/foot]
+</div></td>
+
+<td style="vertical-align:top;">
+<div class="english" style="font-size: 1em;">
+
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
 אָדוֹן הָעוֹלָם, אֶדֶן הָעוֹלָם, |  רִבּוֹנוֹ שֶׁל עוֹלָם, 
 אַתָּה צִוִּיתָנוּ ”וּבָחַרְתָּ בַּחַיִּים“ <span class="citation">(דברים ל:יט)</span>,
 וּבְנֵי דוֹרֵנוּ 
@@ -41,10 +53,10 @@ And so choose life, in order that you will live, you and your seed."[foot]Deuter
 וּכְמוֹ כֵן אַחֲרָאִים וּלְרַפֹּאתוֹ.
 </span></div></td>
 
- 
-<td style="vertical-align:top;" width="53%"><div class="english">
+ <td style="vertical-align:top;">
+<div class="english">
 Master of the Universe | Foundation of the Universe
-You commanded us, <em>Choose life</em>,[foot]Deuteronomy 30:19[/foot]
+You commanded us, "<em>Choose life</em>,"[foot]Deuteronomy 30:19[/foot]
 but the people of our generation 
 do not know how to choose life.
 We are all of us responsible, 
@@ -53,10 +65,25 @@ for the disruption of the climate
 that intensifies deadly storms 
 and fires and hurricanes and floods,
 and so we are responsible for its healing.
+</div></td>
+
+ <td style="vertical-align:top;">
+<div class="romanized-hebrew">
+Adon ha’olam | Eden ha’olam, 
+atah tsivitanu “uvacharta bachayyim”, 
+uv’nei doreinu 
+eineinu yod’im eikh liv’chor bachayyim. 
+V’khulanu achrai’im, 
+gam ba’al korcheinu gam mib’chiroteinu, 
+l’hafra’at ha’aklim 
+shesavir l’hagdil hase’arot v’hasreifot 
+v’hasufot v’hahatsafot hakat’laniyot 
+ukh’mo khen achra’im l’rapo’to. 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
 וְהִנֵּה אָנוּ מְבַקְּשִׁים אֶת הַכֹּחַ וְהָאֹמֶץ 
 לְקַבֵּל אַחֲרָיוּת עָלֵינוּ עַתָּה
 לַעֲזוֹר לְאֵלוּ שֶׁנִפְגָעִים עַל יְדֵי הַסְּעָרָה,
@@ -71,8 +98,8 @@ and so we are responsible for its healing.
 נָא לְהוֹשִׁיעֵם.
 </span></div></td>
 
- 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english">
 So we seek the strength and the courage
 to accept our responsibility now
 to help those harmed by the storm/firestorm
@@ -85,10 +112,27 @@ And we pray for all the creatures
 who are in need and exposed 
 <em>with the passage of the storm:</em>,[foot]Proverbs 10:25 partial[/foot]
 please save them.
+</div></td>
+
+<td style="vertical-align:top;">
+<div class="romanized-hebrew">
+V’hineh anu m’vakshim et hakoach v’ha’omets 
+l’kabel ha’achrayut aleinu atah 
+la’azor l’eilu shenifga’im al y’dei hase’arah, 
+v'gam l’himasheikh la’azor 
+k’neged se’arot ba’ot, 
+v’litmokh b’eilu shemits’tarfim 
+ba’avodot hahatsalah v’hase’ad 
+ul’chaber itam. 
+Va’anu mitpal’lim ba’ad kol hab’ru’im 
+haniz’kakim v’chashufim 
+“ka’avur sufah”: 
+na l’hoshi’eim.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;">
+<div class="liturgy"><span lang="he">
 כִּי אַתָּה ”הַיֹּסֵר גוֹיִים“ 
 וְ”הַמְלַמֵּד אָדָם דַּעַת“ <span class="citation">(תהלים צד:י)</span> —
 נָא לְלַמְּדֵנוּ אֶת הַדֶרֶךְ קָדִימָה 
@@ -105,8 +149,8 @@ please save them.
 מֵעַל הָאָרֶץ הַטֹּבָה“. <span class="citation">(דברים יא:יז)</span>
 </span></div></td>
 
- 
-<td style="vertical-align:top;" width="53%"><div class="english">
+ <td style="vertical-align:top;">
+<div class="english">
 For You are the One <em>who reproves nations</em>
 and <em>who teaches humanity knowledge.</em>[foot]Cf. Psalms 94:10[/foot]&nbsp;— 
 Please teach us the path forward 
@@ -121,30 +165,33 @@ so that the promise may be upheld through us
 blessed will you be in the field</em>,[foot]Deuteronomy 28:3[/foot]&nbsp;
 and that we may not be lost <em>quickly 
 from off the good earth</em>.[foot]Deuteronomy 11:17[/foot]
+</div></td>
+
+<td style="vertical-align:top;">
+<div class="romanized-hebrew">
+Ki atah “hayoseir goyim 
+v’ham’lamed adam da’at”— 
+na l’lamdeinu et haderekh kadimah, 
+al y’dei chazon v’lo al y’dei ason, 
+lakachat achraiyut zeh el zeh 
+v’achraiyut al atid ha’olam hanif’la hazeh. 
+Azor lanu liv’chor b’derekh chayyim 
+m’yusad al hatsedek, ki “tsadik y’sod olam", 
+ba’avur tse’etsa’ei tse’etsa’einu 
+l’ma’an yit’kayeim banu hakatuv, 
+“Barukh atah ba’ir, 
+uvarukh atah b’sadeh” 
+v’shelo “novad m’heirah 
+mei’al ha’arets hatovah”.</em>
 </div></td></tr>
 </tbody></table>
 
-<div class="english">
-<h3>Transliteration</h3>
-
-<em>Adon ha’olam | Eden ha’olam, atah tzivitanu “uvacharta bachayyim”, uv’nei doreinu eineinu yod’im eikh liv’chor bachayyim. V’khulanu achrai’im, gam ba’al korcheinu gam mib’chiroteinu, l’hafra’at ha’aklim shesavir l’hagdil hase’arot v’hasreifot v’hasufot v’hahatzafot hakat’laniyot ukh’mo khen achra’im l’rapo’to. 
-
-V’hineh anu m’vakshim et hakoach v’ha’ometz l’kabel ha’achrayut aleinu atah la’azor l’eilu shenifga’im al y’dei hase’arah, ul’himasheikh la’azor k’neged se’arot ba’ot, v’litmokh b’eilu shemitz’tarfim ba’avodot hahatzalah v’hase’ad ul’chaber itam. Va’anu mitpal’lim ba’ad kol hab’ru’im haniz’kakim v’chashufim “ka’avur sufah”: na l’hoshi’eim.
-
-Ki atah “hayoseir goyim v’ham’lamed adam da’at”— na l’lamdeinu et haderekh kadimah, al y’dei chazon v’lo al y’dei ason, lakachat achraiyut zeh el zeh v’achraiyut al atid ha’olam hanif’la hazeh. Azor lanu liv’chor b’derekh chayyim m’yusad al hatzedek, ki “tzadik y’sod olam", ba’avur tze’etza’ei tze’etza’einu l’ma’an yit’kayeim banu hakatuv, “Barukh atah ba’ir, uvarukh atah b’sadeh” v’shelo “novad m’heirah mei’al ha’aretz hatovah”.</em>
-
-</div>
-
 <hr />
 
-The prayers for hurricane victims that are circulating through the Open Siddur Project and elsewhere are poignant and heartfelt, but they don’t speak an important piece of the truth that we need to hear. What about our collective responsibility for climate disruption that undoubtedly increases the harm caused by this and every major storm? And what about the Deuteronomic promise that God brings us recompense for our actions <em>davka</em> through the weather? Here’s an attempt at a prayer that incorporates a deeper understanding of our responsibility. For the final version of this prayer, I started with an anonymous Hebrew translation of my original English prayer, then I tweaked it and wove in scriptural references, and retranslated it back into English. -Rabbi David Seidenberg. 
+This prayer was originally written in the context of Hurricane Sandy in 2012 and updated in the aftermath of Hurricane Harvey in 2017. Rabbi Seidenberg wishes to remind everyone seeking prayers for the victims of this seasonal hurricane, that we are not just dealing with Harvey but with monsoon floods covering a third of Bangladesh, where over 1200 have already died - far worse than our hurricane here.
 
-For a longer essay on the concerns inspiring the composition of this prayer, please read Rabbi Seidenberg's essay "<a href="http://blogs.timesofisrael.com/after-the-storm-how-should-we-pray/">After the Storm: How Should we Pray?</a>," at <em>The Times of Israel</em>.
+Rabbi Seidenberg adds, "For the final version of this prayer, I started with an anonymous Hebrew translation of my original English prayer, then I tweaked it and wove in scriptural references, and retranslated it back into English." Aharon Varady, Baruch Sienna, and Hinda Labovitz all assisted in helping to prepare this prayer on the <a href="https://www.facebook.com/groups/opensiddur/">Open Siddur Project Facebook discussion group</a>. 
 
-Aharon Varady, Baruch Sienna, and Hinda Labovitz all assisted in helping to prepare this prayer on the <a href="https://www.facebook.com/groups/opensiddur/">Open Siddur Project Facebook discussion group</a>.
-
-Rabbi Seidenberg wishes to remind everyone seeking prayers for the victims of this seasonal hurricane, that we are not just dealing with Harvey but with monsoon floods covering a third of Bangladesh, where over 1200 have already died - far worse than our hurricane here.
-
-[gview file="https://opensiddur.org/wp-content/uploads/2012/11/After-the-Storm-A-Prayer-to-Choose-Life-David-Seidenberg-neohasid.org-2018.pdf"]
+&nbsp;
 </body>
 </html>

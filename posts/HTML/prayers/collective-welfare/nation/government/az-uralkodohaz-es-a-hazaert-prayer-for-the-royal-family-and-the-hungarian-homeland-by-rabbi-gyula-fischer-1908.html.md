@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: Az uralkodóház és a hazáért | [Prayer] For the Royal Family and the [Hungarian] Homeland, by Rabbi Gyula Fischer (1908)<br />
+Title: Az uralkodóház és a hazáért | Prayer for the King [Franz Joseph I] and the [Hungarian] Homeland, by Rabbi Gyula Fischer (1908)<br />
 Primary contributor: chana.deutsch<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=31572">http://opensiddur.org/?p=31572</a>
 <p />

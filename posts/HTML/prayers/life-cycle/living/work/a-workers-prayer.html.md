@@ -7,7 +7,6 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<em>dedicated to Noam Ezra ben haRav Moshe z"l</em>
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
@@ -61,5 +60,12 @@ O Gd, establish it – the work of our hands![foot]Psalms 90:17[/foot]
 </div></td>
 </tr>
 </tbody></table>
+
+<hr />
+
+<em>Dedicated to Noam Ezra ben haRav Moshe z"l.</em>
+
+&nbsp;
+
 </body>
 </html>

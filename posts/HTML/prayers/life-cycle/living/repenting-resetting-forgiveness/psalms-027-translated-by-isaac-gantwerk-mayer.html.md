@@ -7,11 +7,11 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">In most Masoretic manuscripts לולא is written surrounded by dots - the only ‘dots below’ in the entire Tanakh. I personally feel like many translations completely miss the point by using phrases like “If I had not believed” (OJPS) or “Had I not the assurance” (NJPS) or “Had I not trusted” (Artscroll), making the verse into a blanket declaration of blind faith. It’s not that - it’s a declaration of doubt. לולא is grammatically always a counterfactual - “if only, but it isn’t true.” The psalmist, in a rare moment of doubt, admits he cannot be sure that God will do justice for him. He then comforts himself, telling himself to have hope, just as I might say “Calm down, Isaac,” when troubled. It’s one of the greatest moments of pathos in all 150 psalms.
+<div class="english" style="font-size: 1.2em;">In most Masoretic manuscripts <span class="hebrew">לולא</span> is written surrounded by dots - the only ‘dots below’ in the entire Tanakh. I personally feel like many translations completely miss the point by using phrases like “If I had not believed” (OJPS) or “Had I not the assurance” (NJPS) or “Had I not trusted” (Artscroll), making the verse into a blanket declaration of blind faith. It’s not that - it’s a declaration of doubt. <span class="hebrew">לולא</span> is grammatically always a counterfactual - “if only, but it isn’t true.” The psalmist, in a rare moment of doubt, admits he cannot be sure that God will do justice for him. He then comforts himself, telling himself to have hope, just as I might say “Calm down, Isaac,” when troubled. It’s one of the greatest moments of pathos in all 150 psalms.
 
 “The <span style="text-transform: uppercase;">All-Cause</span>” is used to translate the Divine Name, based on the philosophical idea of God as the Prime Mover and on the interpretation of the Name as a causative form of the copula - “causes to be.”
 
-“They” and “Their” is used as a singular pronoun to refer to God. This is not just for anti-sexist reasons, but also because the standard word for “God” is אלהים, which looks like a plural. Just as a queen says “we” to refer to herself, the “plural of majesty” is appropriate when referring to the multitudes that stem from God. 
+“They” and “Their” is used as a singular pronoun to refer to God. This is not just for anti-sexist reasons, but also because the standard word for “God” is <span class="hebrew">אלהים</span>, which looks like a plural. Just as a queen says “we” to refer to herself, the “plural of majesty” is appropriate when referring to the multitudes that stem from God. 
 
 Enjoy, and l'shanah tovah!
 </div>

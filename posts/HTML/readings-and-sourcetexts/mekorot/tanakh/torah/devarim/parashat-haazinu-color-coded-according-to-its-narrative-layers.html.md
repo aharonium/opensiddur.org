@@ -201,7 +201,7 @@ you forgot the <em>el</em> that produced-you-in-labor.</span>
 
 <tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
-<span class="d1"><mark>רביעי</mark> יטוַיַּ֥רְא יְהֹוָ֖ה וַיִּנְאָ֑ץ
+<span class="d1"><mark>רביעי</mark> <sup>יט</sup>&nbsp;וַיַּ֥רְא יְהֹוָ֖ה וַיִּנְאָ֑ץ
 מִכַּ֥עַס בָּנָ֖יו וּבְנֹתָֽיו׃
 <sup>כ</sup>&nbsp;וַיֹּ֗אמֶר אַסְתִּ֤ירָה פָנַי֙ מֵהֶ֔ם
 אֶרְאֶ֖ה מָ֣ה אַחֲרִיתָ֑ם

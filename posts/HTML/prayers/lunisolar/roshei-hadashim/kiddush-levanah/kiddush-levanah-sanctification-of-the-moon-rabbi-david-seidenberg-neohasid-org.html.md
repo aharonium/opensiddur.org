@@ -116,7 +116,7 @@ Feel free to say what is enjoyable and leave out what seems extraneous.</span>
 <tr><td style="vertical-align:top;">
 <div class="liturgy"><span lang="he">
 &nbsp;
-בָּרוּךְ עוֹשֵֹךְ, 
+בָּרוּךְ עוֹשֵׂךְ, 
 בָּרוּךְ יוֹצְרֵךְ, 
 בָּרוּךְ בּוֹרְאֵךְ, 
 בָּרוּךְ קוֹנֵךְ׃
