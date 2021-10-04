@@ -12,7 +12,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בעל הרחמים, אדון הסליחות, מלך שהשלום שלו—
 למדינו חקיך,
 הודיענו אורח חיים.
@@ -31,7 +31,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 ובכל זאת אליך אנו מיחלים—
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Master of compassion and forgiveness, Cosmic Majesty Who is peace—
 Teach us Your ways, 
 Show us the path that preserves life.
@@ -51,7 +51,7 @@ And still we turn to you—
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
 אל, נא!
 תקע בליבנו יתד נאמן לזכור את סגולתינו—
 רחמנים בני רחמנים,
@@ -72,7 +72,7 @@ And still we turn to you—
 כי אתה הרופא לשבורי לב ומחבש לעצבותם.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Lord, please!
 Plant a steadfast reminder of our inherited mission in our hearts—
 To be a compassionate people descended from compassionate people,[foot]Sefer HaḤinukh haRokeaḥ <a href="http://www.sefaria.org/Sefer_HaChinukh.44.1">44:1</a>, <a href="http://www.sefaria.org/Sefer_HaChinukh.498.2?lang=he&layout=lines&sidebarLang=all">498:2</a>. Cf. Talmud Bavli, Beitzah 32b: ואמר רב נתן בר אבא אמר ...כל המרחם על הבריות בידוע שהוא מזרעו של אברהם אבינו וכל מי שאינו מרחם על הבריות בידוע שאינו מזרעו של אברהם אבינו[/foot]&nbsp; 
@@ -94,7 +94,7 @@ For you are the one who heals the broken-hearted and binds their wounds.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
 רפאינו י-ה-ו-ה ונרפא, 
 הושיעינו ונושעה.
 אל נא רפא נא לכל האמהות השכולות,
@@ -108,7 +108,7 @@ For you are the one who heals the broken-hearted and binds their wounds.
 ועתה י-ה-ו-ה עד מתי?
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Heal us, Lord, that we may be fully healed.  
 Save us, so that we may be worthy of being saved. 
 God please create the conditions for healing for all of the bereft mothers 
@@ -123,7 +123,7 @@ For how long must this continue, Lord?
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
 הגלה נא, 
 ופרוש עלינו את סכת שלומך,
 ויתמו חטאים מן הארץ.
@@ -131,7 +131,7 @@ For how long must this continue, Lord?
 ברוך אתה י-ה-ו-ה אדון השלום והסליחות.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Please! Reveal Yourself fully, 
 and spread over all of us the shelter of Your peace,
 And may wickedness disappear from the face of the earth.

@@ -11,12 +11,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 O Thou still, small voice[foot]Cf. 1 Kings 19:11-13.[/foot]
 whose love
 is the heart of the universe,
@@ -29,12 +29,12 @@ it may find strength and serenity.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 When I behold Thy heavens,
 O Lord,
 the glories of Thy creation,
@@ -53,12 +53,12 @@ the warmth of his spirit's embrace.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 For Thou hast made man in Thine image
 And crowned him with Thy glory:
 --the glory of mind
@@ -74,12 +74,12 @@ with the sustaining rapture of love.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 In all these ways
 have I felt
 the crowning glory of Thy
@@ -105,12 +105,12 @@ the rays of Thy warming light.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Sustain the spirits
 of those who love me
 that they may have faith
@@ -121,12 +121,12 @@ that strengthens my faith in Thee.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 O God,
 who hast given us rain for our bodies
 and added rainbows for our souls,
@@ -141,12 +141,12 @@ beyond our deserving.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Into Thy hand
 I commit my spirit;
 For Thy salvation, I hope,

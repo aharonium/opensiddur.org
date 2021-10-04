@@ -12,7 +12,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה 
 יְיָ אֱלֹהֵינוּ 
 מֶלֶךְ הָעוֹלָם, 
@@ -23,7 +23,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 You commanded us
 To exercise our awareness
 In your Torah;
@@ -36,7 +36,7 @@ Yah, our God.
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְהַעֲרֶב נָא יְיָ אֱלֹהֵינוּ 
 אֶת דִּבְרֵי תוֹרָתְךָ בְּפִינוּ, 
 וּבְפִי כָל עַמְּךָ בֵּית יִשְׂרָאֵל. 
@@ -52,7 +52,7 @@ Yah, our God.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 We ask that we may find
 Zest and delight
 In the words of your teaching.
@@ -70,7 +70,7 @@ In Torah.
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה 
 יְיָ אֱלֹהֵינוּ 
 מֶלֶךְ הָעוֹלָם, 
@@ -86,7 +86,7 @@ In Torah.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Barukh attah Yah,
 I offer You thanks,
 Cosmic Majesty,
@@ -104,13 +104,13 @@ With your Torah.
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <em>Now, 
 study Torah 
 where your heart prompts you</em>
@@ -131,7 +131,7 @@ The discussion and formula for the blessing preceding Torah Study can be found i
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מאי מברך 
 אמר רב יהודה אמר שמואל 
 &nbsp;
@@ -142,7 +142,7 @@ The discussion and formula for the blessing preceding Torah Study can be found i
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 The Gemara clarifies: What formula of blessings does he recite (for studying Torah)?  
 Rav Yehuda said that Shmuel said: 
 The formula of this blessing is like the standard formula for blessings recited over other mitsvot: 
@@ -155,7 +155,7 @@ and commanded us to engage in matters of Torah.
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ורבי יוחנן מסיים בה הכי 
 הערב נא 
 ה׳ אלהינו 
@@ -171,7 +171,7 @@ and commanded us to engage in matters of Torah.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And Rabbi Yoḥanan concludes the blessing by adding the following: 
 Please help,
 YHVH our elo'ah, 
@@ -189,7 +189,7 @@ Who teaches Torah to His people Yisra'el.
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ורב המנונא אמר 
 אשר בחר בנו מכל העמים 
 ונתן לנו את תורתו 
@@ -201,7 +201,7 @@ Who teaches Torah to His people Yisra'el.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And Rav Hamnuna said an additional formula: 
 Who has chosen us from all the peoples 
 and given us his Torah. 
@@ -215,14 +215,14 @@ This concise blessing is the most outstanding of all the blessings over the Tora
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 הלכך לימרינהו לכולהו
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Since several formulas for the blessing over Torah were suggested, each with its own distinct advantage, the Gemara concludes: 
 Therefore, let us recite them all as blessings over the Torah.
 </div></td>

@@ -11,12 +11,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Oh! Thou most holy, blessed God! 
 I come to seek thine aid, 
 and to ask Thy Divine counsel this day. 
@@ -24,12 +24,12 @@ and to ask Thy Divine counsel this day.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Teach me how to act, in all things, 
 and let me be so entirely governed 
 by Thy glorious presence 
@@ -39,12 +39,12 @@ in the heavenly radiance of Thine.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May no thoughts of self intrude 
 for one single moment on my mind, 
 but let every thought 
@@ -59,12 +59,12 @@ may redound to thine honour and glory.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Enable me, oh! my heavenly Maker! 
 to lead all who come in my path 
 to worship and adore Thee, 
@@ -76,12 +76,12 @@ their highest trust.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Oh! Thou incomprehensible and eternal goodness — 
 oh! aid my endeavours this day, 
 and every day, 
@@ -95,12 +95,12 @@ the praise which is due to Thee alone.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Endow me, I beseech Thee, 
 with the spirit of wisdom and judgment, 
 that descending from the inexhaustible fountain of wisdom, 
@@ -111,12 +111,12 @@ of my Heavenly Father.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May my entire dependence upon Thee 
 fill me with confidence and humility, 
 so that resting in Thy wonderful love, 

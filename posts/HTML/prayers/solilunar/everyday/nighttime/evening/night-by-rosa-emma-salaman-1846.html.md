@@ -11,23 +11,23 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 NIGHT
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 How exquisite is night!
 When bursting on the sight
 In all its brilliancy of starlight splendour;
@@ -38,12 +38,12 @@ The moon glides by, and brightest stars attend her.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Night is the time for thought,
 When all that’s great is brought,
 Is opened to the mental eye ecstatic;
@@ -54,12 +54,12 @@ Of the bright soul, no more in maze erratic.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 It is in this still hour,
 Religion has full pow’r,
 To raise the mind from earth, and earth's dominion;
@@ -70,12 +70,12 @@ And there sits musing on her airy pinion.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Night is the child’s relief, 
 When all its little grief, 
 Forgotten now, is hidden in sweet dreaming;
@@ -86,12 +86,12 @@ The tears have dried, and joy once more is beaming.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 The bud we watched by day,
 The moon’s soft tender ray,
 Or starlight influence has combined to waken;
@@ -102,12 +102,12 @@ The gentle moaning wind a flower has shaken.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 This is the sober time,
 When thought and reason chime,
 When wonder is absorbed in adoration;
@@ -118,12 +118,12 @@ And God is all in all,
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 If morn’s most silver hour,
 If noon in richest dow’r,
 Can give unto the mind a heavenly blessing;
@@ -134,12 +134,12 @@ Upon the soul, when thought is worth possessing.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 But ‘tis not night or day,
 That bears more holy sway,
 Laden is every hour with richest treasure!

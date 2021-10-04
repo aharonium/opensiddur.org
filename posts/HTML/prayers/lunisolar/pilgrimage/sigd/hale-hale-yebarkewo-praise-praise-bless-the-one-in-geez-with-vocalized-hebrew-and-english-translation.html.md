@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 Sigd is an Amharic word meaning "prostration" or "worship" and is the commonly used name for a holiday celebrated by the Ethiopian Jewish Beta Israel community on the 29th of the Hebrew month of Marḥeshvan. This date is exactly 50 days after Yom Kippur, usually falling out in late October or November, and according to Ethiopian Jewish tradition is also the date that God first revealed himself to Moses.[foot]Jewish Virtual Library, "<a href="https://www.jewishvirtuallibrary.org/ethiopian-sigd-holiday">Ethiopian Jewry: Sigd Holiday</a>"[/foot]
 
 Sigd is a unique holiday. Originally only celebrated by the Ethiopian Jewish Beta Esrael community, it has gotten more traction recently. One could describe the key concept of Sigd as being the acceptance of the Torah — not the giving, but the receiving of it. Sigd is a holiday of the continuation of the covenant. No matter the persecution that the Beta Esrael suffered (and hoo boy, did they suffer), Sigd announced that they would preserve their Judaism through it all.
@@ -37,7 +37,7 @@ This is part one of a series of Sigd readings in English, Hebrew, and Ge'ez tran
 <thead><tr><th id="x" style="text-align: right;">Translation (Hebrew)</th><th style="text-align: left;">Translation (English)</th><th style="text-align: left;">Source (Ge'ez)</th><th style="text-align: left;">Transliteration (Ge'ez)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַלֵּל הַלֵּל יְבָרְכוּהוּ
 אֱמֶת כָּל מַעֲשָׂיו׃
 אֲדֹנֵי הָאֲדֹנִים
@@ -55,7 +55,7 @@ This is part one of a series of Sigd readings in English, Hebrew, and Ge'ez tran
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Hail, hail, bless the One,
 all whose ways are truth!
 Lord of Lords,
@@ -73,7 +73,7 @@ Lord! Lord!
 </div></td>
 
 <td style="vertical-align:top;">
-<div class="ethiopic"><span lang="am">
+<div class="ethiopic" lang="gez">
 ሃሌ ፡ ሃሌ ፡ ይባርክዎ ፡ 
 አመን ፡ ኵሉ ፡ ግብሬ ። 
 እግዚእ ፡ ለእግዚአብሔር ፡ 
@@ -91,7 +91,7 @@ Lord! Lord!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Hale hale yəbarəkəwo —
 ʾämänə kʷəlu gəbəre.
 ʾƎgəziʾə läʾəgəziʾäbəḥerə
@@ -110,7 +110,7 @@ yətəfeśaḥə ʾƎgəziʾäbəḥerə bätägəbaru.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַלֵּל הַלֵּל יְבָרְכוּהוּ
 שְׁמֵי הַשָּׁמַיִם׃
 אֲדֹנֵי הָאֲדֹנִים
@@ -125,7 +125,7 @@ yətəfeśaḥə ʾƎgəziʾäbəḥerə bätägəbaru.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Hail, hail, bless the One,
 heavens of heavens!
 Lord of Lords,
@@ -140,7 +140,7 @@ Lord! Lord!
 </div></td>
 
 <td style="vertical-align:top;">
-<div class="ethiopic"><span lang="am">
+<div class="ethiopic" lang="gez">
 ሃሌ ፡ ሃሌ ፡ ይባርክዎ ፡ 
 ሰማይ ፡ ሰማያት ። 
 እግዚእ ፡ ለእግዚአብሔር ፡ 
@@ -155,7 +155,7 @@ Lord! Lord!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Hale hale yəbarəkəwo —
 sämayə sämayatə.
 ʾƎgəziʾə läʾəgəziʾäbəḥerə, 
@@ -171,7 +171,7 @@ mänəgəśətu zäläʿalämə.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַלֵּל הַלֵּל יְבָרְכוּהוּ
 כָּל הַמַּלְאָכִים׃
 אֲדֹנֵי הָאֲדֹנִים
@@ -185,7 +185,7 @@ mänəgəśətu zäläʿalämə.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Hail, hail, bless the One,
 all the angels!
 Lord of Lords,
@@ -199,7 +199,7 @@ Lord! Lord!
 </div></td>
 
 <td style="vertical-align:top;">
-<div class="ethiopic"><span lang="am">
+<div class="ethiopic" lang="gez">
 ሃሌ ፡ ሃሌ ፡ ይባርክዎ ፡ 
 ኵሉ ፡ መላእክተ ። 
 እግዚእ ፡ ለእግዚአብሔር ፡ 
@@ -213,7 +213,7 @@ Lord! Lord!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Hale hale yəbarəkəwo —
 kʷəlu mälaʾəkətä.
 ʾƎgəziʾə läʾəgəziʾäbəḥerə,
@@ -228,7 +228,7 @@ wäśärawitomu təʾələfitä ʾäʾəlafatə.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַלֵּל הַלֵּל יְבָרְכוּהוּ 
 כָּל הַמַּיִם אֲשֶׁר מֵעַל הַשָּׁמָיִם׃
 אֲדֹנֵי הָאֲדֹנִים
@@ -243,7 +243,7 @@ wäśärawitomu təʾələfitä ʾäʾəlafatə.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Hail, hail, bless the One,
 all the water that is above the heavens!
 Lord of Lords,
@@ -258,7 +258,7 @@ Lord! Lord!
 </div></td>
 
 <td style="vertical-align:top;">
-<div class="ethiopic"><span lang="am">
+<div class="ethiopic" lang="gez">
 ሃሌ ፡ ሃሌ ፡ ይባርክዎ ፡ 
 ኵሉ ፡ ማያት ፡ ዘመልዕልተ ፡ ሰማያት ። 
 እግዚእ ፡ ለእግዚአብሔር ፡ 
@@ -273,7 +273,7 @@ Lord! Lord!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Hale hale yəbarəkəwo —
 kʷəlu mayatə zämäləʿələtä sämayatə.
 ʾƎgəziʾə läʾəgəziʾäbəḥerə,
@@ -289,7 +289,7 @@ mänu zäʾäḫäzä läkʷəlu ʿälämə.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַלֵּל הַלֵּל יְבָרְכוּהוּ
 כָּל הַגְּבוּרוֹת׃
 אֲדֹנֵי הָאֲדֹנִים 
@@ -302,7 +302,7 @@ mänu zäʾäḫäzä läkʷəlu ʿälämə.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Hail, hail, bless the One,
 all the mighty ones!
 Lord of Lords,
@@ -315,7 +315,7 @@ Lord! Lord!
 </div></td>
 
 <td style="vertical-align:top;">
-<div class="ethiopic"><span lang="am">
+<div class="ethiopic" lang="gez">
 ሃሌ ፡ ሃሌ ፡ ይባርክዎ ፡ 
 ኵሉ ፡ ኃይለ ። 
 እግዚእ ፡ ለእግዚአብሔር ፡ 
@@ -328,7 +328,7 @@ Lord! Lord!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Hale hale yəbarəkəwo —
 kʷəlu ḫayəlä. 
 ʾƎgəziʾə läʾəgəziʾäbəḥerə,
@@ -342,7 +342,7 @@ wäʾäḳənätomu ḫayəlä lädəkumanə.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַלֵּל הַלֵּל יְבָרְכוּהוּ
 שֶׁמֶשׁ וְיָרֵחַ׃
 אֲדֹנֵי הָאֲדֹנִים
@@ -357,7 +357,7 @@ wäʾäḳənätomu ḫayəlä lädəkumanə.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Hail, hail, bless the One,
 Sun and moon!
 Lord of Lords,
@@ -372,7 +372,7 @@ Lord! Lord!
 </div></td>
 
 <td style="vertical-align:top;">
-<div class="ethiopic"><span lang="am">
+<div class="ethiopic" lang="gez">
 ሃሌ ፡ ሃሌ ፡ ይባርክዎ ፡ 
 ፀሐይ ፡ ወወርኅ ። 
 እግዚእ ፡ ለእግዚአብሔር ፡ 
@@ -387,7 +387,7 @@ Lord! Lord!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Hale hale yəbarəkəwo —
 ṣ́äḥäyə wäwärəḫə.
 ʾƎgəziʾə läʾəgəziʾäbəḥerə,
@@ -403,7 +403,7 @@ bäʾäḥädu ḳalə wəbäʾäḥädu śärəʿätə,
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַלֵּל הַלֵּל יְבָרְכוּהוּ
 כָּל כּוֹכְבֵי שָׁמָיִם׃
 אֲדֹנֵי הָאֲדֹנִים 
@@ -418,7 +418,7 @@ bäʾäḥädu ḳalə wəbäʾäḥädu śärəʿätə,
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Hail, hail, bless the One,
 all the stars of heaven!
 Lord of Lords,
@@ -433,7 +433,7 @@ Lord! Lord!
 </div></td>
 
 <td style="vertical-align:top;">
-<div class="ethiopic"><span lang="am">
+<div class="ethiopic" lang="gez">
 ሃሌ ፡ ሃሌ ፡ ይባርክዎ ፡ 
 ኵሉ ፡ ከዋክብተ ፡ ሰማይ ። 
 እግዚእ ፡ ለእግዚአብሔር ፡ 
@@ -448,7 +448,7 @@ Lord! Lord!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Hale hale yəbarəkəwo —
 kʷəlu käwakəbətä sämayə.
 ʾƎgəziʾə läʾəgəziʾäbəḥerə,
@@ -464,7 +464,7 @@ bäləbomu wäyəbəlu:
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַלֵּל הַלֵּל יְבָרְכוּהוּ
 טַל וָגֶשֶׁם׃
 אֲדֹנֵי הָאֲדֹנִים 
@@ -478,7 +478,7 @@ bäləbomu wäyəbəlu:
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Hail, hail, bless the One,
 dew and rain!   
 Lord of Lords,
@@ -492,7 +492,7 @@ Lord! Lord!
 </div></td>
 
 <td style="vertical-align:top;">
-<div class="ethiopic"><span lang="am">
+<div class="ethiopic" lang="gez">
 ሃሌ ፡ ሃሌ ፡ ይባርክዎ ፡ 
 ጠል ፡ ወዝናም ። 
 እግዚእ ፡ ለእግዚአብሔር ፡ 
@@ -506,7 +506,7 @@ Lord! Lord!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Hale hale yəbarəkəwo —
 ṭälə wäzənamə.
 ʾƎgəziʾə läʾəgəziʾäbəḥerə,
@@ -521,7 +521,7 @@ wäʾəməṭälä mədərə,
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַלֵּל הַלֵּל יְבָרְכוּהוּ
 כָּל הַנְּשָׁמָה׃
 אֲדֹנֵי הָאֲדֹנִים
@@ -535,7 +535,7 @@ wäʾəməṭälä mədərə,
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Hail, hail, bless the One,
 everything that breathes!
 Lord of Lords,
@@ -549,7 +549,7 @@ Lord! Lord!
 </div></td>
 
 <td style="vertical-align:top;">
-<div class="ethiopic"><span lang="am">
+<div class="ethiopic" lang="gez">
 ሃሌ ፡ ሃሌ ፡ ይባርክዎ ፡ 
 ኵሉ ፡ መንፈስ ። 
 እግዚእ ፡ ለእግዚአብሔር ፡ 
@@ -563,7 +563,7 @@ Lord! Lord!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Hale hale yəbarəkəwo —
 kʷəlu mänəfäsə.
 ʾƎgəziʾə läʾəgəziʾäbəḥerə,
@@ -578,7 +578,7 @@ boʾä näbibä.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַלֵּל הַלֵּל יְבָרְכוּהוּ
 אֵשׁ וְלַהַב׃
 אֲדֹנֵי הָאֲדֹנִים
@@ -592,7 +592,7 @@ boʾä näbibä.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Hail, hail, bless the One,
 fire and flame!
 Lord of Lords,
@@ -606,7 +606,7 @@ Lord! Lord!
 </div></td>
 
 <td style="vertical-align:top;">
-<div class="ethiopic"><span lang="am">
+<div class="ethiopic" lang="gez">
 ሃሌ ፡ ሃሌ ፡ ይባርክዎ ፡ 
 እሳት ፡ ወላህብ ። 
 እግዚእ ፡ ለእግዚአብሔር ፡ 
@@ -620,7 +620,7 @@ Lord! Lord!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Hale hale yəbarəkəwo —
 ʾəsatə wälahəbə.
 ʾƎgəziʾə läʾəgəziʾäbəḥerə,
@@ -635,7 +635,7 @@ gərumə ʾƎgəziʾäbəḥerə.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַלֵּל הַלֵּל יְבָרְכוּהוּ
 לַיְלָה וָיוֹם׃
 אֲדֹנֵי הָאֲדֹנִים
@@ -651,7 +651,7 @@ gərumə ʾƎgəziʾäbəḥerə.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Hail, hail, bless the One,
 night and day!  
 Lord of Lords,
@@ -667,7 +667,7 @@ Lord! Lord!
 </div></td>
 
 <td style="vertical-align:top;">
-<div class="ethiopic"><span lang="am">
+<div class="ethiopic" lang="gez">
 ሃሌ ፡ ሃሌ ፡ ይባርክዎ ፡ 
 ሌሊት ፡ ወመዓልት ። 
 እግዚእ ፡ ለእግዚአብሔር ፡ 
@@ -683,7 +683,7 @@ Lord! Lord!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Hale hale yəbarəkəwo —
 lelitə wämäʿalətə.
 ʾƎgəziʾə läʾəgəziʾäbəḥerə,
@@ -700,7 +700,7 @@ wənəḳädəsə läʾƎgəziʾäbəḥerə.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַלֵּל הַלֵּל יְבָרְכוּהוּ
 קַר וָשֶׁלֶג׃
 אֲדֹנֵי הָאֲדֹנִים
@@ -713,7 +713,7 @@ wənəḳädəsə läʾƎgəziʾäbəḥerə.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Hail, hail, bless the One,
 cold and snow!
 Lord of Lords,
@@ -726,7 +726,7 @@ Lord! Lord!
 </div></td>
 
 <td style="vertical-align:top;">
-<div class="ethiopic"><span lang="am">
+<div class="ethiopic" lang="gez">
 ሃሌ ፡ ሃሌ ፡ ይባርክዎ ፡ 
 ቀር ፡ ወአስሐትያ ። 
 እግዚእ ፡ ለእግዚአብሔር ፡ 
@@ -739,7 +739,7 @@ Lord! Lord!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Hale hale yəbarəkəwo —
 ḳärə wäʾäsəḥätəya.
 ʾƎgəziʾə läʾəgəziʾäbəḥerə,
@@ -753,7 +753,7 @@ wäḳʷärirə kämä bärädə.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַלֵּל הַלֵּל יְבָרְכוּהוּ
 טַל וַגֶשֶׁם׃
 אֲדֹנֵי הָאֲדֹנִים
@@ -766,7 +766,7 @@ wäḳʷärirə kämä bärädə.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Hail, hail, bless the One,
 dew and rain!
 Lord of Lords,
@@ -779,7 +779,7 @@ Lord! Lord!
 </div></td>
 
 <td style="vertical-align:top;">
-<div class="ethiopic"><span lang="am">
+<div class="ethiopic" lang="gez">
 ሃሌ ፡ ሃሌ ፡ ይባርክዎ ፡ 
 ጠል ፡ ወዝናም ። 
 እግዚእ ፡ ለእግዚአብሔር ፡ 
@@ -792,7 +792,7 @@ Lord! Lord!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Hale hale yəbarəkəwo —
 ṭälə wäzənamə.
 ʾƎgəziʾə läʾəgəziʾäbəḥerə,
@@ -806,7 +806,7 @@ zäyəwärədə dibä ʾädəbarä Ṣəyonə.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַלֵּל הַלֵּל יְבָרְכוּהוּ
 אוֹר וַחוֹשֵׂךְ׃
 אֲדֹנֵי הָאֲדֹנִים
@@ -821,7 +821,7 @@ zäyəwärədə dibä ʾädəbarä Ṣəyonə.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Hail, hail, bless the One,
 darkness and light!
 Lord of Lords,
@@ -836,7 +836,7 @@ Lord! Lord!
 </div></td>
 
 <td style="vertical-align:top;">
-<div class="ethiopic"><span lang="am">
+<div class="ethiopic" lang="gez">
 ሃሌ ፡ ሃሌ ፡ ይባርክዎ ፡ 
 በርህ ፡ ወጽልመት ። 
 እግዚእ ፡ ለእግዚአብሔር ፡ 
@@ -851,7 +851,7 @@ Lord! Lord!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Hale hale yəbarəkəwo —
 bärəhə wäṣələmätə.
 ʾƎgəziʾə läʾəgəziʾäbəḥerə,

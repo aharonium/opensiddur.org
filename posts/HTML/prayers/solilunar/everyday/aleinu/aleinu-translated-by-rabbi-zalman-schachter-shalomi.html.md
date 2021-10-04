@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עָלֵינוּ לְשַׁבֵּחַ 
 לַאֲדוֹן הַכֹּל, 
 לָתֵת גְּדֻלָּה 
@@ -27,7 +27,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 We rise to praise You,
 Source of All,
 Your generous work, 
@@ -44,21 +44,21 @@ With all in the world.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שֶׁהֵם מִשְׁתַּחֲוִים 
 לְהֶבֶל וָרִיק, <span class="citation">(ישעיה ל:ז חלק)</span> 
 וּמִתְפַּלְּלִים אֶל אֵל לֹא יוֹשִׁיעַ. <span class="citation">(ישעיה מה:כ חלק)</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Some of us like to worship You,
 As emptiness and void.[foot]after Isaiah 30:7 and Isaiah 45:20[/foot]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וַאֲנַחְנוּ כּוֹרְעִים 
 וּמִשְׁתַּחֲוִים וּמוֹדִים, 
 לִפְנֵי מֶלֶךְ מַלְכֵי הַמְּלָכִים 
@@ -66,7 +66,7 @@ As emptiness and void.[foot]after Isaiah 30:7 and Isaiah 45:20[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Some of us want to worship You,
 As King of Kings.
 We all consider You 
@@ -75,7 +75,7 @@ sacred and blessed.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 שֶׁהוּא נוֹטֶה שָׁמַיִם 
 וְיֹסֵד אָרֶץ, 
@@ -85,7 +85,7 @@ sacred and blessed.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 We stand amazed
 At the vault of the sky,
 At the firmness of Earth.
@@ -96,7 +96,7 @@ Dwelling also in and with us.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הוּא אֱלֹהֵינוּ 
 אֵין עוֹד, 
 אֱמֶת מַלְכֵּנוּ, 
@@ -111,7 +111,7 @@ Dwelling also in and with us.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 You are our God.
 There is nothing else.
 Your Truth is supreme.
@@ -120,7 +120,7 @@ Existence is nothing but You.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כַּכָּתוּב בְּתוֹרָתֶךָ: 
 יְהֹוָה יִמְלֹךְ
 לְעֹלָם וָעֶד: <span class="citation">(שמות טו:יח)</span>
@@ -132,7 +132,7 @@ Existence is nothing but You.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 So Your Torah guides us;
 Yah’s kingdom 
 Extends throughout the Cosmos.[foot]Exodus 15:18[/foot]

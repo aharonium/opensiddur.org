@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Yiddish)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="yiddish"><span lang="he">
+<div class="yiddish" lang="yi">
 איך קוּם צוּא דיר בּעטין דוּא זאָלסט בּאלד פוּן מיר ליבּער גאָט 
 אָפּ טאָן דעם צער װאָס איךְ טראָג אױף מײַן הארצין, 
 װעגין װָס איך האָבּ אשװערין מַזֶל צוּ מײַנע קינדר, 
@@ -21,7 +21,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 I come pleading to You, Beloved God, 
 that You rid me of this pain that I carry in my heart, 
 of having bad luck with my children. 
@@ -32,7 +32,7 @@ and continue ridding me of Your wrath.
 
 
 <tr><td style="vertical-align:top;">
-<div class="yiddish"><span lang="he">
+<div class="yiddish" lang="yi">
 דיא קינדער װאָס איך האָבּ לאָזין מיר אלע לעבּין 
 אוּנ קײַן קינד זאָל ניט שטארבּין, 
 אוּנ מיר זאָלין זוֺכֶה זײַן זײא צוּא דר ציען לְתּוֺרָה 
@@ -42,7 +42,7 @@ and continue ridding me of Your wrath.
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 The children I have, let them all live, 
 and not one child die. 
 And may we merit to raise them to [follow] Torah, 

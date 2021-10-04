@@ -14,7 +14,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr>
 <td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 1 תַּפּוּחַ וּדְבַשׁ
 &nbsp;
 יְהִי רָצוֹן מִלְּפָנֶיךָ 
@@ -24,7 +24,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 1 <em>Tapuaḥ</em>, Apple in Honey
 &nbsp;
 May it be your will, 
@@ -35,7 +35,7 @@ from the beginning of the year to the end of the year.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 2 כַּרְתִּי
 &nbsp;
 יְהִי רָצוֹן מִלְּפָנֶיךָ 
@@ -48,7 +48,7 @@ from the beginning of the year to the end of the year.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 2 <em>Kartei</em>, Leeks[foot]Cf. Abayyé in Talmud Bavli, <a href="http://www.sefaria.org/Horayot.12a.53-54?lang=bi&with=all&lang2=en">Horayot 12a</a>[/foot]
 &nbsp;
 May it be your will, 
@@ -62,7 +62,7 @@ And all your enemies shall be cut down!"[foot]Micah 5:8[/foot]
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 3 קְרָא
 &nbsp;
 יְהִי רָצוֹן מִלְּפָנֶיךָ 
@@ -71,7 +71,7 @@ And all your enemies shall be cut down!"[foot]Micah 5:8[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 3 <em>Kara</em>, Zucchini[foot]<a href="http://www.sefaria.org/Horayot.12a.53-54?lang=bi&with=all&lang2=en">Ibid</a>.[/foot]
 &nbsp;
 May it be your will, 
@@ -81,7 +81,7 @@ to tear up the evil decrees against us and declare our righteousness.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 4 רוּבִיָא
 &nbsp;
 יְהִי רָצוֹן מִלְּפָנֶיךָ 
@@ -90,7 +90,7 @@ to tear up the evil decrees against us and declare our righteousness.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 4 <em>Ruviya</em>, beans[foot]<a href="http://www.sefaria.org/Horayot.12a.53-54?lang=bi&with=all&lang2=en">Ibid</a>.[/foot]
 &nbsp;
 May it be your will, 
@@ -100,7 +100,7 @@ that our righteousness will multiply and that you will love us.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 5 רֹאשׁ כֶּבֶשׂ
 &nbsp;
 יְהִי רָצוֹן מִלְּפָנֶיךָ 
@@ -111,7 +111,7 @@ that our righteousness will multiply and that you will love us.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 5 <em>Rosh Kevish</em>, Sheep's head
 &nbsp;
 May it be your will, 
@@ -123,7 +123,7 @@ son of Abraham our ancestor, peace be upon them.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 6 סַלְקָא
 &nbsp;
 יְהִי רָצוֹן מִלְּפָנֶיךָ 
@@ -138,7 +138,7 @@ son of Abraham our ancestor, peace be upon them.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 6 <em>Salka</em>, Beets[foot]<a href="http://www.sefaria.org/Horayot.12a.53-54?lang=bi&with=all&lang2=en">Ibid</a>.[/foot]
 &nbsp;
 May it be your will, 
@@ -154,7 +154,7 @@ you who bear the vessels of Hashem!"[foot]Isaiah 52:11[/foot]
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 7 תָּמָרִי
 &nbsp;
 יְהִי רָצוֹן מִלְּפָנֶיךָ 
@@ -170,7 +170,7 @@ you who bear the vessels of Hashem!"[foot]Isaiah 52:11[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 7 <em>Tamar</em>, dates[foot]<a href="http://www.sefaria.org/Horayot.12a.53-54?lang=bi&with=all&lang2=en">Ibid</a>.[/foot]
 &nbsp;
 May it be your will, 
@@ -187,7 +187,7 @@ for I am your servant."[foot]Psalms 143:12[/foot]
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 8 רֵיאָה
 &nbsp;
 יְהִי רָצוֹן מִלְּפָנֶיךָ 
@@ -196,7 +196,7 @@ for I am your servant."[foot]Psalms 143:12[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 8 <em>Raya</em>, lungs
 &nbsp;
 May it be your will, 
@@ -206,7 +206,7 @@ that our sins be as light as the lungs.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 9 רִמוֹן
 &nbsp;
 יְהִי רָצוֹן מִלְּפָנֶיךָ 
@@ -215,7 +215,7 @@ that our sins be as light as the lungs.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 9 <em>Rimon</em>, Pomegranate
 &nbsp;
 May it be your will, 

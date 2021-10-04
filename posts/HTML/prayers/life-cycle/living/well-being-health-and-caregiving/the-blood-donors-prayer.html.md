@@ -12,7 +12,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הִנְנִי מוּכָן וּמְזֻמָּן לְקַיֵּם מִצְוַת הַצָּלַת נְפָשׁוֹת,
 כְּמוֹ שֶׁכָּתוּב בַּתּוֹרָה:
 ”לֹא תַעֲמֹד עַל דַּם רֵעֶךָ,“ <span class="citation">(ויקרא יט:טז)</span> 
@@ -26,7 +26,8 @@ For attribution and license, please consult the following URL: <a href="http://o
 וְהַעֲבֵט תַּעֲבִיטֶנּוּ דֵּי מַחְסֹרוֹ אֲשֶׁר יֶחְסַר לוֹ.“ <span class="citation">(דברים טו:ח)</span>
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english" lang="en">
 I am hereby prepared to fulfill the commandment to save lives, 
 as written in the Torah: 
 “Do not stand by the blood of your fellow,”[foot]Leviticus 19:16[/foot] 
@@ -38,10 +39,11 @@ and the commandment of charity,
 as written in the Torah: 
 “For you shall surely open your hand for him 
 and surely lend him enough to meet his needs, whatever they may be.”[foot]Deuteronomy 15:8[/foot]
-    </div></td></tr>
-    
-    
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;">
+<div class="liturgy" lang="he">
 יְהִי רָצוֹן מִלְּפָנֶיךָ ה׳ אֱלֹקֵינוּ
 שֶׁיְּהֵא עֵסֶק זֶה לִרְפוּאָה לִי
 וּלְכָל הַחוֹלִים הַזְּקוּקִים לוֹ,
@@ -58,7 +60,8 @@ and surely lend him enough to meet his needs, whatever they may be.”[foot]Deut
 וְיִחְיֶה אֶת נַפְשׁוֹ.
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english" lang="en">
 May it be Your will, Lord our God, 
 that this undertaking be healing for me 
 and for all patients who need it. 
@@ -73,10 +76,11 @@ like a sacrifice and a burnt-offering.[foot]Based on <em>Tefila Zakah</em>, a pr
 May it be Your will that this blood 
 is safely transfused into a person who needs it, 
 and may it revive him.
-    </div></td></tr>
-    
-    
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;">
+<div class="liturgy" lang="he">
 בִּשְׂכָר זֶה, יְקֻיַּם בְּנוֹ מָה שֶׁכָּתוּב בַּתּוֹרָה:
 ”כִּי נֶפֶשׁ הַבָּשָׂר בַּדָּם הִוא 
 וַאֲנִי נְתַתִּיו לָכֶם עַל הַמִּזְבֵּחַ לְכַפֵּר עַל נַפְשֹׁתֵיכֶם,“ <span class="citation">(ויקרא יז:יא)</span> 
@@ -87,7 +91,8 @@ and may it revive him.
 וָאֹמַר לָךְ בְּדָמַיִךְ חֲיִי וָאֹמַר לָךְ בְּדָמַיִךְ חֲיִי.“ <span class="citation">(יחזקאל  טז:ו)</span>
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english" lang="en">
 May we merit the fulfillment of what the Torah states: 
 “For the life of flesh is in the blood, 
 and I have given it for you to atone for yourselves on the altar,”[foot]Leviticus 17:11[/foot] 
@@ -96,33 +101,39 @@ and what is stated in the Holy Scriptures:
 and what was said by Your prophet Ezekiel: 
 “And I passed you and saw you wallowing in your blood. 
 And I said to you: ‘In your blood, live! In your blood, live!”[foot]Ezekiel 16:6[/foot]
-    </div></td></tr>
-    
-    
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;">
+<div class="liturgy" lang="he">
 בָּרוּךְ רוֹפֵא חוֹלִים.‏
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english" lang="en">
 Blessed is the Healer of the sick.
-    </div></td></tr>
-    
-    
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
-מא"פ, מוֹדִיעִין, אֱלוּל התשע"ד‏
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;">
+<div class="liturgy" lang="he">
+<span class="instruction">מא"פ, מוֹדִיעִין, אֱלוּל התשע"ד‏</span>
 </span></div></td>
  
-<td width="53%"><div class="english">
-EMF, Modi’in, Elul 5774
+<td style="vertical-align:top;">
+<div class="english" lang="en">
+<span class="instruction">EMF, Modi’in, Elul 5774</span>
 </div></td></tr>
 </tbody></table>
 
 <hr />
 
-A prayer to be recited upon donating blood. In Israel, there are major blood drives around the times of Rosh Hashana and Pesaḥ, so the prayer borrows themes from both of those holidays. It emphasizes both the <em>tzedaka</em> aspect of blood donation and the ancient symbolic resonances of blood sacrifice.
+A prayer to be recited upon donating blood. In Israel, there are major blood drives around the times of Rosh Hashana and Pesaḥ, so the prayer borrows themes from both of those holidays. It emphasizes both the <em>tsedakah</em> aspect of blood donation and the ancient symbolic resonances of blood sacrifice.
 
-<div lang="he" style="direction:rtl; text-align:right">
+<div class="hebrew" lang="he">
 הנכנס להקיז דם אומר 'יהי רצון מלפניך ה' אלהי שיהא עסק זה לי לרפואה כי רופא חנם"  "הנכנס להקיז דם אומר 'יהי רצון מלפניך ה' אלהי שיהא עסק זה לי לרפואה כי רופא חנם אתה.' ולאחר שהקיז אומר 'ברוך רופא חולים:'" "וה"ה בכל מידי דרפואה יאמר זה ולא יחשוב שתהיה איזה דבר לו רפואה אלא ע"י הבורא ית"ש ולכן ע"י תפלה זו ישים בטחונו בו ויבקש ממנו שתהיה לו לרפואה" (שו"ע או"ח סי' ר"ל סע' ד, ומ"ב שם ס"ק ו').
 </div>
+
+&nbsp;
 </body>
 </html>

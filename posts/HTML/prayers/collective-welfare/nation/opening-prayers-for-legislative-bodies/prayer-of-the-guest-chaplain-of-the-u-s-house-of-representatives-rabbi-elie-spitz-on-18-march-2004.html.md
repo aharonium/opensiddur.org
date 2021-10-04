@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size:1.2em;">
+<div class="english" lang="en" style="font-size:1.2em;">
 Guest Chaplain: Rabbi Elie Spitz, Congregation B'nai Israel, Tustin, California
 Sponsor: Rep. Tom Lantos, (D-CA)
 Date of Prayer: 03/18/2004
@@ -25,22 +25,22 @@ Date of Prayer: 03/18/2004
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <h3>Opening Prayer Given by the Guest Chaplain:</h3>
 </div></td></tr>
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Master of the Universe, 
 may You bless our great country 
 and its leaders. 
@@ -52,12 +52,12 @@ the path of righteousness.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Scripture teaches: 
 "Today, 
 I place before you 
@@ -68,12 +68,12 @@ Choose life."[foot]Deuteronomy 30:19.[/foot]
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Sixty years ago this day, 
 the Germans invaded greater Hungary 
 to oust the government 
@@ -87,12 +87,12 @@ in the shadow of tragic loss.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May You, the Almighty, 
 guide our congressional leaders 
 toward affirming life 
@@ -104,12 +104,12 @@ despite shadow.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Infuse their acts 
 with strength and courage, 
 memory and wise purpose, 
@@ -118,12 +118,12 @@ open hearts and outstretched hands.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָמֵן׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <em>Amen</em>.
 </div></td></tr>
 </tbody></table>

@@ -12,62 +12,62 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הרחמן הוא יחזיר לנו שלום בגבולינו:
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 May the Merciful One restore peace within our borders!
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
 הרחמן הוא ישבור עול כיבוש מעל צווארינו 
 והוא יוליכנו קוממיות בארצנו:
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 May the Merciful One remove the yoke of occupation from upon our necks 
 and walk us upright in our land.
 </div></td></tr>
     
     
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
 יהי רצון שלא יבש עמך ישראל בעולם הזה 
 ולא יכלם לעולם הבא. 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 May it be Your Will that Your People Israel never be embarrassed in this world 
 nor find shame in the World to Come. 
 </div></td></tr>
     
     
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
 דין אחד שפט בינינו ובין הגוים 
 שלא ישאו חרב אלינו 
 ולא נשא חרב אליהם. 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Let One Judge mediate between us and other nations, 
 that they not lift sword against us 
 and we not lift sword against them. 
 </div></td></tr>
     
     
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
 השב בנינו לגבולינו בנחת 
 וקבץ אחינו הנתונים בצרה לתוכה בשמחה. 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Calmly return our children to our borders 
 and joyfully gather to them our brothers and sisters still afflicted by oppression. 
 </div></td></tr>
     
     
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
 הרם דגל עלינו אהבה 
 ותן אחווה בקרבינו 
 ובין כל עם ועם 
@@ -75,7 +75,7 @@ and joyfully gather to them our brothers and sisters still afflicted by oppressi
 ושמר חרותינו.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Raise over us a banner of love, 
 grant us fellowship among ourselves 
 and with all nations, 
@@ -84,7 +84,7 @@ and preserve our liberty.
 </div></td></tr>
     
     
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
 ואז ציון במשפט תפדה 
 ושביה בצדקה 
 וישכון ישראל לבטח 
@@ -96,7 +96,7 @@ and preserve our liberty.
 אמן סלה: 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Then Zion will be redeemed in justice, 
 its repentant delivered by righteousness, 
 and Israel will dwell securely. 

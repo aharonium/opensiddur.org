@@ -12,7 +12,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr>
 <td style="vertical-align: top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רִבּוֹן הָעוֹלָם, 
 קַבֵּל נָא בְּרַחֲמִים וּבְרָצוּן 
 אֶת תְּפִלָּתֵנוּ לְמַעַן מְדִינַת יִשְֹרָאֵל, 
@@ -23,7 +23,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 
 <td style="vertical-align: top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Sovereign of the Universe, 
 accept in lovingkindness and with favor 
 our prayers for the State of Israel, 
@@ -36,7 +36,7 @@ and under her authority.</div>
 
 <tr>
 <td style="vertical-align: top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 פְּקַח נָא אֶת עֵינֵינוּ וְלִבֵּנוּ מֵחָדָשׁ לַנִּפְלָא שְׁבְּקִיּוּמָהּ 
 וְחַזֵּק אֶת אֱמוּנָתֵנוּ בְּכֹחֲךָ 
@@ -45,7 +45,7 @@ and under her authority.</div>
 
 
 <td style="vertical-align: top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 [On the __ anniversary of her founding,]&nbsp;
 reopen our eyes and our hearts to the wonder of Israel 
 and strengthen our faith in Your power 
@@ -56,7 +56,7 @@ to work redemption in every human soul.
 
 <tr>
 <td style="vertical-align: top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 תֵּן לָנוּ אֶת הָאֹמֶץ וְהַהַתְמָדָה 
 לִרְאוֹת תָּמִיד לְנֶגֶד עֵינֵינוּ 
 אֶת הָעֶקְרוֹנוֹת שֶׁהִצִּיבָה לְעַצְמָהּ יִשְֹרָאֵל בִּמְגִילַת הָעַצְמָאוּת. 
@@ -66,7 +66,7 @@ to work redemption in every human soul.
 
 
 <td style="vertical-align: top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Grant us also the fortitude 
 to keep ever before us those ideals 
 to which Israel dedicated herself in her <a href="http://www.mfa.gov.il/MFA/Peace+Process/Guide+to+the+Peace+Process/Declaration+of+Establishment+of+State+of+Israel.htm">Declaration of Independence</a>, 
@@ -78,7 +78,7 @@ in working toward her as yet not fully fulfilled vision.
 
 <tr>
 <td style="vertical-align: top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 תֵּן לְכָל הָעוֹסְקִים בְּצָרְכֵי צִבּוּר אֶת אֹמֶץ הַלֵּב, 
 הַתְּבוּנָה וְהַכֹּחַ לַעֲשֹוֹת רְצוֹנְךָ בְלֵבָב שָׁלֵם. 
 הַדְרֵךְ אוֹתָם בִּנְתִיבוֹת שָׁלוֹם 
@@ -90,7 +90,7 @@ in working toward her as yet not fully fulfilled vision.
 </span></div></td>
 
 <td style="vertical-align: top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Grant those entrusted with guiding Israel's destiny 
 the courage, wisdom and strength to do Your Will. 
 Guide them in the paths of peace 
@@ -105,7 +105,7 @@ and the spiritual fortitude never to abuse the power placed in their hands.
 
 <tr>
 <td style="vertical-align: top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הֲרֵק אֶת בִּרְכָתְךָ עַל הָאָרֶץ 
 וְעַל כָּל יוֹשְׁבֶיהָ. 
 יִמָּצְאוּ בָהּ צֶדֶק וּזְכֻיּוֹת אָדָם לְכָל אָדָם. 
@@ -121,7 +121,7 @@ and the spiritual fortitude never to abuse the power placed in their hands.
 </span></div></td>
 
 <td style="vertical-align: top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Spread Your blessings over the Land. 
 May justice and human rights abound for all her inhabitants. 
 Guide them "To do justice, love mercy and walk humbly with your God."[foot]Micah 6:8[/foot], 
@@ -140,7 +140,7 @@ and may the vision of Your prophet soon be fulfilled:
 
 <tr>
 <td style="vertical-align: top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְהִי רָצוֹן מִלְפָנֶיךָ שֱׁיֹאמְרוּ [במהרה בימינו]&nbsp; 
 כָּל יוֹשְׁבֵי תֵבֵל 
 "הִנֵּה טוֹב מְאֹד",<span class="citation">(בראשית א:לא)</span> 
@@ -149,7 +149,7 @@ and may the vision of Your prophet soon be fulfilled:
 </span></div></td>
 
 <td style="vertical-align: top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 So may it be Your Will that speedily and in our day 
 all inhabitants of the earth will say of the State of Israel, 
 "It is very good."[foot]Genesis 1:31[/foot]&nbsp; 

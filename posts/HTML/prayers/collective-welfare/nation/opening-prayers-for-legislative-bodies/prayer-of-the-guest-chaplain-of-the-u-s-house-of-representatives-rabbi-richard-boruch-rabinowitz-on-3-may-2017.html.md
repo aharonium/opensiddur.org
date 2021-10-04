@@ -17,23 +17,23 @@ Date of Prayer: 05/03/2017
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <h3>Opening Prayer Given by the Guest Chaplain:</h3>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May we humbly ask You, 
 God Almighty, 
 to help us focus 
@@ -43,12 +43,12 @@ of this great country.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 God, 
 we thank You for giving wisdom 
 to Presidents George W. Bush, 
@@ -59,12 +59,12 @@ for proclaiming May as Jewish Heritage Month.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 The Jewish people of this country 
 are grateful and indebted to You, God, 
 for the opportunity to contribute 
@@ -73,12 +73,12 @@ in making the United States a great nation.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Aish founder, Rabbi Noah Weinberg, of blessed memory, 
 would say to young people: 
 "When older people see your idealism, 
@@ -90,12 +90,12 @@ Rabbi Weinberg would say:
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Let us pray for the Members of Congress 
 and this great Nation: 
 God, please 
@@ -106,12 +106,12 @@ and never give up on our principles.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 God bless the United States of America.
 </div></td></tr>
 </tbody></table>

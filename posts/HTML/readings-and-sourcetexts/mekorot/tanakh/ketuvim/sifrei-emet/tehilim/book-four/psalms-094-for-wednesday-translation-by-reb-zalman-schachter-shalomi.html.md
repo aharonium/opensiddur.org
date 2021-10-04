@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 This psalm was the Wednesday song of the Levites in the Holy Temple.
 </div>
 
@@ -16,7 +16,7 @@ This psalm was the Wednesday song of the Levites in the Holy Temple.
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>א</sup>&nbsp;אֵל־נְקָמ֥וֹת יְהוָ֑ה 
 אֵ֖ל נְקָמ֣וֹת הוֹפִֽיַע׃
 <sup>ב</sup>&nbsp;הִ֭נָּשֵׂא 
@@ -25,7 +25,7 @@ This psalm was the Wednesday song of the Levites in the Holy Temple.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <sup>1</sup>&nbsp;God who settles scores!
 Appear in Divine vengeance!
 <sup>2</sup>&nbsp;Make Yourself known, 
@@ -36,14 +36,14 @@ As The Judge of the World.
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הָשֵׁ֥ב גְּ֝מ֗וּל 
 עַל־גֵּאִֽים׃
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Let the arrogant suffer 
 Your retribution.
 </div></td>
@@ -52,7 +52,7 @@ Your retribution.
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>ג</sup>&nbsp;עַד־מָתַ֖י 
 רְשָׁעִ֥ים ׀ יְהוָ֑ה 
 עַד־מָ֝תַ֗י 
@@ -64,7 +64,7 @@ Your retribution.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <sup>3</sup>&nbsp;How long yet YHVH 
 will the wicked --
 How long yet 
@@ -78,7 +78,7 @@ into greater evil.
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>ה</sup>&nbsp;עַמְּךָ֣ יְהוָ֣ה 
 יְדַכְּא֑וּ 
 וְֽנַחֲלָתְךָ֥ יְעַנּֽוּ׃
@@ -89,7 +89,7 @@ into greater evil.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <sup>5</sup>&nbsp;YHVH! 
 They oppress Your people.
 They demean Your legacy.
@@ -102,7 +102,7 @@ They kill orphans!
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>ז</sup>&nbsp;וַ֭יֹּ֣אמְרוּ 
 לֹ֣א יִרְאֶה־יָּ֑הּ 
 וְלֹא־יָ֝בִ֗ין אֱלֹהֵ֥י יַעֲקֹֽב׃
@@ -119,7 +119,7 @@ They kill orphans!
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <sup>7</sup>&nbsp;Deluded are they, 
 Thinking that Yah cannot see,
 The God of Jacob is not aware.
@@ -138,7 +138,7 @@ Does She not call them to task?
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַֽמְלַמֵּ֖ד 
 אָדָ֣ם דָּֽעַת׃
 <sup>יא</sup>&nbsp;יְֽהוָ֗ה 
@@ -161,7 +161,7 @@ Does She not call them to task?
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 He, Who teaches people 
 to be aware, Is She not aware?
 <sup>11</sup>&nbsp;YHVH, 
@@ -186,7 +186,7 @@ Vindicating those of upright heart.
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>טז</sup>&nbsp;מִֽי־יָק֣וּם לִ֭י 
 עִם־מְרֵעִ֑ים 
 מִֽי־יִתְיַצֵּ֥ב לִ֝י 
@@ -195,7 +195,7 @@ Vindicating those of upright heart.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <sup>16</sup>&nbsp;Will anyone 
 Stand with me against the wicked?
 Who will stand up for me
@@ -206,7 +206,7 @@ Against the bullies?
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>יז</sup>&nbsp;לוּלֵ֣י יְ֭הוָה עֶזְרָ֣תָה לִּ֑י 
 כִּמְעַ֓ט ׀ 
 שָֽׁכְנָ֖ה דוּמָ֣ה נַפְשִֽׁי׃
@@ -235,7 +235,7 @@ Against the bullies?
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <sup>17</sup>&nbsp;Had YHVH not helped me,
 I would not have escaped 
 The silent tomb.

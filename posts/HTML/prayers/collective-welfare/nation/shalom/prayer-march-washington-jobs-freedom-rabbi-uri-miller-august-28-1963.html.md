@@ -12,13 +12,13 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Our fathers’ God, 
 God of the spirits of all flesh, 
 we invoke Thy blessing 
@@ -32,13 +32,13 @@ and the dignity of men.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Thou hast endowed all men equally 
 with the right to life, 
 to liberty, 
@@ -48,13 +48,13 @@ and to the pursuit of happiness.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Enable us, 
 through this demonstration, 
 to sensitize all Americans—
@@ -65,13 +65,13 @@ to this concept of equality.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May we understand 
 that when we deprive our fellow man of bread and dignity, 
 we negate the <em>tselem Elohim</em>, the image of God in man, 
@@ -81,13 +81,13 @@ and delay the fulfillment of Thy kingdom.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Enable us to understand 
 that our society, the American people, 
 is of one piece—
@@ -98,13 +98,13 @@ we all suffer.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May we understand 
 that he who discriminates is as morally hurt 
 as the one discriminated against is physically hurt; 
@@ -116,13 +116,13 @@ but he also degrades the society of which he is a part.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Above all, we pray we become cognizant 
 in ever-increasing measure 
 that our religious ideals must be fulfilled 
@@ -134,13 +134,13 @@ in the form of social justice, now</strong>.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Freedom, 
 pride, 
 and dignity 
@@ -154,13 +154,13 @@ in concrete and tangible form, <strong>now</strong>.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May we never forfeit our liberties, 
 nor condone cowardice, 
 prejudice, 
@@ -170,13 +170,13 @@ and self-indulgence.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May we ever expand 
 the area of human freedom in our midst 
 and thus serve Thee 
@@ -187,13 +187,13 @@ of love and justice.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May we demonstrate our gratitude 
 for the blessed privilege of living under the Stars and Stripes 
 by giving "to bigotry no sanction, 
@@ -211,13 +211,13 @@ and walk humbly with Thee.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Hasten Thou the coming of the happy day 
 when the message of Thy prophet shall be fulfilled, 
 when men shall break their swords into plowshares 
@@ -230,13 +230,13 @@ as the waters cover the sea.[foot]after Habakkuk 2:14[/foot]
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Amen.
 </div>
 </td></tr></tbody></table>

@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: אוֹדֶה לָאֵל | Odeh la'El, a morning piyyut by Rabbi Shamayah Ḳosson (ca. 16th c.)<br />
+Title: אוֹדֶה לָאֵל | Odeh la-El, a morning piyyut by Rabbi Shamayah Ḳosson (ca. 16th c.)<br />
 Primary contributor: adam.zagoria-moffet<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=30697">http://opensiddur.org/?p=30697</a>
 <p />
@@ -11,14 +11,15 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אוֹדֶה לָאֵל 
 לֵבָב חוֹקֵר        
-בְּרָן־יַֽחַד כּוֹכְבֵי בֹֽקֶר
+בְּרָן־יַֽחַד 
+כּוֹכְבֵי בֹֽקֶר
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 I thank El 
 who probes the heart – 
 As stars, in unison, 
@@ -27,7 +28,7 @@ sing praise the morning.[foot]cf. Iyyoṿ 38:7.[/foot]
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שִֽׂימוּ לֵב עַל־הַנְּשָׁמָה     
 לֶֽשֶׁם שְׁבוֹ וְאַֽחְלָמָה
 וְאוֹרָהּ כְּאוֹר הַחַמָּה   
@@ -35,7 +36,7 @@ sing praise the morning.[foot]cf. Iyyoṿ 38:7.[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Pay heed to the soul; 
 As precious as jacinth, agate and amethyst. 
 As bright as is the sun’s glow, 
@@ -44,7 +45,7 @@ seven-fold brighter[foot]cf. Shəmoṭ 28:19.[/foot] than the morning!
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִכִּסֵּא כָבוֹד חֻצָּבָה    
 לָגוּר בְּאֶֽרֶץ עֲרָבָה
 לְהַצִילָהּ מִלֶּהָבָה   
@@ -52,7 +53,7 @@ seven-fold brighter[foot]cf. Shəmoṭ 28:19.[/foot] than the morning!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 It is hewn from Their throne,
 In the wilderness it dwells. 
 Seeking deliverance from burning flames– 
@@ -61,7 +62,7 @@ Illuminating the way  toward morning.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עוּרוּ נָא־כִּי בְכָל לַֽיְלָה
 נִשְׁמַתְכֶם עוֹלָה לְמַעְלָה
 לָתֵת דִּין חֶשְׁבּוֹן מִפְעָלָהּ
@@ -69,7 +70,7 @@ Illuminating the way  toward morning.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Arise each night;
 As your soul ascends on high, 
 accounting for its deeds, 
@@ -78,7 +79,7 @@ before the Maker of night and morning.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יִמְצָאֽוּהָ מְטֻנֶֽפֶת  
 בַּֽעֲוֹנוֹת וּבְתוֹסֶֽפֶת
 כְּמוֹ שִׁפְחָה נֶֽחֱרֶֽפֶת  
@@ -86,7 +87,7 @@ before the Maker of night and morning.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 If it is found tainted, 
 with sins and wrongs; 
 It is like a maiden disgraced. 
@@ -95,7 +96,7 @@ Each day, morning after morning.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יִמְצָאֽוּהָ מְקֻדֶֽשֶׁת 
 בְּזָכִיוֹת בְּמִצְוֹת 
 כְּמוֹ כַּלָּה מְקֻשֶֽׁטֶת   
@@ -103,7 +104,7 @@ Each day, morning after morning.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 If it is found sanctified, 
 with mitsvoṭ and merits; 
 It is like a bride adorned.
@@ -112,7 +113,7 @@ Each day, morning after morning.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַנֶּֽאֱמָן בְּפִקְדוֹנוֹ       
 יַֽחֲזִירֶֽנָּה לוֹ כִּרְצוֹנוֹ
 אִישׁ לֹא גָוַע בַּֽעֲוֹנוֹ     
@@ -120,7 +121,7 @@ Each day, morning after morning.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 They is a faithful guardian, 
 who willingly returns the deposit. 
 No one need die for one’s sin, 
@@ -129,7 +130,7 @@ in the night before the morning.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 קֽוּמוּ כִּי־לֹא־זֹאת הַמְּנוּחָה
 מִדַּת רַֽחֲמִים מְתוּחָה
 שֽׁוּבוּ כִּי יָדוֹ פְתוּחָה
@@ -137,7 +138,7 @@ in the night before the morning.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Rise up! This is not the final rest– 
 for divine mercy has been extended. 
 Return, for Their hand is open, 
@@ -146,7 +147,7 @@ to all who rise in the morning.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְשֵׁנָה אַל תֶּֽאֱהָבוּ        
 לְהַקְדִישׁ לָאֵל אֱהָבוּ
 הָבוּ לַיְיָ הָבוּ      
@@ -154,7 +155,7 @@ to all who rise in the morning.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Adore not sleep, 
 instead sanctify Them. 
 Ascribe unto Them, ascribe
@@ -163,7 +164,7 @@ Ascribe unto Them, ascribe
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 סָלּוּהָ כְּמוֹ עֲרוּמִים   
 נֶֽפֶשׁ בְּהֵמוֹת נִרְדָּמִים
 יַֽעַן לְמִשְׁטַח חֲרָמִים
@@ -171,7 +172,7 @@ Ascribe unto Them, ascribe
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Sing of the soul, once bare,
 While the animal spirit sleeps. 
 As a fisherman lays out the net, 
@@ -180,7 +181,7 @@ prepare the prayerful offering of morning.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְהַֽחֲיוּ הָֽעֲנִיָּה      
 יְחִידָה תַמָּה וּנְקִיָּה
 וַֽאֲשֶר נַפְשׁוֹ לֹא חִיָּה
@@ -188,7 +189,7 @@ prepare the prayerful offering of morning.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Let us revive the poor one; 
 An innocent and pure soul. 
 If the soul has not yet renewed, 
@@ -197,7 +198,7 @@ How can it attain the light of the morning?
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 נֹֽעַם יְיָ לַֽחֲזוֹת       
 נִזְכֶּה וּבַשָּׁנָה הַזֹּאת
 בִּשְׂמָחוֹת תַּֽחַת רְגָזוֹת
@@ -205,7 +206,7 @@ How can it attain the light of the morning?
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May we merit,
 This year to behold Their beauty! 
 In joy and not anger 

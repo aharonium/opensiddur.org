@@ -8,16 +8,16 @@ For attribution and license, please consult the following URL: <a href="http://o
 <hr />
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;" lang="he"><a href="https://opensiddur.org/contributing/upload/">בבקשה לשתף תרגום</a></th><th style="text-align: left;">English</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;"><a href="/contribute/upload/">בבקשה לשתף תרגום</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;">
+<div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
-<div class="english">
+<td style="vertical-align:top;">
+<div class="english" lang="en">
 Dear God of cappuccino consciousness
 In an office-café reminiscent of a Rembrandt
 The way the wood seat keeps my back straight

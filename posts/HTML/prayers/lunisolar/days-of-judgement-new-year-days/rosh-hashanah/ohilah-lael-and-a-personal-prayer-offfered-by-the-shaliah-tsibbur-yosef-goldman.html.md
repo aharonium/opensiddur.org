@@ -11,23 +11,23 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Holy One, Beloved One. 
 As I sit here trembling, 
 vulnerable, scared, 
@@ -46,12 +46,12 @@ we never even knew we needed to be.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Even when my joints and muscles hurt. 
 Even when my heart and soul hurt. 
 Even when my abdomen swells 
@@ -65,12 +65,12 @@ into the heart of community.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 It's in You 
 that I will find 
 the ever-renewing strength 
@@ -80,18 +80,18 @@ to express all that's inside.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אוֹחִילָה לָאֵל 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <h3>Oḥilah la'El</h3>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אוֹחִילָה לָאֵל 
 אֲחַלֶּה פָנָיו	
 אֶשְׁאֲלָה מִמֶּנּוּ מַעֲנֵה לָשׁוֹן 
@@ -101,7 +101,7 @@ to express all that's inside.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 I pray to You, Dear One, 
 That I may come into Your presence.
 Grant me proper speech, 

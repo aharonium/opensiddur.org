@@ -12,59 +12,59 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עַל חֵטְא שֶׁחָטָאנוּ לְפָנֶיךָ בְּעַלִימַת עַיִן.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 For the sin which we have committed before You for averting our eyes.
     </div></td></tr>
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
 עַל חֵטְא שֶׁחָטָאנוּ לְפָנֶיךָ בְּסְטִימַת אוֹזֶן.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 For the sin which have committed before You for closing our ears.
     </div></td></tr>
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
 עַל חֵטְא שֶׁחָטָאנוּ לְפָנֶיךָ בְּפַּחְדָנוּת יְתֵירָה.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 For the sin which we have committed before you through excessive fear.
     </div></td></tr>
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
 עַל חֵטְא שֶׁחָטָֽאנוּ לְפָנֶיךָ בְּהַקְטָנַת צֶלֶם אֱלֹהִים.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 For the sin which we have committed before You through diminishing the image of God.
     </div></td></tr>
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
 עַל חֵטְא שֶׁחָטָאנוּ לְפָנֶיךָ בְּיִסוּרים וְעִנוּיִים שֶׁגָמַלְנוּ לַזוּלַת.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 For the sin which we have committed before You for the suffering and torture committed on others.   </div></td></tr>
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
 עַל חֵטְא שֶׁחָטָאנוּ לְפָנֶיךָ בְּאַלִימוּת שֶׁנַעַשָׂה בִּשְׁמֵנוּ.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 For the sin which we have committed before You with the violence done in our name.
     </div></td></tr>
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
 וְעַל חֵטְא שֶׁחָטָאנוּ לְפָנֶיךָ בְּיוֹדְעִים וּבְלֹא יוֹדְעִים.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 For the sin which we have committed before You with our full knowledge or without our knowledge.
     </div></td></tr>
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
 וְעַל כֻּלָּם, אֱלוֹהַּ סְלִיחוֹת, סְלַח לָנוּ, מְחַל לָנוּ, כַּפֶּר-לָנוּ.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 For all these sins, forgiving God, forgive us, pardon us, grant us atonement.
 <em>V’al kulam  eloah s’liḥot, s’laḥ lanu, m’ḥal lanu, kaper lanu.</em>
 </td>
@@ -72,7 +72,7 @@ For all these sins, forgiving God, forgive us, pardon us, grant us atonement.
 </tbody>
 </tbody></table>
 
-<span lang="he">רבנים למען זכויות האדם-צפון אמריקה, ימים נוראים תשס"ח (5768/2008)‏</span>
+רבנים למען זכויות האדם-צפון אמריקה, ימים נוראים תשס"ח (5768/2008)‏</span>
 
 <hr />
 

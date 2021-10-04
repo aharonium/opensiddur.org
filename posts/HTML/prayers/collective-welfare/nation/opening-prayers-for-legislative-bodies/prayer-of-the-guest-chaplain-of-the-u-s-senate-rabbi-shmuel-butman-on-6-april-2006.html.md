@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size:1.2em;">
+<div class="english" lang="en" style="font-size:1.2em;">
 Guest Chaplain: Rabbi Shmuel Butman from the Lubavitch Youth Organization of New York City
 Sponsor: 
 Date of Prayer: 2006-04-06
@@ -19,22 +19,22 @@ Date of Prayer: 2006-04-06
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <h3>Opening Prayer Given by the Guest Chaplain:</h3>
 </div></td></tr>
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <em>Ovinu Shebashomayim</em>, our Heavenly Father.
 We pray to You today, 
 Three days before the 104th birthday 
@@ -43,12 +43,12 @@ Rabbi Menachem M. Schneerson.
 </div></td></tr>
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 The Rebbe reached out 
 to all people 
 and inspired all people 
@@ -63,12 +63,12 @@ and service.
 </div></td></tr>
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 The Rebbe said 
 that this is the last generation of exile 
 and the first generation of redemption 
@@ -80,12 +80,12 @@ and kindness.
 </div></td></tr>
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 The Rebbe also encouraged the observance 
 of the Seven Noaḥide Laws,[foot]Sanhedrin 56a; cf. Tosefta Avodah Zarah 8:4 and Genesis Rabbah 34:8. Six items were commanded to Adam: concerning idolatry, blasphemy, bloodshed, illicit sexuality, theft, and laws…God added to Noah, the law of not eating from the flesh of a live animal.” (Maimonides, Laws of Kings 9:1). The impetus behind sharing the sheva mitsvot in the context of ḤaBaD Lubavitch originates with the following teaching of Rabbi Menachem Mendel Schneerson: "We must do everything possible to ensure that the seven Noahide laws are observed. If this can be accomplished through force or through other kinder and more peaceful means through explaining to non-Jews that they should accept God’s wishes [we should do so]…Anyone who is able to influence a non-Jew in any way to keep the seven commandments is obligated to do so, since that is what God commanded Moses our teacher," (“Sheva Mitzvot Shel Benai Noach,” Hapardes 59:9 7-11, 5745).[/foot]&nbsp; 
 or the Seven Universal Laws, 
@@ -96,12 +96,12 @@ society.
 </div></td></tr>
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 In the merit of the Rebbe, 
 we ask You, Almighty God, 
 to bestow Your blessings 
@@ -119,24 +119,24 @@ and in gladness of heart.
 </div></td></tr>
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 In honor of the Rebbe, 
 I want to do an act of goodness and kindness.
 I want to put a dollar in a <em>pushke</em>, in the charity box. 
 </div></td></tr>
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May God bless you, 
 all of you. 
 Thank you.

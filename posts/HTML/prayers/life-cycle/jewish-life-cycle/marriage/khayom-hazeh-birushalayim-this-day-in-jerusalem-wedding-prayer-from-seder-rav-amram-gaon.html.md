@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כהיום הזה בירושלים 
 ירבו שמחות בישראל
 וינוסו אנחות מישראל
@@ -32,7 +32,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 This day in Yerushalayim: 
 Let happiness increase in Yisrael 
 and let sorrow flee from Yisrael. 
@@ -54,7 +54,7 @@ and may the moshiaḥ arrive in our days.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יצלח חתן וכלה
 ישמחו שניהם זה עם זה
 ויעלזו שניהם זה עם זה
@@ -64,7 +64,7 @@ and may the moshiaḥ arrive in our days.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May the bride and the groom flourish. 
 May they find happiness with one another
 and may they rejoice with one another, 
@@ -75,7 +75,7 @@ and may all of them be blessed.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ישמח חתן בכלה 
 וכלה תשמח בחתן
 בבנים ובבנות בעושר ובנכסים
@@ -84,7 +84,7 @@ and may all of them be blessed.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 The groom shall rejoice with the bride 
 and the bride shall rejoice with the groom. 
 May they flourish with wealth and possessions, 

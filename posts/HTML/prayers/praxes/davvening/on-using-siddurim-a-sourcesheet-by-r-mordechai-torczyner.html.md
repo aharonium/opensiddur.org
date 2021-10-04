@@ -1,107 +1,174 @@
 <html>
 <head></head>
 <body>
-Title: How to Annotate Your Siddur by Rabbi Mordechai Torczyner<br />
+Title: How to Annotate Your Siddur (sourcesheet), by Rabbi Mordechai Torczyner<br />
 Primary contributor: Mordechai Torczyner<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=4157">http://opensiddur.org/?p=4157</a>
 <p />
 <hr />
 
+&nbsp;
 [su_audio url="http://jewishfreeculture.org/wp-content/uploads/2016/02/Piyyut-Tsaakah-Yokheved-for-7-Adar.mp3"]
 
 <table style="margin-left: auto;margin-right: auto;">
 <tbody>
-<tr><td colspan="2"><h3>Why use a siddur</h3></td></tr>
-<tr>
-<td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span  lang="he">
+<tr><td style="vertical-align:top;">
+<div class="liturgy" lang="he">
+
+</span></td>
+ 
+<td style="vertical-align:top;">
+<div class="english" lang="en">
+<h3>Why use a siddur</h3>
+</td></tr>
+
+
+<tr><td style="vertical-align:top;">
+<div class="liturgy" lang="he">
 נתפלל ומצא עצמו בשומע תפילה חזקה כוין... א"ר חייא רובא אנא מן יומיי לא כיונית אלא חד זמן בעי מכוונה והרהרית בלבי ואמרית מאן עליל קומי מלכא קדמי ארקבסה אי ריש גלותא שמואל אמר אנא מנית אפרוחיא רבי בון בר חייא אמר אנא מנית דימוסיא א"ר מתניה אנא מחזק טיבו לראשי דכד הוה מטי מודים הוא כרע מגרמיה
 </span></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english" lang="en">
 <a href="http://en.wikipedia.org/wiki/Talmud_Yerushalmi">Talmud Yerushalmi</a>,[foot]circa 350-400 CE[/foot] Berakhot 2:4
 
 One who prays [the <em>Amidah</em>] and finds himself at <em>shomeia tefillah</em> may assume he had proper intent… Rabi <a href="http://en.wikipedia.org/wiki/Hiyya_the_Great">Ḥiyya the Great</a> said: I never concentrated properly; once I tried to concentrate, and then I began to wonder who goes before the king first, the officer or the exilarch. <a href="http://en.wikipedia.org/wiki/Samuel_of_Nehardea">Shmuel</a> said: I count clouds [other manuscripts: birds]. Rabi Bun bar Ḥiyya said: I count bricks. Rabi Matniyah said: I am grateful to my head, for when I reach <em>Modim</em> it bows on its own!
 </td></tr>
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+
+
+<tr><td style="vertical-align:top;">
+<div class="liturgy" lang="he">
 הברכות אע"פ שיש בהן מאותות השם ומענינות הרבה שבתורה אין מצילין אותן אבל נשרפין במקומן מכן אמרו כותבי ברכות כשורפי תורה
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english" lang="en">
 <a href="http://en.wikipedia.org/wiki/Tosefta">Tosefta</a>[foot]circa 220 CE[/foot] Shabbat 13:4
 
 Even though blessings contain the letters of the Name and many matters of Torah, one may not save them; they are burned where they are. Therefore they said: Those who write blessings are as those who burn Torah.
 </td></tr>
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+
+
+<tr><td style="vertical-align:top;">
+<div class="liturgy" lang="he">
 תפלות הפרקים כגון תפלת מוסף ראש חדש ותפלת מועדות צריך להסדיר תפלתו ואחר כך עומד ומתפלל כדי שלא יכשל בה
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english" lang="en">
 <a href="http://en.wikipedia.org/wiki/Moshe_ben_Maimon">Rambam</a>, <a href="http://en.wikipedia.org/wiki/Mishneh_Torah">Mishneh Torah</a> (c. 1180 CE), Hilkhot Tefilah 4:19
 
 One must arrange his prayer for special occasions, such as <em>Musaf</em> for <em>Rosh Ḥodesh</em> and prayers of holidays, and then stand and pray, so that he will not stumble.
 </td></tr>
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+
+
+<tr><td style="vertical-align:top;">
+<div class="liturgy" lang="he">
 ויש קהלות כותבין על קלף סידור מיוחד לש"ץ להתפלל מתוכו ונכון הוא, וראוי אף ליחיד להתפלל מתוך הסידור...‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english" lang="en">
 <a href="http://en.wikipedia.org/wiki/Joseph_ben_Meir_Teomim">Pri Megadim</a>,[foot]Rabbi <a href="http://en.wikipedia.org/wiki/Joseph_ben_Meir_Teomim"> Joseph ben Meir Teomim</a> (1727–1792)[/foot] on Orakh Chaim 53 Mishbetzot Zahav 15
 
 In some communities they write a special siddur for the ḥazan to use, and this is appropriate; it is appropriate even for individuals to pray from a siddur…
 </td></tr>
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+
+
+<tr><td style="vertical-align:top;">
+<div class="liturgy" lang="he">
 מותר לאחוז מחזור תפלות בידו בשעה שמתפלל הואיל ותופס לצורך תפלה עצמה לא טריד...‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english" lang="en">
 <a href="http://en.wikipedia.org/wiki/Shulkhan_Arukh">Shulḥan Arukh: Oraḥ Ḥayim</a> 96:2
 
 One may hold a book of prayers in his hand when praying; he will not be distracted since he holds it for prayer…
 </td></tr>
-<tr><td colspan="2"><h3>Our problems: Fixed text; Blob of text; Familiarity</h3></td></tr>
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+
+
+<tr><td style="vertical-align:top;">
+<div class="liturgy" lang="he">
+
+</span></td>
+ 
+<td style="vertical-align:top;">
+<div class="english" lang="en">
+<h3>Our problems: Fixed text; Blob of text; Familiarity</h3>
+</td></tr>
+
+
+<tr><td style="vertical-align:top;">
+<div class="liturgy" lang="he">
 רבי אליעזר אומר העושה תפלתו קבע אין תפלתו תחנונים
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english" lang="en">
 <a href="http://en.wikipedia.org/wiki/Mishnah">Mishnah</a>[foot]circa 220 CE[/foot] Berakhot 4:4
 
 Rabi Eliezer said: One who makes his prayer 'fixed' – his prayer is not a proper plea.
 </td></tr>
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+
+
+<tr><td style="vertical-align:top;">
+<div class="liturgy" lang="he">
 שלש עבירות אין אדם ניצול מהן בכל יום הרהור עבירה ועיון תפלה ולשון הרע. לשון הרע סלקא דעתך אלא אבק לשון הרע
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english" lang="en">
 <a href="http://en.wikipedia.org/wiki/Babylonian_Talmud#Talmud_Bavli_.28Babylonian_Talmud.29">Talmud Bavli</a>, Bava Batra 164b-165a
 
 One is not saved from three sins daily: Thoughts of immorality, examination of prayer, and [almost] harmful speech.
 </td></tr>
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+
+
+<tr><td style="vertical-align:top;">
+<div class="liturgy" lang="he">
 אם תתפלל בהנעת שפתיך ופניך אל הכותל ואתה חושב במקחך וממכרך... תהיה אז קרוב ממי שנאמר בהם, קרוב אתה בפיהם ורחוק מכליותיהם.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english" lang="en">
 <a href="http://en.wikipedia.org/wiki/Moshe_ben_Maimon">Rambam</a>, <em><a href="http://en.wikipedia.org/wiki/Moreh_Nevuchim">Moreh Nevukhim</a></em> 3:51
 
 Should you pray with movement of your lips and your face to the wall but think about your commerce… you will be close to those regarding whom it is written, 'You are close to their mouths, but far from their innards.'
 </td></tr>
-<tr><td colspan="2"><h3>Writing in a siddur?</h3></td></tr>
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+
+
+<tr><td style="vertical-align:top;">
+<div class="liturgy" lang="he">
+
+</span></td>
+ 
+<td style="vertical-align:top;">
+<div class="english" lang="en">
+<h3>Writing in a siddur?</h3>
+</td></tr>
+
+
+<tr><td style="vertical-align:top;">
+<div class="liturgy" lang="he">
 ונמצא באחרונים שאף בחזרת הש"ץ נכון הוא שיהיה הסידור פתוח לפניו להיות אזניו פקוחות על מה שאומר הש"ץ
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english" lang="en">
 <a href="http://en.wikipedia.org/wiki/Mishnah_Berurah">Mishnah Berurah</a>[foot]Rabbi <a href="http://en.wikipedia.org/wiki/Yisrael_Meir_Kagan">Yisrael Meir Kagan</a> (aka the Chofetz Chaim, Poland, 1838–1933)[/foot] 96:9
 
 The <em><a href="http://en.wikipedia.org/wiki/Acharonim">Aḥaronim</a></em> wrote that it is also appropriate to hold an open siddur during repetition of the <em>Amidah</em>, so that one's ears will be open to that which the ḥazan says.
 </td></tr>
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+
+
+<tr><td style="vertical-align:top;">
+<div class="liturgy" lang="he">
 הבגדים המצויירים.. אין נכון להתפלל כנגדם, ואם יקרה לו להתפלל כנגד בגד או כותל מצויר, יעלים עיניו. הגה: ולכן אסור ג"כ לצייר ציורים בספרים שמתפללין בהן, שלא תתבטל הכוונה
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;">
+<div class="english" lang="en">
 <a href="http://en.wikipedia.org/wiki/Shulkhan_Arukh">Shulḥan Arukh: Oraḥ Ḥayim</a> 90:23
 
 One should not pray opposite clothes with designs… and if one happens to pray opposite a garment or wall with a picture, he should close his eyes.

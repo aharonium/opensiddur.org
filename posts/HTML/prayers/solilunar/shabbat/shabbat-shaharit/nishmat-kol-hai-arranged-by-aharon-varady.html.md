@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 נִשְׁמַת כָּל חַי 
 תְּבָרֵךְ אֶת שִׁמְךָ יְהֹוָה אֱלֹהֵינוּ.
 וְרוּחַ כָּל בָּשָׂר 
@@ -20,7 +20,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 The soul of every living being 
 shall bless your Name, YHVH our <em>elo'ah</em>. 
 And the spirit of every mortal being
@@ -30,7 +30,7 @@ our King, always.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִן הָעוֹלָם וְעַד־הָעוֹלָם אַתָּה אֵל. <span class="citation">(תהלים צ:ב)</span>
 וּמִבַּלְעָדֶיךָ אֵין לָנוּ מֶלֶךְ <span class="citation">(להשוואה ישעיה מד:ו)</span>
 גּוֹאֵל וּמוֹשִׁיעַ פּוֹדֶה וּמַצִּיל 
@@ -40,7 +40,7 @@ our King, always.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 From this Cosmos to the [next] Cosmos, you are El.[foot]Psalms 90:2.[/foot] 
 Aside from you, we have no King[foot]Cf. Isaiah 44:6.[/foot] 
 who delivers, saves, redeems, rescues, 
@@ -51,7 +51,7 @@ we have no King aside from you.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֱלֹהֵי הָרִאשׁוֹנִים וְהָאַחֲרוֹנִים 
 אֱלֹהַּ כָּל בְּרִיוֹת 
 אֲדוֹן כָּל תּוֹלָדוֹת 
@@ -61,7 +61,7 @@ we have no King aside from you.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 [You are the] <em>elo'ah</em> of the first and of the last, 
 Elo'ah of all creatures, 
 Master of all generations, 
@@ -72,7 +72,7 @@ and their creatures with compassion.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וַיְהֹוָה הִנֵה לֹא־יָנוּם וְלֹא־יִישָׁן.
 הַמְּעוֹרֵר יְשֵׁנִים וְהַמֵּקִיץ נִרְדָּמִים <span class="citation">(תהלים קכא:ד)</span>[foot](נ״א: מְחַיֵי מֵתִים, וְרוֹפֵא חוֹלִים, פּוֹקֵֽחַ עִוְרִים)[/foot]&nbsp;
 וְהַמֵּשִׂיחַ אִלְּמִים 
@@ -83,7 +83,7 @@ and their creatures with compassion.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Indeed, YHVH neither slumbers nor sleeps.[foot]Psalms 121:4.[/foot]&nbsp; 
 They rouse the sleepers and waken the slumberers. 
 They give speech to the voiceless, 
@@ -95,7 +95,7 @@ straighten the bent[foot]Cf. Psalms 145:14.[/foot]
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לְךָ לְבַדְּךָ אֲנַחְנוּ מוֹדִים. 
 אִלּוּ פִינוּ מָלֵא שִׁירָה כַּיָּם 
 וּלְשׁוֹנֵנוּ רִנָּה כַּהֲמוֹן גַּלָּיו 
@@ -114,7 +114,7 @@ straighten the bent[foot]Cf. Psalms 145:14.[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 To you alone we give thanks. 
 If our mouths were filled with song like the sea, 
 and our tongues with melody like the multitude of its waves, 
@@ -134,7 +134,7 @@ and our ancestors before us.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִמִּצְרַיִם גְּאַלְתָּנוּ יְהֹוָה אֱלֹהֵינוּ.
 מִבֵּית עֲבָדִים פְּדִיתָנוּ. 
 בְּרָעָב זַנְתָּנוּ 
@@ -148,7 +148,7 @@ and our ancestors before us.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 [You] delivered us from Mitsrayim, YHVH our <em>elo'ah</em>. 
 [You] redeemed us from the house of slavery. 
 [You] fed us in famine, 
@@ -163,7 +163,7 @@ Never abandon us, YHVH our <em>elo'ah</em>, ever.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עַל כֵּן אֵבָרִים שֶׁפִּלַּגְתָּ בָּנוּ 
 וְרוּחַ וּנְשָׁמָה שֶׁנָּפַחְתָּ בְּאַפֵּינוּ 
 וְלָשׁוֹן אֲשֶׁר שַׂמְתָּ בְּפִינוּ: 
@@ -173,7 +173,7 @@ Never abandon us, YHVH our <em>elo'ah</em>, ever.
  </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Therefore the limbs which you set within us, 
 and the spirit and soul which you breathed into our nostrils, 
 and the tongue which you placed in our mouth – 
@@ -184,7 +184,7 @@ and crown your Name our King.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כִּי כָל־פֶּה לְךָ יוֹדֶה 
 וְכָל לָשׁוֹן לְךָ תִשָּׁבַע. 
 וְכָל עַיִן לְךָ תְצַפֶּה 
@@ -199,7 +199,7 @@ and crown your Name our King.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 For every mouth will thank you, 
 and every tongue will avow by you. 
 Every eye will look to you, 
@@ -215,7 +215,7 @@ and the poor and destitute from those who would rob them.’”[foot]Psalms 35:1
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִי יִדְמֶה־לָּךְ 
 וּמִי יִשְׁוֶה־לָּךְ 
 וּמִי יַעֲרָךְ־לָךְ. <span class="citation">(להשוואה תהלים פט:יז, ישעיה מ:כה)</span>
@@ -224,7 +224,7 @@ and the poor and destitute from those who would rob them.’”[foot]Psalms 35:1
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Who resembles you, 
 who is equal to you, 
 and who can compare to you?[foot]Cf. Psalms 89:17, Isaiah 40:25.[/foot]&nbsp; 
@@ -234,7 +234,7 @@ El Elyon, master of Heaven and Earth.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 נְהַלֶּלְךָ וּנְשַׁבֵּחֲךָ וּנְפָאֶרְךָ וּנְבָרֵךְ אֶת־שֵׁם קָדְשֶׁךָ. 
 כָּאָמוּר לְדָוִד 
 בָּרְכִי נַפְשִׁי אֶת יְהֹוָה
@@ -242,7 +242,7 @@ El Elyon, master of Heaven and Earth.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 We will praise, extol, glorify, and bless your holy Name. 
 As it says: “[A psalm] by David; 
 bless YHVH my soul, 

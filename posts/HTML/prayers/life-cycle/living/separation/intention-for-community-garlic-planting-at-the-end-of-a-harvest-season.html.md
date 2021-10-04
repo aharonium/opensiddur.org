@@ -12,7 +12,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אנו מתחילים בהפרדת שיני השום אחד מהשני, 
 הדומה להפרדת אנשים מקהילותיהם. 
 אחר כך, כשהיחידים (שיני השום) נשתלו, 
@@ -22,7 +22,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 ויציאה אל העולם כדי ליצור קהילות חדשות.
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 We begin by separating the garlic bulbs from the cloves, 
 similar to separating people from their community. 
 Then, once the individual (garlic cloves) are planted, 
@@ -34,17 +34,17 @@ and going out into the world to create new communities.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 למה שום?
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Why garlic?
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שום בדרך כלל הדבר האחרון שנשתל בחווה. 
 הוא נשתל בסתיו 
 ונאסף בקיץ שאחריו. 
@@ -53,7 +53,7 @@ Why garlic?
 (שאולי יהיו אתם).
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Garlic is typically the last crop planted on a farm. 
 It is planted in the fall 
 and harvested the following summer. 

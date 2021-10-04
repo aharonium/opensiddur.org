@@ -11,12 +11,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute&nbsp;a&nbsp;translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <em>Hoshana!</em>  <em>Hoshana!</em>  <em>Hoshana!</em> <em>Hoshana!</em>
 <em>Hoshana!</em>  People <span class="acrostic">a</span>re suffering.  <em>Hoshana!</em> (SAVE US NOW!)
 <em>Hoshana!</em>  Entire ecosystems are collapsing.  <em>Hoshana!</em> 
@@ -32,12 +32,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <em>Hoshana!</em>  <a href="https://opensiddur.org/readings-and-sourcetexts/mekorot/non-canonical/modern/dream-martin-luther-king-jr-haftarah-reading-mlk-shabbat-cantillation-added-rabbi-david-evan-markus/">I also have a dream</a> (ML<span class="acrostic">K</span> <span class="acrostic">J</span>r). <em>Hoshana!</em> (SAVE US NOW!)
 <em>Hoshana!</em>  That governments, political parties and corporations grasp the urgency of the cli<span class="acrostic">m</span>ate crisis.  <em>Hoshana!</em>  
 <em>Hoshana!</em>  That they all come together despite their differe<span class="acrostic">n</span>ces – as you w<span class="acrostic">o</span>uld in an emergency.  <em>Hoshana!</em>  
@@ -54,12 +54,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <em>Hoshana!</em>  It’s time to face the reality, the facts, the science.  <em>Hoshana!</em> (SAVE US NOW!) 
 <em>Hoshana!</em>  Science doesn’t speak of “great opportunities” to create the society we always wanted.  <em>Hoshana!</em>  
 <em>Hoshana!</em>  Science tells of unspoken human sufferings, which will get worse the longer we delay action.  <em>Hoshana!</em>  
@@ -73,12 +73,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <em>Hoshana!</em>  So where do we begin?  <em>Hoshana!</em> (SAVE US NOW!)
 <em>Hoshana!</em>  I would suggest that we start looking at <a href="https://www.ipcc.ch/site/assets/uploads/sites/2/2019/02/SR15_Chapter2_Low_Res.pdf">chapter 2, on page 108 in the IPCC report</a> that came out last year. <em>Hoshana!</em>  
 <em>Hoshana!</em>  Richer countries need to do their fair share and get down to zero emissions much faster <em>Hoshana!</em>  

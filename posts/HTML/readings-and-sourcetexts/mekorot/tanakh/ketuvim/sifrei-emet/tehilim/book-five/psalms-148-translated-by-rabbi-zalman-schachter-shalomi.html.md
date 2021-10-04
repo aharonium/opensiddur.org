@@ -11,14 +11,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַ֥לְלוּ יָ֨הּ ׀ 
 הַֽלְל֣וּ אֶת־יְ֭הוָה 
 מִן־הַשָּׁמַ֑יִם 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <strong>Hallelu-Yah!</strong>
 Applaud and cheer Yah, 
 From the heavens.
@@ -26,7 +26,7 @@ From the heavens.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַֽ֝לְל֗וּהוּ בַּמְּרוֹמִֽים׃
 הַֽלְל֥וּהוּ כָל־מַלְאָכָ֑יו 
 הַֽ֝לְל֗וּהוּ כָּל־צבאו [צְבָאָֽיו׃]&nbsp;
@@ -57,7 +57,7 @@ From the heavens.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Praise him, the most sublime! 
 Angel assembly, sing Hallel!
 Heaven hosts, sing Hallel!!
@@ -89,33 +89,33 @@ Officials and judges of the land.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בַּחוּרִ֥ים וְגַם־בְּתוּל֑וֹת 
 זְ֝קֵנִ֗ים עִם־נְעָרִֽים׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Lads and also lasses, Hallel!! 
 Elders together with youths.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְהַלְל֤וּ ׀ אֶת־שֵׁ֬ם יְהוָ֗ה 
 כִּֽי־נִשְׂגָּ֣ב שְׁמ֣וֹ לְבַדּ֑וֹ 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 All of you, praise Yah’s Name. 
 His very Name, is so transcendent.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ה֝וֹד֗וֹ 
 עַל־אֶ֥רֶץ וְשָׁמָֽיִם׃
 וַיָּ֤רֶם קֶ֨רֶן ׀ לְעַמּ֡וֹ 
@@ -126,7 +126,7 @@ His very Name, is so transcendent.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 His glory is reflected 
 By Heaven and Earth.
 Grand is the fate of his people. 

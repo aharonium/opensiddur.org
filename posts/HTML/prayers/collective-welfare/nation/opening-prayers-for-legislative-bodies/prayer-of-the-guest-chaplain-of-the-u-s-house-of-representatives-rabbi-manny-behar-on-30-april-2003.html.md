@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size:1.2em;">
+<div class="english" lang="en" style="font-size:1.2em;">
 Guest Chaplain: Rabbi Manny Behar, Executive Director, Queens Jewish Community Council of Forest Hills, New York
 Sponsor: Rep. Anthony Weiner (D-NY)
 Date of Prayer: 04/30/2003
@@ -38,22 +38,22 @@ On behalf of the House of Representatives we would like to thank him, not only f
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <h3>Opening Prayer Given by the Guest Chaplain:</h3>
 </div></td></tr>
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Today 
 people around the world 
 remember the martyrdom of 6 million Jews 
@@ -66,12 +66,12 @@ by defeating the Nazi regime.
 </div></td></tr>
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Today, 
 as always, 
 we as a Nation stand 
@@ -91,12 +91,12 @@ that we turn to God in prayer.
 </div></td></tr>
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May God on this day 
 and every day 
 grant all the Members of the House of Representatives 
@@ -111,12 +111,12 @@ in the service of God's children.
 </div></td></tr>
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May God continue 
 to grant success 
 to our soldiers 

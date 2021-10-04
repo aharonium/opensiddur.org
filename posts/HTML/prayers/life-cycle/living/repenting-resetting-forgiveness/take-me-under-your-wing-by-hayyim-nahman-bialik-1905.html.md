@@ -11,18 +11,18 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַכְנִיסִינִי תַּחַת כְּנָפֵךְ
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <h3>Take Me Under Your Wing</h3>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַכְנִיסִינִי תַּחַת כְּנָפֵךְ,
 וַהֲיִי לִי אֵם וְאָחוֹת,
 וִיהִי חֵיקֵךְ מִקְלַט רֹאשִׁי,
@@ -30,7 +30,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Take me under your wing, 
 be my mother, my sister.
 Take my head to your breast, 
@@ -39,7 +39,7 @@ my banished prayers to your nest.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּבְעֵת רַחֲמִים, בֵּין־הַשְּׁמָשׁוֹת,
 שְׁחִי וַאֲגַל לָךְ סוֹד יִסּוּרָי:
 אוֹמְרִים, יֵשׁ בָּעוֹלָם נְעוּרִים   –
@@ -47,7 +47,7 @@ my banished prayers to your nest.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 One merciful twilight hour, 
 hear my pain, bend your head.
 They say there is youth in the world. 
@@ -56,7 +56,7 @@ Where has my youth fled?
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְעוֹד רָז אֶחָד לָךְ אֶתְוַדֶּה:
 נַפְשִׁי נִשְׂרְפָה בְלַהֲבָהּ;
 אוֹמְרִים, אַהֲבָה יֵשׁ בָּעוֹלָם –
@@ -64,7 +64,7 @@ Where has my youth fled?
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Listen! another secret:
 I have been seared by a flame.
 They say there is love in the world. 
@@ -73,7 +73,7 @@ How do we know love’s name?
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַכּוֹכָבִים רִמּוּ אוֹתִי,
 הָיָה חֲלוֹם – אַךְ גַּם הוּא עָבָר;
 עַתָּה אֵין לִי כְלוּם בָּעוֹלָם –
@@ -81,7 +81,7 @@ How do we know love’s name?
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 I was deceived by the stars.
 There was a dream; it passed.
 I have nothing at all in the world, 
@@ -90,7 +90,7 @@ nothing but a vast waste.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַכְנִיסִינִי תַּחַת כְּנָפֵךְ,
 וַהֲיִי לִי אֵם וְאָחוֹת,
 וִיהִי חֵיקֵךְ מִקְלַט רֹאשִׁי,
@@ -98,7 +98,7 @@ nothing but a vast waste.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Take me under your wing, 
 be my mother, my sister.
 Take my head to your breast, 

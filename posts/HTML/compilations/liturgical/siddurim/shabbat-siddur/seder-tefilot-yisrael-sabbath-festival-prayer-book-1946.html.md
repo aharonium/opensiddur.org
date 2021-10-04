@@ -21,7 +21,7 @@ Scanning this work (making digital images of each page) is the first step in a m
 
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 This Sabbath and Festival Prayer Book is presented with the hope that it will serve the needs of all who are striving to perpetuate traditional Judaism in the modern spirit. 
 
 FOREWORD

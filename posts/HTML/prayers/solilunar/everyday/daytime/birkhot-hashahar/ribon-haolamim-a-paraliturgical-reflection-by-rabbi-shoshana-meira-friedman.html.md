@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Paraliturgical Reflection (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רִבּוֹן הָעוֹלָמִים:
 לֹא עַל־צִדְקוֹתֵֽינוּ אֲנַֽחְנוּ מַפִּילִים תַּחֲנוּנֵֽינוּ לְפָנֶֽיךָ
 כִּי עַל רַחֲמֶֽיךָ הָרַבִּים.
@@ -29,7 +29,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Great One of all the Worlds, I know I am not in charge.  
 Yet I lay out my humble yearnings before you 
 because I trust that You are a great womb of compassion.  
@@ -44,7 +44,7 @@ and certainly not worthy to pray to You.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֲבָל 
 אֲנַֽחְנוּ עַמְּךָ בְּנֵי בְרִיתֶךָ.
 בְּנֵי אַבְרָהָם אֹהַבְךָ שֶׁנִּשְׁבַּֽעְתָּ לּוֹ בְּהַר הַמּוֹרִיָּה.
@@ -56,7 +56,7 @@ and certainly not worthy to pray to You.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 But! 
 I am Your child, Your beloved one.  
 I am part of a sacred story of seekers.  
@@ -68,7 +68,7 @@ I am worthy of connection, and it is from this total worthiness that I pray.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לְפִיכָךְ 
 אֲנַחְנוּ חַיָּבִים לְהוֹדוֹת לְךָ, 
 וּלְשַׁבֵּחֲךָ וּלְפָאֶרְֽךָ 
@@ -77,7 +77,7 @@ I am worthy of connection, and it is from this total worthiness that I pray.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Therefore!
 I feel compelled, Holy One, to speak out and praise, 
 acknowledge, name,
@@ -87,39 +87,39 @@ honor and bear witness to the presence of Spirit in the world.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אַשְׁרֵֽינוּ, מַה־טּוֹב חֶלְקֵֽנוּ, וּמַה נָּעִים גּוֹרָלֵֽנוּ, וּמַה יָּפָה יְרֻשָּׁתֵֽנוּ; 
 אַשְׁרֵֽינוּ, שֶׁאָנוּ מַשְׁכִּימִים וּמַעֲרִיבִים עֶרֶב וָבֹקֶר וְאוֹמְרִים פַּעֲמַיִם בְּכָל יוֹם׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Satiated with contentment - that's how I feel when I sink into this role of mine.  
 Satiated with contentment - that is how I feel when I declare that all is One: 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שְׁמַע | יִשְׂרָאֵל, יְיָ | אֱלֹהֵֽינוּ, יְיָ | אֶחָד׃ <span class="citation">(דברים ו:ד)</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <em>Shema Yisrael Adonai Eloheinu Adonai Eḥad</em>.[foot]Deuteronomy 6:4.[/foot]  
 Listen, All of Us Who Wrestle With Life!  We belong to all Existence. All Existence is One.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="instruction">בלחש:</span>
 &nbsp;
 בָּרוּךְ שֵׁם כְּבוֹד מַלְכוּתוֹ לְעוֹלָם וָעֶד׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">say in an undertone:</span>
 &nbsp;
 Blessed is the name of the presence of Being forever and ever.
@@ -127,7 +127,7 @@ Blessed is the name of the presence of Being forever and ever.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 &nbsp;
 אַתָּה הוּא עַד שֶׁלֹּא נִבְרָא הָעוֹלָם, 
@@ -138,7 +138,7 @@ Blessed is the name of the presence of Being forever and ever.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 I get so wrapped up in my own stuff, Holy One.  
 Help me to remember the big story I am a part of: 
 You were before the world.  
@@ -150,7 +150,7 @@ I bless You, Holy One, who makes Her Holiness present in a multitude of ways.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אַתָּה הוּא יְיָ הָאֶלֹהִים בַּשָּׁמַיִם וּבָאָרֶץ, וּבִשְׁמֵי הַשָּׁמַֽיִם הָעֶלְיוֹנִים, 
 אֱמֶת אַתָּה הוּא רִאשׁוֹן, וְאַתָּה הוּא אַחֲרוֹן, וּמִבַּלְעָדֶֽיךָ אֵין אֱלֹהִים. 
 קַבֵּץ נְפוּצוֹת קוֶֹיךָ מֵאַרְבַּע כַּנְפוֹת הָאָרֶץ, יַכִּירוּ וְיֵדְעוּ כָּל בָּאֵי עוֹלָם, 
@@ -162,7 +162,7 @@ I bless You, Holy One, who makes Her Holiness present in a multitude of ways.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Supernal Loving One, 
 deal with me compassionately as I walk on Your earth and under Your skies.
 Help me hear and know Your great name.
@@ -170,7 +170,7 @@ Help me hear and know Your great name.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָבִינוּ שֶׁבַּשָּׁמַֽיִם, חַי וְקַיָּם, 
 עֲשֵֹה עִמָּֽנוּ צְדָקָה וָחֶסֶד בַּעֲבוּר שִׁמְךָ הַגָּדוֹל הַגִּבּוֹר וְהַנּוֹרָא שֶׁנִּקְרָא עָלֵינוּ, 
 וְקַיֶּם לָנוּ יְיָ אֱלֹהֵינוּ אֶת הַדָּבָר שֶׁהִבְטַחְתָּנוּ עַל יְדֵי צְפַנְיָה חוֹזָךְ כָּאָמוּר: 
@@ -180,7 +180,7 @@ Help me hear and know Your great name.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Holy One, 
 please uphold the promise of bringing me close to You,
 Of gathering me to You,

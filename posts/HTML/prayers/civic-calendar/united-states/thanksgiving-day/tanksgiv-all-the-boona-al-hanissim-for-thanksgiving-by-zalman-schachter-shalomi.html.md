@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 Owing to the problematic formulation of this prayer, please note the extensive commentary below. For those who wish to include a prayer in their birkat hamazon for Thanksgiving Day in the United States, there are <a href="https://opensiddur.org/prayers-for/special-days/commemorative-days/secular-national/thanksgiving-day/thanksgiving-prayer-on-secular-national-days-of-gratitude/">alternative formulations</a>.
 </div>
 
@@ -18,12 +18,12 @@ Owing to the problematic formulation of this prayer, please note the extensive c
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 For all the boons in our lives 
 we offer our thanks to you 
 YHVH our God 
@@ -36,7 +36,7 @@ because:
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בִּיְמֵי הַמְהַגְּרִים נְקִיֵּי הַדַּעַת 
 כְּשֶׁהִגִּיעוּ לְאֶרֶץ מִקְלָטָם 
 וְסָבְלוּ רָעָב וְקוֹר 
@@ -58,7 +58,7 @@ because:
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 In the days of the Pilgrims, the Puritans, 
 when they arrived at these safe shores, 
 suffered hunger and cold. 
@@ -81,14 +81,14 @@ feasts of thanks.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לָכֵן גַּם אָנוּ מוֹדִים לְּךָ 
 עַל הַטּוֹבוֹת בְּחַיֵּינוּ – 
 אֵל הַהוֹדָאוֹת אָדוֹן הַשָּׁלוֹם.
 מוֹדִים אֲמַחְנוּ לָךְ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Thus do we thank You 
 for all the good in our lives, 
 God of kindness, Lord of Peace; 
@@ -141,7 +141,7 @@ One more thing that might be considered is that the ritual of the first Thanksgi
 
 Reb Simcha's ideas concerning the symbolic food of a Thanksgiving seder alludes to the significance of corn grown from a land amidst much sorrow. It highlights a very difficult element of the story of the Plymouth Colony's first year among the Massachusetts peoples: the colonists survived in part by discovering, disturbing, and stealing caches of corn that had been intended for the dead. In 1617–1619, before the arrival of the Mayflower, an epidemic wiped out up to 90% of the Native Americans along the Massachusetts coast. The colonist's town of New Plymouth was built atop the town of Patuxet, abandoned after its inhabitants had been wiped out by one of many plagues that decimated the indigenous populations of the Americas in the 16th and 17th centuries.
 
-Reb Simcha's suggestion to avoid the focus on the Turkey is also welcomed. Our <span lang="he">הוֺדוּ</span> -- our <em>thankfulness</em> -- is not signified by the meat of the Turkey, the meat of which also obscures the sorrowful life of deprivation and nigh unimaginable endured by millions of birds and other domesticated animals each year, harvested only to suffice unnecessary gluttony. A refocus on the meaningful elements of our thanksgiving, must be courageous enough to look beyond what is hidden by immediate, convenient desires.
+Reb Simcha's suggestion to avoid the focus on the Turkey is also welcomed. Our הוֺדוּ</span> -- our <em>thankfulness</em> -- is not signified by the meat of the Turkey, the meat of which also obscures the sorrowful life of deprivation and nigh unimaginable endured by millions of birds and other domesticated animals each year, harvested only to suffice unnecessary gluttony. A refocus on the meaningful elements of our thanksgiving, must be courageous enough to look beyond what is hidden by immediate, convenient desires.
 
 The time has come for us to take seriously and revisit these important questions and concerns. If the most precious and prized myths in our own tradition are the repository of some of the deepest and profound wisdom revealed to our ancestors, then it behooves to think critically about any myths we adopt from our host cultures that may be convenient stories they tell to obscure a depth of suffering to harrowing to look closely at.
 
@@ -149,7 +149,7 @@ The original Thanksgiving festival was probably held in early October 1621 and w
 
 Perhaps, a more honest declaration of thanksgiving on Thanksgiving Day would be balanced by a memorial for the dead, and an intention to pursue justice for those victimized either through outright theft or passively through stories that marginalize and silence, and thereby help the storytellers evade honest awareness and responsibility. Perhaps, it might be as simple as stating:
 
-<div class="english">
+<div class="english" lang="en">
 We worried that we would be grasshoppers in the midst of Giants;[foot]Numbers 13:33[/foot]
 But Yours is the Land, and the fulness thereof,[foot]Psalms 24:1, cf. Psalm 50:11, and Deuteronomy 10:14[/foot]
 and we were born forth from the Earth with the responsibility to cultivate and preserve it.[foot]Genesis 2:15[/foot]

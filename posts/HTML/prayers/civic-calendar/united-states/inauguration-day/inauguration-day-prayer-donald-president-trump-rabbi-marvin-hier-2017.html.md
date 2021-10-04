@@ -11,12 +11,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Eternal God, 
 bless President Donald J. Trump, 
 and America, our great nation.
@@ -24,12 +24,12 @@ and America, our great nation.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Guide us to remember the words of the Psalmist, 
 "Who may dwell on your holy mountain? 
 One who does what is right 
@@ -38,12 +38,12 @@ and speaks the truth";[foot]after Psalms 15:1-2[/foot]
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Who knows that "when you eat the labor of your hands, 
 you are praiseworthy";[foot]Psalms 128:2[/foot]
 [who knows] that "he who sows in tears 
@@ -60,12 +60,12 @@ neither are we free to desist from them"[foot]Rabbi Tarfon, Pirkei Avot 2:16[/fo
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 "Dispense justice for the needy and the orphan"[foot]Psalms 82:3[/foot] -- 
 for they have no one but their fellow citizens 
 and because their nation's wealth 
@@ -77,12 +77,12 @@ who share our beliefs.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 ("By the rivers of Babylon, 
 we wept as we remembered Zion... 
 If I forget thee O Jerusalem, 
@@ -91,24 +91,24 @@ may my right hand forget its skill."[foot]Psalms 137:1-5[/foot])
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 "...The doer of all these 
 shall never falter."[foot]Psalms 15:5 partial. Cf. Psalms 15:3-5 for the complete admonition. Note, Rabbi Hier's prayer began with Psalms 15:1-2.[/foot]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May the days comes soon 
 "when justice will dwell in the wilderness 
 and righteousness will abide in the fertile fields 
@@ -119,12 +119,12 @@ forever."[foot]Isaiah 32:16-17[/foot]
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Amen.
 </div></td></tr>
 </tbody></table>

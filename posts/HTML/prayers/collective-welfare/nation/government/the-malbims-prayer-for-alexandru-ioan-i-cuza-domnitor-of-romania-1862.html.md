@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (Romanian)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="26%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 תפילה לה״ בעד חיי׳ המלך אדוננו 
 ובעד טובת מדינתינו 
 ביום בוא מלכנו <span style="font-size:x-large;">אלכסנדר</span>
@@ -19,14 +19,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="romanian"><span lang="ro">
+<div class="romanian" lang="ro">
 O rugăciune către HaShem pentru viața regelui 
 și pentru bunăstarea regatului său
 În ziua în care Regele nostru Alexandru Ioan a sosit în orașul nostru
 </span></div></td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 A Prayer to HaShem for the Life of our monarch the King 
 and on behalf of the welfare of his state
 On the day our king Alexander Ioan I came to our city …
@@ -34,7 +34,7 @@ On the day our king Alexander Ioan I came to our city …
 
 
 <tr><td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יום נפתחן שערי ארצנו
 יבא בם בחירן מלכנו
 ה״ אלקינו לפניך נשפך שיח
@@ -44,7 +44,7 @@ On the day our king Alexander Ioan I came to our city …
 </span></div></td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="romanian"><span lang="ro">
+<div class="romanian" lang="ro">
 Ziua în care porțile pământului nostru au fost deschise
 Fie ca regele nostru ales să pătrundă prin ele
 Să ne punem noi cuvintele noastre înaintea Ta HaShem, al nostru el’oah
@@ -54,7 +54,7 @@ Acoperă-l cu maiestate și glorie.
 </span></div></td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 A day when the gates of our land were opened
 May our chosen king enter through them
 Let us pour out our words before You HaShem our elo'ah
@@ -65,7 +65,7 @@ Shower him with majesty and glory
 
 
 <tr><td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ועמן אחותינו באה מאלדווע המדינה
 זה כמה לא תבקו ידינו זאת העדינה
 אחתינו אתהיי לאלפי רבבה
@@ -75,7 +75,7 @@ Shower him with majesty and glory
 </span></div></td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="romanian"><span lang="ro">
+<div class="romanian" lang="ro">
 Și o dată cu el vine suveranitatea Moldovei
 Noi n-am cuprins încă întreaga noastră țară
 Sora noastră, fie ca tu să primești binecuvântările biblice
@@ -85,7 +85,7 @@ Aducând binecuvântări și iubire pentru stindardul nostru.
 </span></div></td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 And with him comes the statehood of Moldavia
 We had not yet embraced our entire fair country
 Our sister, may you receive the blessings recounted in the bible
@@ -96,7 +96,7 @@ Bringing blessings and love to our banner and flag
 
 
 <tr><td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ה׳ בכל עת ועת מרי הארת פניך
 לכונן כס מלכות לאיש לבבו נאמן לפניך
 ותאמר׃ כסאך אבנה לדור ודור 
@@ -106,7 +106,7 @@ Bringing blessings and love to our banner and flag
 </span></div></td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="romanian"><span lang="ro">
+<div class="romanian" lang="ro">
 HaShem, Tu mereu ai îngăduit ca fața Ta să lumineze
 Ca tronul regal să fie cu hotărâre întemeiat pentru el – cel care ți-a fost credincios Ție
 I-ai vestit lui: îți voi clădi tronul de la generație la generație
@@ -116,7 +116,7 @@ Pentru a-i frânge încătușările și pentru a proclama libertatea celor capti
 </span></div></td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 HaShem, you have always allowed Your face to shine
 To firmly establish the royal throne for him who has been faithful to You
 You proclaimed to him: I will build up your throne from generation to generation
@@ -127,7 +127,7 @@ To break their bonds and proclaim freedom to the captives
 
 
 <tr><td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וכפרוץ השמחה כנגן הנבל והחליל
 על כל יאשדרך על כל נבע ותליל
 וכל לב מלא גיל כל פה תהלה
@@ -137,7 +137,7 @@ To break their bonds and proclaim freedom to the captives
 </span></div></td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="romanian"><span lang="ro">
+<div class="romanian" lang="ro">
 Iar când bucuria izbucnește în muzica de harpă și de trompetă
 Pe fiecare drum și pe fiecare munte înalt
 Iar fiecare inimă se umple de fericire și fiecare gură se umple de laudă
@@ -147,7 +147,7 @@ Inima regelui nostru e în mâinile tale, HaShem, și eu mă rog –
 </span></div></td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 And when joy breaks forth amid the music of harp and trumpet
 On every highway and on each steep mountain
 And every heart fills with joy and every mouth with praise
@@ -158,26 +158,26 @@ The king’s heart is in your hands, HaShem, and I pray -
 
 
 <tr><td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ה׳ נצור כאישון
 את <span style="font-size:x-large;">אלכסנדר יאהן הראשון</span>
 </span></div></td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="romanian"><span lang="ro">
+<div class="romanian" lang="ro">
 HaShem, apără, precum aperi ceea ce este cel mai de preț pentru Tine
 Pe Alexandru Ioan Întâiul
 </span></div></td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 HaShem, protect, as you protect what is dearest to You,
 Alexander Johann I
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 המלך אדנינו
 שמרהו אלקינו
 ואת רעייתו המלכה
@@ -185,7 +185,7 @@ Alexander Johann I
 </span></div></td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="romanian"><span lang="ro">
+<div class="romanian" lang="ro">
 Domnul nostru, regele
 Păzește-l, al nostru elo’ah
 Și pe consoarta sa, Regina
@@ -193,7 +193,7 @@ Păzește-l, al nostru elo’ah
 </span></div></td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 Our lord, the king
 Protect him, our elo'ah, 
 and his consort the Queen 
@@ -202,7 +202,7 @@ and all the ministers of his kingdom
 
 
 <tr><td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ושמת לעד זרעם וכסאם כימי שמים
 ונתת כנהר שלומם וכפלגי מים
 וכתות מפניו צריו ומשנאיו יסורו
@@ -212,7 +212,7 @@ and all the ministers of his kingdom
 </span></div></td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="romanian"><span lang="ro">
+<div class="romanian" lang="ro">
 Și pentru totdeauna așază moștenitorii și tronurile lor
 Fie ca bunăstarea lor să curgă precum un râu măreț
 Să zdrobească toți dușmanii din fața lor, iar cei potrivnici să-și întoarcă drumul
@@ -222,7 +222,7 @@ Iar văile roditoare să răsune de muzică.
 </span></div></td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 And establish forever their heirs and their thrones
 And may their welfare flow like a mighty river
 Crush all their enemies before them and may their foes turn away
@@ -233,7 +233,7 @@ And may its fruited valleys ring with music.[foot]Psalms 65:14 partial[/foot]
 
 
 <tr><td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 והאחיות התאומות יחדיו תהיינה תמים
 תחת ראש אחד מלך צדיק מושלעמים
 יֵרֵד כְּמָטָר עַל־גֵּז כִּרְבִיבִים על צומח
@@ -243,7 +243,7 @@ And may its fruited valleys ring with music.[foot]Psalms 65:14 partial[/foot]
 </span></div></td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="romanian"><span lang="ro">
+<div class="romanian" lang="ro">
 Iar Surorile Gemene împreună vor fi una
 Sub domnia unui singur virtuos monarh, un cârmuitor al popoarelor
 El să fie precum ploaia ce cade pe un câmp arat, precum o ploaie peste vegetație,
@@ -253,7 +253,7 @@ Fie ca acest rege drept să înflorească iar pacea să fie din belșug.
 </span></div></td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 And the Twin Sisters together will be complete[foot]The "Twin Sisters," i.e., Moldavia and Wallachia[/foot]
 Beneath the rule of a single righteous monarch, a ruler of nations
 Let him be like rain that falls on a mown field, like a downpour of rain on vegetation,[foot]Cf. Psalms 72:6[/foot]
@@ -264,17 +264,17 @@ May this righteous king flourish and may peace abound.
 
 
 <tr><td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מאיר ליבוש מלבים ראבד דפה באקארסט
 </span></div></td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="romanian"><span lang="ro">
+<div class="romanian" lang="ro">
 Meir Leibush (ben Yehiel Michel) Malbim, RAB”D (Șef-Rabin) al orașului București.
 </span></div></td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 Meir Leibush [ben Yehiel Michel] Malbim, RAB”D (Chief Rabbi), of this city Bucharest
 </div>
 </td></tr>

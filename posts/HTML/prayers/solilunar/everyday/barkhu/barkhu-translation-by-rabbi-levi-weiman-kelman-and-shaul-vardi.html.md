@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="instruction">שליח ציבור:</span>
 &nbsp;
 בָּרְכוּ אֶת יהוה הַמְבֹרָךְ.
@@ -19,7 +19,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">shaliaḥ tsibbur:</span>
 &nbsp;
 Praise YHVH to whom our praise is due!
@@ -28,7 +28,7 @@ Praise YHVH to whom our praise is due!
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="instruction">קהל:</span>
 &nbsp;
 בָּרוּךְ יהוה הַמְבֹרָךְ 
@@ -37,7 +37,7 @@ Praise YHVH to whom our praise is due!
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">Congregation:</span>
 &nbsp;
 Praised be YHVH to whom our praise is due,
@@ -47,7 +47,7 @@ now and forever!
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="instruction">שליח ציבור:</span>
 &nbsp;
 בָּרוּךְ יהוה הַמְבֹרָךְ 
@@ -56,7 +56,7 @@ now and forever!
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">shaliaḥ tsibbur:</span>
 &nbsp;
 Praised be Adonai to whom our praise is due,

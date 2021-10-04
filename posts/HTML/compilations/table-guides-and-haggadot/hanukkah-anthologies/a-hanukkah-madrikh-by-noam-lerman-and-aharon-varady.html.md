@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 Noam Lerman and I were co-teachers this past Fall 2011 season at <a href="http://www.kolotchayeinu.org">Kolot Ḥayeinu</a>'s <a href="http://www.kolotchayeinu.org/node/34">children's learning program</a> in Park Slope Brooklyn this past season, and as a Ḥanukkah present we made a <em>Ḥanukkah Madrikh</em> for our Kittah Gimmel class. I'm certain there are Jewish educators all over the world preparing curricular resources for Ḥanukkah right about now. We hope that by sharing this they can take it and improve on it, or else we'll save them some energy so they'll be able to do even more mitsvot.
 
 DOWNLOAD: <a href="https://opensiddur.org/wp-content/uploads/2011/12/A-Hanukah-Madrikh.odt">ODT</a> | <a href="https://opensiddur.org/wp-content/uploads/2011/12/A-Hanukah-Madrikh.txt">TXT</a> | <a href="https://opensiddur.org/wp-content/uploads/2011/12/A-Hanukah-Madrikh.pdf">PDF</a>

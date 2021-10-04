@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מוֹדָה|מוֹדֶה אֲנִי לְפָנֶיךָ 
 מֶֽלֶךְ חַי וְקַיָּם
 שֶׁהֶחֱזַרְתָּ בִּי 
@@ -20,7 +20,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 אֱמוּנָתֶךָ‏׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Thank You, Living God
 And Master,
 For giving me

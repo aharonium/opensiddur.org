@@ -13,7 +13,7 @@ This meditation was written specifically as part of a mikveh education project h
 
 <hr />
 
-<div class="english">
+<div class="english" lang="en">
 <h3>Erev Shabbat Mikveh Meditation</h3>
 By Rabbi Dr. Haviva Ner-David and Shira Gura
 

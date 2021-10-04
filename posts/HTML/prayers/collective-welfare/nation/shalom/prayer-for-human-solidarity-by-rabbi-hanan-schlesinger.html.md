@@ -11,12 +11,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;"><a href="https://opensiddur.org/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Our Father[foot]Some may wish to substitute ‘Parent’ for ‘Father’.[/foot] in heaven, 
 Creator of all humanity, 
 Whose mercies are upon all His creatures 
@@ -25,12 +25,12 @@ and Whose love is withheld from none.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Help us to live in the light of our faith 
 that all human beings are cast from the same die, 
 that all are created in the divine image 
@@ -39,12 +39,12 @@ and that all bear Your infinite value.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Let us remember that all of humanity constitute one unit 
 and that we are all interdependent. 
 May we heal the suspicion, fear and hate 
@@ -57,35 +57,35 @@ is prior to our common humanity.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Let us never forget that this world will survive and thrive 
 only through understanding and cooperation.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Let us recommit ourselves to the common good.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Help us to be healed of the hubris of exclusivity 
 that deludes us into the false belief 
 that only we are close to You.
@@ -93,12 +93,12 @@ that only we are close to You.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Help us to be hospitable to diversity 
 and to engage charitably with those who are different from us. 
 Let us remember that our truth is always only partial 
@@ -111,12 +111,12 @@ Let us listen and learn, grow and expand, with openness and joy.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Let us join forces to live together and do Your will as one humanity, 
 while each people still walks in the illumination of its own unique insight.
 </div></td></tr>

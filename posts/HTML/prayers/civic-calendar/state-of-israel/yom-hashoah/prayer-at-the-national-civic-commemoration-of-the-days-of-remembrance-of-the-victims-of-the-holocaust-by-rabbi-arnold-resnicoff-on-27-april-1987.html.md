@@ -12,12 +12,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 O Lord our God
 help us pray – as our <em>ceremony</em> ends,
 that our <em>service</em> might begin.
@@ -26,12 +26,12 @@ And keep us from forgetting the difference.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Keep us from feeling too good
 about what we say and do today,
 for words are not enough,
@@ -46,12 +46,12 @@ or deafness to his cry...
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And yet,
 let us take some pride – and hope –
 in what we do today,
@@ -65,12 +65,12 @@ to give direction to our lives.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 So, <em>from</em> the Holocaust, we learn:
 when we deny humanity in others,
 we destroy humanity within ourselves.
@@ -82,12 +82,12 @@ in our own heart.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And, <em>since</em> the Holocaust, we pray:
 if the time has not yet dawned
 when we can all proclaim our faith in God,
@@ -100,12 +100,12 @@ a face as human as our own.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 So long ago
 the Bible taught that life might be
 a blessing or a curse:[foot]Cf. Deuteronomy 11:26, Deuteronomy 30:19[/foot]&nbsp;
@@ -116,12 +116,12 @@ the curse will be remembered.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 But our prayer must also be:
 to fight despair;
 to find the strength, the courage,

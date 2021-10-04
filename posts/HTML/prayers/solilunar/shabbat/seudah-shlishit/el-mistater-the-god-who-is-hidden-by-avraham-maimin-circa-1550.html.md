@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">אֵ</span>ל מִסְתַּתֵּר בְּשַׁפְרִיר חֶבְיוֹן 
 הַשֵּׂכֶל הַנֶּעְלָם מִכָּל רַעְיוֹן 
 עִלַּת הָעִלּוֹת מֻכְתָּר בְּכֶתֶר עֶלְיוֹן 
@@ -19,7 +19,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <span class="acrostic"> </span>The God who is hidden––to all of our reason is naught.
 Wisdom concealed, wisdom kept secret, from all of our deepest thought.
 Cause of all causes, surpassing all causes, hidden crown of all.
@@ -28,7 +28,7 @@ A <em>keter</em> we give you, a crown we now offer, to you YHVH (Adonai).[foot]W
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">בְּ</span>רֵאשִׁית תּוֹרָתְךָ הַקְּדוּמָה 
 רְשׁוּמָה חָכְמָתְךָ הַסְּתוּמָה 
 מֵאַיִן תִּמָּצֵא וְהִיא נֶעְלָמָה 
@@ -36,7 +36,7 @@ A <em>keter</em> we give you, a crown we now offer, to you YHVH (Adonai).[foot]W
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <span class="acrostic"> </span>At the first was your Torah, the Torah before time.
 Imprinting your wisdom, it was sublime.
 It came forth from nothing, and then it was hid. (2x)
@@ -45,7 +45,7 @@ The beginning of wisdom, <em>resheet ḥokhmah</em>, is <em>yir’at</em> Adonai
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">רְ</span>חוֹבוֹת הַנָּהָר נַחֲלֵי אֱמוּנָה 
 מַיִם עֲמֻקִּים יִדְלֵם אִישׁ תְּבוּנָה 
 תּוֹצְאוֹתֶיהָ חֲמִשִּׁים שַׁעֲרֵי בִינָה 
@@ -54,7 +54,7 @@ The beginning of wisdom, <em>resheet ḥokhmah</em>, is <em>yir’at</em> Adonai
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <span class="acrostic"> </span>The rivers are flowing, emunah streaming,
 Waters run deep for one with understanding.
 The gates are all open, gates yielding <em>binah</em>, 
@@ -64,7 +64,7 @@ When we’re faithful, we know you are there, guarding us always, Adonai.[foot]U
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">הָ</span>אֵל הַגָּדוֹל עֵינֵי כָל נֶגְדֶּךָ 
 רַב חֶסֶד גָּדוֹל מֵעַל שָּׁמַיִם חַסְדֶּךָ 
 אֱלֹהֵי אַבְרָהָם זְכֹר דָבָר לְעַבְדֶּךָ 
@@ -73,7 +73,7 @@ When we’re faithful, we know you are there, guarding us always, Adonai.[foot]U
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <span class="acrostic"> </span>O great Lord of all, all your creatures search for you.
 From your great love, grace from the heavens pours down on us.
 God of Avraham, remember us now. 
@@ -83,7 +83,7 @@ Remember us your servants: we’re all here to serve you.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">מָ</span>רוֹם נֶאְדָּר בְּכֹחַ וּגְבוּרָה 
 מוֹצִיא אוֹרָה מֵאֵין תְּמוּרָה 
 פַּחַד יִצְחָק מִשְׁפָּטֵנוּ הָאִירָה 
@@ -91,7 +91,7 @@ Remember us your servants: we’re all here to serve you.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <span class="acrostic"> </span>Highest one, adorned with power: <em>gevurah</em>,
 Drawing down light from where opposites merge.
 “Fear of Yitsḥaq”, bring our judgment to light.
@@ -100,7 +100,7 @@ O source of strength, you give us strength, unceasing strength, Adonai.[foot]Gev
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">מִ</span>י אֵל כָּמוֹךָ עוֹשֶׂה גְדוֹלוֹת 
 אֲבִיר יַעֲקֹב נוֹרָא תְהִלּוֹת 
 תִּפְאֶרֶת יִשְׂרָאֵל שֹׁמֵעַ תְּפִלּוֹת 
@@ -109,7 +109,7 @@ O source of strength, you give us strength, unceasing strength, Adonai.[foot]Gev
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <span class="acrostic"> </span>What God is like you: doing great things for us all.
 Vigor of Yaaqov, showing kindness, yet you fill us with awe.
 <em>Tiferet</em> Yisrael: you never cease to hear our prayers.
@@ -120,7 +120,7 @@ You are the one who listens to prayers, Adonai.[foot]Tipheret is beauty, but it 
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">יָ</span>הּ זְכוּת אָבוֹת יָגֵן עָלֵינוּ 
 נֵצַח יִשְׁרָאֵל מִצָּרוֹתֵינוּ גְאָלֵנוּ 
 וּמִבּוֹר גָּלוּת דְּלֵנוּ וְהַעֲלֵנוּ 
@@ -129,7 +129,7 @@ You are the one who listens to prayers, Adonai.[foot]Tipheret is beauty, but it 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <span class="acrostic"> </span>Yah, through our parents’ merits watch us now and guide us.
 Netsaḥ Yisrael, from our troubles do redeem us.
 From the pit of <em>galut</em>, please raise us and uplift us.
@@ -140,7 +140,7 @@ may be for the sake of Adonai.[foot]Netsach is victory attained through persever
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">מִ</span>יָּמִין וּמִשְּׂמֹאל יְנִיקַת הַנְבִיאִים 
 נֶצַח וָהוֹד בָּהֶם נִמְצָאִים 
 יָכִין וּבֹעַז בְּשֵׁם נִקְרָאִים 
@@ -148,7 +148,7 @@ may be for the sake of Adonai.[foot]Netsach is victory attained through persever
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <span class="acrostic"> </span>From right and from left is the prophets’ insight, 
 <em>netsaḥ</em> and <em>hōd</em> is the source of their light.
 Yakhin and Boaz: these two pillars shine bright.
@@ -157,7 +157,7 @@ And all your children (3x) do learn from Adonai.[foot]Hod is called “Splendor�
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">וִ</span>יסוֹד צַדִּיק בְּשִׁבְעָה נֶעְלָם 
 אוֹת בְּרִית הִיא לְעוֹלָם 
 מַעְיַן הַבְּרָכוֹת צַדִּיק יְסוֹד עוֹלָם 
@@ -165,7 +165,7 @@ And all your children (3x) do learn from Adonai.[foot]Hod is called “Splendor�
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <span class="acrostic"> </span>Within seven veils is the <em>tsaddiq</em> hidden.
 He is the <em>brit</em>: the world’s true foundation.
 The fount of blessing is the <em>tsaddiq</em>: <em>yesod olam</em>.
@@ -174,7 +174,7 @@ The <em>tsaddiq</em> are you (3x) Adonai.[foot]The sephirah of Yesod refers to t
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">נָ</span>א הָקֵם מַלְכוּת 
 דָּוִד וּשְׁלֹמֹה 
 בַּעֲטָרָה שֶׁעִטְּרָה לוֹ אִמּוֹ 
@@ -185,7 +185,7 @@ The <em>tsaddiq</em> are you (3x) Adonai.[foot]The sephirah of Yesod refers to t
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <span class="acrostic"> </span>Now: raise up <em>malkhut</em>, <em>malkhut</em> of David, <em>malkhut</em> of David, 	
 David and Solomon.
 Restore now the crown, as did our mother, mother Shekhinah.
@@ -197,7 +197,7 @@ Crown of beauty and of splendor all are in your hands, Adonai.[foot]The culminat
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">חָזָק</span> מְיַחֵד כְּאֶחָד 
 עֶשֶׂר סְפִירוֹת 
 מַפְרִיד אַלּוּף לֹא יִרְאֶה מְאוֹרוֹת 
@@ -206,7 +206,7 @@ Crown of beauty and of splendor all are in your hands, Adonai.[foot]The culminat
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <span class="acrostic"> </span>Strong One! Unite us! Make us as one now! 
 Through these <em>sephirot</em>, through the ten <em>sephirot</em>.
 If even one is cut off, the light will fail us.

@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שְׁמַ֖<span style="font-size: xx-large;">ע</span> יִשְׂרָאֵ֑ל 
 &nbsp;
 יְהוָ֥ה אֱלֹהֵ֖ינוּ 
@@ -19,7 +19,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <strong>Listen</strong>, you, Yisrael person,
 <span class="instruction">(say your own name here)</span>
 Yah who Is, is our God, 
@@ -29,14 +29,14 @@ All there Is.[foot]Deuteronomy 6:4[/foot]
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="instruction">[בלחש]</span> 
 בָּרוּךְ שֵׁם כְּבוֹד מַלְכוּתוֹ 
 לְעוֹלָם וָעֶד׃ <span class="citation">(משנה יומא ג:ח, פסחים נו א, <a href="https://www.sefaria.org/Midrash_Tanchuma_Buber%2C_Kedoshim.6?vhe=Midrash_Tanhuma_haKadum_veHaYashan,_S._Buber,_1885&lang=bi">מדרש תנחומא - בובר קדושים ו׳</a>, ועוד)</span> 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">[<em>whisper</em>]</span> 
 Through time and space,
 Your glory shines, Majestic One.[foot]Mishna Yoma 3:8, Pesachim 56a, Bereishit Rabba 98:3, <a href="https://www.sefaria.org/Midrash_Tanchuma_Buber%2C_Kedoshim.6?vhe=Midrash_Tanhuma_haKadum_veHaYashan,_S._Buber,_1885&lang=bi">Midrash Tanchuma Buber Kedoshim 6</a>, et al[/foot]
@@ -44,7 +44,7 @@ Your glory shines, Majestic One.[foot]Mishna Yoma 3:8, Pesachim 56a, Bereishit R
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְאָ֣הַבְתָּ֔ אֵ֖ת יְהוָ֣ה אֱלֹהֶ֑יךָ 
 בְּכָל־לְבָבְךָ֥ 
 וּבְכָל־נַפְשְׁךָ֖ 
@@ -52,7 +52,7 @@ Your glory shines, Majestic One.[foot]Mishna Yoma 3:8, Pesachim 56a, Bereishit R
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <strong>Love Yah</strong>, who is your God, 
 In what your heart is,
 In what you aspire to,
@@ -61,7 +61,7 @@ In what you have made your own.[foot]Deuteronomy 6:5[/foot]
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְהָי֞וּ הַדְּבָרִ֣ים הָאֵ֗לֶּה 
 אֲשֶׁ֨ר אָנֹכִ֧י מְצַוְּךָ֛ הַיּ֖וֹם 
 עַל־לְבָבֶֽךָ׃
@@ -79,7 +79,7 @@ In what you have made your own.[foot]Deuteronomy 6:5[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May these values
 Which I connect with your life,
 Be implanted in your feelings.
@@ -98,7 +98,7 @@ And in your environment.[foot]Deuteronomy 6:6-9[/foot]
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְהָיָ֗ה 
 אִם־שָׁמֹ֤עַ 
 תִּשְׁמְעוּ֙ אֶל־מִצְוֺתַ֔י 
@@ -117,7 +117,7 @@ And in your environment.[foot]Deuteronomy 6:6-9[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <strong>How good it will be</strong>
 When you really listen,
 And hear my directions,
@@ -137,7 +137,7 @@ All of you will eat and be content.[foot]Deuteronomy 11:13-15[/foot]
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הִשָּֽׁמְר֣וּ לָכֶ֔ם 
 פֶּ֥ן יִפְתֶּ֖ה לְבַבְכֶ֑ם 
 וְסַרְתֶּ֗ם 
@@ -156,7 +156,7 @@ All of you will eat and be content.[foot]Deuteronomy 11:13-15[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Be careful -- watch out!
 Don't let your cravings delude you;
 Don’t become alienated;
@@ -176,7 +176,7 @@ In which God's gifts manifest.[foot]Deuteronomy 11:16-17[/foot]
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְשַׂמְתֶּם֙ 
 אֶת־דְּבָרַ֣י אֵ֔לֶּה 
 עַל־לְבַבְכֶ֖ם וְעַֽל־נַפְשְׁכֶ֑ם 
@@ -201,7 +201,7 @@ In which God's gifts manifest.[foot]Deuteronomy 11:16-17[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May these values of Mine, 
 Reside in your 
 Feelings and aspirations:
@@ -227,7 +227,7 @@ Right here on this earth.[foot]Deuteronomy 11:18-21[/foot]
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וַיֹּ֥אמֶר יְהוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃
 דַּבֵּ֞ר אֶל־בְּנֵ֤י יִשְׂרָאֵל֙ וְאָמַרְתָּ֣ אֲלֵהֶ֔ם 
 וְעָשׂ֨וּ לָהֶ֥ם צִיצִ֛ת 
@@ -262,7 +262,7 @@ Right here on this earth.[foot]Deuteronomy 11:18-21[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <strong>Yah who Is, said to Moses,</strong>
 "Speak, telling the Israel folks
 To make tzitzit

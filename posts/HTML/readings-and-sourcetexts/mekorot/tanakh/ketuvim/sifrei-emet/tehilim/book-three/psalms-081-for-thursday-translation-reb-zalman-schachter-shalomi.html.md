@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 This psalm was the Thursday song of the Levites in the Holy Temple.
 </div>
 
@@ -16,13 +16,13 @@ This psalm was the Thursday song of the Levites in the Holy Temple.
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>א</sup>&nbsp;<span class="instruction">לַמְנַצֵּ֬חַ ׀ עַֽל־הַגִּתִּ֬ית לְאָסָֽף׃</span>
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <sup>1</sup>&nbsp;<em>Accompany this Assaph song with the guitar</em>
 </div></td>
 </tr>
@@ -30,7 +30,7 @@ This psalm was the Thursday song of the Levites in the Holy Temple.
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>ב</sup>&nbsp;הַ֭רְנִינוּ לֵאלֹהִ֣ים 
 עוּזֵּ֑נוּ 
 הָ֝רִ֗יעוּ לֵאלֹהֵ֥י יַעֲקֹֽב׃ 
@@ -46,7 +46,7 @@ This psalm was the Thursday song of the Levites in the Holy Temple.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <sup>2</sup>&nbsp;Make music to God,
 The Source of our strength.
 Trumpet a fanfare to Jacob’s God:
@@ -64,7 +64,7 @@ And still we celebrate.
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>ה</sup>&nbsp;כִּ֤י חֹ֣ק לְיִשְׂרָאֵ֣ל 
 ה֑וּא מִ֝שְׁפָּ֗ט 
 לֵאלֹהֵ֥י יַעֲקֹֽב׃ 
@@ -84,7 +84,7 @@ And still we celebrate.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <sup>5</sup>&nbsp;This is the imperative for Israel.
 To become prepared,
 For being judged by Jacob’s God.
@@ -106,7 +106,7 @@ And I (said God) freed you.
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֶ֭עֶנְךָ 
 בְּסֵ֣תֶר רַ֑עַם 
 אֶבְחָֽנְךָ֨ 
@@ -116,7 +116,7 @@ And I (said God) freed you.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 In the thunder 
 You heard my secret message.
 Later, I tested you 
@@ -128,7 +128,7 @@ Selah!
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>ט</sup>&nbsp;שְׁמַ֣ע עַ֭מִּי 
 וְאָעִ֣ידָה בָּ֑ךְ 
 יִ֝שְׂרָאֵ֗ל 
@@ -139,7 +139,7 @@ Selah!
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <sup>9</sup>&nbsp;Listen my people!
 I witness this to you!
 Israel, if only 
@@ -152,7 +152,7 @@ Don’t worship an alien deity.
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>יא</sup>&nbsp;אָנֹכִ֨י ׀ יְה֘וָ֤ה אֱלֹהֶ֗יךָ 
 הַֽ֭מַּעַלְךָ מֵאֶ֣רֶץ מִצְרָ֑יִם 
 הַרְחֶב־פִּ֝֗יךָ 
@@ -165,7 +165,7 @@ Don’t worship an alien deity.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <sup>11</sup>&nbsp;It is I,  Yah, 
 Who took you up from Egypt.
 I fed you 
@@ -180,7 +180,7 @@ To pursue their own devices.
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 <sup>יד</sup>&nbsp;ל֗וּ עַ֭מִּי שֹׁמֵ֣עַֽ לִ֑י 
 יִ֝שְׂרָאֵ֗ל בִּדְרָכַ֥י יְהַלֵּֽכוּ׃ 
@@ -198,7 +198,7 @@ To pursue their own devices.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Oy!
 <sup>14</sup>&nbsp;If only my people would obey Me,
 Israel would walk in My ways.

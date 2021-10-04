@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 A poem-blessing for the Hebrew month of Kislev, suitable for Birkat HaḤodesh, Rosh Ḥodesh Kislev, and the whole month.
 
 Please note that this was written in the Northern Hemisphere and conveys the experience of Ḥeshvan as a winter month.
@@ -22,7 +22,7 @@ If this piece brings you comfort, nourishment or inspiration, please consider ma
 <table style="margin-left: auto;margin-right: auto;">
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May we be nourished by the darkness
 &nbsp;&nbsp;&nbsp;and by the light
 

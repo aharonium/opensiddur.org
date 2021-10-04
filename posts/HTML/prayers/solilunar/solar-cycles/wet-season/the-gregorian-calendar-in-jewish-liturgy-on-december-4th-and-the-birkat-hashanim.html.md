@@ -9,7 +9,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 [caption id="attachment_10254" align="aligncenter" width="1024"]<a href="https://opensiddur.org/wp-content/uploads/2012/12/rain-17967_1280-e1417909313228.jpg"><img src="https://opensiddur.org/wp-content/uploads/2012/12/rain-17967_1280-e1417909313228.jpg" alt="Rain, Raindrops, Window (credit: PublicDomainPictures, license: CC0)" width="1024" height="769" class="size-full wp-image-10254" /></a> <a href="http://pixabay.com/en/rain-raining-raindrops-window-17967/">Rain, Raindrops, Window</a> (credit: PublicDomainPictures, license: CC0)[/caption]
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 Rain is important in every society, but particularly so in places like Eretz Yisrael, where rain only falls during a defined portion of the year. It is critical, then, that the "rainy season" in fact be rainy, since no rain can be expected for the remainder of the year. Accordingly, prayers, liturgies, and fast days relating to rain (or the lack thereof) played, and continue to play, a prominent role in Jewish tradition.
 
 Our <em>tefillot</em> today contain two major references to rain. The first, "<em>hazkarat geshamim</em>", is better known as "<em>mashiv haruaḥ umorid hagashem</em>" and is found in the second <em>berakhah</em> of the Amidah. This is recited in accordance with the rainy season in Eretz Yisrael, which runs from the beginning of Sukkot through the beginning of Pesaḥ. We follow R. Yehoshua's position in Mishnah Ta'anit 1:1 that we should postpone <em>hazkarat geshamim</em> until Shemini Atzeret, as it would be inappropriate for us to speak of rain while we still hope to sit in the sukkah.

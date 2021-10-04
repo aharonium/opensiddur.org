@@ -16,18 +16,18 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="60%">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">In Kabbalistic tradition, the new moon is sanctified seven days after its appearance, under a clear sky, standing facing east. It may be said as early as three days after the new moon, and as late as a day before the full moon (the moon should still be visibly waxing). It is the custom in the month of Av to wait to sanctify the moon until after Tisha b'Av, and in Tishrei to wait until after Yom Kippur. In a minyan, the Aleinu prayer and kaddish are traditionally added at the end.</span>
 </div></td></tr>
     
     
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַלְלוּיָהּ,
 הַלְלוּ אֶת ה׳ מִן הַשָּׁמַיִם, הַלְלוּהוּ בַּמְּרוֹמִים׃ 
 הַלְלוּהוּ כָּל מַלְאָכָיו, הַלְלוּהוּ כָּל צְבָאָיו׃ 
@@ -38,7 +38,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Praise Yah! 
 Praise Hashem from the skies, praise the One in the heights. 
 Praise the One, all angels, praise the One, all the hosts. 
@@ -50,18 +50,18 @@ and God set them up ever forever, giving them a law, and it will not be erased.[
     
     
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
-<span class="instruction">The traditional custom is to not look upon the moon itself while saying the blessing, in order to avoid any appearance of praying to the moon. However, if one keeps in mind that we are thanking God for the moon and asking for the moon to be blessed by God, it is lovely to stay focused on the moon during the blessing. The blessing is found in Talmud Sanhedrin 42a, where it reads, “true workers whose work is true” <span class="hebrew">פּוֹעָלֵי אֱמֶת, שֶׁפְּעֻלָּתָן אֱמֶת</span>, referring to the moon and sun rather than to God.</span>
+<div class="english" lang="en">
+<span class="instruction">The traditional custom is to not look upon the moon itself while saying the blessing, in order to avoid any appearance of praying to the moon. However, if one keeps in mind that we are thanking God for the moon and asking for the moon to be blessed by God, it is lovely to stay focused on the moon during the blessing. The blessing is found in Talmud Sanhedrin 42a, where it reads, “true workers whose work is true” <span class="hebrew" lang="he">פּוֹעָלֵי אֱמֶת, שֶׁפְּעֻלָּתָן אֱמֶת</span>, referring to the moon and sun rather than to God.</span>
 </div></td></tr>
     
     
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה 
 ה׳ אֱלֹהֵינוּ 
 מֶלֶךְ הָעוֹלָם 
@@ -81,7 +81,7 @@ and God set them up ever forever, giving them a law, and it will not be erased.[
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Blessed be You 
 YHVH Adonai, our God, 
 ruler of all space and time
@@ -102,19 +102,19 @@ who makes new the renewing-moons <em>m’ḥadesh ḥodashim</em>!
     
     
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">Each of the following lines is said three times as a kind of incantation up to the new moon ☽:
 Feel free to say what is enjoyable and leave out what seems extraneous.</span>
 </div></td></tr>
     
     
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 בָּרוּךְ עוֹשֵׂךְ, 
 בָּרוּךְ יוֹצְרֵךְ, 
@@ -123,7 +123,7 @@ Feel free to say what is enjoyable and leave out what seems extraneous.</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">say three times</span>
 Blessed be your Maker, 
 blessed be your Former, 
@@ -138,25 +138,25 @@ barukh ḳoneikh</em>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">Jump with joy towards the moon each time you say the next line:</span>
 </div></td></tr>
     
     
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 כְּשֵׁם שֶׁאֲנִי רוֹקֵד כְּנֶגְדֵּךְ וְאֵינִי יָכוֹל לִנְגּוֹעַ בָּךְ, 
 כַּךְ לֹא יוּכְלוּ כָּל אוֹיְבִים לִנְגוֹעַ בָּהֶם לְרָעָה׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">say three times:</span>
 Just as I leap (and dance) opposite you and cannot touch you, 
 so may enemies be unable to touch each other for harm 
@@ -165,14 +165,14 @@ so may enemies be unable to touch each other for harm
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 תִּפֹּל עֲלֵיהֶם אֵימָתָה 
 וָפַחַד בִּגְדֹל זְרוֹעֲךָ יִדְּמוּ כָּאָבֶן׃ <span class="citation">(שמות טו:טז)</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">say three times:</span>
 There will fall upon them terror and fear, 
 through your arm’s greatness let them fall silent like a rock.[foot]Exodus 15:16[/foot]
@@ -180,14 +180,14 @@ through your arm’s greatness let them fall silent like a rock.[foot]Exodus 15:
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 כָּאָבֶן יִדְּמוּ זְרוֹעֲךָ בִּגְדֹל 
 וָפַחַד אֵימָתָה עֲלֵיהֶם תִּפֹּל׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">say three times:</span>
 Like a rock let them fall silent through your arm, 
 with greatness and fear, terror upon them will fall.
@@ -195,13 +195,13 @@ with greatness and fear, terror upon them will fall.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 דָּוִד מֶלֶךְ יִשְֹרָאֵל חַי וְקַיָּם׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">sing at least three times:</span>
 David King of Yisrael lives! 
 &nbsp;
@@ -210,23 +210,23 @@ David King of Yisrael lives!
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">Exchange greetings with three people:</span>
 </div></td></tr>
     
     
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שָׁלוֹם עֲלֵיכֶם!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Peace unto you! 
 &nbsp;
 <em>Shalom Aleikhem</em>
@@ -234,12 +234,12 @@ Peace unto you!
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עֲלֵיכֶם שָׁלוֹם!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Unto you peace! 
 
 <em>Aleikhem shalom</em>
@@ -247,13 +247,13 @@ Unto you peace!
     
     
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 סִמָּן טוֹב וּמַזָּל טוֹב יְהֵא לָנוּ וּדְכָל יִשְׂרָאֵל אָמֵן׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">sing at least three times:</span>
 A good omen and a good sign for us and for all Yisra'el!
 &nbsp;
@@ -262,7 +262,7 @@ A good omen and a good sign for us and for all Yisra'el!
   
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 קוֹל דּוֹדִי הִנֵּה זֶה בָּא 
 מְדַלֵּג עַל הֶהָרִים מְקַפֵּץ עַל הַגְּבָעוֹת.
 דּוֹמֶה דוֹדִי לִצְבִי אוֹ לְעֹפֶר הָאַיָּלִים.
@@ -271,7 +271,7 @@ A good omen and a good sign for us and for all Yisra'el!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 The voice of my beloved, here this one is coming, 
 skipping over mountains, jumping over valleys. 
 My beloved, be like an antelope or a doe of the deers! 
@@ -281,7 +281,7 @@ peering from the windows, peaking through the cracks.[foot]Song of Songs 2:8-9[/
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שִׁיר לַמַּעֲלוֹת,
 אֶשָּׂא עֵינַי אֶל הֶהָרִים, מֵאַיִן יָבֹא עֶזְרִי׃ 
 עֶזְרִי מֵעִם ה׳ עֹשֵׂה שָׁמַיִם וָאָרֶץ׃  
@@ -296,7 +296,7 @@ peering from the windows, peaking through the cracks.[foot]Song of Songs 2:8-9[/
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 A Song of Ascents. 
 I will lift up mine eyes unto the mountains: From where shall my help come? 
 My help comes from Hashem, who made heaven and earth. 
@@ -312,7 +312,7 @@ from this time forth and for ever.[foot]Psalms 121, translation JPS 1917[/foot]
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָמַר רַב אָסִי אָמַר רַבִּי יוֹחָנַן 
 כָּל הַמְבָרֵךְ עָל הַחֹדֶש בִּזְמָנוֹ 
 כְּאִילוּ מְקָבֵל פְנֵי שְׁכִינָה. 
@@ -326,7 +326,7 @@ from this time forth and for ever.[foot]Psalms 121, translation JPS 1917[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Rav Assi said in the name of Rebbi Yoḥanan: 
 All who bless the “new one” ḥodesh (the moon) in its time,
  it’s as if they received the face (presence) of Shekhinah.
@@ -341,20 +341,20 @@ Therefore we should say (the blessing over the moon) standing.[foot]Sanhedrin 42
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִי זֹאת עוֹלָה מִן הַמִּדְבָּר 
 מִתְרַפֶּקֶת עַל דּוֹדָה׃ <span class="citation">(שיר השירים ח:ה)</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Who is this arising from the wilderness, 
 leaning upon her beloved?[foot]Song of Songs 8:5[/foot]
 </td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וִיהִי רָצוֹן מִלְּפָנֶיךָ 
 ה׳ אֱלֹהַי וֵאלֹהֵי אֲבוֹתַי 
 לְמַלֹּאת פְּגִימַת הַלְּבָנָה,
@@ -366,7 +366,7 @@ leaning upon her beloved?[foot]Song of Songs 8:5[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May it be Your will Hashem, 
 my God and my ancestors’ God, 
 to fulfill the blemish of the “white one” levanah (the moon), 

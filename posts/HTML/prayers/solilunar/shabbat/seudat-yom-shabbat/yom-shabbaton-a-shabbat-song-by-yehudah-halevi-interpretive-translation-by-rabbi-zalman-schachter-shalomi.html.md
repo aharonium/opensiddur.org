@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">י</span>וֹם שַׁבָּתוֹן 
 אֵין לִשְׁכּֽוֹחַ, 
 זִכְרוֹ כְּרֵֽיחַ 
@@ -21,7 +21,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 You, dear Shabbat, 
 are always here for me;
 How fragrant 
@@ -32,7 +32,7 @@ Weary ones from the toil of the week.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">הַ</span>יּוֹם נִכְבָּד 
 לִבְנֵי אֱמוּנִים, 
 זְהִירִים לְשָׁמְרוֹ 
@@ -44,7 +44,7 @@ Weary ones from the toil of the week.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Honored are you by us, 
 the believers, 
 Parents and children, 
@@ -57,7 +57,7 @@ in prayer and at meals.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">וּ</span>בָֽאוּ כֻלָּם 
 בִּבְרִית יַֽחַד, 
 נַעֲשֶׂה וְנִשְׁמָע 
@@ -69,7 +69,7 @@ in prayer and at meals.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 When at the Mount Sinai 
 in covenant we pledged
 We promised in one voice 
@@ -82,7 +82,7 @@ who imbues us with strength.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">דִּ</span>בֶּר בְּקָדְשׁוֹ 
 בְּהַר הַמּוֹר, 
 יוֹם הַשְּׁבִיעִי 
@@ -94,7 +94,7 @@ who imbues us with strength.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Dear and Holy at Sinai 
 You spoke to us;
 “Remember and Keep 
@@ -107,7 +107,7 @@ and with vigor imbued.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">הָ</span>עָם אֲשֶׁר נָע 
 כַּצֹּאן תָּעָה, 
 יִזְכּוֹר לְפָקְדוֹ 
@@ -119,7 +119,7 @@ and with vigor imbued.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 How just like a lost sheep, 
 so aimless, you wandered
 Remember the Shabbat 

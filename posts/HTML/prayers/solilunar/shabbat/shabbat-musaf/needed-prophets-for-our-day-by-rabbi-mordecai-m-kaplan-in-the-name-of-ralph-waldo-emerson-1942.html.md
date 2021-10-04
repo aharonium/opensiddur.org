@@ -11,23 +11,23 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <u>Needed Prophets for Our Day</u>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 He who makes me aware that I am an infinite soul heartens me.
 He who gives me to myself lifts me.
 He who shows God in me fortifies me.
@@ -38,12 +38,12 @@ Noble provocations go out from them, inviting me to resist evil.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 But let us not speak of revelations as something long ago given and done.
 Only by coming to the God in ourselves can we grow forevermore.
 Let us not say that the age of inspiration is past, that the Bible is closed.
@@ -52,12 +52,12 @@ Let us learn to believe in the soul of man, and not merely in men departed.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 The need was never greater of new revelations than now.
 The faith of man has suffered universal decay.
 The heart moans, because it is bereaved of consolation and hope and grandeur.
@@ -65,12 +65,12 @@ The heart moans, because it is bereaved of consolation and hope and grandeur.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 We feel defrauded and disconsolate.
 Our religion has become spectral.
 It has lost its grasp on the affection of the good and on the fear of the bad.
@@ -78,12 +78,12 @@ It has lost its grasp on the affection of the good and on the fear of the bad.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 What greater calamity can befall a nation than the loss of worship?
 Then all things go to decay.
 Genius leaves the Temple.
@@ -95,12 +95,12 @@ Society lives for trifles.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 In the soul let redemption be sought.
 Let the keepers of religion show us that God is, not was.
 That He speaketh, not spoke.

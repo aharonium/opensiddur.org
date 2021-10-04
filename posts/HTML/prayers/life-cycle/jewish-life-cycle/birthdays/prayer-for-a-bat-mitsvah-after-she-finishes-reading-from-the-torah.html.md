@@ -11,13 +11,13 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הִנְנִי עוֹמֶדֶת בְּמָקוֹם זֶה הַיּוֹם 
 כְּדֵי לְהָעִיד וְלוֹמַר בְּקוֹל צָלוּל וּבָרוּר 
 שֶׁאֲנִי בַּת יִשְׂרָאֵל. 
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Here I stand in this place today 
 to witness and to announce in a deep and clear voice 
 that I am a daughter of Israel. 
@@ -25,7 +25,7 @@ that I am a daughter of Israel.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עָלִיתִי לַתּוֹרָה 
 כְּדֵי לְהִתְחַבֵּר לְדוֹרוֹת שֶׁל בָּנוֹת וּבָנִים, 
 אִמָּהוֹת וְאָבוֹת, 
@@ -37,7 +37,7 @@ that I am a daughter of Israel.
 וּמֵהַהֹוֶה לְעָתִיד. 
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 I came up to the Torah today[foot]I took an <em>Aliyah</em> today[/foot] 
 to connect with the generations of boys and girls, 
 mothers and fathers, 
@@ -51,7 +51,7 @@ and from the present to the future.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 קְרִיאָתִי בְּסֵפֶר 
 מְחַזֶּקֶת אֶת הַקֶּשֶׁר 
 בֵּינִי לְבֵין מִשְׁפַּחְתִּי, 
@@ -59,7 +59,7 @@ and from the present to the future.
 בֵּינִי לְבֵין עַמִּי וְאַרְצִי. 
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 My reading in this book 
 strengthens my connection 
 between myself and my family, 
@@ -69,13 +69,13 @@ and the people of my nation and country.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מְקַבֶּלֶת אֲנִי בְּאַהֲבָה 
 אֶת הִשְׁתַּיְכוּתִי לְמָסֹרֶת שֶׁל תּוֹרָה עַתִּיקַת יוֹמִין בָּהּ 
 יֵשׁ לַהֲגוֹת יוֹמָם וָלַיְלָה. 
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 I receive with love 
 my portion in the ancient daily tradition of the Torah, 
 to recite it day and night. 
@@ -83,14 +83,14 @@ to recite it day and night.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֲנִי תְּקַוֶּה שֶׁאוּכַל לַהֲפֹךְ בָּהּ וְלַהֲפֹךְ בָּהּ, 
 לְהַתְווֹת לְעַצְמִי דַּרְכֵי חַיִּים בְּאֶמְצָעוּתָהּ, 
 לְחַפֵּשׂ בָּהּ נְתִיבוֹת לְחָכְמָה וּלְאַהֲבָה 
 וּלְהִשְׁתַּמֵּשׁ בָּהּ לְטוֹבַת הַכְּלָל. 
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 I hope that I will be able to turn over and over in her,[foot]Cf. <em>Pirkei Avot</em> 5:26 -- <em>Hafoch ba ve-hafoch ba, de'kula ba</em> – Turn it and turn it, for everything is in it[/foot]&nbsp;
 to outline my ways of life with her help, 
 to find paths to wisdom and love 
@@ -99,7 +99,7 @@ and to use her for the good of all.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִי יִתֵּן וּשְׂפָתָהּ שֶׁל הַתּוֹרָה 
 שֶׁמְּחַבֶּרֶת בֵּין עָבַר לֶעָתִיד, 
 וְאוֹתִיּוֹתֶיהָ 
@@ -107,11 +107,11 @@ and to use her for the good of all.
 תְּשַׁמֵּשְׁנָה אוֹתִי בְּשָׁכְבִי וּבְקוּמִי, 
 בְּבֵיתִי וּבְלֶכְתִי, 
 בִּצְעִירוּתִי וּבְזִקְנָתִי. 
-כִּי <span class="scribe">דְּרָכֶיהָ דְּרָכַי נֹעַם וּנְתִיבוֹתֶיהָ שָׁלוֹם</span>. 
+כִּי <span class="scribe" lang="he">דְּרָכֶיהָ דְּרָכַי נֹעַם וּנְתִיבוֹתֶיהָ שָׁלוֹם</span>. 
 אמן.
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Whoever teaches and translates the Torah 
 connects between the past and the future, 
 so may the letters [of the Torah]&nbsp;

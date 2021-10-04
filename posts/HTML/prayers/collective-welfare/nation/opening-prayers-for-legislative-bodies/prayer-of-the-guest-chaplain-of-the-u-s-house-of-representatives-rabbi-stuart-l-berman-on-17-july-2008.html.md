@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size:1.2em;">
+<div class="english" lang="en" style="font-size:1.2em;">
 Guest Chaplain: Rabbi Stuart L. Berman, Police-Clergy Liaison, New York City Police Department
 Sponsor: Rep. Joseph Crowley, (D-NY)
 Date of Prayer: 07/17/2008
@@ -39,22 +39,22 @@ Thank you, Rabbi, for being here.
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <h3>Opening Prayer Given by the Guest Chaplain:</h3>
 </div></td></tr>
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Almighty God, 
 guardian of the people of Thy covenant, 
 help us to reflect clearly 
@@ -64,12 +64,12 @@ in the performance of our responsibilities this day.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Let us be permeated by the time-tested ideals of our society, 
 and may our days be blessed with the enduring accomplishments of this, 
 the 110th Congress. 
@@ -79,12 +79,12 @@ but we share a common love of this great land.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Let us direct all our efforts 
 toward the eradication of hatred, 
 prejudice 
@@ -93,12 +93,12 @@ and blindness of mind.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Grant us breadth of vision 
 to build bridges of understanding 
 among all the citizens in our communities back home. 
@@ -108,12 +108,12 @@ that unites all who were created in Thy divine image.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Grant us strength of body 
 and health of mind. 
 Enable us to face the challenges of life 
@@ -125,12 +125,12 @@ not the love of power.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 In moments of doubt, 
 strengthen us in our convictions. 
 In hours of gloom, 
@@ -144,13 +144,13 @@ to count our blessings.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 אָמֵן׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And we all say
 <em>Amen</em>.
 </div></td></tr>

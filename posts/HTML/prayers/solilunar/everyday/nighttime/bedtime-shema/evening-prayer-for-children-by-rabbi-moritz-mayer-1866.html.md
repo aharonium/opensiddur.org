@@ -11,12 +11,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Now to bed I do retire, 
 Rest to find and sweet repose; 
 Lord! my weary eyes aspire 
@@ -25,12 +25,12 @@ Unto Thee before they close.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Thou, O Father, ever good, 
 Take my thanks for all Thy love, 
 For Thy care, for drink and food, 
@@ -39,12 +39,12 @@ Which Thou gav'st me from above
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Pardon ev'ry sinful deed, 
 Ev'ry evil I have done; 
 Let my tender age now plead 
@@ -53,12 +53,12 @@ To Thy mercy, Holy One!
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Let my childhood's innocence 
 Last through life, unbroken, pure; 
 That, when'er thou call's! me hence, 

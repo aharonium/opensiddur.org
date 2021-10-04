@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 This psalm was the Sunday song of the Levites in the Holy Temple.
 </div>
 
@@ -16,13 +16,13 @@ This psalm was the Sunday song of the Levites in the Holy Temple.
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>א</sup>&nbsp;לְדָוִ֗ד מִ֫זְמ֥וֹר
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <sup>1</sup>&nbsp;David’s song (for opening himself to Spirit).
 </div></td>
 </tr>
@@ -30,7 +30,7 @@ This psalm was the Sunday song of the Levites in the Holy Temple.
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לַֽ֭יהוָה 
 הָאָ֣רֶץ וּמְלוֹאָ֑הּ 
 תֵּ֝בֵ֗ל וְיֹ֣שְׁבֵי בָֽהּ׃
@@ -42,7 +42,7 @@ This psalm was the Sunday song of the Levites in the Holy Temple.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Earth and her fullness 
 Are Yours, Yah,
 The cosmos and its beings.
@@ -56,7 +56,7 @@ Of the great Flow.
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>ג</sup>&nbsp;מִֽי־יַעֲלֶ֥ה 
 בְהַר־יְהוָ֑ה 
 וּמִי־יָ֝קוּם 
@@ -76,7 +76,7 @@ Of the great Flow.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <sup>3</sup>&nbsp;Who can rise 
 To Your summit, Yah?
 Who can stand 
@@ -98,7 +98,7 @@ Her helpful God.
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>ו</sup>&nbsp;זֶ֭ה דּ֣וֹר דרשו [דֹּרְשָׁ֑יו]&nbsp;
 מְבַקְשֵׁ֨י 
 פָנֶ֖יךָ יַעֲקֹ֣ב 
@@ -107,7 +107,7 @@ Her helpful God.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <sup>6</sup>&nbsp;Such people are of a generation 
 That seeks You.
 Like Jacob seeking to face You,
@@ -118,7 +118,7 @@ Selah!
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>ז</sup>&nbsp;שְׂא֤וּ שְׁעָרִ֨ים ׀ רָֽאשֵׁיכֶ֗ם 
 וְֽ֭הִנָּשְׂאוּ 
 פִּתְחֵ֣י עוֹלָ֑ם 
@@ -134,7 +134,7 @@ Selah!
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <sup>7</sup>&nbsp;Open your minds’ imagination!
 Let the Gates to eternity 
 Come into view!
@@ -152,7 +152,7 @@ Yah, the ever victorious!
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>ט</sup>&nbsp;שְׂא֤וּ שְׁעָרִ֨ים ׀ רָֽאשֵׁיכֶ֗ם 
 וּ֭שְׂאוּ 
 פִּתְחֵ֣י עוֹלָ֑ם 
@@ -166,7 +166,7 @@ Yah, the ever victorious!
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <sup>9</sup>&nbsp;Open your minds’ imagination!
 Let the Gates to eternity 
 Come into view,

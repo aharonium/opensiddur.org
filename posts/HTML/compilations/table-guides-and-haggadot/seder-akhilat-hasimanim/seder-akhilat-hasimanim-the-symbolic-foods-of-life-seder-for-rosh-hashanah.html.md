@@ -16,7 +16,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 
 <h3>Introduction</h3>
 

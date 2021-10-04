@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לָעַד חַיָּה בִּלְבָבֵנוּ
 הָאֱמוּנָה הַנֶּאֱמָנָה,
 לָשׁוּב לְאֶרֶץ קָדְשֵׁנוּ
@@ -19,7 +19,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Forever in our hearts lives[foot]cf. the prayer Barukh she'Amar.[/foot]
 the loyal faith 
 to return to our holy land,
@@ -28,7 +28,7 @@ to return to our holy land,
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שָׁמָּה נַעֲמֹד לְגוֹרָלֵנוּ
 אַב הָמוֹן קָנָה,
 שָׁמָּה נִחְיֶה חַיֵּינוּ
@@ -36,7 +36,7 @@ to return to our holy land,
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 There we shall stand [to receive] our destiny,
 [which the] father of many [nations][foot]cf. Genesis 17:5.[/foot] acquired.
 There we shall live our life --
@@ -45,7 +45,7 @@ the life of the innumerable community.[foot]cf. Numbers 23:10.[/foot]
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שָׁמָּה נַעֲבֹד אֱלֹהֵינוּ
 בְּחֶדְוָה בְּגִילָה וּבִרְנָנָה,
 שָׁמָּה נַעֲלֶה לִרְגָלֵינוּ
@@ -53,7 +53,7 @@ the life of the innumerable community.[foot]cf. Numbers 23:10.[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 There we shall serve our <em>elo'ah</em>
 with joy, happiness, and song.
 There we shall pilgrimage
@@ -62,7 +62,7 @@ three times a year.[foot]cf. Deuteronomy 16:16.[/foot]
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 תּוֹרַת חַיִּים חֶמְדָּתֵנוּ
 מִפִּי עֶלְיוֹן נִתָּנָה,
 נֶצַח הִיא נַחֲלָתֵנוּ
@@ -70,7 +70,7 @@ three times a year.[foot]cf. Deuteronomy 16:16.[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 A Torah of Life is our desire,
 given from the mouth of Elyon.
 Eternal is our heritage.

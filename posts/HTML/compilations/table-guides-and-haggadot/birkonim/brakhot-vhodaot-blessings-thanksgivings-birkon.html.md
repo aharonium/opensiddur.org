@@ -22,7 +22,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <table style="margin-left: auto;margin-right: auto;">
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 סדר סעודת ליל שבת
 ברכת הבנים
 קידוש לליל שבת
@@ -49,7 +49,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 ספירת העומר
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 The Order of the Shabbat Evening Feast
 Blessing the Children
 Kiddush for Shabbat Evening

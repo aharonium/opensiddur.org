@@ -11,11 +11,11 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Contribute a Translation</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 May it be your will <span class="hebrew" lang="he">ה׳</span>, 
 <span style="padding-left: 5em;">my <span class="hebrew" lang="he">אֱלֹהַ</span>,
 <span style="padding-left: 5em;"><span class="hebrew" lang="he">אֱלֹהַ</span> of my ancestors,</span>
@@ -47,11 +47,11 @@ so as to express a Oneness parallel to a Oneness.[foot]Cf. Zohar, Parshat Teruma
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 May my thoughts seek truth and integrity,
 the humility that is commensurate with my ignorance,
 the compassion that arises from the depths of awareness,

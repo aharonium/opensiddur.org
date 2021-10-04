@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size:1.2em;">
+<div class="english" lang="en" style="font-size:1.2em;">
 Guest Chaplain: Rabbi Dr. David Halpern, Flatbush Park Jewish Center, Brooklyn, New York
 Sponsor: Rep. Thomas Peter Lantos (D-CA)
 Date of Prayer: 06/17/2003
@@ -34,22 +34,22 @@ Madam Speaker, I am delighted that he was able to share some of his wisdom and g
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <h3>Opening Prayer Given by the Guest Chaplain:</h3>
 </div></td></tr>
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Our Father, Sovereign of the world, 
 we stand in the House 
 of freely elected representatives 
@@ -66,12 +66,12 @@ in profoundly perilous times.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 The threat to human security 
 wears many faces: 
 Tyranny, 
@@ -90,12 +90,12 @@ for us all created in Thine image.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May we always remember 
 that to safeguard our own freedom, 
 we must speak out against oppression,
@@ -108,12 +108,12 @@ it requires strength of spirit.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Almost six decades have passed
 since the age of the Nazi death camps, 
 the places where 6 million Jewish men, women and children 
@@ -139,12 +139,12 @@ and in harmony.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 We ask Thy blessing 
 upon these members of our Congress, 
 the spiritual heirs of those who were so instrumental 
@@ -160,12 +160,12 @@ upon that benighted part of the world.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Grant that our President 
 and Vice President 
 and all our elected leaders 
@@ -177,12 +177,12 @@ to make it a blessed and beautiful reality.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 We pray in the words of Isaiah: 
 May the spirit of the Lord rest upon us, 
 the spirit of wisdom and understanding, 
@@ -192,12 +192,12 @@ the spirit of knowledge and fear of the Lord.[foot]cf. Isaiah 11:2.[/foot]
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָמֵן׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <em>Amen</em>.
 </div></td></tr>
 </tbody></table>

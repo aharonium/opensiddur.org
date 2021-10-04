@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="instruction">כשיוצא אדם 
 [יחידי]&nbsp;
 בלילה 
@@ -20,7 +20,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">When a person goes out 
 [alone][foot]<span style="direction: rtl; text-align: right;">The addition of "alone" is found in Ms. Opp. Add. Q° 28 (Bodleian Library) also known as the Manuscript O for Seder Rav Amram. Levene, Marx, and Bharyo note that "When the Tosefta defines the halakhic category of a fool, it mentions among other things 'one who goes out at night alone,'" Tosefta <em>Terumot</em> 1.3.</span>[/foot]&nbsp;‎
 at night,[foot]<span style="direction: rtl; text-align: right;">See Bavli Berakhot 43b on the dangers of traveling at night.</span>[/foot]&nbsp; 
@@ -30,7 +30,7 @@ they should say:</span>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מימיני אל 
 ומשמאלי עזיאל 
 ומלפני נמואל 
@@ -39,7 +39,7 @@ they should say:</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May El be on my right, 
 and on my left, Uziel,
 and Nemuel before me, 
@@ -49,14 +49,14 @@ Shekhinat-El is above my head.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הצילני ה׳ 
 מפגע רע 
 ומשטן רע.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Save me YHVH 
 from an evil affliction 
 and from an evil <em>satan</em>.[foot]lit. accuser.[/foot]

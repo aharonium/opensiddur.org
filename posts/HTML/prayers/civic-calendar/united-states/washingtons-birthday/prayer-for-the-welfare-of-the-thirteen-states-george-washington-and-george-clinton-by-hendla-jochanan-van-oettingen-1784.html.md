@@ -11,14 +11,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Hebrew (source)</th><th style="text-align: left;">English (translation)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָנוּ לְיָהּ 
 וּלְיָהּ עֵינֵנוּ
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 We (turn) towards Yah 
 and towards Yah we look. 
 </div>
@@ -26,7 +26,7 @@ and towards Yah we look.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ ה״ אֲשֶׁר טוֹב גִמָלָנוּ, 
 בְּרַחֲמָיו וּבְרוֹב חֲסָדָיו הִגְדִיל לָנוּ, 
 וּבְרוּחַ פִּיו בָּרָא שָׁמַיִם וָאָרֶץ 
@@ -50,7 +50,7 @@ and towards Yah we look.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Blessed be Hashem who has dealt kindly with us, 
 in His mercy and great kindness He has dealt magnanimously with us. 
 By the breath of His mouth He has created heaven and earth, 
@@ -75,7 +75,7 @@ and given us back the joy of our heart.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְעַתָּה בָּאנוּ מֶלֶךְ רָם עַל רָמִים, 
 לִשְׁפּוֹךְ נַפְשֵׁנוּ לְפָנֶיךָ, 
 שְׁמַע אֶל תְּפִלַת בִּנְךָ בְּכוֹרֶךָ, 
@@ -87,7 +87,7 @@ and given us back the joy of our heart.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And now, King, exalted beyond all height, 
 we have come to pour out our soul before you. 
 Hear the prayer of your first-born son, 
@@ -100,7 +100,7 @@ faithful sons of faithful believers in the thirteen principles of your Law.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כְּשֵׁם שֶׁחָלַקְתָּ מִכְבוֹדֶךָ לְדָוִד בֶּן יִשָי, 
 וְלִמְנוֹ שְׁלֹמֹה נָתַתָּ חָכְמָה מִכָּל אָדָם, 
 כֵּן תְּחַלֵק כָּבוֹד שֵׂכֶל בִּינָה וּמַדַע לִשְׁפּוֹט אֶת הַעָם 
@@ -129,7 +129,7 @@ faithful sons of faithful believers in the thirteen principles of your Law.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 As you gave of your <em>kavod</em> to David ben Yishai 
 and to Shlomo his son [whom] you gave wisdom greater than that of all men, 
 so may you grant intelligence, wisdom, and knowledge to our lords, 
@@ -159,7 +159,7 @@ O that this may be your will and let us say <em>Amen</em>.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כֵּשֵׁם שֶׁנָתַתָּ כֹּחַ לְשַׁמְשׁוֹן בֶּן מָנוֹחַ וְשָמַע כְּפִיר בִּגְבוּרָתוֹ, 
 כֵּן תְּגַבֵּר וּתְחַזֵק מָגֵן יְשוּעָה לַאֲדוֹנֵינוּ רֹאשׁ וְשַׂר הַצָבָא 
 דשארדש וואשנגטן 
@@ -190,7 +190,7 @@ O that this may be your will and let us say <em>Amen</em>.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 As you did give strength to Shimshon ben Manoaḥ that he rent a young lion in his might, 
 so may you strengthen and support the saving shield of our lord and commanding general 
 <strong>George Washington</strong>, 
@@ -222,7 +222,7 @@ O that this may be your will and let us say <em>Amen</em>.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כֵּשֵׁם שֶׁנָתַתָּ שְׁלֹשׁ עֶשְׂרֵה מְדִינוֹת אמעריקא הָאֵלוּ לְחֵירוּת עוֹלָם, 
 כֵּן תּוֹצִיאֵנוּ שֵׁנִית מֵעַבְדוּת לְחֵירוּת, 
 וְתִּתְקַע בְּשׁוֹפָר גָדוֹל לְחֵירוּתֵינוּ, כְּמָה שֶׁנֶאֱמַר 
@@ -246,7 +246,7 @@ O that this may be your will and let us say <em>Amen</em>.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 As you have granted to these thirteen states of America everlasting freedom, 
 so may you bring us forth once again from bondage into freedom, 
 and may you sound the great shofar for our freedom as it is said: 

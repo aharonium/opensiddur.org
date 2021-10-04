@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english">
+<div class="english" lang="en">
 <ol>
     <li>Think of the practice or attitude that you most wish to change. Be honest with yourself. And be realistic!</li>
     <li>Take a few minutes to approach it in a "<a href="http://en.wikipedia.org/wiki/Four_worlds">Four Worlds</a>" manner:
@@ -43,13 +43,13 @@ The name "<em>Tashlikh</em>" and the practice itself are derived from the book o
 <tbody>
 <tr>
 <td width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יָשׁ֣וּב יְרַֽחֲמֵ֔נוּ 
 יִכְבֹּ֖שׁ עֲוֹֽנֹתֵ֑ינוּ 
 וְתַשְׁלִ֛יךְ בִּמְצֻלֹ֥ות יָ֖ם כָּל־חַטֹּאותָֽם׃
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 He will again have compassion upon us;
 He will subdue our iniquities;
 And Thou wilt cast all their sins into the depths of the sea.[foot]Translation of Micah 7:19 from the JPS 1917.[/foot]

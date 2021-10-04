@@ -26,12 +26,12 @@ Rabbi Kravitz has done excellent work in Minnesota and as a national leader in t
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Our God of all that is good, 
 it is a privilege to be inside this Capitol Building, 
 richly designed to inspire those who govern 
@@ -43,23 +43,23 @@ to do what the Book of Deuteronomy describes:
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 We pray for all Americans, 
 especially those who lack sufficient food 
 to feed themselves and their families. 
@@ -69,13 +69,13 @@ to do that which is right and good.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 הַזָּן אֶת הַכֹּל
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May the One who Provides Sustenance for All--
 <em>Hazan et Hakol</em>--
 bless this United States Senate 
@@ -86,12 +86,12 @@ for those who are vulnerable and in need.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May all God's people in this land be able 
 to live with dignity 
 and share in the plenty 
@@ -100,12 +100,12 @@ with which this Nation is blessed.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָמֵן׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <em>Amen.</em>
 </div></td></tr>
 </tbody></table>

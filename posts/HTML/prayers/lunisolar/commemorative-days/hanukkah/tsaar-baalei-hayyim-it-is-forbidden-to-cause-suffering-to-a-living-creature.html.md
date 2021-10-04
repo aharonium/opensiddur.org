@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Yiddish)</th><th style="text-align: left;">Transliteration</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="31%">
-<div class="yiddish"><span lang="he">
+<div class="yiddish" lang="yi">
 צַעַר בַּעֲלֵי־חַיִּים, צַעַר בַּעֲלֵי־חַיִּים,
 מע טאָר נישט מאַכן אַ „בּוּבּוּ‟ פֿאַר אַ חַיָּה.
 אויבּ מע מאַכט אַ „בּוּבּוּ‟ פֿאַר אַ חַיָּה,
@@ -25,7 +25,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </td>
 
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 Tsaar balei ḥayyim, tsaar balei ḥayyim,
 me tor nisht makhn a booboo far a ḥaye,
 (Vayl) oyb me makht a booboo far a ḥaye,
@@ -38,7 +38,7 @@ Me tor nisht makhn a booboo far a ḥaye
 </div></td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 <em>Tsaar baalei ḥayyim</em>, <em>tsaar baalei ḥayyim</em>,
 One may not make a booboo for an animal
 (Because) if one makes a booboo for an animal,

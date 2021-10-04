@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 Because tonight we cannot join together with our extended family, friends and community in celebration. This night is different because, as we tell the story of our people from slavery to freedom from Egypt to the Promised Land, we must also tell about our own time, about our own plagues and immediate needs.
 
 The mystics taught us that Egypt was not only a historical place of enslavement, but as the Hebrew word for Egypt, Mitsrayim, suggests it is any state of narrowness, loneliness and fear a person experiences — a feeling many of us, and those we love, know too well during this COVID-19 pandemic. The Passover story is also about our individual and collective efforts to leave whatever narrow place we are in.
@@ -27,35 +27,35 @@ This is the meaning of the Passover Matsah this year. While we are a generation 
 <thead><tr><th id="x" style="text-align: right;"><a href="/contribute/upload">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">As we hold up the matsah this year [to be said individually or together]</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 This is the Bread of Our Affliction, <em>HaLakhma Anya</em>,
 This is our shared story of suffering and freedom.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 As we hold the matsah this year, whether with our families or completely alone,
 May we experience our connection to the story of the Jewish people;
 to our values and to our shared future.
@@ -63,12 +63,12 @@ to our values and to our shared future.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 As we partake in this bread of memory and hope, may we never forget our Exodus story
 and our promise to ourselves that even in our new, more limited freedom,
 we will not stand by when others are suffering.
@@ -79,12 +79,12 @@ let us also prepare ourselves to respond to the suffering and isolation all arou
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May all who are suffering, whether they are sick, afraid, hungry,
 suffering from domestic violence or any other plague,
 know that we see you, we hear you, and we will work together to respond to you.
@@ -92,57 +92,57 @@ know that we see you, we hear you, and we will work together to respond to you.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May all who are mourning find comfort and may we collectively find ways to console them.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May we continue to support medical personnel, as well as all service workers
 who are responding with all their capacities, generosity, care and self-sacrifice.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May all who are suffering now be healed quickly;
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May all who are in need, know that the Jewish people will respond with the best of ourselves.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May we find new ways to learn about each other and to learn together, even virtually.
 Let us assure each other that we, the Jewish People, share a common destiny
 and we will create it together.
@@ -150,12 +150,12 @@ and we will create it together.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May we look into the eyes of those around us and those who we see from afar,
 and assure each other that we are mutually responsible for one another,
 for the health and safety and spiritual well-being of ourselves, our communities,
@@ -164,12 +164,12 @@ and for all of humanity today, as we were then.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 This year, we are here. We are broken apart,
 but next year may we find new beginnings, a new commitment to each other,
 a new wholeness, and a new common destiny.

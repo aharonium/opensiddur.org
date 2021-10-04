@@ -11,18 +11,18 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">Standing</span> 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עָלֵֽינוּ לְשַׁבֵּֽחַ לַֽאֲדוֹן הַכֹּל 
 לָתֵת גְּדֻלָּה לְיוֹצֵר בְּרֵאשִׁית׃
 שֶׁלֹּא עָשָֽׂנוּ כְּגוֹיֵי הָֽאֲרָצוֹת 
@@ -36,7 +36,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 It is for us to praise the Lord of all, 
 To acclaim the might of the <em>yotser</em> of creation. 
 For THEY have not made us heathens,[foot]<em>goyei aratsot</em> -- lit. the nations of the Earth. By translating <em>goyei aratsot</em> instead as "heathens," Rabbi de Sola Pool is reinforcing a reading of this prayer as a statement of faith that does not contravene that of other Abrahamic declarations of faith, a complaint famously leveled against this prayer since the 14th century. I would also note that the de-emphasis of a national-political reading here also prevents it from re-inscribing a conception of Israel as being fated to be perpetually landless, and thus allows the people of Israel to "land" centered, as with other peoples and nations.[/foot] 
@@ -51,7 +51,7 @@ The blessed Holy One.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שֶׁהוּא נוֹטֶה שָׁמַֽיִם 
 וְיֹסֵד אָרֶץ. 
 וּמוֹשַׁב יְקָרוֹ בַּשָּׁמַֽיִם מִמַּֽעַל. 
@@ -68,7 +68,7 @@ The blessed Holy One.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 It is THEY [who] stretched forth the heavens 
 And laid the foundations of the earth. 
 THEIR glorious abode is in the heavens above, 
@@ -86,7 +86,7 @@ There is none else.”[foot]Deuteronomy 4:39.[/foot]
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="instruction">בקצת קהילות מוסיפין</span>
 &nbsp;
 (וְ)עַל־כֵּן נְקַוֶּה לְּךָ יְיָ אֱלֹהֵֽינוּ 
@@ -109,7 +109,7 @@ There is none else.”[foot]Deuteronomy 4:39.[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">In some congregations the following prayer is added:</span>
 &nbsp;
 On you we therefore wait, YHVH our <em>elo'ah</em>, 
@@ -133,7 +133,7 @@ as is written in your Torah,
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="instruction">[ברגיל:]</span>
 &nbsp;
 וְנֶאֱמַר:‏ 
@@ -143,7 +143,7 @@ as is written in your Torah,
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">[At regular times:]</span> 
 &nbsp;
 Again says the Torah, 
@@ -154,7 +154,7 @@ and THEIR name One.”[foot]Zechariah 14:9[/foot]
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="instruction">(על ראש השנה במלכויות:)</span>
 &nbsp;
 וְנֶֽאֱמַר:‏ 
@@ -168,7 +168,7 @@ and THEIR name One.”[foot]Zechariah 14:9[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">(During Rosh haShanah, during <em>Malkhuyot</em>:)</span> 
 &nbsp;
 Yea, it is written further in your Torah, 

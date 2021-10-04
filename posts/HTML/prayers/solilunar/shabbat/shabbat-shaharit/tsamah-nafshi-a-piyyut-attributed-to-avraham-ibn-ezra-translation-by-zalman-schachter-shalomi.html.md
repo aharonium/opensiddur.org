@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 צָמְאָה נַפְשִׁי 
 לֵאלֹהִים לְאֵל חָי
 לִבִּי וּבְשָׂרִי 
@@ -23,7 +23,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 All potent God! You made me
 "Alive I am," You told me
 Yet no one's eyes can see Me
@@ -36,7 +36,7 @@ to You the Source of Life!
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">בָּ</span>רָא כֹּל בְּחָכְמָה 
 בְּעֵצָה וּבִמְזִמָּה
 מְאֹד נֶעֱלָמָה 
@@ -44,7 +44,7 @@ to You the Source of Life!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Brought forth we were by intent
 in counsel and consent
 yet hidden is what this meant
@@ -53,7 +53,7 @@ from us who are alive
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">רָ</span>ם עַל כֹּל כְּבוֹדוֹ 
 כָּל פֶּה יְחַוֶּה הוֹדוֹ
 בָּרוּךְ אֲשֶׁר בְּיָדוֹ 
@@ -61,7 +61,7 @@ from us who are alive
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Resplendent in Your glory
 all tales are but Your story
 praise to You who is pouring
@@ -70,7 +70,7 @@ into our souls our life
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">הִ</span>בְדִּיל נִינֵי תָם 
 חֻקִּים לְהוֹרוֹתָם
 אֲשֶׁר יַעֲשֶׂה אוֹתָם 
@@ -78,7 +78,7 @@ into our souls our life
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 How generous on Your side
 To teach us laws which guide
 those who by them abide 
@@ -87,7 +87,7 @@ as sources of good life
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">מִ</span>י זֶה יִצְטַדַּק 
 נִמְשַׁל לְאָבָק דָּק
 אֶמֶת כִּי לֹא יִצְדַּק 
@@ -95,7 +95,7 @@ as sources of good life
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Might we be ever right
 and live all in the light
 what are we but a mite
@@ -104,7 +104,7 @@ and yet You give us life
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">בְּ</span>לֵב יֵצֶר חָשׁוּב 
 כִּדְמוּת חֲמַת עַכְשׁוּב
 וְאֵיכָכָה יָשׁוּב 
@@ -112,7 +112,7 @@ and yet You give us life
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Born as we are of passion
 at times we lack compassion
 if only we could fashion
@@ -121,7 +121,7 @@ a God-filled way of life
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">נְ</span>סוֹגִים אִם אָבוּ 
 מִדַרְכָּם שָׁבוּ
 טֶרֶם יִשְׁכָּבוּ 
@@ -129,7 +129,7 @@ a God-filled way of life
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Near God to be we yearn
 From wicked ways to turn
 before bodies to dust return
@@ -138,7 +138,7 @@ and souls to the Source of Life
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">עַ</span>ל כֹּל אֲהוֹדֶךָ 
 כָּל פֶּה תְּיַחֲדֶךָ
 פּוֹתֵחַ אֶת יָדֶךָ 
@@ -146,7 +146,7 @@ and souls to the Source of Life
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Every way will I adore You
 my fervent prayer implore You
 to open my path before You
@@ -155,7 +155,7 @@ to sate my soul with life.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">זְ</span>כוֹר אַהֲבַת קְדוּמִים 
 וְהַחֲיֵה נִרְדָּמִים
 וְקָרֵב הַיָּמִים 
@@ -163,7 +163,7 @@ to sate my soul with life.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Zeal filled our sires with fervor
 do rouse us from our torpor
 and help us meet our saviour
@@ -172,7 +172,7 @@ Of Yishai's stock -- in Life
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">רְ</span>אֵה לִגְבֶרֶת אֱמֶת 
 שִׁפְחָה נוֹאֶמֶת
 לֹא כִי בְנֵךְ הַמֵּת 
@@ -180,7 +180,7 @@ Of Yishai's stock -- in Life
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Remember! we kept Your trust
 May Your response be just
 and being fair You must
@@ -189,7 +189,7 @@ decree us toward life
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">אֶ</span>קּוֹד עַל אַפִּי 
 וְאֶפְרוֹשׂ לְךָ כַּפִּי
 עֵת אֶפְתַּח פִּי 
@@ -197,7 +197,7 @@ decree us toward life
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Awed am I, amazed at You
 my arms I raise in pray'r to You
 my mouth will sings its praise to You

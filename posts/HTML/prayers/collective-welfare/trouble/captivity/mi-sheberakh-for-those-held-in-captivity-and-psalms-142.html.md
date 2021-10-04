@@ -17,24 +17,24 @@ Recitation of this psalm and mi sheberakh seem appropriate to me in the case of 
 <thead><tr><th id="x" style="text-align: right;">Hebrew (source)</th><th style="text-align: left;">English (translation)</th><th style="text-align: right;">Arabic (translation)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 תהלים קמב
 </span></div></td>
   
 <td style="vertical-align:top;" width="36%%">
-<div class="english">
+<div class="english" lang="en">
 Psalm 142
 </div></td>
 
 <td style="vertical-align:top;" width="36%%">
-<div class="arabic"><span lang="ar">
+<div class="arabic" lang="ar">
 
 المزمور الثاني و الأربعون بعد المائة:
 </span></div></td>
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;" width="26%"><div class="liturgy" lang="he">
 מַשְׂכִּיל לְדָוִד, 
 בִּהְיוֹתוֹ בַמְּעָרָה תְפִלָּה׃ 
 קוֹלִי אֶל יְהוָה אֶזְעָק, 
@@ -55,7 +55,7 @@ Psalm 142
 </span></div></td>
  
 <td style="vertical-align:top;" width="36%%">
-<div class="english">
+<div class="english" lang="en">
 A prayer by David at a time of enlightenment, 
 written when he was hiding in the cave.
 My voice calls out to YHVH, 
@@ -76,7 +76,7 @@ when you act with benevolence towards me.
 </div></td>
 
 <td style="vertical-align:top;" width="36%%">
-<div class="arabic"><span lang="ar">
+<div class="arabic" lang="ar">
 
 قصة لداوود عليه السلام عندما كان مختبئاً في المغارة. صلاة:
 من خلال صلاتي إلى الرب، 
@@ -97,7 +97,7 @@ when you act with benevolence towards me.
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;" width="26%"><div class="liturgy" lang="he">
 מִי שֶׁבֵּרַךְ אֲבוֹתֵינוּ 
 אַבְרָהָם יִצְחָק וְיַעֲקֹב 
 יוֹסֵף מֹשֶׁה וְאַהֲרֹן 
@@ -106,7 +106,7 @@ when you act with benevolence towards me.
 </span></div></td>
  
 <td style="vertical-align:top;" width="36%%">
-<div class="english">
+<div class="english" lang="en">
 The One who blessed our forefathers, 
 Avraham, Yitsḥak, and Yaakov, 
 Yosef, Moshe, and Aharon, 
@@ -115,29 +115,29 @@ may they bless and safeguard and preserve the captives:
 </div></td>
 
 <td style="vertical-align:top;" width="36%%">
-<div class="arabic"><span lang="ar">
+<div class="arabic" lang="ar">
 
 </span></div></td>
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;" width="26%"><div class="liturgy" lang="he">
 שמות של השבויים
 </span></div></td>
  
 <td style="vertical-align:top;" width="36%%">
-<div class="english">
+<div class="english" lang="en">
 <em>name of captive(s)</em>
 </div></td>
 
 <td style="vertical-align:top;" width="36%%">
-<div class="arabic"><span lang="ar">
+<div class="arabic" lang="ar">
 
 </span></div></td>
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;" width="26%"><div class="liturgy" lang="he">
 בְּתוֺךְ שְׁאָר אֲחֵינוּ בֵּית יִשְׂרָאֵל הַנְּתוּנִים בְּצָרָה וּבְשִׁבְיָה. 
 בַּעֲבוּר שֶׁהַקָּהָל מִתְפַּלֵּל בַּעֲבוּרָם, 
 הַקָּדוֹשׁ בָּרוּךְ הוּא יִמָּלֵא רַחֲמִים עֲלֵיהֶם, 
@@ -148,7 +148,7 @@ may they bless and safeguard and preserve the captives:
 </span></div></td>
  
 <td style="vertical-align:top;" width="36%%">
-<div class="english">
+<div class="english" lang="en">
 among their brethren in the House of Yisrael in trouble and captivity. 
 In the merit of the prayers of this holy assemblage who pray for them, 
 may the blessed Holy One shower compassion over them, 
@@ -159,32 +159,32 @@ and return them speedily to their families.
 </div></td>
 
 <td style="vertical-align:top;" width="36%%">
-<div class="arabic"><span lang="ar">
+<div class="arabic" lang="ar">
 
 </span></div></td>
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;" width="26%"><div class="liturgy" lang="he">
 ”יוֹדוּ לַה׳ חַסְדּוֹ 
 </span>וְנִפְלְאוֹתָיו לִבְנֵי אָדָם“ <span class="citation">(תהלים קז:לא)‏</span>
 </span></div></td>
  
 <td style="vertical-align:top;" width="36%%">
-<div class="english">
+<div class="english" lang="en">
 Let them give thanks to YHVH for his lovingkindness, 
 and for his miracles to the children of Adam.[foot]Psalms 107:31[/foot]
 </div></td>
 
 <td style="vertical-align:top;" width="36%%">
-<div class="arabic"><span lang="ar">
+<div class="arabic" lang="ar">
 
 </span></div></td>
 </tr>
 
 
 
-<tr><td style="vertical-align:top;" width="26%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;" width="26%"><div class="liturgy" lang="he">
 וִיקֻיַּם בָּהֶם מִקְרָא שֶׁכָּתוּב: 
 ”וּפְדוּיֵי ה׳ יְשׁוּבוּן 
 וּבָאוּ צִיּוֹן בְּרִנָּה 
@@ -195,7 +195,7 @@ and for his miracles to the children of Adam.[foot]Psalms 107:31[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;" width="36%%">
-<div class="english">
+<div class="english" lang="en">
 And establish for them that what is written, 
 "And the ransomed of YHVH shall return, 
 and come with singing unto Tsiyon, 
@@ -206,7 +206,7 @@ and let us say, <em>Amen</em>.
 </td>
  
  <td style="vertical-align:top;" width="36%%">
-<div class="arabic"><span lang="ar">
+<div class="arabic" lang="ar">
 
 </span></div></td>
  </tr>

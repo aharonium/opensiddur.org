@@ -12,13 +12,13 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr>
 <td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <em>Mi sheBerakh 
 Avoteinu Avraham Yiztchak veYa'akov, 
 ve'Imoteinu Sarah Rivkah, Rachel, veLeah</em> – 
@@ -37,12 +37,12 @@ and turn Torah over and over again.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Please, God, 
 sweeten the words of Torah in our mouths 
 and in the mouths of all people. 
@@ -53,12 +53,12 @@ touch the Sacred and be preserved and strengthened.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 We thank You, Adonai, 
 for the privilege of experiencing the overflowing well of Torah, 
 and for the sweetness of those who give it life. 
@@ -66,12 +66,12 @@ and for the sweetness of those who give it life.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May this Soferet, 
 our friend and teacher, 
 be blessed to do her work in this world 
@@ -84,24 +84,24 @@ her community who needs her gift so very deeply.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May we all learn and love Torah, 
 even more than we already did. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָמֵן׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Amen.
 </div></td>
 </tr>

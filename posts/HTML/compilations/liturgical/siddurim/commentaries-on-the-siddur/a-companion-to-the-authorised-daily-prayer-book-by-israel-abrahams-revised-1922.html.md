@@ -13,7 +13,7 @@ A literary and historical commentary on the Jewish liturgy by one of the most es
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.archive.org/stream/acompaniontotheauthoriseddailyprayerbookrevisededitionisraelabrahams1922#page/n0/mode/2up"]
 
-<blockquote><div class="english" style="font-size: 1.2em;">
+<blockquote><div class="english" lang="en" style="font-size: 1.2em;">
 <h3>Preface</h3>
 
 An Annotated Edition of his work was planned by the translator of the Authorised Daily Prayer Book, but the fulfilment of this desire devolved upon me. I was fully acquainted with Mr Singer's intentions, and I have endeavoured to work in the spirit which animated him, so that this edition should be as true a memorial to his name as the original book has proved.

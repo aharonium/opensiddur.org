@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְהִי רָצוֹן מִלְפָנֶיךָ 
 הֳ״ אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֹתֵינוּ 
 אֱלֹהֵי אַבְרָהָם יִצְחָק וְיָעֲקֹב 
@@ -25,7 +25,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 &nbsp;
 YHVH our <em>elo'ah</em>, the <em>elo'ah</em> of our Fathers, 
 Elo'ah of Avraham, Yitsḥaq and Ya'aqov, 
@@ -40,7 +40,7 @@ that there may no more blood be shed in these Countries.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָנָא הֳ״ אֱלֹהֵינוּ 
 שָׁתִפְתַח לָנוּ שַׁעֲרֵי רַחֲמִים בְּיוֹם צוֹם הַתָּעֲנִית הַזֶה 
 וְתָּבֹא לְפָנֶיךָ תְּפִלָּתֵנוּ וּתְפִלָּת כָּל הָעָם 
@@ -60,7 +60,7 @@ that there may no more blood be shed in these Countries.
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 YHVH our <em>elo'ah</em>, we beseech you 
 to open unto us the gates of mercy on this our solemn Fast 
 and that our prayers and the prayers of all the people 

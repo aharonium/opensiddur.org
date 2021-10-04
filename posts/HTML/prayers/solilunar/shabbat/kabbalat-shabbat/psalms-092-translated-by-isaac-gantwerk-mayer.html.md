@@ -11,18 +11,18 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִזְמ֥וֹר שִׁ֗יר לְי֣וֹם הַשַּׁבָּֽת׃ 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 A psalm, a song for the Day of Shabbat.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ט֗וֹב לְהֹד֥וֹת לַיהֹוָ֑ה
 וּלְזַמֵּ֖ר לְשִׁמְךָ֣ עֶלְיֽוֹן׃ 
 לְהַגִּ֣יד בַּבֹּ֣קֶר חַסְדֶּ֑ךָ
@@ -30,7 +30,7 @@ A psalm, a song for the Day of Shabbat.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 It is good to thank the <span style="text-transform: uppercase;">Cause</span>,
 and to hymn to Your Name, Highest!
 To tell of Your mercy in the morning,
@@ -39,20 +39,20 @@ and Your trust in the nights!
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עֲֽלֵי־עָ֭שׂוֹר וַעֲלֵי־נָ֑בֶל
 עֲלֵ֖י הִגָּי֣וֹן בְּכִנּֽוֹר׃ 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Upon the ten-string and upon the jar-lute
 and upon the pipe and the lyre!
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כִּ֤י שִׂמַּחְתַּ֣נִי יְהֹוָ֣ה בְּפׇעֳלֶ֑ך
 בְּֽמַעֲשֵׂ֖י יָדֶ֣יךָ אֲרַנֵּֽן׃ 
 מַה־גָּדְל֣וּ מַעֲשֶׂ֣יךָ יְהֹוָ֑ה
@@ -60,7 +60,7 @@ and upon the pipe and the lyre!
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 For You gladden me, <span style="text-transform: uppercase;">Cause</span>, with Your deeds,
 and the work of Your hands I praise.
 How great are Your works, <span style="text-transform: uppercase;">Cause</span>, 
@@ -69,7 +69,7 @@ how greatly profound Your designs!
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אִֽישׁ־בַּ֭עַר לֹ֣א יֵדָ֑ע
 וּ֝כְסִ֗יל לֹא־יָבִ֥ין אֶת־זֹֽאת׃ 
 בִּפְרֹ֤חַ רְשָׁעִ֨ים  ׀ כְּמ֥וֹ עֵ֗שֶׂב
@@ -78,7 +78,7 @@ how greatly profound Your designs!
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 A brute of a man does not know,
 a fool does not understand this:
 The wicked flourish like grass
@@ -88,7 +88,7 @@ to be destroyed forevermore.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְאַתָּ֥ה מָר֗וֹם לְעֹלָ֥ם יְהֹוָֽה׃ 
 כִּ֤י הִנֵּ֪ה אֹיְבֶ֡יךָ  ׀  יְֽהֹוָ֗ה
 כִּֽי־הִנֵּ֣ה אֹיְבֶ֣יךָ יֹאבֵ֑דוּ
@@ -96,7 +96,7 @@ to be destroyed forevermore.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 But You are on High forever, <span style="text-transform: uppercase;">Cause</span>!
 For behold Your enemies, <span style="text-transform: uppercase;">Cause</span>;
 behold Your enemies, lost;
@@ -105,7 +105,7 @@ scattered about all doers of evil.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וַתָּ֣רֶם כִּרְאֵ֣ים קַרְנִ֑י
 בַּ֝לֹּתִ֗י בְּשֶׁ֣מֶן רַעֲנָֽן׃ 
 וַתַּבֵּ֥ט עֵינִ֗י בְּשׁ֫וּרָ֥י
@@ -114,7 +114,7 @@ scattered about all doers of evil.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 But You raise my horn like the aurochs,
 You douse me in healthy oil.
 My eyes behold those watching me,
@@ -124,7 +124,7 @@ my ears hear!
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 צַ֭דִּיק כַּתָּמָ֣ר יִפְרָ֑ח
 כְּאֶ֖רֶז בַּלְּבָנ֣וֹן יִשְׂגֶּֽה׃ 
 שְׁ֭תוּלִים בְּבֵ֣ית יְהֹוָ֑ה
@@ -136,7 +136,7 @@ my ears hear!
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 The righteous flourish like a palm,
 thrive like a Lebanon cedar.
 Planted in the house of the <span style="text-transform: uppercase;">Cause</span>,

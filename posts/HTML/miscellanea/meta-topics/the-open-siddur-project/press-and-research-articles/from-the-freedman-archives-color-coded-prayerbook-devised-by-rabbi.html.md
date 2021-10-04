@@ -9,7 +9,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 [caption id="attachment_1350" align="alignright" width="260" caption="Crop of Color Key from the Bookmark included with the Polychrome Historic Haggadah (image not included in original article)"]<a href="https://opensiddur.org/wp-content/uploads/2010/08/Polychrome-Historical-Prayerbook-Color-Coding-Schema-crop.jpg"><img class="size-medium wp-image-1350" title="Polychrome Historical Prayerbook Color Coding Schema" src="https://opensiddur.org/wp-content/uploads/2010/08/Polychrome-Historical-Prayerbook-Color-Coding-Schema-crop-260x300.jpg" alt="" width="260" height="300" /></a>[/caption]
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 <h3>Color-Coded Prayerbook Devised by Rabbi</h3>
 <em>Springfield Republican</em>, May 21st, 1972 by Martin Lauer 
 

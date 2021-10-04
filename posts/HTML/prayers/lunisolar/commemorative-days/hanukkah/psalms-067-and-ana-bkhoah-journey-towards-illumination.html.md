@@ -9,7 +9,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 [caption id="attachment_4966" align="aligncenter" width="558"]<a href="https://opensiddur.org/wp-content/uploads/2012/05/558px-Map_of_Jericho_in_14c_Farhi_Bible_by_Elisha_ben_Avraham_Crescas.jpg"><img src="https://opensiddur.org/wp-content/uploads/2012/05/558px-Map_of_Jericho_in_14c_Farhi_Bible_by_Elisha_ben_Avraham_Crescas.jpg" alt="Yeriḥo as a seven walled Cretan labyrinth. (Farḥi Bible by Elisha ben Avraham Crescas, 14th cen.) The seven walls of Yericho are alluded to in the seven verses of Psalm 67. " width="558" height="599" class="size-full wp-image-4966" /></a> Yeriḥo as a seven walled <a href="http://en.wikipedia.org/wiki/Labyrinth">Cretan labyrinth</a>. (Farḥi Bible by Elisha ben Avraham Crescas, 14th cen.) The seven walls of Yericho are alluded to in the seven verses of Psalms 67. [/caption]
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 Beginning with part of the priestly blessing,[foot]Cf. Number 6:23-27[/foot] the Levite song, Psalms 67, is a prayer for all the peoples of the earth to be sustained by the earth's harvest (<em>yevulah</em>). It is also a petition that all humanity  recognize the divine nature (Elohim) illuminating the world. Composed of seven verses, the psalm is often visually depicted as a <a href="https://opensiddur.org/2011/06/shiviti-perceiving-the-world-as-an-expression-of-divine-oneness/">seven branched menorah</a>. There are 49 words in the entire psalm, and in the <em>Nusaḥ ha-ARI z"l</em> there is one word for each day of the <em>Sefirat haOmer</em>. Similarly, the fifth verse has 49 letters and each letter can be used as a focal point for meditating on the meaning of the day in its week in the journey to Shavuot, the festival of weeks (the culmination of the barley harvest), and the festival of oaths (<em>shevuot</em>) in celebration of receiving the Torah. Many of the themes of Psalm 67 are repeated in the prayer <em>Ana b'Khoaḥ</em>, contains seven lines and 42 words, with each initial letter forming a 42-letter name of G‽d. Counting each word together with the seven acronyms formed from the first letter of each line yields 49 words. Each of these are also used to focus on the meaning of each day on the cyclical and labyrinthine journey towards Shavuot. I am finding these prayers helpful to guide my steps and intention in traveling through the <em>Sefirat haOmer</em> as a <a href="http://en.wikipedia.org/wiki/Labyrinth">Labyrinth</a>.
 </div>
 
@@ -18,94 +18,94 @@ Beginning with part of the priestly blessing,[foot]Cf. Number 6:23-27[/foot] the
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>א</sup> לַמְנַצֵּ֥ח בִּנְגִינֹ֗ת מִזְמ֥וֹר שִֽׁיר׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <sup>1</sup> For the Leader; with string-music. A Psalm, a Song.
     </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
 <sup>ב</sup> אֱלֹהִ֗ים יְחָנֵּ֥נוּ וִֽיבָרְכֵ֑נוּ
  יָ֤אֵ֥ר פָּנָ֖יו אִתָּ֣נוּ סֶֽלָה׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <sup>2</sup> Elohim be gracious unto us, and bless us;
 May Elohim cause their face to shine toward us;[foot]cf. the Priestly Blessing: Numbers 6:23–27[/foot] Selah
     </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
 <sup>ג</sup> לָדַ֣עַת בָּאָ֣רֶץ דַּרְכֶּ֑ךָ
  בְּכָל־גּ֝וֹיִ֗ם יְשׁוּעָתֶֽךָ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <sup>3</sup> That your way may be known upon earth,
 Your salvation among all peoples.
     </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
 <sup>ד</sup> יוֹד֖וּךָ עַמִּ֥ים׀ אֱלֹהִ֑ים
  י֝וֹד֗וּךָ עַמִּ֥ים כֻּלָּֽם׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <sup>4</sup> Let the peoples give thanks unto you, Elohim;
 Let the peoples give thanks unto you, all of them.
     </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
 <sup>ה</sup> יִֽשְׂמְח֥וּ וִֽירַנְּנ֗וּ לְאֻ֫מִּ֥ים 
 כִּֽי־תִשְׁפֹּ֣ט עַמִּ֣ים מִישׁ֑וֹר
  וּלְאֻמִּ֓ים׀ בָּאָ֖רֶץ תַּנְחֵ֣ם סֶֽלָה׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <sup>5</sup> O let the nations be glad and sing for joy;
 For you will judge the peoples with equity,
 And guide the people upon earth. <em>Selah</em>
     </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
 <sup>ו</sup> יוֹד֖וּךָ עַמִּ֥ים׀ אֱלֹהִ֑ים
  י֝וֹד֗וּךָ עַמִּ֥ים כֻּלָּֽם׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <sup>6</sup> Let the peoples give thanks unto you, Elohim;
 Let the peoples give thanks unto you, all of them.
     </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
 <sup>ז</sup> אֶ֭רֶץ נָתְנָ֣ה יְבוּלָ֑הּ
  יְ֝בָרְכֵ֗נוּ אֱלֹהִ֥ים אֱלֹהֵֽינוּ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <sup>7</sup> The earth has granted her harvest;
 May Elohim, our Elohim, bless us.
     </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
 <sup>ח</sup> יְבָרְכֵ֥נוּ אֱלֹהִ֑ים
  וְיִֽירְא֥וּ אֹ֝ת֗וֹ כָּל־אַפְסֵי־אָֽרֶץ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <sup>8</sup> May Elohim bless us;
 And let all the ends of the earth be in awe of them.
 </td></tr></tbody></table>
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 Rabbi Seidenberg teaches,
 
 <blockquote>
@@ -123,18 +123,18 @@ While <em>Ana b'Khoaḥ</em> is sung aloud in many communities, it's also tradit
 <thead><tr><th id="x" style="text-align: right;">Acrostic</th><th style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 אב״ג ית״ץ
 </span></div></td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָנָּא בְּכֹחַ 
 גְּדֻלַּת יְמִינְךָ 
 תַּתִּיר צְרוּרָה
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 Please, with the power 
 of Your great right hand
 free the bound.
@@ -142,18 +142,18 @@ free the bound.
 
 
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 קר״ע שט״ן
 </span></div></td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 קַבֵּל רִנַּת 
 עַמְּךָ שַׂגְּבֵנוּ 
 טַהֲרֵנוּ נוֹרָא
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 Accept the song 
 of Your people, empower us,
 make us pure, Awesome One!
@@ -161,18 +161,18 @@ make us pure, Awesome One!
 
 
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 נג״ד יכ״ש
 </span></div></td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 נָא גִבּוֹר, 
 דּוֹרְשֵׁי יִחוּדְךָ, 
 כְּבָבַת שָׁמְרֵם
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 Please, Mighty One, 
 the seekers of Your unity,
 watch them like the pupil of an eye.
@@ -180,18 +180,18 @@ watch them like the pupil of an eye.
 
 
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 בט״ר צת״ג
 </span></div></td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרְכֵם טַהֲרֵם, 
 רַחֲמֵי צִדְקָתְךָ, 
 תָּמִיד גָּמְלֵם
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 Bless them, make them pure,
 have mercy on them; Your justness
 bestow upon them always.
@@ -199,18 +199,18 @@ bestow upon them always.
 
 
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 חק״ב טנ״ע
 </span></div></td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 חָסִין קָדוֹשׁ, 
 בְּרֹב טוּבְךָ, 
 נַהֵל עֲדָתֶךָ
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 Tremendous Holy One, 
 in Your abundant goodness 
 guide Your community.
@@ -218,18 +218,18 @@ guide Your community.
 
 
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 יג״ל פז״ק
 </span></div></td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יָחִיד גֵּאֶה, 
 לְעַמְּךָ פְּנֵה, 
 זוֹכְרֵי קְדֻשָּׁתֶךָ
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 Unique One, Exalted One, 
 face Your people
 who remember Your holiness.
@@ -237,18 +237,18 @@ who remember Your holiness.
 
 
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 שק״ו צי״ת
 </span></div></td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שַׁוְעָתֵנוּ קַבֵּל, 
 וּשְׁמַע צַעֲקָתֵנוּ, 
 יוֹדֵעַ תַּעֲלוּמוֹת
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 Accept our prayer, 
 hear our cry,
 Knower of secrets.
@@ -258,19 +258,19 @@ Knower of secrets.
 <tr><td style="vertical-align:top;" width="16%"></td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
  בָּרוּךְ שֵׁם 
 כְּבוֹד מַלְכוּתוֹ 
 לְעוֹלָם וָעֶד:‏
  </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 Blessed is the Name
 of the resplendent Kingdom 
 in the Cosmos forever.
 </td></tr></tbody></table>
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 With perseverance and help, any obstacle can be overcome. In the story of the Israelite conquest of Yeriḥo in Sefer Yehoshua, it is the heroine <a href="http://en.wikipedia.org/wiki/Rahab">Raḥab</a> who helps Yehoshua’s scouts. Living her life trapped as a sex worker inside Yeriḥo's labyrinthine walls, she hides Yehoshua’s scouts on her rooftop. The Rebbe Maharash of ḤaBaD would say, “When you cannot go under go over!” If you are lost in a labyrinth, scale its walls.
 
 Rav Avidmi in Talmud Bavli Shabbat 88a provides a midrash to Exodus 19:17 (referred to by Rashi) that to receive the Torah, bnei Yisrael went beneath Har Sinai, submitting to the labyrinth of a new redemptive halakhah. As I travel towards receiving gnosis in the theophany of revelation, I recommit myself to the covenants between G!D and bnei Noaḥ (justice for all humanity without acting as a predator) and between G!D and bnei Yisrael (opposing and redeeming predatory nature in all of my actions). I traverse the walls of my internal seven walled labyrinth, channeling the voice of <a href="http://en.wikipedia.org/wiki/Salmon_%28biblical_figure%29">Shalma ben Naḥson</a> (ben Amindav):

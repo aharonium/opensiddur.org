@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th><th style="text-align: right;">Amendation (Hebrew)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֵל רָם חֲסִין יָהּ 
 שׁוֹכֵן עֲלִיָּה
 מַהֵרָה גוֹאֵל 
@@ -19,7 +19,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 G!d on high, mighty Yah, 
 Who dwells above[foot]Cf. Psalms 89:9[/foot]
 Quickly redeem 
@@ -27,13 +27,13 @@ Your people, the tribes of Yah[foot]Cf. Psalms 122:4[/foot]
 </div></td>
 
 <td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֵל נִשָּׂא וָרָם 
 גַּלֵּה קֵץ נֶעְלָם
 לִבְנֵי אַבְרָהָם 
@@ -41,7 +41,7 @@ Your people, the tribes of Yah[foot]Cf. Psalms 122:4[/foot]
 </span></div></td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 Exalted G!d on high,[foot]Cf. Isaiah 6:1[/foot]
 Reveal the hidden end
 To the children of Avraham, 
@@ -49,18 +49,18 @@ The people chosen by Yah[foot]Cf. Psalms 135:4[/foot]
 </div></td>
 
 <td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 To the seekers of unity, 
 Give loyalty
 As there was for Ruth 
@@ -70,7 +70,7 @@ The Moabite[foot]Ruth 1:18, Ruth 2:2[/foot]
 </td>
 
 <td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לְדוֹרְשֵׁי אַחְדוּת 
 תֵּן נֶאֱמָנוּת
 כְּהָיְתָה לְרוּת 
@@ -79,7 +79,7 @@ The Moabite[foot]Ruth 1:18, Ruth 2:2[/foot]
 
 
 <tr><td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">שׁ</span>וֹכֵן בַּשַּׁחַק 
 מֵהֶם אַל תִּרְחַק
 לְזֶרַע יִצְחָק 
@@ -87,7 +87,7 @@ The Moabite[foot]Ruth 1:18, Ruth 2:2[/foot]
 </span></div></td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 The One who dwells in cloud, 
 Do not distance from them
 The seed of Yitsḥak,[foot]Cf. Mekhilta de Rebbe Shimon bar Yokhai, ch. 15: "אבל אנו עמך ונחלתך וצאן מרעיתך בני אברהם אוהבך זרע יצחק יחידך משפחת יעקב בכורך"[/foot]
@@ -95,18 +95,18 @@ Brought out into abundance[foot]Cf. Psalms 66:12[/foot]
 </div></td>
 
 <td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 Listen to her voice, 
 The mother, the mistress[foot]Genesis 16:9[/foot]
 And she laughed, Sarah[foot]Genesis 18:12[/foot]
@@ -114,7 +114,7 @@ Who was remembered by Yah[foot]Genesis 21:1[/foot]
 </div></td>
 
 <td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שְׁמַע בְּקֹלָהּ 
 הָאֵם הַגְּבִירָה
 וַתִּצְחַק שָׂרָה 
@@ -123,7 +123,7 @@ Who was remembered by Yah[foot]Genesis 21:1[/foot]
 
 
 <tr><td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">לְ</span>עִיר תִּפְאַרְתָּךְ 
 קְַבֵּץ עֲדָתָךְ
 לִבְנֵי יַעֲקֹב 
@@ -131,7 +131,7 @@ Who was remembered by Yah[foot]Genesis 21:1[/foot]
 </span></div></td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 To the city of your glory 
 Gather your nation
 To the children of Ya'akov 
@@ -139,18 +139,18 @@ Send Eliyah[foot]Cf. Malakhi 3:23[/foot]
 </div></td>
 
 <td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 Answer your people 
 When we cry out to You
 Rivka did so, 
@@ -158,7 +158,7 @@ She went out to seek Yah[foot]Genesis 25:22[/foot]
 </div></td>
 
 <td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 תַּשִׁיב לְעַמָּךְ 
 בְּקָרְאֵנוּ לָךְ
 כֵּן עָשְׂתָה רִבְקָה 
@@ -168,7 +168,7 @@ She went out to seek Yah[foot]Genesis 25:22[/foot]
 
 
 <tr><td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">מִ</span>קְדַּשׁ הֲדוֹמָךְ 
 יְָשִׁיר בּוֹ עַמָּךְ
 בְּשִׁירַת מֹשֶׁה 
@@ -176,7 +176,7 @@ She went out to seek Yah[foot]Genesis 25:22[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 In your holy Resting-place 
 Your people will sing[foot]Cf. Isaiah 66:1, 1 Chronicles 28:2[/foot]
 The song of Moshe 
@@ -184,18 +184,18 @@ The prophet chosen by Yah[foot]Cf. Shir HaShirim Rabba 1:11[/foot]
 </div></td>
 
 <td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 She watched the river,[foot]Exodus 2:4[/foot]
 She saw the sea split
 We will sing with her 
@@ -203,7 +203,7 @@ Miryam the prophet of Yah[foot]Exodus 15:20[/foot]
 </div></td>
 
 <td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מֵי נָהָר שָׁמְרָה 
 קְרִיאָת סוּף רָאָתָה
 עִמָּהּ נָשִׁירָה 
@@ -213,7 +213,7 @@ Miryam the prophet of Yah[foot]Exodus 15:20[/foot]
 
 
 <tr><td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">הָ</span>רֵם עַם אֶבְיוֹן 
 וּבְנֵה אַפִּרְיוֹן
 לְגֶזַע אַהֲרֹן 
@@ -221,7 +221,7 @@ Miryam the prophet of Yah[foot]Exodus 15:20[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 Raise up an impoverished people, 
 And build a canopy[foot]Cf. Song of Songs 3:9, Shir HaShirim Rabba 3:1[/foot]
 For the family of Aharon, 
@@ -229,19 +229,19 @@ Who will sacrifice to Yah
 </div></td>
 
 <td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
 </tr>
 
 
 <tr><td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 For our enemies, remember 
 You will deliver them to a woman[foot]Judges 4:9[/foot]
 Devorah, burning 
@@ -249,7 +249,7 @@ Like a fiery torch of Yah[foot]Judges 4:4[/foot]
 </div></td>
 
 <td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לְאוֹיבֵנוּ זְכֹר 
 בְּיַד אִשָּׁה תִּמְכֹּר
 דְּבוֹרָה בּוֹעֶרֶת 
@@ -259,7 +259,7 @@ Like a fiery torch of Yah[foot]Judges 4:4[/foot]
 
 
 <tr><td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">חַזֵּק</span> וְאַסֵּף 
 לְבֵית יוֹסֵף
 יִרְבּוּ וְיִפְרוּ 
@@ -267,7 +267,7 @@ Like a fiery torch of Yah[foot]Judges 4:4[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 Strengthen and increase 
 The house of Yosef[foot]Cf. Zechariah 10:6[/foot]
 Let them multiply 
@@ -275,19 +275,19 @@ Like a fruitful vine[foot]Cf. Psalms 128:3[/foot]
 </div></td>
 
 <td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
 </tr>
 
 
 <tr><td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 Give strength in Your glory 
 So that we can say in justice
 That she was right, Tamar,[foot]Genesis 38:26[/foot]
@@ -295,7 +295,7 @@ The mother of the anointed of Yah [foot]Genesis 38:29-30; Ruth 4:18-22[/foot]
 </div></td>
 
 <td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עֻזָּה בֶּהָדָר 
 בְּצֶדֶק נֹאמַר
 כִּי צָדְקָה תָּמָר 
@@ -305,7 +305,7 @@ The mother of the anointed of Yah [foot]Genesis 38:29-30; Ruth 4:18-22[/foot]
 
 
 <tr><td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">אַמֵּץ</span> בֶּן דָּוִד 
 וְיִשְׁפֹּט תָּמִיד
 כָּל צַר תַּשְׁמִיד 
@@ -313,7 +313,7 @@ The mother of the anointed of Yah [foot]Genesis 38:29-30; Ruth 4:18-22[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 Give courage to the son of David 
 That he might eternally judge
 Destroy all trouble 
@@ -321,19 +321,19 @@ Banish it from the city of Yah
 </div></td>
 
 <td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
 </tr>
 
 
 <tr><td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 Grant peace to Your walls 
 Redeem Your city
 According to the tears of Raḥel [foot]Jeremiah 31:15[/foot] 
@@ -341,7 +341,7 @@ And the Shekhina of Yah
 </div></td>
 
 <td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 תֵּן שָׁלוֹם בְּחֵיל 
 לְעִירָךְ גּוֹאֵל
 עַל דִּמְעָת רָחֵל 

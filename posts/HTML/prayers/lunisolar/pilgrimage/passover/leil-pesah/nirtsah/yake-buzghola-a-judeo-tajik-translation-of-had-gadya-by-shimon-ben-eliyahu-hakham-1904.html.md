@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 Ḥad Gadya has a place in Seder tables throughout the Jewish world, and in many communities it was read in translation. This translation is in Bukhori, also known as Judeo-Tajik, as translated by the great Shimon ben Eliyahu Hakham (1843-1910), the chief rabbi of the Bukharan Jewish community in Jerusalem. His full translation of all liturgical additions in the month of Nisan for the Bukharan community can be found in חוקת הפסח Ḥuqat haPesaḥ (1904) – the source for this transcription on page 125 (see below, "Source").
 
 Shimon Hakham transcribed it into vocalized Hebrew script, which is included here alongside transliterations into Tajik Cyrillic and a Roman transcription. Interestingly, the refrain, rather than "one little goat," translates as "dear little goat," using the Bukhori diminutive "jon". This text could be read alongside the traditional text of Ḥad Gadya during a Passover seder. Since Bukhori and Tajik in general are very close to Persian, it could also with only minor alterations for vocalization be read in Persian.
@@ -46,313 +46,313 @@ For a full breakdown of the Tajik Cyrillic system, check the <a href="https://en
 <hr />
 
 <table style="width:100%;margin-left: auto;margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;">Aramaic (source)</th><th style="text-align: left;">Translation (Tajik Cyrillic)</th><th style="text-align: right;">Hebraization (Judeo-Bukhori)</th><th style="text-align: left;">Romanization (Judeo-Bukhori)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;">Aramaic (source)</th><th style="text-align: left;">Translation (Bukhari/Cyrillic)</th><th style="text-align: right;">Translation (Bukhari/Judeo-Tajik)</th><th style="text-align: left;">Translation (Bukhari/Latin)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="25%">
-<div class="aramaic" style="text-align: right;"><span lang="arc">	 
+<tr><td style="vertical-align:top;">
+<div class="aramaic" lang="jpa" style="text-align: right;">	 
 חַד גַּדְיָא, דְּזַבִּן אַבָּא בִּתְרֵי זוּזֵי, חַד גַּדְיָא, חַד גַּדְיָא.
 </span></div>
 </td>
 
-<td style="vertical-align:top;" width="36%">
-<div class="cyrillic"><span lang="tg">
+<td style="vertical-align:top;">
+<div class="cyrillic" lang="bhh">
 Йаке бузғола, йаке бузғола, ончи бихарид падар бе ду танга. Ҷон бузғола, ҷон бузғола.
 </span></div>
 </td>
 
-<td style="vertical-align:top;" width="36%">
-<div class="liturgy"><span lang="bhh">
+<td style="vertical-align:top;">
+<div class="judeo-tajik" lang="bhh">
 יַכֵּי בּוּזְגָאלַה, יַכֵּי בּוּזְגָאלַה, אָנְגִ׳י בִּיכַרִיד פַּדַר בְּדוּ תַנְגַּה. גָׄאן בּוּזְגָאלַה גָׄאן בּוּזְגָאלַה.
 </span></div>
 </td>
 
-<td style="vertical-align:top;" width="36%">
-<div class="judeo-bukhori"><span lang="bhh">	
+<td style="vertical-align:top;">
+<div class="bukhari" lang="bhh">
 Yake buzghola, yake buzghola, onchi bikharid padar be du tanga. Jon buzghola, jon buzghola.
 </div>
 </td>
  
-<td style="vertical-align:top;" width="36%">
-<div class="english">	
+<td style="vertical-align:top;">
+<div class="english" lang="en">	
 One little goat that my father bought for two zuzim, for two zuzim.
 </div>
 </td></tr>
 
 
-<tr><td style="vertical-align:top;" width="25%">
-<div class="aramaic" style="text-align: right;"><span lang="arc">	 
+<tr><td style="vertical-align:top;">
+<div class="aramaic" lang="jpa" style="text-align: right;">	 
 וְאָתָא שֻׁנְרָא וְאָכְלָה לְגַדְיָא, דְּזַבִּן אַבָּא בִּתְרֵי זוּזֵי, חַד גַּדְיָא, חַד גַּדְיָא.
 </span></div>
 </td>
 
-<td style="vertical-align:top;" width="36%">
-<div class="cyrillic"><span lang="tg">
+<td style="vertical-align:top;">
+<div class="cyrillic" lang="bhh">
 Ве биёмад пишак (гӯрбо) ве бихӯрд бе бузғола, ончи бихарид падар бе ду танга. Ҷон бузғола, ҷон бузғола.
 </span></div>
 </td>
 
-<td style="vertical-align:top;" width="36%">
-<div class="liturgy"><span lang="bhh">
+<td style="vertical-align:top;">
+<div class="judeo-tajik" lang="bhh">
 וְבִּיאָמַד פִּישַׁךּ (גוֹרְבָּה) וְבִּכוֹרְד בְּבּוּזְגָאלַה, אָנְגִ׳י בִּיכַרִיד פַּדַר בְּדוּ תַנְגַּה. גָׄאן בּוּזְגָאלַה גָׄאן בּוּזְגָאלַה.
 </span></div>
 </td>
 
-<td style="vertical-align:top;" width="36%">
-<div class="judeo-bukhori"><span lang="bhh">	
+<td style="vertical-align:top;">
+<div class="bukhari" lang="bhh">
 Ve biyomad pishak (görbo) ve bikhörd be buzghola, onchi bikharid padar be du tanga. Jon buzghola, jon buzghola.
 </div>
 </td>
  
-<td style="vertical-align:top;" width="36%">
-<div class="english">	
+<td style="vertical-align:top;">
+<div class="english" lang="en">	
 A cat came and ate the goat that my father bought for two zuzim, for two zuzim.
 </div>
 </td></tr>
 
 
-<tr><td style="vertical-align:top;" width="25%">
-<div class="aramaic" style="text-align: right;"><span lang="arc">	 
+<tr><td style="vertical-align:top;">
+<div class="aramaic" lang="jpa" style="text-align: right;">	 
 וְאָתָא כַּלְבָּא וְנָשַׁךְ לְשֻׁנְרָא, דְּאָכְלָה לְגַדְיָא, דְּזַבִּן אַבָּא בִּתְרֵי זוּזֵי, חַד גַּדְיָא, חַד גַּדְיָא.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="36%">
-<div class="cyrillic"><span lang="tg">
+<td style="vertical-align:top;">
+<div class="cyrillic" lang="bhh">
 Ве биёмад саг ве бигозид бе пишок, ончи бихӯрд бе бузғола, ончи бихарид падар бе ду танга. Ҷон бузғола, ҷон бузғола.
 </span></div>
 </td>
 
-<td style="vertical-align:top;" width="36%">
-<div class="liturgy"><span lang="bhh">
+<td style="vertical-align:top;">
+<div class="judeo-tajik" lang="bhh">
 וְבִּיאָמַד סַגּ וְבִּיגַּזִיד בְּפִּישַׁךּ, אָנְגִ׳י בִּכוֹרְד בְּבּוּזְגָאלַה, אָנְגִ׳י בִּיכַרִיד פַּדַר בְּדוּ תַנְגַּה. גָׄאן בּוּזְגָאלַה גָׄאן בּוּזְגָאלַה.
 </span></div>
 </td>
 
-<td style="vertical-align:top;" width="36%">
-<div class="judeo-bukhori"><span lang="bhh">	
+<td style="vertical-align:top;">
+<div class="bukhari" lang="bhh">
 Ve biyomad sag ve bigozid be pishok, onchi bikhörd be buzghola, onchi bikharid padar be du tanga. Jon buzghola, jon buzghola.
 </div>
 </td>
 
-<td style="vertical-align:top;" width="36%">
-<div class="english">	
+<td style="vertical-align:top;">
+<div class="english" lang="en">	
 A dog came and bit the cat that ate the goat that my father bought for two zuzim, for two zuzim.
 </div>
 </td></tr>
 
 
-<tr><td style="vertical-align:top;" width="25%">
-<div class="aramaic" style="text-align: right;"><span lang="arc">	 
+<tr><td style="vertical-align:top;">
+<div class="aramaic" lang="jpa" style="text-align: right;">	 
 וְאָתָא חֻטְרָא וְהִכָּה לְכַלְבָּא, דְּנָשַׁךְ לְשֻׁנְרָא, דְּאָכְלָה לְגַדְיָא, דְּזַבִּן אַבָּא בִּתְרֵי זוּזֵי, חַד גַּדְיָא, חַד גַּדְיָא.
 </span></div>
 </td>
 
-<td style="vertical-align:top;" width="36%">
-<div class="cyrillic"><span lang="tg">
+<td style="vertical-align:top;">
+<div class="cyrillic" lang="bhh">
 Ве биёмад асо ве бизад бе он саг, ончи бигозид бе пишок, ончи бихӯрд бе бузғола, ончи бихарид падар бе ду танга. Ҷон бузғола, ҷон бузғола.
 </span></div>
 </td>
 
-<td style="vertical-align:top;" width="36%">
-<div class="liturgy"><span lang="bhh">
+<td style="vertical-align:top;">
+<div class="judeo-tajik" lang="bhh">
 וְבִּיאָמַד עַצָא וְבִּיזַד בְּאָן סַגּ, אָנְגִ׳י בִּיגַּזִיד בְּפִּישַׁךּ, אָנְגִ׳י בִּכוֹרְד בְּבּוּזְגָאלַה, אָנְגִ׳י בִּיכַרִיד פַּדַר בְּדוּ תַנְגַּה. גָׄאן בּוּזְגָאלַה גָׄאן בּוּזְגָאלַה.
 </span></div>
 </td>
 
-<td style="vertical-align:top;" width="36%">
-<div class="judeo-bukhori"><span lang="bhh">	
+<td style="vertical-align:top;">
+<div class="bukhari" lang="bhh">
 Ve biyomad aso ve bizad be on sag, onchi bigozid be pishok, onchi bikhörd be buzghola, onchi bikharid padar be du tanga. Jon buzghola, jon buzghola.
 </div>
 </td>
 
-<td style="vertical-align:top;" width="36%">
-<div class="english">	
+<td style="vertical-align:top;">
+<div class="english" lang="en">	
 A stick came and hit the dog that bit the cat that ate the goat that my father bought for two zuzim, for two zuzim.
 </div>
 </td></tr>
 
 
-<tr><td style="vertical-align:top;" width="25%">
-<div class="aramaic" style="text-align: right;"><span lang="arc">	 
+<tr><td style="vertical-align:top;">
+<div class="aramaic" lang="jpa" style="text-align: right;">	 
 וְאָתָא נוּרָא וְשָׂרַף לְחֻטְרָא, דְּהִכָּה לְכַלְבָּא, דְּנָשַׁךְ לְשֻׁנְרָא, דְּאָכְלָה לְגַדְיָא, דְּזַבִּן אַבָּא בִּתְרֵי זוּזֵי, חַד גַּדְיָא, חַד גַּדְיָא.
 </span></div>
 </td>
 
-<td style="vertical-align:top;" width="36%">
-<div class="cyrillic"><span lang="tg">
+<td style="vertical-align:top;">
+<div class="cyrillic" lang="bhh">
 Ве биёмад оташ ве бисӯзонд бе асо, ончи бизад бе он саг, ончи бигозид бе пишок, ончи бихӯрд бе бузғола, ончи бихарид падар бе ду танга. Ҷон бузғола, ҷон бузғола.
 </span></div>
 </td>
 
-<td style="vertical-align:top;" width="36%">
-<div class="liturgy"><span lang="bhh">
+<td style="vertical-align:top;">
+<div class="judeo-tajik" lang="bhh">
 וְבִּיאָמַד אָתַשׁ וְבִּיסוֹזָאנְד בְּעַצָא, אָנְגִ׳י בִּיזַר בְּאָן סַגּ, אָנְגִ׳י בִּיגַּזִיד בְּפִּישַׁךּ, אָנְגִ׳י בִּכוֹרְד בְּבּוּזְגָאלַה, אָנְגִ׳י בִּיכַרִיד פַּדַר בְּדוּ תַנְגַּה. גָׄאן בּוּזְגָאלַה גָׄאן בּוּזְגָאלַה.
 </span></div>
 </td>
 
-<td style="vertical-align:top;" width="36%">
-<div class="judeo-bukhori"><span lang="bhh">	
+<td style="vertical-align:top;">
+<div class="bukhari" lang="bhh">
 Ve biyomad otash ve bisözond be aso, onchi bizad be on sag, onchi bigozid be pishok, onchi bikhörd be buzghola, onchi bikharid padar be du tanga. Jon buzghola, jon buzghola.
 </div>
 </td>
 
-<td style="vertical-align:top;" width="36%">
-<div class="english">	
+<td style="vertical-align:top;">
+<div class="english" lang="en">	
 A fire came and burned the stick that hit the dog that bit the cat that ate the goat that my father bought for two zuzim, for two zuzim.
 </div>
 </td></tr>
 
 
-<tr><td style="vertical-align:top;" width="25%">
-<div class="aramaic" style="text-align: right;"><span lang="arc">	 
+<tr><td style="vertical-align:top;">
+<div class="aramaic" lang="jpa" style="text-align: right;">	 
 וְאָתָא מַיָּא וְכָבָה לְנוּרָא, דְּשָׂרַף לְחֻטְרָא, דְּהִכָּה לְכַלְבָּא, דְּנָשַׁךְ לְשֻׁנְרָא, דְּאָכְלָה לְגַדְיָא, דְּזַבִּן אַבָּא בִּתְרֵי זוּזֵי, חַד גַּדְיָא, חַד גַּדְיָא.
 </span></div>
 </td>
 
-<td style="vertical-align:top;" width="36%">
-<div class="cyrillic"><span lang="tg">
+<td style="vertical-align:top;">
+<div class="cyrillic" lang="bhh">
 Ве биёмад об ве хомӯш хард бе оташ, ончи бисӯзонд бе асо, ончи бизад бе он саг, ончи бигозид бе пишок, ончи бихӯрд бе бузғола, ончи бихарид падар бе ду танга. Ҷон бузғола, ҷон бузғола.
 </span></div>
 </td>
 
-<td style="vertical-align:top;" width="36%">
-<div class="liturgy"><span lang="bhh">
+<td style="vertical-align:top;">
+<div class="judeo-tajik" lang="bhh">
 וְבִּיאָמַד אָבּ וְכָאמוֹשׁ כַרְד בְּאָתַשׁ, אָנְגִ׳י בִּיסוֹזָנד בְּעַצָא, אָנְגִ׳י בִּיזַר בְּאָן סַגּ, אָנְגִ׳י בִּיגַּזִיד בְּפִּישַׁךּ, אָנְגִ׳י בִּכוֹרְד בְּבּוּזְגָאלַה, אָנְגִ׳י בִּיכַרִיד פַדַר בְּדוּ תַנְגַּה. גָׄאן בּוּזְגָאלַה גָׄאן בּוּזְגָאלַה.
 </span></div>
 </td>
 
-<td style="vertical-align:top;" width="36%">
-<div class="judeo-bukhori"><span lang="bhh">	
+<td style="vertical-align:top;">
+<div class="bukhari" lang="bhh">
 Ve biyomad ob ve khomösh khard be otash, onchi bisözond be aso, onchi bizad be on sag, onchi bigozid be pishok, onchi bikhörd be buzghola, onchi bikharid padar be du tanga. Jon buzghola, jon buzghola.
 </div>
 </td>
 
-<td style="vertical-align:top;" width="36%">
-<div class="english">	
+<td style="vertical-align:top;">
+<div class="english" lang="en">	
 Water came and put out the fire that burned the stick that hit the dog that bit the cat that ate the goat that my father bought for two zuzim, for two zuzim.
 </div>
 </td></tr>
 
 
-<tr><td style="vertical-align:top;" width="25%">
-<div class="aramaic" style="text-align: right;"><span lang="arc">	 
+<tr><td style="vertical-align:top;">
+<div class="aramaic" lang="jpa" style="text-align: right;">	 
 וְאָתָא תּוֹרָא וְשָׁתָא לְמַיָּא, דְּכָבָה לְנוּרָא, דְּשָׂרַף לְחֻטְרָא, דְּהִכָּה לְכַלְבָּא, דְּנָשַׁךְ לְשֻׁנְרָא, דְּאָכְלָה לְגַדְיָא, דְּזַבִּן אַבָּא בִּתְרֵי זוּזֵי, חַד גַּדְיָא, חַד גַּדְיָא.
 </span></div>
 </td>
 
-<td style="vertical-align:top;" width="36%">
-<div class="cyrillic"><span lang="tg">
+<td style="vertical-align:top;">
+<div class="cyrillic" lang="bhh">
 Ве биёмад гов ве бинӯшид бе об, ончи хомӯш хард бе оташ, ончи бисӯзонд бе асо, ончи бизад бе он саг, ончи бигозид бе пишок, ончи бихӯрд бе бузғола, ончи бихарид падар бе ду танга. Ҷон бузғола, ҷон бузғола.
 </span></div>
 </td>
 
-<td style="vertical-align:top;" width="36%">
-<div class="liturgy"><span lang="bhh">
+<td style="vertical-align:top;">
+<div class="judeo-tajik" lang="bhh">
 וְבִּיאָמַד גָּאו וְבִּינוֹשִׁיד בְּאָבּ, אָנְגִ׳י כָאמוֹשׁ כַרְד בְּאָתַשׁ, אָנְגִ׳י בִּיסוֹזָנד בְּעַצָא, אָנְגִ׳י בִּיזַר בְּאָן סַגּ, אָנְגִ׳י בִּיגַּזִיד בְּפִּישַׁךּ, אָנְגִ׳י בִּכוֹרְד בְּבּוּזְגָאלַה, אָנְגִ׳י בִּיכַרִיד פַּדַר בְּדוּ תַנְגַּה. גָׄאן בּוּזְגָאלַה גָׄאן בּוּזְגָאלַה.
 </span></div>
 </td>
 
-<td style="vertical-align:top;" width="36%">
-<div class="judeo-bukhori"><span lang="bhh">	
+<td style="vertical-align:top;">
+<div class="bukhari" lang="bhh">
 Ve biyomad gov ve binöshid be ob, onchi khomösh khard be otash, onchi bisözond be aso, onchi bizad be on sag, onchi bigozid be pishok, onchi bikhörd be buzghola, onchi bikharid padar be du tanga. Jon buzghola, jon buzghola.
 </div>
 </td>
 
-<td style="vertical-align:top;" width="36%">
-<div class="english">	
+<td style="vertical-align:top;">
+<div class="english" lang="en">	
 An ox came and drank the water that put out the fire that burned the stick that hit the dog that bit the cat that ate the goat that my father bought for two zuzim, for two zuzim.
 </div>
 </td></tr>
 
 
-<tr><td style="vertical-align:top;" width="25%">
-<div class="aramaic" style="text-align: right;"><span lang="arc">	 
+<tr><td style="vertical-align:top;">
+<div class="aramaic" lang="jpa" style="text-align: right;">	 
 וְאָתָא הַשּׁוֹחֵט וְשָׁחַט לְתוֹרָא, דְּשָׁתָא לְמַיָּא, דְּכָבָה לְנוּרָא, דְּשָׂרַף לְחֻטְרָא, דְּהִכָּה לְכַלְבָּא, דְּנָשַׁךְ לְשֻׁנְרָא, דְּאָכְלָה לְגַדְיָא, דְּזַבִּן אַבָּא בִּתְרֵי זוּזֵי, חַד גַּדְיָא, חַד גַּדְיָא.
 </span></div>
 </td>
 
-<td style="vertical-align:top;" width="36%">
-<div class="cyrillic"><span lang="tg">
+<td style="vertical-align:top;">
+<div class="cyrillic" lang="bhh">
 Ве биёмад шӯҳет ве зобеҳ хорд бе он гов, ончи бинӯшид бе об, ончи хомӯш хард бе оташ, ончи бисӯзонд бе асо, ончи бизад бе он саг, ончи бигозид бе пишок, ончи бихӯрд бе бузғола, ончи бихарид падар бе ду танга. Ҷон бузғола, ҷон бузғола.
 </span></div>
 </td>
 
-<td style="vertical-align:top;" width="36%">
-<div class="liturgy"><span lang="bhh">
+<td style="vertical-align:top;">
+<div class="judeo-tajik" lang="bhh">
 וְבִּיאָמַד שוֹחֵט וְזַבְּח כַרְד בְּאָן גָּאו, אָנְגִ׳י בִּינוֹשִׁיד בְּאָבּ, אָנְגִ׳י כָאמוֹשׁ כַרְד בְּאָתַשׁ, אָנְגִ׳י בִּיסוֹזָנד בְּעַצָא, אָנְגִ׳י בִּיזַר בְּאָן סַגּ, אָנְגִ׳י בִּיגַּזִיד בְּפִּישַׁךּ, אָנְגִ׳י בִּכוֹרְד בְּבּוּזְגָאלַה, אָנְגִ׳י בִּיכַרִיד פַּדַר בְּדוּ תַנְגַּה. גָׄאן בּוּזְגָאלַה גָׄאן בּוּזְגָאלַה.
 </span></div>
 </td>
 
-<td style="vertical-align:top;" width="36%">
-<div class="judeo-bukhori"><span lang="bhh">	
+<td style="vertical-align:top;">
+<div class="bukhari" lang="bhh">
 Ve biyomad shöhet ve zobeh khord be on gov, onchi binöshid be ob, onchi khomösh khard be otash, onchi bisözond be aso, onchi bizad be on sag, onchi bigozid be pishok, onchi bikhörd be buzghola, onchi bikharid padar be du tanga. Jon buzghola, jon buzghola.
 </div>
 </td>
 
-<td style="vertical-align:top;" width="36%">
-<div class="english">	
+<td style="vertical-align:top;">
+<div class="english" lang="en">	
 A butcher came and slaughtered the ox that drank the water that put out the fire that burned the stick that hit the dog that bit the cat that ate the goat that my father bought for two zuzim, for two zuzim.
 </div>
 </td></tr>
 
 
-<tr><td style="vertical-align:top;" width="25%">
-<div class="aramaic" style="text-align: right;"><span lang="arc">	 
+<tr><td style="vertical-align:top;">
+<div class="aramaic" lang="jpa" style="text-align: right;">	 
 וְאָתָא מַלְאַךְ־הַמָּ֫וֶת וְשָׁחַט לְשׁוֹחֵט, דְּשָׁחַט לְתוֹרָא, דְּשָׁתָא לְמַיָּא, דְּכָבָה לְנוּרָא, דְּשָׂרַף לְחֻטְרָא, דְּהִכָּה לְכַלְבָּא, דְּנָשַׁךְ לְשֻׁנְרָא, דְּאָכְלָה לְגַדְיָא, דְּזַבִּן אַבָּא בִּתְרֵי זוּזֵי, חַד גַּדְיָא, חַד גַּדְיָא.
 </span></div>
 </td>
 
-<td style="vertical-align:top;" width="36%">
-<div class="cyrillic"><span lang="tg">
+<td style="vertical-align:top;">
+<div class="cyrillic" lang="bhh">
 Ве биёмад малах ҳа-мовет ве бихушт бе шоҳет, ончи зобеҳ хорд бе он гов, ончи бинӯшид бе об, ончи хомӯш хард бе оташ, ончи бисӯзонд бе асо, ончи бизад бе он саг, ончи бигозид бе пишок, ончи бихӯрд бе бузғола, ончи бихарид падар бе ду танга. Ҷон бузғола, ҷон бузғола.
 </span></div>
 </td>
 
-<td style="vertical-align:top;" width="36%">
-<div class="liturgy"><span lang="bhh">
+<td style="vertical-align:top;">
+<div class="judeo-tajik" lang="bhh">
 וְבִּיאָמַד מַלְאַךְ הַמָוֶת וְבִּיכוּשְׁת בְּשׁוֹחֵט, אָנְגִ׳י זַבְּח כַרְד בְּאָן גָּאו, אָנְגִ׳י בִּינוֹשִׁיד בְּאָבּ, אָנְגִ׳י כָאמוֹשׁ כַרְד בְּאָתַשׁ, אָנְגִ׳י בִּיסוֹזָנד בְּעַצָא, אָנְגִ׳י בִּיזַר בְּאָן סַגּ, אָנְגִ׳י בִּיגַּזִיד בְּפִּישַׁךּ, אָנְגִ׳י בִּכוֹרְד בְּבּוּזְגָאלַה, אָנְגִ׳י בִּיכַרִיד פַּדַר בְּדוּ תַנְגַּה. גָׄאן בּוּזְגָאלַה גָׄאן בּוּזְגָאלַה.
 </span></div>
 </td>
 
-<td style="vertical-align:top;" width="36%">
-<div class="judeo-bukhori"><span lang="bhh">	
+<td style="vertical-align:top;">
+<div class="bukhari" lang="bhh">
 Ve biyomad malakh ha-movet ve bikhusht be shöhet, onchi zobeh khord be on gov, onchi binöshid be ob, onchi khomösh khard be otash, onchi bisözond be aso, onchi bizad be on sag, onchi bigozid be pishok, onchi bikhörd be buzghola, onchi bikharid padar be du tanga. Jon buzghola, jon buzghola.
 </div>
 </td>
 
-<td style="vertical-align:top;" width="36%">
-<div class="english">	
+<td style="vertical-align:top;">
+<div class="english" lang="en">	
 The Angel of Death came and slaughtered the shoḥet who slaughtered the ox that drank the water that put out the fire that burned the stick that hit the dog that bit the cat that ate the goat that my father bought for two zuzim, for two zuzim.
 </div>
 </td></tr>
 
 
-<tr><td style="vertical-align:top;" width="25%">
-<div class="aramaic" style="text-align: right;"><span lang="arc">	 
+<tr><td style="vertical-align:top;">
+<div class="aramaic" lang="jpa" style="text-align: right;">	 
 וְאָתָא הַקָּדוֹשׁ־בָּרוּךְ־הוּא וְשָׁחַט לְמַלְאַךְ־הַמָּ֫וֶת וְשָׁחַט לְשׁוֹחֵט, דְּשָׁחַט לְתוֹרָא, דְּשָׁתָא לְמַיָּא, דְּכָבָה לְנוּרָא, דְּשָׂרַף לְחֻטְרָא, דְּהִכָּה לְכַלְבָּא, דְּנָשַׁךְ לְשֻׁנְרָא, דְּאָכְלָה לְגַדְיָא, דְּזַבִּן אַבָּא בִּתְרֵי זוּזֵי, חַד גַּדְיָא, חַד גַּדְיָא.
 </span></div>
 </td>
 
-<td style="vertical-align:top;" width="36%">
-<div class="cyrillic"><span lang="tg">
+<td style="vertical-align:top;">
+<div class="cyrillic" lang="bhh">
 ҳа-Қодӯш Борух Ҳу ве бихушт ве малах ҳа-мовет ончи бихушт бе шоҳет, ончи зобеҳ хорд бе он гов, ончи бинӯшид бе об, ончи хомӯш хард бе оташ, ончи бисӯзонд бе асо, ончи бизад бе он саг, ончи бигозид бе пишок, ончи бихӯрд бе бузғола, ончи бихарид падар бе ду танга. Ҷон бузғола, ҷон бузғола.
 </span></div>
 </td>
 
-<td style="vertical-align:top;" width="36%">
-<div class="liturgy"><span lang="bhh">
+<td style="vertical-align:top;">
+<div class="judeo-tajik" lang="bhh">
 וְבִּיאָמַד הַקָּדוֹשׁ בָּרוּךְ הוּא וְבִּיכוּשְׁת בְּמַלְאַךְ הַמָוֶת אָנְגִ׳י בִּיכוּשְׁת בְּשׁוֹחֵט, אָנְגִ׳י זַבְּח כַרְד בְּאָן גָּאו, אָנְגִ׳י בִּינוֹשִׁיד בְּאָבּ, אָנְגִ׳י כָאמוֹשׁ כַרְד בְּאָתַשׁ, אָנְגִ׳י בִּיסוֹזָנד בְּעַצָא, אָנְגִ׳י בִּיזַר בְּאָן סַגּ, אָנְגִ׳י בִּיגַּזִיד בְּפִּישַׁךּ, אָנְגִ׳י בִּכוֹרְד בְּבּוּזְגָאלַה, אָנְגִ׳י בִּיכַרִיד פַּדַר בְּדוּ תַנְגַּה. גָׄאן בּוּזְגָאלַה גָׄאן בּוּזְגָאלַה.
 </span></div>
 </td>
 
-<td style="vertical-align:top;" width="36%">
-<div class="judeo-bukhori"><span lang="bhh">	
+<td style="vertical-align:top;">
+<div class="bukhari" lang="bhh">
 Ve biyomad ha-Qodösh Borukh Hu ve bikhusht be malakh ha-movet, onchi bikhusht be shöhet, onchi zobeh khord be on gov, onchi binöshid be ob, onchi khomösh khard be otash, onchi bisözond be aso, onchi bizad be on sag, onchi bigozid be pishok, onchi bikhörd be buzghola, onchi bikharid padar be du tanga. Jon buzghola, jon buzghola.
 </div>
 </td>
 
-<td style="vertical-align:top;" width="36%">
-<div class="english">	
+<td style="vertical-align:top;">
+<div class="english" lang="en">	
 Then the blessed Holy One came and slaughtered the Angel of Death who slaughtered the shoḥet who slaughtered the ox that drank the water that put out the fire that burned the stick that hit the dog that bit the cat that ate the goat that my father bought for two zuzim, for two zuzim.
 </div>
 </td></tr>

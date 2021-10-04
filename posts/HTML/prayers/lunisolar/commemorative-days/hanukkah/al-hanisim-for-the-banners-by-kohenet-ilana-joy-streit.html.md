@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 An interpretive version of Al HaNisim for Ḥanukkah that is playful, powerful, and embodied. May it fuel our activism, including the self-care and community-building that is part of activism.
 
 The Hebrew word for miracle, <em>ness</em>, also means banner: a miracle is a banner that announces something.
@@ -24,8 +24,8 @@ You can contribute via Venmo to @Ilana-Streit or <a href="mailto:ilanaing@gmail.
 <table style="margin-left: auto;margin-right: auto;">
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="english">
-<span class="hebrew">עַל הַנִּסִּים</span>  <em>al hanisim</em>
+<div class="english" lang="en">
+<span class="hebrew" lang="he">עַל הַנִּסִּים</span>  <em>al hanisim</em>
 	
 Upon the banners that we raised high
 in pride and hope and We Are Here
@@ -36,7 +36,7 @@ And for all of the moments that raise us up
 
 
 
-<span class="hebrew">וְעַל הַנִּפְלָאוֹת</span>  <em>v’al hanifla’ot</em>
+<span class="hebrew" lang="he">וְעַל הַנִּפְלָאוֹת</span>  <em>v’al hanifla’ot</em>
 
 And for the wonders
 &nbsp;&nbsp;and our ability to be in wonderment
@@ -47,7 +47,7 @@ and for Alice
 
 
 
-<span class="hebrew">וְעַל הַמִּלְחָמוֹת</span>  <em>v’al hamilḥamot</em>
+<span class="hebrew" lang="he">וְעַל הַמִּלְחָמוֹת</span>  <em>v’al hamilḥamot</em>
 		
 and for the times that we took up the fight
 and for the times that we fought for ourselves
@@ -58,7 +58,7 @@ and for the times that we won
 
 
 
-<span class="hebrew">וְעַל הַפֻּרְקָן</span>  <em>v’al hapurkan</em>
+<span class="hebrew" lang="he">וְעַל הַפֻּרְקָן</span>  <em>v’al hapurkan</em>
 				
 and for all of the moments
 that we stop and catch our breath
@@ -71,7 +71,7 @@ and cry on each other's shoulders
 
 
 
-<span class="hebrew">וְעַל הַגְּבוּרוֹת</span>  <em>v’al hag’vurot</em>
+<span class="hebrew" lang="he">וְעַל הַגְּבוּרוֹת</span>  <em>v’al hag’vurot</em>
 
 for all of the moments that we knew
 &nbsp;&nbsp;&nbsp;&nbsp;or were willing to believe
@@ -81,7 +81,7 @@ for all of the moments that we knew
 
 
 
-<span class="hebrew">וְעַל הַתְּשׁוּעוֹת</span>  <em>v’al hat’shuot</em>
+<span class="hebrew" lang="he">וְעַל הַתְּשׁוּעוֹת</span>  <em>v’al hat’shuot</em>
 				
 for all of the times that we reclaimed sacred spaces
 &nbsp;&nbsp;created sacred spaces
@@ -164,7 +164,7 @@ and for all of the banners
 
 
 
-<span class="hebrew">בַּיָּמִים הָהֵם וּבַזְּמַן הַזֶּה</span>  <em>bayamim hahem uvaz’man hazeh<em>
+<span class="hebrew" lang="he">בַּיָּמִים הָהֵם וּבַזְּמַן הַזֶּה</span>  <em>bayamim hahem uvaz’man hazeh<em>
 </div></td></tr>
 </tbody></table>
 

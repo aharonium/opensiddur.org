@@ -11,12 +11,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Blessed One-ness!
 On this beautiful summer day
 Under this large and welcoming tree,
@@ -35,12 +35,12 @@ They are the food of our food.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Most of the time we can't even see them
 And for that I am deeply and profoundly grateful.
 Frightened by a giant spider movie in my childhood,
@@ -49,12 +49,12 @@ When I was little I wanted nothing more than to see all bugs dead.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 But I was wrong.
 I have come to see
 That we are not the only creatures who are <em>B'tselem Elohim</em>,
@@ -75,12 +75,12 @@ And the bugs who live only for themselves, without any reference to us.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 First, in the world of <em>Assiyah</em>,
 <span class="instruction">(Touch the earth)</span>
 Let us touch this earth.
@@ -101,12 +101,12 @@ And pray with the bugs of the earth who exist only for themselves.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Second, in the world of <em>Briah</em>,
 <span class="instruction">(reach into the air)</span>
 Let us reach into the air
@@ -122,12 +122,12 @@ And pray with the bugs of the air who fly all around without any reference to us
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Third, in the world of <em>Yetsirah</em>,
 <span class="instruction">(Touch the heart and the gut)</span>
 The world of Feeling, heart, the emotions.
@@ -144,12 +144,12 @@ And the bugs in and on our bodies that, thank God, most of us don’t even know 
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And last, in the world <em>Atsilut</em>, of Being/Soul SPIRIT,
 I invite you to turn you face to the sun and close your eyes.
 This is the world of the spirit, of spirituality, of God, however you approach God and even if you don't.
@@ -164,12 +164,12 @@ And pray for ourselves, amidst all the buzzing distractions of technology and en
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Blessed One-ness
 Bless all these bugs and all the creatures:
 The ones we have domesticated,

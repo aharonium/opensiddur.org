@@ -11,20 +11,20 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מוֹנֶה מִסְפָּר לַכּוֹכָבִים
 לְכֻלָּם שֵׁמוֹת יִקְרָא׃ <span class="citation">(תהלים קמז:ד)</span>
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 [YHVH] counts the numbers of the stars; 
 To each of them, [Hashem] gives a name.[foot]Psalms 147:4[/foot]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שְׂאוּ־מָרוֹם עֵינֵיכֶם 
 וּרְאוּ מִי־בָרָא אֵלֶּה,‏
 הַמּוֹצִיא בְמִסְפָּר צְבָאָם;‏
@@ -35,7 +35,7 @@ To each of them, [Hashem] gives a name.[foot]Psalms 147:4[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Lift your eyes on high 
 and behold who has created these things [the stars],
 that bring out their host by number. 
@@ -47,7 +47,7 @@ not one is missing.[foot]Isaiah 40:26[/foot]
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ”זְכֹר יְמוֹת עוֹלָם 
 בִּינוּ שְׁנוֹת דּוֹר־וָדוֹר“ <span class="citation">(דברים ל״ב:ז חלק)</span>.‏
 לְעוֹלָם יִבְדֹּק אָדָם 
@@ -59,7 +59,7 @@ not one is missing.[foot]Isaiah 40:26[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 "Remember the days of old, 
 Consider the years of many generations."[foot]Deuteronomy 32:7 partial[/foot]
 It is always important for a person
@@ -72,25 +72,25 @@ or invokes evil.[foot]Midrash Tanchuma, Ha'Azinu 7[/foot]
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 The Birkat haKohanim (Priestly Blessing) for a woman
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְבָרְכֵךְ יהוה וְיִשְׁמְרֵךְ.
 יָאֵר יהוה פָּנָיו אֵלַיִךְ וְיִחָנֵּךְ.
 יִשָּׂא יהוה פָּנָיו אֵלַיִךְ וְיָשֵׂם לָךְ שָׁלוֹם׃ <span class="citation">(כמו במדבר ו:כד-כו)</span>
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May YHVH (Hashem) bless you and protect you!
 May YHVH (Hashem) shine their face upon you and be gracious towards you!
 May YHVH (Hashem) lift their face up to you, and bring you peace![foot]Numbers 6:24-26[/foot]
@@ -98,25 +98,25 @@ May YHVH (Hashem) lift their face up to you, and bring you peace![foot]Numbers 6
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 The Birkat haKohanim (Priestly Blessing) for a man
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְבָרֶכְךָ יהוה וְיִשְׁמְרֶךָ. 
 יָאֵר יהוה פָּנָיו אֵלֶיךָ וִיחֻנֶּךָּ. 
 יִשָּׂא יהוה פָּנָיו אֵלֶיךָ וְיָשֵׂם לְךָ שָׁלוֹם׃ <span class="citation">(במדבר ו:כד-כו)</span>
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May YHVH (Hashem) bless you and protect you!
 May YHVH (Hashem) shine their face upon you and be gracious towards you!
 May YHVH (Hashem) lift their face up to you, and bring you peace![foot]Numbers 6:24-26[/foot]
@@ -124,7 +124,7 @@ May YHVH (Hashem) lift their face up to you, and bring you peace![foot]Numbers 6
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה 
 ה׳ אֱ-לֹהֵינוּ 
 מֶלֶךְ הָעוֹלָם 
@@ -135,7 +135,7 @@ May YHVH (Hashem) lift their face up to you, and bring you peace![foot]Numbers 6
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Blessed are you
 YHVH (Hashem) our <em>elo'ah</em>, 
 cosmic majesty, 
@@ -147,18 +147,18 @@ to reach this season.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Blessing over a new Hebrew name for a woman
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִי שֶׁבֵּרַךְ (אִמּוֹתֵינוּ) 
 שָׂרָה וְרִבְקָה
 רָחֵל וְלֵאָה
@@ -173,7 +173,7 @@ Blessing over a new Hebrew name for a woman
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May the one who blessed (our foremothers):
 Sarah and Rivkah, 
 Raḥel and Leah, 
@@ -189,18 +189,18 @@ and let it be said, <em>Amen</em>!”
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Blessing over a new Hebrew name for a man
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִי שֶׁבֵּרַךְ (אֲבוֹתֵינוּ) 
 אַבְרָהָם, יִצְחָק, וְיַעֲקֹב
 מֹשֶׁה וְאַהֲרֹן 
@@ -214,7 +214,7 @@ Blessing over a new Hebrew name for a man
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May the one who blessed (our forefathers):
 Avraham, Yitsḥak, and Ya'akov 
 Moshe and Aharon

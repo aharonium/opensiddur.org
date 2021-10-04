@@ -12,7 +12,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֹתֵינוּ (וְאִמוֹתֵינוּ), 
 חַדֵּשׁ אֶת הַיְּעָרוֹת 
 בְּאֶרֶץ יִשְׂרָאֵל 
@@ -21,7 +21,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Our God and God of our ancestors, 
 renew the forests 
 in the Land of Israel 
@@ -30,7 +30,7 @@ and all the world.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּשְׁמֹר אֶת הַעֵצִים בַּהֶם, 
 מְחַדְּשֵׁי הָאֲוִיר, 
 וְשׁוֹמְרֵי הַחַיִּים. 
@@ -38,7 +38,7 @@ and all the world.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And guard the trees within them, 
 renewers of the air 
 and guardians of life. 
@@ -46,7 +46,7 @@ and guardians of life.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְהָאֵר אֶת לֵב הָאִישׁ
 אֲשֶׁר חוֹתֵךְ אוֹתָם בָּאָרֶץ הַזֹּאת 
 וּבְכָל אָרְצוֹת בָּעוֹלָם, 
@@ -55,7 +55,7 @@ and guardians of life.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And enlighten the mind 
 of those who would cut them down in this land 
 and in all the lands of the world, 
@@ -64,7 +64,7 @@ as it is written, "You shall not cut down its trees by wielding against them an 
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְגַם בְּדִּבְרֵי שְׁלֹמֹה הַמֶּלֶךְ כָּתּוּב: 
 ”עֵץ־חַיִּ֣ים הִ֭יא לַמַּֽחֲזִיקִ֣ים בָּ֑הּ 
 וְֽתֹמְכֶ֥יהָ מְאֻשָּֽׁר“ <span class="citation">(משלי ג:יח)</span>. 
@@ -73,7 +73,7 @@ as it is written, "You shall not cut down its trees by wielding against them an 
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And also, in the words of King Solomon it is written, 
 "A tree of life it is to those who hold fast to it, 
 and all its supporters are content."[foot]Proverbs 3:18[/foot]

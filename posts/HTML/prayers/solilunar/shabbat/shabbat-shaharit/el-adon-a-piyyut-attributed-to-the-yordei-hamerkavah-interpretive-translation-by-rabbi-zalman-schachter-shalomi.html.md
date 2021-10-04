@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">אֵ</span>ל אָדוֹן עַל כָּל־הַמַּעֲשִׂים 
 <span class="acrostic">בָּ</span>רוּךְ וּמְבֹרָךְ בְּפִי כָל־נְשָׁמָה
 <span class="acrostic">גָּ</span>דְלוֹ וְטוּבוֹ מָלֵא עוֹלָם 
@@ -19,7 +19,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 A gentle Lord of all that is <span class="acrostic">&nbsp;</span>
 Blessed and loved by each soul alive. <span class="acrostic">&nbsp;</span>
 Great and good You fill all space. <span class="acrostic">&nbsp;</span>
@@ -28,7 +28,7 @@ Delight there is in knowing You. <span class="acrostic">&nbsp;</span>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">הַ</span>מִּתְגָּאֶה עַל חַיּוֹת הַקֹּדֶשׁ 
 <span class="acrostic">וְ</span>נֶהְדָּר בְּכָבוֹד 
 עַל הַמֶּרְכָּבָה
@@ -38,7 +38,7 @@ Delight there is in knowing You. <span class="acrostic">&nbsp;</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 How You transcend all holy life <span class="acrostic">&nbsp;</span>
 Which bears You high <span class="acrostic">&nbsp;</span>
 above any throne
@@ -49,7 +49,7 @@ the worlds reflect.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">ט</span>וֹבִים מְאוֹרוֹת 
 שֶׁבָּרָא אֱלֹהֵינוּ 
 <span class="acrostic">יְ</span>צָרָם בְּדַעַת 
@@ -61,7 +61,7 @@ the worlds reflect.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 The stars and the planets <span class="acrostic">&nbsp;</span>
 You made to give light 
 You formed them all conscious, <span class="acrostic">&nbsp;</span>
@@ -74,7 +74,7 @@ they serve You in space.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">מְ</span>לֵאִים זִיו 
 וּמְפִיקִים נוֹגַהּ 
 <span class="acrostic">נָ</span>אֶה זִיוָם 
@@ -86,7 +86,7 @@ they serve You in space.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Much light and energy <span class="acrostic">&nbsp;</span>
 they radiate forth
 No place is untouched <span class="acrostic">&nbsp;</span>
@@ -99,7 +99,7 @@ Creator’s command.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">פְּ</span>אֵר וְכָבוֹד 
 נוֹתְנִים לִשְׁמוֹ 
 <span class="acrostic">צָ</span>הֳלָה וְרִנָּה 
@@ -110,7 +110,7 @@ Creator’s command.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Praising Your glory, <span class="acrostic">&nbsp;</span>
 they honor Your name 
 Singing Your Majesty’s <span class="acrostic">&nbsp;</span>
@@ -122,7 +122,7 @@ change size at Your word.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">שֶׁ</span>בַח נוֹתְנִים לוֹ 
 כָּל־צְבָא מָרוֹם 
 <span class="acrostic">תִּ</span>פְאֶרֶת וּגְדֻלָּה 
@@ -131,7 +131,7 @@ change size at Your word.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <em>Seraphim</em>, angels, <span class="acrostic">&nbsp;</span>
 and all heavenly hosts 
 They praise You in concert <span class="acrostic">&nbsp;</span>

@@ -11,35 +11,35 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">Prayer to be recited on Thanksgiving Day or on the Sabbath nearest thereto
 (May be read by several members of the Congregation)</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <h3>I</h3> 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 In these days of Thanksgiving, 
 God and Father, 
 we unite with our countrymen 
@@ -50,12 +50,12 @@ and Arbiter of the destiny of nations.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 We thank thee for the riches of nature 
 stored away in the depths of the earth 
 and for the bounties of the field 
@@ -64,12 +64,12 @@ with which thou hast blessed our land.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Grant that we, in thankfulness, 
 may feel impelled to share with others 
 at home and abroad 
@@ -83,23 +83,23 @@ the Giver of our blessings.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <h3>II</h3> 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 We thank thee today also for the blessings in the realm of the spirit. 
 May we foster the values of kindness and love, 
 of devotion to Torah and Worship. 
@@ -110,12 +110,12 @@ but by everything that comes from thee.”
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 We pray thee, therefore, 
 to bless our synagogues and all houses of worship, 
 our schools and all our institutions devoted to humanitarian service. 
@@ -129,23 +129,23 @@ may bring forth fruits worthy of thy divine blessing.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <h3>III</h3> 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 And we thank thee for the laws of our country 
 and for the humane spirit which guided the Founders of our Government. 
 We pray that we may show our thankfulness for the laws and institutions of our land 
@@ -154,12 +154,12 @@ through our loyalty to the justice and humanity they seek to achieve.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 We pray that those who make our laws 
 and those who administer them 
 may ever think and act in the desire to honor the memory of the Founders 
@@ -168,12 +168,12 @@ and to hallow thy name through their thoughts and deeds in our day.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May we all be inspired 
 to keep the name of America free from stain 
 and to make it shine with a glorious light 
@@ -184,23 +184,23 @@ to the uttermost ends of the earth.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <h3>IV</h3> 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Bless, we pray thee, 
 the President of our country and his counselors 
 and all to whom the government of our land has been entrusted. 
@@ -222,23 +222,23 @@ in all the world.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <h3>V</h3>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">Congregation</span>
 &nbsp;
 For all our blessings, from thee, 

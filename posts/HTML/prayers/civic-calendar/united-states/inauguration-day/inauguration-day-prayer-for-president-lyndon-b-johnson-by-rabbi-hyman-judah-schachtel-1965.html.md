@@ -11,12 +11,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;"><a href="/contribute/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Almighty God, 
 we thank Thee for this inaugural, 
 the living historic witness to our faith in Thee 
@@ -33,12 +33,12 @@ in the sacred trust of leadership.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 As Lyndon Baines Johnson 
 and Hubert Horatio Humphrey 
 each places his hand on the Bible 
@@ -53,12 +53,12 @@ and Thy Holy Word our eternal challenge.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 We ask for no miracles 
 beyond the miracle which is always with us, 
 if we will only use it, 
@@ -71,12 +71,12 @@ into the benediction of concord and plenty.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May this inauguration mark, O Lord, 
 the renewal of a people unafraid of the tasks of greatness, 
 a turning point in American history when we move closer 

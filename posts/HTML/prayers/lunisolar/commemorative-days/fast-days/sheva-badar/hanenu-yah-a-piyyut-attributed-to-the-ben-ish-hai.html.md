@@ -11,112 +11,112 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 חׇנֵּנוּ יָהּ חׇנֵּנוּ בִּזְכוּת משֶׁה רַבֵּנוּ 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 משֶׁה רַעְיָא מְהֵימְנָא שָׁרְתָה עָלָיו שְׁכִינָה
 מֵאָה וְעֶשְׂרִים שָׁנָה אֲשֶׁר חַי בְּאַרְצֵנוּ
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שָׂם מִצְרַיִם לְשַׁמָּה עָשָׂה בָהֶם נְקָמָה
 בְּכֹחַ וְיָד רָמָה מִשָּׁם הוּא הוֹצִיאָנוּ
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 חׇנֵּנוּ יָהּ חׇנֵּנוּ בִּזְכוּת משֶׁה רַבֵּנוּ 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הוּא לַשָּׁמַיִם עָלָה נָצַח מַלְאֲכֵי מַעְלָה
 הִנְחִיל לְעַם סְגֻלָּה אֶת תּוֹרַת אֱלֹהֵינוּ
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 חִלָּה פְּנֵי ה' בְּעָמְדוֹ עַל הַר סִינַי
 הִצִּיל אֶת עַם אֱמוּנַי הֵגֵן עַל אֲבוֹתֵינוּ
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 חׇנֵּנוּ יָהּ חׇנֵּנוּ בִּזְכוּת משֶׁה רַבֵּנוּ 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 זֵכֶר צַדִּיק לִבְרָכָהּ בְּמִדַּ ת נֶצַח זָכָה
 גַּם בִּכְהֻנָּה וּמְלוּכָה אֱלֹהִים עִטְּרָנוּ
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 קָדוֹשׁ צַדִּיק וְעָנָו הִנֵּה קָרַן עוֹר פָּנָיו
 גַּם לֹא כָהֲתָה עֵינָיו לֹא נָס לֵחוֹ מִמֶּנּוּ
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 חׇנֵּנוּ יָהּ חׇנֵּנוּ בִּזְכוּת משֶׁה רַבֵּנוּ 
 </div></td></tr>
 </tbody></table>

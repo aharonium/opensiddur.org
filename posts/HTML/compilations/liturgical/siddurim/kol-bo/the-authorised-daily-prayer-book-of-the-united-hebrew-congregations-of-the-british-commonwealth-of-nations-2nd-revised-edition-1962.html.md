@@ -15,7 +15,7 @@ The vast majority of this work is in the Public Domain due to the expiration of 
 
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 
 
 <blockquote>PREFACE TO THE FIRST EDITION 

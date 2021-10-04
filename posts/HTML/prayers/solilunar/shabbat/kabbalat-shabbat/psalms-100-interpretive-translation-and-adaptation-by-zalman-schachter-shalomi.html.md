@@ -12,7 +12,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>א</sup>&nbsp;מִזְמ֥וֹר 
 לְתוֹדָ֑ה 
 הָרִ֥יעוּ לַ֝יהוָ֗ה 
@@ -21,7 +21,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <sup>1</sup>&nbsp;This is how you sing to God
 A Thank You song.
 You join the symphony
@@ -42,7 +42,7 @@ From generation to generation.
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>ב</sup>&nbsp;עִבְד֣וּ אֶת־יְהוָ֣ה 
 בְּשִׂמְחָ֑ה 
 בֹּ֥אוּ לְ֝פָנָ֗יו 
@@ -59,7 +59,7 @@ From generation to generation.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <sup>2</sup>&nbsp;You are filled with joy
 Serving God’s purpose.
 You sound your own song 
@@ -78,7 +78,7 @@ In grateful appreciation.
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הֽוֹדוּ־ל֝֗וֹ 
 בָּרֲכ֥וּ שְׁמֽוֹ׃ 
 <sup>ה</sup>&nbsp;כִּי־ט֣וֹב יְ֭הֹוָה לְעוֹלָ֣ם
@@ -89,7 +89,7 @@ In grateful appreciation.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Thank You God, 
 You are all Blessing.
 <sup>5</sup>&nbsp;In this world, You are goodness.

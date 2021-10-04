@@ -11,12 +11,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Contribute a Translation</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Blessed are you, Spirit of the Universe, who creates distinctions
 between a ripe persimmon 
 and an unripe persimmon,
@@ -45,13 +45,13 @@ between the soul of the week and the soul of the sabbath.
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Blessed are you
 who gives a space to stare at both sides of 
 the everythings,
@@ -63,13 +63,13 @@ and make an altar to the between.
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Here, what we hold in our palms:
 one small single broken,
 this split, this severance, this separation all our own.
@@ -90,13 +90,13 @@ to show us our shadows.
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Blessed are you, Great Murmur and Stillness of the World,
 who creates a land between what is broken 
 and what is endlessly, effervescently more whole.
@@ -106,13 +106,13 @@ and what is endlessly, effervescently more whole.
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Blessed are we to reach into and towards the infinite,
 to sing to that space, just within earshot 
 and ever widening in the distance.

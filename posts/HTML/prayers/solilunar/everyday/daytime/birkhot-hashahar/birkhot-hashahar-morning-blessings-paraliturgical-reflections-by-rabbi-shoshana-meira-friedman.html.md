@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Paraliturgical Reflection (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה 
 יְיָ אֱלֹהֵֽינוּ
 מֶֽלֶךְ הָעוֹלָם, 
@@ -20,7 +20,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Holy One, 
 sometimes I don't want to get out of bed or face the day.
 The alarm clock goes off, and my inner rooster is still sleeping.
@@ -30,7 +30,7 @@ I still praise all the blessings in my life.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה 
 יְיָ אֱלֹהֵֽינוּ
 מֶֽלֶךְ הָעוֹלָם, 
@@ -38,7 +38,7 @@ I still praise all the blessings in my life.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 &nbsp;
 &nbsp;
 &nbsp;
@@ -47,7 +47,7 @@ You place me in the company of others who are also wrestling for meaning.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה 
 יְיָ אֱלֹהֵֽינוּ
 מֶֽלֶךְ הָעוֹלָם, 
@@ -69,7 +69,7 @@ You place me in the company of others who are also wrestling for meaning.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 &nbsp;
 &nbsp;
 &nbsp;
@@ -92,7 +92,7 @@ You have given me self-expression, sight and insight, clothing, shelter, food, s
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה 
 יְיָ אֱלֹהֵֽינוּ
 מֶֽלֶךְ הָעוֹלָם, 
@@ -100,7 +100,7 @@ You have given me self-expression, sight and insight, clothing, shelter, food, s
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 &nbsp;
 &nbsp;
 &nbsp;
@@ -109,7 +109,7 @@ You break me out of old patterns that don't serve me anymore.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה 
 יְיָ אֱלֹהֵֽינוּ
 מֶֽלֶךְ הָעוֹלָם, 
@@ -117,7 +117,7 @@ You break me out of old patterns that don't serve me anymore.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 &nbsp;
 &nbsp;
 &nbsp;
@@ -128,7 +128,7 @@ and here to the ground where my feet stand.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה 
 יְיָ אֱלֹהֵֽינוּ
 מֶֽלֶךְ הָעוֹלָם, 
@@ -136,7 +136,7 @@ and here to the ground where my feet stand.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 &nbsp;
 &nbsp;
 &nbsp;
@@ -146,7 +146,7 @@ You lift them to the light, forming new growth and opportunities for compassion.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה 
 יְיָ אֱלֹהֵֽינוּ
 מֶֽלֶךְ הָעוֹלָם, 
@@ -154,7 +154,7 @@ You lift them to the light, forming new growth and opportunities for compassion.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 &nbsp;
 &nbsp;
 &nbsp;
@@ -168,7 +168,7 @@ My soul that needs union with You.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה 
 יְיָ אֱלֹהֵֽינוּ
 מֶֽלֶךְ הָעוֹלָם, 
@@ -181,7 +181,7 @@ My soul that needs union with You.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 &nbsp;
 &nbsp;
 &nbsp;
@@ -195,7 +195,7 @@ You guide me toward wise strength and support me with wise strength.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה 
 יְיָ אֱלֹהֵֽינוּ
 מֶֽלֶךְ הָעוֹלָם, 
@@ -203,7 +203,7 @@ You guide me toward wise strength and support me with wise strength.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 &nbsp;
 &nbsp;
 &nbsp;
@@ -212,7 +212,7 @@ You crown me with the potential to balance loving-kindness and boundaries.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה 
 יְיָ אֱלֹהֵֽינוּ
 מֶֽלֶךְ הָעוֹלָם, 
@@ -220,7 +220,7 @@ You crown me with the potential to balance loving-kindness and boundaries.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 &nbsp;
 &nbsp;
 &nbsp;
@@ -229,7 +229,7 @@ You give me resilience when I am tired.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה 
 יְיָ אֱלֹהֵֽינוּ
 מֶֽלֶךְ הָעוֹלָם,
@@ -251,7 +251,7 @@ You give me resilience when I am tired.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Holy One,
 Just as You woke me up this morning
 You keep waking me up to greater truth,

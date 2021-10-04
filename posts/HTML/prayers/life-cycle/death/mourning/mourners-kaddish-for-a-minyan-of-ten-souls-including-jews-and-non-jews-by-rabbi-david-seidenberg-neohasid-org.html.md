@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <strong>DOWNLOAD:</strong> <a href="http://neohasid.org/pdf/Kaddishforahumanminyan.pdf">PDF</a>
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 As some folks may recall, I worked on a "secular" ḳaddish after my mother died so that I could say ḳaddish under circumstances where I could gather ten people but not ten Jews. I continued to work on this ḳaddish and have been sharing it with people in my home community, and people seem to really love it and get a lot out of it. So I thought I would share it with you all now (even though most will probably only see it after Rosh Hashanah), because you may find it useful in two ways:
 
 1) As a kind of prayer for Creation in the spirit of the Rosh Hashanah liturgy that hopes for the time when "all creatures become united in one band" to serve God.
@@ -25,12 +25,12 @@ As some folks may recall, I worked on a "secular" ḳaddish after my mother died
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Adapted Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">[Mourners:]</span> 
 
 May the Name that fills all names 
@@ -47,12 +47,12 @@ And let us say: <em>Amen</em>.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">[Everyone:]</span> <em>Amen</em>. 
 
 May that great Name be blessed within us 
@@ -62,12 +62,12 @@ for all time.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">[Mourners:]</span> 
 
 May Holiness stream forth from its Source, 
@@ -87,12 +87,12 @@ And let us say: (<span class="instruction">[Everyone:]</span> <em>Amen</em>.)
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">[Mourners:]</span> 
 
 May the Life and Love 
@@ -112,12 +112,12 @@ And let us say: (<span class="instruction">[Everyone:]</span> <em>Amen</em>.)
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">[Mourners:]</span> 
 
 The One who makes Peace 

@@ -11,12 +11,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">To be recited on the Shabbat before an election (federal, state, or local) 
 together with the <a href="https://opensiddur.org/shared/prayers/collective-welfare/government/the-diaspora/">Prayer for Government</a>.<span>
 </div></td>
@@ -24,7 +24,7 @@ together with the <a href="https://opensiddur.org/shared/prayers/collective-welf
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַחֽוֹנֵן ‏לְאָדָם דַּעַת
 וּמְלַמֶד לֶאֱנוֹשׁ בִּינָה
 הוּא יְבָרֵךְ וְיִשְׁמֹר‎
@@ -38,7 +38,7 @@ together with the <a href="https://opensiddur.org/shared/prayers/collective-welf
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May the One who graces each person with knowledge
 and teaches humanity understanding,
 bless and protect 
@@ -54,7 +54,7 @@ people of truth who despise corruption.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַמַעֲמִיד אֲרָצוֹת 
 עַל־הַדִּין וְעַל־הָאֱמֶת וְעַל־הַשָּׁלוֹם
 יְהִי רָצוֹן 
@@ -72,7 +72,7 @@ people of truth who despise corruption.
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 The One who sustains nations
 on order, on truth, and on peace:
 may it be Your will

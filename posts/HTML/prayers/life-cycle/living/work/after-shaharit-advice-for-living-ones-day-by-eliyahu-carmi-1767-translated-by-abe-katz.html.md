@@ -11,11 +11,11 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אחר שישלים תפלתו ילמוד מעט או ילך לבית המדרש וישמע מהתלמידים ואחר כך יפנה לעסקיו ולאמונתו כי כל תורה שאין עמה מלאכה סופה בטלה והעוני יעבירהו על דעת קונו. וישא ויתן באמונה ויהא דבורו בנחת עם הבריות ואל יעשה מריבה בשום אדם ויזהר מלישבע אפילו על האמת וכל שכן שלא ישבע לשקר ולא יזכיר שם שמים לבטלה. ולא יפנה עצמו לבטלה כי הבטלה מביא את האדם לכל הרהור עבירה אלא בכל עת יעסוק לאיזה עסק טוב ויעיין תמיד בנכסיו ובמעשיו. וכשיתנהג את עצמו באזהרות אלו מובטה לו שהקדוש ברוך הוא ישלח ברכה רוחה והצלחה בכל מעשה ידיו.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 After finishing <em>Tephilat Schacharit</em>, a person should learn Torah for a few moments or go to the <em>Beit Midrash</em> and listen to the students. Then he should attend to his affairs and proceed to his place of work because Torah learning that is not combined with work has no value. Poverty will then lead him to violate his Master's rules. He should conduct his business in good faith. He should speak softly to other human beings. He should not start fights with anyone. He should be careful not to take an oath even concerning a matter that he knows to be true. Most certainly he should not take an oath falsely and he should not mention G!d's name in vain. He should avoid idleness because idleness causes improper urges. Instead he should always pursue lofty goals and he should always be examining his personality and his deeds. If a person conducts himself within these parameters he will be certain that G!d with bless him with success in whatever he undertakes.
 </td>
 </tr>

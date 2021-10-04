@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יָהּ עֶזְרָתִי מִן שְׁמַיָּא        
 שְׁלַח נָא גֽוֹאֲלִי 
 דִּמְעָה תִזַּל מִן עֵינַיָּה   
@@ -19,7 +19,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Yahh, my help on high,          
 Send me a redeemer;
 Though a tear fall from my eye, 
@@ -28,20 +28,20 @@ For all my transgressions.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֵל רָם אָשִׁיר לָךְ תָּמִיד אֵל חַי וְקַיָּם
 חַיִּים וּמָזוֹן תֵן לְעַם עוֹבֵד יָהּ
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Supreme Él, I will always sing to you, Living Él, 
 give life and sustenance to the people who serves you.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כַּמָּה זְמָן הִסְגַּרְתַּנִי     
 בְּיַד אוֹיֵב לוֹחֵם
 שׁוּב אֵל חֲבִֽיבִי רְעֵנִי          
@@ -49,7 +49,7 @@ give life and sustenance to the people who serves you.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Too often you have let me fall
 To those who war;
 Él, my Beloved, to you I call
@@ -58,20 +58,20 @@ My shepherd, show compassion.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֵל רָם אָשִׁיר לָךְ תָּמִיד אֵל חַי וְקַיָּם
 חַיִּים וּמָזוֹן תֵן לְעַם עוֹבֵד יָהּ
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Supreme Él, I will always sing to you, Living Él, 
 give life and sustenance to the people who serves you.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בֵּית קָדְשִׁי לָֽמָּה עֲזַבְתּוֹ   
 הַשְׁרֵה שְׁכִינְתָּךְ עֲלֵהּ
 הַחְזֵר יָהּ אָבִי תִפְאַרְתּוֹ 
@@ -79,7 +79,7 @@ give life and sustenance to the people who serves you.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Why forsake your place so holy?
 Let your presence dwell therein
 Return, Yahh to the place of splendor
@@ -88,20 +88,20 @@ My Parent, bring an end to suffering.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֵל רָם אָשִׁיר לָךְ תָּמִיד אֵל חַי וְקַיָּם
 חַיִּים וּמָזוֹן תֵן לְעַם עוֹבֵד יָהּ
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Supreme Él, I will always sing to you, Living Él, 
 give life and sustenance to the people who serves you.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שְׁעֵה אֵל רַֽחֲמָן שִׂיחָתִי אָהּ   
 וּשְׁפַע עָלַי מֵהוֹדָךְ
 יָהּ עֶזְרָתִי יָהּ חֶמְדָּתִי              
@@ -110,7 +110,7 @@ give life and sustenance to the people who serves you.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Accept my prayers, O’ merciful Él,
 Pour out your glory to me.
 Yahh, my Help, my Beloved,

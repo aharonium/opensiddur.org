@@ -11,14 +11,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Paraliturgical Reflection (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֱלֹהַי,
 נְשָׁמָה שֶׁנָּתַֽתָּ בִּי
 טְהוֹרָה הִיא,
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 God, 
 the soul You gave me is pure.  
 This of all things is hard for me to understand.  
@@ -29,7 +29,7 @@ If it is pure, why do I need to die?
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אַתָּה בְרָאתָהּ,
 אַתָּה יְצַרְתָּהּ,
 אַתָּה נְפַחְתָּהּ בִּי,
@@ -41,7 +41,7 @@ If it is pure, why do I need to die?
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 The soul in me is from You.  
 It is part of You, and it will one day leave my body and join You in total Oneness again.  
 I know I am supposed to be ok with that, but some days I am so scared to die.  
@@ -51,7 +51,7 @@ Other days, I am so scared to live.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כָּל זְמַן שֶׁהַנְּשָׁמָה בְּקִרְבִּי
 מוֹדֶה אֲנִי לְפָנֶיךָ יְיָ אֱלֹהַי וֵאלֹהֵי אֲבוֹתַי,
 רִבּוֹן כָּל הַמַּעֲשִׂים, אֲדוֹן כָּל הַנְּשָׁמוֹת.
@@ -60,7 +60,7 @@ Other days, I am so scared to live.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 I love perfection, and rest, and total integrity, and these are difficult to come by in Your world.
 So all the days when my soul is in this body, help me to make the most of it.  
 Help me show up with grace to my life, in all its imperfections.

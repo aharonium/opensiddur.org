@@ -11,78 +11,78 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">אֲ</span>גַדֶלְךָ אֳלֹהֵי כָּל נְשָׁמָה.
 וְאוֹדֶךָ בְּרֹב פַּחַד וְאֵימָה.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 I will speak of your greatness, <em>elo'ah</em> of all souls, 
 and I will praise you, with much fear and awe, 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">בְּ</span>עֹמְדִי תוֹךְ קְהַלְךָ צוּר לְרוֹמֵם.
 לְךָ אֶכְרַע וְאֶכוֹף רֹאשׁ וְקוֹמָה.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 While I stand within your congregation, forever exalting, 
 to you I will bend my knees and lower my head and stature.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">רְ</span>קִיעֵי רוּם הַלֹא נַטָה בְּמִבְטָא.
 וְהָאָרֶץ יְסַדָה עַל בְּלִימָה. 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Hashem planted the stars with their speech, 
 and anchored the land to nothingness.[foot]cf. Job 26:7, a reference also to the <a href="http://opensiddur.org/?p=13644">Sefer Yetsirah</a>.[/foot]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">הַ</span>יוּכַל אִישׁ חֲקוֹר אֶת סוֹד יוֹצְרוֹ. 
 וּמִי הוּא זֶה בְּכֹל קֶדְמָה וְיַמָה.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Can a man investigate the secret of Hashem's creation? 
 And who is that who is in every direction? 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">מְ</span>רוֹמַם הוּא עֲלֵי כָּל פֶּה וְלָשׁוֹן. 
 אֲשֶׁר הִפְלִיא וְעֲשָׂה כָּל בְּחֹכְמָה.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Hashem are praised by every mouth and tongue, 
 which Hashem miraculously made their wisdom. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְיִתְגַדָל בְּגוֹי קָדוֹשׁ וְעֶלְיוֹן.
 וְיִתְקַדָש שְׁמֵיה רַבָּא בְּעַלְמָא.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 And Hashem is exalted by a holy and supernal nation, 
 may Hashem's great name be made holy in the world! 
 </div></td></tr>

@@ -11,33 +11,33 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הוֹד֣וּ לַיהֹוָ֣ה כִּי־ט֑וֹב
 כִּ֖י לְעוֹלָ֣ם חַסְדּֽוֹ׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Give thanks to the CAUSE who is good,
 for eternal is Divine kindness!
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ה֭וֹדוּ לֵאלֹהֵ֣י הָאֱלֹהִ֑ים
 כִּ֖י לְעוֹלָ֣ם חַסְדּֽוֹ׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Give thanks to the God of gods,
 for eternal is Divine kindness!
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ה֭וֹדוּ לַאֲדֹנֵ֣י הָאֲדֹנִ֑ים
 כִּ֖י לְעוֹלָ֣ם חַסְדּֽוֹ׃
 לְעֹ֘שֵׂ֤ה נִפְלָא֣וֹת גְּדֹל֣וֹת לְבַדּ֑וֹ
@@ -45,7 +45,7 @@ for eternal is Divine kindness!
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Give thanks to the Master of masters,
 for eternal is Divine kindness!
 Who makes great wonders alone,
@@ -54,33 +54,33 @@ for eternal is Divine kindness!
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לְעֹשֵׂ֣ה הַ֭שָּׁמַיִם בִּתְבוּנָ֑ה
 כִּ֖י לְעוֹלָ֣ם חַסְדּֽוֹ׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Who makes the skies in understanding,
 for eternal is Divine kindness!
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לְרֹקַ֣ע הָ֭אָרֶץ עַל־הַמָּ֑יִם
 כִּ֖י לְעוֹלָ֣ם חַסְדּֽוֹ׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Who stretches the earth over the seas,
 for eternal is Divine kindness!
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לְ֭עֹשֵׂה אוֹרִ֣ים גְּדֹלִ֑ים
 כִּ֖י לְעוֹלָ֣ם חַסְדּֽוֹ׃
 אֶת־הַ֭שֶּׁמֶשׁ לְמֶמְשֶׁ֣לֶת בַּיּ֑וֹם
@@ -90,7 +90,7 @@ for eternal is Divine kindness!
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Who makes great lights,
 for eternal is Divine kindness!
 The sun to govern the day,
@@ -101,7 +101,7 @@ for eternal is Divine kindness!
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לְמַכֵּ֣ה מִ֭צְרַיִם בִּבְכוֹרֵיהֶ֑ם
 כִּ֖י לְעוֹלָ֣ם חַסְדּֽוֹ׃
 וַיּוֹצֵ֣א יִ֭שְׂרָאֵל מִתּוֹכָ֑ם
@@ -111,7 +111,7 @@ for eternal is Divine kindness!
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Who struck down Egypt's firstborn,
 for eternal is Divine kindness!
 And brought Israel out of it,
@@ -122,7 +122,7 @@ for eternal is Divine kindness!
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לְגֹזֵ֣ר יַם־ס֭וּף לִגְזָרִ֑ים
 כִּ֖י לְעוֹלָ֣ם חַסְדּֽוֹ׃
 וְהֶעֱבִ֣יר יִשְׂרָאֵ֣ל בְּתוֹכ֑וֹ
@@ -134,7 +134,7 @@ for eternal is Divine kindness!
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Who parted the Sea into parts,
 for eternal is Divine kindness!
 And passed Israel through it,
@@ -147,7 +147,7 @@ for eternal is Divine kindness!
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לְ֭מַכֵּה מְלָכִ֣ים גְּדֹלִ֑ים
 כִּ֖י לְעוֹלָ֣ם חַסְדּֽוֹ׃
 וַֽ֭יַּהֲרֹג מְלָכִ֣ים אַדִּירִ֑ים
@@ -163,7 +163,7 @@ for eternal is Divine kindness!
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And struck down great kings,
 for eternal is Divine kindness!
 And killed mighty kings,
@@ -180,7 +180,7 @@ for eternal is Divine kindness!
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שֶׁ֭בְּשִׁפְלֵנוּ זָ֣כַר לָ֑נוּ
 כִּ֖י לְעוֹלָ֣ם חַסְדּֽוֹ׃
 וַיִּפְרְקֵ֥נוּ מִצָּרֵ֑ינוּ
@@ -188,7 +188,7 @@ for eternal is Divine kindness!
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Who remembered us when we were weak,
 for eternal is Divine kindness!
 And took us away from our foes,
@@ -197,7 +197,7 @@ for eternal is Divine kindness!
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 נֹתֵ֣ן לֶ֭חֶם לְכׇל־בָּשָׂ֑ר
 כִּ֖י לְעוֹלָ֣ם חַסְדּֽוֹ׃
 ה֭וֹדוּ לְאֵ֣ל הַשָּׁמָ֑יִם
@@ -205,7 +205,7 @@ for eternal is Divine kindness!
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Who gives bread to all flesh,
 for eternal is Divine kindness!
 Give thanks to the God of Heaven,

@@ -13,7 +13,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 
 Psalms, or Tehilim, have been in liturgical use for as long as any text in Judaism has been. Prayers, praises, supplications, and the like – it’s all in this book of 150 works. So it seems odd that while we use its texts regularly in prayer, we have no tradition of public kriah for Psalms.
 

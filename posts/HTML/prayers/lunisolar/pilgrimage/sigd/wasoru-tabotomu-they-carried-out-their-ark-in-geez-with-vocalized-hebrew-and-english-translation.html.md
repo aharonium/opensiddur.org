@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 Sigd is an Amharic word meaning "prostration" or "worship" and is the commonly used name for a holiday celebrated by the Ethiopian Jewish Beta Israel community on the 29th of the Hebrew month of Marḥeshvan. This date is exactly 50 days after Yom Kippur, usually falling out in late October or November, and according to Ethiopian Jewish tradition is also the date that God first revealed himself to Moses.[foot]Jewish Virtual Library, "<a href="https://www.jewishvirtuallibrary.org/ethiopian-sigd-holiday">Ethiopian Jewry: Sigd Holiday</a>"[/foot]
 
 Sigd is a unique holiday. Originally only celebrated by the Ethiopian Jewish Beta Esrael community, it has gotten more traction recently. One could describe the key concept of Sigd as being the acceptance of the Torah — not the giving, but the receiving of it. Sigd is a holiday of the continuation of the covenant. No matter the persecution that the Beta Esrael suffered (and hoo boy, did they suffer), Sigd announced that they would preserve their Judaism through it all.
@@ -37,171 +37,171 @@ This is part one of a series of Sigd readings in English, Hebrew, and Ge'ez tran
 <thead><tr><th id="x" style="text-align: right;">Translation (Hebrew)</th><th style="text-align: left;">Translation (English)</th><th style="text-align: left;">Source (Ge'ez)</th><th style="text-align: left;">Transliteration (Ge'ez)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וָיַּשִּׂיאוּ אֶת־תֵּבָתָם
 מִיכָאֵל הוֹלִיכָם
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 And they carried their Ark;
 Michael led them.
 </div></td>
 
 <td style="vertical-align:top;">
-<div class="ethiopic"><span lang="am">
+<div class="ethiopic" lang="gez">
 ወጾሩ ፡ ታቦቶሙ፤
 ሚካኤል ፡ ምርሖሙ ። 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Wäṣoru tabotomu;
 Mikaʾelə mərəḥomu. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אַרְבָּעִים שָׁנָה בַּמִּדְבָּר
 מִיכָאֵל הוֹלִיכָם
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Forty years in the desert;
 Michael led them.
 </div></td>
 
 <td style="vertical-align:top;">
-<div class="ethiopic"><span lang="am">
+<div class="ethiopic" lang="gez">
 አርብዓ ፡ ዓመቱ ፡ በገዳም፤
 ሚካኤል ፡ ምርሖሙ ። 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 ʾÄrəbəʿa ʿamätu bägädamə;
 Mikaʾelə mərəḥomu. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יוֹמָם בֶּעָנָן
 מִיכָאֵל הוֹלִיכָם
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 The days, by cloud;
 Michael led them.
 </div></td>
 
 <td style="vertical-align:top;">
-<div class="ethiopic"><span lang="am">
+<div class="ethiopic" lang="gez">
 መዓልተ ፡ በደመና፤
 ሚካኤል ፡ ምርሖሙ ። 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Mäʽalətä bädämäna;
 Mikaʾelə mərəḥomu. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וָלַיְלָה בְּעַמּוּד אֵשׁ
 מִיכָאֵל הוֹלִיכָם
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 And the night; by pillar of fire;
 Michael led them.
 </div></td>
 
 <td style="vertical-align:top;">
-<div class="ethiopic"><span lang="am">
+<div class="ethiopic" lang="gez">
 ወሌሊተኒ ፡ በዐምደ ፡ እሳት፤
 ሚካኤል ፡ ምርሖሙ ። 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Wälelitäni bäʿämədä ʾəsatə;
 Mikaʾelə mərəḥomu. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אַרְבָּעָה מְקוֹמוֹת שְׁעָרֶיהָ לְצִיּוֹן
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Four places are the gates of Zion.
 </div></td>
 
 <td style="vertical-align:top;">
-<div class="ethiopic"><span lang="am">
+<div class="ethiopic" lang="gez">
 አርባዕቱ ፡ መቃን ፡ እምኣፍኣ ፡ ለጽዮን ። 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 ʾÄrəbaʿətu mäḳanə ʾəməʾafəʾa läṢəyonə. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עוּרִי צִיּוֹן
 לִבְשִׁי עֹז זָרְעֵךְ
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Arise, Zion;
 Wear the strength of your right hand.
 </div></td>
 
 <td style="vertical-align:top;">
-<div class="ethiopic"><span lang="am">
+<div class="ethiopic" lang="gez">
 ተንሥኢ ፡ ጽዮን፤
 ልበሲ ፡ ኅይለ ፡ መዝራዕተኪ ። 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Tänəśəʾi Ṣəyonə;
 Ləbäsi ḫəyəlä mäzəraʿətäki. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עוּרִי צִיּוֹן 
 אִסְפִי זַרְעֵי עַמֵּךְ
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Arise, Zion;
 Gather the seeds of your people.
 </div></td>
 
 <td style="vertical-align:top;">
-<div class="ethiopic"><span lang="am">
+<div class="ethiopic" lang="gez">
 ተንሥኢ ፡ ጽዮን፤
 አስተጋብኢ ፡ ዝሩዕ ፡ ሕዝብኪ ። 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Tänəśəʾi Ṣəyonə;
 ʾÄsətägabəʾi zəruʿə ḥəzəbəki.
 </div></td></tr>

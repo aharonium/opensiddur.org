@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 The UK’s chief rabbi Ephraim Mirvis composed this prayer; he recommended that Psalms 91, Psalms 121, and Psalms 130 be said with it.
 </div>
 
@@ -17,12 +17,12 @@ The UK’s chief rabbi Ephraim Mirvis composed this prayer; he recommended that 
 <thead><tr><th id="x" style="text-align: right;"><a href="/contribute/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָבִינוּ שֶׁבַּשָּׁמַיִם
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Heavenly Father,
 We turn to You at this time of deep global concern, 
 to bestow Your mercy upon all the inhabitants 
@@ -32,7 +32,7 @@ which is now so seriously afflicted.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 &nbsp;
 &nbsp;
@@ -45,7 +45,7 @@ which is now so seriously afflicted.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Almighty God, 
 who sustains the living with lovingkindness, 
 supports the fallen and heals the sick, 
@@ -59,12 +59,12 @@ and I will heal you of your wounds, says the Lord”.[foot]Jeremiah 30:17.[/foot
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Bless with strength those who are suffering. 
 Bless with resilience those in isolation. 
 Bless with hope those who are despondent. 
@@ -74,12 +74,12 @@ and bless with compassion all those who offer comfort.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Bless the leaders of our nations. 
 Give them and their advisors knowledge and foresight 
 to act with wisdom and sincerity 
@@ -88,12 +88,12 @@ for the wellbeing of all whom they serve.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Bless the doctors, nurses, 
 all healthcare professionals and key workers 
 who tirelessly seek to heal and help those affected, 
@@ -102,12 +102,12 @@ while in so doing put themselves at risk.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Open our hearts in prayer 
 and our hands in generosity 
 to guarantee that the physical distance this virus creates between us 
@@ -116,12 +116,12 @@ will be bridged through compassion and kindness.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Almighty God of healing and hope, 
 at this time of heightened global awareness 
 of our mutual interdependence, 
@@ -141,12 +141,12 @@ and peace.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 O Lord, our Rock and Salvation, 
 lead us speedily from despair to hope, 
 from fear to trust 
@@ -155,24 +155,24 @@ and from the dread of death to the celebration of life.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וַאֲנִי תְפִלָּתִי־לְךָ יְהוָה עֵת רָצוֹן <span class="citation">(תהלים סט:יד)</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May this prayer of mine come before You at a propitious time.[foot]Psalms 69:14.[/foot]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְכֵן יְהִי רָצוֹן 
 אָמֵן׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 And may this be Your will, 
 <em>Amen</em>.
 </div></td></tr>

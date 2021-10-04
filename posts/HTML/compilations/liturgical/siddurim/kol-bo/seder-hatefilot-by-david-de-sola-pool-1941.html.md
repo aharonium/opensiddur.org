@@ -21,7 +21,7 @@ Scanning this work (making digital images of each page) is the first step in a m
 
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 PREFACE 
 
 The Union of Sephardic Congregations has prepared this new edition of the time-hallowed Sephardic prayer book to fill an urgent need. The editions published in the past century by David Aaron de Sola, Isaac Leeser and Abraham de Sola have long been out of print, and the sumptuous prayer book edited by Moses Gaster is too costly for general use. The result is that today no Sephardic prayer book with an English translation is readily available for the increasing number of Sephardic congregations in North America. 

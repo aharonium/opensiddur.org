@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רִבּוֹן כׇּל הָעוֹלָמִים
 אֲדוֹן כׇּל הַמַּעֲשִׂים
 בָּרֵךְ עָלֵינוּ אֶת כׇּל נְטִיעוֹתֵינוּ
@@ -26,7 +26,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 אָמֵן. כֵּן יְהִי רָצוֹן.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Master of all worlds,
 Lord of all creations,
 Bless us in all of our plantings

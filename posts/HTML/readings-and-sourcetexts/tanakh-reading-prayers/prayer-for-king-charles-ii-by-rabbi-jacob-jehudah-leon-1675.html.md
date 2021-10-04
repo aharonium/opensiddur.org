@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Reconstructed Liturgy (Hebrew)</th><th style="text-align: left;">Source Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 הַנּוֹתֵן תְּשׁוּעָה לַמְּלָכִים
 וּמֶמְשָׁלָה לֲנְּסִיכִים
 [מַלְכוּתְךָ וּמֶמְשֶׁלְתְּךָ כָּל־עֹלָמִים]&nbsp;
@@ -21,7 +21,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 He that sends deliverance to Kings, 
 and gives Dominion to Princes, 
 whose Kingdom and Dominion is everlasting; 
@@ -32,13 +32,13 @@ and paths through the River Jordan:
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הוּא יְבָרֵךְ וְיִשְׁמוֹר וְיַעֲזוֹר וִיגַדֵּל 
 וִינַשֵּׂא לְמַֽעְלָה לְמַֽעְלָה לַאֲדוֹנֵנוּ 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 He himself bless, preserve, assist, make great, 
 and more and more exalt our Gracious Lord
 CHARLES the II. 
@@ -47,14 +47,14 @@ King and Protector of England, Scotland, France, and Ireland,
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַמֶּלֶךְ מַלְכֵי הַמְלָכִים 
 בְּרַחֲמָיו 
 יִשְׁמְרֶהוּ וִיחַיֵיהוּ וּמִכָּל צָרָה וָנֶזֶק יַצִילֵהוּ׃ 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 the King of kings 
 by his Merciful Benevolence 
 preserve, vivify, and deliver him from all trouble and danger. 
@@ -62,14 +62,14 @@ preserve, vivify, and deliver him from all trouble and danger.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מֶֽלֶךְ מַלְכֵי הַמְלָכִים 
 יָרִוּם וְיַגְבִּיהַ כּוֹכַב מַעֲרַכְתָּוֹ 
 וְיַאֲרִיךְ יָמִים עַל מַמְלָכְתּוֹ׃ 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 The King of kings, 
 increase and heighten the Star of his Constellation, 
 to prolong his days over his glorious Kingdom. 
@@ -77,7 +77,7 @@ to prolong his days over his glorious Kingdom.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מֶלֶךְ מַלְכֵי הַמְלָכִים 
 יִתֵּן בְּלבּוֹ 
 וּבְּלֵב כָּל יוֹעֲצַיו וְשָׂרָיו 
@@ -87,7 +87,7 @@ to prolong his days over his glorious Kingdom.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 The King of kings 
 put it into his heart, 
 and into the hearts of his Nobles and Princes, 

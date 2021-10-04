@@ -15,7 +15,7 @@ This <em>Haraḥaman</em> (prayer to the merciful or compassionate One) for the 
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th><th style="text-align: left;">Transliteration (Romanized Hebrew)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הָרַחֲמָן הוּא יָשִׁיב לִבֵּינוּ אֶל הָאָרֶץ,
  לְמַעַן נֵשַׁב יָחַד עִמָהּ,
  בְּשָׁבְתָהּ,
@@ -23,7 +23,7 @@ This <em>Haraḥaman</em> (prayer to the merciful or compassionate One) for the 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May the merciful One turn our hearts toward the land, 
 so that together we may dwell with her, 
 in her sabbath-resting 
@@ -31,7 +31,7 @@ during the whole year of the Shmitah.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="romanized-hebrew">
+<div class="romanized-hebrew" lang="he">
 Haraḥaman hu yashiv libeinu el ha'arets 
 l'ma'an neishev yaḥad imah
 b'shovtah 

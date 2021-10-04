@@ -9,7 +9,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/RachelWeepsForHerChildrenVilna1910#page/n0/mode/2up"]
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 <em>Rokhl M'vako al Boneho</em> is a compilation of Jewish women's prayers in Yiddish published in Vilna in 1910, with prayers attributed to Rokhl Esther bat Aviḥayil, a Jewish woman living in Jerusalem. The phrase "Rokhl M'vako al Boneho" is from Jeremiah 31:15.
 
 This digital scan of <em>Rokhl M'vako al Boneho</em> was prepared by Aharon Varady from a copy held in the collection of the Klau Library (HUC) in Cincinnati, Ohio. The scan was made in order to create faithful transcriptons and translations with direct reference to the original work.

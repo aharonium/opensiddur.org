@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַנּוֹתֵן תְּשׁוּעָה לַמְּלָכִים 
 וּמֶמְשָׁלָה לַנְּסִיכִים 
 וּמַלְכוּתוֹ מַלְכוּת כׇּל־עוֹלָמִים 
@@ -21,7 +21,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 He who dispenseth salvation unto kings, 
 and dominion unto princes; 
 whose kingdom is an everlasting kingdom; 
@@ -32,7 +32,7 @@ and a path through the mighty waters,
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הוּא יְבָרֵךְ וְיִשְׁמוֹר וְיִנְצוֹר וְיַעֲזוֹר 
 וִירוֹמֵם וִיגַדֵּל וִינַשֵּׂא לְמַעְלָה לְמַעְלָה
 לַאֲדוֹנֵנוּ הַמֶּלֶךְ
@@ -45,7 +45,7 @@ and a path through the mighty waters,
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May he bless, preserve, guard, assist 
 exalt, and highly aggrandize,
 our most gracious Sovereign lord, 
@@ -58,14 +58,14 @@ and all the ROYAL FAMILY;
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מֶֽלֶךְ מַלְכֵי הַמְּלָכִים 
 בְּרַחֲמָיו יִשְׁמְרֵֽהוּ וִיְחַיֵּיהוּ 
 וּמִכׇּל־צָרָה וָנֶֽזֶק יַצִּילֵהוּ׃ 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May the supreme King of kings 
 through his infinite mercy preserve them, and grant them life 
 and deliver them from all manner of trouble and danger; 
@@ -73,14 +73,14 @@ and deliver them from all manner of trouble and danger;
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מֶֽלֶךְ מַלְכֵי הַמְּלָכִים
 בְּרַחֲמָיו יָרוּם וְיַגְבִּיהַ כּוֹכַב מַֽעֲרַכְתּוֹ
 וְיַֽאֲרִיךְ יָמִים עַל מַמְלַכְתּוֹ׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May the supreme King of kings 
 exalt and highly aggrandize him, 
 and grant him long and prosperously to reign;
@@ -88,7 +88,7 @@ and grant him long and prosperously to reign;
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מֶֽלֶךְ מַלְכֵי הַמְּלָכִים 
 בְּרַחֲמָיו יִתֵּן בְּלִבּוֹ 
 וּבְלֵב כׇּל־יוֹעֲצָיו וְשָׂרָיו 
@@ -97,7 +97,7 @@ and grant him long and prosperously to reign;
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May the supreme King of kings 
 through his infinite mercy, inspire him 
 and all his counsellors and nobles 
@@ -107,7 +107,7 @@ and all Israel, our brethren;
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בְּיָמָיו וּבְיָמֵינוּ 
 תִּוָּשַׁע יְהוּדָה 
 וְיִשְׂרָאֵל יִשְׁכּוֹן לָבֶטַח 
@@ -117,7 +117,7 @@ and all Israel, our brethren;
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 In his days and in our's, 
 may Judah be saved, 
 and Israel dwell in safety; 

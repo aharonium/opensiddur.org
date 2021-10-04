@@ -12,10 +12,11 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr>
 <td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עָלֵֽינוּ לְשַׁבֵּֽחַ לַאֲדוֹן הַכֹּל 
 לָתֵת גְּדֻלָּה לְיוֹצֵר בְּרֵאשִׁית.‏
- שֶׁלֹּא עָשָֽׂנוּ כְּגוֹיֵי הָאֲרָצוֹת וְלֹא שָׂמָֽנוּ כְּמִשְׁפְּחוֹת הָאֲדָמָה׃ 
+ שֶׁלֹּא עָשָֽׂנוּ כְּגוֹיֵי הָאֲרָצוֹת 
+וְלֹא שָׂמָֽנוּ כְּמִשְׁפְּחוֹת הָאֲדָמָה׃ 
 שֶׁלֹּא שָׂם חֶלְקֵֽנוּ כָּהֶם וְגֹרָלֵֽנוּ כְּכָל הֲמוֹנָם׃‏
 &nbsp;
  וַאֲנַֽחְנוּ כּוֹרְעִים וּמִשְׁתַּחֲוִים 
@@ -31,10 +32,11 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Ours is to praise the Master of all; 
 to recognize the greatness of the One who fashioned our beginning.
-Not as a nation-state, nor as a tribe; 
+Not as a nation-state, 
+nor as a tribe; 
 but by giving us a particular task, a particular fate:
 &nbsp;[foot][omitting the passage, שֶׁהֵם מִשְׁתַּחֲוִים לְהֶבֶל וָרִיק, וּמִתְפַּלְּלִים אֶל אֵל לֹֹא יוֹשִׁיעַ - built from the two verses, Isaiah 30:7, "For the help of <em>Mitsrayim</em> (Egypt) shall be (הבל וריק) vain and empty ..."; and Isaiah 45:20. "... No foreknowledge had they who carry their wooden images (וּמתפּללים אל־אל לא יוֹשׁיע) and pray to a god who cannot give success." For more, refer to <a href="https://en.wikipedia.org/wiki/Aleinu#Censored_passage">this Wikipedia article</a>. --Aharon Varady, ed.][/foot]&nbsp;
 to bow, to bend, 
@@ -51,7 +53,7 @@ and on Earth below; there is none other.”[foot]Deuteronomy 4:39[/foot]
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עַל כֵּן נְקַוֶּה לְּךָ יְיָ אֱלֹהֵֽינוּ 
 לִרְאוֹת מְהֵרָה בְּתִפְאֶֽרֶת עֻזֶּֽךָ 
 לְהַעֲבִיר גִּלּוּלִים מִן הָאָֽרֶץ וְהָאֱלִילִים כָּרוֹת יִכָּרֵתוּן
@@ -71,7 +73,7 @@ and on Earth below; there is none other.”[foot]Deuteronomy 4:39[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 And so we put our hope in You, Adonai our God,
 to see your power revealed in its beauty, 
 erasing that which is wicked, that which is false. 
@@ -92,7 +94,7 @@ As the Torah teaches,
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְנֶאֱמַר:‏ 
 וְהָיָ֧ה יְהוָ֛ה לְמֶ֖לֶךְ עַל־כָּל־הָאָ֑רֶץ
 בַּיּ֣וֹם הַה֗וּא יִהְיֶ֧ה
@@ -101,7 +103,7 @@ As the Torah teaches,
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 And it is said: 
 "And Adonai shall be king over all the earth;
 In that day who Adonai is

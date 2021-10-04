@@ -12,12 +12,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ריבונו של עולם, 
 העושה שלום במרומיו,
  </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Master of the universe, 
 who makes peace on high
 </div></td>
@@ -25,7 +25,7 @@ who makes peace on high
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 אף שלא הוסמכנו לתקן תפילות – 
 אין אנו יכולים עוד להביט אל הטבח הנעשה בעולמך 
 ולא להתפלל על כך; 
@@ -34,7 +34,7 @@ who makes peace on high
 אין אנו מסוגלים לשתוק בשעה שנפגעים רבים שהם מחוץ למעגל הלחימה.
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Though we are not accustomed to new formal prayers, 
 we can no longer look at the slaughter taking place in Your world 
 and fail to pray about it. 
@@ -46,7 +46,7 @@ we are unable to keep silent when so many who are beyond the circle of conflict 
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 אנו פונים אליך בתפילה 
 כי תעורר ברוצחים את האנושיות הפשוטה 
 ואת מידת הרחמים, 
@@ -56,7 +56,7 @@ we are unable to keep silent when so many who are beyond the circle of conflict 
 ״שֹׁפֵךְ דַּם הָאָדָם בָּאָדָם דָּמוֹ יִשָּׁפֵךְ כִּי בְּצֶלֶם אֱלֹהִים עָשָׂה אֶת־הָאָדָם׃״ <span class="citation">(בראשית ט:ו)</span>
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 We beseech You in prayer 
 to arouse in the killers their basic humanity 
 and evoke mercy in their hearts, 
@@ -69,7 +69,7 @@ May You bring to pass what is written in Your Torah:
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 שלח בנו גם את התבונה לדעת 
 מה לעשות בשעה הקשה הזו, 
 בו שוב מתגלה הצד האפל שביצרם הרע של בני אדם, 
@@ -83,7 +83,7 @@ May You bring to pass what is written in Your Torah:
 כִּי אִם בְּדַם שֹׁפְכוֹ׃״ <span class="citation">(במדבר לה:לג)</span>
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Grant us the wisdom to know 
 how to act in this hour of distress, 
 when the dark face of humanity’s evil inclination is once again fully exposed 
@@ -100,14 +100,14 @@ but with the blood of he that shed it.”[foot]Numbers 35:33[/foot]
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 עושה שלום במרומיו, 
 הוא יעשה שלום עלינו, 
 ועל כל ישראל, 
 ואמרו אמן.
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 May God who makes peace on high, 
 make peace upon us 
 and upon all Israel, 

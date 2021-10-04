@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Yiddish)</th><th style="text-align: right;">Translation (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="yiddish"><span lang="he">
+<div class="yiddish" lang="yi">
 רִבּוֹנוֹ שֶׁל עוֹלָם
 רִבּוֹנוֹ שֶׁל עוֹלָם
 רִבּוֹנוֹ שֶׁל עוֹלָם
@@ -23,7 +23,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רִבּוֹנוֹ שֶׁל עוֹלָם
 רִבּוֹנוֹ שֶׁל עוֹלָם
 רִבּוֹנוֹ שֶׁל עוֹלָם
@@ -35,7 +35,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <em>Ribono shel Olam
 Ribono shel Olam
 Ribono shel Olam
@@ -48,7 +48,7 @@ you you —
 
 
 <tr><td style="vertical-align:top;">
-<div class="yiddish"><span lang="he">
+<div class="yiddish" lang="yi">
 אַיֵּה אֶמְצָאֶךָּ? 
 וְאַיֵּה לֹא אֶמְצָאֶךָּ?
 װאוּ קאַן מען דיך יאָ געפֿינען?
@@ -58,7 +58,7 @@ you you —
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אַיֵּה אֶמְצָאֶךָּ? 
 וְאַיֵּה לֹא אֶמְצָאֶךָּ?
 אָנָה אֶמְצָאֶךָּ?
@@ -68,8 +68,8 @@ you you —
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
-Where shall I seek you?[foot]cf. Proverbs 7:15. A <a href="https://www.sefaria.org/Duties_of_the_Heart%2C_First_Treatise_on_Unity.10.69?vhe=Chovat_Halevavot,_Warsaw_1875.&lang=bi">short prayer</a> on this theme in quoted in <em>Ḥovot haLevavot</em> by Bachya ibn Paquda (1050-1120): <span class="hebrew">ונאמר על קצת מן החכמים שהיה אומר בתפלתו אלהי אנה אמצאך אך אנה לא אמצאך נסתרת ולא תראה והכל ממך מלא. דומה למה שאמר יתברך אֶת־הַשָּׁמַיִם וְאֶת־הָאָרֶץ אֲנִי מָלֵא נְאֻם־יְהוָה (ירמיהו כג:כד)</span> (It is said of one of the Sages who would say in his prayer: "My <em>elo'ah</em>, where can I find you, yet where can I not find you. You are hidden and invisible yet everything is filled with you, similar to the verse "'Do I not fill heaven and earth,' says YHVH" (Jeremiah 23:24)). Note also, Song of Songs 8:1.[/foot]
+<div class="english" lang="en">
+Where shall I seek you?[foot]cf. Proverbs 7:15. A <a href="https://www.sefaria.org/Duties_of_the_Heart%2C_First_Treatise_on_Unity.10.69?vhe=Chovat_Halevavot,_Warsaw_1875.&lang=bi">short prayer</a> on this theme in quoted in <em>Ḥovot haLevavot</em> by Bachya ibn Paquda (1050-1120): <span class="hebrew" lang="he">ונאמר על קצת מן החכמים שהיה אומר בתפלתו אלהי אנה אמצאך אך אנה לא אמצאך נסתרת ולא תראה והכל ממך מלא. דומה למה שאמר יתברך אֶת־הַשָּׁמַיִם וְאֶת־הָאָרֶץ אֲנִי מָלֵא נְאֻם־יְהוָה (ירמיהו כג:כד)</span> (It is said of one of the Sages who would say in his prayer: "My <em>elo'ah</em>, where can I find you, yet where can I not find you. You are hidden and invisible yet everything is filled with you, similar to the verse "'Do I not fill heaven and earth,' says YHVH" (Jeremiah 23:24)). Note also, Song of Songs 8:1.[/foot]
 And where shall I not seek you?
 Where can I find you?
 And where can I not find you?
@@ -79,7 +79,7 @@ you you —
 
 
 <tr><td style="vertical-align:top;">
-<div class="yiddish"><span lang="he">
+<div class="yiddish" lang="yi">
 אָי, װאוּ איך געה – דוּ!
 און װאוּ איך שטעה – דוּ!
 רַק דוּ,
@@ -91,7 +91,7 @@ you you —
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אוֹי, אִם אֲנִי אֵלֵךְ – אַתָּה
 אִם אֲנִי נִשְׁאָר – אַתָּה
 רַק אַתָּה
@@ -103,7 +103,7 @@ you you —
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Oy, if I go — You![foot]cf. Megillat Yonah.[/foot] 
 If I stay — You!
 Only you.
@@ -116,7 +116,7 @@ you you!
 
 
 <tr><td style="vertical-align:top;">
-<div class="yiddish"><span lang="he">
+<div class="yiddish" lang="yi">
 איז עמעצן גוט – דוּ,
 חָלִילָה שלעכט – 
 אָי, דוּ;
@@ -125,7 +125,7 @@ you you!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כְּשֶׁזֶּה טוֹב – אַתָּה
 כְּשֶׁזֶּה, חָלִילָה, עָצוּב – 
 אוֹי, אַתָּה;
@@ -134,7 +134,7 @@ you you!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 When it's good — You,
 [When it's,] Heaven forfend, sorrow — 
 Oy, you;[foot]cf. Birkat Yotser Ohr. A statement of non-duality.[/foot]&nbsp;
@@ -144,7 +144,7 @@ You you you you you you you!
 
 
 <tr><td style="vertical-align:top;">
-<div class="yiddish"><span lang="he">
+<div class="yiddish" lang="yi">
 מִזְרָח – דוּ,
 מַעֲרָב – דוּ,
 צָפוֹן – דוּ,
@@ -155,7 +155,7 @@ You you you you you you you!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִזְרָח – אַתָּה,
 מַעֲרָב – אַתָּה,
 צָפוֹן – אַתָּה,
@@ -166,7 +166,7 @@ You you you you you you you!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 In the east: You.
 In the west: You. 
 In the north: You. 
@@ -178,7 +178,7 @@ You you you!
 
 
 <tr><td style="vertical-align:top;">
-<div class="yiddish"><span lang="he">
+<div class="yiddish" lang="yi">
 שָׁמַיִם – דוּ
 אֶרֶץ – דוּ
 מַעְלָה – דוּ
@@ -191,7 +191,7 @@ You you you!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שָׁמַיִם – אַתָּה
 אֶרֶץ – אַתָּה
 מַעְלָה – אַתָּה
@@ -204,7 +204,7 @@ You you you!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 In the Heavens: You. 
 On Earth: You.
 Above: You.
@@ -218,21 +218,21 @@ You you you!
 
 
 <tr><td style="vertical-align:top;">
-<div class="yiddish"><span lang="he">
+<div class="yiddish" lang="yi">
 װאוּ איך קער מיך
 און װאוּ איך װענד מיך –
 דוּ – דוּ!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לְאָן אֲנִי עוֹבֵר 
 וּלְאָן אֲנִי חוֹזֵר –
 אַתָּה – אַתָּה!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Where I turn to,
 And where do I return to? 
 You — you!

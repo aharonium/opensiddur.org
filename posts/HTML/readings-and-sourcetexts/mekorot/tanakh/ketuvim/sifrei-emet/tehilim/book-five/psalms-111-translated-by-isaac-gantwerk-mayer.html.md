@@ -11,14 +11,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַ֥לְלוּ יָ֨הּ ׀ 
 אוֹדֶ֣ה יְ֭הוָה בְּכָל־לֵבָ֑ב 
 בְּס֖וֹד יְשָׁרִ֣ים וְעֵדָֽה׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Halleluyah!
 All of my heart praises the <span style="text-transform: uppercase;">Cause</span>;
 bound with the upright assembly.
@@ -26,91 +26,91 @@ bound with the upright assembly.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 גְּ֭דֹלִים מַעֲשֵׂ֣י יְהוָ֑ה 
 דְּ֝רוּשִׁ֗ים לְכָל־חֶפְצֵיהֶֽם׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Colossal are the works of the <span style="text-transform: uppercase;">Cause</span>;
 delightful and ready for inquiry.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הוֹד־וְהָדָ֥ר פָּֽעֳל֑וֹ 
 וְ֝צִדְקָת֗וֹ עֹמֶ֥דֶת לָעַֽד׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 How great and how glorious Their deeds;
 forever Their righteousness will last.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 זֵ֣כֶר עָ֭שָׂה לְנִפְלְאֹתָ֑יו 
 חַנּ֖וּן וְרַח֣וּם יְהוָֽה׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Great renown Their wonders have made;
 how gracious and merciful is the <span style="text-transform: uppercase;">Cause</span>!
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 טֶ֭רֶף נָתַ֣ן לִֽירֵאָ֑יו 
 יִזְכֹּ֖ר לְעוֹלָ֣ם בְּרִיתֽוֹ׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 In awe are we of the One who gives food;
 justly reckoning the covenant forever.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כֹּ֣חַ מַ֭עֲשָׂיו הִגִּ֣יד לְעַמּ֑וֹ 
 לָתֵ֥ת לָ֝הֶ֗ם נַחֲלַ֥ת גּוֹיִֽם׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Known to Their people are Their powerful works;
 legacies of nations granted them.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מַעֲשֵׂ֣י יָ֭דָיו אֱמֶ֣ת וּמִשְׁפָּ֑ט 
 נֶ֝אֱמָנִ֗ים כָּל־פִּקּוּדָֽיו׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Made in Their hands: truth and justice;
 never to fail: Their precepts.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 סְמוּכִ֣ים לָעַ֣ד לְעוֹלָ֑ם 
 עֲ֝שׂוּיִ֗ם בֶּאֱמֶ֥ת וְיָשָֽׁר׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Onwards they stand forever,
 produced of truth and 
 quality of right.
@@ -118,13 +118,13 @@ quality of right.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 פְּד֤וּת ׀ שָׁ֘לַ֤ח לְעַמּ֗וֹ צִוָּֽה־לְעוֹלָ֥ם בְּרִית֑וֹ 
 קָד֖וֹשׁ וְנוֹרָ֣א שְׁמֽוֹ׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Redemption They sent to Their people,
 stipulating Their covenant forever - 
 truly, holy and awesome -
@@ -133,14 +133,14 @@ unspeakable! their Name.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רֵ֘אשִׁ֤ית חָכְמָ֨ה ׀ יִרְאַ֬ת יְהוָ֗ה 
 שֵׂ֣כֶל ט֭וֹב לְכָל־עֹשֵׂיהֶ֑ם 
 תְּ֝הִלָּת֗וֹ עֹמֶ֥דֶת לָעַֽד׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Venerating the <span style="text-transform: uppercase;">Cause</span> -
 wisdom begins;
 xtensive understanding 

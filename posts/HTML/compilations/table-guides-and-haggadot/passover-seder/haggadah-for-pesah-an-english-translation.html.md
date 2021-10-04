@@ -11,18 +11,18 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בְּדִיקַת חָמֵץ
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <h3>Search for Leaven</h3>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה
 יְיָ אֱלֹהֵֽינוּ 
 מֶֽלֶךְ הָעוֹלָם
@@ -31,7 +31,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Blessed are You, 
 Adonai, our God, 
 Sovereign of the universe, 
@@ -41,51 +41,51 @@ and commanded us regarding the elimination of leaven.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כָׇּל־חֲמִירָא וַחֲמִיעָא דְאִכָּא בִרְשׁוּתִי דְּלָא חֲמִתֵּהּ וּדְלָא בַּעֲרִתֵּהּ לִבְטִיל וְלֶהֱוֵי כְּעַפְרָא דְאַרְעָא
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Let any fermentation or leaven in my possession that I have not noticed and have not eliminated be nullified and become as the dust of the earth.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בִּיעוּר חָמֵץ
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <h3>Elimination of Leaven</h3>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כָׇּל־חֲמִירָא וַחֲמִיעָא דְּאִכָּא בִרְשׁוּתִי דַּחֲמִתֵּהּ וּדְלָא חֲמִתֵּהּ דְּבַעֲרִתֵּהּ וּדְלָא בַעֲרִתֵּהּ לִבְטִיל וְלֶהֱוֵי כְּעַפְרָא דְאַרְעָא׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Let any fermentation or leaven in my possession, whether or not I have noticed it and whether or not I have eliminated it, be nullified and become as the dust of the earth.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עֵירוּב תַּבְשִׁילִין
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <h3>Mingling of Foods</h3>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה
 יְיָ אֱלֹהֵֽינוּ 
 מֶֽלֶךְ הָעוֹלָם 
@@ -94,7 +94,7 @@ Let any fermentation or leaven in my possession, whether or not I have noticed i
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Blessed are You, 
 Adonai, our God, 
 Sovereign of the universe, 
@@ -104,29 +104,29 @@ and commanded us regarding the commandment of “mingling.”
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בַּהֲדֵין עֵרוּבָא יְהֵא שָׁרֵא לָֽנָא לְמֵיפֵא וּלְבַשָּׁלָא וּלְאַטְמָנָא וּלְאַדְלָקָא שְׁרָגָא וּלְמֶעְבַּד כׇּל־צָרְכָּנָא מִיּוֹמָא טָבָא לְשַׁבְּתָא לָֽנוּ וּלְכָׇל־הַדָּרִים בָּעִיר הַזֹּאת׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 By means of this “mingling,” let it be permissible for us to bake, cook, insulate hot foods, transfer fire, and tend to all our needs during the festival for the Sabbath---for us and for all who reside in this city.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 סִימָן לְמָעֲשִׂים סְדוּרִים, אל ליל שמורים.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <h3>Parts of the Seder</h3>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 קַדֵּשׁ
 וּרְחַץ.
 כַּרְפַּס
@@ -144,7 +144,7 @@ By means of this “mingling,” let it be permissible for us to bake, cook, ins
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Sanctification of the Day over Wine.
 Preliminary Hand Washing.
 Eating a Vegetable.
@@ -163,18 +163,18 @@ Concluding Songs.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 קַדֵּשׁ
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <h3>Sanctification of the Day</h3>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 &nbsp;
 וַֽיְהִי־עֶ֥רֶב וַֽיְהִי־בֹ֖קֶר
@@ -185,7 +185,7 @@ Concluding Songs.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">(On Shabbat begin here.)</span>
 &nbsp;
 <span class="instruction">(Recite quietly:)</span> And there was evening and there was morning,
@@ -197,7 +197,7 @@ And God blessed the seventh day and sanctified it, for on it He rested from all 
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 סָבְרִי מָרָנָן וֽרָבָּנָן וֽרָבּוֹתָי
 &nbsp;
 בָּרוּךְ אַתָּה
@@ -207,7 +207,7 @@ And God blessed the seventh day and sanctified it, for on it He rested from all 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 (<span class="instruction">On Yom Tov begin here:)</span> Attention, everyone!
 &nbsp;
 Blessed are You, 
@@ -218,7 +218,7 @@ creator of the fruit of the vine.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה
 יְיָ אֱלֹהֵֽינוּ 
 מֶֽלֶךְ הָעוֹלָם
@@ -255,7 +255,7 @@ creator of the fruit of the vine.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Blessed are You, 
 Adonai, our God, 
 Sovereign of the universe, 
@@ -293,7 +293,7 @@ Israel and the seasons.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 &nbsp;
 בָּרוּךְ אַתָּה
@@ -317,7 +317,7 @@ Israel and the seasons.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">(Recite on Saturday night:)</span> 
 &nbsp;
 Blessed are You, 
@@ -342,7 +342,7 @@ who separates one sanctum from another.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה
 יְיָ אֱלֹהֵֽינוּ 
 מֶֽלֶךְ הָעוֹלָם
@@ -352,7 +352,7 @@ who separates one sanctum from another.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Blessed are You, 
 Adonai, our God, 
 Sovereign of the universe, 
@@ -365,12 +365,12 @@ and brought us to this season.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּרְחַץ
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <h3>Preliminary Hand Washing</h3>
 &nbsp;
 <span class="instruction">(Wash hands without a blessing.)</span>
@@ -378,18 +378,18 @@ and brought us to this season.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כַּרְפַּס
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <h3>Eating a Vegetable</h3>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 &nbsp;
 בָּרוּךְ אַתָּה
@@ -399,7 +399,7 @@ and brought us to this season.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">(Dip a vegetable in salt water and recite:)</span>
 &nbsp;
 Blessed are You, 
@@ -410,30 +410,30 @@ creator of the fruit of the earth.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יַחַץ
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <h3>Breaking the Middle Matzah</h3>
 <span class="instruction">(Break the middle matzah and set the larger piece aside to hide as an <em>afikoman</em>.)</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מַגִּיד
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <h3>Discussing the Exodus</h3>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 &nbsp;
 הָא לַחְמָא עַנְיָא
@@ -450,7 +450,7 @@ creator of the fruit of the earth.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">(Uncover the matzot , lift the egg and shank bone, and recite:)</span>
 &nbsp;
 This is the bread of poverty 
@@ -468,7 +468,7 @@ next year, may we be free.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 &nbsp;
 מַה נִשְׁתַּנָּה הַלַּיְלָה הַזֶּה
@@ -496,7 +496,7 @@ next year, may we be free.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">(The youngest person present who is able recites:)</span>
 &nbsp;
 How different this night is 
@@ -527,7 +527,7 @@ we all recline.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עֲבָדִים הָיִינוּ
 לְפַרְעֹה בְּמִצְרָיִם.
 וַיּוֹצִיאֵנוּ יְיָ אֱלֹהֵינוּ מִשָּׁם
@@ -555,7 +555,7 @@ we all recline.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 We were slaves 
 to Pharaoh in Egypt,
 and Adonai, our God, brought us out from there 
@@ -584,7 +584,7 @@ is worthy of praise.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מַעֲשֶׂה
 בְּרַבִּי אֱלִיעֶזֶר
 וְרַבִּי יְהוֹשֻׁעַ
@@ -602,7 +602,7 @@ is worthy of praise.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 A tale is told 
 of Rabbi Eliezer, 
 Rabbi Joshua, 
@@ -621,7 +621,7 @@ to recite the morning <em>shema</em>.”
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָמַר רַבִּי אֶלְעָזָר בֶּן עֲזַרְיָה.
 הֲרֵי אֲנִי כְּבֶן שִׁבְעִים שָׁנָה.
 וְלֹא זָכִיתִי
@@ -642,7 +642,7 @@ to recite the morning <em>shema</em>.”
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Rabbi Elazar son of Azariah said:
 I am about seventy years old,
 but I did not understand 
@@ -664,7 +664,7 @@ includes the messianic era as well.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ הַמָּקוֹם
 בָּרוּךְ הוּא.
 בָּרוּךְ שֶׁנָּתַן תּוֹרָה לְעַמּוֹ יִשְׂרָאֵל.
@@ -672,7 +672,7 @@ includes the messianic era as well.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Blessed is the Omnipresent; 
 Blessed is He.
 Blessed is the One Who gave the Torah to His people Israel; 
@@ -681,7 +681,7 @@ Blessed is He.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כְּנֶגֶד אַרְבָּעָה בָנִים דִּבְּרָה תוֹרָה.
 אֶחָד חָכָם.
 וְאֶחָד רָשָׁע.
@@ -690,7 +690,7 @@ Blessed is He.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 The Torah teaches of four children:
 A wise one,
 a wicked one,
@@ -700,7 +700,7 @@ and one who does not know enough to ask.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 חָכָם מַה הוּא אוֹמֵר
 מָ֣ה הָעֵדֹ֗ת וְהַֽחֻקִּים֙ וְהַמִּשְׁפָּטִ֔ים אֲשֶׁ֥ר צִוָּ֛ה יְהוָ֥ה אֱלֹהֵ֖ינוּ אֶתְכֶֽם
 וְאַף אַתָּה אֱמָׇר־לוֹ
@@ -711,7 +711,7 @@ and one who does not know enough to ask.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 What does the wise one say? 
 “What are the testimonies, laws, and statutes that the Lord, our God, commanded us [you]?"[foot]Deut. 6:20[/foot]
 You shall teach him 
@@ -723,7 +723,7 @@ with entertainment.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רָשָׁע מַה הוּא אוֹמֵר
 מָ֛ה הָעֲבֹדָ֥ה הַזֹּ֖את לָכֶֽם
 לָכֶם
@@ -741,7 +741,7 @@ with entertainment.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 What does the wicked one say? 
 “What is this service to you?”[foot]Exod. 12:26[/foot]
 He refers to “you” 
@@ -760,7 +760,7 @@ he would not have been redeemed.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 תָּם מַה הוּא אוֹמֵר
 מַה־זֹּ֑את
 וְאָמַרְתָּ אֵלָיו
@@ -770,7 +770,7 @@ he would not have been redeemed.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 What does the simple-minded one say? 
 “What is this?”[foot]Exod. 13:14[/foot]
 You shall say to him: 
@@ -781,7 +781,7 @@ the house of bondage.”
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְשֶׁאֵינוֹ יוֹדֵעַ לִשְׁאוֹל
 אַתָּה פְּתַח לוֹ.
 שֶׁנֶּאֱמַר
@@ -789,7 +789,7 @@ the house of bondage.”
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 And as for the one who does not know enough to ask, 
 you should open the discussion for him,
 as the Torah says: 
@@ -798,7 +798,7 @@ as the Torah says:
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יָכוֹל מֵרֹאשׁ חֹדֶשׁ.
 תַּלְמוּד לוֹמַר
 בַּיּוֹם הַהוּא.
@@ -813,7 +813,7 @@ as the Torah says:
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 One might have thought that [the commandment to discuss the exodus could be fulfilled from at any time] from the first of the month [of Nisan, onward].
 Therefore, we need the words 
 “on that day”[foot]Exodus 13:8[/foot] [to teach us that the commandment applies to the specific day on which the Exodus took place, that is, the fifteenth of Nisan.]
@@ -829,7 +829,7 @@ lie before you, [since the term “this" must refer to something in the speaker'
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִתְּחִלָּה
 עוֹבְדֵי עֲבוֹדָה זָרָה הָיוּ אֲבוֹתֵינוּ
 וְעַכְשָׁיו
@@ -839,7 +839,7 @@ lie before you, [since the term “this" must refer to something in the speaker'
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 In the beginning, 
 our ancestors were worshippers of foreign gods, 
 but now 
@@ -851,7 +851,7 @@ I took your ancestor Abraham from the other side of the river, and I led him thr
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ שׁוֹמֵר הַבְטָחָתוֹ לְיִשְׂרָאֵל.
 בָּרוּךְ הוּא.
 שֶׁהַקָּדוֹשׁ בָּרוּךְ הוּא
@@ -864,7 +864,7 @@ I took your ancestor Abraham from the other side of the river, and I led him thr
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Blessed be the One who keeps His promise to Israel,
 blessed be He.
 For the blessed Holy One 
@@ -878,7 +878,7 @@ as scripture relates:
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 &nbsp;
 וְהִיא שֶׁעָמְדָה לַאֲבוֹתֵינוּ וְלָנוּ.
@@ -892,7 +892,7 @@ as scripture relates:
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">(Cover the matzot, raise the cup and recite:)</span> 
 &nbsp;
 That which stood for our ancestors applies to us as well.
@@ -909,7 +909,7 @@ redeems us from their hands.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 צֵא וּלְמַד.
 מַה בִּקֵּשׁ לָבָן הָאֲרַמִּי
 לַעֲשׂוֹת לְיַעֲקֹב אָבִינוּ.
@@ -922,7 +922,7 @@ redeems us from their hands.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Go forth and learn
 what Lavan the Aramean 
 sought to do to Jacob, our ancestor.
@@ -936,20 +936,20 @@ as scripture relates:
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וַיֵּ֣רֶד מִצְרַ֔יְמָה.
 אָנוּס עַל פִּי הַדִּבּוּר׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 “He went down to Egypt:”
 He was compelled by the word [of God].
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וַיָּ֥גׇר שָׁ֖ם.
 מְלַמֵּד
 שֶׁלֹּא יָרַד יַעֲקֹב אָבִינוּ
@@ -960,7 +960,7 @@ He was compelled by the word [of God].
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 “And he sojourned there:”
 This teaches 
 that Yaakov did not go down 
@@ -972,14 +972,14 @@ as scripture relates:
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בִּמְתֵ֣י מְעָ֑ט.
 כְּמָה שֶׁנֶּאֱמַר
 בְּשִׁבְעִ֣ים נֶ֔פֶשׁ יָרְד֥וּ אֲבֹתֶ֖יךָ מִצְרָ֑יְמָה וְעַתָּ֗ה שָֽׂמְךָ֙ יְהוָ֣ה אֱלֹהֶ֔יךָ כְּכוֹכְבֵ֥י הַשָּׁמַ֖יִם לָרֹֽב׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 “Few in number:”
 As scripture relates: 
 “When your ancestors went down to Egypt there were seventy of them, and now Adonai, your God, has made you as numerous as the stars in the heavens.”[foot]Deut. 10:22[/foot]
@@ -987,14 +987,14 @@ As scripture relates:
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וַֽיְהִי־שָׁ֕ם לְג֥וֹי גָּד֖וֹל.
 מְלַמֵּד
 שֶׁהָיוּ יִשְׂרָאֵל מְצֻיָּנִים שָׁם׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 “And they became a nation there:”
 This teaches 
 that the Israelites were distinct there.
@@ -1002,14 +1002,14 @@ that the Israelites were distinct there.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עָצ֥וּם.
 כְּמָה שֶׁנֶּאֱמַר
 וּבְנֵ֣י יִשְׂרָאֵ֗ל פָּר֧וּ וַֽיִּשְׁרְצ֛וּ וַיִּרְבּ֥וּ וַיַּֽעַצְמ֖וּ בִּמְאֹ֣ד מְאֹ֑ד וַתִּמָּלֵ֥א הָאָ֖רֶץ אֹתָֽם׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 “Mighty:”
 As scripture relates: 
 “And the Israelites were fruitful and swarmed and multiplied and became exceedingly mighty, and the land was filled with them.”[foot]Exodus 1:7[/foot]
@@ -1017,14 +1017,14 @@ As scripture relates:
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וָרָֽב.
 כְּמָה שֶׁנֶּאֱמַר
 רְבָבָ֗ה כְּצֶ֤מַח הַשָּׂדֶה֙ נְתַתִּ֔יךְ וַתִּרְבִּי֙ וַֽתִּגְדְּלִ֔י וַתָּבֹ֖אִי בַּעֲדִ֣י עֲדָיִ֑ים שָׁדַ֤יִם נָכֹ֙נוּ֙ וּשְׂעָרֵ֣ךְ צִמֵּ֔חַ וְאַ֖תְּ עֵרֹ֥ם וְעֶרְיָֽה׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 “And populous:”
 As scripture relates: 
 “I made you abundant as the growth of the field, and you have became plentiful and grew and became very beautiful: your breasts formed and your hair sprouted, yet you were naked and bare.”[foot]Ezekiel 16:7[/foot]
@@ -1032,25 +1032,25 @@ As scripture relates:
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וַיָּרֵ֧עוּ אֹתָ֛נוּ הַמִּצְרִ֖ים וַיְעַנּ֑וּנוּ וַיִּתְּנ֥וּ עָלֵ֖ינוּ עֲבֹדָ֥ה קָשָֽׁה׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 “The Egyptians treated us harshly [<em>or</em>: vilified us] and afflicted us, and they set hard labor upon us.”[foot]Deut. 26:6[/foot]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וַיָּרֵ֧עוּ אֹתָ֛נוּ הַמִּצְרִ֖ים.
 כְּמָה שֶׁנֶּאֱמַר
 הָ֥בָה נִֽתְחַכְּמָ֖ה ל֑וֹ פֶּן־יִרְבֶּ֗ה וְהָיָ֞ה כִּֽי־תִקְרֶ֤אנָה מִלְחָמָה֙ וְנוֹסַ֤ף גַּם־הוּא֙ עַל־שֹׂ֣נְאֵ֔ינוּ וְנִלְחַם־בָּ֖נוּ וְעָלָ֥ה מִן־הָאָֽרֶץ׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 “The Egyptians vilified us:”
 As scripture relates: 
 [Pharaoh said,] “Come, let us deal wisely with them, lest they multiply and join our enemies when war comes, and fight against us, and leave the land.”[foot]Exodus 1:10[/foot]
@@ -1058,14 +1058,14 @@ As scripture relates:
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וַיְעַנּ֑וּנוּ.
 כְּמָה שֶׁנֶּאֱמַר.
 וַיָּשִׂ֤ימוּ עָלָיו֙ שָׂרֵ֣י מִסִּ֔ים לְמַ֥עַן עַנֹּת֖וֹ בְּסִבְלֹתָ֑ם וַיִּ֜בֶן עָרֵ֤י מִסְכְּנוֹת֙ לְפַרְעֹ֔ה אֶת־פִּתֹ֖ם וְאֶת־רַעַמְסֵֽס׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 “And afflicted us:”
 As scripture relates: 
 “They placed taskmasters over them in order to afflict them with their burdens, and they built storage cities for Pharaoh, [called] Pithom and Ramses.”[foot]Exodus 1:11[/foot]
@@ -1073,14 +1073,14 @@ As scripture relates:
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וַיִּתְּנ֥וּ עָלֵ֖ינוּ עֲבֹדָ֥ה קָשָֽׁה.
 כְּמָה שֶׁנֶּאֱמַר
 וַיַּעֲבִ֧דוּ מִצְרַ֛יִם אֶת־בְּנֵ֥י יִשְׂרָאֵ֖ל בְּפָֽרֶךְ׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 “And they set hard labor upon us:”
 As scripture relates: 
 “The Egyptians worked the Israelites severely.”[foot]Exodus 1:13[/foot]
@@ -1088,25 +1088,25 @@ As scripture relates:
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וַנִּצְעַ֕ק אֶל־יְהוָ֖ה אֱלֹהֵ֣י אֲבֹתֵ֑ינוּ וַיִּשְׁמַ֤ע יְהוָה֙ אֶת־קֹלֵ֔נוּ וַיַּ֧רְא אֶת־עׇנְיֵ֛נוּ וְאֶת־עֲמָלֵ֖נוּ וְאֶת־לַחֲצֵֽנוּ׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 “We cried out to Adonai, God of our ancestors, and Adonai heard our voice and saw our suffering, our burden, and our oppression.”[foot]Deut 26:7[/foot]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וַנִּצְעַ֕ק אֶל־יְהוָ֖ה אֱלֹהֵ֣י אֲבֹתֵ֑ינוּ.
 כְּמָה שֶׁנֶּאֱמַר
 וַיְהִי֩ בַיָּמִ֨ים הָֽרַבִּ֜ים הָהֵ֗ם וַיָּ֙מׇת֙ מֶ֣לֶךְ מִצְרַ֔יִם וַיֵּאָנְח֧וּ בְנֵֽי־יִשְׂרָאֵ֛ל מִן־הָעֲבֹדָ֖ה וַיִּזְעָ֑קוּ וַתַּ֧עַל שַׁוְעָתָ֛ם אֶל־הָאֱלֹהִ֖ים מִן־הָעֲבֹדָֽה׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 “We cried out to Adonai, God of our ancestors:”
 As scripture relates: 
 “Eventually, the king of Egypt died, and the Israelites sighed from their labor and cried out, and their plea for rescue from their labor reached God.”[foot]Exodus 2:23[/foot]
@@ -1114,7 +1114,7 @@ As scripture relates:
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וַיִּשְׁמַ֤ע יְהוָה֙ אֶת־קֹלֵ֔נוּ.
 כְּמָה שֶׁנֶּאֱמַר
 וַיִּשְׁמַ֥ע אֱלֹהִ֖ים אֶת־נַאֲקָתָ֑ם וַיִּזְכֹּ֤ר אֱלֹהִים֙ אֶת־בְּרִית֔וֹ אֶת־אַבְרָהָ֖ם אֶת־יִצְחָ֥ק וְאֶֽת־יַעֲקֹֽב
@@ -1122,7 +1122,7 @@ As scripture relates:
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 “And Adonai heard our voice:”
 As scripture relates: 
 “And God heard their groaning, and God remembered His covenant with Abraham, Isaac, and Jacob.”[foot]Exodus 2:24[/foot]
@@ -1130,7 +1130,7 @@ As scripture relates:
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וַיַּ֧רְא אֶת־עׇנְיֵ֛נוּ.
 זוּ פְּרִישׁוּת דֶּרֶךְ אֶרֶץ.
 כְּמָה שֶׁנֶּאֱמַר
@@ -1138,7 +1138,7 @@ As scripture relates:
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 “And saw our affliction:”
 This refers to the separation of men and women,
 as scripture relates: 
@@ -1147,7 +1147,7 @@ as scripture relates:
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְאֶת־עֲמָלֵ֖נוּ.
 אֶלּוּ הַבָּנִים.
 כְּמָה שֶׁנֶּאֱמַר
@@ -1155,7 +1155,7 @@ as scripture relates:
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 “Our burden:”
 This refers to the sons,
 as scripture relates: 
@@ -1164,7 +1164,7 @@ as scripture relates:
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְאֶת־לַחֲצֵֽנוּ.
 זֶה הַדְּחָק.
 כְּמָה שֶׁנֶּאֱמַר
@@ -1172,7 +1172,7 @@ as scripture relates:
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 “And our oppression:”
 This refers to the persecution,
 as scripture relates:
@@ -1181,18 +1181,18 @@ as scripture relates:
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וַיּוֹצִאֵ֤נוּ יְהוָה֙ מִמִּצְרַ֔יִם בְּיָ֤ד חֲזָקָה֙ וּבִזְרֹ֣עַ נְטוּיָ֔ה וּבְמֹרָ֖א גָּדֹ֑ל וּבְאֹת֖וֹת וּבְמֹפְתִֽים
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 “And Adonai brought us out of Egypt with a strong hand and an outstretched arm and with great fearsomeness, and with signs and wonders.”[foot]Deut. 26:8[/foot]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וַיּוֹצִאֵ֤נוּ יְהוָה֙ מִמִּצְרַ֔יִם.
 לֹא עַל יְדֵי מַלְאָךְ.
 וְלֹא עַל יְדֵי שָׂרָף.
@@ -1205,7 +1205,7 @@ as scripture relates:
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 “And Adonai brought us out of Egypt:”
 Not by an angel
 and not by a Saraf [fiery angel],
@@ -1218,7 +1218,7 @@ as scripture relates:
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְעָבַרְתִּ֣י בְאֶֽרֶץ־מִצְרַיִם֮.
 אֲנִי וְלֹא מַלְאָךְ.
 וְהִכֵּיתִ֤י כָׇל־בְּכוֹר֙.
@@ -1230,7 +1230,7 @@ as scripture relates:
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 [This verse can be explained as follows:] “I will pass through the land of Egypt:”
 I, and not an angel.
 “and I will smite every firstborn:”
@@ -1243,7 +1243,7 @@ I am He, and no other.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בְּיָ֤ד חֲזָקָה֙.
 זוּ הַדֶּבֶר.
 כְּמָה שֶׁנֶּאֱמַר
@@ -1251,7 +1251,7 @@ I am He, and no other.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 “With a strong hand:”
 This refers to the disease [of livestock],
 as scripture relates: 
@@ -1260,7 +1260,7 @@ as scripture relates:
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּבִזְרֹ֣עַ נְטוּיָ֔ה
 זוּ הַחֶרֶב.
 כְּמָה שֶׁנֶּאֱמַר
@@ -1269,7 +1269,7 @@ as scripture relates:
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 “And with an outstretched arm:” 
 This refers to the sword,
 as scripture relates: 
@@ -1278,7 +1278,7 @@ as scripture relates:
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּבְמֹרָ֖א גָּדֹ֑ל
 זוּ גִּלּוּי שְׁכִינָה.
 כְּמָה שֶׁנֶּאֱמַר
@@ -1286,7 +1286,7 @@ as scripture relates:
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 “with great fearsomeness:”
 This refers to the revelation of the divine presence,
 as scripture relates: 
@@ -1295,7 +1295,7 @@ as scripture relates:
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּבְאֹת֖וֹת.
 זֶה הַמַּטֶּה.
 כְּמָה שֶׁנֶּאֱמַר
@@ -1303,7 +1303,7 @@ as scripture relates:
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 “And with signs:”
 This refers to [Moses’] staff,
 as scripture relates:
@@ -1312,7 +1312,7 @@ as scripture relates:
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּבְמֹפְתִֽים
 זֶה הַדָּם.
 כְּמָה שֶׁנֶּאֱמַר
@@ -1323,7 +1323,7 @@ as scripture relates:
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 “And with wonders:”
 This refers to the [plague of] blood,
 as scripture relates: 
@@ -1335,7 +1335,7 @@ and pillars of smoke.”[foot]Joel 3:3[/foot]
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 דָּבָר אַחֵר.
 בְּיָד חֲזָקָה
 שְׁתַּיִם.
@@ -1350,7 +1350,7 @@ and pillars of smoke.”[foot]Joel 3:3[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Another interpretation:
 “With a strong hand:” 
 Two [plagues].
@@ -1366,7 +1366,7 @@ Two [plagues].
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֵלּוּ עֶשֶׂר מַכּוֹת
 שֶׁהֵבִיא הַקָּדוֹשׁ בָּרוּךְ הוּא
 עַל הַמִּצְרִיִּם בְּמִצְרַיִם׃
@@ -1386,7 +1386,7 @@ Two [plagues].
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 These are the ten plagues 
 that the blessed Holy One brought 
 against the Egyptians in Egypt, 
@@ -1406,7 +1406,7 @@ the death of the firstborn.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רַבִּי יְהוּדָה
 הָיָה נוֹתֵן בָּהֶם סִמָּנִים.
 דְּצַ״ךְ 
@@ -1415,7 +1415,7 @@ the death of the firstborn.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Rabbi Judah 
 had an acronym for them:
 DeTsaKh
@@ -1425,7 +1425,7 @@ BeAChaV.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רַבִּי יוֹסֵי הַגְּלִילִי אוֹמֵר
 מִנַּיִן אַתָּה אוֹמֵר
 שֶׁלָּקוּ הַמִּצְרִיִּם בְּמִצְרַיִם עֶשֶׂר מַכּוֹת.
@@ -1447,7 +1447,7 @@ BeAChaV.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Rabbi Yose the Galilean said:
 How do we know 
 that the Egyptians were afflicted by ten plagues in Egypt
@@ -1470,7 +1470,7 @@ with fifty plagues.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רַבִּי אֱלִיעֶזֶר אוֹמֵר.
 מִנַּיִן שֶׁכָׇּל מַכָּה וּמַכָּה
 שֶׁהֵבִיא הַקָּדוֹשׁ בָּרוּךְ הוּא
@@ -1494,7 +1494,7 @@ with fifty plagues.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Rabbi Eliezer said:
 How do we know that each and every plague 
 that the blessed Holy One brought 
@@ -1519,7 +1519,7 @@ with two hundred plagues.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רַבִּי עֲקִיבָא אוֹמֵר.
 מִנַּיִן
 שֶׁכׇּל מַכָּה וּמַכָּה
@@ -1546,7 +1546,7 @@ with two hundred plagues.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Rabbi Akiva said:
 How do we know 
 that each and every plague 
@@ -1574,7 +1574,7 @@ with two hundred fifty plagues.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כַּמָּה מַעֲלוֹת טוֹבוֹת לַמָּקוֹם עָלֵינוּ
 &nbsp;
 אִלּוּ הוֹצִיאָנוּ מִמִּצְרַיִם.
@@ -1635,7 +1635,7 @@ with two hundred fifty plagues.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 What favor the Omnipresent has shown us!
 &nbsp;
 If He had brought us out of Egypt
@@ -1697,7 +1697,7 @@ it would have been enough for us!
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עַל אַחַת כַּמָּה וְכַמָּה טוֹבָה כְפוּלָה וּמְכֻפֶּלֶת לַמָּקוֹם עָלֵינוּ.
 שֶׁהוֹצִיאָנוּ מִמִּצְרַיִם.
 וְעָשָׂה בָהֶם שְׁפָטִים.
@@ -1718,7 +1718,7 @@ it would have been enough for us!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 What abundant, manifold goodness the Omnipresent has shown us!
 He brought us out of Egypt,
 and executed judgments against [the Egyptians],
@@ -1740,7 +1740,7 @@ to atone for all our transgressions.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רַבָּן גַּמְלִיאֵל הָיָה אוֹמֵר.
 כָׇּל שֶׁלֹּא אָמַר
 שְׁלֹשָׁה דְבָרִים אֵלּוּ
@@ -1753,7 +1753,7 @@ to atone for all our transgressions.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Rabban Gamliel would say:
 Anyone who does not mention 
 these three things 
@@ -1767,7 +1767,7 @@ and the bitter herbs.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 פֶּסַח
 שֶׁהָיוּ אֲבוֹתֵינוּ אוֹכְלִים
 בַּזְּמַן שֶׁבֵּית הַמִּקְדָּשׁ קַיָּם.
@@ -1780,7 +1780,7 @@ and the bitter herbs.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 The Passover offering 
 that our ancestors would eat 
 at the time that temple stood,
@@ -1794,7 +1794,7 @@ as scripture relates:
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מַצָּה זוּ
 שֶׁאָנוּ אוֹכְלִים
 עַל שׁוּם מָה.
@@ -1810,7 +1810,7 @@ as scripture relates:
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 The matzah 
 that we eat, 
 what does it represent?
@@ -1827,7 +1827,7 @@ As scripture relates:
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מָרוֹר זֶה
 שֶׁאָנוּ אוֹכְלִים
 עַל שׁוּם מָה.
@@ -1840,7 +1840,7 @@ As scripture relates:
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 The bitter herbs 
 that we eat, 
 what do they represent?
@@ -1854,7 +1854,7 @@ as scripture relates:
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בְּכָׇל דּוֹר וָדוֹר
 חַיָּב אָדָם
 לִרְאוֹת אֶת עַצְמוֹ
@@ -1871,7 +1871,7 @@ as scripture relates:
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 In every generation 
 one must 
 view oneself 
@@ -1889,7 +1889,7 @@ as scripture says:
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לְפִיכָךְ
 אֲנַחְנוּ חַיָּבִים
 לְהוֹדוֹת
@@ -1916,7 +1916,7 @@ as scripture says:
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Therefore, 
 we are obligated 
 to thank, 
@@ -1944,7 +1944,7 @@ Hallelu-Yah!
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַ֥לֲלוּ יָ֨הּ ׀
 הַ֭לֲל֖וּ עַבְדֵ֣י יהו֑ה 
 הַֽ֝לֲל֗וּ אֶת־שֵׁ֥ם יהוֽה׃
@@ -1968,7 +1968,7 @@ Hallelu-Yah!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Praise Yah! 
 Praise, servants of Adonai —
 Praise the name of Adonai!
@@ -1993,7 +1993,7 @@ Praise Yah![foot]Psalms 113[/foot]
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בְּצֵ֣את יִ֭שְׂרָאֵ֖ל מִמִּצְרָ֑יִם 
 בֵּ֥ית יַ֝עֲקֹ֗ב מֵעַ֥ם לֹעֵֽז׃
 הָיְתָ֣ה יְהוּדָ֣ה לְקָדְשׁ֑וֹ 
@@ -2013,7 +2013,7 @@ Praise Yah![foot]Psalms 113[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 When Israel left Egypt,
 the house of Jacob from a foreign land,
 Judah became His holy one,
@@ -2034,7 +2034,7 @@ flint into a spring of water.[foot]Psalms 114[/foot]
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה
 יְיָ אֱלֹהֵֽינוּ 
 מֶֽלֶךְ הָעוֹלָם
@@ -2065,7 +2065,7 @@ flint into a spring of water.[foot]Psalms 114[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Blessed are You, 
 Adonai, our God, 
 Sovereign of the universe,
@@ -2097,7 +2097,7 @@ Redeemer of Israel.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 &nbsp;
 בָּרוּךְ אַתָּה
@@ -2107,7 +2107,7 @@ Redeemer of Israel.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">(Drink the second cup of wine while leaning to the left.)</span> 
 &nbsp;
 Blessed are You, 
@@ -2118,18 +2118,18 @@ creator of the fruit of the vine.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רַחַץ
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <h3>Hand-Washing before the Meal</h3>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 &nbsp;
 בָּרוּךְ אַתָּה
@@ -2140,7 +2140,7 @@ creator of the fruit of the vine.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">(Wash hands and recite the following blessing.)</span>
 &nbsp;
 Blessed are You, 
@@ -2152,12 +2152,12 @@ and commanded us regarding hand-washing.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מוֹצִיא מַצָּה
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <h3>Eating the Matzah</h3>
 &nbsp;
 <span class="instruction">(Take the three matzot, holding the broken one between the two whole ones, and hold them while reciting the following two blessings. Have in mind that the hamotzi blessing refers to the top matzah and the "al achilat matzah" blessing refers to the broken one. After reciting the two blessings, take a "kezayit"-sized piece of the top matzah and a "kezayit"-sized piece of the middle matzah, dip them in salt, and eat both pieces together. If you can't fit both in your mouth, eat the one from the top matzah first and the one from the broken matzah second.)</span>
@@ -2165,7 +2165,7 @@ and commanded us regarding hand-washing.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה
 יְיָ אֱלֹהֵֽינוּ 
 מֶֽלֶךְ הָעוֹלָם
@@ -2179,7 +2179,7 @@ and commanded us regarding hand-washing.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Blessed are You, 
 Adonai, our God, 
 Sovereign of the universe, 
@@ -2194,12 +2194,12 @@ and commanded us regarding the eating of matzah.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מָרוֹר
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <h3>Eating the Bitter Herb</h3>
 &nbsp;
 <span class="instruction">(Take a kezayit-sized portion of bitter herb, roll it around some charoset, and recite the following blessing. Eat the bitter herbs without leaning to the left.)</span>
@@ -2207,7 +2207,7 @@ and commanded us regarding the eating of matzah.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה
 יְיָ אֱלֹהֵֽינוּ 
 מֶֽלֶךְ הָעוֹלָם
@@ -2216,7 +2216,7 @@ and commanded us regarding the eating of matzah.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Blessed are You, 
 Adonai, our God, 
 Sovereign of the universe, 
@@ -2226,12 +2226,12 @@ and commanded us regarding the eating of bitter herbs.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כּוֹרֵךְ
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <h3>Eating the “Hillel Sandwich"</h3>
 &nbsp;
 <span class="instruction">(Take a kezayit-sized portion of the third (bottom) matzah and a kezayit-sized portion of chazeret and make a sandwich. Eatthe sandwich while leaning to the left after reciting the following:)</span>
@@ -2239,7 +2239,7 @@ and commanded us regarding the eating of bitter herbs.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 זֶכֶר לְמִקְדָּשׁ כְּהִלֵּל׃
 כֵּן עָשָׂה הִלֵּל
 בַּזְּמַן שֶׁבֵּית הַמִּקְדָּשׁ קַיָּם.
@@ -2253,7 +2253,7 @@ and commanded us regarding the eating of bitter herbs.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 In memory of the Temple, 
 in accordance with the custom of Hillel:
 This is what Hillel used to do when the temple stood:
@@ -2268,12 +2268,12 @@ in order to fulfill literally that which is written in scripture:
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שֻׁלְחָן עוֹרֵךְ
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <h3>Eating a festive meal</h3>
 &nbsp;
 <span class="instruction">(Eat, drink, and be merry.)</span>
@@ -2281,24 +2281,24 @@ in order to fulfill literally that which is written in scripture:
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 צָפוּן
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <h3>Eating the Afikoman</h3>
 <span class="instruction">(After the meal, distribute a kezayit-sized portion of the afikoman to each seder participant and eat it.)</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרֵךְ
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <h3>Blessing After Meals</h3>
 &nbsp;
 <span class="instruction">(After eating the afikoman, fill the third cup and use it to recite the blessing after meals.)</span>
@@ -2306,7 +2306,7 @@ in order to fulfill literally that which is written in scripture:
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שִׁיר הַמַּעֲלוֹת:
 בְּשׁוּב יהוה אֶת־שִׁיבַת צִיּוֹן 
 הָיִ֫ינוּ כְּחֹלְמִים.
@@ -2323,7 +2323,7 @@ in order to fulfill literally that which is written in scripture:
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 A song of ascents:
 When Adonai returned the remnant of Zion,
 we were like dreamers.
@@ -2341,7 +2341,7 @@ but the one who carries his bundle of grain returns in joy.[foot]Psalm 126[/foot
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 &nbsp;
 &nbsp;
@@ -2350,7 +2350,7 @@ but the one who carries his bundle of grain returns in joy.[foot]Psalm 126[/foot
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">(If three or more have eaten together, a zimun is recited, as follows:)</span>
 &nbsp;
 <span class="instruction">(The leader says: )</span> 
@@ -2359,14 +2359,14 @@ Let us recite the blessing.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 יְהִי שֵׁם יְיָ מְבוֹרָךְ
 מֵעַתָּה וְעַד עוֹלָם׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">(Others respond:)</span>
 May the name of Adonai be blessed 
 forever and ever!
@@ -2374,7 +2374,7 @@ forever and ever!
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 בִּרְשׁוּת...
 נְבָרֵךְ
@@ -2383,7 +2383,7 @@ forever and ever!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">(The leader says:)</span>
 With the permission of ... 
 let us bless
@@ -2393,7 +2393,7 @@ the One of whose [bounty] we have eaten.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ
 (אֱלֹהֵֽינוּ)
 שֶׁאָכַֽלְנוּ מִשֶּׁלּוֹ
@@ -2401,7 +2401,7 @@ the One of whose [bounty] we have eaten.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">(The leader repeats:)</span>
 Blessed is the One
 (<span class="instruction">if ten are present, add:</span> our God,)
@@ -2411,25 +2411,25 @@ and by whose goodness we live.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 (ברוך ומבורך שמו תמיד לעולם ועד)
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 (<span class="instruction">Alternately, if people are present who did not eat (?!) they respond:</span> May His name be greatly blessed always, forever and ever.)
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 בָּרוּךְ הוּא
 וּבָרוּךְ שְׁמוֹ׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">(Everyone together:)</span>
 Blessed be He 
 and blessed be His name.
@@ -2437,7 +2437,7 @@ and blessed be His name.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה
 יְיָ אֱלֹהֵֽינוּ 
 מֶֽלֶךְ הָעוֹלָם
@@ -2464,7 +2464,7 @@ and blessed be His name.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Blessed are You, 
 Adonai, our God, 
 Sovereign of the universe, 
@@ -2492,7 +2492,7 @@ who gives food to everyone.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 נֽוֹדֶה לְּךָ
 יְיָ אֱלֹהֵֽינוּ
 עַל שֶׁהִנְחַֽלְתָּ לַאֲבוֹתֵֽינוּ
@@ -2513,7 +2513,7 @@ who gives food to everyone.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 We thank You, 
 Adonai, our God, 
 for granting to our ancestors
@@ -2535,7 +2535,7 @@ and at every hour.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְעַל הַכֹּל
 יְיָ אֱלֹהֵֽינוּ
 אֲנַֽחְנוּ מוֹדִים לָךְ
@@ -2551,7 +2551,7 @@ and at every hour.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 For everything, 
 Adonai, our God, 
 we thank You 
@@ -2568,7 +2568,7 @@ and for the food.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רַחֵם
 יְיָ אֱלֹהֵֽינוּ
 עַל־יִשְׂרָאֵל עַמֶּֽךָ
@@ -2580,7 +2580,7 @@ and for the food.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Have mercy, 
 Adonai, our God, 
 on Israel Your people; 
@@ -2593,7 +2593,7 @@ over which Your Name is proclaimed.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֱלֹהֵֽינוּ
 אָבִֽינוּ
 רְעֵֽנוּ
@@ -2616,7 +2616,7 @@ over which Your Name is proclaimed.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Our God, 
 our Father, 
 our Shepherd, 
@@ -2640,7 +2640,7 @@ for ever and always.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 רְצֵה וְהַחֲלִצֵֽנוּ יְיָ אֱלֹהֵֽינוּ בְּמִצְווֹתֶֽיךָ
 וּבְמִצְוַת יוֹם הַשְּׁבִיעִי
@@ -2669,7 +2669,7 @@ for ever and always.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">(On Shabbat add:)</span>
 Take favor in Your commandments, Adonai, our God, and help us fulfill them, 
 particularly the commandment of the seventh day, 
@@ -2699,18 +2699,18 @@ and Master of Comfort.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֶלֹהֵֽינוּ וֵאלֹהֵי אֲבוֹתֵֽינוּ. יַעֲלֶה וְיָבֹא וְיַגִּֽיעַ וְיֵרָאֶה וְיֵרָצֶה וְיִשָּׁמַע וְיִפָּקֵד וְיִזָּכֵר זִכְרוֹנֵֽנוּ וּפִקְדּוֹנֵֽנוּ וְזִכְרוֹן אֲבוֹתֵֽינוּ. וְזִכְרוֹן מָשִֽׁיחַ בֶּן דָּוִד עַבְדֶּֽךָ. וְזִכְרוֹן יְרוּשָׁלַֽיִם עִיר קָׇדְשֶֽׁךָ. וְזִכְרוֹן כָׇּל־עַמְּךָ בֵּית יִשְׂרָאֵל לְפָנֶֽיךָ. לִפְלֵיטָה לְטוֹבָה לְחֵן וּלְחֶֽסֶד וּלְרַחֲמִים לְחַיִּים וּלְשָׁלוֹם בְּיוֹם חַג הַמַּצּוֹת הַזֶּה. זׇָכְרֵֽנוּ יְיָ אֱלֹהֵֽינוּ בּוֹ לְטוֹבָה. וּפָׇקְדֵֽנוּ בוֹ לִבְרָכָה. וְהוֹשִׁיעֵֽנוּ בוֹ לְחַיִּים׃ וּבִדְבַר יְשׁוּעָה וְרַחֲמִים חוּס וְחָׇנֵּֽנוּ וְרַחֵם עָלֵֽינוּ וְהוֹשִׁיעֵֽנוּ כִּי אֵלֶֽיךָ עֵינֵֽינוּ כִּי אֵל מֶֽלֶךְ חַנּוּן וְרַחוּם אָֽתָּה׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Our God and God of our ancestors: May our memory rise up and come before You, and may it be regarded favorably by You, along with the memory of our ancestors, the memory of the anointed one, descendent of Your servant David, the memory of Jerusalem Your holy city, and the memory of all Your people, the family of Israel. May we be remembered for salvation, goodness, graciousness, mercy, and life on this festival of Matsot. Remember us for good and for blessing on this day, and grant us the salvation of life. With regard to salvation and mercy, act graciously toward us, have mercy on us, and save us, for we look to You, because You are a gracious and merciful God.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּבְנֵה יְרוּשָׁלַֽיִם עִיר הַקֹּֽדֶשׁ
 בִּמְהֵרָה בְּיָמֵֽינוּ
 בָּרוּךְ אַתָּה יְיָ
@@ -2720,7 +2720,7 @@ Our God and God of our ancestors: May our memory rise up and come before You, an
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May the holy city of Jerusalem be rebuilt 
 speedily in our day. 
 Blessed are You, Adonai, 
@@ -2730,7 +2730,7 @@ Amen.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה
 יְיָ אֱלֹהֵֽינוּ 
 מֶֽלֶךְ הָעוֹלָם
@@ -2775,7 +2775,7 @@ Amen.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Blessed are You, 
 Adonai, our God, 
 Sovereign of the universe, 
@@ -2819,14 +2819,14 @@ May He never cause us to lack anything good!
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הָרַחֲמָן.
 הוּא יִמְלוֹךְ עָלֵֽינוּ
 לְעוֹלָם וָעֶד׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May the Merciful One 
 reign over us 
 forever and ever.
@@ -2834,14 +2834,14 @@ forever and ever.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הָרַחֲמָן.
 הוּא יִתְבָּרַךְ
 בַּשָּׁמַֽיִם וּבָאָֽרֶץ׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May the Merciful One 
 be blessed 
 in heaven and on earth.
@@ -2849,7 +2849,7 @@ in heaven and on earth.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הָרַחֲמָן
 הוּא יִשְׁתַּבַּח
 לְדוֹר דּוֹרִים
@@ -2860,7 +2860,7 @@ in heaven and on earth.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May the Merciful One 
 be praised 
 from generation to generation 
@@ -2870,20 +2870,20 @@ in perpetuity.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הָרַחֲמָן
 הוּא יְפַרְנְסֵֽנוּ בְּכָבוֹד׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May the Merciful One 
 provide for us with dignity.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הָרַחֲמָן
 הוּא יִשְׁבּוֹר עֻלֵּֽנוּ
 מֵעַל צַוָּארֵֽנוּ
@@ -2891,7 +2891,7 @@ provide for us with dignity.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May the Merciful One 
 break the yoke 
 on our necks 
@@ -2900,7 +2900,7 @@ and lead us to our land in pride.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הָרַחֲמָן
 הוּא יִשְׁלַח
 בְּרָכָה מְרֻבָּה
@@ -2910,7 +2910,7 @@ and lead us to our land in pride.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May the Merciful One 
 send 
 abundant blessing 
@@ -2921,7 +2921,7 @@ upon which we have eaten.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הָרַחֲמָן
 הוּא יִשְׁלַח לָֽנוּ
 אֶת אֵלִיָּֽהוּ הַנָּבִיא
@@ -2933,7 +2933,7 @@ upon which we have eaten.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May the Merciful One 
 send us 
 Elijah the prophet, 
@@ -2946,7 +2946,7 @@ and consolation.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הָרַחֲמָן
 הוּא יְבָרֵךְ
 אֶת (אָבִי) מוֹרִי
@@ -2969,7 +2969,7 @@ and consolation.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May the Merciful One 
 bless
 (<span class="instruction">at one's father's home, add:</span> my father,) my teacher, 
@@ -2993,7 +2993,7 @@ And let us say Amen.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בַּמָּרוֹם יְלַמְּדוּ
 עֲלֵיהֶם וְעָלֵֽינוּ
 זְכוּת שֶׁתְּהִי לְמִשְׁמֶֽרֶת שָׁלוֹם
@@ -3007,7 +3007,7 @@ And let us say Amen.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May merit be invoked upon high, 
 on their behalf and on ours, 
 leading to enduring peace. 
@@ -3022,7 +3022,7 @@ in the eyes of God and mortals.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 הָרַחֲמָן
 הוּא יַנְחִילֵֽנוּ
@@ -3031,7 +3031,7 @@ in the eyes of God and mortals.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">(On Shabbat add:)</span>
 May the Merciful One 
 grant us 
@@ -3041,14 +3041,14 @@ and the rest of eternal life.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הָרַחֲמָן
 הוּא יַנְחִילֵֽנוּ
 יוֹם שֶׁכֻּלּוֹ טוֹב׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May the Merciful One 
 grant us 
 a day that is fully good.
@@ -3056,7 +3056,7 @@ a day that is fully good.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הָרַחֲמָן
 הוּא יְזַכֵּֽנוּ
 לִיְמוֹת הַמָּשִֽׁיחַ
@@ -3073,7 +3073,7 @@ a day that is fully good.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May the Merciful One 
 find us worthy 
 of the coming of the messiah 
@@ -3091,7 +3091,7 @@ And let us say Amen.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְר֣אוּ אֶת־יְהוָ֣ה קְדֹשָׁ֑יו כִּי־אֵ֥ין מַ֝חְס֗וֹר לִירֵאָֽיו׃
 כְּ֭פִירִים רָשׁ֣וּ וְרָעֵ֑בוּ וְדֹרְשֵׁ֥י יְ֝הוָ֗ה לֹא־יַחְסְר֥וּ כׇל־טֽוֹב׃
 הוֹד֣וּ לַיהוָ֣ה כִּי־ט֑וֹב כִּ֖י לְעוֹלָ֣ם חַסְדּֽוֹ׃
@@ -3104,7 +3104,7 @@ And let us say Amen.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Fear Adonai, His holy ones, for those who fear Him lack nothing. 
 Lions roar and yet go hungry, but those who seek Adonai lack nothing good.[foot]Psalms 34:10-11[/foot]
 Praise Adonai, for He is good, for His kindness endures forever.[foot]Psalms 118:1[/foot]
@@ -3117,7 +3117,7 @@ May Adonai give strength to His people. May Adonai bless His people forever.[foo
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 &nbsp;
 בָּרוּךְ אַתָּה
@@ -3127,7 +3127,7 @@ May Adonai give strength to His people. May Adonai bless His people forever.[foo
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">(Drink the third cup while leaning to the left.)</span> 
 &nbsp;
 Blessed are You, 
@@ -3138,7 +3138,7 @@ creator of the fruit of the vine.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שְׁפֹ֤ךְ חֲמָתְךָ֨ אֶֽל־הַגּוֹיִם֮ אֲשֶׁ֪ר לֹא־יְדָ֫ע֥וּךָ 
 וְעַ֥ל מַמְלָכ֑וֹת אֲשֶׁ֥ר בְּ֝שִׁמְךָ֗ לֹ֣א קָרָֽאוּ
 כִּ֭י אָכַ֣ל אֶֽת־יַעֲקֹ֑ב וְֽאֶת־נָוֵ֥הוּ הֵשַֽׁמּוּ
@@ -3147,7 +3147,7 @@ creator of the fruit of the vine.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Pour out Your wrath upon the nations who do not know you 
 and upon the kingdoms that have not called Your name, 
 for they have devoured Jacob and laid waste his habitations.[foot]Psalms 79:6-7[/foot] 
@@ -3157,41 +3157,41 @@ Pursue them in anger and destroy them from under the heavens of Adonai.[foot]Lam
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַלֵּל
 &nbsp;
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <h3>Songs of Praise</h3>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לֹ֤א לָ֥נוּ יְהֹוָ֗ה לֹ֫א לָ֥נוּ כִּֽי־לְ֭שִׁמְךָ תֵּ֣ן כָּב֑וֹד עַל־חַ֝סְדְּךָ֗ עַל־אֲמִתֶּֽךָ׃ לָ֭מָּה יֹאמְר֣וּ הַגּוֹיִ֑ם אַיֵּה־נָ֗֝א אֱלֹהֵיהֶֽם׃ וֵאלֹהֵ֥ינוּ בַשָּׁמָ֑יִם כֹּ֖ל אֲשֶׁר־חָפֵ֣ץ עָשָֽׂה׃ עֲֽ֭צַבֵּיהֶם כֶּ֣סֶף וְזָהָ֑ב מַ֝עֲשֵׂ֗ה יְדֵ֣י אָדָֽם׃ פֶּֽה־לָ֭הֶם וְלֹ֣א יְדַבֵּ֑רוּ עֵינַ֥יִם לָ֝הֶ֗ם וְלֹ֣א יִרְאֽוּ׃ אׇזְנַ֣יִם לָ֭הֶם וְלֹ֣א יִשְׁמָ֑עוּ אַ֥ף לָ֝הֶ֗ם וְלֹ֣א יְרִיחֽוּן׃ יְדֵיהֶ֤ם ׀ וְלֹ֬א יְמִישׁ֗וּן רַ֭גְלֵיהֶם וְלֹ֣א יְהַלֵּ֑כוּ לֹא־יֶ֝הְגּ֗וּ בִּגְרוֹנָֽם׃ כְּ֭מוֹהֶם יִהְי֣וּ עֹשֵׂיהֶ֑ם כֹּ֖ל אֲשֶׁר־בֹּטֵ֣חַ בָּהֶֽם׃ יִ֭שְׂרָאֵל בְּטַ֣ח בַּיהֹוָ֑ה עֶזְרָ֖ם וּמָגִנָּ֣ם הֽוּא׃ בֵּ֣ית אַ֭הֲרֹן בִּטְח֣וּ בַיהֹוָ֑ה עֶזְרָ֖ם וּמָגִנָּ֣ם הֽוּא׃ יִרְאֵ֣י יְ֭הֹוָה בִּטְח֣וּ בַיהֹוָ֑ה עֶזְרָ֖ם וּמָגִנָּ֣ם הֽוּא׃ יְהֹוָה֮ זְכָרָ֢נוּ יְבָ֫רֵ֥ךְ יְ֭בָרֵךְ אֶת־בֵּ֣ית יִשְׂרָאֵ֑ל יְ֝בָרֵ֗ךְ אֶת־בֵּ֥ית אַהֲרֹֽן׃ יְ֭בָרֵךְ יִרְאֵ֣י יְהֹוָ֑ה הַ֝קְּטַנִּ֗ים עִם־הַגְּדֹלִֽים׃ יֹסֵ֣ף יְהֹוָ֣ה עֲלֵיכֶ֑ם עֲ֝לֵיכֶ֗ם וְעַל־בְּנֵיכֶֽם׃ בְּרוּכִ֣ים אַ֭תֶּם לַיהֹוָ֑ה עֹ֝שֵׂ֗ה שָׁמַ֥יִם וָאָֽרֶץ׃ הַשָּׁמַ֣יִם שָׁ֭מַיִם לַיהֹוָ֑ה וְ֝הָאָ֗רֶץ נָתַ֥ן לִבְנֵי־אָדָֽם׃ לֹ֣א הַ֭מֵּתִים יְהַֽלְלוּ־יָ֑הּ וְ֝לֹ֗א כׇּל־יֹרְדֵ֥י דוּמָֽה׃ וַאֲנַ֤חְנוּ ׀ נְבָ֘רֵ֤ךְ יָ֗הּ מֵעַתָּ֥ה וְעַד־עוֹלָ֗ם הַֽלְלוּ־יָֽהּ׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Not for us, Adonai, not for us, but to give glory to Your Name for Your kindness and for Your faithfulness. Why should the nations say, “Where is their God?” When our God is in heaven--- He does whatever He pleases! Their idols are silver and gold, the work of human hands. They have mouths, but they cannot speak. They have eyes, but they cannot see. They have ears, but they cannot hear. They have noses, but they cannot smell. Their hands cannot feel. Their legs cannot walk. They cannot speak with their throats. May their makers be like them--- all who trust in them. Israel trusts in Adonai; He is their Helper and Guardian. The family of Aaron trusts in Adonai; Those who fear Adonai trust in Adonai;[foot]Psalms 115:1-11[/foot] Adonai, remember us! May He bless the family of Israel. May He bless the family of Aaron. May He bless those who fear Adonai, The small along with the great. May Adonai grant you abundance, you and your children. May you be blessed to Adonai, Maker of heaven and earth. The heavens are the heavens of Adonai and the land was given to humanity. The dead cannot praise Yah, nor can those who go down into silence. But we will praise Yah from now to eternity. Praise Yah![foot]Psalms 115:12-18[/foot]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָ֭הַבְתִּי כִּי־יִשְׁמַ֥ע ׀ יְהֹוָ֑ה אֶת־ק֝וֹלִ֗י תַּחֲנוּנָֽי׃ כִּי־הִטָּ֣ה אׇזְנ֣וֹ לִ֑י וּבְיָמַ֥י אֶקְרָֽא׃ אֲפָפ֤וּנִי ׀ חֶבְלֵי־מָ֗וֶת וּמְצָרֵ֣י שְׁא֣וֹל מְצָא֑וּנִי צָרָ֖ה וְיָג֣וֹן אֶמְצָֽא׃ וּבְשֵֽׁם־יְהֹוָ֥ה אֶקְרָ֑א אָנָּ֥ה יְ֝הֹוָ֗ה מַלְּטָ֥ה נַפְשִֽׁי׃ חַנּ֣וּן יְהֹוָ֣ה וְצַדִּ֑יק וֵ֖אלֹהֵ֣ינוּ מְרַחֵֽם׃ שֹׁמֵ֣ר פְּתָאיִ֣ם יְהֹוָ֑ה דַּ֝לֹּתִ֗י וְלִ֣י יְהוֹשִֽׁיעַ׃ שׁוּבִ֣י נַ֭פְשִׁי לִמְנוּחָ֑יְכִי כִּֽי־יְ֝הֹוָ֗ה גָּמַ֥ל עָלָֽיְכִי׃ כִּ֤י חִלַּ֥צְתָּ נַפְשִׁ֗י מִ֫מָּ֥וֶת אֶת־עֵינִ֥י מִן־דִּמְעָ֑ה אֶת־רַגְלִ֥י מִדֶּֽחִי׃ אֶ֭תְהַלֵּךְ לִפְנֵ֣י יְהֹוָ֑ה בְּ֝אַרְצ֗וֹת הַחַיִּֽים׃ הֶ֭אֱמַנְתִּי כִּ֣י אֲדַבֵּ֑ר אֲ֝נִ֗י עָנִ֥יתִי מְאֹֽד׃ אֲ֭נִי אָמַ֣רְתִּי בְחׇפְזִ֑י כׇּֽל־הָאָדָ֥ם כֹּזֵֽב׃ מָה־אָשִׁ֥יב לַיהֹוָ֑ה כׇּֽל־תַּגְמוּל֥וֹהִי עָלָֽי׃ כּוֹס־יְשׁוּע֥וֹת אֶשָּׂ֑א וּבְשֵׁ֖ם יְהֹוָ֣ה אֶקְרָֽא׃ נְ֭דָרַי לַיהֹוָ֣ה אֲשַׁלֵּ֑ם נֶגְדָה־נָּ֗֝א לְכׇל־עַמּֽוֹ׃ יָ֭קָר בְּעֵינֵ֣י יְהֹוָ֑ה הַ֝מָּ֗וְתָה לַחֲסִידָֽיו׃ אָנָּ֣ה יְהֹוָה֮ כִּֽי־אֲנִ֢י עַ֫בְדֶּ֥ךָ אֲנִי־עַ֭בְדְּךָ בֶּן־אֲמָתֶ֑ךָ פִּ֝תַּ֗חְתָּ לְמֽוֹסֵרָֽי׃ לְֽךָ־אֶ֭זְבַּח זֶ֣בַח תּוֹדָ֑ה וּבְשֵׁ֖ם יְהֹוָ֣ה אֶקְרָֽא׃ נְ֭דָרַי לַיהֹוָ֣ה אֲשַׁלֵּ֑ם נֶגְדָה־נָּ֗֝א לְכׇל־עַמּֽוֹ׃ בְּחַצְר֤וֹת ׀ בֵּ֤ית יְהֹוָ֗ה בְּֽת֘וֹכֵ֤כִי יְֽרוּשָׁלִָ֗ם הַֽלְלוּ־יָֽהּ׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 I loved when Adonai heard my voice when I pleaded. For He inclined His ear to me and in my days I cried out. The ropes of death entangled me; the afflictions of the underworld came upon me; I met with affliction and suffering. I called out to Adonai: Please, Adonai, save my life! Adonai is gracious and righteous and our God is merciful. Adonai protects the simple. I was brought low, and He saved me. Be at rest again, my soul, for Adonai has been beneficent to you. For You have delivered me from death, my eyes from tears, my legs from weariness. I walk before Adonai in the land of the living! I believed when I spoke; I was greatly afflicted. I said rashly, “‘All people are deceitful.”[foot]Psalm 116:1-11[/foot] How can I repay Adonai for all the beneficence He has shown me? I raise a cup of salvation and call out in the name of Adonai. I will fulfill my vows to Adonai in the presence of all His people. The death of his faithful ones is grievous in the eyes of Adonai. O Adonai, I am Your servant. I am your servant, son of your maidservant. You have released my bonds. I will slaughter a thanksgiving sacrifice to You and call out in the name of Adonai. I will fulfill my vows to Adonai in the presence of all His people, in the courtyards of the temple of Adonai in Jerusalem. Praise Yah![foot]Psalms 116:12-19[/foot]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַֽלְל֣וּ אֶת־יְ֭הֹוָה כׇּל־גּוֹיִ֑ם
 שַׁ֝בְּח֗וּהוּ כׇּל־הָאֻמִּֽים׃
 כִּ֥י גָ֘בַ֤ר עָלֵ֨ינוּ ׀ חַסְדּ֗וֹ
@@ -3199,7 +3199,7 @@ I loved when Adonai heard my voice when I pleaded. For He inclined His ear to me
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Praise Adonai, all nations! 
 Laud him, all peoples! 
 For his kindness has overwhelmed us 
@@ -3208,29 +3208,29 @@ and Adonai is faithful forever. Praise Yah![foot]Psalm 117[/foot]
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הוֹד֣וּ לַיהֹוָ֣ה כִּי־ט֑וֹב כִּ֖י לְעוֹלָ֣ם חַסְדּֽוֹ׃ יֹאמַר־נָ֥א יִשְׂרָאֵ֑ל כִּ֖י לְעוֹלָ֣ם חַסְדּֽוֹ׃ יֹאמְרוּ־נָ֥א בֵֽית־אַהֲרֹ֑ן כִּ֖י לְעוֹלָ֣ם חַסְדּֽוֹ׃ יֹאמְרוּ־נָ֭א יִרְאֵ֣י יְהֹוָ֑ה כִּ֖י לְעוֹלָ֣ם חַסְדּֽוֹ׃ מִֽן־הַ֭מֵּצַר קָרָ֣אתִי יָּ֑הּ עָנָ֖נִי בַמֶּרְחָ֣ב יָֽהּ׃ יְהֹוָ֣ה לִ֭י לֹ֣א אִירָ֑א מַה־יַּעֲשֶׂ֖ה לִ֣י אָדָֽם׃ יְהֹוָ֣ה לִ֭י בְּעֹזְרָ֑י וַ֝אֲנִ֗י אֶרְאֶ֥ה בְשֹׂנְאָֽי׃ ט֗וֹב לַחֲס֥וֹת בַּיהֹוָ֑ה מִ֝בְּטֹ֗חַ בָּאָדָֽם׃ ט֗וֹב לַחֲס֥וֹת בַּיהֹוָ֑ה מִ֝בְּטֹ֗חַ בִּנְדִיבִֽים׃ כׇּל־גּוֹיִ֥ם סְבָב֑וּנִי בְּשֵׁ֥ם יְ֝הֹוָ֗ה כִּ֣י אֲמִילַֽם׃ סַבּ֥וּנִי גַם־סְבָב֑וּנִי בְּשֵׁ֥ם יְ֝הֹוָ֗ה כִּ֣י אֲמִילַֽם׃ סַבּ֤וּנִי כִדְבוֹרִ֗ים דֹּ֭עֲכוּ כְּאֵ֣שׁ קוֹצִ֑ים בְּשֵׁ֥ם יְ֝הֹוָ֗ה כִּ֣י אֲמִילַֽם׃ דַּחֹ֣ה דְחִיתַ֣נִי לִנְפֹּ֑ל וַ֖יהֹוָ֣ה עֲזָרָֽנִי׃ עׇזִּ֣י וְזִמְרָ֣ת יָ֑הּ וַֽיְהִי־לִ֗֝י לִישׁוּעָֽה׃ ק֤וֹל ׀ רִנָּ֬ה וִישׁוּעָ֗ה בְּאׇהֳלֵ֥י צַדִּיקִ֑ים יְמִ֥ין יְ֝הֹוָ֗ה עֹ֣שָׂה חָֽיִל׃ יְמִ֣ין יְ֭הֹוָה רוֹמֵמָ֑ה יְמִ֥ין יְ֝הֹוָ֗ה עֹ֣שָׂה חָֽיִל׃ לֹא־אָמ֥וּת כִּֽי־אֶחְיֶ֑ה וַ֝אֲסַפֵּ֗ר מַעֲשֵׂ֥י יָֽהּ׃ יַסֹּ֣ר יִסְּרַ֣נִּי יָּ֑הּ וְ֝לַמָּ֗וֶת לֹ֣א נְתָנָֽנִי׃ פִּתְחוּ־לִ֥י שַׁעֲרֵי־צֶ֑דֶק אָבֹא־בָ֗֝ם אוֹדֶ֥ה יָֽהּ׃ זֶה־הַשַּׁ֥עַר לַיהֹוָ֑ה צַ֝דִּיקִ֗ים יָבֹ֥אוּ בֽוֹ׃ א֭וֹדְךָ כִּ֣י עֲנִיתָ֑נִי וַתְּהִי־לִ֗֝י לִישׁוּעָֽה׃ אֶ֭בֶן מָאֲס֣וּ הַבּוֹנִ֑ים הָ֝יְתָ֗ה לְרֹ֣אשׁ פִּנָּֽה׃ מֵאֵ֣ת יְ֭הֹוָה הָ֣יְתָה זֹּ֑את הִ֖יא נִפְלָ֣את בְּעֵינֵֽינוּ׃ זֶה־הַ֭יּוֹם עָשָׂ֣ה יְהֹוָ֑ה נָגִ֖ילָה וְנִשְׂמְחָ֣ה בֽוֹ׃ אָנָּ֣א יְ֭הֹוָה הוֹשִׁ֘יעָ֥ה נָּ֑א אָנָּ֥א יְ֝הֹוָ֗ה הַצְלִ֘יחָ֥ה נָּֽא׃ בָּר֣וּךְ הַ֭בָּא בְּשֵׁ֣ם יְהֹוָ֑ה בֵּ֝רַ֥כְנוּכֶ֗ם מִבֵּ֥ית יְהֹוָֽה׃ אֵ֤ל ׀ יְהֹוָה֮ וַיָּ֢אֶ֫ר לָ֥נוּ אִסְרוּ־חַ֥ג בַּעֲבֹתִ֑ים עַד־קַ֝רְנ֗וֹת הַמִּזְבֵּֽחַ׃ אֵלִ֣י אַתָּ֣ה וְאוֹדֶ֑ךָּ אֱ֝לֹהַ֗י אֲרוֹמְמֶֽךָּ׃ הוֹד֣וּ לַיהֹוָ֣ה כִּי־ט֑וֹב כִּ֖י לְעוֹלָ֣ם חַסְדּֽוֹ׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Give thanks to Adonai, for He is good, for His kindness is everlasting. Israel says: The family of Aaron says: Those who fear Adonai say:[foot]Psalm 118:1-4[/foot] From the straights I call to Yah, Yah answers me in His broadness. Adonai, I do not fear for myself--- what can a mortal do to me? When Adonai is with me as my helper, I will see [the fall of] my enemies. It is better to seek refuge in Adonai than to trust in mortals. It is better to seek refuge in Adonai than to trust in nobles. All nations surround me--- by the name of Adonai I will cut them down. They surround me and encircle me--- by the name of Adonai I will cut them down. They surround me like bees--- they will be extinguished like burning thorns. They pressed upon me to fell me, but Adonai helped me. Adonai is my strength and my might and He will be my salvation. The sound of rejoicing and salvation is in the tents of the righteous. The right hand of Adonai acts valorously. The right hand of Adonai is exalted, the right hand of Adonai acts valorously. I will not die. I will live and will tell of the deeds of Yah. Yah has punished me severely, but He has not given me over to death. Open for me, gates of righteousness! I will come through and offer thanks to Yah. This is the gate of Adonai. The righteous will come through it.[foot]Psalm 118:5-20[/foot] I thank You, for You answered me and were my salvation. The stone that the builders rejected has become the cornerstone. This has come from Adonai--- it is wondrous in our eyes. This is the day that Adonai made for us. We will rejoice and be happy on it.[foot]Psalm 118:21-24[/foot] Please, Adonai, save! Please, Adonai, bring success![foot]Psalm 118:25[/foot] Blessed be the one who comes in the name of Adonai. We bless you from the temple of Adonai. Adonai is God and He gives us light. Bind a festival offering in cords to the horns of the altar. You are my God and I thank You. You are my God and I exalt You. Praise Adonai, for He is good, for His kindness is eternal.[foot]Psalm 118:26-29[/foot]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְהַלֲלֽוּךָ יְיָ אֱלֹהֵֽינוּ (עַל) כָּל מַעֲשֶֽׂיךָ וַחֲסִידֶֽיךָ צַדִּיקִים עוֹשֵׂי רְצוֹנֶֽךָ וְכָׇל עַמְּךָ בֵּית יִשְׂרָאֵל בְּרִנָּה יוֹדוּ וִיבָרְכוּ וִישַׁבְּחוּ וִיפָאַֽרוּ וִירוֹמֲמוּ וְיַעֲרִֽיצוּ וְיַקְדִּֽישׁוּ וְיַמְלִֽיכוּ אֶת שִׁמְךָ מַלְכֵּֽנוּ כִּי לְךָ טוֹב לְהוֹדוֹת וּלְשִׁמְךָ נָאֶה לְזַמֵּר כִּי מֵעוֹלָם וְעַד עוֹלָם אַתָּה אֵל.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May You be praised, Adonai, our God, all Your deeds. Your pious ones, the righteous who act according to Your will, and all Your people the family of Israel will thank, bless, praise, glorify, exalt, worship, and sanctify Your name in joy and declare You king, our King. For it is good to praise You and pleasing to sing to Your name, for You are God forever and ever.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הוֹד֣וּ לַיהֹוָ֣ה כִּי־ט֑וֹב
 כִּ֖י לְעוֹלָ֣ם חַסְדּֽוֹ׃
 ה֭וֹדוּ לֵאלֹהֵ֣י הָאֱלֹהִ֑ים
@@ -3286,7 +3286,7 @@ May You be praised, Adonai, our God, all Your deeds. Your pious ones, the righte
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Thank Adonai, for He is good, 
 for His kindness is eternal. 
 Thank the greatest God, 
@@ -3343,18 +3343,18 @@ for His kindness is eternal.[foot]Psalms 136[/foot]
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 נִשְׁמַת כָׇּל־חַי תְּבָרֵךְ אֶת־שִׁמְךָ יְיָ אֱלֹהֵֽינוּ. וְרֽוּחַ כָׇּל־בָּשָׂר תְּפָאֵר וּתְרוֹמֵם זִכְרְךָ מַלְכֵּֽנוּ תָּמִיד מִן־הָעוֹלָם וְעַד־הָעוֹלָם אַתָּה אֵל. וּמִבַּלְעָדֶֽיךָ אֵין לָֽנוּ מֶֽלֶךָ גּוֹאֵל וּמוֹשִֽׁיעַ פּוֹדֶה וּמַצִּיל וּמְפַרְנֵס וּמְרַחֵם בְּכָׇל־עֵת צָרָה וְצוּקָה אֵין לָֽנוּ מֶֽלֶךְ אֶלָּא אָֽתָּה׃ אֱלֹהֵי הָרִאשׁוֹנִים וְהָאַחֲרוֹנִים. אֱלֽוֹהַּ כָׇּל־בְּרִיּוֹת אֲדוֹן כָׇּל־תּוֹלָדוֹת הַמְהֻלָּל בְּרֹב הַתִּשְׁבָּחוֹת הַמְנַהֵג עוֹלָמוֹ בְּחֶֽסֶד וּבְרִיּוֹתָיו בְּרַחֲמִים. וַיְיָ לֹא־יָנוּם וְלֹא־יִישָׁן. הַמְעוֹרֵר יְשֵׁנִים וְהַמֵּקִיץ נִרְדָּמִים. וְהַמֵּשִֽׂיחַ אִלְּמִים. וְהַמַּתִּיר אֲסוּרִים וְהַסּוֹמֵךְ נוֹפְלִים וְהַזּוֹקֵף כְּפוּפִים. לְךָ לְבַדְּךָ אֲנַֽחְנוּ מוֹדִים. אִלּוּ פִֽינוּ מָלֵא שִׁירָה כַּיָּם וּלְשׁוֹנֵֽנוּ רִנָּה כַּהֲמוֹן גַּלָּיו וְשִׂפְתוֹתֵֽינוּ שֶֽׁבַח כְּמֶרְחֲבֵי רָקִיעַ. וְעֵינֵֽינוּ מְאִירוֹת כַּשֶּֽׁמֶשׁ וְכַיָּרֵֽחַ. וְיָדֵֽינוּ פְּרוּשׂוֹת כְּנִשְׁרֵי שָׁמָֽיִם. וְרַגְלֵֽינוּ קַלּוֹת כָּאַיָּלוֹת׃ אֵין אֲנַֽחְנוּ מָסְפִּיקִים לְהוֹדוֹת לְךָ יְיָ אֱלֹהֵֽינוּ וֵאלֹהֵי אֲבוֹתֵֽינוּ. וּלְבָרֵךְ אֶת־שְׁמֶֽךָ. עַל־אַחַת מֵאָֽלֶף אֶֽלֶף אַלְפֵי אֲלָפִים וְרִבֵּי רְבָבוֹת פְּעָמִים הַטּוֹבוֹת שֶׁעָשִֽׂיתָ עִם־אֲבוֹתֵֽינוּ וְעִמָּֽנוּ׃ מִמִּצְרַֽיִם גְּאַלְתָּֽנוּ יְיָ אֱלֹהֵֽינוּ וּמִבֵּית עֲבָדִים פְּדִיתָֽנוּ. בְּרָעָב זַנְתָּֽנוּ וּבְשָׂבָע כִּלְכַּלְתָּֽנוּ. מֵחֶֽרֶב הִצַּלְתָּֽנוּ. וּמִדֶּֽבֶר מִלַּטְתָּֽנוּ וּמֵחֳלָיִם רָעִים וְנֶאֱמָנִים דִּלִּיתָֽנוּ׃ עַד־הֵֽנָּה עֲזָרֽוּנוּ רַחֲמֶֽיךָ. וְלֹא־עֲזָבֽוּנוּ חֲסָדֶֽיךָ. וְאַל־תִּטְשֵֽׁנוּ יְיָ אֱלֹהֵֽינוּ לָנֶֽצַח׃ עַל־כֵּן אֵבָרִים שֶׁפִּלַּֽגְתָּ בָּֽנוּ. וְרֽוּחַ וּנְשָׁמָה שֶׁנָּפַֽחְתָּ בְּאַפֵּֽינוּ וְלָשׁוֹן אֲשֶׁר שַֽׂמְתָּ בְּפִֽינוּ׃ הֵן הֵם יוֹדוּ וִיבָרְכוּ וִישַׁבְּחוּ וִיפָאֲרוּ וִירוֹמֲמוּ וְיַעֲרִֽיצוּ וְיַקְדִּֽישׁוּ וְיַמְלִֽיכוּ אֶת־שִׁמְךָ מַלְכֵּֽנוּ׃ כִּי כָׇל־פֶּה לְךָ יוֹדֶה. וְכָׇל־לָשׁוֹן לְךָ תִשָּׁבַע. וְכָׇל־בֶּֽרֶךְ לְךָ תִכְרַע. וְכָׇל־קוֹמָה לְפָנֶֽיךָ תִשְׁתַּחֲוֶה׃ וְכָׇל־לְבָבוֹת יִירָאֽוּךָ. וְכָׇל־קֶֽרֶב וּכְלָיוֹת יְזַמְּרוּ לִשְׁמֶֽךָ. כַּדָּבָר שֶׁכָּתוּב כָׇּל עַצְמוֹתַי תֹּאמַֽרְנָה יְיָ מִי כָמֽוֹךָ. מַצִּיל עָנִי מֵחָזָק מִמֶּֽנוּ וְעָנִי וְאֶבְיוֹן מִגּוֹזְלוֹ׃ מִי יִדְמֶה־לָּךְ וּמִי יִשְׁוֶה־לָּךְ וּמִי יַעֲרָׇךְ־לָךְ. הָאֵל הַגָּדֹל הַגִּבֹּר וְהַנּוֹרָא אֵל עֶלְיוֹן קֹנֵה שָׁמַֽיִם וָאָֽרֶץ׃ נְהַלֶּלְךָ וּנְשַׁבֵּחֲךָ וּנְפָאֶרְךָ וּנְבָרֵךְ אֶת־שֵׁם קָׇדְשֶֽׁךָ. כָּאָמוּר לְדָוִד בָּרְכִי נַפְשִׁי אֶת־יְיָ וְכׇל־קְרָבַי אֶת־שֵׁם קָׇדְשׁוֹ׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 The breath of all life praises Your name, Adonai, our God, and the spirit of all flesh glorifies and exalt your mention, our Sovereign, always. You are God forever and ever, and beside You we have no other sovereign to redeem, save, free, rescue, provide for, and have mercy [on us] at every time of affliction and oppression. We have no sovereign but You. You are God of the first and the last, God of all creations and all their descendants, who is praised with the greatest praises and who governs His world in kindness and His creations in mercy. Adonai neither slumbers nor sleeps. He wakes the sleeping and arouses the slumbering. He causes the dumb to speak, releases the bound, supports the fallen, and straightens the bent. releases the bound, supports the fallen, and straightens the bent. If our mouths were as full of song as the sea, and on our tongues cries of joy like its mighty waves, and our lips as broad as the horizon with praise, and our eyes radiant like the sun and moon, and our hands stretched out like eagles in the sky, and our legs nimble as rams, we could not thank You enough, Adonai, our God, and God of our ancestors. Nor could we bless Your name for even one of the thousands upon thousands and myriads upon myriads of good things that you have done for our ancestors and for us. You redeemed us from Egypt, Adonai, our God, and You rescued us from the house of slavery. You fed us when we were starving and gave us food even when we were satisfied. You saved us from the sword and rescued us from disease and spared us from terrible sickness. All this Your mercy has done to help us and Your kindness has not left us. Do not abandon us, Adonai, our God, ever! For all this the limbs that you formed for us, the breath and spirit that you blew into our nostrils, and the tongues that you placed in our mouths will indeed thank and bless and praise and glorify and exalt and worship and sanctify Your Name and declare You sovereign, our Sovereign. For every mouth will thank you, every tongue will swear, every knee will bend to You, all heights will bow down to You, all hearts will fear You, and all innards and kidneys will sing to Your name, as scripture says: “All my bones say: Adonai, who is like You? You rescue the humble from one who is stronger than he, and the humble and poor from the one who robs him." Who can be compared to You, who can be likened to You, who is similar to You, great, mighty, awesome God, Most High God, Master of heaven and earth? We will praise and extol and glorify You and bless Your holy name, as scripture says: “By David: Bless Adonai, my soul, and all my innards His holy name." [foot]Psalms 103:1[/foot]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הָאֵל בְּתַעֲצֻמוֹת עֻזֶּֽךָ׃
 הַגָּדוֹל בִּכְבוֹד שְׁמֶֽךָ׃
 הַגִּבּוּר לָנֶֽצַח
@@ -3363,7 +3363,7 @@ The breath of all life praises Your name, Adonai, our God, and the spirit of all
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 God, in the greatness of Your might; 
 Great One, in the glory of Your name; 
 eternally mighty One, 
@@ -3373,7 +3373,7 @@ Sovereign, who sits on a high and exalted throne:
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שׁוֹכֵן עַד
 מָרוֹם וְקָדוֹשׁ שְׁמוֹ.
 וְכָתוּב
@@ -3382,7 +3382,7 @@ Sovereign, who sits on a high and exalted throne:
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 The One who endures forever---
 exalted and holy is His name!
 Scripture says: 
@@ -3392,7 +3392,7 @@ praise is pleasant to the upright."[foot]Psalm 33:1[/foot]
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בְּפִי יְשָׁרִים תִּתְהַלָּל.
 וּבְדִבְרֵי צַדִּיקִים תִּתְבָּרַךְ.
 וּבִלְשׁוֹן חֲסִידִים תִּתְרוֹמָם.
@@ -3400,7 +3400,7 @@ praise is pleasant to the upright."[foot]Psalm 33:1[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 In the mouths of the upright He is praised, 
 in the words of the righteous He is blessed, 
 by the tongues of the pious He is exalted, 
@@ -3409,29 +3409,29 @@ and in the midst of the holy He is sanctified.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּבְמַקְהֲלוֹת רִבְבוֹת עַמְּךָ בֵּית יִשְׂרָאֵל בְּרִנָּה יִתְפָּאַר שִׁמְךָ מַלְכֵּֽנוּ בְּכָׇל־דּוֹר וָדוֹר שֶׁכֵּן חוֹבַת כָׇּל־הַיְצוּרִים לְפָנֶֽיךָ יְיָ אֱלֹהֵֽינוּ וֵאלֹהֵי אֲבוֹתֵֽינוּ לְהוֹדוֹת לְהַלֵּל לְשַּׁבֵּֽחַ לְפָאֵר לְרוֹמֵם לְהַדֵּר לְבָרֵךְ לְעַלֵּה וּלְקַלֵּס עַל כָׇּל־דִּבְרֵי שִׁירוֹת וְתִשְׁבְּחוֹת דָּוִד בֶּן־יִשַׁי עַבְדְּךָ מְשִׁיחֶֽךָ׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 In the congregation of the myriads of Your people, the family of Israel, Your name will be glorified, our Sovereign, in each and every generation. For this is the duty of all creations before You, Adonai our God and God of our ancestors: to thank and praise and glorify You beyond all the words of the songs and praises of David, Your anointed servant.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יִשְׁתַּבַּח שִׁמְךָ לָעַד מַלְכֵּֽנוּ הָאֵל הַמֶּֽלֶךְ הַגָּדוֹל וְהַקָּדוֹשׁ בַּשָּׁמַֽיִם וּבָאָֽרֶץ כִּי לְךָ נָאֶה יְיָ אֱלֹהֵֽינוּ וֵאלֹהֵי אַבוֹתֵֽינוּ שִׁיר וּשְׁבָחָה הַלֵּל וְזִמְרָה עֹז וּמֶמְשָׁלָה נֶֽצַח גְּדֻלָּה וּגְבוּרָה תְּהִלָּה וְתִפְאֶֽרֶת קְדֻשָּׁה וּמַלְכוּת בְּרָכוֹת וְהוֹדָאוֹת מֵעַתָּה וְעַד־עוֹלָם׃ בָּרוּךְ אַתָּה יְיָ אֵל מֶֽלֶךְ גָּדוֹל בַּתִּשְׁבָּחוֹת אֵל הַהוֹדָאוֹת אֲדוֹן הַנִּפְלָאוֹת הַבּוֹחֵר בְּשִׁירֵי זִמְרָה מֶֽלֶךְ אֵל חֵי הָעוֹלָמִים׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May Your name be praised forever, our Sovereign, Great and holy divine King in the heavens and the earth. For You is fitting, Adonai our God and God of our ancestors, song and exaltation, praise and melody, might and power, eminence, greatness, strength, praise, glory, holiness, sovereignty, blessings and thanks from now and for all eternity. Blessed are You, Adonai, divine Sovereign worthy of praise and thanksgiving, Master of wonders who chooses melodious songs, Royal God who endures forever.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 &nbsp;
 בָּרוּךְ אַתָּה
@@ -3441,7 +3441,7 @@ May Your name be praised forever, our Sovereign, Great and holy divine King in t
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">(Drink the fourth cup while leaning to the left.)</span> 
 &nbsp;
 Blessed are You, 
@@ -3452,7 +3452,7 @@ creator of the fruit of the vine.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה
 יְיָ אֱלֹהֵֽינוּ 
 מֶֽלֶךְ הָעוֹלָם
@@ -3495,7 +3495,7 @@ creator of the fruit of the vine.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Blessed are You, 
 Adonai our God, 
 Sovereign of the universe, 
@@ -3539,18 +3539,18 @@ and for the fruit of the vine.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 נִרְצָה
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <h3>Concluding Songs</h3>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 חֲסַל סִדּוּר פֶּסַח כְּהִלְכָתוֹ.
 כְּכָׇל מִשְׁפָּטוֹ וְחֻקָּתוֹ׃
 כַּאֲשֶׁר זָכִינוּ לְסַדֵּר אוֹתוֹ.
@@ -3564,7 +3564,7 @@ and for the fruit of the vine.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 The Passover seder has been completed correctly 
 according to all its laws and regulations. 
 Just as we merited to have a Passover seder, 
@@ -3579,7 +3579,7 @@ Next year in Jerusalem!
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 וַיְהִי בַּחֲצִי הַלַּֽיְלָה
 &nbsp;
@@ -3633,7 +3633,7 @@ Next year in Jerusalem!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">(On the first night recite the following:)</span> 
 It happened at midnight: 
 &nbsp;
@@ -3687,7 +3687,7 @@ of night.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 וַאֲמַרְתֶּם זֶֽבַח פֶּֽסַח
 &nbsp;
@@ -3740,7 +3740,7 @@ of night.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">(On the second night recite the following:)</span> 
 You shall say: “The Passover sacrifice.” 
 &nbsp;
@@ -3794,7 +3794,7 @@ of Passover.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כִּי לוֹ נָאֶה.
 כִּי לוֹ יָאֶה׃
 &nbsp;
@@ -3864,7 +3864,7 @@ of Passover.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Because it is proper for Him, 
 because it befits Him. 
 &nbsp;
@@ -3933,7 +3933,7 @@ Yours and only Yours—
 Yours, Adonai, is sovereignty!”</div></td></tr>
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אַדִּיר הוּא.
 יִבְנֶה בֵיתוֹ בְּקָרוֹב.
 בִּמְהֵרָה.
@@ -3966,7 +3966,7 @@ Yours, Adonai, is sovereignty!”</div></td></tr>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 He is mighty. 
 May He rebuild His temple soon!
 Speedily, 
@@ -4000,18 +4000,18 @@ He is commanding.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ספירת העומר
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <h3>Sefirat HaOmer</h3>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 &nbsp;
 בָּרוּךְ אַתָּה
@@ -4032,7 +4032,7 @@ He is commanding.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">(On the second night of Passover, the first night of the Omer is counted:)</span>
 &nbsp;
 Blessed are You, 
@@ -4053,7 +4053,7 @@ and may You grant us a portion in Your Torah.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֶחָד מִי יוֹדֵעַ. 
 אֶחָד אֲנִי יוֹדֵעַ. 
 אֶחָד אֱלֹהֵינוּ שֶׁבַּשָּׁמַיִם וּבָאָרֶץ׃
@@ -4186,7 +4186,7 @@ and may You grant us a portion in Your Torah.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Who knows one? 
 I know one! 
 One is our God in the heavens and the earth.
@@ -4320,7 +4320,7 @@ and one is our God in the heavens and the earth.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 חַד גַּדְיָא חַד גַּדְיָא
 דִּזְבַן אַבָּא בִּתְרֵי זוּזֵי.
 חַד גַּדְיָא חַד גַּדְיָא
@@ -4399,7 +4399,7 @@ and one is our God in the heavens and the earth.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 One little goat, one little goat 
 that my father bought for two zuzim.
 One little goat, one little goat 

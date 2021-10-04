@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 Sigd is an Amharic word meaning "prostration" or "worship" and is the commonly used name for a holiday celebrated by the Ethiopian Jewish Beta Israel community on the 29th of the Hebrew month of Marḥeshvan. This date is exactly 50 days after Yom Kippur, usually falling out in late October or November, and according to Ethiopian Jewish tradition is also the date that God first revealed himself to Moses.[foot]Jewish Virtual Library, "<a href="https://www.jewishvirtuallibrary.org/ethiopian-sigd-holiday">Ethiopian Jewry: Sigd Holiday</a>"[/foot]
 
 Sigd is a unique holiday. Originally only celebrated by the Ethiopian Jewish Beta Esrael community, it has gotten more traction recently. One could describe the key concept of Sigd as being the acceptance of the Torah — not the giving, but the receiving of it. Sigd is a holiday of the continuation of the covenant. No matter the persecution that the Beta Esrael suffered (and hoo boy, did they suffer), Sigd announced that they would preserve their Judaism through it all.
@@ -37,7 +37,7 @@ This is part one of a series of Sigd readings in English, Hebrew, and Ge'ez tran
 <thead><tr><th id="x" style="text-align: right;">Translation (Hebrew)</th><th style="text-align: left;">Translation (English)</th><th style="text-align: left;">Source (Ge'ez)</th><th style="text-align: left;">Transliteration (Ge'ez)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="instruction">חזן —</span> יִתְבָּרַךְ יהוה
 אֱלֹהֵי יִשְׂרָאֵל
 אֱלֹהֵי אֲבוֹתֵינוּ אָתָּה׃
@@ -47,7 +47,7 @@ This is part one of a series of Sigd readings in English, Hebrew, and Ge'ez tran
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">Singer:</span> Blessed be the Lord
 God of Israel,
 God of our ancestors are You.
@@ -57,7 +57,7 @@ and exult the One forever.
 </div></td>
 
 <td style="vertical-align:top;">
-<div class="ethiopic"><span lang="am">
+<div class="ethiopic" lang="gez">
 ይትባረክ ፡ እግዚአብሔር ፡ 
 አምላከ ፡ እስራኤል፣
 አምላከ ፡ አበዊነ ፡ አንተ ። 
@@ -67,7 +67,7 @@ and exult the One forever.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">Mäzämərə:</span> Yətəbaräkə ʾƎgəziʾäbəḥerə  
  ʾÄməlakä ʾƎsəraʾelə, 
  ʾÄməlakä ʾäbäwinä ʾänətä. 
@@ -78,7 +78,7 @@ wäləʿuləni wəʾətu läʿalämə.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="instruction">חזן —</span> וְיִתְבָּרַךְ יהוה
 וְיִתְקַדֵּשׁ וְיִתְעַלֶּה
 וְיִתְאַמֵּן וְיִתְהַלֵּל
@@ -91,7 +91,7 @@ wäləʿuləni wəʾətu läʿalämə.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">Singer:</span> And blessed be the Lord
 and sanctified and exulted
 and trusted and praised
@@ -104,7 +104,7 @@ and exult the One forever.
 </div></td>
 
 <td style="vertical-align:top;">
-<div class="ethiopic"><span lang="am">
+<div class="ethiopic" lang="gez">
 ወይትባረክ ፡ እግዚአብሔር ፡ 
 ወይትቄደስ ፡ ወይትሌዓል ፡ 
 ወይትኣመን ፡ ወይትኣኮት ፡ 
@@ -117,7 +117,7 @@ and exult the One forever.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">Mäzämərə:</span> Wäyətəbaräkə ʾƎgəziʾäbəḥerə 
 wäyətəḳedäsə wäyətəleʿalə 
 wäyətəʾamänə wäyətəʾakotə 
@@ -131,7 +131,7 @@ wäləʿuləni wəʾətu läʿalämə.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="instruction">חזן —</span> בָּרוּךְ אַתָּה יהוה
 אֵצֶל הַהֵיכָל
 הַקְּדוֹשִׁים יְשַׁבְּחוּךָ
@@ -146,7 +146,7 @@ wäləʿuləni wəʾətu läʿalämə.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">Singer:</span> Blessed are You, O Lord!
 At the Palace
 the holy laud You.
@@ -161,7 +161,7 @@ and glorify You forever!
 </div></td>
 
 <td style="vertical-align:top;">
-<div class="ethiopic"><span lang="am">
+<div class="ethiopic" lang="gez">
 ብሩክ ፡ አንተ ፡ እግዚኦ ፡ 
 በዲበ ፡ በጽርሐ ፡ 
 ቅዱሳት ፡ ስብሓቲከ፣
@@ -176,7 +176,7 @@ and glorify You forever!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">Mäzämərə:</span> Bərukə ʾänətä ʾƎgəziʾo 
 bädibä bäṣərəḥä 
 ḳədusatə səbəḥatikä, 
@@ -192,7 +192,7 @@ wäʾəkutəni ʾänətä läʿalämə.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="instruction">חזן —</span> בָּרוּךְ אַתָּה יִהְוֶה
 הָרוֹאֶה מַעֲמַקִּים מִמּוֹשָׁבֶךָ
 מֵעַל הַכְּרוּבִים
@@ -204,7 +204,7 @@ wäʾəkutəni ʾänətä läʿalämə.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">Singer:</span> Blessed are You, O Lord,
 who sees the depths from Your seat.
 Above the cherubim,
@@ -216,7 +216,7 @@ and exult the One forever.
 </div></td>
 
 <td style="vertical-align:top;">
-<div class="ethiopic"><span lang="am">
+<div class="ethiopic" lang="gez">
 ብሩክ ፡ አንተ ፡ እግዚኦ ፡ 
 ዘትሬኢ ፡ ቃላያት ፡ ንብርካ፣
 ልዑል ፡ ኪሩቤል ፡ 
@@ -228,7 +228,7 @@ and exult the One forever.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">Mäzämərə:</span> Bərukə ʾänətä ʾƎgəziʾo 
 zätəreʾi ḳalayatə nəbərəka, 
 ləʿulə kirubelə  
@@ -241,7 +241,7 @@ wäləʿuləni wəʾətu läʿalämə.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="instruction">חזן —</span> בָּרוּךְ אַתָּה יהוה
 אֵצֶל הַכִּסֵּא שְׁבָחוּךָ
 מַלְכוּתְךָ מְלָכוֹת שֶׁלֹּא תֶּחְסַר
@@ -259,7 +259,7 @@ wäləʿuləni wəʾətu läʿalämə.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">Singer:</span> Blessed are You, O Lord,
 At the Throne, laud You.
 Your reign is a flawless reign,
@@ -277,7 +277,7 @@ and exult the One forever.
 </div></td>
 
 <td style="vertical-align:top;">
-<div class="ethiopic"><span lang="am">
+<div class="ethiopic" lang="gez">
 ብሩክ ፡ አንተ ፡ እግዚኦ ፡ 
 በዲበ ፡ መንበር ፡ ስብሓቲከ፤
 መንግሥትከ ፡ መንግሥት ፡ ዘኢየሥዓር፣
@@ -295,7 +295,7 @@ and exult the One forever.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">Mäzämərə:</span> Bərukə ʾänətä ʾƎgəziʾo 
 bädibä mänəbärə səbəḥatikä;
 mänəgəśətəkä mänəgəśətə zäʾiyäśəʿarə, 
@@ -314,7 +314,7 @@ wäləʿuləni wəʾətu läʿalämə.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="instruction">חזן —</span> בָּרוּךְ אַתָּה יהוה
 כׇּל מַיִם אֲשֶׁר מֵעַל הַשָּׁמַיִם
 בַּחֲזוֹן הָרָקִיעַ.
@@ -334,7 +334,7 @@ wäləʿuləni wəʾətu läʿalämə.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">Singer:</span> Blessed are You, O Lord,
 all water that is above the heavens,
 at the envisioning of the firmament.
@@ -354,7 +354,7 @@ You are merciful and increase forgiveness.
 </div></td>
 
 <td style="vertical-align:top;">
-<div class="ethiopic"><span lang="am">
+<div class="ethiopic" lang="gez">
 ብሩክ ፡ አንተ ፡ እግዚኦ ፡ 
 ኵሉ ፡ ማይ ፡ ዘመልዕልተ ፡ ሰማያት፣
 በሐበ ፡ ትአይንት ፡ አርያም ። 
@@ -374,7 +374,7 @@ You are merciful and increase forgiveness.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">Mäzämərə:</span> Bərukə ʾänətä ʾƎgəziʾo,
 kʷəlu mayə zämäləʿələtä sämayatə, 
 bäḥäbä təʾäyənətə ʾärəyamə.

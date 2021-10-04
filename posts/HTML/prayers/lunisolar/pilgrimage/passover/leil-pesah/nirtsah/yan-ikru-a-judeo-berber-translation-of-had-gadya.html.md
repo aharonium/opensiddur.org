@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 Ḥad Gadya has a place in Seder tables throughout the Jewish world, and in many communities it was read in translation. This translation is in Judeo-Tamaziɣt (also known as Judeo-Berber), based on the translation of Yehuda Derʕi, born in Ighil n-Ughu in south-central Morocco in the 1920s. Here it is typed out in vocalized Hebrew, along with transcriptions in Tamaziɣt-Latin and Tifinagh. Interestingly, instead of "slaughterer," Yehuda Derʕi's translation reads "lḥǝzzan," which is used in place of "rabbi" – because to the Tamaziɣt the term "ṛǝḅḅi" is reserved for God alone. This text could be read alongside the traditional text of Ḥad Gadya during a Passover seder.
 
 Some notes for those unfamiliar with the incredibly complicated world of Tamaziɣt pronunciation:
@@ -32,310 +32,310 @@ Some notes for those unfamiliar with the incredibly complicated world of Tamazi�
 <thead><tr><th id="x" style="text-align: right;">Aramaic (source)</th><th style="text-align: left;">Translation (Tifinagh/Berber)</th><th style="text-align: right;">Hebraization (Judeo-Tamaziɣt/Berber)</th><th style="text-align: left;">Romanization (Tamaziɣt-Latin)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="25%">
-<div class="aramaic" style="text-align: right;"><span lang="he">	 
+<div class="aramaic" lang="jpa" style="text-align: right;">	 
 חַד גַּדְיָא, דְּזַבִּן אַבָּא בִּתְרֵי זוּזֵי, חַד גַּדְיָא, חַד גַּדְיָא.
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="judeo-berber"><span lang="Tfng">
+<div class="tifinagh" lang="ber">
 ⵢⴰⵏ ⵉⴽⵔⵓ ⵢⴰⵏ ⵉⴽⵔⵓⴰⵯ ⵉⵙⵖⴰⵢⵜ ⴲⴲⴰⵯ ⵙⵙⵉⵏ ⵉⵇⴰⵔⵉⴷⴻⵏⴰⵯ ⵢⴰⵏ ⵉⴽⵔⵓ ⵢⴰⵏ ⵉⴽⵔⵓⴰⵯ
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="liturgy"><span lang="jbe">
+<div class="liturgy" lang="he">
 יַאן יִכְּרוּ יַאן יִכְּרוּ, יִסְגַית בָּא שִּׂין יִקַרִידְן, יַאן יִכְּרוּ יַאן יִכְּרוּ׃
 </div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 Yan ikru yan ikru, isɣayt ḅḅă ssin iqaridǝn, yan ikru yan ikru.
 </div>
 </td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 One little goat that my father bought for two zuzim, for two zuzim.
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="25%">
-<div class="aramaic" style="text-align: right;"><span lang="he">	 
+<div class="aramaic" lang="jpa" style="text-align: right;">	 
 וְאָתָא שֻׁנְרָא וְאָכְלָה לְגַדְיָא, דְּזַבִּן אַבָּא בִּתְרֵי זוּזֵי, חַד גַּדְיָא, חַד גַּדְיָא.
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="judeo-berber"><span lang="Tfng">
+<div class="tifinagh" lang="ber">
 ⵜⵓⵛⴽⴰⴷ ⵜⴱⵓⵙⵉ ⵜⴻⵙⵙⴰ ⵉⴽⵔⵓⴰⵯ ⵉⵙⵖⴰⵢⵜ ⴲⴲⴰⵯ ⵙⵙⵉⵏ ⵉⵇⴰⵔⵉⴷⴻⵏⴰⵯ ⵢⴰⵏ ⵉⴽⵔⵓ ⵢⴰⵏ ⵉⴽⵔⵓⴰⵯ
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="liturgy"><span lang="jbe">
+<div class="liturgy" lang="he">
 תוּשכַּד תבוּסִי תְשַּא יִכְּרוּ יִסְגַית בָּא שִּׂין יִקַרִידְן, יַאן יִכְּרוּ יַאן יִכְּרוּ
 </div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 Tuškad tbusi tǝssa ikru, isɣayt ḅḅă ssin iqaridǝn, yan ikru yan ikru.
 </div>
 </td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 A cat came and ate the goat that my father bought for two zuzim, for two zuzim.
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="25%">
-<div class="aramaic" style="text-align: right;"><span lang="he">	 
+<div class="aramaic" lang="jpa" style="text-align: right;">	 
 וְאָתָא כַּלְבָּא וְנָשַׁךְ לְשֻׁנְרָא, דְּאָכְלָה לְגַדְיָא, דְּזַבִּן אַבָּא בִּתְרֵי זוּזֵי, חַד גַּדְיָא, חַד גַּדְיָא.
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="judeo-berber"><span lang="Tfng">
+<div class="tifinagh" lang="ber">
 ⵜⵓⵛⴽⴰⴷ ⵜⴰⵉⴷⵉⵜ ⵜⴻⴱⴱⵉ ⵜⴰⴱⵓⵙⵉ ⵜⴻⵙⵙⴰ ⵉⴽⵔⵓⴰⵯ ⵉⵙⵖⴰⵢⵜ ⴲⴲⴰⵯ ⵙⵙⵉⵏ ⵉⵇⴰⵔⵉⴷⴻⵏⴰⵯ ⵢⴰⵏ ⵉⴽⵔⵓ ⵢⴰⵏ ⵉⴽⵔⵓⴰⵯ
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="liturgy"><span lang="jbe">
+<div class="liturgy" lang="he">
 תוּשכַּד תַאיִדִית תְבִּי תַבוּסִי תְשַּא יִכְּרוּ יִסְגַית בָּא שִּׂין יִקַרִידְן, יַאן יִכְּרוּ יַאן יִכְּרוּ׃
 </div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 Tuškad taidit tǝbbi tabusi tǝssa ikru, isɣayt ḅḅă ssin iqaridǝn, yan ikru yan ikru.
 </div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 A dog came and bit the cat that ate the goat that my father bought for two zuzim, for two zuzim.
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="25%">
-<div class="aramaic" style="text-align: right;"><span lang="he">	 
+<div class="aramaic" lang="jpa" style="text-align: right;">	 
 וְאָתָא חֻטְרָא וְהִכָּה לְכַלְבָּא, דְּנָשַׁךְ לְשֻׁנְרָא, דְּאָכְלָה לְגַדְיָא, דְּזַבִּן אַבָּא בִּתְרֵי זוּזֵי, חַד גַּדְיָא, חַד גַּדְיָא.
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="judeo-berber"><span lang="Tfng">
+<div class="tifinagh" lang="ber">
 ⵜⵓⵛⴽⴰⴷ ⵜⵇⵓⵕⴰⵯⵉⴷⵉⵜ ⵜⵓⵜ ⵜⴰⵉⴷⵉⵜ ⵜⴻⴱⴱⵉ ⵜⴰⴱⵓⵙⵉ ⵜⴻⵙⵙⴰ ⵉⴽⵔⵓⴰⵯ ⵉⵙⵖⴰⵢⵜ ⴲⴲⴰⵯ ⵙⵙⵉⵏ ⵉⵇⴰⵔⵉⴷⴻⵏⴰⵯ ⵢⴰⵏ ⵉⴽⵔⵓ ⵢⴰⵏ ⵉⴽⵔⵓⴰⵯ
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="liturgy"><span lang="jbe">
+<div class="liturgy" lang="he">
 תוּשכַּד תקוּרָ֯אית תוּת תַאיִדִית תְבִּי תַבוּסִי תְשַּא יִכְּרוּ יִסְגַית בָּא שִּׂין יִקַרִידְן, יַאן יִכְּרוּ יַאן יִכְּרוּ׃
 </div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 Tuškad tquṛăidit tut taidit tǝbbi tabusi tǝssa ikru, isɣayt ḅḅă ssin iqaridǝn, yan ikru yan ikru.
 </div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 A stick came and hit the dog that bit the cat that ate the goat that my father bought for two zuzim, for two zuzim.
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="25%">
-<div class="aramaic" style="text-align: right;"><span lang="he">	 
+<div class="aramaic" lang="jpa" style="text-align: right;">	 
 וְאָתָא נוּרָא וְשָׂרַף לְחֻטְרָא, דְּהִכָּה לְכַלְבָּא, דְּנָשַׁךְ לְשֻׁנְרָא, דְּאָכְלָה לְגַדְיָא, דְּזַבִּן אַבָּא בִּתְרֵי זוּזֵי, חַד גַּדְיָא, חַד גַּדְיָא.
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="judeo-berber"><span lang="Tfng">
+<div class="tifinagh" lang="ber">
 ⵜⵓⵛⴽⴰⴷ lⴰⵄⴼⵉⵜ ⵜⴻⵥⴷⴻⵔ ⵜⵇⵓⵕⴰⵯⵉⴷⵉⵜ ⵜⵓⵜ ⵜⴰⵉⴷⵉⵜ ⵜⴻⴱⴱⵉ ⵜⴰⴱⵓⵙⵉ ⵜⴻⵙⵙⴰ ⵉⴽⵔⵓⴰⵯ ⵉⵙⵖⴰⵢⵜ ⴲⴲⴰⵯ ⵙⵙⵉⵏ ⵉⵇⴰⵔⵉⴷⴻⵏⴰⵯ ⵢⴰⵏ ⵉⴽⵔⵓ ⵢⴰⵏ ⵉⴽⵔⵓⴰⵯ
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="liturgy"><span lang="jbe">
+<div class="liturgy" lang="he">
 תוּשכַּד לַעְפִית תְז֯דְר תַקוּרָ֯אית תוּת תַאיִדִית תְבִּי תַבוּסִי תְשַּא יִכְּרוּ יִסְגַית בָּא שִּׂין יִקַרִידְן, יַאן יִכְּרוּ יַאן יִכְּרוּ׃
 </div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 Tuškad laʕfit tǝẓdǝr tquṛăidit tut taidit tǝbbi tabusi tǝssa ikru, isɣayt ḅḅă ssin iqaridǝn, yan ikru yan ikru.
 </div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 A fire came and burned the stick that hit the dog that bit the cat that ate the goat that my father bought for two zuzim, for two zuzim.
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="25%">
-<div class="aramaic" style="text-align: right;"><span lang="he">	 
+<div class="aramaic" lang="jpa" style="text-align: right;">	 
 וְאָתָא מַיָּא וְכָבָה לְנוּרָא, דְּשָׂרַף לְחֻטְרָא, דְּהִכָּה לְכַלְבָּא, דְּנָשַׁךְ לְשֻׁנְרָא, דְּאָכְלָה לְגַדְיָא, דְּזַבִּן אַבָּא בִּתְרֵי זוּזֵי, חַד גַּדְיָא, חַד גַּדְיָא.
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="judeo-berber"><span lang="Tfng">
+<div class="tifinagh" lang="ber">
 ⵓⵛⴽⴰⵏⴷ ⵡⴰⵎⴰⵏ ⵙⴻⵅⵙⵉⵜ lⴰⵄⴼⵉⵜ ⵜⴻⵥⴷⴻⵔ ⵜⵇⵓⵕⴰⵯⵉⴷⵉⵜ ⵜⵓⵜ ⵜⴰⵉⴷⵉⵜ ⵜⴻⴱⴱⵉ ⵜⴰⴱⵓⵙⵉ ⵜⴻⵙⵙⴰ ⵉⴽⵔⵓⴰⵯ ⵉⵙⵖⴰⵢⵜ ⴲⴲⴰⵯ ⵙⵙⵉⵏ ⵉⵇⴰⵔⵉⴷⴻⵏⴰⵯ ⵢⴰⵏ ⵉⴽⵔⵓ ⵢⴰⵏ ⵉⴽⵔⵓⴰⵯ
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="liturgy"><span lang="jbe">
+<div class="liturgy" lang="he">
 אוּשכַּנד וַאמַן סְּכֿסִין לַעְפִית תְז֯דְר תַקוּרָ֯אית תוּת תַאיִדִית תְבִּי תַבוּסִי תְשַּא יִכְּרוּ יִסְגַית בָּא שִּׂין יִקַרִידְן, יַאן יִכְּרוּ יַאן יִכְּרוּ׃
 </div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 Uškand waman sǝxsit laʕfit tǝẓdǝr tquṛăidit tut taidit tǝbbi tabusi tǝssa ikru, isɣayt ḅḅă ssin iqaridǝn, yan ikru yan ikru.
 </div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 Water came and put out the fire that burned the stick that hit the dog that bit the cat that ate the goat that my father bought for two zuzim, for two zuzim.
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="25%">
-<div class="aramaic" style="text-align: right;"><span lang="he">	 
+<div class="aramaic" lang="jpa" style="text-align: right;">	 
 וְאָתָא תּוֹרָא וְשָׁתָא לְמַיָּא, דְּכָבָה לְנוּרָא, דְּשָׂרַף לְחֻטְרָא, דְּהִכָּה לְכַלְבָּא, דְּנָשַׁךְ לְשֻׁנְרָא, דְּאָכְלָה לְגַדְיָא, דְּזַבִּן אַבָּא בִּתְרֵי זוּזֵי, חַד גַּדְיָא, חַד גַּדְיָא.
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="judeo-berber"><span lang="Tfng">
+<div class="tifinagh" lang="ber">
 ⵢⵓⵛⴽⴰⴷ ⵡⴰⵯⵖⵡⵉ ⵉⵙⵡⴰ ⴰⵎⴰⵏ ⵙⴻⵅⵙⵉⵜ lⴰⵄⴼⵉⵜ ⵜⴻⵥⴷⴻⵔ ⵜⵇⵓⵕⴰⵯⵉⴷⵉⵜ ⵜⵓⵜ ⵜⴰⵉⴷⵉⵜ ⵜⴻⴱⴱⵉ ⵜⴰⴱⵓⵙⵉ ⵜⴻⵙⵙⴰ ⵉⴽⵔⵓⴰⵯ ⵉⵙⵖⴰⵢⵜ ⴲⴲⴰⵯ ⵙⵙⵉⵏ ⵉⵇⴰⵔⵉⴷⴻⵏⴰⵯ ⵢⴰⵏ ⵉⴽⵔⵓ ⵢⴰⵏ ⵉⴽⵔⵓⴰⵯ
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="liturgy"><span lang="jbe">
+<div class="liturgy" lang="he">
 יוּשכַּד וָגוִי יִשׂוַא אַמַן סְּכֿסִין לַעְפִית תְז֯דְר תַקוּרָ֯אית תוּת תַאיִדִית תְבִּי תַבוּסִי תְשַּא יִכְּרוּ יִסְגַית בָּא שִּׂין יִקַרִידְן, יַאן יִכְּרוּ יַאן יִכְּרוּ׃
 </div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 Yuškad wăɣwi iswa aman sǝxsit laʕfit tǝẓdǝr tquṛăidit tut taidit tǝbbi tabusi tǝssa ikru, isɣayt ḅḅă ssin iqaridǝn, yan ikru yan ikru.
 </div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 An ox came and drank the water that put out the fire that burned the stick that hit the dog that bit the cat that ate the goat that my father bought for two zuzim, for two zuzim.
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="25%">
-<div class="aramaic" style="text-align: right;"><span lang="he">	 
+<div class="aramaic" lang="jpa" style="text-align: right;">	 
 וְאָתָא הַשּׁוֹחֵט וְשָׁחַט לְתוֹרָא, דְּשָׁתָא לְמַיָּא, דְּכָבָה לְנוּרָא, דְּשָׂרַף לְחֻטְרָא, דְּהִכָּה לְכַלְבָּא, דְּנָשַׁךְ לְשֻׁנְרָא, דְּאָכְלָה לְגַדְיָא, דְּזַבִּן אַבָּא בִּתְרֵי זוּזֵי, חַד גַּדְיָא, חַד גַּדְיָא.
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="judeo-berber"><span lang="Tfng">
+<div class="tifinagh" lang="ber">
 ⵢⵓⵛⴽⴰⴷ lⵃⴻⵣⵣⴰⵏ ⵉⵖⴻⵔⵙ ⵡⴰⵯⵖⵡⵉ ⵉⵙⵡⴰ ⴰⵎⴰⵏ ⵙⴻⵅⵙⵉⵜ lⴰⵄⴼⵉⵜ ⵜⴻⵥⴷⴻⵔ ⵜⵇⵓⵕⴰⵯⵉⴷⵉⵜ ⵜⵓⵜ ⵜⴰⵉⴷⵉⵜ ⵜⴻⴱⴱⵉ ⵜⴰⴱⵓⵙⵉ ⵜⴻⵙⵙⴰ ⵉⴽⵔⵓⴰⵯ ⵉⵙⵖⴰⵢⵜ ⴲⴲⴰⵯ ⵙⵙⵉⵏ ⵉⵇⴰⵔⵉⴷⴻⵏⴰⵯ ⵢⴰⵏ ⵉⴽⵔⵓ ⵢⴰⵏ ⵉⴽⵔⵓⴰⵯ
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="liturgy"><span lang="jbe">
+<div class="liturgy" lang="he">
 יוּשכַּד לחְזַּן יִגְרס וָגוִי יִשׂוַא אַמַן סְּכֿסִין לַעְפִית תְז֯דְר תַקוּרָ֯אית תוּת תַאיִדִית תְבִּי תַבוּסִי תְשַּא יִכְּרוּ יִסְגַית בָּא שִּׂין יִקַרִידְן, יַאן יִכְּרוּ יַאן יִכְּרוּ׃
 </div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 Yuškad lḥǝzzan iɣǝrs wăɣwi iswa aman sǝxsit laʕfit tǝẓdǝr tquṛăidit tut taidit tǝbbi tabusi tǝssa ikru, isɣayt ḅḅă ssin iqaridǝn, yan ikru yan ikru.
 </div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 A butcher came and slaughtered the ox that drank the water that put out the fire that burned the stick that hit the dog that bit the cat that ate the goat that my father bought for two zuzim, for two zuzim.
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="25%">
-<div class="aramaic" style="text-align: right;"><span lang="he">	 
+<div class="aramaic" lang="jpa" style="text-align: right;">	 
 וְאָתָא מַלְאַךְ־הַמָּ֫וֶת וְשָׁחַט לְשׁוֹחֵט, דְּשָׁחַט לְתוֹרָא, דְּשָׁתָא לְמַיָּא, דְּכָבָה לְנוּרָא, דְּשָׂרַף לְחֻטְרָא, דְּהִכָּה לְכַלְבָּא, דְּנָשַׁךְ לְשֻׁנְרָא, דְּאָכְלָה לְגַדְיָא, דְּזַבִּן אַבָּא בִּתְרֵי זוּזֵי, חַד גַּדְיָא, חַד גַּדְיָא.
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="judeo-berber"><span lang="Tfng">
+<div class="tifinagh" lang="ber">
 ⵜⵓⵛⴽⴰⴷ lⵎⵓⵜ ⵜⴻⵏⵖⴰ lⵃⴻⵣⵣⴰⵏ ⵉⵖⴻⵔⵙ ⵡⴰⵯⵖⵡⵉ ⵉⵙⵡⴰ ⴰⵎⴰⵏ ⵙⴻⵅⵙⵉⵜ lⴰⵄⴼⵉⵜ ⵜⴻⵥⴷⴻⵔ ⵜⵇⵓⵕⴰⵯⵉⴷⵉⵜ ⵜⵓⵜ ⵜⴰⵉⴷⵉⵜ ⵜⴻⴱⴱⵉ ⵜⴰⴱⵓⵙⵉ ⵜⴻⵙⵙⴰ ⵉⴽⵔⵓⴰⵯ ⵉⵙⵖⴰⵢⵜ ⴲⴲⴰⵯ ⵙⵙⵉⵏ ⵉⵇⴰⵔⵉⴷⴻⵏⴰⵯ ⵢⴰⵏ ⵉⴽⵔⵓ ⵢⴰⵏ ⵉⴽⵔⵓⴰⵯ
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="liturgy"><span lang="jbe">
+<div class="liturgy" lang="he">
 תוּשכַּד לְמוּת תְנגַא לחְזַּן יִגְרס וָגוִי יִשׂוַא אַמַן סְּכֿסִין לַעְפִית תְז֯דְר תַקוּרָ֯אית תוּת תַאיִדִית תְבִּי תַבוּסִי תְשַּא יִכְּרוּ יִסְגַית בָּא שִּׂין יִקַרִידְן, יַאן יִכְּרוּ יַאן יִכְּרוּ׃
 </div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 Tuškad lmut tǝnɣa lḥǝzzan iɣǝrs wăɣwi iswa aman sǝxsit laʕfit tǝẓdǝr tquṛăidit tut taidit tǝbbi tabusi tǝssa ikru, isɣayt ḅḅă ssin iqaridǝn, yan ikru yan ikru.
 </div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 The Angel of Death came and slaughtered the shoḥet who slaughtered the ox that drank the water that put out the fire that burned the stick that hit the dog that bit the cat that ate the goat that my father bought for two zuzim, for two zuzim.
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="25%">
-<div class="aramaic" style="text-align: right;"><span lang="he">	 
+<div class="aramaic" lang="jpa" style="text-align: right;">	 
 וְאָתָא הַקָּדוֹשׁ־בָּרוּךְ־הוּא וְשָׁחַט לְמַלְאַךְ־הַמָּ֫וֶת וְשָׁחַט לְשׁוֹחֵט, דְּשָׁחַט לְתוֹרָא, דְּשָׁתָא לְמַיָּא, דְּכָבָה לְנוּרָא, דְּשָׂרַף לְחֻטְרָא, דְּהִכָּה לְכַלְבָּא, דְּנָשַׁךְ לְשֻׁנְרָא, דְּאָכְלָה לְגַדְיָא, דְּזַבִּן אַבָּא בִּתְרֵי זוּזֵי, חַד גַּדְיָא, חַד גַּדְיָא.
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="judeo-berber"><span lang="Tfng">
+<div class="tifinagh" lang="ber">
 ⵢⵓⵛⴽⴰⴷ ⵕⴻⴲⴲⵉ ⵉⵏⵖⴰ lⵎⵓⵜ ⵜⴻⵏⵖⴰ lⵃⴻⵣⵣⴰⵏ ⵉⵖⴻⵔⵙ ⵡⴰⵯⵖⵡⵉ ⵉⵙⵡⴰ ⴰⵎⴰⵏ ⵙⴻⵅⵙⵉⵜ lⴰⵄⴼⵉⵜ ⵜⴻⵥⴷⴻⵔ ⵜⵇⵓⵕⴰⵯⵉⴷⵉⵜ ⵜⵓⵜ ⵜⴰⵉⴷⵉⵜ ⵜⴻⴱⴱⵉ ⵜⴰⴱⵓⵙⵉ ⵜⴻⵙⵙⴰ ⵉⴽⵔⵓⴰⵯ ⵉⵙⵖⴰⵢⵜ ⴲⴲⴰⵯ ⵙⵙⵉⵏ ⵉⵇⴰⵔⵉⴷⴻⵏⴰⵯ ⵢⴰⵏ ⵉⴽⵔⵓ ⵢⴰⵏ ⵉⴽⵔⵓⴰⵯ
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="liturgy"><span lang="jbe">
+<div class="liturgy" lang="he">
 יוּשכַּד רְ֯בִּי יִנגַא לְמוּת תְנגַא לחְזַּן יִגְרס וָגוִי יִשׂוַא אַמַן סְּכֿסִין לַעְפִית תְז֯דְר תַקוּרָ֯אית תוּת תַאיִדִית תְבִּי תַבוּסִי תְשַּא יִכְּרוּ יִסְגַית בָּא שִּׂין יִקַרִידְן, יַאן יִכְּרוּ יַאן יִכְּרוּ׃
 </div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 Yuškad ṛǝḅḅi inɣa lmut tǝnɣa lḥǝzzan iɣǝrs wăɣwi iswa aman sǝxsit laʕfit tǝẓdǝr tquṛăidit tut taidit tǝbbi tabusi tǝssa ikru, isɣayt ḅḅă ssin iqaridǝn, yan ikru yan ikru.
 </div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 Then the blessed Holy One came and slaughtered the Angel of Death who slaughtered the shoḥet who slaughtered the ox that drank the water that put out the fire that burned the stick that hit the dog that bit the cat that ate the goat that my father bought for two zuzim, for two zuzim.
 </div>
 </td></tr>

@@ -17,7 +17,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָלֶף בֵּית 
 גִּימֵל דָּלֶת הֵא (הֵי!)
 וָו זַיִן 
@@ -31,7 +31,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Alef Bet
 Gimel Dalet Hei, (<em>hey!</em>)
 Vav Zayin
@@ -46,7 +46,7 @@ Otiyot! (<em>letters</em>)
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָלֶף בֵּית 
 גִּימֵל דָּלֶת הֵא (הֵי!)
 וָו זַיִן 
@@ -60,7 +60,7 @@ Otiyot! (<em>letters</em>)
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Alef Bet
 Gimel Dalet Hei, (<em>hey!</em>)
 Vav Zayin
@@ -74,7 +74,7 @@ Shemot! (<em>names</em>)
 </div></td></tr>
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">אֵ</span>ל <span class="acrostic">בָּ</span>רוּךְ <span class="acrostic">גְּ</span>דוֹל <span class="acrostic">דֵּ</span>עָה,
 <span class="acrostic">הֵ</span>כִין <span class="acrostic">וּ</span>פָעַל <span class="acrostic">זָ</span>הֳרֵי <span class="acrostic">חַ</span>מָּה.
 <span class="acrostic">ט</span>וֹב <span class="acrostic">יָ</span>צַר <span class="acrostic">כָּ</span>בוֹד <span class="acrostic">לִ</span>שְׁמוֹ,
@@ -87,7 +87,7 @@ Shemot! (<em>names</em>)
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 The blessed EL, great in knowledge, <span class="acrostic">&nbsp;</span>
 designed and made the brilliant sun. <span class="acrostic">&nbsp;</span>
 The Beneficent One created <em>kavod</em> for their Name. <span class="acrostic">&nbsp;</span>
@@ -99,7 +99,7 @@ They constantly recount EL’s <em>kavod</em> and holiness. <span class="acrosti
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָלֶף בֵּית 
 גִּימֵל דָּלֶת הֵא (הֵי!)
 וָו זַיִן 
@@ -113,7 +113,7 @@ They constantly recount EL’s <em>kavod</em> and holiness. <span class="acrosti
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Alef Bet
 Gimel Dalet Hei, (<em>hey!</em>)
 Vav Zayin
@@ -128,7 +128,7 @@ Otiyot! (<em>letters</em>)
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָלֶף בֵּית 
 גִּימֵל דָּלֶת הֵא (הֵי!)
 וָו זַיִן 
@@ -142,7 +142,7 @@ Otiyot! (<em>letters</em>)
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Alef Bet
 Gimel Dalet Hei, (<em>hey!</em>)
 Vav Zayin
@@ -157,12 +157,12 @@ Drashot! (<em>interpretations</em>)
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Letters are the building blocks of all of God's creation
 Kabbalistic keys unlock the heart of human nature
 Metaphysic molecules of mystic nomenclature
@@ -171,12 +171,12 @@ Torah is the Tree of Life in musical notation
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Speaking into being, existential occupation
 For servants of the Source of Light and Root of Revelation
 Reading into meaning, covenantal calibration
@@ -185,7 +185,7 @@ For students on the path of learning language liberation
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">אֵ</span>ל <span class="acrostic">בָּ</span>רוּךְ <span class="acrostic">גְּ</span>דוֹל <span class="acrostic">דֵּ</span>עָה,
 <span class="acrostic">הֵ</span>כִין <span class="acrostic">וּ</span>פָעַל <span class="acrostic">זָ</span>הֳרֵי <span class="acrostic">חַ</span>מָּה.
 <span class="acrostic">ט</span>וֹב <span class="acrostic">יָ</span>צַר <span class="acrostic">כָּ</span>בוֹד <span class="acrostic">לִ</span>שְׁמוֹ,
@@ -196,7 +196,7 @@ For students on the path of learning language liberation
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 The blessed EL, great in knowledge, <span class="acrostic">&nbsp;</span>
 designed and made the brilliant sun. <span class="acrostic">&nbsp;</span>
 The Beneficent One created <em>kavod</em> for their Name. <span class="acrostic">&nbsp;</span>
@@ -208,7 +208,7 @@ They constantly recount EL’s <em>kavod</em> and holiness. <span class="acrosti
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָלֶף בֵּית 
 גִּימֵל דָּלֶת הֵא (הֵי!)
 וָו זַיִן 
@@ -222,7 +222,7 @@ They constantly recount EL’s <em>kavod</em> and holiness. <span class="acrosti
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Alef Bet
 Gimel Dalet Hei, (<em>hey!</em>)
 Vav Zayin
@@ -237,7 +237,7 @@ Otiyot! (<em>letters</em>)
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָלֶף בֵּית 
 גִּימֵל דָּלֶת הֵא (הֵי!)
 וָו זַיִן 
@@ -251,7 +251,7 @@ Otiyot! (<em>letters</em>)
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Alef Bet
 Gimel Dalet Hei, (<em>hey!</em>)
 Vav Zayin

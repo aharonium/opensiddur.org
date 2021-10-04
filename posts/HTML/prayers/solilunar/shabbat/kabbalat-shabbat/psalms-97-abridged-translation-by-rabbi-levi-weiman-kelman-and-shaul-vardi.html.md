@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יהוה מָלָךְ 
 תָּגֵל הָאָרֶץ, 
 יִשְׂמְחוּ אִיִים רַבִּים׃ 
@@ -20,7 +20,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 YHVH reigns׃ 
 let the earth rejoice, 
 the many nations be glad.
@@ -30,7 +30,7 @@ Right and justice are the foundation of God’s throne.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֵשׁ לְפָנָיו תֵּלֵךְ, 
 וּתְלַהֵט סָבִיב צָרָיו׃ 
 הֵאִירוּ בְרָקָיו תֵּבֵל, רָאֲתָה וַתָּחֵל הָאָרֶץ׃ 
@@ -39,13 +39,13 @@ Right and justice are the foundation of God’s throne.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הִגִּידוּ הַשָּׁמַיִם צִדְקוֹ, 
 וְרָאוּ כָל־הָעַמִּים כְּבוֹדוֹ׃ 
 יֵבֹשׁוּ כָּל־עֹבְדֵי פֶסֶל הַמִּתְהַלְלִים בָּאֱלִילִים, 
@@ -53,7 +53,7 @@ Right and justice are the foundation of God’s throne.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 The heavens tell of God’s righteousness, 
 the peoples witness God’s glory.
 Idolaters are ashamed – 
@@ -62,7 +62,7 @@ let all who are worshiped bow before Elohim!
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שָׁמְעָה וַתִּשְׂמַח צִיּוֹן 
 וַתָּגֵלְנָה בְּנוֹת יְהוּדָה, לְמַעַן מִשְׁפָּטֶיךָ יהוה׃ 
 כִּי־אַתָּה יהוה עֶלְיוֹן עַל־כָּל־הָאָרֶץ, 
@@ -70,7 +70,7 @@ let all who are worshiped bow before Elohim!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Tsiyon hears and is glad,
 The cities of Yehudah rejoice over your judgments YHVH.
 For you, YHVH, are supreme over all the earth,
@@ -79,7 +79,7 @@ You are exalted far above the gods that are worshiped.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֹהֲבֵי יהוה שִׂנְאוּ רָע, 
 שֹׁמֵר נַפְשׁוֹת חֲסִידָיו 
 מִיַּד רְשָׁעִים יַצִּילֵם׃ 
@@ -90,7 +90,7 @@ You are exalted far above the gods that are worshiped.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 YHVH loves those who hate evil!
 &nbsp;
 &nbsp;

@@ -26,12 +26,12 @@ With that, Mr. President, I yield the floor, and I thank the leaders.
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Almighty God, 
 I invoke Your blessing today 
 on this honorable body, 
@@ -40,12 +40,12 @@ the United States Senate.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 In these troubling times, 
 when misguided people use religion 
 to commit the greatest crimes against humanity 
@@ -62,12 +62,12 @@ the foremost of which is not to commit murder.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Grant, Almighty God, 
 that the Members of the Senate, who assembled here today, 
 to fulfill one of Your Seven Commandments, 
@@ -84,12 +84,12 @@ that is facing ongoing terror and violence.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Almighty God, 
 I beseech You today to bless the Senate, 
 in the merit of one of the spiritual giants of our time and our Nation, 
@@ -105,12 +105,12 @@ neither shall they learn war anymore."[foot]Isaiah 2:4. Cf. Micah 4:3.[/foot]
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָמֵן׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <em>Amen.</em>
 </div></td></tr>
 </tbody></table>

@@ -12,19 +12,19 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr>
 <td style="vertical-align:top;" >
-<div class="commentary"><span lang="he">
+<div class="commentary" lang="he">
 תלמוד ירושלמי מסכת עבודה זרה פרק א ה״א -  דף לט טור ג
 </div></span></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <u>Talmud Yerushalmi Avoda Zara 1:5a / 39c</u> (Steinmetz trans.)
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" >
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רב אמר קלנדס אדם הראשון התקינו.‏
 כיון דחמא לילייא אריך 
 אמר אי לי שמא שכתוב בו 
@@ -36,7 +36,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </div></span></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Rav said: [The festival] <a href="https://en.wikipedia.org/wiki/New_Year%27s_Day#January_Kalends">Ḳalends</a> was established by Adam haRishon.
 When he saw that the night was lengthening,
 he said: Woe to me lest the one about whom it is written 
@@ -49,7 +49,7 @@ When he saw that the day was lengthening, he said “Ḳalendes!”—<em>kalon 
 
 
 <tr><td style="vertical-align:top;" >
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ואיתא כמאן דאמ׳ בתשרי נברא העולם 
 ברם כמאן דאמר בניסן נברא העולם ידע הוה.‏
 אמר רבי יוסי ביר׳ בון 
@@ -60,7 +60,7 @@ When he saw that the day was lengthening, he said “Ḳalendes!”—<em>kalon 
 </div></span></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 And this is in accordance with the one who said that the world was created in Tishrei; 
 but according to the one who said that the world was created in Nissan, he knew.
 Rabbi Yose [b. Ḥalafta] said: 
@@ -73,25 +73,25 @@ thus on Rosh haShanah the world was created.
 
 
 <tr><td style="vertical-align:top;" >
-<div class="commentary"><span lang="he">
+<div class="commentary" lang="he">
 תלמוד בבלי מסכת עבודה זרה <a href="http://he.wikisource.org/wiki/%D7%A2%D7%91%D7%95%D7%93%D7%94_%D7%96%D7%A8%D7%94_%D7%97_%D7%90">דף ח עמוד א</a> 
 </div></span></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <u>Talmud Bavli Avoda Zara 8a</u> (Soncino Talmud, A. Cohen trans.)
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" >
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מתני׳ ואלו אידיהן של עובדי כוכבים: 
 קלנדא וסטרנורא. . . .‏
 </div></span></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 MISHNA. These are the festivities of the star worshippers: 
 <em>Ḳalenda</em>, <em>Saturnalia</em>....
 </div>
@@ -99,7 +99,7 @@ MISHNA. These are the festivities of the star worshippers:
 
 
 <tr><td style="vertical-align:top;" >
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 גמ׳ אמר רב חנן בר רבא: 
 קלנדא - ח׳ ימים אחר תקופה, 
 סטרנורא - ח׳ ימים לפני תקופה.‏
@@ -107,7 +107,7 @@ MISHNA. These are the festivities of the star worshippers:
 </div></span></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 GEMARA. Said R. Ḥanan b. Raba: 
 <em>Ḳalenda</em> is kept on the eight days following the solstice.[foot]The Provençal Calendas or Calenos, the Polish Kolenda, the Russian Kolyáda, the Czech Koleda, the Lithuanian Kalledos, the Welsh Calenig (for Christmas-box), and the Gaelic Calluinn (for New Year's Eve), are all derived from the Latin Ḳalendae ("the called"), the same word from which 'calendar' is derived. The Ḳalends or the first day of January, a time celebrated with many festive customs. Ḳalends was also a general term for the first day of each Roman month, signifying the start of the new moon cycle<em>, or Ḳalenda</em>. Ḳalends may be related to the <a href="http://en.wikipedia.org/wiki/Lenaia"><em>Lenaia</em></a>, an ancient Greek holiday celebrated during the Attic calendar month of Gamelion (first Winter month between December and January). (--Aharon Varady)[/foot] 
 <em>Saturnalia</em> on the eight days preceding the solstice.[foot]Counting eight days from the beginning of the Saturnalia to the end of the Brumalia. <a href="http://en.wikipedia.org/wiki/Saturnalia">Saturnalia</a> was celebrated December 17-23rd in the Roman calendar at the the end of the <a href="http://en.wikipedia.org/wiki/Brumalia">Brumalia</a>, a month long celebration ending on December 24th. (--Aharon Varady)[/foot] 
@@ -117,7 +117,7 @@ As a mnemonic take the verse, "You have hemmed me in behind and before" <span cl
 
 
 <tr><td style="vertical-align:top;" >
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ת״ר: 
 לפי שראה אדם הראשון יום שמתמעט והולך
 אמר: אוי לי שמא בשביל שסרחתי 
@@ -133,7 +133,7 @@ As a mnemonic take the verse, "You have hemmed me in behind and before" <span cl
 </div></span></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Our Rabbis taught: 
 When <em>Adam HaRishon</em> (primordial Adam) saw the day getting gradually shorter, 
 he said, ‘Woe is me, perhaps because I have sinned, 
@@ -151,7 +151,7 @@ but the [unenlightened] appointed them for the sake of star worship.
 
 
 <tr><td style="vertical-align:top;" >
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בשלמא למ״ד בתשרי נברא העולם—
 יומי זוטי חזא, יומי אריכי אכתי לא חזא;‏ 
 אלא למ״ד בניסן נברא העולם—
@@ -160,7 +160,7 @@ but the [unenlightened] appointed them for the sake of star worship.
 </div></span></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 This is quite right according to the one who holds that the world was created in [the month of] <em>Tishrei</em>, 
 so that he saw the short days before seeing the longer days; 
 but according to the one holding that the world was created in [the month of] <em>Nissan</em>, 
@@ -171,7 +171,7 @@ Still, he had not yet seen the very short days.
 
 
 <tr><td style="vertical-align:top;" >
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ת״ר: 
 יום שנברא בו אדם הראשון, כיון ששקעה עליו חמה
 אמר: אוי לי שבשביל שסרחתי עולם חשוך בעדי 
@@ -185,7 +185,7 @@ Still, he had not yet seen the very short days.
 </div></span></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Our Rabbis taught: 
 When Adam, on the day of his creation, saw the setting of the sun 
 he said, ‘Alas, it is because I have sinned that the world around me is becoming dark; 
@@ -201,7 +201,7 @@ as it is said [by the Psalmist], "And it [my thanksgiving] shall be more pleasin
 
 
 <tr><td style="vertical-align:top;" >
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ואמר רב יהודה אמר שמואל: 
 שור שהקריב אדם הראשון קרן אחת היתה [לו] במצחו
 שנאמר: ותיטב לה׳ משור פר מקרין מפריס.‏ 
@@ -210,7 +210,7 @@ as it is said [by the Psalmist], "And it [my thanksgiving] shall be more pleasin
 </div></span></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Rav Yehudah said in the name of Shmuel: 
 The bullock which Adam offered had only one horn in its forehead, 
 as the verse says, "And it [my thanksgiving] shall be more pleasing to YHVH than a bullock that has horns and hoofs" <span class="citation">(Psalm 69:31)</span>. 
@@ -221,25 +221,25 @@ Said R. Naḥman b. Isaac: ‘Horned’ is here spelled [defectively].
 
 
 <tr><td style="vertical-align:top;" >
-<div class="commentary"><span lang="he">
+<div class="commentary" lang="he">
 תהלים קלט 
 </div></span></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <u>Psalms 139</u> (based on the JPS 1917, adapted by A. Varady)
 </div>
 </td></tr>
 
 
 <tr><tr><td style="vertical-align:top;" >
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>א</sup>&nbsp;לַ֭מְנַצֵּחַ לְדָוִ֣ד 
 מִזְמ֑וֹר
 </div></span></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <sup>1</sup>&nbsp;For the Leader. 
 A psalm of David.
 </div>
@@ -247,7 +247,7 @@ A psalm of David.
 
 
 <tr><td style="vertical-align:top;" >
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְהוָ֥ה חֲ֝קַרְתַּ֗נִי וַתֵּדָֽע׃
 <sup>ב</sup>&nbsp;אַתָּ֣ה יָ֭דַעְתָּ שִׁבְתִּ֣י וְקוּמִ֑י 
 בַּ֥נְתָּה לְ֝רֵעִ֗י מֵרָחֽוֹק׃
@@ -262,7 +262,7 @@ A psalm of David.
 </div></span></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 YHVH, you have searched me, and known me. 
 <sup>2</sup>&nbsp;You know my sitting and my rising, 
 You understand my thought afar off. 
@@ -279,7 +279,7 @@ Too high, I cannot reach it.
 
 
 <tr><td style="vertical-align:top;" >
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>‎‏ז</sup>&nbsp;אָ֭נָ֥ה אֵלֵ֣ךְ מֵרוּחֶ֑ךָ 
 וְ֝אָ֗נָה מִפָּנֶ֥יךָ אֶבְרָֽח׃
 <sup>‎‏ח</sup>&nbsp;אִם־אֶסַּ֣ק שָׁ֭מַיִם שָׁ֣ם אָ֑תָּה 
@@ -291,7 +291,7 @@ Too high, I cannot reach it.
 </div></span></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <sup>7</sup>&nbsp;Where shall I go from your spirit? 
 Or where shall I flee from your presence? 
 <sup>8</sup>&nbsp;If I ascend up into heaven, you are there; 
@@ -305,7 +305,7 @@ And your right hand would hold me.
 
 
 <tr><td style="vertical-align:top;" >
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>‎‏יא</sup>&nbsp;וָ֭אֹמַר אַךְ־חֹ֣שֶׁךְ יְשׁוּפֵ֑נִי 
 וְ֝לַ֗יְלָה א֣וֹר בַּעֲדֵֽנִי׃
 <sup>‎‏יב</sup>&nbsp;גַּם־חֹשֶׁךְ֮ לֹֽא־יַחְשִׁ֪יךְ מִ֫מֶּ֥ךָ 
@@ -314,7 +314,7 @@ And your right hand would hold me.
 </div></span></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <sup>11</sup>&nbsp;And if I say: `Surely the darkness shall envelop me, 
 And the light about me shall be night'; 
 <sup>12</sup>&nbsp;Even the darkness is not too dark for you, 
@@ -325,7 +325,7 @@ The darkness is even as the light.
 
 
 <tr><td style="vertical-align:top;" >
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>‎‏יג</sup>&nbsp;כִּֽי־אַ֭תָּה קָנִ֣יתָ כִלְיֹתָ֑י 
 תְּ֝סֻכֵּ֗נִי בְּבֶ֣טֶן אִמִּֽי׃
 <sup>‎‏יד</sup>&nbsp;אֽוֹדְךָ֗ עַ֤ל 
@@ -342,7 +342,7 @@ The darkness is even as the light.
 </div></span></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <sup>13</sup>&nbsp;For you have made my reins; 
 You have knit me together in my mother's womb. 
 <sup>14</sup>&nbsp;I will give thanks to you, 
@@ -361,7 +361,7 @@ When as yet there was none of them.
 
 
 <tr><td style="vertical-align:top;" >
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>‎‏יז</sup>&nbsp;וְלִ֗י מַה־יָּקְר֣וּ רֵעֶ֣יךָ אֵ֑ל 
 מֶ֥ה עָ֝צְמוּ רָאשֵׁיהֶֽם׃
 <sup>‎‏יח</sup>&nbsp;אֶ֭סְפְּרֵם מֵח֣וֹל יִרְבּ֑וּן 
@@ -369,7 +369,7 @@ When as yet there was none of them.
 </div></span></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <sup>17</sup>&nbsp;How weighty also are your thoughts unto me, 
 El! How great is the sum of them! 
 <sup>18</sup>&nbsp;If I would count them, they are more in number than the sand; 
@@ -379,7 +379,7 @@ Were I to come to the end of them, I would still be with you.
 
 
 <tr><td style="vertical-align:top;" >
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>‎‏יט</sup>&nbsp;אִם־תִּקְטֹ֖ל אֱל֥וֹהַּ׀ רָשָׁ֑ע 
 וְאַנְשֵׁ֥י דָ֝מִ֗ים ס֣וּרוּ מֶֽנִּי׃
 <sup>‎‏כ</sup>&nbsp;אֲשֶׁ֣ר יֹ֭אמְרֻךָ לִמְזִמָּ֑ה 
@@ -391,7 +391,7 @@ Were I to come to the end of them, I would still be with you.
 </div></span></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <sup>19</sup>&nbsp;If you would but slay the wicked, Elo'ah -- 
 Depart from me therefore, you men of blood; 
 <sup>20</sup>&nbsp;Who utter your name with wicked thought, 
@@ -405,7 +405,7 @@ I count them mine enemies.
 
 
 <tr><td style="vertical-align:top;" >
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>‎‏כג</sup>&nbsp;חָקְרֵ֣נִי אֵ֭ל וְדַ֣ע לְבָבִ֑י 
 בְּ֝חָנֵ֗נִי וְדַ֣ע שַׂרְעַפָּֽי׃
 <sup>‎‏כד</sup>&nbsp;וּרְאֵ֗ה אִם־דֶּֽרֶךְ־עֹ֥צֶב בִּ֑י 
@@ -413,7 +413,7 @@ I count them mine enemies.
 </div></span></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <sup>23</sup>&nbsp;Search me, El, and know my heart, 
 Try me, and know my thoughts; 
 <sup>24</sup>&nbsp;And see if there be any way in me that is grievous, 
@@ -422,30 +422,30 @@ And lead me in the way everlasting.
 
 
 <tr><td style="vertical-align:top;" >
-<div class="commentary"><span lang="he">
+<div class="commentary" lang="he">
 בראשית רבה (תיאודור-אלבק) פרשה יא 
 </div></span></td>
  
-<td style="vertical-align:top;" ><div class="english">
+<td style="vertical-align:top;" ><div class="english" lang="en">
 <u>Midrash Rabbah Genesis 11:2</u> (Theodor Albek edition, H. Freedman, trans.)</p>
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" >
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ויברך אלהים וגו׳
 </div></span></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 "And Elohim blessed the 7th Day and hallowed it" <span class="citation">(Genesis 2:3)</span>.
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" >
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 . . . ר׳ ליעזר אומר 
 בירכו בנר—
 ובי היה המעשה: 
@@ -455,7 +455,7 @@ And lead me in the way everlasting.
 </div></span></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 R. Liezer said: 
 He blessed it in the platter of a lamp, 
 and this happened in my case. 
@@ -467,13 +467,13 @@ I found it still burning and not at all diminished.
 
 
 <tr><td style="vertical-align:top;" >
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ברכו באור פניו שלאדם:‏
 לא דומה אור פניו שלאדם כל ימות השבת כשבת.‏ 
 </div></span></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 He blessed it with the light of a man's face: 
 the light of a man's face during the week is not the same as it is on the Sabbath. 
 </div>
@@ -481,7 +481,7 @@ the light of a man's face during the week is not the same as it is on the Sabbat
 
 
 <tr><td style="vertical-align:top;" >
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ברכו במאורות:‏
 ר׳ שמעון בר יהודה 
 אף על פי שנתקלקלו המאורות מערב שבת 
@@ -489,7 +489,7 @@ the light of a man's face during the week is not the same as it is on the Sabbat
 </div></span></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 He blessed it in respect of the luminaries. 
 R. Shimon b. Yehudah said: 
 Though the luminaries were spoilt on the eve of the Sabbath, 
@@ -499,14 +499,14 @@ yet they were not smitten until the termination of the Sabbath.
 
 
 <tr><td style="vertical-align:top;" >
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אתייה כרבנין ולא אתייה כר׳ אסי דאמר 
 אדם הראשון לא לן בכבודו - 
 מה טעם אדם ביקר בל ילין <span class="citation">(תהלים מט׃יג)</span>. 
 </div></span></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 This agrees with the Rabbis but not with R. Assi, who maintained: 
 Adam's glory did not abide the night with him. 
 What is the proof? "But Adam passes not the night in glory" <span class="citation">(Psalms 49:13)</span>. 
@@ -515,7 +515,7 @@ What is the proof? "But Adam passes not the night in glory" <span class="citatio
 
 
 <tr><td style="vertical-align:top;" >
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רבנין אמ׳ 
 לן בכבודו 
 מוצאי שבת נטל זיוו ממנו 
@@ -524,7 +524,7 @@ What is the proof? "But Adam passes not the night in glory" <span class="citatio
 </div></span></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 The Rabbis maintain: 
 His glory abode with him, 
 but at the termination of the Sabbath God deprived him of his splendour 
@@ -535,7 +535,7 @@ as it is written, "You change his countenance, and send him away" <span class="c
 
 
 <tr><td style="vertical-align:top;" >
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 [כיון ששקעה חמה בלילי שבת 
 ביקש הקב״ה לגנוז את האורה 
 וחלק כבוד לשבת - 
@@ -549,7 +549,7 @@ as it is written, "You change his countenance, and send him away" <span class="c
 </div></span></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 As soon as the sun set on the night of the Sabbath, 
 the blessed Holy One, wished to hide the light, 
 but He showed honor to the Sabbath; 
@@ -565,7 +565,7 @@ wherefore? Because "His light [reaches] unto the ends of the earth" (ibid).
 
 
 <tr><td style="vertical-align:top;" >
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ר׳ לוי בשם בר נזירה 
 ל״ו שעות שימשה אותה האורה: 
 י״ב שלערב שבת 
@@ -575,7 +575,7 @@ wherefore? Because "His light [reaches] unto the ends of the earth" (ibid).
 </div></span></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 R. Levi said in the name of Bar Nezirah: 
 That light functioned thirty-six hours, 
 twelve on the eve of Shabbat [i.e. Friday], 
@@ -587,14 +587,14 @@ When the sun sank at the termination of Shabbat, darkness began to set in.
 
 
 <tr><td style="vertical-align:top;" >
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 נתיירא אדם הראשון אך חשך ישופני <span class="citation">(תהלים קלט׃יא)</span> 
 אתמהא תאמר אותו [שכת׳ בו] הוא ישופך ראש וגו׳ <span class="citation">(בראשית ג׃טו)</span> 
 בא להזדווג לי אתמהא.‏
 </div></span></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Adam was terrified, [thinking,] 
 "Surely indeed the darkness shall bruise [e.v. 'envelop'] me" <span class="citation">(Psalms 139:11)</span>: 
 shall he of whom it was written, "He shall bruise thy head" <span class="citation">(Genesis 3:5)</span>, 
@@ -604,7 +604,7 @@ now come to attack me![foot]the snake.[/foot]
 
 
 <tr><td style="vertical-align:top;" >
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מה עשה לו הקב״ה 
 זימן לו שני רעפים והקישן זה לזה 
 ויצאת האור ובירך עליה - 
@@ -613,7 +613,7 @@ now come to attack me![foot]the snake.[/foot]
 </div></span></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 What did the blessed Holy One do for him? 
 He made him find two flints which he struck against each other; 
 light came forth and he uttered a blessing over it; 
@@ -624,14 +624,14 @@ i.e. the night was light in my Eden  (<em>be'edni</em>).
 
 
 <tr><td style="vertical-align:top;" >
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כדשמואל דאמר שמואל 
 מפני מה מברכים על הנר במוצאי שבת 
 מפני שהיא תחלת ברייתו.‏ 
 </div></span></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 This agrees with Shmuel, for Shmuel said: 
 Why do we recite a blessing over a lamp [fire] at the termination of the Sabbath? 
 Because it was then created for the first time. 
@@ -640,14 +640,14 @@ Because it was then created for the first time.
 
 
 <tr><td style="vertical-align:top;" >
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רב הונא בשם רב ר׳ אבהו בשם ר׳ יוחנן 
 אף מוצאי יום הכיפורים מברכין עליו 
 מפני ששבת האור כל היום.‏
 </div></span></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 R. Huna in Rab's name, and R. Abbahu in R. Yoḥanan's name said: 
 At the termination of Yom Kippur (the Day of Atonement), too, we recite a blessing over it, 
 because the fire rested the whole day.
@@ -656,25 +656,25 @@ because the fire rested the whole day.
 
 
 <tr><td style="vertical-align:top;" >
-<div class="commentary"><span lang="he">
+<div class="commentary" lang="he">
 תלמוד בבלי מסכת שבת דף <a href="http://he.wikisource.org/wiki/%D7%A9%D7%91%D7%AA_%D7%9B%D7%90_%D7%91">כא עמוד ב</a> 
 </div></span></td>
  
-<td style="vertical-align:top;" ><div class="english">
+<td style="vertical-align:top;" ><div class="english" lang="en">
 <u>Talmud Bavli Shabbat 21b</u> (Soncino Talmud, H. Freedman trans.)</p>
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" >
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 תנו רבנן: 
 מצות חנוכה נר איש וביתו.‏
 והמהדרין - נר לכל אחד ואחד.‏ 
 </div></span></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Our Rabbis taught: 
 The precept of Ḥanukkah [demands] one light for a man and his household; 
 the zealous [kindle] a light for each member [of the household]; 
@@ -683,7 +683,7 @@ the zealous [kindle] a light for each member [of the household];
 
 
 <tr><td style="vertical-align:top;" >
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 והמהדרין מן המהדרין-‏
 בית שמאי אומרים: 
 יום ראשון מדליק שמנה, מכאן ואילך פוחת והולך;‏
@@ -692,7 +692,7 @@ the zealous [kindle] a light for each member [of the household];
 </div></span></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 and the extremely zealous — 
 Bet Shammai maintains: 
 On the first day eight lights are lit and thereafter they are gradually reduced;
@@ -703,7 +703,7 @@ On the first day one is lit and thereafter they are progressively increased. . .
 
 
 <tr><td style="vertical-align:top;" >
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מאי חנוכה? 
 דתנו רבנן: בכ״ה בכסליו יומי דחנוכה תמניא אינון, 
 דלא למספד בהון ודלא להתענות בהון.‏
@@ -716,7 +716,7 @@ On the first day one is lit and thereafter they are progressively increased. . .
 </div></span></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 What is [the reason of] Ḥanukkah? 
 For our Rabbis taught: On the twenty-fifth of Kislev [commence] the days of Ḥanukkah, 
 which are eight on which a lamentation for the dead and fasting are forbidden. 

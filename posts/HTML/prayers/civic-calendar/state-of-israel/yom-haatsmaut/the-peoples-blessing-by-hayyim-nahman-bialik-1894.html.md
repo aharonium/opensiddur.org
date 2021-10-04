@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 תֶחֱזַֽקְנָה יְדֵי כׇל־אַחֵֽינוּ הַמְחוֹנְנִים 
 עַפְרוֹת אַרְצֵֽנוּ בַּאֲשֶׁר הֵם שָׁם. 
 אַל יִפֹּל רוּחֲכֶם. עַלִּיזִים מִתְרוֹנְנִים 
@@ -19,7 +19,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Strengthen the hands[foot]Cf. Zechariah 8:9-13[/foot] of all our brothers, who cherish 
 the dust of our homeland wherever they are. 
 Let not your spirits fall, happy ones rejoice,
@@ -28,7 +28,7 @@ Come as one to support the people.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הֵן סוֹפְרִים אֲנַחְנוּ אֶת־נוֹדְכֶם וְחוֹבְבִים
 נִטְפֵי הַדְּמָעוֹת וְזֵעַת הָאָף,
 הַיּוֹרְדִים כַּטַּל לְיִשְׂרָאֵל וּמְשׁוֹבְבִים
@@ -36,7 +36,7 @@ Come as one to support the people.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Each trek we account and hold dear
 each tear drop and sweat upon brow
 that fall like dew for Yisra'el, reviving 
@@ -45,7 +45,7 @@ its debilitated soul; so weighed upon
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּלְעוֹלְמֵי עַד תִּקְדַּשׁ כָּל־דִּמְעָה שֶׁצָּלֲלָה
 בְּיָם דִּמְעָתֵנוּ, נְדָבָה לָעָם,
 כָּל־טִפָּה שֶׁל זֵעַת אַפַּיִם, שֶׁסָּלֲלָה
@@ -53,7 +53,7 @@ its debilitated soul; so weighed upon
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And forevermore may each tear be sanctified
 which fell into our sea of tears; an offering to the people
 each drop of brow sweat paving
@@ -62,7 +62,7 @@ the path of Adonai like sweat and blood
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אִם לֹא אֶת־הַטְפָחוֹת רַק מַסָּד יְסַדְתֶּם. 
 רַב לָכֶם אַחַי. עֲמַלְכֶם לֹא שָׁוְא. 
 הַבָּאִים. וּבְנִיתֶם וְטַחְתֶּם וְשַׂדְתֶּם. 
@@ -70,7 +70,7 @@ the path of Adonai like sweat and blood
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 If to build to the roof a lifetime suffice not 
 And you lay but the base of your national home 
 Enough have you wrought; your achievement despise not 
@@ -79,7 +79,7 @@ They that come after will yet lay the line.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 גּוֹי קַו־קָו אֲנַחְנוּ! מִקַּו לָקָו קוֹמְמוּ
 שִׁמֲמוֹת עוֹלָם וּבְנוּ בִנְיַן־עַד!
 יֶשׁ־יוֹם - וּמִיָּם עַד־יָם יֵצְאוּ יִשְׁתּוֹמְמוּ
@@ -87,7 +87,7 @@ They that come after will yet lay the line.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 What a deliberate people are we! Step by step we raise up 
 the desolate ruins and rebuild them eternally!
 From sea to sea go forth and be amazed
@@ -96,7 +96,7 @@ to see what the smallest among nations has wrought, the wandering people.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְלָמָּה, הַמְפַגְּרִים, פַּעֲמֵיכֶם כֹּה בוֹשְׁשׁוּ?
 הַעֶבֶד יִשְׂרָאֵל, הַאִם בְּנֵי מֵרוֹז?
 הוֹי, כֹּחוֹת נִפְרָדִים, הִתְלַקְּטוּ, הִתְקוֹשְׁשׁוּ!
@@ -104,7 +104,7 @@ to see what the smallest among nations has wrought, the wandering people.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And why do the laggards take their time dragging their feet? 
 The worker of Yisra'el, are they an enigma?
 Hey! Be strengthened dispersed ones, unite and stand tall!
@@ -113,7 +113,7 @@ Work your portion as one with valor and might!
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אַל־תֹּאמְרוּ: קָטֹנּוּ - הֲטֶרֶם תִּתְבּוֹנְנוּ
 פְּנֵי אֲבִיר יַעֲקֹב הַהוֹלְכִים בַּקְּרָב;
 מִימֵי זְרֻבָּבֶל יָדֵינוּ לֹא־כוֹנְנוּ
@@ -121,7 +121,7 @@ Work your portion as one with valor and might!
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Do not say “We are not worthy” -- in short time you will observe
 the visage of the Mighty One of Yaaqov[foot]Cf. Genesis 49:24, Isaiah 49:26, Isaiah 60:16, Psalms 132:2-5.[/foot] going off to battle!
 From the days of Zerubavel[foot]Ezra 4:1-4.[/foot] our hands have not wrought
@@ -130,7 +130,7 @@ deeds as mighty as this or as numerous.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִי בַז לְיוֹם קְטַנּוֹת. הַבּוּז לַמִּתְלוֹצְצִים. 
 מַלְּטוּ אֶת־עַמְּכֶם וְאִתִּים עֲשׂוּ. 
 עַד נִשְׁמַע מֵרָאשֵׁי הֶהָרִים מִתְפּוֹצְצִים 
@@ -138,7 +138,7 @@ deeds as mighty as this or as numerous.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Scorn not small deeds, but, scoffers despising 
 Rescue your people with hoe and with plough 
 Till we hear from the head of the mountains the signal for rising 

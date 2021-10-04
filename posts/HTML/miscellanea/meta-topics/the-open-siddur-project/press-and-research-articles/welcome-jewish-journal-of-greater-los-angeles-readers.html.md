@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 A belated post that our humble project was mentioned in a cover story in the Jewish Journal of Greater Los Angeles on September 28th, 2010. Thanks to writer Jonah Lowenfeld, a very patient interviewer. In his article, "<a href="http://web.archive.org/web/20140106031708/http://www.jewishjournal.com/articles/print/the_ten_commandments_of_social_networking_20100928/">The Ten Commandments of social networking</a>" Jonah felt the Open Siddur Project exemplified the eighth commandment:
 
 <blockquote>[No.] 8. Don’t steal content; share.

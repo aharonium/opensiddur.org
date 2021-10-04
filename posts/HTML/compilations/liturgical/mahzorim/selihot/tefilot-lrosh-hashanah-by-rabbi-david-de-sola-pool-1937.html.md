@@ -19,7 +19,7 @@ Scanning this work (making digital images of each page) is the first step in a m
 
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 THE MESSAGE OF ROSH HASHANAH 
 
 Rosh Hashanah, the Jewish New Year, celebrated on the first and second days of the month of Tishri, is a unique combination of solemnity and rejoicing. On the one hand the Bible requires its observance to be “a solemn rest unto you, a remembrance proclaimed with the blast of rams' horns, a holy convocation. Ye shall do no manner of servile work.” On the other hand, it recalls Nehemiah’s proclamation to the Jews of Jerusalem, “This day is holy unto the Lord your God, mourn not nor weep . . . Go eat rich dainties and drink sweet drinks, and send portions to him who has nothing ready, for this day is holy to our Lord. Grieve not, for the joy of the Lord is your strength.” 
@@ -44,7 +44,7 @@ The Afternoon Service (pages 260 to 282) is identical with that of the Sabbath, 
 
 On the first day of Rosh Hashanah a popular custom “Tashli’h” leads many Jews to the seashore or a stream of running water besides which they express the penitential mood of the New Year season in echo of the words of the prophet:—“Thou wilt cast all their sins into the depths of the sea.” (Pages 284 to 288). 
 
-This edition of the prayers for Rosh Hashanah follows the general form of the preceding volume for weekdays and Sabbaths, except that large type has been used virtually throughout. The Hebrew text has been scrupulously revised for the correction of misprints, inaccurate quotations and faulty grammatical forms. The short Kametz pronounced as o in nor, has been indicated by a broken Kametz shaped as ¬ in all cases except in the very frequently occurring word <span class="hebrew">כׇּל</span>. The Hebrew accent has been marked wherever it does not occur on the last syllable of a word. 
+This edition of the prayers for Rosh Hashanah follows the general form of the preceding volume for weekdays and Sabbaths, except that large type has been used virtually throughout. The Hebrew text has been scrupulously revised for the correction of misprints, inaccurate quotations and faulty grammatical forms. The short Kametz pronounced as o in nor, has been indicated by a broken Kametz shaped as ¬ in all cases except in the very frequently occurring word <span class="hebrew" lang="he">כׇּל</span>. The Hebrew accent has been marked wherever it does not occur on the last syllable of a word. 
 
 The text, printed consecutively in full, includes prayers characteristic of the Oriental Sephardic traditions, thus making the book serviceable to the Sephardim of the Occident and the Orient. Congregational participation has been indicated, the principal responses being marked by a double asterisk in the Hebrew text. 
 

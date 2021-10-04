@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֹתֵֽינוּ
 קַבֵּל נָא בְּרַחַמִים אֶת־תְּפִלָּתֵֽנוּ 
 בְּעַד אַרְצֵֽנוּ וּמֶמְשַׁלְתָּהּ. 
@@ -25,7 +25,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Our God and God of our ancestors:
 Accept with mercy our prayer 
 for our land and its government. 
@@ -40,7 +40,7 @@ will never depart from our land.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָנָּֽא יְיָ אֱלֺהֵי הָרוּחוֹת לְכׇל־בָּשָׂר 
 שְׁלַח רוּחֲךָ עַל כׇּל־תּוֹשְׁבֵי אַרְצֵֽנוּ 
 וְטַע בֵּין בְּנֵי הָאֻמּוֹת וְהָאֱמוּנוֹת הַשּׁוֹנוֹת הַשּׁוֹכְנִים בָּהּ 
@@ -51,7 +51,7 @@ will never depart from our land.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 God of all that lives, 
 please bestow Your spirit on all the inhabitants of our land, 
 and plant love, fellowship, peace and friendship 
@@ -63,7 +63,7 @@ and desire to see it as a light for all nations.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְכֵן יְהִי רָצוֹן מִלְּפָנֶֽיךָ 
 שֶׁתְּהֵא אַרְצֵֽנוּ בְּרָכָה לְכׇל־יוֹשְׁבֵי תֵבֵל 
 וְתַשְׁרֶה בֵּינֵיהֶם רֵעוּת וְחֵרוּת 
@@ -76,7 +76,7 @@ and desire to see it as a light for all nations.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 And so may it be God's will 
 that our land be a blessing for all who live on earth, 
 and that fellowship and liberty will dwell between them. 

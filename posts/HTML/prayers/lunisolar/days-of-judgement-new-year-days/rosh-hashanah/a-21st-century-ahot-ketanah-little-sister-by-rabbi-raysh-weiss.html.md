@@ -11,14 +11,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ל<span style="font-size: xx-large;">מ</span>יטל <span style="font-size: xx-large;">ה</span>דרה, נ״י
 &nbsp;
 ”חכמה כ״ח ה<span style="font-size: xx-large;">מ״ה</span> המורה על הרחמים“ <span class="citation">(פרדס רמונים ח:ח)</span>
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 For <span style="font-size: xx-large;">M</span>eital <span style="font-size: xx-large;">H</span>adara, may her light shine!
  &nbsp;
 “Ḥokhmah means the potential of <span style="font-size: xx-large;">what is</span>, which teaches about mercy” (<a href="https://www.sefaria.org/Pardes_Rimonim.8.8?lang=he">Pardes Rimonim 8:8</a>)
@@ -26,7 +26,7 @@ For <span style="font-size: xx-large;">M</span>eital <span style="font-size: xx-
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">הָ</span>אָחוֹת נְתָאֵר כִּקְטַנָּה
 לִפְנֵי שֶׁנָּבִין אֶת־עִקַּר מָהוּתָהּ
 חֲלוֹמוֹתֶיהָ וּתְפִלּוֹתֶיהָ
@@ -35,7 +35,7 @@ For <span style="font-size: xx-large;">M</span>eital <span style="font-size: xx-
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 The sister was described as little,
 Before the main thrust of her essence was understood,
 Her dreams, and her prayers, 
@@ -45,7 +45,7 @@ and how shall we understand her curses
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">ר</span>וֹאָה אֲנִי אֶת־מַאֲבָקֶֽיהָ
 אֵיךְ תִּתְמוֹדֵד עִם חֹֽסֶר הִגָּיוֹן וְשׂוֹנְאֶיהָ
 אוֹהֲבֶֽיהָ נְטָשֽׁוּהָ וְהִיא גַלְמוּדָה בְּהִשָּׁבֵר לִבָּהּ
@@ -53,7 +53,7 @@ and how shall we understand her curses
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Her pains I see
 how will she cope with the misogyny and those who despise her
 her lovers have abandoned her, and she is forlorn with the breaking of her heart
@@ -62,7 +62,7 @@ how many years is she already forgotten
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">בְּ</span>לֵב נִשְׁבָּר הִיא מִתְנַפֶּלֶת בִּתְפִלּוֹתֶֽיהָ
 מָרוֹת וְרַבּוֹת הַבָּעוֹתֶֽיהָ
 אָךְ תִּקְוָה תַצְמִֽיחַ וְתִפְרַח כְּנַחֲלוֹתֶֽיהָ
@@ -70,7 +70,7 @@ how many years is she already forgotten
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 With shattered heart, she sets upon her prayers,
 Bitter and many are her expressions.
 Ah, may hope cause a budding and flowering as her legacy,
@@ -79,7 +79,7 @@ But she is weary from her yearning.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">רַ</span>בּוֹת בָּנוֹת עָֽשוּ חַֽיִל
 כָּךְ אָמַר הַגֶּֽבֶר
 שֶׁשָּׁכַח אוֹתָךְ לְרֶֽגַע
@@ -89,7 +89,7 @@ But she is weary from her yearning.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 "Many women have done well!” 
 So says the man,
 Who forgot you in an instant, 
@@ -100,7 +100,7 @@ Where is that hidden time?
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">חֶ</span>מְלָה יֵשׁ לִי לָאָחוֹת הַקְּטַנָּה
 מַכְאוֹבָהּ וְסִפּוּרֶֽיהָ הֲרֵינִי מַאֲמִינָה
 קֹֽשִׁי מַצָּבָהּ
@@ -110,7 +110,7 @@ Where is that hidden time?
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 I have compassion for the little sister,
            her sorrows and stories I hereby believe
 the weight of her situation
@@ -121,7 +121,7 @@ I know her curses
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">לָֽ</span>מָּה תִסְבְּלִי, אָחוֹתִי הַקְּטַנָּה
 לָֽמָה גוֹרָלֵךְ מְעֻנֶּה
 עָתִידֵךְ לְבֶהָלָה
@@ -130,7 +130,7 @@ I know her curses
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Why should you suffer, my little sister
 why should your lot be one of torment?
 your future one of alarm
@@ -140,7 +140,7 @@ If only we could forget all of the curse 
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">חַ</span>כִּי, אָמְרוּ לָךְ,
 עַד שֶׁתְּגַדְּלִי
 אָז תִּהְיֶה לָךְ
@@ -151,7 +151,7 @@ If only we could forget all of the curse 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
  “Wait,” they tell you, 
 “until you grow up!
 Then you will have 
@@ -163,7 +163,7 @@ which comprised your curses
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">נִ</span>תְמוֹדֵד עִם הַקֹּֽשִׁי
 הֲרֵי
 אַתְּ וַאֲנִי  
@@ -174,7 +174,7 @@ which comprised your curses
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 We will contend with the hardship
 behold
            You and me
@@ -186,7 +186,7 @@ May the year and its curses end
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">הִ</span>נָּךְ עַזָּה רַעְיָתִי
 אֲחוֹתִי הַקְּטַנָּה
 זֹאת הַקְּטַנָּה לִגְדוֹלָה תִהְיֶה
@@ -194,7 +194,7 @@ May the year and its curses end
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Behold you are strong my beloved
 my little sister
 This little one is fated for greatness

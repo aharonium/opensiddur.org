@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 Somehow a queer midwesterner who once wanted nothing to do with Judaism fell head-over-heels in love with Jewish liturgy: what I expected to be a modest project to produce a personal siddur turned into journey of over 15 years and a complete rite that draws on well over 100 sources. Though this my own route to the Divine, I share it with others in humble hope it inspires a few of them as it inspires me.This is a draft of the weekday morning service from the first of what will be a three-volume collection. Though the entire text is essentially complete, I am in the process of laying it out in publishable form and writing the notes and commentary. Given the length of time that takes, I decided I wanted at least a sliver of the work to finally see the light of day. Complete notes for this service follow page 90 of the text.
 </div>
 
@@ -19,7 +19,7 @@ Somehow a queer midwesterner who once wanted nothing to do with Judaism fell hea
 
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 PREFACE
 
 This prayer book began, as so many quests for “authenticity” do, with really bad news. My father, a pious Conservadox Jew, was diagnosed with terminal cancer, and he did not have much time left.

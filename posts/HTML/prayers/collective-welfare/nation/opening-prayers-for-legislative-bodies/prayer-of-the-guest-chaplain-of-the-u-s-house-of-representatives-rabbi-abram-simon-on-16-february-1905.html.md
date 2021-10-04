@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size:1.2em;">
+<div class="english" lang="en" style="font-size:1.2em;">
 Guest Chaplain: Rabbi Abram Simon 
 Date of Prayer: 02/16/1905
 </div>
@@ -16,25 +16,25 @@ Date of Prayer: 02/16/1905
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בְּכָל־הַמָּקוֹם אֲשֶׁר אַזְכִּיר אֶת־שְׁמִי 
 אָבוֹא אֵלֶיךָ וּבֵרַכְתִּיךָ׃ <span class="citation">(שמות כ:כא)</span>
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 "Wherever My name is called upon in prayer 
 there will I come and bless thee."[foot]Cf. Exodus 20:21[/foot]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 In this spirit and hope of Thy divine promise
 have we come to invoke Thy benediction 
 as Thy servants begin their daily tasks. 
@@ -51,12 +51,12 @@ labor in vain.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Our history is a Bible wherein Thou dost reveal 
 Thy law of righteousness which alone exalteth a people. 
 Thy name is written in letters of flaming justice 
@@ -65,12 +65,12 @@ across	the heart of our nation.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Give Thy servants, we pray Thee, 
 the spirit of wisdom and of understanding, 
 the spirit of knowledge and of the fear of the Lord, 
@@ -85,12 +85,12 @@ for Thy children’s happiness.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 To the institutions of learning 
 and the blessed homes of mercy 
 that dot our land as beautifully 
@@ -102,12 +102,12 @@ grant Thou strength and wise direction.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Wherever Thy name is invoked in sincerity, 
 in every land and in every clime, 
 drop Thy rich crown of blessing, 
@@ -116,12 +116,12 @@ of peace, prosperity, and happiness.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Amen.
 </div></td></tr>
 </tbody></table>

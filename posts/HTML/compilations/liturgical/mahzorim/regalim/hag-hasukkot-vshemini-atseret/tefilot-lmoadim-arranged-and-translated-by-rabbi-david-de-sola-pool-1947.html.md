@@ -19,7 +19,7 @@ Scanning this work (making digital images of each page) is the first step in a m
 
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 
 [ACKNOWLEDGEMENT]
 

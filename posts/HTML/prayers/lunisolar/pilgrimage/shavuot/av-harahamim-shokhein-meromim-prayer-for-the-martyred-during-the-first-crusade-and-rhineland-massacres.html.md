@@ -11,18 +11,18 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">In many congregations, this prayer is said on the Shabbat preceding Shavuot and Tisha b'Av.</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָב הָרַחֲמִים
 שׁוֹכֵן מְרוֹמִים
 בְּרַחֲמָיו הָעֲצוּמִים
@@ -33,7 +33,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Parent of mercy
 Dwelling on highly
 In myriad mercy
@@ -45,7 +45,7 @@ Who gave their lives sanctifying the Name.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַנֶּאֱהָבִ֤ים וְהַנְּעִימִם֙ בְּחַיֵּיהֶ֔ם 
 וּבְמוֹתָ֖ם לֹ֣א נִפְרָ֑דוּ 
 מִנְּשָׁרִ֣ים קַ֔לּוּ מֵאֲרָי֖וֹת גָּבֵֽרוּ׃ <span class="citation">(שמואל ב׳ א:כג)</span>
@@ -53,7 +53,7 @@ Who gave their lives sanctifying the Name.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 They were loved and adored in their lives;
 And in their deaths they were not divided.
 Swifter than eagles, Stronger than lions,[foot]II Samuel 1:23.[/foot]
@@ -62,20 +62,20 @@ To do the will of their Maker and the wish of their Fortress.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יִזְכְּרֵם אֱלֹהֵינוּ לְטוֹבָה עִם שְׁאָר צַדִּיקֵי עוֹלָם׃
 וְיִנְקֹם לְעֵינֵינוּ נִקְמַת דַּם עֲבָדָיו הַשָּׁפוּךְ׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May our God remember them for good with all the remnant of the world's righteous.
 And avenge for our eyes the innocent blood of God's servants spilled.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כַּכָּתוּב בְּתוֹרַת מֹשֶׁה אִישׁ הָאֱלֹהִים —
 הַרְנִ֤ינוּ גוֹיִם֙ עַמּ֔וֹ
 כִּ֥י דַם־עֲבָדָ֖יו יִקּ֑וֹם
@@ -84,7 +84,7 @@ And avenge for our eyes the innocent blood of God's servants spilled.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 As is written in the Teaching of Moses the man of God —
 O nations, acclaim God's people!
 For the blood of God's people God will avenge;
@@ -94,7 +94,7 @@ And cleanse the land [for] God's people.[foot]Deuteronomy 32:43.[/foot]
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְעַל יְדֵי עֲבָדֶיךָ הַנְּבִיאִים כָּתוּב לֵאמֹר —
 וְנִקֵּ֖יתִי דָּמָ֣ם 
 לֹֽא־נִקֵּ֑יתִי
@@ -102,7 +102,7 @@ And cleanse the land [for] God's people.[foot]Deuteronomy 32:43.[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 And by the hands of Your servants the prophets it is written, saying —
 And I will treat their blood as innocent, 
 that which I have not treated innocent before;
@@ -111,7 +111,7 @@ and Adonai dwells in Zion.[foot]Joel 4:21.[/foot]
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּבְכִתְבֵי הַקֹּדֶשׁ נֶאֱמַר  —
 לָ֤מָּה ׀ יֹאמְר֣וּ הַגּוֹיִם֮
 אַיֵּ֢ה אֱֽלֹהֵ֫יהֶ֥ם
@@ -120,7 +120,7 @@ and Adonai dwells in Zion.[foot]Joel 4:21.[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 And in the holy writings it is said —
 Why do the nations say,
 "Where is their God?
@@ -130,14 +130,14 @@ That You will avenge the spilled blood of Your servants.[foot]Psalms 79:10.[/foo
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְאוֹמֵר —
 כִּֽי־דֹרֵ֣שׁ דָּ֭מִים אוֹתָ֣ם זָכָ֑ר
 לֹֽא־שָׁ֝כַ֗ח צַעֲקַ֥ת [עניים] עֲנָוִֽים׃ <span class="citation">(תהלים ט:יג)</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 And it says —
 For the One who pays back bloodshed remembers them;
 Does not forget the cry of the afflicted.[foot]Psalms 9:13.[/foot]
@@ -145,7 +145,7 @@ Does not forget the cry of the afflicted.[foot]Psalms 9:13.[/foot]
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְאוֹמֵר —
 יָדִ֣ין בַּ֭גּוֹיִם מָלֵ֣א גְוִיּ֑וֹת 
 מָ֥חַץ רֹ֗֝אשׁ עַל־אֶ֥רֶץ רַבָּֽה׃
@@ -154,7 +154,7 @@ Does not forget the cry of the afflicted.[foot]Psalms 9:13.[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 And it says —
 Judging upon the nations filling up corpses,
 Smiting heads of the whole earth;

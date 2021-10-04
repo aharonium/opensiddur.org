@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english"style="font-size:1.2em">
+<div class="english" lang="en"style="font-size:1.2em">
 According to the poetry of the Midrash Tanḥuma, Bereshit 1:1, the words of the Torah were inscribed "black fire on white fire." For many years, I've wanted to look deeply into the black fire and visualize the full spectrum of the Torah's sources, hidden within the black fire but revealed through  a critical analysis of its layers of <a href="https://en.wikipedia.org/wiki/Redaction_criticism">redaction</a>. Below, I've set the text of the first Torah portion in the annual Torah reading cycle, using color-coding to distinguish the stratigraphic layers forming the composition of the Masoretic text according to the <a href="https://en.wikipedia.org/wiki/Supplementary_hypothesis">Supplementary Hypothesis</a> presented by Tsemaḥ Yoreh in his <a href="http://books.google.com/books?id=tpLIngEACAAJ">Kernel to Canon</a> series of books (2013-2017) and his website, <a href="http://www.biblecriticism.com/supplementary_index.html">the Sources of Biblical Narrative</a>. As Dr. Yoreh explains, 
 
 <blockquote>The Supplementary Hypothesis asserts that the Pentateuch was composed by several different writers. This reflects an overwhelming academic consensus on Biblical authorship, even among scholars who do not subscribe to the Supplementary Hypothesis in particular.[....] According to the Supplementary Hypothesis, Biblical narrative is layered. No editor took a blowtorch to the parts of the Bible he disagreed with and destroyed them; if he had, we would not find these repetitions and contradictions. Instead, Biblical narrative began with a coherent, foundational bedrock, which over time accreted more and more storylines. Unlike geological processes, though, this process of addition was deliberate. What happened if one author disagreed with his predecessor’s storyline or worldview? He did not simply take an axe to the narrative; instead, he attempted to bury his predecessor’s point of view by repeating his own over and over again, thus skewing our understanding of the story in new ways. Every generation of readers sees the world differently, and thus every generation of writers seeks to adapt their predecessors’ cultural heritage to their own situation. We are not meant simply to dismiss earlier stories; rather, the intention of later writers is to transform our understanding of those stories via their additions.</blockquote>
@@ -33,232 +33,232 @@ Parashat Sh'mini (Leviticus 9:1-11:47) in the annual Torah reading cycle, is rea
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="h">ט <sup>א</sup>&nbsp;וַיְהִי֙ בַּיּ֣וֹם הַשְּׁמִינִ֔י קָרָ֣א מֹשֶׁ֔ה לְאַהֲרֹ֖ן וּלְבָנָ֑יו וּלְזִקְנֵ֖י יִשְׂרָאֵֽל׃ </span> <span class="p"><sup>ב</sup>&nbsp;וַיֹּ֣אמֶר אֶֽל־אַהֲרֹ֗ן קַח־לְ֠ךָ֠ עֵ֣גֶל בֶּן־בָּקָ֧ר לְחַטָּ֛את וְאַ֥יִל לְעֹלָ֖ה תְּמִימִ֑ם וְהַקְרֵ֖ב לִפְנֵ֥י יְהֹוָֽה׃ <sup>ג</sup>&nbsp;וְאֶל־בְּנֵ֥י יִשְׂרָאֵ֖ל תְּדַבֵּ֣ר לֵאמֹ֑ר קְח֤וּ שְׂעִיר־עִזִּים֙ לְחַטָּ֔את וְעֵ֨גֶל וָכֶ֧בֶשׂ בְּנֵי־שָׁנָ֛ה תְּמִימִ֖ם לְעֹלָֽה׃ </span> <span class="h"><sup>ד</sup>&nbsp;וְשׁ֨וֹר וָאַ֜יִל לִשְׁלָמִ֗ים לִזְבֹּ֙חַ֙ לִפְנֵ֣י יְהֹוָ֔ה</span> <span class="p">וּמִנְחָ֖ה בְּלוּלָ֣ה בַשָּׁ֑מֶן כִּ֣י הַיּ֔וֹם יְהֹוָ֖ה נִרְאָ֥ה אֲלֵיכֶֽם׃ <sup>ה</sup>&nbsp;וַיִּקְח֗וּ אֵ֚ת אֲשֶׁ֣ר צִוָּ֣ה מֹשֶׁ֔ה אֶל־פְּנֵ֖י אֹ֣הֶל מוֹעֵ֑ד וַֽיִּקְרְבוּ֙ כׇּל־הָ֣עֵדָ֔ה וַיַּֽעַמְד֖וּ לִפְנֵ֥י יְהֹוָֽה׃ </span> <span class="h"><sup>ו</sup>&nbsp;וַיֹּ֣אמֶר מֹשֶׁ֔ה זֶ֧ה הַדָּבָ֛ר אֲשֶׁר־צִוָּ֥ה יְהֹוָ֖ה תַּעֲשׂ֑וּ וְיֵרָ֥א אֲלֵיכֶ֖ם כְּב֥וֹד יְהֹוָֽה׃ </span> <span class="p"><sup>ז</sup>&nbsp;וַיֹּ֨אמֶר מֹשֶׁ֜ה אֶֽל־אַהֲרֹ֗ן קְרַ֤ב אֶל־הַמִּזְבֵּ֙חַ֙ וַעֲשֵׂ֞ה אֶת־חַטָּֽאתְךָ֙ וְאֶת־עֹ֣לָתֶ֔ךָ וְכַפֵּ֥ר בַּֽעַדְךָ֖ וּבְעַ֣ד הָעָ֑ם</span> <span class="h">וַעֲשֵׂ֞ה אֶת־קׇרְבַּ֤ן הָעָם֙ וְכַפֵּ֣ר בַּֽעֲדָ֔ם כַּאֲשֶׁ֖ר צִוָּ֥ה יְהֹוָֽה׃ </span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="h">9 <sup>1</sup>&nbsp;Now it was on the eighth day, (that) Mosheh called Aharon and his sons and the elders of Yisrael,</span> <span class="p"><sup>2</sup>&nbsp;and he said to Aharon: "Take yourself a calf, a young of the herd, as a ḥattat-offerings, and a ram as an offering-up, wholly-sound, and bring-them-near, before the presence of YHVH. <sup>3</sup>&nbsp;And to the Children of Yisrael you are to speak, saying: 'Take a hairy-one of goats as a ḥattat-offering and a calf and a lamb, year-old ones, wholly-sound, as an offering-up,</span> <span class="h"><sup>4</sup>&nbsp;and an ox and a ram as a shalom-offering, to slaughter before the presence of YHVH,</span> <span class="p">and a grain-gift mixed with oil; for today, YHVH will make-himself-seen by you!'" <sup>5</sup>&nbsp;So they took what Mosheh had commanded, to the front of the Ohel Mo'ed, and there came-near the entire community, standing before the presence of YHVH.</span> <span class="h"><sup>6</sup>&nbsp;And Mosheh said: "This is the word that YHVH has commanded (that) you do, that the Kavod of YHVH may be seen by you!"</span> <span class="h"><sup>7</sup>&nbsp;And Mosheh said to Aharon: "Come-near to the Mizbe'aḥ and sacrifice your ḥattat-offering and your offering-up, effecting-atonement on behalf of yourself and on behalf of the people,</span> <span class="h">and sacrifice the near-offering of the people, effecting-atonement on their behalf, as YHVH has commanded."</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="p"><sup>ח</sup>&nbsp;וַיִּקְרַ֥ב אַהֲרֹ֖ן אֶל־הַמִּזְבֵּ֑חַ וַיִּשְׁחַ֛ט אֶת־עֵ֥גֶל הַחַטָּ֖את אֲשֶׁר־לֽוֹ׃ </span> <span class="h"><sup>ט</sup>&nbsp;וַ֠יַּקְרִ֠בוּ בְּנֵ֨י אַהֲרֹ֣ן אֶת־הַדָּם֮ אֵלָיו֒</span> <span class="p">וַיִּטְבֹּ֤ל אֶצְבָּעוֹ֙ בַּדָּ֔ם וַיִּתֵּ֖ן עַל־קַרְנ֣וֹת הַמִּזְבֵּ֑חַ וְאֶת־הַדָּ֣ם יָצַ֔ק אֶל־יְס֖וֹד הַמִּזְבֵּֽחַ׃ </span> <span class="h"><sup>י</sup>&nbsp;וְאֶת־הַחֵ֨לֶב וְאֶת־הַכְּלָיֹ֜ת וְאֶת־הַיֹּתֶ֤רֶת מִן־הַכָּבֵד֙ מִן־הַ֣חַטָּ֔את הִקְטִ֖יר הַמִּזְבֵּ֑חָה כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃ <sup>יא</sup>&nbsp;וְאֶת־הַבָּשָׂ֖ר וְאֶת־הָע֑וֹר שָׂרַ֣ף בָּאֵ֔שׁ מִח֖וּץ לַֽמַּחֲנֶֽה׃ </span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="p"><sup>8</sup>&nbsp;So Aharon came-near to the Mizbe'aḥ and slew the calf for the ḥattat-offering that was his.</span> <span class="h"><sup>9</sup>&nbsp;Then the sons of Aharon brought-near the blood to him,</span> <span class="p">he dipped his finger in the blood and placed (it) on the horns of the Mizbe'aḥ. The (remaining) blood he poured out at the foundation of the Mizbe'aḥ.</span> <span class="h"><sup>10</sup>&nbsp;Now the fat and the kidneys and the extension from the liver, from the ḥattat-offering, he turned into smoke on the Mizbe'aḥ, as YHVH had commanded Mosheh; <sup>11</sup>&nbsp;the flesh and the skin he burned in fire, outside the camp.</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="h"><sup>יב</sup>&nbsp;וַיִּשְׁחַ֖ט אֶת־הָעֹלָ֑ה וַ֠יַּמְצִ֠אוּ בְּנֵ֨י אַהֲרֹ֤ן אֵלָיו֙ אֶת־הַדָּ֔ם וַיִּזְרְקֵ֥הוּ עַל־הַמִּזְבֵּ֖חַ סָבִֽיב׃ </span> <span class="p"><sup>יג</sup>&nbsp;וְאֶת־הָעֹלָ֗ה הִמְצִ֧יאוּ אֵלָ֛יו לִנְתָחֶ֖יהָ</span> <span class="h">וְאֶת־הָרֹ֑אשׁ</span> <span class="p">וַיַּקְטֵ֖ר עַל־הַמִּזְבֵּֽחַ׃ <sup>יד</sup>&nbsp;וַיִּרְחַ֥ץ אֶת־הַקֶּ֖רֶב וְאֶת־הַכְּרָעָ֑יִם וַיַּקְטֵ֥ר עַל־הָעֹלָ֖ה הַמִּזְבֵּֽחָה׃ </span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="h"><sup>12</sup>&nbsp;Then he slew the offering-up, and the sons of Aharon handed the blood to him, and he dashed it against the Mizbe'aḥ, all around.</span> <span class="p"><sup>13</sup>&nbsp;The offering-up they handed to him in its sections,</span> <span class="h">as well as the head,</span> <span class="p">and he turned (them) into smoke upon the Mizbe'aḥ. <sup>14</sup>&nbsp;He washed the innards and the shins, and turned (them) into smoke, along with the offering-up, upon the Mizbe'aḥ.</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="p"><sup>טו</sup>&nbsp;וַיַּקְרֵ֕ב אֵ֖ת קׇרְבַּ֣ן הָעָ֑ם וַיִּקַּ֞ח אֶת־שְׂעִ֤יר הַֽחַטָּאת֙ אֲשֶׁ֣ר לָעָ֔ם וַיִּשְׁחָטֵ֥הוּ וַֽיְחַטְּאֵ֖הוּ כָּרִאשֽׁוֹן׃ <sup>טז</sup>&nbsp;וַיַּקְרֵ֖ב אֶת־הָעֹלָ֑ה וַֽיַּעֲשֶׂ֖הָ כַּמִּשְׁפָּֽט׃ <mark>שני</mark> <sup>יז</sup>&nbsp;וַיַּקְרֵב֮ אֶת־הַמִּנְחָה֒ וַיְמַלֵּ֤א כַפּוֹ֙ מִמֶּ֔נָּה וַיַּקְטֵ֖ר עַל־הַמִּזְבֵּ֑חַ</span> <span class="h">מִלְּבַ֖ד עֹלַ֥ת הַבֹּֽקֶר׃ </span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="p"><sup>15</sup>&nbsp;Then he brought-near the near-offering of the people. He took the hairy-goat for the ḥattat-offering that was the people's, he slew it, and he sacrificed-the-ḥattat-offering, like the first-one. <sup>16</sup>&nbsp;Then he brought-near the offering-up, sacrificing it according to regulation. <sup>17</sup>&nbsp;Then he brought-near the grain-gift, filling his palm with some of it; and he turned it into smoke upon the Mizbe'aḥ</span> <span class="h"> — aside from the morning offering-up.</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="h"><sup>יח</sup>&nbsp;וַיִּשְׁחַ֤ט אֶת־הַשּׁוֹר֙ וְאֶת־הָאַ֔יִל זֶ֥בַח הַשְּׁלָמִ֖ים אֲשֶׁ֣ר לָעָ֑ם וַ֠יַּמְצִ֠אוּ בְּנֵ֨י אַהֲרֹ֤ן אֶת־הַדָּם֙ אֵלָ֔יו וַיִּזְרְקֵ֥הוּ עַל־הַמִּזְבֵּ֖חַ סָבִֽיב׃ <sup>יט</sup>&nbsp;וְאֶת־הַחֲלָבִ֖ים מִן־הַשּׁ֑וֹר וּמִ֨ן־הָאַ֔יִל הָֽאַלְיָ֤ה וְהַֽמְכַסֶּה֙ וְהַכְּלָיֹ֔ת וְיֹתֶ֖רֶת הַכָּבֵֽד׃ <sup>כ</sup>&nbsp;וַיָּשִׂ֥ימוּ אֶת־הַחֲלָבִ֖ים עַל־הֶחָז֑וֹת וַיַּקְטֵ֥ר הַחֲלָבִ֖ים הַמִּזְבֵּֽחָה׃ <sup>כא</sup>&nbsp;וְאֵ֣ת הֶחָז֗וֹת וְאֵת֙ שׁ֣וֹק הַיָּמִ֔ין הֵנִ֧יף אַהֲרֹ֛ן תְּנוּפָ֖ה לִפְנֵ֣י יְהֹוָ֑ה כַּאֲשֶׁ֖ר צִוָּ֥ה מֹשֶֽׁה׃ </span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="h"><sup>18</sup>&nbsp;Then he slew the ox and the ram of the slaughter-offering of shalom that was the people's; the sons of Aharon handed the blood to him, and he dashed it against the Mizbe'aḥ, all around, <sup>19</sup>&nbsp;along with the fat-parts of the ox and of the ram: the broad-tail and what covers the kidneys, and the extension of the liver. <sup>20</sup>&nbsp;They put the fat-parts over the breasts and he turned the fat-parts into smoke on the Mizbe'aḥ; <sup>21</sup>&nbsp;the breasts and the right thigh, Aharon elevated as an elevation-offering, before the presence of YHVH, as he had commanded Mosheh.</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="p"><sup>כב</sup>&nbsp;וַיִּשָּׂ֨א אַהֲרֹ֧ן אֶת־יָדָ֛ו אֶל־הָעָ֖ם וַֽיְבָרְכֵ֑ם וַיֵּ֗רֶד מֵעֲשֹׂ֧ת הַֽחַטָּ֛את וְהָעֹלָ֖ה</span> <span class="h">וְהַשְּׁלָמִֽים׃ </span> <span class="p"><sup>כג</sup>&nbsp;וַיָּבֹ֨א מֹשֶׁ֤ה וְאַהֲרֹן֙ אֶל־אֹ֣הֶל מוֹעֵ֔ד וַיֵּ֣צְא֔וּ וַֽיְבָרְכ֖וּ אֶת־הָעָ֑ם וַיֵּרָ֥א כְבוֹד־יְהֹוָ֖ה אֶל־כׇּל־הָעָֽם׃ <mark>שלישי</mark> <sup>כד</sup>&nbsp;וַתֵּ֤צֵא אֵשׁ֙ מִלִּפְנֵ֣י יְהֹוָ֔ה וַתֹּ֙אכַל֙ עַל־הַמִּזְבֵּ֔חַ אֶת־הָעֹלָ֖ה וְאֶת־הַחֲלָבִ֑ים וַיַּ֤רְא כׇּל־הָעָם֙ וַיָּרֹ֔נּוּ וַֽיִּפְּל֖וּ עַל־פְּנֵיהֶֽם׃ </span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="p"><sup>22</sup>&nbsp;Now Aharon lifted his hands toward the people, and he blessed them, then he came-down from sacrificing the ḥattat-offering, the offering-up</span> <span class="h">and the shalom-offering.</span> <span class="p"><sup>23</sup>&nbsp;Now Mosheh and Aharon had entered the Ohel Mo'ed; when they came out, they blessed the people, and the Kavod of YHVH was seen by the entire people. <sup>24</sup>&nbsp;And fire went out from the presence of YHVH and consumed, upon the Mizbe'aḥ, the offering-up and the fat-parts; when all the people saw, they shouted and flung themselves on their faces.</span>[foot]Chapters 8-9 of Leviticus are an impressive example of the command-compliance pattern in Priestly literature. In Exodus 29, the Lord commanded Moses to invest Aaron and his sons into the Priesthood by means of a very intricate ritual, which consists of dressing them in appropriate garments, anointing them, and a series of sacrifices. In Leviticus 8-9, Moses and Aaron comply with every step of the detailed instructions, thus demonstrating their absolute loyalty to the deity, a similarly detailed command-compliance patterns is the building of the tabernacle in Exodus, commanded in chapters 25-28, and then executed in Exodus 40. The moment the Priests stray from this strict command-compliance pattern they are punished, as is demonstrated in Leviticus 10, when Nadab and Abihu are burnt for offering incense which the Lord hadn't commanded.[/foot]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="p">י <sup>א</sup>&nbsp;וַיִּקְח֣וּ בְנֵֽי־אַ֠הֲרֹ֠ן נָדָ֨ב וַאֲבִיה֜וּא אִ֣ישׁ מַחְתָּת֗וֹ וַיִּתְּנ֤וּ בָהֵן֙ אֵ֔שׁ וַיָּשִׂ֥ימוּ עָלֶ֖יהָ קְטֹ֑רֶת וַיַּקְרִ֜יבוּ לִפְנֵ֤י יְהֹוָה֙ אֵ֣שׁ זָרָ֔ה אֲשֶׁ֧ר לֹ֦א צִוָּ֖ה אֹתָֽם׃ <sup>ב</sup>&nbsp;וַתֵּ֥צֵא אֵ֛שׁ מִלִּפְנֵ֥י יְהֹוָ֖ה וַתֹּ֣אכַל אוֹתָ֑ם וַיָּמֻ֖תוּ לִפְנֵ֥י יְהֹוָֽה׃ <sup>ג</sup>&nbsp;וַיֹּ֨אמֶר מֹשֶׁ֜ה אֶֽל־אַהֲרֹ֗ן הוּא֩ אֲשֶׁר־דִּבֶּ֨ר יְהֹוָ֤ה ׀ לֵאמֹר֙ בִּקְרֹבַ֣י אֶקָּדֵ֔שׁ וְעַל־פְּנֵ֥י כׇל־הָעָ֖ם אֶכָּבֵ֑ד וַיִּדֹּ֖ם אַהֲרֹֽן׃ </span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="p">10 <sup>1</sup>&nbsp;Now Aharon's sons, Nadav and Avihu, took each-man his pan, and, placing fire in them, put smoking-incense on it, and brought-near, before the presence of YHVH, outside fire, such as he had not commanded them. <sup>2</sup>&nbsp;And fire went out from the presence of YHVH and consumed them, so that they died, before the presence of YHVH. <sup>3</sup>&nbsp;Mosheh said to Aharon: "It is what YHVH spoke (about), saying: 'Through those permitted-near to me, I will be-proven-holy, before all the people, I will be-accorded-honor!'" Aharon was silent.</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="p"><sup>ד</sup>&nbsp;וַיִּקְרָ֣א מֹשֶׁ֗ה אֶל־מִֽישָׁאֵל֙ וְאֶ֣ל אֶלְצָפָ֔ן בְּנֵ֥י עֻזִּיאֵ֖ל דֹּ֣ד אַהֲרֹ֑ן וַיֹּ֣אמֶר אֲלֵהֶ֗ם קִ֞&#x200d;֠רְב֞&#x200d;֠וּ שְׂא֤וּ אֶת־אֲחֵיכֶם֙ מֵאֵ֣ת פְּנֵי־הַקֹּ֔דֶשׁ אֶל־מִח֖וּץ לַֽמַּחֲנֶֽה׃ <sup>ה</sup>&nbsp;וַֽיִּקְרְב֗וּ וַיִּשָּׂאֻם֙ בְּכֻתֳּנֹתָ֔ם אֶל־מִח֖וּץ לַֽמַּחֲנֶ֑ה כַּאֲשֶׁ֖ר דִּבֶּ֥ר מֹשֶֽׁה׃ <sup>ו</sup>&nbsp;וַיֹּ֣אמֶר מֹשֶׁ֣ה אֶֽל־אַהֲרֹ֡ן וּלְאֶלְעָזָר֩ וּלְאִֽיתָמָ֨ר ׀ בָּנָ֜יו רָֽאשֵׁיכֶ֥ם אַל־תִּפְרָ֣עוּ ׀ וּבִגְדֵיכֶ֤ם לֹֽא־תִפְרֹ֙מוּ֙ וְלֹ֣א תָמֻ֔תוּ וְעַ֥ל כׇּל־הָעֵדָ֖ה יִקְצֹ֑ף וַאֲחֵיכֶם֙ כׇּל־בֵּ֣ית יִשְׂרָאֵ֔ל יִבְכּוּ֙ אֶת־הַשְּׂרֵפָ֔ה אֲשֶׁ֖ר שָׂרַ֥ף יְהֹוָֽה׃ <sup>ז</sup>&nbsp;וּמִפֶּ֩תַח֩ אֹ֨הֶל מוֹעֵ֜ד לֹ֤א תֵֽצְאוּ֙ פֶּן־תָּמֻ֔תוּ כִּי־שֶׁ֛מֶן מִשְׁחַ֥ת יְהֹוָ֖ה עֲלֵיכֶ֑ם וַֽיַּעֲשׂ֖וּ כִּדְבַ֥ר מֹשֶֽׁה׃ </span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="p"><sup>4</sup>&nbsp;Now Mosheh called Mishael and Eltsafan, the sons of Uzziel uncle of Aharon, and said to them: "Come-near, carry your brothers from in front of the Holy-shrine to beyond the camp." <sup>5</sup>&nbsp;They came-near and carried them, by their tunics, beyond the camp, as Mosheh had spoken. <sup>6</sup>&nbsp;Now Mosheh said to Aharon and to Elazar and Itamar his sons: "Your heads, do not bare, your garments, you are not to tear, so that you do not die and he be furious with the entire community! Your brothers, the entire House of Yisrael, are to weep over the burning that YHVH caused-to-burn. <sup>7</sup>&nbsp;And from the entrance to the Ohel Mo'ed, do not go out, lest you die, for the oil of anointing of YHVH (is) upon you!" They did according to the word of Mosheh.</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="h"><sup>ח</sup>&nbsp;וַיְדַבֵּ֣ר יְהֹוָ֔ה אֶֽל־אַהֲרֹ֖ן לֵאמֹֽר׃ <sup>ט</sup>&nbsp;יַ֣יִן וְשֵׁכָ֞ר אַל־תֵּ֣שְׁתְּ ׀ אַתָּ֣ה ׀ וּבָנֶ֣יךָ אִתָּ֗ךְ בְּבֹאֲכֶ֛ם אֶל־אֹ֥הֶל מוֹעֵ֖ד וְלֹ֣א תָמֻ֑תוּ חֻקַּ֥ת עוֹלָ֖ם לְדֹרֹתֵיכֶֽם׃ <sup>י</sup>&nbsp;וּֽלְהַבְדִּ֔יל בֵּ֥ין הַקֹּ֖דֶשׁ וּבֵ֣ין הַחֹ֑ל וּבֵ֥ין הַטָּמֵ֖א וּבֵ֥ין הַטָּהֽוֹר׃ <sup>יא</sup>&nbsp;וּלְהוֹרֹ֖ת אֶת־בְּנֵ֣י יִשְׂרָאֵ֑ל אֵ֚ת כׇּל־הַ֣חֻקִּ֔ים אֲשֶׁ֨ר דִּבֶּ֧ר יְהֹוָ֛ה אֲלֵיהֶ֖ם בְּיַד־מֹשֶֽׁה׃ </span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="h"><sup>8</sup>&nbsp;Now YHVH spoke to Aharon, saying: <sup>9</sup>&nbsp;"Wine and intoxicant, do not drink, you and your sons with you, when you enter the Ohel Mo'ed, so that you do not die — a law for the ages, throughout your generations: <sup>10</sup>&nbsp;and so that there be-separation between the holy and the profane, between the tamei and the pure, <sup>11</sup>&nbsp;and so that (you) might instruct the Children of Yisrael in all the laws that YHVH spoke to them through the hand of Mosheh."</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="h"><mark>רביעי</mark> <sup>יב</sup>&nbsp;וַיְדַבֵּ֨ר מֹשֶׁ֜ה אֶֽל־אַהֲרֹ֗ן וְאֶ֣ל אֶ֠לְעָזָ֠ר וְאֶל־אִ֨יתָמָ֥ר ׀ בָּנָיו֮ הַנּֽוֹתָרִים֒ קְח֣וּ אֶת־הַמִּנְחָ֗ה הַנּוֹתֶ֙רֶת֙ מֵאִשֵּׁ֣י יְהֹוָ֔ה וְאִכְל֥וּהָ מַצּ֖וֹת אֵ֣צֶל הַמִּזְבֵּ֑חַ כִּ֛י קֹ֥דֶשׁ קׇֽדָשִׁ֖ים הִֽוא׃ <sup>יג</sup>&nbsp;וַאֲכַלְתֶּ֤ם אֹתָהּ֙ בְּמָק֣וֹם קָד֔וֹשׁ כִּ֣י חׇקְךָ֤ וְחׇק־בָּנֶ֙יךָ֙ הִ֔וא מֵאִשֵּׁ֖י יְהֹוָ֑ה כִּי־כֵ֖ן צֻוֵּֽיתִי׃ <sup>יד</sup>&nbsp;וְאֵת֩ חֲזֵ֨ה הַתְּנוּפָ֜ה וְאֵ֣ת ׀ שׁ֣וֹק הַתְּרוּמָ֗ה תֹּֽאכְלוּ֙ בְּמָק֣וֹם טָה֔וֹר אַתָּ֕ה וּבָנֶ֥יךָ וּבְנֹתֶ֖יךָ אִתָּ֑ךְ כִּֽי־חׇקְךָ֤ וְחׇק־בָּנֶ֙יךָ֙ נִתְּנ֔וּ מִזִּבְחֵ֥י שַׁלְמֵ֖י בְּנֵ֥י יִשְׂרָאֵֽל׃ <sup>טו</sup>&nbsp;שׁ֣וֹק הַתְּרוּמָ֞ה וַחֲזֵ֣ה הַתְּנוּפָ֗ה עַ֣ל אִשֵּׁ֤י הַחֲלָבִים֙ יָבִ֔יאוּ לְהָנִ֥יף תְּנוּפָ֖ה לִפְנֵ֣י יְהֹוָ֑ה וְהָיָ֨ה לְךָ֜ וּלְבָנֶ֤יךָ אִתְּךָ֙ לְחׇק־עוֹלָ֔ם כַּאֲשֶׁ֖ר צִוָּ֥ה יְהֹוָֽה׃ </span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="h"><sup>12</sup>&nbsp;Now Mosheh spoke to Aharon and to Elazar and to Itamar, his sons that were left: "Take the grain-gift that is left of the fire-offerings of YHVH and eat it unleavened next to the Mizbe'aḥ, for it is a holiest holy-portion. <sup>13</sup>&nbsp;You are to eat it in a holy place, for it is for your allotment and your sons' allotment, from the fire-offerings of YHVH, for thus have I been commanded. <sup>14</sup>&nbsp;But the breast of the elevation-offering and the thigh of the contribution, you may eat in (any) pure place, you and your sons and your daughters with you, for as your allotment and your children's allotment they have been given (you), from the slaughter-offerings of shalom of the Children of Yisrael. <sup>15</sup>&nbsp;The thigh of the contribution and the breast of the elevation-offering, along with the gifts of the fat-parts, they are to bring to elevate as an elevation-offering before the presence of YHVH; it is to be for you and for your sons with you as an allotment for the ages, as YHVH has commanded."</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="h"><mark>חמישי</mark> <sup>טז</sup>&nbsp;וְאֵ֣ת ׀ שְׂעִ֣יר הַֽחַטָּ֗את דָּרֹ֥שׁ דָּרַ֛שׁ מֹשֶׁ֖ה וְהִנֵּ֣ה שֹׂרָ֑ף וַ֠יִּקְצֹ֠ף עַל־אֶלְעָזָ֤ר וְעַל־אִֽיתָמָר֙ בְּנֵ֣י אַהֲרֹ֔ן הַנּוֹתָרִ֖ם לֵאמֹֽר׃ <sup>יז</sup>&nbsp;מַדּ֗וּעַ לֹֽא־אֲכַלְתֶּ֤ם אֶת־הַחַטָּאת֙ בִּמְק֣וֹם הַקֹּ֔דֶשׁ כִּ֛י קֹ֥דֶשׁ קׇֽדָשִׁ֖ים הִ֑וא וְאֹתָ֣הּ ׀ נָתַ֣ן לָכֶ֗ם לָשֵׂאת֙ אֶת־עֲוֺ֣ן הָעֵדָ֔ה לְכַפֵּ֥ר עֲלֵיהֶ֖ם לִפְנֵ֥י יְהֹוָֽה׃ <sup>יח</sup>&nbsp;הֵ֚ן לֹא־הוּבָ֣א אֶת־דָּמָ֔הּ אֶל־הַקֹּ֖דֶשׁ פְּנִ֑ימָה אָכ֨וֹל תֹּאכְל֥וּ אֹתָ֛הּ בַּקֹּ֖דֶשׁ כַּאֲשֶׁ֥ר צִוֵּֽיתִי׃ <sup>יט</sup>&nbsp;וַיְדַבֵּ֨ר אַהֲרֹ֜ן אֶל־מֹשֶׁ֗ה הֵ֣ן הַ֠יּ֠וֹם הִקְרִ֨יבוּ אֶת־חַטָּאתָ֤ם וְאֶת־עֹֽלָתָם֙ לִפְנֵ֣י יְהֹוָ֔ה וַתִּקְרֶ֥אנָה אֹתִ֖י כָּאֵ֑לֶּה וְאָכַ֤לְתִּי חַטָּאת֙ הַיּ֔וֹם הַיִּיטַ֖ב בְּעֵינֵ֥י יְהֹוָֽה׃ <sup>כ</sup>&nbsp;וַיִּשְׁמַ֣ע מֹשֶׁ֔ה וַיִּיטַ֖ב בְּעֵינָֽיו׃</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="h"><sup>16</sup>&nbsp;Now about the hairy-goat of ḥattat Mosheh inquired, yes, inquired, and here: it had (already) been burned! And he became furious at Elazar and Itamar, the sons of Aharon that were left, saying: <sup>17</sup>&nbsp;"Why did you not eat the ḥattat-offering in the place of the Holy-shrine? For it is a holiest holy-portion, and he has given it to you to bear the iniquity of the community, to effect-purgation for them, before the presence of YHVH. <sup>18</sup>&nbsp;Here, its blood was not brought into the Holy-shrine, inside; you should have eaten, eaten it in the Holy-shrine, as I commanded!" <sup>19</sup>&nbsp;But Aharon said to Mosheh: "Here, today they brought-near their ḥattat-offering and their offering-up, before the presence of YHVH, and such (things) as these have happened to me! Had I eaten the ḥattat-offering today, would it have been good in the eyes of YHVH?" <sup>20</sup>&nbsp;Mosheh hearkened, and it was good in his eyes.</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="p"><mark>ששי</mark> יא <sup>א</sup>&nbsp;וַיְדַבֵּ֧ר יְהֹוָ֛ה אֶל־מֹשֶׁ֥ה וְאֶֽל־אַהֲרֹ֖ן לֵאמֹ֥ר אֲלֵהֶֽם׃ <sup>ב</sup>&nbsp;דַּבְּר֛וּ אֶל־בְּנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר זֹ֤את הַֽחַיָּה֙ אֲשֶׁ֣ר תֹּאכְל֔וּ מִכׇּל־הַבְּהֵמָ֖ה אֲשֶׁ֥ר עַל־הָאָֽרֶץ׃ <sup>ג</sup>&nbsp;כֹּ֣ל ׀ מַפְרֶ֣סֶת פַּרְסָ֗ה וְשֹׁסַ֤עַת שֶׁ֙סַע֙ פְּרָסֹ֔ת מַעֲלַ֥ת גֵּרָ֖ה בַּבְּהֵמָ֑ה אֹתָ֖הּ תֹּאכֵֽלוּ׃ </span> <span class="h"><sup>ד</sup>&nbsp;אַ֤ךְ אֶת־זֶה֙ לֹ֣א תֹֽאכְל֔וּ מִֽמַּעֲלֵי֙ הַגֵּרָ֔ה וּמִמַּפְרִסֵ֖י הַפַּרְסָ֑ה אֶֽת־הַ֠גָּמָ֠ל כִּֽי־מַעֲלֵ֨ה גֵרָ֜ה ה֗וּא וּפַרְסָה֙ אֵינֶ֣נּוּ מַפְרִ֔יס טָמֵ֥א ה֖וּא לָכֶֽם׃ <sup>ה</sup>&nbsp;וְאֶת־הַשָּׁפָ֗ן כִּֽי־מַעֲלֵ֤ה גֵרָה֙ ה֔וּא וּפַרְסָ֖ה לֹ֣א יַפְרִ֑יס טָמֵ֥א ה֖וּא לָכֶֽם׃ <sup>ו</sup>&nbsp;וְאֶת־הָאַרְנֶ֗בֶת כִּֽי־מַעֲלַ֤ת גֵּרָה֙ הִ֔וא וּפַרְסָ֖ה לֹ֣א הִפְרִ֑יסָה טְמֵאָ֥ה הִ֖וא לָכֶֽם׃ <sup>ז</sup>&nbsp;וְאֶת־הַ֠חֲזִ֠יר כִּֽי־מַפְרִ֨יס פַּרְסָ֜ה ה֗וּא וְשֹׁסַ֥ע שֶׁ֙סַע֙ פַּרְסָ֔ה וְה֖וּא גֵּרָ֣ה לֹֽא־יִגָּ֑ר טָמֵ֥א ה֖וּא לָכֶֽם׃ <sup>ח</sup>&nbsp;מִבְּשָׂרָם֙ לֹ֣א תֹאכֵ֔לוּ וּבְנִבְלָתָ֖ם לֹ֣א תִגָּ֑עוּ טְמֵאִ֥ים הֵ֖ם לָכֶֽם׃ </span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="p">11 <sup>1</sup>&nbsp;YHVH spoke to Mosheh and to Aharon, saying to them: <sup>2</sup>&nbsp;"Speak to the Children of Yisrael, saying to them: 'These are the ḥayyah/living-creatures that you may eat, from all the behemah/animals that are upon the earth: <sup>3</sup>&nbsp;any one having a hoof, cleaving a cleft in (its) hooves, bringing-up the cud, among the animals — that-one you may eat.</span> <span class="h"><sup>4</sup>&nbsp;However, these you are not to eat from those bringing-up the cud, or from those having a hoof: the camel, for it brings-up the cud, but a hoof it does not have, it is tamei for you; <sup>5</sup>&nbsp;the hyrax, for it brings-up the cud, but a hoof it does not have, it is tamei for you; <sup>6</sup>&nbsp;the hare, for it brings-up the cud, but a hoof it does not have, it is tamei for you; <sup>7</sup>&nbsp;the pig, for it has a hoof and cleaves a cleft in the hoof, but (as for) it — the cud it does not chew up, it is tamei for you. <sup>8</sup>&nbsp;From their flesh you are not to eat, their carcasses you are not to touch, they are tamei for you!'"</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="p"><sup>ט</sup>&nbsp;אֶת־זֶה֙ תֹּֽאכְל֔וּ מִכֹּ֖ל אֲשֶׁ֣ר בַּמָּ֑יִם כֹּ֣ל אֲשֶׁר־לוֹ֩ סְנַפִּ֨יר וְקַשְׂקֶ֜שֶׂת בַּמַּ֗יִם בַּיַּמִּ֛ים וּבַנְּחָלִ֖ים אֹתָ֥ם תֹּאכֵֽלוּ׃ </span> <span class="h"><sup>י</sup>&nbsp;וְכֹל֩ אֲשֶׁ֨ר אֵֽין־ל֜וֹ סְנַפִּ֣יר וְקַשְׂקֶ֗שֶׂת בַּיַּמִּים֙ וּבַנְּחָלִ֔ים מִכֹּל֙ שֶׁ֣רֶץ הַמַּ֔יִם וּמִכֹּ֛ל נֶ֥פֶשׁ הַחַיָּ֖ה אֲשֶׁ֣ר בַּמָּ֑יִם שֶׁ֥קֶץ הֵ֖ם לָכֶֽם׃ <sup>יא</sup>&nbsp;וְשֶׁ֖קֶץ יִהְי֣וּ לָכֶ֑ם מִבְּשָׂרָם֙ לֹ֣א תֹאכֵ֔לוּ וְאֶת־נִבְלָתָ֖ם תְּשַׁקֵּֽצוּ׃ </span> <span class="u"><sup>יב</sup>&nbsp;כֹּ֣ל אֲשֶׁ֥ר אֵֽין־ל֛וֹ סְנַפִּ֥יר וְקַשְׂקֶ֖שֶׂת בַּמָּ֑יִם שֶׁ֥קֶץ ה֖וּא לָכֶֽם׃ </span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="p"><sup>9</sup>&nbsp;"These you may eat from all that are in the water: any one that has fins and scales in the water, (whether) in the seas or in the streams, them you may eat.</span> <span class="h"><sup>10</sup>&nbsp;But any one that does not have fins and scales, (whether) in the seas or in the streams, from all swarming-things in the water, from all living beings that are in the water — they are detestable-things for you! <sup>11</sup>&nbsp;And they shall remain detestable-things for you: from their flesh you are not to eat, their (very) carcasses you are to detest.</span> <span class="u"><sup>12</sup>&nbsp;Any one that does not have fins and scales in the water — it is a detestable-thing for you!"</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="h"><sup>יג</sup>&nbsp;וְאֶת־אֵ֙לֶּה֙ תְּשַׁקְּצ֣וּ מִן־הָע֔וֹף לֹ֥א יֵאָכְל֖וּ שֶׁ֣קֶץ הֵ֑ם אֶת־הַנֶּ֙שֶׁר֙ וְאֶת־הַפֶּ֔רֶס וְאֵ֖ת הָעׇזְנִיָּֽה׃ <sup>יד</sup>&nbsp;וְאֶ֨ת־הַדָּאָ֔ה וְאֶת־הָאַיָּ֖ה לְמִינָֽהּ׃ <sup>טו</sup>&nbsp;אֵ֥ת כׇּל־עֹרֵ֖ב לְמִינֽוֹ׃ <sup>טז</sup>&nbsp;וְאֵת֙ בַּ֣ת הַֽיַּעֲנָ֔ה וְאֶת־הַתַּחְמָ֖ס וְאֶת־הַשָּׁ֑חַף וְאֶת־הַנֵּ֖ץ לְמִינֵֽהוּ׃ <sup>יז</sup>&nbsp;וְאֶת־הַכּ֥וֹס וְאֶת־הַשָּׁלָ֖ךְ וְאֶת־הַיַּנְשֽׁוּף׃ <sup>יח</sup>&nbsp;וְאֶת־הַתִּנְשֶׁ֥מֶת וְאֶת־הַקָּאָ֖ת וְאֶת־הָרָחָֽם׃ <sup>יט</sup>&nbsp;וְאֵת֙ הַחֲסִידָ֔ה הָאֲנָפָ֖ה לְמִינָ֑הּ וְאֶת־הַדּוּכִיפַ֖ת וְאֶת־הָעֲטַלֵּֽף׃ </span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="h"><sup>13</sup>&nbsp;"Now these you are to hold-detestable from fowl — they are not to be eaten, they are detestable-things: the eagle, the bearded-vulture and the black-vulture, <sup>14</sup>&nbsp;the kite and the falcon according to its kind, <sup>15</sup>&nbsp;every raven according to its kind; <sup>16</sup>&nbsp;the desert owl, the screech owl and the sea gull, and the hawk according to its kind; <sup>17</sup>&nbsp;the little-owl, the cormorant, and the great owl; <sup>18</sup>&nbsp;the barn-owl, the pelican, and the Egyptian-vulture; <sup>19</sup>&nbsp;the stork, the heron according to its kind, the hoopoe and the bat."</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="h"><sup>כ</sup>&nbsp;כֹּ֚ל שֶׁ֣רֶץ הָע֔וֹף הַהֹלֵ֖ךְ עַל־אַרְבַּ֑ע שֶׁ֥קֶץ ה֖וּא לָכֶֽם׃ <sup>כא</sup>&nbsp;אַ֤ךְ</span> <span class="p">אֶת־זֶה֙ תֹּֽאכְל֔וּ מִכֹּל֙ שֶׁ֣רֶץ הָע֔וֹף הַהֹלֵ֖ךְ עַל־אַרְבַּ֑ע אֲשֶׁר־ל֤וֹ [לא] כְרָעַ֙יִם֙ מִמַּ֣עַל לְרַגְלָ֔יו לְנַתֵּ֥ר בָּהֵ֖ן עַל־הָאָֽרֶץ׃ </span> <span class="h"><sup>כב</sup>&nbsp;אֶת־אֵ֤לֶּה מֵהֶם֙ תֹּאכֵ֔לוּ אֶת־הָֽאַרְבֶּ֣ה לְמִינ֔וֹ וְאֶת־הַסׇּלְעָ֖ם לְמִינֵ֑הוּ וְאֶת־הַחַרְגֹּ֣ל לְמִינֵ֔הוּ וְאֶת־הֶחָגָ֖ב לְמִינֵֽהוּ׃ <sup>כג</sup>&nbsp;וְכֹל֙ שֶׁ֣רֶץ הָע֔וֹף אֲשֶׁר־ל֖וֹ אַרְבַּ֣ע רַגְלָ֑יִם שֶׁ֥קֶץ ה֖וּא לָכֶֽם׃ </span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="h"><sup>20</sup>&nbsp;"Any flying swarming-creature that goes about on all fours — it is a detestable-thing for you! <sup>21</sup>&nbsp;However,</span> <span class="p">these you may eat from any flying swarming-creature that goes about on all fours: (those) that have jointed-legs above their feet, with which to leap on the earth;</span> <span class="h"><sup>22</sup>&nbsp;as for these, from them you may eat: the locust according to its kind, the bald-locust according to its kind; the cricket according to its kind, the grasshopper according to its kind. <sup>23</sup>&nbsp;But every (other) flying swarming-creature that has four legs, it is a detestable-thing for you! </span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="h"><sup>כד</sup>&nbsp;וּלְאֵ֖לֶּה תִּטַּמָּ֑אוּ כׇּל־הַנֹּגֵ֥עַ בְּנִבְלָתָ֖ם יִטְמָ֥א עַד־הָעָֽרֶב׃ <sup>כה</sup>&nbsp;וְכׇל־הַנֹּשֵׂ֖א מִנִּבְלָתָ֑ם יְכַבֵּ֥ס בְּגָדָ֖יו וְטָמֵ֥א עַד־הָעָֽרֶב׃ </span> <span class="u"><sup>כו</sup>&nbsp;לְֽ</span><span class="p">כׇל־הַבְּהֵמָ֡ה אֲשֶׁ֣ר הִוא֩ מַפְרֶ֨סֶת פַּרְסָ֜ה וְשֶׁ֣סַע ׀ אֵינֶ֣נָּה שֹׁסַ֗עַת וְגֵרָה֙ אֵינֶ֣נָּה מַעֲלָ֔ה טְמֵאִ֥ים הֵ֖ם לָכֶ֑ם</span> <span class="h">כׇּל־הַנֹּגֵ֥עַ בָּהֶ֖ם יִטְמָֽא׃ </span> <span class="p"><sup>כז</sup>&nbsp;וְכֹ֣ל ׀ הוֹלֵ֣ךְ עַל־כַּפָּ֗יו בְּכׇל־הַֽחַיָּה֙ הַהֹלֶ֣כֶת עַל־אַרְבַּ֔ע טְמֵאִ֥ים הֵ֖ם לָכֶ֑ם</span> <span class="h">כׇּל־הַנֹּגֵ֥עַ בְּנִבְלָתָ֖ם יִטְמָ֥א עַד־הָעָֽרֶב׃ <sup>כח</sup>&nbsp;וְהַנֹּשֵׂא֙ אֶת־נִבְלָתָ֔ם יְכַבֵּ֥ס בְּגָדָ֖יו וְטָמֵ֣א עַד־הָעָ֑רֶב טְמֵאִ֥ים הֵ֖מָּה לָכֶֽם׃ </span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="h"><sup>24</sup>&nbsp;Now from these you can become tamei — whoever touches their carcass shall be tamei until sunset, <sup>25</sup>&nbsp;whoever carries (any part) of their carcass is to scrub his garments, and remain-tamei until sunset."</span> <span class="u"><sup>26</sup>&nbsp;"For</span> <span class="p">every animal that divides a divided-hoof, but cleaving does not cleave it through, and its cud does not bring up; they are tamei for you,</span> <span class="h">whoever touches them is tamei!</span> <span class="p"><sup>27</sup>&nbsp;And any one that goes about on its paws, among all animals that go about on all fours, they are tamei for you,</span> <span class="h">whoever touches their carcass is tamei until sunset; <sup>28</sup>&nbsp;one who carries their carcass is to scrub one's garments and be tamei until sunset, they are tamei for you."</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="h"><sup>כט</sup>&nbsp;וְזֶ֤ה לָכֶם֙ הַטָּמֵ֔א בַּשֶּׁ֖רֶץ הַשֹּׁרֵ֣ץ עַל־הָאָ֑רֶץ הַחֹ֥לֶד וְהָעַכְבָּ֖ר וְהַצָּ֥ב לְמִינֵֽהוּ׃ <sup>ל</sup>&nbsp;וְהָאֲנָקָ֥ה וְהַכֹּ֖חַ וְהַלְּטָאָ֑ה וְהַחֹ֖מֶט וְהַתִּנְשָֽׁמֶת׃ </span> 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="h"><sup>29</sup>&nbsp;"Now these are for you (the) ones tamei among the swarming-creatures that swarm on the earth: the weasel, the mouse, and the great-lizard according to its kind; <sup>30</sup>&nbsp;the gecko, the monitor and the lizard, the sand-lizard and the chameleon."</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="h"><sup>לא</sup>&nbsp;אֵ֛לֶּה הַטְּמֵאִ֥ים לָכֶ֖ם בְּכׇל־הַשָּׁ֑רֶץ כׇּל־הַנֹּגֵ֧עַ בָּהֶ֛ם בְּמֹתָ֖ם יִטְמָ֥א עַד־הָעָֽרֶב׃ <sup>לב</sup>&nbsp;וְכֹ֣ל אֲשֶׁר־יִפֹּל־עָלָיו֩ מֵהֶ֨ם ׀ בְּמֹתָ֜ם יִטְמָ֗א מִכׇּל־כְּלִי־עֵץ֙ א֣וֹ בֶ֤גֶד אוֹ־עוֹר֙ א֣וֹ שָׂ֔ק כׇּל־כְּלִ֕י אֲשֶׁר־יֵעָשֶׂ֥ה מְלָאכָ֖ה בָּהֶ֑ם בַּמַּ֧יִם יוּבָ֛א וְטָמֵ֥א עַד־הָעֶ֖רֶב וְטָהֵֽר׃ <mark>שביעי</mark> <sup>לג</sup>&nbsp;וְכׇ֨ל־כְּלִי־חֶ֔רֶשׂ אֲשֶׁר־יִפֹּ֥ל מֵהֶ֖ם אֶל־תּוֹכ֑וֹ כֹּ֣ל אֲשֶׁ֧ר בְּתוֹכ֛וֹ יִטְמָ֖א וְאֹת֥וֹ תִשְׁבֹּֽרוּ׃ <sup>לד</sup>&nbsp;מִכׇּל־הָאֹ֜כֶל אֲשֶׁ֣ר יֵאָכֵ֗ל אֲשֶׁ֨ר יָב֥וֹא עָלָ֛יו מַ֖יִם יִטְמָ֑א וְכׇל־מַשְׁקֶה֙ אֲשֶׁ֣ר יִשָּׁתֶ֔ה בְּכׇל־כְּלִ֖י יִטְמָֽא׃ <sup>לה</sup>&nbsp;וְ֠כֹ֠ל אֲשֶׁר־יִפֹּ֨ל מִנִּבְלָתָ֥ם ׀ עָלָיו֮ יִטְמָא֒ תַּנּ֧וּר וְכִירַ֛יִם יֻתָּ֖ץ טְמֵאִ֣ים הֵ֑ם וּטְמֵאִ֖ים יִהְי֥וּ לָכֶֽם׃ <sup>לו</sup>&nbsp;אַ֣ךְ מַעְיָ֥ן וּב֛וֹר מִקְוֵה־מַ֖יִם יִהְיֶ֣ה טָה֑וֹר וְנֹגֵ֥עַ בְּנִבְלָתָ֖ם יִטְמָֽא׃ <sup>לז</sup>&nbsp;וְכִ֤י יִפֹּל֙ מִנִּבְלָתָ֔ם עַל־כׇּל־זֶ֥רַע זֵר֖וּעַ אֲשֶׁ֣ר יִזָּרֵ֑עַ טָה֖וֹר הֽוּא׃ <sup>לח</sup>&nbsp;וְכִ֤י יֻתַּן־מַ֙יִם֙ עַל־זֶ֔רַע וְנָפַ֥ל מִנִּבְלָתָ֖ם עָלָ֑יו טָמֵ֥א ה֖וּא לָכֶֽם׃ </span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="h"><sup>31</sup>&nbsp;"These are (the) ones tamei for you among all the swarming-creatures; whoever touches them when they are dead shall be tamei until sunset, <sup>32</sup>&nbsp;anything upon which one of them should fall when they are dead shall be tamei, whether any vessel of wood or cloth or skin or sackcloth — any vessel that can be used in work — it is to be put through water; it remains-tamei until sunset, then it is pure. <sup>33</sup>&nbsp;And (regarding) any earthen vessel into which one of them falls, within it, everything within it shall be tamei, and it — you are to break (it)! <sup>34</sup>&nbsp;As for any food that might be eaten, should water come in (contact with) it, it shall be tamei; and any beverage that might be drunk, (if) in any vessel, it shall be tamei. <sup>35</sup>&nbsp;Anything (else) on which their carcass falls shall be tamei; an oven or a two-pot-stove is to be demolished — they are tamei, they shall remain tamei for you. <sup>36</sup>&nbsp;However, a spring or a cistern (for) gathering water shall remain pure, but one who touches their carcass shall be tamei. <sup>37</sup>&nbsp;Now if (part) of their carcass falls upon any sowing seed that is to be sown, it remains-pure. <sup>38</sup>&nbsp;But if water is put on the seed and (part) of their carcass falls on it, it is tamei for you."</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="h"><sup>לט</sup>&nbsp;וְכִ֤י יָמוּת֙ מִן־הַבְּהֵמָ֔ה אֲשֶׁר־הִ֥יא לָכֶ֖ם לְאׇכְלָ֑ה הַנֹּגֵ֥עַ בְּנִבְלָתָ֖הּ יִטְמָ֥א עַד־הָעָֽרֶב׃ <sup>מ</sup>&nbsp;וְהָֽאֹכֵל֙ מִנִּבְלָתָ֔הּ יְכַבֵּ֥ס בְּגָדָ֖יו וְטָמֵ֣א עַד־הָעָ֑רֶב וְהַנֹּשֵׂא֙ אֶת־נִבְלָתָ֔הּ יְכַבֵּ֥ס בְּגָדָ֖יו וְטָמֵ֥א עַד־הָעָֽרֶב׃ </span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="h"><sup>39</sup>&nbsp;"If there should die one of the animals that are (permitted) to you for eating, one who touches its carcass shall remain-tamei until sunset. <sup>40</sup>&nbsp;One who eats from its carcass is to scrub his garments, remaining-tamei until sunset, one who carries its carcass is to scrub his garments, remaining-tamei until sunset."</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="p"><sup>מא</sup>&nbsp;וְכׇל־הַשֶּׁ֖רֶץ הַשֹּׁרֵ֣ץ עַל־הָאָ֑רֶץ שֶׁ֥קֶץ ה֖וּא לֹ֥א יֵאָכֵֽל׃ </span> <span class="h"><sup>מב</sup>&nbsp;כֹּל֩ הוֹלֵ֨ךְ עַל־גָּח֜וֹן וְכֹ֣ל ׀ הוֹלֵ֣ךְ עַל־אַרְבַּ֗ע עַ֚ד כׇּל־מַרְבֵּ֣ה רַגְלַ֔יִם לְכׇל־הַשֶּׁ֖רֶץ הַשֹּׁרֵ֣ץ עַל־הָאָ֑רֶץ לֹ֥א תֹאכְל֖וּם כִּי־שֶׁ֥קֶץ הֵֽם׃ <sup>מג</sup>&nbsp;אַל־תְּשַׁקְּצוּ֙ אֶת־נַפְשֹׁ֣תֵיכֶ֔ם בְּכׇל־הַשֶּׁ֖רֶץ הַשֹּׁרֵ֑ץ וְלֹ֤א תִֽטַּמְּאוּ֙ בָּהֶ֔ם וְנִטְמֵתֶ֖ם בָּֽם׃ <sup>מד</sup>&nbsp;כִּ֣י אֲנִ֣י יְהֹוָה֮ אֱלֹֽהֵיכֶם֒ וְהִתְקַדִּשְׁתֶּם֙ וִהְיִיתֶ֣ם קְדֹשִׁ֔ים כִּ֥י קָד֖וֹשׁ אָ֑נִי וְלֹ֤א תְטַמְּאוּ֙ אֶת־נַפְשֹׁ֣תֵיכֶ֔ם בְּכׇל־הַשֶּׁ֖רֶץ הָרֹמֵ֥שׂ עַל־הָאָֽרֶץ׃ <mark>מפטיר</mark> <sup>מה</sup>&nbsp;כִּ֣י ׀ אֲנִ֣י יְהֹוָ֗ה הַֽמַּעֲלֶ֤ה אֶתְכֶם֙ מֵאֶ֣רֶץ מִצְרַ֔יִם לִהְיֹ֥ת לָכֶ֖ם לֵאלֹהִ֑ים וִהְיִיתֶ֣ם קְדֹשִׁ֔ים כִּ֥י קָד֖וֹשׁ אָֽנִי׃ </span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="p"><sup>41</sup>&nbsp;"Any swarming-creature that swarms upon the earth: it is a detestable-thing, it is not to be eaten.</span> <span class="h"><sup>42</sup>&nbsp;Anything going about on its belly, anything going about on all fours, up to anything with many legs, among all swarming-creatures that swarm upon the earth: you are not to eat them, for they are detestable-things! <sup>43</sup>&nbsp;Do not make yourselves detestable through any swarming-thing that swarms; you are not to make yourselves tamei through them, becoming tamei through them! <sup>44</sup>&nbsp;For I, YHVH, am your <em>elo'ah</em>: you are to hallow yourselves and be holy, for holy am I; you are not to make yourselves tamei through any swarming-creature that crawls about upon the earth. <sup>45</sup>&nbsp;For I am YHVH, the one bringing you up from the land of Mitsrayim, to be Elohim to you; you are to be holy, for holy am I!"</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="p"><sup>מו</sup>&nbsp;זֹ֣את תּוֹרַ֤ת הַבְּהֵמָה֙ וְהָע֔וֹף וְכֹל֙ נֶ֣פֶשׁ הַֽחַיָּ֔ה הָרֹמֶ֖שֶׂת בַּמָּ֑יִם וּלְכׇל־נֶ֖פֶשׁ הַשֹּׁרֶ֥צֶת עַל־הָאָֽרֶץ׃ <sup>מז</sup>&nbsp;לְהַבְדִּ֕יל בֵּ֥ין הַטָּמֵ֖א וּבֵ֣ין הַטָּהֹ֑ר וּבֵ֤ין הַֽחַיָּה֙ הַֽנֶּאֱכֶ֔לֶת וּבֵין֙ הַֽחַיָּ֔ה אֲשֶׁ֖ר לֹ֥א תֵאָכֵֽל׃</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="p"><sup>46</sup>&nbsp;"This is the Instruction for animals, fowl and all living beings that stir in the water, all beings that swarm upon the earth, <sup>47</sup>&nbsp;that there may be-separation between the tamei and the pure, between the living-creatures that may be eaten and the living-creatures that you are not to eat."</span>
 </div></td></tr>
 </tbody></table>

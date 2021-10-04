@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אַהֲבַת עוֹלָם בֵּית יִשְׂרָאֵל עַמְּךָ אָהָבְתָּ, 
 תּוֹרָה וּמִצְוֺת 
 חֻקִּים וּמִשְׁפָּטִים 
@@ -19,7 +19,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Unending is your love for your people, the House of Yisrael:
 Torah and Mitsvot, 
 laws and precepts 
@@ -28,7 +28,7 @@ have you taught us.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עַל כֵּן יהוה אֱלֹהֵינוּ בְּשָׁכְבֵנוּ וּבְקוּמֵנוּ 
 נָשִׂיחַ בְּחֻקֶּיךָ, 
 וְנִשְׂמַח בְּדִבְרֵי תוֹרָתֶךָ וּבְמִצְוֺתֶיךָ לְעוֹלָם וָעֶד. 
@@ -39,7 +39,7 @@ have you taught us.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 YHVH our <em>elo'ah</em> – when we lie down and when we rise up, 
 we will meditate on your laws 
 and rejoice in your Torah and Mitsvot forever. 
@@ -51,13 +51,13 @@ Do not let your love ever depart from us!
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה יהוה, 
 אוֹהֵב עַמּוֹ יִשְׂרָאֵל׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Blessed are you, YHVH, 
 who loves His people Yisrael.
 </div></td></tr>

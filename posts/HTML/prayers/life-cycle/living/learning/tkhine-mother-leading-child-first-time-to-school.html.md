@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Yiddish)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="yiddish"><span lang="yi">
+<div class="yiddish" lang="yi">
 רִבּוֺנוֺ שֶׁל עוֺלָם! 
 דו האָסט גיבּאָטען אין דער הײליגר תוֺרָה 
 דאָס עלטערין זאָלין לערנען תּוֺרָה מיט זײערע קינדער, 
@@ -19,7 +19,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 האָבּין מיר געדונגען אַ מְלַמֵד פר אים, 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Master of the cosmos! 
 You have commanded in the holy Torah 
 that parents should teach their children Torah.[foot]Deuteronomy 6:7[/foot]&nbsp;
@@ -29,7 +29,7 @@ we have hired a <em>melamed</em> (teacher) for them.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="yiddish"><span lang="yi">
+<div class="yiddish" lang="yi">
 דארוּם בּעט איך דיך גאָט 
 נעם אָן אונזער געלד װיא מיר אלײן װאָלטען מיט אים געלערינט, 
 דער זְכוּת פון דר תּוֺרָה זאָל אױף אונז מגין זײַן 
@@ -37,7 +37,7 @@ we have hired a <em>melamed</em> (teacher) for them.
 אָמֵן׃
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Therefore, I beseech You, God, 
 to accept our money as if we ourselves were teaching them. 
 May the merit of the Torah protect us 

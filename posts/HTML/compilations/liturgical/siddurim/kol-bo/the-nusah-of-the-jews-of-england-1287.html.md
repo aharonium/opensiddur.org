@@ -12,7 +12,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <hr />
 
-<div class="liturgy">
+<div class="liturgy" lang="he">
 
 &nbsp;
 

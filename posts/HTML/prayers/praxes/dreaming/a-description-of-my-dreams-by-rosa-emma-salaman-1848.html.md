@@ -11,24 +11,24 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Contribute a translation</th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <u>
 A Description of my Dreams</u>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Oh, wake me not, my sisters dear, 
    Nor call me when I sleep, 
 And if no more I waken here, 
@@ -37,12 +37,12 @@ And if no more I waken here,
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 For oh! I have such happy dreams, 
    So fraught with joy and love! 
 For to another world it seems
@@ -51,12 +51,12 @@ For to another world it seems
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 So tranquilly, so silently,
    I join that world of bliss,
 That, were it not for so much joy,
@@ -65,12 +65,12 @@ That, were it not for so much joy,
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 I hear no voice, no single sound
    Is borne upon the air,
 But love and kindness all around,
@@ -79,12 +79,12 @@ But love and kindness all around,
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 They gently come and take my hand
    To clasp within their own;
 They are not here, that shadowy band—
@@ -93,12 +93,12 @@ They are not here, that shadowy band—
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 I think that spirits when we sleep
    Are watching from above,
 And if they thus their vigils keep,
@@ -107,12 +107,12 @@ And if they thus their vigils keep,
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Oh, surely on the midnight wind
    Pure spirits must be borne,
 To pour down joy upon the mind,
@@ -121,12 +121,12 @@ To pour down joy upon the mind,
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 They are not words, or looks, or tones,
    Which sink into my soul,
 Yet, when I wake my spirit moans
@@ -135,12 +135,12 @@ Yet, when I wake my spirit moans
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 There seems a sense of thrilling bliss,
    Unearthly and refined,
 A mingling of that world with this,
@@ -149,12 +149,12 @@ A mingling of that world with this,
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Even the summer flowers I love
    Are placed within my hand,
 And calmly, silently, I rove
@@ -163,12 +163,12 @@ And calmly, silently, I rove
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Then wake me not, my sisters dear,
    Whene’er I sleep again:
 My waking hours are cold and drear—

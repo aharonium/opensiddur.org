@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָבִינוּ שֶׁבַּשָׁמַיִם, צוּר יִשְׂרָאֵל וְגוֹאֲלוֹ,[foot]על-פי תפילה לשלום המדינה.[/foot] 
 בָּרֵךְ אֶת אַחֵינוּ בני עמך הַנְּתוּנִים בְּכׇל אַרְצוֹת תֵּבֵל. 
 הָגַן עֲלֵיהֶם בְּאֶבְרַת חַסְדֶּךָ 
@@ -19,7 +19,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Our Father in Heaven, Rock, and Redeemer of the People of Israel: 
 Bless our brothers and sisters, your people, dispersed throughout all lands. 
 Shield them with your love, 
@@ -28,14 +28,14 @@ spread over them the shelter of Your peace.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַעֲמֵד תְּשׁוּעָה מִן הַשָׁמַיִם, 
 וְתֵן לָהֶם בִּטָּחוֹן, בְּרִיאוּת, שׂגְשׂוּג 
 לְמַעַן יִזְכּוּ לְהַעֲמִיד בָּנִים וּבְנֵי בָנִים שֶׁל מְבַקְּשֵׁי פָּנֶיךָ. 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Bestow upon them heavenly salvation, 
 grant them security, health, and prosperity 
 so that they may raise generations who seek out Your presence. 
@@ -43,14 +43,14 @@ so that they may raise generations who seek out Your presence.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְעַד בּוֹא מְשִׁיחַ צִדְקֶךָ, 
 חַזַּק אֶת מְגִנֵּי שָׁלוֹם אַרְצוֹתֵיהֶם, 
 בִּזְכוּת אַהֲרֹן כַּהֲנָא קַדִּישָׁא, אוֹהֵב שָׁלוֹם וְרוֹדֵף שָׁלוֹם.[foot]על-פי תפילה לשלום יהודי בריה״מ משטיבל במוסקבה בשנת 1983- מאתר בית התפוצות.[/foot] 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Until the coming of redemption, 
 strengthen the hands of their defenders 
 in the merit of the High Priest Aharon, lover and pursuer of Peace. 
@@ -58,7 +58,7 @@ in the merit of the High Priest Aharon, lover and pursuer of Peace.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 תֵּן בִּינָה לְכׇל מֶמְשֶׁלוֹת אַרְצוֹתֵיהֶם 
 לַעֲשׂוֹת טוֹב עִם כׇּל הָעַמִים, 
 עִם כׇּל יִשְׂרָאֵל[foot]על-פי תפילה לשלום ממשלת ארה"ב.[/foot] וְעִם קְהִלּוֹת בְּנַי עַמְךָ אֲשֶׁר בְּאַרְצָם 
@@ -66,7 +66,7 @@ in the merit of the High Priest Aharon, lover and pursuer of Peace.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Grant wisdom to their leaders 
 so that they extend goodness to all nations, 
 the children of Israel and their local Jewish communities, 
@@ -75,7 +75,7 @@ for our peace is bound up in theirs.[foot]Cf. Jeremiah 29:7[/foot]
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וִיקֻיַּם בָּהֶם הַכָּתוּב: 
 ”מִי־אֵ֖לֶּה כָּעָ֣ב תְּעוּפֶ֑ינָה וְכַיּוֹנִ֖ים אֶל־אֲרֻבֹּתֵיהֶֽם׃ 
 כִּֽי־לִ֣י ׀ אִיִּ֣ים יְקַוּ֗וּ לְהָבִ֤יא בָנַ֙יִךְ֙ מֵֽרָח֔וֹק 
@@ -84,7 +84,7 @@ for our peace is bound up in theirs.[foot]Cf. Jeremiah 29:7[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Fulfill for them the verse: 
 "Who are these that float like a cloud, like doves to their nests? 
 The coastlands await me to bring your sons from afar,
@@ -94,14 +94,14 @@ For the Holy One of Israel, who has glorified you."[foot]Isaiah 60:8-9[/foot]
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְהִי רָצוֹן שֶׁנִּזְכֶּה לַחֲזוֹת בִּגְאֻלַּת עַמְּךָ 
 בִּמְהֵרָה בְּיָמֵינוּ 
 אָמֵן סֶלָה.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May it be Your will that we merit to see the redemption of Your people, 
 speedily in our days, 
 Amen Selah.

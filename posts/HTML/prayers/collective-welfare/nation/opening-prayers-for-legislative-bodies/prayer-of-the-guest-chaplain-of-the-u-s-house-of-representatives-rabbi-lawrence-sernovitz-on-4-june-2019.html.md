@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size:1.2em;">
+<div class="english" lang="en" style="font-size:1.2em;">
 Guest Chaplain: Rabbi Lawrence R. Sernovitz, Nafshenu, Cherry Hill, NJ
 Sponsor: Rep. Madeleine Dean, (D-PA)
 Date of Prayer: 06/04/2019
@@ -35,23 +35,23 @@ It brings me great joy to welcome my good friend Rabbi Larry Sernovitz and thank
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <h3>Opening Prayer Given by the Guest Chaplain:</h3>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Dear God, 
 benevolent, compassionate, and gracious; 
 abundant in loving kindness and truth; 
@@ -62,12 +62,12 @@ of the United States House of Representatives.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Guide these courageous individuals 
 to create holy space 
 where healthy debate is encouraged, 
@@ -79,12 +79,12 @@ and loved.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Dear God, 
 let us remember that the world is not complete. 
 We are completing it.[foot]Cf. Statement of Rabbi Tarfon in Pirqei Avot/Mishnah Avot, chapter 2.[/foot] 
@@ -101,12 +101,12 @@ love the stranger as yourself.[foot]Leviticus 19:34 part.[/foot]
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Dear God, 
 bless these Representatives with enough foolishness 
 to believe that they can make a difference in this world, 
@@ -117,18 +117,18 @@ to our Earth,
 to our children, 
 and to humanity. 
 The whole world is a narrow bridge. 
-The essence is not to be afraid.[foot]<span class="hebrew">ודע,‏ שהאדם צריך לעבור על גשר צר מאד מאד,‏ והכלל והעיקר שלא יתפחד כלל.‏ — רבי נחמן מברצלב, ‏ ליקוטי מוהר"ן ח"ב מ"ח</span> “And know: a person must cross over an exceedingly narrow bridge; but the most essential thing is not to frighten yourself at all." ~Rebbe Naḥman of Bratslav, Liqutei Moharan II:48.[/foot]
+The essence is not to be afraid.[foot]<span class="hebrew" lang="he">ודע,‏ שהאדם צריך לעבור על גשר צר מאד מאד,‏ והכלל והעיקר שלא יתפחד כלל.‏ — רבי נחמן מברצלב, ‏ ליקוטי מוהר"ן ח"ב מ"ח</span> “And know: a person must cross over an exceedingly narrow bridge; but the most essential thing is not to frighten yourself at all." ~Rebbe Naḥman of Bratslav, Liqutei Moharan II:48.[/foot]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 אָמֵן׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And we say together, 
 <em>amen</em>.
 </div></td></tr>

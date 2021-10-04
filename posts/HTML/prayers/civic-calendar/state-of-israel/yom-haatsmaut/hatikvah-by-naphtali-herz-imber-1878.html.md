@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כֹּל עוֹד בַּלֵּבָב פְּנִימָה
 נֶפֶשׁ יְהוּדִי הוֹמִיָּה,
 וּלְפַאֲתֵי מִזְרָח קָדִימָה,
@@ -19,7 +19,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 As long as in the heart, within,
 the soul of a Jew (Yehudi) still yearns,
 and onward, towards the corner of the East,
@@ -28,7 +28,7 @@ an eye still looks toward Tsiyon;
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עוֹד לֹא אָבְדָה תִקְוָתֵנוּ
 הַתִּקְוָה הַנּוֹשָׁנָה:
 לָשׁוּב לְאֶרֶץ אֲבוֹתֵינוּ,
@@ -36,7 +36,7 @@ an eye still looks toward Tsiyon;
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Our hope is not yet lost,
 the ancient hope:
 to return to the land of our ancestors,
@@ -45,7 +45,7 @@ the city where David encamped.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כָּל־עוֹד דְּמָעוֹת מֵעֵינֵינוּ
 יִזְּלוּ כְגֶשֶׁם נְדָבוֹת,
 וּרְבָבוֹת מִבְּנֵי עַמֵּנוּ
@@ -53,7 +53,7 @@ the city where David encamped.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 As long as tears from our eyes
 flow like benevolent rain,
 and throngs of our countrymen
@@ -62,7 +62,7 @@ still pay homage at the graves of (our) ancestors;
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כָּל־עוֹד חוֹמַת מַחֲמַדֵּינוּ
 לְעֵינֵינוּ מוֹפָעַת,
 וְעַל חֻרְבַּן מִקְדָּשֵׁנוּ
@@ -70,7 +70,7 @@ still pay homage at the graves of (our) ancestors;
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 As long as our precious Wall
 appears before our eyes,
 and over the destruction of our Temple
@@ -79,7 +79,7 @@ an eye still wells up with tears;
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כָּל־עוֹד מֵי הַיַּרְדֵּן בְּגָאוֹן
 מְלֹא גְדוֹתָיו יִזֹּלוּ,
 וּלְיָם כִּנֶּרֶת בְּשָׁאוֹן
@@ -87,7 +87,7 @@ an eye still wells up with tears;
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 As long as the waters of the Yarden
 in fullness swell its banks,
 and from the Yam Kinneret in tumult 
@@ -96,7 +96,7 @@ fall with a cacophonous voice;
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כָּל־עוֹד שָׁם עֲלֵי דְרָכַיִם
 שַעַר יֻכַּת שְׁאִיָּה,
 וּבֵין חָרְבוֹת יְרוּשָׁלַיִם
@@ -104,7 +104,7 @@ fall with a cacophonous voice;
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 As long as on the barren highways
 the humbled city gates mark,
 and among the ruins of Yerushalayim
@@ -113,7 +113,7 @@ a daughter of Tsiyon still cries;
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כָּל־עוֹד דְּמָעוֹת טְהוֹרוֹת
 מֵעֵין בַּת עַמִּי נוֹזְלוֹת,
 וְלִבְכּוֹת לְצִיּוֹן בְּרֹאשׁ אַשְׁמוֹרוֹת
@@ -121,7 +121,7 @@ a daughter of Tsiyon still cries;
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 As long as pure tears
 flow from the eye of a daughter of my people,
 and to mourn for Tsiyon at the watch of night,
@@ -130,7 +130,7 @@ she still rises in the middle of the nights;
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כָּל־עוֹד נִטְפֵי דָם בְּעוֹרְקֵינוּ
 רָצוֹא וָשׁוֹב יִזֹּלוּ,
 וַעֲלֵי קִבְרוֹת אֲבוֹתֵינוּ
@@ -138,7 +138,7 @@ she still rises in the middle of the nights;
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 As long as drops of blood in our veins
 flow back and forth,
 and upon the graves of our ancestors
@@ -147,7 +147,7 @@ dewdrops still fall;
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כָּל־עוֹד רֶגֶשׁ אַהֲבַת הַלְּאוֹם
 בְּלֵב הַיְּהוּדִי פּוֹעֵם,
 עוֹד נוּכַל קַוּוֹת גַּם הַיּוֹם
@@ -155,7 +155,7 @@ dewdrops still fall;
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 As long as the feeling of love of nation
 throbs in the heart of the Jew,
 we can still hope even today
@@ -164,7 +164,7 @@ that El may still have mercy on us.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שִׁמְעוּ אַחַי בְּאַרְצוֹת נוּדִי
 אֶת קוֹל אַחַד חוֹזֵינוּ,
 כִּי רַק עִם אַחֲרוֹן הַיְּהוּדִי
@@ -172,7 +172,7 @@ that El may still have mercy on us.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Hear, O my fellows in the lands of exile,
 the voice of one of our visionaries,
 (who declares) that only with the very last Jew —
@@ -181,7 +181,7 @@ only there is the end of our hope!
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לֵךְ עַמִּי, לְשָׁלוֹם שׁוּב לְאַרְצֶךָ,
 הַצֱּרִי בְגִלְעָד, בִּירוּשָׁלַיִם רוֹפְאֶךָ,
 רוֹפְאֶךָ יְיָ, חָכְמַת לְבָבוֹ,
@@ -189,7 +189,7 @@ only there is the end of our hope!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Go, my people, return in peace to your land,
 the balm in Gilead, your healer in Yerushalayim.
 Your healer is YHVH, the wisdom of Their heart.

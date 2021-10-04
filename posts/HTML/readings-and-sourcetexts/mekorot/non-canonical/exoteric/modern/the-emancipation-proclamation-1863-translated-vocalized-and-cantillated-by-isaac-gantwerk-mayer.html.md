@@ -1,0 +1,125 @@
+<html>
+<head></head>
+<body>
+Title: הַצְהָרַת הָאֵמַנְצִיפַּצְיָה | The Emancipation Proclamation (1863), translated, vocalized and cantillated by Isaac Gantwerk Mayer<br />
+Primary contributor: isaac.gantwerk-mayer<br />
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=32304">http://opensiddur.org/?p=32304</a>
+<p />
+<hr />
+
+<div class="english" lang="en" style="font-size: 1.2em;">
+In honor of Juneteenth, the holiday of American liberation, this is a translation of Lincoln’s Emancipation Proclamation into Biblical Hebrew, largely read with Esther cantillation. The list of rebellious provinces is read quickly in a monotone, in the manner of the children of Haman. The line declaring that the proclamation does not apply in states under Union control, and extending slavery to 1865 in much of Louisiana and Virginia, is read in Lamentations trope. #BLM
+</div>
+
+<h3>Recording</h3>
+
+https://archive.org/download/hatsharat-haemantsipatsya-isaac-gantwerk-mayer-2020/Hatsharat%20Ha-Emantsipatsya%20%28Isaac%20Gantwerk%20Mayer%202020%29.mp3
+
+<hr />
+
+<table style="margin-left: auto;margin-right: auto;" class="draggable">
+<thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
+<tbody>
+<tr><td style="vertical-align:top;">
+<div class="liturgy" lang="he">
+וַיְהִ֣י ׀ בַּחֹ֣דֶשׁ הַשִּׁשִּׁ֗י ה֚וּא חֹ֣דֶשׁ אֱל֔וּל בְּי֨וֹם עֶשְׂרִ֤ים וְשִׁבְעָה֙ לַחֹדֶ֔שׁ בִּשְׁנַ֣ת תִּׄרְׄכַּׄ֔בׄ לְמִנְיַ֖ן בְּרִיאַ֣ת הָעוֹלָ֑ם וַיְצַ֞ו נְשִׂ֣יא ׀ אַרְצ֣וֹת הַבְּרִ֗ית וַיַּ֤עֲבֶר־קוֹל֙ בְּכׇל־הָ֣אָ֔רֶץ וּב֨וֹ הַדָּבָ֧ר הַזֶּ֛ה כָּת֛וּב עִם־דְּבָרִ֥ים אֲחֵרִ֖ים לֵאמֹֽר׃
+</span></div></td>
+ 
+<td style="vertical-align:top;">
+<div class="english" lang="en">
+Whereas, on the twenty-second day of September, in the year of our Lord one thousand eight hundred and sixty-two, a proclamation was issued by the President of the United States, containing, among other things, the following, to wit:
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;">
+<div class="liturgy" lang="he">
+הִנֵּ֗ה בְּי֣וֹם רֹ֣אשׁ־הַשָּׁנָה֮ בִּינִלְאוּמִי֒ בִּשְׁנַ֣ת תִּׄרְׄכַּׄ֡גׄ לְמִנְיַ֣ן בְּרִיאַ֣ת הָ֠עוֹלָם כׇּל־בְּנֵ֨י אֱנוֹשׁ֜ אֲשֶׁ֣ר־נִכְבָּשִׁ֣ים ׀ לַעֲבָדִ֣ים וְלַשְּׁפָח֗וֹת בְּכׇל־מְדִינָ֤ה וּמְדִינָה֙ וּבְכׇל־חֶ֣בֶל וָחֶ֔בֶל אֲשֶׁר֙ בַּעֵ֣ת הַזֹּ֔את בִּמְרִידָ֕ה נֶ֖גֶד אַרְצ֣וֹת הַבְּרִ֑ית הִנָּ֤ם חׇפְשִׁים֙ בַּעֵ֣ת הַהִ֔יא וּמִן־הַיּ֤וֹם הַהוּא֙ עֲדֵ֣י עַ֔ד וּלְעוֹלְמֵ֖י עוֹלָמִֽים׃ וּמֶמְשֶׁ֩לֶת֩ אַרְצ֨וֹת הַבְּרִ֜ית הַמְּבַצַּ֗עַת בִּרְשׁ֤וּת חֵילָהּ֙ וּבִרְשׁ֣וּת צְבָאָ֔הּ תָּקִ֖ים וְקִבְּלָ֣ה אֶת־חֵרוּתָ֑ם וְלֹא־תַּעֲשֶׂ֨ה מְא֤וּמָה לִכְבָשׁוּם֙ אֹתָ֣ם וְאֶת־כׇּל־אֲשֶׁר־לָהֶ֔ם בְּכׇ֨ל־פּוֹעֲלֵיהֶ֔ם אֲשֶׁ֨ר הֵ֧ם פּוֹעֲלִ֛ים לְקַבֵּ֖ל חֵר֥וּת אֲמִתִּֽית׃
+</span></div></td>
+ 
+<td style="vertical-align:top;">
+<div class="english" lang="en">
+"That on the first day of January, in the year of our Lord one thousand eight hundred and sixty-three, all persons held as slaves within any State or designated part of a State, the people whereof shall then be in rebellion against the United States, shall be then, thenceforward, and forever free; and the Executive Government of the United States, including the military and naval authority thereof, will recognize and maintain the freedom of such persons, and will do no act or acts to repress such persons, or any of them, in any efforts they may make for their actual freedom.
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;">
+<div class="liturgy" lang="he">
+וְצִוָּ֣ה הַמְּבַצֵּ֗עַ בְּי֨וֹם רֹאשׁ־הַשָּׁנָ֤ה הַבִּינִלְאוּמִי֙ כָּאָמ֣וּר בְּק֔וֹל וּקְרָא֙ אֶת־הַמְּדִינ֣וֹת וְהַחֲבָלִ֔ים אֲשֶׁ֧ר בִּמְרִידָ֛ה נֶ֖גֶד אַרְצ֣וֹת הַבְּרִי֑ת וְאֶת־עַ֤מֵּיהֶם֙ עַ֣ם לַמְּדִינָ֔ה יִהְי֕וּ בִּמְרִידָ֥ה נֶ֖גֶד אַרְצ֥וֹת הַבְּרִֽית׃ וְכִ֣י ׀ אִם־שְׁלִיחֵ֣י הַמְּדִינ֗וֹת בַּיּ֤וֹם הַהוּא֙ יֵרָאֶ֔ה בְּחֶ֣סֶד וֶאֱמֶ֔ת בִּוְעִידַ֖ת אַרְצ֣וֹת הַבְּרִ֑ית שְׁלִיחִ֣ים אֲשֶׁ֣ר נִבְחֲרוּ֩ בַּ֨בְּחִיר֤וֹת אֲשֶׁר־בַּהֵן֙ הִצְבִּ֔יעוּ רֹ֖ב הַמַּצְבִּיעִ֥ים הַמֻּסְמָכִֽים׃ בְּחֶסְר֕וֹן עֵד֥וּת חֲזָקָ֖ה נֶגְדָּ֑ם זֶ֣ה ׀ יִקָּרֵ֣א מַכְרִ֗יעַ כִּ֨י הַמְּדִינָ֤ה הַהִיא֙ וְעַמֶּ֔יהָ לֹ֧א בִּמְרִידָ֛ה נֶ֖גֶד אַרְצ֥וֹת הַבְּרִֽית׃
+</span></div></td>
+ 
+<td style="vertical-align:top;">
+<div class="english" lang="en">
+"That the Executive will, on the first day of January aforesaid, by proclamation, designate the States and parts of States, if any, in which the people thereof, respectively, shall then be in rebellion against the United States; and the fact that any State, or the people thereof, shall on that day be, in good faith, represented in the Congress of the United States by members chosen thereto at elections wherein a majority of the qualified voters of such State shall have participated, shall, in the absence of strong countervailing testimony, be deemed conclusive evidence that such State, and the people thereof, are not then in rebellion against the United States."
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;">
+<div class="liturgy" lang="he">
+וְעַתָּ֖ה עַל־כֵּ֑ן אָנֹכִי֙ אַבְרָהָ֣ם לינקולן [לִנְק֔וֹן] נְשִׂ֖יא אַרְצ֥וֹת הַבְּרִֽית׃ בִּרְשׁ֣וּת הַ֠כֹּ֠חַ הַהֻקְנֵ֨ה אֵלַ֜י כְּרֹאשׁ־הַפְּקוּדִ֣ים ׀ בְּאַרְצ֣וֹת הַבְּרִ֗ית רֹא֤שׁ הַצָּבָא֙ וְרֹא֣שׁ חֵ֣יל־הַיָּ֔ם בַּעֵת֩ מְרִידָ֨ה חֲמוּשָׁ֧ה אֲמִתִּ֛ית נֶ֖גֶד אַרְצ֣וֹת הַבְּרִ֑ית וְכִפְקוּדַ֤ת מִלְחָמָה֙ מַתְאִימָ֣ה וּנְכוֹנָ֔ה לְהַרְגִּ֖יעַ אֶת־הַמְּרִידָ֥ה הַזֹּאֽת׃ וְהַיָּ֗ה בַּי֣וֹם רֹ֣אשׁ־הַשָּׁנָה֮ הַבִּינִלְאוּמִ֣י הַזֶּה֒ בִּשְׁנַת֙ תִּ֣ׄרְׄכַּׄ֔גׄ לְמִנְיַ֖ן בְּרִיאַ֣ת הָעוֹלָ֑ם וּלְכַוָּנָתִ֗י לַעֲשׂ֤וֹת כְּקָרָ֙אתִי֙ לִתְקוּפָ֣ה מְלֵאָ֔ה שִׁבְעָ֤ה שָׁבוּעוֹת֙ וְעוֹד־שִׁבְעָ֣ה שָׁבוּע֔וֹת עַ֨ד מֵאָ֧ה י֛וֹם מִן־הַיּ֖וֹם הָאָמֽוּר׃ הִנֵּ֨ה אֲצַוֶּ֝ה וְהִנֵּ֣ה אֶקְרָ֗א אֵ֚ת הַמְּדִינ֣וֹת וְהַחֲבָלִ֔ים אֲשֶׁ֨ר בָּ֤ם עַמֵּיהֶם֙ בַּיּ֣וֹם הַזֶּ֔ה בִּמְרִידָ֕ה נֶ֖גֶד אַרְצ֣וֹת הַבְּרִ֑ית וְאֵ֥לּוּ הֵ֖ן לֵאמֹֽר׃
+</span></div></td>
+ 
+<td style="vertical-align:top;">
+<div class="english" lang="en">
+Now, therefore I, Abraham Lincoln, President of the United States, by virtue of the power in me vested as Commander-in-Chief, of the Army and Navy of the United States in time of actual armed rebellion against the authority and government of the United States, and as a fit and necessary war measure for suppressing said rebellion, do, on this first day of January, in the year of our Lord one thousand eight hundred and sixty-three, and in accordance with my purpose so to do publicly proclaimed for the full period of one hundred days, from the day first above mentioned, order and designate as the States and parts of States wherein the people thereof respectively, are this day in rebellion against the United States, the following, to wit:
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;">
+<div class="liturgy" lang="he">
+אַרְקֶנְסָ֥ה וּטֶ֖קְסָס וּלוּאִיזְיָֽנָה׃ ח֨וּץ מִן־ הַקְּהִיל֤וֹת הַאֵ֙לֶּה֙ סֵנְטִבֶּרְנָ֣רְד וּפְלֶ֔אקְמִנְז וּדְשֶׁ֣פֶרְסוֹן וְסֵנְטְי֔וֹחָנָן וְסֵנְטִשָׁ֖רְלֶס וְסֵנְטְיַעֲקֹ֣ב עִילִ֑ית וַעֲלִיָּה֙ וּטֶרֶבּ֣וֹן וְלַפ֔וּשׁ וְסֵנְטִמֶ֧רְיָם וְסֵנְטִמַרְתִ֛ין וְאוֹרלִ֖ינְס וְעִיר־אוֹרלִ֥ינְס חֲדָשָֽׁה׃ מִסִּסִּ֥יפִּי וָאַלָבָּ֖מָה וּפְלוֹרִידָ֥ה וּגוֹרְגְיָֽה׃ וְקָרוֹלִינָ֣ת הַנֶּ֔גֶב וְקָרוֹלִינָ֖ת הַצָּפ֑וֹן וּוִרְגִינִיָֽה׃ ח֨וּץ מִין־ הַמְּחוֹזִ֤ים הַנִּקְרָאִים֙ וִירְגִינְיַ֣ת הַמַּעֲרָבָ֔ה וְגַ֖ם הַמְּחוֹזִ֣ים הַאֵ֑לֶּה בֵּרְקֶלִ֤י וָאַקוֹמָק֙ וְנ֣וֹרְתָ֔מְפְּטוֹן וְעִ֤יר אֶלִישֶׁ֙בַע֙ וְי֔וֹרְק וְחַנָּ֣ה הַנְּסִיכָ֔ה וּנוֹרְפ֕וֹלְק עִם־עַרֵ֥י נוֹרְפ֖וֹלק וּפוֹרְצְמֽוֹת׃ וְהַנּוֹתָ֥ר מֵהֶ֖ם לַזְּמַ֣ן הַזֶּ֑ה נִשְׁאַ֕ר כְּמוֹ־לִפְנֵ֖י הַקְּרִיאָ֥ה הַזֹּאֽת׃
+</span></div></td>
+ 
+<td style="vertical-align:top;">
+<div class="english" lang="en">
+Arkansas, Texas, Louisiana, (except the Parishes of St. Bernard, Plaquemines, Jefferson, St. John, St. Charles, St. James Ascension, Assumption, Terrebonne, Lafourche, St. Mary, St. Martin, and Orleans, including the City of New Orleans) Mississippi, Alabama, Florida, Georgia, South Carolina, North Carolina, and Virginia, (except the forty-eight counties designated as West Virginia, and also the counties of Berkley, Accomac, Northampton, Elizabeth City, York, Princess Ann, and Norfolk, including the cities of Norfolk and Portsmouth[)], and which excepted parts, are for the present, left precisely as if this proclamation were not issued.
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;">
+<div class="liturgy" lang="he">
+וּבִרְשׁ֨וּת הַכֹּ֤ח וְהַכַּוָּנָה֙ הָאֲמוּרִ֣ים לְעֵ֔יל הִנֵּ֥ה אֲצַוֶּ֖ה וְהִנֵּ֣ה אֶקְרָ֑א כִּ֣י ׀ כׇּל־בְּנֵ֣י אֱנ֗וֹשׁ אֲשֶׁ֨ר עֲבָדִ֤ים וּשְׁפָחוֹת֙ הָי֔וּ בַּמְּדִינ֨וֹת וּבַחֲבָלִ֤ים הָאֵלֶּה֙ הֵ֣ם חׇפְשִׁ֔ים וּמֵעַתָּ֥ה וְעַד־עוֹלָ֖ם הֵ֥ם חׇפְשִֽׁים׃ וּמֶמְשֶׁ֩לֶת֩ אַרְצ֨וֹת הַבְּרִ֜ית הַמְּבַצַּ֗עַת בִּרְשׁ֤וּת חֵילָהּ֙ וּבִרְשׁ֣וּת צְבָאָ֔הּ תָּקִ֥ים וְקִבְּלָ֖ה אֶת־חֵרוּתָֽם׃
+</span></div></td>
+ 
+<td style="vertical-align:top;">
+<div class="english" lang="en">
+And by virtue of the power, and for the purpose aforesaid, I do order and declare that all persons held as slaves within said designated States, and parts of States, are, and henceforward shall be free; and that the Executive government of the United States, including the military and naval authorities thereof, will recognize and maintain the freedom of said persons.
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;">
+<div class="liturgy" lang="he">
+וְעַתָּ֣ה אֶפְקְדָה־נָ֗א עַל־הַנִּקְרָאִ֤ים חׇפְשִׁים֙ לִרְחֹ֣ק מֵחָמָ֔ס אִם־לֹ֖א לַהֲגַנָּ֣ה עַצְמִ֑ית וְהִנֵּה־ט֣וֹב בְּעֵינַ֗י אִם־מְלֶ֤אכֶת אֱמוּנָה֙ תַּעֲשׂ֔וּ וְשֻׁלְּמ֖וּ בִּשְׂכַ֥ר טוּב־שֵֽׂכֶל׃ וְעוֹד֙ אֶנְאַ֣ם וְהוֹדַעְתִּ֔י כִּ֕י הָאֲנָשִׁ֥ים הָאֵ֖לֶּה כִּי־מֻסְמָכִ֑ים הִנָּ֨ם יְקֻבְּל֤וּ בְּצִבְאוֹת֙ אַרְצ֣וֹת הַבְּרִ֔ית לִשְׁמֹ֤ר מִבְצָרִים֙ וּמַעֲמָד֤וֹת וּמַטּוֹת֙ וּמְקוֹמ֣וֹת אֲחֵרִ֔ים וּלְאַיֵּ֕שׁ אֶת־כׇּל־מִינֵ֥י אֳנִיּ֖וֹת בִּצְבָאָֽם׃
+</span></div></td>
+ 
+<td style="vertical-align:top;">
+<div class="english" lang="en">
+And I hereby enjoin upon the people so declared to be free to abstain from all violence, unless in necessary self-defence; and I recommend to them that, in all cases when allowed, they labor faithfully for reasonable wages. And I further declare and make known, that such persons of suitable condition, will be received into the armed service of the United States to garrison forts, positions, stations, and other places, and to man vessels of all sorts in said service.
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;">
+<div class="liturgy" lang="he">
+וְעַ֣ל ׀ הַפְּעֻלָּ֣ה הַזֹּ֗את פְּעֻלָּ֤ה מׇאֳמֶ֙נֶת֙ בֶּאֱמוּנָ֣ה שְׁלֵ֔מָה לִהְי֖וֹת פְּעֻ֣לַּת צֶ֑דֶק אֲבַקֵּ֨שׁ מִבְּנֵ֤י הָאָדָם֙ דִּ֣ין וּמִשְׁפָּ֔ט ׀ וְחֶ֧סֶד וְרַחֲמִ֛ים וְרָצ֖וֹן מֵאֵ֥ל עֶלְיֽוֹן׃ הִנְנִ֥י עֵ֖ד עַל־הַקְּרִיאָ֣ה הַזֹּא֑ת וְהִנֵּה֙ יָדִ֣י עָלֶ֔יהָ וַאֶחְתֹּ֧ם עָלֶ֛יהָ אֶת־חוֹתַ֖ם אַרְצ֥וֹת הַבְּרִֽית׃ הִנֵּ֣ה עֲשׂוּיָה֮ בְּעִ֣יר וָשִׁעְתּוֹן֒ בַּי֨וֹם רֹא֤שׁ הַשָּׁנָה֙ הַבִּ֣ינִלְאוּמִ֔י בִּשְׁנַת֙ תִּ֣ׄרְׄכַּׄ֔גׄ לְמִנְיַ֖ן בְּרִיאַ֣ת הָעוֹלָ֑ם הִ֚יא שְׁנַת־שֶׁ֣בַע וּשְׁמוֹנִ֔ים לְעַצְמָא֕וּת אַרְצ֥וֹת הַבְּרִ֖ית אֶ֥רֶץ־אָמֵרִיקָֽה׃ הַנָּשִׂ֖יא ׀ אַבְרָהָ֣ם לינקולן [לִנְק֑וֹן] וּוִילְיָא֤ם הֶ֙נְרִי֙ סְי֔וּאָרְד ׀ שָׂ֖ר הַמְּדִינָֽה׃
+</span></div></td>
+ 
+<td style="vertical-align:top;">
+<div class="english" lang="en">
+And upon this act, sincerely believed to be an act of justice, warranted by the Constitution, upon military necessity, I invoke the considerate judgment of mankind, and the gracious favor of Almighty God.  In witness whereof, I have hereunto set my hand and caused the seal of the United States to be affixed.  Done at the City of Washington, this first day of January, in the year of our Lord one thousand eight hundred and sixty three, and of the Independence of the United States of America the eighty-seventh.  By the President: ABRAHAM LINCOLN WILLIAM H. SEWARD, Secretary of State.
+</div></td></tr>
+</tbody></table>
+
+<hr />
+
+A Transcription of <a href="https://www.archives.gov/exhibits/featured-documents/emancipation-proclamation/transcript.html">A Proclamation by the President of the United States of America on January 1, 1863</a>.
+
+<h3>Source(s)</h3>
+
+[caption id="attachment_32305" align="alignnone" width="224"]<a href="https://opensiddur.org/wp-content/uploads/2020/06/preliminary-emancipation-proclamation-1024.jpg" rel="lightbox"><img src="https://opensiddur.org/wp-content/uploads/2020/06/preliminary-emancipation-proclamation-1024-224x300.jpg" alt="" width="224" height="300" class="size-medium wp-image-32305" /></a> Preliminary Emancipation Proclamation, January 1, 1863.[/caption]
+
+&nbsp;
+
+<hr />
+
+&nbsp;
+</body>
+</html>

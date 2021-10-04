@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִזְמוֹר 
 שִׁירוּ לַיהוה שִׁיר חָדָשׁ 
 כִּי־נִפְלָאוֹת עָשָׂה, 
@@ -20,7 +20,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 &nbsp;
 Sing a new song to YHVH, 
 for God has done wonders.
@@ -30,14 +30,14 @@ God has revealed justice for all to see.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 זָכַר חַסְדּוֹ 
 וֶאֱמוּנָתוֹ לְבֵית יִשְׂרָאֵל, 
 רָאוּ כָל־אַפְסֵי־אָרֶץ אֵת יְשׁוּעַת אֱלֹהֵינוּ׃ 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 God has remembered His love for Jacob,
 His faithfulness to Israel.
 All the ends of the earth have seen the power of our <em>elo'ah</em>.
@@ -45,7 +45,7 @@ All the ends of the earth have seen the power of our <em>elo'ah</em>.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הָרִיעוּ לַיהוה כָּל־הָאָרֶץ, 
 פִּצְחוּ וְרַנְּנוּ וְזַמֵּרוּ׃ 
 זַמְּרוּ לַיהוה בְּכִנּוֹר, בְּכִנּוֹר וְקוֹל זִמְרָה׃ 
@@ -53,7 +53,7 @@ All the ends of the earth have seen the power of our <em>elo'ah</em>.
  </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Let the earth ring out in song to YHVH;
 Break forth, sing aloud, shout praise!
 &nbsp;
@@ -62,7 +62,7 @@ Sound trumpet and horn before the Sovereign YHVH.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יִרְעַם הַיָּם וּמְלֹאוֹ, 
 תֵּבֵל וְיֹשְׁבֵי בָהּ׃ 
 נְהָרוֹת יִמְחֲאוּ־כָף, 
@@ -73,7 +73,7 @@ Sound trumpet and horn before the Sovereign YHVH.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Let the sea roar, and all that fills it;
 The world and all that dwell there. 
 Let the rivers clap hands!

@@ -31,23 +31,23 @@ He is here today with his wonderful wife, Adina, and two tremendous children, Sh
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <h3>Opening Prayer Given by the Guest Chaplain:</h3>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Master of the universe, 
 we humbly ask You to bless the endeavors of this noble and dedicated body, 
 the United States House of Representatives. 
@@ -55,12 +55,12 @@ the United States House of Representatives.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Guide the Members of this House with Your wisdom 
 so that they may approach the complex challenges of our day 
 with forthrightness, integrity, and, above all, compassion.
@@ -68,12 +68,12 @@ with forthrightness, integrity, and, above all, compassion.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Endow us with Your goodwill, O Lord, 
 so that we may build bridges of hope which make us strong 
 and tear down barriers of division which make us weak. 
@@ -81,12 +81,12 @@ and tear down barriers of division which make us weak.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Grant us a listening and full heart 
 so that we may each understand one another 
 and recognize the divine image inherent in every human being. 
@@ -95,12 +95,12 @@ We pray for this vision now.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 In the words of the Psalmist, 
 "May the Lord give you grace and glory."[foot]Psalms 84:12 partial - חן וכבוד יתן ה׳[/foot] 
 In that spirit, may we each find the strength and courage 
@@ -109,12 +109,12 @@ to bring God's honor and glory to this great Nation.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָמֵן׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Amen.
 </div></td></tr>
 </tbody></table>

@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: right;">Translation (Yiddish)</th><th style="text-align: left;">Translation (English)</th><th style="text-align: left;">Translation (Magyar)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְהִי רָצוֹן מִלְּפָנֶיךָ
 ה׳ אֱלֹקֵינוּ וֵאלֹקֵי אֲבוֹתֵינוּ
 שֶׁהַחִסּוּן שֶׁאָנוּ עוֹמְדִים לְקַבֵּל
@@ -20,7 +20,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%">
-<div class="yiddish"><span lang="yi">
+<div class="yiddish" lang="yi">
 יהי רצון מלפניך
 ה׳ אלקינו ואלקי אבותינו
 אַז די אימונירונג וואָס מיר באַקומען
@@ -29,7 +29,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May it be your will 
 YHVH (Hashem) our god and god of our forefathers, 
 that the vaccinations that we are about to receive 
@@ -38,14 +38,14 @@ and protect us from suffering and terrible diseases.
 </div></td>
 
 <td style="vertical-align:top;" width="53%">
-<div class="magyar"><span lang="hu">
+<div class="magyar" lang="hu">
 Legyen az az akaratod, Örökkévaló Istenünk és atyáink Istene, hogy az az oltás, melyet most megkapunk, egészséget, áldást és megváltást hozzon, és megvédjen minket a szenvedéstől és borzalmas betegségektől.
 </span></div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שֶׁהַחִסּוּן יַשְׁפִּיעַ בִּמְהִירוּת
 תּוֹךְ מִעוּט כְּאֵבִים וּלְלֹא תּוֹפְעוֹת לְוַאי,
 וְשֶׁבִּזְכוּת מַתַּן חִסּוּנִים אֵלּוּ
@@ -55,7 +55,7 @@ Legyen az az akaratod, Örökkévaló Istenünk és atyáink Istene, hogy az az 
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%">
-<div class="yiddish"><span lang="yi">
+<div class="yiddish" lang="yi">
 זאָל די דאָזיקע אימונירונג גיך משפיע זיין
 אָן קיין סך ווייטיגן און אָן קיין שום זייטיקע עפעקטן,
 און אַז אין זכות פון דער דאָזיקע אימונירונג
@@ -65,7 +65,7 @@ Legyen az az akaratod, Örökkévaló Istenünk és atyáink Istene, hogy az az 
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May this vaccination work quickly 
 with minimal pain and side effects. 
 Through this vaccine, may we merit blessing 
@@ -75,14 +75,14 @@ who cannot be vaccinated.[foot]Vaccinations safeguard populations with weak or c
 </div></td>
 
 <td style="vertical-align:top;" width="53%">
-<div class="magyar"><span lang="hu">
+<div class="magyar" lang="hu">
 Hasson ez az oltás gyorsan, minimális fájdalommal és mellékhatások nélkül. Az oltás beadásának érdemében vigyázz apró gyermekeinkre, az idősekre és azokra a betegekre, akiket nem szabad beoltani.
 </span></div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וִיהִי רָצוֹן 
 שֶׁיִּזְכּוּ הָאֲחָיוֹת, הָאַחִים, הָרוֹפְאוֹת וְהָרוֹפְאִים
 הַמְּחַסְּנִים אוֹתָנוּ
@@ -93,7 +93,7 @@ Hasson ez az oltás gyorsan, minimális fájdalommal és mellékhatások nélkü
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%">
-<div class="yiddish"><span lang="yi">
+<div class="yiddish" lang="yi">
 ויהי רצון,
 אַז די קרַאנקן שוועסטער, די סאַניטאַרן, די דאָקטאָר פרויען און מאַנסבילן
 וואָס אימונירן אונדז
@@ -104,7 +104,7 @@ Hasson ez az oltás gyorsan, minimális fájdalommal és mellékhatások nélkü
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May it be your will
 that the nurses and doctors 
 who provide our vaccines 
@@ -115,14 +115,14 @@ stand in their stead until the end of their days.
 </div></td>
 
 <td style="vertical-align:top;" width="53%">
-<div class="magyar"><span lang="hu">
+<div class="magyar" lang="hu">
 Legyen az az akaratod, hogy azok a nővérek és orvosok, akik beadják nekünk az oltásokat, hosszú és békés életet élvezzenek pénzügyi biztonságban és sikerekben gazdagon. Egészségünk megőrzésének érdeme álljon mellettük napjaik végeztéig.
 </span></div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בִּזְכוּת קִיּוּם מִצְוַת 
 וְנִשְׁמַרְתֶּם מְאֹד לְנַפְשֹׁתֵיכֶם <span class="citation">(דברים ד:טו חלק)</span>, 
 נִזְכֶּה לְגַדֵּל אֶת בָּנֵינוּ וּבְנוֹתֵינוּ 
@@ -131,7 +131,7 @@ Legyen az az akaratod, hogy azok a nővérek és orvosok, akik beadják nekünk 
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%">
-<div class="yiddish"><span lang="yi">
+<div class="yiddish" lang="yi">
 און אַז אינעם זכות וואָס זיי זענען מקיים די מצווה 
 ונשמרתם מאוד לנפשותיכם, 
 זאָלן מיר זוכה זיין כאָוון אונדזערע זין און טעכטער 
@@ -140,7 +140,7 @@ Legyen az az akaratod, hogy azok a nővérek és orvosok, akik beadják nekünk 
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Through the merit of observing the commandment, 
 “you should guard yourself carefully,”[foot]Deuteronomy 4:15 part.[/foot]&nbsp;
 may we be privileged to raise children 
@@ -149,7 +149,7 @@ Blessed is the One who hears prayer.
 </div></td>
 
 <td style="vertical-align:top;" width="53%">
-<div class="magyar"><span lang="hu">
+<div class="magyar" lang="hu">
 Az „és őrizzétek nagyon a lelketeket” micvájának betartása érdemében legyen az a jutalmunk, hogy fiainkat és lányainkat a Tóra betartására, az esküvői sátorra és jócselekedetekre nevelhessük. Áldott, aki meghallgatja imáinkat.</span></div>
 </td></tr>
 </tbody></table>
@@ -158,18 +158,18 @@ Az „és őrizzétek nagyon a lelketeket” micvájának betartása érdemében
 
 <table style="width: 100%;margin-left: auto;margin-right: auto;">
 <tr><td style="vertical-align:top;" width="46%">
-<div class="commentary"><span lang="he" style="font-size: 0.8em;">
-לעילוי נשמת אחי ד״ר שלום פנחס בן הרב בן־ציון וטייבא גיטל וכהולדר ז״ל, חוקר החיסון נגד נגיף הפפילומה. נפטר בהושענא רבא תשע״ו. 
-</span></div></td>
+<div class="commentary" lang="he">
+<span style="font-size: 0.8em;">לעילוי נשמת אחי ד״ר שלום פנחס בן הרב בן־ציון וטייבא גיטל וכהולדר ז״ל, חוקר החיסון נגד נגיף הפפילומה. נפטר בהושענא רבא תשע״ו. </span>
+</div></td>
 
 <td style="vertical-align:top;" width="53%">
-<div class="yiddish"><span lang="yi">
+<div class="yiddish" lang="yi">
 לעילוי נשמת מיין ברודער ד"ר שלום פנחס וכהולדר ז"ל, אַ פאַפילאָמאַ ווירוס פאָרשער. נפטר געוואָרן הושענא רבא תשע"ו.
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%">
-<div class="english" style="margin-top: 10px;">
-<span lang="en" style="font-size: 0.8em;">In memory of my brother Dr. Sholom Wacholder z"l, who died on Hoshana Raba 5776. As a biostatistician for the National Cancer Institute, he was instrumental in the development of the vaccine to prevent cancers caused by HPV.</span>  
+<div class="english" lang="en" style="margin-top: 10px;">
+<span style="font-size: 0.8em;">In memory of my brother Dr. Sholom Wacholder z"l, who died on Hoshana Raba 5776. As a biostatistician for the National Cancer Institute, he was instrumental in the development of the vaccine to prevent cancers caused by HPV.</span>  
 </div></td></tr>
 </tbody></table>
 

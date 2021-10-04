@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַנֹּתֵ֣ן מָ֭טָר עַל־פְּנֵי־אָ֑רֶץ 
 וְשֹׁ֥לֵֽחַ מַ֗֝יִם עַל־פְּנֵ֥י חוּצֽוֹת׃ <span class="citation">(איוב ה:י)</span>
 מוֹדִים אֲנַחְנוּ לָךְ עַל כׇּל־טִפָּה וְטִפָּה שֶׁהוֹרַדְתָּ לָנוּ׃ <span class="citation">(תלמוד בבלי, ברכות נט ב על פי רב יהודה)</span>
@@ -22,7 +22,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 O Giver of Rain upon the face of the earth,
 and Sender of Water upon the face of the open spaces,[foot]Job 5:10.[/foot]
 we give thanks to You for each drip, drop that You send down to us.[foot]Babylonian Talmud, Berakhot 59b (Rav Yehuda).[/foot]

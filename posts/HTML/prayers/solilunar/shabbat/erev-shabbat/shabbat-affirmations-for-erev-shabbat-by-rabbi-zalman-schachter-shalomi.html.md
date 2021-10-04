@@ -11,23 +11,23 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">You can add personal affirmations after reading these.</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 I affirm 
 that God affirmed 
 and sanctified 
@@ -42,12 +42,12 @@ and let go of it.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 I affirm the model 
 of our ancestor's rest 
 and sanctification of Shabbat.
@@ -55,12 +55,12 @@ and sanctification of Shabbat.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 I affirm the perfection 
 of what is in the world, 
 and I surrender all the urgings 
@@ -71,12 +71,12 @@ and I offer my body to rest.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 I affirm the union 
 of my <em>Nefesh</em> 
 with the Holy Queen and Bride (<em>Malkah Qadishah</em>).
@@ -84,12 +84,12 @@ with the Holy Queen and Bride (<em>Malkah Qadishah</em>).
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 I affirm the union 
 of my <em>Ruaḥ</em> with God, 
 the lover of the infinitesimal and the particular 
@@ -98,12 +98,12 @@ with God as the <em>Zer Anpin</em>.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 I affirm the union 
 of my <em>Neshamah</em> 
 with the resting Creator, 
@@ -113,12 +113,12 @@ and the Redeemer of the days of Mashiaḥ.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 And I affirm the union 
 of my additional soul, my <em>Neshamah Yeterah</em> 
 with the Ancient of Days (<em>Atiqah Kadishah</em>)
@@ -127,12 +127,12 @@ to whom eternity is ever present.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 I affirm the blessings 
 that come down for the coming week, 
 and my willingness to be mindful 
@@ -142,12 +142,12 @@ even in the midst of the week.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <em>Likh’vod Shabbat, 
 Shabbat Shalom Oo-M'vorach.
 Shabbat Nefesh, Shabbat Ruach. Shabbat N'shama,

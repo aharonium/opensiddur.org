@@ -12,7 +12,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּבַחֹדֶשׁ הַתְּשִׁיעִי בְּכִסְלֵו . 
 קוֹל הֲמוֹן שָׁלֵו . 
 לִכְבוֹד מַתִּתְיָה בֶן יוֹחָנָן לֹא לִגְנֵאי . 
@@ -33,7 +33,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 In the ninth month, in Kislev, 
 (his voice raised)
 in order to honour Mattityah ben Yoḥanan the reknowned 
@@ -78,7 +78,7 @@ Ultimately, Jewish festivals eschewing meat strongly allude to a vision of the w
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְגָ֤ר זְאֵב֙ עִם־כֶּ֔בֶשׂ 
 וְנָמֵ֖ר עִם־גְּדִ֣י יִרְבָּ֑ץ 
 וְעֵ֨גֶל וּכְפִ֤יר וּמְרִיא֙ יַחְדָּ֔ו 
@@ -95,7 +95,7 @@ Ultimately, Jewish festivals eschewing meat strongly allude to a vision of the w
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And the wolf shall dwell with the lamb, 
 and the leopard shall lie down with the kid; 
 and the calf and the young lion and the fatling together; 

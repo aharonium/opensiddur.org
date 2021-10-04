@@ -19,7 +19,7 @@ Scanning this work is the first step in a more comprehensive project of transcri
 
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 PREFACE. 
 
 This volume contains the prayers for the Festival of Succoth or Tabernacles, which we keep according to the Divine command (Lev. 23:34). This is one of the three great Festivals which every Israelite is bound to observe. It is intimately bound up with the national history and with the agricultural life of our people, and carries with it a profound lesson for our spiritual life. 

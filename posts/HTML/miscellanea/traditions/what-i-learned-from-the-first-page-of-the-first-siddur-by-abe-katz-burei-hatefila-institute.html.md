@@ -9,52 +9,52 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <table style="margin-left: auto;margin-right: auto;"><tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עמרם בר ששנא ריש מתיבתא דמתא מחסיא, לרבינו יצחק בריה דמרנא ורבנא שמעון חביב ויקיר ונכבד עליו ועל ישיבה כולה. 
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <a href="http://en.wikipedia.org/wiki/Amram_Gaon">Amram ben Rav Sheshna</a>, head of the Yeshiva in Masa Maḥsiya (suburb of Sura) responding to Rav Yitzḥok son of the teacher and Rabbi, Shimon, who is held dear, adored and honored in our eyes and in the opinion of the entire Yeshiva.  
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שלום רב. מרחמנות השמים יהיה עליך ועל זרעך ועל כל החכמים והתלמידים ואחינו ישראל השרויים שם, שאו שלום ממנו ומן רב צמח אב בית דין ישראל, ומן אלופים וחכמי ישיבה, ובני ישיבה שלנו ושל עיר מחסיא, שכולם בשלום חכמים תלמידים, ואחינו ישראל השרוים כאן, שתמיד אנו שואלים בשלומכם וזוכרים אתכם בזכרון טוב, ומתפללים בעדכם ומבקשים רחמים עליכם, שירחם הקב"ה ברחמיו הרבים, ויגן עליכם ויציל אתכם מכל צרה ונזק ומכל חולי ומכאוב ומשלטון רע, ומכל מיני משחית וכל מיני פורעניות המתרגשות בעולם, וימלא ברחמיו הרבים כל משאלות לבכם. שגר לפניו רבינו יעקב בן רבנא יצחק עשרה זהובים ששגרת לישיבה, ה' שלנו וה' לשפה של ישיבה, וציונו וברכנו אותך ברכות שיתקיימו בך ובזרעך ובזרע זרעך. 
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Greetings of peace.  May Heaven show compassion to you, your children and all the scholars, their students and our Israelite brethren who live there.  Send greetings of peace from us and from Rav Tzemaḥ head of the Israelite Court, from the officers, the scholars of the Yeshiva and the students of our Yeshiva and of the city of Maḥsiya.  We, the teachers, the students and the Jewish citizens of this area are at peace.  We are constantly concerned about your welfare and think of you favorably at all times.  We pray for you and ask that the blessed Holy One show compassion to you; that the blessed Holy One bestow abundant mercy upon you, protect you, save you from troubles and difficulties, from sickness and affliction, from oppressive governments, from destructive actions, and from all the troubles that can occur in life.  May G-d demonstrate compassion in granting you all that you ask for yourselves.  Rabbi Yaakov ben Rav Yitzḥok, delivered ten gold coins that were sent for the benefit of the Yeshiva; five for the leadership of the Yeshiva and five for the Yeshiva itself.  We have commanded that you be blessed with Brakhos and that they come to fruition for you and for your descendants.
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וסדר תפילות וברכות של שנה כולה ששאלת, שהראנו מן השמים, ראינו לסדר ולהשיב כמסורת שבידינו כתיקון תנאים ואמוראים. דתניא ר' מאיר אומר חייב אדם לברך מאה ברכות בכל יום. ובגמרא דארץ ישראל גרסינן הכי, תניא בשם ר׳ מאיר אין לך אדם מישראל שאינו עושה מאה מצות בכל יום, שנאמר ועתה ישראל מה ה׳ אלהיך שואל מעמך, אל תקרא מה אלא מאה. ‏
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 The order of prayers and Brakhos for the entire year that you requested, that has been shown to us by Heaven, we deem appropriate to set forth and lay out in the manner in which the tradition was passed down to us, as compiled by the Rabbis during the period of the Mishna and of the Gemara. And so we learned: Rebbi Meir said: a person is obligated to recite 100 Brakhos each day. In the Jerusalem Talmud we learned: it was taught in the name of Rebbi Meir; there is no Jew who does not fulfill one hundred Mitzvos each day, as it was written: Now Israel, what does haShem your G-d ask of you? Do not read the verse as providing for the word: <em>Mah</em> (“what”); instead read it as including the word: <em>Mai’eh</em> (“one hundred”).[foot]Deuteronomy 10:12. Talmud Bavli Menachos 43b. cf. Talmud Yerushalmi Berakhot 9:5 and Tosefta Berakhot 6:24[/foot]
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
  ודוד מלך ישראל תקנן כשהודיעוהו יושבי ירושלים שמתים מישראל מאה בכל יום, עמד ותקנן. ונראה הדבר שנשתכחו ועמדו תנאים ואמוראים ויסדום. וסרר אלו מאה ברכות כך השיב רב נטרונאי ב״ר הילאי ריש מתיבתא דמתא מחסיא לבני קהל אליסאנה על ידי מר רב יוסף מאור עינינו, לברך כל אחת ואחת בשעתה אי אפשר מפני טנופת ידים העסקניוה העשייוה למשמש, אלא כשניעור משנהו רוחץ פניו ידיו ורגליו פהוגן, לקיים מה שנאמר הכון לקראת אלהיך ישראל, וכל יחיד ויחיד חייב בהם. ומנהג כל ישראל בספרד היא אספמיא כך היא, להוציא למי שאינו יודע שליח ציבור, כהשיב רב נטרונאי בר הילאי:
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 King David established the practice of reciting one hundred Brakhos each day. When the residents of Jerusalem informed him that one hundred Israelites were dying everyday, he established this requirement.[foot]Midash Rabba – Numbers 18:17; Tur 46, quoting Rav Netrunoi Gaon[/foot]  It appears that the practice was forgotten until our Sages at the time of the Mishna and at the time of the Gemara re-established it.  The order of the 100 Brakhos was set forth by Rav Natronai ben Rav Hilai, head of the Yeshiva at Masa Maḥsiya, in correspondence with the community in Lucena [foot]Lucena, in southern Spain[/foot] through Rav Yosef, the elder.  Rav Natronai provided as follows: it is no longer possible to recite each Brakha at its correct time because today we awake each day with unclean hands, hands that inadvertently came in contact with unclean parts of our bodies during the night.  Instead when a person wakes, he should first wash his face, hands and feet as is appropriate.  That is how one fulfills the directive in the following verse: Prepare, Israel, for meeting with your G-d.[foot]Amos 4:12[/foot] Every person is obligated to do so.  The following represents the custom of all Israelites in Sepharad, which is Hispania: in synagogue, the prayer leader recites the morning blessings on behalf of those present so that they may fulfill their obligation by answering: <em>Amen</em> to the Brakhos that the prayer leader recites, as Rav Natronai ben Rav Hilai provided.
 </div>
 </td></tr>

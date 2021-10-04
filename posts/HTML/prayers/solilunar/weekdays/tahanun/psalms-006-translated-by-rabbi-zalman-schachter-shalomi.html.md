@@ -11,20 +11,20 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לַמְנַצֵּ֣חַ בִּ֭נְגִינוֹת עַֽל־הַשְּׁמִינִ֗ית 
 מִזְמ֥וֹר לְדָוִֽד׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 A David Song 
 (Note to the Conductor -- <em>play this melody on the eight stringer</em>)
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְֽהוָ֗ה אַל־בְּאַפְּךָ֥ תוֹכִיחֵ֑נִי 
 וְֽאַל־בַּחֲמָתְךָ֥ תְיַסְּרֵֽנִי׃
 חָנֵּ֥נִי יְהוָה֮ 
@@ -36,7 +36,7 @@ A David Song
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Yah! Please don't chide me in Your anger. 
 Don't scold me in Your wrath.
 I need You to show me kindness. 
@@ -49,7 +49,7 @@ How long must I still endure?
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שׁוּבָ֣ה יְ֭הוָה 
 חַלְּצָ֣ה נַפְשִׁ֑י 
 ה֝וֹשִׁיעֵ֗נִי לְמַ֣עַן חַסְדֶּֽךָ׃
@@ -59,7 +59,7 @@ How long must I still endure?
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Relent, Yah, 
 And for mercy's sake 
 Pull me out and spare me.
@@ -70,7 +70,7 @@ Who will thank You?
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יָגַ֤עְתִּי ׀ בְּֽאַנְחָתִ֗י אַשְׂחֶ֣ה 
 בְכָל־לַ֭יְלָה מִטָּתִ֑י 
 בְּ֝דִמְעָתִ֗י עַרְשִׂ֥י אַמְסֶֽה׃
@@ -81,7 +81,7 @@ Who will thank You?
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 I groan and am all worn out. 
 I sob on my bed; 
 My tears drench my mattress.
@@ -93,7 +93,7 @@ Wept them out.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ס֣וּרוּ מִ֭מֶּנִּי 
 כָּל־פֹּ֣עֲלֵי אָ֑וֶן 
 כִּֽי־שָׁמַ֥ע יְ֝הוָ֗ה ק֣וֹל בִּכְיִֽי׃
@@ -107,7 +107,7 @@ Wept them out.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Away with you, 
 All you traffickers of sin!
 Yah has heard my wailing. 

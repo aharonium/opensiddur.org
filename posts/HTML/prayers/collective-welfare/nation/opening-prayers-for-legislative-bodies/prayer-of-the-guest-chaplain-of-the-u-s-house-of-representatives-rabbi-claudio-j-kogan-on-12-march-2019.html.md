@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size:1.2em;">
+<div class="english" lang="en" style="font-size:1.2em;">
 Guest Chaplain: Rabbi Claudio J. Kogan, University of Texas Rio Grande Valley School of Medicine, Edinburg, Texas
 Sponsor: Rep. Vicente Gonzalez (TX-15)
 Date of Prayer: 03/12/2019
@@ -37,23 +37,23 @@ Madam Speaker, it is my honor to have Rabbi Kogan and his family join us here to
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <h3>Opening Prayer Given by the Guest Chaplain:</h3>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 God, source of all living things, 
 we ask Your blessings upon these representatives of the people 
 who have devoted their lives to our welfare. 
@@ -68,12 +68,12 @@ who cannot stand on their own.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Bless them with the capacity to hear 
 and to listen. 
 May this body, 
@@ -89,12 +89,12 @@ and acts of kindness.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 As an immigrant who came to this country 20 years ago 
 and became an American citizen just 7 years ago, 
 I join this House in a prayer of profound gratitude 
@@ -106,12 +106,12 @@ are privileged to enjoy.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָמֵן׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <em>Amen.</em>
 </div></td></tr>
 </tbody></table>

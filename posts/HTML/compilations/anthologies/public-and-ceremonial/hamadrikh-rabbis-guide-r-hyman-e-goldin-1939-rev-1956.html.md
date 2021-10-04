@@ -15,7 +15,7 @@ Our research of the <a href="http://collections.stanford.edu/copyrightrenewals/"
 
 <hr />
 
-<div class="english">
+<div class="english" lang="en">
 <h3>Introduction</h3>
 
 This manual has been devised for the express purpose of giving the Rabbi, or anyone officiating at a Jewish ceremonial or ritual, a concise and practical aid that will facilitate the task of officiating , and will obviate the necessity of resorting to the voluminous literature pertaining thereto. 

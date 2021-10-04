@@ -17,21 +17,21 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th>Transliteration</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="32%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 מוֹדָה/מוֹדֶה אֲנִי לְפָנֶיךָ 
 רוּחַ חַי וְקַיָּם׃
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 Modeh/Modah Ani lefanekha 
 ruaḥ ḥai v'kayam
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 I am grateful before You 
 living and enduring spirit.[foot]Variation on Shulḥan Arukh ch. 1 by Moshe Ibn Makhir from his <em>Seder ha-Yom</em> (1599)[/foot] 
 </div>
@@ -39,21 +39,21 @@ living and enduring spirit.[foot]Variation on Shulḥan Arukh ch. 1 by Moshe Ibn
 
 
 <tr><td style="vertical-align:top;" width="32%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 מַה־טֹּבוּ אֹהָלֶיךָ, יַעֲקֹב; 
 מִשְׁכְּנֹתֶיךָ, יִשְׂרָאֵל׃
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 Ma Tovu ohalekha Ya'akov 
 mishkenotekha Yisrael
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 How good are your tents Ya'akov, 
 your dwelling places, Yisrael![foot]Bila'am the prophet's blessing over the Camp of Israel in Numbers 24:5[/foot] 
 </div>
@@ -61,7 +61,7 @@ your dwelling places, Yisrael![foot]Bila'am the prophet's blessing over the Camp
 
 
 <tr><td style="vertical-align:top;" width="32%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 בָּרוּךְ אַתָּה 
 יְיָ אֱלֹהֵינוּ 
 מֶלֶךְ הָעוֹלָם 
@@ -91,7 +91,7 @@ your dwelling places, Yisrael![foot]Bila'am the prophet's blessing over the Camp
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 Barukh atah 
 Adonai Eloheinu 
 melekh ha'olam 
@@ -121,7 +121,7 @@ mateer asurim.
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 Blessed are you, 
 YHVH our g!d, 
 cosmic majesty, 
@@ -152,7 +152,7 @@ who releases the bound.[foot]adapted from the Birkhot Hashaḥar, the morning bl
 
 
 <tr><td style="vertical-align:top;" width="32%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 אֱלֹהָי, 
 נְשָׁמָה שֶׁנָּתַֽתָּ בִּי 
 טְהוֹרָה הִיא׃
@@ -160,7 +160,7 @@ who releases the bound.[foot]adapted from the Birkhot Hashaḥar, the morning bl
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 Elohai 
 Neshama shenatata bee, 
 t’horah hee
@@ -168,7 +168,7 @@ t’horah hee
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 God, 
 the Soul that you have given me 
 is pure.[foot]Babylonian Talmud, Berakhot 60b[/foot] 
@@ -177,7 +177,7 @@ is pure.[foot]Babylonian Talmud, Berakhot 60b[/foot]
 
 
 <tr><td style="vertical-align:top;" width="32%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 הַרֵינִי מְקַבֵּל/מְקַבֶּלֶת עָלַי 
 אֶת מִצְוַת עֲשֵׂה (הַבּוֹרֵא): 
 "וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ"׃
@@ -185,7 +185,7 @@ is pure.[foot]Babylonian Talmud, Berakhot 60b[/foot]
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 Hareyni Mekabel/et Alai 
 et mitsvat asei (ha’borei) 
 v’ahavata l'reyakha kamokha
@@ -193,7 +193,7 @@ v’ahavata l'reyakha kamokha
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 It is upon me to receive 
 the connection (of the Creator), obligating me 
 to “love your fellow as yourself.”[foot]Rav Yitzḥak Luria, circa 16th century, on Leviticus 19:18, recorded in Minhagei ha-Arizal--Petura d'Abba, p.3b by R' Ḥayyim Vital:
@@ -204,7 +204,7 @@ The first attestation of "<em>haborei</em>" (the creator) in place of "<em>asei<
 
 
 <tr><td style="vertical-align:top;" width="32%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 בָּרוּךְ שֶׁאָמַר 
 וְהָיָה הָעוֹלָם. 
 בָּרוּךְ הוּא.
@@ -214,7 +214,7 @@ The first attestation of "<em>haborei</em>" (the creator) in place of "<em>asei<
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 Barukh sheˈamar 
 vehaya haˈolam 
 barukh hu. 
@@ -224,7 +224,7 @@ u'barukh shemah
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 Blessed is the One who spoke 
 and the world came to be. 
 Blessed is G‽D. 
@@ -235,21 +235,21 @@ and blessed is G‽D’s Name.[foot]The prayer "<em>barukh sheamar</em>" is firs
 
 
 <tr><td style="vertical-align:top;" width="32%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 אַשְׁרֵי יוֹשְׁבֵי בֵיתֶךָ, 
 עוֹד יְהַלְלוּךָ סֶּלָה׃
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 Ashrei yoshvei veytekha, 
 od yehallelukha selah
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 Happy are those who dwell in Your house, 
 may they always praise You. Selah![foot]Psalm 84:5[/foot] 
 </div>
@@ -257,21 +257,21 @@ may they always praise You. Selah![foot]Psalm 84:5[/foot]
 
 
 <tr><td style="vertical-align:top;" width="32%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 הַלְלוּ, הַלְלוּ, הַלְלוּ. 
 כֹּל הַנְּשָׁמָה תְּהַלֵּל יָהּ הַלְלוּ.
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 Hallelu, Hallelu, Hallelu, 
 Kol haneshama tehalel Yah hallelu
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 &nbsp;
 Let the entire soul praise Yah, y’all![foot]Psalms 150:6[/foot] 
 </div>
@@ -279,21 +279,21 @@ Let the entire soul praise Yah, y’all![foot]Psalms 150:6[/foot]
 
 
 <tr><td style="vertical-align:top;" width="32%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 עׇזִּי וְזִמְרָת יָהּ 
 וַיְהִי לִי לִישׁוּעָה׃
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 Ozi, v'zimrat Yah, 
 va'yehee lee leeshuah
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 My strength and my song is Yah; 
 Yah has become for me salvation.[foot]Shirat haYam, Exodus 15:2[/foot] 
 </div>
@@ -301,7 +301,7 @@ Yah has become for me salvation.[foot]Shirat haYam, Exodus 15:2[/foot]
 
 
 <tr><td style="vertical-align:top;" width="32%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 שְׁמַע יִשְׂרָאֵל 
 יְיָ אֱלֹהֵינוּ 
 יְיָ אֶחָד׃
@@ -309,7 +309,7 @@ Yah has become for me salvation.[foot]Shirat haYam, Exodus 15:2[/foot]
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 Shema Yisrael 
 Adonai Eloheinu 
 Adonai Eḥad
@@ -317,7 +317,7 @@ Adonai Eḥad
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 Listen up, Israel! 
 Hashem (YHVH) is our G‽D. 
 YHVH is one.[foot]Deuteronomy 6:4[/foot] 
@@ -326,7 +326,7 @@ YHVH is one.[foot]Deuteronomy 6:4[/foot]
 
 
 <tr><td style="vertical-align:top;" width="32%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 <span class="instruction" style="font-size: small;">[בלחש]</span> בָּרוּךְ שֵׁם 
 כְּבוֺד מַלְכוּתוֺ 
 לְעוֺלָם וָעֶד׃
@@ -334,7 +334,7 @@ YHVH is one.[foot]Deuteronomy 6:4[/foot]
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 [whisper] Barukh Shem 
 Kavod Malkhuto 
 l'Olam va'ed
@@ -342,7 +342,7 @@ l'Olam va'ed
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 Blessed is the name 
 of G‽D's radiant kingdom 
 in every age.[foot]Cf. Mishnah Yoma 3:8[/foot] 
@@ -351,7 +351,7 @@ in every age.[foot]Cf. Mishnah Yoma 3:8[/foot]
 
 
 <tr><td style="vertical-align:top;" width="32%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 וְאָ֣הַבְתָּ֔ אֵ֖ת יְיָ֣ אֱלֹהֶ֑יךָ 
 בְּכׇל־לְבָֽבְךָ֥ 
 וּבְכׇל־נַפְשְׁךָ֖ 
@@ -372,7 +372,7 @@ in every age.[foot]Cf. Mishnah Yoma 3:8[/foot]
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 V'ahavta, eyt Adonai Elohekha, 
 bekhol levav'kha, 
 u'vekhol naf'shekha, 
@@ -393,7 +393,7 @@ beytekha u'visharekha
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 You shall love Adonai your G‽D 
 with all your heart, 
 with all your soul, 
@@ -415,21 +415,21 @@ of your house and on your gates.[foot]Deuteronomy 6:5-9[/foot]
 
 
 <tr><td style="vertical-align:top;" width="32%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 אֲדֹנָי שְׂפָתַי תִּפְתָּח 
 וּפִי יַגִּיד תְּהִלָּתֶֽךָ׃
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 Adonai Sfatai Tiftaḥ 
 ufi yagid t'hilatekha
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 Adonai, open up my mouth 
 so that my mouth may speak your praise.[foot]Psalms 51:17[/foot] 
 </div>
@@ -437,13 +437,13 @@ so that my mouth may speak your praise.[foot]Psalms 51:17[/foot]
 
 
 <tr><td style="vertical-align:top;" width="32%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 עוֹד יָבוֹא שָׁלוֹם עָלֵינוּ. 
 עוֹד יָבוֹא שָׁלוֹם עָלֵינוּ. 
 עוֹד יָבוֹא שָׁלוֹם עָלֵינוּ וְעַל כּוּלָם.
 שָׂלָם, עָלֵינוּ וְעַל כׇּל הָעוֹלָם, שָׂלָם, שָׂלֳם.
 </span></div>
-<div class="arabic" style="text-align: right;"><span lang="ar">
+<div class="arabic" lang="ar" style="text-align: right;">
 سوف ياتي السلام علينا 
 سوف ياتي السلام علينا 
 سوف ياتي السلام علينا  و على الكل
@@ -452,7 +452,7 @@ so that my mouth may speak your praise.[foot]Psalms 51:17[/foot]
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 Od yavo shalom aleynu, 
 od yavo shalom aleynu, 
 od yavo shalom aleynu v'al kulam.
@@ -466,7 +466,7 @@ Salam, Aleina Wa alla kuhl al-allam, Salam, Salam
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 Let there be peace on us.
 Let there be peace on us.
 Let there be peace on us and the world.
@@ -476,7 +476,7 @@ Peace, on us and on the World. Peace, Peace.[foot]adapted from Kaddish[/foot]
 
 
 <tr><td style="vertical-align:top;" width="32%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 עוֹשֶׂה שָׁלוֹם בִּמְרוֹמָיו 
 הוּא יַעֲשֶׂה שָׁלוֹם עָלֵינוּ 
 וְעַל כׇּל יִשְׂרָאֵל 
@@ -486,7 +486,7 @@ Peace, on us and on the World. Peace, Peace.[foot]adapted from Kaddish[/foot]
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 Oseh Shalom bimromav 
 hu ya'aseh shalom aleynu, 
 v’al kol Yisrael 
@@ -496,7 +496,7 @@ v’al kol Ha’olam
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 Maker of Peace on high, 
 may You make peace upon us 
 and all Israel, 
@@ -507,7 +507,7 @@ and all the world.[foot]an adaptation from the end of the Amidah and the Full Ka
 
 
 <tr><td style="vertical-align:top;" width="32%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 בְּשֵׁם יְיָ אֱלֹהֵי יִשְׂרָאֵל 
 מִימִינִי מִיכָאֵל 
 וּמִשְּׂמאלִי גַּבְרִיאֵל 
@@ -518,7 +518,7 @@ and all the world.[foot]an adaptation from the end of the Amidah and the Full Ka
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 B'shem Hashem Elohei Yisrael, 
 Mimini Mikhael, 
 mismoli Gavriel, 
@@ -529,7 +529,7 @@ V’al roshi, v’al roshi shekhinat El
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 In the name of G‽D, god of Yisra-El. 
 On my right is Mikha-El, 
 on my left Gavri-El, 
@@ -541,21 +541,21 @@ Above my head and inside me, is the presence of the Source.[foot]From the Bedtim
 
 
 <tr><td style="vertical-align:top;" width="32%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 יְהִֽי־שָׁלֹום בְּחֵילֵךְ 
 שַׁלְוָה בְּאַרְמְנוֺתָֽיִךְ׃
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 Yehi Shalom b’ḥelek 
 shalva b'armno'tayikh
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 Let there be peace with your ramparts, 
 tranquility within Your fortresses.[foot]Psalms 122:7[/foot] 
 </div>
@@ -563,7 +563,7 @@ tranquility within Your fortresses.[foot]Psalms 122:7[/foot]
 
 
 <tr><td style="vertical-align:top;" width="32%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 כְּאַיָּל תַּעֲרֹג עַל אֲפִיקֵי מָיִם 
 כֵּן נַפְשִׁי תַעֲרֹג אֵלֶיךָ אֱלֹהִים׃ 
 צָמְאָה נַפְשִׁי לֵאלֹהִים 
@@ -573,7 +573,7 @@ tranquility within Your fortresses.[foot]Psalms 122:7[/foot]
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 K’ayal Ta'arog al afikai mayyim 
 ken nafshee ta'arog eylekha Elohim. 
 Tsama nafshi l’Elohim 
@@ -583,7 +583,7 @@ v'era'eh pnai ha'Elohim
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 As a gazelle yearns for streaming waters, 
 so does my soul yearn for you, God. 
 My soul, it thirsts for G‽D. 
@@ -594,7 +594,7 @@ When will I be seen before G‽D?[foot]Psalms 42:2-3, attributed to the children
 
 
 <tr><td style="vertical-align:top;" width="32%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 לֵב טָהוֹר, בְּרָא־לִי אֱלֹהִים; 
 וְרוּחַ נָכוֹן, חַדֵּשׁ בְּקִרְבִּי. 
 אַל־תַּשְׁלִיכֵנִי מִלְּפָנֶיךָ; 
@@ -605,7 +605,7 @@ When will I be seen before G‽D?[foot]Psalms 42:2-3, attributed to the children
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 Lev Tahor b'rah li Elohim. 
 V’ruaḥ nakhon ḥadesh b'kirbi. 
 Al tashlikhaynee meelfanekha, 
@@ -616,7 +616,7 @@ v’ruaḥ nideevah teesmi'khaynee
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 Create in me a pure heart, God, 
 and renew a true spirit inside of me. 
 Don’t cast me away from before you, 
@@ -628,7 +628,7 @@ and uphold a generous spirit in me.[foot]Psalms 51:12-14[/foot]
 
 
 <tr><td style="vertical-align:top;" width="32%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 בֶּן אָדָם מַה לְּךָ נִרְדָּם 
 קוּם קְרָא בְּתַחֲנוּנִים
 בֶּן אָדָם מַה לְּךָ נִרְדָּם 
@@ -637,7 +637,7 @@ and uphold a generous spirit in me.[foot]Psalms 51:12-14[/foot]
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 Ben Adam mah lekha nirdam?  
 Koom kera et taḥanoonim. 
 Ben adam mah lekha nirdam? 
@@ -646,7 +646,7 @@ Koom kera el elohekha
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 Child of humanity, why are you asleep? 
 Awake and pour out your prayers. 
 Child of humanity, why are you asleep? 

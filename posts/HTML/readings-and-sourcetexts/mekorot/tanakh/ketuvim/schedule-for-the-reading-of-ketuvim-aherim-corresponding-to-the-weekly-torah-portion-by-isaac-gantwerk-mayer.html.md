@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 Every single Shabbat, we read a portion from the Prophetic books, known as the Haftarah. These portions are usually connected in meaning with the weekly Torah reading, though they also sometimes reflect the specific Shabbat upon which they are read. Though not all of the Prophets are read, all of the readings are from the Prophets. The Writings, the third great category of Scripture, is traditionally avoided.
 
 As far back as Rabbeinu Tam, some have suggested that the Sages had a custom of reciting passages from Ketuvim during Shabbat afternoon services, but if this is true such a system has long been lost. As a consequence of this, most of Ketuvim is rarely, if ever read in public. The Five Scrolls (Esther, Song of Songs, Ruth, Lamentations, and Ecclesiastes) are read once per year, and many have customs of reciting Psalms. But the remaining books in the Writings – Proverbs, Job, Chronicles, Ezra/Neḥemiah, and Daniel – have some wonderful content that really deserves more time in the spotlight than it gets. (As the old joke goes: a yeshiva bokhur goes to his rebbe and asks "What's this 'Nakh' book Ḥazal keeps quoting?")
@@ -18,12 +18,12 @@ This is a system that seeks to create a Haftarah-like system for the reading of 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Bereshit: Proverbs 8:22-36
 Noaḥ: I Chronicles 1:1-27
 Lekh L’kha: Nehemiah 9:5-15
@@ -40,12 +40,12 @@ Vayḥei: II Chronicles 35:20-36:4
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Shemot: II Chronicles 12:2-12
 Vaera: I Chronicles 5:27-6:4
 Bo: Ezra 6:12-22
@@ -61,12 +61,12 @@ Pekudei: II Chronicles 5:1-6:2
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Vayikra: Ezra 3:1-13
 Tsav: I Chronicles 15:11-16:4
 Shmini: I Chronicles 24:1-19
@@ -81,12 +81,12 @@ Beḥuqotai: Proverbs 1:20-33
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 B’midbar: Ezra 8:1-23
 Naso: Proverbs 6:20-7:3
 B’ha’alot’kha: II Chronicles 30:1-27
@@ -101,12 +101,12 @@ Second Shabbat of Rebuke: Job 2:1-13
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Third Shabbat of Rebuke: Job 3:1-26
 First Shabbat of Consolation: Job 38:1-21
 Second Shabbat of Consolation: Job 38:22-38
@@ -121,12 +121,12 @@ Ha’azinu: Proverbs 30:1-31:9
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Shabbat Ḥanukah: Ezra 5:1-13
 Shabbat Sh’kalim: Ezra 1:1-11
 Shabbat Zakhor: I Chronicles 4:24-43
@@ -139,12 +139,12 @@ Shabbat Ḥol haMoed Sukkot: Daniel 12:1-13
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Shabbat Erev Rosh Ḥodesh OR Shabbat Rosh Ḥodesh: replace with I Chronicles 27:1-15, then:
 RḤ Nisan: repeat verse 2, then read for Shabbat haḤodesh
 RḤ Iyar: repeat verse 4

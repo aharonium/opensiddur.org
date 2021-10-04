@@ -11,18 +11,18 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 "וְקִדַּשְׁתֶּם, אֵת שְׁנַת הַחֲמִשִּׁים שָׁנָה, וּקְרָאתֶם דְּרוֹר בָּאָרֶץ, לְכָל-יֹשְׁבֶיהָ; יוֹבֵל הִוא"
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 "And ye shall hallow the fiftieth year, and proclaim liberty throughout the land unto all the inhabitants thereof; it shall be a jubilee unto you" [Leviticus 25:10]
 </div></td>
 </tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 בְּיוֹם הַחֲמִשִּׁים 
 הֶעֱנַקְתָּ תּוֹרָה, 
 בִּשְׁנַת הַחֲמִשִּׁים 
@@ -43,7 +43,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 חַיֵּי הַפְּשָׁרָה.
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 On the fiftieth day,
 The gift of Torah.
 In the fiftieth year, 

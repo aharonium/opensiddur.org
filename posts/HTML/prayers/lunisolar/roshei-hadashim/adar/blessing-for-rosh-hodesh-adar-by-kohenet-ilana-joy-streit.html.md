@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 A juicy, playful poem for connection and redemption.
 
 A blessing for announcing the new moon of Adar, for Rosh Ḥodesh Adar, and for the whole month.
@@ -20,7 +20,7 @@ A blessing for announcing the new moon of Adar, for Rosh Ḥodesh Adar, and for 
 <table style="margin-left: auto;margin-right: auto;">
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May we be the poppy seeds in each other's hamentaschen
 this year
 

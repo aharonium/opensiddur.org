@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: אמרי לב | Prayers and Meditations, and abridged translation by Hesther Rothschild (1855) of a collection of teḥinot and paraliturgial prayers by Rabbi Arnaud Aron & Jonas Ennery (1852)<br />
+Title: אמרי לב | Prayers and Meditations, and abridged translation by Hester Rothschild (1855) of a collection of teḥinot and paraliturgial prayers by Rabbi Arnaud Aron & Jonas Ennery (1852)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=31179">http://opensiddur.org/?p=31179</a>
 <p />
@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <hr />
 
-This is an abridged translation by Hesther Rothschild in 1855 titled אמרי לב Prayers and Meditations, adapted from <em><a href="https://opensiddur.org/compilations/sifrei-tehinot/imrei-lev-prieres-dun-coeur-israelite-by-jonas-ennery-and-arnaud-aron-1848/">Prières d’un Cœur Israelite</a></em> published by the “Société Consistoriale de Bons Livres” (1848). The original work by Rabbi Arnaud Aron and Jonas Ennery contains tkhines translated into French, prayers by German reformers in French translation, and many additional liturgical translations and paraliturgical prayers. Rothschild's work presents several prayers in English unique to her compilation by Anglo-Jewish writers.
+This is an abridged translation by Hester Rothschild in 1855 titled אמרי לב Prayers and Meditations, adapted from <em><a href="https://opensiddur.org/compilations/sifrei-tehinot/imrei-lev-prieres-dun-coeur-israelite-by-jonas-ennery-and-arnaud-aron-1848/">Prières d’un Cœur Israelite</a></em> published by the “Société Consistoriale de Bons Livres” (1848). The original work by Rabbi Arnaud Aron and Jonas Ennery contains tkhines translated into French, prayers by German reformers in French translation, and many additional liturgical translations and paraliturgical prayers. Rothschild's work presents several prayers in English unique to her compilation by Anglo-Jewish writers.
 
 This second edition (1859) contains revisions and corrections ("there are some additions and many improvements"). This second edition was also later republished without permission in the United States by <a href="https://opensiddur.org/compilations/sifrei-tehinot/imrei-lev-meditations-and-prayers-for-every-situation-and-occasion-in-life-translated-by-isaac-leeser-1863/">Isaac Leeser</a> containing additional corrections.
 
@@ -19,7 +19,7 @@ This second edition (1859) contains revisions and corrections ("there are some a
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/HesterRothschildPrayersAndMeditations#page/n0/mode/2up"]
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 
 <strong>[Hester Rothschild's preface to her English translation of אמרי לב (1855):]</strong>
 

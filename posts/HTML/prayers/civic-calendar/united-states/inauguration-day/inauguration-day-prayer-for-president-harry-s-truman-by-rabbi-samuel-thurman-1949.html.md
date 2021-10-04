@@ -11,12 +11,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;"><a href="/contribute/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Lord God of all the nations: 
 The hearts and minds of this Nation 
 turn to Thee in this solemn moment 
@@ -35,12 +35,12 @@ he is about to take the oath of his high office.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 We pray Thy blessing upon him and his dear ones. 
 Chosen by the people to be their Chief Magistrate, 
 may the people’s confidence in him never wane. 
@@ -67,12 +67,12 @@ hold fast to its traditional ideals of freedom and justice for all men.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Thus, blessed by Thee and devoted to the holy purposes of Thy will, 
 our Nation shall go forward with unabated strength and unceasing labor 
 in the service of Thee and of humanity, 

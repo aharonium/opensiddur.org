@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size:1.2em;">
+<div class="english" lang="en" style="font-size:1.2em;">
 Guest Chaplain: Rabbi Rachel S. Mikva, Congregation Hakafa, Glencoe, IL
 Sponsor: Rep. John Porter (D-IL)
 Date of Prayer: 03/08/1995
@@ -43,22 +43,22 @@ I can recall and I can recommend it to about 350 high school kids here this morn
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <h3>Opening Prayer Given by the Guest Chaplain:</h3>
 </div></td></tr>
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 "For the sake of Heaven." 
 The rabbis taught: 
 'Any argument conducted for the sake of Heaven will bear fruit. 
@@ -66,12 +66,12 @@ If not for the sake of Heaven, it yields nothing.'[foot]Pirkei Avot 5.17.[/foot]
 </div></td></tr>
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 God, 
 Source of knowledge and insight, 
 what does it mean: "For the sake of Heaven?"
@@ -83,12 +83,12 @@ reflected in the face of the other.
 </div></td></tr>
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 [What does it mean:] "For the sake of Heaven." 
 &nbsp;
 That we are always mindful before whom we stand?[foot]cf. Berakhot 28b, the statement of Rebbi Eliezer: וּכְשֶׁאַתֶּם מִתְפַּלְּלִים — דְּעוּ לִפְנֵי מִי אַתֶּם עוֹמְדִים ("When you pray -- know before whom you stand"). Compare with Pirkei Avot 3.1.[/foot]
@@ -102,12 +102,12 @@ and do it with a whole heart.
 </div></td></tr>
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 "For the sake of Heaven." 
 &nbsp;
 God, 
@@ -119,12 +119,12 @@ and wholeness to all those whose lives we touch.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָמֵן׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <em>Amen</em>.
 </div></td></tr>
 </tbody></table>

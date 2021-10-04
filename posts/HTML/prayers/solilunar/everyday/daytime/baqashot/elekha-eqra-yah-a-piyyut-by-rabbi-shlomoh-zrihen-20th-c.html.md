@@ -11,20 +11,20 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֵלֶֽיךָ אֶקְרָא יָהּ אֵל נוֹרָא
 תִּפְקֹד גֶּֽפֶן שֶׁהָעַמִּים זֵרוּהָ אֵל נוֹרָא
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 To you I call out, Yahh, awesome Él:
 Remember the vine the nations have scattered, Awesome Él.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שַׁוְעָתָהּ תְּקַבֵּל אֵל שׁוֹכֵן מְרוֹמִים
 וּתְחַדֵּשׁ שַׁחְרוּתָהּ לָעַד וּלְעוֹלָמִים
 הַֽלְעוֹלָם תִּזְנַח עַמְּךָ נֶאֱנָח
@@ -33,7 +33,7 @@ Remember the vine the nations have scattered, Awesome Él.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Let Yisrael’s plea be accepted, by the One who dwells on high. 
 Let her youthfulness be renewed forever; 
 Shall your sighing people be rejected forever? 
@@ -43,7 +43,7 @@ To you I call out, Yahh, awesome Él:
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לְחַם אֶת הָאוֹיֵב כִּי יָדוֹ גָבְרָה
 אָכַל אֶת פִּרְיָהּ וְעוֹד יָדוֹ לֹא קָצְרָה
 שְׁלַח בּוֹ חֵמָה זַעַם וּנְקָמָה
@@ -52,7 +52,7 @@ To you I call out, Yahh, awesome Él:
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 They will defeat the enemy, Their hand ascendant; 
 For they consume Yisrael’s fruit and are not weakened. 
 Send forth against them with anger, wrath and retribution, 
@@ -62,7 +62,7 @@ To you I call out, Yahh, awesome Él:
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מָרוֹם זְכָר נָא בְּרִית אִישׁ חֲלוֹם חָלַם
 הַרְבֵּה אֶת זַרְעוֹ וְתֶן לוֹ שְׁלוֹם עוֹלָם
 נָא רְצֵה גִזְעוֹ וְחֹן אֶת זַרְעוֹ
@@ -71,7 +71,7 @@ To you I call out, Yahh, awesome Él:
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Exalted: remember the covenant made with the one who dreamed a dream.[foot]i.e., Yaaqov.[/foot]
 Increase his offspring and grant him endless peace. 
 Accept his people and grant favour to their progeny. 
@@ -81,7 +81,7 @@ To you I call out, Yahh, awesome Él:
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הֵידָד יִהְיֶה ‏יוֹם בּוֹ מִקְדָּשְׁךָ יִתְכּוֹנַן
 יָרֹנּוּ כֻלָּם כִּי שָׁכַן בּוֹ הֶעָנָן
 וְשִׁיר וּמִזְמוֹר לְפָנָיו נִגְמוֹר
@@ -90,7 +90,7 @@ To you I call out, Yahh, awesome Él:
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May the day be soon when your Temple is rebuilt– 
 the people will rejoice when your presence dwells in it. 
 They shall recite a song and a psalm before you. 

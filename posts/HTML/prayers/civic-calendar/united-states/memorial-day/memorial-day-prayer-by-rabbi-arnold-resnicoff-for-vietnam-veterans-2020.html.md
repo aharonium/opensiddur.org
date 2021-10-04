@@ -11,12 +11,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Almighty God
 We pray, reflect in different ways
 But together mourn our dead,
@@ -25,12 +25,12 @@ And hope they have not died in vain.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 The Civil War gave birth to Decoration Day,
 A time for flags and flowers
 On the graves of loved ones lost.
@@ -38,12 +38,12 @@ On the graves of loved ones lost.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 But new wars would see our men, our women, die 
 In far-flung corners of the world,
  With graves some could not visit, some graves no one could find. 
@@ -51,12 +51,12 @@ In far-flung corners of the world,
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 So this new day – Memorial Day –
 Became the time to honor all our dead,
 all our loved ones lost in war.
@@ -64,12 +64,12 @@ all our loved ones lost in war.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 After war in Vietnam 
 We built this Wall of healing,
 reminder, symbol, 
@@ -78,12 +78,12 @@ that we must – and can -- unite to mourn our dead.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Almighty God, during this time of sickness 
 Even as we seek a cure for disease that infects our bodies,
 we must battle hatred and injustice –
@@ -92,12 +92,12 @@ Evils that afflict our souls.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 For the sake of those we recall today
 And for the sake of children, generations, still unborn
 We pray our wounded hearts can heal,
@@ -108,12 +108,12 @@ United by a dream of justice, and a time of war no more.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 And may we say, <em>Amen</em>.
 </div></td></tr>
 </tbody></table>

@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַ֥לְלוּ יָ֨הּ ׀ הַֽלְלוּ־אֵ֥ל בְּקָדְשׁ֑וֹ 
 הַֽ֝לְל֗וּהוּ בִּרְקִ֥יעַ עֻזּֽוֹ׃
 הַֽלְל֥וּהוּ בִגְבוּרֹתָ֑יו 
@@ -23,7 +23,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <strong>Hallelu-Yah!</strong> Attune to God in holiness: 
 be in awe of God who is mighty in the heavens.
 mark God for His potent acts: 
@@ -36,7 +36,7 @@ Intone to God with organ and flute.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַֽלְל֥וּהוּ בְצִלְצְלֵי־שָׁ֑מַע 
 הַֽ֝לְל֗וּהוּ בְּֽצִלְצְלֵ֥י תְרוּעָֽה׃
 כֹּ֣ל הַ֭נְּשָׁמָה תְּהַלֵּ֥ל יָ֗הּ 
@@ -44,7 +44,7 @@ Intone to God with organ and flute.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Make rhythm to God with crashing cymbals: 
 praise God with cymbals that ring out.
 Let all who breathe chant Yah.

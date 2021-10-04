@@ -12,17 +12,17 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בואו נאיר נרות שלום
 </span></div></td>
  
 <td style="vertical-align:top;" width="30%">
-<div class="arabic"><span lang="ar">
+<div class="arabic" lang="ar">
 
 تعالوا نضيئ شمعات السلام
 </span></div></td>
  
-<td style="vertical-align:top;" width="33%"><div class="english">
+<td style="vertical-align:top;" width="33%"><div class="english" lang="en">
 Let us Light Candles for Peace
 </div>
 </td>
@@ -30,7 +30,7 @@ Let us Light Candles for Peace
 
 
 <tr><td style="vertical-align:top;" width="30%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שתי אמהות ובקשה אחת: 
 שדווקא עכשיו, בימי הבכייה הגדולה האלה,
 בימים המקודשים לדתות שלנו,
@@ -45,7 +45,7 @@ Let us Light Candles for Peace
 </span></div></td>
  
 <td style="vertical-align:top;" width="30%">
-<div class="arabic"><span lang="ar">
+<div class="arabic" lang="ar">
 
 والدتان وطلب واحد:
 خصيصا الان, في هذه الايام, ايام البكاء الكبير,
@@ -60,7 +60,7 @@ Let us Light Candles for Peace
 حتى نصل لمعبد السلام.
 </span></div></td>
  
-<td style="vertical-align:top;" width="33%"><div class="english">
+<td style="vertical-align:top;" width="33%"><div class="english" lang="en">
 Two mothers, one plea:
 Now, more than ever, during these days of so much crying,
 on the day that is sacred to both our religions,
@@ -78,19 +78,19 @@ Until we all arrive at the sanctuary of peace.
 
 
 <tr><td style="vertical-align:top;" width="30%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 איבתיסאם מחמיד
 תמר אלעד-אפלבום
 </span></div></td>
  
 <td style="vertical-align:top;" width="30%">
-<div class="arabic"><span lang="ar">
+<div class="arabic" lang="ar">
 
 ابتسام محاميد
 تمار العاد-افالبوم
 </span></div></td>
  
-<td style="vertical-align:top;" width="33%"><div class="english">
+<td style="vertical-align:top;" width="33%"><div class="english" lang="en">
 Ibtisam Maḥameed
 Tamar Elad-Appelbaum 
 </div>

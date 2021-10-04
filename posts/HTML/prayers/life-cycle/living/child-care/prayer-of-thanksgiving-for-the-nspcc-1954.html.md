@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָנָּא. אֵל שַׁדַּי רַחוּם אָב לַכֹּל 
 סוֹמֵךְ נוֹפְלִים וְסוֹעֵד נֶחֱשָׁלִים 
 אֵלֶיךָ נִשָׂא לְבָבֵינוּ 
@@ -25,7 +25,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Almighty and all-merciful God, Who art the Father of all 
 and Who upholdest the weak and the helpless, 
 to Thee we lift up our hearts in thanksgiving 
@@ -40,7 +40,7 @@ that causes them to neglect hapless young beings.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָבִינוּ שֶׁבַּשָּׂמָיִם. 
 בָּאנוּ לְפָנֶיךָ בְּיוֹם שַׁבַּת קֹדֶשׁ זֶה בְּתּוֹדָה וּבִתְהִלָה 
 עַל אֲשֶׁר נָטַעְתָּ רוּחַ רַחֲמִים חֶמְלָה וַחֲנִינָה בְּלִבּוֹת אֲנָשִׁים וְנָשִׂים 
@@ -58,7 +58,7 @@ that causes them to neglect hapless young beings.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 O [Father in Heaven], 
 on this Sabbath we humbly offer our gratitude to Thee 
 for the men and women who, moved by compassion, kindness and sympathy, 
@@ -77,7 +77,7 @@ with heart, devotion and zeal, carry on the beneficent work.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 שְׁמַר־נָא צֵאתָם וּבוֹאָם 
 מֵעַתָּה וְעַד עוֹלָם. 
@@ -85,7 +85,7 @@ with heart, devotion and zeal, carry on the beneficent work.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 O Lord, 
 preserve their going out and their coming in,[foot]Cf. Ezekiel 46:10[/foot]
 from this time forth and forevermore. 
@@ -95,7 +95,7 @@ Amen.
 
 <hr />
 
-<span class="hebrew">סדר תודה ותפלה למלאת שבעים שנה לחברה למניעת אכזריות לילדים להאמר בבית הכנסת ביום ש״ק פ׳ בחקתי שנת תש״ד לפ״ק</span> | "Prayer of Thanksgiving on the Occasion of the 70th Anniversary of the National Society for the Prevention of Cruelty to Children, to Be Recited on Sabbath 22nd May 1954 / 19th Iyyar 5714 after the Prayer of the Queen and the Royal Family (London: 1954, Office of the Chief Rabbi)". H/T Fred MacDowell.
+<span class="hebrew" lang="he">סדר תודה ותפלה למלאת שבעים שנה לחברה למניעת אכזריות לילדים להאמר בבית הכנסת ביום ש״ק פ׳ בחקתי שנת תש״ד לפ״ק</span> | "Prayer of Thanksgiving on the Occasion of the 70th Anniversary of the National Society for the Prevention of Cruelty to Children, to Be Recited on Sabbath 22nd May 1954 / 19th Iyyar 5714 after the Prayer of the Queen and the Royal Family (London: 1954, Office of the Chief Rabbi)". H/T Fred MacDowell.
 
 <h3>Source(s)</h3>
 

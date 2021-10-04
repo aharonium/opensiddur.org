@@ -13,7 +13,7 @@ Other Jewish ritual graphics (e.g. <em>omer</em> chart, pomegranate <em>pushka</
 
 <hr />
 
-<div class="english">
+<div class="english" lang="en">
 We're always trying to find where we are in the machzor and supplemental readers for the High Holy Days. Please allow this <em>YAD</em> (finger) to help you <em>find your place</em> this year.
 
 Throughout time and space, 

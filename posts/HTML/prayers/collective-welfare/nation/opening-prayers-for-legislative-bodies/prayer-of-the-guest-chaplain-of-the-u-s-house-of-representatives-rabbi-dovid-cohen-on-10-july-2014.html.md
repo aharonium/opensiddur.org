@@ -17,23 +17,23 @@ Date of Prayer: 07/10/2014
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <h3>Opening Prayer Given by the Guest Chaplain:</h3>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Master of the Universe, 
 continue to grant compassion 
 and understanding 
@@ -47,12 +47,12 @@ are instantaneously destroyed.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Yesterday, in these hallowed Halls, 
 the United States Congress posthumously honored Raoul Wallenberg 
 for his humanitarian efforts in saving Jews during the Holocaust.[foot]"<a href="https://www.congress.gov/congressional-record/2014/7/9/senate-section/article/s4327-1">Awarding Congressional Gold Medal to Raoul Wallenberg</a>" (10 July 2014)[/foot]&nbsp; 
@@ -62,12 +62,12 @@ and be the moral compass of our Nation.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Next week begins the three-week period of Jewish mourning 
 over the destruction of our temples in Jerusalem. 
 It is an inauspicious time, 
@@ -80,12 +80,12 @@ one small candle can light up the world.[foot]Cf. Proverbs 6:23[/foot]
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָמֵן׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <em>Amen.</em>
 </div></td></tr>
 </tbody></table>

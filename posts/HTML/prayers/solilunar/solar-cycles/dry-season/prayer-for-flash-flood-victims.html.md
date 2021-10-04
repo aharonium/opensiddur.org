@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Hebrew (source)</th><th style="text-align: left;">English (translation)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 פַּלְגֵי־מַיִם יָרְדוּ עֵינָי, <span class="citation">(תהלים קיט:קלו חלק)</span> 
 כִּי בָאוּ מַיִם עַד־נָפֶשׁ <span class="citation">(תהלים סט:ב חלק)</span> 
 וְ”עַל־זֹאת תֶּאֱבַל הָאָרֶץ 
@@ -19,7 +19,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 My eyes shed streams of water[foot]Psalms 119:136 partial[/foot]
 for the waters have reached my neck[foot]Psalms 69:2 partial[/foot]
 For this the earth mourns, 
@@ -28,7 +28,7 @@ and skies are dark above.[foot]Jeremiah 4:28 partial[/foot]
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עַל זִיו הָעֲלוּמִים שֶׁנִּשְׁטַף בְּמַיִם רַבִּים, 
 ”כְּשְׁאוֹן מַיִם כַּבִּירִים יִשָּׁאוּן...“ <span class="citation">(ישעיה יז:יב חלק)</span> 
 ”לְעֵת עֶרֶב וְהִנֵּה בַלָּהָה, בְּטֶרֶם בֹּקֶר - אֵינֶנּוּ“, <span class="citation">(ישעיה יז:יד חלק)</span>
@@ -39,7 +39,7 @@ and skies are dark above.[foot]Jeremiah 4:28 partial[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 For the radiance of the youth that was washed away in the great waters,
 as the mighty waters raged[foot]Isaiah 17:12 partial[/foot]
 at eventide, lo, terror! By morning, there was no more[foot]Isaiah 17:14 partial[/foot]
@@ -51,18 +51,18 @@ and they had no savior and they had no rescuer.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וַיִּדֹּם אַהֲרֹן. <span class="citation">(ויקרא י:ג חלק)</span> 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And Aharon was silent.[foot]Leviticus 10:3 partial[/foot]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָנָּא, אֱלֹהֵינוּ, 
 יְהִי רָצוֹן שֶׁתַּעֲבִיר רוּחֲךָ עַל־הָאָרֶץ וְיָשֹׁכּוּ הַמָּיִם, <span class="citation">(ע"פ בראשית ח:א חלק)</span> 
 וְהָיְתָה ”אֶרֶץ צִיָּה לְמוֹצָאֵי מַיִם.” <span class="citation">(ישעיה מא:יח חלק)</span>
@@ -76,7 +76,7 @@ And Aharon was silent.[foot]Leviticus 10:3 partial[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Please, our <em>elo'ah</em>!,
 cause a wind to blow across the Land, so the waters may subside,[foot]After Genesis 8:1 partial[/foot]
 and let there be springs of water in the arid land,[foot]Isaiah 41:18 partial[/foot]
@@ -91,18 +91,18 @@ that the rushing mighty waters not overtake them."[foot]Psalms 32:6[/foot]
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וַיִּדֹּם אַהֲרֹן. <span class="citation">(ויקרא י:ג חלק)</span> 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And Aharon was silent.[foot]Leviticus 10:3 partial[/foot]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עוֹמְדִים אָנוּ לְפָנֶיךָ, 
 אֱלֹהֵי הָרוּחוֹת לְכׇל בָּשָׂר, 
 בְּלֵב נִדְהָם וְעָצוּב: 
@@ -116,7 +116,7 @@ And Aharon was silent.[foot]Leviticus 10:3 partial[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 We stand before you,
 Elo'ah of the spirits of all creatures,
 with a heart overwhelmed with sadness,
@@ -131,7 +131,7 @@ and not to pluck any more flowers this spring.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְהָרוֹפֵא לִשְׁבוּרֵי לֵב <span class="citation">(תהלים קמז:ג חלק)</span> 
 יְקַיֵּם בָּנוּ בְּחֹדֶשׁ אִיָּר אֶת הַכָּתוּב
 ”כִּי <span style="font-size: xx-large;">אֲ</span>נִי <span style="font-size: xx-large;">יְיָ</span> <span style="font-size: xx-large;">רֹ</span>פְאֶךָ,“ <span class="citation">(שמות טו:כו חלק)</span>
@@ -139,7 +139,7 @@ and not to pluck any more flowers this spring.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Heal their broken hearts,[foot]Psalms 147:3 partial[/foot]
 and fulfill for us this month of Iyar what is written,
 "for I, YHVH, are your healer."[foot]Exodus 15:26, note the acrostic "אייר" in the Hebrew when employing the double yud circumlocution for the tetragrammaton. [/foot]

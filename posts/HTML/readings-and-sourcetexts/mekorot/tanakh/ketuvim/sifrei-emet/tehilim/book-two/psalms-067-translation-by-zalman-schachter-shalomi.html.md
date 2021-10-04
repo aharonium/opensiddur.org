@@ -7,20 +7,20 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english"><em>A Psalm for all the peoples of the planet</em></div>
+<div class="english" lang="en"><em>A Psalm for all the peoples of the planet</em></div>
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>א</sup>&nbsp;לַמְנַצֵּ֥ח בִּנְגִינֹ֗ת מִזְמ֥וֹר שִֽׁיר׃
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 
 </div></td>
 </tr>
@@ -28,14 +28,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>ב</sup>&nbsp;אֱלֹהִ֗ים יְחָנֵּ֥נוּ וִֽיבָרְכֵ֑נוּ 
 יָ֤אֵ֥ר פָּנָ֖יו אִתָּ֣נוּ סֶֽלָה׃
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <sup>2</sup>&nbsp;God, bless us with grace!
 Let Your loving Face shine on us!
 </div></td>
@@ -44,7 +44,7 @@ Let Your loving Face shine on us!
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>ג</sup>&nbsp;לָדַ֣עַת 
 בָּאָ֣רֶץ דַּרְכֶּ֑ךָ 
 בְּכָל־גּ֝וֹיִ֗ם 
@@ -53,7 +53,7 @@ Let Your loving Face shine on us!
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <sup>3</sup>&nbsp;We want to get to know Your way
 Here on Earth,
 Seeing how Your help is given
@@ -64,7 +64,7 @@ To every group of people.
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>ד</sup>&nbsp;יוֹד֖וּךָ 
 עַמִּ֥ים ׀ אֱלֹהִ֑ים 
 י֝וֹד֗וּךָ 
@@ -73,7 +73,7 @@ To every group of people.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <sup>4</sup>&nbsp;Oh, how the various peoples 
 Will thank You,
 All of them will sing 
@@ -84,7 +84,7 @@ And be grateful.
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>ה</sup>&nbsp;יִֽשְׂמְח֥וּ 
 וִֽירַנְּנ֗וּ לְאֻ֫מִּ֥ים 
 כִּֽי־תִשְׁפֹּ֣ט 
@@ -96,7 +96,7 @@ And be grateful.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <sup>5</sup>&nbsp;Many people will be joyous 
 And sing 
 When You, Will set them right
@@ -110,7 +110,7 @@ Will cheer You.
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>ו</sup>&nbsp;יוֹד֖וּךָ עַמִּ֥ים ׀ 
 אֱלֹהִ֑ים 
 י֝וֹד֗וּךָ עַמִּ֥ים כֻּלָּֽם׃
@@ -118,7 +118,7 @@ Will cheer You.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <sup>6</sup>&nbsp;Oh, how the various peoples 
 Will thank You.
 All of them will sing, be grateful.
@@ -128,7 +128,7 @@ All of them will sing, be grateful.
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>ז</sup>&nbsp;אֶ֭רֶץ נָתְנָ֣ה יְבוּלָ֑הּ 
 יְ֝בָרְכֵ֗נוּ אֱלֹהִ֥ים 
 אֱלֹהֵֽינוּ׃
@@ -136,7 +136,7 @@ All of them will sing, be grateful.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <sup>7</sup>&nbsp;The Earth will give her harvest.
 Such blessings come from God.
 Yes, from our God!
@@ -146,7 +146,7 @@ Yes, from our God!
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>ח</sup>&nbsp;יְבָרְכֵ֥נוּ אֱלֹהִ֑ים 
 וְיִֽירְא֥וּ אֹ֝ת֗וֹ 
 כָּל־אַפְסֵי־אָֽרֶץ׃
@@ -154,7 +154,7 @@ Yes, from our God!
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <sup>8</sup>&nbsp;Bless us God,
 All the ends of the Earth 
 Will esteem You!

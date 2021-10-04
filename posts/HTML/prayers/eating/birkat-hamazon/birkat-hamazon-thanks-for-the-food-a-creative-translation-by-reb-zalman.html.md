@@ -11,20 +11,20 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שִׁ֗יר הַֽמַּֽ֫עֲל֥וֹת׃
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 A REACHING UP SONG
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
  בְּשׁ֣וּב יְיָ אֶת־שִׁיבַ֣ת צִיּ֑וֹן
  הָ֝יִ֗ינוּ כְּחֹלְמִֽים: 
 אָ֤ז יִמָּלֵ֢א שְׂחֹ֡ק פִּינוּ֘ 
@@ -38,7 +38,7 @@ A REACHING UP SONG
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 We dream
 How God will bring us back to Zion.
 Then shall we laugh again.
@@ -53,7 +53,7 @@ We too would be glad.”
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שׁוּבָ֣ה יְיָ אֶת־שְׁבִיתֵ֑נוּ
  כַּֽאֲפִיקִ֥ים 
 בַּנֵּֽגֶב:
@@ -61,7 +61,7 @@ We too would be glad.”
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 O God! Why don’t You bring us back?
           As you bring back water
           To the dried-up Negev streams?
@@ -70,14 +70,14 @@ O God! Why don’t You bring us back?
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַזֹּֽרְעִ֥ים בְּדִמְעָ֗ה 
 בְּרִנָּ֥ה יִקְצֹֽרוּ:
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Yes we will trust. We sowed with tears
 We will reap with song.
 </div>
@@ -85,7 +85,7 @@ We will reap with song.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הָ֘ל֤וֹךְ יֵלֵ֨ךְ׀ וּבָכֹה֘ נֹשֵׂ֢א מֶֽשֶׁךְ־הַ֫זָּ֥רַע 
 &nbsp;
 בֹּֽ֬א־יָבֹ֥א 
@@ -95,7 +95,7 @@ We will reap with song.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Those who go, casting out seeds,
 Sometime feel like weeping.
 Yet on they go, always trusting,
@@ -106,20 +106,20 @@ Bearing in the harvest sheaves.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 [At Wedding Feast include]
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 דְּוֵי הָסֵר וְגַם חַרוֺן,
 וְאָז אִלֵּם בְּשִׁיר יָרוֺן,
 נְחֵֽנוּ בְּמַעְגְּלֵי צֶֽדֶק,
@@ -128,7 +128,7 @@ Bearing in the harvest sheaves.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Remove all pain, all wrath take wing
 Then even ones who are mute will sing
 Guide us aright and far from sin
@@ -138,20 +138,20 @@ As we join in praising Aaron’s kin
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 זימון לברכת המזון
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 INVITATION AND CONSENT
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 &nbsp;
 חֲבֵרַי נְבָרֵךְ!‏‏
@@ -159,7 +159,7 @@ INVITATION AND CONSENT
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Leader:
 <em>Havey-rai n‘va-reyekh.</em>
 Friends, let us give praise.
@@ -168,7 +168,7 @@ Friends, let us give praise.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 &nbsp;
 יְהִ֤י שֵׁ֣ם יְיָ מְבֹרָ֑ךְ מֵֽ֝עַתָּ֗ה וְעַד־עוֹלָֽם׃ <span class="citation">(תהלים קיג:ב)</span>
@@ -176,7 +176,7 @@ Friends, let us give praise.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Response:
 <em>Y’hi sheym Adonai  m‘vorakh mey-ata v’ad olam.</em>
  May God’s name be praised, now and forever
@@ -185,7 +185,7 @@ Response:
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 &nbsp;
 &nbsp;
@@ -197,7 +197,7 @@ Response:
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Leader:
 <em>Y’hi sheym Adonay m’vorakh mey-ala v’ad olam.
 Bir’shut havey-rai, n‘vareykh Eloheynu
@@ -210,7 +210,7 @@ of whose food we have partaken.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 &nbsp;
 בָּרוּךְ [אֱלֹהֵינוּ] שֶׁאָכַלְנוּ מִשֵּׁלוֹ
@@ -219,7 +219,7 @@ of whose food we have partaken.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Response:
 <em>Barukh Eloheynu she-akhalnu mi-shelo uv‘tuvo hayinu.</em>
 Praised be our God of whose abundance we have partaken 
@@ -229,7 +229,7 @@ and by whose goodness we live.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 &nbsp;
 בָּרוּךְ [אֱלֹהֵינוּ] שֶׁאָכַלְנוּ מִשֵּׁלוֹ 
@@ -238,7 +238,7 @@ and by whose goodness we live.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Leader:
 <em>Barukh Eloheynu she-akhalnu mi-shelo uv‘tuvo hayinu.</em>
 Praised be our God of whose abundance we have partaken 
@@ -248,7 +248,7 @@ and by whose goodness we live.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 &nbsp;
 בָּרוּךְ הוּא וּבָרוּךְ שְׁמוֹ.
@@ -256,7 +256,7 @@ and by whose goodness we live.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Together:
 <em>Barukh hu u-va-rukh sh’mo.</em>
 Praised be God, and praised be God’s name.
@@ -265,20 +265,20 @@ Praised be God, and praised be God’s name.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 THANKS FOR THE FOOD AND ITS NOURISHMENT
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה יְיָ אֱלֹהֵֽינוּ 
 מֶֽלֶךְ הָעוֹלָם 
 הַזָּן אֶת הָעוֹלָם כֻּלּוֹ בְּטוּבוֹ 
@@ -287,7 +287,7 @@ THANKS FOR THE FOOD AND ITS NOURISHMENT
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Praise, yes, praise is Yours, O God,
 Ruler of all time and space,
 Who every day invites the world
@@ -297,13 +297,13 @@ To the feast of love, goodness and compassion:
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 You feed us--and we earned it not;
  You sustain us—and we deserved it not;
 </div>
@@ -311,7 +311,7 @@ You feed us--and we earned it not;
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הוּא נֹתֵ֣ן 
 לֶ֭חֶם 
 לְכָל־בָּשָׂ֑ר
@@ -320,7 +320,7 @@ You feed us--and we earned it not;
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 You so abundantly overwhelm us with
 Your Goodness.
 Food you provide for all Your creatures
@@ -330,7 +330,7 @@ Whom You love so abundantly.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּבְטוּבוֹ הַגָּדוֹל 
 תָּמִיד לֹא חָסַר לָֽנוּ 
 וְאַל יֶחְסַר לָֽנוּ מָזוֹן 
@@ -339,7 +339,7 @@ Whom You love so abundantly.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And because you are so good to us,
 We have never lacked sustenance in the past
 And we believe that we will never lack food
@@ -349,7 +349,7 @@ In the future.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בַּעֲבוּר שְׁמוֹ הַגָּדוֹל:
 &nbsp;
 &nbsp;
@@ -360,7 +360,7 @@ In the future.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 This You do for Your own repute
 That You may be known as:
 The one who sustains,
@@ -372,7 +372,7 @@ creature’s needs.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כִּי הוּא זָן 
 וּמְפַרְנֵס לַכֹּל 
 וּמֵטִיב לַכֹּל וּמֵכִין מָזוֹן 
@@ -381,7 +381,7 @@ creature’s needs.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 For Your feast is prepared for all,
 And Your table is set for all;
 You know well what each one needs,
@@ -391,14 +391,14 @@ For You did create all.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה יְיָ 
 הַזָּן אֶת הַכֹּל. 
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Therefore do we praise and. thank You,
 the One who nourishes all.
 </div>
@@ -406,13 +406,13 @@ the One who nourishes all.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 THANKS FOR THE EXODUS,
 THE TORAH, THE HOLY LAND--
 AND FOR THE JOY OF EATING
@@ -421,14 +421,14 @@ AND FOR THE JOY OF EATING
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 נוֹדֶה לְּךָ יְיָ אֱלֹהֵֽינוּ עַל שֶׁהִנְחַֽלְתָּ 
 לַאֲבוֹתֵֽינוּ אֶֽרֶץ חֶמְדָה טוֹבָה וּרְחָבָה
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 We thank You, Adonai our God, because You settled
 our ancestors in a land desirable and good and wide.
 </div>
@@ -436,7 +436,7 @@ our ancestors in a land desirable and good and wide.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְעַל שֶׁהוֹצֵאתָֽנוּ יְיָ אֱלֹהֵֽינוּ 
 מֵאֶֽרֶץ מִצְרַֽים 
 וּפְדִיתָֽנוּ מִבֵּית עֲבָדִים
@@ -444,7 +444,7 @@ our ancestors in a land desirable and good and wide.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 You removed us, Adonai our God, from the straits
 and narrow places of Egypt, and freed us from being
 at home in servitude.
@@ -453,7 +453,7 @@ at home in servitude.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְעַל בְּרִיתְךָ שֶׁחָתַֽמְתָּ בִּבְשָׂרֵֽנוּ 
 וְעַל תּוֹרָתְךָ שֶׁלִּמַּדְתָּֽנוּ 
 וְעַל חֻקֵּֽיךָ שֶׁהוֹדַעְתָּֽנוּ 
@@ -466,7 +466,7 @@ at home in servitude.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 We thank You for the promise sealed in our flesh,
 For the Torah teaching which You impart to us,
 And for the limits of conduct which
@@ -480,7 +480,7 @@ For life,
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְעַל אֲכִילַת מָזוֹן 
 שָׁאַתָּה זָן וּמְפַרְנֵס אוֹתָֽנוּ תָּמִיד בְּכָל יוֹם 
 וּבְכָל עֵת וּבְכָל שָׁעָה.
@@ -488,7 +488,7 @@ For life,
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And we thank You for the joy of eating which
 You grant us while You nourish us, everyday,
 every moment.
@@ -497,13 +497,13 @@ every moment.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
  
 THANKS FOR THE GOOD EARTH AND HER PRODUCE
 </div>
@@ -511,7 +511,7 @@ THANKS FOR THE GOOD EARTH AND HER PRODUCE
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְעַל הַכֹּל יְיָ אֱלֹהֵֽינוּ 
 אֲנַחְנוּ מוֹדִים לָךְ 
 וּמְבָרֲכִים אוֹתָךְ יִתְבָּרַךְ שִׁמְךָ 
@@ -520,7 +520,7 @@ THANKS FOR THE GOOD EARTH AND HER PRODUCE
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 For all this, Our God,
 We worship and thank YOU,
 Whose name is praised
@@ -530,7 +530,7 @@ By ever new expressions of life.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כַּכָּתוּב: 
 וְאָֽכַלְתָּ֖ וְשָׂבָ֑עְתָּ וּבֵֽרַכְתָּ֙ אֶת־יְיָ אֱלֹהֶ֔יךָ 
 עַל־הָאָ֥רֶץ הַטֹּבָ֖ה 
@@ -539,7 +539,7 @@ By ever new expressions of life.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 We do this to fulfill Your command which states:
      “Eat Your fill praising Adonai your God
      for the earthy goodness which the Almighty
@@ -549,7 +549,7 @@ We do this to fulfill Your command which states:
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 בָּרוּךְ אַתָּה יְיָ 
 עַל הָאָֽרֶץ וְעַל הַמָּזוֹן.
@@ -557,7 +557,7 @@ We do this to fulfill Your command which states:
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Therefore we say:
 Praise to You O God
 for the earth and for its food.
@@ -566,20 +566,20 @@ for the earth and for its food.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 AS A MOTHER WOMBS HER CHILDREN IN MERCY
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רַחֵם יְיָ אֱלֹהֵֽינוּ 
 עַל יִשְׂרָאֵל עַמֶּךָ 
 וְעַל יְרוּשָׁלַֽםִ עִירֶֽךָ 
@@ -589,7 +589,7 @@ AS A MOTHER WOMBS HER CHILDREN IN MERCY
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Have pity, O God, on
 Israel Your people
 Jerusalem Your city;
@@ -600,7 +600,7 @@ And the heir to David’s throne.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְעַל הַבַּֽיִת 
 הַגָּדוֹל וְהַקָּדוֹשׁ 
 שֶׁנִּקְרָא 
@@ -613,7 +613,7 @@ And the heir to David’s throne.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And pity the Holy House
 The Temple Of Grandeur
 Where it was so easy
@@ -627,7 +627,7 @@ Yet still allow us our independence.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְיָ אֱלֹהֵֽינוּ מְהֵרָה מִכָּל צָרוֹתֵֽינוּ וְנָא אַל תַּצְרִיכֵֽנוּ 
 יְיָ אֱלֹהֵֽינוּ לֹא לִידֵי מַתְּנַת בָּשָׂר וָדָם 
 וְלֹא לִידֵי הַלְוָאָתָם
@@ -635,7 +635,7 @@ Yet still allow us our independence.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 O God, keep us free from needs that enslave us.
 Permit us not to depend on gifts, handouts or loans.
   For even when others offer help, what they give is
@@ -645,7 +645,7 @@ Permit us not to depend on gifts, handouts or loans.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כִּי אִם 
 לְיָדְךָ הַמְּלֵאָה הַפְּתוּחָה הַקְּדוֹשָׁה וְהָרְחָבָה 
 שֶׁלֹּא נֵבוֹשׁ 
@@ -654,7 +654,7 @@ Permit us not to depend on gifts, handouts or loans.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 But may we only rely
 On Your full, broadly open hand,
      So we never lose self-respect,
@@ -664,13 +664,13 @@ On Your full, broadly open hand,
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 [בשבת:]
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 WHEN WE ALSO GIVE THANKS
 FOR THE SABBATH’S REST
 </div>
@@ -678,7 +678,7 @@ FOR THE SABBATH’S REST
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
  רְצֵה 
  וְהַחֲלִיצֵֽנוּ יְיָ אֱלֹהֵֽינוּ 
  בְּמִצְוֺתֶֽיךָ 
@@ -700,7 +700,7 @@ FOR THE SABBATH’S REST
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 In commanding us You share your will with us.
 In commanding us You impart in us the strength
    to fulfill the commandment.
@@ -723,13 +723,13 @@ For you are at liberty to freely give liberation
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 WHEN WE CELEBRATE
 HOLY SEASONS
 </div>
@@ -737,7 +737,7 @@ HOLY SEASONS
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֱלֹהֵֽינוּ וֵאלֹהֵי אֲבוֹתֵֽינוּ, 
 יַעֲלֶה 
 &nbsp;
@@ -752,7 +752,7 @@ HOLY SEASONS
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Our God and God of our ancestors,
 May this prayer we offer to You,
 &nbsp;
@@ -768,7 +768,7 @@ As You remember us.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְזִכְרוֹן אֲבוֹתֵֽינוּ, 
 וְזִכְרוֹן מָשִׁיחַ 
 בֶּן דָּוִד עַבְדֶּֽךָ, 
@@ -780,7 +780,7 @@ As You remember us.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 You remembered our parents,
 You will remember the Mashiach
 David’s son,
@@ -793,7 +793,7 @@ Your people.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
  ‏לִפְלֵיטָה 
  וּלְטוֹבָה וּלְחֵן וּלְחֶֽסֶד 
  וּלְרַחֲמִים וּלְחַיִּים וּלְשָׁלוֹם.
@@ -801,7 +801,7 @@ Your people.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Allow them all to find their way
 To goodness, to grace, to kindness,
 to mercy, to life, and to peace.
@@ -810,7 +810,7 @@ to mercy, to life, and to peace.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רֹאשׁ הַחֹדֶשׁ
 חַג הַמַּצּוֹת
 חַג הַסֻּכּוֹת
@@ -821,7 +821,7 @@ to mercy, to life, and to peace.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 New Moon Day
 Pesach
 Sukkot
@@ -833,7 +833,7 @@ Rosh Hashana
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 זָכְרֵֽנּוּ יְיָ אֱלֹהֵֽינוּ בּוֹ לְטוֹבָה [אָמֵן]. 
 וּפָקְדֵֽנוּ בוֹ לִבְרָכָה [אָמֵן].
 וְהוֹשִׁיעֵֽנוּ בוֹ לְחַיִּים טוֹבִים [אָמֵן]. 
@@ -841,7 +841,7 @@ Rosh Hashana
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Think well of this day
 Be mindful on it for our blessing
 Grant us the good life on it.
@@ -850,7 +850,7 @@ Grant us the good life on it.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּבִדְבַר 
 יְשׁוּעָה וְרַחֲמִים 
 חוּס וְחָנֵּנוּ וְרַחֵם עָלֵֽינוּ וְהוֹשִׁיעֵֽנוּ, 
@@ -861,7 +861,7 @@ Grant us the good life on it.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And as concerns such matters as
 salvation and mercy
 Pity us, be kind, save us, be gentle,
@@ -872,20 +872,20 @@ Yet also Kind and Gentle.
 </td></tr>
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
  WE REMEMBER OTHERS AS
 WE REMEMBER JERUSALEM
 </div>
 </td></tr>
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְגַם שֶׁאָכַלְנוּ וְשָׁתִינוּ 
 חָרְבַּן בֵּיתְךָ הַגָּדוֹל וְהַקָּדוֹשׁ לֹא שָׁכַחְנוּ 
 &nbsp;
@@ -897,7 +897,7 @@ WE REMEMBER JERUSALEM
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 We ate and drank
   Yet we forget not that
     there is exile, destruction,
@@ -910,7 +910,7 @@ Please, forget us not,
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּבְנֵה 
 יְרוּשָׁלַֽםִ 
 עִיר הַקֹּֽדֶשׁ 
@@ -923,7 +923,7 @@ Please, forget us not,
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Make this world
   A place of holiness,
     Now in our lifetime,
@@ -937,13 +937,13 @@ Amen—do as we believe!
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 WE THANK YOU FOR ALL
 THAT YOU ARE TO US
 </div>
@@ -951,7 +951,7 @@ THAT YOU ARE TO US
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה יְיָ אֱלֹהֵֽינוּ 
 מֶֽלֶךְ הָעוֹלָם 
 הָאֵל 
@@ -966,7 +966,7 @@ THAT YOU ARE TO US
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Praise, yea praise to You, O God,
 Source of our being
  Merciful Mother
@@ -983,7 +983,7 @@ Source of our being
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 שֶׁבְּכָל יוֹם וָיוֹם הוּא הֵטִיב 
 &nbsp;
@@ -993,7 +993,7 @@ Source of our being
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 In Your goodness you do not discriminate,
 Doing good day by day according to that day’s needs.
 &nbsp;
@@ -1004,7 +1004,7 @@ And so will You deal with us in the future.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הוּא גְמָלָֽנוּ 
 הוּא גוֹמְלֵנוּ 
 הוּא יִגְמְלֵנוּ לָעַד
@@ -1025,7 +1025,7 @@ And so will You deal with us in the future.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 You give of Your Self,
 You gave of your Self,
 You will give of Your Self
@@ -1047,13 +1047,13 @@ the good You hold in store for us for eternity.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 WE PRAY FOR THE MESSIANIC AGE AND
 TIMES OF PEACE
 </div>
@@ -1061,7 +1061,7 @@ TIMES OF PEACE
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הָרַחֲמָן. 
 &nbsp;
 &nbsp;
@@ -1073,7 +1073,7 @@ TIMES OF PEACE
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Compassionate One!
 Help us
     so that we may be worthy of being alive
@@ -1086,7 +1086,7 @@ Grant strength and loving kindness to Mashiach,
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 עֹשֶׂה שָׁלוֹם בִּמְרוֹמָיו 
 &nbsp;
@@ -1097,7 +1097,7 @@ Grant strength and loving kindness to Mashiach,
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 O God!
 We know that You can make peace on high:
 That is not too difficult.
@@ -1109,40 +1109,40 @@ Grant us peace!
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
  INVOCATION FOR THE FUTURE
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הָרַחֲמָן. הוּא
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <em>Haraḥaman Hu</em>
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הָרַחֲמָן.
  הוּא יִמְלֹךְ עָלֵֽינוּ לְעוֹלָם וָעֶד׃
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Kind-hearted One!
     Rule over us always.
 </div>
@@ -1150,7 +1150,7 @@ Kind-hearted One!
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הָרַחֲמָן.
  הוּא יִתְבָּרַךְ בַּשָּׁמַֽיִם 
  וּבָאָֽרֶץ׃ 
@@ -1158,7 +1158,7 @@ Kind-hearted One!
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Caring One!
 Be involved with our heaven
 and on our earth.
@@ -1167,7 +1167,7 @@ and on our earth.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הָרַחֲמָן. 
 הוּא יִשְׁתַּבַּח 
 לְדוֹר דּוֹרִים 
@@ -1178,7 +1178,7 @@ and on our earth.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Feeling One!
 You who are praised from one
 generation to the next,
@@ -1190,14 +1190,14 @@ May our lives honor You
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הָרַחֲמָן. 
 הוּא יְפַרְנְסֵֽנוּ בְּכָבוֹד׃
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Merciful One!
 Grant us an honorable livelihood.
 </div>
@@ -1205,7 +1205,7 @@ Grant us an honorable livelihood.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הָרַחֲמָן. 
 הוּא יִשְׁבּוֹר עֹל גָלוּת מֵעַל צַוָּארֵֽנוּ 
 וְהוּא יוֹלִיכֵֽנוּ קוֹמֲמִיּוּת לְאַרְצֵֽנוּ׃
@@ -1213,7 +1213,7 @@ Grant us an honorable livelihood.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Warm-hearted One!
    Break the restraints that make
 us strangers. Lead us home with dignity.
@@ -1222,7 +1222,7 @@ us strangers. Lead us home with dignity.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הָרַחֲמָן. 
 הוּא יִשְׁלַח בְּרָכָה מְרֻבָּה 
 בְּבַֽיִת הַזֶה וְעַל שֻׁלְחָן זֶה שֶׁאָכַֽלְנוּ עָלָיו׃
@@ -1230,7 +1230,7 @@ us strangers. Lead us home with dignity.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Generous One!
 Send abundant blessing to this
 home and to this table.
@@ -1239,7 +1239,7 @@ home and to this table.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הָרַחֲמָן. 
 הוּא יִשְׁלַח לָֽנוּ 
 אֶת אֵלִיָּֽה הַנָּבִיא 
@@ -1250,7 +1250,7 @@ home and to this table.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 One who grants
 Pleasant Surprises
 Send Elijah the prophet--of
@@ -1262,7 +1262,7 @@ To  bring good news of liberation
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הָרַחֲמָן. 
 הָרַחֲמָן הוּא יְבָרֵךְ אֶת־[אָבִי מוֹרִי] בַּֽעַל הַבַּֽיִת הַזֶּה וְאֶת־[אִמִּי מוֹרָתִי] בַּעֲלַת הַבַּֽיִת הַזֶּה 
 אוֹתָם וְאֶת־בֵּיתָם וְאֶת־זַרְעָם 
@@ -1271,7 +1271,7 @@ To  bring good news of liberation
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Compassionate One!
 Bless and protect all of us,
 our loved ones and our families,
@@ -1281,7 +1281,7 @@ our endeavors and our possessions.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אוֹתָנוּ וְאֶת כָּל אַשֶׁר לָֽנוּ, 
 כְּמוֹ שֶׁנִּתְבָּרֲכוּ אַבְרָהָם בַּכֹּל <span class="citation">(בראשית כד:א)</span>, 
 שָׂרָה בְּאֶמוּנָה, 
@@ -1295,7 +1295,7 @@ our endeavors and our possessions.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May we all be blessed
 like Abraham--with everything
 like Sarah--with faithfulness
@@ -1310,7 +1310,7 @@ And to all this let us say, <em>Amen</em>!
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 &nbsp;
 &nbsp;
@@ -1324,7 +1324,7 @@ And to all this let us say, <em>Amen</em>!
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Sublime One!
 Interpret our act as prompted by
  good intentions, as an act of
@@ -1339,7 +1339,7 @@ O Helping God!
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְנִמְצָא חֵן וְשֵֽׂכֶל טוֹב 
 בְּעֵינֵי אֱלֹהִים 
 וְאָדָם.
@@ -1347,7 +1347,7 @@ O Helping God!
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May we ever be found pleasant and wise
 by you God
 and by all our fellow human beings.
@@ -1355,20 +1355,20 @@ and by all our fellow human beings.
 </td></tr>
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 WE ENCOURAGE ONE ANOTHER BEFORE LEAVING THE TABLE
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְר֣אוּ אֶת־יְיָ קְדשָׁ֑יו 
 כִּ֘י אֵ֥ין מַ֝חְסּ֗וֹר לִֽירֵאָֽיו: 
 
@@ -1381,7 +1381,7 @@ WE ENCOURAGE ONE ANOTHER BEFORE LEAVING THE TABLE
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Fear Our God, you who make God holy!
 Fearing only God, what will you lack?
 
@@ -1395,14 +1395,14 @@ Shall not lack all that is good.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הוֹד֣וּ לַֽיְיָ כִּי־ט֑וֹב 
 כִּ֖י לְעוֹלָ֣ם חַסְדּֽוֹ׃ <span class="citation">(תהלים קמה:טז)</span>
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Give thanks to God who is so good,
 Whose kindness is ever wise to the world.
 </div>
@@ -1410,14 +1410,14 @@ Whose kindness is ever wise to the world.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּר֣וּךְ הַגֶּ֔בֶר אֲשֶׁ֥ר יִבְטַ֖ח בַּֽיְיָ 
 וְהָיָ֥ה יְיָ מִבְטַחֽוֹ׃ <span class="citation">(ירמיהו יז:ז)</span>
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
  Blessed are they who trust in God,
 For God will ever be their guarantor.
 </div>
@@ -1425,7 +1425,7 @@ For God will ever be their guarantor.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 נַ֤עַר הָיִ֗יתִי גַּם־זָקַ֥נְתִּי 
 וְֽלֹֽא־רָאִ֣יתִי צַדִּ֣יק נֶעֱזָ֑ב 
 וְ֝זַרְע֗וֹ מְבַקֶּשׁ־לָֽחֶם׃ <span class="citation">(תהלים לז:כה)</span>
@@ -1433,7 +1433,7 @@ For God will ever be their guarantor.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 I was young, now I’m old
 Yet never saw a Zaddik so forsaken
 That their child seeks only bread.
@@ -1442,13 +1442,13 @@ That their child seeks only bread.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 How can this be? How could this happen?
 Surely blessings will be heaped on those
 Who are really righteous, fair and just.
@@ -1457,7 +1457,7 @@ Who are really righteous, fair and just.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מַה שֶׁאָכַֽלְנוּ 
 יִהְיֶה לְשָׂבְעָה
 וּמַה שֶׁשֶּׁתִֽינוּ 
@@ -1468,7 +1468,7 @@ Who are really righteous, fair and just.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May what we ate
 be a source of satisfaction
 What we drank
@@ -1480,7 +1480,7 @@ a source of blessing.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 וַיִּתֵּן לִפְנֵיהֶם 
 וַיֹּאכְלוּ וַיּוֹתִרוּ 
@@ -1489,7 +1489,7 @@ a source of blessing.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 According to Scripture:
 “The host set food before them,
 They ate and left enough for others,
@@ -1499,14 +1499,14 @@ As God has spoken.”[foot]2 Kings 4:42-44. (Thanks to Hannah Rocha for identify
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְיָ עֹ֖ז ׀ לְעַמּ֣וֹ יִתֵּ֑ן 
 יְיָ ׀ יְבָרֵ֖ךְ אֶת־עַמּ֣וֹ בַשָּׁלֽוֹם׃ <span class="citation">(תהלים  כט:יא)</span>
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 God will surely give strength to our people
 God will bless our folk with SHALOM!
 </div>

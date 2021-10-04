@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יָהּ אֶכְסוֹף 
 נוֹעַם שַׁבָּת 
 הֵמֵתְאֶמֶת וּמִתְאַחֶדֶת 
@@ -27,7 +27,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Yah! How I long for 
 the bliss of the Shabbat, 
 united in secret 
@@ -44,7 +44,7 @@ be met with delight
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 הָיָה הֹוֶה 
 שְׁמוֹר שׁוֹמְרֵי וּמְצַפִּים 
@@ -60,7 +60,7 @@ be met with delight
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Holy Presence 
 filling all time and space!
 Keep safe who keep Shabbat 
@@ -77,7 +77,7 @@ be pure service to you!
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְיִהְיוּ רַחֲמֶיךָ 
 מִתְגּוֹלְלִים 
 עַל עַם קָדְשֶׁךָ, 
@@ -85,7 +85,7 @@ be pure service to you!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Warmly embrace us 
 with your kind compassion,
 Quench quickly our thirst 
@@ -94,7 +94,7 @@ for your unending Grace.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִנָּהָר 
 הַיּוֹצֵא מֵעֵדֶן. 
 לְעַטֵר אֶת יִשְׂרָאֵל 
@@ -103,7 +103,7 @@ for your unending Grace.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Give us the bliss drink 
 from Eden’s own river.
 Your praises we sing 
@@ -112,7 +112,7 @@ with joy on our face.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כָּל שִׁשָּׁה יָמִים 
 לְהַנְחִילָם 
 נַחֲלַת יַעֲקֹב 
@@ -120,7 +120,7 @@ with joy on our face.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Let Yaaqov’s gift to us -- 
 echo all week long
 Infusing our lives 
@@ -129,7 +129,7 @@ with a Shabbes-f​illed trace.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַשַּׁבָּת נוֹעַם 
 הַנְּשָׁמוֹת, 
 וְהַשְּׁבִיעִי עֹנֶג הָרוּחוֹת וְעֵדֶן הַנְּפָשׁוֹת, 
@@ -145,7 +145,7 @@ with a Shabbes-f​illed trace.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Hail Shabbat, delight 
 of our souls and our Spirits.
 Ecstasy life-throb 

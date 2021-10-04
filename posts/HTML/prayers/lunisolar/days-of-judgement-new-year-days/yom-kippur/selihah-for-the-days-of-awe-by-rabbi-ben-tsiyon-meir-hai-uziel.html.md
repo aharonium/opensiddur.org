@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;"><a href="https://opensiddur.org/contributing/upload/">Contribute a translation</a></th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ברעדה ויראה באנו לפניך
 כי מי לא יירא מאימת דינך, 
 בגילה וצהלה נעמוד לפני כסא משפטך, 
@@ -20,13 +20,13 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 נקנו יי מטומאת מחשבותינו. 
 טהרנו וכפר פשעינו ועוונינו, 
 לב טהור ברא לנו אלהינו 
@@ -36,13 +36,13 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 צדקנו יי והוצא משפטנו לאור, 
 קרא לנו מיצרנו ואיבינו חופש ודרור, 
 השיבנו אליך ונשובה, אל אדיר ונאור 
@@ -52,13 +52,13 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יהמו עלינו המת רחמיך, 
 עמלנו וענינו הבט ממעון שמיך, 
 חוסה ורחם, ופדנו מצרותינו ואויבינו למען שמך. 
@@ -68,13 +68,13 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ועשה עמנו לטובה אות, 
 קרב לנו קץ הפלאות, 
 כי רב שבענו תלאות 
@@ -84,13 +84,13 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 נורא תהלות, ואדון כל הנשמות 
 בשרנו בסליחתך אב הרחמים והסליחות 
 זכרנו לחיים טובים ופקדנו בישועות ונחמות 
@@ -99,13 +99,13 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עוזי! אלי! מקדשך תבנה בהר נחלתך למופת ולאות 
 ונהרו אליו כל העמים והממלכות 
 ואמרו לכו ונעלה אל הר יי צבאות 

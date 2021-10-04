@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לְ֭כוּ נְרַנְּנָ֣ה לַיהוָ֑ה 
 נָ֝רִ֗יעָה לְצ֣וּר יִשְׁעֵֽנוּ׃
 נְקַדְּמָ֣ה פָנָ֣יו בְּתוֹדָ֑ה 
@@ -19,7 +19,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Come, let us sing to YHVH:
 Let our song ring out to the rock of our salvation.
 Let us come before God’s presence with thanksgiving;
@@ -28,7 +28,7 @@ Let us shout for joy to God;
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כִּי אֵל גָּדוֹל יהוה, 
 וּמֶלֶךְ גָּדוֹל עַל־כָּל־אֱלֹהִים׃
 אֲשֶׁר בְּיָדוֹ מֶחְקְרֵי־אָרֶץ, 
@@ -38,7 +38,7 @@ Let us shout for joy to God;
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 YHVH is a great El, 
 a great ruler above all gods;
 In whose hand are the depths of the earth 
@@ -49,7 +49,7 @@ And God formed the land.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בֹּאוּ נִשְׁתַּחֲוֶה וְנִכְרָעָה, 
 נִבְרְכָה לִפְנֵי־יהוה עֹשֵׂנוּ׃
 כִּי הוּא אֱלֹהֵינוּ, 
@@ -58,7 +58,7 @@ And God formed the land.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Come, let us bow down and bend the knee;
 Let us kneel before YHVH our Maker;
 For God is our <em>elo'ah</em>, 
@@ -68,7 +68,7 @@ Today, if you would hearken to God’s voice!
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אַל תַּקְשׁוּ לְבַבְכֶם כִּמְרִיבָה, 
 כְּיוֹם מַסָּה בַּמִּדְבָּר׃
 אֲשֶׁר נִסּוּנִי אֲבוֹתֵיכֶם, 
@@ -81,7 +81,7 @@ Today, if you would hearken to God’s voice!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Harden not your hearts as at Meribah, 
 as in the day of Massah in the wilderness;
 Your fathers tried Me, 

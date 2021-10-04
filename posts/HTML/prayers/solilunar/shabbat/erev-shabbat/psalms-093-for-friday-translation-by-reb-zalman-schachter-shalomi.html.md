@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 This psalm was the Friday song of the Levites in the Holy Temple.
 </div>
 
@@ -16,7 +16,7 @@ This psalm was the Friday song of the Levites in the Holy Temple.
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>א</sup>&nbsp;יְהוָ֣ה מָלָךְ֮ גֵּא֪וּת לָ֫בֵ֥שׁ 
 לָבֵ֣שׁ יְ֭הוָה 
 עֹ֣ז הִתְאַזָּ֑ר 
@@ -30,7 +30,7 @@ This psalm was the Friday song of the Levites in the Holy Temple.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <sup>1</sup>&nbsp;Yah, You ruled, robed in dignity.
 Donning intensity,
 Girded with strength,
@@ -46,7 +46,7 @@ There was a world.
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>ג</sup>&nbsp;נָשְׂא֤וּ נְהָר֨וֹת ׀ יְֽהוָ֗ה 
 נָשְׂא֣וּ נְהָר֣וֹת קוֹלָ֑ם 
 יִשְׂא֖וּ נְהָר֣וֹת דָּכְיָֽם׃
@@ -60,7 +60,7 @@ There was a world.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <sup>3</sup>&nbsp;The currents raise their roar,
 The rivers raise the spumes,
 The mighty torrents' thunder.

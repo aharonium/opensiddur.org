@@ -11,14 +11,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Hebrew (source)</th><th style="text-align: left;">English (translation)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אבינו שבשמים, 
 השקיפה ממעון קדשך 
 וברך את מדינת ישראל, 
 ראשית גאולתנו. 
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Our father in Heaven,
 observe from your holy abode
 and bless the State of Israel,
@@ -27,7 +27,7 @@ the beginning of our redemption.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הגן עליה באברת חסדך 
 ופרוס עליה סכת שלומך, 
 שלח אורכה ואמיתך לראשיה, 
@@ -35,7 +35,7 @@ the beginning of our redemption.
 ותקנם בעצה טובה מלפניך. 
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Shield it beneath the wings of your lovingkindness
 and spread over it your Sukkah of peace.
 Send your light and your truth to its leaders, 
@@ -45,13 +45,13 @@ and correct them with your good counsel.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שומר ישראל 
 חזק את ידי מגיני ישראל 
 וזר נצחון תעטרם. 
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Guard Israel.
 Strengthen the position of the defenders of Israel
 and crown them with a wreath of victory.
@@ -59,14 +59,14 @@ and crown them with a wreath of victory.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ברך את עמך ישראל בארץ ובתפוצות. 
 צורנו וגואלנו 
 אסף נא פזורינו ונדחינו 
 לציון משכן כבודך.
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Bless your people Yisra'el in the Land and in the Diaspora;
 our fortress and redeemer --
 please gather our dispersed and rejected
@@ -75,7 +75,7 @@ to Tsiyon, your resplendent sanctuary.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מהרה יאמנו דברי נביאך 
 לישראל עם קדשך 
 וּלְכׇּל יוֹשְׁבֵי תֵּבֵל אַרְצֶךָ, 
@@ -83,7 +83,7 @@ to Tsiyon, your resplendent sanctuary.
 אמן ואמן.
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Speedily may we realize the words of your prophet 
 to Yisra'el with your holiness 
 and to all inhabitants of Earth,[foot]Cf. the qedusha for the Yamim Noraim. "והופע בהדר גאון עוזך על כל יושבי תבל ארצך"[/foot]

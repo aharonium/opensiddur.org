@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יִשְׁתַּבַּח שִׁמְךָ 
 לָעַד מַלְכֵּנוּ. 
 הָאֵל הַמֶּלֶךְ הַגָּדוֹל 
@@ -22,7 +22,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Your Name be praised, 
 Always, Majestic One.
 Powerful and gentle Source,
@@ -35,7 +35,7 @@ Time and again:
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שִׁיר וּשְׁבָחָה. 
 הַלֵּל וְזִמְרָה. 
 עוֹז וּמֶמְשָׁלָה. 
@@ -49,7 +49,7 @@ Time and again:
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Music and Celebration,[foot]The context here, naturally flowing from "Az Yashir," is the Shirat HaYam. Cf. Mekhilta d'Rabbi Yishmael 14:8:2 on Exodus 15:13. Also see, Pirkei_DeRabbi_Eliezer 42.13, Zohar 2:132a:3[/foot] 
 Jubilation and Symphony,[foot]Cf. Otzar Midrashim, Maaseh Beraishit & Maaseh Merkavah, Seder Rabbah d'Beraishit d'Merkavah 9[/foot] 
 Fortissimo, Anthem,[foot]Cf. Zohar 2:132a:3[/foot] 
@@ -64,7 +64,7 @@ In every realm.[foot]i.e. first and last (alpha/omega) Cf. Rashi on Psalms 90:2:
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה יְהֹוָה.
 אֵל מֶלֶךְ גָּדוֹל 
 וּמְהֻלָּל 
@@ -72,7 +72,7 @@ In every realm.[foot]i.e. first and last (alpha/omega) Cf. Rashi on Psalms 90:2:
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 We worship you, Yah,
 Generous, Great, Regal One,
 Who is the One,
@@ -81,7 +81,7 @@ to whom we offer all these.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֵל הַהוֹדָאוֹת. 
 אֲדוֹן הַנִּפְלָאוֹת.
  בּוֹרֵא כָּל הַנְּשָׁמוֹת. 
@@ -94,7 +94,7 @@ to whom we offer all these.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Our god, whom we appreciate,[foot]Cf. Jerusalem Talmud Berakhot 10b:1; Taanit 6b:17; Taanit 7a:1[/foot] 
 Source of all wonder,[foot]Cf. Otzar Midrashim, "Avraham our Father, The Story of Avraham our Father and Nimrod"[/foot] 
 Fountain of all souls,[foot]Cf. Otzar Midrashim, Midrashim on Moses Our Master, The Death of Moses (Version 1); Otzar Midrashim Midrashim on Moses Our Master, Drash on Petirat Moshe, 8[/foot] 
@@ -108,12 +108,12 @@ Through all the worlds.[foot]Cf. Deuteronomy 32:40, Daniel 6:27[/foot]
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָמֵן
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Amen
 </div></td></tr>
 </tbody></table>

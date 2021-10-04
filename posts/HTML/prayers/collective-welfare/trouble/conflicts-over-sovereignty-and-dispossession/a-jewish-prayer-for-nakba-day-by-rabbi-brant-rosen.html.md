@@ -11,12 +11,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;"><a href="https://opensiddur.org/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לָאֵל שֶׁחָפֵץ תְּשׁוּבָה
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <em>Le’el she’ḥafets teshuvah</em>,
 to the One who desires return:
 &nbsp;
@@ -29,12 +29,12 @@ during the devastation of the Nakba.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Sanctify for <em>tov u’verakha</em>,
 for goodness and blessing,
 the memory of those who were killed
@@ -45,12 +45,12 @@ throughout Palestine.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Grant <em>ḥesed ve’raḥamim</em>,
 kindness and compassion,
 upon the memory of the expelled
@@ -61,12 +61,12 @@ along the way.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Shelter beneath <em>kanfei ha’shekhinah</em>,
 the soft wings of your divine presence,
 those who still live under military occupation,
@@ -77,12 +77,12 @@ still dreaming of return.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Gather them <em>mei’arbah kanfot ha’arets</em>
 from the four corners of the earth
 that their right to return to their homes
@@ -91,12 +91,12 @@ be honored at long last.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Let all who dwell in the land
 live in dignity, equity and hope
 so that they may bequeath to their children
@@ -105,14 +105,14 @@ a future of justice and peace.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְנֹאמַר
 &nbsp;
 אָמֵן
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Ve’nomar
 and let us say,
 Amen.
@@ -120,12 +120,12 @@ Amen.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לָאֵל שֶׁחָפֵץ תְּשׁוּבָה
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <em>L’El she’ḥafets teshuvah</em>,
 to the One who desires repentance:
 &nbsp;
@@ -136,12 +136,12 @@ committed in our name.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Help us to face the terrible truth of the Nakba
 and its ongoing injustice
 that we may finally confess our offenses;
@@ -151,12 +151,12 @@ of reparation and reconciliation.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לָאֵל מָלֵא רַחֲמִים
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <em>L’El malei raḥamim</em>,
 to the One filled with compassion:
 show us how to understand the pain
@@ -169,12 +169,12 @@ for our own.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עוֹשֶׂה הַשָּׁלוֹם
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <em>Osei hashalom</em>,
 Maker of peace,
 guide us all toward a place
@@ -187,14 +187,14 @@ speedily in our day.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְנֹאמַר
 &nbsp;
 אָמֵן
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <em>V’nomar</em>
 and let us say,
 <em>Amen</em>.

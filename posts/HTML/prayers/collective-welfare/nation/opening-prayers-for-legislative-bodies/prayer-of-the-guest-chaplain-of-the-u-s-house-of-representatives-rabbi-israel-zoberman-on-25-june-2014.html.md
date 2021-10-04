@@ -17,12 +17,12 @@ Date of Prayer: 06/25/2014
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Our one God of life's blessings 
 who brings us together to be one family, 
 gloriously diverse and gratefully united 
@@ -31,12 +31,12 @@ through the divine commandments of loving kindness.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 In this House of Representatives' august Chamber of the most flourishing democracy, 
 we give thanks to the awesome author of an endangered universe 
 for the essential twin gifts of freedom and responsibility. 
@@ -48,12 +48,12 @@ and the safeguarding of our precious liberties.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Mindful of living in our uncertain and unsettling world, 
 let us reaffirm 
 that the Creator's divinity
@@ -66,12 +66,12 @@ of purpose and meaning.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May blemishes turn into blessings, 
 hatred into love, 
 violence into vision, 
@@ -83,12 +83,12 @@ at last.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָמֵן׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <em>Amen.</em>
 </div></td></tr>
 </tbody></table>

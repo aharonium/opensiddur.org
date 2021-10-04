@@ -19,7 +19,7 @@ This work was scanned by Aharon Varady for the Open Siddur Project from a volume
 
 Scanning this work (making digital images of each page) is the first step in a more comprehensive project of transcribing each prayer and associating it with its translation. You are invited to participate in this collaborative transcription effort!
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 <blockquote>FOREWORD 
 
 

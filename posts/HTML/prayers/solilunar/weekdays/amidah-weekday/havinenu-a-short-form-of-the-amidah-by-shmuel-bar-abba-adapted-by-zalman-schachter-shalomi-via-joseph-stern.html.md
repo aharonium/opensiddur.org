@@ -11,24 +11,24 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Adaptation (English, J.F. Stern)</th><th style="text-align: left;">Adaptation (English, Z. Schachter-Shalomi)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 
 </div></td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">If you are pressed for time, 
 you can use this short version.</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הֲבִינֵנוּ יְיָ אֱלֹהֵינוּ 
 לָדַעַת אֶת דְּרָכֶיךָ 
 וּמוֹל אֶת לְבָבֵנוּ 
@@ -36,7 +36,7 @@ you can use this short version.</span>
 </span></div></td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 Cause us, O Lord! 
 to understand Thy ways,
 And fill our hearts 
@@ -44,7 +44,7 @@ with rev'rent fear, all our days.
 </div></td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 Help us Yah,
 To understand your ways,
 And sensitize our hearts,
@@ -53,7 +53,7 @@ With reverence all our days.
 
 
 <tr><td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לְסוֹלֵחַ הֱיֵה לָנוּ 
 לִהְיוֹת גְּאוּלִים 
 &nbsp;
@@ -62,7 +62,7 @@ With reverence all our days.
 </span></div></td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 Forgive us, we entreat Thee, each sin,
 That redemption we may hope to win.
 In Thy merciful goodness
@@ -72,7 +72,7 @@ we pray.
 </div></td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 Forgive us, with compassion, each sin,
 That redemption we may hope to win.
 In your caring, 
@@ -83,21 +83,21 @@ we pray.
 
 
 <tr><td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 וְשַׁכְּנֵנוּ בִּנְאוֹת אַרְצְךָ 
 וּנְפוֹצִים מֵאַרְבַּע תְּקַבֵּץ 
 </span></div></td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 With Thine all-powerful and tremendous hand
 Our scattered ones 
 gather together to our own land.
 </div></td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 With your all-powerful and tremendous hand,
 Our scattered ones
 Bring together to our own land.
@@ -105,7 +105,7 @@ Bring together to our own land.
 
 
 <tr><td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְהַתּוֹעִים בְּדַעְתְּךָ 
 יִשָּׁפְטוּ 
 וְעַל הָרְשָׁעִים תָּנִיף יָדְךָ 
@@ -120,7 +120,7 @@ Bring together to our own land.
 </div></td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 Transgressors, O mighty Being, 
 judge Thou,
 Sinners to Thy just wrath shall submissively bow.
@@ -135,7 +135,7 @@ with Thy glorious presence be fill'd,
 </div></td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 May justice be effective,
 And righteousness prevail.
 May evil plots be razed and fail.
@@ -151,50 +151,50 @@ With all peoples be fill’d.
 
 
 <tr><td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </div></td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 Then with a loud and exultant voice
 Will the righteous, O God of Israel, rejoice.
 </div></td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 Then with a loud and exultant voice,
 Will the righteous, O God of Yisrael, rejoice.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּבִצְמִיחַת 
 קֶרֶן לְדָוִד עַבְדֶּךָ 
 </span></div></td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 Let it be Thy divine will speedily to restore
 The House of David, Thy servant, as of yore.
 </div></td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 Let it be your divine will, to speedily found
 A messianic life for all abound.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּבַעֲרִיכַת נֵר 
 לְבֶן יִשַּׁי מְשִׁיחֶךָ
 </span></div></td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 And may the light of the son of Jesse 
 blaze 
 As in reverence 
@@ -202,7 +202,7 @@ Thy hallowed Name we praise.
 </div></td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 And, may the light of peace, 
 Brightly blaze,
 As in reverence,
@@ -211,7 +211,7 @@ Your sacred Name we praise.
 
 
 <tr><td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 טֶרֶם נִקְרָא אַתָּה תַּעֲנֶה 
 טֶרֶם נְדָּבָר וְאַתָּה תַּשְׁמָע 
 כַּדָּבָר שֶׁנֶּאֱמַר ”וְהָיָה טֶרֶם יִקְרָאוּ 
@@ -223,7 +223,7 @@ Your sacred Name we praise.
 </span></div></td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 &nbsp;
 &nbsp;
 &nbsp;
@@ -236,7 +236,7 @@ declare
 </div></td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 &nbsp;
 &nbsp;
 &nbsp;
@@ -259,51 +259,51 @@ The earliest version of "Havinenu" appears in the Talmud in the name of Mar Shmu
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רבי יהושע אומר מעין שמנה עשרה: 
 </span></div></td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 [We learned in the mishna that] Rabbi Yehoshua says [that each day one recites] an abridged [version of the prayer of] eighteen blessings.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מאי מעין שמנה עשרה 
 </span></div></td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 [The Gemara asks:] What [is the] abridged [version of the prayer of] eighteen blessings? 
  </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רב אמר מעין כל ברכה וברכה 
 </span></div></td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 [There are different opinions.] Rav said: [One recites] an abridged [version] of each and every blessing. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ושמואל אמר 
 </span></div></td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 Shmuel said: [An abridged version of the prayer of eighteen blessings refers to a blessing composed specifically to be recited in place of the thirteen middle blessings. It contains references to each of the thirteen middle blessings. The formula for that blessing is:]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הביננו ה׳ אלהינו לדעת דרכיך 
 ומול את לבבנו ליראתך 
 ותסלח לנו להיות גאולים 
@@ -324,7 +324,7 @@ Shmuel said: [An abridged version of the prayer of eighteen blessings refers to 
  </span></div></td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 Grant us understanding, YHVH our <em>elo'ah</em>, to know your ways, 
 and circumscribe our minds so that we may fear you,[foot]or, 'that our predatory inclination may be tempered by you.' --ANV[/foot] 
 and forgive us so that we may be redeemed, 

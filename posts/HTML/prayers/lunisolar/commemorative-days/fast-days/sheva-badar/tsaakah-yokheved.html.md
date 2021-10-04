@@ -11,19 +11,19 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;"><a href="https://opensiddur.org/contributing/upload/">Contribute a translation</a></th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 צָעֲקָה יוֹכֶבֶד בְּקוֹל מַר וְקָשֶׁה
 סִינַי סִינַי אַיֵּה מֹשֶׁה
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שַׁאֲלוּ לְחוֹרֵב שַׁאֲלוּ לְסִינַי
 אָנָה פָנָה עֶבֶד יי
 וְאָנָה הָלַךְ מַחְמַד עֵינַי
@@ -33,13 +33,13 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 (לָבְשׁוּ חֲרָדָה אֶרֶץ וְשָׁמַיִם)
 אָחֲזָה רְעָדָה לִמְחוֹלַת הַמַּחֲנָיִם
 וְלֵב כָּל הָעֵדָה נֶהְפַּךְ לְמַיִם
@@ -49,13 +49,13 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לְכוּ נָא לְיַם סוּף שֶׁבָּקַע בְּמַקְלוֹ
 וּלְהַר חוֹרֵב שַׁאֲלוּ לוֹ
 אַיֵּה הַגְּבִיר וְאַיֵּה אָהֳלוֹ
@@ -65,13 +65,13 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מַה זֶה תֶּהֱמִי עֲנִיָּה אִמִּי
 הַשְׁקִיטִי בְחֵילֵךְ הֵרָגְעִי וְדֹמִּי
 הִצְדִיק דִּין שׁוֹכֵן הֲדֹמִי
@@ -82,13 +82,13 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לָקְחוּ שְׂרָפִים וְחַיּוֹת אֶת הַמִּטָּה
 וְכָל מַלְאָךְ וּמַלְאָךְ בּוֹכֶה בְשִׁטָּה
 וּשְׁכִינָה תִזְעַק קוֹל בְּמִבְטָא
@@ -98,13 +98,13 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַיּוֹם הוּעֲלָה אוֹר הָעוֹלָם
 סָפְדוּהוּ יִשְׂרָאֵל בֵּין הֵיכָל וְאוּלָם
 מַלְאָכִים הֶעֱלוּהוּ לִמְעוֹן אֶרְאֶלָּם
@@ -114,13 +114,13 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מַה לָךְ בַּת לֵוִי אֵשֶׁת עַמְרָם
 צַר לִי לְמֹשֶׁה נִשָּׂא וָרָם
 מַלְאָכִים יָרְדוּ מֹשֶׁה הוּרָם
@@ -130,13 +130,13 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַיּוֹם נֶחְתָּם מַעְיַן הַחָכְמָה
 הַיּוֹם נִסְתַּם בְּאֵר מְזִמָּה
 מַלְאָכִים הֶעֱלוּהוּ לִשְׁמֵי רוּמָה
@@ -146,13 +146,13 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַר הָעֲבָרִים אַשְׁרֵי חֶלְקָךְ
 מִבְחַר קְבָרִים הָיָה בְחֶלְקָךְ
 וְכָל הֶהָרִים חָשְׁקוּ בְחִשְׁקָךְ 
@@ -162,13 +162,13 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַיּוֹם הַזֶּה תִּזְכּוֹר זְכוּתוֹ
 לְמַהֵר לְקַבֵּץ שְׁאֵרִית עֲדָתוֹ
 ובָרֵךְ תְּבָרֵךְ לְעַמְּךָ כְּבִרְכָתוֹ

@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה 
 יהוה אֱלֹהֵינוּ 
 מֶלֶךְ הָעוֹלָם, 
@@ -19,7 +19,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Blessed are You, 
 YHVH our <em>elo'ah</em>, 
 Ruler of the world, 
@@ -28,7 +28,7 @@ whose word brings on the evening.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בְּחָכְמָה פּוֹתֵחַ שְׁעָרִים, 
 וּבִתְבוּנָה מְשַׁנֶּה עִתִּים 
 וּמַחֲלִיף אֶת הַזְּמַנִּים, 
@@ -44,7 +44,7 @@ whose word brings on the evening.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 God’s wisdom opens heaven’s gates; 
 God’s understanding makes the ages pass 
 and the seasons alternate; 
@@ -61,26 +61,26 @@ YHVH of Hosts is God’s name.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֵל חַי וְקַיָּם תָּמִיד יִמְלוֹךְ עָלֵינוּ 
 לְעוֹלָם וָעֶד.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May the living and eternal El rule us always, 
 to the end of time!
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה יהוה, 
 הַמַּעֲרִיב עֲרָבִים׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Blessed are you, YHVH, 
 whose word makes evening fall.
 </div></td></tr>

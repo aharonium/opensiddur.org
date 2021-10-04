@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַֽלְלוּ־יָ֡הּ 
 הַלְלִ֥י נַ֝פְשִׁ֗י אֶת־יְהוָֽה׃
 אֲהַלְלָ֣ה יְהוָ֣ה 
@@ -21,7 +21,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <strong>Hallelu-Yah!</strong>
 Spirit of mine, praise Yah!
 I will indeed praise Yah, 
@@ -32,7 +32,7 @@ With all my being.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אַל־תִּבְטְח֥וּ בִנְדִיבִ֑ים 
 בְּבֶן־אָדָ֓ם ׀ 
 שֶׁ֤אֵֽין ל֥וֹ תְשׁוּעָֽה׃
@@ -42,7 +42,7 @@ With all my being.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 I will not put my reliance in big shots. 
 What can people do, 
 Who can’t even help themselves?
@@ -53,7 +53,7 @@ All their schemes have vanished.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אַשְׁרֵ֗י 
 שֶׁ֤אֵ֣ל יַעֲקֹ֣ב בְּעֶזְר֑וֹ 
 שִׂ֝בְר֗וֹ עַל־יְהוָ֥ה אֱלֹהָֽיו׃
@@ -76,7 +76,7 @@ All their schemes have vanished.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Happy is one, 
 Who is helped by Yaakov’s god; 
 Whose hope is entrusted in Yah, his god--The One, 
@@ -100,7 +100,7 @@ Of the malicious.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יִמְלֹ֤ךְ יְהוָ֨ה ׀ 
 לְעוֹלָ֗ם אֱלֹהַ֣יִךְ צִ֭יּוֹן 
 לְדֹ֥ר וָדֹ֗ר 
@@ -108,7 +108,7 @@ Of the malicious.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Please, Yah! Tsiyyon’s god! 
 Manifest Your rule in the world! 
 For us, and for our children.

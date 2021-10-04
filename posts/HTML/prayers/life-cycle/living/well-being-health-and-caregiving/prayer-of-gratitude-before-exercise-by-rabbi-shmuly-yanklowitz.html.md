@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֱלֹהַי,
 אֲשֶׁר יָצַרְתָּ אֶת נִשְׁמָתִי וְאֶת גּוּפִי,
 וְצִוִּיתָנִי לִשְׁמֹר אוֹתָם מְאֹד;
@@ -19,7 +19,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 My God, 
 You have created my soul and body, 
 and have commanded me to fervently watch over them; 
@@ -28,7 +28,7 @@ grant me the courage to exert myself to the suitable degree.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מוֹדֶה אֲנִי לְפָנֶיךָ,
 שֶׁנָּתַתָּ לִי אֶת הַכּוֹחוֹת הַנְּחוּצִים לְהִתְאַמֵּן;
 כֵּן שׇׁמְרֵנִי נָא מִפְּגִיעָה בְּאִמּוּן זֶה,
@@ -38,7 +38,7 @@ grant me the courage to exert myself to the suitable degree.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 I am grateful to You 
 that You have provided me with the necessary vigor to exercise; 
 please continue to guard me from injury during this training, 

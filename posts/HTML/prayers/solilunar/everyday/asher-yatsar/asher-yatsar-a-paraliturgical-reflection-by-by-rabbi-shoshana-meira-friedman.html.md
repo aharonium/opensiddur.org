@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Paraliturgical Reflection (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה
 יְיָ אֱלֹהֵֽינוּ
 מֶֽלֶךְ הָעוֹלָם,
@@ -20,14 +20,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 I bless You, Holy One
 Who made my body so wisely, with holes and openings where they should be.  
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 גָּלוּי וְיָדֽוּעַ לִפְנֵי כִסֵּא כְבוֹדֶֽךָ,
 שֶׁאִם יִסׇּתֵם אֶחָד מֵהֶם,
 אוֹ אִם יִפָּתֵֽחַ אֶחָד מֵהֶם,
@@ -35,7 +35,7 @@ Who made my body so wisely, with holes and openings where they should be.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 I don't take what health I have for granted.  
 I know that I am only temporarily in this state of ability,
 and that all functions of my body are miracles of You acting through evolution.  
@@ -43,12 +43,12 @@ and that all functions of my body are miracles of You acting through evolution.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 But also God, I feel shame about my body.  
 I feel shame about my troubles with 
 <span class="instruction">(add whatever is on your heart: 
@@ -66,12 +66,12 @@ asking for what my body needs, etc.)</span>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Please help me stay awake to the miracle of my body.  
 Please help me bring the shame I feel into the light, to You
 so You can heal it with Your total love.  
@@ -79,13 +79,13 @@ so You can heal it with Your total love.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה יְיָ
 רוֹפֵא כׇל בָּשָׂר וּמַפְלִיא לַעֲשֹוֹת׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 I bless You, Holy One, 
 who creates healing and miracles.[foot]Cf. Talmud Bavli Brachot 60b.[/foot]
 </div></td></tr>

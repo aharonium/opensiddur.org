@@ -12,13 +12,13 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שְׁמַ֖ע יִשְׂרָאֵ֑ל
 </span></div>
  </td>
   
  <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Sh'sh'sh'ma Yisra'el —
 Listen, You Godwrestlers!
 Pause from your wrestling and hush'sh'sh
@@ -30,13 +30,13 @@ YHWH/ Yahh
 
 <tr>
  <td style="vertical-align:top;" width="46%">
- <div class="liturgy"><span lang="he">
+ <div class="liturgy" lang="he">
  
 </span></div>
  </td>
   
  <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Hear in the stillness the still silent voice,
 The silent breathing that intertwines life;
 </div></td>
@@ -45,13 +45,13 @@ The silent breathing that intertwines life;
 
 <tr>
  <td style="vertical-align:top;" width="46%">
- <div class="liturgy"><span lang="he">
+ <div class="liturgy" lang="he">
  יְהוָ֥ה אֱלֹהֵ֖ינוּ 
 </span></div>
  </td>
   
  <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 YHWH/ Yahh elohenu
 Breath of life is our God,
 What unites all the varied
@@ -65,13 +65,13 @@ And all unified;
 
 <tr>
  <td style="vertical-align:top;" width="46%">
- <div class="liturgy"><span lang="he">
+ <div class="liturgy" lang="he">
 יְהוָ֥ה ׀ אֶחָֽד׃
 </span></div>
  </td>
   
  <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 YHWH / Yahh echad!
 Yahh is One.
 Listen, You Godwrestlers!
@@ -85,13 +85,13 @@ YHWH / Yahh is One.
 
 <tr>
  <td style="vertical-align:top;" width="46%">
- <div class="liturgy"><span lang="he">
+ <div class="liturgy" lang="he">
 וּכְתַבְתָּ֛ם עַל־מְזוּזֹ֥ת בֵּיתֶ֖ךָ 
 </span></div>
  </td>
   
  <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 So at the gates of your cities,
 where your own culture ends,
 and another begins,
@@ -105,13 +105,13 @@ And you halt there in fear:
 
 <tr>
  <td style="vertical-align:top;" width="46%">
- <div class="liturgy"><span lang="he">
+ <div class="liturgy" lang="he">
 וּבִשְׁעָרֶֽיךָ׃
 </span></div>
  </td>
   
  <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Then pause in the gateway to write on its wall
 And to chant in its passage:
 "Each gate is unique
@@ -122,7 +122,7 @@ And to chant in its passage:
 
 <tr>
  <td style="vertical-align:top;" width="46%">
- <div class="liturgy"><span lang="he">
+ <div class="liturgy" lang="he">
 וְהָיָה אִם שָׁמֹעַ תִּשְׁמְעוּ 
 אֶל מִצְוֺתַי 
 אֲשֶׁר אָנֹכִי מְצַוֶּה אֶתְכֶם הַיּוֹם, 
@@ -137,7 +137,7 @@ And to chant in its passage:
  </td>
   
  <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 If you listen, yes listen
 to the teachings of YHWH/ Yahh,
 the One Breath of Life,
@@ -155,7 +155,7 @@ the good earth will fruitfully feed you.
 
 <tr>
  <td style="vertical-align:top;" width="46%">
- <div class="liturgy"><span lang="he">
+ <div class="liturgy" lang="he">
 הִשָּׁמְרוּ לָכֶם 
 פֶּן יִפְתֶּה לְבַבְכֶם, 
 וְסַרְתֶּם 
@@ -165,7 +165,7 @@ the good earth will fruitfully feed you.
  </td>
   
  <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 But —
 chop the world into parts
 and choose parts to worship —
@@ -178,13 +178,13 @@ gods of greed and addiction;
 
 <tr>
  <td style="vertical-align:top;" width="46%">
- <div class="liturgy"><span lang="he">
+ <div class="liturgy" lang="he">
  
 </span></div>
  </td>
   
  <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 If you Do and you Make,
 and Produce without pausing;
 If you Do without Being —
@@ -194,7 +194,7 @@ If you Do without Being —
 
 <tr>
  <td style="vertical-align:top;" width="46%">
- <div class="liturgy"><span lang="he">
+ <div class="liturgy" lang="he">
 וְחָרָה אַף יְיָ בָּכֶם וְעָצַר אֶת הַשָּׁמַיִם 
 וְלֹא יִהְיֶה מָטָר 
 וְהָאֲדָמָה 
@@ -206,7 +206,7 @@ If you Do without Being —
  </td>
   
  <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Then the rain will not fall —
 or will turn to sharp acid —
 The rivers won't run —
@@ -226,13 +226,13 @@ yes, perish.
 
 <tr>
  <td style="vertical-align:top;" width="46%">
- <div class="liturgy"><span lang="he">
+ <div class="liturgy" lang="he">
 וְהָיָ֣ה לָכֶם֮ לְצִיצִת֒ וּרְאִיתֶ֣ם אֹת֗וֹ וּזְכַרְתֶּם֙ אֶת־כָּל־מִצְוֺ֣ת יְהוָ֔ה וַעֲשִׂיתֶ֖ם אֹתָ֑ם וְלֹֽא־תָתֻ֜רוּ אַחֲרֵ֤י לְבַבְכֶם֙ וְאַחֲרֵ֣י עֵֽינֵיכֶ֔ם אֲשֶׁר־אַתֶּ֥ם זֹנִ֖ים אַחֲרֵיהֶֽם׃ 
 </span></div>
  </td>
   
  <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 So on edge with your Self
 take care to weave fringes,
 threads of connection.
@@ -250,12 +250,12 @@ Make One from our one-ness.
 
 <tr>
  <td style="vertical-align:top;" width="46%">
- <div class="liturgy"><span lang="he">
+ <div class="liturgy" lang="he">
 </span></div>
  </td>
   
  <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Good fringes/ good neighbors.
 Deep mirrors/ true seeing.
 Time loving/ right action.

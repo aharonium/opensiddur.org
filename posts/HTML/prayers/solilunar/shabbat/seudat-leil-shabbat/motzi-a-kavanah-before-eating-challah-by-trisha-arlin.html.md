@@ -11,12 +11,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Blessed <em>HaMavdeel</em>, the Divider of Time:
 
 <p style="padding-left: 30px;">For separating the whole into increments that we may comprehend it, we are thankful.</p>
@@ -24,12 +24,12 @@ Blessed <em>HaMavdeel</em>, the Divider of Time:
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Blessed <em>Adonai Eḥad</em>, the Uniter Of All Existence:
 
 <p style="padding-left: 30px;">For connecting us that we may be one, we are thankful.</p>
@@ -37,12 +37,12 @@ Blessed <em>Adonai Eḥad</em>, the Uniter Of All Existence:
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Blessed <em>Ain Sof</em>, That Which Cannot Be Known:
 
 <p style="padding-left: 30px;">For providing us with so many interesting questions, we are thankful.</p>
@@ -50,12 +50,12 @@ Blessed <em>Ain Sof</em>, That Which Cannot Be Known:
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Blessed <em>Ruaḥ HaOlam</em>, The Breath That Animates:
 
 <p style="padding-left: 30px;">For giving us teachers that we may learn, we are thankful.</p>
@@ -63,12 +63,12 @@ Blessed <em>Ruaḥ HaOlam</em>, The Breath That Animates:
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Blessed One Who Spoke and created the world:
 
 <p style="padding-left: 30px;">For this ḥallah, and the portion of dough we take off before we bake it in order to sustain high priests, artists and those who are in need, we are thankful.</p>
@@ -76,12 +76,12 @@ Blessed One Who Spoke and created the world:
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Blessed <em>Shekhina</em>, the Soul of Eternity, in whose spirit we create:
 
 <p style="padding-left: 30px;">For the guidance and joy and music and knowledge that our clergy give to us, we are thankful.</p>
@@ -89,12 +89,12 @@ Blessed <em>Shekhina</em>, the Soul of Eternity, in whose spirit we create:
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Blessed <em>Elohim</em>, God of our ancestors who embodies the chain of work:
 
 <p style="padding-left: 30px;">For the seed and the farmer and the picker and the miller and the baker and the trucker and the store owner and the shopper, who brought us this ḥallah that we bless together, we are thankful.</p>
@@ -102,12 +102,12 @@ Blessed <em>Elohim</em>, God of our ancestors who embodies the chain of work:
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Blessed <em>Yah</em>, God of our future who is embodied by the chain of love:
 
 <p style="padding-left: 30px;">For the parents and the family and the partners and the friends and the teachers and the ḥevruta and the congregations who brought us to this moment that we may eat together, we are thankful.</p>
@@ -115,12 +115,12 @@ Blessed <em>Yah</em>, God of our future who is embodied by the chain of love:
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה יְהֹוָה אֱלֹהֵֽינוּ מֶֽלֶךְ הָעוֹלָם הַמוֹצִיא לֶֽחֶם מִן הָאֲרֶץ׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 (<em>sing</em>) <em>Barukh ata Adonai eloheinu melekh haolam, hamotzi leḥem min ha'aretz</em>.
 </div></td></tr>
 </tbody></table>

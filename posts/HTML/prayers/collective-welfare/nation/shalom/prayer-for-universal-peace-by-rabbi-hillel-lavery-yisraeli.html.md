@@ -11,12 +11,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;"><a href="https://opensiddur.org/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Adaptation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May we merit to bring about the day when war and bloodshed cease, 
 and a great peace embraces the whole universe. 
 “No nation will lift up a sword to another, 
@@ -25,12 +25,12 @@ and the art of war will no longer be studied.”[foot]Isaiah 2:4.[/foot]
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May we live to see the leaders of all the nations 
 inspired to do good with their peoples 
 and with all other peoples of the world, 
@@ -43,12 +43,12 @@ and the sword will no longer pass in your Land.”[foot]Leviticus 26:6.[/foot]
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Let knowledge fill the Earth as water fills the ocean,[foot]Cf. Habakkuk 2:14, Isaiah 11:9, etc.[/foot]
 and let all people of all ethnicities, races, beliefs, genders and orientations 
 enjoy true equality, security, safety and livelihood, 
@@ -57,12 +57,12 @@ in a true spirit of co-existence and cooperation.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And let us say, <em>Amen</em>.
 </div></td></tr>
 </tbody></table>
@@ -84,7 +84,7 @@ The prayer for peace appearing in Siddur Sim Shalom is adapted from the Prayer f
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְהִי רָצוֹן מִלְפָנֶֽיךָ יהוה אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֹתֵֽינוּ וְאִמּוֹתֵֽינוּ
 שֶׁתְּבַטֵּל מִלְחָמוֹת וּשְׁפִיכוּת דָּמִים מִן הָעוֹלָם
 וְתָמְשִׁיךְ שָׁלוֹם גָּדוֹל וְנִפְלָא בָּעוֹלָם,
@@ -93,7 +93,7 @@ The prayer for peace appearing in Siddur Sim Shalom is adapted from the Prayer f
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May it be your will YHVH our <em>elo'ah</em>, and <em>elo'ah</em> of our forefathers and foremothers,
 That we see the day when war and bloodshed cease from the work, 
 when a great peace and wonder will embrace the whole world.
@@ -103,7 +103,7 @@ and the human family will not again know war.[foot]Isaiah 2:4.[/foot]
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רַק יַכִּֽירוּ וְיֵדְעוּ כׇּל־יוֹשְׁבֵי תֵבֵל הָאֱמֶת לַאֲמִתּוֹ
 אֲשֶׁר לֹא בָֽאנוּ לָזֶה הָעוֹלָם בִּשְׁבִיל רִיב וּמַחֲלֹֽקֶת
 וְלֹא בִּשְׁבִיל שִׂנְאָה וְקִנְאָה וְקִנְתּוּר וּשְׁפִיכוּת דָּמִים.
@@ -111,7 +111,7 @@ and the human family will not again know war.[foot]Isaiah 2:4.[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Rather, let all who live on Earth recognize and know the truth in its truest sense,
 that we haven't come into this world for fighting and controversy,
 nor for hatred, envy, provocation or bloodshed,
@@ -120,18 +120,18 @@ rather we have come into the world in order to know You, may You be eternally bl
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Compassionate God, bless the leaders of all nations with the power of compassion.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּבְכֵן תְּרַחֵם עָלֵֽינוּ וִיקֻיַּם בָּֽנוּ מִקְרָא שֶׁכָּתוּב׃
 וְנָתַתִּֽי שָׁלוֹם בָּאָֽרֶץ 
 וּשְׁכַבְתֶּם וְאֵין מַחֲרִיד <span class="citation">(ויקרע כו:ו)</span>
@@ -142,7 +142,7 @@ Compassionate God, bless the leaders of all nations with the power of compassion
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Fulfill the promise conveyed in Scripture:
 "I will bring peace to the land,
 and you shall lie down and no one shall terrify you."[foot]Leviticus 26:6.[/foot]
@@ -154,12 +154,12 @@ Let God’s peace fill the earth as the waters fill the sea."[foot]Isaiah 11:9.[
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And let us say: <em>Amen</em>.
 </div></td></tr>
 </tbody></table>

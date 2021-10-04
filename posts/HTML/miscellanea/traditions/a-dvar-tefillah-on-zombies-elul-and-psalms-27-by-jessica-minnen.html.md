@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 As the month of Elul wanes, we are preparing. We prepare for the new moon, we prepare for Rosh Hashanah, and we prepare for the zombie invasion. I have it on good authority, as do you, that the onslaught is imminent. The alarm blares every morning -- a shofar blast and a warning:
 </div>
 
@@ -15,20 +15,20 @@ As the month of Elul wanes, we are preparing. We prepare for the new moon, we pr
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בִּקְרֹב עָלַי מְרֵעִים לֶאֱכֹל אֶת־בְּשָׂרִי
 </span></div>
 
-<span class="english"><em>Bikrov 'alai m'ray-im le'ekhol et-b'sari</em></span>
+<span class="english" lang="en"><em>Bikrov 'alai m'ray-im le'ekhol et-b'sari</em></span>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Evil ones draw near to me to consume my flesh.
 </div></td></tr>
 </tbody></table>
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 This line is taken from the second verse of Psalm 27, which is said every day from the first of Elul until Hoshana Rabbah. The tradition of its recitation is not mentioned in the Talmud, nor by any of the Geonim. The custom is not cited by the Rambam, nor can it be found in the <em>Tur</em>, the <em>Shulḥan Arukh</em>, or many later codes of Jewish Law. Its earliest appearance is in 1745 in <em>Siddur Bet Yaakov</em> by the German rabbi and talmudist Yaakov Emden.
 
 The zombie -- now enjoying a resurgence in popular culture -- is an amalgamation of West African and Haitian Creole mysticism that gained footing in western folklore during the 19th century. But it wasn’t until George Romero’s now-classic 1968 film Night of the Living Dead that the idea of a flesh-eating zombie apocalypse became a sub-genre of the American consciousness.
@@ -46,20 +46,20 @@ This Elul, I am trying to recite Psalm 27 every day, and as I do, to allow mysel
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֶת־פָּנֶיךָ יְהוָה אֲבַקֵּשׁ
 </span></div>
 
-<span class="english"><em>Et panekha [Adonai] 'avakesh</em></span></td>
+<span class="english" lang="en"><em>Et panekha [Adonai] 'avakesh</em></span></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
-<div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<div class="english" lang="en">
 [Adonai], I seek Your face!
 </div></td>
 </tr>
 </tbody></table>
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 May this new year, 5772, be for all of us a year in which we -- together with God’s help -- keep the zombies at bay.
 </div>
 
@@ -67,14 +67,14 @@ May this new year, 5772, be for all of us a year in which we -- together with Go
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 תהלים כז
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">Psalms 27[foot]Translation from the JPS 1917 Tanach[/foot]</div></td>
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">Psalms 27[foot]Translation from the JPS 1917 Tanach[/foot]</div></td>
 </tr><tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>א</sup> לְדָוִד
 יְהוָה אוֹרִי וְיִשְׁעִי מִמִּי אִירָא
 יְהוָה מָעוֹז חַיַּי מִמִּי אֶפְחָד. ‏
@@ -116,7 +116,7 @@ May this new year, 5772, be for all of us a year in which we -- together with Go
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <sup>1</sup> [A Psalm] of David.
 The LORD is my light and my salvation; whom shall I fear?
 The LORD is the stronghold of my life; of whom shall I be afraid?

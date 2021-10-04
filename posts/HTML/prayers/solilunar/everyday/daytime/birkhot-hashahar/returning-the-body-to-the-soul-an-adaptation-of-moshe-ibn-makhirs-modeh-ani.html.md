@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 I have difficulty with the idea of thanking God for "returning my soul to me" <em>sheheḥezarta bi nishmati</em> when I’m getting up with an awareness of trying to stay in touch with my dreams. It’s not my soul that’s been missing through the night; I’m returning to experience my body. So I much prefer what I heard someone suggest, that instead of saying <em>nishmati</em> (my soul), to say instead <em>ha-</em>[hitgalmut shel] <em>nishmati</em> (the embodiment of my soul). I thank God for returning me to my body -- my soul was never missing! In the words of my Sufi teacher Murat Yagan, “I am a soul, and I have a body." --Ya'qub ibn Yusuf
 </div>
 
@@ -17,7 +17,7 @@ I have difficulty with the idea of thanking God for "returning my soul to me" <e
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מוֹדָה|מוֹדֶה אֲנִי לְפָנֶיךָ
 מֶֽלֶךְ חַי וְקַיָּם
 שֶׁהֶחֱזַרְתָּ בִּי
@@ -27,7 +27,7 @@ I have difficulty with the idea of thanking God for "returning my soul to me" <e
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 So thankful am I before you,
 Living and enduring Majesty,
 for you have returned to me 

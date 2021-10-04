@@ -17,7 +17,7 @@ Making digital images of these works available is the first step in our process 
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.archive.org/stream/RabbotaiNevarehPaltielBirnbaumAndMosheNathanson1954#page/n2/mode/2up"]
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 <h3>Foreword</h3>
 
 The Cantors Assembly of America takes pride in presenting, for the first time, the entire <em>Birkat Hamazon</em> set to music. The traditional melodies, which are uni versally sung, have been retained and new melodies in keeping with our modes (<em>Nuschaot</em>) have been composed for those portions of grace which heretofore were not sung. Music for the special grace blessings for a <em>Brith Milah</em>, for weddings and also for the <em>Sheva Brachot</em> have been included. Much thought was given to the voice range and the singability of all of the melodies. 

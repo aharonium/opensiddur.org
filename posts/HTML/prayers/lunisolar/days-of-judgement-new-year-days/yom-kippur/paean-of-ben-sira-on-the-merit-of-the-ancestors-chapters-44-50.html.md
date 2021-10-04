@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 The apocryphal book of Ben Sira is one of the strangest omissions from the Biblical canon. Of all the books in the apocrypha, it's the one which seems like it *would* be the least controversial — an assortment of traditional wisdom and piety, in the vein of the earlier chapters of Proverbs. It also concludes with an extensive poem lauding the merit of the ancestors, finishing with a glorious acclamation of Shimon ben Yoḥanan the High Priest, also known as the Shimon haTzadik, a beloved figure in rabbinic literature. And unlike the other apocryphal books whose original texts were lost, the Hebrew text of Ben Sira was preserved! So why was this book kept out of the canon, while radical dissents like Kohelet and Job were kept in? Well, probably it just boils down to the fact that Ben Sira signed his name, meaning the text could be dated back to him, and he was late enough that it could not be claimed to be prophetic inspiration. In any case, the influence of Ben Sira on Judaism is probably greater than any other apocryphal book. Not only is it the only apocryphal book openly cited in the Talmud, but its discovery in the Cairo Geniza was what led Solomon Schechter to realize its importance. Not to mention that the glorious poem lauding the ancestors from Chapters 44 to 50 is considered by many scholars to be the original influence for the Yom Kippur Avodah service, and the paean to Shimon the Righteous bears a striking similarity to the beloved piyyut "Mar'eh Khohen." This passage from Ben Sira, the great paean on the merit of the ancestors, takes the Hebrew text of one of the Cairo Geniza manuscripts — Bodleian MS Heb e62 — and versifies it according to the standard Septuagintal text, along with vocalization and cantillation per the standard Masoretic EMe"T system for poetic books. It could be read on Yom Kippur for the avodah service, or just studied as a fascinating piece of Jewish history.
 
 Note: “The CAUSE” is used to translate the Divine Name YHVH, based on the philosophical idea of God as the Prime Mover and on the interpretation of the Name as a causative form of the copula – “causes to be.”
@@ -17,7 +17,7 @@ Note: “The CAUSE” is used to translate the Divine Name YHVH, based on the ph
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>44:1</sup>&nbsp;אֲהַלְלָה־נָ֭א אַ֣נְשֵׁי חָ֑סֶד
 אֶ֝ת־אֲבוֹתֵ֗ינוּ בְּדֹרֹתָֽם׃
 <sup>44:2</sup>&nbsp;רַ֬ב כָּב֗וֹד חָלַק לָ֭הֶם עֶלְי֑וֹן 
@@ -39,7 +39,7 @@ Note: “The CAUSE” is used to translate the Divine Name YHVH, based on the ph
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <sup>44:1</sup>&nbsp;Let me praise men of piety; 
 our ancestors in their generations.
 <sup>44:2</sup>&nbsp;Much honor the Highest apportioned them, 
@@ -62,7 +62,7 @@ and their glory in their days.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>44:8</sup>&nbsp;יֵשׁ־מֵהֶ֣ם הֵנִ֣יחוּ שָׂ֑ם
 לְהִשְׁתַּע֥וֹת בְּנַחֲלָתָֽם׃
 <sup>44:9</sup>&nbsp;וְיֵ֤שׁ מֵהֶ֨ם ׀ אֲשֶׁ֤ר ׀ אֵ֬ין ל֗וֹ זֵ֘כֶר
@@ -84,7 +84,7 @@ and their glory in their days.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <sup>44:8</sup>&nbsp;Some of them left a name, 
 to be paid attention to in their inheritance.
 <sup>44:9</sup>&nbsp;And some of them have no remembrance, 
@@ -107,7 +107,7 @@ and their praises the congregation will tell.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>44:16</sup>&nbsp;חֲנ֡וֹךְ ׀ נִמְצָ֣א תַּ֭מִּים וְהִתְהַלֵּ֣ךְ עִם־יהו֑ה 
 וְנִלְקַ֥ח א֝וֹת־דַּ֗עַת לְד֥וֹר וָדֽוֹר׃
 <sup>44:17</sup>&nbsp;נֹ֨חַ צַדִּ֤יק ׀ נִמְצָ֬א תַּמִּ֗ים 
@@ -119,7 +119,7 @@ and their praises the congregation will tell.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <sup>44:16</sup>&nbsp;Ḥanokh was found pure and walked with the CAUSE, 
 and was taken, a known sign for each generation.
 <sup>44:17</sup>&nbsp;Noaḥ the righteous was found pure; 
@@ -132,7 +132,7 @@ never to destroy all flesh.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>44:19</sup>&nbsp;אַבְרָהָ֗ם אָ֭ב הֲמ֣וֹן גּוֹיִ֑ם
 לֹ֨א נָתַ֥ן בִּ֝כְבוֹד֗וֹ דָּפִֽי׃
 <sup>44:20</sup>&nbsp;אֲשֶׁ֤ר שָׁמַ֨ר ׀ מִצְוַ֥ת עֶלְיוֹן֘
@@ -146,7 +146,7 @@ never to destroy all flesh.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <sup>44:19</sup>&nbsp;Avraham a father of many nations, 
 no blemish found in his glory.
 <sup>44:20</sup>&nbsp;Who kept the commandment of the Highest, 
@@ -161,7 +161,7 @@ and from the river to the end of the earth.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>44:22</sup>&nbsp;וְגַ֤ם לְיִצְחָ֨ק ׀ הֵקִ֬ים כֵּ֗ן 
 בַּ֭עֲבוּר אַבְרָהָ֣ם אָבִ֑יו
 בְּרִ֣ית כׇּל־רִאשׁ֣וֹן נָתָֽנוּ׃
@@ -175,7 +175,7 @@ and from the river to the end of the earth.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <sup>44:22</sup>&nbsp;And also, to Yitsḥaq it was held up, 
 for the sake of Avraham his father,
 A covenant of the firstborn he gave. 
@@ -190,7 +190,7 @@ who found grace in the eyes of all life.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>45:1</sup>&nbsp;אָה֣וּב אֱ֭לֹהִים וַאֲנָשִׁ֑ים
 מֹשֶׁ֖ה זִכְר֣וֹ לְטוֹבָֽה׃
 <sup>45:2</sup>&nbsp;וַ֭יְכַבְּדֵֽהוּ כִּקְדוֹשֵׁ֣י אֱלֹהִ֑ים 
@@ -210,7 +210,7 @@ who found grace in the eyes of all life.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <sup>45:1</sup>&nbsp;Beloved of God and men, 
 Moshe, his memory be for good!
 <sup>45:2</sup>&nbsp;And God glorified him like the holy ones, 
@@ -231,7 +231,7 @@ and its precepts and judgements to Israel.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>45:6</sup>&nbsp;וַיָּרֶ֬ם קָד֗וֹשׁ אֶת־אַהֲרֹ֖ן לְמַטֶּ֣ה לֵוִֽי׃
 <sup>45:7</sup>&nbsp;וַיְשִׂימֵ֡הוּ ׀ לְחׇק־עוֹלָ֤ם ׀ 
 וַיִּ֬תֵּן ל֗וֹ הוֹדוֹ֘
@@ -277,7 +277,7 @@ and its precepts and judgements to Israel.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <sup>45:6</sup>&nbsp;And God raised to holiness Aharon of the tribe of Levi. 
 <sup>45:7</sup>&nbsp;And set for him an eternal law,
 And gave him Divine beauty, 
@@ -324,7 +324,7 @@ and to atone for the children of Israel.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>45:18</sup>&nbsp;וַיִּ֤תֶּן ל֨וֹ ׀ כׇּל־מִצְוֹתָ֗יו
 וַיַּמְשִׁילֵ֗הוּ בְּחֹ֫ק וּמִשְׁפָּ֥ט
 וַיְּלַמֵּ֣ד אֶת־עַמּ֣וֹ חֹ֑ק
@@ -339,7 +339,7 @@ and to atone for the children of Israel.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <sup>45:18</sup>&nbsp;And God gave him all the commandments, 
 and had him lead in law and judgment,
 And he taught his people law, 
@@ -355,7 +355,7 @@ and consumed them all in fire.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>45:21</sup>&nbsp;וַיּ֤רֶם לְאַהֲרֹ֨ן ׀ כְּבוֹד֗וֹ 
 וַיִּֽתֵּן־ל֭וֹ נַחֲלָת֑וֹ 
 רֵאשִׁ֣ית כׇּל־קֹ֖דֶשׁ נָ֣תַן־לוֹ לָֽחֶם׃
@@ -369,7 +369,7 @@ and consumed them all in fire.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <sup>45:21</sup>&nbsp;And raised Aharon in glory, 
 and gave him his inheritance, 
 the first of all holy, bread given him.
@@ -384,7 +384,7 @@ In the midst of all Israel.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>45:25</sup>&nbsp;וְגַ֓ם ׀ פִּינְחָ֨ס בֶּן־אֶלְעָזָ֤ר ׀
 בִּגְבוּרָ֗ה הָיָ֬ה שְׁלִישִׁ֗י לְכָבוֹד֘
 בְּקַנְּא֢וֹ לֶאֱלֹ֫הֵי כֹּ֥ל
@@ -398,7 +398,7 @@ In the midst of all Israel.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <sup>45:25</sup>&nbsp;And also Pinḥas son of El’azar,
 In might a third of glory; 
 in his zeal for the God of All
@@ -413,7 +413,7 @@ a great priesthood forever.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>45:27</sup>&nbsp;וְגַ֨ם בְּרִית֤וֹ ׀ עִם־דָּוִד֘
 בֶּן־יִשַׁי֢ לְמַטֶּ֫ה יְהוּדָ֤ה
 נַחֲלַת־אֵ֣שׁ לִפְנֵ֣י כְבוֹד֑וֹ
@@ -426,7 +426,7 @@ a great priesthood forever.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <sup>45:27</sup>&nbsp;And the covenant with David,
 son of Yishai of the tribe of Judah, 
 a fire-portion before God’s glory,
@@ -440,7 +440,7 @@ in your generation, for eternal generations.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>46:1</sup>&nbsp;גִּבּ֤וֹר בֶּן־חַ֨יִל ׀ יְהוֹשֻׁ֬עַ בִּן־נ֗וּן
 מְשָׁרֵ֤ת ׀ מֹשֶׁ֬ה בִּנְבוּאָ֗ה
 אֲשֶׁ֨ר נוֹצַר֘ לִהְי֢וֹת בְּ֫יָמָ֥יו 
@@ -465,7 +465,7 @@ in your generation, for eternal generations.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <sup>46:1</sup>&nbsp;A valiant warrior, Yehoshua’ son of Nun, 
 ministering to Moshe in prophecy,
 Of whom, made to be in his days 
@@ -491,7 +491,7 @@ And he was fully following God.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>46:7</sup>&nbsp;וּבִימֵ֤י מֹשֶׁ֨ה ׀ עָ֬שָׂה חֶ֗סֶד
 ה֨וּא ׀ וְכָלֶ֬ב בֶּן־יְפֻנֶּ֗ה
 לְהִתְיַצֵּ֣ב בְּפֶ֣רַע קָהָ֑ל 
@@ -509,7 +509,7 @@ And he was fully following God.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <sup>46:7</sup>&nbsp;And in the days of Moses he did piety, 
 he and Kalev son of Yefunneh, 
 standing in the rioting community, 
@@ -528,7 +528,7 @@ that it is good to fully follow after the CAUSE.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>46:11</sup>&nbsp;וְהַשּׁוֹפְטִ֗ים אִ֥ישׁ בִּשְׁמוֹ֘
 כׇּל־אֲשֶׁ֢ר לֹא־נָשָׂ֫א לִבּ֥וֹ
 וְלֹ֣א נָס֣וֹג מֵאַ֣חֲרֵי אֵ֑ל
@@ -538,7 +538,7 @@ that it is good to fully follow after the CAUSE.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <sup>46:11</sup>&nbsp;And the judges, each with their name, 
 each one who did not turn his heart,
 Nor swerve from after God; 
@@ -549,7 +549,7 @@ and their names remain for their descendants.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>46:13</sup>&nbsp;נָזִי֨ר אוֹהֵ֤ב עַמּ֨וֹ ׀ וְרָצוּ֨י עוֹשֵׂ֤הוּ
 ׀ הַשָּׁא֡וּל ׀ מִבֶּ֨טֶן אִמּ֤וֹ
 ׀ נָזִ֥יר יהו֬ה בִּנְבוּאָ֗ה
@@ -581,7 +581,7 @@ and their names remain for their descendants.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <sup>46:13</sup>&nbsp;A monk, popularly beloved, desired by his Maker; 
 requested from his mother’s womb;
 A monk of the CAUSE in prophecy, 
@@ -614,7 +614,7 @@ and his voice lifted from the ground in prophecy.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>47:1</sup>&nbsp;וְגַ֣ם אַ֭חֲרָיו עָמַ֣ד נָתַ֑ן 
 לְ֝הִתְיַצֵּ֗ב לִפְנֵ֥י דָּוִֽד׃ 
 <sup>47:2</sup>&nbsp;כִּ֓י ׀ בַּחֵ֣לֶב מוּרָ֣ם מִקֹּ֑דֶשׁ 
@@ -652,7 +652,7 @@ and his voice lifted from the ground in prophecy.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <sup>47:1</sup>&nbsp;And also, after him, Natan stood up, 
 to stand before David,
 <sup>47:2</sup>&nbsp;For just as the suet is the holiest part, 
@@ -691,7 +691,7 @@ and his throne set over Jerusalem.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>47:12</sup>&nbsp;וּבַעֲבוּר֣וֹ עָמַ֣ד אַחֲרָ֑יו 
 בֵּ֣ן מַ֝שְׂכִּ֗יל שׁוֹכֵ֥ן לַבָּֽטַח׃
 <sup>47:13</sup>&nbsp;שְׁלֹמֹ֓ה ׀ מֶ֨לֶךְ ׀ בִּימֵ֬י שָׁלְוָ֗ה
@@ -709,7 +709,7 @@ and his throne set over Jerusalem.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <sup>47:12</sup>&nbsp;And for his sake stood up after him 
 a wise son, dwelling securely.
 <sup>47:13</sup>&nbsp;King Shlomo, in days of tranquility, 
@@ -728,7 +728,7 @@ the peoples were astounded.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>47:18</sup>&nbsp;נִקְרֵ֨אתָ ׀ בְּשֵׁ֬ם הַנִּכְבָּ֗ד
 הַנִּקְרָא֘ עַ֢ל יִ֫שְׂרָאֵ֥ל
 וַתִּצְבָּ֣ר כַּבַּרְזֶ֣ל זָהָ֑ב
@@ -750,7 +750,7 @@ the peoples were astounded.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <sup>47:18</sup>&nbsp;You were called by the Glorious Name, 
 called over Israel,
 And amassed gold like iron, 
@@ -773,7 +773,7 @@ and to David set down a root.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>47:23</sup>&nbsp;וַיִּשְׁכַּ֤ב שְׁלֹמֹ֨ה ׀ מְיֹאַ֗שׁ
 וַיַּעֲזֹ֤ב אַחֲרָ֨יו ׀ מִזְּרֹע֗וֹ
 רְחַ֤ב אִוֶּ֨לֶת ׀ וַחֲסַ֬ר בִּינָ֗ה
@@ -787,7 +787,7 @@ and to David set down a root.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <sup>47:23</sup>&nbsp;And Shlomo lay down in despair, 
 and his seed left him; 
 wide in stupidity and lacking in wisdom, 
@@ -802,7 +802,7 @@ and to all evil he devoted himself.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>48:1</sup>&nbsp;עַד־אֲשֶֽׁר־קָ֭ם נָבִ֣יא כָּאֵ֑שׁ
 וּ֝דְבָרָ֗יו כְּתַנּ֣וּר בּוֹעֵֽר׃
 <sup>48:2</sup>&nbsp;וַיְשַׁבֵּ֣ר לָ֭הֶם מַ֣טֵּה לָ֑חֶם
@@ -840,7 +840,7 @@ and to all evil he devoted himself.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <sup>48:1</sup>&nbsp;Until arose a prophet like fire, 
 and his words like a flaming oven.
 <sup>48:2</sup>&nbsp;And he shattered for them a staff of bread, 
@@ -881,7 +881,7 @@ and in his death powerful deeds.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>48:14</sup>&nbsp;בְּכׇל־זֹא֡ת ׀ לֹא־שָׁ֬ב הָעָ֗ם
 ׀ וְלֹ֤א חָדְל֨וּ ׀ מֵחַטֹּאתָ֗ם ׀
 עַד־אֲשֶׁ֨ר ׀ נָסְח֬וּ מֵאַרְצָ֗ם ׀ 
@@ -919,7 +919,7 @@ and in his death powerful deeds.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <sup>48:14</sup>&nbsp;For all this, the people did not repent, 
 nor abandon their sins,
 Until they were pulled from their land, 
@@ -958,7 +958,7 @@ and secrets before they came.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>49:1</sup>&nbsp;שֵׁ֨ם יֹאשִׁיָּ֤הוּ ׀ כִּקְטֹ֬רֶת סַמִּ֗ים
 הַמְּמֻלָּח֘ מַעֲשֶׂ֢ה ר֫וֹקֵ֥חַ 
 בְּחֵ֥ךְ כִּ֭דְבַשׁ יַמְתִּ֣יק זִכְר֑וֹ 
@@ -970,7 +970,7 @@ and secrets before they came.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <sup>49:1</sup>&nbsp;The name of Yoshiyahu like incense smoke, 
 spiced by the perfumer’s work;
 Like honey on the palate his memory is sweet, 
@@ -983,7 +983,7 @@ and in impious days did piety.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>49:4</sup>&nbsp;לְבַ֤ד מִדָּוִ֨ד ׀ יְחִזְקִיָּ֗הוּ
 וְיֹאשִׁיָּ֘הוּ כֻּלָּ֢ם הִ֫שְׁחִית֥וּ
 וַ֭יַּעַזְבוּ תּוֹרַ֣ת עֶלְי֑וֹן
@@ -995,7 +995,7 @@ and in impious days did piety.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <sup>49:4</sup>&nbsp;Other than David and Y’ḥizqiyahu 
 and Yoshiyahu, they all were corrupted,
 and abandoned the Teaching of the Highest, 
@@ -1008,7 +1008,7 @@ and ruined its pathways.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>49:7</sup>&nbsp;בְּיַ֤ד יִרְמְיָ֨הוּ ׀ כִּ֬י עֲנ֗וּהוּ
 וְה֥וּא מִרֶ֘חֶם נוֹצַ֢ר נָ֫בִ֥יא
 לִנְתֹּ֣שׁ וְ֭לִנְתֹּץ וּלְהַאֲבִ֥יד וְלַהֲר֑וֹס
@@ -1034,7 +1034,7 @@ and ruined its pathways.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <sup>49:7</sup>&nbsp;Per the hand of Yirmiyahu who they mistreated, 
 and he from the womb was made a prophet;
 To uproot and pull down and destroy and overthrow, 
@@ -1061,7 +1061,7 @@ and set up the double-doors and bolt.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>49:13</sup>&nbsp;מְעַ֡ט ׀ נוֹצַ֣ר עַל־הָ֭אָֽרֶץ <span style="color:#808080;">[כהניך]</span> כַּחֲנ֑וֹךְ[foot]Hebrew manuscript reads כהניך “your priests”, most likely a scribal error for the similar-looking but comparatively rare word כחנוך “like Enoch.” Here this is represented as a qere/ketiv split.[/foot]
 וְגַם־ה֖וּא נִלְקַ֣ח פָּנִֽים׃
 <sup>49:14</sup>&nbsp;כְּ֭יוֹסֵף אִם־נוֹלָ֣ד גָּ֑בֶר
@@ -1071,7 +1071,7 @@ and set up the double-doors and bolt.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <sup>49:13</sup>&nbsp;Few were made on Earth like Ḥanokh[foot]Hebrew manuscript reads כהניך “your priests”, most likely a scribal error for the similar-looking but comparatively rare כחנוך“like Ḥanokh.” [/foot], 
 and he was also taken to face.
 <sup>49:14</sup>&nbsp;Has a man been born like Yosef? 
@@ -1082,7 +1082,7 @@ and over all life the beauty of Adam.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>50:1</sup>&nbsp;גָּד֤וֹל אֶחָ֨יו ׀ וְתִפְאֶ֬רֶת עַמּ֗וֹ
 שִׁמְעוֹן֘ בֶּן־יוֹחָנָ֢ן הַ֫כֹּהֵ֥ן
 אֲשֶׁ֥ר בְּדוֹר֣וֹ נִפְקָ֣ד הַבַּ֑יִת
@@ -1160,7 +1160,7 @@ and over all life the beauty of Adam.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <sup>50:1</sup>&nbsp;Greatest by his brothers, glorious by his people, 
 Shim’on son of Yoḥanan the Priest,
 For in his generation the House was accounted for, 
@@ -1241,7 +1241,7 @@ or his seed all the days of heaven.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>50:25</sup>&nbsp;בִּשְׁנֵ֣י גּ֭וֹיִם קָצָ֣ה נַפְשִׁ֑י 
 וְ֝הַשְּׁלִשִׁ֗ית אֵינֶ֥נּוּ עַֽם׃
 <sup>50:26</sup>&nbsp;יוֹשְׁבֵ֣י שֵׂ֭עִיר וּפְלָ֑שֶׁת
@@ -1249,7 +1249,7 @@ or his seed all the days of heaven.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <sup>50:25</sup>&nbsp;Two nations aggravate me, 
 and the third is not even a people.
 <sup>50:26</sup>&nbsp;The inhabitants of Seir and Philistia, 
@@ -1258,7 +1258,7 @@ and the brutish people dwelling in Shechem.[foot]At the time of this composition
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>50:27</sup>&nbsp;מוּסָ֓ר ׀ שֵׂ֡כֶל ׀ וּמוֹשֵׁ֤ל אוֹפַנִּ֨ים ׀
 לְשִׁמְע֗וֹן בֶּן־יֵשׁ֘וּעַ בֶּן־אֶלְעָ֢זָר בֶּ֫ן־סִירָ֥א
 אֲשֶׁ֣ר נִ֭יבַּע בִּפְת֣וֹר לְבָ֑ן 
@@ -1270,7 +1270,7 @@ and the brutish people dwelling in Shechem.[foot]At the time of this composition
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <sup>50:27</sup>&nbsp;Ethics, intelligence, and angelic wisdom 
 of Shim’on son of Yeshua’ son of Ela’zar son of Sira, 
 Which sprung forth with a resolute heart, 

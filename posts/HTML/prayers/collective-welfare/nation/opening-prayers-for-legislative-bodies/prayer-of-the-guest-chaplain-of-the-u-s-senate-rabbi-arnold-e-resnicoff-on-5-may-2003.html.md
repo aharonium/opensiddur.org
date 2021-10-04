@@ -16,23 +16,23 @@ Date of Prayer: 05/05/2003
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <h3>Opening Prayer Given by the Guest Chaplain:</h3>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 O Lord who gives to everything a season, 
 and a time for every purpose under heaven:[foot]Cf. Ecclesiastes 3:1-8[/foot]&nbsp;
 a time for war; 
@@ -51,12 +51,12 @@ so that the time of peace--of real peace--might be.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 We take time now to offer thanks: 
 for freedoms that are far from free, 
 for they are bought and paid for 
@@ -70,12 +70,12 @@ nor ever fully comprehend.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Lord, who gives to every thing a season, 
 and a time for every purpose under heaven,[foot]Cf. Ecclesiastes 3:1-8[/foot]&nbsp;
 we honor those who gave their lives; 
@@ -88,12 +88,12 @@ for whom the battlefields seem much more close to home.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Give us the faith, 
 the strength, 
 the wisdom, too, 
@@ -106,13 +106,13 @@ the world of peace which we must do our part to build.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 אָמֵן׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And let us say, 
 <em>Amen.</em>
 </div></td></tr>

@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 A poem-blessing for trailblazers of many kinds, to honor everyday courage and to inspire trust and self-compassion. May we get the support we need as we midwife the world to come.
 
 [Financial contributions are most welcome, and support further creation and sharing of Ilana's creative work. Venmo to @Ilana-Streit.]
@@ -18,7 +18,7 @@ A poem-blessing for trailblazers of many kinds, to honor everyday courage and to
 <table style="margin-left: auto;margin-right: auto;">
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 may you keep breathing
 &nbsp;&nbsp;&nbsp;&nbsp;each moment
 &nbsp;&nbsp;&nbsp;&nbsp;in and out

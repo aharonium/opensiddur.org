@@ -11,14 +11,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְהִי רָצוֹן מִלְּפָנֶיךָ, 
 בָּעֵת הַזֹּאת זְמַן בְּחִירוֹתֵינוּ, 
 שֶׁתָּדְרִיכֵנוּ לְשָׁלוֹם.
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May it be Your will, 
 at this season of our election, 
 to guide us towards peace.
@@ -27,7 +27,7 @@ to guide us towards peace.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בְּהַצְבָּעָתֵנוּ, 
 אָנוּ מִתְחַיְּבִים לֶהֱיוֹתֵנוּ בְּנֵי הָאֲגוּדָּה, 
 לְקַבָּלַת עוֹל אַחֲרָיוּתֵנוּ 
@@ -35,7 +35,7 @@ to guide us towards peace.
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 By voting, 
 we commit to being full members of society, 
 to accepting our individual responsibility 
@@ -45,7 +45,7 @@ for the good of the whole.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שׁוֹפְטִים וְשׁוֹטְרִים נִתֵן לָנוּ בְּכָל שְׁעָרֵינוּ... 
 וְשָׁפְטוּ אֶת הָעָם מִשְׁפָּט צֵדֶק, <span class="citation">(דברים טז:יח)</span>
 וְנִזְכֶּה לְהִמָּנוֹת בְּתוֹךְ 
@@ -53,7 +53,7 @@ for the good of the whole.
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May we place over ourselves officials in all our gates... 
 who will judge the people with righteousness,[foot]Deuteronomy 16:18.[/foot]&nbsp;
 and may we all merit to be counted among 
@@ -63,7 +63,7 @@ all those who work faithfully for the public good.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 פְּקַח עֵינֵינוּ לִרְאוֹת 
 כָּל מָעֳמָד וְמָעֳמָד וְכָל שַׂר וְיוֹעֶצֶת כִּי הֵם נִבְרְאוּ 
 בְּצֶלֶם אֱלֹהִים, 
@@ -72,7 +72,7 @@ all those who work faithfully for the public good.
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Open our eyes to see 
 in all candidates and elected officials, 
 the image of God
@@ -83,7 +83,7 @@ the image of God
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָמֵץ אֶת לְבָבֵינוּ 
 לִשְׁמוֹר מִצְוַת "וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ", <span class="citation">(ויקרא יט:יח)</span>
 וְתֵן בּלִבֵּינוּ לְהָבִין 
@@ -91,7 +91,7 @@ the image of God
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Grant us the courage 
 to fulfill the mitsvah of loving our neighbors as ourselves, <span class="citation">(Leviticus 19:18)</span>
 and place in our hearts the wisdom 
@@ -101,14 +101,14 @@ to understand those who do not share our views.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כַּכָּתוּב בִּתְפִילַּת יוֹם הַזִּכָּרוֹן, 
 "וְיַעֲשׂוּ כּוּלָּם אֲגוּדָּה אַחַת 
 לַעֲשׂוֹת רְצוֹנְךָ בְּלֵבָב שָׁלֵם,"
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 As we pray on the High Holidays, 
 “May we become a united society,[foot]Cf. Pesikta D'Rav Kahanna.27.9.[/foot]&nbsp; 
 fulfilling the divine purpose with a whole heart.”[foot]Cf. Sotah 40a.11 and Berakhot 17a:2.[/foot][foot]From the Modim (thanksgiving) liturgy of the Rosh haShanah Amidah.[/foot]
@@ -117,7 +117,7 @@ fulfilling the divine purpose with a whole heart.”[foot]Cf. Sotah 40a.11 and B
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְכָּכָּתוב עַל יְדֵי דָּוִד עַבְדְּךָ, 
 "יְהִי שָׁלוֹם בְּחֵילֵךְ, 
 שַׁלְוָה בְּאַרְמְנוֹתָיִךְ. 
@@ -126,7 +126,7 @@ fulfilling the divine purpose with a whole heart.”[foot]Cf. Sotah 40a.11 and B
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 And as the Psalmist sang, 
 “May there be shalom within your walls, 
 peace in your strongholds. 

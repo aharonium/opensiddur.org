@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 W00t! First post!
 
 Over the course of the summer I will be in Jerusalem attending the <a href="http://www.presentense.org/">PresenTense Institute</a>'s <a href="http://web.archive.org/web/20160331171421/http://presentense.org/institute/about">summer workshop</a>. Before I arrived I set in mind an intention, (or <em>kavvanah</em>, as it were) to achieve the following goals:

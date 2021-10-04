@@ -11,18 +11,18 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִזְמ֗וֹר לְדָ֫וִ֥ד 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 David’s song: 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְ֭הֹוָה
  מִי־יָג֣וּר בְּאָהֳלֶ֑ךָ 
  מִֽי־יִ֝שְׁכֹּ֗ן 
@@ -30,7 +30,7 @@ David’s song:
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Yah!
 Who may be at home in Your tent? 
 Who may find sanctuary 
@@ -39,7 +39,7 @@ On Your Sacred mountain?
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הוֹלֵ֣ךְ תָּ֭מִים 
 וּפֹעֵ֥ל צֶ֑דֶק 
 וְדֹבֵ֥ר אֱ֝מֶ֗ת 
@@ -51,7 +51,7 @@ On Your Sacred mountain?
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 One who strides with wholeness, 
 Acts with fairness, 
 Whose heart and words 
@@ -64,7 +64,7 @@ Wary of his own motives,
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְאֶת־יִרְאֵ֣י 
 יְהוָ֣ה יְכַבֵּ֑ד 
 נִשְׁבַּ֥ע 
@@ -78,7 +78,7 @@ Wary of his own motives,
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 He honors those 
 Who are respectful of God.
 She will not stoop to lie 

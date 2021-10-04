@@ -45,11 +45,11 @@ As a spur to further discussion, I have gathered here several <em>nusḥa’ot</
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 נוסחאות "על הנסים" ליום העצמאות
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <strong>Versions of <em>Al Hanissim </em>for Yom Ha-Atzmaut</strong>
 </td></tr></tbody></table>
 
@@ -58,29 +58,29 @@ As a spur to further discussion, I have gathered here several <em>nusḥa’ot</
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <strong>א) הקיבוץ הדתי: סדר תפילות ליום העצמאות, מהדורה שניה. תל-אביב: הוצאת הקיבוץ הדתי תשכ"ט, ע' 101</strong>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 1) The Religious Kibbutz Movement — S<em>eder Tefillot le-Yom ha-Atzmaut</em>, second edition. (Tel Aviv: Hotza’at Ha-kibbutz ha-Dati [1969]), p. 101.
-    </div></td></tr><tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+    </div></td></tr><tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
     על הנסים ועל הפרקן ועל הגבורות ועל התשועות ועל המלחמות שעשית לאבותינו ולנו בימים ההם בזמן הזה:‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
     For the miracles and for the redemption and for the mighty deeds and for the deliverance and for the wars that You did for our fathers and for us in those days at this season.
-</td></tr><tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+</td></tr><tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
     אתה האל עוררת את לב אבותינו לשוב להר נחלתך לשבת בה ולקומם את הריסותיה [ו]את אדמתה. ובעמוד עלינו שלטון רשע ויסגור את שערי ארצנו בפני אחינו הנמלטים מחרב אויב אכזרי, וישבם באניות לאיי הים ולחוף נדחים, אתה בעזך מגרת את כסאו ותשחרר את הארץ מידו. ובקום עלינו אויבים ויתנכלו לנו להשמידנו, אתה בגבורתך הפלת עליהם אימתה ופחד ויעזבו את כל אשר בהם, וינוסו בבהלה ובחפזון אל מחוץ לגבולות ארצנו. ובבוא עלינו שבעה גויים לכבש את ארצנו ולשומנו למס עובד, אתה ברחמיך עמדת לימין צבא ההגנה לישראל ומסרת גבורים ביד חלשים ורבים ביד מעטים ורשעים ביד צדיקים. ובזרועך הנטויה עזרת לבחורי ישראל להרחיב את גבולות מושבותינו, ולעלות את אחינו ממחנות ההסגר. ‏
     </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
     You, O God, awakened the heart of our fathers to return to the mountain of Your inheritance, to settle there and to rebuild it from the ruins, and its land. And when an evil regime stood over us and shut the gates of our land to our brethren who were fleeing from the sword of a cruel enemy, and they sent them back in ships to the islands of the sea and to distant shores, You in Your might toppled his throne and freed the land from his hand. And when enemies rose against us and plotted to destroy us, You in your might sent upon them fear and panic, and they abandoned all their goods, and fled in confusion and haste beyond the borders of our land. And when seven nations rose up against us to conquer our land and to make us as bonded servants, You in Your mercies stood by the right hand of the Israel Defense Army and delivered the mighty into the hands of the weak, the many into the hands of the few, and evildoers into the hands of the righteous. And with Your outstretched arm you helped the young men of Israel to expand the boundaries of our settlement, and to bring our brethren up from the concentration camps.
-    </div></td></tr><tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+    </div></td></tr><tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
     על הכל אנחנו מודים לך ה' אלקינו בכפיפת ראש; וביום זה, יום חגינו ושמחתנו, אנחנו פורשים את כפינו לפניך ומתחננים על אחינו הפזורים ואומרים: אנא אבינו רוענו, קבצם במהרה לנוה קדשך והשכן אותם בו בשלום ושלוה ובהשקט ובטח. הרחב נא את גבולות ארצנו כאשר הבטחת לאבותינו, לתת לזרעם מנהר פרת ועד נחל מצרים. בנה נא את עיר קדשך ירושלים בירת ישראל, ובה תכונן את בית מקדשך כימי שלמה. וכאשר זכיתנו לראות את ראשית גאולתנו ופדות נפשנו, כן תחינו ותחזנה עינינו בגאולת ישראל השלמה וחדש ימינו כקדם, אמן! ‏
     </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
     For all this we thank You, O Lord our God, with bowed head; and on this, our day of festivity and joy, we stretch our hands before You and beseech pray on behalf of our dispersed brethren and say: Please, our Father, our Shepherd, gather them quickly to Your holy habitation, and may they dwell there in peace and calm and tranquility and security. Expand the borders of our land as You promised our forefathers, to give to their seed from the River Euphrates to the Brook of Egypt. Build your holy city Jerusalem, capital of Israel, and reestablish there your Temple as in the days of Solomon. And as we have merited to see the beginning of our redemption and the liberation of our souls, so may we live and may our eyes see the complete redemption of Israel and renew our days as of old. Amen!
 </div></td></tr></tbody></table>
 
@@ -93,29 +93,29 @@ Other parts of this nusaḥ are more problematic. The reference to the expulsion
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <strong>ב) תנועת הקונסרבטיבית בארה"ב: סדור לימות החול</strong>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 2. American Conservative Movement — <em>Siddur Liymot Ḥol</em> (New York: Rabbinic Assembly, 1966), pp. 64-65. [translation/paraphrase from that Siddur]
-    </div></td></tr><tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+    </div></td></tr><tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
 על הנסים ועל הפרקן ועל הגבורות ועל התשועות ועל המלחמות שעשית לאבותינו בימים ההם בזמן הזה:‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 We thank You for the heroism, for the triumphs, and for the miraculous deliverance of our fathers in other days at this season. 
-    </div></td></tr><tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+    </div></td></tr><tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
     בימי הרג ואבדן של מלחמת העולם, כשקמו משנאיך על עמך להכחידו מגוי, נהרגו ונאבדו שש מאות רבוא מאחינו מנער ועד זקן על קדוש שמך. המיטו כליה על קהילות בישראל וטמאו בתי תפלתם והשמידו בתי מדרשם ושרפו באש כתבי קדשם. אז עלתה שארית הפליטה מגיא ההריגה לבקש מפלט עם אחיהם בארץ אבותינו.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
     In the days of world-wide war and destruction, six million of our people were brutally slain because they bore Your name. Age-old communities were devastated, their sanctuaries desecrated, their houses of learning razed, and their sacred treasures burned. It was then that the scattered remnants of the helpless and the homeless sought refuge with their brothers in the Land of our Fathers.
-    </div></td></tr><tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+    </div></td></tr><tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
     עת נסגרו שערי ארץ אבות בפני פליטים, ואויבים בארץ ושבעה עממים בעלי בריתם קמו להכרית עמך ישראל, אתה ברחמיך הרבים עמדת להם בעת צרתם, רבת את ריבם, דנת את דינם, חיזקת את לבם לעמוד בשער ולפתח שערים לנרדפים ולגרש את צבאות האויב מן הארץ. מסרת רבים ביד מעטים, ורשעים ביד צדיקים, ולך עשית שם גדול וקדוש בעולמך ולעמך ישראל עשית תשועה גדולה ופרקו כהיום הזה.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
     When the gates to our ancestral home were closed to them, and enemies from within the land together with seven neighboring nations sought to annihilate Your people, You, O Lord, in Your great mercy, stood by them in time of trouble. You defended them and vindicated them. You gave them the courage to meet their foes, to open the gates to those seeking refuge, and to free the land of its armed invaders. You delivered the many into the hands of the few, the guilty into the hands of the innocent. Because You wrought great victories and miraculous deliverance for Your people Israel to this day, You revealed Your glory and Your holiness to all the world.
 </div></td></tr></tbody></table>
 
@@ -128,23 +128,23 @@ The formula “You gave them the courage to meet their foes” (<em>hizakta et l
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <strong>ג) תנועת המסורתית בישראל: סדור ואני תפלתי. ירושלים: כנסת הרבנים בישראל והתנועה המסורתית, תשנ"ח, ע' 78-79.‏</strong>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 3. Israeli Masorati Movement — <em>Siddur Va-ani Tefillah</em> [“And I Am Prayer”] (Jerusalem: Rabbinical Assembly of Israel and the Masorati Movement, 1998), pp. 78-79.
-</td></tr><tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+</td></tr><tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
 על הנסים ועל הפרקן ועל הגבורות ועל התשועות ועל המלחמות שעשית לאבותינו בימים ההם בזמן הזה:‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 For the miracles and for the redemption and for the mighty deeds and for the deliverance and for the wars that You did for our fathers and for us in those days at this time.
-</td></tr><tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+</td></tr><tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
     בימי שיבת ציון כשהיה עמך ישראל מפזר ומפרד בין העמים, קמו חלוצים לבנות מחדש את ארץ ישראל, כדי לקבץ בתוכה את גלויותינו. וכשצעקו שרידי [ה]שואה לגאולה, ונסגרו שערי ארץ אבות בפניהם, אז קמו עמים להכחידנו מגוי, שלא יזכר שם ישראל עוד. ואתה ברחמיך הרבים עמדת להם בעת צרתם, רבת את ריבם, דנת את דינם, חיזקת את לבם. נפתחו שערים לפלטה גדולה וגורשו צבאות האויב מן הארץ. מסרת רבים ביד מעטים, וזדים ביד בני בריתך, ולך עשית שם גדול וקדוש בעולמך, ולעמך ישראל עשית תשועה גדולה כהיום הזה. ואחר כך באו בניך לבנות ולהבנות בארצנו, והכריזו עצמאות במדינתנו, וקבעו את יום העצמאות הזה, לשמוח בו ולהודות בו לשמך הגדול, על נסיך ועל ישועתך ועל נפלאותיך.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english"> 
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en"> 
     In the days of the return to Zion, when your people Israel was scattered and spread among the nations, the pioneers arose to rebuild the Land of Israel, to gather therein our exiles. And when the remnants from the Holocaust cried out for redemption, and the gates of the land of the fathers was closed to them. And nations rose up to destroy us from being a nation, that the name of Israel might no longer be remembered. Then You in Your great mercies stood by them in their time of trouble, you fought their quarrel, judged their judgment, and strengthened their hearts. The gates were opened wide to a great refuge, and the armies of the enemy were expelled from the land. You delivered the many into the hands of the few, the evildoers into the hands of those of your covenant, and You made a great and holy name in Your world, and for Your people Israel you made a great deliverance as this day. Then your children came to build and to be built upon our land, and independence in our own state was declared, and this Day of Independence was fixed to rejoice therein and to thank Your great name for Your miracles and salvation and miracles.
 </div></td></tr></tbody></table>
 
@@ -155,29 +155,29 @@ This version strikes a good balance among the various elements mentioned thus fa
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <strong>ד) תנועה הרפורמית בישראל: סדור העבודה שבלב. ירושלים: יהדות מתקדמת בישראל, תשנ"ח. ע' 64.‏</strong>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 4. Israel Reform Movement — <em>Siddur ha-Avodah shebelev</em> [Service of the Heart]. (Jerusalem: Progressive Judaism in Israel, 1998), p. 64.
-</td></tr><tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+</td></tr><tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
     על הנסים ועל הפרקן ועל הגבורות ועל התשועות ועל המלחמות שעשית לאבותינו בימים ההם בזמן הזה:‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
     For the miracles and for the redemption and for the mighty deeds and for the deliverance and for the wars that You did for our fathers and for us in those days at this time.
-</td></tr><tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+</td></tr><tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
     בימי שיבת ציון השניה, כשבאה שארית הפליטה מגיא ההריגה ובני עמך מכל תפוצותיהם, שלטו זרים בארץ קדשנו ונעלו שערים בפני נרדפים. אז קמו שבעה גויים להכרית עמך ישאל. ואתה ברחמיך הרבים עמדת להם בעת צרתם להקהל ולעמוד על נפשם, ללמד ידיהם לקרב ואצבעותיהם למלחמה. מסרת רבים ביד מעטים, וזדים ביד בני בריתך, ולך עשית שם גדול וקדוש בעולמך, ולעמך ישראל עשית תשועה גדולה כהיום הזה. ‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
     In the days of the Second Return to Zion, when the saved remnant came from the valley of destruction, and the children of our people from all their exiles dispersions. Strangers ruled our holy land, and the gates were shut to the pursued, and seven nations rose up to destroy Your people Israel. And You in Your great mercies stood by them in their time of trouble, that they might gather together and stand up for their lives, to teach their hands battle and their fingers war. You delivered many into the hands of the few, and evildoers into the hands of the children of your covenant, and You made a great and holy name in your world, and to your people Israel you made a great deliverance as this day.
-</td></tr><tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+</td></tr><tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
 ואחר כך נקבצו בניך לבנות ולהבנות בארצך, וקבעו את יום העצמאות הזה, יום חג ושמחה ולהודות ולהלל לשמך הגדול. וכשם שעשית נסים לראשונים, כך תעשה לאחרונים, ותושיענו בימים האלו כבימים ההם. ‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
     Then your children came to build and to be built in our land, and fixed this Day of Independence as a day of rejoicing, to thank and to praise Your great name. And as You have performed miracles for the former ones, so may you do for the latter, and save them in these days as in those days.
 </div></td></tr></tbody></table>
 

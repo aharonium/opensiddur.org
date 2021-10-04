@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 This "Prayer for the Government, etc. etc." by K.K. Shearith Israel can be found in <em>A Religious Discourse Delivered in the Synagogue in this City, on Thursday the 26th November, 1789. Agreeable to the Proclamation of the President of the United States of America, to be Observed as a Day of Public Thanksgiving and Prayer. By the Reverend Mr. Gershom Seixas.</em> The pamphlet explains that the special service was, "performed in the synagogue...conformable to a recommendation of Congress, <a href="https://founders.archives.gov/documents/Washington/05-04-02-0091">passed the 3rd October last</a>, to be observed as a day of public Thanksgiving and Prayer." (Thank you to Robert Kaiser for bringing our attention to this pamphlet.) The Thanksgiving Proclamation of President George Washington to which this Prayer for the Government was adapted in response, was declared as follows:
 
 <blockquote>
@@ -42,7 +42,7 @@ The order of services included the recitation of special psalms for the day. The
 <thead><tr><th id="x" style="text-align: right;">Partial Reconstructed Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַנּוֺתֵן תְּשׁוּעָה לַמְּלָכִים
 וּמֶמְשָׁלָה לֲנְּסִיכִים
 מַלְכוּתְךָ וּמֶמְשֶׁלְתְּךָ כָּל־עֹלָמִים
@@ -54,7 +54,7 @@ The order of services included the recitation of special psalms for the day. The
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May he that dispenseth salvation unto Kings, 
 and dominion unto princes; 
 whose kingdom is an everlasting kingdom; 
@@ -74,13 +74,13 @@ and all Kings and Potentates in alliance with these States.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַמֶּלֶךְ מַלְכֵי הַמְלָכִים בְּרַחֲמָיו
 יִשְׁמְרֶהוּ וִיחַיֵיהוּ וּמִכָּל צָרָה וָנֶזֶק יַצִילֵהוּ׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May the Supreme King of Kings, through his infinite mercies, 
 preserve them, and grant them life, and deliver them from all manner of trouble and danger. 
 May he fix and establish them in their several departments in peace and tranquility. 
@@ -90,12 +90,12 @@ Let not their lips speak evil, nor their tongues utter deceit.[foot]Cf. Job 27:4
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May the Supreme King of Kings, through his infinite mercies, 
 impart his divine wisdom to the Rulers of these States; 
 and grant them a spirit of just counsel, 
@@ -109,12 +109,12 @@ neither shall they make war any more.[foot]Cf. Isaiah 2:4, Micah 4:3[/foot]
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Grant it thus, O Lord! 
 for the sake of thy great and ineffable name 
 and for the sake of thy people, and thine inheritance, 
@@ -127,12 +127,12 @@ and do not despise our unworthiness nor our cry unto thee.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 We beseech thee, 
 O most gracious father and merciful King, to whom peace pertaineth, 
 that thou wilt long cause us to enjoy a firm peace and tranquility; 

@@ -12,7 +12,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָבִינוּ שֶׁבַּשָּׁמַיִם
 בּוֹנֵה צִיּוֹן וִירוּשָׁלַיִם
 וּמְכוֹנֵן מַלְכוּת יִשְׂרָאֵל,
@@ -22,7 +22,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 כַּאֲשֶׁר נִשְׁבַּעְתָּ לַאֲבוֹתֵינוּ.
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Our father in Heaven,
 builder of Tsiyon and Yerushalayim,
 and founder of the kingdom of Yisra'el,
@@ -34,7 +34,7 @@ that you promised to our ancestors.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רְצֵה ה׳ אַרְצֶךָ
 וְהַשְׁפַּע עָלֶיהָ 
 מִטּוּב חַסְדֶּךָ
@@ -48,7 +48,7 @@ that you promised to our ancestors.
 לִבְרָכָה וּלְתִפְאָרָה.
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Take pleasure in your land
 and bestow abundance upon it
 from the goodness of your lovingkindness --
@@ -64,7 +64,7 @@ for blessing and for splendor.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וַחֲזֵק יְדֵי כָּל אַחֵינוּ
 הָעֲמֵלִים בַּעֲבוֹדַת אַדְמַת הַקֹּדֶשׁ
 וּבְהַפְרָחַת שִׁמְמָתָהּ.
@@ -72,7 +72,7 @@ for blessing and for splendor.
 וּפֹעַל יָדָם תִּרְצֶה.           
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 And strengthen the hands of all our comrades
 who toil in the labor of the holy Earth,
 and make her desolate areas fruitful.
@@ -82,11 +82,11 @@ and may the work of their hands be favored by you.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָמֵן.
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Amen.
 </div></td></tr>
 </tbody></table>

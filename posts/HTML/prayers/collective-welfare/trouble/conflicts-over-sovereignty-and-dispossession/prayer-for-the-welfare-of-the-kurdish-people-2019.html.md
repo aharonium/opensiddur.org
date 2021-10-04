@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֱלֹהֵינוּ שֶׁבַּשָּׁמַיִם,
 יוֹצֵר כָּל בָּשָׂר וּמַפְלִיא לַעֲשׂוֹת,
 אַל־דֳּֽמִי־לָךְ, 
@@ -20,7 +20,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Our elo'ah in Heaven,
 creator of all flesh and marvelous things,[foot]Judges 13:19.[/foot]&nbsp;
 don’t be still, 
@@ -30,7 +30,7 @@ don’t be unconcerned, El.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כִּי הִנֵּה קָם בֶּן בְּלִיַּעַל מֵאֶרֶץ תּוֹגַרְמָה 
 וַיּאֹמֶר עַל אֶרֶץ אַחֶרֶת
 "קוּמוּ וְנָקוּמָה עָלֶיהָ לַמִּלְחָמָה" <span class="citation">(עובדיה א:א חלק)</span>,
@@ -39,7 +39,7 @@ don’t be unconcerned, El.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 For a villain has arisen in the land of Togarmah,[foot]Cf. Genesis 10:3. i.e., Turkey.[/foot]&nbsp;
 Saying of another land:
 “Up! Let us rise up against her for battle.”[foot]Obadiah 1:1 part.[/foot]&nbsp;
@@ -49,14 +49,14 @@ And of the remnant of the Kurdish people, said:
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְאַתָּה, שֶּׁצִּוִּיתָנוּ בְּדִבְרֵי קׇדְשְׁךָ לֵאמֹר:
 “לֹא תַּעֲמֹד עַל דַּם רֵעֶךָ, אֲנִי ה׳” <span class="citation">(ויקרא יט:טז חלק)</span> – 
 אֱמֹר לַמַּשְׁחִית: הֶרֶף!
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And as you commanded in your holy scripture, saying:
 “Do not profit by the blood of your fellow: I am YHVH.”[foot]Leviticus 19:16 part[/foot]&nbsp;
 Say to the Destroyer: “Cease!”
@@ -64,7 +64,7 @@ Say to the Destroyer: “Cease!”
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לְמַעַן לֹא יֵאָמֵר לָנוּ 
 “מֵחֲמַס אָחִיךָ … 
 תְּכַסְּךָ בוּשָׁה וְנִכְרַתָּ לְעוֹלָם.
@@ -77,7 +77,7 @@ Say to the Destroyer: “Cease!”
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Therefore, let it not be said of us:
 “For the outrage to your brother… 
 Disgrace shall engulf you, and you shall perish forever. 
@@ -91,7 +91,7 @@ How could you betray those who fled on that day of anguish!”[foot]Obadiah 1:14
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָֽנָּא, אֱלֹהֵי הָרוּחוֹת לְכׇל בָּשָׂר, 
 עֲשֵׂה בְכֹחֲךָ הַגָּדוֹל
 לַעֲצֹר אֶת שְׁפִיכוּת הַדָּמִים וּמַעֲשֵׂי הַזְּוָעָה בְקֶרֶב שְׁכֵנֵינוּ,
@@ -99,7 +99,7 @@ How could you betray those who fled on that day of anguish!”[foot]Obadiah 1:14
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Please, God, spirit of all flesh, 
 With your great strength --
 Stop the massacre and the atrocities committed upon our neighbors
@@ -108,7 +108,7 @@ And bring peace to the Earth and a joyous world to all its inhabitants.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וִיקֻיַּם בָּם מִקְרָא שֶכָּתוּב:
 “וְנִכְרְתָה קֶשֶׁת מִלְחָמָה, 
 וְדִבֶּר שָׁלוֹם לַגּוֹיִם” <span class="citation">(זכריה ט:י)</span>, 
@@ -121,7 +121,7 @@ And bring peace to the Earth and a joyous world to all its inhabitants.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And fulfill for them what is written in Scripture: 
 “The warrior’s bow shall be banished. 
 He shall call on the nations to surrender,”[foot]Zekharyah 9:10.[/foot]&nbsp; 
@@ -135,7 +135,7 @@ they shall never again know war.”[foot]Isaiah 2:4.[/foot]&nbsp;
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וִיקֻיַּם בִּפְלִיטֵי הַחֶרֶב בְּאֶרֶץ צָפוֹן דְּבַר הַנָּבִיא: 
 “וּבָנוּ עָרִים נְשַׁמּוֹת וְיָשָׁבוּ… 
 וְעָשׂוּ גַנּוֹת וְאָכְלוּ אֶת־פְּרִיהֶם… 
@@ -143,7 +143,7 @@ they shall never again know war.”[foot]Isaiah 2:4.[/foot]&nbsp;
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And fulfill for the refugees of the destruction in the northern land the word of the prophet:
 “They shall rebuild ruined cities and inhabit them… 
 they shall till gardens and eat their fruits… 
@@ -152,12 +152,12 @@ nevermore to be uprooted from their fertile-earth.”[foot]Amos 9:14-15.[/foot]
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְנאֹמַר: אָמֵן.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 and let us say, <em>amen</em>.
 </div></td></tr>
 </tbody></table>

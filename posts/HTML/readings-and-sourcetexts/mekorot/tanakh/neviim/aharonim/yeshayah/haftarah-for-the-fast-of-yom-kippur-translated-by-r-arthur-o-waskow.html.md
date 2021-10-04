@@ -11,19 +11,19 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
  ישעיהו נז׃יד - נח׃יד
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 Isaiah 57:14-58:14</td></tr><tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>יד</sup> וְאָמַ֥ר סֹֽלּוּ־סֹ֖לּוּ פַּנּוּ־דָ֑רֶךְ הָרִ֥ימוּ מִכְשׁ֖וֹל מִדֶּ֥רֶךְ עַמִּֽי׃ 
 <sup>טו</sup> כִּי֩ כֹ֨ה אָמַ֜ר רָ֣ם וְנִשָּׂ֗א שֹׁכֵ֥ן עַד֙ וְקָד֣וֹשׁ שְׁמ֔וֹ
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 And God said:
 Open up, open up, Clear a path!
 Clear away all obstacles
@@ -32,33 +32,33 @@ For so says the One
 Who high aloft forever dwells,
 Whose Name is Holy:
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מָר֥וֹם וְקָד֖וֹשׁ אֶשְׁכּ֑וֹן וְאֶת־דַּכָּא֙ וּשְׁפַל־ר֔וּחַ לְהַחֲיוֹת֙ ר֣וּחַ שְׁפָלִ֔ים וּֽלְהַחֲי֖וֹת לֵ֥ב נִדְכָּאִֽים׃
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 I dwell on high, in holiness,
 And <em>therefore</em> with the lowly and humiliated,
 To breathe new life into the humble,
 To give new life to the broken-hearted.
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>טז</sup> כִּ֣י לֹ֤א לְעוֹלָם֙ אָרִ֔יב וְלֹ֥א לָנֶ֖צַח אֶקְּצ֑וֹף כִּי־ר֙וּחַ֙ מִלְּפָנַ֣י יַֽעֲט֔וֹף וּנְשָׁמ֖וֹת אֲנִ֥י עָשִֽׂיתִי׃
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 I will not do battle against you forever,
 I will not be angry with you forever.
 From Me comes the breath that floats out to make the world.
 I breathe the breath of life, <em>I am</em> the Breath of Life.
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>יז</sup> בַּעֲו&#x200d;ֹ֥ן בִּצְע֛וֹ קָצַ֥פְתִּי וְאַכֵּ֖הוּ הַסְתֵּ֣ר וְאֶקְצֹ֑ף וַיֵּ֥לֶךְ שׁוֹבָ֖ב בְּדֶ֥רֶךְ לִבּֽוֹ׃ 
 <sup>יח</sup> דְּרָכָ֥יו רָאִ֖יתִי וְאֶרְפָּאֵ֑הוּ וְאַנְחֵ֕הוּ וַאֲשַׁלֵּ֧ם נִֽחֻמִ֛ים ל֖וֹ וְלַאֲבֵלָֽיו׃ 
 <sup>יט</sup> בּוֹרֵ֖א נוב [נִ֣יב] שְׂפָתָ֑יִם שָׁל֨וֹם׀ שָׁל֜וֹם לָרָח֧וֹק וְלַקָּר֛וֹב אָמַ֥ר יְהוָ֖ה וּרְפָאתִֽיו׃
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 For your sin of greed
 I grew angry and smashed you,
 I even hid My face.
@@ -72,23 +72,23 @@ Peace, peace ... shalom, shalom!... to those who are far and near,
 Says the Breath-of-Life ---
 And I will heal you.
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>כ</sup> וְהָרְשָׁעִ֖ים כַּיָּ֣ם נִגְרָ֑שׁ כִּ֤י הַשְׁקֵט֙ לֹ֣א יוּכָ֔ל וַיִּגְרְשׁ֥וּ מֵימָ֖יו רֶ֥פֶשׁ וָטִֽיט׃ <sup>כא</sup> אֵ֣ין שָׁל֔וֹם אָמַ֥ר אֱלֹהַ֖י לָרְשָׁעִֽים׃
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 But the wicked are like a troubled sea
 Which cannot rest,
 Whose waters toss up mire and mud.
 There is no peace, said my God,
 For the wicked.
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>א</sup> קְרָ֤א בְגָרוֹן֙ אַל־תַּחְשֹׂ֔ךְ כַּשּׁוֹפָ֖ר הָרֵ֣ם קוֹלֶ֑ךָ וְהַגֵּ֤ד לְעַמִּי֙ פִּשְׁעָ֔ם וּלְבֵ֥ית יַעֲקֹ֖ב חַטֹּאתָֽם׃ 
 <sup>ב</sup> וְאוֹתִ֗י י֥וֹם יוֹם֙ יִדְרֹשׁ֔וּן וְדַ֥עַת דְּרָכַ֖י יֶחְפָּצ֑וּן כְּג֞וֹי אֲשֶׁר־צְדָקָ֣ה עָשָׂ֗ה וּמִשְׁפַּ֤ט אֱלֹהָיו֙ לֹ֣א עָזָ֔ב
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 Cry out aloud, don't hold back,
 Lift up your voice like the shofar!
 Tell My people what they are doing wrong,
@@ -98,27 +98,27 @@ They take some kind of pleasure in getting to know My ways ---
 As if they were a people that actually did righteous deeds
 And never ignored the just rulings of their God.
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יִשְׁאָל֙וּנִי֙ מִשְׁפְּטֵי־צֶ֔דֶק קִרְבַ֥ת אֱלֹהִ֖ים יֶחְפָּצֽוּן׃
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 They keep asking Me for the rules of justice
 As if they would take delight in being close to God.
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>ג</sup> לָ֤מָּה צַּ֙מְנוּ֙ וְלֹ֣א רָאִ֔יתָ עִנִּ֥ינוּ נַפְשֵׁ֖נוּ וְלֹ֣א תֵדָ֑ע הֵ֣ן בְּי֤וֹם צֹֽמְכֶם֙ תִּמְצְאוּ־חֵ֔פֶץ וְכָל־עַצְּבֵיכֶ֖ם תִּנְגֹּֽשׂוּ׃
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 They say: "Why is it that we have fasted, and You don't see our suffering?
 We press down our egos --- but You don't pay attention!"
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>ד</sup> הֵ֣ן לְרִ֤יב וּמַצָּה֙ תָּצ֔וּמוּ וּלְהַכּ֖וֹת בְּאֶגְרֹ֣ף רֶ֑שַׁע לֹא־תָצ֣וּמוּ כַיּ֔וֹם לְהַשְׁמִ֥יעַ בַּמָּר֖וֹם קוֹלְכֶֽם׃
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 Look! On the very day you fast you keep scrabbling for wealth;
 On the very day you fast you keep oppressing all your workers.
 
@@ -128,11 +128,11 @@ You strike with a wicked fist.
 You are not fasting today in such a way
 As to make your voices heard on high.
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>ה</sup> הֲכָזֶ֗ה יִֽהְיֶה֙ צ֣וֹם אֶבְחָרֵ֔הוּ י֛וֹם עַנּ֥וֹת אָדָ֖ם נַפְשׁ֑וֹ הֲלָכֹ֨ף כְּאַגְמֹ֜ן רֹאשׁ֗וֹ וְשַׂ֤ק וָאֵ֙פֶר֙ יַצִּ֔יעַ הֲלָזֶה֙ תִּקְרָא־צ֔וֹם וְי֥וֹם רָצ֖וֹן לַיהוָֽה׃
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 Is that the kind of fast that I desire?
 Is that really a day for people to "press down their egos"?
 
@@ -142,42 +142,42 @@ And lie around in sackcloth and ashes?
 Is that what you call a fast day,
 The kind of day that the God of the Burning Bush would wish?
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>ו</sup> הֲל֣וֹא זֶה֮ צ֣וֹם אֶבְחָרֵהוּ֒
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 No!
 
 This is the kind of fast that I desire:
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 פַּתֵּ֙חַ֙ חַרְצֻבּ֣וֹת רֶ֔שַׁע הַתֵּ֖ר אֲגֻדּ֣וֹת מוֹטָ֑ה וְשַׁלַּ֤ח רְצוּצִים֙ חָפְשִׁ֔ים וְכָל־מוֹטָ֖ה תְּנַתֵּֽקוּ׃
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 Unlock the hand-cuffs put on by wicked power!
 Untie the ropes of the yoke!
 Let the oppressed go free,
 And break off every yoke!
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>ז</sup> הֲל֨וֹא פָרֹ֤ס לָֽרָעֵב֙ לַחְמֶ֔ךָ וַעֲנִיִּ֥ים מְרוּדִ֖ים תָּ֣בִיא בָ֑יִת כִּֽי־תִרְאֶ֤ה עָרֹם֙ וְכִסִּית֔וֹ וּמִבְּשָׂרְךָ֖ לֹ֥א תִתְעַלָּֽם׃
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 Share your bread with the hungry.
 Bring the poor, the outcasts, to your house.
 When you see them naked, clothe them;
 They are your flesh and blood;
 Don't hide yourself from them!
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>ח</sup> אָ֣ז יִבָּקַ֤ע כַּשַּׁ֙חַר֙ אוֹרֶ֔ךָ וַאֲרֻכָתְךָ֖ מְהֵרָ֣ה תִצְמָ֑ח וְהָלַ֤ךְ לְפָנֶ֙יךָ֙ צִדְקֶ֔ךָ כְּב֥וֹד יְהוָ֖ה יַאַסְפֶֽךָ׃
 <sup>ט</sup> אָ֤ז תִּקְרָא֙ וַיהוָ֣ה יַעֲנֶ֔ה תְּשַׁוַּ֖ע וְיֹאמַ֣ר הִנֵּ֑נִי
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 Then your light will burst through like the dawn;
 Then when you need healing it will spring up quickly;
 Then your own righteousness will march ahead to guard you.
@@ -185,36 +185,36 @@ And a radiance from YHWH will reach out behind to guard you.
 Then, when you cry out, YHWH will answer;
 Then, when you call, God will say: "Here I am!"
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אִם־תָּסִ֤יר מִתּֽוֹכְךָ֙ מוֹטָ֔ה שְׁלַ֥ח אֶצְבַּ֖ע וְדַבֶּר־אָֽוֶן׃
 <sup>י</sup> וְתָפֵ֤ק לָֽרָעֵב֙ נַפְשֶׁ֔ךָ וְנֶ֥פֶשׁ נַעֲנָ֖ה תַּשְׂבִּ֑יעַ
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 If you banish the yoke from your midst,
 If you rid yourself of scornful finger-pointing
 And words of contempt;
 If you open up your life-experience to the hungry
 And soothe the life that has been trampled under foot,
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְזָרַ֤ח בַּחֹ֙שֶׁךְ֙ אוֹרֶ֔ךָ וַאֲפֵלָתְךָ֖ כַּֽצָּהֳרָֽיִם׃
 <sup>יא</sup> וְנָחֲךָ֣ יְהוָה֮ תָּמִיד֒ וְהִשְׂבִּ֤יעַ בְּצַחְצָחוֹת֙ נַפְשֶׁ֔ךָ וְעַצְמֹתֶ֖יךָ יַחֲלִ֑יץ
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 Then even in darkness your light will shine out
 And your moments of gloom turn bright as noonday.
 Then the Breath of Life will always be your guide,
 Will soothe your own life in your own times of dryness
 And strengthen your bones when they are weary.
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְהָיִ֙יתָ֙ כְּגַ֣ן רָוֶ֔ה וּכְמוֹצָ֣א מַ֔יִם אֲשֶׁ֥ר לֹא־יְכַזְּב֖וּ מֵימָֽיו׃ 
 <sup>יב</sup> וּבָנ֤וּ מִמְּךָ֙ חָרְב֣וֹת עוֹלָ֔ם מוֹסְדֵ֥י דוֹר־וָד֖וֹר תְּקוֹמֵ֑ם וְקֹרָ֤א לְךָ֙ גֹּדֵ֣ר פֶּ֔רֶץ מְשֹׁבֵ֥ב נְתִיב֖וֹת לָשָֽׁבֶת׃
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 Then you shall be like a garden given water,
 Like a wellspring whose waters never fail.
 Those who spring from you shall rebuild the ancient ruins
@@ -222,11 +222,11 @@ And you shall lay foundations for the coming generation.
 You shall be called "Those who mend torn places,"
 You shall be called "Those who build lanes to live in."
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>יג</sup> אִם־תָּשִׁ֤יב מִשַּׁבָּת֙ רַגְלֶ֔ךָ עֲשׂ֥וֹת חֲפָצֶ֖יךָ בְּי֣וֹם קָדְשִׁ֑י וְקָרָ֨אתָ לַשַּׁבָּ֜ת עֹ֗נֶג לִקְד֤וֹשׁ יְהוָה֙ מְכֻבָּ֔ד וְכִבַּדְתּוֹ֙ מֵעֲשׂ֣וֹת דְּרָכֶ֔יךָ מִמְּצ֥וֹא חֶפְצְךָ֖ וְדַבֵּ֥ר דָּבָֽר׃
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 If you refrain from trampling my Renewal-time[foot]*I have translated “shabbat” here more broadly as “Renewal-time” because when we look at the content of what Isaiah is calling for and his imploring, “<em>Lift  up your voice like a shofar,</em>”  it may be he is calling for the Jubilee itself   -- which was to begin with the blowing of the shofar on Yom Kippur.[/foot]
 And from being busy-busy on My holy day;
 If you will not only call Renewal-time[foot]see note above.[/foot] delightful
@@ -235,11 +235,11 @@ And set aside your business and your chatter
 To be yourselves the rays by which God's Holiness
 Can turn this world into a radiant joy ---
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>יד</sup> אָ֗ז תִּתְעַנַּג֙ עַל־יְהוָ֔ה וְהִרְכַּבְתִּ֖יךָ עַל־במותי [בָּ֣מֳתֵי] אָ֑רֶץ וְהַאֲכַלְתִּ֗יךָ נַחֲלַת֙ יַעֲקֹ֣ב אָבִ֔יךָ
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 Then indeed you will find delight in YHWH.
 For then --- when you have joined the lowly ---
 I will set you all with Me,
@@ -247,11 +247,11 @@ Astride the heights of earth.
 Then --- when you feed others --- I will let you eat your fill
 From what is truly due you as the heirs of Jacob.
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כִּ֛י פִּ֥י יְהוָ֖ה דִּבֵּֽר׃
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 Now!
 For this word come from the Mouth that
 Breathes all life.

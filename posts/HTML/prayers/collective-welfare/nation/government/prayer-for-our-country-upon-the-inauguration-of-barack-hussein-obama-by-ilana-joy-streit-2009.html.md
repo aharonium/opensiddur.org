@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 I am a USer who is politically liberal/ radical/ progressive.
 
 For a number of years before writing this poem, I had been in Shabbat services where we read Prayer for our Country aloud out of the siddur, longingly wishing that we had elected leaders and officials that we could trust and respect.
@@ -22,7 +22,7 @@ Then Barack Obama was elected and inaugurated as President. A few days after he 
 <table style="margin-left: auto;margin-right: auto;">
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 1.    I just want to keep looking 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;at the photo of you 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on the front page of the newspaper
@@ -32,14 +32,14 @@ Then Barack Obama was elected and inaugurated as President. A few days after he 
 
 
 <tr><td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 2.    May all my cells
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;take in this hope
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 3.    May all parents of newborns
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;get an extra half-hour of sleep
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;every night
@@ -47,14 +47,14 @@ Then Barack Obama was elected and inaugurated as President. A few days after he 
 
 
 <tr><td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 4.    May Barack Hussein Obama
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;live to 120
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 5.    May hope, now that we’ve
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;allowed it into us,
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;may it now be free
@@ -66,7 +66,7 @@ Then Barack Obama was elected and inaugurated as President. A few days after he 
 
 
 <tr><td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 6.    May hope, now that we’ve
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;seen it on each other’s faces
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and tasted it in our tears –
@@ -77,7 +77,7 @@ Then Barack Obama was elected and inaugurated as President. A few days after he 
 
 
 <tr><td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 7.    May hope, now that we keep naming it,
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;remain.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;May we perhaps forget
@@ -87,7 +87,7 @@ Then Barack Obama was elected and inaugurated as President. A few days after he 
 
 
 <tr><td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 8.    May there be
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in my lifetime
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a female president
@@ -98,7 +98,7 @@ Then Barack Obama was elected and inaugurated as President. A few days after he 
 
 
 <tr><td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 9.    May none of us pray to President Obama
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;May all of us pray for him
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;May no one prey upon him
@@ -106,7 +106,7 @@ Then Barack Obama was elected and inaugurated as President. A few days after he 
 
 
 <tr><td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 10.  May we continue to merit
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;leaders
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the sight of whom
@@ -116,7 +116,7 @@ Then Barack Obama was elected and inaugurated as President. A few days after he 
 
 
 <tr><td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 11.  I just so love the photo
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on the front page of the newspaper
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of you sitting there in the Oval Office

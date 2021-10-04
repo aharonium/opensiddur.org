@@ -21,7 +21,7 @@ As we approach Israel’s 70th birthday, it is time to make such distinctions. I
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">Transliteration</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span style="color: green;">אמְֹנֵנוּ</span> | אָבִינוּ שֶׁבַּשָּׁמַיִם <span style="color: green;">וּבָאָרֶץ</span>,
 צוּר יִשְׂרָאֵל וְגוֹאֲלוֹ, 
 בָּרֵךְ אֶת מְדִינַת יִשְׂרָאֵל,
@@ -29,7 +29,7 @@ As we approach Israel’s 70th birthday, it is time to make such distinctions. I
 </span></div></td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 <span style="color: green;">Om’neinu</span> | Avinu shebashamayim <span style="color: green;">uva’arets</span>,
 Tsur Yisrael v’go’alo, 
 bareikh et m’dinat Yisrael 
@@ -37,7 +37,7 @@ bareikh et m’dinat Yisrael
 </div></td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 <span style="color: green;">Our source</span> | Our father in heaven <span style="color: green;">and on Earth</span>,
 Rock of Israel and its redeemer, 
 bless the State of Israel, 
@@ -46,7 +46,7 @@ bless the State of Israel,
 
 
 <tr><td style="vertical-align:top;" width="26%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 הָגֵן עָלֶיהָ בְּאֶבְרַת חַסְדֶּךָ, 
 וּפְרֹשׂ עָלֶיהָ סֻכַּת שְׁלוֹמֶךָ,
 וּשְׁלַח אוֹרְךָ <span style="color: green;">וְצִדְקֶךָ</span> לְרׇאשֶׁיהָ 
@@ -58,7 +58,7 @@ bless the State of Israel,
 </span></div></td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 Hagein aleha b’evrat chasdekha, 
 ufros aleha sukat sh’lomekha, 
 ush’lach orkha <span style="color: green;">v’tsidkekha</span> l’rosheha 
@@ -70,7 +70,7 @@ v’shaveha bits’dakah.</span>
 </div></td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 Shield her with Your embrace of love 
 and spread over her Your sukkah-shelter of peace, 
 and send Your light <span style="color: green;"> and Your righteousness</span> to her heads,
@@ -83,7 +83,7 @@ and her captives through righteousness.”</span>[foot]Isaiah 1:27[/foot]
 
 
 <tr><td style="vertical-align:top;" width="26%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 <span style="color: green;">הָצֵל נָא אֶת כָּל אַרְצֶךָ 
 בֵּין יַרְדֵּן לַיָּם 
 מִשְּׁפִיכוּת דָּמִים
@@ -98,7 +98,7 @@ and her captives through righteousness.”</span>[foot]Isaiah 1:27[/foot]
 </span></div></td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 <span style="color: green;">Hatseil na et kol ar’tsekha 
 bein yardein layam 
 mish’fichut damim, 
@@ -114,7 +114,7 @@ v’nomar: <em>Amen</em>.
 
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 <span style="color: green;">Rescue all of Your land, 
 from the Jordan River to the sea, 
 from the spilling of blood, 

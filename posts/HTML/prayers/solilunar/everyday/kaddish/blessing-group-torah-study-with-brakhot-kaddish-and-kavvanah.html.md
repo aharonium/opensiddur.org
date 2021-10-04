@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 What the Rabbis taught about teaching and learning was that all Torah study should begin and end with blessings, just as eating does. Often, in liberal Jewish circles today, these blessings are not done. But without them, it is easier for Torah study to feel like a mere academic discussion, devoid of spirit. And where the blessings are said but only by rote, it is easier for Torah study to feel merely antiquarian and automatic. In Jewish-renewal style, how can we bring new <em>kavvanah</em> --- spiritual meaning, intention, focus, intensity -- to these blessings -- and therefore to the process of Torah study itself?
 
 When I go out to speak and to teach, I define Torah study broadly to include not only traditional text study but also all serious examination of emerging Torah -- where we are going into the new world of the next Judaism, and how it might address such down-to-earth questions as food, money, sex, the earth, rest. So it is not only when we gather in a circle to study a text but also when I am giving a talk or lecture on these subjects, to be followed by a discussion, that I explain this is a process of learning Torah together, and therefore I will begin and end with blessings.
@@ -25,12 +25,12 @@ Then when the class or discussion is over, I will ask people to stand -- if poss
 <thead><tr><th id="x" style="text-align: right;">Hebrew (source)</th><th style="text-align: left;">Free Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עַל יִשְׂרָאֵל וְעַל רַבָּנָן, וְעַל תַּלְמִידֵיהוֹן וְעַל כָּל תַּלְמִידֵי תַלְמִידֵיהוֹן...
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <em>Al Yisrael v'al rabbanan v'al talmidaihon v'al kol talmidai talmidaihon...</em>
 For the people Israel and
 for all who wrestle with God;
@@ -46,12 +46,12 @@ those whom we go forth to teach --
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 For all who study Torah,
 who aim toward wisdom,
 in this place
@@ -62,12 +62,12 @@ and in every place --
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 For all these may there be ...
 overflowing love,
 peacefulness within and peace in the world,
@@ -80,12 +80,12 @@ not from it or upon it --
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And above all, 
 a sense that all these blessings
 come not from our own efforts only,
@@ -95,13 +95,13 @@ weave of Unity --
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְנֹאמַר
 אָמֵן׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <em>v'nomar .... 
 ameyn.</em>
 </div></td></tr>

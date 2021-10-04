@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עָלֵינוּ לְשַׁבֵּחַ לַאֳדוֹן הַכֹּל
 לָתֵת גְדוּלָה לְיוֹצֵר בְּרֵאשִׁית
 שֶׁהוּא עָשָׂנוּ עִם כׇּל הַגוֹיִם 
@@ -22,7 +22,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 We are asked to give praise to the Lord of all, 
 to express the greatness of the Creator.
 Along with all peoples, 
@@ -45,7 +45,7 @@ I’ll sing the first few lines:
 <tbody>
 <tr>
 <td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עָלֵינוּ לְשַׁבֵּחַ לַאֳדוֹן הַכֹּל, 
 לָתֵת גְדוּלָה לְיוֹצֵר בְּרֵאשִׁית
 שֶׁלֹא עָשָׂנוּ כְּגוֹיֵי הַאָרָצוֹת
@@ -56,7 +56,7 @@ I’ll sing the first few lines:
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 We are asked to give praise to the Lord of all, 
 to express the greatness of the Creator.
 He didn't make us like all other peoples,[foot]or Silverman: "like the pagans of the world"[/foot]&nbsp;
@@ -77,13 +77,13 @@ Note that currently, in Israel we find Siddurim that include a sentence that use
 <table style="margin-left: auto;margin-right: auto;">
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ‫שֶׁהֵם מִשְׁתַּחֲוִים לְהֶבֶל וָרִיק,‫
 וּמִתְפַּלְּלִים עַל אֵל לֹא יוֹשִׁיעַ
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 For they worship vanity and emptiness, 
 and pray to a God who cannot save.[foot]This phrase is constructed from the two verses, Isaiah 30:7, "For the help of <em>Mitsrayim</em> (Egypt) shall be (הבל וריק) vain and empty ..."; and Isaiah 45:20. "... No foreknowledge had they who carry their wooden images (וּמתפּללים אל־אל לא יוֹשׁיע) and pray to a god who cannot give success." For more, refer to <a href="https://en.wikipedia.org/wiki/Aleinu#Censored_passage">this Wikipedia article</a>. --Aharon Varady, ed.[/foot]
 </div></td></tr>

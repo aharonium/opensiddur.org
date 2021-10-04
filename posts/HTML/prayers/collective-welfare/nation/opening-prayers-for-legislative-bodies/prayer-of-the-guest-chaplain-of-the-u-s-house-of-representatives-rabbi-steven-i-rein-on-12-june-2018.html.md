@@ -14,23 +14,23 @@ Date of Prayer: 06/12/2018
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <h3>Opening Prayer Given by the Guest Chaplain:</h3>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Sovereign of the universe, 
 the Psalmist proclaims: 
 "How majestic is Your name upon all the Earth,"[foot]Psalms 8:10[/foot]
@@ -40,12 +40,12 @@ and wonders,
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 We stand in awe before the beauty and majesty of Your work. 
 We are humbled in a world so vast 
 and a humanity so diverse 
@@ -54,12 +54,12 @@ You breathe Your spirit into each individual soul.[foot]from the prayer, Nishmat
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Almighty God, 
 bestow Your wisdom and strength 
 upon these Members of the House of Representatives 
@@ -71,12 +71,12 @@ ever mindful of the citizens they serve.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 As Irving Berlin did 100 years ago,[foot]<a href="https://en.wikipedia.org/wiki/God_Bless_America">God Bless America</a>" by Irving Berlin, 1918[/foot]
 we pray that God bless America, 
 and, I would add, 

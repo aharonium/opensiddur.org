@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 עַל הַכֹּל יִתְגַּדַּל וְיִתְקַדַּשׁ
 וְיִשְׁתַּבַּח וְיִתְפָּאַר וְיִתְרוֹמַם וְיִתְנַשֵּׂא,
 שְׁמוֹ שֶׁל מֶֽלֶךְ מַלְכֵי הַמְּלָכִים,
@@ -42,7 +42,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May the name of the Ruler of Rulers,
 the Holy One of Blessings,
 be sanctified and magnified,

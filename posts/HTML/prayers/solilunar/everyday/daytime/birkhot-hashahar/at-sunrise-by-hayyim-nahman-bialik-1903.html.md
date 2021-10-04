@@ -11,18 +11,18 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עִם שָׁמֶשׁ
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <u>At Sunrise</u>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עִם־שֶׁמֶשׁ הַשְׁכִּימוּ לֶהָרִים – וּמְצָאתֶם
 הַזָּהָב הַטּוֹב וְהַכָּתֶם.
 וִהְיִיתֶם רִאשׁוֹנִים לְאוֹר שֶׁמֶשׁ, וּשְׁאָבוֹ
@@ -42,7 +42,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Awake with the sunrise! Clamber on the hills
 To find the gold orient,
 And being first to greet the sunlight, each
@@ -63,7 +63,7 @@ Pray for the sun - the light.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּרְטֻבֵּי טַל־אוֹרוֹת, לַאֲחֵיכֶם תָּשׁוּבוּ,
 וְרָטְבוּ מִכֶּם וְיָנוּבוּ;
 וְאִישׁ אֶל־בֵּית אָבִיו וְאִישׁ אֶל־בֵּית אֶחָיו
@@ -81,7 +81,7 @@ Pray for the sun - the light.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Moist with dew of blossoms ye'll return
 And deck with mantle green
 Each one his friend, and each in his father's house
@@ -100,7 +100,7 @@ And thirst for the sun – the light.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְאִם־תֹּהוּ בִקַּשְׁתֶּם אוֹר־שֶׁמֶשׁ לָעָיִן –
 צְאוּ וּבְרָאוּהוּ מֵאָיִן!
 חִצְבוּהוּ מִסֶּלַע, מִצּוּרִים נַקְּרוּהוּ,
@@ -118,7 +118,7 @@ And thirst for the sun – the light.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 If ye, in search for sunlight, found but void,
 Go, fashion it from nought,
 Hew it from crags and quarry from the rocks,

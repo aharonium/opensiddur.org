@@ -11,33 +11,33 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לַמְנַצֵּ֥חַ עַֽל־הַגִּתִּ֑ית
 לִבְנֵי־קֹ֥רַח מִזְמֽוֹר׃ 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 For the conductor, on the praelum, 
 for the children of Koraḥ, a psalm. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מַה־יְּדִיד֥וֹת מִשְׁכְּנוֹתֶ֗יךָ
 יְהֹוָ֥ה צְבָאֽוֹת׃ 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 How beloved are Your dwelling-places, 
 <span style="text-transform: uppercase;">Cause</span> of Multitudes! 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 נִכְסְפָ֬ה וְגַם־כָּֽלְתָ֨ה ׀ נַפְשִׁי֮
 לְחַצְר֢וֹת יְהֹ֫וָ֥ה 
 לִבִּ֥י וּבְשָׂרִ֑י
@@ -45,7 +45,7 @@ How beloved are Your dwelling-places,
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 We long for, my very self disappears 
 for the courts of the <span style="text-transform: uppercase;">Cause</span>, 
 my heart and my flesh 
@@ -54,7 +54,7 @@ sing out to the God Alive.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 גַּם־צִפּ֨וֹר מָ֪צְאָה בַ֡יִת
 וּדְר֤וֹר ׀ קֵ֥ן לָהּ֮ 
 אֲשֶׁר־שָׁ֢תָה אֶפְרֹ֫חֶ֥יהָ
@@ -63,7 +63,7 @@ sing out to the God Alive.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Yes, the songbird has found a home, 
 and the free-bird a nest for herself 
 where she puts her chicks, 
@@ -73,40 +73,40 @@ my Sovereign and my God.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אַ֭שְׁרֵי יוֹשְׁבֵ֣י בֵיתֶ֑ךָ
 ע֗֝וֹד יְֽהַלְל֥וּךָ סֶּֽלָה׃ 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Happy are those who dwell in Your house, 
 forever will they praise You – Selah. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אַשְׁרֵ֣י אָ֭דָם עֽוֹז־ל֥וֹ בָ֑ךְ
 מְ֝סִלּ֗וֹת בִּלְבָבָֽם׃ 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Happy is the person who strengthens himself in You, 
 the highways on his heart. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עֹבְרֵ֤י ׀ בְּעֵ֣מֶק הַ֭בָּכָא
 מַעְיָ֣ן יְשִׁית֑וּהוּ 
 גַּם־בְּ֝רָכ֗וֹת יַעְטֶ֥ה מוֹרֶֽה׃ 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 They pass in the Valley of Tears – 
 as a spring-place they think of it, yes, 
 blessed with the coverage of early rain. 
@@ -114,27 +114,27 @@ blessed with the coverage of early rain.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יֵ֭לְכוּ מֵחַ֣יִל אֶל־חָ֑יִל
 יֵרָאֶ֖ה אֶל־אֱלֹהִ֣ים בְּצִיּֽוֹן׃ 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 They go from strength to strength, 
 to be seen to God in Zion. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְהֹ֘וָ֤ה אֱלֹהִ֣ים צְ֭בָאוֹת
 שִׁמְעָ֣ה תְפִלָּתִ֑י 
 הַאֲזִ֨ינָה אֱלֹהֵ֖י יַעֲקֹ֣ב סֶֽלָה׃ 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 O <span style="text-transform: uppercase;">Cause</span> God of Multitudes, 
 please hear my prayer, 
 give ear, God of Jacob – Selah. 
@@ -142,27 +142,27 @@ give ear, God of Jacob – Selah.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מָ֭גִנֵּנוּ רְאֵ֣ה אֱלֹהִ֑ים
 וְ֝הַבֵּ֗ט פְּנֵ֣י מְשִׁיחֶֽךָ׃ 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Behold our shield, God, 
 and look upon the face of Your anointed one. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כִּ֤י טֽוֹב־י֥וֹם בַּחֲצֵרֶ֗יךָ מֵ֫אָ֥לֶף
 בָּחַ֗רְתִּי הִ֭סְתּוֹפֵף בְּבֵ֣ית אֱלֹהַ֑י 
 מִ֝דּ֗וּר בְּאׇהֳלֵי־רֶֽשַׁע׃ 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 For better one day in Your courts than a thousand – 
 I would choose to stand at the door of the house of my God 
 than dwell a while in the tents of the evil. 
@@ -170,7 +170,7 @@ than dwell a while in the tents of the evil.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כִּ֤י שֶׁ֨מֶשׁ ׀ וּמָגֵן֮ יְהֹוָ֢ה אֱלֹ֫הִ֥ים
 חֵ֣ן וְ֭כָבוֹד יִתֵּ֣ן יְהֹוָ֑ה 
 לֹ֥א יִמְנַע־ט֗֝וֹב
@@ -178,7 +178,7 @@ than dwell a while in the tents of the evil.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 For sun and shield is the <span style="text-transform: uppercase;">Cause</span> God; 
 the <span style="text-transform: uppercase;">Cause</span> bestows grace and glory; 
 not withholding good 
@@ -187,13 +187,13 @@ from those who go purely.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְהֹוָ֥ה צְבָא֑וֹת
 	אַֽשְׁרֵ֥י אָ֝דָ֗ם בֹּטֵ֥חַ בָּֽךְ׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 O <span style="text-transform: uppercase;">Cause</span> of Multitudes, 
 happy is the person who trusts in You.
 </div></td></tr>

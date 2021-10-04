@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 A tender poem about hope and liberation, as we move day by day towards the full moon that marks the beginning of Passover.
 
 A blessing for announcing the new moon of Nisan, for Rosh Ḥodesh Nisan, and for the whole month.
@@ -20,7 +20,7 @@ A blessing for announcing the new moon of Nisan, for Rosh Ḥodesh Nisan, and fo
 <table style="margin-left: auto;margin-right: auto;">
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Shine on us, shine into us,
 Sliver of moonlight
 Teardrop of a slave

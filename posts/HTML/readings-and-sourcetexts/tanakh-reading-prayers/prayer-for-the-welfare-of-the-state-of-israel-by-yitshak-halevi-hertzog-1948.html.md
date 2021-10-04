@@ -11,14 +11,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָבִינוּ שֶׁבַּשָּׁמַיִם, 
 צוּר יִשְׂרָאֵל וְגוֹאֲלוֹ, 
 בָּרֵךְ אֶת מְדִינַת יִשְׂרָאֵל, 
 רֵאשִׁית צְמִיחַת גְּאֻלָּתֵנוּ. 
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Our father in Shamayim (Heaven), 
 Rock-fortress and redeemer of Yisra'el -- 
 bless the State of Israel, 
@@ -27,14 +27,14 @@ the initial sprouting of our redemption.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הָגֵן עָלֶיהָ בְּאֶבְרַת חַסְדֶּךָ, 
 וּפְרֹשׁ עָלֶיהָ סֻכַּת שְׁלוֹמֶךָ, 
 וּשְׁלַח אוֹרְךָ וַאֲמִתְּךָ לְרָאשֶׁיהָ, שָׂרֶיהָ וְיוֹעֲצֶיהָ, 
 וְתַקְּנֵם בְּעֵצָה טוֹבָה מִלְּפָנֶיךָ. 
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Shield her beneath the wings of your lovingkindness; 
 spread over her your Sukkah of peace;[foot]Cf. the prayer "Hashkivenu," Cf. Amos 9:11, Cf. Rav Avraham Isaac Kook, <em>Mo'adei HaRe’iyah</em> (Silver from the Land of Israel) p. 97[/foot]
 send your light and your truth to its leaders, officers, and counselors, 
@@ -43,7 +43,7 @@ and correct them with your good counsel.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 חַזֵּק אֶת יְדֵי מְגִנֵּי אֶרֶץ קָדְשֵׁנוּ, 
 וְהַנְחִילֵם אֱלֹהֵינוּ יְשׁוּעָה 
 וַעֲטֶרֶת נִצָּחוֹן תְּעַטְּרֵם, 
@@ -51,7 +51,7 @@ and correct them with your good counsel.
 וְשִׂמְחַת עוֹלָם לְיוֹשְׁבֶיהָ.
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Strengthen the defenders of our Holy Land; 
 grant them, our <em>elo'ah</em>, salvation, 
 and crown them with victory. 
@@ -61,7 +61,7 @@ and everlasting joy for its inhabitants.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְאֶת אַחֵינוּ כָּל בֵּית יִשְׂרָאֵל פְּקָד־נָא 
 בְּכָל אַרְצוֹת פְּזוּרֵיהֶם, 
 וְתוֹלִיכֵם מְהֵרָה קוֹמְמִיּוּת לְצִיּוֹן עִירֶךָ 
@@ -74,7 +74,7 @@ and everlasting joy for its inhabitants.
 וְהֵיטִבְךָ וְהִרְבְּךָ מֵאֲבֹתֶיךָ.“<span class="citation">(דברים ל:ד-ה)</span>
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Remember our brethren, the whole house of Yisra'el, 
 in all the lands of their dispersion. 
 Speedily bring them to Tsiyon, your city, 
@@ -89,7 +89,7 @@ and <em>Hashem</em> will make you more prosperous and more numerous than your an
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְיַחֵד לְבָבֵנוּ לְאַהֲבָה וּלְיִרְאָה אֶת שְׁמֶךָ, 
 וְלִשְׁמֹר אֶת כָּל דִּבְרֵי תּוֹרָתֶךָ. 
 וּשְׁלַח לָנוּ מְהֵרָה בֶּן דָּוִד מְשִׁיחַ צִדְקֶךָ, 
@@ -102,7 +102,7 @@ and <em>Hashem</em> will make you more prosperous and more numerous than your an
 אָמֵן סֶלָה.
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Unite our hearts to love and revere your name, 
 and to observe all the precepts of your Torah. 
 Speedily send us your righteous <em>moshiaḥ</em> of the House of David, 

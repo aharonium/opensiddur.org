@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה 
 יְיָ אֱלֹהֵֽינוּ 
 מֶֽלֶךְ הָעוֹלָם,
@@ -19,7 +19,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 וּבָרָא בָֽנוּ נְקָבִים נְקָבִים חֲלוּלִים חֲלוּלִים.
 </span></div></td>
 
-<td style="vertical-align: top" width="53%"><div class="english">
+<td style="vertical-align: top" width="53%"><div class="english" lang="en">
 Praised are You, 
 our God, 
 who transcends time and space,
@@ -29,7 +29,7 @@ creating in us all sorts of ducts and tubes.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מוֹדוֹת אֲנַֽחְנוּ לָךְ, שֶׁנָּתַֽתָּ בְּכֹּחֵֽנוּ
 לְהַכִּיר בִּקְדֻשָּׁת צֶֽלֶם אֱלֹהִים,
 לְהִתְיַצֵר לְאֹֽרֶךְ יָמֵֽינוּ,
@@ -40,7 +40,7 @@ creating in us all sorts of ducts and tubes.
 רוֹפֵא כׇל בָּשָׂר וּמַפְלִיא לַעֲשׂוֹת׃
 </span></div></td>
 
-<td style="vertical-align: top" width="53%"><div class="english">
+<td style="vertical-align: top" width="53%"><div class="english" lang="en">
 We are grateful to You for enabling us
 to recognize the holiness of the Divine Image,[foot]cf. Genesis 2:22.[/foot]
 to continuously create and recreate ourselves,

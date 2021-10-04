@@ -21,12 +21,12 @@ Serving as the guest Chaplain is an incredible honor. Today he is joined by his 
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Divine Source of Blessing, 
 we come before You today 
 to ask Your blessings on the United States Senate 
@@ -35,12 +35,12 @@ and on the 100 men and women who serve our Nation here.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Like King Solomon before them, 
 let these Senators lead our Nation with wisdom, 
 with Your Word and our Nation's Constitution constantly guiding them 
@@ -52,12 +52,12 @@ and for each of Your children on Earth.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Make them ever mindful of Your command 
 to remember the heart of the stranger--
 the people most unlike them and the least powerful of voices--
@@ -66,12 +66,12 @@ for we were all strangers in one Egypt or another.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 In this age of division, 
 unite these Senators, 
 for only when working together 
@@ -81,12 +81,12 @@ do they truly represent all Americans.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Temper the majority's resolve 
 with humility. 
 Let the minority manifest an opposition 
@@ -98,13 +98,13 @@ on the United States of America.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 אָמֵן׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And let us say, 
 <em>Amen.</em>
 </div></td></tr>

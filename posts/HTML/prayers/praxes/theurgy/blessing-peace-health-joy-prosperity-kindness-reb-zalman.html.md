@@ -12,7 +12,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 &nbsp;
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 In March 2016, R' Netanel Miles-Yépez <a href="http://netanelmy.com/blog-1/2016/3/1/reb-zalmans-holy-graffiti">wrote</a>: 
 
 <blockquote>Years ago, my teacher, Rabbi Zalman Schachter-Shalomi, of blessed memory, told me that he had once hiked into the mountains and spray-painted "holy graffiti" on a water reserve tank. He was inspired by the experiments of Dr. <a href="https://en.wikipedia.org/wiki/Masaru_Emoto">Masaru Emoto</a> who claimed that even writing emotionally charged words on a bottle of water changed the structure of the water itself. Words of hate created chaotic structures, and words of love, beautiful patterns. So Reb Zalman took a path into the mountains behind his home in Boulder and hiked up to a large water tank that provided water to the community and spray-painted on it: "Blessings for peace, health, joy, prosperity, and kindness." Today, a little over a year since his passing, I decided to hike up into the mountains to see if I could find the water tank and see if his holy graffiti still existed. I reached the water tank just after six o'clock in the evening. There was plenty of graffiti on it, but none of it "holy"—at least not on the part of it I could see. I decided to look around the back of it. The ground was wet, so I walked the narrow cement edge around the tank, until finally, I came to the faded black remains of Reb Zalman's graffiti. After some twenty years, and probably more than one paint over, it was still here! There was no vantage point from which to take a picture of all of it, so I did what I could to capture it in a series of photos. </blockquote>
@@ -29,7 +29,7 @@ If you do drink from this mug, don't forget to prepare it as a holy vessel by sa
 <table style="margin-left: auto;margin-right: auto;">
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 בָּרוּךְ אַתָּה
  יְיָ אֶלֹהֵינוּ
  מֶלֶךְ הָעוֹלָם,
@@ -37,7 +37,7 @@ If you do drink from this mug, don't forget to prepare it as a holy vessel by sa
  וְצִוָנוּ עַל טְבִלַת כֶּלִי:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Blessed are you, 
 YHVH our <em>elo'ah</em>, 
 cosmic majesty, 
@@ -54,19 +54,19 @@ vetsivanu al tevilat kli
 </tbody></table>
 
 
-<div class="english">Before drinking water or any healthy liquid, make a blessing to acknowledge the one from whom all is created.</div>
+<div class="english" lang="en">Before drinking water or any healthy liquid, make a blessing to acknowledge the one from whom all is created.</div>
 
 <table style="margin-left: auto;margin-right: auto;">
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 בָּרוּךְ אַתָּה
  יְיָ אֱלֹהֵֽינוּ
  מֶֽלֶךְ הָעוֹלָם
  שֶׁהַכֹּל נִהְיָה בִּדְבָרוֹ:‏
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Blessed are you, 
 YHVH our <em>elo'ah</em>, 
 cosmic majesty, 
@@ -80,12 +80,12 @@ shehakol nih’yeh bid’varo
 </tr>
 </tbody></table>
 
-<div class="english">And after you feel satiated, remember to bless.</div>
+<div class="english" lang="en">And after you feel satiated, remember to bless.</div>
 
 <table style="margin-left: auto;margin-right: auto;">
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 בָּרוּךְ אַתָּה
  יְיָ אֱלֹהֵֽינוּ
  מֶֽלֶךְ הָעוֹלָם
@@ -95,7 +95,7 @@ shehakol nih’yeh bid’varo
  בָּרוּךְ חַי הָעוֹלָמִים:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Blessed are you, 
 YHVH our <em>elo'ah</em>, 
 Cosmic Majesty, 

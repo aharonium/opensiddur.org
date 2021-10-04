@@ -11,14 +11,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרֲכִ֥י נַפְשִׁ֗י אֶת־יְה֫וָ֥ה 
 יְהוָ֣ה אֱ֭לֹהַי גָּדַ֣לְתָּ מְּאֹ֑ד 
 ה֭וֹד וְהָדָ֣ר לָבָֽשְׁתָּ׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Bless, my spirit, the <span style="text-transform: uppercase;">All-Cause</span>! 
 O <span style="text-transform: uppercase;">All-Cause</span>, my God, very great; 
 strength and splendor You wear. 
@@ -26,27 +26,27 @@ strength and splendor You wear.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עֹֽטֶה־א֭וֹר כַּשַּׂלְמָ֑ה 
 נוֹטֶ֥ה שָׁ֝מַ֗יִם כַּיְרִיעָֽה׃ 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Wrapping with light as a cloak; 
 stretching heaven as a cloth.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַ֥מְקָרֶֽה בַמַּ֗יִם עֲֽלִיּ֫וֹתָ֥יו
 הַשָּׂם־עָבִ֥ים רְכוּב֑וֹ 
 הַֽ֝מְהַלֵּ֗ךְ עַל־כַּנְפֵי־רֽוּחַ׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Setting out in the water Their high-chambers; 
 placing clouds as Their chariot; 
 walking upon the wind’s wings.
@@ -54,144 +54,144 @@ walking upon the wind’s wings.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עֹשֶׂ֣ה מַלְאָכָ֣יו רוּח֑וֹת 
 מְ֝שָׁרְתָ֗יו אֵ֣שׁ לֹהֵֽט׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Making the winds Their messengers; 
 Their attendants the fiery flame.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יָֽסַד־אֶ֭רֶץ עַל־מְכוֹנֶ֑יהָ 
 בַּל־תִּ֝מּ֗וֹט עוֹלָ֥ם וָעֶֽד׃ 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 They set up the earth on its foundation; 
 never to quake, forever and ever.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 תְּ֭הוֹם כַּלְּב֣וּשׁ כִּסִּית֑וֹ
 עַל־הָ֝רִ֗ים יַֽעַמְדוּ־מָֽיִם׃ 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 With the depths, like clothing They clothed it; 
 up the mountains water stood.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִן־גַּעֲרָ֣תְךָ֣ יְנוּס֑וּן 
 מִן־ק֥וֹל רַֽ֝עַמְךָ֗ יֵחָפֵזֽוּן׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 From Your rebuke they fled; 
 from the sound of Your thunder they ran off.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יַעֲל֣וּ הָ֭רִים יֵרְד֣וּ בְקָע֑וֹת 
 אֶל־מְ֝ק֗וֹם זֶ֤ה ׀ יָסַ֬דְתָּ לָהֶֽם׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 The mountains rose, the valleys sank; 
 to the place You set for them.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 גְּֽבוּל־שַׂ֭מְתָּ בַּל־יַֽעֲבֹר֑וּן 
 בַּל־יְ֝שׁוּב֗וּן לְכַסּ֥וֹת הָאָֽרֶץ׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 You set a border for them not to pass; 
 so as not to return to cover the earth.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַֽמְשַׁלֵּ֣חַ מַ֭עְיָנִים בַּנְּחָלִ֑ים 
 בֵּ֥ין הָ֝רִ֗ים יְהַלֵּכֽוּן׃ 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Sending out springs in the wadis; 
 between the mountains they run.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יַ֭שְׁקוּ כָּל־חַיְת֣וֹ שָׂדָ֑י 
 יִשְׁבְּר֖וּ פְרָאִ֣ים צְמָאָֽם׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 They let the wild beasts drink; 
 the onagers, sating their thirst.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עֲ֭לֵיהֶם עוֹף־הַשָּׁמַ֣יִם יִשְׁכּ֑וֹן 
 מִבֵּ֥ין עֳ֝פָאיִ֗ם יִתְּנוּ־קֽוֹל׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Upon them the sky’s birds settle; 
 between the boughs they sing out.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מַשְׁקֶ֣ה הָ֭רִים מֵעֲלִיּוֹתָ֑יו 
 מִפְּרִ֥י מַ֝עֲשֶׂ֗יךָ תִּשְׂבַּ֥ע הָאָֽרֶץ׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Watering Their mountain high-chambers; 
 the earth is full of the fruit of Your labors.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מַצְמִ֤יחַ חָצִ֨יר ׀ לַבְּהֵמָ֗ה 
 וְ֭עֵשֶׂב לַעֲבֹדַ֣ת הָאָדָ֑ם 
 לְה֥וֹצִיא לֶ֝֗חֶם מִן־הָאָֽרֶץ׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Making the grass spring fourth for the cattle; 
 and plants to serve humankind; 
 to bring out bread from the earth.
@@ -199,14 +199,14 @@ to bring out bread from the earth.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְיַ֤יִן ׀ יְשַׂמַּ֬ח לְֽבַב־אֱנ֗וֹשׁ 
 לְהַצְהִ֣יל פָּנִ֣ים מִשָּׁ֑מֶן 
 וְ֝לֶ֗חֶם לְֽבַב־אֱנ֥וֹשׁ יִסְעָֽד׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And wine bringing joy to people’s heart; 
 brightening the face more than oil; 
 and bread to strengthen humankind’s heart.
@@ -214,118 +214,118 @@ and bread to strengthen humankind’s heart.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יִ֭שְׂבְּעוּ עֲצֵ֣י יְהוָ֑ה 
 אַֽרְזֵ֥י לְ֝בָנ֗וֹן אֲשֶׁ֣ר נָטָֽע׃ 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 The <span style="text-transform: uppercase;">All-Cause</span>’s trees are satiated; 
 the Lebanon cedars They planted.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֲשֶׁר־שָׁ֭ם צִפֳּרִ֣ים יְקַנֵּ֑נוּ 
 חֲ֝סִידָ֗ה בְּרוֹשִׁ֥ים בֵּיתָֽהּ׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 In them the songbirds nest; 
 while the stork’s home is in the cypresses.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הָרִ֣ים הַ֭גְּבֹהִים לַיְּעֵלִ֑ים 
 סְ֝לָעִ֗ים מַחְסֶ֥ה לַֽשְׁפַנִּֽים׃ 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 The high mountains are for the wild goats; 
 the crags are a refuge for the hyraxes.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עָשָׂ֣ה יָ֭רֵחַ לְמוֹעֲדִ֑ים 
 שֶׁ֝֗מֶשׁ יָדַ֥ע מְבוֹאֽוֹ׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 They made the moon for appointed times; 
 the sun knowing when it sets.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 תָּֽשֶׁת־חֹ֭שֶׁךְ וִ֣יהִי לָ֑יְלָה 
 בּֽוֹ־תִ֝רְמֹ֗שׂ כָּל־חַיְתוֹ־יָֽעַר׃ 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 You make darkness and there is night; 
 in which all the forest animals creep out.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַ֭כְּפִירִים שֹׁאֲגִ֣ים לַטָּ֑רֶף 
 וּלְבַקֵּ֖שׁ מֵאֵ֣ל אָכְלָֽם׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 The lions roar for prey; 
 and to beg God for food.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 תִּזְרַ֣ח הַ֭שֶּׁמֶשׁ יֵאָסֵפ֑וּן 
 וְאֶל־מְ֝עוֹנֹתָ֗ם יִרְבָּצֽוּן׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 The sun rises, they gather away; 
 and in their dens they lie down.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יֵצֵ֣א אָדָ֣ם לְפָעֳל֑וֹ 
 וְֽלַעֲבֹ֖דָת֣וֹ עֲדֵי־עָֽרֶב׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Humankind goes out to its deeds; 
 and labors until evening.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מָֽה־רַבּ֬וּ מַעֲשֶׂ֨יךָ ׀ יְֽהוָ֗ה 
 כֻּ֭לָּם בְּחָכְמָ֣ה עָשִׂ֑יתָ 
 מָלְאָ֥ה הָ֝אָ֗רֶץ קִנְיָנֶֽךָ׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 How many are Your works, O <span style="text-transform: uppercase;">All-Cause</span>! 
 All of them in wisdom You made; 
 the earth, full of Your creatures.
@@ -333,14 +333,14 @@ the earth, full of Your creatures.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 זֶ֤ה ׀ הַיָּ֥ם גָּדוֹל֮ וּרְחַ֪ב 
 יָ֫דָ֥יִם שָֽׁם־רֶ֭מֶשׂ וְאֵ֣ין מִסְפָּ֑ר 
 חַיּ֥וֹת קְ֝טַנּ֗וֹת עִם־גְּדֹלֽוֹת׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 This is the big wide sea; 
 in it many critters; 
 animals, small and large.
@@ -348,53 +348,53 @@ animals, small and large.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שָׁ֭ם אֳנִיּ֣וֹת יְהַלֵּכ֑וּן 
 לִ֝וְיָתָ֗ן זֶֽה־יָצַ֥רְתָּ לְשַֽׂחֶק־בּֽוֹ׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 There go the boats; 
 the Sea-Beast who You crafted to play with.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כֻּ֭לָּם אֵלֶ֣יךָ יְשַׂבֵּר֑וּן 
 לָתֵ֖ת אָכְלָ֣ם בְּעִתּֽוֹ׃ 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 All of them wait for You; 
 to give them their food at its time.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 תִּתֵּ֣ן לָ֭הֶם יִלְקֹט֑וּן 
 תִּפְתַּ֥ח יָֽ֝דְךָ֗ יִשְׂבְּע֥וּן טֽוֹב׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 You give to them - they gather it; 
 You open Your hand - they are sated with good.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 תַּסְתִּ֥יר פָּנֶיךָ֮ יִֽבָּהֵ֫ל֥וּן 
 תֹּסֵ֣ף ר֭וּחָם יִגְוָע֑וּן 
 וְֽאֶל־עֲפָרָ֥ם יְשׁוּבֽוּן׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 You hide Your face - they vanish; 
 You take back their breath - they expire; 
 And to their dust they return.
@@ -402,72 +402,72 @@ And to their dust they return.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 תְּשַׁלַּ֣ח ר֭וּחֲךָ יִבָּרֵא֑וּן 
 וּ֝תְחַדֵּ֗שׁ פְּנֵ֣י אֲדָמָֽה׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 You send out Your spirit - they are created; 
 and You renew the face of the land.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְהִ֤י כְב֣וֹד יְהוָ֣ה לְעוֹלָ֑ם 
 יִשְׂמַ֖ח יְהוָ֣ה בְּמַעֲשָֽׂיו׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May the honor of the <span style="text-transform: uppercase;">All-Cause</span> be eternal; 
 may the <span style="text-transform: uppercase;">All-Cause</span> rejoice in Their works!
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַמַּבִּ֣יט לָ֭אָרֶץ וַתִּרְעָ֑ד 
 יִגַּ֖ע בֶּהָרִ֣ים וְֽיֶעֱשָֽׁנוּ׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Who regards the earth and it trembles; 
 who touches the mountains and they smoke.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָשִׁ֣ירָה לַיהוָ֣ה בְּחַיָּ֑י 
 אֲזַמְּרָ֖ה לֵאלֹהַ֣י בְּעוֹדִֽי׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 I seek to sing to the <span style="text-transform: uppercase;">All-Cause</span> while I live; 
 I wish to hymn to my God while I exist.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יֶעֱרַ֣ב עָלָ֣יו שִׂיחִ֑י 
 אָ֝נֹכִ֗י אֶשְׂמַ֥ח בַּיהוָֽה׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May my meditation please Them; 
 and as for me, I rejoice in the <span style="text-transform: uppercase;">All-Cause</span>.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יִתַּ֤מּוּ חַטָּאִ֨ים ׀ מִן־הָאָ֡רֶץ 
 וּרְשָׁעִ֤ים ׀ ע֤וֹד אֵינָ֗ם
 בָּרֲכִ֣י נַ֭פְשִׁי אֶת־יְהוָ֗ה 
@@ -475,7 +475,7 @@ and as for me, I rejoice in the <span style="text-transform: uppercase;">All-Cau
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May sinners end from the earth; 
 may evil no longer exist! 
 Bless, my spirit, the <span style="text-transform: uppercase;">All-Cause</span>! 

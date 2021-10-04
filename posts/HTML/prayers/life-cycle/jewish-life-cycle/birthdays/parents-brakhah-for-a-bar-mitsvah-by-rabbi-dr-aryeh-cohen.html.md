@@ -11,14 +11,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בְּרִיךְ רַחְמָנָא דְאַרְעָא וּשְׁמַיָא
 דִי מִפוּמֵיה אוֹרָיְיתָא אִתְגַלְיָא
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Blessed Loving One of the Heavens and Earth, 
 from whose mouth Torah was revealed,
 </div>
@@ -26,7 +26,7 @@ from whose mouth Torah was revealed,
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="instruction">לבר מצווה:</span> 
 אֲשֶׁר סִיֵּעַ בַּעֲדֵנוּ לְחַנֵּךְ אֶת בְּנֵנוּ, 
 לְגַדְּלוֹ לְתּוֹרָה וּלְמִצְוֺת, 
@@ -40,7 +40,7 @@ from whose mouth Torah was revealed,
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 (for a bar mitsvah) 
 who supported us in educating this child, 
 raising him to Torah and mitsvot, 
@@ -55,7 +55,7 @@ to the love of righteousness and the path of justice.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="instruction">לבר מצווה:</span> 
 אָנָא בַּעַל הָרַחֲמִים, 
 הַשְׁקִיפָה מִמְּעוֹן קָדְשְׁךָ עַל הֶמְשֵׁךְ דַרְכּוֹ, 
@@ -69,7 +69,7 @@ to the love of righteousness and the path of justice.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 (for a bar mitsvah) 
 Please Merciful One, 
 look down from Your holy abode upon the continuation of his path, 
@@ -84,13 +84,13 @@ and bless this child all her days.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְנֹאמַר אָמֵן.
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And let us say <em>amen</em>.
 </div>
 </td></tr>
@@ -98,7 +98,7 @@ And let us say <em>amen</em>.
 
 <hr />
 
-I wrote this brakhah on the occasion of my son Oryah's bar mitsvah. The Aramaic/Hebrew and the translation are mine. My partner and I recited the blessing after my son was called up to the Torah. The brakhah replaces the <span class="hebrew">ברוך שפטרנו</span> which is recited in some communities. This blessing (which is basically self-explanatory) expresses gratitude for Divine favor leading to this moment and a prayer for Heavenly guidance for my son's continued path. Though the translation is gender neutral in relation to God, the Hebrew/Aramaic is gendered masculine. This is my practice with regards to my children. I bless my daughter with feminine God language and my son with masculine God language.
+I wrote this brakhah on the occasion of my son Oryah's bar mitsvah. The Aramaic/Hebrew and the translation are mine. My partner and I recited the blessing after my son was called up to the Torah. The brakhah replaces the <span class="hebrew" lang="he">ברוך שפטרנו</span> which is recited in some communities. This blessing (which is basically self-explanatory) expresses gratitude for Divine favor leading to this moment and a prayer for Heavenly guidance for my son's continued path. Though the translation is gender neutral in relation to God, the Hebrew/Aramaic is gendered masculine. This is my practice with regards to my children. I bless my daughter with feminine God language and my son with masculine God language.
 
 [Many thanks to <a href="http://spaciousfaith.com/about/">Joanna Harader</a> for sharing her paper collage, "<a href="http://spaciousfaith.com/2011/01/31/blessing-the-children/">Blessing the Children</a>." Many thanks to Shira Hannah Fischer for her naqdanut. --Aharon N. Varady]
 </body>

@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עַל הַנִּסִּים 
 וְעַל הַפֻּרְקָן 
 וְעַל הַגְּבוּרוֹת 
@@ -23,7 +23,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 For the miracles
 and the relief 
 and the mighty acts
@@ -36,7 +36,7 @@ and in this time
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בימי אבותינו הקדמונים 
 גלינו מארצינו 
 וחרבה ארצינו 
@@ -50,7 +50,7 @@ and in this time
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 In the days of our ancestors, 
 we were exiled from our land
 and our land was ruined, 
@@ -65,7 +65,7 @@ remembering our fate.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 והנה בדורינו 
 לעמך ישראל פניך הארת 
 וזכינו אנו נדחי ישראל 
@@ -79,7 +79,7 @@ remembering our fate.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And now, in our generation, 
 you shined your light on your people, Yisra'el
 And we have merited having the dispersed of Yisra'el
@@ -94,7 +94,7 @@ and rebuilt its glory.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מצווארינו פירקנו את עול הגויים 
 וזכינו להקים את מדינת ישראל 
 ראשית צמיחת גאולתינו
@@ -114,7 +114,7 @@ and rebuilt its glory.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 We threw the yoke of the Gentile nations off our necks 
 and we were privileged to establish the State of Israel,
 the beginning of our growing redemption.
@@ -135,7 +135,7 @@ and Truth and Peace you shall love.’”[foot]Zechariah 8:19.[/foot]
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אבינו שבשמים צור ישראל וגואלו, 
 עזר נא לכל קצוות עמך 
 להבין ולהכיר את הנס הגדול 
@@ -145,7 +145,7 @@ and Truth and Peace you shall love.’”[foot]Zechariah 8:19.[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Our Father in Heaven, Rock of Yisra'el and its redeemer,
 Please help all the factions of your people
 understand and recognize the great miracle

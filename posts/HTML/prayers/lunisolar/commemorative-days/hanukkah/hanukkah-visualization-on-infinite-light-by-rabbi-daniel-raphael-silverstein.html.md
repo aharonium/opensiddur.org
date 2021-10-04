@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 According to the Ḥasidic Master and Kabbalist, R' Levi Yitzchak of Berditchev (1740 – 1810), a key theme of Ḥanukkah is vision, and the festival offers us an important opportunity to work with and heal our sense of sight (see <em>Kedushat Levi</em>, Ḥanukkah 2:2).
 
 The candles of Ḥanukkah provide an optimal object for visual meditation. As taught in the passages below, we are invited to gaze into their flames and to see the light of infinite potential. Our ancient tradition teaches that this light, the <em>Or HaGanuz</em>, is the hidden light of creation, consciousness, healing and redemption (see Genesis Rabbah 11:2, Niddah 30b and Ḥagigah 12a).
@@ -24,21 +24,21 @@ Gazing at the candles themselves is a profound practice, but they are not essent
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="40%">
-<div class="commentary"><span lang="he">
+<div class="commentary" lang="he">
 בראשית רבה יא:ב
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <u>Midrash Genesis Rabbah 11:2</u>
 </div></td></tr>
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָמַר רַבִּי יְהוּדָה בַּר רַבִּי סִימוֹן
 אוֹר שֶׁבָּרָא הַקָּדוֹשׁ בָּרוּ הוּא בְּיוֹם רִאשׁוֹן
 אָדָם צוֹפֶה וּמַבִּיט בּוֹ
 מִסּוֹף הָעוֹלָם וְעַד סוֹפוֹ
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 R' Yehudah bar R' Simōn said:
 The light which the blessed Holy One, created on the first day -- 
 Adam could see with it
@@ -47,23 +47,23 @@ from one end of the universe to the other.
 
 
 <tr><td style="vertical-align:top;">
-<div class="commentary"><span lang="he">
+<div class="commentary" lang="he">
 בני יששכר על כסלו וטבת ב:ח
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <u>Bnei Yissascher on Kislev and Tevet 2:8</u>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 קראו לימים האלה חנוכה
 שהוא חינוך והרגל על לעתיד גאולה העתידה
 שאז יתגלה לנו האור הגנוז בשלימות
 כמשארז"ל
 וגנזו לצדיקים לעתיד לבא <span class="citation">(חגיגה יב א׳)</span>
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 These days are called Ḥanukkah, 
 meaning dedication and training for the future redemption
 when the Hidden Light will be completely revealed to us. 
@@ -74,23 +74,23 @@ As our sages say,
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <u>Practice Instructions for Ḥanukkah Visualization</u>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">• Decide how long you want to practice for. 
 
 If you're new to this, try five minutes. 
@@ -101,12 +101,12 @@ whereas more advanced meditators might sit for a hour.</span>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">• Sit quietly 
 in a comfortable position, 
 with the spine upright, 
@@ -117,12 +117,12 @@ Close your eyes and let out a few yawns or sighs to relax your body.</span>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">• Now just sit, 
 not trying to change or do anything, 
 except observe whatever arises in your body and mind – 
@@ -131,12 +131,12 @@ thoughts, feelings, whatever comes.</span>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">• After a minute or two, 
 set your intention to visualize the Ḥanukkah lights in front of you. 
 
@@ -145,12 +145,12 @@ Their flames are radiating a light of pure love, hope and awareness.</span>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">• When you are ready, 
 visualize this light going wherever you like. 
 
@@ -160,12 +160,12 @@ and whoever else you would like to bring to mind.</span>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">• Let this light of love, hope and awareness spread 
 to people you know and others, 
 all around the world. 
@@ -175,12 +175,12 @@ Eventually, let it spread to all beings, everywhere.</span>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">• When physical sensations, feelings, thoughts or other distractions come, 
 don't try to fight them. 
 
@@ -191,12 +191,12 @@ to appreciating and sharing the light of Ḥanukkah.</span>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">• When it is time to bring your practice to a close, 
 slowly open your eyes and gently let your body move however it wants to. 
 

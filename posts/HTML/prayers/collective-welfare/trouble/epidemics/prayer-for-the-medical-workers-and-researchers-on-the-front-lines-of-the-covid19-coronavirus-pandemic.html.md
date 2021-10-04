@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִי שֶׁבֵּרַךְ אֲבוֹתֵינוּ
 אַבְרָהָם יִצְחָק וְיַעֲקֹב,
 וְאִמּוֹתֵינוּ שָׂרָה רִבְקָה רָחֵל וְלֵאָה,
@@ -31,7 +31,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May the One who blessed our ancestors,
 Abraham, Isaac, and Jacob,
 Sarah, Rebecca, Rachel, and Leah;
@@ -52,7 +52,7 @@ to stop the plague.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֱ־לֹהִים לָנוּ מַחֲסֶה וָעֹז 
 עֶזְרָה בְצָרוֹת נִמְצָא מְאֹד <span class="citation">(תהלים מו:ב)</span>
 רְפָאֵנוּ ה׳ וְנֵרָפֵא, 
@@ -61,7 +61,7 @@ to stop the plague.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 God, our shelter and strength! 
 Help in times of trouble, always accessible![foot]Psalms 46:2.[/foot]&nbsp;
 Heal us, Hashem, and we will be healed; 
@@ -71,7 +71,7 @@ for You are our praise![foot]cf. Jeremiah 17:14[/foot]
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כְּשֵׁם שֶׁלִּמַּדְתָּ אֶת מֹשֶׁה רַבֵּנוּ 
 לַעֲשׂוֹת אֶת נְחַשׁ הַנְּחֹשֶׁת,
 וְאֶת אַהֲרֹן הַכֹּהֵן 
@@ -92,7 +92,7 @@ for You are our praise![foot]cf. Jeremiah 17:14[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Just as you taught Moses our Teacher 
 to craft the bronze serpent,[foot]Numbers 21[/foot]&nbsp;
 and Aaron the Priest 
@@ -114,13 +114,13 @@ You heal the sick of all flesh, performing wonders.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כֵּן יְהִי רָצוֹן
 וְנֹאמַר אָמֵן׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May such be Your will,
 and let us say, <em>amein</em>.
 </div></td></tr>

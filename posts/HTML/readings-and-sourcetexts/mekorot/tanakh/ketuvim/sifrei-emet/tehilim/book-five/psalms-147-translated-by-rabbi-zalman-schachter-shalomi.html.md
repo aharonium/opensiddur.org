@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַ֥לְלוּ יָ֨הּ ׀ 
 כִּי־ט֭וֹב זַמְּרָ֣ה אֱלֹהֵ֑ינוּ 
 כִּֽי־נָ֝עִים 
@@ -32,7 +32,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <strong>Hallelu-Yah!</strong>
 It is so good to sing to our god 
 Make good music 
@@ -54,20 +54,20 @@ His way of comprehension.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מְעוֹדֵ֣ד עֲנָוִ֣ים יְהוָ֑ה 
 מַשְׁפִּ֖יל רְשָׁעִ֣ים עֲדֵי־אָֽרֶץ׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Yah, encourages the downtrodden, 
 But the insolent, he brings low.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עֱנ֣וּ לַיהוָ֣ה בְּתוֹדָ֑ה 
 זַמְּר֖וּ 
 לֵאלֹהֵ֣ינוּ 
@@ -79,7 +79,7 @@ But the insolent, he brings low.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Offer gratitude to Yah! 
 To the harp, 
 Sing songs of celebration 
@@ -92,7 +92,7 @@ Making the hills sprout forth grass.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 נוֹתֵ֣ן לִבְהֵמָ֣ה 
 לַחְמָ֑הּ 
 לִבְנֵ֥י עֹ֝רֵ֗ב 
@@ -110,7 +110,7 @@ Making the hills sprout forth grass.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Giving the animals the food 
 They need; 
 Even to the young ravens, 
@@ -129,7 +129,7 @@ Celebrate that he is your god!
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כִּֽי־חִ֭זַּק 
 בְּרִיחֵ֣י שְׁעָרָ֑יִךְ 
 בֵּרַ֖ךְ בָּנַ֣יִךְ 
@@ -143,7 +143,7 @@ Celebrate that he is your god!
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Because he strengthened 
 The bars of your gates, 
 And blessed your children 
@@ -158,7 +158,7 @@ His command is swiftly fulfilled.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַנֹּתֵ֣ן שֶׁ֣לֶג כַּצָּ֑מֶר 
 כְּ֝פ֗וֹר 
 כָּאֵ֥פֶר יְפַזֵּֽר׃
@@ -171,7 +171,7 @@ His command is swiftly fulfilled.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Snow, like white wool, 
 He sends down. 
 Frost, he scatters like sand.
@@ -185,14 +185,14 @@ And the waters flow.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מַגִּ֣יד דברו [דְּבָרָ֣יו] לְיַעֲקֹ֑ב 
 חֻקָּ֥יו וּ֝מִשְׁפָּטָ֗יו 
 לְיִשְׂרָאֵֽל׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 He imparts his words to Yaakov; 
 His statutes and judgments 
 To Yisrael. 
@@ -200,7 +200,7 @@ To Yisrael.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 לֹ֘א עָ֤שָׂה כֵ֨ן ׀ 
 לְכָל־גּ֗וֹי וּמִשְׁפָּטִ֥ים 
@@ -209,7 +209,7 @@ To Yisrael.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Alas!
 He did not do the same 
 For other nations. His judgments, 

@@ -31,7 +31,7 @@ It was reprinted in the US by the Hebrew Publishing Company and went through man
 
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 PREFATORY NOTE 
 
 The need for a new English translation of the Festival Prayers has been long felt, and has yet remained unsatisfied. Almost equally important was the necessity for producing an accurate and continuous Hebrew text. 

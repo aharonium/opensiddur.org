@@ -16,7 +16,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 FOREWORD
 
 The traditions of the Jews of Spain and of the lands of Islam were forged in a rich cultural atmosphere pulsating with literary, musical, philosophical and religious creativity. Over many centuries and spread across a vast territory – from Spain and Morocco in the West to India in the East – Sephardic and Mizrahi Jews lived in dynamic relationship with their surrounding cultures, often as full participants.
@@ -119,7 +119,7 @@ To enable this, subtle dots are used to show letters that some traditions articu
 
 Example:
 
-<span class="liturgy">שִׁ֥יר הַשִּׁירִ֖ים אֲשֶׁ֥ר לִשְׁלֹמֹֽה׃ יִשָּׁקֵ֙נִי֙ מִנְּשִׁיק֣וֹת פִּ֔יהוּ כִּֽי־טוֹבִ֥ים דֹּדֶ֖יךָ מִיָּֽיִן׃ לְרֵ֙יחַ֙ שְׁמָנֶ֣יךָ טוֹבִ֔ים שֶׁ֖מֶן תּוּרַ֣ק שְׁמֶ֑ךָ עַל־כֵּ֖ן עֲלָמ֥וֹת אֲהֵבֽוּךָ׃</span>
+<span class="liturgy" lang="he">שִׁ֥יר הַשִּׁירִ֖ים אֲשֶׁ֥ר לִשְׁלֹמֹֽה׃ יִשָּׁקֵ֙נִי֙ מִנְּשִׁיק֣וֹת פִּ֔יהוּ כִּֽי־טוֹבִ֥ים דֹּדֶ֖יךָ מִיָּֽיִן׃ לְרֵ֙יחַ֙ שְׁמָנֶ֣יךָ טוֹבִ֔ים שֶׁ֖מֶן תּוּרַ֣ק שְׁמֶ֑ךָ עַל־כֵּ֖ן עֲלָמ֥וֹת אֲהֵבֽוּךָ׃</span>
 
 <em>Shir hashshirim, asher liShlomoh. Yishshakéni minnəshikot pihu, ki–toṿim doḍekha miyyayin. Ləré-aḥ shəmanekha toṿim, shemen turak shəmekha; ‘al–kén, ‘alamot ahéṿukha.</em>
 

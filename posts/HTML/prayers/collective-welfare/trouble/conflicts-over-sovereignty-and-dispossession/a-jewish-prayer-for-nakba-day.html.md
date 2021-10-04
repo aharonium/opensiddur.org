@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 A prayer I wrote drawing on Jewish texts about exile and return, for our Palestinian brothers and sisters on <a href="http://en.wikipedia.org/wiki/Nakba_Day">Nakba Day</a>.
 </div>
 
@@ -18,7 +18,7 @@ A prayer I wrote drawing on Jewish texts about exile and return, for our Palesti
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="25%">
-<div class="arabic"><span lang="ar">
+<div class="arabic" lang="ar">
 ربّنا وربّ آبائنا وأجدادنا ,
 الذي استجاب لإبراهيم حين همّ بالتضحية بإبنه ,
 الذي افتقد سارة على باب خيمتها ,
@@ -31,7 +31,7 @@ A prayer I wrote drawing on Jewish texts about exile and return, for our Palesti
  </span></div></td>
  
 <td style="vertical-align:top;" width="25%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
  אלהנו ואלהי אבותינו,
  שענה לאברהם בעת עקדת בנו,
  שפקד את שרה בפתח אהלה,
@@ -45,7 +45,7 @@ A prayer I wrote drawing on Jewish texts about exile and return, for our Palesti
  ושעומדים היום לאבד את בתיהם.
  </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 Our God, and God of our ancestors,
 who answered Avraham when his son was bound on the altar,[foot]liturgy, days of awe.[/foot]&nbsp;
 who remembered Sarah’s prayers in her tent for a child,[foot]Genesis 21:1[/foot]&nbsp;
@@ -63,14 +63,14 @@ and those who are still at risk of losing their homes.[foot]Yizkor prayer for Na
 
 <tr>
 <td style="vertical-align:top;" width="25%">
-<div class="arabic"><span lang="ar">
+<div class="arabic" lang="ar">
 إستمع إلى صلواتهم للمّ شملهم في أرض آبائهم .
 كي يعودوا سعيدين إلى أرضهم .
 كي نكتب "بسعادة" إلى بيتهم "وبسرور" إلى مدينتهم .
  </span></div></td>
  
 <td style="vertical-align:top;" width="25%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
  שמע תפילותיהם 
 לאיחוד משפחות מופרדות באדמת אבותיהם, 
 והם יכולים לחזור באושר לארצם
@@ -78,7 +78,7 @@ and those who are still at risk of losing their homes.[foot]Yizkor prayer for Na
 “ובששון" לעירם.
   </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 May their prayers be heard 
 so that families be re-united in the land of their ancestors, 
 and they can return in happiness to their land 
@@ -90,14 +90,14 @@ in the cities, in the villages, and outside the villages.
 
 <tr>
 <td style="vertical-align:top;" width="25%">
-<div class="arabic"><span lang="ar">
+<div class="arabic" lang="ar">
 " لتسكنوا على الارض امنين",
 واصعدوا بسلام إلى مدينتكم المقدسة ,ودعنا نسكن سويّة .
 اَلتَّابعُ الْعَدْلَ وَالرَّحْمَةَ يَجِدُ حَيَاةً، حَظًّا وَكَرَامَةً.
  </span></div></td>
  
 <td style="vertical-align:top;" width="25%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
  ”וישבתם על הארץ לבטח“ 
  ולעלות בשלום לעיר קודשך, 
  ותן שנגור ביחד.
@@ -105,7 +105,7 @@ in the cities, in the villages, and outside the villages.
  וּבְחֶ֖סֶד וּֽבְרַחֲמִֽים.“
    </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 May they dwell securely in the land,[foot]Leviticus 25:18[/foot] without fear of being uprooted, 
 and may they be free to go up to Your holy city[foot]A traditional name for Jerusalem that is identical to its Arabic name.[/foot]&nbsp;
 and may we all dwell together 
@@ -116,7 +116,7 @@ and with kindness and with mercy.[foot]Hosea 2:21 partial[/foot]&nbsp;
 
 <tr>
 <td style="vertical-align:top;" width="25%">
-<div class="arabic"><span lang="ar">
+<div class="arabic" lang="ar">
 ضع روح الإخاء والمودّة علينا , 
 كما قيل " و انزع قلب الحجر من لحمكم و اعطيكم قلب لحم" 
 ونقول آمين
@@ -124,14 +124,14 @@ and with kindness and with mercy.[foot]Hosea 2:21 partial[/foot]&nbsp;
 </td>
 
 <td style="vertical-align:top;" width="25%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
  שים רוח אחוה וחמלה עלינו 
  שנאמר ”והסרתי את לב האבן מבשרכם 
  ונתתי לכם לב בשר.“ ‏
  ונאמר ”אמן“‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 Help us all to have compassion for one another, 
 as it is written, “and I will take your heart of stone, 
 and replace it with a heart of flesh.”[foot]Ezekiel 26:36[/foot]&nbsp;

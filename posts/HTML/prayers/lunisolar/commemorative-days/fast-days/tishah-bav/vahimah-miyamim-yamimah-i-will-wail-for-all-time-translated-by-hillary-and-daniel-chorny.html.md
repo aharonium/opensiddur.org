@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align: top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 וְאֶת נָוִי חַטָּאתִי הִשְׁמִימָה 
 וְדִמְעָתִי עַל לֶחְיִי אַזְרִימָה 
 וּבְיוֹם זֶה נְהִי וְנִהְיָה אָרִימָה 
@@ -20,7 +20,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 My sin destroyed my abode, 
 so I will send tears down my cheeks, 
 and on this day I will take up lament and elegy. 
@@ -30,7 +30,7 @@ And so I will wail for all time.[foot]Cf. Judges 11:40[/foot]
 
 
 <tr><td style="vertical-align: top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 אֶבֶל לֵב וְנִחוּם חָדַל חָדוֹל 
 וּמִכָּל כְּאֵב צִירִי נִבְדַּל בָּדוֹל 
 עַל בֵּן וּבַת רִבִּי יִשְׁמָעֵאל כֺּהֵן גָּדוֹל 
@@ -40,7 +40,7 @@ And so I will wail for all time.[foot]Cf. Judges 11:40[/foot]
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 For my mournful heart comfort has utterly ceased, 
 my sorrow is without compare to any other pain; 
 for the son and daughter of my rabbi, Yishmael, the high priest, 
@@ -51,7 +51,7 @@ And so I will wail for all time.
 
 
 <tr><td style="vertical-align: top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 עֵת נִשְׁבּוּ וְנָפְלוּ לִשְׁנֵי אֲדוֹנִים 
 וְהֵם שְׁכֵנִים זֶה לְעֻמַּת זֶה חוֹנִים 
 וַיְסַפְּרוּ זֶה לָזֶה עִנְיָנִים 
@@ -64,7 +64,7 @@ And so I will wail for all time.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 At the time of their capture, 
 they fell to two masters who lived opposite one another. 
 And while they were relating stories to one another, 
@@ -78,7 +78,7 @@ And so I will wail for all time.
 
 
 <tr><td style="vertical-align: top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 רֵעֵהוּ סִפֶּר לוֹ בַּכִפְלַיִם 
 וַאֲנִי בָא מִשְּׁבִי יְרוּשָׁלַיִם 
 שָׁבִיתִי עַבֶד יְפֵה עֵינַיִם 
@@ -89,7 +89,7 @@ And so I will wail for all time.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 His fellow boasted in return, 
 “I, too, have come from the conquest of Jerusalem; 
 I have captured a beautiful manservant, 
@@ -101,7 +101,7 @@ And so I will wail for all time.
 
 
 <tr><td style="vertical-align: top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 בֺּא וּנְזַוְּגֵם וְנַחַלְקָה בֵּינוֹתַיִם בִּוְלָדוֹת 
 כְּמוֹ כוֹכַבֵי שָׁמַיִם 
 לְשֵׁמַע זֺאת תִּצַּלְנָה אָזְנַיִם לְזֵכֶר 
@@ -111,7 +111,7 @@ And so I will wail for all time.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 “Come, let us breed them, and divide their offspring [between us], 
 like the stars in the heavens [they will be].” 
 The ears of all those who hear this will ring. 
@@ -122,7 +122,7 @@ And so I will wail for all time.
 
 
 <tr><td style="vertical-align: top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 כְּהִסְכִּימוּ עַל זֺאת שְׁנֵיהַם יַחַד 
 לָעֶרֶב זִוְּגוּם בְּחֶדֶר אֶחָד 
 וְהָאֲדוֹנִים מִבַּחוּץ לִבָּם כְּאֶחָד 
@@ -133,7 +133,7 @@ And so I will wail for all time.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Having agreed upon this matter, 
 they put [the pair] together in a cell; 
 the masters, of one mind, remained outside. 
@@ -145,7 +145,7 @@ And so I will wail for all time.
 
 
 <tr><td style="vertical-align: top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 זֶה יִסְפּוֹד בְּחִיל לֵבָב יִמְסֶה 
 נִין אַהֲרֺן אֵיךְ שִּׁפְחָה יְהִי נוֹשֵׂא 
 וְהִיא גַם הִיא תְּיַלֵל בְּתִגְרַת שׁוֹסֶה 
@@ -157,7 +157,7 @@ And so I will wail for all time.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 [The boy] bemoaned with an aching heart: 
 “How can a descendant of Aaron lie with a slave girl?”
  And she, too, lamented her captor’s dealings: 
@@ -170,7 +170,7 @@ And so I will wail for all time.
 
 
 <tr><td style="vertical-align: top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 אוֹר בֹּקֶר זֶה אֶת זֶה כְּהִכִּירוּ 
 הוֹי אָח וְהוֹי אָחוֹת הִגְבִּירוּ 
 וְנִתְחַבְּקוּ יַחַד וְנִתְחַבָּרוּ 
@@ -180,7 +180,7 @@ And so I will wail for all time.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 By morning light, when they recognized one another, 
 [their wailing] erupted anew, “Alas, my brother! Alas, my sister!” 
 They clung to each other 
@@ -191,7 +191,7 @@ And so I will wail for all time.
 
 
 <tr><td style="vertical-align: top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 לְזֺאת יְקוֹנֵן יִרְמְיָה בִּשְׁאִיָּה 
 גְּזֵרָה זֺאת אֲנִי תָּמִיד בּוֹכִיָּה 
 וּבִלְבָבִי יֵקַד יְקוֹד וּכְוִיָּה 
@@ -203,7 +203,7 @@ And so I will wail for all time.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 For this, Jeremiah lamented among the ruins, 
 “For this decree I will forever bemoan, 
 and in my heart will burn a searing blaze. 

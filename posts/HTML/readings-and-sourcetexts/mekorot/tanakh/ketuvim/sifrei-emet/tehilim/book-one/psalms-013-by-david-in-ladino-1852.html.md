@@ -11,46 +11,46 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: right;">Translation (Ladino)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 <sup>א</sup>&nbsp;לַמְנַצֵּ֗חַ 
 מִזְמ֥וֹר לְדָוִֽד׃
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%">
-<div class="ladino" style="text-align: right;"><span lang="he">
+<div class="ladino" lang="lad" style="text-align: right;">
 <sup>1</sup>&nbsp;אל פרימיר קאנטאדﬞור. 
 סאלמו די דויד׃
 </span></div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 <sup>ב</sup>&nbsp;עַד־אָ֣נָה יְ֭הוָה תִּשְׁכָּחֵ֣נִי נֶ֑צַח 
 עַד־אָ֓נָה ׀ תַּסְתִּ֖יר אֶת־פָּנֶ֣יךָ מִמֶּֽנִּי׃
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%">
-<div class="ladino" style="text-align: right;"><span lang="he">
+<div class="ladino" lang="lad" style="text-align: right;">
 <sup>2</sup>&nbsp;אסטה קואנדו, או ה׳, מי אולבﬞידﬞאס סיימפרי? 
 אסטה קואנדו אינקובﬞריס טוס פﬞאסיס די מי?׃
 </span></div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 <sup>ג</sup>&nbsp;עַד־אָ֨נָה אָשִׁ֪ית עֵצ֡וֹת בְּנַפְשִׁ֗י יָג֣וֹן בִּלְבָבִ֣י יוֹמָ֑ם 
 עַד־אָ֓נָה ׀ יָר֖וּם אֹיְבִ֣י עָלָֽי׃
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%">
-<div class="ladino" style="text-align: right;"><span lang="he">
+<div class="ladino" lang="lad" style="text-align: right;">
 <sup>3</sup>&nbsp;אסטה קואנדו פונדרי קונסיזﬞוס אין מי אלמה אי אנסייה אין מי קוראסון טודﬞו איל דיאה? 
 אסטה קואנדו סי אינאלטיסירה מי אנימיגו סובﬞרי מי?׃
 </span></div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 <sup>ד</sup>&nbsp;הַבִּ֣יטָֽה 
 עֲ֭נֵנִי 
 יְהוָ֣ה אֱלֹהָ֑י 
@@ -58,7 +58,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%">
-<div class="ladino" style="text-align: right;"><span lang="he">
+<div class="ladino" lang="lad" style="text-align: right;">
 <sup>4</sup>&nbsp;קאטה! 
 ריספונדימי, 
 או ה׳ מי דייו! 
@@ -67,20 +67,20 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 <sup>ה</sup>&nbsp;פֶּן־יֹאמַ֣ר אֹיְבִ֣י יְכָלְתִּ֑יו 
 צָרַ֥י יָ֝גִ֗ילוּ כִּ֣י אֶמּֽוֹט׃
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%">
-<div class="ladino" style="text-align: right;"><span lang="he">
+<div class="ladino" lang="lad" style="text-align: right;">
 <sup>5</sup>&nbsp;פארה קי נון דיגה מי אינימיגו, לו בﬞינסי! 
 פארה קי נון סי גוזין מיס אנגוסטייאדﬞוריס פורקי מי איסמובﬞי׃
 </span></div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 <sup>ו</sup>&nbsp;וַאֲנִ֤י ׀ בְּחַסְדְּךָ֣ בָטַחְתִּי֮ 
 יָ֤גֵ֥ל לִבִּ֗י בִּֽישׁוּעָ֫תֶ֥ךָ 
 אָשִׁ֥ירָה לַיהוָ֑ה 
@@ -88,7 +88,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%">
-<div class="ladino" style="text-align: right;"><span lang="he">
+<div class="ladino" lang="lad" style="text-align: right;">
 <sup>6</sup>&nbsp;אי ייו מי אינפﬞיגוזייו אין טו מירסידﬞ. 
 מי קוראסון סי גוזארה אין טו סאלבﬞאסייון. 
 קאנטארי אה ה׳. 

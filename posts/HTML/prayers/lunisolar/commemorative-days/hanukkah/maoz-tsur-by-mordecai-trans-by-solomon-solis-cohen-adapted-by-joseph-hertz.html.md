@@ -12,7 +12,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="31%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span style="font-size: xx-large;">מָ</span>עוֹז צוּר יְשׁוּעָתִי 
 לְךָ נָאֶה לְשַׁבֵּֽחַ
 תִּכּוֹן בֵּית תְּפִלָּתִי 
@@ -26,7 +26,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </td>
 
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 <span style="font-size: xx-large;">M</span>aˈoz tsur yeshuˈati
 lekha naˈeh leshabbeaḥ
 tikkon bet tefillati
@@ -40,7 +40,7 @@ beshir mizmor
 </td>
 
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 <span style="font-size: xx-large;"> </span>Mighty, praised beyond compare,
 Rock of my salvation,
 Build again my House of Pray'r 
@@ -55,7 +55,7 @@ Psalms of dedication!
 
 
 <tr><td style="vertical-align:top;" width="31%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 <span style="font-size: xx-large;">רָ</span>עוֹת שָׂבְעָה נַפְשִׁי 
 בְּיָגוֹן כֹּחִי כָלָה
 חַיַּי מֵרֲרוּ בְקֽוּשִׁי 
@@ -69,7 +69,7 @@ Psalms of dedication!
 </td>
 
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 <span style="font-size: xx-large;">R</span>aˈot saveˈa nafshi
 beyagon koḥi khala
 ḥayyay meraru vekushi
@@ -83,7 +83,7 @@ yardu keˈeven metsula
 </td>
 
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 <span style="font-size: xx-large;"> </span>Woe was mine in Egypt-land 
 Tyrant kings enslaved me,
 Till Thy mighty, outstretched Hand 
@@ -98,7 +98,7 @@ That proud boast
 
 
 <tr><td style="vertical-align:top;" width="31%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 <span style="font-size: xx-large;">דְּ</span>בִיר קׇדְשׁוֹ הֱבִיאַֽנִי 
 וְגַם שָׁם לֹא שָׁקַֽטְתִּי
 וּבָא נוֹגֵשׂ וְהִגְלַֽנִי 
@@ -112,7 +112,7 @@ That proud boast
 </td>
 
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 <span style="font-size: xx-large;">D</span>evir kodsho heviˈani
 vegam sham lo shakatti
 uva noges vehiglani
@@ -126,7 +126,7 @@ lekeits shivˈim noshaˈeti
 </td>
 
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 <span style="font-size: xx-large;"> </span>To thy holy Hill, the way 
 Mad'st Thou clear before me;
 With false gods I went astray—
@@ -141,7 +141,7 @@ Had'st Thou to restore me!
 
 
 <tr><td style="vertical-align:top;" width="31%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 <span style="font-size: xx-large;">כְּ</span>רוֹת קוֹמַת בְּרוֹשׁ בִּקֵּשׁ 
 אֲגָגִי בֶּן־הַמְּדָֽתָא
 וְנִהְיָֽתָה לּוֹ לְמוֹקֵשׁ 
@@ -155,7 +155,7 @@ Had'st Thou to restore me!
 </td>
 
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 <span style="font-size: xx-large;">K</span>erot komat berosh bikkesh
 Agagi ben-Hammedata
 venihyata lo lemokesh
@@ -169,7 +169,7 @@ al haˈets talita
 </td>
 
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 <span style="font-size: xx-large;"> </span>Then the vengeful Haman wrought 
 Subtly to betray me;
 In his snare himself he caught—
@@ -184,7 +184,7 @@ Gave Thy servant zealous.
 
 
 <tr><td style="vertical-align:top;" width="31%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 <span style="font-size: xx-large;">יְ</span>וָנִים נִקְבְּצוּ עָלַי 
 אֲזַי בִּימֵי חַשְׁמַנִּים
 וּפָרְצוּ חוֹמוֹת מִגְדָּלַי 
@@ -198,7 +198,7 @@ Gave Thy servant zealous.
 </td>
 
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 <span style="font-size: xx-large;">Y</span>evanim nikbetsu alay
 azai bimei ḥashmannim
 ufaretsu ḥomot migdalay
@@ -212,7 +212,7 @@ kavˈu shir urnanim
 </td>
 
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 <span style="font-size: xx-large;"> </span>When the brave Asmoneans broke 
 Javan's chain in sunder,
 Through the holy oil, Thy folk 

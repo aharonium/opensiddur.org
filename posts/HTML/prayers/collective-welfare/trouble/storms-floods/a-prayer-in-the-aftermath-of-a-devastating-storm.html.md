@@ -12,13 +12,13 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אלהי הרוחות
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <em>Elohei haRuchot</em>, God of the Winds,[foot]Numbers 27:16[/foot]
 Fixated as we are by incalculable losses in our families, our neighbors, 
 human beings spanning national borders,
@@ -27,12 +27,12 @@ human beings spanning national borders,
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 We are, as ever, called to share bread with the hungry, 
 to take those who suffer into our homes, 
 to clothe the naked, 
@@ -45,12 +45,12 @@ and we need Your Help.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 We pray from the depths of our souls 
 and we pray with the toil of our bodies 
 for healing in the face of devastation. 
@@ -63,24 +63,24 @@ and ask You for even more strength and hope.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 God, open our hearts 
 to generously support those determined to undo this chaos.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 God, be with us 
 as we utilize every network at our disposal 
 to support each other. 
@@ -92,12 +92,12 @@ Be with us and be with them, God.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Be with those awaiting news from loved ones, 
 reeling from fire, water and wind 
 that have crippled cities, decimated villages, 
@@ -107,12 +107,12 @@ Be with all of us, God.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Be with us God, 
 comfort us, and support us 
 as we rebuild that which has been lost.
@@ -120,12 +120,12 @@ as we rebuild that which has been lost.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May all this be Your will.
 Amen.
 </div></td>

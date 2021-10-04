@@ -21,101 +21,101 @@ This is Reb Zalman's Sabbath Supplement to his <em><a href="http://opensiddur.or
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <h2>INDEX</h2>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <a href="http://opensiddur.org/?p=29292">Shabbat Affirmations</a>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <a href="http://opensiddur.org/?p=10031">Yedid Nefesh</a>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <a href="http://opensiddur.org/?p=29329">Yah Ekhsof Noam Shabbat</a>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <a href="http://opensiddur.org/?p=29318">Anim Zemirot: A Hymn of Glory</a>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <a href="http://opensiddur.org/?p=29287">Adon Olam</a>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <a href="http://opensiddur.org/?p=29349">Hymn</a> (Prayer Song by Stephen Hanan)
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <a href="http://opensiddur.org/?p=20811">Psalms 104</a>
 <a href="http://opensiddur.org/?p=29187">Psalms 139</a>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <a href="http://opensiddur.org/?p=29357">Tsam'ah Nafshi</a>
 <a href="http://opensiddur.org/?p=29301">Nishmat Kol Ḥai</a>
 <a href="http://opensiddur.org/?p=29274">El Adon</a>
@@ -126,24 +126,24 @@ This is Reb Zalman's Sabbath Supplement to his <em><a href="http://opensiddur.or
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <a href="http://opensiddur.org/?p=29339">Yom Zeh l'Yisrael Orah V'simḥah Shabbat Menukhah</a>
 <a href="http://opensiddur.org/?p=29346">Yom Shabbaton Eyn Lishko'aḥ</a>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <a href="http://opensiddur.org/?p=21390">Blessings to those you davvened with and for your own day</a>
 </div></td></tr>
 </tbody></table>

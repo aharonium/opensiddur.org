@@ -13,7 +13,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <hr />
 
-<div class="english">
+<div class="english" lang="en">
 <h2>ON THE RABBINICAL APPROXIMATION OF π</h2>
 BOAZ TSABAN AND DAVID GARBER, tsaban@macs.biu.ac.il, garber@macs.bin.ac.il
 Department of Mathematics, Bar-Ilan University, 52900 Ramat-Gan, Israel,

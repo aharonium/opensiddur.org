@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-This version of the <em>Aleinu</em> recognizes that all nations play a role in God's plan for humanity. It offers an alternative to the traditionally particularist liturgy, "<span class="hebrew">שֶׁלֹּא עָשָֽׂנוּ כְּגוֹיֵי הָאֲרָצוֹת וְלֹא שָׂמָֽנוּ כְּמִשְׁפְּחוֹת הָאֲדָמָה: שֶׁלֹּא שָׂם חֶלְקֵֽנוּ כָּהֶם וְגֹרָלֵֽנוּ כְּכָל הֲמוֹנָם:‏</span> ("since God has not made us like the nations of other lands, and has not placed us like other families of the earth, since God has not assigned for us a portion as for them, nor a lot as unto all their multitude"). -- Aharon Varady
+This version of the <em>Aleinu</em> recognizes that all nations play a role in God's plan for humanity. It offers an alternative to the traditionally particularist liturgy, "<span class="hebrew" lang="he">שֶׁלֹּא עָשָֽׂנוּ כְּגוֹיֵי הָאֲרָצוֹת וְלֹא שָׂמָֽנוּ כְּמִשְׁפְּחוֹת הָאֲדָמָה: שֶׁלֹּא שָׂם חֶלְקֵֽנוּ כָּהֶם וְגֹרָלֵֽנוּ כְּכָל הֲמוֹנָם:‏</span> ("since God has not made us like the nations of other lands, and has not placed us like other families of the earth, since God has not assigned for us a portion as for them, nor a lot as unto all their multitude"). -- Aharon Varady
 
 <hr />
 
@@ -15,7 +15,7 @@ This version of the <em>Aleinu</em> recognizes that all nations play a role in G
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עָלֵינוּ לְשַׁבֵּֽחַ  לַאֲדוֹן הַכֹּל
 לָתֵת גְּדֻלָּה לְיוֹצֵר בְּרֵאשִׁית,‏
 שֶׁהוּא עָשָׂה גוֹיִם רַבִּים
@@ -27,7 +27,7 @@ This version of the <em>Aleinu</em> recognizes that all nations play a role in G
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 It is up to us to praise the Foundation of all,
 to attribute greatness to the One who formed creation,
 who made many nations, 

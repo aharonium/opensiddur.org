@@ -7,12 +7,11 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-
 <table style="width: 100%;margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew (masculine god-language)</th><th style="text-align: right;">Hebrew (feminine god-language)</th><th>English (translation)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 זְכוֹר יְפַת מַרְאֶה שֶׁזִיוָוהּ כַּטוֹהַר מַיִם
 עָשְׂתָה נְפָשׁוֹת עַל יְדֵי מִקְוָות מַיִם 
 בְּזִקְנָהּ זָבוּ שַׁדֶיהָ חָלָב כַּמַיִם
@@ -30,7 +29,7 @@ baavurah al timna mayim
 </td>
  
 <td style="vertical-align:top;">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 זִכְרִי יְפַת מַרְאֶה שֶׁזִיוָוהּ כַּטוֹהַר מַיִם
 עָשְׂתָה נְפָשׁוֹת עַל יְדֵי מִקְוָות מַיִם 
 בְּזִקְנָהּ זָבוּ שַׁדֶיהָ חָלָב כַּמַיִם
@@ -48,7 +47,7 @@ baavurah al timni mayim
 </td>
  
 <td style="vertical-align:top;" width=""33%"">
-<div class="english">
+<div class="english" lang="en">
 Remember the beautiful one: her radiance pure as water!
 She welcomed new souls through immersion in water.
 In her old age her breasts flowed with milk like water.
@@ -59,7 +58,7 @@ For Sarah’s sake, do not withhold water.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 זְכוֹר נַעֲרָה שֶׁעַלוּ לִקְרָתָה מַיִם
 וַתּוֹרֶד כַּדָּהּ עַל יָדָהּ וְנָתְנָה מַיִם
 גַם לַגְמַלִּים שָׁאֲבָה מִבְּאֵר מַיִם
@@ -77,7 +76,7 @@ betzidkah chon chashrat mayim
 </td>
  
 <td style="vertical-align:top;">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 זִכְרִי נַעֲרָה שֶׁעַלוּ לִקְרָתָה מַיִם
 וַתּוֹרֶד כַּדָּהּ עַל יָדָהּ וְנָתְנָה מַיִם
 גַם לַגְמַלִּים שָׁאֲבָה מִבְּאֵר מַיִם
@@ -95,7 +94,7 @@ betzidkah choni chashrat mayim
 </td>
  
 <td style="vertical-align:top;" width=""33%"">
-<div class="english">
+<div class="english" lang="en">
 Remember the maiden: rising up to greet her, water!
 She let down her pitcher and gave to the thirsty water.
 She drew even for camels from the well of water.
@@ -106,7 +105,7 @@ For the sake of Rivka’s righteousness, grant the gift of water.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 זְכוֹר רוֹעָה שֶׁבָּאָה עִם הַצְאוֹן לְמַיִם
 נִפְטְלָה נַפְתּוּלֵי אֱלֹהִים אַדִּירִים מִמִּשְׁבְּרֵי מַיִם
 מְבָכָה עַל בָּנֶיהָ דִמְעוֹת מַיִם
@@ -124,7 +123,7 @@ baavurah al timna mayim
 </td>
  
 <td style="vertical-align:top;">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 זִכְרִי רוֹעָה שֶׁבָּאָה עִם הַצְאוֹן לְמַיִם
 נִפְטְלָה נַפְתּוּלֵי אֱלֹהִים אַדִּירִים מִמִּשְׁבְּרֵי מַיִם
 מְבָכָה עַל בָּנֶיהָ דִמְעוֹת מַיִם
@@ -142,7 +141,7 @@ baavurah al timni mayim
 </td>
  
 <td style="vertical-align:top;" width=""33%"">
-<div class="english">
+<div class="english" lang="en">
 Remember the shepherdess: she brought her sheep to water!
 She wrestled God-wrestlings mightier than crashing water.
 For her exiled children she weeps tears of water,
@@ -153,7 +152,7 @@ For Rachel’s sake, do not withhold water.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 זְכוֹר נִסְתָרָה נָפְלָה צְעִיפָה כַּמַים
 שִׁבְחָה הוֹדֶךָ וְיָלְדָה בְּזֶרֶם מַיַם
 רַחְמָהּ וּמַעֲשֶׂיהָ שָפְעוּ מִמַּעַיְנֵי מַיִם
@@ -171,7 +170,7 @@ betzidkah chon chashrat mayim
 </td>
  
 <td style="vertical-align:top;">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 זִכְרִי נִסְתָרָה נָפְלָה צְעִיפָה כַּמַיִם
 שִׁבְחָה הוֹדֵךְ וְיָלְדָה בְּזֶרֶם מַיִם
 רַחְמָהּ וּמַעֲשֶׂיהָ שָפְעוּ מִמַּעַיְנֵי מַיִם
@@ -189,7 +188,7 @@ betzidkah choni chashrat mayim
 </td>
  
 <td style="vertical-align:top;" width=""33%"">
-<div class="english">
+<div class="english" lang="en">
 Remember the hidden one: her veil like a fall of water!
 Her womb and her deeds were more abundant than springs of water.
 She praised You for Your glory as there flowed from her birth water.
@@ -200,7 +199,7 @@ For the sake of Leah’s righteousness, grant the gift of water.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 זְכוֹר אֲחוֹת שֶׁנִצְבָה מֵרַחוֹק לְמַיִם
 פוֹאָה לַוְולָדִים וְהִיצִילָם מִיְאוֹר מַיִם
 וַתִּקַּח הַתּוֹף בְּיָדָהּ וַתַּעַן בִּבְקִיעַת מַיִם
@@ -218,7 +217,7 @@ betzidkah chon chashrat mayim
 </td>
  
 <td style="vertical-align:top;">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 זִכְרִי אֲחוֹת שֶׁנִצְבָה מֵרַחוֹק לְמַיִם
 פוֹאָה לַוְולָדִים וְהִיצִילָם מִיְאוֹר מַיִם
 וַתִּקַּח הַתּוֹף בְּיָדָהּ וַתַּעַן בִּבְקִיעַת מַיִם
@@ -236,7 +235,7 @@ baavurah al timni mayim
 </td>
  
 <td style="vertical-align:top;" width=""33%"">
-<div class="english">
+<div class="english" lang="en">
 Remember the sister: she watched at a distance from water!
 She spoke softly to newborns and saved them from the river of water.
 She took up her timbrel and sang at the parting of water.

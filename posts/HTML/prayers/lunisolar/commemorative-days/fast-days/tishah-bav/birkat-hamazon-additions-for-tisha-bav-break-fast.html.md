@@ -11,18 +11,18 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;"><a href="https://opensiddur.org/contributing/upload/">Contribute a translation</a></th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ברוך אתה יי אלהינו מלך העולם הזן את העולם כולו בטובו בחן בחסד וברחמים
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 נַחֵם
 גּ֯וֹאֲלֵ֫נוּ אֶת־הָעִיר הָאֲבֵלָה
 <blockquote>נַעֲרָהּ מֵאֶפְרָהּ וּמֵרֹב טִלְטוּלָהּ
@@ -34,35 +34,35 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ברוך אתה יי הזן את הכל.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 נודה לך יי אלהינו על שהנחלת לאבותינו ארץ חמדה טובה ורחבה ברית ותורה חיים ומזון
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 נַחֵם
 רִ֯בְצֵ֫נוּ אֲשֶׁר־לְצִיָּה נִתָּ֫נָה
 <blockquote>הַצְמַח צִמְחָתָהּ וְהַפְרַח דְּגָנָהּ
@@ -73,46 +73,46 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לָגִיל בְּאַרְצָם שֶׁבִּבְרִיתָךְ הִנְחַלְתָּם (בחול אומרים: וּפְנֵיהֶם אֶל־אַרְצָם שֶׁבִּבְרִיתָךְ הִנְחַלְתָּם)
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ברוך אתה יי על הארץ ועל המזון.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רחם יי אלהינו על ישראל עמך ועל ירושלים עירך ועל ציון משכן כבודך ועל מלכות בית דוד משיחך ועל הבית הגדול והקדוש שנקרא שמך עליו
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 נַחֵם
 אָ֯הֳלָךְ וַעֲזָרָתָךְ הַהֲרוּסָה
 <blockquote>הַגְדֵּל פְּאֵרָהּ וְתַצִּלֶ֫הָ מִמְּשִׁסָּה
@@ -125,18 +125,18 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ברוך אתה יי אלהינו מלך העולם האל אבינו מלכנו אדירנו קדושנו קדוש יעקב המלך הטוב והמטיב אשר בכל יום ויום הוא הטיב מטיב ייטיב לנו, הוא גמלנו גומלנו יגמלנו לעד חן וחסד ורחמים וכל טוב.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 
 </span></div></td></tr>
 </tbody></table>

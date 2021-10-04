@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 Note: "The SOURCE" is used to translate the Divine Name YAH. “The CAUSE” is used to translate the Divine Name YHVH, based on the philosophical idea of God as the Prime Mover and on the interpretation of the Name as a causative form of the copula – “causes to be.” 
 </div>
 
@@ -17,7 +17,7 @@ Note: "The SOURCE" is used to translate the Divine Name YAH. “The CAUSE” is 
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַ֥לְלוּ יָ֨הּ ׀ 
 שִׁ֣ירוּ לַֽ֭יהֹוָה שִׁ֣יר חָדָ֑שׁ
 תְּ֝הִלָּת֗וֹ בִּקְהַ֥ל חֲסִידִֽים׃ 
@@ -28,7 +28,7 @@ Note: "The SOURCE" is used to translate the Divine Name YAH. “The CAUSE” is 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Praise the SOURCE! 
 Sing to the SOURCE a new song,  
 Divine praises in the faithful community.
@@ -40,7 +40,7 @@ with drum and lyre sing to it.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כִּֽי־רוֹצֶ֣ה יְהֹוָ֣ה בְּעַמּ֑וֹ
 יְפָאֵ֥ר עֲ֝נָוִ֗ים בִּישׁוּעָֽה׃
 יַעְלְז֣וּ חֲסִידִ֣ים בְּכָב֑וֹד
@@ -57,7 +57,7 @@ with drum and lyre sing to it.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 For the CAUSE desires the People,  
 adorning the humble with victory.
 The faithful exult with honor,      

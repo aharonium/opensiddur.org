@@ -15,7 +15,7 @@ If you would like to help in this salvaging process, you can make an online dona
 
 <hr />
 
-<div class="english">
+<div class="english" lang="en">
 Last spring, HAVURAH spoke with Reb Zalman Schachter-Shalomi about the kind of liturgy needed in the havurah movement, and how a siddur could be put together. Here are some of Zalman's thoughts about why and how we davven, and what we can create.
 <h3><strong>WHY DO WE DAVVEN?</strong></h3>
 At one time we used to have a notion that <em>davvenen</em> was in order to impress God. But the philosophers said, "Come on, you can't impress God." Most of the <em>ḥavurah</em> folks don't <em>davven</em> just because <em>halacha</em> says to do it. That's not the way we are touched or connected. What we are connected with is harder to talk about, but what keeps coming up is this: "A whole week I'm "I"; now I want to become "we." I must have some connection with transcendence, but transcendence as defined by my reference group." It has to be non-sexist, non-age-ist, and so forth; it becomes very hard to have a <em>siddur</em>, because if it had any zap, it's been circumscribed out; it has to be an androgynous zap, and we don't have that in our language.

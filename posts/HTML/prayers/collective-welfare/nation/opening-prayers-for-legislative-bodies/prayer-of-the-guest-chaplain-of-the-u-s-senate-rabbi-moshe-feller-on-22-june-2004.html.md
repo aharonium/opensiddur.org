@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size:1.2em;">
+<div class="english" lang="en" style="font-size:1.2em;">
 Guest Chaplain: Rabbi Moshe Feller, of Saint Paul, Minnesota
 Sponsor: 
 Date of Prayer: 2004-06-22
@@ -19,22 +19,22 @@ Date of Prayer: 2004-06-22
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <h3>Opening Prayer Given by the Guest Chaplain:</h3>
 </div></td></tr>
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Almighty God, 
 Master of the Universe, 
 the Members of the U.S. Senate 
@@ -47,12 +47,12 @@ the command to govern by just laws.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 As related in the book of Genesis 
 and its sacred commentaries, 
 You issued at that time the following seven laws:[foot]Sanhedrin 56a; cf. Tosefta Avodah Zarah 8:4 and Genesis Rabbah 34:8. Six items were commanded to Adam: concerning idolatry, blasphemy, bloodshed, illicit sexuality, theft, and laws…God added to Noah, the law of not eating from the flesh of a live animal.” (Maimonides, Laws of Kings 9:1). The impetus behind sharing the sheva mitsvot in the context of ḤaBaD Lubavitch originates with the following teaching of Rabbi Menachem Mendel Schneerson: "We must do everything possible to ensure that the seven Noahide laws are observed. If this can be accomplished through force or through other kinder and more peaceful means through explaining to non-Jews that they should accept God’s wishes [we should do so]…Anyone who is able to influence a non-Jew in any way to keep the seven commandments is obligated to do so, since that is what God commanded Moses our teacher," (“Sheva Mitzvot Shel Benai Noach,” Hapardes 59:9 7-11, 5745).[/foot]&nbsp;
@@ -76,12 +76,12 @@ You issued at that time the following seven laws:[foot]Sanhedrin 56a; cf. Toseft
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Grant, Almighty God, 
 that the Members of the Senate 
 constantly realize 
@@ -91,12 +91,12 @@ they are performing your will.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Almighty God, 
 I beseech You today 
 to bless the Senate 
@@ -115,12 +115,12 @@ to make all mankind aware of Your sacred presence.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May his memory be for a blessing, 
 and his merit be for a shield 
 for our Government and our country, 
@@ -130,12 +130,12 @@ which he always referred to as
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <em>Amen</em>.
 </div></td></tr>
 </tbody></table>

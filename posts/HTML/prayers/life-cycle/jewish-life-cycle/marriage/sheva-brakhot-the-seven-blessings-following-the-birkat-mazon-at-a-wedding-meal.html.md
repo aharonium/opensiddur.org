@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה 
 יְיָ אֱלֹהֵֽינוּ
 מֶֽלֶךְ הָעוֹלָם
@@ -20,7 +20,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Blessed are you
 YHVH our <em>elo'ah</em>
 Cosmic Majesty,
@@ -30,7 +30,7 @@ in divine self-honor.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה
 יְיָ אֱלֹהֵֽינוּ
 מֶֽלֶךְ הָעוֹלָם
@@ -38,7 +38,7 @@ in divine self-honor.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Blessed are you
 YHVH our <em>elo'ah</em>
 Cosmic Majesty,
@@ -47,7 +47,7 @@ Who created the <em>Adam</em>.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה
 יְיָ אֱלֹהֵֽינוּ
 מֶֽלֶךְ הָעוֹלָם
@@ -62,7 +62,7 @@ Who created the <em>Adam</em>.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Blessed are you
 YHVH our <em>elo'ah</em>
 Cosmic Majesty,
@@ -78,7 +78,7 @@ Who created the <em>Adam</em>.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שׂוֹשׂ תָּשִׂישׂ 
 וְתָגֵל (<span class="instruction">נ״א:</span> הָ)עֲקָרָה
 בְּקִבּוּץ בָּנֶֽיהָ 
@@ -90,7 +90,7 @@ Who created the <em>Adam</em>.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Let her be extremely joyful 
 and exultant, (the) barren woman, 
 at the gathering of the children 
@@ -103,7 +103,7 @@ through her children.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שַׂמֵּֽחַ תְּשַׂמַּח 
 רֵעִים הָאֲהוּבִים כְּשַׂמֵּחֲךְ(ךָ) 
 יְצִירָךְ (<span class="instruction">נ״א:</span> יְצִירְךָ) בְּגַן עֵֽדֶן
@@ -113,7 +113,7 @@ through her children.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May you bring intense happiness 
 to beloved companions as you made joyful 
 the one you formed in <em>Gan Aden</em> 
@@ -124,7 +124,7 @@ Who brings happiness to groom and bride.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה
 יְיָ אֱלֹהֵֽינוּ
 מֶֽלֶךְ הָעוֹלָם
@@ -149,7 +149,7 @@ Who brings happiness to groom and bride.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Blessed are you
 YHVH our <em>elo'ah</em>
 Cosmic Majesty,
@@ -175,7 +175,7 @@ along with the bride.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה
 יְיָ אֱלֹהֵֽינוּ
 מֶֽלֶךְ הָעוֹלָם
@@ -183,7 +183,7 @@ along with the bride.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Blessed are you
 YHVH our <em>elo'ah</em>
 Cosmic Majesty,

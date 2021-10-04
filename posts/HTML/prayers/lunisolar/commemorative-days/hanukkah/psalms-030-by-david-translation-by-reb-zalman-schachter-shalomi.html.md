@@ -12,12 +12,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִזְמ֡וֹר שִׁיר־חֲנֻכַּ֖ת הַבַּ֣יִת 
 לְדָוִֽד׃ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 A Psalm for A Housewarming,
 Composed by David
 </div></td>
@@ -26,7 +26,7 @@ Composed by David
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>ב</sup>&nbsp;אֲרוֹמִמְךָ֣ יְ֭הוָה 
 כִּ֣י דִלִּיתָ֑נִי 
 וְלֹא־שִׂמַּ֖חְתָּ 
@@ -38,7 +38,7 @@ Composed by David
 מיורדי־[מִיָּֽרְדִי־] בֽוֹר׃ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <sup>2</sup>&nbsp;I acclaim You, my God.
 You set me free
 So that my foes 
@@ -54,14 +54,14 @@ You brought me back to Life.
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>ה</sup>&nbsp;זַמְּר֣וּ לַיהוָ֣ה 
 חֲסִידָ֑יו 
 וְ֝הוֹד֗וּ 
 לְזֵ֣כֶר קָדְשֽׁוֹ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <sup>5</sup>&nbsp;Fellow devotees! 
 Join me in my song. 
 Remembering what is sacred, 
@@ -72,14 +72,14 @@ Let’s give thanks.
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>ו</sup>&nbsp;כִּ֤י רֶ֨גַע ׀ בְּאַפּוֹ֮ 
 חַיִּ֪ים בִּרְצ֫וֹנ֥וֹ 
 בָּ֭עֶרֶב יָלִ֥ין בֶּ֗כִי 
 וְלַבֹּ֥קֶר רִנָּֽה׃ 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <sup>6</sup>&nbsp;For a moment, I felt You angry,
 Then I felt Life and acceptance.
 Though weeping as I fell asleep,
@@ -90,7 +90,7 @@ I woke up singing.
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>&nbsp;</sup>&nbsp;
 <sup>ז</sup>&nbsp;וַ֭אֲנִי אָמַ֣רְתִּי בְשַׁלְוִ֑י 
 בַּל־אֶמּ֥וֹט לְעוֹלָֽם׃ 
@@ -100,7 +100,7 @@ I woke up singing.
 הָיִ֥יתִי נִבְהָֽל׃
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <sup>8a</sup>&nbsp;You, Yah, made my mountain firm,
 <sup>7</sup>&nbsp;I thought I was safe;
 That I won’t ever stumble.
@@ -114,7 +114,7 @@ I panicked.
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>ט</sup>&nbsp;אֵלֶ֣יךָ יְהוָ֣ה אֶקְרָ֑א 
 וְאֶל־אֲ֝דֹנָ֗י אֶתְחַנָּֽן׃
 <sup>י</sup>&nbsp;מַה־בֶּ֥צַע בְּדָמִי֮ 
@@ -126,7 +126,7 @@ I panicked.
 יְ֝הוָה הֱ&#x200d;ֽיֵה־עֹזֵ֥ר לִֽי׃ 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <sup>9</sup>&nbsp;I call to You, Yah! 
 I plead with You, Adonai!
 <sup>10</sup>&nbsp;What use is there in my death
@@ -142,7 +142,7 @@ Yah, Please help me.
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>יב</sup>&nbsp;הָפַ֣כְתָּ מִסְפְּדִי֮ 
 לְמָח֪וֹל לִ֥י 
 פִּתַּ֥חְתָּ שַׂקִּ֑י 
@@ -153,7 +153,7 @@ Yah, Please help me.
 לְעוֹלָ֥ם אוֹדֶֽךָּ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <sup>12</sup>&nbsp;You turned my grieving 
 Into a dance of reconcilation.
 You took off my rags 

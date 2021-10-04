@@ -11,18 +11,18 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אוי ללב שאינה שבורה
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <u>Woe to the Heart that is not Broken</u>[foot]With thanks to Maeera Schreiber.[/foot]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אוֹי לַלֵב שֶׁאֵינָה שְׁבוּרָה
 וְלַעֵנַיִם שֶׁאֵינָם זוֹלְגוֹת דִמְעָה
 אוֹי לַאוֹזְנַיִים שֶׁאֵינָן שׁוֹמְעוֹת
@@ -30,7 +30,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Woe to the heart that is not broken
 and to the eyes that do not cry
 Woe to the ears that do not hear
@@ -39,18 +39,18 @@ and to the mouths that do not scream
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ”וּבְּאֶמֶת פֶּלֶא הוּא אֵיך הַעוֹלָם עוֹמֵד אַחַר כ״כ הַרְבֵּה צַעַקוֹת כּאֵלוּ
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 “And in truth, it is amazing that the world is still standing after so many cries for help such as these”[foot]This line is from the אש קודש written in the Warsaw Ghetto by Kalonymous Kalmish Shapira of Piasczena.[/foot]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אוֹי לָנוּ עַל שֶׁאָטַמְנוּ אֶת לִבֵּנוּ
 לְעָרְלֵי לֵב וּפֶה נִהְיֵינוּ
 הַלֹא אִם לֹא צָעַקנוּ הִסְכַּמנוּ
@@ -58,7 +58,7 @@ and to the mouths that do not scream
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Woe to us that closed our hearts
 we have become uncircumcised of heart and mouth
 for lo if we have not cried out we are in agreement
@@ -67,18 +67,18 @@ we have become entrapped in the counsel of evil
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ”וּבְּאֶמֶת פֶּלֶא הוּא אֵיך הַעוֹלָם עוֹמֵד אַחַר כ״כ הַרְבֵּה צַעַקוֹת כּאֵלוּ“
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 “And in truth, it is amazing that the world is still standing after so many cries for help such as these”
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אוֹי לַמֶמְשָׁלָה שֶׁכָּכָה מוֹשֶׁלֶת
 וּלְמִשְׁטֶרֶת הַגְבוּלוֹת שֶׁכָּכָה מְקַלְגֶסֶת
 וְאֵיפֹה אַנַחְנוּ שְׁלוּחֵי הַצֶדֶק
@@ -86,7 +86,7 @@ we have become entrapped in the counsel of evil
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Woe to the government that governs in this manner
 and to the Border Patrol that behaves like stormtroopers
 And where are we, the messengers of righteousness?
@@ -95,18 +95,18 @@ A soft murmuring sound rather than the blast of a trumpet.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ”וּבְּאֶמֶת פֶּלֶא הוּא אֵיך הַעוֹלָם עוֹמֵד אַחַר כ״כ הַרְבֵּה צַעַקוֹת כּאֵלוּ“
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 “And in truth, it is amazing that the world is still standing after so many cries for help such as these”
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כִּי לֹא מֵרָחוֹק הֵם הַזְדוֹנוֹת וְהַפְּשָׁעִים
 אוֹי אֱלֹהִים – בִּשְׁמֵנוּ עוֹשִים אֶת הַדְבָרִים הַבְּזוּיִים
 כִּי קָרוֹב מְאוֹד אֵלֵינוּ הַמַעַשִׂים
@@ -114,7 +114,7 @@ A soft murmuring sound rather than the blast of a trumpet.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 For these crimes and venalities were not committed far away
 Oh God—in our name they do these disgraceful things
 For these actions are very close to us
@@ -123,18 +123,18 @@ And our mouths are silent and our hearts are asleep and still we are not outrage
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ”וּבְּאֶמֶת פֶּלֶא הוּא אֵיך הַעוֹלָם עוֹמֵד אַחַר כ״כ הַרְבֵּה צַעַקוֹת כּאֵלוּ“
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 “And in truth, it is amazing that the world is still standing after so many cries for help such as these”
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בַּיוֹם אַשֶׁר צָעַקנוּ וְלֹא עָנוּ לָנוּ
 אָמַרְנוּ לֹא כָּכָה יֵעָשֶׂה בִּמְקוֹמֵינוּ
 וּבְבוֹא הָעֵת, הִבְטַחְנוּ, נָקוּם בְּרֹאשׁ הָעֵדָה
@@ -144,7 +144,7 @@ And our mouths are silent and our hearts are asleep and still we are not outrage
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 On the day that we cried out and no one answered us,
 We said: “It shall not be thus in our places”
 “When the time comes,” we promised, “we will rise up at the head of the people.”
@@ -155,18 +155,18 @@ and we just say another prayer.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ”וּבְּאֶמֶת פֶּלֶא הוּא אֵיך הַעוֹלָם עוֹמֵד אַחַר כ״כ הַרְבֵּה צַעַקוֹת כּאֵלוּ“
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 “And in truth, it is amazing that the world is still standing after so many cries for help such as these”
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הֲכָזֶה צוֹם אֶבְחָרֵהוּ – יוֹם אַשֶׁר רְעֵבִים לַלֶחֶם?
 הֲלוֹא זֶה צוֹם אֶבְחָרֵהוּ – יוֹם אַשֶׁר נָקוּם אֱלֵי צֶדֶק.
 יוֹם פְּתִיחַת חַרְצוּבּוֹת רֶשַׁע,
@@ -177,7 +177,7 @@ and we just say another prayer.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Is this the fast that I would choose—a day in which people hunger for bread?
 Is this not the fast I would choose—a day on which we rise to righteousness.
 A day of opening the fetters of wickedness,

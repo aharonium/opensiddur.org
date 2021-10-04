@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ‏"לְכָה דּוֹדִי נֵצֵא הַשָּׂדֶה 
 נָלִינָה בַּכְּפָרִים,‏
 נַשְׁכִּימָה לַכְּרָמִים,‏
@@ -21,7 +21,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 שָׁם אֶתֵּן אֶת דּוֹדַי לָךְ"‏ <span class="citation">‏(שיר השירים ז׃יב-יג)‏</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 "Come, my beloved, let us go forth into the field;
 Let us lodge in the villages.
 Let us get up early to the vineyards;
@@ -32,7 +32,7 @@ There will I give thee my love."[foot]The Song of Songs 7:12-13.[/foot]
 </td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
 רִבּוֹנוֹ שֶׁל עוֹלָם זַכֵּנִי לְהַרְבּוֹת בְּהִתְבּוֹדְדוּת תָּמִיד,‏
 וְאֶזְכֶּה לִהְיוֹת רָגִיל לָצֵאת בְּכָל יוֹם לַשָּׂדֶה
 בֵּין אִילָנוֹת וַעֲשָׂבִים וְכל שִׂיחַ הַשָּׂדֶה,‏
@@ -40,16 +40,16 @@ There will I give thee my love."[foot]The Song of Songs 7:12-13.[/foot]
 וּלְהַרְבּוֹת בְּשִׂיחָה זוֹ תְפִילָּה בֵּינִי לְבֵין קוֹנִי,‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Master of the Universe, grant me the ability to be alone;
 may it be my custom to go outdoors each day
 among the trees and grass — among all growing things
-and there may I be alone, and enter into <span lang="he" class="hebrew">התבודדות</span> [<a href="http://en.wikipedia.org/wiki/Hitbodedut">hitbodedut</a>] prayer,
+and there may I be alone, and enter into <span class="hebrew" lang="he">התבודדות</span> [<a href="http://en.wikipedia.org/wiki/Hitbodedut">hitbodedut</a>] prayer,
 to talk with the One to whom I belong.
 </td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
 לָשׂוּחַ שָׁם כָּל אֲשֶׁר עִם לְבָבִי
 וְכל שִׂיחַ הַשָּׂדֶה 
 וְכָל הָעֲשָׂבִים וְהָאִילָנוֹת וְכָל הַצְּמָחִים,‏ 
@@ -62,7 +62,7 @@ to talk with the One to whom I belong.
 וְעַל יְדֵי זֶה אֶזְכֶּה לִפְתּחַ אֶת לִבִּי לְהַרְבּוֹת בִּתְפִילָּה 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 May I express there everything in my heart,
 and may all the foliage of the field —
 all grasses, trees, and plants —
@@ -74,16 +74,16 @@ which are made as one by their transcendent Source.
 </td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
 וְתַחֲנוּנִים וּבְשִׂיחָה קְדוֹשָׁה לְפָנֶיךָ מָלֵא רַחֲמִים רַבִּים,‏
 וּלְפָנֶיךָ אֶשְׁפּךְ כָּל שִׂיחִי,‏
 עַד שֶׁאֶזְכֶּה לִשְׁפּךְ לִבִּי כַמַּיִם נוֹכַח פָּנֶיךָ יְהוָה,‏
 וְאֶשָּׂא אֵלֶיךָ כַּפַּי, עַל נַפְשִׁי וְנֶפֶשׁ עוֹלָלַי וְטַפַּי.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 May I then pour out the words of my heart
-before your Presence like water, <span class="scribe">יהוה</span>,
+before your Presence like water, <span class="scribe" lang="he">יהוה</span>,
 and lift up my hands to You in worship,
 on my behalf, and that of my children! 
 </td></tr>

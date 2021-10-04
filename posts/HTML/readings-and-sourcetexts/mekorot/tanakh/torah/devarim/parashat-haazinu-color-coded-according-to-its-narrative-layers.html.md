@@ -1,14 +1,14 @@
 <html>
 <head></head>
 <body>
-Title: פָּרָשַׁת הַאֲזִינוּ | Parashat Haazinu (Deuteronomy 32:1-52), color-coded according to its narrative layers<br />
+Title: פָּרָשַׁת הַאֲזִינוּ | Parashat Ha'Azinu (Deuteronomy 32:1-52), color-coded according to its narrative layers<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=27066">http://opensiddur.org/?p=27066</a>
 <p />
 <hr />
 
-<div class="english"style="font-size:1.2em">
-According to the poetry of the Midrash Tanḥuma, Bereshit 1:1, the words of the Torah were inscribed "black fire on white fire." For many years, I've wanted to look deeply into the black fire and visualize the full spectrum of the Torah's sources, hidden within the black fire but revealed through  a critical analysis of its layers of <a href="https://en.wikipedia.org/wiki/Redaction_criticism">redaction</a>. Below, I've set the text of the first Torah portion in the annual Torah reading cycle, using color-coding to distinguish the stratigraphic layers forming the composition of the Masoretic text according to the <a href="https://en.wikipedia.org/wiki/Supplementary_hypothesis">Supplementary Hypothesis</a> presented by Tsemaḥ Yoreh in his <a href="http://books.google.com/books?id=tpLIngEACAAJ">Kernel to Canon</a> series of books (2013-2017) and his website, <a href="http://www.biblecriticism.com/supplementary_index.html">the Sources of Biblical Narrative</a>. As Dr. Yoreh explains, 
+<div class="english" lang="en"style="font-size:1.2em">
+According to the poetry of the Midrash Tanḥuma, Bereshit 1:1, the words of the Torah were inscribed "black fire on white fire." For many years, I've wanted to look deeply into the black fire and visualize the full spectrum of the Torah's sources, hidden within the black fire but revealed through  a critical analysis of its layers of <a href="https://en.wikipedia.org/wiki/Redaction_criticism">redaction</a>. Below, I've set the text of the Torah portion in the annual Torah reading cycle, using color-coding to distinguish the stratigraphic layers forming the composition of the Masoretic text according to the <a href="https://en.wikipedia.org/wiki/Supplementary_hypothesis">Supplementary Hypothesis</a> presented by Tsemaḥ Yoreh in his <a href="http://books.google.com/books?id=tpLIngEACAAJ">Kernel to Canon</a> series of books (2013-2017) and his website, <a href="http://www.biblecriticism.com/supplementary_index.html">the Sources of Biblical Narrative</a>. As Dr. Yoreh explains, 
 
 <blockquote>The Supplementary Hypothesis asserts that the Pentateuch was composed by several different writers. This reflects an overwhelming academic consensus on Biblical authorship, even among scholars who do not subscribe to the Supplementary Hypothesis in particular.[....] According to the Supplementary Hypothesis, Biblical narrative is layered. No editor took a blowtorch to the parts of the Bible he disagreed with and destroyed them; if he had, we would not find these repetitions and contradictions. Instead, Biblical narrative began with a coherent, foundational bedrock, which over time accreted more and more storylines. Unlike geological processes, though, this process of addition was deliberate. What happened if one author disagreed with his predecessor’s storyline or worldview? He did not simply take an axe to the narrative; instead, he attempted to bury his predecessor’s point of view by repeating his own over and over again, thus skewing our understanding of the story in new ways. Every generation of readers sees the world differently, and thus every generation of writers seeks to adapt their predecessors’ cultural heritage to their own situation. We are not meant simply to dismiss earlier stories; rather, the intention of later writers is to transform our understanding of those stories via their additions.</blockquote>
 
@@ -20,14 +20,14 @@ According to the poetry of the Midrash Tanḥuma, Bereshit 1:1, the words of the
 
 <span class="h">&#11035; This strata popularized Kohanite law for the remnant of Judah after the Temple was destroyed, and functioned as an intermediary between Kohanite lists and laws and the surrounding narrative. This layer, which Dr. Yoreh calls 'H' (for the 'Holiness Code') appears here in LIME-GREEN text.</span>
 
-Parashat Haazinu (Deuteronomy 32:1-52) in the annual Torah reading cycle is the tenth parashah in Sefer Devarim. It is preceded by parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-devarim/parashat-vayelekh/parashat-vayelekh-color-coded-according-to-its-narrative-layers/">Vayelekh</a> (Deuteronomy 31:1-30). Parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-devarim/parashat-vzot-habrakhah/parashat-vzot-habrakhah-color-coded-according-to-its-narrative-layers/">v'Zōt haBrakhah</a> (Deuteronomy 33:1-34:12), the final parashah in the Pentateuch, follows it. 
+Parashat Ha'Azinu <span class="citation">(Deuteronomy 32:1-52)</span> in the annual Torah reading cycle is the tenth parashah in Sefer Devarim. It is preceded by parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-devarim/parashat-vayelekh/parashat-vayelekh-color-coded-according-to-its-narrative-layers/">Vayelekh</a> <span class="citation">(Deuteronomy 31:1-30)</span>. Parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-devarim/parashat-vzot-habrakhah/parashat-vzot-habrakhah-color-coded-according-to-its-narrative-layers/">v'Zōt haBrakhah</a> <span class="citation">(Deuteronomy 33:1-34:12)</span>, the final parashah in the Pentateuch, follows it. 
 </div>
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="d1"><sup>א</sup>&nbsp;הַאֲזִ֥ינוּ הַשָּׁמַ֖יִם וַאֲדַבֵּ֑רָה
 וְתִשְׁמַ֥ע הָאָ֖רֶץ אִמְרֵי־פִֽי׃
 <sup>ב</sup>&nbsp;יַעֲרֹ֤ף כַּמָּטָר֙ לִקְחִ֔י
@@ -37,7 +37,7 @@ Parashat Haazinu (Deuteronomy 32:1-52) in the annual Torah reading cycle is the 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="d1">32 <sup>1</sup>&nbsp;Give ear, O Heavens, that I may speak, 
 hear, O Earth, the utterance of my mouth.
 <sup>2</sup>&nbsp;Let my teaching drip like rain, 
@@ -48,7 +48,7 @@ like showers on grass.</span>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="d1"><sup>ג</sup>&nbsp;כִּ֛י שֵׁ֥ם יְהֹוָ֖ה אֶקְרָ֑א
 הָב֥וּ גֹ֖דֶל לֵאלֹהֵֽינוּ׃
 <sup>ד</sup>&nbsp;הַצּוּר֙ תָּמִ֣ים פׇּֽעֳל֔וֹ
@@ -58,7 +58,7 @@ like showers on grass.</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="d1"><sup>3</sup>&nbsp;For the name of YHVH I proclaim, 
 give greatness to our <em>elo'ah</em>!
 <sup>4</sup>&nbsp;The <em>tsur</em>/rock-fortress,[foot]lit. rock or bedrock. An impenetrable rock-fortress (i.e., "in which to seek refuge") is implied in this epithet. See the next verse for a contradistinction with the people protected by this rock-fortress. --Aharon Varady[/foot] whole-and-perfect are his deeds, 
@@ -69,7 +69,7 @@ equitable and upright is he.</span>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="d1"><sup>ה</sup>&nbsp;שִׁחֵ֥ת ל֛וֹ לֹ֖א בָּנָ֣יו מוּמָ֑ם
 דּ֥וֹר עִקֵּ֖שׁ וּפְתַלְתֹּֽל׃
 <sup>ו</sup>&nbsp;הַ לְיְהֹוָה֙‏[foot]בספרי תימן הַֽלְיהֹוָה֙ בתיבה אחת[/foot] תִּגְמְלוּ־זֹ֔את
@@ -79,7 +79,7 @@ equitable and upright is he.</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="d1"><sup>5</sup>&nbsp;His children have wrought-ruin toward him — a defect in them, 
 a generation crooked and twisted!
 <sup>6</sup>&nbsp;(Is it) YHVH whom you (thus) pay back, 
@@ -90,7 +90,7 @@ he (who) made you and established you?</span>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="d1"><mark>שני</mark> <sup>ז</sup>&nbsp;זְכֹר֙ יְמ֣וֹת עוֹלָ֔ם בִּ֖ינוּ שְׁנ֣וֹת דֹּר־וָדֹ֑ר
 שְׁאַ֤ל אָבִ֙יךָ֙ וְיַגֵּ֔דְךָ זְקֵנֶ֖יךָ וְיֹ֥אמְרוּ לָֽךְ׃
 <sup>ח</sup>&nbsp;בְּהַנְחֵ֤ל עֶלְיוֹן֙ גּוֹיִ֔ם
@@ -100,7 +100,7 @@ he (who) made you and established you?</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="d1"><sup>7</sup>&nbsp;Regard the days of ages-past, understand the years of generation and generation (ago); 
 ask your father, he will tell you, your elders, they will declare it to you:
 <sup>8</sup>&nbsp;When Elyon gave nations (their) inheritances, 
@@ -111,7 +111,7 @@ by the number of <em>bnei elohim</em>.</span>[foot]Masoretic text here has <em>b
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="d1"><sup>ט</sup>&nbsp;כִּ֛י חֵ֥לֶק יְהֹוָ֖ה עַמּ֑וֹ
 יַעֲקֹ֖ב חֶ֥בֶל נַחֲלָתֽוֹ׃
 <sup>י</sup>&nbsp;יִמְצָאֵ֙הוּ֙ בְּאֶ֣רֶץ מִדְבָּ֔ר
@@ -123,7 +123,7 @@ by the number of <em>bnei elohim</em>.</span>[foot]Masoretic text here has <em>b
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="d1"><sup>9</sup>&nbsp;Indeed, the portion of YHVH became his people, 
 Yaakov, the lot of his inheritance.
 <sup>10</sup>&nbsp;He found him in a wilderness land, 
@@ -136,7 +136,7 @@ he spread out his wings, he took him, bearing him on his pinions.</span>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="d1"><sup>יב</sup>&nbsp;יְהֹוָ֖ה בָּדָ֣ד יַנְחֶ֑נּוּ
 וְאֵ֥ין עִמּ֖וֹ אֵ֥ל נֵכָֽר׃
 <mark>שלישי</mark> <sup>יג</sup>&nbsp;יַרְכִּבֵ֙הוּ֙ עַל־בָּ֣מֳתֵי במותי אָ֔רֶץ
@@ -151,7 +151,7 @@ he spread out his wings, he took him, bearing him on his pinions.</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="d1"><sup>12</sup>&nbsp;YHVH alone did lead them, 
 not with him any foreign <em>el</em>!
 <sup>13</sup>&nbsp;He had them mount on the high-places of the land, 
@@ -167,7 +167,7 @@ and blood of grapes, you drank fermented (wine).</span>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="d1"><sup>טו</sup>&nbsp;וַיִּשְׁמַ֤ן יְשֻׁרוּן֙ וַיִּבְעָ֔ט
 שָׁמַ֖נְתָּ עָבִ֣יתָ כָּשִׂ֑יתָ
 וַיִּטֹּשׁ֙ אֱל֣וֹהַּ עָשָׂ֔הוּ
@@ -183,7 +183,7 @@ and blood of grapes, you drank fermented (wine).</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="d1"><sup>15</sup>&nbsp;But Yeshurun grew fat and kicked, you were fat, 
 you were gross, you were gorged, 
 he forsook the <em>elo'ah</em> that made him, 
@@ -200,7 +200,7 @@ you forgot the <em>el</em> that produced-you-in-labor.</span>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="d1"><mark>רביעי</mark> <sup>יט</sup>&nbsp;וַיַּ֥רְא יְהֹוָ֖ה וַיִּנְאָ֑ץ
 מִכַּ֥עַס בָּנָ֖יו וּבְנֹתָֽיו׃
 <sup>כ</sup>&nbsp;וַיֹּ֗אמֶר אַסְתִּ֤ירָה פָנַי֙ מֵהֶ֔ם
@@ -214,7 +214,7 @@ you forgot the <em>el</em> that produced-you-in-labor.</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="d1"><sup>19</sup>&nbsp;When YHVH saw, he spurned (you), 
 from the vexation of his sons and daughters.
 <sup>20</sup>&nbsp;He said: "I will conceal my face from them, 
@@ -229,7 +229,7 @@ with a nation of fools I will vex them!"</span>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="d1"><sup>כב</sup>&nbsp;כִּי־אֵשׁ֙ קָדְחָ֣ה בְאַפִּ֔י
 וַתִּיקַ֖ד עַד־שְׁא֣וֹל תַּחְתִּ֑ית
 וַתֹּ֤אכַל אֶ֙רֶץ֙ וִֽיבֻלָ֔הּ
@@ -245,7 +245,7 @@ with a nation of fools I will vex them!"</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="d1"><sup>22</sup>&nbsp;"For fire is kindled in my nostrils, 
 it burns (down) to Sheol, below, 
 devouring the earth and its yield, 
@@ -262,7 +262,7 @@ and virgins alike, nurselings along with men of gray-hair."</span>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="d1"><sup>כו</sup>&nbsp;אָמַ֖רְתִּי אַפְאֵיהֶ֑ם
 אַשְׁבִּ֥יתָה מֵאֱנ֖וֹשׁ זִכְרָֽם׃
 <sup>כז</sup>&nbsp;לוּלֵ֗י כַּ֤עַס אוֹיֵב֙ אָג֔וּר
@@ -272,7 +272,7 @@ and virgins alike, nurselings along with men of gray-hair."</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="d1"><sup>26</sup>&nbsp;I would have said: "I will cleave-them-in-pieces, 
 I will make their memory cease from mortals,
 <sup>27</sup>&nbsp;— except that I feared the vexation from the enemy, 
@@ -283,7 +283,7 @@ not YHVH wrought all this!'"</span>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="d1"><sup>כח</sup>&nbsp;כִּי־ג֛וֹי אֹבַ֥ד עֵצ֖וֹת הֵ֑מָּה
 וְאֵ֥ין בָּהֶ֖ם תְּבוּנָֽה׃
 <mark>חמישי</mark> כטל֥וּ חָכְמ֖וּ יַשְׂכִּ֣ילוּ זֹ֑את
@@ -291,7 +291,7 @@ not YHVH wrought all this!'"</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="d1"><sup>28</sup>&nbsp;"For a nation straying from counsel are they, 
 in them there is no understanding.
 <sup>29</sup>&nbsp;If (only) they were wise, they would contemplate this, 
@@ -300,7 +300,7 @@ they would understand their future!"</span>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="d1"><sup>ל</sup>&nbsp;אֵיכָ֞ה יִרְדֹּ֤ף אֶחָד֙ אֶ֔לֶף
 וּשְׁנַ֖יִם יָנִ֣יסוּ רְבָבָ֑ה
 אִם־לֹא֙ כִּי־צוּרָ֣ם מְכָרָ֔ם
@@ -316,7 +316,7 @@ they would understand their future!"</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="d1"><sup>30</sup>&nbsp;How can one pursue a thousand, 
 two put a myriad to flight, 
 unless their <em>tsur</em> had sold them out, 
@@ -333,7 +333,7 @@ the cruel poison of vipers.</span>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="d1"><sup>לד</sup>&nbsp;הֲלֹא־ה֖וּא כָּמֻ֣ס עִמָּדִ֑י
 חָת֖וּם בְּאוֹצְרֹתָֽי׃
 <sup>לה</sup>&nbsp;לִ֤י נָקָם֙ וְשִׁלֵּ֔ם
@@ -343,7 +343,7 @@ the cruel poison of vipers.</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="d1"><sup>34</sup>&nbsp;"Is this not laid up in store with me, 
 sealed up in my treasuries:
 <sup>35</sup>&nbsp;mine are vengeance and payback, 
@@ -354,7 +354,7 @@ making haste, the things impending for them."</span>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="d1"><sup>לו</sup>&nbsp;כִּֽי־יָדִ֤ין יְהֹוָה֙ עַמּ֔וֹ
 וְעַל־עֲבָדָ֖יו יִתְנֶחָ֑ם
 כִּ֤י יִרְאֶה֙ כִּֽי־אָ֣זְלַת יָ֔ד
@@ -368,7 +368,7 @@ making haste, the things impending for them."</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="d1"><sup>36</sup>&nbsp;But YHVH will judge (in favor of) his people, 
 regarding his servants he will relent, 
 when he sees that strength-of-hand is gone, 
@@ -383,7 +383,7 @@ let them be over you a shelter!"</span>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="d1"><sup>לט</sup>&nbsp;רְא֣וּ ׀ עַתָּ֗ה כִּ֣י אֲנִ֤י אֲנִי֙ ה֔וּא
 וְאֵ֥ין אֱלֹהִ֖ים עִמָּדִ֑י
 אֲנִ֧י אָמִ֣ית וַאֲחַיֶּ֗ה
@@ -402,7 +402,7 @@ let them be over you a shelter!"</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="d1"><sup>39</sup>&nbsp;"See now that I, I am he, 
 there is no Elohim beside me; 
 I myself bring-death, bestow-life, 
@@ -422,7 +422,7 @@ from the head thick-with-locks of the enemy."</span>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="d1"><sup>מג</sup>&nbsp;הַרְנִ֤ינוּ גוֹיִם֙ עַמּ֔וֹ
 כִּ֥י דַם־עֲבָדָ֖יו יִקּ֑וֹם
 וְנָקָם֙ יָשִׁ֣יב לְצָרָ֔יו
@@ -430,7 +430,7 @@ from the head thick-with-locks of the enemy."</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="d1"><sup>43</sup>&nbsp;Shout-for-joy, O nations, (over) his people,
 for the blood of his servants he will avenge. 
 Vengeance he will return upon his foes, 
@@ -439,23 +439,23 @@ effecting-atonement for the fertile-earth of his people!</span>[foot]Tigay (JPS 
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="d1"><mark>שביעי</mark> <sup>מד</sup>&nbsp;וַיָּבֹ֣א מֹשֶׁ֗ה וַיְדַבֵּ֛ר אֶת־כׇּל־דִּבְרֵ֥י הַשִּׁירָֽה־הַזֹּ֖את בְּאׇזְנֵ֣י הָעָ֑ם</span> <span class="d2">ה֖וּא וְהוֹשֵׁ֥עַ בִּן־נֽוּן׃</span> <span class="d1"><sup>מה</sup>&nbsp;וַיְכַ֣ל מֹשֶׁ֗ה לְדַבֵּ֛ר אֶת־כׇּל־הַדְּבָרִ֥ים הָאֵ֖לֶּה אֶל־כׇּל־יִשְׂרָאֵֽל׃ <sup>מו</sup>&nbsp;וַיֹּ֤אמֶר אֲלֵהֶם֙ שִׂ֣ימוּ לְבַבְכֶ֔ם לְכׇ֨ל־הַדְּבָרִ֔ים אֲשֶׁ֧ר אָנֹכִ֛י מֵעִ֥יד בָּכֶ֖ם הַיּ֑וֹם אֲשֶׁ֤ר תְּצַוֻּם֙ אֶת־בְּנֵיכֶ֔ם לִשְׁמֹ֣ר לַעֲשׂ֔וֹת אֶת־כׇּל־דִּבְרֵ֖י הַתּוֹרָ֥ה הַזֹּֽאת׃</span> <span class="d2"><sup>מז</sup>&nbsp;כִּ֠י לֹֽא־דָבָ֨ר רֵ֥ק הוּא֙ מִכֶּ֔ם כִּי־ה֖וּא חַיֵּיכֶ֑ם וּבַדָּבָ֣ר הַזֶּ֗ה תַּאֲרִ֤יכוּ יָמִים֙ עַל־הָ֣אֲדָמָ֔ה אֲשֶׁ֨ר אַתֶּ֜ם עֹבְרִ֧ים אֶת־הַיַּרְדֵּ֛ן שָׁ֖מָּה לְרִשְׁתָּֽהּ׃</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="d1"><sup>44</sup>&nbsp;Mosheh came and spoke all the words of this song in the ears of the people,</span>[foot]In Dtr 1 the song is understood as a warning (as opposed to a comfort in J) this is also apparent in Dtr 2's additions to 31:14-30.[/foot] <span class="d2">he and Hoshe'a son of Nun.</span>[foot]If Joshua had been speaking to the Israelites then his name would have been mentioned as a subject of the verse, his mention at the end of the verse is very clearly an addition, in the same vein as the addition of Joshua in 31:3 (Dtr 2).[/foot] <span class="d1"><sup>45</sup>&nbsp;When Mosheh had finished speaking all these words to all Yisra'el, <sup>46</sup>&nbsp;he said to them: "Set your hearts toward all these words which I call-as-witness among you today, that you may command your children to carefully observe all the words of this Torah/Instruction.</span> <span class="d2"><sup>47</sup>&nbsp;Indeed, no empty word is it for you, indeed, it is your (very) life; through this word you shall prolong (your) days upon the fertile-earth that you are crossing over the Yarden to possess."</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="h"><mark>מפטיר</mark> <sup>מח</sup>&nbsp;וַיְדַבֵּ֤ר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה בְּעֶ֛צֶם הַיּ֥וֹם הַזֶּ֖ה לֵאמֹֽר׃ <sup>מט</sup>&nbsp;עֲלֵ֡ה אֶל־הַר֩ הָעֲבָרִ֨ים הַזֶּ֜ה הַר־נְב֗וֹ אֲשֶׁר֙ בְּאֶ֣רֶץ מוֹאָ֔ב אֲשֶׁ֖ר עַל־פְּנֵ֣י יְרֵח֑וֹ וּרְאֵה֙ אֶת־אֶ֣רֶץ כְּנַ֔עַן אֲשֶׁ֨ר אֲנִ֥י נֹתֵ֛ן לִבְנֵ֥י יִשְׂרָאֵ֖ל לַאֲחֻזָּֽה׃ <sup>נ</sup>&nbsp;וּמֻ֗ת בָּהָר֙ אֲשֶׁ֤ר אַתָּה֙ עֹלֶ֣ה שָׁ֔מָּה וְהֵאָסֵ֖ף אֶל־עַמֶּ֑יךָ כַּֽאֲשֶׁר־מֵ֞ת אַהֲרֹ֤ן אָחִ֙יךָ֙ בְּהֹ֣ר הָהָ֔ר וַיֵּאָ֖סֶף אֶל־עַמָּֽיו׃ <sup>נא</sup>&nbsp;עַל֩ אֲשֶׁ֨ר מְעַלְתֶּ֜ם בִּ֗י בְּתוֹךְ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל בְּמֵֽי־מְרִיבַ֥ת קָדֵ֖שׁ מִדְבַּר־צִ֑ן עַ֣ל אֲשֶׁ֤ר לֹֽא־קִדַּשְׁתֶּם֙ אוֹתִ֔י בְּת֖וֹךְ בְּנֵ֥י יִשְׂרָאֵֽל׃ <sup>נב</sup>&nbsp;כִּ֥י מִנֶּ֖גֶד תִּרְאֶ֣ה אֶת־הָאָ֑רֶץ וְשָׁ֙מָּה֙ לֹ֣א תָב֔וֹא אֶל־הָאָ֕רֶץ אֲשֶׁר־אֲנִ֥י נֹתֵ֖ן לִבְנֵ֥י יִשְׂרָאֵֽל׃</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="h"><sup>48</sup>&nbsp;Now YHVH spoke to Mosheh on that same day, saying: <sup>49</sup>&nbsp;"Go up these heights of Avarim/The-region-across, Mount Nevo that is in the land of Moav, that faces Yereḥo, and see the land of K'naan that I am giving to the Children of Yisra'el for a holding. <sup>50</sup>&nbsp;You are to die on the mountain that you are going up, and are to be gathered to your kinspeople, as Aharon your brother died on Hor haHar and was gathered to his kinspeople <sup>51</sup>&nbsp;— because you (both) broke-faith with me in the midst of the Children of Yisra'el at the waters of Merivat Ḳadesh, in the Wilderness of Tsyn, because you did not treat-me-as-holy in the midst of the Children of Yisra'el. <sup>52</sup>&nbsp;Indeed, at-a-distance you shall see the land, but there you shall not enter, the land that I am giving to the Children of Yisra'el.</span>[foot]Note that as opposed to P – the mountain upon which Moses ascends in order to die is Mount Nebo, whereas according to Numbers 33:12 (P) it is Mount Abarim. This text shows signs of Priestly authorship, however, as it alludes to the sin of Meribah (Numbers 20:12) and the death of Aaron (Numbers 20:22ff.), note also the expression ויאסף אל עמיו – in vs. 50, which occurs in the Priestly death notice of Aaron (Numbers 20:24), and the patriarchs. It is quite likely, therefore, that this section was composed by H, the later supplementor of P.[/foot]
 </div></td></tr>
 </tbody></table>

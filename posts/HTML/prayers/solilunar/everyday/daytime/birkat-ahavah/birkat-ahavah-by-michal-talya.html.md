@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אַהֲבָה רַבָּה אֲהַבְתָּנוּ יהוה אֱלֹהֵינוּ. 
 בְּאַהֲבָה נִבְרֵאנוּ וּבָאנוּ אֶל עוֹלָמְךָ, 
 וַתִּתֵּן לָנוּ חַיִּים וּבָהֶם יֹפִי, 
@@ -19,7 +19,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 You have loved us with a great love, o YHVH our <em>elo'ah</em>. 
 With love we were created, and with love we came into your world.
 You gave us life - a life of beauty, 
@@ -28,14 +28,14 @@ kindness, and truth.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְהָאֵר עֵינֵנוּ לִרְאוֹת, וְלָשׁוּב וְלִרְאוֹת אֶת אֵלֶּה בְּעוֹלָמְךָ, 
 וְדַבֵּק לִבֵּנוּ בִּקְדֻשָּׁתָם שֶׁל חַיֵּינוּ 
 וְשֶׁל חַיֵּי כָּל הַבְּרוּאִים. 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Enlighten our eyes that we may see them in your world, every single day.
 May our hearts cling to the sanctity of our own lives
 and to the sanctity of the lives of all created beings.
@@ -43,7 +43,7 @@ and to the sanctity of the lives of all created beings.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְלֹא תִּקְהֶה בְּקִרְבֵּנוּ הַפְּלִיאָה 
 מִפֶּלֶא הַבְּרִיאָה 
 וְלֹא תֵּעָלֵם מִלִּבֵּנוּ הַיִּרְאָה לְנֹכַח קְדֻשָּׁתָהּ, 
@@ -58,7 +58,7 @@ and to the sanctity of the lives of all created beings.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May the wonder within never fade, 
 the wonder of creation
 May awe of its holiness never disappear from our hearts.

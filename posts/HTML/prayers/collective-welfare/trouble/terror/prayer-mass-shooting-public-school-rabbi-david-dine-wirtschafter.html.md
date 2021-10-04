@@ -16,22 +16,22 @@ Rabbi David Dine Wirtschafter writes, "Our hearts and prayers go out to the peop
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 God of Abel and Cain, Eve and Adam, 
 the victims and the victimizers.
 In the depths of our heartbreak and pain we pray: 
 </div></td></tr>
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 May this one be the last one. 
 May there be no next one. 
 No more murders, no more murderers, 
@@ -40,22 +40,22 @@ No more funerals for fifteen-year-olds.
 </div></td></tr>
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Help us to end this plague. 
 Give us the courage to work for real and lasting change. 
 The blood of our children cries out to us from the ground.[foot]Cf. Genesis 4:10[/foot]
 </div></td></tr>
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Rather than cover our ears, make us listen to the cries. 
 Rather than closing our eyes, let us give the bloodshed of this day a long hard look. 
 Rather than turning our heads, grant us the wisdom to use our minds to finally bring an end to this plague. 

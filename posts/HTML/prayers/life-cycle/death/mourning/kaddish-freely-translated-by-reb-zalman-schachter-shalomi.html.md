@@ -12,7 +12,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr>
 <td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 יִתְגַּדַּל 
 וְיִתְקַדַּשׁ 
@@ -32,7 +32,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 I pray  –
 that the power residing
 in God's Great Name
@@ -53,7 +53,7 @@ by saying *AMEN*
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְהֵא 
 שְׁמֵהּ רַבָּא 
 מְבָרַךְ 
@@ -62,7 +62,7 @@ by saying *AMEN*
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <strong>"May that immense power
 residing in God's great name
 flow freely
@@ -72,7 +72,7 @@ and worlds beyond."</strong>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יִתְבָּרַךְ,
  וְיִשְׁתַּבַּח,
  וְיִתְפָּאֵר,
@@ -92,7 +92,7 @@ and worlds beyond."</strong>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May that Great Name,
 that sacred energy,
 be shaped
@@ -113,7 +113,7 @@ by saying *AMEN*.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְהֵא שְׁלָמָה 
 רַבָּא מִן שְׁמַיָּא 
 וְחַיִּים טוֹבִים  
@@ -123,7 +123,7 @@ by saying *AMEN*.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May that endless peace
 that heaven can release for us
 bring about the good life
@@ -134,7 +134,7 @@ by saying: *AMEN*.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עוֹשֶׂה שָׁלוֹם 
 בִּמְרוֹמָיו
  הוּא יַעֲשֶׂה בְּרַחֲמָיו שָׁלוֹם עָלֵינוּ
@@ -142,7 +142,7 @@ by saying: *AMEN*.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 You, who harmonize it all
 on the highest planes –
 bring harmony and peace to us,
@@ -151,13 +151,13 @@ to all Israel and all sentient beings
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְאִמְרוּ 
 אָמֵן׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 As we express our agreement and hope
 by saying: *AMEN*
 </td></tr>

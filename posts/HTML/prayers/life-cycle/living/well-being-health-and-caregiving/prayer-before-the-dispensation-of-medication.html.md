@@ -12,7 +12,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יהי רצון מלפניך, בורא העולם 
 המנהלו בחסד וברחמים
 שתזכה אותי לחלק תרופות 
@@ -28,7 +28,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May it be your will, Creator of the World, 
 who manages it with mercy and compassion,
 that you entitle me to distribute medication 
@@ -45,7 +45,7 @@ tirelessly.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 זכני נא להבין, לדעת ולזכור תמיד, 
 כי התרופות הן מתנה ממך, 
 ופועלות בשליחותך
@@ -53,7 +53,7 @@ tirelessly.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Please grant me the privilege to understand, 
 to know and to always remember that the medicines are your gift, 
 and act under your vocation.
@@ -62,7 +62,7 @@ and act under your vocation.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 זכני נא לחזות ולשמוח 
 בהשפעתן המיטיבה של התרופות אותן 
 אחלק לחולים ברחמים
@@ -70,7 +70,7 @@ and act under your vocation.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Please grant me the privilege to observe and rejoice 
 in the beneficial effects that these medicines, 
 which I will distribute with mercy to the ill patients, will have.
@@ -79,7 +79,7 @@ which I will distribute with mercy to the ill patients, will have.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 זכני נא לתת את התרופות 
 מתוך ריכוז, 
 ומתוך הבנת מנגנון 
@@ -88,7 +88,7 @@ which I will distribute with mercy to the ill patients, will have.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Please grant me the privilege to distribute the medication 
 while being aware and fully concentrated, 
 and while understanding the underlying therapeutic mechanisms 
@@ -98,7 +98,7 @@ by which the medicine affects the disease.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 זכני נא להבחין בזמן בכל טעות, 
 שלי או של חבריי, 
 בשרשרת מתן התרופה, 
@@ -108,7 +108,7 @@ by which the medicine affects the disease.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Please grant me the privilege to notice any and every mistake and error, 
 of my own and those of my friends 
 in the line of medication distribution, 
@@ -119,14 +119,14 @@ before the medicine reaches the body of the ill patient.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 זכני נא לפעול תמיד מתוך ענווה, 
 ללמוד וללמד אחרים על ההצלחות והכשלונות בחלוקת התרופות
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Please grant me the privilege to always act humbly, 
 to learn and teach others of the successes and failures in medication dispensing.
 </div>
@@ -134,7 +134,7 @@ to learn and teach others of the successes and failures in medication dispensing
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 זכני נא לתת תרופות לחולים 
 מתוך בריאותי האיתנה 
 ולהודות על כך שאיני נוטלת תרופות אלו בעצמי
@@ -142,7 +142,7 @@ to learn and teach others of the successes and failures in medication dispensing
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Please grant me the privilege to distribute medicine to ill patients 
 from the state of my own robust and excellent health, 
 and to give thanks for the fact that I, myself, am not taking those medications.
@@ -151,7 +151,7 @@ and to give thanks for the fact that I, myself, am not taking those medications.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 זכני נא ללמוד להזדהות, 
 מתוך בריאות, 
 עם סבלו של החולה 
@@ -163,7 +163,7 @@ and to give thanks for the fact that I, myself, am not taking those medications.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Please grant me the privilege to sympathize, 
 from the standing point of my own health, 
 with the ill patients and their suffering,
@@ -176,13 +176,13 @@ and hour by hour.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 אמן
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Amen
 </div>
 </td></tr></tbody></table>

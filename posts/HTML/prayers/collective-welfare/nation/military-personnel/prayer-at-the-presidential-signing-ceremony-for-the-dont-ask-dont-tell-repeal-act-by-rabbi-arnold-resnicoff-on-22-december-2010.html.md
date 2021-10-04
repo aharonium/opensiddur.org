@@ -11,24 +11,24 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english"> 
+<div class="english" lang="en"> 
 O Lord who made a world of change,
 You challenged us to mend, repair, and change the world.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Some lose faith and think that things will never change,
 But we Americans – of every faith – religious faith or not –
 Refuse to give up hope or abandon that most American of dreams:
@@ -37,12 +37,12 @@ That we can make a difference, and that the future can be better than the past.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Today we make a change as President Obama signs this bill to law.
 Today we recall that unity, not uniformity, is our goal,
 That we need not fear differences
@@ -51,24 +51,24 @@ Among those united to defend our nation’s freedoms and its dreams.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english"> 
+<div class="english" lang="en"> 
 Today we honor ALL brave men and women,
 Including those who served so long without the honor they deserved.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english"> 
+<div class="english" lang="en"> 
 O Lord our God, and God of generations past,
 Help us move forward,
 Toward a nation a little more united, more indivisible,
@@ -77,12 +77,12 @@ A union a bit more perfect, founded on a great deal more respect.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english"> 
+<div class="english" lang="en"> 
 Let us pray that if the day has not yet dawned
 When we can see the face of God in others
 Then we see, at least, a face as human as our own.
@@ -90,12 +90,12 @@ Then we see, at least, a face as human as our own.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english"> 
+<div class="english" lang="en"> 
 Lord, help us keep faith the day will dawn
 When justice flows – for ALL – like mighty waters,
 When liberty will be proclaimed throughout the land,
@@ -105,12 +105,12 @@ And none shall be afraid.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english"> 
+<div class="english" lang="en"> 
 And may we say,
 Amen.
 </div></td></tr>

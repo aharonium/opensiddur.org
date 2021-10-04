@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
  בְּזֶה הַשַּׁעַר לֹא יָבוֹא צַעַר.
 בְּזֹאת הַדִּירָה לֹא תָבוֹא צָרָה.
 בְּזֹאת הַדֶּלֶת לֺא תָבוֹא בֶּהָלָה.
@@ -20,7 +20,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Let no sadness come through this gate.
 Let no trouble come to this dwelling.
 Let no fear come through this door.
@@ -30,20 +30,20 @@ Let this home be filled with blessing and peace.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְעָ֥שׂוּ לִ֖י מִקְדָּ֑שׁ 
 וְשָׁכַנְתִּ֖י בְּתוֹכָֽם׃ <span class="citation">(שמות כה:ח)</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 And let them make Me a sanctuary, 
 that I may dwell among them. <span class="citation">(Exodus 25:8)</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בְּ֭חָכְמָה יִבָּ֣נֶה בָּ֑יִת 
 וּ֝בִתְבוּנָ֗ה יִתְכּוֹנָֽן׃
  וּ֭בְדַעַת חֲדָרִ֣ים יִמָּלְא֑וּ 
@@ -51,7 +51,7 @@ that I may dwell among them. <span class="citation">(Exodus 25:8)</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Through Ḥokhma (Wisdom) is a house built; 
 And with Binah (Understanding) it is established; 
 And with Da'at (Knowledge) are its chambers filled 
@@ -60,13 +60,13 @@ With all precious and pleasant riches. <span class="citation">(Proverbs 24:3-4)<
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מַה טֹּבוּ אֹהָלֶיךָ יַעֲקֹב 
 מִשְׁכְּנֹתֶיךָ יִשְׂרָאֵל. <span class="citation">(במדבר כד:ה)</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 How excellent are your tents, O Ya'akov, 
 your dwellings, Yisrael! <span class="citation">(Numbers 24:5)</span>
 </div></td></tr>
@@ -74,7 +74,7 @@ your dwellings, Yisrael! <span class="citation">(Numbers 24:5)</span>
 
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 The <a href="http://en.wikipedia.org/wiki/Birkat_HaBayit">Birkat Habayit</a> (home blessing) is perhaps the most popular supplication in the Jewish world, appearing as a hanging amulet inside the entrance of many houses of Jews of all streams. Numerous variations appear today. The provenance and original authorship of the formula is unknown. I have not been able to locate its earliest attestation in a <em>kameya</em> (amulet) although a variation of it appears in a printed <a href="https://opensiddur.org/prayers/collective-welfare/trouble/epidemics/amulet-for-protection-from-the-plague-attributed-to-moshe-teitelbaum/">amulet for protection against plague</a>, dated from 1925 in Hungary and attributed to Rabbi Moshe Teitelbaum (1759-1841).
 
 I have appended several biblical verses to the prayer. The theurgical power of scriptural verse is one very significant element that distinguishes Jewish prayer from other literary prayer praxes. At least three verses seems apropos to me. The first two are suggested by <a href="https://imaginarius13.wordpress.com/2014/01/15/from-house-to-home-a-blessing-of-transition/">Ilene Winn-Lederer</a>. Exodus 25:8 associates ones own house with the archetypal <em>mishkan</em>, the dwelling place intended for the shekhina (Divine Presence). The second verse, from Proverbs 24:3-4, is prescriptive. When I <a href="https://www.facebook.com/groups/opensiddur/permalink/10152938885227746/">asked for an accompanying verse from the TaNaKh</a> to the popular Blessing for the Home on the Open Siddur Project Discussion Group on Facebook, Rabbi Alona Lisista offered the verse of blessing given by Bilaam the prophet in Numbers 24:5 upon seeing with his own eyes the wandering camp of the Israelites. These three verses, I think, help to ground the intention of the blessing in the context of the Jewish imagination.

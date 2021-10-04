@@ -8,7 +8,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <hr />
 
 <div style="margin-left: auto;margin-right: auto; text-align: center;"><strong>Shemot ha-T'amim l'Ashkenazim</strong>
-<span style="font-size: x-large; text-align: center;" class="scribe">
+<span style="font-size: x-large; text-align: center;" class="scribe" lang="he">
 
 קַדְמָ֨א מֻנַּ֣ח זַרְקָא֮ מֻנַּ֣ח סֶגּוֹל֒ מֻנַּ֣ח ׀ מֻנַּ֣ח רְבִ֗יע מַהְפַּ֤ך פַּשְׁטָא֙ זָקֵף־קָטָ֔ן
 
@@ -25,7 +25,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 &nbsp;
 <div style="margin-left: auto;margin-right: auto; text-align: center;"><strong>Shemot ha-T'amim l'Sefaradim</strong>
-<span style="font-size: x-large; text-align: center;" class="scribe">
+<span style="font-size: x-large; text-align: center;" class="scribe" lang="he">
 
 זַרְקָא֮  מַקַּף־שׁוֹפָר־הוֹלֵ֣ךְ סְגוֹלְתָּא֒ פָּזֵר גָּד֡וֹל
 
@@ -41,7 +41,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 &nbsp;
 <div style="margin-left: auto;margin-right: auto; text-align: center;"><strong>Shemot ha-T'amim l'Italyanim</strong>
-<span style="font-size: x-large; text-align: center;" class="scribe">
+<span style="font-size: x-large; text-align: center;" class="scribe" lang="he">
 
 זַרְקָא֮ שְׁרֵ֒י פָּזֵ֡ר גָּדוֺל֡ קַרְ֟נֵי פָרָ֟ה תַּלְ֠שָׁא 
 

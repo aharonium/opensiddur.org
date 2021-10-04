@@ -11,11 +11,11 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Contribute a Translation</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 In the end we're like children:
 we thrive on distinctions
 between me and you, us and them.
@@ -27,11 +27,11 @@ from that fleeting taste of Paradise.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 Wax drips from the braided candle.
 Cinnamon tingles the nose
 to keep us from fainting
@@ -43,11 +43,11 @@ and what's next.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 Plunge the candle into the wine
 but don't cry: even without a flame
 our light still shines. This

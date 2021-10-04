@@ -9,16 +9,16 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 [caption id="attachment_3395" align="aligncenter" width="864" caption="Image: המנורה כתובה by Ba&#39;al haKokhav, converted to vector art by Andrew Meit (CC0)"]<a href="https://opensiddur.org/wp-content/uploads/2011/06/Sheviti-by-Baal-haKokhav-converted-to-vector-art-by-Andrew-Meit.svg_.png"><img class="size-full wp-image-3395" title="המנורה כתובה by Ba'al haKokhav (Shiviti converted to vector art by Andrew Meit).svg" src="https://opensiddur.org/wp-content/uploads/2011/06/Sheviti-by-Baal-haKokhav-converted-to-vector-art-by-Andrew-Meit.svg_.png" alt="" width="864" height="1224" /></a>[/caption]
 
-<div class="english">
+<div class="english" lang="en">
 Given that the Torah forbids impressing our imaginations with illustrations of the divine, some other method is necessary to perceive divine Oneness. One method is found in the verse in Psalms 16:8, "I have set YHVH before me at all times." 
 </div>
 
-<center><span style="font-size: x-large;" class="scribe">שִׁוִּיתִי יְהוָה לְנֶגְדִּי תָמִיד׃</span>
+<center><span style="font-size: x-large;" class="scribe" lang="he">שִׁוִּיתִי יְהוָה לְנֶגְדִּי תָמִיד׃</span>
 
 <em>Shiviti YHVH l’negdi tamid</em>
 I have set YHVH before me at all times.</center>
 
-<div class="english">
+<div class="english" lang="en">
 But does the verse enjoin one to perceive divine Oneness at all times, or to ponder the Tetragrammaton (the ineffable, four letter divine name) at all times, or to perceive the world as an expression of a Divine Name writ in nature? This ambiguity is at the root of the tradition of the <em>Shiviti</em>, a recursive illustration of the verse's meaning set as a visual meditation and reminder. Because the object of any given practice is to condition behavior through repetition, the practice of perceiving the world as an expression of divine Oneness can begin as soon as one gains consciousness, and this is where Psalms 16:8 enters into the morning liturgy. Shmueli Gonzales explains more in his post on the <a href="https://hardcoremesorah.wordpress.com/2011/05/18/sheviti-hashem-the-unspoken-declaration/"><em>Shiviti</em></a>,
 
 <blockquote>Those of you who have visited any Jewish shrines know exactly what I’m talking about when I mention charts and mystical diagrams. We call them <em>Shiviti</em> and they often take on the form on an enlarged writing of the Four-Letter name surrounded by verses of Psalms or prayers. The most famous of these is probably <a href="http://hardcoremesorah.wordpress.com/2011/04/28/sefirat-haomer-the-kavanah-of-psalm-67/">Psalms 67</a> drawn in the shape of a menorah. Others incorporate many mystical ways of reading Divine Names, but that are not meant to be pronounced. 

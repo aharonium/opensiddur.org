@@ -15,14 +15,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כָּל־בְּרוּאֵי מַעְלָה וּמַטָּה
 יְעִידוּן יַגִּידוּן כֻּלָּם כְּאֶחָד
 ה׳ אֶחָד וּשְׁמוֹ אֶחָד
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 All creatures, above and below
 Testify and proclaim as one;
 “YHVH is one and their Name is one.”
@@ -30,7 +30,7 @@ Testify and proclaim as one;
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שְׁלוֹשִׁים וּשְׁתַּיִם נְתִיבוֹת שְׁבִילָךְ
 לְכָל־מֵבִין סוֹדָם יְסַפְּרוּ גָדְלָךְ
 מֵהֶם יַכִּירוּן כִּי הַכֹּל שֶׁלָּךְ
@@ -38,7 +38,7 @@ Testify and proclaim as one;
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Your way is made of thirty-two paths; 
 All who understand their mystery, proclaim your greatness;
 From them, they know that all is yours,
@@ -47,7 +47,7 @@ You are El, majestic one.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לְבָבוֹת בְּחָשְׁבָם עוֹלָם בָּנוּי
 יִמְצְאוּ כָל־יֵשׁ בִּלְתְּךָ שָׁנוּי
 בְּמִסְפָּר בְּמִשְׁקָל הַכֹּל מָנוּי
@@ -55,7 +55,7 @@ You are El, majestic one.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Minds in contemplation find a world created;
 Everything is created, in pairs but you. 
 By number and measure, all is counted, 
@@ -64,7 +64,7 @@ But through only one Shepherd, all was given.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מֵרֹאשׁ וְעַד סוֹף יֵשׁ לְךָ סִמָּן
 צָפוֹן וָיָם וְקֶֽדֶם וְתֵימָן
 שַֽׁחַק וְתֵֽבֵל לְךָ עֵד נֶֽאֱמָן
@@ -72,7 +72,7 @@ But through only one Shepherd, all was given.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Your signs are everywhere, Beginning and End,
 North, South, East and West.
 Heaven and Earth are faithful witnesses; 
@@ -81,7 +81,7 @@ Together they are, “One.”
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַכֹּל מִמְּךָ נִזְבַּד זָבוֹד
 אַתָּה תַֽעֲמֹד וְהֵם יֹאבְדוּ אָבוֹד
 לָכֵן כָּל־יְצוּר לְךָ יִתֵּן כָּבוֹד
@@ -89,7 +89,7 @@ Together they are, “One.”
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Everything is yours, a gift to cherish
 You exist eternally, while humans perish. 
 Therefore all creatures to you give respect 

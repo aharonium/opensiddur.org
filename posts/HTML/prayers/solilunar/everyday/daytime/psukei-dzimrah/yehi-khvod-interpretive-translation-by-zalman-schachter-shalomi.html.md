@@ -12,7 +12,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְהִ֤י כְב֣וֹד 
 יְהוָ֣ה לְעוֹלָ֑ם 
 יִשְׂמַ֖ח יְהוָ֣ה 
@@ -32,7 +32,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Yah! Fill our world 
 To reflect Your nobility,
 So You will find joy 
@@ -54,7 +54,7 @@ Concerns Heaven.[foot]Psalms 113:2-4[/foot]
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְ֭הוָה שִׁמְךָ֣ לְעוֹלָ֑ם 
 יְ֝הוָ֗ה זִכְרְךָ֥ 
 לְדֹֽר־וָדֹֽר׃ <span class="citation">(תהלים קלה:יג)</span>
@@ -62,7 +62,7 @@ Concerns Heaven.[foot]Psalms 113:2-4[/foot]
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Yah -- this is Your Name forever.
 Yah -- is the watch word,
 Each generation passes to the next.[foot]Psalms 135:13[/foot]
@@ -72,7 +72,7 @@ Each generation passes to the next.[foot]Psalms 135:13[/foot]
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְֽהוָ֗ה בַּ֭שָּׁמַיִם 
 הֵכִ֣ין כִּסְא֑וֹ 
 וּ֝מַלְכוּת֗וֹ 
@@ -81,7 +81,7 @@ Each generation passes to the next.[foot]Psalms 135:13[/foot]
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Yah, You have established 
 Your Sh’chinnah in the Heavens.
 Your domain encompasses 
@@ -92,7 +92,7 @@ All there is.[foot]Psalms 103:19[/foot]
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יִשְׂמְח֤וּ הַשָּׁמַֽ֨יִם֙ 
 וְתָגֵ֣ל הָאָ֔רֶץ 
 וְיֹֽאמְר֥וּ בַגּוֹיִ֖ם 
@@ -101,7 +101,7 @@ All there is.[foot]Psalms 103:19[/foot]
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 So, Heaven is glad.
 Earth is happy.
 All nations agree 
@@ -112,7 +112,7 @@ that You Are in charge.[foot]1 Chronicles 16:31[/foot]
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְהוָ֣ה מֶ֖לֶךְ, <span class="citation">(תהלים י:טז)</span>
 יְהוָ֣ה מָלָךְ֘, <span class="citation">(תהלים צג:א)</span>
 יְהוָ֥ה ׀ יִמְלֹ֖ךְ 
@@ -121,7 +121,7 @@ that You Are in charge.[foot]1 Chronicles 16:31[/foot]
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Yah! You are now.[foot]Psalms 10:16 partial[/foot]
 Yah! You were then.[foot]Psalms 93:1 partial[/foot]
 Yah! You will be
@@ -132,7 +132,7 @@ Constant forever.[foot]Exodus 15:18[/foot][foot]Cf. Ruth Langer, "Biblical Texts
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְהוָ֣ה מֶ֭לֶךְ עוֹלָ֣ם וָעֶ֑ד 
 אָֽבְד֥וּ 
 ג֝וֹיִ֗ם מֵֽאַרְצֽוֹ׃ <span class="citation">(תהלים י:טז)</span>
@@ -143,7 +143,7 @@ Constant forever.[foot]Exodus 15:18[/foot][foot]Cf. Ruth Langer, "Biblical Texts
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Yah! Your reign is eternal.
 Earth is Yours alone.
 No nation can claim her.[foot]Psalms 10:16[/foot]
@@ -156,7 +156,7 @@ You, Yah, block their schemes.[foot]Psalms 33:10[/foot]
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רַבּ֣וֹת מַֽחֲשָׁב֣וֹת 
 בְּלֶב־אִ֑ישׁ 
 וַֽעֲצַ֥ת יְ֝הוָ֗ה
@@ -169,7 +169,7 @@ You, Yah, block their schemes.[foot]Psalms 33:10[/foot]
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 People brood 
 Over so many desires.
 It is Your design, Yah, 
@@ -184,7 +184,7 @@ Works for many generations.[foot]Psalms 33:11[/foot]
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כִּ֤י ה֣וּא אָמַ֣ר וַיֶּ֑הִי 
 הֽוּא־צִ֝וָּ֗ה 
 וַֽיַּעֲמֹֽד: <span class="citation">(תהלים לג:ט)</span>
@@ -192,7 +192,7 @@ Works for many generations.[foot]Psalms 33:11[/foot]
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 You speak, and it becomes real.
 You command, 
 And it comes to existence.[foot]Psalms 33:9[/foot]
@@ -202,14 +202,14 @@ And it comes to existence.[foot]Psalms 33:9[/foot]
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כִּֽי־בָחַ֣ר יְהוָ֣ה בְּצִיּ֑וֹן 
 אִ֝וָּ֗הּ לְמוֹשָׁ֥ב לֽוֹ׃ <span class="citation">(תהלים קלב:יג)</span>
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 You, Yah, chose Zion.
 You wish to make Your seat there.[foot]Psalms 132:13[/foot]
 </div></td>
@@ -218,14 +218,14 @@ You wish to make Your seat there.[foot]Psalms 132:13[/foot]
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כִּֽי־יַֽעֲקֹ֗ב בָּחַ֣ר ל֣וֹ יָ֑הּ 
 יִ֝שְׂרָאֵ֗ל לִסְגֻלָּתֽוֹ׃ <span class="citation">(תהלים קלה:ד)</span>
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 You, Yah, have singled out Jacob.
 Israel, is Your treasure.[foot]Psalms 135:4[/foot]
 </div></td>
@@ -234,7 +234,7 @@ Israel, is Your treasure.[foot]Psalms 135:4[/foot]
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כִּ֤י ׀ לֹֽא־יִטֹּ֣שׁ יְהוָ֣ה 
 עַמּ֑וֹ 
 וְ֝נַֽחֲלָת֗וֹ 
@@ -243,7 +243,7 @@ Israel, is Your treasure.[foot]Psalms 135:4[/foot]
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 You, Yah, will not desert 
 Your people.
 You will not forsake 
@@ -254,7 +254,7 @@ Your heritage.[foot]Psalms 94:14[/foot]
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְה֤וּא רַח֙וּם ׀ 
 יְכַפֵּ֥ר עָוֹן֘ 
 וְֽלֹא יַֽ֫שְׁחִ֥ית 
@@ -265,7 +265,7 @@ Your heritage.[foot]Psalms 94:14[/foot]
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Because You are caring, 
 You will forgive sin.
 You will not destroy.
@@ -278,7 +278,7 @@ And not let Your fury rise.[foot]Psalms 78:38[/foot]
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְהוָ֥ה הוֹשִׁ֑יעָה 
 הַ֝מֶּֽ֗לֶךְ 
 יַֽעֲנֵ֥נוּ 
@@ -287,7 +287,7 @@ And not let Your fury rise.[foot]Psalms 78:38[/foot]
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Yah! Please help,
 Prince!
 Answer us the same day,

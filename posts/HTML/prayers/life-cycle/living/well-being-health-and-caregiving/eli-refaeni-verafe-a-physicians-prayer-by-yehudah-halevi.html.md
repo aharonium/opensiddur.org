@@ -11,52 +11,52 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֱלִי, רְפָאֵנִי וְאֵרָפֵא,
 אַל יֶחֱרֶה אַפָּךְ וְאֶסָּפֶה!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 My El, heal me and I shall be healed; 
 Let not your anger be kindled against me so that I be consumed. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 סַמִּי וּמֶרְקָחִי לְךָ – בֵּין טוֹב
 בֵין רָע, וּבֵין חָזָק וּבֵין רָפֶה.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 My medicines are from you, whether good 
 Or evil, whether strong or weak. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אַתָּה אֲשֶׁר תִּבְחַר וְלֹא אָנִי,
 עַל דַּעְתְּךָ הָרָע וְהַיָּפֶה.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 It is you who shall choose, not I;[foot]S. D. Luzzatto says here, '"not I" instead of "not the physician" because Jehudah Halevi himself was the physician.'[/foot]
 Of your knowledge is the evil and the fair. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לֹא עַל רְפוּאָתִי אֲנִי נִסְמָךְ –
 רַק אֶל רְפוּאָתְךָ אֲנִי צוֹפֶה.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Not upon my power of healing I rely; 
 Only for your healing do I watch. 
 </div></td></tr>

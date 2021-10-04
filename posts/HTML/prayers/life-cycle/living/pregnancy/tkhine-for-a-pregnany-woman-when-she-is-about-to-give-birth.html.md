@@ -11,11 +11,11 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Yiddish)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="yiddish"><span lang="yi">
+<div class="yiddish" lang="yi">
 ליבער אונ גוטער גאָט! איך בין ניט װערט די חֲסָדִים, װאָס דו טוסט אימער מיט מיר, נאָר בִּזְכוּת די דרײַ מִצְוֹת, װעלכע דו האָסט גיבּאָטין יעדער אִשָׁה, נִדָה, חַלָה, הַדְלָקַת הַנֵר װאָס מען דארף היטען, די דרײַ מִצְוֹת זאָלין מגין זײַן אױף מיר, אז איך זאָל ניט בּאשטראָפט װערין חָלִילָה פאר די זינד פון חַוָה, אונ איך זאָל קײן גרױסע יְסוּרִים ניט לײַדין חָלִילָה, אונ איך זאָל געבּױרין א קינד אײַן עוֹבֵד ה׳ בֶּאֱמֶת וְאֱמוּנָה, בֶּן יְרֵא אֱלֹהִים׃
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Good and dear God! I am not worthy of the lovingkindness that you always bestow upon me. May the merit of the three mitsvot which you have commanded every woman to keep -- <em>niddah</em>, <em>ḥallah</em>, and <em>hadlokot nerot</em> -- protect me,[foot]Mishnah, Shabbat 2:6: “Because of three transgressions women die at childbirth: because they neglect the laws of menstrual purity, taking ḥallah, and lighting the candles.”[/foot] that I may not -- <em>ḥolilah</em> -- be punished for Ḥavah’s sin, and may I not -- <em>ḥolilah</em> -- suffer any great pain. May I give birth to a child who is a servant of YHVH in truth and in faith, a son who fears Elohim.
 </div></td>
 </tr>

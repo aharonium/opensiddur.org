@@ -19,7 +19,7 @@ Scanning this work is the first step in a more comprehensive project of transcri
 
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 PREFACE. 
 
 The present volume contains all the prayers and supplications arranged for the Day of Atonement יום הכפורים or כפור. According to Holy Writ this day is established for the purpose of bringing home to us the consciousness of human weakness and frailty of sin and transgression, and by means of self-imposed affliction and repentance to turn us from the evil ways which we have pursued in the course of the year, and to lead us, through prayers and confessions, to the gates of Heaven, there to obtain mercy and forgiveness. It is thus a day which begins with physical mortification and ends with spiritual exaltation. It is a day of affliction, and at the same time a day of solemn rest, a Sabbath of Sabbaths שבת שבתון. For can there be a greater spiritual joy than to have passed through the valley of death, and to have approached the realm of bliss, to have loft behind the storm-tossed sea, the pangs and remorse of sin, and to have reached the haven of rest, the calm of purification and of spiritual contentment? The prayers included in this volume are adapted to this purpose, and are so arranged as to form a gradual ascent from the misery of grief, from the shame and trepidation of guilt to the joy of divine mercy and to the confident reliance on God’s grace and love. 

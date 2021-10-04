@@ -12,7 +12,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֵל אֱלֹהֵי הָרוּחוֹת לְכָל בָּשָׂר, 
 הֶכֵּר נָא אֶת רְצוֹנֵנוּ לַעֲשׂוֹת אֶת רְצוֹנֵךְ 
 בָּעוֹלָם זָדוֹן וּשְׁגָגָה. 
@@ -26,7 +26,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td> 
 
 <td style="vertical-align:top;" width="53%">
-<div class="yiddish"><span lang="he">
+<div class="yiddish" lang="yi">
 גאָט פֿון אַלץ מיטן גײַסט פֿון לעבן, 
 דערקען אַז מיר באַמיִען זיך צו טאָן דײַן װילן 
 אין דער װעלט פֿון טעות און בײזװיליקײט. 
@@ -40,7 +40,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 God of all life, 
 please know our intention to do your will 
 in this world of malice and error. 

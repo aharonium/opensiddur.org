@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.8" created="2021-09-07 05:41" -->
+	<!-- generator="WordPress/5.8.1" created="2021-10-04 07:10" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,23 +29,19 @@
 	<title>the Open Siddur Project ✍ פְּרוֺיֶּקט הַסִּדּוּר הַפָּתוּחַ</title>
 	<link>https://opensiddur.org</link>
 	<description>an open-source, community contributed archive for those sharing prayers and crafting their own prayerbooks</description>
-	<pubDate>Tue, 07 Sep 2021 05:41:26 +0000</pubDate>
+	<pubDate>Mon, 04 Oct 2021 07:10:37 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://opensiddur.org</wp:base_site_url>
 	<wp:base_blog_url>https://opensiddur.org</wp:base_blog_url>
 
-		<wp:author><wp:author_id>310</wp:author_id><wp:author_login><![CDATA[hierophant]]></wp:author_login><wp:author_email>email redacted</wp:author_email>
-<wp:author_display_name><![CDATA[the Hierophant]]></wp:author_display_name><wp:author_first_name><![CDATA[the]]></wp:author_first_name><wp:author_last_name><![CDATA[Hierophant]]></wp:author_last_name></wp:author>
-	<wp:author><wp:author_id>455</wp:author_id><wp:author_login><![CDATA[aharon-nissn.varady]]></wp:author_login><wp:author_email>email redacted</wp:author_email>
-<wp:author_display_name><![CDATA[Aharon N. Varady]]></wp:author_display_name><wp:author_first_name><![CDATA[Aharon N.]]></wp:author_first_name><wp:author_last_name><![CDATA[Varady]]></wp:author_last_name></wp:author>
-	<wp:author><wp:author_id>131</wp:author_id><wp:author_login><![CDATA[aharon.varady]]></wp:author_login><wp:author_email>email redacted</wp:author_email>
-<wp:author_display_name><![CDATA[Aharon N. Varady (transcription)]]></wp:author_display_name><wp:author_first_name><![CDATA[Aharon]]></wp:author_first_name><wp:author_last_name><![CDATA[Varady]]></wp:author_last_name></wp:author>
-	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email>email redacted</wp:author_email>
-<wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[The]]></wp:author_first_name><wp:author_last_name><![CDATA[Admin]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>310</wp:author_id><wp:author_login><![CDATA[hierophant]]></wp:author_login><wp:author_email>email redacted</wp:author_email><wp:author_display_name><![CDATA[the Hierophant]]></wp:author_display_name><wp:author_first_name><![CDATA[the]]></wp:author_first_name><wp:author_last_name><![CDATA[Hierophant]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_id>455</wp:author_id><wp:author_login><![CDATA[aharon-nissn.varady]]></wp:author_login><wp:author_email>email redacted</wp:author_email><wp:author_display_name><![CDATA[Aharon N. Varady]]></wp:author_display_name><wp:author_first_name><![CDATA[Aharon N.]]></wp:author_first_name><wp:author_last_name><![CDATA[Varady]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_id>131</wp:author_id><wp:author_login><![CDATA[aharon.varady]]></wp:author_login><wp:author_email>email redacted</wp:author_email><wp:author_display_name><![CDATA[Aharon N. Varady (transcription)]]></wp:author_display_name><wp:author_first_name><![CDATA[Aharon]]></wp:author_first_name><wp:author_last_name><![CDATA[Varady]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email>email redacted</wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[The]]></wp:author_first_name><wp:author_last_name><![CDATA[Admin]]></wp:author_last_name></wp:author>
 
 				
-	<generator>https://wordpress.org/?v=5.8</generator>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
 	<url>https://opensiddur.org/wp-content/uploads/2015/03/Open-Siddur-Project-Logo-2015-5509b4bdv1_site_icon-32x32.png</url>
@@ -62,7 +58,7 @@
 		<dc:creator><![CDATA[hierophant]]></dc:creator>
 		<guid isPermaLink="false">http://aharon.varady.net/opensiddur/?page_id=2</guid>
 		<description></description>
-		<content:encoded><![CDATA[<div class="english" style="font-size: 1.2em;">
+		<content:encoded><![CDATA[<div class="english" lang="en" style="font-size: 1.2em;">
 The Open Siddur Project is a volunteer driven collaboration between folk passionate about Jewish spiritual practice. Some are interested in the <em>Siddur</em> as a technology for preserving and disseminating an evolving history of Jewish ritual, practice, and sacred poetry. Others are energized by the design challenge of crafting <em>Siddurim</em> that function effectively for nurturing spiritual, emotional and creative intelligence. All of us see the potential that creative engagement holds for empowering students and teachers to take ownership of those ingredients comprising their shared cultural inheritance.
 
 <strong>Our mission is to liberate the creative content of Jewish spiritual practice as a collectively shared resource for students, scholars, artists, and educators to adopt, adapt, and redistribute in new and traditional media.</strong>  
@@ -229,7 +225,7 @@ The Open Siddur Project is committed to the following principles and movements w
 		<dc:creator><![CDATA[hierophant]]></dc:creator>
 		<guid isPermaLink="false">http://opensiddur.varady.net/?page_id=33</guid>
 		<description></description>
-		<content:encoded><![CDATA[<div class="english" style="font-size: 1.2em;">
+		<content:encoded><![CDATA[<div class="english" lang="en" style="font-size: 1.2em;">
 The Open Siddur was first conceived in 2001-2002 by Aharon Varady as an open source project archiving the sections of the Siddur, tagged according to the era of their composition and allowing user edits and user-contributions via a PERL/MySQL backend. In <a href="http://aharon.varady.net/omphalos/2002/08/update-2002-08-08">August 2002</a>, he penned some of his earliest thoughts on the project:
 
 <blockquote>I'm working on a proposal for a project that I'm calling the "Open Siddur". The goal of the project is to bring back the creative power of t'fillah to the individual while encouraging the feeling of solidarity with and awareness of the larger Jewish community and their diversity. The draft proposal is located <a href="http://aharon.varady.net/open_siddur/index-old.htm">here</a>. Growing up Jewish and "Orthodox", I often heard that regardless of one's personal gripes with this or that aspect of the tradition, it was religiously dishonest, to "pick and choose" elements from the tradition one desired to practice from those that were odious. Later in college, I heard as a tenet ascribed to the "post-modern", that the past and culture can be plundered for inspiration and re-contextualization. This other "picking and choosing" seemed to me that, while fun, was also disrespectful and cultural appropriation, similar to how the Kabbalah was re-contextualized within medieval Christendom. But now I'm thinking that for a Judaism which is under attack by mono-culture fundamentalists, deep understanding and appreciation of Jewish worldviews can be accomplished by individuals studying and selecting and even creating new elements for their personal T'fillah (one of the last spheres where the individual still retains some creative power within the constraints of Jewish traditional discipline. The 1960s saw a movement for Jewish chavurah movements to explore creativity in Judaism as a shared experience. But what is needed, and has sorely been lacking for as long as I can see is *<strong>help</strong>* from the Siddur and the Jewish tradition itself to encourage and inspire an *<strong>individual's</strong>* creativity. After all, the tradition is relying on the individual's energy to maintain itself to the next generation. This is usually accomplished through a religio-ethnic sense of duty and self-righteous discipline, which yield its own simple rewards to the individual. If we are to conform for the sake of a unity in tradition, we should be aware not only of the purpose of our conformities, but also the limits of our selfless conforming. The religion must maintain and encourage space and freedom for individuality and creativity, and not limit individuality in spirituality and individual expressions to fables about revered rabbis.</blockquote>
@@ -365,7 +361,7 @@ With modest financial needs and support from numerous small donors, Aharon, Efra
 		<dc:creator><![CDATA[hierophant]]></dc:creator>
 		<guid isPermaLink="false">http://opensiddur.net/?page_id=76</guid>
 		<description></description>
-		<content:encoded><![CDATA[<div class="english" style="font-size: 1.2em;">
+		<content:encoded><![CDATA[<div class="english" lang="en" style="font-size: 1.2em;">
 Want to make contact with our project? Please message us below. 
 
 <strong>Important note:</strong> If you have a support related question, we ask that you please <em>reciprocate</em> by <a href="/contributing/donations/">making a donation</a> to support and sustain our project.
@@ -470,7 +466,7 @@ If you'd like to connect with us over social media, join our discussion group on
 		<dc:creator><![CDATA[hierophant]]></dc:creator>
 		<guid isPermaLink="false">http://opensiddur.net/?page_id=281</guid>
 		<description></description>
-		<content:encoded><![CDATA[<div class="english" style="font-size: 1.2em;">
+		<content:encoded><![CDATA[<div class="english" lang="en" style="font-size: 1.2em;">
 <a href="https://opensiddur.org/contributing/volunteer-opportunities/">Volunteer opportunities</a> and <a href="https://opensiddur.org/financial-contributions/">financial contributions</a>.
 </div>
 
@@ -630,7 +626,7 @@ If you'd like to connect with us over social media, join our discussion group on
 		<description></description>
 		<content:encoded><![CDATA[&nbsp;
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 <h2>General Questions</h2>
 <hr />
 &nbsp;
@@ -787,12 +783,12 @@ Try that here:
 <thead><tr><th id="x" style="text-align: left;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="50%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ראש חדש 
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
-<div class="english">
+<div class="english" lang="en">
 Rosh Ḥodesh
 </span></div></tr>
 </tbody></table>
@@ -1037,7 +1033,7 @@ Share your work without any conditions, for example, requiring correct attributi
 
 <span style="font-size: 14pt;">If you chose a CC BY-SA license, print the following text along with your work. (You MUST choose this license if you are adapting or remixing a work that is shared with this license.)</span>
 
-<div class="english">
+<div class="english" lang="en">
 <p class="r" style="padding-left: 30px;"><span style="font-size: 18pt;"><a href="https://opensiddur.org/wp-content/uploads/2011/01/CC-BY-SA.svg.png"><img class="size-full wp-image-13351 alignleft" src="https://opensiddur.org/wp-content/uploads/2011/01/CC-BY-SA.svg.png" alt="CC-BY-SA.svg" width="150" height="50" /></a> "NAME OF YOUR WORK" is © YOUR NAME, YEAR and shared with a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike (CC BY-SA) 4.0 International</a> license &lt;https://creativecommons.org/licenses/by-sa/4.0/&gt;.</span><hr /></p>
 
 </div>
@@ -1045,7 +1041,7 @@ Share your work without any conditions, for example, requiring correct attributi
 [su_spacer]
 <span style="font-size: 14pt;"> If you chose a CC BY license, print the following text along with your work. (You MUST choose this license if you wish your work to be remixed under any copyright conditions, even more restrictive licenses or plain copyright.)</span>
 
-<div class="english">
+<div class="english" lang="en">
 <p class="r" style="padding-left: 30px;"><a href="https://opensiddur.org/wp-content/uploads/2011/01/CC-BY.svg.png"><img class="size-full wp-image-13354 alignleft" src="https://opensiddur.org/wp-content/uploads/2011/01/CC-BY.svg.png" alt="CC-BY.svg" width="100" height="50" /></a>  <span style="font-size: 18pt;">"NAME OF YOUR WORK" is </span><span style="font-size: 18pt;">© YOUR NAME, YEAR and shared with a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution (CC BY) 4.0 International</a> license &lt;https://creativecommons.org/licenses/by/4.0/&gt;.</span><hr /></p>
 
 </div>
@@ -1053,7 +1049,7 @@ Share your work without any conditions, for example, requiring correct attributi
 [su_spacer]
 <span style="font-size: 14pt;"> If you chose a CC 0 PUBLIC DOMAIN DEDICATION, print the following text along with your work. (Do not choose this license if you want your work to remain attributed to you under the protection of copyright.)</span>
 
-<div class="english">
+<div class="english" lang="en">
 <p class="r" style="padding-left: 30px;"><a href="https://opensiddur.org/wp-content/uploads/2011/01/CC-0-PD.svg.png"><img class="alignleft size-full wp-image-13353" src="https://opensiddur.org/wp-content/uploads/2011/01/CC-0-PD.svg.png" alt="CC-0-PD.svg" width="150" height="50" /></a><span style="font-size: 18pt;">"NAME OF YOUR WORK" is </span><span style="font-size: 18pt;">© YOUR NAME, YEAR and shared with a <a href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons Zero (CC0) Public Domain Dedication</a> &lt;https://creativecommons.org/publicdomain/zero/1.0/&gt;.</span><hr /></p>
 
 </div>
@@ -1061,8 +1057,8 @@ Share your work without any conditions, for example, requiring correct attributi
 [su_spacer]
 <span style="font-size: 14pt;"> If, in addition to your shared work, you want to remix, adapt, or distribute the copyrighted work of someone else with or without their permission, then you can invoke your FAIR USE RIGHT by including the following statement. A declaration of Fair Use, unfortunately, does not necessarily provide any legal protection in the United States, however, it does provide crucial attribution information and guidance to others who may be interested in adapting and redistributing this work. (Choose the options in brackets that apply to your circumstance.)</span>
 
-<div class="english">
-<p class="r" style="padding-left: 30px;"><a href="https://opensiddur.org/wp-content/uploads/2011/01/C-FU.svg-1.png"><img class="alignleft size-full wp-image-13355" src="https://opensiddur.org/wp-content/uploads/2011/01/C-FU.svg-1.png" alt="C-FU.svg" width="102" height="50" /></a><span style="font-size: 18pt;">"NAME OF YOUR WORK" includes "NAME OF COPYRIGHTED WORK" © COPYRIGHT OWNER NAME, YEAR which I have <span style="font-size: 12pt;">[modified <span style="font-size: 18pt;">AND/OR</span> redistributed]</span> under my <a class="external" href="https://www.law.cornell.edu/uscode/text/17/107" target="_blank" rel="license nofollow">Fair Use Right</a> (<a href="https://www.law.cornell.edu/uscode/text/17/107">17 U.S. Code §107 - Limitations on exclusive rights: Fair use</a>) &lt;https://www.law.cornell.edu/uscode/text/17/107&gt;. Any additional work that is not already in the Public Domain is © YOUR NAME, YEAR and shared under a <span style="font-size: 12pt;">[<a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution (CC BY) 4.0 International</a> license &lt;https://creativecommons.org/licenses/by/4.0/&gt; <span style="font-size: 18pt;">OR</span> <a href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons Zero (CC0) Public Domain Dedication</a> &lt;https://creativecommons.org/publicdomain/zero/1.0/&gt;]</span>.</span><hr /></p>
+<div class="english" lang="en">
+<p class="r" style="padding-left: 30px;"><a href="https://opensiddur.org/wp-content/uploads/2011/01/C-FU.svg-1.png"><img class="alignleft size-full wp-image-13355" src="https://opensiddur.org/wp-content/uploads/2011/01/C-FU.svg-1.png" alt="C-FU.svg" width="102" height="50" /></a><span style="font-size: 18pt;">"NAME OF YOUR WORK" includes "NAME OF COPYRIGHTED WORK" © COPYRIGHT OWNER NAME, YEAR which I have <span style="font-size: 12pt;">[modified <span style="font-size: 18pt;">AND/OR</span> redistributed]</span> under my <a class="external" href="https://www.law.cornell.edu/uscode/text/17/107" target="_blank" rel="license nofollow noopener">Fair Use Right</a> (<a href="https://www.law.cornell.edu/uscode/text/17/107">17 U.S. Code §107 - Limitations on exclusive rights: Fair use</a>) &lt;https://www.law.cornell.edu/uscode/text/17/107&gt;. Any additional work that is not already in the Public Domain is © YOUR NAME, YEAR and shared under a <span style="font-size: 12pt;">[<a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution (CC BY) 4.0 International</a> license &lt;https://creativecommons.org/licenses/by/4.0/&gt; <span style="font-size: 18pt;">OR</span> <a href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons Zero (CC0) Public Domain Dedication</a> &lt;https://creativecommons.org/publicdomain/zero/1.0/&gt;]</span>.</span><hr /></p>
 </div>
 
 In the language of Jewish prayer, <em>kavvanah</em>, intention, is bound to <em>keva</em>, structure. Intention is personal, whilst structure is a received cultural convention, representing a common tradition. In general, all our actions are inspired by our intentions, and while some actions have unintended consequences, Judaism has a way, or <em>halakhah</em> for structuring them so that one's actions increase goodness in the world and avoid harm. Ultimately, the practice of <em>halakhah</em> should cultivate certain qualities that in turn motivate compassionate, considerate, and creative intentions.
@@ -1085,7 +1081,7 @@ This is an important lesson to learn regarding our work in teaching Torah since 
 
 Or in other words, as animator Nina Paley says, <a href="http://web.archive.org/web/20160911033621/http://copyheart.org/manifesto/">sharing is an act of love</a>. All that Judaism asks for in return is attribution, so the chain of transmission is recorded.
 
-Who would obstruct that kind of sharing? When a new work is created, copyright law doesn't assume that a creative work was intended for sharing (with or without attribution). Instead, a creative work is immediately protected as private property -- not only for the lifetime of the creator, but also for 70 years after their death[foot]If the copyright" of the work was sold, the work enters the Public Domain 95 years after it's first publishing.[/foot] -- <span lang="he">כֹּל זְכוּיוֺת שוֺמְרוֺת, <em>Kol zchuyot shomrot</em>, all rights reserved -- to reproduce, distribute, and create derivative works based on it are forbidden, without the explicit written consent of the creator. As stated before here at the Open Siddur Project, this might make sense for creators of new works and music, but it hardly makes sense for cultural projects with communal objectives which rely heavily and assert their authority on the authenticity of works in the <a href="http://en.wikipedia.org/wiki/Public_domain">Public Domain</a>. The teaching and practice of Judaism is one such communal project. The promise of the Open Siddur Project relies on our sharing creative works and access to the vast corpus of work that we've inherited from our creative ancestors. That is why we so heavily depend and advocate for the adoption of open source, free/libre, and copyleft[foot]Copyleft "describes the practice of using copyright law to offer the right to distribute copies and modified versions of a work and requiring that the same rights be preserved in modified versions of the work. In other words, copyleft is a general method for making a program (or other work) free, and requiring all modified and extended versions of the program to be free as well" ("<a href="http://en.wikipedia.org/wiki/Copyleft">Copyleft</a>" in wikipedia, accessed 2011-01-12).[/foot] licenses -- so that creative work, protected by default under Copyright law, can nevertheless be shared by creators who give their explicit permission to others to adopt, adapt, study, and attribute their work in new works that are similarly shared and distributed.</span>
+Who would obstruct that kind of sharing? When a new work is created, copyright law doesn't assume that a creative work was intended for sharing (with or without attribution). Instead, a creative work is immediately protected as private property -- not only for the lifetime of the creator, but also for 70 years after their death[foot]If the copyright" of the work was sold, the work enters the Public Domain 95 years after it's first publishing.[/foot] -- כֹּל זְכוּיוֺת שוֺמְרוֺת, <em>Kol zchuyot shomrot</em>, all rights reserved -- to reproduce, distribute, and create derivative works based on it are forbidden, without the explicit written consent of the creator. As stated before here at the Open Siddur Project, this might make sense for creators of new works and music, but it hardly makes sense for cultural projects with communal objectives which rely heavily and assert their authority on the authenticity of works in the <a href="http://en.wikipedia.org/wiki/Public_domain">Public Domain</a>. The teaching and practice of Judaism is one such communal project. The promise of the Open Siddur Project relies on our sharing creative works and access to the vast corpus of work that we've inherited from our creative ancestors. That is why we so heavily depend and advocate for the adoption of open source, free/libre, and copyleft[foot]Copyleft "describes the practice of using copyright law to offer the right to distribute copies and modified versions of a work and requiring that the same rights be preserved in modified versions of the work. In other words, copyleft is a general method for making a program (or other work) free, and requiring all modified and extended versions of the program to be free as well" ("<a href="http://en.wikipedia.org/wiki/Copyleft">Copyleft</a>" in wikipedia, accessed 2011-01-12).[/foot] licenses -- so that creative work, protected by default under Copyright law, can nevertheless be shared by creators who give their explicit permission to others to adopt, adapt, study, and attribute their work in new works that are similarly shared and distributed.</span>
 
 SHARE WHAT YOU LOVE ♡ -- A Decision Tree for Choosing Free-Culture Compatible Open Content Licenses for Cultural &amp; Technological Work, v.1.0-2014-04-02 (credit: Aharon Varady, license: CC-BY-SA)To help creators of new works navigate the panoply of free/libre, open source, and copyleft licenses, I made a decision tree flowchart as an image map with clickable links to respective licenses and relevant articles. The tree was inspired by <a href="http://web.archive.org/web/20110101072821/http://www.freesoftwaremagazine.com/files/www.freesoftwaremagazine.com/nodes/3368/ss/fig_choosing_license.jpg">a decision tree by Terry Hancock</a>, which accompanied his article, "<a href="http://web.archive.org/web/20110101072609/http://www.freesoftwaremagazine.com/columns/choosing_and_using_free_licenses_software_hardware_and_aesthetic_works">Choosing and Using Free Licenses for Software, Hardware, and Aesthetic works</a>."[foot]"A Best Practices Flowchart for Choosing a License" by Terry Hancock, Free Software Magazine, 2010-09-26.[/foot] Readers of this article are recommended to read Hancock's follow-up essay, "<a href="http://web.archive.org/web/20111124210246/http://www.freesoftwaremagazine.com/columns/confusion_and_complexity_high_time_prune_creative_commons_licenses">Confusion and Complexity: High time to prune the Creative Commons licenses?</a>"]]></content:encoded>
 		<excerpt:encoded><![CDATA[To help creators of new works navigate the panoply of free/libre, open source, and copyleft licenses, I made a decision tree flowchart as an image map with clickable links to respective licenses and relevant articles.]]></excerpt:encoded>
@@ -1212,7 +1208,7 @@ SHARE WHAT YOU LOVE ♡ -- A Decision Tree for Choosing Free-Culture Compatible 
 		<dc:creator><![CDATA[hierophant]]></dc:creator>
 		<guid isPermaLink="false">http://opensiddur.org/?page_id=6788</guid>
 		<description></description>
-		<content:encoded><![CDATA[<div class="english" style="font-size: 1.2em;">
+		<content:encoded><![CDATA[<div class="english" lang="en" style="font-size: 1.2em;">
 
 The Open Siddur is only one example of a host of projects working to transcend the impositions of copyright laws while sharing, remixing, and redistributing the products of our intellectual Commons. There are a number of related projects in <a href="https://en.wikipedia.org/wiki/Open_Source_Judaism">Open Source Judaism</a> today whose use of free-culture compatible open content and open source licensing is profoundly affecting Jewish education and cultural vitality. If you have a link to add to this list, please <a href="https://opensiddur.org/contact/">contact us</a>. (For our legacy, "<a href="http://web.archive.org/web/20120708203443/http://wiki.jewishliturgy.org:80/Environmental_Scan">environmental scan</a>" of comparative, complementary, competing, and collaborative projects, circa 2009, see <a href="http://web.archive.org/web/20120708203443/http://wiki.jewishliturgy.org:80/Environmental_Scan">here</a>.)
 <h3>Open-source Licensed Jewish Content</h3>
@@ -1313,7 +1309,7 @@ The <a href="http://tanach.us/">Westminster Leningrad Codex</a>: digital edition
 
 </div>
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 <h3 style="padding-left: 40px;">Terminology of Open-source: Definitions and Disambiguation</h3>
 <p style="padding-left: 80px;">"<a href="https://en.wikipedia.org/wiki/Commons">The Commons</a>"</p>
 
@@ -1502,13 +1498,13 @@ The <a href="http://tanach.us/">Westminster Leningrad Codex</a>: digital edition
 		<dc:creator><![CDATA[hierophant]]></dc:creator>
 		<guid isPermaLink="false">http://opensiddur.org/?page_id=7944</guid>
 		<description></description>
-		<content:encoded><![CDATA[<div class="english" style="font-size: 1.2em;">
+		<content:encoded><![CDATA[<div class="english" lang="en" style="font-size: 1.2em;">
 Part of our project of digitizing Jewish liturgy is to provide a resource to convert the consonants and vowels of Hebrew into any other script. Ultimately this will be a standard feature in the web application we are building to help folk craft their own siddur, machzor, bentscher or other useful prayer book. Our lead developer, Efraim Feinstein, invented this transliteration engine, a milestone in the creation of our <a href="https://github.com/opensiddur/opensiddur">Open Siddur web application</a> (still in development).
 
 The form below provides a demonstration of this open source technology. Try it with some Hebrew now! If you don't have any handy, try transliterating this phrase from the opening of the Amidah:
 
 <blockquote>
-<div class="hebrew" style="text-align:right; font-size: x-large;"><span lang="he">אֲדֹנָי שְׂפָתַי תִּפְתָּח וּפִי יַגִּיד תְּהִלָּתֶךָ׃</span></div>
+<div class="hebrew" lang="he" style="text-align:right; font-size: x-large;">אֲדֹנָי שְׂפָתַי תִּפְתָּח וּפִי יַגִּיד תְּהִלָּתֶךָ׃</span></div>
 </blockquote>
 
 
@@ -3199,7 +3195,7 @@ The tables below are organized according to font support for t'amim and/or niqqu
 
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 <h3>COMPLETE FONT PACK DOWNLOAD:</h3> <a href="https://github.com/aharonium/fonts/archive/master.zip">ZIP</a> (v.1.18.6) | <a href="https://archive.org/download/OpenSiddurProjectOpenSourceUnicodeHebrewFontPackCatalogue/Open-Siddur-Project-Hebrew-Font-Pack-comparison-v.1.18.6.pdf">PDF</a> (Open Source and Unicode Hebrew Font comparison chart. Note: contains <em>shemot</em>.)
 
 Our open-source Unicode Hebrew font pack is maintained on <a href="https://github.com/aharonium/fonts">Github</a> by Aharon N. Varady. If you value this service, please consider becoming a <a href="https://patreon.com/aharonium">patron</a>.
@@ -3422,7 +3418,7 @@ If you or your company designed a Hebrew font which you never updated to Unicode
 		<dc:creator><![CDATA[hierophant]]></dc:creator>
 		<guid isPermaLink="false">http://opensiddur.org/?page_id=7957</guid>
 		<description></description>
-		<content:encoded><![CDATA[<div class="english" style="font-size: 1.2em;">
+		<content:encoded><![CDATA[<div class="english" lang="en" style="font-size: 1.2em;">
 <h2>Transcribing Jewish liturgy and Related Work</h2>
 
 A fundamental value of our project is correctly attributing Jewish liturgy and liturgy related work. Even when the original author of a work is lost to history, we strive to record every adaptation and variation sourced within particular manuscripts and extant published works in the Public Domain.
@@ -3581,7 +3577,7 @@ Another OCR project to keep an eye on is that of <a href="https://github.com/uri
 		<dc:creator><![CDATA[hierophant]]></dc:creator>
 		<guid isPermaLink="false">http://opensiddur.org/?page_id=7963</guid>
 		<description></description>
-		<content:encoded><![CDATA[<div class="english" style="font-size: 1.2em;">
+		<content:encoded><![CDATA[<div class="english" lang="en" style="font-size: 1.2em;">
 You don't need to buy a new keyboard with Hebrew keys in order to type in Hebrew. Also, one doesn't need to purchase any expensive software to type in Hebrew with all of its special vowels, cantillation marks, and punctuation. All you need is to install a Hebrew keyboard layout and a set of Hebrew fonts supporting all of those diacritical marks.
 
 It's important to note that not all Hebrew keyboard layouts support all the diacritical marks available in the Unicode Hebrew code range. This is the case with the the "SI-1452" layout, the default Hebrew keyboard layout that comes with many systems (including Windows and GNU/Linux/X11). The instructions presented below refer to the layout designed by John Hudson known as the "Biblical Hebrew (Tiro) Keyboard."
@@ -3742,7 +3738,7 @@ Press "Layout options"</li>
 		<description></description>
 		<content:encoded><![CDATA[&nbsp;
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 [caption id="attachment_7637" align="alignright" width="131"]<a href="/help/fonts/"><img src="https://opensiddur.org/wp-content/uploads/2013/08/bet-with-etnachta.png" alt="" width="131" height="131" class="size-full wp-image-7637" /></a> Open-source Unicode Hebrew fonts[/caption]<h3>Prerequisites</h3>
 
 Before editing Hebrew text, make sure you have installed on your Operating System some attractive Unicode Hebrew fonts that support the full range of Hebrew text with diacritical marks (t'amim and niqudot). 
@@ -4070,7 +4066,7 @@ We maintain physical, electronic and procedural safeguards intended to protect a
 		<dc:creator><![CDATA[hierophant]]></dc:creator>
 		<guid isPermaLink="false">http://opensiddur.org/?page_id=8011</guid>
 		<description></description>
-		<content:encoded><![CDATA[<div class="english" style="font-size: 1.2em;">
+		<content:encoded><![CDATA[<div class="english" lang="en" style="font-size: 1.2em;">
 The Open Siddur Project (“we” or “us”), is a nonprofit charitable organization whose mission is to <strong>liberate the creative content of Jewish spiritual practice as a collectively shared resource for students, scholars, artists, and educators to adopt, adapt, and redistribute</strong>, and to disseminate this content effectively and globally, <a href="http://freedomdefined.org">freely</a> and <a href="http://opendefinition.org/">openly</a>, with engaging, interactive interfaces built upon <a href="http://www.opensource.org/docs/osd">open source software</a>.
 
 To support our community, we provide the essential infrastructure and organizational framework for the development of structured primary texts, translations, annotations and other learning materials. We strive to make and keep the semantic data of Jewish liturgy and related content available on the Internet as an <a href="http://opendefinition.org/ossd/">open service</a>, <em>gratis</em> (free-of-charge), in perpetuity. 
@@ -4302,7 +4298,7 @@ We appreciate your taking the time to read these Terms of Use, and we are very h
 		<dc:creator><![CDATA[hierophant]]></dc:creator>
 		<guid isPermaLink="false">http://opensiddur.org/?page_id=8016</guid>
 		<description></description>
-		<content:encoded><![CDATA[<div class="english" style="font-size: 1.2em;">
+		<content:encoded><![CDATA[<div class="english" lang="en" style="font-size: 1.2em;">
 The Open Siddur Project is committed to making the semantic data of Jewish liturgy and liturgy-related work accessible for adaptive reuse, especially in the compilation of new Jewish prayerbooks. We respect the intellectual property rights of others and expect our community of users to do the same in honoring the terms of the licenses under which content is shared. Users contributing content through this project may only share work that is either already in the Public Domain or else under copyright and shared by the copyright steward with a <a href="http://freedomdefined.org/definition">free-culture license compatible,</a> <a href="http://opendefinition.org/">Open Content</a> license. (Please refer to the Free Culture Foundation for <a href="http://freedomdefined.org/definition"><em>the definition of free as in libre</em></a> that the Open Siddur Project abides by. Please refer to the Open Knowledge Foundation for <a href="http://opendefinition.org/">the definition of Open Content and Open Data</a> that the Open Siddur Project adheres to.)
 
 In exceptional circumstances, users may share work by claiming their Fair Use Right. In such circumstances, the administrators of the Open Siddur Project reserve the right to remove such content at a copyright owner's request.
@@ -4355,40 +4351,40 @@ Under the halakha of <em>dina malkhuta dina</em> (the law of the land is the law
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ויחנו במדבר - נתנה תורה דימוס פרהסיא במקום הפקר, שאלו נתנה בארץ ישראל, היו אומרים לאומות העולם אין להם חלק בה, לפיכך נתנה דימוס פרהסיא, במקום הפקר, וכל הרוצה לקבל יבא ויקבל. 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 "[They] encamped in the <em>Midbar</em> (wilderness)" -- Torah was given over <em>dimus parrhesia</em> (as a public and open proclamation) in a <em>maqom hefker</em> (a place belonging to no one). For had it been given in the Land of Israel, they would have had cause to say to the nations of the world, “you have no share in it.” Thus was it given <em>dimus parrhesia</em>, in a place belonging to no one: “Let all who wish to receive it, come and receive it!”
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מפני מה לא ניתנה תורה בארץ ישראל? שלא ליתן פתחון פה לאומות העולם, לומר לפי שנתנה בארצו לפיכך לא קבלנו עלינו. דבר אחר: שלא להטיל מחלוקת בין השבטים, שלא יהא זה אומר בארצי נתנה תורה וזה אומר בארצי נתנה תורה, לפיכך נתנה במדבר, דימוס פרהסיא במקום הפקר. 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Why was the Torah not given in the land of Israel? In order that the peoples of the world should not have the excuse for saying: "Because it was given in Israel's land, therefore we have not accepted it." Another reason: To avoid causing dissension among the tribes [of Israel]. Else one might have said: "In my land the Torah was given." And the other might have said: "In my land the Torah was given." Therefore, the Torah was given in the <em>Midbar</em> (wilderness), <em>dimus parrhesia</em>, in a place belonging to no one. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בשלושה דברים נמשלה תורה במדבר ובאש ובמים לומר לך מה אלו חנם לכל באי העולם אף דברי תורה חנם לכל באי העולם.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 To three things the Torah is likened: to the <em>Midbar</em> (wilderness), to fire, and to water. This is to tell you that just as these three things are free to all who come into the world, so also are the words of the Torah free to all who come into the world.
 </div></div></td></tr>
 </tbody></table>
 </blockquote>
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 If the Torah is essentially a Commons, in what way can we appropriately apply a property law (copyright) to content inspired through Torah's reception and practice? To do so might align our efforts with the primary sin committed by the people of Sodom, namely, their insistence on the absolute primacy of property by declaring that "what is mine is mine and what is yours is yours" (Mishna Avot 5:10, Pirkei Avot 5:13). Neil Netanel and David Nimmer summarize the rabbinic response to this problem in their article "<a href="https://opensiddur.org/wp-content/uploads/2013/04/Is-Copyright-Property-%E2%80%94-The-Debate-in-Jewish-Law.pdf">Is Copyright Property? — The Debate in Jewish Law</a>" (<em>Theoretical Inquiries in Law</em>. 12 (217): 217–251):
 
 <blockquote>As applied by rabbinic jurists, the rule against acting like a Sodomite gives rise to three possible limitations on copyright, even assuming that copyright is property.
@@ -4524,7 +4520,7 @@ Only DMCA notices and notices relating to complaints in connection with infringe
 		<guid isPermaLink="false">http://opensiddur.org/?page_id=8358</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!--
-<div class="english">
+<div class="english" lang="en">
 Imagine a library of Jewish prayer shared by everyone in the world designing and crafting their own siddur.
 
 Imagine an open database of Jewish prayers showing historical variations and changes across Jewish traditions, manuscripts, and facsimile editions. 
@@ -4802,7 +4798,7 @@ Imaging is critical in providing a source image by which collaborative transcrip
 		<dc:creator><![CDATA[hierophant]]></dc:creator>
 		<guid isPermaLink="false">http://opensiddur.org/?page_id=9994</guid>
 		<description></description>
-		<content:encoded><![CDATA[<div class="english" style="font-size: 1.2em;">
+		<content:encoded><![CDATA[<div class="english" lang="en" style="font-size: 1.2em;">
 The Open Siddur Project envisions Jewish spirituality as a shared and collaborative project that is rooted in the wisdom of our traditions and which finds expression through the evolving diversity of our communities and the intimate experiences of our individual relationships. Much like the <em>mishkan</em>, the traveling tent of meeting (or tabernacle) was the focal point for those creatively inspired Israelites to share their work, <span class="hebrew" lang="he">כֹּל אֲשֶׁר נַשָׂא לִבַּם</span>, <em>as their hearts were stirred</em> (Exodus 36:2), so too we see the Open Siddur Project as a kind of <span class="hebrew" lang="he">יִחוּד</span>, a unification of holy <span class="hebrew" lang="he">כַּוָּנוֹת</span> (intentions) for those sharing their <span class="hebrew" lang="he">חִדּוּשִׁים</span> (innovations) in Jewish spiritual practice, in sacred liturgy, in meditations and exercises, and in understanding through translations and commentary. In an age when our <span class="hebrew" lang="he">עֲבוֹדָה</span> <em>avodah</em> (intentional practice) is expressed by communities and individuals in a multiplicity of ways, it behooves us to take our <em>avodah</em> seriously, respect and reflect this diversity, and provide the means for crafting newly designed <span class="hebrew" lang="he">סִידּוּרִים</span> <em>Siddurim</em> accordingly. The Open Siddur Project is a community, space, and licensing framework for sharing those designs and enrich our individual and communal <em>avodah</em> with each other's creativity and insight.
 
 The technology for engaging in a regular Jewish spiritual practice, like <em>davvening</em> for instance, only requires one to have an open heart, or the desire to have an open heart. No siddur is really necessary. And yet, a technology for accessing a set arrangement of techniques, formulations, exercises, and meditations can be very helpful for practitioners both adept and novice. Essentially, the <span class="hebrew" lang="he">סִידוּר</span> <em>Siddur</em> is a bound reference book containing not only the established sequence of liturgy used by a <em>ḥazzan</em> leading communal prayer, but also many other useful arrangements for Jewish spiritual practice alone or at home. The great variety of extant siddurim is testament to the diversity of Jewish communal traditions. Until now, it was extremely difficult to create one's own siddur, collecting an arrangement reflecting an individuals own evolving engagement in Jewish spirituality. By converting Public Domain print resources and newly composed contemporary works to digital resources encoded in standard open formats, we can create a powerful means by which individuals and communities take ownership of their practice and make meaning through direct engagement with the ingredients of Jewish spiritual resources. The scope of this digitization is immense: we seek to digitize every manuscript witnessing a formulation of a prayer and variations in arrangements and selection representing every liturgical custom or <em>nusaḥ.</em>
@@ -4936,7 +4932,7 @@ and <strong>Communicating the principles of sharing as the basis of a vital, cre
 		<dc:creator><![CDATA[hierophant]]></dc:creator>
 		<guid isPermaLink="false">http://opensiddur.org/?page_id=10374</guid>
 		<description></description>
-		<content:encoded><![CDATA[<div class="english">
+		<content:encoded><![CDATA[<div class="english" lang="en">
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://aharon.varady.net/browser-test/"]
 
@@ -5370,7 +5366,7 @@ Text on this page has been amended from <a href="http://creativecommons.org.il/i
 		<dc:creator><![CDATA[hierophant]]></dc:creator>
 		<guid isPermaLink="false">http://opensiddur.org/?page_id=14234</guid>
 		<description></description>
-		<content:encoded><![CDATA[<div class="english" style="font-size: 1.2em;">
+		<content:encoded><![CDATA[<div class="english" lang="en" style="font-size: 1.2em;">
 
 In every case, we defer to the contributor's preferred style in contributing their work, whether it is an original work, or a translation or transcription of an existing work. However, we do suggest the following style as a baseline standard for all contributed works.
 
@@ -5390,9 +5386,9 @@ In every case, we defer to the contributor's preferred style in contributing the
 
 &nbsp;
 <h3>Rendering Names, Divine Names, Circumlocutions, and Terms for generic divinities</h3>
-<p style="padding-left: 40px;">All names and place names should be romanized (transliterated with the alphabet) according to the transliteration schema set below. For example, <span class="hebrew">יעקב</span> becomes Ya'aqov (rather than Jacob).</p>
+<p style="padding-left: 40px;">All names and place names should be romanized (transliterated with the alphabet) according to the transliteration schema set below. For example, <span class="hebrew" lang="he">יעקב</span> becomes Ya'aqov (rather than Jacob).</p>
 <p style="padding-left: 40px;">Please do not translate divine names.</p>
-<p style="padding-left: 40px;">Transliterate all divine names with the first letter in Uppercase. For example, <span class="hebrew">אלהים</span> becomes Elohim (rather than "God"), etc.</p>
+<p style="padding-left: 40px;">Transliterate all divine names with the first letter in Uppercase. For example, <span class="hebrew" lang="he">אלהים</span> becomes Elohim (rather than "God"), etc.</p>
 <p style="padding-left: 40px;">In the case of the Tetragrammaton (the Four-Letter Name), we recommend it simply being rendered as "YHVH" (rather than "LORD" or "the LORD"). 'Adonai' is fine for presenting romanized transliterations of the Tetragrammaton.</p>
 <p style="padding-left: 40px;">Do not capitalize the first letter of divine pronouns. For example: "you" instead of "You." Exceptions may be made for distinguishing singular "They" or <span style="text-transform: uppercase;">THEY</span> from plural "they."</p>
 <p style="padding-left: 40px;">When replacing he/him/his in a gender-neutral grammatical reference to the Divine in translation, you may either (in order of preference): 
@@ -5402,14 +5398,14 @@ In every case, we defer to the contributor's preferred style in contributing the
 <li>choose a circumlocution such as "Hashem" for YHVH or "G♕d" for Elohim, if necessary. For example, "Praise YHVH for <span style="text-transform: uppercase;">THEY</span> are good. Hashem loves those with integrity."</li>
 </ol></p>
 <p style="padding-left: 40px;">Divine epithets may remain gender-neutral or gendered, based on the translator's preference. For example: "Melekh ha-Olam" may be translated as "Cosmic Majesty." "Avinu Malkeinu" may be translated as "My father, My king."</p>
-<p style="padding-left: 40px;">Any indirect reference to divinity may be treated as a generic. For example <span class="hebrew">יהוה אלהיך</span> becomes "YHVH your <em>elo'ah</em> (rather than "YHVH your god") and <span class="hebrew">אלהי יעקב</span> becomes "<em>elo'ah</em> of Ya'aqov" (rather than god of Ya'aqov").</p>
-<p style="padding-left: 40px;">Generic terms for divine entities should be identified in transliteration in lowercase. For example, <span class="hebrew">אלים</span> becomes <em>elim</em>.</p>
+<p style="padding-left: 40px;">Any indirect reference to divinity may be treated as a generic. For example <span class="hebrew" lang="he">יהוה אלהיך</span> becomes "YHVH your <em>elo'ah</em> (rather than "YHVH your god") and <span class="hebrew" lang="he">אלהי יעקב</span> becomes "<em>elo'ah</em> of Ya'aqov" (rather than god of Ya'aqov").</p>
+<p style="padding-left: 40px;">Generic terms for divine entities should be identified in transliteration in lowercase. For example, <span class="hebrew" lang="he">אלים</span> becomes <em>elim</em>.</p>
 <p style="padding-left: 40px;">Circumlocutions found in contemporary works should be replaced with the divine names they signify in the manner described above.</p>
 
 &nbsp;
 <h3>Translations and Complex Terms</h3>
 <p style="padding-left: 40px;">Please do not translate complex terms. Transliterate them and, if necessary, provide more expansive explanations in a footnote.</p>
-<p style="padding-left: 40px;">All complex terms should be romanized (transliterated with the Latin script alphabet) according to the transliteration schema set below. For example, <span class="hebrew">ציצית</span> becomes tsisit (rather than tzizit).</p>
+<p style="padding-left: 40px;">All complex terms should be romanized (transliterated with the Latin script alphabet) according to the transliteration schema set below. For example, <span class="hebrew" lang="he">ציצית</span> becomes tsisit (rather than tzizit).</p>
 <p style="padding-left: 40px;">Default male-gender language, where the gender is not significant, should be translated using gender neutral alternatives. For example: "<em>avot</em>/<em>avoteinu</em>" may be translated as "ancestors" rather than "forefathers."</p>
 <p style="padding-left: 40px;">Gendered language, where the gender is significant, should retain the gender in translation. For example: "<em>imahot</em>" may be translated as "foremothers."</p>
 
@@ -5423,7 +5419,7 @@ In every case, we defer to the contributor's preferred style in contributing the
 
 Find below, a chart for Hebrew consonants and vowels with their corresponding letters in romanized Latin script.
 
-<p style="padding-left: 40px;"> <span class="latin">אַ = a, â
+<p style="padding-left: 40px;"> <span class="latin" lang="la">אַ = a, â
 אָ = a, â
 אׇ = o, ō
 אֵ = e, é, ei
@@ -5556,7 +5552,7 @@ Find below, a chart for Hebrew consonants and vowels with their corresponding le
 		<dc:creator><![CDATA[aharon.varady]]></dc:creator>
 		<guid isPermaLink="false">http://opensiddur.org/?page_id=16756</guid>
 		<description></description>
-		<content:encoded><![CDATA[<div class="english">
+		<content:encoded><![CDATA[<div class="english" lang="en">
 <h2>Basic Rules in the System of Pointing by Avraham Even-Shoshan from <em>HaMillon Heḥadash</em></h2>
 &nbsp;
 <h3>The Problem of Pointing (§14)</h3>
@@ -5594,7 +5590,7 @@ If the syllable is accented, it is possible that the opposite of the rule will a
 </table>
 Examples:
 <p style="padding-left: 30px;">a)
-<div class="hebrew">
+<div class="hebrew" lang="he">
 מַלְ-כָּה,
 חֶפְ-צִי,
 רִבְ-קָה,
@@ -5604,7 +5600,7 @@ Examples:
 </p>
 <p style="padding-left: 30px;">(In each of these, the first syllable is closed by a silent sh'va, and it is not accented; thus the vowel is short! The second syllable is open and its vowel is long!)</p>
 <p style="padding-left: 30px;">b)
-<div class="hebrew">
+<div class="hebrew" lang="he">
 כַּ-מָּה,
 סִ-בָּה,
 שֶׁ-מֶּשׁ,
@@ -5614,7 +5610,7 @@ Examples:
 </p>
 <p style="padding-left: 30px;">(in each of these, the first syllable is closed by the dagesh forte in the consonant following and it is unaccented; thus the vowel is short! The second syllable is open and its vowel is long.)</p>
 <p style="padding-left: 30px;">c)
-<div class="hebrew">
+<div class="hebrew" lang="he">
 מַ-יִם,
 שֶׁ-מֶשׁ,
 יִ-פֶן
@@ -5622,7 +5618,7 @@ Examples:
 </p>
 <p style="padding-left: 30px;">(in each of these, the first syllable is open and accented; thus, the vowel is likely to be short! The second syllable is closed in accordance with the rule.)</p>
 <p style="padding-left: 30px;">d)
-<div class="hebrew">
+<div class="hebrew" lang="he">
 שָׁ-מָּה,
 הֵ-נָּה,
 סֹ-בּוּ
@@ -5630,7 +5626,7 @@ Examples:
 </p>
 <p style="padding-left: 30px;">(in all three of these the first syllable is closed by the dagesh forte in the consonant following) and accented, thus the vowel is likely to be long; the second syllable is open in accordance with the rule.)</p>
 <p style="padding-left: 30px;">e)
-<div class="hebrew">
+<div class="hebrew" lang="he">
 כַּ-דּוּר,
 שֻׁלְ-חָן,
 עָ-שִׁיר
@@ -5648,7 +5644,7 @@ The recognition of the type sh'va that occurs in great abundance in the vocabula
 
 The following are the four indicators of the type of sh'va:
 <p style="padding-left: 30px;">a) A sh'va at the start of a word is a vocalized sh'va; a sh'va at the end of a word is a silent sh'va (this rule is implied by the definition itself of a vocalized sh'va and a silent one!) For example: 
-<div class="hebrew">
+<div class="hebrew" lang="he">
 שְׁמַע, 
 בְּנִי (vocalized!), 
 קָם, 
@@ -5656,19 +5652,19 @@ The following are the four indicators of the type of sh'va:
 </div>
 </p>
 <p style="padding-left: 30px;">b) In the case of two sh’va-`im in the middle of a word, the first is silent and the second is vocalized. For example: 
-<div class="hebrew">
+<div class="hebrew" lang="he">
 יִקְרְאוּ = יִקֱ-רְאוּ, 
 כַּסְפְּכֶם = כַּסְ-פְּכֶם
 </div>
 </p>
 <p style="padding-left: 30px;">c) A sh'va after a short vowel is silent; after a long vowel, vocalized (this rule derives directly from “The Rule of Syllables and Vowels” – §15). For example: 
-<div class="hebrew">
+<div class="hebrew" lang="he">
 שִׁמְשׁוֹן = שִׁמְ-שׁוֹן, 
 שׁוֹמְרִים = שׁוֹ-מְרִים
 </div>
 </p>
 <p style="padding-left: 30px;">d) A sh'va under a consonant with a dagesh forte is always vocalized. For example: 
-<div class="hebrew">
+<div class="hebrew" lang="he">
 שַׁלְמִי = שַׁ-לְמִי, 
 סִפְרוּ = סִ-פְּרוּ
 </div>
@@ -5736,7 +5732,7 @@ Only five consonants are liable to cause departures from this basic rule: aleph,
 before an 'ayin that is not qamats-pointed and
 before a heh and an 'ayin that are qamats-pointed and accented</p>
 <p style="padding-left: 30px;">is qamats-pointed (a long syllable). For example: 
-<div class="hebrew">
+<div class="hebrew" lang="he">
 הָאִישׁ, 
 הָרִאשׁוֹן, 
 הָהָר, 
@@ -5745,7 +5741,7 @@ before a heh and an 'ayin that are qamats-pointed and accented</p>
 </p>
 <p style="padding-left: 30px;">b) Before heh and ḥet that are not qamats-pointed – the definite article remains pointed with a pataḥ without “compensation for a” dagesh: הַחוּט, הַהֹולֵךְ, הַהוּא. (Exception: הָהֵם).</p>
 <p style="padding-left: 30px;">c) Before a ḥet pointed with a strong qamats or a ḥataph-qamats, and similarly before qamats-pointed, unaccented hey and 'ayin, the definite article is pointed with a segol. For example 
-<div class="hebrew">
+<div class="hebrew" lang="he">
 הֶחָכָם, 
 הֶחֳדָשִׁים, 
 הֶהָרִים, 
@@ -5754,7 +5750,7 @@ however, הַחָכְמָה, הֶהָערְמָה (the ḥet and the 'ayin have 
 </p>
 
 <p style="padding-left: 30px;">d) In addition, it is appropriate to keep in mind that, when the definite article occurs before a yod that is pointed with a sh'va and a mem on the model of maph'el or m’phu'al, the dagesh forte is omitted in these letters. For example: 
-<div class="hebrew">
+<div class="hebrew" lang="he">
 הַיְלָדִים, 
 הַמְדַבְּרִים, 
 הַמְשׁוּמָר. (Exceptions: הַיְּהוּדִים, הַיְּוָנִים).</p>
@@ -5789,14 +5785,14 @@ Instances that require departures from the rule:
 <p style="padding-left: 30px;">a) The interrogative heh may not be pointed with a ḥataph-patah if it comes before a consonant already pointed with sh'va (as a ḥataph-patah is nothing but a vocalized sh'va, and two sh’va-`im may not occur consecutively in Hebrew at the start of a word. In this instance the interrogative heh will be pointed with a pataḥ in most cases without a dagesh forte in the consonant that follows!), for example הַיְדַעְתֶּם? הַשְׁמַעְתֶּם? הַרְאוּבֵן הַמְדַבֵּר?</p>
 <p style="padding-left: 30px;">b) Before the consonants `aleph, hey, ḥet and 'ayin, the ḥataph falls off, also for phonetic reasons, and the interrogative heh is pointed with only a pataḥ, 
 for example: 
-<div class="hebrew">
+<div class="hebrew" lang="he">
 הַאִם?
  הַעוֹלִים הָאֲנָשִׁים?
  הַהוֹלֵךְ הוּא?
  </div>
  </p>
 <p style="padding-left: 30px;">c) Before the consonants `aleph, hey, ḥet and 'ayin that are pointed with a qamats and are unaccented, the interrogative heh is pointed with a segol, for example: 
-<div class="hebrew">
+<div class="hebrew" lang="he">
 הֶאָנֹכִי עָשִֹיתִי? 
 הֶהָיְתָה כָזֹאת? 
 הֶחָשַׁבְתָּ? 
@@ -5825,26 +5821,26 @@ for example:
 
 <h3>The Pointing of the Conjunctive Vav (§21)</h3>
 The basic pointing of the conjunctive vav in with a sh'va, for example: 
-<div class="hebrew">
+<div class="hebrew" lang="he">
 אַבְרָהָם וְיִצְחָק וְיַעֲקֹב. 
 אָכַלְתִּי וְשָֹבַעְתִּי.
 </div>
 Instances that require departures from the rule:
 <p style="padding-left: 30px;">a) The conjuctive vav may not be pointed with a sh'va if it occurs before a consonant already pointed with a sh'va (and two sh’va-`im may not occur consecutively in Hebrew at the start of a word). In this instance, the vowel of the vav changes from a sh'va to a shuruq,[foot]The original phonetic pronunciation of the vav was like the pronunciation of the English consonant ‘w’ that is very similar to the pronunciation of a shuruq.[/foot] for example: 
-<div class="hebrew">
+<div class="hebrew" lang="he">
 דָּוִד וּשְׁלֹמֹה, 
 רִבְקָה וּדְבוֹרָה, 
 שְׁמַעְתֶּם וּרְאִיתֶם
 </div>
 </p>
 <p style="padding-left: 30px;">b) The conjunctive vav before a yod that is pointed with a sh'va is pointed with a ḥiriq, and the sh'va with which the yod is pointed falls off, for example:
-<div class="hebrew">
+<div class="hebrew" lang="he">
 שִׁמְעוֹן וִיהוּדָה, 
 צִיּוֹן וִירוּשָׁלַיִם (from יְהוּדָה, יְרוּשָׁלַיִם!)
 </div>
 </p>
 <p style="padding-left: 30px;">c) The pointing of the conjunctive vav before one of the consonants bet, vav, mem, peh (related as to the source of their sound is changed to a shuruq, for example: 
-<div class="hebrew">
+<div class="hebrew" lang="he">
 אַהֲרֺן וּמשֶׁה, 
 לֶחֶם וּבָשָֹר, 
 לְשׁוֹנֵנוּ וּפִינוּ. 
@@ -5853,14 +5849,14 @@ Instances that require departures from the rule:
 
 </p>
 <p style="padding-left: 30px;">d) The pointing of the conjunctive vav before a consonant that is pointed with a ḥataph is pointed with the same vowel as the ḥataph, for example: 
-<div class="hebrew">
+<div class="hebrew" lang="he">
 עֲשִׁירָה וַעֲנִיָּה, 
 סִירָה וָאֳנִיָּה, 
 חֶסֶד וֶאֱמֶת.
 </div>
 </p>
 <p style="padding-left: 30px;">e) The pointing of the conjunctive vav before an accented syllable (at the end of a sentence and in the case of commonly paired words even in the middle of a sentence) is for the most part with a qamats gadol, for example: 
-<div class="hebrew">
+<div class="hebrew" lang="he">
 בָּשָֹר־וָדָם, 
 קַיִץ וָחֹרֶף, 
 יוֹם וָלַיְלָה.
@@ -5894,7 +5890,7 @@ Instances that require departures from the rule:
 
 <h3>The Pointing of the Conversive Vav (§22)</h3>
 The pointing of the vav that converts the tense from the past tense to the future follows rule of the pointing of the conjunctive vav in its basic form and in its departures, for example: 
-<div class="hebrew">
+<div class="hebrew" lang="he">
 וְדִבֵּר (basic pointing), 
 וּרְאִיתֶם אִת הָאָרֶץ (departure a), 
 וִישַׁבְתֶּם לָבֶטַח (departure b), 
@@ -5925,14 +5921,14 @@ The pointing of the vav that converts the tense from the past tense to the futur
 </tbody>
 </table>
 The basic pointing of the vav that converts the tense from the future tense to the past is with a pataḥ; therefore, there is a dagesh forte in the consonant that follows, for example: 
-<div class="hebrew">
+<div class="hebrew" lang="he">
 וַיֹּאמֶר, 
 וַנֵּצֵא.
 </div>
 There are two departures:
 <p style="padding-left: 30px;">a) Before the `aleph of the consonants in the acronym (אֵיתָ"ן[foot]The four consonants, 'aleph, yod, nun and tav can appear before the verb stem to the future tense. `Aleph, tav and yod represent first, second and third person singular, respectively, and nun, first person plural[/foot]) (that may not contain a dagesh!) the pointing of the conversive vav is with a qamats (similar to the definite article, §19), for example: וָאֹמַר, וָאֲדַבֵּר.</p>
 <p style="padding-left: 30px;">b) Before a yod that is pointed with a sh'va, the pointing of the vav still is with a pataḥ, but the yod does not receive a dagesh, for example:
-<div class="hebrew">
+<div class="hebrew" lang="he">
 וַיְדַבֵּר, 
 וַיְהִי.
 </div>
@@ -5964,7 +5960,7 @@ The basic pointing of the consonants bet, kaph and lamed is with a sh'va, for ex
 
 Instances that require departures from the rule:
 <p style="padding-left: 30px;">a) The pointing of the consonants bet, kaph and lamed before a consonant that is pointed with a sh'va (two sh’va-`im may not come at the start of a word changes to a ḥiriq: 
-<div class="hebrew">
+<div class="hebrew" lang="he">
 בִּרְחוֹבוֹת, 
 כִשְׁלֹמֹה, 
 לִצְפָת, 
@@ -5974,7 +5970,7 @@ Instances that require departures from the rule:
 </div>
 </p>
 <p style="padding-left: 30px;">b) Before a yod that is pointed with a sh'va, the pointing of the consonants bet, kaph and lamed, as is noted above, is pointed with a ḥiriq, and the sh'va with which the yod is pointed falls off, for example: 
-<div class="hebrew">
+<div class="hebrew" lang="he">
 בִּירוּשָׁלַיִם, 
 לִילָדִים, 
 כִּיהוּדָה </div>
@@ -5982,7 +5978,7 @@ Instances that require departures from the rule:
 
 </p>
 <p style="padding-left: 30px;">c) The pointing of the consonants bet, kaph and lamed before a consonant that is pointed with a ḥataph is pointed with the same vowel as the ḥataph, for example: 
-<div class="hebrew">
+<div class="hebrew" lang="he">
 בַּעֲשֹוֹתִי, 
 כְּהֲרִימִי, 
 לֶאֱכֹל, 
@@ -5990,7 +5986,7 @@ Instances that require departures from the rule:
 </div>
 </p>
 <p style="padding-left: 30px;">d) When one of the consonants bet, kaph and lamed occurs before a word that starts with a definite article, the latter usually falls off and the auxiliary consonant takes the pointing of the heh according to all its rules and departures (above §19), for example: 
-<div class="hebrew">
+<div class="hebrew" lang="he">
 בַּבַּיִת (in place of בְּהַבַּיִת ), 
 בָּאָרֶץ (--בְּהָאָרֶץ), 
 לְרָחוֹק(--לְהָרָחוֹק),
@@ -6026,20 +6022,20 @@ The auxiliary consonant Mem is nothing but a contraction of the word “min; the
 
 There are two departures for the pointing of the mem:
 <p style="padding-left: 30px;">a) The pointing of the auxiliary mem before a yod pointed with a sh'va is with a ḥiriq, but both the dagesh and the sh'va fall off from the yod, as is the case with the Consonants bet, kaph and lamed in instances like this, for example: 
-<div class="hebrew">
+<div class="hebrew" lang="he">
 מִירוּשָׁלַיִם, 
 מִיהוּדָה.
 </div>
 </p>
 <p style="padding-left: 30px;">b) For the pointing of the auxiliary mem before the consonants `aleph, heh, ḥet, 'ayin and resh that may not accept a dagesh, the ḥiriq (short vowel!) changes to a tsereh (long), for example:
-<div class="hebrew">
+<div class="hebrew" lang="he">
 מֵאֶפְרַיִם, 
 מֵהָהָר, 
 מֵחֲדָרִים, 
 מֵעִיר, 
 מֵרֹאשׁ.</div>
  Only for the words 
- <div class="hebrew">
+ <div class="hebrew" lang="he">
 מִחוּט, 
 מִחוּץ</div>
  does the ḥiriq remain.
@@ -6064,13 +6060,13 @@ There are two departures for the pointing of the mem:
 </table>
 <h3>The Pointing of the Auxiliary Shin (§25)</h3>
 The pointing of the auxiliary shin is always with a segol, and in the consonant following it, a dagesh forte, for example: 
-<div class="hebrew">
+<div class="hebrew" lang="he">
 שֶׁכֵּן, 
 שֶׁשָׁמַרְתִּי, 
 שֶׁיְּדַבֵּר
 </div>
 In the pointing of the auxiliary shin, there are no departures -- always a segol even before a guttural consonant that may not take a dagesh; in such a case, the consonant following will remain without a dagesh, for example: 
-<div class="hebrew">
+<div class="hebrew" lang="he">
 שֶׁאֲנִי, 
 שֶׁעָשִֹיתִי, 
 שֶׁהֲרֵי.
@@ -6080,26 +6076,26 @@ In the pointing of the auxiliary shin, there are no departures -- always a segol
 Finally we will add the rules of the pointing of the word “מַה” about which many people err.
 
 The basic pointing of the word “מַה” is with a pataḥ, and at the start of the word that follows, there is a dagesh forte (similar to the definite article!), for example: 
-<div class="hebrew">
+<div class="hebrew" lang="he">
 מַה זֹּאת? 
 מַה טֹּבוּ אֹהָלֶךָ! 
 מַה יָּפִים הַלֵּילוֹת!
 </div>
 Departures from the above are similar to the departures in the pointing of the definite article; namely:
 <p style="padding-left: 30px;">a) Before `aleph, resh and an 'ayin that is not pointed with a qamats, it is pointed with a qamats, for example: 
-<div class="hebrew">
+<div class="hebrew" lang="he">
 מָה אֹמַר וּמָה אֲדַבֵּר? 
 מָה רָאִיתָ? 
 מָה עוֺשִֹים אֵלֶה?
 </div>
 </p>
 <p style="padding-left: 30px;">b) Before 'ayin and ḥet that are pointed with a qamats, and a heh that is pointed with a qamats and is part of the basic word without a prefix as well – the pointing is with a segol, for example: 
-<div class="hebrew">
+<div class="hebrew" lang="he">
 מֶה עָשִׂיתָ? 
 מֶה חָשַׁבְתָּ? 
 מֶה הָיִיתָ אוֹמֵר?</div> [however, מָה הָרַעַשׁ? (here the heh/qamats is the definite article and not part of the basic word!)]</p>
 <p style="padding-left: 30px;">c) As a stand-alone word and at the end of a clause – the pointing of the word “mah” is with a qamats. This includes the word in combination like: 
-<div class="hebrew">
+<div class="hebrew" lang="he">
 "מִפְּנֵי מָה?", 
 "עַד מָה?", 
 "בְּמִדַּת מָה?"  etc.
@@ -6834,7 +6830,7 @@ If you've lost it, you can also <a href="https://opensiddur.org/help/recover-pas
 		<dc:creator><![CDATA[aharon.varady]]></dc:creator>
 		<guid isPermaLink="false">https://opensiddur.org/?page_id=28454</guid>
 		<description></description>
-		<content:encoded><![CDATA[<div class="english" style="font-size: 1.2em;">
+		<content:encoded><![CDATA[<div class="english" lang="en" style="font-size: 1.2em;">
 <h3>Can't contribute as a volunteer? Please consider making a financial donation.</h3>
 
 Covering the operational cost of keeping our servers and websites online is up to people like you who deem this project worthy. The speed by which the project moves forward ultimately depends upon <a href="https://opensiddur.org/contributing/">donations of content and volunteered labor</a> and financial contributions to pay for additional specialized services. If you believe in our mission, want to see this project succeed, but cannot volunteer any labor or contribute any Jewish prayer-related content, then please donate some funds. -- <strong>and thank you!</strong>
@@ -6952,7 +6948,7 @@ New York, NY 10025-7449</p>
 		<dc:creator><![CDATA[aharon.varady]]></dc:creator>
 		<guid isPermaLink="false">https://opensiddur.org/?page_id=28473</guid>
 		<description></description>
-		<content:encoded><![CDATA[<div class="english" style="font-size: 1.2em;">The Open Siddur is a volunteer-driven, non-profit, non-denominational, and non-prescriptive community project growing a gratis and libré Open Access archive of Jewish prayer, liturgy, and related works (historic and contemporary, familiar and obscure), composed in every era, region, and language Jews have ever prayed. Our goal is to provide a platform for sharing open-source resources, tools, and content for individuals and communities crafting their own prayerbook (<em>siddur</em>). If this sounds exciting to you, we can't wait for you to take an active role in building this project. <strong>Meet other people who care about your work. Exercise and grow your skills!</strong> The first step is making a personal connection. Please, <a href="https://opensiddur.org/contact/" target="_self" rel="noopener noreferrer">contact us</a>! Our community discussion board is hosted on Facebook and our technical community discussions take place on our Google groups list.
+		<content:encoded><![CDATA[<div class="english" lang="en" style="font-size: 1.2em;">The Open Siddur is a volunteer-driven, non-profit, non-denominational, and non-prescriptive community project growing a gratis and libré Open Access archive of Jewish prayer, liturgy, and related works (historic and contemporary, familiar and obscure), composed in every era, region, and language Jews have ever prayed. Our goal is to provide a platform for sharing open-source resources, tools, and content for individuals and communities crafting their own prayerbook (<em>siddur</em>). If this sounds exciting to you, we can't wait for you to take an active role in building this project. <strong>Meet other people who care about your work. Exercise and grow your skills!</strong> The first step is making a personal connection. Please, <a href="https://opensiddur.org/contact/" target="_self" rel="noopener noreferrer">contact us</a>! Our community discussion board is hosted on Facebook and our technical community discussions take place on our Google groups list.
 <h3>Sharing new prayers that you've written and/or translated yourself</h3>
 <p style="padding-left: 40px;">Please think of the Open Siddur Project as a channel by which prayers and prayer-related work (translations, annotations, art, etc.) may be disseminated in new siddurim and adapted for new, often unimagined, contexts. To enable this, we ask liturgists and translators to share their work under any one of three licenses, selectable via our <a href="/contributing/upload/">upload form</a>. To learn more about these licenses, read "<a href="https://opensiddur.org/contributing/a-decision-tree-for-choosing-freelibre-licenses-for-cultural-and-technological-work/">Choosing a Content License</a>."</p>
 <p style="padding-left: 40px;">If you'd like to refer to our style guide first, note that these are only suggestions. The style guide can be found <a href="/contributing/style-guide/">here</a>.</p>

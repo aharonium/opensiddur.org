@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שִׁירוּ לַיהוה שִׁיר חָדָשׁ, 
 שִׁירוּ לַיהוה כָּל הָאָרֶץ׃ 
 שִׁירוּ לַיהוה בָּרְכוּ שְׁמוֹ, 
@@ -19,7 +19,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Sing a new song to YHVH; 
 all the earth, sing to YHVH!
 Sing to YHVH, bless God’s name, 
@@ -28,7 +28,7 @@ tell of His power day after day.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 סַפְּרוּ בַגּוֹיִם כְּבוֹדוֹ, 
 בְּכָל־הָעַמִּים נִפְלְאוֹתָיו׃ 
 כִּי גָדוֹל יהוה וּמְהֻלָּל מְאֹד, 
@@ -38,7 +38,7 @@ tell of His power day after day.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Declare God’s glory among the nations, 
 God’s wonders among the peoples.
 For YHVH is great, beyond all praise,
@@ -49,7 +49,7 @@ YHVH made the heavens.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הוֹד־וְהָדָר לְפָנָיו, 
 עֹז וְתִפְאֶרֶת בְּמִקְדָּשׁוֹ׃ 
 הָבוּ לַיהוה מִשְׁפְּחוֹת עַמִּים, 
@@ -60,7 +60,7 @@ YHVH made the heavens.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Honor and beauty before God,
 Strength and splendor are in God’s sanctuary.
 Give honor to YHVH, all races and peoples, 
@@ -72,7 +72,7 @@ Worship YHVH in the beauty of holiness.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 חִילוּ מִפָּנָיו כָּל־הָאָרֶץ׃ 
 אִמְרוּ בַגּוֹיִם יהוה מָלָךְ, 
 אַף־תִּכּוֹן תֵּבֵל בַּל־תִּמּוֹט, 
@@ -80,7 +80,7 @@ Worship YHVH in the beauty of holiness.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Let all the earth tremble at God’s presence. 
 Declare to the nations׃ “YHVH reigns; 
 now the world is secure and firmly based׃
@@ -89,7 +89,7 @@ God will judge the peoples with integrity.”
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יִשְׂמְחוּ הַשָּׁמַיִם וְתָגֵל הָאָרֶץ, 
 יִרְעַם הַיָּם וּמְלֹאוֹ׃ 
 יַעֲלֹז שָׂדַי וְכָל־אֲשֶׁר־בּוֹ, 
@@ -100,7 +100,7 @@ God will judge the peoples with integrity.”
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Let the heavens be glad and the earth rejoice;
 Let the sea roar, and all that fills it.
 Let the field and all its creatures exult;

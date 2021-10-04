@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַחַמָּה מֵרֹאשׁ הָאִילָנוֹת נִסְתַּלְּקָה. 
 בֹּֽאוּ וְנֵצֵא לִקְרַאת שַׁבָּת הַמַּלְכָּה.
 הִנֵּה הִיא יוֹרֶֽדֶת הַקְדוֹשָׁה הַבְּרוּכָה.
@@ -21,7 +21,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 שָׁלוֹם עֲלֵיכֶם מַלְאֲכֵי הַשָּׁלוֹם:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 The sun o’er the treetops no longer is seen;
 Come, let us go forth and greet Sabbath the Queen. 
 Behold her descending, the holy and blest,
@@ -34,7 +34,7 @@ Peace be unto you, angels of peace.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 קִבַּֽלְנוּ פְנֵי שַׁבָּת בִרְנָנָה וּתְפִלָּה. 
 הַבַּֽיְתָה נָשׁוּבָה בְּלֵב מָלֵא גִילָה. 
 שָׁם עָרוּךְ הַשֻּׁלְחָן הַנֵרוֹת יָאִֽירוּ. 
@@ -44,7 +44,7 @@ Peace be unto you, angels of peace.
 בֹּאֲכֶם לְשָׁלוֹם מַלְאֲכֵי הַשָּׁלוֹם:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 The Sabbath is greeted with song and with praise, 
 We go slowly homewards, our hearts full of grace. 
 The table is spread there, the candles give light, 
@@ -57,7 +57,7 @@ Enter in peace, ye angels of peace.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 שְׁבִי זַכָּה עִמָּֽנוּ וּבְזִיוֵךְ נָא אֽוֹרִי 
 לַיְלָה וָיוֹם אַחַר תַּעֲבֹֽרִי.
 וַאֲנַחְנוּ נְכַבְּדֵךְ בְּבִגְדֵי חֲמוּדוֹת.
@@ -67,7 +67,7 @@ Enter in peace, ye angels of peace.
 בָּרְכֽוּנוּ לְשָׁלוֹם מַלְאֲכֵי הַשָּׁלוֹם:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 O pure one, be with us and light with thy ray 
 The night and the day; then pass on thy way.
 And we do thee honor with garments most fine, 
@@ -80,7 +80,7 @@ Bless us with peace, ye angels of peace.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 הַחַמָּה מֵרֹאשׁ הָאִילָנוֹת נִסְתַּלְּקָה. 
 בֹּֽאוּ וּנְלַוֶּה אֶת־שַׁבָּת הַמַּלְכָּה.
 צֵאתֵךְ לְשָׁלוֹם הַקְּדוֹשָׁה הַזַּכָּה.
@@ -90,7 +90,7 @@ Bless us with peace, ye angels of peace.
 צֵאתְכֶם לְשָׁלוֹם מַלְאֲכֵי הַשָׁלוֹם:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 The sun in the treetops no longer is seen,
 Come forth and let us speed Sabbath the Queen. 
 Go forth in peace, holy and pure,

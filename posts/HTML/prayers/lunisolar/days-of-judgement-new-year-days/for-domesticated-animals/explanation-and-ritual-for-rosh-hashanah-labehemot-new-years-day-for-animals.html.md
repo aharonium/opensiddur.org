@@ -11,16 +11,16 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="commentary"><span lang="he">
+<div class="commentary" lang="he">
 ראש השנה פרק א משנה א
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Seder Moed: Rosh Hashanah, Chapter 1, Mishnah 1
 </td></tr>
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="commentary"><span lang="he">
+<div class="commentary" lang="he">
 ארבעה ראשי שנים הם.‏
 באחד בניסן ראה השנה למלכים ולרגלים.‏
 באחד באלול ראש השנה למעשר בהמה. 
@@ -30,7 +30,7 @@ Seder Moed: Rosh Hashanah, Chapter 1, Mishnah 1
 בית הלל אומרים, בחמשה עשר בו.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 There are four Roshei Shanim/New Year days. 
 The first of <em>Nisan</em> is the Rosh HaShanah for kings and pilgrimage holidays. 
 The first of <em>Elul</em> is the Rosh HaShanah for tithing <em>behemah</em>. 
@@ -41,7 +41,7 @@ Beit Hillel says it is on the fifteenth [of the month of <em>Shvat</em>, Tu biSh
 </td></tr>
 </tbody></table>
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 Rosh Ḥodesh Elul, the new moon festival of Elul, also marks one of the four New Year festivals recorded in the Mishnah -- the New Years day for <em>mas'ar behemah</em> -- the tithing of domesticated animals. <em>Rosh haShanah la-Behemah</em> parallels <em>Rosh Hashanah la-Ilanot</em> (Tu BiShvat), the day for tithing fruit bearing trees -- the day on which ribbons were tied around the buds of almond trees indicating which would be its first fruits. These two annual census were essential for upholding the institution of the Temple and the caste of families serving as its priests. 
 
 In the millenia after the Temple's destruction, Tu biShvat was re-established by Jewish mystics as a special day of <em>tikkun</em> -- a day to reflect on and pray for healing our relationship with trees and by extension, the whole of life-nurturing Earth. Similarly, Rosh Ḥodesh Elul begins in earnest a month-long process of <em>teshuvah</em> -- an intense <em>tikkun</em> of all of our living relationships, culminating with the New Years Day for the <em>Maasei Bereshit</em> (the works of Creation).[foot]The idea that Rosh Hashanah is the birthday of humanity follows the tradition that Rosh Hashanah on Rosh Ḥodesh Tishrei is the sixth day after the first "day" of creation -- Elul 25.[/foot] 

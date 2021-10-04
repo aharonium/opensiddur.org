@@ -11,18 +11,18 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 גַּמָּדֵי לָיִל
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <u>Gnomes of the Night</u>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לְאוֹר הַיָּרֵחַ, הַזֹּלֵף
 בְּנַחַת בִּתְכֵלֶת הָאַוֵּר,
 הַמְשַׁכֵּר הַלֵּב כַּחֲלוֹם זָהָב,
@@ -30,7 +30,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 In the light of the moon gently spraying 
 The blue-tinted air with its gleam,
 That blinds human eyes with its magic 
@@ -39,7 +39,7 @@ And fires the heart with a dream;
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לְאוֹר הַיָּרֵחַ בַּלָּיְלָה,
 עֵת יִצְלַל מְלֹא תֵבֵל בַּדְּמָמָה,
 וּבְסוּת אוֹר קִפָּאוֹן תִּתְעַלֵּף
@@ -47,7 +47,7 @@ And fires the heart with a dream;
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 When the whole world is shadowed with silence 
 In the light of the moon of the night,
 When in dim-frosted light like a garment 
@@ -56,7 +56,7 @@ Swoons the forest below the height;
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּבֵין הַצֶּאֱלִים בַּחֹרְשָׁה
 כְּעֵין רֶשֶׁת כֶּסֶף מְזֹרָה,
 יִרְעֲדוּ עַל־רֹךְ הָעֲשָׂבִים
@@ -64,7 +64,7 @@ Swoons the forest below the height;
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 When appears in the shadowy forest 
 A network of silvery white,
 While shimmering there on the grasses 
@@ -73,7 +73,7 @@ Are circles and ringlets of light;
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּבְאוֹר רַךְ וָזַךְ כִּמְזֻקָּקִים
 עַל־מוֹרַד הַגִּבְעָה מַזְהִירִים –
 לֹא אַבְנֵי חֵן וְסַפִּירִים –
@@ -81,7 +81,7 @@ Are circles and ringlets of light;
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And when, in the rays soft and filtered,
 There gleam on the slope of the height 
 Not jewels nor sapphires but droplets —
@@ -90,7 +90,7 @@ Yes, myriads of droplets of light;
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָז תֵּרֵד מַקְהֵלַת גַּמָּדִים
 בְּמוֹרַד הַגִּבְעָה בִּרְנָנָה,
 שַׁאֲנַנָּה כַּחֲלוֹם יֶלֶד קָטָן,
@@ -98,7 +98,7 @@ Yes, myriads of droplets of light;
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 ’Tis then come the gnomes joyous trooping 
 Descending the slope of the height,
 As gently they come as the moonbeams,
@@ -107,7 +107,7 @@ Like the dream of a child in the night.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּצְנִיפִים עֲגֻלִּים וּשְׁחֹרִים
 יִצְנְפוּ רָאשֵׁיהֶם הַקְּטַנִּים,
 וּפְנֵיהֶם מוּעָדוֹת הַיַּעֲרָה,
@@ -115,7 +115,7 @@ Like the dream of a child in the night.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And the gnomes’ little heads are well-covered, 
 With round little black little hoods.
 They march there to dig for vast treasures, 
@@ -124,7 +124,7 @@ Their faces are turned towards the woods.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּבְלֶכְתָּם יִנְעֲרוּ אֶת־נִטְפֵי
 הַטַּל מִן־הַדְּשָׁאִים, וּנְפוֹצוֹת
 הָרְסִיסִים הַזַּכִּים כִּבְדֹלַח
@@ -132,7 +132,7 @@ Their faces are turned towards the woods.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And as they march on they make tremble 
 The droplets of dew on the grass;
 And bursting, these crystal-like droplets 
@@ -141,7 +141,7 @@ Cast myriads of sparks as they pass.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כֹּה הָלֹךְ וְרַנֵּן יֵרֵדוּ,
 עֲרוּכִים בַּטּוּר שִׁבְעָה שִׁבְעָה,
 עַד בֹּאָם בַּעֲבִי־צֵל הַחֹרְשָׁה,
@@ -149,7 +149,7 @@ Cast myriads of sparks as they pass.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Thus walking and singing, descending 
 By sevens they march in the night,
 Till they come to the shadowy forest 
@@ -158,7 +158,7 @@ That sleeps at the foot of the height.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָז כֻּלָּם יָפוּצוּ בְשָׁאוֹן
 וּבָאוּ אֶל־בֵּין הָאַלּוֹנִים,
 בִּמְקוֹם מֵעֵין רוֹאִים נִצְפָּנוּ
@@ -166,7 +166,7 @@ That sleeps at the foot of the height.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Then all of them scatter with tumult 
 ’Neath bush and ’neath shadowy tree;
 They come to a place where are hidden 
@@ -175,7 +175,7 @@ The treasures that no eye may see.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הֵם בָּאִים – וּבְשִׁפְעַת הַצְּלָלִים
 תִּתְאַחַד עֲדַת הַגַּמָּדִים,
 יִתְלַכְּדוּ וִירַקְּדוּ כִּגְדָיִים,
@@ -183,7 +183,7 @@ The treasures that no eye may see.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 They come there in deepening shadows, 
 Together the gnomes then deploy,
 They dance like young goats and they frolic 
@@ -192,7 +192,7 @@ As children exult in their joy.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְכִתְמֵי הָאוֹרָה הַחִוְרִים
 יְרַצְּדוּן עַל־שְׁחוֹר מְעִילֵיהֶם,
 יַחֲלִיקוּ עַל־רוּם מִצְנְפוֹתָם,
@@ -200,7 +200,7 @@ As children exult in their joy.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Then flickers the light pale and golden 
 On the black of the garments they wear;
 Now it leaps on their hoods bright and shining 
@@ -209,7 +209,7 @@ And is cast on the locks of their hair.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וַעֲיֵפֵי מְשׁוּבָה יִפֹּלוּ,
 יִשְׂתָּרְעוּ בְּצֵל הָאַלּוֹנִים,
 וְחָפְרוּ מִשָּׁם וְהוֹצִיאוּ
@@ -217,7 +217,7 @@ And is cast on the locks of their hair.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Then wearied of frolic and falling 
 To rest themselves there ’neath the trees,
 They gather and dig for the treasures.
@@ -226,7 +226,7 @@ What numberless treasures are these!
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּלְאוֹר הַיָּרֵח הַבָּהִיר
 בִּצְחוֹק צָלוּל, צַח, צְחוֹק יְלָדִים
 תְּשַׁעֲשַׁע עַל־מְאוּרַת הַזָּהָב
@@ -234,7 +234,7 @@ What numberless treasures are these!
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And in the bright gleam of the moonlight 
 Their joy in their laughter is told.
 With the pure ringing laughter of children 
@@ -243,7 +243,7 @@ They dance near their mine-pit of gold.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּצְלִיל דִּינְרֵי זָהָב וָכֶתֶם,
 וּבְרַק אַבְנֵי־חֵן עִם אוֹר סַהַר
 יִתְעָרְבוּ בִּצְחוֹק הַתַּעֲלוּלִים,
@@ -251,7 +251,7 @@ They dance near their mine-pit of gold.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 The tinkle of coins and the sparkle 
 Of gems that are strewn all around 
 Soon mingle their light with the laughter;
@@ -260,7 +260,7 @@ The forest is stirred at the sound.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּצְחוֹק וַעֲלִיצוּת וְזָהָב –
 אַךְ, הָהּ! לַכֹּל תִּכְלָה וְאַחֲרִית –
 הֵחָפְזוּ, גַּמָּדִים! – הִגִּיעַ
@@ -268,7 +268,7 @@ The forest is stirred at the sound.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Thus the gold and the joy and the laughter — 
 Alas, for this too must be gone!
 Hurry, gnomes, for the morn is approaching! 
@@ -277,7 +277,7 @@ The rooster soon summons the dawn.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָז תֶּחֱרַד הָעֵדָה וְקָמָה,
 וַעֲרוּכִים בַּטּוּר שִׁבְעָה שִׁבְעָה
 יָשׁוּבוּ מַחֲרִישִׁים וְנוּגִים,
@@ -285,7 +285,7 @@ The rooster soon summons the dawn.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 How quickly the gnome-troop arises,
 By sevens arrayed for their flight;
 And sadly they march and in silence, 
@@ -294,7 +294,7 @@ Returning — ascending the height.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּבְהָלֵט הַסַּהַר הַנִּכְלָם
 אֶת־פָּנָיו הַחִוְרִים מִלְמָעְלָה,
 יָבֹאוּ בַצֵּל הַגַּמָּדִים,
@@ -302,7 +302,7 @@ Returning — ascending the height.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And when the moon, shamed, hides its pallor 
 And wraps its pale face drained of light,
 The gnomes march away to the shadows 

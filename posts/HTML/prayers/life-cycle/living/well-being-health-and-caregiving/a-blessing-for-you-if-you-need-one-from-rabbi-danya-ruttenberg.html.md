@@ -11,12 +11,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May you grow 
 into your greatest, 
 bravest, 
@@ -25,12 +25,12 @@ most loving self.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May you stand tall 
 and unafraid 
 of the great, 
@@ -42,12 +42,12 @@ that is straining to get out.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May you trust that light, 
 and may you hear 
 the still small voice within 
@@ -58,12 +58,12 @@ and who you can be.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May you follow the light and the voice 
 wherever it may take you—
 even to places you hadn't guessed, 
@@ -73,12 +73,12 @@ that haven't been part of the plan.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May you remain always curious, 
 open, 
 and eager to grow.
@@ -86,12 +86,12 @@ and eager to grow.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May you walk through your life 
 with wonder, 
 radical amazement, 
@@ -100,23 +100,23 @@ and gratitude.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May you stay kind and gentle.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May you regard others 
 with compassion, 
 generosity, 
@@ -125,12 +125,12 @@ and the benefit of the doubt.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May you seek 
 always 
 to be of service, 
@@ -141,12 +141,12 @@ that need you.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May you speak out 
 bravely 
 against injustice.
@@ -154,23 +154,23 @@ against injustice.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May you make of your life a blessing.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May your thoughts, 
 actions 
 and very being 
@@ -189,12 +189,12 @@ On May 15th, 2018, Rabbi Danya Ruttenberg <a href="https://twitter.com/TheRaDR/s
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation with exposition (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="commentary"><span lang="he">
+<div class="commentary" lang="he">
 ואמר רבי אלעזר אמר ר׳ חנינא לעולם אל תהי ברכת הדיוט קלה בעיניך שהרי שני גדולי הדור ברכום שני הדיוטות ונתקיימה בהן ואלו הן דוד ודניאל דוד דברכיה ארונה דכתיב <span class="citation">(שמואל ב כד:כג)</span> וַיֹּאמֶר אֲרַוְנָה אֶל־הַמֶּלֶךְ וגו' דניאל דברכיה דריוש דכתיב <span class="citation">(דניאל ו:יז)</span> אֱלָהָךְ דִּי אַנְתְּ פָּלַח־לֵהּ בִּתְדִירָא הוּא יְשֵׁיזְבִנָּךְ׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And Rebbi Elazar further said that Rebbi Ḥanina said: One should never regard the blessing of an ordinary person [<em>hedyot</em>] as light in your eyes, [as two of the great men of their generations received blessings from ordinary people and those blessings were fulfilled in them]. And they were David and Daniel. David, for Araunah blessed him, as it is written: “And Araunah said to the king, May YHVH your <em>elo'ah</em> accept you” (II Samuel 24:23), and it was fulfilled. Daniel, for Darius blessed him, as it is written: “Your <em>elo'ah</em> whom you serve continually, will rescue you” (Daniel 6:17), [and this too was fulfilled when Daniel was saved from the lions’ den].
 </div></td></tr>
 </tbody></table>

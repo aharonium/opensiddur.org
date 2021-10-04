@@ -11,25 +11,25 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כוונה
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 INTENTION
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הִנְנִי מוּכָן וּמְזוּמָּן \ מוּכָנָה וּמְזַמֶּנֶת 
 לְקַיֵּם מִצְוַת הַכָּרָת רִבּוֹנוּת הָאָרֶץ 
 לְשֵׁם יִחוּד.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Here we are, ready and prepared 
 to acknowledge the sovereignty of the land as we are commanded 
 for the sake of unification.[foot]The phrase "for the sake of unification" comes from Kabbalistic formulation of intention originated by Rabbi Isaac Luria in the 16th century. The traditional formulation of "I am ready and prepared" is for intention that precedes action, and so is appropriate here, since a land acknowledgment is intended to spur us to concrete action.[/foot]
@@ -37,7 +37,7 @@ for the sake of unification.[foot]The phrase "for the sake of unification" comes
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כָּכַּתוּב:
 &nbsp;
 וּנְטַעְתִּים עַל־אַדְמָתָם 
@@ -47,7 +47,7 @@ for the sake of unification.[foot]The phrase "for the sake of unification" comes
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 As it is written: 
 God said 
 I will plant them on their land 
@@ -57,7 +57,7 @@ which I gave them. <span class="citation">(Amos 9:15)</span>.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְהָאָרֶץ לֹא תִמָּכֵר לִצְמִתֻת 
 כִּי־לִי הָאָרֶץ 
 כִּי־גֵרִים וְתוֹשָׁבִים אַתֶּם 
@@ -65,7 +65,7 @@ which I gave them. <span class="citation">(Amos 9:15)</span>.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 The land shall not be sold permanently 
 because the land is Mine, 
 since you are all immigrants and resident-settlers 
@@ -74,23 +74,23 @@ according to Me <span class="citation">(Leviticus 25:23)</span>.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַכָּרָת רִבּוֹנוּת הָאָרֶץ
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 LAND ACKNOWLEDGMENT 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 This land 
 is the traditional territory 
 and sacred land 
@@ -106,12 +106,12 @@ It is now home to many diverse First Nations, Inuit, and Métis peoples.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 We acknowledge that Toronto is covered 
 by <a href="http://mncfn.ca/torontopurchase/">Treaty 13</a> with the Mississaugas of the Credit 
 and the <a href="https://www.thecanadianencyclopedia.ca/en/article/williams-treaties">Williams Treaties</a> signed with multiple Mississaugas and Chippewa bands. 
@@ -122,12 +122,12 @@ to peaceably share and care for the resources around the Great Lakes.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Though we as Jews have also suffered 
 from land displacement 
 and cultural displacement, 

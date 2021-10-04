@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;"> 
+<div class="english" lang="en" style="font-size: 1.2em;"> 
 These are piyyutim written in a traditional style, meant to introduce the opening of each book in the Torah.
 
 Each piyyut is in two sections – an opening (which spells out "Isaac") and a closing (which spells out "Jacob").
@@ -41,18 +41,18 @@ Melodically, these piyyutim could be read in a melody based on Maqam Rast – th
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Piyyut for Genesis
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְהִי רָצוֹן לְאֵל עֶלְיוֹן
 צֶמַח עוֹלָם, אֶחָד, רִאשׁוֹן
 חַזֵּקְנוּ נָא, בַּזְּמַן הַבָּא,
@@ -60,16 +60,16 @@ Piyyut for Genesis
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
-<span class="hebrew">י</span> May it be the will of the Highest God
-<span class="hebrew">צ</span> Sprout of the universe, One, First:
-<span class="hebrew">ח</span> Strengthen us, in the time to come!
-<span class="hebrew">ק</span> We read "In the beginning created…"
+<div class="english" lang="en">
+<span class="hebrew" lang="he">י</span> May it be the will of the Highest God
+<span class="hebrew" lang="he">צ</span> Sprout of the universe, One, First:
+<span class="hebrew" lang="he">ח</span> Strengthen us, in the time to come!
+<span class="hebrew" lang="he">ק</span> We read "In the beginning created…"
  </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְהִי רָצוֹן לְאֵל עֶלְיוֹן
 עֲנֵנוּ כִּי עַמְּךָ אֶבְיוֹן
 קָרָאנוּ אֶת „בְּרֵאשִׁית בָּרָא”
@@ -77,27 +77,27 @@ Piyyut for Genesis
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
-<span class="hebrew">י</span> May it be the will of the Highest God:
-<span class="hebrew">ע</span> Answer us, for Your people is in need!
-<span class="hebrew">ק</span> We have read "In the beginning created…"
-<span class="hebrew">ב</span> Create, please, the World to Come.
+<div class="english" lang="en">
+<span class="hebrew" lang="he">י</span> May it be the will of the Highest God:
+<span class="hebrew" lang="he">ע</span> Answer us, for Your people is in need!
+<span class="hebrew" lang="he">ק</span> We have read "In the beginning created…"
+<span class="hebrew" lang="he">ב</span> Create, please, the World to Come.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Piyyut for Exodus
  </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְהִי רָצוֹן לְאֵל עֶלְיוֹן
 צֹהַר עוֹלָם, אֶחָד, רִאשׁוֹן
 חַזֵּקְנוּ נָא, בִּזְכוּת אָבוֹת,
@@ -105,16 +105,16 @@ Piyyut for Exodus
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
-<span class="hebrew">י</span> May it be the will of the Highest God
-<span class="hebrew">צ</span> Light of the universe, One, First:
-<span class="hebrew">ח</span> Strengthen us, in the merit of our ancestors!
-<span class="hebrew">ק</span> We read "And these are the names…"
+<div class="english" lang="en">
+<span class="hebrew" lang="he">י</span> May it be the will of the Highest God
+<span class="hebrew" lang="he">צ</span> Light of the universe, One, First:
+<span class="hebrew" lang="he">ח</span> Strengthen us, in the merit of our ancestors!
+<span class="hebrew" lang="he">ק</span> We read "And these are the names…"
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְהִי רָצוֹן לְאֵל עֶלְיוֹן
 עֲנֵנוּ כִּי עַמְּךָ אֶבְיוֹן
 קָרָאנוּ אֶת „וְאֵלֶּה שְׁמוֹת”
@@ -122,27 +122,27 @@ Piyyut for Exodus
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
-<span class="hebrew">י</span> May it be the will of the Highest God:
-<span class="hebrew">ע</span> Answer us, for Your people is in need!
-<span class="hebrew">ק</span> We have read "And these are the names…"
-<span class="hebrew">ב</span> Split apart, please, all exiles.
+<div class="english" lang="en">
+<span class="hebrew" lang="he">י</span> May it be the will of the Highest God:
+<span class="hebrew" lang="he">ע</span> Answer us, for Your people is in need!
+<span class="hebrew" lang="he">ק</span> We have read "And these are the names…"
+<span class="hebrew" lang="he">ב</span> Split apart, please, all exiles.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Piyyut for Leviticus
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְהִי רָצוֹן לְאֵל עֶלְיוֹן
 צִדְקַת עוֹלָם, אֶחָד, רִאשׁוֹן
 חַזֵּקְנוּ נָא, מִתּוֹךְ הַסְּנֶה,
@@ -150,16 +150,16 @@ Piyyut for Leviticus
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
-<span class="hebrew">י</span> May it be the will of the Highest God
-<span class="hebrew">צ</span> Righteousness of the universe, One, First:
-<span class="hebrew">ח</span> Strengthen us, from the midst of the bush!
-<span class="hebrew">ק</span> We read, "And God called to Moshe…"
+<div class="english" lang="en">
+<span class="hebrew" lang="he">י</span> May it be the will of the Highest God
+<span class="hebrew" lang="he">צ</span> Righteousness of the universe, One, First:
+<span class="hebrew" lang="he">ח</span> Strengthen us, from the midst of the bush!
+<span class="hebrew" lang="he">ק</span> We read, "And God called to Moshe…"
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְהִי רָצוֹן לְאֵל עֶלְיוֹן
 עֲנֵנוּ כִּי עַמְּךָ אֶבְיוֹן
 קָרָאנוּ אֶת „וַיִּקְרָא אֶל מֹשֶׁה”
@@ -167,27 +167,27 @@ Piyyut for Leviticus
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
-<span class="hebrew">י</span> May it be the will of the Highest God:
-<span class="hebrew">ע</span> Answer us, for Your people is in need!
-<span class="hebrew">ק</span> We have read "And God called to Moshe…"
-<span class="hebrew">ב</span> Build, please, 'Adonai has seen.'
+<div class="english" lang="en">
+<span class="hebrew" lang="he">י</span> May it be the will of the Highest God:
+<span class="hebrew" lang="he">ע</span> Answer us, for Your people is in need!
+<span class="hebrew" lang="he">ק</span> We have read "And God called to Moshe…"
+<span class="hebrew" lang="he">ב</span> Build, please, 'Adonai has seen.'
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Piyyut for Numbers
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he"> 
+<div class="liturgy" lang="he"> 
 יְהִי רָצוֹן לְאֵל עֶלְיוֹן
 צוֹפֶה עוֹלָם, אֶחָד, רִאשׁוֹן
 חַזֵּקְנו נָא, יָהּ אֲדֹנָי,
@@ -195,16 +195,16 @@ Piyyut for Numbers
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
-<span class="hebrew">י</span> May it be the will of the Highest God
-<span class="hebrew">צ</span> Guardian of the universe, One, First:
-<span class="hebrew">ח</span> Strengthen us, Yah, Lord,
-<span class="hebrew">ק</span> We read, "…in the wilderness of Sinai…"
+<div class="english" lang="en">
+<span class="hebrew" lang="he">י</span> May it be the will of the Highest God
+<span class="hebrew" lang="he">צ</span> Guardian of the universe, One, First:
+<span class="hebrew" lang="he">ח</span> Strengthen us, Yah, Lord,
+<span class="hebrew" lang="he">ק</span> We read, "…in the wilderness of Sinai…"
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְהִי רָצוֹן לְאֵל עֶלְיוֹן
 עֲנֵנוּ כִּי עַמְּךָ אֶבְיוֹן
 קָרָאנוּ אֶת „בְּמִדְבַּר סִינַי”
@@ -212,27 +212,27 @@ Piyyut for Numbers
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
-<span class="hebrew">י</span> May it be the will of the Highest God:
-<span class="hebrew">ע</span> Answer us, for Your people is in need!
-<span class="hebrew">ק</span> We have read, "…in the wilderness of Sinai…"
-<span class="hebrew">ב</span> Cancel, please, all my sins.
+<div class="english" lang="en">
+<span class="hebrew" lang="he">י</span> May it be the will of the Highest God:
+<span class="hebrew" lang="he">ע</span> Answer us, for Your people is in need!
+<span class="hebrew" lang="he">ק</span> We have read, "…in the wilderness of Sinai…"
+<span class="hebrew" lang="he">ב</span> Cancel, please, all my sins.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Piyyut for Deuteronomy
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְהִי רָצוֹן לְאֵל עֶלְיוֹן
 צוּר עוֹלָם, אֶחָד, רִאשׁוֹן
 חַזֵּקְנוּ נָא, הָאֱלֹהִים,
@@ -240,16 +240,16 @@ Piyyut for Deuteronomy
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
-<span class="hebrew">י</span> May it be the will of the Highest God
-<span class="hebrew">צ</span> Rock of the world, One, First:
-<span class="hebrew">ח</span> Strengthen us, Great God,
-<span class="hebrew">ק</span> We read, "These are the things…"
+<div class="english" lang="en">
+<span class="hebrew" lang="he">י</span> May it be the will of the Highest God
+<span class="hebrew" lang="he">צ</span> Rock of the world, One, First:
+<span class="hebrew" lang="he">ח</span> Strengthen us, Great God,
+<span class="hebrew" lang="he">ק</span> We read, "These are the things…"
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְהִי רָצוֹן לְאֵל עֶלְיוֹן
 עֲנֵנוּ כִּי עַמְּךָ אֶבְיוֹן
 קָרָאנוּ אֶת „אֵלֶּה הַדְּבָרִים”
@@ -257,11 +257,11 @@ Piyyut for Deuteronomy
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
-<span class="hebrew">י</span> May it be the will of the Highest God:
-<span class="hebrew">ע</span> Answer us, for Your people is in need!
-<span class="hebrew">ק</span> We have read, "These are the things…"
-<span class="hebrew">ב</span> Bless us, please, with many days.
+<div class="english" lang="en">
+<span class="hebrew" lang="he">י</span> May it be the will of the Highest God:
+<span class="hebrew" lang="he">ע</span> Answer us, for Your people is in need!
+<span class="hebrew" lang="he">ק</span> We have read, "These are the things…"
+<span class="hebrew" lang="he">ב</span> Bless us, please, with many days.
 </div></td></tr>
 </tbody></table>
 

@@ -11,13 +11,13 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ 
 שֶׁאָמַר וְהָיָה הָעוֹלָם: 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Blessed One,
 You talked the Worlds 
 Into being.
@@ -25,25 +25,25 @@ Into being.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ הוּא, 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 What a Blessing, You!
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ 
 אוֹמֵר 
 וְעוֹשֶׂה, 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Blessed One, 
 Your Word
 Makes for becoming.
@@ -51,51 +51,51 @@ Makes for becoming.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 What a blessing, Your Name.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ 
 גּוֹזֵר וּמְקַיֵּם, 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Blessed One,
 You decree and sustain.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ 
 עוֹשֶׂה בְרֵאשִׁית, 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Blessed One,
 All beginnings are Yours!
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ 
 מְרַחֵם 
 עַל הָאָרֶץ, 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Blessed One,
 Your Compassion 
 Enwombs the Earth.
@@ -103,14 +103,14 @@ Enwombs the Earth.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ 
 מְרַחֵם 
 עַל הַבְּרִיּוֹת, 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Blessed One,
 Your Caring is kind 
 To all creatures.
@@ -118,7 +118,7 @@ To all creatures.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ 
 מְשַׁלֵּם 
 שָׂכָר טוֹב 
@@ -126,7 +126,7 @@ To all creatures.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Blessed One,
 You are generous
 In rewarding those 
@@ -135,14 +135,14 @@ Who respect Your Creation.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ 
 חַי לָעַד 
 וְקַיָּם לָנֶצַח, 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Blessed One, 
 Ever Alive,
 Ever confirming existence.
@@ -150,14 +150,14 @@ Ever confirming existence.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ 
 פּוֹדֶה 
 וּמַצִּיל, 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Blessed One,
 You make us free,
 You rescue us!
@@ -165,19 +165,19 @@ You rescue us!
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ שְׁמוֹ. 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 When we hear Your Name
 We offer blessing. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה 
 יְיָ אֱלֹהֵינוּ 
 מֶלֶךְ הָעוֹלָם, 
@@ -193,13 +193,13 @@ We offer blessing.
 מְשֻׁבָּח וּמְפֹאָר עֲדֵי עַד שְׁמוֹ הַגָּדוֹל: 
 </span></div></td>
  
-<td style="vertical-align:bottom;" style="vertical-align:top;"><div class="english">
+<td style="vertical-align:bottom;" style="vertical-align:top;"><div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 &nbsp;
 בָּרוּךְ אַתָּה יְיָ, 
@@ -207,7 +207,7 @@ We offer blessing.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Amen
 &nbsp;
 Barukh attah Yah
@@ -227,7 +227,7 @@ The phrase "Barukh She'amar" is found in many mishnaic and midrashic texts. The 
 <thead><tr><th id="x" style="text-align: right;">Source (Tanna debei Eliyahu Zuta, Seder Eliyahu Zuta 4:1)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 ברוך שאמר והיה העולם
 ברוך הוא 
 ברוך אומר ועושה 
@@ -238,7 +238,7 @@ The phrase "Barukh She'amar" is found in many mishnaic and midrashic texts. The 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Blessed be the One at whose word the world came into being, 
 blessed are they,
 blessed be the One who says and does [what they say],
@@ -259,7 +259,7 @@ David Hedegard transcribed three manuscript versions of Barukh She'amar in his d
 <thead><tr><th id="x" style="text-align: right;">Source (Codex Sulzberger, JTSA)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 ברוך שאמר והיה העולם 
 ברוך אומר ועושה 
 ברוך גוזר ומקיים 
@@ -283,7 +283,7 @@ David Hedegard transcribed three manuscript versions of Barukh She'amar in his d
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Blessed be the One who spoke and the world came into being.
 Blessed be the One who speaks and does [what they say].
 Blessed be the One who decrees and carries out.
@@ -311,7 +311,7 @@ Blessed are you, YHVH, Majesty extolled with praises.
 <thead><tr><th id="x" style="text-align: right;">Source (Mss. Codex 1095, Bodleian Library)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 ברוך שאמר והיה העולם 
 ברוך אומר ועושה 
 ברוך גוזר ומקיים 
@@ -340,7 +340,7 @@ Blessed are you, YHVH, Majesty extolled with praises.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Blessed be the One who spoke and the world came into being.
 Blessed be the One who speaks and does [what they say].
 Blessed be the One who decrees and carries out.
@@ -373,7 +373,7 @@ Blessed are you, YHVH, Majesty extolled with praises.
 <thead><tr><th id="x" style="text-align: right;">Source (Codex British Museum 613)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 ברוך שאמר והיה העולם 
 ברוך הוא
 ברוך אומר ועושה 
@@ -409,7 +409,7 @@ Blessed are you, YHVH, Majesty extolled with praises.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Blessed be the One who spoke and the world came into being. 
 Blessed are they.
 Blessed be the One who speaks and does [what they say].

@@ -11,7 +11,7 @@ In January 2010, the New York Jewish Week published a piece about the Open Siddu
 
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 Five and a half centuries after Gutenberg invented the printing press and changed the face of Christianity by making mass-produced copies of the Bible available to the laity, 21st-century technology is beginning to revolutionize Judaism in a similar, if more individualizing way. Jewish individuals, Jewish denominations and Jewish organizations, who don’t find a prayer book to their liking in the pews of synagogues or on the shelves of book stores, are finding an answer in cyberspace.
 
 “I would enjoy more davening out of a siddur if it had what I say,” says Josh Rosenberg, a computer analyst in Philadelphia and a founder of an independent minyan there who hopes to make his own siddur through opensiddur.org.

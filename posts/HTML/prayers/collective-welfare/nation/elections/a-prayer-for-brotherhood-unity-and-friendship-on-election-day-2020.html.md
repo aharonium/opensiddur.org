@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy" style="font-size: 1em;"><span lang="he">
+<div class="liturgy" lang="he" style="font-size: 1em;">
 לה׳ הָאָרֶץ וּמְלוֹאָהּ <span class="citation">(תהלים כד:א)</span> --
 וַיִּקְרָא אֱלֹהִים לָרָקִיעַ שָׁמָיִם <span class="citation">(בראשית א:ח)</span> 
 שמים, רב אמר אש ומים 
@@ -26,7 +26,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english" style="font-size: 1em; margin-top: 18px;">
+<div class="english" lang="en" style="font-size: 1em; margin-top: 18px;">
 The world is God’s and all that is in it. <span class="citation">(Psalms 24:1)</span> --
 "And God called the firmament <em>shamayim</em>" <span class="citation">(Genesis 1:8)</span>, 
 which term Rav interpreted as meaning that the heavens are made of fire (<em>eish</em>) and water (<em>mayim</em>). 
@@ -42,20 +42,20 @@ but if not, then the heavens reveal their sinfulness.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לְמַעַן אַחַי וְרֵעָי <span class="citation">(תהלים קכב:ח)</span>
 תפילה על האיחוי והריעות
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 For my brethren and my friends <span class="citation">(Psalms 122:8)</span> -
 <u>A Prayer for Brotherhood, Unity and Friendship</u>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רבון כל העולמים 
 אלהי האמהות האבות והילדים 
 אלהי כל הצדיקים והחסידים, אלוה כל, 
@@ -63,7 +63,7 @@ For my brethren and my friends <span class="citation">(Psalms 122:8)</span> -
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Ruler of all worlds,
 God of mothers, fathers, and children,
 God of the righteous and the pious, God of All,
@@ -72,7 +72,7 @@ Show mercy to me and grant that I be able to love peace and to cherish it above 
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וכשאני רואה מישהו שהוא בהיפוך גמור מדעתי, 
 ונדמה שאי אפשר בשום אופן להחזיק עמו בשלום, 
 או כשאני רואה שני אנשים שהם שני הפכים ממש - 
@@ -80,7 +80,7 @@ Show mercy to me and grant that I be able to love peace and to cherish it above 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 When I encounter someone whose opinions are directly contrary to my own,
 And when to embrace that person peacefully feels an absolute impossibility,
 Or when I encounter two individuals who are each other’s polar opposites,
@@ -89,7 +89,7 @@ Keep me from saying that I am being asked to do the impossible.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רק אזכור שאדרבה, זהו השלום, להשתדל בין שני הפכים, 
 כמו שאתה יתברך עושה בין אש ומים, שהם שני הפכים ממש, 
 ורק בשניהם ערבים זה לזה, יחדיו אש ומים, נעשים שמים, 
@@ -97,7 +97,7 @@ Keep me from saying that I am being asked to do the impossible.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Let me ever recall that I can make peace in the world through words spoken to reconcile opponents,
 Just as You Yourself managed to do by bringing together water and fire, two irreconcilable entities,
 And yet in their impossible admixture were born the heavens themselves,
@@ -106,7 +106,7 @@ Such that to be truly God-fearing means to admit the possibility of reconciling 
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וחנני נא שאזכה להשתדל תמיד ולדון את כל אדם לכף זכות 
 אפילו החולקים עלי והמצעדים אותי. 
 אתה ה׳ טוב ומטיב חנני תמיד להסתכל רק בעין טובה 
@@ -114,7 +114,7 @@ Such that to be truly God-fearing means to admit the possibility of reconciling 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Grant me the grace ever to work towards reconciliation and to grant others the benefit of the doubt,
 Even when those others are causing me personal pain by disagreeing with me so intensely.
 You, God, Who is good and Who does good, ever grant that I view others generously and kindly,
@@ -123,7 +123,7 @@ And watch over me lest I succumb to the unwarranted hatred of others.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ורחם נא על כל הדור הזה והושיענו מן הצער ומן הצרות 
 שחס וחלילה לא ננטוש זה את זה ולא נתעלם זה מזה 
 ונהיה ערבים זה לזה, ודואגים זה על זה, 
@@ -133,7 +133,7 @@ And watch over me lest I succumb to the unwarranted hatred of others.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Be compassionate with our generation and save us from pain and suffering
 Lest we, God forbid, uproot each other or abandon each other.
 Let us be responsible for each other and concerned for each other
@@ -144,7 +144,7 @@ And turn our hearts toward You, God, and turn our hearts toward each other.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 תן בי לאהוב אותך יתברך, בכל מקום שאני, 
 ולאהוב את חברי בכל מקום שהם, 
 ואתה ה׳ הייה עמנו וחננו אריכות אפיים 
@@ -153,7 +153,7 @@ And turn our hearts toward You, God, and turn our hearts toward each other.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Grant me the ability to love You, God, wherever I find myself,
 And to love other people wherever they find themselves,
 Be with us, God, and graceful grant us to share in Your divine patience
@@ -163,14 +163,14 @@ And through that kind of inner-Jewish solidarity, to exist in a state of peace w
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עושה שלום במרומיו הוא ברחמיו 
 יעשה שלום עלינו ועל כל ישראל, 
 ברוך אתה שומע תפילה.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May the God Who makes peace in the heavens,
 grant us with compassion that we too know peace, we and all Israel.
 Blessed are You, Who listens to heartfelt prayer.
@@ -179,7 +179,7 @@ Blessed are You, Who listens to heartfelt prayer.
 
 <hr />
 
-<span class="hebrew">מבוסס על תפילות המידות לרבינו נחמן מברסלב, תפילה שיזכה אדם להינצל ממריבות ותפילה שיזכה האדם להיות אוהב שלום ורודף שלום. עריכה וניסוח הרבה תמר אלעד-אפלבום</span> A Prayer for Brotherhood, Unity, and Friendship on Israeli Election Day (2020), based on the Prayer For Freedom from Strife and the Prayer that One Be a Lover and a Pursuer of Peace taken from the Liqutei Tefilot of Reb Nosson of Nemirov (disciple of Rebbe Naḥman of Bratzlav). Edited and reworked by Rabbi Tamar Elad-Appelbaum. English Translation by Rabbi Martin S. Cohen. In sharing this prayer, Devora Greenberg, the Director of Rav Siach (Masorti Movement in Israel), <a href="http://messages.responder.co.il/4472827/174222373/4f3e021bb3685e951a57191f6d441faa">wrote</a>,
+<span class="hebrew" lang="he">מבוסס על תפילות המידות לרבינו נחמן מברסלב, תפילה שיזכה אדם להינצל ממריבות ותפילה שיזכה האדם להיות אוהב שלום ורודף שלום. עריכה וניסוח הרבה תמר אלעד-אפלבום</span> A Prayer for Brotherhood, Unity, and Friendship on Israeli Election Day (2020), based on the Prayer For Freedom from Strife and the Prayer that One Be a Lover and a Pursuer of Peace taken from the Liqutei Tefilot of Reb Nosson of Nemirov (disciple of Rebbe Naḥman of Bratzlav). Edited and reworked by Rabbi Tamar Elad-Appelbaum. English Translation by Rabbi Martin S. Cohen. In sharing this prayer, Devora Greenberg, the Director of Rav Siach (Masorti Movement in Israel), <a href="http://messages.responder.co.il/4472827/174222373/4f3e021bb3685e951a57191f6d441faa">wrote</a>,
 
 <blockquote>
 In five days' time, the Israeli public will vote for the third time in under a year. It is not our brightest hour, and this unprecedented situation reflects the social turmoil we are undergoing in Israeli society. As in the two previous elections, predictions estimate that the voter turnout will remain around 69% which is considered quite high compared with other democratic states. In the first round of elections, the notion of fulfilling our right to vote and elect our governing leaders instilled a sense of excitement and gratitude; some even recited the blessing of Shehechyanu marking this unique moment. In the second round, I joined a group of leaders and congregants from my community, led by Rabbi Tamar Elad-Appelbaum in prayer. We stood outside of the residence of Israeli president Rubi Revlin praying for unity, friendship, and feeling very uneasy by the need to go to the polls once again. None of us imagined we would be called upon to vote yet again so soon after. We are at a time in which we are called to fight the feeling of indifference taking over, we are called to hold on to a sense of civic responsibility and fulfill our right to vote, we must remain נדיבי לב prompting generosity of the heart as described in the opening verse of this week's Parasha, Trumah. As we go to the polls here in Israel, we urgently ask that you turn to your friends, family and congregants and urge them to take the few minutes necessary to cast a ballot in the World Zionist Congress elections which are taking place now. <a href="https://cp.responder.co.il/link.php?lid=18493997&sid=174222373&k=4f3e021bb3685e951a57191f6d441faa">Vote MERCAZ</a> so we can bring about a vision for an Israel that reflects the values we hold dear. I know many are working hard to help turn out the vote, we are getting close to the finish line, please help us cross it! --Wishing a joyous month of Adar, Devora Greenberg

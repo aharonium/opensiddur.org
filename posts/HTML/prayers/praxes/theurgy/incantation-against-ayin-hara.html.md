@@ -11,55 +11,55 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Yiddish)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="yiddish"><span lang="he">
+<div class="yiddish" lang="yi">
 <span class="instruction">אײן געװיסע רפואה פאר עין הרע מחכמות רב הגמרא דער אנשפרוכ זאגט׃ </span>
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 <span class="instruction">A certain cure of the Evil Eye, from the great wisdoms of the Talmud [or: from the wisdoms of a Talmudic Rabbi]; the incantation states [the following instructions]: </span>
 </div></td>
 </tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="yiddish"><span lang="he">
+<div class="yiddish" lang="yi">
 <span class="instruction">מוס זיך דיא הענד װאשען אונד אוס לעגען דיא האנד אויף דען קאפף פון דען קראנקען עס זייא אײן קלײן קינד אדער אײן אלטער מאן אדער װײב אויך קאן מאן פאן דען קראנקען נעמען אײן הויב אדער איין טוך, אונד זאלל עס ניט װײט האלטען פון זײן קאפף אונד זאלל הערנאך דיא הויב אדער דאס טוך דעם קראנקען אונטער דעם קאפף לעגען. </span>
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 <span class="instruction">[The healer] must wash his hands and place his hand on the head of the invalid, whether it be a small child or an old man or wife [i.e. woman]; one can also take a cap or kerchief from the invalid and hold it not far from his head, and thereafter place the cap or kerchief under his head. [The healer says:]</span>
 </div></td>
 </tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="yiddish"><span lang="he">
+<div class="yiddish" lang="yi">
 מיט דיא הילף פאן גאטט דען אללמעכטיגען דער דא הײלט אללע קראנקען, דער זאלל אבטהון פאן דיר אללע װעהטאג אונד בעזע בעגעגניס װען דיר איז אנגעקאממען עס זײא פאן אײן בעזין אנבליק עם זײא פאן אײן מאן אדער פון אײן פרויא עס זײא פון אלט אדער יונג זאלל דיר ניט טאדען דײן לײב אונד לעבען נאך ניט אן דײן לונג אדער הערץ אליהו הנביא האט בעגעגנעט דען מלאך אַשְׁטְרִיבּוּדא שפראך אליה׳ הנביא צו איהם: װא געהסט דוא הין? דא זאגט ער איך װילל געהען דען (פלוני בר פלוני בת פלוני) אונד װילל זײנע גלידער אונד פלײש אונד װילל טרינקען זײן בלוטה דא זאגט אלי׳ הנביא צו איהם: ”זא װאהל אלס דוא קײן רשות האסט אויסצוטרינקען אללע װאססער אוים דען מעהר זא זאללסט דוא ניט רשות האבען צו שעדיגען איהם, זײן לײב, אויך ניט אן אײנען פון זײנע גלידער אויף קײנערלײא ארט פון דער גאנצע װעלט.“
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 With the help of God the Almighty, He Who heals all who are ill, may He relieve you of all pain and negative experiences that befell you from the Predatory Gaze - whether you are a man or woman, old or young - may your body and soul not be harmed yet, neither your lungs or heart. Eliyahu haNavi encountered the Angel Astribuda;[foot]Does this name for the angel of death derive from "Star Buddha"? --ANV[/foot] said Eliyahu to him: “Where are you going?” To which he replied: “I want to go to (<span class="instruction">so-and-so son of so-and-so, daughter of so-and-so</span>) and [eat] his limbs and flesh and drink his blood” — to which Eliyahu says to him: “Very well, but you have no permission to drink all the water, and you no longer have permission to harm him, nor his body, nor any one of his limbs - [even] in the smallest region of the entire world.”[foot]Cf. the <a href="https://opensiddur.org/prayers/life-cycle/living/pregnancy/apotropaic-ward-for-the-protection-of-pregnant-women-and-infants-against-lilith-and-her-minions/">apotropaic ward</a> against Lilith and her minions.[/foot]
 </div></td>
 </tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="yiddish"><span lang="he">
+<div class="yiddish" lang="yi">
 האט איהם אײנער געגעבען אײן בעז אויג, זאלל עס איהם ניט שאדען בײא טאג נאך בײא נאכט זא אלס מאן דיא קינדער פון יוסף הצדיק האט מאן קײן בעז אויג קעננען געבען זא זאלל עס דיר אויך ניט שאדען אונד עהעמאן נײן קען צעלען זאלל דיך הש״ית הײלען, אונד צו דיזער שטונד זאללסט דוא זײן געזונד דאס דיא װאהר אין גאטטס נאמען אמן סלה!
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 If someone directed against him a Predatory Gaze, may it not harm him in the daytime nor by nighttime, for we are all the children of Yosef the Righteous,[foot]To the descendants of Joseph the evil eye can do no manner of harm (Berakhot 20a, Baba Metzia 84a. Cf. Sotah 36b)[/foot] so we cannot direct the Predatory Gaze — — so may it not harm you either; and by the count of nine may the Blessed One heal you, and may you recover this very hour; this is the truth, in God’s name, <em>Amen Selah!</em>
 </div></td>
 </tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="yiddish"><span lang="he">
+<div class="yiddish" lang="yi">
 <span class="instruction">אונד זאלל דען קראנקען רײנערן מיט נײן ערלײא פארבין פון װאללינע קלײדער אונד זאל דרײמאל אבלעשען אין פריש װאסער גליהענדע קאהלען אונד צוריקצעלען פאן נײן ביס 1 אונד אבװאשען דאס פנים אונד דיא בײדען דפק דאס הערץ אונד דרײמאל טרינקען פון דען אבגעלאשען װאססער, דיא קאהלען אויף דיא פיער עקען פון ציממער צו װארפען דאס איבריגע װאסער אויף דיא אויסװענדיגע טהיר אנגעל שיטטען, װירד הש״ית אײנע רפואה שלימה זיכער שיקען.</span>
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 <span class="instruction">And then [the healer] should cleanse the invalid with nine different-colored woolen garments [i.e. cloths], and extinguish glowing coals in fresh water three times, and count backwards from nine to one, and wash the [invalid’s] face and both heart-pulse [points], and drink three times from the extinguished water, then throw the coals to the four corners of the room, and pour all the remaining water on [or: out of] the outer door. Then the Blessed One shall certainly deliver a complete recovery.</span>
 </div></td>
 </tr>

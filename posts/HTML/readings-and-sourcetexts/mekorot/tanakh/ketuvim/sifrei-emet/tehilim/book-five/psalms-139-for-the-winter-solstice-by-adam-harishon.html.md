@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 A well-known midrash explaining the universality of the <a href="https://opensiddur.org/readings-and-sourcetexts/festival-and-fast-day-readings/winter-solstice/kalends-and-the-winter-solstice-in-rabbinic-midrash/">Kalends festival</a> beginning after the Winter Solstice attributes this psalms to Adam haRishon, the primordial Adam, as they describe being knitted together within the Earth in Psalms 139:13-16. In the Roman calendar, the calends or kalends (Latin: <em>kalendae</em>) is the first day of every month. Named after Janus, the Roman god of beginnings, and derived from <em>ianua</em>, "door," January began with the first crescent moon after the winter solstice, marking the natural beginning of the year. Marcus Terentius Varro, in his <em>Res Rusticae</em> (37 BCE) divided the agricultural year into eight parts. In the final part beginning on the winter solstice, no hard work was to be done outdoors. 
 </div>
 
@@ -15,12 +15,12 @@ A well-known midrash explaining the universality of the <a href="https://opensid
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>א</sup>&nbsp;לַ֭מְנַצֵּחַ לְדָוִ֣ד 
 מִזְמ֑וֹר
 </div></span></td>
  
-<td  style="vertical-align:top;"><div class="english">
+<td  style="vertical-align:top;"><div class="english" lang="en">
 <sup>1</sup>&nbsp;For the Leader. 
 A psalm of David.
 </div>
@@ -28,7 +28,7 @@ A psalm of David.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְהוָ֥ה חֲ֝קַרְתַּ֗נִי וַתֵּדָֽע׃
 <sup>ב</sup>&nbsp;אַתָּ֣ה יָ֭דַעְתָּ שִׁבְתִּ֣י וְקוּמִ֑י 
 בַּ֥נְתָּה לְ֝רֵעִ֗י מֵרָחֽוֹק׃
@@ -42,7 +42,7 @@ A psalm of David.
 נִ֝שְׂגְּבָ֗ה לֹא־א֥וּכַֽל לָֽהּ׃
 </div></span></td>
  
-<td  style="vertical-align:top;"><div class="english">
+<td  style="vertical-align:top;"><div class="english" lang="en">
 YHVH, you have searched me, and known me. 
 <sup>2</sup>&nbsp;You know my sitting and my rising, 
 You understand my thought afar off. 
@@ -59,7 +59,7 @@ Too high, I cannot reach it.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>‎‏ז</sup>&nbsp;אָ֭נָ֥ה אֵלֵ֣ךְ מֵרוּחֶ֑ךָ 
 וְ֝אָ֗נָה מִפָּנֶ֥יךָ אֶבְרָֽח׃
 <sup>‎‏ח</sup>&nbsp;אִם־אֶסַּ֣ק שָׁ֭מַיִם שָׁ֣ם אָ֑תָּה 
@@ -70,7 +70,7 @@ Too high, I cannot reach it.
 וְֽתֹאחֲזֵ֥נִי יְמִינֶֽךָ׃
 </div></span></td>
  
-<td  style="vertical-align:top;"><div class="english">
+<td  style="vertical-align:top;"><div class="english" lang="en">
 <sup>7</sup>&nbsp;Where shall I go from your spirit? 
 Or where shall I flee from your presence? 
 <sup>8</sup>&nbsp;If I ascend up into heaven, you are there; 
@@ -84,7 +84,7 @@ And your right hand would hold me.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>‎‏יא</sup>&nbsp;וָ֭אֹמַר אַךְ־חֹ֣שֶׁךְ יְשׁוּפֵ֑נִי 
 וְ֝לַ֗יְלָה א֣וֹר בַּעֲדֵֽנִי׃
 <sup>‎‏יב</sup>&nbsp;גַּם־חֹשֶׁךְ֮ לֹֽא־יַחְשִׁ֪יךְ מִ֫מֶּ֥ךָ 
@@ -92,7 +92,7 @@ And your right hand would hold me.
 כַּ֝חֲשֵׁיכָ֗ה כָּאוֹרָֽה׃
 </div></span></td>
  
-<td  style="vertical-align:top;"><div class="english">
+<td  style="vertical-align:top;"><div class="english" lang="en">
 <sup>11</sup>&nbsp;And if I say: `Surely the darkness shall envelop me, 
 And the light about me shall be night'; 
 <sup>12</sup>&nbsp;Even the darkness is not too dark for you, 
@@ -103,7 +103,7 @@ The darkness is even as the light.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>‎‏יג</sup>&nbsp;כִּֽי־אַ֭תָּה קָנִ֣יתָ כִלְיֹתָ֑י 
 תְּ֝סֻכֵּ֗נִי בְּבֶ֣טֶן אִמִּֽי׃
 <sup>‎‏יד</sup>&nbsp;אֽוֹדְךָ֗ עַ֤ל 
@@ -119,7 +119,7 @@ The darkness is even as the light.
 <font color="brown">ולא</font> <font color="blue">וְל֖וֹ</font> אֶחָ֣ד בָּהֶֽם׃
 </div></span></td>
  
-<td  style="vertical-align:top;"><div class="english">
+<td  style="vertical-align:top;"><div class="english" lang="en">
 <sup>13</sup>&nbsp;For you have made my reins; 
 You have knit me together in my mother's womb. 
 <sup>14</sup>&nbsp;I will give thanks to you, 
@@ -138,14 +138,14 @@ When as yet there was none of them.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>‎‏יז</sup>&nbsp;וְלִ֗י מַה־יָּקְר֣וּ רֵעֶ֣יךָ אֵ֑ל 
 מֶ֥ה עָ֝צְמוּ רָאשֵׁיהֶֽם׃
 <sup>‎‏יח</sup>&nbsp;אֶ֭סְפְּרֵם מֵח֣וֹל יִרְבּ֑וּן 
 הֱ֝קִיצֹ֗תִי וְעוֹדִ֥י עִמָּֽךְ׃
 </div></span></td>
  
-<td  style="vertical-align:top;"><div class="english">
+<td  style="vertical-align:top;"><div class="english" lang="en">
 <sup>17</sup>&nbsp;How weighty also are your thoughts unto me, El!
 How great is the sum of them! 
 <sup>18</sup>&nbsp;If I would count them, they are more in number than the sand; 
@@ -155,7 +155,7 @@ Were I to come to the end of them, I would still be with you.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>‎‏יט</sup>&nbsp;אִם־תִּקְטֹ֖ל אֱל֥וֹהַּ׀ רָשָׁ֑ע 
 וְאַנְשֵׁ֥י דָ֝מִ֗ים ס֣וּרוּ מֶֽנִּי׃
 <sup>‎‏כ</sup>&nbsp;אֲשֶׁ֣ר יֹ֭אמְרֻךָ לִמְזִמָּ֑ה 
@@ -166,7 +166,7 @@ Were I to come to the end of them, I would still be with you.
 לְ֝אוֹיְבִ֗ים הָ֣יוּ לִֽי׃
 </div></span></td>
  
-<td  style="vertical-align:top;"><div class="english">
+<td  style="vertical-align:top;"><div class="english" lang="en">
 <sup>19</sup>&nbsp;If you would but slay the wicked, Elo'ah -- 
 Depart from me therefore, you men of blood; 
 <sup>20</sup>&nbsp;Who utter your name with wicked thought, 
@@ -180,14 +180,14 @@ I count them mine enemies.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>‎‏כג</sup>&nbsp;חָקְרֵ֣נִי אֵ֭ל וְדַ֣ע לְבָבִ֑י 
 בְּ֝חָנֵ֗נִי וְדַ֣ע שַׂרְעַפָּֽי׃
 <sup>‎‏כד</sup>&nbsp;וּרְאֵ֗ה אִם־דֶּֽרֶךְ־עֹ֥צֶב בִּ֑י 
 וּ֝נְחֵ֗נִי בְּדֶ֣רֶךְ עוֹלָֽם׃ 
 </div></span></td>
  
-<td  style="vertical-align:top;"><div class="english">
+<td  style="vertical-align:top;"><div class="english" lang="en">
 <sup>23</sup>&nbsp;Search me, El, and know my heart, 
 Try me, and know my thoughts; 
 <sup>24</sup>&nbsp;And see if there be any way in me that is grievous, 

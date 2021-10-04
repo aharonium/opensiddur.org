@@ -11,18 +11,18 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="instruction">לסוכות</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">For Sukkot</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ”אַחַת שָׁאַלְתִּי מֵֽאֵת־יְהוָה אוֹתָהּ אֲבַקֵּשׁ 
 שִׁבְתִּי בְּבֵית־יְהוָה כׇּל יְמֵי חַיַּי 
 לַחֲזוֹת בְּנֹֽעַם־יְהוָה וּלְבַקֵּר בְּהֵיכׇלֽוֹ 
@@ -32,18 +32,18 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 "One thing have I asked from YHVH, that which I seek: 
 May I sit in the House of YHVH all the days of my life, 
 to gaze upon the pleasantness of YHVH and visit in their palace.
 They will hide me in their Sukkah on the day of evil. 
 They will hide me in the concealment of their tent. 
-They will lift me upon the rock."[foot]Psalms 27:4-5[/foot]
+They will lift me upon the rock." <span class="citation">(Psalms 27:4-5)</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רִבּוֹנוֹ שֶׁל עוֹלָם 
 רַחֵם עָלַי בְּרַחֲמֶיךָ הָעֲצוּמִים 
 וּבַחֲסָדֶיךָ הָרַבִּים וְהַגְּדוֹלִים, 
@@ -54,7 +54,7 @@ They will lift me upon the rock."[foot]Psalms 27:4-5[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Master of the world, 
 in Your vast and great kindness, 
 have compassion on me. 
@@ -66,7 +66,7 @@ with a good heart and with great joy.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְאֶזְכֶּה שֶׁיִּהְיוּ נִמְשָׁכִין אֵלַי הַמֹּחִין הַקְּדוֹשִׁים 
 וְהַחֲסָדִים הַגְּדוֹלִים וְהַנִּפְלָאִים הַנִּמְשָׁכִין 
 עַל עַמְּךָ יִשְׂרָאֵל 
@@ -77,7 +77,7 @@ with a good heart and with great joy.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May the holy state of mind 
 and great, wondrous kindnesses 
 that are drawn onto Your nation, Yisra'el, 
@@ -89,14 +89,14 @@ and You stretch the Sukkah of compassion and life over us.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מָלֵא רַחֲמִים, מָלֵא רַחֲמִים, 
 רַחֵם עָלַי לְמַעַן שְׁמֶךָ אַתָּה 
 יָדַעְתָּ אֶת לְבָבִי כַּמָּה אֲנִי רָחוֹק מְאד מִמִּצְוַת סֻכָּה.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 You are filled with compassion. 
 Have compassion on me for the sake of Your Name. 
 You know my heart, how far I am from the mitsvah of Sukkah.
@@ -104,7 +104,7 @@ You know my heart, how far I am from the mitsvah of Sukkah.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְכַמָּה תַחֲנוּנִים וּבַקָּשׁוֹת וְהַפְצָרוֹת בְּלִי שִׁעוּר 
 אֲנִי צָרִיךְ לְהִתְפַּלֵּל וּלְהִתְחַנֵּן לְפָנֶיךָ 
 שֶׁתְּזַכֵּנִי לְמֹחִין קְדוֹשִׁים כָּאֵלֶּה, לַחֲסָדִים כָּאֵלֶּה, 
@@ -113,7 +113,7 @@ You know my heart, how far I am from the mitsvah of Sukkah.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 How many times without number 
 must I plead and pray 
 that You will give me a holy state of mind, energies of kindness, 
@@ -123,7 +123,7 @@ so that I will quickly go from being a domesticated-animal to being a human bein
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שֶׁאָחוּס עַל עַצְמִי מֵעַתָּה 
 וְלֹא אֶעֱשֶׂה עוֹד מַעֲשֵׂה בְּהֵמָה, 
 רַק אֶזְכֶּה מְהֵרָה לְדַעַת אֲמִתִּי 
@@ -131,7 +131,7 @@ so that I will quickly go from being a domesticated-animal to being a human bein
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May I have pity on myself from now on 
 and no longer commit the acts of a domesticated-animal. 
 Rather, may I quickly attain true knowledge, 
@@ -140,7 +140,7 @@ which is the definition of a human being.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְאֶזְכֶּה לִינֹק מֵהַשֶּׁפַע שֶׁל אָדָם, 
 וְלֹא אִינֹק עוֹד מִשֶּׁפַע שֶׁל בְּהֵמָה 
 וְאֵצֵא וְאֶעֱלֶה מְהֵרָה מִגֶּדֶר בְּהֵמָה 
@@ -148,7 +148,7 @@ which is the definition of a human being.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May I draw from the energy that goes to Adam/humanity
 and no longer from the energy that goes to Behemah/domesticated-animals. 
 May I soon ascend from the category of domesticated-animal 
@@ -157,7 +157,7 @@ to the category of human.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רִבּוֹנוֹ שֶׁל עוֹלָם, רִבּוֹנוֹ שֶׁל עוֹלָם 
 טוֹב וּמֵטִיב לַכֹּל 
 וְרַחֲמָיו עַל כׇּל מַעֲשָׂיו 
@@ -169,7 +169,7 @@ to the category of human.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Master of the world, Master of the world, 
 You are good and do good to all. 
 You are compassionate to all Your creatures. 
@@ -182,14 +182,14 @@ that comes from the level of Sukkah.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְלֹא נִצְטָרֵךְ לִינֹק חַס וְשָׁלוֹם מֵהַשֶּׁפַע שֶׁל הַבְּהֵמוֹת 
 וְלֹא נוֹצִיא לְעַצְמֵנוּ הַשֶּׁפַע שֶׁלָּהֶם חַס וְשָׁלוֹם, 
 לְמַעַן לֹא נִגְרֹם חַס וְשָׁלוֹם מִיתוֹת בְּהֵמוֹת וְחַיּוֹת בְּלֹא זְמַנָּן.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May we not have to draw from the energy of domesticated-animals, Heaven forbid. 
 May we not take their energy to ourselves, Heaven forbid, 
 so that we will not cause the premature deaths of domesticated-animals and wild creatures, Heaven forbid.
@@ -197,7 +197,7 @@ so that we will not cause the premature deaths of domesticated-animals and wild 
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וִיקֻיַּם מִקְרָא שֶׁכָּתוּב. 
 ”אָדָם־וּבְהֵמָה תּוֹשִׁיעַ יְהוָה“ <span class="citation">(תהלים לז:ז)</span>
 וְנֶאֱמַר. ”בָּרוּךְ פְּרִי־בִטְנְךָ 
@@ -208,19 +208,19 @@ so that we will not cause the premature deaths of domesticated-animals and wild 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May the verse be realized as it is written: 
-"YHVH, you save human and behemah/domesticated-animal."[foot]Psalms 37:7.[/foot] 
+"YHVH, you save human and behemah/domesticated-animal." <span class="citation">(Psalms 37:7)</span>
 and as it says: "Blessed will be the fruit of your womb 
 and the fruit of your fertile-ground,
 and the fruit of your domesticated-animals, 
 the offspring of your tame-ones,
-and the flocks of your sheep."[foot]Deuteronomy 28:4.[/foot] 
+and the flocks of your sheep." <span class="citation">(Deuteronomy 28:4)</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּבְכֵן יְהִי רָצוֹן מִלְּפָנֶיךָ מָלֵא רַחֲמִים וַחֲסָדִים 
 שֶׁתַּשְׁפִּיעַ עָלֵינוּ דַּעַת שָׁלֵם וַאֲמִתִּי 
 עַל יְדֵי מִצְוַת סֻכָּה הַקְּדוֹשָׁה בְּאֹפֶן 
@@ -230,7 +230,7 @@ and the flocks of your sheep."[foot]Deuteronomy 28:4.[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 And so, You Who are filled with compassion and kindness, 
 send us a flow of energy of complete and true knowledge 
 by means of the holy mitsvah of Sukkah—
@@ -241,14 +241,14 @@ that construction will not harm us at all.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְלֹא יַגִּיעַ לָנוּ שׁוּם סַכָּנָה בְּגוּף וָנֶפֶשׁ וּמָמוֹן עַל יְדֵי בִנְיַן בֵּיתֵנוּ 
 רַק אַדְרַבָּא נִזְכֶּה כׇּל אֶחָד וְאֶחָד לִבְנוֹת בַּיִת בִּקְדֻשָּׁה וּבְטָהֳרָה גְדוֹלָה, 
 בְּחָכְמָה בִּתְבוּנָה וּבְדַעַת דִּקְדֻשָּׁה.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May we not suffer any danger in body, soul or money by building our House. 
 To the contrary, may we build a house in great holiness and purity, 
 with holy wisdom, understanding and knowledge.
@@ -256,22 +256,22 @@ with holy wisdom, understanding and knowledge.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וִיקֻיַּם מִקְרָא שֶׁכָּתוּב. 
 ”בְּחָכְמָה יִבָּנֶה בָּיִת וּבִתְבוּנָה יִתְכּוֹנָן 
 וּבְדַעַת חֲדָרִים יִמָּלְאוּ כׇּל הוֹן יָקָר וְנָעִים“. <span class="citation">(משלי כד:ג-ד)</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May the verse be realized, 
 "With wisdom is a house built and with understanding it is established; 
-with knowledge, rooms are filled with all precious and pleasant wealth."[foot]Proverbs 24:3-4.[/foot]
+with knowledge, rooms are filled with all precious and pleasant wealth." <span class="citation">(Proverbs 24:3-4)</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְנִבְנֶה בֵּיתֵנוּ לְשֵׁם יְהוָה 
 לַעֲסֹק בּוֹ בְּתוֹרָה וּתְפִילָּה, 
 וּלְהַכְנִיס בּוֹ אוֹרְחִים הֲגוּנִים 
@@ -281,7 +281,7 @@ with knowledge, rooms are filled with all precious and pleasant wealth."[foot]Pr
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Let us build our House for the sake of YHVH, 
 to engage in Torah and prayer in it, 
 and to host worthy guests, 
@@ -292,7 +292,7 @@ And there we will call in the Name of YHVH, cosmic El.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּבְכֵן תְּזַכֵּנוּ עַל יְדֵי מִצְוַת סֻכָּה הַקְּדוֹשָׁה 
 לִשְׂמֹחַ בְּשִׂמְחָה גְדוֹלָה בְּשִׂמְחַת תּוֹרָה, 
 לְסַיֵּם הַתּוֹרָה 
@@ -302,7 +302,7 @@ And there we will call in the Name of YHVH, cosmic El.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 By means of the holy mitsvah of Sukkah, 
 help us rejoice greatly on Simḥat Torah—
 to complete (learning) the Torah 
@@ -313,14 +313,14 @@ for it is our strength and light.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְתִהְיֶה בְּעֶזְרֵנוּ בְּכׇל שָׁנָה וְשָׁנָה לְקַיֵּם מִצְוַת סֻכָּה בִּשְׁלֵמוּת גָּדוֹל כׇּל כָּךְ 
 עַד אֲשֶׁר נִזְכֶּה לְקַבֵּל אֶת הַתּוֹרָה מִשָּׁם מֵחָדָשׁ בְּכׇל שָׁנָה וְשָׁנָה, 
 כִּי מִסֻּכָּה יוֹצֵאת הַתּוֹרָה.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Every year, help us fulfill the mitsvah of Sukkah completely, 
 until we receive the Torah from there every year, 
 because the Torah emerges from the Sukkah.
@@ -328,14 +328,14 @@ because the Torah emerges from the Sukkah.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עַד אֲשֶׁר עַל יְדֵי כְּנִיסָתֵנוּ לַסֻּכָּה 
 נִזְכֶּה שֶׁיִּהְיֶה נַעֲשֶׂה מֵאִתָּנוּ בְּעַצְמֵנוּ תּוֹרָה שֶׁכׇּל אֶחָד מִיִּשְׂרָאֵל יִהְיֶה נַעֲשָׂה מִמֶּנּוּ 
 תּוֹרָה אוֹרַיְיתָא וְיִשְׂרָאֵל וְקֻדְּשָׁא בְּרִיךְ הוּא כֻּלָּא חַד. <span class="citation">(זוהר ג׳ קעט א׳)</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 As a result of our entering the Sukkah, 
 may the Torah be made from every one of us. 
 "Torah, Yisra'el, and the blessed Holy One -- are all one."[foot]Cf. Zohar 3:179a:6.[/foot]
@@ -343,7 +343,7 @@ may the Torah be made from every one of us.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְיֻמְשַׁךְ עָלֵינוּ עַל יְדֵי מִצְוַת סֻכָּה הַקְּדוֹשָׁה 
 קְדֻשַּׁת חַג הַשָּׁבוּעוֹת, 
 קְדֻשַּׁת חֹדֶשׁ סִיוָן 
@@ -351,7 +351,7 @@ may the Torah be made from every one of us.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 By means of the holy mitsvah of Sukkah, 
 draw onto us the holiness of the festival of Shavuot, 
 the holiness of the month of Sivan, 
@@ -360,7 +360,7 @@ the holiness of receiving the Torah.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רִבּוֹנוֹ שֶׁל עוֹלָם 
 צְרָכֵינוּ מְרֻבִּים מְאֹד בְּלִי שִׁעוּר 
 וְדַעְתֵּנוּ קְצָרָה לְבָאֵר וּלְפָרֵשׁ חֵלֶק אֶלֶף 
@@ -370,7 +370,7 @@ the holiness of receiving the Torah.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Master of the world, 
 our needs are many and without measure, 
 and our mind is too small to explain and express a thousandth 
@@ -381,7 +381,7 @@ and compassionately fulfill our requests for the good.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְזַכֵּנוּ לְקַיֵּם מִצְוַת סֻכָּה בִּזְמַנָּהּ בִּשְׁלֵמוּת, 
 בְּאֹפֶן שֶׁנִּזְכֶּה לְכׇל מַה שֶּׁבִּקַשְׁנוּ מִלְּפָנֶיךָ 
 שֶׁלֹּא נִגְרֹם חַס וְשָׁלוֹם מִיתַת בְּהֵמוֹת וְחַיּוֹת בְּלֹא זְמַנָּן 
@@ -390,7 +390,7 @@ and compassionately fulfill our requests for the good.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Help us fulfill the mitsvah of Sukkah in its time completely, 
 so that we will attain everything that we have requested of You. 
 May we not cause the premature death of domesticated-animals and wild creatures, Heaven forbid, 
@@ -400,7 +400,7 @@ that is drawn from the level of Sukkah.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְתִפְרֹס עָלֵינוּ סֻכַּת שְׁלוֹמֶךָ תָּמִיד, 
 וּבְצֵל כְּנָפֶיךָ תַּסְתִּירֵנוּ 
 וְנִזְכֶּה כׇּל אֶחָד וְאֶחָד הַמֻּכְרָח לַעֲסֹק בְּבִנְיָן 
@@ -412,7 +412,7 @@ that is drawn from the level of Sukkah.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Spread the Sukkah of Your peace over us always. 
 Hide us in the shadow of Your wings. 
 Then, when an individual must engage in construction, 
@@ -425,14 +425,14 @@ for the sake of Your Name only.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְיִהְיֶה בֵּיתֵנוּ בַּיִת שֶׁמְּגַדְּלִין בּוֹ תוֹרָה וּתְפִילָּה, 
 שֶׁנִּזְכֶּה לְדַבֵּר בְּבֵיתֵנוּ הַרְבֵּה דִּבְרֵי תוֹרָה וּתְפִילָּה 
 כְּפִי מַה שֶּׁקִּבַּלְנוּ מֵרַבּוֹתֵינוּ הַקְּדוֹשִׁים.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May our House be one in which we increase Torah and prayer, 
 in which we speak many words of Torah and prayer, 
 as we were taught to do by our holy rabbis.
@@ -440,7 +440,7 @@ as we were taught to do by our holy rabbis.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְנִזְכֶּה לְהַמְשִׁיךְ בְּתוֹךְ בֵּיתֵנוּ 
 שֶׁפַע טוֹבָה וּבְרָכָה 
 וְרַחֲמִים 
@@ -451,7 +451,7 @@ as we were taught to do by our holy rabbis.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May we draw into our House 
 an abundance of good, 
 blessing, 
@@ -463,7 +463,7 @@ in this world and in the World to Come.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּבְרַחֲמֶיךָ הָרַבִּים 
 תַּשְׁפִּיעַ לָנוּ כׇּל הַהוֹצָאוֹת וְהַהִצְטָרְכוּת 
 שֶׁצְּרִיכִים לְבִנְיַן בֵּיתֵנוּ בְּשֶׁפַע גָּדוֹל 
@@ -472,7 +472,7 @@ in this world and in the World to Come.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 In Your vast compassion, 
 give us great abundance for all our expenses and needs 
 connected to building our House. 
@@ -482,20 +482,20 @@ as a result of building our House.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְלֹא יַטְרִיד אוֹתָנוּ הַבִּנְיָן חַס וְשָׁלוֹם, 
 וְלֹא יְבַלְבֵּל אוֹתָנוּ כְּלָל מֵעֲבוֹדָתְךָ בֶּאֱמֶת.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May the construction not overwhelm us, Heaven forbid, 
 and not distract us at all from truly serving You.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְתַזְמִין לָנוּ לְכׇל אֶחָד וְאֶחָד עֵצִים הַמְסֻגָּלִים לְבֵיתוֹ, 
 וְיִהְיוּ מְסֻדָּרִים בְּהַבִּנְיָן 
 כְּפִי הַסֵּדֶר הָרָאוּי לָהֶם מִשֵּׁשֶׁת יְמֵי בְּרֵאשִׁית, 
@@ -507,7 +507,7 @@ and not distract us at all from truly serving You.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Send every individual the wood that is appropriate for his house. 
 May the planks be arranged in the building 
 in the order that they were meant to have from the Six Days of Creation. 
@@ -520,7 +520,7 @@ and for all our descendants.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מָלֵא רַחֲמִים 
 אַתָּה לְבַד יוֹדֵעַ כׇּל מַה שֶּׁנַּעֲשֶׂה בְּעִנְיַן הַבִּנְיָנִים 
 וְכַמָּה סַכָּנוֹת יֵשׁ בָּהֶם, 
@@ -533,7 +533,7 @@ and for all our descendants.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 You Who are filled with compassion, 
 You alone know all that is involved in buildings 
 and how many dangers are involved in constructing them. 
@@ -547,7 +547,7 @@ and to raise their children to learn Torah.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּמַה יַּעֲשֶׂה בָּשָׂר וָדָם 
 קָרוּץ מֵחֹמֶר 
 נִבְעָר מִדַּעַת 
@@ -557,7 +557,7 @@ and to raise their children to learn Torah.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 What will a creature of flesh and blood do, 
 a creature carved from clay, 
 with an animalistic awareness—
@@ -568,7 +568,7 @@ and in all matters?
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רַחֵם עָלֵינוּ לְמַעַן שְׁמֶךָ 
 וְזַכֵּנוּ לְהִתְנַהֵג תָּמִיד כִּרְצוֹנְךָ בֶּאֱמֶת, 
 ”יְהוָה יִגְמֹר בַּעֲדִי, 
@@ -577,17 +577,17 @@ and in all matters?
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Have compassion on us for the sake of Your Name. 
 Help us always act in accordance with Your will, in truth. 
 "YHVH will complete matters on my behalf. 
 YHVH, your kindness is in the Cosmos. 
-Do not abandon the works of Your hands."[foot]Psalms 138:8.[/foot]
+Do not abandon the works of Your hands." <span class="citation">(Psalms 138:8)</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וִיקֻיַּם בָּנוּ מִקְרָא שֶׁכָּתוּב. 
 ”יְהוָה יִשְׁמָרְךָ מִכׇּל רָע, 
 יִשְׁמֹר אֶת נַפְשֶׁךָ, 
@@ -596,17 +596,17 @@ Do not abandon the works of Your hands."[foot]Psalms 138:8.[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May the verse be realized for us, 
 "YHVH will guard you from all evil. 
 He will guard Your soul. 
 YHVH will guard your going out and your coming in, 
-now and until (the end of the) Cosmos.”[foot]Psalms 121:7-8.[/foot]
+now and until (the end of the) Cosmos.” <span class="citation">(Psalms 121:7-8)</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּתְמַהֵר וְתָחִישׁ לְגָאֳלֵנוּ וְתִבְנֶה בֵּית מִקְדָּשֵׁנוּ וְתִפְאַרְתֵּנוּ 
 וִיקֻיַּם בָּנוּ מִקְרָא שֶׁכָּתוּב. 
 ”וַהֲבִיאוֹתִים אֶל־הַר קָדְשִׁי 
@@ -616,28 +616,28 @@ now and until (the end of the) Cosmos.”[foot]Psalms 121:7-8.[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Hurry and swiftly redeem us and build our beautiful Temple. 
 May the verse be realized in us, 
 "I will bring them to My holy mountain 
 and give them joy in My House of Prayer. 
 Their burnt-offerings and sacrifices will be accepted upon My Altar, 
-for My House shall be called a House of Prayer for all nations."[foot]Isaiah 56:7.[/foot]
+for My House shall be called a House of Prayer for all nations." <span class="citation">(Isaiah 56:7)</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ”יִהְיוּ לְרָצוֹן אִמְרֵי פִי 
 וְהֶגְיוֹן לִבִּי לְפָנֶיךָ 
 יְהוָה צוּרִי וְגוֹאֲלִי“. <span class="citation">(תהלים יט:טו)</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 "May the words of my mouth 
 and the meditation of my heart be pleasing before You, 
-YHVH, my Rock-fortress and my Redeemer."[foot]Psalms 19:15.[/foot]
+YHVH, my Rock-fortress and my Redeemer." <span class="citation">(Psalms 19:15)</span>
 </div></td></tr>
 </tbody></table>
 
@@ -645,8 +645,11 @@ YHVH, my Rock-fortress and my Redeemer."[foot]Psalms 19:15.[/foot]
 
 Prayer 145 of Liqutei Tefilot vol. 1 by Reb Nosson Sternhartz of Nemirov, after the teachings of Rebbe Naḥman in Liqutei Moharan, was translated by Yaacov Dovid Shulman in <em><a href="https://books.breslov.org/product/the-fiftieth-gate-volume-5">The Fiftieth Gate volume 5: Part One Prayers 111-152, Part Two Prayers 1-4</a></em> (Breslov Research Institute). I have adapted this translation slightly, mainly to clarify the terms <em>behemah</em> (domesticated animal) and <em>ḥayah</em> (wild creatures), but I have also made other subtle changes and added citation references. --Aharon Varady
 
+<!--
 <h3>Source</h3>
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/liquteitefilotnathansternhartzofnemirovjerusalem1943#page/n424/mode/2up"]
+-->
+&nbsp;
 </body>
 </html>

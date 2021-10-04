@@ -12,7 +12,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ה׳ אלקי ואלקי אבותי ואמותי,
  כשם שאני עומד בתוך חדרי חדרים ומתפלל,
  כך בתוך חדרי חדרים שמע 
@@ -28,7 +28,7 @@ For attribution and license, please consult the following URL: <a href="http://o
  שערי תפילה.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 God and God of my forefathers and foremothers, 
 as I stand here in an innermost room and pray, 
 so too should you in an innermost room heed my questions, 

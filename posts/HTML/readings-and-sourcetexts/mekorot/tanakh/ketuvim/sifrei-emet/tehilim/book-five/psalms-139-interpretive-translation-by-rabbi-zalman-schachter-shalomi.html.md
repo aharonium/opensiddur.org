@@ -11,12 +11,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>א</sup>&nbsp;לַ֭מְנַצֵּחַ לְדָוִ֣ד 
 מִזְמ֑וֹר
 </div></span></td>
  
-<td  style="vertical-align:top;"><div class="english">
+<td  style="vertical-align:top;"><div class="english" lang="en">
 <sup>1</sup>&nbsp;Conductor -- 
 David's prayer set to music.
 </div>
@@ -24,7 +24,7 @@ David's prayer set to music.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְהוָ֥ה חֲ֝קַרְתַּ֗נִי 
 וַתֵּדָֽע׃
 <sup>ב</sup>&nbsp;אַתָּ֣ה יָ֭דַעְתָּ שִׁבְתִּ֣י 
@@ -35,7 +35,7 @@ David's prayer set to music.
 וְֽכָל־דְּרָכַ֥י הִסְכַּֽנְתָּה׃
 </div></span></td>
  
-<td  style="vertical-align:top;"><div class="english">
+<td  style="vertical-align:top;"><div class="english" lang="en">
 Yah! You have scanned me 
 And discerned me.
 <sup>2</sup>&nbsp;You know when I am relaxed 
@@ -49,14 +49,14 @@ You direct my paths so I can manage.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>‎‏ ד</sup>&nbsp;כִּ֤י אֵ֣ין מִ֭לָּה בִּלְשׁוֹנִ֑י 
 הֵ֥ן יְ֝הוָ֗ה יָדַ֥עְתָּ כֻלָּֽהּ׃
 <sup>‎‏ה</sup>&nbsp;אָח֣וֹר וָקֶ֣דֶם צַרְתָּ֑נִי 
 וַתָּ֖שֶׁת עָלַ֣י כַּפֶּֽכָה׃
 </div></span></td>
  
-<td  style="vertical-align:top;"><div class="english">
+<td  style="vertical-align:top;"><div class="english" lang="en">
 <sup>4</sup>&nbsp;Before my mouth opens 
 You know what I am about to say.
 <sup>5</sup>&nbsp;You have shaped my past and my future. 
@@ -66,12 +66,12 @@ Your hand, gently on my shoulder.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>ו</sup>&nbsp;<font color="brown">פלאיה</font> <font color="blue">פְּלִ֣יאָֽה</font>  דַ֣עַת מִמֶּ֑נִּי 
 נִ֝שְׂגְּבָ֗ה לֹא־א֥וּכַֽל לָֽהּ׃
 </div></span></td>
  
-<td  style="vertical-align:top;"><div class="english">
+<td  style="vertical-align:top;"><div class="english" lang="en">
 <sup>6</sup>&nbsp;All this awes my awareness. 
 It is beyond my skills to fathom.
 </div>
@@ -79,12 +79,12 @@ It is beyond my skills to fathom.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>‎‏ז</sup>&nbsp;אָ֭נָ֥ה אֵלֵ֣ךְ מֵרוּחֶ֑ךָ 
 וְ֝אָ֗נָה מִפָּנֶ֥יךָ אֶבְרָֽח׃
 </div></span></td>
  
-<td  style="vertical-align:top;"><div class="english">
+<td  style="vertical-align:top;"><div class="english" lang="en">
 <sup>7</sup>&nbsp;Whereto can I withdraw from Your spirit? 
 Flee from facing You?
 </div>
@@ -92,14 +92,14 @@ Flee from facing You?
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>‎‏ח</sup>&nbsp;אִם־אֶסַּ֣ק שָׁ֭מַיִם 
 שָׁ֣ם אָ֑תָּה 
 וְאַצִּ֖יעָה שְּׁא֣וֹל 
 הִנֶּֽךָּ׃
 </div></span></td>
  
-<td  style="vertical-align:top;"><div class="english">
+<td  style="vertical-align:top;"><div class="english" lang="en">
 <sup>8</sup>&nbsp;If I would mount up to Heaven 
 There are You. 
 If I make my bed in Hell 
@@ -109,7 +109,7 @@ You are there too.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>‎‏ט</sup>&nbsp;אֶשָּׂ֥א כַנְפֵי־שָׁ֑חַר 
 אֶ֝שְׁכְּנָ֗ה בְּאַחֲרִ֥ית יָֽם׃
 <sup>‎‏י</sup>&nbsp;גַּם־שָׁ֭ם יָדְךָ֣ 
@@ -117,7 +117,7 @@ You are there too.
 וְֽתֹאחֲזֵ֥נִי יְמִינֶֽךָ׃
 </div></span></td>
  
-<td  style="vertical-align:top;"><div class="english">
+<td  style="vertical-align:top;"><div class="english" lang="en">
 <sup>9</sup>&nbsp;Soaring on the wings of the dawn, 
 To find shelter in the setting sun, 
 <sup>10</sup>&nbsp;It would be Your hand, 
@@ -128,7 +128,7 @@ Your right hand, holding me safe.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>‎‏יא</sup>&nbsp;וָ֭אֹמַר אַךְ־חֹ֣שֶׁךְ יְשׁוּפֵ֑נִי 
 וְ֝לַ֗יְלָה א֣וֹר בַּעֲדֵֽנִי׃
 <sup>‎‏יב</sup>&nbsp;גַּם־חֹשֶׁךְ֮ לֹֽא־יַחְשִׁ֪יךְ מִ֫מֶּ֥ךָ 
@@ -138,7 +138,7 @@ Your right hand, holding me safe.
 תְּ֝סֻכֵּ֗נִי בְּבֶ֣טֶן אִמִּֽי׃
 </div></span></td>
  
-<td  style="vertical-align:top;"><div class="english">
+<td  style="vertical-align:top;"><div class="english" lang="en">
 <sup>11</sup>&nbsp;If I want to find oblivion in darkness, 
 Trading light for darkness, 
 <sup>12</sup>&nbsp;To You, it would still not be dark.
@@ -151,7 +151,7 @@ shaped me in the my mother's womb.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>‎‏יד</sup>&nbsp;אֽוֹדְךָ֗ עַ֤ל 
 כִּ֥י נוֹרָא֗וֹת נִ֫פְלֵ֥יתִי 
 נִפְלָאִ֥ים מַעֲשֶׂ֑יךָ 
@@ -161,7 +161,7 @@ shaped me in the my mother's womb.
 רֻ֝קַּ֗מְתִּי בְּֽתַחְתִּיּ֥וֹת אָֽרֶץ׃
 </div></span></td>
  
-<td  style="vertical-align:top;"><div class="english">
+<td  style="vertical-align:top;"><div class="english" lang="en">
 <sup>14</sup>&nbsp;I am overcome with thanks 
 At Your awesome wonders, 
 Your astonishing works, 
@@ -174,7 +174,7 @@ Who has knitted me beneath the surface.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup> ‏טז</sup>&nbsp;גָּלְמִ֤י׀ רָ֘א֤וּ עֵינֶ֗יךָ 
 וְעַֽל־סִפְרְךָ֮ כֻּלָּ֪ם 
 יִכָּ֫תֵ֥בוּ 
@@ -182,7 +182,7 @@ Who has knitted me beneath the surface.
 <font color="brown">ולא</font> <font color="blue">וְל֖וֹ</font> אֶחָ֣ד בָּהֶֽם׃
 </div></span></td>
  
-<td  style="vertical-align:top;"><div class="english">
+<td  style="vertical-align:top;"><div class="english" lang="en">
 <sup>16</sup>&nbsp;Your eyes have seen me as embryo. 
 My days--are all inscribed 
 in Your ledger-- 
@@ -193,7 +193,7 @@ each one of them counted.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>‎‏יז</sup>&nbsp;וְלִ֗י מַה־יָּקְר֣וּ רֵעֶ֣יךָ 
 אֵ֑ל 
 מֶ֥ה עָ֝צְמוּ רָאשֵׁיהֶֽם׃
@@ -203,7 +203,7 @@ each one of them counted.
 וְעוֹדִ֥י עִמָּֽךְ׃
 </div></span></td>
  
-<td  style="vertical-align:top;"><div class="english">
+<td  style="vertical-align:top;"><div class="english" lang="en">
 <sup>17</sup>&nbsp;How precious are Your stirrings 
 in me Oh God! 
 How powerful their impact!
@@ -216,7 +216,7 @@ I am still with You.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>‎‏יט</sup>&nbsp;אִם־תִּקְטֹ֖ל אֱל֥וֹהַּ׀ 
 רָשָׁ֑ע 
 וְאַנְשֵׁ֥י דָ֝מִ֗ים ס֣וּרוּ מֶֽנִּי׃
@@ -224,7 +224,7 @@ I am still with You.
 נָשֻׂ֖א לַשָּׁ֣וְא עָרֶֽיךָ׃
 </div></span></td>
  
-<td  style="vertical-align:top;"><div class="english">
+<td  style="vertical-align:top;"><div class="english" lang="en">
 <sup>19</sup>&nbsp;If You, God, would only rid us 
 from our evil! 
 If only the cruelty would disappear!
@@ -235,13 +235,13 @@ Forgiveness overtaking enmity!
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>‎‏כא</sup>&nbsp;הֲלֽוֹא־מְשַׂנְאֶ֖יךָ יְהוָ֥ה׀ אֶשְׂנָ֑א 
 וּ֝בִתְקוֹמְמֶ֗יךָ אֶתְקוֹטָֽט׃
 <sup>‎‏כב</sup>&nbsp;תַּכְלִ֣ית שִׂנְאָ֣ה שְׂנֵאתִ֑ים לְ֝אוֹיְבִ֗ים הָ֣יוּ לִֽי׃
 </div></span></td>
  
-<td  style="vertical-align:top;"><div class="english">
+<td  style="vertical-align:top;"><div class="english" lang="en">
 <sup>21</sup>&nbsp;I detest hatred of You - Yah! 
 Quarrelsomeness repels me.
 <sup>22</sup>&nbsp;I loathe hostility to the utmost.
@@ -250,7 +250,7 @@ Quarrelsomeness repels me.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>‎‏כג</sup>&nbsp;חָקְרֵ֣נִי אֵ֭ל 
 וְדַ֣ע לְבָבִ֑י 
 בְּ֝חָנֵ֗נִי וְדַ֣ע שַׂרְעַפָּֽי׃
@@ -259,7 +259,7 @@ Quarrelsomeness repels me.
 עוֹלָֽם׃ 
 </div></span></td>
  
-<td  style="vertical-align:top;"><div class="english">
+<td  style="vertical-align:top;"><div class="english" lang="en">
 <sup>23</sup>&nbsp;God! I open myself to Your scrutiny. 
 Know what is in my heart. 
 Examine and know my longings.

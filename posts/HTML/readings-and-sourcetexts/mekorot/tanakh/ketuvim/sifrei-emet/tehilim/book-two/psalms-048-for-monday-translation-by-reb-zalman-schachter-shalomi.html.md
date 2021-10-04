@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 This psalm was the Monday song of the Levites in the Holy Temple.
 </div>
 
@@ -16,13 +16,13 @@ This psalm was the Monday song of the Levites in the Holy Temple.
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
-<sup>א</sup>&nbsp;<span class="liturgy">שִׁ֥יר מִ֝זְמוֹר לִבְנֵי־קֹֽרַח׃</span>
+<div class="liturgy" lang="he">
+<sup>א</sup>&nbsp;<span class="liturgy" lang="he">שִׁ֥יר מִ֝זְמוֹר לִבְנֵי־קֹֽרַח׃</span>
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <sup>1</sup>&nbsp;Song and music from the Korachites
 </div></td>
 </tr>
@@ -30,7 +30,7 @@ This psalm was the Monday song of the Levites in the Holy Temple.
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>ב</sup>&nbsp;גָּ֘ד֤וֹל יְהוָ֣ה 
 וּמְהֻלָּ֣ל מְאֹ֑ד בְּעִ֥יר אֱ֝לֹהֵ֗ינוּ 
 הַר־קָדְשֽׁוֹ׃
@@ -43,7 +43,7 @@ This psalm was the Monday song of the Levites in the Holy Temple.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <sup>2</sup>&nbsp;Here in God’s city,
 On this holy mountain,
 God is vast and His fame is glorious.
@@ -58,7 +58,7 @@ The great royal capital.
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>ד</sup>&nbsp;אֱלֹהִ֥ים בְּאַרְמְנוֹתֶ֗יהָ נוֹדַ֥ע 
 לְמִשְׂגָּֽב׃
 <sup>ה</sup>&nbsp;כִּֽי־הִנֵּ֣ה הַ֭מְּלָכִים נֽוֹעֲד֑וּ 
@@ -73,7 +73,7 @@ The great royal capital.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <sup>4</sup>&nbsp;In her palaces,
 God is known in exaltation.
 <sup>5</sup>&nbsp;Here, kings gathered.
@@ -90,7 +90,7 @@ Shaking like a woman in labor.
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>ח</sup>&nbsp;בְּר֥וּחַ קָדִ֑ים 
 תְּ֝שַׁבֵּ֗ר אֳנִיּ֥וֹת תַּרְשִֽׁישׁ׃
 <sup>ט</sup>&nbsp;כַּאֲשֶׁ֤ר שָׁמַ֨עְנוּ ׀ 
@@ -102,7 +102,7 @@ Shaking like a woman in labor.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <sup>8</sup>&nbsp;A storm You raised from the East,
 Shattering Tarshish cruisers.
 <sup>9</sup>&nbsp;All this we heard.
@@ -116,7 +116,7 @@ May God  keep it flourishing forever.  Selah!
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>י</sup>&nbsp;דִּמִּ֣ינוּ אֱלֹהִ֣ים 
 חַסְדֶּ֑ךָ 
 בְּ֝קֶ֗רֶב הֵיכָלֶֽךָ׃
@@ -132,7 +132,7 @@ May God  keep it flourishing forever.  Selah!
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <sup>10</sup>&nbsp;In the midst of Your Temple,
 We looked for Your Grace, 
 O God.
@@ -150,7 +150,7 @@ All because of how You act justly.
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>יג</sup>&nbsp;סֹ֣בּוּ צִ֭יּוֹן וְהַקִּיפ֑וּהָ 
 סִ֝פְר֗וּ מִגְדָּלֶֽיהָ׃
 <sup>יד</sup>&nbsp;שִׁ֤יתוּ לִבְּכֶ֨ם ׀ 
@@ -161,7 +161,7 @@ All because of how You act justly.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <sup>13</sup>&nbsp;Go round Zion, enfold her.
 Take note of her towers.
 <sup>14</sup>&nbsp;Set your heart on her strengths.
@@ -174,7 +174,7 @@ To generations yet to come:
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>טו</sup>&nbsp;כִּ֤י זֶ֨ה ׀ אֱלֹהִ֣ים אֱ֭לֹהֵינוּ 
 עוֹלָ֣ם וָעֶ֑ד 
 ה֖וּא יְנַהֲגֵ֣נוּ עַל־מֽוּת׃
@@ -182,7 +182,7 @@ To generations yet to come:
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <sup>15</sup>&nbsp;This is God, our God!
 Forever and ever.
 He will guide us past death.

@@ -11,12 +11,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Oh Lord, Oh Lord, come into my heart 
 Build there your shrine 
 and never depart
@@ -26,12 +26,12 @@ Let every song be new.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Oh Lord, Oh Lord, come into my sight
 Consume the veil that hides 
 Your Light
@@ -41,12 +41,12 @@ Let every moment shine.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Oh Lord, transform this lowly sphere
 That boundaries may disappear
 In mutual dependency
@@ -55,12 +55,12 @@ Let every soul be free.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Our burden Lord, is great indeed
 For everywhere are people in need
 Reply, respond, with healing word
@@ -69,12 +69,12 @@ Let every call be heard.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Oh Lord, Oh Lord, come into our lives 
 With peace that blesses,
 love that revives
@@ -84,12 +84,12 @@ Let every thought recall.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Oh Lord, let people be slaves no more 
 Fling open wide Messiah’s door
 Salvation’s boundless benefit
@@ -98,12 +98,12 @@ Let every breath admit.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Oh Lord, may we be ever one
 A world of friends with quarrels none 
 Let every person know his soul

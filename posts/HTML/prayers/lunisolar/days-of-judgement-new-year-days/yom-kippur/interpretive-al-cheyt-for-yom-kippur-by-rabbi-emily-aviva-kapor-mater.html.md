@@ -15,25 +15,25 @@ The Al Ḥeyt (literally meaning "For the sin…") is a confessional litany reci
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עַל חֵטְא
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Al Ḥeyt — For the Sin
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 א
 &nbsp;
 עַל חֵטְא שֶׁחָטָאנוּ לְפָנֶיךָ בְּאֹנֶס וּבְרָצוֹן:
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Aleph
 &nbsp;
 Be-ones u-ve-ratzon: We have sinned against You unwillingly and willingly. 
@@ -44,14 +44,14 @@ and ignore them when they come before us.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ב
 &nbsp;
 וְעַל חֵטְא שֶׁחָטָאנוּ לְפָנֶיךָ בִּבְלִי דָעַת:
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Beit
 &nbsp;
 Bi-v'li da'at: We have sinned against You by misusing our minds. 
@@ -62,14 +62,14 @@ We use our intellects as a weapon.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ג
 &nbsp;
 עַל חֵטְא שֶׁחָטָאנוּ לְפָנֶיךָ בְּגִלּוּי עֲרָיוֹת:
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Gimel
 &nbsp;
 Be-gilui arayot: We have sinned against You by sexual immorality. 
@@ -81,14 +81,14 @@ and we fail to acknowledge a moral difference.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ד
 &nbsp;
 וְעַל חֵטְא שֶׁחָטָאנוּ לְפָנֶיךָ בְּדַעַת וּבְמִרְמָה:
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Dalet
 &nbsp;
 Be-da'at u-ve-mir'mah: We have sinned against You knowingly and deceitfully. 
@@ -100,14 +100,14 @@ choosing the easy route to personal fulfillment.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ה
 &nbsp;
 עַל חֵטְא שֶׁחָטָאנוּ לְפָנֶיךָ בְּהוֹנָאַת רֵעַ:
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Heh
 &nbsp;
 Be-hona'at re'a: We have sinned against You by wronging others. 
@@ -118,14 +118,14 @@ We say "I'm fine" when what we mean is "I need help".
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ו
 &nbsp;
 וְעַל חֵטְא שֶׁחָטָאנוּ לְפָנֶיךָ בִּוְעִידַת זְנוּת:
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Vav
 &nbsp;
 Be-vi'dat z'nut: We have sinned against You by supporting immorality. 
@@ -136,14 +136,14 @@ We stand on our neighbors' blood.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ז
 &nbsp;
 עַל חֵטְא שֶׁחָטָאנוּ לְפָנֶיךָ בְּזִלְזוּל הוֹרִים וּמוֹרִים:
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Zayin
 &nbsp;
 Be-zilzul horim u-morim: We have sinned against You by deriding parents and teachers. 
@@ -155,14 +155,14 @@ so we fail to learn from all people.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ח
 &nbsp;
 וְעַל חֵטְא שֶׁחָטָאנוּ לְפָנֶיךָ בְּחֹזֶק יָד:
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Ḥet
 &nbsp;
 Be-ḥozek yad: We have sinned against You by strengthening our grasp. 
@@ -174,14 +174,14 @@ We support violence in the world when the "good guys" are doing it.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ט
 &nbsp;
 עַל חֵטְא שֶׁחָטָאנוּ לְפָנֶיךָ בְּטֻמְאַת שְׂפָתָיִם:
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Tet
 &nbsp;
 Be-tum'at s'fatayim: We have sinned against You by impurity of our lips. 
@@ -193,14 +193,14 @@ We do not practice right speech.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 י
 &nbsp;
 וְעַל חֵטְא שֶׁחָטָאנוּ לְפָנֶיךָ בְּיֵצֶר הָרָע:
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Yud
 &nbsp;
 Be-yetzer ha-ra: We have sinned against You by not resisting the impulse to evil. 
@@ -213,12 +213,12 @@ so we just don't engage.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְעַל כֻּלָּם אֱלוֹהַּ סְלִיחוֹת. סְלַח לָנוּ. מְחַל לָנוּ. כַּפֶּר לָנוּ:
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Ve-al kulam, Eloah seliḥot, selaḥ lanu, meḥal lanu, kaper lanu.
 
 And for all of them, God of forgiveness, forgive us, pardon us, let us atone.
@@ -226,14 +226,14 @@ And for all of them, God of forgiveness, forgive us, pardon us, let us atone.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כ
 &nbsp;
 עַל חֵטְא שֶׁחָטָאנוּ לְפָנֶיךָ בְּכַחַשׁ וּבְכָזָב:
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Kaf
 &nbsp;
 Be-chaḥash u-ve-chazav: We have sinned against You by fraud and falsehood. 
@@ -244,14 +244,14 @@ We take on obligations we know we will be unable to meet.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ל
 &nbsp;
 וְעַל חֵטְא שֶׁחָטָאנוּ לְפָנֶיךָ בְּלָצוֹן:
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Lamed
 &nbsp;
 Be-latzon: We have sinned against You by scoffing. 
@@ -262,14 +262,14 @@ We give unsolicited advice, and we are not grateful for others' efforts.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מ
 &nbsp;
 עַל חֵטְא שֶׁחָטָאנוּ לְפָנֶיךָ בְּמַשָּׂא וּבְמַתָּן:
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Mem
 &nbsp;
 Be-masa u-ve-matan: We have sinned against You by dishonesty in business. 
@@ -282,14 +282,14 @@ while promoting the virtues of supporting small, locally owned businesses.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 נ
 &nbsp;
 וְעַל חֵטְא שֶׁחָטָאנוּ לְפָנֶיךָ בְּנֶשֶׁךְ וּבְמַרְבִּית:
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Nun
 &nbsp;
 Be-neshech u-ve-mar'bit: We have sinned against You by charging usurious interest. 
@@ -302,14 +302,14 @@ because we don't like the look of their clothes.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ס
 &nbsp;
 עַל חֵטְא שֶׁחָטָאנוּ לְפָנֶיךָ בְּשִׂיחַ שִׂפְתוֹתֵינוּ:
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Samekh
 &nbsp;
 Be-si'aḥ sif'toteinu: We have sinned against You by idle chatter. 
@@ -321,14 +321,14 @@ We let Twitter and Facebook overwhelm our lives.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ע
 &nbsp;
 וְעַל חֵטְא שֶׁחָטָאנוּ לְפָנֶיךָ בְּעֵינַיִם רָמוֹת:
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Ayin
 &nbsp;
 Be-einayim ramot: We have sinned against You by haughtiness. 
@@ -341,12 +341,12 @@ We assume everyone is just like us and nobody could possibly be—or want to be�
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְעַל כֻּלָּם אֱלוֹהַּ סְלִיחוֹת. סְלַח לָנוּ. מְחַל לָנוּ. כַּפֶּר לָנוּ:
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Ve-al kulam, Eloah seliḥot, selaḥ lanu, meḥal lanu, kaper lanu.
 
 And for all of them, God of forgiveness, forgive us, pardon us, let us atone.
@@ -354,14 +354,14 @@ And for all of them, God of forgiveness, forgive us, pardon us, let us atone.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 פ
 &nbsp;
 עַל חֵטְא שֶׁחָטָאנוּ לְפָנֶיךָ בִּפְרִיקַת עוֹל:
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Peh
 &nbsp;
 Bi-f'rikat ol: We have sinned against You by shirking responsibility. 
@@ -374,14 +374,14 @@ We let sloth and inertia dictate the pace of our lives.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 צ
 &nbsp;
 וְעַל חֵטְא שֶׁחָטָאנוּ לְפָנֶיךָ בִּצְדִיַּת רֵעַ:
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Tzadi
 &nbsp;
 Bi-tz'diyat re'a: We have sinned against You by plotting against others. 
@@ -392,14 +392,14 @@ We form schemes and plans to make other people do what we want them to.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ק
 &nbsp;
 עַל חֵטְא שֶׁחָטָאנוּ לְפָנֶיךָ בְּקַלּוּת רֹאשׁ:
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Quf
 &nbsp;
 Be-kalut rosh: We have sinned against You by irreverence. 
@@ -411,14 +411,14 @@ We say "I know this is tasteless, but…" and get defensive when we are called o
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ר
 &nbsp;
 וְעַל חֵטְא שֶׁחָטָאנוּ לְפָנֶיךָ בְּרִיצַת רַגְלַיִם לְהָרַע:
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Resh
 &nbsp;
 Be-ritzat rag'layim le-hara: We have sinned against You by rushing to do evil. 
@@ -429,14 +429,14 @@ We run off to do things we know we shouldn't be doing.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ש
 &nbsp;
 עַל חֵטְא שֶׁחָטָאנוּ לְפָנֶיךָ בִּשְׁבוּעַת שָׁוְא:
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Shin
 &nbsp;
 Bi-sh'vu'at shav: We have sinned against You by taking vain oaths. 
@@ -447,14 +447,14 @@ We "swear to God" when what we really mean is "please believe me".
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ת
 &nbsp;
 וְעַל חֵטְא שֶׁחָטָאנוּ לְפָנֶיךָ בִּתְשׂוּמֶת יָד:
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Tav
 &nbsp;
 Bi-t'sumet yad: We have sinned against You by breaching trust. 
@@ -467,12 +467,12 @@ We do not regard other people as sacred.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְעַל כֻּלָּם אֱלוֹהַּ סְלִיחוֹת. סְלַח לָנוּ. מְחַל לָנוּ. כַּפֶּר לָנוּ:
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Ve-al kulam, Eloah seliḥot, selaḥ lanu, meḥal lanu, kaper lanu.
 
 And for all of them, God of forgiveness, forgive us, pardon us, let us atone.

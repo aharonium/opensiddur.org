@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Yiddish)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="yiddish"><span lang="yi">
+<div class="yiddish" lang="yi">
 שטארקער גאָט! 
 דרײַ װיכטיגע זאכין נעם איך זיך הײַנט אױף מיר, 
 דוּרך מײַן חוּפָּה, װער איך א מְחוּיֶבֶת צו זײַן א פרױ, נאָר צוּ מײַן מאן, 
@@ -26,7 +26,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 דרוּם װיל איך דאָס ערפילען, 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Mighty God! 
 Today, I take upon myself [to follow] three important things: 
 [1] with my Khupe, I become obligated to be a wife, for my husband only, 
@@ -43,14 +43,14 @@ therefore, I wish to fulfill them.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="yiddish"><span lang="yi">
+<div class="yiddish" lang="yi">
 שטארק אוּנ קרעפטיג מיך ליבּער גאָט, 
 אַז איך זאָל האָבּין כֹּחַ דײַן פערלאנג צוּ טאָן, 
 אוּנ צוּ דינען דיר מיטין גאנצין הארצען, 
 אָמֵן וְאָמֵן:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Strengthen and empower me, 
 Beloved God, that I have the energy to do what You desire, 
 and to serve You with my entire heart — 

@@ -15,12 +15,12 @@ From the Talmud Bavli, Tractate Berakhot 55b. Translation by Maurice Simon.
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אמר רב הונא בר אמי אמר ר׳ פדת 
 אמר רבי יוחנן
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <a href="http://en.wikipedia.org/wiki/Rav_Huna">Rav Huna bar Ammi</a> said in the name of Rav Pedath 
 who had it from <a href="http://en.wikipedia.org/wiki/Johanan_bar_Nappaha">Rebbi Yoḥanan</a>:
 </td></tr>
@@ -28,7 +28,7 @@ who had it from <a href="http://en.wikipedia.org/wiki/Johanan_bar_Nappaha">Rebbi
 
 <tr>
 <td style="vertical-align:top;" width="44%">
-<div class="liturgy"><span  lang="he">
+<div class="liturgy" lang="he">
 הרואה חלום ונפשו עגומה 
 ילך ויפתרנו בפני שלשה 
 יפתרנו
@@ -38,7 +38,7 @@ who had it from <a href="http://en.wikipedia.org/wiki/Johanan_bar_Nappaha">Rebbi
 יטיבנו בפני שלשה
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 If one has a dream which disturbs them
 he should go and have it interpreted in the presence of three.[foot]in the presence of three friends[/foot] 
 He should have it interpreted!
@@ -51,12 +51,12 @@ Has not <a href="http://en.wikipedia.org/wiki/Rav_Chisda">Rav Ḥisda</a> said:
 
 <tr>
 <td style="vertical-align:top;" width="44%">
-<div class="liturgy"><span  lang="he">
+<div class="liturgy" lang="he">
  ליתי תלתא ולימא להו  
  חלמא טבא חזאי 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Let him bring three and say to them:
 "I have seen a good dream."
 </div></td></tr>
@@ -64,7 +64,7 @@ Let him bring three and say to them:
 
 <tr>
 <td style="vertical-align:top;" width="44%">
-<div class="liturgy"><span  lang="he">
+<div class="liturgy" lang="he">
 ולימרו ליה 
 הנך טבא הוא וטבא ליהוי 
 רחמנא לשוייה לטב 
@@ -72,7 +72,7 @@ Let him bring three and say to them:
 דלהוי טבא ויהוי טבא
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
  and they should say to him, 
 "Good it is and good may it be.
 May the Compassionate One turn it to good; 
@@ -83,13 +83,13 @@ that it should be good and may it be good."
 
 <tr>
 <td style="vertical-align:top;" width="44%">
-<div class="liturgy"><span  lang="he">
+<div class="liturgy" lang="he">
 ולימרו ג׳ הפוכות
  וג׳ פדויות
 ושלש שלומות
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 They should say three verses with the word <em>hapakh</em> [turn],
 and three with the word <em>padah</em> [redeem],
 and three with the word <em>shalom</em> [peace].
@@ -98,7 +98,7 @@ and three with the word <em>shalom</em> [peace].
 
 <tr>
 <td style="vertical-align:top;" width="44%">
-<div class="liturgy"><span  lang="he">
+<div class="liturgy" lang="he">
 שלש הפוכות
 ‏הָפַ֣כְתָּ מִסְפְּדִי֮ לְמָחֹ֪ול לִ֥י 
 פִּתַּ֥חְתָּ שַׂקִּ֑י וַֽתְּאַזְּרֵ֥נִי שִׂמְחָֽה׃ <span class="citation">(תהלים ל:יב)</span>
@@ -111,7 +111,7 @@ and three with the word <em>shalom</em> [peace].
 כִּ֥י אֲהֵֽבְךָ֖ יְהוָ֥ה אֱלֹהֶֽיךָ׃ <span class="citation">(דברים כג:ו)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Three with the word ‘turn’, namely,
 You turned for me my mourning into dancing, 
 You loosened my sackcloth and gird me with gladness;[foot]Psalms 30:12[/foot]
@@ -127,7 +127,7 @@ because Hashem your <em>elo'ah</em> loved you.[foot]Deuteronomy 23:6[/foot]
 
 <tr>
 <td style="vertical-align:top;" width="44%">
-<div class="liturgy"><span  lang="he">
+<div class="liturgy" lang="he">
 שלש פדויות דכתיב
 ‏פָּ֘דָ֤ה בְשָׁל֣וֹם נַ֭פְשִׁי מִקֲּרָב־לִ֑י 
 כִּֽי־בְ֝רַבִּ֗ים הָי֥וּ עִמָּדִֽי׃ <span class="citation">(תהלים נה:יט)</span>‏
@@ -142,7 +142,7 @@ because Hashem your <em>elo'ah</em> loved you.[foot]Deuteronomy 23:6[/foot]
 וַיִּפְדּ֥וּ הָעָ֛ם אֶת־יוֹנָתָ֖ן וְלֹא־מֵֽת׃ <span class="citation">(‏שמואל א׳ יד:מה)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Three verses with the word ‘redeem’, namely,
 He has redeemed my soul in peace, 
 so that none came near me;[foot]Psalms 55:19[/foot]
@@ -160,7 +160,7 @@ So the people rescued Yonatan, that he died not.[foot]1 Samuel 14:45[/foot]
 
 <tr>
 <td style="vertical-align:top;" width="44%">
-<div class="liturgy"><span  lang="he">
+<div class="liturgy" lang="he">
 שלש שלומות דכתיב
 ‏בּוֹרֵ֖א נוב [נִ֣יב] שְׂפָתָ֑יִם שָׁל֨וֹם ׀ שָׁל֜וֹם לָרָח֧וֹק וְלַקָּר֛וֹב 
 אָמַ֥ר יְהוָ֖ה וּרְפָאתִֽיו׃ <span class="citation">(ישעיהו נז:יט‏)</span>
@@ -173,7 +173,7 @@ So the people rescued Yonatan, that he died not.[foot]1 Samuel 14:45[/foot]
 וְכֹ֥ל אֲשֶׁר־לְךָ֖ שָׁלֽוֹם׃ <span class="citation">(שמואל א׳ כה:ו‏)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Three verses with the word ‘peace’, namely,
 Peace, peace, to him that is far off and to him that is near, 
 says HaShem that created the fruit of the lips; and I will heal him;[foot]Isaiah 57:19[/foot]

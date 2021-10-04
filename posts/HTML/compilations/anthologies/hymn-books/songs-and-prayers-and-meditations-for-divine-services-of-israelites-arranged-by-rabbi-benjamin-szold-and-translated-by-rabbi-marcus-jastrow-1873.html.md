@@ -19,7 +19,7 @@ Making digital images of these works available is the first step in our process 
 
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 PREFACE
 
 As indicated by the title-page, the English edition of this <a href="https://opensiddur.org/compilations/kol-bo/siddur-abodath-yisrael-by-benjamin-szold-translated-by-marcus-jastrow-1873/">Prayer</a> and Hymn Book corresponds with the German edition by Rev. Dr. B. Szold both in arrangement and in text, so that either of them may be used in Divine Service while the prayers are read, or the hymns sung, in Hebrew, English or German. 

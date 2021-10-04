@@ -12,7 +12,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/LibraVeritatisEtDePaschateTractatus#page/n365/mode/2up"]
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 Please join us in transcribing a 17th century Haggadah for the Passover Seder translated into Latin by Johann Stephan Rittangel (a/k/a Rittangelius). Transcription will be taking place at <a href="https://la.wikisource.org/wiki/Liber:Liber_Rituum_Paschalium.pdf">Latin Wikisource</a> (Vicifons). If you are not already a registered Wikisource volunteer contributor, <strong>please <a href="https://la.wikisource.org/w/index.php?title=Specialis:Rationem_creare&returnto=Liber:Liber+Rituum+Paschalium.pdf&uselang=en&campaign=loginCTA">register first</a></strong>.
 
 Johann Stephan Rittangel (1606-1652) was a Christian Hebraist and Professor of Oriental Languages at the University of Königsberg (Prussia) from 1640 till his death. Born Jewish, he converted to Christianity (to Catholicism and afterward to Calvinism, and then Lutheranism). After making a translation of the Sefer Yetsirah into Latin in 1642, he made this translation of the Passover Haggadah. In the Haggadah, Rittangel included musical scores for two piyyutim popularly sung during the final course of the Passover seder: "Adir Hu" and "Ki Lo Na’eh." See below for a video of these tunes being sung!

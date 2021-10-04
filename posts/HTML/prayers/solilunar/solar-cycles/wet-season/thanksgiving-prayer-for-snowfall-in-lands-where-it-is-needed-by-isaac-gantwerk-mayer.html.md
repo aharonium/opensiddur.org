@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַנֹּתֵ֣ן שֶׁ֣לֶג כַּצָּ֑מֶר כְּ֝פ֗וֹר כָּאֵ֥פֶר יְפַזֵּֽר׃ <span class="citation">(תהלים קמז:יו)</span>
 מוֹדִים אֲנַחְנוּ לָךְ עַל כׇּל־פִּתִּים וּפִתִּים שֶׁהִשְׁלַכְתָּ עֲלֵינוּ׃ <span class="citation">(כמו תהלים קמז:יז)</span>
 טוֹב־אַתָּה וּמֵטִיב <span class="citation">(תהלים קיט:סח)</span>. יָצָא הַקֶּרַח מִבִּטְנְךָ אָתָּה <span class="citation">(כמו איוב לח:כט)</span>.
@@ -21,7 +21,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 O Giver of Snow like wool, and Scatterer of Frost like ashes,[foot]Psalm 147:16.[/foot]
 we give thanks to You for each flake and flake that You throw upon us.[foot]as in Psalm 147:17.[/foot]
 Good are You, and do good;[foot]Psalm 119:68.[/foot] You send out the ice from Your womb.[foot]as Job 38:29.[/foot]

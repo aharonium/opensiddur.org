@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 
 Beth Kissilef <a href="https://www.facebook.com/permalink.php?story_fbid=2383921938601844&id=100009521824547&__xts__%5B0%5D=68.ARDUNMvh4Fjyuq3LGkeTotz6ZjzUBp4nMkP3k6NskkA12DDQvzmFLmzFf3F_pVuj7VPnzfQdzskwwDZbsdPgKLm86wDY_FbR4mCS3QZZrM_iIixB557pBRydEZEv0s1ads_No4NX2tOfNtd6pW7ECJsL1gv7bVtAMkHiXF_yuyKkGn7UsESna_JXIfIOQzSzVwv5AXH8SuJ7olsY&__tn__=-R">writes</a>:
 
@@ -18,7 +18,7 @@ Beth Kissilef <a href="https://www.facebook.com/permalink.php?story_fbid=2383921
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֵֽלֶּה אֶזְכְּרָה וְנַפְשִׁי עָלַי אֶשְׁפְּכָה
 כִּי בְלְָעֽוּנוּ זָרִים כְּעֻגָּה בְּלִי הֲפוּכָה, 
 כִּי בִימֵינוּ אֲנוּ לֹא עָלְתָה אֲרוּכָה,
@@ -26,7 +26,7 @@ Beth Kissilef <a href="https://www.facebook.com/permalink.php?story_fbid=2383921
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 These things do I remember and my heart is grieved!
 How the arrogant have devoured our people!
 Who would believe that in our day there would be no intervention
@@ -35,7 +35,7 @@ For the eleven slaughtered from our holy community?
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שַׁבָּת בַּבֹּקֶר כְּמִידֵי שַׁבָּת הַיְתָה  
 וַיַשְׁכִּימוּ כְּעֶשְׂרִים מִבְּנֵי הַקְּהִילָה
 וּבָאוּ לִקְרֹא אֶת פָּרַשַׁת וַיֵרַא מִן הַתּוֹרָה
@@ -44,7 +44,7 @@ For the eleven slaughtered from our holy community?
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 That Shabbat morning was like every Shabbat
 The twenty early-risers from the three shuls
 Came to read Parshat Vayera from the Torah
@@ -54,7 +54,7 @@ That the portion would reveal what would happen to them.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְקָרְאוּ׃ 
 וַיַּשְׁכֵּם אַבְרָהָם וַיִּקַּח אֶת־נְעָרָיו
 וְאֶת בְּנוֹ יְחִידוֹ אֲשֶׁר אָהַב
@@ -69,7 +69,7 @@ That the portion would reveal what would happen to them.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And they read:
 Abraham rose early and brought his servant lads
 And his only son who he loved
@@ -85,7 +85,7 @@ God said to Abraham: Ascend to me on the hill and I will test you there.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְרָאוּ׃ 
 וַיָּקָם אַבְרָהָם
 וַיַּעַל אֶל־הַר הָאֱלֹהִים הוּא הַר הָמּוֹרִיָה
@@ -102,7 +102,7 @@ God said to Abraham: Ascend to me on the hill and I will test you there.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And they saw:
 And Abraham rose
 He ascended the mountain of God, the hill of Moriah
@@ -120,7 +120,7 @@ And they were silent all of them in reaction to the frightful vision their eyes 
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְכֵן שָׁמְעוּ מֵאֲחוֹרֵי הַפַּרְגּוֹד׃
 וְאִם תִּשְׁאֲלוּ בְּמָרָה זוֹ תּוֹרָה וְזֶה שְׂכָרָהּ,
 תְּשׁוּבָתִי יְדוּעָה׃
@@ -129,7 +129,7 @@ And they were silent all of them in reaction to the frightful vision their eyes 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And thus they heard from behind the Veil of Mystery:
 And if you ask in your bitterness, “This is Torah and this is its reward?”
 “My answer is known:
@@ -139,7 +139,7 @@ Don’t dwell too much on what separates You from Me.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְכֵן קָרָה בְּמִקְדַּשׁ הַמְעַט שֶׁלָּנוּ 
 בְּבוֹא הַצָר לְנַסוֹת אוֹתָנוּ.
 חַרְבּוֹ שְׁלוּפָה לְהַכְרִית אֶת זִכְרוֹנֵינוּ מִמְקוֹמֵינוּ. 
@@ -153,7 +153,7 @@ Don’t dwell too much on what separates You from Me.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 What occurred in our Holy Sanctuary that day
 As the enemy came to tread upon our holy space
 His wielding sword to break apart our memories from that place
@@ -168,7 +168,7 @@ And among some who were in the kitchen preparing the next meal.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְאֶל אַחַד עַשַׂר אָמַר יְיָ בְּלַחַשׁ
 הִגִיעַ זְמַנְכֶם לְקַדֵּשׁ אֶת שִׁמִי בַּרַבִּים
 וְיוֹדֵעַ אֲנִי שֶׁלֹא בִּיקַשְׁתֶּם זֹאת 
@@ -176,7 +176,7 @@ And among some who were in the kitchen preparing the next meal.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And to the eleven, God spoke in a whisper
 “The time has arrived to sanctify My Name in public.
 “And I know you did not ask for this.” Even so, they would be remembered
@@ -185,7 +185,7 @@ and looked upon as personally bound to the Altar as one united.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כִּי בַּעָתִיד יִזְכְּרוּ יְלַדִים וּקְּהִילוֹת 
 שֶׁאַנַחְנוּ אֶת קְדוֹשָׁת הַחָיִים בָּאנוֹ לִחְיוֹת  
 כִּי קַמְנוּ עַמָדְנוּ הִמְשָׁכְנוֹ בְּדָרְכְּכֶם 
@@ -193,7 +193,7 @@ and looked upon as personally bound to the Altar as one united.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 For in the future their children and congregations would remember
 That we are Sanctifiers of Life who come to live
 For we arose, we stood as your followers in your path
@@ -202,7 +202,7 @@ For we remembered faith and friendship here toward your light.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֶת חַלְלֵינוּ קַבָרִנוּ
 וְעֲלֵיהֶם בָּכִינוּ
 וּבְכׇל זאֹת לֹא נִשְׁבַּרְנוּ.
@@ -211,7 +211,7 @@ For we remembered faith and friendship here toward your light.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 We buried our bodies.
 And upon them we wept
 And even so, this did not break us.
@@ -221,7 +221,7 @@ And we continued to stand.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּבְכֵן, אָבִֽינוּ מַלְכֵּֽנוּ, עֲשֵׂה לְמַֽעַן הֲרוּגֵינוּ
 עַל שֵׁם קׇדְשֶֽׁךָ
 וְעַשֵׂה עַל טַף וַיְלַדִים וְכֹל אַנְשֵׁי אֶמוּנַתֶךָ
@@ -231,7 +231,7 @@ And we continued to stand.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And so, Our Father our King, act for the sake of those who were slaughtered 
 for your holy name.
 And act for the babies and children and for all the people of your faith.
@@ -242,7 +242,7 @@ Save us, our Creator, for our eyes are upon you.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְכֹל עוֹד נְשָׁמָה בְּאַפֶּינוּ
 נְבַקֶשׁ עוֹלַמֵנוּ
 וְעֶרֶב וַבּוֹקֶר בְכֹל יוֹם תַמִיד
@@ -250,7 +250,7 @@ Save us, our Creator, for our eyes are upon you.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 As long as this breath is within us
 We ponder the world you created for us
 And evening and morning, each and every day.
@@ -259,12 +259,12 @@ We gather and we cry out as one:
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שְׁמַע יִשְׂרָאֵל ה׳ אֱלֹהֵינוּ ה׳ אֶחָד.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <strong>Hear O Israel, the Lord our God, the Lord is One.</strong>[foot]Deuteronomy 6:4.[/foot]
 </div></td></tr>
 </tbody></table>

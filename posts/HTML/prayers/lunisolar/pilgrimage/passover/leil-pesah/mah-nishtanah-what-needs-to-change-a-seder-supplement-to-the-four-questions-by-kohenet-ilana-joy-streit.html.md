@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 A playful, powerful, passionate reading for Passover seder or any time.
 
 Can be chanted to the traditional Ashkenazi lilt for the Four Questions. <a href="https://soundcloud.com/swfsnyc/ma-nishtana-1">Melody here</a>.
@@ -20,7 +20,7 @@ Can be chanted to the traditional Ashkenazi lilt for the Four Questions. <a href
 <table style="margin-left: auto;margin-right: auto;">
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <u><em>Mah Nishtanah</em>: what needs to change</em></u>
 
 What needs to change

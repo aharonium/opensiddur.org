@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָנָא אֵלֵךְ מֵרוּחֶךָ           
 אָֽנָא מִפָּנֶֽיךָ אֶבְרַח
 אֶבְרַח מִמְּךָ אֵלֶֽיךָ           
@@ -19,7 +19,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 How can I escape your essence?
 How shall I flee before your Presence?[foot]cf. Psalms 139:7.[/foot]&nbsp; 
 When I flee, I move toward you; 
@@ -28,7 +28,7 @@ In the shadow of your hand, I rise up in delight.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יָהּ כְּבוֹדְךָ עוֹלָם מָלֵא        
 אַתָּה הָאֵל־עֽוֹשֵׂה־פֶּֽלֶא
 אִם לַָשָּׁמַיִם אֶעֱלֶה           
@@ -36,7 +36,7 @@ In the shadow of your hand, I rise up in delight.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Yahh, your <em>kavod</em> fills the world
 You are the one who perform wonders.
 If I rise up to the heavens
@@ -45,7 +45,7 @@ There I find your shining light.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שַׁחַק לֹא יְכַלְכֶּלְךָ            
 וְאֶֽרֶץ לֹא תְכִילֶֽךָ
 מִי יְמַלֵּל רֹב גָּדְלְךָ          
@@ -53,7 +53,7 @@ There I find your shining light.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 The heavens cannot contain you
 Nor the Earth hold your essence.
 Who can proclaim your mighty acts? 
@@ -63,7 +63,7 @@ No sound could capture your might.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רְקִיעֵי רוּם הֵם כִּסְאֲךָ      
 וְאֶֽרֶץ הֲדוֹם רַגְלֶֽךָ
 גָּדוֹל שִׁמְךָ וְהֵן לְךָ            
@@ -71,7 +71,7 @@ No sound could capture your might.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 The highest firmament is your throne
 And the earth your footstool
 Yet your name is a vast array,
@@ -80,7 +80,7 @@ All directions and every height.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֶסַּק שָׁמַֽיִם שָׁם אוֹרְךָ     
 אַצִּיעָה שְׁאוֹל הִנֶּֽךָ
 אַֽחֲרִית יָם גַּם שָׁם יָדְךָ   
@@ -88,7 +88,7 @@ All directions and every height.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 I ascend to the heavens; there is your light, 
 I descend below and I am before you. 
 Your hand is found beyond the farthest sea, 
@@ -97,7 +97,7 @@ You take me without trouble or plight.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לָכֵן אֵין לִי מָנוֹס בִּלְתָּךְ      
 וּבְחֶמְלָתָךְ אָבוֹא בֵיתָךְ
 וְאֶקַּח מָגֵן תּוֹרָתָךְ            
@@ -105,7 +105,7 @@ You take me without trouble or plight.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 I have no refuge but you. 
 Through your compassion I enter Your house. 
 Your teachings are my protection; 

@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 יְהִי רָצוֹן מִלּפָנֶיךָ, 
 יהוה אֱלֹהֵינוּ וֶאֱלֹהַי אֲבוֹתֵינוּ (וְאִמּוֹתֵינוּ), 
 שֶׁתִּשְׁמֹר אֶת כׇּל תַּלְמִידֵי עַם יִשְׂרָאֵל 
@@ -23,7 +23,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 וּפְתַח אֶת נִשְׁמוֹתֵיהֶם בְּחַסְדֵּךְ. 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 May it be Your will, 
 YHVH (haShem) our God and God of our ancestors,
 that You guard all the people Israel’s students 
@@ -37,7 +37,7 @@ and open their souls with Your lovingkindness.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָנָּא, שׁוֹמֵר יִשְׂרָאֵל, 
 שְׁמֹר אֹתָם בַּדֶּרֶךְ, 
 וּרְעֵה אֹתָם כְּשֶׁהֵם יָגוּרוּ שָׁם, 
@@ -51,7 +51,7 @@ and open their souls with Your lovingkindness.
 וְנֹאמַר: אָמֵן.
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 O Guardian of Israel, 
 guard them on the way, 
 and shepherd them while they reside there, 

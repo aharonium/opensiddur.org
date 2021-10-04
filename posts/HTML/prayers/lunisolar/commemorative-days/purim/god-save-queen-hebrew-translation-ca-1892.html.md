@@ -11,14 +11,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Translation (Hebrew)</th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֵל שְׁמֹר מַלְכָּתֵנוּ,
 לְעוֹלָם תְּחִי מַלְכָּתֵנוּ,
 אֵל שְׁמֹר הַמַּלְכָּה,
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 El save our gracious Queen
 Long live our noble Queen,
 El save the Queen:
@@ -27,7 +27,7 @@ El save the Queen:
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שְׁלַח שָׁלוֹם בִּנְוֶהָ,
 בְּעֹז וְהָדָר עַטְּרֵֶהָ,
 לָעַד הַמְשִׁילֶהָ,
@@ -35,7 +35,7 @@ El save the Queen:
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Send her victorious,
 Happy and glorious,
 Long to reign over us:
@@ -45,14 +45,14 @@ El save the Queen.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָנָּא אֱלֹהִים קוּמָה,
 בְּאוֹיְבֵיהָ תְּנָה מְהוּמָה,
 וְהַפִּילֵימוֹ,
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Please, Elohim, arise,
 Scatter thine enemies,
 And make them fall:
@@ -61,7 +61,7 @@ And make them fall:
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הָפֵר תַּחְכֻּלֹתָם,
 סַכֶּל־נָא עֲצָתָם,
 לְעַמָהּ תֵּן מִשְׁאֲלֹתָם,
@@ -69,7 +69,7 @@ And make them fall:
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Confound their politics,
 Frustrate their knavish tricks,
 On thee our hopes we fix:
@@ -79,14 +79,14 @@ El save us all.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִבְחַר בִּרְכָתְךָ אֵל!
 לְהָרִיק עָלֶיהָ הוֹאֵל,
 לָעַד תִּמְלוֹךְ!
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Thy choicest gifts in store,
 On her be pleased to pour;
 Long may she reign:
@@ -95,7 +95,7 @@ Long may she reign:
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 תָּגֵן בְּעַד חֻקֵּינוּ,
 אָז יִשְׂמַח לִבֵּנוּ,
 וְנָשִׁיר בְּכׇל מְאֹדֵנוּ,
@@ -103,7 +103,7 @@ Long may she reign:
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May she defend our laws,
 And ever give us cause
 To sing with heart and voice

@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size:1.2em;">
+<div class="english" lang="en" style="font-size:1.2em;">
 Guest Chaplain: Rabbi Avraham Hakohen "Romi" Cohn, Congregation Ohr Yechezkel, Brooklyn, New York
 Sponsor: Rep. Max Rose (D-NY)
 Date of Prayer: 01/29/2020
@@ -41,22 +41,22 @@ Rabbi Cohn is a model and example for all of us to follow, and I thank him for h
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <h3>Opening Prayer Given by the Guest Chaplain:</h3>
 </div></td></tr>
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Almighty, open my lips. 
 May the words of my mouth declare Your praise.[foot]Psalms 51:17[/foot]&nbsp;
 With profound humility and deep appreciation, 
@@ -65,12 +65,12 @@ I stand before You.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 As a young boy of 13 years, 
 I was condemned to be dead, 
 to be murdered along with my entire family, 
@@ -87,12 +87,12 @@ where I found a safe and new home.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 As I stand before you 
 on the 75th anniversary of the liberation 
 of the Auschwitz death camp, 
@@ -106,12 +106,12 @@ who has granted me life and sustenance to this day.[foot]cf. the "sheheḥiyanu"
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May You, Lord, accept with mercy 
 our prayers for our country;
 for our President, Donald Trump; 
@@ -122,12 +122,12 @@ and all his noble colleagues.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 O Mighty King of the Universe, 
 as Your humble servant, 
 I bestow this blessing upon Your children. 

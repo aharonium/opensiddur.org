@@ -11,13 +11,13 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 מִי שֶׁשָּׁכְנָה עִם שָׂרָה אִמֵּנוּ‏ 
 אַחֲרֵי בָּלְתָה,
 הִיא תִּשְׁכֹּן עִמָּנוּ.
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 May the Presence that dwelt with Sarah the Matriarch 
 after her withering[foot]Genesis 18:12[/foot]&nbsp;
 dwell with us.
@@ -25,13 +25,13 @@ dwell with us.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִי שֶׁשָּׁכְנָה עִם רִבְקָה 
 כְּשֶׁבָּנֶיהָ הִתְרוֹצְצוּ בְּבִטְנָהּ,
 הִיא תִּשְׁכֹּן עִמָּנוּ.
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 May the Presence that dwelt with Rivkah 
 as her children struggled in her womb[foot]Genesis 25:21-22[/foot]&nbsp;
 dwell with us.
@@ -39,13 +39,13 @@ dwell with us.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִי שֶׁשָּׁכְנָה עִם רָחֵל 
 בַּעֲקָרוּתָהּ,
 הִיא תִּשְׁכֹּן עִמָּנוּ.
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 May the Presence that dwelt with Raḥel 
 in her barrenness[foot]Genesis 29:31[/foot]&nbsp;
 dwell with us.
@@ -53,13 +53,13 @@ dwell with us.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִי שֶׁשָּׁכְנָה עִם לֵאָה 
 בְּעׇנְיָהּ,
 הִיא תִּשְׁכֹּן עִמָּנוּ.
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 May the Presence that dwelt with Leah 
 in her misery[foot]Genesis 29:32[/foot]&nbsp;
 dwell with us.
@@ -67,13 +67,13 @@ dwell with us.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִי שֶׁשָּׁכְנָה עִם תָּמָר 
 בְּפֶתַח עֵינַיִם אֲשֶׁר עַל־דֶּרֶךְ תִּמְנָתָה,
 הִיא תִּשְׁכֹּן עִמָּנוּ.
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 May the Presence that dwelt with Tamar 
 at the crossroad on the way to Timnah[foot]Genesis 38:14[/foot]&nbsp;
 dwell with us.
@@ -81,13 +81,13 @@ dwell with us.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִי שֶׁשָּׁכְנָה עִם שִׁפְרָה וְעִם פּוּעָה 
 כְּשֶׁקָּרָא לָהֶן פַּרְעֹה,
 הִיא תִּשְׁכֹּן עִמָּנוּ.
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 May the Presence that dwelt with Shiphrah and Puah 
 when Pharaoh called upon them[foot]Exodus 1:18[/foot]&nbsp;
 dwell with us.
@@ -95,13 +95,13 @@ dwell with us.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִי שֶׁשָּׁכְנָה עִם יוֹכֶבֶד 
 עַל־שְׂפַת־הַיְאֹֽר,
 הִיא תִּשְׁכֹּן עִמָּנוּ.
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 May the Presence that dwelt with Yokheved 
 upon the banks of the Nile[foot]Exodus 2:3[/foot]&nbsp;
 dwell with us.
@@ -109,13 +109,13 @@ dwell with us.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִי שֶׁשָּׁכְנָה עִם מִרְיָם 
 עַל־יַד בַּאֲרָהּ,
 הִיא תִּשְׁכֹּן עִמָּנוּ.
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 May the Presence that dwelt with Miriam 
 by her well[foot]Talmud, Taanit 9a[/foot]&nbsp;
 dwell with us.
@@ -123,13 +123,13 @@ dwell with us.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִי שֶׁשָּׁכְנָה עִם בְּנוֹת צְלׇפְחָד 
 כְּשֶׁאֲבִיהֶן מֵת בַּמִּדְבָּר,
 הִיא תִּשְׁכֹּן עִמָּנוּ.
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 May the Presence that dwelt with the daughters of Tzelofeḥad[foot]Numbers 27:3[/foot]&nbsp;
 when their father died in the wilderness 
 dwell with us.
@@ -137,13 +137,13 @@ dwell with us.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִי שֶׁשָּׁכְנָה עִם דְּבוֹרָה 
 בִּישִׁיבָתָהּ תַּחַת תׇּמְרֶיהָ,
 הִיא תִּשְׁכֹּן עִמָּנוּ.
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 May the Presence that dwelt with Devorah 
 at her seat under her palm tree[foot]Judges 4:5[/foot]&nbsp;
 dwell with us.
@@ -151,13 +151,13 @@ dwell with us.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִי שֶׁשָּׁכְנָה עִם רוּת 
 בְּבֵית־לֶחֶם יְהוּדָה,
 הִיא תִּשְׁכֹּן עִמָּנוּ.
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 May the Presence that dwelt with Ruth
  in Bethlehem in Judah[foot]Ruth 4:11[/foot]&nbsp;
 dwell with us.
@@ -165,13 +165,13 @@ dwell with us.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִי שֶׁשָּׁכְנָה עִם חַנָּה 
 בְּהֵיכַל שִׁלֹה,
 הִיא תִּשְׁכֹּן עִמָּנוּ.
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 May the Presence that dwelt with Ḥannah
  in the temple of Shiloh[foot]I Samuel 1[/foot]&nbsp;
 dwell with us.
@@ -179,13 +179,13 @@ dwell with us.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִי שֶׁשָּׁכְנָה עִם אֲבִיגַיִל 
 כְּשֶׁנָּפְלָה עַל־פָּנֶיהָ לְאַפֵּי דָוִד,
 הִיא תִּשְׁכֹּן עִמָּנוּ.
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 May the Presence that dwelt with Avigail
  when she fell on her face before David’s wrath[foot]I Samuel 25:23[/foot]&nbsp;
 dwell with us.
@@ -193,13 +193,13 @@ dwell with us.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִי שֶׁשָּׁכְנָה עִם אִשָּׁה הַחֲכָמָה 
 בְּאָבֵל בֵּית־מֲעַכָה,
 הִיא תִּשְׁכֹּן עִמָּנוּ.
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 May the Presence that dwelt with the wise woman
  in Abel-Beth-Maacah[foot]II Samuel 20:16-22[/foot]&nbsp;
 dwell with us.
@@ -207,13 +207,13 @@ dwell with us.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִי שֶׁשָׁכְנָה עִם הַשּׁוּנַמִּית 
 כְּשֶׁנַּעֲרָהּ‏ מֻשְׁכָּב עַל־הַמִּטָּה,
 הִיא תִּשְׁכֹּן עִמָּנוּ.
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 May the Presence that dwelt with the Shunammite woman
  as her lad lay upon the couch[foot]II Kings 4:32[/foot]&nbsp;
 dwell with us.
@@ -221,13 +221,13 @@ dwell with us.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִי שֶׁשָׁכְנָה עִם חֻלְדָּה 
 בִּמְצִיאַת סֵפֶר הַתּוֹרָה,
 הִיא תִּשְׁכֹּן עִמָּנוּ.
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 May the Presence that dwelt with Ḥuldah
  when the Torah scroll was found[foot]II Kings 22:8-20[/foot]&nbsp;
 dwell with us.
@@ -235,13 +235,13 @@ dwell with us.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִי שֶׁשָׁכְנָה עִם אֶסְתֵּר 
 בְּשׁוּשַׁן הַבִּירָה,
 הִיא תִּשְׁכֹּן עִמָּנוּ.
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 May the Presence that dwelt with Esther
  in Shushan the palace[foot]Esther 5:17[/foot]&nbsp;
 dwell with us.
@@ -249,12 +249,12 @@ dwell with us.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִי שֶׁשָׁכְנָה עִם כׇּל הַצַּדִּיקוֹת וְהַחֲסִידוֹת וְהַתְּמִימוֹת וְהַיְּשָׁרוֹת,
 הִיא תִּשְׁכֹּן עִמָּנוּ.
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 May the Presence that dwelt with all righteous, loyal, pure, and upright women 
 dwell with us.
 </div></td>

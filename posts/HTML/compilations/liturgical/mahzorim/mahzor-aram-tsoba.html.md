@@ -9,7 +9,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 DOWNLOAD <a href="https://opensiddur.org/wp-content/uploads/2013/01/Mahzor-Aram-Tsoba-1560-transcription-courtesy-of-the-Sephardic-Pizmonim-Project.odt">ODT</a> | <a href="https://opensiddur.org/wp-content/uploads/2013/01/Mahzor-Aram-Tsoba-1560-transcription-courtesy-of-the-Sephardic-Pizmonim-Project.pdf">PDF</a>
 
-<div class="commentary">
+<div class="commentary" lang="he">
 
 <h2>זמירות</h2>
 <strong>ואלה דברי דויד האחרונים</strong> נאום דויד בן ישי ונאום הגבר הוקם על משיח אלהי יעקב ונעים זמירות ישראל׃

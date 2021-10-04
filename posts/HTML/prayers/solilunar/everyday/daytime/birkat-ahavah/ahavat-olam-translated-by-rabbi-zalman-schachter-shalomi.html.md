@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אַהֲבַת עוֹלָם 
 אֲהַבְתָּֽנוּ
 יְהֹוָה אֱלֹהֵֽינוּ
@@ -20,7 +20,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 From ever
 You have loved us into life.
 Yah — our God, 
@@ -30,7 +30,7 @@ And abundance.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָבִֽינוּ מַלְכֵּֽנוּ
 בַּעֲבוּר שִׁמְךָ הַגָּדוֹל
 &nbsp;
@@ -44,7 +44,7 @@ And abundance.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Holy One!
 For the sake of Your plan,
 For Your honor,
@@ -59,7 +59,7 @@ In the same way.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָבִֽינוּ אָב הָרַחֲמָן
 הַמְרַחֵם
 רַחֵם עָלֵֽינוּ
@@ -72,7 +72,7 @@ In the same way.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Our God, kind Parent,
 We live in the embrace
 Of Your caring.
@@ -86,7 +86,7 @@ And with so much love.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְהָאֵר עֵינֵֽינוּ 
 בְּתוֹרָתֶֽךָ
 וְדַבֵּק לִבֵּֽנוּ
@@ -96,7 +96,7 @@ And with so much love.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 When we study Torah,
 May we see clearly
 What is meant for us to know.
@@ -107,13 +107,13 @@ Sit harmonious in our heart.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לְאַהֲבָה וּלְיִרְאָה 
 אֶת שְׁמֶֽךָ,
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Focus all our hearts’ longing
 To that moment,
 When we stand in Your Presence,
@@ -122,25 +122,25 @@ In both awe and adoration.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לְמַֽעַן לֹא נֵבוֹשׁ וְלֹא נִכָּלֵם וְלֹא נִכָּשֵׁל לְעוֹלָם וָעֶד,
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May we never have to be Apologetic for our love for You.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כִּי בְשֵׁם קָדְשְׁךָ הַגָּדוֹל הַגִּבּוֹר וְהַנּוֹרָא בָּטָֽחְנוּ
 נָגִֽילָה וְנִשְׂמְחָה 
 בִּישׁוּעָתֶֽךָ:
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Trusting You,
 We are happy to see
 Your beneficent plan unfolding.
@@ -148,14 +148,14 @@ Your beneficent plan unfolding.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְרַחֲמֶֽיךָ יְהֹוָה אֶלֹהֵֽינוּ
 וַחֲסָדֶֽיךָ הָרַבִּים
 אַל יַעַזְבֽוּנוּ נֶֽצַח סֶֽלָה וָעֶד:
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May Your 
 Kindness and compassion,
 Be available to us.
@@ -163,7 +163,7 @@ Be available to us.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מַהֵר וְהָבֵא עָלֵֽינוּ
 בְּרָכָה וְשָׁלוֹם מְהֵרָה
 מֵאַרְבַּע כַּנְפוֹת 
@@ -175,7 +175,7 @@ Be available to us.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Please hurry.
 Bring blessing and peace to us.
 Gather us, so we not be scattered
@@ -188,14 +188,14 @@ So that we feel at home in it.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כִּי אֵל פּוֹעֵל יְשׁוּעוֹת אָֽתָּה
 וּבָֽנוּ בָחַֽרְתָּ 
 מִכָּל עַם וְלָשׁוֹן
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 You can do this for us.
 You have assigned us
 To do our special work in life
@@ -203,7 +203,7 @@ To do our special work in life
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְקֵרַבְתָּֽנוּ מַלְכֵּֽנוּ
 לְשִׁמְךָ הַגָּדוֹל סֶֽלָה בֶּאֱמֶת בְּאַהֲבָה
 לְהוֹדוֹת לְךָ
@@ -211,7 +211,7 @@ To do our special work in life
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 You brought us close to You.
 We are grateful.
 We hold You special.
@@ -220,25 +220,25 @@ And are filled with love for You
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה יְהֹוָה
 הַבּוֹחֵר בְּעַמּוֹ יִשְׂרָאֵל בְּאַהֲבָה:
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <strong>Barukh attah Yah</strong>
 Who relates to us in Love.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָמֵן
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Amen
 </div></td></tr>
 </tbody></table>

@@ -8,8 +8,9 @@ For attribution and license, please consult the following URL: <a href="http://o
 <hr />
 
 <strong>DOWNLOAD:</strong> 
-<a href="https://archive.org/download/rosh-hashanah-torah-readings-with-english-transtropilation-len-fellman-2020/Rosh%20Hashanah%20Torah%20Readings%20%28Genesis%2021v1-34%20%26%2022v1-24%29%20with%20English%20transtropilation%20%28Len%20Fellman%202020%29.pdf">PDF</a> or <a href="https://archive.org/download/rosh-hashanah-torah-readings-with-english-transtropilation-len-fellman-2020/Rosh%20Hashanah%20Torah%20Readings%20%28Genesis%2021v1-34%20%26%2022v1-24%29%20with%20English%20transtropilation%20%28Len%20Fellman%202020%29.odt">ODT</a> w/ Hebrew 
-<a href="https://archive.org/download/rosh-hashanah-torah-readings-with-english-transtropilation-len-fellman-2020/Rosh%20Hashanah%20Torah%20Readings%20%28Genesis%2021v1-34%20%26%2022v1-24%29%20with%20English%20transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.pdf">PDF</a> or <a href="https://archive.org/download/rosh-hashanah-torah-readings-with-english-transtropilation-len-fellman-2020/Rosh%20Hashanah%20Torah%20Readings%20%28Genesis%2021v1-34%20%26%2022v1-24%29%20with%20English%20transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.odt">ODT</a> just English
+
+<a href="https://archive.org/download/rosh-hashanah-torah-readings-with-english-transtropilation-len-fellman-2020/Rosh%20Hashanah%20Torah%20Readings%20%28Genesis%2021v1-34%20%26%2022v1-24%29%20with%20English%20transtropilation%20%28Len%20Fellman%202020%29.pdf">PDF</a> | <a href="https://archive.org/download/rosh-hashanah-torah-readings-with-english-transtropilation-len-fellman-2020/Rosh%20Hashanah%20Torah%20Readings%20%28Genesis%2021v1-34%20%26%2022v1-24%29%20with%20English%20transtropilation%20%28Len%20Fellman%202020%29.odt">ODT</a> (with Hebrew)
+<a href="https://archive.org/download/rosh-hashanah-torah-readings-with-english-transtropilation-len-fellman-2020/Rosh%20Hashanah%20Torah%20Readings%20%28Genesis%2021v1-34%20%26%2022v1-24%29%20with%20English%20transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.pdf">PDF</a> | <a href="https://archive.org/download/rosh-hashanah-torah-readings-with-english-transtropilation-len-fellman-2020/Rosh%20Hashanah%20Torah%20Readings%20%28Genesis%2021v1-34%20%26%2022v1-24%29%20with%20English%20transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.odt">ODT</a> (sans Hebrew)
 
 <hr />
 
@@ -21,8 +22,8 @@ This is an English translation of the Torah readings for Rosh Hashanah, transtro
 
 <h3>Recordings</h3>
 
-<div class="english" style="font-size: 1.2em;">
-Please visit <a href="https://archive.org/details/rosh-hashanah-torah-readings-with-english-transtropilation-len-fellman-2020">the Internet Archive </a>for audio recordings of Len Fellman chanting the five aliyot and maftir for both days, in English and Hebrew.
+<div class="english" lang="en" style="font-size: 1.2em;">
+Please visit <a href="https://archive.org/details/rosh-hashanah-torah-readings-with-english-transtropilation-audio-len-fellman-2019">the Internet Archive </a>for audio recordings of Len Fellman chanting the five aliyot and maftir for both days, in English and Hebrew.
 </div>
 
 &nbsp;

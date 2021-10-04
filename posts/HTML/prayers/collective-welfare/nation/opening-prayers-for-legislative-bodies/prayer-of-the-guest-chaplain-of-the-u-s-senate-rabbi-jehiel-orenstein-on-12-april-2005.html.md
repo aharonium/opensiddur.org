@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size:1.2em;">
+<div class="english" lang="en" style="font-size:1.2em;">
 Guest Chaplain: Rabbi Jehiel Orenstein,  Congregation Beth El, South Orange-Maplewood, New Jersey
 Sponsor: 
 Date of Prayer: 2005-04-12
@@ -42,22 +42,22 @@ Rabbi Orenstein built a strong synagogue during his 35 years at Beth EI, and has
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <h3>Opening Prayer Given by the Guest Chaplain:</h3>
 </div></td></tr>
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Our G-d and G-d of our ancestors, 
 who shall stand in G-d's holy place?[foot]Psalms 24:3 part.[/foot] 
 The Psalmist answers, 
@@ -73,12 +73,12 @@ and the Creator of the laws of the universe.
 </div></td></tr>
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And yet, 
 the Psalmist gives us hope. 
 If you want our law to reflect ultimate law, 
@@ -92,12 +92,12 @@ ethical.
 </div></td></tr>
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And then 
 the Psalmist asks us to remember our vow, 
 a vow given to the Ultimate Legislator 
@@ -108,12 +108,12 @@ the pressure.
 </div></td></tr>
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 On this Tuesday in April 2005, 
 may there be a sense of spring 
 and renewal. 
@@ -123,12 +123,12 @@ and the law of the Creator of the universe.
 </div></td></tr>
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Rabbi Akivah taught, 
 "The greatest of G-d's law is, 
 'Love thy neighbor as thyself.' (Leviticus 19:18)."[foot]Jerusalem Talmud Nedarim 30b.[/foot]&nbsp; 

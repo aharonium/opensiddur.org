@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Transliteration</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">יָ֒</span>צַר הָאֵל אֶת הָעוֹלָם׃
  שֵׁשֶׁת יָמִים כִּלָּה כֻלָּם׃
 יוֹם שְׁבִיעִי מִכְּלָלָם׃
@@ -19,7 +19,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 Yatsar ha’El et ha`olam:
 Sheshet yamim killa chullam:
 Yom shevi`i mikkelalam:
@@ -27,7 +27,7 @@ Yom shevi`i mikkelalam:
 </span></div></td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 God created the world.
 In six days, He finished all.
 The seventh day from all of them--
@@ -36,7 +36,7 @@ He declared it holy and He blessed it.
 
 
 <tr><td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">עַ֒</span>ל כֵּן צִוָּה לִבְנֵי עַמּוֹ׃
 לִשְׁבּוֹת בַּיּוֹם הַהוּא לִשְׁמוֹ׃
 וּלְהִשְׁתַּחֲווֹת אֶל הֲדוֹמוֹ׃
@@ -44,7 +44,7 @@ He declared it holy and He blessed it.
 </span></div></td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 `Al ken tsivva livné `ammo:
 Lishbot bayyom hahu lishmo:
 Ulhishtaḥavot el hadomo:
@@ -52,7 +52,7 @@ Ulhishtaḥavot el hadomo:
 </span></div></td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 Therefore, He commanded His people,
 To cease work on this day for the sake of His name,
 And to bow down toward His footstool,
@@ -61,7 +61,7 @@ Praise Him with praises!
 
 
 <tr><td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">קִ֒</span>רְאוּ שִׁירִים בַּנְּעִימִים׃
 וּשְׁתוּ יֵינוֹת עִם מַטְעִימִים׃
 יַעַן זֶה יוֹם יוֹם תַּעֲצוּמִים׃
@@ -69,7 +69,7 @@ Praise Him with praises!
 </span></div></td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 Ḳir’u shirim banne`imim:
 Ushtu yenot `im mat`imim:
 Ya`an zé yom yom ta`atsumim:
@@ -77,7 +77,7 @@ Ki ḳadosh hu ḳaddeshuhu:
 </span></div></td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 Sing songs pleasantly,
 And drink wines with savory food,
 Because it is a mighty day.
@@ -86,7 +86,7 @@ It is a holy day – declare it holy.
 
 
 <tr><td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">בֵּ֒</span>רַךְ הָאֵל אֶת הַשַּׁבָּת׃
 יַעַן כִּי בוֹ בְּיוֹם שָׁבַת׃
 מוֹרֶה אֶל קַדְמוּתוֹ שַׁבָּת׃
@@ -94,7 +94,7 @@ It is a holy day – declare it holy.
 </span></div></td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 Berach ha’El et hash-shabbat:
 Ya`an ki vo beyom shavat:
 Moré el ḳadmuto shabbat:
@@ -102,7 +102,7 @@ Ki eḥad hu yaḥaduhu:
 </span></div></td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 God blessed the Shabbat,
 For on this day, He ceased work.
 Shabbat indicates His ancientness.

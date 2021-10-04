@@ -9,7 +9,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 As many of you know, there is a custom to indicate the Hebrew year with a verse (or part of a verse) that is equal to that year in gematriya. Such words or phrases are called chronograms. The practice of indicating the year by a biblical phrase was often followed in traditional sefarim, on tombstones, and more recently has appeared in written correspondence and email. It’s a nice way to give added meaning to the current year. Here are some biblical phrases that equal תשע"ט 779.
 
-<div class="liturgy">
+<div class="liturgy" lang="he">
 וַיֹּ֣אמֶר מֹשֶׁ֑ה קוּמָ֣ה׀ יְקֹוָ֗ק (במדבר י:לה) Numbers 10:35
 
 וַיּוֹצִֽאֲךָ֧ בְּפָנָ֛יו בְּכֹח֥וֹ הַגָּדֹ֖ל מִמִּצְרָֽיִם (דברים ד:לז) Deut 4:37

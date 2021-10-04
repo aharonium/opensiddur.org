@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size:1.2em;">
+<div class="english" lang="en" style="font-size:1.2em;">
 Guest Chaplain: Rabbi Shea Harlig, Chabad of Southern Nevada
 Sponsor: Senator Harry Reid, (D-NV)
 Date of Prayer: 06/25/2009
@@ -31,22 +31,22 @@ So thank you, Rabbi Harlig, for joining us in the Senate today.
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <h3>Opening Prayer Given by the Guest Chaplain:</h3>
 </div></td></tr>
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Almighty G-d, 
 the Members of this prestigious body, the U.S. Senate, 
 convene here in the spirit of one of the seven Noahide Laws[foot]Sanhedrin 56a; cf. Tosefta Avodah Zarah 8:4 and Genesis Rabbah 34:8. Six items were commanded to Adam: concerning idolatry, blasphemy, bloodshed, illicit sexuality, theft, and laws…God added to Noah, the law of not eating from the flesh of a live animal.” (Maimonides, Laws of Kings 9:1). The impetus behind sharing the sheva mitsvot in the context of ḤaBaD Lubavitch originates with the following teaching of Rabbi Menachem Mendel Schneerson: "We must do everything possible to ensure that the seven Noahide laws are observed. If this can be accomplished through force or through other kinder and more peaceful means through explaining to non-Jews that they should accept God’s wishes [we should do so]…Anyone who is able to influence a non-Jew in any way to keep the seven commandments is obligated to do so, since that is what God commanded Moses our teacher," (“Sheva Mitzvot Shel Benai Noach,” Hapardes 59:9 7-11, 5745).[/foot]&nbsp; 
@@ -70,12 +70,12 @@ for all."
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Grant us, Almighty G-d, 
 that those assembled here today 
 be aware of Your presence 
@@ -88,12 +88,12 @@ and good fellowship.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 On this 25th day of June, 2009, 
 which corresponds to the third day of the Hebrew month of Tammuz, 
 we are 15 years--to the day--
@@ -105,12 +105,12 @@ as a "Nation of Kindness."[foot]lit. <em>medina shel ḥesed</em>.[/foot]
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 I beseech You, Almighty G-d, 
 to grant renewed strength and fortitude 
 to all who protect, 
@@ -125,34 +125,34 @@ be realized speedily in our days.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 G-d bless this hallowed body. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 G-d bless our troops who stand in defense of this great land. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 G-d bless the United States of America.
 </div></td></tr>
 </tbody></table>

@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">English (translation)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יהי רצון מלפניך, 
 ה׳ אלהי ואלהי אימותי ואבותי, 
 שיהיו הבחירות היום בחירות של צדק ואמת. 
@@ -19,7 +19,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May it be your will,
 YHVH our elo'ah, and elo'ah of our mothers and fathers,
 that the election today be an election of justice and truth.
@@ -28,7 +28,7 @@ that the election today be an election of justice and truth.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אנא ה׳, 
 שלא אבוש ולא אכלם ולא אכשל בבחירתי, 
 ואדע ואזכור כי כשם שאני מצביע/ה לפי צו מצפוני 
@@ -37,7 +37,7 @@ that the election today be an election of justice and truth.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Please YHVH,
 let me not be ashamed or embarrassed or fail in my choice
 and acknowledge and remember that just as I vote according to my conscience
@@ -47,7 +47,7 @@ this is how all the inhabitants of your country vote.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שכינה מקור חיי, 
 תני בי הכוח לקבל את תוצאות הבחירות 
 בלב שמח ובנפש חפצה 
@@ -58,7 +58,7 @@ this is how all the inhabitants of your country vote.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Shekhina source of Life,
 Give me the strength to accept the election results
 with a happy heart and a willing soul 
@@ -70,7 +70,7 @@ and I am not free to desist from it.[foot]Cf. Rabbi Tarfon's statement in Pirqei
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שלח אורך ואמתך לכל הנבחרות והנבחרים היום 
 למען ילכו בדרך הצדק החופש והיושר. 
 שימי שלום בארץ ושמחת עולם לכל יושביה. 
@@ -83,7 +83,7 @@ and I am not free to desist from it.[foot]Cf. Rabbi Tarfon's statement in Pirqei
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Send your light and truth to every candidate today
 For the sake of justice, freedom and integrity.
 Establish peace in the land and a joyous world for all its inhabitants.
@@ -98,6 +98,6 @@ Neither shall they learn war any more."[foot]Isaiah 2:4[/foot]
 
 <hr />
 
-<div class="hebrew">כוונה ליום הבחירות יכולה להיאמר בכל שלב של יום הבחירות עצמו. בעיניי היא מתאימה בעיקר כחלק מתפילת שחרית של אותו היום או רגע לפני הכניסה אל מאחורי הפרגוד. נכתב על ידי נועה מזור, סטודנטית לרבנות, והרבה המלווה של נוער תל״ם.‏</div>
+<div class="hebrew" lang="he">כוונה ליום הבחירות יכולה להיאמר בכל שלב של יום הבחירות עצמו. בעיניי היא מתאימה בעיקר כחלק מתפילת שחרית של אותו היום או רגע לפני הכניסה אל מאחורי הפרגוד. נכתב על ידי נועה מזור, סטודנטית לרבנות, והרבה המלווה של נוער תל״ם.‏</div>
 </body>
 </html>

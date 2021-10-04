@@ -11,58 +11,58 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Strange is our situation here upon earth. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Each of us comes for a short visit, not knowing why, yet sometimes seeming 
 to divine a purpose. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 From the standpoint of daily life, however, 
 there is one thing we do know: 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 That Man Is Here for the Sake of Other Men . . .
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Above all, for those upon whose smile and 
 well-being our own happiness depends, and also 
 for the countless unknown souls with whose 
@@ -71,12 +71,12 @@ fate we are connected by a bond of sympathy.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Many times a day I realize how much my own 
 outer and inner life is built upon the labors 
 of my fellow men, both living and dead, and 
@@ -88,7 +88,7 @@ and am still receiving.
 
 <hr />
 
-<div class="english" style="font-size: 1.2em";>
+<div class="english" lang="en" style="font-size: 1.2em";>
 "Man Is Here for the Sake of Others," a short excerpt from a longer essay by Albert Einstein, was included by Rabbi Morrison David Bial in his collection of supplemental prayers and texts for personal prayer and synagogue services: <em>An Offering of Prayer</em> (Temple Sinai of Summit, New Jersey, 1962). 
 
 The full text of Einstein's essay appeared under the title "What I Believe" in <em>Forum and Century</em> 84 (October 1930), no. 4, p. 193-194. David E. Row and Robert Schulman (in <em>Einstein on Politics</em> 2007, p. 226) note, "The text was reproduced several times under the title 'The World as I See It,' most notably in <em>Mein Weltbild</em> and <em>Ideas and Opinions</em>, and in 1932 the German League of Human Rights released a phonograph recording of Einstein reading a slightly variant version entitled 'Confession of Belief.'" 

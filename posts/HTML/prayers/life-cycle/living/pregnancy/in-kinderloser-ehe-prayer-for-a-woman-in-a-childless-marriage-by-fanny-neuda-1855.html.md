@@ -11,178 +11,178 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: left;">Source (German)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="50%">
-<div class="german"><span lang="de">
+<div class="german" lang="de">
 „Gott, gedenke unser.” (Ps. 115, 12.) 
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
-<div class="english">
-<span class="liturgy">יְהוָה זְכָרָנוּ יְבָרֵךְ <span class="citation">(תהלים קטו:יב)‏</span></span>
+<div class="english" lang="en">
+<span class="liturgy" lang="he">יְהוָה זְכָרָנוּ יְבָרֵךְ <span class="citation">(תהלים קטו:יב)‏</span></span>
 "YHVH who remembers us shall bless us." (Psalms 115:12 part)
 </span></div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="50%">
-<div class="german"><span lang="de">
+<div class="german" lang="de">
 Allwaltender! Alles, was in deinem großen Reiche lebt und webt, hast du derart geschaffen, daß es sich fortpflanze von Geschlecht zu Geschlecht, Eine das Andere zeugend. Alles stehet da im frohen Bewußtsein seiner erfüllten Bestimmung! 
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
-<div class="english">
+<div class="english" lang="en">
 All-Gracious God, you have created all that lives and moves in this great world that it may continue from generation to generation, all colored by the contented awareness of having fulfilled its duty.
 </span></div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="50%">
-<div class="german"><span lang="de">
+<div class="german" lang="de">
 Die Mutter drückt freudig ihr Kind ans Herz, unter Thränen lächelnd, vergißt sie all ihr Leid, und stark und muthig ringt sie mit dem Leben für Kindesliebe und Kindesfreude. – 
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
-<div class="english">
+<div class="english" lang="en">
 With joy a mother lifts her child to her breast. Smiling beneath her tears, she forgets all her worries, her pain, her life’s struggles, and is filled with the strength and courage to enjoy the pleasures of motherhood and to provide motherly love. 
 </span></div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="50%">
-<div class="german"><span lang="de">
+<div class="german" lang="de">
 Das wilde Thier, liebkosend seine Jungen, wird zahm, und hegt und trägt, und wahrt und nährt die junge Brut, und vertheidiget sie mit seinem Blute. – 
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
-<div class="english">
+<div class="english" lang="en">
 Even the wild beast, fondling its young, seems tame as it bears and protects, guards and nourishes its young, yet she would defend them with her own blood.
 </span></div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="50%">
-<div class="german"><span lang="de">
+<div class="german" lang="de">
 Und selbst die Pflanze schüttelt wohlgefällig in den Lüften ihr Haupt, und streuet ihren Samen weit umher, damit sie tausendfältig, von neuem verjüngt, dem Boden entkeime. 
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
-<div class="english">
+<div class="english" lang="en">
 Even the seed-bearing plant shakes its head in the air with confidence, broadcasting its seeds far and wide that they might spring up a thousandfold from the soil.
 </span></div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="50%">
-<div class="german"><span lang="de">
+<div class="german" lang="de">
 Doch ich – ich weiß nichts von diesen Freuden, 
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
-<div class="english">
+<div class="english" lang="en">
 But I—I do not know these joys.
 </span></div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="50%">
-<div class="german"><span lang="de">
+<div class="german" lang="de">
 ich kenne sie nur vom Sehen, nicht vom eigenen Fühlen und Empfinden; 
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
-<div class="english">
+<div class="english" lang="en">
 I know them only by sight, but alas not through my own experiences.
 </span></div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="50%">
-<div class="german"><span lang="de">
+<div class="german" lang="de">
 mich, Allvater hast du nicht würdig befunden der Mutterwonne, mir hast du das Glück versagt ein Kind zu besitzen, dies süße Band, das Vater- und Mutterherz in Eintracht und Liebe einigt, das mit seinem Athem schon die Zwietracht zwischen ihnen löscht, und den Frieden in ihr Haus einkehren macht, 
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
-<div class="english">
+<div class="english" lang="en">
 You, Almighty One, have not seen fit to grant me these maternal pleasures and have denied me the happiness of calling a child my own—refused me that sweet bond that unites the hearts of husband and wife in harmony and love and, with its very breath, extinguishes the flame of discord between them and causes peace to enter their home.
 </span></div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="50%">
-<div class="german"><span lang="de">
+<div class="german" lang="de">
 und wenn das Alter kommt, das kalte, blüthenlose, und ihr Herz zu verschrumpfen drohet, dann ist ihr Kind ein blüthenvolles Reis, in dessen warmem Leben, in dessen frischer Liebe sie von neuem sich verjüngen. 
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
-<div class="english">
+<div class="english" lang="en">
 When cold, blossomless old age arrives and their hearts could very well shrink, their child appears like a twig in full bloom, and with the fresh love and warm life their offspring brings, they grow young again.
 </span></div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="50%">
-<div class="german"><span lang="de">
+<div class="german" lang="de">
 Wie Hanna, die kinderlose, ihr schweres Leid, ihr Wünschen und ihr Hoffen vor dir ausgeschüttet im inbrünstigen Gebet; so stehe auch ich vor dir, mein Gott, in der Fülle meines Kummers und meines Grames, und wie ihr bitteres Weh, vor dich, Allvater, gelangt ist, und du die Unfruchtbare zur frohen, beglückten Mutter hast gemacht, so möge auch ich Gewährung und Erhörung bei dir finden! 
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
-<div class="english">
+<div class="english" lang="en">
 As Ḥannah, a childless wife, poured out her heavy sadness, her wishes and hopes in heartfelt prayer before you, so do I stand before you, O my God, in the fullness of my grief and sorrow, and pray that you may hear my petition as you once fulfilled her supplication. 
 </span></div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="50%">
-<div class="german"><span lang="de">
+<div class="german" lang="de">
 O laß auch meinen Lebensbaum aufgehen zur süßen Blüthe, mein leeres Haus sich füllen mit Kinderfreuden, mein eheliches Leben sich schmücken mit dem Kindersegen. 
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
-<div class="english">
+<div class="english" lang="en">
 Oh, may the tree of my life bear sweet blossoms, may my house be filled with the joy of children, may my conjugal life be adorned with the blessing of offspring.
 </span></div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="50%">
-<div class="german"><span lang="de">
+<div class="german" lang="de">
 Doch, wenn du in deiner unerforschlichen Allweisheit es beschlossen, meine Ehe kinderlos zu lassen, dann, Vater, flehe ich dich heiß und inbrünstig an, um Kraft und Muth, meine Wünsche deinem erhabenen Willen zu unterordnen; daß ich in Demuth und Ergebenheit deine Fügung und Schickung verehre, und mir stets bewußt bleibe, daß du nicht nur durch das, was du uns gewährst, sondern auch durch das, was du uns versagst, unser Heil begründest. 
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
-<div class="english">
+<div class="english" lang="en">
 But if you, in your inscrutable wisdom, have so ordained to leave me childless, then, O Source of Being, I longingly beg of you to grant me the strength and courage to reign my wishes to your exalted will, accept your judgment with humility, and always remember that your redemption comes not only from what you give us but also from what you refuse.
 </span></div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="50%">
-<div class="german"><span lang="de">
+<div class="german" lang="de">
 Laß mich stets eingedenk bleiben, dass, wenn du auch Mutterfreuden mir versagst, es noch gar mannigfache Freuden gibt, die du mir in deiner Allgüte schon gewährt hast und noch täglich neu gewährst; 
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
-<div class="english">
+<div class="english" lang="en">
 May I also always remember that although you may have denied me a mother’s joy, you have already granted me, in your endless goodness, countless pleasures and will surely grant me more each day.
 </span></div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="50%">
-<div class="german"><span lang="de">
+<div class="german" lang="de">
 laß mich stets eingedenk sein, dass, ob auch die Mutterpflichten meinem Leben abgehen, es darum doch kein zweckloses und verlornes sei, sondern viele andere, nicht minder heilige, nicht minder beglückende Pflichten und Bestimmungen an mein Dasein sich knüpfen: die Pflichten einer liebenden Gattin, die Pflichten einer sorgsamen Hausfrau, die Pflicht Mutter zu sein dem Dürftigen, dem Bedrängten, Mutter zu sein dem verlassenen Waisenkinde, – 
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
-<div class="english">
+<div class="english" lang="en">
 May I always remember that although a mother’s tasks are not among my duties, my life is not without its use and value, and that many other no less sacred and satisfying tasks are bound up in my existence: to be a loving wife, to be a mother to the needy and the oppressed, to be a mother to the lonely orphan.
 </span></div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="50%">
-<div class="german"><span lang="de">
+<div class="german" lang="de">
 damit ich mich mit aller meiner Kraft dieser erhabenen Aufgabe widme und darin meinen Trost und meine Freude suche und finde. 
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
-<div class="english">
+<div class="english" lang="en">
 May I devote all my energies to these sublime purposes and thereby seek and find my joy and comfort.
 </span></div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="50%">
-<div class="german"><span lang="de">
+<div class="german" lang="de">
 Also sei dein göttlicher Wille! <em>Amen</em>.
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
-<div class="english">
+<div class="english" lang="en">
 May this be your divine will. <em>Amen</em>.
 </span></div>
 </td></tr>

@@ -11,126 +11,126 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Initials (Hebrew)</th><th style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">English (translation)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 אב״ג 
 ית״ץ
 </span></div></td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֵל בָּרוּךְ גָּדוֹל 
 יִרְאֶה תּוֹם צִדְקוֹתָיו
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 Blessed great El --
 recognize his perfect righteousness.
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 קר״ע 
 שט״ן
 </span></div></td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 קָדוֹשׁ רַחוּם עֶלְיוֹן 
 שׁוּר טוֹהַר נַפְשׁוֹ
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 Compassionate holy Elyon --
 notice the purity of his soul.
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 נג״ד 
 יכ״ש
 </span></div></td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 נָא גָּדוֹל דָּגוּל 
 יְגַדֵל כֹּחַ שְׁמִירָתוֹ
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 Please, distinguished great One --
 increase the force that guards him.
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 בט״ר 
 צת״ג
 </span></div></td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בְּרַחֲמֵי טָהוֹר רַחֲמֵהוּ 
 צְדָקָה תָּמִיד גָמְלֵהוּ
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 Love him with the mercy of the pure One.
 Constantly reward him with righteousness.
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 חק״ב 
 טנ״ע
 </span></div></td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 חַי קָדוֹשׁ בָּרוּךְ 
 טְהַר נַפְשׁוֹ עֶלְיוֹן
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 Holy blessed Life -- 
 purify his soul, Elyon.
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 יג״ל 
 פז״ק
 </span></div></td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יָהּ גַלֵה לַבֵּן 
 פְּדוּתֶךָ זָךְ קָדוֹשׁ
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 Yah, reveal to the son 
 you redeemed -- holy, pure 
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 שק״ו 
 צי״ת
 </span></div></td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שׁוֹכֵן קֶדֶם וּמֵאָז 
 צֶדֶק יוֹשֶׁר תּוּמֶיךָ
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 abiding since primordial time:
 righteous, your integral innocence/simplicity.
 </div></td></tr>

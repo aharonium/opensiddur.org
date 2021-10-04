@@ -11,20 +11,20 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: left;">Source (German)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="german"><span lang="de">
+<div class="german" lang="de">
 Von Perle, der Frau des Berditschewers, ist ein Gebet überliefert.
 Wenn sie die Sabbatbrote knetete und buk, pflegte sie zu beten: 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 A prayer has come down to us from Perle, the rebbe of Berditchev's wife. 
 Whenever she kneaded and baked the loaves for Shabbat, she prayed: 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="german"><span lang="de">
+<div class="german" lang="de">
 Herr der Welt, 
 ich bitte dich, hilf mir, 
 dass mein Levi Jizchak, 
@@ -35,7 +35,7 @@ in dieser Stunde, da ich sie knete und backe!
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Lord of the world, 
 I beg you to help me, 
 that when my husband Levi Yitsḥak 

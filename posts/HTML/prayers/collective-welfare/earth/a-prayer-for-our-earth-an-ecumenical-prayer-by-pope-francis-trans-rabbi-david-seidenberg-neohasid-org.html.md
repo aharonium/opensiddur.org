@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 On May 24th, 2015, Pope Francis published an ecumenical prayer in his encyclical, <em><a href="http://w2.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html">Laudato Si': On Care for Our Common Home</a></em>, a prayer for our earth.
 
 Here's my Hebrew translation of Pope Francis' prayer. It turns out no one had translated it yet. I noticed that many of his themes translated quite directly into liturgical or Biblical Hebrew, but two things did not: the Pope's emphasis on beauty, which I think is just not a central theme in Biblical or rabbinic thought, and the way justice is approached (even though both traditions put a huge emphasis on justice). In order to compensate for this inequalities I've added some words here and there in the English to show where I've added to the Hebrew. Below, these words are italicized so you can pick them out.
@@ -22,19 +22,19 @@ Please emend to your satisfaction, but please do mention <a href="http://neohasi
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="33%">
-<div class="spanish"><span lang="es">
+<div class="spanish" lang="es">
 Oración por nuestra tierra
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="33%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 תְּפִילָת הָאָרֶץ
  </span></div>
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 A prayer for our earth
 </div>
 </td></tr>
@@ -42,7 +42,7 @@ A prayer for our earth
 
 <tr>
 <td style="vertical-align:top;" width="33%">
-<div class="spanish"><span lang="es">
+<div class="spanish" lang="es">
 Dios omnipotente,
 que estás presente en todo el universo
 y en la más pequeña de tus criaturas,
@@ -52,7 +52,7 @@ todo lo que existe,
 </td>
  
 <td style="vertical-align: top;" width="33%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 אֵל עֶליוֹן, הָאֵל הַגָּדוֹל וְהַגִּבּוֹר
 אַתָּה מְלֹא כׇּל הָאָרֶץ, וּכְבוֹדְךָ מָלֵא עוֹלָם
 וְכׇּל הַבְּרִיוֹת עַד הַקָּטָן שֶׁבַּהֶן
@@ -62,7 +62,7 @@ todo lo que existe,
 </td>
 
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 All-powerful God, <em>great and mighty</em>
 you are present in the whole universe
 and in the smallest of your creatures.
@@ -74,7 +74,7 @@ with your tenderness all that exists.
 
 <tr>
 <td style="vertical-align:top;" width="33%">
-<div class="spanish"><span lang="es">
+<div class="spanish" lang="es">
 derrama en nosotros la fuerza de tu amor
 para que cuidemos la vida y la belleza.
 Inúndanos de paz, 
@@ -84,7 +84,7 @@ sin dañar a nadie.
 </td>
 
 <td style="vertical-align: top;" width="33%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 שְׁפוֹךְ עָלֵינוּ כֹּחַ אַהֲבָתֶךָ
 לְמַעַן נִשְׁמֹר עָל הָחֲיִים וְנוֹעָם תִּפְאָרְתָם
 מִלֵאנוּ בְּשַׁלְוָה, וְשִׂים שָׁלוֹם עָלֵינוּ
@@ -94,7 +94,7 @@ sin dañar a nadie.
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 Pour out upon us the power of your love,
 that we may protect life and its beauty.
 Fill us with peace, <em>and settle peace upon us</em>
@@ -106,7 +106,7 @@ harming no one.
 
 <tr>
 <td style="vertical-align:top;" width="33%">
-<div class="spanish"><span lang="es">
+<div class="spanish" lang="es">
 Dios de los pobres,
 ayúdanos a rescatar
 a los abandonados 
@@ -116,7 +116,7 @@ que tanto valen a tus ojos.
 </td>
 
 <td style="vertical-align: top;" width="33%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 אֱלֹהֵי הַדַּלִּים וְהַגֵר
 וְהַיָּתוֹם וְהָאֲלְמָנָה
 תֵּן כֹּחַ בְּיָדֵינוֹ לְהַצִּיל הָעֲזוּבִים 
@@ -126,7 +126,7 @@ que tanto valen a tus ojos.
 </td>
 
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 O God of the poor, <em>and the stranger</em>
 <em>orphan, and widow,</em>
 help us to rescue the abandoned 
@@ -138,7 +138,7 @@ so <em>beloved</em> in your eyes.
 
 <tr>
 <td style="vertical-align:top;" width="33%">
-<div class="spanish"><span lang="es">
+<div class="spanish" lang="es">
 Sana nuestras vidas,
 para que seamos protectores del mundo
 y no depredadores,
@@ -148,7 +148,7 @@ y no contaminación y destrucción.
 </td>
 
 <td style="vertical-align: top;" width="33%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 שְׁלַח רְפוּאָה לְנַפְשֵׁנוּ בַּחַיִּים
 וְאַז נָגֵן הָעוֹלָם
 וְלֹא נִדְלַק בַּעוֹלָם
@@ -158,7 +158,7 @@ y no contaminación y destrucción.
 </td>
 
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 Bring healing to our lives,
 that we may protect the world
 and not prey on it,
@@ -170,7 +170,7 @@ not pollution and destruction.
 
 <tr>
 <td style="vertical-align:top;" width="33%">
-<div class="spanish"><span lang="es">
+<div class="spanish" lang="es">
 Toca los corazones
 de los que buscan sólo beneficios
 a costa de los pobres y de la tierra.
@@ -183,7 +183,7 @@ en nuestro camino hacia tu luz infinita.
 </td>
 
 <td style="vertical-align: top;" width="33%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 פְּתַח לֵבָב כׇּל בּוֹצֵעַ
 לַחֲטוֹף הָעֲנִי וְהָאָדָמָה
 לַמְּדֶנּוּ לְגַלּוֹת
@@ -196,7 +196,7 @@ en nuestro camino hacia tu luz infinita.
 </td>
 
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 Touch the hearts of those who look for gain
 at the expense of the poor and the earth.
 Teach us to discover
@@ -211,7 +211,7 @@ towards your infinite light.
 
 <tr>
 <td style="vertical-align:top;" width="33%">
-<div class="spanish"><span lang="es">
+<div class="spanish" lang="es">
 Gracias 
 porque estás con nosotros todos los días.
 Aliéntanos, por favor, 
@@ -222,7 +222,7 @@ por la justicia, el amor y la paz.
 </td>
 
 <td style="vertical-align: top;" width="33%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 נוֹדֶה לְךָ הַשׁוֹכֵן בְּתוֹכֵנוּ
 שֶׁאַתָּה עִמָּנוּ תָּמִיד בְּכׇל יוֹם
 אַנָא תּוֹמְכֵנוּ
@@ -233,7 +233,7 @@ por la justicia, el amor y la paz.
 </td>
 
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 We thank you <em>who dwells within us</em>
 for being with us each day.
 Encourage us, we pray,

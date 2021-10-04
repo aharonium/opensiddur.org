@@ -11,18 +11,18 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 [<strong>ברכות שנתני</strong>]
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 [<strong>Blessings Shenatani</strong> (that were given to me)[foot]This section of blessings is recorded in Brakhot 60b:5 by the Stama'im[/foot]]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ 
 &nbsp;
 מֶלֶךְ הָעוֹלָם,
@@ -33,7 +33,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Barukh attah Yah
 I offer You thanks,
 Cosmic Majesty
@@ -45,7 +45,7 @@ Between day and night.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ 
 &nbsp;
 מֶלֶךְ הָעוֹלָם,
@@ -54,7 +54,7 @@ Between day and night.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Barukh attah Yah
 I offer You thanks,
 Cosmic Majesty
@@ -64,7 +64,7 @@ For giving sight to my eyes.[foot]Psalms 146:8[/foot]
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ 
 &nbsp;
 מֶלֶךְ הָעוֹלָם,
@@ -74,7 +74,7 @@ For giving sight to my eyes.[foot]Psalms 146:8[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Barukh attah Yah
 I offer You thanks,
 Cosmic Majesty
@@ -85,7 +85,7 @@ to my limbs.[foot]Psalms 146:7[/foot]
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ 
 &nbsp;
 מֶלֶךְ הָעוֹלָם,
@@ -94,7 +94,7 @@ to my limbs.[foot]Psalms 146:7[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Barukh attah Yah
 I offer You thanks,
 Cosmic Majesty
@@ -104,7 +104,7 @@ For helping me to stand upright.[foot]Psalms 146:8[/foot]
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ 
 &nbsp;
 מֶלֶךְ הָעוֹלָם,
@@ -113,7 +113,7 @@ For helping me to stand upright.[foot]Psalms 146:8[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Barukh attah Yah
 I offer You thanks,
 Cosmic Majesty
@@ -123,7 +123,7 @@ For giving me clothes to wear.[foot]Cf. Genesis 3:21[/foot]
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ 
 &nbsp;
 מֶלֶךְ הָעוֹלָם,
@@ -133,7 +133,7 @@ For giving me clothes to wear.[foot]Cf. Genesis 3:21[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Barukh attah Yah
 I offer You thanks,
 Cosmic Majesty
@@ -144,7 +144,7 @@ On which You place me.[foot]Cf. Psalms 146:6[/foot]
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ 
 &nbsp;
 מֶלֶךְ הָעוֹלָם,
@@ -154,7 +154,7 @@ On which You place me.[foot]Cf. Psalms 146:6[/foot]
  </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Barukh attah Yah
 I offer You thanks,
 Cosmic Majesty
@@ -165,7 +165,7 @@ In the right direction.[foot]Cf. Psalms 37:23[/foot]
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ 
 &nbsp;
 מֶלֶךְ הָעוֹלָם,
@@ -175,7 +175,7 @@ In the right direction.[foot]Cf. Psalms 37:23[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Barukh attah Yah
 I offer You thanks,
 Cosmic Majesty
@@ -186,7 +186,7 @@ for all my needs.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ 
 &nbsp;
 מֶלֶךְ הָעוֹלָם,
@@ -197,7 +197,7 @@ for all my needs.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Barukh attah Yah
 I offer You thanks,
 Cosmic Majesty
@@ -209,7 +209,7 @@ With Strength.[foot]Psalms 65:7[/foot]
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ 
 &nbsp;
 מֶלֶךְ הָעוֹלָם,
@@ -220,7 +220,7 @@ With Strength.[foot]Psalms 65:7[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Barukh attah Yah
 I offer You thanks,
 Cosmic Majesty
@@ -232,7 +232,7 @@ And dance with You.[foot]While the blessing is a particular derivation of Psalms
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ 
 &nbsp;
 מֶלֶךְ הָעוֹלָם,
@@ -242,7 +242,7 @@ And dance with You.[foot]While the blessing is a particular derivation of Psalms
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Barukh attah Yah
 I offer You thanks,
 Cosmic Majesty
@@ -253,18 +253,18 @@ And giving me energy.[foot]This blessing, recorded by Rabbi Simḥa of Vitry in 
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 [<strong>ברכות שעשני</strong>]
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 [<strong>Blessings She'asani</strong> (that made me)[foot]Cf. Rebbe Yehudah's statement in Tosefta Berakhot 6.23 and Rebbe Meir's statement in Menachot.43b.17[/foot]]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ 
 &nbsp;
 מֶלֶךְ הָעוֹלָם,
@@ -274,7 +274,7 @@ And giving me energy.[foot]This blessing, recorded by Rabbi Simḥa of Vitry in 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Barukh attah Yah
 I offer You thanks,
 Cosmic Majesty
@@ -285,7 +285,7 @@ in Your image.[foot]Sabbath and festival prayer book, United Synagogue of Americ
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ 
 &nbsp;
 מֶלֶךְ הָעוֹלָם,
@@ -294,7 +294,7 @@ in Your image.[foot]Sabbath and festival prayer book, United Synagogue of Americ
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Barukh attah Yah
 I offer You thanks,
 Cosmic Majesty
@@ -304,7 +304,7 @@ For giving me options.[foot]Rabbi Yaakov ben Asher, Arba Turim, circa early 14th
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ 
 &nbsp;
 מֶלֶךְ הָעוֹלָם,
@@ -314,7 +314,7 @@ For giving me options.[foot]Rabbi Yaakov ben Asher, Arba Turim, circa early 14th
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Barukh attah Yah
 I offer You thanks,
 Cosmic Majesty
@@ -325,18 +325,18 @@ To worship You, as a Jew.[foot]Sabbath and festival prayer book, United Synagogu
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 [”<strong>כי משי אפיה לימא</strong>“ <span class="citation">(ברכות ס ב)</span>]
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 [<strong>Upon washing the face the following blessing is said:</strong>[foot]Berakhot 60b.6[/foot]]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ 
 &nbsp;
 מֶלֶךְ הָעוֹלָם,
@@ -347,7 +347,7 @@ To worship You, as a Jew.[foot]Sabbath and festival prayer book, United Synagogu
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Barukh attah Yah
 I offer You thanks,
 Cosmic Majesty
@@ -359,7 +359,7 @@ from my eyes.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וִיהִי רָצוֹן מִלְּפָנֶיךָ יְהֹוָה אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֹתֵינוּ
 שֶׁתַּרְגִּילֵנוּ 
 בְּתוֹרָתֶךָ,
@@ -368,7 +368,7 @@ from my eyes.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And we ask Your blessed help
 To find that our habits
 Follow Your Torah,
@@ -378,7 +378,7 @@ Seek Your Mitzvot.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְאַל תְּבִיאֵנוּ לֹא לִידֵי חֵטְא, וְלֹא לִידֵי עֲבֵרָה וְעָוֹן, 
 וְלֹא לִידֵי נִסָּיוֹן, וְלֹא לִידֵי בִזָּיוֹן, 
 וְאַל תַּשְׁלֶט בָּנוּ יֵצֶר הָרָע, 
@@ -394,7 +394,7 @@ Seek Your Mitzvot.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Keep us from sin and offense,
 From shame and temptation.
 Do not allow evil to attract us.
@@ -411,7 +411,7 @@ Friendly and cheerful.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בְּעֵינֶיךָ 
 וּבְעֵינֵי כָל רוֹאֵינוּ, 
 וְתִגְמְלֵנוּ חֲסָדִים טוֹבִים, 
@@ -422,7 +422,7 @@ Friendly and cheerful.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 As we face You
 And all who we will meet,
 Keep us in Your grace 
@@ -444,7 +444,7 @@ While preparing this work and noticing for the first time the overlapping themes
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew) Genesis 32:25-31</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וַיִּוָּתֵ֥ר יַעֲקֹ֖ב לְבַדּ֑וֹ 
 וַיֵּאָבֵ֥ק אִישׁ֙ עִמּ֔וֹ עַ֖ד עֲל֥וֹת הַשָּֽׁחַר׃ 
 וַיַּ֗רְא כִּ֣י לֹ֤א יָכֹל֙ ל֔וֹ 
@@ -465,7 +465,7 @@ While preparing this work and noticing for the first time the overlapping themes
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Yaakov was left alone. 
 And a man wrestled with him until the break of dawn. 
 When he saw that he had not prevailed against him, 

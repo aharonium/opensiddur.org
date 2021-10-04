@@ -20,7 +20,7 @@ Fanny Neuda's compilation of teḥinot, <em>Stunden Der Andacht</em> (1855), is 
 
 &nbsp;
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 I have the great pleasure to be sharing a crowdsourced labor of love, the first book of prayers that the Open Siddur Project has completely proofread on Wikisource: <em>Stunden Der Andacht</em> (<em>Hours of Devotion</em>) by <a href="http://jwa.org/encyclopedia/article/neuda-fanny">Fanny Schmiedl Neuda</a>, first published in 1855.
 
 I initially prepared the transcription from the 145-page, 1858 edition of <em>Stunden Der Andacht</em> with <a href="http://code.google.com/p/tesseract-ocr/">Tesseract-OCR</a> (using the <a href="http://sourceforge.net/projects/vietocr/">VietOCR</a> user interface) and a scan of the book made by Google Books. Many thanks to Open Siddur Project contributor and volunteer, <a href="http://www.sprachkasse.de/blog/2013/04/25/stunden-der-andacht-vollstandig/">Chajm Guski</a>, for helping to upload the transcription to the <a href="http://de.wikisource.org/wiki/Index:Neuda-Stunden_der_Andacht-1858.pdf">German Wikisource</a> site. Many thanks go to the untold numbers of volunteer proofreaders, both veteran Wikisource volunteers as well as the many folk who came to proofread the text after seeing a tweet, Facebook status update, or reading an email asking for German fluent readers for help.

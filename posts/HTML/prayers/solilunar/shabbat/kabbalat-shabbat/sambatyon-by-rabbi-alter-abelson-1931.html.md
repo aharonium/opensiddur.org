@@ -11,23 +11,23 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Contribute a translation</th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <u>Sambatyon</u>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 There is a restless river, Sambatyon is its name;
 They say it ever raves and ever is untame;
 And oft its raging waves are red like human blood:
@@ -40,12 +40,12 @@ And sad and sweet is earth with beams that would not die.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Beyond it, live the lost ten tribes of Israel’s stem,
 Disporting under skies as brilliant as a gem:
 And when they will be found and join the world of men, 
@@ -58,12 +58,12 @@ Oh, rebel river Sambatyon, you are the river of life!
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 All week with neighbors and ourselves, our civil wars we wage
 We rave and rage and rest not, and make and break our cage
 And only on the Sabbath, athrill with thoughts divine 
@@ -76,12 +76,12 @@ For poesy is the Sabbath, and prose the day’s annoy.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 The poet is all Sabbath, his life no week-day knows;
 So Shakespeare and Isaiah, who strove to still life's woes: 
 And so divine Halevi and rapt Gebirol; so 
@@ -94,12 +94,12 @@ And day and night will weave a rhyme of bliss sublime.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 One day, life’s rebel river, Sambatyon too, will flow 
 In pleasantness and peace and only Sabbath know.
 The prose-men have long week-days, six days in every week, 
@@ -108,12 +108,12 @@ And yet they too for peace and Sabbath ever seek.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 One day, a world of brothers will boast in God alone, 
 Will boast that crime and care and indigence have flown, 
 And glory that at last we grew mature in mind 
@@ -126,12 +126,12 @@ And all his gems will shimmer on loveliness his wife.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Sambatyon, softly, gently, will flow through Paradise 
 And Man's Sambatyon-soul, aye soar in Sabbath skies.
 One day, the world will have but poets everywhere,

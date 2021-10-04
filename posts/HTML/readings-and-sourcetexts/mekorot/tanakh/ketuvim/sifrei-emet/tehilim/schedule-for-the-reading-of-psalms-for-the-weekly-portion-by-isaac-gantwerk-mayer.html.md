@@ -12,7 +12,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <strong>DOWNLOAD:</strong> 
 <a href="https://opensiddur.org/wp-content/uploads/2018/03/Psalm-System-for-Shabbat-Readings-Isaac-Gantwerk-Mayer-2018.odt">ODT</a> (English) | <a href="https://opensiddur.org/wp-content/uploads/2018/03/לוח-קריאת-תהלים-לפי-פרשת-השבוע-Isaac-Gantwerk-Mayer-2018.odt">ODT</a> (Hebrew) | <a href="https://opensiddur.org/wp-content/uploads/2018/03/Psalm-System-for-Shabbat-Readings-Isaac-Gantwerk-Mayer-2018.pdf">PDF</a> (English &amp; Hebrew)
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 Every single Shabbat, we read a portion from the Prophetic books, known as the Haftarah. These portions are usually connected in meaning with the weekly Torah reading, though they also sometimes reflect the specific Shabbat upon which they are read. Though not all of the Prophets are read, all of the readings are from the Prophets. The Writings, the third great category of Scripture, is avoided.
 
 Psalms, or Tehilim, have been in liturgical use for as long as any text in Judaism has been. Prayers, praises, supplications, and the like – it's all in this book of 150 works. So it seems odd that while we use its texts regularly in prayer, we have no tradition of public kriah for Psalms. Some scholars have suggested that the 150 psalms were originally read in a triennial cycle, but if that is the case such a system has long been lost.

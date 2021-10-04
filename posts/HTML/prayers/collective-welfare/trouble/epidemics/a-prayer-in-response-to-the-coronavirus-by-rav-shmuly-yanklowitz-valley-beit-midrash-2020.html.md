@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Translation (Hebrew)</th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ריבונו של עולם,
 &nbsp;
 בוראינו ומשחרר מגיפות,
@@ -25,7 +25,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Master of the Universe,
 ​&nbsp;
 Our Creator and Liberator of diseases
@@ -40,7 +40,7 @@ Grant officials the courage to speak the truth and not to violate public trust.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אנא, תברך אותנו עם הכח לשמור על קור רוח.
 הרשה לנו לא לנצל את הפחד והחשש 
 כדרכים לשנאת זרים, אנוכיות, או בידוד.
@@ -51,7 +51,7 @@ Grant officials the courage to speak the truth and not to violate public trust.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May You bless us with the strength to remain calm. 
 Allow us to not use fear and suspicion 
 as paths to xenophobia, selfishness, or isolation. 
@@ -63,7 +63,7 @@ to strengthen global collaboration to preserve life.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הו, מקור החיים, 
 תן לנו שלווה ברגעי אי וודאות,
 תן לנו יכולת לעזור לפגיעים 
@@ -76,7 +76,7 @@ to strengthen global collaboration to preserve life.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Oh, Giver of Life, 
 grant us serenity in moments of uncertainty, 
 give us the ability to help the vulnerable 
@@ -90,14 +90,14 @@ deal with this new reality.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 תן לנו לעבוד ביחד 
 למנוע את הפצת המגפה הזאת 
 בין כל אחינו ואחיותנו בני האדם.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May we work together 
 to prevent the spread of this virus 
 among our fellow human beings.
@@ -105,7 +105,7 @@ among our fellow human beings.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שנתמוך באלה שעובדים על פתרון למחלה הזאת.
 שכולנו ננצל הזדמנות זו להכיר בשברירות החיים 
 ונחתור לניצול המרבי של הזמן הקצר שיש לנו כאן, 
@@ -114,7 +114,7 @@ among our fellow human beings.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May we support those working on a solution for this disease. 
 May we all use this time as an opportunity to realize the fragility of life 
 and strive to make the most of our short time here, 
@@ -124,7 +124,7 @@ to bolster our fervent commitment to our moral mission.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יהי רצון מלפניך, ה׳ אלהינו, מלך העולם, 
 שנתמיד לחתור פיזית ורוחנית להתגבר על האתגר החדש הזה. 
 כמו אתגרי העבר שחשבנו בלתי פתירים, 
@@ -134,7 +134,7 @@ to bolster our fervent commitment to our moral mission.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May it be your will O Lord our God, Master of the Universe, 
 that we will continue to (physically & spiritually) strive to overcome this new challenge. 
 Like many problems in the past that we thought were impossible, 
@@ -145,12 +145,12 @@ for the sanctity of all life.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 היה איתנו בזמן המאתגר הזה.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May You be here with us in this trying time.
 </div></td></tr>
 </tbody></table>

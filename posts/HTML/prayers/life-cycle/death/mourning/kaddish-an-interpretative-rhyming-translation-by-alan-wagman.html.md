@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יִתְגַּדַּל וְיִתְקַדַּשׁ שְׁמֵהּ רַבָּא.
 בְּעָלְמָא דִּי בְרָא כִרְעוּתֵהּ 
 וְיַמְלִיךְ מַלְכוּתֵהּ,
@@ -23,7 +23,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 It is all and won’t be lost, the Holy Name (<em>amein</em>). 
 We all make Divine words of praise 
 for here lead all true ways. 
@@ -36,18 +36,18 @@ Blessed be You, <em>Amein</em>.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְהֵא שְׁמֵהּ רַבָּא מְבָרַךְ לְעָלַם וּלְעָלְמֵי עָלְמַיָּא׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 We say the Name Oneness and we hear of the time when we may all know Yah.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יִתְבָּרַךְ,
 וְיִשְׁתַּבַּח, וְיִתְפָּאֵר, 
 וְיִתְרוֹמֵם, 
@@ -65,7 +65,7 @@ We say the Name Oneness and we hear of the time when we may all know Yah.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Beyond a sigh, 
 the reason why or Reason’s “Why?”, 
 magnify 
@@ -84,14 +84,14 @@ Blessed be You, <em>Amein</em>.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְהֵא שְׁלָמָה רַבָּא מִן שְׁמַיָּא וְחַיִּים 
 וְעַל כָּל יִשְֹרָאֵל, 
 וְאִמְרוּ אָמֵן׃
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 We pray, hush be silent, when all are here and all are gone, 
 may You bless all of Yisrael.
 Blessed be You, <em>Amein</em>.
@@ -99,7 +99,7 @@ Blessed be You, <em>Amein</em>.
  
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עוֹשֶׂה שָׁלוֹם בִּמְרוֹמָיו
  הוּא יַעֲשֶׂה שָׁלוֹם עָלֵינוּ
 (וְעַל כָּל יִשְׂרָאֵל)
@@ -108,7 +108,7 @@ Blessed be You, <em>Amein</em>.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Oh, say, “Shalom,” this is love, 
 and when we say, “Shalom,” we name You, 
 joined with all Yisrael, 

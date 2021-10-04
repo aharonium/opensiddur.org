@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 הַרֵינִי מְכָוֵון בְּהַצְבָּעָתִי ׀ בִּתְּפִילָתִי (הַיוֹם)
 לִדְרֹש שָׁלוֹם בְּעַד הַמְדִינָה הַזֹאת כְּמוֹ שֶׁכָּתוּב:
 ”וְדִרְשׁוּ אֶת שְׁלוֹם הָעִיר אֲשֶׁר הִגְלֵיתִי אֶתְכֶם שָׁמָּה
@@ -20,7 +20,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Here I stand, intending through my vote | my prayer (today)
 to seek peace for this country, as it is written <span class="citation">(Jeremiah 29:7)</span>:
 “Seek the peace of the city where I cause you to roam
@@ -31,13 +31,13 @@ for in her peace you all will have peace.”[foot]Jeremiah 29:7[/foot]
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְהִי רָצוֹן מִלְפָנֶיךָ ה׳ שֶׁהָהַצְבָּעוֹת יִמְנוּ נֶאֱמָנוֹת
 וְתִמְנֶה הַצְבָּעָתִי כְּאִלוּ קִיָּמְתִי הַכָּתוּב הַזֶה בְּכׇל עָצְמָתִי.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May it be Your will, YHVH, that votes be counted faithfully,
 and may You count my vote as if I had fulfilled this verse with all my power.
 </div>
@@ -45,7 +45,7 @@ and may You count my vote as if I had fulfilled this verse with all my power.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 תִּתֵן לֵב שׁוֹמֵעַ לְמִי שֶׁאָנוּ בּוֹחֲרִים (הַיוֹם)
 וְטוֹב יְהְיֶה בְּעֵינֶיךָ שֶׁתִּשָׂא עַלֵינוּ מֶמְשָׁלָה טוֹבָה
 שֶׁתָּבִיא רְפוּאָה וּמִשְׁפָּט וְשָׁלוֹם לְכׇל יוֹשְׁבֵי הָאָרֶץ הַזֹאת
@@ -55,7 +55,7 @@ and may You count my vote as if I had fulfilled this verse with all my power.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May You give a listening heart to whomever we elect (today)
 and may it be good in Your eyes to raise for us a good government
 that will bring healing, justice and peace to all living in this land
@@ -67,7 +67,7 @@ for rulership is Yours.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כְּשֵׁם שֶׁהִשְׁתַּתָפְתִי | אֶשְׁתַּתֵּף בַּבְּחִירוּת (הַיוֹם)
 כֵּן זַכֵּנִי לַעֲשׂוֹת מַעֲשִׂים טוֹבִים וּלְתַקֵּן עוֹלָם בְּכָל פֹּעַלִי
 וּבַפְּעוּלָה שֶׁל (...) שֶׁאֲנִי מִתְנַדֵּב | מִתְנַדֶּבֶת לְקַיֵם 
@@ -77,7 +77,7 @@ for rulership is Yours.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Just as I (have participated / will participate) in the election (today),
 so may I merit to do good works and to repair the world through all my efforts,
 and through the act of...[<span class="instruction">add your pledge</span>]...which I pledge to do 
@@ -90,7 +90,7 @@ to protect and to not destroy the earth and her plenitude.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 [תְעַקֵּר טִירוּנִיָה וָעָרִיצוּת
 וּתְשַׁבֵּר רַמַאִים 
 וּתְמַגֵּר עֹשְׁקֵי נִדְכָּאִים. 
@@ -106,7 +106,7 @@ to protect and to not destroy the earth and her plenitude.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 [<span class="instruction">Optional for 2020:</span> Tear out tyranny and despotism, 
 ruin those who cheat and deceive, 
 and overthrow those who oppress the vulnerable. 
@@ -124,7 +124,7 @@ and humiliates the arrogant.]
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 תֵּן לְכׇל אֻמּוֹת הָאָרֶץ הַזֹאת הָכֹּחַ וְהַרָצוֹן
 לִרְדֹף צֶדֶק וּלְבַקֵּשׁ שָׁלוֹם כְּאַגֻדָה אַחַת
 לֲעַקֹר גִזְעָנוּת וְחָמָס וּלְהַצְמִיחַ רְפוּאָה
@@ -137,7 +137,7 @@ and humiliates the arrogant.]
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May You give to all the peoples of this country the strength and the will
 to pursue righteousness and to seek peace as a unified force
 to uproot racism and violence and to make healing, 

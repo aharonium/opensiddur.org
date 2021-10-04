@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: left;">Source (Magyar)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="magyar"><span lang="hu">
+<div class="magyar" lang="hu">
 Elmúlt már az éjszaka,
 S felvirradt a hajnal, 
 Uram, Hozzád esdeklek
@@ -19,7 +19,7 @@ Rebegő ajakkal.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 The night is already gone,
 The dawn has arrived,
 My Lord, I am beseeching thee
@@ -28,7 +28,7 @@ With fluttering lips of mine.
 
 
 <tr><td style="vertical-align:top;">
-<div class="magyar"><span lang="hu">
+<div class="magyar" lang="hu">
 Adj erőt, óh, lelkemnek,
 Boldog tisztaságot,
 Hogy bűn nélkül élhessek,
@@ -36,7 +36,7 @@ Hűséges leányod.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Give me joyful purity,
 To my soul give strength,
 For me to live without sin,
@@ -45,7 +45,7 @@ To be thy faithful daughter.
 
 
 <tr><td style="vertical-align:top;">
-<div class="magyar"><span lang="hu">
+<div class="magyar" lang="hu">
 Te őrizd meg utamat,
 Óvj meg, védj meg engem.
 Boldog hálazsolozsmát
@@ -53,7 +53,7 @@ Zeng Neked a lelkem. <em>Ámen</em>.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Be the keeper of my ways,
 Please, guard and protect me.
 Happy prayers of thanksgiving

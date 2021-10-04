@@ -11,12 +11,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;"><a href="/contribute/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Our God, and God of all Life,
 &nbsp;
 We call you <em>Oséh</em> -- Maker[foot]Job 25:2.[/foot]
@@ -29,12 +29,12 @@ We call to you.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Be with all those who labor in the midst of this global pandemic.
 Shelter those who grow our food in the field.
 Guard those who bring healing in lab and clinic, in hospital and pharmacy.
@@ -45,12 +45,12 @@ Send love to those who connect us through wire, wave, and cable.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Provide companionship to those who work in solitude,
 ease to those who work in anguish,
 safety to those who step into harm’s way,
@@ -59,12 +59,12 @@ dignity to all whose labor benefits us.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 As they raise up their souls to grant us all life[foot]Deuteronomy 24:15.[/foot]
 may we repay them in fairness and righteousness.
 May our lawmakers and employers assure them a living wage,
@@ -75,12 +75,12 @@ and the right to organize.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 All the rights,
 human and Divine
 due to all beings
@@ -89,12 +89,12 @@ created in Your image.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 And let us say: 
 <em>Amen</em>.
 </div></td></tr>

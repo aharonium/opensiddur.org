@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Arabic</th><th style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="30%">
-<div class="arabic" style="text-align: right;"><span lang="ar">
+<div class="arabic" lang="ar" style="text-align: right;">
 لتكن مشيئتك إلهنا واله أجدادنا, تقبل تضرعاتنا,
 أنت الذي جعلتنا مسئولين عن أفعالنا,
 احيي الشجرة التي غرسنا, لتنمو وتثمر ثمار سلام.‏
@@ -19,7 +19,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 יהי רצון מלפניך אלהינו ואלהי אבותינו 
 שתתקבל תפילתנו. אתה שהורית לנו אחריות למעשה ידינו,
 השרש עץ זה שנטענו. מי ייתן ויצמח להניב פירות של שלום.‏  
@@ -27,7 +27,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </td>
 
 <td style="vertical-align:top;" width="40%">
-<div class="english">
+<div class="english" lang="en">
 May it be Your will, our god and god of our ancestors, 
 who has made us responsible for the deeds of our hands, 
 that this tree will live and grow and bear fruit in peace;
@@ -36,7 +36,7 @@ that this tree will live and grow and bear fruit in peace;
 
 
 <tr><td style="vertical-align:top;" width="30%">
-<div class="arabic" style="text-align: right;"><span lang="ar">
+<div class="arabic" lang="ar" style="text-align: right;">
 من هو الإنسان الذي يهوى الحياة ويحب كثرة الأيام ليرى خيرا...
 اطلب السلامة واسع وراءها. (تهيليم).‏
 فليكن غرس هذه الشجرة, بأرض قدسك تذكار لحفظ قولك:
@@ -47,7 +47,7 @@ that this tree will live and grow and bear fruit in peace;
 </td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 חזק את ידי החפץ חיים, 
 אוהב ימים לראות טוב...
 בקש שלום ורדפהו <span class="citation">(תהלים לד)‏</span> 
@@ -63,7 +63,7 @@ that this tree will live and grow and bear fruit in peace;
 </td>
 
 <td style="vertical-align:top;" width="40%">
-<div class="english">
+<div class="english" lang="en">
 May this tree, which was planted in Your holy land 
 by the hands of those who desire life 
 by demanding peace and pursuing peace 
@@ -80,21 +80,21 @@ Are the trees of the field human beings,
 
 
 <tr><td style="vertical-align:top;" width="30%">
-<div class="arabic" style="text-align: right;"><span lang="ar">
+<div class="arabic" lang="ar" style="text-align: right;">
 لان التوراة, هي شجرة حياة لممسكيها والمتمسك بها مغبوط. 
 طرقها طرق نعم وكل مسالكها سلام (ميشلي)‏
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 שכן התורה, עֵץ חַיִּים הִיא לַמַּחֲזִיקִים בָּהּ <span class="citation">(משלי ג:ח)</span>
 דְּרָכֶיהָ דַרְכֵי נֹעַם וְכָל נְתִיבוֹתֶיהָ שָׁלוֹם <span class="citation">(משלי ג:יז)‏</span>
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="40%">
-<div class="english">
+<div class="english" lang="en">
 For the Torah itself is “a tree of life to them that hold it tightly…"[foot]Proverbs 3:8.[/foot]
 "its ways are ways of pleasantness, and all its paths are peace"[foot]Proverbs 3:17.[/foot]
 </div></td>
@@ -102,13 +102,13 @@ For the Torah itself is “a tree of life to them that hold it tightly…"[foot]
 
 
 <tr><td style="vertical-align:top;" width="30%">
-<div class="arabic" style="text-align: right;"><span lang="ar">
+<div class="arabic" lang="ar" style="text-align: right;">
 
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 כפרוש ענפיו של עץ זה, 
 כן תפרוש עלינו ברכת שלומך.‏‏
 טע בנו אהבת האדם ועזור לנו ולשמור על זכויות 
@@ -121,7 +121,7 @@ For the Torah itself is “a tree of life to them that hold it tightly…"[foot]
 </td>
 
 <td style="vertical-align:top;" width="40%">
-<div class="english">
+<div class="english" lang="en">
 As this tree spreads its branches, 
 may You spread Your blessings over this Land, 
 helping us ensure that justice and human rights abound 
@@ -135,7 +135,7 @@ as envisaged by the prophets recognized by Judaism, Islam, and Christianity.
 
 
 <tr><td style="vertical-align:top;" width="30%">
-<div class="arabic" style="text-align: right;"><span lang="ar">
+<div class="arabic" lang="ar" style="text-align: right;">
 بامتداد أغصان هذه الشجرة, مد علينا نعمك وسلامك.
 ازرع بنا محبة الإنسان وساعدنا لحفظ حقوق الناس على أرضك. 
 ساعدنا لان نحرص على" تطوير الأرض لمصلحة سكانها", لننشر بها العدل ونحقق الرؤية 
@@ -144,7 +144,7 @@ as envisaged by the prophets recognized by Judaism, Islam, and Christianity.
 </td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 כפרוש ענפיו של עץ זה, 
 כן תפרוש עלינו ברכת שלומך.‏
 טע בנו אהבת האדם ועזור לנו ולשמור על זכויות 
@@ -158,7 +158,7 @@ as envisaged by the prophets recognized by Judaism, Islam, and Christianity.
 </td>
 
 <td style="vertical-align:top;" width="40%">
-<div class="english">
+<div class="english" lang="en">
 (A variation:) As this tree spreads its branches, 
 may You spread Your blessings over this Land, 
 helping us ensure that justice and human rights abound 
@@ -173,7 +173,7 @@ as envisaged by the prophets of Israel…”[foot]Cf. <a href="https://opensiddu
 
 
 <tr><td style="vertical-align:top;" width="30%">
-<div class="arabic" style="text-align: right;"><span lang="ar">
+<div class="arabic" lang="ar" style="text-align: right;">
 أرشدنا إلى سبل السلام, 
 وافتح أعيننا لنرى صورة الله بالإنسان, 
 أيا كان, يهوديا, مسلما أو مسيحيا, 
@@ -182,7 +182,7 @@ as envisaged by the prophets of Israel…”[foot]Cf. <a href="https://opensiddu
 </td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 הדרך אותנו בנתיבות שלום, 
 וכוון עינינו לראות את צלם האלהים שבכל אדם 
 בין אם הוא יהודי, מוסלמי או נוצרי, 
@@ -191,7 +191,7 @@ as envisaged by the prophets of Israel…”[foot]Cf. <a href="https://opensiddu
 </td>
 
 <td style="vertical-align:top;" width="40%">
-<div class="english">
+<div class="english" lang="en">
 May You guide us in the paths of peace 
 and give us the insight to see Your Image in every human being, 
 whether Jew, Muslim or Christian, 
@@ -201,14 +201,14 @@ whether Israeli or Palestinian.
 
 
 <tr><td style="vertical-align:top;" width="30%">
-<div class="arabic" style="text-align: right;"><span lang="ar">
+<div class="arabic" lang="ar" style="text-align: right;">
 ذكرنا بان: "لم نأت إلى العالم للخصام والكراهية وسفك الدماء بل
 جئنا لكي نعرف سبلك المباركة, إلى الأبد"
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 הזכר לנו כי "לא באנו לזה העולם בשביל ריב ומחלוקת חס ושלום, 
 ולא בשביל שנאה וקנאה וקנטור ושפיכות דמים חס ושלום, 
 רק באנו לעולם כדי להכיר ולדעת אותך 
@@ -218,7 +218,7 @@ whether Israeli or Palestinian.
 
 
 <td style="vertical-align:top;" width="40%">
-<div class="english">
+<div class="english" lang="en">
 Help us realize that "We were not brought into this world for conflict and dissension, 
 nor for hatred, jealousy, harassment or bloodshed. 
 Rather, we were brought into this world in order to recognize You, 

@@ -11,20 +11,20 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לְכָה דוֹדִי לִקְרַאת כַּלָּה. 
 פְּנֵי שַׁבָּת נְקַבְּלָה.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Beloved, come to meet the bride – 
 let us welcome Shabbat.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">שָׁ</span>מוֹר וְזָכוֹר בְּדִבּוּר אֶחָד
 הִשְׁמִיעָנוּ אֵל הַמְיֻחָד,
 יהוה אֶחָד וּשְׁמוֹ אֶחָד
@@ -32,7 +32,7 @@ let us welcome Shabbat.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 “Keep” and “Remember” in a single utterance, <span class="acrostic">&nbsp;</span>
 The one El caused us to hear.
 YHVH is One, God’s name is One;
@@ -41,7 +41,7 @@ For honor and glory and praise.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">לִ</span>קְרַאת שַׁבָּת לְכוּ וְנֵלְכָה,
 כִּי הִיא מְקוֹר הַבְּרָכָה,
 מֵרֹאשׁ מִקֶּדֶם נְסוּכָה,
@@ -49,7 +49,7 @@ For honor and glory and praise.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Let us go to meet Shabbat, <span class="acrostic">&nbsp;</span>
 For it is the source of blessing.
 Cast from the earliest time,
@@ -58,7 +58,7 @@ Last created, first imagined.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">מִ</span>קְדַּשׁ מֶלֶךְ עִיר מְלוּכָה,
 קוּמִי צְאִי מִתּוֹךְ הַהֲפֵכָה
 רַב לָךְ שֶׁבֶת בְּעֵמֶק הַבָּכָא
@@ -66,7 +66,7 @@ Last created, first imagined.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Royal shrine, city of kings <span class="acrostic">&nbsp;</span>
 Rise up and leave your ravaged state.
 You have dwelt long enough in the valley of tears
@@ -75,7 +75,7 @@ Now God will take pity on you. <span class="acrostic">&nbsp;</span>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הִתְנַעֲרִי מֵעָפָר קוּמִי,
 לִבְשִׁי בִּגְדֵי תִפְאַרְתֵּךְ עַמִּי,
 עַל יַד בֶּן יִשַׁי בֵּית הַלַּחְמִי
@@ -83,7 +83,7 @@ Now God will take pity on you. <span class="acrostic">&nbsp;</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Lift yourself up! Shake off the dust!
 My people, array yourself in beautiful garments!
 Through Yishai’s son of Beit Leḥem,
@@ -92,7 +92,7 @@ My soul’s deliverance draws near.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">הִ</span>תְעוֹרְרִי הִתְעוֹרְרִי
 כִּי בָא אוֹרֵךְ קוּמִי אוֹרִי,
 עוּרִי עוּרִי שִׁיר דַּבֵּרִי,
@@ -100,7 +100,7 @@ My soul’s deliverance draws near.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Awake, awake, Your light has come! <span class="acrostic">&nbsp;</span>
 Arise, shine,
 Wake up and sing:
@@ -109,7 +109,7 @@ YHVH’s glory dawns upon you.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">לֹ</span>א תֵבוֹשִׁי וְלֹא תִכָּלְמִי,
 מַה תִּשְׁתּוֹחֲחִי וּמַה תֶּהֱמִי,
 בָּךְ יֶחֱסוּ עֲנִיֵי עַמִּי,
@@ -117,7 +117,7 @@ YHVH’s glory dawns upon you.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 An end to shame and degradation; <span class="acrostic">&nbsp;</span>
 Forget your sorrow; quiet your groans.
 The poor of my people find shelter in you,
@@ -126,7 +126,7 @@ And a city is built on its ancient ruins.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">וְ</span>הָיוּ לִמְשִׁסָה שֹׁאסָיִךְ,
 וְרָחֲקוּ כָּל מְבַלְּעָיִךְ
 יָשִׂישׂ עָלַיִךְ אֱלֹהָיִךְ
@@ -134,7 +134,7 @@ And a city is built on its ancient ruins.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 The scavengers are scattered, <span class="acrostic">&nbsp;</span>
 Your devourers have fled;
 Your <em>elo'ah</em> will take joy in you.
@@ -143,7 +143,7 @@ As a bridegroom rejoices in his bride,
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">יָ</span>מִין וּשְׂמֹאל תִּפְרֹצִי,
 וְאֶת יהוה תַּעֲרִיצִי
 עַל יַד אִישׁ בֶּן פַּרְצִי
@@ -151,7 +151,7 @@ As a bridegroom rejoices in his bride,
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Burst out to the left and to the right <span class="acrostic">&nbsp;</span>
 Adore YHVH
 Through the son of Perets
@@ -160,18 +160,18 @@ We will exalt, we will sing for joy!
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="instruction">נוהגים לפנות לעבר המערב/הדלת לקבל פני שבת המלכה</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">It is customary at this point to rise and face the west/entrance.</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בּוֹאִי בְשָׁלוֹם עֲטֶרֶת בַּעְלָהּ
 גַּם בְּשִׂמְחָה וּבְצָהֳלָה
 תּוֹךְ אֱמוּנֵי עַם סְגֻלָּה,
@@ -179,7 +179,7 @@ We will exalt, we will sing for joy!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Enter in peace, crown of God;
 Enter in gladness, enter in joy.
 Come to your cherished faithful people

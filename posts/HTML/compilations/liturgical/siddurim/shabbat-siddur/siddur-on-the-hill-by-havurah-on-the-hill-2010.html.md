@@ -21,14 +21,14 @@ I have copied Rabbi Seicol's translation and set it side by side with the Hebrew
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 דַע לְךָ שֶׁכָּל רוֹעֶה וְרוֹעֶה יֵשׁ לוֹ נִגּוּן מְיוּחָד מִשֶׁלּוֹ
 דַּע לְךָ שֶׁכָּל עֵשֶׂב וְעֵשֶׂב יֵשׁ לוֹ שִׁירָה מְיוּחֶדֶת מִשֶׁלּוֹ
 וּמִשִׁירַת הָעֲשָׂבִים נַעֲשֶׂה נִגּוּן שֶׁל רוֹעֶה
 כַּמָּה יָפֶה כַּמָּה יָפֶה וְנָאֶה כְּשֶׁשׁוֹמְעִים הַשִּׁירָה שֶׁלָּהֶם
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Know that each and every shepherd has his own tune.
 Know that each and every grass has its own song.
 And from the song of the grasses, the tune of the shepherd is made.
@@ -37,7 +37,7 @@ How beautiful, how beautiful and pleasant to hear their song.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּמִשִׁירַת הָעֲשָׂבִים מִתְמַלֵּא הַלֵּב וּמִשְׁתּוֹקֵק
 אוֹר גָּדוֹל אֲזַי נִמְשָׁךְ וְהוֹלֵךְ מִקְּדוּשָׁתָהּ שֶׁל הָאָרֶץ עָלָיו
 וּמִשִׁירַת הָעֲשָׂבִים נַעֲשֶׂה נִגּוּן שֶׁל הַלֵּב.[foot]המקור הוא ר' נחמן מברסלב
@@ -45,7 +45,7 @@ How beautiful, how beautiful and pleasant to hear their song.
 (את המילים של השיר הזה אאל"ט כתבה נעמי שמר)[/foot]
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 It is very good to pray among them and to serve Hashem in joy
 And from the song of the grasses, the heart is filled and yearns.
 And from the song of the grasses, the tune of the heart is made.
@@ -67,7 +67,7 @@ In the Jewish weekly calendar, the most dangerous time of the week is Friday eve
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה 
 יְיָ אֱלֹהֵֽינוּ 
 מֶֽלֶךְ הָעוֹלָם 
@@ -78,7 +78,7 @@ In the Jewish weekly calendar, the most dangerous time of the week is Friday eve
 <span class="instruction">ביום הכיפורים:</span> (שַׁבָּת וְשֶׁל) יוֹם הַכִּפּוּרִים:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Blessed are you,
 YHVH Elohenu, 
 cosmic majesty 
@@ -91,7 +91,7 @@ and commanded us to kindle the flame of Shabbat.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="instruction">בימים נוראים ובכל יום טוב (חוץ משביעי ואחרון של פסח):</span>
 בָּרוּךְ אַתָּה 
 יְיָ אֱלֹהֵֽינוּ 
@@ -101,7 +101,7 @@ and commanded us to kindle the flame of Shabbat.
 וְהִגִּיעָֽנוּ לַזְּמַן הַזֶּה:</pre>
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <em>On the Days of Awe and Festival Days (excepting the last two days of Passover) add</em>:
 Blessed are you, 
 YHVH Eloheinu, 
@@ -129,13 +129,13 @@ The Kabbalat Shabbat service begins with Yedid Nefesh, a piyyut attributed to Ra
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְדִיד נֶפֶשׁ אָב הָרַחֲמָן, מְשׁוֹךְ עַבְדְּךְ אֶל רְצוֹנָךְ,
 יָרוּץ עַבְדְּךְ כְמוֹ אַיָּל, יִשְתַּחֲוֶה אֶל מוּל הֲדָרֶךְ,
 יֶעֱרַב לוֹ יְדִידוֹתֶיךָ, מִנֹּפֶת צוּף וְכָל טָעַם:‏
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Beloved of the soul, Source of Compassion, draw your servant to your Will;
 then your servant will hurry like a deer to bow before your majesty;
 Your friendship will be sweeter than the dripping of the honeycomb and any taste.
@@ -143,13 +143,13 @@ Your friendship will be sweeter than the dripping of the honeycomb and any taste
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הָדוּר נָאֶה זִיו הָעוֹלָם, נַפְשִׁי חוֹלַת אַהֲבָתֶךָ,
 אָנָא אֵל נָא רְפָא נָא לָהּ, בְּהַרְאוֹת לָהּ נֹעַם זִיוֶךָ,
 אָז תִּתְחַזֵּק וְתִתְרַפֵּא, וְהָיְתָה לָּהּ שִֹמְחַת עוֹלָם:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Majestic, Beautiful, Radiance of the Universe, my soul pines for your love.
 Please, O God, heal her now by showing her the pleasantness of your radiance;
 then she will be strengthened and healed, and eternal gladness will be hers.
@@ -157,13 +157,13 @@ then she will be strengthened and healed, and eternal gladness will be hers.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וָתִיק יֶהֱמוּ רַחֲמֶיךָ, וְחוּסָה נָא עַל בֵּן אֲהוּבֶךָ,
 כִּי זֶה כַּמָּה נִכְסוֹף נִכְסַפְתִּי לִרְאוֹת מְהֵרָה בְּתִפְאֶרֶת עֻזֶּךָ,
 אֵלֶּה, חָמְדָה לִבִּי, וְחוּסָה נָּא וְאַל תִּתְעַלָּם:‏
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Enduring One, may your mercy be aroused and please take pity on the son of your beloved,
 because it is so very long that I have yearned intensely to speedily perceive the splendor of your strength;
 only these my heart desired, so please take pity and do not conceal yourself.</div></td>
@@ -171,13 +171,13 @@ only these my heart desired, so please take pity and do not conceal yourself.</d
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הִגָּלֶה נָא וּפְרוֹס חָבִיבִי עָלַי אֶת סֻכַת שְׁלוֹמֶךָ,
 תָּאִיר אֶרֶץ מִכְּבוֹדֶךָ, נָגִילָה וְנִשְׂמְחָה בָּךְ,
 מַהֵר אָהוּב כִּי בָא מוֹעֵד, וְחָנֵּנוּ כִּימֵי עוֹלָם:‏
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Please, my Beloved, reveal yourself and spread upon me the shelter of your peace;
 illuminate the earth with your glory, that we may rejoice and be glad with you;
 hasten, show love, for the time has come. Let your gentle favor grace us as in olden days.
@@ -199,131 +199,131 @@ hasten, show love, for the time has come. Let your gentle favor grace us as in o
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <h4>Psalms 95</h4>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לְ֭כוּ נְרַֽנֲנָ֣ה לַֽיהֹוָ֑ה נָ֝רִ֗יעָה לְצ֣וּר יִשְׁעֵֽנוּ: נְקַדְּמָ֣ה פָנָ֣יו בְּתוֹדָ֑ה בִּ֝זְמִר֗וֹת נָרִ֥יעַ לֽוֹ: כִּ֤י אֵ֣ל גָּד֣וֹל יְהֹוָ֑ה וּמֶ֥לֶךְ גָּ֝ד֗וֹל עַל־כָּל־אֱלֹהִֽים: אֲשֶׁ֣ר בְּ֭יָדוֹ מֶחְקְרֵי־אָ֑רֶץ וְתֽוֹעֲפ֖וֹת הָרִ֣ים לֽוֹ: אֲשֶׁר־ל֣וֹ הַ֭יָּם וְה֣וּא עָשָׂ֑הוּ וְ֝יַבֶּ֗שֶׁת יָדָ֥יו יָצָֽרוּ: בֹּ֭אוּ נִשְׁתַּֽחֲוֶ֣ה וְנִכְרָ֑עָה נִ֝בְרְכָ֗ה לִֽפְנֵי־יְהֹוָ֥ה עֹשֵֽׂנוּ: כִּ֘י ה֤וּא אֱלֹהֵ֗ינוּ וַֽאֲנַ֤חְנוּ עַ֣ם מַ֭רְעִיתוֹ וְצֹ֣אן יָד֑וֹ הַ֝יּ֗וֹם אִם־בְּקֹל֥וֹ תִשְׁמָֽעוּ: אַל־תַּקְשׁ֣וּ לְ֭בַבְכֶם כִּמְרִיבָ֑ה כְּי֥וֹם מַ֝סָּ֗ה בַּמִּדְבָּֽר: אֲשֶׁ֣ר נִ֭סּוּנִי אֲבֽוֹתֵיכֶ֑ם בְּ֝חָנ֗וּנִי גַּם־רָא֥וּ פָֽעֳלִֽי: אַ֘רְבָּעִ֤ים שָׁנָ֨ה ׀ אָ֘ק֤וּט בְּד֗וֹר וָֽאֹמַ֗ר עַ֤ם תֹּעֵ֣י לֵבָ֣ב הֵ֑ם וְ֝הֵ֗ם לֹא־יָֽדְע֥וּ דְרָכָֽי: אֲשֶֽׁר־נִשְׁבַּ֥עְתִּי בְאַפִּ֑י אִם־יְ֝בֹא֗וּן אֶל־מְנֽוּחָתִֽי:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Come, let us sing to YHVH, and shout for joy to the Rock of our deliverance. Let us come into YHVH’s presence with thanks; let us shout for joy to YHVH with song. For YHVH is a great god, and a great majesty above all gods. In God’s hands are the depths of the earth, and the peaks of the mountains are God’s. The sea is God’s, for God made it; and God’s hands shaped the dry land. Come, let us bow down and bend the knee; let us kneel before YHVH our maker, For YHVH is our god, and we are the people that God shepherds, the flock of God’s hand. Today, if you would but listen to God’s voice! Harden not your heart, as at Meribah, as on the day of Massah, in the wilderness; When your ancestors tested and tried Me, even though they saw My work. For forty years, I was weary with that generation and said: This is a people confused at heart, that do not know My ways. For that reason, I swore in My anger, that they would never enter My resting place.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <h4>Psalms 96</h4>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שִׁ֣ירוּ לַ֭יֽהֹוָה שִׁ֣יר חָדָ֑שׁ שִׁ֥ירוּ לַֽ֝יהֹוָ֗ה כָּל־הָאָֽרֶץ: שִׁ֣ירוּ לַ֭יֽהֹוָה בָּֽרֲכ֣וּ שְׁמ֑וֹ בַּשְּׂר֥וּ מִיּֽוֹם־לְ֝י֗וֹם יְשֽׁוּעָתֽוֹ: סַפְּר֣וּ בַגּוֹיִ֣ם כְּבוֹד֑וֹ בְּכָל־הָֽ֝עַמִּ֗ים נִפְלְאוֹתָֽיו: כִּ֥י גָ֘ד֤וֹל יְהֹוָ֣ה וּמְהֻלָּ֣ל מְאֹ֑ד נוֹרָ֥א ה֝֗וּא עַל־כָּל־אֱלֹהִֽים: כִּ֤י ׀ כָּל־אֱלֹהֵ֣י הָֽעַמִּ֣ים אֱלִילִ֑ים וַֽ֝יהֹוָ֗ה שָׁמַ֥יִם עָשָֽׂה: הוֹד־וְהָדָ֥ר לְפָנָ֑יו עֹ֥ז וְ֝תִפְאֶ֗רֶת בְּמִקְדָּשֽׁוֹ: הָב֣וּ לַ֭יֽהֹוָה מִשְׁפְּח֣וֹת עַמִּ֑ים הָב֥וּ לַֽ֝יהֹוָ֗ה כָּב֥וֹד וָעֹֽז: הָב֣וּ לַ֭יֽהֹוָה כְּב֣וֹד שְׁמ֑וֹ שְׂא֥וּ מִ֝נְחָ֗ה וּבֹ֥אוּ לְחַצְרוֹתָֽיו: הִשְׁתַּֽחֲו֣וּ לַ֭יֽהֹוָה בְּהַדְרַת־קֹ֑דֶשׁ חִ֥ילוּ מִ֝פָּנָ֗יו כָּל־הָאָֽרֶץ: אִמְר֤וּ בַגּוֹיִ֨ם ׀ יְהֹ֘וָ֤ה מָלָ֗ךְ אַף־תִּכּ֣וֹן תֵּבֵ֣ל בַּל־תִּמּ֑וֹט יָדִ֥ין עַ֝מִּ֗ים בְּמֵֽישָׁרִֽים: יִשְׂמְח֣וּ הַ֭שָּׁמַיִם וְתָגֵ֣ל הָאָ֑רֶץ יִרְעַ֥ם הַ֝יָּ֗ם וּמְלֹאֽוֹ: יַֽעֲלֹ֣ז שָׂ֭דַי וְכָל־אֲשֶׁר־בּ֑וֹ אָ֥ז יְ֝רַֽנֲנ֗וּ כָּל־עֲצֵי־יָֽעַר: לִפְנֵ֤י יְהֹוָ֙ה ׀ כִּ֬י בָ֗א כִּ֥י בָא֘ לִשְׁפֹּ֢ט הָ֫אָ֥רֶץ יִשְׁפֹּט־תֵּבֵ֥ל בְּצֶ֑דֶק וְ֝עַמִּ֗ים בֶּֽאֱמֽוּנָתֽוֹ:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Sing to YHVH a new song; sing to YHVH, all the earth. Sing to YHVH, bless God’s name; proclaim God’s deliverance day after day. Tell of God’s glory among the nations, God’s wonderful acts among all peoples. For YHVH is great and highly praised; awesome is God, above all gods. For all the gods of the peoples are only idols, but YHVH made the heavens. Honor and majesty in God’s presence; strength and beauty in God’s sanctuary. Grant to YHVH, O families of peoples, grant to YHVH glory and strength. Grant to YHVH the glory due God’s name; bring an offering, and come into God’s courts. Bow down to YHVH in the beauty of holiness; tremble in God’s presence, all the earth. Say among the nations: “YHVH reigns.” The earth holds firm and cannot be shaken; God judges the peoples with fairness. Let the heavens be glad and the earth rejoice; let the sea roar, and all within it and all within it. Let the field exult, and all inside it. Then all the trees of the wood will shout for joy before YHVH, who is coming. For God is coming to judge the earth; God will judge the earth with righteousness and the peoples with God’s faithfulness.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <h4>Psalms 97</h4>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְהֹוָ֣ה מָלָךְ תָּגֵ֣ל הָאָ֑רֶץ יִ֝שְׂמְח֗וּ אִיִּ֥ים רַבִּֽים: עָנָ֣ן וַֽעֲרָפֶ֣ל סְבִיבָ֑יו צֶ֥דֶק וּ֝מִשְׁפָּ֗ט מְכ֣וֹן כִּסְאֽוֹ: אֵשׁ לְפָנָ֣יו תֵּלֵ֑ךְ וּתְלַהֵ֖ט סָבִ֣יב צָרָֽיו: הֵאִ֣ירוּ בְרָקָ֣יו תֵּבֵ֑ל רָֽאֲתָ֖ה וַתָּחֵ֣ל הָאָֽרֶץ: הָרִ֗ים כַּדּוֹנַ֗ג נָמַסּוּ מִלִּפְנֵ֣י יְהֹוָ֑ה מִ֝לִּפְנֵ֗י אֲד֣וֹן כָּל־הָאָֽרֶץ: הִגִּ֣ידוּ הַשָּׁמַ֣יִם צִדְק֑וֹ וְרָא֖וּ כָל־הָֽעַמִּ֣ים כְּבוֹדֽוֹ: יֵבֹ֤שׁוּ ׀ כָּל־עֹ֬בְֿדֵי פֶ֗סֶל הַמִּֽתְהַֽלֲלִ֥ים בָּֽאֱלִילִ֑ים הִשְׁתַּֽחֲווּ־ל֝וֹ כָּל־אֱלֹהִֽים: שָׁמְֿעָ֬ה וַתִּשְׂמַ֨ח ׀ צִיּ֗וֹן וַתָּגֵלְנָה בְּנ֣וֹת יְהוּדָ֑ה לְמַ֖עַן מִשְׁפָּטֶ֣יךָ יְהֹוָֽה: כִּֽי־אַתָּ֤ה יְהֹוָ֗ה עֶלְי֥וֹן עַל־כָּל־הָאָ֑רֶץ מְאֹ֥ד נַֽ֝עֲלֵ֗יתָ עַל־כָּל־אֱלֹהִֽים: אֹהֲבֵ֥י יְהֹוָ֗ה שִׂנְא֫וּ רָ֥ע שֹׁמֵר נַפְשׁ֣וֹת חֲסִידָ֑יו מִיַּ֥ד רְ֝שָׁעִ֗ים יַצִּילֵֽם: א֖וֹר־זָרֻ֣עַ לַצַּדִּ֑יק וּֽלְיִשְׁרֵי־לֵ֥ב שִׂמְחָֽה: שִׂמְח֣וּ צַדִּיקִים בַּֽיהֹוָ֑ה וְ֝הוֹד֗וּ לְזֵ֣כֶר קָדְשֽׁוֹ:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 YHVH reigns: let the earth rejoice; let the many islands be glad. Clouds and darkness encircle God; righteousness and justice support God’s throne. A fire goes before God and burns up God’s circling enemies. God’s lightning illuminates the earth; the earth sees and trembles. The mountains melt like wax at the presence of YHVH, in the presence of the Master of all the earth. The heavens declares God’s righteousness, and all the peoples see God’s glory. Ashamed are all those that serve carved images, that praise themselves for their false gods; bow down to God, all you gods. Tsiyon hears and is gladdened, and the towns of Yehudah rejoice, because of your judgments, YHVH. For you, YHVH, are high above all the earth; you are raised far above all gods. O you who love YHVH, hate evil — God preserves the souls of God’s pious ones and delivers them from the hand of the wicked. Light is sown for the righteous, and gladness for the upright in heart. Rejoice in YHVH, O righteous ones, and give thanks to God’s holy name.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <h4>Psalms 98</h4>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִזְמ֡וֹר שִׁ֤ירוּ לַֽיהֹוָ֙ה ׀ שִׁ֥יר חָדָ֗שׁ כִּֽי־נִפְלָא֥וֹת עָשָׂ֑ה הוֹשִֽׁיעָה לּ֥וֹ יְ֝מִינ֗וֹ וּזְר֥וֹעַ קָדְשֽׁוֹ: הוֹדִ֣יעַ יְ֖הֹוָה יְשֽׁוּעָת֑וֹ לְעֵינֵ֥י הַ֝גּוֹיִ֗ם גִּלָּ֥ה צִדְקָתֽוֹ: זָ֘כַ֤ר חַסְדּ֨וֹ ׀ וֶֽאֱמֽוּנָתוֹ֘ לְבֵ֢ית יִשְׂרָ֫אֵ֥ל רָא֥וּ כָל־אַפְסֵי־אָ֑רֶץ אֵ֝֗ת יְשׁוּעַ֥ת אֱלֹהֵֽינוּ: הָרִ֣יעוּ לַ֭יֽהֹוָה כָּל־הָאָ֑רֶץ פִּצְח֖וּ וְרַֽנֲנ֣וּ וְזַמֵּֽרוּ: זַמְּר֣וּ לַ֖יֽהֹוָה בְּכִנּ֑וֹר בְּ֝כִנּ֗וֹר וְק֣וֹל זִמְרָֽה: בַּֽ֖חֲצֹֽצְרוֹת וְק֣וֹל שׁוֹפָ֑ר הָ֝רִ֗יעוּ לִפְנֵ֤י ׀ הַמֶּ֬לֶךְ יְהֹוָֽה: יִרְעַ֣ם הַ֭יָּם וּמְלֹא֑וֹ תֵּ֝בֵ֗ל וְי֣שְׁבֵי בָֽהּ: נְהָר֥וֹת יִמְחֲאוּ־כָ֑ף יַ֝֗חַד הָרִ֥ים יְרַנֵּֽנוּ: לִֽפְנֵ֥י יְהֹוָ֗ה כִּ֥י בָא֘ לִשְׁפֹּ֢ט הָ֫אָ֥רֶץ יִשְׁפֹּט־תֵּבֵ֥ל בְּצֶ֑דֶק וְ֝עַמִּ֗ים בְּמֵֽישָׁרִֽים:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 A Psalm. Sing to YHVH a new song, for God has done wonders. God’s right hand, God’s holy arm, has brought deliverance for God. YHVH has proclaimed God’s salvation; God’s righteousness is revealed in the eyes of the nations. God has remembered mercy and faithfulness toward the House of Yisrael; All the ends of the earth have seen the deliverance of Elohenu. Shout to YHVH, all the earth; break forth and sing for joy. Sing praises to YHVH with the harp, with the harp and the voice of melody. With trumpets and sound of the horn, shout before YHVH, the Sovereign. Let the sea roar, and all within it; the world, and all dwelling in it. Let the rivers clap their hands, and let the mountains sing together for joy; before YHVH, for God is coming to judge the earth. God will judge the world rightly, and the peoples fairly.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <h4>Psalms 99</h4>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְהֹוָ֣ה מָ֭לָךְ יִרְגְּז֣וּ עַמִּ֑ים ישֵׁ֥ב כְּ֝רוּבִ֗ים תָּנ֥וּט הָאָֽרֶץ: יְ֖הֹוָה בְּצִיּוֹ֣ן גָּד֑וֹל וְרָ֥ם ה֝֗וּא עַל־כָּל־הָֽעַמִּֽים: יוֹד֣וּ שִׁ֭מְךָ גָּד֥וֹל וְנוֹרָ֗א קָד֥וֹשׁ הֽוּא: וְעֹ֥ז מֶלֶךְ֘ מִשְׁפָּ֢ט אָ֫הֵ֥ב אַ֭תָּה כּוֹנַ֣נְתָּ מֵּֽישָׁרִ֑ים מִשְׁפָּ֥ט וּ֝צְדָקָ֗ה בְּיַֽ עֲקֹ֤ב ׀ אַתָּ֬ה עָשִֽׂיתָ: רֽוֹמֲמ֡וּ יְהֹ֘וָ֤ה אֱלֹהֵ֗ינוּ וְ֖הִֽשְׁתַּֽחֲווּ לַֽהֲדֹ֥ם רַגְלָ֗יו קָד֥וֹשׁ הֽוּא: מ֘שֶׁ֤ה וְאַֽהֲרֹ֨ן ׀ בְּכֹֽהֲנָ֗יו וּ֭שְׁמוּאֵל בְּקֹֽרְאֵ֣י שְׁמ֑וֹ קֹרִ֥אים אֶל־יְ֝הֹוָ֗ה וְה֣וּא יַֽעֲנֵֽם: בְּעַמּ֣וּד עָ֭נָן יְדַבֵּ֣ר אֲלֵיהֶ֑ם שָֽׁמְר֥וּ עֵֽ֝דֹתָ֗יו וְחֹ֣ק נָֽתַן־לָֽמוֹ: יְהֹוָ֣ה אֱלֹהֵינוּ֘ אַתָּ֢ה עֲנִ֫יתָ֥ם אֵ֣ל נֹ֭שֵֽׂא הָיִ֣יתָ לָהֶ֑ם וְ֝נֹקֵ֗ם עַל־עֲלִֽילוֹתָֽם: רֽוֹמֲמ֡וּ יְהֹ֘וָ֤ה אֱלֹהֵ֗ינוּ וְ֭הִֽשְׁתַּֽחֲווּ לְהַ֣ר קָדְשׁ֑וֹ כִּֽי־קָ֝ד֗וֹשׁ יְהֹוָ֥ה אֱלֹהֵֽינוּ:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 YHVH rules: let the peoples tremble. God is enthroned upon cherubim; let the earth shake. YHVH is great in Tsiyon, and high above all the peoples. Let them praise your name as great and awesome; holy is God. The mighty ruler who loves justice, you have established fairness; you have done justice and righteousness in Yaakov. Lift up YHVH Elohenu, and bow low at God’s footstool, for God is holy. Moshe and Aharon among God’s priests, and Shmuel among those who called upon God’s name. When they called on YHVH, God answered them. God spoke to them in a pillar of cloud; they kept God’s testimonies, and the decree that God gave them. YHVH Elohenu, you answered them; you were a forgiving God to them, though you took retribution for their misdeeds. Lift up YHVH Elohenu, and bow low at God’s holy mountain, for YHVH Elohenu is holy.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בּוֺאוּ וְנֵצֵא לִקְרַאת כַּלָה, לִקְרַאת שַׁבָּת מַלְכְּתָא, דַחֲקַל תַּפּוּחִין קַדִּישִׁין
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Come let us go to greet the bride, to greet the Shabbat Queen in the Field of Sacred Etrogs.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <h4>Psalms 29</h4>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִזְמ֗וֹר לְדָ֫וִ֥ד הָב֣וּ לַ֭יֽהֹוָה בְּנֵ֣י אֵלִ֑ים הָב֥וּ לַֽ֝יהֹוָ֗ה כָּב֥וֹד וָעֹֽז: הָב֣וּ לַ֭יֽהֹוָה כְּב֣וֹד שְׁמ֑וֹ הִשְׁתַּֽחֲו֥וּ לַֽ֝יהֹוָ֗ה בְּהַדְרַת־קֹֽדֶשׁ: ק֥וֹל יְהֹוָ֗ה עַל־הַ֫מָּ֥יִם אֵֽל־הַכָּב֥וֹד הִרְעִ֑ים יְ֝הֹוָ֗ה עַל־מַ֥יִם רַבִּֽים: קֽוֹל־יְהֹוָ֥ה בַּכֹּ֑חַ ק֥וֹל יְ֝הֹוָ֗ה בֶּֽהָדָֽר: ק֣וֹל יְ֖הֹוָה שֹׁבֵ֣ר אֲרָזִ֑ים וַיְשַׁבֵּ֥ר יְ֝הֹוָ֗ה אֶת־אַרְזֵ֥י הַלְּבָנֽוֹן: וַיַּרְקִידֵ֥ם כְּמוֹ־עֵ֑גֶל לְבָנ֥וֹן וְ֝שִׂרְי֗וֹן כְּמ֣וֹ בֶן־רְאֵמִֽים: קֽוֹל־יְהֹוָ֥ה חֹצֵ֗ב לַֽהֲב֥וֹת אֵֽשׁ: ק֣וֹל יְ֭הֹוָ֥ה יָחִ֣יל מִדְבָּ֑ר יָחִ֥יל יְ֝הֹוָ֗ה מִדְבַּ֥ר קָדֵֽשׁ: ק֣וֹל יְהֹוָ֙ה ׀ יְחוֹלֵ֣ל אַיָּלוֹת֘ וַיֶּֽחֱשׂ֢ף יְעָ֫ר֥וֹת וּבְהֵֽיכָל֑וֹ כֻּ֝לּ֗וֹ אֹמֵ֥ר כָּבֽוֹד: יְ֭הֹוָה לַמַּבּ֣וּל יָשָׁ֑ב וַיֵּ֥שֶׁב יְ֝הֹוָ֗ה מֶ֣לֶךְ לְעוֹלָֽם: ו יחדיו יְֽהֹוָ֗ה עֹ֖ז לְעַמּ֣וֹ יִתֵּ֑ן יְהֹוָ֓ה ׀ יְבָרֵ֖ךְ אֶת־עַמּ֣וֹ בַֿשָּׁלֽוֹם:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 A Psalm of David. Grant to YHVH, O children of might, Grant to YHVH glory and strength. Grant to YHVH the glory of God’s name; Bow low to YHVH in the beauty of holiness. The voice of YHVH is over the waters, The glory of God thunders; YHVH is over many waters. The voice of YHVH in strength, the voice of YHVH in majesty, The voice of YHVH breaks the cedars, YHVH shatters the cedars of Lebanon. YHVH makes them skip like a calf, Lebanon and Sirion like a wild ox. The voice of YHVH sparks flames of fire. The voice of YHVH shakes the wilderness; YHVH shakes the wilderness of Ḳadesh. The voice of YHVH moves the deer to birth and strips bare the forests, While in God’s sanctuary, all say: “Glory!” YHVH reigned at the Flood; YHVH will reign as majesty forever. YHVH will give strength to God’s people; YHVH will bless God’s people with peace.
 </div></td>
 </tr>
@@ -337,121 +337,121 @@ A Psalm of David. Grant to YHVH, O children of might, Grant to YHVH glory and st
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Initials</th><th style="text-align: right;">Hebrew (source)</th><th style="text-align: left;">English (translation)</th></tr></thead>
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 אב״ג ית״ץ
 </span></div></td>
 
 <td style="vertical-align:top;" width="34%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָנָּא בְּכֹחַ גְּדֻלַּת יְמִינְךָ תַּתִּיר צְרוּרָה
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 We implore, with the power of your great right hand, untie the knots.</div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 קר״ע שט״ן
 </span></div></td>
 
 <td style="vertical-align:top;" width="34%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 קַבֵּל רִנַּת עַמְּךָ שַׂגְּבֵנוּ טַהֲרֵנוּ נוֹרָא
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 Receive the joy of your people; empower us, purify us, Awesome one.</div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 נג״ד יכ״ש
 </span></div></td>
 
 <td style="vertical-align:top;" width="34%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 נָא גִבּוֹר, דּוֹרְשֵׁי יִחוּדְךָ, כְּבָבַת שָׁמְרֵם
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 Please Mighty one, seekers of your unity, like the pupil of the eye guard them.</div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 בט״ר צת״ג
 </span></div></td>
 
 <td style="vertical-align:top;" width="34%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרְכֵם טַהֲרֵם, רַחֲמֵי צִדְקָתְךָ, תָּמִיד גָּמְלֵם
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 Bless, purify, and have compassion on them, deal justly with them, ever provide for them.</div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 חק״ב טנ״ע
 </span></div></td>
 
 <td style="vertical-align:top;" width="34%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 חָסִין קָדוֹשׁ, בְּרֹב טוּבְךָ, נַהֵל עֲדָתֶךָ
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 Holy one of power, in your manifold goodness, guide your congregation.</div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 יג״ל פז״ק
 </span></div></td>
 
 <td style="vertical-align:top;" width="34%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יָחִיד גֵּאֶה, לְעַמְּךָ פְּנֵה, זוֹכְרֵי קְדֻשָּׁתֶךָ
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 Alone, exalted, turn to your people; who remember your holiness.</div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 שק״ו צי״ת
 </span></div></td>
 
 <td style="vertical-align:top;" width="34%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שַׁוְעָתֵנוּ קַבֵּל, וּשְׁמַע צַעֲקָתֵנוּ, יוֹדֵעַ תַּעֲלוּמוֹת
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 Receive our plea, and listen to our cry, knowing all that has been and will be.</div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 
 </span></div></td>
 
 <td style="vertical-align:top;" width="34%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
  <span class="instruction">בלחש</span> בָּרוּךְ שֵׁם כְּבוֹד מַלְכוּתוֹ לְעוֹלָם וָעֶד:‏
  </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 Blessed is the name of God’s Glorious Majesty forever and ever.
 </div></td></tr></tbody></table>
 
@@ -474,18 +474,18 @@ Blessed is the name of God’s Glorious Majesty forever and ever.
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לְכָה דוֹדִי לִקְרַאת כַּלָּה . פְּנֵי שַׁבָּת נְקַבְּלָה:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Come, my beloved, to meet the bride; let us receive the face of Shabbat.
 </div></td>
 </tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 שָׁמוֹר וְזָכוֹר בְּדִבּוּר אֶחָד. 
 הִשְׁמִיעָֽנוּ אֵל הַמְיֻחָד. 
 יְיָ אֶחָד וּשְׁמוֹ אֶחָד. 
@@ -494,7 +494,7 @@ Come, my beloved, to meet the bride; let us receive the face of Shabbat.
 לְכָה דוֹדִי לִקְרַאת כַּלָּה . פְּנֵי שַׁבָּת נְקַבְּלָה:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Keep and remember in a single word,
 We were made to hear by the unifying God,
 YHVH is one, whose Name is one,
@@ -505,7 +505,7 @@ Come, my beloved, to meet the bride; let us receive the face of Shabbat.</div></
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 לִקְרַאת שַׁבָּת לְכוּ וְנֵלְכָה. 
 כִּי הִיא מְקוֹר הַבְּרָכָה. 
 מֵרֹאשׁ מִקֶּֽדֶם נְסוּכָה. 
@@ -514,7 +514,7 @@ Come, my beloved, to meet the bride; let us receive the face of Shabbat.</div></
 לְכָה דוֹדִי לִקְרַאת כַּלָּה . פְּנֵי שַׁבָּת נְקַבְּלָה:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Towards Shabbat let’s go, let’s travel,
 For she is the wellspring of blessing,
 From the start, from long ago she was chosen,
@@ -525,7 +525,7 @@ Come, my beloved, to meet the bride; let us receive the face of Shabbat.</div></
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 מִקְדַּשׁ מֶֽלֶךְ עִיר מְלוּכָה. 
 קֽוּמִי צְאִי מִתּוֹךְ הַהֲפֵכָה. 
 רַב לָךְ שֶֽׁבֶת בְּעֵֽמֶק הַבָּכָא. 
@@ -534,7 +534,7 @@ Come, my beloved, to meet the bride; let us receive the face of Shabbat.</div></
 לְכָה דוֹדִי לִקְרַאת כַּלָּה . פְּנֵי שַׁבָּת נְקַבְּלָה:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Sanctuary of Majesty, royal city,
 Arise! Leave from the midst of the turmoil;
 Long enough have you sat in the valley of tears
@@ -545,7 +545,7 @@ Come, my beloved, to meet the bride; let us receive the face of Shabbat.</div></
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 הִתְנַעֲרִי־מֵעָפָר קֽוּמִי. 
 לִבְשִׁי בִּגְדֵי תִפְאַרְתֵּךְ עַמִּי. 
 עַל יַד בֶּן יִשַׁי בֵּית הַלַּחְמִי. 
@@ -554,7 +554,7 @@ Come, my beloved, to meet the bride; let us receive the face of Shabbat.</div></
 לְכָה דוֹדִי לִקְרַאת כַּלָּה . פְּנֵי שַׁבָּת נְקַבְּֿלָה:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Shake yourself free, rise from the dust,
 Dress in your garments of splendor, my people,
 By the hand of Yishai’s son, of Bethlehem,
@@ -565,7 +565,7 @@ Come, my beloved, to meet the bride; let us receive the face of Shabbat.</div></
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 הִתְעוֹרֲרִי הִתְעוֹרֲרִי. 
 כִּי בָא אוֹרֵךְ קֽוּמִי אֽוֹרִי. 
 עֽוּרִי עֽוּרִי שִׁיר דַבֵּֽרִי. 
@@ -574,7 +574,7 @@ Come, my beloved, to meet the bride; let us receive the face of Shabbat.</div></
 לְכָה דוֹדִי לִקְרַאת כַּלָּה . פְּנֵי שַׁבָּת נְקַבְּלָה:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Rouse yourselves! Rouse yourselves!
 Your light is coming, rise up and shine.
 Awaken! Awaken! utter a song,
@@ -585,7 +585,7 @@ Come, my beloved, to meet the bride; let us receive the face of Shabbat.</div></
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 לֹא תֵבֽוֹשִׁי וְלֹא תִכָּלְמִי. 
 מַה תִּשְׁתּוֹחֲחִי וּמַה תֶּהֱמִי. 
 בָּךְ יֶחֱסוּ עֲנִיֵּי עַמִּי. 
@@ -594,7 +594,7 @@ Come, my beloved, to meet the bride; let us receive the face of Shabbat.</div></
 לְכָה דוֹדִי לִקְרַאת כַּלָּה . פְּנֵי שַׁבָּת נְקַבְּלָה:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Do not be embarrassed! Do not be ashamed!
 Why be downcast? Why moan?
 All my afflicted people will find shelter within you
@@ -605,7 +605,7 @@ Come, my beloved, to meet the bride; let us receive the face of Shabbat.</div></
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 וְהָיוּ לִמְשִׁסָּה שֹׁאסָֽיִךְ. 
 וְרָחֲקוּ כָּל מְבַלְּעָֽיִךְ. 
 יָשִׂישׂ עָלַֽיִךְ אֱלֹהָֽיִךְ. 
@@ -614,7 +614,7 @@ Come, my beloved, to meet the bride; let us receive the face of Shabbat.</div></
 לְכָה דוֹדִי לִקְרַאת כַּלָּה . פְּנֵי שַׁבָּת נְקַבְּלָה:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Your despoilers will become spoil,
 Far away shall be any who would devour you,
 Your god will rejoice in you,
@@ -625,7 +625,7 @@ Come, my beloved, to meet the bride; let us receive the face of Shabbat.</div></
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 יָמִין וּשְׂמֹאל תִּפְרֽוֹצִי. 
 וְאֶת יְיָ תַּעֲרִֽיצִי. 
 עַל יַד אִישׁ בֶּן פַּרְצִי. 
@@ -634,7 +634,7 @@ Come, my beloved, to meet the bride; let us receive the face of Shabbat.</div></
 לְכָה דוֹדִי לִקְרַאת כַּלָּה . פְּנֵי שַׁבָּת נְקַבְּלָה:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 To your left and your right you will burst forth,
 And God will you revere
 By the hand of a child of Perets,
@@ -652,11 +652,11 @@ Come, my beloved, to meet the bride; let us receive the face of Shabbat.</div></
 <blockquote>In Jewish tradition, mourners do not observe mourning customs publicly on Shabbat. If mourners attend Shabbat services during shiva, the seven days following the burial of a close loved one, they enter services after Lekha Dodi. The congregation receives them with this greeting:</blockquote>
 <table style="margin-left: auto;margin-right: auto;"></tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 הַמָּקוֹם יְנַחֵם אֶתְכֶם בְּתוֹךְ שְׁאָר אֲבֵלֵי צִיּוֹן וִירוּשָׁלָיִם 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <em>Hamakom yenakhem etkhem betokh sh’ar avelei tzion vi’yerushalayim</em>
 May the <em>Makom</em> comfort you among the other mourners of Tsiyon and Yerushalayim.
 </div></td>
@@ -668,7 +668,7 @@ May the <em>Makom</em> comfort you among the other mourners of Tsiyon and Yerush
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 בּֽוֹאִי בְשָׁלוֹם עֲטֶרֶת בַּעְלָהּ. 
 גַּם בְּשִׂמְחָה וּבְצָהֳלָה. 
 תּוֹךְ אֱמוּנֵי עַם סְגֻּלָּה. 
@@ -677,7 +677,7 @@ May the <em>Makom</em> comfort you among the other mourners of Tsiyon and Yerush
 לְכָה דוֹדִי לִקְרַאת כַּלָּה . פְּנֵי שַׁבָּת נְקַבְּלָה:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Come in peace, crown of her husband,
 Both in happiness and in jubilation
 Amidst the faithful of the treasured nation
@@ -703,41 +703,41 @@ Come, my beloved, to meet the bride; let us receive the face of Shabbat.
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <h4>Psalms 92</h4>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִזְמ֥וֹר שִׁ֝֗יר לְי֥וֹם הַשַּׁבָּֽת: ט֗וֹב לְהֹד֥וֹת לַֽיהֹוָ֑ה וּלְזַמֵּ֖ר לְשִׁמְךָ֣ עֶלְיֽוֹן: לְהַגִּ֣יד בַּבֹּ֣קֶר חַסְדֶּ֑ךָ וֶֽ֝אֱמוּנָֽתְךָ֗ בַּלֵּילֽוֹת: עֲלֵֽי־עָ֭שׂוֹר וַֽעֲלֵי־נָ֑בֶל עֲלֵ֖י הִגָּי֣וֹן בְּכִנּֽוֹר: כִּ֤י שִׂמַּחְתַּ֣נִי יְהֹוָ֣ה בְּפָֽעֳלֶ֑ךָ בְּמַֽעֲשֵׂ֖י יָדֶ֣יךָ אֲרַנֵּֽן: מַה־גָּֽדְל֣וּ מַֽעֲשֶׂ֣יךָ יְהֹוָ֑ה מְ֝אֹ֗ד עָֽמְק֥וּ מַחְשְׁבֹתֶֽיךָ: אִ֣ישׁ בַּ֭עַר לֹ֣א יֵדָ֑ע וּ֝כְסִ֗יל לֹֽא־יָבִ֥ין אֶת־זֹֽאת: בִּפְרֹ֤חַ רְשָׁעִ֨ים ׀ כְּמ֥וֹ עֵ֗שֶׂב וַ֭יָּצִיצוּ כָּל־פֹּ֣עֲלֵי אָ֑וֶן לְהִשָּֽׁמְדָ֥ם עֲדֵי־עַֽד: וְאַתָּ֥ה מָ֜ר֗וֹם לְעֹלָ֥ם יְהֹוָֽה: כִּ֤י הִנֵּ֢ה אֹֽיְבֶֽ֡יךָ יְֽהֹוָ֗ה כִּֽי־הִנֵּ֣ה אֹֽיְבֶ֣יךָ יֹאבֵ֑דוּ יִ֝תְפָּֽרְד֗וּ כָּל־פֹּ֥עֲלֵי אָֽוֶן: וַתָּ֣רֶם כִּרְאֵ֣ים קַרְנִ֑י בַּ֝לֹּתִ֗י בְּשֶׁ֣מֶן רַֽעֲנָֽן: וַתַּבֵּ֥ט עֵינִ֗י בְּשׁ֫וּרָ֥י בַּקָּמִ֣ים עָלַ֣י מְרֵעִ֑ים תִּשְׁמַ֥עְנָה אָזְנָֽי: צַ֭דִּיק כַּתָּמָ֣ר יִפְרָ֑ח כְּאֶ֖רֶז בַּלְּבָנ֣וֹן יִשְׂגֶּֽה: שְׁ֭תוּלִים בְּבֵ֣ית יְהֹוָ֑ה בְּחַצְר֖וֹת אֱלֹהֵ֣ינוּ יַפְרִֽיחוּ: ע֖וֹד יְנוּב֣וּן בְּשֵׂיבָ֑ה דְּשֵׁנִ֖ים וְרַֽעֲנַנִּ֣ים יִֽהְיֽוּ: לְ֭הַגִּיד כִּי־יָשָׁ֣ר יְהֹוָ֑ה צ֝וּרִ֗י וְלֹֽא־עַוְלָ֥תָה בּֽוֹ:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 A Psalm, a song, for the Shabbat day. It is good to thank YHVH, and to sing to your name, O Most High; To tell of your lovingkindness in the morning, and your faithfulness by night; With ten strings, with the lyre, with a solemn sound upon the harp. For you have made me glad through your works, YHVH; I exult in the works of your hands. How great are your works, YHVH! How very deep are your thoughts! The senseless do not know, nor does a fool understand this: When the wicked blossom like grass, and when all those who work ill flourish, it is that they may be destroyed forever. But you are placed on high for all time. Look, for your enemies, YHVH. See, for your enemies shall perish: All who work ill shall be scattered. And my horn you have raised like the wild-ox; I am anointed with rich oil. My eye shall gaze upon them that lie in wait for me; my ears shall hear the downfall of the wicked that rise against me. The righteous shall flourish like the palm tree and grow like a cedar in Lebanon. Planted in the House of YHVH, they shall flourish in the courts of Elohenu. They shall still bring forth fruit in old age; they shall be full of sap and richness, To declare that YHVH is upright, my rock, in whom there is no wrong.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <h4>Psalms 93</h4>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְהֹוָ֣ה מָלָךְ֘ גֵּא֢וּת לָ֫בֵ֥שׁ לָבֵ֣שׁ יְ֭הֹוָה עֹ֣ז הִתְאַזָּר֑ אַף־תִּכּ֣וֹן תֵּ֝בֵ֗ל בַּל־תִּמּֽוֹט: נָכ֣וֹן כִּסְאֲךָ֣ מֵאָ֑ז מֵ֖עוֹלָ֣ם אַֽתָּה: נָֽשְׂא֤וּ נְהָר֨וֹת ׀ יְהֹוָ֗ה נָֽשְׂא֣וּ נְהָר֣וֹת קוֹלָ֑ם יִשְׂא֖וּ נְהָר֣וֹת דָּכְיָֽם: מִקֹּל֙וֹת ׀ מַ֤יִם רַבִּים אַדִּירִ֥ים מִשְׁבְּרֵי־יָ֑ם אַדִּ֖יר בַּמָּר֣וֹם יְהֹוָֽה: עֵֽדֹ֨תֶיךָ ׀ נֶאֶמְנ֬וּ מְאֹ֗ד לְבֵֽיתְךָ֥ נָֽאֲוָה־קֹּ֑דֶשׁ יְ֝הֹוָ֗ה לְאֹ֣רֶךְ יָמִֽים:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 YHVH reigns, robed in majesty. YHVH is robed, girded with strength. The earth holds firm and cannot be shaken. Your throne holds firm from old; you are from everlasting. The rivers have lifted up, YHVH, the rivers have lifted up their voices; The rivers lift up their roaring. Above the roaring of the mighty waters, the mighty breakers of the sea, YHVH is exulted, on high. Your testimonies are surely faithful, and holiness becomes your House, YHVH, for all days to come.
 </div></td>
 </tr>
@@ -758,17 +758,17 @@ If you are reciting Kaddish, you may choose to take three steps back as you star
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <h4>Mourners Kaddish</h4>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יִתְגַּדַּל וְיִתְקַדַּשׁ שְׁמֵיהּ רַבָּא ( אָמֵן) .
  בְּעָלְמָא דִּבְרָא כִרְעוּתֵהּ . 
 &nbsp;
@@ -793,7 +793,7 @@ If you are reciting Kaddish, you may choose to take three steps back as you star
 וְעַל כָּל יוֺשְׁבֵי תֵבֶל: וְאִמְרוּ אָמֵן: ( אָמֵן)
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 May the great name be exalted and sanctified is God’s great name (Amen) 
 -- in the world which God created at will!
 &nbsp;
@@ -831,34 +831,34 @@ And say, (Amen)
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="instruction">כשחל שבת ביום טוב או במוצאי יום טוב או בחוה"מ אין אומרים כגונא רק מיד "ברכו":</span>
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <em>On a shabbat that coincides with a festival or which begins just as a festival ends, skip this reading and go directly to Barekhu</em>
 </div></td>
 </tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 כְּגַוְנָא דְאִנּוּן מִתְיַחֲדִין לְעֵלָּא בְּאֶחָד. אוֹף הָכִי אִיהִי אִתְיַחֲדַת לְתַתָּא בְּרָזָא דְאֶחָד לְמֶהֱוֵי עִמְּהוֹן לְעֵלָּא חָד לָקֳבֵל חָד. קוּדְשָׁא בְּרִיךְ הוּא אֶחָד. לְעֵלָּא לֹא יָתִיב עַל כּוּרְסַיָּא דִּיקָרֵיהּ עַד דְאִתְעֲבִידַת אִיהִי בְּרָזָא דְאֶחָד. כְּגַוְנָא דִילֵיהּ לְמֶהֱוֵי אֶחָד בְּאֶחָד. וְהָא אוּקִימְנָא רָזָא דַיְהֹוָה אֶחָד וּשְׁמוֹ אֶחָד: רָזָא דְשַׁבָּת אִיהִי שַׁבָּת דְּאִתְאַחֲדַת בְּרָזָא דְאֶחָד. לְמִשְׁרֵי עֲלָהּ רָזָא דְאֶחָד. צְלוֹתָא דְמַעֲלֵי שַׁבְּתָא דְּהָא אִתְאַחֲדַת כּוּרְסַיָּא יַקִּירָא קַדִּישָׁא בְּרָזָא דְאֶחָד. וְאִתְתַּקָּנַת לְמִשְׁרֵי עֲלָהּ מַלְכָּא קַדִּישָׁא עִלָּאָה. כַּד עַיִּל שַׁבְּתָא אִיהִי אִתְיַחֲדַת וְאִתְפַּרְשַׁת מִסִּטְרָא אַחֲרָא. וְכָל דִּינִין מִתְעַבְּרִין מִנָּהּ וְאִיהִי אִשְׁתְּאָרַת בְּיִחוּדָא דִנְהִירוּ קַדִּישָׁא. וְאִתְעַטְרַת בְּכַמָה עִטְרִין לְגַבֵּי מַלְכָּא קַדִישָׁא. וְכָל שׁוּלְטָנֵי רוּגְזִין וּמָארֵי דְדִינָא כֻּלְּהוּ עַרְקִין וְאִתְעַבְּרוּ מִנָּהּ. וְלֵית שׁוּלְטָנָא אַחֲרָא בְּכֻלְּהוּ עָלְמִין (בַּר מִנָּהּ). וְאַנְפָּהָא נְהִירִין בִּנְהִירוּ עִלָּאָה וְאִתְעַטְּרַת לְתַתָּא בְּעַמָּא קַדִּישָׁא. וְכֻלְּהוֹן מִתְעַטְּרִין בְּנִשְׁמָתִין חַדְתִּין כְּדֵין שֵׁירוּתָא דִצְלוֹתָא. לְבָרְכָא לָהּ בְּחֶדְוָה בִּנְהִירוּ דְּאַנְפִּין. וְלוֹמַר:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 When they are united above, so does She unite below in the "Mystery of One," to be with them above, One corresponding to One. The blessed Holy One, one above, does not sit upon His Throne of Glory until She becomes, via "Mystery of One," like Him, to be one with one. [This is] "Mystery of Shabbat": She is Shabbat—united in the "Mystery of One," so that "Mystery of One" may settle upon Her. [This is the significance of the] prayer for the entrance of Shabbat, [for] then the Holy Throne is united in "Mystery of One," [and] arrayed for the supernal Holy King to rest upon Her. When Shabbat enters She unites, and separates [herself] from the Other Side, all judgments removed from Her. And She remains unified in holy radiance, adorned with many crowns for the Holy King. All powers of wrath and masters of judgment all flee (and pass away from her) and no alien power reigns in all the worlds. Her face shines with supernal radiance, and She is adorned below by the Holy People, all of whom are adorned with new [or: joyous] souls. Then, beginning of prayer, blessing Her with joy and beaming faces, saying: “Bless את (<em>et</em>) YHVH who is blessed!”[foot]Zohar Terumah 163-166. Translation based upon that of Daniel C. Matt, The Essential Kabbalah, p.80.[/foot]
 </div></td>
 </tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 <span class="instruction">ביחיד יאמר זה בסיום כגונא אחרי בנהירו דאנפין:</span>
 בָּרְכוּ אֶת יְהֹוָה הַמְּבוֹרָךְ. אֶת דַּיְקָא דָא שַׁבָּת דְּמַעֲלֵי שַׁבְּתָא: בָּרוּךְ יְהֹוָה הַמְּבוֹרָךְ. דָּא אַפִּיקוּ דְבִרְכָאָן מִמְּקוֹרָא דְחַיֵּי וַאֲתַר דְּנָפִיק מִנֵּיהּ כָּל שַׁקְיוּ לְּאַשְׁקָאָה לְכֹלָּא וּבְגִין דְּאִיהוּ מְקוֹרָא בְּרָזָא דְאָת קַיָמָא קְרִינָן לֵיהּ הַמְבוֹרָךְ אִיהוּ מַבּוּעָא דְבֵירָא וְכִיוָן דִּמְטָאָן הָתָם הָא כֻלְּהוּ לְעוֹלָם וָעֶד. וְדָא אִיהוּ בָּרוּךְ יְהֹוָה הַמְּבוֹרָךְ לְעוֹלָם וָעֶד:   
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 (<em>If one is praying alone, continue here</em>:)
 <em>Barkhu et YHVH Hamevorakh</em>: As we have established, את (<em>et</em>) is the Shabbat at the entrance of the Shabbat. "<em>Barukh YHVH Hamevorakh</em>" is the source of blessings from the source of life and the place from which all waterings go forth to water everything. It is the source in the secret of the sign of the covenant, which we call '<em>Hamevorakh</em>,' for it is the fountain of the well. When [the blessings] reach there, the well certainly becomes filled, for the water never stops flowing. Therefore we say, '<em>Barukh YHVH Hamevorakh L'Olam Va'ed</em>' -- it fills and waters 'forever and ever'.[foot]Zohar Terumah 169-170. Translation based upon that of Michael Berg, <em>The Book of Zohar</em>[/foot]
 </div></td>
@@ -892,23 +892,23 @@ Here I am, waiting, Watching, Listening. Attending to what is within and without
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ברכו
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <h3>Bless • Barekhu</h3>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרֲכוּ אֶת יְיָ הַמְבֹרָךְ:
 
 בָּרוּךְ יְיָ הַמְבֹרָךְ . לְעוֹלָם וָעֶד:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <em>Leader:</em> Bless YHVH who is blessed.
 
 <em>Leader, after community:</em> Blessed is YHVH who is blessed forever and ever.
@@ -932,21 +932,21 @@ Each night, I marvel: The fading light! The deepening darkness! Each morning, I 
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <h4>Who Makes Evening Fall</h4>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה יְיָ אֱלֹהֵֽינוּ מֶֽלֶךְ הָעוֹלָם . אֲשֶׁר בִּדְבָרוֹ מַעֲרִיב עֲרָבִים . בְּחָכְמָה פּוֹתֵֽחַ שְׁעָרִים . וּבִתְבוּנָה מְשַׁנֶּה עִתִּים . וּמַחֲלִיף אֶת הַזְּמַנִּים . וּמְסַדֵּר אֶת הַכּוֹכָבִים בְּמִשְׁמְרוֹתֵֽיהֶם בָּרָקִֽיעַ כְּרְצוֹנוֹ: בּוֹרֵא יוֹם וָלָֽיְלָה . גּוֹלֵל אוֹר מִפְּנֵי חֹֽשֶׁךְ וְחֹֽשֶׁךְ מִפְּנֵי אוֹר: וּמַעֲבִיר יוֹם וּמֵֽבִיא לָֽיְלָה . וּמַבְדִּיל בֵּין יוֹם וּבֵין לָֽיְלָה . יְיָ צְבָאוֹת שְׁמוֹ: אֵל חַי וְקַיָּם . תָּמִיד . יִמְלוֹךְ עָלֵֽינוּ . לְעוֹלָם וָעֶד: בבית כנסת כשאומרים פיוטים בלילי שלש רגלים מוסיפים כאן מערבית בָּרוּךְ אַתָּה יְיָ הַמַּעֲרִיב עֲרָבִים: אמן
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Blessed are you, YHVH Elohenu, ruler of all, who by word causes the evening time. With wisdom you open the gates and with insight change the times and alternate the seasons. You order the stars in their pathways in the firmament according to the Divine will. Creator of day and night, You roll light from before darkness and darkness from before light. And you cause the day to pass and bring the night; differentiating between day and night. YHVH Tsevaot is the Divine name. God of life and sustenance, constantly will you rule over us forever and ever. Blessed are you, YHVH, who causes the evening time.
 </div></td>
 </tr>
@@ -965,21 +965,21 @@ Blessed are you, YHVH Elohenu, ruler of all, who by word causes the evening time
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <h4>With everlasting love</h4>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אַהֲבַת עוֹלָם בֵּית יִשְׂרָאֵל עַמְּךָ אָהַבְתָּ: תּוֹרָה וּמִצְוֹת . חֻקִּים וּמִשְׁפָּטִים . אוֹתָֽנוּ לִמַֽדְתָּ: עַל כֵּן יְיָ אֱלֹהֵֽינוּ . בְּשָׁכְבֵּֽנוּ וּבְקוּמֵֽנוּ נָשִֽׂיחַ בְּחֻקֶּיךָ . וְנִשְׂמַח בְּדִבְרֵי תוֹרָתֶֽךָ . וּבְמִצְוֹתֶֽיךָ לְעוֹלָם וָעֶד: כִּי הֵם חַיֵּֽינוּ . וְאֹֽרֶךְ יָמֵֽינוּ . וּבָהֶם נֶהְגֶּה יוֹמָם וָלָֽיְלָה: וְאַהֲבָתְךָ . אַל תָּסִיר מִמֶּֽנּוּ לְעוֹלָמִים: בבית כנסת כשאומרים פיוטים בלילי שלש רגלים מוסיפים כאן מערבית בָּרוּךְ אַתָּה יְיָ אוֹהֵב, עַמּוֹ יִשְׂרָאֵל: אמן
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 With everlasting love, you have loved the house of Yisrael. Torah and Mitzvot, laws and judgements, all this have you taught us. Therefore, YHVH Elohenu, when we lie down and when we rise up, we will consider deeply your laws. And we will rejoice in the words of your Torah and Mitzvot forever and ever. For they are our life and the length of our days; and in them our days and nights are guided. Never remove from us your love. Blessed are you, YHVH, who loves the people Yisrael.
 </div></td>
 </tr>
@@ -1016,21 +1016,21 @@ In the <em>Ve’ahavta</em>, we declare our objective: to love YHVH with all of 
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <h3>The Shema</h3>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שְׁמַ֖<span style="font-size:xx-large;">ע</span> יִשְׂרָאֵ֑ל יְהֹוָ֥ה אֱלֹהֵ֖ינוּ יְהֹוָ֥ה ׀ אֶחָֽ<span style="font-size:xx-large;">ד</span>:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <em>Shema Yisra’el Adonai Eloheynu Adonai Eḥad</em>
 Hear Yisrael, YHVH Elohenu, YHVH is One![foot]Alternately, YHVH is unique[/foot]
 </div></td>
@@ -1038,93 +1038,93 @@ Hear Yisrael, YHVH Elohenu, YHVH is One![foot]Alternately, YHVH is unique[/foot]
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 <span class="instruction">בלחש</span> בָּרוּךְ . שֵׁם כְּבוֹד מַלְכוּתוֹ . לְעוֹלָם וָעֶד:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 (<em>whisper</em>) Blessed is the name of God’s Glorious Majesty forever and ever.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <h4>And You Shall Love</h4>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְאָ֣הַבְתָּ֔ אֵ֖ת יְהֹוָ֣ה אֱלֹהֶ֑יךָ בְּכָל־לְבָֽבְךָ֥ וּבְכָל־נַפְשְׁךָ֖ וּבְכָל־מְאֹדֶֽךָ: וְהָי֞וּ הַדְּבָרִ֣ים הָאֵ֗לֶּה אֲשֶׁ֨ר אָֽנֹכִ֧י מְצַוְךָ֛ הַיּ֖וֹם עַל־לְבָבֶֽךָ: וְשִׁנַּנְּתָּ֣ם לְבָנֶ֔יךָ וְדִבַּרְתָּ֖ בָּ֑ם בְּשִׁבְתְּךָ֤ בְּבֵיתֶ֨ךָ֙ וּבְלֶכְתְּךָ֣ בַדֶּ֔רֶךְ וּֽבְשָׁכְבְּךָ֖ וּבְקוּמֶֽךָ: וּקְשַׁרְתָּ֥ם לְא֖וֹת עַל־יָדֶ֑ךָ וְהָי֥וּ לְטֹֽטָפֹ֖ת בֵּ֥ין עֵינֶֽיךָ: וּכְתַבְתָּ֛ם עַל־מְזֻז֥וֹת בֵּיתֶ֖ךָ וּבִשְׁעָרֶֽיךָ:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 And you shall love YHVH your god, with all your mind, with all your soul, and with all your being. These words, which I command you this day, shall be on your mind at all times. You shall teach them consistently to your children; speaking of them when you are at home and when you are traveling, when you lie down and when you rise up. Keep them bound as a sign upon your hands, and they shall be <em>totafot</em> between your eyes. Write them on the doorposts of your house and on your gates.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <h4>And It Will Be That If You Listen</h4>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְהָיָ֗ה אִם־שָׁמֹ֤עַ תִּשְׁמְעוּ֙ אֶל־מִצְוֺתַ֔י אֲשֶׁ֧ר אָֽנֹכִ֛י מְצַוֶּ֥ה אֶתְכֶ֖ם הַיּ֑וֹם לְאַֽהֲבָ֞ה אֶת־יְהֹוָ֤ה אֱלֹֽהֵיכֶם֙ וּלְעָבְד֔וֹ בְּכָל־לְבַבְכֶ֖ם וּבְכָל־נַפְשְׁכֶֽם: וְנָֽתַתִּ֧י מְטַֽר־אַרְצְכֶ֛ם בְּעִתּ֖וֹ יוֹרֶ֣ה וּמַלְק֑וֹשׁ וְאָֽסַפְתָּ֣ דְגָנֶ֔ךָ וְתִירֽשְׁךָ֥ וְיִצְהָרֶֽךָ: וְנָֽתַתִּ֛י עֵ֥שֶׂב בְּשָֽׂדְךָ֖ לִבְהֶמְתֶּ֑ךָ וְאָֽכַלְתָּ֖ וְשָׂבָֽעְתָּ: הִשָֽׁמְר֣וּ לָכֶ֔ם פֶּן־יִפְתֶּ֖ה לְבַבְכֶ֑ם וְסַרְתֶּ֗ם וַֽעֲבַדְתֶּם֙ אֱלֹהִ֣ים אֲחֵרִ֔ים וְהִשְׁתַּֽחֲוִיתֶ֖ם לָהֶֽם: וְחָרָ֨ה אַף־יְהֹוָ֜ה בָּכֶ֗ם וְעָצַ֤ר אֶת־הַשָּׁמַ֨יִם֙ וְלֹא־יִֽהְיֶ֣ה מָטָ֔ר וְהָ֣אֲדָמָ֔ה לֹ֥א תִתֵּ֖ן אֶת־יְבוּלָ֑הּ וַֽאֲבַדְתֶּ֣ם מְהֵרָ֗ה מֵעַל֙ הָאָ֣רֶץ הַטֹּבָ֔ה אֲשֶׁ֥ר יְהֹוָ֖ה נֹתֵ֥ן לָכֶֽם: וְשַׂמְתֶּם֙ אֶת־דְּבָרַ֣י אֵ֔לֶּה עַל לְבַבְכֶ֖ם וְעַל־נַפְשְׁכֶ֑ם וּקְשַׁרְתֶּ֨ם אֹתָ֤ם לְאוֹת֙ עַל־יֶדְכֶ֔ם וְהָי֥וּ לְטֽוֹטָפֹ֖ת בֵּ֥ין עֵֽינֵיכֶֽם: וְלִמַּדְתֶּ֥ם אֹתָ֛ם אֶת־בְּנֵיכֶ֖ם לְדַבֵּ֣ר בָּ֑ם בְּשִׁבְתְּךָ֤ בְּבֵיתֶ֨ךָ֙ וּבְלֶכְתְּךָ֣ בַדֶּ֔רֶךְ וּֽבְשָׁכְבְּךָ֖ וּבְקוּמֶֽךָ: וּכְתַבְתָּ֛ם עַל־מְזוּז֥וֹת בֵּיתֶ֖ךָ וּבִשְׁעָרֶֽיךָ: לְמַ֨עַן יִרְבּ֤וּ יְמֵיכֶם֙ וִימֵ֣י בְנֵיכֶ֔ם עַ֚ל הָֽאֲדָמָ֔ה אֲשֶׁ֨ר נִשְׁבַּ֧ע יְהֹוָ֛ה לַֽאֲבֹֽתֵיכֶ֖ם לָתֵ֣ת לָהֶ֑ם כִּימֵ֥י הַשָּׁמַ֖יִם עַל־הָאָֽרֶץ:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 And it will be that if you faithfully listen to my commandments, which I command you today— to love YHVH your god and to serve with all your thoughts and feelings— I will give your lands rain in its appointed time (both the early and the late rains). And I will make manifold your grain and all harvests. I will provide grass in your fields for your flocks, and you will eat and be satisfied. Protect yourselves lest your heart stray and you turn and serve other gods and bow down to them. The anger of YHVH will then flair up against you and close up the heavens; and there will not be rain and the ground will not produce its yield. And you will quickly be lost from the good land that YHVH gives you. Put these My words in your thoughts and feelings and bind them as a sign on your hand and they will be <em>totafot</em> between your eyes. You shall teach your children to speak of them when sitting in your house, when walking along the way, when lying down, and when rising up. And you shall write them on the doors of your house and on your gates. In order that your days will be long, and the days of your children, on the ground that YHVH swore to your ancestors to give to them; as are the days of the heavens over the earth.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <h4>And YHVH Spoke</h4>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וַיֹּ֥אמֶר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר: דַּבֵּ֞ר אֶל־בְּנֵ֤י יִשְׂרָאֵל֙ וְאָֽמַרְתָּ֣ אֲלֵהֶ֔ם וְעָשׂ֨וּ לָהֶ֥ם צִיצִ֛ת עַל־כַּנְפֵ֥י בִגְדֵיהֶ֖ם לְדֹֽרֹתָ֑ם וְנָֽתְנ֛וּ עַל־צִיצִ֥ת הַכָּנָ֖ף פְּתִ֥יל תְּכֵֽלֶת: וְהָיָ֣ה לָכֶם֘ לְצִיצִת֒ וּרְאִיתֶ֣ם אֹת֗וֹ וּזְכַרְתֶּם֙ אֶת־כָּל־מִצְוֹ֣ת יְהֹוָ֔ה וַֽעֲשִׂיתֶ֖ם אֹתָ֑ם וְלֹֽ֨א־תָת֜וּרוּ אַֽחֲרֵ֤י לְבַבְכֶם֙ וְאַֽחֲרֵ֣י עֵֽינֵיכֶ֔ם אֲשֶׁר־אַתֶּ֥ם זֹנִ֖ים אַֽחֲרֵיהֶֽם: לְמַ֣עַן תִּזְכְּר֔וּ וַֽעֲשִׂיתֶ֖ם אֶת־כָּל־מִצְוֺתָ֑י וִֽהְיִיתֶ֥ם קְדֹשִׁ֖ים לֵאלֹֽהֵיכֶֽם: אֲנִ֞י יְהֹוָ֣ה אֱלֹֽהֵיכֶ֗ם אֲשֶׁ֨ר הוֹצֵ֤אתִי אֶתְכֶם֙ מֵאֶ֣רֶץ מִצְרַ֔יִם לִֽהְי֥וֹת לָכֶ֖ם לֵֽאֱלֹהִים אֲנִ֖י יְהֹוָ֥ה אֱלֹֽהֵיכֶֽם:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 And YHVH spoke to Moshe, saying: speak to the children of Yisrael and say to them, “Make for themselves <em>tsisit</em> (a fringe) on the corners of their clothes for all their generations. And place on the <em>tsisit</em> of the corner a thread of blue.” And it will be for you <em>tsisit</em>, and you will see it, you will remember all the commandments of YHVH and you will do them. You will not follow after your own thoughts and visions, after which you are immorally tempted. In order that you will remember and do all My commandments, and you will be holy to your god. I am YHVH your god who brought you out of the land of Mitsrayim to be your god. I am YHVH your god. Truth. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <h4>True and faithful</h4>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 חזן: יְהֹוָ֥ה אֱלֹֽהֵיכֶֽם
 אֱמֶת 
 וֶאֱמוּנָה כָּל זֹאת . וְקַיָּם עָלֵֽינוּ . כִּי הוּא יְיָ אֱלֹהֵֽינוּ וְאֵין זוּלָתוֹ . וַאֲנַֽחְנוּ יִשְׂרָאֵל עַמּוֹ: הַפּוֹדֵֽנוּ מִיַּד מְלָכִים . מַלְכֵּֽנוּ הַגּוֹאֲלֵֽנוּ מִכַּף כָּל הֶעָרִיצִים: הָאֵל הַנִּפְרָע לָֽנוּ מִצָּרֵֽנוּ . וְהַמְשַׁלֵּם גְּמוּל לְכָל אוֹיְבֵי נַפְשֵֽׁנוּ: הָעֹשֶׂ֣ה גְ֭דֹלוֹת עַד־אֵ֣ין חֵ֑קֶר וְנִפְלָא֗וֹת עַד־אֵ֥ין מִסְפָּֽר:(איוב ט:י) הַשָּׂ֣ם נַ֭פְשֵֽׁנוּ בַּֽחַיִּ֑ים וְלֹֽא־נָתַ֖ן לַמּ֣וֹט רַגְלֵֽנוּ:(תהלים סו:ט) הַמַּדְרִיכֵֽנוּ עַל בָּמוֹת אוֹיְבֵֽינוּ . וַיָּֽרֶם קַרְנֵֽנוּ עַל כָּל שׂנְאֵֽינוּ: הָעֹֽשֶׂה לָּֽנוּ נִסִּים וּנְקָמָה בְּפַרְעֹה . אוֹתֹת וּמוֹפְתִים בְּאַדְמַת בְּנֵי חָם: הַמַּכֶּה בְעֶבְרָתוֹ כָּל בְּכוֹרֵי מִצְרָֽיִם . וַיּוֹצֵא אֶת עַמּוֹ יִשְׂרָאֵל מִתּוֹכָם לְחֵירוּת עוֹלָם: הַמַּעֲבִיר בָּנָיו בֵּין גִּזְרֵי יַם סוּף . אֶת רוֹדְפֵיהֶם וְאֶת שׂוֹנְאֵיהֶם בִּתְהוֹמוֹת טִבַּע: וְרָאוּ בָנָיו גְּבוּרָתוֹ . שִׁבְּחוּ וְהוֹדוּ לִשְׁמוֹ: וּמַלְכוּתוֹ בְּרָצוֹן קִבְּלוּ עַלֵיהֶם: מֹשֶׁה וּבְנֵי יִשְׂרָאֵל לְךָ עָנוּ שִׁירָה .  בְּשִׂמְחָה רַבָּה וְאָמְרוּ כֻלָּם - מִֽי־כָמֹ֤כָה בָּֽאֵלִם֙ יְיָ֔ מִ֥י כָּמֹ֖כָה נֶאְדָּ֣ר בַּקֹּ֑דֶשׁ נוֹרָ֥א תְהִלֹּ֖ת עֹ֥שֵׂה פֶֽלֶא: מַלְכוּתְךָ רָאוּ בָנֶֽיךָ בּוֹקֵֽעַ יָם לִפְנֵי מֹשֶׁה זֶ֤ה אֵלִי֙ עָנוּ וְאָמְרוּ - יְיָ֥ ׀ יִמְלֹ֖ךְ לְעֹלָ֥ם וָעֶֽד: וְנֶאֱמַר: כִּֽי־פָדָ֥ה יְיָ֖ אֶֽת־יַֽעֲקֹ֑ב וּגְאָל֕וֹ מִיַּ֖ד חָזָ֥ק מִמֶּֽנּוּ: בָּרוּךְ אַתָּה יְיָ גָּאַל יִשְׂרָאֵל:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <em>The leader repeats aloud:</em> YHVH your god -- 
 True 
 and faithful is all this and uplifting for us; that you are YHVH our god, and there is no other and we are Yisrael your people. The redeemer from the hand of those who seek power over us is our ruler who saves us from the palm of all tyrants. The god who avenges us from oppressors and fulfills deliverance from all enemies of our spirit is the maker of great deeds without limit and wonders without number. Putting our spirit in life, you have not allowed our feet to stumble. Guiding us to overcome our foes, you have lifted up our ability to stand against all who hate us. Maker for us of miracles and retribution on Pharaoh, signs and wonders in the land of the children of Ham; you struck down in indignation all the first born of Egypt. And you brought out the people Yisrael from their midst into enduring freedom, passing your children through the split parts of the Red Sea. Their pursuers and enemies were drowned in the depths. And your children witnessing that might praised and thanked your name. Your majesty, willingly, they received on themselves, Moshe and the children of Yisrael, to you, they recited a poem in great joy; and all said: Who is like you among the gods, YHVH? Who is like you majestic in holiness? Awe inspiring in splendor, doing wonders! Your children saw your rulership; splitter of the sea before Moshe. “This is my god!” they responded and said. “YHVH will rule forever and ever!” And it is written: For YHVH saved Yaakov and redeemed him from the mighty hand. Blessed are you, YHVH, Redeemer of Yisrael.
@@ -1146,21 +1146,21 @@ and faithful is all this and uplifting for us; that you are YHVH our god, and th
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <h4>Hashkivenu</h4>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַשְׁכִּיבֵֽנוּ יְיָ אֱלֹהֵֽינוּ לְשָׁלוֹם וְהַעֲמִידֵֽנוּ מַלְכֵּֽנוּ לְחַיִּים וּפְרוֹס עָלֵֽינוּ סֻכַּת שְׁלוֹמֶֽךָ וְתַקְּנֵֽנוּ בְּעֵצָה טוֹבָה מִלְּפָנֶֽיךָ וְהוֹשִׁיעֵֽנוּ לְמַֽעַן שְׁמֶֽךָ: וְהָגֵן בַּעֲדֵֽנוּ וְהָסֵר מֵעָלֵֽינוּ אוֹיֵב דֶּֽבֶר וְחֶֽרֶב וְרָעָב וְיָגוֹן וְהָסֵר שָׂטָן מִלְפָנֵֽינוּ וּמֵאַחֲרֵֽנוּ וּבְצֵל כְּנָפֶֽיךָ תַּסְתִּירֵֽנוּ כִּי אֵל שׁוֹמְרֵֽנוּ וּמַצִּילֵֽנוּ אַתָּה כִּי אֵל מֶֽלֶךְ חַנּוּן וְרַחוּם אַתָּה וּשְׁמוֹר צֵאתֵֽנוּ וּבוֹאֵֽנוּ לְחַיִּים וּלְשָׁלוֹם מֵעַתָּה וְעַד־עוֹלָם: וּפְרוֹס עָלֵֽינוּ סֻכַּת שְׁלוֹמֶֽךָ: בָּרוּךְ אַתָּה יְיָ פּוֹרֵס סֻכַּת שָׁלוֹם עָלֵֽינוּ וְעַל כָּל־עַמּוֹ יִשְׂרָאֵל וְעַל־יְרֽוּשָׁלָֽםִ:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Cause us, YHVH Elohenu, to lie down for well-being; and help us arise, our Ruler to life. Spread over us the shelter of your well-being and fix in us good counsel in your presence. Save us for the sake of your name and shield us. Keep far from us enmity, illness, strife, hunger, and fear. Keep oppressors from confronting or pursuing us. Let us be covered by the shadow of your wings. For you are our Protector and Helper; mercy and compassion is your rule. Guard our going out and our coming in for life and for well-being from this time forth and forever. And spread over us the shelter of your well-being. Blessed are you YHVH, who spreads over us the shelter of your well-being And over the people Yisrael, and over Yerushalayim.
 </div></td>
 </tr>
@@ -1182,21 +1182,21 @@ Cause us, YHVH Elohenu, to lie down for well-being; and help us arise, our Ruler
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <h4>Veshamru</h4>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְשָֽׁמְר֥וּ בְנֵֽי־יִשְׂרָאֵ֖ל אֶת־הַשַּׁבָּ֑ת לַֽעֲשׂ֧וֹת אֶת־הַשַּׁבָּ֛ת לְדֹֽרֹתָ֖ם בְּרִ֥ית עוֹלָֽם: בֵּינִ֗י וּבֵין֙ בְּנֵ֣י יִשְׂרָאֵ֔ל א֥וֹת הִ֖וא לְעֹלָ֑ם כִּי־שֵׁ֣שֶׁת יָמִ֗ים עָשָׂ֤ה יְיָ֙ אֶת־הַשָּׁמַ֣יִם וְאֶת־הָאָ֔רֶץ וּבַיּוֹם֙ הַשְּׁבִיעִ֔י שָׁבַ֖ת וַיִּנָּפַֽשׁ:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 The Children of Yisrael shall keep the Shabbat, observing the Shabbat throughout the generations as an eternal bond. It is a sign between the Children of Yisrael and me for all time, that in six days YHVH made the heavens and the earth, and on the seventh day, ceased from creating and was re-souled.
 </div></td>
 </tr>
@@ -1209,17 +1209,17 @@ The Children of Yisrael shall keep the Shabbat, observing the Shabbat throughout
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <h4>Half Kaddish</h4>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יִתְגַּדַּל וְיִתְקַדַּשׁ שְׁמֵיהּ רַבָּא ( אָמֵן) . בְּעָלְמָא דִּבְרָא כִרְעוּתֵהּ . 
 &nbsp;
 וְיַמְלִיךְ מַלְכוּתֵהּ . בְּחַיֵּיכוֹן וּבְיוֹמֵיכוֹן . וּבְחַיֵּי דְכָל בֵּית יִשְׂרָאֵל . בַּעֲגָלָא וּבִזְמַן קָרִיב: וְאִמְרוּ אָמֵן: ( אָמֵן)
@@ -1230,7 +1230,7 @@ The Children of Yisrael shall keep the Shabbat, observing the Shabbat throughout
 לְעֵֽלָּא מִכָּל בִּרְכָתָא וְשִׁירָתָא תֻּשְׁבְּחָתָא וְנֶחָמָתָא דַּאֲמִירָן בְּעָלְמָא: וְאִמְרוּ אָמֵן: ( אָמֵן)
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 May the great name be exalted and sanctified is God’s great name (Amen) -- in the world which God created at will!
 &nbsp;
 May God establish dominion during your lifetime and during your days and during the lifetimes of all the House of Yisrael speedily and very soon! And say, (Amen)
@@ -1268,37 +1268,37 @@ In the opening blessing, try taking a full breath in between each phrase. I cons
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <h3>Amidah</h3>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֲדֹנָי, שְֹפָתַי תִּפְתָּח וּפִי יַגִּיד תְּהִלָּתֶךָ:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 My master, open my lips that my mouth may declare your splendor.[foot]Psalms 51:17. Cf. Isaiah 6:5-7.[/foot]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <h4>1. Ancestors</h4>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה
  יְיָ אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֹתֵינוּ,
  אֱלֹהֵי אַבְרָהָם וְשָׂרָה,
@@ -1323,7 +1323,7 @@ My master, open my lips that my mouth may declare your splendor.[foot]Psalms 51:
  בָּרוּךְ אַתָּה יְיָ מָגֵן אַבְרָהָם׃
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Blessed are you, 
 YHVH Elohenu and God of our ancestors, 
 Elohei Avraham and Sarah, 
@@ -1350,17 +1350,17 @@ Blessed are you, YHVH, Avraham’s shield.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <h4>2. The God of Nature</h4>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אַתָּה גִּבּוֹר לְעוֹלָם אֲדֹנָי,
  מְחַיֵּה מֵתִים אַתָּה רַב לְהוֹשִׁיעַ:
 &nbsp;
@@ -1389,7 +1389,7 @@ Blessed are you, YHVH, Avraham’s shield.
  בָּרוּךְ אַתָּה יְיָ, מְחַיֵּה הַמֵּתִים:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 You, Master, are mighty forever,
  you revive the dead, you have the power to save.
 &nbsp;
@@ -1420,17 +1420,17 @@ Who is like you, merciful God, remember your creation for life in mercy.)
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <h4>3. Sanctification of God</h4>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <b>אַתָּה</b> קָדוֹשׁ 
 וְשִׁמְךָ קָדוֹשׁ, 
 וּקְדוֹשִׁים בְּכָל יוֹם יְהַלְּלוּךָ סֶּלָה.
@@ -1439,7 +1439,7 @@ Who is like you, merciful God, remember your creation for life in mercy.)
  (<span class="instruction">בימים נוראים :</span> - הַמֶּלֶךְ הַקָּדוֹשׁ:):
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 You are holy, 
 and your name is holy, 
 and holy beings praise you daily. <em>Selah</em>. 
@@ -1450,48 +1450,48 @@ Blessed are you, the holy god.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <h4>4. Holiness of the Day</h4>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אַתָּה קִדַּשְׁתָּ אֶת יוֹם הַשְּׁבִיעִי לִשְׁמֶךָ, תַּכְלִית מַעֲשֵֹה שָׁמַיִם וָאָרֶץ, בֵרַכְתּוֹ מִכָּל הַיָּמִים, וְקִדַּשְׁתּוֹ מִכָּל הַזְּמַנִּים, וְכֵן כָּתוּב בְּתוֹרָתֶךָ: וַיְכֻלּוּ הַשָּׁמַיִם וְהָאָרֶץ וְכָל צְבָאָם: וַיְכַל אֱלֹהִים בַּיּוֹם הַשְּׁבִיעִי מְלַאכְתּוֹ אֲשֶׁר עָשָֹה וַיִּשְׁבֹּת בַּיּוֹם הַשְּׁבִיעִי מִכָּל מְלַאכְתּוֹ אֲשֶׁר עָשָֹה: וַיְבָרֶךְ אֱלֹהִים אֶת יוֹם הַשְּׁבִיעִי וַיְקַדֵּשׁ אֹתוֹ, כִּי בוֹ שָׁבַת מִכָּל מְלַאכְתּוֹ אֲשֶׁר בָּרָא אֱלֹהִים לַעֲשֹוֹת: יִשְֹמְחוּ בְמַלְכוּתְךָ שׁוֹמְרֵי שַׁבָּת וְקוֹרְאֵי עֹנֶג, עַם מְקַדְּשֵׁי שְׁבִיעִי, כֻּלָּם יִשְֹבְּעוּ וְיִתְעַנְּגוּ מִטּוּבֶךָ, וּבַשְּׁבִיעִי רָצִיתָ בּוֹ וְקִדַּשְׁתּוֹ, חֶמְדַּת יָמִים אוֹתוֹ קָרָאתָ, זֵכֶר לְמַעֲשֵֹה בְרֵאשִׁית: אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֹתֵינוּ, רְצֵה נָא בִמְנוּחָתֵנוּ, קַדְּשֵׁנוּ בְּמִצְוֺתֶיךָ וְתֵן חֶלְקֵנוּ בְּתוֹרָתֶךָ, שַֹבְּעֵנוּ מִטּוּבֶךָ וְשַֹמֵּחַ נַפְשֵׁנוּ בִּישׁוּעָתֶךָ, וְטַהֵר לִבֵּנוּ לְעָבְדְּךָ בֶּאֱמֶת, וְהַנְחִילֵנוּ יְיָ אֱלֹהֵינוּ בְּאַהֲבָה וּבְרָצוֹן שַׁבַּת קָדְשֶׁךָ, וְיָנוּחוּ בָהּ כָּל יִשְֹרָאֵל מְקַדְּשֵׁי שְׁמֶךָ: בָּרוּךְ אַתָּה יְיָ, מְקַדֵּשׁ הַשַּׁבָּת: 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 You have certainly sanctified the seventh day for your name’s sake. It is the ultimate of the works of heavens and earth. And you praised it from all the days and sanctified it from all the seasons; and thus it is written in your Torah: The heavens and the earth and all their hosts were finished. And God completed, on the seventh day, all the work of formation; and rested on the seventh day from all the work that was done. And God blessed the seventh day and sanctified it. For on it, God rested from all the work of creation that had been fashioned. Elohei and Elohei Avoteinu. Be pleased with our rest; sanctify us with your commandments, give us a share in your Torah, satiate us with your bounty, and gladden us in your salvation. Cleanse our hearts to serve you in truth: let us inherit, YHVH Elohenu, in love and favor, your holy Shabbat, and may Yisrael, who loves your name, rest thereon. Blessed are you, YHVH, who sanctifies the Shabbat.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <h4>5. Worship</h4>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רְצֵה יְיָ אֱלֹהֵינוּ בְּעַמְּךָ יִשְֹרָאֵל וְלִתְפִלָּתָם שְׁעֵה, וְהָשֵׁב הָעֲבוֹדָה לִדְבִיר בֵּיתֶךָ, וְאִשֵּׁי יִשְֹרָאֵל וּתְפִלָּתָם בְּאַהֲבָה תְקַבֵּל בְּרָצוֹן, וּתְהִי לְרָצוֹן תָּמִיד עֲבוֹדַת יִשְֹרָאֵל עַמֶּךָ:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Be pleased, YHVH Elohenu, with your people Yisrael and with their prayers. Restore the service to the inner sanctuary of your Temple, and receive in love and with favor both the fire-offerings of Yisrael and their prayers. May the worship of your people Yisrael always be acceptable to you.
 </div></td>
 </tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 (<span class="instruction">לְרֹאשׁ הַחֹדֶשׁ וחול המואד:</span>
 אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֹתֵינוּ, יַעֲלֶה וְיָבֹא וְיַגִּיעַ, וְיֵרָאֶה וְיֵרָצֶה וְיִשָּׁמַע, וְיִפָּקֵד וְיִזָּכֵר זִכְרוֹנֵנוּ וּפִקְדוֹנֵנוּ וְזִכְרוֹן אֲבוֹתֵינוּ, וְזִכְרוֹן מָשִׁיחַ בֶּן דָּוִד עַבְדֶּךָ, וְזִכְרוֹן יְרוּשָׁלַיִם עִיר קָדְשֶׁךָ, וְזִכְרוֹן כָּל עַמְּךָ בֵּית יִשְֹרָאֵל לְפָנֶיךָ, לִפְלֵיטָה לְטוֹבָה, לְחֵן וּלְחֶסֶד וּלְרַחֲמִים לְחַיִּים טוֹבִים וּלְשָׁלוֹם בְּיוֹם
 &nbsp;
@@ -1502,7 +1502,7 @@ Be pleased, YHVH Elohenu, with your people Yisrael and with their prayers. Resto
 הַזֶּה. זָכְרֵנוּ יְיָ אֱלֹהֵינוּ בּוֹ לְטוֹבָה אָמֵן וּפָקְדֵנוּ בוֹ לִבְרָכָה אָמֵן וְהוֹשִׁיעֵנוּ בוֹ לְחַיִּים טוֹבִים אָמֵן וּבִדְבַר יְשׁוּעָה וְרַחֲמִים חוּס וְחָנֵּנוּ וְרַחֵם עָלֵינוּ וְהוֹשִׁיעֵנוּ, כִּי אֵלֶיךָ עֵינֵינוּ, כִּי אֵל מֶלֶךְ חַנּוּן וְרַחוּם אָתָּה: )
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <em>On Rosh Chodesh and Chol Hamo'ed add the following:</em> 
 Our God and God of our ancestors — it will raise up, come, arrive, be seen, be desired, be heard, be considered, and be remembered — the remembrance and consideration of us and of our ancestors and of an anointed one, the descendant of David your servant. And the remembrance of Yerushalayim your holy city, and the remembrance of all your people the House of Yisrael before you. For deliverance, for goodness, for mercy, and for loving kindness, and for compassion, for life, and for well-being, and on this:
 &nbsp;
@@ -1516,27 +1516,27 @@ Remember us, YHVH Elohenu, on this day for goodness; and consider us on this day
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 וְתֶחֱזֶינָה עֵינֵינוּ בְּשׁוּבְךָ לְצִיּוֹן בְּרַחֲמִים. בָּרוּךְ אַתָּה יְיָ, הַמַּחֲזִיר שְׁכִינָתוֹ לְצִיּוֹן:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 And let our eyes behold your return in mercy to Tsiyon. Blessed are you, YHVH, who restores the divine presence to Tsiyon.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <h4>6. Thanksgiving</h4>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מוֹדִים אֲנַחְנוּ לָךְ, שָׁאַתָּה הוּא יְיָ אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֹתֵינוּ לְעוֹלָם וָעֶד
  צוּר חַיֵּינוּ, מָגֵן יִשְׁעֵנוּ, אַתָּה הוּא לְדוֹר וָדוֹר 
 נוֹדֶה לְּךָ וּנְסַפֵּר תְּהִלָּתֶךָ,
@@ -1550,7 +1550,7 @@ And let our eyes behold your return in mercy to Tsiyon. Blessed are you, YHVH, w
  כִּי מֵעוֹלָם קִוִּינוּ לָךְ:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 We give thanks to you that you are YHVH Elohenu and Elohei Avotenu forever and ever. 
 Through every generation you have been the rock of our lives, the shield of our salvation. 
 We will give you thanks and declare your praise, 
@@ -1567,13 +1567,13 @@ We have always put our hope in you.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 וְעַל הַנִּסִּים וְעַל הַפֻּרְקָן וְעַל הַגְּבוּרוֹת וְעַל הַתְּשׁוּעוֹת וְעַל הַנִפְלָאוֹת שֶׁעָשיתָ לַאֲבוֹתֵינוּ בַּיָּמִים הָהֵם בִּזְּמַן הַזֶּה:
 &nbsp;
 בִּימֵי מַתִּתְיָהוּ בֶּן יוֹחָנָן כֹּהֵן גָּדוֹל, חַשְׁמוֹנָאִי וּבָנָיו, כְּשֶׁעָמְדָה מַלְכוּת יָוָן הָרְשָׁעָה, עַל עַמְּךָ יִשְֹרָאֵל, לְהַשְׁכִּיחָם תּוֹרָתֶךָ וּלְהַעֲבִירָם מֵחֻקֵּי רְצוֹנֶךָ, וְאַתָּה בְּרַחֲמֶיךָ הָרַבִּים, עָמַדְתָּ לָהֶם בְּעֵת צָרָתָם. רַבְתָּ אֶת רִיבָם, דַנְתָּ אֶת דִּינָם, נָקַמְתָּ אֶת נִקְמָתָם, מָסַרְתָּ גִבּוֹרִים בְּיַד חַלָּשִׁים, וְרַבִּים בְּיַד מְעַטִּים, וּטְמֵאִים בְּיַד טְהוֹרִים, וּרְשָׁעִים בְּיַד צַדִּיקִים, וְזֵדִים בְּיַד עוֹסְקֵי תוֹרָתֶךָ. וּלְךָ עָשִֹיתָ שֵׁם גָּדוֹל וְקָדוֹשׁ בְּעוֹלָמֶךָ, וּלְעַמְּךָ יִשְֹרָאֵל עָשִֹיתָ תְּשׁוּעָה גְדוֹלָה וּפֻרְקָן כְּהַיּוֹם הַזֶּה: וְאַחַר כַּךְ בָּאוּ בָנֶיךָ לִדְבִיר בֵּיתֶךָ, וּפִנּוּ אֶת הֵיכָלֶךָ, וְטִהֲרוּ אֶת מִקְדָּשֶׁךָ, וְהִדְלִיקוּ נֵרוֹת בְּחַצְרוֹת קָדְשֶׁךָ. וְקָבְעוּ שְׁמונַת יְמֵי חֲנֻכָּה אֵלּוּ, לְהוֹדוֹת וּלְהַלֵּל לְשִׁמְךָ הַגָּדוֹל:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <em>On Ḥannukah add:</em>
 For the miracles, for the redemption, for the mighty acts, for the salvations, and for the battles which you did for our ancestors in those days, at this time. 
 &nbsp;
@@ -1583,7 +1583,7 @@ In the days of Mattathias, the son of Yoḥanan the Hasmonean High Priest, and h
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 וְעַל כֻּלָּם יִתְבָּרֵךְ וְיִתְרוֹמֵם וְיִתְנַשֵֹּא שִׁמְךָ מַלְכֵּנוּ תָּמִיד לְעוֹלָם וָעֶד:
 &nbsp;
 (<span class="instruction">בימים נוראים:</span>
@@ -1595,7 +1595,7 @@ In the days of Mattathias, the son of Yoḥanan the Hasmonean High Priest, and h
  בָּרוּךְ אַתָּה יְיָ, הַטּוֹב שִׁמְךָ וּלְךָ נָאֶה לְהוֹדוֹת:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 For all these acts may your name be blessed and exalted continually, O our majesty, forever and ever.
 &nbsp;
 <em>Between Rosh HaShana and Yom Kippur add:</em> 
@@ -1609,17 +1609,17 @@ Blessed are you, YHVH, whose Name is the Beneficent One, and to whom it is fitti
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <h4>7. Abundant Peace</h4>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שִׂים שָׁלוֹם, טוֹבָה וּבְרָכָה, חַיִּים חֵן וָחֶסֶד וְרַחֲמִים, עָלֵינוּ וְעַל כָּל יִשְֹרָאֵל עַמֶּךָ, בָּרְכֵנוּ אָבִינוּ כֻּלָּנוּ כְּאֶחָד בְּאוֹר פָּנֶיךָ נָתַתָּ לָּנוּ יְיָ אֱלֹהֵינוּ תּוֹרַת חַיִּים וְאַהֲבַת חֶסֶד, וּצְדָקָה וּבְרָכָה וְרַחֲמִים וְחַיִּים וְשָׁלוֹם, וְטוֹ בְּעֵינֶיךָ לְבָרֵךְ אֶת כָּל עַמְּךָ יִשְֹרָאֵל בְּכָל עֵת וּבְכָל שָׁעָה בִּשְׁלוֹמֶךָ:
 &nbsp;
 (<span class="instruction">בימים נוראים:</span> וּבְּסֵפֶר חַיִּים בְּרָכָה וְשָׁלוֹם וּפַרְנָסָה טוֹבָה, יְשׁוָּעה וְנֶחָמָה וּגְזֵרוֹת טוֹבוֹת נִזָּכֵר וְנִכָּתֵב לְפָנֶיךָ, אֲנַחְנוּ וְכָל עַמְּךָ בֵּית יִשְֹרָאֵל, לְחַיִּים טוֹבִים וּלְשָׁלוֹם:)
@@ -1627,7 +1627,7 @@ Blessed are you, YHVH, whose Name is the Beneficent One, and to whom it is fitti
 בָּרוּךְ אַתָּה יְיָ, הַמְבָרֵךְ אֶת עַמּוֹ יִשְֹרָאֵל בַּשָּׁלוֹם:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Give abundant well-being for Yisrael your people. For you are the supreme ruler of all well-being. And it is good in your eyes to bless us and to bless your people Yisrael
 at every time and in every hour with well-being.
 &nbsp;
@@ -1638,23 +1638,23 @@ May we be remembered and inscribed before you, we and your entire people the fam
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <h4>Keep My Tongue From Evil</h4>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יִהְיוּ לְרָצוֹן אִמְרֵי פִי וְהֶגְיוֹן לִבִּי לְפָנֶיךָ יְיָ צוּרִי וְגוֹאֲלִי: (תהלים יט:טו)
 &nbsp;
 אֱלֹהַי, נְצוֹר לְשׁוֹנִי מֵרָע וּשְֹפָתַי מִדַּבֵּר מִרְמָה וְלִמְקַלְלַי, נַפְשִׁי תִדּוֹם, וְנַפְשִׁי כֶּעָפָר לַכֹּל תִּהְיֶה, פְּתַח לִבִּי בְּתוֹרָתֶךָ, וּבְמִצְוֺתֶיךָ תִּרְדּוֹף נַפְשִׁי, וְכָל הַחוֹשְׁבִים עָלַי רָעָה, מְהֵרָה הָפֵר עֲצָתָם וְקַלְקֵל מַחֲשַׁבְתָּם. יִהְיוּ כְּמוֹץ לִפְנֵי רוּחַ וּמַלְאַךְ יְיָ דּוֹחֶה. לְמַעַן יֵחָלְצוּן יְדִידֶיךָ, הוֹשִׁיעָה יְמִינְךָ וַעֲנֵנִי. (תהלים ע:ו, תהלים קח:ז)
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 May it be recognized that the words of my mouth and the contemplations of my thoughts are for you, YHVH, my Rock and my Redeemer.[foot]Psalms 19:15[/foot]
 &nbsp;
 My God, keep my tongue and my lips from speaking deceit, and to them that curse me let my soul be silent, and like dust to all. Open my heart to your Torah, and to your commandments let me pursue them. As for those that think evil of me speedily thwart their counsel and destroy their plots.[foot]Psalms 60:7, Psalms 108:7[/foot]
@@ -1663,11 +1663,11 @@ My God, keep my tongue and my lips from speaking deceit, and to them that curse 
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 עֲשֵֹה לְמַעַן שְׁמֶךָ, עֲשֵֹה לְמַעַן יְמִינֶךָ, עֲשֵֹה לְמַעַן תּוֹרָתֶךָ, עֲשֵֹה לְמַעַן קְדֻשָּׁתֶךָ. יִהְיוּ לְרָצוֹן אִמְרֵי פִי וְהֶגְיוֹן לִבִּי, לְפָנֶיךָ, יְיָ צוּרִי וְגוֹאֲלִי: (תהלים יט:טו)
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <em>For each recitation of the words עשה / <em>aseh</em> / "do this," it is customary for some to stand on toes.</em>
 
 Do this for your name’s sake, do this for your right hand’s sake, do this for the sake of your Torah. Do this for the sake of your holiness, that your beloved ones may rejoice, let your right hand bring on help and answer me. May the words of my mouth and the meditations of my heart be acceptable in your sight, YHVH, my rock and my redeemer.
@@ -1676,43 +1676,43 @@ Do this for your name’s sake, do this for your right hand’s sake, do this fo
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <em>When reciting the next passage, some may choose to take three steps backward and bow to the left, to the right, and finally straight ahead.</em>
 </div></td>
 </tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 עשֶֹׁה שָׁלוֹם (<span class="instruction">בימים נוראים:</span> הַשָּׁלוֹם) בִּמְרוֹמָיו הוּא יַעֲשֶֹה שָׁלוֹם עָלֵינוּ 
 וְעַל כָּל יִשְֹרָאֵל, (וְעַל כָּל יוֺשְׁבֵי תֵבֶל) וְאִמְרוּ אָמֵן:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 The maker of perfection in the highest places, will be the maker of well-being for us and for all Yisrael; (and for all who dwell upon this planet), and let us say: <em>Amen</em>.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <h4>May it Be your Will</h4>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְהִי רָצוֹן מִלְּפָנֶיךָ, יְיָ אֱלֹהֵינוּ וֶאֱלֹהֵי אֲבוֹתֵינוּ, שֶׁיִבָּנֶה בֵּית הַמִקְדָּשׁ בִּמְהֵרָה בְיָמֵינוּ, וְתֵן חֶלְקֵנוּ בְּתוֹרָתֶךָ: וְשָׁם נַעֲבָדְךָ בְּיִרְאָה כִּימֵי עוֹלָם וּכְשָׁנִים קַדְמוֹנִיוֹת: וְעָרְבָה לַיְיָ מִנְחַת יְהוּדָה וִירוּשָׁלָיִם, כִּימֵי עוֹלָם וּכְשָׁנִים קַדְמוֹנִיוֹת:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 May it be with desire before you, YHVH Elohenu and God of our ancestors, that the building of the Temple will be speedily in our days; and give our portion in your Torah. And there we will serve you in awe as in the days of old and the years gone by. We will come close to God with the offering of Yehudah and Yerushalayim as in the days of old and the years gone by.
 </div></td>
 </tr>
@@ -1758,14 +1758,14 @@ Let me attend to my words, taking care to say what I mean and do what I say. Let
 <table style="margin-left: auto;margin-right: auto;">
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 וַיְכֻלּוּ הַשָּׁמַיִם וְהָאָרֶץ וְכָל צְבָאָם:
  וַיְכַל אֱלֹהִים בַּיּוֹם הַשְּׁבִיעִי, מְלַאכְתּוֹ אֲשֶׁר עָשָׂה:
  וַיִּשְׁבֹּת בַּיּוֹם הַשְּׁבִיעִי מִכָּל מְלַאכְתּוֹ אֲשֶׁר עָשָׂה:
  וַיְבָרֶךְ אֱלֹהִים אֶת יוֹם הַשְּׁבִיעִי, וַיְקַדֵּשׁ אֹתוֹ, כִּי בוֹ שָׁבַת מִכָּל מְלַאכְתּוֹ, אֲשֶׁר בָּרָא אֱלֹהִים לַעֲשׂוֹת:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 The heavens and the earth and all their hosts were finished. 
 And God completed, on the seventh day, all the work of formation; 
 and rested on the seventh day from all the work that was done. 
@@ -1775,7 +1775,7 @@ And God blessed the seventh day and sanctified it. For on it, God rested from al
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 בָּרוּךְ אַתָּה
  יְיָ אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֹתֵינוּ,
  אֱלֹהֵי אַבְרָהָם וְשָׂרָה,
@@ -1786,7 +1786,7 @@ And God blessed the seventh day and sanctified it. For on it, God rested from al
  קוֹנֵה שָׁמַיִם וָאָרֶץ:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Blessed are you, 
 YHVH Elohenu and God of our ancestors, 
 Elohei Avraham and Sarah, 
@@ -1800,7 +1800,7 @@ creator of all things
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 מָגֵן אָבוֹת בִּדְבָרוֹ
  מְחַיֵּה מֵתִים בְּמַאֲמָרוֹ,
  הָאֵל (<span class="instruction">בימים נוראים :</span> הַמֶּלֶךְ) הַקָּדוֹשׁ
@@ -1815,7 +1815,7 @@ creator of all things
  זֵכֶר לְמַעֲשֵֹה בְרֵאשִׁית:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Shield of the fathers by God’s word, 
 reviving the dead by command, 
 the holy God; (<em>on the Shabbat before Yom Kippur:</em> The holy King)
@@ -1833,7 +1833,7 @@ as a remembrance of the work in Creation.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֹתֵינוּ,
  רְצֵה נָא בִמְנוּחָתֵנוּ,
  קַדְּשֵׁנוּ בְּמִצְוֺתֶיךָ 
@@ -1847,7 +1847,7 @@ as a remembrance of the work in Creation.
 (<em>Cong</em>: אָמֵן)
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Our God and God of our Ancestors! 
 Be pleased with our rest; 
 sanctify us with your commandments 
@@ -1875,7 +1875,7 @@ If you are reciting Kaddish, you may choose to take three steps back as you star
 <table style="margin-left: auto;margin-right: auto;">
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 יִתְגַּדַּל וְיִתְקַדַּשׁ שְׁמֵיהּ רַבָּא (אָמֵן) . בְּעָלְמָא דִּבְרָא כִרְעוּתֵהּ . 
 &nbsp;
 וְיַמְלִיךְ מַלְכוּתֵהּ . בְּחַיֵּיכוֹן וּבְיוֹמֵיכוֹן . וּבְחַיֵּי דְכָל בֵּית יִשְׂרָאֵל . בַּעֲגָלָא וּבִזְמַן קָרִיב: וְאִמְרוּ אָמֵן: (אָמֵן)
@@ -1892,7 +1892,7 @@ If you are reciting Kaddish, you may choose to take three steps back as you star
 עֹשֶׂה שָׁלוֹם בִּמְרוֹמָיו . הוּא יַעֲשֶׂה שָׁלוֹם עָלֵֽינוּ . וְעַל כָּל יִשְׂרָאֵל וְעַל כָּל יוֺשְׁבֵי תֵבֶל: וְאִמְרוּ אָמֵן: (אָמֵן)
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 May the great name be exalted and sanctified is God’s great name (Amen) -- in the world which God created at will!
 &nbsp;
 May God establish dominion during your lifetime and during your days and during the lifetimes of all the House of Yisrael speedily and very soon! And say, (Amen)
@@ -1935,32 +1935,32 @@ It is often customary for the community to stand together while reciting the ale
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <h3>Aleinu</h3>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עָלֵֽינוּ לְשַׁבֵּֽחַ לַאֲדוֹן הַכֹּל לָתֵת גְּדֻלָּה לְיוֹצֵר בְּרֵאשִׁית . שֶׁלֹּא עָשָֽׂנוּ כְּגוֹיֵי הָאֲרָצוֹת . וְלֹא שָׂמָֽנוּ כְּמִשְׁפְּחוֹת הָאֲדָמָה: שֶׁלֹּא שָׂם חֶלְקֵֽנוּ כָּהֶם . וְגֹרָלֵֽנוּ כְּכָל הֲמוֹנָם: שֶׁהֵם מִשְׁתַּחֲוִים לְהֶֽבֶל וְרִיק . וּמִֽתְפַּלֲלִ֔ים אֶל־אֵ֖ל לֹ֥א יוֹשִֽׁיעַ:(ישעיה מה:כ) וַאֲנַֽחְנוּ כּוֹרְעִים וּמִשְׁתַּחֲוִים וּמוֹדִים . לִפְנֵי מֶֽלֶךְ מַלְכֵי הַמְּלָכִים הַקָּדוֹשׁ בָּרוּךְ הוּא: שֶׁהוּא נוֹטֶ֣ה שָׁמַיִם֘ וְיֹסֵ֣ד אָרֶץ֒ (ישעיה נא:יג). וּמוֹשַׁב יְקָרוֹ בַּשָּׁמַֽיִם מִמַּֽעַל . וּשְׁכִינַת עֻזּוֹ בְּגָבְהֵי מְרוֹמִים: הוּא אֱלֹהֵֽינוּ . אֵין עוֹד: אֱמֶת מַלְכֵּֽנוּ . אֶֽפֶס זוּלָתוֹ . כַּכָּתוּב בְּתוֹרָתוֹ: וְיָֽדַעְתָּ֣ הַיּ֗וֹם וַֽהֲשֵֽׁבֹתָ֘ אֶל־לְבָבֶ֒ךָ֒ כִּ֤י יְהוָֹה֙ ה֣וּא הָֽאֱלֹהִ֔ים בַּשָּׁמַ֣יִם מִמַּ֔עַל וְעַל־הָאָ֖רֶץ מִתָּ֑חַת אֵ֖ין עֽוֹד:(דברים ד:לט)
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 It is our duty to praise the Master of all, to acclaim the greatness of the One who forms all creation, For God did not make us like the nations of other lands, and did not make us the same as other families of the Earth. God did not grant our inheritances as others, and our destiny is not the same as anyone else’s. And we bend our knees and bow down and give thanks before the King, the King of Kings, the Holy One, Blessed is God. The One who spread out the heavens, and made the foundations of the Earth, and whose precious dwelling is in the heavens above, and whose powerful Presence is in the highest heights. He is our God, there is none else. Our Ruler is truth, and nothing else compares. As it is written in your Torah: "And you shall know today and take to heart that YHVH is the only god in the heavens above and on Earth below. There is no other."
 </div></td>
 </tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 עַל כֵּן נְקַוֶּה לְּךָ יְיָ אֱלֹהֵֽינוּ לִרְאוֹת מְהֵרָה בְּתִפְאֶֽרֶת עֻזֶּֽךָ . לְהַעֲבִיר גִּלּוּלִים מִן הָאָֽרֶץ . וְהָאֱלִילִים כָּרוֹת יִכָּרֵתוּן . לְתַקֵּן עוֹלָם בְּמַלְכוּת שַׁדַּי: וְכָל בְּנֵי בָשָׂר יִקְרְאוּ בִשְׁמֶֽךָ . לְהַפְנוֹת אֵלֶֽיךָ כָּל רִשְׁעֵי אָֽרֶץ: יַכִּֽירוּ וְיֵדְעוּ כָּל יוֹשְׁבֵי תֵבֵל . כִּי לְךָ תִּכְרַע כָּל בֶּֽרֶךְ . תִּשָּׁבַע כָּל לָשׁוֹן: לְפָנֶֽיךָ יְיָ אֱלֹהֵֽינוּ יִכְרְעוּ וְיִפּֽוֹלוּ . וְלִכְבוֹד שִׁמְךָ יְקָר יִתֵּֽנוּ: וִיקַבְּלוּ כֻלָּם ׀ אֶת עֹל מַלְכוּתֶֽךָ . וְתִמְלוֹךְ עֲלֵיהֶם מְהֵרָה לְעוֹלָם וָעֶד: כִּי הַמַּלְכוּת שֶׁלְּךָ הִיא . וּלְעֽוֹלְמֵי עַד תִּמְלוֹךְ בְּכָבוֹד: כַּכָּתוּב בְּתוֹרָתֶֽךָ: (שמות טו:יח) יְיָ֥ ׀ יִמְלֹ֖ךְ לְעֹלָ֥ם וָעֶֽד: וְנֶאֱמַר: (זכריה יד:ט) וְהָיָ֧ה יְיָ֛ לְמֶ֖לֶךְ עַל־כָּל־הָאָ֑רֶץ בַּיּ֣וֹם הַה֗וּא יִֽהְיֶ֧ה יְיָ֛ אֶחָ֖ד וּשְׁמ֥וֹ אֶחָֽד:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Therefore we hope in you, YHVH Elohenu, to see quickly the splendor of your strength; to cause to pass away idolatry from the land and false gods to surely be cut off; to repair the world with the majesty of Shadai. Then all mortals will call on your Name. All the wicked of the earth will return to you. All the inhabitants of the world will recognize and know that to you every knee shall bend and every tongue shall vow. Before you, YHVH Elohenu, they will bow and fall down. To the honor of your name they will give loyatly. They will receive, each of them, the yoke of your majesty. And you will speedily reign over them forever and ever. For Majesty is yours and you will reign eternally in honor, as it is written in your Torah: YHVH will reign forever and ever. And it is said: YHVH will be ruler over all the earth. On that day YHVH will be One and god’s name will be One.
 </div></td>
 </tr>
@@ -1982,17 +1982,17 @@ If you are reciting Kaddish, you may choose to take three steps back as you star
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <h4>Mourners Kaddish</h4>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יִתְגַּדַּל וְיִתְקַדַּשׁ שְׁמֵיהּ רַבָּא ( אָמֵן) .
  בְּעָלְמָא דִּבְרָא כִרְעוּתֵהּ . 
 &nbsp;
@@ -2017,7 +2017,7 @@ If you are reciting Kaddish, you may choose to take three steps back as you star
 וְעַל כָּל יוֺשְׁבֵי תֵבֶל: וְאִמְרוּ אָמֵן: ( אָמֵן)
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 May the great name be exalted and sanctified is God’s great name (Amen) 
 -- in the world which God created at will!
 &nbsp;
@@ -2054,17 +2054,17 @@ And say, (Amen)
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <h4>Eternal Master</h4>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֲדוֹן עוֹלָם אֲשֶׁר מָלַךְ, בְּטֶרֶם כָּל יְצוּר נִבְרָא.
 
  לְעֵת נַעֲשָֹה בְחֶפְצוֹ כֹּל, אֲזַי מֶלֶךְ שְׁמוֹ נִקְרָא.
@@ -2086,7 +2086,7 @@ And say, (Amen)
  וְעִם רוּחִי גְּוִיָּתִי, יְיָ לִי וְלֹא אִירָא:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Eternal Master, who reigned supreme, 
 Before all of creation was drawn;
 When it was finished according to God’s will, 
@@ -2120,17 +2120,17 @@ My master is with me, I will not fear
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <h4>Exalted</h4>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יִגְדַּל אֱלֹהִים חַי וְיִשְׁתַּבַּח . נִמְצָא וְאֵין עֵת אֶל מְצִיאוּתוֹ: 
 אֶחָד וְאֵין יָחִיד כְּיִחוּדוֹ . נֶעֱלָּם וְגַם אֵין סוֹף לְאַחְדּוּתוֹ: 
 אֵין לוֹ דְּמוּת הַגּוּף וְאֵינוֹ גוּף . לֹא נַעֲרוֹךְ אֵלָיו קְדֻשָּׁתוֹ: 
@@ -2146,7 +2146,7 @@ My master is with me, I will not fear
 מֵתִים יְחַיֶּה אֵל בְּרֹב חַסְדּוֹ . בָּרוּךְ עֲדֵי עַד שֵׁם תְּהִלָּתוֹ:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Exalted be God, living and existent -- unbounded by time is His existence.
 God is One and there is no unity like God’s Oneness -- Inscrutable and infinite is His Unity;
 God has no body nor semblance of a body -- nor is there any comparison to God’s holiness;
@@ -2179,23 +2179,23 @@ God will revive the dead in abundant kindness. -- Blessed forever is God’s pra
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <h3>Peace Be Upon You</h3>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שָׁלוֹם עֲלֵיכֶם . מַלְאֲכֵי הַשָּׁרֵת . מַלְאֲכֵי עֶלְיוֹן . מֶֽלֶךְ מַלְכֵי הַמְּלָכִים הַקָּדוֹשׁ בָּרוּךְ הוּא:
 שָׁלוֹם עֲלֵיכֶם . מַלְאֲכֵי הַשָּׁרֵת . מַלְאֲכֵי עֶלְיוֹן . מֶֽלֶךְ מַלְכֵי הַמְּלָכִים הַקָּדוֹשׁ בָּרוּךְ הוּא:
 שָׁלוֹם עֲלֵיכֶם . מַלְאֲכֵי הַשָּׁרֵת . מַלְאֲכֵי עֶלְיוֹן . מֶֽלֶךְ מַלְכֵי הַמְּלָכִים הַקָּדוֹשׁ בָּרוּךְ הוּא:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Peace unto you, guardian angels, angels of Elyon, majestic king of kings, the Blessed Holy One.
 Peace unto you, guardian angels, angels of Elyon, majestic king of kings, the Blessed Holy One.
 Peace unto you, guardian angels, angels of Elyon, majestic king of kings, the Blessed Holy One.
@@ -2204,13 +2204,13 @@ Peace unto you, guardian angels, angels of Elyon, majestic king of kings, the Bl
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 בּוֹאֲכֶם לְשָׁלוֹם . מַלְאֲכֵי הַשָּׁלוֹם . מַלְאֲכֵי עֶלְיוֹן . מֶֽלֶךְ מַלְכֵי הַמְּלָכִים הַקָּדוֹשׁ בָּרוּךְ הוּא:
 בּוֹאֲכֶם לְשָׁלוֹם . מַלְאֲכֵי הַשָּׁלוֹם . מַלְאֲכֵי עֶלְיוֹן . מֶֽלֶךְ מַלְכֵי הַמְּלָכִים הַקָּדוֹשׁ בָּרוּךְ הוּא:
 בּוֹאֲכֶם לְשָׁלוֹם . מַלְאֲכֵי הַשָּׁלוֹם . מַלְאֲכֵי עֶלְיוֹן . מֶֽלֶךְ מַלְכֵי הַמְּלָכִים הַקָּדוֹשׁ בָּרוּךְ הוּא:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Come for peace, angels of peace, angels of Elyon, majestic king of kings, the Blessed Holy One.
 Come for peace, angels of peace, angels of Elyon, majestic king of kings, the Blessed Holy One.
 Come for peace, angels of peace, angels of Elyon, majestic king of kings, the Blessed Holy One.
@@ -2219,13 +2219,13 @@ Come for peace, angels of peace, angels of Elyon, majestic king of kings, the Bl
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 בָּרְֿכֽוּנִי לְשָׁלוֹם . מַלְאֲכֵי הַשָּׁלוֹם . מַלְאֲכֵי עֶלְיוֹן . מֶֽלֶךְ מַלְכֵי הַמְּלָכִים הַקָּדוֹשׁ בָּרוּךְ הוּא:
 בָּרְֿכֽוּנִי לְשָׁלוֹם . מַלְאֲכֵי הַשָּׁלוֹם . מַלְאֲכֵי עֶלְיוֹן . מֶֽלֶךְ מַלְכֵי הַמְּלָכִים הַקָּדוֹשׁ בָּרוּךְ הוּא:
 בָּרְֿכֽוּנִי לְשָׁלוֹם . מַלְאֲכֵי הַשָּׁלוֹם . מַלְאֲכֵי עֶלְיוֹן . מֶֽלֶךְ מַלְכֵי הַמְּלָכִים הַקָּדוֹשׁ בָּרוּךְ הוּא:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Bless me for peace, angels of peace, angels of Elyon, majestic king of kings, the Blessed Holy One.
 Bless me for peace, angels of peace, angels of Elyon, majestic king of kings, the Blessed Holy One.
 Bless me for peace, angels of peace, angels of Elyon, majestic king of kings, the Blessed Holy One.
@@ -2234,13 +2234,13 @@ Bless me for peace, angels of peace, angels of Elyon, majestic king of kings, th
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 צֵאתְֿכֶם לְשָׁלוֹם . מַלְאֲכֵי הַשָּׁלוֹם . מַלְאֲכֵי עֶלְיוֹן . מֶֽלֶךְ מַלְכֵי הַמְּלָכִים הַקָּדוֹשׁ בָּרוּךְ הוּא:
 צֵאתְֿכֶם לְשָׁלוֹם . מַלְאֲכֵי הַשָּׁלוֹם . מַלְאֲכֵי עֶלְיוֹן . מֶֽלֶךְ מַלְכֵי הַמְּלָכִים הַקָּדוֹשׁ בָּרוּךְ הוּא:
 צֵאתְֿכֶם לְשָׁלוֹם . מַלְאֲכֵי הַשָּׁלוֹם . מַלְאֲכֵי עֶלְיוֹן . מֶֽלֶךְ מַלְכֵי הַמְּלָכִים הַקָּדוֹשׁ בָּרוּךְ הוּא:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Depart for peace, angels of peace, angels of Elyon, majestic king of kings, the Blessed Holy One.
 Depart for peace, angels of peace, angels of Elyon, majestic king of kings, the Blessed Holy One.
 Depart for peace, angels of peace, angels of Elyon, majestic king of kings, the Blessed Holy One.
@@ -2259,23 +2259,23 @@ Depart for peace, angels of peace, angels of Elyon, majestic king of kings, the 
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <h3>Sanctification</h3>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 (<span class="instruction">בלחש</span> וַֽיְהִי־עֶ֥רֶב וַֽיְהִי־בֹ֖קֶר 
 י֥וֹם הַשִּׁשִּֽׁי: (בראשית א:לא)
 וַיְכֻלּ֛וּ הַשָּׁמַ֥יִם וְהָאָ֖רֶץ וְכָל־צְבָאָֽם: וַיְכַ֤ל אֱלֹהִים֙ בַּיּ֣וֹם הַשְּׁבִיעִ֔י מְלַאכְתּ֖וֹ אֲשֶׁ֣ר עָשָׂ֑ה וַיִּשְׁבֹּת֙ בַּיּ֣וֹם הַשְּׁבִיעִ֔י מִכָּל־מְלַאכְתּ֖וֹ אֲשֶׁ֥ר עָשָֽׂה: וַיְבָ֤רֶךְ אֱלֹהִים֙ ׀ אֶת־י֣וֹם הַשְּׁבִיעִ֔י וַיְקַדֵּ֖שׁ אֹת֑וֹ כִּ֣י ב֤וֹ שָׁבַת֙ מִכָּל־מְלַאכְתּ֔וֹ אֲשֶׁר־בָּרָ֥א אֱלֹהִ֖ים לַֽעֲשֽׂוֹת: (בראשית ב:א-ג)
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 The heavens and the earth and all their hosts were finished.
 And Elohim completed, on the seventh day, all the work of formation;
 and rested on the seventh day from all the work that was done.
@@ -2286,13 +2286,13 @@ For on it, Elohim rested from all the work of creation that had been fashioned.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 סַבְרֵי מָרָנָן וְרַבָּנָן וְרַבּוֹתַי: 
 (לְחֲיִים!)
 בָּרוּךְ אַתָּה יְיָ אֱלֹהֵֽינוּ מֶֽלֶךְ הָעוֹלָם . בּוֹרֵא פְּרִי הַגָּֽפֶן:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 With your permission.
 (reply: To life!)
 Blessed are you, YHVH Elohenu, creator of the fruit of the vine.
@@ -2301,11 +2301,11 @@ Blessed are you, YHVH Elohenu, creator of the fruit of the vine.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 בָּרוּךְ אַתָּה יְיָ אֱלֹהֵֽינוּ מֶֽלֶךְ הָעוֹלָם . אֲשֶׁר קִדְּשָֽׁנוּ בְּמִצְוֺתָיו וְרָֽצָה בָֽנוּ . וְשַׁבַּת קָדְשׁוֹ בְּאַהֲבָה וּבְרָצוֹן הִנְחִילָֽנוּ . זִכָּרוֹן לְמַעֲשֵׂה בְרֵאשִׁית: כִּי הוּא יוֹם תְּחִלָּה לְמִקְרָאֵי קֹֽדֶשׁ . זֵֽכֶר לִיצִיאַת מִצְרָֽיִם: כִּי בָֽנוּ בָחַֽרְתָּ . וְאוֹתָֽנוּ קִדַּֽשְׁתָּ . מִכָּל הָעַמִּים: וְשַׁבַּת קָדְשְׁךָ בְּאַהֲבָה וּבְרָצוֹן הִנְחַלְתָּֽנוּ: בָּרוּךְ אַתָּה יְיָ מְקַדֵּשׁ הַשַּׁבָּת:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Blessed are you, YHVH Elohenu, ruler of the world who sanctified us with mitzvot and wanted us.
 Who has gven us, as an inheritance, the holy Shabbat in love and desire -
 a remembrance of the work of creation. For it is the first day among holy observances -
@@ -2318,11 +2318,11 @@ Blessed are you, YHVH Elohenu, who sanctifies the Shabbat.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 "When I was a young man, I wanted to change the world.
 I found it was difficult to change the world,
 So I tried to change my nation.
@@ -2344,44 +2344,44 @@ And I could indeed have changed the world."
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <h3>Elevating Ones Hands</h3>
 </div></td>
 </tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 בָּרוּךְ אַתָּה יְיָ אֱלֹהֵֽינוּ מֶֽלֶךְ הָעוֹלָם אֲשֶׁר קִדְּשָֽׁנוּ בְּמִצְוֺתָיו וְצִוָּֽנוּ עַל נְטִילַת יָדָֽיִם:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Blessed are you, YHVH Elohenu, who made us holy through mitsvot and commanded us to elevate our hands.
 </div></td>
 </tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <h3>Bringing Forth Bread</h3>
 </div></td>
 </tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 בָּרוּךְ אַתָּה יְיָ אֱלֹהֵֽינוּ מֶֽלֶךְ הָעוֹלָם הַמּֽוֹצִיא לֶ֝֗חֶם מִן־הָאָֽרֶץ: (תהלים קד:יד)
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Blessed are you, YHVH Elohenu, cosmic majesty, Who brings forth bread from the earth.[foot]Psalms 104:14[/foot]
 </div></td>
 </tr>

@@ -11,21 +11,20 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="commentary"><span lang="he">
-תפלה לרבוי גשמים 
-שמפסידים התבואות בשנת תפט פה מנטובה
+<div class="commentary" lang="he">
+<span class="instruction">תפלה לרבוי גשמים 
+שמפסידים התבואות בשנת תפט פה מנטובה</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
-Prayer [in the event of] excessive rain, 
-which are causing losses in harvest-yield, in the year 489 [1729], here in Mantua [Italy]
-<hr />
+<div class="english" lang="en">
+<span class="instruction">Prayer [in the event of] excessive rain, 
+which is causing losses in harvest-yield, in the year 489 [1729], here in Mantua [Italy]</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לַמְנַצֵּח בִּנְגִינֹת 
 מִזְמוֹר שִׁיר׃ 
 אֱלֹהִים יְחָנֵּנוּ וִיבָרְכֵנוּ 
@@ -33,7 +32,7 @@ which are causing losses in harvest-yield, in the year 489 [1729], here in Mantu
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 For the Leader; with string-music. 
 A Psalm, a Song. 
 Elohim be gracious unto us, and bless us; 
@@ -42,7 +41,7 @@ May They cause Their face to shine toward us; <em>Selah!</em> <span class="citat
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רִבּוֹנוֹ שֶׁל עוֹלָם 
 בּוֹשְׁנוּ וְנִכְלַמְנוּ לְהָרִים אֱלֹהֵינוּ פָּנֵינוּ אֶלֶיךָ 
 כִּי עֲוֺנוֹתֵינוּ רַבּוּ לְמַעְלָה רֹאשׁ 
@@ -56,7 +55,7 @@ May They cause Their face to shine toward us; <em>Selah!</em> <span class="citat
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Master of the world, 
 we are too ashamed and disgraced to lift up our faces unto you, our <em>elo’ah</em>.
 for our iniquities have swelled ‘til they are above our heads, 
@@ -71,7 +70,7 @@ as they pour out their hearts like water toward the face of Adonai[foot]cf. Isai
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שָׁמָיִם נָטְפוּ גֶשֶׁם מָטָר 
 וְגֶשֶׁם מִטְרוֹת עוּזוֹ 
 נָשַׁמוּ מְסִילוֹת 
@@ -81,7 +80,7 @@ as they pour out their hearts like water toward the face of Adonai[foot]cf. Isai
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 The sky poured a torrent of rain
 and with the downpour of God’s mighty rain—
 the roads are wiped out, 
@@ -92,7 +91,7 @@ ruining her harvest.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עֲנֵנוּ יְיָ עֲנֵנוּ בְּעֵת וּבְעוֹנָה הַזֹאת 
 כִּי בְצָרָה גְדוֹלָה אֲנַחְנוּ 
 וְאַל תֵּפֶן לְרִשְׁעֵנוּ וּלְחַטֹאתֵנוּ 
@@ -103,7 +102,7 @@ ruining her harvest.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Answer us, YHVH, answer us at this very moment and time
 because we are in great distress
 and do not pay attention to our evil or our sins
@@ -115,7 +114,7 @@ and your compassion overcome all your other attributes.[foot]BT Berachot 7a.[/fo
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְאִם חָטְאוּ עֲווּ פָשְׁעוּ לְפָנֶיךָ עַמְּךָ יִשְׂרָאֵל 
 וְנִתְחַייְבוּ שְׂרֵיפָה 
 זְכוֹר לָהֶם זְכוּת אַבְרָהָם אֲבִיהֶם 
@@ -124,7 +123,7 @@ and your compassion overcome all your other attributes.[foot]BT Berachot 7a.[/fo
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 And if your people Yisrael, have erred, been iniquitous or willfully sinned before you
 and been deserving of the punishment of incineration, 
 recall on their behalf the merit of Avraham their father, 
@@ -134,7 +133,7 @@ Answer us, Elohim of Abraham, <em>answer us</em>.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְאִם חָטְאוּ עֲווּ פָשְׂעוּ לְפָנֶיךָ עַמְּךָ יִשְׂרָאֵל 
 וְנִתְחַיְיבוּ הָרִיגָה 
 זְכוֹר לָהֶם זְכוּת יִצְחָק אֲבִיהֶם 
@@ -144,7 +143,7 @@ Answer us, Elohim of Abraham, <em>answer us</em>.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 And if your people Yisrael, have erred, been iniquitous or willfully sinned before you
 and been deserving of the punishment of execution, 
 recall on their behalf the merit of Yitsḥaq their father, 
@@ -155,7 +154,7 @@ Answer us, Dread of Yitsḥaq, <em>answer us</em>.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְאִם חָטְאוּ עֲווּ פָשְׂעוּ לְפָנֶיךָ עַמְּךָ יִשְׂרָאֵל 
 וְנִתְחַיְיבוּ גָלוּת וְדַלוּת 
 זְכוֹר לָהֶם זְכוּת יַעֲקֹב אֲבִיהֶם 
@@ -170,7 +169,7 @@ Answer us, Dread of Yitsḥaq, <em>answer us</em>.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 And if your people Yisrael, have erred, been iniquitous or willfully sinned before you
 and been deserving of the punishment of exile and poverty,
 recall on their behalf the merit of Yaaqov their father, 
@@ -186,7 +185,7 @@ Answer us, Might of Yaaqov, <em>answer us</em>.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָנָא פְּתַח לָנוּ 
 שַׁעֲרֵי אוֹצָר הַטוֹב 
 שַעֲרֵי פַּרְנָסָה וְכַלְכָּלָה 
@@ -209,7 +208,7 @@ Answer us, Might of Yaaqov, <em>answer us</em>.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Please open for us
 the gate of the treasury of goodness,
 the gate of sustenance and giving 
@@ -233,7 +232,7 @@ Answer us, Shield of David, <em>answer us</em>.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָנָא פְּתַח לָנוּ 
 שַׁעֲרֵי רָצוֹן. 
 שַׁעֲרֵי בְרָכָה. 
@@ -255,7 +254,7 @@ Answer us, Shield of David, <em>answer us</em>.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Please open for us
 Gate of favor.
 Gate of blessing.
@@ -278,7 +277,7 @@ Gate of giving.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כַּדָבָר שֶׁנֶאֶמַר 
 פּ֯וֹתֵחַ אֶ֯ת יָ֯דֶךָ וּמַשְׁבִּיעַ לְכׇל־חַי רָצוֹן. <span class="citation">(תהלים קמה:טז)</span> 
 אָנָא פַ֯רְנֵס אָ֯מֵץ יָ֯עֵץ סְ֯מוֹךְ אַ֯שֵׁר לַ֯מֵד עַמְּךָ בֵּית יִשְׂרָאֵל 
@@ -294,7 +293,7 @@ Gate of giving.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 As it is said,
 "You open your hand and satiate the desire of all life."[foot]Psalms 145:16.[/foot]&nbsp; 
 Please sustain, give courage, advise, support what teaches your people, Beit Yisrael,
@@ -311,7 +310,7 @@ And the face of the world shall be covered with fruit.”[foot]Isaiah 27:6.[/foo
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֹתֵינוּ
 בְּשֶׁמֶשׁ אוֹרְךָ תָאִיר אֲדָמָה 
 אָמֵן
@@ -338,7 +337,7 @@ And the face of the world shall be covered with fruit.”[foot]Isaiah 27:6.[/foo
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Our <em>elo’ah</em> and <em>elo’ah</em> of our ancestors
 with the sunlight of your light, illuminate the earth
 <em>Amen</em>
@@ -366,7 +365,7 @@ With the sunlight of your giving, provide for the earth
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שֶׁאַתָּה הוּא יְיָ אֱלֹהֵינוּ 
 רַב לְהוֹשִׁיעַ 
 נוֹתֵן מְאוֹרוֹת בִּרְקִיעַ הַשָׁמַיִם 
@@ -383,7 +382,7 @@ With the sunlight of your giving, provide for the earth
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Since you are YHVH our <em>elo’ah</em>
 great rescuer
 who places the celestial lights in the arc of the heavens
@@ -401,12 +400,12 @@ to enliven and to comfort.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֵל מֶלֶךְ
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 El, king.
 </div></td></tr>
 </tbody></table>

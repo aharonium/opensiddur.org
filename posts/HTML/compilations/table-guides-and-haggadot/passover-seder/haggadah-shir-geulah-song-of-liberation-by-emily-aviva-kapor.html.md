@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 <em>Haggadah Shir Ge’ulah</em>, the Song of Liberation, is a new Haggadah for Passover. It is at once traditional and radical, featuring egalitarian Hebrew and English, full transliteration, progressive theology, and a focus on modern issues of oppression and liberation. It is my hope that this Haggadah will elicit questions from all participants, and that everyone will find something in it to challenge them: both people steeped in Jewish learning and used to traditional texts, and also people who are new to the Passover seder or are coming from different worldviews and ideologies.
 
 The Haggadah is made available for download in PDF format on a pay-what-you-can basis. If you download it, please consider donating what you are able; this is the labor I want to do in this world, and you will be helping to support me in producing more work like this in the future. You can also purchase printed, spiral-bound copies, and if you order soon, I will ship Priority Mail to you so you will have it in time for Pesach next week! 
@@ -19,7 +19,7 @@ The Haggadah is made available for download in PDF format on a pay-what-you-can 
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 המחברת מקדישה את הגדה זו
 לכל אחיותיה ואחיה העבריים
 אשר חיים את חייהם בפחד וסכנה
@@ -32,7 +32,7 @@ The Haggadah is made available for download in PDF format on a pay-what-you-can 
 ת׳ נ׳ צ׳ ב׳ ה׳
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 The author dedicates this Haggadah
 to all her transgender siblings
 who live their lives in fear and danger

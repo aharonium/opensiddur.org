@@ -10,11 +10,11 @@ For attribution and license, please consult the following URL: <a href="http://o
 <table style="margin-left: auto;margin-right: auto;">
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <h3>Praise to the Almighty</h3>
 <em>Recited on weekdays and Shabbat</em>
 
@@ -37,11 +37,11 @@ I have spoken today to Shehmaa.
 <table style="margin-left: auto;margin-right: auto;">
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <h3>Devotional Prayer for the morning of the first and third shabbat of the month</h3>
 <em>If there are five Shabbats in the month recite this prayer on the first and fourth Shabbat.</em>
 
@@ -77,11 +77,11 @@ Our Eloowwem the Compassionate and Gracious.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <h3>Devotional Prayer for the the second and fourth Shabbat in the month.</h3>
 <em>If there are five Shabbats in the month, this prayer will be recited on the second, third and fifth Shabbat.</em>
 
@@ -113,11 +113,11 @@ Our Eloowwem the Compassionate and Gracious.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <em>Recite immediately after the above devotional prayers</em>
 
 In devotion, truth and love we all say:
@@ -168,11 +168,11 @@ Blessed will be His Name forever
 <table style="margin-left: auto;margin-right: auto;">
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <h3>The Opening Words of Each Prayer: The Devotion of the Soul</h3>
 
 <em>(To be whispered as the worshipper faces east, [in India, Russia and Ukraine: face southwest], bowing down, forehead touching the ground between the hands, which should be flat on the ground)</em>
@@ -181,7 +181,7 @@ Blessed will be His Name forever
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 מָרִי אֶשָׁאֶלָךּ ࠤבְּרֶֽחמֶּיךּ תֶקַבֶּל מֶנָן,
 וּתִסְלַח לָן חֶטָאִינָן,
 בָּֽעמָל הַצָּדֶיק נֶבִיאנָן וַבְּזֶכּוֹת אָרָשִׁיָנן,
@@ -195,7 +195,7 @@ Blessed will be His Name forever
 וּבָּאתָר סֶגִידָּתָךּ הָרְגָרִזֶים בִּית אֶל.
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 My Lord, I ask that You, with Your Mercy
 Will take from us and forgive us our sins
 In honour of the Righteous, our Prophet and our Forefathers
@@ -212,22 +212,22 @@ And in Your site of worship, Aargaarizem (Mount Gerizim), the House of El.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 יקום ויעמד במימר:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <em>Now the worshipper stands and says out loud)</em>
 </div></td>
 </tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 הָר הַמָּנֻוַּחה וַהנָּחלַה וַהשֶּׁכִּינַה,
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 The Mountain of rest and inheritance and dwelling.
 
 <em>(Remain standing and whisper):</em>
@@ -236,7 +236,7 @@ The Mountain of rest and inheritance and dwelling.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 וַבְּיוֹם נֶקָם וּשַׁלֶּם.
 אֶֽהיִּה אֶֽשָׁר אֶֽהיִּה,
 יהוה אֶלֻהִינוּ 
@@ -244,7 +244,7 @@ The Mountain of rest and inheritance and dwelling.
 ࠤלְבַּדּוּ כִּי רָבּ טֽוּבּוּ וִחסְדוּ.
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 And on the Day of Vengeance and Recompense
 I will be what I will be, Shehmaa our Eloowwem
 Shehmaa is One
@@ -291,11 +291,11 @@ There is no Eloowwem but The One.
 <table style="margin-left: auto;margin-right: auto;">
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <h3>Concluding Prayer</h3>
 
 <em>You May Read this Prayer at the End of Each Prayer</em>

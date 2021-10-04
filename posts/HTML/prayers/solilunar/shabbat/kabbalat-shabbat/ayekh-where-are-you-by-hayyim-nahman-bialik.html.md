@@ -11,18 +11,18 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אַיֵּךְ?
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <u>Where are you?</u>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִמְּקוֹם שֶׁאַתְּ נִסְתֶּרֶת שָׁם, יְחִידַת חַיַּי
 וּשְׁכִינַת מַאֲוַיַּי –
 הִגָּלִי־נָא וּמַהֲרִי בֹאִי, בֹּאִי
@@ -31,7 +31,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Come, beloved, from your hiding place. Come, 
 my only one. Show yourself. Hurry 
 to my refuge, a royal presence.
@@ -40,7 +40,7 @@ While yet I may be saved, come, rescue me.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּמָלְכִי עַל־גּוֹרָלִי;
 וְיוֹם אֶחָד גְּזֵלַת נְעוּרַי לִי הָשִׁיבִי
 וַהֲמִיתִינִי עִם־אֲבִיבִי.
@@ -51,7 +51,7 @@ While yet I may be saved, come, rescue me.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Queen of my fate 
 give me back one day 
 my stolen spring, kill me 
@@ -66,18 +66,18 @@ into fragrant flowers.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he"> 
+<div class="liturgy" lang="he"> 
 אַיֵּךְ?
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Where are you?
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וַאֲנִי עוֹד לֹא יָדַעְתִּי מִי וָמָה אַתְּ –
 וּשְׁמֵךְ עַל־שְׂפָתַי רָעַד,
 וּכְרִצְפַּת אֵשׁ בַּלֵּילוֹת עַל־מִשְׁכָּבִי
@@ -93,7 +93,7 @@ Where are you?
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 When I did not know as yet 
 who you were and what you were 
 your name trembled on my lips.

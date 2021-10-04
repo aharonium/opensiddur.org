@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Translation (Hebrew)</th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֱלֹהִים,
 אָנוּ אוֹהֲבִים אֶת מְדִינָת יִשְׂרָאֵל 
 וּבְכֵן 
@@ -23,7 +23,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 O God, 
 we love this country, 
 and because we love it,
@@ -36,7 +36,7 @@ today.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 טַע בְּלִבֵּנוּ אֹמֶץ 
 לְהַצְלִיחַ נֶגֶד עוֹבְדֵי פֶסֶל הָאוֹמְרִים
 ”מְדִינָתִי כַּצַדֶקֶת כָּרְשָׁעָה,“
@@ -46,7 +46,7 @@ today.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Give us the courage 
 to quarrel with the idolaters who say:
 “My country, right or wrong,” 
@@ -57,7 +57,7 @@ to be made right whenever it is wrong.”
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּבְכֵן [יְהִי רָצוֹן מִלְפָנֶיךָ]&nbsp;
 שֶׁנַּצְמִיח בָּעוֹלָם
 עוֹד קְצַת אֱמֶת
@@ -70,7 +70,7 @@ to be made right whenever it is wrong.”
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May [it be your will]&nbsp;
 that we bring into this world
 a bit more truth
@@ -84,7 +84,7 @@ out of a vision of what it ought to be.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יִהְיוּ לְרָצוֹן אִמְרֵי פִינוּ וּמַעֲשֵׂי יָדֵינוּ לְפָנֶיךָ,
 ה׳
 אֲשֶׁר רִיב־הָאוֹהֲבִים שֶׁלְךָ עִם הָעוֹלָם
@@ -95,7 +95,7 @@ out of a vision of what it ought to be.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May our prayers and our deeds be pleasing to you,
 O God,
 whose lover’s quarrel with the world

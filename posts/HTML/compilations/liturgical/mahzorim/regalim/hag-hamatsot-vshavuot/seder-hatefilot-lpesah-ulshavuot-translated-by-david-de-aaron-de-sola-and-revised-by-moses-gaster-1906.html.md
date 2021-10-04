@@ -19,7 +19,7 @@ Scanning this work is the first step in a more comprehensive project of transcri
 
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 PREFACE. 
 
 This volume completes the series of books of prayer arranged for the Jewish year. It contains the Order of Service for the two great Festivals which mark the beginning of our life as a nation and our selection to be God’s own Chosen People; the one is represented by the Feast of Passover and the other by the Feast of Weeks. On these Festivals we celebrate the two most important events in the history of our people; the departure from Egypt and the giving of the Law, two pivots round which our religious life turns. 

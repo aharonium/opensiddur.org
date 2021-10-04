@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Transliteration (Romanization)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֵל עֶלְיוֹן, 
 רָם עַל כָּל גּוֹיִם, 
 אוֹהֵב צְדָקָה וּמִשְׁפָּט, 
@@ -25,7 +25,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 El Elyon, 
 ram ’al kol goyim, 
 ohev tsedakah umishpat, 
@@ -39,7 +39,7 @@ m’ganah sinat ḥinam v’doḥah khol redifah.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 El Elyon, God on High, 
 supreme over all nations,
 who loves righteousness and justice: 
@@ -54,7 +54,7 @@ giving "to bigotry no sanction, and to persecution no assistance."[foot]George W
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רוּחַ חֲדָשָׁה בְּרָא בָּהּ, 
 לְהַשְֹכִּיל עַל כָּל רָשׁ וָדַּל בְּקִרְבָּהּ, 
 הַקְּטַנִּים עִם הַגְּדֹלִים, 
@@ -70,7 +70,7 @@ giving "to bigotry no sanction, and to persecution no assistance."[foot]George W
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Ruaḥ ḥadasha b’ra bah, 
 lehaskil ’al kol rash vadal bekirbah, 
 haketanim ’im hagedolim, 
@@ -86,7 +86,7 @@ v’tariv rivo.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May it renew its commitment 
 to protect the vulnerable and the powerless in its midst, 
 the small with the great,
@@ -103,7 +103,7 @@ and take up their cause.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֵל רָחוּם וְחַנּוּן, 
 לַמְּדֵנוּ אוֹרְחוֹת רַחֲמִים וְדַרְכֵי נוֹעָם; 
 שְׁפוֹךְ אֶת רוּחֲךָ עַל הָאָרֶץ, 
@@ -117,7 +117,7 @@ and take up their cause.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 El raḥum v’ḥanun, 
 lamdenu orḥot raḥamim v’darkhei no’am; 
 shfokh et ruḥakha ’al ha’arets, 
@@ -131,7 +131,7 @@ V’nomar: <em>Amen</em>.
 </span></div></td> 
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 El, author of mercy and compassion, 
 teach us the ways of compassion; 
 pour out Your spirit upon the land, 

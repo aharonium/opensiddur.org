@@ -12,13 +12,13 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr>
 <td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <em>We have sinned</em>
 By yielding to confusion and falling into passivity
 By indulging in fear
@@ -35,13 +35,13 @@ By not defending Palestine
 
 <tr>
 <td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <em>For all our sins, may the force that makes forgiveness possible, 
 forgive us, pardon us and grant us atonement</em>
 </div></td>
@@ -50,13 +50,13 @@ forgive us, pardon us and grant us atonement</em>
 
 <tr>
 <td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 By not standing up to fanaticism, terrorism, rape and torture – no matter who the perpetrators are
 By not rocking the boat
 By not being grateful for our blessings
@@ -71,13 +71,13 @@ By not opposing ballot measures that deprive us of basic rights
 
 <tr>
 <td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <em>For all our sins, may the force that makes forgiveness possible, 
 forgive us, pardon us and grant us atonement</em>
 </div></td>
@@ -86,13 +86,13 @@ forgive us, pardon us and grant us atonement</em>
 
 <tr>
 <td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 By building fences on our borders
 By not actively opposing war and invasion of sovereign nations
 By being paralyzed by paranoia and hatred
@@ -108,13 +108,13 @@ By forgetting how to smile
 
 <tr>
 <td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <em>For all our sins, may the force that makes forgiveness possible,
 forgive us, pardon us and grant us atonement</em>
 </div></td>
@@ -123,13 +123,13 @@ forgive us, pardon us and grant us atonement</em>
 
 <tr>
 <td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 By hiding from our wrongdoings
 By putting a stumbling block before the blind
 By not searching for the truth, wherever it lies
@@ -141,13 +141,13 @@ By not forgiving and asking God for forgiveness
 
 <tr>
 <td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <em>For all our sins, may the force that makes forgiveness possible,
 forgive us, pardon us and grant us atonement</em>
 </div></td>

@@ -11,18 +11,18 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Translation (Yiddish)</th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="yiddish"><span lang="he">
+<div class="yiddish" lang="yi">
 אַמעריקע די פּרעכטיקע
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <u>America the Beautiful</u>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="yiddish"><span lang="he">
+<div class="yiddish" lang="yi">
 אָ, פּרעכטיקע, מיט הימלען ברײט, 
 מיט זאנגען װי בורשטין; 
 מיט שטאָלצע פּורפּור־בערג צעזײט 
@@ -34,7 +34,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 O beautiful for spacious skies,
 For amber waves of grain,
 For purple mountain majesties
@@ -47,7 +47,7 @@ From sea to shining sea!
 
 
 <tr><td style="vertical-align:top;">
-<div class="yiddish"><span lang="he">
+<div class="yiddish" lang="yi">
 אָ, פּרעכטיקע, װאו פּילגרים האָט 
 באגײסטערט אומגעשפּאנט, 
 פאר פרײהײט־גליק געקעמפט זײן טראָט 
@@ -59,7 +59,7 @@ From sea to shining sea!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 O beautiful for pilgrim feet,
 Whose stern, impassioned stress
 A thoroughfare for freedom beat
@@ -72,7 +72,7 @@ Thy liberty in law!
 
 
 <tr><td style="vertical-align:top;">
-<div class="yiddish"><span lang="he">
+<div class="yiddish" lang="yi">
 אָ, פּרעכטיקע, ס׳קלינגט מעשהדיק 
 פאר אונדז דײן פרײהײט־שלאכט! 
 די בראװקײט דינט דעם מענטשנס גליק, 
@@ -84,7 +84,7 @@ Thy liberty in law!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 O beautiful for heroes proved
 In liberating strife,
 Who more than self their country loved
@@ -97,7 +97,7 @@ And every gain divine!
 
 
 <tr><td style="vertical-align:top;">
-<div class="yiddish"><span lang="he">
+<div class="yiddish" lang="yi">
 אָ, פּרעכטיקע, װאו קעמפער זעט 
 זײן צוקונפט־טרױם צעהעלט, 
 װי ס׳בלאנקען ציכטיק דײנע שטעט, 
@@ -109,7 +109,7 @@ And every gain divine!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 O beautiful for patriot dream
 That sees beyond the years
 Thine alabaster cities gleam

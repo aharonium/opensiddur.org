@@ -17,7 +17,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַזּוֹכֵר מַזְכִּירָיו, 
 דּוֹר דּוֹר וּקְדוֹשָׁיו, 
 מֵעֵת אֲשֶׁר אָז בְּחַרְתָּנוּ,
@@ -26,7 +26,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May the One who remembers those who were mindful of them,
 each generation and its saintly martyrs
 since the time You chose us––
@@ -36,7 +36,7 @@ Woe! What has befallen us!
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שְׁטוּפֵי מַבּוּל־דָּם, 
 שֶׁמָּכְרוּ נַפְשׁוֹתָם,
 כׇּל שְׁקוּעֵי עִמְקֵי־הַבָּכָא, 
@@ -45,7 +45,7 @@ Woe! What has befallen us!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 All those who were swept away by the flood of blood––
 All those who sacrificed their lives 
 who drowned in the valley of tears,
@@ -55,7 +55,7 @@ Forever may their memory be a blessing.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שְׂאוּ אֵלָיו כַּפַּיִם, אֲהָהּ, אֵי שָׁמַיִם,
 הוֹי עַל מֵּיטַב שִׁבְטֵי־יִשְׂרָאֵל, 
 עֵדוֹת וּקְהִלּוֹת, עָרִים וּגְלִילוֹת,
@@ -67,7 +67,7 @@ Forever may their memory be a blessing.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Lift your hands up to Him, woe O ye Heavens!
 woe over the best of Yisrael’s tribes,
 Communities and congregations, towns and districts, 
@@ -80,7 +80,7 @@ consumed in the fires of destruction and horror.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְעַל שֵׂרַי־הַתּוֹרָה, וּמַחֲזִיקֵי מָּסוֹרָה,
 וְעַל פִּרְחֵי הַכְּהוּנָה הַצְּעִירִים,
 וְעַל חוֹבְשֵׁי מִדְרָשׁוֹת, וּמוֹרִים וּמוֹרוֹת,
@@ -92,7 +92,7 @@ consumed in the fires of destruction and horror.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 For the princes of Torah, the pillars of Tradition, 
 for the young flowers of priestly children,
 For the diligent scholars, the teachers of men and women,
@@ -105,7 +105,7 @@ whom death did not part.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֶת דָּמָם דְּרוֹשׁ, כִּי תִשָּׂא אֶת רֹאשׁ,
 שֶׁל כׇּל נִדָּף לֶעָלִים הַטְּרוּפִים,
 כׇּל נַפְשׁוֹת־מֵת, בִּימֵי שֶׁבֶר וָשֵׁאת,
@@ -119,7 +119,7 @@ whom death did not part.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Search for their blood! 
 Take account of every driven leaf––
 Of every life perished in the days of the shoah––
@@ -134,7 +134,7 @@ from the book which You have written.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 זְכוֹר הַנְּאָקוֹת, וְרַעֲשׁ צְעֲקוֹת, 
 אָז יוּבְלוּ לָרֶצַח,
 יְאוֹרֵי דְמֵיהֶם, וְדִמְעוֹת פְּנֵיהֶם, 
@@ -147,7 +147,7 @@ from the book which You have written.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Remember every moan, every horrifying scream,
 when they were herded for slaughter––
 All the rivers of blood, all the tear-stained faces:
@@ -161,7 +161,7 @@ Till the day that You avenge their utter degradation.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בְּמַחֲנוֹת הַפְּרָאִים, 
 כְּאֵב וּנְגָעִים, 
 וּפַחֵי נְפָשוֹת עֲגוּמוֹת, 
@@ -174,7 +174,7 @@ Till the day that You avenge their utter degradation.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 In the camp of the barbarian: 
 pain and sickness,
 the anguish of mortified souls,
@@ -188,7 +188,7 @@ O, far be it from You that this ever be forgotten.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְתִימְרוֹת־עָשָׁן 
 וְקִיטוֹר מִכִּבְשָׁן, 
 תִּלֵּי־תִלִּים עֲצָמוֹת וְגִידִים, 
@@ -204,7 +204,7 @@ O, far be it from You that this ever be forgotten.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 And the smokestacks––
 heavy smoke from the furnaces,
 Piles and piles of bones and limbs––
@@ -221,7 +221,7 @@ And their skin into decorations for their womenfolk.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּקְרִיצַת אֶצְבָּעוֹת, 
 שֶׁל רׇאשֵׁי־הַפְּרָעוֹת, 
 לִימִין שִׁעְבּוּד־פֶּרַךְ, 
@@ -237,7 +237,7 @@ And their skin into decorations for their womenfolk.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Remember the savage leaders
 pointing their fingers––
 To the right: slave labor!––
@@ -254,7 +254,7 @@ Their children abandoned in idolatrous homes.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שֶׂה־תָמִים לָעוֹלָה, 
 דַם בְּנֵי הַגּוֹלָה,
 הוֹי אֲרֵיאַל מִנִּבְלַת חֲסִידֶיךָ 
@@ -271,7 +271,7 @@ Their children abandoned in idolatrous homes.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Sheep without blemish––
 the blood of our captive children, 
 offered  upon the mighty altar; woe! 
@@ -289,7 +289,7 @@ singing aloud the song of faith “Ani ma’amin.”
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּבְכֵן נִשְׁאַר עָם, 
 כְּיָתוֹם נִדְהָם, 
 בְּלִי קְבָרִים לְהָשְׁתַּטֵּחַ, וְלֹא מַצֵּבוֹת, 
@@ -302,7 +302,7 @@ singing aloud the song of faith “Ani ma’amin.”
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 What is left now: a people,
 bewildered like orphans––
 no grave to pray at––No tombstones 
@@ -317,7 +317,7 @@ these shall be their lasting tribute.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִי יְמַלֵּל, צַעֲר יִשְׂרָאֵל,
 אֲשֶׁר דַּעְתּוֹ מִכְּאֵב נִטְרֶפֶת, 
 וּשְׁאֵרִית הַפְּאֵר, כִּמְעַט מִזְּעֵיר, 
@@ -331,7 +331,7 @@ these shall be their lasting tribute.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Who could express Yisrael’s torment,
 its mind disturbed by misery––
 What’s left of its shine reduced to tiny bits;

@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: left;">Source (Ladino)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="spanish"><span lang="es">
+<div class="spanish" lang="es">
 Kuando el rey Nimrod al campo salia
 mirava en el cielo y en la estrelleria
 vido una luz santa en la juderia
@@ -19,7 +19,7 @@ que havia de naser Avraham Avinu.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 When King Nimrod went out to the countryside
 He was looking at heaven and at the stars
 He saw a holy light in the Jewish quarter
@@ -28,7 +28,7 @@ He saw a holy light in the Jewish quarter
 
 
 <tr><td style="vertical-align:top;">
-<div class="spanish"><span lang="es">
+<div class="spanish" lang="es">
 (Avraham Avinu, Padre querido
 Padre bendicho, luz de Yisra'el) <span class="instruction">(×2)</span>.
 Luego a las comadres encomendava
@@ -38,7 +38,7 @@ que havia de naser Avraham Avinu.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 (Avraham Avinu, beloved father
 Blessed father, light of Yisra'el) <span class="instruction">(×2)</span>.
 Then he told the midwives
@@ -49,7 +49,7 @@ because Avraham our father was about to be born.
 
 
 <tr><td style="vertical-align:top;">
-<div class="spanish"><span lang="es">
+<div class="spanish" lang="es">
 La mujer de Teraḥ quedó prenyada
 y de dia en dia él le preguntava (or demandava)
 "¿De qué teneix la cara tan demudada?"
@@ -57,7 +57,7 @@ Ella ya savia el bien que tenia.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Teraḥ's wife was pregnant
 and each day he would ask her
 "Why do you look so pale?"
@@ -66,7 +66,7 @@ She already knew the blessing that she had.
 
 
 <tr><td style="vertical-align:top;">
-<div class="spanish"><span lang="es">
+<div class="spanish" lang="es">
 En fin de nueve mezes parir queria
 iva caminando por campos y vinyas,
 a su marido tal ni le descubria
@@ -74,7 +74,7 @@ topó una meara, alli lo pariria
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 At the end of nine months she wanted to give birth,
 She walked through fields and vineyards
 She didn't tell her husband anything,
@@ -83,7 +83,7 @@ She found a cave; there, she would give birth.
 
 
 <tr><td style="vertical-align:top;">
-<div class="spanish"><span lang="es">
+<div class="spanish" lang="es">
 En aquella hora el nasido avlava:
 "Anda vos, la mi madre, de la meara,
 yo ya topo quien m'alechará,
@@ -92,7 +92,7 @@ porque so criado del Dio bendicho."
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 At that time the newborn spoke:
 "Walk away from the cave, my mother
 I have already found someone who will take me away.
@@ -102,7 +102,7 @@ Because I am a child of the blessed God."
 
 
 <tr><td style="vertical-align:top;">
-<div class="spanish"><span lang="es">
+<div class="spanish" lang="es">
 En fin de veinte dias lo fue a visitar,
 lo vido d'enfrente, mancevo saltar,
 mirando al cielo y bien atinar,
@@ -110,7 +110,7 @@ para conocer el Dio de la verdad.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 After twenty days she went to visit him.
 She saw in front of her a young man leaping,
 Looking at the sky and (looking carefully/noticing everything),
@@ -119,7 +119,7 @@ In order to know the God of Truth.
 
 
 <tr><td style="vertical-align:top;">
-<div class="spanish"><span lang="es">
+<div class="spanish" lang="es">
 "Madre, la mi madre, que buscaix aqui?
 Un hijo preciado parí yo aquí.
 Vine a buscarlo, si se topa aqui,
@@ -127,7 +127,7 @@ si está bivo me consolaré yo."
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 "Mother, my mother, what are you looking for here?"
 "I gave birth to a precious son here.
 I came to look for him here, if he is still here.
@@ -136,7 +136,7 @@ If he is alive I will be consoled."
 
 
 <tr><td style="vertical-align:top;">
-<div class="spanish"><span lang="es">
+<div class="spanish" lang="es">
 "Madre, la mi madre, que avlaix?
 Un hijo preciado, como lo dexaix?
 A fin de veinte dias, como lo vizitaix?
@@ -144,7 +144,7 @@ A fin de veinte dias, como lo vizitaix?
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 "Mother, my mother, what are you saying?
 How could you leave your precious son?
 After twenty days how is it that you're visiting him?
@@ -153,7 +153,7 @@ I am your precious son!
 
 
 <tr><td style="vertical-align:top;">
-<div class="spanish"><span lang="es">
+<div class="spanish" lang="es">
 Mirad la mi madre, que el Dío es uno,
 él crio los cielos uno per uno.
 Dizedle a Nimrod que perdio su tino
@@ -161,7 +161,7 @@ porque no quiere creer en el Verdadero.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 "Look, mother: God is one,
 He created the heavens one by one.
 Tell Nimrod that he has lost his mind
@@ -170,7 +170,7 @@ Because he does not want to believe in the True One."
 
 
 <tr><td style="vertical-align:top;">
-<div class="spanish"><span lang="es">
+<div class="spanish" lang="es">
 Lo alcanzó a saver el rey Nimrod esto,
 "¡dixo que lo traigan aina y presto
 antes que desreinen a todo el resto
@@ -178,7 +178,7 @@ y dexen a mi ya crean en el Verdadero!"
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 The knowledge [of Avraham's birth] reached King Nimrod.
 "Bring him here immediately
 Before everyone else rebels
@@ -187,7 +187,7 @@ And say to me they already believe in the True One!"
 
 
 <tr><td style="vertical-align:top;">
-<div class="spanish"><span lang="es">
+<div class="spanish" lang="es">
 Ya me lo truxeron con grande albon
 y el travó de la silla un buen travon.
 "¿Di, raxa—por que te tienes tu por Dío?
@@ -195,7 +195,7 @@ y el travó de la silla un buen travon.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 They brought him in great humility.
 He strongly seized the throne.
 "Tell me, evil one: why do you think you are God?"
@@ -204,7 +204,7 @@ Why do you not wish to believe in the True One?"
 
 
 <tr><td style="vertical-align:top;">
-<div class="spanish"><span lang="es">
+<div class="spanish" lang="es">
 "¡Acendiendo un horno, bien acendido,
 echadlo presto qu'es entendido!
 Llevadlo con trabucos, qu'es agudo,
@@ -212,7 +212,7 @@ si d'aqui el Dío lo escapa, es el Verdadero."
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 "Light a fiery furnace,
 Throw in the one who has learned immediately!
 Protect yourself from him because he is sharp.
@@ -221,7 +221,7 @@ If God allows him to escape from here, then He is the Real One."
 
 
 <tr><td style="vertical-align:top;">
-<div class="spanish"><span lang="es">
+<div class="spanish" lang="es">
 Echandolo al horno, iva caminando,
 con los malakhim iva paseando,
 y todos los lenyos fruto ivan dando;
@@ -229,7 +229,7 @@ d'aqui conocemos al Dío verdadero.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Thrown into the furnace, he walked
 With the angels he wandered.
 All the firewood gave forth fruit,
@@ -238,7 +238,7 @@ And that is how we know the true God.
 
 
 <tr><td style="vertical-align:top;">
-<div class="spanish"><span lang="es">
+<div class="spanish" lang="es">
 Grande zekhut tiene el senyor Avraham,
 que por él conocemos el Dío de la verdad.
 Grande zekhut tiene el senyor parido,
@@ -246,7 +246,7 @@ que afirma la mitsvá de Avraham Avinu.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Great merit has honorable Avraham
 Because of him we recognize the true God.
 Great merit has the father of the newborn
@@ -255,7 +255,7 @@ Who fulfills the commandment of Avraham our father (circumcision).
 
 
 <tr><td style="vertical-align:top;">
-<div class="spanish"><span lang="es">
+<div class="spanish" lang="es">
 Saludemos agora al senyor parido,
 que le sea besiman-tov este nacido,
 qu'Eliahu ha-Navi mos sea aparecido,
@@ -263,7 +263,7 @@ y daremos loores al Verdadero.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 We greet now the father of the newborn
 We wish this newborn has been born under a <em>siman tov</em>.
 Because Eliyah ha-Navi appeared to us
@@ -272,7 +272,7 @@ And we will give praises to the True One.
 
 
 <tr><td style="vertical-align:top;">
-<div class="spanish"><span lang="es">
+<div class="spanish" lang="es">
 Saludemos agora al compadre [sandak] y tambien al mohel
 que por su Zekhut mos venga
 el Goel y Rahma a todo Yisra'el,
@@ -280,7 +280,7 @@ cierto loaremos al Verdadero.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 We greet now the <em>sandek</em> and also the <em>mohel</em>,
 Because of his merit 
 the Redeemer and Merciful One will come to all Yisra'el,

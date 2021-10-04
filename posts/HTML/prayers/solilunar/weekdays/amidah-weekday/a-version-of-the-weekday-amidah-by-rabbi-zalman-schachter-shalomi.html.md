@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה ה׳ 
 אֱלֹהֵינוּ 
 וֵאלֹהֵי אֲבוֹתֵינוּ וְאִמוֹתֵינוּ,
@@ -37,7 +37,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 I bow before You, Yah, 
 Our indwelling God,
 Our parents’ God,
@@ -64,7 +64,7 @@ Magen Avraham u’Foked Sarah.</em>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אַתָּה גִּבּוֹר לְעוֹלָם אֲדֹנָי,
 מְחַיֵּה מֵתִים 
 אַתָּה רַב לְהוֹשִׁיעַ׃
@@ -89,7 +89,7 @@ Magen Avraham u’Foked Sarah.</em>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 You are powerful with worlds Adonai.
 What is dead, you can make live.
 You are really capable of helping.
@@ -115,7 +115,7 @@ M’ḥayeh Hametim.</em>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אַתָּה קָדוֹשׁ 
 וְשִׁמְךָ קָדוֹשׁ,
 וּקְדוֹשִׁים בְּכׇל יוֹם 
@@ -127,7 +127,7 @@ M’ḥayeh Hametim.</em>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 You are Holy, 
 Your name is Sacred.
 And those who daily aspire to be holy,
@@ -140,7 +140,7 @@ Ha’el haḲadosh.</em>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אַתָּה חוֹנֵן לְאָדָם דַּעַת, 
 וּמְלַמֵּד לֶאֱנוֹשׁ בִּינָה.
 חָנֵּנוּ מֵאִתְּךָ 
@@ -152,7 +152,7 @@ Ha’el haḲadosh.</em>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 &nbsp;
 &nbsp;
 &nbsp;
@@ -165,7 +165,7 @@ We pray for the right awareness
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הֲשִׁיבֵנוּ אָבִינוּ לְתוֹרָתֶךָ, 
 וְקָרְבֵנוּ מַלְכֵּנוּ לַעֲבוֹדָתֶךָ, 
 וְהַחֲזִירֵנוּ 
@@ -178,7 +178,7 @@ We pray for the right awareness
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 &nbsp;
 &nbsp;
 &nbsp;
@@ -192,7 +192,7 @@ Harotseh Bit’shuvah.</em>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 סְלַח לָנוּ אָבִינוּ כִּי חָטָאנוּ, 
 מְחֹל לָנוּ מַלְכֵּנוּ כִּי פָשַׁעְנוּ, 
 כִּי אֵל טוֹב וְסַלָּח אָתָּה. 
@@ -203,7 +203,7 @@ Harotseh Bit’shuvah.</em>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 &nbsp;
 &nbsp;
 &nbsp;
@@ -215,7 +215,7 @@ We pray for forgiveness
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רְאֵה נָא בְעָנְיֵנוּ, 
 וְרִיבָה רִיבֵנוּ. 
 וּמַהֵר לְגָאֳלֵנוּ 
@@ -229,7 +229,7 @@ We pray for forgiveness
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 &nbsp;
 &nbsp;
 &nbsp;
@@ -244,7 +244,7 @@ Go’el Yisrael.</em>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רְפָאֵנוּ יְהֹוָה וְנֵרָפֵא, 
 הוֹשִׁיעֵנוּ וְנִוָּשֵׁעָה, 
 כִּי תְהִלָּתֵנוּ אָתָּה, 
@@ -263,7 +263,7 @@ Go’el Yisrael.</em>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 &nbsp;
 &nbsp;
 &nbsp;
@@ -283,7 +283,7 @@ Rofé Khol Bassar U’mafli La’assot.</em>[foot]Here Reb Zalman substitutes th
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="instruction">בקיץ:</span> (בַּרְכֵנוּ יְהֹוָה אֱלֹהֵינוּ בְּכׇל מַעֲשֵׂי יָדֵינוּ.
 וּבָרֵךְ שְׁנָתֵנוּ בְּטַלְלֵי רָצוֹן בְּרָכָה וּנְדָבָה.)
 <span class="instruction">בחורף:</span> (בָּרֵךְ עָלֵינוּ יְהֹוָה אֱלֹהֵינוּ אֶת הַשָּׁנָה הַזֹּאת. 
@@ -307,7 +307,7 @@ Rofé Khol Bassar U’mafli La’assot.</em>[foot]Here Reb Zalman substitutes th
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 &nbsp;
 &nbsp;
 &nbsp;
@@ -332,7 +332,7 @@ M’varekh Hashanim.</em>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 תְּקַע בְּשׁוֹפָר גָּדוֹל לְחֵרוּתֵנוּ, 
 וְשָׂא נֵס לְקַבֵּץ גָּלֻיּוֹתֵינוּ, 
 וְקַבְּצֵנוּ מְהֵרָה יַחַד 
@@ -345,7 +345,7 @@ M’varekh Hashanim.</em>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 &nbsp;
 &nbsp;
 &nbsp;
@@ -359,7 +359,7 @@ M’kabeits Nid’ḥei Amo Yisrael.</em>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הָשִׁיבָה שׁוֹפְטֵינוּ כְּבָרִאשׁוֹנָה, 
 וְיוֹעֲצֵינוּ כְּבַתְּחִלָּה. 
 וְהָסֵר מִמֶּנוּ יָגוֹן וַאֲנָחָה, 
@@ -373,7 +373,7 @@ M’kabeits Nid’ḥei Amo Yisrael.</em>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 &nbsp;
 &nbsp;
 &nbsp;
@@ -388,7 +388,7 @@ Melekh Ohev Tsedakah U’mishpat.</em>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְלַמַּלְשִׁינִים אַל תְּהִי תִקְוָה, 
 וְכָל הַמִינִים כְּרֶגַע יֹאבֵדוּ, 
 וְכָל אוֹיְבֵי עַמְּךָ מְהֵרָה יִכָּרֵתוּ, 
@@ -403,7 +403,7 @@ Melekh Ohev Tsedakah U’mishpat.</em>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 &nbsp;
 &nbsp;
 &nbsp;
@@ -419,7 +419,7 @@ Shover Oyvim U’makhni’a Zeydim.</em>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עַל הַצַּדִּיקִים וְעַל הַחֲסִידִים 
 וְעַל שְׁאֵרִית עַמְּךָ בֵּית יִשְׂרָאֵל 
 וְעַל זִקְנֵיהֶם וְעַל פְּלֵטַת בֵּית סוֹפְרֵיהֶם 
@@ -437,7 +437,7 @@ Shover Oyvim U’makhni’a Zeydim.</em>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 &nbsp;
 &nbsp;
 &nbsp;
@@ -456,7 +456,7 @@ Mish’an U’mivtaḥ laTsadiqim.</em>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 תִּשְׁכּוֹן בְּתוֹךְ יְרוּשָׁלַיִם 
 עִירְךָ כַּאֲשֶׁר דִּבַּרְתָּ, 
 וְכִסֵּא דָוִד עַבְדְּךָ, 
@@ -472,7 +472,7 @@ Mish’an U’mivtaḥ laTsadiqim.</em>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 &nbsp;
 &nbsp;
 &nbsp;
@@ -489,7 +489,7 @@ Boneh Yerushalayim.</em>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֶת צֶמַח דָּוִד עַבְדְּךָ 
 מְהֵרָה תַצְמִיחַ, 
 וְקַרְנוֹ תָרוּם בִּישׁוּעָתֶךָ.
@@ -503,7 +503,7 @@ Boneh Yerushalayim.</em>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 &nbsp;
 &nbsp;
 &nbsp;
@@ -518,7 +518,7 @@ Matsmi’aḥ Ḳeren Yeshu’ah.</em>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שְׁמַע קוֹלֵנוּ יְהֹוָה אֱלֹהֵינוּ, 
 אָב הָרַחֲמָן 
 רַחֵם עָלֵינוּ, 
@@ -534,7 +534,7 @@ Matsmi’aḥ Ḳeren Yeshu’ah.</em>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 You hear Our Prayer,
 Compassionate parent.
 Accept our pleading, 
@@ -551,7 +551,7 @@ Shome’a Tefillah.</em>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רְצֵה יְהֹוָ֑ה אֱלֹהֵינוּ בְּעַמְּךָ יִשְׂרָאֵל
 וְלִתְפִלָּתָם שְׁעֵה, 
 &nbsp;
@@ -567,7 +567,7 @@ Shome’a Tefillah.</em>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Take pleasure God, 
 In our way of praying.
 Teach us,  
@@ -584,7 +584,7 @@ HaMaḥazir Shekhinato l’Tsyion.</em>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מוֹדִים אֲנַחְנוּ לָךְ, 
 שָׁאַתָּה הוּא יְהֹוָ֑ה אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֹתֵינוּ לְעוֹלָם וָעֶד
 צוּר חַיֵּינוּ, מָגֵן יִשְׁעֵנוּ, אַתָּה הוּא לְדוֹר וָדוֹר 
@@ -610,7 +610,7 @@ HaMaḥazir Shekhinato l’Tsyion.</em>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 We are grateful God 
 and count our blessings
 &nbsp;
@@ -637,7 +637,7 @@ HaTov Shimkha u’l’Kha Na’eh l’Hodot.</em>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שִׂים שָׁלוֹם, 
 טוֹבָה וּבְרָכָה, 
 חַיִּים חֵן וָחֶסֶד וְרַחֲמִים, 
@@ -654,7 +654,7 @@ HaTov Shimkha u’l’Kha Na’eh l’Hodot.</em>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 We pray for Peace
 &nbsp;
 &nbsp;

@@ -11,12 +11,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 We are the generation that stands 
 between the fires:
 Behind us the flame and smoke
@@ -31,12 +31,12 @@ The heat and smoke that could consume all Earth.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 "Here! The day is coming
 That will flame like a furnace, “
 Says the Infinite YHWH / Yahhhh,
@@ -52,12 +52,12 @@ with healing in its wings / rays. . . .
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 “Here! Before the coming
 of the great and awesome day
 of YHWH/ the Breath of Life,
@@ -69,12 +69,12 @@ lest I come and smite the earth with utter destruction."[foot]Malachi 3:20-21[/f
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Here! we ourselves are coming
 Before the great and terrible day
 of smiting Earth —
@@ -87,12 +87,12 @@ Does not fall upon us."[foot]Malachi 3:23-24[/foot]
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 It is our task to make from fire not an all-consuming blaze
 But the light in which we see each other fully.
 All of us different, All of us bearing
@@ -101,12 +101,12 @@ One Spark.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 We light these fires to see more clearly
 That the earth and all who live as part of it
 Are not for burning.                                                
@@ -116,24 +116,24 @@ The rainbow in our many-colored faces.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Blessed is the One within the many.
 Blessed are the many who make One.
  </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">[Light candles of commitment]</span>
 </div></td></tr>
 </tbody></table>

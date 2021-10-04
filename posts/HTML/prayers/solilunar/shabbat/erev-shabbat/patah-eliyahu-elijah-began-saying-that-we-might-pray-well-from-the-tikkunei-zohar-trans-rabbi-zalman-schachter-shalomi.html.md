@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="28%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 פָּתַח אֵלִיָּֽהוּ וְאָמַר:
 רִבּוֹן עָלְמִין,
 אַנְתְּ הוּא חָד,
@@ -25,7 +25,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 כְּלָל.
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 Elijah began saying:
 Lord of the worlds
 You Who are One
@@ -40,7 +40,7 @@ at all.
 </div></td></tr>
     
     
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" style="text-align: right;"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he" style="text-align: right;">
 אַנְתְּ הוּא
 דְאַפֵּיקְתָּ
 עֲשַׂר תִּקּוּנִין,
@@ -52,7 +52,7 @@ at all.
 וְעָלְמִין דְּאִתְגַּלְיָן.
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 You are He
 Who pours forth
 Ten Tikkunim.
@@ -65,7 +65,7 @@ and Worlds manifest and known.
 </div></td></tr>
     
     
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" style="text-align: right;"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he" style="text-align: right;">
 וּבְהוֹן אִתְכְּסִיאַת
 מִבְּנֵי נְשָׁא.
 וְאַנְתְּ הוּא
@@ -73,7 +73,7 @@ and Worlds manifest and known.
 וּמְיַחֵד לוֹן.
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 In them are You hidden
 from the sons of men.
 You are He
@@ -82,7 +82,7 @@ Who unites them.
 </div></td></tr>
     
     
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" style="text-align: right;"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he" style="text-align: right;">
 וּבְגִין דְּאַנְתְּ
 מִלגָאו,
 כָּל מַאן
@@ -93,7 +93,7 @@ Who unites them.
 אַפְרֵישׁ בָּךְ.
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 And since You are
 within them
 whosoever
@@ -105,7 +105,7 @@ sundered You.
 </div></td></tr>
     
     
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" style="text-align: right;"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he" style="text-align: right;">
 וְאִלֵּין עֲשַׂר סְפִירָן.
 אִנּוּן אָזְלִין כְּסִדְרָן.
 חַד אֲרִיךְ
@@ -113,7 +113,7 @@ sundered You.
 וְחַד בֵּינוֹנִי.
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 These Ten S'firot
 proceed in their order
 one—long
@@ -122,7 +122,7 @@ and one between.
 </div></td></tr>
     
     
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" style="text-align: right;"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he" style="text-align: right;">
 וְאַנְתְּ הוּא
 דְמַנְהֵיג לוֹן.
 וְלֵית מַאן
@@ -135,7 +135,7 @@ and one between.
 לִבְנֵי נְשָׁא.
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 You are He
 who governs them.
 No one
@@ -150,7 +150,7 @@ for the sons of men.
 </div></td></tr>
     
     
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" style="text-align: right;"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he" style="text-align: right;">
 וְכַמָּה גוּפִין תְּקֵינְתָּ לוֹן,
 דְּאִתְקְרִֽיאוּ גוּפִין
 לְגַבֵּי לְבוּשִׁין
@@ -160,7 +160,7 @@ for the sons of men.
 בְּתִקּוּנָא דָא.
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 Many bodies You fashioned for them
 'bodies' they are called
 when compared to the 'wraps'
@@ -171,7 +171,7 @@ in the following Tikkun
 </div></td></tr>
     
     
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" style="text-align: right;"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he" style="text-align: right;">
 חֶֽסֶד
 דְּרוֹעָא יְמִינָא.
 גְּבוּרָה
@@ -188,7 +188,7 @@ in the following Tikkun
 תּוֹרָה שֶׁבְּעַל פֶּה קְרִינָן לָהּ.
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 Hesed
 the 'Right Arm'
 Gevurah
@@ -206,7 +206,7 @@ the oral Torah we call it.
 </div></td></tr>
     
     
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" style="text-align: right;"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he" style="text-align: right;">
 חָכְמָה
 מוֹחָא אִיהִוּ
 מַחֲשָׁבָה מִלְּגָאו.
@@ -215,7 +215,7 @@ the oral Torah we call it.
 הַלֵּב מֵבִין.
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 Hokhmah
 the 'Brain'; it is the
 Thought within
@@ -225,14 +225,14 @@ the very heart of understanding
 </div></td></tr>
     
     
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" style="text-align: right;"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he" style="text-align: right;">
 וְעַל אִלֵּין תְּרֵין
 כְּתִיב
 הַנִּסְתָּרוֹת
 לַיְיָ אֱלֹהֵֽינוּ.
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 Concerning these two (Hokhmah and Binah)
 it is written
 "Mysteries hidden are they
@@ -240,7 +240,7 @@ of YHVH God"
 </div></td></tr>
     
     
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" style="text-align: right;"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he" style="text-align: right;">
 כֶּֽתֶר עִלָאָה
 אִיהוּ
 כֶּֽתֶר מַלְכוּת.
@@ -263,7 +263,7 @@ of YHVH God"
 בְּהַהוּא שַׁקְיוּ:
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 Keter, the highest,
 for it is
 the Crown of Majesty,
@@ -287,7 +287,7 @@ through the root's sap.
 </div></td></tr>
     
     
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" style="text-align: right;"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he" style="text-align: right;">
 רִבּוֹן עָלְמִין,
 אַנְתְּ הוּא
 עִלַּת הָעִלּוֹת,
@@ -297,7 +297,7 @@ through the root's sap.
 נְבִיעוּ.
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 O Lord of the worlds
 You are
 Origin of Origins
@@ -308,20 +308,20 @@ by this flux.
 </div></td></tr>
     
     
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" style="text-align: right;"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he" style="text-align: right;">
 וְהַהוּא נְבִיעוּ אִיהוּ
 כְּנִֹשְמָתָא לְגוּפָא,
 דְּאִיהוּ חַיִּים לְגוּפָא.
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 And this flux
 like soul to body
 is the body's life.
 </div></td></tr>
     
     
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" style="text-align: right;"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he" style="text-align: right;">
 וּבָךְ
 לֵית
 דִּמְיוֹן וְלֵית
@@ -336,7 +336,7 @@ is the body's life.
 וְכוֹכְבַיָּא וּמַזָּלֵי,
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 In You
 There is nothing
 like image
@@ -352,7 +352,7 @@ Planets, Stars.
 </div></td></tr>
     
     
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" style="text-align: right;"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he" style="text-align: right;">
 וּבְאַרְעָא
 אִילָנִין וּדְֹשָאִין
 וְגִנְתָא דְעֵֽדֶן
@@ -361,7 +361,7 @@ Planets, Stars.
 וּבְנֵי נָשָׁא,
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 And on Earth,
 grass and trees
 a Garden of Eden
@@ -371,7 +371,7 @@ and Man.
 </div></td></tr>
     
     
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" style="text-align: right;"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he" style="text-align: right;">
 לְאִשְׁתְּמוֹדְעָא
 בְּהוֹן עִלָּאִין,
 וְאֵיךְ יִתְנַהֲגוּן
@@ -383,7 +383,7 @@ and Man.
 בָּךְ כְּלָל.
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 All this so that what is above
 may become known
 so that we may have models
@@ -395,7 +395,7 @@ You at all.
 </div></td></tr>
     
     
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" style="text-align: right;"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he" style="text-align: right;">
 וּבַר מִנָּךְ
 לֵית יִחוּדָא
 בְּעִלָּאֵי
@@ -405,7 +405,7 @@ You at all.
 אָדוֹן עַל כֹּֽלָּא.
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 Outside of You
 there is no One (whole—all—complete)
 among those above
@@ -416,14 +416,14 @@ and the Master of All.
 </div></td></tr>
     
     
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" style="text-align: right;"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he" style="text-align: right;">
 וְכָל סְפִירִין, כָּל חַד
 אִית לָה שֵׁם יְדִֽיעָא,
 וּבְהוֹן
 אִתְקְרִֽיאוּ מַלְאָכַיָּא.
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 Each S'firah,
 has a known Name
 by these Names
@@ -436,7 +436,7 @@ by its own function.)
 </div></td></tr>
     
     
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" style="text-align: right;"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he" style="text-align: right;">
 וְאַנְתְּ לֵית לָךְ שֵׁם יְדִֽיעָא,
 דְּאַנְתְּ הוּא
 מְמַלֵּא כָּל שְׁמָהָן.
@@ -447,7 +447,7 @@ by its own function.)
 כְּגוּפָא בְּלָא נִשְׁמָתָא.
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 You have no known Name
 because all the Names
 are filled by You.
@@ -459,7 +459,7 @@ as bodies bereft of soul.
 </div></td></tr>
     
     
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" style="text-align: right;"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he" style="text-align: right;">
 אַנְתְּ חַכִּים,
 וְלָא בְּחָכְמָה יְדִיעָא.
 אַנְתְּ הוּא מֵבִין,
@@ -467,7 +467,7 @@ as bodies bereft of soul.
 לֵית לָךְ אֲתַר יְדִיעָא.
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 You are wise
 yet not in wisdom known
 You are understanding
@@ -477,7 +477,7 @@ In You there is no place for knowledge
 </div></td></tr>
     
     
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" style="text-align: right;"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he" style="text-align: right;">
 אֶלָּא לְאִשְׁתְּמוֹדְעָא
 תּוּקְפָךְ וְחֵילָךְ לִבְנֵי נְשָׁא.
 וּלְאַחֲזָאָה לוֹן
@@ -489,7 +489,7 @@ In You there is no place for knowledge
 דִּבְנֵי נָשָׁא:
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 But Your power and strength
 You make knowable to Man
 as You show to him
@@ -502,27 +502,27 @@ of the sons of Man.
 </div></td></tr>
     
     
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" style="text-align: right;"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he" style="text-align: right;">
 דִּין אִיהוּ גְבוּרָה.
 מִשְׁפָּט עַמּוּדָא דְאֶמְצָעִיתָא.
 צֶֽדֶק מַלְכוּתָא קַדִּישָׁא.
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 Law is Gevurah
 Justice—the middle column
 Righteousness—the Holy Majesty
 </div></td></tr>
     
     
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" style="text-align: right;"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he" style="text-align: right;">
 מֹֽאזְנֵי צֶֽדֶק
 תְּרֵין סַמְכֵי קְשׁוֹט.
 הִין צֶֽדֶק
 אוֹת בְּרִית קֹֽדֶשׁ.
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 the just scales
 two true supports
 the righteous HIN (liquid measure) —
@@ -530,7 +530,7 @@ is the holy Covenant.
 </div></td></tr>
     
     
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" style="text-align: right;"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he" style="text-align: right;">
 כֹּֽלָּא לְאַחֲזָאָה
 אֵיךְ מִתְנַהֵג עָלְמָא.
 אֲבָל לָא דְּאִית
@@ -542,7 +542,7 @@ is the holy Covenant.
 וְלָא מִכָּל מִדּוֹת אִלֵּין כְּלָל.
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 All this portrays
 how the world is conducted
 but not that there is
@@ -555,7 +555,7 @@ or any other attribute at all.
 </div></td></tr>
     
     
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" style="text-align: right;"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he" style="text-align: right;">
 &nbsp;
 בָּרוּךְ
 יְיָ
@@ -565,7 +565,7 @@ or any other attribute at all.
 אָמֵן וְאָמֵן.
 </span></div></td>
 
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 Be drawn down to us
 —Blessed channeled
 YHVH

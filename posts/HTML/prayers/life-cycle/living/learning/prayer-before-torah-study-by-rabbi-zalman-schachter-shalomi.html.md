@@ -11,12 +11,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;"><a href="/contribute/upload/">Contribute a translation</a></th><th style="text-align: left;">Translation (English)</th></tr></thead>
 </tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 My Lord Creator of all,
 Master of all worlds,
 Supreme, compassionate and forgiving,
@@ -25,18 +25,18 @@ Thank You for allowing me to learn from it
 And to move toward serving You.
 Thank You for revealing some of the
 Mysteries of Your Way.[foot]Cf. the "Prayer Before Studying Kabbalah" by Rav Yitzḥak Luria (trans. Aharon Varady):
-<span class="hebrew">רִבּוֺן הָעוֺלָמִים וַאֲדוֺנֵי הָאֲדוֺנִים, אַב הָרָחֲמִים וְהָסְּלִיחוֺת, מוֺדִים אֲנַחְנוּ לְפָנֶיךָ ה׳ אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֹתֵינוּ,  בְּקִידָּה וּבְהִשְׁתַּחֲוָיָה, שֶׁקֵּרַבְתָּנוּ לְתוֺרָתֶךָ וְלַעֲבוֺדָתֶךָ עֲבוֺדַת הַקֹדֶשׁ, וְנָתַתָּ לָנוּ חֵלֶק בְּסוֺדוֺת תּוֺרָתֶךָ הַקְּדוֺשָׁה.‏ </span> ("Master of the worlds and Lord of Lords, Father of Compassion and Forgiveness, we give thanks before you [haShem] Elohainu, Elohai of our ancestors, kneeling and bowing, for drawing us close to your Torah and to your service [in] the holy mission, and for granting us a portion in the hidden insights of your holy Torah.")[/foot]&nbsp;
+<span class="hebrew" lang="he">רִבּוֺן הָעוֺלָמִים וַאֲדוֺנֵי הָאֲדוֺנִים, אַב הָרָחֲמִים וְהָסְּלִיחוֺת, מוֺדִים אֲנַחְנוּ לְפָנֶיךָ ה׳ אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֹתֵינוּ,  בְּקִידָּה וּבְהִשְׁתַּחֲוָיָה, שֶׁקֵּרַבְתָּנוּ לְתוֺרָתֶךָ וְלַעֲבוֺדָתֶךָ עֲבוֺדַת הַקֹדֶשׁ, וְנָתַתָּ לָנוּ חֵלֶק בְּסוֺדוֺת תּוֺרָתֶךָ הַקְּדוֺשָׁה.‏ </span> ("Master of the worlds and Lord of Lords, Father of Compassion and Forgiveness, we give thanks before you [haShem] Elohainu, Elohai of our ancestors, kneeling and bowing, for drawing us close to your Torah and to your service [in] the holy mission, and for granting us a portion in the hidden insights of your holy Torah.")[/foot]&nbsp;
 I'm amazed this is truly happening to me.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Please forgive my foolishness and unkindness,
 The sins of my past.
 Sincerely I pledge to live more uprightly
@@ -50,29 +50,29 @@ Reveal Your Torah, I pray.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 I pray too that this study will bring You joy.
 It is the incense I offer in Your Holy Temple.
 Bathe this my soul, Your Soul, in the light
-Of the Source of all.[foot]Cf. ibid: <span class="hebrew">וְיִהְיֶה לִמּוּדֵינוּ זֶה נַחַת רוּחַ לִפְנֵי כִסֵּא כְבוֺדֶךָ כְּרֵיחַ נִיחוֺחַ,‏</span> ("and let our study be pleasing before your Resplendent Cathedra as the redolence of honeyed incense,")[/foot]&nbsp;
+Of the Source of all.[foot]Cf. ibid: <span class="hebrew" lang="he">וְיִהְיֶה לִמּוּדֵינוּ זֶה נַחַת רוּחַ לִפְנֵי כִסֵּא כְבוֺדֶךָ כְּרֵיחַ נִיחוֺחַ,‏</span> ("and let our study be pleasing before your Resplendent Cathedra as the redolence of honeyed incense,")[/foot]&nbsp;
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Lord, please remember, with me now,
 the kindness and honesty of my ancestors
-who served You before.[foot]Cf. ibid: <span class="hebrew"> וּזְכוּתָם וּזְכוּת אֲבוֹתָם וּזְכוּת תּוֺרָתָם וּתְמִימוּתָם וּקְדוּשָתָם יַעֲמוֺד לָנוּ לְבַל נִכָּשֵׁל בִּדְבָרִים אֵלוּ,‏</span> ("May their merit, and the merit of their ancestors, and the merit of their Torah, of their perfection, and of their sanctity support us so that we should not stumble in our study.") [/foot]&nbsp;
+who served You before.[foot]Cf. ibid: <span class="hebrew" lang="he"> וּזְכוּתָם וּזְכוּת אֲבוֹתָם וּזְכוּת תּוֺרָתָם וּתְמִימוּתָם וּקְדוּשָתָם יַעֲמוֺד לָנוּ לְבַל נִכָּשֵׁל בִּדְבָרִים אֵלוּ,‏</span> ("May their merit, and the merit of their ancestors, and the merit of their Torah, of their perfection, and of their sanctity support us so that we should not stumble in our study.") [/foot]&nbsp;
 Remember Your promise to care
 for the children of the righteous
 to the thousandth generation.
@@ -83,19 +83,19 @@ the future growth of Your people.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Let Your radiance be recognized
 today, now, in me and through me,
 that I may use the insights and energy
 of these, Your Holy Teachings,
 for the good of all living creatures
 Everywhere, and for the furtherance
-of Your Plan of the Continuing Creation.[foot]Cf. ibid: <span class="hebrew">וְתַאֲצִיל עֲלֵינוּ אוֺר מְקוֺר נִשְׁמָתֵנוּ בְּכָל בְּחִינָתֵנוּ, וְשֶׁיִּתְנוֺצְצוּ נִיצוֺצוֺת עֲבָדֶיךָ הַקְּדוֺשִׁים אֲשֶׁר עַל יָדָם גִּלִּיתָ דְבָרֶיךָ אֵלֶה בָּעוֺלָם.</span> ("and emanate upon us light from the source of our souls to [illuminate] all facets of our inner being, and let the nitzotzot (primordial lights) [contained within] your holy servants, through whom You have revealed your words in this Age, shine forth!")[/foot]&nbsp;
+of Your Plan of the Continuing Creation.[foot]Cf. ibid: <span class="hebrew" lang="he">וְתַאֲצִיל עֲלֵינוּ אוֺר מְקוֺר נִשְׁמָתֵנוּ בְּכָל בְּחִינָתֵנוּ, וְשֶׁיִּתְנוֺצְצוּ נִיצוֺצוֺת עֲבָדֶיךָ הַקְּדוֺשִׁים אֲשֶׁר עַל יָדָם גִּלִּיתָ דְבָרֶיךָ אֵלֶה בָּעוֺלָם.</span> ("and emanate upon us light from the source of our souls to [illuminate] all facets of our inner being, and let the nitzotzot (primordial lights) [contained within] your holy servants, through whom You have revealed your words in this Age, shine forth!")[/foot]&nbsp;
 Let no one anywhere be hurt by this study.
 Guard my soul that it stays on the straight Path
 back to Your Home.
@@ -103,7 +103,7 @@ back to Your Home.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 כְּמַאֲמַר 
 נְעִים זְמִירוֺת יִשְׂרָאֵל: 
 "גַּל־עֵינַ֥י 
@@ -111,7 +111,7 @@ back to Your Home.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 With King David
 The joyful singer of Yisra'el
 I pray: "Open my eyes
@@ -120,7 +120,7 @@ and let me see the Wonders of Your Torah." <span class="citation">(Psalms 119:18
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
  יִֽהְי֥וּ לְרָצ֨וֹן ׀ אִמְרֵי־פִ֡י 
  וְהֶגְי֣וֹן לִבִּ֣י 
  לְפָנֶ֑יךָ יְ֝הוָ֗ה 
@@ -128,7 +128,7 @@ and let me see the Wonders of Your Torah." <span class="citation">(Psalms 119:18
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May the words of my mouth
 and the meditations of my heart
 find favor before You, my God,

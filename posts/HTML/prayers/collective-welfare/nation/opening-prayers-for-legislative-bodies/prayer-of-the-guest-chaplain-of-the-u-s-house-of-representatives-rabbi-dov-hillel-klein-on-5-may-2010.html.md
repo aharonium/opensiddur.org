@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size:1.2em;">
+<div class="english" lang="en" style="font-size:1.2em;">
 Guest Chaplain: Rabbi Dov Hillel Klein, Tannenbaum Chabad House, Northwestern Jewish Center, Chicago, IL
 Sponsor: Rep. Janice Schakowsky, (D-IL)
 Date of Prayer: 05/05/2010
@@ -35,66 +35,66 @@ For all that he has done for our community, I am honored to welcome Rabbi Klein 
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <h3>Opening Prayer Given by the Guest Chaplain:</h3>
 </div></td></tr>
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 In the Jewish tradition, one begins an invocation with words of inspiration. I have received inspiration from many individuals, but the person I am thinking of today is America's number one dad, Bill Cosby.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Several years ago, Bill Cosby spoke at Northwestern University's commencement. He said he was the first person in his family to attend the university. But he came to realize that just going to college does not necessarily make you all that smart, and just by going to college surely does not mean you have all the answers.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 He came home after his first day of college and his grandmother asked, "Billy, what did you study?" Cosby replied that in his philosophy class they debated whether or not a half a cup of water was half empty or half full. His grandmother, who did not have a college education or even a high school diploma, responded immediately, "That's so simple. If you are drinking, the glass is half empty, but if you are pouring, the glass is half full."
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 I thought to myself, if you are drinking means that everything is for me; my entire focus is just on myself, and because of my arrogance, my selfishness and my self-centeredness, I am half empty. I wind up keeping everyone else out. But if I am pouring, pouring for others, sharing and giving to others, then I am half full, because I am letting others into my life.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 G–d 
 please continue to bless us 
 so we are able to pour and let others into our lives.
@@ -102,12 +102,12 @@ so we are able to pour and let others into our lives.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 We thank G–d today 
 for enabling us to serve this great Country 
 and being able to make a difference 
@@ -120,12 +120,12 @@ and people throughout the world.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 We ask G–d to continue to give us 
 the insight, 
 courage, 
@@ -135,12 +135,12 @@ to serve the people of the United States.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 G–d 
 please bless all the members of Congress and their families, 
 and most of all, 
@@ -149,25 +149,25 @@ G–d Bless America.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 G–d who makes peace in the heavens and on Earth, 
 let us indeed have a year of peace.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 אָמֵן׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 and let us all say 
 <em>Amen.</em>
 </div></td></tr>

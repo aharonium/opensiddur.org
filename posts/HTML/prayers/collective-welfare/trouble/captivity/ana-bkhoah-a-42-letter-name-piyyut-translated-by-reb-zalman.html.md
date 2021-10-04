@@ -11,20 +11,20 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Initials (Hebrew)</th><th style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 &nbsp;
 &nbsp;
 אב״ג ית״ץ
 </span></div></td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָנָּא, 
 בְּכֹֽחַ גְּדֻלַּת יְמִינְךָ, 
 תַּתִּיר צְרוּרָה.
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 Source of Mercy
 With loving strength
 untie our tangles.
@@ -32,20 +32,20 @@ untie our tangles.
 
 
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 &nbsp;
 &nbsp;
 קר״ע שט״ן
 </span></div></td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 קַבֵּל רִנַּת עַמְּךָ, 
 שַׂגְּבֵֽנוּ, טַהֲרֵנוּ, 
 נוֹרָא.
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 Your chanting folk
 raise high, make pure,
 accept our song.
@@ -53,20 +53,20 @@ accept our song.
 
 
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 &nbsp;
 &nbsp;
 נג״ד יכ״ש
 </span></div></td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 נָא גִבּוֹר, 
 דּוֹרְשֵׁי יִחוּדְךָ, 
 כְּבָבַת שָׁמְרֵם.
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 Like Your own eye
 Lord keep us safe,
 Who union seek with You.
@@ -74,20 +74,20 @@ Who union seek with You.
 
 
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 &nbsp;
 &nbsp;
 בט״ר צת״ג
 </span></div></td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרְכֵם, טַהֲרֵם, 
 רַחֲמֵי צִדְקָתְךָ
 תָּמִיד גָּמְלֵם.
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 Cleanse and bless us,
 Infuse us ever
 With loving care.
@@ -95,20 +95,20 @@ With loving care.
 
 
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 &nbsp;
 &nbsp;
 חק״ב טנ״ע
 </span></div></td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 חָסִין קָדוֹשׁ, 
 בְּרוֹב טוּבְךָ
 נַהֵל עֲדָתֶֽךָ.
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 Gracious source
 Oh holy power!
 Do guide your folk.
@@ -116,20 +116,20 @@ Do guide your folk.
 
 
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 &nbsp;
 &nbsp;
 יג״ל פז״ק
 </span></div></td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יָחִיד, גֵּאֶה, 
 לְעַמְּךָ פְּנֵה, 
 זוֹכְרֵי קְדֻשָּׁתֶֽךָ.
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 Sublime and holy One
 Do turn to us,
 Of holy chant.
@@ -137,20 +137,20 @@ Of holy chant.
 
 
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 &nbsp;
 &nbsp;
 שק״ו צי״ת
 </span></div></td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שַׁוְעָתֵֽנוּ קַבֵּל, 
 וּשְׁמַע צַעֲקָתֵֽנוּ, 
 יוֹדֵֽעַ תַּעֲלוּמוֹת.
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 Receive our prayer,
 Do hear our cry,
 Who secrets knows.
@@ -160,14 +160,14 @@ Who secrets knows.
 <tr><td style="vertical-align:top;" width="16%"></td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="instruction">[בלחש]</span> 
 בָּרוּךְ שֵׁם 
 כְּבוֹד מַלְכוּתוֹ 
 לְעוֹלָם וָעֶד׃
  </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 <span class="instruction">[<em>whisper</em>]</span> 
 Through time and space
 Your glory shines.

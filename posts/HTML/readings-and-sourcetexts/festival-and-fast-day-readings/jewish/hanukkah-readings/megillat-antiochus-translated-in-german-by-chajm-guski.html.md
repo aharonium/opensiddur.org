@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <hr />
 
-<div class="english">
+<div class="english" lang="en">
 
 Es war in den Tagen des Antiochus, dem König der Griechen, eines großen und starken Königs, fest in seiner Herrschaft, und alle Könige hörten auf ihn. Er eroberte viele Länder und besiegte starke Könige, verwüstete ihre Paläste, verbrannte sie im Feuer und warf ihre Bewohner gefesselt in den Kerker. Seit den Tagen Alexanders stand kein solcher König auf, an der Küste des großen Meeres. Und er erbaute am Ufer des Meeres eine mächtige Stadt, als Königssitz, und nannte die Stadt Antiochia - nach seinem Namen.
 

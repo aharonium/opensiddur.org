@@ -19,7 +19,7 @@ Scanning this work (making digital images of each page) is the first step in a m
 
 <hr />
 
-<blockquote><div class="english" style="font-size: 1.2em;">
+<blockquote><div class="english" lang="en" style="font-size: 1.2em;">
 <h3>Introduction</h3>
 
 Prayer is the human side of an unending dialogue between God and man. In the wondrous phenomena of nature as in the inspired word of Scripture, God speaks to man. God speaks to man of His love for him, of His purposes in having fashioned life, and of the ultimate goodness of all existence. We who hear God, try to respond. Man’s response to God is prayer.

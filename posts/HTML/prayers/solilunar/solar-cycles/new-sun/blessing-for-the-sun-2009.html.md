@@ -13,11 +13,11 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Contribute a Translation</th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 <h3>I.</h3>
 We come here ready to fulfill the Creator's commandment to give blessing for the Sun's creation and in this year we recognize that the abundance of blessing which Earth receives from the Sun depends on the health[foot]<em>arukhah</em>, a poetic word appearing often in the prophets, also meaning healing.[/foot] of the Skies, which is in human hands for the first time in any generation in all the years of blessing the Sun, from the beginning of the world.</span>
 
@@ -26,11 +26,11 @@ And we know that You promised 'A day comes that burns like an oven'[foot]Malakhi
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 <h3>II.</h3>
 Please God, give us wisdom and knowledge and skillful hands[foot]Psalms 78:72[/foot] to heal, and heal the Skies from our sins. Heal us so we may heal.
 
@@ -39,11 +39,11 @@ Surround us with <em>Shekhinah</em>'s radiance[foot]what the righteous enjoy in 
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 <h3>III.</h3>
 God full of compassion, remember Your covenant with all life, the covenant of the waters of Noah.[foot]the covenant was not made with humans first, but rather with the land and with all the creatures, Genesis 9:9-12[/foot] Turn over the bow in our hands[foot]I had the image of the rainbow in mind. In God's covenant with Noah and all life, the rainbow symbolizes that God's bow is overturned so that the arrows will no longer shoot at the earth. Now we have turned the bow over again, changing the sun's rays into arrows.[/foot] so that it may become a shield over the garden of Life. Make Your <em>Shekhinah</em> dwell with us, spread a Sukkah of compassion and peace over us, over all Life's species.[foot]a refrain found many places, but especially in the Sefardi liturgy for <em>Ushpizin</em>, where it is echoed several times.[/foot]
 
@@ -52,11 +52,11 @@ As an eagle arouses its nest,[foot]Deuteronomy 32:11[/foot] arouse the flow of L
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 <h3>IV.</h3>
 May it be Your will, YHVH our God and God of our ancestors that the majesty and power of the blessings which we bless today, will become lights[foot]<em>lim'orot</em>, the word used for the sun and moon in Genesis 1:16 ("And God made the two great lights"), used in this quote from <em>P'ri Eitz Hadar</em> to imply a restoration of the original light of creation.[/foot] in the wellspring of blessings[foot]another quote from the <em>P'ri Eitz Hadar</em> blessing. The original ends: "of the Righteous One", though this epithet means for Yesod and Tiferet, which in any case stands for the whole Tree of Life.[/foot] of the Tree of Life,[foot]in Kabbalah, the <em>sefirot</em>; in ecology and evolution, the process of unfolding and becoming which makes all living things our relations, a process whose diversity is overwhelming and wondrous.[/foot] and that the bow will appear[foot]<em>v'nir'atah hkeshet</em>, from Genesis 9:14, quoted by <em>P'ri Eitz Hadar</em> as a sign of the restoration of original blessing. (Note however that for much of Kabbalah, the rainbow has the opposite meaning, that God needed to be reminded, <em>k'v'yakhol</em>, not to destroy the Earth.) The grammatical form is past tense with the Biblical <em>vav hahipukh</em>, which makes it future tense.[/foot] a crown of beauty[foot]from the blessing over the moon, who is described mysteriously as "a crown of beauty to the womb-laden, who are destined to renew like her". The rainbow created by the sun stands in the sky opposite the sun like a crown around our own shadow, but the beauty of this crown belongs to the sun.[/foot] to the Sun's orb, and may the whole return now to its original strength,[foot]a quote from <em>P'ri Eitz Hadar</em>, and one of the most deeply ecological sentiments I have ever encountered in any pre-modern text (i.e., before ecology was even a concept).[/foot] joyful and beautified[foot]also from <em>P'ri Eitz Hadar</em>, its referent in the original context is ambiguous, syntactically fitting with the rainbow but grammatically (by gender) with "the whole". Either way, it's a good thing.[/foot] with its colors, so that we and our descendants may merit to live many days on Earth, like the days of the Skies over the Land.[foot]Deuteronomy 11:21, a more concrete translation of "like the days of the Heavens over the Earth".[/foot][foot]two words, <em>adamah</em> and <em>aretz</em>, can both mean "Earth"; both are used within these blessings. While <em>adamah</em> also means "earth" in the sense of soil and ground, <em>aretz</em> can mean "land" in the sense of agriculture or of the nation (i.e., "This land is your land").[/foot]
 Blessed be YHVH forever, <em>amen</em>, <em>amen</em>!

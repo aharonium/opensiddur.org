@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יהוה מָלָךְ 
 יִרְגְּזוּ עַמִּים, 
 ישֵׁב כְּרוּבִים 
@@ -23,7 +23,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 YHVH reigns; 
 let the peoples tremble;
 God is enthroned upon the keruvim; 
@@ -36,7 +36,7 @@ God is Holy.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְעֹז מֶלֶךְ מִשְׁפָּט אָהֵב, 
 אַתָּה כּוֹנַנְתָּ מֵישָׁרִים, 
 מִשְׁפָּט וּצְדָקָה בְּיַעֲקֹב אַתָּה עָשִׂיתָ׃ 
@@ -46,7 +46,7 @@ God is Holy.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 The strength also of the king that loves justice,
 And has established equity.
 You have executed justice and righteousness in Yaaqov.
@@ -57,7 +57,7 @@ God is Holy.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 משֶׁה וְאַהֲרֹן בְּכֹהֲנָיו 
 וּשְׁמוּאֵל בְּקֹרְאֵי שְׁמוֹ, 
 קֹרְאִים אֶל־יהוה 
@@ -71,7 +71,7 @@ God is Holy.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Mosheh and Aharon among God’s priests,
 Shmuel called God’s name, 
 they called YHVH, 
@@ -86,14 +86,14 @@ You took vengeance for their misdeeds.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רוֹמְמוּ יהוה אֱלֹהֵינוּ 
 וְהִשְׁתַּחֲווּ לְהַר קָדְשׁוֹ, 
 כִּי קָדוֹשׁ יהוה אֱלֹהֵינוּ׃ 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Exalt YHVH our <em>elo'ah</em> 
 and worship at God’s holy mountain;
 YHVH our <em>elo'ah</em> is holy.

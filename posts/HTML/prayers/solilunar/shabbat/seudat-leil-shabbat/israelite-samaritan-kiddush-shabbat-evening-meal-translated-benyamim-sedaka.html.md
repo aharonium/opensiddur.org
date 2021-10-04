@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: Israelite Samaritan Kiddush for the Shabbat Evening Meal, translated by Benyamim Sedaka<br />
+Title: Israelite Samaritan Ḳiddush for the Shabbat Evening Meal, translated by Benyamim Sedaka<br />
 Primary contributor: ben.sedaka<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=14599">http://opensiddur.org/?p=14599</a>
 <p />
@@ -10,11 +10,11 @@ For attribution and license, please consult the following URL: <a href="http://o
 <table style="margin-left: auto;margin-right: auto;">
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <h3>Poem To be read on Friday evening, before the Sabbath meal, by all those seated at the table</h3>
 <em>by Abraham ben Marchiv Tsedaka Hassafari, 1852-1928</em>
  
@@ -47,11 +47,11 @@ Because our healing is in Your Hands.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <h3>The Blessing on the Food</h3>
 <em>(Then the eldest one at the dinner table will bless the others)</em>
  

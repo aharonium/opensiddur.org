@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִי שֶׁבֵּרַךְ אֲבוֹתֵֽינוּ 
 אַבְרָהָם יִצְחָק וְיַעֲקֹב 
 הוּא יְבָרֵךְ אֶת .....
@@ -19,16 +19,16 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May the One who blessed our fathers, 
-Avraham, Yitsḥak, and Ya'akov, 
+Avraham, Yitsḥaq, and Ya'aqov, 
 bless ..... 
 on the anniversary of their birthday. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הָאֱלֹהִים הָרוֹעֶה אוֹתוֹ מֵעוֹדוֹ/אוֹתָהּ מֵעוֹדָהּ 
 עַד הַיּוֹם הַזֶּה 
 יִשְׁמְרֵֽהוּ/יִשְׁמְרֶֽהָ
@@ -37,7 +37,7 @@ on the anniversary of their birthday.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May Elohim who enabled them 
 to live to this day 
 continue their mercies 
@@ -47,14 +47,14 @@ of health and happiness.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְיוֹסִיף לוֹ/לָהּ שְׁנוֹת חַיִּים וּבְרָכָה 
 בְּטוֹב וּבִנְעִימוֹת בְּרָב־עֹז וְשָׁלוֹם 
 וְנָֽסוּ יָגוֹן וַאֲנָחָה. 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May Elohim keep them free 
 from all anxieties 
 and bodily ills. 
@@ -62,14 +62,14 @@ and bodily ills.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְחַדֵּֽהוּ/יְחַדֶּֽהָ בְאֽשֶׁר 
 וּבְשִׂמְחַת לֵבָב 
 שֶׁל־כׇּל־אֲהוּבֵי נַפְשׁוֹ/נַפְשָׁהּ 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May Elohim cause them to rejoice 
 in the happiness 
 of all who are dear to them. 
@@ -77,7 +77,7 @@ of all who are dear to them.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וִימַלֵּא 
 כׇּל־מִשְׁאֲלוֹת לִבּוֹ/לִבָּהּ 
 תִּקְווֹתָיו/תִּקְווֹתֶֽיהָ 
@@ -85,7 +85,7 @@ of all who are dear to them.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May Elohim enable them 
 to behold the fulfilment 
 of all their worthy hopes 
@@ -94,18 +94,18 @@ and prayers.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָמֵן׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Amen.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה 
 יְהֹוָה אֱלֹהֵינוּ
 מֶלֶךְ הָעוֹלָם 
@@ -116,7 +116,7 @@ Amen.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Blessed be you
 YHVH our <em>elo'ah</em>
 King of the universe

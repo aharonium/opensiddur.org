@@ -9,7 +9,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 [caption id="attachment_12963" align="aligncenter" width="1024"]<a href="https://opensiddur.org/wp-content/uploads/2016/03/Lars-Ploughmann-Severe-weather-warning-CC-BY-SA.jpg" rel="attachment wp-att-12963"><img class="size-full wp-image-12963" src="https://opensiddur.org/wp-content/uploads/2016/03/Lars-Ploughmann-Severe-weather-warning-CC-BY-SA.jpg" alt="Severe weather warning. A photograph of a mamatus cloud formation in Fort Worth, Texas on 21 Sep 2009 (credit: Lars Ploughmann, license: CC BY-SA)" width="1024" height="683" /></a> <a href="https://www.flickr.com/photos/criminalintent/3943689178">Severe weather warning</a>. A photograph of a mammatus cloud formation in Fort Worth, Texas on 21 Sep 2009 (credit: Lars Ploughmann, license: CC BY-SA)[/caption]
 
-<div class="english">
+<div class="english" lang="en">
 <p style="padding-left: 30px;">“The members of the congregations are reminded and ordered to follow the cantor’s prayers quietly and silently. They must refrain from the illegal and cacophonous shouting which so frequently disturbs peaceful and true devotion.”</p>
 <p style="padding-left: 60px;">~<em>Proclamation concerning the Improvements of the Worship Service in the Synagogues of the Kingdom of Westphalia</em>, Sept 24, 1810</p>
 &nbsp;

@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִזְמוֹר לְדָוִד, 
 הָבוּ לַיהוה בְּנֵי אֵלִים׃ 
 הָבוּ לַיהוה כָּבוֹד וָעֹז׃ 
@@ -20,7 +20,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 A song of David.
 Praise YHVH, all celestial beings, 
 praise YHVH – glory and strength!
@@ -30,7 +30,7 @@ worship YHVH in the beauty of holiness.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 קוֹל יהוה עַל הַמָּיִם, 
 אֵל הַכָּבוֹד הִרְעִים, 
 יהוה עַל מַיִם רַבִּים׃ 
@@ -39,7 +39,7 @@ worship YHVH in the beauty of holiness.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 YHVH’s voice above the waters! 
 The El of Glory thunders!
 &nbsp;
@@ -49,7 +49,7 @@ YHVH’s voice, majestic.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 קוֹל יהוה שֹׁבֵר אֲרָזִים, 
 וַיְשַׁבֵּר יהוה אֶת אַרְזֵי הַלְּבָנוֹן׃ 
 וַיַּרְקִידֵם כְּמוֹ עֵגֶל, 
@@ -57,7 +57,7 @@ YHVH’s voice, majestic.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 YHVH’s voice breaks cedars, 
 YHVH shatters Lebanon’s cedars,
 Lebanon skips like a calf, 
@@ -66,7 +66,7 @@ Syria like a wild young ox.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 קוֹל יהוה חֹצֵב לַהֲבוֹת אֵשׁ׃ 
 קוֹל יהוה יָחִיל מִדְבָּר, 
 יָחִיל יהוה מִדְבַּר קָדֵשׁ׃ 
@@ -75,7 +75,7 @@ Syria like a wild young ox.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 YHVH’s voice sparks fiery flames; 
 YHVH’s voice makes the desert spin; 
 YHVH’s voice shakes the Ḳadesh desert; 
@@ -85,7 +85,7 @@ In God’s temple all cry: “Glory!”
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יהוה לַמַּבּוּל יָשָׁב, 
 וַיֵּשֶׁב יהוה מֶלֶךְ לְעוֹלָם׃ 
 יהוה עֹז לְעַמּוֹ יִתֵּן, 
@@ -93,7 +93,7 @@ In God’s temple all cry: “Glory!”
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 YHVH enthroned above the flood, 
 YHVH will reign forever. 
 YHVH will give strength to His people, 

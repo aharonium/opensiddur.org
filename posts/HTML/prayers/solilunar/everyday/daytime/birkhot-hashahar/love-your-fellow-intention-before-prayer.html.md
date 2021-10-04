@@ -11,41 +11,41 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 <span class="instruction">נכון לומר קודם התפלה (דשחרית):</span>
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <span class="instruction">It is proper to say before morning prayers:</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 הֲרֵינִי מְקַבֵּל עָלַי מִצְוַת עֲשֵׂה שֶׁל וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ.
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 I hereby take upon myself the mitsvah, "Love your neighbor as yourself."[foot]Leviticus 19:18[/foot]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 <span class="instruction">לאחרי התפלה יאמר:</span>
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <span class="instruction">It is proper to say after prayer:</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 אַךְ צַדִּיקִים יוֹדוּ לִשְׁמֶךָ יֵשְׁבוּ יְשָׁרִים אֶת פָּנֶיךָ.
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Indeed, the righteous will extol Your Name; the upright will dwell in Your presence.[foot]Psalms 140:14[/foot]
 </div></td>
 </tr>
@@ -58,7 +58,7 @@ Rav Yitsḥak Luria, circa 16th century, on Leviticus 19:18, recorded in Minhage
 <table style="margin-left: auto;margin-right: auto;">
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="commentary" style="text-align: right;"><span lang="he">
+<div class="commentary" lang="he" style="text-align: right;">
 קודם שהאדם יסדר תפילתו בבית הכנסת… 
 צריך שיקבל עליו מצוָת ואהבת לרעך כמוך 
 ויכוין לאהוב כל אחד מבני ישראל כנפשו. 
@@ -70,7 +70,7 @@ Rav Yitsḥak Luria, circa 16th century, on Leviticus 19:18, recorded in Minhage
 (דרושי השחר א, ע”ב)..
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Before one arranges their prayers in the synagogue... 
 they should take upon themselves the mitsvah to love one's neighbor as one's self, 
 and direct themselves to love all of the children of Yisra'el as if each were one's own soul. 

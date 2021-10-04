@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 In sending forth this volume of hymns for the use of the congregation, I desire to record my deepest thanks to those whose words I have included in this collection. I feel certain that it will be a source of happiness to them to know that their words will be sung by thousands who never sang them before. 
 
 In accordance with the practise in hymnology, I have taken the liberty to alter original texts either in language, for the clarification of thought, or in metre for the sake of melody, when I felt that the change would make the hymn more adapted to the needs of the congregation. I have indicated through two stars wherever hymns have been rewritten or considerably altered by me. 

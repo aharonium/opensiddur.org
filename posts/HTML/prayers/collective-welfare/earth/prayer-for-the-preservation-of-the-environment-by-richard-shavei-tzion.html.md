@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 At this time when mankind is wreaking havoc on our Eco-System, we pray to God to preserve the treasure that is the earth and to grant us the wisdom to make pro-active efforts to protect it for the sake of our future generations and all which dwell upon it.
 </div>
 
@@ -17,7 +17,7 @@ At this time when mankind is wreaking havoc on our Eco-System, we pray to God to
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רִבּוֹנוֹ שֶׁל עוֹלָם, 
 עוֹשֶׂה שָׁלוֹם וּבוֹרֵא אֶת הַכֹּל, <span class="citation">(לפי ישעיה מה:ז)</span>
 בָּרֵךְ אֶת יְצִירֵי כַּפֶּיךָ בְּבִרְכַּת חַיִּים.
@@ -29,7 +29,7 @@ At this time when mankind is wreaking havoc on our Eco-System, we pray to God to
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Sovereign of the universe, 
 who makes peace and creates all,[foot]Cf. Isaiah 7:54.[/foot] 
 sanctify all that Your hand has shaped, with the blessing of life. 
@@ -42,7 +42,7 @@ may find wonder and healing in the fruits of Your labor.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הִפְקַדְתָּ אוֹתָנוּ בְּנֵי הָאָדָם,
 עַל כָּל הָאָרֶץ וּבְרוּאֶיהָ, 
 כַּכָּתוּב: וַיֹּאמֶר אֱלֹהִים, 
@@ -63,7 +63,7 @@ may find wonder and healing in the fruits of Your labor.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 You have conferred upon us humankind, 
 guardianship over the earth and all its beings, 
 as it is written: “And Elohim said, 
@@ -85,7 +85,7 @@ so that we may act together for the sake of a better future for all.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְהִי רָצוֹן מִלְּפָנֶיךָ, 
 יהוה אֱלֹהֵינוּ, 
 שֶׁתִּתֵּן עָלֵינוּ קַשְׁתְךָ, 
@@ -102,7 +102,7 @@ so that we may act together for the sake of a better future for all.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May it be Your will, 
 YHVH our <em>elo'ah</em>, 
 that You cast Your rainbow above us, 

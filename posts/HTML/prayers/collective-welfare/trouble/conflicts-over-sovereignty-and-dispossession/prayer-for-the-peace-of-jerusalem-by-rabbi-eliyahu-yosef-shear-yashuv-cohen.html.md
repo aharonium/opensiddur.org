@@ -12,7 +12,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr>
 <td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָבִינוּ שֶׁבַּשָּׁמַֽיִם
 הַבּוֹחֵר בְּצִיּוֹן וִירוּשָׁלַֽיִם
 אֲשֶׁר אִוִּֽיתָ לְמוֹשַׁב לְךָ 
@@ -23,7 +23,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Our Father in Heaven, 
 who chose Tsiyon and Yerushalayim, 
 which you desired as your dwelling place, 
@@ -35,7 +35,7 @@ and send blessing and prosperity in all their handiwork.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּפְרֹשׂ עָלֶֽיהָ סֻכַּת שְׁלוֹמֶֽךָ,
 וְקַֽיֶּם־בָּהּ מִקְרָא שֶׁכָּתוּב:
 לְמַעַן צִיּוֹן לֹא אֶחֱשֶׁה 
@@ -51,7 +51,7 @@ and send blessing and prosperity in all their handiwork.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Spread over her the Sukkah of your peace, 
 and fulfill with her as it is written: 
 “For the sake of Tsiyon I will not keep silent, 

@@ -11,24 +11,24 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;"><a href="https://opensiddur.org/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 No venerable conductor makes the shape of this piece in the air 
 with finely tuned hands. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 No single consciousness directs, 
 and still, somehow,
 against all odds, 
@@ -37,12 +37,12 @@ a coalescing of harmony.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Each leaf and each stone 
 raises its voice, 
 each dancer and each drop of oil 
@@ -53,12 +53,12 @@ weaves into the current.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 When you turn your hands over to see 
 the candlelight shine off the beds of your nails, 
 it’s a strand in a braid, 
@@ -67,24 +67,24 @@ it’s always been.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 There are a hundred million hands describing this motion before yours. 
 There are a hundred million after.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 How lovely – 
 how senseless – 
 how inevitable – 
@@ -95,12 +95,12 @@ The sun on the water, moving always in the same pattern.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Unguided by anything but itself, 
 it could be anything. 
 It spangles over your nerve endings 
@@ -111,12 +111,12 @@ ever new, becomes itself.  
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Snags of dissonance. 
 Strings twang and snap. 
 Mourning. Feels like death.
@@ -124,12 +124,12 @@ Mourning. Feels like death.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Every other force has a face. 
 A name to howl. 
 Something to beat your fists against. 
@@ -138,12 +138,12 @@ This is just the song. The atmosphere.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Shout. Try. Rail. Drown it out. 
 The ricochet of your own voice. 
 It’ll wait. 
@@ -152,12 +152,12 @@ You’ll tire.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 When you’re ready, 
 surrender. 
 Crack open the resonance chamber of your heart. 
@@ -169,12 +169,12 @@ waiting for you to turn back to it.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Sing because a piece of this lives inside you, 
 and sing because it is beautiful, 
 and sing because a piece of this lives inside everything that touches you, 
@@ -183,12 +183,12 @@ and sing because it is beautiful!
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 O how good is creation, 
 how crunchy are these autumn leaves, 
 how pure is the pain of Nothing Compares 2U, 
@@ -204,12 +204,12 @@ the enfolding sunlight!
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 As creaking hinges add their voice to the music, 
 and as the sound slides smoothly into the place that is made for it, 
 a lyric – 
@@ -219,12 +219,12 @@ yearning towards the inexpressible –
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 I will be closer to harmony next year than I am today.
 </div></td></tr>
 </tbody></table>

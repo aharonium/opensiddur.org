@@ -24,11 +24,11 @@ Though there is much variance in the way this ritual became practiced among diff
 <tbody>
 <tr>
 <td width="46%">
-<div class="liturgy"><span lang="he" >
+<div class="liturgy" lang="he">
 ק֣וּמִי׀ רֹ֣נִּי <font color="brown">בליל</font> <font color="blue">בַלַּ֗יְלָה</font> לְרֹאשׁ֙ אַשְׁמֻר֔וֹת שִׁפְכִ֤י כַמַּ֙יִם֙ לִבֵּ֔ךְ נֹ֖כַח פְּנֵ֣י אֲדֹנָ֑י שְׂאִ֧י אֵלָ֣יו כַּפַּ֗יִךְ עַל־נֶ֙פֶשׁ֙ עֽוֹלָלַ֔יִךְ הָעֲטוּפִ֥ים בְּרָעָ֖ב בְּרֹ֥אשׁ כָּל־חוּצֽוֹת׃ 
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 Arise, cry out in the night,
 At the beginning of the watches;
 Pour out thy heart like water
@@ -51,11 +51,11 @@ They also cited the words of <em>Tehillim</em>:
 <tbody>
 <tr>
 <td width="46%">
-<div class="liturgy"><span lang="he" >
+<div class="liturgy" lang="he">
 ‏חֲצֽוֹת־לַ֗יְלָה אָ֭קוּם לְהוֹד֣וֹת לָ֑ךְ עַ֝֗ל מִשְׁפְּטֵ֥י צִדְקֶֽךָ׃
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 At midnight I will rise up to give thanks to You, for your righteous judgment. (Psalms 119:62)
 </td>
 </tr>
@@ -77,7 +77,7 @@ At the very beginning of his <em>Shulḥan Arukh</em> (Code of Jewish Law), <a h
 <tbody>
 <tr>
 <td width="46%">
-<div class="liturgy"><span lang="he" >
+<div class="liturgy" lang="he">
 א. כארי לעמוד בבוקר לעבודת בוראו, שיהא הוא מעורר השחר.
 ב. המשכים להתחנן לפני בוראו - יכוין לשעות שמשתנות המשמרות, שהן: בשליש הלילה, ולסוף שני שלישי הלילה, ולסוף הלילה, שהתפילה שיתפלל באותם השעות על החורבן ועל הגלות רצויה.
 ג. ראוי לכל ירא שמים שיהא מיצר ודואג על חורבן בית המקדש.

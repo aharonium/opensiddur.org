@@ -19,7 +19,7 @@ Scanning this work is the first step in a more comprehensive project of transcri
 
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 <h3>PREFACE</h3> 
 
 The penitential prayers known by the name of Seliḥoth are essentially based upon biblical poetry and are a continuation of the Psalms. In part, they belong to the age of the Talmud. They are chiefly concerned with the suffering of Israel in the various lands of the dispersion. For about fifteen centuries the liturgical poets such as Rabbi Yehudah Halevi, Ibn Gabirol and Ibn Ezra, continued to enrich the seliḥah literature, the earliest examples of which go back to the first century. Tormented by merciless persecution in the course of many centuries, the authors of these prayer-poems described the misery of their people with the blood of their hearts. 

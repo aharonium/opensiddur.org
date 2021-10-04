@@ -12,11 +12,11 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 We are on the move now
 The burning of our churches will not deter us
 We are on the move now
@@ -31,11 +31,11 @@ We are moving to the land of freedom׃[foot]Speech before the Alabama State Capi
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Now the fact that this new age is emerging
 reveals something basic about the universe.
 It tells us something about the core and heartbeat of the cosmos.
@@ -49,11 +49,11 @@ Montgomery, Alabama, December 1956; in <em>A Testament of Hope</em>, 141.[/foot]
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 I am convinced that the universe
 is under the control of a loving purpose,
 and that in the struggle for righteousness
@@ -63,11 +63,11 @@ Behind the harsh appearances of the world there is a benign power׃[foot]“Pilg
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 I refuse to accept the view
 that mankind is so tragically bound
 to the starless midnight of racism and war
@@ -97,11 +97,11 @@ Testament of Hope</em>, 225-226.[/foot]
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 We’ve got some difficult days ahead.
 But it doesn’t matter with me now.
 Because I’ve been to the mountaintop.
@@ -114,7 +114,7 @@ And He’s allowed me to go up to the mountain.
 And I’ve looked over. And I’ve seen the promised land.
 And I’m happy, tonight.
 I’m not worried about anything. I’m not fearing any man.
-Mine eyes have seen the glory of the coming of the Lord<span class="hebrew">׃</span>[foot]Address at the Bishop Charles Mason Temple in Memphis, Tennessee, April 3, 1968 (Dr.
+Mine eyes have seen the glory of the coming of the Lord<span class="hebrew" lang="he">׃</span>[foot]Address at the Bishop Charles Mason Temple in Memphis, Tennessee, April 3, 1968 (Dr.
 King's last sermon); in <em>A Testament of Hope</em>, 226.[/foot]
 </div>
 </td></tr></tbody></table>

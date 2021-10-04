@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יָהּ, אָנָה אֶמְצָאֶךָּ?
 מְקוֹמְךָ נַעֲלָה וְנֶעְלָם!
 וְאָנָה לֹא אֶמְצָאֶךָּ?
@@ -19,7 +19,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Yah, where shall I find you?
 High and hidden is your place;
 And where shall I not find you?
@@ -28,7 +28,7 @@ The world is full of your <em>kavod</em>.[foot]cf. Proverbs 7:15. A short prayer
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַנִּמְצָא בַקְּרָבִים
 אַפְסֵי אֶרֶץ הֵקִים,
 הַמִּשְׂגָּב לַקְּרוֹבִים,
@@ -36,7 +36,7 @@ The world is full of your <em>kavod</em>.[foot]cf. Proverbs 7:15. A short prayer
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Found in the innermost being,
 He established the ends of the earth:
 Refuge for the near,
@@ -45,7 +45,7 @@ Safe Haven for those far off.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אַתָּה יוֹשֵׁב כְּרוּבִים,
 אַתָּה שׁוֹכֵן שְׁחָקִים.
 תִּתְהַלֵּל בִּצְבָאֲךָ –
@@ -53,7 +53,7 @@ Safe Haven for those far off.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 You dwell amid the Keruvim,
 You abide in the clouds;
 You are praised by your angelic legion 
@@ -62,7 +62,7 @@ Yet are raised above their praise.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 גַּלְגַּל לֹא־יִשָּׂאֲךָ
 אַף כִּי חַדְרֵי אוּלָם!
 וּבְהִנָּשְׂאֲךָ עֲלֵיהֶם
@@ -70,7 +70,7 @@ Yet are raised above their praise.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 The whirling worlds cannot contain you; 
 How then the chambers of a temple?
 And though you be uplifted over them 
@@ -79,7 +79,7 @@ Upon a throne high and exalted,
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אַתָּה קָרוֹב אֲלֵיהֶם
 מִרוּחָם וּמִבְּשָׂרָם,
 פִּיהֶם יָעִיד בָּהֶם,
@@ -87,7 +87,7 @@ Upon a throne high and exalted,
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Yet are you near to them,
 Of their very spirit and their flesh.
 Their own mouth testifies for them 
@@ -96,7 +96,7 @@ That you alone are their Maker.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִי זֶה לֹא יִרָאֲךָ –
 וְעַל מַלְכוּתְךָ עֻלָּם?
 אוֹ מִי לֹא יִקְרָאֲךָ –
@@ -104,7 +104,7 @@ That you alone are their Maker.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Who shall not revere you,
 Since the yoke of your kingdom is their yoke? 
 Or who shall not call to you,
@@ -113,7 +113,7 @@ Since you give them their food?
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 דָּרַשְׁתִּי קִרְבָתְךָ,
 בְּכׇל־לִבִּי קְרָאתִיךָ,
 וּבְצֵאתִי לִקְרָאתְךָ –
@@ -121,7 +121,7 @@ Since you give them their food?
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 I have sought your nearness,
 With all my heart have I called you,
 And going out to meet you 
@@ -130,14 +130,14 @@ I found you coming toward me,
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּבְפִלאֵי גְבוּרָתְךָ
 בַּקֹּדֶשׁ חֲזִיתִיךָ.
 מִי יֹאמַר לֹא רָאֲךָ?
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Even as, in the wonder of your might,
 In the sanctuary I have beheld you.
 Who shall say they have not seen you?—
@@ -145,14 +145,14 @@ Who shall say they have not seen you?—
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הֵן שָׁמַיִם וְחֵילָם
 יַגִּידוּ מוֹרָאֲךָ
 בְּלִי נִשְׁמַע קוֹלָם!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Lo, the Heavens and their constellations 
 Declare reverence of you,
 Though their voice is not heard.[foot]Psalms 19:14.[/foot]
@@ -160,20 +160,20 @@ Though their voice is not heard.[foot]Psalms 19:14.[/foot]
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַאֻמְנָם כִּי יֵשֵׁב
 אֱלֹהִים אֶת־הָאָדָם?
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 How then, in reality, can
 Elohim dwell with humanity!?
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּמַה יַחְשֹׁב כׇּל־חוֹשֵׁב,
 אֲשֶׁר בָּעָפָר יְסוֹדָם –
 וְאַתָּה קָדוֹשׁ יוֹשֵׁב
@@ -181,7 +181,7 @@ Elohim dwell with humanity!?
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 What can they think—every thinking being, 
 Whose foundation is in the dust—
 How you, Holy One, are dwelling 
@@ -190,7 +190,7 @@ Amid <strong>their</strong> praises and <strong>their</strong> <em>kavod</em>!?
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 חַיּוֹת יוֹדוּ פִלְאֲךָ
 הָעוֹמְדוֹת בְּרוּם עוֹלָם,
 עַל רָאשֵׁיהֶם כִּסְאֲךָ –
@@ -198,7 +198,7 @@ Amid <strong>their</strong> praises and <strong>their</strong> <em>kavod</em>!?
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Angels adore your wonder,
 Standing in the everlasting height;
 Over their heads is your throne,

@@ -33,7 +33,7 @@ Voweled Text</a> (source: unknown text via <a href="http://mechon-mamre.org/i/27
 
 <em>A note on the Public Domain.</em> Two dimensional facsimile editions (e.g. archival images) of work that is in the Public Domain are considered to be <a href="http://www.constitution.org/1ll/court/fed/bridgman.html">in the Public Domain in the United States</a> (regardless of any claims to copyright by private or institutional collections). While some collecting institutions such as the Bodleian Library are very clear that they are merely custodians of physical artifacts whose creative content has already entered the Public Domain, others assert copyright claims which confuse the public. We share the following Facsimile Editions and digital transcriptions with a Public Domain declaration, the <a href="http://creativecommons.org/publicdomain/zero/1.0/">Creative Commons Zero license</a>.
 
-<div class="liturgy"><span  lang="he">
+<div class="liturgy" lang="he">
 <h1>סֵדֶר הַתְּפִלָּה</h1>
 
 <h3>[א]</h3> <span class="instruction">נָהֲגוּ הָעָם לִקְרוֹת בְּכָל יוֹם בַּשַּׁחַר, אַחַר שֶׁקּוֹרִין פָּרָשַׁת צַו וּבִרְכַת כּוֹהֲנִים; קוֹרְאִין מִשְׁנָה זוֹ:</span>

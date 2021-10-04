@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 <span class="acrostic">אָ</span>הַבְנוּ, 
 <span class="acrostic">בֵּ</span>רַכְנוּ, 
 <span class="acrostic">גָּ</span>דַלְנוּ, 
@@ -19,7 +19,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 We have loved, <span class="acrostic">&nbsp;</span>
 We have blessed, <span class="acrostic">&nbsp;</span>
 We have grown, <span class="acrostic">&nbsp;</span>
@@ -28,7 +28,7 @@ We have spoken positively. <span class="acrostic">&nbsp;</span>
 </tr>
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 <span class="acrostic">הֶ</span>עֱלִינוּ, 
 <span class="acrostic">וְ</span>חַסְנוּ, 
 <span class="acrostic">זֵ</span>רַזְנוּ, 
@@ -37,7 +37,7 @@ We have spoken positively. <span class="acrostic">&nbsp;</span>
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 We have raised up, <span class="acrostic">&nbsp;</span>
 We have shown compassion, <span class="acrostic">&nbsp;</span>
 We have acted enthusiastically, <span class="acrostic">&nbsp;</span>
@@ -47,7 +47,7 @@ We have cultivated truth. <span class="acrostic">&nbsp;</span>
 </tr>
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 <span class="acrostic">יָ</span>עַצְנוּ טוֹב, 
 <span class="acrostic">כִּ</span>בַּדְנוּ, 
 <span class="acrostic">לָ</span>מַדְנוּ, 
@@ -61,7 +61,7 @@ We have cultivated truth. <span class="acrostic">&nbsp;</span>
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 We have given good advice, <span class="acrostic">&nbsp;</span>
 We have respected, <span class="acrostic">&nbsp;</span>
 We have learned, <span class="acrostic">&nbsp;</span>
@@ -76,7 +76,7 @@ We have longed for the Land [of Israel]. <span class="acrostic">&nbsp;</span>
 </tr>
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 <span class="acrostic">רִ</span>חַמְנוּ,
 <span class="acrostic">שָׁ</span>קַדְנוּ,
 <span class="acrostic">תָּ</span>מַכְנוּ,
@@ -85,7 +85,7 @@ We have longed for the Land [of Israel]. <span class="acrostic">&nbsp;</span>
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 We have been merciful, <span class="acrostic">&nbsp;</span>
 We have given full effort, <span class="acrostic">&nbsp;</span>
 We have supported, <span class="acrostic">&nbsp;</span>

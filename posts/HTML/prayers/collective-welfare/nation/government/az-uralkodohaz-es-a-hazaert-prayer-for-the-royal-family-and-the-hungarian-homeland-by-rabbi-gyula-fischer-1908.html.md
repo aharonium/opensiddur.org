@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: left;">Source (Magyar)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="magyar"><span lang="hu">
+<div class="magyar" lang="hu">
 Atyánk a mennyekben, világnak Ura! 
 Ki fejedelmek és nemzetek sorsát végtelen szeretettel és bölcsességgel intézed és rendezed, 
 légy a mi felséges uralkodó királyunknak, 
@@ -19,7 +19,7 @@ I. Ferencz Józsefnek, óltalma és védelme.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Our Father in Heaven, Lord of the universe! 
 Thee, who arrange and direct the fate of rulers and nations with infinite love and wisdom, 
 be the refuge and protection of our majestic reigning King,
@@ -28,7 +28,7 @@ be the refuge and protection of our majestic reigning King,
 
 
 <tr><td style="vertical-align:top;">
-<div class="magyar"><span lang="hu">
+<div class="magyar" lang="hu">
 Áraszd ki reá áldásod gazdag malasztját, 
 koronázd életét örömmel, békével és boldogsággal. 
 Nyugodjék rajta a Te szellemed, 
@@ -47,7 +47,7 @@ maradjon az ő neve örök emlékezetben, mint az örökké tartó napé.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Flood him with the rich malt of thy blessings, 
 crown his life with happiness, peace and joy. 
 Let thy spirit rest on him, 
@@ -67,7 +67,7 @@ and may his name be eternally remembered as the everlasting sun.
 
 
 <tr><td style="vertical-align:top;">
-<div class="magyar"><span lang="hu">
+<div class="magyar" lang="hu">
 Vedd oltalmadba az ország főméltóságu magas hivatalnokait, 
 valamint az ország nagyjait, képviselőit és hatóságait. 
 Virágoztasd a közügyeket, ipart, művészetet és tudományt, 
@@ -77,7 +77,7 @@ s az erkölcsi élet gyarapodásnak örvendjen.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Take the country’s high ranking officials under your protection, 
 as well as the leaders, the representatives and the authorities of the country. 
 Let the public affairs, the industry, the arts and sciences flourish, 
@@ -88,7 +88,7 @@ and the moral life will enjoy prosperity.
 
 
 <tr><td style="vertical-align:top;">
-<div class="magyar"><span lang="hu">
+<div class="magyar" lang="hu">
 Áldd meg szeretett hazánkat, Magyarországot, 
 adj egyetértést és hüséget a haza minden egyes polgárának szivébe, 
 hogy a kölcsönös szeretet és összetartás legyen alapja az egyesek jólétének, 
@@ -96,7 +96,7 @@ s záloga a haza nagyságának.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Bless our beloved homeland, Hungary, 
 give agreement and fidelity to the hearts of each and every citizen of the homeland 
 so that the basis of the well-being of each one of them will be the mutual love and togetherness
@@ -105,7 +105,7 @@ and the pledge of the homeland’s greatness.
 
 
 <tr><td style="vertical-align:top;">
-<div class="magyar"><span lang="hu">
+<div class="magyar" lang="hu">
 Áldd meg e hazának barátait, 
 s szégyenítsd meg elleneit, 
 melegítsd fel a közönyösöket, 
@@ -114,7 +114,7 @@ hogy készek legyenek érette szenvedni és meghalni.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Bless the friends of this homeland 
 and shame its enemies, 
 warm up the uninterested, 
@@ -124,14 +124,14 @@ so that they will be ready to suffer and die for it.
 
 
 <tr><td style="vertical-align:top;">
-<div class="magyar"><span lang="hu">
+<div class="magyar" lang="hu">
 Áldd meg az anyákat, hogy hasznos, jó fiakat neveljenek a hazának, 
 kik a Te neved után a hazáét mondják ki, 
 azt teljes életökben híven és igazán szeressék.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Bless the mothers to raise useful and good sons for the homeland, 
 who pronounce the homeland’s name after thy name, 
 they should love it faithfully and truly in all their lives. 
@@ -139,7 +139,7 @@ they should love it faithfully and truly in all their lives.
 
 
 <tr><td style="vertical-align:top;">
-<div class="magyar"><span lang="hu">
+<div class="magyar" lang="hu">
 Oltalmazzon a Te isteni hatalmad minket. 
 Legyen ez ország hatalmas és boldog, 
 és a nép a Te választott néped mindörökké. 
@@ -147,7 +147,7 @@ Legyen ez ország hatalmas és boldog,
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May thy Divine power protect us. 
 May this country be mighty and happy, 
 and may the people be thy chosen people forever. 

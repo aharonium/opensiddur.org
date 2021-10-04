@@ -19,7 +19,7 @@ Scanning this work is the first step in a more comprehensive project of transcri
 
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 PREFACE 
 
 This Festival Prayer Book is the first of a series planned by the United Synagogue of America to meet the needs of the Congregations affiliated with it, and of American Congregations in general. It is hoped that the series will eventually provide for all occasions of public worship in the Jewish year. 

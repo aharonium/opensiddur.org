@@ -25,7 +25,7 @@ Scanning this work (making digital images of each page) is the first step in a m
 
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 PREFACE
 
 As indicated by the title-page, the English edition of this Prayer and <a href="https://opensiddur.org/compilations/anthologies/songs-and-prayers-and-meditations-for-divine-services-of-israelites-arranged-by-rabbi-benjamin-szold-and-translated-by-rabbi-marcus-jastrow-1873/">Hymn</a> Book corresponds with the German edition by Rev. Dr. B. Szold both in arrangement and in text, so that either of them may be used in Divine Service while the prayers are read, or the hymns sung, in Hebrew, English or German. 

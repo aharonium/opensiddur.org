@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 If you look at the liturgies of traditional life cycle rituals - brit milah, wedding, funeral - they're remarkable for how little they speak to, or about, the actual person(s) involved. Many of the baby-naming ceremonies created over the past few decades have tried to remedy this, involving multiple blessings for the newborn girl. It struck me, though, that the lack of reference to the "lead character" in the classic ceremonies might actually be the point.
 
 Think of how a b'rakhah works. When a Christian says Grace, it's something like, "Bless this food to our use," or "For what we are to receive make us truly grateful." The prayer points to what's about to be eaten: this food; these gifts. But a traditional b'rakhah is almost blind to the food on the table "Blessed are You...Who brings bread from the earth" - even though without the bread, this statement would be considered a blessing in vain. So: A Jewish blessing takes a phenomenon and, rather than talking about it directly, uses it as an opportunity to talk about the sacred. We may eat the food, but what we see is an example of God's eternal bread-giving nature.
@@ -21,84 +21,84 @@ What I wanted was a baby-naming ceremony that did similar work; that is, that re
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֲנִי הִנֵּה בְרִיתִי אִתָּךְ וְהָיִיתָ לְאַב הֲמוֹן גּוֹיִם׃ וְלֹא־יִקָּרֵא עוֹד אֶת־שִׁמְךָ אַבְרָם וְהָיָה שִׁמְךָ אַבְרָהָם כִּי אַב־הֲמוֹן גּוֹיִם נְתַתִּיךָ׃ וְהִפְרֵתִי אֹתְךָ בִּמְאֹד מְאֹד וּנְתַתִּיךָ לְגוֹיִם וּמְלָכִים מִמְּךָ יֵצֵאוּ׃ וַהֲקִמֹתִי אֶת־בְּרִיתִי בֵּינִי וּבֵינֶךָ וּבֵין זַרְעֲךָ אַחֲרֶיךָ לְדֹרֹתָם לִבְרִית עוֹלָם לִהְיוֹת לְךָ לֵאלֹהִים וּלְזַרְעֲךָ אַחֲרֶיךָ׃ <span class="citation">(בראשית יז:ד-ז)</span>
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 “As for me, here, my covenant is with you, so that you will become the father of a throng of nations. No longer shall your name be called Avram, rather shall your name be Avraham, for I will make you Av hamon goyyim/Father of a Throng of nations! I will cause you to bear fruit exceedingly, I will make nations of you, yes, icings will go out from you! I establish my covenant between me and you and your seed after you, into their generations as a covenant for the ages, to be God to you and to your seed after you.”[foot]Genesis 17:4-7.[/foot]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וַיֹּאמֶר אֱלֹהִים אֶל־אַבְרָהָם שָׂרַי אִשְׁתְּךָ לֹא־תִקְרָא אֶת־שְׁמָהּ שָׂרָי כִּי שָׂרָה שְׁמָהּ׃ וּבֵרַכְתִּי אֹתָהּ וְגַם נָתַתִּי מִמֶּנָּה לְךָ בֵּן וּבֵרַכְתִּיהָ וְהָיְתָה לְגוֹיִם מַלְכֵי עַמִּים מִמֶּנָּה יִהְיוּ׃ <span class="citation">(בראשית יז:טו-טז)</span>
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 …God said to Avraham: As for Sarai your wife – you shall not call her name Sarai, for Sara/Princess is her name! I will bless her, and I will give you a son from her, I will bless her so that she becomes nations, kings of peoples shall come from her!”[foot]Genesis 17:15-16.[/foot]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">The child is wrapped in a tallit.</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שׂוֹשׂ אָשִׂישׂ בַּיְיָ תָּגֵל נַפְשִׁי בֵּאלֹהַי כִּי הִלְבִּישַׁנִי בִּגְדֵי־יֶשַׁע מְעִיל צְדָקָה יְעָטָנִי כֶּחָתָן יְכַהֵן פְּאֵר וְכַכַּלָּה תַּעְדֶּה כֵלֶיהָ׃ כִּי כָאָרֶץ תּוֹצִיא צִמְחָהּ וּכְגַנָּה זֵרוּעֶיהָ תַצְמִיחַ כֵּן אֲדֹנָי ה׳ יַצְמִיחַ צְדָקָה וּתְהִלָּה נֶגֶד כָּל־הַגּוֹיִם׃ <span class="citation">(ישעיהו סא:י-יא)</span>
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 “I greatly rejoice in YHVH, my whole being exults in my <em>elo'ah</em>. For He has clothed me with garments of triumph, wrapped me in a robe of victory, like a bridegroom adorned with a turban, like a bride bedecked with her finery. For as the earth brings forth her growth and a garden makes the seed shoot up, so my Master YHVH will make victory and renown shoot up in the presence of all the nations.”[foot]Isaiah 61:10-11[/foot]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לְמַעַן צִיּוֹן לֹא אֶחֱשֶׁה וּלְמַעַן יְרוּשָׁלִַם לֹא אֶשְׁקוֹט עַד־יֵצֵא כַנֹּגַהּ צִדְקָהּ וִישׁוּעָתָהּ כְּלַפִּיד יִבְעָר׃ וְרָאוּ גוֹיִם צִדְקֵךְ וְכָל־מְלָכִים כְּבוֹדֵךְ <span class="citation">(ישעיהו סב:א-ב חלק)</span>
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 “For the sake of Tsiyon I will not be silent, for the sake of Yerushalayim I will not be still, till her victory emerge resplendent and her triumph like a flaming torch. Nations shall see your victory, and every king your majesty.”[foot]Isaiah 62:1-2 part[/foot]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְקֹרָא לָךְ שֵׁם חָדָשׁ אֲשֶׁר פִּי ה׳ יִקֳּבֶנּוּ׃ <span class="citation">(ישעיהו סב:ב חלק)</span>
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">All:</span> “And you shall be called by a name which YHVH (Adonai) shall bestow.”[foot]Isaiah 62:2 part[/foot]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְהָיִיתְ עֲטֶרֶת תִּפְאֶרֶת בְּיַד־ה׳ וצנוף [וּצְנִיף] מְלוּכָה בְּכַף־אֱלֹהָיִךְ׃ לֹא־יֵאָמֵר לָךְ עוֹד עֲזוּבָה וּלְאַרְצֵךְ לֹא־יֵאָמֵר עוֹד שְׁמָמָה כִּי לָךְ יִקָּרֵא חֶפְצִי־בָהּ וּלְאַרְצֵךְ בְּעוּלָה כִּי־חָפֵץ ה׳ בָּךְ וְאַרְצֵךְ תִּבָּעֵל׃ כִּי־יִבְעַל בָּחוּר בְּתוּלָה יִבְעָלוּךְ בָּנָיִךְ וּמְשׂוֹשׂ חָתָן עַל־כַּלָּה יָשִׂישׂ עָלַיִךְ אֱלֹהָיִךְ׃ <span class="citation">(ישעיהו סב:ג-ה)</span>
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 “You shall be a glorious crown in the hand of YHVH, and a royal diadem in the palm of your God. Nevermore shall you be called Azuvah/Forsaken, nor shall you be called Shemamah/Desolate; but you shall be called Hephzibah/I delight in her, and your land Beulah/Espoused. For YHVH takes delight in you, and your land shall be espoused. As a youth espouses a maiden, your sons shall espouse you; and as a bridegroom rejoices over his bride, so will your <em>elo'ah</em> rejoice over you.”[foot]Isaiah 62:3-5[/foot]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אלהינו ואלהי אבותינו
 קים את הילדה הזאת לאביה ולאמה
 ויקרא שמה בישראל
@@ -106,7 +106,7 @@ What I wanted was a baby-naming ceremony that did similar work; that is, that re
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Our God and God of our ancestors, 
 sustain this child with her father and mother. 
 May her name be known is Israel as
@@ -115,7 +115,7 @@ May her name be known is Israel as
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ישמח האב ביוצא חלציו 
 ותגל אמה בפרי בטנה
 ככתוב: יִשְׂמַח־אָבִיךָ 
@@ -125,7 +125,7 @@ May her name be known is Israel as
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May her father rejoice in his offspring 
 and may mother rejoice in the fruit of her womb. 
 As it is written, “Let your father and mother be glad; 
@@ -136,42 +136,42 @@ Hodu l’Adonai ki tov, ki l’olam chasdo![foot]"Give thanks for YHVH is benefi
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הוֹדוּ לַיְיָ כִּי־טוֹב כִּי לְעוֹלָם חַסְדּוֹ׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">All:</span> Hodu l’Adonai ki tov, ki l’olam chasdo!
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 זאת הקטנה *** גדולה תהיה
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May this tiny one [name] one day be great.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כשם שנכנסה לעם ישראל
 כן תכנס לתורה ולחופה ולמעשים טובים
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">All:</span> As she has entered the community of Israel, 
 so may she enter into a life of Torah, marriage, and good deeds!
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 &nbsp;
 בָּרוּךְ אַתָּה
@@ -183,7 +183,7 @@ so may she enter into a life of Torah, marriage, and good deeds!
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">Parents:</span>
 &nbsp;
 Barukh atah 
@@ -203,7 +203,7 @@ and enabled us to reach this occasion.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְשִׂימֵךְ אֱלֹהִים כְּשָׂרָה רִבְקָה רָחֵל וְלֵאָה
  &nbsp;
 יְבָרְכֵךְ ה׳ וְיִשְׁמְרֵךְ.
@@ -212,7 +212,7 @@ and enabled us to reach this occasion.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May God make you like Sarah, Rivqah, Raḥel and Le'ah.
 &nbsp;
 May YHVH (Adonai) bless you and guard over you
@@ -222,12 +222,12 @@ May YHVH (Adonai) be delighted with you and give you peace.[foot]Cf. Numbers 6:2
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָמֵן!
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">All:</span> <em>Amen</em>!
 </div></td></tr>
 </tbody></table>

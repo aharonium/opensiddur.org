@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 There is a dark side to Purim,  that upside-down, downside-up festival of masks and laughter.
 
 To inoculate us in advance against the break-through of that dark side, the rabbis long ago prescribed that the day before Purim would be the Fast of Esther, drawing us from dawn to dusk into a world of inner contemplation. In a moment, below, you will see an invocation I propose for the Fast of Esther, to strengthen its healing in our day.
@@ -27,23 +27,23 @@ I intend to join in the Fast of Esther this year on March 20, the day before Pur
 <thead><tr><th id="x" style="text-align: right;"><a href="https://opensiddur.org/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <u>The Presence of an Absence</u>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And then appeared Darkness,
 Her Head wrapped in mourning,
 Her tallit all black,
@@ -54,12 +54,12 @@ Nistar b'Nistar:
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 ”When Esther came hidden 
 In the name of one hiding, 
 She cried out to Me
@@ -68,12 +68,12 @@ To emerge from My Mystery.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 “So I came to defend you,
 My people beloved;
 I strengthened your hand
@@ -82,12 +82,12 @@ to beat back your foes
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 But then you betrayed Me.
 For your hand became frenzied,
 You struck down the harmless,
@@ -97,12 +97,12 @@ While they reached out to Me.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 “On the day of rejoicing
 You hollowed My Name.
 In My Own Tree of Life,
@@ -113,12 +113,12 @@ left only a mocking
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 “And I see -- yes, I watch!--
 That in days still to come
 Your deeds will give warrant
@@ -132,12 +132,12 @@ On this day of rejoicing.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 “So My Name I withdraw --
 Yes, My Name will be hidden, 
 Nistar b'Nistar;
@@ -145,12 +145,12 @@ Nistar b'Nistar;
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 “For I will not permit you
 to call out from this Scroll
 My Name on this day.
@@ -158,12 +158,12 @@ My Name on this day.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 “Yet I teach you that Purim,
 Alone of the seasons,
 Will continue beyond
@@ -172,12 +172,12 @@ the time of Messiah.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 “On the day that both families
 of Abraham's offspring
 turn away from their murders,
@@ -188,12 +188,12 @@ take its Place in the Scroll.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 “On that day Purim
 and Yom Ha’KiPurim
 at last will be one.
@@ -201,12 +201,12 @@ at last will be one.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 “On that day, at last,
 A Purim will lead you
 And light up your way
@@ -215,12 +215,12 @@ to the Days of Messiah.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 “On that day all the nations
 will laugh and will dance,
 will turn robes of power
@@ -231,12 +231,12 @@ to a clackety grogger.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 “On that day will My Name
 Take Its Place in the Scroll
 In letters of Light.”
@@ -245,7 +245,7 @@ In letters of Light.”
 
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 Ten notes of <em>Background and Suggestions</em>, for Purim and the Fast of Esther this year: 
 
 1. Spiritually, perhaps the most important “background” is this: The Name of God does not appear anywhere in the Scroll of Esther. It is hidden, and the Hebrew of “hidden” is <em>nistar</em>.  Esther’s own “name,” so close to <em>nistar</em>, echoes that her true name, Hadassah, is hidden in the story.

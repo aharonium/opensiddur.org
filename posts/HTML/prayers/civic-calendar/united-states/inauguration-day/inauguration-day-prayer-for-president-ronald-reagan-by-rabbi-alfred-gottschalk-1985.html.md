@@ -11,12 +11,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;"><a href="/contribute/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 We the people turn to You, O God, in prayer. 
 We have come again to this place which stirs our hearts 
 to reaffirm the highest ideals of our Nation. 
@@ -28,12 +28,12 @@ by the American people.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May You, who are the rock of ages, 
 guide them in protecting 
 the Constitution of our beloved Commonwealth, 
@@ -47,12 +47,12 @@ to "malevolence no hope."[foot]Ibid, but with creative liberty.[/foot]
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 O source of all life, 
 enshrine in their hearts the knowledge 
 that all are created in Your image 
@@ -63,12 +63,12 @@ is sacred.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Inspire our leaders 
 to defeat hunger and hurt, 
 to promote compassion 
@@ -78,12 +78,12 @@ to assure the weak their share of America's promise.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 In humility, 
 we pray that this opportunity for renewal 
 will advance reconciliation in the family of nations, 
@@ -93,12 +93,12 @@ in the farthest reaches of our universe.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May those who follow us, 
 our children and our children's children, 
 bless our President and Vice President, 
@@ -111,24 +111,24 @@ as that in which their future was made secure.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 O God, may You, who makes peace in high places, 
 help us here on Earth to find the way to peace.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Blessed are You, O God. 
 Aleichem Shalom, grantor of peace. <em>Amen</em>.
 </div></td></tr>

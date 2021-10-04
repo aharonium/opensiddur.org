@@ -16,23 +16,23 @@ Date of Prayer: 11/20/2018
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <h3>Opening Prayer Given by the Guest Chaplain:</h3>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Almighty God, 
 we pray, reflect, meditate in different ways, 
 but unite in condemnation when hatred rears its ugly head.
@@ -40,12 +40,12 @@ but unite in condemnation when hatred rears its ugly head.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 On this date in 1945 
 we helped convene a court in Nuremberg, 
 proclaiming some actions so inhuman 
@@ -54,12 +54,12 @@ that they are crimes against humanity itself.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 We condemned the false belief 
 that any humans are less than human: 
 "life unworthy of life."[foot]The phrase "life unworthy of life" (in German: "Lebensunwertes Leben") was a Nazi designation for the segments of the populace which, according to the Nazi regime of the time, had no right to live. (<a href="https://en.wikipedia.org/wiki/Life_unworthy_of_life">Wikipedia</a>)[/foot]
@@ -67,12 +67,12 @@ that any humans are less than human:
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Such thinking leads to slaughter, 
 even here at home: 
 dead children in their churches, 
@@ -90,12 +90,12 @@ because the shooter thought "all Jews should die."[foot]Sheehan, Andy; Schiller,
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 God, 
 we know that words and prayers still matter, 
 when they are linked to action, 
@@ -107,13 +107,13 @@ rights and dreams we must forever honor, cherish, and protect.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 אָמֵן׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And may we say, 
 <em>amen.</em>
 </div></td></tr>

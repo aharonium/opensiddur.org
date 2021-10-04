@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size:1.2em;">
+<div class="english" lang="en" style="font-size:1.2em;">
 Guest Chaplain: Rabbi Gershon Avtzon, Yeshivas Lubavitch Cincinnati, Cincinnati, Ohio 
 Sponsor: Rep. Brad Wenstrup, (R-OH)
 Date of Prayer: 07/25/2019
@@ -29,23 +29,23 @@ I thank the rabbi for his kind prayer and thoughtfulness as we proceed forward a
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <h3>Opening Prayer Given by the Guest Chaplain:</h3>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Almighty God, master of the universe, 
 I invoke Your blessing today 
 on the Members of this honorable institution, 
@@ -58,12 +58,12 @@ as detailed in Genesis.[foot]The Sheva Mitsvot Bnei Noaḥ are first enumerated 
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Almighty God, 
 as a descendant of Ḥassidic Jews 
 who fled the Stalinist regime 
@@ -80,12 +80,12 @@ and we pray for those who still suffer persecution around the world.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 While legislating, by definition, 
 includes differences of opinion and rigorous debate, 
 I pray that we, nevertheless, 
@@ -99,12 +99,12 @@ and justice for all."[foot]<a href="https://en.wikipedia.org/wiki/Pledge_of_Alle
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָמֵן׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <em>Amen</em>.
 </div></td></tr>
 </tbody></table>

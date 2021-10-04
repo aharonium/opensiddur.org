@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size:1.2em;">
+<div class="english" lang="en" style="font-size:1.2em;">
 <blockquote>
 Extension of Remarks of Hon. Thomas J. Lane of Massachusetts in the House of Representatives, Tuesday, April 14, 1959.
 
@@ -23,12 +23,12 @@ The following prayer was offered by Joseph Rudovsky of Lawrence:
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Today is Purim, festival of joy, 
 gladness dedicated to the proposition 
 that the Hamans of all ages—
@@ -44,12 +44,12 @@ consistent with one's faith and belief.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 On Purim we pray to thee, 
 O God, creator of all, 
 to implant in humanity 
@@ -65,12 +65,12 @@ who serve to inculcate these ideals in the people.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 O God of our fathers,
 bless us 
 and shield our leaders with wisdom and fortitude, 
@@ -96,12 +96,12 @@ for all mankind.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Amen.
 </div></td></tr>
 </tbody></table>

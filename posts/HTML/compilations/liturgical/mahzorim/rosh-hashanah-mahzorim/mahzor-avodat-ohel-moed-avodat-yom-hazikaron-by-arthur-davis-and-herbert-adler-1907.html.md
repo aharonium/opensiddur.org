@@ -29,7 +29,7 @@ It was reprinted in the US by the Hebrew Publishing Company and went through man
 
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 PREFACE
 
 The present volume, though it appears after the publication of the two volumes containing the Service for the Day of Atonement, forms the first of the series. The observations which were made in the Prefatory Note to the Evening Service for the Day of Atonement apply to this and the succeeding volumes, and need not be repeated. It is with deep sorrow that the death must be recorded of Mr. Arthur Davis, to whose initiative this work is due, and who bore a large part in the work of translation and who with Mr. Herbert Adler has been responsible for the preparation of the Hebrew text. With unflagging zeal and untiring interest he laboured towards ensuring the accuracy and reliability of the work and he was engaged upon it almost till the moment of his death. He left considerable materials also for the remaining volumes, in connexion chiefly with the text and translation of the Bible passages, a task with which he was peculiarly fitted to deal. 

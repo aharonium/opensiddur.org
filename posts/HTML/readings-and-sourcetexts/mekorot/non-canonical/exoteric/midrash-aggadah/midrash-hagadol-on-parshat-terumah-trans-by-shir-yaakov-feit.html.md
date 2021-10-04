@@ -12,14 +12,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr>
 <td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וַהֲקֵמֹתָ אֶת־הַמִּשְׁכָּן 
 כְּמִשְׁפָּטוֹ 
 אֲשֶׁר הָרְאֵיתָ בָּהָר. <span class="citation">(שמות כו:ל)</span>
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 “And erect the tabernacle 
 according to its plan 
 which you were shown on the mountain.”[foot]Shemot 26:30[/foot]
@@ -27,7 +27,7 @@ which you were shown on the mountain.”[foot]Shemot 26:30[/foot]
 
 
 <tr><td style="vertical-align:top;">
-<div class="commentary"><span lang="he">
+<div class="commentary" lang="he">
 ומה הראהו בהר 
 כשאשר לו וְעָשׂוּ לִי מִקְדָּשׁ
 באותה שעה תוה משה 
@@ -39,7 +39,7 @@ which you were shown on the mountain.”[foot]Shemot 26:30[/foot]
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 And what was Moshe shown on the mountain?
 He was told, “And make me a sanctuary....”[foot]Shemot 25:8[/foot]&nbsp;
 At that moment, Moshe was astonished asking, 
@@ -52,25 +52,25 @@ interpret what you see, and so make the tabernacle.”
 
 
 <tr><td style="vertical-align:top;">
-<div class="commentary"><span lang="he">
+<div class="commentary" lang="he">
 המשכן דומה לעולם ולגופו שלאדם.
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 And this is why the tabernacle resembles the world and the human body.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="commentary"><span lang="he">
+<div class="commentary" lang="he">
 במשכן היו הקרשים קבועין בתוך האדנים
 ובגוף הצלעות קבועות בתוך חחליות
 ובעולם ההרים קבועים בארץ.
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 In the tabernacle, the planks are fixed into the sockets;
 in the body, the ribs are fixed into the vertebrae;
 in the world, the mountains are fixed into the land.
@@ -78,14 +78,14 @@ in the world, the mountains are fixed into the land.
 
 
 <tr><td style="vertical-align:top;">
-<div class="commentary"><span lang="he">
+<div class="commentary" lang="he">
 במשכן הקרשים מצופין זהב
 ובגוף הצלעות מלובשות בשר
 ובעולם ההרים מלובשים עפר.
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 In the tabernacle, the planks are covered in gold;
 in the body, the ribs are clothed in flesh;
 in the world, the mountains are clothed in earth.
@@ -93,14 +93,14 @@ in the world, the mountains are clothed in earth.
 
 
 <tr><td style="vertical-align:top;">
-<div class="commentary"><span lang="he">
+<div class="commentary" lang="he">
 במשכן הבריחים בתוך הקרשים מעמידין אותן
 ובגוף איברים וגידים נמתחין ומעמידין את הגוף
 ובעולם ארבעה יסודות אחוזין זה בזה.
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 In the tabernacle, the bolts in the planks stand them up;
 in the body, the organs and tendons stretch and stand it up;
 in the world, the four elements connect to one another.
@@ -108,7 +108,7 @@ in the world, the four elements connect to one another.
 
 
 <tr><td style="vertical-align:top;">
-<div class="commentary"><span lang="he">
+<div class="commentary" lang="he">
 במשכן יריעות פרושים על הקרשים
 ובגוף בשרו שלאדם מכוסה בעור
 ובעולם השמים מכסין את הארץ
@@ -116,7 +116,7 @@ in the world, the four elements connect to one another.
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 In the tabernacle, tapestries spread out over the planks;
 in the body, a person’s flesh is covered with skin;
 in the world, the heavens cover the earth 
@@ -125,7 +125,7 @@ and four directions [lit. sides] are called tapestries.
 
 
 <tr><td style="vertical-align:top;">
-<div class="commentary"><span lang="he">
+<div class="commentary" lang="he">
 במשכן אש ורוח ומים
 אש במזבח
 מים בכיור
@@ -133,7 +133,7 @@ and four directions [lit. sides] are called tapestries.
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 In the tabernacle, fire, air, and water:
 fire on the altar,
 water in the laver,
@@ -142,7 +142,7 @@ air [representing] the Shekhina [dwelling] there;
 
 
 <tr><td style="vertical-align:top;">
-<div class="commentary"><span lang="he">
+<div class="commentary" lang="he">
 ובגוף
 ראשו שלאדם אש
 ולבו רוח
@@ -150,7 +150,7 @@ air [representing] the Shekhina [dwelling] there;
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 in the body,
 fire in the head
 air in the heart,
@@ -159,7 +159,7 @@ water in the belly,
 
 
 <tr><td style="vertical-align:top;">
-<div class="commentary"><span lang="he">
+<div class="commentary" lang="he">
 ובעולם
 תולדות השמים אש
 תולדות אויר רוח
@@ -168,7 +168,7 @@ water in the belly,
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 in the world,
 the heavens produce fire,
 the atmosphere produces air, and
@@ -178,14 +178,14 @@ fire from above, water from below, and air deciding between them.[foot]cf. <a hr
 
 
 <tr><td style="vertical-align:top;">
-<div class="commentary"><span lang="he">
+<div class="commentary" lang="he">
 במשכן ארון ובו תורה שיש בה
 מאתים ושמונה וארבעים מצות עשה
 ושלש מאות וחמשה וששים מצות לא תעשה
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 In the tabernacle, the ark holds the Torah,
 which contains 248 obligatory commandments and
 365 prohibitive commandments;
@@ -193,7 +193,7 @@ which contains 248 obligatory commandments and
 
 
 <tr><td style="vertical-align:top;">
-<div class="commentary"><span lang="he">
+<div class="commentary" lang="he">
 ובגוף מאתים ושמונה וארבעים איברים
 כנגד מצות עשה
 ושלש מאות חמש ויששים גידים
@@ -201,7 +201,7 @@ which contains 248 obligatory commandments and
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 in the body, 248 organs
 corresponding to the obligatory commandments
 and 365 tendons
@@ -210,14 +210,14 @@ corresponding to the prohibitive commandments
 
 
 <tr><td style="vertical-align:top;">
-<div class="commentary"><span lang="he">
+<div class="commentary" lang="he">
 ובעולם שלש מאות ששים וחמש ימות החמה
 ומאתים ושמונה וארבעים כנגד ירחי לידה
 בין שבעה לתשעה.
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 in the world, 365 solar days,
 and 248 corresponding to the months of pregnancy,
 which are between seven and nine.
@@ -225,7 +225,7 @@ which are between seven and nine.
 
 
 <tr><td style="vertical-align:top;">
-<div class="commentary"><span lang="he">
+<div class="commentary" lang="he">
 במשכן הכרובים פורשין כנפיהן על הארון
 ובגוף הריאה כנפיה פררשין על הלב
 שהלב בית הבינה ובית החכמה
@@ -233,7 +233,7 @@ which are between seven and nine.
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 In the tabernacle, the cherubs spread their wings over the ark;
 in the body, the wings of the lungs spread over the heart,
 which is the place of wisdom and understanding;
@@ -242,7 +242,7 @@ in the world, birds fly over the earth.
 
 
 <tr><td style="vertical-align:top;">
-<div class="commentary"><span lang="he">
+<div class="commentary" lang="he">
 במשכן היה מנורה ובה שבעה נרות
 ובגוף בראשו שלאדם שבעה שערים עמודי חכמה
 ובעולם שבעה כוכבים שהן מנהנין לעולם
@@ -250,7 +250,7 @@ in the world, birds fly over the earth.
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 In the tabernacle there are seven candles in the lamp;
 in the body, there are seven pillars of wisdom;
 in the world, there are seven planets with drive the world:
@@ -259,14 +259,14 @@ Saturn, Jupiter, Mars, the Sun, Venus, Mercury, and the Moon.
 
 
 <tr><td style="vertical-align:top;">
-<div class="commentary"><span lang="he">
+<div class="commentary" lang="he">
 במשכן לחם הפנים נתון על השלחן
 ובגוף הבטן לא ימוש המזון מתוכו
 ובעולם הארץ נותנט מזון לבריות.
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 In the tabernacle, the showbread is placed on the table;
 in the body, food doesn’t depart from within the intestines;
 in the world, the earth gives food to the creatures.
@@ -274,7 +274,7 @@ in the world, the earth gives food to the creatures.
 
 
 <tr><td style="vertical-align:top;">
-<div class="commentary"><span lang="he">
+<div class="commentary" lang="he">
 במשכן היו עליו יריעות תכלת מעשה צורות
 ובגוף עורו שלאדם מזוין בכל מיני צורות
 במצח שני גבינין בזקנו
@@ -284,7 +284,7 @@ in the world, the earth gives food to the creatures.
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 In the tabernacle, there are blue pictures on the tapestries;
 in the body, a person’s skin is adorned in many forms:
 forehead, two eyebrows, facial hair,
@@ -295,7 +295,7 @@ sun, moon and stars at night.
 
 
 <tr><td style="vertical-align:top;">
-<div class="commentary"><span lang="he">
+<div class="commentary" lang="he">
 במשכן היו עליו יריעות עזים מכסין אותו
 ובגוף שער מלובש על העור ומזיינו
 ובעולם העשבים והאילנות נצמחים בהרים
@@ -303,7 +303,7 @@ sun, moon and stars at night.
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 In the tabernacle, there are goat skins on the sheets, covering it;
 in the body, hair clothes the skin and adorns it;
 in the world, grasses and trees grow on the mountains, in the valleys, and
@@ -312,7 +312,7 @@ in the wild, adorning the world.
 
 
 <tr><td style="vertical-align:top;">
-<div class="commentary"><span lang="he">
+<div class="commentary" lang="he">
 במשכן שכינת הקב״ה והיתה מאירה
 כאור שבעתים
 ובגוף רוח ונשמה והיא מלך על הגוף
@@ -321,7 +321,7 @@ in the wild, adorning the world.
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 In the tabernacle, the presence of the blessed Holy One shines
 like the light of seventy [suns],
 in the body, the spirit and soul guide the body;
@@ -331,7 +331,7 @@ is hidden for the righteous in the future.
 
 
 <tr><td style="vertical-align:top;">
-<div class="commentary"><span lang="he">
+<div class="commentary" lang="he">
 במשכן הפרכת מבדלת
 בין הקדש לקדש הקדשים
 ובגוף סרעפת מבדלת
@@ -341,7 +341,7 @@ is hidden for the righteous in the future.
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 In the tabernacle, the curtain divides
 between the Holy and the Holy of Holies;
 in the body, the diaphragm divides
@@ -352,7 +352,7 @@ between below and above.
 
 
 <tr><td style="vertical-align:top;">
-<div class="commentary"><span lang="he">
+<div class="commentary" lang="he">
 במשכן היו ארבעה כסויים יריעת
 תכלת יריעת עזים ערת
 אילם מאדמים ערת תחשים
@@ -362,7 +362,7 @@ between below and above.
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 In the tabernacle, there are four coverings:
 blue sheets, goatskins,
 red ram skins, seal skins;
@@ -373,7 +373,7 @@ in the world, four corners: east, west, north, and south.
 
 
 <tr><td style="vertical-align:top;">
-<div class="commentary"><span lang="he">
+<div class="commentary" lang="he">
 במשכן היו בו ששה דברים
 ארון שלחן מנורה ומזבח הזהב
 וכיור ומזבח העולה
@@ -383,7 +383,7 @@ in the world, four corners: east, west, north, and south.
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 In the tabernacle, there were six things:
 ark, table, lamp, golden altar,
 laver, and elevation offering altar;
@@ -394,7 +394,7 @@ in the world: up, down, east, west, north, and south.
 
 
 <tr><td style="vertical-align:top;">
-<div class="commentary"><span lang="he">
+<div class="commentary" lang="he">
 במשכן היה הקול יוצא מבין שני הכרובים
 ובגוף הקול יוצא מבין כנפי הריאה
 ובעולם הרוח בראה הקב״ה
@@ -403,7 +403,7 @@ in the world: up, down, east, west, north, and south.
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 In the tabernacle, the voice came from between the two cherubs;
 in the body, the voice comes from between the wings of the lungs;
 in the world, the blessed Holy One created the spirit
@@ -413,14 +413,14 @@ and from which comes wind to the world.
 
 
 <tr><td style="vertical-align:top;">
-<div class="commentary"><span lang="he">
+<div class="commentary" lang="he">
 במשכן יתידות
 ובגוף אצבעותיו שלאדם משופין כיתידות
 ובעולם צַדִּיק יְסוֹד עוֹלָם.
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 In the tabernacle, nails;
 in the body, the fingers of a person are filed like nails;
 in the world, “the Tsaddik (Righteous One) is the foundation of the world.”[foot]Proverbs 10:25[/foot]
@@ -428,7 +428,7 @@ in the world, “the Tsaddik (Righteous One) is the foundation of the world.”[
 
 
 <tr><td style="vertical-align:top;">
-<div class="commentary"><span lang="he">
+<div class="commentary" lang="he">
 ועתיד הקב״ה לחדש משכן וגוף ועולם
 משכן מנין דכתיב
 ונתתי מִשְׁכָּנִי עֲלֵיהֶם
@@ -440,7 +440,7 @@ in the world, “the Tsaddik (Righteous One) is the foundation of the world.”[
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 The blessed Holy One will renew the tabernacle, body, and world.
 How do we know the tabernacle will be renewed? It is written,
 “I will give my tabernacle to them.”[foot]cf. Ezekiel 37:27[/foot]&nbsp;

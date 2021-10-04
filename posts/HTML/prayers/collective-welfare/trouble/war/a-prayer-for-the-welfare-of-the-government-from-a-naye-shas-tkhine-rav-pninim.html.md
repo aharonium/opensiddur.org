@@ -11,29 +11,29 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Yiddish)</th><th style="text-align: left;"><a href="/contributing/upload/">Contribute a translation</a></th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="yiddish"><span lang="he">
+<div class="yiddish" lang="yi">
 א תְּפִילָה פיר שָׁלוֹם הַמְדִינָה
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="yiddish"><span lang="he">
+<div class="yiddish" lang="yi">
 א תְּפִילָה פיר די איצטיגע נוֹרָאִים׳דיגע צײַט.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="yiddish"><span lang="he">
+<div class="yiddish" lang="yi">
 דער רִבּוֹנוֹ שֶׁל עוֹלָם 
 װאָס גיט הילף צו מְלָכִים 
 און גיװעלטיגקײַט צו פּרינצען, 
@@ -45,20 +45,20 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="yiddish"><span lang="he">
+<div class="yiddish" lang="yi">
 דער זאָל בענשען און היטען און העלפען אונזער 
 פּרעזידענט פרענקלין דילײנאָ רוזװעלט
 און װײס פּרעזידענט און ראטהגעבּער 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May he bless, watch over, and help
 President Franklin Delano Roosevelt,
 and the Vice President, and their advisers.
@@ -66,7 +66,7 @@ and the Vice President, and their advisers.
 
 
 <tr><td style="vertical-align:top;">
-<div class="yiddish"><span lang="he">
+<div class="yiddish" lang="yi">
 דער מֶלֶךְ מַלְכֵי הַמְלָכִים 
 זאָל זײ געגעבּן לאנג לעבּען און היטען פון אלע צָרוֹת, 
 און מאכען פאר איהם פאלען אלע זײַנע שׂוֹנְאִים, 
@@ -74,13 +74,13 @@ and the Vice President, and their advisers.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="yiddish"><span lang="he">
+<div class="yiddish" lang="yi">
 דער מֶלֶךְ מַלְכֵי הַמְלָכִים 
 מיט זײַן פיעל רַחְמָנוּת זאָל געבּען אין זײער הארץ 
 און אין הארץ פון אלע זײַנע ראטהגעבּער רַחְמָנוּת, 
@@ -88,13 +88,13 @@ and the Vice President, and their advisers.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="yiddish"><span lang="he">
+<div class="yiddish" lang="yi">
 און מיט אלע אידען אין זײער צײַט, 
 אונד אין אונזער צײַט, 
 זאָל יְהוּדָה געהאָלפען װערען 
@@ -108,7 +108,7 @@ and the Vice President, and their advisers.
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 
 </div></td>
 </tr>

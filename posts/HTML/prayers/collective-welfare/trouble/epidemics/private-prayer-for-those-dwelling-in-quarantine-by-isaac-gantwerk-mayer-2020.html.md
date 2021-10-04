@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 A private prayer for those dwelling in quarantine and are unable to fulfill any mitzvot that require public action. Can be recited as part of the "Shomea Tefilah" section of the amidah, or independently.
 </div>
 
@@ -17,7 +17,7 @@ A private prayer for those dwelling in quarantine and are unable to fulfill any 
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִי שֶׁבֵּרַךְ אֲבוֹתַי אַנְשֵׁי תַּם
 וּפָקַד אִמּוֹתַי יוֹשְׁבוֹת אֹהָלִים
 וָיּוֹרֶה לְעַבְדּוֹ עֵץ רְפוּאַת הַמַּיִם
@@ -34,7 +34,7 @@ A private prayer for those dwelling in quarantine and are unable to fulfill any 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May the One who blessed our forefathers, pure men,
 And remembered our foremothers, dwelling in tents[foot]See Genesis 25:27[/foot],
 And showed God’s servant the tree of healing waters[foot]Referring to Moses. See Exodus 15:25[/foot],
@@ -52,7 +52,7 @@ So as to accept and fulfill the words of doctors and disease experts.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְהוֹי אֱלֹהַי וֵאלֹהֵי אֲבוֹתַי
 כִּֽי־מַר־לִ֤י מְאֹד֙ 
 לְהַפְרִידֵנִי מִמִּצְווֹתֶיךָ הַצִּבּוּרִים
@@ -71,7 +71,7 @@ So as to accept and fulfill the words of doctors and disease experts.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 And oh, my God and God of my ancestors!
 For it is very bitter to me[foot]Ruth 1:13[/foot] 
 to separate myself from Your public commandments,
@@ -91,31 +91,31 @@ fulfil for me and for all the house of Israel
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כְּמוֹ שֶׁכָּתוּב עַל־יַד מֹשֶׁה נְבִיאֲךָ  
 כָּאָמוּר —
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 What was written by Moses Your prophet, 
 as said[foot]Exodus 15:26.[/foot] —
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">Each one of the following four verses is repeated twice in Hebrew and once in the Aramaic Targum.</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וַיֹּ֩אמֶר֩ אִם־שָׁמ֨וֹעַ תִּשְׁמַ֜ע לְק֣וֹל ׀ יְהֹוָ֣ה אֱלֹהֶ֗יךָ
  וְהַיָּשָׁ֤ר בְּעֵינָיו֙ תַּעֲשֶׂ֔ה 
  וְהַֽאֲזַנְתָּ֙ לְמִצְוֺתָ֔יו 
@@ -139,7 +139,7 @@ as said[foot]Exodus 15:26.[/foot] —
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 "And said: If you will listen, 
 listen to the voice of ···· your God, 
 and do what is upright in God’s eyes, 
@@ -150,18 +150,18 @@ for I am ···· who heals you".
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְנֶאֱמַר —
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 And it is said[foot]Numbers 12:13.[/foot] — 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וַיִּצְעַ֣ק מֹשֶׁ֔ה אֶל־יְהֹוָ֖ה לֵאמֹ֑ר
 אֵ֕ל נָ֛א רְפָ֥א נָ֖א לָֽהּ׃
 &nbsp;
@@ -173,25 +173,25 @@ And it is said[foot]Numbers 12:13.[/foot] —
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 "And Moses cried out to ···· and said: 
 God, please, please heal her!"
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְנֶאֱמַר — 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 And it is said[foot]Numbers 17:13.[/foot] — 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וַיַּעֲמֹ֥ד בֵּֽין־הַמֵּתִ֖ים וּבֵ֣ין הַֽחַיִּ֑ים
 וַתֵּעָצַ֖ר הַמַּגֵּפָֽה׃
 &nbsp;
@@ -203,27 +203,27 @@ And it is said[foot]Numbers 17:13.[/foot] —
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 "And [Aaron] stood between the living and the dead, 
 and the plague was restrained."
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּבְמַשְּׂאוֹת יִרְמְיָהוּ נְבִיאֶיךָ
 כָּתוּב לֵאמֹר —
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 And in the burdens of Jeremiah Your prophet 
 it is written, saying[foot]Jeremiah 17:14.[/foot] — 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רְפָאֵ֤נִי יְהֹוָה֙ וְאֵ֣רָפֵ֔א הוֹשִׁיעֵ֖נִי וְאִוָּשֵׁ֑עָה
 כִּ֥י תְהִלָּתִ֖י אָֽתָּה׃
 &nbsp;
@@ -235,216 +235,216 @@ it is written, saying[foot]Jeremiah 17:14.[/foot] —
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 "Heal me, ····, that I be healed, save me that I be saved, 
 for my praise are You."
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּבְסֵפֶר יַלְקוּט זְמִירוֹת לְדָוִד
 כָּתַב עַבְדְּךָ לֵאמֹר  —
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 And in the collection-book of hymns of David, 
 Your servant[foot]Here referring to Moses, not David, for Moses is accredited with Psalmss 90 to 100. See Midrash Tehillim 90:1 and Rashi’s commentary on Bava Batra 15a.[/foot] wrote —
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יֹ֭שֵׁב בְּסֵ֣תֶר עֶלְי֑וֹן
 בְּצֵ֥ל שַׁ֝דַּ֗י יִתְלוֹנָֽן׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 "O one who sits in the shelter of the Highest, 
 in the Almighty’s shadow rests,"
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֹמַ֗ר לַ֭יהֹוָה מַחְסִ֣י וּמְצוּדָתִ֑י
 אֱ֝לֹהַ֗י אֶבְטַח־בּֽוֹ׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 "I say: ····, my refuge and stronghold, 
 my God in whom I trust,"
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כִּ֤י ה֣וּא יַ֭צִּילְךָ מִפַּ֥ח יָק֗וּשׁ
 מִדֶּ֥בֶר הַוּֽוֹת׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 "Will save you from the trapper’s snare, 
 the malevolent plague."
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בְּאֶבְרָת֨וֹ ׀ יָ֣סֶךְ לָ֭ךְ וְתַחַת־כְּנָפָ֣יו תֶּחְסֶ֑ה
 צִנָּ֖ה וְסֹחֵרָ֣ה אֲמִתּֽוֹ׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 "God’s pinions will cover you, and below God’s wings you will refuge, "
 "a shield and buckler is God’s truth."
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לֹֽא־תִ֭ירָא מִפַּ֣חַד לָ֑יְלָה
 מֵ֝חֵ֗ץ יָע֥וּף יוֹמָֽם׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 "You will have no fear of the night panic, 
 of the arrows flying by day,"
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִ֭דֶּבֶר בָּאֹ֣פֶל יַהֲלֹ֑ךְ
 מִ֝קֶּ֗טֶב יָשׁ֥וּד צׇהֳרָֽיִם׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 "of plague going about the gloom, 
 of destruction ravaging at noon."
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יִפֹּ֤ל מִצִּדְּךָ֨ ׀ אֶ֗לֶף וּרְבָבָ֥ה מִימִינֶ֑ךָ
 אֵ֝לֶ֗יךָ לֹ֣א יִגָּֽשׁ׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 "By your left a thousand fall, ten thousand to your right, 
 but you it will not reach."
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רַ֭ק בְּעֵינֶ֣יךָ תַבִּ֑יט
 וְשִׁלֻּמַ֖ת רְשָׁעִ֣ים תִּרְאֶֽה׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 "Yet your eyes will behold, 
 and see the just desserts of the wicked."
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כִּֽי־אַתָּ֣ה יְהֹוָ֣ה מַחְסִ֑י
 עֶ֝לְי֗וֹן שַׂ֣מְתָּ מְעוֹנֶֽךָ׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 "For you set ···· my refuge, 
 the Highest, as your dwelling."
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לֹא־תְאֻנֶּ֣ה אֵלֶ֣יךָ רָעָ֑ה
 וְ֝נֶ֗גַע לֹא־יִקְרַ֥ב בְּאׇהֳלֶֽךָ׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 "Evil will not be let at you, 
 and plague will not draw near your tent."
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כִּ֣י מַ֭לְאָכָיו יְצַוֶּה־לָּ֑ךְ
 לִ֝שְׁמׇרְךָ֗ בְּכׇל־דְּרָכֶֽיךָ׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 "For God commands divine messengers to you, 
 to guard you in all your ways."
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עַל־כַּפַּ֥יִם יִשָּׂא֑וּנְךָ
 פֶּן־תִּגֹּ֖ף בָּאֶ֣בֶן רַגְלֶֽךָ׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 "They will lift you in their hands 
 lest your foot treads on a stone."
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עַל־שַׁ֣חַל וָפֶ֣תֶן תִּדְרֹ֑ךְ
 תִּרְמֹ֖ס כְּפִ֣יר וְתַנִּֽין׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 "You will tread over panther and viper, 
 trample lion and python."
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כִּ֤י בִ֣י חָ֭שַׁק וַאֲפַלְּטֵ֑הוּ
 אֲ֝שַׂגְּבֵ֗הוּ כִּֽי־יָדַ֥ע שְׁמִֽי׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 "Because they long for Me I will save them, 
 I will lift them for they know My name."
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יִקְרָאֵ֨נִי ׀ וְֽאֶעֱנֵ֗הוּ 
 עִמּֽוֹ־אָנֹכִ֥י בְצָרָ֑ה
 אֲ֝חַלְּצֵ֗הוּ וַאֲכַבְּדֵֽהוּ׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 "When they call on me, I will answer, 
 I myself will be with them in distress,
 I will deliver them and make them honored."
@@ -452,18 +452,18 @@ I will deliver them and make them honored."
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">The final verse here is repeated twice in Hebrew and once in the Aramaic Targum.</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֹ֣רֶךְ יָ֭מִים אַשְׂבִּיעֵ֑הוּ 
 וְ֝אַרְאֵ֗הוּ בִּישׁוּעָתִֽי׃
 &nbsp;
@@ -472,14 +472,14 @@ I will deliver them and make them honored."
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 "For length of days I will sate them, 
 and I will show them My rescue."[foot]Psalms 91.[/foot]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כִּי אַתָּה רוֹפֵא כׇל־בָּשָׂר
 וּמַפְלִיא לַעֲשׂוֹת
 וְרוֹפֵא חוֹלֵי
@@ -491,7 +491,7 @@ and I will show them My rescue."[foot]Psalms 91.[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 For You heal all flesh 
 and work wonders,
 And heal the sick 

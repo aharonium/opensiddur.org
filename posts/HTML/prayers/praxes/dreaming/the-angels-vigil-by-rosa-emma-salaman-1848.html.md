@@ -11,34 +11,34 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Contribute a translation</th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <u>The Angels’ Vigil.</u>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 “For He will give His angels charge over thee, to keep thee in all thy ways. They shall bear thee up in their hands, lest thou dash thy foot against a stone.”—Psalm 91:11-12.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Soft! I hear the angels’ tread
 Flit like clouds around her bed,
 See! how noiselessly they glide,
@@ -47,12 +47,12 @@ Resting on air by the slumberer’s side.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Their heavenly forms are bending now
 To gaze on the youthful sleeper’s brow;
 To smile on her dreams which are passing by
@@ -61,12 +61,12 @@ Like stars on the midnight canopy.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Does she know there are angels watching there,
 That they raise her up with celestial care?
 Does she know that God’s protecting power,
@@ -75,12 +75,12 @@ Has given them charge in this dark hour?
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Within their radiant wings enclosing,
 See, the maiden still reposing
 While they bear her up—afar
@@ -89,12 +89,12 @@ In their spiritual car;
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Rising, floating, slowly blending,
 Thro’ the vault of heaven ascending;
 Far from earth, and far from night,
@@ -107,12 +107,12 @@ Those angels who have the charge of sleep;
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 On, on, thro’ regions of light they float,
 Chanting with low, melodious note,
 The wonders of night in celestial hymn,
@@ -123,12 +123,12 @@ With the hymns that the angels of night are singing.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 “Ah, me!” exclaimed the sleeping maid,
 When the heavenly vision began to fade,
 And she woke to earth, as the morning light
@@ -141,12 +141,12 @@ Did He answer the prayer? did He treasure the sigh?
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Yes, yes, methinks I still can see
 Unearthly forms encircling me;
 So pure, so spirit-like, those hands

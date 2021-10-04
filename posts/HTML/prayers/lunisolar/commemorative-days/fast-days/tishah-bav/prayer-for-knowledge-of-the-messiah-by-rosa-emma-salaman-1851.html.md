@@ -11,12 +11,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Oh! Lord God! 
 I come to ask counsel of Thee. 
 Give me, I beseech Thee, 
@@ -25,12 +25,12 @@ knowledge, wisdom, and understanding.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Oh! God of wisdom, 
 let thy power and thy might be seen in me, 
 for the knowledge that I shall have of thy holy word.
@@ -38,12 +38,12 @@ for the knowledge that I shall have of thy holy word.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Great God! Almighty Creator! 
 enlighten my spirit, 
 that I may know and understand thy wise purposes, 
@@ -57,12 +57,12 @@ that I may make thy name a praise and a glory to the whole world.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Oh, Lord God! 
 may every word I read 
 be clear to my mind and soul, 
@@ -71,12 +71,12 @@ and may this clear light shine through me on others.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May this be thy holy will, 
 O Lord God of Israel! 
 Amen.

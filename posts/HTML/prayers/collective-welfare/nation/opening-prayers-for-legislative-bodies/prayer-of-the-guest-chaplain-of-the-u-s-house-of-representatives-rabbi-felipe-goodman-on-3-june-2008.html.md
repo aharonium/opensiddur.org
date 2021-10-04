@@ -9,7 +9,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 &lt;
 
-div class="english" style="font-size:1.2em;">
+div class="english" lang="en" style="font-size:1.2em;">
 Guest Chaplain: Rabbi Felipe Goodman, Temple Beth Sholom, Las Vegas, Nevada
 Sponsor: 
 Date of Prayer: 06/03/2008
@@ -20,22 +20,22 @@ Date of Prayer: 06/03/2008
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <h3>Opening Prayer Given by the Guest Chaplain:</h3>
 </div></td></tr>
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Our God and God of our ancestors, 
 God of Compassion, 
 God of Justice, 
@@ -55,12 +55,12 @@ throughout the world.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Protect the men and women 
 of our Armed Forces 
 who stand in harm’s way 
@@ -74,12 +74,12 @@ to their families and loved ones.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Let us remember where we came from 
 so that we may never forget 
 the destination of our journey 
@@ -90,12 +90,12 @@ that we are all children of immigrants.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Give us the wisdom 
 to understand 
 what the responsibility 
@@ -106,12 +106,12 @@ and injustice really means.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָמֵן׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <em>AMEN</em>.
 </div></td></tr>
 </tbody></table>

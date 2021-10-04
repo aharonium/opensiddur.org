@@ -11,57 +11,57 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: left;">Source (German)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="german"><span lang="de">
+<div class="german" lang="de">
 „Freue dich an deinem Feste.” <span class="citation">(5. B. Mose 16, 14.)</span> 
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
-<span class="liturgy">וְשָׂמַחְתָּ֖ בְּחַגֶּ֑ךָ</span>
+<div class="english" lang="en">
+<span class="liturgy" lang="he">וְשָׂמַחְתָּ֖ בְּחַגֶּ֑ךָ</span>
 And you shall rejoice in your festival. <span class="citation">(Deuteronomy 16:14 part.)</span>
 </span></div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="german"><span lang="de">
+<div class="german" lang="de">
 Mit dem heutigen Tage beschließen wir das Laubhüttenfest und mein Herz erhebt sich zu dir, Allgütiger, um dir zu danken für jede frohe festliche Empfindung, die du mich hast fühlen, für jeden frohen festlichen Genuß, dessen du mich hast theilhaftig werden lassen.
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 With this day we conclude the festival of Sukkot (Tabernacles) and our heart rises up to you, All-Compassionate One, in gratitude for our joyous emotions and for every beautiful festival experience you have allowed us to share. 
 </span></div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="german"><span lang="de">
+<div class="german" lang="de">
 Wir sind in Hütten gesessen, wie du geboten, und haben ungestört und in Frohmuth unsre Festmahle darin eingenommen und mit frommen festlichen Gefühlen beim Freudenbecher, deinen Namen geheiligt und gepriesen. Wir verlassen nun diese Hütten und ziehen ein in unsre festen Wohnungen mit allen ihren Annehmlichkeiten und Bequemlichkeiten. Mögest du auch das Obdach deines Friedens, über uns breiten, mögest du es uns nie vergessen lassen, daß du allein unsres Hauses Stütze und Säule, unseres Lebens Schutz und Schirm bist, daß du es bist, der da segnet Feld und Flur, Tenne und Kelter, daß du unser Erdenleben schmückest mit den Gaben deiner Huld und die Pforten deiner Himmelswohnungen uns aufthust, wenn unsre Leibes- und Lebenshütte hienieden über uns zusammensinkt. 
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 We have sat in our outdoor shelters as you have commanded, and we have eaten our festival meals within them, undisturbed and in good cheer. With pious, celebratory feelings we have sipped from your cup of joy, and so we have praised and sanctified your name. Soon we will leave these booths and move back into our houses amid all the usual comforts of our lives; there may you also spread the canopy of your peace over us.[foot]From the Kriyat Shema al ha-Mita. Cf. Jerusalem Talmud Berakhot 35b:1[/foot] May you never let us forget that you alone are the foundation and pillars of our houses, you alone are the support and umbrella of our lives, you are the one who blesses the fields and the wilderness, the home and the hearth. You adorn our lives on this earth with the gifts of your grace, and when the sukkah of our lives and desires finally collapses, you open the portals of your heavenly home for us.
 </span></div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="german"><span lang="de">
+<div class="german" lang="de">
 Eine Laubhütte wohl ist unser Leben, grüne Hoffnungsblätter bilden das Dach, die Wände überkleidet von Schmuck und Zierde, der Tisch gedeckt mit einladenden lockenden Genüssen. Wohl begehen wir darin heitere Feste, und blicken fröhlich hinaus in die freundliche Natur, aber gar oft trübt sich der Himmel, und mitten in unsern fröhlichen Mahlen, mitten in unsern festlichen Freuden durchdringen uns plötzlich die kalten Schauer des Mißgeschickes, fallen schwere Tropfen bittern Leidens und Weh’s auf uns nieder; durch das heitere frische Laubgewinde unsrer Hoffnungen fährt der rauhe Nord, entblätternd und zerstörend, und an den Wänden und Säulen unseres Glückes rüttelt und schüttelt der Sturm, eine Freudenblume nach der andren fällt entblättert zu unsern Füßen nieder, ein Lebensschmuck nach dem andern geht verloren, tiefes Weh durchzieht unsre Seele und wir glauben uns preisgegeben dem Unbille des Schicksals. Da ist es unser einziger Trost, daß unser ganzes Leben nur ein Hüttenfest ist, das nur wenige Tage dauert. Bald bricht die Erdenhütte über uns zusammen, es fällt unsre irdische Hülle nieder, und unsre Seele kehrt zurück in die unvergänglichen Wohnungen des Himmels; zurück bleiben alle irdischen Freuden, die meist so unbefriedigend sind, die stets noch so Vieles zu hoffen und zu wünschen übrig lassen, zurückbleiben alle Erdennöthen, alle Erdensorgen und Erdenleiden, mit aber nehmen wir all unsre Thaten und Werke, alle Liebeshandlungen, die wir hier geübt, alle Opfer, die wir dem Guten und Edeln gebracht, all die Thränen, die dankbare Herzen uns nachweinen. Sie bilden den Schmuck und den Glanz unsrer himmlischen Wohnungen, der nie verbleicht und nie vergehet. Dort reifen unsre Hoffnungen zur glänzenden Frucht, dort erblühen unsern Verdiensten ihre Kronen, dort verklären sich all unsre Leiden in endlose Freuden.
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Our lives are truly like a sukkah. Green, hopeful leaves make up its roof. The walls are covered with ornaments and decoration. The table is set with inviting, lovely treats. Within it we experience a bounty of delights as we gaze out on pleasant vistas of the natural world. Yet often the sky grows dark, and in the midst of our joyous feast, in the midst of our celebrations, a cold shower of misfortune rains down on our heads. Heavy drops of bitter sorrow and pain descend on us. The raw north wind blows through the fresh, cheerful walls of our sukkah, and the partitions and poles of our luck and good fortune shake and shudder in the storm. One festive flower after the next falls ragged beneath our feet. One life ornament after another gets lost in the tumult. Deep pain runs through our souls, and we feel as if we've been delivered to the unfairness of fate. Then our only comfort is in remembering that all of life is fleeting,[foot]A reference to Qohelet (Ecclesiastes), traditionally read on the Shabbat of Sukkot[/foot] like the festival of Sukkot. Soon our earthly hut will break apart, our earthly husk fall away, and our souls will return to their eternal dwelling places. We will leave all our earthly joys behind, those joys we so often take for granted. They will remain behind, along with all our earthly needs, all our cares, sorrows, and worries. All that will accompany us are our deeds and gifts — all the labors of love we have practiced, all we have offered and done for good and noble purpose, all the tears that thankful hearts have cried on our behalf — these will be the garlands of gems that decorate our heavenly dwelling places, ornaments that never spoil and never pass away. There our hopes will ripen into glorious fruition, our merits blossom into crowns, and all our suffering transform into endless joy.
 </span></div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="german"><span lang="de">
+<div class="german" lang="de">
 Dies Alles laß uns gedenken, mein Gott, daß es uns zur Lehre und zum Heil gereiche auf unsrer Erdenbahn, daß wir uns nie niederdrücken lassen von des Unglücks schwerer Hand, daß wir uns nicht überheben in des Glückes Glanz und Strahl, daß wir nicht um den Schmuck der flüchtigen Hütten hingeben die Herrlichkeiten des ewigen Seins, und unser Wandel stets ein reiner, heiliger, dir gefälliger sei und bleibe. <span class="hebrew" lang="he">אָמֵן</span> <em>Amen</em>. 
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Let us be mindful of all this, O God, that it might serve as a good teaching and healing throughout the course of our lives, so we never let ourselves be crushed by misfortune’s heavy hand, never let ourselves be carried away by the dazzle of good fortune, never forsake the holy treasure of our eternal beings for the sake of adorning our flimsy, earthly huts. Let our lives be wholesome, holy, God-pleasing lives before you now and forever. <em>Amen</em>.
 </span></div></td></tr>
 </tbody></table>

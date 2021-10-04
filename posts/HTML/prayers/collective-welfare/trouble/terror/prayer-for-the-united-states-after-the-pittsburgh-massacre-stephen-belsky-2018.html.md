@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַנּוֹתֵן מֶמְשָׁלָה לְמַנְהִיגִים וְאַחְרָיוּת לְאֶזְרָחִים,
 מַלְכוּתוֹ כָּל עוֹלָמִים –
 שׁוֹמֵר יִשְׂרָאֵל אֲשֶׁר לֹא יָנוּם וְלֹא יִישָׁן, <span class="citation">(תהלים קכא:ד)</span>
@@ -23,7 +23,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May Gd who grants dominion to rulers and responsibility to citizens,
 whose kingdom is all eternities –
 the guardian of Israel who neither slumbers nor sleeps,[foot]Psalms 121:4[/foot]
@@ -36,7 +36,7 @@ and inspire all its inhabitants with love and brotherhood.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בְּרַחֲמָיו הָרַבִּים 
 יְעַקֵּר וִישַׁבֵּר אֶת תַּרְבוּת הָאַכְזָרִיּוּת וְהַשִּׂנְאָה
 מֵעָלֵינוּ, וּמִבֵּינֵינוּ, וּמִתּוֹכֵנוּ,
@@ -49,7 +49,7 @@ and inspire all its inhabitants with love and brotherhood.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 In Gd's great mercies, 
 uproot and destroy the culture of cruelty and hatred
 from upon us, among us, and within us,
@@ -63,13 +63,13 @@ as water covers the seas.[foot]Cf. Isaiah 11:9, Habakkuk 2:14[/foot]
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כֵּן יְהִי רָצוֹן, 
 וְנֹאמַר אָמֵן. 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Let this be Gd's will,
 and let us say amein.
 </div></td></tr>

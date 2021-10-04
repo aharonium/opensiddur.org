@@ -12,7 +12,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה 
 יְיָ אֱלֹהֵינוּ 
 מֶלֶךְ הָעוֹלָם, 
@@ -27,7 +27,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 I worship You,
 Yah, our God,
 Cosmic Majesty.
@@ -44,7 +44,7 @@ Inner organs and intestines.[foot]Cf. Talmud Bavli Berachot 24b, also Rabbi Tanc
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 גָּלוּי וְיָדוּעַ 
 לִפְנֵי כִסֵּא כְבוֹדֶךָ, 
 שֶׁאִם 
@@ -59,7 +59,7 @@ Inner organs and intestines.[foot]Cf. Talmud Bavli Berachot 24b, also Rabbi Tanc
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 As I am all transparent to You,
 It is apparent and clear,
 That if any of these
@@ -76,7 +76,7 @@ Not even for a moment.
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 בָּרוּךְ אַתָּה יְיָ 
 רוֹפֵא כָל בָּשָׂר 
@@ -85,7 +85,7 @@ Not even for a moment.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 So I am grateful 
 And bless You,
 For healing me,
@@ -105,7 +105,7 @@ For the earliest variations of "Asher Yatsar," consult Talmud Bavli Berachot 60b
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הנכנס לבית הכסא אומר 
 התכבדו מכובדים קדושים משרתי עליון 
 תנו כבוד לאלהי ישראל 
@@ -125,7 +125,7 @@ For the earliest variations of "Asher Yatsar," consult Talmud Bavli Berachot 60b
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 One who enters a bathroom says [to the angels who accompany him at all times[foot]Rashi citing Psalms 91[/foot]]: 
 Be honored, honorable holy ones, servants of the One on High, 
 give honor to the <em>elo'ah</em> of Yisra'el, 
@@ -147,7 +147,7 @@ it would be impossible to stand before You.
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מאי חתים 
 אמר רב רופא חולים 
 אמר שמואל קא שוינהו אבא לכולי עלמא קצירי אלא רופא כל בשר 
@@ -157,7 +157,7 @@ it would be impossible to stand before You.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 The Gemara asks: With what should one conclude this blessing? 
 Rav said: One should conclude: Blessed…Healer of the sick. 
 Shmuel said: Abba, Rav, has rendered everyone sick. Rather, one should say: Healer of all flesh. 

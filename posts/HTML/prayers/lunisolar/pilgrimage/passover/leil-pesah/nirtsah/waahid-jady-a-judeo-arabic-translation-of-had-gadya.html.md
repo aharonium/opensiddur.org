@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 Ḥad Gadya has a place in Seder tables throughout the Jewish world, and in many communities it was read in translation. This translation is in Judeo-Arabic, specifically the dialect of the ancient community of Baghdad, home of Rav Ḥanna Bagdataʾa, Hai Gaon, and Solomon Ma'tuk among many other greats. Partially based on a small portion of a translation into Judeo-Arabic found online by the creator, this translation was extended, completed, and transliterated by Isaac Mayer. It could be added to any Passover Seder alongside the traditionally Aramaic text.
 
 Some pronunciation notes for those unfamiliar with Arabic transcription:
@@ -39,275 +39,275 @@ Some pronunciation notes for those unfamiliar with Arabic transcription:
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="25%">
-<div class="aramaic"><span lang="he">
+<div class="aramaic" lang="jpa">
 חַד גַּדְיָא, חַד גַּדְיָא.
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="judeo-arabic"><span lang="he">
+<div class="judeo-arabic" lang="jrb">
 ואחד גׄדי ואחד גׄדי 
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 WAAḤID JADY waaḥid jady 
 </div>
 </td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 One little goat, one little goat.
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="25%">
-<div class="aramaic" style="text-align: right;"><span lang="he">	 
+<div class="aramaic" lang="jpa" style="text-align: right;">	 
 דְּזַבִּן אַבָּא בִּתְרֵי זוּזֵי, חַד גַּדְיָא, חַד גַּדְיָא.
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="judeo-arabic"><span lang="he">
+<div class="judeo-arabic" lang="jrb">
 אלדׄי אשתראלי אבויי פי עבסתין ואחד גׄדי ואחד גׄדי
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 allaḏii ištarali abuyi fi ʿabbastayn waaḥid jady waaḥid jady
 </div>
 </td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 ...that my father bought for two zuzim. One little goat, one little goat.
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="25%">
-<div class="aramaic" style="text-align: right;"><span lang="he">	 
+<div class="aramaic" lang="jpa" style="text-align: right;">	 
 וְאָתָא שֻׁנְרָא וְאָכְלָה לְגַדְיָא, דְּזַבִּן אַבָּא בִּתְרֵי זוּזֵי, חַד גַּדְיָא, חַד גַּדְיָא.
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="judeo-arabic"><span lang="he">
+<div class="judeo-arabic" lang="jrb">
 וגׄאת אלבזונה ואכלת ללגׄדי אלדׄי אשתראלי אבויי פי עבסתין ואחד גׄדי ואחד גׄדי
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 wa-jaaʾat ʾAL-BIZZUUNA wa-akalat lel-jady allaḏii ištarali abuyi fi ʿabbastayn waaḥid jady waaḥid jady
 </div>
 </td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 A cat came and ate the goat that my father bought for two <em>zuzim</em>. One little goat, one little goat.
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="25%">
-<div class="aramaic" style="text-align: right;"><span lang="he">	 
+<div class="aramaic" lang="jpa" style="text-align: right;">	 
 וְאָתָא כַּלְבָּא וְנָשַׁךְ לְשֻׁנְרָא, דְּאָכְלָה לְגַדְיָא, דְּזַבִּן אַבָּא בִּתְרֵי זוּזֵי, חַד גַּדְיָא, חַד גַּדְיָא.
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="judeo-arabic"><span lang="he">
+<div class="judeo-arabic" lang="jrb">
 וגׄא אלכלב ועץׄ ללבזונה אלדׄי אכלת ללגׄדי אלדׄי אשתראלי אבויי פי עבסתין ואחד גׄדי ואחד גׄדי
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 wa-jaaʾa ʾAL-KALB wa-ʿaḍḍa lel-bizzuuna allaḏii akalat lel-jady allaḏii ištarali abuyi fi ʿabbastayn waaḥid jady waaḥid jady
 </div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 A dog came and bit the cat that ate the goat that my father bought for two <em>zuzim</em>. One little goat, one little goat.
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="25%">
-<div class="aramaic" style="text-align: right;"><span lang="he">	 
+<div class="aramaic" lang="jpa" style="text-align: right;">	 
 וְאָתָא חֻטְרָא וְהִכָּה לְכַלְבָּא, דְּנָשַׁךְ לְשֻׁנְרָא, דְּאָכְלָה לְגַדְיָא, דְּזַבִּן אַבָּא בִּתְרֵי זוּזֵי, חַד גַּדְיָא, חַד גַּדְיָא.
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="judeo-arabic"><span lang="he">
+<div class="judeo-arabic" lang="jrb">
 וגׄאת אלעצא וצׄרבת ללכלב אלדׄי עץׄ ללבזונה אלדׄי אכלת ללגׄדי אלדׄי אשתראלי אבויי פי עבסתין ואחד גׄדי ואחד גׄדי
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 wa-jaaʾat ʾAL-ʿAṢAA wa-ḍarabat lel-kalb allaḏii ʿaḍḍa lel-bizzuuna allaḏii akalat lel-jady allaḏii ištarali abuyi fi ʿabbastayn waaḥid jady waaḥid jady
 </div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 A stick came and hit the dog that bit the cat that ate the goat that my father bought for two <em>zuzim</em>. One little goat, one little goat.
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="25%">
-<div class="aramaic" style="text-align: right;"><span lang="he">	 
+<div class="aramaic" lang="jpa" style="text-align: right;">	 
 וְאָתָא נוּרָא וְשָׂרַף לְחֻטְרָא, דְּהִכָּה לְכַלְבָּא, דְּנָשַׁךְ לְשֻׁנְרָא, דְּאָכְלָה לְגַדְיָא, דְּזַבִּן אַבָּא בִּתְרֵי זוּזֵי, חַד גַּדְיָא, חַד גַּדְיָא.
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="judeo-arabic"><span lang="he">
+<div class="judeo-arabic" lang="jrb">
 וגׄא אלנור וחרק ללעצא אלדׄי צׄרבת ללכלב אלדׄי עץׄ ללבזונה אלדׄי אכלת ללגׄדי אלדׄי אשתראלי אבויי פי עבסתין ואחד גׄדי ואחד גׄדי
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 wa-jaaʾa AN-NUUR wa-ḥarraqa lel-ʿaṣaa allaḏii ḍarabat lel-kalb allaḏii ʿaḍḍa lel-bizzuuna allaḏii akalat lel-jady allaḏii ištarali abuyi fi ʿabbastayn waaḥid jady waaḥid jady
 </div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 A fire came and burned the stick that hit the dog that bit the cat that ate the goat that my father bought for two <em>zuzim</em>. One little goat, one little goat.
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="25%">
-<div class="aramaic" style="text-align: right;"><span lang="he">	 
+<div class="aramaic" lang="jpa" style="text-align: right;">	 
 וְאָתָא מַיָּא וְכָבָה לְנוּרָא, דְּשָׂרַף לְחֻטְרָא, דְּהִכָּה לְכַלְבָּא, דְּנָשַׁךְ לְשֻׁנְרָא, דְּאָכְלָה לְגַדְיָא, דְּזַבִּן אַבָּא בִּתְרֵי זוּזֵי, חַד גַּדְיָא, חַד גַּדְיָא.
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="judeo-arabic"><span lang="he">
+<div class="judeo-arabic" lang="jrb">
 וגׄא אלמאי וטפא ללנור אלדׄי חרק ללעצא אלדׄי צׄרבת ללכלב אלדׄי עץׄ ללבזונה אלדׄי אכלת ללגׄדי אלדׄי אשתראלי אבויי פי עבסתין ואחד גׄדי ואחד גׄדי
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 wa-jaaʾa ʾAL-MAAʾ wa-ṭafa len-nuur allaḏii ḥarraqa lel-ʿaṣaa allaḏii ḍarabat lel-kalb allaḏii ʿaḍḍa lel-bizzuuna allaḏii akalat lel-jady allaḏii ištarali abuyi fi abbastayn waaḥid jady waaḥid jady
 </div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 Water came and put out the fire that burned the stick that hit the dog that bit the cat that ate the goat that my father bought for two <em>zuzim</em>. One little goat, one little goat.
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="25%">
-<div class="aramaic" style="text-align: right;"><span lang="he">	 
+<div class="aramaic" lang="jpa" style="text-align: right;">	 
 וְאָתָא תּוֹרָא וְשָׁתָא לְמַיָּא, דְּכָבָה לְנוּרָא, דְּשָׂרַף לְחֻטְרָא, דְּהִכָּה לְכַלְבָּא, דְּנָשַׁךְ לְשֻׁנְרָא, דְּאָכְלָה לְגַדְיָא, דְּזַבִּן אַבָּא בִּתְרֵי זוּזֵי, חַד גַּדְיָא, חַד גַּדְיָא.
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="judeo-arabic"><span lang="he">
+<div class="judeo-arabic" lang="jrb">
 וגׄא אלתׄור ושרב ללמאי אלדׄי טפא ללנור אלדׄי חרק ללעצא אלדׄי צׄרבת ללכלב אלדׄי עץׄ ללבזונה אלדׄי אכלת ללגׄדי אלדׄי אשתראלי אבויי פי עבסתין ואחד גׄדי ואחד גׄדי
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 wa-jaaʾa AṮ-ṮAWR wa-šariba lel-maaʾ allaḏii ṭafa len-nuur allaḏii ḥarraqa lel-ʿaṣaa allaḏii ḍarabat lel-kalb allaḏii ʿaḍḍa lel-bizzuuna allaḏii akalat lel-jady allaḏii ištarali abuyi fi ʿabbastayn waaḥid jady waaḥid jady
 </div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 An ox came and drank the water that put out the fire that burned the stick that hit the dog that bit the cat that ate the goat that my father bought for two <em>zuzim</em>. One little goat, one little goat.
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="25%">
-<div class="aramaic" style="text-align: right;"><span lang="he">	 
+<div class="aramaic" lang="jpa" style="text-align: right;">	 
 וְאָתָא הַשּׁוֹחֵט וְשָׁחַט לְתוֹרָא, דְּשָׁתָא לְמַיָּא, דְּכָבָה לְנוּרָא, דְּשָׂרַף לְחֻטְרָא, דְּהִכָּה לְכַלְבָּא, דְּנָשַׁךְ לְשֻׁנְרָא, דְּאָכְלָה לְגַדְיָא, דְּזַבִּן אַבָּא בִּתְרֵי זוּזֵי, חַד גַּדְיָא, חַד גַּדְיָא.
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="judeo-arabic"><span lang="he">
+<div class="judeo-arabic" lang="jrb">
 וגׄא אלדׄבאח ודׄבח ללתׄור ושרב ללמאי אלדׄי טפא ללנור אלדׄי חרק ללעצא אלדׄי צׄרבת ללכלב אלדׄי עץׄ ללבזונה אלדׄי אכלת ללגׄדי אלדׄי אשתראלי אבויי פי עבסתין ואחד גׄדי ואחד גׄדי
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 wa-jaaʾa AḎ-ḎIBAAḤ wa-ḏabaḥa leṯ-ṯawr allaḏii šariba lel-maaʾ allaḏii ṭafa len-nuur allaḏii ḥarraqa lel-ʿaṣaa allaḏii ḍarabat lel-kalb allaḏii ʿaḍḍa lel-bizzuuna allaḏii akalat lel-jady allaḏii ištarali abuyi fi ʿabbastayn waaḥid jady waaḥid jady
 </div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 A butcher came and slaughtered the ox that drank the water that put out the fire that burned the stick that hit the dog that bit the cat that ate the goat that my father bought for two <em>zuzim</em>. One little goat, one little goat.
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="25%">
-<div class="aramaic" style="text-align: right;"><span lang="he">	 
+<div class="aramaic" lang="jpa" style="text-align: right;">	 
 וְאָתָא מַלְאַךְ־הַמָּ֫וֶת וְשָׁחַט לְשׁוֹחֵט, דְּשָׁחַט לְתוֹרָא, דְּשָׁתָא לְמַיָּא, דְּכָבָה לְנוּרָא, דְּשָׂרַף לְחֻטְרָא, דְּהִכָּה לְכַלְבָּא, דְּנָשַׁךְ לְשֻׁנְרָא, דְּאָכְלָה לְגַדְיָא, דְּזַבִּן אַבָּא בִּתְרֵי זוּזֵי, חַד גַּדְיָא, חַד גַּדְיָא.
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="judeo-arabic"><span lang="he">
+<div class="judeo-arabic" lang="jrb">
 וגׄא מלך אלמות ודׄבח ללדׄבאח אלדׄי שרב ללמאי אלדׄי טפא ללנור אלדׄי חרק ללעצא אלדׄי צׄרבת ללכלב אלדׄי עץׄ ללבזונה אלדׄי אכלת ללגׄדי אלדׄי אשתראלי אבויי פי עבסתין ואחד גׄדי ואחד גׄדי
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 wa-jaaʾa MALAK ʾAL-MAWT wa-ḏabaḥa leḏ-ḏibaaḥ allaḏii ḏabaḥa leṯ-ṯawr allaḏii šariba lel-maaʾ allaḏii ṭafa len-nuur allaḏii ḥarraqa lel-ʿaṣaa allaḏii ḍarabat lel-kalb allaḏii ʿaḍḍa lel-bizzuuna allaḏii akalat lel-jady allaḏii ištarali abuyi fi ʿabbastayn waaḥid jady waaḥid jady
 </div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 The Angel of Death came and slaughtered the shoḥet who slaughtered the ox that drank the water that put out the fire that burned the stick that hit the dog that bit the cat that ate the goat that my father bought for two <em>zuzim</em>. One little goat, one little goat.
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="25%">
-<div class="aramaic" style="text-align: right;"><span lang="he">	 
+<div class="aramaic" lang="jpa" style="text-align: right;">	 
 וְאָתָא הַקָּדוֹשׁ־בָּרוּךְ־הוּא וְשָׁחַט לְמַלְאַךְ־הַמָּ֫וֶת וְשָׁחַט לְשׁוֹחֵט, דְּשָׁחַט לְתוֹרָא, דְּשָׁתָא לְמַיָּא, דְּכָבָה לְנוּרָא, דְּשָׂרַף לְחֻטְרָא, דְּהִכָּה לְכַלְבָּא, דְּנָשַׁךְ לְשֻׁנְרָא, דְּאָכְלָה לְגַדְיָא, דְּזַבִּן אַבָּא בִּתְרֵי זוּזֵי, חַד גַּדְיָא, חַד גַּדְיָא.
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="judeo-arabic"><span lang="he">
+<div class="judeo-arabic" lang="jrb">
 וגׄא אלמקדס תברכא הוא ודׄבח למלך אלמות אלדׄי דׄבח ללדׄבאח אלדׄי שרב ללמאי אלדׄי טפא ללנור אלדׄי חרק ללעצא אלדׄי צׄרבת ללכלב אלדׄי עץׄ ללבזונה אלדׄי אכלת ללגׄדי אלדׄי אשתראלי אבויי פי עבסתין ואחד גׄדי ואחד גׄדי
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 wa-jaaʾa ʾAL-MUQQADAS TABAARAKA HUWA wa-ḏabaḥa li-malak ʾal-mawt allaḏii ḏabaḥa leḏ-ḏibaaḥ allaḏii ḏabaḥa leṯ-ṯawr allaḏii šariba lel-maaʾ allaḏii ṭafa len-nuur allaḏii ḥarraqa lel-ʿaṣaa allaḏii ḍarabat lel-kalb allaḏii ʿaḍḍa lel-bizzuuna allaḏii akalat lel-jady allaḏii ištarali abuyi fi ʿabbastayn waaḥid jady waaḥid jady
 </div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 Then the blessed Holy One came and slaughtered the Angel of Death who slaughtered the shoḥet who slaughtered the ox that drank the water that put out the fire that burned the stick that hit the dog that bit the cat that ate the goat that my father bought for two <em>zuzim</em>. One little goat, one little goat.
 </div>
 </td></tr>

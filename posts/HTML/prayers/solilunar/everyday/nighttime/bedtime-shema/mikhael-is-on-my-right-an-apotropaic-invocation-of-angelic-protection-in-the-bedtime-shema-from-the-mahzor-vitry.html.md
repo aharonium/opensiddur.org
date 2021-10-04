@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מימיני מיכאל 
 משמאלי גבריאל 
 מלפני אוריאל 
@@ -23,7 +23,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May Mikhael be on my right, 
 Gavriel on my left, 
 Uriel before me, 
@@ -31,7 +31,7 @@ and behind me, Refael,
 and above my head, Shekhinat-El,  
 and Sanoi[foot]Sanoi [Sana’ui according to Moses Zacutto]), derived from the initials of three words <em>samim nataf ush’chelet</em> — “sweet spices, stacte, and onycha,” in Exodus 30:34. Thanks to Jacobus Swart for <a href="http://kabbalahselfcreation.blogspot.com/2013/11/spirit-forces-in-hebrew-amulets-part-2.html">his explanation</a>.[/foot]&nbsp;
 and Sansanoi[foot]Sansanoi [Sansina’ui according to Moses Zacutto]), is a variant of the word <em>b’sansinav</em> — “of the boughs thereof” in Song of Songs 7:9. Thanks to Jacobus Swart for <a href="http://kabbalahselfcreation.blogspot.com/2013/11/spirit-forces-in-hebrew-amulets-part-2.html">his explanation</a>.[/foot]&nbsp; 
-and Semangklaf.[foot]A variant spelling for the angel Semangelof. The name appears as <span class="hebrew">סנמגליי</span> in the British Library MS. 27200 v.23r. In JTSA MS. 8092, the -<span class="hebrew">וף</span> ending of <span class="hebrew">סמנגלוף</span> follows on the next line. Abraham Berliner transcribed it as <span class="hebrew">סנמגלי</span>. Semanglof is said to have originated from the words <em>samim ul’vonah zakah</em> — “sweet spices with pure frankincense”, also found in Exodus 30:34 (see above note on 'Sanoi'). Thanks to Jacobus Swart for <a href="http://kabbalahselfcreation.blogspot.com/2013/11/spirit-forces-in-hebrew-amulets-part-2.html">his explanation</a>.[/foot]&nbsp;
+and Semangklaf.[foot]A variant spelling for the angel Semangelof. The name appears as <span class="hebrew" lang="he">סנמגליי</span> in the British Library MS. 27200 v.23r. In JTSA MS. 8092, the -<span class="hebrew" lang="he">וף</span> ending of <span class="hebrew" lang="he">סמנגלוף</span> follows on the next line. Abraham Berliner transcribed it as <span class="hebrew" lang="he">סנמגלי</span>. Semanglof is said to have originated from the words <em>samim ul’vonah zakah</em> — “sweet spices with pure frankincense”, also found in Exodus 30:34 (see above note on 'Sanoi'). Thanks to Jacobus Swart for <a href="http://kabbalahselfcreation.blogspot.com/2013/11/spirit-forces-in-hebrew-amulets-part-2.html">his explanation</a>.[/foot]&nbsp;
 </div></td></tr>
 </tbody></table>
 

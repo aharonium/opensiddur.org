@@ -9,7 +9,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <strong>DOWNLOAD:</strong> <a href="https://opensiddur.org/wp-content/uploads/2012/11/After-the-Storm-A-Prayer-to-Choose-Life-David-Seidenberg-neohasid.org-2018.pdf">PDF</a>
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 The prayers for hurricane victims that are circulating here and elsewhere are poignant and heartfelt, but they don’t speak an important piece of the truth that we need to hear. What about our collective responsibility for climate disruption that undoubtedly increases the harm caused by this and every major storm? And what about the Deuteronomic promise that God brings us recompense for our actions <em>davka</em> through the weather? Here’s an attempt at a prayer that incorporates a deeper understanding of our responsibility. For a longer essay on the concerns inspiring the composition of this prayer, please read "<a href="http://blogs.timesofisrael.com/after-the-storm-how-should-we-pray/">After the Storm: How Should we Pray?</a>," at <em>The Times of Israel</em>.
 </div>
 
@@ -20,27 +20,27 @@ The prayers for hurricane victims that are circulating here and elsewhere are po
 <tbody>
 <tr>
 <td style="vertical-align:top;">
-<div class="hebrew" style="font-size: 1em;"><span lang="he">
+<div class="hebrew" lang="he" style="font-size: 1em;">
 ”הַעִידֹתִי בָכֶם הַיּוֹם אֶת הַשָּׁמַיִם וְאֶת הָאָרֶץ 
 הַחַיִּים וְהַמָּוֶת נָתַתִּי לְפָנֶיךָ הַבְּרָכָה וְהַקְּלָלָה 
 וּבָחַרְתָּ בַּחַיִּים לְמַעַן תִּחְיֶה אַתָּה וְזַרְעֶךָ.‏“
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english" style="font-size: 1em;">
+<div class="english" lang="en" style="font-size: 1em;">
 "I call on the skies and the land to witness against you today: 
 Life and death I have put before you, the blessing and the curse. 
 And so choose life, in order that you will live, you and your seed."[foot]Deuteronomy 30:19[/foot]
 </div></td>
 
 <td style="vertical-align:top;">
-<div class="english" style="font-size: 1em;">
+<div class="english" lang="en" style="font-size: 1em;">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָדוֹן הָעוֹלָם, אֶדֶן הָעוֹלָם, |  רִבּוֹנוֹ שֶׁל עוֹלָם, 
 אַתָּה צִוִּיתָנוּ ”וּבָחַרְתָּ בַּחַיִּים“ <span class="citation">(דברים ל:יט)</span>,
 וּבְנֵי דוֹרֵנוּ 
@@ -54,7 +54,7 @@ And so choose life, in order that you will live, you and your seed."[foot]Deuter
 </span></div></td>
 
  <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Master of the Universe | Foundation of the Universe
 You commanded us, "<em>Choose life</em>,"[foot]Deuteronomy 30:19[/foot]
 but the people of our generation 
@@ -68,7 +68,7 @@ and so we are responsible for its healing.
 </div></td>
 
  <td style="vertical-align:top;">
-<div class="romanized-hebrew">
+<div class="romanized-hebrew" lang="he">
 Adon ha’olam | Eden ha’olam, 
 atah tsivitanu “uvacharta bachayyim”, 
 uv’nei doreinu 
@@ -83,7 +83,7 @@ ukh’mo khen achra’im l’rapo’to.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְהִנֵּה אָנוּ מְבַקְּשִׁים אֶת הַכֹּחַ וְהָאֹמֶץ 
 לְקַבֵּל אַחֲרָיוּת עָלֵינוּ עַתָּה
 לַעֲזוֹר לְאֵלוּ שֶׁנִפְגָעִים עַל יְדֵי הַסְּעָרָה,
@@ -99,7 +99,7 @@ ukh’mo khen achra’im l’rapo’to.
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 So we seek the strength and the courage
 to accept our responsibility now
 to help those harmed by the storm/firestorm
@@ -115,7 +115,7 @@ please save them.
 </div></td>
 
 <td style="vertical-align:top;">
-<div class="romanized-hebrew">
+<div class="romanized-hebrew" lang="he">
 V’hineh anu m’vakshim et hakoach v’ha’omets 
 l’kabel ha’achrayut aleinu atah 
 la’azor l’eilu shenifga’im al y’dei hase’arah, 
@@ -132,7 +132,7 @@ na l’hoshi’eim.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כִּי אַתָּה ”הַיֹּסֵר גוֹיִים“ 
 וְ”הַמְלַמֵּד אָדָם דַּעַת“ <span class="citation">(תהלים צד:י)</span> —
 נָא לְלַמְּדֵנוּ אֶת הַדֶרֶךְ קָדִימָה 
@@ -150,7 +150,7 @@ na l’hoshi’eim.
 </span></div></td>
 
  <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 For You are the One <em>who reproves nations</em>
 and <em>who teaches humanity knowledge.</em>[foot]Cf. Psalms 94:10[/foot]&nbsp;— 
 Please teach us the path forward 
@@ -168,7 +168,7 @@ from off the good earth</em>.[foot]Deuteronomy 11:17[/foot]
 </div></td>
 
 <td style="vertical-align:top;">
-<div class="romanized-hebrew">
+<div class="romanized-hebrew" lang="he">
 Ki atah “hayoseir goyim 
 v’ham’lamed adam da’at”— 
 na l’lamdeinu et haderekh kadimah, 

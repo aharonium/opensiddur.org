@@ -11,12 +11,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Acrostic Initials (Hebrew)</th><th style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;"><a href="/contributing/upload/">Contribute a translation</a></th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 
 </span></div></td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 סוד של שם מ"ב אותיות:
 
 ועתה יש לך לדעת כי השכינה פועלת בכח י״ב הויות ובמ״ב אותיות הנקראות שם בן מ״ב ואלו הן:
@@ -26,143 +26,143 @@ For attribution and license, please consult the following URL: <a href="http://o
 ועתה שמע ענינם כי אלו אותיות של שם מ"ב כל אות יוצא ממנו מלאך הפועל מכח השם ואלו הן:
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 אב״ג 
 ית״ץ
 </span></div></td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אַדִירְיַרוֹן בַהִירְיַרוֹן גְבִירְיַרוֹן 
 יִגְבַהְיָה תְּלַמְיָה צְתַנְיָה
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 קר״ע 
 שט״ן
 </span></div></td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 קְרַמְיָה רְגַרְיָה עַדִרְיָה 
 שְגַנְיָה טְלַטְיָה נְהַרְיָה 
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 נג״ד 
 יכ״ש
 </span></div></td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 נְשִׁמַרְיָה גְעַרְיָה דוֹהֵרְיָה 
 יְעַלְיָה כֵסְיָה שִׁגְיוֹנְיָה 
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 בט״ר 
 צת״ג
 </span></div></td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 (פ)בוֹעֵלִיָהּ טוֹרֵרְיָה רַמְיָה 
 צ׳ תְהַנְהִיָה גַלְגַלְיָה 
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 חק״ב 
 טנ״ע
 </span></div></td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 [חַנַנְיָה קַהֵקְיָה ב׳][foot]The roshei tevot for these names appears out of sequence here, as they do in Sefer ha-Peli'ah.[/foot]&nbsp;
 טַבְטַנְיָה נ׳ עַמְמַיָה 
 וְהַנְהוְֹיָה וִהַוְ־הוֹיִהְ[foot]This text is unaccounted for in the 42 letter divine name sequence.[/foot]
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 יג״ל 
 פז״ק
 </span></div></td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יִדַלְשְׁרַיָה גְוּרְרִיָה לְמֵיִמַרְיָה 
 פְקוֹרְקַדְיָה זוֹהָר־זְרַיָה קַוְולֵיָה. 
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 שק״ו
 צי״ת
 </span></div></td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שַׁתְהוֹרְרַיָה קַדוֹשְׁיָה וְהָאֵלְ־אִלְיָה 
 צְעִירְיָה יַהְהַרְיָה תְמֶתְלִיָה.
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 
 </span></div></td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 והיה יהו״ה חוֹנְנְיָה קַתִקַיָה וְהָאֵל אֵלִיָה וַיְהוָֹה יה.
 בָּרוּךְ שֵׁם כְּבוֹד מַלְכוּתוֹ לְעוֹלָם וָעֶד:‏
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 
 </div></td></tr>
 </tbody></table>

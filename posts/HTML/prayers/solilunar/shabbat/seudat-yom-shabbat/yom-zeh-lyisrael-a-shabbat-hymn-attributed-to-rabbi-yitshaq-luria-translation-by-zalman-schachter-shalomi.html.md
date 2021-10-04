@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">י</span>וֹם זֶה 
 לְיִשְׁרַאֵל 
 אוֹרָה וְשִׂמְחָה 
@@ -19,7 +19,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Your gift
 to those who strive with You
 is joy and light
@@ -28,7 +28,7 @@ Shabbat Menuḥah
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">צִ</span>וִיתָ פִקּוּדִים 
 בְמַעֲמַד הַר סִינַי,
 שַׁבָּת וּמוֹעֲדִים 
@@ -39,7 +39,7 @@ Shabbat Menuḥah
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Certain of Your holy ways
 You revealed to us at Sinai
 Shabbat and other holy days
@@ -51,7 +51,7 @@ Shabbat Menuḥah
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">חֶ</span>מְדַת הַלְבָבוֹת 
 לְאֻמָה שְׁבוּרָה,
 לִנְפָשׁוֹת נִכְאָבוֹת 
@@ -62,7 +62,7 @@ Shabbat Menuḥah
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Charm is Shabbat for the heart
 for the poor and broken people
 if all week we were depressed
@@ -74,7 +74,7 @@ Shabbat Menuḥah
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">קִ</span>דַשְׁתָ בֵרַכְתָ 
 אוֹתוֹ מִכָל יָמִים,
 בְשֵׁשֶׁת כִלִיתָ 
@@ -85,7 +85,7 @@ Shabbat Menuḥah
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Consecrated bride You blessed
 all other days gave her their blessing
 in the sixth and final phase
@@ -97,7 +97,7 @@ Shabbat Menuḥah
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">לְ</span>אִסּוּר מְלָאכָה 
 צִוִיתָנוּ נוֹרָא,
 אֶזְכֶה הוֹד מְלוּכָה 
@@ -108,7 +108,7 @@ Shabbat Menuḥah
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Let go of every form of toil
 You in Your kindness have commanded
 regal auras shine from us
@@ -120,7 +120,7 @@ Shabbat Menuḥah
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">וְ</span>שִׁיר אֶעֱרָךְ לְךָ 
 בְנִגּוּן וּנְעִימָה
 מוּל תִפְאֶרֶת 
@@ -131,7 +131,7 @@ Shabbat Menuḥah
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 What songs of love could I perform
 with rhythm and harmony and music
 to please your presence holy God?
@@ -143,7 +143,7 @@ Shabbat Menuḥah
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">רְ</span>צֵה תְפִלָתִי 
 כְמוֹ קָרְבַן נַחְשׁוֹן
 וְיוֹם מְנוּחָתִי 
@@ -154,7 +154,7 @@ Shabbat Menuḥah
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Receive my worship blessed God
 as if it was my life I offered
 This restful, blissful Shabbat day
@@ -166,7 +166,7 @@ Shabbat Menuḥah
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">יִ</span>שְׁעֲךָ קִוִינוּ 
 יָהּ אַדִיר אַדִירִים
 בֶן דָוִד מַלְכֵנוּ 
@@ -177,7 +177,7 @@ Shabbat Menuḥah
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Your salvation do we trust
 Yah God most powerful and mighty
 David’s heirs - do send them soon
@@ -189,7 +189,7 @@ Shabbat Menuḥah
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">אָ</span>נָא עֶלְיוֹן נוֹרָא, 
 הַבִיטָה עָנְיֵנוּ,
 פְדֵנוּ בִמְהֵרָה, 
@@ -200,7 +200,7 @@ Shabbat Menuḥah
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Awesome God who is most High 
 do look for us and give an answer
 redeem this troubled planet soon
@@ -212,7 +212,7 @@ Shabbat Menuḥah
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">חַ</span>דֵשׁ מִקְדָשֵׁנוּ 
 זָכְרָה נֶחֶרֶבֶת,
 טוּבְךָ מוֹשִׁיעֵנוּ 
@@ -223,7 +223,7 @@ Shabbat Menuḥah
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Cherish and Renew Your house
 enough the years it was in shambles
 With Your compassion Gentle God
@@ -235,7 +235,7 @@ Shabbat Menuḥah
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">זְ</span>כוֹר קָדוֹשׁ לָנוּ 
 בִזְכוּת יִקְרַת הַיּוֹם,
 שְׁמוֹר נָא אוֹתָנוּ בְיוֹם זֶה 
@@ -246,7 +246,7 @@ Shabbat Menuḥah
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Zealous to treasure this holy day
 keep us well in your remembrance
 protect and guard us 
@@ -259,7 +259,7 @@ Shabbat Menuḥah
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">ק</span>וֹל רִנָה וִישׁוּעָה, 
 לְיִשְׂרָאֵל הַשְׁמִיעָה,
 בְבאֹ חֶזְיוֹן תְשׁוּעָה, 
@@ -270,7 +270,7 @@ Shabbat Menuḥah
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Could celebration’s welcome song 
 be heard by Israel and her neighbors
 When that vast vision is fulfilled

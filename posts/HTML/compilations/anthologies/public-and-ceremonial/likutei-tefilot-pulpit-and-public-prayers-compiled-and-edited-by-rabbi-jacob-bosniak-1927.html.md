@@ -19,7 +19,7 @@ Scanning this work (making digital images of each page) is the first step in a m
 
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 PREFACE 
 
 This volume contains, as its name indicates, pulpit and public prayers for various occasions. The need for such a collection has long been felt. It has always been the custom in Israel to recite special prayers during the regular service, in other than the Hebrew language, as evidenced by the ancient prayers of <em>Brich Shemeh</em>, at the open ark, and <em>Yekum Purkan</em>, which are in the Aramaic, the vernacular of the people in olden times. It is, therefore, natural that these and similar prayers should now be recited in English. Then again, the Rabbi is very frequently called upon, to open or close important public functions with prayer. The composition of special prayers forms an important part of the Rabbi’s work; and it is our hope that this collection will facilitate his performance of this particular task. 

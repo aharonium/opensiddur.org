@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 Tonight, I had the privilege of delivering the invocation at the opening dinner of the <a href="https://www.cfr.org/event-series/religion-and-foreign-policy-workshop">Council on Foreign Relations annual Religion and Foreign Policy Workshop</a>. I spoke right after a public conversation with Ambassador Sam Brownback, Ambassador for Religious Freedom. Here's the prayer I offered: 
 </div>
 
@@ -17,34 +17,34 @@ Tonight, I had the privilege of delivering the invocation at the opening dinner 
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ריבונו של עולם 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Guiding power of the universe
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הרחמן
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Compassionate One
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 You brought us forth 
 from slavery to freedom, 
 from oppression to liberation.
@@ -52,7 +52,7 @@ from oppression to liberation.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 &nbsp;
 &nbsp;
@@ -63,7 +63,7 @@ from oppression to liberation.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 You teach us in Your Torah, 
 in the portion Jews read this Shabbat:[foot]Parashat Shlaḥ (Numbers 13:1-15:41)[/foot]
 &nbsp;
@@ -74,7 +74,7 @@ to be your God."[foot]Numbers 15:41[/foot]
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 &nbsp;
 אשר הוצאתי אתכם. עַל מְנָת כֵּן פָּדִיתִי אֶתְכֶם 
@@ -82,7 +82,7 @@ to be your God."[foot]Numbers 15:41[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 You teach us in through the words of the medieval Jewish sage, Rashi:[foot]<a href="https://www.sefaria.org/Rashi_on_Numbers.15.41.3?lang=bi&with=all&lang2=en">Rashi on Numbers 15:41</a>, quoting Sifrei Bamidbar 115:1.[/foot]
 &nbsp;
 "On this condition I redeemed you: 
@@ -91,12 +91,12 @@ That you would accept My laws upon yourselves."[foot]Cf. Sifrei Bamidbar 115:1.[
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 God, 
 You have taught us that freedom from human servitude 
 means the obligation to serve You. 
@@ -109,12 +109,12 @@ would never resemble Mitsrayim.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 In Mitsrayim, 
 the majority feared and suspected a minority, 
 and subjected them to enslavement and violence. 
@@ -127,12 +127,12 @@ and to delight in the many cultures of Your creations.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 In Mitsrayim, 
 the majority’s hatred and denigration of a foreign minority 
 justified ripping babies out of the arms of their parents. 
@@ -144,12 +144,12 @@ and to ensure that they are safe in the arms of their families.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 In Mitsrayim, 
 Pharaoh, an autocratic and narcissistic leader 
 subjugated both his own people and foreigners, 
@@ -162,7 +162,7 @@ for we are all equal in Your sight.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 &nbsp;
 עֹשֶׂה מִשְׁפָּט לָעֲשׁוּקִים 
@@ -171,7 +171,7 @@ for we are all equal in Your sight.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 In the words of the Psalms:
 &nbsp;
 You secure justice for the oppressed, 
@@ -181,25 +181,25 @@ and set free those who are imprisoned.[foot]Psalms 146:7.[/foot]
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 וְהָלַכְתָּ בִּדְרָכָיו׃ <span class="citation">(דברים כח:ט)</span>
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 You have commanded us in your Torah, 
 to walk in your ways.[foot]Deuteronomy 28:9.[/foot]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 We thank you, God, 
 for the opportunity and the obligation to serve You. 
 We thank you 
@@ -211,12 +211,12 @@ for all people in this land.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ברוך אתה ה׳ מלך אוהב צדקה ומשפט׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Blessed are you, Adonai, who loves justice and righteousness.
 </div></td></tr>
 </tbody></table>

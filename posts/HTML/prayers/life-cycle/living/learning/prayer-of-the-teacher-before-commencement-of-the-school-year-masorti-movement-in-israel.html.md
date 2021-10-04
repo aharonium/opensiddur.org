@@ -11,23 +11,23 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (Spanish)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="33%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 תפילת המורה לפני פתיחת שנת הלימודים
 </span></div></td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="spanish"><span lang="es">
+<div class="spanish" lang="es">
 <u>Oración de los maestros antes del inicio del año escolar</u>
 </span></div></td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 <u>Prayer of the teacher before commencement of the school year</u>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="33%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֱלֹהַי
 הַנּוֹתֵן לָאָדָם דַּעַת וּמְלַמֵּד לֶאֱנוֹשׁ בִּינָה,
 תֵּן בִּי הַכֹּחַ לְהַבִּיט אֶל לִּבּוֹת תַּלְמִּידַי
@@ -41,7 +41,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="spanish"><span lang="es">
+<div class="spanish" lang="es">
 Dios,
 Que concedes a las personas sabiduría y discernimiento,
 Danos la posibilidad de llegar a los corazones de nuestros alumnos 
@@ -53,7 +53,7 @@ Y de cuidar y respetar a nuestros alumnos, en cuerpo y alma.
 </span></div></td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 My <em>elo'ah</em>,
 who imparts a person with knowledge and teaches us wisdom,
 kindly grant me the ability to see into the hearts of my students, 
@@ -68,7 +68,7 @@ May the words of our Sages be true of me:
 
 
 <tr><td style="vertical-align:top;" width="33%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 חַזְּקֵנוּ
 אֱלֹהֵינוּ וְלַמְּדֵנוּ
 שֶׁנַּצְלִּיחַ שֶׁיְּהֵא הַבַּיְשָׁן לָמֵד,
@@ -79,7 +79,7 @@ May the words of our Sages be true of me:
 </span></div></td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="spanish"><span lang="es">
+<div class="spanish" lang="es">
 &nbsp;
 &nbsp;
 Permítenos reconocer que cada niña y cada niño son diferentes y especiales. Y danos sabiduría, paciencia y amor para poder educar a cada uno de ellos según sus características. 
@@ -87,7 +87,7 @@ Danos fuerzas para poder superar los momentos difíciles de esta tarea. Y que te
 </span></div></td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 Fortify us,
 our <em>elo'ah</em>, and teach us,
 so that we may succeed in encouraging the shy one to study, 
@@ -100,7 +100,7 @@ as it is written: “From all my teachers I have gained wisdom.”[foot]Psalms 1
 
 
 <tr><td style="vertical-align:top;" width="33%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְּהִי רָצוֹן מִלְּפָנֶיךָ
 ה׳ אֱלֹהַי, שֶׁלֹּא יֶאְרַע דְבַר תַּקָּלָה עַל יָדִּי, 
 וְיִּשְׂמְחוּ בִּי חֲבֵרַי, עֲמִּיתַי וְתַלְמִּידַי,
@@ -114,7 +114,7 @@ as it is written: “From all my teachers I have gained wisdom.”[foot]Psalms 1
 </span></div></td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="spanish"><span lang="es">
+<div class="spanish" lang="es">
 Sea Tu voluntad, 
 Dios nuestro, Que disfrutemos siempre de esta hermosa vocación 
 en compañía de nuestros colegas y alumnos
@@ -127,7 +127,7 @@ y de mis alumnos más que de todos ellos juntos."
 </span></div></td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 May it be your will,
 YHVH my <em>elo'ah</em>, that no offence may occur through me, 
 and may my friends, colleagues and students rejoice in me.
@@ -142,19 +142,19 @@ and even when they are old, they will not depart from it.[foot]Proverbs 22:6[/fo
 
 
 <tr><td style="vertical-align:top;" width="33%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה, 
 שׁוֹמֵעַ תְּפִּלָּה.
 </span></div></td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="spanish"><span lang="es">
+<div class="spanish" lang="es">
 Bendito Eres Tú, 
 que escuchas nuestras oraciones.
 </span></div></td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 Blessed are you, 
 who listens to prayer.
 </div></td></tr>

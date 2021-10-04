@@ -11,136 +11,136 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Acrostic Initials (Hebrew)</th><th style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;"><a href="/contributing/upload/">Contribute a translation</a></th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 אב״ג 
 ית״ץ
 </span></div></td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אַדִירְיַרוֹן בַהִירְיָרוֹן גְבִירְיַרוֹן 
 יִגְבָּהְיָה תְּלַמְיָה צְתַנְיָה 
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 קר״ע 
 שט״ן
 </span></div></td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 קְרַמְיָה רְגַרְיָה עַדִירְיָה 
 שְׁגַנְיָה טְלַטְיָה נְהַרְיָה 
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 נג״ד 
 יכ״ש
 </span></div></td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 נִשְׁמַרְיָה גְעַרְיָה דוֹהַרְיָה 
 יְעַלְיָה כַסְיָה שִׁיגְיוֹנָה 
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 בט״ר 
 צת״ג
 </span></div></td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 (פ)בוֹעֶלְיָה טוֹרֶדְיָה רַמְיָא 
 צַצְצִיָה (נְ)תְּהַבְהִיָה גַלְגַלְיָה 
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 חק״ב 
 טנ״ע
 </span></div></td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 חַנַנְיָה קָתְקַיָה בְּהַוְ־הוֹוַיָה 
 [טַוְטַהְיָה (עַ)נְגְנִיָה עַמְמָיָה] 
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 יג״ל 
 פז״ק
 </span></div></td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְדָל־שַׂרְיָה גוֹרְרְיַה לְמֵימַרְיָה 
 פְּקוֹדְקַדְיָה זוֹהָר־זְהַרְיַה קַוֹוְלַיָה 
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 שק״ו 
 צי״ת
 </span></div></td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שַׁתְהוֹדַרְיָה קְדוֹשְיָה וְהַאֵלְ־אִלְיָה 
 צַעְדֵיָה יָהְ־הַרְיָה תַּמְתִילְיָה 
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 
 </span></div></td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 והיה ניהויה חוֹנַנְיָה קַתְקַיָה וְהָאֵל־אִלְיָה וָיְהוַה יה׃ 
 בָּרוּךְ שֵׁם כְּבוֹד מַלְכוּתוֹ לְעוֹלָם וָעֶד:‏
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 
 </div></td></tr>
 </tbody></table>
@@ -153,7 +153,7 @@ For more on the 42 letter divine name and the piyyutim, including Ana B'Khoaḥ,
 
 <blockquote>The general genre of piyyutim or texts containing the 42 letter name as an acrostic is first seen, albeit in a magical and philosophical manner, in Sefer HaKanah (attributed to Nehunia b. Hakanah)....in Sefer Peliah, the author claims that the letters of the name of 42 actually correspond to the names of angels: “Now listen to these things for these letters of the name of 42, out of each letter comes an active angel from the power of the name…”[foot]ספר הקנה- ד"ה סוד של מ"ב אותיות:[/foot] Though the list of these names cited in Sefer HaKanah is not a piyyut, it could be thought of as a sort of text....In this, the first reference to the name of 42 from Sefer HaKanah, the name becomes a series of rashi teivot for the names of angels. The order of the names is also not exactly the same as in the conventional name of 42. It is the same in the beginning bit ends up being quite different, with many yods, vavs and hehs thrown in. Also, it seems to go way beyond 42 words....Sefer Peliah also begins by citing a similar list of angels that correspond to the letters of the name....Following this [...] Sefer Peliah recounts a piyyut which it recommends saying instead of the name itself....It is quite likely, as stated above, that this piyyut in Sefer Peliah is the first instance of a prayer being written based on the name of 42. My research is by no means exhaustive, however, I have not come across a piyyut written based on the name of 42 in any text which predate Sefer Peliah. Now that we have found a probable source for this practice, let us turn briefly to a discussion of the significance of this divine name. In another section of Sefer Peliah it equates every six letter unit with one of the planets. It puts forth the idea that each six letter unit is able to draw extraordinary power to the individual from the planet to which it corresponds:
 
-<div class="hebrew">המ״ב אותיות היוצאים מהם אב״ג ית״ץ ושאר הו׳ שמות תמצאו כל כחות של ז׳ כוכבי לכת איך מתפשטים עליהם הכוחות מכח שם יהו״ה וי״ס ומכח שם בן מ״ב והם ראשי פרקים. וכאשר תחפוש במקרא תמצא לכ״א וא׳ פסוקים מן התורה והם הם ראשי פרקים של הכוחות ויהיו תמיד לעיניך ובהם יודע כל עתיד בשם יהו״ה אדנ״י יתברך ויתעלה:
+<div class="hebrew" lang="he">המ״ב אותיות היוצאים מהם אב״ג ית״ץ ושאר הו׳ שמות תמצאו כל כחות של ז׳ כוכבי לכת איך מתפשטים עליהם הכוחות מכח שם יהו״ה וי״ס ומכח שם בן מ״ב והם ראשי פרקים. וכאשר תחפוש במקרא תמצא לכ״א וא׳ פסוקים מן התורה והם הם ראשי פרקים של הכוחות ויהיו תמיד לעיניך ובהם יודע כל עתיד בשם יהו״ה אדנ״י יתברך ויתעלה:
 
 אב״ג ית״ץ רקיע שבתי שבתי וארצו. ושמטתו ויובל יום אחד. עין ימין. וחיים. ימים. שבת. חודש:
 קר״ע שט״ן רקיע צדק. צדק וארצו, ושמטתו ויובל יום שני. עין שמאל, ושלום. ימים. שבת. חודש:

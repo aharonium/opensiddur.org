@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֲבוֹתַי כִּי בָטְחוּ, בְּשֵׁם אֱלֹהֵי צוּרִי. 
 גָּדְלוּ וְהִצְלִיחוּ, וְגַם עָשׂוּ פֶרִי. 
 וּמֵעֵת הֻדָּחוּ, וְהָלְכוּ עִמּוֹ קֶרִי. 
@@ -19,7 +19,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 When our forefathers trusted in the name of our <em>elo'ah</em>, my Creator, 
 they rose and prospered, and also saw the fruits of their works; 
 but since they were seduced from him, and walked contrary unto him, 
@@ -28,7 +28,7 @@ they have gone on decreasing until the tenth month.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בְּעָשׂוֹר לַחֹדֶשׁ, סָמַךְ מֶלֶךְ בָּבֶל. 
 וְצָר עַל עִיר הַקֹּדֶשׁ, וְנִקְרַב רַב הַחֹבֵל. 
 נֻתַּתִּי הָדֵשׁ, וִעֻנֵּיתִי בַכֶּבֶל. 
@@ -36,7 +36,7 @@ they have gone on decreasing until the tenth month.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 On the tenth of the month the King of Babylon advanced 
 towards the holy city, and besieged it, and his general,[foot]Nebusaradon.[/foot] 
 the great destroyer, approached, and I was given up to destruction.
@@ -45,7 +45,7 @@ I was afflicted with fetters, and therefore my harp is this month turned into mo
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רֵאשִׁית בִּכּוּרָה, לְרֵאשִׁית הַחֵרֶם. 
 שֵׁם אֲחֵרִים הִזְכִּירָה, וְהֶעָוֺן גּוֹרֵם. 
 פְּנֵי אֵל לֹא הִכִּירָה, וְשֻׁטְּפָה בְּזֶרֶם. 
@@ -53,7 +53,7 @@ I was afflicted with fetters, and therefore my harp is this month turned into mo
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Once designated as the firstborn, [Yisrael] became the chief of those to be destroyed. 
 He mentioned the names of other gods, and this sin caused misfortune. 
 He did not acknowledge El, and for that he was swept away by the storm. 
@@ -62,7 +62,7 @@ He was seized with travails as a woman who brings forth her first child, what ti
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הָאֱלֹהִים הֵבִיא, יוֹם רָעָה וּמָצוֹר. 
 צִוָּה צָרַי סְבִיבִי, עוֹלָלַי לִנְצֹר. 
 יוֹם הֵרַךְ לְבָבִי, וְאֵין כֹּחַ לַעֲצֹר. 
@@ -70,7 +70,7 @@ He was seized with travails as a woman who brings forth her first child, what ti
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Elohim brought the day of calamity and siege; 
 he commanded my enemies round about me to destroy my babes. 
 On that day my heart fainted, and I had no strength left 
@@ -79,7 +79,7 @@ when he said unto the prophet,[foot]Ezek. 24:3.[/foot] "Utter a parable unto the
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִיּוֹשְׁבֵי שַׁעַר הֶעֱבִיר אַדֶּרֶת. 
 חֲמָתוֹ כָּאֵשׁ הִבְעִיר וְהֵרִים עֲטֶרֶת. 
 וּמִלְּבָנוֹן יַעַר הִשְׁלִיךְ תִּפְאֶרֶת. 
@@ -87,7 +87,7 @@ when he said unto the prophet,[foot]Ezek. 24:3.[/foot] "Utter a parable unto the
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 He stripped the judges in the gates of their robes; 
 his wrath burnt like fire, and he deprived us of our crown, 
 and cast down the beauty of the wood of Lebanon, 
@@ -96,7 +96,7 @@ and from a windy storm and tempest the hair of my flesh stood up.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יָפְיָפִית נִמְשַׁלְתְּ, וְעַתָּה קְדוֹרַנִּית. 
 בֶּעָוֺן כִּי כָשַׁלְתְּ, וְלִבֵּךְ אֲחוֹרַנִּית. 
 זִנְּבוּךְ וְנֶחֱשַׁלְתְּ, רִאשׁוֹנָה וְשֵׁנִית. 
@@ -104,7 +104,7 @@ and from a windy storm and tempest the hair of my flesh stood up.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Formerly you were likened to the most beautiful, [Yisrael], and now you are mournful, 
 because of the iniquity by which you have stumbled, and thereby your heart has turned back. 
 The enemy attacked you in the back, and you were weakened, the first and the second time, 
@@ -113,7 +113,7 @@ and your wound was not bound up, not the least balm was administered to you.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 צַדִּיק הַצּוּר תָּם, נְשׂוֹא עָוֹן נִלְאָה. 
 מִכְּרוּב לְמִפְתָּן, לְפִנַּת גַג דָּאָה. 
 מֵעָוֹן הַנִּכְתָּם, וִצַעֲקָתָם בָּאָה. 
@@ -121,7 +121,7 @@ and your wound was not bound up, not the least balm was administered to you.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 The Righteous, the Rock who is perfect, was weary to bear with our iniquities; 
 from the kerub on the holy ark he flew first to the threshold of the Temple, 
 and then to the corner of the roof, because of the sins which stain Israel, whose cry rose to him; 
@@ -130,7 +130,7 @@ yea, their wickedness increased as a tree that yields fruit.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 חִזֵּק כָּל קָמַי תּוֹכֵן הָעֲלִילוֹת. 
 כִּי מָלְאוּ יָמַי בְּרֹעַ מִפְעָלוֹת. 
 וּמִבּשֶׁת עֲלוּמַי שָׁכַחְתִּי גְמוּלוֹת. 
@@ -138,7 +138,7 @@ yea, their wickedness increased as a tree that yields fruit.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 He who counts deeds, hardens all my adversaries; 
 for I spent my days in misdeeds, 
 and as a disgrace to my youth, 
@@ -147,7 +147,7 @@ I forgot the benefits of him who fed and clothed me.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 קָמַי פִּיהֶם פָּעֲרוּ, וְנַחֲלָתִי בִּלֵּעוּ. 
 מְאֹד עָלַי גָבָרוּ, וְדָמִי שָׁתוּ וְלָעוּ. 
 נָכְרִים עָלַי צָרוּ, וְאֶת אַחַי הֵרֵעוּ. 
@@ -155,7 +155,7 @@ I forgot the benefits of him who fed and clothed me.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 My adversaries opened their mouths and swallowed mine inheritance, 
 they prevailed against me, and drank and sucked my blood; 
 heathen besieged me, and ill-treated my brethren. 
@@ -164,7 +164,7 @@ heathen besieged me, and ill-treated my brethren.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָמְרוּ לְכוּ נְכַלֵּם, וְנַשְׁבִּיתָה זִכְרָם. 
 אֵל קַנֹּא וְנוֹקֵם, גָּמְלֵם יִשְׂאוּ אֶת שִׁבְרָם. 
 כְּמַעֲשֵׂיהֶם שַׁלֵּם, וְיֵבוֹשׁוּ מִשִּׂבְרָם. 
@@ -172,7 +172,7 @@ heathen besieged me, and ill-treated my brethren.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 They said, “Come, and let us consume them, that their memory may cease.” 
 O jealous and avenging El, reward them, let them expiate their destruction; 
 reward them according to their deeds, and let them be ashamed of their hope, 
@@ -181,7 +181,7 @@ even as Pharaoh’s baker, who dreamt of the three white baskets.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 פְּצָעַי לֹא רֻכָּכָה, וְחַבּוּרוֹתַי רֶצַח. 
 וְעֵינַי הֻכְהָה, צוֹפֶה לְדוֹדִי צַח. 
 הַעוֹד לֹא שָׁכָכָה, חֲמָתוֹ לָנֶצַח. 
@@ -189,7 +189,7 @@ even as Pharaoh’s baker, who dreamt of the three white baskets.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 My wounds and murderous bruises have not been mollified, 
 and mine eye which looks toward Hashem is darkened. 
 Is his wrath not yet appeased? Is it to endure for ever? 
@@ -198,7 +198,7 @@ Why has he done so, and why this anger?
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רַחוּם זֶה אֵלִי, אַל לָעַד תִּזְנַח. 
 אָרְכוּ יְמֵי אֶבְלִי, וְעוֹד לִבִּי נֶאֱנַח. 
 שׁוּבָה אֵל לְאָהֳלִי, מְקוֹמְךָ אַל תַּנַּח. 
@@ -206,7 +206,7 @@ Why has he done so, and why this anger?
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 My merciful El -- El do not forsake me for ever; 
 the days of my mourning have been greatly prolonged, and still my heart is sighing; 
 return, El, unto my tent, and forsake no more your dwelling; 
@@ -215,7 +215,7 @@ reward me for the days of my mourning when you come to appoint my wages.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְיָ מְנָת חֶלְקִי, חוּשָׁה לִּי לְעֶזְרָה. 
 וּפִתַּחְתָּ שַׂקִּי, שִׂמְחָה לִי לְאַזְרָה, 
 וְתַגִּיהַּ אֶת חָשְׁכִּי, בְּאוֹרְךָ לְהָאִירָה. 
@@ -223,7 +223,7 @@ reward me for the days of my mourning when you come to appoint my wages.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 YHVH, my portion! hasten to be my help; 
 divest me of my sackcloth, and gird me with joy; 
 enlighten my darkness, and let your light shine upon the night 
@@ -232,7 +232,7 @@ of my pleasure, for you are my light.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִיָגוֹן וַאֲנָחָה, פְּדֵה אֵל אֶת נַפְשִׁי. 
 עֲשֵׂה לְעַמְּךָ הֲנָחָה, מַלְכִּי וּקְדוֹשִׁי. 
 תַּהֲפךְ לָרְוָחָה, אֶת צוֹם הַחֲמִישִׁי. 
@@ -240,7 +240,7 @@ of my pleasure, for you are my light.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Redeem, Hashem, my soul from sorrow and sighing; 
 procure relief for your people, my king and holy one. 
 Turn into release the fast of the fifth month, 

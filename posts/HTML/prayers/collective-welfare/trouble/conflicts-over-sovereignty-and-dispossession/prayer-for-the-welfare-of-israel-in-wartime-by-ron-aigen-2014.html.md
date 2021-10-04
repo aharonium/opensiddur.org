@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 צור ישראל וגואלו, 
 שומר הברית--
 ברך והגן על מדינת ישראל
@@ -19,7 +19,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Rock and Redeemer of the People of Israel,
 Guardian of the Covenant --
 bless and protect the State of Israel 
@@ -28,7 +28,7 @@ and all of her inhabitants.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שמור על הארץ הטובה הזאת
 המושתתת על יסודות החרות,
 הצדק והשלום
@@ -36,7 +36,7 @@ and all of her inhabitants.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Guard this good land 
 established with liberty, 
 justice and peace
@@ -45,7 +45,7 @@ as conceived by the Prophets of Israel.[foot]“established with liberty, justic
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 פתח לבבות 
 מנהיגי העם,
 בניה ובנותיה
@@ -54,7 +54,7 @@ as conceived by the Prophets of Israel.[foot]“established with liberty, justic
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Open the hearts and minds[foot]Open up the hearts and minds—based on Deuteronomy 30:6.[/foot]
 of all the leaders of the nation, 
 her sons and her daughters,
@@ -64,7 +64,7 @@ with true strength and wisdom.[foot]“Real strength is found in restraint and w
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 חזק את ידי מגני ארץ קדשנו
 ועטרת נצחון תעטרם.
 תן להם אומץ לב
@@ -73,7 +73,7 @@ with true strength and wisdom.[foot]“Real strength is found in restraint and w
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Strengthen the hands of those who defend and protect our holy land,
 and crown their efforts with success
 Grant them courage
@@ -83,7 +83,7 @@ free from all oppression and fear.[foot]based on Isaiah 54:14.[/foot]
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מי יתן ומעשה ידיהם כוננה
 להגשים את דברי נביאיך:
 וכתתו חרבותם לאתים
@@ -93,7 +93,7 @@ free from all oppression and fear.[foot]based on Isaiah 54:14.[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May the work of their hands be established
 And the words of Your prophets be fulfilled:
 “And they shall beat their swords into plowshares,
@@ -104,12 +104,12 @@ nor shall they learn war anymore.”[foot]Isaiah 2:4, Micah 4:3.[/foot]
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אמן.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <em>Amen.</em>
 </div></td></tr>
 </tbody></table>

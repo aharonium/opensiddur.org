@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;"><a href="https://opensiddur.org/contributing/upload/">Contribute a translation</a></th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" >
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ברוך אתה 
 יי אלהינו 
 מלך העולם 
@@ -21,13 +21,13 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" >
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" >
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָגִיל
 גִּ֯ילָה וְאָשִׁיר שִׁירָה
 <blockquote>אַחַר מְזוֹנִי אֲפָאֵר בְּתִפְאָרָה
@@ -45,36 +45,36 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" >
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" >
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ונאמר: פותח את ידך 
 ומשביע לכל חי רצון <span class="citation">(תהלים קמה:טז)</span>
 </span></div></td>
  
 <td style="vertical-align:top;" >
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" >
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ברוך אתה יי הזן את הכל.
 </span></div></td>
  
 <td style="vertical-align:top;" >
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" >
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 נודה לך יי אלהינו 
 על שהנחלת לאבותינו 
 ארץ חמדה טובה ורחבה 
@@ -83,13 +83,13 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" >
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" >
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָגִיל
 רִ֯נּוּנִים וְאֶעֱלֹס עִלּוּסִים
 <blockquote>בְּהַזְכִּירִי דִבְרֵי בְנוֹתַי לְבָנַי הַמִּתְנוֹסֲסִים
@@ -107,36 +107,36 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" >
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" >
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ונאמר: ואכלת ושבעת וברכת את יי אלהיך 
 על הארץ הטֹבה אשר נתן לך <span class="citation">(דברים ח:י)</span>
 </span></div></td>
  
 <td style="vertical-align:top;" >
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" >
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ברוך אתה יי על הארץ ועל המזון.
 </span></div></td>
  
 <td style="vertical-align:top;" >
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" >
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רחם יי אלהינו 
 על ישראל עמך 
 ועל ירושלים עירך 
@@ -146,13 +146,13 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" >
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" >
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָגִיל
 אֲ֯הָבִים וְאֶעֱרֹג בְּרֹן
 <blockquote>בְּהַעֲלוֹתִי עַל־לִבִּי מְקוֹם הָאָרוֹן
@@ -170,36 +170,36 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" >
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" >
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ונאמר: בונה ירושלם יי נדחי ישראל יכנס <span class="citation">(תהלים קמז:ב)</span>
 </span></div></td>
  
 <td style="vertical-align:top;" >
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" >
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ברוך אתה יי בונה ברחמיו ירושלים. 
 אמן.
 </span></div></td>
  
 <td style="vertical-align:top;" >
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" >
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ברוך אתה 
 יי אלהינו 
 מלך העולם 
@@ -214,7 +214,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" >
-<div class="english">
+<div class="english" lang="en">
 
 </span></div></td></tr>
 </tbody></table>

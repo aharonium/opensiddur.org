@@ -11,12 +11,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source(English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 How lovely are these tents![foot]Numbers 24:5[/foot] 
 not far from housing that has seen better days
 and housing that has seen too many awful ones.
@@ -24,24 +24,24 @@ and housing that has seen too many awful ones.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 I love the place of Your house, reached through streets
 collecting cigarette butts, the odd chicken wing, echoes of homicide.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Through Your abundant love, I enter Your house,
 where these peaceful walls remind us: “If I am for myself alone, what am I?”[foot]Hillel the Elder, Pirkei Avot 1:14[/foot] 
 while a few miles away homes reel from gunshots and mourning,
@@ -51,12 +51,12 @@ Meetings and vigils and “let this be the last.”
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 My prayer seeks a favorable time –
 Does joy come in the morning, where weeping has not tarried for the night?
 Can we dance together, if we have not yet joined in lament?
@@ -64,12 +64,12 @@ Can we dance together, if we have not yet joined in lament?
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 You answer with your saving truth:
 Your glory's dwelling-place spans mountain top and pit.
 We are shaken and we stand firm.

@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: left;">Source (Ladino)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="spanish"><span lang="es">
+<div class="spanish" lang="es">
 Ya komimos 
 i bevimos 
 i al Dyo 
@@ -24,7 +24,7 @@ i anyos, munchos i buenos para bivir.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 We have eaten 
 and we have drunk 
 and we have blessed the Holy One, --
@@ -38,7 +38,7 @@ and years, many and good ones, to live.
 
 
 <tr><td style="vertical-align:top;">
-<div class="spanish"><span lang="es">
+<div class="spanish" lang="es">
 El Padre el grande 
 ke mande al chiko, 
 asegun tenemos de menester 
@@ -47,7 +47,7 @@ i para muestros ijos.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May the Great Parent 
 send to the little one 
 according to our needs, 
@@ -57,7 +57,7 @@ and for our children.
 
 
 <tr><td style="vertical-align:top;">
-<div class="spanish"><span lang="es">
+<div class="spanish" lang="es">
 El Dyo mos oyga, 
 i mos aresponda 
 i mos apiade 
@@ -66,7 +66,7 @@ ke somos almikas sin pekado.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May God listen to us 
 and answer us 
 and may they forgive us 
@@ -76,7 +76,7 @@ for we are little souls without sin.
 
 
 <tr><td style="vertical-align:top;">
-<div class="spanish"><span lang="es">
+<div class="spanish" lang="es">
 Odu L'Adonai ki tov 
 ki leolam ḥasdo. <span class="citation">(תהלים קיח:א)</span>
 Odu L'Adonai ki tov 
@@ -84,7 +84,7 @@ ki leolam ḥasdo. <span class="citation">(תהלים קיח:כט)</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Give thanks to YHVH for their benevolence
 for their lovingkindness endures forever.[foot]Psalms 118:1.[/foot]
 Give thanks to YHVH for their benevolence
@@ -93,7 +93,7 @@ for their lovingkindness endures forever.[foot]Psalms 118:29.[/foot]
 
 
 <tr><td style="vertical-align:top;">
-<div class="spanish"><span lang="es">
+<div class="spanish" lang="es">
 Syempre mejor, 
 nunka peor, 
 nunka mos manke 
@@ -101,7 +101,7 @@ en la meza del Kriador.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Always better, 
 never worse, 
 may we never lack a thing 
@@ -110,12 +110,12 @@ at the table of the Creator.
 
 
 <tr><td style="vertical-align:top;">
-<div class="spanish"><span lang="es">
+<div class="spanish" lang="es">
 <em>Amen</em>.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <em>Amen</em>.
 </div></td></tr>
 </tbody></table>

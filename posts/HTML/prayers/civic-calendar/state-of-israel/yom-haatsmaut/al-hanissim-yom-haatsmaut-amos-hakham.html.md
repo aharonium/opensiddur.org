@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עַל הַנִּסִים 
 וְעַל הַפֻּרְקָן 
 וְעַל הַגְּבוּרוֹת 
@@ -24,7 +24,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 For the miracles
 and the relief
 and the mighty acts
@@ -38,14 +38,14 @@ at this time.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בַּיָּמִים אֲשֶׁר שְׁאֵרִית פְּלֵטַת יִשְׂרָאֵל 
 עַם שְֹרִידֵי חֶרֶב הַצָּר וְהָאוֹיֵב 
 מָצַא מָנוֹחַ בָּאָרֶץ אֲשֶׁר נִשְׁבַּעְתָּ לַאֲבוֹתֵינוּ לָתֵת לָנוּ
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 In the days when the remnant of Israel's refugees 
 the nation of survivors of the adversary and enemy’s sword[foot]cf. Esther 7:6. A reference to the survivors of the Holocaust.[/foot]
 found rest in the Land that you swore to our ancestors to give to us 
@@ -53,7 +53,7 @@ found rest in the Land that you swore to our ancestors to give to us
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְנוֹסְפוּ עַל בְּנֵי יִשְׂרָאֵל הַיּוֹשְׁבִים שָׁם מִלְּפָנִים,
 יַחַד כֻּלָּם בִּקְּשׁוּ לִפְרֹק מֵעֲלֵיהֶם
 עֹל מַלְכוּת זָדוֹן הַשּׁוֹלֶטֶת בָּאָרֶץ
@@ -61,7 +61,7 @@ found rest in the Land that you swore to our ancestors to give to us
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Together with the Israelites dwelling their from before[foot]A reference to the Jewish immigrants and refugees who had <a href="https://en.wikipedia.org/wiki/Aliyah">settled in Erets Yisrael</a> in its initial pre-statehood period of settlement.[/foot]&nbsp;
 they sought to remove from themselves
 the yoke of the wicked kingdom that governed the Land[foot]"the wicked kingdom," a reference to the British Empire in its administration of <a href="https://en.wikipedia.org/wiki/Mandatory_Palestine">Mandatory Palestine</a>, a geopolitical entity established between 1920 and 1948 in the region of Palestine under the terms of the <a href="https://en.wikipedia.org/wiki/Mandate_for_Palestine">Mandate for Palestine</a>.[/foot]&nbsp; 
@@ -70,7 +70,7 @@ and to found the State of Israel (<em>Medinat Yisrael</em>)
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אַז נוֹעֲצוּ יַחְדָּו בְּנֵי יִשְׁמָעֵאל 
 יוֹשְׁבֵי הָאָרֶץ וְהָאֲרָצוֹת אֲשֶׁר מִסָּבִיב לָהּ
 וְאָמְרוּ קוּמוּ וְנָקוּמָה לַמִּלְחָמָה
@@ -79,7 +79,7 @@ and to found the State of Israel (<em>Medinat Yisrael</em>)
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Then, the Ishmaelites took council together --
 (those) inhabiting the Land and the lands around her[foot]i.e. Arab political leaders within Mandatory Palestine and the Arab nations established under the <a href="https://en.wikipedia.org/wiki/Partition_of_the_Ottoman_Empire">partition of the Ottoman Empire</a>.[/foot] --
 and said, "Let us rise up and go out to war
@@ -89,7 +89,7 @@ so that Israel will no longer be remembered."
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְאַתָּה בְּרַחֲמֶיךָ הָרַבִּים
 הֵפַרְתָּ אֶת עֲצָתָם
 וְקִלְקַלְתָּ אֶת מַחְשַׁבְתָּם
@@ -100,7 +100,7 @@ so that Israel will no longer be remembered."
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And in your manifold compassion
 you nullified their plans
 and confused their thoughts 
@@ -112,27 +112,27 @@ and expelled them from the border of Israel
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְעָשִׂיתָ לְעַמְּךָ תְּשׁוּעָה גְּדוֹלָה
 וּלְךָ עָשִׂיתָ שֵׁם גָּדוֹל וְקָדוֹשׁ בְּעוֹלָמְךָ.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And you made a great salvation for your people 
 and you made a great and holy name in your world.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עַל כֵּן קִיְּמוּ וְקִבְּלוּ עֲלֵיהֶם בְּנֵי יִשְׂרָאֵל
 לַעֲשׂוֹת אֶת יוֹם חֲמִשָּׁה לַחֹדֶשׁ הַשֵּׁנִי
 הוּא חֹדֶשׁ אִיָּר
 לְיוֹם שִׂמְחָה וְהַלֵּל וְהוֹדָיָה.
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Therefore, the Israelites ordained and took upon themselves 
 that they would make the fifth day of the second month, 
 that is the month of Iyyar,
@@ -141,7 +141,7 @@ for a day of joy and praise and thanksgiving.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּכְשֵׁם שֶׁעָשִׂיתָ עִמָּנוּ אֶת הַתְּשׁוּעָה הַזֹּאת
 כֵּן תּוֹסִיף לְהוֹשִׁיעֵנוּ
 וְתִגְאֲלֵנּוּ גְּאֻלָּה שְׁלֵמָה
@@ -149,7 +149,7 @@ for a day of joy and praise and thanksgiving.
 סֶלָה.
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 And just as you made this salvation for us, 
 so will you add to our salvation
 and you will redeem us with a complete redemption

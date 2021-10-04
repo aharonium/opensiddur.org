@@ -14,7 +14,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְהָיָה 
 אִם שָׁמֹעַ 
 תִּשְׁמְעוּ 
@@ -27,7 +27,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 וּבְכָל נַפְשְׁכֶם׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 &nbsp;
 Im Sh-Sh-Sh-Sh'mo-a
 Tish’sh’sh’sh’ma-u:
@@ -39,7 +39,7 @@ If you Breathe in my quiet,
 Interbreathe with all Life
 Still small Voice of us all ----
     </div></td></tr>
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
 וְנָתַתִּי 
 מְטַר אַרְצְכֶם 
 בְּעִתּוֹ יוֹרֶה וּמַלְקוֹשׁ, 
@@ -50,7 +50,7 @@ Still small Voice of us all ----
 וְאָכַלְתָּ וְשָׂבָעְתָּ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 You will feel the Connections;
 You will make the connections
 And the rain will fall rightly
@@ -60,20 +60,20 @@ So you and all creatures
 Will eat well in harmony,
 Earthlings / good Earth.
     </div></td></tr>
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
 הִשָּׁמְרוּ לָכֶם פֶּן יִפְתֶּה לְבַבְכֶם, 
 וְסַרְתֶּם 
 וַעֲבַדְתֶּם אֱלֹהִים אֲחֵרִים 
 וְהִשְׁתַּחֲוִיתֶם לָהֶם׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 But if you break the One Breath into pieces
 If you erect into idols these pieces of Truth,
 Bowing down to Big Oil, to Big Coal –
 If you heat my Breath with your burnings --
     </div></td></tr>
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
 וְחָרָה אַף יְיָ 
 בָּכֶם 
 וְעָצַר אֶת הַשָּׁמַיִם 
@@ -85,7 +85,7 @@ If you heat my Breath with your burnings --
 אֲשֶׁר יְיָ נֹתֵן לָכֶם׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Then my Breath will flare up into scorching,
 The corn will parch in the field,
 The poor will find little to eat,
@@ -94,7 +94,7 @@ Will become a Hurricane of Disaster:
 Floods will drown your cities,
 My Wind will tear down your Power.
     </div></td></tr>
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
 &nbsp;
 וְשַׂמְתֶּם אֶת דְּבָרַי אֵלֶּה עַל לְבַבְכֶם וְעַל נַפְשְׁכֶם, וּקְשַׁרְתֶּם אֹתָם לְאוֹת עַל יֶדְכֶם וְהָיוּ לְטוֹטָפֹת בֵּין עֵינֵיכֶם: 
 
@@ -102,7 +102,7 @@ My Wind will tear down your Power.
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 What must you do?
 Connect what you see with your eyes
 To what you do with your hands.
@@ -120,7 +120,7 @@ Then the grass will grow,
 The forests will flourish,
 And all life will weave the future in fullness.
     </div></td></tr>
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
 לְמַעַן יִרְבּוּ 
 יְמֵיכֶם וִימֵי בְנֵיכֶם 
 עַל הָאֲדָמָה 
@@ -130,7 +130,7 @@ And all life will weave the future in fullness.
 עַל הָאָרֶץ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Then <em>eysh</em> and <em>mayim</em>,
 Will join in <em>shamayim</em>:
 Fire and water,

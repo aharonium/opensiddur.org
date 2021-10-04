@@ -12,7 +12,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֱלֹהֵינוּ שֶׁבַּשָּׁמַיִם,
 יוֹצֵר כָּל בָּשָׂר 
 וּמַפְלִיא לַעֲשוֹת,
@@ -30,7 +30,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 וְהָיְתָה מְעִי מַפָּלָה׃״ <span class="citation">(ישעיה יז:א)</span>
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Our God in Heaven,
 Creator of all flesh 
 and maker of wonders,
@@ -51,13 +51,13 @@ and shall become a ruinous heap.”[foot]Isaiah 17:1[/foot]
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 וְאַתָּה, שֶּׁצִּוִּיתָנוּ בְּדִבְרֵי קָדְשְׁךָ לֵאמֹר: 
 "לֹא תַעֲמֹד עַל דַּם רֵעֶךָ, אֲנִי ה׳" <span class="citation">(ויקרא יט:טז)</span> – 
 אֱמֹר לַמַּשְׁחִית: הֶרֶף!‏
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 And you, who commanded us with your holy words, saying 
 “You shall not stand idly by the blood of your neighbour: I am YHVH”[foot]Leviticus 19:16[/foot], 
 say now to the destroyer: “Cease!”
@@ -66,7 +66,7 @@ say now to the destroyer: “Cease!”
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 אָֽנָּא, אֱלֹהֵי הָרוּחוֹת לְכָל בָּשָׂר,
 עֲשֵה בְכֹחֲךָ הַגָּדוֹל 
 לַעֲצֹר אֶת שְׁפִיכוּת הַדָּמִים 
@@ -87,7 +87,7 @@ say now to the destroyer: “Cease!”
 וְנאֹמַר: אָמֵן.
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 We implore you, the God of the spirits of all flesh, 
 employ your mighty power 
 to halt the bloodshed 

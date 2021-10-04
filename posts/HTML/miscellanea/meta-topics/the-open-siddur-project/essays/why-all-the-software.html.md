@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english">
+<div class="english" lang="en">
 One question I've been asked a number of times about the Open Siddur Project is: why are you developing all that software?  It's a fair question.  After all, the siddur is just text.  There are other do-it-yourself siddur kits out there.  They sell you (or, more accurately, license you) a text.  You open the text in a word processor, make a few stylistic changes, and voila, you have your own custom siddur.  The "advanced" ones may even hand you one copy of a "nusaḥ Ashkenaz" siddur, one copy of a "nusaḥ Sefard" siddur, and one copy of a "nusaḥ Edot Hamizrah" siddur, giving you some choices.  All good, right?  So, once again, why does the Open Siddur need so much software?
 
 In actuality, there is no such thing as a single text called <em>the</em> Ashkenazic siddur, <em>the</em> Hasidic siddur, or <em>the</em> Sephardic siddur, etc.  A nusaḥ is a major division which uniquely specifies a common denominator of customs within a group of customs.  Within Ashkenaz, there are differences between the Polish and German customs.  The Iraqi custom is not the same as the Yemenite custom, and the Lubavitch custom is not the same as the Breslov custom.  There are also divisions within each rite along major the philosophical boundaries that have developed in recent centuries, which lead to differences in custom and text.  The traditional-egalitarian rite (usually a variant of the Ashkenazic rite), for example, is still undergoing major evolution.

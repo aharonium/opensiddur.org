@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 According to Rabbinic tradition, the 21st of Nissan is the day in the Jewish calendar on which Pharaoh's army was drowned in the Sea of Reeds, and the redeemed children of Yisrael sang the Song of the Sea, the (<em>Shirat Hayam</em>, Exodus 15:1-19). The song, as included in the the morning prayers, comprises one of the most ancient text in Jewish liturgy.
 
 The 21st of Nissan corresponds to the 7th day of Passover, and the recitation of the Shirat HaYam is part of the daily Torah Reading. Some Sepharadi communities recite a song in Ladino based on the <em>Shirat Hayam</em>, the Ketuba del Seten Dia de Pesah (the Marriage Contract of Yom Vayyosha/the Day of "Vayosha" after the opening word in Exodus 14:30). It is the custom of the Ḥassidei ḤaBaD to stay up all night learning (just as on Shavuot and Hoshana Raba). The day also corresponds with the 6th day of the Omer, <em>Yesod sheb'Ḥesed</em> (Foundation within Lovingkindness) in the order of the lower <em>sefirot</em> or creative emanations.
@@ -25,7 +25,7 @@ From Exodus, chapter 15:1-19. In the layout below which emulates the traditional
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="font-size: 1em;"><span lang="he">
+<div class="liturgy" lang="he" style="font-size: 1em;">
 <table style="direction: rtl; margin: auto;" width="675">
 <tr>
 <td colspan="12" width="100%"><div class="scribe" lang="he" style="text-align: justify; justify-content: space-between;">אָ֣ז יָשִֽׁיר־מֹשֶׁה֩ וּבְנֵ֨י יִשְׂרָאֵ֜ל אֶת־הַשִּׁירָ֤ה הַזֹּאת֙ לַֽיהֹוָ֔ה וַיֹּאמְר֖וּ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div></td>
@@ -223,7 +223,7 @@ From Exodus, chapter 15:1-19. In the layout below which emulates the traditional
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english" style="font-size: 1em;">
+<div class="english" lang="en" style="font-size: 1em;">
 <table style="direction: ltr; margin: auto;" width="675">
 <tr>
 <td colspan="12" width="100%" style="text-align: center;"><div>Then Moshe and the children of Yisrael sang this song to YHVH,</span>
@@ -422,13 +422,13 @@ From Exodus, chapter 15:1-19. In the layout below which emulates the traditional
 </div></td></tr>
 </tbody></table>
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 Any mention of rejoicing even at the cost of the death or injury of one's enemy must be tempered as all <em>Bnei Adam</em> are made <em>B'Tzelem Elohim</em> (with divine likeness). The Talmud Bavli Megillah 10b teaches,
 </div>
 
 <table style="margin: auto;">
 <tr><td style="vertical-align:top;" width="44%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רבי יהושע בן לוי פתח לה פיתחא להאי פרשתא מהכא 
 &nbsp;
  וְהָיָה כַּאֲשֶׁר־שָׂשׂ יְהוָה עֲלֵיכֶם לְהֵיטִיב אֶתְכֶם 
@@ -448,7 +448,7 @@ Any mention of rejoicing even at the cost of the death or injury of one's enemy 
 מעשה ידי טובעין בים ואתם אומרים שירה
 </div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <a href="https://en.wikipedia.org/wiki/Joshua_ben_Levi">Rebbi Yehoshua ben Levi</a> opened his discourse on this section with the following text:
 &nbsp;
 "And it shall come to pass that as YHVH rejoiced over you to do you good, 
@@ -468,27 +468,27 @@ The ministering angels wanted to sing their songs, but the blessed Holy One said
 'The work of my hands is being drowned in the sea, and shall you sing songs?'
 </td></tr></tbody></table>
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 Normally the manner in which we are enjoined to act is summed up in <a href="https://opensiddur.org/prayers/lunisolar/pilgrimage/sefirat-haomer/pirqei-avot-with-taamei-miqra-by-isaac-gantwerk-mayer/">Pirqei Avot</a> (4:19) by Shmuel Hakatan who quotes Mishlei/Proverbs:
 </div>
 
 <table style="margin: auto;">
 <tr><td style="vertical-align:top;" width="44%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בִּנְפֹל אויביך [אוֹיִבְךָ] אַל תִּשְׂמָח 
 וּבִכָּשְׁלוֹ אַל יָגֵל לִבֶּךָ.
 פֶּן יִרְאֶה יְהוָה וְרַע בְּעֵינָיו 
 וְהֵשִׁיב מֵעָלָיו אַפּוֹ. <span class="citation">(משלי כד:יז-יט)</span>
 </div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 When your enemy falls, do not rejoice; 
 when they stumble, let your heart not be gladdened. 
 Lest YHVH see and it will displeasing in their eyes 
 and Hashem will turn their wrath from your enemy [to you].[foot]Proverbs 24:17-18[/foot]
 </td></tr></tbody></table>
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 So how is it that The Song of the Sea is celebrated on this one day, the seventh of Passover? Our god is the god of light and the dark. Our understanding of the non-dual unity of G‽D embraces the reality of suffering in the world as well as our responsibility to challenge G‽D for permitting it. The one time in the year in which G‽D's divine aspect as <em>Mashkhit</em> (executioner) is dared invoked is on the night of Passover, during the telling of the Passover Haggadah, when G‽D is described through midrash as the Shekhina carrying her sword, protecting her people. The rest of the year we shun from invoking this aspect, I believe, because we want to beckon G‽D's lovingkindness and compassion (<em>ḥesed</em> and <em>raḥamim</em>) to overwhelm G‽D's attributes of justice and discipline (<em>din</em> and gevurah), even as these latter attributes were so key in the redemption of Bnei Yisrael from Mitzrayim and their birth as a people.
 
 In the worldview of Rabbinic Judaism that I know, the continued existence of this world (Olam Hazeh) is suspended in the balance of the deeds of humankind in their Nature. However the world tilts towards meriting destruction, the world is saved, moment after moment by virtue of our individual actions and those of other righteous individuals. Any invocation of divine justice and discipline is thus existentially dangerous. But on Passover, this invocation is permitted, because the invention of Bnei Yisroel is founded on the idea that its very identity as a people is only validated by it demanding justice and modelling loving, non-predatory consensual relationships, between all beings in the world. The continued existence of Olam Hazeh is thus bound up in the idea of an activist people helping to bend the history of the world towards justice through modeling compassion and loving-kindness.

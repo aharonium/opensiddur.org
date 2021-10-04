@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 Almost everyone who is Jewish knows that Kol Nidre is about releasing vows and has participated in the ceremony. Few know the parallel ritual done in small groups before Rosh Hashanah. Traditionally, right before Rosh Hashanah one performs this simple ritual with three friends, each in turn becoming the petitioner, while the other three act as the beit din, the judges in a court. The ritual is a wonderful way to enter the holidays as well as to prepare oneself for what will happen on Yom Kippur.
 </div>
 
@@ -17,12 +17,12 @@ Almost everyone who is Jewish knows that Kol Nidre is about releasing vows and h
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">Petitioner:</span>
 
 My friends, 
@@ -33,12 +33,12 @@ Will you please serve for me in this capacity?
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">The judges:</span>
 
 <em>Yes, we are prepared to hear you.</em>
@@ -46,12 +46,12 @@ Will you please serve for me in this capacity?
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">Petitioner:</span>
 
 What follows is not intended 
@@ -61,12 +61,12 @@ from which only they can release me.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 In the last year I have from time to time made vows, 
 sometimes speaking them out loud or had an intention, 
 a resolution to change something in my actions, behavior and attitude in my mind. 
@@ -77,12 +77,12 @@ And most of all, there are those that deal with my relation to God.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Sometimes I took on a practice or a custom 
 and did it at least three times 
 and have since either willingly or unwillingly abandoned it 
@@ -91,12 +91,12 @@ and I know that this, too, has the power of a vow.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Many times when I ask for prayers for some people 
 whether they are prayers for healing, for blessing 
 or for the repose of souls departed, 
@@ -108,12 +108,12 @@ I ask you to release me from that, too.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 All these I regret 
 and I ask you to recognize my regret 
 and release me from all those vows.
@@ -121,12 +121,12 @@ and release me from all those vows.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">The judges:</span>
 
 <em>Hearing your regret, we release you. 
@@ -140,12 +140,12 @@ so may you be released from the court above from the same.</em>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">Petitioner:</span>
 
 As I stand here 
@@ -161,12 +161,12 @@ and do not wish them to be valid.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">The judges:</span>
 
 <em>We have heard your declaration 
@@ -175,12 +175,12 @@ and consider it licit and legal.</em>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May you be blessed with a good year, 
 inscribed in the book of life and sealed for good.
 </div></td></tr>

@@ -17,12 +17,12 @@ Date of Prayer: 11 December 2014
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Our one God of life's blessings, 
 Who brings us together to be one family 
 (gratefully united though gloriously diverse) 
@@ -31,12 +31,12 @@ through the Divine commandments of loving-kindness.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May the awesome Author of an enchanting yet endangered universe 
 uplift our honored Senators 
 with the essential twin gifts of freedom and responsibility, 
@@ -45,12 +45,12 @@ ever fulfilling the demanding American dream.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 At these crossroads of compelling challenge, 
 may the Senators be reassured 
 that each human life is a singular journey of promising purpose, 
@@ -61,12 +61,12 @@ are inseparably linked.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May the Most High bless the Senators, 
 the Nation, 
 and humanity 
@@ -77,12 +77,12 @@ and harmony.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Recalling my early childhood 
 in a Displaced Persons Camp 
 in Germany's American Zone, 
@@ -93,12 +93,12 @@ I am grateful.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָמֵן׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <em>Amen.</em>
 </div></td></tr>
 </tbody></table>

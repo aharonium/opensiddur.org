@@ -23,7 +23,7 @@ Scanning this work (making digital images of each page) is the first step in a m
 
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 PREFACE 
 
 I have compiled this Song Book with the hope of adding to the beauty and joy of Jewish assemblies-religious and otherwise. I availed myself of as many sources as are known to me, and selected the material which I found to be merit and suited for popular use. I have no doubt that many a student of Jewish Music will be missing some of his favorite songs, but I was guided by my own experience, by the limitations of space and the cost of production. The classifications of the songs need not be strictly adhered to, they are merely suggestions. In the transliteration from the Hebrew, I employed the system which I have found most usable. It is to be regretted that there is as yet no universal system of transliteration. 

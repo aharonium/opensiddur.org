@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size:1.2em;">
+<div class="english" lang="en" style="font-size:1.2em;">
 Guest Chaplain: Rabbi Arnold Resnicoff, U.S. Navy Chaplain (Ret)., Washington D.C.
 Date of Prayer: 2019-12-26
 
@@ -23,22 +23,22 @@ Date of Prayer: 2019-12-26
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <h3>Opening Prayer Given by the Guest Chaplain:</h3>
 </div></td></tr>
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Almighty God,
 we pray, reflect, meditate in different ways, 
 and during these holy days -- 
@@ -52,12 +52,12 @@ that make our nation rich.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Yet we Americans, 
 we the people, 
 share songs of unity beyond diversity. 
@@ -67,12 +67,12 @@ our lives become its songs.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Of America, we sing:
 “O beautiful for patriot dream 
 that sees beyond the years.”[foot]Katharine Lee Bates, "<a href="https://opensiddur.org/prayers/secular-calendar/united-states/july-4th/america-the-beautiful-a-patriotic-hymn-by-katharine-lee-bates-yiddish-translation-by-berl-lapin/">America the Beautiful</a>" (1895).[/foot]
@@ -86,12 +86,12 @@ And mercy more than life.”[foot]<a href="https://opensiddur.org/prayers/secula
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 God bless our lives, 
 our leaders, 
 with a patriot dream 
@@ -110,12 +110,12 @@ for the greater good.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 God bless America, we sing.[foot]Cf. "<a href="https://opensiddur.org/prayers/collective-welfare/government/the-diaspora/god-bless-america-by-irving-berlin/">God Bless America</a>" for Armistice Day, by Irving Berlin (1918/1938).[/foot]&nbsp;
 Help us, we pray, 
 forever make this nation worthy 
@@ -125,13 +125,13 @@ and that song.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְנֹאמַר 
 אָמֵן׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And let us say, 
 <em>Amen.</em>
 </div></td></tr>

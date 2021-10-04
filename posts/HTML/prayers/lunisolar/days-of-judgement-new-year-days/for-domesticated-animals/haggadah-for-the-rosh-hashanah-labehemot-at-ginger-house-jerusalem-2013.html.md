@@ -14,13 +14,13 @@ DOWNLOAD: <a href="https://opensiddur.org/wp-content/uploads/2014/08/הגדה-ל
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ראש השנה לבעלי־החיים – על מה ולמה?‏
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 The New Year for Domesticated Animals (Rosh Hashanah Leba’alei Chaim)—what is it for, and why?
 </div></td>
 </tr>
@@ -28,13 +28,13 @@ The New Year for Domesticated Animals (Rosh Hashanah Leba’alei Chaim)—what i
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מקורו של ראש השנה לבעלי־חיים הוא באותה משנה שבה המקור לט"ו בשבט:
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 The source of the New Year for Domesticated Animals is in the same Mishna as the source for Tu BiSh'vat:
 </div></td>
 </tr>
@@ -42,7 +42,7 @@ The source of the New Year for Domesticated Animals is in the same Mishna as the
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 "ארבעה ראשי שנים הם:  
 באחד בניסן ראש השנה למלכים ולרגלים.  
 באחד באלול ראש השנה למעשר בהמה; רבי אלעזר ורבי שמעון אומרין, באחד בתשרי.  
@@ -53,7 +53,7 @@ The source of the New Year for Domesticated Animals is in the same Mishna as the
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 There are four new years:
 1. On the first of Nisan, the new year for the kings and for the festivals;
 2. On the first of Elul, the new year for the tithing of animals (Rabbi Eliezer and Rabbi Shimon say, on the first of Tishrei);
@@ -66,13 +66,13 @@ There are four new years:
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 המשנה קובעת את אל"ף באלול כראש השנה למעשר בהמה – תאריך טכני שנוגע למיסוי ולקרבנות – ממש כשם שט"ו בשבט, ראש השנה לאילן, עניינו המקורי הוא במסים ובמצוות הנוגעים לאילנות. בימינו התחדש ט"ו בשבט כיום מודעות סביבתי, המעלה על נס את חשיבותם של העצים ואת החשיבות שבנטיעתם ובהגנה עליהם ועל כדור הארץ. בדומה לכך, כונן אל"ף באלול מחדש כיום שיוקדש לבעלי־חיים: להוקרתם, לחיבור־מחודש אתם, להגנתם ולמודעות לגורלם. ‏
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 The Mishna sets the first of Elul as the new year for the tithing of animals—a date technically about taxation and sacrifices, much in the same way that Tu BiSh'vat, the new year for the trees, was originally about taxes and mitzvot related to trees.  In our time, Tu BiSh'vat has been revived in the general consciousness as a day promoting the importance of trees: planting them, defending them, and caring for them along with the rest of the natural world.  Similarly, we aim to revive the first of Elul as a day on which we sanctify domesticated animals, committing to honor them, to a renewed connection with them, to their defense, and to consciousness of their fates.
 </div></td>
 </tr>
@@ -80,13 +80,13 @@ The Mishna sets the first of Elul as the new year for the tithing of animals—a
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הצורך ביום כזה הוא דוחק. העולם התעשייתי המודרני הרחיק אותנו מבעלי־חיים, במיוחד מה"בהמות" המשמשות בחקלאות. אבותינו לא היו מדמיינים ריחוק כזה מבעלי־חיים, אף לא את האכזריות הקשה בה אנו מתייחסים, בתעשיות שלנו, ליצירי האל שנפש חיה בהם. אין מתאים מאל"ף באלול ליום מודעות לבעלי־חיים: בפתח החודש שמוקדש לרחמים ולחשבון נפש.‏
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 There is a pressing need for this today.  The modern industrial world has distanced us from animals, particularly from the “behemot,” domesticated animals, used in agriculture.  Our ancestors could not imagine being distanced from animals in this way, nor could they imagine the great pain that we inflict, through our actions, on these creations of God that contain living souls within them.  There is no more fitting day than the first of Elul to be conscious of animals: it is the beginning of the month which is set aside for our own requests for mercy and soul-searching leading up to the High Holy Days.
 </div></td>
 </tr>
@@ -94,13 +94,13 @@ There is a pressing need for this today.  The modern industrial world has distan
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אל"ף באלול צוין מחדש לראשונה בשנת תשע"ב, ובשנת תשע"ג זהו כבר המשך של מסורת.‏
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 The first of Elul was commemorated anew for the first time in 5772 (2012), and now in 5773 (2013) already has the beginnings of a tradition.
 </div></td>
 </tr>
@@ -108,13 +108,13 @@ The first of Elul was commemorated anew for the first time in 5772 (2012), and n
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <h3>צלחת הסדר</h3>
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 The Seder Plate
 </div></td>
 </tr>
@@ -122,13 +122,13 @@ The Seder Plate
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 על צלחת הסדר בחרנו להניח מוצרים מהצומח, המדמים מוצרים אשר על־פי רוב מקורם בתעשיות המזון מהחי.
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 We have chosen to put plant-based products on our Seder plate that are similar to products usually sourced from living animals.
 </div></td>
 </tr>
@@ -136,13 +136,13 @@ We have chosen to put plant-based products on our Seder plate that are similar t
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מוצרים אלו באים להזכיר לנו את הניצול של בעלי־חיים בידיהם של בני־אדם. מקבילות הבשר באות להזכיר לנו את העופות ואת בני הבקר והצאן שנכלאים ונשחטים עבור בשרם. המיונז הצמחי בא להזכיר לנו את התרנגולות בלולים של תעשיית הביצים. הגבינה הצמחית באה להזכיר לנו את הפרות בתעשיית החלב.
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 These products remind us of the exploitation of animals at human hands.  The meat substitute reminds us of the fowl, cattle, and sheep that are eaten and slaughtered for their meat.  The vegan mayonnaise reminds us of the chickens confined in coops for their egg production.  The vegan cheese reminds us of the cows used for dairy production.
 </div></td>
 </tr>
@@ -150,13 +150,13 @@ These products remind us of the exploitation of animals at human hands.  The mea
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בה בעת, המוצרים על צלחת הסדר מייצגים עבורנו את האפשרות לחיות עם בעלי־החיים ולא על חשבונם, את האפשרות להיזון מהצומח.
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 The products on the Seder plate represent our ability to live alongside animals, rather than at their expense, and the ability to be sustained from the world’s plants.
 </div></td>
 </tr>
@@ -164,13 +164,13 @@ The products on the Seder plate represent our ability to live alongside animals,
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 האם לעתיד לבוא יהיו מוצרים כאלו עדות יחידה לכך שבזמן מהזמנים נהגה האנושות לכלוא בעלי־חיים בתנאים אכזריים כדי לייצר מזון מהם, מביציהם ומהחלב שלהם?
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Is it possible that in the future, products like this will be the only signs of a past era when people imprisoned animals in painful conditions to derive food from their bodies, their eggs, and their dairy?
 </div></td>
 </tr>
@@ -178,7 +178,7 @@ Is it possible that in the future, products like this will be the only signs of 
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרְכִי נַפְשִׁי אֶת־יְהוָה,
 יְהוָה אֱלֹהַי גָּדַלְתָּ מְּאֹד, הוֹד וְהָדָר לָבָשְׁתָּ. עֹטֶה־אוֹר כַּשַּׂלְמָה, נוֹטֶה שָׁמַיִם כַּיְרִיעָה.
 הַמְקָרֶה בַמַּיִם עֲלִיּוֹתָיו, הַשָּׂם־עָבִים רְכוּבוֹ, הַמְהַלֵּךְ עַל־כַּנְפֵי־רוּחַ. עֹשֶׂה מַלְאָכָיו רוּחוֹת, מְשָׁרְתָיו אֵשׁ לֹהֵט.
@@ -204,7 +204,7 @@ Is it possible that in the future, products like this will be the only signs of 
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 (Read Psalm 104)
 </div></td>
 </tr>
@@ -212,7 +212,7 @@ Is it possible that in the future, products like this will be the only signs of 
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <h3>כוס ראשונה: דגים (חיות הים) – יין לבן</h3>
 
 טוֹב־יְהוָה לַכֹּל וְרַחֲמָיו עַל־כָּל־מַעֲשָׂיו. 
@@ -250,7 +250,7 @@ Is it possible that in the future, products like this will be the only signs of 
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 First Cup: Fish and Sea Creatures (white wine)
 
 [gallery type="square" link="file" columns="2" ids="9313,9314"]
@@ -260,7 +260,7 @@ First Cup: Fish and Sea Creatures (white wine)
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <h3>כוס שנייה: דו־חיים וזוחלים (חיות בין ים ליבשה) – יין לבן עם מעט יין אדום</h3>
 
 צִדְקָתְךָ כְּהַרְרֵי־אֵל, מִשְׁפָּטֶיךָ תְּהוֹם רַבָּה, אָדָם וּבְהֵמָה תוֹשִׁיעַ יְהוָה.
@@ -293,7 +293,7 @@ First Cup: Fish and Sea Creatures (white wine)
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Second Cup: Amphibians and Reptiles (white wine with a little red)
 
 [gallery type="square" link="file" columns="2" ids="9311,9312"]
@@ -303,7 +303,7 @@ Second Cup: Amphibians and Reptiles (white wine with a little red)
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <h3>כוס שלישית: עופות (חיות הרקיע) – יין אדום</h3>
 
 נוֹתֵן לִבְהֵמָה לַחְמָהּ, לִבְנֵי עֹרֵב אֲשֶׁר יִקְרָאוּ. (תהילים קמ"ז, ט')
@@ -328,7 +328,7 @@ Second Cup: Amphibians and Reptiles (white wine with a little red)
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Third Cup: Fowl (red wine)
 
 [gallery type="square" columns="2" link="file" ids="9307,9308"]
@@ -338,7 +338,7 @@ Third Cup: Fowl (red wine)
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <h3>כוס רביעית: יונקים (חיות היבשה) – יין אדום עם מעט יין לבן</h3>
 
 יוֹדֵעַ צַדִּיק נֶפֶשׁ בְּהֶמְתּוֹ, וְרַחֲמֵי רְשָׁעִים אַכְזָרִי. עֹבֵד אַדְמָתוֹ יִשְׂבַּע־לָחֶם, וּמְרַדֵּף רֵיקִים חֲסַר־לֵב. (משלי י"ב)
@@ -405,7 +405,7 @@ Third Cup: Fowl (red wine)
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Fourth Cup: Mammals and Land Animals (red wine with a little white)
 
 [gallery type="square" link="file" ids="9309,9310"]

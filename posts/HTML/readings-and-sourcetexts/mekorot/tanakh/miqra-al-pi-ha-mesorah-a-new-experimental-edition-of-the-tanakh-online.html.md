@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 <em><a href="https://docs.google.com/spreadsheets/d/1mkQyj6by1AtBUabpbaxaZq9Z2X3pX8ZpwG91ZCSOEYs/edit#gid=920165745">Miqra `al pi ha-Mesorah</a></em> is a new experimental edition of the Tanakh in digital online format, now available as a carefully corrected draft of the entire Tanakh.[foot]The first complete draft was finished on <em>erev Shabbat Parashat Ki Teze</em>, 10 Elul 5773; August 16, 2013.[/foot] It is based on the Aleppo Codex and related manuscripts, and consults the full range of masoretic scholarship.
 
 Two features make this edition of the Tanakh unique: Full editorial documentation and a free content license.

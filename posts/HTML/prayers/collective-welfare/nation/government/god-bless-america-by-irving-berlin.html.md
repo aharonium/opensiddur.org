@@ -11,12 +11,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Translation (Yiddish)</th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">While the storm clouds gather far across the sea
 Let us swear allegiance to a land that's free
 let us all be grateful for a land so fair
@@ -25,7 +25,7 @@ let us raise our voices in a solemn prayer:</span>
 
 
 <tr><td style="vertical-align:top;">
-<div class="yiddish"><span lang="yi">
+<div class="yiddish" lang="yi">
 גאָט בּענטש אַמעריקע, 
 לאַנד װאָס איך ליבּ, 
 שטײזע בּײַ איר, 
@@ -41,7 +41,7 @@ let us raise our voices in a solemn prayer:</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 God bless America, 
 land that I love.
 Stand beside her 

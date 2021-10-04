@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Aramaic & Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 גבריאל מימינהון 
 דדודיתא בת דודי ובנה ובנתה 
 ומיכאל מישמאלה 
@@ -22,7 +22,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May Gavriel be on the right 
 of Dudita bat Dudai, and her sons and her daughters,[foot]The name of the woman for whom this amulet bowl is being put to use, and her progeny.[/foot]&nbsp;  
 and Mikhael be on her left, 
@@ -34,7 +34,7 @@ and above her, Shekhinat-El.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הרחיק מינה 
 מן דודיתא בת דודי ומן בנה ומן בנתה 
 כל הפגע רע 
@@ -50,7 +50,7 @@ and above her, Shekhinat-El.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Remove from her, 
 from Dudita bat Dudai, and from her sons and from her daughters, [foot]See note above.[/foot]&nbsp; 
 every evil affliction  
@@ -67,14 +67,14 @@ and [it is] binding and valid.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הדין חתמתא לעלם 
 אמן ואמן 
 ושריר
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 This seal is forever. 
 <em>Amen</em> and <em>Amen</em>. 
 And [it is] valid.

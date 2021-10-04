@@ -12,13 +12,13 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְהִי רָצוֹן מִלְּפָנֶיךָ
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <em>Yehi Ratson Milfanekha</em> - 
 May it be Your will, Eternal One, God of our ancestors, 
 that we journey toward peace, 
@@ -28,12 +28,12 @@ and that we reach our desired destinations for life, gladness, and peace.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May we be protected from every obstacle along the way, 
 and from all manner of challenge the world endures. 
 May there be blessing in the works of our hands, 
@@ -43,24 +43,24 @@ in the eyes of all who see us.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May our prayer be heard, 
 for You are the One who hears and holds all prayer. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה יְיָ שׁוֹמֵעַ תְּפִלָּה׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <em>Barukh atah Adonai, shomei'ah tefilah</em>. 
 Blessed are You, Eternal One, who hears prayer.
 </div></td>

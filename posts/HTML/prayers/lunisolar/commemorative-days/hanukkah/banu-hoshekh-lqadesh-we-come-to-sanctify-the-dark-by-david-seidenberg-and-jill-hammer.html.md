@@ -13,13 +13,13 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Transliteration (English)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td colspan="3">
-<div class="english">
+<div class="english" lang="en">
 Alternative lyrics (full rewrite), ver. 1.0, by Rabbi David Seidenberg (neohasid.org) after <a href="https://opensiddur.org/prayers/lunar-cycle/commemorative-days/hanukkah/banu-hoshekh-lgaresh-by-sara-levi-tanai/">Banu Ḥoshekh L'Garesh by Sara Levi-Tanai</a> (1960) 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּאנוּ חׇשֵׁךְ לְקַדֵּשׁ
 קוֹדֶם שֶׁמֶשׁ תִּתְחַדֵּשׁ
 בְּיָדֵינוּ אוֹר וְנֵר
@@ -27,7 +27,7 @@ Alternative lyrics (full rewrite), ver. 1.0, by Rabbi David Seidenberg (neohasid
 </span></div></td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 Banu choshech l’kadesh
 Kodem shemesh titchadesh
 B’yadeinu or v’ner
@@ -35,7 +35,7 @@ Leil kasalmah l’fa’er
 </span></div></td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 We come to sanctify the dark
 Afore the sun renews its light
 In our hands, may light and flame
@@ -44,7 +44,7 @@ Bejewel, as tapestry, the night
 
 
 <tr><td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 נִשְׁתֳּלֶנּוּ גַּרְעִין אֵשׁ
 בַּד הַחוֹשֶׁךְ מְלַפֵּף
 גַּרְעִינִים שֶׁל אֵשׁ וָאוֹר
@@ -52,7 +52,7 @@ Bejewel, as tapestry, the night
 </span></div></td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 Nish’talenu gar’in esh
 Bad hachoshekh m’lapef
 Gar’inim shel esh va-or
@@ -60,7 +60,7 @@ Bohakim mitokh hash’chor
 </span></div></td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 We will plant our fire’s seed
 In weave of darkness nestling
 Seeds of fire and of light
@@ -69,13 +69,13 @@ Radiant within the night
 
 
 <tr><td colspan="3">
-<div class="english">
+<div class="english" lang="en">
 Alternative lyrics (lightly amended), ver. 1.0, by Rabbi Jill Hammer & David Seidenberg (neohasid.org) after <a href="https://opensiddur.org/prayers/lunar-cycle/commemorative-days/hanukkah/banu-hoshekh-lgaresh-by-sara-levi-tanai/">Banu Ḥoshekh L'Garesh by Sara Levi-Tanai</a> (1960) 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּאנוּ חוֹשֶׁךְ לְקַדֵּשׁ
 בְּיָדֵינוּ אוֹר וָאֵשׁ 
 כָּל אֶחָד הוּא אוֹר קָטָן
@@ -83,7 +83,7 @@ Alternative lyrics (lightly amended), ver. 1.0, by Rabbi Jill Hammer & David Sei
 </span></div></td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 Banu choshekh l’kadesh
 B’yadeinu or va’esh
 Kol echad hu or katan
@@ -91,7 +91,7 @@ V’khulanu or eitan
 </span></div></td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 We’ve come to sanctify the dark,
 in our hands a little spark
 Each of us a tiny light,
@@ -100,21 +100,21 @@ and together we’re so bright.
 
 
 <tr><td style="vertical-align:top;" width="26%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 קוּמָה חוֹשֶׁךְ 
 עֲלֵה שְחוֹר
 קוּמָה לִקְרַאת הָאוֹר
 </span></div></td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 Kumah choshekh
 Aleh sh’chor
 Kumah, likrat ha-or!
 </span></div></td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 Come up darkness, 
 rise up night,
 Come up, to greet the light! (2x) 

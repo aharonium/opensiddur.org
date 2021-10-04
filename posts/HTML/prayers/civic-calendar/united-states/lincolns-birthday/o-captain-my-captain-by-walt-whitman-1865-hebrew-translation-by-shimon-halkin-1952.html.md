@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Translation (Hebrew)</th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הוֹ, קְבַרְנִיט! קְבַרְנִיטִי! מַסַּע־אֵימֵינוּ תַּם, 
 נִצְּחָה כׇּל נֶגֶף הַסְּפִינָה, הַפְרָס שָׁרִיר, קַיָּם: 
 קָרוֹב הַחוֹף, פַּעֲמוֹנִים, הָעָם כֻּלּוֹ עָלֵץ, 
@@ -19,7 +19,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 O Captain! My Captain! our fearful trip is done;
 The ship has weather'd every rack, the prize we sought is won;
 The port is near, the bells I hear, the people all exulting,
@@ -28,7 +28,7 @@ While follow eyes the steady keel, the vessel grim and daring:
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אַךְ הוֹ, לִבִּי! לִבִּי! לִבִּי!
 הוֹ, נִטְפֵי שָׁנִי שׁוֹתֵת,
 שָׁם קְבַרְנִיטִי עַל הַסִּפּוּן 
@@ -36,7 +36,7 @@ While follow eyes the steady keel, the vessel grim and daring:
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 But O heart! heart! heart!
             O the bleeding drops of red,
                   Where on the deck my Captain lies,
@@ -45,7 +45,7 @@ But O heart! heart! heart!
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הוֹ, קְבַרְנִיט! קְבַרְנִיטִי! קוּם, שְׁמַע פַּעֲמוֹנִים; 
 לְךָ פֹּרַשׂ הַנֵּם, תָּרִיעַ קֶרֶן שְׂשׂוֹנִים, 
 לְךָ צְרוֹרֵי־פְּרָחִים, זֵרֵי־סְרָטִים, חוֹפִים צְפוּפִים,
@@ -53,7 +53,7 @@ But O heart! heart! heart!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 O Captain! My Captain! rise up and hear the bells;
 Rise up—for you the flag is flung—for you the bugle trills;
 For you bouquets and ribbon'd wreaths—for you the shores a-crowding;
@@ -62,7 +62,7 @@ For you they call, the swaying mass, their eager faces turning;
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 קְבַרְנִיט! אָב יָקָר לִי! 
 זְרוֹעִי רֹאשְׁךָ תְּרַפֵּד! 
 חֲלוֹם הוּא זֶה עַל הַסִּפּוּן —
@@ -70,7 +70,7 @@ For you they call, the swaying mass, their eager faces turning;
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Here captain! dear father!
             This arm beneath your head;
                   It is some dream that on the deck,
@@ -79,7 +79,7 @@ Here captain! dear father!
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לֹא יַעַן קְבַרְנִיטִי, חִוְרוֹת דְּמוּמוֹת שְׂפָתָיו, 
 לֹא בִּזְרוֹעִי יָחוּשׁ אָבִי, לֹא דֹּפֶק בּוֹ וָצָו; 
 עֻגְּנָה לָבֶטַח הַסְּפִינָה, מַסַּע־אֵימֶיהָ תַּם,
@@ -87,7 +87,7 @@ Here captain! dear father!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 My Captain does not answer, his lips are pale and still;
 My father does not feel my arm, he has no pulse nor will;
 The ship is anchor'd safe and sound, its voyage closed and done;
@@ -96,7 +96,7 @@ From fearful trip, the victor ship, comes in with object won;
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עִלְצוּ, חוֹפִים, פַּעֲמוֹנִים!
 אֲנִי אָבֵל צוֹעֵד 
 עַל פְּנֵי סִפּוּן, שָׁם קְבַרְנִיטִי 
@@ -104,7 +104,7 @@ From fearful trip, the victor ship, comes in with object won;
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Exult, O shores, and ring, O bells!
             But I, with mournful tread,
                   Walk the deck my captain lies,

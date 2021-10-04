@@ -11,69 +11,69 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: left;">Source (French)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="french"><span lang="fr">
+<div class="french" lang="fr">
 <span class="instruction">Au Renouvellement Du Mois.</span>
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">ראש חדש | At the New Moon</span>
 </span></div></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="french"><span lang="fr">
+<div class="french" lang="fr">
 <u>Sur la Brièveté de la Vie.</u>
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <u>On the Brevity of Life</u>
 </span></div></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="french"><span lang="fr">
+<div class="french" lang="fr">
 "Enseigne-nous à compter nos jours, 
 afin que la sagesse pénétre dans nos cœurs" <span class="citation">(Ps. 90, 12)</span>.
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 "Teach us to count our days, 
 that wisdom may enter our hearts." <span class="citation">(Psalms 90:12)</span>
 </span></div></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="french"><span lang="fr">
+<div class="french" lang="fr">
 Seigneur Zébaoth, lorsque tu formas les deux grands luminaires, flambeaux du jour et de la nuit, ta souveraine sagesse voulut qu’ils fussent des signes visibles de la division des temps, pour nous apprendre à connaître rinstabilité de notre vie. Le lever et le coucher du soleil nous montrent la prompte succession des jours; le retour régulier de la lune nous indique la révolution rapide des mois et des années. Ainsi s’envolent les instants de notre existence fugitive, et nous arrivons bien vite au terme que ta Providence a fixé. Ce n’est que dans la conscience d’avoir été utiles, d’avoir noblement employé les heures de notre vie, que nous pouvons nous réjouir d’avoir vécu, et jeter un regard tranquille au delà du tombeau.
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 YHVH (Adonai) Tsevaöt, when you formed the two great luminaries, flambeaux of day and night, your sovereign wisdom wanted them to be visible signs of the division of time, to teach us to know the uncertainty of our lives. The rising and setting of the sun shows us the swift succession of days; the regular return of the moon shows us the rapid revolution of months and years. Thus fly away the moments of our fleeting existence, and we arrive very quickly at the end which your Providence has fixed. It is only in the awareness of having been useful, of having nobly used the hours of our life, that we can rejoice in having lived, and look calmly beyond the tomb.
 </span></div></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="french"><span lang="fr">
+<div class="french" lang="fr">
 Que voudrions-nous avoir fait à l’heure de la la mort? Faisons ce que nous voudrions avoir fait alors. Il n’y a point de temps à perdre; chaque moment peut-être le dernier de notre vie. Plus nous avons vécu, plus nous sommes près du tombeau.
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 What would we want to have done [with our lives] at the hour of death? Let's do what we [will] wish we'd have done. There is no time to lose; each moment may be the last of our lives. The more we have lived, the closer we are to the tomb.
 </span></div></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="french"><span lang="fr">
+<div class="french" lang="fr">
 C’est pourquoi, Seigneur tout-puissant, Dieu d’Israël, je te supplie de m’accorder ta grâce et ta bénédiction dans ce nouveau mois qui com-mence; que par ta divine protection, il s’écoule pour moi et pour tous tes enfants dans la paix de l’àme, dans la pratique de ta loi, dans la piété et la charité; qu’aucune action, aucune pensée coupable ne trouble mon esprit ni mon cœur, et que le travail de mes mains suffise à la nourrie ture de mon corps. Que ton amour, ô notre Père, veille sans cesse sur nous. <em>Amen</em>.
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Therefore, YHVH (Adonai) Tsevaöt Elohei Yisrael, I beg you to grant me your grace and your blessing in this new month that is beginning; that through your divine protection, I and all your children may flow in peace of soul, in the practice of your law, in piety, and charity; that no act or guilty thought may disturb my spirit or my heart, and that the work of my hands may be enough to nourish my body. May your love, O our Parent, watch over us unceasingly. <em>Amen</em>.
 </span></div></td>
  </tr></tbody></table>

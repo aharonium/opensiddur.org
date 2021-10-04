@@ -11,14 +11,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אִם תֺּאכַלְנָה נָשִׁים פִּרְיָם עוֹלְלֵי טִפּוּחִים. 
 אַלְלַי לִי: 
  </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 When I recall women eating their own produce, the toddlers they raised with devotion. 
 Woe is me! 
 </div>
@@ -26,14 +26,14 @@ Woe is me!
 
 
 <tr><td style="vertical-align: top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 אִם תְּבַשֵּׁלְנָה נָשִׁים רַחֲמָנִיּוֹת יַלְדֵיהֶן (נ"א יְלָדִים) הַמְּדוּדִים טְפָחִים טְפָחִים. 
 אַלְלַי לִי: 
  </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 When I recall compassionate women cooking their own children, the ones who had been lovingly weighed bit by bit. 
 Woe is me! 
 </div>
@@ -41,14 +41,14 @@ Woe is me!
 
 
 <tr><td style="vertical-align: top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 אִם תִּגּוֹזְנָה (נ"א תָּגוֹזְנָה) פְּאַת רֺאשָׁם וְתִקָּשַׁרְנָה לְסוּסִים פּוֹרְחִים. 
 אַלְלַי לִי: 
  </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 When I recall their hair braids being torn away as they were  tied to running horses. 
 Woe is me! 
 </div>
@@ -56,14 +56,14 @@ Woe is me!
 
 
 <tr><td style="vertical-align: top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 אִם תִּדְבַּק לְשׁוֹן יוֹנֵק לְחֵךְ בְּצִמְאוֹן צְחִיחִים. 
 אַלְלַי לִי: 
  </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 When I recall the tongues of suckling babes sticking to the roofs of their mouths, dry from thirst. 
 Woe is me! 
 </div>
@@ -71,28 +71,28 @@ Woe is me!
 
 
 <tr><td style="vertical-align: top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 אִם תֵּהֺמְנָה (נ"א תְּהוֹמֶינָה) זוֹ לְעֻמַּת זוֹ בּוֹאִי וּנְבַשֵּׁל אֶת בָּנֵינוּ צוֹרְחִים. 
 אַלְלַי לִי: 
  </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 When I recall women shrieking one to the other, “Come, let’s cook our screeching children!” Woe is me! 
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align: top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 אִם תִּוָּעַדְנָה זוֹ לְזוֹ תְּנִי בְנֵךְ וְהוּא חָבוּי מְנֻתָּח נְתָחִים. 
 אַלְלַי לִי: 
  </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 When I recall those women getting together, saying, “Give me your child for dinner,” while the child is already hidden and chopped into bits and pieces. 
 Woe is me! 
 </div>
@@ -100,14 +100,14 @@ Woe is me!
 
 
 <tr><td style="vertical-align: top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 אִם תַּזְמִין (נ"א תַּזְמֵינָה) בְּשַׂר אָבוֹת לַבָּנִים בִּמְעָרוֹת וְשִׁיחִים. 
 אַלְלַי לִי: 
  </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 When I recall children being invited to dine on their parents’ meat in caves and pits. 
 Woe is me! 
 </div>
@@ -115,14 +115,14 @@ Woe is me!
 
 
 <tr><td style="vertical-align: top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 אִם תְּחֻיַּבְנָה הַבָּנוֹת (נ"א בָּנוֹת) אֶל חֵיק אִמּוֹתָם נִתְפָּחִים. 
 אַלְלַי לִי: 
  </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 When I recall girls having to become swollen from hunger, while held to their mothers’ bosom. 
 Woe is me! 
 </div>
@@ -130,14 +130,14 @@ Woe is me!
 
 
 <tr><td style="vertical-align: top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 אִם תִּטּוֹסְנָה רוּחוֹת עוֹלְלִים בִּרְחוֹבוֹת קִרְיָה תְּפוּחִים. 
 אַלְלַי לִי: 
  </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 When I recall the souls of toddlers floating over their swollen corpses in the streets of the City. 
 Woe is me! 
 </div>
@@ -145,14 +145,14 @@ Woe is me!
 
 
 <tr><td style="vertical-align: top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 אִם תְּיַקֵּרְנָה בְּשִׁכּוּל רֶחֶם וְצִמּוּק שָׁדַיִם וְאֵם עַל בָּנִים שָׁחִים. 
 אַלְלַי לִי: 
  </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 When I recall women being  burdened with miscarriage and shriveled up breasts and a mother upon her slumping children. 
 Woe is me! 
 </div>
@@ -160,14 +160,14 @@ Woe is me!
 
 
 <tr><td style="vertical-align: top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 אִם תִּכָּשַׁלְנָה שְׁמוֹנֶה מֵאוֹת מָגִנִּים בַּעֲרַב אֲלוּחִים. 
 אַלְלַי לִי: 
   </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 When I recall eight hundred defenders falling, rotting in the Arabian heat. 
 Woe is me! 
 </div>
@@ -175,14 +175,14 @@ Woe is me!
 
 
 <tr><td style="vertical-align: top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 אִם תְּלוּהַטְנָה רוּחָם בְּמִינֵי מְלוּחִים וְנוֹדוֹת נְפוּחִים. 
 אַלְלַי לִי: 
  </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 When I recall their spirits burning from salty food and swollen but empty waterskins. 
 Woe is me! 
 </div>
@@ -190,14 +190,14 @@ Woe is me!
 
 
 <tr><td style="vertical-align: top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 אִם תִּמָּעַטְנָה מֵאֶלֶף מֵאָה וּמִמֵּאָה עֲשָׂרָה עַד אֶחָד לְמַפָּחִים. 
 אַלְלַי לִי: 
  </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 When I recall their numbers diminishing in frustration from 1,000 to 100, and from 100 to 10, until only one. 
 Woe is me! 
 </div>
@@ -205,14 +205,14 @@ Woe is me!
 
 
 <tr><td style="vertical-align: top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 אִם תָּנוֹסְנָה לְמָסַךְ הֵיכָל שְׁמוֹנִים אֶלֶף כֺּהֲנִים פְּרָחִים. 
 אַלְלַי לִי: 
  </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 When I recall eighty thousand apprentice priests fleeing behind the Sanctuary’s curtain. 
 Woe is me! 
 </div>
@@ -220,14 +220,14 @@ Woe is me!
 
 
 <tr><td style="vertical-align: top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 אִם תִּשָּׂרַפְנָה שָׁם כָּל אוֹתָם הַנְּפָשׁוֹת כְּקוֹצִים כְּסוּחִים. 
 אַלְלַי לִי: 
  </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 When I recall those priests being burned alive like splintered wood. 
 Woe is me! 
 </div>
@@ -235,14 +235,14 @@ Woe is me!
 
 
 <tr><td style="vertical-align: top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 אִם תֵּעָרַפְנָה עַל דָּם נָקִי שְׁמוֹנִים אֶלֶף כֺּהֲנִים מְשׁוּחִים. 
 אַלְלַי לִי: 
  </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 When I recall 80,000 murdered priests, decapitated because of the innocent blood of Zechariah the Prophet. 
 Woe is me! 
 </div>
@@ -250,14 +250,14 @@ Woe is me!
 
 
 <tr><td style="vertical-align: top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 אִם תִּפַּחְנָה נְפָשׁוֹת מְדֻקָּרִים מֵרֵיחַ תְּנוּבוֹת שִׂיחִים. 
 אַלְלַי לִי: 
  </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 When I recall swollen stomachs rupturing from the smell of unattainable fruits of the field. 
 Woe is me! 
 </div>
@@ -265,14 +265,14 @@ Woe is me!
 
 
 <tr><td style="vertical-align: top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 אִם תִּצָּבַרְנָה עַל אֶבֶן אַחַת תִּשְׁעָה קַבִּין מוֹחֵי יְלָדִים מֻנָּחִים. 
 אַלְלַי לִי: 
  </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 When I recall heaping together on one stone, nine portions of mashed children’s’ brains. 
 Woe is me! 
 </div>
@@ -280,14 +280,14 @@ Woe is me!
 
 
 <tr><td style="vertical-align: top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 אִם תֻּקַּעְנָה שְׁלֹשׁ מֵאוֹת יוֹנְקִים עַל שׂוֹכָה אַחַת מְתוּחִים. 
 אַלְלַי לִי: 
  </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 When I recall three hundred suckling babes being skewered and stretched on one tree branch. 
 Woe is me! 
 </div>
@@ -295,14 +295,14 @@ Woe is me!
 
 
 <tr><td style="vertical-align: top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 אִם תֵּרָאֶינָה רַכּוֹת וַעֲנֻגּוֹת כְּבוּלוֹת עַל יַד רַב טַבָּחִים. 
 אַלְלַי לִי: 
  </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 When I recall refined and sophisticated ladies being seen handcuffed by the chief butcher. 
 Woe is me! 
 </div>
@@ -310,14 +310,14 @@ Woe is me!
 
 
 <tr><td style="vertical-align: top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 אִם תִּשְׁכַּבְנָה בֵּין שְׁפַתַּיִם בְּנוֹת מְלָכִים מְשֻׁבָּחִים. 
 אַלְלַי לִי: 
  </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 When I recall opulent princesses having sex in the garbage mounds. 
 Woe is me! 
 </div>
@@ -325,14 +325,14 @@ Woe is me!
 
 
 <tr><td style="vertical-align: top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 אִם תִּתְעַלַּפְנָה הַבְּתוּלוֹת וְהַבַּחוּרִים בּצִמְאוֹן צְחִיחִים. 
 אַלְלַי לִי: 
  </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 When I recall the virgins and young men fainting from dehydration. 
 Woe is me! 
 </div>
@@ -340,20 +340,20 @@ Woe is me!
 
 
 <tr><td style="vertical-align: top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 וְרוּחַ הַקֺּדֶשׁ לְמוּלָם מַרְעִים. הוֹי עַל כָּל שְׁכֵנַי הָרָעִים. 
  </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 The Holy Spirit roars against them, “Woe to all bad neighbors!”
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align: top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 מַה שֶּׁהִקְרָאָם מוֹדִיעִים. 
 וְאֵת אֲשֶׁר עָשׂוּ לֹא מוֹדִיעִים. 
 אִם תֺּאכַלְנָה נָשִׁים פִּרְיָם מַשְׁמִיעִים. 
@@ -361,7 +361,7 @@ The Holy Spirit roars against them, “Woe to all bad neighbors!”
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 They let the world know what has happened to them,
 But they do not let the world know what they have done.
 That women eat their own children, they make noise about this.
@@ -370,13 +370,13 @@ That women eat their own children, they make noise about this.
 
 
 <tr><td style="vertical-align: top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 וְאִם יֵהָרֵג בְּמִקְדַּשׁ יְיָ כֺּהֵן וְנָבִיא לֹא מַשְׁמִיעִים: 
  </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 But, that they killed a prophet and a priest[foot]<a href="https://en.wikipedia.org/wiki/Zechariah_ben_Jehoiada">Zekhariah ben Jehoiada</a>, not to be confused with the prophet of the book of Zechariah, <a href="https://en.wikipedia.org/wiki/Zechariah_(Hebrew_prophet)">Zekahriah ben Berekhiah</a>.[/foot] in the Temple of my Lord, they make no noise about this.
 </div>
 </td></tr>

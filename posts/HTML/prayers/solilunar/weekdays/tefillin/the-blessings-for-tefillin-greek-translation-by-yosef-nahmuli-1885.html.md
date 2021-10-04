@@ -11,18 +11,18 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (Greek)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ברכת תפלין
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="greek"><span lang="gk">
+<div class="greek" lang="el">
 ΕΥΧΗ ΔΙΑ ΤΑ “ΤΕΦΙΛΙΝ„ (ΦΥΛΑΚΤΗΡΙΑ)
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ 
 מֶלֶךְ הָעוֹלָם 
 אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֺתָיו 
@@ -30,7 +30,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="greek"><span lang="gk">
+<div class="greek" lang="el">
 Εὐλογητὸς Κύριος ὁ Θεὸς ἡμῶν, 
 ὁ Βασιλεὺς τοῦ Παντὸς, 
 ὁ ἁγιάσας ἡμᾶς διὰ τῶν ἐντολῶν αὐτοῦ, 
@@ -39,18 +39,18 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="instruction">ואם הפסיק בדבור בין תפלין של יד לתפלין של ראש יברך</span>
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="greek"><span lang="gk">
+<div class="greek" lang="el">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ 
 מֶלֶךְ הָעוֹלָם 
 אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֺתָיו 
@@ -58,7 +58,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="greek"><span lang="gk">
+<div class="greek" lang="el">
 Εὐλογητὸς Κύριος ὁ Θεὸς ἡμῶν, 
 ὁ Βασιλεὺς τοῦ Παντὸς, 
 ὁ ἁγιάσας ἡμᾶς διὰ τῶν ἐντολῶν αὐτοῦ, 

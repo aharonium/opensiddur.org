@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְהִי רָצוֹן מִלְפָנֶיךָ 
 יי אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֹתֵינוּ,
 שֶׁתּוֹלִיכֵנוּ לְשָׁלוֹם 
@@ -22,7 +22,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May the holy desire come from You,
 YHVH, our Source and our ancestors' Source,
 that You will lead us toward peace
@@ -34,7 +34,7 @@ life, joy, and peace.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְתַצִּילֵנוּ מִכַּף כָּל אוֹיֵב וְאוֹרֵב וְלִסְטִים 
 וְחַיּוֹת רָעוֹת בַּדֶּרֶךְ.
 הַגָּן בַּעֲדֵינוּ מִכָּל מִינֵי מַשְׁחִית
@@ -49,7 +49,7 @@ life, joy, and peace.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Rescue us from all enmity and ambush and theft 
 and predation (from all impulses to harm that confront us) on this path.
 Be a shield on our side against all manner of destruction

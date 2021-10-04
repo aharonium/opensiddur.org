@@ -12,13 +12,13 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr>
 <td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <strong>I open my mouth, I open my heart.
 I speak praise, hope and thanks.
 I speak the Ancient Prayer:</strong>
@@ -28,13 +28,13 @@ I speak the Ancient Prayer:</strong>
 
 <tr>
 <td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <strong>PRAISE OUR ANCESTORS</strong>
 God of my childhood faith, of my adult skepticism
 God of the mystics, of the philosophers
@@ -48,13 +48,13 @@ God who knew my parents, God who knows my death
 
 <tr>
 <td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <strong>PRAISE GOD’S POWER</strong>
 God of my strength and of my weakness,
 God of my current understanding and my lack thereof,
@@ -72,13 +72,13 @@ Wow.
 
 <tr>
 <td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <strong>SANCTIFY GOD’S NAME</strong>, so many holy names:
 <em>HaMavdeel</em>, the Divider of Time;
 <em>Adonai</em>, the Uniter Of All Existence;
@@ -94,13 +94,13 @@ Wow.
 
 <tr>
 <td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May the holiness be eternal
 Let me look from side to side, to see all these possibilities,
 The names help me comprehend
@@ -113,13 +113,13 @@ Holy, Holy, Holy!
 
 <tr>
 <td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <strong>PLACE YOURSELF in front of the fear.</strong> 
 You will be judged, you will die.
 Place yourself in the center of the universe
@@ -134,13 +134,13 @@ Place yourself in the path of holiness and joy and truth.
 
 <tr>
 <td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <strong>REMEMBER</strong> 
 Remember what you did wrong
 Remember what you did right.
@@ -155,13 +155,13 @@ Remember Torah.
 
 <tr>
 <td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <strong>DECLARE YOURSELF</strong>
 Because the truly evil are already condemned
 The truly good are already blessed
@@ -178,13 +178,13 @@ Declare yourself for holiness and joy and truth.
 
 <tr>
 <td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <strong>NOW WE DECLARE</strong>
 And as a congregation, we proclaim:
 Let the holiness rise up!
@@ -196,13 +196,13 @@ On Yom Kippur it is sealed.
 
 <tr>
 <td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 And let us declare together:
 We understand nothing.
 All that is physical, ends.
@@ -219,13 +219,13 @@ We understand nothing.
 
 <tr>
 <td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 But  
 <em>Teshuvah</em>, <em>Tefilah</em> & <em>Tzedukah</em> 
 Restore us to our place.
@@ -240,13 +240,13 @@ And that’s when God decrees.
 
 <tr>
 <td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <strong>THE DAY IS HOLY</strong>
 Listen to the Shofar as it announces:
 Awesome and sacred is this sweet day!
@@ -262,13 +262,13 @@ Forgive us, inspire us, 
 
 <tr>
 <td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <strong>HEAR OUR PRAYERS,</strong>
 That which Was, That which Is, That which Will Be.
 We imagine you. We’re listening. Do you hear us?
@@ -280,13 +280,13 @@ We are in this glorious and troubled place and we take responsibility for how it
 
 <tr>
 <td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <strong>WE ARE SO THANKFUL.</strong>
 Ah, the sweetness of life, savor the taste.
 Life can be so good, can’t it?
@@ -309,13 +309,13 @@ and the loving.
 
 <tr>
 <td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 WE PRAY FOR WHOLENESS.
 Bless us with love and mercy over us and all Israel and all the world.
 Bless us with transcendence from the Light That Illuminates
@@ -327,13 +327,13 @@ Bless us with pleasure in the Awesome Connection
 
 <tr>
 <td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <em>RUACH HA-OLAM</em>, Eternal Breath, 
 Incomprehensible. And really, so simple.
 May the words of my mouth and the thoughts of my heart be joyful truth.

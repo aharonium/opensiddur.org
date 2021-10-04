@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Translation (Yiddish)</th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="yiddish"><span lang="yi">
+<div class="yiddish" lang="yi">
 אָ זאָג! קאָנסטו זען אין באַגינשײַן די פּראַכט
 פֿון געיוּבלטער פֿרײד אין פֿאַרנאַכטיקן בלױען?
 װי די שטרײַפֿן און שטערן אין גרױזאַמער שלאַכט
@@ -23,7 +23,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 O say, can you see, by the dawn’s early light,
 What so proudly we hailed at the twilight’s last gleaming, 
 Whose broad stripes and bright stars, through the perilous fight,
@@ -36,7 +36,7 @@ O’er the land of the free and the home of the brave?
 
 
 <tr><td style="vertical-align:top;">
-<div class="yiddish"><span lang="yi">
+<div class="yiddish" lang="yi">
 קאָנסט בײם ים־ברעג קױם זען, דורכן נעפּל פארשטעלט, 
 אין דער אימהקער שטילקײט דעם שונא דאָרט ליגן; 
 װאָם באװעגט זיך פון װינט איבער בערגלעך צעהעלט, 
@@ -48,7 +48,7 @@ O’er the land of the free and the home of the brave?
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 On the shore dimly seen through the mists of the deep,
 Where the foe's haughty host in dread silence reposes,
 What is that which the breeze, o'er the towering steep,
@@ -61,12 +61,12 @@ O'er the land of the free and the home of the brave.
 
 
 <tr><td style="vertical-align:top;">
-<div class="yiddish"><span lang="yi">
+<div class="yiddish" lang="yi">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 And where is that band who so vauntingly swore
 That the havoc of war and the battle's confusion,
 A home and a country, should leave us no more?
@@ -79,7 +79,7 @@ O'er the land of the free and the home of the brave.
 
 
 <tr><td style="vertical-align:top;">
-<div class="yiddish"><span lang="yi">
+<div class="yiddish" lang="yi">
 פלאטער שטענדיק, װען מענטש מיטן שװערד אין זײן האנט 
 װיל באשיצן זײן הײם קעגן שונאס פארגװאלטן; 
 גאָט זאָל בענטשן מיט זיג און מיט פריד אונדזער לאנד, 
@@ -91,7 +91,7 @@ O'er the land of the free and the home of the brave.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 O thus be it ever, when freemen shall stand
 Between their loved homes and the war's desolation.
 Blest with vict'ry and peace, may the Heav'n rescued land

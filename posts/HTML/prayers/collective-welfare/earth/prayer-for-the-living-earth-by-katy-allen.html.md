@@ -12,7 +12,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רִבּוֺנוֺ שֶׁל עוֺלָם, עוֺשֶׂה בְּרֵאשִׁית,
 יְהִי רָצוֺן מִלְפָנֶיךָ
 שֶׁתְּבָרֵךְ בְּרַחֲמִים אֶת בְּרִיאַתְךָ.
@@ -34,7 +34,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Master of the Universe, Creator of All,
 may it be your will
 to bless with compassion your Creation.
@@ -58,7 +58,7 @@ please O G!d, please heal it all.
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 צוּר כׇּל הָעוֺלָמִים, 
 נָא, תֵּן בְּלִבֵּנוּ 
 אֶת הֲבָנַת הָהַשְׁפָּעָה שֶׁל פְּעוּלוֺתֵינוּ
@@ -67,7 +67,7 @@ please O G!d, please heal it all.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Rock of All Worlds,
 please, place in our hearts 
 understanding of the impact of our actions
@@ -78,7 +78,7 @@ upon Your Creation.
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֺתֵינוּ וְאִמּוֹתֵינוּ,
 אֵל נָא!
 עֲזוֹר לָנוּ!
@@ -90,7 +90,7 @@ upon Your Creation.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 G!d of our ancestors,
 O G!d, please!
 help us!
@@ -104,7 +104,7 @@ to heal with wisdom, your Garden.
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 גוֹאֲלֵנוּ, מַצִּילֵנוּ,
 לַמֵּד אוֺתָנוּ 
 לִחְיוֺת אֶחָד עִם הַשֵּׁנִי, 
@@ -117,7 +117,7 @@ to heal with wisdom, your Garden.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Our Savior, our Redeemer,
 teach us 
 to live with each other,

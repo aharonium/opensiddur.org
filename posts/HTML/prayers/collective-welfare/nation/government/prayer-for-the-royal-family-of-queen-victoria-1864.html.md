@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַנּוֹתֵן תְּשׁוּעָה לַמְּלָכִים 
 וּמֶמְשָׁלָה לַנְּסִיכִים 
 מַלְכוּתוֹ מַלְכוּת כׇּל־עוֹלָמִים 
@@ -22,7 +22,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May he that giveth victory to kings 
 and dominion to princes, 
 whose kingdom is an everlasting kingdom, 
@@ -33,7 +33,7 @@ a pathway through mighty waters,
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הוּא יְבָרֵךְ וְיִשְׁמוֹר וְיִנְצוֹר וְיַעֲזוֹר 
 וִירוֹמֵם וִיגַדֵּל וִינַשֵּׂא לְמַעְלָה
 &nbsp;
@@ -44,7 +44,7 @@ a pathway through mighty waters,
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 O may he bless, preserve, guard and assist
 dignify, aggrandise, and exalt on high,
 our Sovereign Lady QUEEN VICTORIA, 
@@ -55,14 +55,14 @@ and all the ROYAL FAMILY.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מֶלֶךְ מַלְכֵי הַמְּלָכִים 
 בְּרַחֲמָיו יְחַיֶהָ וְיִשְׁמְרֶהָ 
 וּמִכָּל צָרָה וְיָגוֹן וָנֶזֶק יַצִּילֶהָ 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May the supreme King of kings 
 in his mercy grant life and protection <em>to our Queen</em>,
 and deliver her from all trouble, sorrow, and peril. 
@@ -70,14 +70,14 @@ and deliver her from all trouble, sorrow, and peril.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וַיְדַבֵּר עַמִּים תַּחַת רַגְלֶיהָ
 וְיַפִּיל שׂוֹנְאֶיהָ לְפָנֶיהָ 
 וּבְכָל אֲשֶׁר תִּפְנֶה תַצְלִיחַ. 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May he subdue nations beneath her sway,
 and make her enemies fall before her;
 and in every enterprise in which she shall engage may she prosper.
@@ -85,7 +85,7 @@ and in every enterprise in which she shall engage may she prosper.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מֶלֶךְ מַלְכֵי הַמְּלָכִים 
 בְּרַחֲמָיו יִתֵּן בְּלִבָּהּ 
 וּבְלֵב כׇּל יוֹעֲצֶיהָ וְשָׂרֶיהָ 
@@ -94,7 +94,7 @@ and in every enterprise in which she shall engage may she prosper.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May the supreme King of kings 
 in his mercy inspire her heart
 and the hearts of all her counsellors and princes, 
@@ -104,7 +104,7 @@ and with all Israel.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בְּיָמֶיהָ וּבְיָמֵינוּ תִּוָּשַׁע יְהוּדָה. 
 וְיִשְׂרָאֵל יִשְׁכּוֹן לָבֶטַח 
 וּבָא לְצִיּוֹן גּוֹאֵל. 
@@ -113,7 +113,7 @@ and with all Israel.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 In her days and in ours may Judah be delivered, 
 Israel dwell in safety, 
 and a redeemer come to Zion. 

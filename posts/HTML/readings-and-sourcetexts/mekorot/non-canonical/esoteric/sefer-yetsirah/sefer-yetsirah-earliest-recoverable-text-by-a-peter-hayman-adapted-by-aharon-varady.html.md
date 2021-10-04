@@ -7,9 +7,9 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div style="text-align: center;"><span class="scribe" style="font-size:3em; line-height: 1.6em;">נֹטֶ֣ה צָפ֣וֹן עַל־תֹּ֑הוּ תֹּ֥לֶה אֶ֝֗רֶץ עַל־בְּלִי־מָֽה׃</span> <span class="citation">(איוב כו:ז)</span>
+<div style="text-align: center;"><span class="scribe" lang="he" style="font-size:3em; line-height: 1.6em;">נֹטֶ֣ה צָפ֣וֹן עַל־תֹּ֑הוּ תֹּ֥לֶה אֶ֝֗רֶץ עַל־בְּלִי־מָֽה׃</span> <span class="citation">(איוב כו:ז)</span>
 &nbsp;
-<span class="english" style="font-size:3em; line-height: 1.25em;">"[Elohim] stretches out the North over the Abyss, 
+<span class="english" lang="en" style="font-size:3em; line-height: 1.25em;">"[Elohim] stretches out the North over the Abyss, 
 and suspends the Earth upon Nothingness."</span> <span class="citation">(Job 26:7)</span></div>
 
 The Sefer Yetsirah is an esoteric cosmological work whose earliest layer was written by an unknown author during the Tannaitic period (1st-2nd centuries CE). A second layer was added in the Amoraic period (3rd-6th centuries CE), but variations of the text only became more widely extant in the Geonic period (7th-9th centuries). Three variations of the text were known by the 10th century: a Short version, a Long Version, and a variation that R' Saadya Gaon translated and commented upon in Arabic. The text of the Sefer Yetsirah presented here follows the "experimental exercise" produced by Dr. A. Peter Hayman in his <em>Sefer Yeṣira: Edition, Translation, and Text-Critical Commentary</em>, "<a href="https://opensiddur.org/wp-content/uploads/2016/06/sefer-yetsira-earliest-recoverable-text-a.-peter-hayman-Mohr-Siebeck-2004.pdf">Appendix III: The Earliest Recoverable Text of Sefer Yeṣira</a>" (Mohr Siebeck, 2004). Hayman looked through the extant early manuscripts, translations, and commentaries witnessing each strand of the text in order to locate his "earliest recoverable text." By carefully analyzing these manuscripts, Hayman reconstructed a layer of the text common to the three versions that may have circulated early in the Geonic period (or perhaps even earlier). Absent from Hayman's earliest recoverable text are the astrological, anatomical, and some of the linguistic material found in later versions. (Such material may have originated as an esoteric commentary or gloss, on this earlier layer or even earlier layers of the work. "It is the glory of Elohim to conceal a thing; but the glory of kings to search a matter out" --Proverbs 25:2.)
@@ -31,7 +31,7 @@ Summer 5776
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="citation">&nbsp;</span>
 שְׁלֹשִׁים וּשְׁתַּיִם נְתִיבוֹת פְּלִאוֹת חָכְמָה 
 חָקַק יָהּ יהוה צְבָאוֹת 
@@ -40,7 +40,7 @@ Summer 5776
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="citation">[§1]</span>
 Thirty-two wondrous paths of wisdom
 Yah YHVH Tsevaot, carved out 
@@ -51,19 +51,19 @@ with writing (<em>b'sefer</em>), and enumeration (<em>u'səfar</em>), and narrat
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 פרק א׳: עֶשֶׂר סְפִירוֹת בְּלִי־מָה
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <h4>Chapter 1: Ten Sefirot of "Bli-mah"</h4>
 </div></td>
 </tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="citation">&nbsp;</span>
 עֶשֶׂר סְפִירוֹת בְּלִי־מָה 
 מִסְפַּר עֶשֶׂר אֶצְבָּעוֹת 
@@ -73,9 +73,9 @@ with writing (<em>b'sefer</em>), and enumeration (<em>u'səfar</em>), and narrat
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="citation">[§3]</span>
-Ten <em>sefirot</em>[foot]R' Aryeh Kaplan notes in his commentary on the Sefer Yetzirah that the ten sefirot directly refer to the ten creative utterances in Genesis 1. Each of these creative acts is a kind of separation, one thing from another.[/foot] of <em>bli-mah</em> (Nothingness)[foot]A reference to the hapax legomenon in Job 26:7, <span class="scribe">נֹטֶ֣ה צָפ֣וֹן עַל־תֹּ֑הוּ תֹּ֥לֶה אֶ֝֗רֶץ עַל־בְּלִי־מָֽה׃</span>  "he has suspended the world on <em>bli mah</em> -- nothing." Alternately, "emptiness." <em>Bli Mah</em> literally translates to "without" or "absence" of "what." Hayman translates בלימה as "the basis," the implicit question of the author here being: "What is the foundation on which the God has constructed the Universe?" A language of mechanics is perhaps most proper for this metaphysics and so I understand <em>blimah</em> as the suspension point or fulcrum -- the singular point on which a lever pivots or a pendulum swings. I understand the relationship with the <em>shoresh</em> (root), בלם -- to hold in, curb, check, stop, muzzle, restrain, restrict -- in the manner in which our physical laws define our physical reality. Alternately, the limit of nothing may establish the form (יצר) of creation.[/foot] -- 
+Ten <em>sefirot</em>[foot]R' Aryeh Kaplan notes in his commentary on the Sefer Yetzirah that the ten sefirot directly refer to the ten creative utterances in Genesis 1. Each of these creative acts is a kind of separation, one thing from another.[/foot] of <em>bli-mah</em> (Nothingness)[foot]A reference to the hapax legomenon in Job 26:7, <span class="scribe" lang="he">נֹטֶ֣ה צָפ֣וֹן עַל־תֹּ֑הוּ תֹּ֥לֶה אֶ֝֗רֶץ עַל־בְּלִי־מָֽה׃</span>  "he has suspended the world on <em>bli mah</em> -- nothing." Alternately, "emptiness." <em>Bli Mah</em> literally translates to "without" or "absence" of "what." Hayman translates בלימה as "the basis," the implicit question of the author here being: "What is the foundation on which the God has constructed the Universe?" A language of mechanics is perhaps most proper for this metaphysics and so I understand <em>blimah</em> as the suspension point or fulcrum -- the singular point on which a lever pivots or a pendulum swings. I understand the relationship with the <em>shoresh</em> (root), בלם -- to hold in, curb, check, stop, muzzle, restrain, restrict -- in the manner in which our physical laws define our physical reality. Alternately, the limit of nothing may establish the form (יצר) of creation.[/foot] -- 
 the number of the ten fingers, 
 five opposite five, 
 and the covenant of the Unique One is exactly in the middle,
@@ -84,7 +84,7 @@ and the covenant of the Unique One is exactly in the middle,
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="citation">&nbsp;</span>
 עֶשֶׂר סְפִירוֹת בְּלִי־מָה 
 עֶשֶׂר וְלֹא תֵּשַׁע, עֶשֶׂר וְלֹא אַחַת עֶשְׂרֵה 
@@ -95,7 +95,7 @@ and the covenant of the Unique One is exactly in the middle,
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="citation">[§4]</span>
 Ten <em>sefirot</em> of <em>bli-mah</em> -- 
 ten and not nine, ten and not eleven. 
@@ -107,18 +107,18 @@ Test them and investigate them,
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="citation">&nbsp;</span>
 עֶשֶׂר סְפִירוֹת בְּלִי־מָה 
 בְּלוֹם פִּיךָ מְלְּדַבֵּר 
 בְּלוֹם לִבְּךָ מִלְּהַרְהֵר 
 וְאִם רָץ לִיבְּךָ שׁוּב לְמָקוֹם 
-שֶׁכַּךְ נֶאֱמַר <span class="scribe">רָצוֹא וָשׁוֹב</span> <span class="citation">(יחזקאל א:יד)</span>
+שֶׁכַּךְ נֶאֱמַר <span class="scribe" lang="he">רָצוֹא וָשׁוֹב</span> <span class="citation">(יחזקאל א:יד)</span>
 וְעַל דָּבָר זֶה נִכְרְתָה בְרִית.
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="citation">[§5]</span>
 Ten <em>sefirot</em> of <em>bli-mah</em>:
  restrain (<em>b'lom</em>) your mouth from speaking, 
@@ -130,7 +130,7 @@ And concerning this matter a covenant was made.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="citation">&nbsp;</span>
 עֶשֶׂר סְפִירוֹת בְּלִי־מָה 
 נָעוּץ סוֹפָן בִּתְחִילָּתָן וּתְחִילָּתָן בְּסוֹפָן 
@@ -140,7 +140,7 @@ And concerning this matter a covenant was made.
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="citation">[§6]</span>
 Ten <em>sefirot</em> of <em>bli-mah</em>. 
 Their end is fixed in their beginning and their beginning in their end,
@@ -151,7 +151,7 @@ and before one, what can you count?
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="citation">&nbsp;</span>
 עֶשֶׂר סְפִירוֹת בְּלִי־מָה 
 וּמִידָּתָן עֶשֶׂר שֶׁאֵין לָהֶן סוֹף 
@@ -165,7 +165,7 @@ and before one, what can you count?
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="citation">[§7]</span>
 Ten <em>sefirot</em> of <em>bli-mah</em>
  and their measure is ten for they have no end:
@@ -180,18 +180,18 @@ dimension of above and dimension of below,
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="citation">&nbsp;</span>
 עֶשֶׂר סְפִירוֹת בְּלִי־מָה 
-צְפִיָּתָן <span class="scribe">כְּמַרְאֵה הַבָּזָק</span> <span class="citation">(יחזקאל א:יד)</span>
+צְפִיָּתָן <span class="scribe" lang="he">כְּמַרְאֵה הַבָּזָק</span> <span class="citation">(יחזקאל א:יד)</span>
 וְתַכְלִיתָם אֵין לָהֶן קֵץ 
-וּדְבָרוֹ בָהֶן כְּ<span class="scribe">רָצוֹא וָשׁוֹב</span> 
+וּדְבָרוֹ בָהֶן כְּ<span class="scribe" lang="he">רָצוֹא וָשׁוֹב</span> 
 וּלְמַאֲמָרוֹ כְסוּפָה יִרְדּוֹפוּ 
 וְלִפְנֵי כִסְאוֹ הֵם מִשְׁתַחֲוִים
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="citation">[§8]</span>
 Ten <em>sefirot</em> of <em>bli-mah</em>.
 Their appearance? "like a vision of lightning," <span class="citation">(Ezekiel 1:14)</span>
@@ -203,7 +203,7 @@ and before his throne they bow down.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="citation">&nbsp;</span>
 עֶשֶׂר סְפִירוֹת בְּלִי־מָה 
 אַחַת רוּחַ אֱלֹהִים חַיִּים 
@@ -211,23 +211,23 @@ and before his throne they bow down.
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="citation">[§10]</span>
 Ten <em>sefirot</em> of <em>bli-mah</em>. 
-One -- the Ruaḥ Elohim Ḥayyim (Spirit of the Living God).[foot]<span class="hebrew">קול ורוח ודיבור</span> (Voice, and wind, and word) This phrase is absent in the recension of R' Saadya Gaon. Gruenwald comments that "the three words may well point to possible <em>Logos</em>-speculation which lie at the bottom of this section of the book" (1972: p.500). Hayman agrees with Weinstock that the phrase is a "conspicuous enigmatic addition" (1972: 45, n. 8), that the two kinds of <em>ruaḥ</em> are distinguished in the very next section (Mss. 12), and that identifying the two kinds of <em>ruaḥ</em> here compounds the ambiguity of its meaning rather than clarifying it (Hayman, p81-82). The identification of <em>ruaḥ</em> with a Jewish conception of <em>Logos</em> appears significant here, as an introduction to Mss. 12 in its short recension, which further explains that <em>ruaḥ</em> was carved and hewed in the aleph-bet.[/foot] -- 
+One -- the Ruaḥ Elohim Ḥayyim (Spirit of the Living God).[foot]<span class="hebrew" lang="he">קול ורוח ודיבור</span> (Voice, and wind, and word) This phrase is absent in the recension of R' Saadya Gaon. Gruenwald comments that "the three words may well point to possible <em>Logos</em>-speculation which lie at the bottom of this section of the book" (1972: p.500). Hayman agrees with Weinstock that the phrase is a "conspicuous enigmatic addition" (1972: 45, n. 8), that the two kinds of <em>ruaḥ</em> are distinguished in the very next section (Mss. 12), and that identifying the two kinds of <em>ruaḥ</em> here compounds the ambiguity of its meaning rather than clarifying it (Hayman, p81-82). The identification of <em>ruaḥ</em> with a Jewish conception of <em>Logos</em> appears significant here, as an introduction to Mss. 12 in its short recension, which further explains that <em>ruaḥ</em> was carved and hewed in the aleph-bet.[/foot] -- 
 this is the Ruaḥ haQodesh (the Holy Spirit). 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="citation">&nbsp;</span>
 שְׁתַּיִם רוּחַ מֵרוּחַ 
 חָקַק וְחָצַב בָּה אַרְבַּע רוּחוֹת הַשָׁמַיִם
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="citation">[§12]</span>
 Two - wind from <em>Ruaḥ</em>: 
 he carved and hewed in it the four winds of heaven. 
@@ -235,17 +235,17 @@ he carved and hewed in it the four winds of heaven.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="citation">&nbsp;</span>
 שָׁלֹש מַיִם מֵרוּחַ 
-חָקַק וְחָצַב בָּהֶם <span class="scribe">תֹהוּ וָבֹהוּ</span> רֶפֶשׁ וָטִיט 
+חָקַק וְחָצַב בָּהֶם <span class="scribe" lang="he">תֹהוּ וָבֹהוּ</span> רֶפֶשׁ וָטִיט 
 חֲקָקָן כְּמִין עֲרוּגָה 
 הַצִיבָן כְמִין חוֹמָה 
 סִיכְכָן כְמִין מַעֲזִיבָה
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="citation">[§13]</span>
 Three -- water from wind: 
 he carved and hewed in it <em>tohu</em> and <em>bohu</em> <span class="citation">(Genesis 1:2)</span>, mud and mire.
@@ -256,15 +256,15 @@ and he wove them like a sort of ceiling.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="citation">&nbsp;</span>
 אַרְבַּע אֵשׁ מִמַּיִם 
 חָקַק וְחָצַב בָּה כִּסֵּא כָּבוֹד וְכֹּל צָבָא מָרוֹם
-שֶׁכַּךְ כָּתוּב <span class="scribe">עֹשֶׂה מַלְאָכָיו רוּחוֹת</span> <span class="citation">(תהלים קד:ד)</span>
+שֶׁכַּךְ כָּתוּב <span class="scribe" lang="he">עֹשֶׂה מַלְאָכָיו רוּחוֹת</span> <span class="citation">(תהלים קד:ד)</span>
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="citation">[§14]</span>
 Four -- fire from water:
 he carved and hewed in it the Throne of <em>Kavod</em> and all the heavenly host, 
@@ -273,18 +273,18 @@ for thus it is written: "he makes his angels winds" <span class="citation">(Psal
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="citation">&nbsp;</span>
-חָמֵשׁ חָתַם רוּם פָנָה לְמַעְלָה וַחֲתָמוֹ בְּ<span class="scribe">יה״ו</span>
-שֵׁשׁ חָתַם תַּחַת פָנָה לְמַטָּה וַחֲתָמוֹ בְּ<span class="scribe">יו״ה</span>
-שֶׁבַע חָתַם מִזְרָח פָנָה לְפָנָיו וַחֲתָמוֹ בְּ<span class="scribe">הו״י</span>
-שְׁמֹנֶה חָתַם מַעֲרָב פָנָה לְאַחֲרָיו וַחֲתָמוֹ בְּ<span class="scribe">הי״ו</span>
-תֵּשַׁע חָתַם דָּרוֹם פָנָה לִימִינוֹ וַחֲתָמוֹ בְּ<span class="scribe">וי״ה</span>
-עֶשֶׂר חָתַם צָפוֹן פָנָה לִשְׂמֹאלוֹ וַחֲתָמוֹ בְּ<span class="scribe">וה״י</span>
+חָמֵשׁ חָתַם רוּם פָנָה לְמַעְלָה וַחֲתָמוֹ בְּ<span class="scribe" lang="he">יה״ו</span>
+שֵׁשׁ חָתַם תַּחַת פָנָה לְמַטָּה וַחֲתָמוֹ בְּ<span class="scribe" lang="he">יו״ה</span>
+שֶׁבַע חָתַם מִזְרָח פָנָה לְפָנָיו וַחֲתָמוֹ בְּ<span class="scribe" lang="he">הו״י</span>
+שְׁמֹנֶה חָתַם מַעֲרָב פָנָה לְאַחֲרָיו וַחֲתָמוֹ בְּ<span class="scribe" lang="he">הי״ו</span>
+תֵּשַׁע חָתַם דָּרוֹם פָנָה לִימִינוֹ וַחֲתָמוֹ בְּ<span class="scribe" lang="he">וי״ה</span>
+עֶשֶׂר חָתַם צָפוֹן פָנָה לִשְׂמֹאלוֹ וַחֲתָמוֹ בְּ<span class="scribe" lang="he">וה״י</span>
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="citation">[§15]</span>
 Five -- he sealed above. He turned upwards and sealed it with YHV. 
 Six -- he sealed below. He turned downwards and sealed it with YVH.
@@ -296,7 +296,7 @@ Ten -- he sealed the north. He turned to his left and sealed it with VHY.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="citation">&nbsp;</span>
 אֵילּוּ עֶשֶׂר סְפִירוֹת בְּלִי־מָה 
 רוּחַ אֱלֹהִים חַיִּים 
@@ -305,7 +305,7 @@ Ten -- he sealed the north. He turned to his left and sealed it with VHY.
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="citation">[§16]</span>
 These ten <em>sefirot</em> of <em>bli-mah</em>: 
 the Ruaḥ Elohim Ḥayyim; 
@@ -315,18 +315,18 @@ above, below, east, west, north, and south.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 פרק ב׳: עֶשְׂרִים וּשְׁתַּיִם אוֹתִיּוֹת
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <h4>Chapter 2: Twenty-two Letters</h4>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="citation">&nbsp;</span>
 עֶשְׂרִים וּשְׁתַּיִם אוֹתִיּוֹת יְסוֹד 
 שָׁלֹשׁ אִמּוֹת 
@@ -335,7 +335,7 @@ above, below, east, west, north, and south.
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="citation">[§9]</span>
 The twenty-two letters are the foundation:
  three primary,[foot]Literally, "mothers."[/foot]&nbsp;
@@ -345,7 +345,7 @@ and twelve simple (letters).
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="citation">&nbsp;</span>
 [עֶשְׂרִים וּשְׁתַּיִם אוֹתִיּוֹת 
 חֲקוּקוֹת בְּקוֹל 
@@ -359,7 +359,7 @@ and twelve simple (letters).
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="citation">[§17]</span>[foot]The second part of Mss. 17, omitted here, organizes the letters by the place of articulation in the mouth. Hayman notes that "the closest parallel to the theory of phonetics expressed here...is found in an Arabic treatise Kit'ab Al-Ayin produced by the Muslim scientist and linguist Al-Halil (c. 710-775/91)....parallels...discussed by Allony (1972:88-91)" (p.95).[/foot]
 [The twenty-two letters: 
 they are carved out by the voice, 
@@ -374,7 +374,7 @@ Zayin, Samekh; Shin, Resh, Tsadi.]
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="citation">&nbsp;</span>
 עֶשְׂרִים וּשְׁתַּיִם אוֹתִיּוֹת 
 קְבוּעוֹת בְּגַלְגַּל 
@@ -385,7 +385,7 @@ Zayin, Samekh; Shin, Resh, Tsadi.]
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="citation">[§18]</span>
 The twenty-two letters. 
 They are fixed on a wheel. 
@@ -397,7 +397,7 @@ and if in evil, below pain (<em>nega</em>).
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="citation">&nbsp;</span>
 עֶשְׂרִים וּשְׁתַּיִם אוֹתִיּוֹת 
 חֲקָקָן
@@ -413,7 +413,7 @@ and if in evil, below pain (<em>nega</em>).
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="citation">[§19]</span>
 Twenty-two letters:
  he carved them out, 
@@ -430,7 +430,7 @@ The result is that they go out by two-hundred and thirty-one openings.[foot]or "
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="citation">&nbsp;</span>
 יָצַר מִתּוֹהוּ מַמָּשׁ 
 וְעָשָׂאוֹ בַּאֵשׁ 
@@ -439,7 +439,7 @@ The result is that they go out by two-hundred and thirty-one openings.[foot]or "
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="citation">[§20]</span>
 He formed substance from <em>tohu</em>,[foot]Hayman notes that one of the major difficulties presented by the text of the Sefer Yetsirah was its disagreement with the principle, <em>creatio ex nihilo</em>, evident in the absence of the verb ברא in the text.[/foot]&nbsp;
 and he made it with fire 
@@ -449,18 +449,18 @@ and he hewed out great columns from intangible air.[foot]Hayman notes that "grea
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 פרק ג׳: שָׁלוֹשׁ אִימּוֹת
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <h4>Chapter 3: Three Primary Letters</h4>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="citation">&nbsp;</span>
 שָׁלוֹשׁ אִימּוֹת אמ״ש 
 יְסוֹדָן כַּף זְכוּת וְכַּף חוֹבָה 
@@ -468,7 +468,7 @@ and he hewed out great columns from intangible air.[foot]Hayman notes that "grea
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="citation">[§23]</span>
 Three primary letters: Alef, Mem, Shin. 
 Their basis is the scale of acquittal and the scale of guilt, 
@@ -477,7 +477,7 @@ and the language of statute (<em>ḥoq</em>) decides between them.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="citation">&nbsp;</span>
 שָׁלוֹשׁ אִימּוֹת אמ״ש 
 סוֹד גָּדוֹל מְכוּסָּה וּמוּפְלָא 
@@ -487,7 +487,7 @@ and the language of statute (<em>ḥoq</em>) decides between them.
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="citation">[§24]</span>
 Three primary letters: Alef, Mem, Shin -- 
 a great secret, hidden and ineffable,
@@ -498,7 +498,7 @@ and it is wrapped up in male and female.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="citation">&nbsp;</span>
 שָׁלֹשׁ(ה) [אִמּוֹת] &nbsp;
 אֵשׁ לְמַעְלָה 
@@ -507,7 +507,7 @@ and it is wrapped up in male and female.
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="citation">[§25]</span>
 Three [primary letters]: 
 fire above, 
@@ -517,7 +517,7 @@ and wind is [the rule deciding] between them.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="citation">&nbsp;</span>
 שָׁלוֹשׁ אִימּוֹת אמ״ש 
 מֵם דּוֹמֶמֶת 
@@ -526,7 +526,7 @@ and wind is [the rule deciding] between them.
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="citation">[§26]</span>
 Three primary letters: Alef, Mem, Shin. 
 Mem is silent.[foot]Kaplan translates <em>dommemet</em> here as "hums"[/foot]&nbsp;
@@ -536,7 +536,7 @@ Alef is the rule of wind deciding between them.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="citation">&nbsp;</span>
 [הִמְלִיךְ אֹת אָלֶף בְּרוּחַ 
 וְקָשַׁר לוֹ כֶתֶר וְחָתַם בּוֹ אַוֵּיר בָּעוֹלָם
@@ -545,7 +545,7 @@ Alef is the rule of wind deciding between them.
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="citation">[§32]</span>
 [He made the letter Alef rule over wind 
 and bound to it a crown and sealed with it air in the Cosmos, 
@@ -555,7 +555,7 @@ humidity in the year,
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="citation">&nbsp;</span>
 [הִמְלִיךְ אֹת מֵם בְּמַיִם 
 וְקָשַׁר לוֹ כֶתֶר וְחָתַם בּוֹ אֶרֶץ בָּעוֹלָם 
@@ -564,7 +564,7 @@ humidity in the year,
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="citation">[§33]</span>
 [He made the letter Mem rule over water 
 and bound to it a crown and sealed with it earth in the Cosmos, 
@@ -574,7 +574,7 @@ and the belly in the body.]
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="citation">&nbsp;</span>
 [הִמְלִיךְ אֹת שִׁין בְּאֵשׁ 
 וְקָשַׁר לוֹ כֶתֶר וְחָתַם בּוֹ שָׁמַיִם בָּעוֹלָם 
@@ -583,7 +583,7 @@ and the belly in the body.]
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="citation">[§34]</span>
 [He made the letter Shin rule over fire 
 and bound to it a crown and sealed with it heaven in the Cosmos, 
@@ -593,18 +593,18 @@ and the head in the body.]
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 פרק ד׳: שֶׁבַע כְּפוּלוֹת
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <h4>Chapter 4: Seven Double Letters</h4>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="citation">&nbsp;</span>
 שֶׁבַע כְּפוּלוֹת בג״ד כפר״ת 
 מִתְנַהֲגוֹת בְּשְׁתֵּי לְשׁוֹנוֹת
@@ -616,7 +616,7 @@ and the head in the body.]
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="citation">[§37a]</span>
 Seven double letters: Bet, Gimel, Dalet; Khaf, Phe, Resh, Tav. 
 They are pronounced with the tongue in two different positions: 
@@ -629,7 +629,7 @@ soft and hard, a paradigm of strong and weak.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="citation">&nbsp;</span>
 [שֶׁבַע כְּפוּלוֹת בג״ד כפר״ת 
 מִשְׁתַּמְשׁוֹת בְּשְׁתֵּי לְשׁוֹנוֹת
@@ -646,7 +646,7 @@ soft and hard, a paradigm of strong and weak.
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="citation">[§37b]</span>
 [Seven double letters: Bet, Gimel, Dalet; Khaf, Phe, Resh, Tav. 
 They are pronounced with the tongue in two different positions: 
@@ -664,14 +664,14 @@ and the opposite of mastery is slavery.]
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="citation">&nbsp;</span>
 שֶׁבַע כְּפוּלוֹת בג״ד כפר״ת 
 שֵׁשׁ קְצָווֹת וְהֵיכַל קָדוֹשׁ מוּכָן בְּאֶמְצָע [וְהוּא נוֹשֵׂא אֶת כּוּלָם]
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="citation">[§38]</span>
 Seven double letters: Bet, Gimel, Dalet; Khaf, Phe, Resh, Tav.
 Six edges and the holy temple set in the middle [and it supports them all]. 
@@ -679,7 +679,7 @@ Six edges and the holy temple set in the middle [and it supports them all].
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="citation">&nbsp;</span>
 שֶׁבַע כְּפוּלוֹת בג״ד כפר״ת
 חֲקָקָן
@@ -689,7 +689,7 @@ Six edges and the holy temple set in the middle [and it supports them all].
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="citation">[§39]</span>
 Seven double letters: Bet, Gimel, Dalet; Khaf, Phe, Resh, Tav. 
 He carved them, 
@@ -700,7 +700,7 @@ and formed with them the starry planets, the days, and the openings.[foot]Some r
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="citation">&nbsp;</span>
 כְּאֵיזֶה צָד צְרָפָן  
 שְׁתֵּי אֲבָנִים בּוֹנוֹת שְׁנֵי בָּתִּים 
@@ -715,7 +715,7 @@ and formed with them the starry planets, the days, and the openings.[foot]Some r
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="citation">[§40]</span>
 How did he combine them? -- 
 two stones build two houses; 
@@ -751,18 +751,18 @@ Also see the wikipedia entry "<a href="https://en.wikipedia.org/wiki/Factorial">
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 פרק ה׳: שְׁתֵים עֶשְׂרֵה פְּשׁוּטוֹת
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <h4>Chapter 5: Twelve Simple Letters</h4>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="citation">&nbsp;</span>
 שְׁתֵים עֶשְׂרֵה פְּשׁוּטוֹת
 הו״ז
@@ -776,7 +776,7 @@ Also see the wikipedia entry "<a href="https://en.wikipedia.org/wiki/Factorial">
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="citation">[§45]</span>
 Twelve simple letters:
 He, Vav, Zayin, 
@@ -791,7 +791,7 @@ laughter, thought, sleep.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="citation">&nbsp;</span>
 שְׁנֵים עָשָׂר גְּבוּלֵי אֲלַכְסוֹן 
 גְּבוּל מִזְרָחִית צְפוֹנִית 
@@ -809,7 +809,7 @@ laughter, thought, sleep.
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="citation">[§47]</span>
 Twelve diagonal lines: 
 the north-eastern line,
@@ -828,7 +828,7 @@ the lower eastern line,
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="citation">&nbsp;</span>
 שְׁתֵים עֶשְׂרֵה פְּשׁוּטוֹת
 חֲקָקָן
@@ -839,7 +839,7 @@ the lower eastern line,
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="citation">[§48a, Long and Saddyan Recension form]</span>
 Twelve simple letters. 
 He carved them, 
@@ -850,25 +850,25 @@ and formed with them constellations, the months, and the principle (bodily) orga
 </div></td>
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 פרק ו׳: רַאֲיָה לֻדָבָר
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <h4>Chapter 6: The Proof</h4>
 </div></td>
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="citation">&nbsp;</span>
 [אֵילּוּ עֶשְׂרִים וּשְׁתַּיִם אוֹתִיּוֹת 
 שֶׁבָּהֶן יָסַד יָהּ יהוה צְבָאוֹת אֱלֹהִים חַיִּים אֱלֹהֵי יִשְׂרָאֵל 
-<span class="scribe">רָם וְנִשָּׂא שֹׁכֵן עַד וְקָדוֹשׁ שְׁמוֹ</span> <span class="citation">(ישעיה נז:טו)</span>]
+<span class="scribe" lang="he">רָם וְנִשָּׂא שֹׁכֵן עַד וְקָדוֹשׁ שְׁמוֹ</span> <span class="citation">(ישעיה נז:טו)</span>]
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="citation">[§56a]</span>
 [These are the twenty-two letters
  by which (the Cosmos) was founded (by) Yah YHVH Tsevaot, Elohim Ḥayyim, Elohei Yisrael, 
@@ -877,7 +877,7 @@ and formed with them constellations, the months, and the principle (bodily) orga
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="citation">&nbsp;</span>
 שְׁלֹשָׁה אָבוֹת וְתוֹלְדוֹתֵיהֶן 
 וְשִׁבְעָה כֹּבֵשִׁים וְצִבְאוֹתֵיהֶן 
@@ -887,18 +887,18 @@ and formed with them constellations, the months, and the principle (bodily) orga
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="citation">[§58a]</span>
 Three patriarchs[foot]Hayman notes that the inconsistency in terminology, "mothers" vs. "fathers" in describing the primary letters Alef, Mem, and Shin, may point to an earlier version of the text (or texts).[/foot] and their progeny, 
 and seven conquerors and their armies, 
 and twelve borders of the populace. 
-And a proof for the matter -- trustworthy witnesses:[foot]The custom of enlarging the Ayin (in Shema, <span class="hebrew">שמ<span style="font-size:large;">ע</span></span>) and the Daled (in Eḥad, <span class="hebrew">אח<span style="font-size:large;">ד</span></span>) seems to me connected here. The "witnesses" may essentially be creative prompts for this contemplative practice.[/foot]&nbsp;
+And a proof for the matter -- trustworthy witnesses:[foot]The custom of enlarging the Ayin (in Shema, <span class="hebrew" lang="he">שמ<span style="font-size:large;">ע</span></span>) and the Daled (in Eḥad, <span class="hebrew" lang="he">אח<span style="font-size:large;">ד</span></span>) seems to me connected here. The "witnesses" may essentially be creative prompts for this contemplative practice.[/foot]&nbsp;
  the Cosmos, the year, and the body. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="citation">&nbsp;</span>
 [חִיצָה אֶת הַעֵדִים 
 וְהַעֲמִידָן אִחָה אֶחָד לְבַדּוֹ 
@@ -908,7 +908,7 @@ And a proof for the matter -- trustworthy witnesses:[foot]The custom of enlargin
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="citation">[§43c]</span>[foot]Hayman has this section set between §40 and §45 (falling at the end of chapter 4 or the beginnning of chpater 5). I have moved §43c here (to chapter 6) to clarify the narrative of the witnesses of Creation, i.e., establish the witnesses (58a) and then separate them so their testimonies remain individual and thus authoritative.[/foot]
 [He split up the witnesses 
 and made each one stand by itself -- 
@@ -919,7 +919,7 @@ and the body by itself.]
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="citation">&nbsp;</span>
 חֹק עֲשָׂרָה שְׁלֹשָׁה וְשִׁבְעָה וּשְׁנֵים עָשָׂר 
 פְקוּדִין בְּתָּלִי וְגַלְגַּל וָלֵב. 
@@ -929,7 +929,7 @@ and the body by itself.]
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="citation">[§59]</span>
 There is a statute (<em>ḥoq</em>) of ten, three, seven, and twelve. 
 They are present in the Hook (<em>tali</em>)[foot]i.e., a cosmic pivot from which the Cosmos is suspended as a pendulum, I imagine.[/foot], the celestial sphere,[foot]literally, the "Wheel"[/foot] and the mind. 
@@ -940,15 +940,15 @@ The Hook in the Cosmos is like a king on his throne;
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="citation">&nbsp;</span>
 עָשָׂאן כְּמִין מְרִיבָה 
 וְעֲרָכָן כְּמִין מִלְחָמָה 
-<span class="scribe">גַּם אֶת־זֶה לְעֻמַּת־זֶה עָשָׂה הָאֱלֹהִים</span> <span class="citation">(קהלת ז:יד)</span>
+<span class="scribe" lang="he">גַּם אֶת־זֶה לְעֻמַּת־זֶה עָשָׂה הָאֱלֹהִים</span> <span class="citation">(קהלת ז:יד)</span>
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="citation">[§48a, Short Recension form]</span>
 He made them a sort of disputation, 
 he arranged them a sort of battle, 
@@ -957,7 +957,7 @@ he arranged them a sort of battle,
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="citation">&nbsp;</span>
 שְׁלֹשָׁה אֶחָד אֶחָד לְבַדּוֹ 
 עוֹמֵד שִׁבְעָה 
@@ -972,7 +972,7 @@ he arranged them a sort of battle,
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="citation">[§48b]</span>[foot]Hayman has §48a (Short Recension form) and §48b together between §60b and §61. I have moved them one step up, as it were, between §59 and §60b.[/foot]
 Three -- each one by itself; 
 seven stand (in opposition) -- 
@@ -988,7 +988,7 @@ And all of them are engaged[foot]literally, are fastened. Hayman has, "adhered."
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="citation">&nbsp;</span>
 גַּם כָל חֵפֶץ זֶה לְעוּמַּת זֶה עָשָׂה אֱלֹהִים 
 טוֹב לְעוּמַּת רַע רַע מִרַע וְטוֹב מִטּוֹב 
@@ -997,7 +997,7 @@ And all of them are engaged[foot]literally, are fastened. Hayman has, "adhered."
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="citation">[§60b]</span>
 "So Elohim has made every object, one opposite the other" <span class="citation">(cf. Kohelet 7:14)</span>: 
 good opposite evil -- evil from evil and good from good.
@@ -1007,7 +1007,7 @@ Good is stored up for the good.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="citation">&nbsp;</span>
 כְּשֶׁהֵבִין אַבְרָהָם אָבִינוּ 
 וְצָר וְצֹרַף 
@@ -1017,7 +1017,7 @@ Good is stored up for the good.
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="citation">[§61]</span>
 When Avraham our father understood 
 and formed and combined

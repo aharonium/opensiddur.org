@@ -11,12 +11,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 I come today 
 to say goodbye 
 to words 
@@ -25,12 +25,12 @@ that used to speak to me.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Or that spoke to G-d 
 through me, 
 or that spoke to me 
@@ -39,12 +39,12 @@ through G-d.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 However, at this moment, 
 you lie cold 
 and silent 
@@ -53,12 +53,12 @@ and so I too now lack words.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Still, I believe you continue to breathe 
 from your mass grave. 
 My bones whisper 
@@ -72,12 +72,12 @@ with words never yet heard.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 But what of me, 
 how can I now even begin to call out 
 or listen to sounds from other domains, 
@@ -87,12 +87,12 @@ so mute as to be dead?
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Yes, we all have secular words, 
 words that serve us 
 in ordinary discourse 
@@ -105,12 +105,12 @@ and disconnection.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 On the other hand, 
 words that are holy-- 
 that’s a very different story. 
@@ -122,12 +122,12 @@ ask yourself this question:
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 If these pages of Tefillah and Torah, 
 of prayer and teachings, 
 have been washed away 
@@ -140,12 +140,12 @@ through mere ego driven words.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Perhaps you claim 
 that sacred words actually reside 
 in the depths of our own souls? 
@@ -157,12 +157,12 @@ than speaking?
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 In that case, like the words of King Solomon,[foot]Cf. 1 Kings 3:9[/foot]&nbsp; 
 we ask that G-d grant us ‘<em>Lev Shomei’a</em>,’ 
 a heart that hears through the silence, 
@@ -173,12 +173,12 @@ beyond the borders of our sensory world.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Therefore, I call out to you, 
 sweet pages, 
 and sadly tattered sheets, 
@@ -198,12 +198,12 @@ each blessed phrase.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May your words never expire, but rather -- 
 arise and inspire from their hidden tombs 
 to enter a realm where they await 

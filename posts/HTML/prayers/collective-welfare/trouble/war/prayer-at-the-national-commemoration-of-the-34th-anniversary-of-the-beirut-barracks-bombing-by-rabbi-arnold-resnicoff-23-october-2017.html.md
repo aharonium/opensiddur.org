@@ -11,12 +11,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Almighty God,
 we pray, meditate, reflect in different ways – 
 but together mourn our dead, 
@@ -26,12 +26,12 @@ and weep for the pain of their families.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 We praise our heroes past and present, too –  
 because as World War two Reporter Elmer Davis wrote: 
 "this nation shall remain the land of the free 
@@ -40,12 +40,12 @@ only so long as it is the home of the brave."[foot]Elmer Davis, <em>But We Were 
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Thirty four years ago today 
 terrorist attacks took the lives of hundreds of the brave 
 in the American and French compounds 
@@ -59,12 +59,12 @@ in pursuit of a dream.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Let us honor them by being brave ourselves: 
 brave enough to fight when fight we must; 
 brave enough to take some risks even against the odds; 

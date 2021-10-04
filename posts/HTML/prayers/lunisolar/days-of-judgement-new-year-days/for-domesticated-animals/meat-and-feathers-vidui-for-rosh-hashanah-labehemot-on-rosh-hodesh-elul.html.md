@@ -11,12 +11,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">(leader)</span>
 I feel the Presence
 Of what today I call God
@@ -28,24 +28,24 @@ This connection that must know everything because it is everything.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 During Elul we must confess to people before we confess to God
 And perhaps on Rosh HaShanah LaBehemah we must confess to animals before we confess to people.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 So let us begin.
 
 We acknowledge our debts to and our transgressions against
@@ -57,12 +57,12 @@ Our property, our friends, our victims.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And we ask that they hear our confessions and our blessings:
 
 <span class="instruction">(together)</span>
@@ -81,12 +81,12 @@ We celebrate the many gifts you give us, willingly and unwillingly.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">(leader)</span>
 We eat you,
 We eat your bodies and reminisce over the best parts,
@@ -95,12 +95,12 @@ We share recipes.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 We eat your children,
 We drink the milk and the honey you make to feed those children,
 We eat your eggs before they can even be children.
@@ -108,12 +108,12 @@ We eat your eggs before they can even be children.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 We keep ourselves warm with your skin
 And steal your beauty to enhance our own.
 We cultivate you for your fur and feathers and kill you whenever we need them.
@@ -121,12 +121,12 @@ We cultivate you for your fur and feathers and kill you whenever we need them.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 We like the way you look.
 We make art and poetry to celebrate you in the fields and farms
 Just before we slaughter you.
@@ -134,12 +134,12 @@ Just before we slaughter you.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 For thousands of years
 We have used your bodies to plow our fields and mill our grain,
 We have used your bodies to ride from place to place
@@ -149,12 +149,12 @@ We use you for sport or dog food.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 We bless your memory.
 
 <span class="instruction">(together)</span>
@@ -172,12 +172,12 @@ We acknowledge how we have abused you.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">(leader)</span>
 We imprison you.
 We torture you.
@@ -186,12 +186,12 @@ We test our make up and drugs on you.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 We ride you.
 We train you.
 And we discard you when you're old.
@@ -199,12 +199,12 @@ And we discard you when you're old.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 We enclose herd animals alone in stalls instead of with their own kind,
 We cram you into metal enclosures that won't allow any movement,
 We raise thousands in spaces fit only for hundreds.
@@ -212,12 +212,12 @@ We raise thousands in spaces fit only for hundreds.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 We murder you.
 We wring your necks.
 We behead you.
@@ -230,12 +230,12 @@ We chop and grind you up.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 We acknowledge our cruelty and ask for your forgiveness.
 
 <span class="instruction">(together)</span>
@@ -255,12 +255,12 @@ We confess how we have lied to ourselves about what we do to you.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">(leader)</span>
 We call you
 Porterhouse Steak
@@ -278,12 +278,12 @@ Anything but what you really are.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 We buy slabs of meat in transparent packages that don't look like you
 So we don't have to think about how you were raised and slaughtered.
 You are a breast or a leg or a steak,
@@ -299,12 +299,12 @@ And we sleep well.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 We give thanks for denial, without which we could not get through the day.
 
 <span class="instruction">(together)</span>
@@ -322,12 +322,12 @@ Forgive those of us who cannot give you up.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">(leader)</span>
 You domestic beasts are all vegetarians, why is that?
 Why don't we eat predators?
@@ -337,12 +337,12 @@ Or is it because predators remind us of ourselves?
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Maybe some of us here don't eat you
 Maybe some of us here don't wear you.
 Maybe none of us should.
@@ -351,12 +351,12 @@ But many of us do.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">(optional)</span>
 I do.
 I eat meat. I love meat.
@@ -374,12 +374,12 @@ This month, anyway.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">(optional)</span> Are there any other confessions, besides mine? anyone? (<span class="instruction">(wait)</span>
 
 <span class="instruction">(together)</span>
@@ -398,12 +398,12 @@ We could try to make at least small changes.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">(leader)</span>
 We can eat less meat.
 We can wear less leather.
@@ -417,12 +417,12 @@ We can use alternative down feather pillows, though that's plastic and not so go
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Maybe we become vegetarians or vegans,
 Maybe we don't.
 But we can do a little.
@@ -431,12 +431,12 @@ We can start.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">(together)</span>
 <em>Barukh Atah Adonai
 Brukha At Shekhinah</em>
@@ -454,12 +454,12 @@ And we wish them a Happy New Year and a Ḥodesh Tov
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And let us say,
 <em>Amen</em>
 </div></td></tr>

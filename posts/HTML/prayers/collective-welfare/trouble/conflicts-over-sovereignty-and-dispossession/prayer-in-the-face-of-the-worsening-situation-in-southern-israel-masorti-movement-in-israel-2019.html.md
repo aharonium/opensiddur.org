@@ -11,18 +11,18 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 תפילה נוכח הרעה מדרום
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <u>Prayer in the face of the worsening situation in southern Israel</u>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִי שֶׁבֵּרַךְ אֲבוֹתֵינוּ אַבְרָהָם יִצְחָק וְיַעֲקֹב,
 וְאִמּוֹתֵינוּ שָׂרָה רִבְקָה לֵאָה וְרָחֵל,
 הוּא יְבָרֵךְ אֶת תּוֹשְׁבֵי מְדִינַת יִשְׂרָאֵל
@@ -30,7 +30,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May the One who blessed our forefathers: Avraham, Yitsḥaḳ, and Yaaḳov
 and our foremothers: Sarah, Rivḳah, Leah, and Raḥel
 bless the inhabitants of the State of Israel
@@ -39,7 +39,7 @@ who live under the daily threat of missiles of death and destruction.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַקָּדוֹשׁ בָּרוּךְ הוּא 
 יְחַזֵּק אֶת לִבָּם 
 וְאֶת כֹּשֶׁר עֲמִידָתָם 
@@ -48,7 +48,7 @@ who live under the daily threat of missiles of death and destruction.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May the blessed Holy One,
 strengthen their hearts
 and reinforce their resilience 
@@ -58,7 +58,7 @@ until the wrath passes.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְהִי רָצוֹן מִלִּפְנֵי יוֹשֵׁב בַּמְּרוֹמִים 
 שֶׁיִּתֵּן עֵצָה טוֹבָה בְּלֵב כׇּל קְבַרְנִיטֵי הַמְּדִינָה,
 שֶׁיֵּדְעוּ לְנַהֵל אֶת מִלְחֶמֶת הָעָם בְּתוּשִׁיָּה, 
@@ -66,7 +66,7 @@ until the wrath passes.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May it be the will of the One who resides in the Heights
 to give good counsel to the mind of all the leaders of the State
 that they know to conduct the people’s war with resourcefulness, 
@@ -75,7 +75,7 @@ with discernment and wisdom.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ה׳ צְבָאוֹת, אֱלֹהֵי מַעַרְכוֹת יִשְׂרָאֵל,
 שְׁמֹר נָא עַל חַיָּלֵי צְבָא הַהֲגָנָה לְיִשְׂרָאֵל
 הָעוֹמְדִים בַּמַּעֲרָכָה בַּיַּבָּשָׁה, בָּאֲוִיר וּבַיָּם, 
@@ -84,7 +84,7 @@ with discernment and wisdom.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 YHVH Tsevaot, <em>elo’ah</em> of the ranks of Israel,
 please protect the soldiers of the Israel Defense Forces
 who are involved in this campaign, on land, in the air, and at sea, 
@@ -94,14 +94,14 @@ and all the security and rescue forces.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַצִּילֵם אֱלֹהֵינוּ מִכׇּל צָרָה וְצוּקָה וּמִכׇּל פֶּגַע רַע,
 וּשְׁלַח בְּרָכָה וְהַצְלָחָה בְּמַעֲשֵׂי יְדֵיהֵם׃
 צֵאתָם לְשָׁלוֹם וְשׁוּבָם לְבָתֵּיהֶם לְחַיִּים וּלְשָׁלוֹם.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Save them, our <em>elo’ah</em>, from every trouble and malevolent design,
 and deliver blessing and success to the striving of their hands.
 May they go out in peace and return to their homes alive and whole.
@@ -109,7 +109,7 @@ May they go out in peace and return to their homes alive and whole.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָבִינוּ שֶׁבַּשָּׁמַיִם, 
 שִׂים שָׁלוֹם בָּאָרֶץ וְשִׂמְחַת עוֹלָם לְכׇל יוֹשְׁבֶיהָ,
 וִיקֻיַּם בָּנוּ בִּמְהֵרָה בְיָמֵינוּ מִקְרָא שֶׁכָּתוּב:
@@ -118,7 +118,7 @@ May they go out in peace and return to their homes alive and whole.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Our Guardian in Heaven,
 bring peace to the Land and endless joy to its inhabitants
 and fulfill for them, speedily in our days, what is written in Scripture:
@@ -128,13 +128,13 @@ For it was as YHVH Tsevaot decreed.”[foot]Micah 4:4.[/foot]
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְכֵן יְהִי רָצוֹן, 
 וְנֹאמַר אָמֵן.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May it be your will 
 and let us say, Amen.
 </div></td></tr>

@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּר֖וּךְ יְהוָ֥ה לְ֝עוֹלָ֗ם אָ֘מֵ֥ן ׀ וְאָמֵֽן׃ <span class="citation">(תהלים פט:נג)</span>
 בָּ֘ר֤וּךְ יְהוָ֨ה ׀ מִצִּיּ֗וֹן 
 שֹׁ֘כֵ֤ן 
@@ -19,7 +19,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Barukh Yah always, <em>Amen</em>, <em>Amen</em>.[foot]Psalms 89:53[/foot]
 From Tsiyyon,
 From your dwelling 
@@ -28,7 +28,7 @@ in Yerushalayim,
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַֽלְלוּ־יָֽהּ׃ <span class="citation">(תהלים קלה:כא)</span>
 בָּר֤וּךְ ׀ יְהוָ֣ה אֱ֭לֹהִים 
 אֱלֹהֵ֣י יִשְׂרָאֵ֑ל 
@@ -36,7 +36,7 @@ in Yerushalayim,
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 We send our Hallelu-Yah.[foot]Psalms 135:21[/foot]
 Barukh, too, to you, Yah,
 Yisrael’s god,
@@ -45,7 +45,7 @@ Who alone, does amazing things.[foot]Psalms 72:18[/foot]
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּבָר֤וּךְ ׀ שֵׁ֥ם כְּבוֹד֗וֹ 
 לְע֫וֹלָ֥ם וְיִמָּלֵ֣א כְ֭בוֹדוֹ 
 אֶת־כֹּ֥ל הָאָ֗רֶץ 
@@ -53,7 +53,7 @@ Who alone, does amazing things.[foot]Psalms 72:18[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May the glorious Presence,
 Governing numberless worlds,
 Manifest in this world

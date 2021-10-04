@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Translation (Yiddish)</th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="yiddish"><span lang="he">
+<div class="yiddish" lang="yi">
 מײן לאנד, מײן ליבע דו, 
 מײן פרײהײט־לאנד, נעם צו 
 מײן לױב־געזאנג! 
@@ -22,7 +22,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 My country, 'tis of thee,
 Sweet land of liberty,
 Of thee I sing;
@@ -34,7 +34,7 @@ Let freedom ring!
 
 
 <tr><td style="vertical-align:top;">
-<div class="yiddish"><span lang="he">
+<div class="yiddish" lang="yi">
 דו ליבע הײמלאנד מײן, 
 דו לאנד פון פרײהײט־שײן, 
 ליב נאָמען דו.
@@ -45,7 +45,7 @@ Let freedom ring!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 My native country, thee,
 Land of the noble free,
 Thy name I love;
@@ -57,7 +57,7 @@ Like that above.
 
 
 <tr><td style="vertical-align:top;">
-<div class="yiddish"><span lang="he">
+<div class="yiddish" lang="yi">
 זאָל שװעבן קלאנג אין רױם, 
 זאָל זינגען יעדער בױם 
 דאָס פרײ געזאנג; 
@@ -68,7 +68,7 @@ Like that above.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Let music swell the breeze,
 And ring from all the trees
 Sweet freedom's song;
@@ -80,7 +80,7 @@ The sound prolong.
 
 
 <tr><td style="vertical-align:top;">
-<div class="yiddish"><span lang="he">
+<div class="yiddish" lang="yi">
 פון מײנע אָבוֹת, — גאָט. 
 דו האר פון פרײ־געבאָט, 
 מײן לױב נעם צו! 
@@ -91,7 +91,7 @@ The sound prolong.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Our fathers' God to Thee,
 Author of liberty,
 To Thee we sing.

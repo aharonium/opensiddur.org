@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וַיְבָ֤רֶךְ דָּוִיד֙ אֶת־יְהוָ֔ה 
 לְעֵינֵ֖י כָּל־הַקָּהָ֑ל 
 וַיֹּ֣אמֶר דָּוִ֗יד 
@@ -22,7 +22,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And David worshipped Yah
 For all the crowd to see.
 And David said,
@@ -34,7 +34,7 @@ Ruling countless worlds.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לְךָ֣ יְ֠הוָה 
 הַגְּדֻלָּ֨ה 
 וְהַגְּבוּרָ֤ה 
@@ -49,7 +49,7 @@ Ruling countless worlds.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 All virtue is yours:
 Gedulah, Ḥesed, Largesse,
 Gevurah, power and Law,
@@ -65,7 +65,7 @@ Malkhut, most sublime.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְהָעֹ֤שֶׁר וְהַכָּבוֹד֙ 
 מִלְּפָנֶ֔יךָ 
 וְאַתָּה֙ מוֹשֵׁ֣ל בַּכֹּ֔ל 
@@ -74,7 +74,7 @@ Malkhut, most sublime.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Abundance and honor 
 Are before you.
 And you reign over the all.
@@ -84,7 +84,7 @@ You can empower and raise up.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְעַתָּ֣ה 
 אֱלֹהֵ֔ינוּ 
 מוֹדִ֥ים אֲנַ֖חְנוּ לָ֑ךְ 
@@ -93,7 +93,7 @@ You can empower and raise up.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And, as of right now,
 O, our God, 
 We thank you,

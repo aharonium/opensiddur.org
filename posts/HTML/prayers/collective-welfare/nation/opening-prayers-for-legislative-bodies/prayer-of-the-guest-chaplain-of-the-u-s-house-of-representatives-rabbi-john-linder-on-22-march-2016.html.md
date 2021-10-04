@@ -34,23 +34,23 @@ Mr. Speaker, please join me in welcoming Rabbi Linder to the House of Representa
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <h3>Opening Prayer Given by the Guest Chaplain:</h3>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 God of all people and all understanding, 
 give us strength and reason during these perilous times; 
 bring consolation to the bereaved in Belgium. 
@@ -60,12 +60,12 @@ as they represent these great United States.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Collectively, brothers and sisters, 
 you are a tapestry of America, 
 a beautiful quilt of diversity, 
@@ -74,12 +74,12 @@ the best of who we can be.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Our respective faiths remind us 
 that the measure of society 
 is how we treat the most vulnerable:[foot]After Hubert Humphrey (1911-1978), U.S. Vice President from 1965 to 1969 who at the Hubert Humphrey Building dedication in Washington, D.C. on November 1, 1977, said, “the moral test of government is how that government treats those who are in the dawn of life, the children; those who are in the twilight of life, the elderly; those who are in the shadows of life; the sick, the needy and the handicapped.” Humphrey may have been adapting another quote from the author, Pearl Buck (1892-1973), who wrote: “Our society must make it right and possible for old people not to fear the young or be deserted by them, for the test of a civilization is the way that it cares for its helpless members.” The phrasing by Rabbi Linder recalls a phrase commonly attributed to Mahatma Ghandi who may have said, “The greatness of a nation and its moral progress can be judged by the way in which its animals are treated. I hold that the more helpless a creature, the more entitled it is to protection by man from the cruelty of man.”[/foot]
@@ -90,12 +90,12 @@ the stranger in our midst.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 God bless the Members of this House, 
 their families and staff, 
 and all those workers who humbly serve 
@@ -105,12 +105,12 @@ these hallowed Halls.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May these deliberations 
 reflect the best of humanity, 
 honoring the divine spark in one another.[foot]The scholar Rabbi Louis Jacobs (1920-2006), on the history of the popular belief in <a href="https://louisjacobs.org/articles/the-doctrine-of-the-divine-spark-in-man-in-jewish-sources/">innate divine sparks within all of us</a>: "The belief that there is a special mystical ‘spark’ in every human breast can be traced back, in western mysticism, at least to Jerome in the fourth century. Both Bonaventura and Bernard of Clairvaux speak of this mystical organ; the latter, calling it scintillula, a small spark of the soul, and speaking of the nearness of God, said: ‘Angels and archangels are within us, but He is more truly our own who is not only with us but in us.’ However, both these mystics are anxious to prevent an identification of this mystical spark with the divine. Eckhart, on the other hand, embraces the identification, calling the spark, among other endearing names, das Kleidhaus Gottes, ‘the house in which God attires Himself ’. This and other pantheistic tendencies in Eckhart’s thought were condemned in the papal Bull of 1529..."[/foot]
@@ -118,12 +118,12 @@ honoring the divine spark in one another.[foot]The scholar Rabbi Louis Jacobs (1
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 "Long may our land be bright, 
 with freedom's holy light,"[foot]"<a href="https://en.wikipedia.org/wiki/My_Country,_%27Tis_of_Thee">My Country, 'Tis of Thee</a>" (Samuel Francis Smith, 1831)[/foot] 
 as we continue to shine 
@@ -134,12 +134,12 @@ and around the world.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָמֵן׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <em>Amen.</em>
 </div></td></tr>
 </tbody></table>

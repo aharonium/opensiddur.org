@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִפִּי אֵל, מִפִּי אֵל,
 יִבוֹרַךְ יִשְׂרָאֵל.
 מִפִּי אֵל, מִפִּי אֵל,
@@ -19,7 +19,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 From the mouth of אל
 Yisra'el will be blessed.
 Yisra'el will be blessed
@@ -28,7 +28,7 @@ from the mouth of אל.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֵין <span class="acrostic">אַ</span>דִּיר כַּיְיָ,
 וְאֵין <span class="acrostic">בָּ</span>רוּךְ כְּבֶן עַמְרָם.
 אֵין <span class="acrostic">גְ</span>דוּלָה כַּתּוֹרָה,
@@ -36,7 +36,7 @@ from the mouth of אל.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <span class="acrostic">&nbsp;</span>There is none as powerful as יהוה
 <span class="acrostic">&nbsp;</span>There is none as blessed as the son of Amram
 <span class="acrostic">&nbsp;</span>There is nothing as great as the Torah
@@ -45,7 +45,7 @@ from the mouth of אל.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֵין <span class="acrostic">הָ</span>דוּר כַּיְיָ,
 וְאֵין <span class="acrostic">וָ</span>תִיק כְּבֶן עַמְרָם.
 אֵין <span class="acrostic">זְ</span>כִיָה כַּתּוֹרָה,
@@ -53,7 +53,7 @@ from the mouth of אל.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <span class="acrostic">&nbsp;</span>There is none as adorned as יהוה
 <span class="acrostic">&nbsp;</span>There is none as trustworthy as the son of Amram
 <span class="acrostic">&nbsp;</span>There is no reward like the Torah
@@ -62,7 +62,7 @@ from the mouth of אל.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֵין <span class="acrostic">טָ</span>הוֹר כַּיְיָ,
 וְאֵין <span class="acrostic">יָ</span>שָׁר כְּבֶן עַמְרָם.
 אֵין <span class="acrostic">כְּ</span>בוּדָה כַּתּוֹרָה,
@@ -70,7 +70,7 @@ from the mouth of אל.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <span class="acrostic">&nbsp;</span>There is none as pure as יהוה
 <span class="acrostic">&nbsp;</span>There is none as righteous as the son of Amram
 <span class="acrostic">&nbsp;</span>There is no honor like the Torah
@@ -79,7 +79,7 @@ from the mouth of אל.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֵין <span class="acrostic">מֶ</span>לֶךְ כַּיְיָ,
 וְאֵין <span class="acrostic">נָ</span>בִיא כְּבֶן עַמְרָם.
 אֵין <span class="acrostic">סְ</span>גֻלָּה כַּתּוֹרָה,
@@ -87,7 +87,7 @@ from the mouth of אל.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <span class="acrostic">&nbsp;</span>There is no king like יהוה
 <span class="acrostic">&nbsp;</span>There is prophet like the son of Amram
 <span class="acrostic">&nbsp;</span>There is no treasured posession like the Torah
@@ -96,7 +96,7 @@ from the mouth of אל.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֵין <span class="acrostic">פּ</span>וֹדֶה כַּיְיָ,
 וְאֵין <span class="acrostic">צַ</span>דִּיק כְּבֶן עַמְרָם.
 אֵין <span class="acrostic">קְ</span>דוּשָׁה כַּתּוֹרָה,
@@ -104,7 +104,7 @@ from the mouth of אל.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <span class="acrostic">&nbsp;</span>There is none who save like יהוה
 <span class="acrostic">&nbsp;</span>There is none as just as the son of Amram
 <span class="acrostic">&nbsp;</span>There is no holiness like the Torah
@@ -113,7 +113,7 @@ from the mouth of אל.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֵין <span class="acrostic">קָ</span>דוֹשׁ כַּיְיָ,
 וְאֵין <span class="acrostic">רַ</span>חוּם כְּבֶן עַמְרָם.
 אֵין <span class="acrostic">שְׁ</span>מִירָה כַּתּוֹרָה,
@@ -121,7 +121,7 @@ from the mouth of אל.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <span class="acrostic">&nbsp;</span>There in none as holy as יהוה
 <span class="acrostic">&nbsp;</span>There is none as merciful as the son of Amram
 <span class="acrostic">&nbsp;</span>There is no observance like the Torah
@@ -138,5 +138,7 @@ The English translation here by Akiva Sanders was published in the birkon for hi
 <h3>Source(s)</h3>
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/simanlvanimdimusparrhesiapress2019#page/n120/mode/2up"]
+
+&nbsp;
 </body>
 </html>

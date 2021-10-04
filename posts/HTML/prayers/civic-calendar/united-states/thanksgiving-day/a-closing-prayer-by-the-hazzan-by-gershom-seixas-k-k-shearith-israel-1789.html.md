@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְהִי יְהוָה אֱלֹהֵינוּ עִמָּנוּ כַּאֲשֶׁר הָיָה עִם־אֲבֹתֵינוּ 
 אַל־יַעַזְבֵנוּ וְאַל־יִטְּשֵׁנוּ׃
 לְהַטּוֹת לְבָבֵנוּ אֵלָיו 
@@ -21,7 +21,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May the Lord our God be with us, as he was with our fathers; 
 may he never leave us or forsake us; 
 that he may incline our hearts unto him, 
@@ -32,7 +32,7 @@ his statutes and his judgments which he commanded our fathers.[foot]I Kings 8:57
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְיִהְיוּ דְבָרַי אֵלֶּה 
 אֲשֶׁר הִתְחַנַּנְתִּי לִפְנֵי יְהוָה 
 קְרֹבִים אֶל־יְהוָה אֱלֹהֵינוּ יוֹמָם וָלָיְלָה 
@@ -42,7 +42,7 @@ his statutes and his judgments which he commanded our fathers.[foot]I Kings 8:57
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 And may these my words, 
 wherewith I have made supplication before the Lord, 
 be nigh unto the Lord our God, day and night, 
@@ -53,20 +53,20 @@ at all times, as the matter shall require.[foot]I Kings 8:59.[/foot]
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שֶׁיֵדְעוּ כׇּל יוֹשְׁבֵי תֵבֵל
 כִּי יְיָ הוּא אֱלֹהִים וְאֵין עוֹד׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 That all the people of the earth may know
 that the Lord he is God and none else.[foot]I Kings 8:60.[/foot]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לֹא־יָמוּשׁ סֵפֶר הַתּוֹרָה הַזֶּה מִפִּיךָ 
 וְהָגִיתָ בּוֹ יוֹמָם וָלַיְלָה 
 לְמַעַן תִּשְׁמֹר לַעֲשׂוֹת כְּכָל־הַכָּתוּב בּוֹ 
@@ -75,7 +75,7 @@ that the Lord he is God and none else.[foot]I Kings 8:60.[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 This book of the law shall not depart from thy mouth; 
 and thou shalt meditate therein day and night, 
 that thou mayest observe to do according to all that is written therein: 
@@ -85,7 +85,7 @@ and then shalt thou be prudent.[foot]Joshua 1:8.[/foot]
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הֲלוֹא צִוִּיתִיךָ 
 חֲזַק וֶאֱמָץ 
 אַל־תַּעֲרֹץ וְאַל־תֵּחָת 
@@ -94,7 +94,7 @@ and then shalt thou be prudent.[foot]Joshua 1:8.[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Have I not commanded thee? 
 Be strong and of good courage;
 be not afraid, neither be thou dismayed: 
@@ -104,12 +104,12 @@ whithersoever thou goest.[foot]Joshua 1:9.[/foot]
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 תְּקֻבַּל בְּרַחֲמִים וּבְרָצוֹן תְּפִלָּתֵנוּ׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May our prayers be accepted with loving favor.
 </div></td></tr>
 </tbody></table>

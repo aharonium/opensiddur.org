@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 When praying alone, Jews do not recite certain prayers that are known as "<em>devarim she-bi-kdusha</em>." These texts, almost always call-and-response in structure, are only said when one has a minyan of ten eligible adults (in Orthodox practice, eligible men). This means that when praying alone, many beloved passages are skipped. One of these is the Kaddish.
 
 The Kaddish prayer is used to mark major divisions in the service. (As an incredibly brief summary: the half-Kaddish marks a break before a service, the full Kaddish marks the end of a main service, the kaddish d'rabbanan marks a break after study, and the mourner's kaddish does everything else.) The Kaddish is a classic doxology, a prayer that repeats the praises of God and serves as a summary and conclusion of what has been said before. It is in Aramaic, the language of the community, and it is call and response. Many a mourner is aware of the pain that can come when one shows up to say kaddish and they can't make a minyan.
@@ -23,14 +23,14 @@ This is part one in a series of replacements when praying alone for the Askhenaz
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בְּרִיךְ שְׁמֵיהּ דְּקוּדְשָׁא בְּרִיךְ הוּא 
 (<span class="instruction">על ימים נוראים:</span> לְעֵילָא,) לְעֵילָא מִן־כָּל‪‬ בִּרְכָתָא שִׁירָתָא 
 תֻּשְׁבְּחָתָא וְנֶחָמָתָא דַּאֲמִירָן בְּעָלְמָא׃ 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Blessed is the Name of the blessed Holy One‪,‬ 
 (<span class="instruction">during the Ten Days:</span> high,) high above all blessings and songs‪,‬ 
 praises and comforts that we say in this world‪.‬
@@ -38,14 +38,14 @@ praises and comforts that we say in this world‪.‬
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 תִּתְקַבַּל צְלוֹתִי וּבָעוּתִי 
 עִם צְלוֹתְהוֹן וּבָעוּתְהוֹן דְּכָל־בֵּית יִשְׂרָאֵל 
 קֳדָם אַבָּא דְּבִשְׁמַיָּא׃ 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May my blessings and pleas be received 
 with the blessings and pleas of all the house of Israel 
 before my Parent who is in heaven.
@@ -53,7 +53,7 @@ before my Parent who is in heaven.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְהֶא שְׁלָמָא רַבָּא מִן שְׁמַיָּא 
 וְחַיִּים עָלַי‎ וְעַל כָּל־יִשְׂרָאֵל׃ 
 עֹשֶׂ֥ה שָׁ֝ל֗וֹם בִּמְרוֹמָֽיו 
@@ -62,7 +62,7 @@ before my Parent who is in heaven.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May there be great peace from heaven 
 and life upon me and upon all of Israel. 
 May the Maker of peace above 
@@ -72,13 +72,13 @@ and upon all Israel.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָמֵן וְאָמֵן 
 כֵּן יְהִי רָצוֹן׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <em>Amen</em> and <em>amen</em>, 
 thus may it be Your will.
 </div></td></tr>

@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english">
+<div class="english" lang="en">
 <span style="font-size: 14pt;">A raging soaring memory-flame burns within me,</span>
 <span style="font-size: 14pt;"> when my delighted heart rises up to remember:</span>
 <span style="padding-left: 5em; font-size: 14pt;"> my leaving Egypt;</span>

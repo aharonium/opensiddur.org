@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מי שברך אבות־אבותינו, 
 אדם וחוה, נח ומשפחתו, 
 הוא יברך וירפא את החולים במגפה 
@@ -24,7 +24,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May God who blessed our distant ancestors, 
 Adam and Ḥavah, Noaḥ and his family, 
 bless and heal those stricken with the coronavirus and the plague 
@@ -38,7 +38,7 @@ together with all who are ill.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֱלֹהֵי העולמים, 
 אמץ את כוחם של הנאבקים לצד החולים. 
 תן בלב משפחותיהם תקווה ותעצומות נפש; 
@@ -51,7 +51,7 @@ together with all who are ill.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 God of the entire world, 
 strengthen those who are fighting alongside the ailing. 
 Plant hope and strength of spirit in the hearts of their families; 
@@ -66,7 +66,7 @@ so that we may be filled with compassion and support them.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מי יתן ובעת הזו יתאחדו מנהיגי העולם 
 ותושביו לטובה, 
 ויהי אחרי המגפה, 
@@ -75,7 +75,7 @@ so that we may be filled with compassion and support them.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Grant that world leaders and the residents of all nations come together at this time 
 for the good of all, 
 and after the plague has passed 
@@ -85,13 +85,13 @@ May love, solidarity, peace and health reign in the world.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אל נא רפא נא להם, 
 ונאמר אמן.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Please God, please heal them,[foot]cf. Numbers 12:3.[/foot]&nbsp; 
 and let us say, <em>Amen</em>.
 </div></td></tr>

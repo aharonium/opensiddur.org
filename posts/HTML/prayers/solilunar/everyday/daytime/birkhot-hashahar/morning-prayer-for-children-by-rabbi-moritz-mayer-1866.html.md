@@ -11,12 +11,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 O God! Thy goodness now I praise 
 That did Thy child securely keep; 
 My grateful heart and eyes I raise 
@@ -25,12 +25,12 @@ To Thee who call'st me up from sleep.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 O God! be Thou my helping friend, 
 And guide me in the way of night; 
 From ev'ry sin my life defend 
@@ -39,12 +39,12 @@ Send to my soul Thy heav'nly light.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 My parents, brothers, sisters dear 
 Protect and shield beneath Thy love; 
 Awake or 'sleep, Thou, God, art near, 
@@ -53,12 +53,12 @@ To grant Thy blessings from above.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 And pure as I commence this day, 
 May I conclude it joyfully, --
 With deeds that never pass away, 

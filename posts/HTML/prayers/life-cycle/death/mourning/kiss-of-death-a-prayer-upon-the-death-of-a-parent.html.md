@@ -11,13 +11,13 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ‏על פי ה׳ --
 מלמד שמת בנשיקה‏
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <em>At the word of (by the mouth of) Hashem</em> -- 
 We learn that he [Aharon] died with a kiss. 
 <span class="citation">—Rashi on Numbers 33:38</span>
@@ -25,13 +25,13 @@ We learn that he [Aharon] died with a kiss.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 נשיקה --
 דמיא כמשחל בניתא מחלבא
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <em>Neshika</em> -- 
 the “kiss” is comparable to removing a hair from milk. 
 <span class="citation">—Talmud Bavli, Tractate Berakhot 8a</span>
@@ -39,12 +39,12 @@ the “kiss” is comparable to removing a hair from milk.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Hashem, 
 please do kiss warmly my mother/father hello 
 as we struggle to kiss her/him good-bye.
@@ -52,12 +52,12 @@ as we struggle to kiss her/him good-bye.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Hashem, 
 please favor me, 
 to inhale smoothly her/him into your heart
@@ -66,12 +66,12 @@ as we exhale our rough grief from our entangled hearts.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Hashem, 
 please with grace, 
 lift quickly and wholly her/him into your embrace 
@@ -80,12 +80,12 @@ as we endure slowly her/him leaving this world’s firm grip.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Hashem, 
 please grant me for you to slide quickly her/his body from her/his meritorious soul,
 a soul providing sustaining milk/support to many for many years in many ways.
@@ -93,12 +93,12 @@ a soul providing sustaining milk/support to many for many years in many ways.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Hashem, 
 please with compassion place her/his soul among her/his loved ones and friends
 as we place her/his body among beloved flowers and fertile earth.
@@ -106,12 +106,12 @@ as we place her/his body among beloved flowers and fertile earth.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Hashem please, 
 always show and remind me the many, blessed memories of her/him
 till the day I too die, 
@@ -119,12 +119,12 @@ till the day I too die,
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <em>Amen</em>
 </div></td></tr>
 </tbody></table>

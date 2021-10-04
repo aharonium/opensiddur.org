@@ -11,18 +11,18 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִזְמוֹר שִׁיר לְיוֹם הַשַּׁבָּת׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 A Song for the Shabbat Day.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 טוֹב לְהֹדוֹת לַיהוה, 
 וּלְזַמֵּר לְשִׁמְךָ עֶלְיוֹן׃
 לְהַגִּיד בַּבּוֹקֶר חַסְדֶּךָ, 
@@ -31,7 +31,7 @@ A Song for the Shabbat Day.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 It is good to give thanks to YHVH,
 To sing to Your name, Most High!
 To tell of Your compassion in the morning,
@@ -41,7 +41,7 @@ On strings, on the lute, on the harp and violin.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כִּי שִׂמַּחְתַּנִי יהוה בְּפָעֳלֶךָ, 
 בְּמַעֲשֵׂי יָדֶיךָ אֲרַנֵּן׃
 מַה־גָּדְלוּ מַעֲשֶׂיךָ יהוה, 
@@ -49,7 +49,7 @@ On strings, on the lute, on the harp and violin.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 &nbsp;
 &nbsp;
 Your deeds are so great, YHVH, 
@@ -58,7 +58,7 @@ Your thoughts are so deep.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אִישׁ בַּעַר לֹא יֵדָע, 
 וּכְסִיל לֹא־יָבִין אֶת זֹאת׃
 בִּפְרֹחַ רְשָׁעִים כְּמוֹ עֵשֶׂב,
@@ -67,7 +67,7 @@ Your thoughts are so deep.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 The fool will never learn, 
 the dullard never grasp this:
 The wicked flourish like grass, 
@@ -77,7 +77,7 @@ Yet they are doomed to destruction,
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְאַתָּה מָרוֹם לְעוֹלָם יהוה׃
 כִּי־הִנֵּה אֹיְבֶיךָ יהוה, 
 כִּי הִנֵּה אֹיְבֶיךָ יֹאבֵדוּ,
@@ -85,7 +85,7 @@ Yet they are doomed to destruction,
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 You, YHVH, are exalted for all time.
 See how Your enemies, YHVH, 
 see how Your enemies shall perish,
@@ -94,7 +94,7 @@ All who do evil shall be scattered.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וַתָּרֶם כִּרְאֵים קַרְנִי, 
 בַּלֹּתִי בְּשֶׁמֶן רַעֲנָן׃
 וַתַּבֵּט עֵינִי בְּשׁוּרָי, 
@@ -102,7 +102,7 @@ All who do evil shall be scattered.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 You lift up my head in pride,
 I am bathed in freshening oil.
 I shall see the defeat of my foes,
@@ -111,7 +111,7 @@ I shall hear of their fall.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 צַדִּיק כַּתָּמָר יִפְרָח, 
 כְּאֶרֶז בַּלְּבָנוֹן יִשְׂגֶּה׃
 שְׁתוּלִים בְּבֵית יהוה, 
@@ -123,7 +123,7 @@ I shall hear of their fall.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 The righteous shall flourish like palms,
 Grow tall like cedars in Lebanon.
 Rooted in the house of YHVH,

@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 נִשְׁמַת כָּל חַי 
 תְּבָרֵךְ אֶת שִׁמְךָ 
 יְהֹוָה אֱלֹהֵינוּ.
@@ -21,7 +21,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 All breathing life
 adores Your Name
 Yah, our God --
@@ -32,7 +32,7 @@ each time we become aware of You!
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִן הָעוֹלָם 
 וְעַד־הָעוֹלָם 
 אַתָּה אֵל. <span class="citation">(תהלים צ:ב)</span>
@@ -44,7 +44,7 @@ each time we become aware of You!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Beyond endless Time 
 and Space that's vast
 You are Divine.[foot]Psalms 90:2.[/foot] 
@@ -57,7 +57,7 @@ You, You alone secure our lives.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֱלֹהֵי הָרִאשׁוֹנִים וְהָאַחֲרוֹנִים 
 אֱלֹהַּ כָּל בְּרִיוֹת 
 אֲדוֹן כָּל תּוֹלָדוֹת 
@@ -68,7 +68,7 @@ You, You alone secure our lives.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 You ultimate Cause and ultimate Effect,
 Source of all Creation
 You manifest in all birthing
@@ -80,7 +80,7 @@ with compassion all beings in it.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וַיְהֹוָה הִנֵה לֹא־יָנוּם וְלֹא־יִישָׁן.
 הַמְּעוֹרֵר יְשֵׁנִים וְהַמֵּקִיץ נִרְדָּמִים <span class="citation">(תהלים קכא:ד)</span>[foot](נ״א: מְחַיֵי מֵתִים, וְרוֹפֵא חוֹלִים, פּוֹקֵֽחַ עִוְרִים)[/foot]&nbsp;
 וְהַמֵּשִׂיחַ אִלְּמִים 
@@ -91,7 +91,7 @@ with compassion all beings in it.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Yah ever awake and ever alert![foot]Psalms 121:4.[/foot]&nbsp; 
 You rouse us from the deepest sleep
 You give words to the speechless
@@ -103,7 +103,7 @@ Every appreciation we offer is Yours.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לְךָ לְבַדְּךָ אֲנַחְנוּ מוֹדִים. 
 אִלּוּ פִינוּ מָלֵא שִׁירָה 
 כַּיָּם וּלְשׁוֹנֵנוּ רִנָּה כַּהֲמוֹן גַּלָּיו 
@@ -121,7 +121,7 @@ Every appreciation we offer is Yours.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 If ocean-full our mouth were with music
 Our tongues singing 
 like the ceaseless surf
@@ -140,7 +140,7 @@ for our parents and for us.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִמִּצְרַיִם גְּאַלְתָּנוּ 
 יְהֹוָה אֱלֹהֵינוּ.
 מִבֵּית עֲבָדִים פְּדִיתָנוּ. 
@@ -155,7 +155,7 @@ for our parents and for us.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Yah! Oh God! 
 From oppression You redeemed us
 Now we can never be at home in slavery -
@@ -171,7 +171,7 @@ We never lacked Your kindness
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עַל כֵּן אֵבָרִים שֶׁפִּלַּגְתָּ בָּנוּ 
 וְרוּחַ וּנְשָׁמָה 
 שֶׁנָּפַחְתָּ בְּאַפֵּינוּ וְלָשׁוֹן אֲשֶׁר שַׂמְתָּ בְּפִינוּ: 
@@ -182,7 +182,7 @@ We never lacked Your kindness
  </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Our limbs want each to thank You
 The air of each breath 
 You breathed into us
@@ -194,7 +194,7 @@ so majestic, that is Your fame!
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כִּי כָל־פֶּה לְךָ יוֹדֶה 
 וְכָל לָשׁוֹן לְךָ תִשָּׁבַע. וְכָל עַיִן לְךָ תְצַפֶּה 
 וְכָל־בֶּרֶךְ לְךָ תִכְרַע <span class="citation">(להשוואה ישעיה מה:כג)</span>
@@ -211,7 +211,7 @@ so majestic, that is Your fame!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Our speech is appreciation
 our expression an oath of loyalty
 our attitude surrender
@@ -229,7 +229,7 @@ to stand up to the thug.’”[foot]Psalms 35:10.[/foot]
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִי יִדְמֶה־לָּךְ וּמִי יִשְׁוֶה־לָּךְ 
 וּמִי יַעֲרָךְ־לָךְ. <span class="citation">(להשוואה תהלים פט:יז, ישעיה מ:כה)</span>
 הָאֵל הַגָּדוֹל 
@@ -239,7 +239,7 @@ to stand up to the thug.’”[foot]Psalms 35:10.[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 No other can claim to be what You are
 No other can pretend to be [foot]Cf. Psalms 89:17, Isaiah 40:25.[/foot]&nbsp; 
 THE GREAT GOD
@@ -250,7 +250,7 @@ Yet nesting in Heavens and Earth!
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 נְהַלֶּלְךָ וּנְשַׁבֵּחֲךָ 
 וּנְפָאֶרְךָ 
 וּנְבָרֵךְ אֶת־שֵׁם קָדְשֶׁךָ. 
@@ -260,7 +260,7 @@ Yet nesting in Heavens and Earth!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 So we will keep celebrating 
 and delighting
 and blessing Your Holy Name
@@ -271,7 +271,7 @@ all my inners pulse with You!"[foot]Psalms 103:1.[/foot]
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הָאֵל בְּתַעֲצֻמוֹת עֻזֶּךָ. 
 הַגָּדוֹל בִּכְבוֹד שְׁמֶךָ. 
 הַגִּבּוֹר לָנֶצַח 
@@ -280,7 +280,7 @@ all my inners pulse with You!"[foot]Psalms 103:1.[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Potent God Force!
 Magnanimous in Glory
 Ever prevailing
@@ -290,7 +290,7 @@ Majestic One, who presides over all destiny!
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שׁוֹכֵן עַד מָרוֹם וְקָדוֹשׁ שְׁמוֹ. 
 וְכָתוּב רַנְּנוּ צַדִּיקִים בַּיְהֹוָה
 לַיְשָׁרִים נָאוָה תְהִלָּה:
@@ -301,7 +301,7 @@ Majestic One, who presides over all destiny!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Eternal Sh'khinnah, Holy Beyond
 Saints sing Yah!
 In harmony with decent folks.

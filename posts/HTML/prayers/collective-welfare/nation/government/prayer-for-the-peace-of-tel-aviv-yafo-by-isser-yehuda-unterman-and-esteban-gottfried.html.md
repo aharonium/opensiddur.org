@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;"><a href="https://opensiddur.org/contributing/upload/">Contribute a translation</a></th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רִבּוֹן הָעוֹלָמִים, 
 מוֹדִים אֲנַחְנוּ לְךָ עַל שֶׁהִפְלֵאתָ חַסְדֵךָ לָנוּ 
 בְּהַקָמַת עִיר גְּדוֹלָה וּמְפֹאָרָה 
@@ -38,12 +38,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
 הַמְּחַדֵּשׁ בְּכָל יוֹם תָּמִיד מַעֲשֶׂה בְּרֵאשִׁית, 
 מְשׁוֹךְ חַסְדֵּךָ עָלֵינוּ גַּם לְיָמִים יָבוֹאוּ. 
 הָגֵן עַל עִירֵנוּ וְעַל תּוֹשָׁבֵיהָ, 
@@ -64,7 +64,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 </tbody></table>

@@ -15,25 +15,25 @@ Psalms 117 [su_audio url="https://archive.org/download/HallelCantillatedIsaacGan
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַֽלְל֣וּ אֶת־יְ֭הוָה כָּל־גּוֹיִ֑ם 
 שַׁ֝בְּח֗וּהוּ כָּל־הָאֻמִּֽים׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Praise the <span style="text-transform: uppercase;">Cause</span>, all nations,
 exalt the One, all countries!
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כִּ֥י גָ֘בַ֤ר עָלֵ֨ינוּ ׀ חַסְדּ֗וֹ וֶֽאֱמֶת־יְהוָ֥ה לְעוֹלָ֗ם הַֽלְלוּ־יָֽהּ׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 For great upon us is Divine mercy, 
 and the truth of the <span style="text-transform: uppercase;">Cause</span> is forever!
 Praise the Source!

@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Translation (Yiddish)</th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="yiddish"><span lang="he">
+<div class="yiddish" lang="yi">
 א, קאפיטאן! מײן קאפיטאן! 
 די מורא׳דיקע רײזע איז געענדיקט שױן;
 די שיף איז אלע שטורעמם דורך, 
@@ -23,7 +23,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 O Captain! My Captain! 
 our fearful trip is done;
 The ship has weather'd every rack, 
@@ -36,7 +36,7 @@ the vessel grim and daring:
 
 
 <tr><td style="vertical-align:top;">
-<div class="yiddish"><span lang="he">
+<div class="yiddish" lang="yi">
 נאָר, א, הארץ! הארץ! הארץ!
 א, איר בלוטנדיקע טראָפּנס רױט,
 אויפן דעק געפאלן איז מײן קאפּיטאן 
@@ -44,7 +44,7 @@ the vessel grim and daring:
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 But O heart! heart! heart!
             O the bleeding drops of red,
                   Where on the deck my Captain lies,
@@ -53,7 +53,7 @@ But O heart! heart! heart!
 
 
 <tr><td style="vertical-align:top;">
-<div class="yiddish"><span lang="he">
+<div class="yiddish" lang="yi">
 א, קאפּיטאן! מײן קאפּיטאן! 
 װאך־אױף און הער דאָם גלאק־געקלאנג; 
 שטײ־אױף —
@@ -66,7 +66,7 @@ But O heart! heart! heart!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 O Captain! My Captain! 
 rise up and hear the bells;
 Rise up — 
@@ -80,7 +80,7 @@ their eager faces turning;
 
 
 <tr><td style="vertical-align:top;">
-<div class="yiddish"><span lang="he">
+<div class="yiddish" lang="yi">
 אָט דא, קאפּיטאן! פאָטער מײנער!
 אונטער דײן קאָפּ מײן האנט געשפּרײט;
 עס מוז א חלום זײן, אז אױפן דעק,
@@ -88,7 +88,7 @@ their eager faces turning;
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Here captain! dear father!
             This arm beneath your head;
                   It is some dream that on the deck,
@@ -97,7 +97,7 @@ Here captain! dear father!
 
 
 <tr><td style="vertical-align:top;">
-<div class="yiddish"><span lang="he">
+<div class="yiddish" lang="yi">
 עס ענטפערט ניט מײן קאפּיטאן, 
 די ליפּן זײנע שטום אץ בלײך; 
 מײן טאטע פילט מײן אָרעס ניט; 
@@ -109,7 +109,7 @@ Here captain! dear father!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 My Captain does not answer, 
 his lips are pale and still;
 My father does not feel my arm, 
@@ -122,7 +122,7 @@ comes in with object won;
 
 
 <tr><td style="vertical-align:top;">
-<div class="yiddish"><span lang="he">
+<div class="yiddish" lang="yi">
 א, ברעגן, שאלט! א, גלעקער, קלינגט! 
 נאר איך אלײן מיט טרויער־טריט,
 גײ אום און היט מײן קאפּיטאן,
@@ -130,7 +130,7 @@ comes in with object won;
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Exult, O shores, and ring, O bells!
             But I, with mournful tread,
                   Walk the deck my captain lies,

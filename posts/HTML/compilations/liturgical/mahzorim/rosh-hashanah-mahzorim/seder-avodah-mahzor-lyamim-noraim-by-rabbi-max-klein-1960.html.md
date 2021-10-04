@@ -19,7 +19,7 @@ Scanning this work (making digital images of each page) is the first step in a m
 
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 PREFACE
 
 This volume of the Seder Avodah for Rosh ha-Shanah and Yom Kippur has been edited in accordance with the spirit of the first volume published in 1951. 

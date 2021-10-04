@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אַנְעִים זְמִירוֹת 
 וְשִׁירִים אֶאֱרוֹג, 
 כִּי אֵלֶֽיךָ נַפְשִׁי 
@@ -19,7 +19,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 I chant to please You, 
 I weave You dear songs.
 For You my soul yearns, 
@@ -28,7 +28,7 @@ For You she longs.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 נַפְשִׁי חָמְדָה 
 בְּצֵל יָדֶֽךָ, 
 לָדַֽעַת 
@@ -36,7 +36,7 @@ For You she longs.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Nestled in Your palm 
 her love for You grows
 She will not rest 
@@ -45,7 +45,7 @@ until it’s You she knows!
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִדֵּי דַבְּרִי 
 בִּכְבוֹדֶֽךָ, 
 הוֹמֶה לִבִּי 
@@ -53,7 +53,7 @@ until it’s You she knows!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 I look for words 
 to speak Your praises
 my heart to You 
@@ -62,7 +62,7 @@ its yearning raises.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עַל כֵּן אֲדַבֵּר 
 בְּךָ נִכְבָּדוֹת, 
 וְשִׁמְךָ אֲכַבֵּד 
@@ -70,7 +70,7 @@ its yearning raises.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Therefore I will speak 
 the virtues of Your Fame
 And garland with excellence 
@@ -79,7 +79,7 @@ the honor of Your Name.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">אֲ</span>סַפְּרָה כְבוֹדְךָ 
 וְלֹא רְאִיתִֽיךָ, 
 אֲדַמְּךָ אֲכַנְּךָ 
@@ -87,7 +87,7 @@ the honor of Your Name.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Though I do not see You, <span class="acrostic"> </span>
 still I draw Your Face,
 Portray Your features, 
@@ -96,7 +96,7 @@ name Your Place.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">בְּ</span>יַד נְבִיאֶֽיךָ 
 בְּסוֹד עֲבָדֶֽיךָ, 
 דִּמִּֽיתָ הֲדַר 
@@ -104,7 +104,7 @@ name Your Place.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Your prophets spoke, <span class="acrostic"> </span>
 Your servants darkly knew
 In symbols and myths 
@@ -113,7 +113,7 @@ they referred to You.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">גְּ</span>דֻלָּתְךָ 
 וּגְבוּרָתֶֽךָ. 
 כִּנּוּ לְתֹֽקֶף 
@@ -121,7 +121,7 @@ they referred to You.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 When describing Your pow’r <span class="acrostic"> </span>
 and declaring Your care
 Of Your awesome compassion 
@@ -130,7 +130,7 @@ they made us aware.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">דִּ</span>מּוּ אוֹתְךָ 
 וְלֹא כְפִי יֶשְׁךָ, 
 וַיְשַׁוּֽוּךָ 
@@ -138,7 +138,7 @@ they made us aware.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Yet it is not Your Being <span class="acrostic"> </span>
 that they could describe
 Only the way Your compassion 
@@ -147,7 +147,7 @@ touches our life.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">הִ</span>מְשִׁילֽוּךָ 
 בְּרוֹב חֶזְיוֹנוֹת, 
 הִנְּךָ אֶחָד 
@@ -155,7 +155,7 @@ touches our life.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Countless their visions <span class="acrostic"> </span>
 of Your mysterious feats
 In all their forms 
@@ -164,7 +164,7 @@ Your ONEness meets.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">וַ</span>יֶּחֱזוּ בְךָ 
 זִקְנָה וּבַחֲרוּת, 
 וּשְׂעַר רֹאשְׁךָ 
@@ -172,7 +172,7 @@ Your ONEness meets.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 They saw You young; <span class="acrostic"> </span>
 they saw You old.
 They saw You patient, 
@@ -181,7 +181,7 @@ They saw You bold.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">זִ</span>קְנָה בְּיוֹם דִּין 
 וּבַחֲרוּת בְּיוֹם קְרָב, 
 כְּאִישׁ מִלְחָמוֹת 
@@ -189,7 +189,7 @@ They saw You bold.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Ancient of Days, <span class="acrostic"> </span>
 Eternally Just, 
 Each moment our Helper 
@@ -198,7 +198,7 @@ in Whom we do trust.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">חָ</span>בַשׁ כּֽוֹבַע 
 יְשׁוּעָה בְּרֹאשוֹ, 
 הוֹשִֽׁיעָה לּוֹ יְמִינוֹ 
@@ -206,7 +206,7 @@ in Whom we do trust.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Wearing Your helmet <span class="acrostic"> </span>
 as hero to help us
 Your strong arm, 
@@ -215,7 +215,7 @@ Your right hand to save us.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">טַ</span>לְלֵי אוֹרוֹת 
 רֹאשוֹ נִמְלָא, 
 קְוֻצּוֹתָיו 
@@ -223,7 +223,7 @@ Your right hand to save us.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Your hair drenched with light drops, <span class="acrostic"> </span>
 all shining with brilliance.
 Your Darkness is shelter, 
@@ -232,7 +232,7 @@ Your love in all radiance.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">יִ</span>תְפָּאֵר בִּי 
 כִּי חָפֵץ בִּי, 
 וְהוּא יִהְיֶה לִי 
@@ -240,7 +240,7 @@ Your love in all radiance.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 How fair is Your kindness, <span class="acrostic"> </span>
 how splendid Your sight
 May our song rise to crown You 
@@ -249,7 +249,7 @@ with endearing delight
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">כֶּֽ</span>תֶם טָהוֹר פָּז 
 דְּמוּת רֹאשוֹ, 
 וְחַק עַל מֵֽצַח 
@@ -257,7 +257,7 @@ with endearing delight
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 A jewel all golden <span class="acrostic"> </span>
 Your image sends rays
 with t’fillin on forehead 
@@ -266,7 +266,7 @@ we follow Your ways.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">לְ</span>חֵן וּלְכָבוֹד 
 צְבִי תִפְאָרָה, 
 אֻמָּתוֹ לוֹ 
@@ -274,7 +274,7 @@ we follow Your ways.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 With grace and honor, <span class="acrostic"> </span>
 all splendid in glory
 Your people sing loudly 
@@ -283,7 +283,7 @@ Your triumphal story
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">מַ</span>חְלְפוֹת רֹאשוֹ 
 כְּבִימֵי בְחֻרוֹת, 
 קְוֻצּוֹתָיו 
@@ -291,7 +291,7 @@ Your triumphal story
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 In words of young lovers <span class="acrostic"> </span>
 they gaze at Your visage
 the letters of Torah in black 
@@ -300,7 +300,7 @@ hold Your message.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">נְ</span>וֵה הַצֶּֽדֶק 
 צְבִי תִפְאַרְתּוֹ, 
 יַעֲלֶה נָּא 
@@ -308,7 +308,7 @@ hold Your message.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Justice Your mantle <span class="acrostic"> </span>
 in balance with kindness
 This gives You pleasure 
@@ -317,7 +317,7 @@ delight and sublimeness.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">סְ</span>גֻלָּתוֹ תְּהִי נָא 
 בְיָדוֹ עֲטֶֽרֶת. 
 וּצְנִיף מְלוּכָה 
@@ -325,7 +325,7 @@ delight and sublimeness.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May we deserve to be scepter <span class="acrostic"> </span>
 in Your regal hand
 A crimson royal cape, 
@@ -334,7 +334,7 @@ we Your loyal band.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">עֲ</span>מוּסִים נְשָׂאָם 
 עֲטֶֽרֶת עִנְּדָם, 
 מֵאֲשֶׁר יָקְרוּ 
@@ -342,7 +342,7 @@ we Your loyal band.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 The burdened sufferers, <span class="acrostic"> </span>
 You sustained them with might
 How precious You held them, 
@@ -351,7 +351,7 @@ so dear to Your sight.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">פְּ</span>אֵרוֹ עָלַי 
 וּפְאֵרִי עָלָיו, 
 וְקָרוֹב אֵלַי 
@@ -359,7 +359,7 @@ so dear to Your sight.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Your glory my pride is, <span class="acrostic"> </span>
 my delight for Your care
 So close You are, 
@@ -368,7 +368,7 @@ to answer my pray’r.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">צַ</span>ח וְאָדוֹם 
 לִלְבוּשׁוֹ אָדוֹם, 
 פּוּרָה בְּדָרְכוֹ 
@@ -376,7 +376,7 @@ to answer my pray’r.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Your shining face <span class="acrostic"> </span>
 illumines my days
 I am awed by the magic 
@@ -385,7 +385,7 @@ revealed in Your ways.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">קֶֽ</span>שֶׁר תְּפִלִּין 
 הֶרְאָה לֶעָנָו, 
 תְּמוּנַת יְיָ 
@@ -393,7 +393,7 @@ revealed in Your ways.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 To Moshe You showed <span class="acrostic"> </span>
 Your Head-T’fillin’s knot
 Your image was clear 
@@ -402,7 +402,7 @@ in his mind and his thought.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">ר</span>וֹצֶה בְעַמּוֹ 
 עֲנָוִים יְפָאֵר, 
 יוֹשֵׁב תְּהִלּוֹת 
@@ -410,7 +410,7 @@ in his mind and his thought.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Though humble Your folk, <span class="acrostic"> </span>
 they are Your proud fame
 You’re enthroned on their praises; 
@@ -419,7 +419,7 @@ they honor Your Name.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רֹאשׁ דְּבָרְךָ אֱמֶת 
 קוֹרֵא מֵרֹאשׁ, 
 דּוֹר וָדוֹר עַם 
@@ -427,7 +427,7 @@ they honor Your Name.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Truth is Your Word, 
 enduring its worth
 From parent to child 
@@ -436,7 +436,7 @@ its message flows forth.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">שִׁ</span>ית הֲמוֹן 
 שִׁירַי נָא עָלֶֽיךָ, 
 וְרִנָּתִי 
@@ -444,7 +444,7 @@ its message flows forth.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 I cannot sing <span class="acrostic"> </span>
 Your praises complete,
 May those that I do sing 
@@ -453,7 +453,7 @@ and reach You be sweet.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">תְּ</span>הִלָּתִי תְּהִי 
 לְרֹאשׁךָ עֲטֶֽרֶת, 
 וּתְפִלָּתִי 
@@ -461,7 +461,7 @@ and reach You be sweet.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Like perfume and incense <span class="acrostic"> </span>
 may my singing rise high
 A paean to crown You, 
@@ -470,7 +470,7 @@ a poor lover’s sigh.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 תִּיקַר שִׁירַת רָשׁ 
 בְּעֵינֶֽיךָ, 
 כַּשִּׁיר יוּשַׁר 
@@ -478,7 +478,7 @@ a poor lover’s sigh.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 My poor song devoid is 
 of all artifice
 still this loving song 
@@ -487,7 +487,7 @@ is my best sacrifice.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בִּרְכָתִי תַעֲלֶה 
 לְרֹאשׁ מַשְבִּיר, 
 מְחוֹלֵל וּמוֹלִיד 
@@ -495,7 +495,7 @@ is my best sacrifice.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 My blessings are lifting 
 to rise to new heights,
 To make fertile the birth 
@@ -504,7 +504,7 @@ of the Tsaddik with might.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּבְבִרְכָתִי 
 תְנַעֲנַע לִי רֹאשׁ, 
 וְאוֹתָהּ קַח לְךָ 
@@ -512,7 +512,7 @@ of the Tsaddik with might.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 And with these blessings, 
 these love words so fond.
 With a nod of Your head, 
@@ -521,7 +521,7 @@ I ask You: Respond.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יֶעֱרַב נָא 
 שִׂיחִי עָלֶֽיךָ. 
 כִּי נַפְשִׁי 
@@ -529,7 +529,7 @@ I ask You: Respond.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Regard please these poor words 
 that I blush to recite
 My soul’s ardent longing 
@@ -538,7 +538,7 @@ to give You delight.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לְךָ יְהוָה הַגְּדֻלָּה וְהַגְּבוּרָה 
 וְהַתִּפְאֶרֶת וְהַנֵּצַח וְהַהוֹד 
 כִּי־כֹל בַּשָּׁמַיִם וּבָאָרֶץ 
@@ -547,7 +547,7 @@ to give You delight.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Yours, YHVH, are greatness, might, 
 splendor, triumph, and majesty—
 yes, all that is in heaven and on earth; 
@@ -557,13 +557,13 @@ and preeminence above all.[foot]1 Chronicles 29:11.[/foot]
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִי יְמַלֵּל גְּבוּרוֹת יְהוָה 
 יַשְׁמִיעַ כָּל־תְּהִלָּתוֹ׃ <span class="citation">(תהלים קו:ב)</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Who can tell the mighty acts of YHVH, 
 proclaim all their praises?[foot]Psalms 106:2.[/foot]
 </div></td></tr>

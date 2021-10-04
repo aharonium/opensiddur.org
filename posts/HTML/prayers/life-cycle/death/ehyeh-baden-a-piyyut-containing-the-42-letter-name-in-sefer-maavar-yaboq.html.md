@@ -11,14 +11,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֶהְיֶה בְּעֵדֶן 
 גַן יִחוּדֶךָ 
 תְּקַבֵּל צִדְקָתוֹ:
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Ehyeh/I-will-be in (Gan) Aden
 the garden of your unification;
 (there) you will receive his righteousness.
@@ -26,14 +26,14 @@ the garden of your unification;
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 קְשׁוֹב רְצֵה 
 עֲתִירָה שְׁמוֹר 
 טַהֲרַת נִשְׁמָתוֹ:
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Listen, accept,
 entreat, guard
 (the) purity of his soul.
@@ -41,14 +41,14 @@ entreat, guard
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 נָאוֹר גִבּוֹר 
 דְגָלֶיךָ יֳאִירוּ
 כְּבוֹד שִׁבְתּוֹ׃ 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Enlightened mighty one,
 shining be your pennants,
 Kavod (resplendent spirit) of his Shabbat.
@@ -56,14 +56,14 @@ Kavod (resplendent spirit) of his Shabbat.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בְּרוֹב טוּבְךָ 
 רוֹעֶה צְדָקָה 
 תְּרוֹמֵם גְדוּלָתוֹ׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Through the abundance of your beneficence,
 righteous shepherd,
 his greatness will be exalted.
@@ -71,14 +71,14 @@ his greatness will be exalted.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 חָסִין קָרֵב 
 בִּרְצוֹן טוֺב 
 נוֹפֶשׁ עֲלִיָיתוֹ׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Draw near protection --
 with beneficent will
 sustain his ascent.
@@ -86,14 +86,14 @@ sustain his ascent.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יִוָדַע גְאוּלָתְךָ 
 לַחְזוֹת פְּאֵר 
 זִיו קְדוּשָׁתוֹ׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Your redemption will be known
 in anticipation of such splendor:
 a ray of his holiness.
@@ -101,14 +101,14 @@ a ray of his holiness.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שׁוֹכֵן קָרוֹב 
 וּמֵטִיב צַוֵה 
 יְשׁוּעַת תְּהִילָתוֹ׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Dwelling near (now),
 (you are) doing well, directing
 the help of his adoration.
@@ -116,76 +116,76 @@ the help of his adoration.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וַיִרְכַּב עַל כְּרוּב וַיָעֹף וַיֵדֶא עַל כַּנְפֵי רוּחַ׃ <span class="citation">(תהלים יח:יא)</span>
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And he will ride upon a keruv, and he will fly, fly upon the wings of the wind.[foot]Psalms 18:11.[/foot]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יִשְׁקֵנִי מִנְשִיקוֹת פִּיהוּ כִּי טוֹבִים דֹדֶיךָ מִיָיִן׃ <span class="citation">(שיר השירים א:ב)</span>
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Kiss me from the kisses of his mouth that your love making is better than wine.[foot]Song of Songs 1:2.[/foot]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֵל אֱלֹהִים יְהוָֹה דִבֶּר וַיִקְרָא אָרֶץ מִמִזְרַח שֶׁמֶשׁ עַד מְבֹאוֹ׃ 
 מִצִיוֹן מִכְלַל יוֹפִי אֱלֹהִים הוֹפִיעַ׃ <span class="citation">(תהלים נ:א-ב)</span>
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 El Elohim YHVH -- speak and call the earth from the east of the sun until its setting.
 Your perfection of the beauty of Elohim appeared, from Tsiyon. [foot]Psalms 50:1-2.[/foot]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שְׁמַע יִשְׂרָאֵל יְהוָֹה אֱלֹהֵינוּ יְהוָֹה אֶחָד׃ <span class="citation">(דברים ו:ד)</span>
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Hear Yisrael, YHVH our <em>elo'ah</em>, YHVH is one/unique.[foot]Deuteronomy 6:4.[/foot]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְהוָֹה הוּא אֱלֹהִים׃ יְהוָֹה הוּא אֱלֹהִים׃ <span class="citation">(תהלים ק:ג)</span>
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 YHVH is Elohim. YHVH is Elohim.[foot]Psalms 100:3, Cf. Deuteronomy 4:35 and I Kings 18:39.[/foot]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְהוָֹה מֶלֶךְ <span class="citation">(תהלים י:טז)</span> יְהוָֹה מָלָךְ <span class="citation">(תהלים צג:א)</span> יְהוָֹה יִמְלוֹךְ לְעוֹלָם וָעֶד׃ <span class="citation">(שמות טו:יח)</span>
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 YHVH is King.[foot]Psalms 10:16 part, Psalms 29:10 part.[/foot] YHVH has reigned.[foot]Psalms 93:1 part, Psalms 97:1 part, Psalms 99:1 part.[/foot] YHVH will reign in the Cosmos forever.[foot]Exodus 15:18[/foot]
 </div></td></tr>
 </tbody></table>
 
 <hr />
 
-This 42 letter divine name acrostic piyyut appears in Aharon Berekhiah ben Mosheh of Modena's <span class="hebrew">ספר מעבר יבוק</span> (<em>Sefer Ma'avar Yaboq</em> The Book of [Crossing] the Ford of Yaboq), containing prayers and liturgical ritual for the sick and dying. (The title is a reference to Yaaqov's crossing of the River Yaboq in Genesis 32:23–25.) This piyyut in particular is found as part of a liturgy in support of a person on their deathbed. In Steven A. Moss's thesis "<a href="https://www.jewish-funerals.org/index.php?q=attitude-toward-sickness-dying-and-death-expressed-liturgical-works-maavor-yabok-and-sefer-hahayiim-0">The Attitude Toward Sickness, Dying and Death As Expressed in the Liturgical Works Maavor Yabok and Sefer Hahayiim</a>" (HUC-JIR 1974), he  writes, 
+This 42 letter divine name acrostic piyyut appears in Aharon Berekhiah ben Mosheh of Modena's <span class="hebrew" lang="he">ספר מעבר יבוק</span> (<em>Sefer Ma'avar Yaboq</em> The Book of [Crossing] the Ford of Yaboq), containing prayers and liturgical ritual for the sick and dying. (The title is a reference to Yaaqov's crossing of the River Yaboq in Genesis 32:23–25.) This piyyut in particular is found as part of a liturgy in support of a person on their deathbed. In Steven A. Moss's thesis "<a href="https://www.jewish-funerals.org/index.php?q=attitude-toward-sickness-dying-and-death-expressed-liturgical-works-maavor-yabok-and-sefer-hahayiim-0">The Attitude Toward Sickness, Dying and Death As Expressed in the Liturgical Works Maavor Yabok and Sefer Hahayiim</a>" (HUC-JIR 1974), he  writes, 
 
 <blockquote>The first paragraph of this prayer expresses the desire of the dying person for the Garden of Eden, in which one's relationship with God is brought closer. Notice should be taken of the phrase "I will be in Eden" because it becomes a desired state.
 

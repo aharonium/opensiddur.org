@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אַהֲבַת עוֹלָם בֵּית יִשְׂרָאֵל 
 עַמְּךָ אָהַבְתָּ, 
 &nbsp;
@@ -20,7 +20,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 You keep loving us,
 As You have always loved us.
 Yah, Our God.
@@ -31,7 +31,7 @@ To know reality and justice.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עַל כֵּן יְהֹוָה אֱלֹהֵינוּ,
 בְּשָׁכְבֵנוּ 
 וּבְקוּמֵנוּ 
@@ -43,7 +43,7 @@ To know reality and justice.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Therefore, Yah, our God, 
 When we are to rest for the night,
 When we are to rise for the day,
@@ -56,18 +56,18 @@ And plan to do Mitsvot.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כִּי הֵם חַיֵּינוּ 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 This is what we live for.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְאֹרֶךְ יָמֵינוּ, 
 וּבָהֶם נֶהְגֶּה יוֹמָם וָלָיְלָה. 
 &nbsp;
@@ -77,7 +77,7 @@ This is what we live for.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 This is what keeps us going.
 Day and night we will
 Ponder their meaning. 

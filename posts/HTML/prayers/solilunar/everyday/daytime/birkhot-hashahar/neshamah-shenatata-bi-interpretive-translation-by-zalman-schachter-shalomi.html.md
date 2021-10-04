@@ -12,7 +12,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֱלֹהַי, 
 נְשָׁמָה שֶׁנָּתַתָּ בִּי 
 טְהוֹרָה הִיא, 
@@ -23,7 +23,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 My God,
 The breath You have given me
 Is fresh.
@@ -36,13 +36,13 @@ You breathe it into me.
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְאַתָּה מְשַׁמְּרָהּ בְּקִרְבִּי, 
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And you keep me breathing.
 </div></td>
 </tr>
@@ -50,14 +50,14 @@ And you keep me breathing.
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְאַתָּה עָתִיד 
 לִטְּלָהּ מִמֶּנִּי,  
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 At some time,
 You will take it away from me,
 And I will have breathed 
@@ -68,14 +68,14 @@ my last breath in this body.
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּלְהַחֲזִירָהּ בִּי 
 לֶעָתִיד לָבֹא.
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And You will resuscitate me,
 To the life of the spirit.
 </div></td>
@@ -84,7 +84,7 @@ To the life of the spirit.
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כָּל זְמַן שֶׁהַנְּשָׁמָה בְּקִרְבִּי 
 מוֹדֶה אֲנִי לְפָנֶיךָ 
 יְיָ אֱלֹהַי 
@@ -94,7 +94,7 @@ To the life of the spirit.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 For each breath still in me,
 I thank You,
 My own God,
@@ -106,7 +106,7 @@ Lord of all spirits, Master of all that happens.
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה יְיָ 
 &nbsp;
 &nbsp;
@@ -115,7 +115,7 @@ Lord of all spirits, Master of all that happens.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 I offer You thanks,
 Cosmic Majesty,
 And worship You,
@@ -126,7 +126,7 @@ For keeping me breathing.
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 &nbsp;
 לִפְגָרִים מֵתִים:
@@ -134,7 +134,7 @@ For keeping me breathing.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And in this way,
 With each breath,
 You give me Life anew.
@@ -155,7 +155,7 @@ The earliest formula for "Neshama Shenatata Bi" can be found in the <a href="htt
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כי מתער אומר 
 אלהי נשמה שנתת בי טהורה 
 אתה יצרתה בי 
@@ -174,7 +174,7 @@ The earliest formula for "Neshama Shenatata Bi" can be found in the <a href="htt
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 When one awakens, they recite: 
 My elo'ah, the <em>neshamah</em>[foot]<em>neshamah</em> ≈ breath, soul. <em>neshamot</em> ≈ Breath, souls[/foot] you have placed within me is pure. 
 You formed her within me, 

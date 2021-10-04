@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֲדוֹן עוֹלָם אֲשֶׁר מָלַךְ
 בְּטֶֽרֶם כׇּל־יְצִיר נִבְרָא׃
 לְעֵת נַֽעֲשָׂה כְּחֶפְצוֹ כֹּל
@@ -19,7 +19,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 You were cosmic Lord Adonai Malakh 
 Before there even was a world
 Then Your will all things did make 
@@ -28,7 +28,7 @@ Adonai Melekh we call you now.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְאַֽחֲרֵי כִּכְלּוֹת הַכֹּל
 לְבַדּוֹ יִמְלֹךְ נוֹרָא׃
 וְהוּא הָיָה וְהוּא הֹוֶה
@@ -36,7 +36,7 @@ Adonai Melekh we call you now.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Once when all things will cease to be 
 Adonai Yimlokh still true will be
 You were, You are, eternally 
@@ -45,27 +45,27 @@ Resplendent to infinity.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְהוּא אֶחָד וְאֵין שֵׁנִי
 לְהַמְשִׁיל לוֹ לְהַחְבִּירָה׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 You alone, there are not two 
 To join as friends, as lovers do.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בְּלִי רֵאשִׁית בְּלִי תַּכְלִית וְלוֹ הָעֹז וְהַמִּשְׂרָה׃
 בְּלִי עֵֽרֶךְ בְּלִי דִמְיוֹן בְּלִי שִׁנּוּי וְהַתְּמוּרָה׃
 בְּלִי חִבּוּר בְּלִי פֵרוּד גְּדׇל־כֹּחַ וְהַגְּבוּרָה׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Beginningless and without end 
 You keep all one 
 by plan and strength.
@@ -73,7 +73,7 @@ by plan and strength.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְהוּא אֵלִי וְחַי גּֽוֹאֲלִי
 וְצוּר חֶבְלִי בְּיוֹם צָרָה׃
 וְהוּא נִסִּי וּמָנוֹס לִי
@@ -81,7 +81,7 @@ by plan and strength.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 You are my G-d, Redeemer, 
 Life Protecting me in war, in strife.
 My holy haven and my flag 
@@ -90,7 +90,7 @@ My cup of health for what I lack.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בְּיָדוֹ אַפְקִיד רוּחִי
 בְּעֵת אִישַׁן וְאָעִֽירָה׃
 וְעִם רוּחִי גְּוִיָּתִי
@@ -98,7 +98,7 @@ My cup of health for what I lack.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Into Your hand I trust my breath 
 You breathe in me by night by day.
 My body is Your tool, Your gift. 

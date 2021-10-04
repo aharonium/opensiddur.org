@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 The Cochin or Šingli Jewish community of southwestern India has some unique practices. It is the only major Jewish community to speak a Dravidian language. It is also the only major Jewish community to follow a strict caste system, with two distinct Jewish groups that did not intermarry. And its rite includes an extensive poetic version of the Ḳaddish Shalem, with many additions without any parallel in Ashkenazi and Sephardi siddurim.
 
 Nowadays, the vast majority of India's Jewish population has moved to the State of Israel, where assimilation to the standardized Mizraḥi rite is taking its toll. Many of these ancient customs are being lost. 
@@ -21,7 +21,7 @@ Here the editor has compiled, transcribed, and translated a traditional Cochin �
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יִתְגַּדַל וְיִתְקַדָּשׁ שְׁמֵיהּ רַבָּא 
 בְּעַלְמָא דִּי בְרָא כִרְעוּתֵיהּ 
 וְיַמְלִיךְ מַלְכוּתֵיהּ 
@@ -36,7 +36,7 @@ Here the editor has compiled, transcribed, and translated a traditional Cochin �
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 ‪Magnified‬ and hallowed be His great name 
 in the world that He created by his will, 
 may He reign in His reign 
@@ -52,14 +52,14 @@ and say amen. (Amen.)‬
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְהֵא שְׁמֵיהּ רַבָּא מְבָרַךְ 
 לְעַלָם וּלְעַלְמֵיו עַלמַיָּא 
 יְתְבָּרַךְ׃ 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May His great Name be blessed 
 forever and ever and ever, 
 blessed be. 
@@ -67,7 +67,7 @@ blessed be.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְיִשְׁתַּבַּח וְיִתְפָּאֵר 
 וְיִתְרוֹמָם וְיִתְנַשֵׂא 
 וְיִתְהַדַּר וְיִתְעַלֵה וְיִתְהַלָּל 
@@ -79,7 +79,7 @@ blessed be.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 ‪And lauded and glorified 
 and exulted and lifted 
 and beautified and raised and praised 
@@ -92,14 +92,14 @@ and say amen. (Amen.)‬
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 תִּתְקַבָּל צְלוֹתְכוֹן
 וְתִּתְעַבֵּיד בָּעוּתְכוֹן׃ 
 (אָמֵן) 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May your prayers be received 
 and your requests be done. 
 (Amen.)
@@ -107,7 +107,7 @@ and your requests be done.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ‫וּצְלוֹתְהוֹן וּבָעוּתְהוֹן דְעַמָא 
 כָּל בֵּית יִשְׂרָאֵל 
 קָדָם מָארֵיהּ דְבִשְּׁמַיָּא 
@@ -119,7 +119,7 @@ and your requests be done.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 And the prayers and requests of the people 
 all the house of Israel 
 before their master in Heaven 
@@ -132,7 +132,7 @@ for a good life,
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 תִּתְבְּנֵי קַרְתָּא דִירוּשְׁלֵם 
 וִיתוּב פּוּלְחָנָא דִי שְׁמַיָּא לְאִתְרֵיהּ 
 בְּחַיֵּיכוֹן וּבְיוֹמֵיכוֹן 
@@ -141,7 +141,7 @@ for a good life,
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May the city of Jerusalem be built, 
 and the work of Heaven dwell in its place 
 in your lives and in your days 
@@ -151,7 +151,7 @@ and say amen. (Amen.)
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 תִּשְׁתַּלַח אֲסוּתָא רְפוּאָה 
 דְחַיֵּי וּדְרַחֲמֵי מִן קָדָם קוּדְשָׁא בְּרִיךְ הוּא 
 לְאַסָאָה יַתְכוֹן וּלְרַחֲמָא עֲלֵיכוֹן 
@@ -163,7 +163,7 @@ and say amen. (Amen.)
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May relief, healing be sent, 
 of life and compassion from the blessed Holy One 
 to heal you and to have mercy on you 
@@ -176,7 +176,7 @@ and say amen. (Amen.)
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יֵיתִין שִׁמְעִין טָבִין 
 וּבְשׂוֹרַן טָבָן 
 עַל מַקְדְּשָׁא 
@@ -188,7 +188,7 @@ and say amen. (Amen.)
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May we be given good messages 
 and a good messenger 
 regarding the Sanctuary 
@@ -201,7 +201,7 @@ and say amen. (Amen.)
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְהֵא שְׁלָמָא רַבָּא מִן שְׁמַיָּיא 
 וְסַיְיעֲתָא וּפוּרְקָנָא עֲלָנָא וַעֲלֵיכוֹן 
 וְעַל כָּל קְהַלֵיכוֹן דְיִשְׂרָאֵל 
@@ -210,7 +210,7 @@ and say amen. (Amen.)
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May great peace be from heaven 
 and assistance and redemption upon us and you 
 and upon all your congregations of Israel 
@@ -220,7 +220,7 @@ and say amen. (Amen.)
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 דְּכִירִין לְטַב 
 וְעוֹד יִהְיֶה דוּכְרָנְכוֹן לְטַב 
 לְשֵׁם טַב 
@@ -234,7 +234,7 @@ and say amen. (Amen.)
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May you be remembered for good, 
 and may your memories continue for good, 
 for a good name, 
@@ -249,92 +249,92 @@ May the Sovereign of Existence bless you
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְיַפֵּשׁ יַתְכוֹן׃ 
 (אָמֵן)
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 ‪and make you great 
 (amen) ‬
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְיסַגִי יַתְכוֹן׃ 
 (אָמֵן)
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 ‪and make you many 
 (amen)‬
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְיִשְׁמַע לְקוֹל צְלוֹתְכוֹן׃ 
 (אָמֵן)
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 ‪and hear the sound of your prayers 
 (amen)‬
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְיָעִיק לִמְעִיקֵיכוֹן׃ 
 (אָמֵן)
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 ‪and distress your stressors 
 (amen)‬
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וִיכַנֵשׂ מְבַדְרֵיכוֹן׃ 
 (אָמֵן)
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 ‪and gather your dispersed 
 (amen)‬
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וִישֵׁיצֵי כָל דְחַקֵיכוֹן׃ 
 (אָמֵן)
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 and end all your oppressors 
 (amen) 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְיבְנֶה מַקְדְשָׁא בְּחַיֵּיכוֹן 
 חֲבֵרִים כָּל בֵּית יִשְׂרָאֵל 
 וְאִמְרוּ אָמֵן׃‫ (אָמֵן)‬
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 And may He build the Sanctuary in your lives, 
 fellows all the house of Israel, 
 and say amen. (Amen.)
@@ -342,7 +342,7 @@ and say amen. (Amen.)
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עוֹשֶׂה שָׁלוֹם בִּמְרוֹמָיו 
 הוּא בְּרַחֲמָיו יַעֲשֶׂה שָׁלוֹם עָלֵינוּ 
 וְעַל כָּל יִשְׂרָאֵל 
@@ -350,7 +350,7 @@ and say amen. (Amen.)
  </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May the Maker of peace on high 
 compassionately make peace for us 
 and for all Israel, 
@@ -359,20 +359,20 @@ and say amen. (Amen.)
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לַיְּהוּדִ֕ים הָֽיְתָ֥ה אוֹרָ֖ה וְשִׂמְחָ֑ה 
 וְשָׂשֹׂ֖ן וִיקָֽר׃ <span class="citation">(אסתר ח:טז)</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 "The Jews had light and joy 
 and gladness and honor."[foot]Esther 8:16.[/foot]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְכָל יִשְׂרָאֵל 
 בִּכְלַל כָּל הַבְּרָכוֹת 
 יִהְיוּ לְחַיִּים טוֹבִים וּלְשָׁלוּם וְלִרְפוּאָה 
@@ -380,7 +380,7 @@ and gladness and honor."[foot]Esther 8:16.[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 And may all Israel 
 among each and every one of these blessings 
 be for a good life and peace and healing, 
@@ -389,14 +389,14 @@ and say amen. (Amen.)
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לְשָׁנָה הַבָּאָה בִּירוּשָׁלַיִם׃ 
 יָבֹא מָשִׁיחַ בֶּן דָּוִד בִּמְהֵרָה בְיָמֵינוּ 
 אָמֵן׃‫ (אָמֵן)‬
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Next year in Jerusalem! 
 May the Anointed son of David come quickly in our days, 
 amen!‪ (Amen.)‬
@@ -404,14 +404,14 @@ amen!‪ (Amen.)‬
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שָׁלוֹם עֲלֵיכֶם 
 עֲלֵיכֶם שָׁלוֹם 
 בְרָכָה וְטוֹבָה
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Peace be upon you! 
 Upon you be peace, 
 blessing, and good!

@@ -11,13 +11,13 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Aramaic)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יִתְגַּדַּל וְיִתְקַדַּשׁ 
 שְׁמֵהּ רַבָּא
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Make the God-name big.
 Big and holy.
 </div></td>
@@ -25,7 +25,7 @@ Big and holy.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בְּעָלְמָא דִּי 
 בְרָא כִרְעוּתֵהּ 
 וְיַמְלִיךְ מַלְכוּתֵהּ 
@@ -35,7 +35,7 @@ Big and holy.
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Do it in this world,
 This creation sprung from consciousness,
 And bring some order to this.
@@ -47,13 +47,13 @@ in the life of the people we call home.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְאִמְרוּ 
 יְהֵא שְׁמֵהּ רַבָּא מְבָרַךְ לְעָלַם וּלְעָלְמֵי עָלְמַיָּא
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Everybody join with me: 
 May the name be blessed forever and ever!
 </div></td>
@@ -61,7 +61,7 @@ May the name be blessed forever and ever!
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יִתְבָּרַךְ 
 יִתְבָּרַךְ וְיִשְׁתַּבַּח וְיִתְפָּאַר וְיִתְרוֹמַם וְיִתְנַשֵּׂא ‏
 וְיִתְהַדַּר וְיִתְעַלֶּה וְיִתְהַלַּל שְׁמֵהּ דְּקֻדְשָׁא 
@@ -69,7 +69,7 @@ May the name be blessed forever and ever!
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Yes, blessed.
 Blessed, whispered, sung out, shouted, honored, this holy name.
 The name is beyond any song, poem, or comforting words we could ever speak.
@@ -79,7 +79,7 @@ Everybody say: That's the truth!
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְהֵא שְׁלָמָא רַבָּא מִן שְׁמַיָּא 
 וְחַיִּים עָלֵינוּ 
 וְעַל כָּל יִשְׂרָאֵל. 
@@ -87,7 +87,7 @@ Everybody say: That's the truth!
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May a big peace descend from the heavens, 
 a life-giving peace for all of us, 
 for our beloved people,
@@ -97,7 +97,7 @@ Let everybody say: May it be true!
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עוֹשֶׂה שָׁלוֹם בִּמְרוֹמָיו 
 הוּא יַעֲשֶׂה בְּרַחֲמָיו שָׁלוֹם עָלֵינוּ 
 וְעַל כָּל יִשְׂרָאֵל  
@@ -107,7 +107,7 @@ Let everybody say: May it be true!
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Make that peace in the heavens, 
 great peacemaker, 
 great One who brings wholeness to our people.

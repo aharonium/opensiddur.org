@@ -11,31 +11,31 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִזְמוֹר לְדָוִד. 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 A Song of David.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יהוה, מִי יָגוּר בְּאָהֳלֶךָ, 
 מִי יִשְׁכֹּן בְּהַר קָדְשֶׁךָ׃ 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 YHVH, who may live in Your house?
 Who may dwell on Your holy mountain?
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הוֹלֵךְ תָּמִים וּפֹעֵל צֶדֶק 
 וְדֹבֵר אֱמֶת בִּלְבָבוֹ׃ 
 לֹא־רָגַל עַל לְשֹׁנוֺ, 
@@ -49,7 +49,7 @@ Who may dwell on Your holy mountain?
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Those who are upright; who do justly;
 They speak the truth within their hearts.
 They do not slander others, or wrong them,
@@ -64,12 +64,12 @@ they never take bribes.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עֹשֵׂה־אֵלֶּה לֹא יִמּוֹט לְעוֹלם:
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Those who act this way shall never be shaken.
 </div></td></tr>
 </tbody></table>

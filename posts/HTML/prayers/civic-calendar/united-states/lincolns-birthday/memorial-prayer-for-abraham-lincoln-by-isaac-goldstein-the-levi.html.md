@@ -13,16 +13,16 @@ The following acrostic authored by Isaac Goldstein haLevi was published in <em>T
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead><tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רָ֘חַ֤שׁ לִבִּ֨י ׀ דָּ֘בָ֤ר ט֗וֹב אֹמֵ֣ר אָ֭נִי מַעֲשַׂ֣י לְמֶ֑לֶךְ
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 My heart is moved. I would like to pay tribute to a King.[foot]Psalms 45:2 part[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
 <span class="acrostic">אַ</span>שְׁרֶיךָ לִינְקאָלֶען מִי כָמוֹכָה
 <span class="acrostic">בֵּ</span>ין מְלָכִים וְשָׁרִים מְאוֹד נִשֵּׂאתָ
 <span class="acrostic">רַ</span>בּוֹת פָּעַלְתָּ בְּנֶפֶשׁ נְמוּכָה
@@ -30,7 +30,7 @@ My heart is moved. I would like to pay tribute to a King.[foot]Psalms 45:2 part[
 <span class="acrostic">מִ</span>י בָּרוֹזְנִים כְּלִינְקאָלֶען וּמִי יִתְהַלֵּל כָּמוֹהוּ
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <span class="acrostic">&nbsp;</span>Exalted are you Lincoln. Who is like you!
 <span class="acrostic">&nbsp;</span>You were highly respected among Kings and Princes.
 <span class="acrostic">&nbsp;</span>All that you accomplished you did with a humble spirit.
@@ -39,7 +39,7 @@ My heart is moved. I would like to pay tribute to a King.[foot]Psalms 45:2 part[
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
 <span class="acrostic">לְ</span>ךָ שֵׁם גַּם בַּגִּבּוֹרִים
 <span class="acrostic">יְ</span>מִינְךָ עֹשָׂה חָיִל
 <span class="acrostic">נֶ</span>גְדָם חָזַרְתָּ חֶרֶב חֲלָלִים
@@ -50,34 +50,34 @@ My heart is moved. I would like to pay tribute to a King.[foot]Psalms 45:2 part[
 <span class="acrostic">נֶ</span>צַח יְפָאֲרוּ וִיבָרְכוּ שְׁמֶךָ
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <span class="acrostic">&nbsp;</span>You have earned a name among the Great.
 <span class="acrostic">&nbsp;</span>Your right hand exhibited its prowess.
 <span class="acrostic">&nbsp;</span>Against your enemies, you extended a sword of death;
 <span class="acrostic">&nbsp;</span>Your bow you directed night and day.
 <span class="acrostic">&nbsp;</span>You declared that our Father in Heaven created all men equally.[foot]cf. Malachi 2:10.[/foot]&nbsp;
 <span class="acrostic">&nbsp;</span>Therefore you and you followers fought for freedom in your land.
-<span class="acrostic">&nbsp;</span>Through your efforts the <em>Kushim</em>[foot]<em>The Jewish Messenger</em> translates the Kushim (<span class="hebrew">הכושים</span>) as "the blacks." Abe Katz translates to "African Americans." We have kept the original.[--Aharon Varady][/foot] were led to freedom.
+<span class="acrostic">&nbsp;</span>Through your efforts the <em>Kushim</em>[foot]<em>The Jewish Messenger</em> translates the Kushim (<span class="hebrew" lang="he">הכושים</span>) as "the blacks." Abe Katz translates to "African Americans." We have kept the original.[--Aharon Varady][/foot] were led to freedom.
 <span class="acrostic">&nbsp;</span>They will praise and bless your name forever.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
 מִי בָּרוֹזְנִים כְּלִינְקאָלֶען 
 וּמִי יִתְפָּאֵר כָּמוֹהוּ
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Who among princes is equal to you, Lincoln, 
 and who can be praised like you?
 </td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
 אַייזֶק גּאָלְדְשְׁטֵיין הַלֵּוִי
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Isaac Goldstein haLevi
 </div></td></tr></tbody></table>
 

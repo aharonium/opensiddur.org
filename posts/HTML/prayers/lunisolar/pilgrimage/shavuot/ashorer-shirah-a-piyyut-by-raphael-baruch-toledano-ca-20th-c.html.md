@@ -11,65 +11,65 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֲשׁוֹרֵר שִׁירָה לִכְבוֹד הַתּוֹרָה 
 מִפָּז יְקָרָה זַכָּה וּבָרָה 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 I will sing a song in honor of the Torah,
 Who is more precious than gold, clear and pure
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 תּוֹרָה תְּמִימָה נְעִימָה רַבָּה
 פֶּתִי מַחְכִּימָה עַיִן מְאִירָה
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 The perfect Torah is extremely pleasant
 Who makes the simpleton wise and brings light to all eyes
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אַשְׁרֵי הַגֶּבֶר עַל יִצְרוֹ גּוֹבֵר 
 מֵישָׁרִים דּוֹבֵר בּוֹחֵר בַּתּוֹרָה 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Fortunate is the one who rules over desire
 Who speaks justly and chooses the Torah
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 נֶאֱמָן שְׁמוֹ בּוֹחֵר בְּעַמּוֹ
 לִהְיוֹת לוֹ לִשְׁמוֹ אוּמָּה נִבְחֲרָה
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 God whose name is “Trustworthy” and who chose God’s people
 To be for Godself a chosen people
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 נִתְּנָה לָנוּ עַל יַד רוֹעֵנוּ 
 מֹשֶׁה רַבֵּנוּ בְּחִיר הָאֻמָּה
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 It was given to us by our shepherd
 Mosheh our teacher the chosen one of the people
 </div></td></tr>

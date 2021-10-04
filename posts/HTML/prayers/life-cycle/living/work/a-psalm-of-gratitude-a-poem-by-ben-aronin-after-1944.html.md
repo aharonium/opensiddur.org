@@ -11,24 +11,24 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;"><a href="https://opensiddur.org/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <u>A Psalm of Gratitude</u>
 on being raised from the depths of despair to joy and from darkness to light.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 O God, I am amazed at Thy most awesome ways!
 I cannot fathom all the wonders that have now been shown to me,
 When I was a child I saw the beauty of each blade of grass
@@ -37,12 +37,12 @@ And hugged the warm earth, loving Thee
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And Thou wast everywhere, --
 In the voices of my parents at dawn
 In the silent whiteness of the snow
@@ -51,12 +51,12 @@ In my dreams and in my waking I clung to Thee
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 But as I grew to youth the Tree of Knowledge beckoned
 And I sought it with such eagerness
 That my daily prayer to Thee became a habit
@@ -66,12 +66,12 @@ Unless reminded by my learned father
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 For comfort's harbor I sought mother;
 For poetry -- my father
 And Thee I took for granted as one takes the landscape
@@ -80,12 +80,12 @@ With scarce half a glance.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Thus all unknowing I shut out the light,
 For Thou alone art the sole source of light,
 And lamps of levity are often darker than the night they would illumine
@@ -95,12 +95,12 @@ More deadly than the plague of Egypt
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 I prayed to cease, -- to be no more,
 And in my anguish, cried:
 "O God, take me hence
@@ -110,12 +110,12 @@ And, by my sadness and despair, darken the lives of others!"
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 I did not know how much the human heart can bear.
 And yet there was no reasoned cause for all the nameless fears
 That filled my soul with panic
@@ -124,12 +124,12 @@ For Thou hadst heaped on me so many Blessings.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 I was ashamed of my great fear and of my weakness
 And stalked like an automaton about my duties
 Twisting my face into a smile --
@@ -141,12 +141,12 @@ To all my pupils, children, and their children
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And so I lived throughout a thousand hells of my own building
 With one dim spark of hope --
 That just as night had came so suddenly upon my hitherto rejoicing soul
@@ -156,12 +156,12 @@ If only I would bear and struggle on.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 The long long months -- and still no light,
 And then a morning came that sang to me "Arise!"
 I stared all unbelieving at the skies
@@ -171,12 +171,12 @@ All of the Psalms of David -- those and more!
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 The night is over and the day is radiant
 Each ordinary thing glows with a holy fire
 Again I work -- but joyously,
@@ -185,12 +185,12 @@ Again create, -- aspire.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 I do not know the reason or the cause
 Of all that happened to this battered soul of mine
 Perhaps -- to know compassion better

@@ -11,11 +11,11 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 God of Goodness, 
 you have given a beautiful earth to all humankind and a beautiful country to the American people. 
 You have given us our minds to discern your truth and the means to preserve and protect your gifts.
@@ -23,11 +23,11 @@ You have given us our minds to discern your truth and the means to preserve and 
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 God of Compassion, 
 show us the way to improve the lives of our fellow Americans. 
 Remind us that our greatest achievements begin by helping each of us to build a good life, 
@@ -39,11 +39,11 @@ and to age with wisdom and dignity.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 God of Healing, 
 comfort us in the difficult days that have marked this turbulent summer 
 in our country and around the world. 
@@ -54,11 +54,11 @@ Let us keep the faith that the healing of our wounds will make us stronger than 
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 God of Strength, 
 safeguard this great nation and our allies. 
 Watch over the brave who protect us here and abroad. 
@@ -69,11 +69,11 @@ Bring us closer together to understand our challenges and to overcome them.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 God Who is Great, Mighty, and Awesome, 
 in a season so filled with chatter 
 of who is great and what is great and what shall be great, 
@@ -87,11 +87,11 @@ and this is the greatness the American people must strive to imitate.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 God of History, 
 help us to understand that this is the most important election of our lives. 
 Help us to recognize that the gift -- 
@@ -107,11 +107,11 @@ and each a person of infinite value created in your divine image.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Help us to choose wisely, 
 to walk in your ways 
 which are paths of pleasantness 

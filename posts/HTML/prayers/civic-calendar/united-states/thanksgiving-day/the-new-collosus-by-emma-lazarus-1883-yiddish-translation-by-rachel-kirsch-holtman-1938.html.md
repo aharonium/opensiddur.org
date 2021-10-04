@@ -11,18 +11,18 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Yiddish (translation)</th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="yiddish"><span lang="he">
+<div class="yiddish" lang="yi">
 דער נײער קאָלאסוס
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <span style="text-transform: uppercase;">The New Collosus</span>[foot]Written in aid of Bartholdi Pedestal Fund 1883[/foot]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="yiddish"><span lang="he">
+<div class="yiddish" lang="yi">
 ניט װי דער בארימטער, חוצפּהדיקער גריכישער גיגאנט
 מיט די צװינגענדיקע פיס צעשפּרײט פון לאנד צו לאנד,
 דאָ בא אונדזערע זוגפארגאנג־טויערן, באװאשן פון ים
@@ -34,7 +34,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Not like the brazen giant of Greek fame,
 With conquering limbs astride from land to land;
 Here at our sea-washed, sunset gates shall stand
@@ -47,7 +47,7 @@ The air-bridged harbor that twin cities frame.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="yiddish"><span lang="he">
+<div class="yiddish" lang="yi">
 ״האלט זיך, פארצײטיקע לענדער, מיט אײער אויפגעבלאָזענער פּאָמפּאדע!״
 פּראָקלאמירט זי מיט שװײגנדיקע ליפּן: אייערע ארעמע, די מידע, גיט זײ מיר,
 אײערע צונויפגעדריקטע מאסן, װאָס לעכצן נאָך א פרײען אטעם,
@@ -57,7 +57,7 @@ The air-bridged harbor that twin cities frame.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 "Keep, ancient lands, your storied pomp!" cries she
 With silent lips. "Give me your tired, your poor,
 Your huddled masses yearning to breathe free,
@@ -75,7 +75,7 @@ This is the sonnet, "The New Collosus" (1883) by Emma Lazarus set side-by-side w
 <table style="margin-left: auto;margin-right: auto;" class="draggable">
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="commentary"><span lang="he">
+<div class="commentary" lang="he">
 תניא 
 ר״ש בן יוחי אומר 
 בוא וראה כמה חביבין ישראל לפני הקב"ה 
@@ -93,7 +93,7 @@ This is the sonnet, "The New Collosus" (1883) by Emma Lazarus set side-by-side w
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 It is taught in a baraita: 
 Rabbi Shimon ben Yoḥai says: 
 Come and see how beloved the Jewish people are before the blessed Holy One. 

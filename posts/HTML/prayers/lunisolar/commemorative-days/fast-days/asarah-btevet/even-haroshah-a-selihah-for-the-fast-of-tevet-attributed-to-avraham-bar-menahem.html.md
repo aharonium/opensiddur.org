@@ -11,18 +11,18 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֱלֹהֵינוּ וֵאֹלהֵי אָבוֹתֵינוּ
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Our God, and the God of our fathers. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֶבֶן הָרֹאשָׁה. 
 לְעִיִּים וְלַהֲרִישָׁה. 
 וְנוֹהֲלֵי מוֹרָשָׁה. 
@@ -30,7 +30,7 @@ Our God, and the God of our fathers.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 The corner stone[foot]Zechariah 4:7. i.e., the Temple[/foot] 
 has been turned into heaps, and into a ploughed field, 
 and the inheritors of the Torah 
@@ -39,7 +39,7 @@ have become a shaking of the head among the people.[foot]Psalm 44:15 b.[/foot]
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בְּקִרְבִּי לֵב נִכְאַב. 
 וְנִדְוֶה וְנִדְאַב. 
 וְנִשְׁאַרְנוּ כְּאֵין אָב. 
@@ -47,7 +47,7 @@ have become a shaking of the head among the people.[foot]Psalm 44:15 b.[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 My heart is sorrowful within me, 
 I am grieved
 that we are left as fatherless, 
@@ -56,7 +56,7 @@ and are as orphans.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רַכָּה וַעֲנֻּגָה. 
 בַּשׁוֹשַׁנִּים סוּגָה. 
 עַתָּה הִא נוּגָה. 
@@ -64,7 +64,7 @@ and are as orphans.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 The tender and delicate one,[foot]The daughter of Zion, i.e., the people of Israel.[/foot] 
 once set about with lilies, 
 how is she afflicted now, 
@@ -73,7 +73,7 @@ delivered up into the hand of her enemies.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הָיְתָ֖ה כְּאַלְמָנָ֑ה. <span class="citation">(איכה א:א חלק)</span>
 קִרְיָ֖ה נֶאֱמָנָ֑ה. <span class="citation">(ישעיה א:כא חלק)</span>
 וְזֶרַע מִי־מָנָה 
@@ -81,7 +81,7 @@ delivered up into the hand of her enemies.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 The faithful city[foot]Lamentations 1:1.[/foot] 
 has become as a widow,[foot]Isaiah 1:21.[/foot]
 and her numberless children 
@@ -90,7 +90,7 @@ have been sold for nought.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מְעֻנָּגָה וְרַכָּה. 
 צָלְחָה לִמְלוּכָה. 
 וּמֵעֲנִיתָהּ אָרְכָה. 
@@ -98,7 +98,7 @@ have been sold for nought.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Other nations 
 have attained dominion, 
 and prospered 
@@ -107,7 +107,7 @@ these many years;
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בֵּית יַעֲקֹב לְבִזָּה. 
 לְלַעַג וּלְעִזָּה. 
 וְהָעִיר הָעַלִיזָה. 
@@ -115,7 +115,7 @@ these many years;
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 but the house of Yaaḳov 
 has become a prey, and a derision, 
 and the rejoicing city 
@@ -124,7 +124,7 @@ as plantings of vineyards.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רְווּיָה תַרְעֵלָה. 
 בְּיַד בְּנֵי־עַוְלָה. 
 הָרְצוּיָה כְעוֹלָה. 
@@ -132,7 +132,7 @@ as plantings of vineyards.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Full of the cup of trembling, 
 she who was once as acceptable 
 as a burnt-offering and as sweet incense, 
@@ -141,7 +141,7 @@ is now in the hands of the sons of wickedness.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מָאֲסָה לִזְנוֹחַ. 
 תּוֹרַת אֲבִי זָנוֹחַ. 
 וְלֹא מָצְאָה מָנוֹחַ. 
@@ -149,7 +149,7 @@ is now in the hands of the sons of wickedness.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 She has disdainfully forsaken 
 the Torah of Mosheh,[foot]Abi Sonoach is one of the names of Mosheh. (See Megillah 13.1.)[/foot] 
 hence she finds no rest 
@@ -158,7 +158,7 @@ either by night or day.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 נוֹרָא אֵל עֶלְיוֹן. 
 מִמְּךָ יְהִי צִבְיוֹן. 
 לְהָשִׁיב לְרִיב צִיּוֹן. 
@@ -166,7 +166,7 @@ either by night or day.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Awesome El Elyon! 
 may it be thy pleasure 
 to bring about the year of requital 
@@ -175,7 +175,7 @@ for injured Tsiyon.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 חַדֵּשׁ יָמֵינוּ כְּקֶדֶם. 
 מְעוֹנָה אֱלֹהֵי קֶדֶם. 
 וְלַבֵּן כַּצֶּמֶר אוֹדֶם. 
@@ -183,7 +183,7 @@ for injured Tsiyon.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Renew our days as of old, 
 be our refuge, our <em>elo'ah</em> of old, 
 and whiten as wool our red sin, 
@@ -192,7 +192,7 @@ and our stains as snow.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 חַזְּקֵנו בְּיִרְאָתֶךָ. 
 וּבְקִיוּם תּוֹרָתֶךָ. 
 וּפָקְדֵנוּ. בִּישׁוּעָתֶךָ. 
@@ -200,7 +200,7 @@ and our stains as snow.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Strengthen us in the fear of thee, 
 and in the fulfilment of thy Torah, 
 and visit us with thy salvation, 

@@ -11,23 +11,23 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 [You can add personal affirmations to the following.]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <h3>I affirm...</h3>
 
 The power of positive affirmations.
@@ -41,12 +41,12 @@ Who support and guide me.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָבוֹת
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <h3>Avot</h3>
 
 I affirm the blessings 
@@ -55,12 +55,12 @@ Of Avraham and Sarah, in my life.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 תְּחִיָּה
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <h3>T'ḥiyah</h3>
 
 I affirm the sacrifice of Yitsḥak, 
@@ -70,12 +70,12 @@ And death.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 קְדֻשָּׁה 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <h3>Ḳedushah</h3>
 
 I affirm God's holiness, 
@@ -84,12 +84,12 @@ And my growth toward it.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שׁוֹבֵר אוֹיְבִים
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <h3>הָ Shover oyvim</h3>
 
 I place myself 
@@ -100,12 +100,12 @@ From all harm and neutralize it.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אַתָּה חוֹנֵן
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <h3>הַ Atah ḥonen</h3>  
 
 I invoke the inflow of <strong>Ḥochmah</strong>,
@@ -116,12 +116,12 @@ To inspiration and realization.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הֲשִׁיבֵנוּ
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <h3>הֵ Hashivenu</h3>
 
 I invoke the care of <strong>Binah</strong>,
@@ -130,12 +130,12 @@ To lead me to God's heart.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 סְלִיחָה   
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <h3>הֶ Seliḥah</h3>
 
 I invoke the abundance of <strong>Ḥesed</strong>,
@@ -144,12 +144,12 @@ To bring me to atonement.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 גְּאֻלָּה   
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <h3>הְ Ge'ullah</h3>
 
 I invoke the power of <strong>Gevurah</strong>,
@@ -159,12 +159,12 @@ And lead me to redemption.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רְפוּאָה   
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <h3>הוֹ Refu’ah</h3>
 
 I place myself 
@@ -177,12 +177,12 @@ Centering light within me.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בְּרָכָה, מָשִׁיחַ, שְׁכִינָה   
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <h3>הִ Brakhah, Mashiaḥ, Shekhinah</h3>
 
 I support myself 
@@ -198,12 +198,12 @@ The Shekhinah's residing in Tsiyyon.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 קִבּוּץ גָּלוּיוֹת, יְרוּשָׁלַיִם, מוֹדִים
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <h3>הֻ Kibbutz Galuyot, Yerushalayim, Modim</h3>
 
 I support myself 
@@ -219,12 +219,12 @@ To God's Glory.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 צְדָקָה וּמִשְּׁפַּת, צַדִּיקִים, שָׁלוֹם
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <h3>הוּ Tsedakah Umishpat, Tsaddikim, Shalom</h3>
 
 I base myself 
@@ -241,12 +241,12 @@ To work for peace.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שׁוֹמֵעַ תְּפִלָּה
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <h3>ה Shome'a T'fillah</h3>
 
 I affirm that <strong>Malkhūt</strong>,
@@ -259,12 +259,12 @@ To suffuse my life.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָמֵן...אָמֵן׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Amen...Amen.
 </div></td></tr>
 </tbody></table>

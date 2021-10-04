@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 נַחֵם •••• אֱלֹהֵֽינוּ 
 אֶת אֲבֵלֵי צִיּוֹן 
 וְאֵת אֲבֵלֵי יְרוּשָׁלָֽיִם. 
@@ -24,7 +24,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Comfort, ‪•••• our God, 
 the mourners of Zion 
 and the mourners of Jerusalem. 
@@ -38,7 +38,7 @@ for in Her peace will be peace for us.[foot]based on Jeremiah 29:7[/foot]
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָכֵן, אָבִֽינוּ מָלְכֵּֽנוּ, הַחַנּוּן וְהָרַחוּם, 
 עֹשֶׂה שָׁלוֹם שֶׁהַשָּׁלוֹם שֶׁלּוֹ, 
 דְּרֹשׁ אֶת שְׁלוֹם הָעִיר אֲשֶׁר הִגְלֵֽיתָ אוֹתָֽנוּ שָֽׁמָּה. <span class="citation">(כמו ירמיה כט:ז)</span>
@@ -47,7 +47,7 @@ for in Her peace will be peace for us.[foot]based on Jeremiah 29:7[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Thus, our Parent, our Sovereign, Gracious and Merciful One, 
 Maker of Peace to whom Peace belongs, 
 seek the peace of the city from which You had exiled us.[foot]based on Jeremiah 29:7[/foot] 
@@ -57,7 +57,7 @@ return and have mercy on Your servants.[foot]Psalm 90:13[/foot]
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְאַז נַעֲלֶה אֶל־הַמָּקוֹם אֲשֶׁר־בָּחַֽרְתָּ לְשָׁכֵּן אֶת־שִׁמְךָ שָׁם, <span class="citation">(כמו דברים טז:ו)</span>
 כִּימֵי עוֹלָם וּכְשָׁנִים קַדְמֹנִיּוֹת. <span class="citation">(מלאכי ג:ד)</span>
 וּפְרוֹשׂ סֻכָּת שָׁלוֹם הַמְּכוֹנֶֽנֶת 
@@ -69,7 +69,7 @@ return and have mercy on Your servants.[foot]Psalm 90:13[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And thus we will go up to the place that You chose Your Name to be,[foot]based on Deuteronomy 16:6[/foot] 
 as in days of old and years of yor.[foot]Malachi 3:4[/foot] 
 And spread the established sukkah of Your peace 
@@ -82,7 +82,7 @@ to Her we face.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּלְכׇל־גּוֹיִם 
 קְרָא עַל שְׁלוֹם יְרוּשָׁלַֽיִם עִיר קׇדְשֶֽׁךָ, 
 וְנָשִֽׁירָה וּנְזַמְּרָה וּנְרַנְּנָה בְּהַר שְׁלוֹמֶֽךָ‪,‬ 
@@ -93,7 +93,7 @@ to Her we face.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And to all the nations, 
 call out upon the peace of Jerusalem Your holy city, 
 that we will sing and hymn and praise in the mountain of Your peace, 

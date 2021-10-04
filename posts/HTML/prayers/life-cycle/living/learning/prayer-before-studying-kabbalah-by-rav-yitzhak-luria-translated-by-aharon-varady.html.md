@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Hebrew (source)</th><th style="text-align: left;">English (translation)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רִבּוֹן הָעוֹלָמִים וַאֲדוֹנֵי הָאֲדוֹנִים,
 אַב הָרָחֲמִים וְהָסְּלִיחוֹת,
 מוֹדִים אֲנַחְנוּ לְפָנֶיךָ 
@@ -21,7 +21,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 וְנָתַתָּ לָנוּ חֵלֶק בְּסוֹדוֹת תּוֹרָתֶךָ הַקְּדוֹשָׁה.‏ 
 </span></div></td>
 
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 Master of the worlds and Lord of Lords, 
 Father of Compassion and Forgiveness,
 we give thanks before you 
@@ -32,31 +32,31 @@ and for granting us a portion in the hidden insights of your holy Torah.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
 מָה אֲנוּ וּמָה חַיֵּינוּ 
 אֲשֶר עָשִׂיתָ עִמָּנוּ חֶסֶד גָּדוֹל כָּזֶה?‏ 
 </span></div></td>
 
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 What are we and what is our life 
 that you should have made for us this immense <em>ḥesed</em>? 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
 עַל כֵּן אֲנַחְנוּ מַפִּילִים תַּחֲנוּנֵינוּ לְפָנֶיךָ,
 שֶׁתִּמְחוֹל וְתִסְלַח לְכָל חַטֹּאתֵינוּ וְעֲווֹנוֹתֵינוּ,
 וְאַל יִהְיוּ עֲווֹנוֹתֵינוּ מַבְדִּילִים בֵּינֵנוּ לְבֵינֶךָ.‏
 </span></div></td>
 
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 Therefore we cast our supplications before you, 
 requesting that you forgive and pardon all our sins and transgressions, 
 and that our sins shall not alienate us from you.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
 וּבְכֵן יְהִי רָצוֹן מִלְפָנֶיךָ 
 ה׳ אֱלֹהֵינוּ וְאֱלֹהֵי אֲבוֹתֵינוּ,
 שֶׁתְּכוֹנֵן אֶת לְבָבֵינוּ לְיִרְאָתֶךָ וּלְאַהֲבָתֶךָ,
@@ -68,7 +68,7 @@ and that our sins shall not alienate us from you.
 אֲשֶׁר עַל יָדָם גִּלִּיתָ דְבָרֶיךָ אֵלֶה בָּעוֹלָם.‏
 </span></div></td>
 
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 Therefore may it be your will, 
 YHVH our <em>elo'ah</em>, and <em>elo'ah</em> of our ancestors, 
 that you attune our minds[foot]Until the modern period, the heart was understood as the locus of the intellect, and thus translated here as mind, not literally as heart.[/foot] to your fearsomeness and your lovingness, 
@@ -81,14 +81,14 @@ through whom you have revealed your words in this Age, shine forth!
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
 וּזְכוּתָם 
 וּזְכוּת אֲבוֹתָם 
 וּזְכוּת תּוֹרָתָם וּתְמִימוּתָם וּקְדוּשָתָם
 יַעֲמוֹד לָנוּ לְבַל נִכָּשֵׁל בִּדְבָרִים אֵלוּ,‏
 </span></div></td>
 
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 May their merit, 
 and the merit of their ancestors, 
 and the merit of their Torah, of their perfection, and of their sanctity 
@@ -96,14 +96,14 @@ support us so that we should not stumble in our study.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
 וּבִזְכוּתָם תָּאִיר עֵינֵינוּ בַּמֶּה שֶׁאָנוּ לוֹמְדִים, 
 כְּמַאֲמַר נְעִים זְמִירוֹת יִשְׂרָאֵל: 
 ”גַּל־עֵינַ֥י וְאַבִּ֑יטָה נִ֝פְלָא֗וֹת מִתּוֹרָתֶֽךָ“ <span class="citation">(תהלים קיט׃יח)</span>
 ”כִּֽי־יְ֭הוָה יִתֵּ֣ן חָכְמָ֑ה מִ֝פִּ֗יו דַּ֣עַת וּתְבוּנָֽה׃“ <span class="citation">(משלי ב׃ו)</span>
 </span></div></td>
 
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 And may their merit illuminate our eyes in what we are studying, 
 in the words of the enchanting singer of Yisra'el: 
 “Open my eyes and I will perceive the wonders of your Torah”[foot]Psalms 119:18[/foot], 
@@ -111,11 +111,11 @@ in the words of the enchanting singer of Yisra'el:
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy"><span lang="he">
+<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
 ”יִֽהְי֥וּ לְרָצ֨וֹן׀ אִמְרֵי־פִ֡י וְהֶגְי֣וֹן לִבִּ֣י לְפָנֶ֑יךָ יְ֝הוָ֗ה צוּרִ֥י וְגֹאֲלִֽי׃“ <span class="citation">(תהלים יט׃טו)</span>
 </span></div></td>
 
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 "May the words of my mouth and the meditations of my heart find favor before you, YHVH, my fortress and my redeemer."[foot]Psalms 19:15[/foot]
 </td></tr>
 </tbody></table>

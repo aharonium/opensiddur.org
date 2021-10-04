@@ -11,18 +11,18 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Initials (Hebrew)</th><th style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 אב״ג ית״ץ
 </span></div></td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֱלֹהִים בְּיִשְׂרָאֵל
 גָדוֹל יִחוּדֶךָ
 תְּשַׂגְּבֵנוּ צִדְקָתֶךָ
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 Elohim in Yisrael,
 Great is your unity -- 
 May your righteousness uplift us!
@@ -30,18 +30,18 @@ May your righteousness uplift us!
 
 
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 קר״ע שט״ן
 </span></div></td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 קָדוֹשׁ
 רְאֵה עֲלִילוֹת שׂוֹנְאֵינוּ
 טַהֵר נַחֲלָתֶךָ
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 Holy One
 Perceive the conspiracies of our adversaries;
 Purify your heritage!
@@ -49,52 +49,52 @@ Purify your heritage!
 
 
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 נג״ד יכ״ש
 </span></div></td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 נִשְׂגַּב גְּאַל דּוֹרְשֶׁיךָ
 יִגְדַּל כֹּחַ שְׁמוֹתֶיךָ
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 Exalted one, redeem those who seek you,
 Sustain the power of your Names!
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 בט״ר צת״ג
 </span></div></td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בְּשִׁמְךָ טַכֵּס רוּחֵנוּ
 צֶמַח תָּבִיא גְּאֻלָּתֵנוּ <span class="citation">(זכריה ג:ח)</span>
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 In your Name’s sake our spirits celebrate;
 Bring the Branch of our redemption![foot]Cf. Zechariah 3:8.[/foot]
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 חק״ב טנ״ע
 </span></div></td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 חָסִיד קָדוֹשׁ
 בְּרוֹב טוּבְךָ
 נוֹי עַנְוְתָנוּתֶךָ
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 Holy Pious One,
 With all your beneficence 
 Adorn your modesty.
@@ -102,34 +102,34 @@ Adorn your modesty.
 
 
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 יג״ל פז״ק
 </span></div></td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יֶהֱמוּ גֹּדֶל לְבָבֵנוּ
 פְּדֵנוּ זְכֹר קְדוּשָׁתֶךָ
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 May we exclaim (your) greatness from our hearts --
 Redeem us! Recollect your sanctification.
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 שק״ו צי״ת
 </span></div></td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שְׁעֵה קוֹל וִידוּיֵינוּ
 צַדֵּק יוֹדֵעַ תְּהִלָּתֶךָ.‏
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english">
+<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
 Attend to the call of our confession,
 Justify those who know your praises.
 </div></td></tr>
@@ -145,7 +145,7 @@ For more on the 42 letter divine name and the piyyutim, including Ana B'Koaḥ, 
 
 <blockquote>Sefer Peliah recounts a piyyut which it recommends saying instead of the name itself....It is quite likely, as stated above, that this piyyut in Sefer Peliah is the first instance of a prayer being written based on the name of 42. My research is by no means exhaustive, however, I have not come across a piyyut written based on the name of 42 in any text which predate Sefer Peliah. Now that we have found a probable source for this practice, let us turn briefly to a discussion of the significance of this divine name. In another section of Sefer Peliah it equates every six letter unit with one of the planets. It puts forth the idea that each six letter unit is able to draw extraordinary power to the individual from the planet to which it corresponds:
 
-<div class="hebrew">המ״ב אותיות היוצאים מהם אב״ג ית״ץ ושאר הו׳ שמות תמצאו כל כחות של ז׳ כוכבי לכת איך מתפשטים עליהם הכוחות מכח שם יהו״ה וי״ס ומכח שם בן מ״ב והם ראשי פרקים. וכאשר תחפוש במקרא תמצא לכ״א וא׳ פסוקים מן התורה והם הם ראשי פרקים של הכוחות ויהיו תמיד לעיניך ובהם יודע כל עתיד בשם יהו״ה אדנ״י יתברך ויתעלה:
+<div class="hebrew" lang="he">המ״ב אותיות היוצאים מהם אב״ג ית״ץ ושאר הו׳ שמות תמצאו כל כחות של ז׳ כוכבי לכת איך מתפשטים עליהם הכוחות מכח שם יהו״ה וי״ס ומכח שם בן מ״ב והם ראשי פרקים. וכאשר תחפוש במקרא תמצא לכ״א וא׳ פסוקים מן התורה והם הם ראשי פרקים של הכוחות ויהיו תמיד לעיניך ובהם יודע כל עתיד בשם יהו״ה אדנ״י יתברך ויתעלה:
 
 אב״ג ית״ץ רקיע שבתי שבתי וארצו. ושמטתו ויובל יום אחד. עין ימין. וחיים. ימים. שבת. חודש:
 קר״ע שט״ן רקיע צדק. צדק וארצו, ושמטתו ויובל יום שני. עין שמאל, ושלום. ימים. שבת. חודש:

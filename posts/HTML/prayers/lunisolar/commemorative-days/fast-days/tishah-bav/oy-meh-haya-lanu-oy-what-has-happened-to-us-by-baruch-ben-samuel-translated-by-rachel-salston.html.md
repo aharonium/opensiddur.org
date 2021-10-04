@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 זְכוֹר יְיָ מֶה הָיָה לָנוּ אוֹי. 
 הַבִּיטָה וּרְאֵה אֶת חֶרְפָּתֵנוּ. 
 אוֹי מֶה הָיָה לָנוּ: 
@@ -19,7 +19,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Recall, Hashem, what happened to us. Oy. 
 Look and take note of our disgrace. 
 Oy, what has happened to us. 
@@ -28,7 +28,7 @@ Oy, what has happened to us.
 
 
 <tr><td style="vertical-align: top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 נַחֲלָתֵנוּ נֶהֶפְכָה לְזָרִים אוֹי. 
 בָּתֵּינוּ לְנָכְרִים. 
 אוֹי מֶה הָיָה לָנוּ: 
@@ -36,7 +36,7 @@ Oy, what has happened to us.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Our inheritances have been transferred to strangers. Oy. 
 Our houses to heathens. 
 Oy, what has happened to us. 
@@ -45,7 +45,7 @@ Oy, what has happened to us.
 
 
 <tr><td style="vertical-align: top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 יְתוֹמִים הָיִינוּ וְאֵין אָב אוֹי. 
 אִמּוֹתֵינוּ מְקוֹנְנוֹת בְּחֹדֶשׁ אָב. 
 אוֹי מֶה הָיָה לָנוּ: 
@@ -53,7 +53,7 @@ Oy, what has happened to us.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 We have become orphans without a father. Oy. 
 Our mothers wail in the month of Av. 
 Oy, what has happened to us. 
@@ -62,7 +62,7 @@ Oy, what has happened to us.
 
 
 <tr><td style="vertical-align: top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 מֵימֵינוּ בְּכֶסֶף שָׁתִינוּ אוֹי. 
 כִּי נִסּוּךְ הַמַּיִם בָּזִינוּ. 
 אוֹי מֶה הָיָה לָנוּ: 
@@ -70,7 +70,7 @@ Oy, what has happened to us.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 We had to pay to drink our own water. Oy. 
 Because we belittled the Water Libation ritual. 
 Oy, what has happened to us. 
@@ -79,7 +79,7 @@ Oy, what has happened to us.
 
 
 <tr><td style="vertical-align: top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 עַל צַוָּארֵנוּ נִרְדָּפְנוּ אוֹי. 
 כִּי שִׂנְאַת חִנָּם רָדָפְנוּ. 
 אוֹי מֶה הָיָה לָנוּ: 
@@ -87,7 +87,7 @@ Oy, what has happened to us.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 We are pursued at our necks. Oy. 
 Because we pursued Baseless Hatred. 
 Oy, what has happened to us.
@@ -96,7 +96,7 @@ Oy, what has happened to us.
 
 
 <tr><td style="vertical-align: top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 מִצְרַיִם נָתַנּוּ יָד אוֹי. 
 וְאַשּׁוּר צָדוּנוּ כְּצַיָּד. 
 אוֹי מֶה הָיָה לָנוּ: 
@@ -104,7 +104,7 @@ Oy, what has happened to us.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 We reached out our hand to Egypt. Oy. 
 But Assyria trapped us like a hunter’s prey. 
 Oy, what has happened to us. 
@@ -113,7 +113,7 @@ Oy, what has happened to us.
 
 
 <tr><td style="vertical-align: top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 אֲבֹתֵינוּ חָטְאוּ וְאֵינָם אוֹי. 
 וַאֲנַחְנוּ סוֹבְלִים אֶת עֲוֹנָם. 
 אוֹי מֶה הָיָה לָנוּ: 
@@ -121,7 +121,7 @@ Oy, what has happened to us.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Our ancestors sinned and are no more. Oy. 
 But we suffer for their transgressions. 
 Oy, what has happened to us. 
@@ -130,7 +130,7 @@ Oy, what has happened to us.
 
 
 <tr><td style="vertical-align: top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 עֲבָדִים מָשְׁלוּ בָנוּ אוֹי. 
 כִּי שִׁלּוּחַ עֲבָדִים בִּטַּלְנוּ. 
 אוֹי מֶה הָיָה לָנוּ: 
@@ -138,7 +138,7 @@ Oy, what has happened to us.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Slaves are our masters. Oy. 
 Because we neglected the obligation to free our slaves. 
 Oy, what has happened to us. 
@@ -147,7 +147,7 @@ Oy, what has happened to us.
 
 
 <tr><td style="vertical-align: top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 בְּנַפְשֵׁנוּ נָבִיא לַחְמֵנוּ אוֹי. 
 כִּי קָפַצְנוּ מֵעָנִי יָדֵינוּ. 
 אוֹי מֶה הָיָה לָנוּ: 
@@ -155,7 +155,7 @@ Oy, what has happened to us.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 We get our bread at the risk of our lives. Oy. 
 Because we closed our hands to the poor. 
 Oy, what has happened to us. 
@@ -164,7 +164,7 @@ Oy, what has happened to us.
 
 
 <tr><td style="vertical-align: top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 עוֹרֵנוּ כְּתַנּוּר נִכְמָרוּ אוֹי. 
 כִּי כְבוֹדָם בְּקָלוֹן הֵמִירוּ. 
 אוֹי מֶה הָיָה לָנוּ: 
@@ -172,7 +172,7 @@ Oy, what has happened to us.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Our skin glows hot, like an oven. Oy. 
 Because we traded their glory for infamy. 
 Oy, what has happened to us.
@@ -181,7 +181,7 @@ Oy, what has happened to us.
 
 
 <tr><td style="vertical-align: top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 נָשִׁים בְּצִיּוֹן עִנּוּ אוֹי. 
 כִּי אִישׁ אֶת אֵשֶׁת רֵעֵהוּ טִמְּאוּ וְזִנּוּ. 
 אוֹי מֶה הָיָה לָנוּ: 
@@ -189,7 +189,7 @@ Oy, what has happened to us.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 They have raped women in Zion. Oy. 
 Because we contaminated and screwed married women. 
 Oy, what has happened to us. 
@@ -198,7 +198,7 @@ Oy, what has happened to us.
 
 
 <tr><td style="vertical-align: top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 שָׂרִים בְּיָדָם נִתְלוּ אוֹי. 
 כִּי גְּזֵלַת הֶעָנִי חָמְסוּ וְגָזְלוּ. 
 אוֹי מֶה הָיָה לָנוּ: 
@@ -206,7 +206,7 @@ Oy, what has happened to us.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Our princes have been hung by their hands. Oy. 
 Because they robbed and mugged the poor. 
 Oy, what has happened to us. 
@@ -215,7 +215,7 @@ Oy, what has happened to us.
 
 
 <tr><td style="vertical-align: top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 בַּחוּרִים טְחוֹן נָשָׂאוּ אוֹי. 
 כִּי בְּבֵית זוֹנָה נִמְצָאוּ. 
 אוֹי מֶה הָיָה לָנוּ: 
@@ -223,7 +223,7 @@ Oy, what has happened to us.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Our young men had to haul heavy millstones. Oy. 
 Because they could be found in the whorehouse. 
 Oy, what has happened to us. 
@@ -232,7 +232,7 @@ Oy, what has happened to us.
 
 
 <tr><td style="vertical-align: top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 זְקֵנִים מִשַּׁעַר שָׁבָתוּ אוֹי. 
 כִּי מִשְׁפַּט יָתוֹם וְאַלְמָנָה עִוְּתוּ. 
 אוֹי מֶה הָיָה לָנוּ: 
@@ -240,7 +240,7 @@ Oy, what has happened to us.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Our elders are no longer in their honored seats at the gate. Oy. 
 Because they did not rule justly for the orphan and the widow. 
 Oy, what has happened to us. 
@@ -249,7 +249,7 @@ Oy, what has happened to us.
 
 
 <tr><td style="vertical-align: top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 שָׁבַת מְשׂוֹשׂ לִבֵּנוּ אוֹי. 
 כִּי נִבְטְלוּ עוֹלֵי רְגָלֵינוּ. 
 אוֹי מֶה הָיָה לָנוּ: 
@@ -257,7 +257,7 @@ Oy, what has happened to us.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Joy is no longer in our hearts. Oy. 
 Because we neglected our pilgrimage ascents to the Temple. 
 Oy, what has happened to us. 
@@ -266,7 +266,7 @@ Oy, what has happened to us.
 
 
 <tr><td style="vertical-align: top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 נָפְלָה עֲטֶרֶת רֹאשֵׁנוּ אוֹי. 
 כִּי נִשְׂרַף בֵּית מִקְדָּשֵׁנוּ. 
 אוֹי מֶה הָיָה לָנוּ: 
@@ -274,7 +274,7 @@ Oy, what has happened to us.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 The crown has fallen off our head. Oy. 
 Because our Holy Temple has been cremated. 
 Oy, what has happened to us. 
@@ -283,7 +283,7 @@ Oy, what has happened to us.
 
 
 <tr><td style="vertical-align: top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 עַל זֶה הָיָה דָוֶה לִבֵּנוּ אוֹי. 
 כִּי נֻטַּל כְּבוֹד בֵּית מַאֲוָיֵנוּ. 
 אוֹי מֶה הָיָה לָנוּ: 
@@ -291,7 +291,7 @@ Oy, what has happened to us.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Thus all of this our hearts ache. Oy. 
 Because the Glory of our Precious House has fallen away. 
 Oy, what has happened to us. 
@@ -300,7 +300,7 @@ Oy, what has happened to us.
 
 
 <tr><td style="vertical-align: top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 עַל הַר צִיּוֹן שֶׁשָּׁמֵם אוֹי. 
 כִּי נִתַּן עָלָיו שִׁקּוּץ מְשׁוֹמֵם. 
 אוֹי מֶה הָיָה לָנוּ: 
@@ -308,7 +308,7 @@ Oy, what has happened to us.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Thus the Mountain of Zion is deserted. Oy. 
 Because a repulsive emptiness has been put upon it. 
 Oy, what has happened to us. 
@@ -317,65 +317,65 @@ Oy, what has happened to us.
 
 
 <tr><td style="vertical-align: top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 אַתָּה יְיָ לְעוֹלָם תֵּשֵׁב כִּסְאֲךָ לְדוֹר וָדוֹר: 
  </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 You, Hashem, are eternally enthroned, Your Throne stands throughout the generations. 
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align: top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 לָמָּה לָנֶצַח תִּשְׁכָּחֵנוּ תַּעַזְבֵנוּ לְאֹרֶךְ יָמִים: 
  </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Why do you obliterate us from your memory, disown us for such a long time? 
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align: top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 הֲשִׁיבֵנוּ יְיָ אֵלֶיךָ וְנָשׁוּבָה חַדֵּשׁ יָמֵינוּ כְּקֶדֶם: 
  </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Return us, Hashem, to face You and let us be restored, renew our days as they once were! 
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align: top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 כִּי אִם מָאֹס מְאַסְתָּנוּ קָצַפְתָּ עָלֵינוּ עַד מְאֹד: 
  </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 For you have become thoroughly sickened of us, fiercely seethed against us. 
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align: top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 הֲשִׁיבֵנוּ יְיָ אֵלֶיךָ וְנָשׁוּבָה חַדֵּשׁ יָמֵינוּ כְּקֶדֶם: 
  </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Return us, Hashem, to face You and let us be restored, renew our days as they once were! 
 </div>
 </td></tr>

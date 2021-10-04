@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-Just in time for Ḥanukkah, <a href="http://www.sprachkasse.de/blog/uber/">Chajm Guski</a> shares a <span lang="he">חנוכה מדריך</span> (Ḥanukkah Madrikh), Handbook for Ḥanukkah, with a Deutsch translation and transliteration of the blessings on lighting the Ḥanukiah, the kavanah, <em>HaNerot HaLalu</em>, and the piyyut, <em>Maoz Tzur</em>.
+Just in time for Ḥanukkah, <a href="http://www.sprachkasse.de/blog/uber/">Chajm Guski</a> shares a חנוכה מדריך</span> (Ḥanukkah Madrikh), Handbook for Ḥanukkah, with a Deutsch translation and transliteration of the blessings on lighting the Ḥanukiah, the kavanah, <em>HaNerot HaLalu</em>, and the piyyut, <em>Maoz Tzur</em>.
 <a class="pdf" href="https://opensiddur.org/wp-content/uploads/2010/11/Ḥanukkah-Madrikh.pdf">PDF</a> | <a class="download" href="https://opensiddur.org/wp-content/uploads/2010/11/Ḥanukkah-Madrikh.odt">ODT</a> | <a class="download" href="https://opensiddur.org/wp-content/uploads/2010/11/Ḥanukkah-Madrikh.txt">TXT</a>
 Chajm adds that the format for his layout was inspired by <a href="https://opensiddur.org/2010/08/nusa%e1%b8%a5-ha-ari-a-new-transcription-by-shmuel-gonzales/">Shmuel Gonzales</a>'s work.
 
@@ -19,14 +19,15 @@ An allen Abenden:
 <tbody>
 <tr>
 <td width="46%">
-<div style="text-align: right;" class="liturgy"><span lang="he">
+<div style="text-align: right;" class="liturgy" lang="he">
 בָּרוּךְ אַתָּה יְיָ
 אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם
 אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו
 וְצִוָּנוּ לְהַדְלִיק נֵר שֶׁל חֲנֻכָּה׃
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%">
+<div class="german" lang="de">
 Gepriesen seist Du, Ewiger, 
 unser G-tt, König der Welt, 
 der du uns geheiligt durch deine Gebote 
@@ -40,7 +41,7 @@ und uns geboten, das Chanukkahlicht anzuzünden.
 <tbody>
 <tr>
 <td width="46%">
-<div style="text-align: right;" class="liturgy"><span lang="he">
+<div style="text-align: right;" class="liturgy" lang="he">
 בָּרוּךְ אַתָּה יְיָ
 אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם
 שֶׁעָשָׂה נִסִּים
@@ -49,7 +50,8 @@ und uns geboten, das Chanukkahlicht anzuzünden.
 בַּזְּמַן הַזֶּה׃
 </span></div></td>
 
-<td width="53%"><div class="english">
+<td width="53%">
+<div class="german" lang="de">
 Gepriesen seist Du, Ewiger, 
 unser G-tt, König der Welt, 
 der Du Wunder erwiesen unseren Vorfahren in jenen Tagen zu dieser Zeit.
@@ -64,14 +66,15 @@ Am ersten Abend wird hinzugefügt:
 <tbody>
 <tr>
 <td width="46%">
-<div style="text-align: right;" class="liturgy"><span lang="he">
+<div style="text-align: right;" class="liturgy" lang="he">
 בָּרוּךְ אַתָּה יְיָ
 אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם
 שֶׁהֶחֱיָנוּ וְקִיְּמָנוּ
 וְהִגִּיעָנוּ לַזְּמַן הַזֶּה׃
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%">
+<div class="german" lang="de">
 Gepriesen seist Du, Ewiger, 
 unser G-tt, König der Welt, 
 der Du uns hast Leben und Erhaltung gegeben und uns hast diese Zeit erreichen lassen.
@@ -86,7 +89,7 @@ Die Kerzen werden gezündet, wie oben beschrieben. Dann spricht man:
 <tbody>
 <tr>
 <td width="46%">
-<div style="text-align: right;" class="liturgy"><span lang="he">
+<div style="text-align: right;" class="liturgy" lang="he">
 הַנֵּרוֹת הַלָּלוּ
 אָֽנוּ מַדְלִיקִין,‏
 עַל הַנִּסִּים
@@ -110,7 +113,8 @@ Die Kerzen werden gezündet, wie oben beschrieben. Dann spricht man:
 וְעַל נִפְלְאוֹתֶיךָ׃ 
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%">
+<div class="german" lang="de">
 Diese Lichter zünden wir an ob der Wunder, Siege und allmächtigen Taten, welche Du für unsere Vorfahren vollbracht hast durch deine heiligen Priester. Alle acht Chanukkahtage sind diese Lichter geweiht, und ist uns nicht erlaubt, sie zu benutzen, wir dürfen sie nur betrachten, um deinem Namen zu danken für deine Wunder, deine Hilfe und deine allmächtigen Taten.
 <em>HaNerot halalu
 anu madlikin
@@ -132,7 +136,7 @@ elah lirotam bil'wad, kedej le'hodot le'schimchah al nisejchah we'al jeschuatejc
 <tbody>
 <tr>
 <td width="46%">
-<div style="text-align: right;" class="liturgy"><span lang="he">
+<div style="text-align: right;" class="liturgy" lang="he">
 מָעוֹז צוּר יְשׁוּעָתִי
 לְךָ נָאֶה לְשַׁבֵּחַ.‏
 תִּכּוֹן בֵּית תְּפִלָּתִי
@@ -144,7 +148,8 @@ elah lirotam bil'wad, kedej le'hodot le'schimchah al nisejchah we'al jeschuatejc
 חֲנֻכַּת הַמִּזְבֵּחַ׃ 
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%">
+<div class="german" lang="de">
 Zuflucht, meiner Hilfe Hort, Dir gebühret Lobesgesang,
 Gründe des Gebetes-Haus, dass wir Dankesopfer dort bringen.
 Wenn die Strafe Du bereitest jedem wütenden Bedränger,

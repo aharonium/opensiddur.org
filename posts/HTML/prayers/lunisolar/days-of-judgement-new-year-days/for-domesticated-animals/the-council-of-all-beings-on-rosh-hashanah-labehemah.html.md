@@ -9,13 +9,13 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 [caption id="attachment_7440" align="aligncenter" width="1024"]<a href="https://opensiddur.org/wp-content/uploads/2013/07/Free-Spirit-Nature-Camp-Council-of-All-Beings-6-schipygrl.jpg"><img class="size-full wp-image-7440" alt="Free Spirit Nature Camp - Council of All Beings (credit: schipygrl)" src="https://opensiddur.org/wp-content/uploads/2013/07/Free-Spirit-Nature-Camp-Council-of-All-Beings-6-schipygrl.jpg" width="1024" height="768" /></a> <a href="http://www.freespiritnaturecamp.com/">Free Spirit Nature Camp</a> - Council of All Beings (credit: schipygrl)[/caption]
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 For a sourcesheet on Rosh haShanah la-Behemah, find Aharon Varady's compilation of texts, <a href="https://www.sefaria.org/sheets/184964?lang=bi">here</a>.
 </div>
 
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 This year, the first of Elul 5774, Rosh haShanah la-Behemah — the Jewish New Year's Day for Animals, begins the evening of August 26, 2014 and continues through August 27. In ancient Israel, Rosh haShanah la-Behemah affected shepherds and cattle herders: domesticated animals (<em>behemot</em>) born before this date were placed in one group for tithing, and those born after were placed in another group. But in our time, the New Year for the Animals is an opportunity to celebrate all animal life. Especially now that humanity's impact is felt over the whole planet, and the livelihood and survival of wild animals (<em>ḥayot</em>) increasingly depends on our choices, we are responsible for their care, just as Noah became responsible for all the animals in the ark.
 
 This New Year can be a time to examine and correct our relationship with all the creatures that share the world with us, now that every species is in a sense domesticated because its survival is affected by our decisions and actions. The New Year Festival for the Animals in the month of Elul also marks the beginning of our journey toward the Rosh Hashanah of <em>Tishrei</em>, when we blow the shofar and focus on our relationships with each other and with God. Last year, <a href="https://opensiddur.org/prayers/lunisolar/new-years-day/for-domesticated-animals/explanation-and-ritual-for-rosh-hashanah-labehemot-new-years-day-for-animals/">we shared rituals for how to celebrate the day</a> -- for example, by listening for the voices of all the <em>behemot</em>, the domesticated animals that we depend on for our lifestyle and diet, in the sound of the shofar, the horn of a <em>behemah</em>.

@@ -9,7 +9,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 [caption id="attachment_5002" align="aligncenter" width="1024"]<a href="https://opensiddur.org/wp-content/uploads/2011/05/Foster-City-Double-Rainbow-by-Peter-Kaminski-CC-BY-crop.jpg"><img class="size-full wp-image-5002" src="https://opensiddur.org/wp-content/uploads/2011/05/Foster-City-Double-Rainbow-by-Peter-Kaminski-CC-BY-crop.jpg" alt="&quot;Foster City Double Rainbow&quot; by Peter Kaminski (License: CC-BY 2.0). Cropped by Aharon Varady." width="1024" height="495" /></a> "<a href="http://www.flickr.com/photos/peterkaminski/3099630/">Foster City Double Rainbow</a>" by Peter Kaminski (License: CC-BY 2.0). Cropped by Aharon Varady.[/caption]
 
-<div class="english">
+<div class="english" lang="en">
 <strong>DOWNLOAD:</strong> <a href="https://opensiddur.org/wp-content/uploads/2012/05/David-Seidenberg-Rainbow-Day-ideas-texts-projects-v.4.1.1-neohasid.pdf">Rainbow Day -- Ideas, Texts, and Projects</a> (v.4.1.1)
 <a href="https://opensiddur.org/wp-content/uploads/2012/05/David-Seidenberg-Rainbow-covenant-study-sheet-neohasid.pdf">Rainbow Covenenant Study Sheet</a>
 <a href="https://opensiddur.org/wp-content/uploads/2012/05/David-Seidenberg-Genesis-Covenant-Jubilee-and-the-Land-Ethic-neohasid.pdf">Genesis, Covenant, Jubilee and the Land Ethic</a> | <a href="https://opensiddur.org/wp-content/uploads/2012/05/David-Seidenberg-Genesis-Covenant-Jubilee-and-the-Land-Ethic-abridged-neohasid.pdf">abridged</a>

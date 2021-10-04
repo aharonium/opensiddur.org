@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 Traditional hoshanot prayers are said every day of Sukkot, one each day, and then all seven on the last day, called Hoshana Rabbah. Here are some modern Hoshanot, corresponding to the ills and dangers we now face, that can be used in the same way. “<em>Hoshana!</em>” (“Please save!”) can be called out after each exclamation point, or after each phrase. Use the seventh Hoshana below for whichever day is Shabbat. Each day would begin the same way:  <em>Hoshana Eloheinu Hoshana! Hoshana Bor’einu Hoshana! Hoshana Go’aleinu Hoshana! Hoshana Dorsheinu Hoshana!</em> Our God, Our Creator, Our Redeemer, Our Seeker, Please save! 
 
 I was first inspired to write a Hoshana for the planet related to ills we are facing today by the protests against the Dakota access pipeline (DAPL) in 2016. The native American-led protest camp was one of the more extraordinary environmental actions of the decade. The Dakota pipeline protest focused on protecting sacred water as well as sacred land, both important themes of Sukkot.
@@ -23,12 +23,12 @@ You are invited to change, add to, or subtract from this liturgy in any way you 
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute&nbsp;a&nbsp;translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 א. הוֹשַׁעְנָא
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 1. <em>Hoshana!</em> 
 &nbsp;
 Please save the Azure of the Sky, the Brightness of the Heavens, the Clarity of the Firmament! 
@@ -40,12 +40,12 @@ Please save this Living Planet, Suspended in Space!
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ב. הוֹשַׁעְנָא
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 2. <em>Hoshana!</em> 
 &nbsp;
 Please save Oceans from Acidification, Seas from Plastic, Rivers from Sewage! 
@@ -57,12 +57,12 @@ Please save Shores from Hurricanes!
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ג. הוֹשַׁעְנָא
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 3. <em>Hoshana!</em> 
 &nbsp;
 Please save Soil from Erosion, Microbes and Mycelia from Poisons, the Ground from Being Paved Over! 
@@ -73,12 +73,12 @@ Please save Fall Trees from Storm Winds, Crops from Drought, Forests from Clearc
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ד. הוֹשַׁעְנָא
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 4. <em>Hoshana!</em> 
 &nbsp;
 Please save Summer from Scorching, Spring Rivers from Flooding, Islands from Inundation! 
@@ -89,12 +89,12 @@ Please save Clouds from Withholding Rains, Storms from Bringing Deluge, Deserts 
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ה. הוֹשַׁעְנָא
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 5. <em>Hoshana!</em> 
 &nbsp;
 Please save Salmon when they Spawn, Deep Sea Creatures from Oil, Fish from Red Tide! 
@@ -105,12 +105,12 @@ Please save Penguins from Homelessness, Sea Turtles from Sickness, Walruses and 
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ו. הוֹשַׁעְנָא
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 6. <em>Hoshana!</em> 
 &nbsp;
 Please save Bee Hives from Collapsing, Bats from Fungus, Tigers from Extinction! 
@@ -123,12 +123,12 @@ Please save Humans from Our Foolishness, Humility from Arrogance, Love from Hatr
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ז. הוֹשַׁעְנָא
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 7. <em>Hoshana!</em> 
 &nbsp;
 Please save Majesty from the Markets, and Rest from Unceasing Labor! 

@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 The Viddui serves as a final prayer of atonement for a dying person, and a final at-one-ment; the traditional liturgy places the soul of the dying in God’s hands. According to Jewish law, Viddui is said when death seems imminent, and may be spoken by the dying person, their family members, or a rabbi. 
 
 Below is a Viddui written for Jews who are losing a beloved to a plague, and who may not be able to be physically present or close to their loved one.
@@ -19,12 +19,12 @@ Below is a Viddui written for Jews who are losing a beloved to a plague, and who
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">Take a cup of water in your left hand, 
 pour it over your entire right hand, covering up to the wrist.  
 &nbsp;
@@ -37,12 +37,12 @@ And breathe.</span>  
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 God Nowhere and Everywhere,
 God of grounding and water and air,
 God Who still hears the echoes of my ancestors and their prayers:
@@ -51,24 +51,24 @@ Hear mine now.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Hear my heartbreak as my words reach up to You,
 Angry and agonized and afraid. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 See how my arms are empty 
 when all I need is to hold my loved one <span class="instruction">__________(name)</span> 
 in the moments before their death.
@@ -76,24 +76,24 @@ in the moments before their death.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 I am not reconciled to their loss.  
 There is no part of me that rises up to bless You now.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 And still, I know that You are with me:  
 You are the Source; 
 You are the ground and the water and the air; 
@@ -104,12 +104,12 @@ and reminds me that my life, my memories, and my soul are bound up with theirs.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">(name)__________</span> has been my ground and my water and my air.  
 To be sharing none of these with them at this time, as they leave this world, 
 is beyond what I should bear. 
@@ -120,23 +120,23 @@ and loving them up to and through this moment.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Their lives were full.  My heart is full.  And my heart is breaking.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 I know that their life and their death is in Your hands.  
 May they be blessed with life, O God.  
 And if they will die, when they die, 
@@ -145,14 +145,14 @@ shelter them in Your arms and carry them gently into the wideness of All That Is
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 &nbsp;
 שְׁמַ֖<span style="font-size: xx-large;">ע</span> יִשְׂרָאֵ֑ל יְהוָ֥ה אֱלֹהֵ֖ינוּ יְהוָ֥ה ׀ אֶחָֽ<span style="font-size: xx-large;">ד</span>׃ <span class="citation">(דברים ו:ד)</span> 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Hear me now, as I cry out to You:
 &nbsp;
 Shma Yisrael, Adonai Eloheinu, Adonai Eḥad.[foot]Deuteronomy 6:4.[/foot]<span style="font-size: xx-large;">&nbsp;</span>
@@ -162,12 +162,12 @@ God grounds us and carries us and reminds us that we all are One.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <em>Amen</em>.
 </div></td></tr>
 </tbody></table>

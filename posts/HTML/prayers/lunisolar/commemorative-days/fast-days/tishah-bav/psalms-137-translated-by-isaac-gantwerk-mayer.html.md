@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 Psalm 137 is traditionally recited before the Birkat Hamazon (the Blessing [after eating] the Meal) on a weekday. Psalms 137 (with Psalms 138:1) is read on the day of the Fast of Tisha b'Av. 
 
 The psalm is included in Isaac Mayer's Psalms for Fast Days according to his order for yearly psalms and cantillation systems for Psalms and Job. Several parts, marked in blue, are meant to be read in <a href="https://opensiddur.org/readings-and-sourcetexts/cantillation/an-ashkenazi-style-cantillation-system-for-job-by-isaac-gantwerk-mayer/">Job cantillation</a>, inspired by the system of switching to Lamentations cantillation during the Shabbat Ḥazon haftarah (Isaiah 1:1-27).
@@ -19,29 +19,29 @@ Note: “The CAUSE” is used to translate the Divine Name YHVH, based on the ph
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="instruction">הַיּוֹם יוֹם צוֹם תִּשְׁעָה בְּאָב הוּא צוֹם הַחֲמִישִׁי וּבוֹ יֵשׁ אוֹמְרִים׃</span>
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">Today is the fast day of the 9th of Av, the fast of the fifth month, and on it some say:</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 תהלים קלז
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Psalms 137
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he" style="color:blue;">
+<div class="liturgy" lang="he"><span style="color:blue;">
 עַ֥ל נַהֲר֨וֹת ׀ בָּבֶ֗ל
 שָׁ֣ם יָ֭שַׁבְנוּ גַּם־בָּכִ֑ינוּ 
 בְּ֝זׇכְרֵ֗נוּ
@@ -49,7 +49,7 @@ Psalms 137
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 By the rivers of Babylon,
 there we sat and also wept,
 as we remembered
@@ -58,7 +58,7 @@ Zion.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he" style="color:blue;">
+<div class="liturgy" lang="he"><span style="color:blue;">
 עַֽל־עֲרָבִ֥ים בְּתוֹכָ֑הּ
 תָּ֝לִ֗ינוּ כִּנֹּרוֹתֵֽינוּ׃
 כִּ֤י שָׁ֨ם שְֽׁאֵל֢וּנוּ שׁוֹבֵ֡ינוּ דִּבְרֵי־שִׁ֭יר
@@ -70,7 +70,7 @@ Zion.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Upon the willows there
 we hung up our lyres.
 For there our captors asked us for lyrics,
@@ -83,7 +83,7 @@ on outsiders' soil?
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he" style="color:blue;">
+<div class="liturgy" lang="he"><span style="color:blue;">
 אִֽם־אֶשְׁכָּחֵ֥ךְ יְֽרוּשָׁלָ֗&#x200d;ִם
 תִּשְׁכַּ֥ח יְמִינִֽי׃
 תִּדְבַּֽק־לְשׁוֹנִ֨י ׀ לְחִכִּי֮
@@ -93,7 +93,7 @@ on outsiders' soil?
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 If I forget you, Jerusalem,
 let my right hand forget.
 Let my tongue stick to my palate
@@ -104,7 +104,7 @@ over the height of my joy.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he" style="color:blue;">
+<div class="liturgy" lang="he"><span style="color:blue;">
 זְכֹ֤ר יְהֹוָ֨ה ׀ לִבְנֵ֬י אֱד֗וֹם
 אֵת֮ י֤וֹם יְֽרוּשָׁ֫לָ֥&#x200d;ִם 
 הָ֭אֹ֣מְרִים עָ֤רוּ ׀ עָ֑רוּ
@@ -119,7 +119,7 @@ over the height of my joy.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Remember, o CAUSE, the Edomites,
 that day — Jerusalem! —
 they said, "Strip her, strip her,
@@ -135,25 +135,25 @@ against the rocks!
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 קלח א
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Psalms 138:1
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לְדָוִ֨ד ׀ 
 אוֹדְךָ֥ בְכׇל־לִבִּ֑י
 נֶ֖גֶד אֱלֹהִ֣ים אֲזַמְּרֶֽךָּ׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 David's.
 I thank You with all my heart,
 by God I sing to You.

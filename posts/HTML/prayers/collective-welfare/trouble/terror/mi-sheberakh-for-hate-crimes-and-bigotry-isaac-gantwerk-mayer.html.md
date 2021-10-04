@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 מִי שֶׁבֵּֽרַךְ אֲבוֹתֵֽינוּ אַבְרָהָם יִצְחָק וְיַעֲקֹב, 
 וּמִי שֶׁפָּקַד אִמּוֹתֵֽינוּ שָׂרָה רִבְקָה רָחֵל וְלֵאָה, 
 הוּא יְבָרֵךְ וְיִפְקֹד אֶת כׇּל בְּנֵי נֹחַ – בְּנֵי שֵׁם, וּבְנֵי חָם, וְגַּם בְּנֵי יֶפֶת – 
@@ -21,7 +21,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 וּמִעֲלִילוֹת תּוֹקְפָנוּת מִי שֶׁגְּדוֹלוֹת וְעַד מִי שֶׁקְּטַנּוֹת. 
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 May the one who blessed our forefathers Abraham, Isaac, and Jacob, 
 and who remembered our foremothers Sarah, Rebeka, Rachel, and Leah, 
 bless all the sons of Noah – of Shem, of Ham, and also of Japheth – 
@@ -33,7 +33,7 @@ and from deeds of aggression from great to small.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 גּוֹאֲלֵֽינוּ, 
 פְּקַח אֶת עֵינֵי כׇל אֲנָשִׁים 
 שֶׁלֹּא מְבִינִים שֶׁאַתָּה שָׁלוֹם וְשִׁמְךָ שָׁלוֹם 
@@ -41,7 +41,7 @@ and from deeds of aggression from great to small.
 וְגָּם לֶאֱהֹב אֶת הַבְּרִיּוֹת הָחֲבֵרוֹת הַמִּצְטוֹפְפוֹת בָּעוֹלָם הַקָּטָן הַזֶּה. 
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 O Redeemer, 
 open the eyes of all people 
 who do not understand that You are peace and Your Name is peace, 
@@ -51,7 +51,7 @@ and also to love the fellow creatures crowded on this little world.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מְקוֹר הַשָּׁלוֹם, 
 יְהִי שָׁלוֹם וְשַׁלְוָה וְהַשְׁקֵט וָבֶֽטַח 
 עָל יְרוּשָׁלַֽיִם עִיר קׇדְשֶֽׁךָ, 
@@ -67,7 +67,7 @@ and also to love the fellow creatures crowded on this little world.
 וְאִמְרוּ אָמֵן.
 </span></div></td>
  
-<td width="53%"><div class="english">
+<td width="53%"><div class="english" lang="en">
 O Source of peace, 
 may there be peace and prosperity and tranquility and serenity 
 over Jerusalem Your Holy City, 

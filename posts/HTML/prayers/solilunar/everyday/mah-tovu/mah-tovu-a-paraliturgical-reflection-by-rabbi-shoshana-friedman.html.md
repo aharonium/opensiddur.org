@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Paraliturgical Reflection (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מַה־טֹּבֽוּ אֹהָלֶֽיךָ יַעֲקֹב, 
 מִשְׁכְּנֹתֶֽיךָ, יִשְׂרָאֵל׃ <span class="citation">(במדבר כד:ה)</span>
 וַֽאֲנִי, בְּרֹב חַסְדְּךָ, אָבֹא בֵיתֶֽךָ, 
@@ -21,7 +21,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 How good is this place I am right now.
 Even though I wrestle with its goodness, I affirm it nonetheless.[foot]cf. Numbers 24:5.[/foot]
 I enter this place with abundant loving-kindness.
@@ -32,7 +32,7 @@ No matter who I am, or how I am feeling, I trust I am welcomed here.[foot]cf. Ps
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וַֽאֲנִי אֶשְׁתַּחֲוֶה וְאֶכְרָֽעָה, 
 &nbsp;
 אֶבְרְכָה לִפְנֵי־יְהֹוָה
@@ -45,7 +45,7 @@ No matter who I am, or how I am feeling, I trust I am welcomed here.[foot]cf. Ps
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 I bow, I bend, I kneel to honor my own nature
 As an Earthling, a formed being, yet made of Spirit.
 Let my presence here be my prayer,

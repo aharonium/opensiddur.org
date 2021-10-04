@@ -11,12 +11,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;"><a href="/contribute/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 O Lord, Creator of all beginnings: 
 We thank You for the opportunity of starting anew. 
 Today those whom we have chosen to lead our country — 
@@ -30,12 +30,12 @@ and the health and vigor to persist in it.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 O Lord, source of all peace: 
 We ask You with all our hearts 
 that we be granted peace, 
@@ -54,19 +54,19 @@ our greatest privilege is that we are brothers of each other.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 On this historic occasion 
 we praise You in ancient words of blessing:
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בּרוך אתּה
 יי אלהינו
 מלך העולם
@@ -76,7 +76,7 @@ we praise You in ancient words of blessing:
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Blessed are You, 
 O Lord our God, 
 King of the Universe,

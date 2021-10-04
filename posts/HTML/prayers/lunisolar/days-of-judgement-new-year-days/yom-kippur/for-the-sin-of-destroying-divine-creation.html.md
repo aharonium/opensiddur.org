@@ -12,27 +12,27 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr>
 <td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֱלֹהֵי עוֹלָם, אָתַּה בָּרָאתָּ בְּמִידַת הָרַחֲמִים אֶרֶץ וְשָׁמַיִם
      וְנַפָחְתָּ נִשְׁמַת חַיִים בִּבְהֵמוֹת וְחַיוֹת וּבְנֵי אָדָם.‏
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Eternal God, You created earth and heavens with mercy, 
     and blew the breath of life into animals and human beings.
 </td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
      נִבְרַאנוּ בְּקֶרֶב עוֹלָם הַשְׁלֵמוּת,‏
      עוֹלָם שֶׁנִקְרָא טּוֹב מְאֹד, טָהוֹר וְנָאֶה,‏
           וְעָתָּה בְּיָדֵינוּ הָמוֹן מַעֲשֶׂיךָ יִמָּחוּ מִסֵּפֶר חַיִּים.‏
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 We were created amidst a world of wholeness,
     a world called “very good,”[foot]Gen 1:31.[/foot] pure and beautiful,
     but now your many works are being erased by us from the book of life.
@@ -40,20 +40,20 @@ We were created amidst a world of wholeness,
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לֹא עַל צִדְקוֹתֵינוּ אֲנַחְנוּ מַפִּילִים תַּחֲנוּנֵינוּ לְפָנֶיךָ ה׳ אֶלֹהֵינוּ,‏
      כִּי אָשַׁמְנוּ, הִשְׁחַתְּנוּ, הָרָסְנוּ.‏
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Not by our righteousness do we make our pleas before You, Adonai our God,
     for we have sinned, ruined, destroyed.
 </td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּבְכֵן יְהִי רָצוֹן מִלְפָנֶיךָ שֶׁתִּכְבֹּשׁ עַלֵינוּ וּתְּכָפֵּר לָנוּ
      עַל חֵטְּא שֶׁמִלְאֵנוּ אֶרֶץ וְיָמִּים בְּזֶבֶל וְתַּרְעֵלָה וְאַֽשְׁפֹּת,‏
      וְעַל חֵטְּא שֶהִשְׁמָּדְנוּ לַנֶצַח בְּרִיוֹת נִפְלָאוֹת 
@@ -64,7 +64,7 @@ Not by our righteousness do we make our pleas before You, Adonai our God,
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May it be Your will that You help us overcome and make atonement:
     For the wrong of filling land and ocean with filth, toxins and garbage;
     And for extinguishing forever wondrous species
@@ -76,52 +76,52 @@ May it be Your will that You help us overcome and make atonement:
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 פְּקַח עֵינֵינוּ וְנִרְאֶה אֶת הוֹד יְצִירָתֶךָ, וּנְשָׁבֵּחֲךָ
      כְּמוֹ שֶׁכָּתוּב: מָֽה־רַבּוּ מַעֲשֶׂיךָ יהוה
      כֻּלָּם בְּחָכְמָה עָשִׂיתָ מָלְאָה הָאָרֶץ קִנְיָנֶךָ.‏
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Open our eyes to see the majesty of Your creation, and we will praise You,
     as it is written: “How manifold are Your works, Adonai! 
     You made them all with wisdom; the earth is filled with what you hold.”[foot]Ps. 104:24.[/foot]
 </td></tr>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָנָא ה׳ הַגֵן עַל כֻּלָּם, בְּצֵל כְּנָפֶיךָ יֶחֱסָיוּן,‏
      חַדֵּשׁ נָא פְּנֵי אֲדָמָה, הוֹשַׁע נָא רִקְמָה וְקוֹמָה.‏
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Please Adonai, protect them all, in the shade of your wings give them refuge.[foot]Ps. 36:8.[/foot]
     Renew the face of the earth, please, save the weave and fullness of life.[foot]From אדם ובהימה, the sixth hakafah of Hoshana Rabbah: "הושענא דמות וצלם ורקמה...הושענא זיו ותאר וקומה, הושענא חדוש פני האדמה..." .[/foot]
 </td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָנָא ה׳ הַסֵּר אֶת לֵב הָאֶבֶן מִבְּשָׂרֵנוּ,‏
      וְתֵן לֵב בָּשָׂר בְּקִרְבֵּנוּ, וְנֶחֱזֶה אֱלוֹהַּ מִבְּשָׂרֵנוּ.‏
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Please Adonai, remove the heart of stone from our flesh, 
     and set within us a heart of flesh,[foot]Ezek. 36:26.[/foot] that we may behold the Godly there.[foot]Job 19:26.[/foot]
 </td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 תֵן לָנוּ חָכְמָה וְאוֹמֵץ לֵב לִרְפֹּא וְלִשְׂמוֹר עַל גַן הַחַיִים
 לְהַצְמִיחוֹ מִתָּחַת הַשָׁמַיִם.‏
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Grant us wisdom and courage to heal and watch over this garden of life,
     to make it thrive under the heavens.
 </td></tr></tbody></table>

@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: right;">Translation (Yiddish)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֶחָד מִי יוֹדֵעַ
 אֶחָד אֲנִי יוֹדֵעַ.
 אֶחָד אֱלֹהֵינוּ 
@@ -20,7 +20,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </td>
 
 <td style="vertical-align:top;">
-<div class="yiddish"><span lang="he">
+<div class="yiddish" lang="yi">
 איינש דז איז אביר מער, 
 אונ׳ זעלביג װייז איך. 
 איינר דער איזט אונזר גאט 
@@ -30,7 +30,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Who knows one? 
 I know one! 
 One is our <em>elo'ah</em> 
@@ -39,7 +39,7 @@ in the Heavens and the Earth.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שְׁנַיִם מִי יוֹדֵעַ.
 שְׁנַיִם אֲנִי יוֹדֵעַ.
 שְׁנֵי לֻחוֹת הַבְּרִית.
@@ -49,7 +49,7 @@ in the Heavens and the Earth.
 </td>
 
 <td style="vertical-align:top;">
-<div class="yiddish"><span lang="he">
+<div class="yiddish" lang="yi">
 צװײא דו איוט אבר מער
 אונ׳ זעלביג װײש איך 
 צװײ טאביל מאזיש
@@ -60,7 +60,7 @@ in the Heavens and the Earth.
 </td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Who knows two? 
 I know two! 
 Two are the stelae of the covenant, 
@@ -70,7 +70,7 @@ in the Heavens and the Earth.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שְׁלֹשָׁה מִי יוֹדֵעַ.
 שְׁלֹשָׁה אֲנִי יוֹדֵעַ.
 שְׁלֹשָׁה אָבוֹת.
@@ -81,7 +81,7 @@ in the Heavens and the Earth.
 </td>
 
 <td style="vertical-align:top;">
-<div class="yiddish"><span lang="he">
+<div class="yiddish" lang="yi">
 דרײא דו איוט אבר מער 
 אונ׳ זעלביג װײש איך 
 דרײא זײן דיא פעטיר 
@@ -93,7 +93,7 @@ in the Heavens and the Earth.
 </td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Who knows three? 
 I know three! 
 Three are the forefathers, 
@@ -104,7 +104,7 @@ in the Heavens and the Earth.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אַרְבַּע מִי יוֹדֵעַ.
 אַרְבַּע אֲנִי יוֹדֵעַ.
 אַרְבַּע אִמָּהוֹת.
@@ -116,7 +116,7 @@ in the Heavens and the Earth.
 </td>
 
 <td style="vertical-align:top;">
-<div class="yiddish"><span lang="he">
+<div class="yiddish" lang="yi">
 פֿיר דו איוט אבר מער 
 אונ׳ זעלביג װײש איך 
 פֿיר זײן דיא מיטר 
@@ -129,7 +129,7 @@ in the Heavens and the Earth.
 </td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Who knows four? 
 I know four! 
 Four are the foremothers, 
@@ -141,7 +141,7 @@ in the Heavens and the Earth.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 חֲמִשָּׁה מִי יוֹדֵעַ.
 חֲמִשָּׁה אֲנִי יוֹדֵעַ.
 חֲמִשָּׁה חֻמְשֵׁי תוֹרָה.
@@ -154,7 +154,7 @@ in the Heavens and the Earth.
 </td>
 
 <td style="vertical-align:top;">
-<div class="yiddish"><span lang="he">
+<div class="yiddish" lang="yi">
 פֿינף דו איוט אבר מער 
 אונ׳ זעלביג װײש איך 
 פֿינף זײן דיא ביכר 
@@ -168,7 +168,7 @@ in the Heavens and the Earth.
 </td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Who knows five? 
 I know five! 
 Five are the books of the Torah, 
@@ -181,7 +181,7 @@ in the Heavens and the Earth.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שִׁשָּׁה מִי יוֹדֵעַ.
 שִׁשָּׁה אֲנִי יוֹדֵעַ.
 שִׁשָּׁה סִדְרֵי מִשְׁנָה.
@@ -195,7 +195,7 @@ in the Heavens and the Earth.
 </td>
 
 <td style="vertical-align:top;">
-<div class="yiddish"><span lang="he">
+<div class="yiddish" lang="yi">
 זעקש דו איוט אבר מער 
 אונ׳ זעלביג װײש איך 
 זעקש זײן דיא לערנונג 
@@ -210,7 +210,7 @@ in the Heavens and the Earth.
 </td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Who knows six? 
 I know six! 
 Six are the orders of the Mishnah,
@@ -224,7 +224,7 @@ in the Heavens and the Earth.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שִׁבְעָה מִי יוֹדֵעַ.
 שִׁבְעָה אֲנִי יוֹדֵעַ.
 שִׁבְעָה יְמֵי שַׁבְּתָא.
@@ -239,7 +239,7 @@ in the Heavens and the Earth.
 </td>
 
 <td style="vertical-align:top;">
-<div class="yiddish"><span lang="he">
+<div class="yiddish" lang="yi">
 זיבן דו איוט אבר מער 
 אונ׳ זעלביג װײש איך 
 זיבן זײן דיא פֿײארונג 
@@ -255,7 +255,7 @@ in the Heavens and the Earth.
 </td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Who knows seven? 
 I know seven! 
 Seven are the days of the week, 
@@ -270,7 +270,7 @@ in the Heavens and the Earth.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שְׁמוֹנָה מִי יוֹדֵעַ.
 שְׁמוֹנָה אֲנִי יוֹדֵעַ.
 שְׁמוֹנָה יְמֵי מִילָה.
@@ -286,7 +286,7 @@ in the Heavens and the Earth.
 </td>
 
 <td style="vertical-align:top;">
-<div class="yiddish"><span lang="he">
+<div class="yiddish" lang="yi">
 אכט דו איוט אבר מער 
 אונ׳ זעלביג װײש איך 
 אכט זײן דיא בנשנײטונג 
@@ -303,7 +303,7 @@ in the Heavens and the Earth.
 </td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Who knows eight? 
 I know eight! 
 Eight are the days until circumcision, 
@@ -319,7 +319,7 @@ in the Heavens and the Earth.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 תִּשְׁעָה מִי יוֹדֵעַ.
 תִּשְׁעָה אֲנִי יוֹדֵעַ.
 תִּשְׁעָה יַרְחֵי לֵידָה.
@@ -336,7 +336,7 @@ in the Heavens and the Earth.
 </td>
 
 <td style="vertical-align:top;">
-<div class="yiddish"><span lang="he">
+<div class="yiddish" lang="yi">
 ניין דו איוט אביר מער 
 אונ׳ זעלביג װײש איך 
 ניין זײן דיא גװינונג
@@ -354,7 +354,7 @@ in the Heavens and the Earth.
 </td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Who knows nine? 
 I know nine! 
 Nine are the months of pregnancy, 
@@ -371,7 +371,7 @@ in the Heavens and the Earth.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עֲשָׂרָה מִי יוֹדֵעַ.
 עֲשָׂרָה אֲנִי יוֹדֵעַ.
 עֲשָׂרָה דִבְּרַיָּא.
@@ -389,7 +389,7 @@ in the Heavens and the Earth.
 </td>
 
 <td style="vertical-align:top;">
-<div class="yiddish"><span lang="he">
+<div class="yiddish" lang="yi">
 צעהין דו איוט אביר מער 
 אונ׳ זעלביג װײש איך 
 צעהן זײן דיא צעהין גיבאט
@@ -408,7 +408,7 @@ in the Heavens and the Earth.
 </td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Who knows ten? 
 I know ten! 
 Ten are the commandments, 
@@ -426,7 +426,7 @@ in the Heavens and the Earth.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אַחַד עָשָׂר מִי יוֹדֵעַ.
 אַחַד עָשָׂר אֲנִי יוֹדֵעַ.
 אַחַד עָשָׂר כּוֹכְבַיָּא.
@@ -445,7 +445,7 @@ in the Heavens and the Earth.
 </td>
 
 <td style="vertical-align:top;">
-<div class="yiddish"><span lang="he">
+<div class="yiddish" lang="yi">
 אײלף דו איוט אביר מער 
 אונ׳ דו זעלביג װײש איך
 אײלף זײן דיא שטערין
@@ -465,7 +465,7 @@ in the Heavens and the Earth.
 </td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Who knows eleven? 
 I know eleven! 
 Eleven are the stars [in Yosef's dream], 
@@ -484,7 +484,7 @@ in the Heavens and the Earth.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שְׁנֵים עָשָׂר מִי יוֹדֵעַ.
 שְׁנֵים עָשָׂר אֲנִי יוֹדֵעַ.
 שְׁנֵים עָשָׂר שִׁבְטַיָּא.
@@ -504,7 +504,7 @@ in the Heavens and the Earth.
 </td>
 
 <td style="vertical-align:top;">
-<div class="yiddish"><span lang="he">
+<div class="yiddish" lang="yi">
 צװעלף דו איוט אביר מער 
 אונ׳ דו זעלביג װײש איך
 צװעלף זײן דיא גישלעכע
@@ -525,7 +525,7 @@ in the Heavens and the Earth.
 </td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Who knows twelve? 
 I know twelve! 
 Twelve are the tribes [of Yisrael], 
@@ -545,7 +545,7 @@ in the Heavens and the Earth.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שְׁלֹשָׁה עָשָׂר מִי יוֹדֵעַ.
 שְׁלֹשָׁה עָשָׂר אֲנִי יוֹדֵעַ.
 שְׁלֹשָׁה עָשָׂר מִדַּיָּא.
@@ -566,7 +566,7 @@ in the Heavens and the Earth.
 </td>
 
 <td style="vertical-align:top;">
-<div class="yiddish"><span lang="he">
+<div class="yiddish" lang="yi">
 דרײאצעהין איוט אביר מער 
 אונ׳ זעלביג װײש איך 
 דרײאצעהן זײן דיא גיטן
@@ -588,7 +588,7 @@ in the Heavens and the Earth.
 </td>
 
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Who knows thirteen? 
 I know thirteen! 
 Thirteen are the attributes [of divine mercy], 

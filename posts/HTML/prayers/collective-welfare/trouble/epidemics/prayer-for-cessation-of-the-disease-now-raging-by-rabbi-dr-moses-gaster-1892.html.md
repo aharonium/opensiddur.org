@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֵל מֶלֶךְ רַחוּם וְחַנּוּן, 
 אֲשֶׁר בְּיָדְךָ נֶפֶשׁ כׇּל חָי 
 וְרוּחַ כׇּל בְּשַׂר אִישׁ, 
@@ -29,7 +29,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Merciful and Gracious El, 
 in whose hands is the soul of every living thing, 
 and the spirit of all flesh; 
@@ -48,7 +48,7 @@ every heart is faint.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֲהָהּ אֱלֹהִים! 
 שׁוּב מֵהֲרוֹן אַפֶּיךָ 
 וֶאֱמוֹר לְמַלְאָךְ הַמַּשְׁחִית 
@@ -56,7 +56,7 @@ every heart is faint.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 O Elohim, 
 turn from Thy fierce wrath, 
 and say unto the angel that destroys: 
@@ -66,7 +66,7 @@ It is enough, now stay thine hand.[foot]2 Samuel 24:16.[/foot]
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רְפָאֵנוּ ה׳ וְנֵרָפֵא 
 הוֹשִׁיעֵנוּ וְנִוָּשֵׁעַ, 
 הַעֲלֵה רְפוּאָה לְתַחֲלוּאֵינוּ 
@@ -81,7 +81,7 @@ It is enough, now stay thine hand.[foot]2 Samuel 24:16.[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Heal us, O YHVH, and we shall be healed: 
 save us and we shall be saved.[foot]From the blessing in the Amidah for healing.[/foot]&nbsp;
 Vouchsafe healing to our pains, 

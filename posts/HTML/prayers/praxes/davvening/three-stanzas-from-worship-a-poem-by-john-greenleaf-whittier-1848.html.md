@@ -11,23 +11,23 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;"><a href="https://opensiddur.org/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <u>The Peace of Pity</u>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 O brother man, fold to thy heart thy brother! 
 Where pity dwells, the joy of peace is there;[foot]Original poem reads, "the peace of God is there." Peebles' <em>Spiritual Harmonies</em> (1880) has "a heavenly peace is there." Later wording in Ethical Society hymnals have "the soul of good is there."[/foot] 
 To worship rightly is to love each other, 
@@ -36,12 +36,12 @@ Each smile a hymn, each kindly deed a prayer.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Follow with reverent steps the great example 
 Of those whose holy work was "doing good"; 
 So shall the wide earth seem a human temple;[foot]Original poem reads, "our Father’s temple."[/foot] 
@@ -50,12 +50,12 @@ Each loving life a psalm of gratitude.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Then shall all shackles fall; the stormy clangour 
 Of wild war-music o’er the earth shall cease; 
 Love shall tread out the baleful fire of anger, 

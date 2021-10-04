@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַ֥לְלוּ יָ֨הּ ׀ 
 שִׁ֣ירוּ לַֽ֭יהוָה שִׁ֣יר חָדָ֑שׁ 
 תְּ֝הִלָּת֗וֹ 
@@ -38,7 +38,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <strong>Hallelu-Yah!</strong>
 Sing a brand new song to Yah. 
 This, is how he is celebrated 
@@ -66,25 +66,25 @@ And arrest their agitators.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לַעֲשׂ֤וֹת בָּהֶ֨ם ׀ 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Rebuke them, as they deserve! 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִשְׁפָּ֬ט כָּת֗וּב הָדָ֣ר ה֭וּא 
 לְכָל־חֲסִידָ֗יו 
 הַֽלְלוּ־יָֽהּ׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 All this, because God’s Ḥassidim
 Gives honor to him in splendor.
 <strong>Hallelu-Yah!</strong>

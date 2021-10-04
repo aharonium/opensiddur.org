@@ -13,7 +13,7 @@ Note: “The CAUSE” is used to translate the Divine Name YHVH, based on the ph
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ‫<span class="acrostic">אֲ</span>בָרֵךְ לְמַלְכִּי‬
 ‫‫<span class="acrostic">בְּ</span>נֹעַם חִכִּי‬
 ‫‫<span class="acrostic">גּ</span>וֹי קָדוֹשׁ הַמְלִיכִי‬
@@ -32,7 +32,7 @@ Note: “The CAUSE” is used to translate the Divine Name YHVH, based on the ph
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 ‬‫I will bless my Sovereign‬ <span class="acrostic">&nbsp;</span>
 With the sweetness of my palate‬‬ <span class="acrostic">&nbsp;</span>
 Holy nation, acknowledge as sovereign‬‪!‬‬ <span class="acrostic">&nbsp;</span>
@@ -52,7 +52,7 @@ and satiate all life as willed."[foot]Psalm 145:16.[/foot]
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ‫‫<span class="acrostic">ט</span>וֹבִים אֳמָרֶיךָ וּבָם ‬‪נִתְעַלְּסָה‬
 ‫<span class="acrostic">‫יָ</span>הּ מִמָּרוֹם עָלֵינוּ חוּסָה‬
 ‫<span class="acrostic">‫כְּ</span>פָצִיתָ בַּסִּינַי לֹא תִּשָּׂא‬
@@ -71,7 +71,7 @@ and satiate all life as willed."[foot]Psalm 145:16.[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Good are Your sayings and in them we will have pleasure.‬‬ <span class="acrostic">&nbsp;</span>
 O SOURCE on High, have mercy on us!‬‬ <span class="acrostic">&nbsp;</span>
 Just as You proclaimed on Sinai, "Do not take‬ <span class="acrostic">&nbsp;</span>
@@ -91,7 +91,7 @@ for the good land given you."[foot]Deuteronomy 8:10.[/foot]
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ‫<span class="acrostic">‫פֹּ</span>עַל בִּדְמוּת לֹא תִּרְצָח‬
 ‫‫<span class="acrostic">צִ</span>וָּה וְהִזְהִיר דּוֹדִי צַח‬
 ‫‫<span class="acrostic">קָ</span>צַף מִמְּךָ הִרְחִיק וְאַף‬
@@ -113,7 +113,7 @@ for the good land given you."[foot]Deuteronomy 8:10.[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 A deed in the form of "You shall not murder"‬‬ <span class="acrostic">&nbsp;</span>
 Commanded and clarified my ruddy beloved‬‬ <span class="acrostic">&nbsp;</span>
 Enraged at us, withdrawing and angry,‬ <span class="acrostic">&nbsp;</span>

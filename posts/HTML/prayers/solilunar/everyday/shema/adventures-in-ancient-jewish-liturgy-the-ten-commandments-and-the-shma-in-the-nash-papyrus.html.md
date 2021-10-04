@@ -11,154 +11,154 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 [... אנכי י]הוה אלהיך אשר [הוצא]תיך מארץ מ[צרים]
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 [I am Y]HVH your <em>elo'ah</em> that [brought] you out of the land of M[istrayim:]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 [לוא יהיה ל]ך אלהים אחרים [על פ]ני לוא תעשה [לך פסל] [וכל תמונה] אשר בשמים ממעל ואשר בארץ [מתחת] [ואשר במי]ם מתחת לארץ לוא תשתחוה להם [ולוא] [תעבדם כי] אנכי יהוה אלהיך אל קנוא פק[ד עון] [אבות על בני]ם על שלשים ועל רבעים לשנאי[ועשה] [חסד לאלפים] לאהבי ולשמרי מצותי 
 </span></div></td>
  
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 [You shall not hav]e other <em>elohim</em> be[fore] me. You shall not make [for yourself an image] [or any form] that is in the heavens above, or that is in the earth [beneath,] [or that is in the water]s beneath the earth. You shall not bow down to them [nor] [serve them, for] I am YHVH your <em>elo'ah</em>, a jealous <em>el</em> visi[ting the iniquity] [of fathers upon son]s to the third and to the fourth generation unto them that hate me, [and doing] [kindness unto thousands] unto them that love me and keep my commandments. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לוא ת[שא את] [שם יהוה א]להיך לשוא כי לוא ינקה יהוה [את אשר] [ישא את ש]מה לשוא 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 You shall [not] [take up the name of YHVH] your <em>elo'ah</em> in vain, for YHVH will not hold guiltless [him that] [take up his n]ame in vain. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 זכור את יום השבת [לקדשו] [ששת ימי]ם תעבוד ועשית כל מלאכתך וביום [השביעי] [שבת ליהוה] אלהיך לוא תעשה בה כל מלאכה [אתה] [ובנך ובתך] עבדך ואמתך שורך וחמרך וכל ב[המתך] [וגרך אשר] בשעריך כי ששת ימים עשה י[הוה] [את השמי]ם ואת הארץ את הים ואת כל א[שר בם] וינח [ביום] השביעי עלכן ברך יהוה את [יום] השביעי ויקדשיו 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Remember the day of the Shabbat [to hallow it:] [six day]s You shall work and do all your handicraft, and on the [seventh day,] [a Shabbat for YHVH] your <em>elo'ah</em>, You shall not do therein any handicraft, [You] [and your son and your daughter,] your slave and your handmaid, your ox and your donkey and all your [domesticated animals,] [and your stranger that is] in your gates. For six days did Y[HVH make] [the heaven]s and the earth, the sea and all th[at is therein,] and he rested [on the] seventh day; therefore YHVH blessed [the] seventh day and hallowed it. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כבד את אביך ואת אמ[ך למען] ייטב לך ולמען יאריכון ימיך על האדמה [אשר] יהוה אלהיך נתן לך
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Honor your father and your mothe[r, that] it may be well with you and that your days may be long upon the ground [that] YHVH your <em>elo'ah</em> gives you. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לוא תאנף 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 You shall not do adultery. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לוא תרצח 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 You shall not do murder. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לו[א] [תג]נב 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 You shall [not] [st]eal. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לוא ת[ע]נה ברעך עד שוא 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 You shall not [bear] against your neighbor false witness. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לוא תחמוד [את] [אשת רעך]
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 You shall not covet [the] [wife of your neighbor.] 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 [ל]וא תת[א]וה את ב[י]ת רעך שד[הו ועבדו] [ואמתו וש]ורו וחמרו וכל אשר לרעך [blank]
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 [You shall] not desire the house of your neighbor, his fiel[d, or his slave,] [or his handmaid, or his o]x, or his donkey, or anything that is your neighbor's. [blank]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 [ואלה החק]ים והמשפטים אשר צוה משה את [בני] [ישראל] במדבר בצאתם מארץ מצרים 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 [(?) And these are the statute]s and the judgments that Moshe commanded the [children of] [Yisrael] in the wilderness, when they went forth from the land of Egypt. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שמ[ע] [ישרא]ל יהוה אלהינו יהוה אחד הוא 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Hea[r] [Yisra]el: YHVH our <em>elo'ah</em>, YHVH is inimitable; 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וא[הבת] [את יהוה א]ל[היך בכ]ל ל[בבך. . . . ]
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 and You shall lo[ve] [YHVH your <em>el</em>]<em>o</em>[<em>ah</em> with al]l y[our heart ... . ].
 </div></td></tr>
 </tbody></table>
@@ -173,12 +173,12 @@ Once upon a time, according to the Mishnah, it was the <em>nusaḥ</em> (liturgi
 <tbody>
 <tr>
 <td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מתני׳ אמר להם הממונה ברכו ברכה אחת והם ברכו קראו עשרת הדברות שמע והיה אם שמוע ויאמר ברכו את העם שלש ברכות אמת ויציב ועבודה וברכת כהנים ובשבת מוסיפין ברכה אחת למשמר היוצא:‏
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 The appointed one (i.e., the deputy high priest) said to them (the priests), pronounce one blessing, and they did so. <strong>And they then recited the Ten Commandments, and the Shema</strong> (‘And it shall come to pass if you diligently follow’, and ‘And YHVH said’) and recited with the people three blessings (‘True and firm’, the blessing of the ‘Avodah, and the Priestly Blessing) [in the <a href="http://en.wikipedia.org/wiki/Amidah">Amidah</a>]. On Shabbat they said an additional blessing for the outgoing watch.</td>
 </div></tr>
 </tbody></table>
@@ -189,11 +189,11 @@ So, why don't we read the Ten Commandments during the <em>Shaḥarit</em> (morni
 <tbody>
 <tr>
 <td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 א״ר יהודה אמר שמואל אף בגבולין בקשו לקרות כן אלא שכבר בטלום מפני תרעומת המינין תניא נמי הכי ר׳ נתן אומר בגבולין בקשו לקרות כן אלא שכבר בטלום מפני תרעומת המינין רבה בב״ח סבר למקבעינהו בסורא א״ל רב חסדא כבר בטלום מפני תרעומת המינין אמימר סבר למקבעינהו בנהרדעא א״ל רב אשי כבר בטלום מפני תרעומת המינין:‏
 </span></div></td>
  
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Rabi Yehudah[foot]<a href="http://en.wikipedia.org/wiki/Judah_ben_Ilai">Rabi Yehuda ben Ilai</a>, a third generation Tanna of the 2nd Century C.E.[/foot] said in the name of Shmuel[foot]<a href="http://en.wikipedia.org/wiki/Shmuel_Hakatan">Shmuel haKatan</a>, a second generation Tanna from the 1st century C.E. At the behest of Rabi Gamliel II of Yavneh, he wrote the Birkat HaMinim, by tradition the 19th and final blessing composed for the Amidah (also known as the <em>Shmonah Esrei</em>, the 18 [blessings]). Less a blessing than a curse, Shmuel attempted to end the blessing but it proved resilient and remains part of the liturgy of the Amidah today.[/foot]: Outside the Temple people also wanted to do the same (i.e. say the Ten Commandments before the Sh'ma) but they were stopped on account of the insinuations of the <em>Minim</em>[foot]A category of <a href="http://en.wikipedia.org/wiki/Minuth">heretic</a> in Jewish law[/foot] [that the Ten Commandments were the only valid part of the Torah]. Similarly it has been taught: Rabi Natan[foot]<a href="http://en.wikipedia.org/wiki/Rabbi_Nathan">Rabi Natan HaBavli</a>, a third generation Tanna of the 2nd Century C.E.[/foot] says, They sought to do the same outside the Temple, but it had long been abolished on account of the insinuations of the <em>Minim</em>. Rabbah bar Bar Ḥanah[foot]<a href="http://en.wikipedia.org/wiki/Rabbah_bar_bar_Hana">Rabbah bar Bar Ḥanah</a>, a second generation Amorah in Babylonia (circa 250-280 C.E.)[/foot] had an idea of instituting this in Sura,[foot]<a href="http://en.wikipedia.org/wiki/Sura_(city)">Sura</a>, home to an important Babylonian yeshiva (talmudic academy)[/foot] but Rav Ḥisda[foot]<a href="http://en.wikipedia.org/wiki/Rav_Chisda">Rav Ḥisda</a> (228-320 C.E.), an Amora of the third generation[/foot] said to him, It had long been abolished on account of the insinuations of the <em>Minim</em>. Ameymar[foot]<a href="http://en.wikipedia.org/wiki/Amemar">Ameymar</a>, an Babylonian Amora of the fifth or sixth generation (380-410 C.E.)[/foot] had an idea of instituting it in Nehardea,[foot]<a href="http://en.wikipedia.org/wiki/Nehardea">Nehardea</a>, home to an important Babylonian yeshiva[/foot] but Rav Ashi[foot]<a href="http://en.wikipedia.org/wiki/Rav_Ashi">Rav Ashi</a>, (352-427 C.E.) a sixth generation Babylonian Amora[/foot] said to him, It had long been abolished on account of the insinuations of the <em>Minim</em>.[foot]Talmud Bavli, Berakhot 12a. Also see Talmud Yerushalmi Berakhoth, i. 8 (4)[/foot]
 </div></td>
 </tr>

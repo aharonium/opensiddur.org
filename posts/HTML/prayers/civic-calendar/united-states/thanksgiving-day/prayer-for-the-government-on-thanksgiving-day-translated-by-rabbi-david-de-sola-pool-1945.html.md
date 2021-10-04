@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַנּוֹתֵן תְּשׁוּעָה לַמְּלָכִים. 
 וּמֶמְשָׁלָה לַנְּסִיכִים. 
 וּמַלְכוּתוֹ מַלְכוּת כׇּל־עֽוֹלָמִים. 
@@ -20,7 +20,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 He who dispenses deliverance unto kings 
 and dominion unto princes, 
 whose kingdom is an everlasting kingdom, 
@@ -30,13 +30,13 @@ who makes a way in the sea and a path in the mighty waters,
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הוּא יְבָרֵךְ. וְיִשְׁמֹר. וְיִנְצֹר. וְיַֽעֲזֹר. 
 אֶת־כׇּל־שָׂרֵי הַמְּדִינוֹת הָאֵלּוּ׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 may He bless, preserve, guard and assist 
 the President and Vice-President of the United States of America, 
 the Governor, the Lieutenant Governor, 
@@ -46,14 +46,14 @@ and the magistrates of this city.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מֶֽלֶךְ מַלְכֵי הַמְּלָכִים. 
 בְּרַֽחֲמָיו יְשְׁמְרֵם וִֽיחַיֵּים. 
 וּמִכׇּל־צָרָה וָנֶֽזֶק יַצִּילֵם׃ 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May the supreme King of kings 
 in His infinite mercy preserve them, grant them life, 
 and deliver them from all manner of trouble and injury. 
@@ -61,7 +61,7 @@ and deliver them from all manner of trouble and injury.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מֶֽלֶךְ מַלְכֵי הַמְּלָכִים. 
 בְּרַֽחֲמָיו יִתֵּן בְּלִבָּם 
 וּבְלֵב כׇּל־יֽוֹעֲצֵיהֶם רַֽחֲמָנוּת. 
@@ -70,7 +70,7 @@ and deliver them from all manner of trouble and injury.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May the supreme King of kings 
 in His infinite mercy inspire the heart of them 
 and of all their counselors and officers 
@@ -80,7 +80,7 @@ and all Israel our brethren.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בִּֽימֵיהֶם וּבְיָמֵֽינוּ תִּוָּשַׁע יְהוּדָה. 
 וְיִשְׂרָאֵל יִשְׁכֹּן לָבֶֽטַח. 
 וּבָא לְצִיּוֹן גוֹאֵל. 
@@ -89,7 +89,7 @@ and all Israel our brethren.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 In their days and in our days may Judah be saved 
 and Israel dwell securely, 
 and speedily may the Redeemer come to Zion. 

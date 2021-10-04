@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english">
+<div class="english" lang="en">
 There are 24 books in the Tanakh. Of these, 21 (all but Psalms, Proverbs, and Job) share a grammatical system of cantillation marks, or t'amim. Of these 21, Ashkenazim have melodic traditions for reading eighteen of them. The Torah has its system, the prophets have the Haftarah system, the three festival scrolls have their shared system, and Esther and Lamentations have their own unique systems. But what of the three remaining books?
 
 Ezra/Neḥemiah (considered one book in the traditional Tanakh count), Chronicles, and Daniel are surprisingly important to Jewish tradition given their absence in the liturgical calendar of readings. The great tannaitic sage Rabbi Yosei said, "Ezra would have been worthy for the Torah to be given by him to the Jewish people, had Moses not already done so" (Sanhedrin 21b). Daniel is considered to be the earliest source for the custom to pray three times a day (Dan. 6:11), and his supplications (Dan. 9:5) form the basis of the traditional confession liturgy. And we traditionally read substantial portions from Chronicles (1 Chron. 16:8-36 and 1 Chron. 29:10-13) and Neḥemiah (Neh. 9:6-11) every morning during P'sukei. Why shouldn't such fascinating and unique books have a melody of their own?

@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 There are few loopholes in Jewish law worse than refusing a get. In Orthodox practice, only the husband in a marriage may sign a get, so a husband who seeks to extort his wife can refuse to sign a get unless his demands are met. A woman whose marriage is functionally dead but who has no get is known as an agunah, or a "chained one." In the old days, a husband who refused to sign a get would be lashed until he agreed, but nowadays we no longer perform corporal punishment. So more women than ever before have been stuck as agunot, between abusive husbands and a halakhic system unfortunately ill-equipped to help.
 
 There is a long, long precedent for public shaming of individuals who break the moral code of the community. Often this would involve temporary or even permanent excommunication, or simply announcing their name in public. Although it is generally considered inappropriate to bring disgrace upon Israel, in the case of one who acts in an evil enough manner it is certainly permitted, or even encouraged, to air grievances in public.
@@ -21,33 +21,33 @@ The agunah crisis is a difficult one, perhaps unsolvable completely according to
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִי שֶׁבֵּרַךְ הַצַּדִּיקוֹת 
 רוּת וַאֲבִיגַיִל וְאֶסְתֵּר הַמַּלְכָּה
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May the One who blessed the righteous women 
 Ruth and Avigayil and Queen Esther 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּמִי שֶׁאֵרַר הָרְשָׁעִים 
 מַחְלוֹן וְכִלְיוֹן וְנָבָל הַכַּרְמְלִי וְהַמֶּלֶךְ אֲחַשְׁוֵרוֹשׁ׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 and the One who cursed the wicked 
 Maḥlon and Khilion and Naval the Karmelite and King Aḥashverosh,
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הוּא יְבָרֵךְ וִישַׁמֵּר וְיַצְדִּיק וְיִגְמֹל 
 עַל כׇּל־נְשֵׁי יִשְׂרָאֵל הַתְּפוּסוֹת בְּמַצַּב עֲגוּנָה חַיָּה 
 בִּגְלַל אַנְשֵׁי בְּלִיַּעַל שֶׁנִּשְּׂאוּ לָהֶן 
@@ -55,7 +55,7 @@ Maḥlon and Khilion and Naval the Karmelite and King Aḥashverosh,
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Bless and guard and justify and reward 
 all the women of Israel trapped in a state of living agunah 
 on account of lowly men who were married to them 
@@ -64,7 +64,7 @@ and abandoned them and did not send them a get, a writ of divorce,
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כְּמוֹ שֶׁצִּוָּה הַקָּדוֹשׁ בָּרוּךְ הוּא כַּכָּתוּב בְּתוֹרָתוֹ הַקְּדוֹשָׁה — 
 וְכָ֨תַב לָ֜הּ סֵ֤פֶר כְּרִיתֻת֙ 
 וְנָתַ֣ן בְּיָדָ֔הּ 
@@ -72,7 +72,7 @@ and abandoned them and did not send them a get, a writ of divorce,
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 as the blessed Holy One commanded in [God's] Holy Torah: 
 "And he will write her a writ of divorce 
 and give it in her hand 
@@ -81,7 +81,7 @@ and send her from his house."[foot]Deuteronomy 24:1.[/foot]
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְאָמְרוּ חֲכָמִים זִכְרוֹנָם לִבְרָכָה — 
 אָמַר רַב אַשֵּׁי 
 הַאי מַאן דְּסַנַאי שׁוֹמְעָנֵיהּ שָׁרֵי לֵיהּ לְבַזּוּיֵיהּ׃ <span class="citation">(ת״ב מגילה כה ב)</span>
@@ -91,7 +91,7 @@ and send her from his house."[foot]Deuteronomy 24:1.[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And out sages of blessed memory said:
 "Rav Ashi said: 
 <em>Hai man d-sanai shom'aneih, sharai leih l-vazuyeih</em>."[foot]BT Megillah 25b[/foot]&nbsp;
@@ -102,7 +102,7 @@ it is permitted to degrade him."
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּבְכֵן 
 בִּרְשׁוּת יְשִׁיבָה שֶׁלְּמַעְלָה 
 וּבִזְכוּת יְשִׁיבָה שֶׁלְּמַטָּה 
@@ -113,7 +113,7 @@ it is permitted to degrade him."
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And thus,
 With the permission of the council on high, 
 and by the merit of the council below,
@@ -125,7 +125,7 @@ and may there not be many of their kind in Israel!
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אַקְרָאֵיהֶם 
 כִּי לַעֲשׂוֹת כְּמוֹהֶם עֲווֹן מְרֻשָּׁע 
 וַעֲלִילַת תּוֹעֵבָה 
@@ -133,7 +133,7 @@ and may there not be many of their kind in Israel!
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 I call them out 
 for to act as them is an evil iniquity 
 and an abominable plot 
@@ -142,14 +142,14 @@ and a deed of desecration of the Name.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַקָּדוֹשׁ בָּרוּךְ הוּא 
 הַנּוֹתֵן לָרָשָׁע רַע כְּרִשְׁעָתוֹ 
 הוּא יְשַׁלֵּם לָהֶם אֶת־גְּמוּלָם שֶׁגָּמְלוּ לִנְשׁוֹת יִשְׂרָאֵל.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May the blessed Holy One, 
 who deals evil to the wicked according to their wickedness, 
 repay them for for the treatment with which they have treated the women of Israel.
@@ -157,7 +157,7 @@ repay them for for the treatment with which they have treated the women of Israe
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְיֵיטִיב טוֹבַת טוּבוֹ לְכׇל־הַנָּשִׁים 
 שֶׁבְּצָרָה וּבִצְרוּרָה בִּגְלָלָם 
 וִיחַזֵּק אֶת־יְדֵי כׇּל־מִי שֶׁרָבִים אֶת־רִיבָן 
@@ -165,7 +165,7 @@ repay them for for the treatment with which they have treated the women of Israe
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And may [God] deal good, the goodness of [God's] good, 
 to all the women in straits or in strife on their account,
 and strengthen the hands of all who would argue their argument, 
@@ -174,12 +174,12 @@ to reëstablish a good name in Israel.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְנֹאמַר אָמֵן׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And to this we say <em>Amen</em>.
 </div></td></tr>
 </tbody></table>

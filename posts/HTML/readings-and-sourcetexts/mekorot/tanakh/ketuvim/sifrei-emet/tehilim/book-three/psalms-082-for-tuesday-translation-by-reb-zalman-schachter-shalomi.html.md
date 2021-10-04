@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 This psalm was the Tuesday song of the Levites in the Holy Temple.
 </div>
 
@@ -16,7 +16,7 @@ This psalm was the Tuesday song of the Levites in the Holy Temple.
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>א</sup>&nbsp;<span class="instruction">מִזְמ֗וֹר לְאָ֫סָ֥ף </span>
 אֱ&#x200d;ֽלֹהִ֗ים נִצָּ֥ב 
 בַּעֲדַת־אֵ֑ל 
@@ -37,7 +37,7 @@ This psalm was the Tuesday song of the Levites in the Holy Temple.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <sup>1</sup>&nbsp;<span class="instruction">Assaph sings:</span>
 God is present 
 to the godly gathering.
@@ -60,7 +60,7 @@ Save them from the bullies’ hands.
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>ה</sup>&nbsp;לֹ֤א יָֽדְע֨וּ ׀ 
 וְלֹ֥א יָבִ֗ינוּ בַּחֲשֵׁכָ֥ה יִתְהַלָּ֑כוּ 
 יִ֝מּ֗וֹטוּ 
@@ -69,7 +69,7 @@ Save them from the bullies’ hands.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <sup>5</sup>&nbsp;Not knowing, unawares you are,
 You walk in the dark,
 While the foundations of earth 
@@ -80,7 +80,7 @@ Are toppling.
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <sup>ו</sup>&nbsp;אֲ&#x200d;ֽנִי־אָ֭מַרְתִּי אֱלֹהִ֣ים אַתֶּ֑ם 
 וּבְנֵ֖י עֶלְי֣וֹן 
 כֻּלְּכֶֽם׃
@@ -92,7 +92,7 @@ Are toppling.
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <sup>6</sup>&nbsp;I set you to be judges,
 To be like angels 
 of the Most High.
@@ -106,14 +106,14 @@ Bring justice to the world!
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כִּֽי־אַתָּ֥ה תִ֝נְחַ֗ל 
 בְּכָל־הַגּוֹיִֽם׃
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 You can bring order 
 to all the nations.
 </div></td>

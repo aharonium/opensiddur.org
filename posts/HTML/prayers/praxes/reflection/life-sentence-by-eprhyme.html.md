@@ -12,23 +12,23 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <h3>Life Sentence (Lyrics)</h3>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 From cannibus to amatheyst,
 Calculus to manuscripts
 Welcome to the garden
@@ -37,12 +37,12 @@ Where divine inspired madness lives
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 I am a pacifist trapped in the mind of a masochist
 If I was half as passionate about rap,
 I still would have mastered it
@@ -50,12 +50,12 @@ I still would have mastered it
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Before disaster hit
 Took longer than the average kid
 But then again, tell em friend,
@@ -64,12 +64,12 @@ I ain’t no average kid
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 This ain’t no accident-
 Oh that’s cute- you talk s***
 I spit galactic fractal laxative adjectives
@@ -78,12 +78,12 @@ Hazardous to the snake bitten sippen sacrilege
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 You can turn water to wine,
 but can you turn It back again?
 I remain passionate
@@ -91,12 +91,12 @@ I remain passionate
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Got the consciousness of a candle wick
 Just one of the earth’s inhabitants
 Battling issues of abandonment
@@ -105,12 +105,12 @@ Let’s skip this whole Hamlet skit…
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 From here on out I’m only brutally honest
 Im not just tryin to move the crowd,
 Im tryin to move the crowd beyond this
@@ -118,24 +118,24 @@ Im tryin to move the crowd beyond this
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 This is my personal declaration of independence
 You got a right to life, I gotta write my Life Sentence
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 [Chorus]
 
 <em>The forgotten books of Eden (Bigg Jus)
@@ -146,12 +146,12 @@ Styles upon styles is what I have (A Tribe Called Quest)</em>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 We are alive within the walls of the words
 That we erect just to protect us and connect us to the ancestors
 Feel the presence of the Heavens and the tensions of the Tempest
@@ -160,12 +160,12 @@ In a message from an Essence that is endless
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 There is no reference point, no context, no metaphor
 No simile, no hidden theme, no finish line we’re headed towards
 No explanation, only interpretation
@@ -174,12 +174,12 @@ I’m guided by the patience and the wisdom of the ancients
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 The world as we know it- created from our thoughts
 Living in between the lines, not confined to the clock
 Droppin dimes on the crimes of the mind that we talk
@@ -188,12 +188,12 @@ Redefine the design with these rhymes that we walk
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 I got letters for legs and vowels for feet
 I walk across an empty page like I was crossin the street
 Listen to your heart, can you follow the beat?
@@ -202,12 +202,12 @@ Got the extra mile, smile while you set your style free
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 [Chorus]
 
 <em>The forgotten books of Eden (Bigg Jus)
@@ -218,12 +218,12 @@ Driven by the sonic language passion (Aceyalone)</em>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Every creature on the planet must follow the commandments
 Not just letters etched in granite- even Moses broke the tablets
 He couldn’t stand it- to see the Living Word so static
@@ -232,24 +232,24 @@ So he freed the captives, from Hebrew, Arabic, to Sanskrit
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Now he walks about just like he used to talk about
 He went from a place of doubt to face to face and mouth to mouth
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Direct experience of something greater than yourself
 Will make you curious and want to know ‘why’ and what else…
 Don’t take life too seriously, it’s not good for your health
@@ -258,12 +258,12 @@ It might make you furious and then it’s time to cry for help
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 From deep within us all calls a voice so still and small
 Yet powerful enough to move a mountain- make a nation fall
 Political prisoners to the cult of personality
@@ -272,24 +272,24 @@ Traveling the family tree of life up to the canopy
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Opening up the channels to receive and offer evidence
 In this fight for independence co-defendants serve a Life Sentence
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Chorus
 
 <em>The forgotten books of Eden (Bigg Jus)

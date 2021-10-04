@@ -29,7 +29,7 @@ Scanning this work (making digital images of each page) is the first step in a m
 
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 
 <blockquote>The HEBREW PUBLISHING COMPANY presents, for the first time, a carefully edited and revised English version of the SIDDUR for those who follow the Sephardic[-Ḥassidic] form of worship. There has been a serious need for a Sephardic[-Ḥassidic] Daily Prayer Book with an English translation for many years and it is hoped that Jews who observe the traditional Sephardic[-Ḥassidic] services will find this English version an essential and important book for daily and Sabbath worship. 
 

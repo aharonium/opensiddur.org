@@ -9,7 +9,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 [caption id="attachment_2945" align="aligncenter" width="1024" caption="Image: Rows of Fruit Trees by rkramer62, license: CC-BY 2.0"]<a href="https://opensiddur.org/wp-content/uploads/2011/04/4563026284_af8331f04c_b.jpg"><img src="https://opensiddur.org/wp-content/uploads/2011/04/4563026284_af8331f04c_b.jpg" alt="" title="Rows of Fruit Trees by rkramer62 (license CC-BY 2.0)" width="1024" height="664" class="size-full wp-image-2945" /></a>[/caption]
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 When the spring (Aviv) season arrives, a blessing is traditionally said when one is in view of at least two flowering fruit trees.[foot]Source: Shulchan Aruch, Orach Chaim, 226:1[/foot] In the northern hemisphere, it can be said anytime through the end of the month of Nissan (though it can still be said in Iyar). For those who live in the southern hemisphere, the blessing can be said during the month of Tishrei (and into the month of Marḥeshvan).
 
 Rabbi David Seidenberg (neohasid.org) <a href="http://neohasid.org/stoptheflood/birkat_hailanot/">writes</a>:
@@ -27,7 +27,7 @@ Why do we need to see two trees rather than just one to say the blessing? I have
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לְשֵׁם יִחוּד 
 קוּדְשָׁא בְּרִיךְ הוּא וּשְׁכִינְתֵּיהּ, 
 בִּדְחִילוּ וּרְחִימוּ, וּרְחִימוּ וּדְחִילוּ, 
@@ -36,7 +36,7 @@ Why do we need to see two trees rather than just one to say the blessing? I have
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 To encourage a uniting of His Majesty, 
 The Blessed Holy One with Her Immanence, the Presence:
 In awe and in love, in love and in awe
@@ -46,7 +46,7 @@ For all of Israel’s sake
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּבְשֵׁם כׇּל־הַנְּפָשׁוֹת רוּחוֹת וּנְשָׁמוֹת 
 הַמִּתְיַחֲסִים אֶל־שׇׁרְשֵׁי נָפְשֵֽׁנוּ רוּחֵֽנוּ וְנִשְׁמָתֵֽנוּ 
 וּמִלְּבוּשֵׁיהֶם וְהַקְּרוֹבִים לָהֶם 
@@ -55,7 +55,7 @@ For all of Israel’s sake
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 And for the sake of all beings whose Life-Force, Soul, and Consciousness 
 is connected at the root to our Life-Force, Soul, and Consciousness
 And connected to the Enclothing/manifestations of each of these, and everything closest to these
@@ -65,7 +65,7 @@ and which are from all pieces of Emanation, Creation, Formation and Action:
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הֲרֵי אֲנַחְנוּ מוּכָנִים וּמְזֻמָּנִים 
 לְקַיֵּם מִצְוַת הַבְּרָכָה 
 שֶׁתִּקְּנוּ חֲכָמִים זִכְרוֹנָם לִבְרָכָה 
@@ -73,7 +73,7 @@ and which are from all pieces of Emanation, Creation, Formation and Action:
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 We declare ourselves ready and willing
 to fulfill the commandment of the blessing 
 which was ordained by the sages of blessed memory
@@ -82,7 +82,7 @@ upon seeing trees in bloom.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְיֹעֲלָה לְפָנֶיךָ יהוה אֱלֹהֵֽינוּ וֵאלֹהֵי אֲבוֹתֵֽינוּ 
 כְּאִֽלּוּ כִּוַּנּֽוּ בְּכׇל־הַכַּוָּנוֹת הָרְאוּיוֹת לְכַוֵּן בַּבְּרָכָה הַזֹּאת וְסוֹדוֹתֶֽיהָ, 
 וְתִהְיֶה חֲשׁוּבָה וּמְקֻבֶּֽלֶת וּרְצוּיָה לְפָנֶֽיךָ בְּרָכָה זוֹ 
@@ -91,7 +91,7 @@ upon seeing trees in bloom.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 So may [the blessing] go up before You, Adonai our God and God of our ancestors, 
 as if we kept in mind all of the intentions deserved by this blessing and the secrets it holds, 
 and may this blessing be desired and accepted and welcomed before You 
@@ -101,7 +101,7 @@ And every Life-Force, Soul, and Consciousness which may be reincarnated in veget
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְאַתָּה הָאֵל בְּמִדַּת טוּבְךָ וְחַסְדְּךָ הַגָּדוֹל 
 תָּאִיר לָהֶם בְּאוֹר פָּנֶֽיךָ 
 וְתַשְׁלִים בֵּרוּרָם וְתִקּוּנָם׃ 
@@ -109,7 +109,7 @@ And every Life-Force, Soul, and Consciousness which may be reincarnated in veget
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 And You, my God, through Your abundant goodness and kindness, 
 Light the way for them by the light of Your Face
 To complete their clarification and correction.
@@ -118,14 +118,14 @@ Bless them, cleanse them, Your righteous kindness always grant them.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וִיהִי רָצוֹן מִלְּפָנֶֽיךָ יהוה אֱלֹהֵֽינוּ וֵאלֹהֵי אֲבוֹתֵֽינוּ 
 שֶׁבִּזְכוּת הַבְּרָכָה הַזֹּאת אֲשֶׁר נְבָרֵךְ יְקֻיַּם בָּֽנוּ מַאֲמָר — 
 רְאֵה֙ רֵ֣יחַ בְּנִ֔י כְּרֵ֣יחַ שָׂדֶ֔ה אֲשֶׁ֥ר בֵּרְכ֖וֹ יְהֹוָֽה׃<span class="citation">(בראשית כז:כו)</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 And may it Your Majesty’s desire, Adonai our God, God of our ancestors, 
 that through the merit we gain by incanting this blessing, this statement will be fulfilled[foot]or "come true" through us. through us, not for us. <em>banu</em>, not <em>lanu</em>.[/foot] through us: 
 “See, the scent of my son is like the scent of the field that Adonai blessed.”[foot]Genesis 27:27. This verse is crucial. <em>Rei'aḥ</em> connecting to <em>ru'aḥ</em>, and to the scent of flowers, and to being God's child, and being a field that God has blessed. This is the verse that equates the soul of vegetation with the souls of us.[/foot]
@@ -133,7 +133,7 @@ that through the merit we gain by incanting this blessing, this statement will b
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּנְקַבֵּל שֶׁפַע עֶֽשֶׂר הַבְּרָכוֹת כַּכָּתוּב — 
 וְיִֽתֶּן־לְךָ֙ הָאֱלֹהִ֔ים מִטַּל֙ הַשָּׁמַ֔יִם 
 וּמִשְׁמַנֵּ֖י הָאָ֑רֶץ 
@@ -141,7 +141,7 @@ that through the merit we gain by incanting this blessing, this statement will b
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 And may we receive abundance of ten blessings[foot]The ten blessings are as follows: 1. of the dew of heaven, 2. of the fat of the land, 3. much grain, 4. much wine, 5. people's will serve you, 6. nations will bow before you, 7. you will have power over your brother, 8. all your mother's sons will bow to you, 9. those who curse you be cursed, 10. those who bless you be blessed. Additionally, the verse that follows has ten words. The verse after it has sixteen, making twenty-six in total, and so we are blessed with ten blessings that are God's unified name, Yud-Heh with Vav-Heh. And so we've come full circle![/foot] as written: 
 “And God will give you of the dew of the heaven 
 and of the fat of the land, 
@@ -150,7 +150,7 @@ and much grain and wine.”[foot]Genesis 27:28.[/foot]
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יַֽעַבְד֣וּךָ עַמִּ֗ים 
 וְיִֽשְׁתַּחֲוֻ֤ לְךָ֙ לְאֻמִּ֔ים 
 הֱוֵ֤ה גְבִיר֙ לְאַחֶ֔יךָ 
@@ -160,7 +160,7 @@ and much grain and wine.”[foot]Genesis 27:28.[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Peoples will serve you, 
 nations will bow before you, 
 you will have power over your brother, 
@@ -171,27 +171,27 @@ and may those who bless you be blessed.”[foot]Genesis 27:29.[/foot]
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יִ֥הְיֽוּ לְרָצ֨וֹן ׀ אִמְרֵי־פִ֡י וְהֶגְי֣וֹן לִבִּ֣י לְפָנֶ֑יךָ 
 יְ֝הֹוָ֗ה צוּרִ֥י וְגֹאֲלִֽי׃ <span class="citation">(תהלים יט:טז)</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May the words of my mouth and the flutterings of my heart be welcomed before You, 
 Adonai my Rock and Redeemer.[foot]Psalms 19:16.[/foot]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וִיהִ֤י ׀ נֹ֤עַם אֲדֹנָ֥י אֱלֹהֵ֗ינוּ עָ֫לֵ֥ינוּ 
 וּמַעֲשֵׂ֣ה יָ֭דֵינוּ כּוֹנְנָ֥ה עָלֵ֑ינוּ 
 וּֽמַעֲשֵׂ֥ה יָ֝דֵ֗ינוּ כּוֹנְנֵֽהוּ׃ <span class="citation">(תהלים צ:יז)</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 And may the sweetness of the Master our God be upon us, 
 and the works of our hands be established for us; 
 may God establish the work of our hands.[foot]Psalms 90:17.[/foot]
@@ -199,7 +199,7 @@ may God establish the work of our hands.[foot]Psalms 90:17.[/foot]
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה
 יהוה אֱלֹהֵֽינוּ
 מֶֽלֶךְ הָעוֹלָם
@@ -210,7 +210,7 @@ may God establish the work of our hands.[foot]Psalms 90:17.[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Blessed are You,
 YHVH (haShem) our <em>elo'ah</em>,
 cosmic majesty, 
@@ -229,22 +229,22 @@ l'hitna'ot bahen b'nei Adam</em>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 <span class="instruction">Some additional texts to learn about fruit trees from Tanakh, Midrash and Kabbalah:</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 שיר השירים ז:ח-יא
 &nbsp;
 <sup>ח</sup> זֹ֤את קֽוֹמָתֵךְ֙ דָּֽמְתָ֣ה לְתָמָ֔ר וְשָׁדַ֖יִךְ לְאַשְׁכֹּלֽוֹת׃ <sup>ט</sup> אָמַ֙רְתִּי֙ אֶעֱלֶ֣ה בְתָמָ֔ר אֹֽחֲזָ֖ה בְּסַנְסִנָּ֑יו וְיִֽהְיוּ־נָ֤א שָׁדַ֙יִךְ֙ כְּאֶשְׁכְּל֣וֹת הַגֶּ֔פֶן וְרֵ֥יחַ אַפֵּ֖ךְ כַּתַּפּוּחִֽים׃ <sup>י</sup> וְחִכֵּ֕ךְ כְּיֵ֥ין הַטּ֛וֹב הוֹלֵ֥ךְ לְדוֹדִ֖י לְמֵישָׁרִ֑ים דּוֹבֵ֖ב שִׂפְתֵ֥י יְשֵׁנִֽים׃ <sup>יא</sup> אֲנִ֣י לְדוֹדִ֔י וְעָלַ֖י תְּשׁוּקָתֽוֹ׃</span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Song of Songs 7:8-11
 &nbsp;
 This one, your body, was like a palm tree, and your breasts clusters [of dates]. I said, I will climb up that palm tree, I will grab its branches. May your breasts be like clusters [of grapes] on the vine, the scent of your breathing like apples. And your mouth like good wine, going straight to my lover, lubricating sleepers’ lips. I am my lover’s, and his desire is upon me.
@@ -252,27 +252,27 @@ This one, your body, was like a palm tree, and your breasts clusters [of dates].
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 ספרי דברים רג
 &nbsp;
 ר׳ ישמעאל אומר מכאן חס המקום על פירות האילן ק״ו מאילן. ומה אילן שעושה פירות הזהירך הכתוב עליו פירות עצמם:‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Sifrei Devarim 203
 &nbsp;
-R’ Yishma’el said: The compassion of the <em>Maqom</em> [<span lang="he" class="scribe">מקום</span>, literally, Place, i.e. God] is on the fruit of the tree….For if scripture cautions you [not to harm] the tree that makes fruit [Deuteronomy 20:19], all the more so the fruits themselves.
+R’ Yishma’el said: The compassion of the <em>Maqom</em> [<span class="scribe" lang="he">מקום</span>, literally, Place, i.e. God] is on the fruit of the tree….For if scripture cautions you [not to harm] the tree that makes fruit [Deuteronomy 20:19], all the more so the fruits themselves.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 סנהדרין צח א
 &nbsp;
 ואמר רבי אבא אין לך קץ מגולה מזה שנאמר  ואתם הרי ישראל ענפכם תתנו ופריכם תשאו לעמי ישראל וגו'‏ (יחזקאל לו, ח)‏ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Sanhedrin 98a
 &nbsp;
 R’ Abba taught: There is no greater revelation of redemption than that which the verse states: “And you, mountains of Israel, you shall give forth your branches and you shall bear your fruit for my people Israel, for they shall soon come.” [Ezekiel 36:8] 
@@ -280,13 +280,13 @@ R’ Abba taught: There is no greater revelation of redemption than that which t
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 זוהר ב:טו ב
 &nbsp;
 דכד הוה חמי רבי אבא חד אילנא דאביה אתעביד עופא דפרח מניה, הוה בכי ואמר, אי הוו בני נשא ידעי למאי רמיזאן, הוו מבזען מלבושיהון עד טבוריהון למאי דאתנשי חכמה מנהון, כל שכן בשאר מה דעבד קודשא בריך הוא בארעא.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Zohar 2:15b
 &nbsp;
 When R’ Abba saw a tree whose fruit turned into a bird and flew away, he wept and said: If men only knew to what these things alluded, they would rend their garments! 
@@ -295,7 +295,7 @@ When R’ Abba saw a tree whose fruit turned into a bird and flew away, he wept 
 
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 As a formula, this blessing has some language in common with another blessing, the rabbinic Jewish blessing after eating all foods: 
 </div>
 
@@ -303,7 +303,7 @@ As a formula, this blessing has some language in common with another blessing, t
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה
 יְיָ אֱלֹהֵֽינוּ
 מֶֽלֶךְ הָעוֹלָם
@@ -314,7 +314,7 @@ As a formula, this blessing has some language in common with another blessing, t
 בָּרוּךְ חַי הָעוֹלָמִים:‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Blessed are you,
 YHVH (haShem) our <em>elo'ah</em>,
 Cosmic Majesty,
@@ -326,7 +326,7 @@ Blessed is the Life of the Worlds.
 </div></td></tr>
 </tbody></table>
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 Vanessa Paloma <a href="http://vanessapaloma.blogspot.com/2008/04/blessing-fruit-trees-in-casablanca.html">documented</a> a communal blessing over the flowering fruit trees made by the Jews of Casablanca in 2008.
 
 <blockquote>

@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Translation (Hebrew)</th><th>Source (German)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 שִׂמְחָה! רֶשֶׁף שַלְהֶבֶת שָמַיִם!
 בַּת גַּן עֶדֶן![foot]The Hebrew here reads, "Daughter of the Garden of Eden ."[/foot] צְבִי מְקוֹרֵךְ
 בְּלֵב בּוֹעֵר כֶּשֶׁמֶשׁ צָהֳרַיִם
@@ -24,7 +24,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Freude, schöner Götterfunken,
 Tochter aus Elysium!
 Wir betreten feuertrunken,
@@ -37,7 +37,7 @@ Wo Dein sanfter Flügel weilt.
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Joy, beautiful spark of Heaven,
 Daughter of <em>Gan Aden</em>,
 We enter, fire-drunk,
@@ -51,7 +51,7 @@ Where thy gentle wing abides.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 <span class="instruction">להקה</span>
 הֵחָבְקוּ אֵתֶּם רִבְבוֹת רְבָבוֹת!
 הַנְשִׁיקָה הָאַחַת לְכֻלְּכֶם יַחַד׃
@@ -61,7 +61,7 @@ Where thy gentle wing abides.
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <em>Chor</em>.
 Seid umschlungen, Millionen!
 Diesen Kuß der ganzen Welt!
@@ -71,7 +71,7 @@ Muß ein lieber Vater wohnen!
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <em>Chorus</em>
 Be embraced, millions!
 This kiss to the entire world!
@@ -82,7 +82,7 @@ A loving father must dwell.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 לְמִי הַגּוֹרָל הַגָּדוֹל יָצָא
 לֶאֲהוֹב אוֹהֵב דָּבֵק מֵאָח.
 מִי אֵשֶׁת חַיִל מָצָא.
@@ -95,7 +95,7 @@ A loving father must dwell.
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Wem der große Wurf gelungen,
 Eines Freundes Freund zu sein,
 Wer ein holdes Weib errungen,
@@ -108,7 +108,7 @@ Weinend sich aus diesem Bund!
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Who has had the great fortune
 To be a friend's friend;
 Whoever has won the love of a devoted wife,
@@ -122,7 +122,7 @@ Tearfully away from this circle.)
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 <span class="instruction">להקה</span>
 יוֹשְׁבֵי תֵבֵל וְשוֹכְנֵי אָרֶץ!
 הִתְאַזְרוּ. הִתְאַחֲרוּ. תִּקְעוּ כֵפִים!
@@ -132,7 +132,7 @@ Tearfully away from this circle.)
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <em>Chor</em>.
 Was den großen Ring bewohnet,
 Huldige der Sympathie!
@@ -142,7 +142,7 @@ Wo der Unbekannte thronet.
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <em>Chorus</em>
 Those who dwell in the great circle,
 Pay homage to sympathy!
@@ -153,7 +153,7 @@ Where the Unknown reigns.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 שִׂמְחָה יוֹנְקִים כָּל הַבְרוּאִים
 מִשְׁדֵי הַטֶּבַע אַשְׁכְּלוֹת גְּפָנִּים
 כָּל הַטּוֹבִים וְכָל הָרָעִים
@@ -166,7 +166,7 @@ Where the Unknown reigns.
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Freude trinken alle Wesen
 An den Brüsten der Natur;
 Alle Guten, alle Bösen
@@ -179,7 +179,7 @@ Und der Cherub steht vor Gott.
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 All creatures drink Joy
 At Nature's breasts;
 All, Just and Unjust,
@@ -193,7 +193,7 @@ And the Ḳerub stands before God.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 <span class="instruction">להקה</span>
 הִשְתַחִווּ לַהְ׳ אַלְפֵי רְבָבָה
 הַתֵּדְעַי תֵבֵל עִקְבוֹת אֱלֹהָיִךְ?
@@ -203,7 +203,7 @@ And the Ḳerub stands before God.
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <em>Chor</em>.
 Ihr stürzt nieder, Millionen?
 Ahnest du den Schöpfer, Welt?
@@ -213,7 +213,7 @@ Such' ihn überm Sternenzelt!
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <em>Chorus</em>
 Do you lie prostrate, you millions?
 Do you sense the Creator, world?
@@ -224,7 +224,7 @@ Above the stars He must dwell.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 שִׂמְחָה! אַתְּ בְּרִיחַ הַתִּיכוֹן
 בְּמוֹסְדֵי הַטֶבַע הָעוֹמֶדֶת לָעַד
 לְאוֹרֵךְ יִסַבוּ בְרוּחַ הָעוֹמֶדֶת לָעַד
@@ -237,7 +237,7 @@ Above the stars He must dwell.
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Freude heißt die starke Feder
 In der ewigen Natur.
 Freude, Freude treibt die Räder
@@ -250,7 +250,7 @@ Die des Sehers Rohr nicht kennt.
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Joy is called the strong motivation
 In eternal nature.
 Joy, Joy drives the wheels
@@ -264,7 +264,7 @@ Where the seer's telescope cannot reach.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 <span class="instruction">להקה</span>
 כִּמְרוּצַת צְבָאֵי מָרוֹם יוֹמָם וָלַיִל
 בְּתִפְאֶרֶת מֶרְחֲבֵי הַזְּבוּל
@@ -274,7 +274,7 @@ Where the seer's telescope cannot reach.
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <em>Chor</em>.
 Froh, wie seine Sonnen fliegen
 Durch des Himmels prächt'gen Plan,
@@ -284,7 +284,7 @@ Freudig, wie ein Held zum Siegen.
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <em>Chorus</em>
 Joyful, as His suns are flying,
 Across the Firmament's splendid map,
@@ -295,7 +295,7 @@ Joyfully, as a hero to victory.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 בְּמַרְאַת הָאֶמֶת כְּאֵשׁ מִתְלַקַּחַת --
 מְצַחֶקֶת לְדוֹדָהּ מְבַקֵּשׁ דְּרָכֶיהָ --
 וְעַל הַר צֶדֶק בְּשׁוּבָה וָנַחַת
@@ -308,7 +308,7 @@ Joyfully, as a hero to victory.
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Aus der Wahrheit Feuerspiegel
 Lächelt sie den Forscher an.
 Zu der Tugend steilem Hügel
@@ -321,7 +321,7 @@ Sie im Chor der Engel stehn.
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 As Truth's fiery reflection
 She smiles upon the scientist,
 Towards virtue’s steep hill
@@ -335,7 +335,7 @@ One sees her standing in the chorus of angels.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 <span class="instruction">להקה</span>
 הַטּו שִׁכְמֶּכֶם לִמְבוֹל - רִבְבוֹת רְבָבוֹת!
 הִתְחַזְּקוּ וְתִשְׂבְעוּ שֹׁבֵע שְׂמָחוֹת --
@@ -345,7 +345,7 @@ One sees her standing in the chorus of angels.
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <em>Chor</em>.
 Duldet mutig, Millionen!
 Duldet für die beßre Welt!
@@ -355,7 +355,7 @@ Wird ein großer Gott belohnen.
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <em>Chorus</em>
 Endure courageously, millions!
 Endure for the better world!
@@ -366,7 +366,7 @@ A great God will reward you.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 הֲלַהְ׳ תִּגְמְלוּ חַסְדוֹ וְטוּבוֹ?[foot]The Hebrew adaptation here reads, "Can you repay God’s grace and goodness? Let us walk in His ways."[/foot]&nbsp;<br />
 נֵלְכָה בְאֹרְחֹתָיו וְיוֹדֵנוּ מִדְּרָכָיו
 לְמִי דְאָגָה וְיָגוֹן בִּלְבָבוֹ
@@ -379,7 +379,7 @@ A great God will reward you.
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Göttern kann man nicht vergelten;
 Schön ist's, ihnen gleich zu sein.
 Gram und Armut soll sich melden,
@@ -392,7 +392,7 @@ Keine Reue nage ihn.
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 (Children of) God one cannot ever repay
 Beautiful it is, to be like them.
 Sorrow and poverty, come forth
@@ -406,7 +406,7 @@ No remorse shall nag him
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 <span class="instruction">להקה</span>
 סֶפֶר אַשְׁמוֹתֵינוּ כָּלָה יָחֳרָם!
 אַהֲבָה תְכַּסֶה עַל כָּל פְּשָׁעֵינוּ!
@@ -416,7 +416,7 @@ No remorse shall nag him
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <em>Chor</em>.
 Unser Schuldbuch sei vernichtet!
 Ausgesöhnt die ganze Welt!
@@ -426,7 +426,7 @@ Richtet Gott, wie wir gerichtet.
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <em>Chorus</em>
 The account of our misdeeds be destroyed!
 Reconciled the entire world!
@@ -437,7 +437,7 @@ God judges, as we judged.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 שִׂמְחָה רֹעֶשֶת בִּגְבִּיעִים מְשֻׁקָּדִים,
 וְדָם עֵנָב - כְּזָהָב סְגוּרָה,
 יַהֲפוֹךְ אַכְזָרִים לְגוֹמְלֵי חֲסָדִים,
@@ -450,7 +450,7 @@ God judges, as we judged.
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Freude sprudelt in Pokalen,
 In der Traube goldnem Blut
 Trinken Sanftmut Kannibalen,
@@ -463,7 +463,7 @@ Dieses Glas dem guten Geist.
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Joy is bubbling in the glasses,
 through the grape’s golden blood
 Cannibals drink gentleness,
@@ -477,7 +477,7 @@ This glass to the good spirit
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 <span class="instruction">להקה</span>
 לְהַמְהֻלָל מֵאוֹרִים גְּדוֹלִים בִּמְסִלוֹתָם
 לְהַמְפֹאָר מִפִּי שְׂרָפִים וְאַרְאֶלִים
@@ -487,7 +487,7 @@ This glass to the good spirit
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <em>Chor</em>.
 Den der Sterne Wirbel loben,
 Den des Seraphs Hymne preist,
@@ -497,7 +497,7 @@ Dieses Glas dem guten Geist
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <em>Chorus</em>
 He whom the spiraling galaxies adore,
 He whom the Seraphim’s hymn praises,
@@ -509,7 +509,7 @@ Above the starry canopy!
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 אוֹמֵץ הַלֵּב לְצָרָה נִפְלָאָה
 רֶוַח וְהַצָּלָה לְלַחַץ יְשָׁרִים
 לָעַד תָּקוּם שְׁבֻעָה הַנִּשְׁבָּעָה
@@ -522,7 +522,7 @@ Above the starry canopy!
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Festen Mut in schwerem Leiden,
 Hilfe, wo die Unschuld weint,
 Ewigkeit geschwornen Eiden,
@@ -535,7 +535,7 @@ Untergang der Lügenbrut!
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Resolve and courage, for great suffering,
 Help there, where innocence weeps,
 Eternally may last sworn oaths,
@@ -549,7 +549,7 @@ Defeat to the pack of liars!
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 <span class="instruction">להקה</span>
 הִתְאַחֲדוּ אַנְשֵׁי אֱמֶת חַכְמֵּי חֲרָשִׁים
 הִשָׁבְעוּ בָּזֶה בַיַיִן הָרֶקַח
@@ -559,7 +559,7 @@ Defeat to the pack of liars!
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <em>Chor</em>.
 Schließt den heil'gen Zirkel dichter,
 Schwört bei diesem goldnen Wein:
@@ -569,7 +569,7 @@ Schwört es bei dem Sternenrichter![foot]The 1803 version ends here.[/foot]
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <em>Chorus</em>
 Close the holy circle tighter,
 Swear by this golden vine:
@@ -580,7 +580,7 @@ Swear it by the judge above the stars!
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 תְּשׁוּעָה מִכַּבְלֵי כַּרְזֵל מֶמְשֶלֶת זָדוֹן
 וְעַל עֶרֶשׁ דְּוָי תִקְוַת אֶמֶת
 חֶסֶד גַּם לְבֶן־בְּלִיַעַל וְאִישׁ הַמָּדוֹן
@@ -593,7 +593,7 @@ Swear it by the judge above the stars!
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Rettung von Tyrannenketten,
 Großmut auch dem Bösewicht,
 Hoffnung auf den Sterbebetten,
@@ -606,7 +606,7 @@ Und die Hölle nicht mehr sein.
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Rescue from the tyrants’ chains,
 Generosity also towards the villain,
 Hope upon the deathbeds,
@@ -620,7 +620,7 @@ And Hell shall be no more.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 <span class="instruction">להקה</span>
 בְּחֶדְוָה וּבְבִטְחָה תָשׁוּב לֵאֱלֹהֵינוּ
 נִשְׁמַּת הָאָדָם, וּמְתוּקָה שְׁנַת הַגְּוִיָה
@@ -630,7 +630,7 @@ And Hell shall be no more.
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <em>Chor</em>.
 Eine heitre Abschiedsstunde!
 Süßen Schlaf im Leichentuch!
@@ -640,7 +640,7 @@ Aus des Totenrichters Munde.
 </td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Chorus
 A serene departing hour!
 Sweet rest in the shroud!

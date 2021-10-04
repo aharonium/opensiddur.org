@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִזְמ֥וֹר לְדָוִ֑ד 
 יְהוָ֥ה רֹ֝עִ֗י לֹ֣א אֶחְסָֽר׃
  בִּנְא֣וֹת דֶּ֭שֶׁא יַרְבִּיצֵ֑נִי
@@ -28,7 +28,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
 
 <td style="vertical-align: top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 A Psalm of David. 
 YHVH is my shepherd;​ I shall not want.[foot]‘My shepherd’ (רֹעִי), <em>ro’i</em>, is connected to the root <em>rea’</em> (רֵעַ) meaning ‘friend, companion.[/foot]&nbsp;<br />
 He makes me lie down in green pastures:​[foot]The root inside <em>yarbitzeni</em> (יַרְבִּיצֵנִי) ‘lie down’ (רבץ) also means ‘to stretch oneself out.’[/foot]&nbsp;<br />

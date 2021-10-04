@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 Arranged and translated by Yosef Naḥmuli, Καθημεριναι Προσευχαι (1885), is a Greek-Hebrew siddur for weekdays and festivals, nusaḥ sefaradi (minhag Corfu). The Greek translation offers, we believe, the first rabbinic Jewish translation of texts from the Hebrew Bible otherwise only available in the Septuagint. 
 
 Making digital images of these works available is the first step in our process of making the entire prayerbook, both Hebrew liturgy and Greek translation, machine-readable (copy-pastable and searchable). We are grateful to the Klau Library of Hebrew Union College of making this Public Domain work available to us for digitization from their copy on microfilm.
@@ -23,100 +23,100 @@ Please join our transcription and proofreading of this siddur taking place on <a
 <thead><tr><th id="x" style="text-align: left;">Source (Greek)</th><th style="text-align: left;"><a href="https://opensiddur.org/contributing/upload/">Contribute a translation</a></th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="greek"><span lang="el">
+<div class="greek" lang="el">
 Ὑψηλότατε!
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="greek"><span lang="el">
+<div class="greek" lang="el">
 Κατὰ τὴν χαρμόσυνον ἡμέραν τῶν γενεθλίων τῆς Ὑμετέρας Ὑψηλότητος, καθ’ ἣν ὁ Παντοδύναμος ἐξεπλήρου τὰς εὐχὰς τόσον ἑκατομμυρίων ψυχῶν, ἐτελειοποιεῖτο ἡ ἐκτύπωσις πονηματίου μου ἐπιγραφομένου Ἑβδομὰς τῶν παίδων, ὅπερ σὺν τοῖς ἄλλοις περιεῖχε σύντομον ἱστορίαν τοῦ Ἑλληνικοῦ ἔθνους μέχρι τῶν αἰσίων Γάμων τῶν Σεπτῶν Βασιλέων καὶ Ὑμῶν Γονέων.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="greek"><span lang="el">
+<div class="greek" lang="el">
 Τὸ σπουδαῖον διὰ τὸν Ἑλληνισμὸν τοῦτο συμβὰν, κατεχώρισα, ὡς εἰκὸς, ἐν τῷ πονηματίῳ μου ἐκείνῳ, ὅπερ καὶ ἀφιέρωσα τῇ Ὑμετέρᾳ Ὑψηλότητι, προηγουμένης ἀδείας τῶν Σεπτῶν Βασιλέων, οἵτινες, καί τοι εὐτελεστάτου τοῦ ἔργου μου, οὐχ ἧττον εὐμενῶς ἀπεδέχθησαν αὐτὸ, ἀποβλέποντες εἰς τὸ ὑπ’ αὐτοῦ ἐμπνεόμενον αἴσθημα τῆς ἀγάπης καὶ ἀφοσιώσεως πρός τε τὴν πατρίδα καὶ τὴν Βασιλικὴν Οἰκογένειαν.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="greek"><span lang="el">
+<div class="greek" lang="el">
 Ἀκολουθῶν δὲ νὰ καταγίνωμαι ὅπως, κατὰ τὰς ἀσθενεῖς μου δυνάμεις, διαδίδω μεταξὺ τῶν ὁμοθρήσκων μου τὴν γνῶσιν τῆς ἡδυφώνου τῶν Ἑλλήνων γλώσσης, τοῦ κυριωτέρου τούτου στοιχείου τῆς Ἐθνότητος, ἐπεχείρισα τὴν ἑλληνικὴν μετάφρασιν τῶν Ἰσραηλιτικῶν Καθημερινῶν Προσευχῶν, ἃς καὶ ἐξετύπωσα μετὰ τοῦ ἑβραϊκοῦ κειμένου.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="greek"><span lang="el">
+<div class="greek" lang="el">
 Τὸ πόνημα τοῦτο εἰς Ὑμᾶς, Ὑψηλότατε, ὅστις θείᾳ συνάρσει, μετὰ τὴν πολυχρόνιον καὶ ἔνδοξον Βασιλείαν τοῦ Σ. Ὑμῶν Πατρὸς καὶ δημοφιλοῦς Βασιλέως ἡμῶν ΓΕΩΡΓΙΟΥ τοῦ Α΄, ὀφείλετε νὰ ἀναβῆτε τὸν Ἑλληνικὸν Θρόνον, εἰς Ὑμᾶς, λαβὼν τὴν Ἀνωτέραν ἄδειαν, ἀνατίθημι, ἐπανορθόνων οὕτω κατά τι τὸ εὐτελὲς τοῦ πρώτου Ὑμῖν ἀφιερωθέντος πονηματίου μου.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="greek"><span lang="el">
+<div class="greek" lang="el">
 Ἱκετεύω ἑπομένως τὴν Ὑμετέραν Υψηλότητα, ἵνα εὐδοκήσῃ ν’ ἀποδεχθῇ αὐτὸ εὐμενῶς.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="greek"><span lang="el">
+<div class="greek" lang="el">
 Τῆς Ὑμετέρας Ὑψηλότητος
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="greek"><span lang="el">
+<div class="greek" lang="el">
 Εὐπειθέστατος
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="greek"><span lang="el">
+<div class="greek" lang="el">
 Ἰωσὴφ Ναχαμούλης
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Yosef Naḥmuli
 </div></td></tr>
 </tbody></table>

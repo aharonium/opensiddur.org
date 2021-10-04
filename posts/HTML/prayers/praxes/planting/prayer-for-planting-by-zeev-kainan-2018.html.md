@@ -12,7 +12,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רִבּוֹן עוֹלָמִים 
 וֶאֱלֹהֵי שָׁמַיִם וָאָרֶץ,
 אֲשֶׁר הִבְטַחְתָּנוּ 
@@ -24,7 +24,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 כַּכָּתוּב: ”וַיִּטַּע אֶשֶׁל בִּבְאֵר שָׁבַע.“ <span class="citation">(בראשית כא:לג חלק)</span>
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Master of worlds 
 and <em>elo'ah</em> of Heaven and Earth
 that has promised us:
@@ -38,7 +38,7 @@ as it is written “And he planted a tamarisk in Be’er Shava.”[foot]Genesis 
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרֵךְ אֶת נְטִיעוֹתֵינוּ 
 וְהַעֲמֵק שָׁרְשֵׁיהֶן
 כְּדִבְרֵי נְבִיאֵיךָ: 
@@ -48,7 +48,7 @@ as it is written “And he planted a tamarisk in Be’er Shava.”[foot]Genesis 
 גִּשְׁמֵי בְרָכָה יִהְיוּ.“ <span class="citation">(יחזקאל לד:כו חלק)</span>
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 May you bless our plantings 
 and deepen their roots, 
 as your prophet said:
@@ -60,14 +60,14 @@ there shall be showers of blessing.”[foot]Ezekiel 34:26 partial[/foot]
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וִיהִי רָצוֹן שֶׁיִּתְקַיֵּם בָּנוּ, 
 בְּבָנֵינוּ וּבְנוֹתֵינוּ מִקְרָא שֶׁכָּתוּב:
 ”וְשַׂשְׂתִּי עֲלֵיהֶם לְהֵטִיב אוֹתָם 
 וּנְטַעְתִּים בָּאָרֶץ הַזֹּאת בֶּאֱמֶת.“ <span class="citation">(ירמיהו לב:מא חלק)</span>
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 And may it be your will that you will cause this to occur
 for our sons and daughters, as the Scripture says:
 “I will rejoice over them to do them good, 
@@ -76,14 +76,14 @@ and I will plant them in this land in truth.”[foot]Jeremiah 32:41 partial[/foo
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַנּוֹטְעִים בְּרִנָּה – בְּגִילָה יִבְצֹרוּ!
 וּתְנֵנוּ בִּמְהֵרָה בְּיָמֵינוּ 
 אִישׁ תַּחַת גַּפְנוֹ וְתַחַת תְּאֵנָתוֹ, 
 וְנֹאמַר אָמֵן.
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Those who sow in joy, may they harvest in happiness!
 And may you place, quickly in our day, 
 everyone under their vine and under their fig tree. 

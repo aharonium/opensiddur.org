@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 אבינו שבשמים, אדון כל המעשים, רבון כל העולמים
 רחם על כל אלה הסובלים מן המים הגועשים, והגלים הרועשים
 חמול על מעשיך -- 
@@ -19,7 +19,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 האזינה אלוהים ושמע צעקתם.
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Ruler of Creation, Master of the world:
 Have mercy on all those who are suffering from the raging waters and the storming waves.
 Have compassion on Your creatures – 
@@ -30,13 +30,13 @@ Listen, God, and hear their cries.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 חזק את ידי המצילים, 
 נחם את האבלים, 
 רפא נא לפצועים.
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Strengthen the hands of those who would bring relief, 
 comfort the mourners,
 Heal, please, the wounded.
@@ -45,7 +45,7 @@ Heal, please, the wounded.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 חָננו בינה והשכל לידע את חובותינו, 
 ופתח את לבינו 
 למען נושיט יד אל הנדכּאים.
@@ -53,7 +53,7 @@ Heal, please, the wounded.
 רחמנים בני רחמנים.
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Grant us wisdom and discernment to know our obligations,
 and open our hearts 
 so that we may extend our hands to the devastated.
@@ -64,17 +64,17 @@ Bless us so that we may walk in Your ways,
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 תן בנו אומץ וחכמה 
 למען נמנע אסון ומות.
 מנע מגיפה בעולמיך, 
 וקיים מאמריך
-<span class="scribe" style="font-size : x-large;">וְלֹא־יִהְיֶה עוֺד מַבּוּל לְשַׁחֵת הָאָרֶץ</span>
+<span class="scribe" lang="he" style="font-size : x-large;">וְלֹא־יִהְיֶה עוֺד מַבּוּל לְשַׁחֵת הָאָרֶץ</span>
 אמן. כן יהי רצון.‏
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Grant us the will and the wisdom 
 to prevent further disaster and death;
 Prevent plague from descending upon Your earth, 
@@ -85,7 +85,7 @@ Amen. So may it be your will.
 </tr>
 </tbody></table>
 
-<div class="english">
+<div class="english" lang="en">
 Avinu SheBaShamayim, Adon Kol HaMa'asim, Ribon Kol HaOlamim,
 Racheim Al Kol Eileh HaSovlim Min HaMayim HaGo'ashim VeHeGalim HaRo'ashim.
 Chamol al Ma'asekha – Habitah Adonai, URe'ei Tzaratam;

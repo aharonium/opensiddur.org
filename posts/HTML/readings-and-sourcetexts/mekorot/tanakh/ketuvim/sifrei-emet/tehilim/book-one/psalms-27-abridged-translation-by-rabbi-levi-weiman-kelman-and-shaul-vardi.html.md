@@ -11,29 +11,29 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">Throughout Elul and the Holidays of Tishrei</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לְדָוִד 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 &nbsp;
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יהוה אוֹרִי וְיִשְׁעִי, 
 מִמִּי אִירָא, 
 יהוה מָעוֹז חַיָי 
@@ -41,7 +41,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 YHVH is my light and my help; 
 whom shall I fear.
 YHVH is the stronghold of my life; 
@@ -50,7 +50,7 @@ whom should I dread?
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בִּקְרֹב עָלַי מְרֵעִים לֶאֱכֹל אֶת בְּשָׂרִי, 
 צָרַי וְאֹיְבַי לִי, 
 הֵמָּה כָשְׁלוּ וְנָפָלוּ׃ 
@@ -61,7 +61,7 @@ whom should I dread?
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 When evildoers draw near to devour me, 
 foes threaten
 Yet they stumble and fall. 
@@ -73,7 +73,7 @@ but in this I am sure.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אַחַת שָׁאַלְתִּי מֵאֵת יהוה 
 אוֹתָהּ אֲבַקֵּשׁ, 
 שִׁבְתִּי בְּבֵית יהוה 
@@ -83,7 +83,7 @@ but in this I am sure.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 One thing I ask of YHVH, 
 I seek this:
 To live in the house of YHVH 
@@ -94,14 +94,14 @@ to visit God’s sanctuary.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כִּי יִצְפְּנֵנִי בְּסֻכֹּה בְּיוֹם רָעָה, 
 יַסְתִּרֵנִי בְּסֵתֶר אָהֳלוֹ בְּצוּר יְרוֹמְמֵנִי׃ 
 וְעַתָּה יָרוּם רֹאשִׁי עַל אֹיְבַי סְבִיבוֹתַי, 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 God will shelter me on the bad day, protected in God’s tents
 Or raised on God’s rock. 
 Now God will raise my head over my enemies;
@@ -109,7 +109,7 @@ Now God will raise my head over my enemies;
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְאֶזְבְּחָה בְאָהֳלוֹ זִבְחֵי תְרוּעָה, 
 אָשִׁירָה וַאֲזַמְּרָה לַיהוה׃
 שְׁמַע יהוה קוֹלִי אֶקְרָא, 
@@ -124,7 +124,7 @@ Now God will raise my head over my enemies;
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 I will bring offerings, 
 shouting, singing to YHVH.
 Hear, O YHVH, when I cry out; 
@@ -140,7 +140,7 @@ Don’t abandon me! God, my deliverer!
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כִּי אָבִי וְאִמִּי עֲזָבוּנִי 
 וַיהוה יַאַסְפֵנִי׃ 
 הוֹרֵנִי יהוה 
@@ -155,7 +155,7 @@ Don’t abandon me! God, my deliverer!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Though my father and mother have abandoned me, 
 YHVH gathers me in:
 Teach me Your way. 

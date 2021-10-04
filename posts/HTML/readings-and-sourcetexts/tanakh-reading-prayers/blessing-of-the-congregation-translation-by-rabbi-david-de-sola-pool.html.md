@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִי שֶׁבֵּרַךְ אֲבוֹתֵֽינוּ. 
 אַבְרָהָם יִצְחָק וְיַֽעֲקֹב. 
 מֹשֶׁה וְאַֽהֲרֹן. 
@@ -26,7 +26,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 He who blessed our fathers, 
 Abraham, Isaac and Jacob, 
 Moses and Aaron, 
@@ -42,7 +42,7 @@ and all who belong to them.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מַלְּכָּא דְעָֽלְמָא הוּא יְבָרֵךְ יָֽתְכוֹן. 
 וִֽיזַכֶּה יָֽתְכוֹן. 
 וְיִשְׁמַע בְּקָל צְלֽוֹתְכוֹן. 
@@ -61,7 +61,7 @@ and all who belong to them.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May the Ruler of the universe bless you, 
 grant you merit, 
 and hearken to your voice of prayer. 

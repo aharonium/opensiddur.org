@@ -11,18 +11,18 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">for the Sabbath before Labor Day</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְהָיָה בַיּוֹם הַהוּא 
 וְנִתְּנָה בְךָ בֶּן־אָדָם 
 רֽוּחַ חֲדָשָׁה. וְהִרְגַּשְׁתָּ רֶֽגֶשׁ חָדָשׁ 
@@ -32,7 +32,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 In the day that is to come, 
 you will be given, O man, 
 a new spirit, and be stirred by new feelings, 
@@ -43,31 +43,31 @@ but a hunger and thirst for work.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּמָצָֽאתָ עֹֽנֶג בְּכׇל־עֲבוֹדָה אֲשֶׁר תַּעֲבֹד׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And you will take pleasure in all the work that you do.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְשַׂמְתָּ לֵב לַעֲבֹד כׇּל־עֲבוֹדָה וְכׇל־מַעֲשֶׂה בְּתוֹךְ הַטֶּֽבַע. 
 בְּתוֹךְ הָעֲבוֹדָה הָעוֹלָמִית בְּתוֹךְ הַחַיִּים הָעוֹלָמִיִּים וְהַמֶרְחָב הָעוֹלָמִי׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 You will give heed to do all your work as part of nature, 
 as part of the work of the universe and its expansiveness.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְהָיָה בַעֲמָדְךָ רְֶגַע 
 לְיַשֵּׁר אֶת־קוֹמָתְךָ 
 וְלִשְׁאֹף רֽוּחַ 
@@ -78,7 +78,7 @@ as part of the work of the universe and its expansiveness.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And when you pause for a moment 
 to straighten your back, 
 and to take a deep breath, 
@@ -90,18 +90,18 @@ and add life and light to your spirit.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְהָיֹה יִהְיוּ לְךָ רְגָעִים אֲשֶׁר כְּמוֹ תִּתְמוֹגֵג כֻּלְךָ בְּתוֹךְ הָאֵין־סוֹף׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 You will have moments when your whole being seems to dissolve into the Infinite.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָז תֵּאָלֵם דּוּמִיָּה. 
 לֹא רַק הַדִּבּוּר כִּי גַם הַשִׁירָה 
 תִּהְיֶה בְעֵינֶֽיךָ כְּחִלּוּל הַקֹּֽודֶשׁ וְאַף גַּם הַמַּחְשָׁבָה. 
@@ -111,7 +111,7 @@ You will have moments when your whole being seems to dissolve into the Infinite.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 At such times you will be too overcome to speak. 
 Not only speech but even song, 
 yea, even thought, will seem sacrilege. 
@@ -122,20 +122,20 @@ and you will labor with strength, with vigor and with joy.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְשָׁמַעְתָּ בַּת־קוֹל יוֹצֵאת מִתּוֹךְ עֲבוֹדָתְךָ 
 וְאוֹמֶֽרֶת. עִבְדוּ בְּנֵי־אָדָם כֻּלְכֶם עֲבֹֽדוּ׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And out of your work a divine voice will speak to you 
 saying: ‘Work, men: every one of you, work!’
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְיָדַעְתָּ אָז וַהֲשִׁיבוֹתָ אֶל־לְבָבֶֽךָ 
 כִּי יֵשׁ בַּעֲבוֹדָה אוֹצַר־רֽוּחַ כָּזֶה 
 אֲשֶׁר אַתָּה רוֹאֶה רַק אֶֽפֶס קָצֵֽהוּ 
@@ -143,7 +143,7 @@ saying: ‘Work, men: every one of you, work!’
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Then you will know and take to heart 
 that in work there is so vast a spiritual treasure 
 that you can glimpse but a minute part of it, 
@@ -152,7 +152,7 @@ but a single corner of it.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְאַחֲרֵי הַבַּת־קוֹל הַטֶּֽבַע עוֹנֶה אָמֵן. 
 לֵאמֹר. עִבְדוּ בְּנֵי־אָדָם. 
 אַל תִּקְטַן עֲבוֹדַתְכֶם בְּעֵינֵיכֶם 
@@ -163,7 +163,7 @@ but a single corner of it.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And to that divine voice all Nature responds, ‘Amen,’ 
 as if to say: ‘Work, man, 
 let not work appear trivial to you. 

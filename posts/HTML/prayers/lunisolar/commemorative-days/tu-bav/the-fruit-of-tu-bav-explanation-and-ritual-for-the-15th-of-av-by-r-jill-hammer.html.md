@@ -9,7 +9,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 [caption id="attachment_3606" align="aligncenter" width="1024" caption="Image: Grape Dance by Mark and Allegra (License: CC-BY 2.0)"]<a href="https://secure.flickr.com/photos/a_big_big_world/4065205494/"><img src="https://opensiddur.org/wp-content/uploads/2011/08/Grape-Dance-by-Mark-and-Allegra-cc-by-2.0.jpg" alt="" title="Grape Dance by Mark and Allegra (cc-by 2.0)" width="1024" height="768" class="size-full wp-image-3606" /></a>[/caption]
 
-<div class="english">
+<div class="english" lang="en">
 “They shall build houses and dwell in them, they shall plant vineyards and enjoy their fruits...
 and like the days of a tree shall be the days of my people...”
 —Isaiah 65:21-22

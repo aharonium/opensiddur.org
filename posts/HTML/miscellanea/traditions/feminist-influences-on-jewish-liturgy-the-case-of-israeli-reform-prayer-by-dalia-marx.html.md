@@ -17,25 +17,25 @@ This paper is based upon the assumption that the Israeli case is a distinct one 
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he" >
+<div class="liturgy" lang="he">
 השפעות הפמיניזם על תפילות ישראל: 
 המקרה של התפילה הרפורמית הישראלית
 דליה מרקס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Feminist Influences on Jewish Liturgy: 
 The Case of Israeli Reform Prayer 
 Dalia Marx 
 Hebrew Union College in Jerusalem, Israel
 </tr><tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he" >
+<div class="liturgy" lang="he">
 שאלות הקשורות במגדר ובמקומן של הנשים בתפילה הן מהשאלות המרתקות ביותר הקשורות בתפילות ישראל בימינו. מאמר זה דן באתגרים המיוחדים הקשורים בהתמודדות עם שאלות מגדר בליטורגיה הרפורמית הישראלית. יידונו בו העניינים הבאים: התייחסות מפורשת אל המתפללות בקהילה, הוספה של דמויות נשיות לצד דמויות גבריות בתפילה, חידוש טקסים ישנים ויצירת טקסי חיים חדשים והתמודדות עם דרכי הפניה לאל ועם המטאפורות שלו, שרבות מהן הן בעלות אופי מגדרי זכרי. 
 המאמר מגדיר את המגבלות ואת האופקים של ההתמודדויות עם השאלות המגדריות בתפילה הישראלית, שהיא שפה מגדרית ביותר ואשר בה שפת המדינה היא גם שפת התפילה.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Gender related issues have been discussed in liberal Judaism in North America since the seventies and are probably the most heated topic in contemporary Jewish liturgy and worship. This article discusses the unique challenges of gender language in Israeli Reform liturgy over the last two decades: inclusive language when referring to the congregation; adding representative female characters; reclaiming and adapting old rituals; creating new rituals; gender-balanced metaphors for God. Arguably the greatest challenge is altering the pronounced gender specification of the Hebrew language. The article delineates the parameters of gender language in Israeli liturgy, where the vernacular is both the Holy language and the language of the prayer. 
 </tr>
 </tbody></table>

@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מי שברך אבות־אבותינו, 
 אדם וחוה, נח ומשפחתו, 
 הוא יברך וירפא את החולים במגפה 
@@ -24,7 +24,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May the one who blessed our distant ancestors, 
 Adam and Ḥava, Noaḥ and his family, 
 bless ‎and heal those stricken with the coronavirus and the plague 
@@ -38,7 +38,7 @@ together with all who are ill.‎
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מקור החיים, 
 סייע ותמוך בשוהים בבידוד 
 ובמשפחות החולים.
@@ -53,7 +53,7 @@ together with all who are ill.‎
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Source of life, 
 aid those who are quarantine, 
 and the families of the sick. 
@@ -69,7 +69,7 @@ communities and nations. ‎
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מי יתן ובעת הזו 
 יתאחדו מנהיגי העולם ותושביו לטובה, 
 ויהי אחרי המגפה, 
@@ -80,7 +80,7 @@ communities and nations. ‎
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Grant that world leaders and the residents of all nations 
 come together at this time for the ‎good of all, 
 and after the plague has passed 

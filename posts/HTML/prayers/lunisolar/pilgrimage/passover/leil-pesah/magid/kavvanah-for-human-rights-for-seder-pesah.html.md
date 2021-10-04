@@ -11,100 +11,100 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;"><a href="/contribute/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="66%">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">Invite people at your table to think of an action they will do to protect the human rights for all. Read aloud [the following Kavvanah]</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 We are hereby ready to fulfill our obligation of <em>Kavod Habriyot</em>, respect for the dignity of every human being. We pray that our fellow citizens shall not be the source of suffering in others. We commit ourselves to raise our voices in support of universal human rights, to know the heart of the stranger, and to feel compassion for those whose humanity is denied. May our compassion lead us to fight for justice.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Blessed is the Source of Life, who redeemed our ancestors from Egypt and brought us together this night of Passover to tell the story of freedom. May God bring us security and peace, enabling us to celebrate together year after year. Praised are you, Source of Righteousness, who redeems the world and loves justice and freedom.[foot]From the 2008 Rabbis for Human Rights Pesaḥ Seder Supplement.[/foot]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 On Pesach, we celebrate the journey of the Jewish people from slavery to freedom. But slavery is not just in the past. Today, more than 27 million people live as slaves, more than any other period in human history. Slavery is all around us, in our communities and in the products we buy. Jewish tradition implores us to protect the stranger, because we were strangers in the land of Egypt. We have an obligation as Jews to hear the voices of some of the most oppressed members of our society.[foot]From the RHR-NA 2011 Seder Supplement.[/foot]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">Four Questions (for Discussion)</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 How much freedom would you be willing to give up to ensure your own security or that of your family?
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Pharaoh justified the enslavement of the Israelites partly because of the fear that they would join with Egypt’s enemies in some way. Should the United States be allowed to curtail the freedom of its citizens in order to achieve security?
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 The Torah commands us to feel compassion for the stranger. What concrete actions should come out of this compassion?
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 What is your personal “Dayenu” question for the year? How can you challenge yourself to do more for human rights?
 </div></td></tr>
 </tbody></table>

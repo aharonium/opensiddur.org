@@ -11,40 +11,40 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Hebrew (source)</th><th style="text-align: left;">English (translation)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ”נַפְשִׁי בִּשְׁאֵלָתִי 
 וְעַמִּי בְּבַקָּשָׁתִי“ <span class="citation">(אסתר ז:ג)</span>
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 "Let my life be given to me at my petition 
 and my people at my request."[foot]Esther 7:3[/foot]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ”הַצִּילָה מֵחֶרֶב 
 נַפְשִׁי מִיַּד כֶּלֶב יְחִידָתִי,“ <span class="citation">(תהלים כב:כא)</span>
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 "Deliver my soul from the sword, 
 my spirit from the power of the dog."[foot]Psalms 22:21[/foot]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ”אַל תְּעַר נַפְשִׁי“ <span class="citation">(תהלים קמא:ח)</span>
 כִּי בְּךָ חָסִיתִי 
 כִּי אַתָּה תִקְוָתִי וְאַתָּה אֱיָלוּתִי 
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 "Don't cast off my soul,"[foot]Psalms 141:8[/foot] 
 for I've put my trust in you, 
 for you are my hope and you are my strength. 
@@ -52,14 +52,14 @@ for you are my hope and you are my strength.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ”שָׁמְרָה נַפְשִׁי וְהַצִּילֵנִי 
 אַל אֵבוֹשׁ כִּי חָסִיתִי בָךְ 
 חוּשָׁה לְעֶזְרָתִי ה׳ תְּשׁוּעָתִי“ <span class="citation">(תהלים כה:כ)</span>
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 "Guard my soul and save me. 
 I will not be ashamed, for I've put my trust in you. 
 Hurry to my aid, YHVH, my salvation!"[foot]Psalms 25:20[/foot]
@@ -67,7 +67,7 @@ Hurry to my aid, YHVH, my salvation!"[foot]Psalms 25:20[/foot]
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 תִּיקַר נָא נַפְשִׁי בְּעֵינֶיךָ 
 ה׳ אֱלֹהַי וֵאלֹהֵי אֲבוֹתַי 
 יְגוֹלָלוּ רַחֲמֶיךָ עַל מִדּוֹתֶיךָ, 
@@ -82,7 +82,7 @@ Hurry to my aid, YHVH, my salvation!"[foot]Psalms 25:20[/foot]
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Please, let my soul be precious in your eyes, 
 YHVH my <em>elo'ah</em> and <em>elo'ah</em> of my fathers. 
 Let your compassion prevail over your attribute of justice. 
@@ -98,7 +98,7 @@ My soul is so very oppressed.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מָלֵא רַחֲמִים, 
 מָלֵא רַחֲמִים, רוֹאֶה בְּעֶלְבּוֹן עֲלוּבִים, 
 הַבִּיטָה נָא וּרְאֵה ”דִּמְעַת הָעֲשֻׁקִים“ הַצּוֹעֲקִים וּבוֹכִים וְנֶאֱנָקִים וְנֶאֱנָחִים, 
@@ -111,7 +111,7 @@ My soul is so very oppressed.
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Merciful One! 
 Merciful One who sees the shame of the humiliated,
 please look and see "the tears of the oppressed"[foot]Ecclesiastes 4:1 partial[/foot] who scream out, weep, cry and sigh, 
@@ -125,7 +125,7 @@ and don't close your eyes to their tears!
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רִבּוֹנוֹ שֶׁל עוֹלָם 
 ”אֵלֶיךָ ה׳“ <span class="citation">(תהלים ל:ט חלק)</span>
 ”נַפְשִׁי אֶשָּׂא פֵּרַשְׂתִּי יָדַי אֵלֶיךָ 
@@ -148,7 +148,7 @@ and don't close your eyes to their tears!
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Master of the Cosmos, 
 to you YHVH,[foot]Psalms 30:9 partial[/foot] 
 "I lift up my soul; I spread out my hands to you. 
@@ -172,7 +172,7 @@ and I will observe your precepts."[foot]Psalms 119:134[/foot]
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָנָּא ה׳ מַלְּטָה נַפְשִׁי מִכׇּל תַּאֲוֹת הַגּוּף וּמִדּוֹתָיו הָרָעִים 
 עֲזֹר וְהוֹשִׁיעָה בְּרַחֲמֶיךָ הָרַבִּים 
 בְּרַחֲמֶיךָ הָאֲמִתִּיִּים 
@@ -196,7 +196,7 @@ and I will observe your precepts."[foot]Psalms 119:134[/foot]
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Please, YHVH, save my soul from all bodily cravings and evil traits. 
 Great Compassionate One, help and save 
 with your genuine compassion 
@@ -221,7 +221,7 @@ to the radiant wisdom of the holy soul.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְתֵן חֶלְקִי בְּתוֹרָתֶךָ, 
 וְאֶזְכֶּה לִלְמֹד וְלַהֲגוֹת בְּתוֹרָתְךָ 
 וּבַעֲבוֹדָתְךָ יוֹמָם וָלָיְלָה 
@@ -233,7 +233,7 @@ to the radiant wisdom of the holy soul.
  </span></div></td>
 
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Give me my portion in your Torah. 
 Let me learn and meditate on your Torah 
 and devote myself to your service day and night. 
@@ -246,7 +246,7 @@ and attach my heart to your mitsvot.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְתַפְרִישֵׁנִי וְתַבְדִּילֵנִי מִן הַתּוֹעִים בְּחָכְמוֹת חִיצוֹנִיּוֹת 
 וְתָגֵן בַּעֲדִי וּבְעַד זַרְעִי תָמִיד, וּבְעַד כׇּל עַמְּךָ בֵּית יִשְׂרָאֵל, 
 שֶׁלֹּא נַעֲסֹק לְעוֹלָם בְּשׁוּם חָכְמָה חִיצוֹנָה כְלָל 
@@ -260,7 +260,7 @@ and attach my heart to your mitsvot.
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Keep me well away from those who have strayed into the realm of extraneous wisdom. 
 Protect me, my children and descendants and all the house of Yisra'el from pursuing such ideas. 
 Let us never involve ourselves with any extraneous wisdom at all, 
@@ -275,7 +275,7 @@ such ideas have the power to trap precious souls in their net.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֲשֶׁר בֶּאֱמֶת כׇּל חָכְמוֹתֵיהֶם הַחִיצוֹנִיּוֹת הֵם רַק כְּסִילוּת וְסִכְלוּת וּשְׁטוּת וָהֶבֶל 
 גָּמוּר בֶּאֱמֶת וְנִמְשָׁכִים רַק מִכְּסִילוּת וְחֶשְׁכַת חָמְרִיּוּת הַגּוּף, 
 וּמִתַּאֲוֹתֵיהֶם וּמִדּוֹתֵיהֶם הָרָעוֹת 
@@ -288,7 +288,7 @@ such ideas have the power to trap precious souls in their net.
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 The truth is that all their ideas are sheer folly, stupidity, nonsense and emptiness. 
 They are rooted in the folly and darkness of the physicality of their bodies 
 and their evil desires and traits. 
@@ -302,7 +302,7 @@ ending up with the false and foolish theories they espouse.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רִבּוֹנוֹ שֶׁל עוֹלָם 
 רַחֵם עָלֵינוּ וְעַל זַרְעֵנוּ וְעַל פְּלֵטָתֵנוּ, 
 אֲשֶׁר נִשְׁאַרְנוּ כַּתֹּרֶן בְּרֹאשׁ הָהָר 
@@ -312,7 +312,7 @@ ending up with the false and foolish theories they espouse.
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Master of the Cosmos, 
 have pity on us and on our children and our remnant. 
 We're left like a solitary mast on top of a mountain 
@@ -323,7 +323,7 @@ Save us! Save us!
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְהוֹשִׁיעָה וּמַלֵּט אוֹתָנוּ וְאֶת זַרְעֵינוּ בְּרַחֲמֶיךָ הָרַבִּים 
 מִכׇּל מִינֵי חָכְמוֹת חִיצוֹנִיּוֹת 
 שֶׁלֹּא יִהְיֶה לָנוּ שׁוּם חֵלֶק וְעֵסֶק בָּהֶם 
@@ -339,7 +339,7 @@ Save us! Save us!
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Great Compassionate One, rescue us and our children 
 from all outside wisdom. 
 Don't let us involve ourselves in them in any way. 
@@ -356,7 +356,7 @@ the testimony of YHVH is faithful, making wise the simple."[foot]Psalms 19:8[/fo
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 חוּס וַחֲמֹל עָלֵינוּ 
 יֶהֱמוּ נָא מֵעֶיךָ עַל בָּנֶיךָ צֹאן מַרְעִיתֶךָ, 
 וּשְׁמר אוֹתָנוּ בְּעֵת צָרָה הַזּאת בְּעִקְּבוֹת מְשִׁיחָא, 
@@ -379,7 +379,7 @@ the testimony of YHVH is faithful, making wise the simple."[foot]Psalms 19:8[/fo
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Have mercy on us. 
 Stir up your compassion for your children, the flock you have pastured. 
 Guard us at this time of trouble on the threshold of Moshiaḥ. 
@@ -403,7 +403,7 @@ or be mentioned by name any more.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּתְרַחֵם עַל עַמְּךָ יִשְׂרָאֵל 
 וְתַעֲלֶה וּתְנַשֵּׂא וּתְרוֹמֵם וּתְגַלֶּה וְתָאִיר חָכְמַת הַתּוֹרָה הַקְּדוֹשָׁה בָּעוֹלָם 
 וְנָשׁוּב כֻּלָּנוּ לְתוֹרָתְךָ וְלַעֲבוֹדָתְךָ 
@@ -428,7 +428,7 @@ or be mentioned by name any more.
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Have mercy on your people Yisra'el. 
 Raise up, elevate, exalt, reveal and radiate the wisdom of the holy Torah throughout the world. 
 Let us all come back to your Torah and your service 
@@ -454,7 +454,7 @@ and genuinely serve and fear you with all their hearts and souls.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָנָּא ה׳ רַחֲמָן מָלֵא רַחֲמִים, 
 חוּסָה עַל נַפְשִׁי הָאֻמְלָלָה מְאֹד 
 וֶהְיֵה בְעֶזְרִי תָמִיד וְחַזֵּק וְאַמֵּץ אֶת נַפְשִׁי 
@@ -470,7 +470,7 @@ and genuinely serve and fear you with all their hearts and souls.
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Please, Merciful YHVH full of compassion,   
 take pity on my crushed soul 
 and help me strengthen and fortify my soul at all times. 
@@ -487,7 +487,7 @@ so as to release my soul from all the evil traits and cravings
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּבְרַחֲמֶיךָ הָרַבִּים 
 תּוֹצִיאֵנִי וְתַעֲלֵנִי מִבְּחִינַת בְּהֵמָה 
 לִבְחִינַת אָדָם, 
@@ -511,7 +511,7 @@ so as to release my soul from all the evil traits and cravings
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Great Compassionate One,
 lift me from the level of a behemah (domesticated animal)
 to the level of Adam (a human being). 
@@ -536,7 +536,7 @@ Don't let me forget a single word of what I have learned.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְאֶזְכֶּה לִזְכֹּר תָּמִיד הֵיטֵב הֵיטֵב אֶת אַחֲרִיתִי וְסוֹפִי 
 וְלָשׂוּם לִבִּי הֵיטֵב עַל מָה אֲתִינָא לְהַאי עָלְמָא שְׁפָלָה, 
 וּמַה יִּהְיֶה בְּסוֹפִי וְאַחֲרִיתִי, 
@@ -565,7 +565,7 @@ Don't let me forget a single word of what I have learned.
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Let me also constantly remember very well what my ultimate destiny is. 
 Let me keep my attention fixed on the purpose of my coming into this lowly world, 
 and where I am destined to go when I reach the end of my life. 
@@ -595,7 +595,7 @@ on that long road where we don't have even the scantiest provisions.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְעָזְרֵנִי בְּרַחֲמֶיךָ הָרַבִּים 
 שֶׁאֶזְכֶּה לִשְׁכֹּחַ אֶת כׇּל מִינֵי מַחֲשָׁבוֹת זָרוֹת 
 מַחֲשָׁבוֹת חִיצוֹנִיּוֹת וְחָכְמוֹת חִיצוֹנִיּוֹת 
@@ -618,7 +618,7 @@ on that long road where we don't have even the scantiest provisions.
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Great Compassionate One,
 help me forget all the strange thoughts and ideas — 
 extraneous ideas and extraneous wisdom, 
@@ -642,7 +642,7 @@ Let me remember them at all times — in this world and in the world to come.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּבְכֵן יְהִי רָצוֹן מִלְּפָנֶיךָ ה׳ אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֹתֵינוּ, 
 אֱלֹהֵי אַבְרָהָם אֱלֹהֵי יִצְחָק וֵאלֹהֵי יַעֲקב, 
 וֵאלֹהֵי כׇל הַצַּדִּיקִים הָאֲמִתִּיִּים רִאשׁוֹנִים וְאַחֲרוֹנִים, 
@@ -662,7 +662,7 @@ Let me remember them at all times — in this world and in the world to come.
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May it be your will YHVH our <em>elo'ah</em> and <em>elo'ah</em> of our fathers, 
 elo'ah of Avraham, Yitsḥak and Yaakov, 
 elo'ah of all the true Tsaddikim in earlier and later times, 
@@ -683,7 +683,7 @@ and I will act according to your will.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְתַעַזְרֵנִי שֶׁלֹּא אֲבַלְבֵּל דַּעְתִּי הַרְבֵּה בְּעִנְיָן זֶה, 
 רַק אֶזְכֶּה תָמִיד לְעֵצָה שְׁלֵמָה מְהֵרָה 
 וְתַשְׁפִּיעַ לִי עֵצָה טוֹבָה מֵאִתְּךָ כִּרְצוֹנְךָ הַטּוֹב בֶּאֱמֶת 
@@ -701,7 +701,7 @@ and I will act according to your will.
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Don't let me confuse myself excessively about this whole subject. 
 Let me always have a clear idea as to what I should do, 
 and send me sound guidance as to what you truly want. 
@@ -720,7 +720,7 @@ for I've lifted my soul to you."[foot]Psalms 143:8[/foot]
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּבְכֵן יְהִי רָצוֹן מִלְּפָנֶיךָ 
 ה׳ אֱלֹהַי וֵאלֹהֵי אֲבוֹתַי 
 שֶׁתַּעַזְרֵנִי לִתֵּן צְדָקָה הַרְבֵּה לַעֲנִיִּים הֲגוּנִים הַרְבֵּה 
@@ -749,7 +749,7 @@ for I've lifted my soul to you."[foot]Psalms 143:8[/foot]
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And may it be your will, 
 YHVH, my <em>elo'ah</em> and <em>elo'ah</em> of my fathers, 
 that you help me give plenty of tsedakah to many genuinely deserving people. 
@@ -779,7 +779,7 @@ and I will remember the Land."[foot]Leviticus 26:42[/foot]
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְתַעַזְרֵנוּ שֶׁנִּזְכֶּה לְגַדֵּל וּלְהַעֲלוֹת נַפְשֵׁנוּ לְפָנֶיךָ 
 וְנִזְכֶּה לְקַדֵּשׁ וּלְקַשֵּׁט נַפְשֵׁנוּ בְּאֹפֶן 
 שֶׁתּוּכַל נַפְשֵׁנוּ לַעֲלוֹת לְהַשְּׁכִינָה בִּבְחִינַת מַיִּין נוּקְבִּין 
@@ -791,7 +791,7 @@ and I will remember the Land."[foot]Leviticus 26:42[/foot]
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Help us cultivate our souls and lift them up to you. 
 Let us sanctify and beautify our souls 
 so that they will rise up to the Shekhinah as "female waters," 
@@ -804,7 +804,7 @@ like a fragrant savor, a fire-offering to YHVH.[foot]After Exodus 29:25[/foot]
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּתְזַכֵּנוּ שֶׁתִּהְיֶה אֲכִילָתֵנוּ בִּקְדֻשָּׁה וּבְטָהֳרָה תָמִיד 
 וּבִפְרָט כְּשֶׁאָנוּ אוֹכְלִין דָּבָר מִן הַחַי 
 תַּעַזְרֵנוּ לְהִתְקַדֵּשׁ בְּיוֹתֵר בִּשְׁעַת אֲכִילָתֵנוּ, 
@@ -816,7 +816,7 @@ like a fragrant savor, a fire-offering to YHVH.[foot]After Exodus 29:25[/foot]
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Let me always eat in holiness and purity, 
 especially when eating things derived from living beings. 
 Let me sanctify myself to the utmost degree at mealtimes, 
@@ -829,7 +829,7 @@ for the sake of your great Name.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְתִשְׁמְרֵנוּ וְתַצִּילֵנוּ בְּרַחֲמֶיךָ הָרַבִּים מִמַּאֲכׇלוֹת אֲסוּרוֹת 
 וְלֹא יָבֹא לְתוֹךְ פִּינוּ שׁוּם דָּבָר הָאָסוּר לָנוּ 
 וְלֹא נִכָּשֵׁל לְעוֹלָם בִּנְבֵלוֹת וּטְרֵפוֹת, 
@@ -844,7 +844,7 @@ for the sake of your great Name.
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Great Compassionate One, guard and protect me from forbidden foods. 
 Let nothing that is forbidden ever enter my mouth. 
 Don't let me ever eat an unkosher carcass and torn apart creature, even inadvertently. 
@@ -860,7 +860,7 @@ through eating an unkosher carcass and torn apart creature, Hashem forbid.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְתַעֲזֹר לְהַשּׁוֹחֲטִים שֶׁיְּכַוְּנוּ תָמִיד הֵיטֵב בְּבִרְכַּת הַשְּׁחִיטָה, 
 בְּאֹפֶן שֶׁיִּזְכּוּ לְהַעֲלוֹת הַנֶּפֶשׁ הַמְלֻבָּשׁ בְּהָחַי, 
 מֵחַי לִמְדַבֵּר 
@@ -872,7 +872,7 @@ through eating an unkosher carcass and torn apart creature, Hashem forbid.
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Always help the shoḥtim concentrate carefully on the blessing over sheḥitah 
 so as to elevate the soul contained in the animal 
 from the level of a living creature to that of a speaking human being, 
@@ -885,7 +885,7 @@ without our having to exert ourselves excessively.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָבִינוּ שֶׁבַּשָּׁמַיִם 
 גּוֹמֵל לַחַיָּבִים טוֹבוֹת, 
 גּוֹמֵל חֲסָדִים טוֹבִים, 
@@ -897,7 +897,7 @@ without our having to exert ourselves excessively.
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Father in Heaven, 
 who bestows goodness even on the guilty: 
 bestow your lovingkind goodness.
@@ -910,7 +910,7 @@ that cause whatever [damage] they cause, may the Merciful One save us!
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רִבּוֹנוֹ שֶׁל עוֹלָם 
 רַחֵם עָלֵינוּ לְמַעַן שְׁמֶךָ, 
 וּלְמַעַן שְׁכִינַת עֻזֶּךָ, 
@@ -939,7 +939,7 @@ that cause whatever [damage] they cause, may the Merciful One save us!
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Master of the Cosmos, 
 have mercy on us for your Name's sake, 
 for the sake of your mighty Shekhinah, 
@@ -969,7 +969,7 @@ He will remember his convenant for ever."[foot]Psalms 111:5[/foot]
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְעָזְרֵנוּ בְּרַחֲמֶיךָ הָרַבִּים 
 וְתַזְמִין לָנוּ מְלַמְּדִים טוֹבִים וַהֲגוּנִים לְבָנֵינוּ 
 שֶׁיִּהְיוּ עוֹסְקִים בִּמְלַאכְתָּם בֶּאֱמוּנָה, 
@@ -987,7 +987,7 @@ He will remember his convenant for ever."[foot]Psalms 111:5[/foot]
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Great Compassionate One,
 send us good, respectable teachers for our children. 
 Let them carry out their work faithfully 
@@ -1006,7 +1006,7 @@ in the merit of the innocent breath of the schoolchildren.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּתְזַכֵּנוּ בְרַחֲמֶיךָ הָרַבִּים 
 וּתְקַדְּשֵׁנוּ בִקְדֻשָּׁתְךָ הָעֶלְיוֹנָה, 
 וּתְזַכֵּנוּ לָשׁוּב בִּתְשׁוּבָה שְׁלֵמָה לְפָנֶיךָ בֶאֱמֶת 
@@ -1032,7 +1032,7 @@ in the merit of the innocent breath of the schoolchildren.
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Great Compassionate One,
 sanctify us with your supreme holiness 
 and bring us back to you in perfect repentance 
@@ -1059,7 +1059,7 @@ For your sake help us elevate all those souls to their supreme holy root.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רַחֲמָן מָלֵא רַחֲמִים, 
 חוֹמֵל דַּלִּים, 
 שׁוֹמֵעַ אֶנְקַת אֶבְיוֹנִים, 
@@ -1085,7 +1085,7 @@ For your sake help us elevate all those souls to their supreme holy root.
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Merciful One full of compassion,
 who has mercy on the poor 
 and hears the cry of the needy: 
@@ -1112,7 +1112,7 @@ and elevate my soul to your supreme holiness in perfect truth and faith.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָבִינוּ אָב הָרַחֲמָן 
 חֲמֹל עַל כְּבוֹד הַתּוֹרָה הַקְּדוֹשָׁה שֶׁהִשְׁפַּעְתָּ בָּנוּ 
 כִּי אַתָּה יוֹדֵעַ אֶת עֹצֶם יֹפִי קְדֻשַּׁת הַתּוֹרָה הַיְּקָרָה הַנֶּעְלֶמֶת בָּנוּ 
@@ -1135,7 +1135,7 @@ and elevate my soul to your supreme holiness in perfect truth and faith.
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Father, compassionate Father, 
 have pity on the kavod of the holy Torah you've given us. 
 You know the amazing beauty of the precious Torah hidden within us. 
@@ -1159,7 +1159,7 @@ and with our hands when it's time for us to act.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רִבּוֹנוֹ שֶׁל עוֹלָם 
 חוּסָה עַל נַפְשִׁי הָעֲנִיָּה וְהַדַּלָּה, 
 הָרְעֵבָה וְהַצְּמֵאָה וְהָעֲיֵפָה מְאֹד, 
@@ -1177,7 +1177,7 @@ and with our hands when it's time for us to act.
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Master of the Cosmos, 
 have mercy on my poor, lowly soul 
 which is so very hungry, thirsty and faint. 
@@ -1196,7 +1196,7 @@ in exactly the way you desire.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ”שׁוּבִי נַפְשִׁי לִמְנוּחָיְכִי 
 כִּי ה׳ גָּמַל עָלָיְכִי 
 כִּי חִלַּצְתָּ נַפְשִׁי מִמָּוֶת 
@@ -1220,7 +1220,7 @@ in exactly the way you desire.
 </span></div></td>
 
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 "Return, my soul, to your rest, 
 for YHVH has been kind to you. 
 For you have saved my soul from death, 

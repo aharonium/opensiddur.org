@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 Ḥad Gadya has a place in Seder tables throughout the Jewish world, and in many communities it was read in translation. This translation is in Judezmo, also known as Judeo-Spanish or Ladino. There are a great many Judezmo versions of Ḥad Gadya, corresponding to the great variety of dialects spoken throughout the Sephardi cultural area. This text is expanded version of a version described as "<a href="https://jewishstudies.washington.edu/sephardic-studies/had-gadya-ladino-passover/">a standard</a>" by the University of Washington</a>.[foot]Devin Naar, "Had Gadya in Ladino: A Sephardic Passover Tradition?" 18 April 2016, Stroum Center for Jewish Studies, University of Washington --accessed 15 April 2019.[/foot] It has also been reset in a variation of traditional Hebrew orthography alongside the <a href="https://en.wikipedia.org/wiki/Aki_Yerushalayim">Aki Yerushalayim</a> Latin type used in scholarly analysis. This text, or a variation of it, could be added to any Passover Seder alongside the traditionally Aramaic text. One key note for those unfamiliar with Aki Yerushalayim orthography is that the letter H is pronounced as a hard sound, like modern Hebrew ח or כ. Other than that it's very easy to read for English speakers.
 </div>
 
@@ -17,250 +17,250 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Aramaic (source)</th><th style="text-align: right;">Translation (Judezmo/Ladino)</th><th style="text-align: left;">Romanization (Judezmo/Ladino)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="25%">
-<div class="aramaic" style="text-align: right;"><span lang="he">	 
+<div class="aramaic" lang="jpa" style="text-align: right;">	 
 חַד גַּדְיָא, דְּזַבִּן אַבָּא בִּתְרֵי זוּזֵי.
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="ladino"><span lang="he">
+<div class="ladino" lang="lad">
 און קאבﬞריטיקו קי לו מירקו מי פאדרי פור דוס לבﬞנים, פור דוס לבﬞנים.
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 Un kavritiko, ke lo merko mi padre por dos levanim, por dos levanim.
 </div>
 </td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 One little goat that my father bought for two zuzim, for two zuzim.
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="25%">
-<div class="aramaic" style="text-align: right;"><span lang="he">	 
+<div class="aramaic" lang="jpa" style="text-align: right;">	 
 וְאָתָא שֻׁנְרָא וְאָכְלָה לְגַדְיָא, דְּזַבִּן אַבָּא בִּתְרֵי זוּזֵי.
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="ladino"><span lang="he">
+<div class="ladino" lang="lad">
 אי בﬞינו איל גאטו אי סי קומייו איל קאבﬞריטיקו, קי לו מירקו מי פאדרי פור דוס לבﬞנים, פור דוס לבﬞנים.
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 I vino el gato i se komio el kavritiko, ke lo merko mi padre, por dos levanim, por dos levanim.
 </div>
 </td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 A cat came and ate the goat that my father bought for two zuzim, for two zuzim.
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="25%">
-<div class="aramaic" style="text-align: right;"><span lang="he">	 
+<div class="aramaic" lang="jpa" style="text-align: right;">	 
 וְאָתָא כַּלְבָּא וְנָשַׁךְ לְשֻׁנְרָא, דְּאָכְלָה לְגַדְיָא, דְּזַבִּן אַבָּא בִּתְרֵי זוּזֵי.
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="ladino"><span lang="he">
+<div class="ladino" lang="lad">
 אי בﬞינו איל פירו אי מודרייו איל גאטו, קי סי קומייו איל קאבﬞריטיקו, קי לו מירקו מי פאדרי פור דוס לבﬞנים, פור דוס לבﬞנים.
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 I vino el perro i modryo el gato, ke se komio el kavritiko, ke lo merko mi padre, por dos levanim, por dos levanim.
 </div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 A dog came and bit the cat that ate the goat that my father bought for two zuzim, for two zuzim.
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="25%">
-<div class="aramaic" style="text-align: right;"><span lang="he">	 
+<div class="aramaic" lang="jpa" style="text-align: right;">	 
 וְאָתָא חֻטְרָא וְהִכָּה לְכַלְבָּא, דְּנָשַׁךְ לְשֻׁנְרָא, דְּאָכְלָה לְגַדְיָא, דְּזַבִּן אַבָּא בִּתְרֵי זוּזֵי.
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="ladino"><span lang="he">
+<div class="ladino" lang="lad">
 אי בﬞינו איל פאלו אי אחארבﬞו איל פירו, קי מודרייו איל גאטו, קי סי קומייו איל קאבﬞריטיקו, קי לו מירקו מי פאדרי פור דוס לבﬞנים, פור דוס לבﬞנים.
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 I vino el palo i aharvo el perro, ke modryo el gato, ke se komio el kavritiko, ke lo merko mi padre, por dos levanim, por dos levanim.
 </div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 A stick came and hit the dog that bit the cat that ate the goat that my father bought for two zuzim, for two zuzim.
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="25%">
-<div class="aramaic" style="text-align: right;"><span lang="he">	 
+<div class="aramaic" lang="jpa" style="text-align: right;">	 
 וְאָתָא נוּרָא וְשָׂרַף לְחֻטְרָא, דְּהִכָּה לְכַלְבָּא, דְּנָשַׁךְ לְשֻׁנְרָא, דְּאָכְלָה לְגַדְיָא, דְּזַבִּן אַבָּא בִּתְרֵי זוּזֵי.
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="ladino"><span lang="he">
+<div class="ladino" lang="lad">
 אי בﬞינו איל פﬞואיגו אי קימו איל פאלו, קי אחארבﬞו איל פירו, קי מודרייו איל גאטו, קי סי קומייו איל קאבﬞריטיקו, קי לו מירקו מי פאדרי פור דוס לבﬞנים, פור דוס לבﬞנים.
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 I vino el fuego i kemo el palo, ke aharvo el perro, ke modryo el gato, ke se komio el kavritiko, ke lo merko mi padre, por dos levanim, por dos levanim.
 </div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 A fire came and burned the stick that hit the dog that bit the cat that ate the goat that my father bought for two zuzim, for two zuzim.
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="25%">
-<div class="aramaic" style="text-align: right;"><span lang="he">	 
+<div class="aramaic" lang="jpa" style="text-align: right;">	 
 וְאָתָא מַיָּא וְכָבָה לְנוּרָא, דְּשָׂרַף לְחֻטְרָא, דְּהִכָּה לְכַלְבָּא, דְּנָשַׁךְ לְשֻׁנְרָא, דְּאָכְלָה לְגַדְיָא, דְּזַבִּן אַבָּא בִּתְרֵי זוּזֵי.
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="ladino"><span lang="he">
+<div class="ladino" lang="lad">
 אי בﬞינו לה אגואה אי אמאטו איל פﬞואיגו, קי קימו איל פאלו, קי אחארבﬞו איל פירו, קי מודרייו איל גאטו, קי סי קומייו איל קאבﬞריטיקו, קי לו מירקו מי פאדרי פור דוס לבﬞנים, פור דוס לבﬞנים.
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 I vino la agua i amato el fuego, ke kemo el palo, ke aharvo el perro, ke modryo el gato, ke se komio el kavritiko, ke lo merko mi padre, por dos levanim, por dos levanim.
 </div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 Water came and put out the fire that burned the stick that hit the dog that bit the cat that ate the goat that my father bought for two zuzim, for two zuzim.
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="25%">
-<div class="aramaic" style="text-align: right;"><span lang="he">	 
+<div class="aramaic" lang="jpa" style="text-align: right;">	 
 וְאָתָא תּוֹרָא וְשָׁתָא לְמַיָּא, דְּכָבָה לְנוּרָא, דְּשָׂרַף לְחֻטְרָא, דְּהִכָּה לְכַלְבָּא, דְּנָשַׁךְ לְשֻׁנְרָא, דְּאָכְלָה לְגַדְיָא, דְּזַבִּן אַבָּא בִּתְרֵי זוּזֵי.
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="ladino"><span lang="he">
+<div class="ladino" lang="lad">
 אי בﬞינו איל בואיי אי סי ביבﬞייו לה אגואה, קי אמאטו איל פﬞואיגו, קי קימו איל פאלו, קי אחארבﬞו איל פירו, קי מודרייו איל גאטו, קי סי קומייו איל קאבﬞריטיקו, קי לו מירקו מי פאדרי פור דוס לבﬞנים, פור דוס לבﬞנים.
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 I vino el buey i se bevyo la agua, ke amato el fuego, ke kemo el palo, ke aharvo el perro, ke modryo el gato, ke se komio el kavritiko, ke lo merko mi padre, por dos levanim, por dos levanim.
 </div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 An ox came and drank the water that put out the fire that burned the stick that hit the dog that bit the cat that ate the goat that my father bought for two zuzim, for two zuzim.
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="25%">
-<div class="aramaic" style="text-align: right;"><span lang="he">	 
+<div class="aramaic" lang="jpa" style="text-align: right;">	 
 וְאָתָא הַשּׁוֹחֵט וְשָׁחַט לְתוֹרָא, דְּשָׁתָא לְמַיָּא, דְּכָבָה לְנוּרָא, דְּשָׂרַף לְחֻטְרָא, דְּהִכָּה לְכַלְבָּא, דְּנָשַׁךְ לְשֻׁנְרָא, דְּאָכְלָה לְגַדְיָא, דְּזַבִּן אַבָּא בִּתְרֵי זוּזֵי.
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="ladino"><span lang="he">
+<div class="ladino" lang="lad">
 אי בﬞינו איל שוחט אי דיגוייו אל בואיי, קי סי ביבﬞייו לה אגואה, קי אמאטו איל פﬞואיגו, קי קימו איל פאלו, קי אחארבﬞו איל פירו, קי מודרייו איל גאטו, קי סי קומייו איל קאבﬞריטיקו, קי לו מירקו מי פאדרי פור דוס לבﬞנים, פור דוס לבﬞנים.
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 I vino el shohet i degoyo al buey, ke se bevyo la agua, ke amato el fuego, ke kemo el palo, ke aharvo el perro, ke modryo el gato, ke se komio el kavritiko, ke lo merko mi padre, por dos levanim, por dos levanim.
 </div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 A butcher came and slaughtered the ox that drank the water that put out the fire that burned the stick that hit the dog that bit the cat that ate the goat that my father bought for two zuzim, for two zuzim.
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="25%">
-<div class="aramaic" style="text-align: right;"><span lang="he">	 
+<div class="aramaic" lang="jpa" style="text-align: right;">	 
 וְאָתָא מַלְאַךְ־הַמָּ֫וֶת וְשָׁחַט לְשׁוֹחֵט, דְּשָׁחַט לְתוֹרָא, דְּשָׁתָא לְמַיָּא, דְּכָבָה לְנוּרָא, דְּשָׂרַף לְחֻטְרָא, דְּהִכָּה לְכַלְבָּא, דְּנָשַׁךְ לְשֻׁנְרָא, דְּאָכְלָה לְגַדְיָא, דְּזַבִּן אַבָּא בִּתְרֵי זוּזֵי.
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="ladino"><span lang="he">
+<div class="ladino" lang="lad">
 אי בﬞינו איל מלאך המוות אי דיגוייו אל שוחט, קי דיגוייו אל בואיי, קי סי ביבﬞייו לה אגואה, קי אמאטו איל פﬞואיגו, קי קימו איל פאלו, קי אחארבﬞו איל פירו, קי מודרייו איל גאטו, קי סי קומייו איל קאבﬞריטיקו, קי לו מירקו מי פאדרי פור דוס לבﬞנים, פור דוס לבﬞנים.
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 I vino el malah amavet i degoyo al shohet, ke degoyo al buey, ke se bevyo la agua, ke amato el fuego, ke kemo el palo, ke aharvo el perro, ke modryo el gato, ke se komio el kavritiko, ke lo merko mi padre, por dos levanim, por dos levanim.
 </div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 The Angel of Death came and slaughtered the shoḥet who slaughtered the ox that drank the water that put out the fire that burned the stick that hit the dog that bit the cat that ate the goat that my father bought for two zuzim, for two zuzim.
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="25%">
-<div class="aramaic" style="text-align: right;"><span lang="he">	 
+<div class="aramaic" lang="jpa" style="text-align: right;">	 
 וְאָתָא הַקָּדוֹשׁ־בָּרוּךְ־הוּא וְשָׁחַט לְמַלְאַךְ־הַמָּ֫וֶת וְשָׁחַט לְשׁוֹחֵט, דְּשָׁחַט לְתוֹרָא, דְּשָׁתָא לְמַיָּא, דְּכָבָה לְנוּרָא, דְּשָׂרַף לְחֻטְרָא, דְּהִכָּה לְכַלְבָּא, דְּנָשַׁךְ לְשֻׁנְרָא, דְּאָכְלָה לְגַדְיָא, דְּזַבִּן אַבָּא בִּתְרֵי זוּזֵי.
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="ladino"><span lang="he">
+<div class="ladino" lang="lad">
 אי בﬞינו איל סאנטו בינדיגﬞו אל אי דיגוייו אל מלאך המוות, קי דיגוייו אל שוחט, קי דיגוייו אל בואיי, קי סי ביבﬞייו לה אגואה, קי אמאטו איל פﬞואיגו, קי קימו איל פאלו, קי אחארבﬞו איל פירו, קי מודרייו איל גאטו, קי סי קומייו איל קאבﬞריטיקו, קי לו מירקו מי פאדרי פור דוס לבﬞנים, פור דוס לבﬞנים.
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 I vino el Santo Bendicho El i degoyo al malah amavet, ke degoyo al shohet, ke degoyo al buey, ke se bevyo la agua, ke amato el fuego, ke kemo el palo, ke aharvo el perro, ke modryo el gato, ke se komio el kavritiko, ke lo merko mi padre por dos levanim, por dos levanim.
 </div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 Then the blessed Holy One came and slaughtered the Angel of Death who slaughtered the shoḥet who slaughtered the ox that drank the water that put out the fire that burned the stick that hit the dog that bit the cat that ate the goat that my father bought for two zuzim, for two zuzim.
 </div>
 </td></tr>

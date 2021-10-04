@@ -11,141 +11,141 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Initials (Hebrew)</th><th style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (Spanish)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 &nbsp;
 &nbsp;
 אב״ג ית״ץ
 </span></div></td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָנָא בְּכֹחַ גְּדוּלַת יְמִינֶךָ 
 תַּתִּיר צְרוּרָה
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
-<div class="spanish"><span lang="es">
+<div class="spanish" lang="es">
 Ruego con fuerça de grandeza de tu derecha, 
 suelta angustiada
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 &nbsp;
 &nbsp;
 קר״ע שט״ן
 </span></div></td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 קַבֵּל רִנַּת עַמֶךָ 
 שַׂגְּבֵנוּ טַהֲרֵנוּ נוֹרָא
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
-<div class="spanish"><span lang="es">
+<div class="spanish" lang="es">
 recibe exclamacion de tu pueblo
 En fortece nos munda nos timido
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 &nbsp;
 &nbsp;
 נג״ד יכ״ש
 </span></div></td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 נָא גִבּוֹר דּוֹרְשֵׁי יִחוּדֶךָ
 כְּבָבַת שׁוֹמְרֵם
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
-<div class="spanish"><span lang="es">
+<div class="spanish" lang="es">
 ruego fuerte buscantes tu unidad
 como niñeta guarda 
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 &nbsp;
 &nbsp;
 בט״ר צת״ג
 </span></div></td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרְכֵם טַהֲרֵם רַחֲמֵי צִדְקָתֶךָ
 תָּמִיד גּוֹמְלֵם
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
-<div class="spanish"><span lang="es">
+<div class="spanish" lang="es">
 bendizelos lipialos piadades de tu justedad
 contino les galardona fuerte santo
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 &nbsp;
 &nbsp;
 חק״ב טנ״ע
 </span></div></td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 חָסִין קָדוֹשׁ בְּרֹב טוּבְךָ
 נַהֵל עֲדָתֶךָ
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
-<div class="spanish"><span lang="es">
+<div class="spanish" lang="es">
 Con muchedumbre de tu bien guia
 la tu compaña,
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 &nbsp;
 &nbsp;
 יג״ל פז״ק
 </span></div></td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יָחִיד גֵּאֶה לְעַמְּךָ פְנֵה 
 זוֹכְרֵי קְדוּשָׁתֶךָ
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
-<div class="spanish"><span lang="es">
+<div class="spanish" lang="es">
 unico altivo a tu pueblo atiede
 recordantes tu santidad
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="16%">
-<div class="scribe"><span lang="he">
+<div class="scribe" lang="he">
 &nbsp;
 &nbsp;
 שק״ו צי״ת
 </span></div></td>
 
 <td style="vertical-align:top;" width="30%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שַׁוְעָתֵנוּ קַבֵּל
 וּשְׁמַע צַעֲקָתֵנוּ
 יוֹדֵעַ תַּעֲלוּמוֹת׃
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
-<div class="spanish"><span lang="es">
+<div class="spanish" lang="es">
 nostro gemido recibe
 y oye nostra exclamacion
 conocie entrinsecos:

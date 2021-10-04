@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 Sigd is an Amharic word meaning "prostration" or "worship" and is the commonly used name for a holiday celebrated by the Ethiopian Jewish Beta Israel community on the 29th of the Hebrew month of Marḥeshvan. This date is exactly 50 days after Yom Kippur, usually falling out in late October or November, and according to Ethiopian Jewish tradition is also the date that God first revealed himself to Moses.[foot]Jewish Virtual Library, "<a href="https://www.jewishvirtuallibrary.org/ethiopian-sigd-holiday">Ethiopian Jewry: Sigd Holiday</a>"[/foot]
 
 Sigd is a unique holiday. Originally only celebrated by the Ethiopian Jewish Beta Esrael community, it has gotten more traction recently. One could describe the key concept of Sigd as being the acceptance of the Torah — not the giving, but the receiving of it. Sigd is a holiday of the continuation of the covenant. No matter the persecution that the Beta Esrael suffered (and hoo boy, did they suffer), Sigd announced that they would preserve their Judaism through it all.
@@ -37,125 +37,125 @@ This is part one of a series of Sigd readings in English, Hebrew, and Ge'ez tran
 <thead><tr><th id="x" style="text-align: right;">Translation (Hebrew)</th><th style="text-align: left;">Translation (English)</th><th style="text-align: left;">Source (Ge'ez)</th><th style="text-align: left;">Transliteration (Ge'ez)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְעָלוּ‎ הָהָרָה בְּכׇל־שָׁנָה,
 וְעָלוּ‎ הָהָרָה בְּכׇל־שָׁנִים׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 And they went up the mountain for each year;
 And they went up the mountain for all years.
 </div></td>
 
 <td style="vertical-align:top;">
-<div class="ethiopic"><span lang="am">
+<div class="ethiopic" lang="gez">
 ወዐርጉ ፡ ደብር ፡ ለለዓመት፤
 ወዐርጉ ፡ ደብር ፡ ለለዓመቱ ። 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Wäʿärəgu däbərə läläʿamätə;
 wäʿärəgu däbərə läläʿamätu. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְעָלוּ‎ הָהָרָה בְּכׇל־שָׁנִים,
 לְמַעַן יִסְגְּדוּ לַיהוה׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 And they went up the mountain for all years;
 So as to worship the Lord.
 </div></td>
 
 <td style="vertical-align:top;">
-<div class="ethiopic"><span lang="am">
+<div class="ethiopic" lang="gez">
 ወዐርጉ ፡ ደብር ፡ ለለዓመቱ፤
 ከመ ፡ ይሰግዱ ፡ ለእግዚአብሔር ። 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 wäʿärəgu däbərə läläʿamätu;
 kämä yəsägədu läʾəgəziʾäbəḥerə. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְעָלוּ‎ הָהָרָה בְּכׇל־שָׁנִים,
 וְקָרְאוּ‎ לִפְנֵי יהוה אֱלֹהֵיהֶם׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 And they went up the mountain for all years;
 and read out before the Lord their God.
 </div></td>
 
 <td style="vertical-align:top;">
-<div class="ethiopic"><span lang="am">
+<div class="ethiopic" lang="gez">
 ወዐርጉ ፡ ደብር ፡ ለለዓመቱ፤
 ወጸርሑ ፡ ኀበ ፡ እግዚአብሔር ፡ አምላኮሙ ። 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 wäʿärəgu däbərə läläʿamätu;
 wäṣärəḥu ḫäbä ʾəgəziʾäbəḥerə ʾäməlakomu. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לְוִיִּים‎ בִּמְקוֹמוֹתֵיהֶם,
 לְוִיִּים‎ בְּמַעַמְדֵיהֶם׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Levites in their places;
 Levites in their positions.
 </div></td>
 
 <td style="vertical-align:top;">
-<div class="ethiopic"><span lang="am">
+<div class="ethiopic" lang="gez">
 ሌዋዊያን ፡ በበ ፡ ምቅዋሞሙ፤
 ሌዋዊያን ፡ በበ ፡ መዐርጎሙ ። 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 lewawiyanə bäbä məḳəwamomu;
 lewawiyanə bäbä mäʿärəgomu. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 קַדְמִיאֵל סַטְרִיאֵל אַרְאָיָה,
 וְקָרְאוּ‎ לִפְנֵי יהוה אֱלֹהֵיהֶם׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Ḳadmiel, Satriel, Arayah;
 and read out before the Lord their God.
 </div></td>
 
 <td style="vertical-align:top;">
-<div class="ethiopic"><span lang="am">
+<div class="ethiopic" lang="gez">
 ቀዳምያል ፡ ሰጣርኤል ፡ አርአያሃ፤
 ወጸርሑ ፡ ኀበ ፡ እግዚአብሔር ፡ አምላኮሙ ። 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 ḳädaməyalə säṭarəʾelə ʾärəʾäyaha: 
 wäṣärəḥu ḫäbä ʾəgəziʾäbəḥerə ʾäməlakomu.
 </div></td></tr>

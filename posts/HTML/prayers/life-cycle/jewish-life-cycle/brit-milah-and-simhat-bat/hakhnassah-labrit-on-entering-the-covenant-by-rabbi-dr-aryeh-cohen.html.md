@@ -11,14 +11,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 חג הכנסה לברית
 שחר אילה כהן הודוס
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 On Entering the Covenant
 Shachar Ayala Cohen-Hodos
 </div>
@@ -26,14 +26,14 @@ Shachar Ayala Cohen-Hodos
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ברוכה הבאה!
 יוֹנׇתִי בְּחַגְוֵי הַסֶּלַע בְּסֵתֶר הַמַּדְרֵגׇה הַרְאִינִי אֶת־מַרְאַיִך הַשְׁמִיעִינִי אֶת־קוֹלֵך כִּי־קוֹלֵך עׇרֵב וּמַרְאֵיך נׇאוֶה: 
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <em>While the grandparents bring the child to the parents everyone says:</em>
 
 Blessed is she who arrives!
@@ -43,13 +43,13 @@ My dove in the cleft of the rocks, hidden by the cliff, let me see your face; le
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 זה הכסא של אליהו הנביא זכור לטוב.
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <em>The shaliach tzibbur says:</em>
 
 This is the throne of Elijah the Prophet who is remembered for the good.[foot]Cf. Pirkei deRebbi Eliezer, ch. 29[/foot]
@@ -58,13 +58,13 @@ This is the throne of Elijah the Prophet who is remembered for the good.[foot]Cf
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לִישׁוּעָתֵּךְ קִוִיתִּי יי. שִׂבַּרְתִּי לִישׁוּעָתֵּךְ יי, וּמִצְוֺתַיִךְ עָשִׂיתִי.
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <em>Everyone says:</em>
 
 For Your salvation I long, God.[foot]Genesis 49:18[/foot]  I hoped for Your salvation, God, and I performed Your commandments.[foot]Psalms 119:161[/foot]
@@ -73,7 +73,7 @@ For Your salvation I long, God.[foot]Genesis 49:18[/foot]  I hoped for Your salv
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רָחֵל אֵם הַבָּנִים עִמְדִי עַל יְמָנִי וְשִׂמְחִי בְִבִתֵך.
 אֵלִיָהוּ מַלְאָךְ הַבְּרִית עַמוֹד עַל שְׂמָאלִי וְהָעֵד.
 שִׂבַּרְתִּי לִישׁוּעָתֵּךְ יי.
@@ -82,7 +82,7 @@ For Your salvation I long, God.[foot]Genesis 49:18[/foot]  I hoped for Your salv
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <em>Parents say:</em>
 
 Rachel, “Mother of the Children,” stand to my right and rejoice.
@@ -94,13 +94,13 @@ I rejoice over your word, like one who finds abundant spoils.[foot]Psalms 119:16
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שָׁלוֹם רָב לְאֹהַבֵי תוֹרָתֵיךְ, וְאֵין לָמוֹ מִכְשׁוֹל.
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <em>Everyone says:</em>
 
 There is abundant peace for the lovers of Your Torah, and there is no stumbling block for them.[foot]Psalms 119:165[/foot]
@@ -109,13 +109,13 @@ There is abundant peace for the lovers of Your Torah, and there is no stumbling 
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אַשְׁרֵי תִּבְחַרִי וּתְּקִָרְבִי תּשׁכּוֹן חַצֵרֵיך,
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <em>The shaliach tzibbur says:</em>
 
 Happy is the one You choose and bring near to Your court.[foot]Psalms 65:5[/foot]
@@ -124,13 +124,13 @@ Happy is the one You choose and bring near to Your court.[foot]Psalms 65:5[/foot
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 נִשְׂבְּעָה בּטוּב בֵּיתֵיךְ קְדֹשׁ הֵיכָלֵיךְ.
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <em>Everyone says:</em>
 
 May we be satisfied by the goodness of Your House -- Your Holy Temple.[foot]Psalms 65:5[/foot]
@@ -139,7 +139,7 @@ May we be satisfied by the goodness of Your House -- Your Holy Temple.[foot]Psal
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בא"י אמ"ה שהחיינו וקיימנו והגיענו לזמן הזה.
 
 בא"י אמ"ה אשר קדשנו במצוותיו וצונו להכניסה בברית אשר כרת אתנו בחורב.
@@ -149,7 +149,7 @@ May we be satisfied by the goodness of Your House -- Your Holy Temple.[foot]Psal
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <em>Parents hand child to the sandek and say:</em>
 
 Blessed are You, Ruler of the World, Who has given us life, sustained us and brought us to this time.
@@ -162,14 +162,14 @@ You stand this day, all of you, before the Lord your God -- your tribal heads, y
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וַיֹּאמֶר מֹשֶׁה לִפְנֵי יְהוׇֹה הֵן אֲנִי עֲרַל שְֹפׇתַיִם...
 וַיׇּעׇף אֵלַי אֶחׇד מִן־הַשְּׂרׇפִים וּבְיׇדוֹ רִצְפׇּה בְּמֶלְקׇחַיִם לׇקַח מֵעַל הַמִּזְבֵּחַ:   וַיַּגַּע עַל־פִּי   
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <em>Parents say:</em>
 
 Moses appealed to God saying, “See, I am of uncircumcised lips . . .” (Exodus 6:30)
@@ -180,13 +180,13 @@ taken from the altar with a pair of tongs.  He touched it to my lips . . .
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
  וׇאֶשְׁמַע אֶת־קוֹל אֲדֹנׇי אֹמֵר אֶת־מִי אֶשְׁלַח וּמִי יֵלֶך־לׇנוּ וׇאֹמַר הִנְנִי שְׁלׇחֵנִי: (שמות ו;ישעיה ו)
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <em>Some wine is taken from the wine cup and put on the child’s lips.</em>
  
 Then I heard the voice of my Lord saying, “Whom shall I send? Who will go for us?” and I said, “Here am I; send me.” (Isaiah 6:8)
@@ -195,13 +195,13 @@ Then I heard the voice of my Lord saying, “Whom shall I send? Who will go for 
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּמַלְתֶּם אֵת עׇרְלַת לְבַבְכֶם וְעׇרְפְּכֶם לא תַקְשׁוּ עוֹד: כִּי יְהוׇֹה אֱלהֵיכֶם הוּא אֱלהֵי הׇאֱלהִים וַאֲדֹנֵי הׇאֲדֹנִים הׇאֵל הַגׇּדֹל הַגִּבֹּר וְהַנּוֹרׇא אֲשֶׁר לא־יִשׇּׂא פׇנִים וְלא יִקַּח שֹׁחַד: עֹשֶֹה מִשְׁפַּט יׇתוֹם וְאַלְמׇנׇה וְאֹהֵב גֵּר לׇתֶת לוֹ לֶחֶם וְשִֹמְלׇה: וַאֲהַבְתֶּם אֶת־הַגֵּר כִּי־גֵרִים הֱיִיתֶם בְּאֶרֶץ מִצְרׇיִם: אֶת־יְהוׇֹה אֱלהֶיךׇ תִּירׇא אֹתוֹ תַעֲבֹד וּבוֹ תִדְבׇּק וּבִשְׁמוֹ תִּשׇּׁבֵעַ: הוּא תְהִלׇּתְךׇ וְהוּא אֱלהֶיךׇ אֲשֶׁר־עׇשׇֹה אִתְּךׇ אֶת־הַגְּדֹלת וְאֶת־הַנּוֹרׇאֹת הׇאֵלֶּה אֲשֶׁר רׇאוּ עֵינֶיךׇ: בְּשִׁבְעִים נֶפֶשׁ יׇרְדוּ אֲבֹתֶיךׇ מִצְרׇיְמׇה וְעַתׇּה שׇֹמְךׇ יְהוׇֹה אֱלהֶיךׇ כְּכוֹכְבֵי הַשׇּׁמַיִם לׇרֹב: וְאׇהַבְתׇּ אֵת יְהוׇֹה אֱלהֶיךׇ וְשׇׁמַרְתׇּ מִשְׁמַרְתּוֹ וְחֻקֹּתׇיו וּמִשְׁפׇּטׇיו וּמִצְוֺתׇיו כׇּל־הַיׇּמִים: (דברים י-יא)
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <em>The following is read from the klaf:</em>
 
 Cut away the thickening around your hearts and stiffen your necks no more.  For the Lord your God is God supreme and Lord supreme, the great the mighty, and the awesome God, who shows no favor and takes no bribe, but upholds the cause of the fatherless and the widow, and befriends the stranger, providing him food and clothing.  You too must befriend the stranger, for you were strangers in the land of Egypt. You must revere the Lord your God: only God shall you worship, to God shall you hold fast, and by God’s name shall you swear.  God is your glory and your God, who did for you those marvelous, awesome deeds that you saw with your own eyes.  Your ancestors went down to Egypt seventy persons in all; and now the Lord your God has made you as numerous as the stars of heaven. (Deuteronomy 10-11)
@@ -210,13 +210,13 @@ Cut away the thickening around your hearts and stiffen your necks no more.  For 
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וַיֹּאמֶר אֵלַי בֶּן־אׇדׇם אֵת אֲשֶׁר־תִּמְצׇא אֱכוֹל אֱכוֹל אֶת־הַמְּגִלׇּה הַזֹּאת וְלֵך דַּבֵּר אֶל־בֵּית יִשְֹרׇאֵל:   וׇאֶפְתַּח אֶת־פִּי וַיַּאֲכִלֵנִי אֵת הַמְּגִלׇּה הַזֹּאת:   וַיֹּאמֶר אֵלַי בֶּן־אׇדׇם בִּטְנְךׇ תַאֲכֵל וּמֵעֶיךׇ תְמַלֵּא אֵת הַמְּגִלׇּה הַזֹּאת אֲשֶׁר אֲנִי נֹתֵן אֵלֶיךׇ וׇאֹכְלׇה וַתְּהִי בְפִי כִּדְבַשׁ לְמׇתוֹק:   וַיֹּאמֶר אֵלׇי בֶּן־אׇדׇם לֶך־בֹּא אֶל־בֵּית יִשְֹרׇאֵל וְדִבַּרְתׇּ בִדְבׇרַי אֲלֵיהֶם:
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <em>The klaf is then rolled.</em>
 
 He said to me: Man, whatever you find there, eat! Eat this scroll and go, speak to the house of Israel. I opened my mouth and he gave me this scroll to eat, saying to me: Man, feed your belly and fill your stomach with this scroll that I give you. So I ate it, and in my mouth it turned sweet as honey. God said to me: Man, come! Go the house of Israel and speak to them in my words.[foot]Ezekiel 3:1-4[/foot]
@@ -225,13 +225,13 @@ He said to me: Man, whatever you find there, eat! Eat this scroll and go, speak 
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 כשם שנכנסה לברית, כן תכנס לתורה לחופה ולמעשים טובים.
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <em>The rolled klaf is dipped in honey and put to the child’s lips.</em>
 
 <em>Everyone:</em>
@@ -242,13 +242,13 @@ Just as she has entered the covenant, so may she be introduced to the study of T
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שחר אילה, אַת הַיִי לָנוּ לאַלְפֵי רְבָבָה, נָקוּד אַלוּפַת רְבָבוֹת.
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <em>Shaliach tzibbur says:</em>
 
 Shachar Ayala, “may you become thousandfold myriads,”[foot]Genesis 24:60[/foot] read as “may you become a teacher of thousands.”
@@ -257,13 +257,13 @@ Shachar Ayala, “may you become thousandfold myriads,”[foot]Genesis 24:60[/fo
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בא"י אמ"ה בורא פרי הגפן.
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <em>Parents say:</em>
 
 Blessed are You, God, our God, sovereign of the universe, who creates the fruit of the vine.
@@ -272,13 +272,13 @@ Blessed are You, God, our God, sovereign of the universe, who creates the fruit 
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֶלֹהֵינוּ וֵאלֹהֵי אַבוֹתֵינוּ וְאִמוֹתֵינוּ, קַיֵם אֶת הַיַלְדָה הַזֹאת, שחר אילה, לאִמָהּ וּלְאָבִיהָ. יִשְׂמַח הָאָב בְּיוֹצֵא חֲלָצָיו ותָגֵל אִמָּהּ בִּפְּרִי בִטְנַָה, כַּכָּתוּב, יִשְֹמַח־אׇבִיךׇ וְאִמֶּךׇ וְתׇגֵל יוֹלַדְתֶּךׇ. ונאמר, וׇאֶעֱבֹר עׇלַיִך וׇאֶרְאֵך מִתְבּוֹסֶסֶת בְּדׇמׇיִך וׇאֹמַר לׇך בְּדׇמַיִך חֲיִי וׇאֹמַר לׇך בְּדׇמַיִך חֲיִי. ונאמר זׇכַר לְעוֹלׇם בְּרִיתוֹ דׇּבׇר צִוׇּה לְאֶלֶף דּוֹר:   אֲשֶׁר כׇּרַת אֶת־אַבְרׇהׇם וּשְׁבוּעׇתוֹ לְיִשְֹחׇק:  וַיַּעֲמִידֶהׇ לְיַעֲקֹב לְחֹק לְיִשְֹרׇאֵל בְּרִית עוֹלׇם:
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <em>Shaliach tzibbur says:</em>
 
 Our God and God of our ancestors, sustain this child Shachar Ayala for her mother and father. May the father rejoice in his offspring, may the mother rejoice in the fruit of her womb. As it is written: Let your father and mother be happy; let the one who bore you thrill with joy.[foot]Proverbs 23:35[/foot] As it says: I passed by you and saw you weltering in your blood, and I said: Live through your blood, yea live through your blood.[foot]Ezekiel 16:6[/foot] As it says: God remembers the covenant forever, the word pledged for a thousand generations.[foot]Psalms 105:8[/foot]
@@ -287,27 +287,27 @@ Our God and God of our ancestors, sustain this child Shachar Ayala for her mothe
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הוֹדוּ לַיי כִּי טוֹב כִּי לְעוֹלָם חַסְדוֹ. 
 זאת הקטנה גדולה תהיה. כשם שנכנסה לברית, כן תכנס לתורה לחופה ולמעשים טובים.
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <em>Everyone:</em>
 
 Give thanks to God, for God is good, God’s mercy endures forever.[foot]Psalms 136:1[/foot]
 This small one will grow. Just as she has entered the covenant…
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ברוכה הבאה!
 יוֹנׇתִי בְּחַגְוֵי הַסֶּלַע בְּסֵתֶר הַמַּדְרֵגׇה הַרְאִינִי אֶת־מַרְאַיִך הַשְׁמִיעִינִי אֶת־קוֹלֵך כִּי־קוֹלֵך עׇרֵב וּמַרְאֵיך נׇאוֶה: 
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <em>Everyone:</em>
 
 Give thanks to God, for God is good, God’s mercy endures forever.[foot]Psalms 136:1[/foot]
@@ -317,13 +317,13 @@ This small one will grow. Just as she has entered the covenant…
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <strong><em>Everyone partakes of the Seudat mitsvah.</em></strong>
 </div>
 </td></tr>

@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size:1.2em;">
+<div class="english" lang="en" style="font-size:1.2em;">
 Guest Chaplain: Rabbi Seth Frisch, New Shul of America, Rydal, Pennsylvania
 Sponsor: Rep. David Cicilline (D-RI)
 Date of Prayer: 02/05/2020
@@ -33,22 +33,22 @@ I pray that we will all heed his words today, that out of many, we are one Natio
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <h3>Opening Prayer Given by the Guest Chaplain:</h3>
 </div></td></tr>
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Almighty, 
 I stand before You in prayer and in memory 
 as I am reminded of Solomon, King of ancient Israel, 
@@ -59,12 +59,12 @@ a child they each would insist to be their own.[foot]1 Kings 3:16-28.[/foot]
 </div></td></tr>
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 This parable allows us 
 to see Solomon's wisdom 
 as preserving the nation, 
@@ -74,12 +74,12 @@ that the kingdom is split asunder.
 </div></td></tr>
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 I, too, am reminded of Abraham Lincoln, 
 when he spoke with prophetic-like prescience: 
 "A house divided cannot stand,"[foot]from Abraham Lincoln's <a href="https://en.wikipedia.org/wiki/Lincoln%27s_House_Divided_Speech">House Divided</a> speech, June 16, 1858.[/foot]&nbsp;
@@ -91,12 +91,12 @@ but in unity.
 </div></td></tr>
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 For, Lord, 
 the Book of Leviticus, from Your Torah, teaches us 
 in words inscribed upon the Liberty Bell in Philadelphia: 
@@ -107,12 +107,12 @@ thus uniting one of our Nation's ideals,
 </div></td></tr>
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Lord God, 
 the Founders of this Nation 
 understood our strength 
@@ -124,12 +124,12 @@ behind us.
 </div></td></tr>
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And so it is, Dear God, 
 that we pray You remain with us. 
 Continue to guide all of us 
@@ -144,12 +144,12 @@ to all.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָמֵן׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <em>Amen</em>.
 </div></td></tr>
 </tbody></table>

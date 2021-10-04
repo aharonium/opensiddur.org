@@ -11,156 +11,156 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֲדוֹן עוֹלָם אֲשֶׁר מָלַךְ 
 בְּטֶֽרֶם כׇּל־יְצִיר נִבְרָא׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Creation’s Lord! He ruled from aye 
 Ere yet created form was made. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לְעֵת נַֽעֲשָׂה כְּחֶפְצוֹ כֹּל 
 אֲזַי מֶֽלֶךְ שְׁמוֹ נִקְרָא׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 What time He willed this world to be, 
 Then homage to His rule was paid. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְאַֽחֲרֵי כִּכְלּוֹת הַכֹּל 
 לְבַדּוֹ יִמְלֹךְ נוֹרָא׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 And when all things shall cease to be, 
 Alone His awe shall be displayed. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְהוּא הָיָה וְהוּא הֹוֶה 
 וְהוּא יִֽהְיֶה בְּתִפְאֲרָה׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 He was. He is. He e’er shall be 
 In glory that can never fade. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְהוּא אֶחָד וְאֵין שֵׁנִי 
 לְהַמְשִׁיל לוֹ לְהַחְבִּירָה׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Unique, alone, without compare 
 Is He by whom all else was made. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בְּלִי רֵאשִׁית בְּלִי תַּכְלִית 
 וְלוֹ הָעֹז וְהַמִּשְׂרָה׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Without beginning, without end; 
 His might. His rule, must be obeyed. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בְּלִי עֵֽרֶךְ בְּלִי דִמְיוֹן 
 בְּלִי שִׁנּוּי וְהַתְּמוּרָה׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Without compare, unchanging He 
 Whose thoughts infinity pervade. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בְּלִי חִבּוּר בְּלִי פֵרוּד
 גְּדׇל־כֹּחַ וְהַגְּבוּרָה׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Without associate, complete, 
 In might supreme He is arrayed. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְהוּא אֵלִי וְחַי גּֽוֹאֲלִי 
 וְצוּר חֶבְלִי בְּיוֹם צָרָה׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 He is my God, my living hope 
 In troubled hour, my rock, my aid, 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְהוּא נִסִּי וּמָנוֹס לִי 
 מְנָת כּוֹסִי בְּיוֹם אֶקְרָא׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 My banner, refuge, portion true, 
 My guide to whom my prayer is prayed. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בְּיָדוֹ אַפְקִיד רוּחִי 
 בְּעֵת אִישַׁן וְאָעִֽירָה׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 I rest my spirit in His hand; 
 Asleep, awake, by Him I’m stayed. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְעִם רוּחִי גְּוִיָּתִי 
 אֲדֹנָי לִי וְלֹא אִירָא׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 My body and my soul with God, 
 I face my future unafraid. 
 </div></td></tr>

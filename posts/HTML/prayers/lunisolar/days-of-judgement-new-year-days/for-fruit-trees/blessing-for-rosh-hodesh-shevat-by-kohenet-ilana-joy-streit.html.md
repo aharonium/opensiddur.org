@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 A blessing for announcing the new moon of Shevat, for Rosh Ḥodesh Shevat, and for the whole month.
 
 Financial contributions are most welcome, and support further creation and sharing of Ilana's creative work. Venmo to @Ilana-Streit.
@@ -18,7 +18,7 @@ Financial contributions are most welcome, and support further creation and shari
 <table style="margin-left: auto;margin-right: auto;">
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 the sap
 is considering rising
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the snow

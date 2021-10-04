@@ -11,18 +11,18 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 צַפְרִירִים
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <u>Morning Spirits</u>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַנְשִׁיקַת פִּי אִמִּי, אִם־צִפְצוּף הַדְּרוֹר
 תְּנוּמָתִי וַחֲלוֹמִי הַמָּתוֹק הַפְסִיקוּ? –
 אֲנִי הֱקִיצוֹתִי וַאֲגֻדּוֹת שֶׁל־אוֹר
@@ -34,7 +34,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Was it my mother’s kiss, was it the swallow 
 With its “twit-twitter”, broke off my sweet dream?
 Lo, I awoke and seemed crowned with a halo,
@@ -47,7 +47,7 @@ In a galloping cart oe’r the cobble-stone street.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עַל־מַשְׁקוֹף אֶשְׁנַבִּי הִתְנַעֵר הַקֵּן,
 וִירֹעַע וִיצֻפְצַף ”צְוִיץ, צְוִיץ“ עַד־בְּלִי דָי,
 ובְזֹהַר אֶשְׁנַבִּי בְּפַחֲזוּת חֵן־חֵן
@@ -59,7 +59,7 @@ In a galloping cart oe’r the cobble-stone street.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 The nest o’er my lintel awoke with a flutter,
 Aroused itself quickly with shout and with song,
 The Spirits of Morning poured in through the shutter 
@@ -72,7 +72,7 @@ And flowing abundantly down upon me.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הֵם קֹרְצִים וְרֹמְזִים וּפְנֵיהֶם יִקְרָנוּ:
 "אֵלֵינוּ צֵא, פֹּחַז! זְרַח, הַזְהֵר עִמָּנוּ!
 עַלִּיזֵי גִיל יַלְדוּת נָפוּצָה, נְצַחֵקָה,
@@ -96,7 +96,7 @@ And flowing abundantly down upon me.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 They winked and they beckoned, their faces bright beaming: 
 “Come forth, roguish one, shine with us in our flight!
 With childhood’s exulting we’ll send our rays streaming,
@@ -121,7 +121,7 @@ O God, I am swept, I am flooded with light!
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הוֹ, אֵלַי בֹּאוּ, זַכִּים! צַפְרִירֵי הַתֹּם!
 אֶל־מִתַּחַת לִסְדִינִי הַצָּחֹר, הַצָּח!
 שָׁם נִתְפַּלַּשׁ, נִתַּפַּל עַד־יִכּוֹן הַיּוֹם,
@@ -141,7 +141,7 @@ O God, I am swept, I am flooded with light!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 O, come to me, pure ones, pure Spirits of Morning,
 Come under my cover, my sparkling white sheet,
 And there let us play till the day gives us warning,

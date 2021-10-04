@@ -11,12 +11,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english"> 
+<div class="english" lang="en"> 
 Some twenty-five hundred years ago 
 the prophet Jeremiah
 cried out with words filled pain and anguish
@@ -32,12 +32,12 @@ and behold we found terror."[foot]Cf. Jeremiah 8:15.[/foot]
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Adonai Eloheinu v'Elohei Avoteinu
 O Lord our god and god of generations past
 help us we pray:
@@ -48,12 +48,12 @@ and help them and help us find the way to peace.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 God, let this monument and this dedication
 forever remind us that we will come together to mourn our dead.
 We will come together to reach out to our wounded.
@@ -69,7 +69,7 @@ May we all join together and say, <em>Amen</em>.
 
 <hr />
 
-<div class="english" style="font-size: 1.2em";>
+<div class="english" lang="en" style="font-size: 1.2em";>
 This is the prayer offered at the opening of the <a href="https://en.wikipedia.org/wiki/Vietnam_Veterans_Memorial">Vietnam Veterans Memorial</a> in Washington, D.C. in 1982 by Rabbi Arnold E. Resnicoff who served as a Navy communications officer in Vietnam War and afterward as a U.S. Navy chaplain. Looking backward, Rabbi Resnicoff wrote an essay published in the Washington Post's <em>On Faith</em> section (November 9, 2012) providing some additional context and perspective for this prayer:
 
 <blockquote>

@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 I am pleased to announce the release of my book <em>Kavvana: Directing the Heart in Jewish Prayer</em>, which was published by Jason Aronson in 1997. The publisher reverted publication rights, and it is now fully available under the <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike</a> (CC BY-SA) 4.0 International license. Here is <a href="https://archive.org/details/Kavvana_Directing_the_Heart_in_Jewish_Prayer_1997_Seth_Kadish_final-images">a link</a> to a full scan of the book.
 
 There are also typed digital versions of the book’s chapters, but they require substantial corrections and updates. I hope to make them available, as time goes on, within an online digital platform that will allow for links to sources, discussion, and ongoing improvements. To do so will require labor—editing, proofreading, checking and linking sources, etc.—so anyone who would like to help make that project a reality is welcome to contact me.

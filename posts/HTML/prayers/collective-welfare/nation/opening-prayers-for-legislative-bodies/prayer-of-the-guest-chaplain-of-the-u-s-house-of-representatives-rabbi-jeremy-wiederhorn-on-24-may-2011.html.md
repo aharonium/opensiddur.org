@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size:1.2em;">
+<div class="english" lang="en" style="font-size:1.2em;">
 Guest Chaplain: Rabbi Jeremy Wiederhorn, The Conservative Synagogue, Westport, CT
 Sponsor: Rep. Jim Himes, (D-CT)
 Date of Prayer: 05/24/2011
@@ -30,23 +30,23 @@ Welcome, Rabbi Wiederhorn.
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <h3>Opening Prayer Given by the Guest Chaplain:</h3>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Dear God, source of all strength, compassion, and peace:
 We know that our time on this Earth is preciously short, 
 so please:
@@ -55,24 +55,24 @@ Open our eyes to the beauty of the world around us.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Remind us that each person we encounter 
 is created in Your image.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Provide us with the integrity, 
 wisdom, 
 and patience 
@@ -82,12 +82,12 @@ and learn from those whom we might otherwise not hear.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Protect the courageous men and women 
 who put their lives in danger each day 
 so that our children can live safely and without fear.
@@ -95,12 +95,12 @@ so that our children can live safely and without fear.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Comfort us today as we mourn with the people of Missouri 
 following the tragic loss of life 
 brought upon by the devastating forces of nature.[foot]This prayer was offered two days after a deadly tornado touched down in <a href="https://en.wikipedia.org/wiki/2011_Joplin_tornado">Joplin, Missouri on 22 May, 2011</a>.[/foot]
@@ -108,12 +108,12 @@ brought upon by the devastating forces of nature.[foot]This prayer was offered t
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And, finally, bless our leaders and advisers--
 including the dedicated men and women of this United States Congress, 
 who assiduously seek to protect our sacred democratic values 
@@ -125,12 +125,12 @@ without forgetting the lessons of our past.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָמֵן׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <em>Amen.</em>
 </div></td></tr>
 </tbody></table>

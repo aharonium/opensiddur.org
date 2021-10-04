@@ -11,23 +11,23 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Contribute a translation</th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <u>A Vision</u>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Strange thoughts, and stranger visions rose
 Before my mind’s delighted eye,
 Which to the poet’s soul disclose
@@ -36,12 +36,12 @@ Such worlds of truth and witchery.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 In silence, both by night and day,
 With wisdom burning on my tongue,
 I breathed the words I could not say,
@@ -50,12 +50,12 @@ On which my soul enraptured hung.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 I uttered in soft tones and low,
 The inspirations of my mind,
 And beauteous verse, like music’s flow,
@@ -64,12 +64,12 @@ Melodious, vague, and undefined.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 I saw my God, the Blessed One,
 Unfold the dreams which we call Life,
 A fragile web of shadows spun,
@@ -78,12 +78,12 @@ Woven with sorrow and with strife.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 I saw the cause of every grief,
 Which God will show to all one day,
 When sadness, like an autumn leaf,
@@ -92,12 +92,12 @@ Will, like that leaf, be swept away;
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 So that in voices mild and clear,
 We shall acknowledge He was just,
 And wonder at the darkness here
@@ -106,12 +106,12 @@ Obscuring Hope, and Faith, and Trust.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 The Prophet King in vain poured forth
 The tender breathings of his heart;
 To beings icebound as the north,
@@ -120,12 +120,12 @@ His spirit he could ne’er impart.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 In vain his warm, ecstatic lyre
 Its trembling chords of love awoke;
 Few souls could breathe that living fire,
@@ -134,12 +134,12 @@ Few hearts to whose those echoes spoke.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And wisdom’s page is thus passed o’er,
 And scanned by most unlearned eyes,
 Who see not in prophetic lore
@@ -148,12 +148,12 @@ The road that leads beyond the skies
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 ‘Tis not the written word alone,
 Sublime, yet simple as a child,
 This is sweet nature’s under tone,
@@ -162,12 +162,12 @@ In which she gives her lessons mild;
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 But Genius from her lofty ear
 Beholds in Scripture’s hidden charms
 A soul, a beauteous soul afar,
@@ -176,12 +176,12 @@ And clasps the spirit in her arms.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Spirit of Scripture! how divine
 Thou shinest with thy golden wings,
 Flitting around this soul of mine,
@@ -190,12 +190,12 @@ Revealing most mysterious things.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 I list to thee, I hear thy voice
 In sweet, and most pathetic numbers,
 Making my inmost heart rejoice
@@ -204,12 +204,12 @@ Awhile mine eyes are closed in slumbers.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Spirit of Beauty! then didst thou
 Descend and bless my mental sight;
 Methinks I see thee even now
@@ -222,12 +222,12 @@ As if to cleave the ambient air.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Sweet spirit of the earth and skies!
 I see thy form in ether move;
 Like light in darkness thou dost rise,

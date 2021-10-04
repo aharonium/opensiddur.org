@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 <strong>ADD TO YOUR CALENDAR:</strong> <a href="https://calendar.google.com/event?action=TEMPLATE&tmeid=MDFmcTByazVuYXY5dW50NzgzbXE4dmY1YnEgODh2ZWZjdWttNGhpaGZvdTl0ZXZhcmtvZzBAZw&tmsrc=88vefcukm4hihfou9tevarkog0%40group.calendar.google.com">Calendar Event link</a> or <a href="https://opensiddur.org/wp-content/uploads/2019/11/invite.ics">Calendar Event file</a> (ICS)
 </div>
 &nbsp;
@@ -15,7 +15,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 <h3>An Introduction to the Open Siddur Project
 with Founding Director, Aharon Varady</h3>
 December 8, 12 PM at National Museum of American Jewish History as part of the nation's first <a href="https://pjff.org/jewish-new-media-festival/">JEWISH NEW MEDIA FESTIVAL</a>!

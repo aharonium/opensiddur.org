@@ -11,12 +11,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;"><a href="/contribute/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 O God, 
 who art beyond our knowledge 
 but near to our hearts and our needs, 
@@ -27,12 +27,12 @@ of President of these United States of America.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Keep him with great kindness, O Thou ruler of nations, 
 and give him a wise and understanding heart 
 that he may lead Thy people in these shadowed times, 
@@ -42,12 +42,12 @@ in patience. and in love.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Guide his hands to Thy purpose 
 and his will unfailingly to Thy service. 
 May he be the bringer of good tidings 
@@ -57,24 +57,24 @@ for our country and for mankind.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May Thy spirit rest upon the Vice President of the United States 
 and upon all the chosen representatives of our Government.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Be gracious, O Lord, 
 unto our land and our people. 
 Help us to preserve our blessed heritage of freedom 
@@ -89,12 +89,12 @@ of our prized citizenship.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Make us all of one heart, O God, 
 so that together as one people 
 we may move forward 

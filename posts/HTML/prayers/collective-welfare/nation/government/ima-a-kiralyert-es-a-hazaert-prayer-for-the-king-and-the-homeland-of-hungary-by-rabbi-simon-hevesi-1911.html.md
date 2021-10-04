@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: left;">Source (Magyar)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="magyar"><span lang="hu">
+<div class="magyar" lang="hu">
 Mennyei Atyánk, 
 világok Ura, 
 történelem Istene, 
@@ -20,7 +20,7 @@ bölcs[foot]Text here reads »bölcsi«, (a typo). »bölcsi« is a nursery, in 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Our Father in Heaven, 
 Lord of the Universe, 
 God of History, 
@@ -30,25 +30,25 @@ bless our current majestic King reigning gloriously:
 
 
 <tr><td style="vertical-align:top;">
-<div class="magyar"><span lang="hu">
+<div class="magyar" lang="hu">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">[space provided for the name of the ruler]</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="magyar"><span lang="hu">
+<div class="magyar" lang="hu">
 legdúsabb mennyei áldásoddal, 
 koronázd életét örömmel, 
 békével és boldogsággal.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 with your richest heavenly blessing, 
 crown his life with joy, 
 peace and happiness. 
@@ -56,7 +56,7 @@ peace and happiness.
 
 
 <tr><td style="vertical-align:top;">
-<div class="magyar"><span lang="hu">
+<div class="magyar" lang="hu">
 Örök irgalmadban 
 tetézd kifogyhatatlan áldásaiddal drága hazánkat.
 Magyarországot.
@@ -65,7 +65,7 @@ ragyogjon le rá a boldogság napja szakadatlanul.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 In your eternal mercy, 
 with thy never ending blessings, bless our dear homeland: 
 Hungary.
@@ -75,7 +75,7 @@ let the sun of happiness glow on it endlessly.
 
 
 <tr><td style="vertical-align:top;">
-<div class="magyar"><span lang="hu">
+<div class="magyar" lang="hu">
 Áldd meg az ország nagyjait, 
 mindazokat, kik e hon boldogításán ernyedetlen buzgalommal munkálkodnak. 
 Mennyei oltalmad lebegjen forrón szeretett hazánk fölött mindenkor! - 
@@ -83,7 +83,7 @@ Mennyei oltalmad lebegjen forrón szeretett hazánk fölött mindenkor! -
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Bless the leaders of the country, 
 all those who are working on making this land happy with relentless zeal. 
 May thy heavenly protection always float over our highly beloved homeland! - 

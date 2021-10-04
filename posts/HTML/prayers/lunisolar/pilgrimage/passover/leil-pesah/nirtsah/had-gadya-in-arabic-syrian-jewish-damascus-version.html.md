@@ -14,275 +14,275 @@ With gratitude to the band <a href="http://www.edenmiqedem.com">Eden miQedem</a>
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="25%">
-<div class="aramaic"><span lang="he">
+<div class="aramaic" lang="jpa">
 חַד גַּדְיָא
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="arabic"><span lang="ar">
+<div class="arabic" lang="ar">
 واحد جِدي
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="judeo-arabic"><span lang="he">
+<div class="judeo-arabic" lang="jrb">
 ואחד ג'די
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 One Little Goat
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="25%">
-<div class="aramaic" style="text-align: right;"><span lang="he">
+<div class="aramaic" lang="jpa" style="text-align: right;">
 חַד גַּדְיָא, חַד גַּדְיָא. דְּזַבִּן אַבָּא בִּתְרֵי זוּזֵי, חַד גַּדְיָא, חַד גַּדְיָא.
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="arabic"><span lang="ar">
+<div class="arabic" lang="ar">
 واحد جِدي واحد جِدي اِلَّذي ش ت ا رلي أبوي بِ م صريتين. واحد جِدي واحد جِدي .
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="judeo-arabic"><span lang="he">
+<div class="judeo-arabic" lang="jrb">
 וַאחַד גִ'דִי וַאחַד גִ'דִי, אִלַ<span class="ArabicDiacritics">ّ</span>דִ'י שְׁתַרַה לִי אַבּוּי בִּמָצָרִיתֵין. וַאחַד גִ'דִי וַאחַד גִ'דִי.
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 One little goat, one little goat. That my father bought for two coins, one little goat, one little goat.
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="25%">
-<div class="aramaic" style="text-align: right;"><span lang="he">
+<div class="aramaic" lang="jpa" style="text-align: right;">
 וְאָתָא שֻׁנְרָא וְאָכְלָה לְגַדְיָא, דְּזַבִּן אַבָּא בִּתְרֵי זוּזֵי, חַד גַּדְיָא, חַד גַּדְיָא.
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="arabic"><span lang="ar">
+<div class="arabic" lang="ar">
 أو جت القُطَّة, وأ ك لت الجِدي اِلَّذي شت ا رلي أبوي بِ م صريتين. واحد جِدي واحد جِدي.
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="judeo-arabic"><span lang="he">
+<div class="judeo-arabic" lang="jrb">
 וּאַגַ'ת אִלְקֻ<span class="ArabicDiacritics">ٔ</span>טָ<span class="ArabicDiacritics">ّ</span>ה, וּאַכְּלַת אִלְגִ'דִי, אִלַ<span class="ArabicDiacritics">ّ</span>דִ'י שְׁתַרַה לִי אַבּוּי בִּמָצָרִיתֵין. וַאחַד גִ'דִי וַאחַד גִ'דִי.
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 Then came the cat and ate the goat, That my father bought for two coins, one little goat, one little goat.
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="25%">
-<div class="aramaic" style="text-align: right;"><span lang="he">
+<div class="aramaic" lang="jpa" style="text-align: right;">
 וְאָתָא כַּלְבָּא וְנָשַׁךְ לְשֻׁנְרָא, דְּאָכְלָה לְגַדְיָא, דְּזַבִּן אַבָּא בִּתְרֵי זוּזֵי, חַד גַּדְיָא, חַד גַּדְיָא.
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="arabic"><span lang="ar">
+<div class="arabic" lang="ar">
 وأ ج ى اِل كلب, و عضّ القُطَّة اِ لتي أ ك لت اِلجِدي اِلَّذي شت ا رلي أبوي بِ م صريتين. واحد جِدي واحد جِدي.
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="judeo-arabic"><span lang="he">
+<div class="judeo-arabic" lang="jrb">
 וּאַגַ'ת אִלְכַּלְבּ, וּעָדּֿ<span class="ArabicDiacritics">ّ</span> אִלְקֻ<span class="ArabicDiacritics">ٔ</span>טָ<span class="ArabicDiacritics">ّ</span>ה, אִלַ<span class="ArabicDiacritics">ّ</span><span class="ArabicDiacritics">ّ</span>תִי אַכְּלַת אִלְגִ'דִי, אִלַ<span class="ArabicDiacritics">ّ</span>דִ'י שְׁתַרַה לִי אַבּוּי בִּמָצָרִיתֵין. וַאחַד גִ'דִי וַאחַד גִ'דִי.
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 Then came the dog and bit the cat, that ate the goat, That my father bought for two coins, one little goat, one little goat.
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="25%">
-<div class="aramaic" style="text-align: right;"><span lang="he">
+<div class="aramaic" lang="jpa" style="text-align: right;">
 וְאָתָא חֻטְרָא וְהִכָּה לְכַלְבָּא, דְּנָשַׁךְ לְשֻׁנְרָא, דְּאָכְלָה לְגַדְיָא, דְּזַבִּן אַבָּא בִּתְרֵי זוּזֵי, חַד גַּדְיָא, חַד גַּדְיָא.
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="arabic"><span lang="ar">
+<div class="arabic" lang="ar">
 وأ جت اِل عصا, و ض ر بت ال ك لب اِلَّذي ع ضّ القُطَّة اِ لّتي أ ك لت اِلجِدي اِلَّذي شت ا رلي أبوي بِ م صريتين. واحد جِدي واحد جِدي.
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="judeo-arabic"><span lang="he">
+<div class="judeo-arabic" lang="jrb">
 וּאַגַ'ת אִלְעָצָא, וִּדָרְבַּת אִלְכַּלְבּ, אִלַ<span class="ArabicDiacritics">ّ</span>דִ'י עָדּֿ<span class="ArabicDiacritics">ّ</span> אִלְקֻ<span class="ArabicDiacritics">ٔ</span>טָ<span class="ArabicDiacritics">ّ</span>ה, אִלַ<span class="ArabicDiacritics">ّ</span><span class="ArabicDiacritics">ّ</span>תִי אַכְּלַת אִלְגִ'דִי, אִלַ<span class="ArabicDiacritics">ّ</span>דִ'י שְׁתַרַה לִי אַבּוּי בִּמָצָרִיתֵין. וַאחַד גִ'דִי וַאחַד גִ'דִי.
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 Then came the stick and beat the dog, that bit the cat, that ate the goat, That my father bought for two coins, one little goat, one little goat.
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="25%">
-<div class="aramaic" style="text-align: right;"><span lang="he">
+<div class="aramaic" lang="jpa" style="text-align: right;">
 וְאָתָא נוּרָא וְשָׂרַף לְחֻטְרָא, דְּהִכָּה לְכַלְבָּא, דְּנָשַׁךְ לְשֻׁנְרָא, דְּאָכְלָה לְגַדְיָא, דְּזַבִּן אַבָּא בִּתְרֵי זוּזֵי, חַד גַּדְיָא, חַד גַּדְיָא.
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="arabic"><span lang="ar">
+<div class="arabic" lang="ar">
 وأ جت اِلنّار, و ح ر قت اِل عصا اِ لّتي ض ر بت اِل كلب اِلَّذي عضّ القُطَّة اِ لتي أ ك لت اِلجِدي اِلَّذي شت ا رلي أبوي بِ م صريتين. واحد جِدي واحد جِدي.
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="judeo-arabic"><span lang="he">
+<div class="judeo-arabic" lang="jrb">
 וּאַגַ'ת אִנָ<span class="ArabicDiacritics">ّ</span>אר, וּחַרְקַ<span class="ArabicDiacritics">ٔ</span>ת אִלְעָצָא, אִלַ<span class="ArabicDiacritics">ّ</span><span class="ArabicDiacritics">ّ</span>תִי דָֿרְבַּת אִלְכַּלְבּ, אִלַ<span class="ArabicDiacritics">ّ</span>דִ'י עָדּֿ<span class="ArabicDiacritics">ّ</span> אִלְקֻ<span class="ArabicDiacritics">ٔ</span>טָ<span class="ArabicDiacritics">ّ</span>ה, אִלַ<span class="ArabicDiacritics">ّ</span><span class="ArabicDiacritics">ّ</span>תִי אַכְּלַת אִלְגִ'דִי, אִלַ<span class="ArabicDiacritics">ّ</span>דִ'י שְׁתַרַה לִי אַבּוּי בִּמָצָרִיתֵין. וַאחַד גִ'דִי וַאחַד גִ'דִי.
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 Then came fire and burnt the stick, that beat the dog, that bit the cat, that ate the goat, That my father bought for two coins, one little goat, one little goat.
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="25%">
-<div class="aramaic" style="text-align: right;"><span lang="he">
+<div class="aramaic" lang="jpa" style="text-align: right;">
 וְאָתָא מַיָּא וְכָבָה לְנוּרָא, דְּשָׂרַף לְחֻטְרָא, דְּהִכָּה לְכַלְבָּא, דְּנָשַׁךְ לְשֻׁנְרָא, דְּאָכְלָה לְגַדְיָא, דְּזַבִּן אַבָּא בִּתְרֵי זוּזֵי, חַד גַּדְיָא, חַד גַּדְיָא.
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="arabic"><span lang="ar">
+<div class="arabic" lang="ar">
 وأ جت اِل ميّة, و طفَّت اِلنّار اِ لتي ح ر قت اِل عصا اِ لتي ض ر بت اِل كلب اِلَّذي عضّ القُطَّة اِ لتي أ ك لت اِلجِدي اِلَّذي شت ا رلي أبوي بِ م صريتين. واحد جِدي واحد جِدي.
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="judeo-arabic"><span lang="he">
+<div class="judeo-arabic" lang="jrb">
 וּאַגַ'ת אִלְמָיֶ<span class="ArabicDiacritics">ّ</span>ה, וּטָפַ<span class="ArabicDiacritics">ّ</span>ת אִנָ<span class="ArabicDiacritics">ّ</span>אר, אִלַ<span class="ArabicDiacritics">ّ</span><span class="ArabicDiacritics">ّ</span>תִי חַרְקַ<span class="ArabicDiacritics">ٔ</span>ת אִלְעָצָא, אִלַ<span class="ArabicDiacritics">ّ</span><span class="ArabicDiacritics">ّ</span>תִי דָרְבַּת אִלְכַּלְבּ, אִלַ<span class="ArabicDiacritics">ّ</span>דִ'י עָדּֿ<span class="ArabicDiacritics">ّ</span> אִלְקֻ<span class="ArabicDiacritics">ٔ</span>טָ<span class="ArabicDiacritics">ّ</span>ה, אִלַ<span class="ArabicDiacritics">ّ</span><span class="ArabicDiacritics">ّ</span>תִי אַכְּלַת אִלְגִ'דִי, אִלַ<span class="ArabicDiacritics">ّ</span>דִ'י שְׁתַרַה לִי אַבּוּי בִּמָצָרִיתֵין. וַאחַד גִ'דִי וַאחַד גִ'דִי.
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 Then came the water and quenched the fire, that burnt the stick, that beat the dog, that bit the cat, that ate the goat, That my father bought for two coins, one little goat, one little goat.
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="25%">
-<div class="aramaic" style="text-align: right;"><span lang="he">
+<div class="aramaic" lang="jpa" style="text-align: right;">
 וְאָתָא תּוֹרָא וְשָׁתָא לְמַיָּא, דְּכָבָה לְנוּרָא, דְּשָׂרַף לְחֻטְרָא, דְּהִכָּה לְכַלְבָּא, דְּנָשַׁךְ לְשֻׁנְרָא, דְּאָכְלָה לְגַדְיָא, דְּזַבִּן אַבָּא בִּתְרֵי זוּזֵי, חַד גַּדְיָא, חַד גַּדְיָא.
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="arabic"><span lang="ar">
+<div class="arabic" lang="ar">
 وأ ج ى اِلثُّور, وشِرِب اِل ميّة اِ لّتي طفَّت اِلنّار اِ لتي ح ر قت اِل عصا اِ لّتي ض ر بت اِل كلب اِلَّذي عضّ القُطَّة اِ لّتي أ ك لت اِلجِدي اِلَّذي شت ا رلي أبوي بِ م صريتين. واحد جِدي واحد جِدي.
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="judeo-arabic"><span lang="he">
+<div class="judeo-arabic" lang="jrb">
 וּאַגַ'ת אִת<span class="ArabicDiacritics">ّ</span>וֺר, וּשִׁרֶבּ אִלְמָיֶ<span class="ArabicDiacritics">ّ</span>ה, אִלַ<span class="ArabicDiacritics">ّ</span><span class="ArabicDiacritics">ّ</span>תִי טָפַ<span class="ArabicDiacritics">ّ</span>ת אִנָ<span class="ArabicDiacritics">ّ</span>אר, אִלַ<span class="ArabicDiacritics">ّ</span><span class="ArabicDiacritics">ّ</span>תִי חַרְקַ<span class="ArabicDiacritics">ٔ</span>ת אִלְעָצָא, אִלַ<span class="ArabicDiacritics">ّ</span><span class="ArabicDiacritics">ّ</span>תִי דָרְבַּת אִלְכַּלְבּ, אִלַ<span class="ArabicDiacritics">ّ</span>דִ'י עָדּֿ<span class="ArabicDiacritics">ّ</span> אִלְקֻ<span class="ArabicDiacritics">ٔ</span>טָ<span class="ArabicDiacritics">ّ</span>ה, אִלַ<span class="ArabicDiacritics">ّ</span><span class="ArabicDiacritics">ّ</span>תִי אַכְּלַת אִלְגִ'דִי, אִלַ<span class="ArabicDiacritics">ّ</span>דִ'י שְׁתַרַה לִי אַבּוּי בִּמָצָרִיתֵין. וַאחַד גִ'דִי וַאחַד גִ'דִי.
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 Then came the ox and drank the water, that quenched the fire, that burnt the stick, that beat the dog, that bit the cat, that ate the goat, That my father bought for two coins, one little goat, one little goat.
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="25%">
-<div class="aramaic" style="text-align: right;"><span lang="he">
+<div class="aramaic" lang="jpa" style="text-align: right;">
 וְאָתָא הַשּׁוֹחֵט וְשָׁחַט לְתוֹרָא, דְּשָׁתָא לְמַיָּא, דְּכָבָה לְנוּרָא, דְּשָׂרַף לְחֻטְרָא, דְּהִכָּה לְכַלְבָּא, דְּנָשַׁךְ לְשֻׁנְרָא, דְּאָכְלָה לְגַדְיָא, דְּזַבִּן אַבָּא בִּתְרֵי זוּזֵי, חַד גַּדְיָא, חַד גַּדְיָא.
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="arabic"><span lang="ar">
+<div class="arabic" lang="ar">
 وأ ج ى الذَّبّاح, و ذ بح اِلثُّور اِلَّذي شِرِب اِل ميّة اِ لتي طفَّت اِلنّار اِ لتي ح ر قت اِل عصا اِ لتي ض ر بت اِل كلب اِلَّذي عضّ القُطَّة اِ لتي أ ك لت اِلجِدي اِلَّذي شت ا رلي أبوي بِ م صريتين. واحد جِدي واحد جِدي.
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="judeo-arabic"><span lang="he">
+<div class="judeo-arabic" lang="jrb">
 וּאַגַ'ת אִדַ<span class="ArabicDiacritics">ّ</span>בַּ<span class="ArabicDiacritics">ّ</span>אח וּדַבַּח אִת<span class="ArabicDiacritics">ّ</span>וֺר, אִלַ<span class="ArabicDiacritics">ّ</span>דִ'י שִׁרֶבּ אִלְמָיֶ<span class="ArabicDiacritics">ّ</span>ה, אִלַ<span class="ArabicDiacritics">ّ</span><span class="ArabicDiacritics">ّ</span>תִי טָפַ<span class="ArabicDiacritics">ّ</span>ת אִנָ<span class="ArabicDiacritics">ّ</span>אר, אִלַ<span class="ArabicDiacritics">ّ</span><span class="ArabicDiacritics">ّ</span>תִי חַרְקַ<span class="ArabicDiacritics">ٔ</span>ת אִלְעָצָא, אִלַ<span class="ArabicDiacritics">ّ</span><span class="ArabicDiacritics">ّ</span>תִי דָרְבַּת אִלְכַּלְבּ, אִלַ<span class="ArabicDiacritics">ّ</span>דִ'י עָדּֿ<span class="ArabicDiacritics">ّ</span> אִלְקֻ<span class="ArabicDiacritics">ٔ</span>טָ<span class="ArabicDiacritics">ّ</span>ה, אִלַ<span class="ArabicDiacritics">ّ</span><span class="ArabicDiacritics">ّ</span>תִי אַכְּלַת אִלְגִ'דִי, אִלַ<span class="ArabicDiacritics">ّ</span>דִ'י שְׁתַרַה לִי אַבּוּי בִּמָצָרִיתֵין. וַאחַד גִ'דִי וַאחַד גִ'דִי.
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 Then came the slaughterer and slaughtered the ox, that drank the water, that quenched the fire, that burnt the stick, that beat the dog, that bit the cat, that ate the goat, That my father bought for two coins, one little goat, one little goat.
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="25%">
-<div class="aramaic" style="text-align: right;"><span lang="he">
+<div class="aramaic" lang="jpa" style="text-align: right;">
 וְאָתָא מַלְאַךְ־הַמָּ֫וֶת וְשָׁחַט לְשׁוֹחֵט, דְּשָׁחַט לְתוֹרָא, דְּשָׁתָא לְמַיָּא, דְּכָבָה לְנוּרָא, דְּשָׂרַף לְחֻטְרָא, דְּהִכָּה לְכַלְבָּא, דְּנָשַׁךְ לְשֻׁנְרָא, דְּאָכְלָה לְגַדְיָא, דְּזַבִּן אַבָּא בִּתְרֵי זוּזֵי, חַד גַּדְיָא, חַד גַּדְיָא.
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="arabic"><span lang="ar">
+<div class="arabic" lang="ar">
 وأ ج ى ملاك اِلموت وأ خ ذ روح اِلذَّبّاح اِلَّذي و ذ بح اِلثُّور اِلَّذي شِرِب اِل ميّة اِ لّتي طفَّت اِلنّار اِ لتي ح ر قت اِل عصا اِ لتي ض ر بت اِل كلب اِلَّذي عضّ القُطَّة اِ لتي أ ك لت اِلجِدي اِلَّذي شت ا رلي أبوي بِ م صريتين. واحد جِدي واحد جِدي.
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="judeo-arabic"><span lang="he">
+<div class="judeo-arabic" lang="jrb">
 וּאַגַ'ת מִַלַאכּ אִלְמות וּאַחַ'ד רוֹח אִדַ<span class="ArabicDiacritics">ّ</span>בַּ<span class="ArabicDiacritics">ّ</span>אח, אִלַ<span class="ArabicDiacritics">ّ</span>דִ'י דַבַּח אִת<span class="ArabicDiacritics">ّ</span>וֺר, אִלַ<span class="ArabicDiacritics">ّ</span>דִ'י שִׁרֶבּ אִלְמָיֶ<span class="ArabicDiacritics">ّ</span>ה, אִלַ<span class="ArabicDiacritics">ّ</span><span class="ArabicDiacritics">ّ</span>תִי טָפַ<span class="ArabicDiacritics">ّ</span>ת אִנָ<span class="ArabicDiacritics">ّ</span>אר, אִלַ<span class="ArabicDiacritics">ّ</span><span class="ArabicDiacritics">ّ</span>תִי חַרְקַ<span class="ArabicDiacritics">ٔ</span>ת אִלְעָצָא, אִלַ<span class="ArabicDiacritics">ّ</span><span class="ArabicDiacritics">ّ</span>תִי דָרְבַּת אִלְכַּלְבּ, אִלַ<span class="ArabicDiacritics">ّ</span>דִ'י עָדּֿ<span class="ArabicDiacritics">ّ</span> אִלְקֻ<span class="ArabicDiacritics">ٔ</span>טָ<span class="ArabicDiacritics">ّ</span>ה, אִלַ<span class="ArabicDiacritics">ّ</span><span class="ArabicDiacritics">ّ</span>תִי אַכְּלַת אִלְגִ'דִי, אִלַ<span class="ArabicDiacritics">ّ</span>דִ'י שְׁתַרַה לִי אַבּוּי בִּמָצָרִיתֵין. וַאחַד גִ'דִי וַאחַד גִ'דִי.
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 Then came the Angel of Death and killed the slaughterer, that slaughtered the ox, that drank the water, that quenched the fire, that burnt the stick, that beat the dog, that bit the cat, that ate the goat, That my father bought for two coins, one little goat, one little goat.
 </div>
 </td></tr>
 
 
 <tr><td style="vertical-align:top;" width="25%">
-<div class="aramaic" style="text-align: right;"><span lang="he">
+<div class="aramaic" lang="jpa" style="text-align: right;">
 וְאָתָא הַקָּדוֹשׁ־בָּרוּךְ־הוּא וְשָׁחַט לְמַלְאַךְ־הַמָּ֫וֶת וְשָׁחַט לְשׁוֹחֵט, דְּשָׁחַט לְתוֹרָא, דְּשָׁתָא לְמַיָּא, דְּכָבָה לְנוּרָא, דְּשָׂרַף לְחֻטְרָא, דְּהִכָּה לְכַלְבָּא, דְּנָשַׁךְ לְשֻׁנְרָא, דְּאָכְלָה לְגַדְיָא, דְּזַבִּן אַבָּא בִּתְרֵי זוּזֵי, חַד גַּדְיָא, חַד גַּדְיָא.
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="arabic"><span lang="ar">
+<div class="arabic" lang="ar">
 وأ ج ى المُ قدَّس مُبا رك هو, وأ خذ ملاك اِلموت اِلَّذي أ خذ روح اِلذَّبّاح اِلَّذي ذ بح اِلثُّور اِلَّذي شِرِب اِل ميّة اِ لّتي طفَّت اِلنّار اِ لتي ح ر قت اِل عصا اِ لتي ض ر بت اِل كلب اِلَّذي عضّ القُطَّة اِ لّتي أ ك لت اِلجِدي اِلَّذي شت ا رلي أبوي بِ م صريتين. واحد جِدي واحد جِدي.
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="judeo-arabic"><span lang="he">
+<div class="judeo-arabic" lang="jrb">
 וּאַגַ'ת אלְמֻקָדַ<span class="ArabicDiacritics">ّ</span>ס מֻבַּארַכּ הוּ, וּאַחַ'ד מִַלַאכ אִלְמות, אִלַ<span class="ArabicDiacritics">ّ</span>דִ'י אִַחִַ'ד רוֹח אִדַ<span class="ArabicDiacritics">ّ</span>בַּ<span class="ArabicDiacritics">ّ</span>אח, אִלַ<span class="ArabicDiacritics">ّ</span>דִ'י דַבַּח אִת<span class="ArabicDiacritics">ّ</span>וֺר, אִלַ<span class="ArabicDiacritics">ّ</span>דִ'י שִׁרֶבּ אִלְמָיֶ<span class="ArabicDiacritics">ّ</span>ה, אִלַ<span class="ArabicDiacritics">ّ</span><span class="ArabicDiacritics">ّ</span>תִי טָפַ<span class="ArabicDiacritics">ّ</span>ת אִנָ<span class="ArabicDiacritics">ّ</span>אר, אִלַ<span class="ArabicDiacritics">ّ</span><span class="ArabicDiacritics">ّ</span>תִי חַרְקַ<span class="ArabicDiacritics">ٔ</span>ת אִלְעָצָא, אִלַ<span class="ArabicDiacritics">ّ</span><span class="ArabicDiacritics">ّ</span>תִי דָרְבַּת אִלְכַּלְבּ, אִלַ<span class="ArabicDiacritics">ّ</span>דִ'י עָדּֿ<span class="ArabicDiacritics">ّ</span> אִלְקֻ<span class="ArabicDiacritics">ٔ</span>טָ<span class="ArabicDiacritics">ّ</span>ה, אִלַ<span class="ArabicDiacritics">ّ</span><span class="ArabicDiacritics">ّ</span>תִי אַכְּלַת אִלְגִ'דִי, אִלַ<span class="ArabicDiacritics">ّ</span>דִ'י שְׁתַרַה לִי אַבּוּי בִּמָצָרִיתֵין. וַאחַד גִ'דִי וַאחַד גִ'דִי.
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">	
+<div class="english" lang="en">	
 Then came the blessed Holy One, and took the Angel of Death, that killed the slaughterer, that slaughtered the ox, that drank the water, that quenched the fire, that burnt the stick, that beat the dog, that bit the cat, that ate the goat, That my father bought for two coins, one little goat, one little goat.
 </div>
 </td></tr>

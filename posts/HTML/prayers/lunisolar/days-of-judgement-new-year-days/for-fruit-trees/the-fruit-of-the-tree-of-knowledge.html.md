@@ -12,13 +12,13 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 חכמינו זכרם לברכה שאלו 
 מה היה עץ הדעת שממנו אכלו אדם וחוה.‏
 ארבעה רבנים הציעו ארבע תשובות -‏ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Our sages of blessed memory asked 
 what was the tree of knowledge from which Adam and Ḥavah ate. 
 Four rabbis gave four different answers:
@@ -28,14 +28,14 @@ Four rabbis gave four different answers:
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ר׳ מאיר אומר: חטים היו [...]‏
 ר׳ יהודה בר' אילעאי אמר ענבים היו [...]‏
 ר׳ אבא דעכו אמר אתרוג היה [...]‏
 ר׳ יוסי אומר תאנים היו  <span class="citation">(בראשית רבה יט)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Rabbi Meir said: “It was wheat…”
 Rabbi Yehuda Bar Ela’I said: “it was grapes…”
 Rabbi Abba of Acre said: “it was an etrog…”
@@ -46,7 +46,7 @@ Rabbi Yossi said: “it was figs…” (Genesis Rabbah 19)
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ניקח בידינו פרוסת לחם או מאפה העשוי מחִטה, 
 נטעם ונאמר:‏
 באכלנו את הלחם בטבעיות ובנינוחות, 
@@ -56,7 +56,7 @@ Rabbi Yossi said: “it was figs…” (Genesis Rabbah 19)
 לפעול למיגור העוני ולתיקון הפערים בחברה הישראלית.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 We take up bread or a wheat product, 
 taste it and say:
 “When we eat bread so naturally and comfortably, 
@@ -70,7 +70,7 @@ to act to reduce poverty and the social gaps in our society.”
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ניקח בידינו צימוקים או יין ענבים, 
 נטעם (או נלגום) ונאמר:
 בטעמנו את פרי הגפן, אנו אומרים 
@@ -84,7 +84,7 @@ to act to reduce poverty and the social gaps in our society.”
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 We take up raisins or wine made from grapes, 
 taste and say:
 “Through tasting the fruit of the vine we state 
@@ -101,7 +101,7 @@ never abandoning them.”
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ניקח בידינו תאנה, 
 נטעם ממנה ונאמר:‏
 "וְיָשְׁב֗וּ אִ֣ישׁ 
@@ -119,7 +119,7 @@ never abandoning them.”
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
  We take up a fig, 
 taste it and say:
 “'And every person 
@@ -140,7 +140,7 @@ the lands and the property of fellow human beings.”
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ניקח בידינו פרי עץ הדר המסמל את האתרוג,[foot]חז״ל זיהו את "פרי עץ הדר", שאותו דרשה התורה לקחת בסוכות (ויקרא כג, 40) עם האתרוג.‏[/foot] 
 נטעם ממנו ונאמר:‏
 פְּרִי עֵץ הָדָר מְסֻמָּל בְּנֵי אָדָם 
@@ -153,7 +153,7 @@ the lands and the property of fellow human beings.”
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english"> 
+<div class="english" lang="en"> 
 We take up a citrus fruit symbolizing the etrog, 
 taste it and say:
 “The etrog symbolizes the person 
@@ -169,7 +169,7 @@ We must work determinedly to achieve justice.”
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 באוכלנו מן המאכלים 
 שאותם זיהו חז״ל 
 עם פרי עץ הדעת, 
@@ -187,7 +187,7 @@ We must work determinedly to achieve justice.”
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english"> 
+<div class="english" lang="en"> 
 Through eating those fruits 
 that our sages of blessed memory identified 
 as the fruit of the tree of knowledge, 
@@ -208,7 +208,7 @@ and to those who love her.
 
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ברוך אתה ה׳ 
 אשר חנן אותנו בבינה 
 להבחין בין טוב ובין רע 
@@ -216,7 +216,7 @@ and to those who love her.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english"> 
+<div class="english" lang="en"> 
 Blessed are you YHVH (Hashem), 
 Who grants us the insight 
 to distinguish between good and evil, 

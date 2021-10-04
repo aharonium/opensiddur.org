@@ -11,36 +11,36 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;"><a href="https://opensiddur.org/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <u>May Wars Cease</u>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ...וְכִתְּתוּ חַרְבוֹתָם לְאִתִּים...
 וְלֹא־יִלְמְדוּ עוֹד מִלְחָמָה׃ <span class="citation">(ישעיה ב:ד)</span>
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 “And they shall turn their swords into ploughshares, and...
 they shall not learn any more war ”— <span class="citation">(Isaiah 2:4)</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 O God of life who madest man, 
 With heart and soul and mind; 
 Bless thou the work of all who strive 
@@ -49,12 +49,12 @@ To bless all humankind.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Make clearer day by day the speech 
 Of all who work for peace; 
 And bless the noble hope and dream— 
@@ -63,12 +63,12 @@ That wars on earth will cease.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 O cause the love of war to die; 
 Bid strife and hatred go; 
 That men on earth may live for love 
@@ -77,12 +77,12 @@ And life in sweetness grow.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May nations from war’s doom be freed, 
 The way to peace be found! 
 O may its song of joy be born 

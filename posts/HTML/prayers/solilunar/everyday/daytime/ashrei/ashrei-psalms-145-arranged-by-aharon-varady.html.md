@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אַשְׁרֵ֥י תְמִֽימֵי־דָ֑רֶךְ 
 הַֽ֝הֹלְכִ֗ים בְּתוֹרַ֥ת יְהוָֽה׃ 
 אַ֭שְׁרֵי נֹצְרֵ֥י עֵדֹתָ֗יו 
@@ -19,7 +19,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Blessed[foot]The translation here of "blessed" for אשרי is based upon the following insight shared by Raanan Eichler in his article, "The Priestly Asherah," in which he writes: "One of the essential meanings of the root אשׁר clearly overlaps with that of ברך , “bless”, to a great degree. Thus Psalm 72:17, the finale of “the prayers of David son of Jesse” (v. 20), reads, “may people bless themselves by him; may all nations אשׁר him” (וְיִתְבָּרְכוּ בוֹ כָּל גּוֹיִם יְאַשְּׁרוּהוּ ). Deut 33:24, in the blessing of Moses, reads, “blessed among children is Asher” (בָּרוּךְ מִבָּנִים אָשֵׁר )."[/foot] are they upright in the path, 
 who walk with the teaching of YHVH. 
 Blessed are they who keep their testimonies, 
@@ -28,33 +28,33 @@ who seek Hashem with all their attention.[foot]Psalms 119:1-2.[/foot]
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אַשְׁרֵ֣י אָ֭דָם עֽוֹז־ל֥וֹ בָ֑ךְ 
 מְ֝סִלּ֗וֹת בִּלְבָבָֽם׃ <span class="citation">(תהלים פד:ו)</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Blessed is the one who finds refuge in you, 
 whose mind is on the [pilgrim] highways.[foot]Psalms 84:6[/foot]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אַשְׁרֵ֣י הָ֭עָם יוֹדְעֵ֣י תְרוּעָ֑ה 
 יְ֝הוָ֗ה בְּֽאוֹר־פָּנֶ֥יךָ יְהַלֵּכֽוּן׃ <span class="citation">(תהלים פט:טז)</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Blessed are the people that know the joyful <em>yawp</em>; 
 they walk, YHVH, in the light of your countenance.[foot]Psalms 89:16[/foot]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אַשְׁרֵ֤י ׀ תִּֽבְחַ֣ר וּתְקָרֵב֮ 
 יִשְׁכֹּ֪ן חֲצֵ֫רֶ֥יךָ 
 נִ֭שְׂבְּעָה בְּט֣וּב בֵּיתֶ֑ךָ 
@@ -62,7 +62,7 @@ they walk, YHVH, in the light of your countenance.[foot]Psalms 89:16[/foot]
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Blessed is the one whom you choose and bring near 
 that they may dwell in your courts; 
 may we be satisfied with the goodness of your house
@@ -71,40 +71,40 @@ the holy place of your Temple![foot]Psalms 75:5[/foot]
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אַ֥שְֽׁרֵי אָדָ֗ם לֹ֤א יַחְשֹׁ֬ב יְהוָ֣ה ל֣וֹ עָוֺ֑ן 
 וְאֵ֖ין בְּרוּח֣וֹ רְמִיָּה׃ <span class="citation">(תהלים לב:ב)</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Blessed is the one whom YHVH does not hold guilty, 
 and in whose spirit there is no deceit.[foot]Psalms 32:2[/foot]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אַשְׁרֵ֥י נְֽשׂוּי־פֶּ֗שַׁע 
 כְּס֣וּי חֲטָאָֽה׃ <span class="citation">(תהלים לב:א)</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Blessed are they whose transgression is forgiven, 
 whose sin is concealed.[foot]Psalms 32:1[/foot]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אַ֥שְֽׁרֵי־הָאִ֗ישׁ אֲשֶׁ֤ר ׀ לֹ֥א הָלַךְ֮ בַּעֲצַ֪ת רְשָׁ֫עִ֥ים 
 וּבְדֶ֣רֶךְ חַ֭טָּאִים לֹ֥א עָמָ֑ד 
 וּבְמוֹשַׁ֥ב לֵ֝צִ֗ים לֹ֣א יָשָֽׁב׃ <span class="citation">(תהלים א:א)</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Blessed is the one who has not followed the counsel of the wicked, 
 or taken the path of sinners, 
 or joined the company of the insolent.[foot]Psalms 1:1[/foot]
@@ -112,59 +112,59 @@ or joined the company of the insolent.[foot]Psalms 1:1[/foot]
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">	
+<div class="liturgy" lang="he">	
 אַ֭שְׁרֵי שֹׁמְרֵ֣י מִשְׁפָּ֑ט 
 עֹשֵׂ֖ה צְדָקָ֣ה בְכׇל־עֵֽת׃ <span class="citation">(תהלים קו:ג)</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Blessed are those who act justly, 
 who are righteous at all times.[foot]Psalms 106:3[/foot]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אַ֭שְׁרֵי יוֹשְׁבֵ֣י בֵיתֶ֑ךָ 
 ע֝֗וֹד יְֽהַלְל֥וּךָ סֶּֽלָה׃ <span class="citation">(תהלים פד:ה)</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Blessed are those who dwell in your house; 
 they forever praise you. <em>Selah!</em>[foot]Psalms 84:5[/foot]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אַשְׁרֵ֣י הָ֭עָם שֶׁכָּ֣כָה לּ֑וֹ 
 אַֽשְׁרֵ֥י הָ֝עָ֗ם שֶׁיֲהוָ֥ה אֱלֹהָֽיו׃ <span class="citation">(תהלים קמד:טו)</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Blessed are the people who have it so; 
 blessed are the people whose <em>elo’ah</em> is YHVH.[foot]Psalms 144:15[/foot]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 תְּהִלָּ֗ה 
 לְדָ֫וִ֥ד 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 A <em>Tehillah</em>, 
 of David. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">אֲ</span>רוֹמִמְךָ֣ אֱלוֹהַ֣י הַמֶּ֑לֶךְ 
 וַאֲבָרֲכָ֥ה שִׁ֝מְךָ֗ לְעוֹלָ֥ם וָעֶֽד׃ 
 <span class="acrostic">בְּ</span>כׇל־י֥וֹם אֲבָרֲכֶ֑ךָּ 
@@ -174,7 +174,7 @@ of David.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="acrostic">&nbsp;</span>I shall exalt you, my <em>elo'ah</em> the King; 
 I will bless your name in the cosmos forever. 
 <span class="acrostic">&nbsp;</span>Every day will I bless you; 
@@ -185,7 +185,7 @@ there is no end to contemplating their immensity.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">דּ֣</span>וֹר לְ֭דוֹר יְשַׁבַּ֣ח מַעֲשֶׂ֑יךָ 
 וּגְב֖וּרֹתֶ֣יךָ יַגִּֽידוּ׃ 
 <span class="acrostic">הֲ֭</span>דַר כְּב֣וֹד הוֹדֶ֑ךָ 
@@ -197,7 +197,7 @@ there is no end to contemplating their immensity.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="acrostic">&nbsp;</span>One generation to another shall praise your poësis
 and recount your powerful acts.
 <span class="acrostic">&nbsp;</span>I shall relate the beauty of your resplendent majesty 
@@ -210,7 +210,7 @@ and of your righteousness shall they sing.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">חַ</span>נּ֣וּן וְרַח֣וּם יְהוָ֑ה 
 אֶ֥רֶךְ אַ֝פַּ֗יִם וּגְדָל־חָֽסֶד׃ 
 <span class="acrostic">ט</span>וֹב־יְהוָ֥ה לַכֹּ֑ל 
@@ -220,7 +220,7 @@ and of your righteousness shall they sing.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="acrostic">&nbsp;</span>Gracious and compassionate is YHVH, 
 withholding wrath and exceeding in lovingkindness. 
 <span class="acrostic">&nbsp;</span>YHVH is benevolent to all 
@@ -231,7 +231,7 @@ and your lovingkindnesses shall bless you.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">כְּ</span>ב֣וֹד מַלְכוּתְךָ֣ יֹאמֵ֑רוּ 
 וּגְבוּרָתְךָ֥ יְדַבֵּֽרוּ׃ 
 <span class="acrostic">לְ</span>הוֹדִ֤יעַ ׀ לִבְנֵ֣י הָ֭אָדָם גְּבוּרֹתָ֑יו 
@@ -249,13 +249,13 @@ and your lovingkindnesses shall bless you.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="acrostic">&nbsp;</span>The resplendence of your kingdom shall they proclaim 
 and your strength shall they declare, 
 <span class="acrostic">&nbsp;</span>in order to make known to humanity the power 
 and the radiant spirit of Hashem’s beautiful kingdom. 
 <span class="acrostic">&nbsp;</span>Your kingdom is a kingdom over the Cosmos 
-and your reign across all the generations.[foot]The reference to "all the generations" necessarily includes the <em>dor hamabul</em> -- the depraved generation whose transgressions brought about the Deluge. The following verses may be read, I believe, as an allusion to the descent of the angels in those days and the corruption they and their giant progeny brought upon that generation of humanity, an etiology for the origin of predation in Nature. Cf. The Midrash of Shemḥazai and Azael found in Yalkut Shemoni (end of Parashat Noaḥ) and in Midrash Abkir (see Otsar Midrashim for the text). The import of the Midrash of Shemḥazai and Azael, its etiology of predation, and its echo in our own generation marked by such unquenchable appetites that are causing mass extinctions and global climate change -- call to me to emphasize this particular reading. The traditional rabbinic explanation for the absence of a following <em>nun</em> verse in the alphabetic acrostic is provided in the discussion found in <a href="http://www.sefaria.org/Berakhot.4b.21-26?lang=bi&with=all&lang2=en">Berachot 4b</a>, which references the despairing verse in Amos 5:2, נָפְלָה לֹא־תוֹסִיף קוּם בְּתוּלַת יִשְׂרָאֵל נִטְּשָׁה עַל־אַדְמָתָהּ אֵין מְקִימָהּ׃ (“The virgin of Israel has fallen and she will rise no more; abandoned in her land, none will raise her up”). I find it suggestive however that this discussion is immediately followed by what appears on the surface to be a <em>non sequitur</em> angelological discourse on the relative powers of the archangels Michael and Gavriel, as well as the angelified Eliyahu haNavi and the Angel of Death. (An alternative nun verse is found in the variation of Psalms 145 in the Dead Sea Scrolls: <span class="hebrew">נֶאֱמָן יהוה בְכׇל־דְבָרָיו וְחָסִיד בְּכׇל־מַעֲשָׂיו</span>.)[/foot]&nbsp;
+and your reign across all the generations.[foot]The reference to "all the generations" necessarily includes the <em>dor hamabul</em> -- the depraved generation whose transgressions brought about the Deluge. The following verses may be read, I believe, as an allusion to the descent of the angels in those days and the corruption they and their giant progeny brought upon that generation of humanity, an etiology for the origin of predation in Nature. Cf. The Midrash of Shemḥazai and Azael found in Yalkut Shemoni (end of Parashat Noaḥ) and in Midrash Abkir (see Otsar Midrashim for the text). The import of the Midrash of Shemḥazai and Azael, its etiology of predation, and its echo in our own generation marked by such unquenchable appetites that are causing mass extinctions and global climate change -- call to me to emphasize this particular reading. The traditional rabbinic explanation for the absence of a following <em>nun</em> verse in the alphabetic acrostic is provided in the discussion found in <a href="http://www.sefaria.org/Berakhot.4b.21-26?lang=bi&with=all&lang2=en">Berachot 4b</a>, which references the despairing verse in Amos 5:2, נָפְלָה לֹא־תוֹסִיף קוּם בְּתוּלַת יִשְׂרָאֵל נִטְּשָׁה עַל־אַדְמָתָהּ אֵין מְקִימָהּ׃ (“The virgin of Israel has fallen and she will rise no more; abandoned in her land, none will raise her up”). I find it suggestive however that this discussion is immediately followed by what appears on the surface to be a <em>non sequitur</em> angelological discourse on the relative powers of the archangels Michael and Gavriel, as well as the angelified Eliyahu haNavi and the Angel of Death. (An alternative nun verse is found in the variation of Psalms 145 in the Dead Sea Scrolls: <span class="hebrew" lang="he">נֶאֱמָן יהוה בְכׇל־דְבָרָיו וְחָסִיד בְּכׇל־מַעֲשָׂיו</span>.)[/foot]&nbsp;
 <span class="acrostic">&nbsp;</span>[All your enemies fell down, YHVH, 
 and all their might was swallowed up.][foot]The aleph-bet acrostic is broken at this point in the Masoretic text by the absence of a verse for the nun. The text for the nun here is brought from the <em>Chronicle of Gad the Seer</em> (ch. 10), a work preserved by the Jews of Cochin, India. Reuven Kimelman in "Psalm 145: Theme, Structure, and Impact"(JBL 113/1 (1994) 37-58) gives a solid argument why this is an interpolation rather than a recovered original verse: "the verbs are in the perfect, unlike any other in the psalm" and not all biblical psalms are perfect acrostics.[/foot]&nbsp;
 <span class="acrostic">&nbsp;</span>YHVH supports all the fallen 
@@ -268,7 +268,7 @@ and satisfy the desire of every living being.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">צַ</span>דִּ֣יק יְ֭הוָה בְּכׇל־דְּרָכָ֑יו 
 וְ֝חָסִ֗יד בְּכׇל־מַעֲשָֽׂיו׃ 
 <span class="acrostic">קָ</span>ר֣וֹב יְ֭הוָה לְכׇל־קֹרְאָ֑יו 
@@ -282,7 +282,7 @@ and satisfy the desire of every living being.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="acrostic">&nbsp;</span>Righteous is YHVH in all their ways 
 and kind in all their poësis. 
 <span class="acrostic">&nbsp;</span>Near is YHVH to all who reach out to Hashem, 
@@ -297,14 +297,14 @@ and all creatures will bless THEIR holy Name in the cosmos forever.[foot]End of 
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וַאֲנַ֤חְנוּ ׀ נְבָ֘רֵ֤ךְ יָ֗הּ 
 מֵֽעַתָּ֥ה וְעַד־עוֹלָ֗ם 
 הַֽלְלוּ־יָֽהּ׃ <span class="citation">(תהלים קטו:קיח)</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 And we will bless You, Yah, 
 from now until the end of the cosmos!
 Hallelu Yah![foot]Psalms 115:118.[/foot]

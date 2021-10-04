@@ -11,17 +11,17 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: left;">Source (German)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="50%">
-<div class="german"><span lang="de">
+<div class="german" lang="de">
 <u>Am Montag</u>
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
-<div class="english">
+<div class="english" lang="en">
 <u>On Monday</u>
 </span></div></td></tr>
 
 <tr><td style="vertical-align:top;" width="50%">
-<div class="german"><span lang="de">
+<div class="german" lang="de">
     „Und Gott sprach: 
     Uebers Weltgetümmel, 
     Dehne sich ein Himmel!” 
@@ -29,7 +29,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
-<div class="english">
+<div class="english" lang="en">
 God said, 
 "Let there be an expanse in the midst of the water
 And let it separate water from water." ...
@@ -38,23 +38,23 @@ God called the expanse "Sky." (Genesis 1:6-8)
 
 
 <tr><td style="vertical-align:top;" width="50%">
-<div class="german"><span lang="de">
+<div class="german" lang="de">
 Ich schaue hinauf, mein Gott und Herr, zu dem schönen, wundervollen Himmel, den du über die Erde gewölbt, aus dessen heiterer Bläue du uns so freundlich anblickst, aus dessen umwölkten Höhen, Allvater, du zu uns redest, in der ernsten furchtbaren Sprache des Donners und des Blitzes, ich schaue hinauf, und mein Blick hanget mit Ehrfurcht an diesen Höhen, die du so reich mit Wundern hast geschmückt und ausgestattet. Ach, wie arm wären wir, so du in deiner Huld uns diesen Anblick nicht gewährt hättest. Was wäre uns die Erde, wie traurig, wie öde, wie freudlos, so wir den Himmel nicht über uns hätten! Unsere schönsten Hoffnungen tragen wir in den Himmel hinein, dorthin sehnt sich unser Geist, dorthin richtet sich unser Blick in Freud und Leid, in guten, wie in bösen Tagen, und es kehrt Friede und Stärkung in unser Herz ein. Ja, hoch in dem Himmel ist dein Thron, in den fernen Weltenhöhen ist dein Sitz, doch nicht fern bist du, o Gott, dem Erdenkinde; dein Recht und deine Milde, die walten bis an der Welten Ende, und das geringste deiner Geschöpfe trägst du an deinem Vaterherzen, leitest du an deiner treuen Vaterhand.
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
-<div class="english">
+<div class="english" lang="en">
 I look up, my God and Sovereign, to the beautiful sky, so full of wonders, that you have cast above the earth. I gaze up at the vast expanse of blue -- at the clouded heights from which you speak in the solemn, commanding language of thunder and lightning. I look up and my gaze rests with awe on these heavens that you have clothed so gloriously in wonder. Oh, how poor we would have been if you hadn't, in your grace, granted us this view! What would the earth have been for us how sad, how barren, how joyless, If you hadn't given us the sky? We cast our dearest hopes into the heavens; our spirits yearn toward its heights. Our gaze turns toward it in times of joy and sorrow, on good days and on bad. From the heavens we draw joy and strength into our hearts. Yes, O Holy One, your throne lies at the pinnacle of heaven. Your seat rests in the distant heights beyond all heights; yet, for all that, you are never far from your earthly children. Your justice and your compassion reign over the whole world, yet you carry the smallest of your creations close to your heart. You guide them with a faithful parental hand.
 </span></div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="50%">
-<div class="german"><span lang="de">
+<div class="german" lang="de">
 Erhalte mir, Allvater, stets ein offenes Auge für die Wunderwerke deiner Schöpfung, und einen offenen Sinn, um dich, den weisen, allmächtigen, allliebenden Schöpfer und Vater des Alls zu erkennen: ein offenes Herz, daß darin einziehe die allumfassende Liebe: die Liebe zu dir, mein Gott, und die Liebe zu deinen Geschöpfen; daß darin heimisch werde der Muth und die Kraft, die Willenskraft und die Ausdauer zu üben das Gute, zu vollführen das Heil- und Segensvolle für mich, für meine Angehörigen und meinen Nächsten. Erhalte mir den Himmel des Lebens rein und ungetrübt von Gram und Schmerz; erleuchte ihn mir durch das segensvolle Licht deiner Huld und Gnade, die du nimmer versagen und entziehen wollest mir und den Meinigen und der ganzen großen Menschenwelt. <em>Amen</em>. 
 </span></div></td>
 
 <td style="vertical-align:top;" width="50%">
-<div class="english">
+<div class="english" lang="en">
 Preserve for me, Parent of All, an eye forever open to the wondrous works of your creation. Preserve in me a consciousness forever open to you, All-Wise, Almighty, All-Loving Creator and Parent of All. Preserve in me an open heart in which to instill an all-encompassing love -- a love for you, O God, and for all your creations. May strength and courage always dwell in my heart along with the intention and energy to practice goodness and to pursue all that is life-giving and blessed for me, for my loved ones, and for all my neighbors. Preserve for me the heaven of this life, pure and untroubled by grief and suffering. Enlighten it through the blessed light of your grace and mercy, which you never withhold, and draw me into it-me and all my loved ones and the great, vast world of humanity. <em>Amen</em>.
 </span></div></td>
  </tr>

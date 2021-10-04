@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Paraliturgical Reflection (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה 
 יְיָ אֱלֹהֵֽינוּ
 מֶֽלֶךְ הָעוֹלָם,
@@ -20,21 +20,21 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 I bless You, Holy One, 
 whose Spirit compels me to seek wisdom.  
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְהַעֲרֶב נָא יְיָ אֱלֹהֵֽינוּ
 אֶת דִּבְרֵי תוֹרָתְךָ בְּפִֽינוּ,
 וּבְפִי כׇל עַמְּךָ בֵּית יִשְׂרָאֵל.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Remind me that seeking wisdom is sweet,
 that learning is a sacred act even when it is uncomfortable,
 even when I do not understand right away.  
@@ -42,7 +42,7 @@ even when I do not understand right away.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְנִהְיֶה אֲנַֽחְנוּ וְצֶאֱצָאֵֽינוּ,
 וְצֶאֱצָאֵי כׇל עַמְּךָ בֵּית יִשְׂרָאֵל,
 כֻּלָּנוּ יוֹדְעֵי שְׁמֶֽךָ
@@ -50,38 +50,38 @@ even when I do not understand right away.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Remind me that I am in a long line of wisdom-seekers,
 from my ancestors before me to my students and descendants after me.  
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה יְיָ
 הַמְלַמֵּד תּוֹרָה
 לְעַמּוֹ יִשְׂרָאֵל׃
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Remind me that I who wrestle with being alive am part of a human community of other wrestlers.  
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Remind me that all our seeking is for the sake of You, the One who is Consciousness.  
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה
 יְיָ אֱלֹהֵֽינוּ
 מֶֽלֶךְ הָעוֹלָם,
@@ -92,7 +92,7 @@ Remind me that all our seeking is for the sake of You, the One who is Consciousn
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 I bless You, Holy One, who teaches wisdom through the ages and in my life.
 </div></td></tr>
 </tbody></table>

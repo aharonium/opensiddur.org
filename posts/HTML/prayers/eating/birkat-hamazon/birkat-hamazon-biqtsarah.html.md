@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה 
 יְיָ אֱלֹהֵֽינוּ 
 מֶֽלֶךְ הָעוֹלָם 
@@ -30,7 +30,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Blessed are you, 
 YHVH our <em>elo'ah</em>, 
 cosmic majesty, 
@@ -50,7 +50,7 @@ Sustainer of All.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 נוֹדֶה לְךָ 
 יְיָ אֱלֹהֵֽינוּ 
 עַל שֶׁהִנְחַֽלְתָּ לַאֲבוֹתֵֽינוּ 
@@ -63,7 +63,7 @@ Sustainer of All.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 We thank you 
 YHVH our <em>elo'ah</em>, 
 for that which you bequeathed to our ancestors 
@@ -77,7 +77,7 @@ for the Earth and for the food.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רַחֵם יְיָ אֱלֹהֵֽינוּ עָלֵֽינוּ 
 עַל יִשְׂרָאֵל עַמֶּֽךָ 
 וְעַל יְרוּשָׁלַֽםִ עִירֶֽךָ 
@@ -90,7 +90,7 @@ for the Earth and for the food.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Have compassion upon us, YHVH our <em>elo'ah</em>,
 on Yisrael your people, 
 upon Yerushalayim (the City of Peace) your city,[foot]Cf. Psalms 122, Ibn Ezra on Psalms 122:6, Ibn Ezra on Psalms 76:3, and Ibn Ezra on Genesis 14:18.[/foot] 
@@ -104,7 +104,7 @@ Amen.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה 
 יְיָ אֱלֹהֵֽינוּ 
 מֶֽלֶךְ הָעוֹלָם 
@@ -120,7 +120,7 @@ Amen.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Blessed are you, 
 YHVH our <em>elo'ah</em>
 cosmic majesty, 

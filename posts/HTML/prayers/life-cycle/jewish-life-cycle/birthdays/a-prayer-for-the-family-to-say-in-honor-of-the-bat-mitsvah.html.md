@@ -11,21 +11,21 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th><th style="text-align: left;">Translation (Yiddish)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="28%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="instruction">כולם:</span>
  צֵאוּ וּרְאוּ בְּנוֹת וּבְנֵי צִיּוֹן יַלְדָּה שֶׁהָפְכָה לְנַעֲרָה, תִּינֹקֶת שֶׁל בֵּית רַבָּן שֶׁנִּהְיֵית בַּת יִשְׂרָאֵל.
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 <em>Everyone:</em>
 Go out and see, daughters and sons of Zion, the girl who has turned into a young woman, a preschooler who has become a daughter of Israel.
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="yiddish">
+<div class="yiddish" lang="yi">
 &nbsp;
 <span class="instruction">אַלע:</span>
  קומט און זעט, קינדער פֿון ציון, אַן עופֿעלע געװאַקסן אין אַ מײדעלע, אַ חדר־מײדל געװאָרן אַ טאָכטער פֿון ישׂראל.
@@ -34,21 +34,21 @@ Go out and see, daughters and sons of Zion, the girl who has turned into a young
 
 
 <tr><td style="vertical-align:top;" width="28%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 <span class="instruction">הורים:</span>
  בָּרוֹךְ בֹּרַכְנוּ בְּיַלְדָּה אֲשֶׁר מְאִירָה כְּשֶׁמֶשׁ וְכַיָּרֵחַ
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 <em>Parents:</em> 
 Blessed is the one who blessed us with this daughter who shines like the sun and the moon
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="yiddish">
+<div class="yiddish" lang="yi">
 &nbsp;
 <span class="instruction">עלטערן:</span>
  מיר זײַנען טאַקע געבענטשט מיט אַ טאָכטער װאָס בלישטשעט װי די זון און װי די לבֿנה.
@@ -57,21 +57,21 @@ Blessed is the one who blessed us with this daughter who shines like the sun and
 
 
 <tr><td style="vertical-align:top;" width="28%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 <span class="instruction">כולם:</span>
  צֵאוּ וּרְאוּ בְּנוֹת וּבְנֵי צִיּוֹן יַלְדָּה שֶׁהָפְכָה לְנַעֲרָה, תִּינֹקֶת שֶׁל בֵּית רַבָּן שֶׁנִּהְיֵית בַּת יִשְׂרָאֵל.
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 <em>Everyone:</em> 
 Go out and see, daughters and sons of Zion, the girl who has turned into a young woman, a preschooler who has become a daughter of Israel.
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="yiddish">
+<div class="yiddish" lang="yi">
 &nbsp;
 <span class="instruction">אַלע:</span>
  קומט און זעט, קינדער פֿון ציון, אַן עופֿעלע געװאַקסן אין אַ מײדעלע, אַ חדר־מײדל געװאָרן אַ טאָכטער פֿון ישׂראל.
@@ -80,21 +80,21 @@ Go out and see, daughters and sons of Zion, the girl who has turned into a young
 
 
 <tr><td style="vertical-align:top;" width="28%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 <span class="instruction">אחות / אח:</span>
  בֹּרַכְתִּי בָּךְ אֲחוֹתִי שֶׁאַהֲבָתֵנוּ אֵינָהּ תְּלוּיָה בְּדָבָר
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 <em>Sister/Brother:</em>
 I was blessed with you, my sister, as my love for you is not dependent on anything.
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="yiddish">
+<div class="yiddish" lang="yi">
 &nbsp;
 <span class="instruction">שװעסטער/ברודער:</span> איך בין טאַקע געבענטשט מיט דיר, מײַן שװעסטער; אונדזער ליבע איז אָן אַ גרענעץ.
 </div>
@@ -102,21 +102,21 @@ I was blessed with you, my sister, as my love for you is not dependent on anythi
 
 
 <tr><td style="vertical-align:top;" width="28%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 <span class="instruction">כולם:</span>
  צֵאוּ וּרְאוּ בְּנוֹת וּבְנֵי צִיּוֹן יַלְדָּה שֶׁהָפְכָה לְנַעֲרָה, תִּינֹקֶת שֶׁל בֵּית רַבָּן שֶׁנִּהְיֵית בַּת יִשְׂרָאֵל.
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 <em>Everyone:</em> 
 Go out and see, daughters and sons of Zion, the girl who has turned into a young woman, a preschooler who has become a daughter of Israel.
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="yiddish">
+<div class="yiddish" lang="yi">
 &nbsp;
 <span class="instruction">אַלע:</span>
  קומט און זעט, קינדער פֿון ציון, אַן עופֿעלע געװאַקסן אין אַ מײדעלע, אַ חדר־מײדל געװאָרן אַ טאָכטער פֿון ישׂראל.
@@ -125,21 +125,21 @@ Go out and see, daughters and sons of Zion, the girl who has turned into a young
 
 
 <tr><td style="vertical-align:top;" width="28%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 <span class="instruction">סבים:</span>
  בָּרוֹךְ בֹּרַכְנוּ בְּנֶכְדָּה אֲשֶׁר פִּיהָ וְלִבָּהּ שָׁוִים
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 <em>Grandparents:</em> 
 Blessed is the one who blessed us with a granddaughter whose speech and heart are equal.
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="yiddish">
+<div class="yiddish" lang="yi">
 &nbsp;
 <span class="instruction">באָבע־זײדע:</span>
  מיר זײַנען טאַקע געבענטשט מיט אונדזער אײניקל; איר מױל און איר האַרץ זײַנען גלײַך.
@@ -148,21 +148,21 @@ Blessed is the one who blessed us with a granddaughter whose speech and heart ar
 
 
 <tr><td style="vertical-align:top;" width="28%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 <span class="instruction">כולם:</span>
  צֵאוּ וּרְאוּ בְּנוֹת וּבְנֵי צִיּוֹן יַלְדָּה שֶׁהָפְכָה לְנַעֲרָה, תִּינֹקֶת שֶׁל בֵּית רַבָּן שֶׁנִּהְיֵית בַּת יִשְׂרָאֵל.
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 <em>Everyone:</em> 
 Go out and see, daughters and sons of Zion, the girl who has turned into a young woman, a preschooler who has become a daughter of Israel.
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="yiddish">
+<div class="yiddish" lang="yi">
 &nbsp;
 <span class="instruction">אַלע:</span>
  קומט און זעט, קינדער פֿון ציון, אַן עופֿעלע געװאַקסן אין אַ מײדעלע, אַ חדר־מײדל געװאָרן אַ טאָכטער פֿון ישׂראל.
@@ -171,21 +171,21 @@ Go out and see, daughters and sons of Zion, the girl who has turned into a young
 
 
 <tr><td style="vertical-align:top;" width="28%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 <span class="instruction">דודים:</span>
  בָּרוֹךְ בֹּרַכְנוּ בְּאַחְיָנִית הָאוֹהֶבֶת אֶת הַבְּרִיּוֹת
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 <em>Aunts and Uncles:</em> 
 Blessed is the one who blessed us with a niece who loves all creatures.
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="yiddish">
+<div class="yiddish" lang="yi">
 &nbsp;
 <span class="instruction">פֿעטערס/מומעס:</span> מיר זײַנען טאַקע געבענטשט מיט אונדזער פּלימעניצע; זי שאַצט אָפּ אַלע באַשעפֿענישן.
 </div>
@@ -193,21 +193,21 @@ Blessed is the one who blessed us with a niece who loves all creatures.
 
 
 <tr><td style="vertical-align:top;" width="28%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 <span class="instruction">כולם:</span>
  צֵאוּ וּרְאוּ בְּנוֹת וּבְנֵי צִיּוֹן יַלְדָּה שֶׁהָפְכָה לְנַעֲרָה, תִּינֹקֶת שֶׁל בֵּית רַבָּן שֶׁנִּהְיֵית בַּת יִשְׂרָאֵל.
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 <em>Everyone:</em>
 Go out and see, daughters and sons of Zion, the girl who has turned into a young woman, a preschooler who has become a daughter of Israel.
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="yiddish">
+<div class="yiddish" lang="yi">
 &nbsp;
 <span class="instruction">אַלע:</span>
  קומט און זעט, קינדער פֿון ציון, אַן עופֿעלע געװאַקסן אין אַ מײדעלע, אַ חדר־מײדל געװאָרן אַ טאָכטער פֿון ישׂראל.
@@ -216,21 +216,21 @@ Go out and see, daughters and sons of Zion, the girl who has turned into a young
 
 
 <tr><td style="vertical-align:top;" width="28%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 <span class="instruction">דודנים ודודניות:</span>
  בָּרוֹךְ בֹּרַכְנוּ בָּךְ הַמְּקַבֶּלֶת כָּל אֶחָד וְאַחַת בְּסֵבֶר פָּנִים יָפוֹת
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 <em>Cousins:</em> 
 Blessed is the one who blessed us with you, one who greets and accepts every person with a kind face.
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="yiddish">
+<div class="yiddish" lang="yi">
 &nbsp;
 <span class="instruction">שװעסטערקינדער:</span>
   מיר זײַנען טאַקע געבענטשט מיט דיר.  דו באַגריסט יעדן אײנעם מיט אַ שמײכל.
@@ -239,21 +239,21 @@ Blessed is the one who blessed us with you, one who greets and accepts every per
 
 
 <tr><td style="vertical-align:top;" width="28%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 <span class="instruction">כולם:</span>
  שם הנערה – הַשְׁמִיעִנִי אֶת-קוֹלֵךְ: כִּי-קוֹלֵךְ עָרֵב, וּמַרְאֵיךְ נָאוֶה.
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english">
+<div class="english" lang="en">
 <em>Everyone: </em>
 (Name of the girl)- Make your voice heard, for your voice is pleasant and your look is beautiful.
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="yiddish">
+<div class="yiddish" lang="yi">
 &nbsp;
 <span class="instruction">אַלע:</span>
  (נאָמען פֿונעם מײדל) ― לאָמיר הערן דײַן קול, װײַל דײַן קול איז זיס; דײַן צורה איז בנעימות.

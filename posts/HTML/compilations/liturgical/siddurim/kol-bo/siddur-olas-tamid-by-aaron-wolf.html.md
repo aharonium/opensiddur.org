@@ -23,7 +23,7 @@ To purchase a print copy, please visit <a href="http://dimus.parrhesia.press/sho
 
 <hr />
 
-<blockquote><div class="english" style="font-size: 1.2em;">
+<blockquote><div class="english" lang="en" style="font-size: 1.2em;">
 <h3>About</h3>
 
 Siddur Olas Tamid is written in XeLaTeX markup language. It became my project once I learned how to typeset Hebrew using XeLaTeX. I originally wrote this siddur for myself since I was unable to find a bound siddur of the German rite. However I wanted my siddur to be refined enough so that anybody with a background in tefila would be able to use it.

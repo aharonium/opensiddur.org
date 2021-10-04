@@ -16,23 +16,23 @@ Date of Prayer: 05/21/2003
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <h3>Opening Prayer Given by the Guest Chaplain:</h3>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 O Lord who taught us all to love our neighbors as ourselves,[foot]Cf. Leviticus 19:18[/foot]&nbsp;
 we pause now, before this Senate session starts, 
 to recall that on this day--in 1881--
@@ -43,12 +43,12 @@ founded the <a href="https://en.wikipedia.org/wiki/American_Red_Cross">American 
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 To love our neighbor as ourselves . . . 
 and then, to not sit idly by that neighbor's blood--[foot]Cf. Leviticus 19:16[/foot]&nbsp;
 the suffering that he or she endures--
@@ -63,12 +63,12 @@ throughout the world, as well.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Almighty God, 
 we give our thanks for those who give their all, 
 who do their best to comfort those in pain. 
@@ -84,13 +84,13 @@ for which we pray.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 אָמֵן׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And may we say, 
 <em>Amen.</em>
 </div></td></tr>

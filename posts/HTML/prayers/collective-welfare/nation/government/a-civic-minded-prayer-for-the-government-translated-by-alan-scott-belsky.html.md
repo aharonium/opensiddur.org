@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָֽנָא, ‏
 הָאֵל יְיָ, ‏
 בּוֹרֵא הַשָּׁמַֽיִם וְנוֹטֵיהֶם, ‏
@@ -21,7 +21,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Please,
 God Adonai,
 Who creates the skies and drapes them over the earth,
@@ -32,7 +32,7 @@ and vigor to those who walk upon it,
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אַתָּה הִצַּֽבְתָּ גְבוּלוֹת הָאָֽרֶץ, וּמַמְלָכוֹת וּמְדִינוֹת כּוֹנָנְֽתָּ׃ 
 גַּם אֶת־מַמְלֶֽכֶת אַרְצוֹת־הַבְּרִית הַזּאֹת, אַתָּה יָדֶֽיךָ כּוֹנָֽנוּ׃ 
 מִצְעָר הָיְתָה רֵאשִׁיתָהּ, וּבַחֲסָדֶֽיךָ הָרַבִּים וְהַגְּדֺלִים, ‏
@@ -42,7 +42,7 @@ and vigor to those who walk upon it,
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 You positioned borders on earth and sustained sovereigns and states.
 These United States, too, Your hands arranged.
 They began in distress, but through Your great and abundant kindness,
@@ -53,7 +53,7 @@ Like the sun at its zenith, it lights the world and its inhabitants with laws an
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 גַּם עַמְּךָ, בֵּית יִשְׂרָאֵל, ‏
 אֲשֶׁר שְׁנוֹת אֲלָפִים הָיָה נִרְדָּף, מֵֽרוּחַ סֹעָה וָסַֽעַר, ‏
 מֵחֲמַת עָם, וּמִשִּׂנְאַת גּוֹיִם, ‏
@@ -63,7 +63,7 @@ Like the sun at its zenith, it lights the world and its inhabitants with laws an
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Your People, too, the Family of Israel,
 pursued for two thousand years by storm and violence,
 by racial rage and collective hatred,
@@ -74,7 +74,7 @@ a nest to lodge in, a safe tent in which to dwell.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְעַתָּה, יְיָ אֱלֹהִים, הוֹאֶל־נָא, ‏
 וּבָרֵךְ אֶת־הָאָֽרֶץ הַזֹּאת וְאֶת־יוֹשְׁבֶֽיהָ כֻּלָּֽהַם בְּשִׁפְעַת בִּרְכוֹתֶֽיךָ׃ 
 אַל נָא יִשָּׁמַע חָמָס בִּמְדִינוֹתֶֽיהָ, שׁוֹד וָשֶֽׁבֶר, בּגְבוּלֶֽיהָ. ‏
@@ -85,7 +85,7 @@ a nest to lodge in, a safe tent in which to dwell.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 And now, Adonai Elohim in Your kindness,
 please bless this country and all its inhabitants with Your overflowing blessings.
 May violence not be heard, nor robbery, nor injury within its borders.
@@ -97,7 +97,7 @@ and may Your Glory, Yah, hover above it every day. <em>Amen</em>.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אָבִֽינוּ שֶׁבַּשָׁמַֽיִם, ‏
 בָּרֶךְ־נָא אֶת־נְשִׂיא אַרְצוֹת הַבְּרִית הָאֵֽלֶּה 
 הַפְּרֶזִידֶנְט...‏
@@ -106,7 +106,7 @@ and may Your Glory, Yah, hover above it every day. <em>Amen</em>.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Our Parent in Heaven,
 Please bless the President of these United States of America, 
 [name]&nbsp;
@@ -116,7 +116,7 @@ and the people's chosen legislators and justices.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 צַו בִּרְכוֹתֶֽיךָ, גַּם אֶל־שַׂר הַמְּדִינָה הַזֹּאת, ‏
 וְאֶל־סְגָנוֹ, ‏
 אֶל רֹאשׁ הָעִיר הַזֹּאת, ‏
@@ -125,7 +125,7 @@ and the people's chosen legislators and justices.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Direct Your blessings, too, upon the Governor of this State,
 upon their Lieutenant-Governor,
 upon the Mayor of this city,
@@ -135,7 +135,7 @@ and upon all its Commissioners.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שְׁלַח יִשְׁעֲךָ, גַּם אֶל הָעִיר הַזֹּאת, ‏
 וְאֶל־כָּל־יוֹשְבֶֽיהָ, ‏
 פְּרֹשׂ עֲלֵיהֶם סֻכַּת שְׁלוֹמֶֽךָ, ‏
@@ -146,7 +146,7 @@ and upon all its Commissioners.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Impart Your redemption also to this city,
 and to all its inhabitants.
 Spread over them the shelter of Your peace,
@@ -157,9 +157,9 @@ Amen.
 </div></td></tr>
 </tbody></table>
 
-We are grateful to Alan Scott Belsky for translating his favorite Prayer for the Government. The version below is included in the <span lang="he" class="hebrew">סדור שְׂפַת אֱמֶת הֶחָדָשׁ</span> -- <em>Siddur Sfat Emet HeḤadash</em> "Daily Prayer with English Directions" (1912, 1916, Hebrew Publishing Co., New York, NY). Thank you to Aharon Varady for his transcription of the Hebrew with its <em>niqqud</em>.[foot]Please correct any transcription errors you may find. <em>Shgiyot mi yavin, Ministarot Nakeni</em> <span lang="he" class="hebrew">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> "Who can know all one's flaws? From hidden errors, correct me" (Psalms 19:13).[/foot]
+We are grateful to Alan Scott Belsky for translating his favorite Prayer for the Government. The version below is included in the <span class="hebrew" lang="he">סדור שְׂפַת אֱמֶת הֶחָדָשׁ</span> -- <em>Siddur Sfat Emet HeḤadash</em> "Daily Prayer with English Directions" (1912, 1916, Hebrew Publishing Co., New York, NY). Thank you to Aharon Varady for his transcription of the Hebrew with its <em>niqqud</em>.[foot]Please correct any transcription errors you may find. <em>Shgiyot mi yavin, Ministarot Nakeni</em> <span class="hebrew" lang="he">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> "Who can know all one's flaws? From hidden errors, correct me" (Psalms 19:13).[/foot]
 
-The author of this prayer for the government is likely to be <span lang="he" class="hebrew">אברהם היימאן חרלאףּ</span> -- <a href="http://www.worldcat.org/identities/lccn-no2003-17448">Abraham Hyman Ḥarlap</a> (1862-1916), credited as "A. Hyman" on the title page for his arrangement and revision of the <em>Siddur Sfat Emet HeḤadash</em>.
+The author of this prayer for the government is likely to be <span class="hebrew" lang="he">אברהם היימאן חרלאףּ</span> -- <a href="http://www.worldcat.org/identities/lccn-no2003-17448">Abraham Hyman Ḥarlap</a> (1862-1916), credited as "A. Hyman" on the title page for his arrangement and revision of the <em>Siddur Sfat Emet HeḤadash</em>.
 
 <h3>Source</h3>
 

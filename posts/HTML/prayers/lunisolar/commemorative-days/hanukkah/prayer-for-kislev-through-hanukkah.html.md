@@ -12,7 +12,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ק֥וּמִי א֖וֹרִי כִּ֣י בָ֣א אוֹרֵ֑ךְ 
 וּכְב֥וֹד יְהוָ֖ה עָלַ֥יִךְ זָרָֽח׃
 כִּֽי־הִנֵּ֤ה הַחֹ֙שֶׁךְ֙ יְכַסֶּה־אֶ֔רֶץ 
@@ -23,12 +23,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 וּמְלָכִ֖ים לְנֹ֥גַהּ זַרְחֵֽךְ׃ <span class="citation">(ישעיה ס:א-ג)</span>
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Arise! Shine for your light has come; 
-   <span class="hebrew">יהוה</span>’s <em>kavod</em>[foot]kavod כבוד - often translated as "glory." Alternately, "divine resplendent spirit"[/foot] has shined on you!
+   <span class="hebrew" lang="he">יהוה</span>’s <em>kavod</em>[foot]kavod כבוד - often translated as "glory." Alternately, "divine resplendent spirit"[/foot] has shined on you!
 Behold – darkness shall cover the earth, 
    thick clouds cover the people,
-   but <span class="hebrew">יהוה</span> will shine upon you, 
+   but <span class="hebrew" lang="he">יהוה</span> will shine upon you, 
    their <em>kavod</em> will be seen over you.
 Nations will walk by your light, 
    royalty by your radiance.[foot]Isaiah 60:1-3[/foot]
@@ -36,7 +36,7 @@ Nations will walk by your light,
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לֹא־יִֽהְיֶה־לָּ֨ךְ ע֤וֹד 
 הַשֶּׁ֙מֶשׁ֙ לְא֣וֹר יוֹמָ֔ם 
 וּלְנֹ֕גַהּ הַיָּרֵ֖חַ לֹא־יָאִ֣יר לָ֑ךְ 
@@ -48,15 +48,15 @@ Nations will walk by your light,
 וְשָׁלְמ֖וּ יְמֵ֥י אֶבְלֵֽךְ׃ <span class="citation">(ישעיה ס:יט-כ)</span>
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 You will not need 
    the sun for light by day, 
    nor the moon for radiance. 
-<span class="hebrew">יהוה</span> will be for you the light of the cosmos, 
+<span class="hebrew" lang="he">יהוה</span> will be for you the light of the cosmos, 
   your <em>elo'ah</em> shall be for your enlightenment.
 Your sun will never set; 
    your moon will not wane.
-<span class="hebrew">יהוה</span> will be your light in the cosmos, 
+<span class="hebrew" lang="he">יהוה</span> will be your light in the cosmos, 
    and your days of mourning will end.[foot]Isaiah 60:19-20[/foot]
    </div>
 </td></tr></tbody></table>

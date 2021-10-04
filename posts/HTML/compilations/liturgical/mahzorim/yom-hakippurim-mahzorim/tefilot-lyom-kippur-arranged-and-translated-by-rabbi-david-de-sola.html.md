@@ -19,7 +19,7 @@ Scanning this work (making digital images of each page) is the first step in a m
 
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 [ACKNOWLEDGEMENT]
 
 The Union of Sephardic Congregations wishes to record its gratitude to the Rev. Dr. David de Sola Pool, rabbi of the Congregation Shearith Israel in the City of New York. 

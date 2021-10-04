@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Transliteration (Romanization)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֶ֒ת כּוֹס יְשׁוּעוֹת: אֶשָּׂא בְּזִמְרָה:
  וּבְשֵׁם יְהֹוָה: אוֹדֶה וְאֶקְרָא:
 &nbsp;
@@ -19,7 +19,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Et kos yeshu`ot:  Essa bezimra:  
 Uvshem Adonai:  Odé ve’eḳra:
 &nbsp;
@@ -27,7 +27,7 @@ Et kos yeshu`ot…
 </div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 I will lift up the cup of salvation, while I am singing, 
 And I call upon the name of Adonai, and thank Him.
 &nbsp;
@@ -36,7 +36,7 @@ I will lift up . . .
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לַ֒יְלָה וְיוֹמָם: עֻזּוֹ אֲמַלֵּל:
 וּלְשֵׁם כְּבוֹדוֹ: תָּמִיד אֲהַלֵּל:
 כִּי הוּא לְבַדּוֹ: יוֹצֵר מְחוֹלֵל: 
@@ -46,7 +46,7 @@ I will lift up . . .
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Layla veyomam:  `Uzzo amallel:  
 Ulshem kevodo:  Tamid ahallel:  
 Ki hu levaddo:  Yotzer meḥolel:  
@@ -56,7 +56,7 @@ Et kos yeshu`ot…
 </div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 All day and night, I will proclaim His glory.
 And His honorable name, I will always praise,
 Because He is the sole creator.
@@ -67,7 +67,7 @@ I will lift up . . .
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יָ֒רוּם וְיִגְדַּל: עַל כָּל יְצוּרִים:
  זִכְרוֹ מְבוֹרָךְ: נֶצַח לְדוֹרִים:
  מוֹרִישׁ וּמַעְשִׁיר: מַשְׁפִּיל וּמֵרִים:
@@ -77,7 +77,7 @@ I will lift up . . .
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Yarum veyigdal: `Al kol yetzurim:  
 Zichro mevorach:  Netzaḥ ledorim:  
 Morish uma`shir:  Mashpil umerim:  
@@ -87,7 +87,7 @@ Et kos yeshu`ot…
 </div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May His name grow and rise up upon all creatures.
 His memory is blessed, a sign forever.
 He makes people poor and rich, low and high.
@@ -99,7 +99,7 @@ I will lift up . . .
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 קָ֒רוֹב יְהֹוָה: תָּמִיד לְקוֹרְאָיו:
 רַבּוּ וְעָצְמוּ: נִסֵּי פְלָאָיו:
 טוּבוֹ וְרַחֲמָיו: עַל כָּל בְּרוּאָיו:
@@ -109,7 +109,7 @@ I will lift up . . .
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Ḳarov Adonai: Tamid leḳore’av:  
 Rabbu ve`atzmo:  Nissé fela’av:  
 Tuvo veraḥamav:  `Al kol beru’av:  
@@ -119,7 +119,7 @@ Et kos yeshu`ot…
 </div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Adonai is always close to His callers.
 His miracles and wonders are many and powerful.
 His kindness and mercy are upon all His creatures.
@@ -130,7 +130,7 @@ I will lift up . . .
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יָֽ֒קְרוּ דְרָכָיו: עַל כָּל דְרָכִים:
  מַנְהִיג וּמוֹשֵׁל: עַל כָּל פְּלָכִים:
  נוֹרָא וְעֶלְיוֹן: מֶלֶךְ מְלָכִים:
@@ -140,7 +140,7 @@ I will lift up . . .
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Yaḳeru derachav: `Al kol derachim:  
 Manhiḡ umoshel:  `Al kol pelachim:  
 Nora ve`elyon:  Melech melachim:  
@@ -150,7 +150,7 @@ Et kos yeshu`ot…
 </div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 His ways are more precious than other ways.
 He is the leader and ruler of all the districts. 
 He is awesome and superior, King of kings,
@@ -161,7 +161,7 @@ I will lift up . . .
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מָ֒עוֹז וּמַחְסֶה: אֶל דַּל וְאֶבְיוֹן:
  יִשְׁלַח לְעַמּוֹ: יֶשַׁע וּפִדְיוֹן:
  מֶלֶךְ וְכֹהֵן: יָבִיא לְצִיּוֹן:
@@ -171,7 +171,7 @@ I will lift up . . .
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Ma`oz umaḥseh:  El dal ve’evyon:  
 Yishlaḥ le`ammo:  Yesha` ufidyon: 
 melech vechohen:  Yavi letziyyon:  
@@ -181,7 +181,7 @@ Et kos yeshu`ot…
 </div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 He is like a fortress and a shelter to the poor and wretched.
 He will send to His people salvation and redemption.
 He will bring to Zion, king and priest.

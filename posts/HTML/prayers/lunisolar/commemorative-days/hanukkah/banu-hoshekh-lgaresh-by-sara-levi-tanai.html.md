@@ -12,7 +12,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּאנוּ חֹשֶׁךְ לְגָרֵשׁ,‏
 בְּיָדֵינוּ אוֹר וַאֵשׁ.‏
 כֹּל אֶחָד הוּא אוֹר קָטָן,‏
@@ -23,7 +23,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div>
 </td>
  
-<td width="49%"><div class="english">
+<td width="49%"><div class="english" lang="en">
 We come to chase the dark away.
 In our hands are light and fire.
 Each individual light is small,
@@ -36,7 +36,7 @@ Flee, before the light!
 
 <tr>
 <td width="46%">
-<div style="text-align: right;" class="liturgy"><span lang="he">
+<div style="text-align: right;" class="liturgy" lang="he">
 צִיל-צִיל-צִיל בַּפַּעֲמוֹנִים,
 מִי אֲנַחְנוּ? - סְבִיבוֹנִים.
 לָנוּ רֶגֶל אַחַת,
@@ -47,7 +47,7 @@ Flee, before the light!
 </span></div>
 </td>
  
-<td width="49%"><div class="english">
+<td width="49%"><div class="english" lang="en">
 Tzil-tzil-tzil in the bells,
 who are we? - spinning dreidels.
 We have one leg,
@@ -60,7 +60,7 @@ Flee, before the light!
 
 <tr>
 <td width="46%">
-<div style="text-align: right;" class="liturgy"><span lang="he">
+<div style="text-align: right;" class="liturgy" lang="he">
 אָנוּ שׁוֹבָבִים גְּדוֹלִים,
 עַלִּיזִים וְהוֹלְלִים -
 אַךְ נֵדַע יָפֶה מְאוֹד
@@ -71,7 +71,7 @@ Flee, before the light!
 </span></div>
 </td>
  
-<td width="49%"><div class="english">
+<td width="49%"><div class="english" lang="en">
 We're big mischievous kids,
 merry and praise-giving -
 but we'll know very nicely
@@ -85,7 +85,7 @@ Flee, before the light!
 
 <hr />
 
-In 1960, <a href="https://en.wikipedia.org/wiki/Sara_Levi-Tanai">Sara Levi-Tanaiׁ</a> (1910-2005) published the now popular Ḥanukkah song and melody <em>Banu Ḥosekh l'Garesh</em> in a songbook, <em>Zemer Ḥeyn</em> (p.49) by the Publishing House of the Composers' League in cooperation with the Center for Culture and Education, a state-sponsored program (<span lang="he">הופיע בספר/חוברת "זמר חן", בית הוצאה של איגוד הקומפוזיטורים בשיתוף עם המרכז לתרבות ולחינוך</span>). Published under the auspices of a national state agency (the Center for Culture and Education), the work is arguably in the Public Domain because it was initially published as an official government document of the Israeli Center for Culture and Education, a state agency.
+In 1960, <a href="https://en.wikipedia.org/wiki/Sara_Levi-Tanai">Sara Levi-Tanaiׁ</a> (1910-2005) published the now popular Ḥanukkah song and melody <em>Banu Ḥosekh l'Garesh</em> in a songbook, <em>Zemer Ḥeyn</em> (p.49) by the Publishing House of the Composers' League in cooperation with the Center for Culture and Education, a state-sponsored program (הופיע בספר/חוברת "זמר חן", בית הוצאה של איגוד הקומפוזיטורים בשיתוף עם המרכז לתרבות ולחינוך</span>). Published under the auspices of a national state agency (the Center for Culture and Education), the work is arguably in the Public Domain because it was initially published as an official government document of the Israeli Center for Culture and Education, a state agency.
 
 Alternately, insofar as Israeli copyright goes, a work published by an individual would have immediately been protected under Israel's extant copyright laws: the 1953 <a href="http://www.wipo.int/wipolex/en/text.jsp?file_id=128061">Copyright Order</a> (Berne Convention) and the <a href="http://en.wikipedia.org/wiki/Copyright_Act_1911">1911 Imperial Copyright Act</a> (signed by the British King George V). A work published in 1960 would remain under Israeli copyright until 2055, (50 years after Sara Levi-Tanai's death in 2005) after which it would enter the Public Domain. Revisions to Israeli copyright made in 2008 do not apply to this song.  To quote an article in <a href="http://www.eiu.com/index.asp?layout=VWArticleVW3&article_id=792514464&region_id=&country_id=1840000184&channel_id=220004022&category_id=480004048&refm=vwCat&page_title=Article&rf=0">the Economist</a> on Israeli copyright circa 2007:
 

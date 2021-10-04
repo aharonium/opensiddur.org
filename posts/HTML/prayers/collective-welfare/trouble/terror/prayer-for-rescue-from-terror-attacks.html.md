@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th><th style="text-align: left;">Swedish</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="28%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 ”אֱלֹהִים אַל דֳּמִי לָךְ אַל תֶּחֱרַשׁ וְאַל תִּשְׁקֹט אֵל. 
 כִּי הִנֵּה אוֹיְבֶיךָ יֶהֱמָיוּן 
 וּמְשַׂנְאֶיךָ נָשְׂאוּ רֹאשׁ. 
@@ -25,7 +25,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 “God, do not be still, silent or quiet. 
 Your enemies are making noise, 
 those who hate you are lifting their heads. 
@@ -39,7 +39,7 @@ so that the name ‘Israel’ is no longer heard.’”[foot]Psalms 83:2-5[/foot
 </td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="swedish">
+<div class="swedish" lang="sv">
 ”O Gud, var inte tyst, tig inte och var inte stilla, Gud! 
 Dina fiender larmar, 
 och de som hatar dig lyfter huvudet. 
@@ -54,7 +54,7 @@ och så att ingen mer kommer att omtala Israels namn!’”
 
 
 <tr><td style="vertical-align:top;" width="28%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הַשְׁקִֽיפָה מִמְּעוֹן קׇדְשְׁךָ 
 מִן הַשָּׁמַֽיִם 
 וּרְאֵה צָרוֹתֵֽינוּ וּמַכְאוֹבֵֽינוּ. 
@@ -66,7 +66,7 @@ och så att ingen mer kommer att omtala Israels namn!’”
 </td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 Look down from your holy place, 
 from heaven, 
 and see our suffering and troubles. 
@@ -78,7 +78,7 @@ and make preparations to destroy them.
 </td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="swedish">
+<div class="swedish" lang="sv">
 Se ner från din heliga boning, 
 från himlen, 
 se våra eländen och bekymmer. 
@@ -91,7 +91,7 @@ som alltid är redo att attackera.
 
 
 <tr><td style="vertical-align:top;" width="28%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְהַצִּילֵֽנוּ מִכׇּל אוֹיֵב וְאוֹרֵב, 
 חֶֽרֶב, הֶֽרֶג, 
 רָעָה, צָרָה וְיָגוֹן. 
@@ -108,7 +108,7 @@ som alltid är redo att attackera.
 </td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 Save us from every enemy, ambush, 
 weapon, killing, 
 evil, woe and sorrow. 
@@ -125,7 +125,7 @@ with little boys and little girls playing games.”[foot]Zechariah 8:4-5[/foot]
 </td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="swedish">
+<div class="swedish" lang="sv">
 Rädda oss från alla fiender, bakhåll, 
 svärd, död, 
 ondska, besvär och sorg. 
@@ -143,7 +143,7 @@ av pojkar och flickor som leker där.”
 
 
 <tr><td style="vertical-align:top;" width="28%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לֹא נִירָא וְלֹא נֵחָת 
 כִּי הִנְּךָ מוֹשִׁיעֵֽנוּ, 
 ”...וְשָׁב יַעֲקֹב וְשָׁקַט וְשַׁאֲנַן 
@@ -155,7 +155,7 @@ av pojkar och flickor som leker där.”
 </td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 Let us not fear or be afraid, 
 for you are our protector. 
 “...Jacob shall return and live in peace and security; 
@@ -167,7 +167,7 @@ and let us say, <em>Amen</em>.
 </td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="swedish">
+<div class="swedish" lang="sv">
 Låt oss inte frukta och inte vara förskräckta, 
 för du är vår befriare. 
 ”...Jakob skall komma tillbaka och leva i fred och säkerhet, 

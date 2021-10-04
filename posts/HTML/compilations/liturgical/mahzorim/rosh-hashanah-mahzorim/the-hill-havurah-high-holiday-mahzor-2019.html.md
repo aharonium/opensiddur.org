@@ -19,7 +19,7 @@ This maḥzor is a derivative of many works, which it tries to credit whenever k
 
 &nbsp;
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 <h3>Rabbi’s Welcome</h3>
 
 Whether you are intimately familiar with the liturgy of the High Holidays, or are preparing to explore it for the very first time, welcome.  Whether you feel most at home with tradition or with boundary-pushing, with verse or with philosophy, with the loud or with the silent, the maḥzor - the High Holiday prayerbook - has room for you.  The word <em>maḥzor</em> comes from the Hebrew word “to return.”  That’s our goal for these ten days, and the time surrounding them as needed:  To return to our best selves, to remember who we truly are, and to be supported in getting there.

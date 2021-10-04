@@ -135,7 +135,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <hr />
 
-<div class="english">From the title page, "an authentic siddur of Ashkenazic holy congregations without the changes made by later grammarians and maskilim."</div>
+<div class="english" lang="en">From the title page, "an authentic siddur of Ashkenazic holy congregations without the changes made by later grammarians and maskilim."</div>
 
 <hr />
 
@@ -159,7 +159,7 @@ Regarding the creation of the Siddur Bnei Ashkenaz, Rabbi Wiesenthal writes:
 
 I noticed as well that a number of old siddurim included Taamei Hamikrah for whole sections of Tanach and so I included those sections with taamim as well in the siddur.
 I used all the siddurim and sefarim listed [below] to compile the siddur.
-<div class="commentary"><span lang="he">
+<div class="commentary" lang="he">
 מחזור לראש השנה ויום הכיפורים (מק"ק הומבורג אן דער הא)‏ 1720
 מחזור לשלש רגלים (מק"ק הומבורג אן דער הא) 1722
 ‏'מחזור מכל השנה' (מק"ק פרנקפורט דמיין)‏ 1722

@@ -11,31 +11,31 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 צוּר יִשְׂרָאֵל,
 יָהּ, עֻזֵּנוּ וְזַמַּרְתֵּנוּ
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Tsur Yisra'el[foot]lit. Rock, Fortress of Israel, i.e. an epithet underscoring divine protection[/foot]
 Yahh, our strength and our song,[foot]Cf. Exodus 15:2[/foot]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בַּרֵךְ אֶת כׇּל עַמֵּי יִשְׂרָאֵל וּפַּלָסְטַין
 וְכׇל הַיּוֹשְׁבִים בְּתוֹכָם.
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Bless all the people of Israel and Palestine 
 and all those who dwell among them.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שָׁלַח אֶת אֹרֶךְ וְאֶת הָאֱמֶת 
 שֶׁלָּךְ אֶל מַנְהִיגֵיהֶם וְאֶל תּוֹשָׁבֵיהֶם
 לְקַיֵּם חֵרוּת וְכָבוֹד 
@@ -45,7 +45,7 @@ and all those who dwell among them.
 לְכָל־יֹשְׁבֶיהָ“ <span class="citation">(ויקרא כה:י)</span>. 
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Send light and truth 
 to its leaders and inhabitants 
 to establish freedom and dignity 
@@ -57,7 +57,7 @@ for all its inhabitants" <span class="citation">(Leviticus 25:10)</span>.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עָשֵׂה שֶׁתַּכִּיר מְדִינַת יִשְׂרָאֵל 
 בָּאֱנוֹשִׁיּוּת מְדֻכָּאֶיהָ
 וְשֶׁתְּסַיֵּם אֶת הַכִּבּוּשׁ בִּמְהֵרָה בִּימִינוֹ
@@ -65,7 +65,7 @@ for all its inhabitants" <span class="citation">(Leviticus 25:10)</span>.
 ”כִּי־אָמַרְתִּי עוֹלָם חֶסֶד יִבָּנֶה“ <span class="citation">(תהלים פט:ג)</span>.
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 May the state of Israel recognize 
 the humanity of those it oppresses 
 and end the Occupation swiftly in our days. 

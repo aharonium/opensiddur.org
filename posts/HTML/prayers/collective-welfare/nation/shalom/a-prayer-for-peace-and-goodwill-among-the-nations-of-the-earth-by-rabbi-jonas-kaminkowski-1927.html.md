@@ -11,12 +11,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="33%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Omnipotent God, merciful Father, 
 from under the misty clouds of selfishness, 
 prejudice, 
@@ -39,12 +39,12 @@ among all the nations of the earth.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 We all have sinned against Thee, O Heavenly Father! 
 Those who have power and wealth 
 by offending, injuring or oppressing 
@@ -71,12 +71,12 @@ and will give them a heart of flesh.”[foot]Ezekiel 11:19 and Ezekiel 36:26–2
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Almighty God! 
 Thou hast created man in Thine image 
 and endowed him with the power 

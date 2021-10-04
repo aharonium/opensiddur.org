@@ -11,36 +11,36 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 חנוך
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 ENOCH
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וַיִּתְהַלֵּ֥ךְ חֲנ֖וֹךְ אֶת־הָֽאֱלֹהִ֑ים 
 וְאֵינֶ֕נּוּ כִּֽי־לָקַ֥ח אֹת֖וֹ אֱלֹהִֽים׃ <span class="citation">(בראשית ה:כד)</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 "And Enoch walked with God; 
 and he was not, for God took him." <span class="citation">(Genesis 5:24)</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Oh! words of holy import! sink ye deep
 Within my spirit; never more to sleep!
 But lead me to the path his steps have trod,—
@@ -53,12 +53,12 @@ Would tempt all other feet that way to rove!
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 I see him first in youthful vigour stand,
 When Fancy calls him to her golden land,
 When dreams of loveliness so haunt his mind
@@ -71,12 +71,12 @@ He “walks with God,” his commune is on high.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 I see him next in manhood; and I trace
 A firmer piety, maturer grace,
 As upwards on the mountain’s brow he treads
@@ -99,12 +99,12 @@ As his who leans upon a heavenly arm.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Again, I see him stand amid the storm;
 Harmless it beats against his unmoved form:
 Erect in sudden stillness; as some rock
@@ -121,12 +121,12 @@ He smiles,—all nature waits upon that smile!
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Once more I looked—the man of God was gone!
 Yet still the path he trod before me shone:
 ’Twas a long path of rugged steep and plain,

@@ -10,13 +10,13 @@ For attribution and license, please consult the following URL: <a href="http://o
 <table style="margin-left: auto;margin-right: auto;">
 <tbody>
 <tr><td style="vertical-align: top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div>
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 We pray for Israel,
 Both the mystic ideal of our [ancestors’] dreams,
 And the living miracle, here and now,
@@ -27,13 +27,13 @@ Built of heart, muscle, and steel.
 
 <tr>
 <td style="vertical-align: top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
 
 
 <td style="vertical-align: top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May she endure and guard her soul,
 Surviving the relentless, age-old hatreds,
 The cynical concealment of diplomatic deceit,
@@ -44,13 +44,13 @@ And the rumblings that warn of war.
 
 <tr>
 <td style="vertical-align: top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
 
 
 <td style="vertical-align: top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May Israel continue to be the temple that magnetizes
 The loving eyes of Jews in all corners:
 The Jew in a land of affluence and relative peace,
@@ -64,13 +64,13 @@ Against the cage of his enslavement.
 
 <tr>
 <td style="vertical-align: top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
 
 
 <td style="vertical-align: top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May Israel yet embrace her homeless, her own,
 And bind the ingathered into one people.
 May those who yearn for a society built on human concern
@@ -81,13 +81,13 @@ Find the vision of the prophets realized in her.
 
 <tr>
 <td style="vertical-align: top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
 
 
 <td style="vertical-align: top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May her readiness to defend
 Never diminish her search for peace.
 </div></td>
@@ -96,13 +96,13 @@ Never diminish her search for peace.
 
 <tr>
 <td style="vertical-align: top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
 
 
 <td style="vertical-align: top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May we always dare to hope
 That in our day the antagonisms will end,
 That all the displaced, Arab and Jew, will be rooted again,

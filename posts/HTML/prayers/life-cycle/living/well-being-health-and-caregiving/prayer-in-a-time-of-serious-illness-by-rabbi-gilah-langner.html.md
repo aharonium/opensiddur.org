@@ -18,71 +18,71 @@ Traditional Judaism offers a confessional prayer, or <code>vidui</code>, to be r
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="hebrew"><span lang="he">
+<div class="hebrew" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Our God and God of our ancestors, we acknowledge that all of life is in Your hands.
 </div></td></tr>
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 We pray for healing for this beloved (woman/man).  
 May (she/he) be filled and embraced by a complete and healing love and forgiveness.  
 May (she/he) always know how precious his life is to those who love (her/him).
 </div></td></tr>
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Protect ___________’s beloved family: ___________________________.
 Their souls are woven together for all time.
 </div></td></tr>
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Grant hope and strength to _____________’s family and caregivers, guiding their hands and hearts and decisions with wisdom, loving care, and skill.
 </div></td></tr>
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 כִּי מַלְאָכָיו יְצַוֶּה לָּךְ לִשְׁמָרְךָ בְּכָל דְּרָכֶיךָ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 May angels be appointed for (her/him), to guard (her/him) in all (her/his) paths.[foot]Psalms 91:11[/foot]
 
 <em>Ki malakhav yetzaveh lakh, lishmorkha b’khol d’rakheh-kha.</em>
 </div></td></tr>
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 In Your hand lies (her/his) spirit. In Your Great Name, You hold the life and memories of each soul on earth. You redeem us, <em>Adonai</em>, God of Truth. 
 
 </div></td></tr>
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 שְׁמַע יִשְׂרָאֵל יְיָ אֱלֹהֵינוּ יְיָ אֶחָד׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 Hear O Israel: [YHVH | Adonai] is our God, [YHVH | Adonai] is One.[foot]Deuteronomy 6:4[/foot]
 
 <em>Shma Yisrael Adonai Eloheinu Adonai Echad.</em>

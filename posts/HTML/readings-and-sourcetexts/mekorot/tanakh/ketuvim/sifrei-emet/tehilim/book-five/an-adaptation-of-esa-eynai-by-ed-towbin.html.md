@@ -24,7 +24,7 @@ This variation is designed to allow the words to be sung, with some adjustments,
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th>Transliteration</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="25%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֶשָׂא עֵנַי אֶל מָקוֹם־הַזֶה
 מֵאַיִן יָבֹא עֶזְרִי
 &nbsp;
@@ -39,7 +39,7 @@ This variation is designed to allow the words to be sung, with some adjustments,
 </span></div></td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 Esa eynay el makom-hazeh
 me’ayin yavo ezri
 &nbsp;
@@ -54,7 +54,7 @@ Leshameyr shamayim va’aretz.
 </div></td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english">
+<div class="english" lang="en">
 I lift my eyes up to this place,
 from where does my help come?
 &nbsp;

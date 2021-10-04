@@ -11,18 +11,18 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 DIVINE LOVE.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְאָהַבְתָּ אֵת יְהוָה אֱלֹהֶיךָ 
 בְּכָל־לְבָבְךָ 
 וּבְכָל־נַפְשְׁךָ 
@@ -30,7 +30,7 @@ DIVINE LOVE.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 “And thou shalt love the Lord thy God 
 with all thine heart, 
 with all thy soul, 
@@ -39,12 +39,12 @@ and with all thy might.” —Deut. 6, 5.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 I know not what this world would be 
 (Not even by analogy)
 If love were banished, for a time, 
@@ -53,12 +53,12 @@ To other realm, or other clime;
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 But no, it is not bound by space, 
 But with illimitable grace,
 Glides through all worlds, and lives in all;
@@ -67,12 +67,12 @@ All hearts and souls it does enthrall;
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And though in some ‘tis little felt,
 Some, where the spirit seldom dwelt,
 ‘Tis not quite banished or forgot:
@@ -83,12 +83,12 @@ That heavenly blessing from above!
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 For what were virtue, goodness, truth,
 Without the light of love? in sooth
 They would not be—they could not last
@@ -99,12 +99,12 @@ Viceregent here, but crowned above.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Oh! love, thou pure and holy thing!
 What are the blessings thou dost bring?
 Nay, rather what is happiness
@@ -113,12 +113,12 @@ But love in some new guise or dress?
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Even from birth ‘tis love which fills
 Each avenue of soul—instills
 Its spiritual influence,
@@ -127,12 +127,12 @@ And makes us love all excellence;
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Whatever bears the noble stamp
 Of great and good; ‘tis this pure lamp
 Which lights our path, which gives us hope,
@@ -141,12 +141,12 @@ Extends our views to higher scope.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 We love to read, to hear, to learn,
 And why? because our spirits burn
 To enter at that heavenly gate,
@@ -157,12 +157,12 @@ Love’s essence breathes upon the air.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And all God’s attributes abound
 In holy love; for all around
 Throughout creation, not a law
@@ -173,12 +173,12 @@ Love, only love, that we should see.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Love all pervading—all divine,
 In heaven how brightly will it shine,
 The pure, pure spirit cherished here,
@@ -187,12 +187,12 @@ To consummate the heavenly sphere;
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 To bud on earth for one short hour,
 To bloom for age a lovely flower,
 In heaven so beautiful and bright,
@@ -201,12 +201,12 @@ Its very shadow will be light,
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 That when we say “this, this is love!”
 Our spirits will be far above,
 Dwelling with God in holiness,

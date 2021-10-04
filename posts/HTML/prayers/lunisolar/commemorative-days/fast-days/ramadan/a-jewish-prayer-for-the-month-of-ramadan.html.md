@@ -11,32 +11,32 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th><th style="text-align: right;">Translation (Arabic)</th><th style="text-align: left;">Translation (German)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 אָבִינוּ שֶׁבַּשָּׁמִים,
 בּוֹרֵא עוֹלָם,
 אֲשֶׁר יָצַר כׇּל אָדָם בְּצַלְמוֹ
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english" style="text-align: left;">
+<div class="english" lang="en" style="text-align: left;">
 Heavenly Father, 
 Creator of the universe 
 who fashioned every human being in his own image –
 </div></td>
 
 <td style="vertical-align:top;">
-<div class="arabic"><span lang="ar">
+<div class="arabic" lang="ar">
 ابانا في السماء, خالق الكون, الذي خلق كل انسان في صورته,
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="german"><span lang="de">
+<div class="german" lang="de">
 Vater im Himmel, Schöpfer des Universums, in dessen Abbild die Menschheit geschaffen ist:
 </span></div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 רַחֵם עַל מַאֲמִינֶיךָ הַמֻּסְלָמִים
 אֲשֶׁר הוֹלְכִים בְּדַרְכּוֹ
 שֶׁל נְבִיאָם מֻחַמַּד
@@ -50,7 +50,7 @@ Vater im Himmel, Schöpfer des Universums, in dessen Abbild die Menschheit gesch
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english" style="text-align: left;">
+<div class="english" lang="en" style="text-align: left;">
 Have mercy on your believers the Muslims 
 who walk in the way 
 of Muhammed their prophet 
@@ -64,18 +64,18 @@ the Qoran.
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="arabic"><span lang="ar">
+<div class="arabic" lang="ar">
 اللهم ارحم المسلمين الذين يتبعون طريق النبي محمد، صلي الله عليه وسلم، والذين يكرسون شهر رمضان في الصوم والصلاة، الاصلاح وقراءة كتابهم المقدس القرآن الكريم.
 </div></td>
 
 <td style="vertical-align:top;">
-<div class="german"><span lang="de">
+<div class="german" lang="de">
 Erbarme Dich Deiner muslimischen Gläubigen, die den Spuren Mohammeds, ihres Propheten, folgen und die Dich im Monat Ramadan mit Fasten, Beten und Persönlichkeitsentwicklung und der Rezitation ihrer Heiligen Schrift des Qoran ehren…
 </span></div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 סִיֵּעַ בְּיָדָם בְּחֹדֶשׁ הֲרָמָדָאן הַזֶּה
 לְטַהֵר אֶת לִבָּם לְעׇבְדְּךָ בֶּאֱמֶת.
 תֵּן שָׁלוֹם בֵּינָם לְבֵין עַצְמָם –
@@ -86,7 +86,7 @@ Erbarme Dich Deiner muslimischen Gläubigen, die den Spuren Mohammeds, ihres Pro
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english" style="text-align: left;">
+<div class="english" lang="en" style="text-align: left;">
 Help them during this month of Ramadan 
 to purify their hearts to serve You in truth. 
 Let peace reign among them, 
@@ -97,18 +97,18 @@ and between each person and his or her fellow.
 </div></td>
 
 <td style="vertical-align:top;">
-<div class="arabic"><span lang="ar">
+<div class="arabic" lang="ar">
 اللهم طهر قلوبهم في شهر رمضان هذا وامنحهم القدرة على عبادتك حقا. اللهم امنحهم السلام والسكينة فيما بينهم - بين الزوج وزوجته، بين الأب والأم لأبنائهم , بين الاخ لأخيه وبين بعضهما البعض. 
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="german"><span lang="de">
+<div class="german" lang="de">
 Hilf ihnen in diesem Monat Ramadan, ihre Herzen zu läutern, um Dir in Wahrheit zu dienen. Lass Frieden unter ihnen herrschen, zwischen Mann und Frau, zwischen Eltern und Kindern, zwischen Bruder und Schwester und zwischen jedem Menschen und seinem Mitmenschen.
 </span></div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 עֲזֹר לְצָמִים
 וּלְשֶׁאֵינָם צָמִים
 לְקַבֵּל זֶה אֶת זֶה בְּאַהֲבָה.
@@ -120,7 +120,7 @@ Hilf ihnen in diesem Monat Ramadan, ihre Herzen zu läutern, um Dir in Wahrheit 
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english" style="text-align: left;">
+<div class="english" lang="en" style="text-align: left;">
 Encourage those who are fasting 
 and those who are not fasting 
 to accept each other in love. 
@@ -132,18 +132,18 @@ nor lose their patience.
 </div></td>
 
 <td style="vertical-align:top;">
-<div class="arabic"><span lang="ar">
+<div class="arabic" lang="ar">
 اللهم ساعد الصائمين وغير الصائمين لقبول بعضهم البعض بمحبه. اللهم خفف عن الصائمين في هذه الايام الحارة لكي لا يعانون ولا يزجرون .
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="german"><span lang="de">
+<div class="german" lang="de">
 Ermutigen Sie diejenigen, die fasten, und diejenigen, die nicht fasten, sich gegenseitig in Liebe anzunehmen. Erleichtere denen, die in diesen langen, heißen Tagen fasten, die Last, damit sie nicht leiden und nicht die Geduld verlieren.
 </span></div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 וְתֵן נָא
 בְּלִבָּם
 אַהֲבָה וְרֵעוּת
@@ -156,7 +156,7 @@ Ermutigen Sie diejenigen, die fasten, und diejenigen, die nicht fasten, sich geg
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english" style="text-align: left;">
+<div class="english" lang="en" style="text-align: left;">
 We beseech You 
 to put in their hearts 
 love and fellowship 
@@ -169,18 +169,18 @@ your holy land.
 </div></td>
 
 <td style="vertical-align:top;">
-<div class="arabic"><span lang="ar">
+<div class="arabic" lang="ar">
 اللهم أملأ قلوبهم في المحبة والصداقة تجاه ابناء شعب إسرائيل وعزز الرغبة الحقيقية عندهم في معرفة وفهم ابناء شعب إسرائيل وعلاقته في هذه الارض ارضك المقدسة.
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="german"><span lang="de">
+<div class="german" lang="de">
 Wir bitten Dich, lege in ihre Herzen Liebe und Verbundenheit zu Deinem Volk Israel, sowie den ehrlichen Wunsch, Dein Volk Israel zu kennen und zu verstehen und unsere Verbindung zu diesem Land, Deinem heiligen Land.
 </span></div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 וְתֵן גַּם
 בְּלִבָּם שֶׁל עַמְּךָ יִשְׂרָאֵל
 אַהֲבָה וְרֵעוּת
@@ -194,7 +194,7 @@ Wir bitten Dich, lege in ihre Herzen Liebe und Verbundenheit zu Deinem Volk Isra
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english" style="text-align: left;">
+<div class="english" lang="en" style="text-align: left;">
 We beseech You further 
 to put in the hearts of your people Israel 
 love and fellowship 
@@ -208,62 +208,62 @@ your holy land.
 </div></td>
 
 <td style="vertical-align:top;">
-<div class="arabic"><span lang="ar">
+<div class="arabic" lang="ar">
 اللهم املأ قلوب شعبك ابناء اسرائيل في الصداقة والمحبة تجاه ابناء شعب اسماعيل, للتعرف على ابناء شعبك اسماعيل وعلى قدسية شهر رمضان وعلى علاقتهم بهذه الارض ارضك المقدسة.
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="german"><span lang="de">
+<div class="german" lang="de">
 Wir ersuchen Dich ferner, Verbundenheit gegenüber dem Volk Ismails in die Herzen des Volkes Israel zu pflanzen sowie auch das ehrliche Verständnis des Volkes Ismails, der Heiligkeit ihres Monats Ramadan und ihrer Verbindung zu diesem Land, Deinem Heiligen Land.
 </span></div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 וְיָדְעוּ גַּם הֵם גַּם אָנוּ
 כִּי אֲנָשִׁים אַחִים אֲנָחְנוּ
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english" style="text-align: left;">
+<div class="english" lang="en" style="text-align: left;">
 And may we all know, both them and us, 
 that we are but one family.
 </div></td>
 
 <td style="vertical-align:top;">
-<div class="arabic"><span lang="ar">
+<div class="arabic" lang="ar">
 وليعرفون هم ونحن أيضا أننا إخوة.
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="german"><span lang="de">
+<div class="german" lang="de">
 Und mögen wir alle, ihr und wir, 
 wissen, dass wir eine Familie sind.
 </span></div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 וְנָתַתָּ שָׁלוֹם בָּאָרֶץ
 וְשִׂמְחַת עוֹלָם לְכׇל יוֹשְׁבֶיהָ –
 אָמֵן
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english" style="text-align: left;">
+<div class="english" lang="en" style="text-align: left;">
 Give peace in your land 
 and eternal joy to all its inhabitants – 
 <em>Amen</em>.
 </div></td>
 
 <td style="vertical-align:top;">
-<div class="arabic"><span lang="ar">
+<div class="arabic" lang="ar">
 اللّهم انشر السلام في أرضك وامنح الفرحَ الأبديّ  لجميع سكانها ..  
 آمين
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="german"><span lang="de">
+<div class="german" lang="de">
 Gib Frieden in Deinem Land und ewige Freude für alle seine Bewohner*innen - 
 Amen.
 </span></div></td></tr>

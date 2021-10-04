@@ -12,13 +12,13 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr>
 <td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div>
  </td>
   
  <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 inner child,
 &nbsp;
 i ask for your forgiveness!
@@ -29,13 +29,13 @@ i recognize times when I've mistreated you, and i ask you, to please forgive me.
 
 <tr>
  <td style="vertical-align:top;">
- <div class="liturgy"><span lang="he">
+ <div class="liturgy" lang="he">
  
 </span></div>
  </td>
   
  <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 For all the times that I've judged you, and you shut down.
 For the times when I've cast eyes of displeasure on your creative and luminous works,
 For the times when I secretly whisper nasty things about you, that I would never say out loud,
@@ -46,13 +46,13 @@ For the times when I've asphyxiated you, and you felt cut off from your sacred l
 
 <tr>
  <td style="vertical-align:top;">
- <div class="liturgy"><span lang="he">
+ <div class="liturgy" lang="he">
  
 </span></div>
  </td>
   
  <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 For all of these things, please forgive me, pardon me, heal me.
 </div></td>
 </tr>
@@ -60,13 +60,13 @@ For all of these things, please forgive me, pardon me, heal me.
 
 <tr>
  <td style="vertical-align:top;">
- <div class="liturgy"><span lang="he">
+ <div class="liturgy" lang="he">
  
 </span></div>
  </td>
   
  <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 For the times when I don't believe in you,
 For the times when we quit because you felt scared and alone
 For not supporting you through these times,
@@ -77,13 +77,13 @@ For not holding space for you and your emotions
 
 <tr>
  <td style="vertical-align:top;">
- <div class="liturgy"><span lang="he">
+ <div class="liturgy" lang="he">
  
 </span></div>
  </td>
   
  <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Please forgive me inner child! Pardon me, Heal Me
 </div></td>
 </tr>
@@ -91,13 +91,13 @@ Please forgive me inner child! Pardon me, Heal Me
 
 <tr>
  <td style="vertical-align:top;">
- <div class="liturgy"><span lang="he">
+ <div class="liturgy" lang="he">
  
 </span></div>
  </td>
   
  <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 For making decisions that dishonor and hurt you
 For creating conflict within
 For not following your requests because I'm scared
@@ -110,13 +110,13 @@ For not always providing you with a safe space to explore yourself and find plea
 
 <tr>
  <td style="vertical-align:top;">
- <div class="liturgy"><span lang="he">
+ <div class="liturgy" lang="he">
  
 </span></div>
  </td>
   
  <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Please forgive me inner child! 
 Pardon me, Teach me, Heal me.
 </div></td>
@@ -125,13 +125,13 @@ Pardon me, Teach me, Heal me.
 
 <tr>
  <td style="vertical-align:top;">
- <div class="liturgy"><span lang="he">
+ <div class="liturgy" lang="he">
  
 </span></div>
  </td>
   
  <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Dear Inner Child,
 </div></td>
 </tr>
@@ -139,13 +139,13 @@ Dear Inner Child,
 
 <tr>
  <td style="vertical-align:top;">
- <div class="liturgy"><span lang="he">
+ <div class="liturgy" lang="he">
  
 </span></div>
  </td>
   
  <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 I wish for you, and bless you:
 </div></td>
 </tr>
@@ -153,13 +153,13 @@ I wish for you, and bless you:
 
 <tr>
  <td style="vertical-align:top;">
- <div class="liturgy"><span lang="he">
+ <div class="liturgy" lang="he">
  
 </span></div>
  </td>
   
  <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 to experience pleasure in your process of discovering yourself and your uniqueness,
 </div></td>
 </tr>
@@ -167,13 +167,13 @@ to experience pleasure in your process of discovering yourself and your uniquene
 
 <tr>
  <td style="vertical-align:top;">
- <div class="liturgy"><span lang="he">
+ <div class="liturgy" lang="he">
  
 </span></div>
  </td>
   
  <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 to experience pleasure in realizing both your complete greatness, 
 and your complete smallness, 
 and to feel pleased and tickled by the humor of this simultaneous reality.
@@ -183,13 +183,13 @@ and to feel pleased and tickled by the humor of this simultaneous reality.
 
 <tr>
  <td style="vertical-align:top;">
- <div class="liturgy"><span lang="he">
+ <div class="liturgy" lang="he">
  
 </span></div>
  </td>
   
  <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 to experience acceptance 
 of yourself, and your place 
 amidst the many communities, creatures and ecosystems that co-create with you, 
@@ -200,13 +200,13 @@ the life of this planet
 
 <tr>
  <td style="vertical-align:top;">
- <div class="liturgy"><span lang="he">
+ <div class="liturgy" lang="he">
  
 </span></div>
  </td>
   
  <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 to experience yourself meaningfully 
 contributing in a profound way 
 to the evolution of our species on this planet
@@ -216,13 +216,13 @@ to the evolution of our species on this planet
 
 <tr>
  <td style="vertical-align:top;">
- <div class="liturgy"><span lang="he">
+ <div class="liturgy" lang="he">
  
 </span></div>
  </td>
   
  <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 to experience great compassion for yourself and others
 </div></td>
 </tr>
@@ -230,13 +230,13 @@ to experience great compassion for yourself and others
 
 <tr>
  <td style="vertical-align:top;">
- <div class="liturgy"><span lang="he">
+ <div class="liturgy" lang="he">
  
 </span></div>
  </td>
   
  <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 to experience your capacity, 
 talent, 
 skill, 
@@ -249,13 +249,13 @@ to creating more beauty in the world
 
 <tr>
  <td style="vertical-align:top;">
- <div class="liturgy"><span lang="he">
+ <div class="liturgy" lang="he">
  
 </span></div>
  </td>
   
  <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 to experience your ability to connect deeply to your inner knowing 
 and to make clear decisions that are calibrated towards 
 contributing to yourself and the world 
@@ -266,13 +266,13 @@ in positive, life-affirming ways.
 
 <tr>
  <td style="vertical-align:top;">
- <div class="liturgy"><span lang="he">
+ <div class="liturgy" lang="he">
  
 </span></div>
  </td>
   
  <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 to experience tremendous respect for your ancestors and for the future
 </div></td>
 </tr>
@@ -280,13 +280,13 @@ to experience tremendous respect for your ancestors and for the future
 
 <tr>
  <td style="vertical-align:top;">
- <div class="liturgy"><span lang="he">
+ <div class="liturgy" lang="he">
  
 </span></div>
  </td>
   
  <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 to experience an embodied sense of how precious this life is
 </div></td>
 </tr>
@@ -294,13 +294,13 @@ to experience an embodied sense of how precious this life is
 
 <tr>
  <td style="vertical-align:top;">
- <div class="liturgy"><span lang="he">
+ <div class="liturgy" lang="he">
  
 </span></div>
  </td>
   
  <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 to experience and channel your capacity to inspire others.
 </div></td>
 </tr>
@@ -308,13 +308,13 @@ to experience and channel your capacity to inspire others.
 
 <tr>
  <td style="vertical-align:top;">
- <div class="liturgy"><span lang="he">
+ <div class="liturgy" lang="he">
  
 </span></div>
  </td>
   
  <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 may we all experience a profound forgiveness 
 and a sweet turning to ourselves this season...
 </div></td>
@@ -323,13 +323,13 @@ and a sweet turning to ourselves this season...
 
 <tr>
  <td style="vertical-align:top;">
- <div class="liturgy"><span lang="he">
+ <div class="liturgy" lang="he">
  
 </span></div>
  </td>
   
  <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 love love love
 </div></td>
 </tr>
@@ -337,13 +337,13 @@ love love love
 
 <tr>
  <td style="vertical-align:top;">
- <div class="liturgy"><span lang="he">
+ <div class="liturgy" lang="he">
  
 </span></div>
  </td>
   
  <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 mir i am
 </div></td>
 </tr>

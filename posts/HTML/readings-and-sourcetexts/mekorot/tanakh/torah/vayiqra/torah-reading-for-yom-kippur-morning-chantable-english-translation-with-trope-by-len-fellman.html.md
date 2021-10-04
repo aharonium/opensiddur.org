@@ -8,11 +8,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 <hr />
 
 <strong>DOWNLOAD:</strong> 
-<a href="https://archive.org/download/yom-kippur-torah-reading-with-english-transtropilation-len-fellman-2018/Yom%20Kippur%20Torah%20Reading%20%28Leviticus%2016v1-34%29%20with%20English%20transtropilation%20%28Len%20fellman%202020%29.pdf">PDF</a> or <a href="https://archive.org/download/yom-kippur-torah-reading-with-english-transtropilation-len-fellman-2018/Yom%20Kippur%20Torah%20Reading%20%28Leviticus%2016v1-34%29%20with%20English%20transtropilation%20%28Len%20fellman%202020%29.odt">ODT</a>
-<a href="https://archive.org/download/yom-kippur-torah-reading-with-english-transtropilation-len-fellman-2018/Yom%20Kippur%20Torah%20Reading%20%28Leviticus%2016v1-34%29%20with%20English%20transtropilation%20%28Len%20fellman%202020%29%20-%20english%20only.pdf">PDF</a> or <a href="https://archive.org/download/yom-kippur-torah-reading-with-english-transtropilation-len-fellman-2018/Yom%20Kippur%20Torah%20Reading%20%28Leviticus%2016v1-34%29%20with%20English%20transtropilation%20%28Len%20fellman%202020%29%20-%20english%20only.odt">ODT</a> (sans Hebrew)
+
+<a href="https://archive.org/download/yom-kippur-torah-reading-with-english-transtropilation-len-fellman-2018/Yom%20Kippur%20Torah%20Reading%20%28Leviticus%2016v1-34%29%20with%20English%20transtropilation%20%28Len%20fellman%202020%29.pdf">PDF</a> | <a href="https://archive.org/download/yom-kippur-torah-reading-with-english-transtropilation-len-fellman-2018/Yom%20Kippur%20Torah%20Reading%20%28Leviticus%2016v1-34%29%20with%20English%20transtropilation%20%28Len%20fellman%202020%29.odt">ODT</a> (with Hebrew)
+<a href="https://archive.org/download/yom-kippur-torah-reading-with-english-transtropilation-len-fellman-2018/Yom%20Kippur%20Torah%20Reading%20%28Leviticus%2016v1-34%29%20with%20English%20transtropilation%20%28Len%20fellman%202020%29%20-%20english%20only.pdf">PDF</a> | <a href="https://archive.org/download/yom-kippur-torah-reading-with-english-transtropilation-len-fellman-2018/Yom%20Kippur%20Torah%20Reading%20%28Leviticus%2016v1-34%29%20with%20English%20transtropilation%20%28Len%20fellman%202020%29%20-%20english%20only.odt">ODT</a> (sans Hebrew)
 
 
-Please visit <a href="https://archive.org/details/yom-kippur-torah-reading-with-english-transtropilation-len-fellman-2018">the Internet Archive </a>for audio recordings of Len Fellman chanting in English and Hebrew.
+Please visit <a href="https://archive.org/details/yom-kippur-torah-reading-with-english-transtropilation-audio-len-fellman-2018">the Internet Archive </a>for audio recordings of Len Fellman chanting in English and Hebrew.
 
 <hr />
 

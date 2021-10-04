@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy" style="text-align: right;"><span lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 מִי שֶׁאָמַר וְהָיָה הָעוֹלָם, 
 וּבֵרַךְ אֶת־הָאָדָם אֲשֶׁר בָּרָא בְצַלְמוֹ, 
 וְהִפְלִיא בָאָ֫רֶץ לְהָקִים אֶת־הַמְּדִינוֹת הַמְאֻחָדוֹת הָאֵ֫לֶּה 
@@ -25,7 +25,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 וְנֹאמַר׃ אָמֵן.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english">
+<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
 May the One who spoke the world into being, 
 and who blessed humanity created in God's image, 
 and who brought about the miracle of these United States 

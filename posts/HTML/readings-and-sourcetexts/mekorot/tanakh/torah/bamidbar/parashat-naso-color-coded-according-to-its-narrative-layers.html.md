@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english"style="font-size:1.2em">
+<div class="english" lang="en"style="font-size:1.2em">
 According to the poetry of the Midrash Tanḥuma, Bereshit 1:1, the words of the Torah were inscribed "black fire on white fire." For many years, I've wanted to look deeply into the black fire and visualize the full spectrum of the Torah's sources, hidden within the black fire but revealed through  a critical analysis of its layers of <a href="https://en.wikipedia.org/wiki/Redaction_criticism">redaction</a>. Below, I've set the text of the Torah portion in the annual Torah reading cycle, using color-coding to distinguish the stratigraphic layers forming the composition of the Masoretic text according to the <a href="https://en.wikipedia.org/wiki/Supplementary_hypothesis">Supplementary Hypothesis</a> presented by Tsemaḥ Yoreh in his <a href="http://books.google.com/books?id=tpLIngEACAAJ">Kernel to Canon</a> series of books (2013-2017) and his website, <a href="http://www.biblecriticism.com/supplementary_index.html">the Sources of Biblical Narrative</a>. As Dr. Yoreh explains, 
 
 <blockquote>The Supplementary Hypothesis asserts that the Pentateuch was composed by several different writers. This reflects an overwhelming academic consensus on Biblical authorship, even among scholars who do not subscribe to the Supplementary Hypothesis in particular.[....] According to the Supplementary Hypothesis, Biblical narrative is layered. No editor took a blowtorch to the parts of the Bible he disagreed with and destroyed them; if he had, we would not find these repetitions and contradictions. Instead, Biblical narrative began with a coherent, foundational bedrock, which over time accreted more and more storylines. Unlike geological processes, though, this process of addition was deliberate. What happened if one author disagreed with his predecessor’s storyline or worldview? He did not simply take an axe to the narrative; instead, he attempted to bury his predecessor’s point of view by repeating his own over and over again, thus skewing our understanding of the story in new ways. Every generation of readers sees the world differently, and thus every generation of writers seeks to adapt their predecessors’ cultural heritage to their own situation. We are not meant simply to dismiss earlier stories; rather, the intention of later writers is to transform our understanding of those stories via their additions.</blockquote>
@@ -33,205 +33,205 @@ Parashat Naso <span class="citation">(Numbers 4:21-7:89)</span> in the annual To
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="h"><sup>כא</sup>&nbsp;וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃ <sup>כב</sup>&nbsp;נָשֹׂ֗א אֶת־רֹ֛אשׁ בְּנֵ֥י גֵרְשׁ֖וֹן גַּם־הֵ֑ם לְבֵ֥ית אֲבֹתָ֖ם לְמִשְׁפְּחֹתָֽם׃ <sup>כג</sup>&nbsp;מִבֶּן֩ שְׁלֹשִׁ֨ים שָׁנָ֜ה וָמַ֗עְלָה עַ֛ד בֶּן־חֲמִשִּׁ֥ים שָׁנָ֖ה תִּפְקֹ֣ד אוֹתָ֑ם כׇּל־הַבָּא֙ לִצְבֹ֣א צָבָ֔א לַעֲבֹ֥ד עֲבֹדָ֖ה בְּאֹ֥הֶל מוֹעֵֽד׃ <sup>כד</sup>&nbsp;זֹ֣את עֲבֹדַ֔ת מִשְׁפְּחֹ֖ת הַגֵּרְשֻׁנִּ֑י לַעֲבֹ֖ד וּלְמַשָּֽׂא׃ <sup>כה</sup>&nbsp;וְנָ֨שְׂא֜וּ אֶת־יְרִיעֹ֤ת הַמִּשְׁכָּן֙ וְאֶת־אֹ֣הֶל מוֹעֵ֔ד מִכְסֵ֕הוּ וּמִכְסֵ֛ה הַתַּ֥חַשׁ אֲשֶׁר־עָלָ֖יו מִלְמָ֑עְלָה וְאֶ֨ת־מָסַ֔ךְ פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃ <sup>כו</sup>&nbsp;וְאֵת֩ קַלְעֵ֨י הֶֽחָצֵ֜ר וְאֶת־מָסַ֣ךְ ׀ פֶּ֣תַח ׀ שַׁ֣עַר הֶחָצֵ֗ר אֲשֶׁ֨ר עַל־הַמִּשְׁכָּ֤ן וְעַל־הַמִּזְבֵּ֙חַ֙ סָבִ֔יב וְאֵת֙ מֵֽיתְרֵיהֶ֔ם וְאֶֽת־כׇּל־כְּלֵ֖י עֲבֹדָתָ֑ם וְאֵ֨ת כׇּל־אֲשֶׁ֧ר יֵעָשֶׂ֛ה לָהֶ֖ם וְעָבָֽדוּ׃ <sup>כז</sup>&nbsp;עַל־פִּי֩ אַהֲרֹ֨ן וּבָנָ֜יו תִּהְיֶ֗ה כׇּל־עֲבֹדַת֙ בְּנֵ֣י הַגֵּרְשֻׁנִּ֔י לְכׇ֨ל־מַשָּׂאָ֔ם וּלְכֹ֖ל עֲבֹדָתָ֑ם וּפְקַדְתֶּ֤ם עֲלֵהֶם֙ בְּמִשְׁמֶ֔רֶת אֵ֖ת כׇּל־מַשָּׂאָֽם׃ <sup>כח</sup>&nbsp;זֹ֣את עֲבֹדַ֗ת מִשְׁפְּחֹ֛ת בְּנֵ֥י הַגֵּרְשֻׁנִּ֖י בְּאֹ֣הֶל מוֹעֵ֑ד וּמִ֨שְׁמַרְתָּ֔ם בְּיַד֙ אִֽיתָמָ֔ר בֶּֽן־אַהֲרֹ֖ן הַכֹּהֵֽן׃ </span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="h"><sup>21</sup>&nbsp;YHVH spoke to Mosheh, saying: <sup>22</sup>&nbsp;"Take up the head-count of the Sons of Gershon, they too, by their Fathers' House, by their clans, <sup>23</sup>&nbsp;from the age of thirty years and upward; to the age of fifty years you are to count them, all who enter to join-forces with the working-force, to serve the serving-tasks in the Ohel Mo'ed. <sup>24</sup>&nbsp;This is the serving-task of the Gershuni clans, for the service-of-packing and for carrying: <sup>25</sup>&nbsp;they are to carry the curtains of the Mishkan, and the Ohel Mo'ed, its covering, the covering of faience beaded-leather that is over it, on top, and the screen for the entrance of the Ohel Mo'ed, <sup>26</sup>&nbsp;the hangings of the courtyard and the screen for the entrance to the gate of the courtyard that is over the Mishkan and over the Mizbe'aḥ, all around, as well as their cords, and all their serving implements; whatever is to be done with regard to them, they are to do-the-serving-task. <sup>27</sup>&nbsp;By order of Aharon and his sons shall it be (done): all the serving-tasks of the Sons of the Gershuni, including all their carrying-chores, including all their service. You are to make them accountable for discharging all their carrying-chores. <sup>28</sup>&nbsp;This is the serving-task of the clans of the Sons of the Gershuni at the Ohel Mo'ed and their charge under the hand of Itamar son of Aharon the kohen."</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="h"><sup>כט</sup>&nbsp;בְּנֵ֖י מְרָרִ֑י לְמִשְׁפְּחֹתָ֥ם לְבֵית־אֲבֹתָ֖ם תִּפְקֹ֥ד אֹתָֽם׃ <sup>ל</sup>&nbsp;מִבֶּן֩ שְׁלֹשִׁ֨ים שָׁנָ֜ה וָמַ֗עְלָה וְעַ֛ד בֶּן־חֲמִשִּׁ֥ים שָׁנָ֖ה תִּפְקְדֵ֑ם כׇּל־הַבָּא֙ לַצָּבָ֔א לַעֲבֹ֕ד אֶת־עֲבֹדַ֖ת אֹ֥הֶל מוֹעֵֽד׃ <sup>לא</sup>&nbsp;וְזֹאת֙ מִשְׁמֶ֣רֶת מַשָּׂאָ֔ם לְכׇל־עֲבֹדָתָ֖ם בְּאֹ֣הֶל מוֹעֵ֑ד קַרְשֵׁי֙ הַמִּשְׁכָּ֔ן וּבְרִיחָ֖יו וְעַמּוּדָ֥יו וַאֲדָנָֽיו׃ <sup>לב</sup>&nbsp;וְעַמּוּדֵי֩ הֶחָצֵ֨ר סָבִ֜יב וְאַדְנֵיהֶ֗ם וִיתֵֽדֹתָם֙ וּמֵ֣יתְרֵיהֶ֔ם לְכׇ֨ל־כְּלֵיהֶ֔ם וּלְכֹ֖ל עֲבֹדָתָ֑ם וּבְשֵׁמֹ֣ת תִּפְקְד֔וּ אֶת־כְּלֵ֖י מִשְׁמֶ֥רֶת מַשָּׂאָֽם׃ <sup>לג</sup>&nbsp;זֹ֣את עֲבֹדַ֗ת מִשְׁפְּחֹת֙ בְּנֵ֣י מְרָרִ֔י לְכׇל־עֲבֹדָתָ֖ם בְּאֹ֣הֶל מוֹעֵ֑ד בְּיַד֙ אִֽיתָמָ֔ר בֶּֽן־אַהֲרֹ֖ן הַכֹּהֵֽן׃ </span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="h"><sup>29</sup>&nbsp;"The Sons of Merari: by their clans, by their Fathers' House you are to count them, <sup>30</sup>&nbsp;from the age of thirty years and upward until the age of fifty years you are to count them, every one that may enter the working-force, to serve the serving-tasks of the Ohel Mo'ed. <sup>31</sup>&nbsp;This is their charge of carrying, including all their service-of-packing in the Ohel Mo'ed: the boards of the Mishkan, its bars, its columns and its sockets; <sup>32</sup>&nbsp;the columns of the courtyard, all around, their sockets, their pegs and their cords-including all their implements, including all their serving-tasks; by name you are to account for the implements of their carrying duties. <sup>33</sup>&nbsp;That is the service-of-packing of the clans of the Sons of Merari, including all their serving-tasks in the Ohel Mo'ed under the hand of Itamar son of Aharon the kohen."</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="p"><sup>לד</sup>&nbsp;וַיִּפְקֹ֨ד מֹשֶׁ֧ה</span> <span class="h">וְאַהֲרֹ֛ן וּנְשִׂיאֵ֥י הָעֵדָ֖ה</span> <span class="p">אֶת־בְּנֵ֣י הַקְּהָתִ֑י לְמִשְׁפְּחֹתָ֖ם וּלְבֵ֥ית אֲבֹתָֽם׃ </span> <span class="h"><sup>לה</sup>&nbsp;מִבֶּ֨ן שְׁלֹשִׁ֤ים שָׁנָה֙ וָמַ֔עְלָה וְעַ֖ד בֶּן־חֲמִשִּׁ֣ים שָׁנָ֑ה כׇּל־הַבָּא֙ לַצָּבָ֔א לַעֲבֹדָ֖ה בְּאֹ֥הֶל מוֹעֵֽד׃ </span> <span class="p"><sup>לו</sup>&nbsp;וַיִּהְי֥וּ פְקֻדֵיהֶ֖ם לְמִשְׁפְּחֹתָ֑ם אַלְפַּ֕יִם שְׁבַ֥ע מֵא֖וֹת וַחֲמִשִּֽׁים׃ </span> <span class="h"><sup>לז</sup>&nbsp;אֵ֤לֶּה פְקוּדֵי֙ מִשְׁפְּחֹ֣ת הַקְּהָתִ֔י כׇּל־הָעֹבֵ֖ד בְּאֹ֣הֶל מוֹעֵ֑ד אֲשֶׁ֨ר פָּקַ֤ד מֹשֶׁה֙ וְאַהֲרֹ֔ן עַל־פִּ֥י יְהֹוָ֖ה בְּיַד־מֹשֶֽׁה׃ </span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="p"><sup>34</sup>&nbsp;So Mosheh,</span> <span class="h">Aharon and the leaders of the community</span> <span class="p">counted all the Sons of Qehat, by their clans, by their Fathers' House,</span> <span class="h"><sup>35</sup>&nbsp;from the age of thirty years and upward until the age of fifty years, everyone that entered the working-force, for the serving-tasks in the Ohel Mo'ed.</span> <span class="p"><sup>36</sup>&nbsp;Now those counted of them were, by their clans: two thousand, seven hundred and fifty.</span. <span class="h"><sup>37</sup>&nbsp;These are the accountings of the Qehati clans, everyone that was serving in the Ohel Mo'ed, whom Mosheh and Aharon counted by order of YHVH, by the hand of Mosheh.</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="p"><mark>שני</mark> <sup>לח</sup>&nbsp;וּפְקוּדֵ֖י בְּנֵ֣י גֵרְשׁ֑וֹן לְמִשְׁפְּחוֹתָ֖ם וּלְבֵ֥ית אֲבֹתָֽם׃ </span> <span class="h"><sup>לט</sup>&nbsp;מִבֶּ֨ן שְׁלֹשִׁ֤ים שָׁנָה֙ וָמַ֔עְלָה וְעַ֖ד בֶּן־חֲמִשִּׁ֣ים שָׁנָ֑ה כׇּל־הַבָּא֙ לַצָּבָ֔א לַעֲבֹדָ֖ה בְּאֹ֥הֶל מוֹעֵֽד׃ <sup>מ</sup>&nbsp;וַיִּֽהְיוּ֙ פְּקֻ֣דֵיהֶ֔ם לְמִשְׁפְּחֹתָ֖ם לְבֵ֣ית אֲבֹתָ֑ם</span> <span class="p">אַלְפַּ֕יִם וְשֵׁ֥שׁ מֵא֖וֹת וּשְׁלֹשִֽׁים׃ </span> <span class="h"><sup>מא</sup>&nbsp;אֵ֣לֶּה פְקוּדֵ֗י מִשְׁפְּחֹת֙ בְּנֵ֣י גֵרְשׁ֔וֹן כׇּל־הָעֹבֵ֖ד בְּאֹ֣הֶל מוֹעֵ֑ד אֲשֶׁ֨ר פָּקַ֥ד מֹשֶׁ֛ה וְאַהֲרֹ֖ן עַל־פִּ֥י יְהֹוָה׃ </span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="p"><sup>38</sup>&nbsp;Now those counted of the Sons of Gershon, by their clans, by their Fathers' House,</span> <span class="h"><sup>39</sup>&nbsp;from the age of thirty and upward until the age of fifty years, everyone who entered the work-force, for the serving-tasks in the Ohel Mo'ed: <sup>40</sup>&nbsp;those counted of them were, by their clans, by their Fathers' House:</span> <span class="p">two thousand, six hundred and thirty.</span> <span class="h"><sup>41</sup>&nbsp;These are the accountings of the clans of the Sons of Gershon, everyone that did-service in the Ohel Mo'ed, whom Mosheh and Aharon counted by order of YHVH.</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="p"><sup>מב</sup>&nbsp;וּפְקוּדֵ֕י מִשְׁפְּחֹ֖ת בְּנֵ֣י מְרָרִ֑י לְמִשְׁפְּחֹתָ֖ם לְבֵ֥ית אֲבֹתָֽם׃ </span> <span class="h"><sup>מג</sup>&nbsp;מִבֶּ֨ן שְׁלֹשִׁ֤ים שָׁנָה֙ וָמַ֔עְלָה וְעַ֖ד בֶּן־חֲמִשִּׁ֣ים שָׁנָ֑ה כׇּל־הַבָּא֙ לַצָּבָ֔א לַעֲבֹדָ֖ה בְּאֹ֥הֶל מוֹעֵֽד׃ <sup>מד</sup>&nbsp;וַיִּהְי֥וּ פְקֻדֵיהֶ֖ם לְמִשְׁפְּחֹתָ֑ם</span> <span class="p">שְׁלֹ֥שֶׁת אֲלָפִ֖ים וּמָאתָֽיִם׃ </span> <span class="h"><sup>מה</sup>&nbsp;אֵ֣לֶּה פְקוּדֵ֔י מִשְׁפְּחֹ֖ת בְּנֵ֣י מְרָרִ֑י אֲשֶׁ֨ר פָּקַ֤ד מֹשֶׁה֙ וְאַהֲרֹ֔ן עַל־פִּ֥י יְהֹוָ֖ה בְּיַד־מֹשֶֽׁה׃ </span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="p"><sup>42</sup>&nbsp;And those counted of the Sons of Merari, by their clans, by their Fathers' House,</span> <span class="h"><sup>43</sup>&nbsp;from the age of thirty years and upward until the age of fifty years, everyone who entered the working-force, for serving-tasks in the Ohel Mo'ed: <sup>44</sup>&nbsp;those counted of them were, by their clans, by their Fathers' House:</span> <span class="p">three thousand and two hundred.</span> <span class="h"><sup>45</sup>&nbsp;These are the accountings of the clans of the Sons of Merari, whom Mosheh and Aharon counted by order of YHVH, by the hand of Mosheh.</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="p"><sup>מו</sup>&nbsp;כׇּֽל־הַפְּקֻדִ֡ים אֲשֶׁר֩ פָּקַ֨ד מֹשֶׁ֧ה</span> <span class="h">וְאַהֲרֹ֛ן וּנְשִׂיאֵ֥י יִשְׂרָאֵ֖ל אֶת־הַלְוִיִּ֑ם לְמִשְׁפְּחֹתָ֖ם וּלְבֵ֥ית אֲבֹתָֽם׃ <sup>מז</sup>&nbsp;מִבֶּ֨ן שְׁלֹשִׁ֤ים שָׁנָה֙ וָמַ֔עְלָה וְעַ֖ד בֶּן־חֲמִשִּׁ֣ים שָׁנָ֑ה כׇּל־הַבָּ֗א לַעֲבֹ֨ד עֲבֹדַ֧ת עֲבֹדָ֛ה וַעֲבֹדַ֥ת מַשָּׂ֖א בְּאֹ֥הֶל מוֹעֵֽד׃ <sup>מח</sup>&nbsp;וַיִּהְי֖וּ פְּקֻדֵיהֶ֑ם</span> <span class="p">שְׁמֹנַ֣ת אֲלָפִ֔ים וַחֲמֵ֥שׁ מֵא֖וֹת וּשְׁמֹנִֽים׃ </span> <span class="h"><sup>מט</sup>&nbsp;עַל־פִּ֨י יְהֹוָ֜ה פָּקַ֤ד אוֹתָם֙ בְּיַד־מֹשֶׁ֔ה אִ֥ישׁ אִ֛ישׁ עַל־עֲבֹדָת֖וֹ וְעַל־מַשָּׂא֑וֹ</span> <span class="p">וּפְקֻדָ֕יו אֲשֶׁר־צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="p"><sup>46</sup>&nbsp;All those whom Mosheh counted,</span> <span class="h">and Aharon and all the leaders of Yisrael (counted), the Levi'im, by their clans, by their Fathers' House, <sup>47</sup>&nbsp;from the age of thirty years and upward until the age of fifty years, everyone that entered to serve the serving-tasks of the service-of-packing and the serving-tasks of carrying, in the Ohel Mo'ed, <sup>48</sup>&nbsp;those of them counted were:</span> <span class="p">eight thousand, five hundred and eighty.</span> <span class="h"><sup>49</sup>&nbsp;By order of YHVH they were counted, by the hand of Mosheh, each-man, each-man according to his service-of-packing and to his carrying-tasks,</span> <span class="p">(with) his accountability, as YHVH had commanded Mosheh.</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="p"><mark>שלישי</mark> ה <sup>א</sup>&nbsp;וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃ <sup>ב</sup>&nbsp;צַ֚ו אֶת־בְּנֵ֣י יִשְׂרָאֵ֔ל וִֽישַׁלְּחוּ֙ מִן־הַֽמַּחֲנֶ֔ה כׇּל־צָר֖וּעַ וְכׇל־זָ֑ב וְכֹ֖ל טָמֵ֥א לָנָֽפֶשׁ׃ <sup>ג</sup>&nbsp;מִזָּכָ֤ר עַד־נְקֵבָה֙ תְּשַׁלֵּ֔חוּ אֶל־מִח֥וּץ לַֽמַּחֲנֶ֖ה תְּשַׁלְּח֑וּם וְלֹ֤א יְטַמְּאוּ֙ אֶת־מַ֣חֲנֵיהֶ֔ם אֲשֶׁ֥ר אֲנִ֖י שֹׁכֵ֥ן בְּתוֹכָֽם׃ <sup>ד</sup>&nbsp;וַיַּֽעֲשׂוּ־כֵן֙ בְּנֵ֣י יִשְׂרָאֵ֔ל וַיְשַׁלְּח֣וּ אוֹתָ֔ם אֶל־מִח֖וּץ לַֽמַּחֲנֶ֑ה כַּאֲשֶׁ֨ר דִּבֶּ֤ר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה כֵּ֥ן עָשׂ֖וּ בְּנֵ֥י יִשְׂרָאֵֽל׃ </span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="p">5 <sup>1</sup>&nbsp;YHVH spoke to Mosheh, saying: <sup>2</sup>&nbsp;"Command the Children of Yisrael, that they may send-away from the camp anyone (with) tsara'at, anyone (with) a flow, and anyone tamei by a (dead) person. <sup>3</sup>&nbsp;Male and female (alike), you are to send-him-away, outside the camp you are to send-them-away, so that they do not make their camp tamei in which I keep-a-dwelling in their midst." <sup>4</sup>&nbsp;Thus did the Children of Yisrael, sending-them-away outside the camp, as YHVH had spoken to Mosheh, thus did the Children of Yisrael.</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="h"><sup>ה</sup>&nbsp;וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃ <sup>ו</sup>&nbsp;דַּבֵּר֮ אֶל־בְּנֵ֣י יִשְׂרָאֵל֒ אִ֣ישׁ אֽוֹ־אִשָּׁ֗ה כִּ֤י יַעֲשׂוּ֙ מִכׇּל־חַטֹּ֣את הָֽאָדָ֔ם לִמְעֹ֥ל מַ֖עַל בַּיהֹוָ֑ה וְאָֽשְׁמָ֖ה הַנֶּ֥פֶשׁ הַהִֽוא׃ <sup>ז</sup>&nbsp;וְהִתְוַדּ֗וּ אֶֽת־חַטָּאתָם֮ אֲשֶׁ֣ר עָשׂוּ֒ וְהֵשִׁ֤יב אֶת־אֲשָׁמוֹ֙ בְּרֹאשׁ֔וֹ וַחֲמִישִׁת֖וֹ יֹסֵ֣ף עָלָ֑יו וְנָתַ֕ן לַאֲשֶׁ֖ר אָשַׁ֥ם לֽוֹ׃ <sup>ח</sup>&nbsp;וְאִם־אֵ֨ין לָאִ֜ישׁ גֹּאֵ֗ל לְהָשִׁ֤יב הָאָשָׁם֙ אֵלָ֔יו הָאָשָׁ֛ם הַמּוּשָׁ֥ב לַיהֹוָ֖ה לַכֹּהֵ֑ן מִלְּבַ֗ד אֵ֚יל הַכִּפֻּרִ֔ים אֲשֶׁ֥ר יְכַפֶּר־בּ֖וֹ עָלָֽיו׃ <sup>ט</sup>&nbsp;וְכׇל־תְּרוּמָ֞ה לְכׇל־קׇדְשֵׁ֧י בְנֵי־יִשְׂרָאֵ֛ל אֲשֶׁר־יַקְרִ֥יבוּ לַכֹּהֵ֖ן ל֥וֹ יִהְיֶֽה׃ <sup>י</sup>&nbsp;וְאִ֥ישׁ אֶת־קֳדָשָׁ֖יו ל֣וֹ יִהְי֑וּ אִ֛ישׁ אֲשֶׁר־יִתֵּ֥ן לַכֹּהֵ֖ן ל֥וֹ יִהְיֶֽה׃ </span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="h"><sup>5</sup>&nbsp;YHVH spoke to Mosheh, saying: <sup>6</sup>&nbsp;"Speak to the Children of Yisrael: A man or a woman — when they do any sin (committed by) humans by breaking-faith, yes, faith with YHVH, and that person realizes his guilt: <sup>7</sup>&nbsp;they are to confess their sin that they have done, and (each one) is to make-restitution for one's guilt in its capital-amount, adding its fifth to it, and is to give it to the one toward whom one incurred-guilt. <sup>8</sup>&nbsp;Now if the man has no redeemer, to make-restitution of guilt-payment to him, the guilt-payment is to be restored to YHVH, (it is) the kohen's, besides the ram of atonement with which atonement is effected for him. <sup>9</sup>&nbsp;And any contribution, including any of the holy-offerings of the Children of Yisrael that they bring-near for the kohen, shall be his. <sup>10</sup>&nbsp;So every-man, his holy-offerings shall be his, every-man, what he gives to the kohen, shall be his."</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="p"><mark>רביעי</mark> <sup>יא</sup>&nbsp;וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃ <sup>יב</sup>&nbsp;דַּבֵּר֙ אֶל־בְּנֵ֣י יִשְׂרָאֵ֔ל וְאָמַרְתָּ֖ אֲלֵהֶ֑ם אִ֥ישׁ אִישׁ֙ כִּֽי־תִשְׂטֶ֣ה אִשְׁתּ֔וֹ וּמָעֲלָ֥ה ב֖וֹ מָֽעַל׃ <sup>יג</sup>&nbsp;וְשָׁכַ֨ב אִ֣ישׁ אֹתָהּ֮ שִׁכְבַת־זֶ֒רַע֒ וְנֶעְלַם֙ מֵעֵינֵ֣י אִישָׁ֔הּ וְנִסְתְּרָ֖ה וְהִ֣יא נִטְמָ֑אָה וְעֵד֙ אֵ֣ין בָּ֔הּ וְהִ֖וא לֹ֥א נִתְפָּֽשָׂה׃ <sup>יד</sup>&nbsp;וְעָבַ֨ר עָלָ֧יו רֽוּחַ־קִנְאָ֛ה וְקִנֵּ֥א אֶת־אִשְׁתּ֖וֹ וְהִ֣וא נִטְמָ֑אָה אוֹ־עָבַ֨ר עָלָ֤יו רֽוּחַ־קִנְאָה֙ וְקִנֵּ֣א אֶת־אִשְׁתּ֔וֹ וְהִ֖יא לֹ֥א נִטְמָֽאָה׃ <sup>טו</sup>&nbsp;וְהֵבִ֨יא הָאִ֣ישׁ אֶת־אִשְׁתּוֹ֮ אֶל־הַכֹּהֵן֒ וְהֵבִ֤יא</span> <span class="h">אֶת־קׇרְבָּנָהּ֙ עָלֶ֔יהָ עֲשִׂירִ֥ת הָאֵיפָ֖ה קֶ֣מַח שְׂעֹרִ֑ים לֹֽא־יִצֹ֨ק עָלָ֜יו שֶׁ֗מֶן וְלֹֽא־יִתֵּ֤ן עָלָיו֙ לְבֹנָ֔ה כִּֽי־מִנְחַ֤ת קְנָאֹת֙ ה֔וּא מִנְחַ֥ת זִכָּר֖וֹן מַזְכֶּ֥רֶת עָוֺֽן׃ </span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="p"><sup>11</sup>&nbsp;YHVH spoke to Mosheh, saying: <sup>12</sup>&nbsp;"Speak to the Children of Yisrael and say to them: 'Any-man, any-man whose wife goes-astray, breaking-faith, yes, faith with him, <sup>13</sup>&nbsp;in that a man lay with her, (with) an emission of seed, and it was hidden from the eyes of her husband, — she concealed herself, since she had made-herself-tamei — and since there was no witness against her, she was not apprehended — <sup>14</sup>&nbsp;and the rush of jealousy comes over him, and he is jealous toward his wife, she having made-herself-tamei; or the rush of jealousy comes over him and he is jealous toward his wife, though she did not make-herself-tamei — <sup>15</sup>&nbsp;the man is to bring his wife to the kohen.</span> <span class="h">He is to bring a near-offering for her: a tenth of an <em>efa</em> of barley meal; there is not to be poured on it any oil, there is not to be put on it any frankincense, for it is a grain-gift of jealousy, grain-gift of reminding that reminds of iniquity.'"</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="p"><sup>טז</sup>&nbsp;וְהִקְרִ֥יב אֹתָ֖הּ הַכֹּהֵ֑ן וְהֶֽעֱמִדָ֖הּ לִפְנֵ֥י יְהֹוָה׃ <sup>יז</sup>&nbsp;וְלָקַ֧ח הַכֹּהֵ֛ן מַ֥יִם קְדֹשִׁ֖ים בִּכְלִי־חָ֑רֶשׂ וּמִן־הֶֽעָפָ֗ר אֲשֶׁ֤ר יִהְיֶה֙ בְּקַרְקַ֣ע הַמִּשְׁכָּ֔ן יִקַּ֥ח הַכֹּהֵ֖ן וְנָתַ֥ן אֶל־הַמָּֽיִם׃ <sup>יח</sup>&nbsp;וְהֶעֱמִ֨יד הַכֹּהֵ֥ן אֶֽת־הָאִשָּׁה֮ לִפְנֵ֣י יְהֹוָה֒ וּפָרַע֙ אֶת־רֹ֣אשׁ הָֽאִשָּׁ֔ה</span> <span class="h">וְנָתַ֣ן עַל־כַּפֶּ֗יהָ אֵ֚ת מִנְחַ֣ת הַזִּכָּר֔וֹן מִנְחַ֥ת קְנָאֹ֖ת הִ֑וא</span> <span class="p">וּבְיַ֤ד הַכֹּהֵן֙ יִהְי֔וּ מֵ֥י הַמָּרִ֖ים הַמְאָֽרְרִֽים׃ </span> <span class="h"><sup>יט</sup>&nbsp;וְהִשְׁבִּ֨יעַ אֹתָ֜הּ הַכֹּהֵ֗ן וְאָמַ֤ר אֶל־הָֽאִשָּׁה֙ אִם־לֹ֨א שָׁכַ֥ב אִישׁ֙ אֹתָ֔ךְ וְאִם־לֹ֥א שָׂטִ֛ית טֻמְאָ֖ה תַּ֣חַת אִישֵׁ֑ךְ הִנָּקִ֕י מִמֵּ֛י הַמָּרִ֥ים הַֽמְאָרְרִ֖ים הָאֵֽלֶּה׃ <sup>כ</sup>&nbsp;וְאַ֗תְּ כִּ֥י שָׂטִ֛ית תַּ֥חַת אִישֵׁ֖ךְ וְכִ֣י נִטְמֵ֑את וַיִּתֵּ֨ן אִ֥ישׁ בָּךְ֙ אֶת־שְׁכׇבְתּ֔וֹ מִֽבַּלְעֲדֵ֖י אִישֵֽׁךְ׃ <sup>כא</sup>&nbsp;וְהִשְׁבִּ֨יעַ הַכֹּהֵ֥ן אֶֽת־הָאִשָּׁה֮ בִּשְׁבֻעַ֣ת הָאָלָה֒ וְאָמַ֤ר הַכֹּהֵן֙ לָֽאִשָּׁ֔ה יִתֵּ֨ן יְהֹוָ֥ה אוֹתָ֛ךְ לְאָלָ֥ה וְלִשְׁבֻעָ֖ה בְּת֣וֹךְ עַמֵּ֑ךְ בְּתֵ֨ת יְהֹוָ֤ה אֶת־יְרֵכֵךְ֙ נֹפֶ֔לֶת וְאֶת־בִּטְנֵ֖ךְ צָבָֽה׃ <sup>כב</sup>&nbsp;וּ֠בָ֠אוּ הַמַּ֨יִם הַמְאָרְרִ֤ים הָאֵ֙לֶּה֙ בְּֽמֵעַ֔יִךְ לַצְבּ֥וֹת בֶּ֖טֶן וְלַנְפִּ֣ל יָרֵ֑ךְ וְאָמְרָ֥ה הָאִשָּׁ֖ה אָמֵ֥ן ׀ אָמֵֽן׃ </span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="p"><sup>16</sup>&nbsp;"The kohen is to bring-her-near and have-her-stand before the presence of YHVH; <sup>17</sup>&nbsp;then the kohen is to take holy water in an earthenware vessel, and from the dirt that will be on the floor of the Mishkan the kohen is to take (some) and place (it) in the water. <sup>18</sup>&nbsp;When the kohen has had the woman stand before the presence of YHVH, he is to loosen (the hair of) the woman's head</span> <span class="h">and is to place on her palms the grain-gift of reminding — it is a grain-gift of jealousy! — </span> <span class="p">and in the hand of the kohen is to be the Water of Bitterness Bringing the Bane.</span> <span class="h"><sup>19</sup>&nbsp;The kohen is to have her swear, saying to the woman: 'If a man did not lie with you, and if you did not stray to make-yourself-tamei under your husband('s authority), be-clear from this Water of Bitterness Bringing the Bane! <sup>20</sup>&nbsp;But you, if you strayed under your husband('s authority), if you made-yourself-tamei, and a man gave you his emission, other than your husband:' <sup>21</sup>&nbsp;the kohen is to have the woman swear the oath curse, and the kohen is to say to the woman: 'may YHVH make you a curse and a cause-for-oath in the midst of your kinspeople, when YHVH makes your thigh fall and your belly flood; <sup>22</sup>&nbsp;may this Water of Bitterness enter your innards, to cause the belly to flood and the thigh to fall!' And the woman is to say: 'Amen! <em>Amen</em>!'"</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="h"><sup>כג</sup>&nbsp;וְ֠כָתַ֠ב אֶת־הָאָלֹ֥ת הָאֵ֛לֶּה הַכֹּהֵ֖ן בַּסֵּ֑פֶר וּמָחָ֖ה אֶל־מֵ֥י הַמָּרִֽים׃ </span> <span class="p"><sup>כד</sup>&nbsp;וְהִשְׁקָה֙ אֶת־הָ֣אִשָּׁ֔ה אֶת־מֵ֥י הַמָּרִ֖ים הַמְאָֽרְרִ֑ים וּבָ֥אוּ בָ֛הּ הַמַּ֥יִם הַֽמְאָרְרִ֖ים לְמָרִֽים׃ </span> <span class="h"><sup>כה</sup>&nbsp;וְלָקַ֤ח הַכֹּהֵן֙ מִיַּ֣ד הָֽאִשָּׁ֔ה אֵ֖ת מִנְחַ֣ת הַקְּנָאֹ֑ת וְהֵנִ֤יף אֶת־הַמִּנְחָה֙ לִפְנֵ֣י יְהֹוָ֔ה וְהִקְרִ֥יב אֹתָ֖הּ אֶל־הַמִּזְבֵּֽחַ׃ <sup>כו</sup>&nbsp;וְקָמַ֨ץ הַכֹּהֵ֤ן מִן־הַמִּנְחָה֙ אֶת־אַזְכָּ֣רָתָ֔הּ וְהִקְטִ֖יר הַמִּזְבֵּ֑חָה וְאַחַ֛ר יַשְׁקֶ֥ה אֶת־הָאִשָּׁ֖ה אֶת־הַמָּֽיִם׃ <sup>כז</sup>&nbsp;וְהִשְׁקָ֣הּ אֶת־הַמַּ֗יִם</span> <span class="p">וְהָיְתָ֣ה אִֽם־נִטְמְאָה֮ וַתִּמְעֹ֣ל מַ֣עַל בְּאִישָׁהּ֒ וּבָ֨אוּ בָ֜הּ הַמַּ֤יִם הַמְאָֽרְרִים֙ לְמָרִ֔ים וְצָבְתָ֣ה בִטְנָ֔הּ וְנָפְלָ֖ה יְרֵכָ֑הּ וְהָיְתָ֧ה הָאִשָּׁ֛ה לְאָלָ֖ה בְּקֶ֥רֶב עַמָּֽהּ׃ <sup>כח</sup>&nbsp;וְאִם־לֹ֤א נִטְמְאָה֙ הָֽאִשָּׁ֔ה וּטְהֹרָ֖ה הִ֑וא וְנִקְּתָ֖ה וְנִזְרְעָ֥ה זָֽרַע׃ </span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="h"><sup>23</sup>&nbsp;"Then the kohen is to write these curses in a document and is to blot (them) into the Water of Bitterness,</span> <span class="p"><sup>24</sup>&nbsp;he is to make the woman drink the Water of Bitterness Bringing the Bane, so that the Water Bringing the Bane may enter her, for 'bitterness.'</span> <span class="h"><sup>25</sup>&nbsp;Then the kohen is to take from the hand of the woman the grain-gift of jealousy, he is to elevate the grain-gift before the presence of YHVH, and is to bring-it-near, to the Mizbe'aḥ. <sup>26</sup>&nbsp;The kohen is to scoop out of the grain-gift its reminder-portion, and is to turn it into smoke upon the Mizbe'aḥ; after that he is to make the woman drink the water. <sup>27</sup>&nbsp;When he has had her drink the water,</span> <span class="p">it shall be: if she made-herself-tamei and broke-faith, yes, faith with her husband, the Water Bringing the Bane shall enter her, for 'bitterness,' her belly shall flood and her thigh shall fall, and the woman shall become an object-of-curse among her kinsfolk. <sup>28</sup>&nbsp;But if the woman did not make-herself-tamei and she is pure, she is to be cleared and she may-bear-seed, yes, seed."</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="p"><sup>כט</sup>&nbsp;זֹ֥את תּוֹרַ֖ת הַקְּנָאֹ֑ת אֲשֶׁ֨ר תִּשְׂטֶ֥ה אִשָּׁ֛ה תַּ֥חַת אִישָׁ֖הּ וְנִטְמָֽאָה׃ <sup>ל</sup>&nbsp;א֣וֹ אִ֗ישׁ אֲשֶׁ֨ר תַּעֲבֹ֥ר עָלָ֛יו ר֥וּחַ קִנְאָ֖ה וְקִנֵּ֣א אֶת־אִשְׁתּ֑וֹ וְהֶעֱמִ֤יד אֶת־הָֽאִשָּׁה֙ לִפְנֵ֣י יְהֹוָ֔ה וְעָ֤שָׂה לָהּ֙ הַכֹּהֵ֔ן אֵ֥ת כׇּל־הַתּוֹרָ֖ה הַזֹּֽאת׃ <sup>לא</sup>&nbsp;וְנִקָּ֥ה הָאִ֖ישׁ מֵעָוֺ֑ן וְהָאִשָּׁ֣ה הַהִ֔וא תִּשָּׂ֖א אֶת־עֲוֺנָֽהּ׃</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="p"><sup>29</sup>&nbsp;"This is the Instruction for cases-of-jealousy, when a woman strays under her husband('s authority) and makes-herself-tamei, <sup>30</sup>&nbsp;or when there comes over a man a rush of jealousy, so that he is jealous toward his wife: he is to have the woman stand before the presence of YHVH, and the kohen is to perform regarding her (according to) all this Instruction. <sup>31</sup>&nbsp;The man shall be clear of iniquity, but that woman shall bear her iniquity."</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="p">ו <sup>א</sup>&nbsp;וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃ <sup>ב</sup>&nbsp;דַּבֵּר֙ אֶל־בְּנֵ֣י יִשְׂרָאֵ֔ל וְאָמַרְתָּ֖ אֲלֵהֶ֑ם אִ֣ישׁ אֽוֹ־אִשָּׁ֗ה כִּ֤י יַפְלִא֙ לִנְדֹּר֙ נֶ֣דֶר נָזִ֔יר לְהַזִּ֖יר לַֽיהוָֹֽה׃ <sup>ג</sup>&nbsp;מִיַּ֤יִן וְשֵׁכָר֙ יַזִּ֔יר חֹ֥מֶץ יַ֛יִן וְחֹ֥מֶץ שֵׁכָ֖ר לֹ֣א יִשְׁתֶּ֑ה וְכׇל־מִשְׁרַ֤ת עֲנָבִים֙ לֹ֣א יִשְׁתֶּ֔ה וַעֲנָבִ֛ים לַחִ֥ים וִיבֵשִׁ֖ים לֹ֥א יֹאכֵֽל׃ <sup>ד</sup>&nbsp;כֹּ֖ל יְמֵ֣י נִזְר֑וֹ מִכֹּל֩ אֲשֶׁ֨ר יֵעָשֶׂ֜ה מִגֶּ֣פֶן הַיַּ֗יִן מֵחַרְצַנִּ֛ים וְעַד־זָ֖ג לֹ֥א יֹאכֵֽל׃ </span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="p">6 <sup>1</sup>&nbsp;YHVH spoke to Mosheh, saying: <sup>2</sup>&nbsp;"Speak to the Children of Yisrael and say to them: 'A man or a woman — when one sets oneself apart, by vowing the vow of a Nazir/Consecrated-one, to consecrate-oneself for YHVH: <sup>3</sup>&nbsp;from wine and from intoxicant one is to consecrate-oneself; fermentation of wine and fermentation of intoxicant one is not to drink, any liquid of grapes one is not to drink, and grapes, moist or dried, one is not to eat. <sup>4</sup>&nbsp;All the days of one's being-consecrated, anything that is made from the vine of wine, from seeds to skin, one is not to eat.'"</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="p"><sup>ה</sup>&nbsp;כׇּל־יְמֵי֙ נֶ֣דֶר נִזְר֔וֹ תַּ֖עַר לֹא־יַעֲבֹ֣ר עַל־רֹאשׁ֑וֹ עַד־מְלֹ֨את הַיָּמִ֜ם אֲשֶׁר־יַזִּ֤יר לַיהֹוָה֙ קָדֹ֣שׁ יִהְיֶ֔ה גַּדֵּ֥ל פֶּ֖רַע שְׂעַ֥ר רֹאשֽׁוֹ׃ </span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="p"><sup>5</sup>&nbsp;"All the days of one's vow of being-consecrated a razor is not to go-across one's head; until the fulfilling of days that one is consecrated for YHVH, holy shall one remain; one is to grow loose the hair on one's head."</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="p"><sup>ו</sup>&nbsp;כׇּל־יְמֵ֥י הַזִּיר֖וֹ לַיהֹוָ֑ה עַל־נֶ֥פֶשׁ מֵ֖ת לֹ֥א יָבֹֽא׃ <sup>ז</sup>&nbsp;לְאָבִ֣יו וּלְאִמּ֗וֹ לְאָחִיו֙ וּלְאַ֣חֹת֔וֹ לֹא־יִטַּמָּ֥א לָהֶ֖ם בְּמֹתָ֑ם כִּ֛י נֵ֥זֶר אֱלֹהָ֖יו עַל־רֹאשֽׁוֹ׃ <sup>ח</sup>&nbsp;כֹּ֖ל יְמֵ֣י נִזְר֑וֹ קָדֹ֥שׁ ה֖וּא לַֽיהֹוָֽה׃ </span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="p"><sup>6</sup>&nbsp;"All the days that one consecrates-oneself for YHVH, near a dead person one is not to come — <sup>7</sup>&nbsp;(even) for one's father or one's mother, one's brother or one's sister; one is not to make-oneself-tamei by them when they die, for (hair) consecrated for one's <em>elo'ah</em> is upon one's head. <sup>8</sup>&nbsp;All the days of one's being-consecrated, one is holy to YHVH."</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="h"><sup>ט</sup>&nbsp;וְכִֽי־יָמ֨וּת מֵ֤ת עָלָיו֙ בְּפֶ֣תַע פִּתְאֹ֔ם וְטִמֵּ֖א רֹ֣אשׁ נִזְר֑וֹ וְגִלַּ֤ח רֹאשׁוֹ֙ בְּי֣וֹם טׇהֳרָת֔וֹ בַּיּ֥וֹם הַשְּׁבִיעִ֖י יְגַלְּחֶֽנּוּ׃ <sup>י</sup>&nbsp;וּבַיּ֣וֹם הַשְּׁמִינִ֗י יָבִא֙ שְׁתֵּ֣י תֹרִ֔ים א֥וֹ שְׁנֵ֖י בְּנֵ֣י יוֹנָ֑ה אֶ֨ל־הַכֹּהֵ֔ן אֶל־פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃ <sup>יא</sup>&nbsp;וְעָשָׂ֣ה הַכֹּהֵ֗ן אֶחָ֤ד לְחַטָּאת֙ וְאֶחָ֣ד לְעֹלָ֔ה וְכִפֶּ֣ר עָלָ֔יו מֵאֲשֶׁ֥ר חָטָ֖א עַל־הַנָּ֑פֶשׁ וְקִדַּ֥שׁ אֶת־רֹאשׁ֖וֹ בַּיּ֥וֹם הַהֽוּא׃ <sup>יב</sup>&nbsp;וְהִזִּ֤יר לַֽיהֹוָה֙ אֶת־יְמֵ֣י נִזְר֔וֹ וְהֵבִ֛יא כֶּ֥בֶשׂ בֶּן־שְׁנָת֖וֹ לְאָשָׁ֑ם וְהַיָּמִ֤ים הָרִאשֹׁנִים֙ יִפְּל֔וּ כִּ֥י טָמֵ֖א נִזְרֽוֹ׃ </span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="h"><sup>9</sup>&nbsp;"Now if a dead-man has died near one suddenly, all-of-a-sudden, so that one makes-tamei the consecrated (hair of one's) head, one is to shave one's head on the day of one's becoming-pure; on the seventh day one is to shave it. <sup>10</sup>&nbsp;Now on the eighth day one is to bring two turtledoves or two young pigeons to the kohen, to the entrance of the Ohel Mo'ed. <sup>11</sup>&nbsp;The kohen is to sacrifice one as a ḥattat/decontamination-offering, and one as an offering-up; he is to effect-atonement for one, in that one became-contaminated by the (dead) person. One is to make one's head holy (again) on that day, <sup>12</sup>&nbsp;and is to reconsecrate to YHVH the days of one's being-consecrated, bringing a lamb in its (first) year as an asham/compensation-offering. The former days are to be (considered) fallen-away, since tamei became one's state-of-consecration."</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="h"><sup>יג</sup>&nbsp;וְזֹ֥את תּוֹרַ֖ת הַנָּזִ֑יר בְּי֗וֹם מְלֹאת֙ יְמֵ֣י נִזְר֔וֹ יָבִ֣יא אֹת֔וֹ אֶל־פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃ <sup>יד</sup>&nbsp;וְהִקְרִ֣יב אֶת־קׇרְבָּנ֣וֹ לַיהֹוָ֡ה כֶּ֩בֶשׂ֩ בֶּן־שְׁנָת֨וֹ תָמִ֤ים אֶחָד֙ לְעֹלָ֔ה וְכַבְשָׂ֨ה אַחַ֧ת בַּת־שְׁנָתָ֛הּ תְּמִימָ֖ה לְחַטָּ֑את וְאַֽיִל־אֶחָ֥ד תָּמִ֖ים לִשְׁלָמִֽים׃ <sup>טו</sup>&nbsp;וְסַ֣ל מַצּ֗וֹת סֹ֤לֶת חַלֹּת֙ בְּלוּלֹ֣ת בַּשֶּׁ֔מֶן וּרְקִיקֵ֥י מַצּ֖וֹת מְשֻׁחִ֣ים בַּשָּׁ֑מֶן וּמִנְחָתָ֖ם וְנִסְכֵּיהֶֽם׃ <sup>טז</sup>&nbsp;וְהִקְרִ֥יב הַכֹּהֵ֖ן לִפְנֵ֣י יְהֹוָ֑ה וְעָשָׂ֥ה אֶת־חַטָּאת֖וֹ וְאֶת־עֹלָתֽוֹ׃ <sup>יז</sup>&nbsp;וְאֶת־הָאַ֜יִל יַעֲשֶׂ֨ה זֶ֤בַח שְׁלָמִים֙ לַֽיהֹוָ֔ה עַ֖ל סַ֣ל הַמַּצּ֑וֹת וְעָשָׂה֙ הַכֹּהֵ֔ן אֶת־מִנְחָת֖וֹ וְאֶת־נִסְכּֽוֹ׃ <sup>יח</sup>&nbsp;וְגִלַּ֣ח הַנָּזִ֗יר פֶּ֛תַח אֹ֥הֶל מוֹעֵ֖ד אֶת־רֹ֣אשׁ נִזְר֑וֹ וְלָקַ֗ח אֶת־שְׂעַר֙ רֹ֣אשׁ נִזְר֔וֹ וְנָתַן֙ עַל־הָאֵ֔שׁ אֲשֶׁר־תַּ֖חַת זֶ֥בַח הַשְּׁלָמִֽים׃ <sup>יט</sup>&nbsp;וְלָקַ֨ח הַכֹּהֵ֜ן אֶת־הַזְּרֹ֣עַ בְּשֵׁלָה֮ מִן־הָאַ֒יִל֒ וְֽחַלַּ֨ת מַצָּ֤ה אַחַת֙ מִן־הַסַּ֔ל וּרְקִ֥יק מַצָּ֖ה אֶחָ֑ד וְנָתַן֙ עַל־כַּפֵּ֣י הַנָּזִ֔יר אַחַ֖ר הִֽתְגַּלְּח֥וֹ אֶת־נִזְרֽוֹ׃ <sup>כ</sup>&nbsp;וְהֵנִיף֩ אוֹתָ֨ם הַכֹּהֵ֥ן ׀ תְּנוּפָה֮ לִפְנֵ֣י יְהֹוָה֒ קֹ֤דֶשׁ הוּא֙ לַכֹּהֵ֔ן עַ֚ל חֲזֵ֣ה הַתְּנוּפָ֔ה וְעַ֖ל שׁ֣וֹק הַתְּרוּמָ֑ה וְאַחַ֛ר יִשְׁתֶּ֥ה הַנָּזִ֖יר יָֽיִן׃ </span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="h"><sup>13</sup>&nbsp;"Now this is the Ritual-instruction for the Nazir: On the day that one's days of being-consecrated are fulfilled, one is to be brought to the entrance of the Ohel Mo'ed; <sup>14</sup>&nbsp;one is to bring-near as one's near-offering to YHVH: a lamb in its (first) year, wholly-sound, one, as an offering-up, and one ewe-lamb in its (first) year, wholly-sound, as a ḥattat-offering, and one ram, wholly-sound, as a shalom-offering; <sup>15</sup>&nbsp;a basket of matzot of flour, round-loaves mixed with oil, wafers of matsot spread with oil, (as well as) their grain-gift and their poured-offerings. <sup>16</sup>&nbsp;The kohen is to come-near before the presence of YHVH, and is to sacrifice his ḥattat-offering and his offering-up, <sup>17</sup>&nbsp;and the ram he is to sacrifice as a slaughter-offering of shalom to YHVH, together with the basket of matsot; then the kohen is to sacrifice his grain-gift and his poured-offering. <sup>18</sup>&nbsp;The Consecrated-One is then to shave, at the entrance of the Ohel Mo'ed, one's consecrated head, and is to take the hair of one's consecrated head and put (it) on the fire that is under the slaughter-offering of shalom. <sup>19</sup>&nbsp;The kohen is to take the shoulder of the ram, boiled, and one loaf of matsah from the basket, and one wafer of matsah, and is to put (them) upon the palms of the Nazir, after one's shaving of one's consecrated (hair). <sup>20</sup>&nbsp;The kohen is to elevate them as an elevation-offering, before the presence of YHVH — it is a holy-offering for the kohen — on top of the breast of the elevation-offering and on top of the thigh of the contribution, and after (that) the Nazir may drink wine."</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="h"><sup>כא</sup>&nbsp;זֹ֣את תּוֹרַ֣ת הַנָּזִיר֮ אֲשֶׁ֣ר יִדֹּר֒ קׇרְבָּנ֤וֹ לַֽיהֹוָה֙ עַל־נִזְר֔וֹ מִלְּבַ֖ד אֲשֶׁר־תַּשִּׂ֣יג יָד֑וֹ כְּפִ֤י נִדְרוֹ֙ אֲשֶׁ֣ר יִדֹּ֔ר כֵּ֣ן יַעֲשֶׂ֔ה עַ֖ל תּוֹרַ֥ת נִזְרֽוֹ׃ </span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="h"><sup>21</sup>&nbsp;"This is the Instruction for the Nazir who vows a near-offering to YHVH in addition to one's (requirement of) consecration, aside from what one's hand can reach: according to the vow that one has vowed, thus is one to perform, in addition to the instructed-requirements of one's consecration."</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="b"><sup>כב</sup>&nbsp;וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃ 
 <sup>כג</sup>&nbsp;דַּבֵּ֤ר אֶֽל־אַהֲרֹן֙ וְאֶל־בָּנָ֣יו לֵאמֹ֔ר 
 כֹּ֥ה תְבָרְכ֖וּ אֶת־בְּנֵ֣י יִשְׂרָאֵ֑ל אָמ֖וֹר לָהֶֽם׃ 
@@ -242,7 +242,7 @@ Parashat Naso <span class="citation">(Numbers 4:21-7:89)</span> in the annual To
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="b"><sup>22</sup>&nbsp;YHVH spoke to Mosheh, saying: 
 <sup>23</sup>&nbsp;"Speak to Aharon and to his sons, saying: 
 'Thus are you to bless the Children of Yisrael; say to them:
@@ -254,177 +254,177 @@ Parashat Naso <span class="citation">(Numbers 4:21-7:89)</span> in the annual To
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="p"><mark>חמישי</mark> ז <sup>א</sup>&nbsp;וַיְהִ֡י בְּיוֹם֩ כַּלּ֨וֹת מֹשֶׁ֜ה לְהָקִ֣ים אֶת־הַמִּשְׁכָּ֗ן וַיִּמְשַׁ֨ח אֹת֜וֹ וַיְקַדֵּ֤שׁ אֹתוֹ֙ וְאֶת־כׇּל־כֵּלָ֔יו וְאֶת־הַמִּזְבֵּ֖חַ וְאֶת־כׇּל־כֵּלָ֑יו וַיִּמְשָׁחֵ֖ם וַיְקַדֵּ֥שׁ אֹתָֽם׃ <sup>ב</sup>&nbsp;וַיַּקְרִ֙יבוּ֙ נְשִׂיאֵ֣י יִשְׂרָאֵ֔ל רָאשֵׁ֖י בֵּ֣ית אֲבֹתָ֑ם</span> <span class="h">הֵ֚ם נְשִׂיאֵ֣י הַמַּטֹּ֔ת הֵ֥ם הָעֹמְדִ֖ים עַל־הַפְּקֻדִֽים׃ <sup>ג</sup>&nbsp;וַיָּבִ֨יאוּ אֶת־קׇרְבָּנָ֜ם לִפְנֵ֣י יְהֹוָ֗ה</span> <span class="p">שֵׁשׁ־עֶגְלֹ֥ת צָב֙ וּשְׁנֵ֣י עָשָׂ֣ר בָּקָ֔ר עֲגָלָ֛ה עַל־שְׁנֵ֥י הַנְּשִׂאִ֖ים וְשׁ֣וֹר לְאֶחָ֑ד וַיַּקְרִ֥יבוּ אוֹתָ֖ם לִפְנֵ֥י הַמִּשְׁכָּֽן׃ </span> <span class="h"><sup>ד</sup>&nbsp;וַיֹּ֥אמֶר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃ <sup>ה</sup>&nbsp;קַ֚ח מֵֽאִתָּ֔ם וְהָי֕וּ לַעֲבֹ֕ד אֶת־עֲבֹדַ֖ת אֹ֣הֶל מוֹעֵ֑ד וְנָתַתָּ֤ה אוֹתָם֙ אֶל־הַלְוִיִּ֔ם אִ֖ישׁ כְּפִ֥י עֲבֹדָתֽוֹ׃ <sup>ו</sup>&nbsp;וַיִּקַּ֣ח מֹשֶׁ֔ה אֶת־הָעֲגָלֹ֖ת וְאֶת־הַבָּקָ֑ר וַיִּתֵּ֥ן אוֹתָ֖ם אֶל־הַלְוִיִּֽם׃ <sup>ז</sup>&nbsp;אֵ֣ת ׀ שְׁתֵּ֣י הָעֲגָל֗וֹת וְאֵת֙ אַרְבַּ֣עַת הַבָּקָ֔ר נָתַ֖ן לִבְנֵ֣י גֵרְשׁ֑וֹן כְּפִ֖י עֲבֹדָתָֽם׃ <sup>ח</sup>&nbsp;וְאֵ֣ת ׀ אַרְבַּ֣ע הָעֲגָלֹ֗ת וְאֵת֙ שְׁמֹנַ֣ת הַבָּקָ֔ר נָתַ֖ן לִבְנֵ֣י מְרָרִ֑י כְּפִי֙ עֲבֹ֣דָתָ֔ם בְּיַד֙ אִֽיתָמָ֔ר בֶּֽן־אַהֲרֹ֖ן הַכֹּהֵֽן׃ <sup>ט</sup>&nbsp;וְלִבְנֵ֥י קְהָ֖ת לֹ֣א נָתָ֑ן כִּֽי־עֲבֹדַ֤ת הַקֹּ֙דֶשׁ֙ עֲלֵהֶ֔ם בַּכָּתֵ֖ף יִשָּֽׂאוּ׃ </span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="p">7 <sup>1</sup>&nbsp;Now it was, at the time that Mosheh finished setting up the Mishkan, he anointed it and hallowed it, with all its implements, and the Mizbe'aḥ, with all its implements, he anointed them and he hallowed them. <sup>2</sup>&nbsp;Then brought-near the exalted-leaders of Yisrael, the heads of their Fathers' House — </span> <span class="h">they are the leaders of the tribes, they are those who stand over the counting — <sup>3</sup>&nbsp;they brought their near-offering before the presence of YHVH:</span> <span class="p">six litter wagons and twelve cattle, a wagon for (every) two leaders and an ox for (each) one and they brought-them-near to the Mishkan.</span> <span class="h"><sup>4</sup>&nbsp;YHVH said to Mosheh, saying: <sup>5</sup>&nbsp;"Take (these) from them, that they may serve for the service-of-transport of the Ohel Mo'ed, and give them to the Levi'im, each-man according to his serving-tasks." <sup>6</sup>&nbsp;Mosheh took the wagons and the cattle and gave them to the Levi'im. <sup>7</sup>&nbsp;Two wagons and four cattle he gave to the Sons of Gershon, according to their serving-orders, <sup>8</sup>&nbsp;four wagons and eight cattle he gave to the Sons of Merari, according to their serving-orders, under the hand of Itamar son of Aharon the kohen, <sup>9</sup>&nbsp;but to the Sons of Qehat he did not give (any), for the service-of-transport of the holy-things is theirs, by shoulder they are to carry (them).</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="h"><sup>י</sup>&nbsp;וַיַּקְרִ֣יבוּ הַנְּשִׂאִ֗ים אֵ֚ת חֲנֻכַּ֣ת הַמִּזְבֵּ֔חַ בְּי֖וֹם הִמָּשַׁ֣ח אֹת֑וֹ וַיַּקְרִ֧יבוּ הַנְּשִׂיאִ֛ם אֶת־קׇרְבָּנָ֖ם לִפְנֵ֥י הַמִּזְבֵּֽחַ׃ <sup>יא</sup>&nbsp;וַיֹּ֥אמֶר יְהֹוָ֖ה אֶל־מֹשֶׁ֑ה נָשִׂ֨יא אֶחָ֜ד לַיּ֗וֹם נָשִׂ֤יא אֶחָד֙ לַיּ֔וֹם יַקְרִ֙יבוּ֙ אֶת־קׇרְבָּנָ֔ם לַחֲנֻכַּ֖ת הַמִּזְבֵּֽחַ׃ </span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="h"><sup>10</sup>&nbsp;The leaders brought-near the initiation-offering of the Mizbe'aḥ, at the time of its being-anointed. Now when the leaders brought-near their near-offering before the Mizbe'aḥ, <sup>11</sup>&nbsp;YHVH said to Mosheh: "One leader per day, one leader per day, let them bring-near their near-offering, for the initiation of the Mizbe'aḥ."</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="h"><sup>יב</sup>&nbsp;וַיְהִ֗י הַמַּקְרִ֛יב בַּיּ֥וֹם הָרִאשׁ֖וֹן אֶת־קׇרְבָּנ֑וֹ נַחְשׁ֥וֹן בֶּן־עַמִּינָדָ֖ב לְמַטֵּ֥ה יְהוּדָֽה׃ <sup>יג</sup>&nbsp;וְקׇרְבָּנ֞וֹ קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת שְׁלֹשִׁ֣ים וּמֵאָה֮ מִשְׁקָלָהּ֒ מִזְרָ֤ק אֶחָד֙ כֶּ֔סֶף שִׁבְעִ֥ים שֶׁ֖קֶל בְּשֶׁ֣קֶל הַקֹּ֑דֶשׁ שְׁנֵיהֶ֣ם ׀ מְלֵאִ֗ים סֹ֛לֶת בְּלוּלָ֥ה בַשֶּׁ֖מֶן לְמִנְחָֽה׃ <sup>יד</sup>&nbsp;כַּ֥ף אַחַ֛ת עֲשָׂרָ֥ה זָהָ֖ב מְלֵאָ֥ה קְטֹֽרֶת׃ <sup>טו</sup>&nbsp;פַּ֣ר אֶחָ֞ד בֶּן־בָּקָ֗ר אַ֧יִל אֶחָ֛ד כֶּֽבֶשׂ־אֶחָ֥ד בֶּן־שְׁנָת֖וֹ לְעֹלָֽה׃ <sup>טז</sup>&nbsp;שְׂעִיר־עִזִּ֥ים אֶחָ֖ד לְחַטָּֽאת׃ <sup>יז</sup>&nbsp;וּלְזֶ֣בַח הַשְּׁלָמִים֮ בָּקָ֣ר שְׁנַ֒יִם֒ אֵילִ֤ם חֲמִשָּׁה֙ עַתּוּדִ֣ים חֲמִשָּׁ֔ה כְּבָשִׂ֥ים בְּנֵֽי־שָׁנָ֖ה חֲמִשָּׁ֑ה זֶ֛ה קׇרְבַּ֥ן נַחְשׁ֖וֹן בֶּן־עַמִּינָדָֽב׃ </span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="h"><sup>12</sup>&nbsp;So he who brought-near his near-offering on the first day was: Naḥshon son of Amminadav, of the tribe of Yehudah. <sup>13</sup>&nbsp;His near-offering: one dish of silver, thirty and a hundred its sheqel-weight, one bowl of silver, seventy sheqels according to the Holy-shrine sheqel, both of them filled with flour mixed with oil, for a grain-gift, <sup>14</sup>&nbsp;one ladle (of) ten (sheqels) of gold, filled with smoking-incense, <sup>15</sup>&nbsp;one bull, a young of the herd, one ram, one lamb in its (first) year, as an offering-up; <sup>16</sup>&nbsp;one hairy goat as a ḥattat-offering; <sup>17</sup>&nbsp;and as a slaughter-offering of shalom: oxen two, rams five, he-goats five, and lambs in the (first) year five. That (was) the near-offering of Naḥshon son of Amminadav.</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="h"><sup>יח</sup>&nbsp;בַּיּוֹם֙ הַשֵּׁנִ֔י הִקְרִ֖יב נְתַנְאֵ֣ל בֶּן־צוּעָ֑ר נְשִׂ֖יא יִשָּׂשכָֽר׃ <sup>יט</sup>&nbsp;הִקְרִ֨ב אֶת־קׇרְבָּנ֜וֹ קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת שְׁלֹשִׁ֣ים וּמֵאָה֮ מִשְׁקָלָהּ֒ מִזְרָ֤ק אֶחָד֙ כֶּ֔סֶף שִׁבְעִ֥ים שֶׁ֖קֶל בְּשֶׁ֣קֶל הַקֹּ֑דֶשׁ שְׁנֵיהֶ֣ם ׀ מְלֵאִ֗ים סֹ֛לֶת בְּלוּלָ֥ה בַשֶּׁ֖מֶן לְמִנְחָֽה׃ <sup>כ</sup>&nbsp;כַּ֥ף אַחַ֛ת עֲשָׂרָ֥ה זָהָ֖ב מְלֵאָ֥ה קְטֹֽרֶת׃ <sup>כא</sup>&nbsp;פַּ֣ר אֶחָ֞ד בֶּן־בָּקָ֗ר אַ֧יִל אֶחָ֛ד כֶּֽבֶשׂ־אֶחָ֥ד בֶּן־שְׁנָת֖וֹ לְעֹלָֽה׃ <sup>כב</sup>&nbsp;שְׂעִיר־עִזִּ֥ים אֶחָ֖ד לְחַטָּֽאת׃ <sup>כג</sup>&nbsp;וּלְזֶ֣בַח הַשְּׁלָמִים֮ בָּקָ֣ר שְׁנַ֒יִם֒ אֵילִ֤ם חֲמִשָּׁה֙ עַתֻּדִ֣ים חֲמִשָּׁ֔ה כְּבָשִׂ֥ים בְּנֵי־שָׁנָ֖ה חֲמִשָּׁ֑ה זֶ֛ה קׇרְבַּ֥ן נְתַנְאֵ֖ל בֶּן־צוּעָֽר׃ </span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="h"><sup>18</sup>&nbsp;On the second day, Netan'el son of Tsu'ar, leader of Yissakhar, brought-(it)-near; <sup>19</sup>&nbsp;he brought-near his near-offering: one dish of silver, thirty and a hundred its sheqel-weight, one bowl of silver, seventy sheqels according to the Holy-shrine sheqel, both of them filled with flour mixed with oil, for a grain-gift, <sup>20</sup>&nbsp;one ladle (of) ten (sheqels) of gold, filled with smoking-incense, <sup>21</sup>&nbsp;one bull, a young of the herd, one ram, one lamb in its (first) year, as an offering-up; <sup>22</sup>&nbsp;one hairy goat as a ḥattat-offering; <sup>23</sup>&nbsp;and as a slaughter-offering of shalom: oxen two, rams five, he-goats five, and lambs in the (first) year five. That (was) the near-offering of Netan'el son of Tsu'ar.</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="h"><sup>כד</sup>&nbsp;בַּיּוֹם֙ הַשְּׁלִישִׁ֔י נָשִׂ֖יא לִבְנֵ֣י זְבוּלֻ֑ן אֱלִיאָ֖ב בֶּן־חֵלֹֽן׃ <sup>כה</sup>&nbsp;קׇרְבָּנ֞וֹ קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת שְׁלֹשִׁ֣ים וּמֵאָה֮ מִשְׁקָלָהּ֒ מִזְרָ֤ק אֶחָד֙ כֶּ֔סֶף שִׁבְעִ֥ים שֶׁ֖קֶל בְּשֶׁ֣קֶל הַקֹּ֑דֶשׁ שְׁנֵיהֶ֣ם ׀ מְלֵאִ֗ים סֹ֛לֶת בְּלוּלָ֥ה בַשֶּׁ֖מֶן לְמִנְחָֽה׃ <sup>כו</sup>&nbsp;כַּ֥ף אַחַ֛ת עֲשָׂרָ֥ה זָהָ֖ב מְלֵאָ֥ה קְטֹֽרֶת׃ <sup>כז</sup>&nbsp;פַּ֣ר אֶחָ֞ד בֶּן־בָּקָ֗ר אַ֧יִל אֶחָ֛ד כֶּֽבֶשׂ־אֶחָ֥ד בֶּן־שְׁנָת֖וֹ לְעֹלָֽה׃ <sup>כח</sup>&nbsp;שְׂעִיר־עִזִּ֥ים אֶחָ֖ד לְחַטָּֽאת׃ <sup>כט</sup>&nbsp;וּלְזֶ֣בַח הַשְּׁלָמִים֮ בָּקָ֣ר שְׁנַ֒יִם֒ אֵילִ֤ם חֲמִשָּׁה֙ עַתֻּדִ֣ים חֲמִשָּׁ֔ה כְּבָשִׂ֥ים בְּנֵי־שָׁנָ֖ה חֲמִשָּׁ֑ה זֶ֛ה קׇרְבַּ֥ן אֱלִיאָ֖ב בֶּן־חֵלֹֽן׃ </span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="h"><sup>24</sup>&nbsp;On the third day, the leader of the Sons of Zevulun, Eliav son of Ḥeilon — <sup>25</sup>&nbsp;his near-offering: one dish of silver, thirty and a hundred its sheqel-weight, one bowl of silver, seventy sheqels according to the Holy-shrine sheqel, both of them filled with flour mixed with oil, for a grain-gift, <sup>26</sup>&nbsp;one ladle (of) ten (sheqels) of gold, filled with smoking-incense, <sup>27</sup>&nbsp;one bull, a young of the herd, one ram, one lamb in its (first) year, as an offering-up; <sup>28</sup>&nbsp;one hairy goat as a ḥattat-offering; <sup>29</sup>&nbsp;and as a slaughter-offering of shalom: oxen two, rams five, he-goats five, and lambs in the (first) year five. That (was) the near-offering of Eliav son of Ḥeilon.</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="h"><sup>ל</sup>&nbsp;בַּיּוֹם֙ הָרְבִיעִ֔י נָשִׂ֖יא לִבְנֵ֣י רְאוּבֵ֑ן אֱלִיצ֖וּר בֶּן־שְׁדֵיאֽוּר׃ <sup>לא</sup>&nbsp;קׇרְבָּנ֞וֹ קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת שְׁלֹשִׁ֣ים וּמֵאָה֮ מִשְׁקָלָהּ֒ מִזְרָ֤ק אֶחָד֙ כֶּ֔סֶף שִׁבְעִ֥ים שֶׁ֖קֶל בְּשֶׁ֣קֶל הַקֹּ֑דֶשׁ שְׁנֵיהֶ֣ם ׀ מְלֵאִ֗ים סֹ֛לֶת בְּלוּלָ֥ה בַשֶּׁ֖מֶן לְמִנְחָֽה׃ <sup>לב</sup>&nbsp;כַּ֥ף אַחַ֛ת עֲשָׂרָ֥ה זָהָ֖ב מְלֵאָ֥ה קְטֹֽרֶת׃ <sup>לג</sup>&nbsp;פַּ֣ר אֶחָ֞ד בֶּן־בָּקָ֗ר אַ֧יִל אֶחָ֛ד כֶּֽבֶשׂ־אֶחָ֥ד בֶּן־שְׁנָת֖וֹ לְעֹלָֽה׃ <sup>לד</sup>&nbsp;שְׂעִיר־עִזִּ֥ים אֶחָ֖ד לְחַטָּֽאת׃ <sup>לה</sup>&nbsp;וּלְזֶ֣בַח הַשְּׁלָמִים֮ בָּקָ֣ר שְׁנַ֒יִם֒ אֵילִ֤ם חֲמִשָּׁה֙ עַתֻּדִ֣ים חֲמִשָּׁ֔ה כְּבָשִׂ֥ים בְּנֵֽי־שָׁנָ֖ה חֲמִשָּׁ֑ה זֶ֛ה קׇרְבַּ֥ן אֱלִיצ֖וּר בֶּן־שְׁדֵיאֽוּר׃ </span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="h"><sup>30</sup>&nbsp;On the fourth day, the leader of the Sons of Re'uven, Elitsur son of Shdei'ur — <sup>31</sup>&nbsp;his near-offering: one dish of silver, thirty and a hundred its sheqel-weight, one bowl of silver, seventy sheqels according to the Holy-shrine sheqel, both of them filled with flour mixed with oil, for a grain-gift, <sup>32</sup>&nbsp;one ladle (of) ten (sheqels) of gold, filled with smoking-incense, <sup>33</sup>&nbsp;one bull, a young of the herd, one ram, one lamb in its (first) year, as an offering-up; <sup>34</sup>&nbsp;one hairy goat as a ḥattat-offering; <sup>35</sup>&nbsp;and as a slaughter-offering of shalom: oxen two, rams five, he-goats five, and lambs in the (first) year five. That (was) the near-offering of Elitsur son of Shdei'ur.</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="h"><sup>לו</sup>&nbsp;בַּיּוֹם֙ הַחֲמִישִׁ֔י נָשִׂ֖יא לִבְנֵ֣י שִׁמְע֑וֹן שְׁלֻֽמִיאֵ֖ל בֶּן־צוּרִֽישַׁדָּֽי׃ <sup>לז</sup>&nbsp;קׇרְבָּנ֞וֹ קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת שְׁלֹשִׁ֣ים וּמֵאָה֮ מִשְׁקָלָהּ֒ מִזְרָ֤ק אֶחָד֙ כֶּ֔סֶף שִׁבְעִ֥ים שֶׁ֖קֶל בְּשֶׁ֣קֶל הַקֹּ֑דֶשׁ שְׁנֵיהֶ֣ם ׀ מְלֵאִ֗ים סֹ֛לֶת בְּלוּלָ֥ה בַשֶּׁ֖מֶן לְמִנְחָֽה׃ <sup>לח</sup>&nbsp;כַּ֥ף אַחַ֛ת עֲשָׂרָ֥ה זָהָ֖ב מְלֵאָ֥ה קְטֹֽרֶת׃ <sup>לט</sup>&nbsp;פַּ֣ר אֶחָ֞ד בֶּן־בָּקָ֗ר אַ֧יִל אֶחָ֛ד כֶּֽבֶשׂ־אֶחָ֥ד בֶּן־שְׁנָת֖וֹ לְעֹלָֽה׃ <sup>מ</sup>&nbsp;שְׂעִיר־עִזִּ֥ים אֶחָ֖ד לְחַטָּֽאת׃ <sup>מא</sup>&nbsp;וּלְזֶ֣בַח הַשְּׁלָמִים֮ בָּקָ֣ר שְׁנַ֒יִם֒ אֵילִ֤ם חֲמִשָּׁה֙ עַתֻּדִ֣ים חֲמִשָּׁ֔ה כְּבָשִׂ֥ים בְּנֵי־שָׁנָ֖ה חֲמִשָּׁ֑ה זֶ֛ה קׇרְבַּ֥ן שְׁלֻמִיאֵ֖ל בֶּן־צוּרִֽישַׁדָּֽי׃ </span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="h"><sup>36</sup>&nbsp;On the fifth day, the leader of the Sons of Shim'on, Shlumi'el son of Tsurishaddai — <sup>37</sup>&nbsp;his near-offering: one dish of silver, thirty and a hundred its sheqel-weight, one bowl of silver, seventy sheqels according to the Holy-shrine sheqel, both of them filled with flour mixed with oil, for a grain-gift, <sup>38</sup>&nbsp;one ladle (of) ten (sheqels) of gold, filled with smoking-incense, <sup>39</sup>&nbsp;one bull, a young of the herd, one ram, one lamb in its (first) year, as an offering-up; <sup>40</sup>&nbsp;one hairy goat as a ḥattat-offering; <sup>41</sup>&nbsp;and as a slaughter-offering of shalom: oxen two, rams five, he-goats five, and lambs in the (first) year five. That (was) the near-offering of Shlumi'el son of Tsurishaddai.</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="h"><mark>ששי</mark> <sup>מב</sup>&nbsp;בַּיּוֹם֙ הַשִּׁשִּׁ֔י נָשִׂ֖יא לִבְנֵ֣י גָ֑ד אֶלְיָסָ֖ף בֶּן־דְּעוּאֵֽל׃ <sup>מג</sup>&nbsp;קׇרְבָּנ֞וֹ קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת שְׁלֹשִׁ֣ים וּמֵאָה֮ מִשְׁקָלָהּ֒ מִזְרָ֤ק אֶחָד֙ כֶּ֔סֶף שִׁבְעִ֥ים שֶׁ֖קֶל בְּשֶׁ֣קֶל הַקֹּ֑דֶשׁ שְׁנֵיהֶ֣ם ׀ מְלֵאִ֗ים סֹ֛לֶת בְּלוּלָ֥ה בַשֶּׁ֖מֶן לְמִנְחָֽה׃ <sup>מד</sup>&nbsp;כַּ֥ף אַחַ֛ת עֲשָׂרָ֥ה זָהָ֖ב מְלֵאָ֥ה קְטֹֽרֶת׃ <sup>מה</sup>&nbsp;פַּ֣ר אֶחָ֞ד בֶּן־בָּקָ֗ר אַ֧יִל אֶחָ֛ד כֶּֽבֶשׂ־אֶחָ֥ד בֶּן־שְׁנָת֖וֹ לְעֹלָֽה׃ <sup>מו</sup>&nbsp;שְׂעִיר־עִזִּ֥ים אֶחָ֖ד לְחַטָּֽאת׃ <sup>מז</sup>&nbsp;וּלְזֶ֣בַח הַשְּׁלָמִים֮ בָּקָ֣ר שְׁנַ֒יִם֒ אֵילִ֤ם חֲמִשָּׁה֙ עַתֻּדִ֣ים חֲמִשָּׁ֔ה כְּבָשִׂ֥ים בְּנֵי־שָׁנָ֖ה חֲמִשָּׁ֑ה זֶ֛ה קׇרְבַּ֥ן אֶלְיָסָ֖ף בֶּן־דְּעוּאֵֽל׃ </span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="h"><sup>42</sup>&nbsp;On the sixth day, the leader of the Sons of Gad, Elyasaf son of De'uel — <sup>43</sup>&nbsp;his near-offering: one dish of silver, thirty and a hundred its sheqel-weight, one bowl of silver, seventy sheqels according to the Holy-shrine sheqel, both of them filled with flour mixed with oil, for a grain-gift, <sup>44</sup>&nbsp;one ladle (of) ten (sheqels) of gold, filled with smoking-incense, <sup>45</sup>&nbsp;one bull, a young of the herd, one ram, one lamb in its (first) year, as an offering-up; <sup>46</sup>&nbsp;one hairy goat as a ḥattat-offering; <sup>47</sup>&nbsp;and as a slaughter-offering of shalom: oxen two, rams five, he-goats five, and lambs in the (first) year five. That (was) the near-offering of Elyasaf son of De'uel.</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="h"><sup>מח</sup>&nbsp;בַּיּוֹם֙ הַשְּׁבִיעִ֔י נָשִׂ֖יא לִבְנֵ֣י אֶפְרָ֑יִם אֱלִֽישָׁמָ֖ע בֶּן־עַמִּיהֽוּד׃ <sup>מט</sup>&nbsp;קׇרְבָּנ֞וֹ קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת שְׁלֹשִׁ֣ים וּמֵאָה֮ מִשְׁקָלָהּ֒ מִזְרָ֤ק אֶחָד֙ כֶּ֔סֶף שִׁבְעִ֥ים שֶׁ֖קֶל בְּשֶׁ֣קֶל הַקֹּ֑דֶשׁ שְׁנֵיהֶ֣ם ׀ מְלֵאִ֗ים סֹ֛לֶת בְּלוּלָ֥ה בַשֶּׁ֖מֶן לְמִנְחָֽה׃ <sup>נ</sup>&nbsp;כַּ֥ף אַחַ֛ת עֲשָׂרָ֥ה זָהָ֖ב מְלֵאָ֥ה קְטֹֽרֶת׃ <sup>נא</sup>&nbsp;פַּ֣ר אֶחָ֞ד בֶּן־בָּקָ֗ר אַ֧יִל אֶחָ֛ד כֶּֽבֶשׂ־אֶחָ֥ד בֶּן־שְׁנָת֖וֹ לְעֹלָֽה׃ <sup>נב</sup>&nbsp;שְׂעִיר־עִזִּ֥ים אֶחָ֖ד לְחַטָּֽאת׃ <sup>נג</sup>&nbsp;וּלְזֶ֣בַח הַשְּׁלָמִים֮ בָּקָ֣ר שְׁנַ֒יִם֒ אֵילִ֤ם חֲמִשָּׁה֙ עַתֻּדִ֣ים חֲמִשָּׁ֔ה כְּבָשִׂ֥ים בְּנֵֽי־שָׁנָ֖ה חֲמִשָּׁ֑ה זֶ֛ה קׇרְבַּ֥ן אֱלִישָׁמָ֖ע בֶּן־עַמִּיהֽוּד׃ </span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="h"><sup>48</sup>&nbsp;On the seventh day, the leader of the Sons of Efrayim, Elishama son of Ammihud — <sup>49</sup>&nbsp;his near-offering: one dish of silver, thirty and a hundred its sheqel-weight, one bowl of silver, seventy sheqels according to the Holy-shrine sheqel, both of them filled with flour mixed with oil, for a grain-gift, <sup>50</sup>&nbsp;one ladle (of) ten (sheqels) of gold, filled with smoking-incense, <sup>51</sup>&nbsp;one bull, a young of the herd, one ram, one lamb in its (first) year, as an offering-up; <sup>52</sup>&nbsp;one hairy goat as a ḥattat-offering; <sup>53</sup>&nbsp;and as a slaughter-offering of shalom: oxen two, rams five, he-goats five, and lambs in the (first) year five. That (was) the near-offering of Elishama son of Ammihud.</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="h"><sup>נד</sup>&nbsp;בַּיּוֹם֙ הַשְּׁמִינִ֔י נָשִׂ֖יא לִבְנֵ֣י מְנַשֶּׁ֑ה גַּמְלִיאֵ֖ל בֶּן־פְּדָהצֽוּר׃ <sup>נה</sup>&nbsp;קׇרְבָּנ֞וֹ קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת שְׁלֹשִׁ֣ים וּמֵאָה֮ מִשְׁקָלָהּ֒ מִזְרָ֤ק אֶחָד֙ כֶּ֔סֶף שִׁבְעִ֥ים שֶׁ֖קֶל בְּשֶׁ֣קֶל הַקֹּ֑דֶשׁ שְׁנֵיהֶ֣ם ׀ מְלֵאִ֗ים סֹ֛לֶת בְּלוּלָ֥ה בַשֶּׁ֖מֶן לְמִנְחָֽה׃ <sup>נו</sup>&nbsp;כַּ֥ף אַחַ֛ת עֲשָׂרָ֥ה זָהָ֖ב מְלֵאָ֥ה קְטֹֽרֶת׃ <sup>נז</sup>&nbsp;פַּ֣ר אֶחָ֞ד בֶּן־בָּקָ֗ר אַ֧יִל אֶחָ֛ד כֶּֽבֶשׂ־אֶחָ֥ד בֶּן־שְׁנָת֖וֹ לְעֹלָֽה׃ <sup>נח</sup>&nbsp;שְׂעִיר־עִזִּ֥ים אֶחָ֖ד לְחַטָּֽאת׃ <sup>נט</sup>&nbsp;וּלְזֶ֣בַח הַשְּׁלָמִים֮ בָּקָ֣ר שְׁנַ֒יִם֒ אֵילִ֤ם חֲמִשָּׁה֙ עַתֻּדִ֣ים חֲמִשָּׁ֔ה כְּבָשִׂ֥ים בְּנֵי־שָׁנָ֖ה חֲמִשָּׁ֑ה זֶ֛ה קׇרְבַּ֥ן גַּמְלִיאֵ֖ל בֶּן־פְּדָהצֽוּר׃ </span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="h"><sup>54</sup>&nbsp;On the eighth day, the leader of the Sons of Menasheh, Gamliel son of Pedahtsur — <sup>55</sup>&nbsp;his near-offering: one dish of silver, thirty and a hundred its sheqel-weight, one bowl of silver, seventy sheqels according to the Holy-shrine sheqel, both of them filled with flour mixed with oil, for a grain-gift, <sup>56</sup>&nbsp;one ladle (of) ten (sheqels) of gold, filled with smoking-incense, <sup>57</sup>&nbsp;one bull, a young of the herd, one ram, one lamb in its (first) year, as an offering-up; <sup>58</sup>&nbsp;one hairy goat as a ḥattat-offering; <sup>59</sup>&nbsp;and as a slaughter-offering of shalom: oxen two, rams five, he-goats five, and lambs in the (first) year five. That (was) the near-offering of Gamliel son of Pedahtsur.</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="h"><sup>ס</sup>&nbsp;בַּיּוֹם֙ הַתְּשִׁיעִ֔י נָשִׂ֖יא לִבְנֵ֣י בִנְיָמִ֑ן אֲבִידָ֖ן בֶּן־גִּדְעֹנִֽי׃ <sup>סא</sup>&nbsp;קׇרְבָּנ֞וֹ קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת שְׁלֹשִׁ֣ים וּמֵאָה֮ מִשְׁקָלָהּ֒ מִזְרָ֤ק אֶחָד֙ כֶּ֔סֶף שִׁבְעִ֥ים שֶׁ֖קֶל בְּשֶׁ֣קֶל הַקֹּ֑דֶשׁ שְׁנֵיהֶ֣ם ׀ מְלֵאִ֗ים סֹ֛לֶת בְּלוּלָ֥ה בַשֶּׁ֖מֶן לְמִנְחָֽה׃ <sup>סב</sup>&nbsp;כַּ֥ף אַחַ֛ת עֲשָׂרָ֥ה זָהָ֖ב מְלֵאָ֥ה קְטֹֽרֶת׃ <sup>סג</sup>&nbsp;פַּ֣ר אֶחָ֞ד בֶּן־בָּקָ֗ר אַ֧יִל אֶחָ֛ד כֶּֽבֶשׂ־אֶחָ֥ד בֶּן־שְׁנָת֖וֹ לְעֹלָֽה׃ <sup>סד</sup>&nbsp;שְׂעִיר־עִזִּ֥ים אֶחָ֖ד לְחַטָּֽאת׃ <sup>סה</sup>&nbsp;וּלְזֶ֣בַח הַשְּׁלָמִים֮ בָּקָ֣ר שְׁנַ֒יִם֒ אֵילִ֤ם חֲמִשָּׁה֙ עַתֻּדִ֣ים חֲמִשָּׁ֔ה כְּבָשִׂ֥ים בְּנֵי־שָׁנָ֖ה חֲמִשָּׁ֑ה זֶ֛ה קׇרְבַּ֥ן אֲבִידָ֖ן בֶּן־גִּדְעֹנִֽי׃ </span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="h"><sup>60</sup>&nbsp;On the ninth day, the leader of the Sons of Binyamin, Avidan son of Gid'oni — <sup>61</sup>&nbsp;his near-offering: one dish of silver, thirty and a hundred its sheqel-weight, one bowl of silver, seventy sheqels according to the Holy-shrine sheqel, both of them filled with flour mixed with oil, for a grain-gift, <sup>62</sup>&nbsp;one ladle (of) ten (sheqels) of gold, filled with smoking-incense, <sup>63</sup>&nbsp;one bull, a young of the herd, one ram, one lamb in its (first) year, as an offering-up; <sup>64</sup>&nbsp;one hairy goat as a ḥattat-offering; <sup>65</sup>&nbsp;and as a slaughter-offering of shalom: oxen two, rams five, he-goats five, and lambs in the (first) year five. That (was) the near-offering of Avidan son of Gid'oni.</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="h"><sup>סו</sup>&nbsp;בַּיּוֹם֙ הָעֲשִׂירִ֔י נָשִׂ֖יא לִבְנֵ֣י דָ֑ן אֲחִיעֶ֖זֶר בֶּן־עַמִּישַׁדָּֽי׃ <sup>סז</sup>&nbsp;קׇרְבָּנ֞וֹ קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת שְׁלֹשִׁ֣ים וּמֵאָה֮ מִשְׁקָלָהּ֒ מִזְרָ֤ק אֶחָד֙ כֶּ֔סֶף שִׁבְעִ֥ים שֶׁ֖קֶל בְּשֶׁ֣קֶל הַקֹּ֑דֶשׁ שְׁנֵיהֶ֣ם ׀ מְלֵאִ֗ים סֹ֛לֶת בְּלוּלָ֥ה בַשֶּׁ֖מֶן לְמִנְחָֽה׃ <sup>סח</sup>&nbsp;כַּ֥ף אַחַ֛ת עֲשָׂרָ֥ה זָהָ֖ב מְלֵאָ֥ה קְטֹֽרֶת׃ <sup>סט</sup>&nbsp;פַּ֣ר אֶחָ֞ד בֶּן־בָּקָ֗ר אַ֧יִל אֶחָ֛ד כֶּֽבֶשׂ־אֶחָ֥ד בֶּן־שְׁנָת֖וֹ לְעֹלָֽה׃ <sup>ע</sup>&nbsp;שְׂעִיר־עִזִּ֥ים אֶחָ֖ד לְחַטָּֽאת׃ <sup>עא</sup>&nbsp;וּלְזֶ֣בַח הַשְּׁלָמִים֮ בָּקָ֣ר שְׁנַ֒יִם֒ אֵילִ֤ם חֲמִשָּׁה֙ עַתֻּדִ֣ים חֲמִשָּׁ֔ה כְּבָשִׂ֥ים בְּנֵֽי־שָׁנָ֖ה חֲמִשָּׁ֑ה זֶ֛ה קׇרְבַּ֥ן אֲחִיעֶ֖זֶר בֶּן־עַמִּישַׁדָּֽי׃ </span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="h"><sup>66</sup>&nbsp;On the tenth day, the leader of the Sons of Dan, Aḥi'ezer son of Ammishaddai — <sup>67</sup>&nbsp;his near-offering: one dish of silver, thirty and a hundred its sheqel-weight, one bowl of silver, seventy sheqels according to the Holy-shrine sheqel, both of them filled with flour mixed with oil, for a grain-gift, <sup>68</sup>&nbsp;one ladle (of) ten (sheqels) of gold, filled with smoking-incense, <sup>69</sup>&nbsp;one bull, a young of the herd, one ram, one lamb in its (first) year, as an offering-up; <sup>70</sup>&nbsp;one hairy goat as a ḥattat-offering; <sup>71</sup>&nbsp;and as a slaughter-offering of shalom: oxen two, rams five, he-goats five, and lambs in the (first) year five. That (was) the near-offering of Aḥi'ezer son of Ammishaddai.</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="h"><mark>שביעי</mark> <sup>עב</sup>&nbsp;בְּיוֹם֙ עַשְׁתֵּ֣י עָשָׂ֣ר י֔וֹם נָשִׂ֖יא לִבְנֵ֣י אָשֵׁ֑ר פַּגְעִיאֵ֖ל בֶּן־עׇכְרָֽן׃ <sup>עג</sup>&nbsp;קׇרְבָּנ֞וֹ קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת שְׁלֹשִׁ֣ים וּמֵאָה֮ מִשְׁקָלָהּ֒ מִזְרָ֤ק אֶחָד֙ כֶּ֔סֶף שִׁבְעִ֥ים שֶׁ֖קֶל בְּשֶׁ֣קֶל הַקֹּ֑דֶשׁ שְׁנֵיהֶ֣ם ׀ מְלֵאִ֗ים סֹ֛לֶת בְּלוּלָ֥ה בַשֶּׁ֖מֶן לְמִנְחָֽה׃ <sup>עד</sup>&nbsp;כַּ֥ף אַחַ֛ת עֲשָׂרָ֥ה זָהָ֖ב מְלֵאָ֥ה קְטֹֽרֶת׃ <sup>עה</sup>&nbsp;פַּ֣ר אֶחָ֞ד בֶּן־בָּקָ֗ר אַ֧יִל אֶחָ֛ד כֶּֽבֶשׂ־אֶחָ֥ד בֶּן־שְׁנָת֖וֹ לְעֹלָֽה׃ <sup>עו</sup>&nbsp;שְׂעִיר־עִזִּ֥ים אֶחָ֖ד לְחַטָּֽאת׃ <sup>עז</sup>&nbsp;וּלְזֶ֣בַח הַשְּׁלָמִים֮ בָּקָ֣ר שְׁנַ֒יִם֒ אֵילִ֤ם חֲמִשָּׁה֙ עַתֻּדִ֣ים חֲמִשָּׁ֔ה כְּבָשִׂ֥ים בְּנֵֽי־שָׁנָ֖ה חֲמִשָּׁ֑ה זֶ֛ה קׇרְבַּ֥ן פַּגְעִיאֵ֖ל בֶּן־עׇכְרָֽן׃ </span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="h"><sup>72</sup>&nbsp;On the day of the eleventh day, the leader of the Sons of Asher, Pag'iel son of Okhran — <sup>73</sup>&nbsp;his near-offering: one dish of silver, thirty and a hundred its sheqel-weight, one bowl of silver, seventy sheqels according to the Holy-shrine sheqel, both of them filled with flour mixed with oil, for a grain-gift, <sup>74</sup>&nbsp;one ladle (of) ten (sheqels) of gold, filled with smoking-incense, <sup>75</sup>&nbsp;one bull, a young of the herd, one ram, one lamb in its (first) year, as an offering-up; <sup>76</sup>&nbsp;one hairy goat as a ḥattat-offering; <sup>77</sup>&nbsp;and as a slaughter-offering of shalom: oxen two, rams five, he-goats five, and lambs in the (first) year five. That (was) the near-offering of Pag'iel son of Okhran.</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="h"><sup>עח</sup>&nbsp;בְּיוֹם֙ שְׁנֵ֣ים עָשָׂ֣ר י֔וֹם נָשִׂ֖יא לִבְנֵ֣י נַפְתָּלִ֑י אֲחִירַ֖ע בֶּן־עֵינָֽן׃ <sup>עט</sup>&nbsp;קׇרְבָּנ֞וֹ קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת שְׁלֹשִׁ֣ים וּמֵאָה֮ מִשְׁקָלָהּ֒ מִזְרָ֤ק אֶחָד֙ כֶּ֔סֶף שִׁבְעִ֥ים שֶׁ֖קֶל בְּשֶׁ֣קֶל הַקֹּ֑דֶשׁ שְׁנֵיהֶ֣ם ׀ מְלֵאִ֗ים סֹ֛לֶת בְּלוּלָ֥ה בַשֶּׁ֖מֶן לְמִנְחָֽה׃ <sup>פ</sup>&nbsp;כַּ֥ף אַחַ֛ת עֲשָׂרָ֥ה זָהָ֖ב מְלֵאָ֥ה קְטֹֽרֶת׃ <sup>פא</sup>&nbsp;פַּ֣ר אֶחָ֞ד בֶּן־בָּקָ֗ר אַ֧יִל אֶחָ֛ד כֶּֽבֶשׂ־אֶחָ֥ד בֶּן־שְׁנָת֖וֹ לְעֹלָֽה׃ <sup>פב</sup>&nbsp;שְׂעִיר־עִזִּ֥ים אֶחָ֖ד לְחַטָּֽאת׃ <sup>פג</sup>&nbsp;וּלְזֶ֣בַח הַשְּׁלָמִים֮ בָּקָ֣ר שְׁנַ֒יִם֒ אֵילִ֤ם חֲמִשָּׁה֙ עַתֻּדִ֣ים חֲמִשָּׁ֔ה כְּבָשִׂ֥ים בְּנֵֽי־שָׁנָ֖ה חֲמִשָּׁ֑ה זֶ֛ה קׇרְבַּ֥ן אֲחִירַ֖ע בֶּן־עֵינָֽן׃ </span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="h"><sup>78</sup>&nbsp;On the day of the twelfth day, the leader of the Sons of Naftali, Aḥira' son of Einan — <sup>79</sup>&nbsp;his near-offering: one dish of silver, thirty and a hundred its sheqel-weight, one bowl of silver, seventy sheqels according to the Holy-shrine sheqel, both of them filled with flour mixed with oil, for a grain-gift, <sup>80</sup>&nbsp;one ladle (of) ten (sheqels) of gold, filled with smoking-incense, <sup>81</sup>&nbsp;one bull, a young of the herd, one ram, one lamb in its (first) year, as an offering-up; <sup>82</sup>&nbsp;one hairy goat as a ḥattat-offering; <sup>83</sup>&nbsp;and as a slaughter-offering of shalom: oxen two, rams five, he-goats five, and lambs in the (first) year five. That (was) the near-offering of Aḥira' son of Einan.</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="h"><sup>פד</sup>&nbsp;זֹ֣את ׀ חֲנֻכַּ֣ת הַמִּזְבֵּ֗חַ בְּיוֹם֙ הִמָּשַׁ֣ח אֹת֔וֹ מֵאֵ֖ת נְשִׂיאֵ֣י יִשְׂרָאֵ֑ל קַעֲרֹ֨ת כֶּ֜סֶף שְׁתֵּ֣ים עֶשְׂרֵ֗ה מִֽזְרְקֵי־כֶ֙סֶף֙ שְׁנֵ֣ים עָשָׂ֔ר כַּפּ֥וֹת זָהָ֖ב שְׁתֵּ֥ים עֶשְׂרֵֽה׃ <sup>פה</sup>&nbsp;שְׁלֹשִׁ֣ים וּמֵאָ֗ה הַקְּעָרָ֤ה הָֽאַחַת֙ כֶּ֔סֶף וְשִׁבְעִ֖ים הַמִּזְרָ֣ק הָאֶחָ֑ד כֹּ֚ל כֶּ֣סֶף הַכֵּלִ֔ים אַלְפַּ֥יִם וְאַרְבַּע־מֵא֖וֹת בְּשֶׁ֥קֶל הַקֹּֽדֶשׁ׃ <sup>פו</sup>&nbsp;כַּפּ֨וֹת זָהָ֤ב שְׁתֵּים־עֶשְׂרֵה֙ מְלֵאֹ֣ת קְטֹ֔רֶת עֲשָׂרָ֧ה עֲשָׂרָ֛ה הַכַּ֖ף בְּשֶׁ֣קֶל הַקֹּ֑דֶשׁ כׇּל־זְהַ֥ב הַכַּפּ֖וֹת עֶשְׂרִ֥ים וּמֵאָֽה׃ <mark>מפטיר</mark> <sup>פז</sup>&nbsp;כׇּל־הַבָּקָ֨ר לָעֹלָ֜ה שְׁנֵ֧ים עָשָׂ֣ר פָּרִ֗ים אֵילִ֤ם שְׁנֵים־עָשָׂר֙ כְּבָשִׂ֧ים בְּנֵֽי־שָׁנָ֛ה שְׁנֵ֥ים עָשָׂ֖ר וּמִנְחָתָ֑ם וּשְׂעִירֵ֥י עִזִּ֛ים שְׁנֵ֥ים עָשָׂ֖ר לְחַטָּֽאת׃ <sup>פח</sup>&nbsp;וְכֹ֞ל בְּקַ֣ר ׀ זֶ֣בַח הַשְּׁלָמִ֗ים עֶשְׂרִ֣ים וְאַרְבָּעָה֮ פָּרִים֒ אֵילִ֤ם שִׁשִּׁים֙ עַתֻּדִ֣ים שִׁשִּׁ֔ים כְּבָשִׂ֥ים בְּנֵי־שָׁנָ֖ה שִׁשִּׁ֑ים זֹ֚את חֲנֻכַּ֣ת הַמִּזְבֵּ֔חַ אַחֲרֵ֖י הִמָּשַׁ֥ח אֹתֽוֹ׃ </span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="h"><sup>84</sup>&nbsp;This (was) the initiation-offering for the Mizbe'aḥ, at the time of its being-anointed, from the leaders of Yisrael: dishes of silver twelve, bowls of silver twelve, ladles of gold twelve; <sup>85</sup>&nbsp;thirty and a hundred (weight) per one dish, of silver, seventy per one bowl; all the silver of the implements: two thousand, four hundred, by the Holy-shrine sheqel. <sup>86</sup>&nbsp;Twelve ladles of gold filled with incense: ten, ten (weight) per ladle, by the Holy-shrine sheqel; all the gold of the ladles: twenty and a hundred. <sup>87</sup>&nbsp;All the oxen for the offering-up: twelve bulls, rams twelve, lambs in the (first) year twelve, with their grain-gift; hairy goats twelve, for the ḥattat-offering. <sup>88</sup>&nbsp;And all the oxen for the slaughter-offerings of shalom: four and twenty bulls, rams sixty, he-goats sixty, lambs in the (first) year sixty. This (was) the initiation-offering of the Mizbe'aḥ, after they had anointed it.</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="h"><sup>פט</sup>&nbsp;וּבְבֹ֨א מֹשֶׁ֜ה אֶל־אֹ֣הֶל מוֹעֵד֮ לְדַבֵּ֣ר אִתּוֹ֒ וַיִּשְׁמַ֨ע אֶת־הַקּ֜וֹל מִדַּבֵּ֣ר אֵלָ֗יו מֵעַ֤ל הַכַּפֹּ֙רֶת֙ אֲשֶׁר֙ עַל־אֲרֹ֣ן הָעֵדֻ֔ת מִבֵּ֖ין שְׁנֵ֣י הַכְּרֻבִ֑ים וַיְדַבֵּ֖ר אֵלָֽיו׃</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="h"><sup>89</sup>&nbsp;Now when Mosheh would come in the Ohel Mo'ed to speak with him, he would hear the voice continually-speaking to him from above the Kaporet that is atop the Aron haÉdut, from between the two winged-sphinxes; and he would he speak to him.</span>
 </div></td></tr>
 </tbody></table>

@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" style="font-size: 1.2em;">
+<div class="english" lang="en" style="font-size: 1.2em;">
 The Hymn of Glory which in our Prayer-Books is restricted to the Sabbath, is sometimes sung also on the eve of the Day of Atonement. The hymn itself is a good deal older, belonging to the [12th] century [at the latest]. Its author is unknown. To bring to fruition whatever is noble in human endeavor, to vindicate whatever is highest in Israelitic aspiration, to discover the innermost truths indicated in the holy books—this seemed to be the aim of a soul in which the poetical, the moral, and the divine were blended together.
 
 The Hymn of Glory is written in lines each of which is divided into two parts, with eight syllables in each part. It well deserves its title, for it is a noble eulogy of the glory of God. Its images are possibly too direct for modern taste, as they sometimes reach the verge of anthropomorphic licence. But the mystics—to whom the author, whoever he be, belonged—were always bold similists, and the hymn must be read in something of this mystic spirit. As to its poetical beauty and emotional power there can be no doubt. --Israel Wolf Slotki
@@ -19,70 +19,70 @@ The Hymn of Glory is written in lines each of which is divided into two parts, w
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">The Ark is opened.</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אַנְעִים זְמִירוֹת וְשִׁירִים אֶאֱרוֹג, 
 כִּי אֵלֶֽיךָ נַפְשִׁי תַעֲרוֹג.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 I will chant hymns and weave songs, 
 for my soul pants after thee. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 נַפְשִׁי חָמְדָה בְּצֵל יָדֶֽךָ, 
 לָדַֽעַת כָּל רָז סוֹדֶֽךָ.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 My soul longs to be in the shadow of thy hand, 
 to gain the knowledge of every secret of thy mysteries. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִדֵּי דַבְּרִי בִּכְבוֹדֶֽךָ, 
 הוֹמֶה לִבִּי אֶל דּוֹדֶֽיךָ.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 As often as I speak of thy glory, 
 my heart yearns for thy affections.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 עַל כֵּן אֲדַבֵּר בְּךָ נִכְבָּדוֹת, 
 וְשִׁמְךָ אֲכַבֵּד בְּשִׁירֵי יְדִידוֹת.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 I, therefore, speak glorious things of thee, 
 and honour thy name with the loveliest songs. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">אֲ</span>סַפְּרָה כְבוֹדְךָ 
 וְלֹא רְאִיתִֽיךָ, 
 אֲדַמְּךָ אֲכַנְּךָ 
@@ -90,7 +90,7 @@ and honour thy name with the loveliest songs.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Of thy glory I tell, <span class="acrostic"> </span>
 though I have not seen thee; 
 I image forth and describe thee, 
@@ -99,7 +99,7 @@ though I have not known thee.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">בְּ</span>יַד נְבִיאֶֽיךָ 
 בְּסוֹד עֲבָדֶֽיךָ, 
 דִּמִּֽיתָ הֲדַר 
@@ -107,7 +107,7 @@ though I have not known thee.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 By the hand of thy prophets, <span class="acrostic"> </span>
 in the council of thy servants, 
 thou hast imaged forth the splendour 
@@ -116,20 +116,20 @@ of thy glorious majesty.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">גְּ</span>דֻלָּתְךָ וּגְבוּרָתֶֽךָ. 
 כִּנּוּ לְתֹֽקֶף פְּעֻלָּתֶֽךָ.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Thy greatness and thy might they described, <span class="acrostic"> </span>
 in accordance with the power of thy work.  
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">דִּ</span>מּוּ אוֹתְךָ 
 וְלֹא כְפִי יֶשְׁךָ, 
 וַיְשַׁוּֽוּךָ 
@@ -137,7 +137,7 @@ in accordance with the power of thy work.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 In images they spoke of thee,  <span class="acrostic"> </span>
 but not in accordance with thy essence; 
 they likened thee only 
@@ -146,14 +146,14 @@ in accordance with thy acts.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">הִ</span>מְשִׁילֽוּךָ 
 בְּרוֹב חֶזְיוֹנוֹת, 
 הִנְּךָ אֶחָד בְּכָל דִּמְיוֹנוֹת.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 They figured thee in metaphors, <span class="acrostic"> </span>
 in a multitude of visions; 
 but under all images thou art one. 
@@ -161,14 +161,14 @@ but under all images thou art one.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">וַ</span>יֶּחֱזוּ בְךָ זִקְנָה וּבַחֲרוּת, 
 וּשְׂעַר רֹאשְׁךָ 
 בְּשֵׂיבָה וְשַׁחֲרוּת.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 In thee they saw old age and youth;  <span class="acrostic"> </span>
 and in the hair of thy head 
 the greyness of age and the dawn of youth. 
@@ -176,14 +176,14 @@ the greyness of age and the dawn of youth.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">זִ</span>קְנָה בְּיוֹם דִּין 
 וּבַחֲרוּת בְּיוֹם קְרָב, 
 כְּאִישׁ מִלְחָמוֹת יָדָיו לוֹ רָב.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Ripe age in the day of judgement, <span class="acrostic"> </span>
 and youth in the day of battle; 
 as a man of wars his hands contend for him.
@@ -191,14 +191,14 @@ as a man of wars his hands contend for him.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">חָ</span>בַשׁ כּֽוֹבַע יְשׁוּעָה בְּרֹאשוֹ, 
 הוֹשִֽׁיעָה לּוֹ יְמִינוֹ 
 וּזְרֽוֹעַ קָדְשׁוֹ.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 He has bound a helmet of salvation upon his head; <span class="acrostic"> </span>
 his right hand and holy arm 
 have brought him triumph.
@@ -206,14 +206,14 @@ have brought him triumph.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">טַ</span>לְלֵי אוֹרוֹת רֹאשוֹ נִמְלָא, 
 קְוֻצּוֹתָיו 
 רְסִֽיסֵי לָֽיְלָה.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 His head is filled with dew of light; <span class="acrostic"> </span>
 his locks are decked 
 with drops of the night.
@@ -221,14 +221,14 @@ with drops of the night.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">יִ</span>תְפָּאֵר בִּי 
 כִּי חָפֵץ בִּי, 
 וְהוּא יִהְיֶה לִי לַעֲטֶֽרֶת צְבִי.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 He will be glorified by me, <span class="acrostic"> </span>
 for he takes delight in me; 
 my crown of beauty he will ever be.
@@ -236,27 +236,27 @@ my crown of beauty he will ever be.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">כֶּֽ</span>תֶם טָהוֹר פָּז דְּמוּת רֹאשוֹ, 
 וְחַק עַל מֵֽצַח כְּבוֹד שֵׁם קָדְשׁוֹ.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 His head is like pure, fine gold; <span class="acrostic"> </span>
 the glory of his holy name is upon his forehead impressed.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">לְ</span>חֵן וּלְכָבוֹד 
 צְבִי תִפְאָרָה, 
 אֻמָּתוֹ לוֹ עִטְּרָה עֲטָרָה.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 For grace and honour, <span class="acrostic"> </span>
 splendour and beauty, 
 his people has adorned him with a crown. 
@@ -264,14 +264,14 @@ his people has adorned him with a crown.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">מַ</span>חְלְפוֹת רֹאשוֹ 
 כְּבִימֵי בְחֻרוֹת, 
 קְוֻצּוֹתָיו תַּלְתַּלִּים שְׁחוֹרוֹת.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 The plaits of his head 
 as in the days of youth; <span class="acrostic"> </span>
 his locks as curls black. 
@@ -279,14 +279,14 @@ his locks as curls black.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">נְ</span>וֵה הַצֶּֽדֶק 
 צְבִי תִפְאַרְתּוֹ, 
 יַעֲלֶה נָּא עַל רֹאש שִׂמְחָתוֹ.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 The abode of righteousness, <span class="acrostic"> </span>
 his glorious beauty, 
 may he raise it above his chiefest joy. 
@@ -294,14 +294,14 @@ may he raise it above his chiefest joy.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">סְ</span>גֻלָּתוֹ תְּהִי נָא 
 בְיָדוֹ עֲטֶֽרֶת. 
 וּצְנִיף מְלוּכָה צְבִי תִפְאֶֽרֶת.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Let his treasured people <span class="acrostic"> </span>
 be a diadem in his hand, 
 and a royal turban of matchless beauty. 
@@ -309,7 +309,7 @@ and a royal turban of matchless beauty.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">עֲ</span>מוּסִים נְשָׂאָם 
 עֲטֶֽרֶת עִנְּדָם, 
 מֵאֲשֶׁר יָקְרוּ 
@@ -317,7 +317,7 @@ and a royal turban of matchless beauty.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Carried by him, <span class="acrostic"> </span>
 he raised them and crowned them; 
 he honoured them 
@@ -326,14 +326,14 @@ because they were precious in his sight.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">פְּ</span>אֵרוֹ עָלַי 
 וּפְאֵרִי עָלָיו, 
 וְקָרוֹב אֵלַי בְּקָרְאִי אֵלָיו.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 His glory rests on me, <span class="acrostic"> </span>
 and my adoration is for him; 
 he is near unto me when I call upon him. 
@@ -341,14 +341,14 @@ he is near unto me when I call upon him.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">צַ</span>ח וְאָדוֹם 
 לִלְבוּשׁוֹ אָדוֹם, 
 פּוּרָה בְּדָרְכוֹ בְּבוֹאוֹ מֵאֱדוֹם.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Bright and ruddy<span class="acrostic"> </span>
 in red apparel, 
 when he came from Edom where he trod the winepress. 
@@ -356,7 +356,7 @@ when he came from Edom where he trod the winepress.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">קֶֽ</span>שֶׁר תְּפִלִּין 
 הֶרְאָה לֶעָנָו, 
 תְּמוּנַת יְיָ 
@@ -364,7 +364,7 @@ when he came from Edom where he trod the winepress.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 The knot of the tefillin <span class="acrostic"> </span>
 he showed to the meek (Moses), 
 while the similitude of the Lord 
@@ -373,7 +373,7 @@ was before his eyes.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">ר</span>וֹצֶה בְעַמּוֹ 
 עֲנָוִים יְפָאֵר, 
 יוֹשֵׁב תְּהִלּוֹת 
@@ -381,7 +381,7 @@ was before his eyes.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 He delights in his people, <span class="acrostic"> </span>
 he glorifies the meek; 
 he that dwells amid praises 
@@ -390,14 +390,14 @@ is glorified by them.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רֹאשׁ דְּבָרְךָ אֱמֶת 
 קוֹרֵא מֵרֹאשׁ, דּוֹר וָדוֹר 
 עַם דּוֹרֶשְׁךָ דְּרוֹשׁ.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Thy choicest word is truth; 
 O, thou who hast called generation after generation from the beginning, 
 seek the people that seek thee. 
@@ -405,7 +405,7 @@ seek the people that seek thee.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">שִׁ</span>ית הֲמוֹן 
 שִׁירַי נָא עָלֶֽיךָ, 
 וְרִנָּתִי 
@@ -413,7 +413,7 @@ seek the people that seek thee.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Set down the abundance <span class="acrostic"> </span>
 of my songs with thee, 
 and let my exultation 
@@ -422,7 +422,7 @@ come near unto thee.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="acrostic">תְּ</span>הִלָּתִי תְּהִי 
 לְרֹאשׁךָ עֲטֶֽרֶת, 
 וּתְפִלָּתִי 
@@ -430,7 +430,7 @@ come near unto thee.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Let my praise <span class="acrostic"> </span>
 be as a crown unto thy head, 
 and my prayer 
@@ -439,27 +439,27 @@ be set forth as fragrant incense.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 תִּיקַר שִׁירַת רָשׁ בְּעֵינֶֽיךָ, 
 כַּשִּׁיר יוּשַׁר עַל קָרְבָּנֶֽיךָ.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May the poor man's song be precious in thy sight, 
 as the song that was sung at thy altar sacrifices. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בִּרְכָתִי תַעֲלֶה לְרֹאשׁ מַשְבִּיר, 
 מְחוֹלֵל וּמוֹלִיד 
 צַדִּיק כַּבִּיר.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May my blessing ascend to the giver of life, 
 who decrees travail and birth, 
 who is mighty in justice.
@@ -467,33 +467,33 @@ who is mighty in justice.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּבְבִרְכָתִי תְנַעֲנַע לִי רֹאשׁ, 
 וְאוֹתָהּ קַח לְךָ כִּבְשָׂמִים רֹאשׁ.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 And do thou incline thy head to me when I offer my blessing, 
 and accept it as the choicest of spices. 
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יֶעֱרַב נָא שִׂיחִי עָלֶֽיךָ. 
 כִּי נַפְשִׁי תַעֲרוֹג אֵלֶֽיךָ.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 May the meditation be pleasant unto thee, 
 for my soul panteth after thee.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לְךָ יְהוָה הַגְּדֻלָּה וְהַגְּבוּרָה 
 וְהַתִּפְאֶרֶת וְהַנֵּצַח וְהַהוֹד 
 כִּי־כֹל בַּשָּׁמַיִם וּבָאָרֶץ 
@@ -502,7 +502,7 @@ for my soul panteth after thee.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 
 Thine, YHVH, is the greatness, and the power, 
 and the glory, and the victory, and the majesty: 
@@ -513,25 +513,25 @@ and the supremacy as head over all.[foot]1 Chronicles 29:11.[/foot]
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 מִי יְמַלֵּל גְּבוּרוֹת יְהוָה 
 יַשְׁמִיעַ כָּל־תְּהִלָּתוֹ׃ <span class="citation">(תהלים קו:ב)</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 Who can tell the mighty acts of YHVH, 
 proclaim all their praises?[foot]Psalms 106:2.[/foot]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english">
+<div class="english" lang="en">
 <span class="instruction">The Ark is closed.
 The Mourner's Ḳaddish is here recited.</span>
 </div></td></tr>

@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה יְיָ אֱלֹהֵֽינוּ מֶֽלֶךְ הָעוֹלָם
 אֲשֶׁר בִּדְבָרוֹ 
 מַעֲרִיב עֲרָבִים׃
@@ -20,7 +20,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 We praise You, Yah.
 By Your command,
 Pleasant evenings appear.
@@ -30,7 +30,7 @@ You open gates to new awareness.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וּבִתְבוּנָה מְשַׁנֶּה עִתִּים 
 וּמַחֲלִיף 
 אֶת הַזְּמַנִּים
@@ -39,7 +39,7 @@ You open gates to new awareness.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 You vary the seasons…
 Setting the sky’s light,
 As You adjust the times,
@@ -49,7 +49,7 @@ To their appointed tasks.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בּוֹרֵא יוֹם וָלָֽיְלָה 
 גּוֹלֵל אוֹר מִפְּנֵי חֹֽשֶׁךְ וְחֹֽשֶׁךְ מִפְּנֵי אוֹר:
 וּמַעֲבִיר יוֹם 
@@ -57,7 +57,7 @@ To their appointed tasks.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 You create day and night.
 You make for dawn and dusk.
 Now the day is over, 
@@ -66,14 +66,14 @@ And you bring on the night.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 &nbsp;
 &nbsp;
 וּמַבְדִּיל בֵּין יוֹם וּבֵין לָֽיְלָה
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 You give us discernment,
 To know the difference 
 Between day and night.
@@ -81,14 +81,14 @@ Between day and night.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְיָ צְבָאוֹת 
 &nbsp;
 שְׁמוֹ:
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Yah Tseva’ot – 
 Lord of Diversity,
 Is Your Name.
@@ -96,7 +96,7 @@ Is Your Name.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 אֵל חַי וְקַיָּם 
 תָּמִיד 
 יִמְלוֹךְ עָלֵֽינוּ לְעוֹלָם וָעֶד:
@@ -105,7 +105,7 @@ Is Your Name.
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Oh! Living, Present God,
 May You always 
 Govern our lives.

@@ -11,13 +11,13 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 בורא עולם, הרופא לשבורי לב,
 החוֹנֵן לְאָדָם דַּעַת, וּמְלַמֵּד לֶאֱנוֹשׁ בִּינָה,
 חָנֵּנוּ מֵאִתְּךָ דֵּעָה בִּינָה וְהַשְׂכֵּל לנו, המבקשים טיפול לפגיעי עירנו, 
 ולכל בעלי כח לטפל;
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Creator of the Universe, Healer of shattered hearts, 
 Who bestows knowledge to human beings, teaching insight to mortals, 
 grant Your knowledge, insight, and discernment to us who seek care for the vulnerable 
@@ -27,7 +27,7 @@ and to all those able to provide that care;
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 הֲשִׁיבֵנוּ לְדרכיךָ, כי עם קשי עורף אנחנו, 
 פתח לנו שערי תשובה וְהַחֲזִירֵנוּ בִתְשׁוּבָה שְׁלֵמָה לְפָנֶיךָ,
 שאנו נפתח שערי מצפוננו לנאנחים,
@@ -36,7 +36,7 @@ and to all those able to provide that care;
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Return us to Your ways, for we are stiff-necked people, 
 open the gates of repentance, that we may all return to You in full repentance, 
 that we may open the gates of our conscience to those in distress, 
@@ -46,7 +46,7 @@ that the caregivers open their gates to those who knock in distress;
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 סְלַח לָנוּ אָבִינוּ כִּי חָטָאנוּ, מְחַל לָנוּ מַלְכֵּנוּ כִּי פָשַׁעְנוּ, 
 על חטא שחטאנו לפניך בצדיית ריע ובצרות עין,
 כִּי מוֹחֵל וְסוֹלֵחַ אָתָּה.
@@ -54,7 +54,7 @@ that the caregivers open their gates to those who knock in distress;
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Forgive us, our Parent, for we have sinned, pardon us, our Ruler, 
 for the sins we have committed before You by trapping our neighbor, and through a begrudging eye, 
 for You are One Who pardons and forgives;
@@ -63,7 +63,7 @@ for You are One Who pardons and forgives;
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 רְפָאֵנוּ יְהֹוָה וְנֵרָפֵא,
 רפואת הנפש לנפגעי שאננות, שלבם עטומים,
 ורפואת הגוף לנפגעי חרב, שלבם קרועים, 
@@ -71,7 +71,7 @@ for You are One Who pardons and forgives;
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Heal us, YHWH, that we may be healed, 
 healing of the soul to those wounded by complacency, whose hearts are sealed shut;
 and healing of body to the those wounded by the sword, with hearts ripped open,
@@ -80,7 +80,7 @@ and healing of body to the those wounded by the sword, with hearts ripped open,
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 שְׁמַע קוֹלֵנוּ יְהֹוָה אֱלֹהֵינוּ,
 שתעלה אליך זעקת הנתונים בצרה,
 ברוך אתה, שומע תפילה.
@@ -88,7 +88,7 @@ and healing of body to the those wounded by the sword, with hearts ripped open,
 </td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Hear our voices, YHWH, 
 and may the cries of the distressed rise up to you, for You, YHWH, listen to prayers and petitions.
 Praised are You, Who listens to prayer.

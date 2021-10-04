@@ -15,7 +15,7 @@ This is עלת תמיד <em>Olath Tamid</em> by Rev. Dr. David Einhorn (1809-187
 
 <hr />
 
-<div class="english">
+<div class="english" lang="en">
 Printed by DEUTSCH GOLDERMAN, Baltimore, Md.
 
 <h3>PREFACE.</h3>

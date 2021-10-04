@@ -12,17 +12,17 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 <span class="instruction">כְּזֶה הוּא הַסֵּדֶר לוֹמַר בְּשָׁעָה שֶׁמַּחֲזִיק בַּמַּעְדֵּר לַחֲפֹר חֲפִירָה לִנְטִיעָה:</span>
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 <span class="instruction">This prayer is to be said while holding the hoe that will be used for the planting:</span>[foot]The first line presenting instructional text on holding the hoe appears in versions circulated on the web in the context of Tu Bishvat tree planting programs. The line does not appear in the earliest versions of the prayer I could find, published between 1991 and 1997 (see below, "Sources").[/foot]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 לְשֵׁם יִחוּד קוּדְשָׁא בְּרִיךְ הוּא וּשְׁכִינְתֵיהּ,
 בִּדְחִילוּ וּרְחִימוּ,
 הֲרֵינִי נוֹטֵל מַעְדֵּ״ר זֶה
@@ -33,7 +33,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 אַדְמַת הַקּוֹדֶשׁ.
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 To unify the name of the blessed Holy One and their Shekhinah, 
 with fear and compassion,
 I hereby take this hoe (<em>ma’ader</em>) 
@@ -47,7 +47,7 @@ the holy soil.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְהִי רָצוֹן מִלְּפָנֶיךָ ה׳ אֱלֹהֵינוּ וְאֱלֹהֵי אֲבוֹתֵינוּ
 הַמַּצִּיב גְּבוּל וְהַמֵּשִׁיב בָּנִים לִגְבוּלָם,
 כִּי תְּחַזְּקֶנּוּ וְתַצְלִיחַ דְּרָכֵינוּ
@@ -55,7 +55,7 @@ the holy soil.
 עַל אַדְמַת הַקּוֹדֶשׁ,
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 May it be your will, YHVH our <em>elo'ah</em> and <em>elo'ah</em> of our ancestors, 
 creator of borders[foot]Cf. Proverbs 15:25[/foot] and the returner of children to their border,[foot]Cf. Jeremiah 31:17[/foot]
 that you will strengthen us and make our path successful 
@@ -65,25 +65,25 @@ in the holy soil.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְנִזְכֶּה לִרְאוֹת בְּטָהֳרַת אַדְמַת יִשְׂרָאֵל מִטֻּמְאָתָהּ
 בְּעֵת שְׁיְּנַעֲרוּ רְשָׁעִים מִמֶּנָּה.
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 And may we merit seeing the purification of the soil of Yisra'el from her impurity 
 in the time in which she is shaking off wickedness from herself
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 וְתָשׁוּב אֶל בַּעְלָהּ הָרִאשׁוֹן,
 עִם בִּנְיַן צִיּוֹן וִירוּשָׁלַיִם.
 אָמֵן, כֵּן יְהִי רָצוֹן׃
 </span></div></td>
 
-<td style="vertical-align:top;"><div class="english">
+<td style="vertical-align:top;"><div class="english" lang="en">
 And may she return to her first husband
 with the rebuilding of Tsiyon and Yerushalayim
 Amen, may it be your will.
@@ -104,7 +104,7 @@ According to the obituary written by A. Sharabi and printed in HaTsefah on 20 Fe
 
 <blcokquote>
 
-<div class="hebrew">
+<div class="hebrew" lang="he">
 ציון לנפש הרב ר׳ שלום חיים שרעבי ז״ל
 
 הרב שלום שרעבי נולד בשנת התרל״ג בעיר קוביר מחוז שרעב להרב המקובל הר״ר חיים עואר שרעבי, ממשפחה מיוחסת לשלשלת הקבלה. עשרים ושלש שנים רצופות למד בבית מדרשו של הרב הקדוש יוסף סעדיא דרהמי כהן. ובהגיעו לבר מצוה כבר היה במעין המתגבר בהלכות ובאגדות ובפוסקים ובהגיעו לגיל 16 התחיל בלימוד הקבלה ובכוונות המצוות והתפלות. בן 18 קבל את סמיכות הרבנות במעמד רבו הנ״ל. כ־35 שנה התפרנס הוא ומשפחתו בבית אביו מיגיע כפיו, אבל לא פסק פומיה מגירסא גם באותם השעות שעסק במלאכתו.‏
@@ -129,7 +129,7 @@ In 1997, the prayer was included in <a href="https://books.google.com/books?id=J
 Here is Shaul Yemini's full essay, with Rabbi Shalom Ḥayyim Sharabi's prayer included, from ש״י זכרונות, p. 182-184:
 
 <blockquote>
-<div class="hebrew">
+<div class="hebrew" lang="he">
 העליות מתימן
 
 אך קרה לי משהו וזכרונותי עלו וצפו, ואני חש בצורך עז להעלותם כאן. עליה אחרונה זו, כמו בעידן הוידיאו, לחצה על כפתור הקלטת שבמוחי, ואתה הקורא לך נא בעקבות סרט נפלא זה שנכתב ע״י שר ההסטוריה, וגבוריו הראשיים הם אנשי העליות השונות.

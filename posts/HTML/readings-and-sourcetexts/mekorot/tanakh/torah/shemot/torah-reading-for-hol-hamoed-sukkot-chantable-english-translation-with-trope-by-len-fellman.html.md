@@ -7,9 +7,9 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-
 <strong>DOWNLOAD:</strong> 
-<a href="https://archive.org/download/HolHaMoedSukkotTorahReadingWithEnglishTranstropilationLenFellman2018/Sukkot%20Hol%20HaMo%27ed%20Torah%20Reading%20%28Exodus%2033v12-34v26%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29.odt">ODT</a> | <a href="https://archive.org/download/HolHaMoedSukkotTorahReadingWithEnglishTranstropilationLenFellman2018/Sukkot%20Hol%20HaMo%27ed%20Torah%20Reading%20%28Exodus%2033v12-34v26%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29.pdf">PDF</a> 
+
+<a href="https://archive.org/download/HolHaMoedSukkotTorahReadingWithEnglishTranstropilationLenFellman2018/Sukkot%20Hol%20HaMo%27ed%20Torah%20Reading%20%28Exodus%2033v12-34v26%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29.odt">ODT</a> | <a href="https://archive.org/download/HolHaMoedSukkotTorahReadingWithEnglishTranstropilationLenFellman2018/Sukkot%20Hol%20HaMo%27ed%20Torah%20Reading%20%28Exodus%2033v12-34v26%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29.pdf">PDF</a> (with Hebrew)
 <a href="https://archive.org/download/HolHaMoedSukkotTorahReadingWithEnglishTranstropilationLenFellman2018/Sukkot%20Hol%20HaMo%27ed%20Torah%20Reading%20%28Exodus%2033v12-34v26%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.odt">ODT</a> | <a href="https://archive.org/download/HolHaMoedSukkotTorahReadingWithEnglishTranstropilationLenFellman2018/Sukkot%20Hol%20HaMo%27ed%20Torah%20Reading%20%28Exodus%2033v12-34v26%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.pdf">PDF</a> (sans Hebrew)
 
 <hr />

@@ -11,12 +11,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Dearest God, 
 we look to You today, 
 You who remembers all that we have forgotten 
@@ -25,12 +25,12 @@ and You who is the eternal source of blessing.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 We stand before You on the eve of the Biblical Festival of Purim, 
 a joyous time in which we read from the ancient and sacred scroll of the Book of Esther. 
 It is in the scroll we read at first of a certain darkness, 
@@ -39,12 +39,12 @@ a darkness which would come to envelope the entire nation over which Esther woul
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 It was Queen Esther who became frightened 
 when the plan revealing a plot to erase the sacred remnants of her people, 
 along with the fundamental teachings of her faith, 
@@ -62,12 +62,12 @@ in the light of their newfound freedom.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And now, standing here today, before You, 
 on the eve of this festival, 
 we, too, ask that You remember us for life, 
@@ -78,12 +78,12 @@ for all the inhabitants of this great Nation.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 And yet, Dear Lord, 
 we would be remiss if we were not to remember 
 those who have sacrificed much, 
@@ -100,12 +100,12 @@ and allow us to live within.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Teach us now and forever to celebrate our differences. 
 Unify us to preserve and admire those differences among us--
 all of us--
@@ -115,12 +115,12 @@ for all the inhabitants of this Nation.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Lord, we ask You to bestow Your blessings today 
 upon this assembly 
 and upon the Nation which it serves. 
@@ -130,24 +130,24 @@ with both prosperity and lasting joy, love, and freedom.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 יְבָרֶכְךָ יְהוָה וְיִשְׁמְרֶךָ׃
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Yevarechecha Adonai, V'Yishmerecha. 
 [YHVH bless you and protect you!][foot]Numbers 6:24, the first verse of the Priestly Blessing[/foot]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 May God bless you and keep you. 
 May God bless the United States of America, 
 and may God bless us all. 

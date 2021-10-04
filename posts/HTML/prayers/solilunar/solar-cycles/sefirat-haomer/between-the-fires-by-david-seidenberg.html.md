@@ -11,12 +11,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <span style="color: green;">On this day, the day when (or: after) the Flood began,
 this day when we prepare to kindle fires for Lag Ba'Omer,
 we share a unique burden.</span>
@@ -24,12 +24,12 @@ we share a unique burden.</span>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <span style="color: green;">We are the first generation to understand
 what the Floods could mean:
 The Flood of Noaḥ, when the Water of Life undid Life,
@@ -38,24 +38,24 @@ and the Flood of Malachi, the Flood of Fire.</span>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <span style="color: green;">We are the generation standing</span>
 between the fires:
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <span style="color: green;">Behind us the flame and smoke</span>
 that rose from Auschwitz, from Hiroshima.
 <span style="color: green;">Before us the nightmare</span> of a Flood of Fire and Water,
@@ -66,12 +66,12 @@ a day when our flames could consume so much of the earth.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 It is our task to make from fire not an all-consuming blaze
 but a light in which we can see each other fully.
 All of us different, <span style="color: green;">All of us bearing
@@ -80,12 +80,12 @@ One Spark.</span>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <span style="color: green;">Let us light the fires of Lag Ba'Omer</span> to see more clearly
 that the earth and all who live as part of it
 are not for burning.
@@ -93,12 +93,12 @@ are not for burning.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 Let us light our fires to see more clearly
 the rainbow in the many-hued faces
 Of all life.
@@ -106,24 +106,24 @@ Of all life.
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <span style="color: green;">Blessed is the One within the many.
 Blessed are the many who embody the One.</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 "Here! I am sending you
 Elijah the Prophet
 Before the coming
@@ -140,24 +140,24 @@ utterly."[foot]Malachi 4:5-6[/foot]
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <span style="color: green;">Here we stand
 before the great and terrible day --</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <span style="color: green;">Let us turn the hearts
 of parents to their children
 and the hearts of children to their parents
@@ -167,24 +167,24 @@ does not fall upon us or our children.</span>[foot]Cf. Malachi 4:5-6[/foot]
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <span style="color: green;">"And then the Sun of Righteousness will shine forth
 and heal with her wings."</span>[foot]Malachi 4:2[/foot]
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;" width="46%">
-<div class="liturgy"><span lang="he">
+<div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;" width="53%">
-<div class="english">
+<div class="english" lang="en">
 <span style="color: green;"><em>Ken Y'hi Ratzon</em>, 
 So May It Be.</span>
 </div></td></tr>
