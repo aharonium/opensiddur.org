@@ -7,11 +7,11 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 יְהִי רָצוֹן מִלְּפָנֶיךָ, 
 יְיָ אֱלוֹהֵינוּ וֵאלוֹהֵי אֲבוֹתֵינוּ, 
@@ -22,7 +22,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 בְּרַחֲמָיו. 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Yah, our God, 
 You are our parents God, 
 You are open to hear our pleading prayer 
@@ -36,7 +36,7 @@ please grant it.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 שֶׁתָּכִין לִבֵּנוּ 
 וּתְכוֹנֵן מַחְשְׁבוֹתֵינוּ 
@@ -49,7 +49,7 @@ please grant it.
 וְרוּחַ נִשְׁבָּרָה. 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Open our hearts, 
 focus our thoughts, 
 help that our prayers 
@@ -64,7 +64,7 @@ and with a shattered spirit.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְאַתָּה, אֵל רַחוּם בְּרַחֲמֶיךָ הָרַבִּים 
 וּבַחֲסָדֶיךָ הַגְּדוֹלִים, 
@@ -81,7 +81,7 @@ and with a shattered spirit.
 לְפָנֶיךָ, 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 You, kind compassionate One
 God of infinite mercy!  
 Please forgive us, pardon us 
@@ -102,7 +102,7 @@ the house of Israel,
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 כִּי גָלוּי 
 וְיָדוּעַ לְפָנֶיךָ 
@@ -112,7 +112,7 @@ the house of Israel,
 תוֹרָתֶךָ וּמִצְוֺתֶיךָ, 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 How well You know, 
 and it is apparent to You 
 that it was not with malice or willfulness 
@@ -124,7 +124,7 @@ in Your Torah and Commandments.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 כִּי אִם מֵרֹב 
 הַיֵּצֶר הַבּוֹעֵר 
@@ -146,7 +146,7 @@ in Your Torah and Commandments.
 וְטִרְדַּת הַזְּמַן: 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 In our bellies 
 there burns a fire without ceasing, 
 a Yetzer Hara’, the drive of selfishness 
@@ -171,7 +171,7 @@ bear down heavily on us.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 לָכֵן אַתָּה 
 אֵל רַחוּם וְחַנּוּן. 
@@ -185,7 +185,7 @@ bear down heavily on us.
 זִכְרוֹנָם לִבְרָכָה. 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Therefore, You , 
 who are compassionate and kind 
 fulfill for us what You promised 
@@ -205,7 +205,7 @@ and those who are good.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אַף עַל פִּי 
 שֶׁאֵינוֹ הָגוּן 
@@ -228,7 +228,7 @@ and those who are good.
 לְהַדִּיחֵנוּ מֵעֲבוֹדָתֶךָ חָלִילָה. 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 It must be obvious to You
 how we are troubled
 how hard our life is
@@ -253,7 +253,7 @@ let him not deflect us from serving You
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְאַל יַעֲלֶה בְּלִבֵּנוּ שׁוּם מַחֲשָׁבָה רָעָה חָלִילָה 
 הֵן בְּהָקִיץ הֵן בַּחֲלוֹם. 
@@ -269,7 +269,7 @@ let him not deflect us from serving You
 כִּרְצוֹנְךָ הַטּוֹב עִמָּנוּ: 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 May no evil schemes arise in our heart
 when we are asleep or awake
 especially at that time 
@@ -287,7 +287,7 @@ as You would have us be.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וּתְעוֹרֵר לְבָבֵנוּ 
 וּלְבַב כָּל יִשְׂרָאֵל עַמְּךָ, 
@@ -298,7 +298,7 @@ as You would have us be.
 הַמְקֻבֶּלֶת לִפְנֵי כִסֵּא כְבוֹדֶךָ.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Awaken in our hearts 
 and in the hearts of all of Israel, 
 Your people,
@@ -311,7 +311,7 @@ as to be pleasing to You.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְתִקְבַּע 
 אֱמוּנָתְךָ בְּלִבֵּנוּ תָמִיד בְּלִי הֶפְסֵק, 
@@ -320,7 +320,7 @@ as to be pleasing to You.
 כְּיָתֵד שֶׁלֹּא תִמּוֹט, 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Fasten in us 
 such a steadfast faith in You, 
 To be so deeply anchored 
@@ -331,7 +331,7 @@ not to vacillate from it.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְתַעֲבִיר מֵעָלֵינוּ כָּל הַמְּסָכִים 
 הַמַּבְדִּילִים בֵּינֵינוּ לְבֵינֶךָ, 
@@ -339,7 +339,7 @@ not to vacillate from it.
 וְתַצִּילֵנוּ מִכָּל מִּכְשׁוֹל וְטָעוּת, 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Remove from us all the barriers 
 that separate us from You,  
 Our father in heaven.
@@ -350,14 +350,14 @@ Keep us from going astray.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אַל תַּעַזְבֵנוּ 
 וְאַל תִּטְּשֵׁנוּ 
 וְאַל תַּכְלִימֵנוּ, 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Don't forsake us,
 don't abandon us,
 keep us from disgracing 
@@ -367,7 +367,7 @@ You before the world.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וּתְהֵא עִם פִּינוּ 
 בְּעֵת הַטִּיפֵנוּ, 
@@ -377,7 +377,7 @@ You before the world.
 בְּעֵת מַחְשְׁבוֹתֵינוּ: 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Be present to us 
 in the words of our prayer
 May the work of our hands
@@ -389,7 +389,7 @@ as we think of You
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וּתְזַכֵּנוּ, אָבִינוּ שֶׁבַּשָּׁמַיִם 
 אֵל מָלֵא רַחֲמִים, 
@@ -406,7 +406,7 @@ as we think of You
 בְּלִי שׁוּם מַחֲשֶׁבֶת פְּסוּל חָלִילָה, 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Please, our Father in heaven
 In Your abundant kindness 
 Grant us the boon 
@@ -425,7 +425,7 @@ without any self deception.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְטַהֵר לִבֵּנוּ 
 וְקַדְּשֵׁנוּ, 
@@ -446,7 +446,7 @@ without any self deception.
 וּבְאַהֲבָתְךָ וּבְיִרְאָתְךָ,
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Purify our hearts,
 sanctify us,
 sprinkle us with Thy cleansing water 
@@ -469,7 +469,7 @@ Your love and Your awe.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וּבְתוֹרָתְךָ 
 שֶׁבִּכְתָב 
@@ -488,7 +488,7 @@ Your love and Your awe.
 הַחֲבִיבָה עָלֵינוּ, 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 May we be securely anchored
 in Your written and Oral Torah
 in the part of the Torah 
@@ -509,7 +509,7 @@ of our service to You, whom we love.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְתַשְׁפִּיעַ רוּחַ קָדְשְׁךָ עָלֵינוּ, 
 שֶׁנִּהְיֶה דְבֵקִים בָּךְ 
@@ -521,7 +521,7 @@ of our service to You, whom we love.
 אַבְרָהָם, יִצְחָק וְיַעֲקֹב, 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Pour out thy Holy Spirit over us
 that we may stay close to You,
 that our longing for You may
@@ -535,7 +535,7 @@ Abraham, Isaac and Jacob.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וּזְכוּתָם יַעֲמֹד לָנוּ 
 שֶׁתִּשְׁמַע בְּקוֹל תְּפִלָּתֵנוּ 
@@ -547,7 +547,7 @@ Abraham, Isaac and Jacob.
 וְתִשְׂמַח וְתִתְפָּאֵר בָּנוּ, 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 We know
 You will always receive our prayer;
 You will always answer us
@@ -561,7 +561,7 @@ May Your glory be reflected in us.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְנַעֲשֶׂה פְּרִי 
 לְמַעְלָה וְשֹׁרֶשׁ לְמַטָּה, 
@@ -580,7 +580,7 @@ May Your glory be reflected in us.
 בִּשְׁמוֹתֶיךָ הַקְּדוֹשִׁים וְהַטְּהוֹרִים: 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 May our prayers bear fruit
 and be fulfilled, above and below.
 Help us to attend to our flaws,
@@ -601,7 +601,7 @@ of Your pure and holy Name.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְתַצִּילֵנוּ מִקִּנְאַת אִישׁ מֵרֵעֵהוּ 
 וְלֹא יַעֲלֶה קִנְאַת 
@@ -627,7 +627,7 @@ of Your pure and holy Name.
 אֵלֶיךָ, 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Yah, rescue us from envy.
 Let not jealousy 
 of any person arise in our hearts
@@ -655,7 +655,7 @@ focused on You.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אַתָּה תְלַמְּדֵנוּ 
 אֲשֶׁר נֵדַע בֶּאֱמֶת כַּוָּנַת רְצוֹנְךָ הַטּוֹב, 
@@ -666,7 +666,7 @@ focused on You.
 אָמֵן כֵּן יְהִי רָצוֹן:
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Enlighten us so that we might learn 
 to fully know Your good purpose.
 This is what we plead to 

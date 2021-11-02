@@ -7,17 +7,17 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֶהְיֶה בְּעֵדֶן 
 גַן יִחוּדֶךָ 
 תְּקַבֵּל צִדְקָתוֹ:
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Ehyeh/I-will-be in (Gan) Aden
 the garden of your unification;
@@ -25,14 +25,14 @@ the garden of your unification;
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 קְשׁוֹב רְצֵה 
 עֲתִירָה שְׁמוֹר 
 טַהֲרַת נִשְׁמָתוֹ:
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Listen, accept,
 entreat, guard
@@ -40,14 +40,14 @@ entreat, guard
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 נָאוֹר גִבּוֹר 
 דְגָלֶיךָ יֳאִירוּ
 כְּבוֹד שִׁבְתּוֹ׃ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Enlightened mighty one,
 shining be your pennants,
@@ -55,14 +55,14 @@ Kavod (resplendent spirit) of his Shabbat.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 בְּרוֹב טוּבְךָ 
 רוֹעֶה צְדָקָה 
 תְּרוֹמֵם גְדוּלָתוֹ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Through the abundance of your beneficence,
 righteous shepherd,
@@ -70,14 +70,14 @@ his greatness will be exalted.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 חָסִין קָרֵב 
 בִּרְצוֹן טוֺב 
 נוֹפֶשׁ עֲלִיָיתוֹ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Draw near protection --
 with beneficent will
@@ -85,14 +85,14 @@ sustain his ascent.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 יִוָדַע גְאוּלָתְךָ 
 לַחְזוֹת פְּאֵר 
 זִיו קְדוּשָׁתוֹ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Your redemption will be known
 in anticipation of such splendor:
@@ -100,14 +100,14 @@ a ray of his holiness.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 שׁוֹכֵן קָרוֹב 
 וּמֵטִיב צַוֵה 
 יְשׁוּעַת תְּהִילָתוֹ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Dwelling near (now),
 (you are) doing well, directing
@@ -115,69 +115,69 @@ the help of his adoration.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וַיִרְכַּב עַל כְּרוּב וַיָעֹף וַיֵדֶא עַל כַּנְפֵי רוּחַ׃ <span class="citation">(תהלים יח:יא)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And he will ride upon a keruv, and he will fly, fly upon the wings of the wind.[foot]Psalms 18:11.[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 יִשְׁקֵנִי מִנְשִיקוֹת פִּיהוּ כִּי טוֹבִים דֹדֶיךָ מִיָיִן׃ <span class="citation">(שיר השירים א:ב)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Kiss me from the kisses of his mouth that your love making is better than wine.[foot]Song of Songs 1:2.[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֵל אֱלֹהִים יְהוָֹה דִבֶּר וַיִקְרָא אָרֶץ מִמִזְרַח שֶׁמֶשׁ עַד מְבֹאוֹ׃ 
 מִצִיוֹן מִכְלַל יוֹפִי אֱלֹהִים הוֹפִיעַ׃ <span class="citation">(תהלים נ:א-ב)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 El Elohim YHVH -- speak and call the earth from the east of the sun until its setting.
 Your perfection of the beauty of Elohim appeared, from Tsiyon. [foot]Psalms 50:1-2.[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 שְׁמַע יִשְׂרָאֵל יְהוָֹה אֱלֹהֵינוּ יְהוָֹה אֶחָד׃ <span class="citation">(דברים ו:ד)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Hear Yisrael, YHVH our <em>elo'ah</em>, YHVH is one/unique.[foot]Deuteronomy 6:4.[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 יְהוָֹה הוּא אֱלֹהִים׃ יְהוָֹה הוּא אֱלֹהִים׃ <span class="citation">(תהלים ק:ג)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 YHVH is Elohim. YHVH is Elohim.[foot]Psalms 100:3, Cf. Deuteronomy 4:35 and I Kings 18:39.[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 יְהוָֹה מֶלֶךְ <span class="citation">(תהלים י:טז)</span> יְהוָֹה מָלָךְ <span class="citation">(תהלים צג:א)</span> יְהוָֹה יִמְלוֹךְ לְעוֹלָם וָעֶד׃ <span class="citation">(שמות טו:יח)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 YHVH is King.[foot]Psalms 10:16 part, Psalms 29:10 part.[/foot] YHVH has reigned.[foot]Psalms 93:1 part, Psalms 97:1 part, Psalms 99:1 part.[/foot] YHVH will reign in the Cosmos forever.[foot]Exodus 15:18[/foot]
 </div></td></tr>

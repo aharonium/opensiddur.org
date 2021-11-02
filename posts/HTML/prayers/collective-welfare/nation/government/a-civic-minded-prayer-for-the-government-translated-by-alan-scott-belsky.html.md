@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
@@ -157,9 +157,9 @@ Amen.
 </div></td></tr>
 </tbody></table>
 
-We are grateful to Alan Scott Belsky for translating his favorite Prayer for the Government. The version below is included in the <span class="hebrew" lang="he">סדור שְׂפַת אֱמֶת הֶחָדָשׁ</span> -- <em>Siddur Sfat Emet HeḤadash</em> "Daily Prayer with English Directions" (1912, 1916, Hebrew Publishing Co., New York, NY). Thank you to Aharon Varady for his transcription of the Hebrew with its <em>niqqud</em>.[foot]Please correct any transcription errors you may find. <em>Shgiyot mi yavin, Ministarot Nakeni</em> <span class="hebrew" lang="he">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> "Who can know all one's flaws? From hidden errors, correct me" (Psalms 19:13).[/foot]
+<hr />
 
-The author of this prayer for the government is likely to be <span class="hebrew" lang="he">אברהם היימאן חרלאףּ</span> -- <a href="http://www.worldcat.org/identities/lccn-no2003-17448">Abraham Hyman Ḥarlap</a> (1862-1916), credited as "A. Hyman" on the title page for his arrangement and revision of the <em>Siddur Sfat Emet HeḤadash</em>.
+This is an original translation of the prayer for the government offered by Avraham Hyman Charlap (1862-1916).
 
 <h3>Source</h3>
 

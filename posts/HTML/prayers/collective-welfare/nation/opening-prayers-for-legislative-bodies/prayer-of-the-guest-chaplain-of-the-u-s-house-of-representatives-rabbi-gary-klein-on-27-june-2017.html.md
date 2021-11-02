@@ -28,26 +28,26 @@ I am thankful for his friendship, and I wish him many more years of blessed lead
 
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <h3>Opening Prayer Given by the Guest Chaplain:</h3>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Religious traditions teach 
 that people and God are to work together 
@@ -62,12 +62,12 @@ experience complete recoveries.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 We also pray 
 that You bless the efforts of this legislative body 
@@ -80,12 +80,12 @@ as "a light unto the nations."[foot]Rabbi Klein here transfers to the United Sta
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 You have also taught us through the Talmud, 
 a work of Jewish religious literature, 
@@ -100,12 +100,12 @@ it is as if you saved the entire world.[foot]Cf. Mishnah Sanhedrin 4:5[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 O God, 
 help each of us as Americans 
@@ -127,7 +127,7 @@ Issue: Vol. 163, No. 110 — Daily Edition (June 27, 2017)
 
 Link: <a href="https://chaplain.house.gov/chaplaincy/display_gc.html?id=2563">https://chaplain.house.gov/chaplaincy/display_gc.html?id=2563</a>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.c-span.org/video/standalone/?c4675052/rabbi-gary-klein-temple-ahavat-shalom-palm-harbor-florida" width="512" height="330"]
+<iframe width=530 height=312 src='https://www.c-span.org/video/standalone/?c4675052/rabbi-gary-klein-temple-ahavat-shalom-palm-harbor-florida' allowfullscreen='allowfullscreen' frameborder=0></iframe>[su_spacer]
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.congress.gov/crec/2017/06/27/CREC-2017-06-27-pt1-PgH5189-3.pdf" width="100%" height="900"]
 </body>

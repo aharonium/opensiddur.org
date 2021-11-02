@@ -12,37 +12,37 @@ Date of Prayer: 05/19/2003
 
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <h3>Opening Prayer Given by the Guest Chaplain:</h3>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Let us pray.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 O Lord, who hears our prayers 
 as this session now begins 
@@ -57,12 +57,12 @@ that unite us all.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 We sometimes call this starting prayer an invocation, 
 but it is not Your presence we invoke, 
@@ -76,12 +76,12 @@ we know we find Your hand.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Instead, it is awareness of Your presence 
 that we call forth, 
@@ -94,12 +94,12 @@ that we might help to build.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 May Your presence touch our lives, 
 and even shape our words, 
@@ -109,13 +109,13 @@ and help make those dreams and prayers come true.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 &nbsp;
 אָמֵן׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And may we say, 
 <em>Amen.</em>
@@ -129,7 +129,7 @@ And may we say,
 108th Congress, 1st Session
 Issue: Vol. 149, No. 74 — Daily Edition (May 19, 2003)
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.c-span.org/video/standalone/?c4507121/rabbi-arnold-resnicoff-captain-chaplain-corps-us-navy-5" width="512" height="330"]
+<iframe width=530 height=312 src='https://www.c-span.org/video/standalone/?c4507121/rabbi-arnold-resnicoff-captain-chaplain-corps-us-navy-5' allowfullscreen='allowfullscreen' frameborder=0></iframe>[su_spacer]
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.congress.gov/crec/2003/05/19/CREC-2003-05-19-pt1-PgS6571-2.pdf" width="100%" height="900"]
 </body>

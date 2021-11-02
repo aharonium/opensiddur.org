@@ -27,7 +27,7 @@ According to the poetry of the Midrash Tanchuma, Bereshit 1:1, the words of the 
 Parashat Bo (Exodus 10:1-13:16) in the annual Torah reading cycle, is read on the first shabbat of the month of Shvat. The parashah is preceded by parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-shemot/parashat-vaera/parashat-vaera-color-coded-according-to-its-narrative-layers/">Va'era</a> (Exodus 6:2-9:35); parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-shemot/parashat-bshalah/parashat-bshalah-color-coded-according-to-its-narrative-layers/">B'shalaḥ</a> (Exodus 13:17-17:16) follows it.
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

@@ -23,7 +23,7 @@ In the profound opening of the Haggadah, there is a Jewish message with universa
 This is the meaning of the Passover Matsah this year. While we are a generation who has been divided, we must now come together to imagine a new future, a common destiny based on shared values and respond to the needs of all.
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;"><a href="/contribute/upload">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

@@ -7,10 +7,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הַנּוֹתֵן מֶמְשָׁלָה לְמַנְהִיגִים וְאַחְרָיוּת לְאֶזְרָחִים,
 מַלְכוּתוֹ כָּל עוֹלָמִים –
@@ -22,7 +22,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 וְיַשְׁרֶה אַהֲבָה וְאַחֲוָה בֵין כָּל תּוֹשָׁבֶיהָ.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 May Gd who grants dominion to rulers and responsibility to citizens,
 whose kingdom is all eternities –
@@ -35,7 +35,7 @@ and inspire all its inhabitants with love and brotherhood.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 בְּרַחֲמָיו הָרַבִּים 
 יְעַקֵּר וִישַׁבֵּר אֶת תַּרְבוּת הָאַכְזָרִיּוּת וְהַשִּׂנְאָה
@@ -48,7 +48,7 @@ and inspire all its inhabitants with love and brotherhood.
 כַּמַּיִם לַיָּם מְכַסִּים. <span class="citation">(ישעיהו יא:ט, חבקוק ב:יד)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 In Gd's great mercies, 
 uproot and destroy the culture of cruelty and hatred
@@ -62,13 +62,13 @@ as water covers the seas.[foot]Cf. Isaiah 11:9, Habakkuk 2:14[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 כֵּן יְהִי רָצוֹן, 
 וְנֹאמַר אָמֵן. 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Let this be Gd's will,
 and let us say amein.

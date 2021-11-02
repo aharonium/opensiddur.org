@@ -12,15 +12,15 @@ Date of Prayer: 12 June 2014
 
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Our Father in Heaven, 
 bless the United States of America 
@@ -30,12 +30,12 @@ in defense of freedom.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Bless our lawmakers--
 men and women who love to serve 
@@ -46,12 +46,12 @@ a moral compass to guide them to the right decisions.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 O Lord, 
 protect 
@@ -72,12 +72,12 @@ to be a friend of truth.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 May our beloved United States 
 be a place where dreams are worth dreaming, 
@@ -86,12 +86,12 @@ and where our tomorrows can be even better than our todays.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אָמֵן׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <em>Amen.</em>
 </div></td></tr>
@@ -104,7 +104,7 @@ and where our tomorrows can be even better than our todays.
 113th Congress, 2nd Session
 Issue: Vol. 160, No. 91 — Daily Edition (June 12, 2014)
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.c-span.org/video/standalone/?c4500744/rabbi-doniel-ginsberg-yeshiva-ateres-shmuel" width="512" height="330"]
+<iframe width=530 height=312 src='https://www.c-span.org/video/standalone/?c4500744/rabbi-doniel-ginsberg-yeshiva-ateres-shmuel' allowfullscreen='allowfullscreen' frameborder=0></iframe>[su_spacer]
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.congress.gov/113/crec/2014/06/12/CREC-2014-06-12-pt1-PgS3621-2.pdf" width="100%" height="900"]
 </body>

@@ -23,7 +23,7 @@ According to the poetry of the Midrash Tanḥuma, Bereshit 1:1, the words of the
 Parashat Mishpatim (Exodus 21:1-24:18) in the annual Torah reading cycle, is read on the fourth shabbat of the month of Sh'vat. The parashah is preceded by parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-shemot/parashat-yitro/parashat-yitro-color-coded-according-to-its-narrative-layers/">Yitro</a> (Exodus 18:1-20:22); parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-shemot/parashat-terumah/parashat-terumah-color-coded-according-to-its-narrative-layers/">Terumah</a> (Exodus 25:1-27:19) follows it.
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

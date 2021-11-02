@@ -24,36 +24,36 @@ I applaud you, Rabbi, on this special occasion and welcome you as the guest chap
 
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <h3>Opening Prayer Given by the Guest Chaplain:</h3>
 </div></td></tr>
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Our Father in Heaven!
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 The majestic sequoias 
 tower over the Alpine expanses, 
@@ -62,12 +62,12 @@ toward the sun.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 The mighty Colorado River 
 carved the awesome grandeur of the Grand Canyon eons ago, 
@@ -76,12 +76,12 @@ ever onward.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 The thrashing tide of the Atlantic 
 has brought innumerable ships to port,
@@ -91,12 +91,12 @@ without cease.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 I stand here today 
 among the jewels of our nation, 
@@ -108,12 +108,12 @@ as leaders of our land.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And I pray to You, Oh Lord, 
 that they too remain unsatisfied 
@@ -129,12 +129,12 @@ more than ever.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אָמֵן׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Amen.
 </div></td></tr>
@@ -149,7 +149,7 @@ Issue: Vol. 149, No. 96 — Daily Edition (June 26, 2003)
 
 link: https://chaplain.house.gov/archive/index.html?id=110
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.c-span.org/video/standalone/?c4502173/rabbi-milton-balkany-bais-yaakov-midwood" width="512" height="330"]
+<iframe width=530 height=312 src='https://www.c-span.org/video/standalone/?c4502173/rabbi-milton-balkany-bais-yaakov-midwood' allowfullscreen='allowfullscreen' frameborder=0></iframe>[su_spacer]
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.congress.gov/crec/2003/06/26/CREC-2003-06-26-pt1-PgH5941.pdf" width="100%" height="900"]
 </body>

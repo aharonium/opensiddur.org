@@ -26,26 +26,26 @@ Welcome, Rabbi Wiederhorn.
 </div>
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <h3>Opening Prayer Given by the Guest Chaplain:</h3>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Dear God, source of all strength, compassion, and peace:
 We know that our time on this Earth is preciously short, 
@@ -54,24 +54,24 @@ Open our eyes to the beauty of the world around us.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Remind us that each person we encounter 
 is created in Your image.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Provide us with the integrity, 
 wisdom, 
@@ -81,12 +81,12 @@ and learn from those whom we might otherwise not hear.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Protect the courageous men and women 
 who put their lives in danger each day 
@@ -94,12 +94,12 @@ so that our children can live safely and without fear.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Comfort us today as we mourn with the people of Missouri 
 following the tragic loss of life 
@@ -107,12 +107,12 @@ brought upon by the devastating forces of nature.[foot]This prayer was offered t
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And, finally, bless our leaders and advisers--
 including the dedicated men and women of this United States Congress, 
@@ -124,12 +124,12 @@ without forgetting the lessons of our past.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אָמֵן׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <em>Amen.</em>
 </div></td></tr>
@@ -144,7 +144,7 @@ Issue: Vol. 157, No. 72 — Daily Edition (May 24, 2011)
 
 Link: <a href="https://chaplain.house.gov/chaplaincy/display_gc.html?id=1568">https://chaplain.house.gov/chaplaincy/display_gc.html?id=1568</a>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.c-span.org/video/standalone/?c4501376/rabbi-jeremy-wiederhorn-conservative-synagogue" width="512" height="330"]
+<iframe width=530 height=312 src='https://www.c-span.org/video/standalone/?c4501376/rabbi-jeremy-wiederhorn-conservative-synagogue' allowfullscreen='allowfullscreen' frameborder=0></iframe>[su_spacer]
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.congress.gov/112/crec/2011/05/24/CREC-2011-05-24-pt1-PgH3347-3.pdf" width="100%" height="900"]
 </body>

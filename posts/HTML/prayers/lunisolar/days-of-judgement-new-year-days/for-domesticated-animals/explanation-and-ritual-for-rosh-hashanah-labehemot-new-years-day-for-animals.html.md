@@ -7,19 +7,19 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="commentary" lang="he">
 ראש השנה פרק א משנה א
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Seder Moed: Rosh Hashanah, Chapter 1, Mishnah 1
 </td></tr>
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="commentary" lang="he">
 ארבעה ראשי שנים הם.‏
 באחד בניסן ראה השנה למלכים ולרגלים.‏
@@ -30,7 +30,7 @@ Seder Moed: Rosh Hashanah, Chapter 1, Mishnah 1
 בית הלל אומרים, בחמשה עשר בו.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 There are four Roshei Shanim/New Year days. 
 The first of <em>Nisan</em> is the Rosh HaShanah for kings and pilgrimage holidays. 
 The first of <em>Elul</em> is the Rosh HaShanah for tithing <em>behemah</em>. 

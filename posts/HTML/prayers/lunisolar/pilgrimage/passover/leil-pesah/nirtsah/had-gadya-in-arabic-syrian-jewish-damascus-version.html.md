@@ -9,7 +9,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 With gratitude to the band <a href="http://www.edenmiqedem.com">Eden miQedem</a> for sharing the lyrics of this Syrian Jewish Damascus version of Ḥad Gadya in Arabic and Judeo-Arabic. For a slightly different Arabic version, see <a href="https://opensiddur.org/prayers/lunisolar/pilgrimage/passover/leil-pesach/waahid-jady-a-judeo-arabic-translation-of-had-gadya-by-isaac-gantwerk-mayer/">the lyrics</a> offered by Isaac Gantwerk Mayer.
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Aramaic (source)</th><th style="text-align: right;">Translation (Arabic)</th><th style="text-align: right;">Hebraization (Judeo-Arabic)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr>

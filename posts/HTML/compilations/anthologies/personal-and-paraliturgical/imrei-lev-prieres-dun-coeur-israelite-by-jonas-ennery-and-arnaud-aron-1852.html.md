@@ -21,7 +21,7 @@ After transcription and proofreading, this new digital edition will need to be e
 
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: left;">Source (French)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

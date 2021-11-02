@@ -34,25 +34,25 @@ On behalf of the House of Representatives we would like to thank him, not only f
 
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <h3>Opening Prayer Given by the Guest Chaplain:</h3>
 </div></td></tr>
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Today 
 people around the world 
@@ -65,12 +65,12 @@ who brought an end to the Holocaust
 by defeating the Nazi regime.
 </div></td></tr>
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Today, 
 as always, 
@@ -90,12 +90,12 @@ such an awesome responsibility demands
 that we turn to God in prayer.
 </div></td></tr>
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 May God on this day 
 and every day 
@@ -110,12 +110,12 @@ May you go from strength to strength
 in the service of God's children.
 </div></td></tr>
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 May God continue 
 to grant success 
@@ -139,7 +139,7 @@ Issue: Vol. 149, No. 63 — Daily Edition (April 30, 2003)
 
 link: <a href="https://chaplain.house.gov/archive/index.html?id=824">https://chaplain.house.gov/archive/index.html?id=824</a>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.c-span.org/video/standalone/?c4506992/user-clip-rabbi-manny-behar-queens-jewish-community-council-forest-hills-ny" width="512" height="330"]
+<iframe width=530 height=312 src='https://www.c-span.org/video/standalone/?c4506992/user-clip-rabbi-manny-behar-queens-jewish-community-council-forest-hills-ny' allowfullscreen='allowfullscreen' frameborder=0></iframe>[su_spacer]
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.congress.gov/crec/2003/04/30/CREC-2003-04-30-pt1-PgH3455-3.pdf" width="100%" height="900"]
 </body>

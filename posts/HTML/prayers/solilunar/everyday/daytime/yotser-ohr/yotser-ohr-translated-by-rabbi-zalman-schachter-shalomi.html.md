@@ -7,10 +7,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה 
 יְהֹוָה אֱלֹהֵינוּ
@@ -21,7 +21,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 וּבוֹרֵא אֶת הַכֹּל:
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 I bow before You,
 Yah, our God,
@@ -33,7 +33,7 @@ And creating what is.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הַמֵּאִיר 
 לָאָרֶץ 
@@ -48,7 +48,7 @@ And creating what is.
 מָלְאָה הָאָרֶץ קִנְיָנֶךָ. 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 You bring on light 
 With compassion to the world 
@@ -64,14 +64,14 @@ All there is, is Yours.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הַמֶּלֶךְ הַמְּרוֹמָם לְבַדּוֹ מֵאָז, 
 הַמְּשֻׁבָּח וְהַמְּפוֹאָר וְהַמִּתְנַשֵּׂא 
 מִימוֹת עוֹלָם. 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Yah, our Master!
 How mighty is Your fame 
@@ -79,7 +79,7 @@ All over Earth.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֱלֹהֵי עוֹלָם, 
 בְּרַחֲמֶיךָ הָרַבִּים 
@@ -90,13 +90,13 @@ All over Earth.
 מִשְׂגַּב בַּעֲדֵנוּ. 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֵל בָּרוּךְ גְּדוֹל דֵּעָה, 
 הֵכִין וּפָעַל זָהֳרֵי חַמָּה. 
@@ -107,7 +107,7 @@ All over Earth.
 תָּמִיד מְסַפְּרִים כְּבוֹד אֵל וּקְדוּשָתוֹ. 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 &nbsp;
 Such glory, 
@@ -115,7 +115,7 @@ You radiate from the Heavens.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 תִּתְבָּרַךְ יְהֹוָה אֱלֹהֵינוּ
 בַּשָּׁמַיִם מִמַּעַל 
@@ -126,7 +126,7 @@ You radiate from the Heavens.
 סֶלָה:
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 I am awed 
 When I see Your skies,
@@ -137,7 +137,7 @@ You have arranged.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 תִּתְבָּרַךְ לָנֶצַח צוּרֵנוּ מַלְכֵּנוּ וְגוֹאֲלֵנוּ בּוֹרֵא קְדוֹשִׁים, 
 יִשְׁתַּבַּח שִׁמְךָ לָעַד מַלְכֵּנוּ יוֹצֵר מְשָׁרְתִים, 
@@ -157,18 +157,18 @@ You have arranged.
 וּמַקְדִּישִׁין וּמַמְלִיכִין.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And the angels;
 <strong>Ophanim</strong>,
@@ -180,18 +180,18 @@ Blazing ones, the galaxies.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֶת שֵׁם הָאֵל הַמֶּלֶךְ הַגָּדוֹל הַגִּבּוֹר וְהַנּוֹרָא קָדוֹשׁ הוּא. 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְכֻלָּם מְקַבְּלִים עֲלֵיהֶם עֹל מַלְכוּת שָׁמַיִם זֶה מִזֶּה, 
 וְנוֹתְנִים בְּאַהֲבָה רְשׁוּת זֶה לָזֶה לְהַקְדִּישׁ לְיוֹצְרָם בְּנַחַת רוּחַ בְּשָׂפָה בְרוּרָה וּבִנְעִימָה, 
@@ -204,7 +204,7 @@ Blazing ones, the galaxies.
 כְּבוֹדוֹ:
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 All in concert, 
 Adore and venerate You,
@@ -218,14 +218,14 @@ With Your radiance.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְהָאוֹפַנִּים וְחַיּוֹת הַקֹדֶשׁ בְּרַעַשׁ גָּדוֹל מִתְנַשְּׂאִים לְעֻמַּת שְׂרָפִים, לְעֻמָּתָם מְשַׁבְּחִים וְאוֹמְרִים:
 בָּרוּךְ כְּבוֹד יְהֹוָה
 מִמְּקוֹמוֹ:
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 They plead also…
 <strong>Bring this glory to radiate to us
@@ -233,7 +233,7 @@ Also on the level where we live.</strong>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 לָאֵל בָּרוּךְ נְעִימוֹת יִתְּנוּ, לַמֶּלֶךְ אֵל חַי וְקַיָּם, 
 זְמִירוֹת יֹאמְרוּ וְתִשְׁבָּחוֹת יַשְׁמִיעוּ, 
@@ -249,7 +249,7 @@ Also on the level where we live.</strong>
 אֲדוֹן הַנִּפְלָאוֹת, 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 They all offer to You, blessed God
 All pleasure in worship.
@@ -266,7 +266,7 @@ Master of marvels.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הַמְחַדֵּשׁ בְּטוּבוֹ 
 בְּכָל יוֹם 
@@ -276,7 +276,7 @@ Master of marvels.
 וְהִתְקִין מְאוֹרוֹת מְשַׂמֵּחַ עוֹלָמוֹ אֲשֶׁר בָּרָא. 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 In Your benevolence
 You renew each day, 
@@ -285,7 +285,7 @@ The work of Creation.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אוֹר חָדָשׁ עַל צִיּוֹן תָּאִיר, 
 וְנִזְכֶּה כֻלָּנוּ (יַחַד) בִּמְהֵרָה לְאוֹרוֹ. 
@@ -293,7 +293,7 @@ The work of Creation.
 יוֹצֵר הַמְּאוֹרוֹת:
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Please, focus, new light on Tsiyyon
 And let us all receive its benefit.

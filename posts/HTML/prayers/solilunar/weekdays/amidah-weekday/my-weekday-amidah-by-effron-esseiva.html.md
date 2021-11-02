@@ -7,23 +7,23 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 אֲ֭דֹנָי שְׂפָתַ֣י תִּפְתָּ֑ח
 וּ֝פִ֗י יַגִּ֥יד תְּהִלָּתֶֽךָ:[foot] ר' יוחנן בן נפחא (ברכות ט:) תהלים נא:טז[/foot]
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 G!d, Open up my lips 
 as I begin your praise.
 </div></td>
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 א. אבותינו 
 
@@ -32,13 +32,13 @@ as I begin your praise.
 בָּרוּךְ אַתָּה יְיָ מָגֵן אַבְרָהָם וְעֶזְרַת שָׂרָה.
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 1. God of Ancestors
 </div></td>
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 ב. גבורות 
 
@@ -48,13 +48,13 @@ as I begin your praise.
 וְנֶאֱמָן אַתָּה לְהַחֲיוֹת מֵתִים. בָּרוּךְ אַתָּה יְיָ מְחַיֵּה הַמֵּתִים:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 2. Mighty God
 </div></td>
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 ג. קדשה
 
@@ -68,13 +68,13 @@ as I begin your praise.
 לְדוֹר וָדוֹר נַגִּיד גָּדְלֶךָ, וּלְנֵצַח נְצָחִים קְדֻשָּׁתְֿךָ נַקְדִּישׁ, וְשִׁבְחֲךָ אֱלֹהֵֽינוּ, מִפִּינוּ לֹא יָמוּשׁ לְעוֹלָם וָעֶד, כִּי אֵל מֶלֶךְ גָּדוֹל וְקָדוֹשׁ אָתָּה: בָּרוּךְ אַתָּה יְיָ הָאֵל הַקָּדוֹשׁ:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 3. Holiness
 </div></td>
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 ג. קדשת השם 
 
@@ -82,7 +82,7 @@ as I begin your praise.
 בָּרוּךְ אַתָּה יְיָ הָאֵל הַקָּדוֹשׁ:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 3. Holiness of your Name
 
 Awesome creator of angels and holy beings, we seek your presence every day and Praise you Ribono shel Olam, Master of the Universe.
@@ -90,14 +90,14 @@ Awesome creator of angels and holy beings, we seek your presence every day and P
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
  ד. דעת 
 
 בָּרוּךְ אַתָּה יְיָ חוֹנֵן הַדָּֽעַת:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 4. Knowledge
 
 We aspire to knowledge and wisdom.
@@ -106,14 +106,14 @@ Blessed are you all knowing E'in Sof, Endless One, Source of Wisdom.
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 ה. תשובה
 
 בָּרוּךְ אַתָּה יְיָ הָרוֹצֶה בִתְשׁוּבָה:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 5. Return
 
 With you there is never a point of no return. Blessed are you Ro’eh Israel, Shepherd of Israel who wants us to return to your presence.
@@ -121,14 +121,14 @@ With you there is never a point of no return. Blessed are you Ro’eh Israel, Sh
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 ו. סליחה 
 
 בָּרוּךְ אַתָּה יְיָ חַנּוּן, הַמַּרְבֶּה לִסְלֽוֹחַ: 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 6. Forgiveness
 
 We always know when we act selfishly, with disregard to others. Blessed are you HaRachaman, who always forgives.
@@ -136,14 +136,14 @@ We always know when we act selfishly, with disregard to others. Blessed are you 
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 ז. גאולת ישראל
 
 בָּרוּךְ אַתָּה יְיָ גּוֹאֵל יִשְׂרָאֵל:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 7. Redemption of Israel
 
 Hashem, see our plight. Praised are you HaKadosh Baruch hu, Our liberator and redeemer.
@@ -151,14 +151,14 @@ Hashem, see our plight. Praised are you HaKadosh Baruch hu, Our liberator and re
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 ח. רפואה
 
 בָּרוּךְ אַתָּה יְיָ רוֹפֵא, חוֹלֵי עַמּוֹ יִשְׂרָאֵל:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 8. Healing
 
 Healer of hearts, minds, souls, healer of relationships; families, friends and loved ones. Give us strength and insight into our ailments and discords for a speedy recovery. Blessed are you, yad chazakah, strong hand, healer of the sick of Israel.
@@ -166,14 +166,14 @@ Healer of hearts, minds, souls, healer of relationships; families, friends and l
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 ט. שפע 
 
 בָּרוּךְ אַתָּה יְיָ מְבָרֵךְ הַשָּׁנִים:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 9. Abundance
 
 Boreh, Creator of the infinite universe, of dancing planets that provide the seasons that we depend on for our comfort and source of food. Blessed are you Boreh, Creator of the Cycles.
@@ -181,14 +181,14 @@ Boreh, Creator of the infinite universe, of dancing planets that provide the sea
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 י. סוף הגלות
 
 בָּרוּךְ אַתָּה יְיָ מְקַבֵּץ, נִדְחֵי עַמּוֹ יִשְׂרָאֵל:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 10. End to Exile
 
 Tzur Israel, Our Rock and inspiration to be free, gather us in from the four corners of the world. Blessed are you Tzur Israel, who <i>ends the Galut </i>for his people Yisrael.
@@ -196,14 +196,14 @@ Tzur Israel, Our Rock and inspiration to be free, gather us in from the four cor
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 יא. צדקה ומשפט 
 
 בָּרוּךְ אַתָּה יְיָ מֶֽלֶךְ, אוֹהֵב צְדָקָה וּמִשְׁפָּט: 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 11. Charity and Justice
 
 Nurture our role models, gemilut chesed and justice in all nations of the world. Blessed are you Melech HaMelachim who loves righteousness and justice.
@@ -211,14 +211,14 @@ Nurture our role models, gemilut chesed and justice in all nations of the world.
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 יב. סוף רע 
 
 בָּרוּךְ אַתָּה יְיָ שׁוֹבֵר אֹיְֿבִים וּמַכְנִֽיעַ זֵדִים:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 12. End to Evil
 
 Let there be no time and no space where evil can flourish. Blessed are you Adir, Strong One who defeats enemies of <i>love and compassion</i> and humbles <i>all</i>.
@@ -226,14 +226,14 @@ Let there be no time and no space where evil can flourish. Blessed are you Adir,
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 יג. הצדיקים
 
 בָּרוּךְ אַתָּה יְיָ מִשְׁעָן וּמִבְטָח לַצַּדִּיקִים:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 13. The righteous
 
 Take those that put trust in you under the wings of the Shechina. Blessed are you HaKadosh Baruch hu, who provides the support and energy for the Tzadikim.
@@ -241,14 +241,14 @@ Take those that put trust in you under the wings of the Shechina. Blessed are yo
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 יד. בונה ירושלים 
 
 בָּרוּךְ אַתָּה יְיָ בּוֹנֵה יְרוּשָׁלָםִ: 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 14. Restoring Jerusalem
 
 Make Jerusalem the eternal symbol of our ideals. Blessed are you Boreh, Creator, who rebuilds Jerusalem. 
@@ -256,14 +256,14 @@ Make Jerusalem the eternal symbol of our ideals. Blessed are you Boreh, Creator,
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 טו. ישועה
 
 בָּרוּךְ אַתָּה יְיָ מַצְמִֽיחַ, קֶֽרֶן יְשׁוּעָה: 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 15. Salvation
 
 Hashem, there are more times that we need your rescue than not. Blessed are you Avinu Malkeinu who causes salvation to flourish.
@@ -271,14 +271,14 @@ Hashem, there are more times that we need your rescue than not. Blessed are you 
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 טז. שומע תפילה
 
 שְׁמַע קוֹלֵֽנוּ יְיָ אֱלֹהֵֽינוּ חוּס וְרַחֵם עָלֵֽינוּ וְקַבֵּל בְּרַחֲמִים וּבְרָצוֹן אֶת תְּפִלָּתֵֽנוּ כִּי אֵל שׁוֹמֵעַ תְּפִלּוֹת וְתַחֲנוּנִים אָֽתָּה, וּמִלְּֿפָנֶֽיךָ מַלְכֵּֽנוּ רֵיקָם אַל תְּשִׁיבֵֽנוּ, כִּי אַתָּה שׁוֹמֵֽעַ תְּפִלַּת עַמְּֿךָ יִשְׂרָאֵל בְּרַחֲמִים. בָּרוּךְ אַתָּה יְיָ שׁוֹמֵֽעַ תְּפִלָּה:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 16. Hear the prayer
 
 You hear the prayers of your people Israel with compassion. Blessed are you our G!d who hears prayer.
@@ -286,14 +286,14 @@ You hear the prayers of your people Israel with compassion. Blessed are you our 
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 יז. השם בציון
 
 רְצֵה, יְיָ אֱלֹהֵֽינוּ, בְּעַמְּֿךָ יִשְׂרָאֵל וּבִתְפִלָּתָם, וּתְפִלָּתָם בְּאַהֲבָה תְקַבֵּל בְּרָצוֹן, וּתְהִי לְרָצוֹן תָּמִיד עֲבוֹדַת יִשְׂרָאֵל עַמֶּֽךָ. וְתֶחֱזֶֽינָה עֵינֵֽינוּ בְּשׁוּבְֿךָ לְצִיּוֹן בְּרַחֲמִים. בָּרוּךְ אַתָּה יְיָ הַמַּחֲזִיר שְׁכִינָתוֹ לְצִיּוֹן:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 17. Return the Shechina to Zion
 
 Be pleased with us and with the prayers of our people. Blessed are you G!d who restores the Shechina to Zion.
@@ -301,14 +301,14 @@ Be pleased with us and with the prayers of our people. Blessed are you G!d who r
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 יח. להודות לך
 
 מוֹדִים אֲנַֽחְנוּ לָךְ, שָׁאַתָּה הוּא יְיָ אֱלֹהֵֽינוּ וֵאלֹהֵי אֲבוֹתֵֽינוּ וְאִמּוֹתֵינוּ לְעוֹלָם וָעֶד. צוּר חַיֵּֽינוּ, מָגֵן יִשְׁעֵֽנוּ אַתָּה הוּא לְדוֹר וָדוֹר. בָּרוּךְ אַתָּה יְיָ הַטּוֹב שִׁמְךָ וּלְךָ נָאֶה לְהוֹדוֹת:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 18. Bowing to you
 
 We give thanks to you for being our G!d and the G!d of our ancestors for ever. You are always our rock and shield of rescue in all generations. Blessed are you Hashem, G!d of the Good Name, it is good to bow to you and give thanks.
@@ -316,14 +316,14 @@ We give thanks to you for being our G!d and the G!d of our ancestors for ever. Y
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 יט. שלום על ישראל
 
 שִׂים שָׁלוֹם טוֹבָה וּבְרָכָה חַיִּים חֵן וָחֶֽסֶד וְרַחֲמִים עָלֵֽינוּ וְעַל כָּל יִשְׂרָאֵל עַמֶּֽךָ וְאֶת הַעוֹלָם כּוּלוֺ. בָּרוּךְ אַתָּה יְיָ הַמְֿבָרֵךְ אֶת עַמּוֹ יִשְׂרָאֵל וְאֶת הַעוֹלָם כּוּלוֺ בַּשָּׁלוֹם:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 19. Peace to Israel
 
 Grant peace, happiness, blessing, beauty, loving kindness and compassion to us and to all Israel your people and the whole world. O G!d, who blesses his people Israel and the whole world with peace.

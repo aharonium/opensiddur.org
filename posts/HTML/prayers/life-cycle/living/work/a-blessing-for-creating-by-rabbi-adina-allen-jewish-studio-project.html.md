@@ -7,10 +7,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 בָּרוּךְ אַתָּה ה׳ מָקוֹר הַחַיִּים
 שֶׁבָּרָא אוֹתָנוּ בְּצַלְמוֹ, 
@@ -19,7 +19,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 בָּרוּךְ אַתָּה ה׳ יוֺצֵר יְצִירִים׃
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Blessed are You, Source of Life
 Who created us in Your image[foot]Genesis 1:27[/foot]
 and invites us to renew daily, perpetually, 

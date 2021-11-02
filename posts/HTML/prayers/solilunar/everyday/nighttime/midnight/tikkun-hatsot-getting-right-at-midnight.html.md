@@ -28,7 +28,7 @@ Though there is much variance in the way this ritual became practiced among diff
 ק֣וּמִי׀ רֹ֣נִּי <font color="brown">בליל</font> <font color="blue">בַלַּ֗יְלָה</font> לְרֹאשׁ֙ אַשְׁמֻר֔וֹת שִׁפְכִ֤י כַמַּ֙יִם֙ לִבֵּ֔ךְ נֹ֖כַח פְּנֵ֣י אֲדֹנָ֑י שְׂאִ֧י אֵלָ֣יו כַּפַּ֗יִךְ עַל־נֶ֙פֶשׁ֙ עֽוֹלָלַ֔יִךְ הָעֲטוּפִ֥ים בְּרָעָ֖ב בְּרֹ֥אשׁ כָּל־חוּצֽוֹת׃ 
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Arise, cry out in the night,
 At the beginning of the watches;
 Pour out thy heart like water
@@ -55,7 +55,7 @@ They also cited the words of <em>Tehillim</em>:
 ‏חֲצֽוֹת־לַ֗יְלָה אָ֭קוּם לְהוֹד֣וֹת לָ֑ךְ עַ֝֗ל מִשְׁפְּטֵ֥י צִדְקֶֽךָ׃
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 At midnight I will rise up to give thanks to You, for your righteous judgment. (Psalms 119:62)
 </td>
 </tr>
@@ -83,7 +83,7 @@ At the very beginning of his <em>Shulḥan Arukh</em> (Code of Jewish Law), <a h
 ג. ראוי לכל ירא שמים שיהא מיצר ודואג על חורבן בית המקדש.
 </span></div></td>
  
-<td width="53%">
+<td style="vertical-align:top;">
 
 1. One should strengthen himself like a lion to get up in the morning to serve his creator. He should get up early enough to welcome in the dawn.
 2. One who wishes to get up early and pray before his creator should try to do so at the times where the angels change shifts. <strong>This occurs after one third of the night</strong>, after two thirds and after the night is over. 

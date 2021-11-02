@@ -2,7 +2,7 @@
 <head></head>
 <body>
 Title: יַאן יִכְּרוּ | Yan ikru :: a Judeo-Berber Translation of Ḥad Gadya<br />
-Primary contributor: isaac-gantwerk.mayer<br />
+Primary contributor: isaac-gantwerk-mayer<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=24621">http://opensiddur.org/?p=24621</a>
 <p />
 <hr />
@@ -28,7 +28,7 @@ Some notes for those unfamiliar with the incredibly complicated world of Tamazi�
 
 <hr />
 
-<table style="width:100%;margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="width: 100%; margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Aramaic (source)</th><th style="text-align: left;">Translation (Tifinagh/Berber)</th><th style="text-align: right;">Hebraization (Judeo-Tamaziɣt/Berber)</th><th style="text-align: left;">Romanization (Tamaziɣt-Latin)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="25%">

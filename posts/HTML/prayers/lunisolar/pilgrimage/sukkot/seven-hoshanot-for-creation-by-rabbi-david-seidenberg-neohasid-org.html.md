@@ -19,7 +19,7 @@ The second liturgy [presented here], a cycle of seven Hoshanot roughly correspon
 You are invited to change, add to, or subtract from this liturgy in any way you like. Download this and other hoshanot from here or from <a href="http://neohasid.org/zman/sukkot/hoshanafortheplanet/">neohasid.org</a>. ~ R. David Seidenberg
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute&nbsp;a&nbsp;translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

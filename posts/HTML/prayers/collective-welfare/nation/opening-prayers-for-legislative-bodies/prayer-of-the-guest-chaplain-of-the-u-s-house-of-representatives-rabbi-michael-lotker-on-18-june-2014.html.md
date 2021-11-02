@@ -26,26 +26,26 @@ For his spiritual leadership and thoughtful words, I would like to thank Rabbi L
 
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <h3>Opening Prayer Given by the Guest Chaplain:</h3>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Dear God, 
 You sustain us and inspire us. 
@@ -62,12 +62,12 @@ to do Your work.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 The very name of this Nation, 
 the United States, 
@@ -79,12 +79,12 @@ of such unity.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 I therefore humbly request 
 Your most ancient blessing 
@@ -93,7 +93,7 @@ and for their elected Representatives.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 יְבָרֶכְךָ֥ יְהוָ֖ה 
 וְיִשְׁמְרֶֽךָ׃
@@ -103,7 +103,7 @@ and for their elected Representatives.
 וְיָשֵׂ֥ם לְךָ֖ שָׁלֽוֹם׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 "May God bless you 
 and protect you. 
@@ -114,12 +114,12 @@ and may God grant you peace."[foot]The Birkat Kohanim (Priestly Blessing) Number
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אָמֵן׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <em>Amen.</em>
 </div></td></tr>
@@ -134,7 +134,7 @@ Issue: Vol. 160, No. 95 — Daily Edition (June 18, 2014)
 
 Link: <a href="https://chaplain.house.gov/chaplaincy/display_gc.html?id=2124">https://chaplain.house.gov/chaplaincy/display_gc.html?id=2124</a>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.c-span.org/video/standalone/?c4510456/rabbi-michael-lotker-temple-ner-ami-camarillo-ca" width="512" height="330"]
+<iframe width=530 height=312 src='https://www.c-span.org/video/standalone/?c4510456/rabbi-michael-lotker-temple-ner-ami-camarillo-ca' allowfullscreen='allowfullscreen' frameborder=0></iframe>[su_spacer]
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.congress.gov/113/crec/2014/06/18/CREC-2014-06-18-pt1-PgH5404-4.pdf" width="100%" height="900"]
 </body>

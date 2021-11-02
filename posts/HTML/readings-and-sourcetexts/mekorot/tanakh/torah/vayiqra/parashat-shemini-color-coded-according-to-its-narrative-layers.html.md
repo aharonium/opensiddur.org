@@ -29,7 +29,7 @@ The kernel of biblical text 'E,' its early supplemental layer 'J', and its later
 Parashat Sh'mini (Leviticus 9:1-11:47) in the annual Torah reading cycle, is read on the third shabbat of the month of Nissan, or the third shabbat in Adar ב during a Jewish leap year. The parashah is preceded by parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-vayiqra/parashat-tsav/parashat-tsav-color-coded-according-to-its-narrative-layers/">Tsav</a> (Leviticus 6:1-8:36); parashat <a href="https://opensiddur.org/readings-and-sourcetexts/mekorot/tanakh/torah/vayiqra/parashat-tazria-color-coded-according-to-its-narrative-layers/">Tazria</a> (Leviticus 12:1-13:59), follows it. 
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

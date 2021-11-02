@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Initials (Hebrew)</th><th style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (Spanish)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="16%">
@@ -23,7 +23,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 תַּתִּיר צְרוּרָה
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%">
+<td style="vertical-align:top;">
 <div class="spanish" lang="es">
 Ruego con fuerça de grandeza de tu derecha, 
 suelta angustiada
@@ -43,7 +43,7 @@ suelta angustiada
 שַׂגְּבֵנוּ טַהֲרֵנוּ נוֹרָא
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%">
+<td style="vertical-align:top;">
 <div class="spanish" lang="es">
 recibe exclamacion de tu pueblo
 En fortece nos munda nos timido
@@ -63,7 +63,7 @@ En fortece nos munda nos timido
 כְּבָבַת שׁוֹמְרֵם
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%">
+<td style="vertical-align:top;">
 <div class="spanish" lang="es">
 ruego fuerte buscantes tu unidad
 como niñeta guarda 
@@ -83,7 +83,7 @@ como niñeta guarda
 תָּמִיד גּוֹמְלֵם
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%">
+<td style="vertical-align:top;">
 <div class="spanish" lang="es">
 bendizelos lipialos piadades de tu justedad
 contino les galardona fuerte santo
@@ -103,7 +103,7 @@ contino les galardona fuerte santo
 נַהֵל עֲדָתֶךָ
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%">
+<td style="vertical-align:top;">
 <div class="spanish" lang="es">
 Con muchedumbre de tu bien guia
 la tu compaña,
@@ -123,7 +123,7 @@ la tu compaña,
 זוֹכְרֵי קְדוּשָׁתֶךָ
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%">
+<td style="vertical-align:top;">
 <div class="spanish" lang="es">
 unico altivo a tu pueblo atiede
 recordantes tu santidad
@@ -144,7 +144,7 @@ recordantes tu santidad
 יוֹדֵעַ תַּעֲלוּמוֹת׃
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%">
+<td style="vertical-align:top;">
 <div class="spanish" lang="es">
 nostro gemido recibe
 y oye nostra exclamacion

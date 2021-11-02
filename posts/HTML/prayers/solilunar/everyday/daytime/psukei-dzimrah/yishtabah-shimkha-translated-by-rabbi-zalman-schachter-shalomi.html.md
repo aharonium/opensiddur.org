@@ -7,10 +7,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 יִשְׁתַּבַּח שִׁמְךָ 
 לָעַד מַלְכֵּנוּ. 
@@ -21,7 +21,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֹתֵינוּ: 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Your Name be praised, 
 Always, Majestic One.
@@ -34,7 +34,7 @@ Time and again:
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 שִׁיר וּשְׁבָחָה. 
 הַלֵּל וְזִמְרָה. 
@@ -48,7 +48,7 @@ Time and again:
 וּמֵעוֹלָם וְעַד עוֹלָם אַתָּה אֵל: 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Music and Celebration,[foot]The context here, naturally flowing from "Az Yashir," is the Shirat HaYam. Cf. Mekhilta d'Rabbi Yishmael 14:8:2 on Exodus 15:13. Also see, Pirkei_DeRabbi_Eliezer 42.13, Zohar 2:132a:3[/foot] 
 Jubilation and Symphony,[foot]Cf. Otzar Midrashim, Maaseh Beraishit & Maaseh Merkavah, Seder Rabbah d'Beraishit d'Merkavah 9[/foot] 
@@ -63,7 +63,7 @@ In every realm.[foot]i.e. first and last (alpha/omega) Cf. Rashi on Psalms 90:2:
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה יְהֹוָה.
 אֵל מֶלֶךְ גָּדוֹל 
@@ -71,7 +71,7 @@ In every realm.[foot]i.e. first and last (alpha/omega) Cf. Rashi on Psalms 90:2:
 בַּתִּשְׁבָּחוֹת. 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 We worship you, Yah,
 Generous, Great, Regal One,
@@ -80,7 +80,7 @@ to whom we offer all these.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֵל הַהוֹדָאוֹת. 
 אֲדוֹן הַנִּפְלָאוֹת.
@@ -93,7 +93,7 @@ to whom we offer all these.
  הָעוֹלָמִים:
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Our god, whom we appreciate,[foot]Cf. Jerusalem Talmud Berakhot 10b:1; Taanit 6b:17; Taanit 7a:1[/foot] 
 Source of all wonder,[foot]Cf. Otzar Midrashim, "Avraham our Father, The Story of Avraham our Father and Nimrod"[/foot] 
@@ -107,12 +107,12 @@ Through all the worlds.[foot]Cf. Deuteronomy 32:40, Daniel 6:27[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אָמֵן
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Amen
 </div></td></tr>

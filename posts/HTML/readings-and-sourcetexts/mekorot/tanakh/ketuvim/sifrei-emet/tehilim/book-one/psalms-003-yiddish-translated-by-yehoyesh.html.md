@@ -7,15 +7,15 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: right;">Translation (Yiddish)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>א</sup>&nbsp;לָמָּה רָגְשׁוּ גוֹיִם וּלְאֻמִּים יֶהְגּוּ־רִיק׃ <sup>ב</sup>&nbsp;יִתְיַצְּבוּ מַלְכֵי־אֶרֶץ וְרוֹזְנִים נוֹסְדוּ־יָחַד עַל־יְהוָה וְעַל־מְשִׁיחוֹ׃ <sup>ג</sup>&nbsp;נְנַתְּקָה אֶת־מוֹסְרוֹתֵימוֹ וְנַשְׁלִיכָה מִמֶּנּוּ עֲבֹתֵימוֹ׃ <sup>ד</sup>&nbsp;יוֹשֵׁב בַּשָּׁמַיִם יִשְׂחָק אֲדֹנָי יִלְעַג־לָמוֹ׃ <sup>ה</sup>&nbsp;אָז יְדַבֵּר אֵלֵימוֹ בְאַפּוֹ וּבַחֲרוֹנוֹ יְבַהֲלֵמוֹ׃ <sup>ו</sup>&nbsp;וַאֲנִי נָסַכְתִּי מַלְכִּי עַל־צִיּוֹן הַר־קָדְשִׁי׃ <sup>ז</sup>&nbsp;אֲסַפְּרָה אֶל חֹק יְהוָה אָמַר אֵלַי בְּנִי אַתָּה אֲנִי הַיּוֹם יְלִדְתִּיךָ׃ <sup>ח</sup>&nbsp;שְׁאַל מִמֶּנִּי וְאֶתְּנָה גוֹיִם נַחֲלָתֶךָ וַאֲחֻזָּתְךָ אַפְסֵי־אָרֶץ׃ <sup>ט</sup>&nbsp;תְּרֹעֵם בְּשֵׁבֶט בַּרְזֶל כִּכְלִי יוֹצֵר תְּנַפְּצֵם׃ <sup>י</sup>&nbsp;וְעַתָּה מְלָכִים הַשְׂכִּילוּ הִוָּסְרוּ שֹׁפְטֵי אָרֶץ׃ <sup>יא</sup>&nbsp;עִבְדוּ אֶת־יְהוָה בְּיִרְאָה וְגִילוּ בִּרְעָדָה׃ <sup>יב</sup>&nbsp;נַשְּׁקוּ־בַר פֶּן־יֶאֱנַף וְתֹאבְדוּ דֶרֶךְ כִּי־יִבְעַר כִּמְעַט אַפּוֹ אַשְׁרֵי כָּל־חוֹסֵי בוֹ׃
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="yiddish" lang="yi">
 
 <sup>1</sup>&nbsp;אַ מזמור פֿון דָוִדן, װען ער איז אַנטלאָפֿן פֿון זײַןזון אַבֿשָלומען. 

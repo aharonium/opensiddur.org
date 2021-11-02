@@ -13,7 +13,7 @@ The earliest known appearance of "Ḥad Gadya," by an unknown author, can be fou
 
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Aramaic</th><th style="text-align: right;">Yiddish</th><th style="text-align: left;">Transliteration (Yiddish)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr>
@@ -30,7 +30,7 @@ The earliest known appearance of "Ḥad Gadya," by an unknown author, can be fou
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="romanized-yiddish" lang="yi"> 
+<div class="romanized-transliteration" lang="yi"> 
 Ein tsikleyn, eyn tsikleyn,
 </div>
 </td>
@@ -55,7 +55,7 @@ One little goat, one little goat.
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="romanized-yiddish" lang="yi"> 
+<div class="romanized-transliteration" lang="yi"> 
 do hat gikoyft meyn fetrleyn, um tsvey pfening, eyn tsikleyn, eyn tsikleyn.
 </div>
 </td>
@@ -80,7 +80,7 @@ do hat gikoyft meyn fetrleyn, um tsvey pfening, eyn tsikleyn, eyn tsikleyn.
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="romanized-yiddish" lang="yi"> 
+<div class="romanized-transliteration" lang="yi"> 
 Da komt di ketsleyn un esht do tsikleyn do da hat gikoyft meyn fetrleyn, um tsvey pfening, eyn tsikleyn, eyn tsikleyn.
 </div>
 </td>
@@ -105,7 +105,7 @@ A cat came and ate the goat that my father bought for two <em>zuzim</em>. One li
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="romanized-yiddish" lang="yi"> 
+<div class="romanized-transliteration" lang="yi"> 
 Da kam do hintleyn, un beysht do ketsleyn, do da hat gigeshin do tsikleyn, do da hat gikoyft meyn fetrleyn, um tsvey pfening, eyn tsikleyn, eyn tsikleyn.
 </div>
 </td>
@@ -130,7 +130,7 @@ A dog came and bit the cat that ate the goat that my father bought for two <em>z
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="romanized-yiddish" lang="yi"> 
+<div class="romanized-transliteration" lang="yi"> 
 Da kam do shtekleyn, un shlagt do hintleyn, do da hat gbishn do ketsleyn, do da hat gigeshn do tsikleyn, do da hat gikoyft meyn fetrleyn, um tsvey pfening, eyn tsikleyn, eyn tsikleyn.
 </div>
 </td>
@@ -155,7 +155,7 @@ A stick came and hit the dog that bit the cat that ate the goat that my father b
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="romanized-yiddish" lang="yi"> 
+<div class="romanized-transliteration" lang="yi"> 
 Da kam do fayrleyn un far brent do shtekleyn, do hat gishlagin do hintleyn, do da hat gbishn do ketsleyn, do da hat gigeshn do tsikleyn, do da hat gikoyft meyn fetrleyn, um tsvey pfening, eyn tsikleyn, eyn tsikleyn.
 </div>
 </td>
@@ -180,7 +180,7 @@ A fire came and burned the stick that hit the dog that bit the cat that ate the 
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="romanized-yiddish" lang="yi"> 
+<div class="romanized-transliteration" lang="yi"> 
 Da kam do washrleyn, un far lesht dash fayrleyn, dash da hat far brent do shtekleyn, do da hat gishlagn do hintleyn, do da hat gbishn do ketsleyn, do da hat gigeshn do tsikleyn, do da hat gikoyft meyn fetrleyn, um tsvey pfening, eyn tsikleyn, eyn tsikleyn.
 </div>
 </td>
@@ -205,7 +205,7 @@ Water came and put out the fire that burned the stick that hit the dog that bit 
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="romanized-yiddish" lang="yi"> 
+<div class="romanized-transliteration" lang="yi"> 
 Da kom der oks un trinkt dash washrleyn, do da hat far lesht do fayrleyn, do da hat par brent do shtekleyn, do da hat gishlagn do hintleyn, do da hat gbishn do ketsleyn, do da hat gigeshn do tsikleyn, do da hat gikoyft meyn fetrleyn, um tsvey pfening, eyn tsikleyn, eyn tsikleyn.
 </div>
 </td>
@@ -230,7 +230,7 @@ An ox came and drank the water that put out the fire that burned the stick that 
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="romanized-yiddish" lang="yi"> 
+<div class="romanized-transliteration" lang="yi"> 
 Da kom der shoḥeyt un shekht den oksin, der da hat gitrunkn dash washrleyn, do da hat far lesht do fayrleyn, do da hat far brent do shtekleyn, do da hat gishlagn do hintleyn, do da hat gbishn do ketsleyn, do da hat gigeshn do tsikleyn, do da hat gikoyft meyn fetrleyn, um tsvey pfening, eyn tsikleyn, eyn tsikleyn.
 </div>
 </td>
@@ -255,7 +255,7 @@ A butcher came and slaughtered the ox that drank the water that put out the fire
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="romanized-yiddish" lang="yi"> 
+<div class="romanized-transliteration" lang="yi"> 
 Da kom der Malakh haMovet un shekht den shoḥeyt, der da hat gishekht den oksin, der da hat gitrunkn do washrleyn, do da hat far lesht dash fayrleyn, do da hat far brent do shtekleyn, do da hat gishlagn do hintleyn, do da hat gbishn do ketsleyn, do da hat gigeshn do tsikleyn, do da hat gikoyft meyn fetrleyn, um tsvey pfening, eyn tsikleyn, eyn tsikleyn.
 </div>
 </td>
@@ -280,7 +280,7 @@ The Angel of Death came and slaughtered the shoḥet who slaughtered the ox that
 </td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="romanized-yiddish" lang="yi"> 
+<div class="romanized-transliteration" lang="yi"> 
 HaḲadosh Barukh Hu da kom unzr libr her got un shekht den Malakh haMovet, der da hat gishekht den shoḥeyt, der da hat gishekht den oksin, der da hat gitrunkn dash washrleyn, do da hat far lesht do fayrleyn, do da hat far brent do shtekleyn, do da hat gishlagn do hintleyn, do da hat gbishn do ketsleyn, do da hat gigeshn do tsikleyn, do da hat gikoyft meyn fetrleyn, um tsvey pfening, eyn tsikleyn, eyn tsikleyn.
 </div>
 </td>
@@ -311,7 +311,7 @@ Singing Ḥad Gadya is thus particularly apropos for the night of Passover since
 <span class="shofar">אֲנִ֥י יְהוָֽה</span> -- אֲנִי הוּא וְלֹא אַחֵר׃
 </span></div></td>
 
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">“I will pass through the land of Mitsrayim:” -- I, and not an angel.
 “and I will smite every firstborn:” -- I, and not a <em>seraf</em>.
 “And I will execute judgment against all the gods of Mitsrayim:” -- I, and not the messenger.

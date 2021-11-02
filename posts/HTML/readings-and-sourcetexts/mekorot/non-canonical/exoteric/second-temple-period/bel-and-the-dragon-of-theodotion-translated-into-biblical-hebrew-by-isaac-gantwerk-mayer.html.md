@@ -13,7 +13,7 @@ The book of Daniel is one of three books (along with Esther and Jeremiah) which 
 The story of Bel and the Dragon is really three stories. Daniel, in the court of Cyrus, uses some cunning detective work to disprove the cult of the god Bel worshiped by the Babylonians. He then kills a giant monster worshiped by the Babylonians by feeding it until it exploded. And finally, he's thrown to the lions yet again, only to be saved by the prophet Ḥabakkuk. Why isn't this text part of the Hebrew? It's unclear, but it's a fun little romp that helps remind us that the best way to fight superstition is with rational thought.
 </div>
 
-<table style="width:100%;margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="width: 100%; margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: left;">Source (Greek)</th><th style="text-align: right;">Translation (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

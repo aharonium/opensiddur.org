@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
@@ -79,7 +79,7 @@ This is the full text of Rabbi Martin Weiner’s invocation offered on the secon
 
 <h3>Source(s)</h3>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.c-span.org/video/standalone/?c4899799/user-clip-rabbi-martin-weiner-3" width="512" height="330"]
+<iframe width=530 height=312 src='https://www.c-span.org/video/standalone/?c4899799/user-clip-rabbi-martin-weiner-3' allowfullscreen='allowfullscreen' frameborder=0></iframe>[su_spacer]
 
 &nbsp;
 

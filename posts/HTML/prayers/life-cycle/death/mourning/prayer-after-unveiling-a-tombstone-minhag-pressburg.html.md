@@ -7,17 +7,17 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="commentary" lang="he">
 אחר הקמת המצבה 
 יש שאומרים תפלה זו, 
 מנהג ק״ק פרעסבורג יצ״ו
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 [After unveiling the tombstone 
 this prayer is recited 
@@ -25,14 +25,14 @@ according to the custom of the holy community of the Jews of Pressburg, yts"v[fo
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 יְהִי רָצוֹן מִלְפָנֶיךָ אֱלֹהֵי הַנְשָׁמוֹת. 
 שֶׁתִּפְקוֹד בְּרַחֲמִים אֶת נִשְׁמַת......
 אֲשֶׁר הִצַבְנוּ מַצֵבָה עַל קְבוּרָתוֹ/קְבוּרָתָה. 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 May it be your will, <em>elo'ah</em> of all souls, 
 to mercifully account for the soul of _____, 
@@ -40,7 +40,7 @@ upon whose burial spot we have erected a standing-monument[foot]matzeva means li
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 עֵד הַגַל הַזֶה 
 וְעֵדַת הַמַצֵבָה 
@@ -51,7 +51,7 @@ upon whose burial spot we have erected a standing-monument[foot]matzeva means li
 לְזֵכֶר עוֹלָמִים. 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 This cairn is a witness. 
 Let its testimony be 
@@ -63,7 +63,7 @@ for eternal remembrance.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְהָיָה בִּרְבוֹת הַשָׁנִים. 
 כִּי יִשְׁאַלוּ בָּנִים. 
@@ -75,7 +75,7 @@ for eternal remembrance.
 תָּבֹא שָׁלוֹם תָּנוּחַ עַל מִשְׂכְּבוֹתָהּ. 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Let it be, as the years pile up; 
 when children shall ask; 
@@ -88,7 +88,7 @@ let Peace come to rest upon its sleeping-place.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 עוֹד תְּחַיֶינָה אֵלֶה הָעַצָמוֹת. 
 וְיֵישִׁירוּ בָּעַלָמוֹת. 
@@ -103,7 +103,7 @@ let Peace come to rest upon its sleeping-place.
 אָמֵן סֶלָה׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Once more these bones shall live;[foot]After Ezekiel 37:3, R' David Evan Markus things this may also be a reference to the bones of Yaakov, hidden away until the Exodus. (See following note.)[/foot]
 and be directed from the hiding-place; 

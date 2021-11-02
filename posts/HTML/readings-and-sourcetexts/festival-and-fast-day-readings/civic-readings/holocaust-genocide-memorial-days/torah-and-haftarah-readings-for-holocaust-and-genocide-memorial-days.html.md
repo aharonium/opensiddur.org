@@ -21,7 +21,7 @@ Note: “The CAUSE” is used to translate the Divine Name YHVH, based on the ph
 This is part five of an ongoing series of Torah and Haftarah readings for civic holidays: A reading for days of <a href="https://opensiddur.org/readings-and-sourcetexts/festival-and-fast-day-readings/secular/veterans-day-readings/torah-and-haftarah-readings-for-military-veterans-and-memorial-days-by-isaac-mayer/">celebrating veterans</a>, for days of <a href="https://opensiddur.org/readings-and-sourcetexts/festival-and-fast-day-readings/secular/memorial-day-readings/torah-and-haftarah-readings-for-memorial-day-compiled-by-isaac-gantwerk-mayer/">memorial for warfare</a>, for days of <a href="https://opensiddur.org/readings-and-sourcetexts/festival-and-fast-day-readings/secular/independence-day-us-readings/torah-and-haftarah-readings-for-the-fourth-of-july-independence-day/">celebrating independence</a>, and one for days of <a href="https://opensiddur.org/readings-and-sourcetexts/festival-and-fast-day-readings/secular/labor-day-readings/torah-and-haftarah-readings-for-days-recognizing-organized-labor-and-labor-rights-by-isaac-mayer/">celebrating the worker</a>.
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

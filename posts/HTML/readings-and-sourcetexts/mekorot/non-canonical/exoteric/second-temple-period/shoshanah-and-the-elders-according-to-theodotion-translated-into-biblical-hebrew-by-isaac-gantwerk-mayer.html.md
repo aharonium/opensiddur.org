@@ -13,7 +13,7 @@ The book of Daniel is one of three books (along with Esther and Jeremiah) which 
 The story of Susanna might be the most notorious one missing from the book of Daniel. This legend of a woman who rejects the advances of two lecherous old men, then is almost sentenced to death by their false claims, is painfully relevant to this day. Why was the story of Susanna missing from the Hebrew text? Several hypotheses have been put forth. One suggests that the end of the story, where the men are sentenced to death for their false oath, appeared to the rabbis as unhalakhic. In order to reflect this issue I edited the cantillation in that verse to separate "accordng to all the torah/instruction of Moses" from "and they killed them." Another suggests that the wordplay found near the end of the book, where the trees the men list are punned with the angel's actions, only work in the Greek. This translation follows the suggestion of R. Nehemias Brüll <em>z"l</em>, who rather than translating the trees directly, translated the paranomasia. The third is the story's negative portrayal of Babylonian sages, which may have been taken as anti-rabbinic propaganda. I personally don't believe that, and have kept it in.
 </div>
 
-<table style="width:100%;margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="width: 100%; margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: left;">Source (Greek)</th><th style="text-align: right;">Translation (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

@@ -2,7 +2,7 @@
 <head></head>
 <body>
 Title: ואחד גׄדי | Waaḥid Jady :: a Judeo-Arabic Translation of Ḥad Gadya<br />
-Primary contributor: isaac-gantwerk.mayer<br />
+Primary contributor: isaac-gantwerk-mayer<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=24599">http://opensiddur.org/?p=24599</a>
 <p />
 <hr />
@@ -34,7 +34,7 @@ Some pronunciation notes for those unfamiliar with Arabic transcription:
 
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Aramaic (source)</th><th style="text-align: right;">Translation (Judeo-Arabic)</th><th style="text-align: left;">Romanization (Judeo-Arabic)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr>

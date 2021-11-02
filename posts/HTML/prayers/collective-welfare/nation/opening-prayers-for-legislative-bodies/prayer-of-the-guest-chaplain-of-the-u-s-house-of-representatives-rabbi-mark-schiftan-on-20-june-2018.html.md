@@ -28,26 +28,26 @@ I would like to personally thank the rabbi for his strong leadership in our comm
 
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <h3>Opening Prayer Given by the Guest Chaplain:</h3>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 God 
 bless this land 
@@ -59,12 +59,12 @@ haven for the huddled masses yearning to breathe free.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 We and you who lead us 
 are a nation of immigrants. 
@@ -81,12 +81,12 @@ including each and every one of us.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 More than any other instruction in the Bible 
 is the sacred reminder to embrace the stranger,[foot]See Rachel Farbiarz, "<a href="https://www.myjewishlearning.com/article/treatment-of-the-stranger/">Treatment of the Stranger: Our existential relationship to our ancestors and how we learn empathy</a>"[/foot]
@@ -98,12 +98,12 @@ do just that.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Help us, O God, 
 to fulfill the promise of America. 
@@ -119,12 +119,12 @@ to a proud destiny for all.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Amen.
 </div></td></tr>
@@ -139,7 +139,7 @@ Issue: Vol. 164, No. 103 — Daily Edition (June 20, 2018)
 
 Link: <a href="https://chaplain.house.gov/chaplaincy/display_gc.html?id=2751">https://chaplain.house.gov/chaplaincy/display_gc.html?id=2751</a>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.c-span.org/video/standalone/?c4736504/rabbi-mark-schiftan-delivers-invocation-house-representatives" width="512" height="330"]
+<iframe width=530 height=312 src='https://www.c-span.org/video/standalone/?c4736504/rabbi-mark-schiftan-delivers-invocation-house-representatives' allowfullscreen='allowfullscreen' frameborder=0></iframe>[su_spacer]
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.congress.gov/crec/2018/06/20/CREC-2018-06-20-pt1-PgH5292-5.pdf" width="100%" height="900"]
 </body>

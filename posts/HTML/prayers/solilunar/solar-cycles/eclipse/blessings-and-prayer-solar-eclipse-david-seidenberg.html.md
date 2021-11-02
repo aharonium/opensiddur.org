@@ -20,17 +20,17 @@ Our ancestors sometimes saw an eclipse as a bad omen for the world, so they did 
 
 The crown of the sun, in Hebrew, עֲטָרָה | <em>atarah</em>, becomes revealed only in the total eclipse. By all accounts, totality is a unique experience far different than witnessing a partial solar eclipse. It seems right therefore to say an additional blessing when one is privileged to see it. Here is one suggestion: </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 For the partial eclipse, when the sun’s light still fills the sky: 
 </div></td>
@@ -38,7 +38,7 @@ For the partial eclipse, when the sun’s light still fills the sky:
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה
  יְיָ אֱלֹהֵֽינוּ 
@@ -47,7 +47,7 @@ For the partial eclipse, when the sun’s light still fills the sky:
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Blessed be You 
 YHVH/Adonai our God, 
@@ -60,13 +60,13 @@ maker of the work of Creation
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 For totality, when the sun’s atarah becomes visible:
 </div></td>
@@ -74,7 +74,7 @@ For totality, when the sun’s atarah becomes visible:
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה 
 יְיָ אֱלֹהֵֽינוּ 
@@ -83,7 +83,7 @@ For totality, when the sun’s atarah becomes visible:
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Blessed be You 
 YHVH/Adonai our God, 
@@ -96,7 +96,7 @@ whose power and might and radiance fill the universe.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 תחנה:
 
@@ -111,7 +111,7 @@ whose power and might and radiance fill the universe.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 A prayer: 
 
@@ -131,17 +131,17 @@ so that sun’s rays will shine for blessing for us and for all life.
 
 <h3>Eclipse 2017 — reflections, Scripture and midrash</h3>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Nehemiah 9:6
 The hosts of the heavens bow before God
@@ -150,13 +150,13 @@ The hosts of the heavens bow before God
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אַתָּה־ה֣וּא יְהוָה֮ לְבַדֶּךָ֒ את [אַתָּ֣ה] עָשִׂ֡יתָ אֶֽת־הַשָּׁמַיִם֩ שְׁמֵ֨י הַשָּׁמַ֜יִם וְכָל־צְבָאָ֗ם הָאָ֜רֶץ וְכָל־אֲשֶׁ֤ר עָלֶ֙יהָ֙ הַיַּמִּים֙ וְכָל־אֲשֶׁ֣ר בָּהֶ֔ם וְאַתָּ֖ה מְחַיֶּ֣ה אֶת־כֻּלָּ֑ם וּצְבָ֥א הַשָּׁמַ֖יִם לְךָ֥ מִשְׁתַּחֲוִֽים׃
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 You are the One YHVH, alone by yourself you made the heavens, the heavens (beyond) the heavens and all their host, the Earth and all that is upon her, the seas and all that is in them, and You give live to them all, and to You do the host of the heavens bow.
 </div></td>
@@ -164,13 +164,13 @@ You are the One YHVH, alone by yourself you made the heavens, the heavens (beyon
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Psalms 104:19-24
 </div></td>
@@ -178,13 +178,13 @@ Psalms 104:19-24
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>יט</sup>&nbsp;עָשָׂ֣ה יָ֭רֵחַ לְמוֹעֲדִ֑ים שֶׁ֝֗מֶשׁ יָדַ֥ע מְבוֹאֽוֹ׃ <sup>כ</sup>&nbsp;תָּֽשֶׁת־חֹ֭שֶׁךְ וִ֣יהִי לָ֑יְלָה בּֽוֹ־תִ֝רְמֹ֗שׂ כָּל־חַיְתוֹ־יָֽעַר׃ <sup>כא</sup>&nbsp;הַ֭כְּפִירִים שֹׁאֲגִ֣ים לַטָּ֑רֶף וּלְבַקֵּ֖שׁ מֵאֵ֣ל אָכְלָֽם׃ <sup>כב</sup>&nbsp;תִּזְרַ֣ח הַ֭שֶּׁמֶשׁ יֵאָסֵפ֑וּן וְאֶל־מְ֝עוֹנֹתָ֗ם יִרְבָּצֽוּן׃ <sup>כג</sup>&nbsp;יֵצֵ֣א אָדָ֣ם לְפָעֳל֑וֹ וְֽלַעֲבֹ֖דָת֣וֹ עֲדֵי־עָֽרֶב׃ <sup>כד</sup>&nbsp;מָֽה־רַבּ֬וּ מַעֲשֶׂ֨יךָ ׀ יְֽהוָ֗ה כֻּ֭לָּם בְּחָכְמָ֣ה עָשִׂ֑יתָ מָלְאָ֥ה הָ֝אָ֗רֶץ קִנְיָנֶֽךָ׃
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Who made the moon for seasons; the sun knew its setting. You set darkness and it became night; through it all the wild animals of the forest creep. The lion cubs roar for prey, and for seeking their food from God. You make the sunshine and they gather themselves and unto their dens they crouch. Human goes out to their work, and to their service, until evening. How diverse are Your works YHVH! All of them You made with Wisdom; the Earth is filled with Your possessions.
 </div></td>
@@ -192,13 +192,13 @@ Who made the moon for seasons; the sun knew its setting. You set darkness and it
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Psalms 19:2-7
 The heavens declare God’s glory 
@@ -207,13 +207,13 @@ The heavens declare God’s glory
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>ב</sup>&nbsp;הַשָּׁמַ֗יִם מְֽסַפְּרִ֥ים כְּבֽוֹד־אֵ֑ל וּֽמַעֲשֵׂ֥ה יָ֝דָ֗יו מַגִּ֥יד הָרָקִֽיעַ׃ <sup>ג</sup>&nbsp;י֣וֹם לְ֭יוֹם יַבִּ֣יעַֽ אֹ֑מֶר וְלַ֥יְלָה לְּ֝לַ֗יְלָה יְחַוֶּה־דָּֽעַת׃ <sup>ד</sup>&nbsp;אֵֽין־אֹ֭מֶר וְאֵ֣ין דְּבָרִ֑ים בְּ֝לִ֗י נִשְׁמָ֥ע קוֹלָֽם׃ <sup>ה</sup>&nbsp;בְּכָל־הָאָ֨רֶץ ׀ יָ֘צָ֤א קַוָּ֗ם וּבִקְצֵ֣ה תֵ֭בֵל מִלֵּיהֶ֑ם לַ֝שֶּׁ֗מֶשׁ שָֽׂם־אֹ֥הֶל בָּהֶֽם׃ <sup>ו</sup>&nbsp;וְה֗וּא כְּ֭חָתָן יֹצֵ֣א מֵחֻפָּת֑וֹ יָשִׂ֥ישׂ כְּ֝גִבּ֗וֹר לָר֥וּץ אֹֽרַח׃ <sup>ז</sup>&nbsp;מִקְצֵ֤ה הַשָּׁמַ֨יִם ׀ מֽוֹצָא֗וֹ וּתְקוּפָת֥וֹ עַל־קְצוֹתָ֑ם וְאֵ֥ין נִ֝סְתָּ֗ר מֵֽחַמָּתוֹ׃
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 The heavens declare the glory of God, and the works of God’s hands are retold by the sky. Day to day utters speech, and night to night gives life to knowledge. There is no speaking and there are no words — their voice (goes out) without being heard. In the all Earth their rays go out, and to the edge of the world their words, for the sun God made a tent in them. And he goes out like a groom from his canopy, like a warrior to run his course. From the edge of the heavens is his going out and his highest height is at their extremes, and there is none hidden from his heat. 
 </div></td>
@@ -221,13 +221,13 @@ The heavens declare the glory of God, and the works of God’s hands are retold 
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Yalkut Shimoni 396
 Why is it that Moses could not behold God’s face? 
@@ -236,13 +236,13 @@ Why is it that Moses could not behold God’s face?
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 ומה השמש שהוא אחד מאלף אלפים ורבוא רבון ממשמשין שמשמשין לפניו אין כל בריה יכולה להסתכל בו הקב"ה שזיוו מלא עולם על אחת כמה וכמה ואימתי הוא מגלה כבודו כשיאבדו אלילים מן העולם
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Just as with the sun, which is just one among thousands of thousands and millions of million of servants that serve before the One — no creature is able to stare at the sun, (so too) the Holy One blessed be, whose radiance fills the universe, is all the more so (impossible to see). But then when will the Holy One reveal this glory? When breathless (false) gods are purged from the world.
 </div></td>
@@ -250,13 +250,13 @@ Just as with the sun, which is just one among thousands of thousands and million
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Baal Shem Tov, Keter Shem Tov 1:218
 Why is God called “sun and shield”? 
@@ -265,12 +265,12 @@ Why is God called “sun and shield”?
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 כי שמש ומגן ה' אלהים (תהלים פד, יב). פי' כי שם הוי' נקרא שמש. וז"ש שמש ומגן פי' כמו מחיצה המגין בעד אור השמש הוא הדמיון כמו ה' אלהים. ר"ל כמו שא"א להסתכל בשמש מגודל אור בהירתו אם לא ע"י מגן ומסך המבדיל שהוא המגן בעד אור השמש שיוכלו חלושי הראות להנות מאורו. כך הוא שם הוי' ב"ה שאורו רב מאד מגודל אור בהירותו לכך הוצרך לצמצמו ולהגבילו בתוף שם אלהים גי' הטבע שהוא המגן.</span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 It’s written: “Sun and Shield are YHVH Elohim” (Ps 84:12). It’s explained: the name Havayah (YHVH) is called sun/shemesh…and what’s written, “sun and shield”, means that there is something like a barrier protecting against the light of the sun. The sun is like an image of Hashem (YHVH), meaning to say, that it is impossible to look on the sun, because of the greatness of his light’s brightness… Similarly so is the brightness of the name HVYH: its light is very great…therefore it was necessary to contract it and limit it within the name Elohim אלהים — the same gematria/numerology (=86) of Nature Hateva` הטבע , which is the shield.
 </div></td>
@@ -278,13 +278,13 @@ It’s written: “Sun and Shield are YHVH Elohim” (Ps 84:12). It’s explaine
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Maimonides/Rambam, <a href="https://he.wikisource.org/wiki/מורה_נבוכים_(אבן_תיבון)/חלק_א/פרק_נד">Guide for the Perplexed 1:54</a>
 A last word: we know God by knowing God’s creation, or, God’s goodness = the goodness of Creation itself 
@@ -293,13 +293,13 @@ A last word: we know God by knowing God’s creation, or, God’s goodness = the
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וכאשר בקש ידיעת התארים וביקש מחילה על האומה ונענה במחילתם וביקש אחר כן השגת עצמו ית' והוא אמרו "הראני נא את כבודך" - נענה על המבוקש הראשון - והוא 'הודיעני נא את דרכיך' - ונאמר לו "אני אעביר כל טובי על פניך"; ונאמר לו במענה השאלה השניה "לא תוכל לראות את פני וכו'". אמנם אמרו 'כל טובי' - הוא רמז להראות אותו הנמצאות כולם הנאמר עליהם "וירא אלוקים את כל אשר עשה והנה טוב מאוד"; רצוני לומר ב'הראות אותם לו' - שישיג טבעם והקשרם קצתם בקצת וידע הנהגתו להם איך היא בכלל ובפרט. 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 When Moshe asked for knowledge of God’s attributes, God told him: “I will make all My goodness / kol tuvi pass before you” (Ex 33:19) “All My goodness” means the display to Moshe of all existing beings of Creation, about which it says: “And God saw everything that He had made, and behold, it is very good.” By their display, I mean that Moshe would be able to apprehend their nature and the way they are mutually connected, so that he will know how God governs them in general and in detail.
 </div></td>

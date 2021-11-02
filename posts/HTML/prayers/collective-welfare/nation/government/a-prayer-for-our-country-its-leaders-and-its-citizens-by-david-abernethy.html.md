@@ -2,12 +2,12 @@
 <head></head>
 <body>
 Title: A Prayer for our Country, its Leaders and its Citizens, by David Abernethy (2020)<br />
-Primary contributor: David Abernethy<br />
+Primary contributor: david.abernethy<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=34657">http://opensiddur.org/?p=34657</a>
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: תהלים כז | Psalms 27, translated by Isaac Gantwerk Mayer<br />
+Title: תהלים כ״ז | Psalms 27, translated by Isaac Gantwerk Mayer<br />
 Primary contributor: isaac.gantwerk-mayer<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=21482">http://opensiddur.org/?p=21482</a>
 <p />
@@ -16,21 +16,21 @@ For attribution and license, please consult the following URL: <a href="http://o
 Enjoy, and l'shanah tovah!
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 לְדָוִ֨ד ׀ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 David's. 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 יְהוָ֤ה ׀ אוֹרִ֣י וְ֭יִשְׁעִי 
 מִמִּ֣י אִירָ֑א 
@@ -38,7 +38,7 @@ David's.
 מִמִּ֥י אֶפְחָֽד׃ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 The <span style="text-transform: uppercase;">All-Cause</span> – my Light and Safety; 
 from whom I fear? 
@@ -47,7 +47,7 @@ from whom I dread?
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 בִּקְרֹ֤ב עָלַ֨י ׀ מְרֵעִים֮ 
 לֶאֱכֹ֪ל אֶת־בְּשָׂ֫רִ֥י 
@@ -56,7 +56,7 @@ from whom I dread?
 כָשְׁל֣וּ וְנָפָֽלוּ׃ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 When the evil ones come near me, 
 to eat my flesh; 
@@ -66,7 +66,7 @@ yet they stumble and fall.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אִם־תַּחֲנֶ֬ה עָלַ֨י ׀ מַחֲנֶה֮ 
 לֹֽא־יִירָ֪א לִ֫בִּ֥י 
@@ -74,7 +74,7 @@ yet they stumble and fall.
 בְּ֝זֹ֗את אֲנִ֣י בוֹטֵֽחַ׃ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 If a whole encampment encamps against me, 
 my heart will not fear; 
@@ -83,7 +83,7 @@ in this I will trust.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אַחַ֤ת ׀ שָׁאַ֣לְתִּי מֵֽאֵת־יְהוָה֮ 
 אוֹתָ֪הּ אֲבַ֫קֵּ֥שׁ 
@@ -92,7 +92,7 @@ in this I will trust.
 וּלְבַקֵּ֥ר בְּהֵיכָלֽוֹ׃ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Only one thing I ask from the <span style="text-transform: uppercase;">All-Cause</span>, 
 for this I request – 
@@ -102,46 +102,46 @@ and to reflect in Their Palace.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 כִּ֤י יִצְפְּנֵ֨נִי ׀ בְּסֻכֹּה֮ בְּי֪וֹם רָ֫עָ֥ה 
 יַ֭סְתִּרֵנִי בְּסֵ֣תֶר אָהֳל֑וֹ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 For They will hide me in Their lean-to on a bad day; 
 Conceal me in the secret-place of Their tent; 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 בְּ֝צ֗וּר יְרוֹמְמֵֽנִי׃ 
 וְעַתָּ֨ה יָר֪וּם רֹאשִׁ֡י עַ֤ל אֹֽיְבַ֬י סְֽבִיבוֹתַ֗י 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Raise me up on a crag.
 And now, my head is lifted over my surrounding enemies; 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְאֶזְבְּחָ֣ה בְ֭אָהֳלוֹ זִבְחֵ֣י תְרוּעָ֑ה 
 אָשִׁ֥ירָה וַ֝אֲזַמְּרָ֗ה לַיהוָֽה׃ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 May I offer in Their tent shout-offerings; 
 May I sing and hymn to the <span style="text-transform: uppercase;">All-Cause</span>.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 שְׁמַע־יְהוָ֖ה 
 קוֹלִ֥י אֶקְרָ֗א 
@@ -149,7 +149,7 @@ May I sing and hymn to the <span style="text-transform: uppercase;">All-Cause</s
 וַעֲנֵֽנִי׃ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Listen, <span style="text-transform: uppercase;">All-Cause</span>! 
 My voice calls out! 
@@ -158,7 +158,7 @@ Answer me!
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 לְךָ֤ ׀ אָמַ֣ר לִ֭בִּי בַּקְּשׁ֣וּ פָנָ֑י 
 אֶת־פָּנֶ֖יךָ יְהוָ֣ה אֲבַקֵּֽשׁ׃ 
@@ -167,7 +167,7 @@ Answer me!
 עֶזְרָתִ֥י הָיִ֑יתָ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 To You, my heart says, "seek out my face" – 
 but Your face, <span style="text-transform: uppercase;">All-Cause</span>, I seek out! 
@@ -177,7 +177,7 @@ You have been my Helper before!
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אַֽל־תִּטְּשֵׁ֥נִי 
 וְאַל־תַּֽ֝עַזְבֵ֗נִי אֱלֹהֵ֥י יִשְׁעִֽי׃ 
@@ -185,7 +185,7 @@ You have been my Helper before!
 וַֽיהוָ֣ה יַֽאַסְפֵֽנִי׃ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Do not aggrieve me, 
 do not leave me, my God, my Safety!
@@ -194,7 +194,7 @@ yet the <span style="text-transform: uppercase;">All-Cause</span> receives me.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 ה֤וֹרֵ֥נִי יְהוָ֗ה דַּ֫רְכֶּ֥ךָ 
 וּ֭נְחֵנִי בְּאֹ֣רַח מִישׁ֑וֹר 
@@ -203,7 +203,7 @@ yet the <span style="text-transform: uppercase;">All-Cause</span> receives me.
 כִּ֥י קָֽמוּ־בִ֥י עֵֽדֵי־שֶׁ֝֗קֶר וִיפֵ֥חַ חָמָֽס׃ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Point Your path to me; <span style="text-transform: uppercase;">All-Cause</span>, 
 and lead me on a straight road, 
@@ -213,7 +213,7 @@ for rising up against me are witnesses of lies puffing hate.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 לׅׄוּלֵׅׄ֗אׅׄ הֶ֭אֱמַנְתִּי לִרְא֥וֹת בְּֽטוּב־יְהוָ֗ה בְּאֶ֣רֶץ חַיִּֽים׃ 
 קַוֵּ֗ה אֶל־יְה֫וָ֥ה 
@@ -221,7 +221,7 @@ for rising up against me are witnesses of lies puffing hate.
 וְ֝קַוֵּ֗ה אֶל־יְהוָֽה׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Ị̇ḟ̣ ọ̇ṇ̇ḷ̇ỵ̇ I could believe in seeing the goodness of the <span style="text-transform: uppercase;">All-Cause</span> in the land of life...
 I must hope in the <span style="text-transform: uppercase;">All-Cause</span>! 

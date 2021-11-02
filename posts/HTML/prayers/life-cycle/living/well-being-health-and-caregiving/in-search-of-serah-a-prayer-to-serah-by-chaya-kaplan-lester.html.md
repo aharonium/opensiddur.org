@@ -10,18 +10,18 @@ For attribution and license, please consult the following URL: <a href="http://o
 <table style="margin-left: auto;margin-right: auto;">
 <tbody>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="hebrew" lang="he">
 מדרש הגדול על בר' מה:כו
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Midrash HaGadol on Gen. 45:26
-</div></td></tr>   <tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+</div></td></tr>   <tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 ‎‏"ויגדו לו לאמר 'עוד יוסף חי'" (בר' מה:כו) רבנן אמרו אם אנו אומרים לו תחלה יוסף קים שמא תפרח נשמתו. מה עשו? אמרו לשרח בת אשר, "אמרי לאבינו יעקב שיוסף קים והוא במצרים. מה עשתה? המתינה לא עד שהוא עומד בתפלה ואמרה בלשון תימה: יוסף במצרים/ יולדו לו על ברכים/ מנשה ואפרים. פג לבו כשהוא עומד בתפלה. כיון שהשלים ראה העגלות, מיד "ותחי רוח יעקב אבינו" (שם).‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 [The brothers said:] If we tell him right away, "Joseph is alive!" perhaps he will have a stroke [lit., his soul will fly away]. What did they do? They said to Seraḥ, daughter of Asher, "Tell our father Jacob that Joseph is alive, and he is in Egypt." What did she do? She waited till he was standing in prayer, and then said in a tone of wonder, "Joseph is in Egypt/ There have been born on his knees/ Menasseh and Ephraim" [three rhyming lines:Yosef be-mizrayim / Yuldu lo al birkayim / Menasheh ve-Ephrayim]. His heart failed, while he was standing in prayer. When he finished his prayer, he saw the wagons: immediately the spirit of Jacob came back to life. (Translated by Avivah Zornberg in <em>Genesis, the Beginning of Desire</em>, p.281).
 </div></td></tr>
 </tbody></table>
@@ -39,17 +39,17 @@ May all of our artistic endeavors likewise access healing and inspiration, offer
 </div>
 
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;"><a href="https://opensiddur.org/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Seraḥ, teach us please
 your therapy of harmony
@@ -60,13 +60,13 @@ that you work with your speech
 
 
 <tr>
- <td style="vertical-align:top;" width="46%">
+ <td style="vertical-align:top;">
  <div class="liturgy" lang="he">
  
 </span></div>
  </td>
   
- <td style="vertical-align:top;" width="53%">
+ <td style="vertical-align:top;">
 <div class="english" lang="en">
 Reveal to us, ancient sister
 your mesmeric tincture
@@ -76,13 +76,13 @@ of lyric and meter
 
 
 <tr>
- <td style="vertical-align:top;" width="46%">
+ <td style="vertical-align:top;">
  <div class="liturgy" lang="he">
  
 </span></div>
  </td>
   
- <td style="vertical-align:top;" width="53%">
+ <td style="vertical-align:top;">
 <div class="english" lang="en">
 And mix us well a word elixir
 to soothe the wounds of
@@ -92,13 +92,13 @@ injured listeners
 
 
 <tr>
- <td style="vertical-align:top;" width="46%">
+ <td style="vertical-align:top;">
  <div class="liturgy" lang="he">
  
 </span></div>
  </td>
   
- <td style="vertical-align:top;" width="53%">
+ <td style="vertical-align:top;">
 <div class="english" lang="en">
 Just the way
 you sung your way
@@ -112,13 +112,13 @@ too fast from his depression
 
 
 <tr>
- <td style="vertical-align:top;" width="46%">
+ <td style="vertical-align:top;">
  <div class="liturgy" lang="he">
  
 </span></div>
  </td>
   
- <td style="vertical-align:top;" width="53%">
+ <td style="vertical-align:top;">
 <div class="english" lang="en">
 For even one's despair can be
 a precious thing
@@ -130,13 +130,13 @@ to the ones they've lost
 
 
 <tr>
- <td style="vertical-align:top;" width="46%">
+ <td style="vertical-align:top;">
  <div class="liturgy" lang="he">
  
 </span></div>
  </td>
   
- <td style="vertical-align:top;" width="53%">
+ <td style="vertical-align:top;">
 <div class="english" lang="en">
 But you with your harp
 loosened that knot
@@ -147,13 +147,13 @@ that had so long bound
 
 
 <tr>
- <td style="vertical-align:top;" width="46%">
+ <td style="vertical-align:top;">
  <div class="liturgy" lang="he">
  
 </span></div>
  </td>
   
- <td style="vertical-align:top;" width="53%">
+ <td style="vertical-align:top;">
 <div class="english" lang="en">
 Jacob's beguiled mind
 - as you applied
@@ -164,13 +164,13 @@ of a child's rhyme
 
 
 <tr>
- <td style="vertical-align:top;" width="46%">
+ <td style="vertical-align:top;">
  <div class="liturgy" lang="he">
  
 </span></div>
  </td>
   
- <td style="vertical-align:top;" width="53%">
+ <td style="vertical-align:top;">
 <div class="english" lang="en">
 Plucked hope back
 into a ruptured heart
@@ -182,13 +182,13 @@ of loss
 
 
 <tr>
- <td style="vertical-align:top;" width="46%">
+ <td style="vertical-align:top;">
  <div class="liturgy" lang="he">
  
 </span></div>
  </td>
   
- <td style="vertical-align:top;" width="53%">
+ <td style="vertical-align:top;">
 <div class="english" lang="en">
 Suddenly reversed
 through your verse
@@ -198,13 +198,13 @@ through your verse
 
 
 <tr>
- <td style="vertical-align:top;" width="46%">
+ <td style="vertical-align:top;">
  <div class="liturgy" lang="he">
  
 </span></div>
  </td>
   
- <td style="vertical-align:top;" width="53%">
+ <td style="vertical-align:top;">
 <div class="english" lang="en">
 For is not the crowning goal
 of creative endeavor
@@ -215,13 +215,13 @@ and herald in a better reality?
 
 
 <tr>
- <td style="vertical-align:top;" width="46%">
+ <td style="vertical-align:top;">
  <div class="liturgy" lang="he">
  
 </span></div>
  </td>
   
- <td style="vertical-align:top;" width="53%">
+ <td style="vertical-align:top;">
 <div class="english" lang="en">
 So teach us more-loudly your
 chemistry of composition
@@ -233,13 +233,13 @@ to release vast repositories of pain
 
 
 <tr>
- <td style="vertical-align:top;" width="46%">
+ <td style="vertical-align:top;">
  <div class="liturgy" lang="he">
  
 </span></div>
  </td>
   
- <td style="vertical-align:top;" width="53%">
+ <td style="vertical-align:top;">
 <div class="english" lang="en">
 To make space for
 the joyful reception of miracles
@@ -252,13 +252,13 @@ in the midst of a famine
 
 
 <tr>
- <td style="vertical-align:top;" width="46%">
+ <td style="vertical-align:top;">
  <div class="liturgy" lang="he">
  
 </span></div>
  </td>
   
- <td style="vertical-align:top;" width="53%">
+ <td style="vertical-align:top;">
 <div class="english" lang="en">
 And a lie overturned
 and a family re-fashioned
@@ -267,13 +267,13 @@ and a family re-fashioned
 
 
 <tr>
- <td style="vertical-align:top;" width="46%">
+ <td style="vertical-align:top;">
  <div class="liturgy" lang="he">
  
 </span></div>
  </td>
   
- <td style="vertical-align:top;" width="53%">
+ <td style="vertical-align:top;">
 <div class="english" lang="en">
 So teach us Seraḥ
 your eternal talent
@@ -285,13 +285,13 @@ of rhyme
 
 
 <tr>
- <td style="vertical-align:top;" width="46%">
+ <td style="vertical-align:top;">
  <div class="liturgy" lang="he">
  
 </span></div>
  </td>
   
- <td style="vertical-align:top;" width="53%">
+ <td style="vertical-align:top;">
 <div class="english" lang="en">
 And let it start
 with these faltering lines

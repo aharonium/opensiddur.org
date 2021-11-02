@@ -7,17 +7,17 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;"><a href="https://opensiddur.org/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 יְהִי רָצוֹן מִלְּפָנֶיךָ
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <em>Yehi Ratson Milfanekha</em> - 
 May it be Your will, Eternal One, God of our ancestors, 
@@ -27,12 +27,12 @@ and that we reach our desired destinations for life, gladness, and peace.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 May we be protected from every obstacle along the way, 
 and from all manner of challenge the world endures. 
@@ -42,24 +42,24 @@ in the eyes of all who see us.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 May our prayer be heard, 
 for You are the One who hears and holds all prayer. 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה יְיָ שׁוֹמֵעַ תְּפִלָּה׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <em>Barukh atah Adonai, shomei'ah tefilah</em>. 
 Blessed are You, Eternal One, who hears prayer.

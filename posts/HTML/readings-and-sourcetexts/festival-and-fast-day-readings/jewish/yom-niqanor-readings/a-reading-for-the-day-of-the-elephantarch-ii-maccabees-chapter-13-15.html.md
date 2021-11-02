@@ -25,7 +25,7 @@ Note: The numbering of the verses in the Hebrew translation is that of Yitzhak F
 
 <hr />
 
-<table style="width:100%;margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="width: 100%; margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew (translation)</th><th style="text-align: left;">Koine Greek (source)</th><th style="text-align: left;">English (translation)</th></tr></thead>
 <tbody>
 <tr>

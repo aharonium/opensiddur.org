@@ -7,28 +7,28 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מִזְמ֗וֹר לְדָ֫וִ֥ד
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 A psalm of David. 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 יְהֹוָ֤ה ׀ שְׁמַ֬ע תְּפִלָּתִ֗י
 הַאֲזִ֥ינָה אֶל־תַּחֲנוּנַ֑י 
 בֶּאֱמֻנָֽתְךָ֥ עֲ֝נֵ֗נִי בְּצִדְקָתֶֽךָ׃ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 O <span style="text-transform: uppercase;">Cause</span>, hear my prayer, 
 give ear to my petition in Your faithfulness; 
@@ -36,20 +36,20 @@ answer in Your righteousness.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְאַל־תָּב֣וֹא בְ֭מִשְׁפָּט אֶת־עַבְדֶּ֑ךָ
 כִּ֤י לֹֽא־יִצְדַּ֖ק לְפָנֶ֣יךָ כׇל־חָֽי׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Do not come to judgement with Your servant, 
 for before You nothing that lives can be righteous. 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 כִּ֥י רָ֘דַ֤ף אוֹיֵ֨ב ׀ נַפְשִׁ֗י
 דִּכָּ֣א לָ֭אָרֶץ חַיָּתִ֑י 
@@ -57,7 +57,7 @@ for before You nothing that lives can be righteous.
 כְּמֵתֵ֥י עוֹלָֽם׃ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 For my enemy pursued my being, 
 he crushed my life to the ground, 
@@ -66,20 +66,20 @@ like the forever dead.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וַתִּתְעַטֵּ֣ף עָלַ֣י רוּחִ֑י
 בְּ֝תוֹכִ֗י יִשְׁתּוֹמֵ֥ם לִבִּֽי׃ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 My breath failed within me, 
 my heart within me was horrified. 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 זָ֘כַ֤רְתִּי יָמִ֨ים ׀ מִקֶּ֗דֶם
 הָגִ֥יתִי בְכׇל־פׇּעֳלֶ֑ךָ 
@@ -87,7 +87,7 @@ my heart within me was horrified.
 	אֲשׂוֹחֵֽחַ׃ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 I remembered the days of yore, 
 I told all Your deeds, 
@@ -95,20 +95,20 @@ recounted the work of Your hands.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 פֵּרַ֣שְׂתִּי יָדַ֣י אֵלֶ֑יךָ
 נַפְשִׁ֓י ׀ כְּאֶרֶץ־עֲיֵפָ֖ה לְךָ֣ סֶֽלָה׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 I stretched out my hands to You; 
 my being longs like thirsty earth for You – Selah. 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מַ֘הֵ֤ר עֲנֵ֨נִי ׀ יְהֹוָה֮
 כָּלְתָ֢ה ר֫וּחִ֥י
@@ -116,7 +116,7 @@ my being longs like thirsty earth for You – Selah.
 וְ֝נִמְשַׁ֗לְתִּי עִם־יֹ֥רְדֵי בֽוֹר׃ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Quickly, answer me, <span style="text-transform: uppercase;">Cause</span>! 
 My breath fades! 
@@ -125,7 +125,7 @@ or I will be as if in those low in the Pit.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הַשְׁמִ֘יעֵ֤נִי בַבֹּ֨קֶר ׀ חַסְדֶּךָ֮
 כִּֽי־בְךָ֢ בָ֫טָ֥חְתִּי
@@ -133,7 +133,7 @@ or I will be as if in those low in the Pit.
 כִּי־אֵ֝לֶ֗יךָ נָשָׂ֥אתִי נַפְשִֽׁי׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Let me hear in the morning of Your faithfulness, 
 for in You I trust; 
@@ -142,20 +142,20 @@ for in You I have placed my very being.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הַצִּילֵ֖נִי מֵאֹיְבַ֥י ׀ יְהֹוָ֗ה
 אֵלֶ֥יךָ כִסִּֽתִי׃ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Save me from my enemies, O <span style="text-transform: uppercase;">Cause</span>; 
 in You I seek cover. 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 לַמְּדֵ֤נִי ׀ לַ֥עֲשׂ֣וֹת רְצוֹנֶךָ֮
 כִּֽי־אַתָּ֢ה אֱל֫וֹהָ֥י
@@ -163,7 +163,7 @@ in You I seek cover.
 	תַּ֝נְחֵ֗נִי בְּאֶ֣רֶץ מִישֽׁוֹר׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Teach me to do Your will, 
 for You are my God; 
@@ -172,27 +172,27 @@ guide me on flat ground.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 לְמַעַן־שִׁמְךָ֣ יְהֹוָ֣ה
 תְּחַיֵּ֑נִי בְּצִדְקָתְךָ֓ ׀ תּוֹצִ֖יא מִצָּרָ֣ה נַפְשִֽׁי׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 For the sake of Your Name, O <span style="text-transform: uppercase;">Cause</span>, preserve my life; 
 in Your righteousness bring me out from my distressed being. 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וּֽבְחַסְדְּךָ֮ תַּצְמִ֢ית אֹ֫יְבָ֥י
 וְֽ֭הַאֲבַדְתָּ כׇּל־צֹרְרֵ֣י נַפְשִׁ֑י
 כִּ֗֝י אֲנִ֣י עַבְדֶּֽךָ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And in Your faithfulness, end my enemies, 
 cause all my mortal foes to perish, 

@@ -13,7 +13,7 @@ Psalms 151 through 155 are not found in the Masoretic Text books of Psalms, or i
 Psalm 151a is unlike any other psalm, because it is openly and clearly a description of David's own life. He describes his childhood as the youngest of the family, and his anointing. It may have not been included as part of the Masoretic canon because this dissimilarity leads to just a whiff of pseudepigraphical overcompensation. [The psalm is designated Psalms 151a to destinguish it from the text of <a href="https://opensiddur.org/readings-and-sourcetexts/mekorot/non-canonical/exoteric/second-temple-period/psalms-151-as-found-in-the-septuagint-lxx/">Psalms 151</a> found in the Septuagint. --ANV]
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

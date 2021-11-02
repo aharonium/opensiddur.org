@@ -7,11 +7,11 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew (source)</th><th style="text-align: left;">English (translation)</th></tr></thead>
 <tbody>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וּבַחֹדֶשׁ הַתְּשִׁיעִי בְּכִסְלֵו . 
 קוֹל הֲמוֹן שָׁלֵו . 
@@ -32,7 +32,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 In the ninth month, in Kislev, 
 (his voice raised)
@@ -73,11 +73,11 @@ Weingarten explains:
 
 Ultimately, Jewish festivals eschewing meat strongly allude to a vision of the world that is completely just, a world in which there is no non-consensual taking. In Jewish mythic-history, this vision accords both with the  antediluvian edenic world with its universal plant-based diet, as well as to the vision of Olam Haba described in Isaiah 11:6-9, where Nature is no longer managed by predatory diet. Whether read Isaiah literally or as metaphor, the realization of this comprehensive vision depends on societies committed to purusing compassion and justice.
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew (source)</th><th style="text-align: left;">English (translation)</th></tr></thead>
 <tbody>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְגָ֤ר זְאֵב֙ עִם־כֶּ֔בֶשׂ 
 וְנָמֵ֖ר עִם־גְּדִ֣י יִרְבָּ֑ץ 
@@ -94,7 +94,7 @@ Ultimately, Jewish festivals eschewing meat strongly allude to a vision of the w
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And the wolf shall dwell with the lamb, 
 and the leopard shall lie down with the kid; 

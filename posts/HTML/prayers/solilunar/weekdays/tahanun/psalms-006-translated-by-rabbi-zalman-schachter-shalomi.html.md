@@ -7,23 +7,23 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 לַמְנַצֵּ֣חַ בִּ֭נְגִינוֹת עַֽל־הַשְּׁמִינִ֗ית 
 מִזְמ֥וֹר לְדָוִֽד׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 A David Song 
 (Note to the Conductor -- <em>play this melody on the eight stringer</em>)
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 יְֽהוָ֗ה אַל־בְּאַפְּךָ֥ תוֹכִיחֵ֑נִי 
 וְֽאַל־בַּחֲמָתְךָ֥ תְיַסְּרֵֽנִי׃
@@ -35,7 +35,7 @@ A David Song
 עַד־מָתָֽי׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Yah! Please don't chide me in Your anger. 
 Don't scold me in Your wrath.
@@ -48,7 +48,7 @@ How long must I still endure?
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 שׁוּבָ֣ה יְ֭הוָה 
 חַלְּצָ֣ה נַפְשִׁ֑י 
@@ -58,7 +58,7 @@ How long must I still endure?
 מִ֣י יֽוֹדֶה־לָּֽךְ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Relent, Yah, 
 And for mercy's sake 
@@ -69,7 +69,7 @@ Who will thank You?
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 יָגַ֤עְתִּי ׀ בְּֽאַנְחָתִ֗י אַשְׂחֶ֣ה 
 בְכָל־לַ֭יְלָה מִטָּתִ֑י 
@@ -80,7 +80,7 @@ Who will thank You?
 בְּכָל־צוֹרְרָֽי׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 I groan and am all worn out. 
 I sob on my bed; 
@@ -92,7 +92,7 @@ Wept them out.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 ס֣וּרוּ מִ֭מֶּנִּי 
 כָּל־פֹּ֣עֲלֵי אָ֑וֶן 
@@ -106,7 +106,7 @@ Wept them out.
 רָֽגַע׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Away with you, 
 All you traffickers of sin!

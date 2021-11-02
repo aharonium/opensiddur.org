@@ -7,15 +7,15 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 As we played with arrows on Lag Ba’Omer, 
 may we remember that God overturned “God’s bow” 
@@ -26,12 +26,12 @@ for humanity's sake.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 May we too turn our arrows away from the earth. 
 (As Rabbi Waskow <a href="https://opensiddur.org/prayers/lunisolar/high-holy-days/rosh-hashanah/between-the-fires-a-kavvanah-for-lighting-candles-of-commitment-by-rabbi-arthur-waskow-the-shalom-center/">has taught</a>,) 
@@ -47,12 +47,12 @@ of all Life.”
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 May the Holy One help us to learn to use our fires, 
 fires of Spirit and imagination, 
@@ -64,12 +64,12 @@ rejoicing in its colors”.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 May all living creatures, 
 alongside all people, 
@@ -80,12 +80,12 @@ let them celebrate in joy Your presence.”[foot]Psalms 21:7[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Let us learn to be more than stewards of the land; 
 may we become true citizens of the community of species that lives in each ecosystem. 

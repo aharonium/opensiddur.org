@@ -7,10 +7,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="width: 100%;margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="width: 100%;margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: left;">Source (Bengali)</th><th style="text-align: right;">Translation (Hebrew)</th><th style="text-align: left;">Source and Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="bengali" lang="bn">
 গীতাঞ্জলি 
 </span></div></td>
@@ -26,7 +26,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="bengali" lang="bn">
 
 </span></div></td>

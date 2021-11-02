@@ -13,7 +13,7 @@ I wrote this as part of my daughter's naming ceremony in January 2001. I used it
 
 <h3>Prayer for Safe Sleep (for a Girl)</h3>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th><th style="text-align: left;">Translation (German)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="30%">
@@ -48,7 +48,7 @@ Unser Gott, hilf ihr, sich in Frieden niederzulegen und wecke sie, unser Herrsch
 
 <h3>Prayer for Safe Sleep (for a Boy)</h3>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th><th style="text-align: left;">Translation (German)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="30%">

@@ -27,25 +27,25 @@ Rabbi Rader is now an associate rabbi at B'nai Torah Congregation in Boca Raton,
 
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <h3>Opening Prayer Given by the Guest Chaplain:</h3>
 </div></td></tr>
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 When the theologian of my tradition, 
 Dr. Abraham Joshua Heschel, 
@@ -56,12 +56,12 @@ Rabbi Heschel said:
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Esteemed men and women in this Chamber, 
 I ask for God's help 
@@ -77,12 +77,12 @@ between life and death.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 May it be God's will 
 that your feet lead our country 
@@ -98,12 +98,12 @@ and hope.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Master of the universe, 
 inspire our deeds to be their own prayers. 
@@ -123,7 +123,7 @@ Issue: Vol. 152, No. 114 — Daily Edition (September 14, 2006)
 
 link: <a href="https://chaplain.house.gov/archive/index.html?id=702">https://chaplain.house.gov/archive/index.html?id=702</a>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.c-span.org/video/standalone/?c4514469/user-clip-rabbi-amy-rader-bnai-torah-congregation-boca-raton-fl" width="512" height="330"]
+<iframe width=530 height=312 src='https://www.c-span.org/video/standalone/?c4514469/user-clip-rabbi-amy-rader-bnai-torah-congregation-boca-raton-fl' allowfullscreen='allowfullscreen' frameborder=0></iframe>[su_spacer]
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.congress.gov/109/crec/2006/09/14/CREC-2006-09-14-pt1-PgH6537.pdf" width="100%" height="900"]
 </body>

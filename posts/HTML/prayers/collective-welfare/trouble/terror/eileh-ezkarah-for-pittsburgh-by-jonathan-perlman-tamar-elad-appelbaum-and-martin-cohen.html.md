@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: אֵלֶּה אֶזְכְּרָה, נוּסַח פִּיטְסְבּוּרְג | Eileh Ezkarah for Pittsburgh, by Rabbi Jonathan Perlman with Rabbi Tamar Elad-Appelbaum and Rabbi Martin Cohen<br />
+Title: אֵלֶּה אֶזְכְּרָה, נוּסַח פִּיטְסְבּוּרְג | Eileh Ezkarah for Pittsburgh, by Rabbi Jonathan Perlman with Rabbi Tamar Elad-Appelbaum & Rabbi Martin Cohen<br />
 Primary contributor: jonathan.perlman<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=27343">http://opensiddur.org/?p=27343</a>
 <p />
@@ -14,10 +14,10 @@ Beth Kissilef <a href="https://www.facebook.com/permalink.php?story_fbid=2383921
 <blockquote>I wish the eleven kedoshei Pittsburgh (martyrs) were still with us. But I am very proud that my husband initiated a collaboration to have a meaningful religious response to the tragedy. This is a modern version of the prayer for martyrs read on Yom Kippur. It was written by Rabbi Jonathan Perlman [<a href="https://newlightcongregation.org">New Light Congregation</a>, Pittsburgh] in collaboration with Rabbis Tamar Elad-Appelbaum of <a href="http://kbyonline.org/synagogues/zion-jerusalem">קהילה ציון ארצישראלית - Kehilat Zion Jerusalem</a> and Martin Cohen of the <a href="https://www.srjc.org">Shelter Rock Jewish Center</a> with <em>nekudot</em> (vowels) by Tova Admon of Hillel Academy of Pittsburgh and typesetting by David Zvi Kalman. Please read, use and share as the authors would like this response to be known and understood. A version is on the Rabbinical Assembly website and will be on the New Light Congregation site too. <em>Shana tova u'metuka</em> - a good and sweet new year.</blockquote>
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֵֽלֶּה אֶזְכְּרָה וְנַפְשִׁי עָלַי אֶשְׁפְּכָה
 כִּי בְלְָעֽוּנוּ זָרִים כְּעֻגָּה בְּלִי הֲפוּכָה, 
@@ -25,7 +25,7 @@ Beth Kissilef <a href="https://www.facebook.com/permalink.php?story_fbid=2383921
 לַאַחַד עָשָֹר הֲרוּגֵי קְהִילָתֵינוּ הַקְדוֹשָׁה.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 These things do I remember and my heart is grieved!
 How the arrogant have devoured our people!
@@ -34,7 +34,7 @@ For the eleven slaughtered from our holy community?
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 שַׁבָּת בַּבֹּקֶר כְּמִידֵי שַׁבָּת הַיְתָה  
 וַיַשְׁכִּימוּ כְּעֶשְׂרִים מִבְּנֵי הַקְּהִילָה
@@ -43,7 +43,7 @@ For the eleven slaughtered from our holy community?
 כִּי סִּדְרַא תְגַלֶּה מְאַשֶׁר אוֹתָם יִקְרֶה 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 That Shabbat morning was like every Shabbat
 The twenty early-risers from the three shuls
@@ -53,7 +53,7 @@ That the portion would reveal what would happen to them.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְקָרְאוּ׃ 
 וַיַּשְׁכֵּם אַבְרָהָם וַיִּקַּח אֶת־נְעָרָיו
@@ -68,7 +68,7 @@ That the portion would reveal what would happen to them.
 וַיֹּאמֶר יְיָ אֶל־אַבְרָהָם עֲלֵה אֵלַי הָהָרָה כִּי אֲנַסֶּךָּ. 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And they read:
 Abraham rose early and brought his servant lads
@@ -84,7 +84,7 @@ God said to Abraham: Ascend to me on the hill and I will test you there.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְרָאוּ׃ 
 וַיָּקָם אַבְרָהָם
@@ -101,7 +101,7 @@ God said to Abraham: Ascend to me on the hill and I will test you there.
 וַיִדֹמוּ כוּלָם מִפְּנֵי הַחָזוֹן הַחָרֶד אַשֶׁר רָאֲתָה עֵינָם 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And they saw:
 And Abraham rose
@@ -119,7 +119,7 @@ And they were silent all of them in reaction to the frightful vision their eyes 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְכֵן שָׁמְעוּ מֵאֲחוֹרֵי הַפַּרְגּוֹד׃
 וְאִם תִּשְׁאֲלוּ בְּמָרָה זוֹ תּוֹרָה וְזֶה שְׂכָרָהּ,
@@ -128,7 +128,7 @@ And they were silent all of them in reaction to the frightful vision their eyes 
 וְאֵין לְהַרְהֵר אַחַר מִדּוֹתָי.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And thus they heard from behind the Veil of Mystery:
 And if you ask in your bitterness, “This is Torah and this is its reward?”
@@ -138,7 +138,7 @@ Don’t dwell too much on what separates You from Me.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְכֵן קָרָה בְּמִקְדַּשׁ הַמְעַט שֶׁלָּנוּ 
 בְּבוֹא הַצָר לְנַסוֹת אוֹתָנוּ.
@@ -152,7 +152,7 @@ Don’t dwell too much on what separates You from Me.
 וּמֵהֶם בַּמִטְבַּח מְכִינִים אֶת הַמַנָה הַבָּאָה. 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 What occurred in our Holy Sanctuary that day
 As the enemy came to tread upon our holy space
@@ -167,7 +167,7 @@ And among some who were in the kitchen preparing the next meal.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְאֶל אַחַד עַשַׂר אָמַר יְיָ בְּלַחַשׁ
 הִגִיעַ זְמַנְכֶם לְקַדֵּשׁ אֶת שִׁמִי בַּרַבִּים
@@ -175,7 +175,7 @@ And among some who were in the kitchen preparing the next meal.
 וּבְכׇל זֹאת זִכְרוּ וְהַבִּיטוּ לְעֲקֵידַת יָחִיד
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And to the eleven, God spoke in a whisper
 “The time has arrived to sanctify My Name in public.
@@ -184,7 +184,7 @@ and looked upon as personally bound to the Altar as one united.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 כִּי בַּעָתִיד יִזְכְּרוּ יְלַדִים וּקְּהִילוֹת 
 שֶׁאַנַחְנוּ אֶת קְדוֹשָׁת הַחָיִים בָּאנוֹ לִחְיוֹת  
@@ -192,7 +192,7 @@ and looked upon as personally bound to the Altar as one united.
 כִּי זָכַרְנוּ אֶמוּנָה וִידִידוּת כַּאן לְאוֹרְכֶם.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 For in the future their children and congregations would remember
 That we are Sanctifiers of Life who come to live
@@ -201,7 +201,7 @@ For we remembered faith and friendship here toward your light.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֶת חַלְלֵינוּ קַבָרִנוּ
 וְעֲלֵיהֶם בָּכִינוּ
@@ -210,7 +210,7 @@ For we remembered faith and friendship here toward your light.
 וְנַמְשִׁיךְ לַעֲמוֹד.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 We buried our bodies.
 And upon them we wept
@@ -220,7 +220,7 @@ And we continued to stand.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וּבְכֵן, אָבִֽינוּ מַלְכֵּֽנוּ, עֲשֵׂה לְמַֽעַן הֲרוּגֵינוּ
 עַל שֵׁם קׇדְשֶֽׁךָ
@@ -230,7 +230,7 @@ And we continued to stand.
 וְהַצִּילֵֽנוּ יוֹצְרֵינוּ, כִּי עָלֶיךָ עֵינֵינוּ.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And so, Our Father our King, act for the sake of those who were slaughtered 
 for your holy name.
@@ -241,7 +241,7 @@ Save us, our Creator, for our eyes are upon you.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְכֹל עוֹד נְשָׁמָה בְּאַפֶּינוּ
 נְבַקֶשׁ עוֹלַמֵנוּ
@@ -249,7 +249,7 @@ Save us, our Creator, for our eyes are upon you.
 נְקַבֵּץ וְנַכְרִיז כְּאֶחָד׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 As long as this breath is within us
 We ponder the world you created for us
@@ -258,12 +258,12 @@ We gather and we cry out as one:
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 שְׁמַע יִשְׂרָאֵל ה׳ אֱלֹהֵינוּ ה׳ אֶחָד.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <strong>Hear O Israel, the Lord our God, the Lord is One.</strong>[foot]Deuteronomy 6:4.[/foot]
 </div></td></tr>

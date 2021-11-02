@@ -7,15 +7,15 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Contribute a Translation</th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 <em>Hashem</em>, as I open my Siddur, 
 let me pray with proper kavanah.  
 Let me pray with sincerity, 
@@ -23,12 +23,12 @@ paying careful attention to every word I utter.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 <em>Hashem</em>, let me concentrate with my whole being 
 on the meaning of each and every word, sentence and prayer. 
 Keep my mind from wandering to other subjects, 
@@ -37,12 +37,12 @@ into each and every prayer, praise and blessing.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 May my prayer come before You, O <em>Hashem</em>, 
 at a time of grace, 
 and may it be accepted favorably by You.  

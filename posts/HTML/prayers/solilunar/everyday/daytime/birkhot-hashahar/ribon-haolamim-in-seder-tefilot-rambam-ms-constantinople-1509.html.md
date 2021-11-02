@@ -7,17 +7,17 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody><tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <span class="instruction">לְעוֹלָם יְהֵא אָדָם יְרֵא שָׁמַֽיִם בַּסֵּתֶר 
 וּמוֹדֶה עַל הָאֱמֶת, וְדוֹבֵר אֱמֶת בִּלְבָבוֹ, 
 וְיַשְׁכֵּם וְיאֹמַר: </span>
 </div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <span class="instruction">Always may a person revere Heaven in solitude,[foot]lit. seclusion[/foot] 
 to contemplate Truth and articulate truth in their mind,
@@ -27,7 +27,7 @@ to arise and say:</span>[foot]Cf. Eliyahu Rabbah, parshah 19. Others translate t
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 רִבּוֹן הָעוֹלָמִים: 
 לֹא עַל־צִדְקוֹתֵֽינוּ אֲנַֽחְנוּ מַפִּילִים תַּחֲנוּנֵֽינוּ לְפָנֶֽיךָ 
@@ -35,7 +35,7 @@ to arise and say:</span>[foot]Cf. Eliyahu Rabbah, parshah 19. Others translate t
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Master of all worlds![foot]Cf. Bavli Yoma 87b[/foot]
 Not in the merit of our righteousness do we dare cast our pleas before you,
@@ -45,7 +45,7 @@ rather, upon your abounding compassion we rely.[foot]Daniel 9:18 partial.[/foot]
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מָה אָֽנוּ, מֶה חַיֵּֽינוּ, 
 מֶה חַסְדֵּֽנוּ, מַה צִּדְקֹתֵֽינוּ, 
@@ -62,7 +62,7 @@ rather, upon your abounding compassion we rely.[foot]Daniel 9:18 partial.[/foot]
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 What are we? What are our lives?[foot]Cf. Yoma 87b[/foot]
 What is our loving-kindness? What is our righteousness?
@@ -81,7 +81,7 @@ the pre-eminence of human over non-human animals does not exist since all [our l
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֲבָל אֲנַֽחְנוּ עַמְּךָ בְּנֵי בְרִיתֶךָ. 
 בְּנֵי אַבְרָהָם אֹהַבְךָ שֶׁנִּשְׁבַּֽעְתָּ לּוֹ בְּהַר הַמּוֹרִיָּה. 
@@ -93,7 +93,7 @@ the pre-eminence of human over non-human animals does not exist since all [our l
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Nevertheless, we are your people, the children of your covenant:
 the children of Avraham your beloved, to whom you made a promise on Har Moriah.
@@ -107,7 +107,7 @@ you named Yisra'el and Yeshurun,
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 לְפִיכָךְ אָנוּ חַיְיָבִין לְהוֹדוֹת לְךָ וּלְשַׁבֵּחֲךָ וּלְפָאֶרְֽךָ 
 וְלִיתֵּן שֶֽׁבַח וְהוֹדָאָה לִשְׁמֶֽךָ.
@@ -116,7 +116,7 @@ you named Yisra'el and Yeshurun,
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Therefore, we are obligated to give thanks to you, to praise and extol you, 
 to bring praise and thanksgiving to your Name.[foot]Cf. "Nishmat Kol Ḥai": לְהוֹדוֹת לְהַלֵּל לְשַׁבֵּחַ לְפָאֵר לְרוֹמֵם לְהַדֵּר לְבָרֵךְ[/foot]
@@ -127,7 +127,7 @@ Listen, Yisrael, YHVH is your <em>elo'ah</em>, YHVH is one.[foot]Deuteronomy 6:4
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אַשְׁרֵֽינוּ, מַה־טּוֹב חֶלְקֵֽנוּ, מַה־נָּעִים גּוֹרָלֵֽנוּ, מַה יָּפָה יְרוּשָּׁתֵֽנוּ.
 אַשְׁרֵֽינוּ שֶׁאָנוּ מַשְׁכִּימִים וּמַעֲרִיבִים, בְּכָל יוֹם תָּמִיד, עֶרֶב וָבֹקֶר:
@@ -135,7 +135,7 @@ Listen, Yisrael, YHVH is your <em>elo'ah</em>, YHVH is one.[foot]Deuteronomy 6:4
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Happy are we! How goodly is our portion, how pleasant our lot, how beautiful our heritage! 
 Happy are we when we rise and when we rest, every day always, dusk and dawn [declaring]: 
@@ -145,7 +145,7 @@ Listen, Yisrael, YHVH is your <em>elo'ah</em>, YHVH is one.[foot]Deuteronomy 6:4
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אַתָּה הוּא קוֹדֶם שֶׁנִּבְרָא הָעוֹלָם, 
 אַתָּה הוּא אַחַר שֶּׁנִּבְרָא הָעוֹלָם, 
@@ -159,7 +159,7 @@ Listen, Yisrael, YHVH is your <em>elo'ah</em>, YHVH is one.[foot]Deuteronomy 6:4
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 You are from before the creation of the Cosmos, 
 and you remain after its formation
@@ -175,7 +175,7 @@ Blessed is the one who hallows their Name before the multitudes![foot]See ראב
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אַתָּה הוּא יְיָ אֱלֹהֵֽינוּ בַּשָּׁמַיִם מִמַּעַל וְעַל־הָאָרֶץ מִתָּחַת וּבִשְׁמֵי הַשָּׁמַֽיִם הָעֶלְיוֹנִים, 
 אַתָּה הוּא רִאשׁוֹן, וְאַתָּה הוּא אַחֲרוֹן וּמִבַּלְעָדֶֽיךָ אֵין אֱלֹהִים. 
@@ -191,7 +191,7 @@ Blessed is the one who hallows their Name before the multitudes![foot]See ראב
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 You are YHVH our <em>elo'ah</em> in the sky above and upon the earth below[foot]Deuteronomy 4:39, Joshua 2:11, 1 Kings 8:23[/foot] and in the realms beyond the sky.
 You are the First and you are the Last, and besides you there are no <em>elohim</em> (divine powers).
@@ -209,7 +209,7 @@ Heavenly father, fulfill for us the promise given us by your seer:[foot]Cf. Eliy
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְנֹאמַר אַתָּה הוּא יְיָ, לְבַדֶּךָ. 
 אַתָּה עָשִׂיתָ אֶת הַשָּׁמַיִם וּשְׁמֵי הַשָּׁמַיִם וְכָל צְבָאָם 
@@ -219,7 +219,7 @@ Heavenly father, fulfill for us the promise given us by your seer:[foot]Cf. Eliy
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 As it is said, “You alone are YHVH.
 You made the heavens, the highest heavens, and all their host, 
@@ -231,7 +231,7 @@ You keep them all alive, and the host of heaven prostrate themselves before you.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אַתָּה־הוּא יְיָ הָאֱלֹהִים אֲשֶׁר בָּחַרְתָּ בְּאַבְרָם 
 וְהוֹצֵאתוֹ מֵאוּר כַּשְׂדִּים, וְשַׂמְתָּ שְּׁמוֹ, אַבְרָהָם. 
@@ -239,7 +239,7 @@ You keep them all alive, and the host of heaven prostrate themselves before you.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 You are YHVH Elohim, who chose Avram, 
 who brought him out of Ur Kaśdim and named him Avraham.[foot]Nehemiah 9:7[/foot]
@@ -249,7 +249,7 @@ But you are the same, and your years never end.[foot]Psalms 102:28[/foot]
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 יְיָ מֶלֶךְ, יְיָ מָלָךְ; יְיָ יִמְלֹךְ, לְעֹלָם וָעֶד. 
 יְיָ מֶלֶךְ, יְיָ מָלָךְ; יְיָ יִמְלֹךְ, לְעֹלָם וָעֶד. 
@@ -257,7 +257,7 @@ But you are the same, and your years never end.[foot]Psalms 102:28[/foot]
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 YHVH reigns,[foot]Psalms 10:16[/foot] YHVH has reigned,[foot]Psalms 93:1, et al[/foot] YHVH shall reign in the Cosmos forever.[foot]Exodus 15:18 in Shir HaYam[/foot]
 YHVH reigns, YHVH has reigned, YHVH shall reign in the Cosmos forever.
@@ -274,10 +274,10 @@ This is a faithful transcription of <em>Ribon HaOlamim</em> (a/k/a "Rebbi Yoḥa
 
 [caption id="attachment_16550" align="alignnone" width="203"]<a href="https://opensiddur.org/wp-content/uploads/2017/08/Ribon-HaOlamim-from-Maimonides-Seder-Tefillot-Kol-Hashanah-Constantinople-1509.png"><img src="https://opensiddur.org/wp-content/uploads/2017/08/Ribon-HaOlamim-from-Maimonides-Seder-Tefillot-Kol-Hashanah-Constantinople-1509-203x300.png" alt="" width="203" height="300" class="size-medium wp-image-16550" /></a> Ribon HaOlamim from Maimonides Seder Tefillot Kol Hashanah (Constantinople 1509)[/caption]
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <tbody>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="commentary" lang="he">
 תלמוד בבלי יומא פז ב
 
@@ -285,7 +285,7 @@ This is a faithful transcription of <em>Ribon HaOlamim</em> (a/k/a "Rebbi Yoḥa
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Talmud Bavli Yoma 87b
 
@@ -295,14 +295,14 @@ And where in the Yom Kippur prayers does one say the confession? An individual s
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="commentary" lang="he">
 [...]
 עולא בר רב נחית קמיה דרבא פתח באתה בחרתנו <strong>וסיים במה אנו מה חיינו</strong> ושבחיה רב הונא בריה דרב נתן אמר ויחיד אומרה אחר תפלתו
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 The Gemara relates: Ulla bar Rav went down to lead the ne’ila prayer before Rava, who was in the synagogue. He opened the prayer with: "You have chosen us," <strong>and he concluded with: "What are we, what are our lives?"</strong> And Rava praised him. Rav Huna, son of Rav Natan, said: And an individual says it after his Amida prayer. The individual says the confession after his Amida prayer, not within the Amida prayer as the prayer leader does.
 </div></td>
@@ -310,7 +310,7 @@ The Gemara relates: Ulla bar Rav went down to lead the ne’ila prayer before Ra
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="commentary" lang="he">
 אליהו רבה (איש שלום) פרשה יט
 
@@ -318,7 +318,7 @@ The Gemara relates: Ulla bar Rav went down to lead the ne’ila prayer before Ra
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Eliyahu Rabbah, Parshah 19
 
@@ -328,7 +328,7 @@ In another comment on “That faint for hunger” (Lam. 2:19), “hunger is take
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="commentary" lang="he">
 ראבי״ה ח״א - מסכת ברכות סימן קמו
 
@@ -336,7 +336,7 @@ In another comment on “That faint for hunger” (Lam. 2:19), “hunger is take
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 
 </div></td>

@@ -15,32 +15,32 @@ The psalm is included in Isaac Mayer's Psalms for Fast Days according to his ord
 Note: “The CAUSE” is used to translate the Divine Name YHVH, based on the philosophical idea of God as the Prime Mover and on the interpretation of the Name as a causative form of the copula – “causes to be.”
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <span class="instruction">הַיּוֹם יוֹם צוֹם תִּשְׁעָה בְּאָב הוּא צוֹם הַחֲמִישִׁי וּבוֹ יֵשׁ אוֹמְרִים׃</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <span class="instruction">Today is the fast day of the 9th of Av, the fast of the fifth month, and on it some say:</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 תהלים קלז
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Psalms 137
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he"><span style="color:blue;">
 עַ֥ל נַהֲר֨וֹת ׀ בָּבֶ֗ל
 שָׁ֣ם יָ֭שַׁבְנוּ גַּם־בָּכִ֑ינוּ 
@@ -48,7 +48,7 @@ Psalms 137
 אֶת־צִיּֽוֹן׃ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 By the rivers of Babylon,
 there we sat and also wept,
@@ -57,7 +57,7 @@ Zion.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he"><span style="color:blue;">
 עַֽל־עֲרָבִ֥ים בְּתוֹכָ֑הּ
 תָּ֝לִ֗ינוּ כִּנֹּרוֹתֵֽינוּ׃
@@ -69,7 +69,7 @@ Zion.
 עַ֗֝ל אַדְמַ֥ת נֵכָֽר׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Upon the willows there
 we hung up our lyres.
@@ -82,7 +82,7 @@ on outsiders' soil?
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he"><span style="color:blue;">
 אִֽם־אֶשְׁכָּחֵ֥ךְ יְֽרוּשָׁלָ֗&#x200d;ִם
 תִּשְׁכַּ֥ח יְמִינִֽי׃
@@ -92,7 +92,7 @@ on outsiders' soil?
 עַ֗֝ל רֹ֣אשׁ שִׂמְחָתִֽי׃ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 If I forget you, Jerusalem,
 let my right hand forget.
@@ -103,7 +103,7 @@ over the height of my joy.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he"><span style="color:blue;">
 זְכֹ֤ר יְהֹוָ֨ה ׀ לִבְנֵ֬י אֱד֗וֹם
 אֵת֮ י֤וֹם יְֽרוּשָׁ֫לָ֥&#x200d;ִם 
@@ -118,7 +118,7 @@ over the height of my joy.
 אֶל־הַסָּֽלַע׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Remember, o CAUSE, the Edomites,
 that day — Jerusalem! —
@@ -134,25 +134,25 @@ against the rocks!
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 קלח א
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Psalms 138:1
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 לְדָוִ֨ד ׀ 
 אוֹדְךָ֥ בְכׇל־לִבִּ֑י
 נֶ֖גֶד אֱלֹהִ֣ים אֲזַמְּרֶֽךָּ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 David's.
 I thank You with all my heart,

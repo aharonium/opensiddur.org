@@ -7,10 +7,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אַהֲבַת עוֹלָם בֵּית יִשְׂרָאֵל 
 עַמְּךָ אָהַבְתָּ, 
@@ -19,7 +19,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 אוֹתָנוּ לִמַּדְתָּ.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 You keep loving us,
 As You have always loved us.
@@ -30,7 +30,7 @@ To know reality and justice.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 עַל כֵּן יְהֹוָה אֱלֹהֵינוּ,
 בְּשָׁכְבֵנוּ 
@@ -42,7 +42,7 @@ To know reality and justice.
 וּבְמִצְוֺתֶיךָ לְעוֹלָם וָעֶד, 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Therefore, Yah, our God, 
 When we are to rest for the night,
@@ -55,18 +55,18 @@ And plan to do Mitsvot.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 כִּי הֵם חַיֵּינוּ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 This is what we live for.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְאֹרֶךְ יָמֵינוּ, 
 וּבָהֶם נֶהְגֶּה יוֹמָם וָלָיְלָה. 
@@ -76,7 +76,7 @@ This is what we live for.
 אוֹהֵב עַמּוֹ יִשְׂרָאֵל:
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 This is what keeps us going.
 Day and night we will

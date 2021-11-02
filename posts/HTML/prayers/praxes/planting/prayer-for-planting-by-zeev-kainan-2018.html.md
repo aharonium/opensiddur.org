@@ -7,11 +7,11 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew (source)</th><th style="text-align: left;">English (translation)</th></tr></thead>
 <tbody>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 רִבּוֹן עוֹלָמִים 
 וֶאֱלֹהֵי שָׁמַיִם וָאָרֶץ,
@@ -37,7 +37,7 @@ as it is written “And he planted a tamarisk in Be’er Shava.”[foot]Genesis 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 בָּרֵךְ אֶת נְטִיעוֹתֵינוּ 
 וְהַעֲמֵק שָׁרְשֵׁיהֶן
@@ -59,7 +59,7 @@ there shall be showers of blessing.”[foot]Ezekiel 34:26 partial[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וִיהִי רָצוֹן שֶׁיִּתְקַיֵּם בָּנוּ, 
 בְּבָנֵינוּ וּבְנוֹתֵינוּ מִקְרָא שֶׁכָּתוּב:
@@ -75,7 +75,7 @@ and I will plant them in this land in truth.”[foot]Jeremiah 32:41 partial[/foo
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הַנּוֹטְעִים בְּרִנָּה – בְּגִילָה יִבְצֹרוּ!
 וּתְנֵנוּ בִּמְהֵרָה בְּיָמֵינוּ 

@@ -7,10 +7,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הַנֹּתֵ֣ן שֶׁ֣לֶג כַּצָּ֑מֶר כְּ֝פ֗וֹר כָּאֵ֥פֶר יְפַזֵּֽר׃ <span class="citation">(תהלים קמז:יו)</span>
 מוֹדִים אֲנַחְנוּ לָךְ עַל כׇּל־פִּתִּים וּפִתִּים שֶׁהִשְׁלַכְתָּ עֲלֵינוּ׃ <span class="citation">(כמו תהלים קמז:יז)</span>
@@ -20,7 +20,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 רֹב הַהוֹדָאוֹת וְהָאֵל הַהוֹדָאוֹת׃ <span class="citation">(תלמוד בבלי, ברכות נט ב על פי רב פפא)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 O Giver of Snow like wool, and Scatterer of Frost like ashes,[foot]Psalm 147:16.[/foot]
 we give thanks to You for each flake and flake that You throw upon us.[foot]as in Psalm 147:17.[/foot]

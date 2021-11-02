@@ -29,7 +29,7 @@ The kernel of biblical text 'E' and the 'B' layer are absent from this parashah.
 Parashat Qoraḥ <span class="citation">(Numbers 16:1-18:32)</span> in the annual Torah reading cycle is the fifth parashah in Sefer Bamidbar. It is preceded by parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-bamidbar/parashat-shlah/parashat-shlah-color-coded-according-to-its-narrative-layers/">Shlaḥ</a> <span class="citation">(Numbers 13:1-15:41)</span>. Parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-bamidbar/parashat-huqat/parashat-huqat-color-coded-according-to-its-narrative-layers/">Ḥuqat</a> <span class="citation">(Numbers 19:1-22:1)</span> follows it. 
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

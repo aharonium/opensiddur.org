@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew (reconstructed from the nusaḥ and translation)</th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="33%">
@@ -212,7 +212,7 @@ From "How Faithful The Nation of the Jewes are." in <em>To His Highnesse The Lor
 
 Menasseh ben Israel begins his explanation for the prayer <em>Hanoten Teshua</em> with a reference to Jeremiah 29:7 and to the Talmud Bavli, tractate Avodah Zara 3b. In doing so, he's relating the explanation provided by Abu-Dirham (fl. 1340) in his Sefer Abudraham, (translation slightly adapted from that made by <a href="http://www.torahmusings.com/2014/09/praying-government-uk-elsewhere-ii/">Barry Freundel</a>):
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <tbody>
 <tr>
 <td style="vertical-align:top;">
@@ -233,7 +233,7 @@ Compared with later versions, this variation of <em>Hanoten Teshua</em> included
 
 Related to the liturgical phrase on the rise of the planetary star, I think, Menasseh ben Israel includes a reference in his argument for the proper regard that should be granted the Jews by the other nations. The reference is to Zohar Pekudei (Zohar II 267b:8-10) and we believe this may be the first time anyone has ever located the actual text being referred to here. Below is the text from the Zohar II 267b:8-10 side by side with an English translation (thanks to Michael Berg, ed., Kabbalah Centre, for providing this translation):
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <tbody>
 <tr>
 <td style="vertical-align:top;">

@@ -26,7 +26,7 @@ An allen Abenden:
 וְצִוָּנוּ לְהַדְלִיק נֵר שֶׁל חֲנֻכָּה׃
 </span></div></td>
  
-<td width="53%">
+<td style="vertical-align:top;">
 <div class="german" lang="de">
 Gepriesen seist Du, Ewiger, 
 unser G-tt, König der Welt, 
@@ -50,7 +50,7 @@ und uns geboten, das Chanukkahlicht anzuzünden.
 בַּזְּמַן הַזֶּה׃
 </span></div></td>
 
-<td width="53%">
+<td style="vertical-align:top;">
 <div class="german" lang="de">
 Gepriesen seist Du, Ewiger, 
 unser G-tt, König der Welt, 
@@ -73,7 +73,7 @@ Am ersten Abend wird hinzugefügt:
 וְהִגִּיעָנוּ לַזְּמַן הַזֶּה׃
 </span></div></td>
  
-<td width="53%">
+<td style="vertical-align:top;">
 <div class="german" lang="de">
 Gepriesen seist Du, Ewiger, 
 unser G-tt, König der Welt, 
@@ -113,7 +113,7 @@ Die Kerzen werden gezündet, wie oben beschrieben. Dann spricht man:
 וְעַל נִפְלְאוֹתֶיךָ׃ 
 </span></div></td>
  
-<td width="53%">
+<td style="vertical-align:top;">
 <div class="german" lang="de">
 Diese Lichter zünden wir an ob der Wunder, Siege und allmächtigen Taten, welche Du für unsere Vorfahren vollbracht hast durch deine heiligen Priester. Alle acht Chanukkahtage sind diese Lichter geweiht, und ist uns nicht erlaubt, sie zu benutzen, wir dürfen sie nur betrachten, um deinem Namen zu danken für deine Wunder, deine Hilfe und deine allmächtigen Taten.
 <em>HaNerot halalu
@@ -148,7 +148,7 @@ elah lirotam bil'wad, kedej le'hodot le'schimchah al nisejchah we'al jeschuatejc
 חֲנֻכַּת הַמִּזְבֵּחַ׃ 
 </span></div></td>
  
-<td width="53%">
+<td style="vertical-align:top;">
 <div class="german" lang="de">
 Zuflucht, meiner Hilfe Hort, Dir gebühret Lobesgesang,
 Gründe des Gebetes-Haus, dass wir Dankesopfer dort bringen.

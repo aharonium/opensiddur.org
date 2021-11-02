@@ -7,11 +7,11 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew (adaptation)</th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 בּוֹרֵא שָׁמַיִם וַאָרֶץ, 
 יְהִי רָצוֹן מִלְפָנֶיךָ שֶׁיִמָלְּאוּ רַחֲמֶיךָ לְהָתִיר נְשׁוֹת יִשְׂרָאֵל הַשְׁבוּיוֹת 
@@ -19,7 +19,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 אַךְ קְדוּשָׁה וְאַהֲבָה כְּבַר סָרוּ מִמְעוֹנָן. 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Creator of heaven and earth, 
 may it be Your will to free the captive wives of Israel 
 when love and sanctity have fled the home, 
@@ -27,14 +27,14 @@ but their husbands bind them in the tatters of their <em>ketubot</em>.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+<tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 הַסֵר נָא מֵעֲלֵיהֶן אֶת עוֹלָן הַמַּר 
 וְרַכֵךְ אֶת לִבָּם הַמְּאוּבָּן שֶׁל שׁוֹבֵיהֶן. 
 פְּתַח חַרְצוּבוֹת רֶשַׁע וּשְׁלַח בְּנוֹתֶיךָ חָפְשִׁי לִבְנוֹת בַּיִת בְּיִשְׂרָאֵל 
 וּלְגַדֵּל יְלָדִים בְּאַהֲבָה וְאַחְוָה, בְּשָׁלוֹם וְרֵאוּת.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Remove the bitter burden from these <em>agunot</em> 
 and soften the hearts of their misguided captors. 
 Liberate Your faithful daughters from their anguish. 
@@ -42,26 +42,26 @@ Enable them to establish new homes and raise up children in peace.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+<tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 הָשִׁיבָה שׁוֹפְטֵינוּ כְבָרִאשׁוֹנָה וְיוֹעַצֵינוּ כְּבַתְחִילָה 
 וְתֵן בְּלִבָּם רוּחַ חַכְמָה וּגְבוּרָה, 
 רוּחַ עֵצָה וְתוֹשִׁיָה לְהָצִיל עָשׁוּק מִיָד רוֹדֵף וְאִשָׁה מֵשִׁבְיָה.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Grant wisdom to the judges of Israel;
 teach them to recognize oppression and rule against it. 
 Infuse our rabbis with the courage to use their power for good alone.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+<tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה, 
 בּוֹרֵא שָׁמַיִם וַאָרֶץ, 
 מַתִּיר אֲסוּרִים.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Blessed are you, 
 Creator of heaven and earth, 
 who frees the captives.

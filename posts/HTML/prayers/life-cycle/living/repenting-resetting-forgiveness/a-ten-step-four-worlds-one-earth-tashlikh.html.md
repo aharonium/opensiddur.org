@@ -49,7 +49,7 @@ The name "<em>Tashlikh</em>" and the practice itself are derived from the book o
 וְתַשְׁלִ֛יךְ בִּמְצֻלֹ֥ות יָ֖ם כָּל־חַטֹּאותָֽם׃
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 He will again have compassion upon us;
 He will subdue our iniquities;
 And Thou wilt cast all their sins into the depths of the sea.[foot]Translation of Micah 7:19 from the JPS 1917.[/foot]

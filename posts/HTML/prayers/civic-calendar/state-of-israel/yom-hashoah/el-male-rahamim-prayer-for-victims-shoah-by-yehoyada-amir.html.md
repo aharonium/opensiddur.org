@@ -7,11 +7,11 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th><th style="text-align: left;">Translation (Ukrainian)</th><th style="text-align: left;">Translation (Romanian)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy" lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 אֵל מָלֵא רַחֲמִים, 
 שׁוֹכֵן בַּמְּרוֹמִים, 
 הַמְצֵא מְנוּחָה נְכוֹנָה תַּחַת כַּנְפֵי הַשְּׁכִינָה, 
@@ -32,7 +32,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english" lang="en">
+<div class="english" lang="en" style="text-align: left;">
 El, full of compassion, 
 who dwells in the heights, 
 provide a fitting rest upon the wings of the Shekhina, 
@@ -53,7 +53,7 @@ and not separated from that love even after death.
 </div></td>
 
 <td style="vertical-align:top;">
-<div class="cyrillic" lang="uk">
+<div class="cyrillic" lang="uk" style="text-align: left;">
 Ель, сповнений милосердя, 
 який витає в висотах, 
 дає правдивий спочинок  під крилами Шехіни, 
@@ -74,7 +74,7 @@ and not separated from that love even after death.
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="romanian" lang="ro">
+<div class="romanian" lang="ro" style="text-align: left;">
 Dumnezeule plin de compasiune, ce te afli în înălțimi, 
 în sfințenia și puritatea ta, ca strălucirea cerului înstelat, 
 dăruiește odihna meritată, sub aripile de Shekhina, 
@@ -93,7 +93,7 @@ care nu s-au desparțit nici după moarte.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy" lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 לְנִשְׁמוֹת בְּנֵי דָּתוֹת וְעַמִּים רַבִּים, 
 שֶׁנָּפְלוּ קָרְבָּן לְתַאֲוַת הָרֶשַׁע הַנָּאצִית: 
 וּבָהֶם: מִתְנַגְּדֵי הַמִּשְׁטָר הָרַצְחָנִי, 
@@ -104,7 +104,7 @@ care nu s-au desparțit nici după moarte.
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english" lang="en">
+<div class="english" lang="en" style="text-align: left;">
 [Provide a fitting rest to] the souls of members of the many other religions and nationalities 
 who fell victim to the predatory appetite of the Nazis, 
 including those who opposed the murderous regime, 
@@ -115,7 +115,7 @@ along with many others they found unworthy of life.
 </div></td>
 
 <td style="vertical-align:top;">
-<div class="cyrillic" lang="uk">
+<div class="cyrillic" lang="uk" style="text-align: left;">
 За душі  численних народів та релігій, 
 які стали жертвами злочинної пристрасті нацистів, 
 між ними противники вбивчого режиму, 
@@ -126,7 +126,7 @@ along with many others they found unworthy of life.
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="romanian" lang="ro">
+<div class="romanian" lang="ro" style="text-align: left;">
 Pentru sufletele celor mulți, 
 de alte religii și naționalități, 
 care au căzut victime ale poftei criminale naziste, 
@@ -139,7 +139,7 @@ cei cu dizabilități fizice și mentale,
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy" lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 וּלְנִשְׁמוֹת כָּל מִי שֶׁנֶּאֱבְקִוּ לְחַיִּים וּלְחֵירוּת, 
 אֵלֶּה שֶׁהִקְרִיבוּ חַיֵּיהֶם כְּדֵי לְהַצִּיל חַיִּים, 
 מִי שֶׁגַּם בְּגֵיא צַלְמָוֶת דָּבְקוּ בַּחַיִּים וּבָאַהֲבָה, 
@@ -147,7 +147,7 @@ cei cu dizabilități fizice și mentale,
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english" lang="en">
+<div class="english" lang="en" style="text-align: left;">
 [Provide a fitting rest to] the souls of all those who fought for life and liberty, 
 those who sacrificed their lives to save the lives of others, 
 those who clung to the values of life and love even while in the valley of the shadow of death, 
@@ -155,7 +155,7 @@ and those who grabbed weapons to battle their oppressors.
 </div></td>
 
 <td style="vertical-align:top;">
-<div class="cyrillic" lang="uk">
+<div class="cyrillic" lang="uk" style="text-align: left;">
 І за душі усіх, які боролися за життя і свободу, 
 які віддали своє життя, щоб врятувати  інших, 
 які навіть в долині тіней трималися життя і любові, 
@@ -163,7 +163,7 @@ and those who grabbed weapons to battle their oppressors.
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="romanian" lang="ro">
+<div class="romanian" lang="ro" style="text-align: left;">
 Si pentru sufletele tuturor celor care au luptat pentru viață și libertate, 
 cei care și-au sacrificat viața pentru a salva viețile altora, 
 cei care s-au agățat de viață și iubire, 
@@ -172,32 +172,32 @@ cei care au apucat arme și au luptat contra opresorilor.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy" lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 אֶרֶץ אַל תְּכַסִּי דָּמָם 
 וְאַל יְהִי מָקוֹם לְזַעֲקָתָם. 
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english" lang="en">
+<div class="english" lang="en" style="text-align: left;">
 O land! Do not cover their blood, 
 do not be a resting place for their screams. 
 </div></td>
 
 <td style="vertical-align:top;">
-<div class="cyrillic" lang="uk">
+<div class="cyrillic" lang="uk" style="text-align: left;">
 Земле, не покривай їхньої крові, 
 не будь сховком їхніх криків. 
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="romanian" lang="ro">
+<div class="romanian" lang="ro" style="text-align: left;">
 Pamântule, nu acoperi sângele lor 
 și nu fii loc pentru strigătul lor. 
 </span></div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy" lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 יִהְיוּ חַיֵּינוּ יַד וָשֵׁם לְזִכְרָם. 
 יְהִי לָנוּ זִכְרַם מָקוֹר לֶאֱמוּנָה 
 בְּנִצְחוֹן הַטּוֹב עַל הָרֹעַ, 
@@ -206,7 +206,7 @@ Pamântule, nu acoperi sângele lor
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english" lang="en">
+<div class="english" lang="en" style="text-align: left;">
 May our lives be the monument to their memories. 
 May their memory serve to strengthen our belief 
 in the ultimate triumph of good over evil, 
@@ -215,7 +215,7 @@ and of freedom over subjugation.
 </div></td>
 
 <td style="vertical-align:top;">
-<div class="cyrillic" lang="uk">
+<div class="cyrillic" lang="uk" style="text-align: left;">
 Хай наші життя будуть прихистком для їхньої пам'яті. 
 Хай їхня пам'ять стане для нас джерелом віри в істинну перемогу добра над злом,  
 правди над брехнею, 
@@ -223,7 +223,7 @@ and of freedom over subjugation.
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="romanian" lang="ro">
+<div class="romanian" lang="ro" style="text-align: left;">
 Fie ca viața noastră să fie monumentul amintirilor lor. 
 Fie ca memoria lor să servească pentru a întări credința noastră 
 în triumful final al binelui asupra răului, 
@@ -233,7 +233,7 @@ al libertății asupra subjugării.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy" lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 בַּעַל הָרַחֲמִים הַסְתִּירֵם בְּסֵתֶר כְּנָפֶיךָ לְעוֹלָמִים 
 וּצְרוֹר בִּצְרוֹר הַחַיִּים אֶת נִשְׁמָתָם. 
 בְּגַן עֵדֶן תְּהֵא מְנוּחָתָם, 
@@ -242,7 +242,7 @@ al libertății asupra subjugării.
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english" lang="en">
+<div class="english" lang="en" style="text-align: left;">
 Master of compassion, safeguard them in your wings forever 
 and bind their souls in the everlasting matrix of life. 
 May they rest in Gan Aden, 
@@ -251,7 +251,7 @@ and may they rest in peace wherever they may be lying.
 </div></td>
 
 <td style="vertical-align:top;">
-<div class="cyrillic" lang="uk">
+<div class="cyrillic" lang="uk" style="text-align: left;">
 Милосердний, сховай їх під своїми крилами навіки, 
 зв'яжи їхні душі вузлом життя. 
 Хай вони відпочинуть в саду Еденському, 
@@ -260,7 +260,7 @@ and may they rest in peace wherever they may be lying.
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="romanian" lang="ro">
+<div class="romanian" lang="ro" style="text-align: left;">
 Tu, cel plin de compasiune, protejează-i sub aripile tale pentru totdeauna 
 și leagă sufletele lor de veșnicia vieții. 
 Fie ca ele să se odihnească în Eden, 
@@ -270,7 +270,7 @@ Dumnezeu să le fie liniștea,
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy" lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 וְתַעֲמֹד צִדְקָתָם לָנוּ, 
 לְכָל יִשְׂרָאֵל, 
 וּלְכָל הַנֶאֱבַקִים לְחֵרוּת לְצֶדֶק וּלְשָׁלוֹם, 
@@ -278,7 +278,7 @@ Dumnezeu să le fie liniștea,
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english" lang="en">
+<div class="english" lang="en" style="text-align: left;">
 May their righteousness be a source of merit for us, 
 for all of Yisrael, 
 and for all those who fight for freedom, justice and peace.  
@@ -286,7 +286,7 @@ And let us say: <em>Amen</em>.
 </div></td>
 
 <td style="vertical-align:top;">
-<div class="cyrillic" lang="uk">
+<div class="cyrillic" lang="uk" style="text-align: left;">
 а їхня праведність стане взірцем для нас, 
 для всього Ізраїлю і всіх хто бореться за свободу, 
 справедливість та мир. 
@@ -294,7 +294,7 @@ And let us say: <em>Amen</em>.
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="romanian" lang="ro">
+<div class="romanian" lang="ro" style="text-align: left;">
 fie o sursă de merit pentru noi, 
 pentru tot Israelul, 
 și pentru toți cei care luptă pentru libertate, dreptate și pace. 

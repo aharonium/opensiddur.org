@@ -7,17 +7,17 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;"><a href="https://opensiddur.org/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 &nbsp;
 כִּי־בִי יִרְבּוּ יָמֶיךָ 
 וְיוֹסִיפוּ לְּךָ שְׁנוֹת חַיִּים׃ <span class="citation">(משלי ט:יא)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 In the Book of Proverbs (9:11), we read:
 Ki vi yir-BU ya-ME-kha | For, through wisdom your days will increase, 
@@ -25,12 +25,12 @@ ve-yo-SI-fu le-KHA she-NOT ḥai-YIM | and years will be added to your life.[foo
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Our wellbeing may determine the quantity of our years,
 and our health may determine the span of our lives, 
@@ -38,12 +38,12 @@ but it is only what we do in our time on Earth that makes each day count.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Each day, through wisdom and the knowledge we gain, 
 we work to enrich our minds and to satiate them with the tastes of the world around us.
@@ -52,12 +52,12 @@ Through wisdom, we immerse ourselves into a world that veils and reveals the Div
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Through our studies of societies, languages, history, and anthropology, 
 we learn what structures we build on our own and of our own accord. 
@@ -68,12 +68,12 @@ and what links us together?
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Through our studies of arts and entertainment, 
 we learn the craft of invention. 
@@ -86,12 +86,12 @@ become a mirror that reflects our lives?
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Through our studies of law, finances, activism and politics, 
 we learn the struggle for progress. 
@@ -102,12 +102,12 @@ and can our emotional beings prosper even when our markets suffer?
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Through our studies of health and material sciences, 
 we learn the inner workings of our physical surroundings. 
@@ -118,12 +118,12 @@ and how can we mix successful medicines?
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Through our studies of philosophy and math, 
 we learn to recognize the few and the many, 
@@ -131,12 +131,12 @@ and the finite and the infinite.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Our answers are few, 
 but our questions are many.
@@ -149,7 +149,7 @@ but our lives can become infinite.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 &nbsp;
 &nbsp;
@@ -161,7 +161,7 @@ but our lives can become infinite.
 וְיוֹסִיפוּ לְּךָ שְׁנוֹת חַיִּים׃ <span class="citation">(משלי ט:יא)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 A college graduation may mark the finite end of college, 
 but it is just one of infinite points along the continuum of life-long learning: 
@@ -174,12 +174,12 @@ and years will be added to your life.”[foot]Proverbs 9:11[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 May our graduation mark both our completion of college, 
 and the continuation of our pursuits of wisdom. 

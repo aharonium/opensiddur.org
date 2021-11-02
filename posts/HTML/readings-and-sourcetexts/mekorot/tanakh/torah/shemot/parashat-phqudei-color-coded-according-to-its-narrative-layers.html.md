@@ -29,7 +29,7 @@ The kernel of biblical text 'E,' its early supplemental layer 'J', and its later
 Parashat Ph'qudei <span class="citation">(Exodus 38:21-40:38)</span> in the annual Torah reading cycle, is read on the first shabbat of the month of Adar <span class="hebrew" lang="he">ב</span> during a Jewish leap year, or the fourth shabbat in Adar in a regular (non-leap) year. (On non-leap years, parashat Vayaqhel and Ph'qudei are combined in their reading.) The parashah is preceded by parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-shemot/parashat-vayaqhel/parashat-vayaqhel-color-coded-according-to-its-narrative-layers/">Vayaqhel</a> <span class="citation">(Exodus 35:1-38:20)</span>; parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-vayiqra/parashat-vayiqra/parashat-vayiqra-color-coded-according-to-its-narrative-layers/">Vayiqra</a> <span class="citation">(Leviticus 1:1-5:26)</span>, the first parashah in Sefer Vayiqra (Leviticus), follows it. 
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

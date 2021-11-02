@@ -9,12 +9,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <table style="margin-left: auto;margin-right: auto;">
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 <h3>Poem to be read after reading the last portion of the Torah reading</h3>
 
 <em>by Abraham ben Marchiv Tsedaka Hassafari (1852-1928)</em>
@@ -70,12 +70,12 @@ And remove fear from our souls.
 
 <table style="margin-left: auto;margin-right: auto;">
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 <h3>Prayer to be Read by the Eldest Reader of the Sabbath Portion</h3>
  
 Thanks to him (Moses) who received it in obedience Whose name is joined with His Name.

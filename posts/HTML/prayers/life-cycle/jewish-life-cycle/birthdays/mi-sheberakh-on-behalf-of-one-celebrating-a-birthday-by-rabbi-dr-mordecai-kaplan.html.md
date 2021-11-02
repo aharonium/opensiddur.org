@@ -7,27 +7,27 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מִי שֶׁבֵּרַךְ אֲבוֹתֵֽינוּ 
 אַבְרָהָם יִצְחָק וְיַעֲקֹב 
-הוּא יְבָרֵךְ אֶת .....
+הוּא יְבָרֵךְ אֶת (<span class="instruction">...</span>) 
 לִתְקוּפַת יוֹם הֻלַּדְתּוֹ/הֻלַּדְתָּהּ. 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 May the One who blessed our fathers, 
 Avraham, Yitsḥaq, and Ya'aqov, 
-bless ..... 
-on the anniversary of their birthday. 
+bless (<span class="instruction">...</span>) 
+on the (<span class="instruction">...</span>) anniversary of their birthday. 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הָאֱלֹהִים הָרוֹעֶה אוֹתוֹ מֵעוֹדוֹ/אוֹתָהּ מֵעוֹדָהּ 
 עַד הַיּוֹם הַזֶּה 
@@ -36,7 +36,7 @@ on the anniversary of their birthday.
 וִיאַשְּׁרֵֽהוּ/וִיאַשְּׁרֶֽהָ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 May Elohim who enabled them 
 to live to this day 
@@ -46,37 +46,37 @@ of health and happiness.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְיוֹסִיף לוֹ/לָהּ שְׁנוֹת חַיִּים וּבְרָכָה 
 בְּטוֹב וּבִנְעִימוֹת בְּרָב־עֹז וְשָׁלוֹם 
 וְנָֽסוּ יָגוֹן וַאֲנָחָה. 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-May Elohim keep them free 
+May [Elohim] keep them free 
 from all anxieties 
 and bodily ills. 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 יְחַדֵּֽהוּ/יְחַדֶּֽהָ בְאֽשֶׁר 
 וּבְשִׂמְחַת לֵבָב 
 שֶׁל־כׇּל־אֲהוּבֵי נַפְשׁוֹ/נַפְשָׁהּ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-May Elohim cause them to rejoice 
+May [Elohim] cause them to rejoice 
 in the happiness 
 of all who are dear to them. 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וִימַלֵּא 
 כׇּל־מִשְׁאֲלוֹת לִבּוֹ/לִבָּהּ 
@@ -84,27 +84,27 @@ of all who are dear to them.
 וּתְפִלּוֹתָיו/וּתְפִלּוֹתֶֽיהָ לְטוֹבָה. 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-May Elohim enable them 
+May [Elohim] enable them 
 to behold the fulfilment 
 of all their worthy hopes 
 and prayers. 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אָמֵן׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-Amen.
+<em>Amen</em>.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה 
 יְהֹוָה אֱלֹהֵינוּ
@@ -115,7 +115,7 @@ Amen.
 לַזְּמָן הַזֶּה:
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Blessed be you
 YHVH our <em>elo'ah</em>
@@ -134,5 +134,7 @@ to this happy occasion.
 <h3>Source(s)</h3>
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/SabbathPrayerBookJewishReconstructionistFoundation1945#page/n522/mode/2up"]
+
+&nbsp;
 </body>
 </html>

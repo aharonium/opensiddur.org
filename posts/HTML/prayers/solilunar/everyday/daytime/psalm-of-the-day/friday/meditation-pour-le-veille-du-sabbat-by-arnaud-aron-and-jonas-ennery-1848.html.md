@@ -7,10 +7,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="width:100%;margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="width: 100%; margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="50%">
+<tr><td style="vertical-align:top;">
 <div class="french" lang="fr">
 <u>Sur la Providence.</u>
 </span></div></td>
@@ -21,7 +21,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="50%">
+<tr><td style="vertical-align:top;">
 <div class="french" lang="fr">
 «Les cieux racontent la gloire du Seigneur 
 et le firmament annonce l'œuvre de ses mains» <span class="citation">(Ps. 19, 2)</span>. 
@@ -34,7 +34,7 @@ and the expanse telleth of the work of His hands." <span class="citation">(Psalm
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="50%">
+<tr><td style="vertical-align:top;">
 <div class="french" lang="fr">
 Seigneur, en instituant la solennité sabbatique, commémoration perpétuelle de la création du monde, tu nous a enseigné que c'est à tes œuvres que tu veux être reconnu, que c'est pour tes bienfaits que ta veux être adoré. Tu as tracé dès lors les attributs distinctifs de la foi d'Israël. Tel est, eu effet, le signe lumineux de notre religion, le caractère simple mais saillant de notre croyance. Elle ne repose point sur de subtiles interprétations, elle n'a point pour fondement de mystérieuses légendes, qui bouleversent et confondent la raison. La raison! Elle est un rayon de la lumière divine, le caractère originel qui distingue l'âme humaine de la brute. Bien loin de la proscrire, la foi commande à l'israélite de te remercier, ô Seigneur, de ce don, comme du flambeau que tu as donné à l'homme, pour éclairer, pour admirer tes œuvres et pour te reconnaître aux signes visibles de ta Providence. C'est pourquoi, dans cette soirée sainte, nous célébrons tes œuvres prodigieuses par les chants divins qu'elles ont inspirés au psalmiste. 
 </span></div></td>
@@ -45,7 +45,7 @@ Lord, by instituting the solemn Sabbath, a perpetual commemoration of the creati
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="50%">
+<tr><td style="vertical-align:top;">
 <div class="french" lang="fr">
 Ainsi, ô souverain Créateur, non-seulement tu t'es révélé en plein jour sur le Sinaï, en face de tout un peuple, par la proclamation des vérités éternelles, par la fondation du monde moral, mais tu te manifestes chaque jour par les marques de ta puissance. 
 </span></div></td>
@@ -56,7 +56,7 @@ Thus, O Sovereign Creator, not only did you reveal yourself in broad daylight on
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="50%">
+<tr><td style="vertical-align:top;">
 <div class="french" lang="fr">
 Israélite, que j'ouvre la Bible ou que je promène mes yeux sur la nature, comment la Providence pourra-t-elle échapper aux lumières de ma raison? Il faudrait, comme disait le Seigneur à Job, faire taire auparavant toutes les harmonies, tous les concerts du firmament <span class="citation">(Job 38)</span>. 
 </span></div></td>
@@ -67,7 +67,7 @@ Israelite, whether I open the Bible or walk my eyes on nature, how can Providenc
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="50%">
+<tr><td style="vertical-align:top;">
 <div class="french" lang="fr">
 Dans une nuit sereine, je contemple le spectacle de la voûte céleste, le nombre immense d'étoiles qui étincellent comme des fleurs de diamants semées dans le ciel; qui marchent rangées en bataille sous l'étendard du Seigneur, et décrivent avec tant de précision, depuis le commencement du monde, leur orbe séculaire: c'est le mélodieux concert que la nature chante devant le Seigneur! Est-ce le hasard qui a tracé aux corps célestes les immenses orbites qu'ils parcourent avec tant de régularité? 
 </span></div></td>
@@ -78,7 +78,7 @@ In a serene night, I contemplate the spectacle of the celestial vault, the immen
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="50%">
+<tr><td style="vertical-align:top;">
 <div class="french" lang="fr">
 O vous, qui déniez à la Providence vos hommages et vos adorations, ne vous endurcissez pas dans le doute, ou bien faites taire auparavant ce sublime concert qui règne au ciel et sur la terre! Éteignez les célestes flambeaux que la Providence a allumés sur nos têtes; dites à l'aurore de ne plus annoncer le jour, aux saisons de suspendre leurs cours, à la mer de rompre les digues que le Seigneur lui a imposées, quand il a dit à l'Océan: «tu n'iras pas plus loin!» <span class="citation">(Job 38, 11)</span> 
 </span></div></td>
@@ -89,7 +89,7 @@ O you who deny Providence your tributes and your adoration, do not harden yourse
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="50%">
+<tr><td style="vertical-align:top;">
 <div class="french" lang="fr">
 Ou plutôt, obéissez à votre raison qui vous montre le bras de la Providence! Unissez votre voix à celles de toutes les créatures dans l'ineffable mélodie qu'elles forment pour la gloire de leur auteur! 
 </span></div></td>
@@ -100,7 +100,7 @@ Or rather, obey your reason which shows you the arm of Providence! Unite your vo
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="50%">
+<tr><td style="vertical-align:top;">
 <div class="french" lang="fr">
 Mais, si dans la direction du monde matériel la main de la Providence est imprimée avec tant d'évidence, pourrait-elle abandonner au hasard le gouvernement bien supérieur des esprits? Le Seigneur aurait-il donné toute son attention à la nature morte, aux corps formés de poussière, aux choses passagères, pour abandonner au hasard la direction des âmes immortelles? Voici ce que nous répond le prophète: «Je sais, ô Seigneur, que la voie de l'homme n'est pas en son pouvoir, et qu'il n'est pas dans la puissance de l'homme de conduire ses œuvres et ses pas» <span class="citation">(Jérémie 10, 23)</span>. 
 </span></div></td>
@@ -111,7 +111,7 @@ But, if in the direction of the material world the hand of Providence is so obvi
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="50%">
+<tr><td style="vertical-align:top;">
 <div class="french" lang="fr">
 Dieu conduit tout. Mais l'esprit borné de l'homme ne saisit pas toujours les voies providentielles. En voyant, parfois, le pécheur jouir en paix des plus doux fruits de la terre, et le juste tremper son pain dans ses larmes, l'homme irréfléchi ne comprend pas que c'est encore la justice et l'amour que ta Providence met en œuvre, «Le fou ne sait pas, dit le roi-prophète, l'insensé ne comprend pas que si le méchant semble croître comme l'herbe, que si les auteurs du mal fleurissent, c'est pour tomber dans l'éternel abîme, tandis que le juste trouvera près de son Dieu une magnifique récompense» <span class="citation">(Ps. 92, 7-8, 13)</span>. 
 </span></div></td>
@@ -122,7 +122,7 @@ God conducts all. But man's narrow-minded spirit does not always grasp the ways 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="50%">
+<tr><td style="vertical-align:top;">
 <div class="french" lang="fr">
 Riches et pauvres ont leur compte inscrit au ciel. Dieu, devant qui est ouvert l'histoire du passé, devant qui est déroulé le livre de l'incommensurable avenir, et pour qui les siècles sont à peine des heures, connaît seul la source et l'enchaînement des milliers d'événements qui constituent les destinées humaines. Et vous, esprits faibles et présomptueux, vous qui possédez à peine l'instant actuel de la vie, comment pouvez-vous juger les voies dé la Providence? Comment un prisonnier qui ne verrait qu'un coin du ciel pourrait-il juger des beautés et de l'ensemble de l'univers? 
 </span></div></td>
@@ -133,7 +133,7 @@ Rich and poor have their accounts inscribed in heaven. God, before whom the hist
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="50%">
+<tr><td style="vertical-align:top;">
 <div class="french" lang="fr">
 Dieu conduit tout. Pourquoi donc agissez-vous comme si vous en doutiez? Pourquoi vous fiez-vous uniquement à votre propre force, à votre propre sagesse; et, quand le mal vous atteint ou que vos rêves satisfaits ne'vous laissent que déceptions, pourquoi murmurez-vous? 
 </span></div></td>
@@ -144,7 +144,7 @@ God conducts all. Why then do you act as if you doubt it? Why do you rely only o
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="50%">
+<tr><td style="vertical-align:top;">
 <div class="french" lang="fr">
 Dieu conduit tout. L'orgueil du riche se courbe soudain sous le faix de la pauvreté; l'orgueil des parents s'abîme souvent dans la tombe des enfants; la faveur élève subitement l'homme modeste; un bonheur inespéré vient raviver celui qui pliait naguère sous le poids du malheur.
 </span></div></td>
@@ -155,7 +155,7 @@ God conducts all. The pride of the rich man suddenly bends under the weight of p
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="50%">
+<tr><td style="vertical-align:top;">
 <div class="french" lang="fr">
 Dieu conduit tout. Ils le savaient bien, ces justes des temps anciens, nos pieux ancêtres, lorsqu'ils s'abandonnaient avec tant de confiance à la sagesse de la Providence. Dans toutes leurs entreprises, c'est sur ses bénédictions et non sur leurs propres forces qu'ils comptaient. Ontils été trompés dans leur confiance? Né voyons-nous pas le bras de Dieu qui dirige leur destinée et celle de leurs enfants? L'histoire des patriarches, de Joseph, de David, n'indique-t-elle pas à chaque page l'œil de la Providence? Et pour n'envisager que nous-mêmes, se passe-t-il un seul jour sans que nous ayons l'occasion de voir le doigt de Dieu empreint sur les destinées des familles? 
 </span></div></td>
@@ -165,7 +165,7 @@ Dieu conduit tout. Ils le savaient bien, ces justes des temps anciens, nos pieux
 God conducts all. They knew it well, those righteous people of ancient times, our pious ancestors, when they surrendered themselves so confidently to the wisdom of Providence. In all their endeavors, they relied on His blessings and not on their own strength. Were they deceived in their trust? Do we not see the arm of God directing their destiny and that of their children? Does not the story of the patriarchs, of Joseph, of David, indicate on every page the eye of Providence? And to consider only ourselves, is there a single day that passes without us having the opportunity to see the finger of God imprinted on the destinies of families? </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="50%">
+<tr><td style="vertical-align:top;">
 <div class="french" lang="fr">
 Dieu conduit tout. Mûrissez vos projets, agissez avec prudence, invoquez votre sagesse, c'est votre devoir; mais Dieu seul pourra faire réussir vos désirs, car lui seul sait ce qui est pour votre bien, «Confie tes voies au Seigneur, fie-toi en lui et tu réussiras» <span class="citation">(Ps. 37, 5)</span>. Semez donc courageusement la semence, mais n'attendez sa maturité que de celui qui peut seul la féconder! Agissez, travaillez , imposez-vous des soins pénibles, c'est la loi de Dieu, mais lui seul peut y joindre la bénédiction. 
 </span></div></td>
@@ -176,7 +176,7 @@ God conducts all. Maturity in your plans, prudence in your actions, and wisdom i
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="50%">
+<tr><td style="vertical-align:top;">
 <div class="french" lang="fr">
 Dieu conduit tout avec justice. «Le droit et la justice sont les bases de son trône» <span class="citation">(Ps. 89, 15)</span>. 
 </span></div></td>
@@ -187,7 +187,7 @@ God conducts all with justice. "Righteousness and justice are the foundation of 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="50%">
+<tr><td style="vertical-align:top;">
 <div class="french" lang="fr">
 Ames pieuses et croyantes, réjouissez-vous à ces paroles consolatrices, et toi, pécheur triomphant, songe à l'instant de leur accomplissemept; le monde peut ne pas voir de si tôt tes œuvres de méchanceté, de vengeance, de volupté , mais le jour de la divulgation arrivera et celui de la punition ne se fera pas attendre! 
 </span></div></td>
@@ -198,7 +198,7 @@ Pious and believing souls, rejoice at these consoling words, and you, the triump
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="50%">
+<tr><td style="vertical-align:top;">
 <div class="french" lang="fr">
 Humble israélite, justes de toutes les croyances, qui portez avec tant de résignation le poids des iniquités d'autrui, ce n'est pas en vain que votre père plein d'amour vous impose ce fardeau, il vous aidera à le porter; il vous éprouve dans la douleur; mais l'heure de la délivrance et de la récompense ne tardera pas à sonner, «Les âmes humbles se réjouiront dans le Seigneur et les pauvres parmi les hommes seront ravis dans le Saint d'Israël» <span class="citation">(Isaïe 29, 19)</span>. 
 </span></div></td>
@@ -209,7 +209,7 @@ Humble Israelite, righteous of all faiths, who bear with such resignation the bu
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="50%">
+<tr><td style="vertical-align:top;">
 <div class="french" lang="fr">
 PRIÈRE. 
 </span></div></td>
@@ -220,7 +220,7 @@ Prayer
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="50%">
+<tr><td style="vertical-align:top;">
 <div class="french" lang="fr">
 O Providence divine, je m'abandonne à toi sans réserve, je me jette avec confiance dans les bras de ta miséricorde; tu es mon Créateur, mon Dieu et mon Père; tu connais le néant d'où tu m'as tiré, le limon dont tu m'as formé, la fin à laquelle tu me destines, le chemin qui doit m'y conduire. Dispose donc de moi et agis selon ta volonté divine. 
 </span></div></td>
@@ -231,7 +231,7 @@ O Divine Providence, I surrender myself unreservedly to you, I confidently throw
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="50%">
+<tr><td style="vertical-align:top;">
 <div class="french" lang="fr">
 Quant à moi, ô Seigneur, je n'ai qu'une seule chose à faire à l'égard, de ta Providence: la reconnaître, l'adorer, m'y soumettre, la sanctifier par ma soumission et tout espérer de sa bonté. Puis-je mettre mon sort en meilleures mains qu'en celles du plus tendre des pères? 
 </span></div></td>
@@ -242,7 +242,7 @@ As for me, O Lord, I have only one thing to do with regard to your Providence: t
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="50%">
+<tr><td style="vertical-align:top;">
 <div class="french" lang="fr">
 PSAUME 121. — CANTIQUE POUR LA VEILLE DU SABBAT. 
 &nbsp;
@@ -257,7 +257,7 @@ Trust in the help of Providence.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="50%">
+<tr><td style="vertical-align:top;">
 <div class="french" lang="fr">
 Je lève les yeux vers les montagnes: 
 D'où me viendra le secours? 
@@ -298,7 +298,7 @@ Now and forever.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="50%">
+<tr><td style="vertical-align:top;">
 <div class="french" lang="fr">
 <span class="instruction">On dit aussi les psaumes 92 et 93.</span>
 </span></div></td>

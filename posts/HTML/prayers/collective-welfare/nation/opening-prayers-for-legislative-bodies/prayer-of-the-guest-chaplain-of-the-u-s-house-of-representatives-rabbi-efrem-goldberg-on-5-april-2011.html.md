@@ -27,26 +27,26 @@ His energy, vision, and wisdom touch everyone he meets, just as it did for us he
 
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <h3>Opening Prayer Given by the Guest Chaplain:</h3>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Our Father in Heaven, 
 guard the Members of our esteemed House of Representatives.
@@ -58,12 +58,12 @@ of the citizens of this great country.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 May this body which hosts rigorous and robust debate 
 continue to embrace diversity 
@@ -80,12 +80,12 @@ and acts of kindness.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 As a grandchild of immigrants 
 who fled the Nazis 
@@ -101,7 +101,7 @@ are privileged to enjoy.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 &nbsp;
 &nbsp;
@@ -112,7 +112,7 @@ are privileged to enjoy.
 אָמֵן׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Master of the Universe, 
 protect our courageous Armed Forces, 
@@ -133,7 +133,7 @@ Issue: Vol. 157, No. 48 — Daily Edition (April 5, 2011)
 
 Link: <a href="https://chaplain.house.gov/chaplaincy/display_gc.html?id=1549">https://chaplain.house.gov/chaplaincy/display_gc.html?id=1549</a>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.c-span.org/video/standalone/?c4509527/rabbi-efrem-goldberg-boca-raton-synagogue-boca-raton-fl" width="512" height="330"]
+<iframe width=530 height=312 src='https://www.c-span.org/video/standalone/?c4509527/rabbi-efrem-goldberg-boca-raton-synagogue-boca-raton-fl' allowfullscreen='allowfullscreen' frameborder=0></iframe>[su_spacer]
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.congress.gov/112/crec/2011/04/05/CREC-2011-04-05-pt1-PgH2300-4.pdf" width="100%" height="900"]
 </body>

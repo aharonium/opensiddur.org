@@ -7,8 +7,8 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="width: 100%;margin-left: auto;margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Transliteration</th><th style="text-align: left;">Translation (English)</th></tr></thead>
+[xyz-ihs snippet="Table-Options"]<table style="width: 100%;margin-left: auto;margin-right: auto;" class="draggable">
+<thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Transliteration (Romanized Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="26%">
 <div class="liturgy" lang="he">
@@ -19,7 +19,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english" lang="en">
+<div class="romanized-transliteration" lang="he">
 Yatsar ha’El et ha`olam:
 Sheshet yamim killa chullam:
 Yom shevi`i mikkelalam:
@@ -44,7 +44,7 @@ He declared it holy and He blessed it.
 </span></div></td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english" lang="en">
+<div class="romanized-transliteration" lang="he">
 `Al ken tsivva livné `ammo:
 Lishbot bayyom hahu lishmo:
 Ulhishtaḥavot el hadomo:
@@ -69,7 +69,7 @@ Praise Him with praises!
 </span></div></td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english" lang="en">
+<div class="romanized-transliteration" lang="he">
 Ḳir’u shirim banne`imim:
 Ushtu yenot `im mat`imim:
 Ya`an zé yom yom ta`atsumim:
@@ -94,7 +94,7 @@ It is a holy day – declare it holy.
 </span></div></td>
  
 <td style="vertical-align:top;" width="33%">
-<div class="english" lang="en">
+<div class="romanized-transliteration" lang="he">
 Berach ha’El et hash-shabbat:
 Ya`an ki vo beyom shavat:
 Moré el ḳadmuto shabbat:

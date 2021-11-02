@@ -7,10 +7,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 עַל הַנִּסִּים 
 וְעַל הַפֻּרְקָן 
@@ -22,7 +22,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 וּבַּזְּמַן הַזֶּה
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 For the miracles
 and the relief 
@@ -35,7 +35,7 @@ and in this time
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 בימי אבותינו הקדמונים 
 גלינו מארצינו 
@@ -49,7 +49,7 @@ and in this time
 בזכרינו מר גורלנו
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 In the days of our ancestors, 
 we were exiled from our land
@@ -64,7 +64,7 @@ remembering our fate.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 והנה בדורינו 
 לעמך ישראל פניך הארת 
@@ -78,7 +78,7 @@ remembering our fate.
 שבנו ובנינו אותה לתפראתך
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And now, in our generation, 
 you shined your light on your people, Yisra'el
@@ -93,7 +93,7 @@ and rebuilt its glory.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מצווארינו פירקנו את עול הגויים 
 וזכינו להקים את מדינת ישראל 
@@ -113,7 +113,7 @@ and rebuilt its glory.
 וְהָאֱמֶת וְהַשָּׁלוֹם אֱהָבוּ׃“ <span class="citation">(זכריה ח:יט)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 We threw the yoke of the Gentile nations off our necks 
 and we were privileged to establish the State of Israel,
@@ -134,7 +134,7 @@ and Truth and Peace you shall love.’”[foot]Zechariah 8:19.[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אבינו שבשמים צור ישראל וגואלו, 
 עזר נא לכל קצוות עמך 
@@ -144,7 +144,7 @@ and Truth and Peace you shall love.’”[foot]Zechariah 8:19.[/foot]
 והודיה לשמך הגדול
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Our Father in Heaven, Rock of Yisra'el and its redeemer,
 Please help all the factions of your people

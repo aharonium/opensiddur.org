@@ -7,10 +7,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;"><a href="https://opensiddur.org/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 &nbsp;
 &nbsp;
@@ -21,7 +21,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 יטא רחל בת צירל לאה
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <em>HaḲadosh Barukh hu</em> (Blessed Holy one), 
 <em>Nefesh kol ḥai</em> (Spirit of All Life) 
@@ -33,7 +33,7 @@ please strengthen the vitality of Yita Rokhl bat Tsirl Leah.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 &nbsp;
 &nbsp;
@@ -45,7 +45,7 @@ please strengthen the vitality of Yita Rokhl bat Tsirl Leah.
 צֶדֶק צֶדֶק תִּרְדֹּף לְמַעַן תִּחְיֶה <span class="citation">(דברים טז:כ חלק)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 May my love and concern for her health 
 be counted among the prayers of all compassionate peoples 
@@ -59,12 +59,12 @@ as is proclaimed in your teaching:
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And so may she live in good health of body mind and spirit 
 for 120 years or more. 

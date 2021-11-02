@@ -7,15 +7,15 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en"> 
 Some twenty-five hundred years ago 
 the prophet Jeremiah
@@ -31,12 +31,12 @@ and behold we found terror."[foot]Cf. Jeremiah 8:15.[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Adonai Eloheinu v'Elohei Avoteinu
 O Lord our god and god of generations past
@@ -47,12 +47,12 @@ and help them and help us find the way to peace.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 God, let this monument and this dedication
 forever remind us that we will come together to mourn our dead.
@@ -107,7 +107,7 @@ As we commemorate Veterans Day this year, may we join together to reaffirm the w
 
 <h3>Source(s)</h3> 
  
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.c-span.org/video/standalone/?c3724411/1982-vietnam-veterans-memorial-dedication-closing-prayer" width="512" height="330"]
+<iframe width=530 height=312 src='https://www.c-span.org/video/standalone/?c3724411/1982-vietnam-veterans-memorial-dedication-closing-prayer' allowfullscreen='allowfullscreen' frameborder=0></iframe>[su_spacer]
 
  
 </body>

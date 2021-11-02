@@ -7,10 +7,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Yiddish)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="yiddish" lang="yi">
 בּוֺרֵא הָעוֺלָמוֺת! 
 מִיט גרױס חָכְמָה האָסטוּ בּעשאפין דיא װעלט װיא מיר װיסין, 
@@ -19,7 +19,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 דארום האָבּין מיר אונזר זאָהן אָפּגעגעבּין צו לערנען תּוֺרָה, 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Creator of the worlds! 
 We know that you have created the world with great wisdom. 
 You also created the predatory desire (<em>yetser hora</em>) which causes a person to transgress 
@@ -28,7 +28,7 @@ Therefore we have urged our child to dedicate themselves to the study of Torah.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="yiddish" lang="yi">
 בּעט איך דיר גאָט, 
 שטארק זײַן הארץ ער זאָל פלײַסיג לערנען, 
@@ -39,7 +39,7 @@ Therefore we have urged our child to dedicate themselves to the study of Torah.
 אָמֵן׃
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 I beseech You, God, 
 strengthen their heart so that they may learn with ease, 
 that they may heed your <em>mitsvos</em> and our advice. 

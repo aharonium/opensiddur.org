@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Initials (Hebrew)</th><th style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="16%">
@@ -24,7 +24,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 תַּתִּיר צְרוּרָה.
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Source of Mercy
 With loving strength
 untie our tangles.
@@ -45,7 +45,7 @@ untie our tangles.
 נוֹרָא.
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Your chanting folk
 raise high, make pure,
 accept our song.
@@ -66,7 +66,7 @@ accept our song.
 כְּבָבַת שָׁמְרֵם.
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Like Your own eye
 Lord keep us safe,
 Who union seek with You.
@@ -87,7 +87,7 @@ Who union seek with You.
 תָּמִיד גָּמְלֵם.
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Cleanse and bless us,
 Infuse us ever
 With loving care.
@@ -108,7 +108,7 @@ With loving care.
 נַהֵל עֲדָתֶֽךָ.
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Gracious source
 Oh holy power!
 Do guide your folk.
@@ -129,7 +129,7 @@ Do guide your folk.
 זוֹכְרֵי קְדֻשָּׁתֶֽךָ.
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Sublime and holy One
 Do turn to us,
 Of holy chant.
@@ -150,7 +150,7 @@ Of holy chant.
 יוֹדֵֽעַ תַּעֲלוּמוֹת.
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Receive our prayer,
 Do hear our cry,
 Who secrets knows.
@@ -167,7 +167,7 @@ Who secrets knows.
 לְעוֹלָם וָעֶד׃
  </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 <span class="instruction">[<em>whisper</em>]</span> 
 Through time and space
 Your glory shines.

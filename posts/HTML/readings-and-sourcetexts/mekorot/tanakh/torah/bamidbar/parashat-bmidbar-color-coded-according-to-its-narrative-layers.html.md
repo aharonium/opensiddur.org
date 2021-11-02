@@ -29,7 +29,7 @@ The kernel of biblical text 'E,' its early supplemental layer 'J', and its later
 Parashat Bamidbar <span class="citation">(Numbers 1:1–4:20)</span> in the annual Torah reading cycle begins Sefer Bamidbar. It is preceded by parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-vayiqra/parashat-bhuqotai/parashat-bhuqotai-color-coded-according-to-its-narrative-layers/">b'Ḥuqotai</a> <span class="citation">(Leviticus 26:3–27:34)</span>. Parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-bamidbar/parashat-naso/parashat-naso-color-coded-according-to-its-narrative-layers/">Naso</a> <span class="citation">(Numbers 4:21-7:89)</span> follows it. 
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

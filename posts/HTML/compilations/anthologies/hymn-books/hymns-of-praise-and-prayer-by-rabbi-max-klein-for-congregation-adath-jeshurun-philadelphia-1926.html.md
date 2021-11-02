@@ -2,12 +2,22 @@
 <head></head>
 <body>
 Title: Hymns of Praise and Prayer, compiled by Rabbi Max D. Klein for Congregation Adath Jeshurun, Philadelphia (1926)<br />
-Primary contributor: aharon.varady<br />
+Primary contributor: meir-david.klein<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=27284">http://opensiddur.org/?p=27284</a>
 <p />
 <hr />
 
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/hymnsofpraiseandprayermaxklein1926#page/n0/mode/2up"]
+
+This work is in the Public Domain due to the lack of a copyright renewal by the copyright holder listed in the copyright notice (a condition required for works published in the United States between January 1st 1924 and January 1st 1964).
+
+<hr />
+
 <div class="english" lang="en" style="font-size: 1.2em;">
+
+
+<blockquote>PREFACE
+
 In sending forth this volume of hymns for the use of the congregation, I desire to record my deepest thanks to those whose words I have included in this collection. I feel certain that it will be a source of happiness to them to know that their words will be sung by thousands who never sang them before. 
 
 In accordance with the practise in hymnology, I have taken the liberty to alter original texts either in language, for the clarification of thought, or in metre for the sake of melody, when I felt that the change would make the hymn more adapted to the needs of the congregation. I have indicated through two stars wherever hymns have been rewritten or considerably altered by me. 
@@ -21,11 +31,9 @@ May God grant us and the whole House of Israel his blessing in the year about to
 M. D. K. 
 
 Philadelphia, August 1926 
-Elul 5686 
+Elul 5686 </blockquote>
+
+
 </div>
-
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/hymnsofpraiseandprayermaxklein1926#page/n0/mode/2up"]
-
-This work is in the Public Domain due to the lack of a copyright renewal by the copyright holder listed in the copyright notice (a condition required for works published in the United States between January 1st 1924 and January 1st 1964).
 </body>
 </html>

@@ -7,17 +7,17 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: right;">Translation (Ladino)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הַ֥לְלוּ יָ֨הּ ׀ 
 הַֽלְלוּ־אֵ֥ל בְּקָדְשׁ֑וֹ 
 הַֽ֝לְל֗וּהוּ בִּרְקִ֥יעַ עֻזּֽוֹ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad">
 <sup>1</sup> אלאבﬞאדﬞ אה ה׳! 
 אלאבﬞאדﬞ אל דייו אין סו סאנטובﬞארייו. 
@@ -25,65 +25,65 @@ For attribution and license, please consult the following URL: <a href="http://o
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הַֽלְל֥וּהוּ בִגְבוּרֹתָ֑יו 
 הַֽ֝לְל֗וּהוּ כְּרֹ֣ב גֻּדְלֽוֹ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad">
 <sup>2</sup> אלאבﬞאלדו פור סו באראגאניאה. 
 אלאבﬞאלדו סיגון לה מוגﬞידﬞומברי די סו גראנדיזה׃ 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הַֽ֭לְלוּהוּ בְּתֵ֣קַע שׁוֹפָ֑ר 
 הַֽ֝לְל֗וּהוּ בְּנֵ֣בֶל וְכִנּֽוֹר׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad">
 <sup>3</sup> אלאבﬞאלדו קון סונידﬞו די טרומפיטה. 
 אלאבﬞאלדו קון אלאאודﬞ אי ארפה׃ 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הַֽ֭לְלוּהוּ בְתֹ֣ף וּמָח֑וֹל 
 הַֽ֝לְל֗וּהוּ בְּמִנִּ֥ים וְעוּגָֽב׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad">
 <sup>4</sup> אלאבﬞאלדו קון פאנדירו אי קאנטאבﬞלינה. 
 אלאבﬞאלדו קון קואירדאס אי אורגאנוס׃ 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הַֽלְל֥וּהוּ בְצִלְצְלֵי־שָׁ֑מַע 
 הַֽ֝לְל֗וּהוּ בְּֽצִלְצְלֵ֥י תְרוּעָֽה׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad">
 <sup>5</sup> אלאבﬞאלדו קון סימבאלוס די סונידﬞו בﬞואינו. 
 אלאבﬞאדﬞו קון סימבאלוס די גריטו די גוזו׃ 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 כֹּ֣ל הַ֭נְּשָׁמָה תְּהַלֵּ֥ל יָ֗הּ 
 הַֽלְלוּ־יָֽהּ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad">
 <sup>6</sup> טודﬞה אלמה אלאבﬞי הא ה׳. 
 אלאבﬞאדﬞ אה ה׳׃

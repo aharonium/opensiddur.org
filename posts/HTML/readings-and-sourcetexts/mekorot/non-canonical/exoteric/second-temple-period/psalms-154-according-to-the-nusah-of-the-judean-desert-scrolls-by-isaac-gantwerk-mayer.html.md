@@ -13,7 +13,7 @@ Psalms 151 through 155 are not found in the Masoretic Text books of Psalms, or i
 Psalm 154 seems to be a hymn of communal eating, very appropriate for the communal life of Qumran, but also features a very Proverbs-like anthropomorphization of Wisdom as a woman. Of the three apocryphal psalms recorded in the Dead Sea Scrolls, this one seems the most likely to have been written with sectarian intent, which may have been why it wasn't included in the Masoretic canon.
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

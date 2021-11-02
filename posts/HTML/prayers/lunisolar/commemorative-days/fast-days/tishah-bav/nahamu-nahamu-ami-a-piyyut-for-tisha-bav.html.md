@@ -7,17 +7,17 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 נַחֲמוּ נַחֲמוּ עַמִּי <span class="citation">(ישעיהו מ:א)</span> - יֹאמַר אֶשְׂכּוֹל כֹּפֶר,
 לְנַחֵם אֶת כׇּל־הַנִמְצָא כָּתוּב בַּסֵּפֶר,
 לָשׂוּם לַאֲבֵלֵי צִיּוֹן פְּאֵר תַּחַת אֵפֶר.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 "Comfort, comfort, my people"[foot]Isaiah 40:1[/foot] - will say the Cluster of Henna,[foot]"Eshkol Kofer"- a metaphor for God from the Song of Songs 1:14[/foot]
 to comfort all who are found written in the book,[foot]Daniel 12:1[/foot] 
@@ -25,7 +25,7 @@ to place for the mourners of Tsiyyon an adornment in place of ashes.[foot]Isaiah
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 על חללי בת עמי - למי הומה עלי.
 ועל בית אולמי ועל שממות היכלי.
@@ -33,7 +33,7 @@ to place for the mourners of Tsiyyon an adornment in place of ashes.[foot]Isaiah
 שמו אותו לעיים בני עיפה ואפר.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 My heart yearns for the slain ones of the daughter of my people,[foot]Jeremiah 8:23[/foot] 
 and for the House of My Inner Chamber and the remnants of My Sanctuary, 
@@ -42,7 +42,7 @@ The children of Eiphah and Epher[foot]Genesis 25:1[/foot] [Midian] have made her
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 דברו אל ציון וקראו אליה,
 וְהֵסִירָה אֶת־שִׂמְלַת שִׁבְיָהּ מֵעָלֶיהָ <span class="citation">(דברים כא:יג)</span>,
@@ -50,7 +50,7 @@ The children of Eiphah and Epher[foot]Genesis 25:1[/foot] [Midian] have made her
 ואל ימשול עם נוכרי בצבי נחלת שפר.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Speak unto the heart of Tsiyyon and call unto her,[foot]Cf. Isaiah 40:1[/foot] 
 and remove the dress of her captivity from upon her.[foot]Deuteronomy 21:13[/foot] 
@@ -59,7 +59,7 @@ and a foreign nation will not rule[foot]Cf. Exodus 21:8[/foot] over the deer, th
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 נחם עם מאבלו וכפר על אשמתו,
 והקל את סבלו, והעבר את כלימתו,
@@ -67,7 +67,7 @@ and a foreign nation will not rule[foot]Cf. Exodus 21:8[/foot] over the deer, th
 ופדה עמך משחת לאמר ”מָצָאתִי כֹפֶר“ <span class="citation">(איוב לג:כד)</span>.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Comfort the nation from its mourning and atone for its guilt, 
 make lighter its suffering and remove its shame, 
@@ -76,14 +76,14 @@ redeem Your people from suffering to say, “I have found a ransom.”[foot]Job 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 נַחֲמוּ נַחֲמוּ עַמִּי <span class="citation">(ישעיהו מ:א)</span> - יֹאמַר אֶשְׂכּוֹל כֹּפֶר,
 לְנַחֵם אֶת כׇּל־הַנִמְצָא כָּתוּב בַּסֵּפֶר,
 לָשׂוּם לַאֲבֵלֵי צִיּוֹן פְּאֵר תַּחַת אֵפֶר.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 "Comfort, comfort, my people"[foot]Isaiah 40:1[/foot] - will say the Cluster of Henna,[foot]"Eshkol Kofer"- a metaphor for God from the Song of Songs 1:14[/foot]
 to comfort all who are found written in the book,[foot]Daniel 12:1[/foot] 
@@ -91,7 +91,7 @@ to place for the mourners of Tsiyyon an adornment in place of ashes.[foot]Isaiah
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אשא נס לגויים לשוכנים בכל תבל,
 לשובב להר ציון קרואה נחלת חבל,
@@ -99,7 +99,7 @@ to place for the mourners of Tsiyyon an adornment in place of ashes.[foot]Isaiah
 מעילם ומעיבל, ומעיפה ואפר.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 I will raise up a banner among the nations,[foot]Isaiah 11:12[/foot] to the dwellers of all of the earth,[foot]Cf. Isaiah 18:3[/foot] 
 to return to Har Tsiyyon, called the lot of your inheritance,[foot]Cf. Psalms 105:11[/foot] 
@@ -108,7 +108,7 @@ from Elam[foot]See Jeremiah 49:39[/foot] and Eval, and from darkness and ashes.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אשיבם אל נווה קודשם, מתעלפים בהמונם,
 ירונו במחולות כי אנחם מאבלם,
@@ -116,7 +116,7 @@ from Elam[foot]See Jeremiah 49:39[/foot] and Eval, and from darkness and ashes.
 ואז כל שוטנם ומונם, יעטו בוז וחפר.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 I will return them to their holy sanctuary,[foot]Exodus 15:13[/foot] fainting in their multitudes, 
 they will rejoice in dance for I will comfort them from their mourning, 
@@ -125,7 +125,7 @@ and then all of the accusers[foot]See Ezra 4:6[/foot] and oppressors[foot]See Is
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 ירושליים אבנה ואהיה סביבותיה 
 לחומת אש ולכבוד בבתי מושבותיה,
@@ -134,7 +134,7 @@ and then all of the accusers[foot]See Ezra 4:6[/foot] and oppressors[foot]See Is
 ותשיב בתוכה לעד נוחלי אמרי שפר.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 I will rebuild Yerushalayim[foot]See Jeremiah 31:4[/foot] and I will be surrounding her, 
 a wall of fire and glory[foot]Zechariah 2:9[/foot] in all of the houses of her dwellings, 

@@ -7,10 +7,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 מִי שֶׁבֵּֽרַךְ אֲבוֹתֵֽינוּ אַבְרָהָם יִצְחָק וְיַעֲקֹב 
 (וְאִמּוֹתֵֽינוּ שָׂרָה רִבְקָה רָחֵל וְלֵאָה), 
@@ -20,7 +20,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 מִשְּׂרֵפַת יַֽעַר וּמִמַּפּוֹלֶת בֹּץ. 
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 May the One who blessed our forefathers Abraham, Isaac, and Jacob 
 (and our foremothers Sarah, Rebeka, Rachel, and Leah) 
 bless and comfort all those in danger from all natural disasters: 
@@ -30,7 +30,7 @@ from wildfire and from landslide.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 שְׁמוֹר, שׁוֹמְרֵֽינוּ, אֶת נַפְשׁוֹת אוֹהֲבֶֽיךָ 
 וּפְרֹשׂ עָלֵֽיהֶם סֻכַּת שְׁלוֹמֶֽךָ, 
@@ -40,7 +40,7 @@ from wildfire and from landslide.
 כִּי אַתָּה, אֱלֹהֵֽינוּ, אֱלֹהִים חַיִּים וְשִׁמְךָ חַיִּים וְשָׁלוֹם. 
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Protect, our Protector, the lives of those who love You, 
 and spread over them the shelter of Your peace, 
 for it is well known before Your Throne of Glory 
@@ -50,7 +50,7 @@ for You, our God, are a God of life, and Your name is Life and Peace.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אָנָּא, בַּֽעַל הַשָּׁלוֹם, כִּי תָּבוֹא עַלֵֽינוּ, 
 בּוֹא עַלֵֽינוּ בִּדְמוּת שֶׁל שָׁלוֹם וְשַׁלְוָה וְהַשְׁקֵט וּבֶטָח, 
@@ -69,7 +69,7 @@ for You, our God, are a God of life, and Your name is Life and Peace.
 וְנֹאמַר אָמֵן.
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Please, Master of Peace, as You come to us, 
 come to us in a form of peace and tranquility and calm and trust,
  just as You appeared in the eyes of Elijah Your prophet, as it is written <span class="citation">(I Kings 19:11-12)</span>:

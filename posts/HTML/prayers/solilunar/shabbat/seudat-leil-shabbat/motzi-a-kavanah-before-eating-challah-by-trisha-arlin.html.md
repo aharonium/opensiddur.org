@@ -7,15 +7,15 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Blessed <em>HaMavdeel</em>, the Divider of Time:
 
@@ -23,12 +23,12 @@ Blessed <em>HaMavdeel</em>, the Divider of Time:
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Blessed <em>Adonai Eḥad</em>, the Uniter Of All Existence:
 
@@ -36,12 +36,12 @@ Blessed <em>Adonai Eḥad</em>, the Uniter Of All Existence:
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Blessed <em>Ain Sof</em>, That Which Cannot Be Known:
 
@@ -49,12 +49,12 @@ Blessed <em>Ain Sof</em>, That Which Cannot Be Known:
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Blessed <em>Ruaḥ HaOlam</em>, The Breath That Animates:
 
@@ -62,12 +62,12 @@ Blessed <em>Ruaḥ HaOlam</em>, The Breath That Animates:
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Blessed One Who Spoke and created the world:
 
@@ -75,12 +75,12 @@ Blessed One Who Spoke and created the world:
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Blessed <em>Shekhina</em>, the Soul of Eternity, in whose spirit we create:
 
@@ -88,12 +88,12 @@ Blessed <em>Shekhina</em>, the Soul of Eternity, in whose spirit we create:
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Blessed <em>Elohim</em>, God of our ancestors who embodies the chain of work:
 
@@ -101,12 +101,12 @@ Blessed <em>Elohim</em>, God of our ancestors who embodies the chain of work:
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Blessed <em>Yah</em>, God of our future who is embodied by the chain of love:
 
@@ -114,12 +114,12 @@ Blessed <em>Yah</em>, God of our future who is embodied by the chain of love:
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה יְהֹוָה אֱלֹהֵֽינוּ מֶֽלֶךְ הָעוֹלָם הַמוֹצִיא לֶֽחֶם מִן הָאֲרֶץ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 (<em>sing</em>) <em>Barukh ata Adonai eloheinu melekh haolam, hamotzi leḥem min ha'aretz</em>.
 </div></td></tr>

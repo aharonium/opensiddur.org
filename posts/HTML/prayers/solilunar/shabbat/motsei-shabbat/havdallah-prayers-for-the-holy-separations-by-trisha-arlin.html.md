@@ -7,17 +7,17 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 I.
 Praise the Before
@@ -28,13 +28,13 @@ Praise the Time In Between
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Praise <em>Kadosh</em>, the holy
 Praise <em>Khol</em>, the mundane
@@ -44,13 +44,13 @@ Praise <em>Ha Mavdil Bein Kodesh L’khol</em>, the one who differentiates betwe
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Praise <em>Kabbalah</em>, welcome the Bride
 Praise <em>Shabbat</em>, the deepest rest.
@@ -60,13 +60,13 @@ Praise <em>Havdallah</em>, farewell to the departing soul
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 II.
 I construct four walls and a roof and no windows
@@ -79,13 +79,13 @@ All I did was build a temple.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 I buy some fabric.
 I put fringes on the corners and cover myself with the cloth.
@@ -97,13 +97,13 @@ But all I did was cover myself with a piece of fabric.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 I have a rimless cap.
 I put it on my head and call it a <em>kippah</em>.
@@ -115,13 +115,13 @@ All I did was put on a cap.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 I have a candle, wine, and sweet smelling spices
 I light the candle and dip it in the wine, I smell the spices and call it <em>havdallah</em>.
@@ -133,13 +133,13 @@ All I did was wait for it to get dark.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 I make a flimsy hut with branches overhead and fruit within.
 I call it a <em>sukkah</em> and sit down for a meal.
@@ -152,13 +152,13 @@ All I did was build a hut.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 III.
 Wine
@@ -169,13 +169,13 @@ Purged of guilt, at least until tomorrow
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Spice
 <p style="padding-left: 30px;">Sweetness, Fragrance, art, luxury, flavor, comedy.
@@ -185,13 +185,13 @@ It is good to live well if you can.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Fire
 <p style="padding-left: 30px;">Sacrifice, spirit, usefulness, justice, inspiration
@@ -201,13 +201,13 @@ Clear thinking at last and the work begins.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 IV.
 Blessed Was•Is•Will Be, that brings the harvest in its due time,
@@ -217,13 +217,13 @@ And wine to drink, fire to light our way and spices to make us happy
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Blessed <em>HaMavdeel</em>, that which Divides,
 And separates the whole into increments that we may comprehend it.
@@ -232,13 +232,13 @@ And separates the whole into increments that we may comprehend it.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Blessed <em>Echad</em>, that which Unites,
 And connects us all that we may be one.
@@ -247,13 +247,13 @@ And connects us all that we may be one.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Amen.
 </div></td>

@@ -11,10 +11,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 This is a reconstruction of a Shabbat liturgy for the Tefillah of the Amidah, at least in some variant of its public recitation, in Greek from liturgical texts preserved in an early Christian work, the <a href="https://en.wikipedia.org/wiki/Apostolic_Constitutions">Constitutiones Apostolorum</a> (Apostolic Constitutions), a Christian work compiled around 380 CE in Syria. Several prayers derived from Jewish sources appear in the Apostolic Constitutions and they can be found grouped together and labeled "Greek" or "Hellenistic Syanagogal Works" in collections of apocrypha and pseudepigrapha. Because explicitly Christian references appeared to have been added onto a pre-existing text with familiar Jewish or "Old Testament" themes and references, scholars in the late 19th century were already suggesting that as many as 16 of the prayers in the Apostolic Constitutions books 7 and 8 were derived from Jewish prayers. A relatively more recent appraisal was made by Dr. David Fiensy and published in <em>Prayers Alleged to Be Jewish</em> (Scholars Press 1985). Based on his analysis, Dr. Fiensy concluded that the only prayers which can be identified as Jewish with certainty are those found in sections 33-38 of book 7. (The origin of several additional prayers in book 8 of the Apostolic Constitutions is less certain.)
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: left;">Source (Greek)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="greek" lang="el">
 [foot]Book 7 §33[/foot]Αίώνιε σῶτερ ὴμῶν, 
 ὸ βασιλεὺς τὼν θεών, 
@@ -28,7 +28,7 @@ This is a reconstruction of a Shabbat liturgy for the Tefillah of the Amidah, at
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Our eternal Savior, 
 the king of the gods, 
@@ -43,7 +43,7 @@ incense is sent up to you through prayer and words.
 </td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="greek" lang="el">
 Πᾶσι δὲ άνέῳξας πύλην έλεημοσύνης 
 ὺπεδείξας δὲ ὲκάστῳ τῶν άνθρώτιων ὼς πλούτου ούκ άϊδιον τὸ κτῆμα, 
@@ -53,7 +53,7 @@ incense is sent up to you through prayer and words.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 (You) opened to all the gate of mercy 
 and showed to all mankind how the possession of wealth is not eternal,
@@ -64,14 +64,14 @@ O Defender of the offspring of Abraham, blessed are you forever.
 </td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="greek" lang="el">
 [foot]Book 7 §34[/foot]Εύλογητὸς εἷ κύριε, βασιλεῦ τῶν αιώνων, ὸ ποιήσας τὰ ὅλα.
 Ὸ ζωοποιὸς τῶν νεκρῶν.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Blessed are you O Lord, king of the ages, who made the universe.
 O Quickener of the dead.
@@ -79,7 +79,7 @@ O Quickener of the dead.
 </td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="greek" lang="el">
 [foot]Book 7 §35[/foot]Μέγας εἷ, κύριε καὶ μεγάλη ὴ ίσχύς σου 
 καὶ τῆς συνέσεώς σου ούκ ἔστιν άριθμός, κτίστα, σωτήρ, 
@@ -95,7 +95,7 @@ O Quickener of the dead.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Great are you, O Lord and great is your strength, 
 and of your understanding there is no measure, Creator, Savior. 
@@ -112,13 +112,13 @@ The Lord is among them on Sinai.'
 </td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="greek" lang="el">
 Διὸ καὶ όφείλει πᾶς ἄνθρωπος έξ αύτῶν τῶν στέρνων σοὶ τὸν ὺπὲρ πάντων ὔμνον άναπέμπειν, διὰ σὲ τῶν ὰπάντων κρατῶν. τὸ γὰρ σὸν αίώνιον κράτος καὶ φλόγα καταψύχει καὶ λέοντας φιμοῖ καὶ κήτη καταπραΰνει καὶ, νοσοῦντας έγείρει καὶ, δυνάμεις μετατ-ρέπει καὶ στρατὸν έχθρῶν καὶ λαὸν άρι θμούμενον έν τῷ ὺπερηφα-νεύεσθαι καταστώννυσιν. σὺ εἶ ὸ έν ούρανῷ, ὸ επὶ γῆς, ὸ έν θαλάσσῃ, τής γὰρ μεγαλοσύνης σου ούκ ἔστιν πέρας. μὴ γὰρ ὴμέτερόν έστιν τοῦτο, δέσποτα, τοῦ θεράποντός σου λόγιόν έστιν φάσκοντος, καὶ γνώσῇ τῇ καρδίᾳ σου, ὅτι κύριος ὸ θεός σου, θεὸς έν ούρανῷ ἄνω καὶ έπὶ γῆς κάτω, καὶ ούκ ἔστιν ἔτι πλὴν αύτοῦ. ούδὲ γὰρ ἔστι θεὸς πλὴν σοῦ μόνου ὰγιος ούκ ἔστι πλὴν σοῦ, κύριος θεὸς γνώσεων, θεὸς ὰγίων, ἅγιος ὺπὲρ πάντας ὰγίους, οὶ γὰρ ὴγιασμένοι ὺπὸ τὰς χεῖρὰς σού είσιν.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Wherefore everyman ought to send up the hymn to you from their breasts for all things, since on account of you he has power over all things; for your eternal power both cools the flame, muzzles the lions, pacifies sea monsters, raises up those who are sick, turns back powers and lays low the army of enemies and the people numbered with those who behave arrogantly. You are the one in heaven, on the earth, in the sea, for of your magnitude there is no limit; for this is not our (oracle) Master, it is your servant's oracle who says, "And know in your heart that the Lord your God is God in heaven above, earth below and there is none except him."[foot]Deuteronomy 4:39[/foot] For there is no God except you alone, no holy one but you, Lord God of knowledge, God of holy ones, holy above all holy ones; for they are sanctified by your hands.
 
@@ -126,33 +126,33 @@ Wherefore everyman ought to send up the hymn to you from their breasts for all t
 </td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="greek" lang="el">
 [foot]Book 7 §36[/foot]Κύριε παντοκράτορ, κόσμον ἔκτισας καὶ σάββατον ὥρισας είς μνήμην τούτου, ὅτι έν αύτῷ κατέπαυσας άπὸ τῶν ἔργων καὶ ὲορτὰς διετάξω είς εύφροσύνην τῶν ὴμετέρων ψυχῶν.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Lord, you created the world and set apart the Sabbath to remember this, because on it you rested from (your) works and you ordained feasts for the gladdening of our souls. 
 </div>
 </td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="greek" lang="el">
 σύ γάρ, κύριε, καὶ τοὺς πατέρας ὴμῶν έξήγαγες έκ γῆς Αί γύπτου καὶ έρρύσω έκ καμίνου σιδηρᾶς καὶ έκ πηλοῦ καὶ πλι νθουργίας, έλυτρώσω έκ χειρὸς Φαραῶ καὶ, τῶν ὺπ´ αύτὸν καὶ διὰ θαλάσσης ὼς διὰ. ξηρᾶς αύτοὺς παρήγαγες καὶ έτροποφόρησας αύτοὺς έν τῇ έρήμω παντοίοις άγαθοῖς. νόμον αύτοῖς έδωρήσω δέκα λογίων σῇ φωνῇ φθεγχθέντα καὶ χειρὶ σῇ κατανραφέντα. σαββατίζειν ένετείλω, ού πρόφασιν άργίας διδούς, άλλ´ άφορμὴν εύσεβείας, είς γνῶσιν τῆς σῆς δυνάμεως, είς κώλυσιν κακῶν ὼς έν ίερῷ καθείρξας περιβόλῳ διδασκαλίας χάριν είς άγαλλίαμα ὲβδομάδος. διά τοῦτο έβδομὰς μία καὶ ὲβδομάδες ὲπτὰ καὶ μὴν ἕβδομος καὶ ένιαυτὸς ἕβδομος καὶ τούτου κατὰ άνακύκλησιν ἔτος πεντηκοστὸν είς ἄφεσιν. ὅπως μηδεμίαν ἔχωσιν πρόφασιν ἄνθρωποι ἄγνοιαν σκήψασθαι τούτου χάριν πᾶν σάββατον έπέτρεψας άργιεῖν, ὅπως μηδὲ λόγον τις έν όργῇ έκ τοῦ στόματος αύτοῦ προέσθαι θελήσῃ έν τῇ ὴμέρᾳ τῶν σαββάτων.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 For you, Lord, led our fathers out of Egypt and saved (them) from the iron furnace and from the clay and the making of bricks. You redeemed them from the hands of Pharoah and those under him, and you brought them through the sea as through dry land, and you endured their character in the wilderness with all sorts of good things. You gave them the law of ten oracles clearly expressed by your voice and written by your hand. You commanded them to keep the Sabbath; you confined (them) in the sacred precinct for the sake of teaching, for exultation in the number seven. On account of this (there are) one seven and seven sevens and a seventh month and a seventh year and according to this cycle the fiftieth year is for remission. (This is) so that men may have no excuse to plead ignorance. On account of this you entrusted (them) to keep every Sabbath that no one may desire to send forth a word from his mouth in anger on the day of the Sabbath.
 </div>
 </td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="greek" lang="el">
 [foot]Book 7 §37[/foot]Πλήρωσον τὰς έπαγγελίας τὰς διὰ τῶν προφητῶν 
 καὶ έλέησον τὴν Σιὼν καὶ οίτείρησον τὴν Ὶερουσαλὴμ 
@@ -161,7 +161,7 @@ For you, Lord, led our fathers out of Egypt and saved (them) from the iron furna
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Fulfill the promises of the prophets 
 and have mercy on Zion and compassion on Jerusalem, 
@@ -171,13 +171,13 @@ O Master, God, accept the entreaties from the lips of your people which call upo
 </td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="greek" lang="el">
 [foot]Book 7 §38[/foot]Eύχαριστοῦμέν σοι περὶ πάντων, δέσποτα ὅτι ούκ έγκατ-έλιπες τὰ έλέη σου καὶ τοὺς οίκτιρμούς σου άφ´ ὴμῶν, άλλὰ καθ´ ὲκάστην γενεὰν καὶ γενεὰν σώζεις, ῥύῃ, άντιλαμβάνῃ, σκεπάζεις καὶ άπὸ μαχαίρας γάρ έρρύσω καὶ έκ λιμοῦ έξείλω διαθρέψας, έκ νόσου ίάσω, έκ γλώσσης πονηρᾶς έσκέπασας. περί πάντων σοι εύχαριστοῦμεν, ὸ καὶ φωνὴν ἔναρθρον είς έξομολόγησιν δωρησάμενος καὶ γλῶσσαν εύάρμοστον δίκὴν πλήκτρου ὼς ὄργανον ὺποθείς, καὶ γεῦσιν πρόσφορον καὶ άφὴν κατάλληλον καὶ ὄρασιν θέας καὶ άκοὴν φωνῆς καὶ ὄσφρησιν άτμῶν καὶ χεῖρας είς ἔργον καὶ πόδας πρὸς ὸδοιπορίαν. ποῖος τοιγαροῦν αύτάρκης βίος, αίώνων δὲ μῆκος πόσον διαρκέσει άνθρώποις πρὸς εύχαριστίαν; ἦ τὸ μὲν πρὸς άξίαν άδύνατον, τὸ δὲ κατὰ δύναμιν εύαγές.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 We give thanks to you for all things, Master, because you have not taken your mercies and compassions from us, but in each and every generation you save, rescue, help (and) protect. For you rescued (us) even from the sword and removed (us) from hunger and nourished (us), you healed (us) from disease, and protected (us) from an evil tongue. For all things we give thanks to you who have also given (us) an articulate voice for confessing (you) and who have also added a harmonious tongue in the manner of the plectrum as an instrument; and useful taste, appropriate touch, sight for seeing, the hearing of a sound, the ability to smell vapors, hands for works and feet for walking. Therefore what life is sufficient and what length of ages adequate to men to give thanks? Although it is impossible to give thanks as one ought, it is right to give thanks as one can.
 </div>
@@ -190,7 +190,7 @@ We give thanks to you for all things, Master, because you have not taken your me
 The <a href="https://en.wikipedia.org/wiki/Jerusalem_Talmud">Talmud Yerushalmi</a> <em>Sotah</em> 7:1, 21b (circa 4th-5th centuries) attests that in Palestine it was either normative or not uncommon for the public recitation of liturgy to be in the vernacular which was Greek.
 
 <table style="margin-left: auto;margin-right: auto;"><tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="commentary" lang="he">
 תלמוד ירושלמי סוטה ז:א, דף כא טור ב
 &nbsp;
@@ -209,7 +209,7 @@ The <a href="https://en.wikipedia.org/wiki/Jerusalem_Talmud">Talmud Yerushalmi</
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Talmud Yerushalmi Sotah 7:1, 21b
 &nbsp;

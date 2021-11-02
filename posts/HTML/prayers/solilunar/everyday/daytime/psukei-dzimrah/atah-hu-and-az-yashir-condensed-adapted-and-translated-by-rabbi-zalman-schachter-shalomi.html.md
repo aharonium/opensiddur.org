@@ -7,10 +7,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אַתָּה־ה֣וּא יְהוָה֮ 
 לְבַדֶּךָ֒ את [אַתָּ֣ה] עָשִׂ֡יתָ אֶֽת־הַשָּׁמַיִם֩ 
@@ -18,7 +18,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 וְכָל־צְבָאָ֗ם <span class="citation">(נחמיה ט:ו חלק)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 You, Yah,
 You, alone have made the heavens,
@@ -27,7 +27,7 @@ All those that serve you there.[foot]Neḥemyah 9:6 partial[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הָאָ֜רֶץ וְכָל־אֲשֶׁ֤ר עָלֶ֙יהָ֙ 
 הַיַּמִּים֙ 
@@ -36,7 +36,7 @@ All those that serve you there.[foot]Neḥemyah 9:6 partial[/foot]
 וּצְבָ֥א הַשָּׁמַ֖יִם לְךָ֥ מִשְׁתַּחֲוִֽים׃ <span class="citation">(נחמיה ט:ו חלק)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Earth and all that is on her;
 The oceans, and all 
@@ -46,18 +46,18 @@ And you infuse them all with Life.[foot]Neḥemyah 9:6 partial[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <span class="instruction">[here give Tsedakah]</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אַתָּה־הוּא֙ יְהוָ֣ה הָאֱלֹהִ֔ים 
 אֲשֶׁ֤ר בָּחַ֙רְתָּ֙ בְּאַבְרָ֔ם 
@@ -74,7 +74,7 @@ And you infuse them all with Life.[foot]Neḥemyah 9:6 partial[/foot]
 כִּ֥י צַדִּ֖יק אָֽתָּה׃ <span class="citation">(נחמיה ט:ז-ח)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 &nbsp;
 You chose Avram.
@@ -87,7 +87,7 @@ To make a covenant with him.[foot]Neḥemyah 9:7-8[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 כְּהַיּ֥וֹם הַזֶּֽה׃ <span class="citation">(נחמיה ט:י חלק)</span>
 וַיַּ֨רְא יִשְׂרָאֵ֜ל 
@@ -96,7 +96,7 @@ To make a covenant with him.[foot]Neḥemyah 9:7-8[/foot]
 יְהוָה֙ בְּמִצְרַ֔יִם <span class="citation">(שמות יד:לא חלק)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 On the day, when you saved us,[foot]Cf. end of Neḥemyah 9:10[/foot]
 Avraham's children, 
@@ -107,14 +107,14 @@ With superior force.[foot]Cf. Exodus 14:31 partial[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וַיִּֽירְא֥וּ הָעָ֖ם אֶת־יְהוָ֑ה 
 וַיַּֽאֲמִ֙ינוּ֙ בַּֽיהוָ֔ה 
 וּבְמֹשֶׁ֖ה עַבְדּֽוֹ׃ <span class="citation">(שמות יד:לא חלק)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 We, the people, saw it,
 And we put our faith in You, Yah,
@@ -122,7 +122,7 @@ And in Moshe, your servant.[foot]Cf. Exodus 14:31 partial[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אָ֣ז יָשִֽׁיר־מֹשֶׁה֩ וּבְנֵ֨י יִשְׂרָאֵ֜ל אֶת־הַשִּׁירָ֤ה הַזֹּאת֙ <span class="citation">(שמות טו:א חלק)</span>
 וַיַּֽאֲמִ֙ינוּ֙ בַּֽיהוָ֔ה <span class="citation">(שמות יד:לא חלק)</span>
@@ -133,7 +133,7 @@ And in Moshe, your servant.[foot]Cf. Exodus 14:31 partial[/foot]
 כּוֹנְנ֥וּ יָדֶֽיךָ׃ <span class="citation">(שמות טו:יז)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 We sang then the great song.[foot]Cf. Exodus 15:1[/foot]
 And placed our trust in You,[foot]Cf. Exodus 14:31 partial[/foot]
@@ -145,26 +145,26 @@ That Your hands had set up for us.[foot]Exodus 15:17 partial[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 יְהוָ֥ה ׀ יִמְלֹ֖ךְ לְעֹלָ֥ם וָעֶֽד׃ <span class="citation">(שמות טו:יח)</span>
 יְהוָ֥ה ׀ יִמְלֹ֖ךְ לְעֹלָ֥ם וָעֶֽד׃ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Yah, will reign there always.[foot]Exodus 15:18[/foot]
 Yah, will reign there always.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 בַּיּ֣וֹם הַה֗וּא יִהְיֶ֧ה יְהוָ֛ה אֶחָ֖ד 
 וּשְׁמ֥וֹ אֶחָֽד׃ <span class="citation">(זכריה יד:ט)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 On that day, Yah will be One.
 And, His Name, will be One.[foot]Zekharyah 14:9[/foot]

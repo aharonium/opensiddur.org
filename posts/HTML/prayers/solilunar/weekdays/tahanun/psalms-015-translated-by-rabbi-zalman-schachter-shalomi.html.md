@@ -7,21 +7,21 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מִזְמ֗וֹר לְדָ֫וִ֥ד 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 David’s song: 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 יְ֭הֹוָה
  מִי־יָג֣וּר בְּאָהֳלֶ֑ךָ 
@@ -29,7 +29,7 @@ David’s song:
  בְּהַ֣ר קָדְשֶֽׁךָ׃ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Yah!
 Who may be at home in Your tent? 
@@ -38,7 +38,7 @@ On Your Sacred mountain?
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הוֹלֵ֣ךְ תָּ֭מִים 
 וּפֹעֵ֥ל צֶ֑דֶק 
@@ -50,7 +50,7 @@ On Your Sacred mountain?
 נִבְזֶ֤ה ׀ בְּֽעֵ֘ינָ֤יו נִמְאָ֗ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 One who strides with wholeness, 
 Acts with fairness, 
@@ -63,7 +63,7 @@ Wary of his own motives,
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְאֶת־יִרְאֵ֣י 
 יְהוָ֣ה יְכַבֵּ֑ד 
@@ -77,7 +77,7 @@ Wary of his own motives,
 לֹ֖א יִמּ֣וֹט לְעוֹלָֽם׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 He honors those 
 Who are respectful of God.

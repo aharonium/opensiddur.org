@@ -7,21 +7,21 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <blockquote>A good preparation and a bridge for the next phase of prayer, as you enter into the world of B’riyah,[foot]i.e., the Shaḥarit service beginning with the blessings prededing the Shema[/foot] is Reb Ahrele Roth’s list of Mitsvot One Can Do With Consciousness Alone. Reb Ahrele Roth, a"h, wrote a list of 32 mitsvot whose fulfillment is completed in the brain, the heart and the mouth. (The Hebrew alphabetical equivalent of 32 is ל"ב, the letters of which spell the Hebrew word LEV for Heart.) --Reb Zalman</blockquote>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הֲרֵינִי מְזַמֵּן אֶת פִּי וּמֹחִי וְלִבִּי 
 לְקַיֵּם מִצְוֺת 
@@ -30,7 +30,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 מֵהַמִּצְוֺת הַתְלֻיּוֹת בַּמֹּחַ בַּלֵּב וּבַפֶּה.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <strong>O my Creator!
 May your Name be praised</strong>: 
@@ -40,86 +40,86 @@ You who shape me.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 לְהַאֲמִין בֶּאֱמוּנַת הַשֵּׁם.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 1. Faith I place in you.[foot]Exodus 20:2[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 לְהַאֲמִין בְּאַחְדוּת הַשֵּׁם.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 2. Oneness I affirm in you.[foot]Deuteronomy 6:4[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 לִזְכֹּר הַשֵּׁם.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 3. I am mindful of you.[foot]Deuteronomy 8:18[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 לְהִתְבּוֹנֵן בִּגְדֻלַּת הַשֵּׁם.
 לְהִתְבּוֹנֵן בְּשִׁפְלוּת עַצְמוֹ.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 4. I focus on your vast Greatness,[foot]Deuteronomy 4:39, Isaiah 40:26[/foot]
 5. and focus on my insignificance.[foot]Avot 3:41, Numbers 12:3, Psalms 15:4[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 לָשׁוּב לְהַשֵּׁם.
 לֵיבּוֹשׁ מֵהַשֵּׁם.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 6. Thus do I turn back to you in teshuvah,[foot]Deuteronomy 30:2, Deuteronomy 30:8[/foot]
 7. and am bashful in your Presence.[foot]Ezekiel 16:63[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 לִירֹא מֵהַשֵּׁם.
 לֶאֱהוֹב הַשֵּׁם.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 8. I am awed by you,[foot]Deuteronomy 10:20, Leviticus 19:14[/foot]
 9. and love you.[foot]Deuteronomy 6:5[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 לְקַבֵּל עוֹל מִצְוֺת הַשֵּׁם.
 לִשְׂמֹחַ בַּשֵּׁם.
 לִבְטֹחַ בַּשֵּׁם.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 10. I accept the authority of your mitsvot,[foot]Deuteronomy 11:13[/foot]
 11. find my joy in you,[foot]Psalms 100:2, Psalms 149:2[/foot]
@@ -127,33 +127,33 @@ You who shape me.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 לְבַטֵל אֶת כׇּל הַמַּחֲשָׁבוֹת הַפְּסוּלוֹת הָעוֹלוֹת בַּלֵּב.
 וְהוּא בִּכְלָל אִבּוּד עֲבוֹדָה זָרָה ומְשַׁמְּשֶׁיהָ.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 13. I deny all false gods and those in their service; 
 I reject unfit thoughts that rise in my heart.[foot]Deuteronomy 12:2-3[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 לְזְכּוֹר וּלְהוֹדוֹת חַסְדֵּי הַשֵּׁם.
 לִמְסֹר נַפְשׁוֹ לְהַשֵּׁם.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 14. I give you my thanks,[foot]Deuteronomy 8:2[/foot]
 15. and aim to hold you sacred.[foot]Leviticus 22:32[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 לְזְכּוֹר אֶת יְרוּשָׁלַיִם.
 &nbsp;
@@ -161,7 +161,7 @@ I reject unfit thoughts that rise in my heart.[foot]Deuteronomy 12:2-3[/foot]
 וֶאֱמוּנַת הַגְּאֻלָּה.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 16. I remember Yerushalayim,[foot]Psalms 137:5.[/foot]
 Your House of Prayer for all peoples,[foot]Cf. Isaiah 56:7.[/foot]
@@ -170,7 +170,7 @@ to redeem us and free our souls.[foot]Ḥabakuk 2:3[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 לִמְחֹק אֶת עֲמָלֵק.
 לֶאֱהֹב כׇּל בַּר יִשְׂרָאֵל.
@@ -178,7 +178,7 @@ to redeem us and free our souls.[foot]Ḥabakuk 2:3[/foot]
 לָלֶכֶת בְּדַרְכֵי הַשֵּׁם.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 18. Amaleq, I will blot out,[foot]Deuteronomy 25:19[/foot]
 19. by loving my neighbor as myself,[foot]Leviticus 19:18[/foot]
@@ -187,27 +187,27 @@ to redeem us and free our souls.[foot]Ḥabakuk 2:3[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 לִהְיוֹת כִּסֵּא 
 וּמִשְׁכַּן לְהַשֵּׁם.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 22. Thus, will I make in me a Holy Space 
 for you to be at home in.[foot]Leviticus 26:11, Exodus 25:8[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 לְהִשְׁתּוֹקֵק לִדְבֵקוּת וְאַהֲבַת הַשֵּׁם.
 לְהִתְחַזֵּק 
 בַּעֲבוֹדַת הַשֵּׁם.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 23. I long for your intimacy and love,[foot]Psalms 63:2, Psalms 27:4[/foot]
 24. and am energized to find you 
@@ -215,14 +215,14 @@ empowering my heart.[foot]Deuteronomy 31:23[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 לְהַצְדִּיק מַעֲשֵׂי הַשֵּׁם.
 לִזְכּוֹר 
 יְצִיאַת מִצְרַיִם.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 25. I affirm that your actions are just,[foot]Deuteronomy 8:5[/foot]
 26. and am mindful that 
@@ -230,7 +230,7 @@ You redeem us from Mitsrayim.[foot]Deuteronomy 16:3[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 &nbsp;
 שֶׁלֹּא לְהַעֲלוֹת 
@@ -240,7 +240,7 @@ You redeem us from Mitsrayim.[foot]Deuteronomy 16:3[/foot]
 וֶאֱמוּנָת תּוֹרָתוֹ הַקְדוֹשָׁה, חַס וְשָׁלוֹם.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 27. Therefore, 
 I will not welcome 
@@ -251,18 +251,18 @@ and in your Torah.[foot]Exodus 20:3[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 שֶׁלֹּא לְהִתְגָּאוֹת.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 28. I will not yield to pride.[foot]Deuteronomy 8:14[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 שֶׁלֹּא לִשְׁנוֹא שׁוּם 
 בַּר יִשְׂרָאֵל בַּלֵּב.
@@ -273,7 +273,7 @@ and in your Torah.[foot]Exodus 20:3[/foot]
 מַה שֶּׁהִקְצִיף לְהַשֵּׁם.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 29. I will not hate any fellow 
 Godwrestler in my heart,[foot]Leviticus 19:17[/foot]
@@ -285,14 +285,14 @@ displeasure.[foot]Deuteronomy 8:7, Psalms 51:5[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 &nbsp;
 שֶׁלֹּא לִשְׁכֹּחַ 
 הַשֵּׁם.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 32. With all these, 
 I intend not to forget 
@@ -300,18 +300,18 @@ Your presence in my life.[foot]Deuteronomy 8:11[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אָמֵן
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Amen!
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 יְהִי רָצוֹן מִלְפָנֶיךָ 
 אָבִינוּ שֶׁבַּשָּׁמַיִם,
@@ -330,7 +330,7 @@ Amen!
 וְזֻהֲמָא וְסִיג וּפְסֹלֶת.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Thus, may you be pleased, 
 O Supernal Parent,
@@ -350,7 +350,7 @@ All taint, all dross and dirt.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְיוּמְשַׁךְ עָלַי שֶׁפַע
 לְטַהֵר 
@@ -366,7 +366,7 @@ All taint, all dross and dirt.
 ”וּלְדָבְקָה בוֹ“.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And there be drawn to me a flow
 That will make pure
@@ -383,7 +383,7 @@ To cleave to you.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְאֶזְכֶּה 
 לִהְיוֹת כִּסֵּא
@@ -391,7 +391,7 @@ To cleave to you.
 לִשְׁכִינַת כְּבוֹדוֹ יִתְבָּרַךְ שְׁמוֹ, 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Thus will I be privileged 
 To be an instrument of your will, 
@@ -400,7 +400,7 @@ Blessed Shekhinah of your Glory.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְלֹא יֶחְשַׁךְ וְלֹא יִכְבֶּה 
 אוֹר כֹּחַ נִשְׁמָתִי
@@ -411,7 +411,7 @@ Blessed Shekhinah of your Glory.
 כֵּן יְהִי רָצוֹן.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Thus will the light in my soul  
 Not darken,

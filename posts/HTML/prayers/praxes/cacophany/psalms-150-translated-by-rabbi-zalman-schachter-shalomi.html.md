@@ -7,10 +7,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הַ֥לְלוּ יָ֨הּ ׀ הַֽלְלוּ־אֵ֥ל בְּקָדְשׁ֑וֹ 
 הַֽ֝לְל֗וּהוּ בִּרְקִ֥יעַ עֻזּֽוֹ׃
@@ -22,7 +22,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 הַֽ֝לְל֗וּהוּ בְּמִנִּ֥ים וְעוּגָֽב׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <strong>Hallelu-Yah!</strong> Attune to God in holiness: 
 be in awe of God who is mighty in the heavens.
@@ -35,7 +35,7 @@ Intone to God with organ and flute.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הַֽלְל֥וּהוּ בְצִלְצְלֵי־שָׁ֑מַע 
 הַֽ֝לְל֗וּהוּ בְּֽצִלְצְלֵ֥י תְרוּעָֽה׃
@@ -43,7 +43,7 @@ Intone to God with organ and flute.
 הַֽלְלוּ־יָֽהּ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Make rhythm to God with crashing cymbals: 
 praise God with cymbals that ring out.
@@ -54,7 +54,7 @@ Let all who breathe chant Yah.
 
 <hr />
 
-Rabbi Zalman Schachter-Shalomi, z”l, included his translation of <a href="https://en.wikipedia.org/wiki/Psalms_150">Psalms 150</a> in his <em><a href="https://opensiddur.org/siddurim/ha-ari/neo-hasidut/reb-zalmans-open-siddur-tehillat-hashem/">Siddur Tehillat Hashem Yidaber Pi</a></em> (2009). To the best of my ability, I have set his English translation side-by-side with the Hebrew verses comprising Psalms 150. I have replaced some anglicizations and removed capitalization for divine pronouns. –Aharon N. Varady
+Rabbi Zalman Schachter-Shalomi, z”l, included his translation of <a href="https://en.wikipedia.org/wiki/Psalm_150">Psalms 150</a> in his <em><a href="https://opensiddur.org/siddurim/ha-ari/neo-hasidut/reb-zalmans-open-siddur-tehillat-hashem/">Siddur Tehillat Hashem Yidaber Pi</a></em> (2009). To the best of my ability, I have set his English translation side-by-side with the Hebrew verses comprising Psalms 150. I have replaced some anglicizations and removed capitalization for divine pronouns. –Aharon N. Varady
 
 <h3>Source(s)</h3>
 

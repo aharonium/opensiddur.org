@@ -7,17 +7,17 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;"></th><th style="text-align: left;">Source (English)</th></tr></thead>
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
+<thead><tr><th id="x" style="text-align: right;"><a href="/contribute/upload">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 The One Who Blessed Our Ancestors, <em>Ruaḥ HaOlam</em>, Breath of the Universe, heal me….
 </div></td>
@@ -25,13 +25,13 @@ The One Who Blessed Our Ancestors, <em>Ruaḥ HaOlam</em>, Breath of the Univers
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 I have been asked to write a healing prayer
 So I tried
@@ -46,13 +46,13 @@ And it looks like it's going to last longer than it takes to write this prayer
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 So instead
 I offer to you
@@ -62,13 +62,13 @@ A pain prayer
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 A friend died suddenly
 And I miss her.
@@ -85,13 +85,13 @@ And I'm becoming my pain.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Did I name any of your sorrows?
 Do you want to name them now?
@@ -100,13 +100,13 @@ Do you want to name them now?
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 What was solid is porous,
 What was secure is scary.
@@ -121,13 +121,13 @@ Yes, I say, but please, let me mourn first.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 “<em>Refah'aynu Adonai V’Nayrahfay</em>
 Heal us God, and we shall be healed.”
@@ -146,13 +146,13 @@ Is it in prayer?
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Then I listen to the music
 And I am transported away from the hurt.
@@ -165,13 +165,13 @@ And speak to God.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 I guess this is a healing prayer after all.
 </div></td>
@@ -179,13 +179,13 @@ I guess this is a healing prayer after all.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <em>Barukh Atah Adonai</em>, The One Who Blessed Our Ancestors, <em>Ruaḥ HaOlam</em>, Breath of the Universe:
 </div></td>
@@ -193,13 +193,13 @@ I guess this is a healing prayer after all.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Heal me.
 </div></td>
@@ -207,13 +207,13 @@ Heal me.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אמן׃
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <em>Amen</em>
 </div></td>

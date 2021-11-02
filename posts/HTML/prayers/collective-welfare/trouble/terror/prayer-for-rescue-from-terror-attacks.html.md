@@ -1,13 +1,13 @@
 <html>
 <head></head>
 <body>
-Title: תְּפִלָּה לְהַצָּלָה מִפִּגּוּעֵי טֶרוֹר | Prayer for Rescue from Terror Attacks | Bön om skydd från terrorhot, by R' Hillel Ḥayyim Lavery-Yisraëli<br />
+Title: תְּפִלָּה לְהַצָּלָה מִפִּגּוּעֵי טֶרוֹר | Prayer for Rescue from Terror Attacks | Bön om skydd från terrorhot, by R' Hillel Ḥayyim Lavery-Yisraëli (2014)<br />
 Primary contributor: hillel.yisraeli-lavery<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=10150">http://opensiddur.org/?p=10150</a>
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th><th style="text-align: left;">Swedish</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="28%">

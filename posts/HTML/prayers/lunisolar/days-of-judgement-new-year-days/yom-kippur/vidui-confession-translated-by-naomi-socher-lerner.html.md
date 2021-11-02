@@ -11,10 +11,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 2019 is year four of my translation of viduy, also known as the confession. I update it each year, and each year hope to have a fuller machzor one day. Here it is for you to have and share and pray.
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֹתֵינוּ
 אַל תַּעַזְבֵנוּ
@@ -23,7 +23,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 וְאַל תָּפֵר בְּרִיתְךָ אִתָּנוּ.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Our God, and the God of our ancestors,
 Don’t forsake us;
@@ -33,7 +33,7 @@ And don’t renege on your deal with us.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 קָרְבֵנוּ לְתוֹרָתֶךָ.
 לַמְּדֵנוּ מִצְוֹתֶיךָ.
@@ -49,7 +49,7 @@ And don’t renege on your deal with us.
 וְסָלַחְתָּ לַעֲוֺנִי כִּי רַב־הוּא׃ <span class="citation">(תהלים כה:יא)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Draw us near to your Torah.
 Teach us your commandments. 
@@ -66,7 +66,7 @@ On the strength of your name: for it is great.”[foot]Psalms 25:11.[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֹתֵינוּ 
 סְלַח לָנוּ. 
@@ -74,7 +74,7 @@ On the strength of your name: for it is great.”[foot]Psalms 25:11.[/foot]
 כַּפֶּר לָנוּ.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Our God and the God of our ancestors
 Pardon us.
@@ -83,7 +83,7 @@ Absolve us.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 כִּי אָנוּ עַמֶּךָ
 וְאַתָּה אֱלֹהֵינוּ.
@@ -95,7 +95,7 @@ Absolve us.
 וְאַתָּה רוֹעֵנוּ.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 For we are your people
 And you are our god.
@@ -108,7 +108,7 @@ And you are our shepherd.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אָנוּ כַרְמֶךָ
 וְאַתָּה שׁוֹמרֵנוּ
@@ -120,7 +120,7 @@ And you are our shepherd.
 וְאַתָּה יוֹצְרֵנוּ.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 We are your vineyard
 And you are our watchman.
@@ -133,7 +133,7 @@ And you are our creator.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אָנוּ סְגֻלָּתֶךָ
 וְאַתָּה קְרוֹבֵנוּ.
@@ -145,7 +145,7 @@ And you are our creator.
 וְאַתָּה מַאֲמִירֵנוּ.  
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 We are your treasured
 And you are our holder.
@@ -158,7 +158,7 @@ And you are our chosen.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אָנוּ עַזֵּי פָנִים
 וְאַתָּה רַחוּם וְחַנּוּן.
@@ -170,7 +170,7 @@ And you are our chosen.
 וְאַתָּה הוּא וּשְׁנותֶיךָ לא יִתָּמּוּ:
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 We are knuckleheads
 But you are merciful and gracious.
@@ -183,7 +183,7 @@ But you -- you are He whose years have no death.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֱלֹהֵֽינוּ וֵאלֹהֵי אֲבוֹתֵֽינוּ
 תָּבֹא לְפָנֶֽיךָ תְּפִלָּתֵֽנוּ,
@@ -195,7 +195,7 @@ But you -- you are He whose years have no death.
 אֲבָל אֲנַֽחְנוּ וַאֲבוֹתֵֽינוּ חָטָֽאנוּ:
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Our God and God of our Ancestors,
 Allow our prayers to come before you
@@ -208,7 +208,7 @@ Rather, us and our ancestors, we have sinned.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אָשַׁמְנוּ
 בָּגַדְנוּ
@@ -218,7 +218,7 @@ Rather, us and our ancestors, we have sinned.
 וְהִרְשַׁעְנוּ
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 We are guilty
 We have betrayed
@@ -229,7 +229,7 @@ and We have done bad things
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 זַדְנוּ
 חָמַסְנוּ
@@ -239,7 +239,7 @@ and We have done bad things
 לַצְנוּ
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 We have been presumptuous
 We have been violent
@@ -250,7 +250,7 @@ We have scorned
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מָרַדְנוּ
 נִאַצְנוּ
@@ -260,7 +260,7 @@ We have scorned
 צָרַרְנוּ
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 We have rebelled
 We have blasphemed
@@ -271,7 +271,7 @@ We have oppressed
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 קִשִׁינוּ עֹרֶף
 רָשַׁעְנוּ
@@ -281,7 +281,7 @@ We have oppressed
 תִּעְתָּעְנוּ
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 We have been stiff-necked
 We have been bad 
@@ -292,7 +292,7 @@ We have caused others to stray
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 סַרְנוּ מִמִּצְוֹתֶיךָ וּמִמִשְׁפָּטֶיךָ הַטּוֹבִים 
 וְלֹא שָׁוָה לָנוּ:
@@ -300,7 +300,7 @@ We have caused others to stray
 כִּי אֱמֶת עָשִׂיתָ וַאֲנַחְנוּ הִרְשָׁעְנוּ:
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 We have turned aside from your good commandments and orders, 
 and that has not profited us.
@@ -309,7 +309,7 @@ for you have dealt most truly, but we have done badly.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הִרְשַׁעְנוּ וּפָשַׁעְנוּ לָכֵן לֹא נוֹשָׁעְנוּ
 וְתֵן בְּלִבֵּנוּ לַעֲזוֹב דֶּרֶךְ רֶשַׁע
@@ -319,7 +319,7 @@ for you have dealt most truly, but we have done badly.
 וְאֶל אֱלהֵינוּ כִּי יַרְבֶּה לִסְלוֹחַ: 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 We have done bad things, and we have transgressed, so we have not been saved. 
 And allow our hearts to abandon bad ways,
@@ -330,7 +330,7 @@ and to our God, for he pardons much.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֱלֹהֵינוּ וֵאֱלֹהֵי אֲבוֹתֵינוּ. 
 מְחַל וּסְלַח לַעֲוֹנוֹתֵינוּ 
@@ -350,7 +350,7 @@ and to our God, for he pardons much.
 לְמַעַן חַיֶּיךָ׃ <span class="citation">(דברים ל:ו)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Our God and the God of our ancestors,
 Forgive and pardon our immoralities 
@@ -371,14 +371,14 @@ for the benefit of your life."[foot]Deuteronomy 30:6.[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הַזְּדוֹנוֹת וְהַשְּׁגָגוֹת אַתָּה מַכִּיר. 
 הָרָצוֹן וְהָאוֹנֶס הַגְּלוּיִם וְהַנִּסְתָּרִים.
 לְפָנֶיךָ הֵם גְּלוּיִים וִידוּעִים.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Our evils and our missteps, you recognize
 The voluntary and the coerced, the public and the secret.
@@ -386,7 +386,7 @@ Before you they are all revealed and known.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מָה אָנוּ.
 מֶה חַיֵּינוּ.
@@ -405,7 +405,7 @@ Before you they are all revealed and known.
 וּמוֹתַר הָאָדָם מִן הַבְּהֵמָה אָיִן כִּי הַכֹּל הָבֶל:
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 What are we?
 What is our life?
@@ -425,7 +425,7 @@ And the superiority of the human over the animal is nothing, for it’s all usel
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מַה נֹּאמַר לְפָנֶיךָ יושֵׁב מָרוֹם.
 וּמַה נְּסַפֵּר לְפָנֶיךָ שׁוֹכֵן שְׁחָקִים.
@@ -436,7 +436,7 @@ And the superiority of the human over the animal is nothing, for it’s all usel
 אֵין דָּבָר נֶעְלָם מִמֶּךָּ, וְאֵין נִסְתָּר מִנֶּגֶד עֵינֶיךָ:
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 What can we say before you who sits up top?
 Or what can we tell before you who lives in the skies? 
@@ -448,7 +448,7 @@ There is nothing concealed from you, and none hidden from meeting your eyes.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וּבְכֵן יְהִי רָצוֹן מִלְּפָנֶיךָ יְהוָה אֱלהֵינוּ וֵאלֹהֵי אֲבוֹתֵינוּ,
 שֶׁתִּסְלַח לָנוּ עַל כׇּל חַטֹּאתֵינוּ,
@@ -456,7 +456,7 @@ There is nothing concealed from you, and none hidden from meeting your eyes.
 וּתְכַפֶּר לָנוּ עַל כׇּל פְּשָׁעֵינוּ:
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 May it be your will, YHVH, our God and the God of our ancestors
 to pardon us for all our sins,
@@ -465,7 +465,7 @@ and to absolve for all our transgressions.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 עַל חֵטְא שֶׁחָטָאנוּ לְפָנֶיךָ 
 בְּאֹנֶס וּבְרָצוֹן:
@@ -477,7 +477,7 @@ and to absolve for all our transgressions.
 בְּבִטּוּי שְׂפָתָיִם:
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 For the sin we have sinned before you, 
 coerced or voluntarily. 
@@ -490,7 +490,7 @@ with the sayings of lips.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 עַל חֵטְא שֶׁחָטָאנוּ לְפָנֶיךָ 
 בְּגִלּוּי עֲרָיוֹת:
@@ -502,7 +502,7 @@ with the sayings of lips.
 בְּדִבּוּר פֶּה:
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 For the sin we have sinned before you,
 with open nakedness.
@@ -515,7 +515,7 @@ with the speech of the mouth.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 עַל חֵטְא שֶׁחָטָאנוּ לְפָנֶיךָ 
 בְּהוֹנָאַת רֵעַ:
@@ -527,7 +527,7 @@ with the speech of the mouth.
 בְּוִדּוּי פֶּה:
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 For the sin which we have committed before you, 
 by oppressing a friend.
@@ -540,7 +540,7 @@ by confessions of the mouth
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 עַל חֵטְא שֶׁחָטָאנוּ לְפָנֶיךָ 
 בְּזִלְזוּל הוֹרִים וּמוֹרִים: 
@@ -552,7 +552,7 @@ by confessions of the mouth
 בְּחִלּוּל הַשֵּׁם:
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 For the sin we have sinned before you,
 by scorning our parents and teachers.
@@ -565,7 +565,7 @@ by profaning of your name.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 עַל חֵטְא שֶׁחָטָאנוּ לְפָנֶיךָ 
 בְּטֻמְאַת שְׂפָתָיִם: 
@@ -577,7 +577,7 @@ by profaning of your name.
 בְּיוֹדְעִים וּבְלֹא יוֹדְעִים:
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 For the sin which we have committed before you, 
 with icky lips. 
@@ -590,20 +590,20 @@ knowingly or unknowingly
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְעַל כֻּלָּם אֱלוֹהַּ סְלִיחוֹת.
 סְלַח לָנוּ. מְחַל לָנוּ. כַּפֶּר לָנוּ:
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Yet, for all of them, God of pardoning, 
 pardon us, forgive us, absolve us.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 עַל חֵטְא שֶׁחָטָאנוּ לְפָנֶיךָ 
 בְּכַחַשׁ וּבְכָזָב: 
@@ -615,7 +615,7 @@ pardon us, forgive us, absolve us.
 בְּלָשׁוֹן הָרָע:
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 For the sin we have sinned before you, 
 with lies and deceit. 
@@ -628,7 +628,7 @@ with bad speech.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 עַל חֵטְא שֶׁחָטָאנוּ לְפָנֶיךָ 
 בְּמַשָּׂא וּבְמַתָּן:
@@ -640,7 +640,7 @@ with bad speech.
 בִּנְטִיַּת גָּרוֹן: 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 For the sin we have sinned before you,
 in taking and in giving. 
@@ -653,7 +653,7 @@ by the weak tendencies of the throat.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 עַל חֵטְא שֶׁחָטָאנוּ לְפָנֶיךָ 
 בְּשִׂיחַ שִׂפְתוֹתֵינוּ: 
@@ -665,7 +665,7 @@ by the weak tendencies of the throat.
 בְּעַזּוּת מֶצַח:
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 For the sin we have sinned before you, 
 by chattering of the teeth.
@@ -678,20 +678,20 @@ with a thick skull.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְעַל כֻּלָּם אֱלוֹהַּ סְלִיחוֹת.
 סְלַח לָנוּ. מְחַל לָנוּ. כַּפֶּר לָנוּ:
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Yet, for all of them, God of pardoning, 
 pardon us, forgive us, absolve us.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 עַל חֵטְא שֶׁחָטָאנוּ לְפָנֶיךָ 
 בִּפְרִיקַת עוֹל:
@@ -703,7 +703,7 @@ pardon us, forgive us, absolve us.
 בְּצָרוּת עָיִן:
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 For the sin we have sinned before you, 
 by dismantling the yoke. 
@@ -716,7 +716,7 @@ with a troublesome eye.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 עַל חֵטְא שֶׁחָטָאנוּ לְפָנֶיךָ 
 בְּקַלּוּת ראשׁ:
@@ -728,7 +728,7 @@ with a troublesome eye.
 בִּרְכִילוּת:
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 For the sin we have sinned before you, 
 with simple heads.
@@ -741,7 +741,7 @@ by gossiping.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 עַל חֵטְא שֶׁחָטָאנוּ לְפָנֶיךָ 
 בִּשְׁבוּעַת שָׁוְא:
@@ -753,7 +753,7 @@ by gossiping.
 בְּתִמְהוֹן לֵבָב:
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 For the sin we have sinned before you, 
 by false swearing. 
@@ -766,20 +766,20 @@ with a doubtful heart.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְעַל כֻּלָּם אֱלוֹהַּ סְלִיחוֹת.
 סְלַח לָנוּ. מְחַל לָנוּ. כַּפֶּר לָנוּ:
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Yet, for all of them, God of pardoning, 
 pardon us, forgive us, absolve us.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְעַל חֲטָאִים שֶׁאָנוּ חַיָּבִים עֲלֵיהֶם 
 עוֹלָה:
@@ -791,7 +791,7 @@ pardon us, forgive us, absolve us.
 אָשָׁם וַדַּאי וְתָלוּי:
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And for the sins with which we incurred a debt for
 an olah.
@@ -804,7 +804,7 @@ an asham, for either a certain or doubtful sin.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְעַל חֲטָאִים שֶׁאָנוּ חַיָּבִים עֲלֵיהֶם 
 מַכַּת מַרְדוּת:
@@ -816,7 +816,7 @@ an asham, for either a certain or doubtful sin.
 כָּרֵת וַעֲרִירִי:
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And for the sins with which we incurred a debt for
 a whipping for insubordination.
@@ -829,7 +829,7 @@ being cut off, and being childless.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְעַל חֲטָאִים שֶׁאָנוּ חַיָּבִים עֲלֵיהֶם 
 אַרְבַּע מִיתוֹת בֵּית דִּין:
@@ -839,7 +839,7 @@ being cut off, and being childless.
 וְחֶנֶק: 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And for the sins with which we incurred a debt for
 the four death penalties of the judges: 
@@ -850,7 +850,7 @@ and strangling.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 עַל מִצְוַת עֲשֵׂה וְעַל מִצְוַת לא תַעֲשֶׂה.
 בֵּין שֶׁיֵּשׁ בָּהּ קוּם עֲשֵׂה וּבֵין שֶׁאֵין בָּהּ קוּם עֲשֵׂה:
@@ -863,7 +863,7 @@ and strangling.
 לַעֲשׂות אֶת כׇּל דִּבְרֵי הַתּוֹרָה הַזֹּאת: <span class="citation">(דברים כט:כח)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 For 'do-this' commandments, and for 'don’t-do-this' commandments.
 If there is anything that can be done about it, and if there is not a thing that can be done about it.  
@@ -877,7 +877,7 @@ to do all the words of this Torah.”[foot]Deuteronomy 29:28.[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 כִּי אַתָּה סָלְחָן לְיִשְׂרָאֵל
 וּמָחֳלָן לְשִׁבְטֵי יְשֻׁרוּן
@@ -885,7 +885,7 @@ to do all the words of this Torah.”[foot]Deuteronomy 29:28.[/foot]
 וּמִבַּלְעָדֶֽיךָ אֵין לָֽנוּ מֶֽלֶךְ מוֹחֵל וְסוֹלֵֽחַ אֶלָּא אָֽתָּה:
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 For You are the pardoner of Israel,
 and the forgiver of the tribes of Yeshurun

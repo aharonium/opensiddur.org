@@ -99,7 +99,7 @@ Every effort has been exerted to make the new translation of the Siddur readily 
 
 The following parallel columns will illustrate the difference between the old English translation and the new. The extracts for comparison are taken from the grace after meals.
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th style="text-align: center" id="x">THE NEW TRANSLATION</th><th style="text-align: center">THE OLD TRANSLATION</th></tr></thead>
 <tbody>
 <tr>

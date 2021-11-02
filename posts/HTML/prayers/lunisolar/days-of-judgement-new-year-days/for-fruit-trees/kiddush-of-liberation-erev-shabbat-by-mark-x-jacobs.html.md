@@ -7,10 +7,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Contribute a Translation</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 ...‎‏‏‏‎‎‎‎יוֹם הַשִּׁשִּׁי׃
 וַיְכֻלּוּ הַשָּׁמַיִם וְהָאָרֶץ וְכָל צְבָאָם:‏
@@ -21,7 +21,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 ...the sixth day.
 The heavens and earth finished and all of their array.
@@ -34,13 +34,13 @@ Because in that time the Process abstained from all of Its doing which the Great
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 As the earth turns and hides the sun,
 And the stars illuminate the heavens,
@@ -52,13 +52,13 @@ As the shadows obscure our wrinkled brows and calloused hands.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 We accept upon ourselves a time of being
 A liberation from the toil of the week
@@ -68,13 +68,13 @@ And a rest from triumphant creation.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Our minds have labored hard
 Striving to imagine ways to effect <em>tikkun olam</em> -- repair, transformation, healing of the world
@@ -87,13 +87,13 @@ Building the beautiful and the necessary.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 We thank our minds, 
 we thank our hands, 
@@ -104,13 +104,13 @@ And we assume that now, for <em>Shabbat</em>, the world is perfect.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 We call to <em>sukkat shalom</em>, the shelter of peace, all of our various selves
 To rest from the contortion of social life and the demands of others.
@@ -124,13 +124,13 @@ hierarchies and competition.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 We bask in the liberating freedom of being our unmediated selves
 Sharing with each other the dignity and freedom of equality.
@@ -139,13 +139,13 @@ Sharing with each other the dignity and freedom of equality.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 In the close spaces we shall dwell as we rest
 Intimate in our ways, overcoming the distances and isolation of the week
@@ -156,13 +156,13 @@ For today, here and now, not the future or the past.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Shabbat flows through the mind and spirit, the heart and soul
 Out into the larger Self
@@ -177,13 +177,13 @@ All life enjoying its place in the great cyclical mystery.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 On Shabbat we come together
 To celebrate 
@@ -196,7 +196,7 @@ And fully appreciative of each other.</p>
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 סַבְרִי,‏
 בָּרוּךְ אַתְּ 
@@ -205,7 +205,7 @@ And fully appreciative of each other.</p>
 בּוֹרֵא פְרִי הַגָּפֶן.‏
 </td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 By your leave, our Earth, as we bless your fruit:
 Blessed are You, 
 Yah, Our Spirit, 
@@ -216,7 +216,7 @@ who created the fruit of the vine.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה 
 יָהּ רוּחֵינוּ 
@@ -229,7 +229,7 @@ who created the fruit of the vine.
  בָּרוּךְ אַתָּה יָהּ מְקַדֵּשׁ הַשַּׁבָּת:‏
 </td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Blessed are You, 
 Yah, Our Spirit, 
 Life of the Universe, 

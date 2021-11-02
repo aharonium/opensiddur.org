@@ -7,17 +7,17 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 בָּרֲכִ֥י נַפְשִׁ֗י אֶת־יְה֫וָ֥ה 
 יְהוָ֣ה אֱ֭לֹהַי גָּדַ֣לְתָּ מְּאֹ֑ד 
 ה֭וֹד וְהָדָ֣ר לָבָֽשְׁתָּ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Bless YHVH, O my soul.
 O YHVH my <em>elo'ah</em>, you are very great;
@@ -25,14 +25,14 @@ You are clothed with glory and majesty.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 עֹֽטֶה־א֭וֹר כַּשַּׂלְמָ֑ה 
 נוֹטֶ֥ה שָׁ֝מַ֗יִם כַּיְרִיעָֽה׃ 
 הַ֥מְקָרֶֽה בַמַּ֗יִם עֲ&#x200d;ֽלִיּ֫וֹתָ֥יו
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 You cover yourself with light as with a garment; 
 You stretch out the heavens like a curtain;
@@ -40,40 +40,40 @@ You lay the beams of your upper chambers in the waters.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הַשָּׂם־עָבִ֥ים רְכוּב֑וֹ 
 הַֽ֝מְהַלֵּ֗ךְ עַל־כַּנְפֵי־רֽוּחַ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 You make the clouds your chariot;
 You ride on the wings of the wind.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 עֹשֶׂ֣ה מַלְאָכָ֣יו רוּח֑וֹת 
 מְ֝שָׁרְתָ֗יו אֵ֣שׁ לֹהֵֽט׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 You make winds your messengers,
 The flaming fire your ministers.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 יָֽסַד־אֶ֭רֶץ עַל־מְכוֹנֶ֑יהָ 
 בַּל־תִּ֝מּ֗וֹט עוֹלָ֥ם וָעֶֽד׃ 
 תְּ֭הוֹם כַּלְּב֣וּשׁ כִּסִּית֑וֹ
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 You established the earth upon its foundations, 
 That it should not ever be moved;
@@ -81,14 +81,14 @@ You covered the deep as with a garment.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 עַל־הָ֝רִ֗ים יַֽעַמְדוּ־מָֽיִם׃ 
 מִן־גַּעֲרָ֣תְךָ֣ יְנוּס֑וּן 
 מִן־ק֥וֹל רַֽ֝עַמְךָ֗ יֵחָפֵזֽוּן׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 The waters had stood above the mountains.
 At your rebuke they fled,
@@ -96,33 +96,33 @@ At the voice of your thunder they hasted away —
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 יַעֲל֣וּ הָ֭רִים יֵרְד֣וּ בְקָע֑וֹת 
 אֶל־מְ֝ק֗וֹם זֶ֤ה ׀ יָסַ֬דְתָּ לָהֶֽם׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 The mountains rose, the valleys sank down —
 Unto the place which you had founded for them;
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 גְּֽבוּל־שַׂ֭מְתָּ בַּל־יַֽעֲבֹר֑וּן 
 בַּל־יְ֝שׁוּב֗וּן לְכַסּ֥וֹת הָאָֽרֶץ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 You set a bound which they should not pass over,
 That they might not return to cover the earth.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הַֽמְשַׁלֵּ֣חַ מַ֭עְיָנִים בַּנְּחָלִ֑ים 
 בֵּ֥ין הָ֝רִ֗ים יְהַלֵּכֽוּן׃ 
@@ -130,7 +130,7 @@ That they might not return to cover the earth.
 יִשְׁבְּר֖וּ פְרָאִ֣ים צְמָאָֽם׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 You make springs flow in the valleys;
 They find their way among the hills;
@@ -139,40 +139,40 @@ The wild asses quench their thirst.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 עֲ֭לֵיהֶם עוֹף־הַשָּׁמַ֣יִם יִשְׁכּ֑וֹן 
 מִבֵּ֥ין עֳ֝פָאיִ֗ם יִתְּנוּ־קֽוֹל׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Beside them dwell the birds of the air;
 From among the branches they sing.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מַשְׁקֶ֣ה הָ֭רִים מֵעֲלִיּוֹתָ֑יו 
 מִפְּרִ֥י מַ֝עֲשֶׂ֗יךָ תִּשְׂבַּ֥ע הָאָֽרֶץ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 You water the mountains from your upper chambers. 
 That the earth may be satisfied by the fruit of your handiwork.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מַצְמִ֤יחַ חָצִ֨יר ׀ לַבְּהֵמָ֗ה 
 וְ֭עֵשֶׂב לַעֲבֹדַ֣ת הָאָדָ֑ם 
 לְה֥וֹצִיא לֶ֝֗חֶם מִן־הָאָֽרֶץ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 You make grass grow for the cattle,
 And herbage for the service of man,
@@ -180,14 +180,14 @@ To bring forth food from the earth,
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְיַ֤יִן ׀ יְשַׂמַּ֬ח לְֽבַב־אֱנ֗וֹשׁ 
 לְהַצְהִ֣יל פָּנִ֣ים מִשָּׁ֑מֶן 
 וְ֝לֶ֗חֶם לְֽבַב־אֱנ֥וֹשׁ יִסְעָֽד׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And wine that cheers the heart of man,
 And oil to make his face bright,
@@ -195,7 +195,7 @@ And bread that sustains man’s strength.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 יִ֭שְׂבְּעוּ עֲצֵ֣י יְהוָ֑ה 
 אַֽרְזֵ֥י לְ֝בָנ֗וֹן אֲשֶׁ֣ר נָטָֽע׃ 
@@ -203,7 +203,7 @@ And bread that sustains man’s strength.
 חֲ֝סִידָ֗ה בְּרוֹשִׁ֥ים בֵּיתָֽהּ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 The trees of YHVH drink their fill,
 The cedars of Lebanon which He has planted, 
@@ -212,33 +212,33 @@ The fir-trees wherein the stork makes her home.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הָרִ֣ים הַ֭גְּבֹהִים לַיְּעֵלִ֑ים 
 סְ֝לָעִ֗ים מַחְסֶ֥ה לַֽשְׁפַנִּֽים׃ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 The high mountains are for the wild goats;
 The rocks are a refuge for the conies.[foot]a/k/a, the <a href="https://en.wikipedia.org/wiki/Rock_hyrax">rock hyrax</a>[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 עָשָׂ֣ה יָ֭רֵחַ לְמוֹעֲדִ֑ים 
 שֶׁ֝֗מֶשׁ יָדַ֥ע מְבוֹאֽוֹ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 You have appointed the moon for festival seasons, 
 The sun which knows its time for setting.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 תָּֽשֶׁת־חֹ֭שֶׁךְ וִ֣יהִי לָ֑יְלָה 
 בּֽוֹ־תִ֝רְמֹ֗שׂ כָּל־חַיְתוֹ־יָֽעַר׃ 
@@ -246,7 +246,7 @@ The sun which knows its time for setting.
 וּלְבַקֵּ֖שׁ מֵאֵ֣ל אָכְלָֽם׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 You make darkness and it is night,
 In which all the creatures of the forest prowl,
@@ -255,40 +255,40 @@ And seeking their food from El.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 תִּזְרַ֣ח הַ֭שֶּׁמֶשׁ יֵאָסֵפ֑וּן 
 וְאֶל־מְ֝עוֹנֹתָ֗ם יִרְבָּצֽוּן׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 When the sun rises, they go to cover 
 And lie down in their lairs.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 יֵצֵ֣א אָדָ֣ם לְפָעֳל֑וֹ 
 וְֽלַעֲבֹ֖דָת֣וֹ עֲדֵי־עָֽרֶב׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Then man goes forth to his work,
 And to his labor until evening.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מָֽה־רַבּ֬וּ מַעֲשֶׂ֨יךָ ׀ יְֽהוָ֗ה 
 כֻּ֭לָּם בְּחָכְמָ֣ה עָשִׂ֑יתָ 
 מָלְאָ֥ה הָ֝אָ֗רֶץ קִנְיָנֶֽךָ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 How manifold are your works, O YHVH!
 In wisdom have you made them all;
@@ -296,14 +296,14 @@ The earth is full of your creations.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 זֶ֤ה ׀ הַיָּ֥ם גָּדוֹל֮ וּרְחַ֪ב 
 יָ֫דָ֥יִם שָֽׁם־רֶ֭מֶשׂ וְאֵ֣ין מִסְפָּ֑ר 
 חַיּ֥וֹת קְ֝טַנּ֗וֹת עִם־גְּדֹלֽוֹת׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Yonder is the sea, vast and wide,
 Wherein are countless swarms,
@@ -311,53 +311,53 @@ Living creatures, small and great,
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 שָׁ֭ם אֳנִיּ֣וֹת יְהַלֵּכ֑וּן 
 לִ֝וְיָתָ֗ן זֶֽה־יָצַ֥רְתָּ לְשַֽׂחֶק־בּֽוֹ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Making their way like ships,
 Leviathan, whom you have formed to frolic therein. 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 כֻּ֭לָּם אֵלֶ֣יךָ יְשַׂבֵּר֑וּן 
 לָתֵ֖ת אָכְלָ֣ם בְּעִתּֽוֹ׃ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 All of them look to you 
 To give them their food in due season.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 תִּתֵּ֣ן לָ֭הֶם יִלְקֹט֑וּן 
 תִּפְתַּ֥ח יָֽ֝דְךָ֗ יִשְׂבְּע֥וּן טֽוֹב׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 You give it to them — they gather it;
 You open your hand — they are well satisfied. 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 תַּסְתִּ֥יר פָּנֶיךָ֮ יִֽבָּהֵ֫ל֥וּן 
 תֹּסֵ֣ף ר֭וּחָם יִגְוָע֑וּן 
 וְֽאֶל־עֲפָרָ֥ם יְשׁוּבֽוּן׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 You hide your face — they are affrighted;
 You withdraw their breath — they perish,
@@ -365,91 +365,91 @@ And return to their dust.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 תְּשַׁלַּ֣ח ר֭וּחֲךָ יִבָּרֵא֑וּן 
 וּ֝תְחַדֵּ֗שׁ פְּנֵ֣י אֲדָמָֽה׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 You send forth your spirit — they are created, 
 And you renew the face of the earth.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 יְהִ֤י כְב֣וֹד יְהוָ֣ה לְעוֹלָ֑ם 
 יִשְׂמַ֖ח יְהוָ֣ה בְּמַעֲשָֽׂיו׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 May the glory of YHVH endure for ever;
 May YHVH rejoice in His works.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הַמַּבִּ֣יט לָ֭אָרֶץ וַתִּרְעָ֑ד 
 יִגַּ֖ע בֶּהָרִ֣ים וְֽיֶעֱשָֽׁנוּ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 He but looks on the earth, and it trembles;
 He but touches the mountains, and they smoke.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אָשִׁ֣ירָה לַיהוָ֣ה בְּחַיָּ֑י 
 אֲזַמְּרָ֖ה לֵאלֹהַ֣י בְּעוֹדִֽי׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 I will sing to YHVH while I live;
 I will sing praise to my <em>elo'ah</em> while I have my being.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 יֶעֱרַ֣ב עָלָ֣יו שִׂיחִ֑י 
 אָ֝נֹכִ֗י אֶשְׂמַ֥ח בַּיהוָֽה׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 May my meditation be sweet unto Him —
 I will rejoice in YHVH.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 יִתַּ֤מּוּ חַטָּאִ֨ים ׀ מִן־הָאָ֡רֶץ 
 וּרְשָׁעִ֤ים ׀ ע֤וֹד אֵינָ֗ם
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 May sinners vanish from the earth,
 And the wicked be no more.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 בָּרֲכִ֣י נַ֭פְשִׁי אֶת־יְהוָ֗ה 
 הַֽלְלוּ־יָֽהּ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Bless YHVH, O my soul.
 Hallelujah.

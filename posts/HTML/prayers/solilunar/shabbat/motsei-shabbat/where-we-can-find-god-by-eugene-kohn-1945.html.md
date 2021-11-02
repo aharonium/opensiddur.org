@@ -7,34 +7,34 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <u>Where We Can Find Yah</u>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 יָהּ אָנָה אֶמְצָאֶֽךָּ.
 כְּבוֹדְךָ מָלֵא עוֹלָם׃ <span class="citation">(ר' יהודה הלוי -- "<a href="https://opensiddur.org/prayers/solilunar/shabbat/motsei-shabbat/yah-where-shall-i-find-you-a-piyyut-by-yehudah-halevi-ca-early-12th-c/">יָהּ, אָנָה אֶמְצָאֶֽךָּ</a>")</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Yah, where shall I find you,
 Whose kavod fills the universe?[foot]From the piyyut, "<a href="https://benyehuda.org/rihal/rihal7_4_2.html">Yah Anah Emtsa'akha</a>" by Rabbi Yehudah Halevi. Cf. Baḥya ibn Pakuda in his מחשבת ישראל, חובות הלבבות, שער ראשון - שער ייחוד, י׳ (<a href="https://www.sefaria.org/Duties_of_the_Heart%2C_First_Treatise_on_Unity.10.67?vhe=Chovat_Halevavot,_Warsaw_1875.&lang=bi&with=all&lang2=en">Duties of the Heart, First Treatise on Unity 10.67</a>). <span class="hebrew" lang="he">ונאמר על קצת מן החכמים שהיה אומר בתפלתו אלהי אנה אמצאך אך אנה לא אמצאך נסתרת ולא תראה והכל ממך מלא. דומה למה שאמר יתברך (ירמיהו כ״ג:כ״ד) את השמים ואת הארץ אני מלא נאם ה׳.</span>  "It is said of one of the Sages who would say in his prayer: "My <em>elo'ah</em>, where can I find you, yet where can I not find you. You are hidden and invisible yet everything is filled with you, similar to the verse 'Do I not fill heaven and earth says YHVH' (Jeremiah 23:24)." (Many thanks to Aryeh Sklar for his identification of the piyyut via this statement by ibn Pakuda.[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הִנֵּה שָׁם אֶמְצָאֶֽךָּ.
 בַּאֲשֶׁר הַחוֹרֵשׁ חוֹרֵשׁ אֶת־הָאֲדָמָה הַקָּשָׁה.
@@ -44,7 +44,7 @@ Whose kavod fills the universe?[foot]From the piyyut, "<a href="https://benyehud
 עִמָּם אַתָּה בְּשָׁרָב וּבְמִטְרוֹת עֹז׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Behold, I find you
 Wherever the ploughman ploughs his furrow through the hard soil,
@@ -55,7 +55,7 @@ There you abide in sun and shower.[foot]Cf. <a href="https://archive.org/details
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הִנֵּה שָׁם אֶמְצָאֶֽךָּ.
 בַּמָּקוֹם אֲשֶׁר הַתְּבוּנָה חָפְשִׁית לְרוּחָהּ. 
@@ -67,7 +67,7 @@ There you abide in sun and shower.[foot]Cf. <a href="https://archive.org/details
 בַּמָּקוֹם אֲשֶׁר מַעֲשִׂים נַעֲלִים יֵעָשׂוּ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Behold, I find you
 Wherever the mind is free to follow its own bent,
@@ -80,7 +80,7 @@ Wherever glorious deeds are done.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הִנֵּה שָׁם אֶמְצָאֶֽךָּ.
 בִּתְרוּעוֹת גִּיל הַיְלָדִים בְּשַׁעֲשׁוּעֵיהֶם. 
@@ -89,7 +89,7 @@ Wherever glorious deeds are done.
 וּבַשְּׂחוֹק הָרוֹעֵד עַל־שְׂפָתָיו מִדֵּי יָשְׁנוֹ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Behold, I find you
 In the merry shouts of children at play,
@@ -99,7 +99,7 @@ And in the smile that plays on his sleeping lips.[foot]Cf. <a href="https://arch
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הִנֵּה שָׁם אֶמְצָאֶֽךָּ. 
 בְּבוֹא הַבֹּֽקֶר עִם טֶֽנֶא זְהָבוֹ.
@@ -111,7 +111,7 @@ And in the smile that plays on his sleeping lips.[foot]Cf. <a href="https://arch
 וּמִשְׁתַּפְּכִים בַּהֲמוֹן גַלִּים סוֹעֲרִים בְּתוֹךְ עַלִים וּפְרָחִים׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Behold, I find you
 When comes the dawn with her golden cornucopia,
@@ -124,7 +124,7 @@ And that flows, in a multitude of tempestuous waves, through the leaves and flow
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הִנֵּה שָׁם אֶמְצָאֶֽךָּ.
 בַּעֲתֶֽרֶת הַחֶדְוָה אֲשֶׁר תַּחֲלֹף וְתִגְוַע וְתָמוּת כָּל־רֶֽגַע. 
@@ -133,7 +133,7 @@ And that flows, in a multitude of tempestuous waves, through the leaves and flow
 וּבִדְפֹק הַמָּֽוֶת עַל־דַּלְתֵי הַחַיִּים׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Behold I find you
 In the wealth of those passing delights that live but for a moment,
@@ -143,7 +143,7 @@ And in death that keeps knocking on the doors of life.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֱלֹהַי.
 מַלְּאֵֽנִי תָמִיד חַיִּים חֲדָשִׁים׃ 
@@ -157,7 +157,7 @@ And in death that keeps knocking on the doors of life.
 כִּי יָדַֽעְתִּי כִּי אַתָּה הוּא הַמְאַזְּרֵֽנִי כֹֽחַ לְמַֽעַן אֶפְעָל׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 O my <em>elo'ah</em>,
 Fill me ever with new life.
@@ -172,7 +172,7 @@ For I know that it is you who girds me with the power to achieve.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֱלֹהַי.
 תֶּן־לִי כֹֽחַ לְבִלְתִּי הַזְנִֽיחַ לְעוֹלָם דָּל. 
@@ -188,7 +188,7 @@ For I know that it is you who girds me with the power to achieve.
 אוֹצְרוֹת אֵין עֲרוֹךְ. אוֹצְרוֹת חַיִּים וָחֶֽסֶד׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 O my <em>elo'ah</em>,
 Give me the strength never to desert the helpless,

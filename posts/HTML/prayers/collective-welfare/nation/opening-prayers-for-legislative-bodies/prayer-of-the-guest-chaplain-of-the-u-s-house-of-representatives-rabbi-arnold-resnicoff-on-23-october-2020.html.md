@@ -22,7 +22,7 @@ Date of Prayer: 10/23/2020
 
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute&nbsp;a&nbsp;translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
@@ -133,7 +133,7 @@ Issue: Vol. 166, No. 182 — Daily Edition (October 23, 2020)
 link: https://chaplain.house.gov/archive/index.html?id=1222
 -->
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.c-span.org/video/standalone/?c4917849/rabbi-arnold-resnicoff-chaplain-us-navy-washington-dc-october-23-2020-house-prayer" width="512" height="330"]
+<iframe width=530 height=312 src='https://www.c-span.org/video/standalone/?c4917849/rabbi-arnold-resnicoff-chaplain-us-navy-washington-dc-october-23-2020-house-prayer' allowfullscreen='allowfullscreen' frameborder=0></iframe>[su_spacer]
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.congress.gov/116/crec/2020/10/23/CREC-2020-10-23-pt1-PgH5703-3.pdf" width="100%" height="900"]
 

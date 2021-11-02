@@ -2,7 +2,7 @@
 <head></head>
 <body>
 Title: סֵדֶר ט״וּ בִּשְׁבָט | A New Year For The Trees: A Tu BiShvat Seder, by Ellen Bernstein (1988, revised: 2017)<br />
-Primary contributor: Ellen Bernstein<br />
+Primary contributor: ellen.bernstein<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=23320">http://opensiddur.org/?p=23320</a>
 <p />
 <hr />
@@ -19,15 +19,15 @@ A print copy of this Tu Bishvat Seder haggadah may be purchased directly from <a
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/ANewYearForTheTreesATuBishvatSederEllenBernstein2017#page/n0/mode/2up"]
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;"><a href="https://opensiddur.org/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 A New Year for the Trees: A Tu BiShvat Seder 
 by Ellen Bernstein 
@@ -37,89 +37,89 @@ by Ellen Bernstein
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <h3>Tu BiShvat Seder</h3> 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Tu BiShvat is the Jewish New year of the Trees. Literally it means the 15th of the month of Sh’vat (which also means branches). 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 When many of us hear the word ‘seder,’ we think ‘Passover.’ The word seder literally means order, and the Passover seder is an orderly ritual.  Why a seder for Tu BiShvat?  Because a seder refers to any ordered ritual that can make an abstract idea tangible and even edible.  On Passover, we don’t just recite the story of liberation and call it a night.  We participate in an elaborate ritual meal to remind us of the journey from bondage to freedom, and we feel it in our bodies.  We become slaves as we eat foods that symbolize slavery.  Matzah represents our poverty; horseradish, our bitterness;  haroset, our occupation as brick layers.  We become free as we eat a lavish feast and drink 4 cups of wine in the style of free people—reclining.  
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 The Tu BiShvat seder is also a ritual that makes an idea tangible and edible. The idea is that God is the source of life—of the extraordinary diversity and richness of the natural world, and it is humanity’s job to help fix the world.   
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 The Tu BiShvat seder has its own order which is based on the symbolism of the Kabbalists, mystics from Safed in medieval Israel. They perceived the universe and our individual universes (our lives) to be structured according to 4 worlds: Assiyah, the physical world of doing, Yetzirah, the emotional world of being/creating, Briyah, the intellectual world of thinking, and Atzilut, the spiritual world of transcending. 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 The journey of this seder is personal and spiritual. We begin in Assiyah, the material world in which we live—a world of extraordinary variety of color, taste, forms, and sounds—and travel upward (and inward) through the unseen worlds of Yetzirah and Briyah, to the place of Atzilut, the world where all is One. You can imagine the journey as one of pulling back veils or passing through gates. Some Jewish mystics intuited a correspondence between these 4 worlds and the 4 elemental worlds of Earth, Water, Air and Fire. This seder, A New Year for the Trees, is based on this correspondence. Like the Kabbalists, we experience the journey of the 4 worlds by reading from our sacred texts and reflecting on the structure and essence of nature and our nature. And we ingest this journey, making it even more real, as we eat and drink of the specific fruits and wines symbolic of the 4 worlds. 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 The idea of fixing the world (tikkun) through our blessing is a central theme of the seder.  The Kabbalists believed that before Adam ate the apple in the Garden, the world was whole.  Creation was one with Creator, and peace and harmony prevailed.  Then Adam rebelled against God by eating the fruit of the Tree of Knowledge of Good and Evil.   
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 The P’ri Etz Hadar states: 
 
@@ -127,111 +127,111 @@ Do not eat from the tree of knowledge of good and evil, for on the day that you 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Adam’s trespass shattered the soul of the world. All of creation became separated from the Creator and humanity separated from nature.   
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 From the kabbalistic point of view, Adam’s transgression testifies to the awesome power that humanity holds. It is humanity that is primarily responsible for the state of nature and the cosmos. Just as humanity holds the capacity to spoil the Creation, humanity also holds the possibility to heal and restore it. The world becomes whole when people take seriously the divine law and the obligation to fix the world.  
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 In the kabbalistic vision, our expressions of gratitude, our blessings, are the critical link to the repair of the world. How can blessings heal?  In at least two ways: 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 According to the Kabbalists,, nature’s well-being is largely dependent on our kavvanot—the intentions that we hold in our hearts and express in our blessings before partaking of nature’s bounty. In their worldview, the simple act of eating a fruit depletes the plant of the fruit’s divine energy. We can restore the energy by offering a blessing. The plant’s guardian angel channels the blessing back to the specific plant, enabling the plant to bear fruit again. Without our blessings, the angel cannot replenish the energy and the plant cannot produce a second generation of fruit. When we neglect the blessings, we fail to fulfil our obligation as creative agents in the Creation. We are like robbers, stealing the divine energy from the plant.  
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Blessings can also change us. When we recite a blessing, we subliminally train ourselves to appreciate the gift (the bread, the wine, the rain) that we have been given. The power of this simple act can not be overestimated. We tend to take nature for granted. We have grown to expect that the world is ours to use for our individual gain. We feel entitled to nature’s gifts and live lives of thoughtless consuming. Our souls are poorer for our inability to wonder, and nature suffers on account of our endless need to claim her for ourselves.  
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 It requires a tremendous amount of focus and perseverance to maintain the vision that the world is holy and that our actions towards it matter. Just as we need to practice to learn to play the piano or to speak a new language, we need to practice to learn how to value and treat nature. Blessings are the spiritual practice that can help us to live as sacred guardians of Creation. This practice can help us to care for nature as we care for our souls. 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 On Tu BiShvat then, our intention is to heal the rift between human and nature that occurred ‘in the beginning’ with Adam’s first act of separation. Just as Adam partook of the tree that God proclaimed was off-limits to him, so we in every generation, invariably overstep our bounds, and partake of that which is not ours. Our blessings on Tu BiShvat have the power to in.uence the world when we recite them with sincere intention. We eat as many kinds of fruit as we can because each new and different kind of fruit is an opportunity for another blessing. The more fruits, the more blessing, the more we can help repair ourselves and the world. 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <h3>4 Worlds</h3>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 The 4 worlds and the 4 cups form the organizing principle for A New Year for the Trees.  The chart below indicates the quality, season, fruit , element, and wine that correspond to the 4 worlds in the kabbalistic framework. 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 World  Quality  Season  Fruit  Element  Wine  
 Assiyah  Action  Winter  hard outer/softinner  Earth  White  
@@ -241,12 +241,12 @@ Atzilut  Spirit  Fall  Essence  Fire  Red
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Introductory blessing from the Pri Etz Hadar:
 
@@ -290,12 +290,12 @@ now be reunited in the splendid power.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <h3>4 Questions</h3>
 
@@ -303,12 +303,12 @@ now be reunited in the splendid power.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Why celebrate the trees’ new year in winter? 
 
@@ -321,12 +321,12 @@ and the interdependence of all of nature.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Why celebrate Tu BiShvat with a seder? 
 
@@ -334,12 +334,12 @@ A seder is an “ordered” ritual that brings an idea to life. The Kabbalists, 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 How does this seder differ from a Passover Seder? 
 
@@ -347,12 +347,12 @@ At the Passover seder we recall the history of the Jewish people and we eat food
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Why eat so many kinds of fruits? 
 
@@ -360,12 +360,12 @@ The Kabbalists believed that the energy of our positive intentions—our blessin
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <h3>Earth 
 
@@ -375,12 +375,12 @@ Making</h3>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 (Leader) 
 
@@ -397,12 +397,12 @@ And we contemplate our place on earth.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 *And God said, 
 ‘Let the waters under the sky be gathered 
@@ -414,12 +414,12 @@ And God saw that it was Good.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Fertility depends on a combination of climate, 
 minerals, organic matter, and slope. 
@@ -433,12 +433,12 @@ but sweet and open, like the smell of fertile soil in springtime.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Then God said, 
 “Let the land produce vegetation: 
@@ -454,36 +454,36 @@ And God saw that it was good.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 The creation of a thousand forests is in one acorn. 
 -Ralph Waldo Emerson 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Every tree was excited: bowing to the roaring storm; waving, swirling, tossing their branches in glorious enthusiasm—like worship. But, though to the outer ear these trees are silent, their songs never cease. Every cell is throbbing with music and life; every fiber trilling like harp strings. No wonder the hills and groves were God’s first temples. And the more they are cut down and hewn into cathedrals and churches, the farther off and dimmer seems the Lord himself. 
 -John Muir 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 For the Lord your God 
 is bringing you into a Good Land, 
@@ -503,12 +503,12 @@ which is being given to you.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 If you have no land, you have nothing: 
 no food, no shelter, no warmth, 
@@ -528,24 +528,24 @@ It is worth what life is worth.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 The Mountains quaked before God. 
 -Judges 5:5 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Mountaintop removal, 
 which provides just 7 percent of U.S.’s coal, 
@@ -567,12 +567,12 @@ They fear terrorists will find ways to spill the toxic matter.
  </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 *I brought you to this fertile land 
 to eat of its fruit and its Goodness 
@@ -582,12 +582,12 @@ You made my gift abhorrent.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 You asked us to believe in the Great Creator 
 and Ruler of the Heaven and Earth; 
@@ -600,12 +600,12 @@ so that no-one can take it from you. . .
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 We believe in God, the Creator 
 and Ruler of Heaven and Earth.  
@@ -618,12 +618,12 @@ and will never bequeath a foot of ground.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Earth 
 
@@ -633,12 +633,12 @@ Blessing for Assiyah
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 (Leader)
 The kabbalists said, *‘It is a good to eat an abundance of fruit on this day and to sing their praises.’ Today we eat many fruits, deepening our gratitude for the diversity of trees and all nature. 
@@ -650,12 +650,12 @@ and emotionally.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 (Together: Recite the bracha over fruit.)
 
@@ -673,24 +673,24 @@ Taste one of the Assiyah fruits.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 (Leader)
 Our first cup of wine is white, symbolizing winter, when nature is asleep and the earth is barren, sometimes covered with snow. 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 (Together: Recite the bracha over wine.)
 
@@ -710,12 +710,12 @@ Enjoy the fruits of Assiyah and reflect on your experiences of Earth.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <h3>Water 
 
@@ -725,12 +725,12 @@ Formation</h3>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 (Leader)
 
@@ -750,24 +750,24 @@ whose lives depend on water.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 If there is magic in this planet, it is contained in water. 
 -Loren Eisley, The Immense Journey 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Nothing in the world is more flexible 
 and yielding than water.  
@@ -779,12 +779,12 @@ the yielding overcome the forceful.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 The Hebrew letter “mem” comes from mayim, meaning water. 
 “Mem” represents the mikvah, the ritual bath, and the womb.  
@@ -799,12 +799,12 @@ she is ready to be reborn with its answer.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 The Lakota knew that the human heart, 
 away from nature, becomes hard; 
@@ -814,48 +814,48 @@ soon leads to lack of respect for humans too.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Why do you harden your hearts, like the Egyptians and Pharaoh? 
 -1 Samuel 6.6 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 The establishment of Everglades National Park in 1947 marked the first time in American history that a large tract of wilderness was permanently protected, not for its scenic value (many had deemed it a swamp), but for the bene.t of the unique diversity of life it sustained. The habitats within the Everglades support an array of plant and animal species found nowhere else on the planet. More than 360 species of birds inhabit this watery paradise. 
 -Adapted from National Park website 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 By the 1900s, when plumed hats were the rage, the snowy white feathers of the egrets that lived in the Everglades had become more valuable than gold. More than five million birds a year were slaughtered; nearly 95 percent of Florida's shore birds butchered. The Audubon Society tried unsuccessfully to dissuade women from buying hats with feathers, but the powerful millinery industry in.uenced Congress to defeat national laws that would halt the killing. 
 -Adapted from Ken Burns, The National Parks, America’s Best Idea 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 “So-this-is-a River!” 
 “THE River,”corrected the Rat.  
@@ -870,12 +870,12 @@ and what it doesn’t know is not worth knowing.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 I found that water was flowing from below the Temple-­eastward. 
 When I came back, I saw gigantic trees 
@@ -895,24 +895,24 @@ Their fruit will be for food and their leaves for healing.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 It is not possible to add pesticides to water anywhere without threatening the water everywhere. 
 -Rachel Carson, Silent Spring, 1962 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 *If you walk according to my law 
 and keep my commandments. . . 
@@ -926,12 +926,12 @@ You will lie down and no-one will terrify you.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Water 
 
@@ -941,12 +941,12 @@ Blessing for Yetzirah
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 (Leader)
 For Yetzirah, we eat fruits that are solid inside and soft outside. 
@@ -965,12 +965,12 @@ remember to thank the tree from which you eat.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 (Together recite the bracha over fruit.)
 BARUCH ATA 
@@ -986,24 +986,24 @@ Taste a Yetzirah fruit.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 (Leader)
 As spring approaches, the sun thaws the frozen earth. The hillsides redden as the flowers appear. We add a splash of red to our white juice. 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 (Together recite the bracha over juice/wine.)
 
@@ -1023,12 +1023,12 @@ Enjoy the fruits of Yetzirah and reflect on your experiences of Water.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <h3>Air 
 
@@ -1038,12 +1038,12 @@ Creation</h3>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 (Leader)
 
@@ -1061,12 +1061,12 @@ the breath of life, the weather.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Now the earth was tohu v’ vohu, 
 desolate and waste, 
@@ -1077,12 +1077,12 @@ over the face of the waters.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Then YHWH God formed the human 
 of the dust of the earth, 
@@ -1092,12 +1092,12 @@ and the human being became a living soul.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 I asked myself how this ‘unpronounceable name’ could have been pronounced—and out from my throat came 
 
@@ -1112,12 +1112,12 @@ The breath of life. . . of course, that is Its name!
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 In Arabic, the wind is ‘ruh,’ but the same word also means ‘breath’ and ‘spirit,’while in Hebrew, ‘ruach’ includes concepts of creation and divinity.  And the Greek ‘pneuma,’ or the Latin ‘animus’ are redolent, not just of air, but of the very stuff of the soul. 
 
@@ -1131,12 +1131,12 @@ We are the fruits of the wind—and have been seeded, irrigated and cultivated b
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 First, there is the power of the Wind, 
 constantly exerted over the globe.... 
@@ -1151,12 +1151,12 @@ to our indefatigable and energetic servant!
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Here on earth too, God lives 
 Not in Heaven alone. 
@@ -1175,12 +1175,12 @@ God’s name forever.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 God . . is the ultimate Environment which surrounds and encompasses humanity. . . In the Koran, God is said to be the All-encompassing/Muhit. . .Muhit also means Environment. 
 Humans are immersed in the Divine Muhit and are not aware of it because of their own forgetfulness—the underlying sin of the soul. 
@@ -1189,24 +1189,24 @@ The environmental crisis may. . .be caused by the human refusal to see God as th
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 For the last ten thousand years. . the temperature has barely budged; it’s swung in a narrow range, from 58 to 60 degrees F. That’s warm enough that the ice sheets retreated from the centers of our continents so we could grow grain, but cold enough that mountain glaciers provided drinking and irrigation water to those plains; it was the ‘correct’ temperature for our marvelously diverse planet. . . 
 -Bill McKibbin, Eaarth 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Sixteen of the warmest 17 warmest years ever recorded on earth have occurred since 2001.  In the last 4 decades, the frequency of natural disasters has increased almost three-fold, from about 1,300 events from 1975–1984 to over 3,900 from 2005–2014. 
 
@@ -1215,12 +1215,12 @@ Arctic sea ice is at a near all-time low.  Record floods have occurred from Paki
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 I have seen the earth, 
 and here, it is desolation and waste 
@@ -1238,12 +1238,12 @@ and all the cities are in ruin.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Air 
 
@@ -1253,12 +1253,12 @@ Blessing for Briyah
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 (Read together)
 
@@ -1279,12 +1279,12 @@ and upon us.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 (Together recite the bracha over fruit.)
 
@@ -1302,12 +1302,12 @@ Taste one of the briyah fruits.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 (Leader)
 In summer, when vegetables and fruits are abundant, 
@@ -1316,12 +1316,12 @@ We drink red juice/wine with a dash of white.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 (Together recite the bracha over wine.)
 
@@ -1341,12 +1341,12 @@ Enjoy the fruits and wine of Briyah and reflect on your experiences of Air.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <h3>Fire 
 
@@ -1356,12 +1356,12 @@ Emanation</h3>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Atzilut is the world of pure spirit, 
 of intimacy with the divine—of oneness.  
@@ -1382,12 +1382,12 @@ and sustain you for a life of good work?
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And the angel of the Lord appeared unto him 
 in a flame of fire, out of the midst of a bush, 
@@ -1398,12 +1398,12 @@ and the bush was not consumed.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 There is in biology a formula called 
 ‘the equation of burning.’ 
@@ -1424,12 +1424,12 @@ a living connection between heaven and earth.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 I have never understood why the mystics of all creeds 
 experience the presence of God on mountaintops. 
@@ -1445,12 +1445,12 @@ lightning, blind power, impartial as the atmosphere.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 The sun also rises and the sun goes down 
 And hastens to the place from whence it arose. 
@@ -1467,12 +1467,12 @@ there they return again.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Even after 
 all this time 
@@ -1487,12 +1487,12 @@ It lights the whole sky.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Thirty percent more solar was installed in 2014 than in 2013 in the US. As of 2014, Iowa gets 28 percent of its electricity from wind alone, not because someone in that conservative state declared death to all fossil fuel corporations, or overthrew anyone or anything, but because it was a sensible and affordable option.  
 
@@ -1503,36 +1503,36 @@ Among the EU, the highest share of renewables in gross energy consumption in 201
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Clean energy now is cheaper than coal and gas in most parts of the country and it creates more jobs than fossil fuels— 
 -Michael Brune, Sierra Club director 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Not everything that is faced can be changed, but nothing can not be changed if it is not faced. 
 -James Baldwin 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Hope is the thing with feathers 
 That perches in the soul. 
@@ -1540,24 +1540,24 @@ That perches in the soul.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 My father [author and farmer Wendell Berry] says that hope is a virtue.  To have it, we must work at it. 
 -Mary Berry 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Hope is an embrace of the unknown and the unknowable, an alternative to the certainty of both optimists and pessimists.  Optimists think it will all be fine without our involvement; pessimists take the opposite position. Both excuse themselves from acting.  
 
@@ -1573,12 +1573,12 @@ after they were gone.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Today like every other day, 
 we wake up empty and frightened. 
@@ -1593,12 +1593,12 @@ to kneel and kiss the ground.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Fire 
 
@@ -1608,12 +1608,12 @@ Blessing for Atzilut
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 (Leader)
 
@@ -1630,12 +1630,12 @@ The final cup of wine is full strength red.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 (Together recite the bracha over wine.)
 

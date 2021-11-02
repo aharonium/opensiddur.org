@@ -7,10 +7,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew (source)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 תְּפִלַּ֤ת הָעֲמִידָה֙ לִיְמ֣וֹת הַחֹ֔ל‎
 
@@ -19,13 +19,13 @@ For attribution and license, please consult the following URL: <a href="http://o
 נֶעֱרֶ֨כֶת֙ וּמֻ֣טְעֶ֔מֶת עַל־יְדֵ֕י יִצְחָ֧ק הָרְאֵ֛ל בֶּן־אַבְרָהָ֥ם מֵאִ֖יר הַכֹּהֵֽן׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <hr />
 
@@ -42,40 +42,40 @@ For attribution and license, please consult the following URL: <a href="http://o
 לְעֵילָ֣א ׀ מִן־כׇּ֣ל בִּרְכָתָ֣א וְשִׁירָתָא֩ תֻּשְׁבְּחָתָ֨א וְנֶחָמָתָ֝א דַאֲמִירָ֥ן בְּעָלְמָ֛א וְאִמְר֖וּ אָמֵֽן׃	 <span class="instruction">הקהל אומרים –</span> אָמֵֽן
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <hr />
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <hr />
 </td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֲ֭דֹנָי שְׂפָתַ֣י תִּפְתָּ֑ח וּ֝פִ֗י יַגִּ֥יד תְּהִלָּתֶֽךָ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 O Lord, open thou my lips, that my mouth may declare thy praise.[foot]Psalms 51:17[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 בָּר֨וּךְ אַתָּ֤ה יהוה֙ אֱלֹהֵ֨ינוּ֙ וֵאלֹהֵ֣י אֲבוֹתֵ֔ינוּ אֱלֹהֵ֧י אַבְרָהָ֛ם אֱלֹהֵ֥י יִצְחָ֖ק וֵאלֹהֵ֣י יַעֲקֹ֑ב אֱלֹהֵ֨י שָׂרָ֜ה אֱלֹהֵ֣י רִבְקָ֗ה אֱלֹהֵ֞י רָחֵ֣ל וּבִלְהָ֗ה וֵאלֹהֵי֙ לֵאָ֣ה וְזִלְפָּ֔ה הָאֵ֨ל הַגָּדֹ֤ול הַגִּבֹּור֙ וְהַנּוֹרָ֔א אֵ֣ל עֶלְ֔יוֹן גּוֹמֵל֩ חֲסָדִ֨ים טוֹבִ֜ים וְקוֹנֵ֣ה הַכֹּ֗ל וְזוֹכֵר֙ חַסְדֵ֣י אָב֔וֹת וּמֵבִ֤יא גוֹאֵל֙ לִבְנֵ֣י בְנֵיהֶ֔ם לְמַ֥עַן שְׁמ֖וֹ בְּאַהֲבָֽה׃
 מֶ֥לֶךְ עוֹזֵ֖ר וּמוֹשִׁ֣יעַ וּמָגֵ֑ן 
 בָּרוּךְ֙ אַתָּ֣ה יהו֔ה מָגֵ֖ן אַבְרָהָֽם׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Blessed art thou, Lord our God and God of our fathers, God of Abraham, God of Isaac and God of Jacob; God of Sarah; God of Rivqah; God of Raḥel & Bilhah and God of Le'ah and Zilpah;  great, mighty and revered God, sublime God, who bestowest lovingkindness, and art Master of all things; who rememberest the good deeds of our fathers, and who wilt graciously bring a redeemer to their children’s children for the sake of thy name. 
 O King, Supporter, Savior and Shield. 
@@ -83,7 +83,7 @@ Blessed art thou, O Lord, Shield of Abraham.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אַתָּ֨ה גִּבּ֤וֹר לְעוֹלָם֙ אֲדֹנָ֔י מְחַיֵּ֧ה מֵתִ֣ים אַתָּ֗ה רַ֨ב לְהוֹשִׁ֜יעַ
 
@@ -95,7 +95,7 @@ Blessed art thou, O Lord, Shield of Abraham.
 בָּרוּךְ֙ אַתָּ֣ה יהו֔ה מְחַיֵּ֖ה הַמֵּתִֽים׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Thou, O Lord, art mighty forever; thou revivest the dead; thou art powerful to save. 
 
@@ -108,7 +108,7 @@ Blessed art thou, O Lord, who revivest the dead.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אַתָּ֥ה קָד֖וֹשׁ וְשִׁמְךָ֣ קָד֑וֹשׁ וּקְדוֹשִׁים֙ בְּכׇל־י֔וֹם יְהַלְל֖וּךָ סֶּֽלָה׃
 
@@ -126,7 +126,7 @@ Blessed art thou, O Lord, who revivest the dead.
 בָּרוּךְ֙ אַתָּ֣ה יהו֔ה הָאֵ֖ל הַקָּדוֹשׁ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Thou art holy and thy name is holy, and holy beings praise thee daily. <em>Selah</em>!
 
@@ -146,7 +146,7 @@ Blessed art thou, O Lord, holy God.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אַתָּ֤ה חוֹנֵן֙ לְאָדָ֣ם דַּ֔עַת וּמְלַמֵּ֖ד לֶאֱנ֣וֹשׁ בִּינָ֑ה
 
@@ -156,7 +156,7 @@ Blessed art thou, O Lord, holy God.
 בָּרוּךְ֙ אַתָּ֣ה יהו֔ה חוֹנֵ֖ן הַדָּֽעַת׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Thou favorest man with knowledge, and teachest mortals understanding. 
 
@@ -167,46 +167,46 @@ Blessed art thou, O Lord, gracious Giver of knowledge.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הֲשִׁיבֵ֤נוּ אָבִ֨ינוּ֙ לְת֣וֹרָתֶ֔ךָ וְקׇרְבֵ֕נוּ מַלְכֵּ֖נוּ לַעֲבוֹדָ֑תֶךָ וְהַחֲזִירֵ֛נוּ בִתְשׁוּבָ֥ה שְׁלֵמָ֖ה לְפָנֶֽיךָ׃ 
 בָּרוּךְ֙ אַתָּ֣ה יהו֔ה הָרוֹצֶ֖ה בִתְשׁוּבָֽה׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Restore us, our Father, to thy Torah; draw us near, our King, to thy service; cause us to return to thee in perfect repentance. 
 Blessed art thou, O Lord, who art pleased with repentance. 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 סְלַ֨ח לָ֤נוּ אָבִ֨ינוּ֙ כִּ֣י חָטָ֔אנוּ מְחַֽל־לָ֥נוּ מַלְכֵּ֖נוּ כִּ֣י פָשַׁעְ֑נוּ כִּ֛י מוֹחֵ֥ל וְסוֹלֵ֖חַ אָֽתָּה׃ 
 בָּרוּךְ֙ אַתָּ֣ה יהו֔ה חַנּ֥וּן הַמַּרְבֶּ֖ה לִסְלֹֽחַ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Forgive us, our Father, for we have sinned; pardon us, our King, for we have transgressed; for thou dost pardon and forgive. 
 Blessed art thou, O Lord, who art gracious and ever forgiving. 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 רְאֵ֨ה־נָ֨א בְעׇנְיֵ֜נוּ וְרִיבָ֣ה רִיבֵ֗נוּ וּגְאָלֵ֕נוּ מְהֵרָ֖ה לְמַ֣עַן שְׁמֶ֑ךָ כִּ֛י גוֹאֵ֥ל חָזָ֖ק אָֽתָּה׃
 בָּרוּךְ֙ אַתָּ֣ה יהו֔ה גּוֹאֵ֖ל יִשְׂרָאֵֽל׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Look upon our affliction and champion our cause; redeem us speedily for thy name’s sake, for thou art a mighty Redeemer. 
 Blessed art thou, O Lord, Redeemer of Israel. 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 רְפָאֵ֤נוּ יהוה֙ וְנֵ֣רָפֵ֔א ה֤וֹשִׁיעֵ֨נוּ֙ וְנִ֣וָּשֵׁ֔עָה כִּ֥י תְהִלָּתֵ֖נוּ אָ֑תָּה וְהַעֲלֵ֕ה רְפוּאָ֥ה שְׁלֵמָ֖ה לְכׇל־מַכּוֹתֵֽינוּ׃
 
@@ -218,7 +218,7 @@ Blessed art thou, O Lord, Redeemer of Israel.
 בָּרוּךְ֙ אַתָּ֣ה יהו֔ה רוֹפֵ֥א חוֹלֵ֖י עַמּ֥וֹ יִשְׂרָאֵֽל׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Heal us, O Lord, and we shall be healed; save us and we shall be saved; for thou art our praise. Grant a perfect healing to all our wounds; 
 
@@ -230,7 +230,7 @@ Blessed art thou, O Lord, who healest the sick among thy people Israel.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 בָּרֵ֣ךְ עָלֵינוּ֩ יהו֨ה אֱלֹהֵ֜ינוּ אֶת־הַשָּׁנָ֤ה הַזֹּאת֙ וְאֶת־כׇּל־מִינֵ֣י תְבוּאָתָ֔הּ לְטוֹבָ֗ה וְתֵן֙
 
@@ -241,7 +241,7 @@ Blessed art thou, O Lord, who healest the sick among thy people Israel.
 בָּרוּךְ֙ אַתָּ֣ה יהו֔ה מְבָרֵ֖ךְ הַשָּׁנִֽים׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Bless for us, Lord our God, this year and all kinds of its produce for the best. 
 
@@ -253,41 +253,41 @@ Blessed art thou, O Lord, who blessest the years.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 תְּקַ֣ע ׀ בְּשׁוֹפָ֣ר ׀ גָּד֣וֹל לְחֵרוּתֵ֡נוּ וְשָׂ֣א נֵס֩ לְקַבֵּ֨ץ גָּלֻיּוֹתֵ֜ינוּ וְקַבְּצֵ֧נוּ יַ֛חַד מֵאַרְבַּ֥ע כַּנְפ֖וֹת הָאָֽרֶץ׃ 
 בָּרוּךְ֙ אַתָּ֣ה יהו֔ה מְקַבֵּ֛ץ נִדְחֵ֥י עַמּ֖וֹ יִשְׂרָאֵֽל׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Sound the great Shofar for our freedom; lift up the banner to bring our exiles together, and assemble us from the four corners of the earth. 
 Blessed art thou, O Lord, who gatherest the dispersed of thy people Israel. 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הָשִׁ֤יבָה שׁוֹפְטֵ֨ינוּ֙ כְּבָ֣רִאשׁוֹנָ֔ה וְיוֹעֲצֵ֖ינוּ כְּבַתְּחִלָּ֑ה 
 וְהָסֵ֨ר מִמֶּ֜נּוּ יָג֣וֹן וַאֲנָחָ֗ה וּמְלֹ֤ךְ עָלֵ֨ינוּ֙ אַתָּ֤ה יהוה֙ לְבַדְּךָ֔ בְּחֶ֥סֶד וּבְרַחֲמִ֖ים וְצַדְּקֵ֥נוּ בַּמִשְׁפָּֽט׃ 
 בָּרוּךְ֙ אַתָּ֣ה יהו֔ה מֶ֥לֶךְ אוֹהֵ֖ב צְדָקָ֥ה וּמִשְׁפָּֽט׃ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Restore our judges as at first, and our counselors as at the beginning; remove from us sorrow and sighing; reign thou alone over us O Lord, in kindness and mercy, and clear us in judgment.
 Blessed art thou, O Lord, King who lovest righteousness and justice. 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְלַמַּלְשִׁינִ֣ים אַל־תְּהִ֣י תִקְוָ֗ה וְכׇל–הָרִשְׁעָה֙ כְּרֶ֣גַע תֹּאבֵ֔ד וְכׇל־אֹיְבֵ֥י עַמְּךָ֖ מְהֵרָ֣ה יִכָּרֵ֑תוּ 
 וְהַזֵּדִים֙ מְהֵרָ֔ה תְעַקֵּ֣ר וּתְשַׁבֵּ֔ר וּתְמַגֵּ֣ר וְתַכְנִ֔יעַ בִּמְהֵרָ֖ה בְיָמֵֽינוּ׃ 
 בָּרוּךְ֙ אַתָּ֣ה יהו֔ה שׁוֹבֵ֥ר אוֹיְבִ֖ים וּמַכְנִ֣יעַ זֵדִֽים׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 May the slanderers have no hope; may all wickedness perish instantly; may all thy enemies be soon cut down. 
 Do thou speedily uproot and crush the arrogant; cast them down and humble them speedily in our days. 
@@ -295,14 +295,14 @@ Blessed art thou, O Lord, who breakest the enemies and humblest the arrogant.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 עַל־הַצַּדִּיקִ֣ים וְעַל־הַחֲסִידִ֣ים וְעַל־זִקְנֵ֣י עַמְּךָ֣ בֵית־יִשְׂרָאֵ֡ל וְעַ֣ל פְּלֵיטַ֣ת סוֺפְרֵ֩יהֶם֩ וְעַל־גֵּרֵ֨י הַצֶּ֜דֶק וְעָלֵ֗ינוּ יֶהֱמ֣וּ נָ֣א רַחֲמֶ֘יךָ֮ יהו֣ה אֱלֹהֵ֒ינוּ֒ וְתֵ֨ן שָׂכָ֧ר ט֛וֹב לְכׇל־הַבּוֹטְחִ֖ים בְּשִׁמְךָ֣ בֶאֱמֶ֑ת 
 וְשִׂ֤ים חֶלְקֵ֨נוּ֙ עִמָּהֶ֔ם וּלְעוֹלָם֙ לֹ֣א נֵב֔וֹשׁ כִּ֥י בְךָ֖ בָטַֽחְנוּ׃ 
 בָּרוּךְ֙ אַתָּ֣ה יהו֔ה מִשְׁעָ֥ן וּמִבְטָ֖ח לַצַּדִּיקִֽים׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 May thy compassion, Lord our God, be aroused over the righteous and over the godly; over the leaders of thy people, the house of Israel, and over the remnant of their sages; over the true proselytes and over us. 
 Grant a good reward to all who truly trust in thy name, and place our lot among them; may we never come to shame, for in thee we trust. 
@@ -310,14 +310,14 @@ Blessed art thou, O Lord, who art the stay and trust of the righteous.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְלִיר֨וּשָׁלַ֜יִם עִירְךָ֗ בְּרַחֲמִ֤ים תָּשׁוּב֙ וְתִשְׁכּ֣וֹן בְּתוֹכָ֔הּ כַּאֲשֶׁ֖ר דִּבַּ֑רְתָּ 
 וּבְנֵ֨ה אוֹתָהּ֜ בְּקָר֤וֹב בְּיָמֵ֨ינוּ֙ בִּנְיָ֣ן עוֹלָ֔ם וְכִסֵּא֙ דָוִ֣ד עַבְדְּךָ֔ מְהֵרָ֖ה לְתוֹכָ֥הּ תָּכִֽין׃ 
 בָּרוּךְ֙ אַתָּ֣ה יהו֔ה בּוֹנֵ֖ה יְרוּשָׁלָֽיִם׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Return in mercy to thy city Jerusalem and dwell in it, as thou hast promised; 
 rebuild it soon, in our days, as an everlasting structure, and speedily establish in it the throne of David. 
@@ -325,14 +325,14 @@ Blessed art thou, O Lord, Builder of Jerusalem.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֶ֣ת צֶמַח֩ דָּוִ֨ד עַבְדְּךָ֜ מְהֵרָ֣ה תַצְמִ֗יחַ וְקַרְנ֖וֹ תָר֣וּם בִּישׁוּעָ֑תֶךָ 
 כִּ֣י לִישׁוּעָתְךָ֔ קִוִּ֖ינוּ כׇּל־הַיּֽוֹם׃ 
 בָּרוּךְ֙ אַתָּ֣ה יהו֔ה מַצְמִ֥יחַ קֶ֖רֶן יְשׁוּעָֽה׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Speedily cause the offspring of thy servant David to flourish, and let his glory be exalted by thy help, 
 for we hope for thy deliverance all day. 
@@ -340,7 +340,7 @@ Blessed art thou, O Lord, who causest salvation to flourish.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 שְׁמַ֣ע קוֹלֵ֘נוּ֮ יהו֣ה אֱלֹהֵ֒ינוּ֒ ח֤וּס וְרַחֵם֙ עָלֵ֔ינוּ וְקַבֵּל֩ בְּרַחֲמִ֨ים וּבְרָצ֜וֹן אֶת־תְּפִלָּתֵ֗נוּ 
 כִּ֚י אֵ֣ל שׁוֹמֵ֔עַ תְּפִלּ֥וֹת וְתַחֲנוּנִ֖ים אָ֑תָּה 
@@ -349,7 +349,7 @@ Blessed art thou, O Lord, who causest salvation to flourish.
 בָּרוּךְ֙ אַתָּ֣ה יהו֔ה שׁוֹמֵ֖עַ תְּפִלָּֽה׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Hear our voice, Lord our God; spare us and have pity on us; accept our prayer in mercy and favor, 
 for thou art God who hearest prayers and supplications; 
@@ -359,7 +359,7 @@ Blessed art thou, O Lord, who hearest prayer.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 רְצֵ֣ה ׀ יהו֣ה אֱ֠לֹהֵ֠ינוּ בְּעַמְּךָ֨ יִשְׂרָאֵ֜ל וּבִתְפִלָּתָ֗ם וְהָשֵׁ֤ב אֶת־הָעֲבוֹדָה֙ לִדְבִ֣יר בֵּיתֶ֔ךָ וְאִשֵּׁ֣י יִשְׂרָאֵ֔ל וּתְפִלָּתָ֛ם בְּאַהֲבָ֖ה תְּקַבֵּ֣ל בְּרָצ֑וֹן 
 וּתְהִ֤י לְרָצוֹן֙ תָּמִ֔יד עֲבוֹדַ֥ת יִשְׂרָאֵ֖ל עַמֶּֽךָ׃
@@ -367,7 +367,7 @@ Blessed art thou, O Lord, who hearest prayer.
 בָּרוּךְ֙ אַתָּ֣ה יהו֔ה הַמַּחֲזִ֥יר שְׁכִינָת֖וֹ לְצִיּֽוֹן׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Be pleased, Lord our God, with thy people Israel and with their prayer; restore the worship to thy most holy sanctuary; accept Israel’s offerings and prayer with gracious love. 
 May the worship of thy people Israel be ever pleasing to thee. 
@@ -376,7 +376,7 @@ Blessed art thou, O Lord, who restorest thy divine presence to Zion.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מוֹדִ֣ים ׀ אֲנַ֣חְנוּ לָ֡ךְ שָׁאַ֣תָּה ׀ ה֣וּא ׀ יהו֣ה אֱלֹהֵ֩ינוּ֩ וֵאלֹהֵ֨י אֲבוֹתֵ֜ינוּ לְעוֹלָ֣ם וָעֶ֗ד צ֨וּר חַיֵּ֜ינוּ וּמָגֵ֤ן יִשְׁעֵ֨נוּ֙ אַתָּ֣ה ה֔וּא לְדֹ֣ר וָדֹ֔ר נוֹדֶ֤ה לְּךָ֙ וּנְסַפֵּ֣ר תְּהִלָּתֶ֔ךָ עַ֨ל חַיֵּ֜ינוּ הַמְּסוּרִ֣ים בְּיָדֶ֗יךָ וְעַ֤ל נִשְׁמוֹתֵ֨ינוּ֙ הַפְּקוּד֣וֹת לָ֔ךְ וְעַ֤ל נִסֶּיךָ֙ שֶׁבְּכׇל־י֣וֹם עִמָּ֔נוּ וְעַ֣ל נִפְלְאוֹתֶ֗יךָ שֶׁבְּכׇ֧ל עֵ֛ת עֶ֥רֶב וָבֹ֖קֶר וְצָהֳרָ֑יִם הַטּ֗וֹב כִּ֥י לֹא֙ כָל֣וּ רַחֲמֶ֔יךָ וְהַמְּרַחֵ֕ם כִּ֨י לֹ֧א תַ֣מּוּ חֲסָדֶ֗יךָ מֵעוֹלָ֛ם קִוִּ֖ינוּ לָֽךְ׃
 
@@ -386,7 +386,7 @@ Blessed art thou, O Lord, who restorest thy divine presence to Zion.
 בָּרוּךְ֙ אַתָּ֣ה יהו֔ה הַטּ֧וֹב שִׁמְךָ֛ וּלְךָ֥ נָאֶ֖ה לְהוֹדֽוֹת׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 We ever thank thee, who art the Lord our God and the God of our fathers. Thou art the strength of our life and our saving shield. In every generation we will thank thee and recount thy praise — for our lives which are in thy charge, for our souls which are in thy care, for thy miracles which are daily with us, and for thy continual wonders and favors — evening, morning and noon. Beneficent One, whose mercies never fail, Merciful One, whose kindnesses never cease, thou hast always been our hope. 
 
@@ -397,7 +397,7 @@ Blessed art thou, O Lord, Beneficent One, to whom it is fitting to give thanks.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <span class="instruction">בחזרת הש״ץ של שחרית אומרים:</span>
 
@@ -410,7 +410,7 @@ Blessed art thou, O Lord, Beneficent One, to whom it is fitting to give thanks.
 יִשָּׂ֨א יְהֹוָ֤ה ׀ פָּנָיו֙ אֵלֶ֔יךָ וְיָשֵׂ֥ם לְךָ֖ שָׁלֽוֹם <span class="instruction">הקהל אומרים –</span> כֵּ֥ן יְהִ֖י רָצֽוֹן
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Priestly blessing recited by Reader: 
 
@@ -424,7 +424,7 @@ may the Lord favor you and grant you peace.”[foot]Numbers 6:24-26[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <span class="instruction">בשחרית אומרים –</span> שִׂ֨ים שָׁל֜וֹם טוֹבָ֣ה וּבְרָכָ֗ה חֵ֤ן וָחֶ֨סֶד֙ וְרַ֣חֲמִ֔ים עָלֵ֕ינוּ וְעַ֥ל כׇּל־יִשְׂרָאֵ֖ל עַמֶּ֑ךָ בָּרְכֵ֨נוּ אָבִ֜ינוּ כֻּלָּ֤נוּ כְּאֶחָד֙ בְּא֣וֹר פָּנֶ֔יךָ כִ֚י בְא֣וֹר פָּנֶ֔יךָ נָתַ֣תָּ לָּ֗נוּ יהו֤ה אֱלֹהֵ֨ינוּ֙ תוֹרָ֣ת חָיִּ֔ים וְאַהֲבַ֨ת חֶסֶ֧ד וּצְדָקָ֛ה וּבְרָכָ֥ה וְרָחֲמִ֖ים וְחָיִּ֥ים וְשָׁלֽוֹם ׃
 
@@ -433,7 +433,7 @@ may the Lord favor you and grant you peace.”[foot]Numbers 6:24-26[/foot]
 וְט֣וֹב בְּעֵינֶ֗יךָ לְבָרֵךְ֙ אֶת־עַמְּךָ֣ יִשְׂרָאֵ֔ל בְּכׇל־עֵ֥ת וּבְכׇל־שָׁעָ֖ה בִּשְׁלוֹמֶ֑ךָ בָּרוּךְ֙ אַתָּ֣ה יהו֔ה הַמְבָרֵ֥ךְ אֶת־עַמּוֹ־יִשְׂרָאֵ֖ל בַּשָּׁלֽוֹם׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 For the morning service say: O grant peace, happiness, blessing, grace, kindness and mercy to us and to all Israel thy people. Bless us all alike, our Father, with the light of thy countenance; indeed, by the light of thy countenance thou hast given us, Lord our God, a Torah of life, lovingkindness, charity, blessing, mercy, life and peace. 
 
@@ -443,7 +443,7 @@ May it please thee to bless thy people Israel with peace at all times and hours.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֱלֹהַ֞י נְצֹ֣ר ׀ לְשׁוֹנִ֣י מֵרָ֗ע וּשְׂפָתַי֩ מִדַּבֵּ֨ר מִרְמָ֜ה וְלִמְקַלְלַי֙ נַפְשִׁ֣י תִדֹּ֔ם וְנַפְשִׁ֥י כֶּעָפָ֖ר לַכֹּ֣ל תִּהְיֶ֑ה פְּתַ֤ח לִבִּי֙ בְּתוֹרָתֶ֔ךָ וּבְמִ֤צְווֹתֶ֨יךָ֙ תִּרְדֹּ֣ף נַפְשִׁ֔י וְכׇל־הַחוֹשְׁבִים֙ עָלַ֣י רָעָ֔ה מְהֵרָ֨ה הָפֵ֧ר עֲצָתָ֛ם וְקַלְקֵ֖ל מַחֲשַׁבְתָּֽם׃ 	
 
@@ -456,7 +456,7 @@ May it please thee to bless thy people Israel with peace at all times and hours.
 עֹשֶׂ֥ה שָׁל֖וֹם בִּמְרוֹמָ֑יו הוּא֩ יַעֲשֶׂ֨ה שָׁל֜וֹם עָלֵ֗ינוּ וְעַל֙ כׇּל־יִשְׂרָאֵ֔ל וְעַל֙ כׇּל־יוֹשְׁבֵ֣י תֵבֵ֔ל וְאִמְר֖וּ אָמֵֽן׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 My God, guard my tongue from evil, and my lips from speaking falsehood. May my soul be silent to those who insult me; be my soul lowly to all as the dust. Open my heart to thy Torah, that my soul may follow thy commands. Speedily defeat the counsel of all those who plan evil against me, and upset their design. 
 
@@ -470,29 +470,29 @@ May he who creates peace in his high heavens create peace for us and for all Isr
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 יְהִ֣י ׀ רָצ֣וֹן מִלְּפָנֶ֗יךָ יהו֤ה אֱלֹהֵינוּ֙ וֵאלֹהֵ֣י אֲבוֹתֵ֔ינוּ שֶׁיִבָּנֶ֨ה בֵית־הַמִּקְדָּ֝שׁ בִּמְהֵרָ֣ה בְיָמֵ֗ינוּ וְתַ֥ן חֶלְקֵנוּ בְּתוֹרָתֶ֑ךָ וְשָׁם֙ נַעֲבׇדְךָ֣ בְּיִרְאָ֔ה כִּימֵ֥י עוֹלָ֖ם וּכְשָׁנִ֥ים קַדְמוֹנִיּֽוֹת׃ 
 וְעָֽרְבָה֙ לַֽיהֹוָ֔ה מִנְחַ֥ת יְהוּדָ֖ה וִירֽוּשָׁלִָ֑ם כִּימֵ֣י עוֹלָ֔ם וּכְשָׁנִ֖ים קַדְמֹנִיֹּֽת׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 May it be thy will, Lord our God and God of our fathers, that the Temple be speedily rebuilt in our days, and grant us a share in thy Torah. There we will serve thee with reverence, as in the days of old and as in former years. 
 Then the offering of Judah and Jerusalem will be pleasing to the Lord, as in the days of old and as in former years.[foot]Malachi 3:4.[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <hr />
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <hr />
 </td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 קדיש שלם
 

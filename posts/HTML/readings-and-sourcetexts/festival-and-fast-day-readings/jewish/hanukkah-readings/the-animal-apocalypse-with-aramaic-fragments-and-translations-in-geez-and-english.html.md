@@ -15,7 +15,7 @@ As far as we know,[foot]"According to the former chief editor of the official De
 
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Fragmentary Source (Aramaic)</th><th style="text-align: left;">Translation (Ge'ez)</th><th style="text-align: left;">Secondary Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

@@ -7,10 +7,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה 
 יְיָ אֱלֹהֵֽינוּ 
@@ -29,7 +29,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 הַזָּן אֶת הַכֹּל:
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Blessed are you, 
 YHVH our <em>elo'ah</em>, 
@@ -49,7 +49,7 @@ Sustainer of All.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 נוֹדֶה לְךָ 
 יְיָ אֱלֹהֵֽינוּ 
@@ -62,7 +62,7 @@ Sustainer of All.
 עַל הָאָֽרֶץ וְעַל הַמָּזוֹן׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 We thank you 
 YHVH our <em>elo'ah</em>, 
@@ -76,7 +76,7 @@ for the Earth and for the food.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 רַחֵם יְיָ אֱלֹהֵֽינוּ עָלֵֽינוּ 
 עַל יִשְׂרָאֵל עַמֶּֽךָ 
@@ -89,7 +89,7 @@ for the Earth and for the food.
 אָמֵן:
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Have compassion upon us, YHVH our <em>elo'ah</em>,
 on Yisrael your people, 
@@ -103,7 +103,7 @@ Amen.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה 
 יְיָ אֱלֹהֵֽינוּ 
@@ -119,7 +119,7 @@ Amen.
 יְיָ ׀ יְבָרֵךְ אֶת עַמּוֹ בַשָּׁלוֹם׃ <span class="citation">(תהלים כט:יא)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Blessed are you, 
 YHVH our <em>elo'ah</em>

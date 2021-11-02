@@ -16,7 +16,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 וּבְמוֹשַׁ֥ב לֵ֝צִ֗ים לֹ֣א יָשָֽׁב׃
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad" style="text-align: right;">
 <sup>1</sup>&nbsp;ביינאב׳ינטוראד׳ו איל בﬞארון קי נון אנדה אין קונ‫סיזﬞו די מאלוס‪ .
 ‬אי אין קארירה די פיקאדﬞוריס נון סי‬ ‫פארה. 
@@ -24,20 +24,20 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 <sup>ב</sup>&nbsp;כִּ֤י אִ֥ם בְּתוֹרַ֥ת יְהוָ֗ה חֶ֫פְצ֥וֹ 
 וּֽבְתוֹרָת֥וֹ יֶהְגֶּ֗ה יוֹמָ֥ם וָלָֽיְלָה׃
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad" style="text-align: right;">
 <sup>2</sup>&nbsp;סינו אין לה ליי די ה׳ איסטה סו בﬞילונטאדﬞ‪.‬‬ 
 ‫אי אין סו ליי איסטה מילדאנדו דיאה אי נוגﬞי׃
 </span></div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 <sup>ג</sup>&nbsp;וְֽהָיָ֗ה כְּעֵץ֮ שָׁת֪וּל עַֽל־פַּלְגֵ֫י מָ֥יִם 
 אֲשֶׁ֤ר פִּרְי֨וֹ ׀ יִתֵּ֬ן בְּעִתּ֗וֹ 
@@ -45,7 +45,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 וְכֹ֖ל אֲשֶׁר־יַעֲשֶׂ֣ה יַצְלִֽיחַ׃
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad" style="text-align: right;">
 <sup>3</sup>&nbsp;אי‬ ‫סירה קומו און ארבﬞ‬ול פלאנטאדﬞו אה לאם קוריינטיס די ‫אגואס‪ .‬
 קי דה סו פרוטו אין סו אורה‪ .
@@ -54,33 +54,33 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 <sup>ד</sup>&nbsp;לֹא־כֵ֥ן הָרְשָׁעִ֑ים 
 כִּ֥י אִם־כַּ֝מֹּ֗ץ אֲ&#x200d;ֽשֶׁר־תִּדְּפֶ֥נּוּ רֽוּחַ׃
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad" style="text-align: right;">
 <sup>4</sup>&nbsp;‫נון‬ ‫אנסי לוס מאלוס‪ .‬
 סינו קומו איל טאמו קי לו אימפושﬞה‬ ‫איל בﬞיינטו׃
 </span></div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 <sup>ה</sup>&nbsp;עַל־כֵּ֤ן ׀ לֹא־יָקֻ֣מוּ רְ֭שָׁעִים בַּמִּשְׁפָּ֑ט 
 וְ֝חַטָּאִ֗ים בַּעֲדַ֥ת צַדִּיקִֽים׃
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad" style="text-align: right;">
 <sup>5</sup>&nbsp;פור איסטו נון לי‪בﬞאנטאראן לוס ‫מאלוס אין איל גﬞואסייו. 
 ‬ני לוס פיקאדﬞוריס אין לה קומ‫פאנייה די לוס גﬞוסטוס׃
 </span></div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 <sup>ו</sup>&nbsp;כִּֽי־יוֹדֵ֣עַ יְ֭הוָה דֶּ֣רֶךְ צַדִּיקִ֑ים 
 וְדֶ֖רֶךְ רְשָׁעִ֣ים תֹּאבֵֽד׃

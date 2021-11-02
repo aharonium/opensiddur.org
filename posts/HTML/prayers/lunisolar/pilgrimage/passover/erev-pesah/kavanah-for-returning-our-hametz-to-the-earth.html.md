@@ -15,7 +15,7 @@ Like the dirt of the earth, the ḥamets inside your house becomes what at Burni
 
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Aramaic)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
@@ -34,7 +34,7 @@ Like the dirt of the earth, the ḥamets inside your house becomes what at Burni
 כָׇּל־חֲמִירָא וַחֲמִיעָא דְּאִכָּא בִרְשׁוּתִי (דַּחֲמִתֵּהּ וּ)דְלָא חֲמִתֵּהּ (דְּבַעֲרִתֵּהּ וּ)דְלָא בַעֲרִתֵּהּ לִבְטִיל וְלֶהֱוֵי כְּעַפְרָא דְאַרְעָא׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 All the <em>ḥamets</em> that is in my possession/<em>r’shut</em>, which (I did see or) did not see and which (I did remove or) did not remove, let it be nullified and become like the dirt of the earth/<em>afra d’ar’a</em>.
 </div></td></tr>
 

@@ -23,7 +23,7 @@ The minute comparison of the Aramaic (Neub.) with H.G. (for which that is the di
 
 https://archive.org/download/MegilatTuviyahMetuamIsaacGantwerkMayer2018/Megilat%20Tuviyah%20metu%27am%20%28Isaac%20Gantwerk%20Mayer%202018%29.mp3
 
-<table style="width:100%;margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="width: 100%; margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Adaptation (Hebrew with Niqqud and T'amim)</th><th style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="26%">

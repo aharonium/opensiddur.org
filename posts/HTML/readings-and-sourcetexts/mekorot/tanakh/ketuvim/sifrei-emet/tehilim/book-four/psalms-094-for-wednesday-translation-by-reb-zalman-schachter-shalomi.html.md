@@ -11,11 +11,11 @@ For attribution and license, please consult the following URL: <a href="http://o
 This psalm was the Wednesday song of the Levites in the Holy Temple.
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>א</sup>&nbsp;אֵל־נְקָמ֥וֹת יְהוָ֑ה 
 אֵ֖ל נְקָמ֣וֹת הוֹפִֽיַע׃
@@ -24,7 +24,7 @@ This psalm was the Wednesday song of the Levites in the Holy Temple.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>1</sup>&nbsp;God who settles scores!
 Appear in Divine vengeance!
@@ -35,14 +35,14 @@ As The Judge of the World.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הָשֵׁ֥ב גְּ֝מ֗וּל 
 עַל־גֵּאִֽים׃
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Let the arrogant suffer 
 Your retribution.
@@ -51,7 +51,7 @@ Your retribution.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>ג</sup>&nbsp;עַד־מָתַ֖י 
 רְשָׁעִ֥ים ׀ יְהוָ֑ה 
@@ -63,7 +63,7 @@ Your retribution.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>3</sup>&nbsp;How long yet YHVH 
 will the wicked --
@@ -77,7 +77,7 @@ into greater evil.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>ה</sup>&nbsp;עַמְּךָ֣ יְהוָ֣ה 
 יְדַכְּא֑וּ 
@@ -88,7 +88,7 @@ into greater evil.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>5</sup>&nbsp;YHVH! 
 They oppress Your people.
@@ -101,7 +101,7 @@ They kill orphans!
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>ז</sup>&nbsp;וַ֭יֹּ֣אמְרוּ 
 לֹ֣א יִרְאֶה־יָּ֑הּ 
@@ -118,7 +118,7 @@ They kill orphans!
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>7</sup>&nbsp;Deluded are they, 
 Thinking that Yah cannot see,
@@ -137,7 +137,7 @@ Does She not call them to task?
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הַֽמְלַמֵּ֖ד 
 אָדָ֣ם דָּֽעַת׃
@@ -160,7 +160,7 @@ Does She not call them to task?
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 He, Who teaches people 
 to be aware, Is She not aware?
@@ -185,7 +185,7 @@ Vindicating those of upright heart.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>טז</sup>&nbsp;מִֽי־יָק֣וּם לִ֭י 
 עִם־מְרֵעִ֑ים 
@@ -194,7 +194,7 @@ Vindicating those of upright heart.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>16</sup>&nbsp;Will anyone 
 Stand with me against the wicked?
@@ -205,7 +205,7 @@ Against the bullies?
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>יז</sup>&nbsp;לוּלֵ֣י יְ֭הוָה עֶזְרָ֣תָה לִּ֑י 
 כִּמְעַ֓ט ׀ 
@@ -234,7 +234,7 @@ Against the bullies?
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>17</sup>&nbsp;Had YHVH not helped me,
 I would not have escaped 

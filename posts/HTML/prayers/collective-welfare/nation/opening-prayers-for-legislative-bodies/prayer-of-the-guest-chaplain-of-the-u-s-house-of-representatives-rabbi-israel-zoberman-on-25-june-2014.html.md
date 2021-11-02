@@ -13,15 +13,15 @@ Date of Prayer: 06/25/2014
 
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Our one God of life's blessings 
 who brings us together to be one family, 
@@ -30,12 +30,12 @@ through the divine commandments of loving kindness.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 In this House of Representatives' august Chamber of the most flourishing democracy, 
 we give thanks to the awesome author of an endangered universe 
@@ -47,12 +47,12 @@ and the safeguarding of our precious liberties.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Mindful of living in our uncertain and unsettling world, 
 let us reaffirm 
@@ -65,12 +65,12 @@ of purpose and meaning.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 May blemishes turn into blessings, 
 hatred into love, 
@@ -82,12 +82,12 @@ at last.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אָמֵן׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <em>Amen.</em>
 </div></td></tr>
@@ -102,7 +102,7 @@ Issue: Vol. 160, No. 100 — Daily Edition (June 25, 2014)
 
 Link: <a href="https://chaplain.house.gov/chaplaincy/display_gc.html?id=2128">https://chaplain.house.gov/chaplaincy/display_gc.html?id=2128</a>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.c-span.org/video/standalone/?c4510463/rabbi-israel-zoberman-congregation-beth-chaverim-virginia-beach-va-2014" width="512" height="330"]
+<iframe width=530 height=312 src='https://www.c-span.org/video/standalone/?c4510463/rabbi-israel-zoberman-congregation-beth-chaverim-virginia-beach-va-2014' allowfullscreen='allowfullscreen' frameborder=0></iframe>[su_spacer]
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.congress.gov/113/crec/2014/06/25/CREC-2014-06-25-pt1-PgH5732-4.pdf" width="100%" height="900"]
 </body>

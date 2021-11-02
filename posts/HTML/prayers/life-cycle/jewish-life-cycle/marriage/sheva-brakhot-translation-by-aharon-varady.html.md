@@ -7,11 +7,11 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>א</sup> בָּרוּךְ אַתָּה
  יְיָ אֱלֹהֵֽינוּ 
@@ -19,7 +19,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 בּוֹרֵא פְּרִי הַגָּֽפֶן׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 <sup>1</sup> Blessed are you, 
 YHVH our <em>elo'ah</em>, 
 cosmic majesty, 
@@ -27,14 +27,14 @@ who shapes the fruit of the tree of knowledge.[foot]cf. Rabbi Simeon Singer (189
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+<tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 <sup>ב</sup> בָּרוּךְ אַתָּה
  יְיָ אֱלֹהֵֽינוּ 
 מֶֽלֶךְ הָעוֹלָם 
 שֶׁהַכֹּל בָּרָא לִכְבוֹדוֹ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 <sup>2</sup> Blessed are you, 
 YHVH our <em>elo'ah</em>, 
 cosmic majesty, 
@@ -42,14 +42,14 @@ who creates everything as <em>their</em> glorious signifier![foot]cf. Rabbi Sime
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+<tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 <sup>ג</sup> בָּרוּךְ אַתָּה 
 יְיָ אֱלֹהֵֽינוּ 
 מֶֽלֶךְ הָעוֹלָם  
 יוֹצֵר הָאָדָם׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 <sup>3</sup> Blessed are you, 
 YHVH our <em>elo'ah</em>, 
 cosmic majesty, 
@@ -57,7 +57,7 @@ who fashions our cosmic potential![foot]cf. Rabbi Simeon Singer (1895), "Blessed
     </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+<tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 <sup>ד</sup> בָּרוּךְ אַתָּה 
 יְיָ אֱלֹהֵֽינוּ 
 מֶֽלֶךְ הָעוֹלָם 
@@ -68,7 +68,7 @@ who fashions our cosmic potential![foot]cf. Rabbi Simeon Singer (1895), "Blessed
 יוֹצֵר הָאָדָם׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 <sup>4</sup> Blessed are you,
  YHVH our <em>elo'ah</em>,
  cosmic majesty,
@@ -80,14 +80,14 @@ fashioner of our cosmic potential![foot]cf. Rabbi Simeon Singer (1895), "Blessed
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+<tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 <sup>ה</sup> שׂוֹשׂ תָּשִׂישׂ וְתָגֵל הָעֲקָרָה 
 בְּקִבּוּץ בָּנֶֽיהָ לְתוֹכָהּ בְּשִׂמְחָה. 
 ‏בָּרוּךְ אַתָּה יְיָ 
 מְשַׂמֵּֽחַ צִיּוֹן בְּבָנֶֽיהָ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 <sup>5</sup> May she who was left bereft of her children, 
 now delight as they gather together in joy. 
 Blessed are you YHVH, 
@@ -95,7 +95,7 @@ who delights in <em>Tziyon</em> with her children![foot]cf. Rabbi Simeon Singer 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+<tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 <sup>ו</sup> שַׂמֵּֽחַ תְּשַׂמַּח רֵעִים הָאֲהוּבִים 
 כְּשַׂמֵּחֲךָ יְצִירְךָ 
 בְּגַן עֵֽדֶן 
@@ -104,7 +104,7 @@ who delights in <em>Tziyon</em> with her children![foot]cf. Rabbi Simeon Singer 
 מְשַׂמֵּֽחַ חָתָן וְכַלָּה׃‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 <sup>6</sup> Let these loving friends 
 taste of the bliss you gave to the first man and woman
  in the Garden of Eden
@@ -114,7 +114,7 @@ who delights with bridegroom and bride![foot]cf. Rabbi Simeon Singer (1895), "O 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+<tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 <sup>ז</sup> בָּרוּךְ אַתָּה
  יְיָ אֱלֹהֵֽינוּ 
 מֶֽלֶךְ הָעוֹלָם 
@@ -136,7 +136,7 @@ who delights with bridegroom and bride![foot]cf. Rabbi Simeon Singer (1895), "O 
 מְשַׂמֵּֽחַ חָתָן עִם הַכַּלָּה׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 <sup>7</sup> Blessed are You,
  YHVH our <em>elo'ah</em>,
  cosmic majesty,

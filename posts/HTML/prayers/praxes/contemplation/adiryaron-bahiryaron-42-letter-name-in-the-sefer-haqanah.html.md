@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Acrostic Initials (Hebrew)</th><th style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;"><a href="/contributing/upload/">Contribute a translation</a></th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="16%">
@@ -26,7 +26,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 ועתה שמע ענינם כי אלו אותיות של שם מ"ב כל אות יוצא ממנו מלאך הפועל מכח השם ואלו הן:
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 
 </td></tr>
 
@@ -43,7 +43,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 יִגְבַהְיָה תְּלַמְיָה צְתַנְיָה
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 
 </td></tr>
 
@@ -60,7 +60,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 שְגַנְיָה טְלַטְיָה נְהַרְיָה 
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 
 </td></tr>
 
@@ -77,7 +77,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 יְעַלְיָה כֵסְיָה שִׁגְיוֹנְיָה 
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 
 </td></tr>
 
@@ -94,7 +94,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 צ׳ תְהַנְהִיָה גַלְגַלְיָה 
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 
 </td></tr>
 
@@ -112,7 +112,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 וְהַנְהוְֹיָה וִהַוְ־הוֹיִהְ[foot]This text is unaccounted for in the 42 letter divine name sequence.[/foot]
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 
 </td></tr>
 
@@ -129,7 +129,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 פְקוֹרְקַדְיָה זוֹהָר־זְרַיָה קַוְולֵיָה. 
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 
 </td></tr>
 
@@ -146,7 +146,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 צְעִירְיָה יַהְהַרְיָה תְמֶתְלִיָה.
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 
 </div></td></tr>
 
@@ -162,7 +162,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 בָּרוּךְ שֵׁם כְּבוֹד מַלְכוּתוֹ לְעוֹלָם וָעֶד:‏
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 
 </div></td></tr>
 </tbody></table>

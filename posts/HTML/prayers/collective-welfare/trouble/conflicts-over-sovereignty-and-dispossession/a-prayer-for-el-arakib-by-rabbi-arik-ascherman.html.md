@@ -7,40 +7,40 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 איכה ישבה בדד אל-עראקיב היתה כאלמנה זו הפעם השביעית? ויצא מבת ציון כל הדרה. ייחלנו שמדינתנו "תקיים שויון זכויות חברתי ומדיני גמור לכל אזרחיה, בלי הבדל דת ומין", והנה נכזבה תוחלתנו.‏
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 How is it that El-Arakib sits alone and desolate, like a widow a seventh time?[foot]Based on Lamentations 1:1, ‘How is it that the city sits alone and desolate’[/foot] "The Daughter of Zion has lost her glory."[foot]Lamentations 1:6[/foot] For, while we had dreamed that our state would "Ensure complete equality of social and political rights to all its inhabitants irrespective of religion, race or gender,"[foot]Israeli Declaration of Independence[/foot] our prayers have not yet been fulfilled.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אלוהינו ואלוהי קדמונינו (אבותינו; אבותינו ואמותינו) בקש את הנרדפים/ות, על לא עוול בכפם/ן. עמוד לצד אחינו ואחיותינו, אזרחי/יות המדינה ושותפים/ות לגורלה, שאוהליהם/ן שדדו וכל מיתריהם/ן ניתקו. תחזקנה את ידיהם/ן בעוד חורשי/ות רעה מתכוונים/ות לחרוש בתיהם, לנטוע יערות במקומם, ולהותיר רק את בית העלמין שלהם, עדות לדורות הרבים שחיו במקום. יהי רצון שבקרוב ובימינו נראה יערות רבים בכל הארץ, אבל לא על הריסותיהם של ישובי הבדואים.‏
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Our God and God of our ancestors (God of our fathers; God of our fathers and mothers), side with those who are oppressed, although they have done no wrong.[foot]Based on Midrash Tanḥuma: Emor 9, ‘God sides with the oppressed [the one being pursued]‘[/foot] Stand with our brothers and sisters, fellow citizens and partners in Israel's destiny, whose tents have been ravaged and all their tent cords broken.[foot]Based on Jeremiah 10:20, ‘My tents are ravaged, all my tent cords are broken’[/foot] Strengthen them even as planners of evil prepare to replace their homes with forests, leaving only their cemetery testifying to the generations that once lived in that place. May it be your will that forests will arise in Israel speedily and in our day, but not upon the ruins of Bedouin communities.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 שבת היא מלזעוק, אך עוד לא אבדה תקוותנו למדינה שכן "תהא מושתתת על יסודות החירות, הצדק והשלום לאור חזונם של נביאי ישראל". חזק את רוחנו למען לא נחשה, כדי שחזון נביאך יוגשם, "יִקָּרֵא לָךְ עִיר הַצֶּדֶק קִרְיָה נֶאֱמָנָה. צִיּוֹן בְּמִשְׁפָּט תִּפָּדֶה וְשָׁבֶיהָ בִּצְדָקָה".‏
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 "Shabbat is not a time for lamentation,"[foot]Talmud Bavli, Shabbat 12a[/foot] and "Our hope is not yet lost"[foot]From "Hatikva," the National Anthem of Israel[/foot] for a country that is based on "Freedom, justice and peace as envisaged by the prophets of Israel."[foot]Israeli Declaration of Independence[/foot] Sustain our determination not to remain silent,[foot]Based on Isaiah 62:1, ‘For the sake of Zion I will not be silent’[/foot] so that we may help bring about the vision of Your prophet, "You shall be called 'City of Righteousness, Faithful City.' Zion shall be redeemed through justice, her repentant ones by righteousness."[foot]Isaiah 1:27[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וִיהִ֤י׀ נֹ֤עַם אֲדֹנָ֥י אֱלֹהֵ֗ינוּ עָ֫לֵ֥ינוּ
  וּמַעֲשֵׂ֣ה יָ֭דֵינוּ כּוֹנְנָ֥ה עָלֵ֑ינוּ
@@ -48,7 +48,7 @@ Our God and God of our ancestors (God of our fathers; God of our fathers and mot
  (תהלים צ׃יז)‏
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 May the favor of Adonai, our God, be upon us;
 Let the work of our hands prosper
 O prosper the work of our hands. 

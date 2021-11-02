@@ -12,7 +12,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <div class="english" lang="en">
 <em>Autor ninguno se halla, que declare el tiempo en que David compuso este Psalmo; ni la causa de haverlo introduzido por primero: mas amiver, es, que conociendo David que la razon de haver Dios rebotado de su gracia a Saul, y haverlo elegido ael en su lugar, havia sido por transgredir su mandado en la guerra de Ha-malek, por las persuasiones, y consejos de los inicos de su pueblo; como el mismo confessó al Propheta Semuel: por esso, quiso David dar'principio àsu Libro, con un loor que sirviesse de dotrina, y de advertimiento dela felicidad que alcançan los fieles siervos de Dios, que andan con toda integridad en sus carreras de virtud, y las adversdades, y castigo que estáparalos infieles, y los inicos aparejado, por los justos juyzios de Dios, del modo que sucedió a Saul, que fue desposseido de su Reyno, el, y sus hijos, y todos sus defendientes parasiempre, por los consejos de que el, se dexó persuadir, donde Dios le declaró su castigo.</em></div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (Spanish)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

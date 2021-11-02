@@ -7,11 +7,11 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מִי שֶׁבֵּרַךְ אֲבוֹתֵינוּ אַבְרָהָם יִצְחָק וְיַעֲקֹב 
 הוּא יְבָרֵךְ אֶת חַיָּלֵי צְבָא הֲגַנָּה לְיִשְׂרָאֵל, 
@@ -21,7 +21,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 בַּיַּבָּשָׁה בָּאֲוִיר וּבַיָּם. 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 May God, who blessed our forefathers Abraham, Isaac and Jacob, 
 bless the soldiers of the Israel Defense Forces, 
 who stand guard over our land and the cities of our God, 
@@ -31,33 +31,33 @@ on land, in the air, and on the sea.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 יִתֵּן ה׳ אֶת אוֹיְבֵינוּ הַקָּמִים עָלֵינוּ 
 נִגָּפִים לִפְנֵיהֶם. 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 May the Lord cause the enemies who rise up against us 
 to be struck down before them.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הַקָּדוֹשׁ בָּרוּךְ הוּא יִשְׁמֹר וְיַצִּיל אֶת חַיָלֵינוּ 
 מִכָּל צָרָה וְצוּקָה וּמִכָּל נֶגַע וּמַחְלָה 
 וְיִשְׁלַח בְּרָכָה וְהַצְלָחָה בְּכָל מַעֲשֵׂה יְדֵיהֶם.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 May the blessed Holy One preserve and rescue our soldiers 
 from every trouble and distress and from every plague and illness, 
 and may God send blessing and success in their every endeavor.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he" style="color:green;">
+<tr><td style="vertical-align:top;"><div class="liturgy" lang="he" style="color:green;">
 יִתֵּן ה׳ לְחַיָלֵינוּ חָכְמָה, בִּינָה וְדַעַת, 
 שְׁלֹא יִסְפּוּ צָדִיק עִם רָשָׁע, 
 כְּמוֹ שְׁכָתוּב בְּתוֹרָתֶךָ, 
@@ -66,7 +66,7 @@ and may God send blessing and success in their every endeavor.
 חָלִלָה לָּךְ -- הֲשֹׁפֵט כָּל־הָאָרֶץ לֹא יַעֲשֶׂה מִשְׁפָּט.“‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en" style="color:green;">
+<td style="vertical-align:top;"><div class="english" lang="en" style="color:green;">
 May the Lord give our soldiers wisdom, understanding, and insight, 
 so that they do not destroy the righteous with the wicked, 
 as it is written in Your Torah: 
@@ -76,7 +76,7 @@ Far be it from you – should the Judge of all the Earth not do justice?</em>”
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+<tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 יַדְבֵּר שׂונְאֵינוּ תַּחְתֵּיהֶם 
 וִיעַטְרֵם בְּכֶתֶר יְשׁוּעָה וּבְעֲטֶרֶת נִצָּחוֹן. 
 וִיקֻיַּם בָּהֶם הַכָּתוּב: 
@@ -86,7 +86,7 @@ Far be it from you – should the Judge of all the Earth not do justice?</em>”
 וְנֹאמַר אָמֵן:‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 May God cause our enemies to submit before our soldiers, 
 and may God grant them salvation and crown them with victory. 
 And may there be fulfilled for them the verse: 

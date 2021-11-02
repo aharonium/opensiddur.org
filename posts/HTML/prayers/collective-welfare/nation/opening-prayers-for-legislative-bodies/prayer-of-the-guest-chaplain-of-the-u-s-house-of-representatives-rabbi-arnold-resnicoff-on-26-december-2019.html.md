@@ -19,25 +19,25 @@ Date of Prayer: 2019-12-26
 
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <h3>Opening Prayer Given by the Guest Chaplain:</h3>
 </div></td></tr>
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Almighty God,
 we pray, reflect, meditate in different ways, 
@@ -51,12 +51,12 @@ that make our nation rich.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Yet we Americans, 
 we the people, 
@@ -66,12 +66,12 @@ our lives become its songs.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Of America, we sing:
 “O beautiful for patriot dream 
@@ -85,12 +85,12 @@ And mercy more than life.”[foot]<a href="https://opensiddur.org/prayers/secula
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 God bless our lives, 
 our leaders, 
@@ -109,12 +109,12 @@ for the greater good.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 God bless America, we sing.[foot]Cf. "<a href="https://opensiddur.org/prayers/collective-welfare/government/the-diaspora/god-bless-america-by-irving-berlin/">God Bless America</a>" for Armistice Day, by Irving Berlin (1918/1938).[/foot]&nbsp;
 Help us, we pray, 
@@ -124,13 +124,13 @@ and that song.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְנֹאמַר 
 אָמֵן׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And let us say, 
 <em>Amen.</em>
@@ -146,7 +146,7 @@ Issue: Vol. 165, No. 208 — Daily Edition (December 26, 2019)
 <!--
 link: <a href=""></a>
 -->
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.c-span.org/video/standalone/?c4841933/user-clip-rabbi-arnold-resnicoff-navy-chaplain-house-prayer-dec-26-2019" width="512" height="330"]
+<iframe width=530 height=312 src='https://www.c-span.org/video/standalone/?c4841933/user-clip-rabbi-arnold-resnicoff-navy-chaplain-house-prayer-dec-26-2019' allowfullscreen='allowfullscreen' frameborder=0></iframe>[su_spacer]
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.congress.gov/116/crec/2019/12/26/CREC-2019-12-26-pt1-PgH12299-4.pdf" width="100%" height="900"]
 

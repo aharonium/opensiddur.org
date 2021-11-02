@@ -11,11 +11,11 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <a href="https://archive.org/download/megillat-eikhah-with-english-transtropilation-len-fellman-2019/Megillat%20Eikhah%20-%20English%20transtropilation%20%28Len%20Fellman%202020%29.pdf">PDF</a> | <a href="https://archive.org/download/megillat-eikhah-with-english-transtropilation-len-fellman-2019/Megillat%20Eikhah%20-%20English%20transtropilation%20%28Len%20Fellman%202020%29.odt">ODT</a> (stanza view)
 <a href="https://archive.org/download/megillat-eikhah-with-english-transtropilation-len-fellman-2019/Megillat%20Eikhah%20-%20English%20transtropilation%20%28Len%20Fellman%202020%29%20landscape.pdf">PDF</a> | <a href="https://archive.org/download/megillat-eikhah-with-english-transtropilation-len-fellman-2019/Megillat%20Eikhah%20-%20English%20transtropilation%20%28Len%20Fellman%202020%29%20landscape.odt">ODT</a> (landscape view)
-<a href="https://archive.org/download/megillat-eikhah-with-english-transtropilation-len-fellman-2019/Megillat%20Eikhah%20-%20English%20transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.pdf">PDF</a> | <a href="https://archive.org/download/megillat-eikhah-with-english-transtropilation-len-fellman-2019/Megillat%20Eikhah%20-%20English%20transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.odt">ODT</a> (sans Hebrew)
+<a href="https://archive.org/download/megillat-eikhah-with-english-transtropilation-len-fellman-2019/Megillat%20Eikhah%20-%20English%20transtropilation%20%28Len%20Fellman%202019%29%20-%20english%20only.pdf">PDF</a> | <a href="https://archive.org/download/megillat-eikhah-with-english-transtropilation-len-fellman-2019/Megillat%20Eikhah%20-%20English%20transtropilation%20%28Len%20Fellman%202019%29%20-%20english%20only.odt">ODT</a> (sans Hebrew)
 <a href="https://archive.org/download/megillat-eikhah-with-english-transtropilation-len-fellman-2019/Megillat%20Eikhah%20chapter%203%20-%20English%20transtropilation%20%28Len%20Fellman%202020%29.pdf">PDF</a> | <a href="https://archive.org/download/megillat-eikhah-with-english-transtropilation-len-fellman-2019/Megillat%20Eikhah%20chapter%203%20-%20English%20transtropilation%20%28Len%20Fellman%202020%29.odt">ODT</a> (Just chapter 3)
 
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/megillat-eikhah-with-english-transtropilation-len-fellman-2019/Megillat%20Eikhah%20-%20English%20transtropilation%20%28Len%20Fellman%202020%29%20landscape#page/n0/mode/2up"]
+advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/megillat-eikhah-with-english-transtropilation-len-fellman-2019/Megillat%20Eikhah%20-%20English%20transtropilation%20%28Len%20Fellman%202020%29%20landscape#page/n0/mode/2up"
 
 <h3>Recordings</h3>
 
@@ -49,26 +49,26 @@ However, I left these the way they are: telisha katana telisha gedola
 
 I also indicate a mercha/tipcha pair or a kadma/geresh pair by “wrapping it around” the phrase which will have the combined melody, as in: Renew our days She weeps bitterly
 
-I also frequently indicate an entire English phrase to be chanted to a single <em>trōp</em> melody, as in: [clings to her skirts]
+I also frequently indicate an entire English phrase to be chanted to a single <em>trōp</em> melody, as in: clings to her skirts
 
 Chapter 3 of Lamentations is sung by singing each set of three verses to three melodies, in turn. I grouped each set of three verses together, as in 1-3, 4-6, etc. The first two of the three melodies end their first half (the “half-cadence”) with a high note, and the third with a “falling tone”. I have marked the corresponding syllable with an arrow: &#x2197; for the high note or half-cadence of the first melody, &#x2191; for the high note of the second melody, and &#x2198; for the “falling tone” of the third melody.
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
+<thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֵיכָה א
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 CHAPTER 1
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>1</sup> אֵיכָ֣ה ׀ יָשְׁבָ֣ה בָדָ֗ד
 הָעִיר֙ רַבָּ֣תִי עָ֔ם
@@ -78,18 +78,18 @@ CHAPTER 1
 הָיְתָ֖ה לָמַֽס׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>1</sup>&nbsp;How | she sits alone
 the city once full of people.
- [She has become] like a widow,
-the greatest [among the nations],
+ She has become like a widow,
+the greatest among the nations,
 the princess among the provinces.
 She is reduced to slavery.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>2</sup> בָּכ֨וֹ תִבְכֶּ֜ה בַּלַּ֗יְלָה
 וְדִמְעָתָהּ֙ עַ֣ל לֶֽחֱיָ֔הּ
@@ -100,18 +100,18 @@ She is reduced to slavery.
 הָ֥יוּ לָ֖הּ לְאֹיְבִֽים׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>2</sup>&nbsp;She weeps bitterly [in the night].
-Her tears [run down her cheeks].
+<sup>2</sup>&nbsp;She weeps bitterly in the night.
+Her tears run down her cheeks.
 There is none to comfort her 
- [from all her lovers].
-Her companions [have all betrayed her];
+ from all her lovers.
+Her companions have all betrayed her ;
 they have become her enemies.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>3</sup> גָּֽלְתָ֨ה יְהוּדָ֤ה 
 מֵעֹ֙נִי֙ וּמֵרֹ֣ב עֲבֹדָ֔ה
@@ -121,16 +121,16 @@ they have become her enemies.
 בֵּ֥ין הַמְּצָרִֽים׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>3</sup>&nbsp;Judah is exiled in affliction
- [and by hard labor].
-She [sits among]the nations
+ and by hard labor.
+She sits among the nations
 but she finds there no relief.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>4</sup> דַּרְכֵ֨י צִיּ֜וֹן אֲבֵל֗וֹת
 מִבְּלִי֙ בָּאֵ֣י מוֹעֵ֔ד
@@ -140,7 +140,7 @@ but she finds there no relief.
 וְהִ֥יא מַר־לָֽהּ׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>4</sup>&nbsp;The  roads to Zion are mourning
 for want of festival pilgrims.
@@ -151,7 +151,7 @@ she is embittered.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>5</sup> הָי֨וּ צָרֶ֤יהָ לְרֹאשׁ֙ 
 אֹיְבֶ֣יהָ שָׁל֔וּ
@@ -161,20 +161,20 @@ she is embittered.
 לִפְנֵי־צָֽר׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>5</sup>&nbsp;Her oppressors 
 have become her master;  
 her enemies prosper.
 Since God has aggrieved her
 for the greatness of her sins.
- [Her young children]
+ Her young children
 have left her as prisoners
 before the oppressor.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>6</sup> וַיֵּצֵ֥א <font color="brown">מן־בת־</font> מִבַּת־צִיּ֖וֹן 
 כָּל־הֲדָרָ֑הּ
@@ -184,17 +184,17 @@ before the oppressor.
 לִפְנֵ֥י רוֹדֵֽף׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>6</sup>&nbsp;Gone from the daughter of Zion
- [is all her splendor]. Even [her leaders] [have become like deer]
+ is all her splendor. Even her leaders have become like deer
 that find no pasture,
 that flee without strength
 before their pursuer.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>7</sup> זָֽכְרָ֣ה יְרוּשָׁלִַ֗ם
 יְמֵ֤י עָנְיָהּ֙ 
@@ -207,21 +207,21 @@ before their pursuer.
 שָׂחֲק֖וּ עַ֥ל מִשְׁבַּתֶּֽהָ׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>7</sup>&nbsp;Jerusalem remembers
-her days of misery [and her roaming];
-All [of the treasures]
+her days of misery and her roaming ;
+All of the treasures
 that were hers in the days of old
- [when her people]fell 
- [into the hand of the enemy],
-and there was none [to help her].
-The oppressor [did gaze at her]
+ when her people fell 
+ into the hand of the enemy,
+and there was none to help her.
+The oppressor did gaze at her
 and laughed at her downfall.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>8</sup> חֵ֤טְא חָֽטְאָה֙ יְר֣וּשָׁלִַ֔ם
 עַל־כֵּ֖ן לְנִידָ֣ה הָיָ֑תָה
@@ -231,17 +231,17 @@ and laughed at her downfall.
 וַתָּ֥שָׁב אָחֽוֹר׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>8</sup>&nbsp;Jerusalem has sinned very grievously.
-Therefore [she has become]an outcast.
- [All who honored her] [now despise her],
- [for they have seen]her nakedness.
+Therefore she has become an outcast.
+ All who honored her now despise her,
+ for they have seen her nakedness.
 And she herself sighs  and turns away.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>9</sup> טֻמְאָתָ֣הּ בְּשׁוּלֶ֗יהָ
 לֹ֤א זָֽכְרָה֙ אַחֲרִיתָ֔הּ
@@ -251,19 +251,19 @@ And she herself sighs  and turns away.
 כִּ֥י הִגְדִּ֖יל אוֹיֵֽב׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>9</sup>&nbsp;Her uncleanness [clings to her skirts].
+<sup>9</sup>&nbsp;Her uncleanness clings to her skirts.
 She never thought 
- [this would be her end].
-She descended [amazingly low].
-There is no one [to comfort her].
+ this would be her end.
+She descended amazingly low.
+There is no one to comfort her.
 Behold, Adonai, my affliction,
 because the enemy is triumphant.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>10</sup> יָדוֹ֙ פָּ֣רַשׂ צָ֔ר
 עַ֖ל כָּל־מַחֲמַדֶּ֑יהָ
@@ -274,19 +274,19 @@ because the enemy is triumphant.
 בַקָּהָ֖ל לָֽךְ׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>10</sup>&nbsp;The oppressor 
                  has spread out his hand
-over everything [that she treasured].
- [For she saw]the nations
-invade [her holy place],
-whom [You had forbidden]
+over everything that she treasured.
+ For she saw the nations
+invade her holy place,
+whom You had forbidden
 to attend Your assembly.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>11</sup> כָּל־עַמָּ֤הּ נֶאֱנָחִים֙ 
 מְבַקְּשִׁ֣ים לֶ֔חֶם
@@ -296,18 +296,18 @@ to attend Your assembly.
 וְֽהַבִּ֔יטָה כִּ֥י הָיִ֖יתִי זוֹלֵלָֽה׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>11</sup>&nbsp; [All her people]are sighing,
-searching for bread. [They gave up] [their most precious things]
- [in exchange for food], 
+<sup>11</sup>&nbsp; All her people are sighing,
+searching for bread. They gave up their most precious things
+ in exchange for food, 
 to restore their life.
 See, Adonai, and behold,
 for I have become so despised.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>12</sup> ל֣וֹא אֲלֵיכֶם֮ 
 כָּל־עֹ֣בְרֵי דֶרֶךְ֒
@@ -318,19 +318,19 @@ for I have become so despised.
 בְּי֖וֹם חֲר֥וֹן אַפּֽוֹ׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>12</sup>&nbsp;May [it not befall you],
-all you [who pass by]!
+<sup>12</sup>&nbsp;May it not befall you,
+all you who pass by!
 Behold, and see
-if there be pain [like my pain]
+if there be pain like my pain
 which was meted out to me.
- [with which]Adonai [has afflicted me]
-on the day [of His fierce anger].
+ with which Adonai has afflicted me
+on the day of His fierce anger.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>13</sup> מִמָּר֛וֹם שָֽׁלַח־אֵ֥שׁ 
 בְּעַצְמֹתַ֖י וַיִּרְדֶּ֑נָּה
@@ -340,19 +340,19 @@ on the day [of His fierce anger].
 כָּל־הַיּ֖וֹם דָּוָֽה׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>13</sup>&nbsp; [From on high]
+<sup>13</sup>&nbsp; From on high
 he sent a fire into my bones,
- [which overpowered them].
-He spread [a net for my] feet;
- [he hurled me]backwards.
- [He has left me]deserted.
- [All day long] [I endure sickness].
+ which overpowered them.
+He spread a net for my feet;
+ he hurled me backwards.
+ He has left me deserted.
+ All day long I endure sickness.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>14</sup> נִשְׂקַד֩ עֹ֨ל פְּשָׁעַ֜י 
 בְּיָד֗וֹ יִשְׂתָּֽרְג֛וּ
@@ -362,19 +362,19 @@ He spread [a net for my] feet;
 לֹא־אוּכַ֥ל קֽוּם׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>14</sup>&nbsp; [Weighing me down]
+<sup>14</sup>&nbsp; Weighing me down
 is the yoke of my transgressions.
- [By His hand] [they were lashed],
+ By His hand they were lashed,
 and thrust upon my neck;
 It saps my strength.
-The Lord [has given me over]
- [into hands] that I can’t withstand.
+The Lord has given me over
+ into hands that I can’t withstand.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>15</sup> סִלָּ֨ה 
 כָל־אַבִּירַ֤י ׀ אֲדֹנָי֙ בְּקִרְבִּ֔י
@@ -384,18 +384,18 @@ The Lord [has given me over]
 לִבְתוּלַ֖ת בַּת־יְהוּדָֽה׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>15</sup>&nbsp;The Lord has trampled 
-all the warriors [that are in my midst].
- [He has called] [against me]
-an assembly to crush [my young men].
- [As in a press], the Lord has trodden
-fair maiden, [daughter of Judah].
+all the warriors that are in my midst.
+ He has called against me
+an assembly to crush my young men.
+ As in a press, the Lord has trodden
+fair maiden, daughter of Judah.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>16</sup> עַל־אֵ֣לֶּה ׀ אֲנִ֣י בוֹכִיָּ֗ה
 עֵינִ֤י ׀ עֵינִי֙ יֹ֣רְדָה מַּ֔יִם
@@ -405,21 +405,21 @@ fair maiden, [daughter of Judah].
 כִּ֥י גָבַ֖ר אוֹיֵֽב׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>16</sup>&nbsp; [For all of these things] | 
-I [am crying].
+<sup>16</sup>&nbsp; For all of these things | 
+I am crying.
 My eyes––my eyes are flowing in tears,
- [because so far] [from me]
- [is any comforter] 
+ because so far from me
+ is any comforter 
 to restore my soul.
-My children [are in despair]
+My children are in despair
 because the enemy 
 has proved too strong.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>17</sup> פֵּֽרְשָׂ֨ה צִיּ֜וֹן בְּיָדֶ֗יהָ
 אֵ֤ין מְנַחֵם֙ לָ֔הּ
@@ -429,19 +429,19 @@ has proved too strong.
 לְנִדָּ֖ה בֵּינֵיהֶֽם׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>17</sup>&nbsp;Zion stretches out [her hands].
- [There is] [no one] [to comfort her].
-God [has commanded] 
- [concerning Jacob]
- [that his enemies] [should surround him].
-Jerusalem [has become] 
- [a thing unclean]among them.
+<sup>17</sup>&nbsp;Zion stretches out her hands.
+ There is no one to comfort her.
+God has commanded 
+ concerning Jacob
+ that his enemies should surround him.
+Jerusalem has become 
+ a thing unclean among them.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>18</sup> צַדִּ֥יק ה֛וּא יְהוָ֖ה 
 כִּ֣י פִ֣יהוּ מָרִ֑יתִי
@@ -451,18 +451,18 @@ Jerusalem [has become]
 הָלְכ֥וּ בַשֶּֽׁבִי׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>18</sup>&nbsp;Righteous [is He], Adonai,
-for I rebelled [against His word].
-Listen now, [all you peoples],
-and behold [my agony].
+<sup>18</sup>&nbsp;Righteous is He, Adonai,
+for I rebelled against His word.
+Listen now, all you peoples,
+and behold my agony.
 My maidens and young men
 walked into captivity.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>19</sup> קָרָ֤אתִי לַֽמְאַהֲבַי֙ 
 הֵ֣מָּה רִמּ֔וּנִי
@@ -472,18 +472,18 @@ walked into captivity.
 וְיָשִׁ֖יבוּ אֶת־נַפְשָֽׁם׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>19</sup>&nbsp;I called [to my lovers]: 
-they [deceived me].
+<sup>19</sup>&nbsp;I called to my lovers: 
+they deceived me.
 My priests and my elders
- [breathed their last] [inside the city],
- [as they sought]food [for themselves]
- [to restore]their souls.
+ breathed their last inside the city,
+ as they sought food for themselves
+ to restore their souls.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>20</sup> רְאֵ֨ה יְהוָ֤ה כִּֽי־צַר־לִי֙ 
 מֵעַ֣י חֳמַרְמָ֔רוּ
@@ -493,18 +493,18 @@ My priests and my elders
 בַּבַּ֥יִת כַּמָּֽוֶת׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>20</sup>&nbsp;See, Adonai, my distress;
-my innards [are churning].
-My heart [has turned over]within me,
+my innards are churning.
+My heart has turned over within me,
 because I rebelled so grievously.
 Outside, the sword strikes down,
 At home, it’s like death.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>21</sup> שָׁמְע֞וּ כִּ֧י נֶאֱנָחָ֣ה אָ֗נִי
 אֵ֤ין מְנַחֵם֙ לִ֔י
@@ -515,19 +515,19 @@ At home, it’s like death.
 וְיִֽהְי֥וּ כָמֽוֹנִי׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>21</sup>&nbsp; [They have heard]that I [am sighing].
- [There is none]to give comfort to me.
+<sup>21</sup>&nbsp; They have heard that I am sighing.
+ There is none to give comfort to me.
 All of my enemies
  heard of my plight and rejoiced,
-for it was You [who have done it].
+for it was You who have done it.
 Bring the day that you proclaimed––
 let them become like me.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>22</sup> תָּבֹ֨א כָל־רָעָתָ֤ם לְפָנֶ֙יךָ֙ 
 וְעוֹלֵ֣ל לָ֔מוֹ כַּאֲשֶׁ֥ר 
@@ -536,30 +536,30 @@ let them become like me.
 וְלִבִּ֥י דַוָּֽי׃ פ
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>22</sup>&nbsp;Let all their evil [come before You],
-and You [will treat them]
- [in the same way as]
- [you have treated me]
+<sup>22</sup>&nbsp;Let all their evil come before You,
+and You will treat them
+ in the same way as
+ you have treated me
 for all my transgressions.
-For great is my groaning,   <span class="instruction"> [final melody]</span>
+For great is my groaning,   <span class="instruction">final melody</span>
 and my heart is sickened.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֵיכָה ב
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 CHAPTER 2
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>1</sup> אֵיכָה֩ 
 יָעִ֨יב בְּאַפּ֤וֹ ׀ 
@@ -571,11 +571,11 @@ CHAPTER 2
 בְּי֥וֹם אַפּֽוֹ׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>1</sup>&nbsp;Alas, Adonai has darkened
-in his anger [the daughter of Zion].
- [He has cast down]from heaven 
+in his anger the daughter of Zion.
+ He has cast down from heaven 
                                       to the earth
 the glory of Israel,
 and remembered not His footstool
@@ -583,7 +583,7 @@ on the day of his anger.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>2</sup> בִּלַּ֨ע אֲדֹנָ֜י <font color="brown">לא</font> וְלֹ֣א חָמַ֗ל
 אֵ֚ת כָּל־נְא֣וֹת יַעֲקֹ֔ב
@@ -593,12 +593,12 @@ on the day of his anger.
 חִלֵּ֥ל מַמְלָכָ֖ה וְשָׂרֶֽיהָ׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>2</sup>&nbsp;The Lord has laid waste,
-showing [no pity].
+showing no pity.
 All of the dwellings of Jacob
-He shattered [in his displeasure] .
+He shattered in his displeasure.
 Fair Judah’s stronghold
 He has thrown to the ground.
 He profaned the kingdom
@@ -606,7 +606,7 @@ and its leaders.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>3</sup> גָּדַ֣ע בָּֽחֳרִי אַ֗ף
 כֹּ֚ל קֶ֣רֶן יִשְׂרָאֵ֔ל
@@ -616,19 +616,19 @@ and its leaders.
 לֶֽהָבָ֔ה אָכְלָ֖ה סָבִֽיב׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>3</sup>&nbsp; [He cut down], [in burning anger], 
+<sup>3</sup>&nbsp; He cut down, in burning anger, 
 all the dignity of Israel.
- [He turned] backward
- [His right hand]before the enemy.
+ He turned backward
+ His right hand before the enemy.
 He burned through Jacob
 like a flaming fire,
 consuming on all sides.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>4</sup> דָּרַ֨ךְ קַשְׁתּ֜וֹ כְּאוֹיֵ֗ב
 נִצָּ֤ב יְמִינוֹ֙ 
@@ -639,19 +639,19 @@ consuming on all sides.
 שָׁפַ֥ךְ כָּאֵ֖שׁ חֲמָתֽוֹ׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>4</sup>&nbsp;He has bent his bow 
- [like an enemy];
-poised [his right hand] like a foe.
- [And he] [slew all] 
- [who delighted the eye].
-In the tent [of the daughter of Zion]
-He poured out, like fire, [His great fury].
+ like an enemy ;
+poised his right hand like a foe.
+ And he slew all 
+ who delighted the eye.
+In the tent of the daughter of Zion
+He poured out, like fire, His great fury.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>5</sup> הָיָ֨ה אֲדֹנָ֤י ׀ כְּאוֹיֵב֙ 
 בִּלַּ֣ע יִשְׂרָאֵ֔ל
@@ -661,17 +661,17 @@ He poured out, like fire, [His great fury].
 תַּאֲנִיָּ֖ה וַאֲנִיָּֽה׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>5</sup>&nbsp;Adonai became [like an enemy];
+<sup>5</sup>&nbsp;Adonai became like an enemy ;
 He consumed Israel;
-consumed [all her citadels];
+consumed all her citadels ;
 destroyed her fortresses.
-He increased [in the daughter of Judah] mourning and lamentation.
+He increased in the daughter of Judah mourning and lamentation.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>6</sup> וַיַּחְמֹ֤ס כַּגַּן֙ שֻׂכּ֔וֹ
 שִׁחֵ֖ת מוֹעֲד֑וֹ
@@ -681,19 +681,19 @@ He increased [in the daughter of Judah] mourning and lamentation.
 מֶ֥לֶךְ וְכֹהֵֽן׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>6</sup>&nbsp;He stripped His sukkah 
- [like it was a garden]; 
-He shattered [His place of meeting].
-He made [to be forgotten]in Zion
+ like it was a garden ; 
+He shattered His place of meeting.
+He made to be forgotten in Zion
 sabbath and festival.
 He spurned, in the rage of His anger,
 king and priest.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>7</sup> זָנַ֨ח אֲדֹנָ֤י ׀ מִזְבְּחוֹ֙ 
 נִאֵ֣ר מִקְדָּשׁ֔וֹ
@@ -703,19 +703,19 @@ king and priest.
 כְּי֥וֹם מוֹעֵֽד׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>7</sup>&nbsp;Adonai abhorred His altar;
 abandoned His sanctuary.
- [He handed over] [to the enemy’s hand]
+ He handed over to the enemy’s hand
 the walls of its citadels.
- [A great noise] 
+ A great noise 
 they made in the house of God
 as on the day of a festival.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>8</sup> חָשַׁ֨ב יְהוָ֤ה ׀ לְהַשְׁחִית֙ 
 חוֹמַ֣ת בַּת־צִיּ֔וֹן נָ֣טָה קָ֔ו
@@ -725,11 +725,11 @@ as on the day of a festival.
 יַחְדָּ֥ו אֻמְלָֽלוּ׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>8</sup>&nbsp;Adonai resolved to destroy
-the wall [of Zion’s daughter].
- [He stretched out]a line.
+the wall of Zion’s daughter.
+ He stretched out a line.
 He did not draw back His hand
 from destroying––
 bringing mourning to rampart and wall,
@@ -737,7 +737,7 @@ they crumble together.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>9</sup> טָבְע֤וּ בָאָ֙רֶץ֙ שְׁעָרֶ֔יהָ
 אִבַּ֥ד וְשִׁבַּ֖ר בְּרִיחֶ֑יהָ
@@ -747,18 +747,18 @@ they crumble together.
 לֹא־מָצְא֥וּ חָז֖וֹן מֵיְהוָֽה׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>9</sup>&nbsp; [Sunk into]the earth [are her gates].
+<sup>9</sup>&nbsp; Sunk into the earth are her gates.
 He has smashed her bars into pieces.
-Her king and leaders [are in exile];
+Her king and leaders are in exile ;
 there is no torah.
- [And their prophets]:
+ And their prophets:
 they find no vision from Adonai.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>10</sup> יֵשְׁב֨וּ לָאָ֤רֶץ 
 יִדְּמוּ֙ זִקְנֵ֣י בַת־צִיּ֔וֹן
@@ -768,20 +768,20 @@ they find no vision from Adonai.
 בְּתוּלֹ֖ת יְרוּשָׁלִָֽם׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>10</sup>&nbsp;They sit on the ground, silent,
 the elders of fair Zion.
- [They have sprinkled]dust 
+ They have sprinkled dust 
                                on their heads,
- [and wrapped themselves] in sackcloth.
- [The girls bowed]their heads 
+ and wrapped themselves in sackcloth.
+ The girls bowed their heads 
 to the ground––
 the maidens of Jerusalem.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>11</sup> כָּל֨וּ בַדְּמָע֤וֹת עֵינַי֙ 
 חֳמַרְמְר֣וּ מֵעַ֔י
@@ -792,19 +792,19 @@ the maidens of Jerusalem.
 בִּרְחֹב֖וֹת קִרְיָֽה׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>11</sup>&nbsp;My eyes [waste away]with weeping,
+<sup>11</sup>&nbsp;My eyes waste away with weeping,
 my innards are burning,
- [poured out]on the ground 
+ poured out on the ground 
                                        are my organs,
-at the ruin [of my daughter people].
+at the ruin of my daughter people.
 as children––mere infants––are fainting
 in the squares of the city.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>12</sup> לְאִמֹּתָם֙ יֹֽאמְר֔וּ
 אַיֵּ֖ה דָּגָ֣ן וָיָ֑יִן
@@ -814,18 +814,18 @@ in the squares of the city.
 אֶל־חֵ֖יק אִמֹּתָֽם׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>12</sup>&nbsp; [To their mothers] [they kept asking]:
+<sup>12</sup>&nbsp; To their mothers they kept asking:
 “Where is the grain and wine?”
- [As they languish]like the dying
+ As they languish like the dying
 in the squares of the city.
-as their souls [ebb away]
+as their souls ebb away
 in the bosoms of their mothers.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>13</sup> מָֽה־אֲעִידֵ֞ךְ 
 מָ֣ה אֲדַמֶּה־לָּ֗ךְ
@@ -837,20 +837,20 @@ in the bosoms of their mothers.
 מִ֥י יִרְפָּא־לָֽךְ׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>13</sup>&nbsp; [How to bear witness for you]?
-To what [can I compare you],
+<sup>13</sup>&nbsp; How to bear witness for you?
+To what can I compare you,
 O daughter of Jerusalem? 
- [To what can I] [liken you],
- [that I may console you]?
-O maiden, [daughter of Zion].
-For great, [like the sea], [is your ruin].
+ To what can I liken you,
+ that I may console you?
+O maiden, daughter of Zion.
+For great, like the sea, is your ruin.
 Who can heal you?
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>14</sup> נְבִיאַ֗יִךְ חָ֤זוּ לָךְ֙ 
 שָׁ֣וְא וְתָפֵ֔ל
@@ -860,18 +860,18 @@ Who can heal you?
 מַשְׂא֥וֹת שָׁ֖וְא וּמַדּוּחִֽים׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>14</sup>&nbsp; [Your prophets]envisioned [for you]
+<sup>14</sup>&nbsp; Your prophets envisioned for you
                               delusion and folly.
 They did not reveal your iniquities;
- [this might have restored]your fortunes.
- [And what they offered]to you
+ this might have restored your fortunes.
+ And what they offered to you
 was visions of vanity and deception.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>15</sup> סָֽפְק֨וּ עָלַ֤יִךְ כַּפַּ֙יִם֙ 
 כָּל־עֹ֣בְרֵי דֶ֔רֶךְ
@@ -882,19 +882,19 @@ was visions of vanity and deception.
 מָשׂ֖וֹשׂ לְכָל־הָאָֽרֶץ׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>15</sup>&nbsp;They clap their hands at you,
- [all who pass]your way.
+ all who pass your way.
 They hiss, and shake their heads
 at the daughter of Jerusalem:
-“ [Is this it]? the city
+“Is this it? the city
 that was called ‘perfect in beauty’,
-‘the joy of the whole earth?’ ”
+‘the joy of the whole earth?’”
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>16</sup> פָּצ֨וּ עָלַ֤יִךְ פִּיהֶם֙ 
 כָּל־א֣וֹיְבַ֔יִךְ
@@ -904,19 +904,19 @@ that was called ‘perfect in beauty’,
 מָצָ֥אנוּ רָאִֽינוּ׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>16</sup>&nbsp;They open their mouths 
           against you, all your enemies.
-They whistle [and grind their teeth].
- [They say], “ [We devoured her].”
-Indeed this [is the day]
- [that we have been waiting for].
+They whistle and grind their teeth.
+ They say, “We devoured her.”
+Indeed this is the day
+ that we have been waiting for.
 We have arrived; we have seen it.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>17</sup> עָשָׂ֨ה יְהוָ֜ה אֲשֶׁ֣ר זָמָ֗ם
 בִּצַּ֤ע אֶמְרָתוֹ֙ 
@@ -926,19 +926,19 @@ We have arrived; we have seen it.
 הֵרִ֖ים קֶ֥רֶן צָרָֽיִךְ׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>17</sup>&nbsp;God has accomplished
- [what He Has purposed].
+ what He Has purposed.
 He fulfilled His decree,
-that he commanded [from days of old].
- [He tore down], [and did not pity].
-He let an enemy [rejoice over you].
+that he commanded from days of old.
+ He tore down, and did not pity.
+He let an enemy rejoice over you.
 He raised the pride of your foes.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>18</sup> צָעַ֥ק לִבָּ֖ם אֶל־אֲדֹנָ֑י
 חוֹמַ֣ת בַּת־צִ֠יּוֹן 
@@ -948,17 +948,17 @@ He raised the pride of your foes.
 אַל־תִּדֹּ֖ם בַּת־עֵינֵֽךְ׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>18</sup>&nbsp;Their heart cried out to the Lord.
-Walls [of the daughter of Zion]
-Let tears [run down]like a river.
+Walls of the daughter of Zion
+Let tears run down like a river.
 Day and night, give yourself no respite.
- [Don’t let even your eyes]find rest.
+ Don’t let even your eyes find rest.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>19</sup> ק֣וּמִי ׀ רֹ֣נִּי <font color="brown">בליל</font> בַלַּ֗יְלָה 
 לְרֹאשׁ֙ אַשְׁמֻר֔וֹת
@@ -970,20 +970,20 @@ Day and night, give yourself no respite.
 בְּרֹ֥אשׁ כָּל־חוּצֽוֹת׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>19</sup>&nbsp;Arise!  Cry out [in the night]
- [at the beginning] of the watches.
- [Pour out]your heart like water.
+<sup>19</sup>&nbsp;Arise!  Cry out in the night
+ at the beginning of the watches.
+ Pour out your heart like water.
 before the face of Adonai.
- [Lift up]to Him [your hands],
- [for the life] [of your young children]
+ Lift up to Him your hands,
+ for the life of your young children
 who swoon from hunger
 at every street corner.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>20</sup> רְאֵ֤ה יְהוָה֙ וְֽהַבִּ֔יטָה
 לְמִ֖י עוֹלַ֣לְתָּ כֹּ֑ה
@@ -993,18 +993,18 @@ at every street corner.
 כֹּהֵ֥ן וְנָבִֽיא׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>20</sup>&nbsp;See, Adonai, and behold:
-whom [have you ever]treated so?
- [Should the women]eat [their little ones],
+whom have you ever treated so?
+ Should the women eat their little ones,
 the children they have nursed?
- [Should there be slain],
+ Should there be slain,
 in God’s holy place, priest and prophet?
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>21</sup> שָׁכְב֨וּ לָאָ֤רֶץ חוּצוֹת֙ 
 נַ֣עַר וְזָקֵ֔ן בְּתוּלֹתַ֥י וּבַחוּרַ֖י 
@@ -1013,20 +1013,20 @@ in God’s holy place, priest and prophet?
 טָבַ֖חְתָּ לֹ֥א חָמָֽלְתָּ׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>21</sup>&nbsp;On the ground, [in the streets]
+<sup>21</sup>&nbsp;On the ground, in the streets
 they lie, young and old.
 My maidens and young men
-fell [by the sword].
- [You slew them]
+fell by the sword.
+ You slew them
                  on the day of your anger.
- [You slaughtered them];
+ You slaughtered them ;
 you showed no mercy.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>22</sup> תִּקְרָא֩ כְי֨וֹם מוֹעֵ֤ד 
 מְגוּרַי֙ מִסָּבִ֔יב
@@ -1036,31 +1036,31 @@ you showed no mercy.
 אֹיְבִ֥י כִלָּֽם׃ פ
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>22</sup>&nbsp; [You invited]––as [on a feast day]––
-my neighbors [from all around].
- [There were none], 
-on the day of God’s wrath :
+<sup>22</sup>&nbsp; You invited ––as on a feast day ––
+my neighbors from all around.
+ There were none, 
+on the day of God’s wrath:
 refugees or survivors.
 Those that I nursed and brought up,   
-                                           <span class="instruction"> [final melody]</span>
+                                           <span class="instruction">final melody</span>
 my enemy has wiped out.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֵיכָה ג
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-CHAPTER 3 <span class="instruction"> [special melody––see note below]</span>
+CHAPTER 3 <span class="instruction"> special melody––see note below </span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>1</sup> אֲנִ֤י הַגֶּ֙בֶר֙ רָאָ֣ה עֳנִ֔י
 בְּשֵׁ֖בֶט עֶבְרָתֽוֹ׃
@@ -1070,7 +1070,7 @@ CHAPTER 3 <span class="instruction"> [special melody––see note below]</span>
 כָּל־הַיּֽוֹם׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>1-3</sup>&nbsp;I am the man    
 who has seen affliction&#x2197;
@@ -1081,7 +1081,7 @@ Surely on me He brings down His hand&#x2198; the whole day long.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>4</sup> בִּלָּ֤ה בְשָׂרִי֙ וְעוֹרִ֔י
 שִׁבַּ֖ר עַצְמוֹתָֽי׃
@@ -1091,7 +1091,7 @@ Surely on me He brings down His hand&#x2198; the whole day long.
 כְּמֵתֵ֥י עוֹלָֽם׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>4-6</sup>&nbsp;He wore away my flesh and skin&#x2197;, 
 and shattered my bones.
@@ -1102,7 +1102,7 @@ like men long dead.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>7</sup> גָּדַ֧ר בַּעֲדִ֛י
 וְלֹ֥א אֵצֵ֖א 
@@ -1113,7 +1113,7 @@ like men long dead.
 בְּגָזִ֔ית נְתִיבֹתַ֖י עִוָּֽה׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>7-9</sup>&nbsp;He has walled me in
    till I can’t escape&#x2197;.
@@ -1125,7 +1125,7 @@ He has twisted my path.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>10</sup> דֹּ֣ב אֹרֵ֥ב הוּא֙ לִ֔י
 <font color="brown">אריה</font> אֲרִ֖י בְּמִסְתָּרִֽים׃
@@ -1135,7 +1135,7 @@ He has twisted my path.
 וַיַּצִּיבֵ֔נִי כַּמַּטָּרָ֖א לַחֵֽץ׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>10-12</sup>&nbsp;He is a lurking bear to me&#x2197;,
 a lion in hiding.
@@ -1146,7 +1146,7 @@ and made me the arrow’s mark.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>13</sup> הֵבִיא֙ בְּכִלְיוֹתָ֔י
 בְּנֵ֖י אַשְׁפָּתֽוֹ׃
@@ -1156,7 +1156,7 @@ and made me the arrow’s mark.
 הִרְוַ֥נִי לַעֲנָֽה׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>13-15</sup>&nbsp;He shot into my vitals&#x2197;
 the arrows of His quiver.
@@ -1167,7 +1167,7 @@ and made me drink wormwood.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>16</sup> וַיַּגְרֵ֤ס בֶּֽחָצָץ֙ שִׁנָּ֔י
 הִכְפִּישַׁ֖נִי בָּאֵֽפֶר׃
@@ -1177,7 +1177,7 @@ and made me drink wormwood.
 וְתוֹחַלְתִּ֖י מֵיְהוָֽה׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>16-18</sup>&nbsp;He has broken my teeth with gravel&#x2197;, 
 and covered me with ashes.
@@ -1188,7 +1188,7 @@ even my hope in God.”
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>19</sup> זְכָר־עָנְיִ֥י וּמְרוּדִ֖י 
 לַעֲנָ֥ה וָרֹֽאשׁ׃
@@ -1198,7 +1198,7 @@ even my hope in God.”
 עַל־כֵּ֥ן אוֹחִֽיל׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>19-21</sup>&nbsp;Remember my afflictions and sorrow&#x2197;, the wormwood and the gall.
 My soul remembers clearly&#x2191;,
@@ -1208,7 +1208,7 @@ and so recover hope:
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>22</sup> חַֽסְדֵ֤י יְהוָה֙ 
 כִּ֣י לֹא־תָ֔מְנוּ
@@ -1220,7 +1220,7 @@ and so recover hope:
 עַל־כֵּ֖ן אוֹחִ֥יל לֽוֹ׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>22-24</sup>&nbsp;The kindness of the Lord has not ended&#x2197;, 
 His mercies not exhausted.
@@ -1231,7 +1231,7 @@ thus do I hope in Him.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>25</sup> ט֤וֹב יְהוָה֙ 
 לְקֹוָ֔ו
@@ -1243,7 +1243,7 @@ thus do I hope in Him.
 בִּנְעוּרָֽיו׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>25-27</sup>&nbsp;God is good to the one who trusts&#x2197;, to every soul that seeks Him.
 It is good to wait in silence&#x2191;
@@ -1253,7 +1253,7 @@ from his youth and on.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>28</sup> יֵשֵׁ֤ב בָּדָד֙ וְיִדֹּ֔ם
 כִּ֥י נָטַ֖ל עָלָֽיו׃
@@ -1263,7 +1263,7 @@ from his youth and on.
 יִשְׂבַּ֥ע בְּחֶרְפָּֽה׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>28-30</sup>&nbsp;Let him sit alone in silence&#x2197;,
 because God lays it upon him,
@@ -1274,7 +1274,7 @@ and suffer all men’s taunts.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>31</sup> כִּ֣י לֹ֥א יִזְנַ֛ח
 לְעוֹלָ֖ם אֲדֹנָֽי׃
@@ -1284,7 +1284,7 @@ and suffer all men’s taunts.
 וַיַּגֶּ֖ה בְנֵי־אִֽישׁ׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>31-33</sup>&nbsp;For the Lord will not cast us off&#x2197;  
                                   forever and ever.
@@ -1295,7 +1295,7 @@ to the sons of men.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>34</sup> לְדַכֵּא֙ תַּ֣חַת רַגְלָ֔יו
 כֹּ֖ל אֲסִ֥ירֵי אָֽרֶץ׃
@@ -1305,7 +1305,7 @@ to the sons of men.
 אֲדֹנָ֖י לֹ֥א רָאָֽה׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>34-36</sup>&nbsp;To crush under His feet&#x2197;
 all the prisoners of the earth,
@@ -1316,7 +1316,7 @@ does not the Lord see it?
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>37</sup> מִ֣י זֶ֤ה אָמַר֙ וַתֶּ֔הִי
 אֲדֹנָ֖י לֹ֥א צִוָּֽה׃
@@ -1326,7 +1326,7 @@ does not the Lord see it?
 גֶּ֖בֶר עַל־<font color="brown">חטאו</font> חֲטָאָֽיו׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>37-39</sup>&nbsp;Who’s will can be fulfilled&#x2197;,
 if God did not ordain it?
@@ -1337,7 +1337,7 @@ Only for his own sins!
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>40</sup> נַחְפְּשָׂ֤ה דְרָכֵ֙ינוּ֙ וְֽנַחְקֹ֔רָה
 וְנָשׁ֖וּבָה עַד־יְהוָֽה׃
@@ -1347,7 +1347,7 @@ Only for his own sins!
 אַתָּ֖ה לֹ֥א סָלָֽחְתָּ׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>40-42</sup>&nbsp;Let us search and examine our ways&#x2197;, 
 and return to Adonai.
@@ -1358,7 +1358,7 @@ and You have not forgiven.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>43</sup> סַכֹּ֤תָה בָאַף֙ 
 וַֽתִּרְדְּפֵ֔נוּ הָרַ֖גְתָּ לֹ֥א 
@@ -1370,7 +1370,7 @@ and You have not forgiven.
 בְּקֶ֥רֶב הָעַמִּֽים׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>43-45</sup>&nbsp;You wrapped Yourself in wrath 
                                     and pursued&#x2197; us,
@@ -1382,7 +1382,7 @@ among the nations.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>46</sup> פָּצ֥וּ עָלֵ֛ינוּ
 פִּיהֶ֖ם כָּל־אֹיְבֵֽינוּ׃
@@ -1392,7 +1392,7 @@ among the nations.
 עַל־שֶׁ֖בֶר בַּת־עַמִּֽי׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>46-48</sup>&nbsp;Our enemies have opened
 their mouths&#x2197; in chorus against us.
@@ -1403,7 +1403,7 @@ at my poor people’s ruin.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>49</sup> עֵינִ֧י נִגְּרָ֛ה
 וְלֹ֥א תִדְמֶ֖ה 
@@ -1414,7 +1414,7 @@ at my poor people’s ruin.
 מִכֹּ֖ל בְּנ֥וֹת עִירִֽי׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>49-51</sup>&nbsp;My eyes flow without ceasing&#x2197;,
 and find no relief.
@@ -1425,7 +1425,7 @@ for the maidens of my city.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>52</sup> צ֥וֹד צָד֛וּנִי כַּצִּפּ֖וֹר 
 אֹיְבַ֥י חִנָּֽם׃
@@ -1435,7 +1435,7 @@ for the maidens of my city.
 אָמַ֥רְתִּי נִגְזָֽרְתִּי׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>52-54</sup>&nbsp;They hunted me down 
 like a bird&#x2197;, 
@@ -1447,7 +1447,7 @@ and I said “I am cut off.”
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>55</sup> קָרָ֤אתִי שִׁמְךָ֙ יְהוָ֔ה מִבּ֖וֹר 
 תַּחְתִּיּֽוֹת׃
@@ -1458,7 +1458,7 @@ and I said “I am cut off.”
 אָמַ֖רְתָּ אַל־תִּירָֽא׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>55-57</sup>&nbsp;I called on your name, Adonai&#x2197;, 
 from the depths of the dungeon.
@@ -1470,7 +1470,7 @@ and said to me, “Do not fear!”
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>58</sup> רַ֧בְתָּ אֲדֹנָ֛י
 רִיבֵ֥י נַפְשִׁ֖י גָּאַ֥לְתָּ חַיָּֽי׃
@@ -1480,7 +1480,7 @@ and said to me, “Do not fear!”
 כָּל־מַחְשְׁבֹתָ֖ם לִֽי׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>58-60</sup>&nbsp;You have defended the cause 
 of my soul&#x2197;; 
@@ -1492,7 +1492,7 @@ all their designs toward me.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>61</sup> שָׁמַ֤עְתָּ חֶרְפָּתָם֙ יְהוָ֔ה
 כָּל־מַחְשְׁבֹתָ֖ם עָלָֽי׃
@@ -1502,7 +1502,7 @@ all their designs toward me.
 אֲנִ֖י מַנְגִּינָתָֽם׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>61-63</sup>&nbsp;You have heard their reproach 
                                              Adonai&#x2197;, 
@@ -1513,7 +1513,7 @@ I am their taunting song.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>64</sup> תָּשִׁ֨יב לָהֶ֥ם גְּמ֛וּל יְהוָ֖ה 
 כְּמַעֲשֵׂ֥ה יְדֵיהֶֽם׃
@@ -1523,7 +1523,7 @@ I am their taunting song.
 מִתַּ֖חַת שְׁמֵ֥י יְהוָֽה׃ פ
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>64-66</sup>&nbsp;Pay them back, Adonai&#x2197;
 according to their deeds.
@@ -1535,18 +1535,18 @@ from under the heaven of God.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֵיכָה ד
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 CHAPTER 4
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>1</sup> אֵיכָה֙ 
 יוּעַ֣ם זָהָ֔ב
@@ -1555,16 +1555,16 @@ CHAPTER 4
 בְּרֹ֖אשׁ כָּל־חוּצֽוֹת׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>1</sup>&nbsp;Alas, the gold is dulled,
 debased, the finest gold.
- [Sacred gems]are scattered
-upon [every street corner].
+ Sacred gems are scattered
+upon every street corner.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>2</sup> בְּנֵ֤י צִיּוֹן֙ הַיְקָרִ֔ים
 הַמְסֻלָּאִ֖ים בַּפָּ֑ז
@@ -1573,16 +1573,16 @@ upon [every street corner].
 מַעֲשֵׂ֖ה יְדֵ֥י יוֹצֵֽר׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>2</sup>&nbsp; [The sons of Zion] are precious,
- [worth their weight] in fine gold.
-How [they are treated] [as earthen jugs],
+<sup>2</sup>&nbsp; The sons of Zion are precious,
+ worth their weight in fine gold.
+How they are treated as earthen jugs,
 The work of the potter’s hand.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>3</sup> גַּם־<font color="brown">תנין</font> תַּנִּים֙ חָ֣לְצוּ שַׁ֔ד
 הֵינִ֖יקוּ גּוּרֵיהֶ֑ן
@@ -1590,16 +1590,16 @@ The work of the potter’s hand.
 <font color="brown">כי ענים</font> כַּיְעֵנִ֖ים בַּמִּדְבָּֽר׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>3</sup>&nbsp; [Even the jackels]present the breast
- [and give suck] [to their young ones].
- [But my poor people] [has become cruel]
- [like the ostriches]in the wilderness.
+<sup>3</sup>&nbsp; Even the jackels present the breast
+ and give suck to their young ones.
+ But my poor people has become cruel
+ like the ostriches in the wilderness.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>4</sup> דָּבַ֨ק לְשׁ֥וֹן יוֹנֵ֛ק
 אֶל־חכּ֖וֹ בַּצָּמָ֑א
@@ -1607,16 +1607,16 @@ The work of the potter’s hand.
 פֹּרֵ֖שׂ אֵ֥ין לָהֶֽם׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>4</sup>&nbsp;The tongue of the baby [at the breast]
- [cleaves to his palate], for thirst.
- [The young children]ask for bread.
- [Not one person] spares a scrap for them.
+<sup>4</sup>&nbsp;The tongue of the baby at the breast
+ cleaves to his palate, for thirst.
+ The young children ask for bread.
+ Not one person spares a scrap for them.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>5</sup> הָאֹֽכְלִים֙ לְמַ֣עֲדַנִּ֔ים
 נָשַׁ֖מּוּ בַּחוּצ֑וֹת
@@ -1624,16 +1624,16 @@ The work of the potter’s hand.
 חִבְּק֖וּ אַשְׁפַּתּֽוֹת׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>5</sup>&nbsp; [Those who once ate] [all the best food]
- [now lie rotting]on the street.
- [Those brought up] in scarlet clothing
- [huddle now] [on heaps of garbage].
+<sup>5</sup>&nbsp; Those who once ate all the best food
+ now lie rotting on the street.
+ Those brought up in scarlet clothing
+ huddle now on heaps of garbage.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>6</sup> וַיִּגְדַּל֙ עֲוֺ֣ן בַּת־עַמִּ֔י
 מֵֽחַטַּ֖את סְדֹ֑ם
@@ -1641,16 +1641,16 @@ The work of the potter’s hand.
 וְלֹא־חָ֥לוּ בָ֖הּ יָדָֽיִם׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>6</sup>&nbsp;All the crimes [of my poor people]
- [have outdone] [the sins of Sodom].
- [which was overturned]in a moment,
- [no time for a man] [to wring his hands].
+<sup>6</sup>&nbsp;All the crimes of my poor people
+ have outdone the sins of Sodom.
+ which was overturned in a moment,
+ no time for a man to wring his hands.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>7</sup> זַכּ֤וּ נְזִירֶ֙יהָ֙ מִשֶּׁ֔לֶג
 צַח֖וּ מֵחָלָ֑ב
@@ -1658,18 +1658,18 @@ The work of the potter’s hand.
 סַפִּ֖יר גִּזְרָתָֽם׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>7</sup>&nbsp; [Her elect ones]were purer 
+<sup>7</sup>&nbsp; Her elect ones were purer 
                                  even than snow, 
- [and they were whiter] still than milk.
+ and they were whiter still than milk.
 Ruddy like rubies
-                    [was their complexion],
- [Like the sapphire]in their features.
+                    was their complexion,
+ Like the sapphire in their features.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>8</sup> חָשַׁ֤ךְ מִשְּׁחוֹר֙ 
 תָּֽאֳרָ֔ם
@@ -1678,17 +1678,17 @@ Ruddy like rubies
 יָבֵ֖שׁ הָיָ֥ה כָעֵֽץ׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>8</sup>&nbsp;Now their appearance
-                            [is blacker than soot],
+                            is blacker than soot,
 They go unrecognized in the streets.
- [Their skin has]shriveled [on their bones],
+ Their skin has shriveled on their bones,
 it has become as dry as wood.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>9</sup> טוֹבִ֤ים הָיוּ֙ חַלְלֵי־חֶ֔רֶב
 מֵֽחַלְלֵ֖י רָעָ֑ב
@@ -1696,17 +1696,17 @@ it has become as dry as wood.
 מִתְּנוּבֹ֖ת שָׂדָֽי׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>9</sup>&nbsp;We’d rather be slain by the sword
  [than to find death [by starvation,
- [For these] [pine away].
-                            [They are striken]
- [for lack of the fruits]of the field.
+ For these pine away.
+                            They are striken
+ for lack of the fruits of the field.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>10</sup> יְדֵ֗י נָשִׁים֙ רַחֲמָ֣נִיּ֔וֹת
 בִּשְּׁל֖וּ יַלְדֵיהֶ֑ן
@@ -1714,17 +1714,17 @@ it has become as dry as wood.
 בְּשֶׁ֖בֶר בַּת־עַמִּֽי׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>10</sup>&nbsp; [With their own hands],
-the women [of tender hearts]
-have boiled [their own children].
-This became [their food] in the wreckage
+<sup>10</sup>&nbsp; With their own hands,
+the women of tender hearts
+have boiled their own children.
+This became their food in the wreckage
 of the daughter of my people.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>11</sup> כִּלָּ֤ה יְהוָה֙ אֶת־חֲמָת֔וֹ
 שָׁפַ֖ךְ חֲר֣וֹן אַפּ֑וֹ
@@ -1732,16 +1732,16 @@ of the daughter of my people.
 וַתֹּ֖אכַל יְסוֹדֹתֶֽיהָ׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>11</sup>&nbsp;The Lord has vented [all His fury].
- [He poured out] His burning anger.
- [He has kindled] [a fire in Zion]
- [that has devoured]its foundations.
+<sup>11</sup>&nbsp;The Lord has vented all His fury.
+ He poured out His burning anger.
+ He has kindled a fire in Zion
+ that has devoured its foundations.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>12</sup> לֹ֤א הֶאֱמִ֙ינוּ֙ 
 מַלְכֵי־אֶ֔רֶץ
@@ -1750,17 +1750,17 @@ of the daughter of my people.
 בְּשַׁעֲרֵ֖י יְרוּשָׁלִָֽם׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>12</sup>&nbsp;The kings [of the earth] 
-                                 [did not believe],
- [nor did anyone]in all the world,
-that a foe or an enemy [could ever enter] 
- [into the gates]of Jerusalem.
+<sup>12</sup>&nbsp;The kings of the earth 
+                                 did not believe,
+ nor did anyone in all the world,
+that a foe or an enemy could ever enter 
+ into the gates of Jerusalem.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>13</sup> מֵֽחַטֹּ֣את נְבִיאֶ֔יהָ
 עֲוֺנ֖וֹת כֹּהֲנֶ֑יהָ
@@ -1768,16 +1768,16 @@ that a foe or an enemy [could ever enter]
 דַּ֥ם צַדִּיקִֽים׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>13</sup>&nbsp; [From the sins] [of her prophets]
- [and the crimes]of her priests,
+<sup>13</sup>&nbsp; From the sins of her prophets
+ and the crimes of her priests,
 who had shed in her midst
 the blood of the righteous ones.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>14</sup> נָע֤וּ עִוְרִים֙ 
 בַּֽחוּצ֔וֹת נְגֹֽאֲל֖וּ בַּדָּ֑ם
@@ -1785,17 +1785,17 @@ the blood of the righteous ones.
 בִּלְבֻשֵׁיהֶֽם׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>14</sup>&nbsp; [They roamed] 
- [like blind men] [through the streets], 
- [being defiled] with blood.
- [so that no one there]would dare
- [to brush up] [against their clothing]..
+<sup>14</sup>&nbsp; They roamed 
+ like blind men through the streets, 
+ being defiled with blood.
+ so that no one there would dare
+ to brush up against their clothing..
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>15</sup> ס֣וּרוּ טָמֵ֞א 
 קָ֣רְאוּ לָ֗מוֹ
@@ -1805,10 +1805,10 @@ the blood of the righteous ones.
 לֹ֥א יוֹסִ֖יפוּ לָגֽוּר׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>15</sup>&nbsp;“Get away, [unclean one]!”
-were the cries of [people to them].
+<sup>15</sup>&nbsp;“Get away, unclean one!”
+were the cries of people to them.
 “Keep away! Do not touch us!”
 So they fled away and now wander.
 People said among the nations:
@@ -1816,7 +1816,7 @@ People said among the nations:
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>16</sup> פְּנֵ֤י יְהוָה֙ 
 חִלְּקָ֔ם לֹ֥א יוֹסִ֖יף 
@@ -1825,16 +1825,16 @@ People said among the nations:
 <font color="brown">זקנים</font> וּזְקֵנִ֖ים לֹ֥א חָנָֽנוּ׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>16</sup>&nbsp;The face of God [has dispersed them].
-He will no more [give them a glance].
- [They respected]the priests [no longer],
- [paid no attention] to the prophets.
+<sup>16</sup>&nbsp;The face of God has dispersed them.
+He will no more give them a glance.
+ They respected the priests no longer,
+ paid no attention to the prophets.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>17</sup> <font color="brown">עודינה</font> עוֹדֵ֙ינוּ֙ תִּכְלֶ֣ינָה עֵינֵ֔ינוּ
 אֶל־עֶזְרָתֵ֖נוּ הָ֑בֶל
@@ -1842,16 +1842,16 @@ He will no more [give them a glance].
 לֹ֥א יוֹשִֽׁעַ׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>17</sup>&nbsp;Our eyes are strained and failing,
- [watching vainly] [for our deliverance].
-We were watching [for a nation] [Egypt]
- [that was never] there to save us.
+ watching vainly for our deliverance.
+We were watching for a nation Egypt
+ that was never there to save us.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>18</sup> צָד֣וּ צְעָדֵ֔ינוּ
 מִלֶּ֖כֶת בִּרְחֹבֹתֵ֑ינוּ
@@ -1859,16 +1859,16 @@ We were watching [for a nation] [Egypt]
 כִּי־בָ֥א קִצֵּֽינוּ׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>18</sup>&nbsp; [Our enemies eyed]our steps,
- [so we could not walk] [in our streets].
- [Our doom] [is near]. Our days are over, 
+<sup>18</sup>&nbsp; Our enemies eyed our steps,
+ so we could not walk in our streets.
+ Our doom is near. Our days are over, 
 yea our end has come.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>19</sup> קַלִּ֤ים הָיוּ֙ רֹדְפֵ֔ינוּ
 מִנִּשְׁרֵ֖י שָׁמָ֑יִם
@@ -1876,16 +1876,16 @@ yea our end has come.
 בַּמִּדְבָּ֖ר אָ֥רְבוּ לָֽנוּ׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>19</sup>&nbsp;They [were swifter]––our pursuers––
- [than the eagles] [in the sky].
- [In the mountains], [they did hunt us],
- [in the desert], laid in wait for us.
+<sup>19</sup>&nbsp;They were swifter ––our pursuers––
+ than the eagles in the sky.
+ In the mountains, they did hunt us,
+ in the desert, laid in wait for us.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>20</sup> ר֤וּחַ אַפֵּ֙ינוּ֙ מְשִׁ֣יחַ יְהוָ֔ה
 נִלְכַּ֖ד בִּשְׁחִיתוֹתָ֑ם
@@ -1893,18 +1893,18 @@ yea our end has come.
 נִֽחְיֶ֥ה בַגּוֹיִֽם׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>20</sup>&nbsp;The breath [of our nostrils],
-God’s own anointed [King Josiah], 
- [our king was captured] [in their traps],
-of whom [we had said], 
-“ [Under his shadow], 
+<sup>20</sup>&nbsp;The breath of our nostrils,
+God’s own anointed King Josiah, 
+ our king was captured in their traps,
+of whom we had said, 
+“Under his shadow, 
 we will live among the nations.”
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>21</sup> שִׂ֤ישִׂי וְשִׂמְחִי֙ בַּת־אֱד֔וֹם
 <font color="brown">יושבתי</font> יוֹשֶׁ֖בֶת בְּאֶ֣רֶץ ע֑וּץ
@@ -1912,18 +1912,18 @@ we will live among the nations.”
 תִּשְׁכְּרִ֖י וְתִתְעָרִֽי׃ ס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>21</sup>&nbsp;Rejoice and exult,
-                         [daughter of Edom],
- [you that dwell] in the land of Uz.
- [To you, in turn] [the cup will pass].
- [It will make you drunk];
- [you will show your nakedness]
+                         daughter of Edom,
+ you that dwell in the land of Uz.
+ To you, in turn the cup will pass.
+ It will make you drunk ;
+ you will show your nakedness
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>22</sup> תַּם־עֲוֺנֵךְ֙ בַּת־צִיּ֔וֹן
 לֹ֥א יוֹסִ֖יף לְהַגְלוֹתֵ֑ךְ
@@ -1932,337 +1932,337 @@ we will live among the nations.”
 גִּלָּ֖ה עַל־חַטֹּאתָֽיִךְ׃ פ
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>22</sup>&nbsp; [Your crime is atoned for],
-                           [daughter of Zion].
+<sup>22</sup>&nbsp; Your crime is atoned for,
+                           daughter of Zion.
 He will no more send you
                                 into captivity.
 But daughter of Edom, 
-                  [your guilt He will punish],
- [your transgressions]   [final melody]
- [will be laid bare].
+                  your guilt He will punish,
+ your transgressions   <span class="instruction">final melody</span>
+ will be laid bare.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֵיכָה ה
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 CHAPTER 5
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>1</sup> זְכֹ֤ר יְהוָה֙ מֶֽה־הָ֣יָה לָ֔נוּ
 <font color="brown">הביט</font> הַבִּ֖יטָה וּרְאֵ֥ה 
 אֶת־חֶרְפָּתֵֽנוּ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>1</sup>&nbsp;Recall, Adonai, 
-                    what [has befallen us].
+                    what has befallen us.
 Behold and see our disgrace.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>2</sup> נַחֲלָתֵ֙נוּ֙ נֶֽהֶפְכָ֣ה לְזָרִ֔ים
 בָּתֵּ֖ינוּ לְנָכְרִֽים׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>2</sup>&nbsp;Our inheritance [turned over] 
-to strangers, [and our houses]unto aliens.
+<sup>2</sup>&nbsp;Our inheritance turned over 
+to strangers, and our houses unto aliens.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>3</sup> יְתוֹמִ֤ים הָיִ֙ינוּ֙ <font color="brown">אין</font> וְאֵ֣ין אָ֔ב
 אִמֹּתֵ֖ינוּ כְּאַלְמָנֽוֹת׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>3</sup>&nbsp; [We have become]like orphans.
+<sup>3</sup>&nbsp; We have become like orphans.
 There is no father. 
- [And our mothers]are as widows.
+ And our mothers are as widows.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>4</sup> מֵימֵ֙ינוּ֙ בְּכֶ֣סֶף שָׁתִ֔ינוּ
 עֵצֵ֖ינוּ בִּמְחִ֥יר יָבֹֽאוּ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>4</sup>&nbsp; [Our own water]––
-we pay money [to drink it].
- [And our firewood] we get for a price.
+<sup>4</sup>&nbsp; Our own water ––
+we pay money to drink it.
+ And our firewood we get for a price.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>5</sup> עַ֤ל צַוָּארֵ֙נוּ֙ נִרְדָּ֔פְנוּ
 יָגַ֖עְנוּ <font color="brown">לא</font> וְלֹ֥א הֽוּנַ֖ח לָֽנוּ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>5</sup>&nbsp; [To our very] necks, [we are pursued].
+<sup>5</sup>&nbsp; To our very necks, we are pursued.
 We labor, but nothing is left to us.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>6</sup> מִצְרַ֙יִם֙ נָתַ֣נּוּ יָ֔ד
 אַשּׁ֖וּר לִשְׂבֹּ֥עַֽ לָֽחֶם׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>6</sup>&nbsp;To Egypt [we stretched out]a hand,
- [and to Assyria], 
+<sup>6</sup>&nbsp;To Egypt we stretched out a hand,
+ and to Assyria, 
                      just to get enough bread.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>7</sup> אֲבֹתֵ֤ינוּ חָֽטְאוּ֙ <font color="brown">אינם</font> וְאֵינָ֔ם
 <font color="brown">אנחנו</font> וַאֲנַ֖חְנוּ עֲוֺנֹתֵיהֶ֥ם סָבָֽלְנוּ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>7</sup>&nbsp;Our fathers have sinned,
- [and are no more]. 
- [We have all suffered] 
+ and are no more. 
+ We have all suffered 
                         for their iniquities.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>8</sup> עֲבָדִים֙ מָ֣שְׁלוּ בָ֔נוּ
 פֹּרֵ֖ק אֵ֥ין מִיָּדָֽם׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>8</sup>&nbsp;Slaves ruled [over us].
- [There is none to deliver us] 
+<sup>8</sup>&nbsp;Slaves ruled over us.
+ There is none to deliver us 
 from their hand.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>9</sup> בְּנַפְשֵׁ֙נוּ֙ נָבִ֣יא לַחְמֵ֔נוּ
 מִפְּנֵ֖י חֶ֥רֶב הַמִּדְבָּֽר׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>9</sup>&nbsp;At the risk [of our lives], 
+<sup>9</sup>&nbsp;At the risk of our lives, 
 we get our bread, 
- [because of the sword] of the wilderness.
+ because of the sword of the wilderness.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>10</sup> עוֹרֵ֙נוּ֙ כְּתַנּ֣וּר נִכְמָ֔רוּ
 מִפְּנֵ֖י זַלְעֲפ֥וֹת רָעָֽב׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>10</sup>&nbsp;Our skin is hot [like a furnace].
- [because of] the burning heat of famine.
+<sup>10</sup>&nbsp;Our skin is hot like a furnace.
+ because of the burning heat of famine.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>11</sup> נָשִׁים֙ בְּצִיּ֣וֹן עִנּ֔וּ
 בְּתֻלֹ֖ת בְּעָרֵ֥י יְהוּדָֽה׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>11</sup>&nbsp;The women in Zion were ravaged,
 the maidens in the towns of Judah.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>12</sup> שָׂרִים֙ בְּיָדָ֣ם נִתְל֔וּ
 פְּנֵ֥י זְקֵנִ֖ים לֹ֥א נֶהְדָּֽרוּ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>12</sup>&nbsp;The leaders [have been hanged] 
-                                  [by their hands].
-The faces of elders [are not respected].
+<sup>12</sup>&nbsp;The leaders have been hanged 
+                                  by their hands.
+The faces of elders are not respected.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>13</sup> בַּחוּרִים֙ טְח֣וֹן נָשָׂ֔אוּ
 וּנְעָרִ֖ים בָּעֵ֥ץ כָּשָֽׁלוּ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>13</sup>&nbsp; [Young men]carry a millstone. 
- [And children stagger]
+<sup>13</sup>&nbsp; Young men carry a millstone. 
+ And children stagger
                              under loads of wood.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>14</sup> זְקֵנִים֙ מִשַּׁ֣עַר שָׁבָ֔תוּ
 בַּחוּרִ֖ים מִנְּגִינָתָֽם׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>14</sup>&nbsp;The elders are gone [from the gate],
- [the young men] [from their music].
+<sup>14</sup>&nbsp;The elders are gone from the gate,
+ the young men from their music.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>15</sup> שָׁבַת֙ מְשׂ֣וֹשׂ לִבֵּ֔נוּ
 נֶהְפַּ֥ךְ לְאֵ֖בֶל מְחֹלֵֽנוּ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>15</sup>&nbsp;The joy [in our hearts]has vanished,
-our dancing [has turned into mourning].
+<sup>15</sup>&nbsp;The joy in our hearts has vanished,
+our dancing has turned into mourning.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>16</sup> נָֽפְלָה֙ עֲטֶ֣רֶת רֹאשֵׁ֔נוּ
 אֽוֹי־נָ֥א לָ֖נוּ כִּ֥י חָטָֽאנוּ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>16</sup>&nbsp; [The crown has fallen] 
+<sup>16</sup>&nbsp; The crown has fallen 
                                    from our heads.
 Woe to us, for we have sinned.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>17</sup> עַל־זֶ֗ה הָיָ֤ה דָוֶה֙ לִבֵּ֔נוּ
 עַל־אֵ֖לֶּה חָשְׁכ֥וּ עֵינֵֽינוּ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>17</sup>&nbsp; [Because of this], our hearts 
+<sup>17</sup>&nbsp; Because of this, our hearts 
                                           are sickened. 
- [This is why] our eyes grow dim.
+ This is why our eyes grow dim.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>18</sup> עַ֤ל הַר־צִיּוֹן֙ שֶׁשָּׁמֵ֔ם
 שׁוּעָלִ֖ים הִלְּכוּ־בֽוֹ׃ פ
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>18</sup>&nbsp; [For the mountain]of Zion, 
-                                [which lies desolate], 
- [while the foxes] [prowl over it].
+<sup>18</sup>&nbsp; For the mountain of Zion, 
+                                which lies desolate, 
+ while the foxes prowl over it.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>19</sup> אַתָּ֤ה יְהוָה֙ 
 לְעוֹלָ֣ם תֵּשֵׁ֔ב
 כִּסְאֲךָ֖ לְדֹ֥ר וָדֽוֹר׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>19</sup>&nbsp;Yet You Adonai will sit forever
- [upon Your throne], 
+ upon Your throne, 
 through all generations.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>20</sup> לָ֤מָּה לָנֶ֙צַח֙ תִּשְׁכָּחֵ֔נוּ
 תַּֽעַזְבֵ֖נוּ לְאֹ֥רֶךְ יָמִֽים׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>20</sup>&nbsp; [You cannot mean] [to forget us] forever,
- [and forsake us] [for all time]?
+<sup>20</sup>&nbsp; You cannot mean to forget us forever,
+ and forsake us for all time?
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>21</sup> הֲשִׁיבֵ֨נוּ יְהוָ֤ה ׀ אֵלֶ֙יךָ֙
 <font color="brown">ונשוב</font> וְֽנָשׁ֔וּבָה 
 חַדֵּ֥שׁ יָמֵ֖ינוּ כְּקֶֽדֶם׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>21</sup>&nbsp; [Turn us back] [to Yourself God],
- [and we shall return].
+<sup>21</sup>&nbsp; Turn us back to Yourself God,
+ and we shall return.
 Renew our days as of old.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>22</sup> כִּ֚י אִם־מָאֹ֣ס מְאַסְתָּ֔נוּ
 קָצַ֥פְתָּ עָלֵ֖ינוּ 
 עַד־מְאֹֽד׃ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>22</sup>&nbsp; [You can’t] 
-                      [have rejected us] utterly.
+<sup>22</sup>&nbsp; You can’t 
+                      have rejected us utterly.
 You have raged against us, it is enough.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הֲשִׁיבֵ֨נוּ 
 יְהוָ֤ה ׀ אֵלֶ֙יךָ֙
@@ -2271,11 +2271,11 @@ You have raged against us, it is enough.
  כְּקֶֽדֶם׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>21</sup>&nbsp; [Turn us back] [to Yourself God],
-                          [and we shall return].
- [final melody]  Renew our days as of old.
+<sup>21</sup>&nbsp; Turn us back to Yourself God,
+                          and we shall return.
+ <span class="instruction">final melody</span>  Renew our days as of old.
 </span></div></td>
  </tr>
 </tbody></table>

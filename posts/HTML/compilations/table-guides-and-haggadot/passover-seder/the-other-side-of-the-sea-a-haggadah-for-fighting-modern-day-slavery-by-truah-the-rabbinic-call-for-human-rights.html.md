@@ -32,7 +32,7 @@ Adar 5775/March 2015
 <h3>Order of the Seder</h3>
 
 <table style="margin-left: auto;margin-right: auto;"><tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 קַדֵּשׁ
 וּרְחַץ
@@ -51,7 +51,7 @@ Adar 5775/March 2015
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Ḳadesh (Sanctifying)
 Ur’chatz (Preparing)
@@ -121,14 +121,14 @@ The text of the Ḳiddush reminds us that the choice to uphold the sacred is in 
 Bless and drink the first cup of wine/grape juice.
 
 <table style="margin-left: auto;margin-right: auto;"><tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
  בָּרוּךְ אַתָּה ה’ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם בּוֹרֵא פְּרִי הַגָּפֶן.
 </span></div>
 </td>
 
 
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Baruch atah Adonai Eloheinu Melech haOlam boreh pri hagafen.
 Blessed are You ETERNAL our God, Master of time and space, creator of the fruit of the vine.
@@ -143,14 +143,14 @@ As the Four Questions will soon point out, we dip twice in our seder. The two di
 Any time we find ourselves immersed in sadness and suffering, may we always have the courage to know that blessing is coming.
 
 <table style="margin-left: auto;margin-right: auto;"><tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה ה’ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם בּוֹרֵא פְּרִי הָאֲדָמָה.
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Baruch Atah Adonai Eloheinu Melech haOlam boreh pri ha’adamah.
 Blessed are You ETERNAL our God, Master of time and space, who creates the fruit of the earth.
@@ -382,13 +382,13 @@ Although few Jews, like other Americans, opposed slavery at the [Civil] war’s 
 </ol>
 
 <table style="margin-left: auto;margin-right: auto;"><tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="scribe" lang="he">
 וַיָּקָם מֶלֶךְ־חָדָשׁ עַל־מִצְרָיִם אֲשֶׁר לֹא־יָדַע אֶת־יוֹסֵף׃  
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 “A new king arose over Egypt who knew not Joseph.” (Ex. 1:8)
 
@@ -396,13 +396,13 @@ Although few Jews, like other Americans, opposed slavery at the [Civil] war’s 
 </td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="scribe" lang="he">
 וַיִּשְׁמַע אֱלֹהִים אֶת־נַאֲקָתָם וַיִּזְכֹּר אֱלֹהִים אֶת־בְּרִיתוֹ אֶת־אַבְרָהָם אֶת־יִצְחָק וְאֶת־יַעֲקֹב: וַיַּרְא אֱלֹהִים אֶת־בְּנֵי יִשְׂרָאֵל וַיֵּדַע אֱלֹהִים׃
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 “God heard their cry, and God remembered God’s covenant with Abraham, Isaac, and Jacob. God saw the Israelites and God knew.” (Ex. 2:24-25)
 
@@ -418,7 +418,7 @@ As we sing “Vehi she-amda,” we remember that in every generation, people hav
 In Hebrew, “The One” in the song is feminine. Who is this One? The classical rabbis would probably say the Torah. The Kabbalists invoked Binah, a feminine aspect of God. In the spirit of 70 faces of Torah, here is a slightly subversive suggestion: the one who stood up for our ancestors—literally, our fathers—is our mothers. We remember the oft-erased contribution women have played throughout history and celebrate the importance and power of women’s leadership in fighting slavery today.
 
 <table style="margin-left: auto;margin-right: auto;"><tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְהִיא שֶׁעָמְדָה לַאֲבוֹתֵינוּ וְלָנוּ
 שְׁלֹא אֶחָד בִּלְבַד עָמַד עָלֵינוּ לְכַלֹּתֵינוּ
@@ -427,7 +427,7 @@ In Hebrew, “The One” in the song is feminine. Who is this One? The classical
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Vehi she-amda, vehi she-amda la’avoteinu velanu (x2)
 She-lo echad bil’vad amad aleinu lechaloteinu
@@ -610,13 +610,13 @@ So does Passover truly remind you of your freedom? Do you hear the call to “br
 We end Maggid with a taste of Hallel, beginning with Psalm 113. The first line sums up all of Maggid in four words:
 
 <table style="margin-left: auto;margin-right: auto;"><tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="scribe" lang="he">
 הַלְלוּיָהּ הַלְלוּ עַבְדֵי ה׳
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Halleluyah hallelu avdei Adonai
 
@@ -628,13 +628,13 @@ Praise God, you slaves of God!
 This recalls God’s declaration towards the end of Leviticus (25:42)…
 
 <table style="margin-left: auto;margin-right: auto;"><tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="scribe" lang="he">
 כִּי עֲבָדַי הֵם אֲשֶׁר הוֹצֵאתִי אֹתָם מֵאֶרֶץ מִצְרָיִם; לֹא יִמָּכְרוּ מִמְכֶּרֶת עָבֶד.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 For they are My slaves, whom I brought out of the land of Egypt—they shall not be sold as slaves.
 </div>
@@ -644,13 +644,13 @@ For they are My slaves, whom I brought out of the land of Egypt—they shall not
 …as well as the line by Yehudah HaLevi, the 12th century philosopher and poet:
 
 <table style="margin-left: auto;margin-right: auto;"><tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="commentary" lang="he">
 עַבְדֵי זְמָן עַבְדֵי עֲבָדִים הֵם עֶבֶד ה’ הוּא לְבַד חָפְשִׁי.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Slaves of time are slaves to slaves. Only a slave of God is free. 
 </div>
@@ -666,7 +666,7 @@ We conclude Maggid by blessing and drinking the second cup.
 This is the seder’s fulcrum, the turning point the leverages our collective memories of slavery and turns them into collective obligation. This is the moment when we return to Ha Lachma Anya and say:
 
 <table style="margin-left: auto;margin-right: auto;"><tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הָשַׁתָא עַבְדֵי 
 לַשָׁנָה הַבָּאָה 
@@ -674,7 +674,7 @@ This is the seder’s fulcrum, the turning point the leverages our collective me
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Hashta avdei
 Leshanah haba’a
@@ -702,14 +702,14 @@ Showing ourselves as having come out of slavery demands that we act in such a wa
 Hamotzi thanks God for bringing bread from the earth. This bread results from a partnership between God and humanity: God provides the raw materials and people harvest, grind, and bake. So too must we remember that combating human trafficking requires partnerships: among survivors, allies, lawyers, social workers, law enforcement, diplomats, people of faith…the circles of involvement are ever-expanding.
 
 <table style="margin-left: auto;margin-right: auto;"><tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה ה’ אֱלֹהֵינוּ מֶלֶך הָעוֹלָם הַמּוֹצִיא לֶחֶם מִן הָאָרֶץ.
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Baruch Atah Adonai, Eloheinu Melech ha’olam, hamotzi lechem min ha’aretz.
 
@@ -725,13 +725,13 @@ Blessed are You ETERNAL our God, Master of time and space, who brings forth brea
 - Rabbi Menachem Creditor, Congregation Netivot Shalom, Berkeley, CA</blockquote>
 
 <table style="margin-left: auto;margin-right: auto;"><tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה ה’ אֱלֹהֵינוּ מֶלֶך הָעוֹלָם אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֺתָיו וְצִוָּנוּ עַל נְטִילַת יָדָיִּם.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Baruch Atah Adonai, Eloheinu Melech ha’olam, asher kidshanu bemitzvotav vetzivanu al netilat yadayim.
 
@@ -836,13 +836,13 @@ The Conservative Movement recognizes many varieties of Equal Exchange dark choco
 In the third paragraph of Birkat haMazon (Rachem…), we appeal to God for our most basic needs—sustenance and shelter. We pray,
 
 <table style="margin-left: auto;margin-right: auto;"><tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 ונָא אַל-תַּצְרִיכֵנו ה’ האֱלֹהֵינוּ לֹא לִידֵי מַתְּנַת בָּשָׂר וָדָם וְלֹא לִידֵי הַלְוָאָתָם.‏
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Please do not make us depend, Adonai our God, on the gifts of flesh and blood or their loans.
 </div>
@@ -867,13 +867,13 @@ While in context this means gifts or loans from other people, it could also be u
 <em>Pour the third cup.</em> (Those wishing to say the full birkat hamazon can find its text easily in whatever siddur or bentsher is handy.)
 
 <table style="margin-left: auto;margin-right: auto;"><tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
  בריך רחמנא מלכא דעלמא מריה דהאי פיתא
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Brich rachamana malka d’alma marei d’hai pita.
 
@@ -885,7 +885,7 @@ Blessed is the Merciful One, Sovereign of the world, Master of this bread.
 This one-line Aramaic blessing can be used as a shorthand form of birkat hamazon under less-than-ideal circumstances (b’di avad). It has its origins in this Talmudic discussion about the shortest text that fulfills one’s obligation to say a blessing after eating (Brachot 40b):
 
 <table style="margin-left: auto;margin-right: auto;"><tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="commentary" lang="he">
 בנימין רעיא כרך ריפתא ואמר בריך מריה דהאי פיתא אמר רב יצא
 והאמר רב כל ברכה
@@ -894,7 +894,7 @@ This one-line Aramaic blessing can be used as a shorthand form of birkat hamazon
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Benjamin the shepherd made a sandwich and said, “Blessed is the Master of this bread.” Rav said he fulfilled his obligation. [Really?] But hasn’t Rav said, “Any blessing which does not mention the divine name is not a blessing”? Rather, [Benjamin] said, “Blessed is the Merciful One, Master of this bread.”
 </div>
@@ -925,7 +925,7 @@ And may we work to make that day happen with open hearts, committed hands, and a
 - Rabbi Susan Goldberg, Wiltshire Boulevard Temple, Los Angeles, CA</blockquote>
 
 <table style="margin-left: auto;margin-right: auto;"><tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֵלִיָּהוּ הַנָּבִיא
 אֵלִיָּהוּ הַתִּשְׁבִּי
@@ -935,7 +935,7 @@ And may we work to make that day happen with open hearts, committed hands, and a
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Eliyahu ha-navi, 
 Eliahu ha-Tishbi,
@@ -966,7 +966,7 @@ Instead of pouring out wrath, let us pour forth love, forgiveness and peace – 
 - Rabbi Leila Gal Berner</blockquote>
 
 <table style="margin-left: auto;margin-right: auto;"><tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מִרְיָם הַנְּבִיאָה
 עֹז וְזִמְרָה בְּיָדָהּ
@@ -979,7 +979,7 @@ Instead of pouring out wrath, let us pour forth love, forgiveness and peace – 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Miriam ha-neviah, oz v’zimra beyada,
 Miriam tirkod itanu lehagdil zimrat olam,
@@ -1021,13 +1021,13 @@ I was honored to partner with Damayan, a worker-run organization of smart, power
 The authors of the seder chose this moment to express their anger at the dangerous anti-Semitic world they lived in. While such anger may need a new target today, that does not mean it has no place at the table. Rabbi Mishael Zion, Co-Director of the Bronfman Youth Fellowships in Israel, teaches that the seder’s two door-openings are fundamentally opposites. When we opened the door at Ha Lachma Anya, we focused on local injustice; we, from our position of privilege, are the ones capable of feeding those who are hungry. Here, late in the seder, we open ourselves up to the massive injustices that affect the entire world. We give ourselves permission to name our anger at the fact that slavery still exists in the 21st century, to recognize our limitations, and to cry out, asking God to show up as an avenger of injustice. In the words of Psalm 94, the Psalm for Wednesday:
 
 <table style="margin-left: auto;margin-right: auto;"><tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֵל נְקָמוֹת ה’ אֵל נְקָמוֹת הוֹפִיעַ!‏
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 God of vengeance, Adonai; God of vengeance, appear!
 </div>
@@ -1058,7 +1058,7 @@ Listen: [youtube https://www.youtube.com/watch?v=ZHp-jcPlKIY]
 Hebrew based on Rebbe Nachman of Breslov, Likutei Moharan 48
 
 <table style="margin-left: auto;margin-right: auto;"><tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 כָּל הָעוֹלָם כֻּלוּ
 גֶשֶׁר צַר מְּאֹד וְהָעִיקָר 
@@ -1066,7 +1066,7 @@ Hebrew based on Rebbe Nachman of Breslov, Likutei Moharan 48
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Kol haolam kulo
 gesher tzar me’od
@@ -1101,7 +1101,7 @@ We are marching in the light of God.
 <em>Listen:</em> [youtube https://www.youtube.com/watch?v=_am5crjgCCE]
 
 <table style="margin-left: auto;margin-right: auto;"><tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אָנָּא ה’ה
 הוֹשִׁיעָה נָּא ה
@@ -1110,7 +1110,7 @@ We are marching in the light of God.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Ana Adonai
 Hoshia Nah
@@ -1154,7 +1154,7 @@ Listen: https://www.youtube.com/watch?v=l04yM7-BWbg
 <em>Bless and drink the fourth cup.</em>
 
 <table style="margin-left: auto;margin-right: auto;"><tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אִם אֵין אֲנִי לִי, מִי לִי?
 וּכְשֶאֲנִי לְעַצְמִי, מָה אֲנִי?
@@ -1162,7 +1162,7 @@ Listen: https://www.youtube.com/watch?v=l04yM7-BWbg
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Im ein ani li, mi li?
 Uch’she-ani le-atzmi mah ani?
@@ -1172,7 +1172,7 @@ Ve-im lo achshav eimatai, eimatai?
 </tbody></table>
 
 <table style="margin-left: auto;margin-right: auto;"><tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 בְּכָל דוֹר וָדוֹר 
 חַיָּב אָדָם לִרְאוֹת אֶת עַצְמוֹ
@@ -1180,7 +1180,7 @@ Ve-im lo achshav eimatai, eimatai?
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Bechol dor vador 
 chayav adam lirot et atzmo 
@@ -1194,7 +1194,7 @@ By Mosh ben Ari and Sheva
 from Psalm 115:1
 
 <table style="margin-left: auto;margin-right: auto;"><tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 עוֹד יָבֹא
 שָׁלוֹם עָלֵינוּ
@@ -1203,7 +1203,7 @@ from Psalm 115:1
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Od yavo
 shalom aleinu
@@ -1220,7 +1220,7 @@ your love and your truth.
 </tbody></table>
 
 <table style="margin-left: auto;margin-right: auto;"><tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 לֹא לָנוּ ה’ה
 לֹא לָנוּ
@@ -1229,7 +1229,7 @@ your love and your truth.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Lo lanu Adonai
 lo lanu
@@ -1245,13 +1245,13 @@ Ki leshimcha ten kavod al chasdecha al amitecha
 <h3>נִרְצָה Nirtzah</h3>
 
 <table style="margin-left: auto;margin-right: auto;"><tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 כֵּן בְּנוֹת צְלָפְחָד דֹּבְרֹת
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Ken b’not Tzlofchad dovrot.
 
@@ -1359,13 +1359,13 @@ Here’s how you can start....
 There are many other ways to get involved. For more suggestions, visit <a href="http://www.truah.org/slaveryhandbook">T'ruah</a>.
 
 <table style="margin-left: auto;margin-right: auto;"><tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 לְשָׁנָה הַבָּאָה בִּירוּשָׁלָיִם!
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Next year in Jerusalem–in a renewed world where all are free.
 </div>

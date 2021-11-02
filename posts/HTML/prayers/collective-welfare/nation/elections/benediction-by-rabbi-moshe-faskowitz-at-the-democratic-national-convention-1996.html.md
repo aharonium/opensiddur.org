@@ -15,7 +15,7 @@ Jefferson's immortal and inspired phrases, that all men are created equal and th
 The fact is that we live in a world that has yet to embrace this eclectic principle universally. Too much suffering too much pain too much war and too much despair. We live in a world in which our most cherished spiritual and intellectual values are frequently disparaged and adherence to faith and humane values are too often mocked and dismissed. We live in a world in which policies and programs for the benefit of humanity are proclaimed, but the people themselves are apt to be forgotten. It is imperative that we bear in mind that the Democratic party has always reminded this country of the better angels of our nature, of our responsibility to protect the less fortunate, the poor, of the sick, the aged, and the disadvantaged, and to guarantee them the opportunity to enjoy the God-given blessings of this country. The Democratic party has always recognized that the greatness of our country lies in appreciating the right of each of its people to life, liberty, and the pursuit of happiness, no matter what their race or gender, their ethnic backgrounds or religious beliefs. Now standing on the threshold of the 21st century as an entire world turns to us for inspiration and leadership, the United States faces the challenge of translating these ancient and historic visions into a contemporary reality. Let us then pray.</blockquote>
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
@@ -56,7 +56,7 @@ This is the full text of Rabbi Moshe Faskowitz’s benediction offered at the De
 
 <h3>Source(s)</h3>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.c-span.org/video/standalone/?c4899574/rabbi-moshe-faskowitz-1996-democratic-convention" width="512" height="330"]
+<iframe width=530 height=312 src='https://www.c-span.org/video/standalone/?c4899574/rabbi-moshe-faskowitz-1996-democratic-convention' allowfullscreen='allowfullscreen' frameborder=0></iframe>[su_spacer]
 
 &nbsp;
 </body>

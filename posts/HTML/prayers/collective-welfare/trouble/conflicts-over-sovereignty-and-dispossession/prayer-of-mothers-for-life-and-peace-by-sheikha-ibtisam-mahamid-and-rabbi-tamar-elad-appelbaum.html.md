@@ -1,39 +1,39 @@
 <html>
 <head></head>
 <body>
-Title: תפילה למעמד המשותף | أغنية الحياة والسلام | Prayer of Mothers for Life and Peace by Sheikha Ibtisam Maḥameed & Rabbi Tamar Elad-Appelbaum<br />
+Title: תפילה למעמד המשותף | أغنية الحياة والسلام | Prayer of Mothers for Life and Peace, by Sheikha Ibtisam Maḥameed & Rabbi Tamar Elad-Appelbaum<br />
 Primary contributor: amichai.lau-lavie<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=9158">http://opensiddur.org/?p=9158</a>
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: right;">Source (Arabic)</th><th style="text-align: left;">Translation (English)</th><th style="text-align: left;">Translation (German)</th></tr></thead>
 <tbody>
 <tr>
 <td style="vertical-align:top;"">
-<div class="liturgy" lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 תפילה למעמד המשותף
 </span></div></td>
  
 <td style="vertical-align:top;"">
-<div class="arabic" lang="ar">
+<div class="arabic" lang="ar" style="text-align: right;">
 أغنية الحياة والسلام
 </span></div></td>
  
 <td style="vertical-align:top;"">
-<div class="english" lang="en">
+<div class="english" lang="en" style="text-align: left;">
 <u>Prayer of Mothers for Life and Peace</u>
 </td>
  
 <td style="vertical-align:top;"">
-<div class="german" lang="de">
+<div class="german" lang="de" style="text-align: left;">
 <u>Gebet der Mütter für Leben und Frieden</u>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;"">
-<div class="liturgy" lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 מלך חפץ בחיים
 הרופא לשבורי לב ומחבש לעצבותם
 שמע נא תפילת אמהות
@@ -44,7 +44,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;"">
-<div class="arabic" lang="ar">
+<div class="arabic" lang="ar" style="text-align: right;">
 صلاة مشتركة
 اله الحياة
 الذي يُشفي القلوب الحزينة والمتألمة
@@ -56,7 +56,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;"">
-<div class="english" lang="en">
+<div class="english" lang="en" style="text-align: left;">
 God of Life
 Who heals the broken hearted and binds up their wounds
 May it be your will to hear the prayer of mothers
@@ -67,7 +67,7 @@ Your name of Life, your name of Peace in this world.
 </td>
  
 <td style="vertical-align:top;"">
-<div class="german" lang="de">
+<div class="german" lang="de" style="text-align: left;">
 König des Lebens
 Der die gebrochenen Herzen heilt und ihre Wunden verbindet.
 Höre doch das Gebet von Müttern.
@@ -79,7 +79,7 @@ Deinen Namen des Lebens, Deinen Namen des Friedens zu heiligen.
 
 
 <tr><td style="vertical-align:top;"">
-<div class="liturgy" lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 על אלה אני בוכיה עיני עיני יורדה מים
 על ילדים בוכים מפחד בלילות
 על הורים אוחזים עולליהם וייאוש ואפלה בלבם
@@ -87,7 +87,7 @@ Deinen Namen des Lebens, Deinen Namen des Friedens zu heiligen.
 </span></div></td>
  
 <td style="vertical-align:top;"">
-<div class="arabic" lang="ar">
+<div class="arabic" lang="ar" style="text-align: right;">
 على جميع هؤلاء أنا أبكي دوماً 
 أبكي خوفاً على الأطفال في الليالي
 يحمل الآباء أطفالهم الصغار واليأس والظلام في قلوبهم
@@ -95,7 +95,7 @@ Deinen Namen des Lebens, Deinen Namen des Friedens zu heiligen.
 </span></div></td>
  
 <td style="vertical-align:top;"">
-<div class="english" lang="en">
+<div class="english" lang="en" style="text-align: left;">
 For these things I weep, my eye, my eye runs down with water
 For our children crying at nights,
 For parents holding their children with despair and darkness in their hearts
@@ -103,7 +103,7 @@ For a gate that is closing and who will open it while day has not yet dawned.
 </td>
  
 <td style="vertical-align:top;"">
-<div class="german" lang="de">
+<div class="german" lang="de" style="text-align: left;">
 Darum weine ich: Mein Aug', mein Aug' - mit Wasser überfließt es.
 Über unsere Kinder, weinend in der Nacht,
 Über die Eltern, ihre Kinder festhaltend mit 
@@ -115,7 +115,7 @@ die Morgendämmerung anbricht?
 
 
 <tr><td style="vertical-align:top;"">
-<div class="liturgy" lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 ובדמעות ובתפלות שאני מתפללת כל הזמן
 ובדמעות כל הנשים שכואבות את הכאב החזק בזמן הקשה הזה
 הריני מרימה את ידיי למעלה אנא ממך אדוני רחם עלינו
@@ -127,7 +127,7 @@ die Morgendämmerung anbricht?
 </span></div></td>
  
 <td style="vertical-align:top;"">
-<div class="arabic" lang="ar">
+<div class="arabic" lang="ar" style="text-align: right;">
 وبالدموع والصلوات التي أصليها طيلة الوقت
 وبدموع النساء اللواتي يشعرن بهذا الألم القوي في هذه الأوقات العصيبة
 أنا أرفع يدي اليك يا ربي أن ترحمنا
@@ -138,7 +138,7 @@ die Morgendämmerung anbricht?
 </span></div></td>
  
 <td style="vertical-align:top;"">
-<div class="english" lang="en">
+<div class="english" lang="en" style="text-align: left;">
 And with my tears and prayers which I pray
 And with the tears of all women who deeply feel the pain of these difficult days
 I raise my hands to you please God have mercy on us
@@ -150,7 +150,7 @@ That we shall hope for each other
 </td>
  
 <td style="vertical-align:top;"">
-<div class="german" lang="de">
+<div class="german" lang="de" style="text-align: left;">
 Und mit meinen Tränen und Gebeten, die ich bete
 Und mit den Tränen aller Frauen, die die 
 Schmerzen dieser schweren Tage tief empfinden,
@@ -164,7 +164,7 @@ Damit wir Hoffnung füreinander haben.
 
 
 <tr><td style="vertical-align:top;"">
-<div class="liturgy" lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 ונכתוב את חיינו בספר החיים
 למענך אלהים חיים.
 תן שנבחר בחיים.
@@ -173,7 +173,7 @@ Damit wir Hoffnung füreinander haben.
 </span></div></td>
  
 <td style="vertical-align:top;"">
-<div class="arabic" lang="ar">
+<div class="arabic" lang="ar" style="text-align: right;">
 ولكي نكتب قصة حياتنا في كتاب الحياة
 من أجلك يا اله الحياة
 امنحنا أن نختار الحياة
@@ -182,7 +182,7 @@ Damit wir Hoffnung füreinander haben.
 </span></div></td>
  
 <td style="vertical-align:top;"">
-<div class="english" lang="en">
+<div class="english" lang="en" style="text-align: left;">
 And we shall write our lives in the book of Life
 For your sake God of Life
 Let us choose Life.
@@ -192,7 +192,7 @@ And so shall be your will and let us say <em>Amen</em>.
 </td>
  
 <td style="vertical-align:top;"">
-<div class="german" lang="de">
+<div class="german" lang="de" style="text-align: left;">
 Und wir werden unsere Leben ins Buch des Lebens schreiben.
 Um Deinetwillen, G-tt des Lebens,
 Lass uns das Leben wählen.

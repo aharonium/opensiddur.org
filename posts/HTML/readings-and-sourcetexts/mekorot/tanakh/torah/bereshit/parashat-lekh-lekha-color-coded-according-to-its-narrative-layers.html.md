@@ -21,7 +21,7 @@ According to the poetry of the Midrash Tanchuma, Bereshit 1:1, the words of the 
 Parashat Lekh Lekha (Genesis 12:1-17:27) in the annual Torah reading cycle, is read on the second shabbat of the month of Marḥeshvan. The parashah is preceded by <a href="https://opensiddur.org/liturgical-readings/torah-readings/annual-cycle/sefer-bereshit/parashat-noah/parashat-noah-color-coded-according-to-its-narrative-layers/">Parashat Noaḥ</a> (Genesis 6:9-11:32); <a href="https://opensiddur.org/liturgical-readings/torah-readings/annual-cycle/sefer-bereshit/parashat-vayera/parashat-vayera-color-coded-according-to-its-narrative-layers/">parashat Vayera</a> (Genesis 19:1-23) follows it.
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

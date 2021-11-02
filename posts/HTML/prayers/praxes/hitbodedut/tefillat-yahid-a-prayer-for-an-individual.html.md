@@ -7,11 +7,11 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 ה׳ אלקי ואלקי אבותי ואמותי,
  כשם שאני עומד בתוך חדרי חדרים ומתפלל,
@@ -28,7 +28,7 @@ For attribution and license, please consult the following URL: <a href="http://o
  שערי תפילה.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 God and God of my forefathers and foremothers, 
 as I stand here in an innermost room and pray, 
 so too should you in an innermost room heed my questions, 

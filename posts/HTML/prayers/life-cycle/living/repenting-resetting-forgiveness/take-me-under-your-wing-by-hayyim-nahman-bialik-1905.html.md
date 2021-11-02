@@ -7,21 +7,21 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הַכְנִיסִינִי תַּחַת כְּנָפֵךְ
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <h3>Take Me Under Your Wing</h3>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הַכְנִיסִינִי תַּחַת כְּנָפֵךְ,
 וַהֲיִי לִי אֵם וְאָחוֹת,
@@ -29,7 +29,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 קַן־תְּפִלּוֹתַי הַנִּדָּחוֹת.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Take me under your wing, 
 be my mother, my sister.
@@ -38,7 +38,7 @@ my banished prayers to your nest.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וּבְעֵת רַחֲמִים, בֵּין־הַשְּׁמָשׁוֹת,
 שְׁחִי וַאֲגַל לָךְ סוֹד יִסּוּרָי:
@@ -46,7 +46,7 @@ my banished prayers to your nest.
 הֵיכָן נְעוּרָי?
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 One merciful twilight hour, 
 hear my pain, bend your head.
@@ -55,7 +55,7 @@ Where has my youth fled?
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְעוֹד רָז אֶחָד לָךְ אֶתְוַדֶּה:
 נַפְשִׁי נִשְׂרְפָה בְלַהֲבָהּ;
@@ -63,7 +63,7 @@ Where has my youth fled?
 מַה־זֹּאת אַהֲבָה?
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Listen! another secret:
 I have been seared by a flame.
@@ -72,7 +72,7 @@ How do we know love’s name?
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הַכּוֹכָבִים רִמּוּ אוֹתִי,
 הָיָה חֲלוֹם – אַךְ גַּם הוּא עָבָר;
@@ -80,7 +80,7 @@ How do we know love’s name?
 אֵין לִי דָבָר.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 I was deceived by the stars.
 There was a dream; it passed.
@@ -89,7 +89,7 @@ nothing but a vast waste.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הַכְנִיסִינִי תַּחַת כְּנָפֵךְ,
 וַהֲיִי לִי אֵם וְאָחוֹת,
@@ -97,7 +97,7 @@ nothing but a vast waste.
 קַן־תְּפִלּוֹתַי הַנִּדָּחוֹת.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Take me under your wing, 
 be my mother, my sister.

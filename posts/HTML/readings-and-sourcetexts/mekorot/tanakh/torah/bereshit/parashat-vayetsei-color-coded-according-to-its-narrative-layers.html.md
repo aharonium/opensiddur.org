@@ -21,7 +21,7 @@ According to the poetry of the Midrash Tanchuma, Bereshit 1:1, the words of the 
 Parashat Vayetsei (Genesis 28:10-32:3) in the annual Torah reading cycle, is read on the first shabbat of the month of Kislev. The parashah is preceded by <a href="https://opensiddur.org/readings-and-sourcetexts/torah-readings/annual-cycle/sefer-bereshit/parashat-toldot/parashat-toldot-color-coded-according-to-its-narrative-layers/">Toldōt</a> (Genesis 25:19-28:9); parashat <a href="https://opensiddur.org/readings-and-sourcetexts/torah-readings/annual-cycle/sefer-bereshit/parashat-vayishlah/parashat-vayishlah-color-coded-according-to-its-narrative-layers/">Vayishlaḥ</a> (Genesis 32:4-36:43) follows it.
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align: top;"><div class="liturgy" lang="he">

@@ -7,21 +7,21 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Yiddish (translation)</th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="yiddish" lang="yi">
 דער נײער קאָלאסוס
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <span style="text-transform: uppercase;">The New Collosus</span>[foot]Written in aid of Bartholdi Pedestal Fund 1883[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="yiddish" lang="yi">
 ניט װי דער בארימטער, חוצפּהדיקער גריכישער גיגאנט
 מיט די צװינגענדיקע פיס צעשפּרײט פון לאנד צו לאנד,
@@ -33,7 +33,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 דעם פּאָרט אונטערן הענג־בריק פון צװילינג־שטעט אן אײנגעראמטן װי א בילד:
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Not like the brazen giant of Greek fame,
 With conquering limbs astride from land to land;
@@ -46,7 +46,7 @@ The air-bridged harbor that twin cities frame.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="yiddish" lang="yi">
 ״האלט זיך, פארצײטיקע לענדער, מיט אײער אויפגעבלאָזענער פּאָמפּאדע!״
 פּראָקלאמירט זי מיט שװײגנדיקע ליפּן: אייערע ארעמע, די מידע, גיט זײ מיר,
@@ -56,7 +56,7 @@ The air-bridged harbor that twin cities frame.
 איך הויב־אויף מײן לאָמפּ איבער דער גאָלדענער טיר.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 "Keep, ancient lands, your storied pomp!" cries she
 With silent lips. "Give me your tired, your poor,
@@ -72,7 +72,7 @@ I lift my lamp beside the golden door!"
 This is the sonnet, "The New Collosus" (1883) by Emma Lazarus set side-by-side with its Yiddish translation by Rachel Kirsch Holtman. The translation appears in a section dedicated to Emma Lazarus in Holtman's 1938 work, <em>Fir Barimte Froyen</em> (Four Famous Women). Lazarus famously penned her sonnet in response to the waves of Russian-Jewish refugees seeking refuge in the Unites States of America as a result of murderous Russian pogroms following the assassination of Tsar Alexander II in 1881. Her identification and revisioning of the Statue of Liberty as the Mother of Exiles points to the familiar Jewish identification of the Shekhinah (the Divine Presence, in its feminine aspect) with the light of the Jewish people in their Diaspora, as found in the Talmud Bavli, tractate Megillah 29a.4:
 
 <blockquote>
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <tbody>
 <tr><td style="vertical-align:top;">
 <div class="commentary" lang="he">

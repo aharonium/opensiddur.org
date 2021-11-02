@@ -7,10 +7,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אוי לי אמי ילידתיני בן זכר
 הפסדתי הפסד מרובה ויצא כל שכר
@@ -28,7 +28,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 לא מלו
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Woe to me, my mother, that you ever bore a son. 
 What a great loss and no gain!
@@ -47,7 +47,7 @@ they were not circumcised.[foot]CF. Joshua 5:5, in which the men born of the Exo
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 ארור האיש אשר בשר את אבי 
 יולד לך בן 
@@ -67,7 +67,7 @@ they were not circumcised.[foot]CF. Joshua 5:5, in which the men born of the Exo
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Cursed be the one who announced to my father: 
 "It's a boy![foot]Jeremiah 20:15[/foot]&nbsp;
@@ -87,7 +87,7 @@ He altered the law and transposed the lines[foot]Reading וְשָׁטָה as a v
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אוי למי שבניו זכרים: 
 הוטל עליהם עול כבד סיגים וגדרים
@@ -109,7 +109,7 @@ He altered the law and transposed the lines[foot]Reading וְשָׁטָה as a v
 ספרא וספרי תוספתא וכלא תלמודא
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Woe to him who has male sons 
 Upon them a heavy yoke has been placed of restrictions and constraints.
@@ -132,7 +132,7 @@ Sifra, Sifri, Tosefta, and the entire Talmud
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 והחכמה עמודיה שבעה
 אל על ינשאו מהר וגבעה
@@ -155,7 +155,7 @@ Sifra, Sifri, Tosefta, and the entire Talmud
 מי ימלל גבורות
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Seven are the pillars of wisdom.[foot]a/k/a the <em>Paideia</em>. The seven classical liberal arts were the Trivium: Grammar, Dialectic (logic), and Rhetoric; and the Quadrivium: Arithmetic, Geometry, Astronomy, Music.[/foot]&nbsp;
 They soar far above any mountain or hill. 
@@ -179,7 +179,7 @@ who can express such fortitude?
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 כמה לקה באצבע
 וכמה בחרפה ישבע
@@ -188,7 +188,7 @@ who can express such fortitude?
 טוב ישאהו עושהו
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 How badly was he stricken by the finger 
 how much shame must he put up with, 
@@ -198,7 +198,7 @@ Better who carries him than creates him!
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אלו בראני, אומן שעשאני, אשה הגונה - 
 היום הייתי חכמת לב ובעלת בינה. 
@@ -216,7 +216,7 @@ Better who carries him than creates him!
 צבע רקמתים ומחטא דתלמיותא
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Oh, but had the artisan who made me created me instead - a worthy woman. 
 Today I would be wise and insightful. 
@@ -235,7 +235,7 @@ colorful embroideries and furrow-like stitches."
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 ולעתים מזומנות 
 כדרך נשים כמשפט הבנות, 
@@ -248,7 +248,7 @@ colorful embroideries and furrow-like stitches."
 את התוף בידי מנענעים וצלצלים
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And oft-times, 
 in the way of women, 
@@ -262,7 +262,7 @@ I would beat on the drum and my clapping hands would ring.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 ולקץ ימים בהגיע פרקי ומזלי, 
 בחור טוב יעלה בגורלי: 
@@ -276,7 +276,7 @@ I would beat on the drum and my clapping hands would ring.
 ולצמאי ישקני יין גדלי או יין חרדלי
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And when I was ready and the time was right 
 an excellent youth (husband) would be my fortune. 
@@ -291,7 +291,7 @@ Were I thirsty, he would quench me with light and dark wine
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 חוק ומוסר לא יפרע, 
 ועונתי לא יגרע: 
@@ -308,7 +308,7 @@ Were I thirsty, he would quench me with light and dark wine
 הני נשים במאי זכיין? 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 He would not chastise nor harshly treat me, 
 and my [sexual] pleasure he would not diminish 
@@ -326,7 +326,7 @@ or to inquire about them:
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אבינו שבשמים 
 שעשית נסים לאבותינו באש ובמים 
@@ -344,7 +344,7 @@ or to inquire about them:
 וחניתי לביתי מצבא 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Father in heaven  
 who did miracles for our ancestors with fire and water 
@@ -363,7 +363,7 @@ exempt from military service!
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 ומה אדבר ומה אמר 
 למה אבכה ולמה אתמרמר 
@@ -379,7 +379,7 @@ exempt from military service!
 ברוך אתה יי שלא עשני אשה.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 What shall I say? 
 why cry or be bitter? 

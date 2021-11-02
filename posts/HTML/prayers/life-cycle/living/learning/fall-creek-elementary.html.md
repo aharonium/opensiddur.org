@@ -7,42 +7,42 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 כֻּלָּנוּ עַם אֶחָד
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 We are all one people
 	</div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+<tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 עוֹלָם שֶׁל מִשְׁפַּחַת אַחַת
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 A world of one family
 	</div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+<tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 יֵשׁ רַק שָׂפָה אַחַת
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 There is only one language
 	</div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+<tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 וְאוֹתָהּ מִדְּבָרִים הַיְּלָדִים׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 and the children speak it.
 </td></tr>
 </tbody></table>

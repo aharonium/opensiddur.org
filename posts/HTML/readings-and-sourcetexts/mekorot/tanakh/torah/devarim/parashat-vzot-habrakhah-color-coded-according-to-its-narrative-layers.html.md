@@ -25,7 +25,7 @@ According to the poetry of the Midrash Tanḥuma, Bereshit 1:1, the words of the
 Parashat v'Zōt haBrakhah (Deuteronomy 33:1-34:12) in the annual Torah reading cycle is the eleventh and final parashah in Sefer Devarim. It is preceded by parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-devarim/parashat-haazinu/parashat-haazinu-color-coded-according-to-its-narrative-layers/">Haazinu</a> (Deuteronomy 32:1-52). Parashat <a href="https://opensiddur.org/readings-and-sourcetexts/mekorot/tanakh/torah/bereshit/parashat-bereshit-color-coded-according-to-its-narrative-layers/">Bereshit</a> (Genesis 1:1-6:8), the first parashah in the Pentateuch, follows it. The story of the conquest of the land of K'naan under the leadership of Yehoshua ben Nun continues in the book of Yehoshua (Joshua).
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

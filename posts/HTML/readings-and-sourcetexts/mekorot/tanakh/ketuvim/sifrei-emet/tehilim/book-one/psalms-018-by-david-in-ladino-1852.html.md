@@ -7,10 +7,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: right;">Translation (Ladino)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 <sup>א</sup>&nbsp;לַמְנַצֵּ֤חַ ׀ 
 לְעֶ֥בֶד יְהוָ֗ה 
@@ -21,7 +21,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad">
 <sup>1</sup>&nbsp;אל פרימיר קאנטאדﬞור. 
 דיל סיירבﬞו די ה׳, 
@@ -34,7 +34,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>ב</sup>&nbsp;וַיֹּאמַ֡ר 
 אֶרְחָמְךָ֖ 
@@ -42,7 +42,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad">
 <sup>2</sup>&nbsp;אי דישﬞו. 
 טי אמארי, 
@@ -52,7 +52,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>ג</sup>&nbsp;יְהוָ֤ה ׀ סַֽלְעִ֥י וּמְצוּדָתִ֗י 
 וּמְפַ֫לְטִ֥י 
@@ -63,7 +63,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad">
 <sup>3</sup>&nbsp;ה׳ מי פינייה אי מי אינקאסטילייאדﬞורה, 
 אי מי איסקאפאדﬞור, 
@@ -76,7 +76,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>ד</sup>&nbsp;מְ֭הֻלָּל אֶקְרָ֣א יְהוָ֑ה 
 וּמִן־אֹ֝יְבַ֗י 
@@ -84,7 +84,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad">
 <sup>4</sup>&nbsp;לייאמארי אה ה׳, 
 איל אלאבﬞאדﬞו. 
@@ -94,14 +94,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>ה</sup>&nbsp;אֲפָפ֥וּנִי חֶבְלֵי־מָ֑וֶת 
 וְֽנַחֲלֵ֖י בְלִיַּ֣עַל יְבַֽעֲתֽוּנִי׃
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad">
 <sup>5</sup>&nbsp;מי רודﬞיארון קואירדאס די מואירטי, 
 אי ארוייוס די טורטאבﬞינייו מי אטורבﬞארון׃
@@ -110,14 +110,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>ו</sup>&nbsp;חֶבְלֵ֣י שְׁא֣וֹל סְבָב֑וּנִי 
 קִ֝דְּמ֗וּנִי מ֣וֹקְשֵׁי מָֽוֶת׃
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad">
 <sup>6</sup>&nbsp;לאס קואירדאס די לה פﬞוייה מי רודﬞיארון. 
 מי אקונאנטארון לאזוס די מואירטי׃
@@ -126,7 +126,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>ז</sup>&nbsp;בַּצַּר־לִ֤י ׀ אֶֽקְרָ֣א יְהוָה֮ 
 וְאֶל־אֱלֹהַ֪י אֲשַׁ֫וֵּ֥עַ 
@@ -135,7 +135,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad">
 <sup>7</sup>&nbsp;אין מי אנגוסטייה לייאמו אה ה׳, 
 אי אה מי דייו איסקלאמו. 
@@ -146,7 +146,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>ח</sup>&nbsp;וַתִּגְעַ֬שׁ וַתִּרְעַ֨שׁ ׀ הָאָ֗רֶץ 
 וּמוֹסְדֵ֣י הָרִ֣ים יִרְגָּ֑זוּ וַ֝יִּתְגָּֽעֲשׁ֗וּ 
@@ -154,7 +154,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad">
 <sup>8</sup>&nbsp;אי סי קונמובﬞייו אי טימבלו לה טיירה. 
 אי לוס סימיינטוס די לוס מונטיס סי איסטרימיסיירון אי סי קונמובﬞיירון, 
@@ -164,14 +164,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>ט</sup>&nbsp;עָ֘לָ֤ה עָשָׁ֨ן ׀ בְּאַפּ֗וֹ וְאֵשׁ־מִפִּ֥יו תֹּאכֵ֑ל 
 גֶּ֝חָלִ֗ים בָּעֲר֥וּ מִמֶּֽנּוּ׃
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad">
 <sup>9</sup>&nbsp;סובﬞייו אומו די סו נאריז אי פﬞואיגו די סו בוקה ארדייו. 
 בראזאס סי אינסינדיירון די איל:
@@ -180,14 +180,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>י</sup>&nbsp;וַיֵּ֣ט שָׁ֭מַיִם וַיֵּרַ֑ד 
 וַ֝עֲרָפֶ֗ל תַּ֣חַת רַגְלָֽיו׃
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad">
 <sup>10</sup>&nbsp;אי אקוסטו לוס סיילוס אי דיסינדייו. 
 אי נובﬞלאדﬞו איספיסו דיבאשﬞו די סוס פייס:
@@ -196,14 +196,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>יא</sup>&nbsp;וַיִּרְכַּ֣ב עַל־כְּ֭רוּב וַיָּעֹ֑ף 
 וַ֝יֵּ֗דֶא עַל־כַּנְפֵי־רֽוּחַ׃
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad">
 <sup>11</sup>&nbsp;אי קאבﬞאלייו סובﬞרי כרוב אי בולו. 
 אי בולו סובﬞרי אלאס די בﬞיינטו:
@@ -212,7 +212,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>יב</sup>&nbsp;יָ֤שֶׁת חֹ֨שֶׁךְ ׀ סִתְר֗וֹ 
 סְבִֽיבוֹתָ֥יו סֻכָּת֑וֹ 
@@ -221,7 +221,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad">
 <sup>12</sup>&nbsp;פוזו איסקורידﬞאדﬞ פור סו קובﬞיירטה. 
 דירידﬞור די איל פור סו קאבﬞנייה, 
@@ -232,14 +232,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>יג</sup>&nbsp;מִנֹּ֗גַהּ נֶ֫גְדּ֥וֹ עָבָ֥יו עָבְר֑וּ 
 בָּ֝רָ֗ד וְגַֽחֲלֵי־אֵֽשׁ׃
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad">
 <sup>13</sup>&nbsp;פור איל ריספלאנדור דילאנטי די איל סוס נובﬞיס פאסארון. 
 פידﬞריסקו אי בראזאס די פﬞואיגו:
@@ -248,7 +248,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>יד</sup>&nbsp;וַיַּרְעֵ֬ם בַּשָּׁמַ֨יִם ׀ יְֽהוָ֗ה 
 וְ֭עֶלְיוֹן יִתֵּ֣ן קֹל֑וֹ 
@@ -256,7 +256,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad">
 <sup>14</sup>&nbsp;אי ה׳ איזו סונאר טרואינוס אין לוס סיילוס. 
 אי איל אלטיסימו דייו סו בוז. 
@@ -266,14 +266,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>טו</sup>&nbsp;וַיִּשְׁלַ֣ח חִ֭צָּיו וַיְפִיצֵ֑ם 
 וּבְרָקִ֥ים רָ֝ב וַיְהֻמֵּֽם׃
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad">
 <sup>15</sup>&nbsp;אי ארוזﬞו סוס סאאיטאס אי לוס איספארזייו. 
 אי דילאמפאגוס טירו אה מוגﬞידﬞומברי אי לוס קונטורבﬞו׃
@@ -282,7 +282,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>טז</sup>&nbsp;וַיֵּ֤רָא֨וּ ׀ אֲפִ֥יקֵי מַ֗יִם 
 וַֽיִּגָּלוּ֮ מוֹסְד֪וֹת תֵּ֫בֵ֥ל 
@@ -291,7 +291,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad">
 <sup>16</sup>&nbsp;אי פﬞואירון בﬞיסטאס קוריינטיס די אגואס. 
 פﬞואירון דיסקובﬞיירטוס לוס סימיינטוס דיל מונדו. 
@@ -302,7 +302,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>יז</sup>&nbsp;יִשְׁלַ֣ח מִ֭מָּרוֹם 
 יִקָּחֵ֑נִי 
@@ -310,7 +310,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad">
 <sup>17</sup>&nbsp;אינביאו די לה אלטורה. 
 מי טומו. 
@@ -320,7 +320,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>יח</sup>&nbsp;יַצִּילֵ֗נִי מֵאֹיְבִ֥י עָ֑ז 
 וּ֝מִשֹּׂנְאַ֗י 
@@ -328,7 +328,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad">
 <sup>18</sup>&nbsp;מי איסקאפו די מי אינימיגו פﬞואירטי. 
 אי די מיס אבוריסידﬞוריס. 
@@ -338,14 +338,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>יט</sup>&nbsp;יְקַדְּמ֥וּנִי בְיוֹם־אֵידִ֑י 
 וַֽיְהִי־יְהוָ֖ה לְמִשְׁעָ֣ן לִֽי׃
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad">
 <sup>19</sup>&nbsp;מי אקונאנטארון אין איל דיאה די מי קיבﬞראנטו. 
 אי ה׳ פואי מי סוסטינימיינטו:
@@ -354,14 +354,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>כ</sup>&nbsp;וַיּוֹצִיאֵ֥נִי לַמֶּרְחָ֑ב 
 יְ֝חַלְּצֵ֗נִי כִּ֘י חָ֥פֵֽץ בִּֽי׃
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad">
 <sup>20</sup>&nbsp;אי מי סאקו אה לה אנגﬞורה. 
 מי איסקאפו פורקי סי אינבﬞילונטו אין מי:
@@ -370,14 +370,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>כא</sup>&nbsp;יִגְמְלֵ֣נִי יְהוָ֣ה כְּצִדְקִ֑י 
 כְּבֹ֥ר יָ֝דַ֗י יָשִׁ֥יב לִֽי׃
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad">
 <sup>21</sup>&nbsp;מי גואלארדונו ה׳ סיגון מי גﬞוסטידﬞאדﬞ. 
 סיגון לה לימפייזה די מיס מאנוס טורנו ביין אה מי:
@@ -386,14 +386,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>כב</sup>&nbsp;כִּֽי־שָׁ֭מַרְתִּי דַּרְכֵ֣י יְהוָ֑ה 
 וְלֹֽא־רָ֝שַׁ֗עְתִּי מֵאֱלֹהָֽי׃
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad">
 <sup>22</sup>&nbsp;פורקי גוארדי לוס קאמינוס די ה׳. 
 אי נון מי אינמאליסי קונטרה מי דייו:
@@ -402,14 +402,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>כג</sup>&nbsp;כִּ֣י כָל־מִשְׁפָּטָ֣יו לְנֶגְדִּ֑י 
 וְ֝חֻקֹּתָ֗יו לֹא־אָסִ֥יר מֶֽנִּי׃
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad">
 <sup>23</sup>&nbsp;פורקי טודﬞוס סוס גﬞואיסייוס איסטאן דילאנטי די מי. 
 אי סוס פﬞואירוס נון טירו די מי:
@@ -418,14 +418,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>כד</sup>&nbsp;וָאֱהִ֣י תָמִ֣ים עִמּ֑וֹ 
 וָ֝אֶשְׁתַּמֵּ֗ר מֵעֲוֺנִֽי׃
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad">
 <sup>24</sup>&nbsp;אי סויי פריניזמו קון איל. 
 אי מי גוארדו די מי דיליטו:
@@ -434,14 +434,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>כה</sup>&nbsp;וַיָּֽשֶׁב־יְהוָ֣ה לִ֣י כְצִדְקִ֑י 
 כְּבֹ֥ר יָ֝דַ֗י לְנֶ֣גֶד עֵינָֽיו׃
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad">
 <sup>25</sup>&nbsp;אי טורנו ה׳ אה מי ביין סיגון מי גﬞוסטידﬞאדﬞ. 
 סיגון לה לימפייזה די מיס מאנוס דילאנטי די סוס אוזﬞוס:
@@ -450,14 +450,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>כו</sup>&nbsp;עִם־חָסִ֥יד תִּתְחַסָּ֑ד 
 עִם־גְּבַ֥ר תָּ֝מִ֗ים תִּתַּמָּֽם׃
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad">
 <sup>26</sup>&nbsp;קון איל בואינו טו סיראס בואינו. 
 קון איל בﬞארון פריניזמו טו סיראס פריניזמו:
@@ -466,14 +466,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>כז</sup>&nbsp;עִם־נָבָ֥ר תִּתְבָּרָ֑ר 
 וְעִם־עִ֝קֵּ֗שׁ תִּתְפַּתָּֽל׃
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad">
 <sup>27</sup>&nbsp;קון איל לימפייו טו סיראס לימפייו. 
 אי קון איל טואירטו טי מוסטראס טואירטו:
@@ -482,14 +482,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>כח</sup>&nbsp;כִּֽי־אַ֭תָּה עַם־עָנִ֣י תוֹשִׁ֑יעַ 
 וְעֵינַ֖יִם רָמ֣וֹת תַּשְׁפִּֽיל׃
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad">
 <sup>28</sup>&nbsp;פורקי טו סאלבﬞאס איל פואיבﬞלו פרובﬞי. 
 אי לוס אוזﬞוס אלטיגוס אבאשﬞאס:
@@ -498,14 +498,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>כט</sup>&nbsp;כִּֽי־אַ֭תָּה תָּאִ֣יר נֵרִ֑י 
 יְהוָ֥ה אֱ֝לֹהַ֗י יַגִּ֥יהַּ חָשְׁכִּֽי׃
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad">
 <sup>29</sup>&nbsp;פורקי טו אזיס אלומבראר מי קאנדיל. 
 ה׳ מי דייו איסקלאריסי מי איסקורידﬞאדﬞ:
@@ -514,14 +514,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>ל</sup>&nbsp;כִּֽי־בְ֭ךָ אָרֻ֣ץ גְּד֑וּד 
 וּ֝בֵֽאלֹהַ֗י אֲדַלֶּג־שֽׁוּר׃
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad">
 <sup>30</sup>&nbsp;פורקי קונטיגו קורו אין פונסאדﬞוס. 
 אי קון מי דייו סאלטארי סובﬞרי מוראלייאס:
@@ -530,7 +530,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>לא</sup>&nbsp;הָאֵל֮ תָּמִ֪ים דַּ֫רְכּ֥וֹ 
 אִמְרַֽת־יְהוָ֥ה צְרוּפָ֑ה 
@@ -538,7 +538,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad">
 <sup>31</sup>&nbsp;איל דייו, פריניזמו איס סו קאמינו. 
 איל דיגﬞו די ה׳ איס איזמיראדﬞו. 
@@ -548,14 +548,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>לב</sup>&nbsp;כִּ֤י מִ֣י אֱ֭לוֹהַּ מִבַּלְעֲדֵ֣י יְהוָ֑ה 
 וּמִ֥י צ֝֗וּר זוּלָתִ֥י אֱלֹהֵֽינוּ׃
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad">
 <sup>32</sup>&nbsp;פורקי, קיין איס דייו אפﬞואירה די ה׳? 
 אי קיין איס פינייה אפﬞואירה די נואיסטרו דייו?:
@@ -564,14 +564,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>לג</sup>&nbsp;הָ֭אֵל הַמְאַזְּרֵ֣נִי חָ֑יִל 
 וַיִּתֵּ֖ן תָּמִ֣ים דַּרְכִּֽי׃
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad">
 <sup>33</sup>&nbsp;איל דייו מי סיניי די פﬞואירסה. 
 אי איל איזו מי קאמינו פריניזמו:
@@ -580,14 +580,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>לד</sup>&nbsp;מְשַׁוֶּ֣ה רַ֭גְלַי כָּאַיָּל֑וֹת 
 וְעַ֥ל בָּ֝מֹתַ֗י יַעֲמִידֵֽנִי׃
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad">
 <sup>34</sup>&nbsp;איגואלאנדו מיס פייס אה לאס די לאס סיירבﬞאס. 
 אי סובﬞרי מיס אלטוראס מי אזי איסטאר:
@@ -596,14 +596,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>לה</sup>&nbsp;מְלַמֵּ֣ד יָ֭דַי לַמִּלְחָמָ֑ה 
 וְֽנִחֲתָ֥ה קֶֽשֶׁת־נְ֝חוּשָׁ֗ה זְרוֹעֹתָֽי׃
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad">
 <sup>35</sup>&nbsp;איל אמביזה מיס מאנוס אה לה פיליאה. 
 אי און ארקו די אזירו איס קורבﬞאדﬞו פור מיס בראסוס:
@@ -612,7 +612,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>לו</sup>&nbsp;וַתִּתֶּן־לִי֮ מָגֵ֪ן יִ֫שְׁעֶ֥ךָ 
 וִֽימִינְךָ֥ תִסְעָדֵ֑נִי 
@@ -620,7 +620,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad">
 <sup>36</sup>&nbsp;אי מי דיסטי איל איסקודﬞו די טו סאלבﬞאסייון. 
 אי טו דיריגﬞה מי אסופﬞרייו. 
@@ -630,14 +630,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>לז</sup>&nbsp;תַּרְחִ֣יב צַעֲדִ֣י תַחְתָּ֑י 
 וְלֹ֥א מָ֝עֲד֗וּ קַרְסֻלָּֽי׃
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad">
 <sup>37</sup>&nbsp;אינסאנגﬞאסטי מיס פאטאדﬞאס דיבאשﬞו די מי 
 אי נון סי ריספﬞויירון מיס טודﬞילייוס:
@@ -646,7 +646,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>לח</sup>&nbsp;אֶרְדּ֣וֹף א֭וֹיְבַי וְאַשִּׂיגֵ֑ם 
 וְלֹֽא־אָ֝שׁוּב 
@@ -654,7 +654,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad">
 <sup>38</sup>&nbsp;פירסיגירי אה מיס אינימיגוס אי לוס אלקאנסארי. 
 אי נון טורנארי, 
@@ -664,14 +664,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>לט</sup>&nbsp;אֶ֭מְחָצֵם וְלֹא־יֻ֣כְלוּ ק֑וּם 
 יִ֝פְּל֗וּ תַּ֣חַת רַגְלָֽי׃
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad">
 <sup>39</sup>&nbsp;לוס לייאגארי אי נון פודﬞראן אליבﬞאנטארסי. 
 קאאיראן דיבאשﬞו די מיס פייס:
@@ -680,14 +680,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>מ</sup>&nbsp;וַתְּאַזְּרֵ֣נִי חַ֭יִל לַמִּלְחָמָ֑ה 
 תַּכְרִ֖יעַ קָמַ֣י תַּחְתָּֽי׃
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad">
 <sup>40</sup>&nbsp;אי טו קי מי סינייסטי די פﬞואירסה פארה לה פיליאה. 
 קיבﬞראנטאראס דיבאשﬞו די מי אה לוס קי סי ליבﬞאנטאן קונטרה מי:
@@ -696,14 +696,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>מא</sup>&nbsp;וְֽאֹיְבַ֗י נָתַ֣תָּה לִּ֣י עֹ֑רֶף 
 וּ֝מְשַׂנְאַ֗י אַצְמִיתֵֽם׃
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad">
 <sup>41</sup>&nbsp;אי דיסטי אה מי לה סירבﬞיז די מיס אינימיגוס. 
 אי אה מיס אבוריסידﬞוריס לוס טאזﬞארי:
@@ -712,7 +712,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>מב</sup>&nbsp;יְשַׁוְּע֥וּ 
 וְאֵין־מוֹשִׁ֑יעַ 
@@ -721,7 +721,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad">
 <sup>42</sup>&nbsp;איסקלאמאראן, 
 אי נון אבﬞרה סאלבﬞאדﬞור. 
@@ -732,14 +732,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>מג</sup>&nbsp;וְֽאֶשְׁחָקֵ֗ם כְּעָפָ֥ר עַל־פְּנֵי־ר֑וּחַ 
 כְּטִ֖יט חוּצ֣וֹת אֲרִיקֵֽם׃
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad">
 <sup>43</sup>&nbsp;אי לוס מולירי קומו פולבﬞו דילאנטי דיל בﬞיינטו. 
 קומו לודﬞו די לאס קאלייס לוס בﬞאסייארי:
@@ -748,7 +748,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>מד</sup>&nbsp;תְּפַלְּטֵנִי֮ מֵרִ֪יבֵ֫י 
 עָ֥ם תְּ֭שִׂימֵנִי לְרֹ֣אשׁ גּוֹיִ֑ם 
@@ -756,7 +756,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad">
 <sup>44</sup>&nbsp;מי איסקאפאראס די לאס באראזﬞאס דיל פואיבﬞלו. 
 מי פונדראס פור קאבﬞיסירה די לאס גﬞינטיס. 
@@ -766,14 +766,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>מה</sup>&nbsp;לְשֵׁ֣מַֽע אֹ֭זֶן יִשָּׁ֣מְעוּ לִ֑י 
 בְּנֵֽי־נֵ֝כָ֗ר יְכַחֲשׁוּ־לִֽי׃
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad">
 <sup>45</sup>&nbsp;אה אונה אואידﬞה די לה אוריזﬞה מי אובﬞידﬞיסיראן. 
 איזﬞוס איסטראנייוס מי אקאריסייאראן:
@@ -782,14 +782,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>מו</sup>&nbsp;בְּנֵי־נֵכָ֥ר יִבֹּ֑לוּ 
 וְ֝יַחְרְג֗וּ מִֽמִּסְגְּרֽוֹתֵיהֶֽם׃
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad">
 <sup>46</sup>&nbsp;איזﬞוס איסטראנייוס סי קאאין, 
 אי סי איסטרימיסין אין סוס קארסיליס:
@@ -798,7 +798,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>מז</sup>&nbsp;חַי־יְ֭הוָה 
 וּבָר֣וּךְ צוּרִ֑י 
@@ -806,7 +806,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad">
 <sup>47</sup>&nbsp;ה׳ ביבﬞי. 
 אי בינדיגﬞו סיאה מי פינייה. 
@@ -816,14 +816,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>מח</sup>&nbsp;הָאֵ֗ל הַנּוֹתֵ֣ן נְקָמ֣וֹת לִ֑י 
 וַיַּדְבֵּ֖ר עַמִּ֣ים תַּחְתָּֽי׃
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad">
 <sup>48</sup>&nbsp;איל דייו קי מי דה בﬞינגאנסאס. 
 אי קיבﬞראנטה לוס פואיבﬞלוס דיבאשﬞו די מי:
@@ -832,7 +832,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>מט</sup>&nbsp;מְפַלְּטִ֗י מֵאֹ֫יְבָ֥י 
 אַ֣ף מִן־קָ֭מַי תְּרוֹמְמֵ֑נִי 
@@ -840,7 +840,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad">
 <sup>49</sup>&nbsp;קי מי איסקאפה די מיס אינימיגוס. 
 טאמביין די לוס קי סי ליבﬞאנטאן קונטרה מי מי אינאלטיסיס. 
@@ -850,14 +850,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>נ</sup>&nbsp;עַל־כֵּ֤ן ׀ אוֹדְךָ֖ בַגּוֹיִ֥ם ׀ יְהוָ֑ה 
 וּלְשִׁמְךָ֥ אֲזַמֵּֽרָה׃
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad">
 <sup>50</sup>&nbsp;פור איסטו טי לוארי אינטרי לאס גﬞינטיס, או ה׳! 
 אי אה טו נומברי סאלמיארי:
@@ -866,14 +866,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>נא</sup>&nbsp;מגדל [מַגְדִּיל֮] יְשׁוּע֪וֹת מַ֫לְכּ֥וֹ וְעֹ֤שֶׂה חֶ֨סֶד ׀ לִמְשִׁיח֗וֹ 
 לְדָוִ֥ד וּלְזַרְע֗וֹ עַד־עוֹלָֽם׃
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad">
 <sup>51</sup>&nbsp;איל קי אינגראנדיסי לה סאלבﬞאסייון די סו ריי אי קי אזי מירסידﬞ אה סו אונטאדﬞו, 
 אה דויד אי אה סו סימין פארה סיימפרי:

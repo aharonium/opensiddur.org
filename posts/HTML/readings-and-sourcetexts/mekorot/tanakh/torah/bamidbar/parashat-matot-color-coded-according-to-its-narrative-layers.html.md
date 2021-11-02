@@ -29,7 +29,7 @@ The 'E' kernel, 'J' and 'B' layer are absent from this parashah.
 Parashat Matōt (Numbers 30:2-32:42) in the annual Torah reading cycle is the ninth parashah in Sefer Bamidbar. It is preceded by parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-bamidbar/parashat-pinhas/parashat-pinhas-color-coded-according-to-its-narrative-layers/">Pinḥas</a> (Numbers 25:10-30:1). The final portion of Sefer b'Midbar, Parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-bamidbar/parashat-masei/parashat-masei-color-coded-according-to-its-narrative-layers/">Masei</a> (Numbers 33:1-36:13), follows it. 
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

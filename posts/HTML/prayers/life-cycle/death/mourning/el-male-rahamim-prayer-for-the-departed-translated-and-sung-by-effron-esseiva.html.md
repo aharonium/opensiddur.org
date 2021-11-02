@@ -15,7 +15,7 @@ The recording is shared with a Public Domain Dedication (<a href="http://creativ
 
 DOWNLOAD: <a href="https://opensiddur.org/wp-content/uploads/2011/06/Effron-Esseiva-El-Maleh-Rachamim.ogg">OGG</a> | <a href="https://opensiddur.org/wp-content/uploads/2011/06/Effron-Esseiva-El-Maleh-Rachamim.mp3">MP3</a>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
@@ -28,7 +28,7 @@ DOWNLOAD: <a href="https://opensiddur.org/wp-content/uploads/2011/06/Effron-Esse
 שֶׁהָלַךְ לְעוֹלָמוֹ, בְּגַן עֵדֶן תְּהֵא מְנוּחָתוֹ.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Compassionate source of all that is,
 who is present in the heavens,
 take our loved one [name]
@@ -37,7 +37,7 @@ that shine like the sky,
 as we provide charity
 in the name of the soul of our loved one.
 </td></tr><tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 [אָנָא,] בַּעַל הָרַחֲמִים יַסְתִּירֵהוּ
 בְּסֵתֶר [כְּנָפֶיךָ] כְּנָפָיו לְעוֹלָמִים,
@@ -46,7 +46,7 @@ in the name of the soul of our loved one.
 וְיָנוּחַ בְּשָׁלוֹם עַל מִשְׁכָּבוֹ, וְנֹאמַר אָמֵן׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 [Please] Compassionate one, 
 provide rest for the soul of our loved one in Ga’an Eden 
 and never withdraw your protective wings and take [bundle] 

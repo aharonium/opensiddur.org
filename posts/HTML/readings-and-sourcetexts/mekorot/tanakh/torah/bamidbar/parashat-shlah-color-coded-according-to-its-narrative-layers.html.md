@@ -29,7 +29,7 @@ The kernel of biblical text 'E' and the 'B' layer are absent from this parashah.
 Parashat Shlaḥ <span class="citation">(Numbers 13:1-15:41)</span> in the annual Torah reading cycle is the fourth parashah in Sefer Bamidbar. It is preceded by parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-bamidbar/parashat-bhaalotekha/parashat-bhaalotekha-color-coded-according-to-its-narrative-layers/">b'ha-Alotekha</a> <span class="citation">(Numbers 8:1-12:16)</span>. Parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-bamidbar/parashat-qorah/parashat-qorah-color-coded-according-to-its-narrative-layers/">Qoraḥ</a> <span class="citation">(Numbers 16:1-18:32)</span> follows it. 
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

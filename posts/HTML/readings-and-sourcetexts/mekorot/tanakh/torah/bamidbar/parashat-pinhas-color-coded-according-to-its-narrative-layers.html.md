@@ -29,7 +29,7 @@ The 'E' kernel, 'J' and 'B' layer are absent from this parashah.
 Parashat Pinḥas <span class="citation">(Numbers 25:10-30:1)</span> in the annual Torah reading cycle is the eighth parashah in Sefer Bamidbar. It is preceded by parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-bamidbar/parashat-balaq/parashat-balaq-color-coded-according-to-its-narrative-layers/">Balaq</a> <span class="citation">(Numbers 22:2-25:9)</span>. Parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-bamidbar/parashat-matot/parashat-matot-color-coded-according-to-its-narrative-layers/">Matōt</a> <span class="citation">(Numbers 30:2-32:42)</span> follows it. 
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

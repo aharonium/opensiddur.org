@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="width: 100%;margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="width: 100%;margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew (masculine god-language)</th><th style="text-align: right;">Hebrew (feminine god-language)</th><th>English (translation)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
@@ -57,7 +57,7 @@ For Sarah’s sake, do not withhold water.
 </td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 זְכוֹר נַעֲרָה שֶׁעַלוּ לִקְרָתָה מַיִם
 וַתּוֹרֶד כַּדָּהּ עַל יָדָהּ וְנָתְנָה מַיִם
@@ -104,7 +104,7 @@ For the sake of Rivka’s righteousness, grant the gift of water.
 </td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 זְכוֹר רוֹעָה שֶׁבָּאָה עִם הַצְאוֹן לְמַיִם
 נִפְטְלָה נַפְתּוּלֵי אֱלֹהִים אַדִּירִים מִמִּשְׁבְּרֵי מַיִם
@@ -151,7 +151,7 @@ For Rachel’s sake, do not withhold water.
 </td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 זְכוֹר נִסְתָרָה נָפְלָה צְעִיפָה כַּמַים
 שִׁבְחָה הוֹדֶךָ וְיָלְדָה בְּזֶרֶם מַיַם
@@ -198,7 +198,7 @@ For the sake of Leah’s righteousness, grant the gift of water.
 </td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 זְכוֹר אֲחוֹת שֶׁנִצְבָה מֵרַחוֹק לְמַיִם
 פוֹאָה לַוְולָדִים וְהִיצִילָם מִיְאוֹר מַיִם

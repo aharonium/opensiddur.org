@@ -11,17 +11,17 @@ For attribution and license, please consult the following URL: <a href="http://o
 This psalm was the Sunday song of the Levites in the Holy Temple.
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>א</sup>&nbsp;לְדָוִ֗ד מִ֫זְמ֥וֹר
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>1</sup>&nbsp;David’s song (for opening himself to Spirit).
 </div></td>
@@ -29,7 +29,7 @@ This psalm was the Sunday song of the Levites in the Holy Temple.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 לַֽ֭יהוָה 
 הָאָ֣רֶץ וּמְלוֹאָ֑הּ 
@@ -41,7 +41,7 @@ This psalm was the Sunday song of the Levites in the Holy Temple.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Earth and her fullness 
 Are Yours, Yah,
@@ -55,7 +55,7 @@ Of the great Flow.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>ג</sup>&nbsp;מִֽי־יַעֲלֶ֥ה 
 בְהַר־יְהוָ֑ה 
@@ -75,7 +75,7 @@ Of the great Flow.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>3</sup>&nbsp;Who can rise 
 To Your summit, Yah?
@@ -97,7 +97,7 @@ Her helpful God.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>ו</sup>&nbsp;זֶ֭ה דּ֣וֹר דרשו [דֹּרְשָׁ֑יו]&nbsp;
 מְבַקְשֵׁ֨י 
@@ -106,7 +106,7 @@ Her helpful God.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>6</sup>&nbsp;Such people are of a generation 
 That seeks You.
@@ -117,7 +117,7 @@ Selah!
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>ז</sup>&nbsp;שְׂא֤וּ שְׁעָרִ֨ים ׀ רָֽאשֵׁיכֶ֗ם 
 וְֽ֭הִנָּשְׂאוּ 
@@ -133,7 +133,7 @@ Selah!
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>7</sup>&nbsp;Open your minds’ imagination!
 Let the Gates to eternity 
@@ -151,7 +151,7 @@ Yah, the ever victorious!
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>ט</sup>&nbsp;שְׂא֤וּ שְׁעָרִ֨ים ׀ רָֽאשֵׁיכֶ֗ם 
 וּ֭שְׂאוּ 
@@ -165,7 +165,7 @@ Yah, the ever victorious!
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>9</sup>&nbsp;Open your minds’ imagination!
 Let the Gates to eternity 

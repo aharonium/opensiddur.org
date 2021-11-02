@@ -19,7 +19,7 @@ R' Wiesenthal adds, "A request for absolute quiet (<span class="hebrew" lang="he
 
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew (source)</th><th style="text-align: left;">English (translation)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

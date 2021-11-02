@@ -15,78 +15,78 @@ The Modim d'Rabbanan is unique among the <em>devarim she-bi-kdusha</em> because 
 
 <table style="margin-left: auto;margin-right: auto;">
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 בזמן ששליח צבור אומר "מודים," העם מה הם אומרים?
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 As the prayer leader says "Modim," what do the people say?
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אמר רב, "מודים אנחנו לך ה׳ אלהינו על שאנו מודים לך."
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Said Rav, "We thank You, Adonai our God, that we may give thanks to You."
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 ושמואל אמר, "אלהי כל בשר על שאנו מודים לך."
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And Shmuel said, "God of all flesh, that we may give thanks to You."
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 רבי סימאי אומר, "יוצרנו יוצר בראשית על שאנו מודים לך."
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Rabbi Simai said, "Our Maker, Maker of creation, that we may give thanks to You."
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 נהרדעי אמרי משמיה דרבי סימאי, "ברכות והודאות לשמך הגדול על שהחייתנו וקיימתנו על שאנו מודים לך."
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 The Nehardeaites said in the name of Rabbi Simai, "Blessings and thanksgivings to Your great name, for You gave us life and sustained us, that we may give thanks to You."
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 רב אחא בר יעקב מסיים בה הכי: "כן תחיינו ותחננו ותקבצנו ותאסוף גליותינו לחצרות קדשך לשמור חוקיך ולעשות רצונך בלבב שלם על שאנו מודים לך."
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Rav Aḥa son of Yaakov would finish it: "Thus may you give us life and show us mercy and collect us and gather our exiles to Your holy courtyards to guard Your laws and do Your will wholeheartedly, that we may give thanks to You."
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אמר רב פפא, "הילכך נימרינהו לכולהו."
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Said Rav Pappa: "Therefore, we should say all of them."
 </div></td></tr>
@@ -100,10 +100,10 @@ This text uses the passage for the Askenazi nusach of the Modim d'Rabbanan and i
 This is part two in a series of replacements when praying alone for the Askhenazi rite that the editor is submitting.
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מוֹדִים אֲנַֽחְנוּ לָךְ 
 שָׁאַתָּה הוּא יהוה אֱלֹהֵֽינוּ 
@@ -117,7 +117,7 @@ This is part two in a series of replacements when praying alone for the Askhenaz
 וְעַל נִפְלְאוֹתֶֽיךָ וְטוֹבוֹתֶֽיךָ שֶׁבְּכׇל־עֵת עֶֽרֶב וָבֹֽקֶר וְצׇהֳרָֽיִם׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 We give thanks to You 
 for You are Adonai our God 
@@ -132,7 +132,7 @@ and for Your wonders and goodnesses at all times, evening and morning and aftern
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אַתָּה הוּא אֵל הַהוֹדָאוֹת 
 אֱלֹהֵי כׇל־בָּשָׂר 
@@ -146,7 +146,7 @@ and for Your wonders and goodnesses at all times, evening and morning and aftern
 כִּי עָלֵֽינוּ לְהוֹדוֹת לָךְ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 You are the God of Thanksgiving, 
 God of all flesh, 
@@ -161,14 +161,14 @@ that it is upon us to give thanks to You.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הַטּוֹב כִּי לֹא כָלוּ רַחֲמֶֽיךָ 
 וְהַמְרַחֵם כִּי לֹא תַֽמּוּ חֲסָדֶֽיךָ 
 מֵעוֹלָם קִוִּֽינוּ לָךְ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 The Good One, whose mercies never end, 
 the Merciful One, whose kindness never runs out, 

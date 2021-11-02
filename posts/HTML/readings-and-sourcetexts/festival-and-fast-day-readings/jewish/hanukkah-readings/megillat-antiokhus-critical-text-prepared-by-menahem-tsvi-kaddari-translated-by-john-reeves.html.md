@@ -17,7 +17,7 @@ This English rendering translates the edition of the Aramaic text prepared by Me
 
 The Aramaic text presented here follows the critical edition prepared by Menaḥem Tzvi Kaddari[foot]Menaḥem Tzvi Kaddari, "The Aramaic Antiochus Scroll," <em>Bar Ilan</em> 1 (1963) 81-105[/foot] and preserves his verse numbering. Kaddari's text did not include several additions in other variations of the Aramaic. These additions were transcribed from the Aramaic found in Rabbi Joseph Adler's <em>Scroll of Antiochus: Miracle of Chanukah</em> (Mesivtha Tefereth Jerusalem, 1936). This other version of an Aramaic text was published from an Aramaic manuscript in 1851 by the Jewish Antiquarian Society and prepared by Tsvi (Hirsh) Fillipowsky (London, 1851). Where Aramaic is missing from Kaddari's text, the Aramaic included in Adler's version is included in parentheses. --Aharon N. Varady
 
-<table style="width:100%;margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="width: 100%; margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Aramaic)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr>
@@ -81,7 +81,7 @@ The Aramaic text presented here follows the critical edition prepared by Menaḥ
 </td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="aramaic" lang="jpa">
 <sup>10</sup>&nbsp;בַה שָעְתָא קָם אַנטְיוּכַס מַלכָא ושלח בְנִיקָנוֹר תִניָנֵיה בְחֵיל רַב ובעם סַגִיא וַאְתָא לִירוּשלַם׃ <sup>11</sup>&nbsp;קטל בַה קטלא סַגִיא וּנצַב צִלמָא בְבֵיתָא דְמַקדְשָׁא באתרא דִי אְמַר אֵילָה יִשֹרָאֵל לְעַבדוֹהִי נְבִיַיָא תַמָן אַשׁרִי שְׁכִינְתִי לעלם׃ <sup>12</sup>&nbsp;בֵיה זִמנָא נְכַסוּ חֻזִירָא וְאוֹבִילוּ מִדְמֵיה לְעַזַרתָא דְקוּדשָׁא׃
 </span></div></td>

@@ -7,10 +7,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הִנְנִי עוֹמֶדֶת בְּמָקוֹם זֶה הַיּוֹם 
 כְּדֵי לְהָעִיד וְלוֹמַר בְּקוֹל צָלוּל וּבָרוּר 
@@ -24,7 +24,7 @@ that I am a daughter of Israel.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 עָלִיתִי לַתּוֹרָה 
 כְּדֵי לְהִתְחַבֵּר לְדוֹרוֹת שֶׁל בָּנוֹת וּבָנִים, 
@@ -50,7 +50,7 @@ and from the present to the future.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 קְרִיאָתִי בְּסֵפֶר 
 מְחַזֶּקֶת אֶת הַקֶּשֶׁר 
@@ -68,7 +68,7 @@ and the people of my nation and country.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מְקַבֶּלֶת אֲנִי בְּאַהֲבָה 
 אֶת הִשְׁתַּיְכוּתִי לְמָסֹרֶת שֶׁל תּוֹרָה עַתִּיקַת יוֹמִין בָּהּ 
@@ -82,7 +82,7 @@ to recite it day and night.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֲנִי תְּקַוֶּה שֶׁאוּכַל לַהֲפֹךְ בָּהּ וְלַהֲפֹךְ בָּהּ, 
 לְהַתְווֹת לְעַצְמִי דַּרְכֵי חַיִּים בְּאֶמְצָעוּתָהּ, 
@@ -98,7 +98,7 @@ and to use her for the good of all.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מִי יִתֵּן וּשְׂפָתָהּ שֶׁל הַתּוֹרָה 
 שֶׁמְּחַבֶּרֶת בֵּין עָבַר לֶעָתִיד, 

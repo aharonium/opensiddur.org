@@ -17,17 +17,17 @@ This text arranges multiple Biblical verses in a catena. It is introduced and cl
 This is part three in a series of replacements when praying alone for the Askhenazi rite that the editor is submitting.
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וַיְבָ֣רֶךְ עֶזְרָ֔א אֶת־יְהֹוָ֥ה הָאֱלֹהִ֖ים הַגָּד֑וֹל 
 וַיַּֽעֲנ֨וּ כׇל־הָעָ֜ם אָמֵ֤ן ׀ אָמֵן֙ בְּמֹ֣עַל יְדֵיהֶ֔ם 
 וַיִּקְּד֧וּ וַיִּֽשְׁתַּחֲו֛וּ לַיהֹוָ֖ה אַפַּ֥יִם אָֽרְצָה׃ <span class="citation">(נחמיה ח:י)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And 'Ezra blessed Adonai the great God, 
 and all the people answered "Amen, amen," as they lifted their hands, 
@@ -35,14 +35,14 @@ and they bowed and prostrated before the Cause, face to the ground.[foot]Nehemia
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 בִּפְרֹ֤עַ פְּרָעוֹת֙ בְּיִשְׂרָאֵ֔ל
 בְּהִתְנַדֵּ֖ב עָ֑ם
 בָּֽרְכ֖וּ יְהֹוָֽה׃  <span class="citation">(שופטים ה:ב)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 As the rampages rampage in Israel,
 as the people ennoble,  
@@ -50,14 +50,14 @@ bless ye Adonai![foot]Judges 5:2.[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 לִבִּי֙ לְחוֹקְקֵ֣י יִשְׂרָאֵ֔ל
 הַמִּֽתְנַדְּבִ֖ים בָּעָ֑ם
 בָּרְכ֖וּ יְהֹוָֽה׃  <span class="citation">(שופטים ה:ט)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 My heart to the lawmakers of Israel,
 the nobles of the people,
@@ -65,7 +65,7 @@ bless ye Adonai![foot]Judges 5:9.[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 בָּרְכ֖וּ עַמִּ֥ים ׀ אֱלֹהֵ֑ינוּ
 וְ֝הַשְׁמִ֗יעוּ ק֣וֹל תְּהִלָּתֽוֹ׃  <span class="citation">(תהלים סו:ח)</span>
@@ -73,7 +73,7 @@ bless ye Adonai![foot]Judges 5:9.[/foot]
 אֲ֝דֹנָ֗י מִמְּק֥וֹר יִשְׂרָאֵֽל׃ <span class="citation">(תהלים סח כז)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Bless, peoples, our God,
 and listen to the sound of Divine praise![foot]Psalms 66:8.[/foot]
@@ -82,7 +82,7 @@ my Lord, from the font of Israel![foot]Psalms 68:27.[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 בָּרְכ֥וּ יְהֹוָ֗ה מַלְאָ֫כָ֥יו
 גִּבֹּ֣רֵי כֹ֭חַ עֹשֵׂ֣י דְבָר֑וֹ
@@ -94,7 +94,7 @@ my Lord, from the font of Israel![foot]Psalms 68:27.[/foot]
 בָּרְכִ֥י נַ֝פְשִׁ֗י אֶת־יְהֹוָֽה׃ <span class="citation">(תהלים קג:כ-כב)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Bless ye Adonai, God's messengers,
 great strong ones, doing God's word,
@@ -107,7 +107,7 @@ bless, my soul, Adonai![foot]Psalms 103:20-22.[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 בֵּ֣ית יִ֭שְׂרָאֵל
 בָּרְכ֣וּ אֶת־יְהֹוָ֑ה
@@ -122,7 +122,7 @@ bless, my soul, Adonai![foot]Psalms 103:20-22.[/foot]
 הַֽלְלוּ־יָֽהּ׃  <span class="citation">(תהלים קלה:יט-כא)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 House of Israel, 
 bless ye Adonai!
@@ -138,7 +138,7 @@ praise ye Yah![foot]Psalms 135:19-21.[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וַיֹּאמְר֣וּ הַלְוִיִּ֡ם 
 יֵשׁ֣וּעַ וְ֠קַדְמִיאֵ֠ל 
@@ -150,7 +150,7 @@ praise ye Yah![foot]Psalms 135:19-21.[/foot]
 עַל־כׇּל־בְּרָכָ֖ה וּתְהִלָּֽה׃ <span class="citation">(נחמיה ט:ה)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And the Levites — 
 Yeshua' and Qadmiel, 

@@ -7,21 +7,21 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הַ֥לְלוּ יָ֨הּ ׀
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Praise the SOURCE! 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הַֽ֭לְלוּ אֶת־שֵׁ֣ם יְהֹוָ֑ה
 הַֽ֝לְל֗וּ עַבְדֵ֥י יְהֹוָֽה׃
@@ -29,7 +29,7 @@ Praise the SOURCE!
 בְּ֝חַצְר֗וֹת בֵּ֣ית אֱלֹהֵֽינוּ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Praise the name of the CAUSE,
 praise, servants of the CAUSE,
@@ -38,7 +38,7 @@ in the courts of the house of our God.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הַֽלְלוּ־יָ֭הּ 
 כִּֽי־ט֣וֹב יְהֹוָ֑ה
@@ -46,7 +46,7 @@ in the courts of the house of our God.
 כִּ֣י נָעִֽים׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Praise the SOURCE,
 the CAUSE is good, 
@@ -55,20 +55,20 @@ for it is pleasant.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 כִּֽי־יַעֲקֹ֗ב בָּחַ֣ר ל֣וֹ יָ֑הּ
 יִ֝שְׂרָאֵ֗ל לִסְגֻלָּתֽוֹ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 For the CAUSE chose Jacob,
 Israel as a dear possession.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 כִּ֤י אֲנִ֣י יָ֭דַעְתִּי 
 כִּֽי־גָד֣וֹל יְהֹוָ֑ה
@@ -76,7 +76,7 @@ Israel as a dear possession.
 מִכׇּל־אֱלֹהִֽים׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 For I know
 that the CAUSE is great,
@@ -85,7 +85,7 @@ over all divinities.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 כֹּ֤ל אֲשֶׁר־חָפֵ֥ץ יְהֹוָ֗ה עָ֫שָׂ֥ה
 בַּשָּׁמַ֥יִם וּבָאָ֑רֶץ 
@@ -93,7 +93,7 @@ over all divinities.
 וְכׇל־תְּהֹמֽוֹת׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 All the CAUSE desires is done,
 in heaven and in earth,
@@ -102,7 +102,7 @@ and the depths.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מַעֲלֶ֣ה נְשִׂאִים֮ 
 מִקְצֵ֢ה הָ֫אָ֥רֶץ
@@ -110,7 +110,7 @@ and the depths.
 מֽוֹצֵא־ר֗֝וּחַ מֵאֽוֹצְרוֹתָֽיו׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Makes vapor rise
 from the earth's ends
@@ -119,7 +119,7 @@ releasing the wind from its vaults.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 שֶׁ֭הִכָּה 
 בְּכוֹרֵ֣י מִצְרָ֑יִם
@@ -127,7 +127,7 @@ releasing the wind from its vaults.
 עַד־בְּהֵמָֽה׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Who struck down
 the firstborn of Egypt,
@@ -136,7 +136,7 @@ to animal.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 שָׁלַ֤ח ׀ אוֹתֹ֣ת וּ֭מֹפְתִים
 בְּתוֹכֵ֣כִי מִצְרָ֑יִם
@@ -144,7 +144,7 @@ to animal.
 וּבְכׇל־עֲבָדָֽיו׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Sending signs and wonders
 in the midst of Egypt,
@@ -153,7 +153,7 @@ and upon all his servants
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 שֶׁ֭הִכָּה גּוֹיִ֣ם רַבִּ֑ים
 וְ֝הָרַ֗ג מְלָכִ֥ים עֲצוּמִֽים׃
@@ -167,7 +167,7 @@ and upon all his servants
 לְיִשְׂרָאֵ֥ל עַמּֽוֹ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Who struck down many nations,
 and killed powerful kings.
@@ -182,33 +182,33 @@ to Israel God's people.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 יְ֭הֹוָה שִׁמְךָ֣ לְעוֹלָ֑ם
 יְ֝הֹוָ֗ה זִכְרְךָ֥ לְדֹר־וָדֹֽר׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 O CAUSE, Your Name is eternal,
 CAUSE, Your title for all generations.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 כִּֽי־יָדִ֣ין יְהֹוָ֣ה עַמּ֑וֹ
 וְעַל־עֲ֝בָדָ֗יו יִתְנֶחָֽם׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 For the CAUSE judges the people,
 and comforts God's servants.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 עֲצַבֵּ֣י הַ֭גּוֹיִם 
 כֶּ֣סֶף וְזָהָ֑ב
@@ -222,7 +222,7 @@ and comforts God's servants.
 כֹּ֖ל אֲשֶׁר־בֹּטֵ֣חַ בָּהֶֽם׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 The nations' idols
 are silver and gold,
@@ -237,7 +237,7 @@ all who trust in them.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 בֵּ֣ית יִ֭שְׂרָאֵל 
 בָּרְכ֣וּ אֶת־יְהֹוָ֑ה 
@@ -252,7 +252,7 @@ all who trust in them.
 הַֽלְלוּ־יָֽהּ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 House of Israel,
 bless the CAUSE,

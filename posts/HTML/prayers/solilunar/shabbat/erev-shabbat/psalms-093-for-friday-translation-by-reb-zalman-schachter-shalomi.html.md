@@ -11,11 +11,11 @@ For attribution and license, please consult the following URL: <a href="http://o
 This psalm was the Friday song of the Levites in the Holy Temple.
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>א</sup>&nbsp;יְהוָ֣ה מָלָךְ֮ גֵּא֪וּת לָ֫בֵ֥שׁ 
 לָבֵ֣שׁ יְ֭הוָה 
@@ -29,7 +29,7 @@ This psalm was the Friday song of the Levites in the Holy Temple.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>1</sup>&nbsp;Yah, You ruled, robed in dignity.
 Donning intensity,
@@ -45,7 +45,7 @@ There was a world.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>ג</sup>&nbsp;נָשְׂא֤וּ נְהָר֨וֹת ׀ יְֽהוָ֗ה 
 נָשְׂא֣וּ נְהָר֣וֹת קוֹלָ֑ם 
@@ -59,7 +59,7 @@ There was a world.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>3</sup>&nbsp;The currents raise their roar,
 The rivers raise the spumes,

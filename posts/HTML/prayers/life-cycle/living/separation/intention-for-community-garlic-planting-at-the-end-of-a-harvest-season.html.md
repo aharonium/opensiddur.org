@@ -7,11 +7,11 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew (translation)</th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אנו מתחילים בהפרדת שיני השום אחד מהשני, 
 הדומה להפרדת אנשים מקהילותיהם. 
@@ -22,7 +22,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 ויציאה אל העולם כדי ליצור קהילות חדשות.
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 We begin by separating the garlic bulbs from the cloves, 
 similar to separating people from their community. 
 Then, once the individual (garlic cloves) are planted, 
@@ -33,7 +33,7 @@ and going out into the world to create new communities.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 למה שום?
 </span></div></td>
@@ -43,7 +43,7 @@ Why garlic?
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 שום בדרך כלל הדבר האחרון שנשתל בחווה. 
 הוא נשתל בסתיו 

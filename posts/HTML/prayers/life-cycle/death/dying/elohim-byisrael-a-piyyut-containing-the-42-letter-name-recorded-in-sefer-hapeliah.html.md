@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Initials (Hebrew)</th><th style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="16%">
@@ -22,7 +22,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 תְּשַׂגְּבֵנוּ צִדְקָתֶךָ
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Elohim in Yisrael,
 Great is your unity -- 
 May your righteousness uplift us!
@@ -41,7 +41,7 @@ May your righteousness uplift us!
 טַהֵר נַחֲלָתֶךָ
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Holy One
 Perceive the conspiracies of our adversaries;
 Purify your heritage!
@@ -59,7 +59,7 @@ Purify your heritage!
 יִגְדַּל כֹּחַ שְׁמוֹתֶיךָ
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Exalted one, redeem those who seek you,
 Sustain the power of your Names!
 </td></tr>
@@ -76,7 +76,7 @@ Sustain the power of your Names!
 צֶמַח תָּבִיא גְּאֻלָּתֵנוּ <span class="citation">(זכריה ג:ח)</span>
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 In your Name’s sake our spirits celebrate;
 Bring the Branch of our redemption![foot]Cf. Zechariah 3:8.[/foot]
 </td></tr>
@@ -94,7 +94,7 @@ Bring the Branch of our redemption![foot]Cf. Zechariah 3:8.[/foot]
 נוֹי עַנְוְתָנוּתֶךָ
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Holy Pious One,
 With all your beneficence 
 Adorn your modesty.
@@ -112,7 +112,7 @@ Adorn your modesty.
 פְּדֵנוּ זְכֹר קְדוּשָׁתֶךָ
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 May we exclaim (your) greatness from our hearts --
 Redeem us! Recollect your sanctification.
 </td></tr>
@@ -129,7 +129,7 @@ Redeem us! Recollect your sanctification.
 צַדֵּק יוֹדֵעַ תְּהִלָּתֶךָ.‏
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Attend to the call of our confession,
 Justify those who know your praises.
 </div></td></tr>

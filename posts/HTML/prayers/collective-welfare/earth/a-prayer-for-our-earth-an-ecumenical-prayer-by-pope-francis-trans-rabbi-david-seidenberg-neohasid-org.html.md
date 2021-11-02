@@ -17,7 +17,7 @@ The translation includes sparks from the High Holiday liturgy. I thought we shou
 Please emend to your satisfaction, but please do mention <a href="http://neohasid.org">neohasid.org</a> if you benefit from this offering. One caveat I will make is that I use traditional (read: masculine) language for God so that the prayer can be used comfortably in most shuls, but I very much support emendations that introduce feminine God language.
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: left;">Spanish (source)</th><th style="text-align: right;">Hebrew (translation)</th><th style="text-align: left;">English (modified source)</th></tr></thead>
 <tbody>
 <tr>

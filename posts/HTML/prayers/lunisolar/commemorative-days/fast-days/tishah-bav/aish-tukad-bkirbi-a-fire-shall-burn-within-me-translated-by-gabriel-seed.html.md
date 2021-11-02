@@ -7,10 +7,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֵשׁ תּוּקַד בְּקִרְבִּי
 בְּהַעֲלוֹתִי עַל לְבָבִי
@@ -21,7 +21,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 A flame shall burn within me, 
 when I raise on my heart, 
@@ -44,7 +44,7 @@ my leaving Jerusalem
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Then Moses sang, 
 a song that will not be forgotten, 
@@ -67,7 +67,7 @@ when I left Jerusalem
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 My house was established, 
 and the cloud [of glory] dwelled, 
@@ -90,7 +90,7 @@ when I left Jerusalem
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 The waves of the sea were in an uproar, 
 and like a wall they arose,
@@ -113,7 +113,7 @@ when I left Jerusalem
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Grain from the sky, 
 and the rock flowed water, 
@@ -136,7 +136,7 @@ when I left Jerusalem
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Every morning and evening, 
 surrounding Mount Horeb (Sinai), 
@@ -159,7 +159,7 @@ when I left Jerusalem
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And the Presence of God 
 was like a consuming fire, 
@@ -182,7 +182,7 @@ when I left Jerusalem
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Sacrifice and meal offering, 
 and anointing oil, 
@@ -205,7 +205,7 @@ when I left Jerusalem
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Festivals and Sabbaths, 
 wonders and signs, 
@@ -228,7 +228,7 @@ when I left Jerusalem.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Goodly tents, 
 for the four tribal standards, 
@@ -251,7 +251,7 @@ when I left Jerusalem
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Jubilee and Sabbatical, 
 and the land rested, 
@@ -274,7 +274,7 @@ when I left Jerusalem
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 The cover and the Ark, 
 and stones of memorial, 
@@ -297,7 +297,7 @@ when I left Jerusalem
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Levites and Aaronites, 
 and seventy elders, 
@@ -320,7 +320,7 @@ when I left Jerusalem
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Moses shepherded me, 
 and Aaron guided me, 
@@ -343,7 +343,7 @@ when I left Jerusalem
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Prepared for war, 
 and God was there, 
@@ -366,7 +366,7 @@ when I left Jerusalem
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 The secrets of (behind) the curtain, 
 and the order of the set [showbread],
@@ -389,7 +389,7 @@ when I left Jerusalem
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Offerings and Sacrifices, 
 and pleasing scents, 
@@ -412,7 +412,7 @@ when I left Egypt.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 The fine turbans, 
 set for glory, 
@@ -435,7 +435,7 @@ when I left Jerusalem
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 The golden headpiece, 
 and kingship and pride, 
@@ -458,7 +458,7 @@ when I left Jerusalem
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Holiness and prophecy, 
 and the awesome divine presence, 
@@ -481,7 +481,7 @@ when I left Jerusalem
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Joy and salvation, 
 and blasting of horns, 
@@ -504,7 +504,7 @@ when I left Jerusalem
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Table [for showbread] and [seven-branched] lamp, 
 smoke [from the altar] and incense,
@@ -527,7 +527,7 @@ False god(s) and abomination,
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Teaching and instruction, 
 and precious vessels, 

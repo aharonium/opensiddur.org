@@ -8,7 +8,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <hr />
 
 <table style="margin-left: auto;margin-right: auto;"><tbody>
-<tr><td style="vertical-align:top;" width="53%">
+<tr><td style="vertical-align:top;">
 <div class="english" lang="en">
 When the two of us intended to finalize the words of the “Seven Blessings” (<em>Sheva Berakhot</em>, <span class="hebrew" lang="he">שֶֽׁבַע בְּרָכוֹת</span>) that our friends and family members would offer us on our big day, we attempted to preserve the most widespread Ashkenazic version of these seven nuptial blessings with which our Jewish marital status would be effected. However, we attempted to avoid phrases that would limit the gender or sex of the blessings’ referents. Additionally, we sought to ensure that our blessings focused on the happiness of the occasion at hand.
 </div>
@@ -20,7 +20,7 @@ When the two of us intended to finalize the words of the “Seven Blessings” (
 </span></div>
 </td></tr>
 
-<tr><td style="vertical-align:top;" width="53%">
+<tr><td style="vertical-align:top;">
 <div class="english" lang="en">
 Because we permitted ourselves to understand the Hebrew word <em>adam</em> (<span class="hebrew" lang="he">אָדָם</span>) as meaning “humanity” and not just men or males in the image of the first human “Adam;” and because we permitted ourselves to understand the term <em>baneha</em> (<span class="hebrew" lang="he">בָּנֶֽיהָ</span>) as meaning “her children” and not the more possible restrictive translation of “her sons”—and with this, we permitted ourselves to understand these “children” of Zion as referring to not only biologically-born children but pedagogically-rendered “children” (that is to say: students); there is in fact no difference between 4/7 of the currently common Ashkenazic versions of these blessings and the versions that were recited at our <em>Kishur Nefashot</em> (<span class="hebrew" lang="he">קִשּׁוּר נְפָשׁוֹת</span> “Connecting of Souls”). The three blessings of ours that are markedly different from the currently common Ashkenazic versions of these blessings are the blessings that commonly conclude <em>mesamme’aḥ tziyyon bevaneha</em> (<span class="hebrew" lang="he">מְשַׂמֵּֽחַ צִיּוֹן בְּבָנֶֽיהָ</span>, “who causes Zion to rejoice in her children”), <em>mesamme’aḥ ḥatan vekhallah</em> (<span class="hebrew" lang="he">מְשַׂמֵּֽחַ חָתָן וְכַלָּה</span>, “who causes groom and bride to rejoice”), and <em>mesame’aḥ ḥatan im hakkallah</em> (<span class="hebrew" lang="he">מְשַׂמֵּֽחַ חָתָן עִם הַכַּלָּה</span>, “who causes groom with bride to rejoice”).
 </div>
@@ -32,7 +32,7 @@ Because we permitted ourselves to understand the Hebrew word <em>adam</em> (<spa
 </span></div>
 </td></tr>
 
-<tr><td style="vertical-align:top;" width="53%">
+<tr><td style="vertical-align:top;">
 <div class="english" lang="en">
 Even though each blessing on its own deserves commentary, the two of us are presenting here only our comments on the words that we composed.
 </div>
@@ -44,7 +44,7 @@ Even though each blessing on its own deserves commentary, the two of us are pres
 </div>
 </td></tr>
 
-<tr><td style="vertical-align:top;" width="53%">
+<tr><td style="vertical-align:top;">
 <div class="english" lang="en">
 Who causes Zion to rejoice in her children
 
@@ -60,7 +60,7 @@ We recognized that it is possible that the words “The barren one shall rejoice
 </span></div>
 </td></tr>
 
-<tr><td style="vertical-align:top;" width="53%">
+<tr><td style="vertical-align:top;">
 <div class="english" lang="en">
 Who causes groom and bride to rejoice
 
@@ -76,7 +76,7 @@ There are two differences here that require our attention to this blessing. The 
 </span></div>
 </td></tr>
 
-<tr><td style="vertical-align:top;" width="53%">
+<tr><td style="vertical-align:top;">
 <div class="english" lang="en">
 Who causes groom with bride to rejoice
 
@@ -92,7 +92,7 @@ It is clear to us that the words that follow “<span class="hebrew" lang="he">�
 </span></div>
 </td></tr>
 
-<tr><td style="vertical-align:top;" width="53%">
+<tr><td style="vertical-align:top;">
 <div class="english" lang="en">
 In the <em>ḥatimah</em> of this blessing, we repeated our <em>ḥatimah</em> from the previous blessing. Truthfully, had the two of us needed now to reset the text of this blessing, perhaps we would have found a way to distinguish the two blessings: the former of which is most commonly “who causes groom and bride to rejoice,” and the latter  “who causes groom with bride to rejoice.” While planning this, we inadvertently did not call attention to this. In the present, Jonah guesses that we would have had the former end <em>nefashot kesharot</em> (“<span class="hebrew" lang="he">נְפָשׁוֹת קְשׁוּרוֹת</span>,” “linked souls”) and the latter end—so as to emphasize the “with”-ness or togetherness of the two marrying persons—<em>nefashot mitkasherot</em> (“<span class="hebrew" lang="he">נְפָשׁוֹת מִתְקַשְּׁרוֹת</span>,” “linking souls”) or <em>nefesh keshurah benefesh</em> (“<span class="hebrew" lang="he">נֶֽפֶשׁ קְשׁוּרָה בְּנֶֽפֶשׁ</span>,” “soul linked to soul”), or perhaps vice versa. We cannot know what we would have done in the hypothetical past...
 </div>
@@ -104,7 +104,7 @@ In the <em>ḥatimah</em> of this blessing, we repeated our <em>ḥatimah</em> f
 </span></div>
 </td></tr>
 
-<tr><td style="vertical-align:top;" width="53%">
+<tr><td style="vertical-align:top;">
 <div class="english" lang="en">
 Below
 
@@ -129,7 +129,7 @@ Below is the version of the <em>Sheva Berakhot</em> our friends and family recit
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 1— א
 
@@ -149,7 +149,7 @@ Ba-RUKH a-TAH ado-NAI elo-HEY-nu ME-lekh ha’o-LAM, bo-RE pe-RI ha-GA-fen.
  </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 2— ב
 
@@ -170,7 +170,7 @@ Ba-RUKH a-TAH ado-NAI elo-HEY-nu ME-lekh ha’o-LAM, sheha-KOL ba-RA likhvo-DO.
  </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 3—ג
 
@@ -195,7 +195,7 @@ Ba-RUKH a-TAH ado-NAI elo-HEY-nu ME-lekh ha’o-LAM, yo-TZER ha’a-DAM.
  </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 4— ד
 
@@ -219,7 +219,7 @@ Ba-RUKH a-TAH ado-NAI, yo-TZER ha’a-DAM.
  </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 5— ה
 
@@ -244,7 +244,7 @@ Ba-RUKH a-TAH ado-NAI, mesa-ME-aḥ tzi-YON befir-HE-ha.
  </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 6— ו
 
@@ -278,7 +278,7 @@ nefa-SHOT keshu-ROT.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 7— ז
 

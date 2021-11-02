@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Yiddish)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
@@ -221,7 +221,7 @@ I beseech you, dear God, that my possessions and those of all Yisrael not be dim
 
 <hr />
 
-This is the tkhine for candlemaking on erev Yom Kippur as found in Sarah bat Tovim's Tkhine of Three Gates, likely written by her sometime in the early 18th century. The transcription was drawn from that of Rabbi Tracy Klirs published with her HUC dissertation and subsequently published by HUC Press in <em>In the Merit of Our Mothers</em> (1991). I have made light changes to the translation, re-Hebraizing loshen qodesh and biblical names, and presenting Hashem as gender-neutral. --Aharon Varady
+This is the tkhine for candlemaking on erev Yom Kippur as found in Sarah bat Tovim's Tkhine of Three Gates, likely written by her sometime in the early 18th century. The transcription was drawn from that of Rabbi Tracy Klirs published with her HUC dissertation and subsequently published by HUC Press in <em>In the Merit of Our Mothers</em> (1991). I have made light changes to the translation, re-Hebraizing loshen qodesh and biblical names, and presenting Hashem as gender-neutral. For more on this tkhine and the custom of measuring graves before Yom Kippur, find Chava Weissler's work "For the Human Soul is the Lamp of the Lord: The Tkhine for Laying Wicks by Sarah bas Tovim" (in <em>Studies in Polish Jewry, vol 10: Jews in Early Modern Poland</em>, ed. Gershon David Hundert, 1997). --Aharon Varady
 
 <h3>Recordings</h3>
 

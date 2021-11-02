@@ -7,15 +7,15 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: right;">Translation (Yiddish)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>א</sup>&nbsp;לַמְנַצֵּחַ בִּנְגִינוֹת מִזְמוֹר לְדָוִד׃ <sup>ב</sup>&nbsp;בְּקָרְאִי עֲנֵנִי אֱלֹהֵי צִדְקִי בַּצָּר הִרְחַבְתָּ לִּי חָנֵּנִי וּשְׁמַע תְּפִלָּתִי׃ <sup>ג</sup>&nbsp;בְּנֵי אִישׁ עַד־מֶה כְבוֹדִי לִכְלִמָּה תֶּאֱהָבוּן רִיק תְּבַקְשׁוּ כָזָב סֶלָה׃ <sup>ד</sup>&nbsp;וּדְעוּ כִּי־הִפְלָה יְהוָה חָסִיד לוֹ יְהוָה יִשְׁמַע בְּקָרְאִי אֵלָיו׃ <sup>ה</sup>&nbsp;רִגְזוּ וְאַל־תֶּחֱטָאוּ אִמְרוּ בִלְבַבְכֶם עַל־מִשְׁכַּבְכֶם וְדֹמּוּ סֶלָה׃ <sup>ו</sup>&nbsp;זִבְחוּ זִבְחֵי־צֶדֶק וּבִטְחוּ אֶל־יְהוָה׃ <sup>ז</sup>&nbsp;רַבִּים אֹמְרִים מִי־יַרְאֵנוּ טוֹב נְסָה־עָלֵינוּ אוֹר פָּנֶיךָ יְהוָה׃ <sup>ח</sup>&nbsp;נָתַתָּה שִׂמְחָה בְלִבִּי מֵעֵת דְּגָנָם וְתִירוֹשָׁם רָבּוּ׃ <sup>ט</sup>&nbsp;בְּשָׁלוֹם יַחְדָּו אֶשְׁכְּבָה וְאִישָׁן כִּי־אַתָּה יְהוָה לְבָדָד לָבֶטַח תּוֹשִׁיבֵנִי׃
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="yiddish" lang="yi">
 
 <sup>1</sup>&nbsp;פֿאַר דעם געזאַנגמײַסטער, מיט סטרונעשפּיל; אַ מזמור פֿון דָוִדן. 

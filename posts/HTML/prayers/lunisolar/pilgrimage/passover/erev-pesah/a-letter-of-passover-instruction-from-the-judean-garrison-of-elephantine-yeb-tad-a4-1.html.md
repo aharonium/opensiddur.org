@@ -12,7 +12,7 @@ This letter, written in Imperial Aramaic in 419 BCE, is among the vast number of
 </div>
 
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Achaemenid Aramaic)</th><th style="text-align: right;">Source (Achaemenid Aramaic with Tiberian vocalization )</th><th style="text-align: left;">Source (English translation)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

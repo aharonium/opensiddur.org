@@ -19,17 +19,17 @@ This text takes the basic idea of the Baladi-rite '<em>Brikh Shmeh d'Kudsha Brik
 This is part one in a series of replacements when praying alone for the Askhenazi rite that the editor is submitting.
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 בְּרִיךְ שְׁמֵיהּ דְּקוּדְשָׁא בְּרִיךְ הוּא 
 (<span class="instruction">על ימים נוראים:</span> לְעֵילָא,) לְעֵילָא מִן־כָּל‪‬ בִּרְכָתָא שִׁירָתָא 
 תֻּשְׁבְּחָתָא וְנֶחָמָתָא דַּאֲמִירָן בְּעָלְמָא׃ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Blessed is the Name of the blessed Holy One‪,‬ 
 (<span class="instruction">during the Ten Days:</span> high,) high above all blessings and songs‪,‬ 
@@ -37,14 +37,14 @@ praises and comforts that we say in this world‪.‬
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 תִּתְקַבַּל צְלוֹתִי וּבָעוּתִי 
 עִם צְלוֹתְהוֹן וּבָעוּתְהוֹן דְּכָל־בֵּית יִשְׂרָאֵל 
 קֳדָם אַבָּא דְּבִשְׁמַיָּא׃ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 May my blessings and pleas be received 
 with the blessings and pleas of all the house of Israel 
@@ -52,7 +52,7 @@ before my Parent who is in heaven.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 יְהֶא שְׁלָמָא רַבָּא מִן שְׁמַיָּא 
 וְחַיִּים עָלַי‎ וְעַל כָּל־יִשְׂרָאֵל׃ 
@@ -61,7 +61,7 @@ before my Parent who is in heaven.
 וְעַל כָּל־יִשְׂרָאֵל׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 May there be great peace from heaven 
 and life upon me and upon all of Israel. 
@@ -71,13 +71,13 @@ and upon all Israel.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אָמֵן וְאָמֵן 
 כֵּן יְהִי רָצוֹן׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <em>Amen</em> and <em>amen</em>, 
 thus may it be Your will.

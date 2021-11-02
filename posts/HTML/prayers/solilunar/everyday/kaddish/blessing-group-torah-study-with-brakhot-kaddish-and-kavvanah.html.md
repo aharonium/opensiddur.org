@@ -21,15 +21,15 @@ So I will explain some of that, say "Blessed are You, Breath of Life, Who makes 
 Then when the class or discussion is over, I will ask people to stand -- if possible, in a single circle. I explain that I will use only the central paragraph of the <em>Kaddish d'Rabbanan</em>, mostly in English, and then proceed:
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew (source)</th><th style="text-align: left;">Free Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 עַל יִשְׂרָאֵל וְעַל רַבָּנָן, וְעַל תַּלְמִידֵיהוֹן וְעַל כָּל תַּלְמִידֵי תַלְמִידֵיהוֹן...
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <em>Al Yisrael v'al rabbanan v'al talmidaihon v'al kol talmidai talmidaihon...</em>
 For the people Israel and
@@ -45,12 +45,12 @@ those whom we go forth to teach --
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 For all who study Torah,
 who aim toward wisdom,
@@ -61,12 +61,12 @@ and in every place --
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 For all these may there be ...
 overflowing love,
@@ -79,12 +79,12 @@ not from it or upon it --
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And above all, 
 a sense that all these blessings
@@ -94,13 +94,13 @@ weave of Unity --
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְנֹאמַר
 אָמֵן׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <em>v'nomar .... 
 ameyn.</em>

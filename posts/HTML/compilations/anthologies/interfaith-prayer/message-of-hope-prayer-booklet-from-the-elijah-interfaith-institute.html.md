@@ -12,26 +12,26 @@ For attribution and license, please consult the following URL: <a href="http://o
 <strong>DOWNLOAD</strong>: <a href="https://opensiddur.org/wp-content/uploads/2012/12/Elijah-Interfaith-Institute-and-UNESCO-Message-of-Hope-Booklet.pdf">Elijah Interfaith Institute and UNESCO - Message of Hope Booklet</a> (PDF) 
 
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Other Languages</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <u>A Jewish Prayer for Peace</u>[foot]Adapted from Likutei Tefillot II:53, by Rabbi Nosson Sternhartz of Nemirov after the teachings of Rebbe Nahman of Bratslav (1780-1844). This particular formulation of the prayer for peace of the ḥassidei Bratslav (Breslov) is particularly widespread in Israel, a close adaptation of one made by Rabi Dovid Sears for the Breslov Research Institute.[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Lord of Peace, Divine Ruler, to whom peace belongs! 
 Master of Peace, Creator of all things! 
@@ -43,12 +43,12 @@ neither shall they learn war anymore.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Help us and save us all, 
 and let us cling tightly to the virtue of peace. 
@@ -60,12 +60,12 @@ even in their hearts.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Let us never shame any person on earth, great or small. 
 May it be granted unto us to fulfill Thy Commandment 
@@ -77,12 +77,12 @@ and possessions.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And let it come to pass in our time as it is written, 
 “And I will give peace in the land, 
@@ -92,35 +92,35 @@ and neither shall the sword go through your land.”
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 God who is peace, bless us with peace !!! 
 <hr />
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <u>A Christian Message of Peace</u>[foot]Authored by Awet Andemicael, member of the Elijah Think Tank, on behalf of Christian members of the Elijah Board of World Religious Leaders.[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 O “God of hope” (Romans 5:5), 
 enable us to hope in you and in your promise to “heal the broken-hearted” (Psalms 147:3), 
@@ -129,12 +129,12 @@ and restore (Acts 3:21) and reconcile to yourself all things (Colossians 1:20).
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 St. Paul says in Rom 8, 24-25: 
 “In hope, we already have salvation; 
@@ -147,23 +147,23 @@ we are to wait for it with persevering confidence” (Romans 8, 24-25, New Jerus
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <u>A Muslim Message of Hope</u>[foot]Contributed by Grand Mufti Mustafa Ceric[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Oh, God 
 Do not let success deceive us 
@@ -173,12 +173,12 @@ That precedes success!
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Oh, God 
 Teach us that tolerance 
@@ -188,12 +188,12 @@ The first sign of weakness!
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Oh, God 
 If you deprive us of our property, 
@@ -205,12 +205,12 @@ Provide us with the blessing of faith!
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Oh, God 
 If we sin against people, 
@@ -220,12 +220,12 @@ Give us the strength of forgiveness!
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Oh, God 
 If we forget Thee, 
@@ -233,12 +233,12 @@ Do not forget us!
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Oh, God 
 May grief become hope! 
@@ -250,23 +250,23 @@ To anyone, anywhere!
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <u>A Buddhist Message of Hope</u>[foot]Metta Sutta, trans. by the Amaravati Sangha. Contributed by Ven. Prof. Jinwol Sunim, Korea[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Let none deceive another, 
 Or despise any being in any state. 
@@ -285,23 +285,23 @@ Freed from hatred and ill-will.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <u>A Hindu Message of Hope</u>[foot]Adaptation of a short section of Tagore's <em>Gitanjali</em> and Vedic Prayers contributed by Swami Amarananda.[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Where the mind is without fear and the head is held high; 
 Where the world has not been fragmented by narrow domestic walls; 
@@ -313,13 +313,13 @@ Into that heaven of freedom, Father, let all countries awake![foot]Cf. Rabindran
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="english" lang="en" style="text-align: right;">
 सं गछध्वं सं वदध्वं सं वो मनांसि जानताम | 
 देवा भागं यथा पूर्वे संजानाना उपासते || 
 </div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 saṃ ghachadhvaṃ saṃ vadadhvaṃ saṃ vo manāṃsi jānatām | 
 devā bhāghaṃ yathā pūrve saṃjānānā upāsate || 
@@ -330,13 +330,13 @@ Let us share together, like holy beings of the past, material things,[foot]Rigve
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="english" lang="en" style="text-align: right;">
 समानी व आकूतिः समाना हर्दयानि वः | 
 समानमस्तु वोमनो यथा वः सुसहासति || 
 </div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 samānī va ākūtiḥ samānā hṛdayāni vaḥ | 
 samānamastu vomano yathā vaḥ susahāsati || 
@@ -348,23 +348,23 @@ So that a grand unity becomes accomplished.[foot]Rigveda 10.191.4[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <u>A Sikh Message of Hope</u>[foot]Guru Arjan Dev Ji, Guru Granth Sahib Ji, p.724. Contributed by Bhai Sahib Bhai Mohinder Singh[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Merciful, most Merciful, is my master God. 
 He bestows His divine blessings upon all beings. (Pause) 

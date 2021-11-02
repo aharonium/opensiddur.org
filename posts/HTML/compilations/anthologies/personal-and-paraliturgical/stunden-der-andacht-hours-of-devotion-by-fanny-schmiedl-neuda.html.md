@@ -10,7 +10,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <strong>DOWNLOAD</strong> 
 <a href="https://opensiddur.org/wp-content/uploads/2013/04/Fanny-Schmiedl-Neuda-Stunden-Der-Andacht-Open-Siddur-Project-version-1.0.odt">ODT</a> | <a href="https://opensiddur.org/wp-content/uploads/2013/04/Fanny-Schmiedl-Neuda-Stunden-Der-Andacht-Open-Siddur-Project-version-1.0.pdf">PDF</a>
 
-Fanny Neuda's compilation of teḥinot, <em>Stunden Der Andacht</em> (1855), is the first book known to be authored and published by a Jewish woman. In 2013, a full digital transcription of the work was completed by the Open Siddur Project and German Wikisource volunteers. (Huzzah!)
+Fanny Neuda's compilation of teḥinot, <em>Stunden Der Andacht</em> (1855), is the first compilation of Jewish prayer known to be authored by a Jewish woman in a language besides English. In 2013, a full digital transcription of the work was completed by the Open Siddur Project and German Wikisource volunteers. (Huzzah!)
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/StundenDerAndachtFannyNeuda1864#page/n0/mode/2up"]
 

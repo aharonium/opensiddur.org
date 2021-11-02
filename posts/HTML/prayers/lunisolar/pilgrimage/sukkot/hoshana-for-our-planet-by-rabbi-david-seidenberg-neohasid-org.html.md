@@ -15,10 +15,10 @@ The Hoshanah I wrote ("A Hoshana for our planet") focused especially on aspects 
 The <a href="https://opensiddur.org/prayers/lunisolar/pilgrimage/sukkot/seven-hoshanot-for-creation-by-rabbi-david-seidenberg-neohasid-org/">second liturgy</a>, a cycle of seven Hoshanot roughly corresponding to the days of creation, was written more recently. It includes climate change issues and extinctions, but also more general appreciations and prayers for the order of the natural world.
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew (<a href="https://opensiddur.org/contributing/upload/">contribute a translation</a>)</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="english" lang="en" style="text-align: right;">
 <em>Hoshana Eloheinu Hoshana! 
 Hoshana Bor’einu Hoshana! 
@@ -26,7 +26,7 @@ Hoshana Go’aleinu Hoshana!
 Hoshana Dorsheinu Hoshana! </em>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Our God, Please save! 
 Our Creator, Please save! 
@@ -35,12 +35,12 @@ Our Seeker, Please save!
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 !הושענא
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <em>Hoshana!</em> Please save aquifers from poison and drought! <em>Hoshana!</em>
 Save bees from pesticides and fungus and collapse! <em>Hoshana!</em>
@@ -49,25 +49,25 @@ Save the breathing of this blue planet! <em>Hoshana!</em>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="english" lang="en" style="text-align: right;">
 <em>Hoshana ananim mil’ham’ni’a otzroteihem!</em>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Save clouds from withholding their treasures! <em>Hoshana!</em>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="english" lang="en" style="text-align: right;">
 <em>Hoshana Eretz u-m’lo’ah!
 Hoshana!
 Hoshana basar v’ruach u-n’shamah b’khol b’ri’ah!</em>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Save Earth and all that fills her! <em>Hoshana!</em>
 Save the forests from clearcutting, and from conflagration! <em>Hoshana!</em>
@@ -75,24 +75,24 @@ Save flesh and spirit and soul in every being! <em>Hoshana!</em>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Save glistening rivers from becoming rivers of oil and blood! <em>Hoshana!</em>
 Save habitat and home and species! <em>Hoshana!</em>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Please save! Keep drought from decimating! <em>Hoshana!</em>
 Save lodgepole and ponderosa from pine beetle! <em>Hoshana!</em>
@@ -105,12 +105,12 @@ Save refugees from drowning and war and hate! <em>Hoshana!</em>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="english" lang="en" style="text-align: right;">
 <em>Hoshana! Chidush p’nei ha’adamah!</em>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Please save! Renew the face of the Earth! <em>Hoshana!</em>
 Save sacred lands from being stripped and stolen and despoiled! <em>Hoshana!</em>
@@ -118,35 +118,35 @@ Save seas from inundating islands and cities! <em>Hoshana!</em>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="english" lang="en" style="text-align: right;">
 <em>Hoshana! Her’eh lanu et ha-keshet sas u-mit’pa’er b’govanin shelo!</em> 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Please save! Show us the rainbow rejoicing in its colors! <em>Hoshana!</em>
 Save the weave and web of Life! <em>Hoshana!</em>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="english" lang="en" style="text-align: right;">
 <em>Hoshana olam t’luyah al b’li mah!</em>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Please save a world suspended in the nothingness of space! <em>Hoshana!</em>   
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 !הושענא
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Save, please! <em>Hoshana!</em>
 </div></td></tr>

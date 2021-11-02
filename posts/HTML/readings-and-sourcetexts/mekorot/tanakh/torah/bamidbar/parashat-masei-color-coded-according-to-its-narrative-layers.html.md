@@ -29,7 +29,7 @@ The 'E' kernel, 'J' and 'B' layer are absent from this parashah.
 Parashat Mas'ei (Numbers 33:1-36:13) in the annual Torah reading cycle is the tenth and final parashah in Sefer Bamidbar. It is preceded by parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-bamidbar/parashat-matot/parashat-matot-color-coded-according-to-its-narrative-layers/">Matōt</a> (Numbers 30:2-32:42). Parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-devarim/parashat-devarim/parashat-devarim-color-coded-according-to-its-narrative-layers/">Devarim</a> (Deuteronomy 1:1-3:22), the first parashah of Sefer Devarim, follows it. 
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

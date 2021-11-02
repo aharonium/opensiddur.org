@@ -31,97 +31,97 @@ This is largely based on the work of Shoshana ben-Dor (former director of the <a
 This is part two of a series of Sigd readings in English, Hebrew, and Ge’ez transliteration that the editor will be posting here.
 </div>
 
-<table style="width: 100%;margin-left: auto;margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th><th style="text-align: left;">Translation (Tewahedo)</th></tr></thead>
+[xyz-ihs snippet="Table-Options"]<table style="width: 100%;margin-left: auto;margin-right: auto;" class="draggable">
+<thead><tr><th id="x" style="text-align: right;">Masoretic text (Hebrew)</th><th style="text-align: left;">Masoretic translation (English)</th><th style="text-align: left;">LXX translation (romanized Ge'ez)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 שִׁ֥יר הַֽמַּעֲל֗וֹת לְדָ֫וִ֥ד׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 A song of ascents, of David.
 </div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Maḫəletə zäbämäʽarəgihu. 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 שָׂ֭מַחְתִּי בְּאֹמְרִ֣ים לִ֑י
 בֵּ֖ית יְהֹוָ֣ה נֵלֵֽךְ׃
 </div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 I rejoiced when they said to me,
 To the house of the Lord we go up!
 </div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Täfäśaḥəku ʾəsəmä yəbeluni:
 betä ʾƎgəziʾäbəḥerə näḥäwərə.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 עֹ֭מְדוֹת הָי֣וּ רַגְלֵ֑ינוּ
 בִּ֝שְׁעָרַ֗יִךְ יְרוּשָׁלָֽ&#x200d;ִם׃ 
 </div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Our feet were stading
 In your gates, Jerusalem.
 </div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Wäḳoma ʾəgärinä wəsətä
 ʾäʽəṣadiki ʾIyärusalemə. 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 יְרוּשָׁלַ֥&#x200d;ִם הַבְּנוּיָ֑ה
 כְּ֝עִ֗יר שֶׁחֻבְּרָה־לָּ֥הּ יַחְדָּֽו׃
 </div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Jerusalem, built up
 Like a city knit together.
 </div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 ʾIyärusaleməsä ḥənəṣətə kämä hägärə:
 ʾəlä kämaha ḫəburä məsəlehu. 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 שֶׁשָּׁ֨ם עָל֪וּ שְׁבָטִ֡ים
 שִׁבְטֵי־יָ֭הּ עֵד֣וּת לְיִשְׂרָאֵ֑ל
 לְ֝הֹד֗וֹת לְשֵׁ֣ם יְהֹוָֽה׃
 </div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 For there the tribes ascended
 The tribes of Yah, witnesses for Israel
 to give thanks to the name of the Lord.
 </div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 ʾƎsəmä həyä ʽärəgu ʾäḥəzabə
 ḥəzəbä ʾƎgəziʾäbəḥerə səməʽä ʾƎsəraʾelə:
@@ -129,21 +129,21 @@ kämä yəgənäyu läsəməkä ʾƎgəziʾo.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 כִּ֤י שָׁ֨מָּה  ׀ יָשְׁב֣וּ
 כִסְא֣וֹת לְמִשְׁפָּ֑ט
 כִּ֝סְא֗וֹת לְבֵ֣ית דָּוִֽד׃
 </div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 For there sat
 The thrones of judgement
 The thrones of the house of David.
 </div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 ʾƎsəmä həyä ʾänəbäru
 mänabərətihomu läkʷänəno
@@ -151,78 +151,78 @@ mänabərätä betä dawitə.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 שַׁ֭אֲלוּ שְׁל֣וֹם יְרוּשָׁלָ֑&#x200d;ִם 
 יִ֝שְׁלָ֗יוּ אֹהֲבָֽיִךְ׃ 
 </div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Seek the peace of Jerusalem,
 May those who love you be at peace 
 </div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Täzäyanäwu däḫənaha läʾIyärusalemə:
 wäfəśəḥahomu läʾəlä yafəḳəru səmäkä.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 יְהִי־שָׁל֥וֹם בְּחֵילֵ֑ךְ
 שַׁ֝לְוָ֗ה בְּאַרְמְנוֹתָֽיִךְ׃
 </div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 May there be peace within your walls
 Prosperity in your palaces.
 </div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Yəkunə sälamä bäḫäyələkä: 
 wätəfəśəḥətə wəsətä maḫəfädä kəbädikä.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 לְ֭מַעַן אַחַ֣י וְרֵעָ֑י
 אֲדַבְּרָה־נָּ֖א שָׁל֣וֹם בָּֽךְ׃
 </div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 For the sake of my brothers and comrades,
 I wish to speak, please, of your peace.
 </div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Bäʾənətä ʾäḫäwəyä wäbiṣəyä:
 yətənagäru sälamä bäʾənətiʾäki. 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 לְ֭מַעַן בֵּית־
 יְהֹוָ֣ה אֱלֹהֵ֑ינוּ
 אֲבַקְשָׁ֖ה ט֣וֹב לָֽךְ׃
 </div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 For the sake of the House
 of the Lord our God,
 I request good for you.
 </div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Wäbäʾənətä bet
  ʾƎgəziʾäbəḥerə ʾäməlakiy

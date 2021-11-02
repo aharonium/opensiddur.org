@@ -7,11 +7,11 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 בְּקָראֵינוּ אֵלֶיךָ אֵל צֶדֶק עֲנֵינוּ
 הַקְשִׁיבָה לְקוֹל שַׁוְעָתֵינוּ וְחָנֵנוּ
@@ -19,7 +19,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 כִי אַתָּה אֵל עֶלְיוֹן הִרחַבתָּ צָרָה מִמֶנוּ
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 When we call upon You, El Tsedek,[foot]Righteous God[/foot] answer us,
 Listen to the sound of our cries and have mercy upon us,
 Comfort us and hearken to our prayers,
@@ -27,14 +27,14 @@ For You are the supreme Master, You have distanced troubles from us.
 </td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+<tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 אֵל חַנוּן הִצָלְתָּנוּ מִכָּל אוֹיְבֵנוּ
 מִמִתּקוֹמְמִים עָלֵינוּ אַתָּה פְּדִיתָּנוּ
 אַזַרתָּנוּ בְכֹח לִמְחוֹץ גֵאִוּת שׂנְאֵינוּ
 בְבוּשָׁה וּבִכלִימָה נָפלוּ תַחַת רַגלֵינוּ
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 El Ḥanun,[foot]Mericful God[/foot] You have rescued us from all our enemies,
 From those who rose up against us, You have saved us,
 You provided us with strength to crush the conceit of our foes,
@@ -42,14 +42,14 @@ In humiliation and in shame, they fell before our feet.
 </td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+<tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 אֵל צְבָאוֹת נָתַתָּ שָׁלוֹם וְשַׁלוָה בְאַרְמְנוֹתֵינוּ
 <span class="acrostic">וְ</span>אֶת <em>the President of the United States</em> נָתַתַּ לְרֹאשֵינוּ
 <span class="acrostic">וּ</span>בִתְפִלָה אָנוּ מַכְנִעִים לְפָנֶיך אֶלֹהֵינוּ
 <span class="acrostic">אֶ</span>ל תַחֲנוּנֵינוּ תַּקשִׁיב וְתוֹשִׁיעֵנוּ
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 El Tseva'ot,[foot]God of [the Angelic] Hosts[/foot] You have provided peace and quiet for the heart of our government; <span class="acrostic">&nbsp;</span>
 You have placed the President of the United States to act as our leader; <span class="acrostic">&nbsp;</span>
 Through prayer we humble ourselves before You, <span class="acrostic">&nbsp;</span>
@@ -57,14 +57,14 @@ To our supplications lend an ear and rescue us. <span class="acrostic">&nbsp;</s
 </td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+<tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 <span class="acrostic">שֵׂ</span>כֶל חָכמָה ותְבוּנָה תֵן בְלֵב רֹאשׁ מְדִינָתֵּנוּ
 <span class="acrostic">יִ</span>שְׁפֹט אֹתָנוּ בְצֶדֶק יִשְׂמַח וְיָגִיל לִבֵּנוּ
 <span class="acrostic">נְ</span>תִיבוֹת יְשָרִים הוּא יוֹלִיכֵנוּ
 <span class="acrostic">גַ</span>ם עַד שֵׂיבָה יִפקוֹד וְיִשְׁפֺּט בְתֺכֵנוּ
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Common sense, knowledge and insight, bestow upon the head of our state, <span class="acrostic">&nbsp;</span>
 May he act justly towards us, gladden and bring joy to our hearts, <span class="acrostic">&nbsp;</span>
 May he lead us along an honorable path, <span class="acrostic">&nbsp;</span>
@@ -72,7 +72,7 @@ Until his old age may he continue to act as leader and judge among us. <span cla
 </td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+<tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 <span class="acrostic">טָ</span>הוֹר וְיָשָׁר יִהְיֶה לֵב שָׂר וּפוקֵד עָלֵינוּ
 <span class="acrostic">אֵ</span>ל שַדַי יִשְׁמַע אֶל קוֹלֵינוּ וְיוֹשִׁיעֵנוּ
 <span class="acrostic">נַ</span>אֲרִיך תְפִלָתֵנוּ לִפְנֵי אֵל גוֹאֲלֵינוּ
@@ -80,7 +80,7 @@ Until his old age may he continue to act as leader and judge among us. <span cla
 <em>the Vice President, Senators, Representatives of the United States‏‎</em>.‎‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 May those who govern over us do so with purity of heart and with honor, <span class="acrostic">&nbsp;</span>
 El Shaddai, listen to our voices and our calls, <span class="acrostic">&nbsp;</span>
 As we lay out our prayers before El Go'alenu,[foot]God our Redeemer[/foot] <span class="acrostic">&nbsp;</span>
@@ -89,14 +89,14 @@ the Vice President, Senators and Representatives of the United States.
 </td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+<tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 יִתֵן שֵׂכֶל וּבִינָה לְכָל רָאשֵׁי מִשְׁפָטֵינוּ
 יְשָרִים וְנֶאֶמָנִים יִהְיֵ לְבָבֵי שָׂרֵינוּ
 יַצלִיח וִיִבָרֵךְ אֶת כָל מְדִינָתֵנוּ
 וּמִיַד בְנֵי נֵכָר יַצִילֵנוּ
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Provide wisdom and sense to all who lead our court system,
 May the hearts of our leaders be just and trustworthy,
 Provide success and bless all of our nation,
@@ -104,7 +104,7 @@ And from the hands of foreigners, protect us.
 </td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+<tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 כִנְטֻעִים מְגֻדָלִים בִנְעוּרֵיהֶם יִהְי בָנֵנוּ
 כִזָיִוֹת יִהְיֶ וּבְנוֹתֵינוּ
 מְלֵאִים מְפִיקִים מִזָן אֶלזָן יִהְיֶ מְזָוֵינוּ
@@ -112,7 +112,7 @@ And from the hands of foreigners, protect us.
 אַלוּפֵינוּ מְסוּבָלִים אֵין פֶרֶץ וְאֵין יוֹצֵץ בִרחוֹבוֹתֵינוּ
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 May our sons resemble young saplings that grow into strong trees,
 May our daughters develop like olive trees,
 May our land produce an abundance of food,
@@ -121,14 +121,14 @@ May our livestock work hard; may they encounter no difficulties and may none be 
 </td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+<tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 כָל אוֹהבי הַמְדִינָה וְשׁוֹפטֵיהֶם יְבָרֵך אֶלֹהֵינוּ
 וּתָנוּ כָבוֹד לה׳ אֵל גוֹאֲלֵינוּ
 תִּוָשַׁע יְהוּדָה וְיִשְרָאֵל יִשׁכוֹן לָבֶטַח וּבָּא לְצִיוֹן גוֹאֵל
 וְנֺאמַר אָמֵן
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 All those who love our country and its leaders, may they bless our <em>elo'ah</em>,[foot]our God[/foot]&nbsp;
 May they extend honor to YHVH El Go'alenu
 May Judea be saved and Israel dwell in safety, and may the Redeemer come to Zion,

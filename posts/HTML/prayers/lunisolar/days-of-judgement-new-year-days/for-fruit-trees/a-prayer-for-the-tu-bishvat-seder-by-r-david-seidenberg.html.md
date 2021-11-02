@@ -15,11 +15,11 @@ This prayer, and the seder for Tu biShvat, are based on the Kabbalah of the four
 
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אָנָּא הָאֵל, העוֹשֶׂה וְהַיּוֹצֵר וְהַבּוֹרֵא וְהַמַּאֲצִיל עוֹלָמוֹת עֶלְיוֹנִים, וּבְצוּרָתָם וּבְצִבְיוֹנָם בָּראתָ דוּגְמָתָן עַל הָאָרֶץ מִתַּחַת‏,‏
 </span></div></td>
@@ -30,7 +30,7 @@ Please God, who makes (<em>ha'oseh</em> <span class="hebrew" lang="he">העוש�
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
  כּוּלָם בְּחָכְמָה עָשִׂיתָ׃ עֶלְיוֹנִים לְמַעְלָה וְתַחְתּוֹנִים לְמַטָּה, ”לְחַבֵּר אֶת הָאוֹהֶל לִהְיוֹת אֶחָד,“‏ <span class="citation">(שמות לו:יח)</span>
 </span></div></td>
@@ -41,7 +41,7 @@ You made all of them with wisdom, higher above and lower below, "to join [togeth
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
  וְאִילָנִין וּדְשָׁאִים מִן הָאֲדָמָה הִצְמַחְתָּ, בְּקוֹמָתָם וּבְצִבְיוֹנָם שֶׁל מַעְלָה, לְהוֹדִיעַ לִבְנֵי אָדָם חָכְמָה וּתְבוּנָה בָּהֵמָּה, לְהַשִּׂיג בַּנֶּעְלָמִים,‏
 </span></div></td>
@@ -52,7 +52,7 @@ And You made trees and grasses bloom from the ground in the shape and pattern of
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
  וּפָקַדְתָּ עֲלֵיהֶם בְּמִשְׁמֶרֶת מַלְאָכֶיךָ הַקְּדוֹשִים הַמְּמוּנִּים וְהַמּוּשְׁטָרִים לְהַגְדִּילָם וּלְהַצְמִיחָן וְעָלֵימוֹ תִיטּוֹף שֶׁפַע וְכֹחַ מִדוֹתֶיךָ הָעֶלְיוֹנוֹת, "...וַ֝יַּעֲשׂ֗וּ פְּרִ֣י תְבֽוּאָה" <span class="citation">(תהלים קז:לז)</span> וכל "...עֵ֣ץ פְּרִ֞י עֹ֤שֶׂה פְּרִי֙ לְמִינ֔וֹ..." (בראשית א:יא), ו”מִפְּרִ֥י מַ֝עֲשֶׂ֗יךָ תִּשְׂבַּ֥ע הָאָֽרֶץ“ (תהלים קד:יג), לֶאֱכוֹל מִפִּרְיָהּ וְלִשְׂבּועַ מִטּוּבָה. לְהַחֲיוֹת בָּהֶם נֶפֶשׁ כָּל חַי מִן הַכֹּחַ הָרוּחָנִי אֲשֶר בָּהֶן,‏
 </span></div></td>
@@ -63,7 +63,7 @@ And upon them You will drop the flow and power of Your higher vessels (<em>midot
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
  מִפְּרִי פִי מַלְאָכֶיךָ הַקְּדוֹשִׁים הַנּוֹטְרִים אֶת פִּרְיוֹ וּמִמֶּנוּ פֶרְיְיךָ נִמְצָא, שְׂכַר פְּרִי הַבֶּטֶן לְהַחֲיוֹת וְלָזוּן אֶת הַגּוּף, ”[וְהָיָ֤ה] פִרְיוֹ֙ לְמַֽאֲכָ֔ל וְעָלֵ֖הוּ לִתְרוּפָֽה׃“ <span class="citation">(יחזקאל מז:יב)</span>.‏
 </span></div></td>
@@ -74,7 +74,7 @@ And from Your fruit will come[foot]after Hosea 14:9[/foot] the reward of the fru
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְזֶה הַיּוֹם תְּחִילַּת מַעֲשֶׂיךָ לְהַחְנִיטָהּ וּלְחַדְּשָה, ”...אִ֛ישׁ יָבִ֥א בְּפִרְי֖וֹ...“ <span class="citation">(שיר השירים ח:יא)</span> ”...עֹשֶׂה פְּרִי...לְמִינֵהוּ...“ <span class="citation">(בראשית א:יב)</span>; כִּי כֵן יִמְלְאוּ יְמֵי הַחֲנוּטִים לְפֵירוֹת הָאִילָן הָעֶלְיוֹן ”...עֵץ (החיים) אֲשֶׁר בְּתוֹךְ הַגָּן...“ <span class="citation">(בראשית ג:ג)</span>, וְעָשָׂה פְּרִי לְמָעְלָה.‏
 </span></div></td>
@@ -85,7 +85,7 @@ And this day of Tu biShvat (or: this moon of Sh'vat) is the beginning of Your wo
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וִיהִי רָצוֹן מִלְפָנֶיךָ יְיָ אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֹתֵינוּ, שֶׁבְּכֹחַ סְגוּלַּת אֲכִילַת הַפֵּירוֹת שֶׁנֹּאכַל וּנְבָרֵךְ עֲלֵיהֶן עַתָּה וַאֲשֶׁר נֶהָגֶה בְּסוֹד שׁוֹרְשֵהֶן יתְעוֹרְרוּ שְׂרָפֵיהֶן הָעֶלְיוֹנִים אֲשֶר הֵמָּה תְּלוּיִים בָּם לְהַשְׁפִּיעַ עֲלֵיהֶן שֶׁפַע רָצוֹן בְּרָכָה וּנְדָבָה, וְגַם הַמְּמוּנִּים וְהַמֻּשְּטָרִים עֲלֵיהֶן יִתְמַלְּאוּ מֵעוֹז שֶׁפַע הדרן לָשׁוּב שֵׁנִית לְהַגְדִּילָם וּלְהַצְמִיחָם מֵרֵאשִׁית הַשָּׁנָה וְעַד אַחֲרִית הַשָּׁנָה לְטוֹבָה וְלִבְרָכָה לְחַיִּים טוֹבִים וּלְשָׁלוֹם.‏
 </span></div></td>
@@ -96,7 +96,7 @@ May it be willed by You, our God and God of our ancestors, by the power of the m
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְקיֵּים לָנוּ אֶת הַדָּבָר שֶהִבְטַחְתָּנוּ עַל יְדֵי מַלְאָכִי חוֹזָךְ: "וְגָעַרְתִּ֤י לָכֶם֙ בָּֽאֹכֵ֔ל וְלֹֽא־יַשְׁחִ֥ת לָכֶ֖ם אֶת־פְּרִ֣י הָאֲדָמָ֑ה וְלֹא־תְשַׁכֵּ֨ל לָכֶ֤ם הַגֶּ֙פֶן֙ בַּשָּׂדֶ֔ה אָמַ֖ר יְהוָ֥ה צְבָאֽוֹת" <span class="citation">(מלאכי ג:יא)</span>.
 ‏</span></div></td>
@@ -107,7 +107,7 @@ And may You sustain the word which you promised us by the hands of Malachi your 
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 ‎‏"הַשְׁקִיפָה֩ מִמְּע֨וֹן קָדְשְׁךָ֜ מִן־הַשָּׁמַ֗יִם..." <span class="citation">(דברים כו:טו)</span>, בָרֵךְ עָלֵינוּ אֶת הַשָׁנָה הַזֹּאת לְטוֹבָה וְלִבְרָכָה, "...תְשִׁיתֵ֣הוּ בְרָכ֣וֹת לָעַ֑ד תְּחַדֵּ֥הוּ בְ֝שִׂמְחָ֗ה אֶת־פָּנֶֽיךָ" <span class="citation">(תהלים כא:ז)</span>, "...וְנָתְנָ֤ה הָאָ֙רֶץ֙ יְבוּלָ֔הּ וְעֵ֥ץ הַשָּׂדֶ֖ה יִתֵּ֥ן פִּרְיֽוֹ" <span class="citation">(ויקרא כו:ד)</span>, וְעֲלֵיהֶם תָּבֹא בִּרְכַּת טוֹב לְהִתְבָּרֵךְ פֵּירוֹתֶיהָ בְּמֵעֵינוּ אֶחָד הַמַּרְבֶּה וְאֶחָד הַמַּמְעִיט גַּם בְּרָכוֹת יַעְטֶה בִבְרִיאוּת הַגּוּף שָם יְצַוֶּה ה׳ אֶת הַבְּרָכָה חַיִּים עַד הָעוֹלָם.‏
 </span></div></td>
@@ -118,7 +118,7 @@ And may You sustain the word which you promised us by the hands of Malachi your 
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְעוֹז הֲדַר הַבְּרָכוֹת בַּאֲכִילַת הַפֵּירוֹת יִהְיוּ לִמְאוֹרוֹת בְמַעְיַין הַבְּרָכוֹת צַדִּיק חַי הָעוֹלָמִים וְנִרְאֲתָה הַקֶשֶׁת שָׂשׂ וּמִתְפָּאֵר בְּגוָֺונִים שֶׁלּוֹ וּמִשָּׂם יוּשְׁפַּע עָלֵינוּ שֶׁפַע רָצוֹן וְרַחֲמִים לִמְחוֹל וְלִסְלֹחַ מֵעֲוֹנוֹתֵינוּ וְאַשְׁמָתֵנוּ אֲשֶׁר נוֹאַלְנוּ וַאֲשֶר חָטָאנוּ. וְהָיִינוּ מַרְשִׁיעֵי בְרִית וּפגַמְנוּ בִפְרִי צַדִּי״ק חַי הַעוֹלמָיִם וּמַנַעְנוּ רְבִיבֵי הַשְׁפָּעֲתוֹ וְנִשְׁחָתוּ כָּל מְקוֹרוֹת וְיָשׁוּב עַתָּה הַכּל לְאֵיתָנוֹ הָרִאשׁוֹן וְתֵשֵׁב בְּאֵיתָן קַשְׁתּוֹ, כִּי אַתָּה תְּבָרֵךְ צַדִּיק ה׳ כַּצִנָּה רָצוֹן תַּעְטְרֵהוּ <span class="citation">(תהלים ה:יג)</span>.‏
 </span></div></td>
@@ -129,7 +129,7 @@ And may the might and majesty of the blessings for eating the fruits "become lig
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְכָל הַנִּצוֹצוֹת שֶׁנִּתְפַּזְּרוּ עַל יָדֵינוּ אוֹ עַל יְדֵי אֲבוֹתֵינוּ וּבְעָוֹן אָדָם הָרִאשׁוֹן אֲשֶר חָטָא בְפֵירוֹת הָאִילָן עַתָּה יָשׁוּבוּ לְהִתְכַּלֵּל בְּעוֹז הֲדַר עֵץ הַחַיִים,‏
 </span></div></td>
@@ -139,7 +139,7 @@ And may all the sparks, scattered by our hands, or by the hands of our ancestors
 </td></tr>
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 ‎‏“אָ֥ז יְרַנְּנ֖וּ עֲצֵ֣י הַיָּ֑עַר...” (דברי הימים א טז׃לג),וְעֵץ הַשָּׂדֶה נָשָׂא עָנָף וְעָשָׂה פֶרִי דְבַר יוֹם בְּיוֹמוֹ, “וְלָקַחְתָּ מֵרֵאשִׁית כָּל פְּרִי הָאֲדָמָה...” (דברים כו:ב), לְהָבִיא בִּכּוּרִים לִפְנֵי מִזְבֵּחַ ה׳ בְּהַלֵּל וְתוֹדוֹת לַה׳ אֱלֹהֵינוּ,‏
 </span></div></td>
@@ -153,11 +153,11 @@ Rabbi Seidenberg adds:
 
 <blockquote>Here's an abridged version of the prayer you can easily incorporate into your seder – just copy and paste (or use this <a href="https://opensiddur.org/wp-content/uploads/2011/01/Ana-Hael-Daivd-Seidenberg-neohasid.org-2018.pdf">PDF</a>):
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew (source)</th><th style="text-align: left;">English (translation)</th></tr></thead>
 <tbody>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אָנָּא הָאֵל, הָעוֹשֶׂה וְהַיּוֹצֵר וְהַבּוֹרֵא וְהַמַּאֲצִיל עוֹלָמוֹת עֶלְיוֹנִים 
 וְאִילָנִין וּדְשָׁאִים מִן הָאֲדָמָה הִצְמַחְתָּ 
@@ -177,7 +177,7 @@ for so will be ripened the fruit of the highest tree,
 </td></tr>
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וִיהִי רָצוֹן מִלְפָנֶיךָ יְיָ אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֹתֵינוּ, 
 שֶׁבְּכֹחַ סְגוּלַּת אֲכִילַת הַפֵּירוֹת שֶׁנֹּאכַל וּנְבָרֵךְ עֲלֵיהֶן עַתָּה 
@@ -197,7 +197,7 @@ for good life, for blessing and for peace.
 </td></tr>
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְיָשׁוּב עַתָּה הַכּל לְאֵיתָנוֹ הָרִאשׁוֹן 
 וְנִרְאֲתָה הַקֶשֶׁת שָׂשׂ וּמִתְפָּאֵר בְּגָווֹנִים. 
@@ -209,7 +209,7 @@ and may the rainbow appear rejoicing and beautiful in its colors.
 </td></tr>
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְכָל הַנִּצוֹצוֹת 
 שֶׁנִּתְפַּזְּרוּ עַל יָדֵינוּ 

@@ -7,28 +7,28 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 לְדָוִ֨ד ׀ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Of David. 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 בָּ֘ר֤וּךְ יְהֹוָ֨ה ׀ צוּרִ֗י
 הַֽמְלַמֵּ֣ד יָדַ֣י לַקְרָ֑ב 
 אֶ֝צְבְּעוֹתַ֗י לַמִּלְחָמָֽה׃ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Blessed is the <span style="text-transform: uppercase;">Cause</span> my Rock, 
 who teaches my hands for battle, 
@@ -36,7 +36,7 @@ my fingers for warfare.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 חַסְדִּ֥י וּמְצוּדָתִי֮
 	מִשְׂגַּבִּ֢י וּֽמְפַלְטִ֫י 
@@ -44,7 +44,7 @@ my fingers for warfare.
 הָרוֹדֵ֖ד עַמִּ֣י תַחְתָּֽי׃ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 My faithful one, my fortress, 
 my stronghold, and my deliverer, 
@@ -53,59 +53,59 @@ who subdues my people below me.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 יְֽהֹוָ֗ה מָֽה־אָ֭דָם וַתֵּדָעֵ֑הוּ
 בֶּן־אֱ֝נ֗וֹשׁ וַתְּחַשְּׁבֵֽהוּ׃ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 O <span style="text-transform: uppercase;">Cause</span>, what are humanity that You know them, 
 mortal people that You think of them? 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אָ֭דָם לַהֶ֣בֶל דָּמָ֑ה
 יָ֝מָ֗יו כְּצֵ֣ל עוֹבֵֽר׃ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 A human is as a breath, 
 one's days like a passing shadow. 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 יְ֭הֹוָה הַט־שָׁמֶ֣יךָ וְתֵרֵ֑ד
 גַּ֖ע בֶּהָרִ֣ים וְֽיֶעֱשָֽׁנוּ׃ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 O <span style="text-transform: uppercase;">Cause</span>, bend down Your sky and descend, 
 touch the mountains so they smoke. 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 בְּר֣וֹק בָּ֭רָק וּתְפִיצֵ֑ם
 שְׁלַ֥ח חִ֝צֶּ֗יךָ וּתְהֻמֵּֽם׃ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Flash lightning and scatter them, 
 send Your arrows and confuse them. 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 שְׁלַ֥ח יָדֶ֗יךָ מִמָּ֫ר֥וֹם
 פְּצֵ֣נִי וְ֭הַצִּילֵנִי מִמַּ֣יִם רַבִּ֑ים 
@@ -114,7 +114,7 @@ send Your arrows and confuse them.
 וִ֝ימִינָ֗ם יְמִ֣ין שָֽׁקֶר׃ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Send Your hand from high, 
 free me and save me from the great waters, 
@@ -124,33 +124,33 @@ and whose hands vow falsely.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֱֽלֹהִ֗ים שִׁ֣יר חָ֭דָשׁ אָשִׁ֣ירָה לָּ֑ךְ
 בְּנֵ֥בֶל עָ֝שׂ֗וֹר אֲזַמְּרָה־לָּֽךְ׃ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 O God, let me sing a new song to You, 
 with a ten-string harp let me hymn to You.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הַנּוֹתֵ֥ן תְּשׁוּעָ֗ה לַמְּלָ֫כִ֥ים
 הַ֭פּוֹצֶה אֶת־דָּוִ֥ד עַבְדּ֗וֹ מֵחֶ֥רֶב רָעָֽה׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 The One who gives victory to kings, 
 who saves David Your Servant from the evil sword. 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 פְּצֵ֥נִי וְהַצִּילֵנִי֮
 	מִיַּ֢ד בְּֽנֵי־נֵ֫כָ֥ר 
@@ -158,7 +158,7 @@ who saves David Your Servant from the evil sword.
 וִ֝ימִינָ֗ם יְמִ֣ין שָֽׁקֶר׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Free me, save me 
 from the hand of the stranger's sons, 
@@ -167,7 +167,7 @@ and whose hands vow falsely.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֲשֶׁ֤ר בָּנֵ֨ינוּ ׀ כִּנְטִעִים֮
 מְגֻדָּלִ֢ים בִּֽנְעוּרֵ֫יהֶ֥ם
@@ -175,7 +175,7 @@ and whose hands vow falsely.
 	מְ֝חֻטָּב֗וֹת תַּבְנִ֥ית הֵיכָֽל׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 For our children are like young trees 
 growing well in their youth, 
@@ -184,7 +184,7 @@ cut to build a palace.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מְזָוֵ֣ינוּ מְלֵאִים֮
 	מְפִיקִ֥ים מִזַּ֗ן אֶ֫ל זַ֥ן
@@ -192,7 +192,7 @@ cut to build a palace.
 מְרֻבָּב֗וֹת בְּחוּצוֹתֵֽינוּ׃ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Our granaries are full, 
 suppling sorts, all sorts; 
@@ -201,14 +201,14 @@ tens of thousands in our fields.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אַלּוּפֵ֗ינוּ מְֽסֻבָּ֫לִ֥ים
 אֵֽין־פֶּ֭רֶץ וְאֵ֣ין יוֹצֵ֑את 
 וְאֵ֥ין צְ֝וָחָ֗ה בִּרְחֹבֹתֵֽינוּ׃ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Our cattle are enduring – 
 there is no breaching, no escaping, 
@@ -216,13 +216,13 @@ no crying in our streets.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אַשְׁרֵ֣י הָ֭עָם שֶׁכָּ֣כָה לּ֑וֹ
 אַֽשְׁרֵ֥י הָ֝עָ֗ם שֱׁיְהֹוָ֥ה אֱלֹהָֽיו׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Happy is the people who have it thus, 
 happy is the people for whom the <span style="text-transform: uppercase;">Cause</span> is their God.

@@ -7,25 +7,25 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Each one who aligns oneself every day with these principles of the faith and lives according to them can be assured that s/he will have a role in the World to Come for us and for all the peoples on the entire world soon:
 </div></td></tr>
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 א
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 1
 May it be the Divine will that I believe with perfect faith 
 in the G‑d who is infinite 
@@ -41,12 +41,12 @@ and to effectuate
 all that exists in the universe.
 </div></td></tr>
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 ב
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 2
 May it be the Divine will that I believe with perfect faith 
 in the Oneness of G‑d and of all creation, 
@@ -57,12 +57,12 @@ who constantly calls everything into being -
 who causes all existence at every moment.
 </div></td></tr>
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 ג
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 3
 May it be the Divine will that I believe with perfect faith 
 that the Creator has an intent and a purpose in creation, 
@@ -74,12 +74,12 @@ until the world will be as filled with knowledge of G‑d
 as the waters cover the sea.
 </div></td></tr>
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 ד
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 4
 May it be the Divine will that I believe with perfect faith 
 that the hoped-for goal is that 
@@ -91,12 +91,12 @@ and organic whole
 and that every living being will know that 
 You are the One who constantly causes its existence.</div></td></tr>
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 ה
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 5
 May it be the Divine will that I believe with perfect faith 
 that all the pathways through which 
@@ -104,12 +104,12 @@ the Holy Spirit is manifest and revealed
 are of one piece with the Torah that was given at Sinai.
 </div></td></tr>
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 ו
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 6
 May it be the Divine will that I believe with perfect faith 
 in the mission of Judaism, 
@@ -121,12 +121,12 @@ how indispensable and integral they are
 to the health of all the species of the planet.
 </div></td></tr>
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 ז
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 7
 May it be the Divine will that I believe with perfect faith 
 that the universe is not ownerless and abandoned, 
@@ -137,12 +137,12 @@ participates in the destruction of the world; 
 and that every action has an impact on the rest of existence.
 </div></td></tr>
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 ח
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 8
 May it be the Divine will that I believe with perfect faith 
 that the amount of good in the world 
@@ -150,12 +150,12 @@ is greater than the amount of evil,
 and that the entire order of movement through the chain of evolution 
 is designed to bring about the fulfillment of the Divine intention.</div></td></tr>
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 ט
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 9
 May it be the Divine will that I believe with perfect faith 
 that the deeds of the fathers and mothers 
@@ -165,23 +165,23 @@ contains within it
 the seeds of the light of redemption.
 </div></td></tr>
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 י
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 10
 May it be the Divine will that I believe with perfect faith 
 that our prayers are heard and answered.
 </div></td></tr>
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 יא
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 11
 May it be the Divine will that I believe with perfect faith 
 that the Holy Shechinah dwells within our midst 
@@ -190,12 +190,12 @@ show kindness too to the Sh’khinnah,
 and vice versa.
 </div></td></tr>
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 יב
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 12
 May it be the Divine will that I believe with perfect faith 
 that physical death does not terminate the existence of the soul; 
@@ -204,12 +204,12 @@ that there are innumerable worlds,
 within which they return to live again.
 </div></td></tr>
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 יג
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 13
 May it be the Divine will that I believe with perfect faith 
 in Tikkun HaOlam, 

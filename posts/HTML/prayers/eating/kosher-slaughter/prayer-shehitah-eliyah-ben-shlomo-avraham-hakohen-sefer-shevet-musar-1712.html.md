@@ -7,11 +7,11 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew (source)</th><th style="text-align: left;">English (translation)</th></tr></thead>
 <tbody>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 יְהִי רָצוֹן מִלְפָנֶיךָ 
 ה׳ אֱלֹהַי וֵאלֹהֵי אֲבוֹתַי, 
@@ -21,7 +21,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 אַף עַל פִּי שֶׁהִרְבָּה לְהַכְעִיסֶךָ. 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 May it be your will,
 YHVH my <em>elo'ah</em> and <em>elo'ah</em> of my ancestors,
 the most Merciful of all,
@@ -41,7 +41,7 @@ even those who have angered you many times --
 כַּאֲשֶׁר צִוִתָה לַעֲשוֹת.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 If she is delivered (for slaughter) trapped as a <em>gilgul nefesh</em>,[foot]lit. <em>l'raglah</em> "by her leg," (unclear). A reference to a human soul transmigrated into an animal body[/foot]&nbsp;
 caught within the body of a domesticated animal, wild animal, or bird 
 that I am slaughtering,
@@ -61,7 +61,7 @@ as you have commanded it.
 וּלְהַחֲזִירָהּ מַדְרֵגַת אָדָם כְּבַתְּחִילָה,
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Even though I am not worthy to make such a tikkun (spiritual repair) myself,
 may the fulfillment of your commandments that I am fulfilling 
 through blessing and slaughtering with a proper knife
@@ -79,7 +79,7 @@ if she is here,[foot]if there is such a gilgul here in the animal[/foot]&nbsp;
 וּלְהַרְבּוֹת בִּשְׂכָרָהּ.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 For you do not wish for the complete death of the wicked person, 
 but wish for the repair of their (spirit) to purify them, 
 until they return to you and to the fulfillment of your mitsvot, 
@@ -99,7 +99,7 @@ and to be abundant in merit.
 אַל תֵּצֵא עֲרוּמָה מִזְכֻיוֹת,
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 And because of this,
 Master of the Cosmos,
 may you not look upon my wicked deeds -
@@ -120,7 +120,7 @@ will not be devoid of merit.
 אִם יֵשׁ בִּבְהֵמָה אוֹ חַיָה אוֹ עוֹף שֶׁאֲנִי שׁוֹחֵט.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Therefore I am presenting my plea before your Throne of Kavod:
 that you will eradicate and cover 
 my sins and transgressions and crimes 
@@ -137,7 +137,7 @@ if there are any in the domesticated animal, wild animal, or bird that I am slau
 נַפְשוֹת עַמוֹ יִשְׂרָאֵל׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 For you are the Most Merciful,
 who desires making souls virtuous.
 Blessed is the One who purifies and repairs and brings merit 

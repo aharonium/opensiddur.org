@@ -7,10 +7,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הַֽלְלוּ־יָ֡הּ 
 הַלְלִ֥י נַ֝פְשִׁ֗י אֶת־יְהוָֽה׃
@@ -20,7 +20,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 בְּעוֹדִֽי׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <strong>Hallelu-Yah!</strong>
 Spirit of mine, praise Yah!
@@ -31,7 +31,7 @@ With all my being.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אַל־תִּבְטְח֥וּ בִנְדִיבִ֑ים 
 בְּבֶן־אָדָ֓ם ׀ 
@@ -41,7 +41,7 @@ With all my being.
 בַּיּ֥וֹם הַ֝ה֗וּא אָבְד֥וּ עֶשְׁתֹּנֹתָֽיו׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 I will not put my reliance in big shots. 
 What can people do, 
@@ -52,7 +52,7 @@ All their schemes have vanished.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אַשְׁרֵ֗י 
 שֶׁ֤אֵ֣ל יַעֲקֹ֣ב בְּעֶזְר֑וֹ 
@@ -75,7 +75,7 @@ All their schemes have vanished.
 יְעַוֵּֽת׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Happy is one, 
 Who is helped by Yaakov’s god; 
@@ -99,7 +99,7 @@ Of the malicious.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 יִמְלֹ֤ךְ יְהוָ֨ה ׀ 
 לְעוֹלָ֗ם אֱלֹהַ֣יִךְ צִ֭יּוֹן 
@@ -107,7 +107,7 @@ Of the malicious.
 הַֽלְלוּ־יָֽהּ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Please, Yah! Tsiyyon’s god! 
 Manifest Your rule in the world! 
@@ -118,7 +118,7 @@ For us, and for our children.
 
 <hr />
 
-Rabbi Zalman Schachter-Shalomi, z”l, included his translation of <a href="https://en.wikipedia.org/wiki/Psalms_146">Psalms 146</a> in his <em><a href="https://opensiddur.org/siddurim/ha-ari/neo-hasidut/reb-zalmans-open-siddur-tehillat-hashem/">Siddur Tehillat Hashem Yidaber Pi</a></em> (2009). To the best of my ability, I have set his English translation side-by-side with the Hebrew verses comprising Psalms 146. I have added additional paragraph breaks and replaced some anglicizations. –Aharon N. Varady
+Rabbi Zalman Schachter-Shalomi, z”l, included his translation of <a href="https://en.wikipedia.org/wiki/Psalm_146">Psalms 146</a> in his <em><a href="https://opensiddur.org/siddurim/ha-ari/neo-hasidut/reb-zalmans-open-siddur-tehillat-hashem/">Siddur Tehillat Hashem Yidaber Pi</a></em> (2009). To the best of my ability, I have set his English translation side-by-side with the Hebrew verses comprising Psalms 146. I have added additional paragraph breaks and replaced some anglicizations. –Aharon N. Varady
 
 <h3>Source(s)</h3>
 

@@ -9,12 +9,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <table style="margin-left: auto;margin-right: auto;">
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 <h3>Poem To be read on Friday evening, before the Sabbath meal, by all those seated at the table</h3>
 <em>by Abraham ben Marchiv Tsedaka Hassafari, 1852-1928</em>
  
@@ -46,12 +46,12 @@ Because our healing is in Your Hands.
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 <h3>The Blessing on the Food</h3>
 <em>(Then the eldest one at the dinner table will bless the others)</em>
  

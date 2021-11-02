@@ -7,10 +7,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הַ֥לְלוּ יָ֨הּ ׀ 
 כִּי־ט֭וֹב זַמְּרָ֣ה אֱלֹהֵ֑ינוּ 
@@ -31,7 +31,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 אֵ֣ין מִסְפָּֽר׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <strong>Hallelu-Yah!</strong>
 It is so good to sing to our god 
@@ -53,20 +53,20 @@ His way of comprehension.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מְעוֹדֵ֣ד עֲנָוִ֣ים יְהוָ֑ה 
 מַשְׁפִּ֖יל רְשָׁעִ֣ים עֲדֵי־אָֽרֶץ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Yah, encourages the downtrodden, 
 But the insolent, he brings low.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 עֱנ֣וּ לַיהוָ֣ה בְּתוֹדָ֑ה 
 זַמְּר֖וּ 
@@ -78,7 +78,7 @@ But the insolent, he brings low.
 הַמַּצְמִ֖יחַ הָרִ֣ים חָצִֽיר׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Offer gratitude to Yah! 
 To the harp, 
@@ -91,7 +91,7 @@ Making the hills sprout forth grass.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 נוֹתֵ֣ן לִבְהֵמָ֣ה 
 לַחְמָ֑הּ 
@@ -109,7 +109,7 @@ Making the hills sprout forth grass.
 אֱלֹהַ֣יִךְ צִיּֽוֹן׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Giving the animals the food 
 They need; 
@@ -128,7 +128,7 @@ Celebrate that he is your god!
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 כִּֽי־חִ֭זַּק 
 בְּרִיחֵ֣י שְׁעָרָ֑יִךְ 
@@ -142,7 +142,7 @@ Celebrate that he is your god!
 עַד־מְ֝הֵרָ֗ה יָר֥וּץ דְּבָרֽוֹ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Because he strengthened 
 The bars of your gates, 
@@ -157,7 +157,7 @@ His command is swiftly fulfilled.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הַנֹּתֵ֣ן שֶׁ֣לֶג כַּצָּ֑מֶר 
 כְּ֝פ֗וֹר 
@@ -170,7 +170,7 @@ His command is swiftly fulfilled.
 יִזְּלוּ־מָֽיִם׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Snow, like white wool, 
 He sends down. 
@@ -184,14 +184,14 @@ And the waters flow.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מַגִּ֣יד דברו [דְּבָרָ֣יו] לְיַעֲקֹ֑ב 
 חֻקָּ֥יו וּ֝מִשְׁפָּטָ֗יו 
 לְיִשְׂרָאֵֽל׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 He imparts his words to Yaakov; 
 His statutes and judgments 
@@ -199,7 +199,7 @@ To Yisrael.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 &nbsp;
 לֹ֘א עָ֤שָׂה כֵ֨ן ׀ 
@@ -208,7 +208,7 @@ To Yisrael.
 הַֽלְלוּ־יָֽהּ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Alas!
 He did not do the same 
@@ -220,7 +220,7 @@ He did not share with them.
 
 <hr />
 
-Rabbi Zalman Schachter-Shalomi, z”l, included his translation of <a href="https://en.wikipedia.org/wiki/Psalms_147">Psalms 147</a> in his <em><a href="https://opensiddur.org/siddurim/ha-ari/neo-hasidut/reb-zalmans-open-siddur-tehillat-hashem/">Siddur Tehillat Hashem Yidaber Pi</a></em> (2009). To the best of my ability, I have set his English translation side-by-side with the Hebrew verses comprising Psalms 147. I have replaced some anglicizations, removed capitalization for divine pronouns, and changed the translation of בהמות (behemot) from 'beasts' to 'animals'. –Aharon N. Varady
+Rabbi Zalman Schachter-Shalomi, z”l, included his translation of <a href="https://en.wikipedia.org/wiki/Psalm_147">Psalms 147</a> in his <em><a href="https://opensiddur.org/siddurim/ha-ari/neo-hasidut/reb-zalmans-open-siddur-tehillat-hashem/">Siddur Tehillat Hashem Yidaber Pi</a></em> (2009). To the best of my ability, I have set his English translation side-by-side with the Hebrew verses comprising Psalms 147. I have replaced some anglicizations, removed capitalization for divine pronouns, and changed the translation of בהמות (behemot) from 'beasts' to 'animals'. –Aharon N. Varady
 
 <h3>Source(s)</h3>
 

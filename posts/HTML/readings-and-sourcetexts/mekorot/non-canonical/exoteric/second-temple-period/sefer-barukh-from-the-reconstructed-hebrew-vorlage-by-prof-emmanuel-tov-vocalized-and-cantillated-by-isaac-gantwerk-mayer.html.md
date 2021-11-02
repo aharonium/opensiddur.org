@@ -13,7 +13,7 @@ The book of Barukh (also, Βαροὺχ and Baruch/Barouch) is a deuterocanonica
 The text here is vocalized and cantillated according to the standard Tiberian system. Both because of the solemn nature of the content and the book's status as traditionally related to the works of Jeremiah, the attached recording uses the cantillation system of Lamentations. At the end verse 3:6 is repeated so as to end on a positive note. (Chapter 5 in the Greek also ends on a positive note, but as previously stated the Semitic origin of the final chapters is questionable.) Barukh is appropriate to study during the Three Weeks for its emphasis on exile, or during the season of repentance.
 </div>
  
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: left;">Translation (Greek)</th><th style="text-align: right;">Reconstructed Vorlage (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

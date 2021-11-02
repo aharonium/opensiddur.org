@@ -7,10 +7,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 נַחֵם •••• אֱלֹהֵֽינוּ 
 אֶת אֲבֵלֵי צִיּוֹן 
@@ -23,7 +23,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 כִּי בִשְׁלוֹמָהּ יִהְיֶה לָנוּ שָׁלוֹם. <span class="citation">(כמו ירמיה כט:ז)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Comfort, ‪•••• our God, 
 the mourners of Zion 
@@ -37,7 +37,7 @@ for in Her peace will be peace for us.[foot]based on Jeremiah 29:7[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אָכֵן, אָבִֽינוּ מָלְכֵּֽנוּ, הַחַנּוּן וְהָרַחוּם, 
 עֹשֶׂה שָׁלוֹם שֶׁהַשָּׁלוֹם שֶׁלּוֹ, 
@@ -46,7 +46,7 @@ for in Her peace will be peace for us.[foot]based on Jeremiah 29:7[/foot]
 שׁוּבָה וְהִנָּחֵם עַל־עֲבָדֶֽיךָ. <span class="citation">(תהלים צ:יג)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Thus, our Parent, our Sovereign, Gracious and Merciful One, 
 Maker of Peace to whom Peace belongs, 
@@ -56,7 +56,7 @@ return and have mercy on Your servants.[foot]Psalm 90:13[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְאַז נַעֲלֶה אֶל־הַמָּקוֹם אֲשֶׁר־בָּחַֽרְתָּ לְשָׁכֵּן אֶת־שִׁמְךָ שָׁם, <span class="citation">(כמו דברים טז:ו)</span>
 כִּימֵי עוֹלָם וּכְשָׁנִים קַדְמֹנִיּוֹת. <span class="citation">(מלאכי ג:ד)</span>
@@ -68,7 +68,7 @@ return and have mercy on Your servants.[foot]Psalm 90:13[/foot]
 אֵלֶֽיהָ פּוֹנִים אֲנָֽחְנוּ. 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And thus we will go up to the place that You chose Your Name to be,[foot]based on Deuteronomy 16:6[/foot] 
 as in days of old and years of yor.[foot]Malachi 3:4[/foot] 
@@ -81,7 +81,7 @@ to Her we face.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וּלְכׇל־גּוֹיִם 
 קְרָא עַל שְׁלוֹם יְרוּשָׁלַֽיִם עִיר קׇדְשֶֽׁךָ, 
@@ -92,7 +92,7 @@ to Her we face.
 בָּרוּךְ אַתָּה ••••, מְנַחֵם צִיּוֹן וּבוֹנֵה יְרוּשָׁלָֽיִם׃ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And to all the nations, 
 call out upon the peace of Jerusalem Your holy city, 

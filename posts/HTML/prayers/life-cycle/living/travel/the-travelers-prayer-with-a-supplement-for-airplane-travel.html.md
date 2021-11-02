@@ -7,10 +7,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 יְהִי רָצוֹן מִלְּפָנֶֽיךָ 
 יְיָ אֱלֹהֵֽינוּ וֵֽאלֹהֵי אֲבוֹתֵֽינוּ 
@@ -21,7 +21,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 May it be your will, 
 YHVH (haShem) our elo'ah and elo'ah of our ancestors, 
@@ -32,7 +32,7 @@ and that we reach our desired destinations for life and peace.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 וְתַצִּילֵֽנוּ מִכַּף כָּל־אוֹיֵב וְאוֹרֵב בַּדֶּֽרֶךְ 
 וְתִשְׁלַח בְּרָכָה בְּמַעֲשֵׂה יָדֵֽינוּ 
@@ -43,7 +43,7 @@ and that we reach our desired destinations for life and peace.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 May we be protected from every predator, man or animal, (lying in wait for us) along the way 
 and may there be blessing in our handiwork, 
@@ -54,20 +54,20 @@ Blessed are You YHVH, who hears prayer.[foot]Mishnah Berakhot 4:4, Mishnah Taani
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 תפילה נוספת לנוסע באוירון
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <u>Supplemental Prayer for Airplane Travel</u>
 </div>
 </td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 אִם אֶסַק שָׁמַיִם שָׁם אָתָּה, 
 וְאַצִיעָה שְׁאוֺל הִנְךָ. 
@@ -78,7 +78,7 @@ Blessed are You YHVH, who hears prayer.[foot]Mishnah Berakhot 4:4, Mishnah Taani
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 If I ascend up into the heavens, you are there, 
 [and if I descend to Sheol, you are there too[foot]This full translation of Psalms 139:8 was not included in the original prayer's English translation[/foot]]. 
@@ -89,7 +89,7 @@ and your right hand would hold me.[foot]Psalms 139:8-10[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 וִיהִי רָצוֺן מִלְפָנֶיךָ 
 אָבִינוּ שֶׁבַשָׁמַיִם 
@@ -108,7 +108,7 @@ and your right hand would hold me.[foot]Psalms 139:8-10[/foot]
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And may it be your will, 
 our father in heaven, 

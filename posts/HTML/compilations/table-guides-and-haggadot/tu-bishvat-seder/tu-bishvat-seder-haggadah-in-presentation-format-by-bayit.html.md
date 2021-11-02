@@ -9,26 +9,26 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <strong>DOWNLOAD:</strong> <a href="https://opensiddur.org/wp-content/uploads/2018/01/Tu-BiShvat-PowerPoint-Haggadah-Bayit-5778.pdf">PDF</a> | <a href="https://opensiddur.org/wp-content/uploads/2018/01/Tu-BiShvat-PowerPoint-Haggadah-Bayit-5778.odp">ODP</a> | <a href="https://opensiddur.org/wp-content/uploads/2018/01/Tu-BiShvat-PowerPoint-Haggadah-Bayit-5778.pptx">PPTX</a> | <a href="https://opensiddur.org/wp-content/uploads/2018/01/Tu-BiShvat-PowerPoint-Haggadah-Bayit-5778.txt">TXT</a>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Contribute a Translation</th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 הגדה של ט׳׳ו בשבט
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 A Haggadah for Tu BiShvat
 5778 / 2018
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 עוֹלָם חֶסֶד יִבָּנֶה
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Olam Ḥesed Yibaneh[foot]Psalms 89:3[/foot]
 
 I will build this world from love, yai dai dai… 
@@ -42,12 +42,12 @@ Olam Ḥesed Yibaneh
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 What is this day?
 
 On the earth’s calendar: midwinter full moon.
@@ -60,12 +60,12 @@ Today: an opportunity to open and grow.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 In Leviticus we read that in ancient days:
   new trees were kept un-harvested for three years; 
   fruits of four-year-old trees were set aside as gifts to God; 
@@ -75,12 +75,12 @@ Today, we honor Tu BiShvat to renew our spirits and prepare ourselves, and the w
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Tree of life
 
 Tradition teaches that Torah is “a tree of life to all who hold fast” (Proverbs 3:17-18), and that God and Torah (and we) are One (Zohar) … 
@@ -90,12 +90,12 @@ Today we invoke this spirit of the Tree of Life.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Repair
 
 The kabbalists created the seder of Tu BiShvat 
@@ -107,12 +107,12 @@ as we and God most wish it to be.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 The sap begins to rise
   
 In Hebrew, the word for sap is saraf, which means fire. The Hebrew month of Shvat is a time to warm the world, and Tu BiShvat is a day to welcome and honor the sap – the water in trees that allows life to return. Tu BiShvat represents the rising life force as our year moves toward spring. 
@@ -121,12 +121,12 @@ In Hebrew, the word for sap is saraf, which means fire. The Hebrew month of Shva
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 What rises in you?
 
 On this day, says tradition, sap begins to rise from the ground, and trees begin to nourish themselves to bloom anew.
@@ -136,12 +136,12 @@ What spiritual sap do you yearn to see rising in you? For what new growth do you
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Preparation  (by Marge Piercy)
 
 It is the New Year of the Trees, but here
@@ -173,12 +173,12 @@ a feast. Wings rustle like summer leaves.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 When reciting a blessing...
 
 A person should intend [on Tu BiShvat], when reciting a blessing, 
@@ -191,7 +191,7 @@ giving it existence, enlivening it, causing it to grow.[foot]Quoted in Yitzhak B
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 &nbsp;
 &nbsp;
@@ -202,7 +202,7 @@ giving it existence, enlivening it, causing it to grow.[foot]Quoted in Yitzhak B
 וְצִוָּנוּ עַל נְטִילַת יָדָיִם׃
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Lifting Our Hands   
 &nbsp;
 A Fountain of Blessing are You, 
@@ -219,22 +219,22 @@ vetzivanu al netilat yadayim.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 [caption id="attachment_18734" align="alignnone" width="506"]<a href="https://opensiddur.org/wp-content/uploads/2018/01/Four-Worlds-designed-by-Hazzan-Shoshanna-Brown-created-by-Les-Schachter.jpg"><img src="https://opensiddur.org/wp-content/uploads/2018/01/Four-Worlds-designed-by-Hazzan-Shoshanna-Brown-created-by-Les-Schachter.jpg" alt="" width="506" height="664" class="size-full wp-image-18734" /></a> Four Worlds (designed by Hazzan Shoshanna Brown; created by Les Schachter)[/caption]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 We begin our journey now
 through the Four Worlds
 up the Tree of Life
@@ -243,7 +243,7 @@ embodying the Name of God written in us.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 &nbsp;
 &nbsp;
@@ -251,7 +251,7 @@ embodying the Name of God written in us.
 עולם העשייה 
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 1
 winter / earth / action
 &nbsp;
@@ -265,12 +265,12 @@ is hidden by the shell of appearance.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Assiyah is associated with winter.
 In winter the ground is frozen, 
 but we know it contains the life of the spirit below. 
@@ -279,7 +279,7 @@ symbolizes winter’s pale light and snow.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 &nbsp;
 &nbsp;
@@ -291,7 +291,7 @@ symbolizes winter’s pale light and snow.
 בּוֹרֵא פְּרִי הַגָּפֶן׃
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Blessing over juice or wine
 &nbsp;
 (first cup: white grape juice or wine)
@@ -309,12 +309,12 @@ borei pri hagafen.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Protective shells
 
 In winter we layer ourselves in protective clothing.  
@@ -323,12 +323,12 @@ Removing these hard shells exposes a vulnerable inside.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 2-minute meditation: shell
 
 Close your eyes. Imagine that you can see your protective outer “shell.”
@@ -338,12 +338,12 @@ When does it serve you well, and when does it inhibit you?
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Midwinter blooms in Israel: the almond tree
 
 I said to the almond tree, 
@@ -354,12 +354,12 @@ and the almond tree blossomed.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Our shells protect us
 
 The shell that conceals these fruits also protects.  
@@ -370,12 +370,12 @@ As we eat these fruits representing assiyah, may our “shells” maintain integ
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 We are all like pomegranates
 
 In Song of Songs we read: “Come, my beloved, let us see… if the pomegranates are in bloom.” 
@@ -386,7 +386,7 @@ May we be blessed to see the good in each other and to cherish each others’ sw
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 &nbsp;
 &nbsp;
@@ -396,7 +396,7 @@ May we be blessed to see the good in each other and to cherish each others’ sw
 בּוֹרֵא פְּרִי הָעֵץ׃
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Blessing over tree fruits
 &nbsp;
 A Fountain of Blessing are You,  
@@ -411,7 +411,7 @@ borei pri ha’etz.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 &nbsp;
 &nbsp;
@@ -419,7 +419,7 @@ borei pri ha’etz.
 עולם היצירה
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 2
 spring / water / emotion
 &nbsp;
@@ -434,12 +434,12 @@ creative power: both ours, and God's.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Yetzirah is the world of emotions and heart. 
 Here we experience change & creativity, flux & flow, spring & water.
 
@@ -449,12 +449,12 @@ and becomes vibrant in the spring.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Bloom
 Your voice knocks.
 Like a magnolia
@@ -464,19 +464,19 @@ I open.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 As we drink the second cup of wine or juice
 may we, like spring flowers, blossom into our full potential.
 We add a bit of red wine or juice to the white and recite together:
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 &nbsp;
 &nbsp;
@@ -488,7 +488,7 @@ We add a bit of red wine or juice to the white and recite together:
 בּוֹרֵא פְּרִי הַגָּפֶן׃
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Blessing over juice or wine
 &nbsp;
 (second cup: white with a splash of red)
@@ -505,12 +505,12 @@ borei pri hagafen.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 We still have hard places inside.
 
 The world of yetzirah is connected with springtime. 
@@ -522,12 +522,12 @@ We still feel the need to protect what makes us vulnerable.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 2-minute meditation: stone
 
 Close your eyes. Imagine that you can see the stone you carry deep inside.
@@ -537,12 +537,12 @@ What is bound up in the tight place hidden inside you?
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Hope
 
 One of the tree fruits on our table now is the olive, a sign of hope.
@@ -552,7 +552,7 @@ As we eat the fruit of yetzirah, may our hearts open to hope.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 &nbsp;
 &nbsp;
@@ -562,7 +562,7 @@ As we eat the fruit of yetzirah, may our hearts open to hope.
 בּוֹרֵא פְּרִי הָעֵץ׃
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Blessing over tree fruits
 &nbsp;
 A Fountain of Blessing are You, 
@@ -577,7 +577,7 @@ borei pri ha’etz.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 &nbsp;
 &nbsp;
@@ -585,7 +585,7 @@ borei pri ha’etz.
 עולם הבריאה
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 3
 summer / air / thought
 &nbsp;
@@ -599,12 +599,12 @@ Briyah is the world of the mind.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Briyah is the realm of thought,
 associated with the season of Summer and the element of air.
 One name for God is “The Breath of Life.” 
@@ -615,12 +615,12 @@ Briyah is the world of the holy breath of creation.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Warming up
 
 In the world of briyah, we drink red wine or juice 
@@ -630,7 +630,7 @@ we too will become warmer and more open.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 &nbsp;
 &nbsp;
@@ -643,7 +643,7 @@ we too will become warmer and more open.
 בּוֹרֵא פְּרִי הַגָּפֶן׃
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 We add a bit of white wine or juice to the red and recite together:
 &nbsp;
 Blessing over juice or wine
@@ -661,12 +661,12 @@ borei pri hagafen.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Softening within
 
 In our deepest relationships, may we
@@ -677,24 +677,24 @@ our innermost hearts.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Sweetness of wisdom
 
 The rabbis asked, “Why are the words of Torah compared to the fig tree?” They answered, “Since all the figs do not ripen at the same time, the more one searches the tree, the more figs one finds in it.” (Eruvin 54a) So it is with the words of the Torah — the more we study them, the more sweet morsels we find. 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 2-minute meditation: softness
 
 Close your eyes. Imagine that you are soft all the way through: no shell, no stone.
@@ -704,12 +704,12 @@ What reverberates in you, what flows through you, when you soften like this?
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Fruits with no shells or stones
 
 As we eat the fruits representing briyah, 
@@ -719,7 +719,7 @@ We recite together the blessing for the fruits of briyah:
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 &nbsp;
 &nbsp;
@@ -729,7 +729,7 @@ We recite together the blessing for the fruits of briyah:
 בּוֹרֵא פְּרִי הָעֵץ׃
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Blessing over tree fruits
 &nbsp;
 A Fountain of Blessing are You, 
@@ -744,7 +744,7 @@ borei pri ha’etz.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 &nbsp;
 &nbsp;
@@ -752,7 +752,7 @@ borei pri ha’etz.
 עולם האצילות
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 4
 fall / fire / spirit
 &nbsp;
@@ -767,12 +767,12 @@ but it’s suffused with Mystery.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Atzilut is the world of essence and spirit,
 associated with the season of Fall and the element of fire. 
 
@@ -782,12 +782,12 @@ As nature expends energy in an explosion of color, the cycle is complete.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Like trees
 
 As we drink the fourth cup 
@@ -800,7 +800,7 @@ and recite together:
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 &nbsp;
 &nbsp;
@@ -812,7 +812,7 @@ and recite together:
 בּוֹרֵא פְּרִי הַגָּפֶן׃
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Blessing over juice or wine
 &nbsp;
 (fourth cup: purple grape juice or red wine)
@@ -829,12 +829,12 @@ borei pri hagafen.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 2-minute meditation: spark
 
 Close your eyes. Feel the spark of spirit that burns deep within you.
@@ -844,12 +844,12 @@ What do you want to illuminate with that light as spring draws near?
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Essence
 
 Atzilut is the world of spirit or essence. 
@@ -859,7 +859,7 @@ If you opt for one of these, a blessing follows...
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 &nbsp;
 &nbsp;
@@ -869,7 +869,7 @@ If you opt for one of these, a blessing follows...
 שֶׁהַכׇּל נִהְיֶה בִּדְבַרוֹ׃
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Blessing over Maple Syrup or Etrog Vodka
 &nbsp;
 A Fountain of Blessing are You, 
@@ -884,12 +884,12 @@ shehakol nihiyeh bidvaro.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Taste and see
 
 Psalm 34:8: "Taste & see that God is good."
@@ -918,12 +918,12 @@ is what rises, hidden and sweet.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Secret blessing of the heart
 
 In the world of atzilut we eat no fruit,  for the world of essence cannot be represented...
@@ -933,12 +933,12 @@ We can speak, at last, the secret blessing of the heart.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 What’s your deep yearning or blessing, whether in 
     the realm of Action         Assiyah
     the realm of Emotion        Yetzirah
@@ -948,12 +948,12 @@ that is ready, at last, to bring into the light of the coming spring?
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 A Prayer of Reb Nachman of Bratzlav
 
 Master of the Universe, grant me the ability to be alone. May it be my custom to go outdoors each day among the trees and grass, among all growing things, and there may I be alone, and enter into prayer, to talk with the One to whom I belong.
@@ -967,7 +967,7 @@ And we say together: AMEN.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 &nbsp;
 &nbsp;
@@ -977,7 +977,7 @@ And we say together: AMEN.
 הַמּוֹצִיא לֶחֶם מִן הָאָרֶץ׃
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Blessing our bread
 &nbsp;
 A Fountain of Blessing are You, 
@@ -992,36 +992,36 @@ hamotzi lechem min ha’aretz.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 The Festive Meal
 
 After we eat, we bless
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 A tale of Honi
 
 One day Honi was journeying and he saw a man planting a carob tree. He asked, "How long does it take for this tree to bear fruit?" The man replied: "Seventy years." Honi asked him: "Are you certain that you will live another seventy years?" The man replied: "I found carob trees in the world; as my forefathers planted those for me, so I plant for my children." (Ta’anit 23a)
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 In order to grow
 
 When fruit trees are pruned, they receive
@@ -1040,12 +1040,12 @@ Share your answers aloud with a neighbor.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 עוֹלָם חֶסֶד יִבָּנֶה
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en"> 
+<td style="vertical-align:top;"><div class="english" lang="en"> 
 Olam Chesed Yibaneh[foot]Psalms 89:3[/foot]
 
 I will build this world from love, yai dai dai… 
@@ -1057,22 +1057,22 @@ Olam Chesed Yibaneh
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 (Other qualities we might build with: emet, truth; gevurah, strength; tzedek, justice; shalom, peace…)
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Closing words of wisdom
 
 God led Adam around the Garden of Eden and said, 
@@ -1084,12 +1084,12 @@ to repair it after you.”  (Ecclesiastes Rabbah 7:13)
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Rabbi Yochanan ben Zakkai taught: 
 “If you have a sapling in your hand and someone tells you 
 the Messiah has arrived, first plant the sapling 
@@ -1100,12 +1100,12 @@ whether or not we think the Messiah is near.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 About this haggadah
 
 This haggadah, created by R’ Rachel Barenblat and R’ David Markus,

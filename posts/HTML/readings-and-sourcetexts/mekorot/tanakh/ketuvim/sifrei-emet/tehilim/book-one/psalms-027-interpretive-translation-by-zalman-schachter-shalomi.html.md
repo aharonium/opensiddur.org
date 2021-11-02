@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
@@ -21,7 +21,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>א</sup>&nbsp;לְדָוִ֨ד ׀ יְהוָ֤ה ׀ אוֹרִ֣י וְ֭יִשְׁעִי 
 מִמִּ֣י אִירָ֑א 
@@ -38,7 +38,7 @@ Who can make me panic?
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>ב</sup>&nbsp;בִּקְרֹ֤ב עָלַ֨י ׀ מְרֵעִים֮ 
 לֶאֱכֹ֪ל אֶת־בְּשָׂ֫רִ֥י 

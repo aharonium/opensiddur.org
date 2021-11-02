@@ -15,7 +15,7 @@ As far back as Rabbeinu Tam, some have suggested that the Sages had a custom of 
 This is a system that seeks to create a Haftarah-like system for the reading of these "ketuvim aḥerim." Readings have been assigned to the weekly parashot and special Shabbatot based on content or linguistic parallels. These could be read using the cantillation systems designed by the editor (<a href="https://opensiddur.org/readings-and-sourcetexts/cantillation/a-cantillation-system-for-ezra-nehemiah-chronicles-and-daniel-by-isaac-gantwerk-mayer/">Ezra, Nehemiah, Chronicles</a>; <a href="https://opensiddur.org/readings-and-sourcetexts/cantillation/an-ashkenazi-style-cantillation-system-for-job-by-isaac-gantwerk-mayer/">Job</a>; <a href="https://opensiddur.org/readings-and-sourcetexts/cantillation/an-ashkenazi-style-cantillation-system-for-psalms-by-isaac-gantwerk-mayer/">Psalms</a>) or just according to any personal preference.
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <tbody>
 <tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">

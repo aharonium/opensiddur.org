@@ -13,15 +13,15 @@ This is a poetic rendering of the sixth blessing (of the Sheva Brakhot/7 Blessin
 
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 שַׂמֵּֽחַ תְּשַׂמַּח רֵעִים הָאֲהוּבִים
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 May you bask in outrageous joy in the radiant glow of your companion, 
 your beloved, your friend -- pure and perfect
@@ -30,23 +30,23 @@ tasting eternity looking into his face, looking into her face
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 כְּשַׂמֵּחֲךָ יְצִירְךָ
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 May you laugh all of your laughter, and also cry all of your tears
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 בְּגַן עֵֽדֶן מִקֶּֽדֶם.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 May you know the joy of gardens:
 gardens of flowers and fruit
@@ -58,12 +58,12 @@ of growth and birth and death
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 From the garden may you learn to be rooted in the good Earth
 to weather the stormy rains and calm sunny skies
@@ -72,24 +72,24 @@ those unseen ones who maintain the very foundations
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 May you dance and work and love and cry and look deeply until you can no longer tell the difference 
 between this moment and paradise
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 ‏בָּרוּךְ אַתָּה יְיָ מְשַׂמֵּֽחַ חָתָן וְכַלָּה׃‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 and give gratitude to the Source that renews your rejoicing over and over
 </div></td></tr>

@@ -7,10 +7,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 יהי רצון [מלפניך יהוה אלהינו ואלהי אבותנו ואמותנו]&nbsp;
 שהפתק אשר שם אנכי בקלפי 
@@ -25,7 +25,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 ותנהיג באמצעות הדוגמא האישית. 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 May it be the will [before YHVH our <em>elo'ah</em> the <em>elo'ah</em> of our ancestors]&nbsp;
 that this ticket which I am placing in my ballot 
 will join thousands of other tickets 
@@ -40,7 +40,7 @@ and exercise leadership through personal role modeling.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="commentary" lang="he">
 ויהי רצון [מלפניך יהוה אלהינו ואלהי אבותנו ואמותנו]&nbsp;
 שהעם היושב בציון 
@@ -52,7 +52,7 @@ and exercise leadership through personal role modeling.
 ושילדינו לא יפחדו כלל.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 May it be the will [before YHVH our <em>elo'ah</em> the <em>elo'ah</em> of our ancestors]&nbsp;
 that the nation sitting in Tsiyon 
 will merit years of freedom, 

@@ -29,25 +29,25 @@ Madam Speaker, I thank my friend for the wonderful prayer this morning.
 
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <h3>Opening Prayer Given by the Guest Chaplain:</h3>
 </div></td></tr>
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Almighty God, 
 bless the work of the United States House of Representatives. 
@@ -60,12 +60,12 @@ of the American people.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 O Lord, 
 in a time of polarization 
@@ -79,7 +79,7 @@ and a sense of shared American destiny.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 &nbsp;
 &nbsp;
@@ -94,7 +94,7 @@ and a sense of shared American destiny.
 וְיֹעֲצַיִךְ כְּבַתְּחִלָּה אַחֲרֵי־כֵן <span class="citation">(ישעיה א:כו)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Heavenly Father, 
 guide our Representatives 
@@ -110,12 +110,12 @@ your counselors as at the beginning."[foot]Isaiah 1:26 part.[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Bless our Nation 
 with peace and prosperity, 
@@ -126,14 +126,14 @@ with strength and stability.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 &nbsp;
 &nbsp;
 אָמֵן׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 May this be Your will, 
 and let us say: 
@@ -148,7 +148,7 @@ and let us say:
 116th Congress, 1st Session
 Issue: Vol. 165, No. 171 — Daily Edition (October 29, 2019)
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.c-span.org/video/standalone/?c4826028/user-clip-rabbi-evan-hoffman-congregation-anshe-sholom-rochelle-york-house-october-29-2019" width="512" height="330"]
+<iframe width=530 height=312 src='https://www.c-span.org/video/standalone/?c4826028/user-clip-rabbi-evan-hoffman-congregation-anshe-sholom-rochelle-york-house-october-29-2019' allowfullscreen='allowfullscreen' frameborder=0></iframe>[su_spacer]
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.congress.gov/116/crec/2019/10/29/CREC-2019-10-29-pt1-PgH8548-4.pdf" width="100%" height="900"]
 </body>

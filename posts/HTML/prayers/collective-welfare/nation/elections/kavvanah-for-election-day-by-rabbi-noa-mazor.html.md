@@ -7,10 +7,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">English (translation)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 יהי רצון מלפניך, 
 ה׳ אלהי ואלהי אימותי ואבותי, 
@@ -18,7 +18,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 May it be your will,
 YHVH our elo'ah, and elo'ah of our mothers and fathers,
@@ -27,7 +27,7 @@ that the election today be an election of justice and truth.
 </td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אנא ה׳, 
 שלא אבוש ולא אכלם ולא אכשל בבחירתי, 
@@ -36,7 +36,7 @@ that the election today be an election of justice and truth.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Please YHVH,
 let me not be ashamed or embarrassed or fail in my choice
@@ -46,7 +46,7 @@ this is how all the inhabitants of your country vote.
 </td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 שכינה מקור חיי, 
 תני בי הכוח לקבל את תוצאות הבחירות 
@@ -57,7 +57,7 @@ this is how all the inhabitants of your country vote.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Shekhina source of Life,
 Give me the strength to accept the election results
@@ -69,7 +69,7 @@ and I am not free to desist from it.[foot]Cf. Rabbi Tarfon's statement in Pirqei
 </td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 שלח אורך ואמתך לכל הנבחרות והנבחרים היום 
 למען ילכו בדרך הצדק החופש והיושר. 
@@ -82,7 +82,7 @@ and I am not free to desist from it.[foot]Cf. Rabbi Tarfon's statement in Pirqei
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Send your light and truth to every candidate today
 For the sake of justice, freedom and integrity.

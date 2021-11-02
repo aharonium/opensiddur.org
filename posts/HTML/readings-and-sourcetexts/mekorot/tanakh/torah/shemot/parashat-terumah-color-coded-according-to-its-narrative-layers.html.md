@@ -29,7 +29,7 @@ The kernel of biblical text 'E,' its early supplemental layer 'J', and its later
 Parashat Terumah <span class="citation">(Exodus 25:1-27:19)</span> in the annual Torah reading cycle, is read on the first shabbat of the month of Adar (or Adar Alef in a Jewish leap year). The parashah is preceded by parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-shemot/parashat-mishpatim/parashat-mishpatim-color-coded-according-to-its-narrative-layers/">Mishpatim</a> <span class="citation">(Exodus 21:1-24:18)</span>; parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-shemot/parashat-ttsavveh/parashat-ttsavveh-color-coded-according-to-its-narrative/">T'tsavveh</a> <span class="citation">(Exodus 27:20-30:10)</span> follows it.
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

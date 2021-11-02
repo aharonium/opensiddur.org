@@ -7,11 +7,11 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אבינו מלכנו, אב לכל ילד, 
 שמע קולנו ביום ארור זה.‏
@@ -22,7 +22,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 שבו קור חודר את העצמות.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Lord who is the creator of all children, 
 hear our prayer this accursed day. 
 God whom we call Blessed, turn your face to these, the children of Gaza, 
@@ -33,7 +33,7 @@ and a cold which cuts and clenches the skin.
 </div></td></tr>
 	
 	
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+<tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 ה' צבאות, שמכי ביוצאים מן הכלל הידועים כניסים, 
 הוצא מן הכלל את ילדי עזה ועשה להם נס. 
 הגן עליהם מידי עמינו ומיד עמם. 
@@ -45,7 +45,7 @@ and a cold which cuts and clenches the skin.
 ומיד עמם.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Almighty who makes exceptions, which we call miracles, 
 make an exception of the children of Gaza. 
 Shield them from us and from their own. 
@@ -58,20 +58,20 @@ and from their own.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+<tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 החזר להם 
 את שנות ילדותם 
 שנגנבו מהם.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Restore to them 
 their stolen childhoods, their birthright, 
 which is a taste of heaven. 
 </div></td></tr>
 	
 	
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+<tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 הזכר לנו את ישמעאל הנער שהפך לאב כל נערי עזה. 
 ישמעאל היה נטוש במדבר באר שבע ללא מים וללא תקווה. 
 על הגר אמו כתוב:‏ וַתֵּלֶךְ וַתֵּשֶׁב לָהּ מִנֶּגֶד הַרְחֵק כִּמְטַחֲוֵי קֶשֶׁת 
@@ -83,7 +83,7 @@ which is a taste of heaven.
 אַל תִּירְאִי כִּי שָׁמַע אֱלֹהִים אֶל קוֹל הַנַּעַר בַּאֲשֶׁר הוּא שָׁם: (בראשית כא:טז-יז)‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Be that Lord, the God of our kinsman Ishmael, 
 who heard his cry and sent His angel to comfort his mother Hagar.[foot]c.f. Genesis 21:16-17[/foot]
 [And she went and sat down at a distance, a bowshot away; 
@@ -96,7 +96,7 @@ Fear not, for God has heeded the cry of the boy where he is."]
 </div></td></tr>
 	
 	
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+<tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 אלהים שהיה עם הנער ישמעאל ביום ההוא, 
 הייה איתו ואיתנו היום, 
 אב הרחמן. 
@@ -106,7 +106,7 @@ Fear not, for God has heeded the cry of the boy where he is."]
 עשה כך היום.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Be that Lord, who was with Ishmael that day, 
 and all the days after. 
 Be that God, the All-Merciful, 
@@ -117,7 +117,7 @@ and save his life.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+<tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 אללה, שאנו קוראים לו אלהים, 
 המכלכל חיים, 
 המודע לשבריריות החיים – 
@@ -127,7 +127,7 @@ and save his life.
 עזה הארורה.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Allah, whose name we call Elohim, 
 who gives life, 
 who knows the value and the fragility of every life, 
@@ -138,34 +138,34 @@ and Gaza the damned.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+<tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 אדון השלום - היום המלחמה אוחזת בליבנו וממלאת אותו בצלקות.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 In this day, when the trepidation and rage and mourning that is called war, seizes our hearts and patches them in scars, we call to you, the Lord whose name is Peace: 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+<tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 ברך את הילדים האלה 
 ושמור עליהם.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Bless these children, 
 and keep them from harm. 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+<tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 האר פניך עליהם ה׳. 
 האר חייהם כבפעם הראשונה, 
 באור וחסד 
 ובחמלה רבה.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Turn Your face toward them, O Lord. 
 Show them, as if for the first time, 
 light and kindness, 
@@ -173,14 +173,14 @@ and overwhelming graciousness.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+<tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 שא פניך עליהם 
 שיזכו באור פניך 
 וברך אותם ואת ילדינו 
 בברכת שלום.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Look up at them, O Lord. 
 Let them see your face. 
 And, as if for the first time,

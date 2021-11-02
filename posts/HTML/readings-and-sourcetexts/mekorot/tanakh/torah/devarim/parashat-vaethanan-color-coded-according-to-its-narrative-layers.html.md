@@ -26,7 +26,7 @@ According to the poetry of the Midrash Tanḥuma, Bereshit 1:1, the words of the
 Parashat va'Etḥanan (Deuteronomy 3:23-7:11) in the annual Torah reading cycle is the second parashah in Sefer Devarim. It is preceded by parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-devarim/parashat-devarim/parashat-devarim-color-coded-according-to-its-narrative-layers/">Devarim</a> (Deuteronomy 1:1-3:22). Parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-devarim/parashat-eqev/parashat-eqev-deuteronomy-color-coded-according-to-its-narrative-layers/">Éqev</a> (Deuteronomy 7:12-11:25), follows it. 
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

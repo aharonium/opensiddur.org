@@ -15,8 +15,8 @@ In Yemenite practice, directly after the four questions are recited the youngest
 
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;">Source (Judeo-Arabic)</th><th style="text-align: left;">Romanization (Judeo-Arabic)</th><th style="text-align: right;">Translation (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
+<thead><tr><th id="x" style="text-align: right;">Source (Judeo-Arabic)</th><th style="text-align: left;">Transliteration (Romanized Judeo-Arabic)</th><th style="text-align: right;">Translation (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
 <div class="judeo-arabic" lang="jrb">
@@ -24,7 +24,7 @@ In Yemenite practice, directly after the four questions are recited the youngest
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="romanized-hebrew" lang="he">
+<div class="romanized-transliteration" lang="jrb">
 Ma khəbar hādhih al-laylah min jəmīʿ al-ləyyāli?
 </span></div></td>
 
@@ -45,7 +45,7 @@ What tells this night from the rest of nights?
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="romanized-hebrew" lang="he">
+<div class="romanized-transliteration" lang="jrb">
 Kharju jədūdina wə-ʾābāʾina min Miṣr bayt al-ʿăbūdiyya kānu yafʿalu at-tibn fi al-libn, liman? Li-Farʿöh ar-rosho al-jomūr, alladhī rāʾsuhu sāʿ aṣ-ṣimʿūr, wə-fumuh sāʿ mināg at-tannur, wə-awrad Allah ʿăla al-Miṣriyun:
 </span></div></td>
 
@@ -66,7 +66,7 @@ Our ancestors and forefathers left Egypt the house of slaver where they were mak
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="romanized-hebrew" lang="he">
+<div class="romanized-transliteration" lang="jrb">
 Ad-dam, waṣ-ṣifādaʿ, wal-gaml wal-gumml, wal-wiḥūsh, wal-finā, wal-jərab, wal-bərad, wal-jərād, waḍ-ḍəlām, wə-mut al-abkār.  
 </span></div></td>
 
@@ -87,7 +87,7 @@ The blood, and the frogs, and the lice and fleas, and the beasts, and the diseas
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="romanized-hebrew" lang="he">
+<div class="romanized-transliteration" lang="jrb">
 Ḥatta ʿəjuz bəjuz, ʿălayhā alf laʿnah təjuz, kān maʿhā maʿbūd min ʿijnah, dəkhal al-kalb ʾăkalha wa-ṣərakht tilk al-laylah, wə-kān ṣurākh ʿăḍīm bə-Miṣr, lə-gayyem ma shə-naʾămor, ki ēn bayith ăshar ēn shom meth.
 </span></div></td>
 
@@ -108,7 +108,7 @@ Until upon the oldest women a thousand curses were fulfilled, then her idol with
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="romanized-hebrew" lang="he">
+<div class="romanized-transliteration" lang="jrb">
 Wə-khalaṣhum Allah biyad shədidah wədirāʿ mamdūdah w-aḥkām aḍīmah, w-ayāt wa-brāhīn ʿăla Møsha Rabenu ʿOlow hash-Sholøm,  wə-hadha al-jəwāb:
 </span></div></td>
 
@@ -119,7 +119,7 @@ Wə-khalaṣhum Allah biyad shədidah wədirāʿ mamdūdah w-aḥkām aḍīmah,
  
 <td style="vertical-align:top;">
 <div class="english" lang="en">
-And God  freed us with a strong hand and an outstretched arm, great judgements, signs and creations, by Moses our teacher peace be upon him, and this is the answer:
+And God freed us with a strong hand and an outstretched arm, great judgements, signs and creations, by Moses our teacher peace be upon him, and this is the answer:
 </div></td></tr>
 </tbody></table>
 

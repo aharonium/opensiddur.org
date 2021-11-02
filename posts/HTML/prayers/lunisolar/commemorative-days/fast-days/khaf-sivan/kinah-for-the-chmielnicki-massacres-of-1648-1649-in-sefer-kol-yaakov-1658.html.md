@@ -7,19 +7,19 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
-זה הקינה סדרתי על הרוגי חכמי פולונייא 
-ה׳ ינקום דמם
+<span class= "instruction">זה הקינה סדרתי על הרוגי חכמי פולונייא 
+ה׳ ינקום דמם</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
 <div class="english" lang="en">
-This is a <em>kinnah</em> over the murder of the sages of Polonia.[foot]Poland.[/foot]&nbsp; 
-May Hashem avenge their blood.
+<span class= "instruction">This is a <em>kinnah</em> over the murder of the sages of Polonia.[foot]Poland.[/foot]&nbsp; 
+May Hashem avenge their blood.</span>
 </div></td></tr>
 
 
@@ -44,7 +44,7 @@ Whose blood was shed as running water[foot]<em>viz</em> 2 Samuel 14:14. "We must
 <div class="liturgy" lang="he">
 הנהרגים ונשחטים ונשרפים ונדקרים
 גאונים רבנים זקנים עם נערים
-כמם[foot]possbly כמה[/foot] לבב איש כהתה כל רוח ונש״מה
+נמס[foot]possibly כמה[/foot] לבב איש כהתה כל רוח ונש״מה
 בכה נבכה ולא ינוח
 </span></div></td>
  
@@ -52,7 +52,7 @@ Whose blood was shed as running water[foot]<em>viz</em> 2 Samuel 14:14. "We must
 <div class="english" lang="en">
 Killed and slaughtered and burned and stabbed
 Leaders and teachers, (regardless their being) elders or youths[foot]<em>viz</em> Psalms 148:12.[/foot]&nbsp;
-Every human heart is faint,[foot]Possibly כָּמַ֣הּ (as in Psalms 63:2) - "faint, as with longing". matches כָהֲתָ֥ה (as in Deuteronomy 34:7) "falter/grow weak." --Jacob Chatinover[/foot] every spirit and soul falters
+Every human heart melts,[foot]Possibly כָּמַ֣הּ (as in Psalms 63:2) - "faint, as with longing". matches כָהֲתָ֥ה (as in Deuteronomy 34:7) "falter/grow weak." --Jacob Chatinover[/foot] every spirit and soul falters
 They weep and wail without rest
 </div></td></tr>
 

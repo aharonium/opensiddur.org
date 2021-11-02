@@ -23,7 +23,7 @@ According to the poetry of the Midrash Tanchuma, Bereshit 1:1, the words of the 
 Parashat Vayishlaḥ (Genesis 32:4-36:43) in the annual Torah reading cycle, is read on the second shabbat of the month of Kislev. The parashah is preceded by <a href="https://opensiddur.org/readings-and-sourcetexts/torah-readings/annual-cycle/sefer-bereshit/parashat-vayetsei/parashat-vayetsei-color-coded-according-to-its-narrative-layers/">Vayetsei</a> (Genesis 28:10-32:3); parashat <a href="https://opensiddur.org/readings-and-sourcetexts/torah-readings/annual-cycle/sefer-bereshit/parashat-vayeshev/parashat-vayeshev-color-coded-according-to-its-narrative-layers/">Vayeshev</a> (Genesis 37:1–40:23) follows it.
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

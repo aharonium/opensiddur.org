@@ -23,7 +23,7 @@ According to the poetry of the Midrash Tanḥuma, Bereshit 1:1, the words of the
 Parashat Ha'Azinu <span class="citation">(Deuteronomy 32:1-52)</span> in the annual Torah reading cycle is the tenth parashah in Sefer Devarim. It is preceded by parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-devarim/parashat-vayelekh/parashat-vayelekh-color-coded-according-to-its-narrative-layers/">Vayelekh</a> <span class="citation">(Deuteronomy 31:1-30)</span>. Parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-devarim/parashat-vzot-habrakhah/parashat-vzot-habrakhah-color-coded-according-to-its-narrative-layers/">v'Zōt haBrakhah</a> <span class="citation">(Deuteronomy 33:1-34:12)</span>, the final parashah in the Pentateuch, follows it. 
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

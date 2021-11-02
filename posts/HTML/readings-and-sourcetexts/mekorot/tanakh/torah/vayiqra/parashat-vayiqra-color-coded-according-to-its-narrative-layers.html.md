@@ -29,7 +29,7 @@ The kernel of biblical text 'E,' its early supplemental layer 'J', and its later
 Parashat Vayiqra <span class="citation">(Leviticus 1:1-5:26)</span> in the annual Torah reading cycle, is read on the first shabbat of the month of Nissan, or the first shabbat in Adar ב during a Jewish leap year. The parashah is preceded by parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-shemot/parashat-phqudei/parashat-phqudei-color-coded-according-to-its-narrative-layers/">Ph'qudei</a> <span class="citation">(Exodus 38:21-40:38)</span>; parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-vayiqra/parashat-tsav/parashat-tsav-color-coded-according-to-its-narrative-layers/">Tsav</a> <span class="citation">(Leviticus 6:1-8:26)</span>, follows it. 
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

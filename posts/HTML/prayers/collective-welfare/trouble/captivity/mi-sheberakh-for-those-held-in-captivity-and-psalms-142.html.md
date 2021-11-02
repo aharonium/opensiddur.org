@@ -13,7 +13,7 @@ Recitation of this psalm and mi sheberakh seem appropriate to me in the case of 
 
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew (source)</th><th style="text-align: left;">English (translation)</th><th style="text-align: right;">Arabic (translation)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="26%">
@@ -28,7 +28,6 @@ Psalm 142
 
 <td style="vertical-align:top;" width="36%%">
 <div class="arabic" lang="ar">
-
 المزمور الثاني و الأربعون بعد المائة:
 </span></div></td>
 </tr>
@@ -77,7 +76,6 @@ when you act with benevolence towards me.
 
 <td style="vertical-align:top;" width="36%%">
 <div class="arabic" lang="ar">
-
 قصة لداوود عليه السلام عندما كان مختبئاً في المغارة. صلاة:
 من خلال صلاتي إلى الرب، 
 أصرخ بصوتي إلى الرب بشكواي، 

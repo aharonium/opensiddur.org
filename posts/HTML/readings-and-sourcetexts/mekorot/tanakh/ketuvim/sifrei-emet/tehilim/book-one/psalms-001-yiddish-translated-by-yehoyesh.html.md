@@ -10,12 +10,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 <table  class="copyright" style="margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: right;">Translation (Yiddish)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>א</sup>&nbsp;אַשְׁרֵי־הָאִישׁ אֲשֶׁר לֹא הָלַךְ בַּעֲצַת רְשָׁעִים וּבְדֶרֶךְ חַטָּאִים לֹא עָמָד וּבְמוֹשַׁב לֵצִים לֹא יָשָׁב׃ <sup>ב</sup>&nbsp;כִּי אִם בְּתוֹרַת יְהוָה חֶפְצוֹ וּבְתוֹרָתוֹ יֶהְגֶּה יוֹמָם וָלָיְלָה׃ <sup>ג</sup>&nbsp;וְהָיָה כְּעֵץ שָׁתוּל עַל־פַּלְגֵי מָיִם אֲשֶׁר פִּרְיוֹ יִתֵּן בְּעִתּוֹ וְעָלֵהוּ לֹא־יִבּוֹל וְכֹל אֲשֶׁר־יַעֲשֶׂה יַצְלִיחַ׃ <sup>ד</sup>&nbsp;לֹא־כֵן הָרְשָׁעִים כִּי אִם־כַּמֹּץ אֲ&#x200d;שֶׁר־תִּדְּפֶנּוּ רוּחַ׃ <sup>ה</sup>&nbsp;עַל־כֵּן לֹא־יָקֻמוּ רְשָׁעִים בַּמִּשְׁפָּט וְחַטָּאִים בַּעֲדַת צַדִּיקִים׃ <sup>ו</sup>&nbsp;כִּי־יוֹדֵעַ יְהוָה דֶּרֶךְ צַדִּיקִים וְדֶרֶךְ רְשָׁעִים תֹּאבֵד׃
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="yiddish" lang="yi">
 <sup>1</sup>&nbsp;װױל צו דעם מענטשן װאָס איז ניט געגאַנגען אין דער עצה פֿון די רשָעים. 
 און אױף דעם װעג פֿון די זינדיקע, 

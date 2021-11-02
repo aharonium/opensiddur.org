@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 Over at the Klau Library blog, Jason Schapera <a href="http://huc.edu/manuscript-281">writes</a>: "Manuscript 281 [was] composed in Italy in 1793. In it the eight days of Chanukah are recognized as an especially auspicious period. The Kabbalistic work instructs the reader on the proper formulation of a series of prayers which, when said with the proper intent and focus on the mystical names of God, is sure to grant the petitioner children who will merit becoming learned scholars. In clear block letters (with careful diacritics) and the occasional Italian insertion, the mystic scribe lays out his formulations."
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

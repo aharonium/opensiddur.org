@@ -21,10 +21,10 @@ Rabbi Hillel Ḥayim Yisraeli-Lavery shares a performance of a melody he learned
 From Exodus, chapter 15:1-19. In the layout below which emulates the traditional scribal layout inked on Torah scrolls, the left and right columns text are intended to symbolize the columns of water on either side of the passage of the children of Yisrael (signified as the text in the central column.)
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="font-size: 1em;">
 <table style="direction: rtl; margin: auto;" width="675">
 <tr>
@@ -222,7 +222,7 @@ From Exodus, chapter 15:1-19. In the layout below which emulates the traditional
 </tbody></table>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en" style="font-size: 1em;">
 <table style="direction: ltr; margin: auto;" width="675">
 <tr>
@@ -427,7 +427,7 @@ Any mention of rejoicing even at the cost of the death or injury of one's enemy 
 </div>
 
 <table style="margin: auto;">
-<tr><td style="vertical-align:top;" width="44%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 רבי יהושע בן לוי פתח לה פיתחא להאי פרשתא מהכא 
 &nbsp;
@@ -448,7 +448,7 @@ Any mention of rejoicing even at the cost of the death or injury of one's enemy 
 מעשה ידי טובעין בים ואתם אומרים שירה
 </div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 <a href="https://en.wikipedia.org/wiki/Joshua_ben_Levi">Rebbi Yehoshua ben Levi</a> opened his discourse on this section with the following text:
 &nbsp;
 "And it shall come to pass that as YHVH rejoiced over you to do you good, 
@@ -473,7 +473,7 @@ Normally the manner in which we are enjoined to act is summed up in <a href="htt
 </div>
 
 <table style="margin: auto;">
-<tr><td style="vertical-align:top;" width="44%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 בִּנְפֹל אויביך [אוֹיִבְךָ] אַל תִּשְׂמָח 
 וּבִכָּשְׁלוֹ אַל יָגֵל לִבֶּךָ.
@@ -481,7 +481,7 @@ Normally the manner in which we are enjoined to act is summed up in <a href="htt
 וְהֵשִׁיב מֵעָלָיו אַפּוֹ. <span class="citation">(משלי כד:יז-יט)</span>
 </div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 When your enemy falls, do not rejoice; 
 when they stumble, let your heart not be gladdened. 
 Lest YHVH see and it will displeasing in their eyes 

@@ -7,48 +7,48 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֵלִיָּהוּ
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 ELIJAH.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְהֽוּא־הָלַ֤ךְ בַּמִּדְבָּר֙ דֶּ֣רֶךְ י֔וֹם וַיָּבֹ֕א וַיֵּ֕שֶׁב תַּ֖חַת רֹ֣תֶם אחת [אֶחָ֑ד] וַיִּשְׁאַ֤ל אֶת־נַפְשׁוֹ֙ לָמ֔וּת וַיֹּ֣אמֶר ׀ רַ֗ב עַתָּ֤ה יְהוָה֙ קַ֣ח נַפְשִׁ֔י כִּֽי־לֹא־ט֥וֹב אָנֹכִ֖י מֵאֲבֹתָֽי׃ וַיִּשְׁכַּב֙ וַיִּישַׁ֔ן תַּ֖חַת רֹ֣תֶם אֶחָ֑ד וְהִנֵּֽה־זֶ֤ה מַלְאָךְ֙ נֹגֵ֣עַ בּ֔וֹ וַיֹּ֥אמֶר ל֖וֹ ק֥וּם אֱכֽוֹל׃ וַיַּבֵּ֕ט וְהִנֵּ֧ה מְרַאֲשֹׁתָ֛יו עֻגַ֥ת רְצָפִ֖ים וְצַפַּ֣חַת מָ֑יִם וַיֹּ֣אכַל וַיֵּ֔שְׁתְּ וַיָּ֖שָׁב וַיִּשְׁכָּֽב׃ וַיָּשָׁב֩ מַלְאַ֨ךְ יְהוָ֤ה ׀ שֵׁנִית֙ וַיִּגַּע־בּ֔וֹ וַיֹּ֖אמֶר ק֣וּם אֱכֹ֑ל כִּ֛י רַ֥ב מִמְּךָ֖ הַדָּֽרֶךְ׃ <span class="citation">(מלכים א׳ יט:ד-ז)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 “But he (Elijah) himself went a day’s journey in the wilderness, and came and sat down under a juniper tree; and he requested for himself that he might die, and said, It is enough; now, O Lord, take away my life, for I am not better than my fathers. And, as he lay and slept under a juniper tree, behold, then an angel touched him; and said unto him, Arise, and eat. And he looked, and behold, there was a cake baken on the coals, and a cruse of water at his head, and he did eat and drink, and laid him down again. And the angel of the Lord came again the second time, and touched him, and said, Arise, and eat, because the journey is too great for thee.” <span class="citation">(1 Kings 19:4-7)</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וַיְהִ֗י הֵ֣מָּה הֹלְכִ֤ים הָלוֹךְ֙ וְדַבֵּ֔ר וְהִנֵּ֤ה רֶֽכֶב־אֵשׁ֙ וְס֣וּסֵי אֵ֔שׁ וַיַּפְרִ֖דוּ בֵּ֣ין שְׁנֵיהֶ֑ם וַיַּ֙עַל֙ אֵ֣לִיָּ֔הוּ בַּֽסְעָרָ֖ה הַשָּׁמָֽיִם׃ <span class="citation">(מלכים ב׳ ב:יא)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 “And it came to pass, as they still went on, and talked, that, behold, there appeared a chariot of fire, and horses of fire, which parted them both assunder; and Elijah went up by a whirlwind into heaven.” <span class="citation">(2 Kings 2:11)</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Thou child of God! oh, be it thine to know—
 Though sad thy lot, though deep soe’er thy wo, 
@@ -61,12 +61,12 @@ To aid thee with their presence and their love.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 There is no spot so sacred, none so blest, 
 As that whereon the holy people rest. 
@@ -79,12 +79,12 @@ His soul is touched with pure, benignant light.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 The lovely form! the mild, majestic mien! 
 In which a tender sympathy is seen. 
@@ -95,12 +95,12 @@ While soft compassion in his face did shine.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Beloved of God! thou dost not comprehend 
 Thy sacred mission and thy glorious end. 
@@ -117,12 +117,12 @@ When barren rocks and caves with beauty shine!
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Elijah rose; again erect he stands, 
 And eats the food prepared by angels’ hands; 
@@ -135,12 +135,12 @@ To sound on earth, for mortal ear to meet.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 He hides his face; but ah! not yet is come 
 That glorious transit to the prophet’s home. 

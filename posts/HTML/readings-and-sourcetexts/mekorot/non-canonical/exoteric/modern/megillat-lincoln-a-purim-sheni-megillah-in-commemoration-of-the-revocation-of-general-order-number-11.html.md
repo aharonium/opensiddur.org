@@ -13,7 +13,7 @@ The single greatest act of government antisemitism in U.S. history was done in D
 This megillah, styled after other Second Purim megillot, celebrates this victory. It is cantillated with Esther cantillation, along with certain verses to be read according to the melody of Lamentations. (Passages in blue bold text are recited in Lamentations melody. Passages in red bold text are recited using a nusaḥ detour as in the reading of Esther.)
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

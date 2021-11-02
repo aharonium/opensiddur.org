@@ -13,37 +13,37 @@ Tonight, I had the privilege of delivering the invocation at the opening dinner 
 
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 ריבונו של עולם 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Guiding power of the universe
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הרחמן
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Compassionate One
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 You brought us forth 
 from slavery to freedom, 
@@ -51,7 +51,7 @@ from oppression to liberation.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 &nbsp;
 &nbsp;
@@ -62,7 +62,7 @@ from oppression to liberation.
 אֲנִי יְהוָה אֱלֹהֵיכֶם׃ <span class="citation">(במדבר יג:מא)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 You teach us in Your Torah, 
 in the portion Jews read this Shabbat:[foot]Parashat Shlaḥ (Numbers 13:1-15:41)[/foot]
@@ -73,7 +73,7 @@ to be your God."[foot]Numbers 15:41[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 &nbsp;
 &nbsp;
@@ -81,7 +81,7 @@ to be your God."[foot]Numbers 15:41[/foot]
 שֶׁתְּקַבְּלוּ עֲלֵיכֶם גְּזֵרוֹתַי: <span class="citation">(רש"י על במדבר ט״ו:מא)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 You teach us in through the words of the medieval Jewish sage, Rashi:[foot]<a href="https://www.sefaria.org/Rashi_on_Numbers.15.41.3?lang=bi&with=all&lang2=en">Rashi on Numbers 15:41</a>, quoting Sifrei Bamidbar 115:1.[/foot]
 &nbsp;
@@ -90,12 +90,12 @@ That you would accept My laws upon yourselves."[foot]Cf. Sifrei Bamidbar 115:1.[
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 God, 
 You have taught us that freedom from human servitude 
@@ -108,12 +108,12 @@ would never resemble Mitsrayim.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 In Mitsrayim, 
 the majority feared and suspected a minority, 
@@ -126,12 +126,12 @@ and to delight in the many cultures of Your creations.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 In Mitsrayim, 
 the majority’s hatred and denigration of a foreign minority 
@@ -143,12 +143,12 @@ and to ensure that they are safe in the arms of their families.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 In Mitsrayim, 
 Pharaoh, an autocratic and narcissistic leader 
@@ -161,7 +161,7 @@ for we are all equal in Your sight.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 &nbsp;
 &nbsp;
@@ -170,7 +170,7 @@ for we are all equal in Your sight.
 יְהוָה מַתִּיר אֲסוּרִים׃ <span class="citation">(תהלים קמו:ז)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 In the words of the Psalms:
 &nbsp;
@@ -180,25 +180,25 @@ and set free those who are imprisoned.[foot]Psalms 146:7.[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 &nbsp;
 וְהָלַכְתָּ בִּדְרָכָיו׃ <span class="citation">(דברים כח:ט)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 You have commanded us in your Torah, 
 to walk in your ways.[foot]Deuteronomy 28:9.[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 We thank you, God, 
 for the opportunity and the obligation to serve You. 
@@ -210,12 +210,12 @@ for all people in this land.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 ברוך אתה ה׳ מלך אוהב צדקה ומשפט׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Blessed are you, Adonai, who loves justice and righteousness.
 </div></td></tr>

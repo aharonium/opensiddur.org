@@ -13,7 +13,7 @@ A prayer for the 2021 inauguration, amid threats of domestic terrorism, for the 
 
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">Transliteration (romanized Hebrew)</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
@@ -30,7 +30,7 @@ A prayer for the 2021 inauguration, amid threats of domestic terrorism, for the 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="romanized-hebrew" lang="he">
+<div class="romanized-transliteration" lang="he">
 Hareini m’khaven | m’khavenet bit’filati
 b’yom chanukat hamemshalah 
 v’hanasi us’ganit hanasi 
@@ -73,7 +73,7 @@ for in her peace you all will have peace.” <span class="citation">(Jeremiah 29
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="romanized-hebrew" lang="he">
+<div class="romanized-transliteration" lang="he">
 Y’hi ratzon mil’fanekha Hashem Eloheinu 
 shetitein lev shomei'a 
 l’mi she’anu nos’im hayom
@@ -119,7 +119,7 @@ for rulership is Yours.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="romanized-hebrew" lang="he">
+<div class="romanized-transliteration" lang="he">
 Lakhen t'akeir tirunya va'aritzut 
 ut’shaber rama’im
 ut’mager 'oshkei nidka’im 
@@ -168,7 +168,7 @@ soon in our days.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="romanized-hebrew" lang="he">
+<div class="romanized-transliteration" lang="he">
 V’titein l’khol umot ha’aretz hazot 
 hako’ach v’haratzon 
 lir’dof tzedek ul’vakeish shalom 

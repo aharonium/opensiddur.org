@@ -35,7 +35,7 @@ This is part one of a series of Sigd readings in English, Hebrew, and Ge'ez tran
 
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Translation (Hebrew)</th><th style="text-align: left;">Translation (English)</th><th style="text-align: left;">Source (Ge'ez)</th><th style="text-align: left;">Transliteration (Ge'ez)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

@@ -7,26 +7,26 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <u>God’s Goodness — the Testament of Man</u>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Your goodness is inscribed in the <em>Testament of Man</em>, 
 in the powers of his body, 
@@ -40,12 +40,12 @@ Aye, it is written large and bold in the nobility of man’s spirit.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 This is a sign of the goodness of God, 
 that there are men 
@@ -57,12 +57,12 @@ and devotion to high ideals.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 This is a sign of the goodness of God, 
 that, hungering insatiably after truth, 
@@ -71,12 +71,12 @@ and possessing it, defend it with their lives.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 This is a sign of the goodness of God, 
 that they will be free, 
@@ -85,12 +85,12 @@ will not rest until freedom be the lot of all men.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 This is a sign of the goodness of God, 
 that, though they might be at ease in the world as it is, 
@@ -98,18 +98,18 @@ they labor steadfastly to convert it into what it ought be.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Wherefore with the psalmist we speak our grateful praise to you.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 יְהוָ֤ה אֲדֹנֵ֗ינוּ 
 מָֽה־אַדִּ֣יר שִׁ֭מְךָ בְּכָל־הָאָ֑רֶץ 
@@ -118,7 +118,7 @@ Wherefore with the psalmist we speak our grateful praise to you.
 יָרֵ֥חַ וְ֝כוֹכָבִ֗ים אֲשֶׁ֣ר כּוֹנָֽנְתָּה׃ <span class="citation">(תהלים ח:ד)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 O YHVH, our Lord,
 How glorious is your name in all the earth,
@@ -128,78 +128,78 @@ The moon and the stars, which you have established;[foot]Psalms 8:4.[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מָֽה־אֱנ֥וֹשׁ כִּֽי־תִזְכְּרֶ֑נּוּ 
 וּבֶן־אָ֝דָ֗ם כִּ֣י תִפְקְדֶֽנּוּ׃ <span class="citation">(תהלים ח:ה)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 What is man, that you should be mindful of him, 
 Mortal man, that you should think of him?[foot]Psalms 8:5.[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וַתְּחַסְּרֵ֣הוּ מְּ֭עַט מֵאֱלֹהִ֑ים 
 וְכָב֖וֹד וְהָדָ֣ר תְּעַטְּרֵֽהוּ׃ <span class="citation">(תהלים ח:ו)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Yet you have made him but little less than divine,
 And have crowned him with glory and honor.[foot]Psalms 8:6.[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 תַּ֭מְשִׁילֵהוּ בְּמַעֲשֵׂ֣י יָדֶ֑יךָ 
 כֹּ֝ל שַׁ֣תָּה תַֽחַת־רַגְלָֽיו׃ <span class="citation">(תהלים ח:ז)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 You have given him dominion over the works of your hands;
 You have put all things under his feet:[foot]Psalms 8:7.[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 צֹנֶ֣ה וַאֲלָפִ֣ים כֻּלָּ֑ם 
 וְ֝גַ֗ם בַּהֲמ֥וֹת שָׂדָֽי׃ <span class="citation">(תהלים ח:ח)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Sheep and oxen, all of them,
 Yea, and the beasts of the field,[foot]Psalms 8:8.[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 צִפּ֣וֹר שָׁ֭מַיִם וּדְגֵ֣י הַיָּ֑ם 
 עֹ֝בֵ֗ר אָרְח֥וֹת יַמִּֽים׃ <span class="citation">(תהלים ח:ט)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Birds of the air, and fish of the sea,
 Whatsoever passes through the paths of the seas.[foot]Psalms 8:9.[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 יְהוָ֥ה אֲדֹנֵ֑ינוּ 
 מָֽה־אַדִּ֥יר שִׁ֝מְךָ֗ בְּכָל־הָאָֽרֶץ׃ <span class="citation">(תהלים ח:י)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 O YHVH, our Lord,
 How glorious is your name in all the earth![foot]Psalms 8:10.[/foot]

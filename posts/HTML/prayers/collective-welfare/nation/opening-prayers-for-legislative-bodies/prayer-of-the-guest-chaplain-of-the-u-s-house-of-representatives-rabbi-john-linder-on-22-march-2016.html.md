@@ -30,26 +30,26 @@ Mr. Speaker, please join me in welcoming Rabbi Linder to the House of Representa
 
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <h3>Opening Prayer Given by the Guest Chaplain:</h3>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 God of all people and all understanding, 
 give us strength and reason during these perilous times; 
@@ -59,12 +59,12 @@ as they represent these great United States.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Collectively, brothers and sisters, 
 you are a tapestry of America, 
@@ -73,12 +73,12 @@ the best of who we can be.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Our respective faiths remind us 
 that the measure of society 
@@ -89,12 +89,12 @@ the stranger in our midst.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 God bless the Members of this House, 
 their families and staff, 
@@ -104,12 +104,12 @@ these hallowed Halls.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 May these deliberations 
 reflect the best of humanity, 
@@ -117,12 +117,12 @@ honoring the divine spark in one another.[foot]The scholar Rabbi Louis Jacobs (1
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 "Long may our land be bright, 
 with freedom's holy light,"[foot]"<a href="https://en.wikipedia.org/wiki/My_Country,_%27Tis_of_Thee">My Country, 'Tis of Thee</a>" (Samuel Francis Smith, 1831)[/foot] 
@@ -133,12 +133,12 @@ and around the world.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אָמֵן׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <em>Amen.</em>
 </div></td></tr>
@@ -153,7 +153,7 @@ Issue: Vol. 162, No. 45 — Daily Edition (March 22, 2016)
 
 Link: <a href="https://chaplain.house.gov/chaplaincy/display_gc.html?id=2370">https://chaplain.house.gov/chaplaincy/display_gc.html?id=2370</a>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.c-span.org/video/standalone/?c4605514/rabbi-john-linder-temple-solel-paradise-valley-az" width="512" height="330"]
+<iframe width=530 height=312 src='https://www.c-span.org/video/standalone/?c4605514/rabbi-john-linder-temple-solel-paradise-valley-az' allowfullscreen='allowfullscreen' frameborder=0></iframe>[su_spacer]
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.congress.gov/crec/2016/03/22/CREC-2016-03-22-pt1-PgH1505-3.pdf" width="100%" height="900"]
 </body>

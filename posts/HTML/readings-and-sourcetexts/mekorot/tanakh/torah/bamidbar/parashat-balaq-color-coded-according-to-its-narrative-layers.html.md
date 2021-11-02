@@ -29,7 +29,7 @@ The 'H' layer is absent from this parashah.
 Parashat Balaq <span class="citation">(Numbers 22:2-25:9)</span> in the annual Torah reading cycle is the seventh parashah in Sefer Bamidbar. It is preceded by parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-bamidbar/parashat-huqat/parashat-huqat-color-coded-according-to-its-narrative-layers/">Ḥuqat</a> <span class="citation">(Numbers 19:1-22:1)</span>. Parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-bamidbar/parashat-pinhas/parashat-pinhas-color-coded-according-to-its-narrative-layers/">Pinḥas</a> <span class="citation">(Numbers 25:10-30:1)</span> follows it. 
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

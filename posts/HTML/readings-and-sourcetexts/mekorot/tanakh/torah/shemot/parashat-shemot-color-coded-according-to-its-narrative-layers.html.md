@@ -26,7 +26,7 @@ According to the poetry of the Midrash Tanchuma, Bereshit 1:1, the words of the 
 Parashat Shemot (Exodus 1:1-6:1) in the annual Torah reading cycle, is read on the third shabbat of the month of Tevet. The parashah is preceded by <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-bereshit/parashat-vayehi/parashat-vayehi-color-coded-according-to-its-narrative-layers/">Vayeḥi</a> (Genesis 47:28-50:26); parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-shemot/parashat-vaera/parashat-vaera-color-coded-according-to-its-narrative-layers/">Va'era</a> (Exodus 6:2-9:35) follows it.
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

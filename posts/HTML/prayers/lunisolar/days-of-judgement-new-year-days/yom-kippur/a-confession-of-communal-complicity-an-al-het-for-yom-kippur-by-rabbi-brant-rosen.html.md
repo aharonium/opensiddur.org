@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;"><a href="/contribute/upload">Contribute a translation</a></th><th style="text-align: left;">Transliteration (Romanized Hebrew)</th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
@@ -16,7 +16,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="romanized-hebrew" lang="he">
+<div class="romanized-transliteration" lang="he">
 
 </span></div></td>
 
@@ -32,7 +32,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="romanized-hebrew" lang="he">
+<div class="romanized-transliteration" lang="he">
 Al ḥet she'ḥatanu lifanekha 
 </span></div></td>
 
@@ -50,7 +50,7 @@ in a strange land;
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="romanized-hebrew" lang="he">
+<div class="romanized-transliteration" lang="he">
 v'Al ḥet she'ḥatanu lifanekha 
 </span></div></td>
 
@@ -68,7 +68,7 @@ to open borders.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="romanized-hebrew" lang="he">
+<div class="romanized-transliteration" lang="he">
 Al ḥet she'ḥatanu lifanekha 
 </span></div></td>
 
@@ -87,7 +87,7 @@ that uproot people, families and communities;
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="romanized-hebrew" lang="he">
+<div class="romanized-transliteration" lang="he">
 v'Al ḥet she'ḥatanu lifanekha 
 </span></div></td>
 
@@ -105,7 +105,7 @@ who come to our country seeking a better life.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="romanized-hebrew" lang="he">
+<div class="romanized-transliteration" lang="he">
 Al ḥet she'ḥatanu lifanekha 
 </span></div></td>
 
@@ -123,7 +123,7 @@ as threats to be feared;
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="romanized-hebrew" lang="he">
+<div class="romanized-transliteration" lang="he">
 v'Al ḥet she'ḥatanu lifanekha 
 </span></div></td>
 
@@ -144,7 +144,7 @@ for labeling human beings as “illegal.”
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="romanized-hebrew" lang="he">
+<div class="romanized-transliteration" lang="he">
 v'Al kulam 
 Elo'ah seliḥot 
 selaḥ lanu, 
@@ -168,7 +168,7 @@ receive our atonement.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="romanized-hebrew" lang="he">
+<div class="romanized-transliteration" lang="he">
 Al ḥet she'ḥatanu lifanekha 
 </span></div></td>
 
@@ -186,7 +186,7 @@ to racist ideologies;
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="romanized-hebrew" lang="he">
+<div class="romanized-transliteration" lang="he">
 v'Al ḥet she'ḥatanu lifanekha 
 </span></div></td>
 
@@ -204,7 +204,7 @@ to continue unchecked.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="romanized-hebrew" lang="he">
+<div class="romanized-transliteration" lang="he">
 Al ḥet she'ḥatanu lifanekha 
 </span></div></td>
 
@@ -225,7 +225,7 @@ people of color;
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="romanized-hebrew" lang="he">
+<div class="romanized-transliteration" lang="he">
 v'Al ḥet she'ḥatanu lifanekha 
 </span></div></td>
 
@@ -245,7 +245,7 @@ to our black and brown communities.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="romanized-hebrew" lang="he">
+<div class="romanized-transliteration" lang="he">
 Al ḥet she'ḥatanu lifanekha 
 </span></div></td>
 
@@ -265,7 +265,7 @@ gay, lesbian, trans and queer people;
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="romanized-hebrew" lang="he">
+<div class="romanized-transliteration" lang="he">
 v'Al ḥet she'ḥatanu lifanekha 
 </span></div></td>
 
@@ -289,7 +289,7 @@ and the elderly.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="romanized-hebrew" lang="he">
+<div class="romanized-transliteration" lang="he">
 v'Al kulam 
 Elo'ah seliḥot 
 selaḥ lanu, 
@@ -313,7 +313,7 @@ receive our atonement.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="romanized-hebrew" lang="he">
+<div class="romanized-transliteration" lang="he">
 Al ḥet she'ḥatanu lifanekha 
 </span></div></td>
 
@@ -331,7 +331,7 @@ the ideology of American exceptionalism;
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="romanized-hebrew" lang="he">
+<div class="romanized-transliteration" lang="he">
 v'Al ḥet she'ḥatanu lifanekha 
 </span></div></td>
 
@@ -349,7 +349,7 @@ in the name of American power and influence;
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="romanized-hebrew" lang="he">
+<div class="romanized-transliteration" lang="he">
 Al ḥet she'ḥatanu lifanekha 
 </span></div></td>
 
@@ -366,7 +366,7 @@ for profiting off of weapons of death and destruction;
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="romanized-hebrew" lang="he">
+<div class="romanized-transliteration" lang="he">
 v'Al ḥet she'ḥatanu lifanekha 
 </span></div></td>
 
@@ -384,7 +384,7 @@ of our nation and our world.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="romanized-hebrew" lang="he">
+<div class="romanized-transliteration" lang="he">
 Al ḥet she'ḥatanu lifanekha 
 </span></div></td>
 
@@ -402,7 +402,7 @@ while we cut essential services here at home;
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="romanized-hebrew" lang="he">
+<div class="romanized-transliteration" lang="he">
 v'Al ḥet she'ḥatanu lifanekha 
 </span></div></td>
 
@@ -424,7 +424,7 @@ will ensure our collective security.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="romanized-hebrew" lang="he">
+<div class="romanized-transliteration" lang="he">
 v'Al kulam 
 Elo'ah seliḥot 
 selaḥ lanu, 
@@ -448,7 +448,7 @@ receive our atonement.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="romanized-hebrew" lang="he">
+<div class="romanized-transliteration" lang="he">
 Al ḥet she'ḥatanu lifanekha 
 </span></div></td>
 
@@ -467,7 +467,7 @@ and warehousing of humanity;
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="romanized-hebrew" lang="he">
+<div class="romanized-transliteration" lang="he">
 v'Al ḥet she'ḥatanu lifanekha 
 </span></div></td>
 
@@ -484,7 +484,7 @@ for a brutal and crushing military occupation.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="romanized-hebrew" lang="he">
+<div class="romanized-transliteration" lang="he">
 Al ḥet she'ḥatanu lifanekha 
 </span></div></td>
 
@@ -502,7 +502,7 @@ inside an open air prison;
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="romanized-hebrew" lang="he">
+<div class="romanized-transliteration" lang="he">
 v'Al ḥet she'ḥatanu lifanekha 
 </span></div></td>
 
@@ -521,7 +521,7 @@ on a population trapped in a tiny strip of land.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="romanized-hebrew" lang="he">
+<div class="romanized-transliteration" lang="he">
 Al ḥet she'ḥatanu lifanekha 
 </span></div></td>
 
@@ -539,7 +539,7 @@ to political nationalism and militarism;
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="romanized-hebrew" lang="he">
+<div class="romanized-transliteration" lang="he">
 v'Al ḥet she'ḥatanu lifanekha 
 </span></div></td>
 
@@ -561,7 +561,7 @@ of the Palestinian people.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="romanized-hebrew" lang="he">
+<div class="romanized-transliteration" lang="he">
 v'Al kulam 
 Elo'ah seliḥot 
 selaḥ lanu, 

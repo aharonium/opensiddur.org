@@ -22,21 +22,21 @@ In the translation below, “the Cause” is used in place of the Divine Name YH
 
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 לְכָה דוֹדִי לִקְרַאת כַּלָּה פְּנֵי שַׁבָּת נְקַבְּלָה׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Come, beloved, to greet the Bride, the face of Shabbat we will receive.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 זָכוֹר וְשָׁמוֹר בְּדִבּוּר אֶחָד
 נָתַן לָנוּ הַמֶּלֶךְ הַמְּיֻחָד
@@ -46,7 +46,7 @@ Come, beloved, to greet the Bride, the face of Shabbat we will receive.
 לְכָה דוֹדִי לִקְרַאת כַּלָּה פְּנֵי שַׁבָּת נְקַבְּלָה׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Remember and keep in a single word,
 The Only Sovereign gave to us.
@@ -57,7 +57,7 @@ Come, beloved, to greet the Bride, the face of Shabbat we will receive.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 קְדוֹשׁ שַׁבָּת הִנְחַלְתָּנוּ
 אֶל הַר סִינַי קֵרַבְתָּנוּ
@@ -67,7 +67,7 @@ Come, beloved, to greet the Bride, the face of Shabbat we will receive.
 לְכָה דוֹדִי לִקְרַאת כַּלָּה פְּנֵי שַׁבָּת נְקַבְּלָה׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 The holiness of Shabbat You endowed us,
 Towards Mt. Sinai You brought us,
@@ -78,7 +78,7 @@ Come, beloved, to greet the Bride, the face of Shabbat we will receive.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 נוֹדֶה לְךָ ה׳ אֱלֹהֵינוּ
 כִּי מִמִּצְרַיִם הוֹצֵאתָנוּ
@@ -88,7 +88,7 @@ Come, beloved, to greet the Bride, the face of Shabbat we will receive.
 לְכָה דוֹדִי לִקְרַאת כַּלָּה פְּנֵי שַׁבָּת נְקַבְּלָה׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 We thank You, O Cause our God,
 For from Egypt You took us out,
@@ -99,7 +99,7 @@ Come, beloved, to greet the Bride, the face of Shabbat we will receive.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 בְּתוֹךְ יַם סוּף הִדְרַכְתָּנוּ
 וּבִנְפוֹל אוֹיֵב שִׂמַּחְתָּנוּ
@@ -109,7 +109,7 @@ Come, beloved, to greet the Bride, the face of Shabbat we will receive.
 לְכָה דוֹדִי לִקְרַאת כַּלָּה פְּנֵי שַׁבָּת נְקַבְּלָה׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 In the midst of the Reed Sea You guided us
 And at the downfall of our enemies You gladdened us
@@ -120,7 +120,7 @@ Come, beloved, to greet the Bride, the face of Shabbat we will receive.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אַתָּה אֱלֹהֵי הָאֱלֹהִים
 וּמִי כָּמוֹךָ בָּאֵלִים
@@ -130,7 +130,7 @@ Come, beloved, to greet the Bride, the face of Shabbat we will receive.
 לְכָה דוֹדִי לִקְרַאת כַּלָּה פְּנֵי שַׁבָּת נְקַבְּלָה׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 You are the God of Gods,
 And who is like You among the gods?
@@ -141,7 +141,7 @@ Come, beloved, to greet the Bride, the face of Shabbat we will receive.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 בּוֹאִי בְּשָׁלוֹם עֲטֶרֶת בַּעֲלָהּ
 וְגַם בְּשִׁמְחָה וּבְצָהֳלָה
@@ -151,7 +151,7 @@ Come, beloved, to greet the Bride, the face of Shabbat we will receive.
 בּוֹאִי בְּשִׁלּוּם שַׁבָּת מַלְכְּתָא׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Come in peace, crown of Her husband!
 As well in joy and in merriment!
@@ -162,20 +162,20 @@ Come in peace, Shabbat, Queen!
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְיֵאָמֵר
 מִזְמ֥וֹר שִׁ֗יר לְי֣וֹם הַשַּׁבָּֽת׃ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And it is said:
 A psalm, a song for the Day of Shabbat.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 ט֗וֹב לְהֹד֥וֹת לַיהֹוָ֑ה
 וּלְזַמֵּ֖ר לְשִׁמְךָ֣ עֶלְיֽוֹן׃ 
@@ -183,7 +183,7 @@ A psalm, a song for the Day of Shabbat.
 וֶ֝אֱמ֥וּנָתְךָ֗ בַּלֵּילֽוֹת׃ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 It is good to thank the Cause,
 and to hymn to Your Name, Highest!
@@ -192,20 +192,20 @@ and Your trust in the nights!
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 עֲֽלֵי־עָ֭שׂוֹר וַעֲלֵי־נָ֑בֶל
 עֲלֵ֖י הִגָּי֣וֹן בְּכִנּֽוֹר׃ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Upon the ten-string and upon the jar-lute
 and upon the pipe and the lyre!
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 כִּ֤י שִׂמַּחְתַּ֣נִי יְהֹוָ֣ה בְּפׇעֳלֶ֑ך
 בְּֽמַעֲשֵׂ֖י יָדֶ֣יךָ אֲרַנֵּֽן׃ 
@@ -213,7 +213,7 @@ and upon the pipe and the lyre!
 מְ֝אֹ֗ד עָמְק֥וּ מַחְשְׁבֹתֶֽיךָ׃ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 For You gladden me, Cause, with Your deeds,
 and the work of Your hands I praise.
@@ -222,7 +222,7 @@ how greatly profound Your designs!
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אִֽישׁ־בַּ֭עַר לֹ֣א יֵדָ֑ע
 וּ֝כְסִ֗יל לֹא־יָבִ֥ין אֶת־זֹֽאת׃ 
@@ -231,7 +231,7 @@ how greatly profound Your designs!
 לְהִשָּׁמְדָ֥ם עֲדֵי־עַֽד׃ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 A brute of a man does not know,
 a fool does not understand this:
@@ -241,7 +241,7 @@ to be destroyed forevermore.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְאַתָּ֥ה מָר֗וֹם לְעֹלָ֥ם יְהֹוָֽה׃ 
 כִּ֤י הִנֵּ֪ה אֹיְבֶ֡יךָ  ׀  יְֽהֹוָ֗ה
@@ -249,7 +249,7 @@ to be destroyed forevermore.
 יִ֝תְפָּרְד֗וּ כׇּל־פֹּ֥עֲלֵי אָֽוֶן׃ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 But You are on High forever, Cause!
 For behold Your enemies, Cause;
@@ -258,7 +258,7 @@ scattered about all doers of evil.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וַתָּ֣רֶם כִּרְאֵ֣ים קַרְנִ֑י
 בַּ֝לֹּתִ֗י בְּשֶׁ֣מֶן רַעֲנָֽן׃ 
@@ -267,7 +267,7 @@ scattered about all doers of evil.
 תִּשְׁמַ֥עְנָה אׇזְנָֽי׃ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 But You raise my horn like the aurochs,
 You douse me in healthy oil.
@@ -277,7 +277,7 @@ my ears hear!
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 צַ֭דִּיק כַּתָּמָ֣ר יִפְרָ֑ח
 כְּאֶ֖רֶז בַּלְּבָנ֣וֹן יִשְׂגֶּֽה׃ 
@@ -289,7 +289,7 @@ my ears hear!
 צ֝וּרִ֗י וְֽלֹא־עַוְלָ֥תָה [עלתה] בּֽוֹ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 The righteous flourish like a palm,
 thrive like a Lebanon cedar.
@@ -302,7 +302,7 @@ my Rock, in Whom there is no flaw!
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אַתָּה הָאֵל עֹשֵׂה פֶלֶא
 הוֹצֵאתָנוּ מִבֵּית כֶּלֶא
@@ -312,7 +312,7 @@ my Rock, in Whom there is no flaw!
 לְכָה דוֹדִי לִקְרַאת כַּלָּה פְּנֵי שַׁבָּת נְקַבְּלָה׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 You are the God, maker of wonders,
 You brought us out from the prison-house,

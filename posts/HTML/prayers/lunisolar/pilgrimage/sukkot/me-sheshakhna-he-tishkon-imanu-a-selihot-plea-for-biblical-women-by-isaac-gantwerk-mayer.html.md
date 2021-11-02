@@ -7,10 +7,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 מִי שֶׁשָּׁכְנָה עִם שָׂרָה אִמֵּנוּ‏ 
 אַחֲרֵי בָּלְתָה,
@@ -24,7 +24,7 @@ dwell with us.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מִי שֶׁשָּׁכְנָה עִם רִבְקָה 
 כְּשֶׁבָּנֶיהָ הִתְרוֹצְצוּ בְּבִטְנָהּ,
@@ -38,7 +38,7 @@ dwell with us.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מִי שֶׁשָּׁכְנָה עִם רָחֵל 
 בַּעֲקָרוּתָהּ,
@@ -52,7 +52,7 @@ dwell with us.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מִי שֶׁשָּׁכְנָה עִם לֵאָה 
 בְּעׇנְיָהּ,
@@ -66,7 +66,7 @@ dwell with us.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מִי שֶׁשָּׁכְנָה עִם תָּמָר 
 בְּפֶתַח עֵינַיִם אֲשֶׁר עַל־דֶּרֶךְ תִּמְנָתָה,
@@ -80,7 +80,7 @@ dwell with us.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מִי שֶׁשָּׁכְנָה עִם שִׁפְרָה וְעִם פּוּעָה 
 כְּשֶׁקָּרָא לָהֶן פַּרְעֹה,
@@ -94,7 +94,7 @@ dwell with us.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מִי שֶׁשָּׁכְנָה עִם יוֹכֶבֶד 
 עַל־שְׂפַת־הַיְאֹֽר,
@@ -108,7 +108,7 @@ dwell with us.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מִי שֶׁשָּׁכְנָה עִם מִרְיָם 
 עַל־יַד בַּאֲרָהּ,
@@ -122,7 +122,7 @@ dwell with us.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מִי שֶׁשָּׁכְנָה עִם בְּנוֹת צְלׇפְחָד 
 כְּשֶׁאֲבִיהֶן מֵת בַּמִּדְבָּר,
@@ -136,7 +136,7 @@ dwell with us.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מִי שֶׁשָּׁכְנָה עִם דְּבוֹרָה 
 בִּישִׁיבָתָהּ תַּחַת תׇּמְרֶיהָ,
@@ -150,7 +150,7 @@ dwell with us.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מִי שֶׁשָּׁכְנָה עִם רוּת 
 בְּבֵית־לֶחֶם יְהוּדָה,
@@ -164,7 +164,7 @@ dwell with us.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מִי שֶׁשָּׁכְנָה עִם חַנָּה 
 בְּהֵיכַל שִׁלֹה,
@@ -178,7 +178,7 @@ dwell with us.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מִי שֶׁשָּׁכְנָה עִם אֲבִיגַיִל 
 כְּשֶׁנָּפְלָה עַל־פָּנֶיהָ לְאַפֵּי דָוִד,
@@ -192,7 +192,7 @@ dwell with us.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מִי שֶׁשָּׁכְנָה עִם אִשָּׁה הַחֲכָמָה 
 בְּאָבֵל בֵּית־מֲעַכָה,
@@ -206,7 +206,7 @@ dwell with us.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מִי שֶׁשָׁכְנָה עִם הַשּׁוּנַמִּית 
 כְּשֶׁנַּעֲרָהּ‏ מֻשְׁכָּב עַל־הַמִּטָּה,
@@ -220,7 +220,7 @@ dwell with us.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מִי שֶׁשָׁכְנָה עִם חֻלְדָּה 
 בִּמְצִיאַת סֵפֶר הַתּוֹרָה,
@@ -234,7 +234,7 @@ dwell with us.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מִי שֶׁשָׁכְנָה עִם אֶסְתֵּר 
 בְּשׁוּשַׁן הַבִּירָה,
@@ -248,7 +248,7 @@ dwell with us.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מִי שֶׁשָׁכְנָה עִם כׇּל הַצַּדִּיקוֹת וְהַחֲסִידוֹת וְהַתְּמִימוֹת וְהַיְּשָׁרוֹת,
 הִיא תִּשְׁכֹּן עִמָּנוּ.

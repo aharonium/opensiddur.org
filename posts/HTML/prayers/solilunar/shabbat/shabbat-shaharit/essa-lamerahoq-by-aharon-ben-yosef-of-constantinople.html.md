@@ -7,10 +7,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 <span class="acrostic">אֶ</span>שָּׂא לְמֵרָחוֹק דֵּעִי
 אֲתַנֶּה | צִדְקוֹת אֵלִי וּמוֹשִׁיעִי
@@ -19,7 +19,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <span class="instruction">קהל:</span> וַיְבָרֶךְ אֱלֹהִים | אֶת יוֹם הַשְּׁבִיעִי. <span class="citation">(בראשית ב:ג)</span>
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 I will speak my mind regarding [matters] long ago,
 I will declare the righteous deeds of my God and my rescuer:
 In six days He finished everything – my King and my shepherd, 
@@ -27,7 +27,7 @@ In six days He finished everything – my King and my shepherd,
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <span class="acrostic">הִ</span>פְלִיא כָּל פֹּעַל | וְהוֹדוֹ שָׁמַיִם כִּסָּה
 יִתְעַלֶּה וְיִתְנַשֵּׂא הָרָם וְהַנִּשָּׂא
@@ -36,7 +36,7 @@ In six days He finished everything – my King and my shepherd,
 <span class="instruction">קהל:</span> מִכָּל מְלַאכְתּוֹ | אֲשֶׁר עָשָׂה. <span class="citation">(בראשית ב:ב)</span>
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 He wondrously wrought everything, and His splendor covered heaven.
 May the high and lofty One be elevated and uplifted,
 He who sanctified this day from everything that had been made,
@@ -44,7 +44,7 @@ He who sanctified this day from everything that had been made,
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <span class="acrostic">רֹ</span>אש דְּבָרוֹ אֱמֶת | בְּסוֹד נֶעְלָם
 הָעָם בָּחַר לְנַחֲלָה לוֹ מֵעוֹלָם
@@ -53,7 +53,7 @@ He who sanctified this day from everything that had been made,
 <span class="instruction">קהל:</span> לַעֲשׂוֹת אֶת הַשַּׁבָּת | לְדֹרֹתָם בְּרִית עוֹלָם. <span class="citation">(שמות לא:טז)</span>
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 The beginning of His worth is truth, in a concealed secret.
 [To] the nation He chose as an estate, from long ago,
 He commanded to prepare themselves a double portion of bread –
@@ -61,7 +61,7 @@ He commanded to prepare themselves a double portion of bread –
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <span class="acrostic">נִ</span>חַל עֵדוּת | לִבְנֵי יַעֲקֹב לְהוֹדָם
 יוֹם עֹנֶג יוֹם קֹדֶשׁ | יוֹם מְכֻבָּד לִכְבוֹדָם
@@ -70,7 +70,7 @@ He commanded to prepare themselves a double portion of bread –
 <span class="instruction">קהל:</span> יוֹדוּ לַיהֹוָה חַסְדּוֹ | וְנִפְלְאוֹתָיו לִבְנֵי אָדָם. <span class="citation">(תהלים קז:ח)</span>
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 He bequeathed an inheritance to the children of Jacob, as a testimony, for their glory:
 The day of enjoyment, the day of holiness, the honored day, for their honor.
 Indeed, they tell of His righteous deeds when they assemble together,

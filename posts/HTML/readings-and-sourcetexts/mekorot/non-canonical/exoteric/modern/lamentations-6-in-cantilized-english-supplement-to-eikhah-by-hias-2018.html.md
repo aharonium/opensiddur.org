@@ -19,15 +19,15 @@ If you know Eicha <em>trōp</em>*, record a video of yourself dressed in black a
 
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <em>Eikhah</em> – 
 
@@ -36,12 +36,12 @@ now isol֤ates her֝self fr֣om the cri֔es of tho֖se seeking saf֥ety on֣  he
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <span style="font-size: xx-large;">B</span>ui֤lt by the ha֝nds of ref֣ugees and immig֔rants, she
 <span style="font-size: xx-large;">c</span>h֖ips aw֥ay at the r֖ight to asyl֑um,
@@ -50,125 +50,125 @@ now isol֤ates her֝self fr֣om the cri֔es of tho֖se seeking saf֥ety on֣  he
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <span style="font-size: xx-large;">F</span>or֝gotten are the tir֙ed, the po֗or, the hu֖ddled masses yea֥rning t֣o breathe frֽee.[foot]Emma Lazarus, "<a href="https://opensiddur.org/prayers/special-days/secular-national/july-4th/the-new-collosus-by-emma-lazarus-1883-yiddish-translation-by-rachel-kirsch-holtman-1938/">The New Collosus</a>" (1883)[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <span style="font-size: xx-large;">G</span>֝one is the dre֙am of prot֗ection in the fa֤ce of viol֝ence a֣nd persec֔ution.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הָי֨וּ צָרֶ֤יהָ לְרֹאשׁ֙ אֹיְבֶ֣יהָ <span class="citation">(איכה א:ה חלק)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 “<span style="font-size: xx-large;">H</span>֖er ene֥mies are no֖w the mastֽers.”[foot]Eichah 1:5 partial[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <span style="font-size: xx-large;">I</span>nhum֝ane exe֤cutive ord֝ers bar֖ring Mus֥lims an֣d ref֑ugees.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <span style="font-size: xx-large;">J</span>ar֛ringly sepa֖rating par֥ents fro֣m childֽren.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <span style="font-size: xx-large;">K</span>ee֝ping out compa֙ssion and dece֗ncy, a w֖all in their pla֑ce.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <span style="font-size: xx-large;">L</span>a֖dy Liberty we֥eps at her shut֖tered gatֽes.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <span style="font-size: xx-large;">M</span>i֝xed multit֤udes we we֝re whe֣n we left Mitzr֗ayim, the nar֖row pla֑ce;
 <span style="font-size: xx-large;">n</span>o֛w, the world narr֤ows around the֣  68 millio֔n disp֖laced pe֥ople aro֣und the gloֽbe.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <span style="font-size: xx-large;">O</span>n֝ly Go֤d’s voi֝ce ca֣n be hea֔rd bello֝wing ca֣lls to welc֔ome, pro֖tect, and lo֥ve the stra֑nger –
 <span style="font-size: xx-large;">p</span>art֛ners in con֖tinued rede֥mption we a֣re no longeֽr.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <span style="font-size: xx-large;">Q</span>uie֗t in the fa֝ce of mo֣ral depr֔avity ar֖e her citiz֑ens,
 <span style="font-size: xx-large;">r</span>einf֛orced by hat֖eful rhe֥toric spe֖wed from se֖ats of powֽer.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <span style="font-size: xx-large;">S</span>elf-e֝vident tru֙ths –
 <span style="font-size: xx-large;">t</span>hat hu֤man bei֝ngs are cre֣ated eq֔ual, end֝owed by֣  their Cre֔ator w֖ith cer֥tain unalie֣nable righ֑ts –
@@ -176,47 +176,47 @@ now isol֤ates her֝self fr֣om the cri֔es of tho֖se seeking saf֥ety on֣  he
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <span style="font-size: xx-large;">V</span>e֗rily, we kn֝ow wh֣ere God dw֔ells am֖idst this suffe֑ring –
 Go֛d is in the ey֖es of those flee֥ing for֣  their liveֽs.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <span style="font-size: xx-large;">W</span>hy, th֝en, hav֤e we forsa֝ken the D֣ivine call to lo֤ve the stra֝nger as֣  we wo֔uld lo֖ve ourse֑lves –
 <span style="font-size: xx-large;">x</span>enop֖hobia inst֥ead taking ro֖ot in our soֽuls?
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <span style="font-size: xx-large;">Y</span>o֝u are the he֙ro fo֣r who֔m you֣  are sear֑ching:
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <span style="font-size: xx-large;">Z</span>i֝on can֤not be returne֝d to if we֖  do not first t֥urn to those ca֣lling our naֽmes.
 </div></td></tr>

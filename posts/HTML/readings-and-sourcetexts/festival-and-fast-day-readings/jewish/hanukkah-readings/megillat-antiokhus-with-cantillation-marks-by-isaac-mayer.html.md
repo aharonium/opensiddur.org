@@ -13,7 +13,7 @@ Here is Megillat Antiokhus to be read on Ḥanukkhah a la Esther on Purim (the h
 A few notes: on the final mention of Bagris the Wicked I included a <em>karnei-farah</em> in the manner of the <em>karnei-farah</em> in Esther. I also included a <em>merkha kefulah</em> in the concluding section, which (according to David Weisberg's "The Rare Accents of the Twenty-Eight Books") represents aggadic midrash material. It also serves as a connection to the Ḥanukkah haftarah, which is famously the only one that has a <em>merkha kefulah</em>. --Isaac Gantwerk Mayer
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Translation (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" >

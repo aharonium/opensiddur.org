@@ -11,7 +11,7 @@ This is a Mimouna packet including havdalah, a Moroccan-rite birkat ha-ilanot, t
 
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
@@ -157,94 +157,94 @@ May the Merciful One return the service of the Holy House to its place speedily 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 תהלים סז
 &nbsp;
 <sup>א</sup> לַמְנַצֵּ֥ח בִּנְגִינֹ֗ת מִזְמ֥וֹר שִֽׁיר׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Psalms 67
 &nbsp;
 <sup>1</sup> To the conductor, in melody, a hymn song.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="44%"><div class="liturgy" lang="he">
+<tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 <sup>ב</sup> אֱלֹהִ֗ים יְחָנֵּ֥נוּ וִֽיבָרְכֵ֑נוּ
  יָ֤אֵ֥ר פָּנָ֖יו אִתָּ֣נוּ סֶֽלָה׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 <sup>2</sup> God will grace us and bless us, 
 will turn the Divine Face upon us,[foot]cf. <a href="https://opensiddur.org/2013/01/adventures-in-ancient-jewish-liturgy-the-birkhat-kohanim">the Priestly Blessing</a>: Numbers 6:23–27[/foot] <em>selah.</em>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="44%"><div class="liturgy" lang="he">
+<tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 <sup>ג</sup> לָדַ֣עַת בָּאָ֣רֶץ דַּרְכֶּ֑ךָ
  בְּכָל־גּ֝וֹיִ֗ם יְשׁוּעָתֶֽךָ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 <sup>3</sup> To know Your way on earth, 
 among all the nations Your saving.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="44%"><div class="liturgy" lang="he">
+<tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 <sup>ד</sup> יוֹד֖וּךָ עַמִּ֥ים׀ אֱלֹהִ֑ים
  י֝וֹד֗וּךָ עַמִּ֥ים כֻּלָּֽם׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 <sup>4</sup> The peoples thank You, God,
 the peoples all thank You.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="44%"><div class="liturgy" lang="he">
+<tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 <sup>ה</sup> יִֽשְׂמְח֥וּ וִֽירַנְּנ֗וּ לְאֻ֫מִּ֥ים 
 כִּֽי־תִשְׁפֹּ֣ט עַמִּ֣ים מִישׁ֑וֹר
  וּלְאֻמִּ֓ים׀ בָּאָ֖רֶץ תַּנְחֵ֣ם סֶֽלָה׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 <sup>5</sup> The nations rejoice and cheer, 
 for You will judge the people rightly, 
 and the nations in the lands You apportion, <em>selah</em>.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="44%"><div class="liturgy" lang="he">
+<tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 <sup>ו</sup> יוֹד֖וּךָ עַמִּ֥ים׀ אֱלֹהִ֑ים
  י֝וֹד֗וּךָ עַמִּ֥ים כֻּלָּֽם׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 <sup>6</sup> The peoples thank You, God, 
 the peoples all thank You.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="44%"><div class="liturgy" lang="he">
+<tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 <sup>ז</sup> אֶ֭רֶץ נָתְנָ֣ה יְבוּלָ֑הּ
  יְ֝בָרְכֵ֗נוּ אֱלֹהִ֥ים אֱלֹהֵֽינוּ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 <sup>7</sup> You gave Land its fruit,
 God our God will bless us.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="44%"><div class="liturgy" lang="he">
+<tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 <sup>ח</sup> יְבָרְכֵ֥נוּ אֱלֹהִ֑ים
  וְיִֽירְא֥וּ אֹ֝ת֗וֹ כָּל־אַפְסֵי־אָֽרֶץ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 <sup>8</sup> God will bless us, 
 and all the ends of the earth will see God.
 </div></td></tr>

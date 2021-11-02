@@ -8,10 +8,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <hr />
 
   
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מַה נֹאכַל בִּסְעוּדָה הַזּוֹ
 שׁוֹר הַבָּר וְלִוְיָתָן
@@ -19,7 +19,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 בִּסְעוּדָה הַזּוֹ
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 What will we eat at this meal?
 The Primeval Ox and the Leviathan!
@@ -28,7 +28,7 @@ All at this meal!
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מַה נִּשְׁתֶּה בִּסְעוּדָה הַזּוֹ
 יַיִן הַמְשׁוּמָר
@@ -37,7 +37,7 @@ All at this meal!
 בִּסְעוּדָה הַזּוֹ
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 What will we drink at this meal?
 The Preserved Wine!
@@ -47,7 +47,7 @@ All at this meal!
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מִי יַגִּיד לָנוּ דִּבְרֵי תוֹרָה בִסְעוּדָה הַזּוֹ
 מֹשֶׁה רַבֵּנוּ
@@ -57,7 +57,7 @@ All at this meal!
 בִּסְעוּדָה הַזּוֹ
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Who will tell us words of Torah at this meal?
 Moses our master!
@@ -68,7 +68,7 @@ All at this meal!
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מִי יַגִּיד לָנוּ חָכְמָה בִסְעוּדָה הַזּוֹ
 שְׁלֹמֹה הַמֶּלֶךְ
@@ -79,7 +79,7 @@ All at this meal!
 בִּסְעוּדָה הַזּוֹ
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Who will tell us words of wisdom at this meal?
 King Solomon!
@@ -91,7 +91,7 @@ All at this meal!
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מִי יְנַגֵּן לָנוּ בִּסְעוּדָה הַזּוֹ
 דָּוִד הַמֶּלֶךְ
@@ -103,7 +103,7 @@ All at this meal!
 בִּסְעוּדָה הַזּוֹ
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Who will play music for us at this meal?
 King David!
@@ -116,7 +116,7 @@ All at this meal!
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מִי תֵּצֵא בְּמָחוֹל לָנוּ בִּסְעוּדָה הַזּוֹ
 מִרְיָם הַנְּבִיאָה
@@ -129,7 +129,7 @@ All at this meal!
 בִּסְעוּדָה הַזּוֹ
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Who will emerge dancing for us at this meal?
 Miriam the Prophet!
@@ -143,7 +143,7 @@ All at this meal!
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מִי תָּשִׁיר לָנוּ בִּסְעוּדָה הַזּוֹ
 דְּבוֹרָה הַנְּבִיאָה
@@ -157,7 +157,7 @@ All at this meal!
 בִּסְעוּדָה הַזּוֹ
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Who will sing for us at this meal?
 Deborah the Prophet!
@@ -172,7 +172,7 @@ All at this meal!
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מִי יְבַשֵּׂר לָנוּ בְּשׂוֹרָה טוֹבָה בִסְעוּדָה הַזּוֹ
 אֵלִיָּהוּ הַנָּבִיא
@@ -187,7 +187,7 @@ All at this meal!
 בִּסְעוּדָה הַזּוֹ
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Who will bring us good news at this meal?
 Elijah the Prophet! 
@@ -203,7 +203,7 @@ All at this meal!
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מִי יְבָרֵךְ אוֹתָנוּ בִּסְעוּדָה הַזּוֹ
 אַהֲרֹן הַכֹּהֵן
@@ -219,7 +219,7 @@ All at this meal!
 בִּסְעוּדָה הַזּוֹ
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Who will bless us at this meal?
 Aharon the Priest! 

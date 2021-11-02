@@ -13,7 +13,7 @@ The Betä ʾƎsəraʾel community of Ethiopian Jews has a unique collection of m
 Note: The Gəʿəz word ʾƎgəziʾäbəḥer <span class="ethiopic" lang="gez">እግዚአብሔር</span> (literally “Lord of the people”) is the standard circumlocution for the Divine Name in the Ethiopic languages.
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: left;">Translation (Ge'ez)</th><th style="text-align: right;">Secondary Translation (Hebrew)</th><th style="text-align: left;">Secondary Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

@@ -12,7 +12,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </div>
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Translation (Hebrew)</th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
@@ -20,7 +20,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 שִׁירַת הַדֶּרֶךְ הָרְחָבָה
 </span></div></td>
  
-<td style="vertical-align:top;" width="55%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <u>Song of the Open Road</u>
 </div></td></tr>
@@ -806,7 +806,8 @@ We convince by our presence.)
 הֲלֹא הֵם הַיָּמִים אֲשֶׁר בּוֹא יְבוֹאוּךָ; 
 צָבֹר לֹא תִּצְבֹּר אֶת הַנִּקְרָא עֹשֶׁר, 
 פַּזֵּר לֹא תְּפַזֵּר בְּיָד רְחָבָה כׇּל שֶׁאַתָּה מִשְׂתַּכֵּר אוֹ מַשִּׂיג - 
-הַגֵּעַ אַךְ תַּגִּיעַ אֶל הַכְּרָךְ אֲשֶׁר לוֹ נוֹעַדְתָּ, כִּמְעַט לֹא נוֹשַׁבְתָּ בּוֹ לִרְצוֹנְךָ, וּכְבָר אַתָּה נִקְרָא קְרִיאָה לְאֵין־מָאֵן־לָהּ לָקוּם וְלָלֶכֶת;
+הַגֵּעַ אַךְ תַּגִּיעַ אֶל הַכְּרָךְ אֲשֶׁר לוֹ נוֹעַדְתָּ, 
+כִּמְעַט לֹא נוֹשַׁבְתָּ בּוֹ לִרְצוֹנְךָ, וּכְבָר אַתָּה נִקְרָא קְרִיאָה לְאֵין־מָאֵן־לָהּ לָקוּם וְלָלֶכֶת;
 זָכֹה תִּזְכֶּה לְגִחוּכֵי־הַקַּלָּסָה וּלְלַעֲגֵי־הַשָּׂפָה מִצַּד אֵלֶּה הַנִּשְׁאָרִים מֵאַחֲרֶיךָ;
 כׇּל רְמִיזוֹת־הָאַהֲבָה שֶׁתְּקַבֵּל - הֵעָנֵה תֵּעָנֶה לָהֶן בִּנְשִׁיקוֹת־פְּרֵדָה נִרְגָּשׁוֹת בִּלְבָד,
 לֹא תִּנְהַג הֶתֵּר בְּמַאֲחָזָם שֶׁל אֵלֶּה הַפּוֹשְׁטִים לִקְרָאתְךָ אֶת יְדֵיהֶם הַנִּלְפָּתוֹת.
@@ -819,7 +820,8 @@ I do not offer the old smooth prizes, but offer rough new prizes,
 These are the days that must happen to you:
 You shall not heap up what is call’d riches,
 You shall scatter with lavish hand all that you earn or achieve,
-You but arrive at the city to which you were destin’d, you hardly settle yourself to satisfaction before you are call’d by an irresistible call to depart,
+You but arrive at the city to which you were destin’d, 
+you hardly settle yourself to satisfaction before you are call’d by an irresistible call to depart,
 You shall be treated to the ironical smiles and mockings of those who remain behind you,
 What beckonings of love you receive you shall only answer with passionate kisses of parting,
 You shall not allow the hold of those who spread their reach’d hands toward you.
@@ -848,7 +850,8 @@ You shall not allow the hold of those who spread their reach’d hands toward yo
 מִשְׁ‎תַּהִים וּמִתְבּוֹנְנִים בְּצִיבִים, בְּצִיצִים, בִּצְדָפִים עַל הַחוֹף; 
 מְרַקְּדֵי בְּרִקּוּדֵי־חֲתֻנָּה, נוֹשְׁקֵי הַכַּלּוֹת, עוֹזְרֵי־תִּינוֹקוֹת רַחֲמָנִים, יוֹלְדֵי יְלָדִים;
 חַיָּלִים לְעִתּוֹת־מֶרֶד, עוֹמְדֵי עַל פִּי קְבָרִים פְּעוּרִים, מְשַׁלְשְׁלֵי אֲרוֹנוֹת שֶׁל מֵתִים;
-הוֹלְכֵי־דְּרָכִים בְּמֶשֶׁךְ תְּקוּפוֹת־שָׁנָה רְצוּפוֹת, שָׁנִים עַל שָׁנִים, וְהַשָּׁנִים הַמּוּזָרוֹת גָּחוֹת כׇּל אֶחָת מִתּוֹךְ קוֹדַמְתָּהּ; 
+הוֹלְכֵי־דְּרָכִים בְּמֶשֶׁךְ תְּקוּפוֹת־שָׁנָה רְצוּפוֹת, שָׁנִים עַל שָׁנִים, 
+וְהַשָּׁנִים הַמּוּזָרוֹת גָּחוֹת כׇּל אֶחָת מִתּוֹךְ קוֹדַמְתָּהּ; 
 הוֹלְכֵי בַּדְּרָכִים כְּעִם בְּנֵי־לְוָיָה, הֲלֹא הֵם פַּרְצוּפֵיהֶם שֶׁלָּהֶם הַשּׁוֹנִים -
 צוֹעֲדִים וְיוֹצְאִים מִתּוֹךְ יְמֵי־יַנְקוּת גְנוּזִים וְלֹא־מֻגְשָׁמִים, 
 הוֹלְכִים בְּחֶדְוָה בַּדְרָכִים עִם יְמֵי־נְעוּרֵיהֶם שֶׁלָּהֶם, 
@@ -870,7 +873,8 @@ Trusters of men and women, observers of cities, solitary toilers,
 Pausers and contemplators of tufts, blossoms, shells of the shore,
 Dancers at wedding-dances, kissers of brides, tender helpers of children, bearers of children,
 Soldiers of revolts, standers by gaping graves, lowerers-down of coffins,
-Journeyers over consecutive seasons, over the years, the curious years each emerging from that which preceded it,
+Journeyers over consecutive seasons, over the years, 
+the curious years each emerging from that which preceded it,
 Journeyers as with companions, namely their own diverse phases,
 Forth-steppers from the latent unrealized baby-days,
 Journeyers gayly with their own youth, 
@@ -907,8 +911,10 @@ Old age, flowing free with the delicious near-by freedom of death.
 תֶּאֱרַךְ כַּמָּה שֶׁתֶּאֱרַךְ, אֵינָהּ אֶלָּא מִשְׁתָּרַעַת וּמְצַּפָה לְךָ;
 שֶׁלֹא לִרְאוֹת שׁוּם הֲוָיָה, לֹא הָוְיַת אֱלֹהִים וְלֹא כֹּל שֶׁהִיא, 
 אֶלָּא עַל מְנָת שֶׁתְּכַוֵּן אַף אַתָּה פָּנֶיךָ לְשָׁם;
-שֶׁלֹא לִרְאוֹת שׁוּם קִנְיָן אֶלָּא עַל מְנָת שֶׁתִּקְנֵהוּ בִּרְאִיָּה, נֶהֱנֶה מִן הַכֹּל לְלֹא יְגִיעָה אוֹ קְנִיָּה, מְשַׁמֵּט אֶת הַסְּעֻדָּה וְאַף עַל פִּי כֵּן לֹא מְשַׁמֵּט קֹרְטוֹב אֶחָד שֶׁבָּהּ;
-לִטֹּל אֶת הַמֻּבְחָר מִמֶּשֶׁק הָאִכָּר וּמֵחֲוִילָתוֹ הַמְפֹאָרָה שֶׁל הֶעָשִׁיר, וְאֶת בִּרְכוֹתָיו הַטְּהוֹרוֹת שֶׁל הַזּוּג, הָרוֹאֶה עוֹלָמוֹ בְּחַיָּיו, וְאֶת פֵּרוֹת הַגַּנִּים וּפִּרְחֵי הַגַּנִּים;
+שֶׁלֹא לִרְאוֹת שׁוּם קִנְיָן אֶלָּא עַל מְנָת שֶׁתִּקְנֵהוּ בִּרְאִיָּה, נֶהֱנֶה מִן הַכֹּל לְלֹא יְגִיעָה אוֹ קְנִיָּה, 
+מְשַׁמֵּט אֶת הַסְּעֻדָּה וְאַף עַל פִּי כֵּן לֹא מְשַׁמֵּט קֹרְטוֹב אֶחָד שֶׁבָּהּ;
+לִטֹּל אֶת הַמֻּבְחָר מִמֶּשֶׁק הָאִכָּר וּמֵחֲוִילָתוֹ הַמְפֹאָרָה שֶׁל הֶעָשִׁיר, 
+וְאֶת בִּרְכוֹתָיו הַטְּהוֹרוֹת שֶׁל הַזּוּג, הָרוֹאֶה עוֹלָמוֹ בְּחַיָּיו, וְאֶת פֵּרוֹת הַגַּנִּים וּפִּרְחֵי הַגַּנִּים;
 לִטֹּל טוֹבַת־הֲנָאָה שֶׁלְּךָ מִן הַכְּרַכִּים הַמְלֻכָּדִים בְּדֶרֶךְ עֲבָרְךָ, 
 לָשֵׂאת אִתְּךָ לְאַחַר כָּךְ בִּנְיָנִים וּרְחוֹבוֹת בְּכֹל שֶׁאַתָּה הוֹלֵךְ; 
 לִקְלֹט דֵּעוֹת שֶׁבִּבְנֵי־אָדָם מִתּוֹךְ מֹחוֹתֵיהֶם, עִם שֶׁאַתָּה מִזְדַּמֵּן אִתָּם, 
@@ -931,8 +937,10 @@ but it stretches and waits for you,
 however long but it stretches and waits for you,
 To see no being, not God’s or any, 
 but you also go thither,
-To see no possession but you may possess it, enjoying all without labor or purchase, abstracting the feast yet not abstracting one particle of it,
-To take the best of the farmer’s farm and the rich man’s elegant villa, and the chaste blessings of the well-married couple, and the fruits of orchards and flowers of gardens,
+To see no possession but you may possess it, enjoying all without labor or purchase, 
+abstracting the feast yet not abstracting one particle of it,
+To take the best of the farmer’s farm and the rich man’s elegant villa, 
+and the chaste blessings of the well-married couple, and the fruits of orchards and flowers of gardens,
 To take to your use out of the compact cities as you pass through,
 To carry buildings and streets with you afterward wherever you go,
 To gather the minds of men out of their brains as you encounter them, 

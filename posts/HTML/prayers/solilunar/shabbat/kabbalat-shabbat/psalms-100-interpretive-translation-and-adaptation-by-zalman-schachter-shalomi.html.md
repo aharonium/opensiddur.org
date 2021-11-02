@@ -7,11 +7,11 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>א</sup>&nbsp;מִזְמ֥וֹר 
 לְתוֹדָ֑ה 
@@ -20,7 +20,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>1</sup>&nbsp;This is how you sing to God
 A Thank You song.
@@ -41,7 +41,7 @@ From generation to generation.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>ב</sup>&nbsp;עִבְד֣וּ אֶת־יְהוָ֣ה 
 בְּשִׂמְחָ֑ה 
@@ -58,7 +58,7 @@ From generation to generation.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>2</sup>&nbsp;You are filled with joy
 Serving God’s purpose.
@@ -77,7 +77,7 @@ In grateful appreciation.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הֽוֹדוּ־ל֝֗וֹ 
 בָּרֲכ֥וּ שְׁמֽוֹ׃ 
@@ -88,7 +88,7 @@ In grateful appreciation.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Thank You God, 
 You are all Blessing.

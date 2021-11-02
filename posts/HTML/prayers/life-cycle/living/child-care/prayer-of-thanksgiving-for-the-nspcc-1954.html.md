@@ -7,10 +7,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אָנָּא. אֵל שַׁדַּי רַחוּם אָב לַכֹּל 
 סוֹמֵךְ נוֹפְלִים וְסוֹעֵד נֶחֱשָׁלִים 
@@ -24,7 +24,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 אֲשֶׁר לֹא יִמְעֲלוּ עוֹד מַעַל בְּנַעַר וְעוּל יָמִים׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Almighty and all-merciful God, Who art the Father of all 
 and Who upholdest the weak and the helpless, 
@@ -39,7 +39,7 @@ that causes them to neglect hapless young beings.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אָבִינוּ שֶׁבַּשָּׂמָיִם. 
 בָּאנוּ לְפָנֶיךָ בְּיוֹם שַׁבַּת קֹדֶשׁ זֶה בְּתּוֹדָה וּבִתְהִלָה 
@@ -57,7 +57,7 @@ that causes them to neglect hapless young beings.
 הָעוֹסְקִים בַּעֲבוֹדַת הַחֶסֶד בֶּאֱמֶת וּבְתָמִים׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 O [Father in Heaven], 
 on this Sabbath we humbly offer our gratitude to Thee 
@@ -76,7 +76,7 @@ with heart, devotion and zeal, carry on the beneficent work.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 &nbsp;
 שְׁמַר־נָא צֵאתָם וּבוֹאָם 
@@ -84,7 +84,7 @@ with heart, devotion and zeal, carry on the beneficent work.
 אָמֵן׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 O Lord, 
 preserve their going out and their coming in,[foot]Cf. Ezekiel 46:10[/foot]

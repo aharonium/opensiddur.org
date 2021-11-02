@@ -7,10 +7,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הַנֹּתֵ֣ן מָ֭טָר עַל־פְּנֵי־אָ֑רֶץ 
 וְשֹׁ֥לֵֽחַ מַ֗֝יִם עַל־פְּנֵ֥י חוּצֽוֹת׃ <span class="citation">(איוב ה:י)</span>
@@ -21,7 +21,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 רֹב הַהוֹדָאוֹת וְהָאֵל הַהוֹדָאוֹת׃ <span class="citation">(תלמוד בבלי, ברכות נט ב על פי רב פפא)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 O Giver of Rain upon the face of the earth,
 and Sender of Water upon the face of the open spaces,[foot]Job 5:10.[/foot]

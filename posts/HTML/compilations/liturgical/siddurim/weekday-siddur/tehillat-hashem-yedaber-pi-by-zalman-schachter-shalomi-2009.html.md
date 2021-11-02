@@ -47,54 +47,54 @@ as a blessed meeting
 with your God.</center>
 </div></blockquote>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <h2>INDEX</h2>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 ברכות השחר
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <h3>Morning Blessings</h3>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <a href="http://opensiddur.org/?p=29385">מודה אני לפניך</a>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <a href="http://opensiddur.org/?p=29385">Modeh Ani Lefanekha</a>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <strong>תפילת העשיה</strong>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <a href="http://opensiddur.org/?p=17029">אשר יצר</a>
 <a href="http://opensiddur.org/?p=17309">נשמה שנתת בי</a>
@@ -103,7 +103,7 @@ with your God.</center>
 ואהבת לרעך כמוך
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <a href="http://opensiddur.org/?p=17029">Asher Yatsar</a>
 <a href="http://opensiddur.org/?p=17309">Neshamah Shenatata Bi</a>
@@ -113,29 +113,29 @@ v'Ahavta l'rei'ekha kamokha
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 שחרית
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <h3>Shaḥarit</h3>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <strong>תפילת היצירה</strong>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <a href="http://opensiddur.org/?p=16071">תהלים ל׳</a>
 <a href="http://opensiddur.org/?p=16529">תהלים סז</a>
@@ -154,7 +154,7 @@ v'Ahavta l'rei'ekha kamokha
 <a href="http://opensiddur.org/?p=21023">ישתבח שמך </a>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 
 <a href="http://opensiddur.org/?p=16071">Psalms 30</a>
@@ -176,18 +176,18 @@ v'Ahavta l'rei'ekha kamokha
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <strong>תפילת הבריאה</strong>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <a href="http://opensiddur.org/?p=21031">הַל״ב מִצְוֺת הַתְלוּיוֹת בַּלֵּב</a>
 <a href="http://opensiddur.org/?p=21412">יוצר אור</a>
@@ -196,7 +196,7 @@ v'Ahavta l'rei'ekha kamokha
 געל ישראל
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 
 <a href="http://opensiddur.org/?p=21031">Reb Ahrele Roth’s list of 32 Mitsvot One Can Do With Consciousness Alone</a>
@@ -207,18 +207,18 @@ Ga'al Yisrael
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <strong>תפילת האצילות</strong>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <a href="http://opensiddur.org/?p=21107">חִיוּבִיוֹת ליום חול על פי הברכות של העמידה</a>
 <a href="http://opensiddur.org/?p=21089">הבננו (העמידה קצרה)‏</a>
@@ -243,7 +243,7 @@ Ga'al Yisrael
 &nbsp;
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 
 <a href="http://opensiddur.org/?p=21107">Weekday Affirmations (based on the Amidah)</a>
@@ -270,25 +270,25 @@ Ga'al Yisrael
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מנחה
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <h3>Minḥah</h3>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <a href="http://opensiddur.org/?p=20948">אשרי</a>
 <a href="http://opensiddur.org/?p=30340">העמידה</a>
 <a href="http://opensiddur.org/?p=20891">עלינו</a>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 
 <a href="http://opensiddur.org/?p=20948">Ashrei</a>
@@ -298,18 +298,18 @@ Ga'al Yisrael
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 ערבית
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <h3>Arvit</h3>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <a href="http://opensiddur.org/?p=22068">מעריב ערבים</a>
 <a href="http://opensiddur.org/?p=22073">אהבת עולם</a>
@@ -320,7 +320,7 @@ Ga'al Yisrael
 <a href="http://opensiddur.org/?p=20891">עלינו</a>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <a href="http://opensiddur.org/?p=22068">Ma'ariv Aravim</a>
 <a href="http://opensiddur.org/?p=22073">Ahavat Olam</a>
@@ -332,48 +332,48 @@ Ga'al Yisrael
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 קריאת שמע על המיטה
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <h3>Bedtime Shema</h3>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <a href="http://opensiddur.org/?p=16104">ריבונו של עולם הריני מוחל</a>
 <a href="http://opensiddur.org/?p=20907">שמע ישראל</a>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <a href="http://opensiddur.org/?p=16104">Ribono Shel Olam</a>
 <a href="http://opensiddur.org/?p=20907">Sh’ma Yisrael</a>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <h3>Appendixes</h3>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <a href="http://opensiddur.org/?p=16080">הוראת בית המדרש באילת חיים</a>
 <a href="http://opensiddur.org/?p=16095">תפילה קודם התפילה מרבי רבי אלימלך מליזשענסק</a>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <a href="http://opensiddur.org/?p=16080">The Teaching of the Beit HaMidrash at Elat Chayyim</a>
 <a href="http://opensiddur.org/?p=16095">Rabbi Elimelech’s prayer to be able to pray</a>

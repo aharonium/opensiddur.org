@@ -17,13 +17,13 @@ The word came from Israel where Gen. Shlomo Goren, the Armed Forces' Chief Chapl
 <table style="margin-left: auto;margin-right: auto;">
 <tbody>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 כְּשֵׁם שֶׁאֲנִי רוֹקֵד לְנֶגְדֵּךְ. וְאֵינִי יָכוֹל לִיגַּע בָּךְ.‏
 כַּךְ לֹא יוּכְלוּ כָּל אוֹיְבַי לִיגַּע בִּי לְרָעָה:‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">As I dance before you and cannot touch you,
+<td style="vertical-align:top;"><div class="english" lang="en">As I dance before you and cannot touch you,
 so my enemies will not be able to touch me.</td>
 </tr>
 </tbody></table>
@@ -31,13 +31,13 @@ It now reads:
 <table style="margin-left: auto;margin-right: auto;">
 <tbody>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 כְּשֵׁם שֶׁאֲנִי רוֹקֵד לְנֶגְדֵּךְ. וְאֵינִי נוגע ביך
 כַּךְ אם ירקדו אחרים כנגדי לא יגעו בי.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">As I dance against you and do not touch you,
+<td style="vertical-align:top;"><div class="english" lang="en">As I dance against you and do not touch you,
 so others, if they dance against me to harm me, they will not touch me.</td>
 </tr>
 </tbody></table>

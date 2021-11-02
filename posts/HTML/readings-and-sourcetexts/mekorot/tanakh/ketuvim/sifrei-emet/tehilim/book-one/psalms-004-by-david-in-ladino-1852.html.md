@@ -17,7 +17,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 מִזְמ֥וֹר לְדָוִֽד׃
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad" style="text-align: right;">
 <sup>1</sup>&nbsp;‫אל פרימיר קאנטאדﬞור. 
 ס‬ובﬞ‬רי לוס טאנייריס. 
@@ -25,7 +25,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 <sup>ב</sup>&nbsp;בְּקָרְאִ֡י עֲנֵ֤נִי ׀ 
 אֱלֹ֘הֵ֤י צִדְקִ֗י 
@@ -34,7 +34,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 וּשְׁמַ֥ע תְּפִלָּתִֽי׃
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad" style="text-align: right;">
 <sup>2</sup>&nbsp;‫קואנדו לייאמו ריספונדימי,‬ 
 מי דייו גﬞוסטו.‬‬ 
@@ -44,7 +44,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 <sup>ג</sup>&nbsp;בְּנֵ֥י אִ֡ישׁ 
 עַד־מֶ֬ה כְבוֹדִ֣י לִ֭כְלִמָּה תֶּאֱהָב֣וּן רִ֑יק 
@@ -52,7 +52,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 סֶֽלָה׃
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad" style="text-align: right;">
 <sup>3</sup>&nbsp;‫איזוס די אומב‬רי. 
 ‬אסטה‬ ‫קואנדו טורנאריאישﬞ מי אונרה פור בﬞ‬ירגואינסה אי אמאריאישﬞ לה בﬞ‬אנידﬞאדﬞ. ‬
@@ -61,27 +61,27 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 <sup>ד</sup>&nbsp;וּדְע֗וּ כִּֽי־הִפְלָ֣ה יְ֭הוָה חָסִ֣יד ל֑וֹ 
 יְהוָ֥ה יִ֝שְׁמַ֗ע בְּקָרְאִ֥י אֵלָֽיו׃
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad" style="text-align: right;">
 <sup>4</sup>&nbsp;אי סאב‬ידﬞ קי אפארטו ה׳ אל ב‬ואינו פארה‬ סי. 
 ‬ה‬׳ ‫אואירה קואנדו ייו לייאמו אה איל׃
 </span></div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 <sup>ה</sup>&nbsp;רִגְז֗וּ וְֽאַל־תֶּ֫חֱטָ֥אוּ 
 אִמְר֣וּ בִ֭לְבַבְכֶם עַֽל־מִשְׁכַּבְכֶ֗ם וְדֹ֣מּוּ 
 סֶֽלָה׃
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad" style="text-align: right;">
 <sup>5</sup>&nbsp;‫איסטרימיסידﬞבﬞ‬וס‬ ‫אי נון פיקיאישﬞ. ‬
 אבﬞלאדﬞ אין בﬞ‬ואיסטרו קוראסון סובﬞרי‬ בﬞ‬ואיסטרה קאמה אי קאלייאדﬞבﬞוס. ‬
@@ -89,27 +89,27 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 <sup>ו</sup>&nbsp;זִבְח֥וּ זִבְחֵי־צֶ֑דֶק 
 וּ֝בִטְח֗וּ אֶל־יְהוָֽה׃
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad" style="text-align: right;">
 <sup>6</sup>&nbsp;סאקריפﬞי‫סייאדﬞ סאקריפﬞיסייוס די גﬞוסטידﬞאדﬞ. ‬
 אי אינפﬞיגוזייאדﬞבﬞ‬וס‬ ‫אין ה׳׃‬‬
 </span></div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 <sup>ז</sup>&nbsp;רַבִּ֥ים אֹמְרִים֮ 
 מִֽי־יַרְאֵ֪נ֫וּ 
 ט֥וֹב נְֽסָה־עָ֭לֵינוּ א֨וֹר פָּנֶ֬יךָ יְהוָֽה׃
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad" style="text-align: right;">
 <sup>7</sup>&nbsp;‫מוגﬞוס דיזין,‬ 
 קיין נוס מוסטרארה ב‬יין? 
@@ -117,20 +117,20 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 <sup>ח</sup>&nbsp;נָתַ֣תָּה שִׂמְחָ֣ה בְלִבִּ֑י 
 מֵעֵ֬ת דְּגָנָ֖ם וְתִֽירוֹשָׁ֣ם רָֽבּוּ׃
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad" style="text-align: right;">
 <sup>8</sup>&nbsp;דיסטי‬ ‫אליגריאה אין מי קוראסון.‬ 
 מאס קי קואנדו סו סיב‬ירה‬ ‫אי סו מוסטו סי מוגﬞיגוארון׃
 </span></div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 <sup>ט</sup>&nbsp;בְּשָׁל֣וֹם יַחְדָּו֮ אֶשְׁכְּבָ֪ה וְאִ֫ישָׁ֥ן 
 כִּֽי־אַתָּ֣ה יְהוָ֣ה לְבָדָ֑ד לָ֝בֶ֗טַח תּוֹשִׁיבֵֽנִי׃

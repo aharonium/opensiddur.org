@@ -7,15 +7,15 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Almighty God,
 we pray, meditate, reflect in different ways – 
@@ -25,12 +25,12 @@ and weep for the pain of their families.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 We praise our heroes past and present, too –  
 because as World War two Reporter Elmer Davis wrote: 
@@ -39,12 +39,12 @@ only so long as it is the home of the brave."[foot]Elmer Davis, <em>But We Were 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Thirty four years ago today 
 terrorist attacks took the lives of hundreds of the brave 
@@ -58,12 +58,12 @@ in pursuit of a dream.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Let us honor them by being brave ourselves: 
 brave enough to fight when fight we must; 
@@ -83,7 +83,7 @@ Rabbi Resnicoff was present during the bombing in Beirut and his experience was 
 
 <h3>Source</h3>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.c-span.org/video/standalone/?436180-1/vice-president-pence-recalls-1983-beirut-marine-barracks-bombing" width="512" height="330"]
+<iframe width=530 height=312 src='https://www.c-span.org/video/standalone/?436180-1/vice-president-pence-recalls-1983-beirut-marine-barracks-bombing' allowfullscreen='allowfullscreen' frameborder=0></iframe>[su_spacer]
 
 </body>
 </html>

@@ -12,10 +12,10 @@ Adir Hu, a classic Pesaḥ song if ever there was one, is a part of Seder tables
 </div>
 
 <hr />
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;"><a href="https://opensiddur.org/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אַדִּיר הוּא, אַדִּיר הוּא
 יִבְנֶה בֵּיתוֹ בְּקָרוֹב. 
@@ -24,7 +24,7 @@ Adir Hu, a classic Pesaḥ song if ever there was one, is a part of Seder tables
 בְּנֵה בֵּיתְךָ בְּקָרוֹב.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <span class="acrostic">A</span>wesome One, Awesome One,
 Build your Temple quickly
@@ -34,59 +34,59 @@ Build your Temple quickly!
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <span class="acrostic">B</span>lessed One, <span class="acrostic">C</span>reator One, <span class="acrostic">D</span>eity One,
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <span class="acrostic">E</span>ssential One, <span class="acrostic">F</span>oremost One, <span class="acrostic">G</span>reatest One,
 <span class="acrostic">H</span>oly One, <span class="acrostic">I</span>neffable One, <span class="acrostic">J</span>udging One,
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <span class="acrostic">K</span>nowing One, <span class="acrostic">L</span>asting One, <span class="acrostic">M</span>erciful One,
 <span class="acrostic">N</span>oble One, <span class="acrostic">O</span>riginal One, <span class="acrostic">P</span>owerful One,
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <span class="acrostic">Q</span>uintessential One, <span class="acrostic">R</span>ighteous One, <span class="acrostic">S</span>upreme One,
 <span class="acrostic">T</span>ruthful One, <span class="acrostic">U</span>nlimited One, <span class="acrostic">V</span>ast One, <span class="acrostic">W</span>illing One, 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <span class="acrostic">X</span>enial One, <span class="acrostic">Y</span>ou are One, <span class="acrostic">Z</span>ealous One
 </div></td></tr>

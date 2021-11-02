@@ -7,17 +7,17 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 בְּרִיךְ רַחְמָנָא דְאַרְעָא וּשְׁמַיָא
 דִי מִפוּמֵיה אוֹרָיְיתָא אִתְגַלְיָא
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Blessed Loving One of the Heavens and Earth, 
 from whose mouth Torah was revealed,
@@ -25,7 +25,7 @@ from whose mouth Torah was revealed,
 </td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <span class="instruction">לבר מצווה:</span> 
 אֲשֶׁר סִיֵּעַ בַּעֲדֵנוּ לְחַנֵּךְ אֶת בְּנֵנוּ, 
@@ -39,7 +39,7 @@ from whose mouth Torah was revealed,
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 (for a bar mitsvah) 
 who supported us in educating this child, 
@@ -54,7 +54,7 @@ to the love of righteousness and the path of justice.
 </td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <span class="instruction">לבר מצווה:</span> 
 אָנָא בַּעַל הָרַחֲמִים, 
@@ -68,7 +68,7 @@ to the love of righteousness and the path of justice.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 (for a bar mitsvah) 
 Please Merciful One, 
@@ -83,13 +83,13 @@ and bless this child all her days.
 </td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְנֹאמַר אָמֵן.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And let us say <em>amen</em>.
 </div>

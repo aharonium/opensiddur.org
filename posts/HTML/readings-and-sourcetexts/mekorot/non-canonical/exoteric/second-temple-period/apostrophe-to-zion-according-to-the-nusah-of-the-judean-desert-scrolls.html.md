@@ -13,7 +13,7 @@ The Apostrophe to Zion is an alphabetical acrostic poem, directed at Zion in the
 This version of the Apostrophe to Zion has been vocalized and cantillated per the Masoretic EMe"T cantillation system for poetic works. Some notes: In two locations (מודי for מאדי and תובד for תאבד) the Qumran text drops an alef that is required in standard Biblical grammar, and these are marked as a <em>qere</em>/<em>ketiv</em> split. This is a common trend in Qumran scrolls, and is also found in Rabbinic texts — see לומר vs לאמר. The text מעלה לכל תבל is generally translated as "over all the earth," but could also mean "over all spices." This was probably intentional wordplay, and some have suggested that the two words tevél and tɛ́vɛl would have sounded the same to Qumranites. The translation of תתבעך in the second-to-last line has been hotly debated for a long time since none of the known meanings of the root really fit. This translation follows the conjecture of Hanan Ariel and Alexey Yuditsky, who postulate a lost original meaning of "follow after."
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

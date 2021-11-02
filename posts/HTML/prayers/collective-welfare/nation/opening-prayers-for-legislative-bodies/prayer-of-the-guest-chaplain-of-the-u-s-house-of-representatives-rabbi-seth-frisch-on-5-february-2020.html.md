@@ -29,25 +29,25 @@ I pray that we will all heed his words today, that out of many, we are one Natio
 
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <h3>Opening Prayer Given by the Guest Chaplain:</h3>
 </div></td></tr>
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Almighty, 
 I stand before You in prayer and in memory 
@@ -58,12 +58,12 @@ would lay claim to the life of one child,
 a child they each would insist to be their own.[foot]1 Kings 3:16-28.[/foot]
 </div></td></tr>
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 This parable allows us 
 to see Solomon's wisdom 
@@ -73,12 +73,12 @@ so soon after his death,
 that the kingdom is split asunder.
 </div></td></tr>
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 I, too, am reminded of Abraham Lincoln, 
 when he spoke with prophetic-like prescience: 
@@ -90,12 +90,12 @@ that our future lies not in enmity,
 but in unity.
 </div></td></tr>
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 For, Lord, 
 the Book of Leviticus, from Your Torah, teaches us 
@@ -106,12 +106,12 @@ thus uniting one of our Nation's ideals,
 "<em>e pluribus unum</em>,"[foot]A traditional motto of the United States, its inclusion on the <a href="https://en.wikipedia.org/wiki/Great_Seal_of_the_United_States">Great Seal of the United States</a> was approved by an Act of Congress in 1782.[/foot] out of the many, one.
 </div></td></tr>
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Lord God, 
 the Founders of this Nation 
@@ -123,12 +123,12 @@ to put our divisions
 behind us.
 </div></td></tr>
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And so it is, Dear God, 
 that we pray You remain with us. 
@@ -143,12 +143,12 @@ to all.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אָמֵן׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <em>Amen</em>.
 </div></td></tr>
@@ -163,7 +163,7 @@ Issue: Vol. 166, No. 24 — Daily Edition (February 5, 2020)
 <!-- 
 link: https://chaplain.house.gov/archive/index.html?id=1222
 -->
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.c-span.org/video/standalone/?c4852542/user-clip-rabbi-seth-frisch-shul-america-rydal-pennsylvania" width="512" height="330"]
+<iframe width=530 height=312 src='https://www.c-span.org/video/standalone/?c4852542/user-clip-rabbi-seth-frisch-shul-america-rydal-pennsylvania' allowfullscreen='allowfullscreen' frameborder=0></iframe>[su_spacer]
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.congress.gov/116/crec/2020/02/05/CREC-2020-02-05-pt1-PgH773-4.pdf" width="100%" height="900"]
 

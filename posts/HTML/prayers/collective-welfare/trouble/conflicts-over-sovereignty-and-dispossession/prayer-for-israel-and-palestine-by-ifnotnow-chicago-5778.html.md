@@ -7,10 +7,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 צוּר יִשְׂרָאֵל,
 יָהּ, עֻזֵּנוּ וְזַמַּרְתֵּנוּ
@@ -22,7 +22,7 @@ Yahh, our strength and our song,[foot]Cf. Exodus 15:2[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 בַּרֵךְ אֶת כׇּל עַמֵּי יִשְׂרָאֵל וּפַּלָסְטַין
 וְכׇל הַיּוֹשְׁבִים בְּתוֹכָם.
@@ -34,7 +34,7 @@ and all those who dwell among them.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 שָׁלַח אֶת אֹרֶךְ וְאֶת הָאֱמֶת 
 שֶׁלָּךְ אֶל מַנְהִיגֵיהֶם וְאֶל תּוֹשָׁבֵיהֶם
@@ -56,7 +56,7 @@ for all its inhabitants" <span class="citation">(Leviticus 25:10)</span>.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 עָשֵׂה שֶׁתַּכִּיר מְדִינַת יִשְׂרָאֵל 
 בָּאֱנוֹשִׁיּוּת מְדֻכָּאֶיהָ

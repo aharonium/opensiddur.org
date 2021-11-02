@@ -19,7 +19,7 @@ In Judaism too, we find this tension. The great esteem our tradition has placed 
 
 
 
-<blockquote><table style="margin-left: auto;margin-right: auto;" class="draggable">
+<blockquote>[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <tbody>
 <tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
@@ -57,7 +57,7 @@ What is Haman missing, according to the teaching below, and why do you think he 
 
 
 
-<blockquote><table style="margin-left: auto;margin-right: auto;" class="draggable">
+<blockquote>[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <tbody>
 <tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
@@ -93,7 +93,7 @@ From teachings such as the one below, we can see why the rabbinic opponents of á
 
 
 
-<blockquote><table style="margin-left: auto;margin-right: auto;" class="draggable">
+<blockquote>[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <tbody>
 <tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">

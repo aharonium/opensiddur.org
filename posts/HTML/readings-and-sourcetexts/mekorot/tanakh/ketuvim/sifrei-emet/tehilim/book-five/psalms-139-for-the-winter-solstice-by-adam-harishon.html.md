@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 A well-known midrash explaining the universality of the <a href="https://opensiddur.org/readings-and-sourcetexts/festival-and-fast-day-readings/winter-solstice/kalends-and-the-winter-solstice-in-rabbinic-midrash/">Kalends festival</a> beginning after the Winter Solstice attributes this psalms to Adam haRishon, the primordial Adam, as they describe being knitted together within the Earth in Psalms 139:13-16. In the Roman calendar, the calends or kalends (Latin: <em>kalendae</em>) is the first day of every month. Named after Janus, the Roman god of beginnings, and derived from <em>ianua</em>, "door," January began with the first crescent moon after the winter solstice, marking the natural beginning of the year. Marcus Terentius Varro, in his <em>Res Rusticae</em> (37 BCE) divided the agricultural year into eight parts. In the final part beginning on the winter solstice, no hard work was to be done outdoors. 
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

@@ -17,8 +17,8 @@ As we approach Israel’s 70th birthday, it is time to make such distinctions. I
 
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">Transliteration</th><th style="text-align: left;">English</th></tr></thead>
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
+<thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">Transliteration (Romanized Hebrew)</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="26%">
 <div class="liturgy" lang="he">
@@ -29,7 +29,7 @@ As we approach Israel’s 70th birthday, it is time to make such distinctions. I
 </span></div></td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english" lang="en">
+<div class="romanized-transliteration" lang="he">
 <span style="color: green;">Om’neinu</span> | Avinu shebashamayim <span style="color: green;">uva’arets</span>,
 Tsur Yisrael v’go’alo, 
 bareikh et m’dinat Yisrael 
@@ -58,7 +58,7 @@ bless the State of Israel,
 </span></div></td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english" lang="en">
+<div class="romanized-transliteration" lang="he">
 Hagein aleha b’evrat chasdekha, 
 ufros aleha sukat sh’lomekha, 
 ush’lach orkha <span style="color: green;">v’tsidkekha</span> l’rosheha 
@@ -98,7 +98,7 @@ and her captives through righteousness.”</span>[foot]Isaiah 1:27[/foot]
 </span></div></td>
 
 <td style="vertical-align:top;" width="36%">
-<div class="english" lang="en">
+<div class="romanized-transliteration" lang="he">
 <span style="color: green;">Hatseil na et kol ar’tsekha 
 bein yardein layam 
 mish’fichut damim, 

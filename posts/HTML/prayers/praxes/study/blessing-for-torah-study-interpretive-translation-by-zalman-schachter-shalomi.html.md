@@ -1,17 +1,17 @@
 <html>
 <head></head>
 <body>
-Title: ברכות התורה |  Blessing for Torah Study, interpretive translation by Reb Zalman Schachter-Shalomi, z"l<br />
+Title: ברכות התורה |  Blessing for Torah Study, interpretive translation by Rabbi Zalman Schachter-Shalomi<br />
 Primary contributor: zalman.schachter-shalomi<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=17284">http://opensiddur.org/?p=17284</a>
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה 
 יְיָ אֱלֹהֵינוּ 
@@ -22,7 +22,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 You commanded us
 To exercise our awareness
@@ -35,7 +35,7 @@ Yah, our God.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְהַעֲרֶב נָא יְיָ אֱלֹהֵינוּ 
 אֶת דִּבְרֵי תוֹרָתְךָ בְּפִינוּ, 
@@ -51,7 +51,7 @@ Yah, our God.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 We ask that we may find
 Zest and delight
@@ -69,7 +69,7 @@ In Torah.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה 
 יְיָ אֱלֹהֵינוּ 
@@ -85,7 +85,7 @@ In Torah.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Barukh attah Yah,
 I offer You thanks,
@@ -103,13 +103,13 @@ With your Torah.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <em>Now, 
 study Torah 
@@ -126,11 +126,11 @@ This English translation of the blessing for Torah study by Rabbi Zalman Schacht
 
 The discussion and formula for the blessing preceding Torah Study can be found in the <a href="https://www.sefaria.org/Berakhot.11b.16-19/he/William_Davidson_Edition_-_Aramaic?lang=bi&with=all&lang2=bi">Talmud Bavli, Berakhot 11b</a>.
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English, the William Davidson Talmud at Sefaria, lightly adapted)</th></tr></thead>
 <tbody>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מאי מברך 
 אמר רב יהודה אמר שמואל 
@@ -141,7 +141,7 @@ The discussion and formula for the blessing preceding Torah Study can be found i
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 The Gemara clarifies: What formula of blessings does he recite (for studying Torah)?  
 Rav Yehuda said that Shmuel said: 
@@ -154,7 +154,7 @@ and commanded us to engage in matters of Torah.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 ורבי יוחנן מסיים בה הכי 
 הערב נא 
@@ -170,7 +170,7 @@ and commanded us to engage in matters of Torah.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And Rabbi Yoḥanan concludes the blessing by adding the following: 
 Please help,
@@ -188,7 +188,7 @@ Who teaches Torah to His people Yisra'el.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 ורב המנונא אמר 
 אשר בחר בנו מכל העמים 
@@ -200,7 +200,7 @@ Who teaches Torah to His people Yisra'el.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And Rav Hamnuna said an additional formula: 
 Who has chosen us from all the peoples 
@@ -214,14 +214,14 @@ This concise blessing is the most outstanding of all the blessings over the Tora
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 &nbsp;
 הלכך לימרינהו לכולהו
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Since several formulas for the blessing over Torah were suggested, each with its own distinct advantage, the Gemara concludes: 
 Therefore, let us recite them all as blessings over the Torah.

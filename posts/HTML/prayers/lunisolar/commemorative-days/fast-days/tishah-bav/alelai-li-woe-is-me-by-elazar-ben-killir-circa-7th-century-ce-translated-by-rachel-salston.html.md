@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
@@ -17,7 +17,7 @@ For attribution and license, please consult the following URL: <a href="http://o
  </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 When I recall women eating their own produce, the toddlers they raised with devotion. 
 Woe is me! 
@@ -32,7 +32,7 @@ Woe is me!
  </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 When I recall compassionate women cooking their own children, the ones who had been lovingly weighed bit by bit. 
 Woe is me! 
@@ -47,7 +47,7 @@ Woe is me!
  </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 When I recall their hair braids being torn away as they were  tied to running horses. 
 Woe is me! 
@@ -62,7 +62,7 @@ Woe is me!
  </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 When I recall the tongues of suckling babes sticking to the roofs of their mouths, dry from thirst. 
 Woe is me! 
@@ -77,7 +77,7 @@ Woe is me!
  </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 When I recall women shrieking one to the other, “Come, let’s cook our screeching children!” Woe is me! 
 </div>
@@ -91,7 +91,7 @@ When I recall women shrieking one to the other, “Come, let’s cook our screec
  </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 When I recall those women getting together, saying, “Give me your child for dinner,” while the child is already hidden and chopped into bits and pieces. 
 Woe is me! 
@@ -106,7 +106,7 @@ Woe is me!
  </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 When I recall children being invited to dine on their parents’ meat in caves and pits. 
 Woe is me! 
@@ -121,7 +121,7 @@ Woe is me!
  </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 When I recall girls having to become swollen from hunger, while held to their mothers’ bosom. 
 Woe is me! 
@@ -136,7 +136,7 @@ Woe is me!
  </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 When I recall the souls of toddlers floating over their swollen corpses in the streets of the City. 
 Woe is me! 
@@ -151,7 +151,7 @@ Woe is me!
  </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 When I recall women being  burdened with miscarriage and shriveled up breasts and a mother upon her slumping children. 
 Woe is me! 
@@ -166,7 +166,7 @@ Woe is me!
   </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 When I recall eight hundred defenders falling, rotting in the Arabian heat. 
 Woe is me! 
@@ -181,7 +181,7 @@ Woe is me!
  </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 When I recall their spirits burning from salty food and swollen but empty waterskins. 
 Woe is me! 
@@ -196,7 +196,7 @@ Woe is me!
  </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 When I recall their numbers diminishing in frustration from 1,000 to 100, and from 100 to 10, until only one. 
 Woe is me! 
@@ -211,7 +211,7 @@ Woe is me!
  </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 When I recall eighty thousand apprentice priests fleeing behind the Sanctuary’s curtain. 
 Woe is me! 
@@ -226,7 +226,7 @@ Woe is me!
  </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 When I recall those priests being burned alive like splintered wood. 
 Woe is me! 
@@ -241,7 +241,7 @@ Woe is me!
  </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 When I recall 80,000 murdered priests, decapitated because of the innocent blood of Zechariah the Prophet. 
 Woe is me! 
@@ -256,7 +256,7 @@ Woe is me!
  </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 When I recall swollen stomachs rupturing from the smell of unattainable fruits of the field. 
 Woe is me! 
@@ -271,7 +271,7 @@ Woe is me!
  </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 When I recall heaping together on one stone, nine portions of mashed children’s’ brains. 
 Woe is me! 
@@ -286,7 +286,7 @@ Woe is me!
  </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 When I recall three hundred suckling babes being skewered and stretched on one tree branch. 
 Woe is me! 
@@ -301,7 +301,7 @@ Woe is me!
  </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 When I recall refined and sophisticated ladies being seen handcuffed by the chief butcher. 
 Woe is me! 
@@ -316,7 +316,7 @@ Woe is me!
  </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 When I recall opulent princesses having sex in the garbage mounds. 
 Woe is me! 
@@ -331,7 +331,7 @@ Woe is me!
  </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 When I recall the virgins and young men fainting from dehydration. 
 Woe is me! 
@@ -345,7 +345,7 @@ Woe is me!
  </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 The Holy Spirit roars against them, “Woe to all bad neighbors!”
 </div>
@@ -360,7 +360,7 @@ The Holy Spirit roars against them, “Woe to all bad neighbors!”
  </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 They let the world know what has happened to them,
 But they do not let the world know what they have done.
@@ -375,7 +375,7 @@ That women eat their own children, they make noise about this.
  </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 But, that they killed a prophet and a priest[foot]<a href="https://en.wikipedia.org/wiki/Zechariah_ben_Jehoiada">Zekhariah ben Jehoiada</a>, not to be confused with the prophet of the book of Zechariah, <a href="https://en.wikipedia.org/wiki/Zechariah_(Hebrew_prophet)">Zekahriah ben Berekhiah</a>.[/foot] in the Temple of my Lord, they make no noise about this.
 </div>

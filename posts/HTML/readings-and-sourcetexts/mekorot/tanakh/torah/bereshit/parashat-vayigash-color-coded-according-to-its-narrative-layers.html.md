@@ -23,7 +23,7 @@ According to the poetry of the Midrash Tanchuma, Bereshit 1:1, the words of the 
 Parashat Vayigash (Genesis 44:18-47:27) in the annual Torah reading cycle, is read on the first shabbat of the month of Tevet. The parashah is preceded by <a href="https://opensiddur.org/readings-and-sourcetexts/torah-readings/annual-cycle/sefer-bereshit/parashat-miqets/parashat-miqets-color-coded-according-to-its-narrative-layers/">Miqets</a> (Genesis 41:1-44:17); parashat <a href="https://opensiddur.org/readings-and-sourcetexts/torah-readings/annual-cycle/sefer-bereshit/parashat-vayeḥi/parashat-vayehi-color-coded-according-to-its-narrative-layers/">Vayeḥi</a> (Genesis 47:28-50:26), the last parashah in Sefer Bereshit, follows it.
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

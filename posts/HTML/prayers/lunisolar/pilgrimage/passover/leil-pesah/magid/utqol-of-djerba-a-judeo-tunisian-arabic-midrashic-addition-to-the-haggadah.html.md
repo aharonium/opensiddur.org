@@ -19,8 +19,8 @@ Some linguistic notes for those unfamiliar with the dialect: in Tunisian Arabic 
 
 <hr />
 
-<table style="width:100%;margin-left: auto;margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;">Source (Judeo-Tunisian Arabic)</th><th style="text-align: left;">Transliteration (Romanization)</th><th style="text-align: right;">Translation (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
+[xyz-ihs snippet="Table-Options"]<table style="width: 100%; margin-left: auto; margin-right: auto;" class="draggable">
+<thead><tr><th id="x" style="text-align: right;">Source (Judeo-Tunisian Arabic)</th><th style="text-align: left;">Transliteration (Romanized Judeo-Tunisian Arabic)</th><th style="text-align: right;">Translation (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
 <div class="judeo-arabic" lang="jrb">
@@ -28,7 +28,7 @@ Some linguistic notes for those unfamiliar with the dialect: in Tunisian Arabic 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="romanized-hebrew" lang="he">
+<div class="romanized-transliteration" lang="he">
 U-tqol lo: Ya bni, min awwəla kāno abbātəna ʿābdin l-aṣnām ul-otan, l-an  qālu la-ḥăkhamim zikhram la-brakha: fi iyyām Ĕnosh, ghalṭo annās ghalṭ an ʿəḍim. Wə-ṣāro yəʿabdo ʿavoda zara, wi-yəʿabdo la-kwākeb uli-flok. Waʿmlo ləhom bəyot, waʿmlo fihom taṣwirat min la-khshab u-min  la-həjar u-min faṣā u-dəhab, ḥatta ṣārat jəmiʿ annās. Təji u-titjammaʿ wi-yəshasdo lə-dok la-məʿābad. Wi-yəqolo hād haṣ-ṣora tafʿal lə-khīr wə-shar. Filmān ṭālat lə-madda u-ṭālat lə-ayyām. U-tənassa ăsam Allah min fəmāmhom. Wə-la bəqa ḥad yaʿrif Allah toʿala. Ḥatta ja Avraham Avinu (ʿəleh as-səlām), wə-ʿallam annās ʿibādat Allah u-toḥīdo. Bə-an qālo la-ḥăkhamim zikhram la-brakha.
 </span></div></td>
  
@@ -49,7 +49,7 @@ And tell him: O my son, of old our ancestors were worshipping images and signs, 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="romanized-hebrew" lang="he">
+<div class="romanized-transliteration" lang="he">
 Waqət an təwāled Avraham Avinu (ʿəleh as-səlām) rāʾw lə-mastanjəmin ḥatta qām kokab wāḥad, u-bəlaʿ talət kəwakeb. Məshaʾw lə-ʿand Nimrod haṣ-Ṣulṭān, wə-qālo lo, “Ya molānā! Zədād hassāʿa wald ʿand Teraḥ. U-rīnā ʿəjab an ʿəḍim fi asma, u-fi anjom! Ḥatta qām kokab wāḥad u-bəlaʿ talət kəwakeb. U-ʾoḥna ʿārfin, ya molānā, anhu hād lə-waləd yakhrab lə-malək wi-yfassad had-din!”
 </span></div></td>
  
@@ -70,7 +70,7 @@ When Avraham our Father (peace be upon him) was born, the astrologers saw that o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="romanized-hebrew" lang="he">
+<div class="romanized-transliteration" lang="he">
 Bəʿat Nimrod ora Teraḥ, wə-qāl lo, “Ya Teraḥ! Ayyak təbiʿ li waldak bə-alaf dəhab, w-hāt nəqaṭloh.” Qāl lo Teraḥ, “Ya molāy! Nəmittal lak fi hādā. Mətal laḥṣān aldi qālu lo hannaas, ‘Naʿṭiwuk qəfiz səʿir, wə-hāt nəqaṭʿo rāṣak.’ Qāl ləhom laḥṣān: ‘Ya ḥammaq, ida qəṭaʿto rāṣi, min yākel as-səʿir?’ Kə-dālak hānā. Ida qəṭalto waldi, hāsh yinfaʿni alef dəhab?” Qālo lu, “Ya məbārak lə-ḥāl! Hādā yəmot wə-toled wald akhor gheyro!” Qāl ləhom, “Ana ma naʿraf noled gheyro aw ma noled?” Falmad rāwoh shad ʿəla waldo, sakto wə-khallāwoh. Ḥatta kəbar Avraham Avinu (ʿəleh as-səlām), wə-ṣār waləd talət sənin. 
 </span></div></td>
  
@@ -91,7 +91,7 @@ Nimrod went to Teraḥ and said to him, “O Teraḥ! Hey, bring me your son for
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="romanized-hebrew" lang="he">
+<div class="romanized-transliteration" lang="he">
 U-ṣār yatmeyyez fi ʿalmo, fi asmā, u-fi anjom. U-ra as-saməs tizraq min has-sharəq u-təghib fal-gharb. Ṣan fi khāṭro, an as-saməs ho lə-eylah, falman məsha anhār, u-zarqet li-qmer wəli-kəwākeb? Ṣan fi khāṭro, an hom aldi khalqo addanəya, falman ṣəbaḥ aṣbāḥ, u-zəraqət as-saməs? Qāl (ʿəleh as-səlām), “Dilḥīn təḥaqqaq ʿandi an hom makhloqin mitli, u-ləhom elah yəmassheyhom kīf yərīd.” Falman ho yatḥadet məʿā ʿaqlo. Təjalla ʿəleh har-Rabb ʿubḥānu. Wəqāl lo, “Ya Avraham, mālak tatmeyyez fi ʿalmek, fi asma, u-fi anjom! Ana huwwa aldi khəlaqtak u-khəlaqtəhom, u-khəlaqət jəmiʿ  asmāwāt ul-arāḍi!”
 </span></div></td>
  
@@ -112,7 +112,7 @@ And he became outstanding in knowledge of the heavens and the constellations. An
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="romanized-hebrew" lang="he">
+<div class="romanized-transliteration" lang="he">
 Fi dik as-sāʿā, məsha Avraham ləʿand oboh. Wə-qāl lo, “Ya eybey, nəḥab təkhabarni hāshkon aldi khəlaq addinəya?” Qāl lo, “Ya bəni, tammā məʿābad ʿandi fil-bit, hom aldi khalqu addinəya.” Qāl lo, “Ya eybey, nəḥab təwarīhom li. Bāsh nəqarab ləhom qorban, ayāk yirḍāʾw ʿandi.” Tam dakhlo oboh lə-bit malyānā shi khəshab shi ḥəjar u-shi faḍā u-dəhab, tam məsha ləʿand ammo. Wə-qāl ləha, “Ya ammi, qomi ṣinʿi li məʿīsha tayba, nəqirbəha lədok la-məʿābad, ayāk yirḍāʾw ʿandi.” Tam qāmat ammo u-ṣinʿat lo mā rād. Wa-qəddam ləhom lə-yāklo wə-la ḥad minhom mad yaddo lə-yākal. Qāl (ʿəleh as-səlām), “Dilḥīn təḥaqqaq ʿandi an hom mā yərāyo wə-la yəsamʿo,  kamtalhom yikon fāʿləhom!” Khadā wa-ḥəriqəhom. 
 </span></div></td>
  
@@ -133,7 +133,7 @@ From that moment on, Avraham went against his father. And he said to him, “O m
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="romanized-hebrew" lang="he">
+<div class="romanized-transliteration" lang="he">
 Ḥatta ja oboh u-ṣābəhom maḥroqīn! Qāl lo, “Ya bəni! Hāsh hād lə-ʿamlā aldi ʿəmalt!?” Qāl, “Ya eybi ana ma ʿəmalət shai min hada, alla hom yitkhāṣmo ʿəlā heṭʿām, u-ḥarqo baʿḍəhom bāʿəḍ!” Qāl lo, “Ya ḥammaq! Wāsh hom yitkalmo, aw yitḥarko, aw yifʿalu khīr aw shar!? Ḥatta təqul hād lə-qul?” Qāl lo, “Ya eybi, tasmaʿ wadnak ma fumak yəqul! Ida ma fīhom la qawwā wə-la jibrawwā, ʿalāsh təʿibduhum, u-tətarku lə-eila lə-azli aldi khəlaqni u-khalqak, u-khəlaq jəmiʿ  asmāwāt ul-arāḍi!”
 </span></div></td>
  
@@ -154,7 +154,7 @@ From that his father came and beheld them burning! He said to him, “My son! Wh
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="romanized-hebrew" lang="he">
+<div class="romanized-transliteration" lang="he">
 Kīf səmāʿ oboh kəlāmu, rafʿu ləʿand Nimrod haṣ-Ṣulṭān. Qāl lo, “Ya mulāy, nəḍar mā ʿəmal bəni lə-yom!” Qāl Nimrod lə-Avraham, “Hāsh hād lə-ʿamlā aldi ʿəmalt!?” Qāl, “Ya sīdī, ana ma ʿəmalət shai min hada, alla hom yitkhāṣmo ʿəlā heṭʿām, u-ḥarqo baʿḍəhom bāʿəḍ!” Qāl lo, “Ya ḥammaq! Wāsh hoim yitkalmo, aw yitḥarko, aw yifʿalu khīr aw shar!? Ḥatta təqul hād lə-qul?” Qāl lo, “Ya mulāy, tasmaʿ wadnak ma fumak yəqul! Ida ma fīhom la qawwā wə-la jibrawwā, ʿalāsh təʿibduhum, u-tətarku lə-eila lə-azli aldi khəlaqni u-khalqak, u-khəlaq jəmiʿ  asmāwāt ul-arāḍi?” Qāl Nimrod lə-Avraham, “Ana huwā aldi khəlaqtak u-khəlaqtəlhom, u-khəlaqət jəmiʿ  asmāwāt ul-arāḍi!” Qāl lo, “Ya ssīdi, ankān antīn ʿəlā lə-ḥaq, ʾəmar  lə-saməs tazraq min lə-gharb u-təghīb fi-sharq! U-kān mā ʿəmalət shay min hādā? Lə-Ilah aldi qaḍarni ʿəlā məʿabdak wa-ḥəraqtəhom, yəqaḍarni ḥatta ʿəlik u-nəḥarqak!”
 </span></div></td>
  
@@ -175,7 +175,7 @@ When his father heard his words, he ran to Nimrod the sultan. He said to him, �
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="romanized-hebrew" lang="he">
+<div class="romanized-transliteration" lang="he">
 Fi dālak as-sāʿā, qāl Nimrod laʿmālto, “Hādā ankān khallīnāh ḥai faddinəya yəkharab lə-malək wi-yfassad had-din! Mā ilnā allā nəḥarqkoh!” Kif mā ḥəraq li-məʿābad, tam khədāʾw Avraham Avinu (ʿəleh as-səlām) u-rəmawoh fi aton nār moqdā. Fi-təjallā ʿəleh har-Rabb ṣobəḥāno, u-khalṣo ba-khrāmāto ubi-jəlālato, u-khəraj min tam sālam. Ḥatta rāt jəmiʿ  annās ʿəjeb, u-bəqā (ʿəleh as-səlām) yəʿalam annās ʿibādat Allah u-toḥīdo.
 </span></div></td>
  
@@ -196,7 +196,7 @@ From that moment on, Nimrod said to his servants: “This one, if we let him go 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="romanized-hebrew" lang="he">
+<div class="romanized-transliteration" lang="he">
 Bə-an qālo la-ḥăkhamim zikhram la-brakha kānat yāqotā: Mə-ʿalqā fi raqbat Avraham Obona (ʿəleh as-səlām) u-kānat taḍwey min ṭarəf addinəya lə-ṭarfəhā, wə-hād lə-yāqota hiyyā ha-toḥid aldi kān yəkharaj min ḥalqo, wi-yʿallam annās ʿibādat Allah u-toḥīdo. Wə-hiyya dəlīl — “Way-yomer Yəhoshuaʿ el kol ha-ʿam.” Shəraḥ dālak — Wəqāl Yəhoshuaʿ la-jəmiʿ ləqom, Hayədā qāl Allah elah Yisrael, fi məzāz lə-wād zilso abātəkom min awwəlā, Teraḥ eybi Avraham wə-eybi Naḥor, wə-ʿabdo məʿabed okhrīn. U-ṣiṭfīt lə-Avraham min mizāz lə-wād, u-masshīto fi jəmiʿ arəḍ hash-Sham, u-katarət naslo waʿṭīt lo Yiṣḥaq. Waʿṭīt lə-Yiṣḥaq Yaʿaqob wə-ʿEśaw, waʿṭīt lə-ʿEśaw jəbel Śəʿīr yərātā, wə-Yaʿaqob u-wəlādo habṭo lam-Maṣer. 
 </span></div></td>
  

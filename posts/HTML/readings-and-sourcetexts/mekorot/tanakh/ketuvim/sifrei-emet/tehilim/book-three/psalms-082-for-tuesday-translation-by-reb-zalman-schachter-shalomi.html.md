@@ -11,11 +11,11 @@ For attribution and license, please consult the following URL: <a href="http://o
 This psalm was the Tuesday song of the Levites in the Holy Temple.
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>א</sup>&nbsp;<span class="instruction">מִזְמ֗וֹר לְאָ֫סָ֥ף </span>
 אֱ&#x200d;ֽלֹהִ֗ים נִצָּ֥ב 
@@ -36,7 +36,7 @@ This psalm was the Tuesday song of the Levites in the Holy Temple.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>1</sup>&nbsp;<span class="instruction">Assaph sings:</span>
 God is present 
@@ -59,7 +59,7 @@ Save them from the bullies’ hands.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>ה</sup>&nbsp;לֹ֤א יָֽדְע֨וּ ׀ 
 וְלֹ֥א יָבִ֗ינוּ בַּחֲשֵׁכָ֥ה יִתְהַלָּ֑כוּ 
@@ -68,7 +68,7 @@ Save them from the bullies’ hands.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>5</sup>&nbsp;Not knowing, unawares you are,
 You walk in the dark,
@@ -79,7 +79,7 @@ Are toppling.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>ו</sup>&nbsp;אֲ&#x200d;ֽנִי־אָ֭מַרְתִּי אֱלֹהִ֣ים אַתֶּ֑ם 
 וּבְנֵ֖י עֶלְי֣וֹן 
@@ -91,7 +91,7 @@ Are toppling.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>6</sup>&nbsp;I set you to be judges,
 To be like angels 
@@ -105,14 +105,14 @@ Bring justice to the world!
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 כִּֽי־אַתָּ֥ה תִ֝נְחַ֗ל 
 בְּכָל־הַגּוֹיִֽם׃
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 You can bring order 
 to all the nations.

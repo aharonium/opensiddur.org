@@ -7,17 +7,17 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: right;">Translation (Ladino)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 <sup>א</sup>&nbsp;מִזְמ֗וֹר לְדָ֫וִ֥ד 
 יְ֭הֹוָה מִי־יָג֣וּר בְּאָהֳלֶ֑ךָ
  מִֽי־יִ֝שְׁכֹּ֗ן בְּהַ֣ר קָדְשֶֽׁךָ׃
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad" style="text-align: right;">
 <sup>1</sup>&nbsp;סאלמו די דויד. 
 ה׳, קיין מורארה אין טו טיינדה, 
@@ -25,14 +25,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 <sup>ב</sup>&nbsp;הוֹלֵ֣ךְ תָּ֭מִים 
 וּפֹעֵ֥ל צֶ֑דֶק 
 וְדֹבֵ֥ר אֱ֝מֶ֗ת בִּלְבָבֽוֹ׃
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad" style="text-align: right;">
 <sup>2</sup>&nbsp;איל קי קאמינה קון פריניזמידﬞאדﬞ, 
 אי קי אובﬞרה גﬞוסטידﬞאדﬞ, 
@@ -40,14 +40,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 <sup>ג</sup>&nbsp;לֹֽא־רָגַ֨ל ׀ עַל־לְשֹׁנ֗וֹ 
 לֹא־עָשָׂ֣ה לְרֵעֵ֣הוּ רָעָ֑ה וְ֝חֶרְפָּ֗ה 
 לֹא־נָשָׂ֥א עַל־קְרֹֽבוֹ׃
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad" style="text-align: right;">
 <sup>3</sup>&nbsp;איל קי נון מאלסינה קון סו לינגואה. 
 אי נון אזי מאל אה סו קומפאניירו. 
@@ -55,14 +55,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 <sup>ד</sup>&nbsp;נִבְזֶ֤ה ׀ בְּֽעֵ֘ינָ֤יו נִמְאָ֗ס 
 וְאֶת־יִרְאֵ֣י יְהוָ֣ה 
 יְכַבֵּ֑ד נִשְׁבַּ֥ע לְ֝הָרַ֗ע וְלֹ֣א יָמִֽר׃
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad" style="text-align: right;">
 <sup>4</sup>&nbsp;איל קי אין סוס אוזﬞוס איל דיזיגﬞאדﬞו איס מינוספריסייאדﬞו. 
 אי קי אונרה אה לוס קי טימין אה ה׳. 
@@ -70,13 +70,13 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 <sup>ה</sup>&nbsp;כַּסְפּ֤וֹ ׀ לֹא־נָתַ֣ן בְּנֶשֶׁךְ֮ וְשֹׁ֥חַד עַל־נָקִ֗י 
 לֹ֥א לָ֫קָ֥ח עֹֽשֵׂה־אֵ֑לֶּה לֹ֖א יִמּ֣וֹט לְעוֹלָֽם׃
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad" style="text-align: right;">
 <sup>5</sup>&nbsp;איל קי נון דה סו פלאטה קון לוגרו אי נון טומה שﬞואד קונטרה איל ליבﬞרי. 
 איל קי אזי איסטאס קוזאס נון סירה מובﬞידﬞו פארה סיימפרי׃

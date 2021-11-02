@@ -7,11 +7,11 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew (source)</th><th style="text-align: left;">English (translation)</th></tr></thead>
 <tbody>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אָבִינוּ שֶׁבַּשָּׁמַיִם
 בּוֹנֵה צִיּוֹן וִירוּשָׁלַיִם
@@ -33,7 +33,7 @@ that you promised to our ancestors.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 רְצֵה ה׳ אַרְצֶךָ
 וְהַשְׁפַּע עָלֶיהָ 
@@ -63,7 +63,7 @@ for blessing and for splendor.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וַחֲזֵק יְדֵי כָּל אַחֵינוּ
 הָעֲמֵלִים בַּעֲבוֹדַת אַדְמַת הַקֹּדֶשׁ
@@ -81,7 +81,7 @@ and may the work of their hands be favored by you.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אָמֵן.
 </span></div></td>

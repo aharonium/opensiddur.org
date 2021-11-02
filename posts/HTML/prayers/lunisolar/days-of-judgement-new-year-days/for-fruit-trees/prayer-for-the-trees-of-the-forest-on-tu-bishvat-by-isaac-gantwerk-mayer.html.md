@@ -7,11 +7,11 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֹתֵינוּ (וְאִמוֹתֵינוּ), 
 חַדֵּשׁ אֶת הַיְּעָרוֹת 
@@ -20,7 +20,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Our God and God of our ancestors, 
 renew the forests 
@@ -29,7 +29,7 @@ and all the world.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וּשְׁמֹר אֶת הַעֵצִים בַּהֶם, 
 מְחַדְּשֵׁי הָאֲוִיר, 
@@ -37,7 +37,7 @@ and all the world.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And guard the trees within them, 
 renewers of the air 
@@ -45,7 +45,7 @@ and guardians of life.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְהָאֵר אֶת לֵב הָאִישׁ
 אֲשֶׁר חוֹתֵךְ אוֹתָם בָּאָרֶץ הַזֹּאת 
@@ -54,7 +54,7 @@ and guardians of life.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And enlighten the mind 
 of those who would cut them down in this land 
@@ -63,7 +63,7 @@ as it is written, "You shall not cut down its trees by wielding against them an 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְגַם בְּדִּבְרֵי שְׁלֹמֹה הַמֶּלֶךְ כָּתּוּב: 
 ”עֵץ־חַיִּ֣ים הִ֭יא לַמַּֽחֲזִיקִ֣ים בָּ֑הּ 
@@ -72,7 +72,7 @@ as it is written, "You shall not cut down its trees by wielding against them an 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And also, in the words of King Solomon it is written, 
 "A tree of life it is to those who hold fast to it, 

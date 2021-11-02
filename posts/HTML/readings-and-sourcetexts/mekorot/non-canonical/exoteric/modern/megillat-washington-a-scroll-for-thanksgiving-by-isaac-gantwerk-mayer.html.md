@@ -27,7 +27,7 @@ Notes on reading system codified here (but feel free to alter or shift it)
 
 https://archive.org/download/MegillatWashingtonIsaacGantwerkMayer2018/Megilat%20Washington%20%28Isaac%20Gantwerk%20Mayer%202019%29.mp3
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

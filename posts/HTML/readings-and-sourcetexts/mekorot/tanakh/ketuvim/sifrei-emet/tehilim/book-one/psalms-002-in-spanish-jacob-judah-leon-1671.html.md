@@ -13,7 +13,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <em>Este Psalmo, es el segundo en numero, por haverlo David en el principio de su Reyno, quando por oir las naciones circunvezinas, que lo havian ungido por Rey sobre Israël, vinieron todos juntos al desafio contra el, en compañia de los Philisteos sus capitales enemigos, y por esso comiença el Psalmo: Paraque se juntan las gentesy, etc. De suerte que assi como el Psalmo precedente, fue el primero por la donacion del Reyno, que Dios le hizo, assi este segundo fue adjunto a el, por la possession del Reyno que entonces tomava, suyetando con la divina assistencia las naciones, pues le embiava de los Cielos, su favor por medio de los Angeles sus ministros, como consta de Semuel Segundo, 5:24.</em>
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (Spanish)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

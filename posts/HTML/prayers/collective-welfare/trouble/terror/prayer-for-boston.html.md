@@ -7,10 +7,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 מִי שֶׁאָמַר וְהָיָה הָעוֹלָם, 
 וּבֵרַךְ אֶת־הָאָדָם אֲשֶׁר בָּרָא בְצַלְמוֹ, 
@@ -25,7 +25,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 וְנֹאמַר׃ אָמֵן.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 May the One who spoke the world into being, 
 and who blessed humanity created in God's image, 
 and who brought about the miracle of these United States 

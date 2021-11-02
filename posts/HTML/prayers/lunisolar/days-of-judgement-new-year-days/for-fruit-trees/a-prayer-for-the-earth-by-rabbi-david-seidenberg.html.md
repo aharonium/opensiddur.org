@@ -9,11 +9,11 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <style type="text/css" media="all">.printfriendly {display: none!important;}</style>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֱלֹהֵי הָרוּחוֹת,  
 נָתַתָּ בְּיָדֵינוּ
@@ -22,7 +22,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 לְהֲפוֹךְ סִדְרֵי בְּרֵאשִׁית.‏
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 <em>Elohei Haruḥot</em>,[foot]Numbers 27:16[/foot] God of all spirit, all directions, all winds,
 You have placed in our hands 
 power unlike any 
@@ -31,7 +31,7 @@ to overturn the orders of creation.
 </div></td>
 </tr>
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 אַנָא הָאֵל תֵּן לָנוּ חָכְמָה 
 וּתְּבוּנוֹת כַּפָּיִם לְרַפְּאוֹת 
@@ -47,7 +47,7 @@ to overturn the orders of creation.
 וְלֹא־יַשְׁחִת לָכֶם אֶת־פְּרִי הָאֲדָמָה."
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Please God, give us wisdom 
 and skillful hands[foot]Psalms 78:72[/foot] to heal 
 the Skies and the Earth from our sins;
@@ -63,7 +63,7 @@ and Earth’s fruit will not be destroyed[foot]usually interpreted to mean "your
 </div></td>
 </tr>
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 אֵל מָלֵא רַחֲמִים, זְכוֹר לָנוּ 
 בְּרִיתֶךָ עִם כָּל הַחַיִּים, בְּרִית מֵי נֹחַ,‏
@@ -76,7 +76,7 @@ and Earth’s fruit will not be destroyed[foot]usually interpreted to mean "your
 וְיָשׁוּב עֵץ הַחַיִּים לְאֵיתָנוֹ הָרִאשׁוֹן.‏
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 God full of compassion, remember 
 Your covenant with all life, the covenant of the waters of Noah. [foot]the covenant was not made with humans first, but rather with the land and with all the creatures, Genesis 9:9-12[/foot]&nbsp;
 Spread a Sukkah of compassion and peace over us,[foot]a refrain found many places, but especially in the Sefardi liturgy for <em>Ushpizin</em>, where it is echoed several times.[/foot]&nbsp;
@@ -89,37 +89,37 @@ and the Tree of Life[foot]in Kabbalah, the sefirot; in ecology and evolution, th
 </div></td>
 </tr>
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 וּתְּזַכֵּנוּ, אֲנַחְנוּ וְצֶאֱצָאֵינוּ,‏
 לֵישֵׁב יָמִים רַבִּים עַל הָאֲדָמָה 
 כִּיְמֵי הַשָּׁמַיִם עַל הָאָרֶץ.‏
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 so that we and our descendants 
 may merit to live many days on Earth, 
 like days of the Skies over the Land.[foot]Deuteronomy 11:21, a more concrete translation of "like the days of the Heavens over the Earth". [/foot]
 </div></td>
 </tr>
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 בָּרוּךְ חֵי הָעוֹלָמִים
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Blessed be the Life of the worlds!
 </div></td>
 </tr>
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 וְהָיָ֣ה׀ בַּיּ֣וֹם הַה֗וּא אֶֽעֱנֶה֙ נְאֻם־יְהוָ֔ה אֶעֱנֶ֖ה אֶת־הַשָּׁמָ֑יִם 
 וְהֵ֖ם יַעֲנ֥וּ אֶת־הָאָֽרֶץ׃
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 And on that day I will answer , swears YHVH, I will answer the Skies, 
 and they will answer the Land. (Hosea 2:23).
 </p>

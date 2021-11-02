@@ -7,10 +7,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וַיְבָ֤רֶךְ דָּוִיד֙ אֶת־יְהוָ֔ה 
 לְעֵינֵ֖י כָּל־הַקָּהָ֑ל 
@@ -21,7 +21,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 מֵעוֹלָ֖ם וְעַד־עוֹלָֽם׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And David worshipped Yah
 For all the crowd to see.
@@ -33,7 +33,7 @@ Ruling countless worlds.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 לְךָ֣ יְ֠הוָה 
 הַגְּדֻלָּ֨ה 
@@ -48,7 +48,7 @@ Ruling countless worlds.
 וְהַמִּתְנַשֵּׂ֖א לְכֹ֥ל ׀ לְרֹֽאשׁ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 All virtue is yours:
 Gedulah, Ḥesed, Largesse,
@@ -64,7 +64,7 @@ Malkhut, most sublime.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְהָעֹ֤שֶׁר וְהַכָּבוֹד֙ 
 מִלְּפָנֶ֔יךָ 
@@ -73,7 +73,7 @@ Malkhut, most sublime.
 וּבְיָ֣דְךָ֔ לְגַדֵּ֥ל וּלְחַזֵּ֖ק לַכֹּֽל׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Abundance and honor 
 Are before you.
@@ -83,7 +83,7 @@ You can empower and raise up.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְעַתָּ֣ה 
 אֱלֹהֵ֔ינוּ 
@@ -92,7 +92,7 @@ You can empower and raise up.
 תִּפְאַרְתֶּֽךָ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And, as of right now,
 O, our God, 

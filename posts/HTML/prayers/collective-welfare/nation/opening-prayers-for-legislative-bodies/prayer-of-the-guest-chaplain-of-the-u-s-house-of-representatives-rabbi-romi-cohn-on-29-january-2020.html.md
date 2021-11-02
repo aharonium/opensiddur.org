@@ -37,25 +37,25 @@ Rabbi Cohn is a model and example for all of us to follow, and I thank him for h
 
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <h3>Opening Prayer Given by the Guest Chaplain:</h3>
 </div></td></tr>
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Almighty, open my lips. 
 May the words of my mouth declare Your praise.[foot]Psalms 51:17[/foot]&nbsp;
@@ -149,7 +149,7 @@ Issue: Vol. 166, No. 19 — Daily Edition (January 29, 2020)
 
 link: https://chaplain.house.gov/archive/index.html?id=3055
 <!--  -->
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.c-span.org/video/standalone/?c4850457/user-clip-rabbi-avraham-hakohen-romi-cohn-congregation-adas-yereim-vien-brooklyn-york" width="512" height="330"]
+<iframe width=530 height=312 src='https://www.c-span.org/video/standalone/?c4850457/user-clip-rabbi-avraham-hakohen-romi-cohn-congregation-adas-yereim-vien-brooklyn-york' allowfullscreen='allowfullscreen' frameborder=0></iframe>[su_spacer]
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.congress.gov/116/crec/2020/01/29/CREC-2020-01-29-pt1-PgH644.pdf" width="100%" height="900"]
 

@@ -15,7 +15,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Then as Jeremiah went to the graves of the ancestors and their beloved limbs were sleeping. [He asked] “How can you be slumbering? Your children have been exiled and have been speared by the captors’ swords. Where is the merit of their ancestors when they are in a dry and forsaken land?” If like humans they have broken the covenant, where is the merit of the ancestors with whom the covenant was made?
 </div>
@@ -29,7 +29,7 @@ Then as Jeremiah went to the graves of the ancestors and their beloved limbs wer
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 They [the ancestors] all cried out in dirges.
 Their lips vibrated with the call of petition to the face of the One Who Dwells on High. And where is the promise of “I will remember for you the covenant with the early ones” (Leviticus 26:45) [God Replies:] What can I do for you, my children, it is a decree before me? 
@@ -43,7 +43,7 @@ Their lips vibrated with the call of petition to the face of the One Who Dwells 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 They desecrated my glory without benefit, and they had no fear or distress. And I turned my eyes away from them and they did not mourn or cease to sin. How can I be silent when they say “it is not from God” (Jeremiah 5:12)? If like humans they have broken the covenant, where is the merit of the ancestors with whom the covenant was made?
 </div>
@@ -56,7 +56,7 @@ They desecrated my glory without benefit, and they had no fear or distress. And 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 The father of many nations [Abraham] raised his voice on their behalf and begged for mercy from before the Mighty One. Was it for nothing that I passed ten tests for their benefit? And now I see their brokenness. And where is the promise “Don’t fear Abram [your reward will be very great]” (Genesis 15:1] [God Replies:] What can I do for you, my children, it is a decree before me? 
 </div>
@@ -69,7 +69,7 @@ The father of many nations [Abraham] raised his voice on their behalf and begged
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 They went astray and became strangers by worshipping strange gods.
 They took counsel together to carve cisterns, broken cisterns which cannot hold water. And how can I be silent at the desecration of the Ten Commandments? If like humans they have broken the covenant, where is the merit of the ancestors with whom the covenant was made? 
@@ -83,7 +83,7 @@ They took counsel together to carve cisterns, broken cisterns which cannot hold 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Thus cried out Isaac to the One Who Abides in the Skies:
 Was it for naught that I willingly was bound on the altar and my skin was flayed. And where is the promise, “and I will fulfill My covenant through Isaac?” (Genesis 17:21). [God Replies:] What can I do for you, my children, it is a decree before me? 
@@ -97,7 +97,7 @@ Was it for naught that I willingly was bound on the altar and my skin was flayed
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 They embittered Jeremiah and made impure Mount Moriah. I cannot bear these sounds which come up from the earth. And how can I be silent at the killing of Zechariah? If like humans they have broken the covenant, where is the merit of the ancestors with whom the covenant was made?
 </div>
@@ -110,7 +110,7 @@ They embittered Jeremiah and made impure Mount Moriah. I cannot bear these sound
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 [Jacob] the one raised in the house of study began to speak, and mighty tears flowed down his cheek. My children who I raised with toil, how have they been divided and taken away from me through destruction. And how is the blood of Zechariah avenged with the blood of the thousands who died in his stead? [God Replies:] What can I do for you, my children, it is a decree before me?
 </div>
@@ -123,7 +123,7 @@ They embittered Jeremiah and made impure Mount Moriah. I cannot bear these sound
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 [Moses] The faithful shepherd spoke, covered and dirty with ashes: The sheep which you asked me to carry in my bosom has been split up suddenly. And where is the promise that “Israel will not be widowed?” (Jer. 51:5) If like humans they have broken the covenant, where is the merit of the ancestors with whom the covenant was made?
 </div>
@@ -136,7 +136,7 @@ They embittered Jeremiah and made impure Mount Moriah. I cannot bear these sound
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 The sound of Leah’s cry beats in her heart. Rachel her sister cries for her children. Zilpah beats her face. Bilhah hold out both of her hands and wails. [God Replies:] What can I do for you, my children, it is a decree before me?
 </div>
@@ -149,7 +149,7 @@ The sound of Leah’s cry beats in her heart. Rachel her sister cries for her ch
  </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Return, o pure ones to your slumber, I will surely fulfill all of your requests. I have been exiled to Babylonia because of you, and I will return with the exiled of your children. 
 </div>

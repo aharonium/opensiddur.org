@@ -7,10 +7,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 אבינו שבשמים, אדון כל המעשים, רבון כל העולמים
 רחם על כל אלה הסובלים מן המים הגועשים, והגלים הרועשים
@@ -19,7 +19,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 האזינה אלוהים ושמע צעקתם.
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Ruler of Creation, Master of the world:
 Have mercy on all those who are suffering from the raging waters and the storming waves.
 Have compassion on Your creatures – 
@@ -29,14 +29,14 @@ Listen, God, and hear their cries.
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 חזק את ידי המצילים, 
 נחם את האבלים, 
 רפא נא לפצועים.
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Strengthen the hands of those who would bring relief, 
 comfort the mourners,
 Heal, please, the wounded.
@@ -44,7 +44,7 @@ Heal, please, the wounded.
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 חָננו בינה והשכל לידע את חובותינו, 
 ופתח את לבינו 
@@ -53,7 +53,7 @@ Heal, please, the wounded.
 רחמנים בני רחמנים.
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Grant us wisdom and discernment to know our obligations,
 and open our hearts 
 so that we may extend our hands to the devastated.
@@ -63,7 +63,7 @@ Bless us so that we may walk in Your ways,
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 תן בנו אומץ וחכמה 
 למען נמנע אסון ומות.
@@ -74,7 +74,7 @@ Bless us so that we may walk in Your ways,
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Grant us the will and the wisdom 
 to prevent further disaster and death;
 Prevent plague from descending upon Your earth, 

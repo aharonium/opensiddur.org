@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Translation (Yiddish)</th><th style="text-align: left;">Transliteration (Romanized Yiddish)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
@@ -17,7 +17,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="romanized-yiddish" lang="yi">
+<div class="romanized-transliteration" lang="yi">
 Mendl: 
 "Iz den do a bazundere brokhe farn keyser?"
 </span></div></td>
@@ -39,7 +39,7 @@ Mendel:
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="romanized-yiddish" lang="yi">
+<div class="romanized-transliteration" lang="yi">
 Rebbe: 
 "A brokhe farn keyser? Avade. 
 Me yosn un der Ḳodesh borukh hu 

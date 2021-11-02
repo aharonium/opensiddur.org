@@ -7,10 +7,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הַ֥לְלוּ יָ֨הּ ׀ 
 שִׁ֣ירוּ לַֽ֭יהוָה שִׁ֣יר חָדָ֑שׁ 
@@ -37,7 +37,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 וְ֝נִכְבְּדֵיהֶ֗ם בְּכַבְלֵ֥י בַרְזֶֽל׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <strong>Hallelu-Yah!</strong>
 Sing a brand new song to Yah. 
@@ -65,25 +65,25 @@ And arrest their agitators.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 לַעֲשׂ֤וֹת בָּהֶ֨ם ׀ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Rebuke them, as they deserve! 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מִשְׁפָּ֬ט כָּת֗וּב הָדָ֣ר ה֭וּא 
 לְכָל־חֲסִידָ֗יו 
 הַֽלְלוּ־יָֽהּ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 All this, because God’s Ḥassidim
 Gives honor to him in splendor.
@@ -93,7 +93,7 @@ Gives honor to him in splendor.
 
 <hr />
 
-Rabbi Zalman Schachter-Shalomi, z”l, included his translation of <a href="https://en.wikipedia.org/wiki/Psalms_149">Psalms 149</a> in his <em><a href="https://opensiddur.org/siddurim/ha-ari/neo-hasidut/reb-zalmans-open-siddur-tehillat-hashem/">Siddur Tehillat Hashem Yidaber Pi</a></em> (2009). To the best of my ability, I have set his English translation side-by-side with the Hebrew verses comprising Psalms 149. I have replaced some anglicizations and removed capitalization for divine pronouns. –Aharon N. Varady
+Rabbi Zalman Schachter-Shalomi, z”l, included his translation of <a href="https://en.wikipedia.org/wiki/Psalm_149">Psalms 149</a> in his <em><a href="https://opensiddur.org/siddurim/ha-ari/neo-hasidut/reb-zalmans-open-siddur-tehillat-hashem/">Siddur Tehillat Hashem Yidaber Pi</a></em> (2009). To the best of my ability, I have set his English translation side-by-side with the Hebrew verses comprising Psalms 149. I have replaced some anglicizations and removed capitalization for divine pronouns. –Aharon N. Varady
 
 <h3>Source(s)</h3>
 

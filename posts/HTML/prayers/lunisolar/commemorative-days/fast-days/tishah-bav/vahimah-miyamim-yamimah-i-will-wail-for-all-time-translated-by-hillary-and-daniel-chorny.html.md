@@ -19,7 +19,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 My sin destroyed my abode, 
 so I will send tears down my cheeks, 
@@ -39,7 +39,7 @@ And so I will wail for all time.[foot]Cf. Judges 11:40[/foot]
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 For my mournful heart comfort has utterly ceased, 
 my sorrow is without compare to any other pain; 
@@ -63,7 +63,7 @@ And so I will wail for all time.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 At the time of their capture, 
 they fell to two masters who lived opposite one another. 
@@ -88,7 +88,7 @@ And so I will wail for all time.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 His fellow boasted in return, 
 “I, too, have come from the conquest of Jerusalem; 
@@ -110,7 +110,7 @@ And so I will wail for all time.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 “Come, let us breed them, and divide their offspring [between us], 
 like the stars in the heavens [they will be].” 
@@ -132,7 +132,7 @@ And so I will wail for all time.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Having agreed upon this matter, 
 they put [the pair] together in a cell; 
@@ -156,7 +156,7 @@ And so I will wail for all time.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 [The boy] bemoaned with an aching heart: 
 “How can a descendant of Aaron lie with a slave girl?”
@@ -179,7 +179,7 @@ And so I will wail for all time.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 By morning light, when they recognized one another, 
 [their wailing] erupted anew, “Alas, my brother! Alas, my sister!” 
@@ -202,7 +202,7 @@ And so I will wail for all time.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 For this, Jeremiah lamented among the ruins, 
 “For this decree I will forever bemoan, 

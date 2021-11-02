@@ -25,26 +25,26 @@ I thank the rabbi for his kind prayer and thoughtfulness as we proceed forward a
 
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <h3>Opening Prayer Given by the Guest Chaplain:</h3>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Almighty God, master of the universe, 
 I invoke Your blessing today 
@@ -57,12 +57,12 @@ as detailed in Genesis.[foot]The Sheva Mitsvot Bnei Noaḥ are first enumerated 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Almighty God, 
 as a descendant of Ḥassidic Jews 
@@ -79,12 +79,12 @@ and we pray for those who still suffer persecution around the world.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 While legislating, by definition, 
 includes differences of opinion and rigorous debate, 
@@ -98,12 +98,12 @@ and justice for all."[foot]<a href="https://en.wikipedia.org/wiki/Pledge_of_Alle
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אָמֵן׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <em>Amen</em>.
 </div></td></tr>
@@ -118,7 +118,7 @@ For photos and additional details, visit <a href="https://chabadinfo.com/exclusi
 116th Congress, 1st Session
 Issue: Vol. 165, No. 126 — Daily Edition (July 25, 2019)
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.c-span.org/video/standalone/?c4810164/rabbi-gershon-avtzon-yeshivas-lubavitch-cincinnati-cincinnati-ohio" width="512" height="330"]
+<iframe width=530 height=312 src='https://www.c-span.org/video/standalone/?c4810164/rabbi-gershon-avtzon-yeshivas-lubavitch-cincinnati-cincinnati-ohio' allowfullscreen='allowfullscreen' frameborder=0></iframe>[su_spacer]
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.congress.gov/116/crec/2019/07/25/CREC-2019-07-25-pt1-PgH7389-3.pdf" width="100%" height="900"]
 </body>

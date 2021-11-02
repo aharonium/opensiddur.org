@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 Der neunte Ab, das größte der jüdischen Trauerfeste. An diesem Tage wurde einst der erste Tempel durch Nebucadnezar, der zweite durch Titus zerstört und das Israelitische Reich durch die Römer gänzlich aufgelöst. ("The ninth of Aḅ, is the greatest of the Jewish festivals of mourning. On this day the first temple was once destroyed by Nebuchadnezzar, the second by Titus, and the Israelite Empire was completely dissolved by the Romans.")
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: left;">Source (German)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

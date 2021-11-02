@@ -13,7 +13,7 @@ The prayer known as K'Gavnah comes from the Zohar parashat Terumah (§163-166), 
 In some siddurim K'Gavna is a prelude to the Bar'chu, the formal Call to Prayer that comes between Kabbalat Shabbat and the evening service. This variation was written for the 2020 Clear Vision Reb Zalman Legacy Shabbaton that R' David Markus and I co-led over the weekend over Zoom for Ḥavurah Shir Ḥadash in Ashland, Oregon. It dovetails with that Shabbaton's themes of sacred space, digital presence, and what it means to come together in community online.
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Medieval Jewish Aramaic)</th><th style="text-align: left;">Paraliturgical Interpretation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

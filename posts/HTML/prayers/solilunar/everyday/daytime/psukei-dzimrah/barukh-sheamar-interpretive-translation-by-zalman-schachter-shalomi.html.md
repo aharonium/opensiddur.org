@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
@@ -223,7 +223,7 @@ Barukh She'amar begins the preliminary section of shaḥarit called Psukei Dzimr
 
 The phrase "Barukh She'amar" is found in many mishnaic and midrashic texts. The following formulation containing the initial four (or five) blessings appears in Tanna debei Eliyahu Zuta, Seder Eliyahu Zuta 4:1 (final redaction in the 9th century CE) --
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Tanna debei Eliyahu Zuta, Seder Eliyahu Zuta 4:1)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
@@ -255,7 +255,7 @@ Initially, Saadya Gaon (882/892 – 942 CE) instituted the recitation of Barukh 
 
 David Hedegard transcribed three manuscript versions of Barukh She'amar in his dissertation on Seder R. Amram Gaon (Lindstedt, 1951). I've retranscribed his transcription and provided them below.
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Codex Sulzberger, JTSA)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
@@ -307,7 +307,7 @@ Blessed are you, YHVH, Majesty extolled with praises.
 </div></td></tr>
 </tbody></table>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Mss. Codex 1095, Bodleian Library)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
@@ -369,7 +369,7 @@ Blessed are you, YHVH, Majesty extolled with praises.
 </div></td></tr>
 </tbody></table>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Codex British Museum 613)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

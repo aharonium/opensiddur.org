@@ -15,10 +15,10 @@ The Biblical relationship between God, humanity, and labor is fascinating. Often
 In the past century or so, traditional Judaism has somewhat tilted away from the ideas of workers' rights so clearly stated in the Tanakh and in rabbinic texts. Partially this was to disassociate from the Bundists, partially out of fear of "looking too Communist" in a xenophobic American society, and partially because the Jewish working class is nowhere near as substantial a part of the community as it once was. If this text is meant to do anything, it's to show that love of God and love of the worker aren't opposed to each other – in fact, they go hand in hand!
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מִי שֶׁגָּזַר עִצָּבוֹן לִבְנֵי אֱנוֹשׁ, 
 לְהַאֲכִילֵינוּ לֶחֶם בְּזֵעַת אַפֵּינוּ, <span class="citation">(ראה – בראשית ג:יט)</span>
@@ -30,7 +30,7 @@ In the past century or so, traditional Judaism has somewhat tilted away from the
 אֶת כׇּל־מִינֵי עֲמֵלִים שֶׁעוֹמְלִים בְּעֲמָלָיו.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 May the One who decreed toil upon humanity,
 Feeding us bread from the sweat of our brow,[foot]see Genesis 3:19[/foot]
@@ -43,7 +43,7 @@ All laborers who labor in their labors.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֵל שִׂמְחַת גִּילֵינוּ, <span class="citation">(ראה – תהלים מג:ד)</span>
 שֶׁחָפֵץ בְּעֲבוֹדָתֵנוּ בְּשִׂמְחַה,
@@ -55,7 +55,7 @@ All laborers who labor in their labors.
 הַיּוֹם שֶׁכֻּלּוֹ שַׁבָּת מְנוּחָה לְחַיֵּי הָעוֹלָמִים. <span class="citation">(ראה – משנה תמיד ז:ד)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 God, happiness of our rejoicing,[foot]see Psalms 43:4[/foot]
 The One who desires our service in happiness,
@@ -68,7 +68,7 @@ The day where it will be entirely Shabbat rest and eternal life.[foot]see Mishna
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 כַּכָּתוּב בְּתוֹרָתֶיךָ –
 וְהוֹתִֽירְךָ֩ יְהֹוָ֨ה אֱלֹהֶ֜יךָ בְּכֹ֣ל ׀ מַעֲשֵׂ֣ה יָדֶ֗ךָ 
@@ -76,7 +76,7 @@ The day where it will be entirely Shabbat rest and eternal life.[foot]see Mishna
 כִּ֣י ׀ יָשׁ֣וּב יְהֹוָ֗ה לָשׂ֤וּשׂ עָלֶ֙יךָ֙ לְט֔וֹב כַּאֲשֶׁר־שָׂ֖שׂ עַל־אֲבֹתֶֽיךָ׃ <span class="citation">(דברים ל:ט)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 As it is written in Your Torah –
 And Adonai your God will greatly increase you in all the deeds of your hands, 
@@ -85,14 +85,14 @@ for yet again Adonai will exult about you for good, as with your ancestors.[foot
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וּבְדִבְרֵי נְבִיאֶיךָ כָּתוּב לֵאמֹר – 
 כֹּ֣ה ׀ אָמַ֣ר יְהוָ֗ה מִנְעִ֤י קוֹלֵךְ֙ מִבֶּ֔כִי וְעֵינַ֖יִךְ מִדִּמְעָ֑ה
 כִּי֩ יֵ֨שׁ שָׂכָ֤ר לִפְעֻלָּתֵךְ֙ נְאֻם־יְהוָ֔ה וְשָׁ֖בוּ מֵאֶ֥רֶץ אוֹיֵֽב׃ <span class="citation">(ירמיהו לא:טז)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And in the words of Your Prophets it is written, saying –
 Thus says Adonai, "Hold back your voice from weeping and your eyes from tears, 
@@ -100,7 +100,7 @@ for there is a reward for your labor," says Adonai; "they will return from the l
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וּבְכִתְבֵי הַנָּעִים זְמִרוֹת יִשְׂרָאֵל <span class="citation">(זהו דויד. ראה – שמואל ב׳ כג:א)</span> מְזֻמָּר לֵאמֹר –
 מַצְמִ֤יחַ חָצִ֨יר ׀ לַבְּהֵמָ֗ה
@@ -108,7 +108,7 @@ for there is a reward for your labor," says Adonai; "they will return from the l
 לְה֥וֹצִיא לֶ֗֝חֶם מִן־הָאָֽרֶץ׃ <span class="citation">(תהלים קד:יד)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And in the writings of the Sweet Singer of Israel,[foot]i.e. David. See II Samuel 23:1[/foot] it is sung, saying –
 Growing the grass for the cattle, 

@@ -7,18 +7,18 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הִתְבַּשֵּׂ֫רוּ בְנֵי עֶלְיוֹן 
 כִּי נִחַם יְיָ צִיּוֹן
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Children of Elyon, be told the good tidings
 That YHVH has consoled Tsiyon.[foot]Isa. 51:3[/foot]
  </div></td>
@@ -26,7 +26,7 @@ That YHVH has consoled Tsiyon.[foot]Isa. 51:3[/foot]
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אַזְכִּיר חֲסָדֶ֫יךָ מַלְכִּי
 לְנֶ֫גֶד כָּל נִבְרָאֶ֫יךָ
@@ -42,7 +42,7 @@ That YHVH has consoled Tsiyon.[foot]Isa. 51:3[/foot]
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 I declare your kindness, King,[foot]Isa. 63:7[/foot]
 Before all your creations,
 And my palate shall form words for the mighty acts
@@ -59,7 +59,7 @@ That YHVH has consoled Tsiyon.[foot]Isa. 51:3[/foot]
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 בְּיוֹם זֶה נֶעְצַר מִקֶּ֫דֶם
 נֶ֫גֶף מִמֵּיתֵי מִדְבָּר
@@ -75,7 +75,7 @@ That YHVH has consoled Tsiyon.[foot]Isa. 51:3[/foot]
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Today long ago the plague
 Ceased to claim the desert dead,
 And Binyamin, young ruler,[foot]Ps. 68:28[/foot]
@@ -92,7 +92,7 @@ That YHVH has consoled Tsiyon.[foot]Isa. 51:3[/foot]
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 רוֹן פָּצְחוּ שְׁבָטִים בְּיוֹם זֶה
 וְיֶ֫שַׁע וְעוֹז הִתְאַזָּ֫רוּ
@@ -108,7 +108,7 @@ That YHVH has consoled Tsiyon.[foot]Isa. 51:3[/foot]
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 The tribes burst in song today
 And grew confident in redemption and strength[foot]Ps. 93:1[/foot]
 For on it they were permitted to intermarry
@@ -125,7 +125,7 @@ That YHVH has consoled Tsiyon.[foot]Isa. 51:3[/foot]
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הַיּוֹם בִּיטֵּל בֶּן־אֵלָה
 שׁוֹמְרֵי אוֹרַח תַּהֲלוּכָה
@@ -141,7 +141,7 @@ That YHVH has consoled Tsiyon.[foot]Isa. 51:3[/foot]
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 On this day Ela's son removed
 The watchers of the pilgrimage path
 Whom Yerovam stationed 
@@ -158,7 +158,7 @@ That YHVH has consoled Tsiyon.[foot]Isa. 51:3[/foot]
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מָתַי יְחֻדַּשׁ הוֹד בּוֹלֶה
 לְבֵן בַּגּוֹלָה זָנ֫וּחַ
@@ -174,7 +174,7 @@ That YHVH has consoled Tsiyon.[foot]Isa. 51:3[/foot]
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 When will the withered glory be renewed
 For God's child in exile abandoned?
 And when will a sick heart be consoled

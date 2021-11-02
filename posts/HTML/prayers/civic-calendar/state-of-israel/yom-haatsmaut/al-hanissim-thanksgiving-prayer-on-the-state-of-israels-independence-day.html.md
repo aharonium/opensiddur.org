@@ -7,10 +7,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 &nbsp;
 עַל הַנִּסִּים 
@@ -22,7 +22,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 בַּזְּמַן הַזֶּה.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 We THANK YOU 
 for the miracles, 
 for the redemption, 
@@ -34,7 +34,7 @@ in this time.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="44%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 ביום ה׳ באייר חמשת אלפים תש״ח למניין שאנו מונים לבריאת העולם, 
 בעת ההכרזה על הקמת מדינת ישראל, 
@@ -44,7 +44,7 @@ in this time.
 היא ראשית צמיחת גאולתינו. 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 On the fifth day of the month of Iyar 5708, 
 at the moment of declaration of the establishment of the State of Israel, 
 the People of Israel gained sovereignty on its land 
@@ -54,7 +54,7 @@ is the first flowering of our redemption.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="44%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מדינה זו באה מתוך קשר היסטורי ומסורתי זה חתרו 
 היהודים בכל דור 
@@ -80,7 +80,7 @@ is the first flowering of our redemption.
 אשר תיקרא ”מדינת ישראל.“
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 The State arrives through a strong historical and traditional connection 
 as the Jews through each generation 
 strived to return and stand firm on their ancient homeland. 
@@ -106,7 +106,7 @@ which is now the State of Israel.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="44%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 ולפי כך מדינה זו תהא פתוחה לעליה יהודית ולקיבוץ גלויות; 
 תשקוד על פיתוח הארץ לטובת כל תושביה; 
@@ -119,7 +119,7 @@ which is now the State of Israel.
 שַׁלְוָה בְּאַרְמְנוֹתָיִךְ.‏ <span class="citation">(תהלים קכב:ז)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 In its accordance this State will be open for Jewish immigration and for the Ingathering of the Exiles; 
 it will foster the development of the country for the benefit of all its inhabitants; 
 it will be based on freedom, justice and peace as envisaged by the prophets of Israel; 

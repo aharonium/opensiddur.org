@@ -14,60 +14,60 @@ For attribution and license, please consult the following URL: <a href="http://o
 בְּ֝בָרְח֗וֹ מִפְּנֵ֤י ׀ אַבְשָׁל֬וֹם בְּנֽוֹ׃
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad" style="text-align: right;">
 <sup>1</sup>&nbsp;‫סאלמו די דויד.
 קואנדו פﬞוייו דילאנטי לי אבשﬞלום סואיזﬞו׃
 </span></div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 <sup>ב</sup>&nbsp;יְ֭הוָה מָֽה־רַבּ֣וּ צָרָ֑י 
 רַ֝בִּ֗ים קָמִ֥ים עָלָֽי׃
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad" style="text-align: right;">
 <sup>2</sup>&nbsp;‫‫ה׳ ,קואנטו סי מוגﬞיגואן מיס אנגוסטייאדﬞ! 
 וריסמוגﬞוס סי אליבﬞאנטאן קונטרה מי׃
 </span></div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 <sup>ג</sup>&nbsp;רַבִּים֮ אֹמְרִ֪ים לְנַ֫פְשִׁ֥י 
 אֵ֤ין יְֽשׁוּעָ֓תָה לּ֬וֹ בֵֽאלֹהִ֬ים סֶֽלָה׃
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad" style="text-align: right;">
 <sup>3</sup>&nbsp;‫מוגﬞוס דיזין פור ‫מי אלמה.
 נון איי םאלבﬞאסייון פארה אילייה קון איל דייו. סלה׃
 </span></div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 <sup>ד</sup>&nbsp;וְאַתָּ֣ה יְ֭הוָה מָגֵ֣ן בַּעֲדִ֑י 
 כְּ֝בוֹדִ֗י וּמֵרִ֥ים רֹאשִֽׁי׃
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad" style="text-align: right;">
 <sup>4</sup>&nbsp;‫מה טו ה׳ איריס מאמפארו אה מי.
 מי אונרה אי איל קי אינאלטיסי מי קאבﬞיסה׃
 </span></div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 <sup>ה</sup>&nbsp;ק֭וֹלִי אֶל־יְהוָ֣ה אֶקְרָ֑א 
 וַיַּֽעֲנֵ֨נִי מֵהַ֖ר קָדְשׁ֣וֹ 
 סֶֽלָה׃
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad" style="text-align: right;">
 <sup>5</sup>&nbsp;קון מי בוז אה ה׳ לייאמו. 
 אי איל מי ריספונדי די ‫סו ‫מונטי סאנטו. 
@@ -75,31 +75,31 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 <sup>ו</sup>&nbsp;אֲנִ֥י שָׁכַ֗בְתִּי וָֽאִ֫ישָׁ֥נָה הֱקִיצ֑וֹתִי 
 כִּ֖י יְהוָ֣ה יִסְמְכֵֽנִי׃
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad" style="text-align: right;">
 <sup>6</sup>&nbsp;‫‫ייו ייאזקו אי דואירמו אי אי דיספיירטו. 
 פורקי ה׳ מי סוסטייני׃
 </span></div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 <sup>ז</sup>&nbsp;לֹֽא־אִ֭ירָא מֵרִבְב֥וֹת עָ֑ם אֲשֶׁ֥ר סָ֝בִ֗יב שָׁ֣תוּ עָלָֽי׃
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad" style="text-align: right;">
 <sup>7</sup>&nbsp;נון טימירי די מילארייאס די פואיבﬞלו קי סי פונין דירידﬞור קונטרה מי׃
 </span></div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 <sup>ח</sup>&nbsp;ק֘וּמָ֤ה יְהוָ֨ה ׀ 
 הוֹשִׁ֘יעֵ֤נִי אֱלֹהַ֗י 
@@ -107,7 +107,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 שִׁנֵּ֖י רְשָׁעִ֣ים שִׁבַּֽרְתָּ׃
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="ladino" lang="lad" style="text-align: right;">
 <sup>8</sup>&nbsp;אליבﬞאנ‫טאטי ה׳! 
 סאלבﬞאמי, מי דייו! 
@@ -116,7 +116,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 <sup>ט</sup>&nbsp;לַיהוָ֥ה הַיְשׁוּעָ֑ה 
 עַֽל־עַמְּךָ֖ בִרְכָתֶ֣ךָ 

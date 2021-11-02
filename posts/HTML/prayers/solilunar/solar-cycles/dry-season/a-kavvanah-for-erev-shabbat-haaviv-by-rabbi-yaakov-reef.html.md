@@ -7,34 +7,34 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 <span class="instruction">Gather around the Shabbat candles. 
 Before lighting the candles, 
 have each person share a favorite memory of this past winter.</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 <span class="instruction">Once everyone has had a chance to share, 
 have someone read aloud Genesis 1:14:</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 וַיֹּ֣אמֶר אֱלֹהִ֗ים 
 יְהִ֤י מְאֹרֹת֙ בִּרְקִ֣יעַ הַשָּׁמַ֔יִם 
@@ -46,7 +46,7 @@ have someone read aloud Genesis 1:14:</span>
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And The Eternal One said: 
 ‘Let there be lights in the expanses of the heavens 
@@ -58,19 +58,19 @@ and years.’
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 <span class="instruction">Have everyone go around again, 
 this time sharing something they are looking forward to this spring. 
 After, have someone read aloud Hosea 6:3:</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 וְנֵדְעָ֣ה נִרְדְּפָ֗ה לָדַ֙עַת֙ אֶת־יְהוָ֔ה 
 כְּשַׁ֖חַר נָכ֣וֹן מֽוֹצָא֑וֹ 
@@ -79,7 +79,7 @@ After, have someone read aloud Hosea 6:3:</span>
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And let us know, eagerly strive to know The Eternal One, 
 G-d will come to us sure as the morning comes; 
@@ -88,17 +88,17 @@ as the spring rains that waters the earth.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 <span class="instruction">Now light the Shabbat candles.</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 בָּרוּךְ אַתָּה 
 יְיָ אֱלֹהֵֽינוּ 
@@ -108,7 +108,7 @@ as the spring rains that waters the earth.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Blessed are You, 
 Eternal One our G-d, 
@@ -118,18 +118,18 @@ and have obligated us to light the Shabbat flame.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 <span class="instruction">After wishing everyone a Shabbat Shalom, 
 conclude with reciting Song of Songs:</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 כִּֽי־הִנֵּ֥ה הסתו [הַסְּתָ֖יו] עָבָ֑ר 
 הַגֶּ֕שֶׁם חָלַ֖ף הָלַ֥ךְ לֽוֹ׃ 
@@ -139,7 +139,7 @@ conclude with reciting Song of Songs:</span>
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Behold, the winter has past; 
 the rain is over and gone. 

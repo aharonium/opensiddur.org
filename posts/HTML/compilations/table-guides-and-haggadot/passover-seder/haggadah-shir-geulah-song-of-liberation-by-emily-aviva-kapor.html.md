@@ -18,7 +18,7 @@ The Haggadah is made available for download in PDF format on a pay-what-you-can 
 <table style="margin-left: auto;margin-right: auto;">
 <tbody>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 המחברת מקדישה את הגדה זו
 לכל אחיותיה ואחיה העבריים
@@ -32,7 +32,7 @@ The Haggadah is made available for download in PDF format on a pay-what-you-can 
 ת׳ נ׳ צ׳ ב׳ ה׳
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 The author dedicates this Haggadah
 to all her transgender siblings
 who live their lives in fear and danger

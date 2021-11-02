@@ -13,7 +13,7 @@ This is a medieval rabbinic Hebrew translation of Matthew 6:5-15 containing what
 
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: left;">Source (Koine Greek)</th><th style="text-align: right;">Translation (Hebrew)</th><th style="text-align: left;">Secondary Translation (English)</th></tr></thead>
 <tbody>
 <tr>

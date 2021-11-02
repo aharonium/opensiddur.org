@@ -7,17 +7,17 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הַ֥לְלוּ יָ֨הּ ׀ 
 הַֽלְל֣וּ אֶת־יְ֭הוָה 
 מִן־הַשָּׁמַ֑יִם 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <strong>Hallelu-Yah!</strong>
 Applaud and cheer Yah, 
@@ -25,7 +25,7 @@ From the heavens.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הַֽ֝לְל֗וּהוּ בַּמְּרוֹמִֽים׃
 הַֽלְל֥וּהוּ כָל־מַלְאָכָ֑יו 
@@ -56,7 +56,7 @@ From the heavens.
 שָׂ֝רִ֗ים וְכָל־שֹׁ֥פְטֵי אָֽרֶץ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Praise him, the most sublime! 
 Angel assembly, sing Hallel!
@@ -88,33 +88,33 @@ Officials and judges of the land.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 בַּחוּרִ֥ים וְגַם־בְּתוּל֑וֹת 
 זְ֝קֵנִ֗ים עִם־נְעָרִֽים׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Lads and also lasses, Hallel!! 
 Elders together with youths.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 יְהַלְל֤וּ ׀ אֶת־שֵׁ֬ם יְהוָ֗ה 
 כִּֽי־נִשְׂגָּ֣ב שְׁמ֣וֹ לְבַדּ֑וֹ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 All of you, praise Yah’s Name. 
 His very Name, is so transcendent.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 ה֝וֹד֗וֹ 
 עַל־אֶ֥רֶץ וְשָׁמָֽיִם׃
@@ -125,7 +125,7 @@ His very Name, is so transcendent.
 עַֽם־קְרֹב֗וֹ הַֽלְלוּ־יָֽהּ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 His glory is reflected 
 By Heaven and Earth.
@@ -139,7 +139,7 @@ You Children of Yisrael, <strong>Hallelu-Yah!</strong>
 
 <hr />
 
-Rabbi Zalman Schachter-Shalomi, z”l, included his translation of <a href="https://en.wikipedia.org/wiki/Psalms_148">Psalms 148</a> in his <em><a href="https://opensiddur.org/siddurim/ha-ari/neo-hasidut/reb-zalmans-open-siddur-tehillat-hashem/">Siddur Tehillat Hashem Yidaber Pi</a></em> (2009). To the best of my ability, I have set his English translation side-by-side with the Hebrew verses comprising Psalms 148. I have replaced some anglicizations and removed capitalization for divine pronouns. –Aharon N. Varady
+Rabbi Zalman Schachter-Shalomi, z”l, included his translation of <a href="https://en.wikipedia.org/wiki/Psalm_148">Psalms 148</a> in his <em><a href="https://opensiddur.org/siddurim/ha-ari/neo-hasidut/reb-zalmans-open-siddur-tehillat-hashem/">Siddur Tehillat Hashem Yidaber Pi</a></em> (2009). To the best of my ability, I have set his English translation side-by-side with the Hebrew verses comprising Psalms 148. I have replaced some anglicizations and removed capitalization for divine pronouns. –Aharon N. Varady
 
 <h3>Source(s)</h3>
 

@@ -21,7 +21,7 @@ According to the poetry of the Midrash Tanchuma, Bereshit 1:1, the words of the 
 Parashat Noaḥ (Genesis 6:9-11:32) in the annual Torah reading cycle, is read on the first shabbat of the month of Marḥeshvan (a/k/a Bul), which due to the onset of the rainy season, is most closely associated with floods. The parashah is preceded by <a href="https://opensiddur.org/liturgical-readings/torah-readings/annual-cycle/sefer-bereshit/parashat-bereshit/parashat-bereishit-genesis/">Parashat Bereshit</a> (Genesis 1:1-6:8); <a href="https://opensiddur.org/liturgical-readings/torah-readings/annual-cycle/sefer-bereshit/parashat-lekh-lekha/parashat-lekh-lekha-color-coded-according-to-its-narrative-layers/">parashat Lekh Lekha</a> (Genesis 12:1-17:27) follows it.
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

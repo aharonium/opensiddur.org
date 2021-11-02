@@ -10,20 +10,20 @@ For attribution and license, please consult the following URL: <a href="http://o
 <table style="margin-left: auto;margin-right: auto;">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 יוֹם זֶה לְכׇל דוֹרוֹת בְּחֹדֶשׁ ‎‎זִיו וְאוֹר;
 יֻחַד כְּחָג שֶׁנִי בִּשְׁבִיל אֶפְשָׁר לִזְכּוֹר!
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 This day for all generations, in the month of shining light[foot]Ziv – Biblical name for the month of Iyyar. See I Kings 6:1[/foot]&nbsp; 
 Designated for a second festival so it can be remembered.
 </div></td>
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 צַדִּיקֵי הָאֲנַשִׁים טֻמְּאוּ בִּשְׁבִיל נָבוֹן.
 (צָפוּ כׇּל עַצְמוֹתָיו כִּי אִתָּם פָּקַד לִטְמוֹן.)
@@ -33,7 +33,7 @@ Designated for a second festival so it can be remembered.
 	יוֹם זֶה...
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 The righteous of the people were impure for the sake of the intelligent one[foot]Namely, Joseph. Sukkah 25b records a tradition that the men in the Numbers 9 passage were carrying his coffin.[/foot]&nbsp; 
 (As all his bones floated up,[foot]A tradition in the Mekhilta d’Rabbi Yishmael 13:19 and Sotah 13a records that Joseph’s coffin was made of metal, and sunk in the Nile, but when Moses reminded him that the time to fulfill the oath of Genesis 50:25 had arrived, the coffin floated up to the top of the river.[/foot] since with them he swore to be buried)
 They were purified after midnight,[foot]By which point one is no longer allowed to consume the Pesaḥ sacrifice[/foot] but they still have a desire –
@@ -44,7 +44,7 @@ This day…
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 חָנוּן בְּרֹב חַסְדּוֹ יָעַד לָהֶם מֹעֵד;
 חָגִיגָה לְכׇל הָיָה טָמֵא לְהִוָּעֵד,
@@ -54,7 +54,7 @@ This day…
 יוֹם זֶה...
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 The Merciful, in great lovingkindness, set for them a time
 A small festival, for all who were impure, to be designated 
 Returning, if far away, every man will testify as a witness
@@ -65,7 +65,7 @@ A law forever and ever, from being cut off God will exempt![foot]See the Mishnah
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 קָרֵב הַיּוֹם הָהוּא, בְּאֶרֶץ קׇדְשְׁךָ,
 קׇרְבָּנְךָ יֻקְרַב, בְּמַעֲמָדְךָ!
@@ -75,7 +75,7 @@ A law forever and ever, from being cut off God will exempt![foot]See the Mishnah
 יוֹם זֶה...
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 It draws near – that day, in the land of Your holiness,
 Your offering we will offer, in Your presence!
 Who called to the man[foot]Moses, in the original source for Pesaḥ Sheni - Numbers 9:8[/foot] that said, “Stand, and let me listen” –

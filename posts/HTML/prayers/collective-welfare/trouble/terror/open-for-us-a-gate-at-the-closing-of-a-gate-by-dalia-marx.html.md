@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation by Rabbi Moshe Silberschein (English)</th><th style="text-align: left;">Tanslation by Rabbi David Nelson (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

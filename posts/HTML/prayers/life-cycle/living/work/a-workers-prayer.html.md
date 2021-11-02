@@ -8,10 +8,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <hr />
 
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 יְהִי רָצוֹן מִלִּפְֿנֵי אָבִֽֿינוּ שֶׁבַּשָּׁמַֽיִם,‏
 בּוֹרְאֵֽנוּ, יוֹצְרֵֽנוּ, יוֹצֵר בְּרֵאשִׁיתֿ, הָאֻמָּן הָעֶלְיוֹן,‏
@@ -28,7 +28,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 וּלְהַגְֿדִּיל אֶתֿ דְּמוּתֿוֹ בְעוֹלָמוֹ.‏
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 May it be the will of our Father in Heaven —
 our Creator, our Molder, the Molder of all creation, the Supreme Artisan,
 as our Sages interpreted the verse “there is no Bedrock (<em>Tsur</em>) like our God”[foot]1 Samuel 2:2[/foot]&nbsp;
@@ -45,14 +45,14 @@ and magnify the divinity that lies at the essence of humanity in Gd’s world.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וִיהִי נֹֽעַם אֲדֹֿנָי אֱלֹהֵֽינוּ עָלֵֽינוּ
 וּמַעֲשֵׂה יָדֵֽֿינוּ כּוֹנֲנָה עָלֵֽינוּ
 וּמַעֲשֵׂה יָדֵֽֿינוּ כּוֹנֲנֵֽהוּ.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 May the pleasantness of the Lord our God be upon us,
 when Gd establishes the work of our hands upon our efforts;

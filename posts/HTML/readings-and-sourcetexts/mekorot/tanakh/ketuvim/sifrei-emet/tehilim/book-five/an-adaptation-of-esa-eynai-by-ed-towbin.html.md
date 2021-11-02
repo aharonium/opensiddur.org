@@ -20,8 +20,8 @@ This variation is designed to allow the words to be sung, with some adjustments,
 
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;">Hebrew</th><th>Transliteration</th><th style="text-align: left;">English</th></tr></thead>
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
+<thead><tr><th id="x" style="text-align: right;">Hebrew</th><th>Transliteration (Romanized Hebrew)</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="25%">
 <div class="liturgy" lang="he">
@@ -39,7 +39,7 @@ This variation is designed to allow the words to be sung, with some adjustments,
 </span></div></td>
  
 <td style="vertical-align:top;" width="36%">
-<div class="english" lang="en">
+<div class="romanized-transliteration" lang="he">
 Esa eynay el makom-hazeh
 me’ayin yavo ezri
 &nbsp;

@@ -7,10 +7,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 בָּר֖וּךְ יְהוָ֥ה לְ֝עוֹלָ֗ם אָ֘מֵ֥ן ׀ וְאָמֵֽן׃ <span class="citation">(תהלים פט:נג)</span>
 בָּ֘ר֤וּךְ יְהוָ֨ה ׀ מִצִּיּ֗וֹן 
@@ -18,7 +18,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 יְֽרוּשָׁלִָ֗ם
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Barukh Yah always, <em>Amen</em>, <em>Amen</em>.[foot]Psalms 89:53[/foot]
 From Tsiyyon,
@@ -27,7 +27,7 @@ in Yerushalayim,
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הַֽלְלוּ־יָֽהּ׃ <span class="citation">(תהלים קלה:כא)</span>
 בָּר֤וּךְ ׀ יְהוָ֣ה אֱ֭לֹהִים 
@@ -35,7 +35,7 @@ in Yerushalayim,
 עֹשֵׂ֖ה נִפְלָא֣וֹת לְבַדּֽוֹ׃ <span class="citation">(תהלים עב:יח)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 We send our Hallelu-Yah.[foot]Psalms 135:21[/foot]
 Barukh, too, to you, Yah,
@@ -44,7 +44,7 @@ Who alone, does amazing things.[foot]Psalms 72:18[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וּבָר֤וּךְ ׀ שֵׁ֥ם כְּבוֹד֗וֹ 
 לְע֫וֹלָ֥ם וְיִמָּלֵ֣א כְ֭בוֹדוֹ 
@@ -52,7 +52,7 @@ Who alone, does amazing things.[foot]Psalms 72:18[/foot]
 אָ֘מֵ֥ן ׀ וְאָמֵֽן׃ <span class="citation">(תהלים עב:יט)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 May the glorious Presence,
 Governing numberless worlds,

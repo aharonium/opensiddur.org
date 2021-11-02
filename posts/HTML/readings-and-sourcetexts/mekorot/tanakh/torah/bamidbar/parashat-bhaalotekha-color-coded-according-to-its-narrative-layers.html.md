@@ -29,7 +29,7 @@ The kernel of biblical text 'E' is absent from this parashah.
 Parashat b'ha-Alotekha <span class="citation">(Numbers 8:1-12:16)</span> in the annual Torah reading cycle is the third parashah in Sefer b'Midbar. It is preceded by parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-bamidbar/parashat-naso/parashat-naso-color-coded-according-to-its-narrative-layers/">Naso</a> <span class="citation">(Numbers 4:21-7:89)</span>. Parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-bamidbar/parashat-shlah/parashat-shlah-color-coded-according-to-its-narrative-layers/">Shlaḥ</a> <span class="citation">(Numbers 13:1-15:41)</span> follows it. 
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

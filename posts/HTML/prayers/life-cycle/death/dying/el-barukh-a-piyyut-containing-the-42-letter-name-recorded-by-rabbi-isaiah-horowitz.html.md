@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Initials (Hebrew)</th><th style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">English (translation)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="16%">
@@ -22,7 +22,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 יִרְאֶה תּוֹם צִדְקוֹתָיו
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Blessed great El --
 recognize his perfect righteousness.
 </td></tr>
@@ -40,7 +40,7 @@ recognize his perfect righteousness.
 שׁוּר טוֹהַר נַפְשׁוֹ
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Compassionate holy Elyon --
 notice the purity of his soul.
 </td></tr>
@@ -58,7 +58,7 @@ notice the purity of his soul.
 יְגַדֵל כֹּחַ שְׁמִירָתוֹ
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Please, distinguished great One --
 increase the force that guards him.
 </td></tr>
@@ -76,7 +76,7 @@ increase the force that guards him.
 צְדָקָה תָּמִיד גָמְלֵהוּ
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Love him with the mercy of the pure One.
 Constantly reward him with righteousness.
 </td></tr>
@@ -94,7 +94,7 @@ Constantly reward him with righteousness.
 טְהַר נַפְשׁוֹ עֶלְיוֹן
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Holy blessed Life -- 
 purify his soul, Elyon.
 </td></tr>
@@ -112,7 +112,7 @@ purify his soul, Elyon.
 פְּדוּתֶךָ זָךְ קָדוֹשׁ
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Yah, reveal to the son 
 you redeemed -- holy, pure 
 </td></tr>
@@ -130,7 +130,7 @@ you redeemed -- holy, pure
 צֶדֶק יוֹשֶׁר תּוּמֶיךָ
 </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 abiding since primordial time:
 righteous, your integral innocence/simplicity.
 </div></td></tr>

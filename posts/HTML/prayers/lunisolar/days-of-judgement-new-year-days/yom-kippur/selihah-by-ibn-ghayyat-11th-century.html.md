@@ -11,11 +11,11 @@ The following love poem is one of the Seliḥot recited between Rosh Hashanah an
 
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֵלְכָה וְאָשׁוּבָה אֶל־אִישִׁי הָרִאשׁוֹן.
 אֲשֶׁר מֵאָז נְצָרַנִי כְאִישׁוֹן.
@@ -23,7 +23,7 @@ The following love poem is one of the Seliḥot recited between Rosh Hashanah an
 בְּזָכְרִי בוֹ אֵינֶנּוּ מַנִּיחַ לִי לִישׁוֹן:
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 I must return to my very first lover,
 Like an eye's pupil He kept me safe,
 Tall is my beloved like a cedar,
@@ -31,7 +31,7 @@ I can't sleep when I think of Him.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 גְּאָלַנִי בִּזְרֹעַ מִבֵּין קְדֵשִׁים.
 גַּם כְּלָלַנִי יֹפִי וְכֵלִים חֲדָשִׁים.
@@ -39,7 +39,7 @@ I can't sleep when I think of Him.
 דִּבְּקַנִי אֶצְלוֹ בִּכְתֻבָּה וְקִדּוּשִׁים:
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 How He rescued me from vile hands,
 How He wed me in all new robes,
 Speaking to me in holy words,
@@ -47,7 +47,7 @@ Honoring me with sacred pact.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הִרְבָּה מֹהַר וּמִקְנֶה וְקִנְיָן.
 הִגְדִּיל הַשִׂמְחָה בְּכָל־עִנְיָן.
@@ -55,7 +55,7 @@ Honoring me with sacred pact.
 וּמָסַר לְשָׁרְתֵנִי עֲלָמוֹת אֵין מִנְיָן:
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Endowering me with ample boon,
 Amidst many joys, delights supreme,
 Our tryst He stocked for intimacy,
@@ -63,7 +63,7 @@ Countless lasses in waiting He set to serve me.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 זֶבַח הֵכִין ושִׁלֵּם נְדָרָיו.
 זְבָדַנִי זֶבֶד טוֹב בַּחֲדָרָיו.
@@ -71,7 +71,7 @@ Countless lasses in waiting He set to serve me.
 חֲתָנִי הַמֶּלֶךְ הֱבִיאַנִי חֲדָרָיו:
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 The choicest foods to fulfill His pledge,
 In His inner chambers He cleaved to me,
 While in the courtyards they spiced the air,
@@ -79,7 +79,7 @@ My Royal Lover took me into His chambers.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 טָבַלְתִּי וּבָאתִי בַּעְדִי עֲדָיִים.
 טַהֲרוֹתַי נָתְנוּ רֵיחַ דוּדָאִים.
@@ -87,7 +87,7 @@ My Royal Lover took me into His chambers.
 יְמִינוֹ חִבְּקַנִי חִבּוּק יָדָיִם:
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 And I, bathed,
 To purity my scent arousing,
 He mounted our couch and between my breasts,
@@ -95,7 +95,7 @@ He laid, embraced me and held me...
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 כִּמְעַט רֶגַע אִירַע דָּבָר.
 כָּבוֹד הֵמִיר וְחֹק חַק שָׁבַר.
@@ -103,7 +103,7 @@ He laid, embraced me and held me...
 לַצְתִּי וְאַצְתִּי וָדוֹדִי חָמַק עָבָר:
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 And in the wink of an eye it happened,
 All broken - betrayed -
 As I went off with attitude defiant,
@@ -111,7 +111,7 @@ Mocking, and dazed, my Lover, now disengaged, was gone.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מֵעַי הָמוּ לְדוֹדִי קָנַנִי.
 מַה־לִּידִידִי בִּטֵּל אֲשֶׁר הִתְנַנִי.
@@ -119,7 +119,7 @@ Mocking, and dazed, my Lover, now disengaged, was gone.
 נְאֻם בִּקַּשְׁתִּיו וְלֹא מְצָאתִיו קְרָאתִיו וְלֹא עָנָנִי.
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 My guts wrenched, keening for my Dear One,
 What was it that I upset? What drove Him away?
 He is gone now and no comfort left me,
@@ -127,7 +127,7 @@ How I sought Him to no avail, called Him to no response.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 סוּרָה אֲדוֹנִי סוּרָה חִנַּנְתִּיו כַּמֶּה.
 סֹב וְלֹא פָנָה הוֹחַלְתִּי עַד מֶה.
@@ -135,7 +135,7 @@ How I sought Him to no avail, called Him to no response.
 עֵינִי נִגְּרָה וְלֹא תִדְמֶה:
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 “Do turn back, My Lord,” I wailed,
 He had gone and I waited in vain hope,
 While my heart cried like a sad violin,
@@ -143,7 +143,7 @@ My eyes in tears that do not dry.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 פִּקְפֵּק בְּכָבוֹד לְמוֹרַד עֲנִיּוּת.
 פִּתְחֵי נִדָּה שָׂם נְקִיּוּת.
@@ -151,7 +151,7 @@ My eyes in tears that do not dry.
 צְרוּרָה צְעוּרָה אַלְמְנוּת חַיּוּת:
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 I lost my dignity, I felt degraded,
 Besmirched and defiled, foul and dirty,
 Thrown, tossed about
@@ -159,7 +159,7 @@ And despised, like a young widow.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 קַוֹה קִוִּיתִי יְיָ יוֹם נֶחָמָה.
 קִרְבַת נְטוּשָׁה בְּאַף וּבְחֵמָה.
@@ -167,7 +167,7 @@ And despised, like a young widow.
 רַחֵם תְּרַחֵם אֶת־לֹא רֻחָמָה:
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 I hoped for the day of comfort,
 My vulnerable need has turned to frustration,
 Flames of longing have become a wall,
@@ -175,7 +175,7 @@ O mercy, please, for one not pitied.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 שׁוּבִי שׁוּבִי הַשּׁוּלַמִּית מִבֵּין שֹׁסַיִךְ.
 שׁוּבִי וְנֶחֱזֶה־בָּךְ יֹאמַר עֹשַׂיִךְ.
@@ -183,7 +183,7 @@ O mercy, please, for one not pitied.
 תְּעוֹרֵר אַהֲבָתֵךְ כִּי בֹעֲלַיִךְ עֹשָׂיִךְ:
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Come back, come back, O Shulamit, freed from your hurt,
 From your desolation, your Maker seeks to behold you,
 Come quick lift your feet and swiftly come from Lebanon
@@ -191,7 +191,7 @@ We are reconciled, arouse your love again your Lover will restore you,
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 יָדֹעַ תֵדַע פְּנֵי צֹאנֶךָ.
 צִיּוֹן מִכְלַל יֹפִי הֵטִיבָה בִרְצוֹנֶךָ.
@@ -199,7 +199,7 @@ We are reconciled, arouse your love again your Lover will restore you,
 קוֹלִי שָׁמָעְתָּ אַל־תַּעְלֵם אָזְנֶךָ:
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 You shall know clearly the face of Your flock
 Zion, the glorious, grant her the goodness of Your desire
 Your devotees will sing and acclaim the adventure

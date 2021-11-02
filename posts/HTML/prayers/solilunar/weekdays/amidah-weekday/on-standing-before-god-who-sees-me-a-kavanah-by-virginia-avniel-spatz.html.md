@@ -7,15 +7,15 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Contribute a translation</th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 The Amidah's choreography 
 is designed to call to mind 
@@ -24,12 +24,12 @@ so as to invoke the proper "stance."
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Consider, though, the variety of God-communications depicted just in the book of Genesis: 
 God talks to Adam and Eve, 
@@ -39,45 +39,45 @@ and to Avimelekh.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 God even talks to the serpent. 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וַיִּשְׁמַ֣ע אֱלֹהִים֮ אֶת־ק֣וֹל הַנַּעַר֒ וַיִּקְרָא֩ מַלְאַ֨ךְ אֱלֹהִ֤ים׀ אֶל־הָגָר֙ מִן־הַשָּׁמַ֔יִם וַיֹּ֥אמֶר לָ֖הּ מַה־לָּ֣ךְ הָגָ֑ר אַל־תִּ֣ירְאִ֔י כִּֽי־שָׁמַ֧ע אֱלֹהִ֛ים אֶל־ק֥וֹל הַנַּ֖עַר בַּאֲשֶׁ֥ר הוּא־שָֽׁם׃ <span class="citation">(בראשית כא:יז)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 God heeds Ishmael "where he is." 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וַתִּקְרָ֤א שֵׁם־יְהוָה֙ הַדֹּבֵ֣ר אֵלֶ֔יהָ אַתָּ֖ה אֵ֣ל רֳאִ֑י כִּ֣י אָֽמְרָ֗ה הֲגַ֥ם הֲלֹ֛ם רָאִ֖יתִי אַחֲרֵ֥י רֹאִֽי׃ <span class="citation">(בראשית טז:יג)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And Hagar names "YHVH who spoke to her: 'God-who-sees-me'."
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וַֽיִּשְׁמְע֞וּ אֶת־ק֨וֹל יְהוָ֧ה אֱלֹהִ֛ים מִתְהַלֵּ֥ךְ בַּגָּ֖ן לְר֣וּחַ הַיּ֑וֹם וַיִּתְחַבֵּ֨א הָֽאָדָ֜ם וְאִשְׁתּ֗וֹ מִפְּנֵי֙ יְהוָ֣ה אֱלֹהִ֔ים בְּת֖וֹךְ עֵ֥ץ הַגָּֽן׃ <span class="citation">(בראשית ג:ח)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 So, in stepping up to greet God, 
 it is sometimes fruitful to picture, 

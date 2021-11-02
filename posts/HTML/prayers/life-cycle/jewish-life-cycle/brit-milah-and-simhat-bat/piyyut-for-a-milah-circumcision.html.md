@@ -7,10 +7,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 צִפּוֹרָה צוֹר בְּיָדָה לָקְחָה
 וּבְרִית אֵל בִּבְשַׂר בְּנָה נֶחְתְּמָה
@@ -20,7 +20,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 עוּרִי עוּרִי שִׁיר דַבֵּרִי, כְּבוֹד ה׳ עָלַיִךְ נִגְלָה.
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Tzipporah took a flint in her hand
 and sealed God’s covenant in her son’s flesh
 the Destroyer was defeated with the cutting of the foreskin
@@ -31,7 +31,7 @@ Awaken and sing, the glory of God is revealed upon you.
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 אוֹת בְּרִית קוֹדֶשׁ בַּמָלוֹן נֶחְתַּם
 תְּשׁוּבַת אֵל לִשְׁאֵלַת עָנָיו וָתָּם
@@ -41,7 +41,7 @@ Awaken and sing, the glory of God is revealed upon you.
 עוּרִי עוּרִי שִׁיר דַבֵּרִי, כְּבוֹד ה׳ עָלַיִךְ נִגְלָה.
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 The sign of the holy covenant was sealed at the night-camp
 God’s answer to the question of the Humble and Pure one:
 “will the hand of the enemy loosen before the people are choked?”
@@ -52,7 +52,7 @@ Awaken and sing, the glory of God is revealed upon you.
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 הַגוֹרָל נִסְתָּם בְּחֶשְׁכַת לֵיל
 ‮"‬וְהוֹצֵאתִי וְהִצַלְתִּי‮," ‬פַָּנָה אֵל
@@ -62,7 +62,7 @@ Awaken and sing, the glory of God is revealed upon you.
 עוּרִי עוּרִי שִׁיר דַבֵּרִי, כְּבוֹד ה׳ עָלַיִךְ נִגְלָה.
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 The fate was sealed in the darkness of the night
 “And I will take you out and I will save you,”[foot]Exodus 6:6[/foot] God said then
 the end of days was hastened and the life force passed
@@ -73,7 +73,7 @@ Awaken and sing, the glory of God is revealed upon you.
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 בֹּקֶר וְנוֹדָע‮, ‬שְׁחַרְחוֹרֶת וְיָפָה‮,‬
 לְאֵם וּלְאָחוֹת לַרוֹעֶה נִהְיָיתָּה‮.‬
@@ -83,7 +83,7 @@ Awaken and sing, the glory of God is revealed upon you.
 עוּרִי עוּרִי שִׁיר דַבֵּרִי, כְּבוֹד ה׳ עָלַיִךְ נִגְלָה.
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 In the morning it was known, the dark and comely one
 had become as mother and sister to the shepherd
 she was pulled, she ran, this awakener of love

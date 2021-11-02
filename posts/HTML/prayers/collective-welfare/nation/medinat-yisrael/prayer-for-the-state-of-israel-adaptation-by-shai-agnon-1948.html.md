@@ -7,10 +7,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew (source)</th><th style="text-align: left;">English (translation)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אבינו שבשמים, 
 השקיפה ממעון קדשך 
@@ -26,7 +26,7 @@ the beginning of our redemption.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הגן עליה באברת חסדך 
 ופרוס עליה סכת שלומך, 
@@ -44,7 +44,7 @@ and correct them with your good counsel.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 שומר ישראל 
 חזק את ידי מגיני ישראל 
@@ -58,7 +58,7 @@ and crown them with a wreath of victory.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 ברך את עמך ישראל בארץ ובתפוצות. 
 צורנו וגואלנו 
@@ -74,7 +74,7 @@ to Tsiyon, your resplendent sanctuary.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מהרה יאמנו דברי נביאך 
 לישראל עם קדשך 

@@ -7,23 +7,23 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אַתָּה ה׳, מָגֵן בַּעֲדִי
 תֹּאחַז יְמִינְךָ לְסַעֲדִי.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 You, Adonai—my Defender[foot]Psalms 3:4.[/foot]—
 hold with Your right hand[foot]Cf. Psalms 139:10.[/foot] to support me.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֶשְׁאַל, אֱלֹהַי, מִמְּךָ דְרוֹר
 לָצֵאת לְחׇפְשִׁי מֵעֳנִי וּבוֹר,
@@ -31,7 +31,7 @@ hold with Your right hand[foot]Cf. Psalms 139:10.[/foot] to support me.
 וּבְדַרְכְּךָ, יָהּ, תָּכִין צַעֲדִי,
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Of you—my God—I ask for the liberty 
 to go free from impoverishment and baseness.
@@ -40,7 +40,7 @@ and prep my step along Your way, Yah.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 נָא חִישׁ וְשַׁנֵּס עֹז קִנְאָתְךָ,
 וּלְבַשׁ כְּשִׁרְיוֹן הוֹד צִדְקָתְךָ
@@ -48,7 +48,7 @@ and prep my step along Your way, Yah.
 וּגְאַל עֲדָתִי מִיַּד שׁוֹדְדִי!
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Please—hasten, and bind the glory of Your zealousness, 
 and wear the glory of Your righteousness like a tune-ic.[foot]Shawat’s Hebrew <span class="hebrew" lang="he">כְּשִׁרְיוֹן</span> (keshiryon) does not match up with Isaiah’s original <span class="hebrew" lang="he">כְּשִׁרְיָן</span> (keshiryan) in Isaiah 59:17. The exact meaning of each word is elusive, but Isaiah’s term usually refers to some sort of garb, but Shawat’s might be a bit more musical in sound, even if ultimately God is being asked to wear something.[/foot]&nbsp; 
@@ -57,7 +57,7 @@ and redeem my congregation from the hand of the force that pillages me.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 יָהּ, תֵּן מְהֵרָה יָד בְּאוֹיְבִי,
 הוֹצֵא הֲמוֹנַי מִכְּלוּא שְׁבִי!
@@ -65,7 +65,7 @@ and redeem my congregation from the hand of the force that pillages me.
 אָז יִרְבְּצוּ שָׁם נָמֵר עִם גְּדִי.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Yah, quickly prop a hand by my enemy; 
 release my multitudes from the prison[foot]Jeremiah 37:4.[/foot] of captivity!
@@ -74,7 +74,7 @@ then the leopard and the goat shall crouch there together.[foot]Isaiah 11:6.[/fo
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 פָּנִים בְּפָנִים יִרְאוּ הוֹדְךָ
 חוֹפֵף עֲלֵיהֶם תּוֹךְ מְעוֹנְךָ,
@@ -82,7 +82,7 @@ then the leopard and the goat shall crouch there together.[foot]Isaiah 11:6.[/fo
 יִרְאֶה וְיֵבוֹשׁ צָר וּבוֹגְדִי.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Let them see Your glory face-to-face[foot]Deuteronomy 5:4.[/foot]; 
 shield them[foot]Deuteronomy 33:12.[/foot] amidst Your abode.
@@ -91,7 +91,7 @@ let the enemy[foot]According to one manuscript, “the enemy” should be “my 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 רָצוֹן כְּצִנָּה חִישׁ לְעַטְּרִי,
 שָׁלוֹם יַעֲשֶׂה לִי גַם לְעוֹזְרִי,
@@ -99,7 +99,7 @@ let the enemy[foot]According to one manuscript, “the enemy” should be “my 
 אָז יִהְיֶה צַר רָץ לְכַבְּדִי.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Let the Will[foot]The word “Will” (<span class="hebrew" lang="he">רָצוֹן</span>, ratson) is a synonym in Kabbalah (<span class="hebrew" lang="he">קַבָּלָה</span>, Jewish mysticism) for God’s most ineffable and least tangible aspect: Keter (<span class="hebrew" lang="he">כֶּֽתֶר</span>, “Crown”).[/foot] be a shield to coronate me,[foot]Cf. Psalm 5:13.[/foot]&nbsp;  
 granting peace to me as well as to my helper.[foot]I Chronicles 12:19.[/foot]&nbsp; 
@@ -108,7 +108,7 @@ then will the travail traverse to revere me.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 גִּילָה אֲעוֹרֵר יוֹם, לְבֵיתְךָ
 תָּשִׁיב שְׁבוּת אֶת־עַם עֲדָתְךָ
@@ -116,7 +116,7 @@ then will the travail traverse to revere me.
 שָׁם יְהוֹדְךָ צוּר מְעוֹדְדִי,
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 I will arouse joy on the day 
 that You return the nation of Your congregation to Your house—
@@ -125,7 +125,7 @@ That nation will there thank You, rock who encourages me.[foot]Cf. Psalms 147:6.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 יָחִיד, חֲרוֹנְךָ עַל אֱדֹם שְׁפֹךְ,
 וַעְרָב כְּשַׁבְּלוּל תֶּֽמֶס יַהֲלֹךְ,
@@ -133,7 +133,7 @@ That nation will there thank You, rock who encourages me.[foot]Cf. Psalms 147:6.
 יֵלְכוּ גְאוּלִים לְבֵית מוֹעֲדִי!
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Singular One, pour out Your wrath over Edom, 
 and emulsify, (un)like a snail melting and beyond.[foot]Psalms 58:9.[/foot]
@@ -142,7 +142,7 @@ let them go, redeemed, towards the house of my meeting.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 חָזָק, עֲנֵנִי מִזְּבוּלְךָ
 שִׁירִי תְּמוּר שַׁי קַח בְּחַסְדְּךָ
@@ -150,7 +150,7 @@ let them go, redeemed, towards the house of my meeting.
 תִּשְׁכֹּן סְבִיבִי, צוּר מְלַמְּדִי!
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Strong one! Answer me from Your heavens; 
 with lovingkindness, take my song in exchange for a sacrificial gift.[foot]Cf. Psalms 69:30–31.[/foot]

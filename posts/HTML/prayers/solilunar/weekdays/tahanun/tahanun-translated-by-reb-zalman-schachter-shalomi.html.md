@@ -7,10 +7,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 רִבּוֹנוֹ שֶׁל עוֹלָם!
 הַנְּשָׁמָה לָךְ
@@ -29,7 +29,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 My God!
 my soul is Yours
@@ -49,7 +49,7 @@ for there is so much we need to be forgiven for.
 </td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 סְלַח לָֽנוּ אָבִֽינוּ,
 כִּי בְרוֹב אִוַּלְתֵּֽנוּ שָׁגִֽינוּ,
@@ -58,7 +58,7 @@ for there is so much we need to be forgiven for.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Pardon us our Father,
 our errors are so great;
@@ -68,7 +68,7 @@ many are our mistakes
 </td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֱלֹהֵֽינוּ וֵאלֹהֵי אֲבוֹתֵֽינוּ,
 סְלַח וּמְחַל לַעֲוֹנוֹתֵֽינוּ.
@@ -84,7 +84,7 @@ many are our mistakes
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Our God and our parents’ God,
 pardon our sins
@@ -101,7 +101,7 @@ as Your Torah prescribes:
 </td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וּמָל יְיָ אֱלֹהֶֽיךָ
 אֶת לְבָבְךָ,
@@ -112,7 +112,7 @@ as Your Torah prescribes:
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 "and YaH Your God will sensitize
 Your heart
@@ -124,7 +124,7 @@ to make Your life meaningful"[foot]Deuteronomy 30:6.[/foot]
 </td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 בָּאתִי אֵלֶֽיךָ
 מִתּוֹך רָצוֹן לְעָבְדְךָ.
@@ -137,7 +137,7 @@ to make Your life meaningful"[foot]Deuteronomy 30:6.[/foot]
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Dear God. I approach You
 from the desire to serve You
@@ -151,7 +151,7 @@ will be balanced and right.
 </td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְרֵאשִׁית־כֹּל
 עָזְרֵנִי לִמְחוֹל לְכָל מִי
@@ -171,7 +171,7 @@ will be balanced and right.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 To begin with,
 help me to forgive anyone
@@ -192,7 +192,7 @@ let no one be punished on my account.
 </td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֱלֹהֵֽינוּ וֵאלֹהֵי אֲבוֹתֵינוּ,
 תָּבֹא לְפָנֶֽיךָ תְּפִלָּתֵֽנוּ,
@@ -207,7 +207,7 @@ let no one be punished on my account.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 My God and my parents’ God
 may our prayer come before You
@@ -223,7 +223,7 @@ and we have sinned
 </td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 יְהִי רָצוֹן מִלְּפָנֶֽיךָ
 יְיָ אֱלֹהַי וֵאלֹהֵי אֲבוֹתַי,
@@ -243,7 +243,7 @@ and we have sinned
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Help us
 with God’s help

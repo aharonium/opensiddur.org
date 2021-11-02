@@ -2,7 +2,7 @@
 <head></head>
 <body>
 Title: און קאבﬞריטיקו | Un Kavritiko :: a Judezmo (Ladino) Translation of Ḥad Gadya<br />
-Primary contributor: isaac-gantwerk.mayer<br />
+Primary contributor: isaac-gantwerk-mayer<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=24616">http://opensiddur.org/?p=24616</a>
 <p />
 <hr />
@@ -13,7 +13,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Aramaic (source)</th><th style="text-align: right;">Translation (Judezmo/Ladino)</th><th style="text-align: left;">Romanization (Judezmo/Ladino)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="25%">

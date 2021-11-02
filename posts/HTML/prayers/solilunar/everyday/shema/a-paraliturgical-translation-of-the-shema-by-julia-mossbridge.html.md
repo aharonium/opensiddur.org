@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 This is an alternative translation of the long version of the shema. I wrote it for a friend who died — it is dedicated to him — <a href="https://www.legacy.com/obituaries/name/william-levin-obituary?pid=782316">Dr. William S. Levin</a>. 
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Paraliturgical Interpretation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

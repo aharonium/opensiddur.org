@@ -29,7 +29,7 @@ The kernel of biblical text 'E,' its early supplemental layer 'J', and its later
 Parashat b'Ḥuqotai (Leviticus 26:3–27:34) in the annual Torah reading cycle concludes Sefer Vayiqra. It is preceded by parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-vayiqra/parashat-bhar/parashat-bhar-color-coded-according-to-its-narrative-layers/">b'Har</a> (Leviticus 25:1-26:2) which is combined with it on Jewish leap years. Parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-bamidbar/parashat-bamidbar/parashat-bmidbar-color-coded-according-to-its-narrative-layers/">b'Midbar</a> (Numbers 1:1–4:20) follows it. 
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

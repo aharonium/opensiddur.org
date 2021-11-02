@@ -15,11 +15,11 @@ In transcribing Rabbi Markus's cantillation into digital text, I had to Hebraici
 
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Judeo-English (transliteration with cantillation)</th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="hebraicized-english" lang="en">
 א֤ײַ סײ טוּ יוּ טו֨דײ, מ֣ײַ פרע֔נדז, דֿאַט אין ס֥פּײַט אָפ דֿע דיפיקאָל֖טיז [אנד פראָסטר֥ײשאָנס אָפ דֿע מומ֑ענט], א֥ײַ סטיל ה֖אב א דרים׃ איט א֧יז א דר֛ים דיפּ֥לי רוט֖עד אין דֿ֥ע אמעריק֖אן דרים׃
 </span></div></td>
@@ -29,7 +29,7 @@ I say to you today, my friends, so even though we face the difficulties [and fru
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="hebraicized-english" lang="en">
 אײַ ה֤אב א דר֨ים דֿאט װ֣אָן ד֔ײ דֿיס נ֥ײשן װיל רײַז אָ֖פּ אנד ליב אָ֑וט דֿע ט֧רוּ מינ֣ינג אָפ איטס קר֗יד - "װי האָ֤לד דֿיס טר֨וּתֿס טוּ בּי ס֣עלפ עביד֔נט; דֿאט א֥ל מ֖ען אר קריעֶײט֥ד איקװאל"׃
 </span></div></td>
@@ -39,7 +39,7 @@ I have a dream that one day this nation will rise up and live out the true meani
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="hebraicized-english" lang="en">
 אײַ ה֨אב א דר֜ים דֿאט װ֧אָן ד֛ײ אָן דֿע ר֥עד הילז אָפ גֿאָרגֿ֖א דֿע ס֣אָנז אָפ פאָרמר סל֑ײבז אנד דֿע ס֤אָנז אָפ פאָרמר סל֣ײב אָװנרז װיל בּי ע֥ײבּל טוּ ס֖יט דאָװן טוּג֑עדֿר אַת א ט֖ײבּל אַפ בּראָדֿרהוּד׃
 </span></div></td>
@@ -49,7 +49,7 @@ I have a dream that one day on the red hills of Georgia the sons of former slave
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="hebraicized-english" lang="en">
 אײַ ה֠אב א֣ דר֡ים דֿאט מ֨ײַ...שֿילדר֜ען װיל װ֣אָן ד֗ײ ל֤יב אין א נײש֨ן װײר דֿ֣ײ װיל נאט בּי גֿאָ֔גֿד בּײַ דֿע ק֥אָלר אָפ דֿײר סק֖ין בּאָט בּײַ דֿע קאנט֣ענט אָפ דֿײר קארעק֑טר. אײַ ה֥אב א דר֖ים טודײ׃
 </span></div></td>
@@ -59,7 +59,7 @@ I have a dream that my...children will one day live in a nation where they will 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="hebraicized-english" lang="en">
 אײַ ה֣אב א דר֞ים דֿאט װ֣אָן ד֡ײ דֿע סט֣ײט אָפ אלאבּאמא....[װ֨יל בּי טראנזפאָרמ֜ד אינטוּ א סיט֧יועײשן װײר] ליטל בּל֛אק בּױז אנד  בּל֥אק גרל֖ז װיל בּי עײבּ֥ל טוּ גֿאָין האנ֑דס װיתֿ ליט֤ל װײַט בּ֨ױז אנד װ֣ײַט גר֔לז [אנד װ֥אק טוגעדֿ֖ר] אז סיסט֥ערס אנד בּראָדֿרס׃
 </span></div></td>
@@ -69,7 +69,7 @@ I have a dream that one day down in Alabama....[will be transformed into a situa
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="hebraicized-english" lang="en">
 אײַ ה֥אב א דר֖ים טודײ׃ אײַ ה֧אב א דר֛ים דֿאט װ֥אָן ד֖ײ עברי ב֥אלי שאל בּי עקס֑אלטד, עברי ה֨יל אנד מאָנט֜ען שאל בּי מײד לאָ֗, דֿע ר֤אפ פּלײסעז װיל בּי מ֣ײד פּל֔ײן, אנד דֿע קר֨וּקעד פּ֡לײסז֜ װ֥יל בּי מ֖ײד סטר֑ײט, אנד דֿע גל֤אָרי אפ דֿע לאָר֨ד שאל בּ֣י ריב֔ילד, אנד א֥ל פלעש שאל ס֖י איט טוגעדֿר׃
 </span></div></td>
@@ -79,7 +79,7 @@ I have a dream today. I have a dream that one day every valley shall be exhalted
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="hebraicized-english" lang="en">
 דֿיס איז אָװר ה֡אָפּ ׀ דֿיס איז דֿע פ֗ײתֿ....[װיתֿ װ֤ישֿ] װי װיל בּי עײבּ֨ל טוּ טראנספאָר֔ם דֿע גֿײנ֥גלינג דיסקאָר֖דס אָפ אָװר נײש֑ן אינטוּ א בּיוּט֧יפוּל סימ֛פאָני אָפ֖ בּראָדֿרהוּד׃ 
 </span></div></td>
@@ -89,7 +89,7 @@ This is our hope. This is the faith....[with which] we will be able to transform
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="hebraicized-english" lang="en">
 װ֤יתֿ דֿיס פ֨ײתֿ װי װיל בּ֣י עײבּל טוּ װר֥ק טוּגעדֿ֖ר, טוּ פּר֥ײ טוּגעדֿ֑ר, טוּ סטר֧אגל טוּגעדֿ֛ר, טוּ ג֥אָ טוּ גֿ֖ײל טוגעדֿר, טוּ סט֥אנד אפּ פאָר פרידאָם טוגעדֿ֑ר, נאָװינ֥ג דֿאט װ֖י װיל בּי פ֥רי װאן דײ׃
 </span></div></td>
@@ -99,7 +99,7 @@ With this faith we will be able to work together, to pray together, to struggle 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="hebraicized-english" lang="en">
 דֿ֣יס װיל בּי דֿע ד֣ײ װען א֨ל אָפ גאטז שֿילד֜רען װיל בּי עײבּ֣ל טוּ סינ֣ג װיתֿ א נוּ מינ֗ינג, "מ֤ײַ קאנ֨טרי ט֣יס אפ דֿי֔ ס֥װיט לאנ֖ד אָפ ליבּ֑ערטי אָפ דֿ֖י אײַ סינג׃ ל֤אנד װ֨ײר מײַ פ֣אדֿרז ד֔ײַד, ל֥אנד אפ דֿ֖א פּילג֥רימז פּר֑ײַד פראָם עב֧רי מאָװנ֛טעסײַד ל֥עט פריד֖אָם רינג"׃
 </span></div></td>
@@ -109,7 +109,7 @@ This will be the day when all of God's children will be able to sing with new me
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="hebraicized-english" lang="en">
 ....װ֤ען װי [ל֨עט] פריד֣אָם רינ֔ג, װען װ֥י לעט איט רינ֖ג פראָם עברי ב֥ילעגֿ אנד עברי המ֑לעט, פראָם עברי סט֤ײט אנד עברי ס֨יטי, װי װ֣יל בּי עײבּ֔ל טוּ ספּ֧יד אָ֣פּ דֿאט ד֗ײ װען א֤ל אָפ גאטז שֿיל֨דרען, בּלאק מ֣ען אנד װ֔ײַט מען, גֿ֣וּז אנד גֿענ֔טײַלז, פּראָט֥עסטאנטס אנד קאדֿ֖אָליקס,  װיל בּי עײבּ֥ל טוּ גֿאָײן האנ֑דז א֣נד סינ֡ג אין דֿע װר֣דז אָפ דֿע אָלד ניגרוֹ ספּיר֗יטוּאל, "פרי א֥ט לאסט! פרי אט לאס֖ט! דֿײנק ג֥אָט אלמײטי, װי אר פרי אט לאסט!"׃
 </span></div></td>

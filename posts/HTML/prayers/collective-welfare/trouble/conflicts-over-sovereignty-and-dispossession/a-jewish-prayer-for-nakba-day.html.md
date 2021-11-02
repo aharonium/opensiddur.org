@@ -13,7 +13,7 @@ A prayer I wrote drawing on Jewish texts about exile and return, for our Palesti
 
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Translation (Arabic)</th><th style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr>
@@ -45,7 +45,7 @@ A prayer I wrote drawing on Jewish texts about exile and return, for our Palesti
  ושעומדים היום לאבד את בתיהם.
  </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Our God, and God of our ancestors,
 who answered Avraham when his son was bound on the altar,[foot]liturgy, days of awe.[/foot]&nbsp;
 who remembered Sarah’s prayers in her tent for a child,[foot]Genesis 21:1[/foot]&nbsp;
@@ -78,7 +78,7 @@ and those who are still at risk of losing their homes.[foot]Yizkor prayer for Na
 “ובששון" לעירם.
   </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 May their prayers be heard 
 so that families be re-united in the land of their ancestors, 
 and they can return in happiness to their land 
@@ -105,7 +105,7 @@ in the cities, in the villages, and outside the villages.
  וּבְחֶ֖סֶד וּֽבְרַחֲמִֽים.“
    </span></div></td>
 
-<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 May they dwell securely in the land,[foot]Leviticus 25:18[/foot] without fear of being uprooted, 
 and may they be free to go up to Your holy city[foot]A traditional name for Jerusalem that is identical to its Arabic name.[/foot]&nbsp;
 and may we all dwell together 
@@ -131,7 +131,7 @@ and with kindness and with mercy.[foot]Hosea 2:21 partial[/foot]&nbsp;
  ונאמר ”אמן“‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="50%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Help us all to have compassion for one another, 
 as it is written, “and I will take your heart of stone, 
 and replace it with a heart of flesh.”[foot]Ezekiel 26:36[/foot]&nbsp;

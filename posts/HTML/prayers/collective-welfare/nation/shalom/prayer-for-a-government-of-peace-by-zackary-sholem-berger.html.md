@@ -7,11 +7,11 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="width:100%;margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="width: 100%; margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: right;">Yiddish</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֵל אֱלֹהֵי הָרוּחוֹת לְכָל בָּשָׂר, 
 הֶכֵּר נָא אֶת רְצוֹנֵנוּ לַעֲשׂוֹת אֶת רְצוֹנֵךְ 
@@ -25,7 +25,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 כִּי אָנוּ דּוֹרְשִׁים אוֹתְךָ כַּבַּחֲצוֹת הַלַּיְלָה.
 </span></div></td> 
 
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="yiddish" lang="yi">
 גאָט פֿון אַלץ מיטן גײַסט פֿון לעבן, 
 דערקען אַז מיר באַמיִען זיך צו טאָן דײַן װילן 
@@ -39,7 +39,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 װײַל מיר זוכן דיך װי בײַ האַלבער נאַכט. 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 God of all life, 
 please know our intention to do your will 

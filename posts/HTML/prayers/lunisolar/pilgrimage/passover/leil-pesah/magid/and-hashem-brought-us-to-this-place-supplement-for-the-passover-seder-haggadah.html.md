@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 “One expounds (<em>doresh</em>) from ‘A wandering Aramean was my father’[foot]Deuteronomy 26:5.[/foot] until he finishes the whole story” <span class="citation">(Mishnah Pesaḥim 10:4)</span>. The verse Deuteronomy 26:9 completes that story, and together with some midrash it fulfills the obligation. Jews stopped saying it during our long exile, but now we must express our gratitude to God for gathering millions of our exiles in the State of Israel, where they and their children are exiles no more. The verse and its midrash fit into the Passover Haggadah after the ten plagues and the midrash on them, right before the song <em>Dayyenu</em>.
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
@@ -90,7 +90,7 @@ The Land of Israel Haggadah was contributed by Rabbi Seth (Avi) Kaddish from the
 
 <h3>Source(s)</h3>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Yiddish)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr>
@@ -16,7 +16,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 רבש״ע פאטר דר בארמיגר דר בארם זיך איבר אונז נעם אן אונזר גיבעט דען דו האסט גיהײסן דײן פאלק ישראל זאלין שופר בלאזין זײא זאלין פאר מישן דעם שטן אז ער זאל אויף אונז ניט קענן מקטרג זײן. דו האסט גיהײסין דײן פאלק ישראל בלאזן תקיעה שברים תרועה דיא ערסטע איז תקיעה דען תקיעה מאכט מען זײער גלאט אונ אײן גבויגן. אזו טוען מיר זיך אײן בײגין פר דיר אונ בעטן פאטר דער בארמיגר אז דער שטן זאל אויף אונז ניט מקטרג זײן. די אנדערע בלאזט מען שברים איז טײטש צו בראכין דרום טוען מיר צו ברעכן אונזרע הערצר אזו װיא אין תהלים שטײט (לב נשבר כו׳) אײן צו בראכין הארץ טוט גאט ניט פאר שמעהן אונ מיר זײנען אויף זיך מקבל אז מיר װעלין צו ברעכן דעם יצר הרע. דאש דריטי איז תרועה איז טײטש גישרײ אונ קלאג דרום טוא זיך דר בארימן איבר אונז פר מיש דעם שטן װאס איז אויף אונז מקטרג אז ער זאל ניט מקטרג זײן אונ עש זאל חס וחלילה ניט נגזר װערין אין אונזרע הײזר אײן קלאג אונ גשרײ אונ זאלסט ניט אװעק נעמן אונזרי קלײנע קינדר אונ דר בארעם זיך אין אונזר משפט דען דו טוסט הײנט אנטפלעקין דאס משפט׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Master of the Cosmos, merciful Father, have mercy on us, accept our plea. You have commanded your people Yisro’el to blow the shofar to confuse the Satan,[foot]Talmud Bavli, Rosh Hashanah 16b[/foot] so that they will not be able to accuse us. You have commanded your people Yisro’el to blow <em>teqiah</em>, <em>shvorim</em>, <em>tru’ah</em>. The first is tkiyeh. <em>Teqiah</em> is sounded smoothly and curved. Thus do we bow before you and pray, merciful Father, that the Satan may not accuse us. The next is <em>shvorim</em>, which means broken. Therefore we break our hearts, just as it is written in Tehilim: “Hashem does not reject a broken heart.”[foot]Psalms 51:19[/foot] And we accept the obligation to break the <em>yetser hara</em> (predatory inclination). The third is <em>tru’ah</em>, which means “cry and lament.” Therefore, have mercy upon us, confuse the Satan who accuses us, so that they will not be able to accuse us any more. And may a lamentation and an outcry - <em>ḥas v'ḥolilah</em> - not be decreed in our home. Do not take away our little children. Have mercy in judging us, for today you reveal our sentence.
 </div></td></tr>
 
@@ -36,7 +36,7 @@ Master of the Cosmos, if I am indeed guilty, let your attribute of mercy overpow
 צום ערשטן בעטן מיר אונזער מוטער שרה אז זיא זאל פאר אונז בעטין בשעת משפט אז מיר זאלין פרײא ארויש גײן פון דעם משפט דען השי״ת ב״ה האט איר מוסיף גיװעזין דעם ה׳ פון (שם הוי״ה ברוך שמו) מוזטו אויך האבין דיא מדה פון רחמים. דרום דער בארעם דיך אונזר מוטער אויף דײנע קינדער. אוב בפרט צו בעטן פר אונזערי קינדר זײא זאלין זיך ניט אפ שײדן פון אונז דו װײסט דאך װאול אז עש איז זײער ביטר אז מען נעמט אװעק אײן קינד פון דר מוטר װיא עס איז דיר גיװעזן אז מען האט אװעק גינומן דײן זון יצחק פון דיר האט דיר באנק גיטאן אונ הײנט האסטו צײט צו בעטן דען מען טוט איצונד בלאזן מיט אײן (שופר של איל) כדי ער זאל גידײנקען דעם זכות פון יצחק װאס ער האט זיך גילאזט בינדן װיא אײן שאף צו דר עקידה. דרום װערט דר שטן צו מישט אונ קאן איצונד אויף אונז ניט מקטרג זײן דרום האסטו איצונד צײט פר אונז צו בעטין אז עס זאל מתעורר װערין אויף אונז דיא מדה פון רחמים. 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 First, we beseech our mother Sarah that she pray for us at this hour of judgment, so that we may be judged innocent. Since Hashem, blessed be they, added the letter Hey from their name to hers,[foot]Genesis 17:15[/foot] so must she also have the attribute of mercy. Have mercy, our mother, on your children. Make a special plea that our children not be separated from us. You know full well how bitter it is when a child is taken away from its mother, as happened to you when your son Yitsḥaq was taken away from you[foot]Genesis 22[/foot] and you yearned for him. Today is the appropriate time for you to pray, when a shofar made from a ram’s horn is blown, so that the merit of Yitsḥaq, who allowed himself to be bound like a sheep, is remembered. Thereby the Satan will become confused and will not be able to accuse us. Therefore, now is the time for you to plead for us that the attribute of mercy will be roused on our behalf.
 </div></td></tr>
 
@@ -46,7 +46,7 @@ First, we beseech our mother Sarah that she pray for us at this hour of judgment
 אויך טוא איך בעטין פון אונזר מוטר רבקה זיא זאל בעטן פר אירע קינדר אונ זאל בעטן פאר אונזר פאטר אונ מוטר אז זײא זאלין זיך ח״ו ניט אפ שײדין פון אונז דען דוא װײשט װאול װיא עש טוט באנק נאך פאטר אונ מוטר דען אז אליעזר דר קנעכט האט דיך אװעק גינומען פון דײן פאטר אונ מוטר צוא דײן מאן יצחק האשטו אויך זײער גיווײנט. דרום װײשטו װיא עס איז שלעכט אן אײן פאטר אונ מוטר דרום בעט פר אונזער פאטר אונ מוטר אז זײא זאלן האבן (שנות חײם) יארן פון לעבן (שנת טובה) אײן גוט יאר אז איך מיט מײן מאן אונ קינדר זאלן האבן פרנסה. 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 I also beseech our mother Rivqah to pray for her children and for our father and mother, that they should not - <em>ḥas v'shalom</em> - be separated from us. You know very well what it is like to yearn for one’s father and mother, for when Eliezer, the servant, took you away from your father and mother and brought you to your husband Yitsḥaq,[foot]Genesis 24[/foot] you, too, wept very much. Thus you know how painful it is to be without a father and a mother. Therefore, pray for our father and mother that they may have a year of life and a year of goodness, and that I, my husband, and my children may earn a decent living.
 </div></td></tr>
 
@@ -66,7 +66,7 @@ We also beseech our mother Raḥel to pray for us that we may be inscribed and s
 אויך טוען מיר בעטן אונזר מוטר לאה אז זיא זאל אוין בעטן פאר אונז דען איצונדערט קענט איר פר אונז אלע בעטן דען הײנט איז דער ערשטר טאג פון עשרת ימי תשובה דאס איז שוין דיא לעצטע צײט דען איך װײש אז איך האב װיא פיל צײט אװעק גלאזין אונ האב קײו תשובה ניט גיטאן׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 We also beseech our mother Leah to plead for us. May you all pray for us now, for today is the first day of ten days of <em>tshuvah</em> (repentance/return) and this is our last chance. I know that I have failed to repent for a long time.
 </div></td></tr>
 

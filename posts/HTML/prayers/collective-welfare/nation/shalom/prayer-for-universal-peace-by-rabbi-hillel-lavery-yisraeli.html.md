@@ -1,21 +1,21 @@
 <html>
 <head></head>
 <body>
-Title: Prayer for Universal Peace, by Rabbi Hillel Lavery-Yisraëli<br />
+Title: Prayer for Universal Peace, by Rabbi Hillel Lavery-Yisraëli (2019)<br />
 Primary contributor: hillel.yisraeli-lavery<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=24233">http://opensiddur.org/?p=24233</a>
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;"><a href="https://opensiddur.org/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Adaptation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 May we merit to bring about the day when war and bloodshed cease, 
 and a great peace embraces the whole universe. 
@@ -24,12 +24,12 @@ and the art of war will no longer be studied.”[foot]Isaiah 2:4.[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 May we live to see the leaders of all the nations 
 inspired to do good with their peoples 
@@ -42,12 +42,12 @@ and the sword will no longer pass in your Land.”[foot]Leviticus 26:6.[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Let knowledge fill the Earth as water fills the ocean,[foot]Cf. Habakkuk 2:14, Isaiah 11:9, etc.[/foot]
 and let all people of all ethnicities, races, beliefs, genders and orientations 
@@ -56,12 +56,12 @@ in a true spirit of co-existence and cooperation.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And let us say, <em>Amen</em>.
 </div></td></tr>
@@ -78,12 +78,9 @@ A prayer for peace adapted from the texts of the prayers for peace found in the 
 
 The prayer for peace appearing in Siddur Sim Shalom is adapted from the Prayer for Peace found in Reb Nosson Sternhartz of Nemirov's adaptation of the teachings of Rebbe Nahman of Bratzlav in Likkutei Tefillot. "Page 417: Prayer for Peace . . . Adapted and translated from the Hebrew of Rabbi Nathan Sternhartz (1780-1845), Ukraine, from Likutei Tefillot, part two, 53."
 
-[caption id="attachment_24238" align="alignnone" width="300"]<a href="https://opensiddur.org/wp-content/uploads/2019/03/Prayer-for-Peace-Sim-Shalom-p.416-417-adapted-from-Reb-Nosson-Sternhartz-Likutei-Tefilot-II-53.png"><img src="https://opensiddur.org/wp-content/uploads/2019/03/Prayer-for-Peace-Sim-Shalom-p.416-417-adapted-from-Reb-Nosson-Sternhartz-Likutei-Tefilot-II-53-300x129.png" alt="" width="300" height="129" class="size-medium wp-image-24238" /></a> Prayer for Peace (Sim Shalom p.416-417) adapted from Reb Nosson Sternhartz, Likutei Tefilot II-53[/caption]
-
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 יְהִי רָצוֹן מִלְפָנֶֽיךָ יהוה אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֹתֵֽינוּ וְאִמּוֹתֵֽינוּ
 שֶׁתְּבַטֵּל מִלְחָמוֹת וּשְׁפִיכוּת דָּמִים מִן הָעוֹלָם
@@ -92,7 +89,7 @@ The prayer for peace appearing in Siddur Sim Shalom is adapted from the Prayer f
 וְלֹא־יִלְמְדוּ עוֹד מִלְחָמָה. <span class="citation">(ישעיה ב:ד)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 May it be your will YHVH our <em>elo'ah</em>, and <em>elo'ah</em> of our forefathers and foremothers,
 That we see the day when war and bloodshed cease from the work, 
@@ -102,7 +99,7 @@ and the human family will not again know war.[foot]Isaiah 2:4.[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 רַק יַכִּֽירוּ וְיֵדְעוּ כׇּל־יוֹשְׁבֵי תֵבֵל הָאֱמֶת לַאֲמִתּוֹ
 אֲשֶׁר לֹא בָֽאנוּ לָזֶה הָעוֹלָם בִּשְׁבִיל רִיב וּמַחֲלֹֽקֶת
@@ -110,7 +107,7 @@ and the human family will not again know war.[foot]Isaiah 2:4.[/foot]
 רַק בָּֽאנוּ לָעוֹלָם כְּדֵי לְהַכִּיר אוֹתְךָ, תִּתְבָּרַךְ לָנֶֽצַח.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Rather, let all who live on Earth recognize and know the truth in its truest sense,
 that we haven't come into this world for fighting and controversy,
@@ -119,18 +116,18 @@ rather we have come into the world in order to know You, may You be eternally bl
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Compassionate God, bless the leaders of all nations with the power of compassion.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וּבְכֵן תְּרַחֵם עָלֵֽינוּ וִיקֻיַּם בָּֽנוּ מִקְרָא שֶׁכָּתוּב׃
 וְנָתַתִּֽי שָׁלוֹם בָּאָֽרֶץ 
@@ -141,7 +138,7 @@ Compassionate God, bless the leaders of all nations with the power of compassion
 כִּי־מָלְאָה הָאָֽרֶץ דֵּעָה אֶת־יְהוָה כַּמַּֽיִם לַיָּם מְכַסִּים׃ <span class="citation">(ישעיה יא:ט)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Fulfill the promise conveyed in Scripture:
 "I will bring peace to the land,
@@ -153,20 +150,18 @@ Let God’s peace fill the earth as the waters fill the sea."[foot]Isaiah 11:9.[
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And let us say: <em>Amen</em>.
 </div></td></tr>
 </tbody></table>
 
 
-[caption id="attachment_24241" align="alignnone" width="286"]<a href="https://opensiddur.org/wp-content/uploads/2019/03/Prayer-for-Peace-Lev-Shalem-p.178.png"><img src="https://opensiddur.org/wp-content/uploads/2019/03/Prayer-for-Peace-Lev-Shalem-p.178-286x300.png" alt="" width="286" height="300" class="size-medium wp-image-24241" /></a> Prayer for Peace (Lev Shalem 2016, p.178)[/caption]
-
-[caption id="attachment_24350" align="alignnone" width="263"]<a href="https://opensiddur.org/wp-content/uploads/2019/03/Prayer-for-Peace-Lev-Shalem-p.178-Hebrew.jpg"><img src="https://opensiddur.org/wp-content/uploads/2019/03/Prayer-for-Peace-Lev-Shalem-p.178-Hebrew-263x300.jpg" alt="" width="263" height="300" class="size-medium wp-image-24350" /></a> Prayer for Peace in Hebrew (Lev Shalem 2016)[/caption]
+<span style="float: right;">[caption id="attachment_24238" align="alignleft" width="640"]<a href="https://opensiddur.org/wp-content/uploads/2019/03/Prayer-for-Peace-Sim-Shalom-p.416-417-adapted-from-Reb-Nosson-Sternhartz-Likutei-Tefilot-II-53.png"><img src="https://opensiddur.org/wp-content/uploads/2019/03/Prayer-for-Peace-Sim-Shalom-p.416-417-adapted-from-Reb-Nosson-Sternhartz-Likutei-Tefilot-II-53-1024x441.png" alt="" width="640" height="276" class="size-large wp-image-24238" /></a> Prayer for Peace (Sim Shalom p.416-417) adapted from Reb Nosson Sternhartz, Likutei Tefilot II-53[/caption]</span> <span style="float: left;">[caption id="attachment_24241" align="alignnone" width="286"]<a href="https://opensiddur.org/wp-content/uploads/2019/03/Prayer-for-Peace-Lev-Shalem-p.178.png"><img src="https://opensiddur.org/wp-content/uploads/2019/03/Prayer-for-Peace-Lev-Shalem-p.178-286x300.png" alt="" width="286" height="300" class="size-medium wp-image-24241" /></a> Prayer for Peace (Lev Shalem 2016, p.178)[/caption]</span> <span style="float: left;">[caption id="attachment_24350" align="alignnone" width="263"]<a href="https://opensiddur.org/wp-content/uploads/2019/03/Prayer-for-Peace-Lev-Shalem-p.178-Hebrew.jpg"><img src="https://opensiddur.org/wp-content/uploads/2019/03/Prayer-for-Peace-Lev-Shalem-p.178-Hebrew-263x300.jpg" alt="" width="263" height="300" class="size-medium wp-image-24350" /></a> Prayer for Peace in Hebrew (Lev Shalem 2016)[/caption]</span>[su_spacer]
 </body>
 </html>

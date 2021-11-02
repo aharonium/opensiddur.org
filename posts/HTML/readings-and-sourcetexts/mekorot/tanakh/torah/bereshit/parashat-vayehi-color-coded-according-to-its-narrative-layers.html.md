@@ -25,7 +25,7 @@ According to the poetry of the Midrash Tanchuma, Bereshit 1:1, the words of the 
 Parashat Vayeḥi (Genesis 47:28-50:26) in the annual Torah reading cycle, is read on the second shabbat of the month of Tevet. The parashah is preceded by <a href="https://opensiddur.org/readings-and-sourcetexts/torah-readings/annual-cycle/sefer-bereshit/parashat-vayigash/parashat-vayigash-color-coded-according-to-its-narrative-layers/">Vayigash</a> (Genesis 44:18-47:27); parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-shemot/parashat-shemot/parashat-shemot-color-coded-according-to-its-narrative-layers/">Shemot</a> (Exodus 1:1-6:1) in Sefer Shemot (the book of Exodus) follows it.
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

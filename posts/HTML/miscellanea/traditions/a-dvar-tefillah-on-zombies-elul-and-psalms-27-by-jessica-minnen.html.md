@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: תהלים כז | A D’var Tefillah on Zombies, Elul, and Psalms 27 by Rabbi Jessica Minnen<br />
+Title: תהלים כ״ז | A D’var Tefillah on Zombies, Elul, and Psalms 27 by Rabbi Jessica Minnen<br />
 Primary contributor: jessica.minnen<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=3892">http://opensiddur.org/?p=3892</a>
 <p />
@@ -14,7 +14,7 @@ As the month of Elul wanes, we are preparing. We prepare for the new moon, we pr
 <table style="margin-left: auto;margin-right: auto;">
 <tbody>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 בִּקְרֹב עָלַי מְרֵעִים לֶאֱכֹל אֶת־בְּשָׂרִי
 </span></div>
@@ -22,7 +22,7 @@ As the month of Elul wanes, we are preparing. We prepare for the new moon, we pr
 <span class="english" lang="en"><em>Bikrov 'alai m'ray-im le'ekhol et-b'sari</em></span>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Evil ones draw near to me to consume my flesh.
 </div></td></tr>
@@ -45,14 +45,14 @@ This Elul, I am trying to recite Psalm 27 every day, and as I do, to allow mysel
 <table style="margin-left: auto;margin-right: auto;">
 <tbody>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֶת־פָּנֶיךָ יְהוָה אֲבַקֵּשׁ
 </span></div>
 
 <span class="english" lang="en"><em>Et panekha [Adonai] 'avakesh</em></span></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 <div class="english" lang="en">
 [Adonai], I seek Your face!
 </div></td>
@@ -66,14 +66,14 @@ May this new year, 5772, be for all of us a year in which we -- together with Go
 <table style="margin-left: auto;margin-right: auto;">
 <tbody>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 תהלים כז
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">Psalms 27[foot]Translation from the JPS 1917 Tanach[/foot]</div></td>
+<td style="vertical-align:top;"><div class="english" lang="en">Psalms 27[foot]Translation from the JPS 1917 Tanach[/foot]</div></td>
 </tr><tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>א</sup> לְדָוִד
 יְהוָה אוֹרִי וְיִשְׁעִי מִמִּי אִירָא
@@ -115,7 +115,7 @@ May this new year, 5772, be for all of us a year in which we -- together with Go
 וְקַוֵּה אֶל יְהוָה.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>1</sup> [A Psalm] of David.
 The LORD is my light and my salvation; whom shall I fear?

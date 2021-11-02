@@ -7,10 +7,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: left;">Source (Spanish)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="spanish" lang="es">
 Bendigamos al Altísimo,
 Al Señor que nos crió,
@@ -18,7 +18,7 @@ Démosle agradecimiento
 Por los bienes que nos dió.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Let us bless the Most High,
 The Señor/Lord who created us,
@@ -27,7 +27,7 @@ For the good things which he gave us.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="spanish" lang="es">
 Alabado sea su Santo Nombre,
 Porque siempre nos apiadó.
@@ -35,7 +35,7 @@ Load al Señor que es bueno,
 Que para siempre su merced.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Praise his Holy Name,
 Because he always took pity on us.
@@ -44,7 +44,7 @@ Let your mercy endure forever.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="spanish" lang="es">
 Bendigamos al Altísimo,
 Por su Ley primeramente,
@@ -52,7 +52,7 @@ Que liga a nuestra raza
 Con el cielo continuamente,
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Let us bless the Most High,
 First for his Torah,
@@ -61,7 +61,7 @@ With the heavens continuously,
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="spanish" lang="es">
 Alabado sea su Santo Nombre,
 Porque siempre nos apiadó.
@@ -69,7 +69,7 @@ Load al Senor que es bueno,
 Que para siempre su merced.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Praise his Holy Name,
 Because he always took pity on us.
@@ -78,7 +78,7 @@ Let your mercy endure forever.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="spanish" lang="es">
 Bendigamos al Altísimo,
 Por el pan segundamente,
@@ -86,7 +86,7 @@ Y también por los manjares
 Que comimos juntamente.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Let us bless the Most High,
 Secondly for the bread,
@@ -95,7 +95,7 @@ We ate together.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="spanish" lang="es">
 Pues comimos y bebimos alegremente
 Su merced nunca nos faltó.
@@ -103,7 +103,7 @@ Load al Señor que es bueno,
 Que para siempre su merced.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 As we ate and drank merrily
 His mercy never failed us.
@@ -112,7 +112,7 @@ Let your mercy endure forever.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="spanish" lang="es">
 Bendita sea la casa esta,
 El hogar de su presencia,
@@ -120,7 +120,7 @@ Donde guardamos su fiesta,
 Con alegría y permanencia.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Bless this house,
 Home to his presence,
@@ -129,7 +129,7 @@ With joy and permanence.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="spanish" lang="es">
 Alabado sea su Santo Nombre,
 Porque siempre nos apiadó.
@@ -137,7 +137,7 @@ Load al Señor que es bueno,
 Que para siempre su merced.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Praise his Holy Name,
 Because he always took pity on us.

@@ -7,10 +7,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="width:100%;margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="width: 100%; margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Transliteration (Romanization)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֵל עֶלְיוֹן, 
 רָם עַל כָּל גּוֹיִם, 
@@ -24,7 +24,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 מְגַנָּה שִֹנְאַת חִנָּם וְדוֹחָה כָל רְדִיפָה.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 El Elyon, 
 ram ’al kol goyim, 
@@ -38,7 +38,7 @@ umanos l’khol ḥasrei ken utrufei sufah,
 m’ganah sinat ḥinam v’doḥah khol redifah.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 El Elyon, God on High, 
 supreme over all nations,
@@ -53,7 +53,7 @@ giving "to bigotry no sanction, and to persecution no assistance."[foot]George W
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 רוּחַ חֲדָשָׁה בְּרָא בָּהּ, 
 לְהַשְֹכִּיל עַל כָּל רָשׁ וָדַּל בְּקִרְבָּהּ, 
@@ -69,7 +69,7 @@ giving "to bigotry no sanction, and to persecution no assistance."[foot]George W
 וְתָרִיב רִיבוֹ.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Ruaḥ ḥadasha b’ra bah, 
 lehaskil ’al kol rash vadal bekirbah, 
@@ -85,7 +85,7 @@ shamo’a eshma’ tsa’akato”
 v’tariv rivo.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 May it renew its commitment 
 to protect the vulnerable and the powerless in its midst, 
@@ -102,7 +102,7 @@ and take up their cause.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֵל רָחוּם וְחַנּוּן, 
 לַמְּדֵנוּ אוֹרְחוֹת רַחֲמִים וְדַרְכֵי נוֹעָם; 
@@ -116,7 +116,7 @@ and take up their cause.
 וְנֹאמַר: אָמֵן.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 El raḥum v’ḥanun, 
 lamdenu orḥot raḥamim v’darkhei no’am; 
@@ -130,7 +130,7 @@ kamayim l’yam m’khasim.”
 V’nomar: <em>Amen</em>.
 </span></div></td> 
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 El, author of mercy and compassion, 
 teach us the ways of compassion; 

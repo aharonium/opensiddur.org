@@ -29,7 +29,7 @@ The kernel of biblical text 'E,' its early supplemental layer 'J', and its later
 Parashat b'Har (Leviticus 25:1-26:2) in the annual Torah reading cycle is preceded by parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-vayiqra/parashat-emor/parashat-emor-color-coded-according-to-its-narrative-layers/">Emor</a> (Leviticus 21:1-24:23); parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-vayiqra/parashat-bhuqotai/parashat-bhuqotai-color-coded-according-to-its-narrative-layers/">Beḥuqotai</a> (Leviticus 26:3–27:34) follows it on Jewish leap years, otherwise the two parashot are combined. 
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

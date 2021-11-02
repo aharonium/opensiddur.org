@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align: top;" width="46%">
@@ -19,7 +19,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 My heart, my heart goes out to you Zion
 Tears, jubilation, celebration, grieving
@@ -38,7 +38,7 @@ And here it is—both song and lament.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 We are mere matter, and our prayer is to the Creator,
 Toward the Good and the Just, direct the people seeking refuge in Zion.
@@ -57,7 +57,7 @@ Which we inherited together with the sons and daughters of Hagar.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Favor us with knowledge with which to understand
 The wisdom of Avraham, “If you will go left, I will go right.”[foot]Genesis 13:9. C.f. Isaiah 30:21.[/foot]&nbsp;<br />

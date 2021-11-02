@@ -7,10 +7,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 יְהִי רָצוֹן מִלְפָנֶיךָ 
 יי אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֹתֵינוּ,
@@ -21,7 +21,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 לְחַיִּים וּלְשִׂמְחָה וּלְשָׁלוֹם. 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 May the holy desire come from You,
 YHVH, our Source and our ancestors' Source,
@@ -33,7 +33,7 @@ life, joy, and peace.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְתַצִּילֵנוּ מִכַּף כָּל אוֹיֵב וְאוֹרֵב וְלִסְטִים 
 וְחַיּוֹת רָעוֹת בַּדֶּרֶךְ.
@@ -48,7 +48,7 @@ life, joy, and peace.
 בָּרוּךְ אַתָּה שׁוֹמֵעַ תְּפִלָּה׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Rescue us from all enmity and ambush and theft 
 and predation (from all impulses to harm that confront us) on this path.

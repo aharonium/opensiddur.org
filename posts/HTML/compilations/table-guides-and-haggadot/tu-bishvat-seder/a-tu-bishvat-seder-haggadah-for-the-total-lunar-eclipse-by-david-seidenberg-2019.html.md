@@ -9,32 +9,32 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <style type="text/css" media="all">.printfriendly {display: none!important;}</style>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 שְׂאוּ מָרוֹם עֵינֵיכֶם וּרְאוּ מִי בָרָא אֵלֶּה
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 “Lift on high your eyes and see: Who created these?” (Isaiah 40:26)
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Our ancestors often thought of an eclipse as a bad omen, so they did not prescribe a blessing for it. But we understand an eclipse to be a natural marvel that reminds us of the grandeur of Creation, so many now believe that we should say a blessing. Here is one blessing to say for a lunar eclipse — if possible, wait til totality (when the moon turns red) to say it. Otherwise, say it anytime you can see part of the moon already in shadow.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה 
 ה׳ אֱ-לֹהֵינוּ
@@ -42,7 +42,7 @@ Our ancestors often thought of an eclipse as a bad omen, so they did not prescri
 עֹשֶׂה מַעֲשֵׂה בְרֵאשִׁית׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Blessed be You 
 YHVH/Adonai our God, 
@@ -56,12 +56,12 @@ Melekh Ha’olam
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 A prayer for the total lunar eclipse on Tu BiShvat:
 
@@ -69,12 +69,12 @@ As we receive the light of the sun reflected in the face of the moon, may we rec
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <h3>A Tu BiShvat seder under the full moon eclipse</h3>
 
@@ -86,12 +86,12 @@ fruit: borei peri ha-eits
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 I. 
 
@@ -99,23 +99,23 @@ As a lunar eclipse progresses, the Earth’s shadow takes a bigger and bigger bi
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מִי זֹאת הַנִּשְׁקָפָה כְּמוֹ־שָׁחַר יָפָ֣ה כַלְּבָנָה בָּרָה כַּֽחַמָּה אֲיֻמָּה כַּנִּדְגָּלֹות׃ אֶל גִּנַּ֤ת אֱגֹוז יָרַדְתִּי לִרְאֹות בְּאִבֵּ֣י הַנָּ֑חַל לִרְאֹות הֲפָֽרְחָה הַגֶּפֶן הֵנֵצוּ הָרִמֹּנִים׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Who is this radiating like dawn, beautiful like the moon, clear like the sun, awe-inspiring like the arrayed banners of all the stars? I went down to the nut garden, to see the verdure of the riverbed, to see, is the vine flowering? Are the pomegranate blossoms bursting? (Song of Songs 6:10-11)
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 II. 
 
@@ -123,45 +123,45 @@ Our ancestors told a story to explain the difference between the light of the su
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Why? According to the story, the newly created moon saw the sun and said to the Holy One, “Can two rulers share one crown?” God rebuked the moon for this question, and its light became dim compared to the sun. But the moon protested. In the end, God admits that God who sinned against the moon, for it was God who created a world in which two rulers can’t share one crown. 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 צַדִּיק כַּתָּמָר יִפְרָח כְּאֶ֖רז בַּלְּבָנֹון יִשְׂגֶּה׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 A righteous person will flourish like a date palm, like a Lebanon seder will they thrive. (Psalms 92:12)
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 “And the dove came in to the ark at evening, and here, an olive leaf was torn off in her mouth.” (Gen. 8:9) From where did she bring the leaf? The gates of Gan Eden were opened for her… If she came from Eden, wouldn’t she bring something special like cinnamon or balsam? But she hinted to Noah: Better is bitterness from here rather than sweetness from under your hand. (Genesis Rabbah 33:6) 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 III. 
 
@@ -169,45 +169,45 @@ The mystics said, this story teaches that it is up to us to create a new world, 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 In memory of this story, the liturgy for blessing the waxing moon includes this plea: “May it be Your will YHVH/Adonai, my God and my ancestors’ God, to fill the blemish of the white one levanah (the moon), and may the light of the white one be like the light of the hot one chamah (the sun), and like the light of the seven days of beginning creation, like it was before she was made small.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 נֹצֵר תְּאֵנָה יֹאכַל פִּרְיָהּ…
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Whoever protects a fig tree gets to eat her fruit… (Prov. 27:18)
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֱלֹהִים צְבָאוֹת שׁוּב נָא הַבֵּט מִשָּׁמַיִם וּרְאֵה וּפְקֹד גֶּפֶן זֹאת:
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 God of heavenly hosts, turn, please, look out from the heavens, see and remember to steward this vine. (Psalms 80:15)
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 IV. 
 
@@ -215,67 +215,67 @@ During the hour of total eclipse, the moon reflects the color of the sunset, a c
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 כַּ֭מַּיִם הַפָּנִים לַפָּנִים כֵּ֤ן לֵב־הָאָדָם לָאָדָם׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Like the water surface showing a face to one’s face, so is the human heart for a human. (Prov. 27:19)     
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 R’ Yochanan said: The world was not worthy to make use of the cedars; they were created only for the Temple that makes all holy. (Genesis Rabbah 15:1)
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 עָשָׂה יָרֵחַ לְמוֹעֲדִים שֶׁמֶשׁ יָדַע מְבוֹאוֹ׃ תָּֽשֶׁת חֹשֶׁךְ וִיהִי לָיְלָה… מָֽה רַבּוּ מַעֲשֶׂיךָ יְֽהוָה כֻּלָּם בְּחָכְמָה עָשִׂיתָ מָלְאָה הָאָרֶץ קִנְיָנֶךָ… תְּשַׁלַּח רוּחֲךָ יִבָּרֵאוּן וּתְחַדֵּשׁ פְּנֵי אֲדָמָה.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Who made the moon for seasons; the sun knew its setting… How diverse are Your works YHVH!… When You send Your Spirit, Your breath, they are created, and You renew the face of the Earth. (Psalms 104:19-24)
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 May it be the Holy One’s will that our blessings and pleasure in tasting and witnessing bring blessing to the cosmos and to the fruits, to help restore to its original strength the Tree of Life that sustains all Life.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <h3>A Mini-Tu biShvat seder</h3>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 I. 
 
@@ -284,12 +284,12 @@ fruits with shells: pomegranate, almond, walnut
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 II. 
 
@@ -298,12 +298,12 @@ fruit with pits: olives, dates, plums, peaches
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 III. 
 
@@ -312,12 +312,12 @@ wholly edible fruits: apples, grapes, figs, berries
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 IV. 
 
@@ -326,18 +326,18 @@ tree smells/tastes: cedar, cinnamon, maple syrup
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <h3>Blessings to accompany any Tu BiShvat Seder</h3>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 &nbsp;
 &nbsp;
@@ -347,7 +347,7 @@ tree smells/tastes: cedar, cinnamon, maple syrup
 בּוֹרֵא פְּרִי הַגֶּפֶן (הַגָּפֶן)׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 1) Blessing for wine:
 &nbsp;
@@ -365,7 +365,7 @@ borei p'ri ha-gafen.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 &nbsp;
 &nbsp;
@@ -375,7 +375,7 @@ borei p'ri ha-gafen.
 בּוֹרֵא פְּרִי הָעֵץ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 2) Blessing for tree fruit:
 &nbsp;
@@ -391,7 +391,7 @@ borei p'ri ha-eits.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 &nbsp;
 &nbsp;
@@ -402,7 +402,7 @@ borei p'ri ha-eits.
 לַזְּמַן הַזֶּה׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 3) Blessing for experiencing something new (Shehechiyanu):
 &nbsp;
@@ -420,7 +420,7 @@ la‑z'man ha‑zeh.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 &nbsp;
 &nbsp;
@@ -430,7 +430,7 @@ la‑z'man ha‑zeh.
 הַנּוֹתֵן רֵיחַ טֹוב בַּפֵּרוֹת׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 4) Blessing for smelling ripe fruit:
 &nbsp;
@@ -446,7 +446,7 @@ hanotein rei’ach tov bapeirot
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 &nbsp;
 &nbsp;
@@ -458,7 +458,7 @@ hanotein rei’ach tov bapeirot
 בּוֹרֵא עֲצֵי בְשָֹמִים׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 5) Blessing for other sweet smells: 
 &nbsp;
@@ -476,7 +476,7 @@ borei atzei b’samim
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 &nbsp;
 &nbsp;
@@ -486,7 +486,7 @@ borei atzei b’samim
 בּוֹרֵא עִשְֹבֵי בְשָֹמִים׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Sweet grasses/plants: 
 &nbsp;
@@ -502,7 +502,7 @@ borei isvei b’samim
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 &nbsp;
 &nbsp;
@@ -512,7 +512,7 @@ borei isvei b’samim
 בּוֹרֵא מִינֵי בְשָׂמִים׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Other sweet smells:  
 &nbsp;
@@ -528,7 +528,7 @@ borei minei b’samim
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 &nbsp;
 &nbsp;
@@ -542,7 +542,7 @@ borei minei b’samim
 בָּרוּךְ חַי הָעוֹלָמִים
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 6) Blessing after eating various fruit and other foods:
 &nbsp;

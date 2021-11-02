@@ -17,36 +17,36 @@ This prayer, following the structure of the Mi Sheberakh supplications during th
 The agunah crisis is a difficult one, perhaps unsolvable completely according to our modern halakhic system. But holding those who abuse the system for their own benefit to account is necessary and vital, and solidarity with those who suffer for it even more so.
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מִי שֶׁבֵּרַךְ הַצַּדִּיקוֹת 
 רוּת וַאֲבִיגַיִל וְאֶסְתֵּר הַמַּלְכָּה
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 May the One who blessed the righteous women 
 Ruth and Avigayil and Queen Esther 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וּמִי שֶׁאֵרַר הָרְשָׁעִים 
 מַחְלוֹן וְכִלְיוֹן וְנָבָל הַכַּרְמְלִי וְהַמֶּלֶךְ אֲחַשְׁוֵרוֹשׁ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 and the One who cursed the wicked 
 Maḥlon and Khilion and Naval the Karmelite and King Aḥashverosh,
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הוּא יְבָרֵךְ וִישַׁמֵּר וְיַצְדִּיק וְיִגְמֹל 
 עַל כׇּל־נְשֵׁי יִשְׂרָאֵל הַתְּפוּסוֹת בְּמַצַּב עֲגוּנָה חַיָּה 
@@ -54,7 +54,7 @@ Maḥlon and Khilion and Naval the Karmelite and King Aḥashverosh,
 וְעָזְבוּ אוֹתָן וְלֹא שִׁלְּחוּ בִּידֵיהֶן גֵּט סֵפֶר כְּרִיתוּת.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Bless and guard and justify and reward 
 all the women of Israel trapped in a state of living agunah 
@@ -63,7 +63,7 @@ and abandoned them and did not send them a get, a writ of divorce,
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 כְּמוֹ שֶׁצִּוָּה הַקָּדוֹשׁ בָּרוּךְ הוּא כַּכָּתוּב בְּתוֹרָתוֹ הַקְּדוֹשָׁה — 
 וְכָ֨תַב לָ֜הּ סֵ֤פֶר כְּרִיתֻת֙ 
@@ -71,7 +71,7 @@ and abandoned them and did not send them a get, a writ of divorce,
 וְשִׁלְּחָ֖הּ מִבֵּיתֽוֹ׃ <span class="citation">(דברים כד:א)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 as the blessed Holy One commanded in [God's] Holy Torah: 
 "And he will write her a writ of divorce 
@@ -80,7 +80,7 @@ and send her from his house."[foot]Deuteronomy 24:1.[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְאָמְרוּ חֲכָמִים זִכְרוֹנָם לִבְרָכָה — 
 אָמַר רַב אַשֵּׁי 
@@ -90,7 +90,7 @@ and send her from his house."[foot]Deuteronomy 24:1.[/foot]
 מֻתָּר לְבַזּוֹת לֹוֹ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And out sages of blessed memory said:
 "Rav Ashi said: 
@@ -101,7 +101,7 @@ it is permitted to degrade him."
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וּבְכֵן 
 בִּרְשׁוּת יְשִׁיבָה שֶׁלְּמַעְלָה 
@@ -112,7 +112,7 @@ it is permitted to degrade him."
 וְלֹא יִרְבּוּ כְּמוֹהֶם בְּיִשְׂרָאֵל!
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And thus,
 With the permission of the council on high, 
@@ -124,7 +124,7 @@ and may there not be many of their kind in Israel!
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אַקְרָאֵיהֶם 
 כִּי לַעֲשׂוֹת כְּמוֹהֶם עֲווֹן מְרֻשָּׁע 
@@ -132,7 +132,7 @@ and may there not be many of their kind in Israel!
 וּמַעֲשֶׂה עַל חִלּוּל הַשֵּׁם׃ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 I call them out 
 for to act as them is an evil iniquity 
@@ -141,14 +141,14 @@ and a deed of desecration of the Name.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הַקָּדוֹשׁ בָּרוּךְ הוּא 
 הַנּוֹתֵן לָרָשָׁע רַע כְּרִשְׁעָתוֹ 
 הוּא יְשַׁלֵּם לָהֶם אֶת־גְּמוּלָם שֶׁגָּמְלוּ לִנְשׁוֹת יִשְׂרָאֵל.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 May the blessed Holy One, 
 who deals evil to the wicked according to their wickedness, 
@@ -156,7 +156,7 @@ repay them for for the treatment with which they have treated the women of Israe
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְיֵיטִיב טוֹבַת טוּבוֹ לְכׇל־הַנָּשִׁים 
 שֶׁבְּצָרָה וּבִצְרוּרָה בִּגְלָלָם 
@@ -164,7 +164,7 @@ repay them for for the treatment with which they have treated the women of Israe
 לְכוֹנֵן שֵׁנִית שֵׁם טוֹב בְּיִשְׂרָאֵל׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And may [God] deal good, the goodness of [God's] good, 
 to all the women in straits or in strife on their account,
@@ -173,12 +173,12 @@ to reëstablish a good name in Israel.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְנֹאמַר אָמֵן׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And to this we say <em>Amen</em>.
 </div></td></tr>

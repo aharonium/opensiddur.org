@@ -7,15 +7,15 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Dearest God, 
 we look to You today, 
@@ -24,12 +24,12 @@ and You who is the eternal source of blessing.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 We stand before You on the eve of the Biblical Festival of Purim, 
 a joyous time in which we read from the ancient and sacred scroll of the Book of Esther. 
@@ -38,12 +38,12 @@ a darkness which would come to envelope the entire nation over which Esther woul
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 It was Queen Esther who became frightened 
 when the plan revealing a plot to erase the sacred remnants of her people, 
@@ -61,12 +61,12 @@ in the light of their newfound freedom.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And now, standing here today, before You, 
 on the eve of this festival, 
@@ -77,12 +77,12 @@ for all the inhabitants of this great Nation.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And yet, Dear Lord, 
 we would be remiss if we were not to remember 
@@ -99,12 +99,12 @@ and allow us to live within.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Teach us now and forever to celebrate our differences. 
 Unify us to preserve and admire those differences among us--
@@ -114,12 +114,12 @@ for all the inhabitants of this Nation.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Lord, we ask You to bestow Your blessings today 
 upon this assembly 
@@ -129,24 +129,24 @@ with both prosperity and lasting joy, love, and freedom.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 יְבָרֶכְךָ יְהוָה וְיִשְׁמְרֶךָ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Yevarechecha Adonai, V'Yishmerecha. 
 [YHVH bless you and protect you!][foot]Numbers 6:24, the first verse of the Priestly Blessing[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 May God bless you and keep you. 
 May God bless the United States of America, 
@@ -164,7 +164,7 @@ Issue: Vol. 164, No. 35 — Daily Edition (February 27, 2018)
 
 Link: <a href="https://www.congress.gov/congressional-record/2018/02/27/senate-section/article/S1223-2">https://www.congress.gov/congressional-record/2018/02/27/senate-section/article/S1223-2</a>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.c-span.org/video/standalone/?c4716348/rabbi-seth-frisch-historic-congregation-kesher-israel-philadelphia-pa" width="512" height="330"]
+<iframe width=530 height=312 src='https://www.c-span.org/video/standalone/?c4716348/rabbi-seth-frisch-historic-congregation-kesher-israel-philadelphia-pa' allowfullscreen='allowfullscreen' frameborder=0></iframe>[su_spacer]
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.congress.gov/crec/2018/02/27/CREC-2018-02-27-pt1-PgS1223-2.pdf" width="100%" height="900"]
 </body>

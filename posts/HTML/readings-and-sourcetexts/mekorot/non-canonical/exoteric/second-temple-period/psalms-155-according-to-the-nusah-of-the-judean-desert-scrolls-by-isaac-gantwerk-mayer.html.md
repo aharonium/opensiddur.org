@@ -13,7 +13,7 @@ Psalms 151 through 155 are not found in the Masoretic Text books of Psalms, or i
 Psalm 155 is an incomplete acrostic (the Dead Sea Scrolls text records it going from ב to נ, and the Syriac can be reconstructed to include up to פ) with similarities to petitionary psalms like Psalm 3, 22, and 143. It is unclear why it was not included in the Masoretic canon, but one can hazard a guess that it was just not familiar to the compilers.
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

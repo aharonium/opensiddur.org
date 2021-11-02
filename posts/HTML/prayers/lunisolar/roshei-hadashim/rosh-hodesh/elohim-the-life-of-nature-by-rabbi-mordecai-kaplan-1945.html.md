@@ -7,10 +7,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Translation (Hebrew)</th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֲבוֹתֵֽינוּ נָתְנוּ גֹֽדֶל לָאֵל. 
 אֶת־מַעֲשֵׂי יָדָיו 
@@ -18,7 +18,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 בַּחֲלִיפוֹת הַמַּרְאוֹת בָּאָֽרֶץ מִתָּֽחַת.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Our fathers acclaimed the <em>el</em>[foot]deity.[/foot]
 Whose handiwork they read 
@@ -27,14 +27,14 @@ And in the varied scene of earth below,
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וּבְסֵֽדֶר הַמַּחֲזוֹר לַיָּמִים וְלַלֵּילוֹת. 
 לַתְּקוּפוֹת וְלַשָּׁנִים. 
 וּבְתַשְׁבֵּץ גּוֹרַל הָאָדָם׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 In the orderly march of days and nights,
 Of seasons and years,
@@ -42,7 +42,7 @@ And in the checkered fate of man.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְהִנֵּה מוֹג הִתְמוֹגְגָה קִמֹּֽרֶת הַשַּֽׁחַר.
 לַֽיִל יְגַלֶּה נִבְכֵי חָלָל אֵין־מְצָרִים 
@@ -51,7 +51,7 @@ And in the checkered fate of man.
 מֶרְחַקִּים לֹא שֵׁעֲרָם הַדִּמְיוֹן׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Meantime have the vaulting skies dissolved; 
 Night reveals the limitless caverns of space, 
@@ -61,7 +61,7 @@ Far beyond imagination’s ken.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 נִדְהֲמָה דַֽעַת אֱנוֹשׁ.
 אַךְ מְהֵרָה קוֹם תָּקוּם. 
@@ -71,7 +71,7 @@ Far beyond imagination’s ken.
 כֻּוְּצוּ עַד־הָפְכָּם נִצּוֹצוֹת בּוֹעֲרִים׃ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 The mind is staggered,
 Yet soon regains its poise,
@@ -82,7 +82,7 @@ Shrunk to glittering sparks.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 עוֹטְפָה הַנְּשָׁמָה.
 אַךְ מְהֵרָה תָּשׁוּב תֶּֽחִי.
@@ -90,7 +90,7 @@ Shrunk to glittering sparks.
 עַל־פְּנֵי רָקִיעַ. תְּכָנַֽתּוּ בְחָזוּת חֲדָשָׁה׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 The soul is faint,
 Yet soon revives,
@@ -99,7 +99,7 @@ Across the newly visioned firmament.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 שְׂאוּ־מָרוֹם עֵינֵיכֶם וּרְאוּ 
 מִי־בָרָא אֵֽלֶּה.
@@ -107,7 +107,7 @@ Across the newly visioned firmament.
 לְכֻלָּם בְּשֵׁם יִקְרָא׃ <span class="citation">(ישעיה מ:כו)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Lift your eyes, look up;
 Who made these stars?
@@ -116,7 +116,7 @@ Summoning each one by name.[foot]Isaiah 40:26.[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֱלֹהִים הוּא הָאַחְדּוּת 
 הַמְגַשֶּֽׁרֶת עִמְקֵי חָלָל אֵין־חֵֽקֶר 
@@ -125,7 +125,7 @@ Summoning each one by name.[foot]Isaiah 40:26.[/foot]
 כְּמוֹ נַעֲשֶׂה אֲנַֽחְנוּ בְּמַחֲשָׁבָה׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Elohim is the oneness
 That spans the fathomless deeps of space 
@@ -135,7 +135,7 @@ As we do in thought.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֱלֹהִים הוּא הַזֶּהוּת
 בַּחֹֽמֶר הַיְסוֹדִי אֲשֶׁר לְכוֹכְבֵי לֶכֶֽת וּלְכוֹכְבֵי שָֽׁבֶת. 
@@ -143,7 +143,7 @@ As we do in thought.
 וּלְכׇל־נֶֽפֶשׁ חַיָּה הַשּׁוֹכֶֽנֶת בָּהּ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Elohim is the sameness
 In the elemental substance of stars and planets, 
@@ -152,7 +152,7 @@ And of all that it holds.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֱלֹהִים הוּא הָאִחוּד 
 לְכׇל־הֹוֶה. 
@@ -161,7 +161,7 @@ And of all that it holds.
 וְטִיב פְּעֻלָתָם הַהֲדָדִית׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Elohim is the unity 
 Of all that is,
@@ -171,7 +171,7 @@ And the nature of their interaction.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הַמְקַשֵּׁר מַעֲדַנּוֹת כִּימָה 
 מוֹשְׁכוֹת כְּסִיל יְפַתֵּֽחַ.
@@ -179,7 +179,7 @@ And the nature of their interaction.
 וְעַֽיִשׁ עַל־בָּנֶֽיהָ יַנְחֵם: <span class="citation">(על פי איוב לח:לא-לב)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 [Elohim] binds up the Pleiades in a cluster 
 And loosens the chains of Orion;
@@ -188,14 +188,14 @@ And guides the constellations of the Bear.[foot]Based on Job 38:31-32.[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֱלֹהִים הוּא סוֹד־הַחַיִּים. 
 הַמַּצִּית אֶת־הַחֹֽמֶר הַדָּמוּם. 
 לִדְחִיפָה פְנִימִית וּלְמַטָּרָה׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Elohim is the mystery of life,
 Enkindling inert matter 
@@ -203,7 +203,7 @@ With inner drive and purpose.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הוּא הַשַּׁלְהֶֽבֶת הַיּוֹצֶֽרֶת. 
 הַמְשַׁנָּה חֽוֹתַם־חֹֽמֶר לֹא־יִחְיֶה. 
@@ -212,7 +212,7 @@ With inner drive and purpose.
 וּבְאַחֲרִיתוֹ יֵהָפֵךְ לְלַֽבַּת־אֵשׁ מַחֲשָׁבָה׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 [Elohim] is the creative flame
 That transfigures lifeless substance,
@@ -222,7 +222,7 @@ Till it turn into the white fire of thought.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְאַף כִּי אֵין רֶֽמֶז לִיצוּר חַי 
 מַפְרִיעַ אֶת־דִּמְמַת הַנְּצָחִים אֲשֶׁר לַסְּפִירוֹת. 
@@ -231,7 +231,7 @@ Till it turn into the white fire of thought.
 רַק הִיא לְבַדָּהּ חֲנוּנָה דַּֽעַת אֱלֹהִים׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And though no sign of living thing 
 Break the eternal silence of the spheres,
@@ -241,7 +241,7 @@ Alone instinct with Elohim.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אָכֵן הַמּוֹפֵת הַהוּא
 הַמְקַשֵּׁר אֶת־הָעוֹלָמוֹת בְּמוֹסְדוֹת חֹֽמֶר. 
@@ -249,7 +249,7 @@ Alone instinct with Elohim.
 יַחְדָּיו בְּמוֹסְרוֹת חַיִּים:
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 By that token
 Which unites the worlds in bonds of matter 
@@ -258,7 +258,7 @@ In the bond of Life.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 כִּי הִנֵּה יוֹצֵר הָרִים 
 וּבֹרֵא רוּחַ 
@@ -268,7 +268,7 @@ In the bond of Life.
 יְיָ אֱלֹהֵי־צְבָאוֹת שְׁמוֹ׃ <span class="citation">(עמוס ד:יג)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 It is [Elohim] who forms the mountains
 And creates the wind,

@@ -7,11 +7,11 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֱלֹהַי, 
 נְשָׁמָה שֶׁנָּתַתָּ בִּי 
@@ -22,7 +22,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 My God,
 The breath You have given me
@@ -35,13 +35,13 @@ You breathe it into me.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְאַתָּה מְשַׁמְּרָהּ בְּקִרְבִּי, 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And you keep me breathing.
 </div></td>
@@ -49,14 +49,14 @@ And you keep me breathing.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְאַתָּה עָתִיד 
 לִטְּלָהּ מִמֶּנִּי,  
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 At some time,
 You will take it away from me,
@@ -67,14 +67,14 @@ my last breath in this body.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וּלְהַחֲזִירָהּ בִּי 
 לֶעָתִיד לָבֹא.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And You will resuscitate me,
 To the life of the spirit.
@@ -83,7 +83,7 @@ To the life of the spirit.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 כָּל זְמַן שֶׁהַנְּשָׁמָה בְּקִרְבִּי 
 מוֹדֶה אֲנִי לְפָנֶיךָ 
@@ -93,7 +93,7 @@ To the life of the spirit.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 For each breath still in me,
 I thank You,
@@ -105,7 +105,7 @@ Lord of all spirits, Master of all that happens.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה יְיָ 
 &nbsp;
@@ -114,7 +114,7 @@ Lord of all spirits, Master of all that happens.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 I offer You thanks,
 Cosmic Majesty,
@@ -125,7 +125,7 @@ For keeping me breathing.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 &nbsp;
 &nbsp;
@@ -133,7 +133,7 @@ For keeping me breathing.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And in this way,
 With each breath,
@@ -150,11 +150,11 @@ This English translation by Rabbi Zalman Schachter-Shalomi z"l of "Neshama Shena
 
 The earliest formula for "Neshama Shenatata Bi" can be found in the <a href="https://www.sefaria.org/Berakhot.60b.4/he/William_Davidson_Edition_-_Aramaic?lang=bi">Talmud Bavli, Berakhot 60b</a>:
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 כי מתער אומר 
 אלהי נשמה שנתת בי טהורה 
@@ -173,7 +173,7 @@ The earliest formula for "Neshama Shenatata Bi" can be found in the <a href="htt
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 When one awakens, they recite: 
 My elo'ah, the <em>neshamah</em>[foot]<em>neshamah</em> ≈ breath, soul. <em>neshamot</em> ≈ Breath, souls[/foot] you have placed within me is pure. 

@@ -27,29 +27,29 @@ This qina was sourced by Isaac Treuherz. (Thank you!)
 
 <hr />
 
-<table style="width:100%;margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="width: 100%; margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Transliteration (S&P)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֲלֵיכֶם עֵדָה קְדוֹשָׁה אֶשְׁאַל מִכֶּם שְׁאֵלוֹת
 מַה נִּשְׁתַּנָּה הַלַּֽיְלָה הַזֶּה מִכָּל־הַלֵּילוֹת׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Aleikhem, ngeda qedosha, esh'al mi-kem sheelot:
 Ma nishtana ha-láyla ha-ze mi-kol ha-leylot?
 </div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 To you, holy congregation, I ask you these questions:
     What makes this night different from all other nights?
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מַדּֽוּעַ בְּלֵיל פֶּֽסַח אוֹכְלִים מַצּוֹת וּמְרֹרִים
 עַתָּה הַלַּֽיְלָה הַזֶּה שָׂבַֽעְנוּ בוּז וּמְרֹרִים
@@ -58,7 +58,7 @@ To you, holy congregation, I ask you these questions:
 מַה נִּשְׁתַּנָּה הַלַּֽיְלָה הַזֶּה מִכָּל־הַלֵּילוֹת׃ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Madúang be-leyl Pésaḥ okhelim maṣot u-merorim
 Ngata ha-láyla ha-ze sabángnu buz u-merorim
@@ -67,7 +67,7 @@ Ngal ken bi-bekhi tamerurim esa qoli ke-ḥolot.
 Ma nishtana ha-láyla ha-ze mi-kol ha-leylot?
 </div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Why, on Passover night, do we eat unleavened bread and bitter herbs,
 but now—on this night—we are full of shame and bitterness?
@@ -77,7 +77,7 @@ Therefore, with bitter weeping I raise my voice like the sick.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מַדּֽוּעַ בְּלֵיל פֶּֽסַח שֻׁלְחָן עָרוּ בְּשִׂמְחָה
 עַתָּה בַעֲו‌ֹנוֹתֵֽינוּ בְּלֵיל זֶה קוֹל אֲנָחָה
@@ -86,7 +86,7 @@ Therefore, with bitter weeping I raise my voice like the sick.
 מַה נִּשְׁתַּנָּה הַלַּֽיְלָה הַזֶּה מִכָּל־הַלֵּילוֹת׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Madúang be-leyl Pésaḥ shulḥan ngaru be-simḥa
 Ngata ba-ngavonoténu be-leyl ze qol anaḥa
@@ -95,7 +95,7 @@ Oy, ki ba'a ṣara, ngal ken eshkaḥ meḥolot.
 Ma nishtana ha-láyla ha-ze mi-kol ha-leylot?
 </div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Why, on Passover night, do we set the table with joy,
 but now, in our iniquities—on this night—a groaning voice?
@@ -105,7 +105,7 @@ Woe, that trouble has come, therefore I forget dancing.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מַדּֽוּעַ בְּלֵיל פֶּֽסַח שׁוֹתִים כּוֹסוֹת בִּבְרָכָה
 עַתָּה אֲנַֽחְנוּ בְּלֵיל זֶה נִקְרָא מְגִלַּת אֵיכָה
@@ -114,7 +114,7 @@ Woe, that trouble has come, therefore I forget dancing.
 מַה נִּשְׁתַּנָּה הַלַּֽיְלָה הַזֶּה מִכָּל־הַלֵּילוֹת׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Madúang be-leyl Pésaḥ shotim kosot bi-brakha
 Ngata anáḥnu be-leyl ze niqra meghilat Eikha
@@ -123,7 +123,7 @@ Lakhen ani ngal kákha angorer qol yelalot
 Ma nishtana ha-láyla ha-ze mi-kol ha-leylot?
 </div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Why, on Passover night, do we drink cups in blessing,
 but now, we—on this night—read the scroll of Lamentations?
@@ -133,7 +133,7 @@ Thus, about this I raise my voice and wail.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מַדּֽוּעַ בְּלֵיל פֶּֽסַח קוֹרִין תָּמִיד הַגָּדָה
 עַתָּה נֹאמַר בְּלֵיל זֶה בְּכִי תַּמְרוּר וּקְפָדָה
@@ -142,7 +142,7 @@ Thus, about this I raise my voice and wail.
 מַה נִּשְׁתַּנָּה הַלַּֽיְלָה הַזֶּה מִכָּל־הַלֵּילוֹת׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Madúang  be-leyl Pésaḥ qorin tamid Hagada
 Ngata nomar be-leyl ze bekhi tamerur u-qefada
@@ -151,7 +151,7 @@ Oy ngal qirya ḥamuda ve-ngal batey tefilot.
 Ma nishtana ha-láyla ha-ze mi-kol ha-leylot?
 </div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Why, on Passover night, do we always read the Haggadah
 but now, we say—on this night—bitter weeping and shuddering?
@@ -161,7 +161,7 @@ Woe, for the cherished city, and for the houses of prayer!
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מַדּֽוּעַ בְּלֵיל פֶּֽסַח נִגְמוֹר תָּמִיד הַהַלֵּל
 עַתָּה אֲנַֽחְנוּ בְּלֵיל זֶה נְהִי מִסְפֵּד וִילֵל
@@ -170,7 +170,7 @@ Woe, for the cherished city, and for the houses of prayer!
 מַה נִּשְׁתַּנָּה הַלַּֽיְלָה הַזֶּה מִכָּל־הַלֵּילוֹת׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Madúang  be-leyl Pésaḥ nighmor tamid ha-Halel
 Ngata anáḥnu be-leyl ze nehi misped vi-ylel
@@ -179,7 +179,7 @@ Ki beyt miqdash mitḥalel ve-gham ḥárbu heykhalot
 Ma nishtana ha-láyla ha-ze mi-kol ha-leylot?
 </div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Why, on Passover night, do we always finish the Hallel, 
 but now, we—on this night—lament, cry, and wail?
@@ -189,7 +189,7 @@ for the Holy House has been ruined, and the Palaces put to the sword!
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מַדּֽוּעַ בְּלֵיל פֶּֽסַח אוֹמְרִים ”שְׁפוֹךְ“ בְּזִמְרָה
 עַתָּה בְּלֵיל זֶה שָׁתִֽינוּ לַעַן רוֹשׁ וּמָרָה
@@ -197,7 +197,7 @@ for the Holy House has been ruined, and the Palaces put to the sword!
 מַה נִּשְׁתַּנָּה הַלַּֽיְלָה הַזֶּה מִכָּל־הַלֵּילוֹת׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Madúang  be-leyl Pésaḥ omerim "Shefokh" be-zimra
 Ngata be-leyl ze shatínu langan rosh u-mara
@@ -205,7 +205,7 @@ Oy, ki simḥa nengdára darkhei Ṣiyon abelot
 Ma nishtana ha-láyla ha-ze mi-kol ha-leylot?
 </div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Why, on Passover night, do we say "Pour out" in song,
 but now—on this night—we drink bitter wormwood and gall?
@@ -214,7 +214,7 @@ Woe, that joy has become absent, the paths of Zion, mourners!
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הִתְנַחֲמוּ בְּגָלוּת בָּנִים יוֹשְׁבִים בְּצִיּוֹן
 אֲרוֹמִמְכֶם מִשִּׁפְלוּת אָכִין עֲבֹדַת צִיּוֹן
@@ -222,7 +222,7 @@ Woe, that joy has become absent, the paths of Zion, mourners!
 אֶבְנֶה נְוֵה אַפִּרְיוֹן אָז תִּשְׂמְחוּ בְּגִילוֹת׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Hitnaḥamu be-ghalut banim yoshebim be-Ṣiyon
 Aromimekhem mi-shifelut akhin ngabodat Ṣiyon
@@ -230,7 +230,7 @@ Ebne neve apiryon az tismeḥu be-ghilot.
 Ebne neve apiryon az tismeḥu be-ghilot.
 </div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Be comforted in exile, children dwelling in Zion!
 I will raise you from your lowness, I will reëstablish the rite of Zion!
@@ -239,7 +239,7 @@ I will rebuild the canopy-abode, thus you will rejoice in glee!
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 עֽוּרָה־נָּא יְמִינְךָ רָמָה 
 וְלִזְעוּמָה קְרָא רֻחָֽמָה
@@ -259,7 +259,7 @@ I will rebuild the canopy-abode, thus you will rejoice in glee!
     וּבָ֤א לְצִיּוֹן֙ גּוֹאֵ֔ל
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Ngúra na yeminekha rama
 v-lizenguma qra ruḥáma
@@ -279,7 +279,7 @@ Ve-ye'amer ledal ha-sho'el
 UBA LeṢIYON GOEL
 </div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Awaken, please, Your right hand, Highest, 
 and on the cursed pronounce mercy!

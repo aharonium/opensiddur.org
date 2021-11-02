@@ -13,7 +13,7 @@ Aleinu is the central prayer of the <em>Malkhuyot</em> service for Musaf on Rosh
 
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
@@ -144,7 +144,7 @@ You will rule with <em>kavod</em> in the cosmos and eternally in the holy realms
 And as for me, I will declare holy your great and mighty and fearsome name,
 which is adorned, magnificent, wondrous, and honored,
 Hadiryarom Adiryarom,[foot]Or Hadiryaros Adiryaros. Cf. "Adiryaron Bahiryaron" at the beginning of the list of angelic names forming the acrostic 42-letter divine name in <a href="https://opensiddur.org/prayers/praxes/contemplation/adiryaron-bahiryaron-42-letter-name-in-the-sefer-hapeliah/">Sefer haPeliah</a> and <a href="https://opensiddur.org/prayers/praxes/contemplation/adiryaron-bahiryaron-42-letter-name-in-the-sefer-haqanah/">Sefer haQanah</a>. An alternate spelling in those works has Adiryarots Bahiryarots with a tsadi sofit in place of the nun sofit.[/foot] firm, great, pure, explicit is your name. 
-It hews with flames of fire.[foot]Cf. Psalms 92:7.[/foot]&nbsp;
+It hews with flames of fire.[foot]Or, "hewn with flames of fire" (thanks Shlomo Katz). Cf. Psalms 29:7. [/foot]&nbsp;
 Living YAH YHV YHV holy and fearsome. 
 You created the uppermost and the lowermost with your command.
 Blessed are you, YHVH, magnificent in chambers of song.

@@ -7,20 +7,23 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
+<strong>DOWNLOAD:</strong> 
 
-<strong>DOWNLOAD:</strong> <a href="https://opensiddur.org/wp-content/uploads/2012/12/Andrew-Shaw-Birkhot-haShachar-Morning-Blessings.txt">TXT</a> | <a href="https://opensiddur.org/wp-content/uploads/2012/12/Andrew-Shaw-Birkhot-haShachar-Morning-Blessings.odt">ODT</a> | <a href="https://opensiddur.org/wp-content/uploads/2012/12/Andrew-Shaw-Birkhot-haShachar-Morning-Blessings.pdf">PDF</a>
+<a href="https://opensiddur.org/wp-content/uploads/2012/12/Andrew-Shaw-Birkhot-haShachar-Morning-Blessings.txt">TXT</a> | <a href="https://opensiddur.org/wp-content/uploads/2012/12/Birkhot-haShachar-Morning-Blessings-Andrew-Shaw.odt">ODT</a> | <a href="https://opensiddur.org/wp-content/uploads/2012/12/Andrew-Shaw-Birkhot-haShachar-Morning-Blessings.pdf">PDF</a>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+<hr />
+
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation and Paraliturgical reflection (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מוֹדָה|מוֹדֶה אֲנִי לְפָנֶיךָ, רוּחַ חַי וְקַיָּם,‏
 שֶׁהֶחֱזַרְתָּ בִּי נִשְׁמָתִי בְּחֶמְלָה,‏
 רַבָּה אֱמוּנָתֶךָ.‏
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Thankful am I in your presence, spirit who lives and endures,
 for you’ve returned my soul to me with compassion.
 Abundant is your faith.
@@ -43,14 +46,14 @@ With words of thanks I’ll greet the dawn.
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 כָּל בְּרָכוֹת נוֹבְעוֹת מִן יָהּ, אֱלֹהֵינוּ, חֵי הָעוֹלָמִים,‏
 וְאָנוּ מְחֻדְשִׁים מִקְדוּשָׁת הַמִצְוֹת,‏
 וּמֵמִצְוַת נְטִילַת הַיָדָיִם.‏
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 All blessing flow from Yah, our God, life of the worlds.
 We are renewed through the holiness of <em>mitsvot</em>,
 and through the <em>mitsvah </em>of washing the hands.
@@ -68,7 +71,7 @@ of justice, love, and peace.
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם,‏
 אֲשֶׁר יָצַר אֶת הָאָדָם בְּחָכְמָה,‏
@@ -81,7 +84,7 @@ of justice, love, and peace.
 בָּרוּךְ אַתָּה יְיָ, רוֹפֵא כָל בָּשָׂר וּמַפְלִיא לַעֲשׂוֹת.‏
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Blessed are you, Eternal our God, majesty of all worlds,
 who formed the human being with wisdom,
 creating it with open openings
@@ -101,7 +104,7 @@ I am thankful for the miracles of life.
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 אֱלֹהַי, נְשָׁמָה שֶׁנָּתַתָּ בִּי-טְהוֹרָה הִיא.‏
 אַתָּה בְרָאתָהּ, אַתָּה יְצַרְתָּהּ, אַתָּה נְפַחְתָּהּ בִּי,‏
@@ -112,7 +115,7 @@ I am thankful for the miracles of life.
 בָּרוּךְ אַתָּה יְיָ, אֲשֶׁר בְּיָדוֹ נֶפֶשׁ כָּל חַי, וְרוּחַ כָּל בְּשָׂר.‏
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 My God, the soul you have given me is pure.
 You created it, you formed it, you breathed it into me,
 and you guard it within me.
@@ -148,202 +151,202 @@ and may we wake up to the beauty of life.
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 כָּל בְּרָכוֹת נוֹבְעוֹת מִן יָהּ, אֱלֹהֵינוּ, חֵי הָעוֹלָמִים,‏
 אֲשֶׁר נָתַן לַשֶּׂכְוִי בִינָה לְהַבְחִין בֵּין יוֹם וּבֵין לָיְלָה.‏
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 All blessings flow from Yah, our God, life of the worlds,
 who has given the rooster understanding to distinguish day from night.
 </div></td>
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 כָּל בְּרָכוֹת נוֹבְעוֹת מִן יָהּ, אֱלֹהֵינוּ, חֵי הָעוֹלָמִים,‏
 שֶׁעָשַׂנִי בְּצֶלֶם אֱלֹהִים.‏
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 All blessings flow from Yah, our God, life of the worlds,
 who has made me in the image of God.
 </div></td>
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 כָּל בְּרָכוֹת נוֹבְעוֹת מִן יָהּ, אֱלֹהֵינוּ, חֵי הָעוֹלָמִים,‏
 שֶׁעָשַׂנִי בָּת|בֶּן חוֹרִין.‏
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 All blessings flow from Yah, our God, life of the worlds,
 who has made me to be free.
 </div></td>
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 כָּל בְּרָכוֹת נוֹבְעוֹת מִן יָהּ, אֱלֹהֵינוּ, חֵי הָעוֹלָמִים,‏
 שֶׁעָשַׂנִי יִשְׂרָאֵל.‏
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 All blessings flow from Yah, our God, life of the worlds,
 who has made me a Jew.
 </div></td>
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 כָּל בְּרָכוֹת נוֹבְעוֹת מִן יָהּ, אֱלֹהֵינוּ, חֵי הָעוֹלָמִים,‏
 פּוֹקַחַת עִוְרִים.‏
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 All blessings flow from Yah, our God, life of the worlds,
 who opens the eyes of the blind.
 </div></td>
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 כָּל בְּרָכוֹת נוֹבְעוֹת מִן יָהּ, אֱלֹהֵינוּ, חֵי הָעוֹלָמִים,‏
 מַלְבִּישָׁה עֲרֻמִּים.‏
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 All blessings flow from Yah, our God, life of the worlds,
 who clothes the naked.
 </div></td>
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 כָּל בְּרָכוֹת נוֹבְעוֹת מִן יָהּ, אֱלֹהֵינוּ, חֵי הָעוֹלָמִים,‏
 מַתִּירָה אֲסוּרִים.‏
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 All blessings flow from Yah, our God, life of the worlds,
 who releases the bound.
 </div></td>
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 כָּל בְּרָכוֹת נוֹבְעוֹת מִן יָהּ, אֱלֹהֵינוּ, חֵי הָעוֹלָמִים,‏
 זוֹקֶפֶת כְּפוּפִים.‏
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 All blessings flow from Yah, our God, life of the worlds,
 who lifts up the bent.
 </div></td>
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 כָּל בְּרָכוֹת נוֹבְעוֹת מִן יָהּ, אֱלֹהֵינוּ, חֵי הָעוֹלָמִים,‏
 רוֹקַעַת הָאָרֶץ עַל הַמָּיִם.‏
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 All blessings flow from Yah, our God, life of the worlds,
 who spreads out the land upon the waters.
 </div></td>
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 כָּל בְּרָכוֹת נוֹבְעוֹת מִן יָהּ, אֱלֹהֵינוּ, חֵי הָעוֹלָמִים,‏
 שֶׁעָשָׂה לִּי כָּל צָרְכִּי.‏
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 All blessings flow from Yah, our God, life of the worlds,
 who provides for all of my needs.
 </div></td>
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 כָּל בְּרָכוֹת נוֹבְעוֹת מִן יָהּ, אֱלֹהֵינוּ, חֵי הָעוֹלָמִים,‏
 הַמֵּכִין מִצְעָדַי.‏
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 All blessings flow from Yah, our God, life of the worlds,
 who guides my steps.
 </div></td>
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 כָּל בְּרָכוֹת נוֹבְעוֹת מִן יָהּ, אֱלֹהֵינוּ, חֵי הָעוֹלָמִים,‏
 אוֹזֵר יִשְׂרָאֵל בִּגְבוּרָה.‏
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 All blessings flow from Yah, our God, life of the worlds,
 who girds Israel with strength.
 </div></td>
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 כָּל בְּרָכוֹת נוֹבְעוֹת מִן יָהּ, אֱלֹהֵינוּ, חֵי הָעוֹלָמִים,‏
 עוֹטֵר יִשְׂרָאֵל בְּתִפְאָרָה.‏
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 All blessings flow from Yah, our God, life of the worlds,
 who crowns Israel with splendor.
 </div></td>
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 כָּל בְּרָכוֹת נוֹבְעוֹת מִן יָהּ, אֱלֹהֵינוּ, חֵי הָעוֹלָמִים,‏
 הַנּוֹתֶנֶת לַיָּעֵף כֹּחַ.‏
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 All blessings flow from Yah, our God, life of the worlds,
 who gives strength to the weary.
 </div></td>
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 כָּל בְּרָכוֹת נוֹבְעוֹת מִן יָהּ, אֱלֹהֵינוּ, חֵי הָעוֹלָמִים,‏
 הַמַּעֲבִירָה שֵׁנָה מֵעֵינַי וּתְנוּמָה מֵעַפְעַפָּי.‏
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 All blessings flow from Yah, our God, life of the worlds,
 who removes sleep from my eyes, slumber from my eyelids.
 </div></td>
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 וִיהִי רָצוֹן מִלְּפָנֶיךָ יְיָ אֱלֹהֵינוּ,‏
 וֵאלֹהֵי אֲבוֹתֵינוּ, וֵאלֹהֵי אִמּוֹתֵנוּ,‏
@@ -358,7 +361,7 @@ who removes sleep from my eyes, slumber from my eyelids.
 בָּרוּךְ אַתָּה יְיָ, גּוֹמֵל חֲסָדִים טוֹבִים לְעַמּוֹ יִשְׂרָאֵל.‏
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 May it be your will, Eternal One, our God,
 the God of my fathers, and the God of my mothers,
 that we will accustom ourselves to your Torah,
@@ -378,12 +381,12 @@ who bestows good loving-kindness to God’s people Israel.
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Let us drink from the wellspring of Torah—
 engaging in holy words, 
 seeking wisdom in each moment,
@@ -394,14 +397,14 @@ bringing wholeness to our lives and healing to the world.
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 כָּל בְּרָכוֹת נוֹבְעוֹת מִן יָהּ, אֱלֹהֵינוּ, חֵי הָעוֹלָמִים,‏
 וְאָנוּ מְחֻדְשִׁים מִקְדוּשָׁת הַמִצְוֹת,‏
 וּמֵהַמִצְוָה לַעֲסוֹק בְּדִבְרֵי תוֹרָה.‏
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 All blessing flow from Yah, our God, life of the worlds.
 We are renewed through the holiness of <emzmitsvot</em>,
 and througz the <em>mitsvah</em> of engaging in words of Torah.
@@ -409,7 +412,7 @@ and througz the <em>mitsvah</em> of engaging in words of Torah.
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 וְהַעֲרֶב נָא, יְיָ אֱלֹהֵינוּ,‏
 אֶת דִּבְרֵי תוֹרָתְךָ בְּפִינוּ, וּבְפִי עַמְּךָ בֵּית יִשְׂרָאֵל,‏
@@ -418,7 +421,7 @@ and througz the <em>mitsvah</em> of engaging in words of Torah.
 בָּרוּךְ אַתָּה יְיָ, הַמְלַמֵּד תּוֹרָה לְעַמּוֹ יִשְׂרָאֵל.‏
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Eternal our God, please sweeten
 the words of your Torah in our mouths, 
 and in the mouths of your people, the house of Israel.
@@ -430,14 +433,14 @@ Blessed are you, Eternal One, teacher of Torah to God’s people Israel.
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 בְּרוּכָה אַתְּ שְׁכִינָה, אֱלֹהוֹתֵינוּ, מַלְכַּת הָעוֹלָם,‏
 אֲשֶׁר נָתְנָה לָנוּ תּוֹרַת אֱמֶת, וְחַיֵּי עוֹלָם נָטְעָה בְּתוֹכֵנוּ.‏
 בָּרוּכָה אַתְּ שְׁכִינָה, נוֹתֶנֶת הַתּוֹרָה.‏
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Blessed are you, Shekhinah, our God, Majesty of the world,
 who has given us a Torah of truth, and has planted within us eternal life.
 Blessed are you, Shekhinah, giver of Torah.
@@ -445,14 +448,14 @@ Blessed are you, Shekhinah, giver of Torah.
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 יְבָרֶכְךָ יְיָ וְיִשְׁמְרֶךָ.‏
 יָאֵר יְיָ פָּנָיו אֵלֶיךָ וִיחֻנֶּךָּ.‏
 יִשָּׂא יְיָ פָּנָיו אֵלֶיךָ וְיָשֵׂם לְךָ שָׁלוֹם.‏
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 May the Eternal One bless you and protect you.
 May the Eternal One’s presence shine upon you, being gracious to you.
 May the Eternal One’s presence be lifted toward you, granting you peace.
@@ -460,14 +463,14 @@ May the Eternal One’s presence be lifted toward you, granting you peace.
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 אֵלּוּ דְבָרִים שֶׁאֵין לָהֶם שִׁעוּר:‏
 הַפֵּאָה, וְהַבִּכּוּרִים, וְהָרְאָיוֹן,‏
 וּגְמִילוּת חֲסָדִים, וְתַלְמוּד תּוֹרָה.‏
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 These are deeds which have no limit:
 the corners of the field left for the poor,
 the first fruit offerings, festival offerings,
@@ -476,7 +479,7 @@ acts of loving-kindness, the study of Torah.
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 אֵלּוּ דְבָרִים שֶׁאָדָם אוֹכֵל פֵּרוֹתֵיהֶם בָּעוֹלָם הַזֶּה,‏
 וְהַקֶּרֶן קַיֶּמֶת לוֹ לָעוֹלָם הַבָּא, וְאֵלּוּ הֵן:‏
@@ -487,7 +490,7 @@ acts of loving-kindness, the study of Torah.
 וְתַלְמוּד תּוֹרָה כְּנֶגֶד כֻּלָּם.‏
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 These are deeds whose fruits are enjoyed in this world,
 whose principal remains for the world to come:
 respecting parents, acts of loving-kindness,
@@ -500,13 +503,13 @@ and the study of Torah is comparable to them all.
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 הֲרֵינִי מְקַבֶּלֶת|מְקַבֵּל עָלַי אֶת מִצְוַת הַבּוֹרֵא:‏
 וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ.‏
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 I hereby accept upon myself the <em>mitsvah</em> of the creator:
 “Love your neighbor as yourself.”
 </div></td></tr>

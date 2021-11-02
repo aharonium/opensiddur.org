@@ -7,11 +7,11 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew (source)</th><th style="text-align: left;">English (translation)</th></tr></thead>
 <tbody>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <span class="instruction">כְּזֶה הוּא הַסֵּדֶר לוֹמַר בְּשָׁעָה שֶׁמַּחֲזִיק בַּמַּעְדֵּר לַחֲפֹר חֲפִירָה לִנְטִיעָה:</span>
 </span></div></td>
@@ -21,7 +21,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 לְשֵׁם יִחוּד קוּדְשָׁא בְּרִיךְ הוּא וּשְׁכִינְתֵיהּ,
 בִּדְחִילוּ וּרְחִימוּ,
@@ -46,7 +46,7 @@ the holy soil.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 יְהִי רָצוֹן מִלְּפָנֶיךָ ה׳ אֱלֹהֵינוּ וְאֱלֹהֵי אֲבוֹתֵינוּ
 הַמַּצִּיב גְּבוּל וְהַמֵּשִׁיב בָּנִים לִגְבוּלָם,
@@ -64,7 +64,7 @@ in the holy soil.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְנִזְכֶּה לִרְאוֹת בְּטָהֳרַת אַדְמַת יִשְׂרָאֵל מִטֻּמְאָתָהּ
 בְּעֵת שְׁיְּנַעֲרוּ רְשָׁעִים מִמֶּנָּה.
@@ -76,7 +76,7 @@ in the time in which she is shaking off wickedness from herself
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְתָשׁוּב אֶל בַּעְלָהּ הָרִאשׁוֹן,
 עִם בִּנְיַן צִיּוֹן וִירוּשָׁלַיִם.

@@ -9,7 +9,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <table style="margin-left: auto;margin-right: auto;">
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 וְחֲמַת הָאֵשׁ  תִּשְׁכָּךְ
 &nbsp;
@@ -27,7 +27,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 וְחֲמַת הָאֵשׁ תִּשְׁכְָּךְ.
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 And the wrath of the fire will subside
 &nbsp;
 Our God in Heaven, 
@@ -45,7 +45,7 @@ and quell the heat of the flame.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 שְׁלַח־נָא אֶת יָדְךְ הַטּוֹבָה 
 לְאַחֵינוּ שֶׁנּעֱקְרוּ מִבָּתֵֶּיהֶם שֶׁהָיוּ
@@ -59,7 +59,7 @@ and quell the heat of the flame.
  עַל כָּל פְּנֵי הָאֲדָמָה.
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Pray send forth Your hand of good 
 to our siblings who have been uprooted from their homes, 
 devoured by flame, 
@@ -73,7 +73,7 @@ as a blessing upon the face of the earth.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 וְרַוֵּה פּנֵי תֵבֵל 
 וְשַׂבַּע אֶת הָעוֹלָם כֻּלּוֹ מִטּוּבָךְ,
@@ -81,7 +81,7 @@ as a blessing upon the face of the earth.
 וּמֵעשֶׁר מַתְּנוֹת יָדֶיךָ.
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 And quench the face of the world, 
 and satiate the whole cosmos with Your goodness, 
 and fill our hands with Your blessings 
@@ -89,7 +89,7 @@ and with the richness of Your generosity.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 שָׁמְרָה וְהַצִּילָה שָׁנָה זוֹ מִכָּל דָבָר רָע,
 וּמִכָּל מִינֵי מַשְׁחִית וּמִכָּל מִינֵי פּוּרְעָנוּת,
@@ -97,7 +97,7 @@ and with the richness of Your generosity.
 וְכֵן יְהִי רָצוֹן, וְנֹאמַר אָמֵן.
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Protect and save this year from any manner of evil, 
 and from any species of destruction or any kind of trouble, 
 and create for it good hope and a finality of peace. 

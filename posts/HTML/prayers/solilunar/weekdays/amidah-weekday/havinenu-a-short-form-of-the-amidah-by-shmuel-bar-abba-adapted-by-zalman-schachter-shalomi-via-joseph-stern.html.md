@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Adaptation (English, J.F. Stern)</th><th style="text-align: left;">Adaptation (English, Z. Schachter-Shalomi)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="26%">
@@ -255,7 +255,7 @@ Rabbi Zalman Schachter-Shalomi, z”l, included his adaptation of Rabbi Joseph F
 
 The earliest version of "Havinenu" appears in the Talmud in the name of Mar Shmuel. Here is Berakhot 29a with the version of Bavli Berakhot in <a href="https://www.sefaria.org/Kol_Bo.11.44-45?lang=bi" rel="noopener noreferrer" target="_blank">Kol Bo 11:44-45</a> appearing in [brackets] and the version left out of the Yerushalmi Berakhot appearing in (parentheses). The version of the Havinenu found in the Mishneh Torah follows the Bavli and adds the verse from Isaiah and it's explanation, both of which are also found in the Kol Bo's version of the Bavli nusaḥ.
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;" width="26%">

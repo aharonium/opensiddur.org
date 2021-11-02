@@ -38,7 +38,7 @@ The pointed Hebrew translation of the Aramaic is from Miklós Welcz's <em>Megila
 We hope to fully transcribe Rav Saadya Gaon or Rabbi Amram Zabban of G'ardaya's Arabic translation, and present them alongside translations in <a href="https://he.wikisource.org/wiki/%D7%9E%D7%A4%D7%AA%D7%97:Megilasz_Maiszjahu_Chanuka_T%C3%B6rt%C3%A9nete.pdf">Magyar</a> (Hungarian) and <a href="https://mr.wikisource.org/wiki/अनुक्रमणिका:The_History_of_Antiochus_Epiphanes_or_the_Institution_of_the_Feast_of_Dedication.pdf">Marathi</a> (South India).
 </div>
 
-<table style="width:100%;margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="width: 100%; margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Aramaic)</th><th style="text-align: right;">Translation (Hebrew)</th><th style="text-align: right;">Translation (Yiddish)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr>
@@ -153,7 +153,7 @@ We hope to fully transcribe Rav Saadya Gaon or Rabbi Amram Zabban of G'ardaya's 
 </span></div></td>
 <td style="vertical-align:top;"><div class="english" lang="en">
 <sup>9</sup> And this found favor in the eyes of his officers and in the eyes of all his army.
-</td></tr><tr><td style="vertical-align:top;" width="46%">
+</td></tr><tr><td style="vertical-align:top;">
 <div class="aramaic" lang="jpa">
 <sup>10</sup> בַה שָעְתָא קָם אַנטְיוּכַס מַלכָא ושלח בְנִיקָנוֹר תִניָנֵיה בְחֵיל רַב ובעם סַגִיא וַאְתָא לִירוּשלַם׃
 <sup>11</sup> קטל בַה קטלא סַגִיא וּנצַב צִלמָא בְבֵיתָא דְמַקדְשָׁא באתרא דִי אְמַר אֵילָה יִשֹרָאֵל לְעַבדוֹהִי נְבִיַיָא תַמָן אַשׁרִי שְׁכִינְתִי לעלם׃

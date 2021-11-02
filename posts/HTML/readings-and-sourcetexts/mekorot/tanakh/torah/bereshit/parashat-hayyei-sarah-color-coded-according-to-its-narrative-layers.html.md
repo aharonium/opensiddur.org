@@ -21,7 +21,7 @@ According to the poetry of the Midrash Tanchuma, Bereshit 1:1, the words of the 
 Parashat Ḥayyei Sarah (Genesis 23:1-25:18) in the annual Torah reading cycle, is read on the fourth shabbat of the month of Marḥeshvan. The parashah is preceded by <a href="https://opensiddur.org/liturgical-readings/torah-readings/annual-cycle/sefer-bereshit/parashat-vayera/parashat-vayera-color-coded-according-to-its-narrative-layers/">Parashat Vayera</a> (Genesis 18:1-22:24); <a href="https://opensiddur.org/liturgical-readings/torah-readings/annual-cycle/sefer-bereshit/parashat-toldot/parashat-toldot-color-coded-according-to-its-narrative-layers/">parashat Toldot</a> (Genesis 25:19–28:9) follows it.
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align: top;"><div class="liturgy" lang="he">

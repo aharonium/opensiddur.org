@@ -23,7 +23,7 @@ A few weeks later, Reb Zalman translated the Haftarah into Hebrew.
 Though the words came to me for one of the Shabbats of Consolation, I have often used it since as the Haftarah for Shabbat Noach, the Torah portion when we read the story of the Rainbow, symbolizing the healing of the Earth after the Flood.
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Translation (Hebrew)</th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

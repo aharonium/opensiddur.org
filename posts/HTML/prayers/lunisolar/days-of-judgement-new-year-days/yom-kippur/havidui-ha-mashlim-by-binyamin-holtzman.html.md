@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th style="text-align: right;" id="x">Source (Hebrew)</th><th style="text-align: left;">Transliteration (Romanization)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr>

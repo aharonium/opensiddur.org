@@ -27,7 +27,7 @@ According to the poetry of the Midrash Tanḥuma, Bereshit 1:1, the words of the
 Parashat Devarim <span class="citation">(Deuteronomy 1:1-3:22)</span> in the annual Torah reading cycle is the first parashah in Sefer Devarim. It is preceded by parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-bamidbar/parashat-masei/parashat-masei-color-coded-according-to-its-narrative-layers/">Masei</a> <span class="citation">(Numbers 33:1-36:13)</span>. Parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-devarim/parashat-vaethanan/parashat-vaethanan-color-coded-according-to-its-narrative-layers/">va'Etḥanan</a> <span class="citation">(Deuteronomy 3:23-7:11)</span>, follows it. 
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

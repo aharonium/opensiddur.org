@@ -7,11 +7,11 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Yiddish (source)</th><th style="text-align: left;">English (translation)</th></tr></thead>
 <tbody>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="yiddish" lang="yi">
 זאָג ניט קײן מאָל, אַז דו גײסט דעם לעצטן װעג, 
 כאָטש הימלען בלײַענע פֿאַרשטעלן בלױע טעג.
@@ -19,7 +19,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 ס׳װעט אַ פּױק טאָן אונדזער טראָט: מיר זײַנען דאָ!   
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Never say this is the final road for you, 
 though leadened skies may cover over days of blue. 
 As the hour that we longed for is so near, 
@@ -29,7 +29,7 @@ our step beats out the message: we are here!
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="yiddish" lang="yi">
 פֿון גרינעם פּאַלמענלאַנד ביז װײַסן לאַנד פֿון שנײ, 
 מיר קומען אָן מיט אונדזער פּײַן, מיט אונדזער װײ, 
@@ -37,7 +37,7 @@ our step beats out the message: we are here!
 שפּראָצן װעט דאָרט אונדזער גבֿורה, אונדזער מוט! 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 From lands so green with palms to lands all white with snow. 
 We shall be coming with our anguish and our woe, 
 and where a spurt of our blood fell on the earth, 
@@ -47,7 +47,7 @@ there are courage and our spirit have rebirth!
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="yiddish" lang="yi">
 ס׳װעט די מאָרגנזון באַגילדן אונדז דעם הײַנט,
 און דער נעכט װעט פֿאַרשװינדן מיט דעם פֿײַנט, 
@@ -55,7 +55,7 @@ there are courage and our spirit have rebirth!
 װי אַ פּאַראָל זאָל גײן דאָס ליד פֿון דור צו דור.   
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 The early morning sun will brighten our day, 
 and yesterday with our foe will fade away, 
 but if the sun delays and in the east remains – 
@@ -65,7 +65,7 @@ this song as password generations must remain.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="yiddish" lang="yi">
 דאָס ליד געשריבן איז מיט בלוט, און ניט מיט בלײַ, 
 ס׳איז ניט קײן לידל פֿון אַ פֿױגל אױף דער פֿרײַ, 
@@ -73,7 +73,7 @@ this song as password generations must remain.
 געזונגען מיט נאַגאַנעס אין די הענט. 
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 This song was written with our blood and not with lead, 
 it’s not a little tune that birds sing overhead, 
 this song a people sang amid collapsing walls, 
@@ -83,7 +83,7 @@ with pistols in hand they heeded to the call.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="yiddish" lang="yi">
 טאָ זאָג ניט קײן מאָל, אַז דו גײסט דעם לעצטן װעג, 
 כאָטש הימלען בלײַענע פֿאַרשטעלן בלױע טעג. 
@@ -91,7 +91,7 @@ with pistols in hand they heeded to the call.
 ס׳װעט אַ פּױק טאָן אונדזער טראָט: מיר זײַנען דאָ!   
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 So, never say the road now ends for you, 
 though leadened skies may cover over days of blue. 
 As the hour that we longed for is so near, 

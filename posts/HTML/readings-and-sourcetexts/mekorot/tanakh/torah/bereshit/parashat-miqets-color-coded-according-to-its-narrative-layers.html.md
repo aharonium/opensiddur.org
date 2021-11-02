@@ -21,7 +21,7 @@ According to the poetry of the Midrash Tanchuma, Bereshit 1:1, the words of the 
 Parashat Miqets (Genesis 41:1-44:17) in the annual Torah reading cycle, is read on the fourth shabbat of the month of Kislev. The parashah is preceded by <a href="https://opensiddur.org/readings-and-sourcetexts/torah-readings/annual-cycle/sefer-bereshit/parashat-vayeshev/parashat-vayeshev-color-coded-according-to-its-narrative-layers/">Vayeshev</a> (Genesis 37:1–40:23); parashat <a href="https://opensiddur.org/readings-and-sourcetexts/torah-readings/annual-cycle/sefer-bereshit/parashat-vayigash/parashat-vayigash-color-coded-according-to-its-narrative-layers/">Vayigash</a> (Genesis 44:18–47:27) follows it.
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

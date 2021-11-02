@@ -15,45 +15,45 @@ Text marked in blue is intended to be read in <a href="https://opensiddur.org/re
 Note: “The CAUSE” is used to translate the Divine Name YHVH, based on the philosophical idea of God as the Prime Mover and on the interpretation of the Name as a causative form of the copula – “causes to be.”
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <span class="instruction">הַיּוֹם יוֹם צוֹם גְּדַלְיָהוּ הוּא צוֹם הַשְּׁבִיעִי וּבוֹ יֵשׁ אוֹמְרִים׃ תהלים קכ, קכא:א-ב</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <span class="instruction">Today is the fast day of Gedalyah, the fast of the seventh month, and on it some say: Psalms 120, Psalms 121:1-2</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 שִׁ֗יר הַֽמַּ֫עֲל֥וֹת
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 A song of the stairs.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֶל־יְ֭הֹוָה בַּצָּרָ֣תָה לִּ֑י
 קָ֝רָ֗אתִי וַֽיַּעֲנֵֽנִי׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 To the CAUSE in the strife I faced,
 I called and the One answered.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 יְֽהֹוָ֗ה הַצִּ֣ילָה נַ֭פְשִׁי מִשְּׂפַת־שֶׁ֑קֶר
 מִלָּשׁ֥וֹן רְמִיָּֽה׃
@@ -63,7 +63,7 @@ I called and the One answered.
 עִ֗֝ם גַּחֲלֵ֥י רְתָמִֽים׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 CAUSE, redeem my being from lying lips,
 from slippery tongue!
@@ -74,7 +74,7 @@ hot coals of bramble.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <span style="color:blue;">אֽוֹיָה־לִ֭י כִּי־גַ֣רְתִּי מֶ֑שֶׁךְ
 שָׁ֝כַ֗נְתִּי עִֽם־אׇהֳלֵ֥י קֵדָֽר׃
@@ -84,7 +84,7 @@ hot coals of bramble.
 הֵ֗֝מָּה לַמִּלְחָמָֽה׃ </span>
 </div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Woe is me, for I dwell in Meshekh,
 that I live with the nomads' tents!
@@ -95,18 +95,18 @@ they are for war.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 שִׁ֗יר לַֽמַּ֫עֲל֥וֹת 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 A song for the stairs.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֶשָּׂ֣א עֵ֭ינַי אֶל־הֶהָרִ֑ים
 מֵ֝אַ֗יִן יָבֹ֥א עֶזְרִֽי׃ 
@@ -114,7 +114,7 @@ A song for the stairs.
 עֹ֝שֵׂ֗ה שָׁמַ֥יִם וָאָֽרֶץ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 I lift my eyes to the mountains,
 from where will my help come?

@@ -25,7 +25,7 @@ According to the poetry of the Midrash Tanḥuma, Bereshit 1:1, the words of the
 Parashat Ki Tissa <span class="citation">(Exodus 30:11-34:35)</span> in the annual Torah reading cycle, is read on the third shabbat of the month of Adar (or Adar Alef in a Jewish leap year). The parashah is preceded by parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-shemot/parashat-ttsavveh/parashat-ttsavveh-color-coded-according-to-its-narrative-layers/">T'tsavveh</a> <span class="citation">(Exodus 27:20-30:10)</span>; parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-shemot/parashat-vayaqhel/parashat-vayaqhel-color-coded-according-to-its-narrative-layers/">Vayaqhel</a> <span class="citation">(Exodus 35:1-38:20)</span> follows it. Exodus 33:12-34:26 is read on Sukkot Shabbat Ḥol haMo'ed, the shabbat immediately preceding Simḥat Torah on which Parashat <a href="https://opensiddur.org/readings-and-sourcetexts/mekorot/tanakh/torah/devarim/parashat-vzot-habrakhah-color-coded-according-to-its-narrative-layers/">Zot haBrakhah</a> is read.
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

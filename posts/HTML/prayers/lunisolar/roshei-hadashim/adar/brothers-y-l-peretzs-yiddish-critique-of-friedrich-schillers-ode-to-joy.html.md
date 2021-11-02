@@ -7,23 +7,23 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Yiddish)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="yiddish" lang="yi" style="text-align: right;">
 ברידער
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <u>Brothers</u>
 </div>
 </td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="yiddish" lang="yi" style="text-align: right;">
 װײסע, ברױנע, שװארצע, געלבע —
 מישט די פארבן אױס צוזאמען!
@@ -32,7 +32,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 White, Brown, Black, Yellow –
 mix the colors all together!
@@ -42,7 +42,7 @@ From the same father, from the same mother!
 </td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="yiddish" lang="yi" style="text-align: right;">
 אױך — אײן גאָט האָט זײ באַשאַפן,
 און — אײן פאָטערלאַנד די װעלט —
@@ -51,7 +51,7 @@ From the same father, from the same mother!
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And one God has created them all,
 and one homeland: the world –
@@ -62,7 +62,7 @@ that is absolutely certain!
 
 <tr><td><div class="liturgy" lang="he" style="text-align: right;">* * *</td><td></td></tr>
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="yiddish" lang="yi" style="text-align: right;">
 אלע מענטשן זײנען ברידער,
 שװארצע, װײסע, ברױנע, געלבע...
@@ -71,7 +71,7 @@ that is absolutely certain!
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 All people are brothers
 Black, White, Brown, Yellow...
@@ -81,7 +81,7 @@ but their Nature is the same!
 </td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="yiddish" lang="yi" style="text-align: right;">
 אומעטום דאָס זעלבע פּראַלן,
 כ׳האָב עס טױזנט מאָל געהערט!
@@ -90,7 +90,7 @@ but their Nature is the same!
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Everywhere the same bluster,
 I've heard it thousands of times!
@@ -100,7 +100,7 @@ It's (as distant as) heaven to earth!
 </td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="yiddish" lang="yi" style="text-align: right;">
 אלע מענטשן זײנען ברידער:
 געלבע, ברױנע, שװאַרצע, װײסע...
@@ -109,7 +109,7 @@ It's (as distant as) heaven to earth!
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 All human beings are brothers,
 Yellow, Brown, Black, White...
@@ -119,7 +119,7 @@ it's all an Enlightenment fiction!
 </td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="yiddish" lang="yi" style="text-align: right;">
 אומעטום דער זעלבער מוסר,
 אומעטום דאָס זעלבע לײַגן —
@@ -128,7 +128,7 @@ it's all an Enlightenment fiction!
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Everywhere the same <em>mussar</em>,[foot]moral, ethic, instruction, rebuke[/foot]&nbsp;<br />
 everywhere the same lie –
@@ -138,7 +138,7 @@ the politicians with their silence![foot]Thanks to Sabine Arndt for offering thi
 </td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="yiddish" lang="yi" style="text-align: right;">
 אלע מענטשן זײנען ברידער!
 און — זײ שפּילן זיך אין פלישקעס,
@@ -147,7 +147,7 @@ the politicians with their silence![foot]Thanks to Sabine Arndt for offering thi
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 All people are brothers!
 And they amuse themselves with frivolities,[foot]<em>plishkes</em>, probably from <em>pliszka</em>, although literally referring to wagtail, a kind of bird, is used metaphorically to mean "small thing."[/foot]&nbsp;<br />

@@ -17,48 +17,48 @@ Finally, I personally chose to alternate between the feminine and masculine Hebr
 This ceremony was remarkably meaningful to me. I hope others find the same spiritual joy in it that I did.
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 פתיחה
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <u>Opening</u>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <span class="instruction">Transitioner lights Havdalah candle.</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <span class="instruction">[Transitioner may explain that the Havdalah candle marks a moment of passage. Both end and beginning.]</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <span class="instruction">Transitioner says (in English):</span>
 &nbsp;
@@ -72,12 +72,12 @@ and call Shabbat holy.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Today, I mark my own transition: 
 I join with my [family | community | chosen family]&nbsp;
@@ -87,7 +87,7 @@ and to renew my place in your covenant.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה 
 ה׳ אֱ-לֹהֵינוּ
@@ -95,7 +95,7 @@ and to renew my place in your covenant.
 הַמַּעֲבִיר לְעֹבְרִים׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Barukh ata 
 Adonai Eloheinu 
@@ -109,12 +109,12 @@ helper to those who transform.[foot]Cf. Rabbi Eli Kukla, "<a href="http://transt
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 [I have stood before a beit din, a Jewish ritual court, 
 and they have certified with me my plan to change my name 
@@ -122,12 +122,12 @@ and affirm my gender through this ritual.]&nbsp;
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 [I completed a mikveh, a ritual bath, 
 which I used to introspect, 
@@ -135,23 +135,23 @@ to engage in the personal aspect of my spiritual affirmation.]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <u>Gender Change</u>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Adonai, I now stand before Your people, the people of Israel, 
 and before my broader network of friends and family, 
@@ -165,12 +165,12 @@ instructed by the hidden Jewish legacy of gender complexity and by your word).
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <span class="instruction">Parents or Close Jewish Mentor figure(s) say:</span> 
 &nbsp;
@@ -192,7 +192,7 @@ And let us say, <em>Amen</em>.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 &nbsp;
 &nbsp;
@@ -202,7 +202,7 @@ And let us say, <em>Amen</em>.
 שֶׁעָשַֽׂנִי כִּרְצוֹנָהּ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <span class="instruction">Transitioner:</span>
 &nbsp;
@@ -219,45 +219,45 @@ bodies and genders are created in God’s image whether we identify as men, wome
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <u>Name Change</u>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Up until now my Hebrew name has been [old Hebrew name], 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <span class="instruction">[optionally talk about the old name]</span> 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 This name no longer fits my identity as a Jewish [woman/man/nonbinary person]. 
 Thus, I seek to change my name before Adonai. 
@@ -267,18 +267,18 @@ and the name by which I shall be known for all Jewish life-cycle events.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <span class="instruction">[optionally talk about the significance of the name]</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 בְּרוּכַה אַתְּ
 יָהּ הַשְּׁכִינָה 
@@ -286,7 +286,7 @@ and the name by which I shall be known for all Jewish life-cycle events.
 שֶׁעָשַֽׂנִי בְּצָלְמָהּ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Brukhah at 
 YAH haShekhinah, 
@@ -300,12 +300,12 @@ who has made me in God’s image.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 I have asked [Parents/Trusted Jewish Mentor figures (s)]&nbsp;
 [to talk about my name, then]&nbsp;
@@ -315,7 +315,7 @@ to confer my name upon me with their blessing.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 &nbsp;
 &nbsp;
@@ -325,7 +325,7 @@ to confer my name upon me with their blessing.
 בּוֹרֵא פְּרִי הַגֶּפֶן (הַגָּפֶן)׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <span class="instruction">All assembled make the following blessing:</span>
 &nbsp;
@@ -343,12 +343,12 @@ creator of the fruit of the vine.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <span class="instruction">[Jewish friends/mentors read each of the following lines]</span>&nbsp;
 Adonai, God of our Ancestors, 
@@ -359,12 +359,12 @@ and let [her/him/them] be known in Israel as [Chosen Hebrew name].
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 May [her/his/their] name be a source of joy and pride 
 to us – [her/his/their] parents –
@@ -372,12 +372,12 @@ and to all of [her/his/their] family, and all of Israel.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 May this [person’s chosen] family 
 continue to grow together in health and strength, 
@@ -387,12 +387,12 @@ Joy, and acts of kindness.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <span class="instruction">All together, say:</span>
 &nbsp;
@@ -406,18 +406,18 @@ And let us say, <em>Amen</em>.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <span class="instruction">extinguish havdalah candle in wine</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 &nbsp;
 &nbsp;
@@ -429,7 +429,7 @@ And let us say, <em>Amen</em>.
 וְהִגִּיעָנוּ לַזְּמַן הַזֶּה׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <span class="instruction">Together, recite the following blessing:</span>
 &nbsp;
@@ -448,12 +448,12 @@ and brought us to this joyous time.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <span class="instruction">Individual parent/Jewish Mentor Figure:</span>
 &nbsp;
@@ -464,7 +464,7 @@ to bless the ancient tribes of our people:
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 &nbsp;
 &nbsp;
@@ -475,7 +475,7 @@ to bless the ancient tribes of our people:
 יִשָּׂא ה׳ פָּנָיו אֵלַיִךְ וְיָשֵׂם לָךְ שָׁלוֹם׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <span class="instruction">For a woman, say:</span>
 &nbsp;
@@ -487,7 +487,7 @@ May God show you kindness and grant you peace.[foot]Cf. Numbers 6:24-26.[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 &nbsp;
 &nbsp;
@@ -498,7 +498,7 @@ May God show you kindness and grant you peace.[foot]Cf. Numbers 6:24-26.[/foot]
 יִשָּׂא ה׳ פָּנָיו אֵלֶיךָ וְיָשֵׂם לְךָ שָׁלוֹם׃ <span class="citation">(דברים ו:כד-כו)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <span class="instruction">For a man, say:</span>
 &nbsp;
@@ -510,7 +510,7 @@ May God show you kindness and grant you peace.[foot]Numbers 6:24-26.[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 &nbsp;
 &nbsp;
@@ -521,7 +521,7 @@ May God show you kindness and grant you peace.[foot]Numbers 6:24-26.[/foot]
 יִשָּׂא ה׳ פָּנָיו אֵלֶיךֶ וְיָשֵׂם לְךֶ שָׁלוֹם׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <span class="instruction">For a nonbinary person, say:</span>
 &nbsp;
@@ -535,23 +535,23 @@ May God show you kindness and grant you peace.[foot]Cf. Numbers 6:24-26.[/foot]
 
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מַזָּל טוֹב!
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 MAZAL TOV!
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 סִימָן טוֹב וּמַזָּל טוֹב.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Siman tov v’mazal tov.
 </div></td></tr>

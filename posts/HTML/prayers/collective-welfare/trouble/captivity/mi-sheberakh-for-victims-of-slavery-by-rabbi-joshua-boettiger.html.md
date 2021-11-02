@@ -7,10 +7,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מי שברך אבותינו ואמותינו 
 והוציאנו ממצרים 
@@ -20,7 +20,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 חמדה טובה ורחבה.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 May the One who blessed our ancestors, 
 who brought us out of the land of Egypt 
 and freed us from being at home in slavery, 
@@ -30,7 +30,7 @@ beautiful, bountiful, and expansive.
 </td>
 </tr>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 יי יחזקם ויחון אותם באומץ לב ואמונה 
 למען יחיו.
@@ -38,7 +38,7 @@ beautiful, bountiful, and expansive.
 כדי שנרדוף צדק למען חרותם של כל יושבי תבל.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 May <em>Adonai</em> give them strength, courage, and faith 
 in order that they may live, 
 and may <em>Adonai</em> give us strength, courage and faith 
@@ -46,7 +46,7 @@ to pursue justice for the sake of the freedom of all humanity.
 </td>
 </tr>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 ולא ידע אף אדם את בושתה והשפלתה של העבדות
  וכדי שנוכל כולנו לעבוד את יי כפי שנבראנו על ידיו --
@@ -54,7 +54,7 @@ to pursue justice for the sake of the freedom of all humanity.
 ונאמר אמן.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 May no one again know the shame and humiliation of slavery 
 and may we – all of us – be able to serve <em>Adonai</em> as we were created --
 as free men, women, and children. 

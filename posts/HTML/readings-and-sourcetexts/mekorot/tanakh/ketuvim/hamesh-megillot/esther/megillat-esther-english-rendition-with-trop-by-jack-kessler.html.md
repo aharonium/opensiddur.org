@@ -12,83 +12,83 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 <h3>The Megillah of Esther: An Original English Rendition</h3>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Our Jewish heritage is a rich treasury of the accumulated wisdom (and wit) of the many centuries of our remarkable history. One of the greatest challenges facing the contemporary Jewish community outside Israel is that of making this heritage accessible, in light of the language barrier posed by classical Hebrew.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 A successful formula employed by a growing number of congregations and ḥavurot is the singing of Biblical texts - Torah, Haftarot, and Megillot - in English which has been set to Trop, the ancient melodic chant system for these texts. For many, this is an ideal way to communicate the meaning of the Hebrew text.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 This setting of Megillat Esther is an imaginative, humorous rendition of the story of Purim. Sing it entirely in English, or do it in sections alternating this English with Hebrew.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 This Megillah encourages involvement! The English text is simple and fun for all ages. The goal is to make Purim, well, Purim: lots of <em>meshugass</em>, with the underlying message that it's just flat-out great to be Jewish!
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Ḥazzan Jack Kessler
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 <h3>Blessings Before the Megillah</h3>
 
 <strong>Audio:</strong> <a href="http://jewishfreeculture.org/wp-content/uploads/2018/02/Hazzan-Jack-Kessler-The-Megillah-of-Esther-An-Original-English-Rendition-with-trop.mp3">MP3</a> [su_audio url="http://jewishfreeculture.org/wp-content/uploads/2018/02/Hazzan-Jack-Kessler-The-Megillah-of-Esther-An-Original-English-Rendition-with-trop.mp3" width="60%"]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 בָּרוּךְ אַתָּה 
 יְיָ אֱלֹהֵֽינוּ 
@@ -97,7 +97,7 @@ This Megillah encourages involvement! The English text is simple and fun for all
 וְצִוָּֽנוּ עַל מִקְרָא מְגִלָּה:‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Blessed be You, 
 YHVH (Hashem), our <em>elo'ah</em>, 
 Master of the Cosmos, 
@@ -112,7 +112,7 @@ v'tsivanu al mikra Megilla
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 בָּרוּךְ אַתָּה 
 יְיָ אֱלֹהֵֽינוּ 
@@ -122,7 +122,7 @@ v'tsivanu al mikra Megilla
 בַּזְּמַן הַזֶּה:‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Blessed be You, 
 YHVH (Hashem), our <em>elo'ah</em>, 
 Master of the Cosmos, 
@@ -139,7 +139,7 @@ bazman hazeh
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 בָּרוּךְ אַתָּה 
 יְיָ אֱלֹהֵֽינוּ 
@@ -149,7 +149,7 @@ bazman hazeh
 וְהִגִּיעָֽנוּ לַזְּמַן הַזֶּה:‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Blessed be You, 
 YHVH (Hashem), our <em>elo'ah</em>, 
 Master of the Cosmos, 
@@ -166,12 +166,12 @@ v'higiyanu lazman hazeh
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 ֤Once upon a ֜time, in the t֣ime of Aḥash've֔rosh
 Now this was the֜ Aḥash'ver֔osh whose ֣empire
 extended all the way from In‎֖dia to Ethiopia׃
@@ -189,12 +189,12 @@ from our ֖holy Temple׃
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 The festi֜vities went on and ֔on and ֥on and ֖on and on׃
 And on the s֤eventh d֜ay
 when the k֣ing was pretty dr֔unk
@@ -213,12 +213,12 @@ would ֖be his new queen׃
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 And ֞so Mordechai the J֛ew sent his ֖niece ֥Esther
 to try ֣out for the j֑ob
 And ֞Esther was the ֜most be֨autiful of ֗all
@@ -233,12 +233,12 @@ hang ֥on— there's a <em>l֖ot</em> to come׃
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 One d֞ay M֤ordechai h֜eard two g֣uards
 pl֔otting to m֥urder the king׃
 M֜ordechai rep֨orted what he had he֗ard
@@ -256,12 +256,12 @@ but M֣ordechai ref֣used to bow ֣down to Haman
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Wh֤en the o֜fficers tol֣d him to bow d֔own
 Mordechai s֞aid: I ֤am a J֜ew
 and ֣I don’t b֔ow to a֥nyone b֣ut my ֑God
@@ -270,12 +270,12 @@ and th֥is make֖s me free׃
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Haman was ֜absolutely f֨urious
 and ֤went to the ki֜ng and s֔aid:
 O your Hi֞ghness, Bel֜oved and Mi֨ghty
@@ -292,12 +292,12 @@ fo֖r your treasury׃
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 And the ֤king s֜aid: sounds ֣fine to m֔e
 <em>gei gesunte-heit</em>
 d֖o what you w֥ant with ֣these p֑eople
@@ -306,12 +306,12 @@ I’ve got a d֖ate with the Queen׃
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 And ֞so all the d֜ays of the ye֨ar
 were ֤written on pieces of p֜aper
 and p֣ut in a b֔ox
@@ -331,12 +331,12 @@ who w֖ouldn't bow d֥own to Haman.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Now when the J֤ews h֜eard this
 they th֔ought t֥hey were d֣oomed for s֑ure
 but M֥ordechai got a ֖message to Esther׃
@@ -350,12 +350,12 @@ to s֥ave your people׃
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Now E֞sther was ֜ter֨rified
 bec֤ause if she went to the ki֜ng
 with֣out being in֔vited
@@ -364,12 +364,12 @@ but ֖she deci֥ded to do it׃
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 So E֞sther dr֕essed in ֤her sn֜appiest lo֘w-cut queen ֒outfit,
 and she w֞alked into the th֧rone room, uni֛nvited.
 She went ֤up to the ki֜ng on his thr֔one
@@ -388,12 +388,12 @@ please b֤ring Haman.”
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 That nig֥ht, the king had insomnia.׃
 So he c֞alled for the c֤ourt r֜ecords to be read out l֔oud,
 so tha֥t he could be ֖bored to sleep׃
@@ -425,12 +425,12 @@ M֤ake it ֜so! so let it be wr֥itten, so let it be done!”׃
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 And ֗so: the next ni֞ght, a֤fter the e֜nd
 of a v֤ery, ֜very, v֣ery long d֔ay,
 Haman dr֥agged him֣self h֑ome,
@@ -448,12 +448,12 @@ to escort Haman to that f֖ateful dinner׃
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 And so the ki֞ng and Haman went to Esther's p֑arty.
 The k֤ing was in a good m֜ood, and said to E֔sther:
 “T֜ell me, dear Q֨ueen, w֧hat do you want n֛ow?
@@ -468,12 +468,12 @@ And Esthe֤r said: Thi֜s one! This Evil O֜ne — HAMAN
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Now the E֤vil One could ֜see that he had a pr֔oblem
 and b֖owed d֥own to b֣eg for m֑ercy
 but he j֤ust h֜appened to t֞rip
@@ -499,12 +499,12 @@ us֤e the g֜allows to hang HAMAN
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Now the st֥ory’s not ֣quite ֑over
 The ki֞ng didn't l֤ike to change his ֜orders
 on֣ce he’d giv֔en them
@@ -524,12 +524,12 @@ happi֖ly ever ֑after
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Now ֤what can we le֜arn from ֣all thi֔s?
 As ֤it is w֜ritten in the bo֣oks of the Wi֔se Ones
 coi֤ncidence is G֜od's way of st֣aying ano֔nymous
@@ -548,17 +548,17 @@ and th֥is ma֖kes us free!</strong>׃
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 <h3>Blessings after the Megillah</h3>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 בָּרוּךְ אַתָּה 
 יְיָ אֱלֹהֵֽינוּ 
@@ -569,7 +569,7 @@ and th֥is ma֖kes us free!</strong>׃
 הַנִּפְרָע לְעַמּוֹ יִשְׂרָאֵל מִכָּל צָרֵיהֶם הָאֵל הַמּוֹשִֽׁיעַ:‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Blessed are You, 
 YHVH (Hashem), our <em>elo'ah</em>, 
 Master of the Cosmos, 

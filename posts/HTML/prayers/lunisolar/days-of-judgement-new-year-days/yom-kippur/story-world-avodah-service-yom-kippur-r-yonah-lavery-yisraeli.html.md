@@ -7,15 +7,15 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 abyssal murmurs at the dawn of starlight[foot]creation[/foot]
 as footsteps collect in sixes fours twos[foot]animals[/foot]
 and the first person divides into lovers[foot]Adam and Eve[/foot]
@@ -25,12 +25,12 @@ knowledge parts the path between the sibilant species[foot]people and snakes[/fo
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 a child's blood learns the language of God[foot]Cain and Abel[/foot]
 a child of a child finds the country of God[foot]Ḥanokh[/foot]
 a child of a child of a child did all right[foot]Noaḥ[/foot]
@@ -44,12 +44,12 @@ is refused landing
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 two are born who see through the spirits[foot]Abraham and Sarah[/foot]
 and call the sun a sun and the humans people
 make all these walls doors they say
@@ -59,12 +59,12 @@ as they peel back the skins of their tent
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 vision wraps and unwraps the mountain[foot]Isaac (Aqeidah)[/foot]
 oil glints on the morning dolmen[foot]Jacob (monument after ladder dream)[/foot]
 a box rattles a girl kicks[foot]Dinah[/foot]
@@ -74,12 +74,12 @@ colours muddy in a pit by the highway[foot]Joseph[/foot]
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 there is an us for dreams to lure[foot]children of Rachel and Leah[/foot]
 to a civilised Egypt
 and for a pestilent clarity
@@ -89,12 +89,12 @@ to wrench once more wildward
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 and from that crowd one leaves to bathe[foot]Aaron at the mishkan[/foot]
 since knowing water is knowing blood
 and knowing blood is knowing mercy

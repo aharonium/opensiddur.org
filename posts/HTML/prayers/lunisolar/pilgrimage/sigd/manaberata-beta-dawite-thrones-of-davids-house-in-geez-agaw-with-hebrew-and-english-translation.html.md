@@ -33,7 +33,7 @@ Menabērtē Bēytē Dawid (Thrones of David's House) is the sixth prayer in this
 This is part one of a series of Sigd readings in English, Hebrew, and Ge'ez transliteration that the editor will be posting here.
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Translation (Hebrew)</th><th style="text-align: left;">Translation (English)</th><th style="text-align: left;">Source (Ge'ez & Agaw)</th><th style="text-align: left;">Transliteration (Ge'ez & Agaw)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
@@ -63,37 +63,42 @@ Mänabərätä betä Dawitə, täzäyanäwu däḫənaha läʾIyärusalemə.
 
 <tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
-בָּשָׂר בָּשָׂר
-עַל יְרוּשָׁלָיִם
-בָּשָׂר לָנוּ
-בָּשָׂר בָּשָׂר
-עַל בֵּית הַמִּקְדָּשׁ
-בָּשָׂר לָנוּ
+הַהַגָּדָה הַגָּדַת 
+יְרוּשָׁלַיִם 
+הַהַגָּדָה הַהַגָּדָה שְׁמָעוּ!
+הַהַגָּדָה הַגָּדַת 
+בֵּית הַמִּקְדָּשׁ 
+הַהַגָּדָה הַהַגָּדָה שְׁמָעוּ!
 </div></td>
  
 <td style="vertical-align:top;">
 <div class="english" lang="en" style="text-align: left;">
-Flesh, flesh
-[longs] for Jerusalem,
-our very flesh!
-Flesh, flesh [longs]&nbsp;
-for the Holy Temple,
-our very flesh!
+The tale, the tale 
+of Jerusalem; 
+the tale, the tale, hear it! 
+The tale, the tale 
+of the Holy Temple; 
+the tale, the tale, hear it! 
 </div></td>
 
 <td style="vertical-align:top;">
 <div class="ethiopic" lang="ahg" style="text-align: left;">
-
+ጂጘ ፡ ጂጘ ፣ 
+ኢየሩሳሌም ፣ 
+ጂጘ ፡ ጂጘ ፡ ዋሲ።
+ጂጘ ፡ ጂጘ ፣ 
+ቤተ ፡ መቅደስ ፣ 
+ጂጘ ፡ ጂጘ ፡ ዋሲ፨
 </div></td>
  
 <td style="vertical-align:top;">
 <div class="romanized-transliteration" style="text-align: left;">
-Djingä, djingä, 
-Iyrusälem,
-Djingä, djingä wäši.
-Djingä, djingä,
-Bēytä Mäqdäs,
-Djingä, djingä wäši.[foot]these lines in Agaw[/foot]
+Ǧiŋä ǧiŋä, 
+ʾIyärusalemə, 
+ǧiŋä ǧiŋä wasi. 
+Ǧiŋä ǧiŋä, 
+Betä Mäḳədäsə, 
+ǧiŋä ǧiŋä wasi.[foot]Much gratitude to Dr. David Appleyard with his help with these lines in Agaw.[/foot]
 </div></td></tr>
 
 
@@ -128,25 +133,26 @@ wäbäʾənətä betä ʾƎgəziʾäbəḥerə ʾäməlakiyä, ḫäśäśəku �
 
 <tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
-הִתְגַּעְגַּעְתִּי כֵּן הִתְגַּעְגַּעְתִּי
-הִתְגַּעְגַּעְתִּי כֵּן הִתְגַּעְגַּעְתִּי
+אֲבַקְשָׁה כֵּן אֲבַקְשָׁה׃
+אֲבַקְשָׁה כֵּן אֲבַקְשָׁה׃
 </div></td>
  
 <td style="vertical-align:top;">
 <div class="english" lang="en" style="text-align: left;">
-I have longed, yes, longed
-I have longed, yes, longed
+I wish for it, yes, I wish for it.
+I wish for it, yes, I wish for it.
 </div></td>
 
 <td style="vertical-align:top;">
 <div class="ethiopic" lang="ahg" style="text-align: left;">
-
+ጀበረኵ ፡ እምኔን ፡ ጀበረኵ።
+ጀበረኵ ፡ እምኔን ፡ ጀበረኵ፨
 </div></td>
  
 <td style="vertical-align:top;">
 <div class="romanized-transliteration" style="text-align: left;">
-Djeräbku ämnen, djeräbku
-Kemēmesi äwnen djeräbku[foot]these lines in Agaw[/foot]
+Ǧäbäräkʷə ʾəmənenə ǧäbäräkʷə. 
+Ǧäbäräkʷə ʾəmənenə ǧäbäräkʷə.[foot]Much gratitude to Dr. David Appleyard with his help with these lines in Agaw.[/foot]
 </div></td></tr>
 
 
@@ -195,13 +201,13 @@ Bring the poor and immigrant and let them dwell in your houses.
 
 <td style="vertical-align:top;">
 <div class="ethiopic" lang="ahg" style="text-align: left;">
-
+[audio mp3="https://opensiddur.org/wp-content/uploads/2019/11/Agaw-line-3-Manabərata-beta-Dawitə-Thrones-of-Davids-House.mp3"][/audio]
 </div></td>
  
 <td style="vertical-align:top;">
 <div class="romanized-transliteration" style="text-align: left;">
 Ängeni kinedēy geni
-Kindësi kiligeliu geni[foot]these lines in Agaw[/foot]
+Kindësi kiligeliu geni[foot]these lines in Agaw. Dr. Appleyard notes the transcription we have here differs from the recording. The meaning of either the recording or the transcription available to us is not available at this time. If anyone can offer more clarity here, please <a href="/contact/">contact us</a> or leave a comment.[/foot]
 </div></td></tr>
 
 

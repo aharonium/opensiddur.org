@@ -7,26 +7,26 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;"><a href="https://opensiddur.org/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
+<thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <u>The Peace of Pity</u>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 O brother man, fold to thy heart thy brother! 
 Where pity dwells, the joy of peace is there;[foot]Original poem reads, "the peace of God is there." Peebles' <em>Spiritual Harmonies</em> (1880) has "a heavenly peace is there." Later wording in Ethical Society hymnals have "the soul of good is there."[/foot] 
@@ -35,12 +35,12 @@ Each smile a hymn, each kindly deed a prayer.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Follow with reverent steps the great example 
 Of those whose holy work was "doing good"; 
@@ -49,12 +49,12 @@ Each loving life a psalm of gratitude.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Then shall all shackles fall; the stormy clangour 
 Of wild war-music o’er the earth shall cease; 
@@ -73,8 +73,14 @@ Three stanzas adapted from "Worship" by John Greenleaf Whittier (1807-1892), app
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/hymnsofpraiseandprayermaxklein1926#page/n39/mode/2up"]
 
+&nbsp;
+
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/good-health-volume-35-issue-03-march-1st-1900#page/n19/mode/2up"]
 
+&nbsp;
+
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/earlypoemsofjohn00whit#page/280/mode/2up"]
+
+&nbsp;
 </body>
 </html>

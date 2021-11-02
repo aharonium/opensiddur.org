@@ -7,10 +7,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew (source)</th><th style="text-align: left;">English (translation)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 פַּלְגֵי־מַיִם יָרְדוּ עֵינָי, <span class="citation">(תהלים קיט:קלו חלק)</span> 
 כִּי בָאוּ מַיִם עַד־נָפֶשׁ <span class="citation">(תהלים סט:ב חלק)</span> 
@@ -18,7 +18,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 וְקָדְרוּ הַשָּׁמַיִם מִמָּעַל:“ <span class="citation">(ירמיה ד:כח חלק)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 My eyes shed streams of water[foot]Psalms 119:136 partial[/foot]
 for the waters have reached my neck[foot]Psalms 69:2 partial[/foot]
@@ -27,7 +27,7 @@ and skies are dark above.[foot]Jeremiah 4:28 partial[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 עַל זִיו הָעֲלוּמִים שֶׁנִּשְׁטַף בְּמַיִם רַבִּים, 
 ”כְּשְׁאוֹן מַיִם כַּבִּירִים יִשָּׁאוּן...“ <span class="citation">(ישעיה יז:יב חלק)</span> 
@@ -38,7 +38,7 @@ and skies are dark above.[foot]Jeremiah 4:28 partial[/foot]
 וְאֵין לָהֶן מוֹשִׁיעַ וְאֵין לָהֶם מַצִּיל.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 For the radiance of the youth that was washed away in the great waters,
 as the mighty waters raged[foot]Isaiah 17:12 partial[/foot]
@@ -50,18 +50,18 @@ and they had no savior and they had no rescuer.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וַיִּדֹּם אַהֲרֹן. <span class="citation">(ויקרא י:ג חלק)</span> 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And Aharon was silent.[foot]Leviticus 10:3 partial[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אָנָּא, אֱלֹהֵינוּ, 
 יְהִי רָצוֹן שֶׁתַּעֲבִיר רוּחֲךָ עַל־הָאָרֶץ וְיָשֹׁכּוּ הַמָּיִם, <span class="citation">(ע"פ בראשית ח:א חלק)</span> 
@@ -75,7 +75,7 @@ And Aharon was silent.[foot]Leviticus 10:3 partial[/foot]
 רַק לְשֵׁטֶף מַיִם רַבִּים אֵלָיו לֹא יַגִיעוּ“. <span class="citation">(תהלים לב:ו)</span> 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Please, our <em>elo'ah</em>!,
 cause a wind to blow across the Land, so the waters may subside,[foot]After Genesis 8:1 partial[/foot]
@@ -90,18 +90,18 @@ that the rushing mighty waters not overtake them."[foot]Psalms 32:6[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וַיִּדֹּם אַהֲרֹן. <span class="citation">(ויקרא י:ג חלק)</span> 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And Aharon was silent.[foot]Leviticus 10:3 partial[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 עוֹמְדִים אָנוּ לְפָנֶיךָ, 
 אֱלֹהֵי הָרוּחוֹת לְכׇל בָּשָׂר, 
@@ -115,7 +115,7 @@ And Aharon was silent.[foot]Leviticus 10:3 partial[/foot]
 וְלֹא יִקָּטְפוּ עוֹד בְּאָבִיב פְּרִיחָתָם.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 We stand before you,
 Elo'ah of the spirits of all creatures,
@@ -130,7 +130,7 @@ and not to pluck any more flowers this spring.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְהָרוֹפֵא לִשְׁבוּרֵי לֵב <span class="citation">(תהלים קמז:ג חלק)</span> 
 יְקַיֵּם בָּנוּ בְּחֹדֶשׁ אִיָּר אֶת הַכָּתוּב
@@ -138,7 +138,7 @@ and not to pluck any more flowers this spring.
 אָמֵן.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Heal their broken hearts,[foot]Psalms 147:3 partial[/foot]
 and fulfill for us this month of Iyar what is written,

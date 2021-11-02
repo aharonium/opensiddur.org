@@ -11,15 +11,15 @@ Here's a first draft of a brief liturgy for last night, for solstice plus Ḥanu
 
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Contribute a Translation</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Return again, return again
 Return to the land of your soul (2x)
 Return to who you are
@@ -33,13 +33,13 @@ Return to the land of your soul
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 In the depths of darkness, the darkness of the new moon of Ḥanukkah, and the darkness of the sun at solstice, we call to You. In the presence of these seeds of light of the sixth night, we turn to You. As You turn the wheel of the sun, as You draw back the darkness of the moon, may You open gates for us, <em>Potei'ach She'arim</em>, so that we may be drawn through these gates into the holy mystery of darkness and the glowing light of wisdom. "Deep is calling unto deep, <em>t'hom el t'hom korei</em>" (Ps 42:8) -- may we be listening.
 </div></td>
@@ -47,13 +47,13 @@ In the depths of darkness, the darkness of the new moon of Ḥanukkah, and the d
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 "The One who set darkness to be Her secret place, <em>yashet ḥoshekh sit'ro</em>" (Ps 18:12) -- 
 may You teach us to see the darkness dancing between the flames of the candles, 
@@ -70,7 +70,7 @@ fall into winter into spring.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 &nbsp;
 בָּרוּךְ אַתָּה יְיָ 
@@ -79,7 +79,7 @@ fall into winter into spring.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <em>At dusk:</em>
 <em>Barukh atah Adonai,</em> blessed be You
@@ -89,7 +89,7 @@ fall into winter into spring.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 &nbsp;
 בָּרוּךְ אַתָּה יְיָ 
@@ -97,7 +97,7 @@ fall into winter into spring.
 יוֹצֵר הַמְּאֹרֹת׃</span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <em>During the day:</em>
 <em>Barukh Atah Adonai</em> blessed be You,

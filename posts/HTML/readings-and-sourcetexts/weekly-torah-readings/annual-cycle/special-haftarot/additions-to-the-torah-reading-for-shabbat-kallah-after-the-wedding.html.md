@@ -13,7 +13,7 @@ There are all sorts of customs associated with weddings in Judaism. But one cust
 Note: “The CAUSE” is used to translate the Divine Name YHVH, based on the philosophical idea of God as the Prime Mover and on the interpretation of the Name as a causative form of the copula – “causes to be.”
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: right;">Targum (Aramaic)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
@@ -144,7 +144,7 @@ The CAUSE, God of Heaven, who took me from my father’s house and my birthplace
 </div></td></tr>
 </tbody></table>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

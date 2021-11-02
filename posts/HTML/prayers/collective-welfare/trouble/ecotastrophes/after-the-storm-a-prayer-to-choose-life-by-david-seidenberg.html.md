@@ -15,7 +15,7 @@ The prayers for hurricane victims that are circulating here and elsewhere are po
 
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th><th style="text-align: left;">Transliteration (Romanized Hebrew)</th></tr></thead>
 <tbody>
 <tr>
@@ -68,7 +68,7 @@ and so we are responsible for its healing.
 </div></td>
 
  <td style="vertical-align:top;">
-<div class="romanized-hebrew" lang="he">
+<div class="romanized-transliteration" lang="he">
 Adon ha’olam | Eden ha’olam, 
 atah tsivitanu “uvacharta bachayyim”, 
 uv’nei doreinu 
@@ -115,7 +115,7 @@ please save them.
 </div></td>
 
 <td style="vertical-align:top;">
-<div class="romanized-hebrew" lang="he">
+<div class="romanized-transliteration" lang="he">
 V’hineh anu m’vakshim et hakoach v’ha’omets 
 l’kabel ha’achrayut aleinu atah 
 la’azor l’eilu shenifga’im al y’dei hase’arah, 
@@ -168,7 +168,7 @@ from off the good earth</em>.[foot]Deuteronomy 11:17[/foot]
 </div></td>
 
 <td style="vertical-align:top;">
-<div class="romanized-hebrew" lang="he">
+<div class="romanized-transliteration" lang="he">
 Ki atah “hayoseir goyim 
 v’ham’lamed adam da’at”— 
 na l’lamdeinu et haderekh kadimah, 

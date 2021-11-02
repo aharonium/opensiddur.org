@@ -7,12 +7,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="a1" style="text-align: right;">Source (Hebrew)</th><th style="text-align: right;">Translation (Arabic)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
-<span style="font-size: xx-large;">יְ</span>דִיד נֶפֶשׁ אָב הָרַחֲמָן,    
+<span class="acrostic">יְ</span>דִיד נֶפֶשׁ אָב הָרַחֲמָן,    
 מְשֹׁךְ עַבְדָּךְ אֶל רְצוֹנָךְ,
 יָרוּץ עַבְדָּךְ כְּמוֹ אַיָּל,    
 יִשְׁתַּחֲוֶה מוּל הֲדָרָךְ,
@@ -20,7 +20,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 מִנֹּפֶת צוּף וְכָל טַעַם.
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="arabic" lang="ar">
+<td style="vertical-align:top;"><div class="arabic" lang="ar">
 أبت الرحيم حبيب نفسي سيدي   
 قد عبدك المسكين حسب ؟مرامكا؟
 هو مسرع مثل الغزال أخالقي   
@@ -31,9 +31,9 @@ For attribution and license, please consult the following URL: <a href="http://o
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
-<span style="font-size: xx-large;">הָ</span>דוּר נָאֶה זִיו הָעוֹלָם,    
+<span class="acrostic">הָ</span>דוּר נָאֶה זִיו הָעוֹלָם,    
 נַפְשִׁי חוֹלַת אַהֲבָתָךְ,
 אָנָּא אֵל נָא רְפָא נָא לָהּ,    
 בְּהַרְאוֹת לָהּ נֹעַם זִיוָךְ,
@@ -41,7 +41,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 וְהָיְתָה לָךְ שִׁפְחַת עוֹלָם.
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="arabic" lang="ar">
+<td style="vertical-align:top;"><div class="arabic" lang="ar">
 لك يا جليلاً يا بهاء 
 الكون نف سي في السقام من الهيام بحبكا 
 يا شافي المرضى أشفها يا ربنا 
@@ -52,9 +52,9 @@ For attribution and license, please consult the following URL: <a href="http://o
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
-<span style="font-size: xx-large;">וָ</span>תִיק יֶהֱמוּ רַחֲמֶיךָ,   
+<span class="acrostic">וָ</span>תִיק יֶהֱמוּ רַחֲמֶיךָ,   
 וְחוּסָה נָא עַל עַם אֲהוּבָךְ,
 כִּי זֶה כַמֶּה נִכְסֹף נִכְסַף,    
 לִרְאוֹת בְּתִפְאֶרֶת עֻזָּךְ,
@@ -62,7 +62,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 וְחוּסָה נָא וְאַל תִּתְעַלָּם.
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="arabic" lang="ar">
+<td style="vertical-align:top;"><div class="arabic" lang="ar">
 لتظل رحمتك الجزيلة بينا 
 أوثيق عهد وارأفن بشعبكا 
 فاليك كم قد تق ياباري الورى
@@ -73,9 +73,9 @@ For attribution and license, please consult the following URL: <a href="http://o
 </tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
-<span style="font-size: xx-large;">הִ</span>גָּלֶה נָא וּפְרֹשׂ חָבִיב,    
+<span class="acrostic">הִ</span>גָּלֶה נָא וּפְרֹשׂ חָבִיב,    
 עָלֵינוּ אֶת סֻכַּת שְׁלוֹמֶךָ
 תָּאִיר אֶרֶץ מִכְּבוֹדָךְ,    
 נָגִילָה וְנִשְׂמְחָה בָּךְ,
@@ -83,7 +83,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 וְחָנֵּנִוּ כִּימֵי עוֹלָם.
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="arabic" lang="ar">
+<td style="vertical-align:top;"><div class="arabic" lang="ar">
 ها أنت محبوب الورى فظهر لنا 
 وابسط علي مظلة من سلمكا
 فلرض تشرق من بهاك مضيئة

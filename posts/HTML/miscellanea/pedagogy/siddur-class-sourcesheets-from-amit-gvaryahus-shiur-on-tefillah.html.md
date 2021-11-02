@@ -10,13 +10,13 @@ For attribution and license, please consult the following URL: <a href="http://o
 <table style="margin-left: auto;margin-right: auto;">
 <tbody>
 <tr><td colspan=2>Talmud Yerushalmi: Berakhot 5:5 (9D)</td></tr><tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אמ' ר' שמואל בר נחמני. אם כיוונתה את ליבך בתפילה תהא מבושר שנשמעה תפילתך.‏ 
 ומה טעם. "תכין לבם תקשיב אזניך".‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 R. Samuel b. Nahmani said: if you directed your heart in prayer, know that your prayer is heard.
 Why? <em>Prepare their heart – make your ears hear.</em> (Psalms 10:17)
 </td>

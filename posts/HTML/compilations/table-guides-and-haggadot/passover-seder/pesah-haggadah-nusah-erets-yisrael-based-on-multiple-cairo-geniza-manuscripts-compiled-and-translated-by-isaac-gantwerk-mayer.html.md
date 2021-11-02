@@ -13,7 +13,7 @@ This is a vocalized reconstruction, arrangement and translation of the Haggadah 
 This haggadah is translated in gender-neutral Hebrew. Divine names are translated as follows YHVH (the Cause), Elohim/<em>elo'ah</em> (God), Yah (the Source).
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

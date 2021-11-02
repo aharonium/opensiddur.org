@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: בִּרְכַּת הָאִילָנוֹת | The Blessing of Flowering Fruit Trees in the Spring Season, compiled by Aharon Varady<br />
+Title: בִּרְכַּת הָאִילָנוֹת | The Blessing of Flowering Fruit Trees in the Spring Season<br />
 Primary contributor: aharon.n.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=2943">http://opensiddur.org/?p=2943</a>
 <p />
@@ -23,7 +23,7 @@ Why do we need to see two trees rather than just one to say the blessing? I have
 
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
@@ -145,7 +145,7 @@ that through the merit we gain by incanting this blessing, this statement will b
 And may we receive abundance of ten blessings[foot]The ten blessings are as follows: 1. of the dew of heaven, 2. of the fat of the land, 3. much grain, 4. much wine, 5. people's will serve you, 6. nations will bow before you, 7. you will have power over your brother, 8. all your mother's sons will bow to you, 9. those who curse you be cursed, 10. those who bless you be blessed. Additionally, the verse that follows has ten words. The verse after it has sixteen, making twenty-six in total, and so we are blessed with ten blessings that are God's unified name, Yud-Heh with Vav-Heh. And so we've come full circle![/foot] as written: 
 “And God will give you of the dew of the heaven 
 and of the fat of the land, 
-and much grain and wine.”[foot]Genesis 27:28.[/foot]
+and much grain and wine.” <span class="citation">(Genesis 27:28)</span>
 </div></td></tr>
 
 
@@ -166,7 +166,7 @@ nations will bow before you,
 you will have power over your brother, 
 and all your mother’s sons will bow to you, 
 may those who curse you be cursed, 
-and may those who bless you be blessed.”[foot]Genesis 27:29.[/foot]
+and may those who bless you be blessed.” <span class="citation">(Genesis 27:29)</span>
 </div></td></tr>
 
 
@@ -179,7 +179,7 @@ and may those who bless you be blessed.”[foot]Genesis 27:29.[/foot]
 <td style="vertical-align:top;">
 <div class="english" lang="en">
 May the words of my mouth and the flutterings of my heart be welcomed before You, 
-Adonai my Rock and Redeemer.[foot]Psalms 19:16.[/foot]
+Adonai my Rock and Redeemer. <span class="citation">(Psalms 19:16)</span>
 </div></td></tr>
 
 
@@ -228,66 +228,71 @@ l'hitna'ot bahen b'nei Adam</em>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;">
+<div class="english" lang="en">
 <span class="instruction">Some additional texts to learn about fruit trees from Tanakh, Midrash and Kabbalah:</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
-שיר השירים ז:ח-יא
+<span class="citation">שיר השירים ז:ח-יא</span>
 &nbsp;
 <sup>ח</sup> זֹ֤את קֽוֹמָתֵךְ֙ דָּֽמְתָ֣ה לְתָמָ֔ר וְשָׁדַ֖יִךְ לְאַשְׁכֹּלֽוֹת׃ <sup>ט</sup> אָמַ֙רְתִּי֙ אֶעֱלֶ֣ה בְתָמָ֔ר אֹֽחֲזָ֖ה בְּסַנְסִנָּ֑יו וְיִֽהְיוּ־נָ֤א שָׁדַ֙יִךְ֙ כְּאֶשְׁכְּל֣וֹת הַגֶּ֔פֶן וְרֵ֥יחַ אַפֵּ֖ךְ כַּתַּפּוּחִֽים׃ <sup>י</sup> וְחִכֵּ֕ךְ כְּיֵ֥ין הַטּ֛וֹב הוֹלֵ֥ךְ לְדוֹדִ֖י לְמֵישָׁרִ֑ים דּוֹבֵ֖ב שִׂפְתֵ֥י יְשֵׁנִֽים׃ <sup>יא</sup> אֲנִ֣י לְדוֹדִ֔י וְעָלַ֖י תְּשׁוּקָתֽוֹ׃</span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
-Song of Songs 7:8-11
+<td style="vertical-align:top;">
+<div class="english" lang="en">
+<span class="citation">Song of Songs 7:8-11</span>
 &nbsp;
 This one, your body, was like a palm tree, and your breasts clusters [of dates]. I said, I will climb up that palm tree, I will grab its branches. May your breasts be like clusters [of grapes] on the vine, the scent of your breathing like apples. And your mouth like good wine, going straight to my lover, lubricating sleepers’ lips. I am my lover’s, and his desire is upon me.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
-ספרי דברים רג
+<span class="citation">ספרי דברים רג</span>
 &nbsp;
 ר׳ ישמעאל אומר מכאן חס המקום על פירות האילן ק״ו מאילן. ומה אילן שעושה פירות הזהירך הכתוב עליו פירות עצמם:‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
-Sifrei Devarim 203
+<td style="vertical-align:top;">
+<div class="english" lang="en">
+<span class="citation">Sifrei Devarim §203</span>
 &nbsp;
-R’ Yishma’el said: The compassion of the <em>Maqom</em> [<span class="scribe" lang="he">מקום</span>, literally, Place, i.e. God] is on the fruit of the tree….For if scripture cautions you [not to harm] the tree that makes fruit [Deuteronomy 20:19], all the more so the fruits themselves.
+R’ Yishma’el said: The compassion of <em>the Maqom</em> [foot]<span class="scribe" lang="he">המקום</span>, literally, the Place, a divine epithet.[/foot] is on the fruit of the tree….For if scripture cautions you [not to harm] the tree that makes fruit,[foot]Deuteronomy 20:19[/foot] all the more so the fruits themselves.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
-סנהדרין צח א
+<span class="citation">סנהדרין צח א׳</span>
 &nbsp;
 ואמר רבי אבא אין לך קץ מגולה מזה שנאמר  ואתם הרי ישראל ענפכם תתנו ופריכם תשאו לעמי ישראל וגו'‏ (יחזקאל לו, ח)‏ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
-Sanhedrin 98a
+<td style="vertical-align:top;">
+<div class="english" lang="en">
+<span class="citation">Sanhedrin 98a</span>
 &nbsp;
-R’ Abba taught: There is no greater revelation of redemption than that which the verse states: “And you, mountains of Israel, you shall give forth your branches and you shall bear your fruit for my people Israel, for they shall soon come.” [Ezekiel 36:8] 
+R’ Abba taught: There is no greater revelation of redemption than that which the verse states: “And you, mountains of Israel, you shall give forth your branches and you shall bear your fruit for my people Israel, for they shall soon come.” <span class="citation">(Ezekiel 36:8)</span> 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
-זוהר ב:טו ב
+<span class="citation">זוהר ב:טו ב׳</span>
 &nbsp;
 דכד הוה חמי רבי אבא חד אילנא דאביה אתעביד עופא דפרח מניה, הוה בכי ואמר, אי הוו בני נשא ידעי למאי רמיזאן, הוו מבזען מלבושיהון עד טבוריהון למאי דאתנשי חכמה מנהון, כל שכן בשאר מה דעבד קודשא בריך הוא בארעא.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
-Zohar 2:15b
+<td style="vertical-align:top;">
+<div class="english" lang="en">
+<span class="citation">Zohar 2:15b</span>
 &nbsp;
 When R’ Abba saw a tree whose fruit turned into a bird and flew away, he wept and said: If men only knew to what these things alluded, they would rend their garments! 
 </div></td></tr>
@@ -300,7 +305,6 @@ As a formula, this blessing has some language in common with another blessing, t
 </div>
 
 <table style="width:50%;margin-left: auto;margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
@@ -314,7 +318,8 @@ As a formula, this blessing has some language in common with another blessing, t
 בָּרוּךְ חַי הָעוֹלָמִים:‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;">
+<div class="english" lang="en">
 Blessed are you,
 YHVH (haShem) our <em>elo'ah</em>,
 Cosmic Majesty,

@@ -11,142 +11,142 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <strong>DOWNLOAD:</strong> <a href="https://opensiddur.org/wp-content/uploads/2012/09/ushpizin2014.pdf">PDF</a>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 סֵדֶר אוּשְׁפִּיזִין / אוּשְׁפִּיזָתָא
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Seder Ushpizin / Ushpizata
-    </div></td></tr>   <tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+    </div></td></tr>   <tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 הִנֵּה אֲנֲחְנוּ בָּאִים לְקַיֵּם מִצְוַת עֲשֵֹה לֵישֵׁב בַּסֻכָּה כְּמוֹ שֶׁצִוַּֽנוּ יְיָ אֱלֹהֵינוּ בְּתוֹרָתוֹ׃ בַּסֻּכֹּת תֵּשְׁבוּ שִׁבְעַת יָמִים, כָּל הָאֶזְרָח בְּיִשְֹרָאֵל יֵשְׁבוּ בַּסֻּכֹּת, לְמַֽעַן יֵדְעוּ דֹרֹתֵיכֶם, כִּי בַסֻּכּוֹת הוֹשַֽׁבְתִּי אֶת בְּנֵי יִשְֹרָאֵל בְּהוֹצִיאִי אוֹתָם מֵאֶֽרֶץ מִצְרָֽיִם.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Behold we come here to fulfill the mitsvah to dwell in the sukkah, as YHVH our God commanded in the Torah: “Seven days you will dwell in sukkot, so that your generations will know that I made Israel’s children dwell in Sukkot when I brought them from Egypt.”[foot]Leviticus 23:43[/foot]
-    </div></td></tr>   <tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+    </div></td></tr>   <tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 לְשֵׁם יִחוּד קֻדְשָׁא בְּרִיךְ הוּא וּשְׁכִינְתֵּהּ, לְיַחֲדָא שֵׁם י״ה בְּו״ה בְּיִחוּדָא שְׁלִים, אֲזַמֵּן לִסְעֻדָּתִי בְּשֵׁם כָּל יִשְֹרָאֵל אוּשִׁפִּיזִין עִלָּאִין וְאוּשְׁפִּיזָתָא עִלָּאָתָא.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 For the sake of uniting the Holy One and the Shekhinah, to unify the name Y”H with V”H in complete unity, I invite to my meal, in the name of all Israel, the exalted guests, <em>ushipizin ila’in v’ushpizata ila’ata</em>.
-    </div></td></tr>   <tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+    </div></td></tr>   <tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 בְּכֹחַ מִצְוָה זוֹ יִמְשֹׁךְ לְרָחֵל אִמֵּינוּ מֵאִימָא עִלָאָה, מִמְקוֹם לֵאָה אִמֵּינוּ, אוֹר הַמֵקִיף
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 By the power of this commandment, may there be drawn down to Raḥel our mother from the Upper Mother [Binah], from the place of Leah our mother, the Encompassing Light of
-    </div></td></tr>   <tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+    </div></td></tr>   <tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 הָחֶמֶד שֶׁבְּחֶסֶד
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 [Day One] Love within Love
-    </div></td></tr>   <tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+    </div></td></tr>   <tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 הָחֶסֶד שֶׁבִּגְבוּרָה
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 [Day Two] Love within Judgment
-    </div></td></tr>   <tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+    </div></td></tr>   <tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 הָחֶסֶד שֶׁבְּתִּפְאֶרֶת
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 [Day Three] Love within Beauty
-    </div></td></tr>   <tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+    </div></td></tr>   <tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 הָחֶסֶד שֶׁבְּנֶצָח
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 [Day Four] Love within Eternal Victory
-    </div></td></tr>   <tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+    </div></td></tr>   <tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 הָחֶסֶד שֶׁבְּהוֹד
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 [Day Five] Love within Majesty
-    </div></td></tr>   <tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+    </div></td></tr>   <tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 הָחֶסֶד שֶׁבִּיסוֹד
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 [Day Six] Love within Foundation
-    </div></td></tr>   <tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+    </div></td></tr>   <tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 הָחֶסֶד שֶׁבְּמָּלְכוּת
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 [Day Seven] Love within Sovereignty
-    </div></td></tr>   <tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+    </div></td></tr>   <tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 עוּלוּ אוּשְׁפִּיזִין עִלָּאִין קַדִּישִׁין, עוּלוּ אֲבָהָן עִלָּאִין קַדִּישִׁין, עוּלוּ אִימָּהָתָא עִלָּאָתָא קְדִּישָׁתָא, לְמִיתָב בִּצִלָּא דִמְהֵימְנוּתָא עִלָּאָה, בְּצִלָּא דְקֻדְשָׁא בְּרִיךְ הוּא.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Come in exalted holy guests, come in exalted holy fathers, come in exalted holy mothers![foot]Each of the seven fathers and mothers represents one of the seven lower Sefirot, which are also called “days.” We bring the energy of each day into the sukkah through Ushpizin, and through this, according to Kabbalah, we bring blessing to the earth and cosmos, to all being, and fertility to Eretz Yisra’el.[/foot] Come sit in the shade of exalted supernal faith, in the shadow of the Holy One, blessed be.
-    </div></td></tr>   <tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+    </div></td></tr>   <tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 ביום הראשון - לִיעוּל אַבְרָהָם רְחִימָא אַבָּא קַדִּישָׁא. תִיעוּל רוּת כָּלָתָא חַסִידָא. וְלִיעוּל עִמָּהָן יִצְחָק יַעֲקֹב מֹשֶׁה אַהֲרֹן יוֹסֵף וְדָוִד, שָֹרָה רִבְקָה מִרְיָם דְבוֹרָה תָמָר וְרָחֵל.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 [Day One] Come in Abraham, merciful one, holy father. Come in Ruth, devoted kallah-daughter. Come in with them, Yitzḥak, Yaakov, Moshe, Aharon, Yosef, and David, Sarah, Rivka, Miriam, Devorah, Tamar, and Raḥel.
-    </div></td></tr>   <tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+    </div></td></tr>   <tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 ביום השני - לִיעוּל יִצְחָק עֲקִידְתָּא. תִיעוּל שָֹרָה גְבִירְתָא אִימָּא קַדִּישָׁא. וְלִיעוּל עִמָּהָן אַבְרָהָם יַעֲקֹב מֹשֶׁה אַהֲרֹן יוֹסֵף וְדָוִד, רוּת רִבְקָה מִרְיָם דְבוֹרָה תָמָר וְרָחֵל.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 [Day Two] Come in Isaac, bound one. Come in Sarah, mistress, holy mother. Come in with them, Avraham, Yaakov, Moshe, Aharon, Yosef, and David, Ruth, Rivka, Miriam, Devorah, Tamar, and Raḥel.
-    </div></td></tr>   <tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+    </div></td></tr>   <tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 ביום השלישי - לִיעוּל יַעֲקֹב שְׁלִמְתָּא. תִיעוּל רִבְקָה בַּעְאֵית אָלָהָא. וְלִיעוּל עִמָּהָן אַבְרָהָם יִצְחָק מֹשֶׁה אַהֲרֹן יוֹסֵף וְדָוִד, רוּת שָֹרָה מִרְיָם דְבוֹרָה תָמָר וְרָחֵל.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 [Day Three] Come in Yaakov, perfect, whole one. Come in Rebecca, God-seeker. Come in with them, Avraham, Yitzḥak, Moshe, Aharon, Yosef, and David, Ruth, Sarah, Miriam, Devorah, Tamar, and Raḥel.
-    </div></td></tr>   <tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+    </div></td></tr>   <tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 ביום הרביעי - לִיעוּל מֹשֶׁה רַעֲיָא מְהֵימְנָא. תִיעוּל מִרְיָם נְבִיאָתָא בְּאֵר נָהָרָא עִלָאָה. וְלִיעוּל עִמָּהָן אַבְרָהָם יִצְחָק יַעֲקֹב אַהֲרֹן יוֹסֵף וְדָוִד, רוּת שָֹרָה רִבְקָה דְבוֹרָה תָמָר וְרָחֵל.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 [Day Four] Come in Moshe, faithful shepherd. Come in Miriam, the prophet, wellspring of the exalted stream. Come in with them, Avraham, Yitzḥak, Yaakov, Aharon, Yosef, and David, Ruth, Sarah, Rivka, Devorah, Tamar, and Raḥel.
-    </div></td></tr>   <tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+    </div></td></tr>   <tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 ביום החמישי - לִיעוּל אַהֲרֹן כַּהֲנָא קַדִּישָׁא. תִיעוּל דְבוֹרָה נְבִיאָתָא דַיָנָא דְיִשְֹרָאֵל. וְלִיעוּל עִמָּהָן אַבְרָהָם יִצְחָק יַעֲקֹב מֹשֶׁה יוֹסֵף וְדָוִד, רוּת שָֹרָה רִבְקָה מִרְיָם תָמָר וְרָחֵל.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 [Day Five] Come in Aharon, holy priest. Come in Devorah, the prophet, judge of Israel. Come in with them, Avraham, Yitzḥak, Yaakov, Moshe, Yosef and David, Ruth, Sarah, Rivka, Miriam, Tamar, and Raḥel.
-    </div></td></tr>   <tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+    </div></td></tr>   <tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 ביום הששי - לִיעוּל יוֹסֵף צַדִּיקָא. תִיעוּל תָמָר צַדִּיקָתָּא אוֹלְדַת מְשִׁיחָא. וְלִיעוּל עִמָּהָן אַבְרָהָם יִצְחָק יַעֲקֹב מֹשֶׁה אַהֲרֹן וְדָוִד, רוּת שָֹרָה רִבְקָה מִרְיָם דְבוֹרָה וְרָחֵל.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 [Day Six] Come in Yosef, righteous one. Come in Tamar, righteous one, bearer of mashiaḥ. Come in with them, Avraham, Yitzḥak, Yaakov, Moshe, Aharon, and David, Ruth, Sarah, Rivka, Miriam, Devorah, and Raḥel.
-    </div></td></tr>   <tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+    </div></td></tr>   <tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 ביום השביעי - לִיעוּל דָּוִד מַלִכָּא מְשִׁיחָא. תִיעוּל רָחֵל אִימָּא בָּכִיָא עָל בִּנַהָא. וְלִיעוּל עִמָּהָן אַבְרָהָם יִצְחָק יַעֲקֹב מֹשֶׁה אַהֲרֹן וְיוֹסֵף, רוּת שָֹרָה רִבְקָה מִרְיָם דְבוֹרָה וְתָמָר.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 [Day Seven] Come in David, anointed king. Come in Raḥel, mother weeping for her children. Come in with them, Avraham, Yitzḥak, Yaakov, Moshe, Aharon, and Yosef, Ruth, Sarah, Rivka, Miriam, Devorah, and Tamar.
-    </div></td></tr>   <tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+    </div></td></tr>   <tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 בַּסֻּכֹּתָ תֵּשְׁבוּ שִׁבְעַתָ יָמִים. תִּיבוּ תִּיבוּ אוּשְׁפִּיזִין עִלָּאִין, תִּיבוּ תִּיבוּ אוּשְׁפִּיזָתָא קְדִּישָׁתָא. תִּיבוּ בְּצִלָּא דִמְהֵימְנוּתָא עִלָּאָה, בְּצִלָּא דְקֻדְשָׁא בְּרִיךְ הוּא.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 “These seven days (levels) will dwell in the Sukkot...” Sit, sit exalted guests, sit, sit holy guests! Sit in the shadow of exalted faith, in the shade of the Holy One.
-    </div></td></tr>   <tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+    </div></td></tr>   <tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 אֵל מָלֵא רַחֲמִים, תָּשֶׁרְה שְׁכִינָתְךָ בֵּינֵינוּ, וּפְרוֹשֹ עָלֵֽינוּ סֻכַּתָ רַחֲמִים וְשְׁלוֹם. הַקִּיף אוֹתָֽנוּ מִזִּיו הַשְׁכִינָה, תֵּן לַשָּׁמַיִם רְפוּאָה מֵעוֹנוֹתֵנוּ וְטַהֲרֵֽנוּ מֵחַטָּאתֵינוּ. כְּנֶֽשֶׁר יָעִיר קִנּוֺ, תָּעִיר שֶֽׁפַע הַחַיִּים שֶׁיֻשְׁפַּע עָל עוֹלָמָךְ לְהַחֲיוֹת הַכָּל וְתָּשְׁקֵם, תֵּן לָרְעֵבִים לַחְמָם הַנֶּאֱמָן וּתְּזַכֵּֽנוּ לֵישֵׁב יָמִים רַבִּים עַל הָאֲדָמָה. בָּרוּךְ יְיָ לְעוֺלָם, אָמֵן וְאָמֵן.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 G!d full of compassion, make your Presence, <em>Shekhinah</em>, rest among us, and spread over us a sukkah of compassion and peace. Encompass us with the radiance of the Shekhinah, heal the heavens from our wounding actions and purify us from our sins. As an eagle awakens its nest, may you awaken the flow of life-energy to flow upon your world to give life to all, and water them. Give the hungry their bread faithfully, and grant us merit to dwell many days on them earth. Blessed be <em>Yah</em> for all time, <em>Amen</em>, <em>Amen</em>.
-    </div></td></tr>   <tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+    </div></td></tr>   <tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 בכל סעודה מברך׃
 בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶה הָעוֺלָם, אֲשֶׁר קִדְּשָֽׁנוּ בְּמִצְוֺתָיו, וְצִוָּֽנוּ לֵישֵׁב בַסֻּכָּה.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 <em>At every meal say the following blessing:</em>
 Blessed be You, <em>Adonai</em>, Our God, Ruler of all space, all time, who made us holy through commandments, and commanded us to dwell in the sukkah.
 </td>

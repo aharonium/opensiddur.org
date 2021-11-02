@@ -7,10 +7,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 יִתְגַּדַּל וְיִתְקַדַּשׁ שְׁמֵהּ רַבָּא.
 בְּעָלְמָא דִּי בְרָא כִרְעוּתֵהּ 
@@ -22,7 +22,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 וְאִמְרוּ אָמֵן׃  
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 It is all and won’t be lost, the Holy Name (<em>amein</em>). 
 We all make Divine words of praise 
@@ -40,7 +40,7 @@ Blessed be You, <em>Amein</em>.
 יְהֵא שְׁמֵהּ רַבָּא מְבָרַךְ לְעָלַם וּלְעָלְמֵי עָלְמַיָּא׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 We say the Name Oneness and we hear of the time when we may all know Yah.
 </div></td></tr>

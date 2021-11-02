@@ -7,10 +7,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;"><a href="https://opensiddur.org/contributing/upload/">Contribute a translation</a></th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 ברעדה ויראה באנו לפניך
 כי מי לא יירא מאימת דינך, 
@@ -19,13 +19,13 @@ For attribution and license, please consult the following URL: <a href="http://o
 טוב וסלח ורב חסד לכל קוראיך. 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 נקנו יי מטומאת מחשבותינו. 
 טהרנו וכפר פשעינו ועוונינו, 
@@ -35,13 +35,13 @@ For attribution and license, please consult the following URL: <a href="http://o
 טוב וסלח ורב חסד לכל קוראיך.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 צדקנו יי והוצא משפטנו לאור, 
 קרא לנו מיצרנו ואיבינו חופש ודרור, 
@@ -51,13 +51,13 @@ For attribution and license, please consult the following URL: <a href="http://o
 טוב וסלח ורב חסד לכל קוראיך.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 יהמו עלינו המת רחמיך, 
 עמלנו וענינו הבט ממעון שמיך, 
@@ -67,13 +67,13 @@ For attribution and license, please consult the following URL: <a href="http://o
 טוב וסלח ורב חסד לכל קוראיך.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 ועשה עמנו לטובה אות, 
 קרב לנו קץ הפלאות, 
@@ -83,13 +83,13 @@ For attribution and license, please consult the following URL: <a href="http://o
 טוב וסלח ורב חסד לכל קוראיך. 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 נורא תהלות, ואדון כל הנשמות 
 בשרנו בסליחתך אב הרחמים והסליחות 
@@ -98,13 +98,13 @@ For attribution and license, please consult the following URL: <a href="http://o
 טוב וסלח ורב חסד לכל קוראיך. 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 עוזי! אלי! מקדשך תבנה בהר נחלתך למופת ולאות 
 ונהרו אליו כל העמים והממלכות 

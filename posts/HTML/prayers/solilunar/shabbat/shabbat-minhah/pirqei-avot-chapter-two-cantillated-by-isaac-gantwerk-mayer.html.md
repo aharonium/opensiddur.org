@@ -21,7 +21,7 @@ In locations where Pirqei Avot quotes from Miqra itself, the original cantillati
 There are multiple vocalized versions of Pirqei Avot, differing in order, spelling, and vocalization. None of them were really satisfying to the m'ta'em. The text here is a combination of the lot, largely based on the Ashkenazi text, mostly using Mishnaic Hebrew vocalizations (lakh vs. lekha etc.), and treating <span class="hebrew" lang="he">של־</span> as an attached prefix according to the Yemenite records. It may occasionally feel a bit unfamiliar, but it is this m'ta'em's attempt to create a text as grammatically accurate to the original as possible while preserving as much accessibility as possible.         
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

@@ -13,10 +13,10 @@ At this time when mankind is wreaking havoc on our Eco-System, we pray to God to
 
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 רִבּוֹנוֹ שֶׁל עוֹלָם, 
 עוֹשֶׂה שָׁלוֹם וּבוֹרֵא אֶת הַכֹּל, <span class="citation">(לפי ישעיה מה:ז)</span>
@@ -28,7 +28,7 @@ At this time when mankind is wreaking havoc on our Eco-System, we pray to God to
 לִמְצוֹא אֲרוּכָה וָפֶלֶא בִּפְרִי יְצִירָתֶךָ.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Sovereign of the universe, 
 who makes peace and creates all,[foot]Cf. Isaiah 7:54.[/foot] 
@@ -41,7 +41,7 @@ may find wonder and healing in the fruits of Your labor.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הִפְקַדְתָּ אוֹתָנוּ בְּנֵי הָאָדָם,
 עַל כָּל הָאָרֶץ וּבְרוּאֶיהָ, 
@@ -62,7 +62,7 @@ may find wonder and healing in the fruits of Your labor.
 לְמַעַן נִפְעַל לְעָתִיד טוֹב יוֹתֵר לַכֹּל.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 You have conferred upon us humankind, 
 guardianship over the earth and all its beings, 
@@ -84,7 +84,7 @@ so that we may act together for the sake of a better future for all.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 יְהִי רָצוֹן מִלְּפָנֶיךָ, 
 יהוה אֱלֹהֵינוּ, 
@@ -101,7 +101,7 @@ so that we may act together for the sake of a better future for all.
 אָמֵן וְאָמֵן.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 May it be Your will, 
 YHVH our <em>elo'ah</em>, 

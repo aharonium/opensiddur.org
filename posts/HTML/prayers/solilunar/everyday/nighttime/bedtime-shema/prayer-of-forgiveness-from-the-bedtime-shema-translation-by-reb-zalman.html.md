@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
@@ -148,7 +148,7 @@ Rabbi Zalman Schachter-Shalomi, z"l, included his translation of Rabbi Yitsḥak
 The prayer by the ARI z"l was first published in Ḥayim Vital's <em>Pri Ets Ḥayyim, Shaar Kriyat Shema al Hamitah, Pereq 2</em> (<a href="https://he.wikisource.org/wiki/פרי_עץ_חיים_שער_קריאת_שמע_שעל_המיטה_פרק_ב">פרי עץ חיים, שער קריאת שמע שעל המיטה, פרק ב</a>), and based on the statement of Reish Lakish in the Bavli Pesachim 66b and the practice of Mar Zutra attested in the Bavli Megillah 28a:
 
 <blockquote>
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <tbody>
 <tr>
 <td style="vertical-align:top;">

@@ -38,25 +38,25 @@ Rabbi Orenstein built a strong synagogue during his 35 years at Beth EI, and has
 
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <h3>Opening Prayer Given by the Guest Chaplain:</h3>
 </div></td></tr>
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Our G-d and G-d of our ancestors, 
 who shall stand in G-d's holy place?[foot]Psalms 24:3 part.[/foot] 
@@ -72,12 +72,12 @@ What a vast distance between us
 and the Creator of the laws of the universe.
 </div></td></tr>
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And yet, 
 the Psalmist gives us hope. 
@@ -91,12 +91,12 @@ that was not first and foremost
 ethical.
 </div></td></tr>
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 And then 
 the Psalmist asks us to remember our vow, 
@@ -107,12 +107,12 @@ no matter how great
 the pressure.
 </div></td></tr>
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 On this Tuesday in April 2005, 
 may there be a sense of spring 
@@ -122,12 +122,12 @@ between the law of the human beings
 and the law of the Creator of the universe.
 </div></td></tr>
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Rabbi Akivah taught, 
 "The greatest of G-d's law is, 
@@ -155,7 +155,7 @@ Amen.
 109th Congress, 1st Session
 Issue: Vol. 151, No. 42 — Daily Edition (April 12, 2005)
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.c-span.org/video/standalone/?c4507348/user-clip-rabbi-jehiel-orenstein-congregation-beth-el-south-orange-nj" width="512" height="330"]
+<iframe width=530 height=312 src='https://www.c-span.org/video/standalone/?c4507348/user-clip-rabbi-jehiel-orenstein-congregation-beth-el-south-orange-nj' allowfullscreen='allowfullscreen' frameborder=0></iframe>[su_spacer]
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.congress.gov/109/crec/2005/04/12/CREC-2005-04-12-pt1-PgS3441-2.pdf" width="100%" height="900"]
 </body>

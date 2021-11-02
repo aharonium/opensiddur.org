@@ -7,10 +7,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אַהֲבַת עוֹלָם 
 אֲהַבְתָּֽנוּ
@@ -19,7 +19,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 חָמַֽלְתָּ עָלֵֽינוּ:
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 From ever
 You have loved us into life.
@@ -29,7 +29,7 @@ And abundance.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אָבִֽינוּ מַלְכֵּֽנוּ
 בַּעֲבוּר שִׁמְךָ הַגָּדוֹל
@@ -43,7 +43,7 @@ And abundance.
 כֵּן תְּחָנֵּֽנוּ וּתְלַמְּדֵֽנוּ:
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Holy One!
 For the sake of Your plan,
@@ -58,7 +58,7 @@ In the same way.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אָבִֽינוּ אָב הָרַחֲמָן
 הַמְרַחֵם
@@ -71,7 +71,7 @@ In the same way.
 בְּאַהֲבָה:
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Our God, kind Parent,
 We live in the embrace
@@ -85,7 +85,7 @@ And with so much love.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְהָאֵר עֵינֵֽינוּ 
 בְּתוֹרָתֶֽךָ
@@ -95,7 +95,7 @@ And with so much love.
 לְבָבֵֽנוּ
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 When we study Torah,
 May we see clearly
@@ -106,13 +106,13 @@ Sit harmonious in our heart.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 לְאַהֲבָה וּלְיִרְאָה 
 אֶת שְׁמֶֽךָ,
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Focus all our hearts’ longing
 To that moment,
@@ -121,25 +121,25 @@ In both awe and adoration.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 לְמַֽעַן לֹא נֵבוֹשׁ וְלֹא נִכָּלֵם וְלֹא נִכָּשֵׁל לְעוֹלָם וָעֶד,
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 May we never have to be Apologetic for our love for You.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 כִּי בְשֵׁם קָדְשְׁךָ הַגָּדוֹל הַגִּבּוֹר וְהַנּוֹרָא בָּטָֽחְנוּ
 נָגִֽילָה וְנִשְׂמְחָה 
 בִּישׁוּעָתֶֽךָ:
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Trusting You,
 We are happy to see
@@ -147,14 +147,14 @@ Your beneficent plan unfolding.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְרַחֲמֶֽיךָ יְהֹוָה אֶלֹהֵֽינוּ
 וַחֲסָדֶֽיךָ הָרַבִּים
 אַל יַעַזְבֽוּנוּ נֶֽצַח סֶֽלָה וָעֶד:
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 May Your 
 Kindness and compassion,
@@ -162,7 +162,7 @@ Be available to us.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מַהֵר וְהָבֵא עָלֵֽינוּ
 בְּרָכָה וְשָׁלוֹם מְהֵרָה
@@ -174,7 +174,7 @@ Be available to us.
 קוֹמְמִיּוּת לְאַרְצֵֽנוּ:
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Please hurry.
 Bring blessing and peace to us.
@@ -187,14 +187,14 @@ So that we feel at home in it.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 כִּי אֵל פּוֹעֵל יְשׁוּעוֹת אָֽתָּה
 וּבָֽנוּ בָחַֽרְתָּ 
 מִכָּל עַם וְלָשׁוֹן
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 You can do this for us.
 You have assigned us
@@ -202,7 +202,7 @@ To do our special work in life
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְקֵרַבְתָּֽנוּ מַלְכֵּֽנוּ
 לְשִׁמְךָ הַגָּדוֹל סֶֽלָה בֶּאֱמֶת בְּאַהֲבָה
@@ -210,7 +210,7 @@ To do our special work in life
 וּלְיַחֶדְךָ בְּאַהֲבָה וּלְאַהֲבָה אֶת שְׁמֶֽךָ:
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 You brought us close to You.
 We are grateful.
@@ -219,25 +219,25 @@ And are filled with love for You
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 בָּרוּךְ אַתָּה יְהֹוָה
 הַבּוֹחֵר בְּעַמּוֹ יִשְׂרָאֵל בְּאַהֲבָה:
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <strong>Barukh attah Yah</strong>
 Who relates to us in Love.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אָמֵן
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Amen
 </div></td></tr>

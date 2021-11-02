@@ -38,10 +38,10 @@ The order of services included the recitation of special psalms for the day. The
 </ol>
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Partial Reconstructed Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הַנּוֺתֵן תְּשׁוּעָה לַמְּלָכִים
 וּמֶמְשָׁלָה לֲנְּסִיכִים
@@ -53,7 +53,7 @@ The order of services included the recitation of special psalms for the day. The
 וִינַשֵּׂא לְמַֽעְלָה לְמַֽעְלָה
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 May he that dispenseth salvation unto Kings, 
 and dominion unto princes; 
@@ -73,13 +73,13 @@ and all Kings and Potentates in alliance with these States.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הַמֶּלֶךְ מַלְכֵי הַמְלָכִים בְּרַחֲמָיו
 יִשְׁמְרֶהוּ וִיחַיֵיהוּ וּמִכָּל צָרָה וָנֶזֶק יַצִילֵהוּ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 May the Supreme King of Kings, through his infinite mercies, 
 preserve them, and grant them life, and deliver them from all manner of trouble and danger. 
@@ -89,12 +89,12 @@ Let not their lips speak evil, nor their tongues utter deceit.[foot]Cf. Job 27:4
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 May the Supreme King of Kings, through his infinite mercies, 
 impart his divine wisdom to the Rulers of these States; 
@@ -108,12 +108,12 @@ neither shall they make war any more.[foot]Cf. Isaiah 2:4, Micah 4:3[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Grant it thus, O Lord! 
 for the sake of thy great and ineffable name 
@@ -126,12 +126,12 @@ and do not despise our unworthiness nor our cry unto thee.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 We beseech thee, 
 O most gracious father and merciful King, to whom peace pertaineth, 

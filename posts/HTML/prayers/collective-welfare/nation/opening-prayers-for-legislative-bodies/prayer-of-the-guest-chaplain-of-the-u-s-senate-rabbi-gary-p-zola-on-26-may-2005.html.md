@@ -15,25 +15,25 @@ Date of Prayer: 2005-05-26
 
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <h3>Opening Prayer Given by the Guest Chaplain:</h3>
 </div></td></tr>
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Eternal One, 
 Rock of all ages, 
@@ -43,12 +43,12 @@ that still linger in the silent places
 of this historic Chamber of debate and decision. 
 </div></td></tr>
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Let us draw devotional inspiration 
 this morning 
@@ -62,12 +62,12 @@ renew in us a commitment
 to the core of righteous living.
 </div></td></tr>
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 For we have been taught that once, 
 when this rabbi took ill amidst a class 
@@ -77,12 +77,12 @@ grabbed his arm,
 and said: "May I help you down, Doctor?"
 </div></td></tr>
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 In response to this question, 
 the rabbi uttered words 
@@ -94,12 +94,12 @@ the rabbi told his student.
 "Try always to help people up."
 </div></td></tr>
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 In this year, 
 marking 350 years of Jewish life in America, 
@@ -111,12 +111,12 @@ the vision of our noble Republic,
 ever striving to help people up.
 </div></td></tr>
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 O may all who labor in this House--
 and in every house--
@@ -130,28 +130,28 @@ love mercy,
 and walk humbly with thy God."[foot]Micah 6:8 part.[/foot]
 </div></td></tr>
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Fervently we pray 
 that the vision we hallow 
 will animate all of us to live 
 "with malice toward none, 
 with charity for all . . . 
-[so we can finish] the work we are in."
+[so we can] finish the work we are in."[foot]<a href="/?p=30178">The Second Inaugural Address of Abraham Lincoln</a>, 4 March 1865[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אָמֵן׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <em>Amen</em>.
 </div></td></tr>
@@ -164,7 +164,7 @@ with charity for all . . .
 109th Congress, 1st Session
 Issue: Vol. 151, No. 72 — Daily Edition (May 26, 2005)
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.c-span.org/video/standalone/?c4502542/rabbi-gary-zola-american-jewish-archives-cincinnati-oh" width="512" height="330"]
+<iframe width=530 height=312 src='https://www.c-span.org/video/standalone/?c4502542/rabbi-gary-zola-american-jewish-archives-cincinnati-oh' allowfullscreen='allowfullscreen' frameborder=0></iframe>[su_spacer]
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://www.congress.gov/109/crec/2005/05/26/CREC-2005-05-26-pt1-PgS5945-2.pdf" width="100%" height="900"]
 </body>

@@ -13,10 +13,10 @@ Note: "The SOURCE" is used to translate the Divine Name YAH. “The CAUSE” is 
 
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הַ֥לְלוּ יָ֨הּ ׀ 
 שִׁ֣ירוּ לַֽ֭יהֹוָה שִׁ֣יר חָדָ֑שׁ
@@ -27,7 +27,7 @@ Note: "The SOURCE" is used to translate the Divine Name YAH. “The CAUSE” is 
 בְּתֹ֥ף וְ֝כִנּ֗וֹר יְזַמְּרוּ־לֽוֹ׃ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Praise the SOURCE! 
 Sing to the SOURCE a new song,  
@@ -39,7 +39,7 @@ with drum and lyre sing to it.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 כִּֽי־רוֹצֶ֣ה יְהֹוָ֣ה בְּעַמּ֑וֹ
 יְפָאֵ֥ר עֲ֝נָוִ֗ים בִּישׁוּעָֽה׃
@@ -56,7 +56,7 @@ with drum and lyre sing to it.
 הַֽלְלוּ־יָֽהּ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 For the CAUSE desires the People,  
 adorning the humble with victory.

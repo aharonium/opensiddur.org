@@ -2,7 +2,7 @@
 <head></head>
 <body>
 Title: חַד מָה יוּדָא | Ḥad Mah Yuda :: Who Knows One?, a counting-song in Aramaic translation<br />
-Primary contributor: isaac-gantwerk.mayer<br />
+Primary contributor: isaac-gantwerk-mayer<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=24974">http://opensiddur.org/?p=24974</a>
 <p />
 <hr />
@@ -13,10 +13,10 @@ Eḥad Mi Yodéa is a counting-song that is a beloved part of Seders the world o
 A recording of one melody can be found <a href="https://soundcloud.com/yshtencel/zuwyeaksglsm">on soundcloud</a>. 
 </div>
 
-<table style="width: 100%;margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="width: 100%;margin-left: auto;margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: right;">Translation (Aramaic)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֶחָד מִי יוֹדֵעַ
 אֶחָד אֲנִי יוֹדֵעַ.
@@ -25,7 +25,7 @@ A recording of one melody can be found <a href="https://soundcloud.com/yshtencel
 </span></div>
 </td>
 
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="aramaic" lang="jpa">
 חַד מָה יוּדָא
 חַד אָנוּ יוּדָא
@@ -33,7 +33,7 @@ A recording of one melody can be found <a href="https://soundcloud.com/yshtencel
 מָרָן דִּי בִשְׁמַיָּא וְאַרְעָא
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Who knows one? 
 I know one! 
@@ -42,7 +42,7 @@ in the Heavens and the Earth.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 שְׁנַיִם מִי יוֹדֵעַ.
 שְׁנַיִם אֲנִי יוֹדֵעַ.
@@ -52,7 +52,7 @@ in the Heavens and the Earth.
 </span></div>
 </td>
 
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="aramaic" lang="jpa">
 תְּרֵי מָה יוּדָא
 תְּרֵי אָנוּ יוּדָא
@@ -61,7 +61,7 @@ in the Heavens and the Earth.
 מָרָן דִּי בִשְׁמַיָּא וְאַרְעָא
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Who knows two? 
 I know two! 
@@ -71,7 +71,7 @@ in the Heavens and the Earth.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 שְׁלֹשָׁה מִי יוֹדֵעַ.
 שְׁלֹשָׁה אֲנִי יוֹדֵעַ.
@@ -82,7 +82,7 @@ in the Heavens and the Earth.
 </span></div>
 </td>
 
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="aramaic" lang="jpa">
 תְּלַת מָה יוּדָא
 תְּלַת אָנוּ יוּדָא
@@ -92,7 +92,7 @@ in the Heavens and the Earth.
 מָרָן דִּי בִשְׁמַיָּא וְאַרְעָא
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Who knows three? 
 I know three! 
@@ -103,7 +103,7 @@ in the Heavens and the Earth.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אַרְבַּע מִי יוֹדֵעַ.
 אַרְבַּע אֲנִי יוֹדֵעַ.
@@ -115,7 +115,7 @@ in the Heavens and the Earth.
 </span></div>
 </td>
 
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="aramaic" lang="jpa">
 אַרְבַּע מָה יוּדָא
 אַרְבַּע אָנוּ יוּדָא
@@ -126,7 +126,7 @@ in the Heavens and the Earth.
 מָרָן דִּי בִשְׁמַיָּא וְאַרְעָא
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Who knows four? 
 I know four! 
@@ -138,7 +138,7 @@ in the Heavens and the Earth.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 חֲמִשָּׁה מִי יוֹדֵעַ.
 חֲמִשָּׁה אֲנִי יוֹדֵעַ.
@@ -151,7 +151,7 @@ in the Heavens and the Earth.
 </span></div>
 </td>
 
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="aramaic" lang="jpa">
 חַמְשָׁא מָה יוּדָא
 חַמְשָׁא אָנוּ יוּדָא
@@ -163,7 +163,7 @@ in the Heavens and the Earth.
 מָרָן דִּי בִשְׁמַיָּא וְאַרְעָא
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Who knows five? 
 I know five! 
@@ -176,7 +176,7 @@ in the Heavens and the Earth.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 שִׁשָּׁה מִי יוֹדֵעַ.
 שִׁשָּׁה אֲנִי יוֹדֵעַ.
@@ -190,7 +190,7 @@ in the Heavens and the Earth.
 </span></div>
 </td>
 
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="aramaic" lang="jpa">
 שִׁיתָּא מָה יוּדָא
 שִׁיתָּא אָנוּ יוּדָא
@@ -203,7 +203,7 @@ in the Heavens and the Earth.
 מָרָן דִּי בִשְׁמַיָּא וְאַרְעָא
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Who knows six? 
 I know six! 
@@ -217,7 +217,7 @@ in the Heavens and the Earth.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 שִׁבְעָה מִי יוֹדֵעַ.
 שִׁבְעָה אֲנִי יוֹדֵעַ.
@@ -232,7 +232,7 @@ in the Heavens and the Earth.
 </span></div>
 </td>
 
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="aramaic" lang="jpa">
 שְׁבַע מָה יוּדָא
 שְׁבַא אָנוּ יוּדָא
@@ -246,7 +246,7 @@ in the Heavens and the Earth.
 מָרָן דִּי בִשְׁמַיָּא וְאַרְעָא
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Who knows seven? 
 I know seven! 
@@ -261,7 +261,7 @@ in the Heavens and the Earth.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 שְׁמוֹנָה מִי יוֹדֵעַ.
 שְׁמוֹנָה אֲנִי יוֹדֵעַ.
@@ -277,7 +277,7 @@ in the Heavens and the Earth.
 </span></div>
 </td>
 
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="aramaic" lang="jpa">
 תְּמַנְיָא מָה יוּדָא
 תְּמַנְיָא אָנוּ יוּדָא
@@ -292,7 +292,7 @@ in the Heavens and the Earth.
 מָרָן דִּי בִשְׁמַיָּא וְאַרְעָא
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Who knows eight? 
 I know eight! 
@@ -308,7 +308,7 @@ in the Heavens and the Earth.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 תִּשְׁעָה מִי יוֹדֵעַ.
 תִּשְׁעָה אֲנִי יוֹדֵעַ.
@@ -325,7 +325,7 @@ in the Heavens and the Earth.
 </span></div>
 </td>
 
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="aramaic" lang="jpa">
 תְּשַׁע מָה יוּדָא
 תְּשַׁע אָנוּ יוּדָא
@@ -341,7 +341,7 @@ in the Heavens and the Earth.
 מָרָן דִּי בִשְׁמַיָּא וְאַרְעָא
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Who knows nine? 
 I know nine! 
@@ -358,7 +358,7 @@ in the Heavens and the Earth.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 עֲשָׂרָה מִי יוֹדֵעַ.
 עֲשָׂרָה אֲנִי יוֹדֵעַ.
@@ -376,7 +376,7 @@ in the Heavens and the Earth.
 </span></div>
 </td>
 
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="aramaic" lang="jpa">
 עֲסַר מָה יוּדָא
 עֲסַר אָנוּ יוּדָא 
@@ -393,7 +393,7 @@ in the Heavens and the Earth.
 מָרָן דִּי בִשְׁמַיָּא וְאַרְעָא
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Who knows ten? 
 I know ten! 
@@ -411,7 +411,7 @@ in the Heavens and the Earth.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אַחַד עָשָׂר מִי יוֹדֵעַ.
 אַחַד עָשָׂר אֲנִי יוֹדֵעַ.
@@ -430,7 +430,7 @@ in the Heavens and the Earth.
 </span></div>
 </td>
 
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="aramaic" lang="jpa">
 חַדְסַר מָה יוּדָא
 חַדְסַר אָנוּ יוּדָא
@@ -448,7 +448,7 @@ in the Heavens and the Earth.
 מָרָן דִּי בִשְׁמַיָּא וְאַרְעָא
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Who knows eleven? 
 I know eleven! 
@@ -467,7 +467,7 @@ in the Heavens and the Earth.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 שְׁנֵים עָשָׂר מִי יוֹדֵעַ.
 שְׁנֵים עָשָׂר אֲנִי יוֹדֵעַ.
@@ -487,7 +487,7 @@ in the Heavens and the Earth.
 </span></div>
 </td>
 
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="aramaic" lang="jpa">
 תְּרֵיסַר מָה יוּדָא
 תְּרֵיסַר אָנוּ יוּדָא 
@@ -506,7 +506,7 @@ in the Heavens and the Earth.
 מָרָן דִּי בִשְׁמַיָּא וְאַרְעָא
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Who knows twelve? 
 I know twelve! 
@@ -526,7 +526,7 @@ in the Heavens and the Earth.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 שְׁלֹשָׁה עָשָׂר מִי יוֹדֵעַ.
 שְׁלֹשָׁה עָשָׂר אֲנִי יוֹדֵעַ.
@@ -547,7 +547,7 @@ in the Heavens and the Earth.
 </span></div>
 </td>
 
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="aramaic" lang="jpa">
 תְּלֵיסַר מָה יוּדָא 
 תְּלֵיסַר אָנוּ יוּדָא
@@ -567,7 +567,7 @@ in the Heavens and the Earth.
 מָרָן דִּי בִשְׁמַיָּא וְאַרְעָא
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Who knows thirteen? 
 I know thirteen! 

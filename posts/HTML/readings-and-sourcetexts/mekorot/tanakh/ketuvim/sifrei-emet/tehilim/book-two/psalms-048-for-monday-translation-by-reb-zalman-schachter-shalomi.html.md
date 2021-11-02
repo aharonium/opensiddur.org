@@ -11,17 +11,17 @@ For attribution and license, please consult the following URL: <a href="http://o
 This psalm was the Monday song of the Levites in the Holy Temple.
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>א</sup>&nbsp;<span class="liturgy" lang="he">שִׁ֥יר מִ֝זְמוֹר לִבְנֵי־קֹֽרַח׃</span>
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>1</sup>&nbsp;Song and music from the Korachites
 </div></td>
@@ -29,7 +29,7 @@ This psalm was the Monday song of the Levites in the Holy Temple.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>ב</sup>&nbsp;גָּ֘ד֤וֹל יְהוָ֣ה 
 וּמְהֻלָּ֣ל מְאֹ֑ד בְּעִ֥יר אֱ֝לֹהֵ֗ינוּ 
@@ -42,7 +42,7 @@ This psalm was the Monday song of the Levites in the Holy Temple.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>2</sup>&nbsp;Here in God’s city,
 On this holy mountain,
@@ -57,7 +57,7 @@ The great royal capital.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>ד</sup>&nbsp;אֱלֹהִ֥ים בְּאַרְמְנוֹתֶ֗יהָ נוֹדַ֥ע 
 לְמִשְׂגָּֽב׃
@@ -72,7 +72,7 @@ The great royal capital.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>4</sup>&nbsp;In her palaces,
 God is known in exaltation.
@@ -89,7 +89,7 @@ Shaking like a woman in labor.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>ח</sup>&nbsp;בְּר֥וּחַ קָדִ֑ים 
 תְּ֝שַׁבֵּ֗ר אֳנִיּ֥וֹת תַּרְשִֽׁישׁ׃
@@ -101,7 +101,7 @@ Shaking like a woman in labor.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>8</sup>&nbsp;A storm You raised from the East,
 Shattering Tarshish cruisers.
@@ -115,7 +115,7 @@ May God  keep it flourishing forever.  Selah!
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>י</sup>&nbsp;דִּמִּ֣ינוּ אֱלֹהִ֣ים 
 חַסְדֶּ֑ךָ 
@@ -131,7 +131,7 @@ May God  keep it flourishing forever.  Selah!
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>10</sup>&nbsp;In the midst of Your Temple,
 We looked for Your Grace, 
@@ -149,7 +149,7 @@ All because of how You act justly.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>יג</sup>&nbsp;סֹ֣בּוּ צִ֭יּוֹן וְהַקִּיפ֑וּהָ 
 סִ֝פְר֗וּ מִגְדָּלֶֽיהָ׃
@@ -160,7 +160,7 @@ All because of how You act justly.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>13</sup>&nbsp;Go round Zion, enfold her.
 Take note of her towers.
@@ -173,7 +173,7 @@ To generations yet to come:
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <sup>טו</sup>&nbsp;כִּ֤י זֶ֨ה ׀ אֱלֹהִ֣ים אֱ֭לֹהֵינוּ 
 עוֹלָ֣ם וָעֶ֑ד 
@@ -181,7 +181,7 @@ To generations yet to come:
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <sup>15</sup>&nbsp;This is God, our God!
 Forever and ever.

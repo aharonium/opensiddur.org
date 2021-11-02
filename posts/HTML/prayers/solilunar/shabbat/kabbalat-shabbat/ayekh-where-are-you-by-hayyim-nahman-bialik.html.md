@@ -7,21 +7,21 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אַיֵּךְ?
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <u>Where are you?</u>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מִמְּקוֹם שֶׁאַתְּ נִסְתֶּרֶת שָׁם, יְחִידַת חַיַּי
 וּשְׁכִינַת מַאֲוַיַּי –
@@ -30,7 +30,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 וּבְעוֹד יֵשׁ גְּאֻלָּה לִי – צְאִי וּגְאָלִי
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Come, beloved, from your hiding place. Come, 
 my only one. Show yourself. Hurry 
@@ -39,7 +39,7 @@ While yet I may be saved, come, rescue me.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וּמָלְכִי עַל־גּוֹרָלִי;
 וְיוֹם אֶחָד גְּזֵלַת נְעוּרַי לִי הָשִׁיבִי
@@ -50,7 +50,7 @@ While yet I may be saved, come, rescue me.
 צִפֹּרֶת כְּרָמִים.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Queen of my fate 
 give me back one day 
@@ -65,18 +65,18 @@ into fragrant flowers.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he"> 
 אַיֵּךְ?
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Where are you?
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וַאֲנִי עוֹד לֹא יָדַעְתִּי מִי וָמָה אַתְּ –
 וּשְׁמֵךְ עַל־שְׂפָתַי רָעַד,
@@ -92,7 +92,7 @@ Where are you?
 רַק־אוֹתָךְ, אוֹתָךְ, אוֹתָךְ...
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 When I did not know as yet 
 who you were and what you were 

@@ -15,10 +15,10 @@ This prayer places the Earth at the center of a relationship usually subverted b
 This <em>al hanissim</em> prayer was written for insertion into the <em>Modim</em> (we are thankful) blessing of the weekday Amidah and of the <em><a href="https://opensiddur.org/fixed-prayers/birkat-hamazon/blessing-the-spirit-of-life-after-eating-and-feeling-satiated/">Birkat haMazon</a></em> after the festive meal on any other secular/national day of Thanksgiving. Although it is intentionally written with a diasporic and universalist frame of reference, I hope it may apply just as well for <em>Yom Ha'Atsmaut</em> (Independence Day) in <em>Medinat Yisrael</em> (the State of Israel) as it does in the United States, Canada, and other countries on their special days.
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="44%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="font-size: 1em;">
 אָנֹכִ֤י יְהוָה֙ עֹ֣שֶׂה כֹּ֔ל נֹטֶ֤ה שָׁמַ֙יִם֙ לְבַדִּ֔י רֹקַ֥ע הָאָ֖רֶץ מֵאִתִּֽי <span class="citation">(כתיב של ישעיהו מד:כד חלק)</span>
  אני הוא שנטעתי אילן זה להשתעשע בו כל העולם 
@@ -29,7 +29,7 @@ This <em>al hanissim</em> prayer was written for insertion into the <em>Modim</e
 ושמחתי ביחד ושמחתי בהם׃ <span class="citation">(ספר הבהיר כב)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en" style="font-size: 1em; margin-top: 18px;">
+<td style="vertical-align:top;"><div class="english" lang="en" style="font-size: 1em;>
 "I am YHVH, I make all, I stretch out the heavens alone, the Earth is spread out before me."[foot]Isaiah 44:24, pronounced, <em>roka ha'arets may-iti</em> (the earth is spread out before me), but written <em>roka ha'arets mi-iti</em> <span class="scribe" lang="he">מי אתי</span>? (the earth is spread out. Who was with me?)[/foot]&nbsp;
 I am the one who planted this Tree [of Life] in order that all the world should delight in it. 
 And in it, I spread all (<em>kōl</em>). I called it "all" because all depend on it, all emanate from it, and all need it. 
@@ -40,7 +40,7 @@ I made them rejoice together, and I rejoiced in them.[foot]Sefer HaBahir §22. P
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="44%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְעַל הַנִּסִּים 
 וְעַל הַפֻּרְקָן 
@@ -52,7 +52,7 @@ I made them rejoice together, and I rejoiced in them.[foot]Sefer HaBahir §22. P
 לִפְנֵי מִלְחָמָה וְטֶבַח, אֵימָה וְהִתְנַגְּדוּת:‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 And for the miracles,
  and for the redemptions,
  and for the mighty acts,
@@ -64,7 +64,7 @@ And for the miracles,
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="44%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 ‏לְמִי הָאָרֶץ לָרֶשֶׁת וּלִכְבּוֹשׁ?
 שִׂ֣יחַ לָאָ֣רֶץ וְתֹרֶ֑ךָּ!‏ <span class="citation">(איוב יב:ח)</span>
@@ -77,7 +77,7 @@ And for the miracles,
 עִם רַחָמִים לְכׇל הַבַּעֲלֵי חַיִּים שֶׁלָּהּ. <span class="citation">(רמ״ק - תומר דבורה פרק ג׳ על חכמה)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 For whom is the Earth's land to seize and to occupy‽!
 Speak to the Earth and she will teach you![foot]Job 12:8[/foot]&nbsp;
 For you (YHVH) and not for us, 
@@ -90,18 +90,18 @@ with compassion for all of her living creatures.[foot]cf. R' Moshe Cordovero, To
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="44%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="font-size: 1em;">
 אמר ר' אמוראי גן עדן היכן הוא?
  אמר ליה -- בארץ: <span class="citation">(ספר הבהיר לא)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en" style="font-size: 1em; margin-top: 18px;">
+<td style="vertical-align:top;"><div class="english" lang="en" style="font-size: 1em;">
 "The Garden of Eden, where is it (now)?
  Rabbi Amorai explained to them: ba-Arets (In the Earth)."[foot]Sefer haBahir §31. Surprisingly, the idea that the Garden of Eden was literally hidden <em>in</em> the Earth, can be found in the fairy tale recounted by Hans Christian Andersen, "<a href="http://www.gutenberg.ca/ebooks/andersen-eden/andersen-eden-00-h.html">The Garden of Eden</a>."[/foot]&nbsp;
 </div></td></tr>
 
-<tr><td style="vertical-align:top;" width="44%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 כִּמְהַגְּרִים בְּאֶרֶץ נָכְרִיָּה 
 נְהִי בְעֵינֵינוּ 
@@ -115,7 +115,7 @@ with compassion for all of her living creatures.[foot]cf. R' Moshe Cordovero, To
 אָכַלְנוּ זֶה אֶת זֶה. <span class="citation">(כמו משלי ל:יד)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 As immigrants in a foreign land,
 we saw ourselves 
 as grasshoppers in the eyes of predatory overlords.[foot]Numbers 13:33. Seeing oneself as an underling should not validate excuses for conquest or privilege. By grasshoppers, the verse suggests that the <em>Bnei Anak</em>, the giant children of the <em>Nephilim</em>, see newcomers as fast food, i.e., easy pickings. The <em>Nephilim</em> first referenced in Genesis ch. 6, are the <em>bnei elohim</em> -- children of G‽D -- who descend to Earth, take what they wish, and with their children, introduce predation into nature. Thematically, the <em>Nephilim</em> and their children are archetypal of any group or person who makes themselves into an oppressive bigshot.[/foot] --
@@ -129,7 +129,7 @@ we were fed upon one another.[foot]Cf. Proverbs 30:14.[/foot]&nbsp;
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="44%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הָאֲדָמָה אֵפוֹא זוֹעֶקֶת בְּשֶׁקֶט 
 מִדְּמֵי אָחִינוּ אֲשֶׁר הִיא סוֹפֶגֶת <span class="citation">(בראשית ד:י‏)</span>
@@ -139,7 +139,7 @@ we were fed upon one another.[foot]Cf. Proverbs 30:14.[/foot]&nbsp;
 עַד־אָנָה נַסְתִּירֶנוּ אֶת־פָּנֶיךָ אֶחָד מֵהַשֵּׁנִי? <span class="citation">(תהלים יג:ב חלק)</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Consequently, the Earth screams silently
 from the blood of humanity which it cannot help but soak up,[foot]from Genesis 4:10. Either the <em>dahm</em> (blood) of Kayin's brother Abel cries out from <em>Adamah</em> (the earth) or the <em>Adamah</em> itself cries out. HaShem loves the Earth, and the Earth is ever burdened with the sins that humans cannot bear -- and HaShem takes note.[/foot]&nbsp;
 while we cry with gratitude
@@ -149,12 +149,12 @@ how long will we hide our face from one another in shame?[foot]Cf. Psalms 13:2 p
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="44%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Majestic King of all kings, 
 creator of all and sustainer of every burrow and dwelling:
 as immigrants in a new land, 
@@ -174,12 +174,12 @@ in every land that we dwell.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="44%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 בָּרוּךְ הַמִּשְׁמָר אֶת הָאָרֶץ עֲבוּר הָחוֹלְקִים בְּשֶּׁפְעַהּ.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Blessed is the One who preserves the Earth for those who share in her bounty.
 </div></td></tr>
 </tbody></table>

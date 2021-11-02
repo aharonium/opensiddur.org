@@ -42,40 +42,40 @@ In the Babylonian Talmud (Ḳiddushin 5b), we read (with explanations in rounded
 <table style="margin-left: auto;margin-right: auto;">
 <tbody>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 תנו [שנו] רבנן [הרבנים שלנו] {בתקופת המשנה]}: כיצד {נקנית אישה} בכסף? נתן לה כסף או שוה כסף ואמר לה, "הרי את מקודשת לי," "הרי את מאורסת לי," {או} "הרי את לי לאינתו {לאִשָּׁה}" - הרי זו מקודשת. אבל היא שנתנה ואמרה היא 'הריני מקודשת לך,' 'הריני מאורסת לך' {או} 'הריני לך לאינתו [לְֿאִשָּׁה]' - אינה מקודשת.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Our rabbis taught (in the era of the rabbis of the Mishnah): “How (is a woman purchased) through a monetary transaction? If a man gives her money or something equivalent to that amount of money and says to her, ‘Behold, you are sanctified unto me,’ ‘Behold, you are betrothed to me,’ or ‘Behold, you are my woman’—behold, the woman is sanctified! But, if she were to give (money or an appropriate equivalent) and say, ‘Behold, I am sanctified unto you,’ ‘Behold, I am betrothed to you,’ or ‘Behold, I am your woman;’ she is not sanctified!”
-	</div></td></tr>   <tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+	</div></td></tr>   <tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 מתקיף לה [מקיש עליו] רב פפא,{האם} טעמא [הטעם] {הוא} דנתן [שנתן] הוא ואמר הוא {וכך הָאִשָּׁה מקֻדֶּֽשֶׁת}, הא [אך] {בדין שֶׁבּוֹ} נתן הוא {לה כסף או שָׁוֶה כסף} ואמרה היא {לו מִלִּים מצַיְּֿנוֹת קִדּוּשִׁין} - אינה מקודשת. אימא [אֱמוֹר] {וסבוֹר כפי} סיפא [הסוף] {של מה שאמרו הרבנים לעיל} אבל היא שנתנה לו ואמרה היא - לא הוו [מתהַוִּים] קִדּוּשׁין, טעמא [הטעם] {הוא} דנתנה [שנתנה] היא ואמרה היא.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Rav Pappa challenged this teaching, (saying,) “Is the reasoning (behind the Mishnaic teaching above) indeed that (the man) gave (the money or its equivalent to the woman) and that he said (the apt words, and by way of this, she becomes sanctifed)!? And (does the same reasoning hold that, in a situation where) he has given (money or its equivalent) but she has said (the apt words), she is not sanctified!? (Rather,) say (and think in accordance with) the end (of what was taught above): ‘But, if she has given (money or its equivalent to him) and she has spoken (the apt words for sanctifying a person), no sanctification is enacted—the reason being that she gave (him the money or its equivalent) and she spoke (the apt words). But (in a situation) where he has given (her the money or its equivalent), and she has spoken (to him the apt words), is a sanctification enacted!?’”
-	</div></td></tr>   <tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+	</div></td></tr>   <tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 הא [אבל] {בדין שבו} נתן הוא ואמרה היא - הוו [מתהַוִּים] קִדּוּשׁין!? רישא [הראש] {של מה שאמרו הרבנים לעיל} דוקא [מדיוק] {בלשונו}, {אבל} סיפא [הסוף] {של מה שאמרו הרבנים לעיל} כדי נסבה [נתינת נדבה] {בחינם ובלא צורך נאמר}.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 The beginning (of what the rabbis taught above) is exact (in its wording, whereas) the ending (of what the rabbis taught above) is a free-for-all (and is inexact in its wording, stated for no reason).
-	</div></td></tr>   <tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+	</div></td></tr>   <tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 ותני [ושנה] סיפא [הסוף] {של מה שאמרו הרבנים לעיל} מילתא [דבר] דסתרא [שסתר] לה לרישא [את הראש] {של מה שאמרו הרבנים לעיל}?!
 
 אלא הכי [כך] קאמר [אמר] {הרב המקורי}, 'נתן הוא ואמר הוא - פשיטא [פשוט] דהוו [שֶׁמִּתְהַוִּים] קִדּוּשׁין; נתן הוא ואמרה היא - נעשה כמי שנתנה היא ואמרה היא ולא הוו [מִתְהַוִּים] קִדּוּשׁין.'
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 But does the ending (of what the rabbis taught above) contradict the beginning (of what the rabbis taught above)!? 
 
 Rather, this is how (the original teacher) taught it: “(In a case where) he has given (money or the equivalent) and he has said (the apt words), it is obvious that the sanctification is enacted; in a case where he has given (money or the equivalent) but she has said (the apt words), the situation is likened to a scenario wherein she has given (him money or the equivalent) and she has said (the apt words), and no sanctification is enacted.”
-	</div></td></tr>   <tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+	</div></td></tr>   <tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 ואי [ואם] בעית [תרצה], אימא [אֱמוֹר]: 'נתן הוא ואמר הוא - מקודשת. נתנה היא ואמרה היא - אינה מקודשת. נתן הוא ואמרה היא - ספיקא [ספק] היא [הוא], וחיישינן [חוששים אנו] מדרבנן [על שם הרבנים שלנו].'"
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 But, if you would prefer, say (as such): “(In a situation where) he has given (her money or its equivalent) and he has said (to her the apt words), she is sanctified. (In a situation where) she has given (money or its equivalent) and she has spoken (to him the apt words), she is not sanctified. (In a situation where) he gave but she said, it is doubtful, and we are doubtful in accordance with the rabbis.”’
 </td></tr>
 </tbody></table>

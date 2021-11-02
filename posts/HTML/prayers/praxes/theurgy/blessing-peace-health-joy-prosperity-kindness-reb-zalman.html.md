@@ -28,7 +28,7 @@ If you do drink from this mug, don't forget to prepare it as a holy vessel by sa
 
 <table style="margin-left: auto;margin-right: auto;">
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 בָּרוּךְ אַתָּה
  יְיָ אֶלֹהֵינוּ
@@ -37,7 +37,7 @@ If you do drink from this mug, don't forget to prepare it as a holy vessel by sa
  וְצִוָנוּ עַל טְבִלַת כֶּלִי:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Blessed are you, 
 YHVH our <em>elo'ah</em>, 
 cosmic majesty, 
@@ -58,7 +58,7 @@ vetsivanu al tevilat kli
 
 <table style="margin-left: auto;margin-right: auto;">
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 בָּרוּךְ אַתָּה
  יְיָ אֱלֹהֵֽינוּ
@@ -66,7 +66,7 @@ vetsivanu al tevilat kli
  שֶׁהַכֹּל נִהְיָה בִּדְבָרוֹ:‏
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Blessed are you, 
 YHVH our <em>elo'ah</em>, 
 cosmic majesty, 
@@ -84,7 +84,7 @@ shehakol nih’yeh bid’varo
 
 <table style="margin-left: auto;margin-right: auto;">
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 בָּרוּךְ אַתָּה
  יְיָ אֱלֹהֵֽינוּ
@@ -95,7 +95,7 @@ shehakol nih’yeh bid’varo
  בָּרוּךְ חַי הָעוֹלָמִים:
 </span></div></td>
 
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Blessed are you, 
 YHVH our <em>elo'ah</em>, 
 Cosmic Majesty, 

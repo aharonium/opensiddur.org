@@ -29,7 +29,7 @@ The kernel of biblical text 'E,' its early supplemental layer 'J', and its later
 Parashat Vayaqhel <span class="citation">(Exodus 35:1-38:20)</span> in the annual Torah reading cycle, is read either on the fourth shabbat of the month of Adar א during a Jewish leap year or the fourth shabbat of Adar during a regular non-leap year. (On non-leap years, Vayaqhel and Ph'qudei are combined in their reading.) The parashah is preceded by parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-shemot/parashat-ki-tissa/parashat-ki-tissa-color-coded-according-to-its-narrative-layers/">Ki Tissa</a> <span class="citation">(Exodus 30:11-34:35)</span>; parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-shemot/parashat-phqudei/parashat-phqudei-color-coded-according-to-its-narrative-layers/">Ph'qudei</a> <span class="citation">(Exodus 38:21-40:38)</span>, the last parashah in Sefer Shemot, follows it on leap years. On regular non-leap years, the combined reading of Vayaqhel and Ph'qudei is followed by parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-vayiqra/parashat-vayiqra/parashat-vayiqra-color-coded-according-to-its-narrative-layers/">Vayiqra</a> <span class="citation">(Leviticus 1:1-5:26)</span>.
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

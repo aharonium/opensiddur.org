@@ -7,10 +7,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew (source)</th><th style="text-align: left;"><a href="/contributing/upload/">Contribute a translation</a></th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 רִבּוֹן כָּל הַמַעֲשִׂים,
 אַתָּה חוֹנֵן לְאָדָם דֲּעַת 
@@ -20,7 +20,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 לִבְחֹר אֶת מַנְהִיגֵינוּ.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Master of Creation,
 You favor humanity with perception
 and teach people understanding. 
@@ -30,7 +30,7 @@ to elect our leaders.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+<tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 חֲזֵק לִבֵּנוּ וּמַחַשַּׁבְתֵּנוּ.
 הַדְרִיכֵנוּ, שֶׁנוּכַל לַחֲשֹׁב וּלְהַעֲרִיךְ,
 לִשְׁקוֹל וּלְהַחְלִיט בִּתְבוּנָה וּבְאֲחְרָיוּת.
@@ -42,7 +42,7 @@ to elect our leaders.
 וְלֹא יִכָּשְׁלוּ אֲחֵרִים בַּנוּ.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Give us strength in our hearts and minds.
 Guide us, to be able to think and evaluate, 
 to consider and decide wisely and responsibly.
@@ -55,7 +55,7 @@ nor to fail one another.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+<tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 אָנָּא ה׳ אֱלֹהֵי יִשְׂרָאֵל,
 הַעֲרֵה רוּחֲךָ עַל כָּל תּוֹשְׁבֵי אַרְצֵנוּ
 וְטַע בְּלִבָּם אַהֲבָה וְאַחֲוָה וְשָׁלוֹם וְרֵעּוּת
@@ -65,7 +65,7 @@ nor to fail one another.
 בְּרוּחַ טוֹבָה וּבְתִקְוָה.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Please YHVH, elo’ah of Israel,
 Focus your spirit upon all the inhabitants of our Land 
 And plant in their hearts love and fraternity, peace and companionship
@@ -76,7 +76,7 @@ with a good spirit and with hope.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+<tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 וּלְאַחֲר הַבְחִירוֹת,
 שְׁלַח אוֹרְךָ וְאֲמִיתְּךָ לְראֹשֶׁיהָ, נִבְחַרֶיהָ, מָנְהִגַיהָ
 וּלְכׇל הַעוֹסְקִים בְּצָרְכֵּי צִיבּוּר בֶּאֱמוּנָה חַזְקָם וְאַמֱצָם.
@@ -89,7 +89,7 @@ with a good spirit and with hope.
 וְאָז תַּשְׂכִּיל“ <span class="citation">(יהושע א:ח חלק)</span>.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 And after the Election, 
 send your light and truth to the Prime Minister, their MKs, and their advisers
 in all their dealings as faithful representatives with strength and courage.
@@ -103,7 +103,7 @@ and only then will you be successful.”[foot]Joshua 1:8 part.[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%"><div class="liturgy" lang="he">
+<tr><td style="vertical-align:top;"><div class="liturgy" lang="he">
 בָּרֵךְ נָא אֶת מְדִינָת יִשְׂרָאֵל
 רֵאשִׁית צְמִיחַת גְּאֻלָּתֵנוּ
 וְקַיֵּם בִּמְהֵרָה חֲזוֹן נְבִיאֶךָ,
@@ -114,7 +114,7 @@ and only then will you be successful.”[foot]Joshua 1:8 part.[/foot]
 וְנֹאמַר אָמֵן.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%"><div class="english" lang="en">
+<td style="vertical-align:top;"><div class="english" lang="en">
 Please bless the State of Israel,
 the beginning of the flowering of our redemption,[foot]Cf. the <a href="https://opensiddur.org/?p=17652">Prayer for the State of Israel</a> by Yitsḥak haLevi Hertzog and Shmuel Yosef Agnon.[/foot]&nbsp; 
 And quickly bring about the vision of your prophet, 

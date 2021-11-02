@@ -28,7 +28,7 @@ According to the poetry of the Midrash Tanḥuma, Bereshit 1:1, the words of the
 Parashat Ḥuqat (Numbers 19:1-22:1) in the annual Torah reading cycle is the sixth parashah in Sefer Bamidbar. It is preceded by parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-bamidbar/parashat-qorah/parashat-qorah-color-coded-according-to-its-narrative-layers/">Qoraḥ</a> (Numbers 16:1-18:32). Parashat <a href="https://opensiddur.org/readings-and-sourcetexts/weekly-torah-readings/annual-cycle/sefer-bamidbar/parashat-balaq/parashat-balaq-color-coded-according-to-its-narrative-layers/">Balaq</a> (Numbers 22:2-25:9) follows it. 
 </div>
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">

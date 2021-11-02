@@ -67,27 +67,27 @@ The gathering could end by chanting. Any of these passages might suffice.</li>
 <hr />
 
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <h3><b>Part 1. Eikhah / Lament for the Earth: Tishah b'Av</b></h3>
 <b>By Tamara Cohen (Barbara Bick Memorial Fellow of The Shalom Center, 2010)</b>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Eikha: Alas, she sits in danger.
 Earth, home to multitudes,
@@ -95,24 +95,24 @@ like a beloved, deep in distress.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Blue ocean, source of life --
 Endangered and imprisoned.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Bitterly she weeps in the night
 Her shorelines wet with tears.
@@ -121,12 +121,12 @@ All her allies have betrayed her.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Checkerspot butterflies
 flee their homes;
@@ -136,12 +136,12 @@ Because our greed has heated Earth.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Whole communities destroyed
 To pursue off-shore oil.
@@ -149,12 +149,12 @@ Lives and dreams have been narrowed.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Coastlines mourn for families,
 lost homes and livelihoods.
@@ -162,24 +162,24 @@ Barrier islands lament, desolate.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Wetlands sigh without their song birds.
 Estuaries grieve; the sea is embittered.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Earth’s children – now her enemies;
 Despite destruction, we sleep at ease.
@@ -207,24 +207,24 @@ stumble weak before King Coal.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 All that was precious in the days of our youth,
 Earth recalls in woe and sorrow.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Her creatures die with none to help them,
 at the hands of Exxon, now BP.
@@ -233,12 +233,12 @@ and look on helpless.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 We have sinned greatly,
 and so are ailing.
@@ -249,12 +249,12 @@ she shrinks back.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Oily waves slap the sand like a soiled hem;
 we were heedless of the cost of our appetite.
@@ -263,12 +263,12 @@ See, Breath of Life, this misery; how our avarice jeers!
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Greed has laid hands on all dear to us.
 Your sanctuary plundered by multinationals
@@ -276,12 +276,12 @@ full of contempt for Your holy community.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 The Earth’s poor cry out as they search for nourishment;
 indigenous communities trade resources for food,
@@ -304,24 +304,24 @@ Will we truly look and know this agony as ours own?
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 We are afflicted by angry consequence,
 The elements push back against their abuse.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Forest fires reach down and spread like fury,
 Sprawl and refuse trap our spirits.
@@ -330,12 +330,12 @@ survivors are left forlorn, in constant misery.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 For these things do we weep
 Our eyes flow with tears.
@@ -346,12 +346,12 @@ unless we act with speed and wisdom.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Alas, humanity in our reckless living
 have brought shame over all.
@@ -360,12 +360,12 @@ Your footstool, green and fertile?
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 We have razed woodlands to the ground,
 profaned the Kingdom of Earth and all its creatures.
@@ -374,12 +374,12 @@ will we cease hiding our power from ourselves and befriend our Earth?
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 How can we wrestle with God and bring justice to others
 If we don’t quench the flaming fires,
@@ -387,12 +387,12 @@ and turn back from endless consumption?
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Egrets and brown pelicans languish in salt marshes
 From the depths, corals cry out.
@@ -418,12 +418,12 @@ We are here to honor boundaries, not to devour all.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Open, open --
 Our eyes to see in each creature,
@@ -432,24 +432,24 @@ the Presence of the One.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <h3><b>Part 2. Between the Fires</b></h3>
 <b>By Rabbi Arthur Waskow</b>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 We are the generation that stands
 between the fires:
@@ -461,12 +461,12 @@ The flame and smoke that could consume all earth.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 It is our task to make from fire not an all-consuming blaze
 But the light in which we see each other fully.
@@ -475,12 +475,12 @@ One Spark.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 [Light a candle, or a torch, or clump of sage]
 
@@ -494,13 +494,13 @@ Blessed are the many who make One.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הִנֵּה אָנֹכִי שֹׁלֵחַ לָכֶם אֵת אֵלִיָּה הַנָּבִיא לִפְנֵי בּוֹא יוֹם יְהוָה הַגָּדוֹל וְהַנּוֹרָא.‏
 וְהֵשִׁיב לֵב אָבוֹת עַל בָּנִים וְלֵב בָּנִים עַל אֲבוֹתָם פֶּן אָבוֹא וְהִכֵּיתִי אֶת הָאָרֶץ חֵרֶם.‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Here! I will send you
 Eli-Yah the Prophet
@@ -516,12 +516,12 @@ With utter destruction.[foot]Malakhi 3:23-24[/foot]
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Here! we ourselves are coming
 Before the great and terrible day
@@ -534,19 +534,19 @@ Does not fall upon us.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <h3><b>Part 3. RECITE TOGETHER </b></h3>
 <strong>from the Song of Songs 2:11-13, translation by Rabbi Marcia Falk</strong>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 עָנָה דוֹדִי וְאָמַר לִי קוּמִי לָךְ רַעְיָתִי יָפָתִי וּלְכִי לָךְ.
 כִּי הִנֵּה הסתו [הַסְּתָיו] עָבָר 
@@ -558,7 +558,7 @@ Does not fall upon us.
 קוּמִי לכי [לָךְ] רַעְיָתִי יָפָתִי וּלְכִי לָךְ.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Come with me, my love, come away,
 For the long chill months are past,
@@ -573,115 +573,115 @@ Come with me my love, come away!
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <strong>CHANT</strong>
 by Rabbi Shefa Gold from Song of Songs
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 קַמְתִּי אֲנִי לִפְתֹּחַ לְדוֹדִי...‏
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <i>Ḳamti ani, liftoaḥ l'dodi; Ḳamti ani, liftoaḥ l'dodi;</i>[foot]Song of Songs 5:5, <span class="hebrew" lang="he">קַמְתִּי אֲנִי לִפְתֹּחַ לְדוֹדִי וְיָדַי נָטְפוּ מוֹר וְאֶצְבְּעֹתַי מוֹר עֹבֵר עַל כַּפּוֹת הַמַּנְעוּל.‏</span> ("I rose up to open to my beloved; And my hands dropped with myrrh, And my fingers with flowing myrrh, Upon the handles of the bar." (JPS 1917)[/foot]
 I will open to you my beloved; Will you open, open to me?
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <h3>Part 4. ACTION / PROCLAMATION</h3>
 <em>(This part of the observance may include vigils, visits to official or business offices, letter-writing, etc):</em>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 We call on the peoples and the governments of the United States and of the world:
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 a. To forbid, now and forever, the drilling of new oil wells into the depths of Mother Ocean, the destruction of mountains for the sake of the coal within them, and the leveling of great forests that breathe their majesty throughout our planet.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 b. To end all subsidies to producers of fossil fuels, and to provide as first priority throughout the world the support of the public in money and attention for conservation of energy and swift emplacement of responsible and sustainable energy sources; sun, wind, and earth-based geothermal.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 c. To honor and affirm the Breath of Life by swiftly and strongly capping the emission of carbon dioxide, methane, and other heat-trapping gases.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 d. To share the wealth of the world so that nations and regions, domestic and world-wide, that are trapped in poverty gain help from the rich in lessening the devastation of climate crisis already under way and in achieving economic development through a non-fossil-fuel path.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <h3>Part <b>5. CELEBRATION</b></h3>
 <em>End by reciting together Psalm 104 or 148 or a more recent poem of celebration of the Earth; by circle-dancing; and by chanting again from the Song of Songs.</em>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <strong>Psalm 148: Hallelu-YAH! (translation by Rabbi Arthur Waskow)</strong>
 </div></td></tr>
@@ -776,58 +776,58 @@ Let us praise the Breath of Life — Hallelu-YAH!
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <strong>CHANT</strong>
 Verse from Isaiah 51:3, from one of the Haftarot of Consolation after Tishah b'Av.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 כִּי נִחַם יְהוָה צִיּוֹן נִחַם כָּל חָרְבֹתֶיהָ וַיָּשֶׂם מִדְבָּרָהּ כְּעֵדֶן וְעַרְבָתָהּ כְּגַן יְהוָה שָׂשׂוֹן וְשִׂמְחָה יִמָּצֵא בָהּ תּוֹדָה וְקוֹל זִמְרָה.
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 For YHVH has comforted Tziyon; He has comforted all her waste places, And has made her wilderness like Eden, And her desert like the garden of YHVH; Joy and gladness shall be found therein, Thanksgiving, and the voice of melody.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 (Chant melody for Hebrew by Rabbi Shefa Gold; same melody for English.)
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וַיָּשֶׂם מִדְבָּרָהּ כְּעֵדֶן
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <i>Vayasem midbarah k'eden</i> (3x)
 <b>Turn the barren place to Eden (3x); 
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 וְעַרְבָתָהּ כְּגַן
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <i>v'arvatah k'gan Yahh;</i>(3x)
 And the desert to a garden breathing Life.</b>(3x)

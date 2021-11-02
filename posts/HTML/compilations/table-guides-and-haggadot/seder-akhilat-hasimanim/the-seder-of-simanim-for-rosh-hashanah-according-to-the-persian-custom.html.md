@@ -9,7 +9,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 [caption id="attachment_3956" align="aligncenter" width="1024" caption="Image: Pomegranate in Michal and Michael&#039;s garden by davi55king (License: CC-BY 2.0)"]<a href="http://www.flickr.com/photos/david55king/2790296646/"><img src="https://opensiddur.org/wp-content/uploads/2011/09/Pomegranite-in-Michal-and-Michaels-garden-by-davi55king-CC-BY-2.0.jpg" alt="" title="Pomegranate in Michal and Michael&#039;s garden by davi55king (CC-BY 2.0)" width="1024" height="749" class="size-full wp-image-3956" /></a>[/caption]
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr>

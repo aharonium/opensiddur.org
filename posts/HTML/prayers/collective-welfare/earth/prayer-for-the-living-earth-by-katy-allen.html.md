@@ -7,11 +7,11 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 רִבּוֺנוֺ שֶׁל עוֺלָם, עוֺשֶׂה בְּרֵאשִׁית,
 יְהִי רָצוֺן מִלְפָנֶיךָ
@@ -33,7 +33,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Master of the Universe, Creator of All,
 may it be your will
@@ -57,7 +57,7 @@ please O G!d, please heal it all.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 צוּר כׇּל הָעוֺלָמִים, 
 נָא, תֵּן בְּלִבֵּנוּ 
@@ -66,7 +66,7 @@ please O G!d, please heal it all.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Rock of All Worlds,
 please, place in our hearts 
@@ -77,7 +77,7 @@ upon Your Creation.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֺתֵינוּ וְאִמּוֹתֵינוּ,
 אֵל נָא!
@@ -89,7 +89,7 @@ upon Your Creation.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 G!d of our ancestors,
 O G!d, please!
@@ -103,7 +103,7 @@ to heal with wisdom, your Garden.
 
 
 <tr>
-<td style="vertical-align:top;" width="46%">
+<td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 גוֹאֲלֵנוּ, מַצִּילֵנוּ,
 לַמֵּד אוֺתָנוּ 
@@ -116,7 +116,7 @@ to heal with wisdom, your Garden.
 </span></div>
 </td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Our Savior, our Redeemer,
 teach us 

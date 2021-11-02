@@ -15,21 +15,21 @@ Text marked in blue is intended  to be read in <a href="https://opensiddur.org/r
 
 <hr />
 
-<table style="margin-left: auto;margin-right: auto;" class="draggable">
+[xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="commentary" lang="he">
 <span class="instruction">הַיּוֹם יוֹם צוֹם עֲשָׂרָה בְּטֵבֵת הוּא צוֹם הָעֲשִׂירִי וּבוֹ יֵשׁ אוֹמְרִים׃</span>
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 <span class="instruction">Today is the fast day of the Tenth of Tevet, the fast of the tenth month, and on it some say:</span>
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 לַ֭מְנַצֵּחַ עַל־שׁוּשַׁ֣ן עֵד֑וּת
 מִכְתָּ֖ם לְדָוִ֣ד לְלַמֵּֽד׃ 
@@ -39,7 +39,7 @@ Text marked in blue is intended  to be read in <a href="https://opensiddur.org/r
 שְׁנֵ֖ים עָשָׂ֣ר אָֽלֶף׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 For the leader, on the Witness Rose,
 a sealed-work, David's, to teach.
@@ -50,7 +50,7 @@ and Yoav returned and slew Edom,
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 <span style="color:blue;">אֱ֭לֹהִים זְנַחְתָּ֣נוּ פְרַצְתָּ֑נוּ
 אָ֝נַ֗פְתָּ תְּשׁ֣וֹבֵֽב לָֽנוּ׃
@@ -60,7 +60,7 @@ and Yoav returned and slew Edom,
 הִ֝שְׁקִיתָ֗נוּ יַ֣יִן תַּרְעֵלָֽה׃</span>
 </div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 God, You have deserted us, breached us,
 been angry – bring us back!
@@ -71,7 +71,7 @@ you have poured us a bitter wine.
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 נָ֘תַ֤תָּה לִּירֵאֶ֣יךָ נֵּ֭ס לְהִתְנוֹסֵ֑ס
 מִ֝פְּנֵ֗י קֹ֣שֶׁט סֶֽלָה׃
@@ -79,7 +79,7 @@ you have poured us a bitter wine.
 הוֹשִׁ֖יעָה יְמִינְךָ֣ ועננו וַעֲנֵֽנִי׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Give, please, those who awe You a flag,
 rallying because of Your truth. Selah.
@@ -88,7 +88,7 @@ save with Your hand, and answer me!
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֱלֹהִ֤ים ׀ דִּבֶּ֥ר בְּקׇדְשׁ֗וֹ
 אֶ֫עְלֹ֥זָה
@@ -102,7 +102,7 @@ save with Your hand, and answer me!
 עָ֝לַ֗י פְּלֶ֣שֶׁת הִתְרוֹעָֽעִי׃ 
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 God said in the Holy Place,
 "let Me exult,
@@ -117,7 +117,7 @@ Philistia, try to flatter Me!"
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 מִ֣י יֹ֭בִלֵנִי עִ֣יר מָצ֑וֹר
 מִ֖י נָחַ֣נִי עַד־אֱדֽוֹם׃
@@ -125,7 +125,7 @@ Philistia, try to flatter Me!"
 וְֽלֹא־תֵצֵ֥א אֱ֝לֹהִ֗ים בְּצִבְאוֹתֵֽינוּ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Who will bring me to the fort city?
 Who will lead me to Edom?
@@ -134,7 +134,7 @@ Do you not march with our armies?
 </div></td></tr>
 
 
-<tr><td style="vertical-align:top;" width="46%">
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 הָֽבָה־לָּ֣נוּ עֶזְרָ֣ת מִצָּ֑ר
 וְ֝שָׁ֗וְא תְּשׁוּעַ֥ת אָדָֽם׃
@@ -142,7 +142,7 @@ Do you not march with our armies?
 וְ֝ה֗וּא יָב֥וּס צָרֵֽינוּ׃
 </span></div></td>
  
-<td style="vertical-align:top;" width="53%">
+<td style="vertical-align:top;">
 <div class="english" lang="en">
 Grant us help against the stressor,
 for worthless is human rescue.
