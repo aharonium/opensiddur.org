@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: גאָט בענטש אַמעריקע | God Bless America, for Armistice/Veterans Day by Irving Berlin (1918/1938) with Yiddish translation<br />
+Title: גאָט בענטש אַמעריקע | God Bless America, for Armistice Day by Irving Berlin (1918/1938) with Yiddish translation<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=22583">http://opensiddur.org/?p=22583</a>
 <p />

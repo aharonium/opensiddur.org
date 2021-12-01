@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: מִדְרַשׁ מַעֲשֶׂה חֲנֻכָּה ב׳ | Midrash Ma'aseh Ḥanukkah "bet" in Ladino, a retelling of Megillat Antiokhus by Rabbi Isaac Magriso (1764)<br />
+Title: מִדְרַשׁ מַעֲשֶׂה חֲנֻכָּה ב׳ | Midrash Ma'aseh Ḥanukkah "bet" in Ladino, a retelling of Megillat Antiokhus with details from II Maccabees by Rabbi Isaac Magriso (1764)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=14886">http://opensiddur.org/?p=14886</a>
 <p />

@@ -136,9 +136,5 @@ Amen and amen.
 This is an English translation prepared by Devra Kay from an unpublished manuscript containing tkhines for a pregnant woman (see Devra Kay, <Em>Seyder Tekhines: The Forgotten Book of Jewish Prayer for Jewish Women</em>, Jewish Publication Society, 2004, p.201-203). The manuscript can be found in the Bodleian Library, Shelfmark Opp 666, and is listed in Adolph Neubauer's 1886 catalog of Hebrew manuscripts in the Bodleian Library's collection as "Occasional prayers in Hebrew-German cursive characters [incomplete]. Ashkenaz, early 17th century." Devra Kay argues that "all the pages are there and can be rearranged to form a complete book" possibly an early antecedent to the Seder Tkhines. Unfortunately, a transcription of the manuscript was not published along with Kay's translation. If you can provide such a transcription, or help with obtaining a digital copy of this manuscript, please contact us.
 
 &nbsp;
-
-<hr />
-
-&nbsp;
 </body>
 </html>

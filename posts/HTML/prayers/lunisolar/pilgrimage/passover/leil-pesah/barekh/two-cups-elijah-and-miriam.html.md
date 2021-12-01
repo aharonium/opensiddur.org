@@ -1,14 +1,14 @@
 <html>
 <head></head>
 <body>
-Title: שתי כוסות, לאליהו ומרים | Two Cups: Elijah and Miriam, a kavvanah and a prayer by Trisha Arlin<br />
+Title: Two Cups: Elijah and Miriam, a kavvanah and a prayer by Trisha Arlin<br />
 Primary contributor: trishaarlin<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=4680">http://opensiddur.org/?p=4680</a>
 <p />
 <hr />
 
 [xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;"></th><th style="text-align: left;">Source (English)</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;"><a href="/contribute/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr>
 <td style="vertical-align:top;">

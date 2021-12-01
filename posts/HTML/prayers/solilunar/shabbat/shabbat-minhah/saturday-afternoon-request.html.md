@@ -1,14 +1,14 @@
 <html>
 <head></head>
 <body>
-Title: Saturday Afternoon Request by Rabbi Rachel Barenblat<br />
+Title: Saturday Afternoon Request, by Rabbi Rachel Barenblat<br />
 Primary contributor: rbarenblat<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=7055">http://opensiddur.org/?p=7055</a>
 <p />
 <hr />
 
 [xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;">Contribute a Translation</th><th style="text-align: left;">English</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;"><a href="/contribute/upload/">Contribute a Translation</a></th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">

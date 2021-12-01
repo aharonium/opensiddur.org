@@ -7,12 +7,6 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-This is a direct transcription, including cantillation and non-standard vocalizations, of the cantillated Megilat Antiokhos found in the British Library manuscript <a href="http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_5866">Or 5866</a>, folios 105v-110r. This manuscript consistently uses both dagesh and raphe, while also using raphe to mark the letters ה and א when silent. --Isaac Gantwerk Mayer
-
-The English translation presented opposite the cantillated text is adapted from the one made by Tsvi Hirsch Filipowski of another Aramaic Megillat Antiokhus in <em>Sefer Mivḥar ha-peninim</em> (London: [n.s.], 1851), pp. 73-99. As no section breaks appear in BL Or 5866, I have added breaks according to the cantillation of the <a href="https://opensiddur.org/?p=20767">Hebrew translation of Megillat Antiokhus</a> made by Isaac Gantwerk Mayer. --Aharon Varady
-
-<hr />
-
 [xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
@@ -94,6 +88,14 @@ After this the Hasmoneans entered the Temple and rebuilt its gates from their ru
 </tbody></table>
 
 <hr />
+
+This is a direct transcription, including cantillation and non-standard vocalizations, of the cantillated Megilat Antiokhos found in the British Library manuscript <a href="http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Or_5866">Or 5866</a>, folios 105v-110r. This manuscript consistently uses both dagesh and raphe, while also using raphe to mark the letters ה and א when silent. --Isaac Gantwerk Mayer
+
+The English translation presented opposite the cantillated text is adapted from the one made by Tsvi Hirsch Filipowski of another Aramaic Megillat Antiokhus in <em>Sefer Mivḥar ha-peninim</em> (London: [n.s.], 1851), pp. 73-99. As no section breaks appear in BL Or 5866, I have added breaks according to the cantillation of the <a href="https://opensiddur.org/?p=20767">Hebrew translation of Megillat Antiokhus</a> made by Isaac Gantwerk Mayer. --Aharon Varady
+
+<h3>Recordings</h3>
+
+https://www.youtube.com/watch?v=jdhoRhn8iYo
 
 &nbsp;
 </body>

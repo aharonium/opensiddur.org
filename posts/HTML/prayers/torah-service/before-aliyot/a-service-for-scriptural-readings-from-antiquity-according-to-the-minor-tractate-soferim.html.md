@@ -796,7 +796,7 @@ Psalms for Special Days
  
 <td style="vertical-align:top;">
 <div class="english" lang="en">
-<span class="instruction">On Ḥanukah read Psalms 30.[foot]Tractate Soferim 18:2.[/foot]</span>
+<span class="instruction">On Ḥanukkah read Psalms 30.[foot]Tractate Soferim 18:2.[/foot]</span>
 </div></td></tr>
 
 

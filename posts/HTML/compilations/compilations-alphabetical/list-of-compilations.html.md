@@ -7,6 +7,6 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-[catlist name=Compilations orderby=title order=asc]
+[catlist name=Compilations orderby=name order=asc]
 </body>
 </html>

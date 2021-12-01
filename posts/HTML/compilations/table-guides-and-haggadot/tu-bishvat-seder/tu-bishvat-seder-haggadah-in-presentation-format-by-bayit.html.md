@@ -7,12 +7,16 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<strong>DOWNLOAD:</strong> <a href="https://opensiddur.org/wp-content/uploads/2018/01/Tu-BiShvat-PowerPoint-Haggadah-Bayit-5778.pdf">PDF</a> | <a href="https://opensiddur.org/wp-content/uploads/2018/01/Tu-BiShvat-PowerPoint-Haggadah-Bayit-5778.odp">ODP</a> | <a href="https://opensiddur.org/wp-content/uploads/2018/01/Tu-BiShvat-PowerPoint-Haggadah-Bayit-5778.pptx">PPTX</a> | <a href="https://opensiddur.org/wp-content/uploads/2018/01/Tu-BiShvat-PowerPoint-Haggadah-Bayit-5778.txt">TXT</a>
+<strong>DOWNLOAD:</strong> 
+
+<a href="https://opensiddur.org/wp-content/uploads/2018/01/Tu-BiShvat-PowerPoint-Haggadah-Bayit-5778.pdf">PDF</a> | <a href="https://opensiddur.org/wp-content/uploads/2018/01/Tu-BiShvat-PowerPoint-Haggadah-Bayit-5778.odp">ODP</a> | <a href="https://opensiddur.org/wp-content/uploads/2018/01/Tu-BiShvat-PowerPoint-Haggadah-Bayit-5778.pptx">PPTX</a> | <a href="https://opensiddur.org/wp-content/uploads/2018/01/Tu-BiShvat-PowerPoint-Haggadah-Bayit-5778.txt">TXT</a>
+
+<hr />
 
 [xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;">Contribute a Translation</th><th style="text-align: left;">Source (English)</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;"><a href="/contribute/upload/">Contribute a Translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;">
+<tr><td style="vertical-align:top;" width="33%">
 <div class="liturgy" lang="he" style="text-align: right;">
 הגדה של ט׳׳ו בשבט
 </span></div></td>

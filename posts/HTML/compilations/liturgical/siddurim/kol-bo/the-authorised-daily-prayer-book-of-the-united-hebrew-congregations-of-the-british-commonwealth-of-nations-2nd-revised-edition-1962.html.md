@@ -73,7 +73,7 @@ It is my fervent hope that this revised edition will prove as popular and indisp
 ISRAEL BRODIE, 
 Chief Rabbi. 
 
-Chanukah 5722 </blockquote>
+Ḥanukkah 5722 </blockquote>
 
 
 

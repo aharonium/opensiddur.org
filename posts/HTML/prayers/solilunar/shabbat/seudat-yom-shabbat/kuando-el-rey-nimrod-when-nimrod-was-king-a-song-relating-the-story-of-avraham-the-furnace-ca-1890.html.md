@@ -8,7 +8,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <hr />
 
 [xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: left;">Source (Ladino)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
+<thead><tr><th id="x" style="text-align: left;">Source (Ladino, romanized)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
 <div class="spanish" lang="es">
@@ -296,7 +296,7 @@ The earliest recorded version of the story of Avraham's survival from a fire res
 
 We are looking for other variations of <em>Kuando el rey Nimrod</em> and "La vocación de Abraham." If you can provide a reference to one or more, <a href="/contact/">please do</a> -- and thank you.
 
-The English translation here follows the translation Honi Sanders and I published in the birkon for his wedding, <em><a href="http://opensiddur.org/?p=25938">Siman l'Vanim</a></em> (Dimus Parrhesia Press 2019). --Aharon Varady
+The English translation here follows the translation provided in the article "<a href="https://en.wikipedia.org/wiki/Kuando_el_rey_Nimrod">Kuando el rey Nimrod</a>" on Wikipedia. (There, the translation was initially offered in 2009 by the user 'Gorgongnu' and improved by subsequent editors such as <a href="https://en.wikipedia.org/wiki/User:Tkandell">Archaeogenetics</a> ([kandell].) Honi Sanders and I published this translation along with the romanized Ladino in the birkon for his wedding, <em><a href="http://opensiddur.org/?p=25938">Siman l'Vanim</a></em> (Dimus Parrhesia Press 2019). --Aharon Varady
 
 <h3>Source(s)</h3>
 

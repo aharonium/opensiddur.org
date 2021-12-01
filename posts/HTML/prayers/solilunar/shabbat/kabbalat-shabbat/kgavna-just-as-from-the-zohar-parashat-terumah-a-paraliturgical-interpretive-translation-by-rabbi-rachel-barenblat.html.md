@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: כְּגַוְנָא | A paraliturgical interpretive translation of k'Gavna (Just As) from the Zohar parashat Terumah §163-166, by Rabbi Rachel Barenblat<br />
+Title: כְּגַוְנָא | k'Gavna (Just As) from the Zohar parashat Terumah §163-166, a paraliturgical interpretive translation by Rabbi Rachel Barenblat<br />
 Primary contributor: rbarenblat<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=32227">http://opensiddur.org/?p=32227</a>
 <p />

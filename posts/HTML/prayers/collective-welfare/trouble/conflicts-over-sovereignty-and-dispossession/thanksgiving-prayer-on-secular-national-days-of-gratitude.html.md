@@ -29,8 +29,8 @@ This <em>al hanissim</em> prayer was written for insertion into the <em>Modim</e
 ושמחתי ביחד ושמחתי בהם׃ <span class="citation">(ספר הבהיר כב)</span>
 </span></div></td>
  
-<td style="vertical-align:top;"><div class="english" lang="en" style="font-size: 1em;>
-"I am YHVH, I make all, I stretch out the heavens alone, the Earth is spread out before me."[foot]Isaiah 44:24, pronounced, <em>roka ha'arets may-iti</em> (the earth is spread out before me), but written <em>roka ha'arets mi-iti</em> <span class="scribe" lang="he">מי אתי</span>? (the earth is spread out. Who was with me?)[/foot]&nbsp;
+<td style="vertical-align:top;"><div class="english" lang="en" style="font-size: 1em;">
+"I am YHVH, I make all, I stretch out the heavens alone, the Earth is spread out before me with none beside me!"[foot]Isaiah 44:24, pronounced, <em>roka ha'arets may-iti</em> (the earth is spread out before me), but written <em>roka ha'arets mi-iti</em> <span class="scribe" lang="he">מי אתי</span>? (the earth is spread out. Who was with me?)[/foot]&nbsp;
 I am the one who planted this Tree [of Life] in order that all the world should delight in it. 
 And in it, I spread all (<em>kōl</em>). I called it "all" because all depend on it, all emanate from it, and all need it. 
 To it they look, for it they wait, and from it, souls fly in joy.

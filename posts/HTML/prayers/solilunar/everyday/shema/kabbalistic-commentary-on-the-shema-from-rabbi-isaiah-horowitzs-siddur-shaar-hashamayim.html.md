@@ -7,8 +7,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-[caption id="attachment_10582" align="aligncenter" width="630"]<a href="https://opensiddur.org/wp-content/uploads/2015/03/Pages-from-שער_השמים.png"><img src="https://opensiddur.org/wp-content/uploads/2015/03/Pages-from-שער_השמים-630x1024.png" alt="Image of a Google Books imaging technician inadvertently scanning their hand obscuring the commentary of Rabbi Isaiah Horowitz on the Shema." width="630" height="1024" class="size-large wp-image-10582" /></a> <a href="https://books.google.com/books?id=AhQwAAAAYAAJ&pg=PP5&dq=%D7%A1%D7%99%D7%93%D7%95%D7%A8+%D7%A9%D7%A2%D7%A8+%D7%94%D7%A9%D7%9E%D7%99%D7%9D&hl=en&sa=X&ei=L1z_VO_iAYH2yQS2uoL4AQ&ved=0CB0Q6AEwAA">Image of a Google Books imaging technician inadvertently scanning their hand obscuring the commentary of Rabbi Isaiah Horowitz on the Shema.</a>[/caption]
+<strong>DOWNLOAD:</strong>
 
+<a href="https://opensiddur.org/wp-content/uploads/2015/03/Avrum-Goodblatt-Understanding-Kabbalistic-Texts-Shla-on-the-Shema-introduction.odt">ODT</a> | <a href="https://opensiddur.org/wp-content/uploads/2015/03/Avrum-Goodblatt-Understanding-Kabbalistic-Texts-Shla-on-the-Shema-introduction.pdf">PDF</a> (Introductory notes)
+<a href="https://opensiddur.org/wp-content/uploads/2015/03/Avrum-Goodblatt-Understanding-Kabbalistic-Texts-Shla-on-the-Shema-annotated-translation.odt">ODT</a> | <a href="https://opensiddur.org/wp-content/uploads/2015/03/Avrum-Goodblatt-Understanding-Kabbalistic-Texts-Shla-on-the-Shema-annotated-translation.pdf">PDF</a> (Transcription with Annotated Translation)
+
+<div class="english" lang="en" style="font-size: 1.2em;">
 Rabbi <a href="https://en.wikipedia.org/wiki/Isaiah_Horowitz">Isaiah Horowitz</a> (1565-1630), known as the Shlah from the name of his chief work (<em>Shnei Luḥot HaBrit</em> - The Two Tablets of the Covenant), was a rabbi in Central and Eastern Europe and later Chief Ashkenazi Rabbi of Jerusalem. This text is an excerpt from his kabbalistic prayer book, <em>Siddur Shaar haShamayim</em> (Gate of Heaven), which deals with the Shema prayer.
 
 According to Eliot Wolfson, the Shla went to Israel to study the work of the chariot, which was not pursued as strongly in Eastern and Central Europe. That he was very much influenced by Yitzḥak Luria is shown not only by his writings, but by his specific visit to Ḥayyim Vital's son in Damascus where he was shown some uncirculated manuscripts.
@@ -35,16 +39,12 @@ b. 	depth psychology/comparative mysticism- the kavvanot's dynamics can be illum
 c. 	visual thinking and creativity - The facility to think visually is necessary to appreciate much of the Kabbalah, and is significant in relating to kavvanot as a creative process.
 
 By addressing the first three challenges, it is possible to attempt the fourth, by making it possible for experts in those fields to approach the original texts, rather than only through interpretations and translations. [It is recommended to supplement this with access to one of a number of glossaries and the <em>Encyclopedia Judaica</em>.] One example of following these other approaches is to correlate kavvanot with processes of scientific creativity and inspiration.
+</div>
 
-<strong>DOWNLOAD:</strong> <a href="https://opensiddur.org/wp-content/uploads/2015/03/Avrum-Goodblatt-Understanding-Kabbalistic-Texts-Shla-on-the-Shema-introduction.odt">ODT</a> | <a href="https://opensiddur.org/wp-content/uploads/2015/03/Avrum-Goodblatt-Understanding-Kabbalistic-Texts-Shla-on-the-Shema-introduction.pdf">PDF</a> (Introductory notes)
-
-<strong>DOWNLOAD:</strong> <a href="https://opensiddur.org/wp-content/uploads/2015/03/Avrum-Goodblatt-Understanding-Kabbalistic-Texts-Shla-on-the-Shema-annotated-translation.odt">ODT</a> | <a href="https://opensiddur.org/wp-content/uploads/2015/03/Avrum-Goodblatt-Understanding-Kabbalistic-Texts-Shla-on-the-Shema-annotated-translation.pdf">PDF</a> (Transcription with Annotated Translation)
-
-[gview file="https://opensiddur.org/wp-content/uploads/2015/03/Avrum-Goodblatt-Understanding-Kabbalistic-Texts-Shla-on-the-Shema-annotated-translation.pdf"]
-
-
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/understanding-kabbalistic-texts-shla-on-the-shema-annotated-translation-avrum-goodblatt/Avrum%20Goodblatt%20-%20Understanding%20Kabbalistic%20Texts%2C%20Shla%20on%20the%20Shema%20%28annotated%20translation%29#page/n0/mode/2up"]
 
 <hr />
+
 <em>We are grateful to Avrum Goodblatt for sharing this transcription accompanied by his notes, originally prepared in 2001 for an undergraduate degree in Religious Studies (minor in Jewish Studies) from the University of California at Santa Cruz. Some of this work was previously published at the <a href="http://home.sprynet.com/~goodblat/shla.html">Avrum's homepage</a>. I have re-organized this material into two files: one containing the introductory notes, the second containing the transcription and notes with their associated translation. The latter is nearly, but not perfectly complete. There are several notes and one paragraph that are missing from Goodblatt's work. These have been highlighted in yellow. There are also several lines of text beginning with asterisks or lower-case letters that are unexplained. These have been kept pending further elucidation. This work contains material in the Public Domain as well as translations that remain under copyright to other translators, and which have not yet been shared under Open Content licenses. These are provided here under Avrum Goodblatt's <a href="https://www.law.cornell.edu/uscode/text/17/107">Fair Use Right</a> due to their transformative, scholarly use.</em> -- Aharon Varady]
 </body>
 </html>

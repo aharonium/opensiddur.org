@@ -16,7 +16,8 @@ For attribution and license, please consult the following URL: <a href="http://o
 וּמֶמְשָׁלָה לַנְּסִיכִים. 
 וּמַלְכוּתוֹ מַלְכוּת כׇּל־עֽוֹלָמִים. 
 הַפּוֹצֶה אֶת־דָּוִד עַדְדּוֹ מֵחֶֽרֶב רָעָה. 
-הַנּוֹתֵן בַּיָּם דָּרֶךְ. וּבְמַֽיִם עַזִּים נְתִיבָה. 
+הַנּוֹתֵן בַּיָּם דָּרֶךְ. 
+וּבְמַֽיִם עַזִּים נְתִיבָה. 
 </span></div></td>
  
 <td style="vertical-align:top;">
@@ -25,7 +26,8 @@ He who dispenses deliverance unto kings
 and dominion unto princes, 
 whose kingdom is an everlasting kingdom, 
 who delivered His servant David from the destructive sword, 
-who makes a way in the sea and a path in the mighty waters, 
+who makes a way in the sea 
+and a path in the mighty waters, 
 </div></td></tr>
 
 

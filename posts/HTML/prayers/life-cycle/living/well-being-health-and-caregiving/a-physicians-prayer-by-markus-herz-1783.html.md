@@ -323,9 +323,5 @@ After this publication at the Open Siddur Project, Chana Deutsch translated the 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/taglichesgeheteinesarztesbevorerfeinekrankebesuchtmarkusherz1783#page/n0/mode/2up"]
 
 &nbsp;
-
-<hr />
-
-&nbsp;
 </body>
 </html>

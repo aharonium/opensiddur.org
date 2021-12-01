@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: תפילה למען תושבי/ות אל-עראקיב | A Thanksgiving Day Prayer for the Residents of Al-Araqeeb (قرية العراقيب), by Rabbi Arik Ascherman<br />
+Title: תפילה למען תושבי/ות אל־עראקיב | A Thanksgiving Day Prayer for the Residents of Al-Araqeeb (قرية العراقيب), by Rabbi Arik Ascherman (2010)<br />
 Primary contributor: arik.ascherman<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=1939">http://opensiddur.org/?p=1939</a>
 <p />
@@ -12,11 +12,11 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
-איכה ישבה בדד אל-עראקיב היתה כאלמנה זו הפעם השביעית? ויצא מבת ציון כל הדרה. ייחלנו שמדינתנו "תקיים שויון זכויות חברתי ומדיני גמור לכל אזרחיה, בלי הבדל דת ומין", והנה נכזבה תוחלתנו.‏
+איכה ישבה בדד אל־עראקיב היתה כאלמנה זו הפעם השביעית? ויצא מבת ציון כל הדרה. ייחלנו שמדינתנו "תקיים שויון זכויות חברתי ומדיני גמור לכל אזרחיה, בלי הבדל דת ומין", והנה נכזבה תוחלתנו.‏
 </span></div></td>
 
 <td style="vertical-align:top;"><div class="english" lang="en">
-How is it that El-Arakib sits alone and desolate, like a widow a seventh time?[foot]Based on Lamentations 1:1, ‘How is it that the city sits alone and desolate’[/foot] "The Daughter of Zion has lost her glory."[foot]Lamentations 1:6[/foot] For, while we had dreamed that our state would "Ensure complete equality of social and political rights to all its inhabitants irrespective of religion, race or gender,"[foot]Israeli Declaration of Independence[/foot] our prayers have not yet been fulfilled.
+How is it that Al-Araqeeb sits alone and desolate, like a widow a seventh time?[foot]Based on Lamentations 1:1, ‘How is it that the city sits alone and desolate’[/foot] "The Daughter of Zion has lost her glory."[foot]Lamentations 1:6[/foot] For, while we had dreamed that our state would "Ensure complete equality of social and political rights to all its inhabitants irrespective of religion, race or gender,"[foot]Israeli Declaration of Independence[/foot] our prayers have not yet been fulfilled.
 </div></td></tr>
 
 
@@ -44,21 +44,19 @@ Our God and God of our ancestors (God of our fathers; God of our fathers and mot
 <div class="liturgy" lang="he">
 וִיהִ֤י׀ נֹ֤עַם אֲדֹנָ֥י אֱלֹהֵ֗ינוּ עָ֫לֵ֥ינוּ
  וּמַעֲשֵׂ֣ה יָ֭דֵינוּ כּוֹנְנָ֥ה עָלֵ֑ינוּ
- וּֽמַעֲשֵׂ֥ה יָ֝דֵ֗ינוּ כּוֹנְנֵֽהוּ׃
- (תהלים צ׃יז)‏
+ וּֽמַעֲשֵׂ֥ה יָ֝דֵ֗ינוּ כּוֹנְנֵֽהוּ׃ <span class="citation">(תהלים צ:יז)</span>‏
 </span></div></td>
 
 <td style="vertical-align:top;"><div class="english" lang="en">
 May the favor of Adonai, our God, be upon us;
 Let the work of our hands prosper
-O prosper the work of our hands. 
-(Psalms 90:17)
+O prosper the work of our hands. <span class="citation">(Psalms 90:17)</span>
 </div></td></tr>
 </tbody></table>
 
 <hr />
 
-Rabbi Arik Ascherman of <a href="http://www.rhr-na.org/">Rabbis for Human Rights</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/">shares</a> a prayer he wrote following the Israel Land Administration's most recent eviction and demolition of <a href="http://en.wikipedia.org/wiki/Al-Araqeeb">El-Arakib</a>, a Bedouin village in the Negev. The prayer was written with the intention that its recitation is made "on behalf of justice and the rededication of Israel to the ideals of her <a href="http://en.wikisource.org/wiki/Declaration_of_Independence_%28Israel%29">Declaration of Independence</a>." Rabbi Ashcerman writes:
+Rabbi Arik Ascherman of Rabbis for Human Rights, shares a prayer he wrote following the Israel Land Administration's most recent eviction and demolition of <a href="http://en.wikipedia.org/wiki/Al-Araqeeb">El-Arakib</a>, a Bedouin village in the Negev. The prayer was written with the intention that its recitation is made "on behalf of justice and the rededication of Israel to the ideals of her <a href="http://en.wikisource.org/wiki/Declaration_of_Independence_%28Israel%29">Declaration of Independence</a>." Rabbi Ashcerman writes:
 
 <blockquote>Please take two small steps this weekend (and in the coming weeks) on behalf of justice and the rededication of Israel to the ideals of her <a href="http://en.wikisource.org/wiki/Declaration_of_Independence_%28Israel%29">Declaration of Independence</a>. See [above] the prayer that we are asking you to read in your congregation/place of worship.
 

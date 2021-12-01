@@ -17,7 +17,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <td style="vertical-align:top;">
 <div class="english" lang="en" style="text-align: left;">
-Eternal love is Thine, God! 
+Eternal love is thine, God! 
 Oh! let me not in error stray. 
 But chasten with a gentle rod, 
 And lead me back to virtue's way. 
@@ -32,9 +32,9 @@ And lead me back to virtue's way.
 <td style="vertical-align:top;">
 <div class="english" lang="en" style="text-align: left;">
 With penitential tears I weep, 
-Turn not away, in wrath, Thy face; 
+Turn not away, in wrath, thy face; 
 Awake my soul from sinful sleep, 
-And purify it by Thy grace. 
+And purify it by thy grace. 
 </div></td></tr>
 
 
@@ -48,7 +48,7 @@ And purify it by Thy grace.
 Thou, who canst heal the broken heart, 
 Will hear the suppliant's prayer; 
 Thy truth, Thy goodness, oh! impart: 
-Almighty, take me to Thy care! 
+Almighty, take me to thy care! 
 </div></td></tr>
 </tbody></table>
 

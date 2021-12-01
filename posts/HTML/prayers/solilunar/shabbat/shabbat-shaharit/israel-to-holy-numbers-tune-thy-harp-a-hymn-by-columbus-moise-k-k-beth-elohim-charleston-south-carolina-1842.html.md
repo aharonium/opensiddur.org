@@ -96,11 +96,11 @@ Linking immortality.
 
 <hr />
 
-"Israel! to holy numbers tune thy harp's exalting strain," by Columbus Moïse (1809-1871), was first delivered in 1842 as part of the consecration of the new synagogue building for Ḳ.Ḳ. Beth Elohim and published that year in the congregation's hymnal. It appears as Hymn 3 in <em><a href="/?p=39305">Hymns Written for the Use of Hebrew Congregations</a></em> (Penina Moïse et al., Ḳ.Ḳ. Beth Elohim, 1856), p. 6. Columbus Moïse was said to have composed a poem for the inauguration of the "Portuguese synagogue in Charleston" according to the <a href="https://www.jewishencyclopedia.com/articles/10923-moise">Jewish Encyclopedia</a> (1906) and this appears to be that poem. --Aharon Varady
+"Israel! to holy numbers tune thy harp's exalting strain," by Columbus Moïse (1809-1871), was first delivered in 1842 as part of the consecration of the new synagogue building for Ḳ.Ḳ. Beth Elohim and published that year in the congregation's hymnal. It appears as Hymn 3 in <em><a href="/?p=39305">Hymns Written for the Service of the Hebrew Congregation Beth Elohim, South Carolina</a></em> (Penina Moïse et al., Ḳ.Ḳ. Beth Elohim, 1842), p. 8. Columbus Moïse was said to have composed a poem for the inauguration of the "Portuguese synagogue in Charleston" according to the <a href="https://www.jewishencyclopedia.com/articles/10923-moise">Jewish Encyclopedia</a> (1906) and this appears to be that poem. --Aharon Varady
 
 <h3>Source(s)</h3>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/hymnswrittenforu00kaharich#page/6/mode/2up"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/hymns-written-for-the-service-of-the-hebrew-congregation-beth-elohim-south-carolina-1842/Hymns%20written%20for%20the%20Service%20of%20the%20Hebrew%20Congregation%20Beth%20Elohim%2C%20South%20Carolina%20%281842%29#page/8/mode/2up"]
 
 &nbsp;
 </body>

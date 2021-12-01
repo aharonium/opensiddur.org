@@ -159,7 +159,7 @@ Amen.
 
 <hr />
 
-This is an original translation of the prayer for the government offered by Avraham Hyman Charlap (1862-1916).
+This is an original translation of an abridged form of the prayer for the government offered by Avraham Hyman Charlap (1862-1916) as found in his Siddur Tifereth Jehudah (Hebrew Publishing Company 1912/1916). For the unabridged version, <a href="/?p=40747">find it here</a>. --Aharon Varady
 
 <h3>Source</h3>
 

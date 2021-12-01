@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: אֵל מָלֵא רַחֲמִים | A poetic El Malei Raḥamim for 20 Sivan, composed in memory of Yəḥiel Mikhel ben Eliezer, the Martyr of Nemirov (ca. late 17th c.)<br />
+Title: אֵל מָלֵא רַחֲמִים | A poetic El Malé Raḥamim for 20 Sivan, composed in memory of Yəḥiel Mikhel ben Eliezer, the Martyr of Nemirov (ca. late 17th c.)<br />
 Primary contributor: isaac.gantwerk-mayer<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=37300">http://opensiddur.org/?p=37300</a>
 <p />

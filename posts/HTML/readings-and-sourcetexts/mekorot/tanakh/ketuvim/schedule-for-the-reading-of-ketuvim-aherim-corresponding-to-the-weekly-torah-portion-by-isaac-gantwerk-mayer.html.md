@@ -127,7 +127,7 @@ Ha’azinu: Proverbs 30:1-31:9
  
 <td style="vertical-align:top;">
 <div class="english" lang="en">
-Shabbat Ḥanukah: Ezra 5:1-13
+Shabbat Ḥanukkah: Ezra 5:1-13
 Shabbat Sh’kalim: Ezra 1:1-11
 Shabbat Zakhor: I Chronicles 4:24-43
 Shabbat Parah: Daniel 1:1-17

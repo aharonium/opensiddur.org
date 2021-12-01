@@ -1,14 +1,14 @@
 <html>
 <head></head>
 <body>
-Title: A Prayer for Compassion During Violent Conflict, by Trisha Arlin<br />
+Title: A Prayer for Compassion During Violent Conflict, by Trisha Arlin (2014)<br />
 Primary contributor: trishaarlin<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=11412">http://opensiddur.org/?p=11412</a>
 <p />
 <hr />
 
 [xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;">Contribute a Translation</th><th style="text-align: left;">Source (English)</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;"><a href="/contribute/upload/">Contribute a Translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">

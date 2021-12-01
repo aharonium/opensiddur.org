@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: "Prayer Song," by Stephen Hanan Kaplan from David Dances, a play (1975)<br />
+Title: "Prayer Song," a hymn by Stephen Hanan Kaplan from the play, David Dances (1975)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=29349">http://opensiddur.org/?p=29349</a>
 <p />

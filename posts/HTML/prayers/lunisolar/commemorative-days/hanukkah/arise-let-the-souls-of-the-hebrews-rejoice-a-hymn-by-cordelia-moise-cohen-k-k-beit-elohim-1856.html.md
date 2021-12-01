@@ -82,7 +82,7 @@ And redeem ev'ry soul from the gloom of the grave.
 
 <hr />
 
-"Arise! let the souls of the Hebrews rejoice," by Cordelia Moïse Cohen (1809-1869), appears under the subject "Feast of Dedication" as Hymn 194 in <em><a href="/?p=39305">Hymns Written for the Use of Hebrew Congregations</a></em> (Penina Moïse et al., Ḳ.Ḳ. Beth Elohim, 1856), p. 189. It does not appear in the previous 1842 edition of the hymnal. --Aharon Varady
+"Arise! let the souls of the Hebrews rejoice," by Cordelia Moïse Cohen (1809-1869), appears under the subject "Feast of Dedication" as Hymn 194 in <em><a href="/?p=40488">Hymns Written for the Use of Hebrew Congregations</a></em> (Penina Moïse et al., Ḳ.Ḳ. Beth Elohim, 1856), p. 189. It does not appear in the previous 1842 edition of the hymnal. --Aharon Varady
 
 <h3>Source(s)</h3>
 

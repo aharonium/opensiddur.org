@@ -282,8 +282,10 @@ Prayers recited on special occasions and thus not part of the fixed liturgy offe
 
 <h3>Source</h3>
 
-[gallery type="columns" link="file" columns="2" size="medium" ids="12661,12662"]
+<span style="float: right;">[caption id="attachment_12661" align="alignleft" width="245"]<a href="https://opensiddur.org/wp-content/uploads/2016/02/George-Washington-tefilla-Shamshon-1784-1_jjlc_box_1-box_3_folder_167_000373-b.jpg"><img src="https://opensiddur.org/wp-content/uploads/2016/02/George-Washington-tefilla-Shamshon-1784-1_jjlc_box_1-box_3_folder_167_000373-b-245x300.jpg" alt="" width="245" height="300" class="size-medium wp-image-12661" /></a> George Washington tefilla Shamshon 1784 1_jjlc_box_1-box_3_folder_167_000373 b[/caption]</span> <span style="float: left;">[caption id="attachment_12662" align="alignnone" width="186"]<a href="https://opensiddur.org/wp-content/uploads/2016/02/George-Washington-tefilla-Shamshon-1784-1_jjlc_box_1-box_3_folder_167_000373.jpg"><img src="https://opensiddur.org/wp-content/uploads/2016/02/George-Washington-tefilla-Shamshon-1784-1_jjlc_box_1-box_3_folder_167_000373-186x300.jpg" alt="" width="186" height="300" class="size-medium wp-image-12662" /></a> George Washington tefilla Shamshon 1784 1_jjlc_box_1-box_3_folder_167_000373[/caption]</span>[su_spacer]
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.archive.org/stream/lyonscollection27conguoft#page/34/mode/2up"]
+
+&nbsp;
 </body>
 </html>

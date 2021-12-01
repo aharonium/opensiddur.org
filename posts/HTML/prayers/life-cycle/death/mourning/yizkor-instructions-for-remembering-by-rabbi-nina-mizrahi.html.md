@@ -1,14 +1,14 @@
 <html>
 <head></head>
 <body>
-Title: יזכור | Yizkor: Instructions for Remembering, by Rabbi Nina Mizrahi<br />
+Title: Yizkor: Instructions for Remembering, by Rabbi Nina Mizrahi<br />
 Primary contributor: nina-jane.mizrahi<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=12004">http://opensiddur.org/?p=12004</a>
 <p />
 <hr />
 
 [xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;"><a href="/contribute/upload">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">

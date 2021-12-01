@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: From Darkness to Light: Purim 2021, by Rabbi Rachel Barenblat & Rabbi David Evan Markus (Bayit: Building Jewish, 2021)<br />
+Title: Purim 2021: From Darkness to Light, by Rabbi Rachel Barenblat & Rabbi David Evan Markus (Bayit: Building Jewish, 2021)<br />
 Primary contributor: rbarenblat<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=35786">http://opensiddur.org/?p=35786</a>
 <p />

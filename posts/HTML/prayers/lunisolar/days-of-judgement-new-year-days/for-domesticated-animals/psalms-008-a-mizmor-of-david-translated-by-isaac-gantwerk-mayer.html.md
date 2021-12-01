@@ -2,7 +2,7 @@
 <head></head>
 <body>
 Title: תהלים ח׳ | Psalms 8, a mizmor of David (translated by Isaac Gantwerk Mayer)<br />
-Primary contributor: isaac-gantwerk.mayer<br />
+Primary contributor: isaac.gantwerk-mayer<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=38328">http://opensiddur.org/?p=38328</a>
 <p />
 <hr />

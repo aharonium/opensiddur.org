@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: Prayer for the Feast of Dedication: חנוכה, by Marcus Heinrich Bresslau (1852)<br />
+Title: Prayer for the Feast of Dedication (חנוכה), by Marcus Heinrich Bresslau (1852)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=32141">http://opensiddur.org/?p=32141</a>
 <p />

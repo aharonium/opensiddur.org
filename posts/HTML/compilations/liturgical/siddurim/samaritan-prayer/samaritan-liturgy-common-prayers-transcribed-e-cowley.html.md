@@ -15,7 +15,11 @@ Making digital images of these works available is the first step in our process 
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/TheSamaritanLiturgyVol.1A.E.CowleyEd.1909#page/n0/mode/2up"]
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/samaritanliturgy02cowluoft#page/n0/mode/2up"]
+&nbsp;
+
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/samaritanliturgy02cowluoft#page/n3/mode/2up"]
+
+&nbsp;
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/ACriticalEditionAndTranslationOfTheAncientSamaritanDefterSolomonBrown1955#page/n0/mode/2up"]
 

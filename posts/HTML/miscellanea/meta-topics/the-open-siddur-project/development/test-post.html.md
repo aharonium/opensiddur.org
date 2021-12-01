@@ -7,6 +7,11 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
+&nbsp;
+[contact-form-7 id="3883" title="Upload form"]
+
+<hr />
+
 <table><tr>
 <td style="font-size: xx-large;">↵<div>
 <u>testing 1</u>
@@ -22,7 +27,6 @@ For attribution and license, please consult the following URL: <a href="http://o
 </tr></table>
 
 
-[pci-cat-slider term_id="1075,2558,2638,384,1127,1061,393,401,1414,3760,420,309,577" slidestoshow="6" size="thumbnail" show_desc="false" autoplay="true" show_count=”false”]
 
 
 

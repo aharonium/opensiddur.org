@@ -1,14 +1,14 @@
 <html>
 <head></head>
 <body>
-Title: "That America’s Heroes Shall Not Have Died in Vain" and a special El Malé Raḥamim prayer for Memorial Day, by Rabbi Mordecai Kaplan (1945)<br />
+Title: "That America’s Heroes Shall Not Have Died in Vain" with a special El Malé Raḥamim prayer for Memorial Day, by Rabbi Mordecai Kaplan (1945)<br />
 Primary contributor: mordecai.kaplan<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=25329">http://opensiddur.org/?p=25329</a>
 <p />
 <hr />
 
 [xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">Source (English)</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;"><a href="/contribute/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">

@@ -2,7 +2,7 @@
 <head></head>
 <body>
 Title: A Scholar's Prayer for Intellectual Honesty, adapted from a prayer quoted by Dr. Leslie Weatherhead (1951)<br />
-Primary contributor: aharon.n.varady<br />
+Primary contributor: aharon.varady-bivrit<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=34306">http://opensiddur.org/?p=34306</a>
 <p />
 <hr />

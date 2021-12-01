@@ -1086,7 +1086,7 @@ Behold a bull came forth from the earth, and that bull was white; and after it c
  
 <td style="vertical-align:top;">
 <div class="english" lang="en">
-<sup>28</sup>&nbsp;I stood up to see till they folded up that eldritch house; and carried off all the pillars, and all the beams and ornaments of the house were at the same time folded up with it, and they carried it off and laid it in a place in the south of the land. <sup>29</sup>&nbsp;I saw till the Lord of the sheep brought a new house greater and loftier than that first, and set it up in the place of the first which had beer folded up: all its pillars were new, and its ornaments were new and larger than those of the first, the old one which He had taken away, and all the sheep were within it. 
+<sup>28</sup>&nbsp;I stood up to see till they folded up that eldritch house; and carried off all the pillars, and all the beams and ornaments of the house were at the same time folded up with it, and they carried it off and laid it in a place in the south of the land. <sup>29</sup>&nbsp;I saw till the Lord of the sheep brought a new house greater and loftier than that first, and set it up in the place of the first which had been folded up: all its pillars were new, and its ornaments were new and larger than those of the first, the old one which He had taken away, and all the sheep were within it. 
 </div></td></tr>
 
 

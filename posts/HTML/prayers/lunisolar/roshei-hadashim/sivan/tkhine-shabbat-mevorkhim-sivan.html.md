@@ -41,6 +41,10 @@ To the best of my ability, this is a faithful transcription of the תְּחִנ�
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.archive.org/stream/ShasTkhineChadashah1910#page/n134/mode/2up"]
 
+&nbsp;
+
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.archive.org/stream/teinotmiraodesht00tehi#page/25/mode/2up"]
+
+&nbsp;
 </body>
 </html>

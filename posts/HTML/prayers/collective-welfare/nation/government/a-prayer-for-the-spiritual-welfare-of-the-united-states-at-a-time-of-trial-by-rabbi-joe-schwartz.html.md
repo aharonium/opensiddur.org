@@ -8,7 +8,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <hr />
 
 [xyz-ihs snippet="Table-Options"]<table style="width: 100%; margin-left: auto; margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Transliteration (Romanization)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Transliteration (Romanized Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
@@ -25,7 +25,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english" lang="en">
+<div class="romanized-transliteration" lang="he">
 El Elyon, 
 ram ’al kol goyim, 
 ohev tsedakah umishpat, 
@@ -48,7 +48,7 @@ its people, its ministers and its advisers —
 and safeguard the ideals and free institutions 
 that are its pride and its glory. 
 May it be a beacon of hope for the oppressed and the enslaved 
-and a refuge for the homeless and tempest-tost,[foot]Cf. Emma Lazarus’s <a href="https://opensiddur.org/prayers/secular-calendar/united-states/thanksgiving-day/the-new-collosus-by-emma-lazarus-1883-yiddish-translation-by-rachel-kirsch-holtman-1938/">New Collossus</a> (1883).[/foot] 
+and a refuge for the homeless and tempest-tost,[foot]Cf. Emma Lazarus’s <a href="/?p=20604">New Collosus</a> (1883).[/foot] 
 giving "to bigotry no sanction, and to persecution no assistance."[foot]George Washington’s <a href="https://founders.archives.gov/documents/Washington/05-06-02-0135">Letter to the Jews of Newport, Rhode Island</a> (1790).[/foot] 
 </div></td></tr>
 
@@ -70,7 +70,7 @@ giving "to bigotry no sanction, and to persecution no assistance."[foot]George W
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english" lang="en">
+<div class="romanized-transliteration" lang="he">
 Ruaḥ ḥadasha b’ra bah, 
 lehaskil ’al kol rash vadal bekirbah, 
 haketanim ’im hagedolim, 
@@ -117,7 +117,7 @@ and take up their cause.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english" lang="en">
+<div class="romanized-transliteration" lang="he">
 El raḥum v’ḥanun, 
 lamdenu orḥot raḥamim v’darkhei no’am; 
 shfokh et ruḥakha ’al ha’arets, 

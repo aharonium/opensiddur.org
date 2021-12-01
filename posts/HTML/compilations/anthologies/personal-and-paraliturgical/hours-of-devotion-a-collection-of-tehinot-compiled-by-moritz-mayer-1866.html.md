@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: Hours of Devotion: a collection of teḥinot compiled by Rabbi Moritz Mayer  (1866)<br />
+Title: Hours of Devotion: A Book of Prayers & Meditations for the Use of the Daughters of Israel, an anthology of teḥinot compiled by Rabbi Moritz Mayer  (1866)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=3692">http://opensiddur.org/?p=3692</a>
 <p />
@@ -9,111 +9,68 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <strong>DOWNLOAD:</strong> <a href="https://opensiddur.org/wp-content/uploads/2011/08/neuda-mayer1866.txt">TXT</a> (STML)
 
-Rabbi Moritz Mayer, born 1821 in Dürckheim-on-the-Haardt, Germany, fled to the United States and to New York as a political refugee of the <a href="https://secure.wikimedia.org/wikipedia/en/wiki/1848_revolution#German_states">1848 revolution</a>. In 1856, after a five year stint as a rabbi in Charleston, South Carolina, he returned in poor health to New York where he contributed frequently to the Jewish press, and translated various German works into English: Rabbi Samuel Adler's catechism, Abraham Geiger's lectures on Jewish history, and Ludwig Philipson's pamphlet, <em>Haben die Juden Jesum Gekreuzigt?</em> (the Crucifixion from the Jewish Point of View), et al.[foot]Cyrus Adler and Gotthard Deutsch, "Mayer, Moritz" in the Jewish Encyclopedia, 1916, as accessed August 24, 2011[/foot] In 1866, he published this collection of teḥinot containing twenty-four of Fanny Neuda's prayers from her <em><a href="https://opensiddur.org/2013/04/stunden-der-andacht-hours-of-devotion-by-fanny-schmiedl-neuda/">Stunden Der Andacht</a></em> (1855). The following year, in 1867, Moritz Mayer passed away. He was 45 years old.
+This is Rabbi Moritz Mayer's <em>Hours of Devotion: A Book of Prayers & Meditations for the Use of the Daughters of Israel</em> (1866), an anthology of teḥinot, paraliturgical prayers, and translations of prayers made in English for use by Jewish women. 
+
+As the title page declares that this anthology is a direct translation of Fanny Neuda's collection of teḥinot in German, <em><a href="/?p=6753"> Stunden der Andacht</a></em> (1855/1858) and lacks any other given attribution details for the included work, many are led to believe that Mayer's anthology is very simply a translation of <em>Stunden der Andacht</em>, albeit a greatly abridged translation. But a closer look reveals <em>Hours of Devotion</em> to be a collection of teḥinot by multiple authors including Neuda, Marcus Heinrich Bresslau, and quite possibly Mayer's own work.
+
+Of the sixty-four included prayers, twenty-four are translations by Mayer derived from those by Fanny Neuda.[foot]Most of the <em>teḥinot</em> left untranslated by Mayer were later translated for Julia Watts Belser in the 2007 edition edited by Dinah Berland.[/foot] An additional ten prayers are largely reprinted from Marcus Heinrich Bresslau's <em><a href="/?p=32040">Tehinot Banot Yisrael</a></em> (1852). There are thirty more <em>teḥinot</em> which may be of Mayer's own composition but which may be translations from still unknown authors and sources. 
+
+The edition we used for our transcription was the <a href="https://www.archive.org/details/hoursofdevotionb00neudrich">1889 reprint</a> of Mayer's 1866 translation of the 5th edition of <em>Stunden Der Andacht</em> by J. Rosenbaum. A scan of this edition was made from a volume held in the collection of the University of California libraries shared at the <a href="https://www.archive.org/details/hoursofdevotionb00neudrich">Internet Archive</a>.[foot]In preparing this edition, I transcribed the text and <a href="https://github.com/opensiddur/opensiddur/wiki/Open-Siddur-Guidelines-for-Transcription">formatted it in STML</a> (Sacred Text Markup Language), a format developed by <a href="http://sacred-texts.com/jbhobit.htm">J.B. Hare z"l</a>, founder of the <a href="http://sacred-texts.com">Sacred Texts Internet Archive</a>. Hare used STML as an intermediary format for converting transcribed texts to HTML. Efraim Feinstein, lead developer of the Open Siddur Project, further developed STML as an intermediary format for converting transcribed texts to JLPTEI, the XML schema we use to markup Jewish liturgy and liturgy-related work for the Open Siddur's database.[/foot]
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/hoursofdevotionb00neudrich#page/n1/mode/2up"]
 
-Mayer's <em>Hours of Devotion</em> contains twenty-four original translations of Neuda's <em>teḥinot</em>, ten prayers from Marcus Heinrich Bresslau's <em>Tehinot Banot Yisrael</em> (1852), and thirty <em>teḥinot</em> of uncertain provenance some of which may be of Mayer's own composition. Many of the included prayers share the same or similar titles as given by Neuda as found in other collections of <em>teḥinot</em>. Most of the <em>teḥinot</em> left untranslated by Mayer were later translated for Julia Watts Belser in the 2007 edition edited by Dinah Berland.
-
-After comparing <em>Stunden der Andacht</em> with Mayer's <em>Hours of Devotion</em>, the following prayers appearing in the latter were written by Mayer or another hand:
-
-<table border="0" cellspacing="0"><colgroup width="440"></colgroup> <colgroup width="73"></colgroup>
-<tbody>
-<tr><td align="LEFT" height="17"><b>Teḥinot in <em>Hours of Devotion</em> (1866) by Rabbi Moritz Mayer</b></td>
-<td align="CENTER"><b>Page No.</b></td></tr>
-
-<tr><td align="LEFT" height="17"><a href="/?p=31948">Morning Prayer for children</a></td>
-<td align="CENTER">12</td></tr>
-
-<tr><td align="LEFT" height="17"><a href="/?p=31951">Evening Prayer for children</a></td>
-<td align="CENTER">13</td></tr>
-
-<tr><td align="LEFT" height="17"><a href="/?p=31954">Prayer for the Sabbath Day</a></td>
-<td align="CENTER">22</td></tr>
-
-<tr><td align="LEFT" height="17">Prayer for when the law is taken out [of the ark] (a translation)</td>
-<td align="CENTER">23</td></tr>
-
-<tr><td align="LEFT" height="17"><a href="/?p=31958">Prayer for the close of the Sabbath</a></td>
-<td align="CENTER">25</td></tr>
-
-<tr><td align="LEFT" height="17"><a href="/?p=32455">Prayer for the Last Days of Passover</a></td>
-<td align="CENTER">30</td></tr>
-
-<tr><td align="LEFT" height="17"><a href="/?p=32406">Prayer for the Anniversary of the Destruction of the Temple (‏(תשעה באב</a></td>
-<td align="CENTER">38</td></tr>
-
-<tr><td align="LEFT" height="17"><a href="/?p=32480">Prayer for the Eve of New Year</a></td>
-<td align="CENTER">44</td></tr>
-
-<tr><td align="LEFT" height="17"><a href="/?p=32484">Prayer for the Day of Atonement</a></td>
-<td align="CENTER">54</td></tr>
-
-<tr><td align="LEFT" height="17"><a href="/?p=32489">Prayer for the Evening of Atonement (‏(נעילה</a></td>
-<td align="CENTER">61</td></tr>
-
-<tr><td align="LEFT" height="17"><a href="/?p=32401">Prayer for the Departed (‏(הזכרת נשמות</a></td>
-<td align="CENTER">64</td></tr>
-
-<tr><td align="LEFT" height="17"><a href="/?p=32468">Prayer for the First Day of Tabernacles</a></td>
-<td align="CENTER">65</td></tr>
-
-<tr><td align="LEFT" height="17"><a href="/?p=32474">Prayer for the 8th Day of Tabernacles (שמיני עצרת)</a></td>
-<td align="CENTER">67</td></tr>
-
-<tr><td align="LEFT" height="17"><a href="/?p=32460">Prayer for the Feast of Purim</a></td>
-<td align="CENTER">73</td></tr>
-
-<tr><td align="LEFT" height="17"><a href="/?p=32395">Prayer for a young Maiden</a></td>
-<td align="CENTER">74</td></tr>
-
-<tr><td align="LEFT" height="17"><a href="/?p=32387">Prayer for an Orphan</a></td>
-<td align="CENTER">76</td></tr>
-
-<tr><td align="LEFT" height="17"><a href="/?p=32429">A Wife’s Prayer for Matrimonial Happiness</a></td>
-<td align="CENTER">77</td></tr>
-
-<tr><td align="LEFT" height="17"><a href="/?p=32432">Prayer on the approach of Accouchement</a></td>
-<td align="CENTER">80</td></tr>
-
-<tr><td align="LEFT" height="17"><a href="/?p=32438">Prayer after a safe delivery</a></td>
-<td align="CENTER">81</td></tr>
-
-<tr><td align="LEFT" height="17"><a href="/?p=32391">A Wife’s Prayer whose Husband is on a Journey</a></td>
-<td align="CENTER">87</td></tr>
-
-<tr><td align="LEFT" height="17"><a href="/?p=32423">A Widow’s Prayer</a></td>
-<td align="CENTER">87</td></tr>
-
-<tr><td align="LEFT" height="17"><a href="/?p=32416">Prayer for a Sick Child</a></td>
-<td align="CENTER">90</td></tr>
-
-<tr><td align="LEFT" height="17"><a href="/?p=32443">Prayer for Patience and Strength in Adversity</a></td>
-<td align="CENTER">90</td></tr>
-
-<tr><td align="LEFT" height="17"><a href="/?p=32447">Thanksgiving for Deliverance</a></td>
-<td align="CENTER">91</td></tr>
-
-<tr><td align="LEFT" height="17"><a href="/?p=32287">During a Storm at Sea</a></td>
-<td align="CENTER">93</td></tr>
-
-<tr><td align="LEFT" height="17"><a href="/?p=32451">Prayer in Heavy Sickness</a></td>
-<td align="CENTER">97</td></tr>
-
-<tr><td align="LEFT" height="17"><a href="/?p=32411">Prayer on the Anniversary of a Parents Death (Jahrzeit)</a></td>
-<td align="CENTER">98</td></tr>
-
-<tr><td align="LEFT" height="17"><a href="/?p=32383">Prayer at a Mother’s Grave</a></td>
-<td align="CENTER">100</td></tr>
-
-<tr><td align="LEFT" height="17"><a href="/?p=32380">Prayer at the Grave of a Child</a></td>
-<td align="CENTER">104</td></tr>
-
-<tr><td align="LEFT" height="17"><a href="/?p=31982">Prayer at the Grave of a Brother or Sister</a></td>
-<td align="CENTER">105</td></tr>
-</tbody></table>
+This work is in the Public Domain due to its having been published before January 1st 1924.
 
 <hr />
+
+<h3>INDEX</h3>
+
+<div class="two-column" style="margin-left: auto; margin-right: auto;">
+<u>Moritz Mayer</u> (or else, not by Neuda or Bresslau) 
+<a href="/?p=31948">Morning Prayer for children</a> (p. 12)
+<a href="/?p=31951">Evening Prayer for children</a> (p. 13)
+<a href="/?p=31954">Prayer for the Sabbath Day</a> (p. 22)
+Prayer for when the law is taken out [of the ark] (a translation) (p. 23)
+<a href="/?p=31958">Prayer for the close of the Sabbath</a> (p. 25)
+<a href="/?p=32455">Prayer for the Last Days of Passover</a> (p. 30)
+<a href="/?p=32406">Prayer for the Anniversary of the Destruction of the Temple (‏(תשעה באב</a> (p. 38)
+<a href="/?p=32480">Prayer for the Eve of New Year</a> (p. 44)
+<a href="/?p=32484">Prayer for the Day of Atonement</a> (p. 54)
+<a href="/?p=32489">Prayer for the Evening of Atonement (‏(נעילה</a> (p. 61)
+<a href="/?p=32401">Prayer for the Departed (‏(הזכרת נשמות</a> (p. 64)
+<a href="/?p=32468">Prayer for the First Day of Tabernacles</a> (p. 65)
+<a href="/?p=32474">Prayer for the 8th Day of Tabernacles (שמיני עצרת)</a> (p. 67)
+<a href="/?p=32460">Prayer for the Feast of Purim</a> (p. 73)
+<a href="/?p=32395">Prayer for a young Maiden</a> (p. 74)
+<a href="/?p=32387">Prayer for an Orphan</a> (p. 76)
+<a href="/?p=32429">A Wife’s Prayer for Matrimonial Happiness</a> (p. 77)
+<a href="/?p=32432">Prayer on the approach of Accouchement</a> (p. 80)
+<a href="/?p=32438">Prayer after a safe delivery</a> (p. 81)
+<a href="/?p=32391">A Wife’s Prayer whose Husband is on a Journey</a> (p. 87)
+<a href="/?p=32423">A Widow’s Prayer</a> (p. 87)
+<a href="/?p=32416">Prayer for a Sick Child</a> (p. 90)
+<a href="/?p=32443">Prayer for Patience and Strength in Adversity</a> (p. 90)
+<a href="/?p=32447">Thanksgiving for Deliverance</a> (p. 91)
+<a href="/?p=32287">During a Storm at Sea</a> (p. 93)
+<a href="/?p=32451">Prayer in Heavy Sickness</a> (p. 97)
+<a href="/?p=32411">Prayer on the Anniversary of a Parents Death (Jahrzeit)</a> (p. 98)
+<a href="/?p=32383">Prayer at a Mother’s Grave</a> (p. 100)
+<a href="/?p=32380">Prayer at the Grave of a Child</a> (p. 104)
+<a href="/?p=31982">Prayer at the Grave of a Brother or Sister</a> (p. 105)
+
+<u>Marcus Heinrich Bresslau</u> from <em><a href="/?p=32040">Tehinot Banot Yisrael</a></em> (1852).
+<a href="/?p=31987">Morning Prayer</a> [I] (p. 8)
+<a href="/?p=31991">Prayer for Sunday</a> (p. 14)
+<a href="/?p=31997">Prayer for Monday</a> (p. 15)
+<a href="/?p=32000">Prayer for Tuesday</a> (p. 16)
+<a href="/?p=32017">Prayer for Wednesday</a> (p. 16)
+<a href="/?p=32025">Prayer for Thursday</a> (p. 17)
+<a href="/?p=32146">Meditation on the Holy Sabbath</a> (p. 24)
+<a href="/?p=32049">Prayer on the Sabbath previous to the New Moon</a> (p. 26)
+<a href="/?p=32141">Prayer for the Feast of Chanuccah</a> (p. 71)
+<a href="/?p=32143">Prayer for a Sick Husband</a> (lightly adapted by Moritz Mayer) (p. 89)
+</div>[su_spacer]
+
 
 Below are the twenty-four translations of Fanny Neuda's prayers made by Mayer with their corresponding page numbers and titles in <em>Stunden Der Andacht</em> and <em>Hours of Devotion</em>.
 
@@ -153,7 +110,7 @@ Below are the twenty-four translations of Fanny Neuda's prayers made by Mayer wi
 
 <tr>
 <td align="CENTER" height="17">26</td>
-<td align="LEFT">Am Freitag</td>
+<td align="LEFT">Am <a href="/?p=16329">Freitag</a></td>
 <td align="LEFT">Prayer for Friday</td>
 <td align="CENTER">18</td>
 </tr>
@@ -169,7 +126,7 @@ Below are the twenty-four translations of Fanny Neuda's prayers made by Mayer wi
 
 <tr>
 <td align="CENTER" height="17">35</td>
-<td align="LEFT">Am Neumonde</td>
+<td align="LEFT"><a href="/?p=19377">Am Neumonde</a></td>
 <td align="LEFT">Prayer for for the Day of New Moon</td>
 <td align="CENTER">27</td>
 </tr>
@@ -195,7 +152,7 @@ Below are the twenty-four translations of Fanny Neuda's prayers made by Mayer wi
 
 <tr>
 <td align="CENTER" height="17">48</td>
-<td align="LEFT">Gebet im Monate Elul</td>
+<td align="LEFT"><a href="/?p=16631">Gebet im Monate Elul</a></td>
 <td align="LEFT">Prayer for the month of Ellul</td>
 <td align="CENTER">43</td>
 </tr>
@@ -211,7 +168,7 @@ Below are the twenty-four translations of Fanny Neuda's prayers made by Mayer wi
 
 <tr>
 <td align="CENTER" height="17">54</td>
-<td align="LEFT">Betrachtung am Neujahrs- und Versöhnungstage</td>
+<td align="LEFT"><a href="/?p=32105">Betrachtung am Neujahrs- und Versöhnungstage</a></td>
 <td align="LEFT">Meditation for the New Year's Day and the Day of Atonement</td>
 <td align="CENTER">49</td>
 </tr>
@@ -219,7 +176,7 @@ Below are the twenty-four translations of Fanny Neuda's prayers made by Mayer wi
 
 <tr>
 <td align="CENTER" height="18">73</td>
-<td align="LEFT">Am Thora-Freudenfest</td>
+<td align="LEFT"><a href="/?p=21914">Am Thora-Freudenfest</a></td>
 <td align="LEFT">Prayer for the Day of Rejoicing of the Law (שמחת תורה)</td>
 <td align="CENTER">70</td>
 </tr>
@@ -235,7 +192,7 @@ Below are the twenty-four translations of Fanny Neuda's prayers made by Mayer wi
 
 <tr>
 <td align="CENTER" height="17">81</td>
-<td align="LEFT">Gebet einer Mutter am Hochzeitstage ihrer Tochter</td>
+<td align="LEFT"><a href="/?p=32116">Gebet einer Mutter am Hochzeitstage ihrer Tochter</a></td>
 <td align="LEFT">A Mother's Prayer on the Wedding Day of her Daughter</td>
 <td align="CENTER">78</td>
 </tr>
@@ -243,7 +200,7 @@ Below are the twenty-four translations of Fanny Neuda's prayers made by Mayer wi
 
 <tr>
 <td align="CENTER" height="17">82</td>
-<td align="LEFT">Gebet einer Mutter am Hochzeitstage ihres Sohnes</td>
+<td align="LEFT"><a href="/?p=32122">Gebet einer Mutter am Hochzeitstage ihres Sohnes</a></td>
 <td align="LEFT">A Mother's Prayer on the Wedding Day of her Son (amended)</td>
 <td align="CENTER">79</td>
 </tr>
@@ -259,7 +216,7 @@ Below are the twenty-four translations of Fanny Neuda's prayers made by Mayer wi
 
 <tr>
 <td align="CENTER" height="17">90</td>
-<td align="LEFT">In kinderloser Ehe</td>
+<td align="LEFT"><a href="/?p=24927">In kinderloser Ehe</a></td>
 <td align="LEFT">Prayer for a Childless Wife</td>
 <td align="CENTER">83</td>
 </tr>
@@ -283,7 +240,7 @@ Below are the twenty-four translations of Fanny Neuda's prayers made by Mayer wi
 
 <tr>
 <td align="CENTER" height="17">102</td>
-<td align="LEFT">Gebet für Eltern</td>
+<td align="LEFT"><a href="/?p=31938">Gebet für Eltern</a></td>
 <td align="LEFT">Prayer for Sick Parents</td>
 <td align="CENTER">88</td>
 </tr>
@@ -299,7 +256,7 @@ Below are the twenty-four translations of Fanny Neuda's prayers made by Mayer wi
 
 <tr>
 <td align="CENTER" height="17">127</td>
-<td align="LEFT">Nach zurückgelegter Seereise</td>
+<td align="LEFT"><a href="/?p=32297">Nach zurückgelegter Seereise</a></td>
 <td align="LEFT">Prayer at the End of a Voyage</td>
 <td align="CENTER">94</td>
 </tr>
@@ -321,50 +278,6 @@ Below are the twenty-four translations of Fanny Neuda's prayers made by Mayer wi
 </tr>
 </tbody></table>
 
-<hr />
-
-Below are the ten prayers by Marcus Heinrich Bresslau from his <em>Tehinot Banot Yisrael</em> (1852).
-
-<table border="0" cellspacing="0"><colgroup width="440"></colgroup> <colgroup width="73"></colgroup>
-<tbody>
-<tr><td align="LEFT" height="17">Teḥinot from Marcus Heinrich Bresslau's <em>Tehinot Banot Yisrael</em> (1852)</td>
-<td align="CENTER"><b>Page No.</b></td></tr>
-
-<tr><td align="LEFT" height="17">Morning Prayer [I]</td>
-<td align="CENTER">8</td></tr>
-
-<tr><td align="LEFT" height="17">Prayer for Sunday</td>
-<td align="CENTER">14</td></tr>
-
-<tr><td align="LEFT" height="17">Prayer for Monday</td>
-<td align="CENTER">15</td></tr>
-
-<tr><td align="LEFT" height="17">Prayer for Tuesday</td>
-<td align="CENTER">16</td></tr>
-
-<tr><td align="LEFT" height="17">Prayer for Wednesday</td>
-<td align="CENTER">16</td></tr>
-
-<tr><td align="LEFT" height="17">Prayer for Thursday</td>
-<td align="CENTER">17</td></tr>
-
-<tr><td align="LEFT" height="17">Meditation on the Holy Sabbath</td>
-<td align="CENTER">24</td></tr>
-
-<tr><td align="LEFT" height="17">Prayer on the Sabbath previous to the New Moon</td>
-<td align="CENTER">26</td></tr>
-
-<tr><td align="LEFT" height="17">Prayer for the Feast of Chanuccah</td>
-<td align="CENTER">71</td></tr>
-
-<tr><td align="LEFT" height="17">Prayer for a Sick Husband (lightly adapted by Moritz Mayer)</td>
-<td align="CENTER">89</td></tr>
-</tbody></table>
-
-<hr />
-
-For the Open Siddur Project's public database, I prepared a new digital edition of <em>Hours of Devotion</em>. For this edition, I used a high quality scan by the University of California libraries of the <a href="https://www.archive.org/details/hoursofdevotionb00neudrich">1889 reprint</a> of Mayer's 1866 translation of the 5th edition of <em>Stunden Der Andacht</em> by J. Rosenbaum that had been contributed to the <a href="https://www.archive.org/details/hoursofdevotionb00neudrich">Internet Archive</a>.
-
-In preparing this edition, I transcribed the text and <a href="https://github.com/opensiddur/opensiddur/wiki/Open-Siddur-Guidelines-for-Transcription">formatted it in STML</a> (Sacred Text Markup Language), a format developed by <a href="http://sacred-texts.com/jbhobit.htm">J.B. Hare z"l</a>, founder of the <a href="http://sacred-texts.com">Sacred Texts Internet Archive</a>. Hare used STML as an intermediary format for converting transcribed texts to HTML. Efraim Feinstein, lead developer of the Open Siddur Project, further developed STML as an intermediary format for converting transcribed texts to JLPTEI, the XML schema we use to markup Jewish liturgy and liturgy-related work for the Open Siddur's database.
+&nbsp;
 </body>
 </html>

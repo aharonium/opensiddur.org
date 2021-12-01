@@ -1,14 +1,14 @@
 <html>
 <head></head>
 <body>
-Title: תפילה לפני הגניזה | Prayer for the Interment of Sacred Writing in a Genizah, by Morah Yehudis Fishman<br />
+Title: Prayer for the Interment of Sacred Writing in a Genizah, by Morah Yehudis Fishman<br />
 Primary contributor: yehudis.fishman<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=7755">http://opensiddur.org/?p=7755</a>
 <p />
 <hr />
 
 [xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">English</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">

@@ -90,7 +90,7 @@ Where peace eternal gleams.
 
 &nbsp;
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/hymns-written-for-the-service-of-the-hebrew-congregation-beth-elohim-south-carolina-1842/Hymns%20written%20for%20the%20Service%20of%20the%20Hebrew%20Congregation%20Beth%20Elohim%2C%20South%20Carolina%20%281842%29#page/31/mode/2up"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/hymns-written-for-the-service-of-the-hebrew-congregation-beth-elohim-south-carolina-1842/Hymns%20written%20for%20the%20Service%20of%20the%20Hebrew%20Congregation%20Beth%20Elohim%2C%20South%20Carolina%20%281842%29#page/n31/mode/2up"]
 
 &nbsp;
 </body>

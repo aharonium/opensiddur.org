@@ -26,7 +26,7 @@ we pray for a national home
 where security, 
 dignity, 
 and prosperity, 
-abound for all its inhabitants 
+abound for all its inhabitants. 
 </div></td></tr>
 
 

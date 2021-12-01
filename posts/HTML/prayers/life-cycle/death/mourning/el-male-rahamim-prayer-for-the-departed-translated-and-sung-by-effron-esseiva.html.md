@@ -7,13 +7,17 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<div class="english" lang="en" style="font-size: 1.2em;">
-Almost two years ago my best friend passed away and I had the honour of chanting this <em>maleh rachamim</em> for him. In mid-May this year another friend approached me and said he really liked the way I did it at the time and could I record it for him because he was going to do it too for an unrelated unveiling. So, I recorded it on May 18, 2011. I didn't compose it. It's a traditional tune, but it's my voice and I hope someone else can perhaps learn it with this material. The more resource there are out there through means such as Open Siddur the better we can learn and share.
+<strong>DOWNLOAD:</strong> 
 
-The recording is shared with a Public Domain Dedication (<a href="http://creativecommons.org/publicdomain/zero/1.0/">CC0</a>).
+<a href="https://opensiddur.org/wp-content/uploads/2011/06/Effron-Esseiva-El-Maleh-Rachamim.ogg">OGG</a> | <a href="https://opensiddur.org/wp-content/uploads/2011/06/Effron-Esseiva-El-Maleh-Rachamim.mp3">MP3</a>
+
+<div class="english" lang="en" style="font-size: 1.2em;">
+Almost two years ago my best friend passed away and I had the honour of chanting this <em>maleh rachamim</em> for him. In mid-May this year another friend approached me and said he really liked the way I did it at the time and could I record it for him because he was going to do it too for an unrelated unveiling. So, I recorded it on May 18, 2011. I didn't compose it. It's a traditional tune, but it's my voice and I hope someone else can perhaps learn it with this material. The more resource there are out there through means such as Open Siddur the better we can learn and share. The recording is shared with a Public Domain Dedication (<a href="http://creativecommons.org/publicdomain/zero/1.0/">CC0</a>).
+
+https://opensiddur.org/wp-content/uploads/2011/06/Effron-Esseiva-El-Maleh-Rachamim.mp3
 </div>
 
-DOWNLOAD: <a href="https://opensiddur.org/wp-content/uploads/2011/06/Effron-Esseiva-El-Maleh-Rachamim.ogg">OGG</a> | <a href="https://opensiddur.org/wp-content/uploads/2011/06/Effron-Esseiva-El-Maleh-Rachamim.mp3">MP3</a>
+<hr />
 
 [xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
@@ -36,25 +40,27 @@ under your holy, pure and glorious wings
 that shine like the sky,
 as we provide charity
 in the name of the soul of our loved one.
-</td></tr><tr>
-<td style="vertical-align:top;">
+</td></tr>
+
+
+<tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
-[אָנָא,] בַּעַל הָרַחֲמִים יַסְתִּירֵהוּ
+[אָנָא,] בַּעַל הָרַחֲמִים יַסְתִּירֵהוּ&nbsp;
 בְּסֵתֶר [כְּנָפֶיךָ] כְּנָפָיו לְעוֹלָמִים,
 וְיִצְרֹר [וּצְרֹר] בִּצְרוֹר הַחַיִּים
 אֶת נִשְׁמָתוֹ, יְיָ הוּא נַחֲלָתוֹ,
-וְיָנוּחַ בְּשָׁלוֹם עַל מִשְׁכָּבוֹ, וְנֹאמַר אָמֵן׃
+וְיָנוּחַ בְּשָׁלוֹם עַל מִשְׁכָּבוֹ, 
+וְנֹאמַר אָמֵן׃
 </span></div></td>
  
 <td style="vertical-align:top;"><div class="english" lang="en">
 [Please] Compassionate one, 
 provide rest for the soul of our loved one in Ga’an Eden 
-and never withdraw your protective wings and take [bundle] 
+and never withdraw your protective wings and take [bundle]&nbsp; 
 this soul into the bond of life. Hashem is this soul’s 
 everlasting inheritance and peaceful resting place, 
-and let us say: Amen. 
-</td>
-</tr>
+and let us say: <em>Amen</em>. 
+</td></tr>
 </tbody></table>
 
 <hr />

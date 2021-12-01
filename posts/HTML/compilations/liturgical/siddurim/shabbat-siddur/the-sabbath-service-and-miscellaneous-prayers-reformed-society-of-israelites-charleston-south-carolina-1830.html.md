@@ -30,7 +30,7 @@ ARTICLES OF FAITH.
 
 I. I believe with a perfect faith, that God Almighty (blessed be his name!) is the Creator and Governor of all creation; and that he alone has made, does make, and will make all things. 
 
-II. I believe with a perfect faith, that the Creator, (blessed be his name! is only one in unity; to which there is no resemblance; and that he alone has been, is, and will be God. 
+II. I believe with a perfect faith, that the Creator, (blessed be his name!) is only one in unity; to which there is no resemblance; and that he alone has been, is, and will be God. 
 
 III. I believe with a perfect faith, that the Creator (blessed be his name!) is not corporeal, nor to be comprehended by any understanding capable of comprehending only what is corporeal; and that there is nothing like him in the universe. 
 

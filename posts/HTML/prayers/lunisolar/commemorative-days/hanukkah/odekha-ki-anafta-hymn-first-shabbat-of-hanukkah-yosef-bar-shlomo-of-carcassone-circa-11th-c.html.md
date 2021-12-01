@@ -941,7 +941,7 @@ So that everybody in the Holy City would see the miracle.
 </span></div></td>
 
 <td style="vertical-align:top;"><div class="english" lang="en">
-<span style="font-size: xx-large;">&nbsp;</span>Today Shabbat [<span style="font-size: 0.85em;">on Rosh Ḥodesh add:</span> "and Rosh Ḥodesh"] and Hanukah coincide,
+<span style="font-size: xx-large;">&nbsp;</span>Today Shabbat [<span style="font-size: 0.85em;">on Rosh Ḥodesh add:</span> "and Rosh Ḥodesh"] and Ḥanukkah coincide,
 <span style="font-size: xx-large;">&nbsp;</span>Praise be to You from your nation, still delicate and tender,
 <span style="font-size: xx-large;">&nbsp;</span>And this nation will forever declare that the Kingdom belongs to You. 
 </div></td></tr>

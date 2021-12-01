@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.8.1" created="2021-11-02 05:29" -->
+	<!-- generator="WordPress/5.8.2" created="2021-12-01 06:41" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,19 +29,23 @@
 	<title>the Open Siddur Project ✍ פְּרוֺיֶּקט הַסִּדּוּר הַפָּתוּחַ</title>
 	<link>https://opensiddur.org</link>
 	<description>an open-source, community contributed archive for those sharing prayers and crafting their own prayerbooks</description>
-	<pubDate>Tue, 02 Nov 2021 05:29:44 +0000</pubDate>
+	<pubDate>Wed, 01 Dec 2021 06:41:43 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://opensiddur.org</wp:base_site_url>
 	<wp:base_blog_url>https://opensiddur.org</wp:base_blog_url>
 
-		<wp:author><wp:author_id>310</wp:author_id><wp:author_login><![CDATA[hierophant]]></wp:author_login><wp:author_email>email redacted</wp:author_email><wp:author_display_name><![CDATA[the Hierophant]]></wp:author_display_name><wp:author_first_name><![CDATA[the]]></wp:author_first_name><wp:author_last_name><![CDATA[Hierophant]]></wp:author_last_name></wp:author>
-	<wp:author><wp:author_id>455</wp:author_id><wp:author_login><![CDATA[aharon-nissn.varady]]></wp:author_login><wp:author_email>email redacted</wp:author_email><wp:author_display_name><![CDATA[Aharon N. Varady]]></wp:author_display_name><wp:author_first_name><![CDATA[Aharon N.]]></wp:author_first_name><wp:author_last_name><![CDATA[Varady]]></wp:author_last_name></wp:author>
-	<wp:author><wp:author_id>131</wp:author_id><wp:author_login><![CDATA[aharon.varady]]></wp:author_login><wp:author_email>email redacted</wp:author_email><wp:author_display_name><![CDATA[Aharon N. Varady (transcription)]]></wp:author_display_name><wp:author_first_name><![CDATA[Aharon]]></wp:author_first_name><wp:author_last_name><![CDATA[Varady (transcription)]]></wp:author_last_name></wp:author>
-	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[hermit]]></wp:author_login><wp:author_email>email redacted</wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[The]]></wp:author_first_name><wp:author_last_name><![CDATA[Admin]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>310</wp:author_id><wp:author_login><![CDATA[hierophant]]></wp:author_login><wp:author_email>email redacted</wp:author_email>
+<wp:author_display_name><![CDATA[the Hierophant]]></wp:author_display_name><wp:author_first_name><![CDATA[the]]></wp:author_first_name><wp:author_last_name><![CDATA[Hierophant]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_id>455</wp:author_id><wp:author_login><![CDATA[aharon-nissn.varady]]></wp:author_login><wp:author_email>email redacted</wp:author_email>
+<wp:author_display_name><![CDATA[Aharon N. Varady]]></wp:author_display_name><wp:author_first_name><![CDATA[Aharon N.]]></wp:author_first_name><wp:author_last_name><![CDATA[Varady]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_id>131</wp:author_id><wp:author_login><![CDATA[aharon.varady]]></wp:author_login><wp:author_email>email redacted</wp:author_email>
+<wp:author_display_name><![CDATA[Aharon N. Varady (transcription)]]></wp:author_display_name><wp:author_first_name><![CDATA[Aharon]]></wp:author_first_name><wp:author_last_name><![CDATA[Varady (transcription)]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[hermit]]></wp:author_login><wp:author_email>email redacted</wp:author_email>
+<wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[The]]></wp:author_first_name><wp:author_last_name><![CDATA[Admin]]></wp:author_last_name></wp:author>
 
 				
-	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
 	<url>https://opensiddur.org/wp-content/uploads/2015/03/Open-Siddur-Project-Logo-2015-5509b4bdv1_site_icon-32x32.png</url>
@@ -124,7 +128,7 @@ The Open Siddur Project is committed to the following principles and movements w
 		<wp:post_name><![CDATA[mission]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>316</wp:post_parent>
-		<wp:menu_order>30</wp:menu_order>
+		<wp:menu_order>31</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -290,7 +294,7 @@ Initially, development of the Open Siddur focused primarily on building core pro
 		<wp:post_name><![CDATA[history]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>316</wp:post_parent>
-		<wp:menu_order>44</wp:menu_order>
+		<wp:menu_order>45</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -363,16 +367,11 @@ Initially, development of the Open Siddur focused primarily on building core pro
 		<dc:creator><![CDATA[hierophant]]></dc:creator>
 		<guid isPermaLink="false">http://opensiddur.net/?page_id=76</guid>
 		<description></description>
-		<content:encoded><![CDATA[<div class="english" lang="en" style="font-size: 1.2em;">
-Want to make contact with our project? Please message us below. 
+		<content:encoded><![CDATA[<div class="english-sans" lang="en" style="font-size: 1.2em;">
 
-<strong>Important note:</strong> If you have a support related question, we ask that you please <em>reciprocate</em> by <a href="/contributing/donations/">making a donation</a> to support and sustain our project.
+Polite feedback is always welcome. Note: If you have a support related question, we ask that you please <strong>reciprocate</strong> by <a href="/contributing/donations/">making a donation</a> to support and sustain our project.
 
-<hr />
-
-<blockquote>[contact-form-7 id="3882" title="Default Contact form"]</blockquote>
-
-<hr />
+[contact-form-7 id="3882" title="Default Contact form"]
 
 If you'd like to connect with us over social media, join our discussion group on <a href="http://facebook.com/groups/opensiddur">Facebook</a>. For more technical discussions, find our <a href="https://groups.google.com/forum/#!forum/opensiddur-tech">email list</a> hosted on Google. You can also follow our project on <a href="http://twitter.com/opensiddur">Twitter</a> and via our <a href="http://facebook.com/opensiddur">Facebook page</a>. If you'd like to get an email when new posts appear on the site, please subscribe to our <a href="http://feedburner.google.com/fb/a/mailverify?uri=opensiddur">feedburner</a>.
 </div>]]></content:encoded>
@@ -380,14 +379,14 @@ If you'd like to connect with us over social media, join our discussion group on
 		<wp:post_id>76</wp:post_id>
 		<wp:post_date><![CDATA[2009-06-28 15:54:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2009-06-28 23:54:11]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-13 16:56:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-14 01:56:42]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-11-15 17:41:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-16 02:41:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>61</wp:menu_order>
+		<wp:menu_order>62</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -401,12 +400,12 @@ If you'd like to connect with us over social media, join our discussion group on
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[sharing_disabled]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_key><![CDATA[ao_post_optimize]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
-		<wp:meta_value><![CDATA[90]]></wp:meta_value>
+		<wp:meta_key><![CDATA[sharing_disabled]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wtpsw_views]]></wp:meta_key>
@@ -442,7 +441,7 @@ If you'd like to connect with us over social media, join our discussion group on
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[          ]]></wp:meta_value>
+		<wp:meta_value><![CDATA[                 ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header_hide]]></wp:meta_key>
@@ -484,7 +483,7 @@ If you'd like to connect with us over social media, join our discussion group on
 		<wp:post_name><![CDATA[contributing]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>22</wp:menu_order>
+		<wp:menu_order>23</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -565,7 +564,7 @@ If you'd like to connect with us over social media, join our discussion group on
 		<wp:post_name><![CDATA[development]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>17414</wp:post_parent>
-		<wp:menu_order>25</wp:menu_order>
+		<wp:menu_order>26</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -628,7 +627,7 @@ If you'd like to connect with us over social media, join our discussion group on
 		<description></description>
 		<content:encoded><![CDATA[&nbsp;
 
-<div class="english" lang="en" style="font-size: 1.2em;">
+<div class="english-sans" lang="en" style="font-size: 1.2em;">
 <h2>General Questions</h2>
 <hr />
 &nbsp;
@@ -801,14 +800,14 @@ Rosh Ḥodesh
 		<wp:post_id>561</wp:post_id>
 		<wp:post_date><![CDATA[2010-05-05 23:32:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2010-05-06 07:32:02]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-06-25 09:20:44]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-06-25 17:20:44]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-11-07 21:44:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-08 06:44:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[faq]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>316</wp:post_parent>
-		<wp:menu_order>48</wp:menu_order>
+		<wp:menu_order>49</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -820,10 +819,6 @@ Rosh Ḥodesh
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
-		<wp:meta_value><![CDATA[30]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -855,7 +850,7 @@ Rosh Ḥodesh
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[     ]]></wp:meta_value>
+		<wp:meta_value><![CDATA[      ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_footer]]></wp:meta_key>
@@ -884,9 +879,9 @@ Rosh Ḥodesh
 		<content:encoded><![CDATA[<blockquote>
 <table><tr><td style="vertical-align:top;">
 <h3>Please Complete the Form Below</h3>
-<hr style="margin-right: 500px;">
-[files_fm_upload]
-<!--[contact-form-7 id="3883" title="Upload form"] -->
+<!--<hr style="margin-right: 500px;">-->
+[contact-form-7 id="3883" title="Upload form"]
+<!--[files_fm_upload]-->
 
 &nbsp;
 </td>
@@ -920,7 +915,7 @@ Share your work under the condition that any derivative work (for example, a tra
 </td>
 
 <td>
-Share your work under the condition that any derivative work (such as a translation) correctly credits you, citing your original work. Second-generation derivative works (e.g., a reprint of the translation in a newspaper), however, may be shared under any license, including more restrictive licensing, or published under vanilla copyright. The <a href="http://creativecommons.org/licenses/by/4.0">CC BY 4.0 International</a> license is remix friendly -- content licensed under the CC BY can be remixed with more restrictive Creative Commons licenses as well as with copyrighted work that is not being shared under any open content/free-culture license. 
+Share your work under the condition that any derivative work (such as a translation) correctly credits you, citing your original work. However, unlike the CC BY-SA license, second-generation derivative works (e.g., a reprint of the translation in a newspaper) may be shared under any license, including more restrictive licensing, or published under vanilla copyright. The <a href="http://creativecommons.org/licenses/by/4.0">CC BY 4.0 International</a> license is remix friendly -- content licensed under the CC BY can be remixed with more restrictive Creative Commons licenses as well as with copyrighted work that is not being shared under any open content/free-culture license. 
 
 By choosing to license your work with a <a href="http://creativecommons.org/licenses/by/4.0">CC BY</a> license, you will legally ensure that your work remains available for others to adopt, adapt, remix, and redistribute.
 </td></tr>
@@ -944,14 +939,14 @@ Share your work without any conditions, for example, requiring correct attributi
 		<wp:post_id>781</wp:post_id>
 		<wp:post_date><![CDATA[2010-07-19 21:09:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2010-07-20 05:09:18]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-08-22 09:53:37]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-08-22 17:53:37]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-11-11 17:35:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-12 02:35:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[upload]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>281</wp:post_parent>
-		<wp:menu_order>24</wp:menu_order>
+		<wp:menu_order>25</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -977,10 +972,6 @@ Share your work without any conditions, for example, requiring correct attributi
 		<wp:meta_value><![CDATA[12610]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
-		<wp:meta_value><![CDATA[30]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpghs_github_path]]></wp:meta_key>
 		<wp:meta_value><![CDATA[_pages/upload.md]]></wp:meta_value>
 		</wp:postmeta>
@@ -1002,7 +993,7 @@ Share your work without any conditions, for example, requiring correct attributi
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[                                  ]]></wp:meta_value>
+		<wp:meta_value><![CDATA[                                      ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_footer]]></wp:meta_key>
@@ -1097,7 +1088,7 @@ SHARE WHAT YOU LOVE ♡ -- A Decision Tree for Choosing Free-Culture Compatible 
 		<wp:post_name><![CDATA[a-decision-tree-for-choosing-freelibre-licenses-for-cultural-and-technological-work]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>281</wp:post_parent>
-		<wp:menu_order>39</wp:menu_order>
+		<wp:menu_order>40</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1214,8 +1205,8 @@ SHARE WHAT YOU LOVE ♡ -- A Decision Tree for Choosing Free-Culture Compatible 
 		<dc:creator><![CDATA[hierophant]]></dc:creator>
 		<guid isPermaLink="false">http://opensiddur.org/?page_id=6788</guid>
 		<description></description>
-		<content:encoded><![CDATA[<div class="english" lang="en" style="font-size: 1.2em;">
-
+		<content:encoded><![CDATA[
+<div class="english-sans" lang="en" style="font-size: 1.2em;">
 The Open Siddur is only one example of a host of projects working to transcend the impositions of copyright laws while sharing, remixing, and redistributing the products of our intellectual Commons. There are a number of related projects in <a href="https://en.wikipedia.org/wiki/Open_Source_Judaism">Open Source Judaism</a> today whose use of free-culture compatible open content and open source licensing is profoundly affecting Jewish education and cultural vitality. If you have a link to add to this list, please <a href="https://opensiddur.org/contact/">contact us</a>. (For our legacy, "<a href="http://web.archive.org/web/20120708203443/http://wiki.jewishliturgy.org:80/Environmental_Scan">environmental scan</a>" of comparative, complementary, competing, and collaborative projects, circa 2009, see <a href="http://web.archive.org/web/20120708203443/http://wiki.jewishliturgy.org:80/Environmental_Scan">here</a>.)
 <h3>Open-source Licensed Jewish Content</h3>
 <h3 style="padding-left: 40px;">Rabbinic and other Jewish Literature</h3>
@@ -1224,13 +1215,13 @@ The Open Siddur is only one example of a host of projects working to transcend t
 <a href="https://github.com/MosheWagner/">Orayta</a>: a Torah database of rabbinic Jewish texts
 <a href="http://sefaria.org">Sefaria</a>: an advanced interface for accessing Biblical and Rabbinic source-text, and preparing custom source-sheets.
 <a href="http://www.benyehuda.org/">The Ben-Yehudah Project</a>: Modern Hebrew literature and poetry in the Public Domain, digitized.</p>
-
+[su_spacer]
 <h3 style="padding-left: 40px;">Liturgists and Scholars</h3>
 <p style="padding-left: 80px;"><a href="http://mechonhadar.org">Mechon Hadar</a>: the umbrella institution of Yeshivat Hadar
 <a href="http://web.archive.org/web/20151116213255/http://benabuya.com/">Davar Akher</a> the blog of Judaics scholar, Simon Halloway.
 <a href="http://neohasid.org">Neohasid.org</a>, Rabbi David Seidenberg and friend's liturgy, songs, and <em>divrei tefillah</em>
 <a href="http://triganza.blogspot.com">Triganza</a>, Trisha Arlin's liturgy, poetry, and prose.</p>
-
+[su_spacer]
 <h3 style="padding-left: 40px;">Open-source Software</h3>
 <p style="padding-left: 80px;"><a href="http://hebcal.com">Hebrew Calendar</a>: the venerable, open-source and free-culture licensed Hebrew calendar. (<a href="https://addons.mozilla.org/en-us/firefox/addon/hebrew-calendar/">Plugin for Mozilla Firefox</a>, too!)
 <a href="http://pockettorah.com">PocketTorah</a>: Open Source Software for learning <em>kriyat hatorah</em>.
@@ -1241,20 +1232,20 @@ The Open Siddur is only one example of a host of projects working to transcend t
 <a href="http://extensions.openoffice.org/en/project/hebrew-nikud-toolbar">Hebrew Nikud Toolbar</a> extension for OpenOffice and LibreOffice, based on word lists from Hspell
 <a href="https://code.google.com/p/qhocr/">qhOCR</a>: a Qt interface for Kobi Zamir's hOCR (<a href="https://code.google.com/p/hebocr/">Hebrew OCR</a>) project for the OCR of Hebrew with niqqud. (Kobi Zamir also wrote a <a href="http://hspell-gui.sourceforge.net/">GUI for Hspell</a>!)
 <a href="http://scantailor.org/downloads/">ScanTailor</a>: a tool for digital archivists creating page images (scans) from books or other printed works</p>
-
+[su_spacer]
 <h3 style="padding-left: 40px;">Image and Audio Archives</h3>
 <p style="padding-left: 80px;">All content shared in these archives is free to adapt, remix, and redistribute per the terms of Creative Commons free-culture licenses or Public Domain dedications.</p>
 <p style="padding-left: 80px;"><a href="https://archive.org/index.php">The Internet Archive</a>
 <a href="http://wikisource.org">Wikisource</a>
 <a href="http://commons.wikimedia.org/wiki/Main_Page">Wikimedia Commons</a>
 <a href="http://librivox.org">LibriVox</a>: archive of Public Domain Audiobook recordings. (Includes recordings of work shared by the Open Siddur Project!)</p>
-
+[su_spacer]
 <h3 style="padding-left: 40px;">Searching for Open Content</h3>
 <p style="padding-left: 80px;"><a href="http://www.flickr.com/search/?q=+&amp;l=commderiv&amp;ct=0">Flickr</a>
 <a href="http://www.youtube.com/results?filters=creativecommons&amp;search_query=creativecommons&amp;lclk=creativecommons">Youtube</a>
 <a href="https://soundcloud.com">Soundcloud</a>
 <a href="https://www.google.com/search?q=open+siddur&amp;newwindow=1&amp;safe=off&amp;tbm=isch&amp;tbs=sur:fmc">Google Images</a>: click on "search tools" and "labeled for reuse with modifications"</p>
-
+[su_spacer]
 <h3>Public Domain (except for translations)</h3>
 <h3 style="padding-left: 40px;">Digital Humanities Projects</h3>
 <p style="padding-left: 80px;"><a href="http://jewishmanuscripts.org">Friedberg Jewish Manuscript Archive</a>: for the Friedberg Genizah Project
@@ -1266,21 +1257,21 @@ The <a href="http://tanach.us/">Westminster Leningrad Codex</a>: digital edition
 <a href="http://openscriptures.org/">Open Scriptures</a>: platform for the development of open scriptural linked data and its applications
 <a href="http://instonebrewer.com/RabbinicTraditions/">Rabbinic Traditions</a> (English translations of Talmudic sources available nowhere else)
 <a href="https://digitalcollections.jtsa.edu/islandora/object/jts%3Amanuscripts">JTS Manuscript Collection</a></p>
-
+[su_spacer]
 <h3 style="padding-left: 40px;">Piyyutim and Zemirot</h3>
 <p style="padding-left: 80px;"><a href="http://www.tefila.org/">Iyunei Tefila</a> (Hebrew)
 <a href="http://zemirotdatabase.org">Zemirot Database</a>
 <a href="http://www.pizmonim.com/">The Sephardic Pizmonim Project</a>: An important project to digitize the tradition of Pizmonim among Sepharadi Jewry.
 <a href="http://www.zemereshet.co.il/">Zemereshet</a>: Database of Hebrew Lyrics
 <a href="http://www.piyut.org.il/">The Piyyut Project</a> (now at the NLI. Old site is archived <a href="http://old.piyut.org.il/english/">here</a>.)</p>
-
+[su_spacer]
 <h3>Invaluable Tools (not explicitly open-source)</h3>
 <p style="padding-left: 40px;"><a href="http://www.jewishgen.org/infofiles/m_jyear.htm">Jewish Calendar Year Conversion Tool</a> (JewishGen)
 <a href="http://www.jbilibrary.org/BrailleLibrary/utf_trans.php">Hebrew Braile Conversion Tool</a> (JBI International)
 <a href="http://nakdan.dicta.org.il">Naqdan</a> (for adding niqqud to unpointed (unvoweled/vocalized) Hebrew text)
 <a href="https://www.deepl.com/translator">DeepL Machine Translation</a>
 <a href="https://charakteres.com">charaktêres</a> (for investigating magical scripts)</p>
-
+[su_spacer]
 <h3>The Public Domain &amp; Copyright: Terminology, Tools, and Articles</h3>
 <h3 style="padding-left: 40px;">Copyright and Judaism</h3>
 <p style="padding-left: 80px;"><a href="http://books.google.com/books?id=tjySDXtoCgwC">Copyright: Sacred Text, Technology and the DMCA</a> by David Nimmer, 2001 (book)
@@ -1289,7 +1280,7 @@ The <a href="http://tanach.us/">Westminster Leningrad Codex</a>: digital edition
 <a href="https://opensiddur.org/wp-content/uploads/2013/04/David-Nimmer-Lessons-from-Maharam-Banet’s-Clash-with-the-Ḥatam-Sofer-Over-Copyright-in-the-Roedelheim-Maḥzor-2008.pdf">Lessons from Maharam Banet’s Clash With the Ḥatam Sofer Over Copyright in the Roedelheim Maḥzor</a> by David Nimmer, 2008
 <a href="https://opensiddur.org/wp-content/uploads/2013/04/David-Nimmer-Rabbi-Banets-Charming-Snake-Hakirah-the-Flatbush-Journal-of-Jewish-Law-and-Thought-v8-2009.pdf">Rabbi Banet's Charming Snake</a> by David Nimmer, 2009
 <a href="https://opensiddur.org/wp-content/uploads/2013/04/Netanel-and-Nimmer-Is-Copyright-Property-The-Debate-in-Jewish-Law-Theoretical-Inquiries-in-Law-v12217-2011.pdf">Is Copyright Property? — The Debate in Jewish Law</a> by Neil Netanel and David Nimmer, 2011</p>
-
+[su_spacer]
 <h3 style="padding-left: 40px;">International &amp; United States Copyright Law</h3>
 <p style="padding-left: 80px;"><a href="https://exhibits.stanford.edu/copyrightrenewals?q=">Stanford Copyright Renewal Database</a>
 <a href="http://copyright.cornell.edu/resources/publicdomain.cfm">Cornell University Public Domain Chart</a>
@@ -1299,12 +1290,12 @@ The <a href="http://tanach.us/">Westminster Leningrad Codex</a>: digital edition
 <a href="https://rightsback.org">Rightsback: a "termination of transfer" for authors to regain their rights over their copyright signed away to a publisher</a>
 <a href="https://open.ed.ac.uk/how-to-guides/how-to-apply-a-cc-license-on-a-publishing-platform-youtubeflickrwordpress/applying-a-cc-licence-on-youtube/">How to share a Youtube video with a Creative Commons Attribution-ShareAlike license</a></p>
 
-&nbsp;
+[su_spacer]
 <h3 style="padding-left: 40px;">Comparative Religious Free-Culture Advocacy</h3>
 <p style="padding-left: 80px;"><a href="http://jewishfreeculture.org">the Jewish Free-Culture Society</a> (parent of the Open Siddur Project)
 <a href="http://web.archive.org/web/20141218125254/http://yogaunity.org/">Open Source Yoga Unity</a>
 <a href="http://oaopenaccess.wordpress.com/">Omega Alpha | Open Access: Advocate for open access publishing in religion and theology</a></p>
-
+[su_spacer]
 <h3 style="padding-left: 40px;">Free-Culture Authorities &amp; Advocacy Orgs</h3>
 <p style="padding-left: 80px;"><a href="http://freeculture.org">The Free Culture Foundation</a>: maintainer of the definition of Freedom
 <a href="http://us.okfn.org">The Open Knowledge Foundation</a>: maintainer of the Open definition
@@ -1313,9 +1304,7 @@ The <a href="http://tanach.us/">Westminster Leningrad Codex</a>: digital edition
 <a href="http://www.fsf.org">The Free Software Foundation</a>
 <a href="https://www.softwarefreedom.org">Software Freedom Law Center</a></p>
 
-</div>
-
-<div class="english" lang="en" style="font-size: 1.2em;">
+[su_spacer]
 <h3 style="padding-left: 40px;">Terminology of Open-source: Definitions and Disambiguation</h3>
 <p style="padding-left: 80px;">"<a href="https://en.wikipedia.org/wiki/Commons">The Commons</a>"</p>
 
@@ -1416,14 +1405,14 @@ The <a href="http://tanach.us/">Westminster Leningrad Codex</a>: digital edition
 		<wp:post_id>6788</wp:post_id>
 		<wp:post_date><![CDATA[2013-04-26 08:44:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2013-04-26 16:44:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-12-29 15:04:04]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-12-30 00:04:04]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-11-06 11:19:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-06 19:19:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[recommended-links]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>55</wp:menu_order>
+		<wp:menu_order>56</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1439,10 +1428,6 @@ The <a href="http://tanach.us/">Westminster Leningrad Codex</a>: digital edition
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpas_done_all]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
-		<wp:meta_value><![CDATA[30]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wtpsw_views]]></wp:meta_key>
@@ -1482,7 +1467,7 @@ The <a href="http://tanach.us/">Westminster Leningrad Codex</a>: digital edition
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[         ]]></wp:meta_value>
+		<wp:meta_value><![CDATA[          ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header_hide]]></wp:meta_key>
@@ -1496,6 +1481,10 @@ The <a href="http://tanach.us/">Westminster Leningrad Codex</a>: digital edition
 		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
 		<wp:meta_value><![CDATA[classic-editor]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ao_post_optimize]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Transliterating Pointed Hebrew Text]]></title>
@@ -1504,7 +1493,7 @@ The <a href="http://tanach.us/">Westminster Leningrad Codex</a>: digital edition
 		<dc:creator><![CDATA[hierophant]]></dc:creator>
 		<guid isPermaLink="false">http://opensiddur.org/?page_id=7944</guid>
 		<description></description>
-		<content:encoded><![CDATA[<div class="english" lang="en" style="font-size: 1.2em;">
+		<content:encoded><![CDATA[<div class="english-sans" lang="en" style="font-size: 1.2em;">
 Part of our project of digitizing Jewish liturgy is to provide a resource to convert the consonants and vowels of Hebrew into any other script. Ultimately this will be a standard feature in the web application we are building to help folk craft their own siddur, machzor, bentscher or other useful prayer book. Our lead developer, Efraim Feinstein, invented this transliteration engine, a milestone in the creation of our <a href="https://github.com/opensiddur/opensiddur">Open Siddur web application</a> (still in development).
 
 The form below provides a demonstration of this open source technology. Try it with some Hebrew now! If you don't have any handy, try transliterating this phrase from the opening of the Amidah:
@@ -1547,14 +1536,14 @@ The source code for this romanizing transliterator is open source, LGPL licensed
 		<wp:post_id>7944</wp:post_id>
 		<wp:post_date><![CDATA[2013-12-19 11:03:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2013-12-19 20:03:16]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-10-07 00:47:20]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-10-07 08:47:20]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-11-06 11:28:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-06 19:28:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[transliterate]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>51</wp:menu_order>
+		<wp:menu_order>52</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1572,16 +1561,20 @@ The source code for this romanizing transliterator is open source, LGPL licensed
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
+		<wp:meta_value><![CDATA[ ]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oh_add_script_footer]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wtpsw_views]]></wp:meta_key>
 		<wp:meta_value><![CDATA[4525]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[9072]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
-		<wp:meta_value><![CDATA[60]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpghs_github_path]]></wp:meta_key>
@@ -1611,6 +1604,18 @@ The source code for this romanizing transliterator is open source, LGPL licensed
 		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
 		<wp:meta_value><![CDATA[classic-editor]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oh_add_script_header_hide]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oh_add_script_footer_hide]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ao_post_optimize]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Hebrew Fonts]]></title>
@@ -1619,9 +1624,12 @@ The source code for this romanizing transliterator is open source, LGPL licensed
 		<dc:creator><![CDATA[hierophant]]></dc:creator>
 		<guid isPermaLink="false">http://opensiddur.org/?page_id=7951</guid>
 		<description></description>
-		<content:encoded><![CDATA[<h3>Open-source Unicode Hebrew Fonts (sorted by diacritic support and style) • פונטים בעברית, יוניקוד וקוד פתוח</h3>
+		<content:encoded><![CDATA[<div class="english-sans" lang="en" style="font-size: 1.2em;">
+<h3>Open-source Unicode Hebrew Fonts (sorted by diacritic support and style) • פונטים בעברית, יוניקוד וקוד פתוח</h3>
 
-Click on a font name below for a download link, and to review a summary of the font's diacritic positioning and character support. See bottom of page for a font comparison chart (<a href="https://archive.org/download/OpenSiddurProjectOpenSourceUnicodeHebrewFontPackCatalogue/Open-Siddur-Project-Hebrew-Font-Pack-comparison-v.1.18.6.pdf">PDF</a>). The font pack is maintained by Aharon Varady, and all the fonts can be downloaded as ZIP file from his github account <a href="https://github.com/aharonium/fonts/archive/master.zip">here</a>. (If you'd like to support the maintenance of this font pack, please consider becoming a <a href="https://patreon.com/aharonium">patron</a>.)
+Click on a font name below for a download link, and to review a summary of the font's diacritic positioning and character support. See bottom of page for a font comparison chart (<a href="https://archive.org/download/OpenSiddurProjectOpenSourceUnicodeHebrewFontPackCatalogue/Open-Siddur-Project-Hebrew-Font-Pack-comparison-v.1.18.6.pdf">PDF</a>). 
+
+The font pack is maintained by Aharon Varady, and all the fonts can be downloaded as ZIP file from his github account <a href="https://github.com/aharonium/fonts/archive/master.zip">here</a>. (If you'd like to support the maintenance of this font pack, please consider becoming a <a href="https://patreon.com/aharonium">patron</a>.)
 
 The tables below are organized according to font support for t'amim and/or niqqud. Click the table headers to sort alphabetically or by type foundry.
 
@@ -1632,13 +1640,13 @@ The tables below are organized according to font support for t'amim and/or niqqu
 
     <li><a href="#just-niqqud">Fonts supporting just niqqud (no t'amim)</a></li>
 
-    <li><a href="#broken-niqqud">Fonts with severely broken niqqud (but otherwise useful)</a></li>
+    <li><a href="#broken-niqqud">Fonts with niqqud positioning issues (unsuitable for document publishing but still useful for the web)</a></li>
 
-    <li><a href="#no-niqqud">Fonts not supporting niqqud</a></li>
+    <li><a href="#no-niqqud">Fonts without any niqqud</a></li>
 </ul>
 
 &nbsp;
-
+</div>
 <hr />
 
 <a id="t'amim-with-niqqud"></a>
@@ -3239,14 +3247,14 @@ If you or your company designed a Hebrew font which you never updated to Unicode
 		<wp:post_id>7951</wp:post_id>
 		<wp:post_date><![CDATA[2013-12-19 11:11:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2013-12-19 20:11:54]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-10-20 12:27:02]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-10-20 20:27:02]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-11-06 11:23:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-06 19:23:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[fonts]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>52</wp:menu_order>
+		<wp:menu_order>53</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3268,20 +3276,12 @@ If you or your company designed a Hebrew font which you never updated to Unicode
 		<wp:meta_value><![CDATA[6063]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
-		<wp:meta_value><![CDATA[30]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_focuskw_text_input]]></wp:meta_key>
 		<wp:meta_value><![CDATA[hebrew fonts]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
 		<wp:meta_value><![CDATA[hebrew fonts]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
-		<wp:meta_value><![CDATA[63]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
@@ -3312,6 +3312,10 @@ If you or your company designed a Hebrew font which you never updated to Unicode
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
+		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
+		<wp:meta_value><![CDATA[classic-editor]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_at_widget]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
@@ -3321,7 +3325,7 @@ If you or your company designed a Hebrew font which you never updated to Unicode
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[                              ]]></wp:meta_value>
+		<wp:meta_value><![CDATA[                               ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header_hide]]></wp:meta_key>
@@ -3330,6 +3334,10 @@ If you or your company designed a Hebrew font which you never updated to Unicode
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_footer_hide]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ao_post_optimize]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3351,7 +3359,7 @@ If you or your company designed a Hebrew font which you never updated to Unicode
 		<wp:post_name><![CDATA[help]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>38</wp:menu_order>
+		<wp:menu_order>39</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3424,16 +3432,14 @@ If you or your company designed a Hebrew font which you never updated to Unicode
 		<dc:creator><![CDATA[hierophant]]></dc:creator>
 		<guid isPermaLink="false">http://opensiddur.org/?page_id=7957</guid>
 		<description></description>
-		<content:encoded><![CDATA[<div class="english" lang="en" style="font-size: 1.2em;">
-<h2>Transcribing Jewish liturgy and Related Work</h2>
-
+		<content:encoded><![CDATA[<div class="english-sans" lang="en" style="font-size: 1.2em;">
 A fundamental value of our project is correctly attributing Jewish liturgy and liturgy related work. Even when the original author of a work is lost to history, we strive to record every adaptation and variation sourced within particular manuscripts and extant published works in the Public Domain.
 
 To do this, our volunteers help produce transcriptions that are easily determined to be authentic witnesses of a given work, whether it is the earliest known version known, or some other variation. We use Wikisource, as the collaborative transcription and proofreading environment for transcribing Public Domain and free-culture licensed texts. Volunteers have begun to transcribe and proofread <a href="https://opensiddur.org/tools/transcribe/">these texts</a>.
 
 If you'd like to begin transcribing a work, let us know in the comments below! We can help you.
 
-&nbsp;
+[su_spacer]
 <h3>How to Get Started Transcribing!</h3>
 
 <ol>
@@ -3461,7 +3467,7 @@ If you'd like to begin transcribing a work, let us know in the comments below! W
 [su_spacer]
 
 <img class="size-full wp-image-7995 alignnone" src="https://opensiddur.org/wp-content/uploads/2013/12/Wikisource-logo-he.png" alt="Wikisource-logo-he" width="123" height="154" />
-
+[su_spacer]
 <h3>Familiarizing Yourself with Wikisource</h3>
 
 <h4>Login and Settings</h4>
@@ -3475,7 +3481,7 @@ If you'd like to begin transcribing a work, let us know in the comments below! W
 </ul>
 
 <a href="https://opensiddur.org/wp-content/uploads/2012/10/ProofreadPage-edit-settings.png"><img class="aligncenter size-full wp-image-5371" title="Wikisource Settings for ProofreadPage Editing" src="https://opensiddur.org/wp-content/uploads/2012/10/ProofreadPage-edit-settings.png" alt="" width="724" height="629" /></a>
-
+[su_spacer]
 <h4>Using the Transcription Interface</h4>
 
 The great things about collaborative transcription and proofreading is that you can correct other's work and others can correct your errors. The key thing is to know how to navigate the Wikisource interface.
@@ -3488,7 +3494,7 @@ The great things about collaborative transcription and proofreading is that you 
 </ol>
 
 <a href="https://opensiddur.org/wp-content/uploads/2012/10/ProofreadPage-editor.png"><img class="aligncenter size-full wp-image-5373" title="Wikisource ProofreadPage Editor" src="https://opensiddur.org/wp-content/uploads/2012/10/ProofreadPage-editor.png" alt="" width="724" height="597" /></a>
-
+[su_spacer]
 <h3>What about OCR for Hebrew</h3>
 
 <a href="https://code.google.com/p/tesseract-ocr/">Tesseract-OCR</a> is an excellent open-source OCR for Hebrew. Combined with a user-interface such as <a href="http://vietocr.sourceforge.net">VietOCR.net</a> it is fairly easy to use.
@@ -3503,14 +3509,14 @@ Another OCR project to keep an eye on is that of <a href="https://github.com/uri
 		<wp:post_id>7957</wp:post_id>
 		<wp:post_date><![CDATA[2013-12-19 11:17:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2013-12-19 20:17:33]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-01-14 01:48:07]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-01-14 10:48:07]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-11-06 10:59:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-06 18:59:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[transcribe]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>47</wp:menu_order>
+		<wp:menu_order>48</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3557,7 +3563,7 @@ Another OCR project to keep an eye on is that of <a href="https://github.com/uri
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[    ]]></wp:meta_value>
+		<wp:meta_value><![CDATA[     ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_footer]]></wp:meta_key>
@@ -3572,8 +3578,12 @@ Another OCR project to keep an eye on is that of <a href="https://github.com/uri
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
-		<wp:meta_value><![CDATA[60]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
+		<wp:meta_value><![CDATA[classic-editor]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ao_post_optimize]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3583,12 +3593,12 @@ Another OCR project to keep an eye on is that of <a href="https://github.com/uri
 		<dc:creator><![CDATA[hierophant]]></dc:creator>
 		<guid isPermaLink="false">http://opensiddur.org/?page_id=7963</guid>
 		<description></description>
-		<content:encoded><![CDATA[<div class="english" lang="en" style="font-size: 1.2em;">
+		<content:encoded><![CDATA[<div class="english-sans" lang="en" style="font-size: 1.2em;">
 You don't need to buy a new keyboard with Hebrew keys in order to type in Hebrew. Also, one doesn't need to purchase any expensive software to type in Hebrew with all of its special vowels, cantillation marks, and punctuation. All you need is to install a Hebrew keyboard layout and a set of Hebrew fonts supporting all of those diacritical marks.
 
 It's important to note that not all Hebrew keyboard layouts support all the diacritical marks available in the Unicode Hebrew code range. This is the case with the the "SI-1452" layout, the default Hebrew keyboard layout that comes with many systems (including Windows and GNU/Linux/X11). The instructions presented below refer to the layout designed by John Hudson known as the "Biblical Hebrew (Tiro) Keyboard."
 
-<h4>Install Unicode Hebrew Fonts</h4>
+<h3>Install Unicode Hebrew Fonts</h3>
 
 Before you setup your keyboard layout for Hebrew, make certain to install a font that supports the full Biblical Hebrew Unicode vowel set (Unicode 4.1 or above). Ezra SIL SR, Cardo, and Taamey Frank CLM are excellent fonts in the <a href="https://opensiddur.org/tools/fonts">Open Siddur font pack</a> to install. We've provided a special font pack containing perhaps the largest collection of open source licensed Unicode Hebrew fonts that exist. You can download that <a href="https://opensiddur.org/tools/fonts/">here</a>.  If you'd like to install all the fonts in the font pack at once, follow these instructions:
 <ol>
@@ -3598,26 +3608,26 @@ type *.ttf (asterisk dot ttf) as your search keyword.</li>
 To select all of them at once use CTRL-A. (Alternately you can click edit on the windows toolbar and select, "select all".)</li>
     <li>Then right-click on any of the highlighted fonts and select "install font". (Make sure to right-click rather than left-click, otherwise you won't see the install font option and you'll have to select them all again using CTRL-A.)</li>
 </ol>
+[su_spacer]
 
 
-
-<h4>Install a Hebrew Keyboard Layout</h4>
+<h3>Install a Hebrew Keyboard Layout</h3>
 
 Within the <a href="https://opensiddur.org/tools/fonts">font pack</a> are keyboard layouts suitable for Microsoft Windows and Apple OS X. Linux users can add this keyboard simply by going to their Keyboard settings and following the instructions at the bottom of this post.  
 
 Installing the keyboard layout in Windows is as simple as running the install file. On OS X, <a href="http://www.sbl-site.org/Fonts/BiblicalHebrewKeyboardsInstallerOSX.zip">keyboard layout</a> and install. (<a href="http://www.sbl-site.org/educational/biblicalfonts_FAQ_OSX.aspx">check here for support</a>.
 
 After the install routine completes, open up a capable text editor <a href="https://opensiddur.org/tools/editing-layout/">such as LibreOffice</a> and try out your Hebrew keyboard. (pro-tip: In Windows, you can toggle between your default language and Hebrew by pressing ALT-SHIFT.) To learn the Hebrew keyboard layout, take note of the images at the bottom of this page. 
-
-<h4>Typing Tips</h4>
+[su_spacer]
+<h3>Typing Tips</h3>
 
 Once you start typing, you should know the following rule: when typing a letter containing a dagesh and a vowel or some other diacritic, first type the letter, then the dagesh, then the additional diacritical mark or marks. 
 
 when you notice you're punctuation misaligned and misplaced, you should know why that's happening and how to fix it. Text editors need to be told to display text as RTL (right-to-left) text. With your Hebrew keyboard layout selected, you can always place an invisible mark at the end of your paragraph identifying your text as RTL. To do so, use the "End" key to move to the end of the line, and press ALT+CTRL 9. This sets an invisble RTL code at the end of the line, so periods and other punctuation should now display correctly.
 
 We recommend <a href="https://opensiddur.org/2012/04/how-to-work-with-hebrew-in-libreoffice/">LibreOffice</a> as a cross-platform and open source Unicode text editor. Follow our <a href="https://opensiddur.org/2012/04/how-to-work-with-hebrew-in-libreoffice/">setup guide</a> for LibreOffice. 
-
-<h4>Hebrew Keyboard Layout Levels</h4>
+[su_spacer]
+<h3>Hebrew Keyboard Layout Levels</h3>
 
 There are four levels to the Hebrew keyboard that you can access. On-screen keyboard programs are useful to see the different characters available at each level of your keyboard. You can see the characters available to type if you use an on-screen keyboard as you press SHIFT or ALT. On-screen keyboards come shipped with your Operating System:
 
@@ -3639,10 +3649,8 @@ Here is the keyboard mapping for the four levels of the keyboard:
 
 [caption id="attachment_5162" align="aligncenter" width="819"]<a href="https://opensiddur.org/wp-content/uploads/2012/07/Pages-from-Biblical-Hebrew-Tiro-Manual_Page_4.jpg"><img class=" wp-image-5162  " title="ALT-CTRL SHIFT (Level 4) Biblical Hebrew (Tiro) Keyboard Layout" src="https://opensiddur.org/wp-content/uploads/2012/07/Pages-from-Biblical-Hebrew-Tiro-Manual_Page_4-1024x769.jpg" alt="" width="819" height="615" /></a> Image: ALT-CTRL SHIFT (Level 4) Biblical Hebrew (Tiro) Keyboard Layout from the Biblical Hebrew (Tiro) Keyboard Manual v.1.5 by John Hudson (Copyright 2007)[/caption]
 
-&nbsp;
-
-&nbsp;
-<h4>Instructions for Installing a Hebrew Keyboard Layout on GNU/Linux</h4>
+[su_spacer]
+<h3>Instructions for Installing a Hebrew Keyboard Layout on GNU/Linux</h3>
 <strong>KDE</strong>
 
 The default X11 distribution comes with a Biblical Hebrew keyboard layout. KDE (versions 3 and 4) have a keyboard switching applet. To activate the layout:
@@ -3674,14 +3682,14 @@ Press "Layout options"</li>
 		<wp:post_id>7963</wp:post_id>
 		<wp:post_date><![CDATA[2013-12-19 11:24:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2013-12-19 20:24:14]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-01-08 11:22:36]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-01-08 20:22:36]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-11-06 10:56:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-06 18:56:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[typing]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>37</wp:menu_order>
+		<wp:menu_order>38</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3707,10 +3715,6 @@ Press "Layout options"</li>
 		<wp:meta_value><![CDATA[5164]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
-		<wp:meta_value><![CDATA[90]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpghs_github_path]]></wp:meta_key>
 		<wp:meta_value><![CDATA[_pages/typing.md]]></wp:meta_value>
 		</wp:postmeta>
@@ -3734,6 +3738,30 @@ Press "Layout options"</li>
 		<wp:meta_key><![CDATA[_at_widget]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
+		<wp:meta_value><![CDATA[classic-editor]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
+		<wp:meta_value><![CDATA[  ]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oh_add_script_footer]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oh_add_script_header_hide]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oh_add_script_footer_hide]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ao_post_optimize]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Editing & Layout of Text]]></title>
@@ -3742,9 +3770,8 @@ Press "Layout options"</li>
 		<dc:creator><![CDATA[hierophant]]></dc:creator>
 		<guid isPermaLink="false">http://opensiddur.org/?page_id=7968</guid>
 		<description></description>
-		<content:encoded><![CDATA[&nbsp;
-
-<div class="english" lang="en" style="font-size: 1.2em;">
+		<content:encoded><![CDATA[
+<div class="english-sans" lang="en" style="font-size: 1.2em;">
 [caption id="attachment_7637" align="alignright" width="131"]<a href="/help/fonts/"><img src="https://opensiddur.org/wp-content/uploads/2013/08/bet-with-etnachta.png" alt="" width="131" height="131" class="size-full wp-image-7637" /></a> Open-source Unicode Hebrew fonts[/caption]<h3>Prerequisites</h3>
 
 Before editing Hebrew text, make sure you have installed on your Operating System some attractive Unicode Hebrew fonts that support the full range of Hebrew text with diacritical marks (t'amim and niqudot). 
@@ -3765,7 +3792,7 @@ For Mac OS users, we've heard good things about <a href="https://coteditor.com">
 
 If you use GNU/Linux, you might already have a favorite editor. <a href="/contact/">Let us know</a> what's worked best for you.
 
-&nbsp;
+[su_spacer]
 
 [caption id="attachment_4658" align="alignright" width="167"]<a href="https://opensiddur.org/wp-content/uploads/2012/04/Libreoffice_icon_mix.png"><img src="https://opensiddur.org/wp-content/uploads/2012/04/Libreoffice_icon_mix.png" alt="" width="167" height="256" class="size-full wp-image-4658" /></a> LibreOffice logo[/caption]<h3>Formatting Hebrew Text in a Word Processor</h3>
 
@@ -3775,7 +3802,7 @@ LibreOffice is a free/libre office suite containing a powerful and user-friendly
 
 Unlike many other text-based applications LibreOffice natively supports open standards and document formats. That way, what you type today should still be readable in the digital world twenty or a hundred years from now. Also, unlike many other text editors it correctly positions <em>niqqud</em>/vowels and <em>t'amim</em>/cantillation when using Hebrew fonts that correctly support the full range of Hebrew diacritics.
 
-&nbsp;
+[su_spacer]
 
 <h4>Configuring LibreOffice for Editing Hebrew Text</h4>
 
@@ -3871,14 +3898,14 @@ For a <strong>Keyboard Shortcut</strong> to change the language orientation to 
 		<wp:post_id>7968</wp:post_id>
 		<wp:post_date><![CDATA[2013-12-19 11:26:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2013-12-19 20:26:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-22 11:12:18]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-22 20:12:18]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-11-06 11:02:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-06 19:02:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[editing-layout]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>49</wp:menu_order>
+		<wp:menu_order>50</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3924,8 +3951,8 @@ For a <strong>Keyboard Shortcut</strong> to change the language orientation to 
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
-		<wp:meta_value><![CDATA[60]]></wp:meta_value>
+		<wp:meta_key><![CDATA[ao_post_optimize]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -3933,7 +3960,7 @@ For a <strong>Keyboard Shortcut</strong> to change the language orientation to 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[                ]]></wp:meta_value>
+		<wp:meta_value><![CDATA[                 ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_footer]]></wp:meta_key>
@@ -3999,7 +4026,7 @@ We maintain physical, electronic and procedural safeguards intended to protect a
 		<wp:post_name><![CDATA[privacy-policy]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>11058</wp:post_parent>
-		<wp:menu_order>36</wp:menu_order>
+		<wp:menu_order>37</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -4231,7 +4258,7 @@ We appreciate your taking the time to read these Terms of Use, and we are very h
 		<wp:post_name><![CDATA[terms-of-use]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>11058</wp:post_parent>
-		<wp:menu_order>32</wp:menu_order>
+		<wp:menu_order>33</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -4448,7 +4475,7 @@ Only DMCA notices and notices relating to complaints in connection with infringe
 		<wp:post_name><![CDATA[copyright-policy]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>11058</wp:post_parent>
-		<wp:menu_order>27</wp:menu_order>
+		<wp:menu_order>28</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -4561,7 +4588,7 @@ Connect with us on <a href="http://facebook.com/opensiddur">Facebook</a>, <a hre
 		<wp:post_name><![CDATA[home]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>7</wp:menu_order>
+		<wp:menu_order>8</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -4664,6 +4691,7 @@ Connect with us on <a href="http://facebook.com/opensiddur">Facebook</a>, <a hre
 		<description></description>
 		<content:encoded><![CDATA[[caption id="attachment_11084" align="alignright" width="169"]<a href="https://opensiddur.org/wp-content/uploads/2014/06/Aharon-Varady-Digitization-Station-1.jpg"><img class="size-medium wp-image-11084" src="https://opensiddur.org/wp-content/uploads/2014/06/Aharon-Varady-Digitization-Station-1-169x300.jpg" alt="Digitization using cell phone camera, lamp, and snake clamp with universal cell phone mount (credit: Aharon Varady, license: CC BY-SA)" width="169" height="300" /></a> Digitization using cell phone camera, lamp, and snake clamp with universal cell phone mount (credit: Aharon Varady, license: CC BY-SA)[/caption]
 
+<div class="english-sans" style="font-size: 1.2em;">
 All digital text in the Open Siddur Project database derives from a document in a digital or analog format.
 
 For works preserved in analog formats (printed on paper, handwritten on scrolls or papyrus, inscribed in stone, impressed in metal, etc.) we must first image the document in which that work appears. Imaging is the process of scanning or taking digital photographs of that work.
@@ -4681,8 +4709,8 @@ Imaging is critical in providing a source image by which collaborative transcrip
 
 <p style="padding-left: 30px;">Sometimes, the content desired makes up only shot segments, sections, or pages of the books. In such circumstances,  <b>the title page and copyright page must still be imaged</b>.</p>
 
-[caption id="attachment_11085" align="alignright" width="300"]<a href="https://opensiddur.org/wp-content/uploads/2014/06/Aharon-Varady-Digitization-Station-2.jpg"><img class="size-medium wp-image-11085" src="https://opensiddur.org/wp-content/uploads/2014/06/Aharon-Varady-Digitization-Station-2-300x169.jpg" alt="Digitization using cell phone camera, lamp, and snake clamp with universal cell phone mount. Glass from a picture frame laid upon the book keeps it flat enough for a satisfactory OCR. (credit: Aharon Varady, license: CC BY-SA)" width="300" height="169" /></a> Digitization using cell phone camera, lamp, and snake clamp with universal cell phone mount. Glass from a picture frame laid upon the book keeps it flat enough for a satisfactory OCR. (credit: Aharon Varady, license: CC BY-SA)[/caption]
-
+[caption id="attachment_11085" align="alignleft" width="300"]<a href="https://opensiddur.org/wp-content/uploads/2014/06/Aharon-Varady-Digitization-Station-2.jpg"><img class="size-medium wp-image-11085" src="https://opensiddur.org/wp-content/uploads/2014/06/Aharon-Varady-Digitization-Station-2-300x169.jpg" alt="Digitization using cell phone camera, lamp, and snake clamp with universal cell phone mount. Glass from a picture frame laid upon the book keeps it flat enough for a satisfactory OCR. (credit: Aharon Varady, license: CC BY-SA)" width="300" height="169" /></a> Digitization using cell phone camera, lamp, and snake clamp with universal cell phone mount. Glass from a picture frame laid upon the book keeps it flat enough for a satisfactory OCR. (credit: Aharon Varady, license: CC BY-SA)[/caption]
+[su_spacer]
 <h3>Image Format</h3>
 
 <p style="padding-left: 30px;">The Open Siddur Project needs scanned images of text that can be transcribed easily. With too low a resolution and it is nearly impossible to make out the many diacritical marks that form vowels and other significant distinctions in words and letters.</p>
@@ -4704,7 +4732,7 @@ Imaging is critical in providing a source image by which collaborative transcrip
 <h3>Image Processing</h3>
 
 <p style="padding-left: 30px;"><a href="http://scantailor.org/downloads/">ScanTailor</a> is open-source software that processes your images into page images suitable for compiling into a reasonably sized PDF that we can upload to the Internet Archive. If you'd prefer not to do this step. That is fine. The main thing is to take high quality images of all the pages of the book or manuscript.</p>
-
+[su_spacer]
 <h3>Temporary Storage for Uploading Images</h3>
 
 <p style="padding-left: 30px;">After you've imaged a book, you're left with hundreds of image files. The size of an entire collection can easily be more than 250mb -- far larger than can be distributed via email. Free services like <a class="external text" href="http://dropbox.com" rel="nofollow">dropbox.com</a> offer temporary storage and dissemination of compressed batches of scanned images.</p>
@@ -4716,22 +4744,23 @@ Imaging is critical in providing a source image by which collaborative transcrip
     <li>upload it to an account at dropbox.com, Google Drive, box.net (or other similar service), and</li>
     <li><a href="https://opensiddur.org/contact/">contact us</a> with a link where we can download the file.</li>
 </ol>
-
+[su_spacer]
 <h3>Credit for Imaging</h3>
 
-<p style="padding-left: 30px;">The Open Siddur Project will credit all contributors of high quality imaging for their scanning or photography.</p>]]></content:encoded>
+<p style="padding-left: 30px;">The Open Siddur Project will credit all contributors of high quality imaging for their scanning or photography.</p>
+</div>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>9079</wp:post_id>
 		<wp:post_date><![CDATA[2014-06-14 10:43:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2014-06-14 18:43:33]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-12-05 20:03:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-12-06 05:03:08]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-11-06 10:55:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-06 18:55:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[document-manuscript-imaging]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>26</wp:menu_order>
+		<wp:menu_order>27</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -4747,6 +4776,10 @@ Imaging is critical in providing a source image by which collaborative transcrip
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[131]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
+		<wp:meta_value><![CDATA[classic-editor]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wtpsw_views]]></wp:meta_key>
@@ -4774,7 +4807,7 @@ Imaging is critical in providing a source image by which collaborative transcrip
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[   ]]></wp:meta_value>
+		<wp:meta_value><![CDATA[     ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_footer]]></wp:meta_key>
@@ -4793,12 +4826,12 @@ Imaging is critical in providing a source image by which collaborative transcrip
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
-		<wp:meta_value><![CDATA[30]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[11085]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ao_post_optimize]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4808,12 +4841,12 @@ Imaging is critical in providing a source image by which collaborative transcrip
 		<dc:creator><![CDATA[hierophant]]></dc:creator>
 		<guid isPermaLink="false">http://opensiddur.org/?page_id=10374</guid>
 		<description></description>
-		<content:encoded><![CDATA[<div class="english" lang="en">
+		<content:encoded><![CDATA[<div class="english-sans" lang="en" style="font-size: 1.2em;">
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://aharon.varady.net/browser-test/"]
 
 <span style="font-size: 14pt;">Click <a href="">here</a> for a comprehensive look into how Hebrew is being rendered in your web browser.
-
+[su_spacer]
 <h3>Web Browsers Supporting the Correct Display of Hebrew with Diacritical Marks (T'amim and Niqudot)</h3>
 
 <span style="font-size: 14pt;">This website uses a standard technique for displaying custom digital fonts in your web browser. If your web browser does not support CSS @font-face or the Unicode (UTF-8) encoding schema, the typography will rely on the default settings in your browser or terminal and operating system.</span>
@@ -4825,7 +4858,7 @@ Imaging is critical in providing a source image by which collaborative transcrip
     <li><span style="font-size: 14pt;">For correct presentation in text-based (CLI or terminal) web browsers, we recommend using the open-source <a href="http://w3m.sourceforge.net/">w3m</a> with <a href="https://sourceforge.net/projects/mlterm/">mlterm</a>.</span></li>
 </ul>
 
-
+[su_spacer]
 <h3>Digital Fonts Supporting the Full Range of Hebrew Diacritics</h3>
 
 <span style="font-size: 14pt;">Click here to download the <a href="https://opensiddur.org/help/fonts/">Open Siddur Unicode Hebrew Font Pack</a>.</span>
@@ -4835,14 +4868,14 @@ Imaging is critical in providing a source image by which collaborative transcrip
 		<wp:post_id>10374</wp:post_id>
 		<wp:post_date><![CDATA[2015-01-29 13:09:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-01-29 22:09:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-12-03 09:17:41]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-12-03 18:17:41]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-11-06 11:20:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-06 19:20:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[hebrew-support-in-your-web-browser]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>54</wp:menu_order>
+		<wp:menu_order>55</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -4858,6 +4891,10 @@ Imaging is critical in providing a source image by which collaborative transcrip
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[131]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
+		<wp:meta_value><![CDATA[classic-editor]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wtpsw_views]]></wp:meta_key>
@@ -4888,12 +4925,8 @@ Imaging is critical in providing a source image by which collaborative transcrip
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
-		<wp:meta_value><![CDATA[30]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[   ]]></wp:meta_value>
+		<wp:meta_value><![CDATA[    ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_footer]]></wp:meta_key>
@@ -4906,6 +4939,10 @@ Imaging is critical in providing a source image by which collaborative transcrip
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_footer_hide]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ao_post_optimize]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4933,7 +4970,7 @@ To join this community of contributors, please <a href="/contribute/upload/">sha
 		<wp:post_name><![CDATA[contributors]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>281</wp:post_parent>
-		<wp:menu_order>58</wp:menu_order>
+		<wp:menu_order>59</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -5038,7 +5075,7 @@ To join this community of contributors, please <a href="/contribute/upload/">sha
 		<wp:post_name><![CDATA[policies]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>17414</wp:post_parent>
-		<wp:menu_order>46</wp:menu_order>
+		<wp:menu_order>47</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -5169,7 +5206,7 @@ Text on this page has been amended from <a href="http://creativecommons.org.il/i
 		<wp:post_name><![CDATA[%d7%97%d7%9c%d7%a7-%d7%9e%d7%94%d7%96%d7%9b%d7%95%d7%99%d7%95%d7%aa-%d7%a9%d7%9e%d7%95%d7%a8%d7%95%d7%aa]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>11058</wp:post_parent>
-		<wp:menu_order>43</wp:menu_order>
+		<wp:menu_order>44</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -5242,7 +5279,7 @@ Text on this page has been amended from <a href="http://creativecommons.org.il/i
 		<dc:creator><![CDATA[hierophant]]></dc:creator>
 		<guid isPermaLink="false">http://opensiddur.org/?page_id=14234</guid>
 		<description></description>
-		<content:encoded><![CDATA[<div class="english" lang="en" style="font-size: 1.2em;">
+		<content:encoded><![CDATA[<div class="english-sans" lang="en" style="font-size: 1.2em;">
 
 In every case, we defer to the contributor's preferred style in contributing their work, whether it is an original work, or a translation or transcription of an existing work. However, we do suggest the following style as a baseline standard for all contributed works.
 
@@ -5340,14 +5377,14 @@ Find below, a chart for Hebrew consonants and vowels with their corresponding le
 		<wp:post_id>14234</wp:post_id>
 		<wp:post_date><![CDATA[2016-08-07 13:37:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-08-07 21:37:59]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-06-29 16:16:20]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-06-30 00:16:20]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-11-06 11:07:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-06 19:07:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[style-guide]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>281</wp:post_parent>
-		<wp:menu_order>53</wp:menu_order>
+		<wp:menu_order>54</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -5363,10 +5400,6 @@ Find below, a chart for Hebrew consonants and vowels with their corresponding le
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpas_done_all]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
-		<wp:meta_value><![CDATA[90]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wtpsw_views]]></wp:meta_key>
@@ -5398,7 +5431,7 @@ Find below, a chart for Hebrew consonants and vowels with their corresponding le
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[                                                 ]]></wp:meta_value>
+		<wp:meta_value><![CDATA[                                                  ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_footer]]></wp:meta_key>
@@ -5420,6 +5453,10 @@ Find below, a chart for Hebrew consonants and vowels with their corresponding le
 		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
 		<wp:meta_value><![CDATA[classic-editor]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ao_post_optimize]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Pointing Hebrew Text: Basic Rules]]></title>
@@ -5428,574 +5465,710 @@ Find below, a chart for Hebrew consonants and vowels with their corresponding le
 		<dc:creator><![CDATA[aharon.varady]]></dc:creator>
 		<guid isPermaLink="false">http://opensiddur.org/?page_id=16756</guid>
 		<description></description>
-		<content:encoded><![CDATA[<div class="english" lang="en">
-<h2>Basic Rules in the System of Pointing by Avraham Even-Shoshan from <em>HaMillon Heḥadash</em></h2>
-&nbsp;
-<h3>The Problem of Pointing (§14)</h3>
-The pointing that is used in our publications is the Tiberian[foot]The Massoretic Recension (commonly abbreviated, MT) is the Hebrew text of the T’nakh as generally used in Jewish Circles. It is also widely used in translations of the T’nakh, by Jews and non-Jews alike. It was primarily developed, copied, edited and distributed by a group of Jewish scribes known as the Massoretes, active between the Seventh and Tenth Centuries, C.E., working mainly in Tiberias. Hence the system they devised is referred to as the Tiberian system. The Massoretes compiled a system of pronunciation and grammatical guides in the form of diacritical markings on the consonants of the Biblical text in an attempt to fix the pronunciation, paragraph and verse divisions and cant illation of the T’nakh for the worldwide Jewish community. Though the consonants differ little from the text generally accepted in the early Second Century, it has numerous differences of both minor and major significance when compared to extant Fourth Century versions of the Septuagint, a translation into Greek (around 150, B.C.E.). [The division into chapters was created later, in the Middle Ages, when Jewish-Christian disputations required a common frame of reference.][/foot] pointing, that was instituted by the Naqdanim (“pointers”) in accordance with the mode of pronunciation that was current in their day. One can readily hypothesize that the originators of pointing had a clear distinction between the pronunciation of a short Roman “a” and a long Roman “a,” and for this reason, they devised the pataḥ and qamats symbols. Similarly, they, no doubt, distinguished between a long Roman “e” and a short Roman “e” – and fashioned two symbols for them, the tsereh and the segol. On the basis of this precise distinction between syllables, the entire structure of pointing was established, in all of its rich detail, and this serves as the basis of the Hebrew language to this day.
+		<content:encoded><![CDATA[From "Basic Rules in the System of Pointing [§14-§26]" by Avraham Even-Shoshan in <em>HaMillon Heḥadash</em>. (English translation by Leonard S. Berkowitz.)
 
-If the pronunciation of Hebrew that we use today (“the S’phardi Pronunciation”) had preserved the distinctions in the articulation of all of the vowels, we would not experience any difficulty in understanding the system of pointing in practice; and for Hebrew speakers (correct and exact Hebrew!) there would be no uncertainty about when to employ a qamats and when a pataḥ, and where to place a tsereh and where a segol or a sh'va.
+<div class="english-sans" lang="en" style="font-size: 1.2em;">
+[su_spacer]
+<h3>(§14) The Problem of Pointing</h3>
+The pointing that is used in our publications is the Tiberian[foot]The Masoretic Recension (commonly abbreviated, MT) is the Hebrew text of the TaNaKh as generally used in Jewish Circles. It is also widely used in translations of the TaNaKh, by Jews and non-Jews alike. It was primarily developed, copied, edited and distributed by a group of Jewish scribes known as the Masoretes, active between the Seventh and Tenth Centuries, C.E., working mainly in Tiberias. Hence the system they devised is referred to as the Tiberian system. The Masoretes compiled a system of pronunciation and grammatical guides in the form of diacritical markings on the consonants of the Biblical text in an attempt to fix the pronunciation, paragraph and verse divisions and cantillation of the TaNaKh for the worldwide Jewish community. Though the consonants differ little from the text generally accepted in the early 2nd Century, it has numerous differences of both minor and major significance when compared to extant Fourth Century versions of the Septuagint, a translation into Greek (around 150, B.C.E.). [The division into chapters was created later, in the Middle Ages, when Jewish-Christian disputations required a common frame of reference.][/foot] pointing, that was instituted by the Naqdanim (“pointers”) in accordance with the mode of pronunciation that was current in their day. One can readily hypothesize that the originators of pointing had a clear distinction between the pronunciation of a short Roman “a” and a long Roman “a,” and for this reason, they devised the pataḥ and qamats symbols. Similarly, they, no doubt, distinguished between a long Roman “e” and a short Roman “e” – and fashioned two symbols for them, the tsereh and the segol. On the basis of this precise distinction between syllables, the entire structure of pointing was established, in all of its rich detail, and this serves as the basis of the Hebrew language to this day.
 
-Indeed, for speakers of Hebrew in the “Ashkenazi” or “Yemenite” pronunciation in which the differences in the articulation of all of the vowels have been preserved, it is quite easy to learn the practice of the system of pointing. This is not the case for us, speakers of Hebrew in our “S’phardi” pronunciation, in which there is no difference between the articulation of a qamats and a pataḥ (which are both pronounced like a short Roman “a”) and similarly between a short qamats and a ḥolam (which are both pronounced like a Roman “o” and almost none between a tsereh and a segol (both being articulated approximately like a short Roman “e”).
+If the pronunciation of Hebrew that we use today (“the Səpharadi Pronunciation”) had preserved the distinctions in the articulation of all of the vowels, we would not experience any difficulty in understanding the system of pointing in practice; and for Hebrew speakers (correct and exact Hebrew!) there would be no uncertainty about when to employ a qamats and when a pataḥ, and where to place a tsereh and where a segol or a shəva.
 
-A person who wishes to point accurately according to our “S’phardi” official pronunciation must know several basic rules in the System of Pointing, that, even if there is not sufficient information to resolve all of the issues of pointing, still there is enough to spare the pointer from making gross errors.
+Indeed, for speakers of Hebrew in the “Ashkenazi” or “Yemenite” pronunciation in which the differences in the articulation of all of the vowels have been preserved, it is quite easy to learn the practice of the system of pointing. This is not the case for us, speakers of Hebrew in our “Səpharadi” pronunciation, in which there is no difference between the articulation of a qamats and a pataḥ (which are both pronounced like a short Roman “a”) and similarly between a short qamats and a ḥolam (which are both pronounced like a Roman “o” and almost none between a tsereh and a segol (both being articulated approximately like a short Roman “e”).
+
+A person who wishes to point accurately according to our “Səpharadi” official pronunciation must know several basic rules in the System of Pointing, that, even if there is not sufficient information to resolve all of the issues of pointing, still there is enough to spare the pointer from making gross errors.
 
 From the abundance of rules and sub-rules and “exceptions to these rules” that are part of traditional Hebrew grammar, we have provided below a short selection of the basic rules from which there is sufficient information to assist in dealing with doubts and problems in matters of practical pointing.
-<h3>The Rule of Syllables and Vowels (§15)</h3>
-<table align="center">
-<tbody>
-<tr>
-<td><strong>Every open syllable that is not accented – its vowel is always long.</strong>[foot]That is not followed by a silent sh'va or a dagesh forte.[/foot]
 
-<strong>Every closed syllable that is not accented – is vowel is always short.</strong>[foot]That is followed by a silent sh'va or a dagesh forte.[/foot]</td>
-<td></td>
-</tr>
-</tbody>
-</table>
+[su_spacer]
+<h3>(§15) The Rule of Syllables and Vowels</h3>
+
+<table style="margin-left: auto;margin-right: auto;" id="table1"><tr><td>
+<strong>Every open syllable that is not accented – its vowel is always long.</strong>[foot]That is not followed by a silent shəva or a dagesh forte.[/foot]
+
+<strong>Every closed syllable that is not accented – is vowel is always short.</strong>[foot]That is followed by a silent shəva or a dagesh forte.[/foot]
+</td></tr></table>
+
 <strong>Note:</strong> This basic rule, that we have called “The Rule of Syllables and Vowels” applies only, and without exception, in the case of an unaccented syllable!
 
 If the syllable is accented, it is possible that the opposite of the rule will apply.
-<table align="center">
-<tbody>
-<tr>
-<td><strong>An open, accented syllable, will likely have a short vowel.</strong>
 
-<strong>A closed, accented syllable will likely have a long vowel.</strong></td>
-</tr>
-</tbody>
-</table>
+<table style="margin-left: auto;margin-right: auto;" id="table1"><tr><td>
+<strong>An open, accented syllable, will likely have a short vowel.</strong>
+
+<strong>A closed, accented syllable will likely have a long vowel.</strong>
+</td></tr></table>
+
 Examples:
+
 <p style="padding-left: 30px;">a)
-<div class="hebrew" lang="he">
-מַלְ-כָּה,
-חֶפְ-צִי,
-רִבְ-קָה,
-אָמְ-נָה,
-אֻרְ-וָה
-</div>
+<div style="text-align: left; padding-left: 50px;">
+<div class="hebrew" lang="he" style="display: inline-block; text-align: right; font-size: 1.5em;">
+מַלְ–כָּה,
+חֶפְ–צִי,
+רִבְ–קָה,
+אָמְ–נָה,
+אֻרְ–וָה
+</div></div>
 </p>
-<p style="padding-left: 30px;">(In each of these, the first syllable is closed by a silent sh'va, and it is not accented; thus the vowel is short! The second syllable is open and its vowel is long!)</p>
+
+
+<p style="padding-left: 30px;">(In each of these, the first syllable is closed by a silent shəva, and it is not accented; thus the vowel is short! The second syllable is open and its vowel is long!)</p>
+
+
 <p style="padding-left: 30px;">b)
-<div class="hebrew" lang="he">
-כַּ-מָּה,
-סִ-בָּה,
-שֶׁ-מֶּשׁ,
-רָ-נִּי,
-גִּ-לָּה
-</div>
+<div style="text-align: left; padding-left: 50px;">
+<div class="hebrew" lang="he" style="display: inline-block; text-align: right; font-size: 1.5em;">
+כַּ–מָּה,
+סִ–בָּה,
+שֶׁ–מֶּשׁ,
+רָ–נִּי,
+גִּ–לָּה
+</div></div>
 </p>
+
+
 <p style="padding-left: 30px;">(in each of these, the first syllable is closed by the dagesh forte in the consonant following and it is unaccented; thus the vowel is short! The second syllable is open and its vowel is long.)</p>
+
+
 <p style="padding-left: 30px;">c)
-<div class="hebrew" lang="he">
-מַ-יִם,
-שֶׁ-מֶשׁ,
-יִ-פֶן
-</div>
+<div style="text-align: left; padding-left: 50px;">
+<div class="hebrew" lang="he" style="display: inline-block; text-align: right; font-size: 1.5em;">
+מַ–יִם,
+שֶׁ–מֶשׁ,
+יִ–פֶן
+</div></div>
 </p>
-<p style="padding-left: 30px;">(in each of these, the first syllable is open and accented; thus, the vowel is likely to be short! The second syllable is closed in accordance with the rule.)</p>
+
+
+<p style="padding-left: 30px;">(in each of these, the first syllable is open and accented; thus, the vowel is likely to be short! The second syllable is closed in accordance with the rule.</p>
+
+
 <p style="padding-left: 30px;">d)
-<div class="hebrew" lang="he">
-שָׁ-מָּה,
-הֵ-נָּה,
-סֹ-בּוּ
-</div>
+<div style="text-align: left; padding-left: 50px;">
+<div class="hebrew" lang="he" style="display: inline-block; text-align: right; font-size: 1.5em;">
+שָׁ–מָּה,
+הֵ–נָּה,
+סֹ–בּוּ
+</div></div>
 </p>
+
+
 <p style="padding-left: 30px;">(in all three of these the first syllable is closed by the dagesh forte in the consonant following) and accented, thus the vowel is likely to be long; the second syllable is open in accordance with the rule.)</p>
+
+
 <p style="padding-left: 30px;">e)
-<div class="hebrew" lang="he">
-כַּ-דּוּר,
-שֻׁלְ-חָן,
-עָ-שִׁיר
-</div>
+<div style="text-align: left; padding-left: 50px;">
+<div class="hebrew" lang="he" style="display: inline-block; text-align: right; font-size: 1.5em;">
+כַּ–דּוּר,
+שֻׁלְ–חָן,
+עָ–שִׁיר
+</div></div>
 </p>
+
+
 <p style="padding-left: 30px;">(the first syllable in all three of these follows the rule; in the first two, the vowels are short in closed syllables. In the third, there is a long vowel in an open syllable! The second syllable in all three is closed while there is a long vowel – because it is accented!)</p>
+
 The rule of syllables and vowels is, as stated, one of the basic rules in the system of pointing. Most of the other rules are nothing but implications that arise from it. If we knew with certainty the nature of the syllables in every word, whether they are open or closed, we would not have any difficulty in determining the correct pointing of the word.
 
 In order to simplify the determination of the nature of every syllable, we can avail ourselves of the following additional rules.
 
 <hr />
 
-<h3>The Indicators of Silent and Vocalized Sh’va`im (§16)</h3>
-The recognition of the type sh'va that occurs in great abundance in the vocabulary of the Hebrew language can be of help in determining the nature of the syllables and various issues with pointing.
+[su_spacer]
+<h3>(§16) The Indicators of Silent and Vocalized shəva`im</h3>
+The recognition of the type shəva that occurs in great abundance in the vocabulary of the Hebrew language can be of help in determining the nature of the syllables and various issues with pointing.
 
-The following are the four indicators of the type of sh'va:
-<p style="padding-left: 30px;">a) A sh'va at the start of a word is a vocalized sh'va; a sh'va at the end of a word is a silent sh'va (this rule is implied by the definition itself of a vocalized sh'va and a silent one!) For example: 
-<div class="hebrew" lang="he">
+The following are the four indicators of the type of shəva:
+
+<p style="padding-left: 30px;">a) A shəva at the start of a word is a vocalized shəva; a shəva at the end of a word is a silent shəva (this rule is implied by the definition itself of a vocalized shəva and a silent one!) For example: 
+<div style="text-align: left; padding-left: 50px;">
+<div class="hebrew" lang="he" style="display: inline-block; text-align: right; font-size: 1.5em;">
 שְׁמַע, 
 בְּנִי (vocalized!), 
 קָם, 
 אֶת (silent!).
-</div>
+</div></div>
 </p>
-<p style="padding-left: 30px;">b) In the case of two sh’va-`im in the middle of a word, the first is silent and the second is vocalized. For example: 
-<div class="hebrew" lang="he">
-יִקְרְאוּ = יִקֱ-רְאוּ, 
-כַּסְפְּכֶם = כַּסְ-פְּכֶם
-</div>
-</p>
-<p style="padding-left: 30px;">c) A sh'va after a short vowel is silent; after a long vowel, vocalized (this rule derives directly from “The Rule of Syllables and Vowels” – §15). For example: 
-<div class="hebrew" lang="he">
-שִׁמְשׁוֹן = שִׁמְ-שׁוֹן, 
-שׁוֹמְרִים = שׁוֹ-מְרִים
-</div>
-</p>
-<p style="padding-left: 30px;">d) A sh'va under a consonant with a dagesh forte is always vocalized. For example: 
-<div class="hebrew" lang="he">
-שַׁלְמִי = שַׁ-לְמִי, 
-סִפְרוּ = סִ-פְּרוּ
-</div>
-</p>
-If one would know how to determine the type of the sh'va, it would not be difficult to resolve several issues that arise in points. Here is an example.
 
-In the word "ארְצְכֶם", the `aleph is not pointed – what is its vowel, a pataḥ or a qamats?
 
-According to rule b) above, the consonant resh is pointed with a silent sh'va and the syllabification, then, is אר-צְכֶם; The first syllable is closed and is not accented, so according to the Rule of Syllables and Vowels, the vowel must be short. Thus, the proper pointing of the `aleph is אַרְ-צְכֶם.
+<p style="padding-left: 30px;">b) In the case of two shəva`im in the middle of a word, the first is silent and the second is vocalized. For example: 
+<div style="text-align: left; padding-left: 50px;">
+<div class="hebrew" lang="he" style="display: inline-block; text-align: right; font-size: 1.5em;">
+יִקְרְאוּ = יִקֱ–רְאוּ, 
+כַּסְפְּכֶם = כַּסְ–פְּכֶם
+</div></div>
+</p>
+
+
+<p style="padding-left: 30px;">c) A shəva after a short vowel is silent; after a long vowel, vocalized (this rule derives directly from “The Rule of Syllables and Vowels” – §15). For example: 
+<div style="text-align: left; padding-left: 50px;">
+<div class="hebrew" lang="he" style="display: inline-block; text-align: right; font-size: 1.5em;">
+שִׁמְשׁוֹן = שִׁמְ–שׁוֹן, 
+שׁוֹמְרִים = שׁוֹ–מְרִים
+</div></div>
+</p>
+
+
+<p style="padding-left: 30px;">d) A shəva under a consonant with a dagesh forte is always vocalized. For example: 
+<div style="text-align: left; padding-left: 50px;">
+<div class="hebrew" lang="he" style="display: inline-block; text-align: right; font-size: 1.5em;">
+שַׁלְּמִי = שַׁ–לְמִי, 
+סִפְרוּ = סִ–פְּרוּ
+</div></div>
+</p>
+
+If one would know how to determine the type of the shəva, it would not be difficult to resolve several issues that arise in points. Here is an example.
+
+In the word "<span class="hebrew" lang="he" style="font-size: 1.5em;">ארְצְכֶם</span>", the `aleph is not pointed – what is its vowel, a pataḥ or a qamats?
+
+According to rule b) above, the consonant resh is pointed with a silent shəva and the syllabification, then, is <span class="hebrew" lang="he" style="font-size: 1.5em;">אר–צְכֶם</span>; The first syllable is closed and is not accented, so according to the Rule of Syllables and Vowels, the vowel must be short. Thus, the proper pointing of the `aleph is <span class="hebrew" lang="he" style="font-size: 1.5em;">אַרְ–צְכֶם</span>.
 
 <hr />
 
-<h3>The Rule of Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ"ד-כֶּפֶ"ת) (§17)</h3>
-The consonants Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ"ד-כֶּפֶ"ת) -- as this acronym is usually pronounced -- as is well-known, have two modes of pronunciation – soft and hard (in our pronunciation today, the distinction remains only for Bet-Kaph-Peh). When they occur with a dagesh )that is a dagesh lene!), they are hard consonants, without a dagesh, soft. When are they soft and when with a dagesh?
+[su_spacer]
+<h3>(§17) The Rule of Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ"ד־כֶּפֶ"ת)</h3>
+The consonants Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ"ד־כֶּפֶ"ת) -- as this acronym is usually pronounced -- as is well-known, have two modes of pronunciation – soft and hard (in our pronunciation today, the distinction remains only for Bet-Kaph-Peh). When they occur with a dagesh (that is a dagesh lene!), they are hard consonants, without a dagesh, soft. When are they soft and when with a dagesh?
 
 The sages of pointing established a clear rule:
-<table align="center">
-<tbody>
-<tr>
-<td><strong>The consonants Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ"ד-כֶּפֶ"ת) are pointed with a dagesh lene when they occur at the start of a word, and in the middle of a word only when following a silent sh'va.</strong></td>
-</tr>
-</tbody>
-</table>
-The great importance of this rule that is called “The Rule of Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ"ד-כֶּפֶ"ת)” is that it can determine the type of the sh'va that occurs before these letter, for it is clear that, if they are pronounced as hard, no doubt will remain that we have before us a silent sh'va!
 
-Thus, for example: in the words לִשְׁבֹּר, מַלְכָּה, קָרְבָּן, חֶרְפָּה, the sh'va that is in the middle of the words must be a silent sh’va, according to the Rule of Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ"ד-כֶּפֶ"ת), for if this were not the case, we would be pronouncing the words wordsלִשְׁבֹר, מַלְכָה, קָרְבָן, חֶרְפָה! Since the sh’va is silent, it is clear that the first syllables are closed: words לִשְׁ-בֹּר, מַלְ-כָּה, קָרְ-בָּן, חֶרְ-פָּה, and their vowels are, per the rule, short!
+<table style="margin-left: auto;margin-right: auto;" id="table1"><tr><td>
+<strong>The consonants Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ"ד־כֶּפֶ"ת) are pointed with a dagesh lene when they occur at the start of a word, and in the middle of a word only when following a silent shəva.</strong>
+</td></tr></table>
 
-In the verbs הָלְכָה, כּוֹתְבִים, the sh’va in the middle is vocalized (the consonants Bet-Gimel-Dalet Kaph-Peh-Tav {בֶּגֶ"ד-כֶּפֶ"ת} are soft here!). The first syllables are open and, per the rule, the vowels are long:
+The great importance of this rule that is called “The Rule of Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ"ד־כֶּפֶ"ת)” is that it can determine the type of the shəva that occurs before these letter, for it is clear that, if they are pronounced as hard, no doubt will remain that we have before us a silent shəva!
 
-הָ-לְכָה, כּוֹ-תְבִים [no dagesh in the lamed or the tav].
+Thus, for example: in the words <span class="hebrew" lang="he" style="font-size: 1.5em;">לִשְׁבֹּר, מַלְכָּה, קָרְבָּן, חֶרְפָּה</span>, the shəva that is in the middle of the words must be a silent shəva, according to the Rule of Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ"ד־כֶּפֶ"ת), for if this were not the case, we would be pronouncing the words words <span class="hebrew" lang="he" style="font-size: 1.5em;">לִשְׁבֹר, מַלְכָה, קָרְבָן, חֶרְפָה</span>! Since the shəva is silent, it is clear that the first syllables are closed words: <span class="hebrew" lang="he" style="font-size: 1.5em;">לִשְׁ–בֹּר, מַלְ–כָּה, קָרְ–בָּן, חֶרְ–פָּה</span>, and their vowels are, per the rule, short!
 
-The Rule of Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ"ד-כֶּפֶ"ת) is important, not only as an aid to determining the type of sh’va in the middle of the word: it has great importance, primarily, for its own sake – by means of this rule a person who wishes to speak correct Hebrew will know when to pronounce the consonants Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ"ד-כֶּפֶ"ת) as soft; namely:
-<p style="padding-left: 30px;">a) The consonants Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ"ד-כֶּפֶ"ת) following a vocalized sh’va are always soft, for example: כֶּלֶב -- וְכֶלֶב, פֶתַע -- לְפֶתַע (a sh'va at the start of a word is obviously vocalized!)</p>
-<p style="padding-left: 30px;">b) The consonants Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ"ד-כֶּפֶ"ת) following an open syllable with a long vowel – are always soft, for example: שָׁבַרְתִּי (the bet is soft after a long qamats; the tav has a dagesh following the silent sh'va!)</p>
+In the verbs <span class="hebrew" lang="he" style="font-size: 1.5em;">הָלְכָה, כּוֹתְבִים</span>, the shəva in the middle is vocalized (the consonants Bet-Gimel-Dalet Kaph-Peh-Tav {בֶּגֶ"ד־כֶּפֶ"ת} are soft here!). The first syllables are open and, per the rule, the vowels are long:
+
+<span class="hebrew" lang="he" style="font-size: 1.5em;">הָ–לְכָה, כּוֹ–תְבִים</span> [no dagesh in the lamed or the tav].
+
+The Rule of Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ"ד־כֶּפֶ"ת) is important, not only as an aid to determining the type of shəva in the middle of the word: it has great importance, primarily, for its own sake – by means of this rule a person who wishes to speak correct Hebrew will know when to pronounce the consonants Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ"ד־כֶּפֶ"ת) as soft; namely:
+
+<p style="padding-left: 30px;">a) The consonants Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ"ד־כֶּפֶ"ת) following a vocalized shəva are always soft, for example: <span class="hebrew" lang="he" style="font-size: 1.5em;">כֶּלֶב -- וְכֶּלֶב, פֶּתַע -- לְפֶּתַע</span> (a shəva at the start of a word is obviously vocalized!)</p>
+
+
+<p style="padding-left: 30px;">b) The consonants Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ"ד־כֶּפֶ"ת) following an open syllable with a long vowel – are always soft, for example: <span class="hebrew" lang="he" style="font-size: 1.5em;">שָׁבַרְתִּי</span> (the bet is soft after a long qamats; the tav has a dagesh following the silent shəva!)</p>
+
 <strong>Note:</strong>
-<p style="padding-left: 30px;">a. The consonants Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ"ד-כֶּפֶ"ת), apparently, as if they had a dagesh, not according to the rule (in the middle of a word, but not following a silent sh'va!) as in the words חִבָּה, סַפָּה, דִּבֵּר, סִפֵּר. . Take note, then: this dagesh is not a dagesh lene but a dagesh forte that closes, per the rule, the syllable following the short vowel ,(חַ-כָּה similar to חַ-לָּה ).</p>
+
+<p style="padding-left: 30px;">a. The consonants Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ"ד־כֶּפֶ"ת), apparently, as if they had a dagesh, not according to the rule (in the middle of a word, but not following a silent shəva!) as in the words <span class="hebrew" lang="he" style="font-size: 1.5em;">חִבָּה, סַפָּה, דִּבֵּר, סִפֵּר</span>. Take note, then: this dagesh is not a dagesh lene but a dagesh forte that closes, per the rule, the syllable following the short vowel, (<span class="hebrew" lang="he" style="font-size: 1.5em;">חַ-כָּה</span> similar to <span class="hebrew" lang="he" style="font-size: 1.5em;">חַ-לָּה</span>).</p>
+
+
 <p style="padding-left: 30px;">And despite this:</p>
-<p style="padding-left: 30px;">b. There are numerous other words where one should pronounced the consonants Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ"ד-כֶּפֶ"ת) as soft and, apparently, again not in accordance with the rule (in the middle of a word, following a silent sh'va!), like the words, מַלְ-כֵי, עַנְ-פֵי, עֶרְ-כֵי, עִזְ-בוּ, בִּדְ-פוּס, בִּזְ-כוּת .</p>
-<p style="padding-left: 30px;">The accepted reason for this is that the sh'va in all of these words is not a “real” silent sh'va, but a “hovering sh'va,” as, indeed, each of these words should have its original form: מְלְכֵי (from מְלָכִים), עֲנְפֵי (from עֲנָפִים), עֲרְכֵי (from עְרָכִים), עֲזְבוּ (from עֲזוֹב) בְּדְפוּס, בְּזְכוּת, and since two sh’va-`im may not come at the start of a word, the first sh'va becomes a helping vowel (“a short vowel”) while the second sh'va (“hovering”) does not result in a change of the consonants Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ"ד-כֶּפֶ"ת) that remain soft!</p>
-<p style="padding-left: 30px;">c. The consonants Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ"ד-כֶּפֶ"ת) can become soft also at the start of a word that is connected by means of a hyphen to another word and that does not end with a silent sh'va but with one of the matres lectionis, `aleph hey, vav, yod, because the rule with respect to words connected by a hyphen is like the rule of a single word. Therefore, this is how to pronounce and point: אַחֲרֵי-כֵן, אַף-עַל-פִּי-כֵן, לֹא-כַךְ; we find the same condition in Scripture: וַיְהִי-בֹקֶר, זַרְעוֹ-בוֹ.</p>
-<p style="padding-left: 30px;">However, in the pointing in Scripture the dagesh is omitted from the consonants Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ"ד-כֶּפֶ"ת) in instances like these where there are two words not joined by a hyphen, but are only connected thematically to one another (for example: “אֵלֶה תוֹלְדוֹת, הֵמָּה בַדֶּרֶךְ”). However, in spoken language, even in contemporary pointed prose, there is a tendency to omit this detail and to place a dagesh in the consonants Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ"ד-כֶּפֶ"ת) at the start of a word following unpronounced `aleph, heh, vav, yod. We have followed this practice even in this dictionary (only in the cases of bet and dalet where the dagesh does not change the pronunciation in our day – have we omitted, for the most part the dagesh following `aleph, heh, vav, yod.</p>
+
+
+<p style="padding-left: 30px;">b. There are numerous other words where one should pronounced the consonants Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ"ד־כֶּפֶ"ת) as soft and, apparently, again not in accordance with the rule (in the middle of a word, following a silent shəva!), like the words, <span class="hebrew" lang="he" style="font-size: 1.5em;">מַלְ–כֵי, עַנְ–פֵי, עֶרְ–כֵי, עִזְ–בוּ, בִּדְ–פוּס, בִּזְ–כוּת</span>.</p>
+
+
+<p style="padding-left: 30px;">The accepted reason for this is that the shəva in all of these words is not a “real” silent shəva, but a “hovering shəva,” as, indeed, each of these words should have its original form: <span class="hebrew" lang="he" style="font-size: 1.5em;">מְלְכֵי</span> (from <span class="hebrew" lang="he" style="font-size: 1.5em;">מְלָכִים</span>), <span class="hebrew" lang="he" style="font-size: 1.5em;">עֲנְפֵי</span> (from <span class="hebrew" lang="he" style="font-size: 1.5em;">עֲנָפִים</span>), <span class="hebrew" lang="he" style="font-size: 1.5em;">עֲרְכֵי</span> (from <span class="hebrew" lang="he" style="font-size: 1.5em;">עְרָכִים</span>), <span class="hebrew" lang="he" style="font-size: 1.5em;">עֲזְבוּ</span> (from <span class="hebrew" lang="he" style="font-size: 1.5em;">עֲזוֹב</span>) <span class="hebrew" lang="he" style="font-size: 1.5em;">בְּדְפוּס, בְּזְכוּת,</span> and since two shəva`im may not come at the start of a word, the first shəva becomes a helping vowel (“a short vowel”) while the second shəva (“hovering”) does not result in a change of the consonants Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ"ד־כֶּפֶ"ת) that remain soft!</p>
+
+
+<p style="padding-left: 30px;">c. The consonants Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ"ד־כֶּפֶ"ת) can become soft also at the start of a word that is connected by means of a hyphen to another word and that does not end with a silent shəva but with one of the matres lectionis, `aleph hey, vav, yod, because the rule with respect to words connected by a hyphen is like the rule of a single word. Therefore, this is how to pronounce and point: <span class="hebrew" lang="he" style="font-size: 1.5em;">אַחֲרֵי־כֵן, אַף־עַל־פִּי־כֵן, לֹא־כַךְ</span>; we find the same condition in Scripture: <span class="hebrew" lang="he" style="font-size: 1.5em;">וַיְהִי־בֹקֶר, זַרְעוֹ־בוֹ</span>.</p>
+
+
+<p style="padding-left: 30px;">However, in the pointing in Scripture the dagesh is omitted from the consonants Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ"ד־כֶּפֶ"ת) in instances like these where there are two words not joined by a hyphen, but are only connected thematically to one another (for example: “<span class="hebrew" lang="he" style="font-size: 1.5em;">אֵלֶה תוֹלְדוֹת, הֵמָּה בַדֶּרֶךְ</span>”). However, in spoken language, even in contemporary pointed prose, there is a tendency to omit this detail and to place a dagesh in the consonants Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ"ד־כֶּפֶ"ת) at the start of a word following unpronounced `aleph, heh, vav, yod. We have followed this practice even in this dictionary (only in the cases of bet and dalet where the dagesh does not change the pronunciation in our day – have we omitted, for the most part the dagesh following `aleph, heh, vav, yod.</p>
+
 
 
 <hr />
 
-<h3>The Rule of Guttural Consonants (§18)</h3>
+[su_spacer]
+<h3>(§18) The Rule of Guttural Consonants</h3>
 The guttural consonants, `aleph, heh, ḥet, 'ayin and also the consonant resh (that it is sometimes pronounced by many as a guttural!) may never accept a dagesh forte. Therefore, if, according to the Rule of Syllables and Vowels (§15), these consonants are to be pointed with a dagesh forte to close the syllable with a short vowel, then one of the following occurs:
+
 <p style="padding-left: 30px;">a. The short vowel becomes a long vowel (pataḥ to qamats, ḥiriq to tsereh, etc.). The change is called “compensation for a dagesh.”</p>
-<p style="padding-left: 30px;">Thus, for example, parallel to the word אִלֵּם (mute) [with a dagesh lene in the lamed], we should say, for חִרֵשׁ “deaf,” but the correct word is חֵרֵשׁ, and, similarly, parallel to the verb מְגַדַּל (grows, v.t.) [with a dagesh lene in the gimmel] (in the pi-'el conjugation), we should point the verb as "מְבַאֵר, מְבַרֵךְ" both with a pataḥ under the vav]; however by virture of the fact that the consonants `aleph and resh may not have a dagesh, the pointing is מְבָאֵר, מְבָרֵךְ and in similar cases.</p>
-<p style="padding-left: 30px;">b. Or the vowel remains as is with no closure (especially before heh, ḥet, 'ayin), מַהֵר, מִחוֹט, בִּעֵר.</p>
+
+
+<p style="padding-left: 30px;">Thus, for example, parallel to the word <span class="hebrew" lang="he" style="font-size: 1.5em;">אִלֵּם</span> (mute) [with a dagesh lene in the lamed], we should say, for <span class="hebrew" lang="he" style="font-size: 1.5em;">חִרֵשׁ</span> “deaf,” but the correct word is <span class="hebrew" lang="he" style="font-size: 1.5em;">חֵרֵשׁ</span>, and, similarly, parallel to the verb <span class="hebrew" lang="he" style="font-size: 1.5em;">מְגַדַּל</span> (grows, v.t.) [with a dagesh lene in the gimmel] (in the pi-'el conjugation), we should point the verb as "<span class="hebrew" lang="he" style="font-size: 1.5em;">מְבַאֵר, מְבַרֵךְ</span>" both with a pataḥ under the vav]; however by virture of the fact that the consonants `aleph and resh may not have a dagesh, the pointing is <span class="hebrew" lang="he" style="font-size: 1.5em;">מְבָאֵר, מְבָרֵךְ</span> and in similar cases.</p>
+
+
+<p style="padding-left: 30px;">b. Or the vowel remains as is with no closure (especially before heh, ḥet, 'ayin), <span class="hebrew" lang="he" style="font-size: 1.5em;">מַהֵר, מִחוֹט, בִּעֵר</span>.</p>
+
 <strong>* * *</strong>
 
 The rules of pointing that have been set forth in this chapter – they are basic rules, the principles of pointing. The rules of pointing all words, nouns of various sorts, verbs, etc. derive from these principles.
 
 <hr />
 
+[su_spacer]
 <h2>The Pointing of the Auxiliary Consonants</h2>
 The auxiliary consonants are found frequently in Hebrew. There is hardly a word, whether spoken or written that is not dependent on an auxiliary consonant. It is necessary, therefore, to describe the rules for pointing them to avoid frequent errors.
-<h3>The Pointing of the Definite Article (§19)</h3>
-The basic pointing of the definite article is with a pataḥ (a short syllable!), and a dagesh forte occurs in the consonant that follows. For example: הַסֵּפֶר, הַשֵּׁבֶט, הַגּשֶׁם.
+
+[su_spacer]
+<h3>(§19) The Pointing of the Definite Article</h3>
+The basic pointing of the definite article is with a pataḥ (a short syllable!), and a dagesh forte occurs in the consonant that follows. For example: <span class="hebrew" lang="he" style="font-size: 1.5em;">הַסֵּפֶר, הַשֵּׁבֶט, הַגֶּשֶׁם</span>.
 
 Only five consonants are liable to cause departures from this basic rule: aleph, heh, ḥet, 'ayin, resh that cannot have a dagesh (§18). Therefore, the occurrence of the definite article before one of these consonants requires a change in its pointing, mainly, in accordance with the explanation in §18. These are the departures:
+
 <p style="padding-left: 30px;">a) The definite article</p>
+
+
 <p style="padding-left: 30px;">before `aleph and resh,
 before an 'ayin that is not qamats-pointed and
 before a heh and an 'ayin that are qamats-pointed and accented</p>
+
+
 <p style="padding-left: 30px;">is qamats-pointed (a long syllable). For example: 
-<div class="hebrew" lang="he">
+<div style="text-align: left; padding-left: 50px;">
+<div class="hebrew" lang="he" style="display: inline-block; text-align: right; font-size: 1.5em;">
 הָאִישׁ, 
 הָרִאשׁוֹן, 
 הָהָר, 
 הָעָם.
-</div>
+</div></div>
 </p>
-<p style="padding-left: 30px;">b) Before heh and ḥet that are not qamats-pointed – the definite article remains pointed with a pataḥ without “compensation for a” dagesh: הַחוּט, הַהֹולֵךְ, הַהוּא. (Exception: הָהֵם).</p>
+
+
+<p style="padding-left: 30px;">b) Before heh and ḥet that are not qamats-pointed – the definite article remains pointed with a pataḥ without “compensation for a” dagesh: <span class="hebrew" lang="he" style="font-size: 1.5em;">הַחוּט, הַהוֹלֵךְ, הַהוּא</span>. (Exception: <span class="hebrew" lang="he" style="font-size: 1.5em;">הָהֵם</span>).</p>
+
+
 <p style="padding-left: 30px;">c) Before a ḥet pointed with a strong qamats or a ḥataph-qamats, and similarly before qamats-pointed, unaccented hey and 'ayin, the definite article is pointed with a segol. For example 
-<div class="hebrew" lang="he">
+<div style="text-align: left; padding-left: 50px;">
+<div class="hebrew" lang="he" style="display: inline-block; text-align: right; font-size: 1.5em;">
 הֶחָכָם, 
 הֶחֳדָשִׁים, 
 הֶהָרִים, 
-הֶעָּשִׁיר; </div>
-however, הַחָכְמָה, הֶהָערְמָה (the ḥet and the 'ayin have a qamats qatan!)
+הֶעָּשִׁיר; </div></div>
+however, <span class="hebrew" lang="he" style="font-size: 1.5em;">הַחָכְמָה, הֶהָערְמָה</span> (the ḥet and the 'ayin have a qamats qatan!)
 </p>
 
-<p style="padding-left: 30px;">d) In addition, it is appropriate to keep in mind that, when the definite article occurs before a yod that is pointed with a sh'va and a mem on the model of maph'el or m’phu'al, the dagesh forte is omitted in these letters. For example: 
-<div class="hebrew" lang="he">
+
+
+<p style="padding-left: 30px;">d) In addition, it is appropriate to keep in mind that, when the definite article occurs before a yod that is pointed with a shəva and a mem on the model of maph'el or m’phu'al, the dagesh forte is omitted in these letters. For example: 
+<div style="text-align: left; padding-left: 50px;">
+<div class="hebrew" lang="he" style="display: inline-block; text-align: right; font-size: 1.5em;">
 הַיְלָדִים, 
 הַמְדַבְּרִים, 
-הַמְשׁוּמָר. (Exceptions: הַיְּהוּדִים, הַיְּוָנִים).</p>
-</div>
-<table align="center"><caption>Summary Table for the Pointing of the Definite Article</caption>
+הַמְשׁוּמָר. 
+</div></div>
+(Exceptions: <span class="hebrew" lang="he" style="font-size: 1.5em;">הַיְּהוּדִים, הַיְּוָנִים</span>).</p>
+
+
+<table style="margin-left: auto;margin-right: auto;" id="table1"><caption>Summary Table for the Pointing of the Definite Article</caption>
 <thead>
-<tr>
-<th>Basic pointing</th>
+<tr><th>Basic pointing</th>
 <th>Before `aleph, resh (heh, 'ayin)</th>
 <th>Before non-qamats-pointed heh, ḥet</th>
 <th>Before qamats and ḥataph-pataḥ-pointed ḥet</th>
 <th>Before unaccented, qamats-pointed heh, 'ayin</th>
-</tr>
-</thead>
+</tr></thead>
 <tbody>
-<tr>
-<td style="text-align: center;">הַ</td>
-<td style="text-align: center;">הָ</td>
-<td style="text-align: center;">הַ</td>
-<td style="text-align: center;">הֶ</td>
-<td style="text-align: center;">הֶ</td>
-</tr>
-</tbody>
-</table>
+<tr><td style="text-align: left;"><span class="hebrew" style="font-size: 1.5em;">הַ</span></td>
+
+<td style="text-align: left;"><span class="hebrew" style="font-size: 1.5em;">הָ</span></td>
+
+<td style="text-align: left;"><span class="hebrew" style="font-size: 1.5em;">הַ</span></td>
+
+<td style="text-align: left;"><span class="hebrew" style="font-size: 1.5em;">הֶ</span></td>
+
+<td style="text-align: left;"><span class="hebrew" style="font-size: 1.5em;">הֶ</span></td></tr>
+</tbody></table>
+
 
 <hr />
 
-<h3>The Pointing of the Interrogative Heh (§20)</h3>
-The basic pointing of the interrogative heh is with a ḥataph-pataḥ, for example: הֲשָׁמַעְתָּ? הֲרָאִיתָ?
+[su_spacer]
+<h3>(§20) The Pointing of the Interrogative Heh</h3>
+The basic pointing of the interrogative heh is with a ḥataph-pataḥ, for example: <span class="hebrew" lang="he" style="font-size: 1.5em;">?הֲשָׁמַעְתָּ? הֲרָאִיתָ</span>
 
 Instances that require departures from the rule:
-<p style="padding-left: 30px;">a) The interrogative heh may not be pointed with a ḥataph-patah if it comes before a consonant already pointed with sh'va (as a ḥataph-patah is nothing but a vocalized sh'va, and two sh’va-`im may not occur consecutively in Hebrew at the start of a word. In this instance the interrogative heh will be pointed with a pataḥ in most cases without a dagesh forte in the consonant that follows!), for example הַיְדַעְתֶּם? הַשְׁמַעְתֶּם? הַרְאוּבֵן הַמְדַבֵּר?</p>
+
+<p style="padding-left: 30px;">a) The interrogative heh may not be pointed with a ḥataph-patah if it comes before a consonant already pointed with shəva (as a ḥataph-patah is nothing but a vocalized shəva, and two shəva`im may not occur consecutively in Hebrew at the start of a word. In this instance the interrogative heh will be pointed with a pataḥ in most cases without a dagesh forte in the consonant that follows!), for example:
+<div style="text-align: left; padding-left: 50px;">
+<div class="hebrew" lang="he" style="display: inline-block; text-align: right; font-size: 1.5em;">
+הַיְדַעְתֶּם? 
+הַשְׁמַעְתֶּם? 
+הַרְאוּבֵן הַמְדַבֵּר?
+</div></div>
+</p>
+
+
 <p style="padding-left: 30px;">b) Before the consonants `aleph, hey, ḥet and 'ayin, the ḥataph falls off, also for phonetic reasons, and the interrogative heh is pointed with only a pataḥ, 
 for example: 
-<div class="hebrew" lang="he">
+<div style="text-align: left; padding-left: 50px;">
+<div class="hebrew" lang="he" style="display: inline-block; text-align: right; font-size: 1.5em;">
 הַאִם?
  הַעוֹלִים הָאֲנָשִׁים?
  הַהוֹלֵךְ הוּא?
- </div>
+ </div></div>
  </p>
+
+
 <p style="padding-left: 30px;">c) Before the consonants `aleph, hey, ḥet and 'ayin that are pointed with a qamats and are unaccented, the interrogative heh is pointed with a segol, for example: 
-<div class="hebrew" lang="he">
+<div style="text-align: left; padding-left: 50px;">
+<div class="hebrew" lang="he" style="display: inline-block; text-align: right; font-size: 1.5em;">
 הֶאָנֹכִי עָשִֹיתִי? 
 הֶהָיְתָה כָזֹאת? 
 הֶחָשַׁבְתָּ? 
 הֶעָשִֹיתִי?
-</div>
+</div></div>
 </p>
 
-<table align="center"><caption>Summary Table for the Pointing of the Interrogative Heh</caption>
-<thead>
-<tr>
+
+
+<table style="margin-left: auto;margin-right: auto;" id="table1"><caption>Summary Table for the Pointing of the Interrogative Heh</caption>
+<thead><tr>
 <th>Basic pointing</th>
-<th>Before `aleph, heh, ḥet, 'ayin that are not qamats-pointed and before a sh'va</th>
+<th>Before `aleph, heh, ḥet, 'ayin<br />that are not qamats-pointed<br />and before a shəva</th>
 <th>Before `aleph, resh heh, 'ayin, not accented</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align: center;">הֲ</td>
-<td style="text-align: center;">הַ</td>
-<td style="text-align: center;">הֶ</td>
-</tr>
-</tbody>
-</table>
+</tr></thead>
+
+<tbody><tr>
+<td style="text-align: left;"><span class="hebrew" style="font-size: 1.5em;">הֲ</span></td>
+<td style="text-align: left;"><span class="hebrew" style="font-size: 1.5em;">הַ</span></td>
+<td style="text-align: left;"><span class="hebrew" style="font-size: 1.5em;">הֶ</span></td></tr>
+</tbody></table>
+
 
 <hr />
 
-<h3>The Pointing of the Conjunctive Vav (§21)</h3>
-The basic pointing of the conjunctive vav in with a sh'va, for example: 
-<div class="hebrew" lang="he">
+[su_spacer]
+<h3>(§21) The Pointing of the Conjunctive Vav</h3>
+The basic pointing of the conjunctive vav in with a shəva, for example: 
+<div style="text-align: left; padding-left: 50px;">
+<div class="hebrew" lang="he" style="display: inline-block; text-align: right; font-size: 1.5em;">
 אַבְרָהָם וְיִצְחָק וְיַעֲקֹב. 
 אָכַלְתִּי וְשָֹבַעְתִּי.
-</div>
+</div></div>
 Instances that require departures from the rule:
-<p style="padding-left: 30px;">a) The conjuctive vav may not be pointed with a sh'va if it occurs before a consonant already pointed with a sh'va (and two sh’va-`im may not occur consecutively in Hebrew at the start of a word). In this instance, the vowel of the vav changes from a sh'va to a shuruq,[foot]The original phonetic pronunciation of the vav was like the pronunciation of the English consonant ‘w’ that is very similar to the pronunciation of a shuruq.[/foot] for example: 
-<div class="hebrew" lang="he">
+
+<p style="padding-left: 30px;">a) The conjuctive vav may not be pointed with a shəva if it occurs before a consonant already pointed with a shəva (and two shəva`im may not occur consecutively in Hebrew at the start of a word). In this instance, the vowel of the vav changes from a shəva to a shuruq,[foot]The original phonetic pronunciation of the vav was like the pronunciation of the English consonant ‘w’ that is very similar to the pronunciation of a shuruq.[/foot] for example: 
+<div style="text-align: left; padding-left: 50px;">
+<div class="hebrew" lang="he" style="display: inline-block; text-align: right; font-size: 1.5em;">
 דָּוִד וּשְׁלֹמֹה, 
 רִבְקָה וּדְבוֹרָה, 
 שְׁמַעְתֶּם וּרְאִיתֶם
-</div>
+</div></div>
 </p>
-<p style="padding-left: 30px;">b) The conjunctive vav before a yod that is pointed with a sh'va is pointed with a ḥiriq, and the sh'va with which the yod is pointed falls off, for example:
-<div class="hebrew" lang="he">
+
+
+<p style="padding-left: 30px;">b) The conjunctive vav before a yod that is pointed with a shəva is pointed with a ḥiriq, and the shəva with which the yod is pointed falls off, for example:
+<div style="text-align: left; padding-left: 50px;">
+<div class="hebrew" lang="he" style="display: inline-block; text-align: right; font-size: 1.5em;">
 שִׁמְעוֹן וִיהוּדָה, 
-צִיּוֹן וִירוּשָׁלַיִם (from יְהוּדָה, יְרוּשָׁלַיִם!)
-</div>
+צִיּוֹן וִירוּשָׁלַיִם 
+(from יְהוּדָה, יְרוּשָׁלַיִם!)
+</div></div>
 </p>
+
+
 <p style="padding-left: 30px;">c) The pointing of the conjunctive vav before one of the consonants bet, vav, mem, peh (related as to the source of their sound is changed to a shuruq, for example: 
-<div class="hebrew" lang="he">
+<div style="text-align: left; padding-left: 50px;">
+<div class="hebrew" lang="he" style="display: inline-block; text-align: right; font-size: 1.5em;">
 אַהֲרֺן וּמשֶׁה, 
-לֶחֶם וּבָשָֹר, 
+לֶחֶם וּבָשָׂר, 
 לְשׁוֹנֵנוּ וּפִינוּ. 
-</div>
+</div></div>
 [Of course, if the word itself starts with one of the consonants that takes a dagesh at the start of a syllable, the dagesh is omitted.]
 
 </p>
+
+
 <p style="padding-left: 30px;">d) The pointing of the conjunctive vav before a consonant that is pointed with a ḥataph is pointed with the same vowel as the ḥataph, for example: 
-<div class="hebrew" lang="he">
+<div style="text-align: left; padding-left: 50px;">
+<div class="hebrew" lang="he" style="display: inline-block; text-align: right; font-size: 1.5em;">
 עֲשִׁירָה וַעֲנִיָּה, 
 סִירָה וָאֳנִיָּה, 
 חֶסֶד וֶאֱמֶת.
-</div>
+</div></div>
 </p>
+
+
 <p style="padding-left: 30px;">e) The pointing of the conjunctive vav before an accented syllable (at the end of a sentence and in the case of commonly paired words even in the middle of a sentence) is for the most part with a qamats gadol, for example: 
-<div class="hebrew" lang="he">
+<div style="text-align: left; padding-left: 50px;">
+<div class="hebrew" lang="he" style="display: inline-block; text-align: right; font-size: 1.5em;">
 בָּשָֹר־וָדָם, 
 קַיִץ וָחֹרֶף, 
 יוֹם וָלַיְלָה.
-</div>
+</div></div>
 </p>
 
-<table align="center"><caption>Summary Table for the Pointing of the Conjunctive Vav</caption>
-<thead>
-<tr>
+
+
+<table style="margin-left: auto;margin-right: auto;" id="table1"><caption>Summary Table for the Pointing of the Conjunctive Vav</caption>
+<thead><tr>
 <th>Basic pointing</th>
-<th>Before a consonant pointed with a sh'va</th>
-<th>Before a yod pointed with a sh'va</th>
+<th>Before a consonant pointed with a shəva</th>
+<th>Before a yod pointed with a shəva</th>
 <th>Before the consonants bet, vav, mem, peh</th>
 <th>Before a consonant pointed with a ḥataph</th>
 <th>Before an accented syllable</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align: center;">וְ</td>
-<td style="text-align: center;">וּ</td>
-<td style="text-align: center;">וִ(י)‏</td>
-<td style="text-align: center;">וּ</td>
-<td style="text-align: center;">As the ḥataph is pointed</td>
-<td style="text-align: center;">וָ</td>
-</tr>
-</tbody>
-</table>
+</tr></thead>
+
+<tbody><tr>
+<td style="text-align: left;"><span class="hebrew" style="font-size: 1.5em;">וְ</span></td>
+<td style="text-align: left;"><span class="hebrew" style="font-size: 1.5em;">וּ</span></td>
+<td style="text-align: left;"><span class="hebrew" style="font-size: 1.5em;">וִ(י)‏</span></td>
+<td style="text-align: left;"><span class="hebrew" style="font-size: 1.5em;">וּ</span></td>
+<td style="text-align: left;">As the ḥataph is pointed</td>
+<td style="text-align: left;"><span class="hebrew" style="font-size: 1.5em;">וָ</span></td></tr>
+</tbody></table>
+
 
 <hr />
 
-<h3>The Pointing of the Conversive Vav (§22)</h3>
+[su_spacer]
+<h3>(§22) The Pointing of the Conversive Vav</h3>
 The pointing of the vav that converts the tense from the past tense to the future follows rule of the pointing of the conjunctive vav in its basic form and in its departures, for example: 
-<div class="hebrew" lang="he">
+<div style="text-align: left; padding-left: 50px;">
+<div class="hebrew" lang="he" style="display: inline-block; text-align: right; font-size: 1.5em;">
 וְדִבֵּר (basic pointing), 
 וּרְאִיתֶם אִת הָאָרֶץ (departure a), 
 וִישַׁבְתֶּם לָבֶטַח (departure b), 
 וּבָאתָ אֶל הַתֵּבָה (departure c), 
 וַעֲשִֹיתֶם כֵּן (departure d), 
 מְלָכִים יִרְאוּ וָקָמוּ.
-</div>
-<table align="center"><caption>Summary Table for the Pointing of the Vav That Converts from Past Tense to Future</caption>
-<thead>
-<tr>
+</div></div>
+
+<table style="margin-left: auto;margin-right: auto;" id="table1"><caption>Summary Table for the Pointing of the Vav That Converts from Past Tense to Future</caption>
+<thead><tr>
 <th>Basic pointing</th>
-<th>Before a consonant pointed with a sh'va</th>
-<th>Before a yod pointed with a sh'va</th>
+<th>Before a consonant pointed with a shəva</th>
+<th>Before a yod pointed with a shəva</th>
 <th>Before the consonants bet, vav, mem, peh</th>
 <th>Before a consonant pointed with a ḥataph</th>
 <th>Before an accented syllable</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align: center;">וְ</td>
-<td style="text-align: center;">וּ</td>
-<td style="text-align: center;">וִ(י)‏</td>
-<td style="text-align: center;">וּ</td>
-<td style="text-align: center;">As the ḥataph is pointed</td>
-<td style="text-align: center;">וָ</td>
-</tr>
-</tbody>
-</table>
-The basic pointing of the vav that converts the tense from the future tense to the past is with a pataḥ; therefore, there is a dagesh forte in the consonant that follows, for example: 
-<div class="hebrew" lang="he">
-וַיֹּאמֶר, 
-וַנֵּצֵא.
-</div>
+</tr></thead>
+
+<tbody><tr>
+<td style="text-align: left;"><span class="hebrew" style="font-size: 1.5em;">וְ</span></td>
+<td style="text-align: left;"><span class="hebrew" style="font-size: 1.5em;">וּ</span></td>
+<td style="text-align: left;"><span class="hebrew" style="font-size: 1.5em;">וִ(י)‏</span></td>
+<td style="text-align: left;"><span class="hebrew" style="font-size: 1.5em;">וּ</span></td>
+<td style="text-align: left;">As the ḥataph is pointed</td>
+<td style="text-align: left;"><span class="hebrew" style="font-size: 1.5em;">וָ</span></td></tr>
+</tbody></table>
+
+The basic pointing of the vav that converts the tense from the future tense to the past is with a pataḥ; therefore, there is a dagesh forte in the consonant that follows, for example: <span class="hebrew" lang="he" style="font-size: 1.5em;">וַיֹּאמֶר, וַנֵּצֵא</span>.
 There are two departures:
-<p style="padding-left: 30px;">a) Before the `aleph of the consonants in the acronym (אֵיתָ"ן[foot]The four consonants, 'aleph, yod, nun and tav can appear before the verb stem to the future tense. `Aleph, tav and yod represent first, second and third person singular, respectively, and nun, first person plural[/foot]) (that may not contain a dagesh!) the pointing of the conversive vav is with a qamats (similar to the definite article, §19), for example: וָאֹמַר, וָאֲדַבֵּר.</p>
-<p style="padding-left: 30px;">b) Before a yod that is pointed with a sh'va, the pointing of the vav still is with a pataḥ, but the yod does not receive a dagesh, for example:
-<div class="hebrew" lang="he">
-וַיְדַבֵּר, 
-וַיְהִי.
-</div>
+
+<p style="padding-left: 30px;">a) Before the `aleph of the consonants in the acronym (<span class="hebrew" lang="he" style="font-size: 1.5em;">אֵיתָ"ן</span>[foot]The four consonants, 'aleph, yod, nun and tav can appear before the verb stem to the future tense. `Aleph, tav and yod represent first, second and third person singular, respectively, and nun, first person plural[/foot]) (that may not contain a dagesh!) the pointing of the conversive vav is with a qamats (similar to the definite article, §19), for example: <span class="hebrew" lang="he" style="font-size: 1.5em;">וָאֹמַר, וָאֲדַבֵּר</span>.</p>
+
+<p style="padding-left: 30px;">b) Before a yod that is pointed with a shəva, the pointing of the vav still is with a pataḥ, but the yod does not receive a dagesh, for example: <span class="hebrew" lang="he" style="font-size: 1.5em;">וַיְדַבֵּר, וַיְהִי</span>.
 </p>
 
-<table align="center"><caption>Summary Table for the Pointing of the vav that converts from the future tense to the past tense</caption>
-<thead>
-<tr>
+
+
+<table style="margin-left: auto;margin-right: auto;" id="table1"><caption>Summary Table for the Pointing of the vav that converts from the future tense to the past tense</caption>
+<thead><tr>
 <th>Basic pointing</th>
-<th>Before `aleph, yod tav, and nun, not pointed with a qamats and before a sh'va</th>
-<th>Before a yod pointed with a sh'va</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align: center;">וַ</td>
-<td style="text-align: center;">וָ</td>
-<td style="text-align: center;">וַ(יְ)‏</td>
-</tr>
-</tbody>
-</table>
+<th>Before `aleph, yod tav, and nun,<br />not pointed with a qamats<br />and before a shəva</th>
+<th>Before a yod pointed with a shəva</th>
+</tr></thead>
+
+<tbody><tr>
+<td style="text-align: left;"><span class="hebrew" style="font-size: 1.5em;">וַ</span></td>
+<td style="text-align: left;"><span class="hebrew" style="font-size: 1.5em;">וָ</span></td>
+<td style="text-align: left;"><span class="hebrew" style="font-size: 1.5em;">וַ(יְ)‏</span></td></tr>
+</tbody></table>
+
 
 <hr />
 
-<h3>The Pointing of the Consonants Bet, Kaph and Lamed (§23)</h3>
+[su_spacer]
+<h3>(§23) The Pointing of the Consonants Bet, Kaph and Lamed</h3>
 The rules of the pointing of the auxiliary consonants bet, kaph and lamed are similar in almost every respect to the rules of pointing the conjunctive vav; namely:
 
-The basic pointing of the consonants bet, kaph and lamed is with a sh'va, for example: בְּתֵל-אָבִיב, גִּבּוֹר כְּשִׁמְשׁוֹן, נָסַעְתִּי לְאֵילַת, בְּשָׁכְבְּךָ, כְּשֶׁבֶת, לְקַבֵּל.
+The basic pointing of the consonants bet, kaph and lamed is with a shəva, for example: 
+<div style="text-align: left; padding-left: 50px;">
+<div class="hebrew" lang="he" style="display: inline-block; text-align: right; font-size: 1.5em;">
+בְּתֵל־אָבִיב, 
+גִּבּוֹר כְּשִׁמְשׁוֹן, 
+נָסַעְתִּי לְאֵילַת, 
+בְּשָׁכְבְּךָ, 
+כְּשֶׁבֶת, 
+לְקַבֵּל
+</div></div>
 
 Instances that require departures from the rule:
-<p style="padding-left: 30px;">a) The pointing of the consonants bet, kaph and lamed before a consonant that is pointed with a sh'va (two sh’va-`im may not come at the start of a word changes to a ḥiriq: 
-<div class="hebrew" lang="he">
+
+<p style="padding-left: 30px;">a) The pointing of the consonants bet, kaph and lamed before a consonant that is pointed with a shəva (two shəva`im may not come at the start of a word changes to a ḥiriq: 
+<div style="text-align: left; padding-left: 50px;">
+<div class="hebrew" lang="he" style="display: inline-block; text-align: right; font-size: 1.5em;">
 בִּרְחוֹבוֹת, 
 כִשְׁלֹמֹה, 
 לִצְפָת, 
 בִּרְאוֹתִי, 
 כִּשְׁמוֹע, 
 לִשְׁמוֹעַ.
-</div>
+</div></div>
 </p>
-<p style="padding-left: 30px;">b) Before a yod that is pointed with a sh'va, the pointing of the consonants bet, kaph and lamed, as is noted above, is pointed with a ḥiriq, and the sh'va with which the yod is pointed falls off, for example: 
-<div class="hebrew" lang="he">
+
+
+<p style="padding-left: 30px;">b) Before a yod that is pointed with a shəva, the pointing of the consonants bet, kaph and lamed, as is noted above, is pointed with a ḥiriq, and the shəva with which the yod is pointed falls off, for example: 
+<div style="text-align: left; padding-left: 50px;">
+<div class="hebrew" lang="he" style="display: inline-block; text-align: right; font-size: 1.5em;">
 בִּירוּשָׁלַיִם, 
 לִילָדִים, 
-כִּיהוּדָה </div>
-(but “בְּיִשְֹרָאֵל” – according to the rule as the yod is not pointed with a sh'va!)
+כִּיהוּדָה </div></div>
+(but “<span class="hebrew" lang="he" style="font-size: 1.5em;">בְּיִשְֹרָאֵל</span>” – according to the rule as the yod is not pointed with a shəva!)
 
 </p>
+
+
 <p style="padding-left: 30px;">c) The pointing of the consonants bet, kaph and lamed before a consonant that is pointed with a ḥataph is pointed with the same vowel as the ḥataph, for example: 
-<div class="hebrew" lang="he">
+<div style="text-align: left; padding-left: 50px;">
+<div class="hebrew" lang="he" style="display: inline-block; text-align: right; font-size: 1.5em;">
 בַּעֲשֹוֹתִי, 
 כְּהֲרִימִי, 
 לֶאֱכֹל, 
 כָּל רֹאשׁ לָחֳלִי.
-</div>
+</div></div>
 </p>
+
+
 <p style="padding-left: 30px;">d) When one of the consonants bet, kaph and lamed occurs before a word that starts with a definite article, the latter usually falls off and the auxiliary consonant takes the pointing of the heh according to all its rules and departures (above §19), for example: 
-<div class="hebrew" lang="he">
-בַּבַּיִת (in place of בְּהַבַּיִת ), 
+<div style="text-align: left; padding-left: 50px;">
+<div class="hebrew" lang="he" style="display: inline-block; text-align: right; font-size: 1.5em;">
+בַּבַּיִת (in place of בְּהַבַּיִת), 
 בָּאָרֶץ (--בְּהָאָרֶץ), 
 לְרָחוֹק(--לְהָרָחוֹק),
 בֶהָרִים (--בְּהָהָרִים).
-</div>
+</div></div>
 </p>
 
-<table align="center"><caption>Summary Table for the Pointing of the Consonants Bet, Kaph and Lamed</caption>
-<thead>
-<tr>
+
+
+<table style="margin-left: auto;margin-right: auto;" id="table1"><caption>Summary Table for the Pointing of the Consonants Bet, Kaph and Lamed</caption>
+<thead><tr>
 <th>Basic pointing</th>
-<th>Before a consonant pointed with a sh'va</th>
-<th>Before a yod pointed with a sh'va[foot]Note that there is no pointing for the yod.[/foot]</th>
+<th>Before a consonant pointed with a shəva</th>
+<th>Before a yod pointed with a shəva[foot]Note that there is no pointing for the yod.[/foot]</th>
 <th>Before a consonant pointed with a ḥataph</th>
 <th>Before the definite article</th>
-</tr>
-</thead>
+</tr></thead>
 <tbody>
 <tr>
-<td style="text-align: center;">בְּ, כְּ, לְ</td>
-<td style="text-align: center;">בִּי, כִּי, לִי</td>
-<td style="text-align: center;">בִּ(י), כִּ(י), לִ(י)‏</td>
-<td style="text-align: center;">As the ḥataph is pointed</td>
-<td style="text-align: center;">As the definite article is pointed</td>
-</tr>
-</tbody>
-</table>
+<td style="text-align: left;"><span class="hebrew" style="font-size: 1.5em;">בְּ, כְּ, לְ</span></td>
+<td style="text-align: left;"><span class="hebrew" style="font-size: 1.5em;">בִּי, כִּי, לִי</span></td>
+<td style="text-align: left;"><span class="hebrew" style="font-size: 1.5em;">בִּ(י), כִּ(י), לִ(י)‏</span></td>
+<td style="text-align: left;">As the ḥataph is pointed</td>
+<td style="text-align: left;">As the definite article is pointed</td></tr>
+</tbody></table>
+
 
 <hr />
 
-<h3>The Pointing of the Auxiliary Consonant Mem (§24)</h3>
+[su_spacer]
+<h3>(§24) The Pointing of the Auxiliary Consonant Mem</h3>
 The auxiliary consonant Mem is nothing but a contraction of the word “min; therefore, its basic pointing is with a ḥiriq, and the consonant that follows has a dagesh forte (a dagesh that follows a short vowel and to compensate for the missing nun!)
 
 There are two departures for the pointing of the mem:
-<p style="padding-left: 30px;">a) The pointing of the auxiliary mem before a yod pointed with a sh'va is with a ḥiriq, but both the dagesh and the sh'va fall off from the yod, as is the case with the Consonants bet, kaph and lamed in instances like this, for example: 
-<div class="hebrew" lang="he">
+
+<p style="padding-left: 30px;">a) The pointing of the auxiliary mem before a yod pointed with a shəva is with a ḥiriq, but both the dagesh and the shəva fall off from the yod, as is the case with the Consonants bet, kaph and lamed in instances like this, for example: 
+<div style="text-align: left; padding-left: 50px;">
+<div class="hebrew" lang="he" style="display: inline-block; text-align: right; font-size: 1.5em;">
 מִירוּשָׁלַיִם, 
 מִיהוּדָה.
-</div>
+</div></div>
 </p>
+
+
 <p style="padding-left: 30px;">b) For the pointing of the auxiliary mem before the consonants `aleph, heh, ḥet, 'ayin and resh that may not accept a dagesh, the ḥiriq (short vowel!) changes to a tsereh (long), for example:
-<div class="hebrew" lang="he">
+<div style="text-align: left; padding-left: 50px;">
+<div class="hebrew" lang="he" style="display: inline-block; text-align: right; font-size: 1.5em;">
 מֵאֶפְרַיִם, 
 מֵהָהָר, 
 מֵחֲדָרִים, 
 מֵעִיר, 
-מֵרֹאשׁ.</div>
- Only for the words 
- <div class="hebrew" lang="he">
-מִחוּט, 
-מִחוּץ</div>
- does the ḥiriq remain.
+מֵרֹאשׁ.</div></div>
+ Only for the words <span class="hebrew" lang="he" style="font-size: 1.5em;">מִחוּט, מִחוּץ</span> does the ḥiriq remain.
  
  </p>
 
-<table align="center"><caption>Summary Table for the Pointing of the Auxiliary Mem</caption>
-<thead>
-<tr>
+
+
+<table style="margin-left: auto;margin-right: auto;" id="table1"><caption>Summary Table for the Pointing of the Auxiliary Mem</caption>
+<thead><tr>
 <th>Basic pointing</th>
-<th>Before a yod pointed with a sh'va</th>
+<th>Before a yod pointed with a shəva</th>
 <th>Before `aleph, heh, ḥet, 'ayin and resh</th>
-</tr>
-</thead>
+</tr></thead>
+
 <tbody>
 <tr>
-<td style="text-align: center;">מִ</td>
-<td style="text-align: center;">מִ(י)‏</td>
-<td style="text-align: center;">מֵ</td>
-</tr>
-</tbody>
-</table>
-<h3>The Pointing of the Auxiliary Shin (§25)</h3>
+<td style="text-align: left;"><span class="hebrew" style="font-size: 1.5em;">מִ</span></td>
+<td style="text-align: left;"><span class="hebrew" style="font-size: 1.5em;">מִ(י)‏</span></td>
+<td style="text-align: left;"><span class="hebrew" style="font-size: 1.5em;">מֵ</td></tr>
+</tbody></table>
+
+
+[su_spacer]
+<h3>(§25) The Pointing of the Auxiliary Shin</h3>
 The pointing of the auxiliary shin is always with a segol, and in the consonant following it, a dagesh forte, for example: 
-<div class="hebrew" lang="he">
+<div style="text-align: left; padding-left: 50px;">
+<div class="hebrew" lang="he" style="display: inline-block; text-align: right; font-size: 1.5em;">
 שֶׁכֵּן, 
 שֶׁשָׁמַרְתִּי, 
 שֶׁיְּדַבֵּר
-</div>
+</div></div>
 In the pointing of the auxiliary shin, there are no departures -- always a segol even before a guttural consonant that may not take a dagesh; in such a case, the consonant following will remain without a dagesh, for example: 
-<div class="hebrew" lang="he">
+<div style="text-align: left; padding-left: 50px;">
+<div class="hebrew" lang="he" style="display: inline-block; text-align: right; font-size: 1.5em;">
 שֶׁאֲנִי, 
 שֶׁעָשִֹיתִי, 
 שֶׁהֲרֵי.
-</div>
+</div></div>
 
-<h3>The Pointing of the Word “מַה” (§26)</h3>
-Finally we will add the rules of the pointing of the word “מַה” about which many people err.
+[su_spacer]
+<h3>(§26) The Pointing of the Word “מַה”</h3>
+Finally we will add the rules of the pointing of the word “<span class="hebrew" lang="he" style="font-size: 1.5em;">מַה</span>” about which many people err.
 
-The basic pointing of the word “מַה” is with a pataḥ, and at the start of the word that follows, there is a dagesh forte (similar to the definite article!), for example: 
-<div class="hebrew" lang="he">
+The basic pointing of the word “<span class="hebrew" lang="he" style="font-size: 1.5em;">מַה</span>” is with a pataḥ, and at the start of the word that follows, there is a dagesh forte (similar to the definite article!), for example: 
+<div style="text-align: left; padding-left: 50px;">
+<div class="hebrew" lang="he" style="display: inline-block; text-align: right; font-size: 1.5em;">
 מַה זֹּאת? 
 מַה טֹּבוּ אֹהָלֶךָ! 
 מַה יָּפִים הַלֵּילוֹת!
-</div>
+</div></div>
 Departures from the above are similar to the departures in the pointing of the definite article; namely:
+
 <p style="padding-left: 30px;">a) Before `aleph, resh and an 'ayin that is not pointed with a qamats, it is pointed with a qamats, for example: 
-<div class="hebrew" lang="he">
+<div style="text-align: left; padding-left: 50px;">
+<div class="hebrew" lang="he" style="display: inline-block; text-align: right; font-size: 1.5em;">
 מָה אֹמַר וּמָה אֲדַבֵּר? 
 מָה רָאִיתָ? 
 מָה עוֺשִֹים אֵלֶה?
-</div>
+</div></div>
 </p>
+
+
 <p style="padding-left: 30px;">b) Before 'ayin and ḥet that are pointed with a qamats, and a heh that is pointed with a qamats and is part of the basic word without a prefix as well – the pointing is with a segol, for example: 
-<div class="hebrew" lang="he">
+<div style="text-align: left; padding-left: 50px;">
+<div class="hebrew" lang="he" style="display: inline-block; text-align: right; font-size: 1.5em;">
 מֶה עָשִׂיתָ? 
 מֶה חָשַׁבְתָּ? 
-מֶה הָיִיתָ אוֹמֵר?</div> [however, מָה הָרַעַשׁ? (here the heh/qamats is the definite article and not part of the basic word!)]</p>
+מֶה הָיִיתָ אוֹמֵר?</div> [however, <span class="hebrew" lang="he" style="font-size: 1.5em;">מָה הָרַעַשׁ?</span> (here the heh/qamats is the definite article and not part of the basic word!)]</p>
+
+
 <p style="padding-left: 30px;">c) As a stand-alone word and at the end of a clause – the pointing of the word “mah” is with a qamats. This includes the word in combination like: 
-<div class="hebrew" lang="he">
+<div style="text-align: left; padding-left: 50px;">
+<div class="hebrew" lang="he" style="display: inline-block; text-align: right; font-size: 1.5em;">
 "מִפְּנֵי מָה?", 
 "עַד מָה?", 
 "בְּמִדַּת מָה?"  etc.
-</div>
+</div></div>
  </p>
 
-<table align="center"><caption>Summary Table for the Pointing of the Word “Mah”</caption>
-<thead>
-<tr>
+
+
+<table style="margin-left: auto;margin-right: auto;" id="table1"><caption>Summary Table for the Pointing of the Word “Mah”</caption>
+<thead><tr>
 <th>Basic pointing</th>
 <th>Before `aleph, resh and 'ayin that are not pointed with a qamats</th>
-<th>Before heh and 'ayin that are pointed with a qamats and before a heh that is pointed with a qamats and is part of the stem</th>
+<th>Before heh and 'ayin that are pointed with a qamats<br />and before a heh that is pointed with a qamats<br />and is part of the stem</th>
 <th>As a stand-along word and at the end of a clause</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align: center;">מַה</td>
-<td style="text-align: center;">מָה</td>
-<td style="text-align: center;">מֶה</td>
-<td style="text-align: center;">מָה</td>
-</tr>
-</tbody>
-</table>
+</tr></thead>
+
+<tbody><tr>
+<td style="text-align: left;"><span class="hebrew" style="font-size: 1.5em;">מַה</span></td>
+<td style="text-align: left;"><span class="hebrew" style="font-size: 1.5em;">מָה</span></td>
+<td style="text-align: left;"><span class="hebrew" style="font-size: 1.5em;">מֶה</span></td>
+<td style="text-align: left;"><span class="hebrew" style="font-size: 1.5em;">מָה</td></tr>
+</tbody></table>
+
 </div>
 
 <hr />
@@ -6009,14 +6182,14 @@ English translation courtesy of Leonard Berkowitz. Section numbers outside the s
 		<wp:post_id>16756</wp:post_id>
 		<wp:post_date><![CDATA[2017-08-30 15:47:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2017-08-30 23:47:37]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-12-05 20:08:48]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-12-06 05:08:48]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-11-07 19:24:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-08 04:24:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[rules-for-niqqud]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>50</wp:menu_order>
+		<wp:menu_order>51</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -6046,10 +6219,6 @@ English translation courtesy of Leonard Berkowitz. Section numbers outside the s
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
-		<wp:meta_value><![CDATA[30]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpcom_is_markdown]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
@@ -6058,12 +6227,16 @@ English translation courtesy of Leonard Berkowitz. Section numbers outside the s
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
+		<wp:meta_key><![CDATA[ao_post_optimize]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpghs_github_path]]></wp:meta_key>
 		<wp:meta_value><![CDATA[_pages/rules-for-niqqud.md]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[  ]]></wp:meta_value>
+		<wp:meta_value><![CDATA[                             ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_footer]]></wp:meta_key>
@@ -6105,7 +6278,7 @@ English translation courtesy of Leonard Berkowitz. Section numbers outside the s
 		<wp:post_name><![CDATA[about-this-project]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>45</wp:menu_order>
+		<wp:menu_order>46</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -6158,7 +6331,8 @@ English translation courtesy of Leonard Berkowitz. Section numbers outside the s
 		<dc:creator><![CDATA[aharon.varady]]></dc:creator>
 		<guid isPermaLink="false">http://opensiddur.org/?page_id=18215</guid>
 		<description></description>
-		<content:encoded><![CDATA[As an open source and free software project, the Open Siddur would not be possible at all were it not for the work of its volunteer developers, transcribers, translators, commentators, artists, designers, and boosters.
+		<content:encoded><![CDATA[<div class="english-sans" lang="en" style="font-size: 1.2em;">
+As an open source and free software project, the Open Siddur would not be possible at all were it not for the work of its volunteer developers, transcribers, translators, commentators, artists, designers, and boosters.
 
 We look forward to acknowledging <em>you</em>. Please join our community and <a href="https://opensiddur.org/contribute/">contribute</a> to the Open Siddur by transcribing or translating texts, researching, providing art and comments, sharing ideas, or if you have technical skills, helping us build the Open Siddur web application. If you would like to support the Open Siddur Project financially, tax free donations can be made via a <a href="http://www.razoo.com/story/theopensiddurproject">donation page</a> sponsored by Center for Jewish Culture and Creativity, a 501(3)c non-profit providing the Open Siddur with fiscal sponsorship.
 
@@ -6194,19 +6368,20 @@ The <a href="http://wikimedia.org">Wikimedia Foundation</a> and its constellatio
 
 <h3>PresenTense Institute</h3>
 
-In the summer of 2009, the Open Siddur was one of sixteen innovative projects chosen for participation in the <a href="http://web.archive.org/web/20160626153919/http://presentense.org/institute/2009">PresenTense Institute 2009 Summer Workshop</a> for Jewish social entrepreneurship in Jerusalem. Aharon Varady was selected as the Rena and Josh Kopelman Chair of Online Community Organizing, an honor presented by the <a href="http://www.kopelman.org/">Kopelman Foundation</a>, and the Open Siddur is grateful for their sponsorship of his work at PresenTense. We deeply appreciate the participation and interest of the PresenTense staff in the public launch of Open Siddur: Ariel Beery, Aharon Horwitz, Brachie Sprung, Shai Davis, and Brian Blumenthal. Their skill building advice, ideas, and ability to connect us with helpful collaborators was extremely useful and made for a productive summer. We would also like to thank the advice and support provided at that time by J.T. Waldman and Avi Warshavsky (Director of Israel's Center for Educational Technology Department of Humanities). Many thanks to J.T. Waldman, modest travel grants to attend the workshop were provided by the <a href="http://jewishphilly.org">Jewish Federation of Greater Philadelphia</a> and the <a href="https://jps.org/">Jewish Publication Society</a>.]]></content:encoded>
+In the summer of 2009, the Open Siddur was one of sixteen innovative projects chosen for participation in the <a href="http://web.archive.org/web/20160626153919/http://presentense.org/institute/2009">PresenTense Institute 2009 Summer Workshop</a> for Jewish social entrepreneurship in Jerusalem. Aharon Varady was selected as the Rena and Josh Kopelman Chair of Online Community Organizing, an honor presented by the <a href="http://www.kopelman.org/">Kopelman Foundation</a>, and the Open Siddur is grateful for their sponsorship of his work at PresenTense. We deeply appreciate the participation and interest of the PresenTense staff in the public launch of Open Siddur: Ariel Beery, Aharon Horwitz, Brachie Sprung, Shai Davis, and Brian Blumenthal. Their skill building advice, ideas, and ability to connect us with helpful collaborators was extremely useful and made for a productive summer. We would also like to thank the advice and support provided at that time by J.T. Waldman and Avi Warshavsky (Director of Israel's Center for Educational Technology Department of Humanities). Many thanks to J.T. Waldman, modest travel grants to attend the workshop were provided by the <a href="http://jewishphilly.org">Jewish Federation of Greater Philadelphia</a> and the <a href="https://jps.org/">Jewish Publication Society</a>.
+</div>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>18215</wp:post_id>
 		<wp:post_date><![CDATA[2017-11-25 09:41:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2017-11-25 18:41:58]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-02-02 10:15:04]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-02-02 19:15:04]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-11-08 20:31:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-09 05:31:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[acknowledgements-2]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>316</wp:post_parent>
-		<wp:menu_order>59</wp:menu_order>
+		<wp:menu_order>60</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -6232,10 +6407,6 @@ In the summer of 2009, the Open Siddur was one of sixteen innovative projects ch
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
-		<wp:meta_value><![CDATA[30]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpghs_github_path]]></wp:meta_key>
 		<wp:meta_value><![CDATA[_pages/acknowledgements-2.md]]></wp:meta_value>
 		</wp:postmeta>
@@ -6245,7 +6416,7 @@ In the summer of 2009, the Open Siddur was one of sixteen innovative projects ch
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[ ]]></wp:meta_value>
+		<wp:meta_value><![CDATA[  ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_footer]]></wp:meta_key>
@@ -6271,21 +6442,19 @@ In the summer of 2009, the Open Siddur was one of sixteen innovative projects ch
 		<dc:creator><![CDATA[hermit]]></dc:creator>
 		<guid isPermaLink="false">http://opensiddur.org/profile/</guid>
 		<description></description>
-		<content:encoded><![CDATA[[wpum_profile]
-
-<!--[profilepress-user-profile id="1"]-->]]></content:encoded>
+		<content:encoded><![CDATA[[wpum_profile]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>19827</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-17 16:14:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-18 00:14:25]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-05-28 21:23:20]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-05-29 05:23:20]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-11-06 23:40:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-07 07:40:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[profile]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>60</wp:menu_order>
+		<wp:menu_order>61</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -6303,10 +6472,6 @@ In the summer of 2009, the Open Siddur was one of sixteen innovative projects ch
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
-		<wp:meta_value><![CDATA[60]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[sharing_disabled]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
@@ -6320,7 +6485,7 @@ In the summer of 2009, the Open Siddur was one of sixteen innovative projects ch
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[          ]]></wp:meta_value>
+		<wp:meta_value><![CDATA[             ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header_hide]]></wp:meta_key>
@@ -6380,7 +6545,7 @@ In the summer of 2009, the Open Siddur was one of sixteen innovative projects ch
 		<wp:post_name><![CDATA[bookmarks]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>19</wp:menu_order>
+		<wp:menu_order>20</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -6480,7 +6645,7 @@ In the summer of 2009, the Open Siddur was one of sixteen innovative projects ch
 		<wp:post_name><![CDATA[edit-account]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>23</wp:menu_order>
+		<wp:menu_order>24</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -6565,7 +6730,7 @@ If you've lost it, you can also <a href="https://opensiddur.org/help/recover-pas
 		<wp:post_name><![CDATA[log-in]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>16</wp:menu_order>
+		<wp:menu_order>17</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -6649,7 +6814,7 @@ If you've lost it, you can also <a href="https://opensiddur.org/help/recover-pas
 		<wp:post_name><![CDATA[recover-password]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>20</wp:menu_order>
+		<wp:menu_order>21</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -6713,7 +6878,7 @@ If you've lost it, you can also <a href="https://opensiddur.org/help/recover-pas
 		<content:encoded><![CDATA[<div class="english" lang="en" style="font-size: 1.2em;">
 <h3>Can't contribute as a volunteer? Please consider making a financial donation.</h3>
 
-Covering the operational cost of keeping our servers and websites online is up to people like you who deem this project worthy. The speed by which the project moves forward ultimately depends upon <a href="https://opensiddur.org/contributing/">donations of content and volunteered labor</a> and financial contributions to pay for additional specialized services. If you believe in our mission, want to see this project succeed, but cannot volunteer any labor or contribute any Jewish prayer-related content, then please donate some funds. -- <strong>and thank you!</strong>
+Covering the operational cost of keeping our servers and websites online is up to people like you who deem this project worthy. The speed by which the project moves forward ultimately depends upon <a href="/contributing/upload/">contributions of content</a> and <a href="/contribute/joining/">volunteered labor</a>, or lacking these, financial donations to pay for additional specialized services. If you believe in our mission, want to see this project succeed, but cannot volunteer any labor or contribute any Jewish prayer-related content, then please donate some funds. -- <strong>and thank you!</strong>
 
 <table style="margin-left: auto; margin-right: auto;" class="draggable">
 
@@ -6781,14 +6946,14 @@ New York, NY 10025-7449</p>
 		<wp:post_id>28454</wp:post_id>
 		<wp:post_date><![CDATA[2019-12-10 23:30:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-12-11 08:30:05]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-10-25 19:18:27]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-10-26 03:18:27]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-11-15 17:45:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-16 02:45:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[donations]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>281</wp:post_parent>
-		<wp:menu_order>21</wp:menu_order>
+		<wp:menu_order>22</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -6811,7 +6976,7 @@ New York, NY 10025-7449</p>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[                          ]]></wp:meta_value>
+		<wp:meta_value><![CDATA[                             ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_footer]]></wp:meta_key>
@@ -6845,7 +7010,7 @@ New York, NY 10025-7449</p>
 		<dc:creator><![CDATA[aharon.varady]]></dc:creator>
 		<guid isPermaLink="false">https://opensiddur.org/?page_id=28473</guid>
 		<description></description>
-		<content:encoded><![CDATA[<div class="english" lang="en" style="font-size: 1.2em;">
+		<content:encoded><![CDATA[<div class="english-sans" lang="en" style="font-size: 1.2em;">
 
 The Open Siddur is a volunteer-driven, non-profit, non-denominational, and non-prescriptive community project growing a gratis and libre Open Access archive of Jewish prayer, liturgy, and related works (historic and contemporary, familiar and obscure), composed in every era, region, and language Jews have ever prayed. Our goal is to provide a platform for sharing open-source resources, tools, and content for individuals and communities crafting their own prayerbook (<em>siddur</em>). If this sounds exciting to you, we can't wait for you to take an active role in building this project. <strong>Meet other people who care about your work. Exercise and grow your skills!</strong> The first step is making a personal connection. Please, <a href="https://opensiddur.org/contact/" target="_self" rel="noopener noreferrer">contact us</a>! Our community discussion board is hosted on Facebook and our technical community discussions take place on our Google groups list.
 <h3>Sharing new prayers that you've written and/or translated yourself</h3>
@@ -6935,14 +7100,14 @@ The Open Siddur is a volunteer-driven, non-profit, non-denominational, and non-p
 		<wp:post_id>28473</wp:post_id>
 		<wp:post_date><![CDATA[2019-12-11 00:29:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-12-11 09:29:27]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-10-20 01:26:15]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-10-20 09:26:15]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-11-06 23:14:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-07 07:14:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[joining]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>281</wp:post_parent>
-		<wp:menu_order>10</wp:menu_order>
+		<wp:menu_order>11</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -6977,7 +7142,7 @@ The Open Siddur is a volunteer-driven, non-profit, non-denominational, and non-p
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[     ]]></wp:meta_value>
+		<wp:meta_value><![CDATA[      ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_footer]]></wp:meta_key>
@@ -7011,7 +7176,7 @@ The Open Siddur is a volunteer-driven, non-profit, non-denominational, and non-p
 		<wp:post_name><![CDATA[table-of-contents]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>5</wp:menu_order>
+		<wp:menu_order>6</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -7073,7 +7238,7 @@ The Open Siddur is a volunteer-driven, non-profit, non-denominational, and non-p
 		<wp:post_name><![CDATA[user-verification]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
+		<wp:menu_order>5</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -7130,7 +7295,7 @@ The Open Siddur is a volunteer-driven, non-profit, non-denominational, and non-p
 		<wp:post_name><![CDATA[account-2]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
+		<wp:menu_order>4</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -7158,7 +7323,7 @@ The Open Siddur is a volunteer-driven, non-profit, non-denominational, and non-p
 		<wp:post_name><![CDATA[contributor]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>56</wp:menu_order>
+		<wp:menu_order>57</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>

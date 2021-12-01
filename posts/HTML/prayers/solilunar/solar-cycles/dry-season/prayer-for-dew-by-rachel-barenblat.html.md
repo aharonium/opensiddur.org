@@ -1,32 +1,23 @@
 <html>
 <head></head>
 <body>
-Title: תפילת טל | A Prayer for Dew, by Rabbi Rachel Barenblat<br />
+Title: A Prayer for Dew, by Rabbi Rachel Barenblat<br />
 Primary contributor: rbarenblat<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=594">http://opensiddur.org/?p=594</a>
 <p />
 <hr />
 
 <div class="english" lang="en" style="font-size: 1.2em;">
-<em>Geshem</em> and <em>tal</em>: rain and dew. We pray for each in its season, geshem all winter and tal as summer approaches...not everywhere, necessarily, but in the land of Israel where our prayers have their roots.
-
-In a desert climate, water is clearly a gift from God. It's easy for us to forget that, here with all of this rain and snow. But our liturgy reminds us.
-
-Through the winter months, during our daily amidah we've prayed "<em>mashiv ha-ruach u-morid ha-gashem</em>" -- You cause the winds to blow and the rains to fall! We only pray for rain during the rainy season, because it is frustrating both to us and to God when we pray for impossibilities.
+<em>Geshem</em> and <em>tal</em>: rain and dew. We pray for each in its season, geshem all winter and tal as summer approaches...not everywhere, necessarily, but in the land of Israel where our prayers have their roots. In a desert climate, water is clearly a gift from God. It's easy for us to forget that, here with all of this rain and snow. But our liturgy reminds us. Through the winter months, during our daily amidah we've prayed "<em>mashiv ha-ruach u-morid ha-gashem</em>" -- You cause the winds to blow and the rains to fall! We only pray for rain during the rainy season, because it is frustrating both to us and to God when we pray for impossibilities.
 
 On the first day of Pesaḥ we recite a special prayer for dew -- and from here on out, during the daily <em>amidah</em> we pray "<em>morid ha-tal</em>," praising God for creating life-giving dew. As we <em>davven</em> this prayer, notice how it feels to return to the word "tal" which ends each line; this prayer mirrors the Arabic poetic form called <em><a href="http://en.wikipedia.org/wiki/Ghazal">ghazal</a></em>, and that repeated end-word is like a refrain.
 
-Throughout the Psalms, dew represents blessing, a gift from God.
+Throughout the Psalms, dew represents blessing, a gift from God. Dew is sustenance which arises as if by magic. Overnight, something mysterious occurs and when we wake water gilds the grasses and the fields. (Of course, the scientific processes are well-understood -- it has something to do with temperatures and condensation -- but I prefer to think of dew as a mystery.) Dew represents divine grace: omnipresent, mysterious, blessing everyone equally no matter who we are.
 
-Dew is sustenance which arises as if by magic. Overnight, something mysterious occurs and when we wake water gilds the grasses and the fields. (Of course, the scientific processes are well-understood -- it has something to do with temperatures and condensation -- but I prefer to think of dew as a mystery.) Dew represents divine grace: omnipresent, mysterious, blessing everyone equally no matter who we are.
-
-The imagery of <em>tefilat tal</em> is sweet. We ask God to let dew drop sweetly on the blessed land, to let dew sweeten the honey of the hills. Sweet water is required in order for us to inhabit the land -- both the land of Israel, and wherever we have made our home.
-
-I see the prayer for dew as a chance to practice gratitude for everything necessary and wonderful and ineffable which sustains us. What is the dew for which you are most grateful?
-
-What does it mean to you to rise and be grateful for dew?
+The imagery of <em>tefilat tal</em> is sweet. We ask God to let dew drop sweetly on the blessed land, to let dew sweeten the honey of the hills. Sweet water is required in order for us to inhabit the land -- both the land of Israel, and wherever we have made our home. I see the prayer for dew as a chance to practice gratitude for everything necessary and wonderful and ineffable which sustains us. What is the dew for which you are most grateful? What does it mean to you to rise and be grateful for dew?
 </div>
 
+<hr />
 
 [xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>

@@ -2,7 +2,7 @@
 <head></head>
 <body>
 Title: קריאות לימי הותיקים | Torah and Haftarah Readings for Days Recognizing Military Veterans, compiled by Isaac Gantwerk Mayer<br />
-Primary contributor: isaac-gantwerk.mayer<br />
+Primary contributor: isaac.gantwerk-mayer<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=26019">http://opensiddur.org/?p=26019</a>
 <p />
 <hr />

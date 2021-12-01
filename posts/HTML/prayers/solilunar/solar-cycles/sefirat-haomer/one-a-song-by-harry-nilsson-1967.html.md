@@ -2,7 +2,7 @@
 <head></head>
 <body>
 Title: אֶחָד | One, a song by Harry Nilsson (1967)<br />
-Primary contributor: aharon.n.varady<br />
+Primary contributor: aharon.varady-bivrit<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=36831">http://opensiddur.org/?p=36831</a>
 <p />
 <hr />
