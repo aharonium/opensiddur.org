@@ -193,6 +193,12 @@ Chapter 6
 </div></td></tr>
 </tbody></table>
 
+<hr />
+
+<h3>Recordings</h3>
+
+https://www.youtube.com/watch?v=DtZpwbvWpSM
+
 &nbsp;
 </body>
 </html>

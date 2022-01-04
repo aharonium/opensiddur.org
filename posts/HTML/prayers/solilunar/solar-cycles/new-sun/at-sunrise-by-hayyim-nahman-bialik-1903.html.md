@@ -138,7 +138,7 @@ Clasp to your head the light!"
 
 <hr />
 
-The poem, "Im Shamesh" (At Sunrise) was written by Ḥayyim Naḥman Bialik in Kishinev on 24 Sivan 5664 (19 June 1903). This unattributed English translation was published on pages 98-99 of <em>Chaim Nachman Bialik: Poems from the Hebrew</em>, an anthology of Bialik's work edited by L.V. Snowman (with an introduction by Vladimir Jabotinsky) in 1924. Transcription of the Hebrew by <a href="https://benyehuda.org/bialik/bia062.html">Project Ben-Yehuda</a>. I have made some very slight changes to Bialik's lines in order to accomodate the English translation. --Aharon Varady
+The poem, "Im Shamesh" (At Sunrise) was written by Ḥayyim Naḥman Bialik in Kishinev on 24 Sivan 5664 (19 June 1903). This English translation by Dr. Leonard Victor Snowman was published on pages 98-99 of <em>Chaim Nachman Bialik: Poems from the Hebrew</em>, an anthology of Bialik's work edited by L.V. Snowman (with an introduction by Vladimir Jabotinsky) in 1924. Transcription of the Hebrew by <a href="https://benyehuda.org/bialik/bia062.html">Project Ben-Yehuda</a>. I have made some very slight changes to Bialik's lines in order to accomodate the English translation. --Aharon Varady
 
 <h3>Source(s)</h3>
 

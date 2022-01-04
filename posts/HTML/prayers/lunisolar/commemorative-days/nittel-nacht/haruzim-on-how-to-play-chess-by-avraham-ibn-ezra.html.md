@@ -312,7 +312,7 @@ For in death is resurrection.
 
 <hr />
 
-Latin translation by Thomas Hyde in <em>Mandragorias, seu Historia Shahiludii</em> (1694). English translation by Nina Salaman (néé Davis), in <em>Songs of Exile</em> (JPS 1901) pp. 129-131. The parsing of stanzas follows after Salman's translation. The transcription of the Hebrew is that shared by the <a href="https://benyehuda.org/read/2072">Ben-Yehuda Project</a>.
+Latin translation by Thomas Hyde in <em>Mandragorias, seu Historia Shahiludii</em> (1694). English translation by Nina Salaman (née Davis), in <em>Songs of Exile</em> (JPS 1901) pp. 129-131. The parsing of stanzas follows after Salaman's translation. The transcription of the Hebrew is that shared by the <a href="https://benyehuda.org/read/2072">Ben-Yehuda Project</a>.
 
 Nina Salaman offers the following details, in her <em>Songs of Exile</em> (JPS, 1901):
 

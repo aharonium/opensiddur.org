@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: Ḳinah for the Chmielnicki Massacres of 1648–1649 in Sefer Ḳol Yaaqov (1658)<br />
+Title: Ḳinah for the Chmielnicki Massacres of 1648–1649, by Yaaqov Ḳoppel ben Tsvi Margoliyot in Sefer Ḳol Yaaqov (1658)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=24029">http://opensiddur.org/?p=24029</a>
 <p />

@@ -125,6 +125,6 @@ The poem “Friday Eve” can be found in Alter Abelson’s collection of poetry
 
 <h3>Source(s)</h3>
 
-[caption id="attachment_23491" align="alignleft" width="196"]<a href="https://opensiddur.org/wp-content/uploads/2019/01/Friday-Eve-by-Rabbi-Alter-Abelson-1931.jpg"><img src="https://opensiddur.org/wp-content/uploads/2019/01/Friday-Eve-by-Rabbi-Alter-Abelson-1931-196x300.jpg" alt="" width="196" height="300" class="size-medium wp-image-23491" /></a> Friday Eve by Rabbi Alter Abelson (1931)[/caption]
+[caption id="attachment_23491" align="alignnone" width="196"]<a href="https://opensiddur.org/wp-content/uploads/2019/01/Friday-Eve-by-Rabbi-Alter-Abelson-1931.jpg"><img src="https://opensiddur.org/wp-content/uploads/2019/01/Friday-Eve-by-Rabbi-Alter-Abelson-1931-196x300.jpg" alt="" width="196" height="300" class="size-medium wp-image-23491" /></a> Friday Eve by Rabbi Alter Abelson (1931)[/caption]
 </body>
 </html>

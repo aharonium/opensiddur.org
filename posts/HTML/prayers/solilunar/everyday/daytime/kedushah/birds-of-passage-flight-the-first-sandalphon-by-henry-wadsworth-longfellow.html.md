@@ -28,7 +28,7 @@ For attribution and license, please consult the following URL: <a href="http://o
  
 <td style="vertical-align:top;">
 <div class="english" lang="en" style="text-align: left;">
-Have you read in the Talmud of old,
+Have you read in the Talmud of old,[foot]Hagiga 13b[/foot]&nbsp;
 In the Legends the Rabbins have told
 &nbsp;&nbsp;&nbsp;&nbsp;Of the limitless realms of the air,--
 Have you read it,--the marvellous story

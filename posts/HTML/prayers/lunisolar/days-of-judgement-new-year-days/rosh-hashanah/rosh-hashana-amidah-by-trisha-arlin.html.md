@@ -345,6 +345,8 @@ May I never forget to hope.  AMEN</strong>
 
 <hr />
 
-Thank you to Trisha Arlin for sharing her Rosh Hashanah Amidah, first published online on her <a href="http://triganza.blogspot.com/2011/09/rosh-hashannah-amidah.html">website</a>, with a <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA 3.0 Unported</a> license.
+"A Rosh Hashanah Amidah" was first published online on Trisha Arlin's <a href="http://triganza.blogspot.com/2011/09/rosh-hashannah-amidah.html">website</a>.
+
+&nbsp;
 </body>
 </html>

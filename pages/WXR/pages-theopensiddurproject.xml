@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.8.2" created="2021-12-01 06:41" -->
+	<!-- generator="WordPress/5.8.2" created="2022-01-03 08:01" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,20 +29,16 @@
 	<title>the Open Siddur Project ✍ פְּרוֺיֶּקט הַסִּדּוּר הַפָּתוּחַ</title>
 	<link>https://opensiddur.org</link>
 	<description>an open-source, community contributed archive for those sharing prayers and crafting their own prayerbooks</description>
-	<pubDate>Wed, 01 Dec 2021 06:41:43 +0000</pubDate>
+	<pubDate>Mon, 03 Jan 2022 08:01:17 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://opensiddur.org</wp:base_site_url>
 	<wp:base_blog_url>https://opensiddur.org</wp:base_blog_url>
 
-		<wp:author><wp:author_id>310</wp:author_id><wp:author_login><![CDATA[hierophant]]></wp:author_login><wp:author_email>email redacted</wp:author_email>
-<wp:author_display_name><![CDATA[the Hierophant]]></wp:author_display_name><wp:author_first_name><![CDATA[the]]></wp:author_first_name><wp:author_last_name><![CDATA[Hierophant]]></wp:author_last_name></wp:author>
-	<wp:author><wp:author_id>455</wp:author_id><wp:author_login><![CDATA[aharon-nissn.varady]]></wp:author_login><wp:author_email>email redacted</wp:author_email>
-<wp:author_display_name><![CDATA[Aharon N. Varady]]></wp:author_display_name><wp:author_first_name><![CDATA[Aharon N.]]></wp:author_first_name><wp:author_last_name><![CDATA[Varady]]></wp:author_last_name></wp:author>
-	<wp:author><wp:author_id>131</wp:author_id><wp:author_login><![CDATA[aharon.varady]]></wp:author_login><wp:author_email>email redacted</wp:author_email>
-<wp:author_display_name><![CDATA[Aharon N. Varady (transcription)]]></wp:author_display_name><wp:author_first_name><![CDATA[Aharon]]></wp:author_first_name><wp:author_last_name><![CDATA[Varady (transcription)]]></wp:author_last_name></wp:author>
-	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[hermit]]></wp:author_login><wp:author_email>email redacted</wp:author_email>
-<wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[The]]></wp:author_first_name><wp:author_last_name><![CDATA[Admin]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>310</wp:author_id><wp:author_login><![CDATA[hierophant]]></wp:author_login><wp:author_email>email redacted</wp:author_email><wp:author_display_name><![CDATA[the Hierophant]]></wp:author_display_name><wp:author_first_name><![CDATA[the]]></wp:author_first_name><wp:author_last_name><![CDATA[Hierophant]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_id>455</wp:author_id><wp:author_login><![CDATA[aharon-nissn.varady]]></wp:author_login><wp:author_email>email redacted</wp:author_email><wp:author_display_name><![CDATA[Aharon N. Varady]]></wp:author_display_name><wp:author_first_name><![CDATA[Aharon N.]]></wp:author_first_name><wp:author_last_name><![CDATA[Varady]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_id>131</wp:author_id><wp:author_login><![CDATA[aharon.varady]]></wp:author_login><wp:author_email>email redacted</wp:author_email><wp:author_display_name><![CDATA[Aharon N. Varady (transcription)]]></wp:author_display_name><wp:author_first_name><![CDATA[Aharon]]></wp:author_first_name><wp:author_last_name><![CDATA[Varady (transcription)]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[hermit]]></wp:author_login><wp:author_email>email redacted</wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[The]]></wp:author_first_name><wp:author_last_name><![CDATA[Admin]]></wp:author_last_name></wp:author>
 
 				
 	<generator>https://wordpress.org/?v=5.8.2</generator>
@@ -369,18 +365,20 @@ Initially, development of the Open Siddur focused primarily on building core pro
 		<description></description>
 		<content:encoded><![CDATA[<div class="english-sans" lang="en" style="font-size: 1.2em;">
 
-Polite feedback is always welcome. Note: If you have a support related question, we ask that you please <strong>reciprocate</strong> by <a href="/contributing/donations/">making a donation</a> to support and sustain our project.
+1) Polite feedback and corrections are <strong>always</strong> welcome. 
+2) If your correspondence concerns a particular webpage or resource, don't forget to provide a URL (link) to the material as a helpful reference for us.
+3) <strong>Note:</strong> If you have a support related question, then <strong>reciprocate</strong> by first <a href="/contributing/donations/">making a donation</a> to support and sustain our project.
 
 [contact-form-7 id="3882" title="Default Contact form"]
 
-If you'd like to connect with us over social media, join our discussion group on <a href="http://facebook.com/groups/opensiddur">Facebook</a>. For more technical discussions, find our <a href="https://groups.google.com/forum/#!forum/opensiddur-tech">email list</a> hosted on Google. You can also follow our project on <a href="http://twitter.com/opensiddur">Twitter</a> and via our <a href="http://facebook.com/opensiddur">Facebook page</a>. If you'd like to get an email when new posts appear on the site, please subscribe to our <a href="http://feedburner.google.com/fb/a/mailverify?uri=opensiddur">feedburner</a>.
+If you'd like to connect with us over social media, join our discussion group on <a href="https://facebook.com/groups/opensiddur">Facebook</a>. For more technical discussions, find our <a href="https://groups.google.com/forum/#!forum/opensiddur-tech">email list</a> hosted on Google. You can also follow our project on <a href="https://twitter.com/opensiddur">Twitter</a> and via our <a href="https://facebook.com/opensiddur">Facebook page</a>. If you'd like to get an email when new posts appear on the site, please subscribe to our <a href="https://feedburner.google.com/fb/a/mailverify?uri=opensiddur">feedburner</a>.
 </div>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>76</wp:post_id>
 		<wp:post_date><![CDATA[2009-06-28 15:54:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2009-06-28 23:54:11]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-15 17:41:28]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-16 02:41:28]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-12-12 11:12:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-12-12 20:12:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
@@ -441,7 +439,7 @@ If you'd like to connect with us over social media, join our discussion group on
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[                 ]]></wp:meta_value>
+		<wp:meta_value><![CDATA[                         ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header_hide]]></wp:meta_key>
@@ -1205,8 +1203,7 @@ SHARE WHAT YOU LOVE ♡ -- A Decision Tree for Choosing Free-Culture Compatible 
 		<dc:creator><![CDATA[hierophant]]></dc:creator>
 		<guid isPermaLink="false">http://opensiddur.org/?page_id=6788</guid>
 		<description></description>
-		<content:encoded><![CDATA[
-<div class="english-sans" lang="en" style="font-size: 1.2em;">
+		<content:encoded><![CDATA[<div class="english-sans" lang="en" style="font-size: 1.2em;">
 The Open Siddur is only one example of a host of projects working to transcend the impositions of copyright laws while sharing, remixing, and redistributing the products of our intellectual Commons. There are a number of related projects in <a href="https://en.wikipedia.org/wiki/Open_Source_Judaism">Open Source Judaism</a> today whose use of free-culture compatible open content and open source licensing is profoundly affecting Jewish education and cultural vitality. If you have a link to add to this list, please <a href="https://opensiddur.org/contact/">contact us</a>. (For our legacy, "<a href="http://web.archive.org/web/20120708203443/http://wiki.jewishliturgy.org:80/Environmental_Scan">environmental scan</a>" of comparative, complementary, competing, and collaborative projects, circa 2009, see <a href="http://web.archive.org/web/20120708203443/http://wiki.jewishliturgy.org:80/Environmental_Scan">here</a>.)
 <h3>Open-source Licensed Jewish Content</h3>
 <h3 style="padding-left: 40px;">Rabbinic and other Jewish Literature</h3>
@@ -1282,7 +1279,7 @@ The <a href="http://tanach.us/">Westminster Leningrad Codex</a>: digital edition
 <a href="https://opensiddur.org/wp-content/uploads/2013/04/Netanel-and-Nimmer-Is-Copyright-Property-The-Debate-in-Jewish-Law-Theoretical-Inquiries-in-Law-v12217-2011.pdf">Is Copyright Property? — The Debate in Jewish Law</a> by Neil Netanel and David Nimmer, 2011</p>
 [su_spacer]
 <h3 style="padding-left: 40px;">International &amp; United States Copyright Law</h3>
-<p style="padding-left: 80px;"><a href="https://exhibits.stanford.edu/copyrightrenewals?q=">Stanford Copyright Renewal Database</a>
+<p style="padding-left: 80px;"><a href="https://exhibits.stanford.edu/copyrightrenewals">Stanford Copyright Renewal Database</a>
 <a href="http://copyright.cornell.edu/resources/publicdomain.cfm">Cornell University Public Domain Chart</a>
 <a href="http://web.archive.org/web/20170706045419/http://www.gutenberg.org/wiki/Gutenberg:No_Sweat_of_the_Brow_Copyright">Project Gutenberg: On Sweat of the Brow Copyright</a>
 <a href="https://www.law.cornell.edu/copyright/cases/36_FSupp2d_191.htm">Bridgeman Art Library, ltd., vs. Corel Corporation</a>: Case law on the Public Domain status of reproductions of art in the Public Domain. (It's permitted for two dimensional images.)
@@ -1405,8 +1402,8 @@ The <a href="http://tanach.us/">Westminster Leningrad Codex</a>: digital edition
 		<wp:post_id>6788</wp:post_id>
 		<wp:post_date><![CDATA[2013-04-26 08:44:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2013-04-26 16:44:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-06 11:19:55]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-06 19:19:55]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-12-06 14:03:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-12-06 23:03:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[recommended-links]]></wp:post_name>
@@ -1467,7 +1464,7 @@ The <a href="http://tanach.us/">Westminster Leningrad Codex</a>: digital edition
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[          ]]></wp:meta_value>
+		<wp:meta_value><![CDATA[           ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header_hide]]></wp:meta_key>
@@ -6700,14 +6697,13 @@ In the summer of 2009, the Open Siddur was one of sixteen innovative projects ch
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Log In/Out | Register]]></title>
+		<title><![CDATA[Log In/Out]]></title>
 		<link>https://opensiddur.org/log-in/</link>
 		<pubDate>Tue, 29 Jan 2019 00:40:24 +0000</pubDate>
 		<dc:creator><![CDATA[aharon.varady]]></dc:creator>
 		<guid isPermaLink="false">https://opensiddur.org/log-in/</guid>
 		<description></description>
-		<content:encoded><![CDATA[
-[wppb-login]
+		<content:encoded><![CDATA[[wppb-login]
 
 
 
@@ -6716,15 +6712,20 @@ If you've lost it, you can also <a href="https://opensiddur.org/help/recover-pas
 [oa_social_login]
 
 <hr />
-
+<!--
 [wppb-register]
+-->
+
+Account registration is available to all project contributors. (To become a project contributor, please <a href="/contributing/upload/">share your work</a>.)
+
+&nbsp;
 ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>23551</wp:post_id>
 		<wp:post_date><![CDATA[2019-01-28 15:40:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-01-29 00:40:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-05-28 20:59:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-05-29 04:59:17]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-12-07 02:31:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-12-07 11:31:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[log-in]]></wp:post_name>
@@ -6749,7 +6750,7 @@ If you've lost it, you can also <a href="https://opensiddur.org/help/recover-pas
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[          ]]></wp:meta_value>
+		<wp:meta_value><![CDATA[            ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[sharing_disabled]]></wp:meta_key>
@@ -6780,12 +6781,12 @@ If you've lost it, you can also <a href="https://opensiddur.org/help/recover-pas
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
-		<wp:meta_value><![CDATA[90]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
 		<wp:meta_value><![CDATA[classic-editor]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ao_post_optimize]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>

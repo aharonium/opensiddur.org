@@ -46,7 +46,7 @@ For your festive meal, you can also print out <a href="http://neohasid.org/pdf/S
 
 <h3>Recordings</h3>
 
-Here's a <em>niggun</em> (melody) by Nili Simḥai for the haraḥaman, sung by Rabbi David Seidenberg.
+Here's a <em>niggun</em> (melody) by Nili Simḥai for the haraḥaman, sung by Rabbi David Seidenberg to the "Sosne Nigun" by Jonah Adels, <em>z"l</em>.
 https://opensiddur.org/wp-content/uploads/2014/09/David-Seidenberg-and-Nili-Simhai-Harachaman-for-the-Shmita-Year.mp3
 
 &nbsp;

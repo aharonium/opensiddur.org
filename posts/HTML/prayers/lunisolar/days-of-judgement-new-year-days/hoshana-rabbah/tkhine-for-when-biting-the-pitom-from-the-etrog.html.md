@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: תְּחִנָה זאָגט מען װען מען בּײַסט אָפּ דעם פִּטוּם פוּן דעם אֶתְרוֹג | Tkhine for when biting the pitom from the etrog (Siddur Ḳorban Minḥah, 1897)<br />
+Title: תְּחִנָה זאָגט מען װען מען בּײַסט אָפּ דעם פִּטוּם פוּן דעם אֶתְרוֹג | Tkhine for when biting the pitom from the etrog (Siddur Ḳorban Minḥah, 1861)<br />
 Primary contributor: emily.k<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=26937">http://opensiddur.org/?p=26937</a>
 <p />
@@ -73,9 +73,11 @@ Even though today, on Hoshana Rabbah, the mitsvah is over, nevertheless I still 
 
 <hr />
 
-This tkhine appears before Hallel in the <a href="https://opensiddur.org/compilations/sifrei-tehinot/siddur-qorban-minhah-1897">Siddur Ḳorban Minḥah</a>. Variations in the Yiddish spelling can be found in earlier and later editions of this siddur. Many thanks to Noam Sienna for highlighting this (in a <a href="https://www.facebook.com/noam.sienna/posts/10157731649798487">Facebook post</a>). English translation by the inimitable Baruch Jean Thaler. (Thank you!)
+This tkhine appears before Hallel in the <a href="https://opensiddur.org/compilations/sifrei-tehinot/siddur-qorban-minhah-1897">Siddur Ḳorban Minḥah</a>. Variations in the Yiddish spelling can be found in earlier and later editions of this siddur. Many thanks to Noam Sienna for highlighting this (in a <a href="https://www.facebook.com/noam.sienna/posts/10157731649798487">Facebook post</a>). The source from which the transcription was made was the 1897 edition of the Ḳorban Minḥah, however, it is found in earlier editions before Hallel as well. (Find the 1861 edition.) English translation by the inimitable Baruch Jean Thaler. (Thank you!)
 
 <h3>Source(s)</h3>
+
+[caption id="attachment_41538" align="alignnone" width="222"]<a href="https://opensiddur.org/wp-content/uploads/2019/09/Etrog-Tehinot-from-Siddur-Korban-Minchah-Vilna-1861.jpg"><img src="https://opensiddur.org/wp-content/uploads/2019/09/Etrog-Tehinot-from-Siddur-Korban-Minchah-Vilna-1861-222x300.jpg" alt="" width="222" height="300" class="size-medium wp-image-41538" /></a> Etrog Teḥinot from Siddur Ḳorban Minḥah (Vilna 1861)[/caption]
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/SiddurKorbanMinchah#page/n292/mode/2up"]
 

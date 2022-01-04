@@ -120,8 +120,6 @@ Composed by Ḥayyim Naḥman Bialik in the month of Sivan 5664 (May 1904), in <
 
 <h3>Source</h3>
 
-[caption id="attachment_23125" align="alignnone" width="640"]<a href="https://opensiddur.org/wp-content/uploads/2018/12/image00066.jpg"><img src="https://opensiddur.org/wp-content/uploads/2018/12/image00066-705x1024.jpg" alt="" width="640" height="930" class="size-large wp-image-23125" /></a> 241[/caption]
-
-[caption id="attachment_23124" align="alignnone" width="640"]<a href="https://opensiddur.org/wp-content/uploads/2018/12/image00065.jpg"><img src="https://opensiddur.org/wp-content/uploads/2018/12/image00065-692x1024.jpg" alt="" width="640" height="947" class="size-large wp-image-23124" /></a> 241[/caption]
+<span style="float: right;">[caption id="attachment_23125" align="alignleft" width="206"]<a href="https://opensiddur.org/wp-content/uploads/2018/12/image00066.jpg"><img src="https://opensiddur.org/wp-content/uploads/2018/12/image00066-206x300.jpg" alt="" width="206" height="300" class="size-medium wp-image-23125" /></a> 241[/caption]</span> <span style="float: left;">[caption id="attachment_23124" align="alignnone" width="203"]<a href="https://opensiddur.org/wp-content/uploads/2018/12/image00065.jpg"><img src="https://opensiddur.org/wp-content/uploads/2018/12/image00065-203x300.jpg" alt="" width="203" height="300" class="size-medium wp-image-23124" /></a> Ayekh, translated by Ruth Nevo[/caption]</span>[su_spacer]
 </body>
 </html>

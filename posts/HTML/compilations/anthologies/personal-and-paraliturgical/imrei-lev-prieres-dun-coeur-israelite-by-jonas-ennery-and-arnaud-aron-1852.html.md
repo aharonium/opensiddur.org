@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 &nbsp;
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/Jonas-Ennery-Prieres-Dun-Coeur-Israelite#page/n0/mode/2up"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/Jonas-Ennery-Prieres-Dun-Coeur-Israelite#page/n02/mode/2up"]
 
 Join us in creating a faithful digital transcription of אמרי לב <em>Imrei Lev: Prières D’un Cœur Israélite</em> (second expanded edition, by Rabbi Arnaud Aron &amp; Jonas Ennery, 1853). This collection of prayers served as the basis for English translations by Hester Rothschild and Isaac Leeser.
 

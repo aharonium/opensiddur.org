@@ -74,12 +74,17 @@ Out of impasse show us direction.
  
 <td style="vertical-align:top;">
 <div class="english" lang="en">
-Find us and fathom us; free us; fulfill us; fire our imaginations. 
+Find us and fathom us; 
+free us; 
+fulfill us; 
+fire our imaginations. 
 Prepare in us Thy divine anticipation, 
-that we may lay hold of those priceless treasures that are so easily missed, 
+that we may lay hold of those priceless treasures 
+that are so easily missed, 
 so silently lost. 
 Chasten us but strengthen us; 
-Replenish us; renew us; 
+Replenish us; 
+renew us; 
 Transform us now and never ceasingly, 
 that Thy will be done. 
 <em>Amen</em>. 

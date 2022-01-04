@@ -23,7 +23,8 @@ you have reserved a wondrous continent.
 Out of the failure of the Old World grew the new; 
 a second chance for humanity. 
 You lead the pilgrims of every generation 
-across the ocean and through the wilderness of tyranny 
+across the ocean 
+and through the wilderness of tyranny 
 to this wide land. 
 Out of their suffering came their wisdom, 
 from hatred of bigotry their love of the fellow man. 

@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: צָמְאָה נַפְשִׁי | Tsam'ah Nafshi, a piyyut attributed to Avraham ibn Ezra (interpretive translation by Rabbi Zalman Schachter-Shalomi)<br />
+Title: צָמְאָה נַפְשִׁי | Tsam'ah Nafshi, a piyyut by Avraham ibn Ezra (interpretive translation by Rabbi Zalman Schachter-Shalomi)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=29357">http://opensiddur.org/?p=29357</a>
 <p />

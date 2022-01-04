@@ -126,6 +126,7 @@ The Blessing over Separations was first read by Shelby Handler on Rosh Ḥodesh 
 
 <h3>Source</h3>
 
-[gallery type="columns" link="file" size="medium" ids="18156,18157"]
+<span style="float: right;">[caption id="attachment_18156" align="alignleft" width="224"]<a href="https://opensiddur.org/wp-content/uploads/2017/11/Blessing-over-Separation-Shelby-Handler-2017-recto-e1511146039950.jpg"><img src="https://opensiddur.org/wp-content/uploads/2017/11/Blessing-over-Separation-Shelby-Handler-2017-recto-e1511146039950-224x300.jpg" alt="" width="224" height="300" class="size-medium wp-image-18156" /></a> Blessing over Separation (Shelby Handler, 2017) - recto[/caption]</span> <span style="float: left;">[caption id="attachment_18157" align="alignnone" width="216"]<a href="https://opensiddur.org/wp-content/uploads/2017/11/Blessing-over-Separation-Shelby-Handler-2017-verso-e1511146126509.jpg"><img src="https://opensiddur.org/wp-content/uploads/2017/11/Blessing-over-Separation-Shelby-Handler-2017-verso-e1511146126509-216x300.jpg" alt="" width="216" height="300" class="size-medium wp-image-18157" /></a> Blessing over Separation (Shelby Handler, 2017) - verso[/caption]</span>[su_spacer]
+
 </body>
 </html>

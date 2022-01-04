@@ -14,9 +14,9 @@ For attribution and license, please consult the following URL: <a href="http://o
 <div class="liturgy" lang="he" style="text-align: right;">
 בָּרוּךְ אַתָּה ה׳ מָקוֹר הַחַיִּים
 שֶׁבָּרָא אוֹתָנוּ בְּצַלְמוֹ, 
-וּמַּזְמִין אוֹתָנוּ לְחַדֵּשׁ בְּכָל יוֺם תָּמִיד 
+וּמַּזְמִין אוֹתָנוּ לְחַדֵּשׁ בְּכָל יוֹם תָּמִיד 
 מַעֲשֵׂה בְּרֵאשִׁית.
-בָּרוּךְ אַתָּה ה׳ יוֺצֵר יְצִירִים׃
+בָּרוּךְ אַתָּה ה׳ יוֹצֵר יְצִירִים׃
 </span></div></td>
  
 <td style="vertical-align:top;"><div class="english" lang="en">
@@ -35,6 +35,6 @@ Blessed are You, God, Who created us creative.
 
 <h3>Source</h3>
 
-<a href="https://opensiddur.org/wp-content/uploads/2017/10/Birkat-Yotser-Yitsirim.jpg"><img src="https://opensiddur.org/wp-content/uploads/2017/10/Birkat-Yotser-Yitsirim.jpg" alt="" width="960" height="540" class="alignnone size-full wp-image-18022" /></a>
+[caption id="attachment_18022" align="alignnone" width="300"]<a href="https://opensiddur.org/wp-content/uploads/2017/10/Birkat-Yotser-Yitsirim.jpg"><img src="https://opensiddur.org/wp-content/uploads/2017/10/Birkat-Yotser-Yitsirim-300x169.jpg" alt="" width="300" height="169" class="size-medium wp-image-18022" /></a> Birkat Yotser Yitsirim (Rabbi Adina Allen 2017)[/caption]
 </body>
 </html>
