@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: Haftarah for MLK Shabbat: "I have a Dream" by Martin Luther King, Jr., cantillated by Rabbi David Evan Markus<br />
+Title: Haftarah for MLK Shabbat: "I have a Dream" by Martin Luther King, Jr. (1963), cantillated by Rabbi David Evan Markus<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=18599">http://opensiddur.org/?p=18599</a>
 <p />
@@ -12,6 +12,8 @@ In 2017, Rabbi David Evan Markus prepared the end of Dr. King's famous speech re
 
 In transcribing Rabbi Markus's cantillation into digital text, I had to Hebraicize the English text since Hebrew cantillation diacritical marks can only be combined with Hebrew letters. The orthography I've used is adapted from the convention we use for Yiddish which is similar to that suggested by YIVO. For Rabbi Markus's original cantillation over the text of the speech in English, see below. The text of Rabbi Markus speech is abridged from the original and also replaces several words in places. Where this has occured I have placed those words in brackets and indicated abridgement with four dots.
 </div>
+
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/mlkshabbathaftarahreadingdavidevanmarkus2017#page/n0/mode/2up"]
 
 <hr />
 
@@ -129,9 +131,6 @@ Judeo-English added by Aharon Varady.
 
 <h3>Source</h3>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/mlkshabbathaftarahreadingdavidevanmarkus2017#page/n0/mode/2up"]
-
-&nbsp;
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/ihaveadreammartinlutherkingjr.marchonwashington1963#page/n0/mode/2up"]
 
 <hr />

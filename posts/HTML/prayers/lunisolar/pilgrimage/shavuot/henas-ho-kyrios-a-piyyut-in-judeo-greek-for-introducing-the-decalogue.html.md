@@ -153,7 +153,7 @@ we-Israel hallelu-Yah!
 <div class="english" lang="en">
 To the servant, the loyal one,
 To the humble one, to the diligent one,
-In two stelae engraved,
+In two tablets engraved,
 And Yisrael, praise Yah!
 </span></div></td>
 
@@ -169,7 +169,7 @@ And Yisrael, praise Yah!
 <div class="english" lang="en">
 To Mosheh, our teacher, a shepherd,
 The steadfast in all, that is His,
-He gave him the Torah, on two stelae.
+He gave him the Torah, on two tablets.
 And Yisrael, praise Yah!
 </div></td></tr>
 

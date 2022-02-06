@@ -24,30 +24,27 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tr><td style="vertical-align:top;">
 <div class="german" lang="de">
 „Bevor sie kreiset hat sie geboren, bevor 
-sie Wehen bekommt, hat sie entbunden.“ 
-(Jes. 66, 7.) 
+sie Wehen bekommt, hat sie entbunden.“ <span class="citation">(Jes. 66, 7.)</span> 
 </span></div></td>
 
 <td style="vertical-align:top;">
 <div class="english" lang="en">
 Before she labored, she was delivered;
-Before her pangs came, she bore a son!
---Isaiah 66:7
+Before her pangs came, she bore a son! <span class="citation">(Isaiah 66:7)</span>
 </span></div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
 <div class="german" lang="de">
-„Fürchte dich nicht, ich stehe dir bei.“ 
-(Jes. 41, 14.) 
+„Fürchte dich nicht, 
+ich stehe dir bei.“ <span class="citation">(Jes. 41, 14.)</span>
 </span></div></td>
 
 <td style="vertical-align:top;">
 <div class="english" lang="en">
 Fear not, worm of Jacob,
 O people of Israel,
-For I will help you.
---Isaiah 41:14
+For I will help you. <span class="citation">(Isaiah 41:14)</span>
 </span></div></td></tr>
 
 

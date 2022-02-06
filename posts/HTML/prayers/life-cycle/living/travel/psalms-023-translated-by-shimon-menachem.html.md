@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: תהלים כג | Psalms 23, translation by Shim'on Menachem, melody by Shir Yaakov<br />
+Title: תהלים כ״ג | Psalms 23, translation by Shim'on Menachem, melody by Shir Yaakov<br />
 Primary contributor: shimonides<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=7660">http://opensiddur.org/?p=7660</a>
 <p />

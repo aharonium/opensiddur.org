@@ -251,8 +251,6 @@ Set to music by <a href="https://www.loc.gov/item/ihas.200196855/?loclr=blogflt"
 
 https://www.youtube.com/watch?v=jTWEFjkeH6I
 
-<hr />
-
 &nbsp;
 </body>
 </html>

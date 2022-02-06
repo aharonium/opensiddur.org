@@ -70,7 +70,9 @@ You issued at that time the following seven laws:[foot]Sanhedrin 56a; cf. Toseft
   
     <li>Not to be cruel to any living creature; and</li>
   
-    <li>That every society govern by just laws based on the recognition and acknowledgment of You, O God, as the sovereign ruler of all men and all nations. </li>
+    <li>That every society govern by just laws 
+based on the recognition and acknowledgment of You, O God, 
+as the sovereign ruler of all men and all nations. </li>
 </ol>
 </div></td></tr>
 

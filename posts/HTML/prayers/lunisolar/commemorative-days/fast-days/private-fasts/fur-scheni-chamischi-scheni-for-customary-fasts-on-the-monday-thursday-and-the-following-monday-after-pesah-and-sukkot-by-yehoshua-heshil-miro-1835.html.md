@@ -288,7 +288,7 @@ and deliver us from all evil,
 
 <hr />
 
-"Für Scheni chamischi scheni" was written by Yehoshua Heshil Miro and published in his anthology of teḥinot, <a href="/?p=41365">בית יעקב (Beit Yaaqov) <em>Allgemeines Gebetbuch für Gebildete Frauen Mosaicher Religion</em></a>. In the 1835 edition, it appears as teḥinah №55, on pp. 98-100. In the 1842 edition, it appears as teḥinah №58, on pp. 103-105. 
+"Für Scheni chamischi scheni" was written by Yehoshua Heshil Miro and published in his anthology of teḥinot, <a href="/?p=41365">בית יעקב (Beit Yaaqov) <em>Allgemeines Gebetbuch für gebildete Frauen mosaicher Religion</em></a>. This teḥinah was new to the 1835 edition, where it appears as teḥinah №55, on pp. 98-100. In the 1842 edition, it appears as teḥinah №58, on pp. 103-105. 
 
 This transcription was derived by proofreading the output of Tesseract-OCR with its Fraktur script training data. This translation was derived by proofreading the output of the translation tools of DeepL and Google. --Aharon Varady
 
@@ -297,12 +297,5 @@ This transcription was derived by proofreading the output of Tesseract-OCR with 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/allgemeines-gebetbuch-fur-gebildete-frauen-mosaicher-religion-yehoshua-heshil-miro-1835/Beit%20Yaakov-%20Allgemeines%20Gebetbuch%20f%C3%BCr%20Gebildete%20Frauen%20Mosaicher%20Religion%20%281st%20ed.%20Miro%201835%29#page/n115/mode/2up"]
 
 &nbsp;
-
-
-
-
-
-
-
 </body>
 </html>

@@ -20,7 +20,9 @@ Scanning this work is the first step in a more comprehensive project of transcri
 <hr />
 
 <div class="english" lang="en" style="font-size: 1.2em;">
-INTRODUCTION. 
+
+
+<blockquote>INTRODUCTION. 
 
 
 The Form of the Sephardi Prayer Book, which has obtained in the Communities of Holland, England and America, has a history of its own. As a reprint is now appearing under my authority I will endeavour to trace in a few pages that history in a general outline, so that it may serve as an Introduction to the new issue. 
@@ -47,11 +49,16 @@ M. GASTER.
 
 London: 27 Siván, 5661. 
 14 June, 1901. 
+</blockquote>
+
+
 
 <hr />
 
-PREFACE TO THE FIRST EDITION. 
-BY THE LATE REV. D. A. DE SOLA. 
+
+
+<blockquote>PREFACE TO THE FIRST EDITION. 
+BY THE LATE REV. D.A. DE SOLA. 
 
 
 In stating the motives which have induced me to undertake the present publication, I trust it will not be deemed superfluous to say a few words; first, concerning the origin and nature of the duty of prayer; secondly, to give a concise sketch of the History of the Hebrew Liturgy as contained in this work; and thirdly, to give some account of translations of Prayers which have been heretofore made for the use of the Spanish and Portuguese Israelites. 
@@ -88,12 +95,16 @@ Many of our ancestors having fled from the cruel and tyrannical Inquisition and 
 
 The first translation in English which really merited the name, was that of David Levi, and appeared A.M. 5549—1789. Although that learned individual greatly excelled his predecessors, of whose translations he justly says that “they had been executed in a manner so faulty, defective, and erroneous, as tended rather to bring disgrace on the service, than to recommend and explain it,” it must nevertheless be admitted that, although a correct translator of the text, he was not quite so much distinguished for taste, as is particularly manifested in his versions of poetical pieces, where he is very unsuccessful in transfusing the spirit of the original, which completely disappears among the mass of unnecessary Hebraisms and pleonasms that obscure the sense of his version; which necessarily detracts from the need of praise to which, in other respects, it is justly entitled. It is to be regretted also, that some of the most celebrated Continental translations have appeared since his time; for it is certain that if he could have consulted the translations of the prayers by Eüchel and Friedlander in German, Vintura in French, Fiorentino and Ottolenghi in Italian, or the Dutch versions printed in 1791, or that by Mr. S. Mulder, recently completed, he would undoubtedly have enriched his translation with much of the elegance and critical acumen so ably displayed in those versions.
 
-The reprints that have since appeared, abound with additional imperfections. The many omissions and mutilations of text and notes, misdirections, and typographical errors, render them greatly inferior to the original edition; which, however, is by no means free from the same imperfections.
+The reprints that have since appeared, abound with additional imperfections. The many omissions and mutilations of text and notes, misdirections, and typographical errors, render them greatly inferior to the original edition; which, however, is by no means free from the same imperfections.</blockquote>
+
+
 &nbsp;
 
-PREFATORY NOTE.
 
-To meet a most pressing want among Spanish and Portuguese Jews both in England and abroad, the Society of Heshaim have prepared this new edition of the late Rev. D.A. de Sola’s Prayer Book. They have been so fortunate as to secure the co-operation of the learned Háham of the Congregation, the Rev. Dr. Moses Gaster, who has taken charge of the work of revising the text, both Hebrew and English, and has made as little alteration as possible, so that in every way the work of revision has been carried out in the most conservative spirit. Dr. Gaster has, moreover, arranged several Prayers for Special Occasions, to meet wants long felt and often expressed, and he has also included the Prayer for a Bar mitsvah, composed by the late Hah am Artom, and used for some years in our Synagogues.
+
+<blockquote>PREFATORY NOTE.
+
+To meet a most pressing want among Spanish and Portuguese Jews both in England and abroad, the Society of Heshaim have prepared this new edition of the late Rev. D.A. de Sola’s Prayer Book. They have been so fortunate as to secure the co-operation of the learned Háham of the Congregation, the Rev. Dr. Moses Gaster, who has taken charge of the work of revising the text, both Hebrew and English, and has made as little alteration as possible, so that in every way the work of revision has been carried out in the most conservative spirit. Dr. Gaster has, moreover, arranged several Prayers for Special Occasions, to meet wants long felt and often expressed, and he has also included the Prayer for a Bar mitsvah, composed by the late Haham Artom, and used for some years in our Synagogues.
 
 Special attention has been given to the directions for the conduct of Divine Service in Synagogue, as will appear in the following pages. It is therefore merely necessary to remark here, that it is customary as a rule for the Congregation to say "Blessed be he, and blessed be his name,” when the Minister mentions the name of the Eternal in a blessing, and "Amen" at the end of it.
 
@@ -111,7 +122,9 @@ Prayers which in Synagogue are said facing the Ark, are in a private house said 
 
 The double asterisk <strong>* *</strong> placed against various lines in the Zemirot (pp. 15-22 and 93-98) signifies that on Sabbaths and Holy-days the verse so marked is chanted by the Congregation, and the last words repeated by the Reader. 
 
-The figures between parentheses in the English text refer to the notes at the end of the volume.
+The figures between parentheses in the English text refer to the notes at the end of the volume.</blockquote>
+
+
 </div>
 
 &nbsp;

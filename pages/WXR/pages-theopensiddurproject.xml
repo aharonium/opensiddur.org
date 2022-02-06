@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.8.2" created="2022-01-03 08:01" -->
+	<!-- generator="WordPress/5.9" created="2022-02-06 02:35" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>the Open Siddur Project ✍ פְּרוֺיֶּקט הַסִּדּוּר הַפָּתוּחַ</title>
 	<link>https://opensiddur.org</link>
 	<description>an open-source, community contributed archive for those sharing prayers and crafting their own prayerbooks</description>
-	<pubDate>Mon, 03 Jan 2022 08:01:17 +0000</pubDate>
+	<pubDate>Sun, 06 Feb 2022 02:35:27 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://opensiddur.org</wp:base_site_url>
@@ -41,7 +41,7 @@
 	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[hermit]]></wp:author_login><wp:author_email>email redacted</wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[The]]></wp:author_first_name><wp:author_last_name><![CDATA[Admin]]></wp:author_last_name></wp:author>
 
 				
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.9</generator>
 
 <image>
 	<url>https://opensiddur.org/wp-content/uploads/2015/03/Open-Siddur-Project-Logo-2015-5509b4bdv1_site_icon-32x32.png</url>
@@ -1812,6 +1812,18 @@ The tables below are organized according to font support for t'amim and/or niqqu
 </tr>
 
 <tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=NotoRashiHebrew" frameborder="0" width="100%" height="240px"]</td>
+<td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=NotoRashiHebrew" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe">NotoRashiHebrew</a></h3></td>
+<td style="vertical-align:top;">t'amim and niqqud<p />positioning errors:<br />tsere<br />meteg<br />niqqud under tsadi</td>
+<td style="vertical-align:top;">missing:<br />varika<br />wide ligatures</td>
+<td style="vertical-align:top;">Cursive</td>
+<td style="vertical-align:top;"><a href="https://fonts.google.com/noto/specimen/Noto+Rashi+Hebrew">Google LLC</a></td>
+<td style="vertical-align:top;">Borys Kosmynka</td>
+<td style="vertical-align:top;">1.001</td>
+<td style="vertical-align:top;"><a href="https://en.wikipedia.org/wiki/Open_Font_License">SIL OFL</a> 1.1</td>
+</tr>
+
+<tr style="outline: thin solid;" height="250px">
 <td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=MiriamMonoCLM" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=MiriamMonoCLM" rel="lightbox" data-lightbox-type="iframe" rel="lightbox" data-lightbox-type="iframe">Miriam Mono CLM</a></h3></td>
 <td style="vertical-align:top;">t'amim and niqqud<p />positioning errors:<br />rafé<br />varika</td>
@@ -3244,8 +3256,8 @@ If you or your company designed a Hebrew font which you never updated to Unicode
 		<wp:post_id>7951</wp:post_id>
 		<wp:post_date><![CDATA[2013-12-19 11:11:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2013-12-19 20:11:54]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-06 11:23:59]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-06 19:23:59]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-01-30 10:11:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-01-30 19:11:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[fonts]]></wp:post_name>
@@ -3322,7 +3334,7 @@ If you or your company designed a Hebrew font which you never updated to Unicode
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[                               ]]></wp:meta_value>
+		<wp:meta_value><![CDATA[                                   ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header_hide]]></wp:meta_key>

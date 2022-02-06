@@ -101,7 +101,7 @@ Parashat Ki Tissa <span class="citation">(Exodus 30:11-34:35)</span> in the annu
  
 <td style="vertical-align:top;">
 <div class="english" lang="en">
-<span class="p"><sup>18</sup>&nbsp;Now he gave to Mosheh when he had finished speaking with him on Har Sinai the two Luḥot ha'Edut/Stelae of Testimony, luḥot of stone, written by the finger of Elohim.[foot]This verse functions as a Priestly lead in to the Sin of the Golden Calf, the composition of which is restricted mainly to E and J. The sin of the Golden Calf is very problematic for P, since it portrays Aharon as a sinner and the Levites as the heroes. Numbers 16-19, does its best to fix that impression.[/foot]</span>
+<span class="p"><sup>18</sup>&nbsp;Now he gave to Mosheh when he had finished speaking with him on Har Sinai the two Luḥot ha'Edut/Tablets of Testimony, luḥot of stone, written by the finger of Elohim.[foot]This verse functions as a Priestly lead in to the Sin of the Golden Calf, the composition of which is restricted mainly to E and J. The sin of the Golden Calf is very problematic for P, since it portrays Aharon as a sinner and the Levites as the heroes. Numbers 16-19, does its best to fix that impression.[/foot]</span>
 </div></td></tr>
 
 

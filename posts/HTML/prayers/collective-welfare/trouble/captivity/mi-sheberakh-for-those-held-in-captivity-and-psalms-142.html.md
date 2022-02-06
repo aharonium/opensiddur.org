@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: תהלים קמ״ב | Psalms 142 and Mi sheBerakh for those in captivity or whose whereabouts are unknown<br />
+Title: תהלים קמ״ב | Psalms 142 and a Mi sheBerakh for those in captivity (or whose whereabouts are unknown)<br />
 Primary contributor: ephraim.mirvis<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=9105">http://opensiddur.org/?p=9105</a>
 <p />
@@ -120,12 +120,12 @@ may they bless and safeguard and preserve the captives:
 
 
 <tr><td style="vertical-align:top;" width="26%"><div class="liturgy" lang="he">
-שמות של השבויים
+<span class="instruction">שמות של השבויים</span>
 </span></div></td>
  
 <td style="vertical-align:top;" width="36%%">
 <div class="english" lang="en">
-<em>name of captive(s)</em>
+<span class="instruction">name of captive(s)</span>
 </div></td>
 
 <td style="vertical-align:top;" width="36%%">

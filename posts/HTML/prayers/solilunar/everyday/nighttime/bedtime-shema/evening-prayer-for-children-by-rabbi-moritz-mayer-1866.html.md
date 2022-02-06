@@ -68,7 +68,7 @@ My salvation shall be sure.
 
 <hr />
 
-"Evening Prayer for Children" is one of thirty prayers appearing in Rabbi Moritz Mayer's collection of tehinot, <em>Hours of Devotion</em> (1866), of uncertain provenance and which he may have written. --Aharon Varady
+"Evening Prayer for Children" is one of thirty prayers appearing in Rabbi Moritz Mayer's collection of tehinot, <em><a href="/?p=3692">Hours of Devotion</a></em> (1866), of uncertain provenance and which he may have written. --Aharon Varady
 
 <h3>Source(s)</h3>
 

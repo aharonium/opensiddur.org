@@ -11,6 +11,8 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/mahzoravodatohelmoedavodatyomhakippurimarthurdavisandherbertadler1904#page/n0/mode/2up"]
 
+&nbsp; 
+
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/mahzoravodatohelmoedavodatyomhakippurimvol2arthurdavisandherbertadler1904#page/n0/mode/2up"]
 
 This work is in the Public Domain due to its having been published before January 1st 1924.
@@ -32,7 +34,7 @@ It was reprinted in the US by the Hebrew Publishing Company and went through man
 <hr />
 
 <div class="english" lang="en" style="font-size: 1.2em;">
-PREFATORY NOTE 
+<blockquote>PREFATORY NOTE 
 
 The need for a new English translation of the Festival Prayers has been long felt, and has yet remained unsatisfied. Almost equally important was the necessity for producing an accurate and continuous Hebrew text. 
 
@@ -46,7 +48,7 @@ Great care has been given to the preparation of the Hebrew text. It has been bas
 
 Advantage has been taken of the modifications sanctioned by the present and by the late Chief Rabbi to exclude a number of passages which have for some time been omitted from the service by the majority of English congregations. 
 
-October 1904
+October 1904</blockquote>
 </div>
 
 &nbsp;

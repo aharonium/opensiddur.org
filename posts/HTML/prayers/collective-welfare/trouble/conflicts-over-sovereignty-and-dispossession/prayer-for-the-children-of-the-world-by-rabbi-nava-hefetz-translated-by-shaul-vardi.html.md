@@ -20,7 +20,6 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <td style="vertical-align: top;" width="32%">
 <div class="arabic" lang="ar">
-
 رب الخليقة ملك السلام
 بارك اولادنا واولاد العالم اجمع
 بصحة الجسد والنفس والروح
@@ -45,7 +44,6 @@ With physical, emotional, and spiritual health.
 
 <td style="vertical-align: top;" width="32%">
 <div class="arabic" lang="ar">
-
 باري المخاليق على صورتك
 وبالمحبة الجمة بعثت فيهم الروح
 وفق دربهم بعالمك الذي خلقت
@@ -68,7 +66,6 @@ Let their paths be successful in this world that You created.
 
 <td style="vertical-align: top;" width="32%">
 <div class="arabic" lang="ar">
-
 هب لهم من لدنك قوة واعضد اجسادهم وانفسهم
 </span></div></td>
 
@@ -88,7 +85,6 @@ Give them of Your resilience and strengthen the sinews of their bodies and minds
 
 <td style="vertical-align: top;" width="32%">
 <div class="arabic" lang="ar">
-
 احرسهم ونجهم من كل شر
 لانك الصدوق المنعم
 </span></div></td>
@@ -110,7 +106,6 @@ For Your mercy and truth abound.
 
 <td style="vertical-align: top;" width="32%">
 <div class="arabic" lang="ar">
-
 اجعل السلام يعم البلاد وبهجة ابدية لكل البشر
 فلتكن مشيئتك آمين
 </span></div></td>
@@ -119,8 +114,7 @@ For Your mercy and truth abound.
 <div class="english" lang="en">
 Grant peace to the Land and everlasting happiness to all its inhabitants.
 Amen, may it be Your will
-</div></td>
-</tr>
+</div></td></tr>
 </tbody></table>
 </body>
 </html>

@@ -127,6 +127,8 @@ These quotations from Dr. King’s speeches were edited by Rabbi Marcia Prager a
 
 https://archive.org/download/AHaftarahForMartinLutherKingShabbatJackKesslerKerem2014/HaftaraForMlkShabbatjackKesslerAndMarciaPrager.mp3
 
+https://www.youtube.com/watch?v=htjWeLG6FkU&t=2s
+
 <h3>Source</h3>
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.archive.org/stream/english-leyning-bringing-new-meaning-to-the-torah-service-jack-kessler-2014#page/n3/mode/2up"]

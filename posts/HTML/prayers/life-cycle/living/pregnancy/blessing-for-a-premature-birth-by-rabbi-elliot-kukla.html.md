@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: Blessing for a Premature Birth, by Rabbi Elliot Kukla<br />
+Title: Prayer on the Occasion of a Premature Birth, by Rabbi Elliot Kukla<br />
 Primary contributor: elliot.kukla<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=41741">http://opensiddur.org/?p=41741</a>
 <p />

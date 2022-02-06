@@ -55,7 +55,7 @@ On the 3d day of this month (April 4) Benjamin Harrison, the President of the Un
  
 <td style="vertical-align:top;">
 <div class="english" lang="en">
-As Jews it is our religious duty to pray for the weal of the government wherever we are settled, as the Prophet Jeremiah enjoined upon our ancestors (Jeremiah, 29:7), and as our rabbis have repeatedly urged us to do. But by far more is it our solemn duty and joyful privilege, as citizens of the United States, to take part in the national celebrations of the people of this glorious land for the freedom of conscience and the equality before the law which the constitution of the United States guarantees to us. We should dearly cherish the memory of George Washington, who was one of the framers of that constitution, and was installed as Executive of the nation under its provisions on the above date one hundred years ago.
+As Jews it is our religious duty to pray for the weal of the government wherever we are settled, as the Prophet Jeremiah enjoined upon our ancestors <span class="citation">(Jeremiah, 29:7)</span>, and as our rabbis have repeatedly urged us to do. But by far more is it our solemn duty and joyful privilege, as citizens of the United States, to take part in the national celebrations of the people of this glorious land for the freedom of conscience and the equality before the law which the constitution of the United States guarantees to us. We should dearly cherish the memory of George Washington, who was one of the framers of that constitution, and was installed as Executive of the nation under its provisions on the above date one hundred years ago.
 </div></td></tr>
 
 
@@ -67,7 +67,7 @@ As Jews it is our religious duty to pray for the weal of the government wherever
  
 <td style="vertical-align:top;">
 <div class="english" lang="en">
-That national constitution, in which we glory as citizens of the United States, should be doubly dear to us as Jews since it is based upon the principles of our sacred Torah which recognizes the equality of all men before the law. For thus it is written:— "Like any citizen in your own midst shall be unto you the stranger who sojourns with you. and thou shall love him as thyself" (Leviticus 19:34); "You shall love the stranger" (Deuteronomy 10:19), and many more commands of this purport.
+That national constitution, in which we glory as citizens of the United States, should be doubly dear to us as Jews since it is based upon the principles of our sacred Torah which recognizes the equality of all men before the law. For thus it is written:— "Like any citizen in your own midst shall be unto you the stranger who sojourns with you. and thou shall love him as thyself" <span class="citation">(Leviticus 19:34)</span>; "You shall love the stranger" <span class="citation">(Deuteronomy 10:19)</span>, and many more commands of this purport.
 </div></td></tr>
 
 

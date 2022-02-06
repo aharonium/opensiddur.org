@@ -1,17 +1,23 @@
 <html>
 <head></head>
 <body>
-Title: תָּחֲנוּנֵי בַּת יְהוּדָה (Taḥnunei bat Yehudah): Andachtsbuch für Israelitische Frauenzimmer, an anthology of teḥinot in German by Meïr haLevi Letteris (1846, 1857)<br />
+Title: תָּחֲנוּנֵי בַּת יְהוּדָה (Taḥnunei bat Yehudah): Andachtsbuch für Israelitische Frauenzimmer, an anthology of teḥinot in German by Meïr haLevi Letteris (1846)<br />
 Primary contributor: emily.k<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=41412">http://opensiddur.org/?p=41412</a>
 <p />
 <hr />
 
-This is the anthology of teḥinot in German compiled by Meïr Letteris, <span class="hebrew">תָּחֲנוּנֵי בַּת יְהוּדָה</span> (Taḥnunei bat Yehudah) <em>Andachtsbuch für israelitische Frauenzimmer zur öffentlichen und häuslichen Erbauung in allen Berhältnissen des Lebens als Jungfrau, Brant, Gattin und Mutter</em>, originally published in 1846. An edition printed in Judeo-German (German written in <em>vayber-taytsh</em>, not to be confused with Yiddish) was published in 1851. This sixth edition was printed with slight changes to the typeface and layout in 1857. 
+This is the anthology of teḥinot in German compiled by Meïr Letteris, <span class="hebrew">תָּחֲנוּנֵי בַּת יְהוּדָה</span> (Taḥnunei bat Yehudah) <em>Andachtsbuch für israelitische Frauenzimmer zur öffentlichen und häuslichen Erbauung in allen Berhältnissen des Lebens als Jungfrau, Brant, Gattin und Mutter</em>, originally published in 1846. An edition printed in Judeo-German (German written in <em>vayber-taytsh</em>, not to be confused with Yiddish) was published in 1851. A sixth edition was printed with slight changes to the typeface and layout in 1857. 
+
+Many prayers from <em>Taḥnunei bat Yehudah</em> were translated Miriam Wertheimer into English in her <em><a href="/?p=41448">Devotional Exercises for the Use of Jewish Women on Public and Domestic Occasions</a></em> (1852).
 
 <h3>Source(s)</h3>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/tahnunei-bat-yehudah-meir-letteris-1857/Ta%E1%B8%A5nunei%20bat%20Yehudah%20%28Meir%20Letteris%201857%29#page/n0/mode/2up"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/tahnunei-bat-yehudah-meir-letteris-1846-judeo-german/Ta%E1%B8%A5nunei%20bat%20Yehudah%20%28Me%C3%AFr%20Letteris%201846%2C%20Judeo-German%29#page/n5/mode/2up"]
+
+&nbsp;
+
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/tahnunei-bat-yehudah-meir-letteris-1846/Ta%E1%B8%A5nunei%20bat%20Yehudah%20%28Me%C3%AFr%20Letteris%201846%29#page/n3/mode/2up"]
 
 &nbsp;
 
@@ -127,7 +133,7 @@ CONTENTS
 
 <tr><td style="vertical-align:top;">
 <div class="german" lang="de" style="text-align: left;">
-Gebet beim Eintritt in das Gotteshaus
+<a href="/?p=41768">Gebet beim Eintritt in das Gotteshaus</a>
 Morgenbet
 Abendgebet
 Vor dem schlafengehen
@@ -139,10 +145,10 @@ Gebet am Donnerstag
 Gebet am Freitag 
 Gebet am Samstag 
 Betrachtung beim Ausheben der Gesetzrolle (ספר תורה) aus der heiligen Lade am Samstag und an Feiertagen, um daraus die bezeichneten Abschnitte vorzulesen
-Gebet für den Landesfürsten
+<a href="/?p=42395">Gebet für den Landesfürsten</a>
 Vor dem Einsegnen des Neumondes
 Beim Schlusse des Gottesdienstes
-Gebet an einem Fasttage (תענית צבור)
+<a href="/?p=41419">Gebet an einem Fasttage</a> (תענית צבור)
 Gebet am Fasttage des vierten Monats (des siebzehnten Tamus) (שבעה עשר בתמוז)
 Gebet am Fasttage der Zerstörung Jerusalems (תשעה באב)
 Sionide, Elegie an die Burg Zion. Am Jahrestage der Zerstörung Jerusalems 
@@ -177,7 +183,7 @@ Schlußgebet am Versöhnungstage (תפלת נעילה)
 
 <td style="vertical-align:top;">
 <div class="english" lang="en" style="text-align: left;">
-Prayer upon entering the house of worship
+<a href="/?p=41768">Prayer upon entering the house of worship</a>
 Morning prayer
 Evening prayer
 Before going to bed
@@ -189,10 +195,10 @@ Thursday prayer
 Friday prayer
 Saturday prayer 
 Contemplation while lifting the scroll of the Law (ספר תורה) from the holy ark on Saturday and on holidays, to read from it the designated passages
-Prayer for the Prince of the Land
+<a href="/?p=42395">Prayer for the Sovereign</a>
 Before the blessing of the new moon
 At the end of the service
-Prayer on a fast day (תענית צבור)
+<a href="/?p=41419">Prayer on a fast day</a> (תענית צבור)
 Prayer on the fast day of the fourth month (of the seventeenth of Tamus) (שבעה עשר בתמוז)
 Prayer on the fast day of the destruction of Jerusalem (תשעה באב).
 Sionide, Elegy to the Castle of Zion. On the anniversary of the destruction of Jerusalem 
@@ -233,8 +239,8 @@ Final prayer on the Day of Atonement (תפלת נעילה).
 Gebet eines jungen Mädchens
 Gebet einer Braut
 Gebet der Braut vor der Trauung
-Gebet beim Abscheiden des Teiges (חלה)
-Gebet beim Eingange des Sabbath, vor dem Anzünden der Lichter Freitag Nachts
+<a href="/?p=41513">Gebet beim Abscheiden des Teiges</a> (חלה)
+<a href="/?p=41518">Gebet beim Eingange des Sabbath, vor dem Anzünden der Lichter Freitag Nachts</a>
 Gebet einer Frau, die sich Mutter fühlt
 Gebet am Sabbath, an welchem eine Familienfeierlichkeit, wie die religiöse Großjährigkeit eines Sohnes, der das 13. Jahr zurückgelegt (בר מצוה), der Jahrestag der Vermählung, der Tag des Bundes eines Neugebornen (ברית מילה) u. dgl., Statt findet
 Gebet einer kinderlosen Ehefrau
@@ -247,9 +253,9 @@ Gebet einer Frau, wenn ihr Mann erkrankt ist
 Gebet einer Mutter, deren Kind erkrankt ist
 Dankgebet nach der Genesung
 Gebet einer Wittwe
-Gebet einer Waife 
+Gebet einer Waise 
 Für Dienstboten
-Gebet einer Frau, wenn Seuchen oder epidemische Krankheiten herrichen
+<a href="/?p=41459">Gebet einer Frau, wenn Seuchen oder epidemische Krankheiten herrichen</a>
 Andachtsübung einer betagten Frau
 Gebet für alle Buß⸗ und Fasttage
 Sühngebrauch (סדר כפרות)
@@ -262,8 +268,8 @@ Sühngebrauch (סדר כפרות)
 Prayer of a young girl
 Prayer of a bride
 Prayer of the bride before the wedding
-Prayer at the leaving of the dough (חלה)
-Prayer at the entrance of the Sabbath, before the lighting of the lights on Friday night.
+<a href="/?p=41513">Prayer at the leaving of the dough</a> (חלה)
+<a href="/?p=41518">Prayer at the entrance of Shabbat, before the kindling of the Friday night lights</a>.
 Prayer of a woman who feels like a mother
 Prayer on the Sabbath, on which a family celebration takes place, such as the religious coming of age of a son who has passed the 13th year (בר מצוה), the anniversary of marriage, the day of the covenant of a newborn (ברית מילה), etc.
 Prayer of a childless wife
@@ -276,9 +282,9 @@ Prayer of a woman when her husband is ill
 Prayer of a mother whose child is sick
 Prayer of thanksgiving after recovery
 Prayer of a widow
-Prayer of a waif 
+Prayer of an orphan 
 For servants
-Prayer of a woman when epidemics or epidemic diseases are approaching
+<a href="/?p=41459">Prayer of a woman when epidemics or epidemic diseases are approaching</a>
 Prayer of an aged woman
 Prayer for all penitential and fast days
 Atonement (סדר כפרות)
@@ -441,7 +447,9 @@ From the same. (אם יוספים אנחנו)
 </div></td></tr>
 </tbody></table></blockquote>
 
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/tahnunei-bat-yehudah-meir-letteris-1857/Ta%E1%B8%A5nunei%20bat%20Yehudah%20%28Meir%20Letteris%201857%29#page/n0/mode/2up"]
 
+&nbsp;
 
 
 </body>

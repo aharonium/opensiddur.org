@@ -7,7 +7,6 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-
 Traditional Judaism offers a confessional prayer, or <code>vidui</code>, to be recited during a time of serious illness or near death.  If the patient is unable to recite the prayer, others may do so on his or her behalf.  This modern adaptation [of vidui] places less emphasis on atonement for sins, and more on the bonds connecting the patient to his or her loved ones.  It can be recited by a friend, family member, or chaplain on behalf of a person who is very ill, especially when life and death are hanging in the balance.  
     –In memory of Dr. Paul Woolf z”l
 
@@ -23,8 +22,10 @@ Traditional Judaism offers a confessional prayer, or <code>vidui</code>, to be r
 </span></div></td>
  
 <td style="vertical-align:top;"><div class="english" lang="en">
-Our God and God of our ancestors, we acknowledge that all of life is in Your hands.
+Our God and God of our ancestors, 
+we acknowledge that all of life is in Your hands.
 </div></td></tr>
+
 
 <tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
@@ -33,9 +34,12 @@ Our God and God of our ancestors, we acknowledge that all of life is in Your han
  
 <td style="vertical-align:top;"><div class="english" lang="en">
 We pray for healing for this beloved (woman/man).  
-May (she/he) be filled and embraced by a complete and healing love and forgiveness.  
-May (she/he) always know how precious his life is to those who love (her/him).
+May (she/he) be filled and embraced 
+by a complete and healing love and forgiveness.  
+May (she/he) always know how precious (his/her) life is 
+to those who love (her/him).
 </div></td></tr>
+
 
 <tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
@@ -47,47 +51,62 @@ Protect ___________’s beloved family: ___________________________.
 Their souls are woven together for all time.
 </div></td></tr>
 
+
 <tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
 <td style="vertical-align:top;"><div class="english" lang="en">
-Grant hope and strength to _____________’s family and caregivers, guiding their hands and hearts and decisions with wisdom, loving care, and skill.
+Grant hope and strength to _____________’s family and caregivers, 
+guiding their hands and hearts and decisions 
+with wisdom, loving care, and skill.
 </div></td></tr>
 
+
 <tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
-כִּי מַלְאָכָיו יְצַוֶּה לָּךְ לִשְׁמָרְךָ בְּכָל דְּרָכֶיךָ׃
+כִּי מַלְאָכָיו יְצַוֶּה לָּךְ 
+לִשְׁמָרְךָ בְּכָל דְּרָכֶיךָ׃ <span class="citation">(תהלים צא:יא)</span>
 </span></div></td>
  
 <td style="vertical-align:top;"><div class="english" lang="en">
-May angels be appointed for (her/him), to guard (her/him) in all (her/his) paths.[foot]Psalms 91:11[/foot]
+May angels be appointed for (her/him), 
+to guard (her/him) in all (her/his) paths. <span class="citation">(Psalms 91:11)</span>
 
-<em>Ki malakhav yetzaveh lakh, lishmorkha b’khol d’rakheh-kha.</em>
+<em>Ki malakhav yetzaveh lakh, 
+lishmorkha b’khol d’rakheh-kha.</em>
 </div></td></tr>
 
+
 <tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
 
 </span></div></td>
  
 <td style="vertical-align:top;"><div class="english" lang="en">
-In Your hand lies (her/his) spirit. In Your Great Name, You hold the life and memories of each soul on earth. You redeem us, <em>Adonai</em>, God of Truth. 
-
+In Your hand lies (her/his) spirit. 
+In Your Great Name, You hold the life and memories of each soul on earth. 
+You redeem us, <em>Adonai</em>, God of Truth. 
 </div></td></tr>
 
+
 <tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
-שְׁמַע יִשְׂרָאֵל יְיָ אֱלֹהֵינוּ יְיָ אֶחָד׃
+שְׁמַע יִשְׂרָאֵל 
+יְיָ אֱלֹהֵינוּ 
+יְיָ אֶחָד׃ <span class="citation">(דברים ו:ד)</span>
 </span></div></td>
  
 <td style="vertical-align:top;"><div class="english" lang="en">
-Hear O Israel: [YHVH | Adonai] is our God, [YHVH | Adonai] is One.[foot]Deuteronomy 6:4[/foot]
+Hear O Israel: 
+[YHVH | Adonai] is our God, 
+[YHVH | Adonai] is One. <span class="citation">(Deuteronomy 6:4)</span>
 
-<em>Shma Yisrael Adonai Eloheinu Adonai Echad.</em>
-</td>
-</tr>
+<em>Shma Yisrael 
+Adonai Eloheinu 
+Adonai Echad.</em>
+</td></tr>
 </tbody></table>
 
 <hr />

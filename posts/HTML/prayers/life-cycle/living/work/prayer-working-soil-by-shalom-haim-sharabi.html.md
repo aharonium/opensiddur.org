@@ -66,13 +66,17 @@ in the holy soil.
 
 <tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
-וְנִזְכֶּה לִרְאוֹת בְּטָהֳרַת אַדְמַת יִשְׂרָאֵל מִטֻּמְאָתָהּ
-בְּעֵת שְׁיְּנַעֲרוּ רְשָׁעִים מִמֶּנָּה.
+וְנִזְכֶּה לִרְאוֹת בְּטָהֳרַת אַדְמַת יִשְׂרָאֵל 
+מִטֻּמְאָתָהּ
+בְּעֵת שְׁיְּנַעֲרוּ 
+רְשָׁעִים מִמֶּנָּה.
 </span></div></td>
 
 <td style="vertical-align:top;"><div class="english" lang="en">
-And may we merit seeing the purification of the soil of Yisra'el from her impurity 
-in the time in which she is shaking off wickedness from herself
+And may we merit seeing the purification of the soil of Yisra'el 
+from her impurity 
+in the time in which she is shaking off 
+wickedness from herself
 </div></td></tr>
 
 

@@ -7,6 +7,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
+<div class="english" lang="en" style="font-size: 1.2em;">
+Note: “The CAUSE” is used to translate the Divine Name YHVH, based on the philosophical idea of God as the Prime Mover and on the interpretation of the Name as a causative form of the copula – “causes to be.”
+</div>
+
+<hr />
+
 [xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
