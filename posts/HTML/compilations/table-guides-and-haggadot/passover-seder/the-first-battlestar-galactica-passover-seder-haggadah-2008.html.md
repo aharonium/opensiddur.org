@@ -20,7 +20,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">संस्कृतम्</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
 <tr>
-<td style="vertical-align:top;">
+<td style="vertical-align:top;" width="33%">
 <div class="liturgy" lang="he">
 
 </span></div></td>

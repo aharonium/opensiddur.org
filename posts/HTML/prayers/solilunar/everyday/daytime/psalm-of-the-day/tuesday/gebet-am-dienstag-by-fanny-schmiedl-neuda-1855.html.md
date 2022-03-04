@@ -24,16 +24,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 <div class="german" lang="de">
 „Gott sprach: 
 Ein Meer von Blumen, Blüthen, Sprossen, 
-Sei übers Erden-Antlitz ausgegossen!” 
-(Bereshit 1, 11.) 
+Sei übers Erden-Antlitz ausgegossen!” <span class="citation">(Bereshit 1, 11.)</span> 
 </span></div></td>
 
 <td style="vertical-align:top;">
 <div class="english" lang="en">
 And God said, 
 "Let the earth sprout vegetation: Seed-bearing plants, fruit trees of every kind
-That bear fruit with seed in it. "
-(Genesis 1:11)
+That bear fruit with seed in it." <span class="citation">(Genesis 1:11)</span>
 </span></div></td></tr>
 
 

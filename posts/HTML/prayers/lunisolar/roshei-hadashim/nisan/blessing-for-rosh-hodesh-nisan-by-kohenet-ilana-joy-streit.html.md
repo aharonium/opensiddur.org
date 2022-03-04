@@ -12,7 +12,7 @@ A tender poem about hope and liberation, as we move day by day towards the full 
 
 A blessing for announcing the new moon of Nisan, for Rosh Ḥodesh Nisan, and for the whole month.
 
-[Financial contributions are most welcome, and support further creation and sharing of Ilana's creative work. Venmo to @Ilana-Streit.]
+[Financial contributions are most welcome, and support further creation and sharing of Ilana's creative work. You can see and hear more of Ilana's creative work on her <a href="https://www.patreon.com/ilanajoy">Patreon page</a>. Or to make a one-time contribution, <a href="https://venmo.com/u/Ilana-Streit">Venmo</a> (@Ilana-Streit).]
 </div>
 
 <hr />

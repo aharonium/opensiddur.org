@@ -25,16 +25,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 <div class="german" lang="de">
 Und Gott sprach: 
 „Wir wollen einen Menschen machen 
-in unserm Ebenbilde in Aehnlichkeit mit uns.” 
-(Bereshit 1, 26.) 
+in unserm Ebenbilde in Aehnlichkeit mit uns.” <span class="citation">(Bereshit 1, 26.)</span> 
 </span></div></td>
 
 <td style="vertical-align:top;">
 <div class="english" lang="en">
 God said, 
 "Let us make a human being
-in our image and likeness."
-(Genesis 1:26)
+in our image and likeness." <span class="citation">(Genesis 1:26)</span>
 </span></div></td></tr>
 
 

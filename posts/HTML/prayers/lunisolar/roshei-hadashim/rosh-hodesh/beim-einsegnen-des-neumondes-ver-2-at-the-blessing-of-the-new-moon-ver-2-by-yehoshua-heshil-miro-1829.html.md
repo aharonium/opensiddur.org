@@ -172,7 +172,7 @@ today and always,
 
 <hr />
 
-"Vor dem Einsegnen des Neumondes (Desselben Inhalts)" was written by Yehoshua Heshil Miro and published in his anthology of teḥinot, <a href="/?p=41365">בית יעקב (Beit Yaaqov) <em>Allgemeines Gebetbuch für gebildete Frauen mosaicher Religion</em></a>. In the original 1829 edition, תחנות <em>Teḥinot ein Gebetbuch für gebildete Frauenzimmer mosaicher Religion</em>, it appears as teḥinah №17, on pp. 21-22. In the 1835 and 1842 editions, it appears as teḥinah №17 on pp. 24-25.  
+"Vor dem Einsegnen des Neumondes (Desselben Inhalts)" was written by Yehoshua Heshil Miro and published in his anthology of teḥinot, <a href="/?p=41365">בית יעקב (Beit Yaaqov) <em>Allgemeines Gebetbuch für gebildete Frauen mosaischer Religion</em></a>. In the original 1829 edition, תחנות <em>Teḥinot ein Gebetbuch für gebildete Frauenzimmer mosaischer Religion</em>, it appears as teḥinah №17, on pp. 21-22. In the 1835 and 1842 editions, it appears as teḥinah №17 on pp. 24-25.  
 
 This transcription was derived by proofreading the output of Tesseract-OCR with its Fraktur script training data. This translation was derived by proofreading the output of the translation tools of DeepL and Google. --Aharon Varady
 

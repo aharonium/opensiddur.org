@@ -13,13 +13,13 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tr><td style="vertical-align:top;">
 <div class="german" lang="de">
 „Ich wasche meine Hände in Reinheit
-Und umringe deinen Altar, o Ewiger.” (Psalm 26, 6.)
+Und umringe deinen Altar, o Ewiger.” <span class="citation">(Psalm 26, 6.)</span>
 </span></div></td>
 
 <td style="vertical-align:top;">
 <div class="english" lang="en">
-<span class="liturgy" lang="he">אֶרְחַ֣ץ בְּנִקָּיֹ֣ון כַּפָּ֑י וַאֲסֹבְבָ֖ה אֶת־מִזְבַּחֲךָ֣ יְיָ׃</span>
-I will wash my hands in innocence; so will I circumambulate your altar, YHVH. (Psalms 26:6)
+I will wash my hands in innocence; 
+so will I circumambulate your altar, YHVH. <span class="citation">(Psalms 26:6)</span>
 </span></div></td></tr>
 
 

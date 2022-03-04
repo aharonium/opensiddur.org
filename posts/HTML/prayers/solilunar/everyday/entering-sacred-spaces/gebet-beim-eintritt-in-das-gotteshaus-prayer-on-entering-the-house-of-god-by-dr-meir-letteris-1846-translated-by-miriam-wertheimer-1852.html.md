@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: Gebet beim Eintritt in das Gotteshaus | Prayer on Entering the House of God, by Dr. Meïr Letteris (1846) translated by Miriam Wertheimer (1852)<br />
+Title: Gebet beim Eintritt in das Gotteshaus | Prayer on Entering the House of God, by Dr. Meïr Letteris (1846)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=41768">http://opensiddur.org/?p=41768</a>
 <p />

@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.9" created="2022-02-06 02:35" -->
+	<!-- generator="WordPress/5.9.1" created="2022-03-04 09:19" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>the Open Siddur Project ✍ פְּרוֺיֶּקט הַסִּדּוּר הַפָּתוּחַ</title>
 	<link>https://opensiddur.org</link>
 	<description>an open-source, community contributed archive for those sharing prayers and crafting their own prayerbooks</description>
-	<pubDate>Sun, 06 Feb 2022 02:35:27 +0000</pubDate>
+	<pubDate>Fri, 04 Mar 2022 09:19:41 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://opensiddur.org</wp:base_site_url>
@@ -41,7 +41,7 @@
 	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[hermit]]></wp:author_login><wp:author_email>email redacted</wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[The]]></wp:author_first_name><wp:author_last_name><![CDATA[Admin]]></wp:author_last_name></wp:author>
 
 				
-	<generator>https://wordpress.org/?v=5.9</generator>
+	<generator>https://wordpress.org/?v=5.9.1</generator>
 
 <image>
 	<url>https://opensiddur.org/wp-content/uploads/2015/03/Open-Siddur-Project-Logo-2015-5509b4bdv1_site_icon-32x32.png</url>
@@ -193,6 +193,7 @@ The Open Siddur Project is committed to the following principles and movements w
 			<wp:comment_id>5</wp:comment_id>
 			<wp:comment_author><![CDATA[The Jewish Liturgy Project: A Toolkit for Custom Liturgy | eJewish Philanthropy: The Jewish Philanthropy Blog]]></wp:comment_author>
 			<wp:comment_author_email>email redacted</wp:comment_author_email>
+
 			<wp:comment_author_url>http://ejewishphilanthropy.com/the-jewish-liturgy-project-a-toolkit-for-custom-liturgy/</wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[74.50.25.250]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2009-07-04 22:51:55]]></wp:comment_date>
@@ -207,6 +208,7 @@ The Open Siddur Project is committed to the following principles and movements w
 			<wp:comment_id>58</wp:comment_id>
 			<wp:comment_author><![CDATA[Prayer Unbound: Reactions to Open Siddur « This is What a Rabbi Looks Like]]></wp:comment_author>
 			<wp:comment_author_email>email redacted</wp:comment_author_email>
+
 			<wp:comment_author_url>http://thisiswhatarabbilookslike.wordpress.com/2009/12/03/prayer-unbound-reactions-to-open-siddur/</wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[72.233.96.139]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2009-12-03 13:04:12]]></wp:comment_date>
@@ -885,49 +887,48 @@ Rosh Ḥodesh
 </td>
 
 <td style="vertical-align:top;">
+<div class="english-sans" lang="en" style="font-size: 1em;">
 <h3>Style Guide</h3>
 
-Please consult our <a href="/contributing/style-guide/">style guide</a> for guidance on transliteration vs. translation (especially for complex terms such as divine names), and a transliteration schema for romanizing vocalized Hebrew.
-
-<h3>Open Content License Options</h3>
-Ever feel like you've made something really special that you'd like other folk to use. Ever wonder how it might become better known and part of Jewish tradition at large? When you share your work, make your intention clear that your copyrighted work is indeed available for others to adopt, adapt, and redistribute.
-
-The Open Siddur Project will help you share any material related to Jewish spiritual practice so long as it is either a <a href="http://copyright.cornell.edu/resources/publicdomain.cfm">Public Domain</a> work or a contemporary work licensed under one of three standard Open Content licenses (<a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a>, <a href="https://creativecommons.org/licenses/by/4.0">CC BY</a>, or <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA</a>) formulated by the organization, <a href="https://creativecommons.org">Creative Commons</a>.
+Our project does not demand conformity to any style. If you are interested, we do have preferences which you may use for a style guide. Please consult our <a href="/contributing/style-guide/">style guide</a> for guidance on transliteration vs. translation (especially for complex terms such as divine names), and a <a href="/help/transliterate/">transliteration schema</a> for Romanizing vocalized Hebrew.
 
 <hr />
 
-<strong>IMPORTANT</strong>: With rare exception, the Open Siddur Project can only share work that is either already in the Public Domain, or else shared by its creator (or copyright proprietor) with one of the licenses indicated below. For more details, please refer to our <a href="/about-this-project/policies/copyright-policy/">copyright policy</a>.
+<h3>License Options</h3>
+
+If you are the creator or copyright steward of a work under copyright, you are invited to share your work through the Open Siddur Project under an Open Content license through this form. (You retain the copyright over the work you contribute.) The Open Siddur Project will accept any material related to Jewish spiritual practice so long as it is either a work in the <a href="http://copyright.cornell.edu/resources/publicdomain.cfm">Public Domain</a> or else a work under copyright that is shared with one of the following three Open Content licenses: the (<a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a>, <a href="https://creativecommons.org/licenses/by/4.0">CC BY</a>, or <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA</a>) all formulated by the <a href="https://creativecommons.org">Creative Commons</a> organization. By choosing to share your work with any of these licenses, you will legally ensure that your work remains available for others to adopt, adapt, remix, and redistribute. This is a binding, albeit, non-exclusive agreement to share your work through the Open Siddur Project under the terms of the license that you choose. (You may make separate agreements with other publishers.) For additional details, please refer to our <a href="/about-this-project/policies/copyright-policy/">copyright policy</a>.
 
 <table>
 <tr><td style="vertical-align:top;">
-[caption id="attachment_1118" align="alignleft" width="150" caption="Creative Commons By Attribution ShareAlike (CC BY-SA)"]<a href="http://creativecommons.org/licenses/by-sa/4.0/"><img title="(CC BY-SA) Creative Commons By Attribution ShareAlike" src="https://opensiddur.org/wp-content/images/CC-BY-SA.svg.150x100.png" alt="" width="150" height="50" /></a>[/caption]
+&nbsp;
+[caption id="attachment_1118" align="alignleft" width="150" caption="Creative Commons By Attribution ShareAlike (CC BY-SA)"]<a href="http://creativecommons.org/licenses/by-sa/4.0/"><img title="(CC BY-SA) Creative Commons Attribution-ShareAlike" src="https://opensiddur.org/wp-content/images/CC-BY-SA.svg.150x100.png" alt="" width="150" height="50" /></a>[/caption]
 </td>
 
-<td>
-Share your work under the condition that any derivative work (for example, a translation) correctly credits you, citing your original work. The <a href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0 International</a> license is a remix friendly, free-culture compatible, <a href="https://secure.wikimedia.org/wikipedia/en/wiki/Copyleft">copyleft</a> license. It ensures that any work derived from your work must also be shared with this same license, thereby ensuring an unbroken chain of attribution until the copyright term of your work expires and it enters the Public Domain. CC BY-SA licensed works can only be remixed or redistributed with works shared with compatible Open Content licenses (CC0 and CC BY).
-</td></tr>
+<td style="vertical-align:top;"><div class="english-sans" lang="en" style="font-size: 1em;">
+<strong>Creative Commons Attribution-ShareAlike</strong>. Share your work under the condition that any derivative work (for example, a translation) correctly credits you, citing your original work. The <a href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0 International</a> license is a remix friendly, free-culture compatible, <a href="https://secure.wikimedia.org/wikipedia/en/wiki/Copyleft">copyleft</a> license. It ensures that any work derived from your work must also be shared with this same license, thereby ensuring an unbroken chain of attribution until the copyright term of your work expires and it enters the Public Domain. CC BY-SA licensed works may only be remixed with works shared with other compatible licenses -- CC0 and CC BY. A publisher who would like to remix or republish content shared under a CC BY-SA license <em>without abiding by these terms</em> must communicate directly with the creator or copyright steward in order to agree upon new, mutually agreed upon terms.
+</div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-[caption id="attachment_2977" align="alignleft" width="150" caption="Creative Commons By Attribution (CC BY)"]<a href="http://creativecommons.org/licenses/by/4.0"><img title="(CC BY) Creative Commons By Attribution" src="https://opensiddur.org/wp-content/images/CC-BY.svg.150x100.png" alt="" width="150" height="50" /></a>[/caption]
+&nbsp;
+[caption id="attachment_2977" align="alignleft" width="150" caption="Creative Commons By Attribution (CC BY)"]<a href="http://creativecommons.org/licenses/by/4.0"><img title="(CC BY) Creative Commons Attribution" src="https://opensiddur.org/wp-content/images/CC-BY.svg.150x100.png" alt="" width="150" height="50" /></a>[/caption]
 </td>
 
-<td>
-Share your work under the condition that any derivative work (such as a translation) correctly credits you, citing your original work. However, unlike the CC BY-SA license, second-generation derivative works (e.g., a reprint of the translation in a newspaper) may be shared under any license, including more restrictive licensing, or published under vanilla copyright. The <a href="http://creativecommons.org/licenses/by/4.0">CC BY 4.0 International</a> license is remix friendly -- content licensed under the CC BY can be remixed with more restrictive Creative Commons licenses as well as with copyrighted work that is not being shared under any open content/free-culture license. 
-
-By choosing to license your work with a <a href="http://creativecommons.org/licenses/by/4.0">CC BY</a> license, you will legally ensure that your work remains available for others to adopt, adapt, remix, and redistribute.
-</td></tr>
+<td style="vertical-align:top;"><div class="english-sans" lang="en" style="font-size: 1em;">
+<strong>Creative Commons Attribution</strong>. Share your work under the condition that any derivative work (such as a translation) correctly credits you, citing your original work. Unlike the CC BY-SA license, second-generation derivative works (e.g., a reprint of the translation in a newspaper) may be shared under more restrictive licensing (even plain copyright). That feature is what makes the <a href="http://creativecommons.org/licenses/by/4.0">CC BY 4.0 International</a> license "remix friendly." In other words, content licensed under the CC BY may be remixed with more restrictive Creative Commons licenses as well as with copyrighted work not being shared under any open content/free-culture license. We recommend it only for works intended to be republished or remixed in publications with restrictive content policies (such as plain copyright).
+</div></td></tr>
 
 <tr><td style="vertical-align:top;">
+&nbsp;
 [caption id="attachment_1145" align="alignleft" width="150" caption="Creative Commons Zero (CC0)"]<a href="http://creativecommons.org/publicdomain/zero/1.0/"><img title="(CC0) Creative Commons Zero" src="https://opensiddur.org/wp-content/images/CC-0-PD.svg.150x100.png" alt="" width="150" height="50" /></a>[/caption]
 </td>
 
-<td>
-Share your work without any conditions, for example, requiring correct attribution. The CC0 is a Public Domain dedication that states that you relinquish claims on your work during the length of its term under copyright. This license is the least restrictive of all the Creative Commons Open Content licenses. We recommend it only for sharing digital reproductions of work that already exist in the Public Domain.
-</td></tr>
+<td style="vertical-align:top;"><div class="english-sans" lang="en" style="font-size: 1em;">
+<strong>Creative Commons Zero</strong>. Share your work without any conditions, for example, requiring correct attribution. The <a href="http://creativecommons.org/publicdomain/zero/1.0/">CC0</a> is a Public Domain dedication that states that you relinquish claims on your work during the length of its term under copyright. This license is the least restrictive of all the Creative Commons Open Content licenses. We recommend it only for sharing digital reproductions of work that already exist in the Public Domain.
+</div></td></tr>
 </tbody></table>
 
-</td></tr>
+</div></td></tr>
 <tr><td colspan="2">Afer submitting your work through this form, you will receive a receipt of your submission at the email address you provided. An Open Siddur Project editor will be in touch with you if there are any questions. You may also <a href="/contact/">contact us</a> directly. Thank you for sharing your work through the Open Siddur Project!</td>
 </tr></table>
 </blockquote>
@@ -937,8 +938,8 @@ Share your work without any conditions, for example, requiring correct attributi
 		<wp:post_id>781</wp:post_id>
 		<wp:post_date><![CDATA[2010-07-19 21:09:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2010-07-20 05:09:18]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-11 17:35:25]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-12 02:35:25]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-02-14 18:04:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-02-15 03:04:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[upload]]></wp:post_name>
@@ -991,7 +992,7 @@ Share your work without any conditions, for example, requiring correct attributi
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[                                      ]]></wp:meta_value>
+		<wp:meta_value><![CDATA[                                                  ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_footer]]></wp:meta_key>
@@ -4850,35 +4851,38 @@ Imaging is critical in providing a source image by which collaborative transcrip
 		<dc:creator><![CDATA[hierophant]]></dc:creator>
 		<guid isPermaLink="false">http://opensiddur.org/?page_id=10374</guid>
 		<description></description>
-		<content:encoded><![CDATA[<div class="english-sans" lang="en" style="font-size: 1.2em;">
+		<content:encoded><![CDATA[<div class="english-sans" lang="en" style="font-size: 1.0em;">
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://aharon.varady.net/browser-test/"]
-
-<span style="font-size: 14pt;">Click <a href="">here</a> for a comprehensive look into how Hebrew is being rendered in your web browser.
-[su_spacer]
 <h3>Web Browsers Supporting the Correct Display of Hebrew with Diacritical Marks (T'amim and Niqudot)</h3>
 
-<span style="font-size: 14pt;">This website uses a standard technique for displaying custom digital fonts in your web browser. If your web browser does not support CSS @font-face or the Unicode (UTF-8) encoding schema, the typography will rely on the default settings in your browser or terminal and operating system.</span>
+This website uses a standard technique for displaying custom digital fonts in your web browser. If your web browser does not support CSS @font-face or the Unicode (UTF-8) encoding schema, the typography will rely on the default settings in your browser or terminal and operating system.
 
-<span style="font-size: 14pt;">If Hebrew is not rendering correctly in your browser, the root of your problem might be in your web browser, the default Hebrew font used by your web browser, or your operating system.</span>
+If Hebrew is not rendering correctly in your browser, the root of your problem might be in your web browser, the default Hebrew font used by your web browser, or your operating system.
 
 <ul>
-    <li><span style="font-size: 14pt;">For correct presentation in graphical (GUI) web browsers, we recommend current versions of the open-source <a href="https://www.mozilla.org/firefox/new/">Mozilla Firefox</a> or <a href="https://www.chromium.org/getting-involved/download-chromium">Chromium</a> browser and its variants (Opera, Chrome).</span></li>
-    <li><span style="font-size: 14pt;">For correct presentation in text-based (CLI or terminal) web browsers, we recommend using the open-source <a href="http://w3m.sourceforge.net/">w3m</a> with <a href="https://sourceforge.net/projects/mlterm/">mlterm</a>.</span></li>
+    <li>For correct presentation in graphical (GUI) web browsers, we recommend current versions of the open-source <a href="https://www.mozilla.org/firefox/new/">Mozilla Firefox</a> or <a href="https://www.chromium.org/getting-involved/download-chromium">Chromium</a> browser and its variants (Opera, Chrome).</li>
+    <li>For correct presentation in text-based (CLI or terminal) web browsers, we recommend using the open-source <a href="http://w3m.sourceforge.net/">w3m</a> browser with the <a href="https://sourceforge.net/projects/mlterm/">mlterm</a> terminal.</li>
 </ul>
 
 [su_spacer]
 <h3>Digital Fonts Supporting the Full Range of Hebrew Diacritics</h3>
 
-<span style="font-size: 14pt;">Click here to download the <a href="https://opensiddur.org/help/fonts/">Open Siddur Unicode Hebrew Font Pack</a>.</span>
+Click here to download the <a href="https://opensiddur.org/help/fonts/">Open Siddur Unicode Hebrew Font Pack</a>.
+
+[su_spacer]
+<hr />
+
+<span style="font-size: 14pt;">Click <a href="">here</a> for a comprehensive look into how Hebrew is being rendered in your web browser.
+
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://aharon.varady.net/browser-test/"]
 
 </div>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>10374</wp:post_id>
 		<wp:post_date><![CDATA[2015-01-29 13:09:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-01-29 22:09:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-06 11:20:33]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-06 19:20:33]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-02-15 12:08:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-02-15 21:08:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[hebrew-support-in-your-web-browser]]></wp:post_name>
@@ -4935,7 +4939,7 @@ Imaging is critical in providing a source image by which collaborative transcrip
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[    ]]></wp:meta_value>
+		<wp:meta_value><![CDATA[     ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_footer]]></wp:meta_key>

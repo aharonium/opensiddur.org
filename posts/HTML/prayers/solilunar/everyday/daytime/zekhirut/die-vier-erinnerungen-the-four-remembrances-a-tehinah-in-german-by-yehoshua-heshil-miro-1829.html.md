@@ -78,7 +78,7 @@ Open my eye, Lord, and let me see the wonders of your teaching. <em>Amen</em>.
 
 <hr />
 
-"Die vier Erinnerungen" was translated/adapted by Yehoshua Heshil Miro and published in his anthology of teḥinot, <a href="/?p=41365">בית יעקב (Beit Yaaqov) <em>Allgemeines Gebetbuch für gebildete Frauen mosaicher Religion</em></a>. It first appears in the 1829 edition, תחנות <em>Teḥinot ein Gebetbuch für gebildete Frauenzimmer mosaicher Religion</em> as teḥinah №21 on pp. 24-25. In the 1835 edition, it appears as teḥinah №21 on pp. 28-30. In the 1842 edition, it appears as teḥinah №23 on pp. 31-33.
+"Die vier Erinnerungen" was translated/adapted by Yehoshua Heshil Miro and published in his anthology of teḥinot, <a href="/?p=41365">בית יעקב (Beit Yaaqov) <em>Allgemeines Gebetbuch für gebildete Frauen mosaischer Religion</em></a>. It first appears in the 1829 edition, תחנות <em>Teḥinot ein Gebetbuch für gebildete Frauenzimmer mosaischer Religion</em> as teḥinah №21 on pp. 24-25. In the 1835 edition, it appears as teḥinah №21 on pp. 28-30. In the 1842 edition, it appears as teḥinah №23 on pp. 31-33.
 
 We welcome corrections and improvements. The transcription of the German from Latin script in Fraktur type provided machine-readable text for a machine translation by <a href="https://www.deepl.com/en/translator">DeepL</a>, which we then proofread for accuracy. --Aharon Varady
  

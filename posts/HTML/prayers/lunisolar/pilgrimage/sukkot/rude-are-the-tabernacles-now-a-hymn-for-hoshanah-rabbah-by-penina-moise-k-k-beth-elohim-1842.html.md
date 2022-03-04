@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: Rude are the Tabernacles Now, a hymn for Hoshanah Rabbah by Penina Moïse (Ḳ.Ḳ. Beth Elohim 1842)<br />
+Title: Rude are the Tabernacles Now, a hymn for Hoshana Rabbah by Penina Moïse (Ḳ.Ḳ. Beth Elohim 1842)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=40428">http://opensiddur.org/?p=40428</a>
 <p />

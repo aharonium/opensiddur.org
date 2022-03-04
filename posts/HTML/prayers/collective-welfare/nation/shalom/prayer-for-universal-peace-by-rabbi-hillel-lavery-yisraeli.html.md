@@ -8,7 +8,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <hr />
 
 [xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;"><a href="https://opensiddur.org/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Adaptation (English)</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Adaptation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
@@ -20,7 +20,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 May we merit to bring about the day when war and bloodshed cease, 
 and a great peace embraces the whole universe. 
 “No nation will lift up a sword to another, 
-and the art of war will no longer be studied.”[foot]Isaiah 2:4.[/foot]
+and the art of war will no longer be studied.” <span class="citation">(Isaiah 2:4)</span>
 </div></td></tr>
 
 
@@ -38,7 +38,7 @@ bringing about the fulfillment of the Scriptural blessing,
 “I will bring peace to the Earth, 
 and you will lie down with no one to terrify you, 
 and I will bring calm to all vicious creatures on Earth, 
-and the sword will no longer pass in your Land.”[foot]Leviticus 26:6.[/foot]
+and the sword will no longer pass in your Land.” <span class="citation">(Leviticus 26:6)</span>
 </div></td></tr>
 
 

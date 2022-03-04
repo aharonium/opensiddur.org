@@ -12,13 +12,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr><td style="vertical-align:top;">
 <div class="german" lang="de">
-„Gottes Gesetze erfreuen das Herz.” (Psalm 19, 9.)
+„Gottes Gesetze erfreuen das Herz.” <span class="citation">(Psalm 19, 9.)</span>
 </span></div></td>
 
 <td style="vertical-align:top;">
 <div class="english" lang="en">
-<span class="liturgy" lang="he">פִּקּוּדֵי יְהוָה יְשָׁרִים מְשַׂמְּחֵי־לֵב</span>
-"The precepts of YHVH are just, rejoicing the heart." (Psalms 19:9 part)
+"The precepts of YHVH are just, rejoicing the heart." <span class="citation">(Psalms 19:9 part)</span>
 </span></div></td></tr>
 
 

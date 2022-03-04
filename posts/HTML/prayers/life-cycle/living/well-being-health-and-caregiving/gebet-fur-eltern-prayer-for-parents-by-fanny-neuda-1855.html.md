@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: Gebet für Eltern | Prayer for [Sick] Parents, by Fanny Neuda (1855)<br />
+Title: Gebet für Eltern | Prayer for Parents, by Fanny Neuda (1855)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=31938">http://opensiddur.org/?p=31938</a>
 <p />

@@ -12,13 +12,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr><td style="vertical-align:top;">
 <div class="german" lang="de">
-„Gott, gedenke unser.” (Ps. 115, 12.) 
+„Gott, gedenke unser.” <span class="citation">(Ps. 115, 12.)</span> 
 </span></div></td>
 
 <td style="vertical-align:top;">
 <div class="english" lang="en">
-<span class="liturgy" lang="he">יְהוָה זְכָרָנוּ יְבָרֵךְ <span class="citation">(תהלים קטו:יב)‏</span></span>
-"YHVH who remembers us shall bless us." (Psalms 115:12 part)
+"YHVH who remembers us shall bless us." <span class="citation">(Psalms 115:12 part)</span>
 </span></div></td></tr>
 
 

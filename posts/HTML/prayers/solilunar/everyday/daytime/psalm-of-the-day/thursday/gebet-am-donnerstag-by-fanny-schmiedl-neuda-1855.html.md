@@ -23,15 +23,13 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tr><td style="vertical-align:top;">
 <div class="german" lang="de">
 „Gott wie viel sind deine Werke, 
-Du hast sie alle in Weisheit geschaffen.” 
-(Ps. 104, 24.) 
+Du hast sie alle in Weisheit geschaffen.” <span class="citation">(Ps. 104, 24.)</span> 
 </span></div></td>
 
 <td style="vertical-align:top;">
 <div class="english" lang="en">
 How abundant are your works, O Adonai!
-With wisdom you made them all.
-(Psalms 104:24)
+With wisdom you made them all. <span class="citation">(Psalms 104:24)</span>
 </span></div></td></tr>
 
 

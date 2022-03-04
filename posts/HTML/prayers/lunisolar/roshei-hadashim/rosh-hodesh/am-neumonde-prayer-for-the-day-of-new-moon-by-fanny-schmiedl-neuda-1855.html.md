@@ -13,14 +13,13 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tr><td style="vertical-align:top;">
 <div class="german" lang="de">
 „Lehre uns unsre Tage zählen, 
-Daß wir weisen Herzens werden.” 
-(Ps. 90, 12.) 
+Daß wir weisen Herzens werden.” <span class="citation">(Ps. 90, 12.)</span> 
 </span></div></td>
 
 <td style="vertical-align:top;">
 <div class="english" lang="en">
-<span class="liturgy" lang="he">לִמְנוֹת יָמֵינוּ כֵּן הוֹדַע וְנָבִא לְבַב חָכְמָה׃</span> <span class="citation">(תהלים צ:יב)</span>
-[So teach us to number our days, that we may get a heart of wisdom. (Psalms 90:12)]
+So teach us to number our days, 
+that we may get a heart of wisdom. <span class="citation">(Psalms 90:12)</span>
 </span></div></td></tr>
 
 
@@ -56,8 +55,14 @@ Transcription of <a href="https://opensiddur.org/prayers-for/tkhines/stunden-der
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/stundenderandac01neudgoog#page/n43/mode/2up/"]
 
+&nbsp; 
+
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/StundenDerAndachtFannyNeuda1864#page/n41/mode/2up"]
 
+&nbsp;
+
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/cu31924084596299#page/n33/mode/2up"]
+
+&nbsp;
 </body>
 </html>

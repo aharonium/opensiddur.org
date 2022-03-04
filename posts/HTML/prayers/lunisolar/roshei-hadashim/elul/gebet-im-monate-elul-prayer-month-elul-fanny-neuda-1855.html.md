@@ -12,27 +12,25 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr><td style="vertical-align:top;">
 <div class="english" lang="en">
-Gebet im Monate Elul.
+<u>Gebet im Monate Elul</u>.
 </span></div></td>
 
 <td style="vertical-align:top;">
 <div class="english" lang="en">
-Prayer for the Month of Elul
+<u>Prayer for the Month of Elul</u>
 </span></div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
 <div class="english" lang="en">
 O Vater, nimm uns wieder auf, 
-so wir reuig zu dir zurückkehren. 
-(Klagelieder 5, 21.) 
+so wir reuig zu dir zurückkehren. <span class="citation">(Klagelieder 5, 21.)</span> 
 </span></div></td>
 
 <td style="vertical-align:top;">
 <div class="english" lang="en">
-[Turn us unto you, YHVH, and we shall be turned; 
-Renew our days as of old. 
-(Lamentations 5:21)]
+Turn us unto you, YHVH, and we shall be turned; 
+Renew our days as of old. <span class="citation">(Lamentations 5:21)</span>
 </span></div></td></tr>
 
 

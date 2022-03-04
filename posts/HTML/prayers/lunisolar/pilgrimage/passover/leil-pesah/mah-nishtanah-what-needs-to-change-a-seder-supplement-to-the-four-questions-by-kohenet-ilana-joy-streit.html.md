@@ -12,7 +12,7 @@ A playful, powerful, passionate reading for Passover seder or any time.
 
 Can be chanted to the traditional Ashkenazi lilt for the Four Questions. <a href="https://soundcloud.com/swfsnyc/ma-nishtana-1">Melody here</a>.
 
-[Financial contributions are most welcome, and support further creation and sharing of Ilana's creative work. Venmo to @Ilana-Streit.]
+[Financial contributions are most welcome, and support further creation and sharing of Ilana's creative work. You can see and hear more of Ilana's creative work on her <a href="https://www.patreon.com/ilanajoy">Patreon page</a>. Or to make a one-time contribution, <a href="https://venmo.com/u/Ilana-Streit">Venmo</a> (@Ilana-Streit).]
 </div>
 
 <hr />

@@ -14,9 +14,7 @@ The Hebrew word for miracle, <em>ness</em>, also means banner: a miracle is a ba
 
 Alice refers to the title character in <em>Alice in Wonderland</em>, a popular children's book by Lewis Carroll.
 
-I hope this piece brings you spiritual sustenance for your journey! I appreciate financial contributions to sustain me as a writer, which will help bring more of my work out into the world.
-
-You can contribute via Venmo to @Ilana-Streit or <a href="mailto:ilanaing@gmail.com">email Ilana</a> for a mailing address.
+I hope this piece brings you spiritual sustenance for your journey! I appreciate financial contributions to sustain me as a writer, which will help bring more of my work out into the world. You can see and hear more of Ilana's creative work on her <a href="https://www.patreon.com/ilanajoy">Patreon page</a>. Or to make a one-time contribution, <a href="https://venmo.com/u/Ilana-Streit">Venmo</a> (@Ilana-Streit).
 </div>
 
 <hr />

@@ -8,7 +8,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <hr />
 
 <div class="english" lang="en" style="font-size: 1.2em;">
-Jews use the Ḳaddish to mourn the dead, though it has in it only one word — <span class="hebrew" lang="he">נֶחְמָתָא</span> “<em>neḥamatah</em>," consolations – which hints at mourning. And this word itself is used in a puzzling way, once we look at it with care. As we will see below, it may be especially appropriate in time of war.
+Jews use the Ḳaddish to mourn the dead, though it has in it only one word — <span class="hebrew" lang="he">נֶחְמָתָא</span> “<em>neḥamata</em>," consolations – which hints at mourning. And this word itself is used in a puzzling way, once we look at it with care. As we will see below, it may be especially appropriate in time of war.
 
 The English also suggests why in the midst of saying we cannot praise, celebrate, or sing to God enough to meet the Reality, we also say we cannot CONSOLE (<em>neḥamata</em>) God enough. Why we need to praise God and why we cannot give sufficient praise are clear enough; but why do we need to console God, and why can we not give God consolation enough? We suggest that for the killing of one human, bearing the Image of God, by another –- for this, God is inconsolable.
 

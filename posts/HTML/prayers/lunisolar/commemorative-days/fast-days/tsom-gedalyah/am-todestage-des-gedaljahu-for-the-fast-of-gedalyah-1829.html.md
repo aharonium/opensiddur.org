@@ -57,7 +57,7 @@ The heart of the king, however, is like a stream of water; you direct it accordi
 
 <hr />
 
-"Am Todestage des Gedaljahu. Zom Gedalja." was written by Yehoshua Heshil Miro and published in his anthology of teḥinot, <a href="/?p=41365">בית יעקב (Beit Yaaqov) <em>Allgemeines Gebetbuch für gebildete Frauen mosaicher Religion</em></a>. In the original 1829 edition, תחנות <em>Teḥinot ein Gebetbuch für gebildete Frauenzimmer mosaicher Religion</em>, it appears as teḥinah №41, on pp. 52-53. In the 1835 and 1842 editions, it appears as teḥinah №40, on pp. 63-64. 
+"Am Todestage des Gedaljahu. Zom Gedalja." was written by Yehoshua Heshil Miro and published in his anthology of teḥinot, <a href="/?p=41365">בית יעקב (Beit Yaaqov) <em>Allgemeines Gebetbuch für gebildete Frauen mosaischer Religion</em></a>. In the original 1829 edition, תחנות <em>Teḥinot ein Gebetbuch für gebildete Frauenzimmer mosaischer Religion</em>, it appears as teḥinah №41, on pp. 52-53. In the 1835 and 1842 editions, it appears as teḥinah №40, on pp. 63-64. 
 
 The transcription presented here was derived by proofreading the output of Tesseract-OCR with its Fraktur script training data. We are extremely grateful to Dr. Andreas Rusterholz for his corrections.
 

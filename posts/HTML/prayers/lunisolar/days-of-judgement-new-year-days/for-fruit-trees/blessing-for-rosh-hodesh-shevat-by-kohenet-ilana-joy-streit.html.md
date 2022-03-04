@@ -10,7 +10,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <div class="english" lang="en" style="font-size: 1.2em;">
 A blessing for announcing the new moon of Shevat, for Rosh Ḥodesh Shevat, and for the whole month.
 
-Financial contributions are most welcome, and support further creation and sharing of Ilana's creative work. Venmo to @Ilana-Streit.
+Financial contributions are most welcome, and support further creation and sharing of Ilana's creative work. You can see and hear more of Ilana's creative work on her <a href="https://www.patreon.com/ilanajoy">Patreon page</a>. Or to make a one-time contribution, <a href="https://venmo.com/u/Ilana-Streit">Venmo</a> (@Ilana-Streit).
 </div>
 
 <hr />

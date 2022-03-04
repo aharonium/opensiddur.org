@@ -10,7 +10,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <div class="english" lang="en" style="font-size: 1.2em;">
 A blessing for us and the year ahead. Playful, powerful, hamentaschen-infused.
 
-[Please consider making a financial contribution to support further creation and sharing of Ilana’s creative work. Venmo to @Ilana-Streit.]
+[Please consider making a financial contribution to support further creation and sharing of Ilana’s creative work. You can see and hear more of Ilana's creative work on her <a href="https://www.patreon.com/ilanajoy">Patreon page</a>. Or to make a one-time contribution, <a href="https://venmo.com/u/Ilana-Streit">Venmo</a> (@Ilana-Streit).]
 </div>
 
 <hr />

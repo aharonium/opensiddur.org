@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <thead><tr><th id="x" style="text-align: right;">Source (Aramaic)</th><th style="text-align: left;">Translation (English)</th><th style="text-align: right;">Translation (Ladino)</th><th style="text-align: left;">Translaton (Romanized Ladino)</th><th style="text-align: left;">Translation of Ladino (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy" lang="he">
+<div class="liturgy" lang="arc">
 בְּרִיךְ שְׁמֵהּ דְּמָרֵא עָלְמָא, בְּרִיךְ כִּתְרָךְ וְאַתְרָךְ׃
 </span></div></td>
  
@@ -37,7 +37,7 @@ Blessed be the name of the Master of the Universe, blessed be Your crown and You
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy" lang="he">
+<div class="liturgy" lang="arc">
 יְהֵא רַעֲוָא קֳדָמָךְ דְּתוֹרִיךְ לָן חַיִּין בְּטִיבוּתָא, וְלֶהֱוֵי אֲנָא פְקִידָא בְּגוֹ צַדִּיקַיָּא, לְמִרְחַם עָלַי וּלְמִנְטַר יָתִי וְיַת־כׇּל־דִּי־לִי וְדִי־לְעַמָּךְ יִשְׂרָאֵל.
 </span></div></td>
  
@@ -63,7 +63,7 @@ May it be Your will, O God, to give us long and happy life, to count us among th
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy" lang="he">
+<div class="liturgy" lang="arc">
 אַנְתְּ הוּא זָן לְכֹלָּא וּמְפַרְנֵס לְכֹלָּא, אַנְתְּ הוּא שַׁלִּיט עַל כֹּלָּא, אַנְתְּ הוּא דְשַׁלִּיט עַל מַלְכַיָּא וּמַלְכוּתָא דִּילָךְ הִיא.
 </span></div></td>
  
@@ -89,7 +89,7 @@ You are alone the one who mantains and sustains all being, all is Yours, You com
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy" lang="he">
+<div class="liturgy" lang="arc">
 אֲנָא עַבְדָּא דְקֻדְשָׁא בְּרִיךְ הוּא דְּסָגִידְנָא קַמֵּהּ וּמִקַּמֵּי דִּיקַר אוֹרַיְתֵהּ בְּכׇל־עִדָּן וְעִדָּן.
 </span></div></td>
  
@@ -115,7 +115,7 @@ We serve You, we prostrate (bend down) to You and before Your holy law in every 
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy" lang="he">
+<div class="liturgy" lang="arc">
 לָא עַל־אֱנָשׁ רָחִיצְנָא וְלָא עַל־בַּר־אֱלָהִין סָמִיכְנָא, אֶלָּא בֶּאֱלָהָא דִשְׁמַיָּא, דְּהוּא אֱלָהָא קְשׁוֹט וְאוֹרַיְתֵהּ קְשׁוֹט וּנְבִיאוֹהִי קְשׁוֹט, וּמַסְגֵּא לְמֶעְבַּד טַבְוָן וּקְשׁוֹט׃
 </span></div></td>
  
@@ -141,7 +141,7 @@ We cannot trust in people, nor in the angels of heaven, but only in You, God of 
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy" lang="he">
+<div class="liturgy" lang="arc">
 בֵּהּ אֲנָא רָחִיץ, וְלִשְׁמֵהּ קַדִּישָׁא יַקִּירָא אֲנָא אֵמַר תֻּשְׁבְּחָן.
 </span></div></td>
  
@@ -167,7 +167,7 @@ It is in You alone that man can place trust, and only to Your holiest name say p
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy" lang="he">
+<div class="liturgy" lang="arc">
 יְהֵא רַעֲוָא קֳדָמָךְ דְּתִפְתַּח לִבָּאִי בְּאוֹרַיְתָך, וְתַשְׁלִים מִשְׁאֲלִין דְּלִבָּאִי וְלִבָּא דְכׇל־עַמָּךְ יִשְׂרָאֵל, לְטַב וּלְחַיִּין וְלִשְלָם, אָמֵן׃
 </span></div></td>
  

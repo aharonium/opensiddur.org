@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: Prayer for the 7th Day of Sukkot (הושענה רבה), by Marcus Heinrich Bresslau (1852)<br />
+Title: Prayer for the 7th Day of Sukkot (הושענא רבה), by Marcus Heinrich Bresslau (1852)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=41008">http://opensiddur.org/?p=41008</a>
 <p />

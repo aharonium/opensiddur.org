@@ -23,14 +23,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <tr><td style="vertical-align:top;">
 <div class="english" lang="en">
-„Gott spricht: Es werde Licht!” 
-(Bereshit 1, 3.) 
+„Gott spricht: Es werde Licht!” <span class="citation">(Bereshit 1, 3.)</span> 
 </span></div></td>
 
 <td style="vertical-align:top;">
 <div class="english" lang="en">
-God said, "Let there be light." 
-(Genesis 1:3)
+God said, "Let there be light." <span class="citation">(Genesis 1:3)</span>
 </span></div></td></tr>
 
 

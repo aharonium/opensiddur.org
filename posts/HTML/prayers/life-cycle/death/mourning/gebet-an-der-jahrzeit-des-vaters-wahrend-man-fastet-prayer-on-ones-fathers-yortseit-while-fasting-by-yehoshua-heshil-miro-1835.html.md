@@ -151,7 +151,7 @@ so the Eternal has promised."
 
 <hr />
 
-"Gebet an der Jahrzeit des Vaters, während man fastet" was written by Yehoshua Heshil Miro and published in his anthology of teḥinot, <a href="/?p=41365">בית יעקב (Beit Yaaqov) <em>Allgemeines Gebetbuch für gebildete Frauen mosaicher Religion</em></a>. In the 1835 edition, it appears as teḥinah №129, on pp. 244-245. In the 1842 edition, it appears as teḥinah №130, pp. 251-252.
+"Gebet an der Jahrzeit des Vaters, während man fastet" was written by Yehoshua Heshil Miro and published in his anthology of teḥinot, <a href="/?p=41365">בית יעקב (Beit Yaaqov) <em>Allgemeines Gebetbuch für gebildete Frauen mosaischer Religion</em></a>. In the 1835 edition, it appears as teḥinah №129, on pp. 244-245. In the 1842 edition, it appears as teḥinah №130, pp. 251-252.
 
 <h3>Source(s)</h3>
 

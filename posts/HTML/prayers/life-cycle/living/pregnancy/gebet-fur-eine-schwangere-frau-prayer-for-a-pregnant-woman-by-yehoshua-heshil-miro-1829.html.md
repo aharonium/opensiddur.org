@@ -34,7 +34,7 @@ May it be your will, my God and God of my forefathers, to facilitate the pregnan
 
 <hr />
 
-"Gebet für eine schwangere Frau" was translated/adapted by Yehoshua Heshil Miro and published in his anthology of teḥinot, <a href="/?p=41365">בית יעקב (Beit Yaaqov) <em>Allgemeines Gebetbuch für gebildete Frauen mosaicher Religion</em></a>. It first appears in the 1829 edition, תחנות <em>Teḥinot ein Gebetbuch für gebildete Frauenzimmer mosaicher Religion</em> as teḥinah №57 on pp. 83-84. In the 1835 edition, it appears as teḥinah №59 on p. 106.  In the 1842 edition, it appears as teḥinah №62 on pp. 111.
+"Gebet für eine schwangere Frau" was translated/adapted by Yehoshua Heshil Miro and published in his anthology of teḥinot, <a href="/?p=41365">בית יעקב (Beit Yaaqov) <em>Allgemeines Gebetbuch für gebildete Frauen mosaischer Religion</em></a>. It first appears in the 1829 edition, תחנות <em>Teḥinot ein Gebetbuch für gebildete Frauenzimmer mosaischer Religion</em> as teḥinah №57 on pp. 83-84. In the 1835 edition, it appears as teḥinah №59 on p. 106.  In the 1842 edition, it appears as teḥinah №62 on pp. 111.
 
 We welcome corrections and improvements. The transcription of the German from Latin script in Fraktur type provided machine-readable text for a machine translation by <a href="https://www.deepl.com/en/translator">DeepL</a>, which we then proofread for accuracy. --Aharon Varady
 

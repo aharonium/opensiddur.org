@@ -23,16 +23,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tr><td style="vertical-align:top;">
 <div class="german" lang="de">
 „In des Himmels blauer Ferne 
-Strahlte Sonne, Mond und Sterne!” 
-(Bereshit 1, 14.) 
+Strahlte Sonne, Mond und Sterne!” <span class="citation">(Bereshit 1, 14.)</span> 
 </span></div></td>
 
 <td style="vertical-align:top;">
 <div class="english" lang="en">
 God said, 
 "Let there be lights in the firmament
-To separate day from night."
-(Genesis 1:14)
+To separate day from night." <span class="citation">(Genesis 1:14)</span>
 </span></div></td></tr>
 
 

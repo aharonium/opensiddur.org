@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: הושענע לימי הקרונה | Hoshana in the days of Corona for Sukkot 5782, by Rabbi Gustavo Surazski (2021)<br />
+Title: הושענא לימי הקרונה | Hoshana in the days of Corona for Sukkot 5782, by Rabbi Gustavo Surazski (2021)<br />
 Primary contributor: shoshana-zucker<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=39220">http://opensiddur.org/?p=39220</a>
 <p />
@@ -12,10 +12,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
-הוֹשַׁעְנָע לְמַעַנְךָ אֱלֹהֵינוּ הוֹשַׁע נָע׃
-הוֹשַׁעְנָע לְמַעַנְךָ בּוֹרְאֵנוּ הוֹשַׁע נָע׃
-הוֹשַׁעְנָע לְמַעַנְךָ גּוֹאֲלֵנוּ הוֹשַׁע נָע׃
-הוֹשַׁעְנָע לְמַעַנְךָ דּוֹרְשֵׁנוּ הוֹשַׁע נָע׃
+הוֹשַׁעְנָא לְמַעַנְךָ אֱלֹהֵינוּ הוֹשַׁע נָא׃
+הוֹשַׁעְנָא לְמַעַנְךָ בּוֹרְאֵנוּ הוֹשַׁע נָא׃
+הוֹשַׁעְנָא לְמַעַנְךָ גּוֹאֲלֵנוּ הוֹשַׁע נָא׃
+הוֹשַׁעְנָא לְמַעַנְךָ דּוֹרְשֵׁנוּ הוֹשַׁע נָא׃
 </span></div></td>
 
 <td style="vertical-align:top;">

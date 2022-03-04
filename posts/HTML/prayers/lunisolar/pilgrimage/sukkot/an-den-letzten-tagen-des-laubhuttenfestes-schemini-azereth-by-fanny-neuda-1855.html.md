@@ -17,7 +17,6 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <td style="vertical-align:top;">
 <div class="english" lang="en">
-<span class="liturgy" lang="he">וְשָׂמַחְתָּ֖ בְּחַגֶּ֑ךָ</span>
 And you shall rejoice in your festival. <span class="citation">(Deuteronomy 16:14 part.)</span>
 </span></div></td></tr>
 

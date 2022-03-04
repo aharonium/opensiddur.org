@@ -124,7 +124,7 @@ In glücklichen Umständen.
 In unglücklichen Umständen.
 Im anhaltenden Unglücke.
 In Armuth.
-Unglückliche Ehe.
+<a href="/?p=42710">Unglückliche Ehe</a>.
 <a href="/?p=41935">Gebet einer Handelsfrau</a>.
 Im Alter.
 Für Kinder.
@@ -157,7 +157,7 @@ Am Tage, wenn eine Wöchnerin ihr Wochenbett verläßt.
 <u>Gebete für Mädchen</u>
 Morgengebet.
 Eben dieses Inhalts.
-Bei muthmaßlicher Gefahr zur Verführung.
+<a href="/?p=42467">Bei muthmaßlicher Gefahr zur Verführung</a>.
 Kinder für Eltern.
 Im ersten Jahre nach dem Tode der Eltern.
 Gebet einer Waise.
@@ -213,7 +213,7 @@ In happy circumstances.
 In unfortunate circumstances.
 In continuing misfortune.
 In poverty.
-Unhappy marriage.
+<a href="/?p=42710">Unhappy marriage</a>.
 <a href="/?p=41935">Prayer of a merchant woman</a>.
 In old age.
 For children.
@@ -246,7 +246,7 @@ On the day when a woman leaves her confinement.
 <u>Prayers for girls</u>
 Morning prayer.
 (another of the same)
-In case of suspected danger of seduction.
+<a href="/?p=42467">In suspected danger of seduction.</a>
 Children for parents.
 In the first year after the death of parents.
 Prayer of an orphan.

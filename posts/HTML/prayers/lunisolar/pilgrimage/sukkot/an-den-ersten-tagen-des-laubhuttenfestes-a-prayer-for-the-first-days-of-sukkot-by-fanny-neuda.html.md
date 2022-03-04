@@ -23,15 +23,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <tr><td style="vertical-align:top;">
 <div class="german" lang="de">
-Das Fest der Hütten sollst du feiern sieben
-Tage lang.
- (5. B. M. 16, 13.)
+Das Fest der Hütten sollst du feiern sieben Tage lang. <span class="citation">(5. B. M. 16, 13.)</span>
 </span></div></td>
 
 <td style="vertical-align:top;">
 <div class="english" lang="en">
-<span class="liturgy" lang="he">חַ֧ג הַסֻּכֹּ֛ת תַּעֲשֶׂ֥ה לְךָ֖ שִׁבְעַ֣ת יָמִ֑ים בְּאָ֨סְפְּךָ֔ מִֽגָּרְנְךָ֖ וּמִיִּקְבֶֽךָ׃</span>
-The festival of Sukkot shall you make for yourself, seven days, at the time that you gather in [to your house the summer fruits] from your threshing floor and from your winepress. (Deuteronomy 16, 13.)
+The festival of Sukkot shall you make for yourself, seven days, at the time that you gather in [to your house the summer fruits] from your threshing floor and from your winepress. <span class="citation">(Deuteronomy 16:13)</span>
 </span></div></td></tr>
 
 

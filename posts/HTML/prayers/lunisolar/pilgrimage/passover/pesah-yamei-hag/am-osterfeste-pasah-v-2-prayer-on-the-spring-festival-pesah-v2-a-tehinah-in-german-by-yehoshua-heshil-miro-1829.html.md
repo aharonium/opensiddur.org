@@ -56,7 +56,7 @@ Let us joyfully receive the good of this earth from your Father's hand, even if 
 
 <hr />
 
-"Desselben Inhalts [Am Osterfeste, Paßah (פסח) v.2]" was translated/adapted by Yehoshua Heshil Miro and published in his anthology of teḥinot, <a href="/?p=41365">בית יעקב (Beit Yaaqov) <em>Allgemeines Gebetbuch für gebildete Frauen mosaicher Religion</em></a>. It first appears in the 1829 edition, תחנות <em>Teḥinot ein Gebetbuch für gebildete Frauenzimmer mosaicher Religion</em> as teḥinah №24 on pp. 30-32. In the 1835 edition, it appears as teḥinah №24 on pp. 35-37. In the 1842 edition, it appears as teḥinah №26 on pp. 38-40.
+"Desselben Inhalts [Am Osterfeste, Paßah (פסח) v.2]" was translated/adapted by Yehoshua Heshil Miro and published in his anthology of teḥinot, <a href="/?p=41365">בית יעקב (Beit Yaaqov) <em>Allgemeines Gebetbuch für gebildete Frauen mosaischer Religion</em></a>. It first appears in the 1829 edition, תחנות <em>Teḥinot ein Gebetbuch für gebildete Frauenzimmer mosaischer Religion</em> as teḥinah №24 on pp. 30-32. In the 1835 edition, it appears as teḥinah №24 on pp. 35-37. In the 1842 edition, it appears as teḥinah №26 on pp. 38-40.
 
 We welcome corrections and improvements. The transcription of the German from Latin script in Fraktur type provided machine-readable text for a machine translation by <a href="https://www.deepl.com/en/translator">DeepL</a>, which we then proofread for accuracy. --Aharon Varady
  

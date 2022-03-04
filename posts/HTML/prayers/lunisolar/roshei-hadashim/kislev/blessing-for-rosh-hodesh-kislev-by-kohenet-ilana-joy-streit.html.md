@@ -14,7 +14,7 @@ Please note that this was written in the Northern Hemisphere and conveys the exp
 
 The references to Hershel and hard-boiled eggs are from the popular picture book, <em><a href="https://en.wikipedia.org/wiki/Hershel_and_the_Hanukkah_Goblins">Hershel and the Ḥanukkah Goblins</a></em>, by Eric A. Kimmel, which is highly recommended both in general and in further understanding this poem.
 
-If this piece brings you comfort, nourishment or inspiration, please consider making a financial contribution to support this work. You can do this via Venmo to @Ilana-Streit or <a href="mailto:ilanaing@gmail.com">email Ilana</a> for a mailing address.
+If this piece brings you comfort, nourishment or inspiration, please consider making a financial contribution to support this work. You can see and hear more of Ilana's creative work on her <a href="https://www.patreon.com/ilanajoy">Patreon page</a>. Or to make a one-time contribution, <a href="https://venmo.com/u/Ilana-Streit">Venmo</a> (@Ilana-Streit).
 </div>
 
 <hr />

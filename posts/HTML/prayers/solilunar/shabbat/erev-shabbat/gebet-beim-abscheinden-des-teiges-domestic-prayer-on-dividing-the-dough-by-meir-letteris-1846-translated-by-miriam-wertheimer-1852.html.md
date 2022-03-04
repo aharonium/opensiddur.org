@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: Gebet beim Abscheiden des Teiges (חלה) | Domestic Prayer on Dividing the Dough, a teḥinah in German by Meïr Letteris (1846); amended English translation by Miriam Wertheimer (1852)<br />
+Title: Gebet beim Abscheiden des Teiges (חלה) | Domestic Prayer on Dividing the Dough, a teḥinah in German by Meïr Letteris (1846)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=41513">http://opensiddur.org/?p=41513</a>
 <p />

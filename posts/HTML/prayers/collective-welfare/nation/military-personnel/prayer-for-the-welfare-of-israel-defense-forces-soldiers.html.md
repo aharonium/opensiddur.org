@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: מי שברך לחיילי צה"ל | Mi sheBerakh Prayer for the Welfare of Israel Defense Forces Soldiers, amended by Dr. Alex Sinclair (2012)<br />
+Title: מי שברך לחיילי צה"ל | Mi sheBerakh for the Welfare of Israel Defense Forces Soldiers, by chief rabbi Shlomo Goren (1956); amended by Dr. Alex Sinclair (2012)<br />
 Primary contributor: shlomo.goren<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=5094">http://opensiddur.org/?p=5094</a>
 <p />
@@ -70,9 +70,9 @@ and may God send blessing and success in their every endeavor.
 May the Lord give our soldiers wisdom, understanding, and insight, 
 so that they do not destroy the righteous with the wicked, 
 as it is written in Your Torah: 
-“<em>Far be it from you to do such a thing, 
+“Far be it from you to do such a thing, 
 to kill the righteous with the wicked, treating them the same. 
-Far be it from you – should the Judge of all the Earth not do justice?</em>”[foot]Genesis 18:25[/foot]
+Far be it from you – should the Judge of all the Earth not do justice?” <span class="citation">(Genesis 18:25)</span>
 </div></td></tr>
 
 
@@ -90,9 +90,9 @@ Far be it from you – should the Judge of all the Earth not do justice?</em>”
 May God cause our enemies to submit before our soldiers, 
 and may God grant them salvation and crown them with victory. 
 And may there be fulfilled for them the verse: 
-“<em>For it is the Lord your God, 
+“For it is the Lord your God, 
 Who goes with you to battle your enemies for you 
-to save you</em>,”[foot]Deuteronomy 20:4[/foot] 
+to save you,” <span class="citation">(Deuteronomy 20:4)</span>
 and let us say, <em>Amen</em>.</div>
 </div></td></tr>
 </tbody></table>

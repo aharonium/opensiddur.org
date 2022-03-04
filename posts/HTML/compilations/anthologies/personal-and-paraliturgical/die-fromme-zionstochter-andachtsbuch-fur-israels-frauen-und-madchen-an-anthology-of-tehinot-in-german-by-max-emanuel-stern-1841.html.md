@@ -78,7 +78,7 @@ Gebet einer Schwangern vor der Entbindung
 Gebet nach der Entbindung 
 Gebet einer Mutter während der Beschneidung ihres Kindes
 Gebet beim Aufstehen aus dem Wochenbette
-Gebet einer unglücklichen Ehegattin
+<a href="/?p=42718">Gebet einer unglücklichen Ehegattin</a>
 Gebet einer Frau, daß Gott die Geschäfte ihres Mannes segne
 Gebet einer Witwe, die unmündige Kinder zu versorgen hat
 Gebet einer Mutter, um das Wohl ihrer Kinder
@@ -102,7 +102,7 @@ Gebet um himmlischen Trost in Zeiten der Noth
 Gebet einer kränklichen Person
 Gebet einer Hochbetagten 
 Gebet in den Stunden der Wehmuh
-Gebet einer Mutter, deren sohn in Militär⸗Diensten steht
+<a href="/?p=42455">Gebet einer Mutter, deren sohn in Militär⸗Diensten steht</a>
 Gebet nach der Beerdigung und in den Trauertagen, über den Tod des Vaters
 Gebet nach der Beerdigung und in den Trauertagen, über den Tod der Mutter
 Gebet einer Frau nach der Beerdigung und in den Trauertagen, über den Tod des Gatten
@@ -177,7 +177,7 @@ Prayer of a pregnant woman before delivery
 Prayer after childbirth 
 Prayer of a mother during the circumcision of her child
 Prayer while getting up from confinement
-Prayer of an unhappy spouse
+<a href="/?p=42718">Prayer of an unhappy spouse</a>
 Prayer of a wife that God would bless the business of her husband
 Prayer of a widow who has underage children to care for
 Prayer of a mother for the welfare of her children
@@ -201,7 +201,7 @@ Prayer for heavenly comfort in times of distress
 Prayer of a sickly person
 Prayer of the aged 
 Prayer in the hours of melancholy
-Prayer of a mother whose son is in military service
+<a href="/?p=42455">Prayer of a mother whose son is in military service</a>
 Prayer after the funeral and in the days of mourning, over the death of the father
 Prayer after the funeral and in the days of mourning, over the death of the mother
 Prayer of a wife after the funeral and in the days of mourning, over the death of the husband

@@ -10,7 +10,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <div class="english" lang="en" style="font-size: 1.2em;">
 A blessing for announcing the new moon of Elul, for Rosh Ḥodesh Elul, and for the whole month. A poem of kindness, rootedness and transformation as we enter into a time of turning and returning.
 
-[If you have the means, please consider making a financial contribution to recognize and compensate Ilana for her creative work. Venmo to @Ilana-Streit.]
+[If you have the means, please consider making a financial contribution to recognize and compensate Ilana for her creative work. You can see and hear more of Ilana's creative work on her <a href="https://www.patreon.com/ilanajoy">Patreon page</a>. Or to make a one-time contribution, <a href="https://venmo.com/u/Ilana-Streit">Venmo</a> (@Ilana-Streit).]
 </div>
 
 <hr />

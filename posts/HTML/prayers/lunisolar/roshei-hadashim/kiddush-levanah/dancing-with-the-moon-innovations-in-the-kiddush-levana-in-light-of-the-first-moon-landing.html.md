@@ -7,7 +7,6 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-[caption id="attachment_8099" align="alignnone" width="551"]<img src="https://opensiddur.org/wp-content/uploads/2011/07/Kiddush-Levana-on-the-Moon.jpg" alt="" width="551" height="844" class="size-full wp-image-8099" /> "Kiddush Levana on the Moon" by Dov Abramov (CC-BY-SA)[/caption]
 
 The day after humankind's first landing on the Lunar surface July 20, 1969, the <a href="http://web.archive.org/web/20110811175154/http://archive.jta.org/article/1969/07/22/2950275/prayer-on-advent-of-new-moon-is-altered-to-take-into-account-apollo-11-achievement">Jewish Telegraphic Agency reported on</a> a poetic and topical innovation to the <em>Kiddush Levana</em>, the Blessing over the Moon, by Israeli Armed Forces' Chief Chaplain General <a href="https://secure.wikimedia.org/wikipedia/en/wiki/Shlomo_Goren">Shlomo Goren</a> in the IDF Siddur.
 

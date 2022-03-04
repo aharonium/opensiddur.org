@@ -127,7 +127,7 @@ you you!
 <td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 כְּשֶׁזֶּה טוֹב – אַתָּה
-כְּשֶׁזֶּה, חָלִילָה, עָצוּב – 
+כְּשֶׁזֶּה, חָלִילָה, רַע – 
 אוֹי, אַתָּה;
 אוֹי, אַתָּה־אַתָּה־אַתָּה־אַתָּה־אַתָּה־אַתָּה!
 אַתָּה־אַתָּה־אַתָּה־אַתָּה־אַתָּה־אַתָּה־אַתָּה!
@@ -136,7 +136,7 @@ you you!
 <td style="vertical-align:top;">
 <div class="english" lang="en">
 When it's good — You,
-[When it's,] Heaven forfend, sorrow — 
+[When it's,] Heaven forfend, bad — 
 Oy, you;[foot]cf. Birkat Yotser Ohr. A statement of non-duality.[/foot]&nbsp;
 Oy! You you you you you you!
 You you you you you you you!

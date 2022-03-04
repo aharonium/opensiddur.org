@@ -45,7 +45,7 @@ Eternal, all-good God, man is never so pious on earth that he always does good a
 
 <hr />
 
-"[Gebet] Zur Zeit der Niederkunft" was translated/adapted by Yehoshua Heshil Miro and published in his anthology of teḥinot, <a href="/?p=41365">בית יעקב (Beit Yaaqov) <em>Allgemeines Gebetbuch für gebildete Frauen mosaicher Religion</em></a>. It first appears in the 1829 edition, תחנות <em>Teḥinot ein Gebetbuch für gebildete Frauenzimmer mosaicher Religion</em> as teḥinah №58 on pp. 84-85. In the 1835 edition, it appears as teḥinah №60 on pp. 106-108.  In the 1842 edition, it appears as teḥinah №63 on pp. 111-113.
+"[Gebet] Zur Zeit der Niederkunft" was translated/adapted by Yehoshua Heshil Miro and published in his anthology of teḥinot, <a href="/?p=41365">בית יעקב (Beit Yaaqov) <em>Allgemeines Gebetbuch für gebildete Frauen mosaischer Religion</em></a>. It first appears in the 1829 edition, תחנות <em>Teḥinot ein Gebetbuch für gebildete Frauenzimmer mosaischer Religion</em> as teḥinah №58 on pp. 84-85. In the 1835 edition, it appears as teḥinah №60 on pp. 106-108.  In the 1842 edition, it appears as teḥinah №63 on pp. 111-113.
 
 We welcome corrections and improvements. The transcription of the German from Latin script in Fraktur type provided machine-readable text for a machine translation by <a href="https://www.deepl.com/en/translator">DeepL</a>, which we then proofread for accuracy. --Aharon Varady
 

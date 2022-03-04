@@ -10,7 +10,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <div class="english" lang="en" style="font-size: 1.2em;">
 A playful, expansive, embodied riff on Eikhah 5:21 <span class="hebrew" lang="he">הֲשִׁיבֵנוּ ה׳ אֵלֶיךָ ונשוב [וְנָשׁוּבָה] חַדֵּשׁ יָמֵינוּ כְּקֶדֶם</span> (<em>Hashiveinu Hashem eilekha v'nashuva, ḥadeish yameinu k'qedem</em>). Suitable for Tisha b'Av, Elul, the Days of Awe, and every day. You can listen to a recording of this text being chanted at <a href="https://soundcloud.com/ilana-streit/hashiveinu">Soundcloud</a>.
 
-[Financial contributions are most welcome, and support further creation and sharing of Ilana’s creative work. Venmo to @Ilana-Streit.]
+[Financial contributions are most welcome, and support further creation and sharing of Ilana’s creative work. You can see and hear more of Ilana's creative work on her <a href="https://www.patreon.com/ilanajoy">Patreon page</a>. Or to make a one-time contribution, <a href="https://venmo.com/u/Ilana-Streit">Venmo</a> (@Ilana-Streit).]
 </div>
 
 <hr />

@@ -107,7 +107,9 @@ In tones that rend the vaulted sky.
 
 <hr />
 
-The poem, "Song of the Spirit" by Rosa Emma Salaman, was first published in <a href="http://web.nli.org.il/sites/JPress/English/Pages/The-Occident-and-American-Jewish-Advocate.aspx">the <em>Occident</em> 6:7, Tishrei 5609, October 1848</a>, p. 333-334. In contributing her poem to the <em>Occident</em>, Salaman wrote the following,
+The poem, "Song of the Spirit" by Rosa Emma Salaman, was first published in <a href="http://web.nli.org.il/sites/JPress/English/Pages/The-Occident-and-American-Jewish-Advocate.aspx">the <em>Occident</em> 6:7, Tishrei 5609, October 1848</a>, p. 333-334. In her bound collections of poetry, <em>Poems</em> (1853), it is found on pp. 98-100 under a slightly different title, "The Spirit's Song."
+
+In contributing her poem to the <em>Occident</em>, Salaman wrote the following,
 
 <blockquote>I send you these lines of mine, as the idea occurred to me that the beautiful figure kneeling on the tomb, with the tearful eyes and hand pointing towards heaven, might be supposed to be listening to the distant song of the spirit, who has ascended unto the regions of bliss.</blockquote>
 

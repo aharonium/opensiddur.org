@@ -288,7 +288,7 @@ and deliver us from all evil,
 
 <hr />
 
-"Für Scheni chamischi scheni" was written by Yehoshua Heshil Miro and published in his anthology of teḥinot, <a href="/?p=41365">בית יעקב (Beit Yaaqov) <em>Allgemeines Gebetbuch für gebildete Frauen mosaicher Religion</em></a>. This teḥinah was new to the 1835 edition, where it appears as teḥinah №55, on pp. 98-100. In the 1842 edition, it appears as teḥinah №58, on pp. 103-105. 
+"Für Scheni chamischi scheni" was written by Yehoshua Heshil Miro and published in his anthology of teḥinot, <a href="/?p=41365">בית יעקב (Beit Yaaqov) <em>Allgemeines Gebetbuch für gebildete Frauen mosaischer Religion</em></a>. This teḥinah was new to the 1835 edition, where it appears as teḥinah №55, on pp. 98-100. In the 1842 edition, it appears as teḥinah №58, on pp. 103-105. 
 
 This transcription was derived by proofreading the output of Tesseract-OCR with its Fraktur script training data. This translation was derived by proofreading the output of the translation tools of DeepL and Google. --Aharon Varady
 

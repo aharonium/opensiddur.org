@@ -12,7 +12,7 @@ A poem-blessing for the Hebrew month of Ḥeshvan, suitable for Birkat HaḤodes
 
 Please note that this was written in the Northern Hemisphere and conveys the experience of Ḥeshvan as an autumn month.
 
-If this piece brings you comfort, nourishment or inspiration, please consider making a financial contribution to support this work. You can do this via Venmo to @Ilana-Streit or <a href="mailto:ilanaing@gmail.com">email Ilana</a> for a mailing address.
+If this piece brings you comfort, nourishment or inspiration, please consider making a financial contribution to support this work. You can see and hear more of Ilana's creative work on her <a href="https://www.patreon.com/ilanajoy">Patreon page</a>. Or to make a one-time contribution, <a href="https://venmo.com/u/Ilana-Streit">Venmo</a> (@Ilana-Streit).
 </div>
 
 <table style="margin-left: auto;margin-right: auto;">

@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-This is the anthology of teḥinot in German compiled by Meïr Letteris, <span class="hebrew">תָּחֲנוּנֵי בַּת יְהוּדָה</span> (Taḥnunei bat Yehudah) <em>Andachtsbuch für israelitische Frauenzimmer zur öffentlichen und häuslichen Erbauung in allen Berhältnissen des Lebens als Jungfrau, Brant, Gattin und Mutter</em>, originally published in 1846. An edition printed in Judeo-German (German written in <em>vayber-taytsh</em>, not to be confused with Yiddish) was published in 1851. A sixth edition was printed with slight changes to the typeface and layout in 1857. 
+This is the anthology of teḥinot in German compiled by Meïr Letteris, <span class="hebrew">תָּחֲנוּנֵי בַּת יְהוּדָה</span> (Taḥnunei bat Yehudah) <em>Andachtsbuch für israelitische Frauenzimmer zur öffentlichen und häuslichen Erbauung in allen Berhältnissen des Lebens als Jungfrau, Brant, Gattin und Mutter</em>, originally published in 1846. An edition printed in Judeo-German (German written in <em>vayber-taytsh</em>, not to be confused with Yiddish) was also published that year. A second, expanded edition was printed in 1852. 
 
 Many prayers from <em>Taḥnunei bat Yehudah</em> were translated Miriam Wertheimer into English in her <em><a href="/?p=41448">Devotional Exercises for the Use of Jewish Women on Public and Domestic Occasions</a></em> (1852).
 
@@ -158,7 +158,7 @@ Gebet am Wochenfeste (חג השבועות)
 Gebet am Laubhüttenfeste (חג הסוכות)
 Betrachtung über das Gebot der vier Pflanzengattungen (נטילת לולב) vor dem Segenspruch
 Gebet an Weidenfests (הושענה רבה) 
-Gebet einer schwangern Frau an הושענה רבה, nachdem sie den Segen über die Ethrog⸗Frucht gesprochen
+<a href="/?p=41508">Gebet einer schwangern Frau an הושענה רבה, nachdem sie den Segen über die Ethrog⸗Frucht gesprochen</a>
 Gebet am Freudenfeste des Gesetzes (שמחת תורה)
 Gebet vor dem Eingange des Neumondes Ellul (ערב ר״ח אלול)
 Gebet am ersten der Buß⸗Tage vor dem Neujahrsfeste (יום ראשון דסליחות)
@@ -208,7 +208,7 @@ Prayer on the Feast of Weeks (חג השבועות)
 Prayer on the Feast of Tabernacles (חג הסוכות).
 Contemplation on the commandment of the four plant genera (נטילת לולב) before the benediction.
 Prayer at the Willow Festival (הושענה רבה) 
-Prayer of a pregnant woman on הושענה רבה, after saying the blessing over the Etrog.
+<a href="/?p=41508">Prayer of a pregnant woman on הושענה רבה, after saying the blessing over the Etrog</a>.
 Prayer at the Feast of the Law (שמחת תורה)
 Prayer before the entrance of the new moon Elul (ערב ר״ח אלול).
 Prayer on the first of the Penitential days before the New Year (יום ראשון דסליחות)
@@ -245,7 +245,7 @@ Gebet einer Frau, die sich Mutter fühlt
 Gebet am Sabbath, an welchem eine Familienfeierlichkeit, wie die religiöse Großjährigkeit eines Sohnes, der das 13. Jahr zurückgelegt (בר מצוה), der Jahrestag der Vermählung, der Tag des Bundes eines Neugebornen (ברית מילה) u. dgl., Statt findet
 Gebet einer kinderlosen Ehefrau
 Gebet einer Frau um Segen und Gedeihen der Geschäfte ihres Mannes
-Gebet in den Stunden der Wehmuth und Niedergeschlagenheit
+<a href="/?p=42724">Gebet in den Stunden der Wehmuth und Niedergeschlagenheit</a>
 Gebet einer Frau, als sie das Wochenbett verläßt 
 Gebet einer Frau, wenn ihr Kind zur Beschneidung getragen wird
 Gebet in schwerer Krankheit
@@ -257,7 +257,7 @@ Gebet einer Waise
 Für Dienstboten
 <a href="/?p=41459">Gebet einer Frau, wenn Seuchen oder epidemische Krankheiten herrichen</a>
 Andachtsübung einer betagten Frau
-Gebet für alle Buß⸗ und Fasttage
+<a href="/?p=41452">Gebet für alle Buß⸗ und Fasttage</a>
 Sühngebrauch (סדר כפרות)
 </div></td>
 
@@ -274,7 +274,7 @@ Prayer of a woman who feels like a mother
 Prayer on the Sabbath, on which a family celebration takes place, such as the religious coming of age of a son who has passed the 13th year (בר מצוה), the anniversary of marriage, the day of the covenant of a newborn (ברית מילה), etc.
 Prayer of a childless wife
 Prayer of a wife for blessing and prosperity of her husband's business
-Prayer in the hours of melancholy and dejection
+<a href="/?p=42724">Prayer in the hours of melancholy and dejection</a>
 Prayer of a woman when she leaves childbed/confinement (puerperium) 
 Prayer of a woman when her child is carried to circumcision
 Prayer in serious illness
@@ -286,7 +286,7 @@ Prayer of an orphan
 For servants
 <a href="/?p=41459">Prayer of a woman when epidemics or epidemic diseases are approaching</a>
 Prayer of an aged woman
-Prayer for all penitential and fast days
+<a href="/?p=41452">Prayer for all penitential and fast days</a>
 Atonement (סדר כפרות)
 </div></td></tr>
 
@@ -447,10 +447,8 @@ From the same. (אם יוספים אנחנו)
 </div></td></tr>
 </tbody></table></blockquote>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/tahnunei-bat-yehudah-meir-letteris-1857/Ta%E1%B8%A5nunei%20bat%20Yehudah%20%28Meir%20Letteris%201857%29#page/n0/mode/2up"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/tahnunei-bat-yehudah-meir-letteris-1852/Ta%E1%B8%A5nunei%20bat%20Yehudah%20%28Me%C3%AFr%20Letteris%201852%29#page/n3/mode/2up"]
 
 &nbsp;
-
-
 </body>
 </html>

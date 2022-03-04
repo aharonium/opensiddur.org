@@ -192,7 +192,7 @@ Amen.
 
 <hr />
 
-"Gebet für den Regenten" was translated/adapted by Yehoshua Heshil Miro from the traditional prayer for the sovereign ("Hanoten Teshua") and published in his anthology of teḥinot, <a href="/?p=41365">בית יעקב (Beit Yaaqov) <em>Allgemeines Gebetbuch für gebildete Frauen mosaicher Religion</em></a>. It first appears in the 1833 edition, תחנות <em>Teḥinot ein Gebetbuch für gebildete Frauenzimmer mosaicher Religion</em> on pp. 66-67. In the 1835 edition, it appears as teḥinah №45 on pp. 75-76.  In the 1842 edition, it appears as teḥinah №47 on pp. 78-79, with the name of Friedrich Wilhelm Ⅲ (1770-1840) replaced by Friedrich Wilhelm Ⅳ (1795-1861). The Hebrew liturgy from which Miro's translation was derived was reconstructed from variations of Hanoten Teshua current in the 19th century at the time this prayer was published. --Aharon Varady
+"Gebet für den Regenten" was translated/adapted by Yehoshua Heshil Miro from the traditional prayer for the sovereign ("Hanoten Teshua") and published in his anthology of teḥinot, <a href="/?p=41365">בית יעקב (Beit Yaaqov) <em>Allgemeines Gebetbuch für gebildete Frauen mosaischer Religion</em></a>. It first appears in the 1833 edition, תחנות <em>Teḥinot ein Gebetbuch für gebildete Frauenzimmer mosaischer Religion</em> on pp. 66-67. In the 1835 edition, it appears as teḥinah №45 on pp. 75-76.  In the 1842 edition, it appears as teḥinah №47 on pp. 78-79, with the name of Friedrich Wilhelm Ⅲ (1770-1840) replaced by Friedrich Wilhelm Ⅳ (1795-1861). The Hebrew liturgy from which Miro's translation was derived was reconstructed from variations of Hanoten Teshua current in the 19th century at the time this prayer was published. --Aharon Varady
 
 <h3>Source(s)</h3>
 

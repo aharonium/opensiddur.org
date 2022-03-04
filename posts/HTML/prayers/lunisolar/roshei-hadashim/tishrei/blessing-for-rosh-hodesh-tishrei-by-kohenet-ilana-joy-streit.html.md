@@ -10,7 +10,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <div class="english" lang="en" style="font-size: 1.2em;">
 A soulful, playful, embodied, grounded poem for announcing the new moon of Tishrei, for Rosh Ḥodesh Tishrei (otherwise known as Rosh haShanah) and for the whole month.
 
-[If you have the means, you can acknowledge and celebrate Ilana's creative work by supporting her work financially: Venmo to @Ilana-Streit. Ilana would also appreciate hearing about how and where (in what community) her writing is traveling.]
+[If you have the means, you can acknowledge and celebrate Ilana's creative work by supporting her work financially. You can see and hear more of Ilana's creative work on her <a href="https://www.patreon.com/ilanajoy">Patreon page</a>. Or to make a one-time contribution, <a href="https://venmo.com/u/Ilana-Streit">Venmo</a> (@Ilana-Streit). Ilana would also appreciate hearing about how and where (in what community) her writing is traveling.]
 </div>
 
 <hr />
