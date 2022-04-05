@@ -2,7 +2,7 @@
 <head></head>
 <body>
 Title: סדר מגילת אסתר עם פסוקים שנאמרו על אסתר ומרדכי | Seder Megillat Esther (with verses to be said for Esther and Mordekhai)<br />
-Primary contributor: unknown<br />
+Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=2710">http://opensiddur.org/?p=2710</a>
 <p />
 <hr />
@@ -111,6 +111,8 @@ and enabled us to reach this season.
 <tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֶסְתֵּר א
+&nbsp;
+https://archive.org/download/megilatestherhillelhayyimlaveryyisraeli2010/Megilat%20Esther%20Chapter%2001%20%28Hillel%20%E1%B8%A4ayyim%20Lavery-Yisra%C3%ABli%202010%29.mp3
 </span></div></td>
  
 <td style="vertical-align:top;">
@@ -193,6 +195,8 @@ and enabled us to reach this season.
 <tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֶסְתֵּר ב
+&nbsp;
+https://archive.org/download/megilatestherhillelhayyimlaveryyisraeli2010/Megilat%20Esther%20Chapter%2002%20%28Hillel%20%E1%B8%A4ayyim%20Lavery-Yisra%C3%ABli%202010%29.mp3
 </span></div></td>
  
 <td style="vertical-align:top;">
@@ -297,6 +301,8 @@ and enabled us to reach this season.
 <tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֶסְתֵּר ג
+&nbsp;
+https://archive.org/download/megilatestherhillelhayyimlaveryyisraeli2010/Megilat%20Esther%20Chapter%2003%20%28Hillel%20%E1%B8%A4ayyim%20Lavery-Yisra%C3%ABli%202010%29.mp3
 </span></div></td>
  
 <td style="vertical-align:top;">
@@ -389,6 +395,8 @@ and enabled us to reach this season.
 <tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֶסְתֵּר ד
+&nbsp;
+https://archive.org/download/megilatestherhillelhayyimlaveryyisraeli2010/Megilat%20Esther%20Chapter%2004%20%28Hillel%20%E1%B8%A4ayyim%20Lavery-Yisra%C3%ABli%202010%29.mp3
 </span></div></td>
  
 <td style="vertical-align:top;">
@@ -471,6 +479,8 @@ and enabled us to reach this season.
 <tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֶסְתֵּר ה
+&nbsp;
+https://archive.org/download/megilatestherhillelhayyimlaveryyisraeli2010/Megilat%20Esther%20Chapter%2005%20%28Hillel%20%E1%B8%A4ayyim%20Lavery-Yisra%C3%ABli%202010%29.mp3
 </span></div></td>
  
 <td style="vertical-align:top;">
@@ -553,6 +563,8 @@ and enabled us to reach this season.
 <tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֶסְתֵּר ו
+&nbsp;
+https://archive.org/download/megilatestherhillelhayyimlaveryyisraeli2010/Megilat%20Esther%20Chapter%2006%20%28Hillel%20%E1%B8%A4ayyim%20Lavery-Yisra%C3%ABli%202010%29.mp3
 </span></div></td>
  
 <td style="vertical-align:top;">
@@ -626,6 +638,8 @@ and enabled us to reach this season.
 <tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֶסְתֵּר ז
+&nbsp;
+https://archive.org/download/megilatestherhillelhayyimlaveryyisraeli2010/Megilat%20Esther%20Chapter%2007%20%28Hillel%20%E1%B8%A4ayyim%20Lavery-Yisra%C3%ABli%202010%29.mp3
 </span></div></td>
  
 <td style="vertical-align:top;">
@@ -688,6 +702,8 @@ and enabled us to reach this season.
 <tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֶסְתֵּר ח
+&nbsp;
+https://archive.org/download/megilatestherhillelhayyimlaveryyisraeli2010/Megilat%20Esther%20Chapter%2008%20%28Hillel%20%E1%B8%A4ayyim%20Lavery-Yisra%C3%ABli%202010%29.mp3
 </span></div></td>
  
 <td style="vertical-align:top;">
@@ -740,6 +756,8 @@ and enabled us to reach this season.
 <tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֶסְתֵּר ט
+&nbsp;
+https://archive.org/download/megilatestherhillelhayyimlaveryyisraeli2010/Megilat%20Esther%20Chapter%2009%20%28Hillel%20%E1%B8%A4ayyim%20Lavery-Yisra%C3%ABli%202010%29.mp3
 </span></div></td>
  
 <td style="vertical-align:top;">
@@ -872,6 +890,8 @@ and enabled us to reach this season.
 <tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
 אֶסְתֵּר י
+&nbsp;
+https://archive.org/download/megilatestherhillelhayyimlaveryyisraeli2010/Megilat%20Esther%20Chapter%2010%20%28Hillel%20%E1%B8%A4ayyim%20Lavery-Yisra%C3%ABli%202010%29.mp3
 </span></div></td>
  
 <td style="vertical-align:top;">
@@ -1166,5 +1186,11 @@ The Open Siddur Project is pleased to offer the world the first freely licensed 
 If you have any free licensed resources representing other <em>nuschaot</em> and <em>minhagim</em>, please <a href="https://opensiddur.org/contribute/upload/">share</a> them. Sound recordings of the ta'amei miqra for the reading of Megillat Esther are located <a href="https://opensiddur.org/2011/03/taamei-hamiqra-cantillation-for-megillat-esther/">here</a>.
 
 Shmueli Gonzales' instructional text is licensed <a href="http://creativecommons.org/licenses/by/3.0/">CC-BY</a>. All other material contributed in this post is shared with a <a href="http://creativecommons.org/publicdomain/zero/1.0/">Creative Commons Zero</a> license and public domain declaration. Minor changes to the layout of the <sup>1917</sup>&nbsp;JPS translation and closer transliterations of names found in Megillat Esther, are our only modifications.
+
+<h3>Recordings</h3>
+
+ A full recording of the reading of Megillat Esther suitable for the study of the chanting of each chapter is shared by Rabbi Hillel Ḥayyim Lavery-Yisraëli as cross-posted to the <a href="https://archive.org/details/megilatestherhillelhayyimlaveryyisraeli2010">Internet Archive</a>.
+
+&nbsp;
 </body>
 </html>

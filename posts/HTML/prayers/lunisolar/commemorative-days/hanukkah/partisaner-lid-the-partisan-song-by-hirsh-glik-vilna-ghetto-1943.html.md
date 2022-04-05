@@ -2,7 +2,7 @@
 <head></head>
 <body>
 Title: זאָג ניט קײן מאָל | Partisaner Lid (the Partisan Song), by Hirsh Glik (Vilna Ghetto, 1943)<br />
-Primary contributor: aharon.varady<br />
+Primary contributor: comYakowenko<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=18257">http://opensiddur.org/?p=18257</a>
 <p />
 <hr />
@@ -141,7 +141,7 @@ our step beats out the message: we are here!
 
 <hr />
 
-The Yiddish resistance song, "Partisaner Lid" (The Partisan Song) was composed by Hirsh Glik (1922-1944) in the Vilna Ghetto in 1943. This song is included in "<a href="https://opensiddur.org/compilations/madrikhim/hanukkah/nomi-and-aharons-hanukkah-madrikh/">A Ḥanukkah Madrikh! by Noam Lerman &amp; Aharon Varady</a>." Ukrainian translation added in 2022 by <a href="https://www.youtube.com/user/comYakowenko">comYakowenko</a>.
+The Yiddish resistance song, "Partisaner Lid" (The Partisan Song) was composed by Hirsh Glik (1922-1944) in the Vilna Ghetto in 1943. This song is included in "<a href="https://opensiddur.org/compilations/madrikhim/hanukkah/nomi-and-aharons-hanukkah-madrikh/">A Ḥanukkah Madrikh!</a>" (2011) by Noam Lerman &amp; Aharon Varady. Ukrainian translation added in February 2022 by <a href="https://www.youtube.com/user/comYakowenko">comYakowenko</a>.
 
 <h3>Recordings</h3>
 
@@ -153,6 +153,6 @@ https://www.youtube.com/watch?v=WcJk1sjbBOU
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.archive.org/stream/nybc205496#page/n12/mode/2up"]
 
-
+&nbsp;
 </body>
 </html>

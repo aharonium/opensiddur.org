@@ -4,17 +4,31 @@ $curauth = (isset($_GET['author_name'])) ? get_user_by('slug', $author_name) : g
 // $curauth = get_the_author_meta( 'nicename', $author_id );
 ?>
 
-<meta name="twitter:card" content="summary" />
-<meta name="twitter:image:src" content="<?php echo get_avatar_url( $curauth->user_email ); ?>" />
-<meta property="og:description" content="Prayers and other works by <?php echo $curauth->display_name; ?> shared through the Open Siddur Project.">
-<meta property="og:image" content="<?php echo get_avatar_url( $curauth->user_email , 'large '); ?>" />
 
 <?php 
 list($bfa_ata, $cols, $left_col, $left_col2, $right_col, $right_col2, $bfa_ata['h_blogtitle'], $bfa_ata['h_posttitle']) = bfa_get_options();
+?>
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:image:src" content="<?php echo get_avatar_url($curauth->ID, ['size' => '300']); ?>" />
+<meta property="og:description" content="Prayers and other works by <?php echo $curauth->display_name; ?> shared through the Open Siddur Project.">
+<meta property="og:image" content="<?php echo get_avatar_url($curauth->ID, ['size' => '300']); ?>" />
+
+<?php
 get_header(); 
+?>
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:image:src" content="<?php echo get_avatar_url($curauth->ID, ['size' => '300']); ?>" />
+<meta property="og:description" content="Prayers and other works by <?php echo $curauth->display_name; ?> shared through the Open Siddur Project.">
+<meta property="og:image" content="<?php echo get_avatar_url($curauth->ID, ['size' => '300']); ?>" />
+
+<?php
 extract($bfa_ata); 
 global $bfa_ata_postcount;
 ?>
+
+
 
 
 <?php  if ($bfa_ata['widget_center_top'] <> '') { 
@@ -29,7 +43,8 @@ global $bfa_ata_postcount;
     <div class="author-photo">
         <?php echo get_avatar( $curauth->user_email , '250 '); ?>
     </div>
-    
+
+
 <?php // Set the Current Author via the current method, find: https://developer.wordpress.org/reference/functions/get_the_author_meta/ ?>
 <h2><?php echo get_the_author_meta( 'display_name' ); ?></h2>
 

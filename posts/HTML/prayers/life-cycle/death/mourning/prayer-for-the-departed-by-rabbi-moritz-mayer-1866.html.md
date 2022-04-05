@@ -45,7 +45,7 @@ True, mine eye no longer beholds their venerable countenances, my ear no longer 
 
 <hr />
 
-"Prayer for the Departed. (הזכרת נשמות)" is one of thirty prayers appearing in Rabbi Moritz Mayer's collection of tehinot, <em><a href="/?p=3692">Hours of Devotion</a></em> (1866), of uncertain provenance and which he may have written. --Aharon Varady
+"Prayer for the Departed. (הזכרת נשמות)" is one of thirty prayers appearing in Rabbi Moritz Mayer's collection of tehinot, <em><a href="/?p=3692">Hours of Devotion</a></em> (1866). It seems to be have been based on the <a href="/?p=43125">paraliturgical hazkarat neshamot</a> in German by Yehoshua Heshil Miro (1829). --Aharon Varady
 
 <h3>Source(s)</h3>
 

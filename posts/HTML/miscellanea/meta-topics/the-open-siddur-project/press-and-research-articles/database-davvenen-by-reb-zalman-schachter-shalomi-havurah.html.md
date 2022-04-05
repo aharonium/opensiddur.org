@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<blockquote>The following work was published by a Havurah publication by Rabbi Zalman Schachter-Shalomi. In it, Reb Zalman presciently describes a digital database of liturgy and liturgy-related work that havurah groups across the world could use to bring together custom designed and crafted works for use in communal prayer. We are grateful to Reb Zalman for bringing this work to our attention. If anyone can help us identify the exact date and issue of this work's original publication, we'd be additionally grateful.
+<blockquote>In the following Q&A with Rabbi Zalman Schachter-Shalomi, published by a Havurah publication sometime in the early to mid-1980s, Reb Zalman presciently describes a digital database of liturgy and liturgy-related work that havurah groups across the world could use to bring together custom designed and crafted works for use in communal prayer. We are grateful to Reb Zalman for bringing this work to our attention. If anyone can help us identify the exact date and issue of this work's original publication, please leave a comment or <a href="/contact/">contact us</a>.
 
 Folks might already be aware that Reb Zalman and Rebbetzin Eve Ilsen were among those impacted by the <a href="http://boulderjewishnews.org/flood">flooding in Colorado this summer</a> (2013). Their house was flooded, with Reb Zalman's office containing many years of his documents and visions being especially damaged. Reb Zalman found this piece of writing while cleaning up the remains of his office and thought to send it to us.
 
@@ -33,6 +33,6 @@ I really believe that a wonderful renaissance of <em>davvenen</em> can be made, 
 
 <em>Zalman Schachter-Shalomi is Professor of Religion and Jewish Mysticism at Temple University, and is the Rebbe of the B'nai Or Community. He was a founding member of Havurat Shalom.</em>
 
-
+&nbsp;
 </body>
 </html>

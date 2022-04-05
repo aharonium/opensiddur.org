@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: ליקוטי תפילות חלק א׳ תפילה קמ״ה | Prayer for Sukkot (Liqutei Tefilot I:145), by Reb Nosson Sternhartz of Nemirov (early 19th century)<br />
+Title: ליקוטי תפילות א:קמה | Prayer for Sukkot (Liqutei Tefilot Ⅰ:145), by Reb Nosson Sternhartz of Nemyriv adapted from the teachings of Rebbe Naḥman (ca. 1820s)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=26201">http://opensiddur.org/?p=26201</a>
 <p />
@@ -643,7 +643,7 @@ YHVH, my Rock-fortress and my Redeemer." <span class="citation">(Psalms 19:15)</
 
 <hr />
 
-Prayer 145 of Liqutei Tefilot vol. 1 by Reb Nosson Sternhartz of Nemirov, after the teachings of Rebbe Naḥman in Liqutei Moharan, was translated by Yaacov Dovid Shulman in <em><a href="https://books.breslov.org/product/the-fiftieth-gate-volume-5">The Fiftieth Gate volume 5: Part One Prayers 111-152, Part Two Prayers 1-4</a></em> (Breslov Research Institute). I have adapted this translation slightly, mainly to clarify the terms <em>behemah</em> (domesticated animal) and <em>ḥayah</em> (wild creatures), but I have also made other subtle changes and added citation references. --Aharon Varady
+Prayer 145 of Liqutei Tefilot vol. 1 by Reb Noson Sternhartz of Nemyriv, after the teachings of Rebbe Naḥman in Liqutei Moharan, was translated by Yaacov Dovid Shulman in <em><a href="https://books.breslov.org/product/the-fiftieth-gate-volume-5">The Fiftieth Gate volume 5: Part One Prayers 111-152, Part Two Prayers 1-4</a></em> (Breslov Research Institute). I have adapted this translation slightly, mainly to clarify the terms <em>behemah</em> (domesticated animal) and <em>ḥayah</em> (wild creatures), but I have also made other subtle changes and added citation references. --Aharon Varady
 
 <!--
 <h3>Source</h3>

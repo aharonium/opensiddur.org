@@ -50,13 +50,13 @@ One little goat, one little goat.
 
 <td style="vertical-align:top;" width="36%">
 <div class="yiddish" lang="yi">
-דו האט גיקױפֿט מײן פֿעטרלײן אום צװײא פפענינג אײן ציקלײן אײן ציקלײן׃
+דז האט גיקױפֿט מײן פֿעטרלײן אום צװײא פפענינג אײן ציקלײן אײן ציקלײן׃
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
 <div class="romanized-transliteration" lang="yi"> 
-do hat gikoyft meyn fetrleyn, um tsvey pfening, eyn tsikleyn, eyn tsikleyn.
+dos hat gikoyft meyn fetrleyn, um tsvey pfening, eyn tsikleyn, eyn tsikleyn.
 </div>
 </td>
  
@@ -75,13 +75,13 @@ do hat gikoyft meyn fetrleyn, um tsvey pfening, eyn tsikleyn, eyn tsikleyn.
 
 <td style="vertical-align:top;" width="36%">
 <div class="yiddish" lang="yi">
-דא קומט דו קעצלײן אונ׳ עשט דו ציקלײן דא האט גיקױפֿט מײן פֿעטרלײן אום צװײא פפענינג אײן ציקלײן אײן ציקלײן׃
+דא קומט דז קעצלײן אונ׳ עשט דז ציקלײן דא האט גיקױפֿט מײן פֿעטרלײן אום צװײא פפענינג אײן ציקלײן אײן ציקלײן׃
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
 <div class="romanized-transliteration" lang="yi"> 
-Da komt di ketsleyn un esht do tsikleyn do da hat gikoyft meyn fetrleyn, um tsvey pfening, eyn tsikleyn, eyn tsikleyn.
+Da komt di ketsleyn un esht dos tsikleyn dos da hat gikoyft meyn fetrleyn, um tsvey pfening, eyn tsikleyn, eyn tsikleyn.
 </div>
 </td>
  
@@ -100,13 +100,13 @@ A cat came and ate the goat that my father bought for two <em>zuzim</em>. One li
  
 <td style="vertical-align:top;" width="36%">
 <div class="yiddish" lang="yi">
-דא קאם דו הינטלײן אונ׳ בײשט דו קעצלײן דו דא האט גיגעשין דו ציקלײן דא האט גיקױפֿט מײן פֿעטרלײן אום צװײא פפענינג אײן ציקלײן אײן ציקלײן׃
+דא קאם דז הינטלײן אונ׳ בײשט דז קעצלײן דז דא האט גיגעשין דז ציקלײן דא האט גיקױפֿט מײן פֿעטרלײן אום צװײא פפענינג אײן ציקלײן אײן ציקלײן׃
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
 <div class="romanized-transliteration" lang="yi"> 
-Da kam do hintleyn, un beysht do ketsleyn, do da hat gigeshin do tsikleyn, do da hat gikoyft meyn fetrleyn, um tsvey pfening, eyn tsikleyn, eyn tsikleyn.
+Da kam dos hintleyn, un beysht dos ketsleyn, dos da hat gigeshin dos tsikleyn, dos da hat gikoyft meyn fetrleyn, um tsvey pfening, eyn tsikleyn, eyn tsikleyn.
 </div>
 </td>
 
@@ -125,13 +125,13 @@ A dog came and bit the cat that ate the goat that my father bought for two <em>z
 
 <td style="vertical-align:top;" width="36%">
 <div class="yiddish" lang="yi">
-דא קאם דו שטעקלײן אונ׳ שלאגט דו דא האט גביסן דו קעצלײן דו דא האט גיגעשין דו ציקלײן דא האט גיקױפֿט מײן פֿעטרלײן אום צװײא פפענינג אײן ציקלײן אײן ציקלײן׃
+דא קאם דז שטעקלײן אונ׳ שלאגט דז דא האט גביסן דז קעצלײן דז דא האט גיגעשין דז ציקלײן דא האט גיקױפֿט מײן פֿעטרלײן אום צװײא פפענינג אײן ציקלײן אײן ציקלײן׃
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
 <div class="romanized-transliteration" lang="yi"> 
-Da kam do shtekleyn, un shlagt do hintleyn, do da hat gbishn do ketsleyn, do da hat gigeshn do tsikleyn, do da hat gikoyft meyn fetrleyn, um tsvey pfening, eyn tsikleyn, eyn tsikleyn.
+Da kam dos shtekleyn, un shlagt dos hintleyn, dos da hat gbishn dos ketsleyn, dos da hat gigeshn dos tsikleyn, dos da hat gikoyft meyn fetrleyn, um tsvey pfening, eyn tsikleyn, eyn tsikleyn.
 </div>
 </td>
 
@@ -150,13 +150,13 @@ A stick came and hit the dog that bit the cat that ate the goat that my father b
 
 <td style="vertical-align:top;" width="36%">
 <div class="yiddish" lang="yi">
-דא קאם דו פֿײארלײן אונ׳ פֿר ברענט דו שטעקלײן דו האט גישלאגין דו הינטלײן דו דא האט גביסן דו קעצלײן דו דא האט גיגעשין דו ציקלײן דא האט גיקױפֿט מײן פֿעטרלײן אום צװײא פפענינג אײן ציקלײן אײן ציקלײן׃
+דא קאם דז פֿײארלײן אונ׳ פֿר ברענט דז שטעקלײן דז האט גישלאגין דז הינטלײן דז דא האט גביסן דז קעצלײן דז דא האט גיגעשין דז ציקלײן דא האט גיקױפֿט מײן פֿעטרלײן אום צװײא פפענינג אײן ציקלײן אײן ציקלײן׃
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
 <div class="romanized-transliteration" lang="yi"> 
-Da kam do fayrleyn un far brent do shtekleyn, do hat gishlagin do hintleyn, do da hat gbishn do ketsleyn, do da hat gigeshn do tsikleyn, do da hat gikoyft meyn fetrleyn, um tsvey pfening, eyn tsikleyn, eyn tsikleyn.
+Da kam dos fayrleyn un far brent dos shtekleyn, dos hat gishlagin dos hintleyn, dos da hat gbishn dos ketsleyn, dos da hat gigeshn dos tsikleyn, dos da hat gikoyft meyn fetrleyn, um tsvey pfening, eyn tsikleyn, eyn tsikleyn.
 </div>
 </td>
 
@@ -175,13 +175,13 @@ A fire came and burned the stick that hit the dog that bit the cat that ate the 
 
 <td style="vertical-align:top;" width="36%">
 <div class="yiddish" lang="yi">
-דא קאם דו װאשרלײן אונ׳ פֿײארלײן דש דא האט פֿר ברענט דו שטעקלײן דו דא האט גישלאגין דו הינטלײן דו דא האט גביסן דו קעצלײן דו דא האט גיגעשין דו ציקלײן דא האט גיקױפֿט מײן פֿעטרלײן אום צװײא פפענינג אײן ציקלײן אײן ציקלײן׃
+דא קאם דז װאשרלײן אונ׳ פֿײארלײן דש דא האט פֿר ברענט דז שטעקלײן דז דא האט גישלאגין דז הינטלײן דז דא האט גביסן דז קעצלײן דז דא האט גיגעשין דז ציקלײן דא האט גיקױפֿט מײן פֿעטרלײן אום צװײא פפענינג אײן ציקלײן אײן ציקלײן׃
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
 <div class="romanized-transliteration" lang="yi"> 
-Da kam do washrleyn, un far lesht dash fayrleyn, dash da hat far brent do shtekleyn, do da hat gishlagn do hintleyn, do da hat gbishn do ketsleyn, do da hat gigeshn do tsikleyn, do da hat gikoyft meyn fetrleyn, um tsvey pfening, eyn tsikleyn, eyn tsikleyn.
+Da kam dos washrleyn, un far lesht dash fayrleyn, dash da hat far brent dos shtekleyn, dos da hat gishlagn dos hintleyn, dos da hat gbishn dos ketsleyn, dos da hat gigeshn dos tsikleyn, dos da hat gikoyft meyn fetrleyn, um tsvey pfening, eyn tsikleyn, eyn tsikleyn.
 </div>
 </td>
 
@@ -200,13 +200,13 @@ Water came and put out the fire that burned the stick that hit the dog that bit 
 
 <td style="vertical-align:top;" width="36%">
 <div class="yiddish" lang="yi">
-דא קאם דער אקס אונ׳ טרינקט דש װאשרלײן דו דא האט פֿר לעשט דו פֿײארלײן דו דא האט פֿר ברענט דו שטעקלײן דו דא האט גישלאגין דו הינטלײן דו דא האט גביסן דו קעצלײן דו דא האט גיגעשין דו ציקלײן דא האט גיקױפֿט מײן פֿעטרלײן אום צװײא פפענינג אײן ציקלײן אײן ציקלײן׃
+דא קאם דער אקס אונ׳ טרינקט דש װאשרלײן דז דא האט פֿר לעשט דז פֿײארלײן דז דא האט פֿר ברענט דז שטעקלײן דז דא האט גישלאגין דז הינטלײן דז דא האט גביסן דז קעצלײן דז דא האט גיגעשין דז ציקלײן דא האט גיקױפֿט מײן פֿעטרלײן אום צװײא פפענינג אײן ציקלײן אײן ציקלײן׃
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
 <div class="romanized-transliteration" lang="yi"> 
-Da kom der oks un trinkt dash washrleyn, do da hat far lesht do fayrleyn, do da hat par brent do shtekleyn, do da hat gishlagn do hintleyn, do da hat gbishn do ketsleyn, do da hat gigeshn do tsikleyn, do da hat gikoyft meyn fetrleyn, um tsvey pfening, eyn tsikleyn, eyn tsikleyn.
+Da kom der oks un trinkt dash washrleyn, dos da hat far lesht dos fayrleyn, dos da hat par brent dos shtekleyn, dos da hat gishlagn dos hintleyn, dos da hat gbishn dos ketsleyn, dos da hat gigeshn dos tsikleyn, dos da hat gikoyft meyn fetrleyn, um tsvey pfening, eyn tsikleyn, eyn tsikleyn.
 </div>
 </td>
 
@@ -225,13 +225,13 @@ An ox came and drank the water that put out the fire that burned the stick that 
 
 <td style="vertical-align:top;" width="36%">
 <div class="yiddish" lang="yi">
-דא קאם דער שוחט אונ׳ שעכט דען אקסין דער דא האט גיטרונקן דש װאשרלײן דו דא האט פֿר לעשט דו פֿײארלײן דו דא האט פֿר ברענט דו שטעקלײן דו דא האט גישלאגין דו הינטלײן דו דא האט גביסן דו קעצלײן דו דא האט גיגעשין דו ציקלײן דא האט גיקױפֿט מײן פֿעטרלײן אום צװײא פפענינג אײן ציקלײן אײן ציקלײן׃
+דא קאם דער שוחט אונ׳ שעכט דען אקסין דער דא האט גיטרונקן דש װאשרלײן דז דא האט פֿר לעשט דז פֿײארלײן דז דא האט פֿר ברענט דז שטעקלײן דז דא האט גישלאגין דז הינטלײן דז דא האט גביסן דז קעצלײן דז דא האט גיגעשין דז ציקלײן דא האט גיקױפֿט מײן פֿעטרלײן אום צװײא פפענינג אײן ציקלײן אײן ציקלײן׃
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
 <div class="romanized-transliteration" lang="yi"> 
-Da kom der shoḥeyt un shekht den oksin, der da hat gitrunkn dash washrleyn, do da hat far lesht do fayrleyn, do da hat far brent do shtekleyn, do da hat gishlagn do hintleyn, do da hat gbishn do ketsleyn, do da hat gigeshn do tsikleyn, do da hat gikoyft meyn fetrleyn, um tsvey pfening, eyn tsikleyn, eyn tsikleyn.
+Da kom der shoḥeyt un shekht den oksin, der da hat gitrunkn dash washrleyn, dos da hat far lesht dos fayrleyn, dos da hat far brent dos shtekleyn, dos da hat gishlagn dos hintleyn, dos da hat gbishn dos ketsleyn, dos da hat gigeshn dos tsikleyn, dos da hat gikoyft meyn fetrleyn, um tsvey pfening, eyn tsikleyn, eyn tsikleyn.
 </div>
 </td>
 
@@ -250,13 +250,13 @@ A butcher came and slaughtered the ox that drank the water that put out the fire
 
 <td style="vertical-align:top;" width="36%">
 <div class="yiddish" lang="yi">
-דא קאם דער מלאך המות אונ׳ שעכט דען שוחט דער דא האט גישעכט דען אקסין דער דא האט גיטרונקן דש װאשרלײן דו דא האט פֿר לעשט דו פֿײארלײן דו דא האט פֿר ברענט דו שטעקלײן דו דא האט גישלאגין דו הינטלײן דו דא האט גביסן דו קעצלײן דו דא האט גיגעשין דו ציקלײן דא האט גיקױפֿט מײן פֿעטרלײן אום צװײא פפענינג אײן ציקלײן אײן ציקלײן׃
+דא קאם דער מלאך המות אונ׳ שעכט דען שוחט דער דא האט גישעכט דען אקסין דער דא האט גיטרונקן דש װאשרלײן דז דא האט פֿר לעשט דז פֿײארלײן דז דא האט פֿר ברענט דז שטעקלײן דז דא האט גישלאגין דז הינטלײן דז דא האט גביסן דז קעצלײן דז דא האט גיגעשין דז ציקלײן דא האט גיקױפֿט מײן פֿעטרלײן אום צװײא פפענינג אײן ציקלײן אײן ציקלײן׃
 </span></div>
 </td>
 
 <td style="vertical-align:top;" width="36%">
 <div class="romanized-transliteration" lang="yi"> 
-Da kom der Malakh haMovet un shekht den shoḥeyt, der da hat gishekht den oksin, der da hat gitrunkn do washrleyn, do da hat far lesht dash fayrleyn, do da hat far brent do shtekleyn, do da hat gishlagn do hintleyn, do da hat gbishn do ketsleyn, do da hat gigeshn do tsikleyn, do da hat gikoyft meyn fetrleyn, um tsvey pfening, eyn tsikleyn, eyn tsikleyn.
+Da kom der Malakh haMovet un shekht den shoḥeyt, der da hat gishekht den oksin, der da hat gitrunkn dos washrleyn, dos da hat far lesht dash fayrleyn, dos da hat far brent dos shtekleyn, dos da hat gishlagn dos hintleyn, dos da hat gbishn dos ketsleyn, dos da hat gigeshn dos tsikleyn, dos da hat gikoyft meyn fetrleyn, um tsvey pfening, eyn tsikleyn, eyn tsikleyn.
 </div>
 </td>
 
@@ -281,7 +281,7 @@ The Angel of Death came and slaughtered the shoḥet who slaughtered the ox that
 
 <td style="vertical-align:top;" width="36%">
 <div class="romanized-transliteration" lang="yi"> 
-HaḲadosh Barukh Hu da kom unzr libr her got un shekht den Malakh haMovet, der da hat gishekht den shoḥeyt, der da hat gishekht den oksin, der da hat gitrunkn dash washrleyn, do da hat far lesht do fayrleyn, do da hat far brent do shtekleyn, do da hat gishlagn do hintleyn, do da hat gbishn do ketsleyn, do da hat gigeshn do tsikleyn, do da hat gikoyft meyn fetrleyn, um tsvey pfening, eyn tsikleyn, eyn tsikleyn.
+HaḲadosh Barukh Hu da kom unzr libr her got un shekht den Malakh haMovet, der da hat gishekht den shoḥeyt, der da hat gishekht den oksin, der da hat gitrunkn dash washrleyn, dos da hat far lesht dos fayrleyn, dos da hat far brent dos shtekleyn, dos da hat gishlagn dos hintleyn, dos da hat gbishn dos ketsleyn, dos da hat gigeshn dos tsikleyn, dos da hat gikoyft meyn fetrleyn, um tsvey pfening, eyn tsikleyn, eyn tsikleyn.
 </div>
 </td>
 

@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: Prayer of Parents for Son or Daughter in the Armed Forces, by Rabbi Max Klein (1951)<br />
+Title: Prayer of Parents for a Son or Daughter in the Armed Forces, by Rabbi Max Klein (1951)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=28006">http://opensiddur.org/?p=28006</a>
 <p />

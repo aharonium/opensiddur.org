@@ -8,7 +8,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <hr />
 
 [xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;">Hebrew (adaptation)</th><th style="text-align: left;">Source (English)</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;">Translation (Hebrew)</th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr>
 <td style="vertical-align:top;">
@@ -73,11 +73,13 @@ An <a href="https://www.jofa.org/agunot">agunah</a> (Hebrew: עגונה‎, plur
 
 Agunah Day was established by <a href="http://www.icar.org.il/">ICAR - The International Coalition for Agunah Rights</a> - in 1990, to raise public awareness to the plight of the Agunah and galvanize action to solve the problem. It is observed on the Jewish calendar date of the Fast of Esther. Like Esther, the Agunah of the present era does not want to be in the marriage in which she finds herself. Many women who are refused a get live in fear of their spouses and live a double life, just as Esther led a double life. Also, like Esther, the Agunah, a victim of get-refusal, finds herself lacking control of her own freedom.
 
-Shelley Frier List's prayer was originally printed in <a href="https://www.broydeblog.net/uploads/8/0/4/0/80408218/can_there_be_solutions_s.pdf">JOFA JOURNAL</a>, Summer 2005 (5:4), p.5, wherein was added a Hebrew adaptation made by the <a href="http://www.jofa.org/Education/JOFA_Journal">Jewish Orthodox Feminist Alliance</a> (JOFA). (I've added "בּוֹרֵא שָׁמַיִם וַאָרֶץ" to the top and bottom of this prayer so that these gaps in the Hebrew adaptation are filled.) --Aharon Varady 
+Shelley Frier List's prayer for agunot was originally printed in <a href="https://www.broydeblog.net/uploads/8/0/4/0/80408218/can_there_be_solutions_s.pdf">JOFA JOURNAL</a>, Summer 2005 (5:4), p.5, wherein was added a Hebrew adaptation made by the <a href="http://www.jofa.org/Education/JOFA_Journal">Jewish Orthodox Feminist Alliance</a> (JOFA). (I've added "בּוֹרֵא שָׁמַיִם וַאָרֶץ" to the top and bottom of this prayer so that these gaps in the Hebrew adaptation are filled.) --Aharon Varady 
 
 
 <h3>Source</h3>
 
 [gview file="https://opensiddur.org/wp-content/uploads/2013/12/Prayer-for-Agunot-Shelley-Frier-List-JOFA-Journal-Summer-2005-p.5.pdf"]
+
+&nbsp;
 </body>
 </html>

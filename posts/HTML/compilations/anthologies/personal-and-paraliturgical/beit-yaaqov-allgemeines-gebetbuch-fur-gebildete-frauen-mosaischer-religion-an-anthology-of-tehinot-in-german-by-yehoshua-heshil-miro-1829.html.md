@@ -97,8 +97,8 @@ Finally, I would like to try to review one more point. Some want to find the pas
 <div class="german" lang="de" style="text-align: left;">
 INHALT (1835)
 &nbsp;
-<a href="/?p=42473">Beim Eintritt in das Bethaus</a> (v.1)
-Ein Anderes desselben Inhalts <a href="/?p=42480">Beim Eintritt in das Bethaus</a> (v.2)
+<a href="/?p=42473">Beim Eintritt in das Bethaus</a> (no.1)
+Ein Anderes desselben Inhalts, <a href="/?p=42480">Beim Eintritt in das Bethaus</a> (no.2)
 <a href="/?p=42490">Allgemeines Gebet</a>
 <a href="/?p=42497">Fürbitte</a>
 <a href="/?p=42508">Für den ersten Tag der Woche</a>
@@ -112,18 +112,18 @@ Ein Anderes desselben Inhalts <a href="/?p=42480">Beim Eintritt in das Bethaus</
 <a href="/?p=41657">Beim Lichtzünden</a>
 <a href="/?p=41522">Wenn man Chala nimmt</a> 
 <a href="/?p=42655">Wenn man die Gefetzrolle aus der h. Lade nimmt</a>
-<a href="/?p=41665">Beim Einsegnen des Neumondes</a> (v.1)
-Desselben Inhalts <a href="/?p=41670">Beim Einsegnen des Neumondes</a> (v.2)
+<a href="/?p=41665">Beim Einsegnen des Neumondes</a> (no.1)
+Desselben Inhalts, <a href="/?p=41670">Beim Einsegnen des Neumondes</a> (no.2)
 <a href="/?p=42611">An den Hauptfesten beim Ausheben der Gesetzgrollen</a>
 <a href="/?p=42621">Bei derselben Gelegenheit am Bersöhnungstagere</a>
 <a href="/?p=42627">Beim Schluß des Gottesdienstes in der Synagoge</a>
 <a href="/?p=42356">Die vier Erinnerungen</a>
 <a href="/?p=42368">An einem Fasttage</a>
-<a href="/?p=42374">Am Osterfeste</a> (v.1)
-Desselben Inhalts <a href="/?p=42380">Am Osterfeste</a> (v.2)
+<a href="/?p=42374">Am Osterfeste</a> (no.1)
+Desselben Inhalts, <a href="/?p=42380">Am Osterfeste</a> (no.2)
 <a href="/?p=42388">In der Sephira</a>
-<a href="/?p=42639">Für das Wochenfest</a> (v.1)
-Desselben Inhalts <a href="/?p=42646">Für das Wochenfest</a> (v.2)
+<a href="/?p=42639">Für das Wochenfest</a> (no.1)
+Desselben Inhalts, <a href="/?p=42646">Für das Wochenfest</a> (no.2)
 <a href="/?p=42682">Am Fasttag des vierten Monats</a>
 <a href="/?p=42689">Am Tage der Zerstörung Jerusalems</a>
 <a href="/?p=42694">Während des Monats Ellul</a>
@@ -131,39 +131,39 @@ Desselben Inhalts <a href="/?p=42646">Für das Wochenfest</a> (v.2)
 <a href="/?p=42731">Am Neujahrstage vor dem Schofar</a>
 <a href="/?p=42736">Zweites Gebet bet derselben Gelegenheit</a>
 <a href="/?p=42741">Gebet, wenn der Vorbeter Unusane Tokef vorträgt</a>[foot]new for 1833 edition.[/foot]&nbsp;
-Fürbitte für die Verstorbenen
-Desselben Inhalts
-Desselben Inhalts[foot]new for 1833 edition.[/foot]&nbsp;
-Desselben Inhalts (Unsterblichkeit)
-Am Neujahrs⸗ und Versöhnungstage, wenn der Vorbeter Alenu vorträgt
+<a href="/?p=43125">Fürbitte für die Verstorbenen</a>  (no. 1)[foot]new for 1833 edition.[/foot]&nbsp;
+Desselben Inhalts, <a href="/?p=43134">Fürbitte für die Verstorbenen</a> (no.2)
+Desselben Inhalts, <a href="/?p=43145">Fürbitte für die Verstorbenen</a> (no.3)
+Desselben Inhalts, <a href="/?p=43150">Fürbitte für die Verstorbenen (Unsterblichkeit)</a>
+<a href="/?p=43156">Am Neujahrs⸗ und Versöhnungstage, wenn der Vorbeter Alenu vorträgt</a>
 <a href="/?p=18031">An Zom Gedalia</a>
-Betrachtung für die zehn Bußtage
-Vor Kol Nidre am Vorabend des Versöhnungstages
-Am Versöhnungstage, während des Vorlesens aus der h. Schrift
-Bei der Awoda
+<a href="/?p=43191">Betrachtung für die zehn Bußtage</a>
+<a href="/?p=43195">Vor Kol Nidre am Vorabend des Versöhnungstages</a>
+<a href="/?p=43200">Am Versöhnungstage, während des Vorlesens aus der h. Schrift</a>
+<a href="/?p=43206">Bei der Awoda</a>[foot]new for 1835.[/foot]
 <a href="/?p=42072">Gebet für den Regenten</a>[foot]new for 1833 edition.[/foot]&nbsp;
-Am Versöhnungstage zu Mincha (Vesper)
-Vor Neïla (Schlußgebet)
-Zweites Gebet vor Neïla
-Vor dem Eßrogsegen
-Für den ersten Tag des Laubhüttenfestes
-Desselben Inhalts
-Am siebenten Tage des Laubhüttenfestes
+<a href="/?p=43212">Am Versöhnungstage zu Mincha</a>
+<a href="/?p=43237">Vor Neïla (Schlußgebet)</a>
+<a href="/?p=43244">Zweites Gebet vor Neïla</a>
+<a href="/?p=43250">Vor dem Eßrogsegen</a>
+<a href="/?p=43287">Für den ersten Tag des Laubhüttenfestes</a> (no.1)
+Desselben Inhalts, <a href="/?p=43291">Für den ersten Tag des Laubhüttenfestes</a> (no.2)
+<a href="/?p=43296">Am siebenten Tage des Laubhüttenfestes (Hoschana Raba)</a>
 <a href="/?p=41534">Wenn eine Frau den Stiel vorn Eßrog ausbeißr</a>
-Am Schlußfeste, Schemini Azeress
-Für Gesetzesfreude, Simchas Tora
+<a href="/?p=43306">Am Schlußfeste, Schemini Azeress</a>
+<a href="/?p=43302">Für Gesetzesfreude, Simchas Tora</a>
 <a href="/?p=41548">Für Scheni chamischi scheni</a>
-Für Chanuka
+<a href="/?p=43273">Für Chanuka</a>
 <a href="/?p=41401">Am Fasttage des 9ten Monats assara betewet</a>
-Am Fasttage vor dem Purimfeste, Taaniss Esther
+<a href="/?p=43253">Am Fasttage vor dem Purimfeste, Taaniss Esther</a>
 </div></td>
 
 <td style="vertical-align:top;">
 <div class="english" lang="en" style="text-align: left;">
 CONTENTS
 &nbsp;
-<a href="/?p=42473">On entering the prayer house</a> (v.1)
-<a href="/?p=42480">On entering the prayer house</a> (v.2)
+<a href="/?p=42473">On entering the prayer house</a> (no.1)
+<a href="/?p=42480">On entering the prayer house</a> (no.2)
 <a href="/?p=42490">General prayer</a>
 <a href="/?p=42497">Intercession</a>
 <a href="/?p=42508">For the first day of the week</a>
@@ -172,23 +172,23 @@ CONTENTS
 <a href="/?p=42520">On the fourth day of the week</a>
 <a href="/?p=42526">On the fifth day of the week</a>
 <a href="/?p=42530">On the sixth day of the week</a>
-<a href="/?p=42535">For Shabbat</a> (v.1)
-<a href="/?p=42539">For Shabbat</a> (v.2)
+<a href="/?p=42535">For Shabbat</a> (no.1)
+<a href="/?p=42539">For Shabbat</a> (no.2)
 <a href="/?p=41657">When lighting</a>
 <a href="/?p=41522">When taking ḥallah</a> 
 <a href="/?p=42655">When taking the Torah scroll from the ark</a> (<em>brikh shmeih</em>)
-<a href="/?p=41665">When blessing the new moon</a> (v.1)
-<a href="/?p=41670">When blessing the new moon</a> (v.2)
+<a href="/?p=41665">When blessing the new moon</a> (no.1)
+<a href="/?p=41670">When blessing the new moon</a> (no.2)
 <a href="/?p=42611">When taking out the Torah scroll on the Shalosh Regalim </a>
 <a href="/?p=42621">When taking out the Torah scroll on [Rosh haShanah,] Yom Kippur[, and Hoshana Rabbah]</a>
 <a href="/?p=42627">At the end of the service in the synagogue</a>
 <a href="/?p=42356">The Four Remembrances</a>
 <a href="/?p=42368">On a Fast Day</a>
-<a href="/?p=42374">On the Spring festival of Pesaḥ</a> (v.1)
-<a href="/?p=42380">On the Spring festival of Pesaḥ</a> (v.2)
+<a href="/?p=42374">On the Spring festival of Pesaḥ</a> (no.1)
+<a href="/?p=42380">On the Spring festival of Pesaḥ</a> (no.2)
 <a href="/?p=42388">During the Sefirat haOmer</a>
-<a href="/?p=42639">For Shavuot</a> (v.1)
-<a href="/?p=42646">For Shavuot</a> (v.2)
+<a href="/?p=42639">For Shavuot</a> (no.1)
+<a href="/?p=42646">For Shavuot</a> (no.2)
 <a href="/?p=42682">On the fast day of the fourth month</a> (Sheva Asar b'Tamuz)
 <a href="/?p=42689">On the day of the destruction of Jerusalem</a> (Tishah b'Av)
 <a href="/?p=42694">During the month of Elul</a>
@@ -196,31 +196,31 @@ CONTENTS
 <a href="/?p=42731">On Rosh haShanah before the shofar is blown</a>
 <a href="/?p=42736">Second prayer on the same occasion</a>
 <a href="/?p=42741">Prayer when the prayer leader recites Unetanah Toqef</a>
-Intercession for the deceased (v.1)
-Intercession for the deceased (v.2)
-Intercession for the deceased (v.3)
-Intercession for the deceased (v.4, on immortality)
-On Rosh haShanah and Yom Kippur, when the prayer leader recites Alenu.
+<a href="/?p=43125">Intercession for the deceased</a> (no.1)
+<a href="/?p=43134">Intercession for the deceased</a> (no.2)
+<a href="/?p=43135">Intercession for the deceased</a> (no.3)
+<a href="/?p=43150">Intercession for the deceased</a> (on immortality)
+<a href="/?p=43156">On Rosh haShanah and Yom Kippur, when the prayer leader recites Alenu</a>.
 <a href="/?p=18031">On Tsom Gedalyah</a>
-Contemplation for the ten days of atonement
-Before Kol Nidre on the eve of Yom Kippur
-On Yom Kippur, during the reading of the Scriptures.
-At the Avodah
+<a href="/?p=43191">Contemplation for the Ten Days of Repentance</a>
+<a href="/?p=43195">Before Kol Nidre on the eve of Yom Kippur</a>
+<a href="/?p=43200">On Yom Kippur, during the Torah Reading Service</a>.
+<a href="/?p=43206">At the Avodah</a> (during Alenu)
 <a href="/?p=42072">Prayer for the Regent</a>
-On Yom Kippur at Minḥah
-Before Neïla (final prayer)
-Second prayer before Neïla
-Before the Etrog blessing
-For the first day of Sukkot (v.1)
-For the first day of Sukkot (v.2)
-On the seventh day of Sukkot
+<a href="/?p=43212">On Yom Kippur at Minḥah (on Megilat Yonah)</a>
+<a href="/?p=43237">Before Neïla (final prayer)</a> (no.1)
+<a href="/?p=43244">Before Neïla (final prayer)</a> (no.2)
+<a href="/?p=43250">Before the Etrog blessing</a>
+<a href="/?p=43287">For the first day of Sukkot</a> (no.1)
+<a href="/?p=43291">For the first day of Sukkot</a> (no.2)
+<a href="/?p=43296">On the seventh day of Sukkot (Hoshana Rabbah)</a>
 <a href="/?p=41534">When a woman bites out the pitom from the front of the Etrog</a>
-On the final Festival, Shemini Atseret
-For the joy of the law, Simḥat Torah
+<a href="/?p=43306">On the final Festival, Shemini Atseret</a>
+<a href="/?p=43302">For the joy of the Torah, Simḥat Torah</a>
 <a href="/?p=41548">For the Monday, Thursday, and following Monday (after Sukkot & Pesaḥ)</a>
-For Ḥanukkah
+<a href="/?p=43273">For Ḥanukkah</a>
 <a href="/?p=41401">On the fast day of the 9th month (Asarah b'Tevet)</a>
-On the fast day before Purim, Taaniss Esther
+<a href="/?p=43253">On the fast day before Purim, Taaniss Esther</a>
 </div></td></tr>
 
 

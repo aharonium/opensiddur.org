@@ -10,14 +10,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 [xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
-<tr><td style="vertical-align:top;">
+<tr><td style="vertical-align:top;" width="33%">
 <div class="liturgy" lang="he">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
 <div class="english" lang="en">
-Blessed <em>HaMavdeel</em>, the Divider of Time:
+Blessed <em>HaMavdil</em>, the Divider of Time:
 
 <p style="padding-left: 30px;">For separating the whole into increments that we may comprehend it, we are thankful.</p>
 </div></td></tr>
@@ -56,7 +56,7 @@ Blessed <em>Ain Sof</em>, That Which Cannot Be Known:
  
 <td style="vertical-align:top;">
 <div class="english" lang="en">
-Blessed <em>Ruaḥ HaOlam</em>, The Breath That Animates:
+Blessed <em>Ruaḥ ha-Olam</em>, The Breath That Animates:
 
 <p style="padding-left: 30px;">For giving us teachers that we may learn, we are thankful.</p>
 </div></td></tr>
@@ -82,7 +82,7 @@ Blessed One Who Spoke and created the world:
  
 <td style="vertical-align:top;">
 <div class="english" lang="en">
-Blessed <em>Shekhina</em>, the Soul of Eternity, in whose spirit we create:
+Blessed <em>Shekhinah</em>, the Soul of Eternity, in whose spirit we create:
 
 <p style="padding-left: 30px;">For the guidance and joy and music and knowledge that our clergy give to us, we are thankful.</p>
 </div></td></tr>
@@ -116,12 +116,22 @@ Blessed <em>Yah</em>, God of our future who is embodied by the chain of love:
 
 <tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
-בָּרוּךְ אַתָּה יְהֹוָה אֱלֹהֵֽינוּ מֶֽלֶךְ הָעוֹלָם הַמוֹצִיא לֶֽחֶם מִן הָאֲרֶץ׃
+&nbsp;
+&nbsp;
+בָּרוּךְ אַתָּה 
+יְהֹוָה אֱלֹהֵֽינוּ 
+מֶֽלֶךְ הָעוֹלָם 
+הַמוֹצִיא לֶֽחֶם מִן הָאֲרֶץ׃
 </span></div></td>
  
 <td style="vertical-align:top;">
 <div class="english" lang="en">
-(<em>sing</em>) <em>Barukh ata Adonai eloheinu melekh haolam, hamotzi leḥem min ha'aretz</em>.
+<span class="instruction">(sing)</span> 
+&nbsp;
+<em>Barukh ata 
+Adonai eloheinu 
+melekh haolam, 
+hamotsi leḥem min ha'areta</em>.
 </div></td></tr>
 </tbody></table>
 

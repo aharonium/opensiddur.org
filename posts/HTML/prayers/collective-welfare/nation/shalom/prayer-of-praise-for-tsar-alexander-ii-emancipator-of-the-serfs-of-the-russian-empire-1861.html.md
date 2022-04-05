@@ -29,10 +29,10 @@ Today is a triumph for our country,
 Today <strong>a king</strong> will establish a land of Law and Justice, 
 Today is proclaimed in every province of Russia
 a Manifesto
-that our father, <strong>our king</strong>, the compassionate one, gave
+given by our father, <strong>our king</strong>, the compassionate one,
 with the consent of the nobles of the people,
-decreeing for the slaves acquired as chattel property by their masters
-to be granted their freedom
+decreeing that the slaves acquired as chattel property by their masters
+are to be granted their freedom
 according to rightful regulations. 
 </div></td></tr>
 
