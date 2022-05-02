@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: יום העבודה | Salvation through Avodah, a prayer for the Sabbath before Labor Day, adapted from the writings of A.D. Gordon by Rabbi Mordecai Kaplan (1945)<br />
+Title: Salvation through Labor, a prayer for the Sabbath before Labor Day, adapted from the writings of A.D. Gordon by Rabbi Mordecai Kaplan (1945)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=21234">http://opensiddur.org/?p=21234</a>
 <p />
@@ -61,7 +61,7 @@ And you will take pleasure in all the work that you do.
  
 <td style="vertical-align:top;">
 <div class="english" lang="en">
-You will give heed to do all your work as part of nature, 
+You will give heed to do all your work as part of Nature, 
 as part of the work of the universe and its expansiveness.
 </div></td></tr>
 

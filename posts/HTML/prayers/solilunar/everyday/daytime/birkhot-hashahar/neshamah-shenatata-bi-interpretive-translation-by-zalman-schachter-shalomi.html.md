@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: נְשָׁמָה שֶׁנָּתַתָּ בִּי | Neshamah Shenatata Bi (the breath you have given me), interpretive translation by Reb Zalman Schachter-Shalomi, z"l<br />
+Title: אֱלֹהַי נְשָׁמָה שֶׁנָּתַתָּ בִּי | Neshamah Shenatata Bi (the breath you have given me), interpretive translation by Reb Zalman Schachter-Shalomi<br />
 Primary contributor: zalman.schachter-shalomi<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=17309">http://opensiddur.org/?p=17309</a>
 <p />

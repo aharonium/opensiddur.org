@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: הגדה לסדר פסח | The Other Side of the Sea: A Haggadah on Fighting Modern-Day Slavery by T'ruah: The Rabbinic Call for Human Rights<br />
+Title: The Other Side of the Sea: A Haggadah on Fighting Modern-Day Slavery by T'ruah: The Rabbinic Call for Human Rights<br />
 Primary contributor: truah<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=10900">http://opensiddur.org/?p=10900</a>
 <p />

@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: ארתי תיקהני | ერთი თიკანი | Erti tiḳani :: a Čveneburuli translation of Ḥad Gadya by Tamari Lomtadze & Reuven Enoch<br />
+Title: ארתי תיקהני | חַד גַּדְיָא | ერთი თიკანი | Erti tiḳani :: a Čveneburuli translation of Ḥad Gadya by Tamari Lomtadze & Reuven Enoch<br />
 Primary contributor: isaac-gantwerk-mayer<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=42302">http://opensiddur.org/?p=42302</a>
 <p />
@@ -14,7 +14,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <hr />
 
 [xyz-ihs snippet="Table-Options"]<table style="width: 100%; margin-left: auto; margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;">Aramaic (source)</th><th style="text-align: left;">Translation (Čveneburuli/Georgian)</th><th style="text-align: right;">Translation (Čveneburuli/Judeo-Georgian)</th><th style="text-align: left;">Translation (Čveneburuli/Latin)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;">Source (Aramaic)</th><th style="text-align: left;">Translation (Čveneburuli/Georgian)</th><th style="text-align: right;">Translation (Čveneburuli/Judeo-Georgian)</th><th style="text-align: left;">Translation (Čveneburuli/Latin)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
 <div class="aramaic" lang="jpa" style="text-align: right;">
@@ -46,7 +46,6 @@ Erti tiḳani, erti tiḳani
 rom iq̇ida mamačemma
 or abazad,
 erti tiḳani, erti tiḳani!
-
 </div></td>
  
 <td style="vertical-align:top;">

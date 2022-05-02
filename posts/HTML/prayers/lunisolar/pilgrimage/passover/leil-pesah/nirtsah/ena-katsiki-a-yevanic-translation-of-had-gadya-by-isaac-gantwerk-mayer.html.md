@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: אֵנַה קַצִיקִי | Ένα κατσίκι | Éna katsíki :: a Yevanic translation of Ḥad Gadya by Isaac Gantwerk Mayer<br />
+Title: אֵנַה קַצִיקִי | חַד גַּדְיָא | Ένα κατσίκι | Éna katsíki :: a Yevanic translation of Ḥad Gadya by Isaac Gantwerk Mayer<br />
 Primary contributor: isaac-gantwerk-mayer<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=42313">http://opensiddur.org/?p=42313</a>
 <p />
@@ -14,7 +14,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <hr />
 
 [xyz-ihs snippet="Table-Options"]<table style="width: 100%; margin-left: auto; margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;">Aramaic (source)</th><th style="text-align: left;">Translation (Yevanic/Greek)</th><th style="text-align: right;">Translation (Yevanic/Judeo-Greek)</th><th style="text-align: left;">Translation (Yevanic/Latin)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;">Source (Aramaic)</th><th style="text-align: left;">Translation (Yevanic/Greek)</th><th style="text-align: right;">Translation (Yevanic/Judeo-Greek)</th><th style="text-align: left;">Translation (Yevanic/Latin)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
 <div class="aramaic" lang="jpa" style="text-align: right;">

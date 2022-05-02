@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: אֶחָד מִי יוֹדֵעַ | Eḥad Mi Yode'a, a Latin translation of the counting song by Johann Stephan Rittangel (1644)<br />
+Title: אֶחָד מִי יוֹדֵעַ | Unum (est &) quis scit? | Eḥad Mi Yode'a, a Latin translation of the counting song by Johann Stephan Rittangel (1644)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=36382">http://opensiddur.org/?p=36382</a>
 <p />

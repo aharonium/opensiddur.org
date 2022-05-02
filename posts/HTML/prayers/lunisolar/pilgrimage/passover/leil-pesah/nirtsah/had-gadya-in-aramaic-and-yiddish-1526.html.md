@@ -14,7 +14,7 @@ The earliest known appearance of "Ḥad Gadya," by an unknown author, can be fou
 <hr />
 
 [xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;">Aramaic</th><th style="text-align: right;">Yiddish</th><th style="text-align: left;">Transliteration (Yiddish)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;">Source (Aramaic)</th><th style="text-align: right;">Source (Yiddish)</th><th style="text-align: left;">Transliteration (romanized Yiddish)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr>
 <td style="vertical-align:top;" width="25%">
@@ -333,10 +333,11 @@ In Jewish belief, there is one and only one divinity responsible for light and d
 
 <a href="https://www.win.tue.nl/~aeb/natlang/yiddish/had_gadya/chad_gadya.html">Prague Haggadah</a> (1590) <a href="https://rosetta.nli.org.il/delivery/DeliveryManagerServlet?dps_pid=IE14556045">NLI link</a>
 
-Ḥad Gadya here is sung by <a href="https://www.youtube.com/watch?v=jr4LSdALxpI">Moishe Oysher with the Abraham Nadel Chorus</a> (circa 1955?), in Aramaic and Hebrew. This stop-motion animation was created by Nina Paley (animator, director) with the help of Theodore Gray (stitchcoder, embroiderer) and Nick Mann (lights, camera). This short film is part of a larger project, <a href="http://sedermasochism.com">Seder Masochism</a>, Nina's animated retelling of the story of the exodus. Over on vimeo, Nina Paley writes:
+<h3>Recordings</h3>
 
-<blockquote>Our most ridiculously labor-intensive animation ever! The traditional Passover folk song rendered in embroidermation by Nina Paley and Theodore Gray.
-These very same embroidered matzoh covers are available for purchase here: <a href="http://palegraylabs.com/chad-gadya/">palegraylabs.com/chad-gadya/</a></blockquote>
+Ḥad Gadya here is sung by Moishe Oysher with the Abraham Nadel Chorus (circa 1955?), in Aramaic and Hebrew. This stop-motion animation was created by Nina Paley (animator, director) with the help of Theodore Gray (stitchcoder, embroiderer) and Nick Mann (lights, camera).
+
+https://www.youtube.com/watch?v=jr4LSdALxpI
 
 [vimeo https://vimeo.com/133054221]
 </body>

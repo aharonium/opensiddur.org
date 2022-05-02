@@ -122,7 +122,7 @@ and exalt our nation in righteousness.
 
 <hr />
 
-This prayer for the government was first published in the <em><a href="/?p=33146">Union Prayer Book</a></em> of the Central Conference of American Rabbis. It was also included with slight variations in the <em><a href="/?p=33480">Abridged Prayer Book for Jews in the Army and Navy of the United States</a></em> (National Jewish Welfare Board 1917). 
+This prayer for the government was first published in the <em><a href="/?p=33146">Union Prayer Book</a></em> of the Central Conference of American Rabbis. It was also included with slight variations in the <em><a href="/?p=33480">Abridged Prayer Book for Jews in the Army and Navy of the United States</a></em> (National Jewish Welfare Board 1917), p. 81, and the <em><a href="/?p=41852">Abridged Prayer Book for the Jews in the Armed Forces of the United States</a></em> (Jewish Welfare Board 1941), p. 107. 
 
 <h3>Source(s)</h3>
 

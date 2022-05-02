@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: יַכֵּי בּוּזְגָאלַה | Йаке бузғола | Yake Buzghola :: a Judeo-Tajik Translation of Ḥad Gadya by Rabbi Shimon ben Eliyahu Hakham (1904)<br />
+Title: יַכֵּי בּוּזְגָאלַה | חַד גַּדְיָא | Йаке бузғола | Yake Buzghola :: a Judeo-Tajik Translation of Ḥad Gadya by Rabbi Shimon ben Eliyahu Hakham (1904)<br />
 Primary contributor: isaac-gantwerk-mayer<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=24918">http://opensiddur.org/?p=24918</a>
 <p />
@@ -46,7 +46,7 @@ For a full breakdown of the Tajik Cyrillic system, check the <a href="https://en
 <hr />
 
 [xyz-ihs snippet="Table-Options"]<table style="width: 100%; margin-left: auto; margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;">Aramaic (source)</th><th style="text-align: left;">Translation (Bukhari/Cyrillic)</th><th style="text-align: right;">Translation (Bukhari/Judeo-Tajik)</th><th style="text-align: left;">Translation (Bukhari/Latin)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;">Source (Aramaic)</th><th style="text-align: left;">Translation (Bukhari/Cyrillic)</th><th style="text-align: right;">Translation (Bukhari/Judeo-Tajik)</th><th style="text-align: left;">Translation (Bukhari/Latin)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
 <div class="aramaic" lang="jpa" style="text-align: right;">	 

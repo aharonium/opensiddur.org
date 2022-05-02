@@ -1,16 +1,10 @@
 <html>
 <head></head>
 <body>
-Title: אֵל בָּרוּךְ | the alphabetic acrostic piyyut El Barukh in the weekday Yotser Ohr blessing, with the song "Aleph Bass," by Darshan<br />
+Title: אֵל בָּרוּךְ | El Barukh, an alphabetic acrostic piyyut together with the lyrics to Aleph Bass by Darshan<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=12337">http://opensiddur.org/?p=12337</a>
 <p />
-<hr />
-
-[youtube https://youtu.be/a6EnyQ0Dy50]
-
-&nbsp;
-
 <hr />
 
 [xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
@@ -278,16 +272,14 @@ It's that time of the year again: menorahs, dreidels, and of course, psychedelic
 
 The translation of the piyyut, "El Barukh," is that of Paltiel Birnbaum, which I have adapted by re-Hebraizing divine names, and providing gender-neutral pronouns. --Aharon Varady
 
+<h3>Recording(s)</h3>
+
+[youtube https://youtu.be/a6EnyQ0Dy50]
+
 <h3>Source</h3>
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/hasiddurhashalemhassidicsefardicpaltielbirnbaum1969#page/n106/mode/2up"]
 
 &nbsp;
-
-<a href="https://opensiddur.org/wp-content/uploads/2015/12/Aleph-Bass-by-Darshan-snapshot154.png"><img class="aligncenter size-full wp-image-12340" src="https://opensiddur.org/wp-content/uploads/2015/12/Aleph-Bass-by-Darshan-snapshot154.png" alt="Aleph Bass by Darshan snapshot154" width="1280" height="720" /></a>
-
-<a href="https://opensiddur.org/wp-content/uploads/2015/12/Aleph-Bass-by-Darshan-snapshot313.png"><img class="aligncenter size-full wp-image-12341" src="https://opensiddur.org/wp-content/uploads/2015/12/Aleph-Bass-by-Darshan-snapshot313.png" alt="Aleph Bass by Darshan snapshot313" width="1280" height="720" /></a>
-
-<a href="https://opensiddur.org/wp-content/uploads/2015/12/Aleph-Bass-by-Darshan-snapshot496.png"><img class="aligncenter size-full wp-image-12342" src="https://opensiddur.org/wp-content/uploads/2015/12/Aleph-Bass-by-Darshan-snapshot496.png" alt="Aleph Bass by Darshan snapshot496" width="1280" height="720" /></a>
 </body>
 </html>

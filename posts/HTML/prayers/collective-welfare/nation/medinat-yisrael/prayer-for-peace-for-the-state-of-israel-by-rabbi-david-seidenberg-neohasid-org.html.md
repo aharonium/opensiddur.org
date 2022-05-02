@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: תפילה לשלום המדינה | Prayer for the Peace of the State of Israel, by Rabbi David Seidenberg (neohasid.org)<br />
+Title: תפילה לשלום המדינה | Prayer for the Peace of the State of Israel, by Rabbi David Seidenberg (neohasid.org 2018)<br />
 Primary contributor: david.seidenberg<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=19667">http://opensiddur.org/?p=19667</a>
 <p />

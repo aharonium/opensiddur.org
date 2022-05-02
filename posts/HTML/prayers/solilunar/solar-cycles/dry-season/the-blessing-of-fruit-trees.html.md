@@ -293,7 +293,7 @@ When Rebbi Abba saw a tree whose fruit turned into a bird and flew away, he wept
 This is the formula of the blessing for witnessing two or more fruit trees in blossom in the spring time, as given over by Rebbi Yehudah in Berakhot 43b, and elaborated upon by later kabbalistic and Lurianic sources.
 
 <div class="english" lang="en" style="font-size: 1.2em;">
-As a formula, this blessing has some language in common with another blessing, the rabbinic Jewish blessing after eating all foods: 
+As a formula, this blessing has some language in common with another blessing, the rabbinic Jewish blessing after eating all (non-grain based) foods: 
 </div>
 
 <table style="margin-left: auto;margin-right: auto;" class="draggable">

@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: און קאבﬞריטיקו | Un Kavritiko :: a Judezmo (Ladino) Translation of Ḥad Gadya<br />
+Title: און קאבﬞריטיקו | חַד גַּדְיָא | Un Kavritiko :: a Judezmo (Ladino) Translation of Ḥad Gadya<br />
 Primary contributor: isaac-gantwerk-mayer<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=24616">http://opensiddur.org/?p=24616</a>
 <p />

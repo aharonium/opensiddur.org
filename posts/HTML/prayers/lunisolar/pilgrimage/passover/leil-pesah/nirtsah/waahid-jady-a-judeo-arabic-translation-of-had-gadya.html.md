@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: ואחד גׄדי | Waaḥid Jady :: a Judeo-Arabic Translation of Ḥad Gadya<br />
+Title: ואחד גׄדי | חַד גַּדְיָא | Waaḥid Jady :: a Judeo-Arabic Translation of Ḥad Gadya<br />
 Primary contributor: isaac-gantwerk-mayer<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=24599">http://opensiddur.org/?p=24599</a>
 <p />

@@ -17,7 +17,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <td style="vertical-align:top;">
 <div class="english" lang="en">
-<u>The four Remembrances</u>.[foot]Others indicate <a href="https://www.chabad.org/library/article_cdo/aid/2263399/jewish/What-Are-the-Six-Remembrances.htm">6, 8, or 10 remembrances</a>. Rabbi Yitsḥaq Luria (ARI z"l) indicates four remembrances in <em>Pri Eitz Ḥayyim</em>, Shaar Kriat Shema 3; Shaar Hakevanot, p. 119. The specific remembrance of the ARI not given here is that of the incident resulting from the speech and resulting punishment of Miriam (Deuteronomy 24:9). The memory of this incident is replaced here by the offering of Isaac by Abraham. While the offering of Isaac is not included in the customary lists of zikhronot, the recitation of the Akedat Yitsḥaq is yet another supplement to the morning prayer service.[/foot]
+<u>The four Remembrances</u>.[foot]Others indicate <a href="https://www.chabad.org/library/article_cdo/aid/2263399/jewish/What-Are-the-Six-Remembrances.htm">6, 8, or 10 remembrances</a>. Rabbi Yitsḥaq Luria (ARI z"l) indicates four remembrances in <em>Pri Eitz Ḥayyim</em>, Shaar Kriat Shema 3; Shaar Hakevanot, p. 119. The specific remembrance of the ARI not given here is that of the incident resulting from the speech and resulting punishment of Miriam (Deuteronomy 24:9). The memory of this incident is replaced here by the offering of Isaac by Abraham. While the offering of Isaac is not included in the customary lists of zikhronot, the recitation of the Aqedat Yitsḥaq is yet another supplement to the morning prayer service.[/foot]
 </div></td></tr>
 
 
@@ -61,7 +61,7 @@ Laß mich der Liebe nie vergessen, des Wohlwollens, das ich allen meinen Geschö
 
 <td style="vertical-align:top;">
 <div class="english" lang="en">
-Let me never forget the love, the goodwill, which I owe to all my creatures as works of your hand, as children of a common father. May my mind never stray so far as to oppress an innocent. May the divine displeasure at Amalek for their shameful persecution against the people of Israel, upon their departure from Egypt, always be present to me <span class="citation">(Exodus 17:8)</span>. 
+Let me never forget the love, the goodwill, which I owe to all my creatures as works of your hand, as children of a common father. May my mind never stray so far as to oppress an innocent. May the divine displeasure at Amaleq for their shameful persecution against the people of Israel, upon their departure from Egypt, always be present to me <span class="citation">(Exodus 17:8)</span>. 
 </div></td></tr>
 
 

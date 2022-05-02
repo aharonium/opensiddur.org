@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: הגדה לסדר פסח | MLK +50 Labor-Justice Interfaith Freedom Seder, by R' Arthur Waskow and The Shalom Center<br />
+Title: MLK +50 Labor-Justice Interfaith Freedom Seder Haggadah, by Rabbi Arthur Waskow (the Shalom Center, 2018)<br />
 Primary contributor: arthur.waskow<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=19204">http://opensiddur.org/?p=19204</a>
 <p />

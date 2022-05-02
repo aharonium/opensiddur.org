@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: בִּיר אוּלָק | Бир Улакъ | Bir Ulaq :: a Qrımçah tılyı (Krymchak) translation of Ḥad Gadya by Rabbi Nisim haLevy Tsahtsir (1904)<br />
+Title: בִּיר אוּלָק | חַד גַּדְיָא | Бир Улакъ | Bir Ulaq :: a Qrımçah tılyı (Krymchak) translation of Ḥad Gadya by Rabbi Nisim haLevy Tsahtsir (1904)<br />
 Primary contributor: isaac-gantwerk-mayer<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=36252">http://opensiddur.org/?p=36252</a>
 <p />

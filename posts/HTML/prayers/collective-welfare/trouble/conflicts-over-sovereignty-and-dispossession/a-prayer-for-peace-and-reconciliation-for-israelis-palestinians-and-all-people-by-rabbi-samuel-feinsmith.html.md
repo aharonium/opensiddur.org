@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: תפילה לשלום ופיוס לישראלים ולפלסטינים ולכל העם | A Prayer for Peace and Reconciliation for Israelis, Palestinians, and all People by Rabbi Samuel Feinsmith<br />
+Title: תפילה לשלום ופיוס לישראלים ולפלסטינים ולכל העם | A Prayer for Peace and Reconciliation for Israelis, Palestinians, and all People by Rabbi Samuel Feinsmith (2014)<br />
 Primary contributor: sam.feinsmith<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=9146">http://opensiddur.org/?p=9146</a>
 <p />

@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.9.2" created="2022-04-05 05:17" -->
+	<!-- generator="WordPress/5.9.3" created="2022-05-02 04:01" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>the Open Siddur Project ✍ פְּרוֺיֶּקט הַסִּדּוּר הַפָּתוּחַ</title>
 	<link>https://opensiddur.org</link>
 	<description>an open-source, community contributed archive for those sharing prayers and crafting their own prayerbooks</description>
-	<pubDate>Tue, 05 Apr 2022 05:17:46 +0000</pubDate>
+	<pubDate>Mon, 02 May 2022 04:01:48 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://opensiddur.org</wp:base_site_url>
@@ -41,7 +41,7 @@
 	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[hermit]]></wp:author_login><wp:author_email>email redacted</wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[The]]></wp:author_first_name><wp:author_last_name><![CDATA[Admin]]></wp:author_last_name></wp:author>
 
 				
-	<generator>https://wordpress.org/?v=5.9.2</generator>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
 
 <image>
 	<url>https://opensiddur.org/wp-content/uploads/2015/03/Open-Siddur-Project-Logo-2015-5509b4bdv1_site_icon-32x32.png</url>
@@ -2948,6 +2948,18 @@ The tables below are organized according to font support for t'amim and/or niqqu
 </tr>
 
 <tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Solitreo" frameborder="0" width="100%" height="240px"]</td>
+<td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=Solitreo" rel="lightbox" data-lightbox-type="iframe">Solitreo</a></h3></td>
+<td style="vertical-align:top;">does not support diacritics</td>
+<td style="vertical-align:top;">no niqqud/t'amim</td>
+<td style="vertical-align:top;">Cursive</td>
+<td style="vertical-align:top;"></td>
+<td style="vertical-align:top;">Isaac Gantwerk Mayer</td>
+<td style="vertical-align:top;">001.006</td>
+<td style="vertical-align:top;"><a href="https://en.wikipedia.org/wiki/Open_Font_License">SIL OFL</a> 1.1</td>
+</tr>
+
+<tr style="outline: thin solid;" height="250px">
 <td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Nachlaot" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=Nachlaot" rel="lightbox" data-lightbox-type="iframe">Nachlaot</a></h3></td>
 <td style="vertical-align:top;">does not support most diacritics</td>
@@ -3092,6 +3104,30 @@ The tables below are organized according to font support for t'amim and/or niqqu
 </tr>
 
 <tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Nesher-Gadol" frameborder="0" width="100%" height="240px"]</td>
+<td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=Nesher-Gadol" rel="lightbox" data-lightbox-type="iframe">Nesher Gadol</a></h3></td>
+<td style="vertical-align:top;">does not support diacritics</td>
+<td style="vertical-align:top;">no niqqud/t'amim</td>
+<td style="vertical-align:top;">ancient</td>
+<td style="vertical-align:top;"></td>
+<td style="vertical-align:top;">Isaac Gantwerk Mayer</td>
+<td style="vertical-align:top;">001.008</td>
+<td style="vertical-align:top;"><a href="https://en.wikipedia.org/wiki/Open_Font_License">SIL OFL</a> 1.1</td>
+</tr>
+
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Nesher-Katon" frameborder="0" width="100%" height="240px"]</td>
+<td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=Nesher-Katon" rel="lightbox" data-lightbox-type="iframe">Nesher Katon</a></h3></td>
+<td style="vertical-align:top;">does not support diacritics</td>
+<td style="vertical-align:top;">no niqqud/t'amim</td>
+<td style="vertical-align:top;">ancient</td>
+<td style="vertical-align:top;"></td>
+<td style="vertical-align:top;">Isaac Gantwerk Mayer</td>
+<td style="vertical-align:top;">001.001</td>
+<td style="vertical-align:top;"><a href="https://en.wikipedia.org/wiki/Open_Font_License">SIL OFL</a> 1.1</td>
+</tr>
+
+<tr style="outline: thin solid;" height="250px">
 <td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Aramaic-Imperial-Yeb" frameborder="0" width="100%" height="240px"]</td>
 <td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=Aramaic-Imperial-Yeb" rel="lightbox" data-lightbox-type="iframe">Aramaic Imperial Yeb</a></h3><br />(Yeb/Elephantine Papyri, 407 BCE)</td>
 <td style="vertical-align:top;">does not support diacritics</td>
@@ -3221,7 +3257,7 @@ The tables below are organized according to font support for t'amim and/or niqqu
 
 <h3>FONT CATALOGUE</h3>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/OpenSiddurProjectOpenSourceUnicodeHebrewFontPackCatalogue#page/n0/mode/1up"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/OpenSiddurProjectOpenSourceUnicodeHebrewFontPackCatalogue/Open-Siddur-Project-Hebrew-Font-Pack-comparison-v.1.18.7#page/n0/mode/1up"]
 
 <hr />
 
@@ -3263,8 +3299,8 @@ If you or your company designed a Hebrew font which you never updated to Unicode
 		<wp:post_id>7951</wp:post_id>
 		<wp:post_date><![CDATA[2013-12-19 11:11:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2013-12-19 20:11:54]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-03-21 10:32:21]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-03-21 18:32:21]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-04-25 14:15:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-04-25 22:15:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[fonts]]></wp:post_name>
@@ -3341,7 +3377,7 @@ If you or your company designed a Hebrew font which you never updated to Unicode
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[                                    ]]></wp:meta_value>
+		<wp:meta_value><![CDATA[                                      ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header_hide]]></wp:meta_key>
@@ -3353,7 +3389,7 @@ If you or your company designed a Hebrew font which you never updated to Unicode
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[ao_post_optimize]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";s:15:"ao_post_preload";s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>

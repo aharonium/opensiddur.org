@@ -1,14 +1,14 @@
 <html>
 <head></head>
 <body>
-Title: חַד גַּדְיָא | Ḥad Gadya, a Latin translation by Johann Stephan Rittangel (1644)<br />
+Title: חַד גַּדְיָא | Unum hœdulum | Ḥad Gadya, a Latin translation by Johann Stephan Rittangel (1644)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=36379">http://opensiddur.org/?p=36379</a>
 <p />
 <hr />
 
 [xyz-ihs snippet="Table-Options"]<table style="width: 100%; margin-left: auto; margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (Latin)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;">Source (Aramaic)</th><th style="text-align: left;">Translation (Latin)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">

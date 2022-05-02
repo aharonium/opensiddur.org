@@ -19,7 +19,7 @@ Or do we? Just as Megillat Esther is said to be a letter written by Mordekhai to
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy" lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 בָּרוּךְ אַתָּה 
 יהוה אֶלֹהֵינוּ 
 מֶלֶךְ הָעוֹלָם, 
@@ -29,7 +29,7 @@ Or do we? Just as Megillat Esther is said to be a letter written by Mordekhai to
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english" lang="en">
+<div class="english" lang="en" style="text-align: left;">
 Blessed are you, 
 Hashem our <em>elo'ah</em>, 
 cosmic majesty, 
@@ -41,7 +41,7 @@ in this season.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy" lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 בָּרוּךְ אַתָּה 
 יהוה אֶלֹהֵינוּ 
 מֶלֶךְ הָעוֹלָם, 
@@ -51,7 +51,7 @@ in this season.
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english" lang="en">
+<div class="english" lang="en" style="text-align: left;">
 Blessed are you, 
 Hashem our <em>elo'ah</em>, 
 cosmic majesty, 
@@ -63,14 +63,14 @@ and brought us to this season.
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy" lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 <span class="instruction">פסוקים שחורים הם מושרים עם ניגון למגילת אסתר.
 <span style="color: dodgerblue;">פסוקים כחולים הם מושרים עם ניגון למגילת איכה.</span>
 <span style="color: red;">פסוקים אדומים הם מושרים עם ניגון לסוף ספרי חומשי תורה.</span></span>
 </span></div></td>
 
 <td style="vertical-align:top;">
-<div class="english" lang="en">
+<div class="english" lang="en" style="text-align: left;">
 <span class="instruction">Verses in black are read in the Megilat Esther melody.
 <span style="color: dodgerblue;">Verses in blue are read in the Megilat Eikhah melody.</span>
 <span style="color: red;">Verses in red are read in the melody of the conclusion of a book of the Torah.</span></span>
@@ -158,6 +158,6 @@ The first draft of the declaration was approved [in 1948] by Zvi Berenson, the H
 
 <span style="float: right;">[caption id="attachment_36773" align="alignleft" width="240"]<a href="https://opensiddur.org/wp-content/uploads/2017/04/Declaration-of-Jewish-State-first-draft-Morechai-Beham-1948-.jpg"><img src="https://opensiddur.org/wp-content/uploads/2017/04/Declaration-of-Jewish-State-first-draft-Morechai-Beham-1948--240x300.jpg" alt="" width="240" height="300" class="size-medium wp-image-36773" /></a> Declaration of Jewish State - first draft (Morechai Beham 1948)[/caption]</span> <span style="float: left;">[caption id="attachment_36774" align="alignnone" width="240"]<a href="https://opensiddur.org/wp-content/uploads/2017/04/Declaration-of-Jewish-State-first-draft-Hebrew-translationMorechai-Beham-1948.jpg"><img src="https://opensiddur.org/wp-content/uploads/2017/04/Declaration-of-Jewish-State-first-draft-Hebrew-translationMorechai-Beham-1948-192x300.jpg" alt="" width="192" height="300" class="size-medium wp-image-36774" /></a> Declaration of Jewish State - first draft Hebrew translation (Morechai Beham 1948)[/caption]</span> <span style="float: left;">[caption id="attachment_36778" align="alignnone" width="240"]<a href="https://opensiddur.org/wp-content/uploads/2017/04/Declaration-of-Jewish-State-first-draft-Hebrew-translation-Morechai-Beham-1948-typed.jpg"><img src="https://opensiddur.org/wp-content/uploads/2017/04/Declaration-of-Jewish-State-first-draft-Hebrew-translation-Morechai-Beham-1948-typed-281x300.jpg" alt="" width="281" height="300" class="size-medium wp-image-36778" /></a> Declaration of Jewish State - first draft Hebrew translation (Morechai Beham 1948) typed[/caption]</span> <span style="float: left;">[caption id="attachment_36775" align="alignnone" width="240"]<a href="https://opensiddur.org/wp-content/uploads/2017/04/The-Declaration-of-Independence-first-draft-English-Morechai-Beham-1948-recto.jpg"><img src="https://opensiddur.org/wp-content/uploads/2017/04/The-Declaration-of-Independence-first-draft-English-Morechai-Beham-1948-recto-235x300.jpg" alt="" width="235" height="300" class="size-medium wp-image-36775" /></a> The Declaration of Independence - first draft English (Morechai Beham 1948) [/caption]</span> <span style="float: left;">[caption id="attachment_36776" align="alignnone" width="240"]<a href="https://opensiddur.org/wp-content/uploads/2017/04/Declaration-of-Independence-first-draft-notes-Morechai-Beham-1948.jpg"><img src="https://opensiddur.org/wp-content/uploads/2017/04/Declaration-of-Independence-first-draft-notes-Morechai-Beham-1948-230x300.jpg" alt="" width="230" height="300" class="size-medium wp-image-36776" /></a> Declaration of Independence - first draft notes (Morechai Beham 1948)[/caption]</span> <span style="float: left;">[caption id="attachment_15329" align="alignnone" width="240"]<a href="https://opensiddur.org/wp-content/uploads/2017/04/Israel_Declaration_of_Independence.jpg" rel="lightbox"><img src="https://opensiddur.org/wp-content/uploads/2017/04/Israel_Declaration_of_Independence-78x300.jpg" alt="" width="78" height="300" class="size-medium wp-image-15329" /></a> The Declaration of Independence of the State of Israel - Final with signatories (1948)[/caption]</span>[su_spacer]
 
-
+&nbsp;
 </body>
 </html>

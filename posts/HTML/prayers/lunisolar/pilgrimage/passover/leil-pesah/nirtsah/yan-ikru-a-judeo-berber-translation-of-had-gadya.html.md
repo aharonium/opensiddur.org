@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: יַאן יִכְּרוּ | Yan ikru :: a Judeo-Berber Translation of Ḥad Gadya<br />
+Title: חַד גַּדְיָא | ⵢⴰⵏ ⵉⴽⵔⵓ | יַאן יִכְּרוּ | Yan ikru :: a Judeo-Berber Translation of Ḥad Gadya<br />
 Primary contributor: isaac-gantwerk-mayer<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=24621">http://opensiddur.org/?p=24621</a>
 <p />

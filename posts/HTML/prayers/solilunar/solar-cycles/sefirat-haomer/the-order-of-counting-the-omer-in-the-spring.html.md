@@ -1,17 +1,17 @@
 <html>
 <head></head>
 <body>
-Title: סֵדֶר סְפִירַת הָעֹמֶר | the Order of Counting the Omer in the Spring<br />
+Title: סֵדֶר סְפִירַת הָעֹמֶר | Seder Sefirat ha-Omer :: the Order of Counting the Omer between Pesaḥ and Shavuot<br />
 Primary contributor: aharon-nissn.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=6353">http://opensiddur.org/?p=6353</a>
 <p />
 <hr />
 
-[caption id="attachment_6605" align="aligncenter" width="850"]<img src="https://opensiddur.org/wp-content/uploads/2013/03/Aharon-Varady-Sefirot-HaOmer-Zalman-Schachter-Shalomi-color-correspondences1.png" alt="" width="850" height="850" class="size-full wp-image-6605" /> "<em>Sefirot HaOmer</em>" by Aharon Varady (image) and Lauren Deutsch (circle concept), following the <a href="https://web.archive.org/web/20130803041323/http://www.pinenet.com/~rooster/tallis.html">color correspondences of Reb Zalman Schachter-Shalomi</a>. Each of the seven weeks and days of the Omer is represented by one of the seven lower <em>sefirot</em>: <em>Ḥesed, Gevurah, Tiferet, Netsaḥ, Hōd, Yesod,</em> and <em>Malkhut</em>, the creative emanations all the worlds were created and continually sustained, as taught in the cosmology of esoteric Jewish tradition. The first day of the Omer at the top left signifies "<em>Ḥesed</em> within <em>Ḥesed</em>." The circle below representing the second day signifies "<em>Gevurah</em> within  <em>Hesed</em>," and so forth. The forty-second circle on the bottom row marks the 42nd day of the Omer, Yom Qeshet, Rainbow Day, which is "<em>Malkhut</em> that is in <em>Yesod</em>."[/caption]
+[caption id="attachment_6605" align="aligncenter" width="850"]<a href="https://opensiddur.org/wp-content/uploads/2013/03/Aharon-Varady-Sefirot-HaOmer-Zalman-Schachter-Shalomi-color-correspondences1.png"><img src="https://opensiddur.org/wp-content/uploads/2013/03/Aharon-Varady-Sefirot-HaOmer-Zalman-Schachter-Shalomi-color-correspondences1.png" alt="" width="850" height="850" class="size-full wp-image-6605" /></a> <p />"<em>Sefirot HaOmer</em>" by Aharon Varady derived from the <a href="https://web.archive.org/web/20130803041323/http://www.pinenet.com/~rooster/tallis.html">color correspondences of Reb Zalman Schachter-Shalomi</a>, and the design concept of Lauren Deutsch. Each of the seven weeks and days of the Omer is represented by one of the seven lower <em>sefirot</em>: <em>Ḥesed, Gevurah, Tiferet, Netsaḥ, Hōd, Yesod,</em> and <em>Malkhut</em>, the creative emanations all the worlds were created and continually sustained, as taught in the cosmology of esoteric Jewish tradition. The first day of the Omer at the top left signifies "<em>Ḥesed</em> within <em>Ḥesed</em>." The circle below representing the second day signifies "<em>Gevurah</em> within  <em>Hesed</em>," and so forth. The forty-second circle on the bottom row marks the 42nd day of the Omer, Yom Qeshet, Rainbow Day, which is "<em>Malkhut</em> that is in <em>Yesod</em>."[/caption]
 
 <strong>DOWNLOAD</strong> 
 
-Sefirot HaOmer Calendar: <a href="https://opensiddur.org/wp-content/uploads/2013/03/Sefirot-HaOmer-Calendar-Chart-Hebrew-and-English-Aharon-Varady-2019.pdf">PDF</a>
+Sefirot ha-Omer Calendar: <a href="https://archive.org/download/sefirot-ha-omer-calendar-chart-hebrew-and-english-aharon-varady-2019/Sefirot%20HaOmer%20Calendar%20Chart%20-%20Hebrew%20and%20English%20%28Aharon%20Varady%202019%29.pdf">PDF</a>
 <a href="https://opensiddur.org/wp-content/uploads/2013/03/Sefirot-HaOmer-Calendar-Chart-Aharon-Varady-2018.png">PNG</a> and <a href="https://opensiddur.org/wp-content/uploads/2013/03/Sefirot-HaOmer-Calendar-Chart-Aharon-Varady-2018.svg">SVG</a> (English) 
 <a href="https://opensiddur.org/wp-content/uploads/2013/03/Aharon-Varady-Sefirot-HaOmer-Chart-3-Hebrew.png">PNG</a> and <a href="https://opensiddur.org/wp-content/uploads/2013/03/Aharon-Varady-Sefirot-HaOmer-Chart-3-Hebrew.svg">SVG</a> (Hebrew)
 
@@ -32,7 +32,7 @@ The biggest challenge of counting the Omer is that it is one long <em>mitsvah</e
 <hr />
 
 [xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
@@ -66,7 +66,8 @@ in the name of all Yisra'el.
 מִיּוֹם֙ הֲבִ֣יאֲכֶ֔ם אֶת־עֹ֖מֶר הַתְּנוּפָ֑ה
 שֶׁ֥בַע שַׁבָּת֖וֹת תְּמִימֹ֥ת תִּהְיֶֽינָה׃‏‏‏
 עַ֣ד מִֽמָּחֳרַ֤ת הַשַּׁבָּת֙ הַשְּׁבִיעִ֔ת 
-תִּסְפְּר֖וּ חֲמִשִּׁ֣ים יֹ֑ום <span class="citation">(ויקרא כג:טו-טז חלק)</span>‏
+תִּסְפְּר֖וּ חֲמִשִּׁ֣ים י֑וֹם 
+וְהִקְרַבְתֶּ֛ם מִנְחָ֥ה חֲדָשָׁ֖ה לַיהֹוָֽה׃‏ <span class="citation">(ויקרא כג:טו-טז)</span>
 </div></td>
  
 <td style="vertical-align:top;">
@@ -74,11 +75,12 @@ in the name of all Yisra'el.
 Behold, I am prepared and ready 
 to perform the <em>mitsvah</em> of counting the Omer,
 as is written in your Torah:
-You are to count from the end of the rest day.
+"You are to count from the end of the rest day.
 From the day you brought the waived Omer-offering,
 they [the counting] shall be seven complete weeks.
 Until the end of the seventh week 
-you shall count fifty days...[foot]Leviticus 23:15-16 part[/foot]<p />
+you shall count fifty days
+and you shall offer a new grain offering to Hashem" <span class="citation">(Leviticus 23:15-16)</span>
 </div></td></tr>
 
 
@@ -93,7 +95,7 @@ you shall count fifty days...[foot]Leviticus 23:15-16 part[/foot]<p />
 <div class="english" lang="en">
 May the pleasantness of ADONAI our <em>elo'ah</em>, be upon us,
 may our handiwork be established for us — 
-our handiwork, may it be established.[foot]Psalms 90:17[/foot]
+our handiwork, may it be established. <span class="citation">(Psalms 90:17)</span>
 </div></td></tr>
 
 
@@ -977,7 +979,7 @@ as you have written in your Torah:
 from the day you brought the waived Omer-offering, 
 they [the counting] shall be seven complete weeks.
 Until the end of of the seventh week 
-you shall count fifty days,"[foot]Leviticus 23:15-16[/foot]
+you shall count fifty days," <span class="citation">(Leviticus 23:15-16)</span>
 so that the lives of your people, Yisra'el, will be purified from their impurities.
 </div></td></tr>
     
@@ -1030,9 +1032,8 @@ For more on the Omer from other Open Siddur contributors, please see, Shmueli Go
 
 <h3>Source</h3>
 
-<span style="float: right;">[caption id="attachment_24804" align="alignleft" width="640"]<a href="https://opensiddur.org/wp-content/uploads/2013/03/Sefirot-HaOmer-Calendar-Chart-Hebrew-and-English-Aharon-Varady-2019.pdf" rel="lightbox"><img src="https://opensiddur.org/wp-content/uploads/2013/03/Aharon-Varady-Sefirot-HaOmer-Chart-3-Hebrew-836x1024.png" alt="" width="640" height="784" class="size-large wp-image-24804" /></a> Sefirot HaOmer Chart - Hebrew (Aharon Varady, CC BY-SA)[/caption]</span>  <span style="float: left;">[caption id="attachment_36561" align="alignnone" width="640"]<a href="https://opensiddur.org/wp-content/uploads/2013/03/Sefirot-HaOmer-Calendar-Chart-Hebrew-and-English-Aharon-Varady-2019.pdf" rel="lightbox"><img src="https://opensiddur.org/wp-content/uploads/2013/03/Sefirot-HaOmer-Calendar-Chart-Aharon-Varady-2018-1-836x1024.png" alt="" width="640" height="784" class="size-large wp-image-36561" /></a> Sefirot HaOmer Calendar Chart - English (Aharon Varady 2018, CC BY-SA)[/caption]</span>[su_spacer]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/sefirot-ha-omer-calendar-chart-hebrew-and-english-aharon-varady-2019/Sefirot%20HaOmer%20Calendar%20Chart%20-%20Hebrew%20and%20English%20%28Aharon%20Varady%202019%29#page/n01/mode/2up"]
 
-
-
+&nbsp;
 </body>
 </html>

@@ -7,6 +7,12 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
+<div class="english" lang="en" style="font-size: 1.2em;">
+Traditionally each cup in the Passover Seder is liked to a promise made by God in these verses, Exodus 6:6-7. The four cups can also be associated with the Four Freedoms first articulated by US President Franklin D. Roosevelt on January 6, 1941, which were an inspiration for the <a href="/?p=43774">Universal Declaration of Human Rights</a> and were explicitly incorporated into its <a href="/?p=43731">preamble</a>.
+</div>
+
+<hr />
+
 [xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Hebrew</th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
@@ -106,7 +112,7 @@ v'lakaḥti -- I will take you to me
  
 <td style="vertical-align:top;">
 <div class="english" lang="en">
-The four cups can also be associated with the Four Freedoms first articulated by US President Franklin D. Roosevelt on January 6, 1941, which were an inspiration for the <a href="http://www.un.org/en/documents/udhr/">Universal Declaration of Human Rights</a> and were explicitly incorporated into its <a href="http://www.un.org/en/documents/udhr/index.shtml#ap">preamble</a>.</em>
+The four cups can also be associated with the Four Freedoms first articulated by US President Franklin D. Roosevelt on January 6, 1941, which were an inspiration for the <a href="/?p=43774">Universal Declaration of Human Rights</a> and were explicitly incorporated into the <a href="/?p=43731">Preamble</a> of the United Nation's Charter.</em>
 </div></td></tr>
 
 
