@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<strong>Open Siddur Project Development Status as of   February 2010/Adar 5770</strong>
+<strong>Open Siddur Project Development Status as of February 2010/Adar 5770</strong>
 
 Friends,
 
@@ -17,9 +17,9 @@ This  development status update chronicles progress on the Open Siddur made  sin
 
 <em>Contributions </em>(Aharon, Anonymous, Gabriel,  Efraim, Eve, Daniel, John)
 
-<div style="padding-left: 30px;">Following  the contribution of Reb Zalman's <a href="../../../2009/10/reb-zalmans-open-siddur-tehillat-hashem/">Siddur  Tehillat HaShem</a>, R. Daniel Brenner, executive director of  Birthright Israel Next, contributed a <a href="../../../2009/12/kaddish-by-rabbi-daniel-brenner/">Kaddish  prayer</a> that he composed in English. Check it out <a href="../../../2009/12/kaddish-by-rabbi-daniel-brenner/">here</a>.  Feel free to adapt and modify these works for yourself. They are  distributed with a <a href="http://www.creativecommons.org/licenses/by-sa/3.0" target="_blank" rel="noopener noreferrer">Creative  Commons 3.0 Share Alike By Attribution</a> license. (All derivative  works must show attribution to the original authors and must also be  distributed under the CC-BY-SA 3.0 license.)
+<div style="padding-left: 30px;">Following  the contribution of Reb Zalman's <a href="../../../2009/10/reb-zalmans-open-siddur-tehillat-hashem/">Siddur Tehillat HaShem</a>, Rabbi Daniel Brenner, executive director of  Birthright Israel Next, contributed a >Ḳaddish he composed in English. Check it out <a href="/?p=261">here</a>.  Feel free to adapt and modify these works for yourself. They are  distributed with a <a href="http://www.creativecommons.org/licenses/by-sa/3.0" target="_blank" rel="noopener noreferrer">Creative  Commons 3.0 Share Alike By Attribution</a> license. (All derivative  works must show attribution to the original authors and must also be  distributed under the CC-BY-SA 3.0 license.)
 
-John B. Hare of the <a href="http://www.sacred-texts.com/" target="_blank" rel="noopener noreferrer">Internet Sacred Text Archive</a> contributed the scans and auto-transcribed text of the 1917 JPS English  Translation of the TaNaKh. We are currently helping John release the  first ever free licensed digital text of the 1917 JPS TaNaKh translation  and have proofread the Book of Neḥemia and nearly 70% of Psalms. Please  help us complete this task by <a href="https://opensiddur.org/translations/%d7%aa%d7%a0%d7%b4%d7%9a-the-holy-scriptures-a-new-translation-jps-1917/" target="_blank" rel="noopener noreferrer">proofreading  a few pages</a> -- it's a relatively easy way to begin working on the  Open Siddur Project.
+John B. Hare of the <a href="http://www.sacred-texts.com/" target="_blank" rel="noopener noreferrer">Internet Sacred Text Archive</a> contributed the scans and auto-transcribed text of the 1917 JPS English Translation of the TaNaKh. We are currently helping John release the  first ever free licensed digital text of the 1917 JPS TaNaKh translation  and have proofread the Book of Neḥemia and nearly 70% of Psalms. Please  help us complete this task by <a href="https://opensiddur.org/translations/%d7%aa%d7%a0%d7%b4%d7%9a-the-holy-scriptures-a-new-translation-jps-1917/" target="_blank" rel="noopener noreferrer">proofreading  a few pages</a> -- it's a relatively easy way to begin working on the  Open Siddur Project.
 
 John Hare also scanned and transcribed a  1915 edition of the <a href="http://www.sacred-texts.com/jud/spb/index.htm" target="_blank" rel="noopener noreferrer">Singer Siddur</a>,  an English translation based on Seligman Baer's Seder Avodat Yisrael.  Thank you, John!
 
@@ -27,7 +27,7 @@ John Hare also scanned and transcribed a  1915 edition of the <a href="http://ww
 
 Gabriel   Wasserman contributed his transcription of many sections of the Seder  Avodat Yisrael that he had incorporated into his Maḥzor for Shabbat  Ḥanukkah. Thank you, Gabriel!
 
-Efraim Feinstein acquired and  scanned a work of the Siddur Torah Ohr  (Nusaḥ HaAri/Lubavitch) an important siddur based on the text edited by  R. Shneur Zalman of Liadi. A partial digital transcription of the siddur  is already available on <a href="http://he.wikisource.org/wiki/%D7%A1%D7%99%D7%93%D7%95%D7%A8_%D7%AA%D7%95%D7%A8%D7%94_%D7%90%D7%95%D7%A8" target="_blank" rel="noopener noreferrer">Wikisource</a> and this scan will help us complete  that transcription and provide a source for proofreading it. Thanks  Efraim!
+Efraim Feinstein acquired and  scanned a work of the Siddur Torah Ohr  (Nusaḥ HaAri/Lubavitch) an important siddur based on the text edited by Rabbi Shneur Zalman of Liadi. A partial digital transcription of the siddur  is already available on <a href="http://he.wikisource.org/wiki/%D7%A1%D7%99%D7%93%D7%95%D7%A8_%D7%AA%D7%95%D7%A8%D7%94_%D7%90%D7%95%D7%A8" target="_blank" rel="noopener noreferrer">Wikisource</a> and this scan will help us complete  that transcription and provide a source for proofreading it. Thanks  Efraim!
 
 An anonymous contributor provided a text of the  Spanish-Portuguese  Nusaḥ. The text is currently formatted in the proprietary format of  DavkaWriter Platinum. Please let us know if you have a copy of this  software and if you can help us convert this document to an open  standard Unicode format.
 

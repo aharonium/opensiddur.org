@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: Thirteen Intentions of Faith Taught at the Beit HaMidrash of Elat Chayyim, by Reb Zalman Schachter-Shalomi<br />
+Title: Thirteen Intentions of Faith Taught at the Beit HaMidrash of Elat Chayyim, by Rabbi Zalman Schachter-Shalomi<br />
 Primary contributor: zalman.schachter-shalomi<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=16080">http://opensiddur.org/?p=16080</a>
 <p />

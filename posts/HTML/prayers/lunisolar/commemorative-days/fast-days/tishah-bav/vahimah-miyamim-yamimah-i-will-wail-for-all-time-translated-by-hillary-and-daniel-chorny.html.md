@@ -217,6 +217,6 @@ and I will raise the sound of my lament.
 
 <hr />
 
-"<em>V’ahimah Miyamim Yamimah</em>" is a kinah that recounts the tragic tale of the children of Rabbi Yishmael as told in the Babylonian Talmud (Gittin 58a). The handsome brother and fair sister were separated and sold into slavery during the conquest of Jerusalem. Their respective masters, not knowing the two were siblings, paired them with the intent of creating beautiful offspring. In their shared cell, the two wept all night until morning, when they recognized one another. They cried on each other’s necks until their souls departed from their bodies. The narrator of our story laments their terrible fate, ending each verse with a haunting refrain: “And so I will wail for all time.”
+"<em>V’ahimah Miyamim Yamimah</em>" is a ḳinah that recounts the tragic tale of the children of Rabbi Yishmael as told in the Babylonian Talmud (Gittin 58a). The handsome brother and fair sister were separated and sold into slavery during the conquest of Jerusalem. Their respective masters, not knowing the two were siblings, paired them with the intent of creating beautiful offspring. In their shared cell, the two wept all night until morning, when they recognized one another. They cried on each other’s necks until their souls departed from their bodies. The narrator of our story laments their terrible fate, ending each verse with a haunting refrain: “And so I will wail for all time.”
 </body>
 </html>

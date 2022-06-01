@@ -541,7 +541,7 @@ when I return to Jerusalem.
 
 <hr />
 
-<em>Aish Tuqad</em> is a kinah for Tishah b'Av, usually recited towards the conclusion of the set of dirges for the morning service (in Goldshmidt’s numbering, it is number 32 of our 46 Kinot). According to Goldshmidt’s introduction, the structure of this Piyyut is based on a Midrash in Eicha Zuta 19, where Moses’ praises for God and Israel are seen as parallel to Jeremiah’s laments, thus creating the concept of a comparison between the joy of the Exodus and the pain of the Temple’s destruction.
+<em>Aish Tuqad</em> is a ḳinah for Tishah b'Av, usually recited towards the conclusion of the set of dirges for the morning service (in Goldshmidt’s numbering, it is number 32 of our 46 Kinot). According to Goldshmidt’s introduction, the structure of this Piyyut is based on a Midrash in Eicha Zuta 19, where Moses’ praises for God and Israel are seen as parallel to Jeremiah’s laments, thus creating the concept of a comparison between the joy of the Exodus and the pain of the Temple’s destruction.
 
 <h3>Source(s)</h3>
 

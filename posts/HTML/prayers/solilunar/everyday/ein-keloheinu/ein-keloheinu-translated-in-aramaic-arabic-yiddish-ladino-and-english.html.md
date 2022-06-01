@@ -21,7 +21,7 @@ Many versions of Ein kEloheinu have been compiled in different languages, most f
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: right;">Translation (Aramaic)</th><th style="text-align: right;">Translation (Judeo-Arabic)</th><th style="text-align: right;">Translation (Yiddish)</th><th style="text-align: right;">Translation (Ladino/Judezmo)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
-<div class="liturgy" lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 אֵין כֵּאלֹהֵֽינוּ
 אֵין כַּאדוֹנֵֽינוּ
 אֵין כְּמַלְכֵּֽנוּ
@@ -29,7 +29,7 @@ Many versions of Ein kEloheinu have been compiled in different languages, most f
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="aramaic" lang="jpa">
+<div class="aramaic" lang="jpa" style="text-align: right;">
 לֵית בַּר מִין אֱלָהָנָא
 לֵית בַּר מִין רִבּוֹנָנָא
 לֵית בַּר מִין מַלְכָּנָא
@@ -37,7 +37,7 @@ Many versions of Ein kEloheinu have been compiled in different languages, most f
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="judeo-arabic" lang="jrb">
+<div class="judeo-arabic" lang="jrb" style="text-align: right;">
 לֵיס ﭏֲלָהּ אִלָ֘א רַבַּ֘נָא
 לֵיְס ﭏֲלָהּ אִלַ֘א סַיִ֘דַּנָא
 לֵיְס ﭏֲלָהּ אִלַ֘א מַלִכַּנָא
@@ -45,7 +45,7 @@ Many versions of Ein kEloheinu have been compiled in different languages, most f
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="yiddish" lang="yi">
+<div class="yiddish" lang="yi" style="text-align: right;">
 עס איז קײן גאָט װי אונדזער גאָט
 עס איז קײן הער װי אונדזער הער
 עס איז קײן קעניג װי אונדזער קעניג
@@ -53,7 +53,7 @@ Many versions of Ein kEloheinu have been compiled in different languages, most f
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="ladino" lang="lad">
+<div class="ladino" lang="lad" style="text-align: right;">
 נון קומו מואיסטרו דיו
 נון קומו מואיסטרו סינייור
 נון קומו מואיסטרו ריי
@@ -61,7 +61,7 @@ Many versions of Ein kEloheinu have been compiled in different languages, most f
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english" lang="en">
+<div class="english" lang="en"  style="text-align: left;">
 None is like our God!
 None is like our Master!
 None is like our Ruler!
@@ -70,7 +70,7 @@ None is like our Rescuer!
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy" lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 מִי כֵאלֹהֵֽינוּ
 מִי כַאדוֹנֵֽינוּ
 מִי כְמַלְכֵּֽנוּ
@@ -78,7 +78,7 @@ None is like our Rescuer!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="aramaic" lang="jpa">
+<div class="aramaic" lang="jpa" style="text-align: right;">
 מְנָא אֱלָהָא הֵיךְ כֵּאלָהָנָא
 מְנָא רִבּוֹנָא הֵיךְ כְּרִבּוֹנָנָא
 מְנָא מַלְכָּא הֵיךְ כְּמַלְכָּנָא
@@ -86,7 +86,7 @@ None is like our Rescuer!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="judeo-arabic" lang="jrb">
+<div class="judeo-arabic" lang="jrb" style="text-align: right;">
 מַן מַתַׄל רַבַּ֘נָא
 מַן מַתַׄל סַיִ֘דַּנָא
 מַן מַתַׄל מַלִכַּנָא
@@ -94,7 +94,7 @@ None is like our Rescuer!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="yiddish" lang="yi">
+<div class="yiddish" lang="yi" style="text-align: right;">
 װער איז אַ גאָט װי אונדזער גאָט
 װער איז אַ הער װי אונדזער הער
 װער איז אַ קעניג װי אונדזער קעניג
@@ -102,7 +102,7 @@ None is like our Rescuer!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="ladino" lang="lad">
+<div class="ladino" lang="lad" style="text-align: right;">
 קיין קומו מואיסטרו דיו
 קיין קומו מואיסטרו סינייור
 קיין קומו מואיסטרו ריי
@@ -110,7 +110,7 @@ None is like our Rescuer!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english" lang="en">
+<div class="english" lang="en"  style="text-align: left;">
 Who is like our God?
 Who is like our Master?
 Who is like our Ruler?
@@ -119,7 +119,7 @@ Who is like our Rescuer?
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy" lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 נוֹדֶה לֵאלֹהֵֽינוּ
 נוֹדֶה לַאדוֹנֵֽינוּ
 נוֹדֶה לְמַלְכֵּֽנוּ
@@ -127,7 +127,7 @@ Who is like our Rescuer?
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="aramaic" lang="jpa">
+<div class="aramaic" lang="jpa" style="text-align: right;">
 נוֹדֵי קֳדָם אֱלָהָנָא
 נוֹדֵי קֳדָם רִבּוֹנָנָא
 נוֹדֵי קֳדָם מַלְכָּנָא
@@ -135,7 +135,7 @@ Who is like our Rescuer?
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="judeo-arabic" lang="jrb">
+<div class="judeo-arabic" lang="jrb" style="text-align: right;">
 נַשְׁכֻּר רַבַּ֘נָא
 נַשְׁכֻּר סַיִ֘דַּנָא
 נַשְׁכֻּר מַלִכַּנָא
@@ -143,7 +143,7 @@ Who is like our Rescuer?
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="yiddish" lang="yi">
+<div class="yiddish" lang="yi" style="text-align: right;">
 לאָמיר דענקען אונדזער גאָט
 לאָמיר דענקען אונדזער הער
 לאָמיר דענקען אונדזער קעניג
@@ -151,7 +151,7 @@ Who is like our Rescuer?
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="ladino" lang="lad">
+<div class="ladino" lang="lad" style="text-align: right;">
 לוארימוס אה מואיסטרו דיו
 לוארימוס אה מואיסטרו סינייור
 לוארימוס אה מואיסטרו ריי
@@ -159,7 +159,7 @@ Who is like our Rescuer?
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english" lang="en">
+<div class="english" lang="en"  style="text-align: left;">
 Let us thank our God!
 Let us thank our Master!
 Let us thank our Ruler!
@@ -168,7 +168,7 @@ Let us thank our Rescuer!
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy" lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 בָּרוּךְ אֱלֹהֵֽינוּ
 בָּרוּךְ אֲדוֹנֵֽינוּ
 בָּרוּךְ מַלְכֵּֽנוּ
@@ -176,7 +176,7 @@ Let us thank our Rescuer!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="aramaic" lang="jpa">
+<div class="aramaic" lang="jpa" style="text-align: right;">
 בְּרִיךְ אֱלָהָנָא
 בְּרִיךְ רִבּוֹנָנָא
 בְּרִיךְ מַלְכָּנָא
@@ -184,7 +184,7 @@ Let us thank our Rescuer!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="judeo-arabic" lang="jrb">
+<div class="judeo-arabic" lang="jrb" style="text-align: right;">
 מֻבָּארַךּ רַבַּ֘נָא
 מֻבָּארַךּ סַיִ֘דַּנָא
 מֻבָּארַךּ מַלִכַּנָא
@@ -192,7 +192,7 @@ Let us thank our Rescuer!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="yiddish" lang="yi">
+<div class="yiddish" lang="yi" style="text-align: right;">
 זאָל געבענטשט זײַן אונדזער גאָט
 זאָל געבענטשט זײַן אונדזער הער
 זאָל געבענטשט זײַן אונדזער קעניג
@@ -200,7 +200,7 @@ Let us thank our Rescuer!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="ladino" lang="lad">
+<div class="ladino" lang="lad" style="text-align: right;">
 בינדיגֿו מואיסטרו דיו
 בינדיגֿו מואיסטרו סינייור
 בינדיגֿו מואיסטרו ריי
@@ -208,7 +208,7 @@ Let us thank our Rescuer!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english" lang="en">
+<div class="english" lang="en"  style="text-align: left;">
 Blessed be our God!
 Blessed be our Master!
 Blessed be our Ruler!
@@ -217,7 +217,7 @@ Blessed be our Rescuer!
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy" lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 אַתָּה הוּא אֱלֹהֵֽינוּ
 אַתָּה הוּא אֲדוֹנֵֽינוּ
 אַתָּה הוּא מַלְכֵּֽנוּ
@@ -225,7 +225,7 @@ Blessed be our Rescuer!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="aramaic" lang="jpa">
+<div class="aramaic" lang="jpa" style="text-align: right;">
 אָנְתְּ הוּא אֱלָהָנָא
 אָנְתְּ הוּא רִבּוֹנָנָא
 אָנְתְּ הוּא מַלְכָּנָא
@@ -233,7 +233,7 @@ Blessed be our Rescuer!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="judeo-arabic" lang="jrb">
+<div class="judeo-arabic" lang="jrb" style="text-align: right;">
 אַנְתַּ הוּאַ רַבַּ֘נָא
 אַנְתַּ הוּאַ סַיִ֘דַּנָא
 אַנְתַּ הוּאַ מַלִכַּנָא
@@ -241,7 +241,7 @@ Blessed be our Rescuer!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="yiddish" lang="yi">
+<div class="yiddish" lang="yi" style="text-align: right;">
 װאָרום דו ביסט אונדזער גאָט
 װאָרום דו ביסט אונדזער הער
 װאָרום דו ביסט אונדזער קעניג
@@ -249,7 +249,7 @@ Blessed be our Rescuer!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="ladino" lang="lad">
+<div class="ladino" lang="lad" style="text-align: right;">
 טו סוס מואיסטרו דיו
 טו סוס מואיסטרו סינייור
 טו סוס מואיסטרו ריי
@@ -257,7 +257,7 @@ Blessed be our Rescuer!
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english" lang="en">
+<div class="english" lang="en"  style="text-align: left;">
 You are our God!
 You are our Master!
 You are our Ruler!
@@ -266,106 +266,106 @@ You are our Rescuer!
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy" lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 <span class="instruction">פסוק חתימה במנהג אשכנזי</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="aramaic" lang="jpa">
+<div class="aramaic" lang="jpa" style="text-align: right;">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="judeo-arabic" lang="jrb">
+<div class="judeo-arabic" lang="jrb" style="text-align: right;">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="yiddish" lang="yi">
+<div class="yiddish" lang="yi" style="text-align: right;">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="ladino" lang="lad">
+<div class="ladino" lang="lad" style="text-align: right;">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english" lang="en">
+<div class="english" lang="en"  style="text-align: left;">
 <span class="instruction">Concluding verse in the Ashkenazi rite.</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy" lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 אַתָּה הוּא שֶׁהִקְטִֽירוּ אֲבוֹתֵֽינוּ
 לְפָנֶֽיךָ אֶת־קְטֹֽרֶת הַסַּמִּים
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="aramaic" lang="jpa">
+<div class="aramaic" lang="jpa" style="text-align: right;">
 אָנְתְּ הוּא דְּאַסִיקוּ אֲבָהֳתַנָא 
 קֳדָמָךְ יַת־קְטֹרֶת בּוּסְמַיָּא
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="judeo-arabic" lang="jrb">
+<div class="judeo-arabic" lang="jrb" style="text-align: right;">
 אַנְתַּ הוּאַ אַלַ֘דִֿי אִיָ֘אךָּ אַחְרַקוּא
 אַגְּדָּאדֻּנָא אַלְבֻּכׄוּר קֻדָּ֘אמַךָּ
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="yiddish" lang="yi">
+<div class="yiddish" lang="yi" style="text-align: right;">
 װאָרום דו ביסט װעם האָבן אונדזער אבותֿ  
 פֿאַר דיר דאָס װײרױך גערײכט
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="ladino" lang="lad">
+<div class="ladino" lang="lad" style="text-align: right;">
 טו סוס קיין דילאנטי די טי קימאבֿאן
 מואיסטרוס פאדריס איל סאאומירייו
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english" lang="en">
+<div class="english" lang="en"  style="text-align: left;">
 You are the one to whom
 our ancestors burned incense.
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy" lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 <span class="instruction">פסוק חתימה במנהג ספרדי</span>
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="aramaic" lang="jpa">
+<div class="aramaic" lang="jpa" style="text-align: right;">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="judeo-arabic" lang="jrb">
+<div class="judeo-arabic" lang="jrb" style="text-align: right;">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="yiddish" lang="yi">
+<div class="yiddish" lang="yi" style="text-align: right;">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="ladino" lang="lad">
+<div class="ladino" lang="lad" style="text-align: right;">
 
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english" lang="en">
+<div class="english" lang="en"  style="text-align: left;">
 <span class="instruction">Concluding verse in the Sepharadi rite.</span>
 </div></td></tr>
 
 
 <tr><td style="vertical-align:top;">
-<div class="liturgy" lang="he">
+<div class="liturgy" lang="he" style="text-align: right;">
 אַתָּה תוֹשִׁיעֵנוּ!
 אַתָּ֣ה תָ֭קוּם תְּרַחֵ֣ם צִיּ֑וֹן
 כִּי־עֵ֥ת לְ֝חֶֽנְנָ֗הּ 
@@ -373,7 +373,7 @@ our ancestors burned incense.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="aramaic" lang="jpa">
+<div class="aramaic" lang="jpa" style="text-align: right;">
 אָנְתְּ הוּא תִפְרְקִינָנָא
 אַנְתְּ תְּקוּם תְּרַחֵם צִיוֹן 
 אֲרוּם עִדָן לְמֵחוּס עֲלָהּ
@@ -381,7 +381,7 @@ our ancestors burned incense.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="judeo-arabic" lang="jrb">
+<div class="judeo-arabic" lang="jrb" style="text-align: right;">
 אַנְתַּ תַּגׄוּתָׄאנָא
 אַנְתַּ תַּקוּם תַּרְחַם צִיּוֹן
 פַאִנַ֘ה וַקְתּ תַּרוּפַהָא פִיהָ
@@ -389,7 +389,7 @@ our ancestors burned incense.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="yiddish" lang="yi">
+<div class="yiddish" lang="yi" style="text-align: right;">
 דו װעסט אונדז ראַטעװען!
 דו װעסט אױפֿשטײן און זיך דערבאַרימען אױף צִיון
 װאָרום עס איז צײַט זי צו לײַטזעליקן
@@ -397,7 +397,7 @@ our ancestors burned incense.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="ladino" lang="lad">
+<div class="ladino" lang="lad" style="text-align: right;">
 טו מוס סאלבֿאראס!
 טו טי אליבֿאנטאדאס אי טי אפייאדֿאראס די ציון
 פורקי בֿינו לה אורה די אפייאדֿארטי די אילייה
@@ -405,7 +405,7 @@ our ancestors burned incense.
 </span></div></td>
  
 <td style="vertical-align:top;">
-<div class="english" lang="en">
+<div class="english" lang="en"  style="text-align: left;">
 You will rescue us!
 You will arise and have mercy on Zion
 For it is time to grace it

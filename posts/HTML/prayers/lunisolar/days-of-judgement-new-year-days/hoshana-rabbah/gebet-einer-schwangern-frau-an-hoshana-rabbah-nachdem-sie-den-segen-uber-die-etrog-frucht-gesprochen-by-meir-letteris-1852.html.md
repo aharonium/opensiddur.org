@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: Gebet einer schwangern Frau, an הושענא רבה, nachdem sie den Segen über die Etrog-Frucht gesprochen | Prayer of a pregnant woman on Hoshana Rabbah after saying the blessing over the etrog fruit, a teḥinah in German by Meïr Letteris (1852)<br />
+Title: Gebet einer schwangern Frau, an הושענא רבה, nachdem sie den Segen über die Etrog-Frucht gesprochen | Prayer of a pregnant woman on Hoshana Rabbah after saying the blessing over the etrog fruit, a teḥinah by Meïr Letteris (1852)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=41508">http://opensiddur.org/?p=41508</a>
 <p />

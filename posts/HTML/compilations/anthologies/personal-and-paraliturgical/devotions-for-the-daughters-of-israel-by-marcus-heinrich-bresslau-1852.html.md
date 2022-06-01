@@ -7,7 +7,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-<em>Teḥinot Banot Yisrael: Devotions for the Daughters of Israel</em> (1852) by Marcus Heinrich Bresslau may be the first collection of <em>teḥinot</em> published for an English speaking audience. Bresslau explains in his preface that his work was translated and adapted "from a Prayer Book in general use throughout Germany." Alas, he offers no other bibliographic reference for the volume in which his work relied so much upon. (If you think you know, please <a href="/contact/">contact us</a> or leave a comment below.)
+<em>Teḥinot Banot Yisrael: Devotions for the Daughters of Israel</em> (1852) by Marcus Heinrich Bresslau is one of the first collections of <em>teḥinot</em> published for an English speaking audience. Bresslau explains in his preface that his work was translated and adapted "from a Prayer Book in general use throughout Germany." Alas, he offers no other bibliographic reference for the volume in which his work relied so much upon. (If you think you know, please <a href="/contact/">contact us</a> or leave a comment below.)
 
 This collection of <em>teḥinot</em> follows the publication in French of <em>Imrei Lev: Prières D’un Cœur Israélite</em> (1848) by Jonas Ennery and Rabbi Arnaud Aron -- and precedes the publication of Stunden der Andacht (1855), Fanny Neuda's collection of her <em>teḥinot</em> written in German. All of these express a movement of tkhines literature beyond an audience of vernacular Yiddish readers and into a world of emancipated Jews more fluent in the language of the modernizing states in which they lived.
 

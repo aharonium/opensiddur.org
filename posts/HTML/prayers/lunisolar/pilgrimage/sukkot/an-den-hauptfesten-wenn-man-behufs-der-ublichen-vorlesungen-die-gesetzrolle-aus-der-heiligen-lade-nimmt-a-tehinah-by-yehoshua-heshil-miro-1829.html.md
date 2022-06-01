@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: An den Hauptfesten, wenn man Behufs der üblichen Vorlesungen die Gesetzrolle aus der heiligen Lade nimmt | On the Shalosh Regalim when one removes the Torah from the holy Ark, a teḥinah in German by Yehoshua Heshil Miro (1829)<br />
+Title: An den Hauptfesten, wenn man Behufs der üblichen Vorlesungen die Gesetzrolle aus der heiligen Lade nimmt | On the Shalosh Regalim when one removes the Torah from the holy Ark, a teḥinah by Yehoshua Heshil Miro (1829)<br />
 Primary contributor: andreas.rusterholz<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=42611">http://opensiddur.org/?p=42611</a>
 <p />

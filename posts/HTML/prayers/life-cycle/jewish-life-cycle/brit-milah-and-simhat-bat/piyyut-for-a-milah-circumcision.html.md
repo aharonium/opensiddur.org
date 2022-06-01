@@ -97,6 +97,6 @@ Awaken and sing, the glory of God is revealed upon you.
 
 <hr />
 
-This is a <em>piyyut</em> (liturgical poem) which is intended to be recited at a brit. It is connected to my liturgy for a "<a href="https://opensiddur.org/prayers-for/birth/hakhnassah-labrit-on-entering-the-covenant-by-rabbi-dr-aryeh-cohen/">chag hachnassah labrit</a>" (available <a href="https://opensiddur.org/prayers-for/birth/hakhnassah-labrit-on-entering-the-covenant-by-rabbi-dr-aryeh-cohen/">here</a>). The explanation for the chag is also the basis for the piyyut. Translation into English by Shoshanna Gershenson, Maeera Schreiber and Aryeh Cohen.
+This is a <em>piyyut</em> (liturgical poem) which is intended to be recited at a brit. It is connected to my liturgy for a "<a href="https://opensiddur.org/prayers-for/birth/hakhnassah-labrit-on-entering-the-covenant-by-aryeh-cohen/">chag hachnassah labrit</a>" (available <a href="https://opensiddur.org/prayers-for/birth/hakhnassah-labrit-on-entering-the-covenant-by-aryeh-cohen/">here</a>). The explanation for the chag is also the basis for the piyyut. Translation into English by Shoshanna Gershenson, Maeera Schreiber and Aryeh Cohen.
 </body>
 </html>

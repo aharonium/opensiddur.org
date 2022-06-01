@@ -17,7 +17,7 @@ For attribution and license, please consult the following URL: <a href="http://o
  
 <td style="vertical-align:top;">
 <div class="english" lang="en">
-<span class="instruction">We begin with prayer: <a href="https://opensiddur.org/prayers/solilunar/everyday/mah-tovu/priere-en-entrant-dans-le-temple-a-paraliturgical-mah-tovu-by-rabbi-arnaud-aron-jonas-ennery-1848/">MAH TOVU</a>, sung by the officiant and the choir before the tabernacle. - Office of Mincha. - After the SHMONAH-ESRÉ, Psalm 8 and the hymn of ADON OLAM. Meanwhile the children say the following prayer:</span>
+<span class="instruction">We begin with prayer: <a href="https://opensiddur.org/prayers/solilunar/everyday/mah-tovu/priere-en-entrant-dans-le-temple-a-paraliturgical-mah-tovu-by-arnaud-aron-jonas-ennery-1848/">MAH TOVU</a>, sung by the officiant and the choir before the tabernacle. - Office of Mincha. - After the SHMONAH-ESRÉ, Psalm 8 and the hymn of ADON OLAM. Meanwhile the children say the following prayer:</span>
 </div></td></tr>
 
 

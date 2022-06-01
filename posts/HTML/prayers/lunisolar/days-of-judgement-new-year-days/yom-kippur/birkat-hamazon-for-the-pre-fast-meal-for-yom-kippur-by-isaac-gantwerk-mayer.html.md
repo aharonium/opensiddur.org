@@ -216,16 +216,16 @@ who feeds the whole world entire in goodness…
 
 <tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
-<span class="acrostic">אָ֯</span>יֹם וְנוֹרָא
-<span class="acrostic">בְּ֯</span>לֵיל זֶה אֲסַפֵּר
-<span class="acrostic">גְּ֯</span>דֻלַּת יוֹם בָּא
-<span class="acrostic">דִּ֯</span>ינַי יִסָּפֵר
-<span class="acrostic">הַ֯</span>יּוֹם צוֹם כִּפּוּר
-<span class="acrostic">וְ֯</span>עָפָר וָאֵפֶר 
-<span class="acrostic">ז֯</span>וֹחֵל בְּפָנֶיךָ
-<span class="acrostic">ח֯</span>וֹתֵם הַסֵּפֶר
-<span class="acrostic">טָ֯</span>הֳרַת הַמִּזְבֵּחַ
-<span class="acrostic">י֯</span>וֹמָא־דֵין כֹּהֵן כִּפֵּר
+<span class="acrostic">אָ</span>יֹם וְנוֹרָא
+<span class="acrostic">בְּ</span>לֵיל זֶה אֲסַפֵּר
+<span class="acrostic">גְּ</span>דֻלַּת יוֹם בָּא
+<span class="acrostic">דִּ</span>ינַי יִסָּפֵר
+<span class="acrostic">הַ</span>יּוֹם צוֹם כִּפּוּר
+<span class="acrostic">וְ</span>עָפָר וָאֵפֶר 
+<span class="acrostic">ז</span>וֹחֵל בְּפָנֶיךָ
+<span class="acrostic">ח</span>וֹתֵם הַסֵּפֶר
+<span class="acrostic">טָ</span>הֳרַת הַמִּזְבֵּחַ
+<span class="acrostic">י</span>וֹמָא־דֵין כֹּהֵן כִּפֵּר
 &nbsp;
 כָּאָמוּר
 וְכִפֶּ֤ר אַהֲרֹן֙ עַל־קַרְנֹתָ֔יו אַחַ֖ת בַּשָּׁנָ֑ה 
@@ -283,18 +283,18 @@ Second blessing: over the land
 
 <tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
-<span class="acrostic">כׇּ֯</span>ל־אֵלּוּ נִמְנָע
-<span class="acrostic">לִ֯</span>שְׁמִירַת צוֹם כָּכָה
-<span class="acrostic">מֵ֯</span>אֲכִילָה וּשְׁתִיָּה	
-<span class="acrostic">נֶ֯</span>אְסַר רְחִיצָתְךָ
-<span class="acrostic">סַ֯</span>נְדָּלִים לֹא נִנְעוֹל
-<span class="acrostic">עֲ֯</span>בֵרָה הִיא סִיכָה
-<span class="acrostic">פְּ֯</span>רִיַּת הַמִּטָּה
-<span class="acrostic">צֻ֯</span>וֵּינוּ מִדַּרְכָּהּ
-<span class="acrostic">קָ֯</span>רָא לוֹ שַׁבָּתוֹן
-<span class="acrostic">רֹ֯</span>אשׁ מוֹעֲדֶיךָ
-<span class="acrostic">שֶׁ֯</span>בְּכׇל־הָאֲרָצוֹת
-<span class="acrostic">תִּ֯</span>שְׁבְּתוּ מִכׇּל־מְלָאכָה
+<span class="acrostic">כׇּ</span>ל־אֵלּוּ נִמְנָע
+<span class="acrostic">לִ</span>שְׁמִירַת צוֹם כָּכָה
+<span class="acrostic">מֵ</span>אֲכִילָה וּשְׁתִיָּה	
+<span class="acrostic">נֶ</span>אְסַר רְחִיצָתְךָ
+<span class="acrostic">סַ</span>נְדָּלִים לֹא נִנְעוֹל
+<span class="acrostic">עֲ</span>בֵרָה הִיא סִיכָה
+<span class="acrostic">פְּ</span>רִיַּת הַמִּטָּה
+<span class="acrostic">צֻ</span>וֵּינוּ מִדַּרְכָּהּ
+<span class="acrostic">קָ</span>רָא לוֹ שַׁבָּתוֹן
+<span class="acrostic">רֹ</span>אשׁ מוֹעֲדֶיךָ
+<span class="acrostic">שֶׁ</span>בְּכׇל־הָאֲרָצוֹת
+<span class="acrostic">תִּ</span>שְׁבְּתוּ מִכׇּל־מְלָאכָה
 &nbsp;
 כָּאָמוּר
 וְכׇל־מְלָאכָה֙ לֹ֣א תַעֲשׂ֔וּ בְּעֶ֖צֶם הַיּ֣וֹם הַזֶּ֑ה 
@@ -376,25 +376,25 @@ Our God and God of our ancestors, may this rise and come and reach and be seen a
 
 <tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
-<span class="acrostic">יִ֯</span>צְרַי הָרָעִים 
-<span class="acrostic">צָ֯</span>רִיךְ לִכְבֹּשׁ הַיּוֹם
-<span class="acrostic">חֻ֯</span>קַּת עוֹלָם 
-<span class="acrostic">קָ֯</span>רָאתָ עַל־הַיּוֹם
-<span class="acrostic">הַ֯</span>מֶּלֶךְ חוּס עָלֵינוּ 
-<span class="acrostic">רַ֯</span>חֵם נָא הַיּוֹם
-<span class="acrostic">אָ֯</span>נַחְנוּ כְּתוֹלַעַת 
-<span class="acrostic">לְ֯</span>פָנֶיךָ הָאָיֹם
-<span class="acrostic">בְּ֯</span>נֵה בֵיתְךָ 
-<span class="acrostic">נְ֯</span>וֵה קׇדְשְׁךָ הַיּוֹם
-<span class="acrostic">אָ֯</span>נָּא עֲנֵנוּ 
-<span class="acrostic">בּ֯</span>וֹרֵא לַיִל וָיוֹם
-<span class="acrostic">רַ֯</span>חֵם תְּרַחֲמֵנוּ 
-<span class="acrostic">הָ֯</span>רָחוּם בְּכׇל־יוֹם
-<span class="acrostic">מִ֯</span>הֲרָה בְיָמֵינוּ 
-<span class="acrostic">הָ֯</span>בֵא־נָא פִּדְיוֹם
-<span class="acrostic">כׇּ֯</span>ל־נָפְשִׁי מִתְחַנֶּנֶת 
-<span class="acrostic">הֱ֯</span>יֵה־נָא הַיּוֹם
-<span class="acrostic">נִ֯</span>זְבַּח זִבְחֵנוּ כָּאָמוּר כִּֽי־בַיּ֥וֹם
+<span class="acrostic">יִ</span>צְרַי הָרָעִים 
+<span class="acrostic">צָ</span>רִיךְ לִכְבֹּשׁ הַיּוֹם
+<span class="acrostic">חֻ</span>קַּת עוֹלָם 
+<span class="acrostic">קָ</span>רָאתָ עַל־הַיּוֹם
+<span class="acrostic">הַ</span>מֶּלֶךְ חוּס עָלֵינוּ 
+<span class="acrostic">רַ</span>חֵם נָא הַיּוֹם
+<span class="acrostic">אָ</span>נַחְנוּ כְּתוֹלַעַת 
+<span class="acrostic">לְ</span>פָנֶיךָ הָאָיֹם
+<span class="acrostic">בְּ</span>נֵה בֵיתְךָ 
+<span class="acrostic">נְ</span>וֵה קׇדְשְׁךָ הַיּוֹם
+<span class="acrostic">אָ</span>נָּא עֲנֵנוּ 
+<span class="acrostic">בּ</span>וֹרֵא לַיִל וָיוֹם
+<span class="acrostic">רַ</span>חֵם תְּרַחֲמֵנוּ 
+<span class="acrostic">הָ</span>רָחוּם בְּכׇל־יוֹם
+<span class="acrostic">מִ</span>הֲרָה בְיָמֵינוּ 
+<span class="acrostic">הָ</span>בֵא־נָא פִּדְיוֹם
+<span class="acrostic">כׇּ</span>ל־נָפְשִׁי מִתְחַנֶּנֶת 
+<span class="acrostic">הֱ</span>יֵה־נָא הַיּוֹם
+<span class="acrostic">נִ</span>זְבַּח זִבְחֵנוּ כָּאָמוּר כִּֽי־בַיּ֥וֹם
 &nbsp;
 כָּאָמוּר
 כִּֽי־בַיּ֥וֹם הַזֶּ֛ה יְכַפֵּ֥ר עֲלֵיכֶ֖ם לְטַהֵ֣ר אֶתְכֶ֑ם 
@@ -478,13 +478,13 @@ our Creator, our Redeemer, our Maker.
 
 <tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
-<span class="acrostic">חֲ֯</span>מֹל עָלֵינוּ 
-<span class="acrostic">זְ֯</span>כׇר־נָא פָּנַי
-<span class="acrostic">קְ֯</span>רַע גְּזַר דִּינֵינוּ 
-<span class="acrostic">וּ֯</span>שְׁמַע לִתְלֵיסַר דְּבָרַי
-<span class="acrostic">אַ֯</span>חֲרוֹן הוּא הַכּוֹס 
-<span class="acrostic">מֻ֯</span>חְזָק בְּיָדַי
-<span class="acrostic">צ֯</span>וֹמְךָ יַתְחִיל וְנֹאמַר יְהֹוָה
+<span class="acrostic">חֲ</span>מֹל עָלֵינוּ 
+<span class="acrostic">זְ</span>כׇר־נָא פָּנַי
+<span class="acrostic">קְ</span>רַע גְּזַר דִּינֵינוּ 
+<span class="acrostic">וּ</span>שְׁמַע לִתְלֵיסַר דְּבָרַי
+<span class="acrostic">אַ</span>חֲרוֹן הוּא הַכּוֹס 
+<span class="acrostic">מֻ</span>חְזָק בְּיָדַי
+<span class="acrostic">צ</span>וֹמְךָ יַתְחִיל וְנֹאמַר יְהֹוָה
 &nbsp;
 כָּאָמוּר
 יְהֹוָ֣ה  ׀ יְהֹוָ֔ה אֵ֥ל רַח֖וּם וְחַנּ֑וּן

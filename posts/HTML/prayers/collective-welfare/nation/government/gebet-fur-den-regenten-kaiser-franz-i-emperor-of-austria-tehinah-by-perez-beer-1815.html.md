@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: [Gebet] für den Regenten | Prayer for the Regent (Kaiser Franz Ⅰ, emperor of Austria), a teḥinah in German by Pereẓ Beer (1815)<br />
+Title: [Gebet] für den Regenten | Prayer for the Regent (Kaiser Franz Ⅰ, emperor of Austria), a teḥinah by Pereẓ Beer (1815)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=42086">http://opensiddur.org/?p=42086</a>
 <p />

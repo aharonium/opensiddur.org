@@ -1,8 +1,8 @@
 <html>
 <head></head>
 <body>
-Title: Gebet für eine schwangere Frau | Prayer for a pregnant woman, a teḥinah in German by Yehoshua Heshil Miro (1829)<br />
-Primary contributor: aharon.varady<br />
+Title: Gebet für eine schwangere Frau | Prayer for a pregnant woman, a teḥinah by Yehoshua Heshil Miro (1829)<br />
+Primary contributor: andreas.rusterholz<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=42153">http://opensiddur.org/?p=42153</a>
 <p />
 <hr />

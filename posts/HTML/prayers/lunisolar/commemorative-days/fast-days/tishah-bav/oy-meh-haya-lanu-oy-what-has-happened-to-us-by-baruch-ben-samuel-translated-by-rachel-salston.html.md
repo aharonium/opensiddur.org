@@ -383,6 +383,6 @@ Return us, Hashem, to face You and let us be restored, renew our days as they on
 
 <hr />
 
-“<em>Oy Meh Haya Lanu</em>” is a kinah traditionally recited on the night of Tisha b'Av directly after the reading of Eikha. According to the Koren Mesorat HaRav Kinot, it is number 1 of 50. The title is the refrain of the poem, a reflective lament. This kinah is based on the fifth and final chapter of Eikha, taking the opening phrase of each line of the megillah as the first line of each couplet and poetically expanding the description for the second. This translation is an attempt to convey the vulgarity and horror of the paytan’s depiction of the destroyed Jerusalem in vernacular English. The kinah ends just as the megillah ends, with the four verses of pleas for redemption.
+“<em>Oy Meh Haya Lanu</em>” is a ḳinah traditionally recited on the night of Tisha b'Av directly after the reading of Eikha. According to the Koren Mesorat HaRav Kinot, it is number 1 of 50. The title is the refrain of the poem, a reflective lament. This ḳinah is based on the fifth and final chapter of Eikha, taking the opening phrase of each line of the megillah as the first line of each couplet and poetically expanding the description for the second. This translation is an attempt to convey the vulgarity and horror of the paytan’s depiction of the destroyed Jerusalem in vernacular English. The ḳinah ends just as the megillah ends, with the four verses of pleas for redemption.
 </body>
 </html>

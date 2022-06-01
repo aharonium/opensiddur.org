@@ -26,8 +26,8 @@ For attribution and license, please consult the following URL: <a href="http://o
 <td style="vertical-align:top;">
 <div class="english" lang="en">
 Miriam received the Torah from Sinai
-and transmitted it to the Daughters of Zelophehad,
-and the Daughters of Zelophehad to Deborah,
+and transmitted it to the Daughters of Zelopheḥad,
+and the Daughters of Zelopheḥad to Deborah,
 and Deborah to Ruth,
 and Ruth transmitted it to Beruriah.
 They said three things:

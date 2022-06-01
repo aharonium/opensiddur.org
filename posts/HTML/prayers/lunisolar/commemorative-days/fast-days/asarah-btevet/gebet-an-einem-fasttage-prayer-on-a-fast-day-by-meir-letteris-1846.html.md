@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: Gebet an einem Fasttage | Prayer on a Public Fast Day (תַּעֲנִית צִבּוּר), a teḥinah in German by Dr. Meïr Letteris (1846)<br />
+Title: Gebet an einem Fasttage | Prayer on a Public Fast Day (תַּעֲנִית צִבּוּר), a teḥinah by Dr. Meïr Letteris (1846)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=41419">http://opensiddur.org/?p=41419</a>
 <p />

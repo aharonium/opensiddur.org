@@ -64,6 +64,8 @@ Everybody pray:
 
 May it be true.
 
-(<a href="https://opensiddur.org/2009/12/kaddish-by-rabbi-daniel-brenner/" target="_self" rel="noopener">A Kaddish by R' Daniel Brenner</a>)
+(<a href="/?p=261">A Ḳaddish by Rabbi Daniel Brenner</a>)
+
+&nbsp;
 </body>
 </html>

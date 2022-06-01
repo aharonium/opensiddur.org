@@ -90,7 +90,7 @@ on my behalf, and that of my children!
 
 “I went down to the nut garden…” With the walnut/egoz, you take one from the pile, and all of them scatter and roll, one after the other. So too with Israel: strike one of them, and all of them feel it. (<em>Song of Songs Rabbah</em> 6:11)
 
-Likewise, when a single species is endangered, the entire ecosystem is shaken and affected. (from Gale and Goodman's <em><a href="https://opensiddur.org/2011/01/the-trees-are-davvening-abridged-a-tu-bishvat-haggadah-by-dr-barak-gale-and-dr-ami-goodman/">The Trees Are Davening Tu biShvat Haggadah</a></em>)
+Likewise, when a single species is endangered, the entire ecosystem is shaken and affected. (from Gale and Goodman's <em><a href="https://opensiddur.org/2011/01/the-trees-are-davvening-abridged-a-tu-bishvat-haggadah-by-barak-gale-and-dr-ami-goodman/">The Trees Are Davening Tu biShvat Haggadah</a></em>)
 </div></td></tr>
 
 
@@ -205,7 +205,7 @@ If I am only for myself, what am I?
 
 If not now, WHEN?
 
-(from Gale and Goodman's <em><a href="https://opensiddur.org/2011/01/the-trees-are-davvening-abridged-a-tu-bishvat-haggadah-by-dr-barak-gale-and-dr-ami-goodman/">The Trees Are Davening Tu biShvat Haggadah</a></em>)
+(from Gale and Goodman's <em><a href="https://opensiddur.org/2011/01/the-trees-are-davvening-abridged-a-tu-bishvat-haggadah-by-barak-gale-and-dr-ami-goodman/">The Trees Are Davening Tu biShvat Haggadah</a></em>)
 </div></td></tr>
 
 
@@ -453,7 +453,7 @@ Commentary: [What does this verse teach us about the Holy One?] It means that on
 <h4>Redemption</h4>
 28) [In the future, the Holy One] is destined to make the face of the heavens new, like the face of the sun, and the face of the earth new like the face of the moon, and the face of the fruit trees like the face of the stars, and the face of the fruits of the fruits of the ground like the face of the constellations, and make sweet their scent like the scent of Gan Eden…Each and every tree is destined to put forth fruit in the time-to-come, as it’s said, “And the land will give her produce and the tree of the field will give his fruit.” (<em>Midrash Alpha Beta, Batey Midrashot,</em> 430)
 
-Conclude with <a href="https://opensiddur.org/2011/01/a-prayer-for-the-tu-bishvat-seder-by-r-david-seidenberg/">the blessing from P’ri Eits Hadar</a> or with the “<a href="https://opensiddur.org/2010/11/a-prayer-for-the-earth-by-rabbi-david-seidenberg/">Prayer for Creation</a>” by R. David Seidenberg.
+Conclude with <a href="https://opensiddur.org/2011/01/a-prayer-for-the-tu-bishvat-seder-by-r-david-seidenberg/">the blessing from P’ri Eits Hadar</a> or with the “<a href="https://opensiddur.org/2010/11/a-prayer-for-the-earth-by-david-seidenberg/">Prayer for Creation</a>” by R. David Seidenberg.
 </div></td></tr>
 </tbody></table>
 

@@ -851,7 +851,7 @@ Reflect on the eighth mishnah of Berakhot, chapter 6. The kavvanah is the Name o
 <td style="vertical-align:top;"><div class="english" lang="en">
 <span style="font-size: 2em;">Nishpolas:</span>
 &nbsp;
-Reflect on the first mishnah of Berakhot, chapter 7. The kavvanah is EL.
+Reflect on the first mishnah of Berakhot, chapter 3. The kavvanah is EL.
 </div></td></tr>
 
 
@@ -938,7 +938,7 @@ Wherever all thirty of the fruits mentioned above, whose roots are in the worlds
 
 <hr />
 
-<a href="http://www.ellenbernstein.org/shomrei-adamah">Shomrei Adamah</a> (Keepers of the Earth, the first national Jewish environmental organization) employed Miles Krassen to translate the <em>Pri Ets Hadar</em> into English in 1989. <em>Pri Ets Hadar</em> was an important source inspiring <em><a href="http://www.ellenbernstein.org/a-new-year">The New Year for Trees</a></em>, the first eco-conscious Tu biShvat seder haggadah (Ellen Bernstein for Shomrei Adamah 1988). Excerpts from Pri Ets Hadar were subsequently woven into “<a href="https://opensiddur.org/prayers-for/special-days/new-years-day/for-fruit-trees/the-trees-are-davvening-abridged-a-tu-bishvat-haggadah-by-dr-barak-gale-and-dr-ami-goodman/">The Trees Are Davening</a>,” a contemporary Tu biShvat Haggadah (1991) by Barak Gale and Ami Goodman. The source text of the <em>Pri Ets Hadar</em> used for the translation is found in the <em>Sefer Ḥemdat Yamim</em>. <em>Sefer Ḥemdat Yamim, Ḥelek Sheni</em>, third chapter of the section "<em>Shovavim</em>,"  Izmir: 1731, page 109a. For more on the controversies surrounding <em>Sefer Ḥemdat Yamim</em>, see <a href="http://kotzkblog.blogspot.com/2017/03/118-chemdat-yamim-most-controversial.html">here</a>.
+<a href="http://www.ellenbernstein.org/shomrei-adamah">Shomrei Adamah</a> (Keepers of the Earth, the first national Jewish environmental organization) employed Miles Krassen to translate the <em>Pri Ets Hadar</em> into English in 1989. <em>Pri Ets Hadar</em> was an important source inspiring <em><a href="http://www.ellenbernstein.org/a-new-year">The New Year for Trees</a></em>, the first eco-conscious Tu biShvat seder haggadah (Ellen Bernstein for Shomrei Adamah 1988). Excerpts from Pri Ets Hadar were subsequently woven into “<a href="https://opensiddur.org/prayers-for/special-days/new-years-day/for-fruit-trees/the-trees-are-davvening-abridged-a-tu-bishvat-haggadah-by-barak-gale-and-dr-ami-goodman/">The Trees Are Davening</a>,” a contemporary Tu biShvat Haggadah (1991) by Barak Gale and Ami Goodman. The source text of the <em>Pri Ets Hadar</em> used for the translation is found in the <em>Sefer Ḥemdat Yamim</em>. <em>Sefer Ḥemdat Yamim, Ḥelek Sheni</em>, third chapter of the section "<em>Shovavim</em>,"  Izmir: 1731, page 109a. For more on the controversies surrounding <em>Sefer Ḥemdat Yamim</em>, see <a href="http://kotzkblog.blogspot.com/2017/03/118-chemdat-yamim-most-controversial.html">here</a>.
 
 <h3>Transcription Source</h3>
 

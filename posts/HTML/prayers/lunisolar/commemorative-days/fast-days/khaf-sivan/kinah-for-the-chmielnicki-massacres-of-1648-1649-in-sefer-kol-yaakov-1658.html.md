@@ -18,7 +18,7 @@ For attribution and license, please consult the following URL: <a href="http://o
  
 <td style="vertical-align:top;">
 <div class="english" lang="en">
-<span class= "instruction">This is a <em>kinnah</em> over the murder of the sages of Polonia.[foot]Poland.[/foot]&nbsp; 
+<span class= "instruction">This is a <em>ḳinnah</em> over the murder of the sages of Polonia.[foot]Poland.[/foot]&nbsp; 
 May Hashem avenge their blood.</span>
 </div></td></tr>
 
@@ -102,7 +102,7 @@ Is there no-one who can bring the inner meaning of Torah out into light?
 <td style="vertical-align:top;">
 <div class="english" lang="en">
 I will eulogize and intone laments as mournfully as ostriches do:[foot]I think this must be "<em>ki-venot ya`ana</em>" as in Mikhah 1:8. <em>Benot ya`ana</em> are ostriches (or usually translated as such), and in addition to the quote from Mikhah they appear in other spots, usually with jackals, as symbols of desolation (Isaiah 43:20, Isaiah 34:13; Job 30:29; without jackals but as symbols of desolation in Isaiah 13:21 and Jeremiah 50:39). -- Jacob Chatinover.[/foot]
-Who could listen and not weep and wail tears?[foot]<em>viz</em> Kinnah 29.[/foot]&nbsp;
+Who could listen and not weep and wail tears?[foot]<em>viz</em> ḳinnah 29.[/foot]&nbsp;
 and their body seize with shuddering[foot]<em>viz</em> Job 21:6.[/foot] and trembling
 Over the blood of Israel, the treasured people, bleeding out like water?
 </div></td></tr>
@@ -226,13 +226,13 @@ YHVH El of retribution, appear! <span class="citation">(Psalms 94:1)</span>
 
 <hr />
 
-This kinah (elegy) appearing in <em><a href="http://hebrewbooks.org/24261">Sefer Kol Yaakov</a></em> (1658) by Yaakov Koppel ben Tsvi Margalit, was possibly written by an eyewitness survivor of the <a href="https://en.wikipedia.org/wiki/Khmelnytsky_Uprising#Jews">Chmielnicki massacres of 1648–1649</a>. Many thanks to Fred MacDowell for <a href="https://twitter.com/onthemainline/status/1098941009554300928">bringing this kinah to our attention</a>.
+This ḳinah (elegy) appearing in <em><a href="http://hebrewbooks.org/24261">Sefer Kol Yaakov</a></em> (1658) by Yaakov Koppel ben Tsvi Margalit, was possibly written by an eyewitness survivor of the <a href="https://en.wikipedia.org/wiki/Khmelnytsky_Uprising#Jews">Chmielnicki massacres of 1648–1649</a>. Many thanks to Fred MacDowell for <a href="https://twitter.com/onthemainline/status/1098941009554300928">bringing this ḳinah to our attention</a>.
 
 This English translation is the first and so far only translation we believe published for this kinah. It was made by the Open Siddur Project community by Aharon Varady, Emily Fishman, and Jacob Chatinover, who also provided much of the annotation, as well as other anonymous contributors. 
 
 <h3>Source(s)</h3>
 
-<span style="float: right;">[caption id="attachment_33024" align="alignleft" width="230"]<a href="https://opensiddur.org/wp-content/uploads/2019/02/title-from-Sefer-Kol-Yaakov-1658.png" rel="lightbox"><img src="https://opensiddur.org/wp-content/uploads/2019/02/title-from-Sefer-Kol-Yaakov-1658-230x300.png" alt="" width="230" height="300" class="size-medium wp-image-33024" /></a> title page from Sefer Kol Yaakov (1658)[/caption]</span> <span style="float: left;">[caption id="attachment_33025" align="alignnone" width="213"]<a href="https://opensiddur.org/wp-content/uploads/2019/02/kinah-from-Sefer-Kol-Yaakov-1658.png" rel="lightbox"><img src="https://opensiddur.org/wp-content/uploads/2019/02/kinah-from-Sefer-Kol-Yaakov-1658-213x300.png" alt="" width="213" height="300" class="size-medium wp-image-33025" /></a> kinah from Sefer Kol Yaakov (1658)[/caption]</span> <span style="float: left;">[caption id="attachment_24030" align="alignnone" width="225"]<a href="https://opensiddur.org/wp-content/uploads/2019/02/D0A5BMRXcAE7Wfm.jpg" rel="lightbox"><img src="https://opensiddur.org/wp-content/uploads/2019/02/D0A5BMRXcAE7Wfm-225x300.jpg" alt="" width="225" height="300" class="size-medium wp-image-24030" /></a> Kinah from Sefer Ḳol Yaaqov (1658)[/caption]</span>[su_spacer]
+<span style="float: right;">[caption id="attachment_33024" align="alignleft" width="230"]<a href="https://opensiddur.org/wp-content/uploads/2019/02/title-from-Sefer-Kol-Yaakov-1658.png" rel="lightbox"><img src="https://opensiddur.org/wp-content/uploads/2019/02/title-from-Sefer-Kol-Yaakov-1658-230x300.png" alt="" width="230" height="300" class="size-medium wp-image-33024" /></a> title page from Sefer Kol Yaakov (1658)[/caption]</span> <span style="float: left;">[caption id="attachment_33025" align="alignnone" width="213"]<a href="https://opensiddur.org/wp-content/uploads/2019/02/kinah-from-Sefer-Kol-Yaakov-1658.png" rel="lightbox"><img src="https://opensiddur.org/wp-content/uploads/2019/02/kinah-from-Sefer-Kol-Yaakov-1658-213x300.png" alt="" width="213" height="300" class="size-medium wp-image-33025" /></a> ḳinah from Sefer Kol Yaakov (1658)[/caption]</span> <span style="float: left;">[caption id="attachment_24030" align="alignnone" width="225"]<a href="https://opensiddur.org/wp-content/uploads/2019/02/D0A5BMRXcAE7Wfm.jpg" rel="lightbox"><img src="https://opensiddur.org/wp-content/uploads/2019/02/D0A5BMRXcAE7Wfm-225x300.jpg" alt="" width="225" height="300" class="size-medium wp-image-24030" /></a> ḳinah from Sefer Ḳol Yaaqov (1658)[/caption]</span>[su_spacer]
 
 &nbsp;
 </body>

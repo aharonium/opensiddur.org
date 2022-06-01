@@ -10,6 +10,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <style type="text/css" media="all">.printfriendly {display: none!important;}</style>
 
 <strong>DOWNLOAD:</strong> 
+
 <a href="https://archive.org/download/ParashatMiqetsTorahReadingWithEnglishTranstropilationLenFellman2018/Parashat%20Miqets%20Torah%20Reading%20%28Genesis%2041v1-44v17%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.pdf
 ">PDF</a> | <a href="https://archive.org/download/ParashatMiqetsTorahReadingWithEnglishTranstropilationLenFellman2018/Parashat%20Miqets%20Torah%20Reading%20%28Genesis%2041v1-44v17%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29%20-%20english%20only.odt">ODT</a> (sans Hebrew) 
 <a href="https://archive.org/download/ParashatMiqetsTorahReadingWithEnglishTranstropilationLenFellman2018/Parashat%20Miqets%20Torah%20Reading%20%28Genesis%2041v1-44v17%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29.pdf">PDF</a> | <a href="https://archive.org/download/ParashatMiqetsTorahReadingWithEnglishTranstropilationLenFellman2018/Parashat%20Miqets%20Torah%20Reading%20%28Genesis%2041v1-44v17%29%20in%20English%20transtropilation%20%28Len%20Fellman%202020%29.odt">ODT</a> (with Hebrew) 

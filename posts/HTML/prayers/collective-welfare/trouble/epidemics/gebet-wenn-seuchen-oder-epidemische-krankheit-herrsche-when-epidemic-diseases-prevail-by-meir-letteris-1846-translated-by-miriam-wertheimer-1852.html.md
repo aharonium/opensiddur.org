@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: Gebet wenn Seuchen oder epidemische Krankheiten herrsche | Prayer When Epidemic Diseases Prevail, a teḥinah in German by Meïr Letteris (1846)<br />
+Title: Gebet wenn Seuchen oder epidemische Krankheiten herrsche | Prayer When Epidemic Diseases Prevail, a teḥinah by Meïr Letteris (1846)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=41459">http://opensiddur.org/?p=41459</a>
 <p />

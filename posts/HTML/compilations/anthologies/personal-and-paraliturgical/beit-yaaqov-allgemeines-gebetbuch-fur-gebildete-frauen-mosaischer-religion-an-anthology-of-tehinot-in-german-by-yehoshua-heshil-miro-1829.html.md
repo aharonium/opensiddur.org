@@ -119,6 +119,39 @@ Desselben Inhalts, <a href="/?p=41670">Beim Einsegnen des Neumondes</a> (no.2)
 <a href="/?p=42627">Beim Schluß des Gottesdienstes in der Synagoge</a>
 <a href="/?p=42356">Die vier Erinnerungen</a>
 <a href="/?p=42368">An einem Fasttage</a>
+</div></td>
+
+<td style="vertical-align:top;">
+<div class="english" lang="en" style="text-align: left;">
+CONTENTS
+&nbsp;
+<a href="/?p=42473">On entering the prayer house</a> (no.1)
+<a href="/?p=42480">On entering the prayer house</a> (no.2)
+<a href="/?p=42490">General prayer</a>
+<a href="/?p=42497">Intercession</a>
+<a href="/?p=42508">For the first day of the week</a>
+<a href="/?p=42508">On the second day of the week</a>
+<a href="/?p=42516">On the third day of the week</a>
+<a href="/?p=42520">On the fourth day of the week</a>
+<a href="/?p=42526">On the fifth day of the week</a>
+<a href="/?p=42530">On the sixth day of the week</a>
+<a href="/?p=42535">For Shabbat</a> (no.1)
+<a href="/?p=42539">For Shabbat</a> (no.2)
+<a href="/?p=41657">When lighting</a>
+<a href="/?p=41522">When taking ḥallah</a> 
+<a href="/?p=42655">When taking the Torah scroll from the ark</a> (<em>brikh shmeih</em>)
+<a href="/?p=41665">When blessing the new moon</a> (no.1)
+<a href="/?p=41670">When blessing the new moon</a> (no.2)
+<a href="/?p=42611">When taking out the Torah scroll on the Shalosh Regalim </a>
+<a href="/?p=42621">When taking out the Torah scroll on [Rosh haShanah,] Yom Kippur[, and Hoshana Rabbah]</a>
+<a href="/?p=42627">At the end of the service in the synagogue</a>
+<a href="/?p=42356">The Four Remembrances</a>
+<a href="/?p=42368">On a Fast Day</a>
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;">
+<div class="german" lang="de" style="text-align: left;">
 <a href="/?p=42374">Am Osterfeste</a> (no.1)
 Desselben Inhalts, <a href="/?p=42380">Am Osterfeste</a> (no.2)
 <a href="/?p=42388">In der Sephira</a>
@@ -160,30 +193,6 @@ Desselben Inhalts, <a href="/?p=43291">Für den ersten Tag des Laubhüttenfestes
 
 <td style="vertical-align:top;">
 <div class="english" lang="en" style="text-align: left;">
-CONTENTS
-&nbsp;
-<a href="/?p=42473">On entering the prayer house</a> (no.1)
-<a href="/?p=42480">On entering the prayer house</a> (no.2)
-<a href="/?p=42490">General prayer</a>
-<a href="/?p=42497">Intercession</a>
-<a href="/?p=42508">For the first day of the week</a>
-<a href="/?p=42508">On the second day of the week</a>
-<a href="/?p=42516">On the third day of the week</a>
-<a href="/?p=42520">On the fourth day of the week</a>
-<a href="/?p=42526">On the fifth day of the week</a>
-<a href="/?p=42530">On the sixth day of the week</a>
-<a href="/?p=42535">For Shabbat</a> (no.1)
-<a href="/?p=42539">For Shabbat</a> (no.2)
-<a href="/?p=41657">When lighting</a>
-<a href="/?p=41522">When taking ḥallah</a> 
-<a href="/?p=42655">When taking the Torah scroll from the ark</a> (<em>brikh shmeih</em>)
-<a href="/?p=41665">When blessing the new moon</a> (no.1)
-<a href="/?p=41670">When blessing the new moon</a> (no.2)
-<a href="/?p=42611">When taking out the Torah scroll on the Shalosh Regalim </a>
-<a href="/?p=42621">When taking out the Torah scroll on [Rosh haShanah,] Yom Kippur[, and Hoshana Rabbah]</a>
-<a href="/?p=42627">At the end of the service in the synagogue</a>
-<a href="/?p=42356">The Four Remembrances</a>
-<a href="/?p=42368">On a Fast Day</a>
 <a href="/?p=42374">On the Spring festival of Pesaḥ</a> (no.1)
 <a href="/?p=42380">On the Spring festival of Pesaḥ</a> (no.2)
 <a href="/?p=42388">During the Sefirat haOmer</a>
@@ -228,32 +237,117 @@ CONTENTS
 <div class="german" lang="de" style="text-align: left;">
 <a href="/?p=42153">Gebet für eine schwangere Frau</a>
 <a href="/?p=42157">Zur Zeit der Niederkunft</a>
-Gebet einer Mutter b.d, Beschneidung ihres Sohnes
-Wenn eine Frau aus dem Wochenbette aufsteht
-Die dreizehn Glaubensartikel
-Morgens und Abends, nach allen Gebeten
-Gebet eines Menschen, der fich durch den Handel nährt
-Die zehn Gebote
-Morgen⸗ und Abendgebet
-desgleichen 
-Abendgebet, in Bezug auf das Vorige
-desgleichen
-Andachtsübung einer Mutter
-Andachtsübung über das Verhältniß ber Kinder zu ihren Eltern
-Andachtsübung einer betagten Frau
-Im Besitz des Reichthums
-Der Arme
-Andachtsübung einer Brautan ihrem Hochzeitstage[foot]missing in 1833 edition.[/foot]&nbsp;
-Gebet einer Braut vor der Trauung[foot]new for 1833 edition.[/foot]&nbsp;
-Gebet einer Mutter am Hochzeittage ihrer Tochter
-Gebct einer Stiesmutter
-Gebet einer Witwe
+<a href="/?p=44196">Gebet einer Mutter b.d, Beschneidung ihres Sohnes</a>
+<a href="/?p=44205">Wenn eine Frau aus dem Wochenbette aufsteht</a>
+</div></td>
+
+<td style="vertical-align:top;">
+<div class="english" lang="en" style="text-align: left;">
+<a href="/?p=42153">Prayer for a pregnant woman</a>
+<a href="/?p=42157">At the time of childbirth</a>
+<a href="/?p=44196">Prayer of a mother b.d, circumcision of her son</a>
+<a href="/?p=44205">When a woman rises from her confinement</a>
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;">
+<div class="german" lang="de" style="text-align: left;">
+<a href="/?p=44213">Die dreizehn Glaubensartikel</a>
+<a href="/?p=44222">Morgens und Abends, nach allen Gebeten</a>
+<a href="/?p=44229">Gebet eines Menschen, der fich durch den Handel nährt</a>
+<a href="/?p=44236">Die zehn Gebote</a>
+<a href="/?p=44246">Morgen⸗ und Abendgebet</a>
+desgleichen. [<a href="/?p=44256">Morgengebet №1</a>]&nbsp; 
+desgleichen. [<a href="/?p=44264">Morgengebet №2</a>]&nbsp;
+desgleichen. [<a href="/?p=44269">Morgengebet №3</a>]&nbsp;
+<a href="/?p=44279">Abend⸗gebet [№1]</a> 
+desgleichen. [<a href="/?p=44292">Abend⸗gebet №2</a>]&nbsp;
+desgleichen. [<a href="/?p=44298">Abend⸗gebet №3</a>]
+</div></td>
+
+<td style="vertical-align:top;">
+<div class="english" lang="en" style="text-align: left;">
+<a href="/?p=44213">The thirteen articles of faith</a>
+<a href="/?p=44222">Morning and evening, after all prayers</a>
+<a href="/?p=44229">Prayer of a person who feeds themself by trade</a>
+<a href="/?p=44236">The Ten Commandments</a>
+<a href="/?p=44246">Morning and evening prayer</a>
+[<a href="/?p=44256">Morning prayer №1</a>]&nbsp;
+[<a href="/?p=44264">Morning prayer №2</a>]&nbsp;
+[<a href="/?p=44269">Morning prayer №3</a>]&nbsp;
+<a href="/?p=44279">Evening prayer [№1]</a>
+[<a href="/?p=44292">Evening prayer №2</a>]&nbsp;
+[<a href="/?p=44298">Evening prayer №3</a>]
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;">
+<div class="german" lang="de" style="text-align: left;">
+<a href="/?p=44308">Andachtsübung einer Mutter</a>
+<a href="/?p=44349">Andachtsübung über das Verhältniß ber Kinder zu ihren Eltern</a>
+<a href="/?p=44535">Andachtsübung einer betagten Frau</a>
+<a href="/?p=44540">Im Besitz des Reichthums</a>
+<a href="/?p=44544">Der Arme</a>
+<a href="/?p=44558">Andachtsübung einer Brautan ihrem Hochzeitstage</a>
+<a href="/?p=44562">Gebet einer Braut vor der Trauung</a>[foot]new for 1833 edition.[/foot]&nbsp;
+<a href="/?p=44565">Gebet einer Mutter am Hochzeittage ihrer Tochter</a>
+<a href="/?p=44571">Gebet einer Stiefmutter</a>
+<a href="/?p=44576">Gebet einer Wittwe</a>
+Während der Schwangerschaft[foot]Only in the 1829 edition.[/foot]&nbsp;
+In den letzten Monaten der Schwangerschaft[foot]Only in the 1829 edition.[/foot]&nbsp;
+In gefährlichen Krankheiten[foot]Only in the 1829 edition.[/foot]
+</div></td>
+
+<td style="vertical-align:top;">
+<div class="english" lang="en" style="text-align: left;">
+<a href="/?p=44308">Devotional Exercise of a Mother</a>
+<a href="/?p=44349">Devotional Exercise on the Relationship of Children to their Parents</a>
+<a href="/?p=44535">Devotional exercise of an aged woman</a>
+<a href="/?p=44540">In possession of wealth</a>
+<a href="/?p=44544">The Pauper</a>
+<a href="/?p=44558">Devotional exercise of a bride on her wedding day</a>
+<a href="/?p=44562">Prayer of a bride before her wedding</a>
+<a href="/?p=44565">Prayer of a mother on the wedding day of her daughter</a>
+<a href="/?p=44571">Prayer of a stepmother</a>
+<a href="/?p=44576">Prayer of a widow</a>
+During pregnancy
+In the last stages of pregnancy
+In dangerous diseases
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;">
+<div class="german" lang="de" style="text-align: left;">
 Taschlich am ersten Tage des Neujahrsfestes (סדר תשליך)[foot]new for 1833 edition, where it is printed at the end.[/foot]&nbsp;
 Am Rüsttag zum Versöhnungstage (סדר כפרות)[foot]new for 1833 edition, where it is printed at the end.[/foot]&nbsp;
+</div></td>
+
+<td style="vertical-align:top;">
+<div class="english" lang="en" style="text-align: left;">
+Tashlikh on the first day of Rosh haShanah (Seder Tashlikh)
+On the preparation day for Yom Kippur (Seder Kaparot)
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;">
+<div class="german" lang="de" style="text-align: left;">
 Gebete für Leidende
 Beim Eintreten zu einem Kranken
 Sündenbekenntniß eines Kranken
 Für Kranke die dem Tode nahe sind
+</div></td>
+
+<td style="vertical-align:top;">
+<div class="english" lang="en" style="text-align: left;">
+Prayers for the suffering
+At the entrance to a sick person
+Confession of sins of a sick person
+For the sick who are close to death
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;">
+<div class="german" lang="de" style="text-align: left;">
 Die dreizehn Glaubensartikel nach Maimonides
 Adon Olam
 Metrische Uebersetzung desselben
@@ -261,34 +355,6 @@ Metrische Uebersetzung desselben
 
 <td style="vertical-align:top;">
 <div class="english" lang="en" style="text-align: left;">
-<a href="/?p=42153">Prayer for a pregnant woman</a>
-<a href="/?p=42157">At the time of childbirth</a>
-Prayer of a mother b.d, circumcision of her son
-When a woman rises from her confinement
-The thirteen articles of faith
-Morning and evening, after all prayers
-Prayer of a man who feeds himself by trade
-The ten commandments
-Morning and evening prayer
-likewise 
-Evening prayer, in relation to the previous one
-the same
-Devotional Exercise of a Mother
-Devotional Exercise on the Relationship of Children to their Parents
-Devotional exercise of an aged woman
-In possession of wealth
-The poor
-Devotional exercise of a bride on her wedding day
-Prayer of a bride before her wedding
-Prayer of a mother on the wedding day of her daughter
-Prayer of a mother
-Prayer of a widow
-Tashlikh on the first day of Rosh haShanah (Seder Tashlikh)
-On the preparation day for Yom Kippur (Seder Kaparot)
-Prayers for the suffering
-At the entrance to a sick person
-Confession of sins of a sick person
-For the sick who are close to death
 The thirteen articles of faith according to Maimonides
 Adon Olam
 Metrical translation of the same
@@ -335,9 +401,6 @@ Wenn man einen Leichenstein setzt
 An der Jahrzeit der Mutter wenn nan fastet
 Wenn man vom Begräbnißplatz geht
 Gebet am Tage vor Neujahr u. am Tage vor dem Versohnungsfeste
-Gebet um glückliche Erziehung der Kinder
-Schlußbetrachtung
-Anhang
 </div></td>
 
 <td style="vertical-align:top;">
@@ -380,7 +443,19 @@ When setting a funeral stone
 At the Yahrẓeit of one's mother while fasting
 When one leaves the burial place
 Prayer on the day before Rosh haShanah and Yom Kippur
-Prayer for happy upbringing of children
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;">
+<div class="german" lang="de" style="text-align: left;">
+<a href="/?p=44595">Gebet um glückliche Erziehung der Kinder</a>
+Schlußbetrachtung
+Anhang
+</div></td>
+
+<td style="vertical-align:top;">
+<div class="english" lang="en" style="text-align: left;">
+<a href="/?p=44595">Prayer for the joyful education of children</a>
 Final reflection
 Appendix
 </div></td></tr>

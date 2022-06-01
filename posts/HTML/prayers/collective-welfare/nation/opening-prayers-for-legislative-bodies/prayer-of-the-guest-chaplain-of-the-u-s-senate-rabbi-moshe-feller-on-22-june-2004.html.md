@@ -55,7 +55,7 @@ the command to govern by just laws.
 <div class="english" lang="en">
 As related in the book of Genesis 
 and its sacred commentaries, 
-You issued at that time the following seven laws:[foot]Sanhedrin 56a; cf. Tosefta Avodah Zarah 9:4 and Genesis Rabbah 34:8. Six items were commanded to Adam: concerning idolatry, blasphemy, bloodshed, illicit sexuality, theft, and laws…God added to Noah, the law of not eating from the flesh of a live animal.” (Mishneh Torah, Kings and Wars 9:1). The impetus behind sharing the sheva mitsvot in the context of ḤaBaD Lubavitch originates with the following teaching of Rabbi Menachem Mendel Schneerson: "We must do everything possible to ensure that the seven Noahide laws are observed. If this can be accomplished through force or through other kinder and more peaceful means through explaining to non-Jews that they should accept God’s wishes [we should do so]…Anyone who is able to influence a non-Jew in any way to keep the seven commandments is obligated to do so, since that is what God commanded Moses our teacher," (“Sheva Mitzvot Shel Benai Noach,” Hapardes 59:9 7-11, 5745).[/foot]&nbsp;
+You issued at that time the following seven laws:[foot]Sanhedrin 56a; cf. Tosefta Avodah Zarah 9:4 and Genesis Rabbah 34:8. The following litany of mitsvot follows the teaching of Maimonides: "Six items were commanded to Adam: concerning idolatry, blasphemy, bloodshed, illicit sexuality, theft, and laws…God added to Noah, the law of not eating from the flesh of a live animal.” (Mishneh Torah, Kings and Wars 9:1). For a full list of the mitsvot bnei Noaḥ, find "<a href="/?p=44362">The Seven Commandments for All Humanity (Bnei Noaḥ) in early Rabbinic sources</a>." The impetus behind sharing the sheva mitsvot in the context of ḤaBaD Lubavitch originates with the following teaching of Rabbi Menachem Mendel Schneerson: "We must do everything possible to ensure that the seven Noahide laws are observed. If this can be accomplished through force or through other kinder and more peaceful means through explaining to non-Jews that they should accept God’s wishes [we should do so]…Anyone who is able to influence a non-Jew in any way to keep the seven commandments is obligated to do so, since that is what God commanded Moses our teacher," (“Sheva Mitzvot Shel Benai Noach,” Hapardes 59:9 7-11, 5745).[/foot]&nbsp;
 
 <ol>
     <li>To worship You alone;</li>
@@ -66,9 +66,9 @@ You issued at that time the following seven laws:[foot]Sanhedrin 56a; cf. Toseft
   
     <li>Not to commit adultery, incest, or any sexual misdeeds;</li>
   
-    <li>Not to steal, lie, or cheat;</li>
-  
-    <li>Not to be cruel to any living creature; and</li>
+    <li>Not to steal, lie or cheat;[foot]A broad interpretation of <em>gezel</em>, taking without consent, i.e., theft.[/foot]</li>
+
+    <li>Not to be cruel to any living creature;[foot]A broad interpretation of <em>ever min hê-ḥai</em>, predatory behavior (literally, not [tearing] the limb of a living creature)[/foot] and</li>
   
     <li>That every society govern by just laws 
 based on the recognition and acknowledgment of You, O God, 

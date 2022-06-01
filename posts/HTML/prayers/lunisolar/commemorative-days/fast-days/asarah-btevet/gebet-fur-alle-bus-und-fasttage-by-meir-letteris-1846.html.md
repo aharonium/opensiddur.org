@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: Gebet für alle Buß- und Fasttage | Prayer on Every Penitential and Fast Day, a teḥinah in German by Meïr Letteris (1846)<br />
+Title: Gebet für alle Buß- und Fasttage | Prayer on Every Penitential and Fast Day, a teḥinah by Meïr Letteris (1846)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=41452">http://opensiddur.org/?p=41452</a>
 <p />

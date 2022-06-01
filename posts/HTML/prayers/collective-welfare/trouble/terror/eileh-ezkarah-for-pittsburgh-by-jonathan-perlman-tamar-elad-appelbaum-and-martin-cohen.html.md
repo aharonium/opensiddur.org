@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: אֵלֶּה אֶזְכְּרָה, נוּסַח פִּיטְסְבּוּרְג | Eileh Ezkarah for Pittsburgh, by Rabbi Jonathan Perlman with Rabbi Tamar Elad-Appelbaum & Rabbi Martin Cohen<br />
+Title: אֵלֶּה אֶזְכְּרָה, נוּסַח פִּיטְסְבּוּרְג | Eileh Ezkarah for Pittsburgh, by Rabbi Jonathan Perlman with Rabbi Tamar Elad-Appelbaum & Rabbi Martin Cohen (2019)<br />
 Primary contributor: jonathan.perlman<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=27343">http://opensiddur.org/?p=27343</a>
 <p />

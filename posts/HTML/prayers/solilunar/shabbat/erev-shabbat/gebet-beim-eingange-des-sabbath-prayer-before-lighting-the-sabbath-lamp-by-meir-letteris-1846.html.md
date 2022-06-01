@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: Gebet beim Eingange des Sabbath, vor dem Anzünden der Lichter Freitag Nachts | Prayer Before Lighting the Sabbath Lamp, a teḥinah in German by Meïr Letteris (1846)<br />
+Title: Gebet beim Eingange des Sabbath, vor dem Anzünden der Lichter Freitag Nachts | Prayer Before Lighting the Sabbath Lamp, a teḥinah by Meïr Letteris (1846)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=41518">http://opensiddur.org/?p=41518</a>
 <p />

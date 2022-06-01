@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: Exercise for the Anniversary of a Parent's Decease (יאָרצײַט), by Rabbi Morris Jacob Raphall (1852)<br />
+Title: Exercise for the Anniversary of a Parent's Decease (יאָרצײַט), translated by Rabbi Morris Jacob Raphall (1852)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=41337">http://opensiddur.org/?p=41337</a>
 <p />
@@ -135,11 +135,11 @@ and arise to a blissful and God-pleasing resurrection.
 
 <hr />
 
-"Exercise for the Anniversary of a Parent's Decease, (YahrZeit.)" appears on page 138-139 of רֻחָמָה (Ruḥamah): <em>Devotional Exercises for the Use of the Daughters of Israel</em> (1852) edited by Rabbi Morris Jacob Raphall (1798–1868) from selections made from the teḥinot anthologies in German of Meir Letteris (1800-1871), Max Emanuel Stern (1811-1873), and Yehoshua Heshil Mira. We are not certain from which of these compilations this particular tehinah was derived. If you know, please leave a comment or <a href="/contact/">contact us</a>.
+"Exercise for the Anniversary of a Parent's Decease, (YahrZeit.)" appears on page 138-139 of <a href="/?p=44135">רֻחָמָה (Ruḥamah): <em>Devotional Exercises for the Use of the Daughters of Israel</em></a> (1852) edited by Rabbi Morris Jacob Raphall (1798–1868) from selections made from the teḥinot anthologies in German of Meir Letteris (1800-1871), Max Emanuel Stern (1811-1873), and Yehoshua Heshil Miro. We are not certain from which of these compilations this particular tehinah was derived. If you know, please leave a comment or <a href="/contact/">contact us</a>.
 
 <h3>Source(s)</h3>
 
-[caption id="attachment_41338" align="alignnone" width="300"]<a href="https://opensiddur.org/wp-content/uploads/2021/12/exercise-for-the-anniversary-of-a-parents-decease-Morris-Jacob-Raphall-1852.png"><img src="https://opensiddur.org/wp-content/uploads/2021/12/exercise-for-the-anniversary-of-a-parents-decease-Morris-Jacob-Raphall-1852-300x229.png" alt="" width="300" height="229" class="size-medium wp-image-41338" /></a> Ruḥamah - Exercise for the anniversary of a parent's decease (Morris Jacob Raphall 1852) [/caption]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/ruhamah-devotional-exercises-for-the-use-of-the-daughters-of-israel-morris-jacob-raphall-1852/Ruhamah-%20Devotional%20Exercises%20for%20the%20Use%20of%20the%20Daughters%20of%20Israel%20%28trans.%20Morris%20Jacob%20Raphall%201852%29#page/138/mode/2up"]
 
 &nbsp;
 </body>
