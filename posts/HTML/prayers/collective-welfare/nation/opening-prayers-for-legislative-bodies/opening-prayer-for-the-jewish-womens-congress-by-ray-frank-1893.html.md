@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: The Opening Prayer of Ray Frank for the Jewish Women's Congress (World Parliament of Religion at the World's Columbian Exposition, 1893)<br />
+Title: Opening Prayer for the Jewish Women's Congress, by Ray Frank (World Parliament of Religion at the World's Columbian Exposition, 1893)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=41254">http://opensiddur.org/?p=41254</a>
 <p />
