@@ -114,8 +114,12 @@ which teaches that the blessed Holy One will return together with them from amon
 
 <h3>Source(s)</h3>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/lazarusemmapoem01lazarich#page/202/mode/2up"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/lazarusemmapoem01lazarich/lazarusemmapoem01lazarich#page/202/mode/2up"]
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/nybc205375#page/n14/mode/2up"]
+&nbsp;
+
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/nybc205375/nybc205375#page/n14/mode/2up"]
+
+&nbsp;
 </body>
 </html>

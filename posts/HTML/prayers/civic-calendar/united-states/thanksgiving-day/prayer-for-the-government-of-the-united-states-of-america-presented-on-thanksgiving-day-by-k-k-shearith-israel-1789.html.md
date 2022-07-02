@@ -49,18 +49,27 @@ The order of services included the recitation of special psalms for the day. The
 הַפּוֹצֶה אֶת דָּוִד עַבְדּוֹ מֵחֶרֶב רָעָה
 הַנּוֹתֵן בַּיַם דֶרֶךְ
 וּבְמַיִם עַזִּים נְתִיבָה
-הוּא יְבָרֵךְ וְיִשְׁמוֺר וְיַעֲזוֺר וִיגַדֵּל
-וִינַשֵּׂא לְמַֽעְלָה לְמַֽעְלָה
-</span></div></td>
+</div></td>
  
 <td style="vertical-align:top;">
 <div class="english" lang="en">
 May he that dispenseth salvation unto Kings, 
 and dominion unto princes; 
 whose kingdom is an everlasting kingdom; 
-that delivered his servant David from the destructive sword; 
-that maketh a way in the sea, 
-and a path through the mighty waters: 
+that delivered his servant David from the destructive sword;[foot]Find 1 Chronicles 21:15.[/foot]&nbsp; 
+that maketh a way in the sea,[foot]i.e., for the Israelites through the Sea of Reeds.[/foot]&nbsp; 
+and a path through the mighty waters:[foot]again, for the Israelites, through the River Jordan.[/foot]
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;">
+<div class="liturgy" lang="he">
+הוּא יְבָרֵךְ וְיִשְׁמוֺר וְיַעֲזוֺר וִיגַדֵּל
+וִינַשֵּׂא לְמַֽעְלָה לְמַֽעְלָה
+</div></td>
+ 
+<td style="vertical-align:top;">
+<div class="english" lang="en">
 Bless, preserve, guard, assist, 
 and supremely exalt to the highest degree, 
 the President and Vice-President of the Union, 

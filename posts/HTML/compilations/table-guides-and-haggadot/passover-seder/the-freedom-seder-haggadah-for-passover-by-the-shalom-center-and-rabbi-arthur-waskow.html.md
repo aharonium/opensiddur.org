@@ -14,7 +14,7 @@ Thanks to the Board of the <a href="http://www.nathancummings.org">Nathan Cummin
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.archive.org/stream/FreedomSederForTheEarthPassoverHaggadahTheShalomCenter2009#page/n0/mode/2up"]
 
 [xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">English</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;"><a href="/translate/" target="_blank" rel="noopener">Contribute a translation</a></th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
 <tr>
 <td style="vertical-align:top;">

@@ -7,9 +7,6 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
-[caption id="attachment_7032" align="aligncenter" width="1024"]<a href="https://opensiddur.org/wp-content/uploads/2013/05/1024px-Dimmitt_Tornado2_-_NOAA.jpg"><img src="https://opensiddur.org/wp-content/uploads/2013/05/1024px-Dimmitt_Tornado2_-_NOAA.jpg" alt="Project Vortex. The Dimmitt Tornado. Photographer: Harald Richter, Credit: NOAA Photo Library, NOAA Central Library; OAR/ERL/National Severe Storms Laboratory (NSSL), Public Domain." width="1024" height="665" class="size-full wp-image-7032" /></a> <a href="http://commons.wikimedia.org/wiki/File:Dimmitt_Tornado2_-_NOAA.jpg">Project Vortex. The Dimmitt Tornado.</a> Photographer: Harald Richter, Credit: NOAA Photo Library, NOAA Central Library; OAR/ERL/National Severe Storms Laboratory (NSSL), Public Domain.[/caption]
-
-From the Talmud Bavli, Tractate Berakhot 55b. Translation by Maurice Simon.
 
 [xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
@@ -186,5 +183,9 @@ and peace be to your house,
 and peace be unto all that you have.'[foot]1 Samuel 25:6[/foot]
 </div></td></tr>   
 </tbody></table>
+
+<hr />
+
+From the Talmud Bavli Berakhot 55b. English translation by Maurice Simon.
 </body>
 </html>

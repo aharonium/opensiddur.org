@@ -8,7 +8,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <hr />
 
 [xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;"><a href="https://opensiddur.org/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;"><a href="/translate/" target="_blank" rel="noopener">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
@@ -67,11 +67,17 @@ Amen.
 
 <hr />
 
-"Memorial Prayer (for those lost through human strife)" By Rabbi Alexander Goode, was included by Rabbi Morrison David Bial in his collection of supplemental prayers and texts for personal prayer and synagogue services: <em>An Offering of Prayer</em> (Temple Sinai of Summit, New Jersey, 1962). As Rabbi Bial notes, Rabbi Goode was one of the chaplains who died in the sinking of the SS Dorchester. The sinking of the Dorchester and the deaths of Rabbi Goode and the three other chaplains on board are remembered on February 3rd, Four Chaplain's Day. I have lightly modified the original text of this prayer, replacing Thee and Thy with 'you' and 'your' respectively. --Aharon Varady
+"Memorial Prayer (for those lost through human strife)" by Rabbi Alexander Goode, was shared by his wife Theresa Goode and published alongside other prayers of military leaders in the anthology, <em>The Prayer Book of the Armed Forces</em> (ed. Daniel A. Poling, 1951), p. 35. Rabbi Morrison David Bial added it to his collection of supplemental prayers and texts for personal prayer and synagogue services: <em>An Offering of Prayer</em> (Temple Sinai of Summit, New Jersey, 1962). As Rabbi Bial notes, Rabbi Goode was one of the four chaplains who died in the sinking of the SS Dorchester. The sinking of the Dorchester and the deaths of Rabbi Goode and his fellow chaplains are remembered on February 3rd, Four Chaplain's Day. I have lightly modified the original text of this prayer, replacing Thee and Thy with 'you' and 'your' respectively. --Aharon Varady
 
 
 <h3>Source(s)</h3>
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/AnOfferingOfPrayerBial1962#page/n57/mode/2up"]
+
+&nbsp;
+
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/the-armed-forces-prayer-book-daniel-a-poling-1951/The%20Armed%20Forces%20Prayer%20Book%20%28Daniel%20A.%20Poling%201951%29#page/34/mode/2up"]
+
+&nbsp;
 </body>
 </html>

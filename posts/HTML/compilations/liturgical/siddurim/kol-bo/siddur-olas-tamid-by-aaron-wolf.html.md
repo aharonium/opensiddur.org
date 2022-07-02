@@ -12,7 +12,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <strong>DOWNLOAD:</strong> 
 
 <a href="https://opensiddur.org/wp-content/uploads/2018/03/Siddur-Olas-Tamid-Aaron-Wolf-2018.pdf">PDF</a>
-Full XeLaTeX source code available at <a href="https://github.com/wolf-math/olastamid">github</a>.
+Full XeLaTeX source code available at <a href="https://github.com/ari1891adler/olastamid">github</a>.
 To purchase a print copy, please visit <a href="http://dimus.parrhesia.press/shop/siddurim/siddur-olas-tamid-compiled-by-aaron-wolf/">Dimus Parrhesia Press</a>.
 
 <hr />

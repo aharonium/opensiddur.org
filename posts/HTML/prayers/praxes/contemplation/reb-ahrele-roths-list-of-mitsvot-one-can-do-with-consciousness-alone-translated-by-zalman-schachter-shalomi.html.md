@@ -7,26 +7,20 @@ For attribution and license, please consult the following URL: <a href="http://o
 <p />
 <hr />
 
+<div class="english" style="font-size: 1.2em;">
+<blockquote>A good preparation and a bridge for the next phase of prayer, as you enter into the world of B’riyah,[foot]i.e., the Shaḥarit service beginning with the blessings prededing the Shema[/foot] is Reb Ahrele Roth’s list of Mitsvot One Can Do With Consciousness Alone. Reb Ahrele Roth, a"h, wrote a list of 32 mitsvot whose fulfillment is completed in the brain, the heart and the mouth. (The Hebrew alphabetical equivalent of 32 is ל"ב, the letters of which spell the Hebrew word LEV for Heart.) --Reb Zalman</blockquote>
+</div>
+
+<hr />
+
 [xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
 <thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
-
-</span></div></td>
- 
-<td style="vertical-align:top;">
-<div class="english" lang="en">
-<blockquote>A good preparation and a bridge for the next phase of prayer, as you enter into the world of B’riyah,[foot]i.e., the Shaḥarit service beginning with the blessings prededing the Shema[/foot] is Reb Ahrele Roth’s list of Mitsvot One Can Do With Consciousness Alone. Reb Ahrele Roth, a"h, wrote a list of 32 mitsvot whose fulfillment is completed in the brain, the heart and the mouth. (The Hebrew alphabetical equivalent of 32 is ל"ב, the letters of which spell the Hebrew word LEV for Heart.) --Reb Zalman</blockquote>
-</div></td></tr>
-
-
-<tr><td style="vertical-align:top;">
-<div class="liturgy" lang="he">
+&nbsp;
 הֲרֵינִי מְזַמֵּן אֶת פִּי וּמֹחִי וְלִבִּי 
-לְקַיֵּם מִצְוֺת 
-בּוֹרְאִי וְיוֹצְרִי 
-יִתְבָּרַךְ שְׁמוֹ, 
+לְקַיֵּם מִצְוֺת בּוֹרְאִי וְיוֹצְרִי יִתְבָּרַךְ שְׁמוֹ, 
 מֵהַמִּצְוֺת הַתְלֻיּוֹת בַּמֹּחַ בַּלֵּב וּבַפֶּה.
 </span></div></td>
  
@@ -431,11 +425,9 @@ Rabbi Zalman Schachter-Shalomi, z”l, included this derivation of Reb Aharon (A
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/SiddurTehillatHaShemYedaberPiWeekdaySiddur#page/n23/mode/2up"]
 
+<span style="float: right;">[caption id="attachment_21067" align="alignleft" width="178"]<a href="https://opensiddur.org/wp-content/uploads/2018/08/prelude-32-mitsvot-prayer-Ahrele-Roth-undated-from-Meimar-Avodah-Shebalev-Toldos-Aharon-Yeshiva.png"><img src="https://opensiddur.org/wp-content/uploads/2018/08/prelude-32-mitsvot-prayer-Ahrele-Roth-undated-from-Meimar-Avodah-Shebalev-Toldos-Aharon-Yeshiva-178x300.png" alt="" width="178" height="300" class="size-medium wp-image-21067" /></a> prelude - 32 mitsvot prayer (Ahrele Roth, undated from Meimar Avodah Shebalev, Toldos Aharon Yeshiva)[/caption]</span> <span style="float: left;">[caption id="attachment_21055" align="alignnone" width="192"]<a href="https://opensiddur.org/wp-content/uploads/2018/08/32-mitsvot-prayer-Ahrele-Roth-undated-from-Meimar-Avodah-Shebalev-Toldos-Aharon-Yeshiva.png"><img src="https://opensiddur.org/wp-content/uploads/2018/08/32-mitsvot-prayer-Ahrele-Roth-undated-from-Meimar-Avodah-Shebalev-Toldos-Aharon-Yeshiva-192x300.png" alt="" width="192" height="300" class="size-medium wp-image-21055" /></a> 32 mitsvot prayer (Ahrele Roth, undated from Meimar Avodah Shebalev, Toldos Aharon Yeshiva)[/caption]</span>[su_spacer]
+
 [gview file="https://opensiddur.org/wp-content/uploads/2018/08/32-mitsvot-one-can-do-in-ones-consciousness-alone-Reb-Ahrele-Roth-undated-from-Siddur-Netiv-Avodat-Tefillah-vol.2-.pdf"]
-
-<a href="https://opensiddur.org/wp-content/uploads/2018/08/prelude-32-mitsvot-prayer-Ahrele-Roth-undated-from-Meimar-Avodah-Shebalev-Toldos-Aharon-Yeshiva.png"><img src="https://opensiddur.org/wp-content/uploads/2018/08/prelude-32-mitsvot-prayer-Ahrele-Roth-undated-from-Meimar-Avodah-Shebalev-Toldos-Aharon-Yeshiva.png" alt="" width="719" height="1214" class="aligncenter size-full wp-image-21067" /></a>
-
-<a href="https://opensiddur.org/wp-content/uploads/2018/08/32-mitsvot-prayer-Ahrele-Roth-undated-from-Meimar-Avodah-Shebalev-Toldos-Aharon-Yeshiva.png"><img src="https://opensiddur.org/wp-content/uploads/2018/08/32-mitsvot-prayer-Ahrele-Roth-undated-from-Meimar-Avodah-Shebalev-Toldos-Aharon-Yeshiva.png" alt="" width="712" height="1110" class="aligncenter size-full wp-image-21055" /></a>
 
 </body>
 </html>

@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: תפילת תפילת הודיה לחברה למניעת אכזריות לילדים | Prayer of Thanksgiving for the National Society for the Prevention of Cruelty to Children (1954)<br />
+Title: תפילת הודיה לחברה למניעת אכזריות לילדים | Prayer of Thanksgiving for the National Society for the Prevention of Cruelty to Children (1954)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=23197">http://opensiddur.org/?p=23197</a>
 <p />

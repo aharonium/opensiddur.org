@@ -25,9 +25,9 @@ For attribution and license, please consult the following URL: <a href="http://o
 He who dispenses deliverance unto kings 
 and dominion unto princes, 
 whose kingdom is an everlasting kingdom, 
-who delivered His servant David from the destructive sword, 
-who makes a way in the sea 
-and a path in the mighty waters, 
+who delivered His servant David from the destructive sword,[foot]Find 1 Chronicles 21:15.[/foot]&nbsp; 
+who makes a way in the sea[foot]i.e., for the Israelites through the Sea of Reeds.[/foot]&nbsp; 
+and a path in the mighty waters,[foot]again, for the Israelites, through the River Jordan.[/foot] 
 </div></td></tr>
 
 

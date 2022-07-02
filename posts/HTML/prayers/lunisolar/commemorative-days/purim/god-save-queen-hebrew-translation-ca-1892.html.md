@@ -114,7 +114,7 @@ El save the Queen.
 
 <hr />
 
-"God Save the Queen" is an adaptation of "God Save the King," a work by an unknown author, first circulated by periodicals in mid-18th century England. This Hebrew translation was published in a pamphlet circulated by New Road (Whitechapel) Synagogue in 1892 "on the 73rd Birthday of Her Majesty Queen Victoria,” an event attended by then Chief Rabbi of the British Empire, Rabbi Dr. <a href="https://en.wikipedia.org/wiki/Hermann_Adler">Hermann Adler</a>​. We are grateful to the <a href="http://www.jewisheastend.com/nationalanthem.html">Jewish East End of London</a>website for providing the source image. I have Hebraized divine names in the source text to better reflect the Hebrew translation. --Aharon Varady
+"God Save the Queen" is an adaptation of "God Save the King," a work by an unknown author, first circulated by periodicals in mid-18th century England. This Hebrew translation was published in a pamphlet circulated by New Road (Whitechapel) Synagogue in 1892 "on the 73rd Birthday of Her Majesty Queen Victoria,” an event attended by then chief rabbi of the British Empire, Rabbi Dr. <a href="https://en.wikipedia.org/wiki/Hermann_Adler">Hermann Adler</a>​. We are grateful to the <a href="http://www.jewisheastend.com/nationalanthem.html">Jewish East End of London</a> website for providing the source image. I have Hebraized divine names in the source text to better reflect the Hebrew translation. --Aharon Varady
 
 <h3>Source(s)</h3>
 

@@ -20,7 +20,7 @@ A print copy of this Tu Bishvat Seder haggadah may be purchased directly from <a
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/ANewYearForTheTreesATuBishvatSederEllenBernstein2017#page/n0/mode/2up"]
 
 [xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;"><a href="https://opensiddur.org/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;"><a href="/translate/" target="_blank" rel="noopener">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">

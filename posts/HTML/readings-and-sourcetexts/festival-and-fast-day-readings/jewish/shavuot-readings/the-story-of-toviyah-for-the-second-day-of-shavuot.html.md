@@ -54,7 +54,7 @@ https://archive.org/download/MegilatTuviyahMetuamIsaacGantwerkMayer2018/Megilat%
  
 <td style="vertical-align:top;" width="48%">
 <div class="english" lang="en">
-"You shall surely tithe all the increase of your seed, that which comes forth of the field year by year. And you shall eat before  YHVH your <em>elo'ah</em>, in the place which he shall choose to cause his name to dwell there, the tithe of your grain, of your wine, and of thine oil, and the firstlings of your herd and of your flock; that you may learn to fear YHVH your <em>elo'ah</em> always" (Deuteronomy 14:22-23). Our sages say: “You shall surely tithe” (Asser t'asser), which means: tithe in order that you become rich, and tithe surely, in order that you have no wants. This is an indication to those that travel on the high seas to give the tenth to those that are engaged in the study of the law. If you tithe then it is your grain, but if not, it is my grain, as it is said (Hosea 2:11), “therefore will I take back my grain in its due time.” If you are worthy, it is your wine, but if not, it is mine. R' Levi said: (Prov. 28:22) “He that has an evil eye chases after riches, and knows not that want shall come upon him,” this verse applies to the man who does not bring out his tithes in a proper manner. For R' Levi said: "It happened once (a story is told) of a man who brought out his tithes in a proper manner (etc.), therefore Mosheh warned the Yisraelim to tithe surely."
+"You shall surely tithe all the increase of your seed, that which comes forth of the field year by year. And you shall eat before  YHVH your <em>elo'ah</em>, in the place which he shall choose to cause his name to dwell there, the tithe of your grain, of your wine, and of thine oil, and the firstlings of your herd and of your flock; that you may learn to fear YHVH your <em>elo'ah</em> always" <span class="citation">(Deuteronomy 14:22-23)</span>. Our sages say: “You shall surely tithe” (Asser t'asser), which means: tithe in order that you become rich, and tithe surely, in order that you have no wants. This is an indication to those that travel on the high seas to give the tenth to those that are engaged in the study of the law. If you tithe then it is your grain, but if not, it is my grain, as it is said <span class="citation">(Hosea 2:11)</span>, “therefore will I take back my grain in its due time.” If you are worthy, it is your wine, but if not, it is mine. R' Levi said: <span class="citation">(Prov. 28:22)</span> “He that has an evil eye chases after riches, and knows not that want shall come upon him,” this verse applies to the man who does not bring out his tithes in a proper manner. For R' Levi said: "It happened once (a story is told) of a man who brought out his tithes in a proper manner (etc.), therefore Mosheh warned the Yisraelim to tithe surely."
 </div></td></tr>
 
 
@@ -102,7 +102,7 @@ And after the death of the king Shalmanesser, his son Sennacherib reigned in his
  
 <td style="vertical-align:top;" width="48%">
 <div class="english" lang="en">
-2. When the festival of Shavuot came, his wife prepared a plentiful meal, and as he sat at the table, he said to his son Toḇiyah: "Go, and bring to me some of our poor brethren, such as fear Elohim, to eat with us." Then Toḇiyah went and found a man slain, cast out in the street, and he told his father. What did his father do? He rose from the table and he went with him, and he took him from the street of the city, and brought him into a house until the going down of the sun, that he might be able to bury him. And he turned to his house and ate his bread in mourning. And he said: "Woe that on us is fulfilled, 'and I will turn your feasts and your songs into mourning' (Cf. Amos 8:10).” 
+2. When the festival of Shavuot came, his wife prepared a plentiful meal, and as he sat at the table, he said to his son Toḇiyah: "Go, and bring to me some of our poor brethren, such as fear Elohim, to eat with us." Then Toḇiyah went and found a man slain, cast out in the street, and he told his father. What did his father do? He rose from the table and he went with him, and he took him from the street of the city, and brought him into a house until the going down of the sun, that he might be able to bury him. And he turned to his house and ate his bread in mourning. And he said: "Woe that on us is fulfilled, 'and I will turn your feasts and your songs into mourning' <span class="citation">(Cf. Amos 8:10)</span>.” 
 </div></td></tr>
 
 
@@ -134,7 +134,7 @@ And he wept very sore. And when the sun went down he went and buried him. And he
  
 <td style="vertical-align:top;" width="48%">
 <div class="english" lang="en">
-After many days Ḥannah his wife did work for women, and they gave her a young goat for her wages. And Toḇi heard the kid bleating in the house, and he asked her: "From where did you get this kid? Have you stolen it perhaps?" And his wife Ḥannah said: "They have given it to me as the wages of the work of mine hands; I have not stolen it!" But Toḇi did not believe her, and they quarrelled concerning the kid. Ḥannah said to Toḇi: "Where is your goodness and your merits? Hence your worthlessness is manifest to all!"
+After many days Ḥannah his wife did work for women, and they gave her a young goat for her wages. And Toḇi heard the kid bleating in the house, and he asked her: "From where did you get this kid? Have you stolen it perhaps?" And his wife Ḥannah said: "They have given it to me as the wages of the work of mine hands; I have not stolen it!" But Toḇi did not believe her, and they quarreled concerning the kid. Ḥannah said to Toḇi: "Where is your goodness and your merits? Hence your worthlessness is manifest to all!"
 </div></td></tr>
 
 
@@ -230,7 +230,7 @@ Our sages say that on that day, the blessed Holy One accepted (both) their praye
  
 <td style="vertical-align:top;" width="48%">
 <div class="english" lang="en">
-5. And Toḇiyah answered his father: "All that you have commanded me I will do: but how can I take the money from the hand of Gaḇael, who knows me not, and I know not him? His father said to him: "Take this ring, which he has given me, and I have given him my ring. And now, my son, seek you a trusty man, who may go with you, and I will give him his wages. So Toḇiyah went immediately to seek for a man who might go with him, and he found the angel Raphael standing by. But he did not recognise him that he was an angel of YHVH. He asked him: "From where are you?" He answered him, "From the Children of Yisrael." He said to him: "Know you how to go to Madai?" And he said: "Yes." Toḇiyah said to him: "Tarry a little for my sake, and I will tell my father." Toḇiyah went and told his father. He said to him: "Call him." And he said to him: "My son Toḇiyah desires to go to Madai; are you willing to go with him?" He said to him: "Yes!" And Toḇi called his son immediately, and said to him: "Prepare yourself, and go with this man, and may the Elo'ah of Heaven prosper your way and bring you back in peace.
+5. And Toḇiyah answered his father: "All that you have commanded me I will do: but how can I take the money from the hand of Gaḇael, who knows me not, and I know not him? His father said to him: "Take this ring, which he has given me, and I have given him my ring. And now, my son, seek you a trusty man, who may go with you, and I will give him his wages. So Toḇiyah went immediately to seek for a man who might go with him, and he found the angel Raphael standing by. But he did not recognize him that he was an angel of YHVH. He asked him: "From where are you?" He answered him, "From the Children of Yisrael." He said to him: "Know you how to go to Madai?" And he said: "Yes." Toḇiyah said to him: "Tarry a little for my sake, and I will tell my father." Toḇiyah went and told his father. He said to him: "Call him." And he said to him: "My son Toḇiyah desires to go to Madai; are you willing to go with him?" He said to him: "Yes!" And Toḇi called his son immediately, and said to him: "Prepare yourself, and go with this man, and may the Elo'ah of Heaven prosper your way and bring you back in peace.
 </div></td></tr>
 
 
@@ -322,5 +322,7 @@ In after days Elohim blessed Toḇiyah also, because he fulfilled the command of
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/TwoUnknownHebrewVersionsOfTobitMosesGaster1897#page/n51/mode/2up"]
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/TwoUnknownHebrewVersionsOfTobitMosesGaster1897#page/n39/mode/2up"]
+
+&nbsp;
 </body>
 </html>

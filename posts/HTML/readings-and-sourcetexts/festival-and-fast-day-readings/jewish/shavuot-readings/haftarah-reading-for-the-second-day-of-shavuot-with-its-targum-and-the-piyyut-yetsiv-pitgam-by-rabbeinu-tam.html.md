@@ -20,7 +20,7 @@ Note: “The CAUSE” is used to translate the Divine Name YHVH, based on the ph
 <hr />
 
 [xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th><th style="text-align: left;">Targum Yonatan (Aramaic)</th><th style="text-align: right;">Aramaic Translation (English)</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th><th style="text-align: right;">Targum Yonatan (Aramaic)</th><th style="text-align: right;">Aramaic Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">

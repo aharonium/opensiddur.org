@@ -8,7 +8,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <hr />
 
 [xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;"><a href="/contribute/upload/">Contribute a Translation</a></th><th style="text-align: left;">English</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;"><a href="/translate/" target="_blank" rel="noopener">Contribute a translation</a></th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">
@@ -143,5 +143,7 @@ Alternating stanzas of the poem are italicized to facilitate reading the poem as
 To those for whom it is meaningful, I wish a Shabbat shalom, a Shabbat of peace and healing.
 
 [This prayer was first published on Rabbi Barenblat's blog, Velveteen Rabbi, <a href="http://velveteenrabbi.blogs.com/blog/2013/04/prayer-after-the-bombing.html">here</a>.]
+
+&nbsp;
 </body>
 </html>

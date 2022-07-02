@@ -11,7 +11,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 Ever since I was young, I’ve been uncomfortable with the notion of the 10 Days of Repentance in terms of how it presents itself in the liturgy. I’m not comfortable with the idea of being inscribed in a Book of Life in the coming year, and what’s implied if someone is not. I’m equally uncomfortable with believing that at some point during these holidays, a metaphorical door has closed on me and my chance to repent and make good for the coming year. Some years ago, I decided to re-engage with this time through a personal writing activity. As far as I’m concerned, it’s not nearly as scary as a divine judge deciding whether you’ll make it through the coming year. Anyways, here’s how it goes:
 
 [xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;"><a href="/translate/" target="_blank" rel="noopener">Contribute a translation</a></th><th style="text-align: left;">Source (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">

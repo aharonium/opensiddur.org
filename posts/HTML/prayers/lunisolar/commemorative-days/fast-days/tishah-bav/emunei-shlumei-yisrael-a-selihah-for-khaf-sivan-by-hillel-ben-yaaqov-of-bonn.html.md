@@ -532,6 +532,10 @@ And the saved of the CAUSE will dwell and come to Ṣion in cheer. <span class="
 
 Transcriptions of this seliḥah were made on <a href="https://he.wikisource.org/wiki/סליחות_לכ%27_סיון/אמוני_שלומי_ישראל">Hebrew Wikisource</a> in 2009. Sefaria also has a <a href="https://www.sefaria.org/Siddur_Sefard%2C_Fast_Days%2C_Selichot_for_20_Sivan.31?lang=bi&with=all&lang2=en">digital edition</a> derived from text imported from Torat Emet Freeware. For a printed source, Abe Katz directed us to the Siddur <em><a href="https://hebrewbooks.org/57996">Otsar haTefilot</a></em> (undated, printed in Israel). If you have a better reference or higher quality page images for this seliḥah, please <a href="/contact/">contact us</a>.
 
+<h3>Recordings</h3>
+
+https://www.youtube.com/watch?v=bicCE136Xzc
+
 <h3>Source(s)</h3>
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/siddur-otsar-hatefilot-vol-2/Siddur%20Otsar%20haTefilot%20vol.2#page/n536/mode/2up"]

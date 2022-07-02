@@ -32,7 +32,7 @@ Everyone’s attention is fixed as the <em>dreidel</em> begins to spin. The grow
 <hr />
 
 [xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;"><a href="/contribute/upload/">Contribute a Translation</a></th><th style="text-align: left;">English</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;"><a href="/translate/" target="_blank" rel="noopener">Contribute a translation</a></th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he" style="text-align: right;">

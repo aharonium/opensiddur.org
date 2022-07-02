@@ -2,17 +2,18 @@
 <head></head>
 <body>
 Title: ברכה לילדים | Blessing for Children [at the Onset of the School Year] (Siddur Tefilat ha-Adam, Israeli Reform Movement 2020)<br />
-Primary contributor: alona.lisitsa<br />
+Primary contributor: louis.polisson<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=33426">http://opensiddur.org/?p=33426</a>
 <p />
 <hr />
 
 [xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;"><a href="/contributing/upload/">Contribute a translation</a></th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;">Source (Hebrew)</th><th style="text-align: left;">Translation (English)</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">
-מִי שֶׁחוֹנֵן לְאָדָם דַּעַת וּמְלַמֵּד לֶאֱנוֹשׁ בִּינָה
+מִי שֶׁחוֹנֵן לְאָדָם דַּעַת 
+וּמְלַמֵּד לֶאֱנוֹשׁ בִּינָה
 הוּא יִתֵּן בְּלִבְּכֶם חָכְמָה תְּבוּנָה וְדֵעָה.
 יִפְקַח אֶת עֵינֵיכֶם לְגִלּוּי חָדָשׁ בְּכׇל יוֹם,
 לְיָפְיוֹ שֶׁל עוֹלָם,
@@ -23,7 +24,14 @@ For attribution and license, please consult the following URL: <a href="http://o
  
 <td style="vertical-align:top;">
 <div class="english" lang="en">
-
+May the One who grants knowledge to humans 
+and teaches understanding to people 
+to place in their hearts wisdom, intelligence, and knowledge.
+May the One open your eyes to a new revelation each day, 
+to the beauty of the world, 
+to the power of creation, 
+to the beating of the heart, 
+and to the potential of lovingkindness.
 </div></td></tr>
 
 
@@ -36,7 +44,9 @@ For attribution and license, please consult the following URL: <a href="http://o
  
 <td style="vertical-align:top;">
 <div class="english" lang="en">
-
+May YHVH bless them and protect them
+May YHVH shine Their face towards them and be gracious to them
+May YHVH lift Their face towards them and grant them peace.
 </div></td></tr>
 
 
@@ -44,20 +54,26 @@ For attribution and license, please consult the following URL: <a href="http://o
 <div class="liturgy" lang="he">
 הַמַּלְאָךְ הַגֹּאֵל אֹתִי מִכׇּל רָע
 יְבָרֵךְ אֶת הַנְּעָרִים וְהַנְּעָרוֹת
-וְיִקָּרֵא בָהֶם שְׁמִי וְשֵׁם אֲבֹתַי וְאִמּוֹתַי
+וְיִקָּרֵא בָהֶם שְׁמִי 
+וְשֵׁם אֲבֹתַי וְאִמּוֹתַי
 אַבְרָהָם וְשָׂרָה יִצְחָק וְרִבְקָה
 וְיִדְגּוּ לָרֹב בְּקֶרֶב הָאָרֶץ׃
 </span></div></td>
  
 <td style="vertical-align:top;">
 <div class="english" lang="en">
-
+May the angel who redeemed me from all evil
+Bless the young people
+And may my name be recalled in them, 
+and the name of my ancestors
+Avraham and Sarah, Yitsḥaq and Rivqah
+And may they grow into a multitude throughout the earth.
 </div></td></tr>
 </tbody></table>
 
 <hr />
 
-"ברכה לילדים" appears on p. 400-401 of <a href="https://www.facebook.com/תפילת-האדם-סידור-רפורמי-ישראלי-101214578258569">תפילת האדם, סידור רפורמי ישראלי</a> (2020), the Israeli Reform Movement siddur edited by Rabbi Alona Lisitsa (Ph.D.) and Rabbi Dr. Dalia Marx. This unattributed prayer was shared by Rabbi Lisitsa via the <a href="https://www.facebook.com/groups/opensiddur/permalink/10157940070937746/">Open Siddur Project Discussion Group</a> on Facebook.
+"ברכה לילדים" appears on p. 400-401 of <a href="https://www.facebook.com/תפילת-האדם-סידור-רפורמי-ישראלי-101214578258569">תפילת האדם, סידור רפורמי ישראלי</a> (2020), the Israeli Reform Movement siddur edited by Rabbi Alona Lisitsa (Ph.D.) and Rabbi Dr. Dalia Marx. This unattributed prayer was shared by Rabbi Lisitsa via the <a href="https://www.facebook.com/groups/opensiddur/permalink/10157940070937746/">Open Siddur Project Discussion Group</a> on Facebook. English translation by Rabbi Louis Pollison. (Thank you!)
 
 <h3>Source(s)</h3>
 

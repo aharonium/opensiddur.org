@@ -19,8 +19,6 @@ Example (Psalms 100):
 Example (Psalms 146):
 [su_audio url="https://archive.org/download/NewTropeForPsalmsIsaacGantwerkMayer2018/New%20Trope%20for%20Psalms%20example%20%28Psalms%20146%29%20-%20Isaac%20Gantwerk%20Mayer%2C%202018.mp3" width="60%"]
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/NewTropeForPsalmsIsaacGantwerkMayer2018#page/n0/mode/2up"]
-
 Page 1:
 [su_audio url="https://archive.org/download/NewTropeForPsalmsIsaacGantwerkMayer2018/New%20Trope%20for%20Psalms%20PDF%20%5Bpage%201%5D%20-%20Isaac%20Gantwerk%20Mayer%2C%202018.mp3" width="60%"]
 

@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.0" created="2022-06-01 05:21" -->
+	<!-- generator="WordPress/6.0" created="2022-07-02 20:39" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>the Open Siddur Project ✍ פְּרוֺיֶּקט הַסִּדּוּר הַפָּתוּחַ</title>
 	<link>https://opensiddur.org</link>
 	<description>an open-source, community contributed archive for those sharing prayers and crafting their own prayerbooks</description>
-	<pubDate>Wed, 01 Jun 2022 05:21:10 +0000</pubDate>
+	<pubDate>Sat, 02 Jul 2022 20:39:15 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://opensiddur.org</wp:base_site_url>
@@ -124,7 +124,7 @@ The Open Siddur Project is committed to the following principles and movements w
 		<wp:post_name><![CDATA[mission]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>316</wp:post_parent>
-		<wp:menu_order>31</wp:menu_order>
+		<wp:menu_order>32</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -290,7 +290,7 @@ Initially, development of the Open Siddur focused primarily on building core pro
 		<wp:post_name><![CDATA[history]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>316</wp:post_parent>
-		<wp:menu_order>45</wp:menu_order>
+		<wp:menu_order>46</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -367,7 +367,7 @@ Initially, development of the Open Siddur focused primarily on building core pro
 
 1) Polite feedback and corrections are <strong>always</strong> welcome. 
 2) If your correspondence concerns a particular webpage or resource, don't forget to provide a URL (link) to the material as a helpful reference for us.
-3) <strong>Note:</strong> If you have a support related question, then <strong>reciprocate</strong> by first <a href="/contributing/donations/">making a donation</a> to support and sustain our project.
+3) <strong>Note:</strong> If you have a support related question, then <strong>reciprocate</strong> by <a href="/contributing/donations/">making a donation</a> to support and sustain this project.
 
 [contact-form-7 id="3882" title="Default Contact form"]
 
@@ -377,14 +377,14 @@ If you'd like to connect with us over social media, join our discussion group on
 		<wp:post_id>76</wp:post_id>
 		<wp:post_date><![CDATA[2009-06-28 15:54:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2009-06-28 23:54:11]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-12-12 11:12:12]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-12-12 20:12:12]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-06-11 12:13:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-06-11 20:13:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>62</wp:menu_order>
+		<wp:menu_order>63</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -399,7 +399,7 @@ If you'd like to connect with us over social media, join our discussion group on
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[ao_post_optimize]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";s:15:"ao_post_preload";s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[sharing_disabled]]></wp:meta_key>
@@ -439,7 +439,7 @@ If you'd like to connect with us over social media, join our discussion group on
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[                         ]]></wp:meta_value>
+		<wp:meta_value><![CDATA[                          ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header_hide]]></wp:meta_key>
@@ -481,7 +481,7 @@ If you'd like to connect with us over social media, join our discussion group on
 		<wp:post_name><![CDATA[contributing]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>23</wp:menu_order>
+		<wp:menu_order>24</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -562,7 +562,7 @@ If you'd like to connect with us over social media, join our discussion group on
 		<wp:post_name><![CDATA[development]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>17414</wp:post_parent>
-		<wp:menu_order>26</wp:menu_order>
+		<wp:menu_order>27</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -805,7 +805,7 @@ Rosh Ḥodesh
 		<wp:post_name><![CDATA[faq]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>316</wp:post_parent>
-		<wp:menu_order>49</wp:menu_order>
+		<wp:menu_order>50</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -949,7 +949,7 @@ If you are the creator or copyright steward of a work under copyright, you are i
 		<wp:post_name><![CDATA[upload]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>281</wp:post_parent>
-		<wp:menu_order>25</wp:menu_order>
+		<wp:menu_order>26</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1017,7 +1017,7 @@ If you are the creator or copyright steward of a work under copyright, you are i
 							</item>
 					<item>
 		<title><![CDATA[Choosing a libre/open Content License for sharing your work]]></title>
-		<link>https://opensiddur.org/contributing/a-decision-tree-for-choosing-freelibre-licenses-for-cultural-and-technological-work/</link>
+		<link>https://opensiddur.org/contributing/decision-tree-for-choosing-freelibre-licenses-for-cultural-and-technological-work/</link>
 		<pubDate>Fri, 14 Jan 2011 01:05:05 +0000</pubDate>
 		<dc:creator><![CDATA[aharon-nissn.varady]]></dc:creator>
 		<guid isPermaLink="false">http://opensiddur.org/?p=2315</guid>
@@ -1088,10 +1088,10 @@ SHARE WHAT YOU LOVE ♡ -- A Decision Tree for Choosing Free-Culture Compatible 
 		<wp:post_modified_gmt><![CDATA[2018-08-26 19:47:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[a-decision-tree-for-choosing-freelibre-licenses-for-cultural-and-technological-work]]></wp:post_name>
+		<wp:post_name><![CDATA[decision-tree-for-choosing-freelibre-licenses-for-cultural-and-technological-work]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>281</wp:post_parent>
-		<wp:menu_order>40</wp:menu_order>
+		<wp:menu_order>41</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1195,10 +1195,6 @@ SHARE WHAT YOU LOVE ♡ -- A Decision Tree for Choosing Free-Culture Compatible 
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[open_content_license]]></wp:meta_key>
 		<wp:meta_value><![CDATA[<a href='https://creativecommons.org/licenses/by-sa/4.0/'>Creative Commons Attribution-ShareAlike (CC BY-SA) 4.0 International</a> copyleft license]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[custom_solicitation]]></wp:meta_key>
-		<wp:meta_value><![CDATA[☁]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1414,7 +1410,7 @@ The <a href="http://tanach.us/">Westminster Leningrad Codex</a>: digital edition
 		<wp:post_name><![CDATA[recommended-links]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>56</wp:menu_order>
+		<wp:menu_order>57</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1547,7 +1543,7 @@ The source code for this romanizing transliterator is open source, LGPL licensed
 		<wp:post_name><![CDATA[transliterate]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>52</wp:menu_order>
+		<wp:menu_order>53</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3306,7 +3302,7 @@ If you or your company designed a Hebrew font which you never updated to Unicode
 		<wp:post_name><![CDATA[fonts]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>53</wp:menu_order>
+		<wp:menu_order>54</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3411,7 +3407,7 @@ If you or your company designed a Hebrew font which you never updated to Unicode
 		<wp:post_name><![CDATA[help]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>39</wp:menu_order>
+		<wp:menu_order>40</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3568,7 +3564,7 @@ Another OCR project to keep an eye on is that of <a href="https://github.com/uri
 		<wp:post_name><![CDATA[transcribe]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>48</wp:menu_order>
+		<wp:menu_order>49</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3741,7 +3737,7 @@ Press "Layout options"</li>
 		<wp:post_name><![CDATA[typing]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>38</wp:menu_order>
+		<wp:menu_order>39</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3957,7 +3953,7 @@ For a <strong>Keyboard Shortcut</strong> to change the language orientation to 
 		<wp:post_name><![CDATA[editing-layout]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>50</wp:menu_order>
+		<wp:menu_order>51</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -4078,7 +4074,7 @@ We maintain physical, electronic and procedural safeguards intended to protect a
 		<wp:post_name><![CDATA[privacy-policy]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>11058</wp:post_parent>
-		<wp:menu_order>37</wp:menu_order>
+		<wp:menu_order>38</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -4310,7 +4306,7 @@ We appreciate your taking the time to read these Terms of Use, and we are very h
 		<wp:post_name><![CDATA[terms-of-use]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>11058</wp:post_parent>
-		<wp:menu_order>33</wp:menu_order>
+		<wp:menu_order>34</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -4527,7 +4523,7 @@ Only DMCA notices and notices relating to complaints in connection with infringe
 		<wp:post_name><![CDATA[copyright-policy]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>11058</wp:post_parent>
-		<wp:menu_order>28</wp:menu_order>
+		<wp:menu_order>29</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -4640,7 +4636,7 @@ Connect with us on <a href="http://facebook.com/opensiddur">Facebook</a>, <a hre
 		<wp:post_name><![CDATA[home]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>8</wp:menu_order>
+		<wp:menu_order>9</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -4812,7 +4808,7 @@ Imaging is critical in providing a source image by which collaborative transcrip
 		<wp:post_name><![CDATA[document-manuscript-imaging]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>27</wp:menu_order>
+		<wp:menu_order>28</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -4930,7 +4926,7 @@ Click here to download the <a href="https://opensiddur.org/help/fonts/">Open Sid
 		<wp:post_name><![CDATA[hebrew-support-in-your-web-browser]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>55</wp:menu_order>
+		<wp:menu_order>56</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -5025,7 +5021,7 @@ To join this community of contributors, please <a href="/contribute/upload/">sha
 		<wp:post_name><![CDATA[contributors]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>281</wp:post_parent>
-		<wp:menu_order>59</wp:menu_order>
+		<wp:menu_order>60</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -5130,7 +5126,7 @@ To join this community of contributors, please <a href="/contribute/upload/">sha
 		<wp:post_name><![CDATA[policies]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>17414</wp:post_parent>
-		<wp:menu_order>47</wp:menu_order>
+		<wp:menu_order>48</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -5261,7 +5257,7 @@ Text on this page has been amended from <a href="http://creativecommons.org.il/i
 		<wp:post_name><![CDATA[%d7%97%d7%9c%d7%a7-%d7%9e%d7%94%d7%96%d7%9b%d7%95%d7%99%d7%95%d7%aa-%d7%a9%d7%9e%d7%95%d7%a8%d7%95%d7%aa]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>11058</wp:post_parent>
-		<wp:menu_order>44</wp:menu_order>
+		<wp:menu_order>45</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -5353,30 +5349,31 @@ In every case, we defer to the contributor's preferred style in contributing the
 <p style="padding-left: 40px;">Transcribers should retain circumlocutions as they appear in historical works.</p>
 
 &nbsp;
-<h3>Rendering Names, Divine Names, Circumlocutions, and Terms for generic divinities</h3>
-<p style="padding-left: 40px;">All names and place names should be romanized (transliterated with the alphabet) according to the transliteration schema set below. For example, <span class="hebrew" lang="he">יעקב</span> becomes Ya'aqov (rather than Jacob).</p>
-<p style="padding-left: 40px;">Please do not translate divine names.</p>
-<p style="padding-left: 40px;">Transliterate all divine names with the first letter in Uppercase. For example, <span class="hebrew" lang="he">אלהים</span> becomes Elohim (rather than "God"), etc.</p>
-<p style="padding-left: 40px;">In the case of the Tetragrammaton (the Four-Letter Name), we recommend it simply being rendered as "YHVH" (rather than "LORD" or "the LORD"). 'Adonai' is fine for presenting romanized transliterations of the Tetragrammaton.</p>
-<p style="padding-left: 40px;">Do not capitalize the first letter of divine pronouns. For example: "you" instead of "You." Exceptions may be made for distinguishing singular "They" or <span style="text-transform: uppercase;">THEY</span> from plural "they."</p>
-<p style="padding-left: 40px;">When replacing he/him/his in a gender-neutral grammatical reference to the Divine in translation, you may either (in order of preference): 
-<ol style="padding-left: 80px;">
-<li>replace the pronoun with singlular 'they,'</li> 
-<li>use a circumlocution for the most recent divine name mentioned (in cases where plural 'they' would be confusing), or else</li> 
-<li>choose a circumlocution such as "Hashem" for YHVH or "G♕d" for Elohim, if necessary. For example, "Praise YHVH for <span style="text-transform: uppercase;">THEY</span> are good. Hashem loves those with integrity."</li>
-</ol></p>
-<p style="padding-left: 40px;">Divine epithets may remain gender-neutral or gendered, based on the translator's preference. For example: "Melekh ha-Olam" may be translated as "Cosmic Majesty." "Avinu Malkeinu" may be translated as "My father, My king."</p>
-<p style="padding-left: 40px;">Any indirect reference to divinity may be treated as a generic. For example <span class="hebrew" lang="he">יהוה אלהיך</span> becomes "YHVH your <em>elo'ah</em> (rather than "YHVH your god") and <span class="hebrew" lang="he">אלהי יעקב</span> becomes "<em>elo'ah</em> of Ya'aqov" (rather than god of Ya'aqov").</p>
-<p style="padding-left: 40px;">Generic terms for divine entities should be identified in transliteration in lowercase. For example, <span class="hebrew" lang="he">אלים</span> becomes <em>elim</em>.</p>
-<p style="padding-left: 40px;">Circumlocutions found in contemporary works should be replaced with the divine names they signify in the manner described above.</p>
-
-&nbsp;
 <h3>Translations and Complex Terms</h3>
 <p style="padding-left: 40px;">Please do not translate complex terms. Transliterate them and, if necessary, provide more expansive explanations in a footnote.</p>
 <p style="padding-left: 40px;">All complex terms should be romanized (transliterated with the Latin script alphabet) according to the transliteration schema set below. For example, <span class="hebrew" lang="he">ציצית</span> becomes tsisit (rather than tzizit).</p>
-<p style="padding-left: 40px;">Default male-gender language, where the gender is not significant, should be translated using gender neutral alternatives. For example: "<em>avot</em>/<em>avoteinu</em>" may be translated as "ancestors" rather than "forefathers."</p>
+<p style="padding-left: 40px;">Default male-gender language, where the gender is not significant, may be translated using gender-inclusive alternatives. For example: "<em>avot</em>/<em>avoteinu</em>" may be translated as "ancestors" rather than "forefathers."</p>
 <p style="padding-left: 40px;">Gendered language, where the gender is significant, should retain the gender in translation. For example: "<em>imahot</em>" may be translated as "foremothers."</p>
 
+&nbsp;
+<h3>Rendering Names, Divine Names and Circumlocutions, Divine Epithets and Pronouns, and Terms for generic divinities</h3>
+<p style="padding-left: 40px;">All names and place names should be romanized (transliterated with the Latin alphabet) according to the transliteration schema set below. For example, <span class="hebrew" lang="he">יעקב</span> becomes Ya'aqov (rather than Jacob).</p>
+<p style="padding-left: 40px;">Please do not translate divine names.</p>
+<p style="padding-left: 40px;">Transliterate all divine names with the first letter in Uppercase. For example, <span class="hebrew" lang="he">אלהים</span> becomes Elohim (rather than "God"), etc.</p>
+<p style="padding-left: 40px;">For the Tetragrammaton (the Four-Letter Name) in translations, we recommend it simply being rendered as "YHVH" (rather than "LORD" or "the LORD").</p> 
+<p style="padding-left: 40px;">For the Tetragrammation within sections of transliterated text, 'Adonai' or 'Yah' is acceptable.</p>
+<p style="padding-left: 40px;">Pronouns for divinity, where the assigned gender is significant, should retain the gender in translation. Otherwise, use gender-inclusive alternatives.</p>  
+<p style="padding-left: 40px;">When replacing he/him/his in a gender-inclusive grammatical reference to the Divine in a translation, you may either (in order of preference): 
+<ol style="padding-left: 80px;">
+<li>replace the pronoun with singlular 'they/them/their,'</li> 
+<li>use a circumlocution for the most recent divine name mentioned (in cases where plural 'they' might be confusing), or else</li> 
+<li>choose a circumlocution such as "Hashem" for YHVH or "G♕d" for Elohim, if necessary. For example, "Praise YHVH for <span style="text-transform: uppercase;">THEY</span> are good. Hashem loves those with integrity."</li>
+</ol></p>
+<p style="padding-left: 40px;">Do not capitalize the first letter of divine pronouns. For example: "you" instead of "You." Exceptions may be made for distinguishing singular "They" or <span style="text-transform: uppercase;">THEY</span> from plural "they."</p>
+<p style="padding-left: 40px;">Divine epithets may remain gender-inclusive or gendered, based on the translator's preference. For example: "Melekh ha-Olam" may be translated as "Cosmic Majesty." "Avinu Malkeinu" may be translated as "My father, My king."</p>
+<p style="padding-left: 40px;">Any indirect reference to divinity may be treated as a generic. For example <span class="hebrew" lang="he">יהוה אלהיך</span> becomes "YHVH your <em>elo'ah</em> (rather than "YHVH your god") and <span class="hebrew" lang="he">אלהי יעקב</span> becomes "<em>elo'ah</em> of Ya'aqov" (rather than god of Ya'aqov").</p>
+<p style="padding-left: 40px;">Generic terms for divine entities should be identified in transliteration in lowercase. For example, <span class="hebrew" lang="he">אלים</span> becomes <em>elim</em>.</p>
+<p style="padding-left: 40px;">Circumlocutions found in contemporary works should be replaced with the divine names they signify in the manner described above.</p>
 
 &nbsp;
 <h3>Annotations</h3>
@@ -5432,14 +5429,14 @@ Find below, a chart for Hebrew consonants and vowels with their corresponding le
 		<wp:post_id>14234</wp:post_id>
 		<wp:post_date><![CDATA[2016-08-07 13:37:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-08-07 21:37:59]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-06 11:07:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-06 19:07:00]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-06-19 23:50:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-06-20 07:50:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[style-guide]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>281</wp:post_parent>
-		<wp:menu_order>54</wp:menu_order>
+		<wp:menu_order>55</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -5486,7 +5483,7 @@ Find below, a chart for Hebrew consonants and vowels with their corresponding le
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[                                                  ]]></wp:meta_value>
+		<wp:meta_value><![CDATA[                                                        ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_footer]]></wp:meta_key>
@@ -5510,7 +5507,7 @@ Find below, a chart for Hebrew consonants and vowels with their corresponding le
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[ao_post_optimize]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";s:15:"ao_post_preload";s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -6244,7 +6241,7 @@ English translation courtesy of Leonard Berkowitz. Section numbers outside the s
 		<wp:post_name><![CDATA[rules-for-niqqud]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>51</wp:menu_order>
+		<wp:menu_order>52</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -6333,7 +6330,7 @@ English translation courtesy of Leonard Berkowitz. Section numbers outside the s
 		<wp:post_name><![CDATA[about-this-project]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>46</wp:menu_order>
+		<wp:menu_order>47</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -6436,7 +6433,7 @@ In the summer of 2009, the Open Siddur was one of sixteen innovative projects ch
 		<wp:post_name><![CDATA[acknowledgements-2]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>316</wp:post_parent>
-		<wp:menu_order>60</wp:menu_order>
+		<wp:menu_order>61</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -6509,7 +6506,7 @@ In the summer of 2009, the Open Siddur was one of sixteen innovative projects ch
 		<wp:post_name><![CDATA[profile]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>61</wp:menu_order>
+		<wp:menu_order>62</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -6600,7 +6597,7 @@ In the summer of 2009, the Open Siddur was one of sixteen innovative projects ch
 		<wp:post_name><![CDATA[bookmarks]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>20</wp:menu_order>
+		<wp:menu_order>21</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -6700,7 +6697,7 @@ In the summer of 2009, the Open Siddur was one of sixteen innovative projects ch
 		<wp:post_name><![CDATA[edit-account]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>24</wp:menu_order>
+		<wp:menu_order>25</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -6789,7 +6786,7 @@ Account registration is available to all project contributors. (To become a proj
 		<wp:post_name><![CDATA[log-in]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>17</wp:menu_order>
+		<wp:menu_order>18</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -6873,7 +6870,7 @@ Account registration is available to all project contributors. (To become a proj
 		<wp:post_name><![CDATA[recover-password]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>21</wp:menu_order>
+		<wp:menu_order>22</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -7012,7 +7009,7 @@ New York, NY 10025-7449</p>
 		<wp:post_name><![CDATA[donations]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>281</wp:post_parent>
-		<wp:menu_order>22</wp:menu_order>
+		<wp:menu_order>23</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -7166,7 +7163,7 @@ The Open Siddur is a volunteer-driven, non-profit, non-denominational, and non-p
 		<wp:post_name><![CDATA[joining]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>281</wp:post_parent>
-		<wp:menu_order>11</wp:menu_order>
+		<wp:menu_order>12</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -7235,7 +7232,7 @@ The Open Siddur is a volunteer-driven, non-profit, non-denominational, and non-p
 		<wp:post_name><![CDATA[table-of-contents]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>6</wp:menu_order>
+		<wp:menu_order>7</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -7297,7 +7294,7 @@ The Open Siddur is a volunteer-driven, non-profit, non-denominational, and non-p
 		<wp:post_name><![CDATA[user-verification]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>5</wp:menu_order>
+		<wp:menu_order>6</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -7354,7 +7351,7 @@ The Open Siddur is a volunteer-driven, non-profit, non-denominational, and non-p
 		<wp:post_name><![CDATA[account-2]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
+		<wp:menu_order>5</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -7382,7 +7379,7 @@ The Open Siddur is a volunteer-driven, non-profit, non-denominational, and non-p
 		<wp:post_name><![CDATA[contributor]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>57</wp:menu_order>
+		<wp:menu_order>58</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -7422,6 +7419,69 @@ The Open Siddur is a volunteer-driven, non-profit, non-denominational, and non-p
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
 		<wp:meta_value><![CDATA[60]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Translate]]></title>
+		<link>https://opensiddur.org/translate/</link>
+		<pubDate>Sat, 11 Jun 2022 18:50:55 +0000</pubDate>
+		<dc:creator><![CDATA[aharon.varady]]></dc:creator>
+		<guid isPermaLink="false">https://opensiddur.org/?page_id=44961</guid>
+		<description></description>
+		<content:encoded><![CDATA[<div class="english-sans" lang="en" style="font-size: 1.2em;">
+[contact-form-7 id="44960" title="Translate"]
+</div>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>44961</wp:post_id>
+		<wp:post_date><![CDATA[2022-06-11 10:50:55]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-06-11 18:50:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-06-11 10:50:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-06-11 18:50:55]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[translate]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="author" nicename="cap-aharon-varady"><![CDATA[aharon.varady]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
+		<wp:meta_value><![CDATA[classic-editor]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[131]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
+		<wp:meta_value><![CDATA[  ]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oh_add_script_footer]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oh_add_script_header_hide]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oh_add_script_footer_hide]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ao_post_optimize]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";s:15:"ao_post_preload";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>

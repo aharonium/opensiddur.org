@@ -10,7 +10,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 [caption id="attachment_9259" align="aligncenter" width="857"]<a href="https://opensiddur.org/wp-content/uploads/2014/07/Dome_of_the_Rock_1546.jpg"><img src="https://opensiddur.org/wp-content/uploads/2014/07/Dome_of_the_Rock_1546.jpg" alt="The Temple in Jerusalem depicted as the Dome of the Rock on the printer&#039;s mark of Marco Antonio Giustiniani, Venice 1545–1552" width="857" height="830" class="size-full wp-image-9259" /></a> <a href="https://en.wikipedia.org/wiki/File:Dome_of_the_Rock,_1546.jpg">The Temple in Jerusalem depicted as the Dome of the Rock on the printer's mark of Marco Antonio Giustiniani, Venice 1545–1552</a>[/caption]
 
 [xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;"><a href="/contributing/upload/">Contribute a translation</a></th><th style="text-align: left;">English</th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;"><a href="/translate/" target="_blank" rel="noopener">Contribute a translation</a></th><th style="text-align: left;">English</th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
 <div class="liturgy" lang="he">

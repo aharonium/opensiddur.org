@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: Ya Komimos (We have eaten), a Ladino piyyut for the Birkat haMazon<br />
+Title: Ya Komimos (We have eaten), a piyyut for the Birkat haMazon in Ladino<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=29679">http://opensiddur.org/?p=29679</a>
 <p />
@@ -28,10 +28,10 @@ i anyos, munchos i buenos para bivir.
 We have eaten 
 and we have drunk 
 and we have blessed the Holy One, --
-blessed are they
+blessed are They[foot]This translation uses the plural pronoun to refer to God as a <em>pluralis majestatis</em>, and to avoid the implications of God being assigned a gender. This is not meant to infer that God is plural, <em>ḥas v-shalom</em>. Find <a href="https://www.sefaria.org/Ibn_Ezra_on_Genesis.1.1.3?lang=bi">Ibn Ezra’s commentary on Genesis 1:1</a> for an explanation of the <em>pluralis majestatis</em>.[/foot]
 and blessed be their Name -- 
 Who has given us, 
-and may they continue to give us, 
+and may They continue to give us, 
 bread to eat and clothes to wear 
 and years, many and good ones, to live. 
 </div></td></tr>
@@ -126,15 +126,11 @@ The Ladino prayer known by its incipit, "<em>Ya Comimos</em>," is said after the
 
 We are looking for older attestations of <em>Ya Comimos</em> in siddurim and haggadot. If you can provide a reference to one or more, <a href="/contact/">please do</a> -- and thank you.
 
-This translation follows the translation, Honi Sanders and I published in the birkon for his wedding, <em><a href="http://opensiddur.org/?p=25938">Siman l'Vanim</a></em> (Dimus Parrhesia Press 2019). I have adapted the English translation to express a gender neutral divinity. --Aharon Varady
+This translation follows the translation, Honi Sanders and I published in the birkon for his wedding, <em><a href="http://opensiddur.org/?p=25938">Siman l'Vanim</a></em> (Dimus Parrhesia Press 2019). The English translation here deviates slightly from strict fidelity to the vernacular Ladino; “They” and “Their” is used here as a singular pronoun to avoid assigning a gender to God. --Aharon Varady
 
 <h3>Source(s)</h3>
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/simanlvanimdimusparrhesiapress2019#page/n40/mode/2up"]
-
-&nbsp;
-
-<hr />
 
 &nbsp;
 </body>

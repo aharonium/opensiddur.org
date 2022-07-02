@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: গীতাঞ্জলি | גִּיטַאנְיַ׳אלִי (קרבן־זמרה)‏ | Gitanjali (Song-offerings), by Rabindranath Tagore translated into Hebrew by David Frischmann (1922)<br />
+Title: গীতাঞ্জলি | גִּיטַאנְיַ׳אלִי (קרבן־זמרה)‏ | Gitanjali (Song-offerings), by Rabindranath Tagore (1912); translated into Hebrew by David Frischmann (1922)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=24869">http://opensiddur.org/?p=24869</a>
 <p />

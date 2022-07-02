@@ -153,7 +153,8 @@ Because it pleases well the Blessed Name.
  ויי אלהי ישראל ירחוב ארת גבולינו׃
  ויתן לנו לחם ושמלה בפי צרכינו׃
  להחיות עם־רב ואתו עוללינו וטפינו׃
- וישם לנו שלום עם כל ישראל אחינו׃ אמן וכן יהי רצון׃
+ וישם לנו שלום עם כל ישראל אחינו׃ 
+אמן וכן יהי רצון׃
 </span></div></td>
 
 <td style="vertical-align:top;"><div class="english" lang="en">
@@ -162,7 +163,8 @@ And this is our share from all our labors.
 May the Lord, God of Israel widen our borders. 
 And, according to our needs, may He give us bread and clothing. 
 To make a great nation live,[foot]end of Genesis 50:20, (thank you Emily Fishman)[/foot] and with it, our children and offspring. 
-And may He grant us peace with all our brethren in Israel. Amen, may it be His will.
+And may He grant us peace with all our brethren in Israel. 
+Amen, may it be His will.
 </div></td>
 </tr>
 </tbody></table>

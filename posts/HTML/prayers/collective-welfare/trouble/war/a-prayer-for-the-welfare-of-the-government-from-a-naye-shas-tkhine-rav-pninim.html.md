@@ -8,7 +8,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <hr />
 
 [xyz-ihs snippet="Table-Options"]<table style="margin-left: auto; margin-right: auto;" class="draggable">
-<thead><tr><th id="x" style="text-align: right;">Source (Yiddish)</th><th style="text-align: left;"><a href="/contributing/upload/">Contribute a translation</a></th></tr></thead>
+<thead><tr><th id="x" style="text-align: right;">Source (Yiddish)</th><th style="text-align: left;"><a href="/translate/" target="_blank" rel="noopener">Contribute a translation</a></th></tr></thead>
 <tbody>
 <tr><td style="vertical-align:top;">
 <div class="yiddish" lang="yi">

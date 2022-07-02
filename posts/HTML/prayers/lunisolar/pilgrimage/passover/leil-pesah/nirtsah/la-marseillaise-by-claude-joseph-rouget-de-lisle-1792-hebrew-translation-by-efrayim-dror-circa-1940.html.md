@@ -12,6 +12,22 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr><td style="vertical-align:top;">
 <div class="french" lang="fr" style="text-align: left;">
+<u>La Marseillaise</u>
+</div></td>
+
+<td style="vertical-align:top;">
+<div class="english" lang="en" style="text-align: left;">
+<u>The Marseillaise</u>
+</div></td>
+
+<td style="vertical-align:top;">
+<div class="liturgy" lang="he" style="text-align: right;">
+מַרְסֵיֶזָה[foot]<div style="text-align: right";>כך נכון ולא מַרְסֶלְיֶזָה (בלָמד), כי מקורו של כינוי זה היא עיר־הנמל מַרְסֵי כפי ביטויו הנכון של השם הזה בצרפתית.‏</div>[/foot]
+</div></td></tr>
+
+
+<tr><td style="vertical-align:top;">
+<div class="french" lang="fr" style="text-align: left;">
 Allons enfants de la Patrie,
 Le jour de gloire est arrivé!
 Contre nous de la tyrannie
@@ -148,7 +164,7 @@ The masters of our destinies!
 כְּבָלִים יַטִּילוּ עַל יָדֵינוּ
 עֵינֵינוּ תִּדְמַע בְּשִׁעְבּוּד
 נִקְלי זָדוֹן וְרוֹדָנוּת
-הֵם יָשִׁירוּ עַל גּוֹרָלֵנוּ‽
+הֵם יָשִׁירוּ[foot]<div style="text-align: right";>(קְרָא: יָשׂוֹרוּ) עתיד של שָׂרֹר.‏</div>[/foot] עַל גּוֹרָלֵנוּ?
 </div></td></tr>
 
 
@@ -220,7 +236,7 @@ Tear apart their mother's breast!
 חוּסוּ עַל מְסַכֵּן בֵּין הַלָּלוּ
 שֶׁנֶּגְדֵּנוּ הִזְדַּיְּנוּ.
 אַךְ רוֹדָנִים כָּל רוֹדְפֵי טֶרֶף
-אוֹתָם שֻׁתָּפָיו שֶׁל בּוּיֵה
+אוֹתָם שֻׁתָּפָיו שֶׁל בּוּיֵה[foot]<div style="text-align: right";>המארקי פ.ק. בּוּיַי (Bouillé). גֶנֶראל צרפתי הוא שסידר את בריחתו של המלך לוּאי השִׁשה־עשר מפאריס (20.6.1791) אחרי שההמון המתמרד בשעת המהפכה הביאוֹ שָמה מִוֶרְסַי, כבוגד במולדת.‏</div>[/foot]
 שֶׁרַק לְדָם לִבָּם צָמֵא
 נַחֲרוּם, רַטְּשׁוּם שׁוֹק עַל קֶרֶב!
 </div></td></tr>
@@ -309,7 +325,6 @@ This Hebrew translation of "La Marseillaise," the national anthem of France, was
 
 “<a href="https://en.wikipedia.org/wiki/La_Marseillaise">La Marseillaise</a>” was written in 1792 by Claude Joseph Rouget de Lisle in Strasbourg after the declaration of war by France against Austria, and was originally titled “Chant de guerre pour l’Armée du Rhin” (War Song for the Army of the Rhine). The French National Convention adopted it as the new Republic’s anthem in 1795. The song acquired its nickname after being sung in Paris by volunteers from Marseille marching to the capital. After the fall of Napoleon in 1815, “La Marseilles” was banned and it became the anthem of the French left. The French government brought back the popular anthem in an attempt to motivate the French people during the Franco-Prussian War. It's adoption by the Paris Commune in 1871 (albeit with new lyrics under the title “<a href="https://en.wikipedia.org/wiki/La_marseillaise_de_la_Commune">La marseillaise de la Commune</a>”) led to “La Marseillaise” becoming an anthem of the international revolutionary movement alongside "L'Internationale." While other political movements promoted their anthems, by 1879, “La Marseillaise” was restored as France’s national anthem. —Aharon Varady 
 
-
 <h3>Recordings</h3>
 
 https://www.youtube.com/watch?v=111UbbAo0QM
@@ -321,6 +336,12 @@ https://www.youtube.com/watch?v=E4Tg-8V17j4
 &nbsp;
 
 https://www.youtube.com/watch?v=2gmvgjf7uaY
+
+&nbsp;
+
+<h3>Source(s)</h3>
+
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/la-marseillaise-hebrew-translation-by-efraim-dror-1951/La%20Marseillaise%20%28Hebrew%20translation%20by%20Efraim%20Dror%201951%29#page/n5/mode/2up"]
 
 &nbsp;
 </body>
