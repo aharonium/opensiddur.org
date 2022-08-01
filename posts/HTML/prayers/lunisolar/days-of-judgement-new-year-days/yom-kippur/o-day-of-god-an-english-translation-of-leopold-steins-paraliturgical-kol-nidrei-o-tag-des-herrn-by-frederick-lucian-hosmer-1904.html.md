@@ -185,6 +185,7 @@ With peace and with gladness from heaven.
 From the eventide to eventide 
 Let all earthly thoughts be sanctified 
 In prayer! 
+&nbsp;
 Upward to God, upward to God, 
 Sons of earth, together! 
 </div></td></tr>

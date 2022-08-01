@@ -42,7 +42,7 @@ and a path through the mighty waters;[foot]again, for the Israelites, through th
 may he bless, preserve, guard, assist, 
 exalt, and highly aggrandize[foot]In Republican States, instead of the names of His Majesty the King and Royal Family, say <span class="hebrew" lang="he">אֶת־כׇּל־שָׂרַי הַמְּדִינוֹת הָאֵלּֽוּ</span>.[/foot]
 our most gracious Sovereign King, 
-King George [V], 
+King George [Ⅴ], 
 our gracious Queen Mary, 
 Edward Prince of Wales, 
 and all the Royal Family.

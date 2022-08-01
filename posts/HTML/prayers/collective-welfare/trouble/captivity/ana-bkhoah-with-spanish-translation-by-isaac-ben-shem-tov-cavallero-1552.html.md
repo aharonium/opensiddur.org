@@ -154,9 +154,9 @@ conocie entrinsecos:
 
 <hr />
 
-Prepared by R' Isaac ben Shem Tov Cavallero, "Orden de Oraciones segundo el uso ebrèo en lengua ebraica y vulgar espanol: traduzido por el doctor Isac hijo de Don Semtob cavallero" was the first siddur prepared for use by Sepharadim in Spanish throughout the Spanish-Portuguese diaspora. 
+Prepared by Isaac ben Shem Tov Cavallero, "Orden de Oraciones segundo el uso ebrèo en lengua ebraica y vulgar espanol: traduzido por el doctor Isac hijo de Don Semtob cavallero" was the first siddur prepared for use by Sepharadim in Spanish throughout the Spanish-Portuguese diaspora. The earliest attestation of Ana b'Khoaḥ is unknown, but the earliest I have been able to find it is in a re-printing of Israel Cornelius (Cornelio) Adelkind proofread revision of <em>Temunot Tehinot Tefilot Sefarad</em>, a maḥzor first published by Daniel Bomberg in 1519. (The reprinted edition I found was from 1544. According to the scholar, H.P. Salomon, z"l, that edition is unchanged from Adelkind's 1523 revision.[foot]This detail is mentioned by Salomon in "A fifteenth century haggada with ritual prescriptions in portuguese aljamiado." <em>Arquivos do Centro Cultural Português</em>. vol. 15 (1980), p. 225.[/foot]) 
 
-The 42 letter divine name acrostic piyyut, Ana b'Khoaḥ, almost certainly dates from before this printing, having already apparently established itself in the section of prayers and readings between birkhot hashaḥar and pirkei d'zimra (zemirot). This is the earliest printing we have located it in (so far). If you know of an earlier example of Ana b'Khoaḥ in print or manuscript, <a href="https://opensiddur.org/contact/">please let us know</a>.
+Ana b'Khoaḥ almost certainly dates from before this printing, but we simply don't know. This is the earliest printing we have located it in (so far). If you know of an earlier example of Ana b'Khoaḥ in print or manuscript, please leave a comment or <a href="https://opensiddur.org/contact/">contact us</a>.
 
 For other examples of the 42 letter divine name sequence, find the litany of angel names in <a href="https://opensiddur.org/prayers/praxes/contemplation/adiryaron-bahiryaron/">Sefer HaQanah</a> and in <a href="https://opensiddur.org/prayers/praxes/contemplation/adiryarots-bahiryarots/">Sefer haPeliah</a>. Connected to the latter is another 42 letter divine name acrostic piyyut, "<a href="https://opensiddur.org/prayers/life-cycle/living/repenting-resetting-forgiveness/elohim-byisrael-a-piyyut-containing-the-42-letter-name-recorded-in-sefer-hapeliah/">Elohim B'Yisrael</a>." There are also two other piyyutim directly concerned with the ascent of the soul of one on their deathbed; one recorded by Isaiah Horowitz in his <a href="https://opensiddur.org/prayers/life-cycle/living/death/departing/el-barukh-a-piyyut-containing-the-42-letter-name-recorded-by-isaiah-horowitz/">Shnei Luḥot Habri</a>t, and another provided in the Sefer <a href="https://opensiddur.org/prayers/life-cycle/living/death/ehyeh-baden-a-piyyut-containing-the-42-letter-name-in-sefer-maavar-yaboq/">Ma'avar Yabbok</a> with prayers for the Ḥevre Kaddishe.
 
@@ -165,5 +165,11 @@ We are grateful to Aron Sterk for proofreading our transcription. He notes: "The
 <h3>Source</h3>
 
 [advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/OrdenDeOracionesIsacHijoDeDonSemtobCavallero1552#page/n74/mode/2up"]
+
+&nbsp;
+
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://www.archive.org/stream/temunot-tehinot-tefilot-sefarad-adelkind-1544/Temunot%20Tehinot%20Tefilot%20Sefarad%20%28Adelkind%201544%29#page/n86/mode/2up"]
+
+&nbsp;
 </body>
 </html>

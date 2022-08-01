@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: Day of God, a hymn for Yom Kippur adapted by Angie Irma Cohon (1921) from Frederick Lucian Hosmer's translation of Leopold Stein's "O Tag des Herrn!"<br />
+Title: Day of God, Leopold Stein's "O Tag des Herrn!" (1840) adapted from Frederick Lucian Hosmer's translation (1904) as a hymn for Yom Kippur by Angie Irma Cohon (1921)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=45266">http://opensiddur.org/?p=45266</a>
 <p />

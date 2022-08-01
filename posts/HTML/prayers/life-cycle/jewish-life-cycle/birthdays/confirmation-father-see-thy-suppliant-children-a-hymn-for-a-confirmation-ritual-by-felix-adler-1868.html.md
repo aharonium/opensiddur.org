@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: Confirmation (Father, see Thy suppliant children), a hymn for a Confirmation ritual by Felix Adler (1871)<br />
+Title: Confirmation (Father, see Thy suppliant children), a hymn for a Confirmation ritual by Felix Adler (1868)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=45244">http://opensiddur.org/?p=45244</a>
 <p />
@@ -93,7 +93,7 @@ In the realms of peace at last.
 
 <hr />
 
-"Confirmation (Father, see thy suppliant children)" is a hymn written by Felix Adler and published in <em><a href="/?p=45248">Hymns, for Divine Service in the Temple Emanu-El</a></em> (1871), hymn №34, p. 68. 
+"Confirmation (Father, see thy suppliant children)" is a hymn written by Felix Adler and published in <em><a href="/?p=45248">Hymns, for Divine Service in the Temple Emanu-El</a></em> (1871), hymn №34, p. 68. We have tentatively dated this hymn to 1868, since another hymn by Adler ("School-hymn, no. 36") can be found appended from another unattributed work in <em>A Guide to Instruction in the Israelitsh Religion</em> (Samuel Adler, trans. M. Mayer, Temple Emanu-El, 1864, 4th printing 1868).
 
 <h3>Source(s)</h3>
 

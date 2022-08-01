@@ -17,7 +17,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <td style="vertical-align:top;">
 <div class="english" lang="en" style="text-align: left;">
-Prayer for the sake of Peace
+<u>Prayer for the sake of Peace</u>
 </div></td></tr>
 
 
@@ -87,7 +87,7 @@ And let us say, Amen!
 
 <td style="vertical-align:top;">
 <div class="english" lang="en" style="text-align: left;">
-Prayer for the well-being of the government 
+<u>Prayer for the well-being of the government</u> 
 </div></td></tr>
 
 

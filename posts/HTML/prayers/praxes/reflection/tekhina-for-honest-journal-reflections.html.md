@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: תחינה לתחילת יומן חדש | Prayer on Beginning a New Journal, by Aharon N. Varady<br />
+Title: Prayer on Beginning a New Journal, by Aharon N. Varady<br />
 Primary contributor: aharon-nissn.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=6916">http://opensiddur.org/?p=6916</a>
 <p />
@@ -71,6 +71,8 @@ This is a prayer that I wrote at Isabella Freedman Jewish Retreat Center soon af
 
 <h3>Source</h3>
 
-[caption id="attachment_6918" align="alignnone" width="734"]<a href="https://opensiddur.org/wp-content/uploads/2013/05/Tekhina-for-honest-journal-reflections.jpg"><img src="https://opensiddur.org/wp-content/uploads/2013/05/Tekhina-for-honest-journal-reflections.jpg" alt="" width="734" height="1170" class="size-full wp-image-6918" /></a> Tekhina for honest journal reflections by Aharon Varady, from his journal.[/caption]
+[caption id="attachment_6918" align="alignnone" width="188"]<a href="https://opensiddur.org/wp-content/uploads/2013/05/Tekhina-for-honest-journal-reflections.jpg"><img src="https://opensiddur.org/wp-content/uploads/2013/05/Tekhina-for-honest-journal-reflections-188x300.jpg" alt="" width="188" height="300" class="size-medium wp-image-6918" /></a> Tekhina for honest journal reflections by Aharon Varady, from his journal.[/caption]
+
+&nbsp;
 </body>
 </html>

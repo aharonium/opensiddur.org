@@ -2,7 +2,7 @@
 <head></head>
 <body>
 Title: תפילה על מת בהמה או חיה מחמד | Prayer on the Death of a Beloved Animal, by Aharon Varady (1994)<br />
-Primary contributor: aharon-nissn.varady<br />
+Primary contributor: isaac.gantwerk-mayer<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=25992">http://opensiddur.org/?p=25992</a>
 <p />
 <hr />
@@ -22,7 +22,7 @@ For attribution and license, please consult the following URL: <a href="http://o
  
 <td style="vertical-align:top;">
 <div class="english" lang="en">
-Blessed is the True Judge;[foot]Mishnah Berakhot 9:2.[/foot]
+Blessed is the One who Judges Truth;[foot]Mishnah Berakhot 9:2.[/foot]
 The Rock! perfect in Their work, for all Their paths are just;
 Faithful El, without iniquity, righteous and fair are They![foot]Deuteronomy 32:4.[/foot]
 Hashem (Adonai) gave and Hashem took, blessed be the Name of Hashem![foot]Job 1:21.[/foot]

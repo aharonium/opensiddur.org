@@ -12,14 +12,14 @@ For attribution and license, please consult the following URL: <a href="http://o
 <tbody>
 <tr><td style="vertical-align:top;">
 <div class="german" lang="de">
-Von Perle, der Frau des Berditschewers, ist ein Gebet überliefert.
-Wenn sie die Sabbatbrote knetete und buk, pflegte sie zu beten: 
+<span class="instruction">Von Perle, der Frau des Berditschewers, ist ein Gebet überliefert.
+Wenn sie die Sabbatbrote knetete und buk, pflegte sie zu beten:</span> 
 </span></div></td>
  
 <td style="vertical-align:top;">
 <div class="english" lang="en">
-A prayer has come down to us from Perle, the rebbe of Berditchev's wife. 
-Whenever she kneaded and baked the loaves for Shabbat, she prayed: 
+<span class="instruction">A prayer has come down to us from Perle, the rebbe of Berditchev's wife. 
+Whenever she kneaded and baked the loaves for Shabbat, she prayed:</span> 
 </div></td></tr>
 
 

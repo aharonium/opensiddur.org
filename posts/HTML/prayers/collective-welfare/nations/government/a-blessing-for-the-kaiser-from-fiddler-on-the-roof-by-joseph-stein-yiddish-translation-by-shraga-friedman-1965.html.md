@@ -52,7 +52,7 @@ un ophitn im vayt, vayt fun undz!"
 Rebbe: 
 "A blessing for the Emperor? Of course. 
 May it be that the blessed Holy One 
-bless the Tsar, Nicholas [II], 
+bless the Tsar, Nicholas [Ⅱ], 
 and keep him far, far from us!"
 </div></td></tr>
 </tbody></table>

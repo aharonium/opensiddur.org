@@ -36,9 +36,9 @@ Note: “The CAUSE” is used to translate the Divine Name YHVH, based on the ph
 אֶת־מֶמְשַׁלְתֵּנוּ וְאֶת־רְשׁוּתֵנוּ׃
 הַיּוֹם הַזֶּה יוֹם בְּחִירַת הַמֶּמְשָׁלָה,
 וְהִנְנִי
-אם אצל תא ההצבעה —
+<span class="instruction">אם אצל תא ההצבעה —</span>
 עוֹמֵד בְּפֶתַח מִשְׁכַּן הַבְּחִירָה׃
-אם בדואר —
+<span class="instruction">אם בדואר —</span>
 כּוֹתֵב וְחוֹתֵם אֶת קְלָפִי הַבְּחִירָה׃
 </span></div></td>
  
@@ -60,9 +60,9 @@ our officials and presidents,
 our governments and authorities.
 This day is the day of choosing the government,
 and here am I —
-at a voting booth say:
+<span class="instruction">at a voting booth say:</span>
 standing at the entrance of the tent of choice.
-if voting by mail say:
+<span class="instruction">if voting by mail say:</span>
 writing and sealing my parchment of choice.
 </div></td></tr>
 

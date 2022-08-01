@@ -18,16 +18,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 <td style="vertical-align:top;">
 <div class="english" lang="en">
 Holy One,
-</div></td></tr>
-
-
-<tr><td style="vertical-align:top;">
-<div class="liturgy" lang="he">
-
-</span></div></td>
- 
-<td style="vertical-align:top;">
-<div class="english" lang="en">
+&nbsp;
 Thank You for these tears of relief, 
 for the shock of being able to move once again, 
 for the strange sudden realization 

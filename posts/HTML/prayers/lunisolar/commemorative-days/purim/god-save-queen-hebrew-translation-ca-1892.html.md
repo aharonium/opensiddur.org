@@ -19,9 +19,9 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <td style="vertical-align:top;">
 <div class="english" lang="en">
-El save our gracious Queen
+God save our gracious Queen
 Long live our noble Queen,
-El save the Queen:
+God save the Queen:
 </div></td>
 </tr>
 
@@ -39,7 +39,7 @@ El save the Queen:
 Send her victorious,
 Happy and glorious,
 Long to reign over us:
-El save the Queen.
+God save the Queen.
 </div></td>
 </tr>
 
@@ -53,8 +53,8 @@ El save the Queen.
 
 <td style="vertical-align:top;">
 <div class="english" lang="en">
-Please, Elohim, arise,
-Scatter thine enemies,
+Please, our God, arise,
+Scatter thine enemies,[foot]Cf. Psalms 68:2.[/foot] 
 And make them fall:
 </div></td>
 </tr>
@@ -73,7 +73,7 @@ And make them fall:
 Confound their politics,
 Frustrate their knavish tricks,
 On thee our hopes we fix:
-El save us all.
+God save us all.
 </div></td>
 </tr>
 
@@ -107,7 +107,7 @@ Long may she reign:
 May she defend our laws,
 And ever give us cause
 To sing with heart and voice
-El save the Queen.
+God save the Queen.
 </div></td>
 </tr>
 </tbody></table>

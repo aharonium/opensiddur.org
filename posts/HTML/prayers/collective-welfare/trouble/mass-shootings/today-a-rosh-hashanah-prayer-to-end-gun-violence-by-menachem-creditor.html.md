@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: היום | TODAY: A Rosh haShanah Prayer to End Gun Violence, by Rabbi Menachem Creditor (2019)<br />
+Title: TODAY: A Rosh haShanah Prayer to End Gun Violence, by Rabbi Menachem Creditor (2019)<br />
 Primary contributor: menachem.creditor<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=27085">http://opensiddur.org/?p=27085</a>
 <p />

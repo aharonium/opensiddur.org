@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body>
-Title: Hymn for Shaḇuoth (Father, See Thy Children) — adapted by Angie Irma Cohon (1921) from a Confirmation hymn by Felix Adler (1871)<br />
+Title: Hymn for Shaḇuoth (Father, See Thy Children) — adapted by Angie Irma Cohon (1921) from a Confirmation hymn by Felix Adler (1868)<br />
 Primary contributor: aharon.varady<br />
 For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=45231">http://opensiddur.org/?p=45231</a>
 <p />

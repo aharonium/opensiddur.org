@@ -139,7 +139,7 @@ as we call out to You.
 
 <hr />
 
-Rabbi Zalman Schachter-Shalomi's translation was first published in <em><a href="https://www.indiebound.org/book/9780615976785">Psalms in a Translation for Praying</a></em> (Alliance for Jewish Renewal, Philadelphia: 2014), p. 30. 
+Rabbi Zalman Schachter-Shalomi's translation of Psalms 20 was first published in <em><a href="https://www.indiebound.org/book/9780615976785">Psalms in a Translation for Praying</a></em> (Alliance for Jewish Renewal, Philadelphia: 2014), p. 30. 
 
 Reb Zalman was, in 2009, an early advocate of the Open Siddur Project and generously shared his liturgical and prayer work with the project following his vision of a common "<a href="/?p=7665">Database Davvenen</a>." I have set his translation opposite the Masoretic Hebrew text of the psalm according to the phrasing he provided. --Aharon Varady
 

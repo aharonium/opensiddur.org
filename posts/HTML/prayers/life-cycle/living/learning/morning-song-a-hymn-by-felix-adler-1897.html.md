@@ -1,9 +1,9 @@
 <html>
 <head></head>
 <body>
-Title: Thanksgiving, a hymn by Felix Adler (1871)<br />
+Title: Morning Song, a hymn by Felix Adler (1897)<br />
 Primary contributor: aharon.varady<br />
-For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=45281">http://opensiddur.org/?p=45281</a>
+For attribution and license, please consult the following URL: <a href="http://opensiddur.org/?p=45882">http://opensiddur.org/?p=45882</a>
 <p />
 <hr />
 
@@ -17,7 +17,7 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <td style="vertical-align:top;">
 <div class="english" lang="en" style="text-align: left;">
-<u>Thanksgiving</u>. 
+<u>Morning Song</u>
 </div></td></tr>
 
 
@@ -28,14 +28,10 @@ For attribution and license, please consult the following URL: <a href="http://o
 
 <td style="vertical-align:top;">
 <div class="english" lang="en" style="text-align: left;">
-Lord let the swelling anthems rise, 
-Let all the nation's sing, 
-To Him who rules above the skies, 
-Unto the Lord, our King! 
-The sun, at His command, 
-Renewed the barren ground— 
-Rich harvest decks the land, 
-And plenty smiles around. 
+Splendor of the morning sunlight 
+Shines into my heart to-day,
+Floods each cranny of my being 
+With new strength and spirit gay.
 </div></td></tr>
 
 
@@ -46,14 +42,10 @@ And plenty smiles around.
 
 <td style="vertical-align:top;">
 <div class="english" lang="en" style="text-align: left;">
-Praise ye the Lord, proclaim His might, 
-Who made our fathers free, 
-Who gave to us a heavenly light, 
-The sun of liberty. 
-A prosperous people hails 
-Its bright and genial ray, 
-And golden peace prevails 
-Wide o'er the land to-day. 
+Let me use the golden hours 
+As they glide so swiftly by;
+Fill them with a precious freight of 
+Truth and Love and Knowledge high.
 </div></td></tr>
 
 
@@ -64,25 +56,23 @@ Wide o'er the land to-day.
 
 <td style="vertical-align:top;">
 <div class="english" lang="en" style="text-align: left;">
-Then let your hymns of thanks ascend, 
-To the Almighty's throne, 
-To whom in gratitude we bend, 
-Who reigns supreme alone. 
-Of His great mercies tell, 
-Whom earth and heaven adore, 
-Let hallelujahs swell 
-His praise for-evermore! 
+And when evening comes and kindling 
+Stars my conduct seem to ask,
+May I look aloft and tell them 
+I have finished well my task.
 </div></td></tr>
 </tbody></table>
 
 <hr />
 
-"Thanksgiving" is a hymn written by Felix Adler and published in <em><a href="/?p=45248">Hymns, for Divine Service in the Temple Emanu-El</a></em> (1871), hymn №35, p. 69. 
+"Morning Song [splendor of the morning sunlight]" is a hymn by Felix Adler, published in <em>The Sabbath School Hymnal, a collection of songs, services and responses for Jewish Sabbath schools, and homes</em> (4th rev. ed., 1897), hymn no. 23. 
 
 <h3>Source(s)</h3>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/hymnsfordivinese00temprich/hymnsfordivinese00temprich#page/68/mode/2up"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/sabbathschoolhy01mosegoog/sabbathschoolhy01mosegoog#page/n29/mode/2up"]
 
 &nbsp;
+
+
 </body>
 </html>
