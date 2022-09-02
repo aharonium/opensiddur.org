@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.0.1" created="2022-08-01 09:29" -->
+	<!-- generator="WordPress/6.0.2" created="2022-09-02 13:36" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -28,8 +28,8 @@
 <channel>
 	<title>the Open Siddur Project ✍ פְּרוֺיֶּקט הַסִּדּוּר הַפָּתוּחַ</title>
 	<link>https://opensiddur.org</link>
-	<description>an open-source, community contributed archive for those sharing prayers and crafting their own prayerbooks</description>
-	<pubDate>Mon, 01 Aug 2022 09:29:59 +0000</pubDate>
+	<description>an open-source, community-grown archive for those sharing prayers and crafting their own prayerbooks</description>
+	<pubDate>Fri, 02 Sep 2022 13:36:57 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://opensiddur.org</wp:base_site_url>
@@ -41,7 +41,7 @@
 	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[hermit]]></wp:author_login><wp:author_email>email redacted</wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[The]]></wp:author_first_name><wp:author_last_name><![CDATA[Admin]]></wp:author_last_name></wp:author>
 
 				
-	<generator>https://wordpress.org/?v=6.0.1</generator>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
 
 <image>
 	<url>https://opensiddur.org/wp-content/uploads/2015/03/Open-Siddur-Project-Logo-2015-5509b4bdv1_site_icon-32x32.png</url>
@@ -50,7 +50,7 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">25720407</site>
+
 		<item>
 		<title><![CDATA[Our Mission]]></title>
 		<link>https://opensiddur.org/about-this-project/development/mission/</link>
@@ -124,7 +124,7 @@ The Open Siddur Project is committed to the following principles and movements w
 		<wp:post_name><![CDATA[mission]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>316</wp:post_parent>
-		<wp:menu_order>32</wp:menu_order>
+		<wp:menu_order>33</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -290,7 +290,7 @@ Initially, development of the Open Siddur focused primarily on building core pro
 		<wp:post_name><![CDATA[history]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>316</wp:post_parent>
-		<wp:menu_order>46</wp:menu_order>
+		<wp:menu_order>47</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -384,7 +384,7 @@ If you'd like to connect with us over social media, join our discussion group on
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>63</wp:menu_order>
+		<wp:menu_order>64</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -481,7 +481,7 @@ If you'd like to connect with us over social media, join our discussion group on
 		<wp:post_name><![CDATA[contributing]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>24</wp:menu_order>
+		<wp:menu_order>25</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -562,7 +562,7 @@ If you'd like to connect with us over social media, join our discussion group on
 		<wp:post_name><![CDATA[development]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>17414</wp:post_parent>
-		<wp:menu_order>27</wp:menu_order>
+		<wp:menu_order>28</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -649,12 +649,13 @@ While this application is being built, we're already a space for sharing prayers
 
 &nbsp;
 <h3>How can I make my own siddur right now with this website?</h3>
-<p style="padding-left: 30px;">Right now, you can choose and select from the material we've made available with our free licenses and begin making your siddur offline. We recommend you use Unicode and open source licensed Hebrew fonts (take a look at our <a href="https://opensiddur.org/tools/fonts">font pack</a>), and make sure to configure your operating system so you can type with a Hebrew keyboard layout. (<a href="https://opensiddur.org/tools/typing">Here's how</a>.) Finally, we recommend you use a free open source text layout and editing tool: LibreOffice Writer, an application which is bundled in the <a href="http://www.libreoffice.org/download/">LibreOffice suite</a>. (<a href="https://opensiddur.org/tools/editing-layout/">Here's how to configure it to type in Right-to-Left texts like Hebrew</a>.)</p>
+<p style="padding-left: 30px;">Right now, you can choose and select from the material we've made available with our free licenses and begin making your siddur offline. We recommend you use Unicode and open-source licensed Hebrew fonts (take a look at our <a href="https://opensiddur.org/tools/fonts">font pack</a>), and make sure to configure your operating system so you can type with a Hebrew keyboard layout. (<a href="https://opensiddur.org/tools/typing">Here's how</a>.) Finally, we recommend you use a free open-source text layout and editing tool: LibreOffice Writer, an application which is bundled in the <a href="http://www.libreoffice.org/download/">LibreOffice suite</a>. (<a href="https://opensiddur.org/tools/editing-layout/">Here's how to configure it to type in Right-to-Left texts like Hebrew</a>.)</p>
 <p style="padding-left: 30px;">We hope that you will help or join us in <a href="http://app.opensiddur.org">developing the Open Siddur web application</a> that will help you to select content, edit, and maintain your changes online. While developing this software we could also use your help digitizing content, researching and scanning manuscripts, providing legal support, or even sharing work you have created yourself. You can help us by volunteering for the project, sharing your own content with a standard free culture license, and helping us advocate for Judaism as a collaborative and non-proprietary communal endeavor.</p>
+
 
 &nbsp;
 <h3>This web application you mentioned, when will it be ready? I needed this last year!</h3>
-<p style="padding-left: 30px;">So far, the Open Siddur has been developed entirely on volunteer time by a handful of contributors. The scope of our vision is large, but the time it takes to realize our vision is really only limited to the number of folks who step up and volunteer with us. In the meantime, we will be adding features as we complete them and developing partnerships with allied organizations that believe in the utility of open source development and free culture. So the short answer is that the web application we're envisioning will be complete when we reach all of our <a href="https://github.com/opensiddur/opensiddur/milestones?state=open">Milestones</a> as soon as we have enough help to reach it. Until then, keep track of our progress via our news feeds on <a href="http://twitter.com/opensiddur">twitter</a>, <a href="https://opensiddur.tumblr.com">tumblr</a>, and <a href="https://www.facebook.com/opensiddur">facebook</a>. Or, you can use your skills to <a href="https://opensiddur.org/contribute">help us</a> make it a reality.</p>
+<p style="padding-left: 30px;">So far, the Open Siddur has been developed entirely on volunteer time by a handful of contributors. The scope of our vision is large, but the time it takes to realize our vision is really only limited to the number of folks who step up and volunteer with us. In the meantime, we will be adding features as we complete them and developing partnerships with allied organizations that believe in the utility of open-source development and free culture. So the short answer is that the web application we're envisioning will be complete when we reach all of our <a href="https://github.com/opensiddur/opensiddur/milestones?state=open">Milestones</a> as soon as we have enough help to reach it. Until then, keep track of our progress via our news feeds on <a href="http://twitter.com/opensiddur">twitter</a>, <a href="https://opensiddur.tumblr.com">tumblr</a>, and <a href="https://www.facebook.com/opensiddur">facebook</a>. Or, you can use your skills to <a href="https://opensiddur.org/contribute">help us</a> make it a reality.</p>
 
 
 
@@ -666,7 +667,7 @@ While this application is being built, we're already a space for sharing prayers
 &nbsp;
 
 <h3>Who are you people? Who are you affiliated with?</h3>
-<p style="padding-left: 30px;">The Open Siddur is an open source project and anyone can join by helping to code, transcribe, translate, scan books and facsimile editions, and compose new work shared with a free culture license. <strong>The project is non-denominational and non-prescriptive.</strong> What unites us is our intention to share our work on the Siddur and in Jewish spiritual practice. We come from many different backgrounds but share a passion for making the ingredients of the Siddur freely available.</p>
+<p style="padding-left: 30px;">The Open Siddur is an open-source project and anyone can join by helping to code, transcribe, translate, scan books and facsimile editions, and compose new work shared with a free culture license. <strong>The project is non-denominational and non-prescriptive.</strong> What unites us is our intention to share our work on the Siddur and in Jewish spiritual practice. We come from many different backgrounds but share a passion for making the ingredients of the Siddur freely available.</p>
 <p style="padding-left: 30px;">Aharon Varady <a href="http://aharon.varady.net/omphalos/2002/08/update-2002-08-08">first articulated the project in 2002</a> but work did not begin in earnest until the project merged with <a href="http://efraimdf.tumblr.com/">Efraim Feinstein</a>'s Jewish Liturgy Project in early 2009. Aharon serves as hierophant and chief evangelist of the Open Siddur Project community and website. Efraim directs development of the Open Siddur <a href="https://github.com/opensiddur/opensiddur/milestones">web application</a> as its lead developer.</p>
 <p style="padding-left: 30px;">In order to receive <a href="https://www.razoo.com/us/story/Opensiddurproject">tax-deductible donations</a>, our project is a program of the <a href="http://jewishfreeculture.org/projects/">Jewish Free Culture Society</a> and is fiscally sponsored by the <a href="http://www.jewishcreativity.org/">Center for Jewish Culture &amp; Creativity</a>, a 501(3)c licensed non-profit organization.</p>
 
@@ -677,7 +678,7 @@ While this application is being built, we're already a space for sharing prayers
 &nbsp;
 <h3>Who directs this project? Who's responsible?</h3>
 <p style="padding-left: 30px;">When Efraim Feinstein and Aharon Varady first partnered on this project they wanted to empower as many people as possible to participate, but understood that there would need to be policies directing responsible stewardship of shared resources, and which might helpfully arbitrate disagreements. Take a look at our <a href="https://opensiddur.org/copyright-policy/">Copyright</a>, <a href="https://opensiddur.org/privacy-policy/">Privacy</a>, and <a href="https://opensiddur.org/terms-of-use/">Terms of Use</a> policies for additional guidance. The <a href="https://opensiddur.org/development/mission/">mission</a> and <a href="https://opensiddur.org/development/">vision</a> for the project provides documentation of our project's core principles and values.</p>
-<p style="padding-left: 30px;">The Open Siddur Project is directed by Aharon and he is responsible for administering the Open Siddur Project website and is the contact person on any questions not directly concerning software engineering. If you have any compliments or complaints concerning opensiddur.org -- <a href="https://opensiddur.org/contact/">please direct them</a> to Aharon, as it's his <em>avodat lev</em>. Aharon and Efraim collaborate on envisioning the Open Siddur web application, also called the Open Siddur Builder. Efraim is the lead developer and is responsible for birthing this application. He is the contact person on all details related to Open Siddur code <a href="http://github.com/opensiddur">hosted at Github</a>. If you would like to help develop our web application and want to get your hands dirty with syntax and libraries, please <a href="https://opensiddur.org/contact/">contact Efraim</a>. Both Aharon and Efraim regularly present on the topic of <a href="https://en.wikipedia.org/wiki/Open_Source_Judaism">Open Source in Judaism</a> and Open Content licensing.</p>
+<p style="padding-left: 30px;">The Open Siddur Project is directed by Aharon and he is responsible for administering the Open Siddur Project website and is the contact person on any questions not directly concerning software engineering. If you have any compliments or complaints concerning opensiddur.org -- <a href="https://opensiddur.org/contact/">please direct them</a> to Aharon, as it's his <em>avodat lev</em>. Aharon and Efraim collaborate on envisioning the Open Siddur web application, also called the Open Siddur Builder. Efraim is the lead developer and is responsible for birthing this application. He is the contact person on all details related to Open Siddur code <a href="http://github.com/opensiddur">hosted at Github</a>. If you would like to help develop our web application and want to get your hands dirty with syntax and libraries, please <a href="https://opensiddur.org/contact/">contact Efraim</a>. Both Aharon and Efraim regularly present on the topic of <a href="https://en.wikipedia.org/wiki/Open_Source_Judaism">Open-source in Judaism</a> and Open Content licensing.</p>
 
 &nbsp;
 <h3>I love this idea! So how do I volunteer and what can I do?</h3>
@@ -692,7 +693,7 @@ While this application is being built, we're already a space for sharing prayers
 
 &nbsp;
 <h3>I have a related project. How can I use your resources or even partner with the Open Siddur Project?</h3>
-<p style="padding-left: 30px;">The project is open source so all of the work is free for you to use for your project so long as you adhere to the licenses we are using. In any case, please <a href="https://opensiddur.org/contact/">contact us</a> so that we can help signal boost your project!</p>
+<p style="padding-left: 30px;">The project is open-source so all of the work is free for you to use for your project so long as you adhere to the licenses we are using. In any case, please <a href="https://opensiddur.org/contact/">contact us</a> so that we can help signal boost your project!</p>
 
 
 
@@ -704,15 +705,15 @@ While this application is being built, we're already a space for sharing prayers
 &nbsp;
 
 <h3>Why not use OCR to speed up digitization of Hebrew texts?</h3>
-<p style="padding-left: 30px;"><a id="OCR"></a>Optical character recognition (OCR) works well to identify characters for English texts, and, in fact, we do use OCR on Latin-alphabet texts, such as the Singer Prayer Book and the 1917 JPS. We have not yet found any software (open or closed source) that will recognize Hebrew letters with vowels (<em>niqud</em>) with sufficient accuracy to make the proofreading effort less work than manual transcription. However, we do believe that with a little more attention, an open source project dedicated to this problem could make a great deal of headway.</p>
-<p style="padding-left: 30px;"><strong>The most promising OCR for liturgical Hebrew is the open source <a href="https://code.google.com/p/tesseract-ocr/">Tesseract-OCR</a>. Researchers at Ben-Gurion University managed to train Tesseract-OCR read Hebrew with niqud, however they never made their training data publicly available for others. Their documentation is available <a href="http://www.cs.bgu.ac.il/~elhadad/hocr/">here</a> (and <a href="http://www.cs.bgu.ac.il/~elhadad/hocr/OCRWithNikud.pptx">here</a>). If you have an engineering spirit, please tinker with this!</strong></p>
-<p style="padding-left: 30px;">The open source hOCR (Hebrew OCR) project, led by Kobi Zamir, advanced quite far before Kobi abandoned the effort. His code is open source and it was forked by several projects. The most useful of these was <a href="https://code.google.com/p/qhocr/">qhOCR</a>, although their development has stalled. The latest code of hOCR is available on <a href="https://github.com/tmbdev/hocr-tools">Github</a>.</p>
+<p style="padding-left: 30px;"><a id="OCR"></a>Optical character recognition (OCR) works well to identify characters for English texts, and, in fact, we do use OCR on Latin-alphabet texts, such as the Singer Prayer Book and the 1917 JPS. We have not yet found any software (open or closed source) that will recognize Hebrew letters with vowels (<em>niqud</em>) with sufficient accuracy to make the proofreading effort less work than manual transcription. However, we do believe that with a little more attention, an open-source project dedicated to this problem could make a great deal of headway.</p>
+<p style="padding-left: 30px;"><strong>The most promising OCR for liturgical Hebrew is the open-source <a href="https://code.google.com/p/tesseract-ocr/">Tesseract-OCR</a>. Researchers at Ben-Gurion University managed to train Tesseract-OCR read Hebrew with niqud, however they never made their training data publicly available for others. Their documentation is available <a href="http://www.cs.bgu.ac.il/~elhadad/hocr/">here</a> (and <a href="http://www.cs.bgu.ac.il/~elhadad/hocr/OCRWithNikud.pptx">here</a>). If you have an engineering spirit, please tinker with this!</strong></p>
+<p style="padding-left: 30px;">The open-source hOCR (Hebrew OCR) project, led by Kobi Zamir, advanced quite far before Kobi abandoned the effort. His code is open-source and it was forked by several projects. The most useful of these was <a href="https://code.google.com/p/qhocr/">qhOCR</a>, although their development has stalled. The latest code of hOCR is available on <a href="https://github.com/tmbdev/hocr-tools">Github</a>.</p>
 <p style="padding-left: 30px;">Finally, there's <a href="https://github.com/urieli/jochre">Jochre</a>, an OCR being developed by Assaf Urieli, primarily for Yiddish. For important technical reasons, Assaf doesn't believe Jochre is currently suitable for recognizing the wide variety of liturgical texts without much further development. Assaf writes,</p>
 
 <blockquote style="padding-left: 30px;">
 <p style="padding-left: 30px;">the possible combinations are huge: 27 letters if you include the final forms × 9 <em>niqqudim</em> (more if we consider biblical niqqud) × cantillation marks). This means for an algorithm based on classification (such as Jochre), there are far too many classes, and it's virtually impossible to get sufficient representation in an annotated training corpus. It would be better to imagine a two-pass algorithm: the first pass recognizes the letter, and the second pass recognizes the diacritics (<em>niqqud</em> + cantillation). However, this would require development in Jochre - it's hard to guess how much without analyzing further. Note that Yiddish doesn't suffer from the same difficulty, since there is very little <em>niqqud</em> used, and only in certain fixed places (e.g. <em>komets aleph</em>, etc.).</p>
 </blockquote>
-<p style="padding-left: 30px;">Such a two-pass OCR system would almost certainly benefit from a database of Hebrew words with niqqud. Such an open source Hebrew dictionary would also help the development of spell-checking and auto-niqqud modules for existing word processors. The <a href="http://culmus.sourceforge.net/">Culmus Project</a> has one such open source database of Hebrew words that they developed as an add-on to LibreOffice and OpenOffice, <a href="https://extensions.libreoffice.org/extensions/nakdan-by-culmus">Nakdan by Culmus</a>.</p>
+<p style="padding-left: 30px;">Such a two-pass OCR system would almost certainly benefit from a database of Hebrew words with niqqud. Such an open-source Hebrew dictionary would also help the development of spell-checking and auto-niqqud modules for existing word processors. The <a href="http://culmus.sourceforge.net/">Culmus Project</a> has one such open-source database of Hebrew words that they developed as an add-on to LibreOffice and OpenOffice, <a href="https://extensions.libreoffice.org/extensions/nakdan-by-culmus">Nakdan by Culmus</a>.</p>
 
 &nbsp;
 <h3>I want to help transcribe text. What do I need to start transcribing Hebrew?</h3>
@@ -751,8 +752,10 @@ While this application is being built, we're already a space for sharing prayers
 
 &nbsp;
 <h3>How about including this beautiful Hebrew font I found elsewhere on the Internet?</h3>
-<p style="padding-left: 30px;">It certainly is a beautiful font! But look carefully at the user license. The SBL Hebrew font, for example, has certain restrictions on it especially in regards to using the font in printed works. The SBL license is restricted to “non-commercial” use and requires commercial users to pay a license-fee. At this time, there are <a href="https://opensiddur.org/help/fonts">eleven Unicode Hebrew fonts</a> suitable for presenting Jewish liturgy with all of the Hebrew diacritics (<em>niqud</em> and <em>t'amim</em>) and that are licensed with free and open source licenses such as the <a href="https://en.wikipedia.org/wiki/Open_Font_License">OFL</a> and <a href="http://en.wikipedia.org/wiki/GNU_GPL_font_exception">GPL+FE</a> licenses.</p>
-<p style="padding-left: 30px;">One of the main objectives of our project is providing resources for folk designing and crafting siddurim for print. We must be careful to integrate technologies that are being shared with free-culture compatible Open Content and Open Source licenses. Otherwise, we will be distributing work with conflicting licenses. We cannot share resources with licensing that restricts how downstream users choose to distribute their remixed work. We cannot presume that digital fonts are licensed free and open source unless explicitly indicated. So-called "freeware," for instance, refers to software available free-without fee, <em>gratis</em>. (See above, "What's all this about Open Content licenses?")</p>
+<p style="padding-left: 30px;">It certainly is a beautiful font! But look carefully at the user license. The SBL Hebrew font, for example, has certain restrictions on it especially in regards to using the font in printed works. The SBL license is restricted to “non-commercial” use and requires commercial users to pay a license-fee. At this time, there are a fair number of <a href="https://opensiddur.org/help/fonts">Unicode Hebrew fonts</a> suitable for presenting Jewish liturgy with all of the Hebrew diacritics (<em>niqud</em> and <em>t'amim</em>) and that are licensed with free and open-source licenses such as the <a href="https://en.wikipedia.org/wiki/Open_Font_License">OFL</a> and <a href="http://en.wikipedia.org/wiki/GNU_GPL_font_exception">GPL+FE</a> licenses. Since choosing fonts is a matter of style preference, we do not make recommendations beyond indicating (in our fonts chart) how each font supports the Unicode code-range of Hebrew including its punctuation and diacritical marks.</p>
+<p style="padding-left: 30px;">Crafting new fonts (and repairing old open-source fonts) is just outside the mission of our project. We encourage those interested in developing fluency in the libre/open-source software used for repairing and tweaking existing fonts, and coordinating with the <a href="https://culmus.sourceforge.io">Culmus Project</a> if you wish to share a significant improvement or a new font.</p>
+<p style="padding-left: 30px;">One of the main objectives of our project is providing resources for folk designing and crafting siddurim for print. We must be careful to integrate technologies that are being shared with free-culture compatible Open Content and Open-source licenses. Otherwise, we will be distributing work with conflicting licenses. We cannot share resources with licensing that restricts how downstream users choose to distribute their remixed work. We cannot presume that digital fonts are licensed free and open-source unless explicitly indicated. So-called "freeware," for instance, refers to software available free-without fee, <em>gratis</em>. (See above, "What's all this about Open Content licenses?")</p>
+
 
 &nbsp;
 <h3>Good grief! Ancient texts can't be under copyright even after they've been digitized. Why not ignore whatever restrictive terms someone slapped onto the text and be done with it?</h3>
@@ -798,14 +801,14 @@ Rosh Ḥodesh
 		<wp:post_id>561</wp:post_id>
 		<wp:post_date><![CDATA[2010-05-05 23:32:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2010-05-06 07:32:02]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-07 21:44:41]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-08 06:44:41]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-08-02 15:33:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-02 23:33:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[faq]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>316</wp:post_parent>
-		<wp:menu_order>50</wp:menu_order>
+		<wp:menu_order>51</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -848,7 +851,7 @@ Rosh Ḥodesh
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[      ]]></wp:meta_value>
+		<wp:meta_value><![CDATA[       ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_footer]]></wp:meta_key>
@@ -865,6 +868,10 @@ Rosh Ḥodesh
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
 		<wp:meta_value><![CDATA[classic-editor]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ao_post_optimize]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";s:15:"ao_post_preload";s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -949,7 +956,7 @@ If you are the creator or copyright steward of a work under copyright, you are i
 		<wp:post_name><![CDATA[upload]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>281</wp:post_parent>
-		<wp:menu_order>26</wp:menu_order>
+		<wp:menu_order>27</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1091,7 +1098,7 @@ SHARE WHAT YOU LOVE ♡ -- A Decision Tree for Choosing Free-Culture Compatible 
 		<wp:post_name><![CDATA[decision-tree-for-choosing-freelibre-licenses-for-cultural-and-technological-work]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>281</wp:post_parent>
-		<wp:menu_order>41</wp:menu_order>
+		<wp:menu_order>42</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1410,7 +1417,7 @@ The <a href="http://tanach.us/">Westminster Leningrad Codex</a>: digital edition
 		<wp:post_name><![CDATA[recommended-links]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>57</wp:menu_order>
+		<wp:menu_order>58</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1543,7 +1550,7 @@ The source code for this romanizing transliterator is open source, LGPL licensed
 		<wp:post_name><![CDATA[transliterate]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>53</wp:menu_order>
+		<wp:menu_order>54</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3302,7 +3309,7 @@ If you or your company designed a Hebrew font which you never updated to Unicode
 		<wp:post_name><![CDATA[fonts]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>54</wp:menu_order>
+		<wp:menu_order>55</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3407,7 +3414,7 @@ If you or your company designed a Hebrew font which you never updated to Unicode
 		<wp:post_name><![CDATA[help]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>40</wp:menu_order>
+		<wp:menu_order>41</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3564,7 +3571,7 @@ Another OCR project to keep an eye on is that of <a href="https://github.com/uri
 		<wp:post_name><![CDATA[transcribe]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>49</wp:menu_order>
+		<wp:menu_order>50</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3737,7 +3744,7 @@ Press "Layout options"</li>
 		<wp:post_name><![CDATA[typing]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>39</wp:menu_order>
+		<wp:menu_order>40</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3953,7 +3960,7 @@ For a <strong>Keyboard Shortcut</strong> to change the language orientation to 
 		<wp:post_name><![CDATA[editing-layout]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>51</wp:menu_order>
+		<wp:menu_order>52</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -4074,7 +4081,7 @@ We maintain physical, electronic and procedural safeguards intended to protect a
 		<wp:post_name><![CDATA[privacy-policy]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>11058</wp:post_parent>
-		<wp:menu_order>38</wp:menu_order>
+		<wp:menu_order>39</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -4306,7 +4313,7 @@ We appreciate your taking the time to read these Terms of Use, and we are very h
 		<wp:post_name><![CDATA[terms-of-use]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>11058</wp:post_parent>
-		<wp:menu_order>34</wp:menu_order>
+		<wp:menu_order>35</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -4523,7 +4530,7 @@ Only DMCA notices and notices relating to complaints in connection with infringe
 		<wp:post_name><![CDATA[copyright-policy]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>11058</wp:post_parent>
-		<wp:menu_order>29</wp:menu_order>
+		<wp:menu_order>30</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -4636,7 +4643,7 @@ Connect with us on <a href="http://facebook.com/opensiddur">Facebook</a>, <a hre
 		<wp:post_name><![CDATA[home]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>9</wp:menu_order>
+		<wp:menu_order>10</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -4808,7 +4815,7 @@ Imaging is critical in providing a source image by which collaborative transcrip
 		<wp:post_name><![CDATA[document-manuscript-imaging]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>28</wp:menu_order>
+		<wp:menu_order>29</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -4926,7 +4933,7 @@ Click here to download the <a href="https://opensiddur.org/help/fonts/">Open Sid
 		<wp:post_name><![CDATA[hebrew-support-in-your-web-browser]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>56</wp:menu_order>
+		<wp:menu_order>57</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -5021,7 +5028,7 @@ To join this community of contributors, please <a href="/contribute/upload/">sha
 		<wp:post_name><![CDATA[contributors]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>281</wp:post_parent>
-		<wp:menu_order>60</wp:menu_order>
+		<wp:menu_order>61</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -5126,7 +5133,7 @@ To join this community of contributors, please <a href="/contribute/upload/">sha
 		<wp:post_name><![CDATA[policies]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>17414</wp:post_parent>
-		<wp:menu_order>48</wp:menu_order>
+		<wp:menu_order>49</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -5257,7 +5264,7 @@ Text on this page has been amended from <a href="http://creativecommons.org.il/i
 		<wp:post_name><![CDATA[%d7%97%d7%9c%d7%a7-%d7%9e%d7%94%d7%96%d7%9b%d7%95%d7%99%d7%95%d7%aa-%d7%a9%d7%9e%d7%95%d7%a8%d7%95%d7%aa]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>11058</wp:post_parent>
-		<wp:menu_order>45</wp:menu_order>
+		<wp:menu_order>46</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -5436,7 +5443,7 @@ Find below, a chart for Hebrew consonants and vowels with their corresponding le
 		<wp:post_name><![CDATA[style-guide]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>281</wp:post_parent>
-		<wp:menu_order>55</wp:menu_order>
+		<wp:menu_order>56</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -6241,7 +6248,7 @@ English translation courtesy of Leonard Berkowitz. Section numbers outside the s
 		<wp:post_name><![CDATA[rules-for-niqqud]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>52</wp:menu_order>
+		<wp:menu_order>53</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -6330,7 +6337,7 @@ English translation courtesy of Leonard Berkowitz. Section numbers outside the s
 		<wp:post_name><![CDATA[about-this-project]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>47</wp:menu_order>
+		<wp:menu_order>48</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -6433,7 +6440,7 @@ In the summer of 2009, the Open Siddur was one of sixteen innovative projects ch
 		<wp:post_name><![CDATA[acknowledgements-2]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>316</wp:post_parent>
-		<wp:menu_order>61</wp:menu_order>
+		<wp:menu_order>62</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -6506,7 +6513,7 @@ In the summer of 2009, the Open Siddur was one of sixteen innovative projects ch
 		<wp:post_name><![CDATA[profile]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>62</wp:menu_order>
+		<wp:menu_order>63</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -6597,7 +6604,7 @@ In the summer of 2009, the Open Siddur was one of sixteen innovative projects ch
 		<wp:post_name><![CDATA[bookmarks]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>21</wp:menu_order>
+		<wp:menu_order>22</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -6697,7 +6704,7 @@ In the summer of 2009, the Open Siddur was one of sixteen innovative projects ch
 		<wp:post_name><![CDATA[edit-account]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>25</wp:menu_order>
+		<wp:menu_order>26</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -6786,7 +6793,7 @@ Account registration is available to all project contributors. (To become a proj
 		<wp:post_name><![CDATA[log-in]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>18</wp:menu_order>
+		<wp:menu_order>19</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -6870,7 +6877,7 @@ Account registration is available to all project contributors. (To become a proj
 		<wp:post_name><![CDATA[recover-password]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>22</wp:menu_order>
+		<wp:menu_order>23</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -6936,6 +6943,29 @@ Account registration is available to all project contributors. (To become a proj
 
 Covering the operational cost of keeping our servers and websites online is up to people like you who deem this project worthy. The speed by which the project moves forward ultimately depends upon <a href="/contributing/upload/">contributions of content</a> and <a href="/contribute/joining/">volunteered labor</a>, or lacking these, financial donations to pay for additional specialized services. If you believe in our mission, want to see this project succeed, but cannot volunteer any labor or contribute any Jewish prayer-related content, then please donate some funds. -- <strong>and thank you!</strong>
 
+<a href="https://patreon.com/opensiddur"><img src="https://opensiddur.org/wp-content/uploads/2019/12/PatreonCircle-150x150.png" alt="" width="150" height="150" class="alignnone size-thumbnail wp-image-28458" /></a>
+
+Become a patron of this project for as little $1 a month. 
+
+Scheduled monthly donations will be received through our account on <a href="https://patreon.com/opensiddur">Patreon</a>.
+
+Alternately, if you would rather make an online tax-deductible, one-time donation, 
+you may do so through <a href="https://fundrazr.com/opensiddur">Fundrazr</a>. 
+
+Finally, if you would prefer to make a donation by mail (for <strong>$250 or more</strong>), 
+then <em>please make your check out to</em> "<u>Jewish Creativity International</u>" 
+noting that your donation is for <strong>"the Open Siddur Project"</strong>.
+ 
+Mail your check to the following address:
+
+<p style="padding-left: 80px;">the Open Siddur Project
+℅ Jewish Creativity International
+2472 Broadway, #331
+New York, NY 10025-7449</p>
+
+[Jewish Creativity International (EIN 95-4328467), a 501(3)c registered non-profit, acts as our fiscal sponsor for just such donations.]
+
+<!--
 <table style="margin-left: auto; margin-right: auto;" class="draggable">
 
 <thead><tr>
@@ -6948,50 +6978,34 @@ Covering the operational cost of keeping our servers and websites online is up t
 
 <tbody>
 <tr><td style="vertical-align:top;">
-<a href="https://patreon.com/opensiddur"><img src="https://opensiddur.org/wp-content/uploads/2019/12/PatreonCircle-150x150.png" alt="" width="150" height="150" class="alignleft size-thumbnail wp-image-28458" /></a>
+
 </td>
 
 <td style="vertical-align:top;">
-<a href="https://www.mightycause.com/story/Opensiddurproject"><img src="https://opensiddur.org/wp-content/uploads/2019/12/JCI-logo-300x155.png" alt="" width="300" height="155" class="alignleft size-medium wp-image-28459" /></a>
+<div class="fr-widget" data-key="opensiddur" data-organization="bD8i7" ><img src="//static.fundrazr.com/widgets/loader.gif"/></div>
 </td>
 
 <td style="vertical-align:top;">
-<a href="https://opensiddur.org/wp-content/uploads/2021/10/open-siddur-donation-by-check-example.png"><img src="https://opensiddur.org/wp-content/uploads/2021/10/open-siddur-donation-by-check-example-300x132.png" alt="" width="300" height="132" class="alignnone size-medium wp-image-39483" /></a>
+<img src="https://opensiddur.org/wp-content/uploads/2019/12/JCI-logo-300x155.png" alt="" width="300" height="155" class="alignnone size-medium wp-image-28459" />
 </td>
 </tr>
 
 <tr><td style="vertical-align:top;">
-Become a patron of this project for as little $1 a month. 
 
-Scheduled monthly donations will be received through our account on <a href="https://patreon.com/opensiddur">Patreon</a>.
 
 <strong>Thank you!</strong>
 </td>
 
 <td style="vertical-align:top;">
-If you would rather make an online tax-deductible, one-time donation, 
-you may do so through Jewish Creativity International (EIN 95-4328467), 
-a 501(3)c registered non-profit which acts as our fiscal sponsor for just such donations. 
 
-You can make your donation online through Jewish Creativity International 
-via the philanthropic website, <a href="https://www.mightycause.com/story/Opensiddurproject">Mightycause</a>. 
 </td>
 
 <td style="vertical-align:top;">
-If you would prefer to make a donation by mail (for <strong>$250 or more</strong>), 
-then <em>please make your check out to</em> "<u>Jewish Creativity International</u>" 
-noting that your donation is for <strong>"the Open Siddur Project"</strong>.
- 
-Mail your check to the following address:
 
-<p style="padding-left: 80px;">the Open Siddur Project
-℅ Jewish Creativity International
-2472 Broadway, #331
-New York, NY 10025-7449</p>
 </td>
 </tr>
 </tbody></table>
-
+-->
 
 
 
@@ -7002,14 +7016,14 @@ New York, NY 10025-7449</p>
 		<wp:post_id>28454</wp:post_id>
 		<wp:post_date><![CDATA[2019-12-10 23:30:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-12-11 08:30:05]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-15 17:45:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-16 02:45:42]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-08-17 16:49:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-18 00:49:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[donations]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>281</wp:post_parent>
-		<wp:menu_order>23</wp:menu_order>
+		<wp:menu_order>24</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -7032,7 +7046,7 @@ New York, NY 10025-7449</p>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[                             ]]></wp:meta_value>
+		<wp:meta_value><![CDATA[<script>(function() { var d = document, fr = d.createElement('script'); fr.type = 'text/javascript'; fr.async = true; fr.src = 'https://static.fundrazr.com/widgets/loader.js'; var s = d.getElementsByTagName('script')[0]; s.parentNode.insertBefore(fr, s);})();</script>     ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_footer]]></wp:meta_key>
@@ -7056,7 +7070,7 @@ New York, NY 10025-7449</p>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[ao_post_optimize]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";s:15:"ao_post_preload";s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -7163,7 +7177,7 @@ The Open Siddur is a volunteer-driven, non-profit, non-denominational, and non-p
 		<wp:post_name><![CDATA[joining]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>281</wp:post_parent>
-		<wp:menu_order>12</wp:menu_order>
+		<wp:menu_order>13</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -7232,7 +7246,7 @@ The Open Siddur is a volunteer-driven, non-profit, non-denominational, and non-p
 		<wp:post_name><![CDATA[table-of-contents]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>7</wp:menu_order>
+		<wp:menu_order>8</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -7294,7 +7308,7 @@ The Open Siddur is a volunteer-driven, non-profit, non-denominational, and non-p
 		<wp:post_name><![CDATA[user-verification]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>6</wp:menu_order>
+		<wp:menu_order>7</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -7351,7 +7365,7 @@ The Open Siddur is a volunteer-driven, non-profit, non-denominational, and non-p
 		<wp:post_name><![CDATA[account-2]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>5</wp:menu_order>
+		<wp:menu_order>6</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -7379,7 +7393,7 @@ The Open Siddur is a volunteer-driven, non-profit, non-denominational, and non-p
 		<wp:post_name><![CDATA[contributor]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>58</wp:menu_order>
+		<wp:menu_order>59</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -7442,7 +7456,7 @@ The Open Siddur is a volunteer-driven, non-profit, non-denominational, and non-p
 		<wp:post_name><![CDATA[translate]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
+		<wp:menu_order>1</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -7482,6 +7496,116 @@ The Open Siddur is a volunteer-driven, non-profit, non-denominational, and non-p
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[RSS to email subscriptions]]></title>
+		<link>https://opensiddur.org/help/rss-to-email-subscriptions/</link>
+		<pubDate>Thu, 11 Aug 2022 18:38:01 +0000</pubDate>
+		<dc:creator><![CDATA[aharon.varady]]></dc:creator>
+		<guid isPermaLink="false">https://opensiddur.org/?page_id=46129</guid>
+		<description></description>
+		<content:encoded><![CDATA[Excerpts (with links) to new resources shared through the Open Siddur by project contributors. New emails relayed once a week, every Wedesday morning at 4AM (Eastern). 
+
+(<a href="https://en.wikipedia.org/wiki/RSS">RSS</a> is an open technological standard for summarizing and structuring the content of websites, <a href="https://opensiddur.org/feed/">such as this one</a>. The technology enables the syndication of website content as "feeds" to newsreader applications and email delivery services.) 
+
+
+<!-- Begin Mailchimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif;  width:600px;}
+	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="https://opensiddur.us9.list-manage.com/subscribe/post?u=7d2a93057c35796eecdee8eb4&id=315944c503&f_id=00a803e1f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	<h2>Sign up for the latest.</h2>
+<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+<div class="mc-field-group">
+	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+</label>
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+	<span id="mce-EMAIL-HELPERTEXT" class="helper_text"></span>
+</div>
+<div class="mc-field-group input-group">
+    <strong>Email Format </strong>
+    <ul><li><input type="radio" value="html" name="EMAILTYPE" id="mce-EMAILTYPE-0"><label for="mce-EMAILTYPE-0">html</label></li>
+<li><input type="radio" value="text" name="EMAILTYPE" id="mce-EMAILTYPE-1"><label for="mce-EMAILTYPE-1">text</label></li>
+</ul>
+</div>
+	<div id="mce-responses" class="clear foot">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_7d2a93057c35796eecdee8eb4_315944c503" tabindex="-1" value=""></div>
+        <div class="optionalParent">
+            <div class="clear foot">
+                <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+                <p class="brandingLogo"><a href="http://eepurl.com/h5u_HP" title="Mailchimp - email marketing made easy and fun"><img src="https://eep.io/mc-cdn-images/template_images/branding_logo_text_dark_dtp.svg"></a></p>
+            </div>
+        </div>
+    </div>
+</form>
+</div>
+
+<!--End mc_embed_signup-->
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>46129</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-11 10:38:01]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-11 18:38:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-24 05:42:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-24 13:42:52]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[rss-to-email-subscriptions]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>7952</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="author" nicename="cap-aharon-varady"><![CDATA[aharon.varady]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
+		<wp:meta_value><![CDATA[classic-editor]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[131]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
+		<wp:meta_value><![CDATA[             ]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oh_add_script_footer]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oh_add_script_header_hide]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oh_add_script_footer_hide]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ao_post_optimize]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";s:15:"ao_post_preload";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[46296]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>
