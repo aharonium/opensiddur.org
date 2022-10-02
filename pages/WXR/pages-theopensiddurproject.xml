@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.0.2" created="2022-09-02 13:36" -->
+	<!-- generator="WordPress/6.0.2" created="2022-10-02 03:59" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>the Open Siddur Project ✍ פְּרוֺיֶּקט הַסִּדּוּר הַפָּתוּחַ</title>
 	<link>https://opensiddur.org</link>
 	<description>an open-source, community-grown archive for those sharing prayers and crafting their own prayerbooks</description>
-	<pubDate>Fri, 02 Sep 2022 13:36:57 +0000</pubDate>
+	<pubDate>Sun, 02 Oct 2022 03:59:58 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://opensiddur.org</wp:base_site_url>
@@ -61,7 +61,7 @@
 		<content:encoded><![CDATA[<div class="english" lang="en" style="font-size: 1.2em;">
 The Open Siddur is a volunteer-driven, non-profit, non-denominational, and non-prescriptive community project growing a gratis & libre Open Access archive of digitized Jewish prayer, liturgy, and related works (historic and contemporary, familiar and obscure), composed in every era, region, and language Jews and other Israelites have ever prayed. Our goal is to provide a platform for sharing open-source resources, tools, and content for individuals and communities crafting their own prayerbooks (סִדּוּרִים | siddurim). Through this we hope to empower personal autonomy, to preserve customs, and to foster openness and vitality in religious culture.
 
-<strong>Our mission is to make Jewish prayer literature accessible as indexable and searchable digital text for students, scholars, artists, and educators to research, redistribute, and/or remix as needed for themselves, their classes, or their communities.</strong>  
+Our mission is to make Jewish prayer literature accessible as indexable and searchable digital text for students, scholars, artists, and educators to research, redistribute, and/or remix as needed for themselves, their classes, or their communities. <strong>In short, our mission is to make the content of Jewish liturgy accessible for creative reuse.</strong>  
 
 We work for this mission by sharing digital editions of Jewish prayer literature and liturgy-related works that are either already in the Public Domain or else shared by their creators and copyright proprietors with <a href="http://opendefinition.org/">libre Open Content</a> licenses. To this end, we are developing an online platform for crafting, publishing, and printing Jewish prayer books (<em>siddurim</em>), and growing a digital archive of Jewish prayer literature (historic and contemporary, familiar and obscure) in every language Jews pray or have ever prayed. We hope that this effort will preserve for posterity those liturgies disseminated as ephemeral works and the variations recorded in Jewish liturgical traditions worldwide. We hope these resources encourage creative engagement and understanding in Jewish spiritual practice and provide an urgently needed resource for Jews sharing and crafting new siddurim.
 
@@ -117,8 +117,8 @@ The Open Siddur Project is committed to the following principles and movements w
 		<wp:post_id>2</wp:post_id>
 		<wp:post_date><![CDATA[2009-06-16 06:26:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2009-06-16 14:26:11]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-10-19 16:12:04]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-10-20 00:12:04]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-13 09:15:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-13 17:15:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[mission]]></wp:post_name>
@@ -167,7 +167,7 @@ The Open Siddur Project is committed to the following principles and movements w
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[             ]]></wp:meta_value>
+		<wp:meta_value><![CDATA[              ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_footer]]></wp:meta_key>
@@ -187,7 +187,7 @@ The Open Siddur Project is committed to the following principles and movements w
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[ao_post_optimize]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";s:15:"ao_post_preload";s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>5</wp:comment_id>
@@ -7505,7 +7505,7 @@ The Open Siddur is a volunteer-driven, non-profit, non-denominational, and non-p
 		<dc:creator><![CDATA[aharon.varady]]></dc:creator>
 		<guid isPermaLink="false">https://opensiddur.org/?page_id=46129</guid>
 		<description></description>
-		<content:encoded><![CDATA[Excerpts (with links) to new resources shared through the Open Siddur by project contributors. New emails relayed once a week, every Wedesday morning at 4AM (Eastern). 
+		<content:encoded><![CDATA[Excerpts (with links) to new resources shared through the Open Siddur by project contributors. New emails relayed once a week, every Friday morning at 4AM (Eastern). 
 
 (<a href="https://en.wikipedia.org/wiki/RSS">RSS</a> is an open technological standard for summarizing and structuring the content of websites, <a href="https://opensiddur.org/feed/">such as this one</a>. The technology enables the syndication of website content as "feeds" to newsreader applications and email delivery services.) 
 
@@ -7555,8 +7555,8 @@ The Open Siddur is a volunteer-driven, non-profit, non-denominational, and non-p
 		<wp:post_id>46129</wp:post_id>
 		<wp:post_date><![CDATA[2022-08-11 10:38:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-08-11 18:38:01]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-08-24 05:42:52]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-08-24 13:42:52]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-02 16:58:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-03 00:58:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[rss-to-email-subscriptions]]></wp:post_name>
@@ -7581,7 +7581,7 @@ The Open Siddur is a volunteer-driven, non-profit, non-denominational, and non-p
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[             ]]></wp:meta_value>
+		<wp:meta_value><![CDATA[              ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_footer]]></wp:meta_key>
