@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.0.2" created="2022-10-02 03:59" -->
+	<!-- generator="WordPress/6.1" created="2022-11-04 06:33" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>the Open Siddur Project ✍ פְּרוֺיֶּקט הַסִּדּוּר הַפָּתוּחַ</title>
 	<link>https://opensiddur.org</link>
 	<description>an open-source, community-grown archive for those sharing prayers and crafting their own prayerbooks</description>
-	<pubDate>Sun, 02 Oct 2022 03:59:58 +0000</pubDate>
+	<pubDate>Fri, 04 Nov 2022 06:33:54 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://opensiddur.org</wp:base_site_url>
@@ -41,7 +41,7 @@
 	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[hermit]]></wp:author_login><wp:author_email>email redacted</wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[The]]></wp:author_first_name><wp:author_last_name><![CDATA[Admin]]></wp:author_last_name></wp:author>
 
 				
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.1</generator>
 
 <image>
 	<url>https://opensiddur.org/wp-content/uploads/2015/03/Open-Siddur-Project-Logo-2015-5509b4bdv1_site_icon-32x32.png</url>
@@ -901,7 +901,7 @@ To save us time, please share your document in the native editable format used i
 
 In presenting both historic and contemporary work, we prioritize the display of semantic phrases for the linear translation of text wherever possible. We maintain (or reconstruct, if no structure is evident) the division of text into stanzas or paragraphs based on common theme. Concrete representations of poetry, prayer, and prayer-poems is only offered in the presentation of previously published reference sources (if the work has been previously published).
 
-Our project does not demand conformity to any style. If you are interested, we do have preferences which you may use for a style guide. Please consult our <a href="/contributing/style-guide/">style guide</a> for guidance on transliteration vs. translation (especially for complex terms such as divine names), and a <a href="/help/transliterate/">transliteration schema</a> for Romanizing vocalized Hebrew.
+Our project does not <em>demand</em> conformity to any style. However, we do have preferences which you may use for a style guide. Please consult our <a href="/contributing/style-guide/">style guide</a> for guidance on transliteration vs. translation (especially for complex terms such as divine names), and a <a href="/help/transliterate/">transliteration schema</a> for Romanizing vocalized Hebrew.
 
 <hr />
 
@@ -949,8 +949,8 @@ If you are the creator or copyright steward of a work under copyright, you are i
 		<wp:post_id>781</wp:post_id>
 		<wp:post_date><![CDATA[2010-07-19 21:09:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2010-07-20 05:09:18]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-03-20 22:26:51]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-03-21 06:26:51]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-10-28 11:39:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-10-28 19:39:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[upload]]></wp:post_name>
@@ -971,7 +971,7 @@ If you are the creator or copyright steward of a work under copyright, you are i
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[ao_post_optimize]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";s:15:"ao_post_preload";s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wtpsw_views]]></wp:meta_key>
@@ -1003,7 +1003,7 @@ If you are the creator or copyright steward of a work under copyright, you are i
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[                                                   ]]></wp:meta_value>
+		<wp:meta_value><![CDATA[                                                    ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_footer]]></wp:meta_key>
@@ -1020,6 +1020,10 @@ If you are the creator or copyright steward of a work under copyright, you are i
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
 		<wp:meta_value><![CDATA[classic-editor]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[saswp_schema_type_product_pros_enable_cons]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1634,7 +1638,7 @@ The source code for this romanizing transliterator is open source, LGPL licensed
 		<content:encoded><![CDATA[<div class="english-sans" lang="en" style="font-size: 1.2em;">
 <h3>Open-source Unicode Hebrew Fonts (sorted by diacritic support and style) • פונטים בעברית, יוניקוד וקוד פתוח</h3>
 
-Click on a font name below for a download link, and to review a summary of the font's diacritic positioning and character support. See bottom of page for a font comparison chart (<a href="https://archive.org/download/OpenSiddurProjectOpenSourceUnicodeHebrewFontPackCatalogue/Open-Siddur-Project-Hebrew-Font-Pack-comparison-v.1.18.7.pdf">PDF</a>). 
+Click on a font name below for a download link, and to review a summary of the font's diacritic positioning and character support. See bottom of page for a font comparison chart (<a href="https://archive.org/download/OpenSiddurProjectOpenSourceUnicodeHebrewFontPackCatalogue/Open-Siddur-Project-Hebrew-Font-Pack-comparison-v.1.18.8.pdf">PDF</a>). 
 
 The font pack is maintained by Aharon Varady, and all the fonts can be downloaded as ZIP file from his github account <a href="https://github.com/aharonium/fonts/archive/master.zip">here</a>. (If you'd like to support the maintenance of this font pack, please consider becoming a <a href="https://patreon.com/aharonium">patron</a>.)
 
@@ -2563,7 +2567,17 @@ The tables below are organized according to font support for t'amim and/or niqqu
 
 
 
-
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=LulavCLM" frameborder="0" width="100%" height="240px"]</td>
+<td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=LulavCLM" rel="lightbox" data-lightbox-type="iframe">Lulav CLM</a></h3></td>
+<td style="vertical-align:top;">does not support diacritics</td>
+<td style="vertical-align:top;">no niqqud/t'amim</td>
+<td style="vertical-align:top;">Scribal</td>
+<td style="vertical-align:top;"><a href="http://culmus.sourceforge.net/">Culmus Project</a></td>
+<td style="vertical-align:top;">Maxim Iorsh</td>
+<td style="vertical-align:top;">1.0</td>
+<td style="vertical-align:top;"><a href="http://en.wikipedia.org/wiki/GNU_General_Public_License">GPL</a> 2.0</td>
+</tr>
 
 
 
@@ -3265,7 +3279,7 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <hr />
 
 <div class="english" lang="en" style="font-size: 1.2em;">
-<h3>COMPLETE FONT PACK DOWNLOAD:</h3> <a href="https://github.com/aharonium/fonts/archive/master.zip">ZIP</a> (v.1.18.7) | <a href="https://archive.org/download/OpenSiddurProjectOpenSourceUnicodeHebrewFontPackCatalogue/Open-Siddur-Project-Hebrew-Font-Pack-comparison-v.1.18.7.pdf">PDF</a> (Open Source and Unicode Hebrew Font comparison chart. Note: contains <em>shemot</em>.)
+<h3>COMPLETE FONT PACK DOWNLOAD:</h3> <a href="https://github.com/aharonium/fonts/archive/master.zip">ZIP</a> (v.1.18.8) | <a href="https://archive.org/download/OpenSiddurProjectOpenSourceUnicodeHebrewFontPackCatalogue/Open-Siddur-Project-Hebrew-Font-Pack-comparison-v.1.18.8.pdf">PDF</a> (Open Source and Unicode Hebrew Font comparison chart. Note: contains <em>shemot</em>.)
 
 Our open-source Unicode Hebrew font pack is maintained on <a href="https://github.com/aharonium/fonts">Github</a> by Aharon N. Varady. If you value this service, please consider becoming a <a href="https://patreon.com/aharonium">patron</a>.
 
@@ -3302,8 +3316,8 @@ If you or your company designed a Hebrew font which you never updated to Unicode
 		<wp:post_id>7951</wp:post_id>
 		<wp:post_date><![CDATA[2013-12-19 11:11:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2013-12-19 20:11:54]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-04-25 14:15:34]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-04-25 22:15:34]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-10-24 16:01:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-10-25 00:01:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[fonts]]></wp:post_name>
@@ -3380,7 +3394,7 @@ If you or your company designed a Hebrew font which you never updated to Unicode
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[                                      ]]></wp:meta_value>
+		<wp:meta_value><![CDATA[                                         ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header_hide]]></wp:meta_key>
@@ -3393,6 +3407,10 @@ If you or your company designed a Hebrew font which you never updated to Unicode
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[ao_post_optimize]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";s:15:"ao_post_preload";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[saswp_schema_type_product_pros_enable_cons]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
