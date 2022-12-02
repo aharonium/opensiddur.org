@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.1" created="2022-11-04 06:33" -->
+	<!-- generator="WordPress/6.1.1" created="2022-12-01 18:35" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,19 +29,19 @@
 	<title>the Open Siddur Project ✍ פְּרוֺיֶּקט הַסִּדּוּר הַפָּתוּחַ</title>
 	<link>https://opensiddur.org</link>
 	<description>an open-source, community-grown archive for those sharing prayers and crafting their own prayerbooks</description>
-	<pubDate>Fri, 04 Nov 2022 06:33:54 +0000</pubDate>
+	<pubDate>Thu, 01 Dec 2022 18:35:59 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://opensiddur.org</wp:base_site_url>
 	<wp:base_blog_url>https://opensiddur.org</wp:base_blog_url>
 
-		<wp:author><wp:author_id>310</wp:author_id><wp:author_login><![CDATA[hierophant]]></wp:author_login><wp:author_email>email redacted</wp:author_email><wp:author_display_name><![CDATA[the Hierophant]]></wp:author_display_name><wp:author_first_name><![CDATA[the]]></wp:author_first_name><wp:author_last_name><![CDATA[Hierophant]]></wp:author_last_name></wp:author>
-	<wp:author><wp:author_id>455</wp:author_id><wp:author_login><![CDATA[aharon-nissn.varady]]></wp:author_login><wp:author_email>email redacted</wp:author_email><wp:author_display_name><![CDATA[Aharon N. Varady]]></wp:author_display_name><wp:author_first_name><![CDATA[Aharon N.]]></wp:author_first_name><wp:author_last_name><![CDATA[Varady]]></wp:author_last_name></wp:author>
-	<wp:author><wp:author_id>131</wp:author_id><wp:author_login><![CDATA[aharon.varady]]></wp:author_login><wp:author_email>email redacted</wp:author_email><wp:author_display_name><![CDATA[Aharon N. Varady (transcription)]]></wp:author_display_name><wp:author_first_name><![CDATA[Aharon]]></wp:author_first_name><wp:author_last_name><![CDATA[Varady (transcription)]]></wp:author_last_name></wp:author>
-	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[hermit]]></wp:author_login><wp:author_email>email redacted</wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[The]]></wp:author_first_name><wp:author_last_name><![CDATA[Admin]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>310</wp:author_id><wp:author_login><![CDATA[hierophant]]></wp:author_login><wp:author_email><![CDATA[hierophant@opensiddur.org]]></wp:author_email><wp:author_display_name><![CDATA[the Hierophant]]></wp:author_display_name><wp:author_first_name><![CDATA[the]]></wp:author_first_name><wp:author_last_name><![CDATA[Hierophant]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_id>455</wp:author_id><wp:author_login><![CDATA[aharon-nissn.varady]]></wp:author_login><wp:author_email><![CDATA[aharon.varady@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[Aharon N. Varady]]></wp:author_display_name><wp:author_first_name><![CDATA[Aharon N.]]></wp:author_first_name><wp:author_last_name><![CDATA[Varady]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_id>131</wp:author_id><wp:author_login><![CDATA[aharon.varady]]></wp:author_login><wp:author_email><![CDATA[aharon@opensiddur.org]]></wp:author_email><wp:author_display_name><![CDATA[Aharon N. Varady (transcription)]]></wp:author_display_name><wp:author_first_name><![CDATA[Aharon]]></wp:author_first_name><wp:author_last_name><![CDATA[Varady (transcription)]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[hermit]]></wp:author_login><wp:author_email><![CDATA[aharon@varady.net]]></wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[The]]></wp:author_first_name><wp:author_last_name><![CDATA[Admin]]></wp:author_last_name></wp:author>
 
 				
-	<generator>https://wordpress.org/?v=6.1</generator>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
 
 <image>
 	<url>https://opensiddur.org/wp-content/uploads/2015/03/Open-Siddur-Project-Logo-2015-5509b4bdv1_site_icon-32x32.png</url>
@@ -192,7 +192,7 @@ The Open Siddur Project is committed to the following principles and movements w
 							<wp:comment>
 			<wp:comment_id>5</wp:comment_id>
 			<wp:comment_author><![CDATA[The Jewish Liturgy Project: A Toolkit for Custom Liturgy | eJewish Philanthropy: The Jewish Philanthropy Blog]]></wp:comment_author>
-			<wp:comment_author_email>email redacted</wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[]]></wp:comment_author_email>
 			<wp:comment_author_url>http://ejewishphilanthropy.com/the-jewish-liturgy-project-a-toolkit-for-custom-liturgy/</wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[74.50.25.250]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2009-07-04 22:51:55]]></wp:comment_date>
@@ -206,7 +206,7 @@ The Open Siddur Project is committed to the following principles and movements w
 					<wp:comment>
 			<wp:comment_id>58</wp:comment_id>
 			<wp:comment_author><![CDATA[Prayer Unbound: Reactions to Open Siddur « This is What a Rabbi Looks Like]]></wp:comment_author>
-			<wp:comment_author_email>email redacted</wp:comment_author_email>
+			<wp:comment_author_email><![CDATA[]]></wp:comment_author_email>
 			<wp:comment_author_url>http://thisiswhatarabbilookslike.wordpress.com/2009/12/03/prayer-unbound-reactions-to-open-siddur/</wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[72.233.96.139]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2009-12-03 13:04:12]]></wp:comment_date>
@@ -371,14 +371,14 @@ Initially, development of the Open Siddur focused primarily on building core pro
 
 [contact-form-7 id="3882" title="Default Contact form"]
 
-If you'd like to connect with us over social media, join our discussion group on <a href="https://facebook.com/groups/opensiddur">Facebook</a>. For more technical discussions, find our <a href="https://groups.google.com/forum/#!forum/opensiddur-tech">email list</a> hosted on Google. You can also follow our project on <a href="https://twitter.com/opensiddur">Twitter</a> and via our <a href="https://facebook.com/opensiddur">Facebook page</a>. If you'd like to get an email when new posts appear on the site, please subscribe to our <a href="https://feedburner.google.com/fb/a/mailverify?uri=opensiddur">feedburner</a>.
+If you'd like to connect with us over social media, join our discussion group on <a href="https://facebook.com/groups/opensiddur">Facebook</a>. For more technical discussions, find our <a href="https://groups.google.com/forum/#!forum/opensiddur-tech">email list</a> hosted on Google. You can also follow our project on <a href="https://twitter.com/opensiddur">Twitter</a> and via our <a href="https://facebook.com/opensiddur">Facebook page</a>. If you'd like to get an email when new posts appear on the site, please subscribe to our <a href="https://opensiddur.org/help/rss-to-email-subscriptions/">RSS to Email service</a>.
 </div>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>76</wp:post_id>
 		<wp:post_date><![CDATA[2009-06-28 15:54:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2009-06-28 23:54:11]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-06-11 12:13:16]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-06-11 20:13:16]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-06 20:22:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-07 05:22:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
@@ -439,7 +439,7 @@ If you'd like to connect with us over social media, join our discussion group on
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[                          ]]></wp:meta_value>
+		<wp:meta_value><![CDATA[                           ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header_hide]]></wp:meta_key>
@@ -456,6 +456,10 @@ If you'd like to connect with us over social media, join our discussion group on
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
 		<wp:meta_value><![CDATA[classic-editor]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[saswp_schema_type_product_pros_enable_cons]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -899,7 +903,7 @@ This project is primarily focused on sharing <strong>textual</strong> works of p
 
 To save us time, please share your document in the native editable format used in its preparation. If your work only survives as a printed page, we will image and transcribe the printed work. (<a href="/contact/">Contact us</a> if you need to mail your work to our physical address for digital imaging.) If your work only survives as legible text in a digitized image or PDF, we will work to transcribe that text to machine-readable, searchable, and copy-pastable Unicode text suitable for displaying in HTML.
 
-In presenting both historic and contemporary work, we prioritize the display of semantic phrases for the linear translation of text wherever possible. We maintain (or reconstruct, if no structure is evident) the division of text into stanzas or paragraphs based on common theme. Concrete representations of poetry, prayer, and prayer-poems is only offered in the presentation of previously published reference sources (if the work has been previously published).
+In presenting both historic and contemporary work, we prioritize the display of semantic phrases for the linear translation of text wherever possible. We maintain (or reconstruct, if no structure is evident) the division of text into stanzas or paragraphs based on common theme. Concrete representations of poetry, prayer, and prayer-poems are only provided in the presentation of previously published reference sources (if the work has been previously published).
 
 Our project does not <em>demand</em> conformity to any style. However, we do have preferences which you may use for a style guide. Please consult our <a href="/contributing/style-guide/">style guide</a> for guidance on transliteration vs. translation (especially for complex terms such as divine names), and a <a href="/help/transliterate/">transliteration schema</a> for Romanizing vocalized Hebrew.
 
@@ -949,8 +953,8 @@ If you are the creator or copyright steward of a work under copyright, you are i
 		<wp:post_id>781</wp:post_id>
 		<wp:post_date><![CDATA[2010-07-19 21:09:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2010-07-20 05:09:18]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-28 11:39:26]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-28 19:39:26]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-21 19:01:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 04:01:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[upload]]></wp:post_name>
@@ -1003,7 +1007,7 @@ If you are the creator or copyright steward of a work under copyright, you are i
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[                                                    ]]></wp:meta_value>
+		<wp:meta_value><![CDATA[                                                     ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_footer]]></wp:meta_key>
@@ -1070,9 +1074,9 @@ If you are the creator or copyright steward of a work under copyright, you are i
 
 In the language of Jewish prayer, <em>kavvanah</em>, intention, is bound to <em>keva</em>, structure. Intention is personal, whilst structure is a received cultural convention, representing a common tradition. In general, all our actions are inspired by our intentions, and while some actions have unintended consequences, Judaism has a way, or <em>halakhah</em> for structuring them so that one's actions increase goodness in the world and avoid harm. Ultimately, the practice of <em>halakhah</em> should cultivate certain qualities that in turn motivate compassionate, considerate, and creative intentions.
 
-In <em><a href="http://en.wikipedia.org/wiki/Pirkei_Avot">Pirkei Avot</a></em>,[foot]The <em>Pirkei Avot</em> are a collection of famous teachings of rabbis from late antiquity.[/foot] Rabi Yehoshua ben Levi teaches that the 48th quality of the 48 qualities defining excellent students is they should correctly attribute the source of their knowledge.[foot]<em>Pirkei Avot</em> 6:6. This teaching may be attributed to <a href="http://en.wikipedia.org/wiki/Joshua_ben_Levi">Rabi Yehoshua ben Levi</a>.[/foot] Failing to do so threatens to "dissolve the world." In the rabbinic understanding of cosmogony, creation itself is the product of exegesis. In <a href="http://en.wikipedia.org/wiki/Genesis_Rabbah">Genesis Rabbah</a>, the Creator looked into the Torah to create the world. The process of exegesis, requires attribution, and so without correct attribution by the Creator to the Torah, the product of the exegesis -- the universe -- dissolves. The importance of attribution doesn't get any more <em>tachlis</em> (fundamental) than that.
+In <em><a href="http://en.wikipedia.org/wiki/Pirkei_Avot">Pirkei Avot</a></em>,[foot]The <em>Pirkei Avot</em> are a collection of famous teachings of rabbis from late antiquity.[/foot]&nbsp; Rabi Yehoshua ben Levi teaches that the 48th quality of the 48 qualities defining excellent students is they should correctly attribute the source of their knowledge.[foot]<em>Pirkei Avot</em> 6:6. This teaching may be attributed to <a href="http://en.wikipedia.org/wiki/Joshua_ben_Levi">Rabi Yehoshua ben Levi</a>.[/foot]&nbsp; Failing to do so threatens to "dissolve the world." In the rabbinic understanding of cosmogony, creation itself is the product of exegesis. In <a href="http://en.wikipedia.org/wiki/Genesis_Rabbah">Genesis Rabbah</a>, the Creator looked into the Torah to create the world. The process of exegesis, requires attribution, and so without correct attribution by the Creator to the Torah, the product of the exegesis -- the universe -- dissolves. The importance of attribution doesn't get any more <em>tachlis</em> (fundamental) than that.
 
-Rabi Yehoshua ben Levi proceeds to exemplify this teaching by attributing the 48th quality to Queen Esther who in the second chapter of the Scroll of Esther, verse 21, foils the <em>coup de tat</em> of Bightan and Teresh -- by relaying warning of the coup to King Aḥashverosh in the name of Mordeḥai. Had Mordeḥai not been correctly credited with notifying the king of the murderous plot, he would not have received his belated thanks in chapter 6,[foot]At the beginning of Chapter 6, Aḥashverosh awake and unable to sleep opens up his chronicle of events in the royal court and discovers that Mordeḥai was never properly commended for his action.[/foot] and Haman would not have endured the embarrassment that presages his downfall. A long chain of events connects the seemingly insignificant action of Queen Esther to the salvation of the Jewish people. The implicit lesson is that our everyday actions matter. The explicit message is that it behooves us to act correctly, especially in regards to attribution of credit.
+Rabi Yehoshua ben Levi proceeds to exemplify this teaching by attributing the 48th quality to Queen Esther who in the second chapter of the Scroll of Esther, verse 21, foils the <em>coup de tat</em> of Bightan and Teresh -- by relaying warning of the coup to King Aḥashverosh in the name of Mordeḥai. Had Mordeḥai not been correctly credited with notifying the king of the murderous plot, he would not have received his belated thanks in chapter 6,[foot]At the beginning of Chapter 6, Aḥashverosh awake and unable to sleep opens up his chronicle of events in the royal court and discovers that Mordeḥai was never properly commended for his action.[/foot]&nbsp; and Haman would not have endured the embarrassment that presages his downfall. A long chain of events connects the seemingly insignificant action of Queen Esther to the salvation of the Jewish people. The implicit lesson is that our everyday actions matter. The explicit message is that it behooves us to act correctly, especially in regards to attribution of credit.
 
 In the world of academic scholarship, correct attribution is a fundamental ethic. Ignoring it would quickly tear apart the tower of intellect upon which the babel of human knowledge ascends to heaven. The need for correct attribution is of course, no less in new and creative Jewish works. Whether you're making a translation in a source sheet for a lecture or <em>shir</em>, designing a Hebrew font, crafting your very own siddur, or developing software that helps others craft their own siddur, it behooves you to correctly attribute any sources included in your work or from which your work derives.
 
@@ -1080,7 +1084,7 @@ The need for correct attribution is widespread and that is one important reason 
 
 <blockquote>The Midrash Tanḥuma quotes: “I have given you good <em>lekaḥ</em> (teaching)” (Proverbs 4:2). [Lekaḥ can also refer to something acquired by purchase.] It then offers a parable of two merchants, one who has silk and the other peppers. Once they exchange their goods, each is again deprived of that which the other has. But if there are two scholars, one who has mastered the Order of Seeds and the other who knows the Order of Festivals, once they teach each other, each has both orders.
 
-The point is that each one of Israel has a particular portion within Torah, yet it is also Torah that joins all our souls together. That is why Torah is called “perfect, restoring the soul” (Psalms 19:8). We become one through the power of Torah; it is “an inheritance of the assembly of Yaakov” (Deuteronomy 33:4). We receive from one another the distinctive viewpoint that belongs to each of us.[foot]Translation is Rabbi Arthur Green’s from <em>The Language of Truth: The Torah Commentary of Sefat Emet</em> (JPS 1998, p.121).[/foot]</blockquote>
+The point is that each one of Israel has a particular portion within Torah, yet it is also Torah that joins all our souls together. That is why Torah is called “perfect, restoring the soul” (Psalms 19:8). We become one through the power of Torah; it is “an inheritance of the assembly of Yaakov” (Deuteronomy 33:4). We receive from one another the distinctive viewpoint that belongs to each of us.[foot]Translation is Rabbi Arthur Green’s from <em>The Language of Truth: The Torah Commentary of Sefat Emet</em> (JPS 1998, p.121).[/foot]&nbsp;</blockquote>
 
 This is an important lesson to learn regarding our work in teaching Torah since for some, it's easy to forget that what they've received and are transmitting is a collective inheritance of the entire Jewish people. Their honor is in relaying that transmission. Torah and tefillah are in their very nature communications that are meant to be shared, with love, in the manner that other students and teachers can receive it and pass it along without any obstruction. As Rabbi Shlomo Carlebach taught in a quote remembered by Moshe Pesach Geller:
 
@@ -1088,9 +1092,9 @@ This is an important lesson to learn regarding our work in teaching Torah since 
 
 Or in other words, as animator Nina Paley says, <a href="http://web.archive.org/web/20160911033621/http://copyheart.org/manifesto/">sharing is an act of love</a>. All that Judaism asks for in return is attribution, so the chain of transmission is recorded.
 
-Who would obstruct that kind of sharing? When a new work is created, copyright law doesn't assume that a creative work was intended for sharing (with or without attribution). Instead, a creative work is immediately protected as private property -- not only for the lifetime of the creator, but also for 70 years after their death[foot]If the copyright" of the work was sold, the work enters the Public Domain 95 years after it's first publishing.[/foot] -- כֹּל זְכוּיוֺת שוֺמְרוֺת, <em>Kol zchuyot shomrot</em>, all rights reserved -- to reproduce, distribute, and create derivative works based on it are forbidden, without the explicit written consent of the creator. As stated before here at the Open Siddur Project, this might make sense for creators of new works and music, but it hardly makes sense for cultural projects with communal objectives which rely heavily and assert their authority on the authenticity of works in the <a href="http://en.wikipedia.org/wiki/Public_domain">Public Domain</a>. The teaching and practice of Judaism is one such communal project. The promise of the Open Siddur Project relies on our sharing creative works and access to the vast corpus of work that we've inherited from our creative ancestors. That is why we so heavily depend and advocate for the adoption of open source, free/libre, and copyleft[foot]Copyleft "describes the practice of using copyright law to offer the right to distribute copies and modified versions of a work and requiring that the same rights be preserved in modified versions of the work. In other words, copyleft is a general method for making a program (or other work) free, and requiring all modified and extended versions of the program to be free as well" ("<a href="http://en.wikipedia.org/wiki/Copyleft">Copyleft</a>" in wikipedia, accessed 2011-01-12).[/foot] licenses -- so that creative work, protected by default under Copyright law, can nevertheless be shared by creators who give their explicit permission to others to adopt, adapt, study, and attribute their work in new works that are similarly shared and distributed.</span>
+Who would obstruct that kind of sharing? When a new work is created, copyright law doesn't assume that a creative work was intended for sharing (with or without attribution). Instead, a creative work is immediately protected as private property -- not only for the lifetime of the creator, but also for 70 years after their death[foot]If the copyright" of the work was sold, the work enters the Public Domain 95 years after it's first publishing.[/foot]&nbsp; -- כֹּל זְכוּיוֺת שוֺמְרוֺת, <em>Kol zchuyot shomrot</em>, all rights reserved -- to reproduce, distribute, and create derivative works based on it are forbidden, without the explicit written consent of the creator. As stated before here at the Open Siddur Project, this might make sense for creators of new works and music, but it hardly makes sense for cultural projects with communal objectives which rely heavily and assert their authority on the authenticity of works in the <a href="http://en.wikipedia.org/wiki/Public_domain">Public Domain</a>. The teaching and practice of Judaism is one such communal project. The promise of the Open Siddur Project relies on our sharing creative works and access to the vast corpus of work that we've inherited from our creative ancestors. That is why we so heavily depend and advocate for the adoption of open source, free/libre, and copyleft[foot]Copyleft "describes the practice of using copyright law to offer the right to distribute copies and modified versions of a work and requiring that the same rights be preserved in modified versions of the work. In other words, copyleft is a general method for making a program (or other work) free, and requiring all modified and extended versions of the program to be free as well" ("<a href="http://en.wikipedia.org/wiki/Copyleft">Copyleft</a>" in wikipedia, accessed 2011-01-12).[/foot]&nbsp; licenses -- so that creative work, protected by default under Copyright law, can nevertheless be shared by creators who give their explicit permission to others to adopt, adapt, study, and attribute their work in new works that are similarly shared and distributed.</span>
 
-SHARE WHAT YOU LOVE ♡ -- A Decision Tree for Choosing Free-Culture Compatible Open Content Licenses for Cultural &amp; Technological Work, v.1.0-2014-04-02 (credit: Aharon Varady, license: CC-BY-SA)To help creators of new works navigate the panoply of free/libre, open source, and copyleft licenses, I made a decision tree flowchart as an image map with clickable links to respective licenses and relevant articles. The tree was inspired by <a href="http://web.archive.org/web/20110101072821/http://www.freesoftwaremagazine.com/files/www.freesoftwaremagazine.com/nodes/3368/ss/fig_choosing_license.jpg">a decision tree by Terry Hancock</a>, which accompanied his article, "<a href="http://web.archive.org/web/20110101072609/http://www.freesoftwaremagazine.com/columns/choosing_and_using_free_licenses_software_hardware_and_aesthetic_works">Choosing and Using Free Licenses for Software, Hardware, and Aesthetic works</a>."[foot]"A Best Practices Flowchart for Choosing a License" by Terry Hancock, Free Software Magazine, 2010-09-26.[/foot] Readers of this article are recommended to read Hancock's follow-up essay, "<a href="http://web.archive.org/web/20111124210246/http://www.freesoftwaremagazine.com/columns/confusion_and_complexity_high_time_prune_creative_commons_licenses">Confusion and Complexity: High time to prune the Creative Commons licenses?</a>"]]></content:encoded>
+SHARE WHAT YOU LOVE ♡ -- A Decision Tree for Choosing Free-Culture Compatible Open Content Licenses for Cultural &amp; Technological Work, v.1.0-2014-04-02 (credit: Aharon Varady, license: CC-BY-SA)To help creators of new works navigate the panoply of free/libre, open source, and copyleft licenses, I made a decision tree flowchart as an image map with clickable links to respective licenses and relevant articles. The tree was inspired by <a href="http://web.archive.org/web/20110101072821/http://www.freesoftwaremagazine.com/files/www.freesoftwaremagazine.com/nodes/3368/ss/fig_choosing_license.jpg">a decision tree by Terry Hancock</a>, which accompanied his article, "<a href="http://web.archive.org/web/20110101072609/http://www.freesoftwaremagazine.com/columns/choosing_and_using_free_licenses_software_hardware_and_aesthetic_works">Choosing and Using Free Licenses for Software, Hardware, and Aesthetic works</a>."[foot]"A Best Practices Flowchart for Choosing a License" by Terry Hancock, Free Software Magazine, 2010-09-26.[/foot]&nbsp; Readers of this article are recommended to read Hancock's follow-up essay, "<a href="http://web.archive.org/web/20111124210246/http://www.freesoftwaremagazine.com/columns/confusion_and_complexity_high_time_prune_creative_commons_licenses">Confusion and Complexity: High time to prune the Creative Commons licenses?</a>"]]></content:encoded>
 		<excerpt:encoded><![CDATA[To help creators of new works navigate the panoply of free/libre, open source, and copyleft licenses, I made a decision tree flowchart as an image map with clickable links to respective licenses and relevant articles.]]></excerpt:encoded>
 		<wp:post_id>2315</wp:post_id>
 		<wp:post_date><![CDATA[2011-01-13 16:05:05]]></wp:post_date>
@@ -1207,6 +1211,10 @@ SHARE WHAT YOU LOVE ♡ -- A Decision Tree for Choosing Free-Culture Compatible 
 		<wp:meta_key><![CDATA[open_content_license]]></wp:meta_key>
 		<wp:meta_value><![CDATA[<a href='https://creativecommons.org/licenses/by-sa/4.0/'>Creative Commons Attribution-ShareAlike (CC BY-SA) 4.0 International</a> copyleft license]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[saswp_schema_type_product_pros_enable_cons]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Off-site Tools & Resources]]></title>
@@ -1219,7 +1227,7 @@ SHARE WHAT YOU LOVE ♡ -- A Decision Tree for Choosing Free-Culture Compatible 
 The Open Siddur is only one example of a host of projects working to transcend the impositions of copyright laws while sharing, remixing, and redistributing the products of our intellectual Commons. There are a number of related projects in <a href="https://en.wikipedia.org/wiki/Open_Source_Judaism">Open Source Judaism</a> today whose use of free-culture compatible open content and open source licensing is profoundly affecting Jewish education and cultural vitality. If you have a link to add to this list, please <a href="https://opensiddur.org/contact/">contact us</a>. (For our legacy, "<a href="http://web.archive.org/web/20120708203443/http://wiki.jewishliturgy.org:80/Environmental_Scan">environmental scan</a>" of comparative, complementary, competing, and collaborative projects, circa 2009, see <a href="http://web.archive.org/web/20120708203443/http://wiki.jewishliturgy.org:80/Environmental_Scan">here</a>.)
 <h3>Open-source Licensed Jewish Content</h3>
 <h3 style="padding-left: 40px;">Rabbinic and other Jewish Literature</h3>
-<p style="padding-left: 80px;"><a href="http://www.digitalmishnah.umd.edu/">The Digital Mishnah Project</a> (now CC-BY licensed!)
+<p style="padding-left: 80px;">
 <a href="http://he.wikisource.org">Hebrew Wikisource</a>: a Wiki for Hebrew Texts. Includes transcriptions of Biblical and Rabbinic source texts.
 <a href="https://github.com/MosheWagner/">Orayta</a>: a Torah database of rabbinic Jewish texts
 <a href="http://sefaria.org">Sefaria</a>: an advanced interface for accessing Biblical and Rabbinic source-text, and preparing custom source-sheets.
@@ -1414,8 +1422,8 @@ The <a href="http://tanach.us/">Westminster Leningrad Codex</a>: digital edition
 		<wp:post_id>6788</wp:post_id>
 		<wp:post_date><![CDATA[2013-04-26 08:44:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2013-04-26 16:44:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-12-06 14:03:23]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-12-06 23:03:23]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-15 04:07:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-15 13:07:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[recommended-links]]></wp:post_name>
@@ -1476,7 +1484,7 @@ The <a href="http://tanach.us/">Westminster Leningrad Codex</a>: digital edition
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[           ]]></wp:meta_value>
+		<wp:meta_value><![CDATA[            ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header_hide]]></wp:meta_key>
@@ -1492,7 +1500,11 @@ The <a href="http://tanach.us/">Westminster Leningrad Codex</a>: digital edition
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[ao_post_optimize]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";s:15:"ao_post_preload";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[saswp_schema_type_product_pros_enable_cons]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3869,7 +3881,7 @@ If you use GNU/Linux, you might already have a favorite editor. <a href="/contac
 
 [caption id="attachment_4658" align="alignright" width="167"]<a href="https://opensiddur.org/wp-content/uploads/2012/04/Libreoffice_icon_mix.png"><img src="https://opensiddur.org/wp-content/uploads/2012/04/Libreoffice_icon_mix.png" alt="" width="167" height="256" class="size-full wp-image-4658" /></a> LibreOffice logo[/caption]<h3>Formatting Hebrew Text in a Word Processor</h3>
 
-Formatting Hebrew text with diacritics and having it displayed correctly in the word processor often depends on the software and operating system you are using. On Linux and Windows, you don't need to purchase expensive software for offline work with Hebrew -- not since the amazing open source programmers behind LibreOffice, the <a href="http://www.documentfoundation.org/">Document Foundation</a>, developed a free and open source solution for working with Right-to-Left texts like Hebrew.[foot]<a href="http://en.wikipedia.org/wiki/Libreoffice">LibreOffice is a fork of the OpenOffice suite</a> containing many improvements including increased support for RTL languages.[/foot] Until the Open Siddur web application is available for crafting siddurim and other curricular resources on Jewish liturgy, we recommend LibreOffice.[foot]Mac users have long relied on <a href="http://www.mellel.com/">Mellel</a>, which while closed source and commercial, has also proven itself dependable. Unfortunately, due to the nature of the OS X operating system support for non-Western languages, unspecialized software often fails to position Hebrew diacritics correctly.[/foot]
+Formatting Hebrew text with diacritics and having it displayed correctly in the word processor often depends on the software and operating system you are using. On Linux and Windows, you don't need to purchase expensive software for offline work with Hebrew -- not since the amazing open source programmers behind LibreOffice, the <a href="http://www.documentfoundation.org/">Document Foundation</a>, developed a free and open source solution for working with Right-to-Left texts like Hebrew.[foot]<a href="http://en.wikipedia.org/wiki/Libreoffice">LibreOffice is a fork of the OpenOffice suite</a> containing many improvements including increased support for RTL languages.[/foot]&nbsp; Until the Open Siddur web application is available for crafting siddurim and other curricular resources on Jewish liturgy, we recommend LibreOffice.[foot]Mac users have long relied on <a href="http://www.mellel.com/">Mellel</a>, which while closed source and commercial, has also proven itself dependable. Unfortunately, due to the nature of the OS X operating system support for non-Western languages, unspecialized software often fails to position Hebrew diacritics correctly.[/foot]&nbsp;
 
 LibreOffice is a free/libre office suite containing a powerful and user-friendly text editor: LibreOffice Writer. LibreOffice is cross-platform -- it can be installed and run on Linux, Macintosh, and Windows operating systems.
 
@@ -4050,6 +4062,10 @@ For a <strong>Keyboard Shortcut</strong> to change the language orientation to 
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
 		<wp:meta_value><![CDATA[classic-editor]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[saswp_schema_type_product_pros_enable_cons]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4499,13 +4515,13 @@ If the Torah is essentially a Commons, in what way can we appropriately apply a 
 
 <blockquote>As applied by rabbinic jurists, the rule against acting like a Sodomite gives rise to three possible limitations on copyright, even assuming that copyright is property.
 
-First, if an author has created and disseminated his work with no intention of profiting from it, he suffers no economic loss even if another benefits from his work without paying for it, and thus such an author might be acting like a Sodomite were he to insist upon payment after the fact.[foot]Yaakov Avraham Cohen. <em>Emeq Ha-Mishpat, Vol. 4: Zekhuyot Yotsrim</em> (Valley Of The Law, Vol. 4: Copyright) (1999) (Hebrew)[/foot] 
+First, if an author has created and disseminated his work with no intention of profiting from it, he suffers no economic loss even if another benefits from his work without paying for it, and thus such an author might be acting like a Sodomite were he to insist upon payment after the fact.[foot]Yaakov Avraham Cohen. <em>Emeq Ha-Mishpat, Vol. 4: Zekhuyot Yotsrim</em> (Valley Of The Law, Vol. 4: Copyright) (1999) (Hebrew)[/foot]&nbsp; 
 
-Second, the rule against Sodomite behavior supports the view of some rabbinic jurists that private copying is permitted so long as the copier would not have otherwise purchased the copy and thus causes the author no loss.[foot]Ibid.[/foot] 
+Second, the rule against Sodomite behavior supports the view of some rabbinic jurists that private copying is permitted so long as the copier would not have otherwise purchased the copy and thus causes the author no loss.[foot]Ibid.[/foot]&nbsp; 
 
-Third, the rule might be the basis for limiting copyright’s duration for published works. In his seminal ruling rejecting a perpetual, proprietary copyright while conceding that authors have an exclusive right to print their unpublished manuscripts, [Rabbi] Yitzhak Schmelkes [1828-1905] reasoned that copying causes the author no damage (as distinct from foregone profit) once the first edition has been sold, and thus that the rule against Sodomite behavior negates any continuing claim the author might have to enforce an exclusive right to print following the first edition.[foot]Yitzhak Schmelkes, <em>Beit Yitzhak, Yoreh De’ah</em>, Pt. 5, No. 75 (Pyzemsyl 1875) (Hebrew)[/foot]</blockquote>
+Third, the rule might be the basis for limiting copyright’s duration for published works. In his seminal ruling rejecting a perpetual, proprietary copyright while conceding that authors have an exclusive right to print their unpublished manuscripts, [Rabbi] Yitzhak Schmelkes [1828-1905] reasoned that copying causes the author no damage (as distinct from foregone profit) once the first edition has been sold, and thus that the rule against Sodomite behavior negates any continuing claim the author might have to enforce an exclusive right to print following the first edition.[foot]Yitzhak Schmelkes, <em>Beit Yitzhak, Yoreh De’ah</em>, Pt. 5, No. 75 (Pyzemsyl 1875) (Hebrew)[/foot]&nbsp;</blockquote>
 
-So long as prayers and related text, recordings, and artwork shared through our website are considered "property," we will abide by the halakhic opinion (and majority position) of Rabbi Yitzhak Schmelkes: "the author’s exclusive right to publish a manuscript and sell a first edition flows not from a proprietary copyright in the text, but only from the Jewish law of unfair competition or from the author’s right to condition access and use of the physical chattel, the manuscript, in which the author holds a property right."[foot]Ibid.[/foot] For this reason, <strong>we request that all users limit any extensive copying under their <a href="https://www.law.cornell.edu/uscode/text/17/107">Fair Use right</a> to works that are either out-of-print in their first edition, or ephemeral and in limited circulation</strong>. Even though we are required to treat these works of Torah as property, we are heartened by the teaching of Rabbi Yisrael Meir Kagan (1838-1933, a/k/a the Chofetz Chaim) who wrote "[Lending property] stems from compassion and constitutes a mitsvah, as ḤaZa"L have pointed out: '<em>tsedakah</em> is performed with one’s money; <em>ḥesed</em> with one’s money and one’s self' (Sukkah 49b). Rashi explains <em>ḥesed</em> here to mean the lending of money, chattel (personal property), livestock—all being included in the mitsvah".[foot]Yisrael Meir Kagan. <em>Ahavat Ḥesed</em> (Loving Loving-kindness) Ch. 22 (1888).[/foot]
+So long as prayers and related text, recordings, and artwork shared through our website are considered "property," we will abide by the halakhic opinion (and majority position) of Rabbi Yitzhak Schmelkes: "the author’s exclusive right to publish a manuscript and sell a first edition flows not from a proprietary copyright in the text, but only from the Jewish law of unfair competition or from the author’s right to condition access and use of the physical chattel, the manuscript, in which the author holds a property right."[foot]Ibid.[/foot]&nbsp; For this reason, <strong>we request that all users limit any extensive copying under their <a href="https://www.law.cornell.edu/uscode/text/17/107">Fair Use right</a> to works that are either out-of-print in their first edition, or ephemeral and in limited circulation</strong>. Even though we are required to treat these works of Torah as property, we are heartened by the teaching of Rabbi Yisrael Meir Kagan (1838-1933, a/k/a the Chofetz Chaim) who wrote "[Lending property] stems from compassion and constitutes a mitsvah, as ḤaZa"L have pointed out: '<em>tsedakah</em> is performed with one’s money; <em>ḥesed</em> with one’s money and one’s self' (Sukkah 49b). Rashi explains <em>ḥesed</em> here to mean the lending of money, chattel (personal property), livestock—all being included in the mitsvah".[foot]Yisrael Meir Kagan. <em>Ahavat Ḥesed</em> (Loving Loving-kindness) Ch. 22 (1888).[/foot]&nbsp;
 
 In appropriate circumstances and at the discretion of our chief editor, we reserve the right to remove any submitted material that infringe on copyright holders directly or through incorrect attribution. It is the policy of our project, to disable and/or terminate the accounts of users who repeatedly infringe or are repeatedly charged with infringing the copyrights or other intellectual property rights of others. (Cf. <a href="https://opensiddur.org/policies/terms-of-use/">Terms of Use</a>.)
 
@@ -4621,6 +4637,10 @@ Only DMCA notices and notices relating to complaints in connection with infringe
 		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
 		<wp:meta_value><![CDATA[classic-editor]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[saswp_schema_type_product_pros_enable_cons]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[פרויקט הסידור הפתוח &#x270d;︎ the Open Siddur Project]]></title>
@@ -4654,8 +4674,8 @@ Connect with us on <a href="http://facebook.com/opensiddur">Facebook</a>, <a hre
 		<wp:post_id>8358</wp:post_id>
 		<wp:post_date><![CDATA[2014-01-07 20:23:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2014-01-08 05:23:14]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-10-29 13:49:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-10-29 21:49:39]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-30 13:59:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-30 22:59:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -4668,7 +4688,7 @@ Connect with us on <a href="http://facebook.com/opensiddur">Facebook</a>, <a hre
 										<category domain="author" nicename="cap-aharon-nissen-varady"><![CDATA[aharon-nissn.varady]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[ao_post_optimize]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";s:15:"ao_post_preload";s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
@@ -4732,7 +4752,7 @@ Connect with us on <a href="http://facebook.com/opensiddur">Facebook</a>, <a hre
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[                         ]]></wp:meta_value>
+		<wp:meta_value><![CDATA[                           ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_footer]]></wp:meta_key>
@@ -4753,6 +4773,10 @@ Connect with us on <a href="http://facebook.com/opensiddur">Facebook</a>, <a hre
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
 		<wp:meta_value><![CDATA[classic-editor]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[saswp_schema_type_product_pros_enable_cons]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -6411,11 +6435,11 @@ English translation courtesy of Leonard Berkowitz. Section numbers outside the s
 		<content:encoded><![CDATA[<div class="english-sans" lang="en" style="font-size: 1.2em;">
 As an open source and free software project, the Open Siddur would not be possible at all were it not for the work of its volunteer developers, transcribers, translators, commentators, artists, designers, and boosters.
 
-We look forward to acknowledging <em>you</em>. Please join our community and <a href="https://opensiddur.org/contribute/">contribute</a> to the Open Siddur by transcribing or translating texts, researching, providing art and comments, sharing ideas, or if you have technical skills, helping us build the Open Siddur web application. If you would like to support the Open Siddur Project financially, tax free donations can be made via a <a href="http://www.razoo.com/story/theopensiddurproject">donation page</a> sponsored by Center for Jewish Culture and Creativity, a 501(3)c non-profit providing the Open Siddur with fiscal sponsorship.
+<strong>Aharon Varady</strong>, who first <a href="http://aharon.varady.net/omphalos/2002/08/update-2002-08-08">outlined the project in 2002</a>, directs the Open Siddur and administers, curates, and provides light-touch editing for all the content on opensiddur.org. Aharon's work on the Open Siddur Project is financially supported by patrons via <a href="https://patreon.com/aharonium">patreon</a> and by book sales at <a href="http://dimus.parrhesia.press">Dimus Parrhesia Press</a>.
 
-Aharon Varady, who first <a href="http://aharon.varady.net/omphalos/2002/08/update-2002-08-08">outlined the project in 2002</a>, directs the Open Siddur and administers, curates, and provides light-touch editing for all the content on opensiddur.org. Aharon's work on the Open Siddur Project is financially supported through his boutique publishing house, <a href="http://dimus.parrhesia.press">Dimus Parrhesia Press</a>.
+Efraim Feinstein has been leading development of an <a href="http://app.opensiddur.org">Open Siddur application</a>, a web-based app for folk to craft their own siddur from a database of carefully tagged liturgy and liturgy-related work.
 
-Efraim Feinstein is the lead developer of the effort to create the <a href="http://app.opensiddur.org">Open Siddur application</a>, a web-based app for folk to craft their own siddur from a database of carefully tagged liturgy and liturgy-related work.
+<hr />
 
 We would like to thank the following organizations and individuals for their early help in publicly launching the project.
 
@@ -6423,10 +6447,12 @@ We would like to thank the following organizations and individuals for their ear
 <a href="http://realazthat.blogspot.com/"><strong>Azriel Fasten</strong></a>, for connecting Efraim and Aharon in late 2008.
 <a href="http://jtwaldman.com"><strong>J.T. Waldman</strong></a> (Tagged TaNaKh, Jewish Publication Society Special Projects), for working within the Jewish Publication Society to advocate for this vision in 2009, and help fund my summer at PresenTense.
 <strong>Ariel Beery and Aharon Horwitz</strong> (<a href="http://web.archive.org/web/20160825194137/http://presentense.org/institute/">PresenTense Institute</a>), for helping us to better understand ourselves in 2009.
-<strong>Bob Goldfarb</strong> (<a href="http://jewishcreativity.org">Center for Jewish Culture &amp; Creativity</a>), for agreeing to the Center for Jewish Culture &amp; Creativity to act as our fiscal sponsored 501(3)c non-profit in accepting tax-deductible donations on our behalf.
-<strong>Mechon Hadar</strong>, for financially supporting the Open Siddur as a community project of Aharon Varady in 2009-2010. (A special thanks to Rabbi <strong>Jason Rubenstein</strong> and Rabbi <strong>Elie Kaunfer</strong>, for supporting our vision of an Open Content licensed database of divrei torah, sourcesheets, translations, and recordings at Mechon Hadar.)
+<strong>Bob Goldfarb</strong>, for agreeing to the Center for Jewish Culture &amp; Creativity to act as our fiscal sponsored 501(3)c non-profit in accepting tax-deductible donations on our behalf.
+<strong>Hadar</strong>, for financially supporting the Open Siddur as a community project of Aharon Varady in 2009-2010. (A special thanks to Rabbi <strong>Jason Rubenstein</strong> and Rabbi <strong>Elie Kaunfer</strong>, for supporting our vision of an Open Content licensed database of divrei torah, sourcesheets, translations, and recordings at Mechon Hadar.)
 <strong>Harry Aizenstadt and Lisa Rubins</strong> (family of Rabbi Jacob Freedman, z"l) for sharing the late Rabbi's surviving papers in 2009-10.
-<strong>Yoram Gnat, z"l, and Maxim Iorsh</strong> of the <strong>Culmus Project</strong>, for their fonts, and also for their support in customizing and fixing several fonts upon request.</p>
+<strong>Dr. Yoram Gnat, z"l, and Maxim Iorsh</strong> of the <strong>Culmus Project</strong>, for their fonts, and also for their support in customizing and fixing several fonts upon request.</p>
+
+We look forward to acknowledging <strong>you</strong>. Please join our community and <a href="https://opensiddur.org/contribute/">contribute</a> to the Open Siddur by transcribing or translating texts, researching, providing art and comments, sharing ideas, or if you have technical skills, helping us build the Open Siddur web application. If you would like to support the Open Siddur Project financially, tax free donations can be made via a <a href="https://fundrazr.com/opensiddur">donation page</a> sponsored by <a href="http://jewishcreativity.org">Jewish Creativity International</a>, a 501(3)c non-profit providing the Open Siddur with fiscal sponsorship.
 
 <h3>Supporting Infrastructure</h3>
 
@@ -6451,8 +6477,8 @@ In the summer of 2009, the Open Siddur was one of sixteen innovative projects ch
 		<wp:post_id>18215</wp:post_id>
 		<wp:post_date><![CDATA[2017-11-25 09:41:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2017-11-25 18:41:58]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-08 20:31:24]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-09 05:31:24]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-19 20:44:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-20 05:44:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[acknowledgements-2]]></wp:post_name>
@@ -6488,12 +6514,16 @@ In the summer of 2009, the Open Siddur was one of sixteen innovative projects ch
 		<wp:meta_value><![CDATA[_pages/acknowledgements-2.md]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
+		<wp:meta_key><![CDATA[saswp_schema_type_product_pros_enable_cons]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[10855]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[  ]]></wp:meta_value>
+		<wp:meta_value><![CDATA[     ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_footer]]></wp:meta_key>
@@ -6510,6 +6540,10 @@ In the summer of 2009, the Open Siddur was one of sixteen innovative projects ch
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
 		<wp:meta_value><![CDATA[classic-editor]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ao_post_optimize]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";s:15:"ao_post_preload";s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -6959,83 +6993,24 @@ Account registration is available to all project contributors. (To become a proj
 		<content:encoded><![CDATA[<div class="english" lang="en" style="font-size: 1.2em;">
 <h3>Can't contribute as a volunteer? Please consider making a financial donation.</h3>
 
-Covering the operational cost of keeping our servers and websites online is up to people like you who deem this project worthy. The speed by which the project moves forward ultimately depends upon <a href="/contributing/upload/">contributions of content</a> and <a href="/contribute/joining/">volunteered labor</a>, or lacking these, financial donations to pay for additional specialized services. If you believe in our mission, want to see this project succeed, but cannot volunteer any labor or contribute any Jewish prayer-related content, then please donate some funds. -- <strong>and thank you!</strong>
+Covering the operational cost of keeping our servers and websites online is up to people like you who deem this project worthy. The speed by which the project moves forward ultimately depends upon <a href="/contributing/upload/">contributions of content</a> and <a href="/contributing/volunteering/">volunteered labor</a>, or lacking these, financial donations to pay for additional specialized services. If you believe in our mission, want to see this project succeed, but cannot volunteer any labor or contribute any Jewish prayer-related content, then please donate some funds. -- <strong>and thank you!</strong>
 
-<a href="https://patreon.com/opensiddur"><img src="https://opensiddur.org/wp-content/uploads/2019/12/PatreonCircle-150x150.png" alt="" width="150" height="150" class="alignnone size-thumbnail wp-image-28458" /></a>
+<a href="https://patreon.com/opensiddur"><img src="https://opensiddur.org/wp-content/uploads/2019/12/PatreonCircle-300x300.png" alt="" width="300" height="300" class="alignleft size-medium wp-image-28458" /></a>
+Become a <strong>regular patron</strong> of this project for as little as $1 a month. Scheduled monthly donations will be received through our account on <a href="https://patreon.com/opensiddur">Patreon</a>.[su_spacer size="20"]
 
-Become a patron of this project for as little $1 a month. 
+<a href="https://fundrazr.com/opensiddur"><img src="https://opensiddur.org/wp-content/uploads/2022/11/FundRazr-300x300.png" alt="" width="300" height="300" class="alignleft size-medium wp-image-47697" /></a>
+If you would rather make a <strong>one-time, tax-deductible donation</strong>, you may do so online through <a href="https://fundrazr.com/opensiddur">Fundrazr</a>.[su_spacer size="20"]
 
-Scheduled monthly donations will be received through our account on <a href="https://patreon.com/opensiddur">Patreon</a>.
-
-Alternately, if you would rather make an online tax-deductible, one-time donation, 
-you may do so through <a href="https://fundrazr.com/opensiddur">Fundrazr</a>. 
-
-Finally, if you would prefer to make a donation by mail (for <strong>$250 or more</strong>), 
-then <em>please make your check out to</em> "<u>Jewish Creativity International</u>" 
-noting that your donation is for <strong>"the Open Siddur Project"</strong>.
- 
-Mail your check to the following address:
-
-<p style="padding-left: 80px;">the Open Siddur Project
-℅ Jewish Creativity International
-2472 Broadway, #331
-New York, NY 10025-7449</p>
-
-[Jewish Creativity International (EIN 95-4328467), a 501(3)c registered non-profit, acts as our fiscal sponsor for just such donations.]
-
-<!--
-<table style="margin-left: auto; margin-right: auto;" class="draggable">
-
-<thead><tr>
-<th id="x" style="text-align: left;"><h4>Scheduled monthly donations</h4></th>
-
-<th style="text-align: left;"><h4>One-time tax-deductible donations (online)</h4></th>
-
-<th style="text-align: left;"><h4>One-time tax-deductible donations (by mail)</h4></th>
-</tr></thead>
-
-<tbody>
-<tr><td style="vertical-align:top;">
-
-</td>
-
-<td style="vertical-align:top;">
-<div class="fr-widget" data-key="opensiddur" data-organization="bD8i7" ><img src="//static.fundrazr.com/widgets/loader.gif"/></div>
-</td>
-
-<td style="vertical-align:top;">
-<img src="https://opensiddur.org/wp-content/uploads/2019/12/JCI-logo-300x155.png" alt="" width="300" height="155" class="alignnone size-medium wp-image-28459" />
-</td>
-</tr>
-
-<tr><td style="vertical-align:top;">
-
-
-<strong>Thank you!</strong>
-</td>
-
-<td style="vertical-align:top;">
-
-</td>
-
-<td style="vertical-align:top;">
-
-</td>
-</tr>
-</tbody></table>
--->
-
-
-
+<img src="https://opensiddur.org/wp-content/uploads/2022/11/kmail2.png" alt="" width="300" height="300" class="alignleft size-full wp-image-47701" />
+If you would prefer to make a <strong>donation by mail</strong>, please note that we can only accept checks for $250 or more. (This is a condition of Jewish Creativity International, the 501(3)c registered non-profit (EIN 95-4328467), which acts as our fiscal sponsor for just such donations.) <em>Please make your check out to</em> "<u>Jewish Creativity International</u>" indicating that your donation is for "the Open Siddur Project" (in the note field of the check opposite your signature). Then, mail your check to the following address: the Open Siddur Project, ℅ Jewish Creativity International, 2472 Broadway, Suite №331, New York, NY 10025-7449. [su_spacer size="20"]
 </div>
-
-<hr />]]></content:encoded>
+]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>28454</wp:post_id>
 		<wp:post_date><![CDATA[2019-12-10 23:30:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-12-11 08:30:05]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-08-17 16:49:20]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-08-18 00:49:20]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-28 15:36:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-29 00:36:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[donations]]></wp:post_name>
@@ -7064,7 +7039,7 @@ New York, NY 10025-7449</p>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<script>(function() { var d = document, fr = d.createElement('script'); fr.type = 'text/javascript'; fr.async = true; fr.src = 'https://static.fundrazr.com/widgets/loader.js'; var s = d.getElementsByTagName('script')[0]; s.parentNode.insertBefore(fr, s);})();</script>     ]]></wp:meta_value>
+		<wp:meta_value><![CDATA[<script>(function() { var d = document, fr = d.createElement('script'); fr.type = 'text/javascript'; fr.async = true; fr.src = 'https://static.fundrazr.com/widgets/loader.js'; var s = d.getElementsByTagName('script')[0]; s.parentNode.insertBefore(fr, s);})();</script>                              ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_footer]]></wp:meta_key>
@@ -7079,10 +7054,6 @@ New York, NY 10025-7449</p>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[10855]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
 		<wp:meta_value><![CDATA[classic-editor]]></wp:meta_value>
 		</wp:postmeta>
@@ -7090,10 +7061,30 @@ New York, NY 10025-7449</p>
 		<wp:meta_key><![CDATA[ao_post_optimize]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";s:15:"ao_post_preload";s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[saswp_schema_type_product_pros_enable_cons]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_opengraph-image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://opensiddur.org/wp-content/uploads/2022/11/open-siddur-pushke.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_opengraph-image-id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[47708]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_twitter-image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://opensiddur.org/wp-content/uploads/2022/11/open-siddur-pushke.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_twitter-image-id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[47708]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Volunteer]]></title>
-		<link>https://opensiddur.org/contributing/joining/</link>
+		<link>https://opensiddur.org/contributing/volunteering/</link>
 		<pubDate>Wed, 11 Dec 2019 09:29:27 +0000</pubDate>
 		<dc:creator><![CDATA[aharon.varady]]></dc:creator>
 		<guid isPermaLink="false">https://opensiddur.org/?page_id=28473</guid>
@@ -7143,7 +7134,7 @@ The Open Siddur is a volunteer-driven, non-profit, non-denominational, and non-p
 <p style="padding-left: 40px;">We are always in need of specialists who we can consult so that our project remains healthy. If you would like to offer specialized professional services or resources, please <a href="/contact/" target="_self" rel="noopener noreferrer">contact us</a> with your idea. We probably didn't even realize how much we needed you.</p>
 
 <h3>Making a one-time financial contribution or becoming one of our Patrons</h3>
-<p style="padding-left: 40px;">Donations can be made either through scheduled monthly patronage via <a href="https://patreon.com/opensiddur">Patreon</a> or else via our fiscal sponsor, <a href="https://www.mightycause.com/story/Opensiddurproject">Jewish Creativity International</a>, a 501(3)c registered non-profit that acts on our behalf for receiving tax-deductible donations.</p>
+<p style="padding-left: 40px;"><a href="/contribute/donations/">Donations</a> can be made either through scheduled monthly patronage via Patreon or else via our fiscal sponsor, Jewish Creativity International, a 501(3)c registered non-profit that acts on our behalf for receiving tax-deductible donations.</p>
 <p style="padding-left: 40px;">Covering the operational cost of keeping our servers and websites online is up to people like you who deem this project worthy. The speed by which the project moves forward ultimately depends on to what degree we can convince others to provide either in-kind donations of content or labor, or else funds for contract jobs. If you believe in our mission, want to see this project succeed, but cannot volunteer any labor or siddur-related content, then please donate some funds. Thank you!</p>
 
 <h3>Correcting and Improving Open-source Typography</h3>
@@ -7188,11 +7179,11 @@ The Open Siddur is a volunteer-driven, non-profit, non-denominational, and non-p
 		<wp:post_id>28473</wp:post_id>
 		<wp:post_date><![CDATA[2019-12-11 00:29:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-12-11 09:29:27]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-06 23:14:20]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-07 07:14:20]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-07 16:16:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-08 01:16:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[joining]]></wp:post_name>
+		<wp:post_name><![CDATA[volunteering]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>281</wp:post_parent>
 		<wp:menu_order>13</wp:menu_order>
@@ -7202,7 +7193,7 @@ The Open Siddur is a volunteer-driven, non-profit, non-denominational, and non-p
 										<category domain="author" nicename="cap-aharon-varady"><![CDATA[aharon.varady]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[ao_post_optimize]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";s:15:"ao_post_preload";s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
@@ -7230,7 +7221,7 @@ The Open Siddur is a volunteer-driven, non-profit, non-denominational, and non-p
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[      ]]></wp:meta_value>
+		<wp:meta_value><![CDATA[        ]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_footer]]></wp:meta_key>
@@ -7243,6 +7234,10 @@ The Open Siddur is a volunteer-driven, non-profit, non-denominational, and non-p
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_footer_hide]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[saswp_schema_type_product_pros_enable_cons]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
