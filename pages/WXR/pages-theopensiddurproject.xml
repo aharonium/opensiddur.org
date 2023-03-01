@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.1.1" created="2023-02-01 13:27" -->
+	<!-- generator="WordPress/6.1.1" created="2023-03-01 22:49" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>the Open Siddur Project ✍ פְּרוֺיֶּקט הַסִּדּוּר הַפָּתוּחַ</title>
 	<link>https://opensiddur.org</link>
 	<description>an open-source, community-grown archive for those sharing prayers and crafting their own prayerbooks</description>
-	<pubDate>Wed, 01 Feb 2023 13:27:25 +0000</pubDate>
+	<pubDate>Wed, 01 Mar 2023 22:49:00 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://opensiddur.org</wp:base_site_url>
@@ -124,7 +124,7 @@ The Open Siddur Project is committed to the following principles and movements w
 		<wp:post_name><![CDATA[mission]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>316</wp:post_parent>
-		<wp:menu_order>33</wp:menu_order>
+		<wp:menu_order>32</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -290,7 +290,7 @@ Initially, development of the Open Siddur focused primarily on building core pro
 		<wp:post_name><![CDATA[history]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>316</wp:post_parent>
-		<wp:menu_order>47</wp:menu_order>
+		<wp:menu_order>46</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -384,7 +384,7 @@ If you'd like to connect with us over social media, join our discussion group on
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>64</wp:menu_order>
+		<wp:menu_order>63</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -463,91 +463,6 @@ If you'd like to connect with us over social media, join our discussion group on
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Volunteering & Contributing]]></title>
-		<link>https://opensiddur.org/contributing/</link>
-		<pubDate>Sat, 19 Dec 2009 03:09:26 +0000</pubDate>
-		<dc:creator><![CDATA[hierophant]]></dc:creator>
-		<guid isPermaLink="false">http://opensiddur.net/?page_id=281</guid>
-		<description></description>
-		<content:encoded><![CDATA[<div class="english" lang="en" style="font-size: 1.2em;">
-<a href="https://opensiddur.org/contributing/volunteer-opportunities/">Volunteer opportunities</a> and <a href="https://opensiddur.org/financial-contributions/">financial contributions</a>.
-</div>
-
-<hr />]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>281</wp:post_id>
-		<wp:post_date><![CDATA[2009-12-18 18:09:26]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2009-12-19 03:09:26]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-12-11 00:31:02]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-12-11 09:31:02]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contributing]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>25</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="author" nicename="cap-hierophant"><![CDATA[hierophant]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[131]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wtpsw_views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[10855]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
-		<wp:meta_value><![CDATA[60]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpghs_github_path]]></wp:meta_key>
-		<wp:meta_value><![CDATA[_pages/contributing.md]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wogh_sha]]></wp:meta_key>
-		<wp:meta_value><![CDATA[fba8274032b7ff9957876c3b7dfcc56709c5f3e0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wogh_github_path]]></wp:meta_key>
-		<wp:meta_value><![CDATA[_pages/contribute.md]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpcom_is_markdown]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[                ]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oh_add_script_footer]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oh_add_script_header_hide]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oh_add_script_footer_hide]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Project Background]]></title>
 		<link>https://opensiddur.org/about-this-project/development/</link>
 		<pubDate>Thu, 14 Jan 2010 02:15:42 +0000</pubDate>
@@ -566,7 +481,7 @@ If you'd like to connect with us over social media, join our discussion group on
 		<wp:post_name><![CDATA[development]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>17414</wp:post_parent>
-		<wp:menu_order>28</wp:menu_order>
+		<wp:menu_order>27</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -812,7 +727,7 @@ Rosh Ḥodesh
 		<wp:post_name><![CDATA[faq]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>316</wp:post_parent>
-		<wp:menu_order>51</wp:menu_order>
+		<wp:menu_order>50</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -880,36 +795,32 @@ Rosh Ḥodesh
 							</item>
 					<item>
 		<title><![CDATA[Upload Form for Sharing Your Work]]></title>
-		<link>https://opensiddur.org/contributing/upload/</link>
+		<link>https://opensiddur.org/upload/</link>
 		<pubDate>Tue, 20 Jul 2010 05:09:18 +0000</pubDate>
 		<dc:creator><![CDATA[hierophant]]></dc:creator>
 		<guid isPermaLink="false">http://opensiddur.net/</guid>
 		<description></description>
-		<content:encoded><![CDATA[<blockquote>
-<table><tr><td style="vertical-align:top;">
-<h3>Please Complete the Form Below</h3>
-<!--<hr style="margin-right: 500px;">-->
-[contact-form-7 id="3883" title="Upload form"]
-<!--[files_fm_upload]-->
-
-&nbsp;
-</td>
-
-<td style="vertical-align:top;">
-<div class="english-sans" lang="en" style="font-size: 1em;">
-<h3>Content, Format, and Style Guides</h3>
-
+		<content:encoded><![CDATA[<div class="english-sans" lang="en" style="font-size: 1em;">
 This project is primarily focused on sharing <strong>textual</strong> works of prayer, liturgy, and public readings offered in liturgical contexts. If you would like to share something else, please <a href="/contact/">contact us first</a>. 
 
-To save us time, please share your document in the native editable format used in its preparation. If your work only survives as a printed page, we will image and transcribe the printed work. (<a href="/contact/">Contact us</a> if you need to mail your work to our physical address for digital imaging.) If your work only survives as legible text in a digitized image or PDF, we will work to transcribe that text to machine-readable, searchable, and copy-pastable Unicode text suitable for displaying in HTML.
+To save us time, rather than sending us a PDF or image, please share your document in the <strong>native editable format</strong> used in its preparation. If your work only survives as a printed page, we will scan and transcribe the printed work. (<a href="/contact/">Contact us</a> if you need to mail your work to our physical address for digital imaging.) If your work only survives as legible text in a digitized image or PDF, we will work to transcribe that text to machine-readable, searchable, and copy-pastable Unicode text suitable for displaying in HTML.
 
 In presenting both historic and contemporary work, we prioritize the display of semantic phrases for the linear translation of text wherever possible. We maintain (or reconstruct, if no structure is evident) the division of text into stanzas or paragraphs based on common theme. Concrete representations of poetry, prayer, and prayer-poems are only provided in the presentation of previously published reference sources (if the work has been previously published).
 
 Our project does not <em>demand</em> conformity to any style. However, we do have preferences which you may use for a style guide. Please consult our <a href="/contributing/style-guide/">style guide</a> for guidance on transliteration vs. translation (especially for complex terms such as divine names), and a <a href="/help/transliterate/">transliteration schema</a> for Romanizing vocalized Hebrew.
 
-<hr />
+<h3>Please Complete the Submission Form Below</h3>
 
-<h3>License Options</h3>
+[contact-form-7 id="3883" title="Upload form"]
+
+&nbsp;
+
+Afer submitting your work through this form, you will receive a receipt of your submission at the email address you provided. Thank you for sharing your work through the Open Siddur Project!
+
+<hr />
+<a id="license-options"></a>
+&nbsp;
+<blockquote><h3>License Options</h3>
 
 If you are the creator or copyright steward of a work under copyright, you are invited to share your work through the Open Siddur Project under an Open Content license through this form. (You retain the copyright over the work you contribute.) The Open Siddur Project will accept any material related to Jewish spiritual practice so long as it is either a work in the <a href="http://copyright.cornell.edu/resources/publicdomain.cfm">Public Domain</a> or else a work under copyright that is shared with one of the following three Open Content licenses: the (<a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a>, <a href="https://creativecommons.org/licenses/by/4.0">CC BY</a>, or <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA</a>) all formulated by the <a href="https://creativecommons.org">Creative Commons</a> organization. By choosing to share your work with any of these licenses, you will legally ensure that your work remains available for others to adopt, adapt, remix, and redistribute. This is a binding, albeit, non-exclusive agreement to share your work through the Open Siddur Project under the terms of the license that you choose. (You may make separate agreements with other publishers.) For additional details, please refer to our <a href="/about-this-project/policies/copyright-policy/">copyright policy</a>.
 
@@ -941,26 +852,24 @@ If you are the creator or copyright steward of a work under copyright, you are i
 <td style="vertical-align:top;"><div class="english-sans" lang="en" style="font-size: 1em;">
 <strong>Creative Commons Zero</strong>. Share your work without any conditions, for example, requiring correct attribution. The <a href="http://creativecommons.org/publicdomain/zero/1.0/">CC0</a> is a Public Domain dedication that states that you relinquish claims on your work during the length of its term under copyright. This license is the least restrictive of all the Creative Commons Open Content licenses. We recommend it only for sharing digital reproductions of work that already exist in the Public Domain.
 </div></td></tr>
-</tbody></table>
+</tbody></table></blockquote>
+</div>
 
-</div></td></tr>
-<tr><td colspan="2">Afer submitting your work through this form, you will receive a receipt of your submission at the email address you provided. An Open Siddur Project editor will be in touch with you if there are any questions. You may also <a href="/contact/">contact us</a> directly. Thank you for sharing your work through the Open Siddur Project!</td>
-</tr></table>
-</blockquote>
+<hr />
 
-<hr />]]></content:encoded>
+&nbsp;]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>781</wp:post_id>
 		<wp:post_date><![CDATA[2010-07-19 21:09:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2010-07-20 05:09:18]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-11-21 19:01:44]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-11-22 04:01:44]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-02-27 17:42:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-02-28 02:42:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[upload]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>281</wp:post_parent>
-		<wp:menu_order>27</wp:menu_order>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>26</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -976,6 +885,14 @@ If you are the creator or copyright steward of a work under copyright, you are i
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[ao_post_optimize]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";s:15:"ao_post_preload";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_wordproof_timestamp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_estimated-reading-time-minutes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[5]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wtpsw_views]]></wp:meta_key>
@@ -1032,7 +949,7 @@ If you are the creator or copyright steward of a work under copyright, you are i
 							</item>
 					<item>
 		<title><![CDATA[Choosing a libre/open Content License for sharing your work]]></title>
-		<link>https://opensiddur.org/contributing/decision-tree-for-choosing-freelibre-licenses-for-cultural-and-technological-work/</link>
+		<link>https://opensiddur.org/contributing__trashed/decision-tree-for-choosing-freelibre-licenses-for-cultural-and-technological-work/</link>
 		<pubDate>Fri, 14 Jan 2011 01:05:05 +0000</pubDate>
 		<dc:creator><![CDATA[aharon-nissn.varady]]></dc:creator>
 		<guid isPermaLink="false">http://opensiddur.org/?p=2315</guid>
@@ -1106,7 +1023,7 @@ SHARE WHAT YOU LOVE ♡ -- A Decision Tree for Choosing Free-Culture Compatible 
 		<wp:post_name><![CDATA[decision-tree-for-choosing-freelibre-licenses-for-cultural-and-technological-work]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>281</wp:post_parent>
-		<wp:menu_order>42</wp:menu_order>
+		<wp:menu_order>41</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1429,7 +1346,7 @@ The <a href="http://tanach.us/">Westminster Leningrad Codex</a>: digital edition
 		<wp:post_name><![CDATA[recommended-links]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>58</wp:menu_order>
+		<wp:menu_order>57</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1566,7 +1483,7 @@ The source code for this romanizing transliterator is open source, LGPL licensed
 		<wp:post_name><![CDATA[transliterate]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>54</wp:menu_order>
+		<wp:menu_order>53</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3343,7 +3260,7 @@ If you or your company designed a Hebrew font which you never updated to Unicode
 		<wp:post_name><![CDATA[fonts]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>55</wp:menu_order>
+		<wp:menu_order>54</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3460,7 +3377,7 @@ If you or your company designed a Hebrew font which you never updated to Unicode
 		<wp:post_name><![CDATA[help]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>41</wp:menu_order>
+		<wp:menu_order>40</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3617,7 +3534,7 @@ Another OCR project to keep an eye on is that of <a href="https://github.com/uri
 		<wp:post_name><![CDATA[transcribe]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>50</wp:menu_order>
+		<wp:menu_order>49</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3794,7 +3711,7 @@ Press "Layout options"</li>
 		<wp:post_name><![CDATA[typing]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>40</wp:menu_order>
+		<wp:menu_order>39</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -4014,7 +3931,7 @@ For a <strong>Keyboard Shortcut</strong> to change the language orientation to 
 		<wp:post_name><![CDATA[editing-layout]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>52</wp:menu_order>
+		<wp:menu_order>51</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -4141,7 +4058,7 @@ We maintain physical, electronic and procedural safeguards intended to protect a
 		<wp:post_name><![CDATA[privacy-policy]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>11058</wp:post_parent>
-		<wp:menu_order>39</wp:menu_order>
+		<wp:menu_order>38</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -4385,7 +4302,7 @@ We appreciate your taking the time to read these Terms of Use, and we are very h
 		<wp:post_name><![CDATA[terms-of-use]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>11058</wp:post_parent>
-		<wp:menu_order>35</wp:menu_order>
+		<wp:menu_order>34</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -4496,19 +4413,17 @@ Under the principle in copyright law that "the creative is the enemy of the true
 
 <h3>Status of Works Published in the United States</h3>
 
-To be published means that a work has been publicly disseminated in any form, commercially or non-commercially. For example, a work may be considered to have been published after it has been read aloud before an audience or printed in accessible media: a newspaper article, website, book, broadside, or zine.
+To be 'published' means that a work has been <em>publicly disseminated</em> in any form, commercially or non-commercially. For example, a work may be considered to have been published after it has been read aloud before an audience or printed in accessible media: a newspaper article, website, book, broadside, or zine.[foot]For a definition of “publication” see e.g. <a href="http://www.copyright.gov/circs/circ01.pdf">Copyright Office circular</a>, page 3. This modern definition is only valid for 1978 and later, as the 1909 Copyright Act did not explicitly define it, though the concepts were similar.[/foot]
 
-All works published more than 95 years ago are in the Public Domain. Thus, on 1 January 2023, the copyright term of all works published before 1 January 1928 will have expired and they will have entered the Public Domain. 
+[caption id="attachment_48966" align="alignleft" width="300"]<a href="https://opensiddur.org/wp-content/uploads/2023/02/A-Simplified-Summary-of-Public-Domain-Status-for-Creative-Works-in-US-Copyright-Law-excluding-audio-works-v2.2-Aharon-Varady-CC-BY-SA.png"><img src="https://opensiddur.org/wp-content/uploads/2023/02/A-Simplified-Summary-of-Public-Domain-Status-for-Creative-Works-in-US-Copyright-Law-excluding-audio-works-v2.2-Aharon-Varady-CC-BY-SA-300x225.png" alt="" width="300" height="225" class="size-medium wp-image-48966" /></a> “<a href="https://upload.wikimedia.org/wikipedia/commons/0/07/A_Simplified_Summary_of_Public_Domain_Status_for_Creative_Works_in_US_Copyright_Law_%28excluding_audio_works%29_-_SVG.svg">A Simplified Summary of the Public Domain Status of Creative Works under US Copyright Law (excluding audio works)</a>” – (credit: Aharon Varady, license: CC BY-SA)[/caption] All works published more than 95 years ago are in the Public Domain. Every year, new works enter the Public Domain 1 January (a/k/a <a href="https://en.wikipedia.org/wiki/Public_Domain_Day">Public Domain Day</a>).
 
 Works published before 1 January 1964 <em>and whose copyright was not renewed</em> within 28 years of first publication are in the Public Domain (search the <a href="http://collections.stanford.edu/copyrightrenewals/bin/search/simple">Stanford Copyright Renewal Database</a>). 
 
 Works published before 1 January 1978 <em>not registered with the US copyright office</em> or <em>with no copyright notice</em> (i.e, "©", "Copyright" or "Copr." followed by the year of publication and the creator/copyright steward or their pseudonym) are in the Public Domain. 
 
-Works published in or after 1978 but before 1 March 1989 <em>with no copyright notice</em> are in the Public Domain unless the work's copyright was registered within 5 years of the work's initial publication. Works created after 1 January 1978 attain a copyright of either 70 years after the death of the creator, or 95 years from the date of publication for works published by corporate entities. (For a definition of “publication” see e.g. <a href="http://www.copyright.gov/circs/circ01.pdf">Copyright Office circular</a>, page 3. This modern definition is only valid for 1978 and later, as the 1909 Copyright Act did not explicitly define it, though the concepts were similar.)
+Works published in or after 1978 but before 1 March 1989 <em>with no copyright notice</em> are in the Public Domain unless the work's copyright was registered with the U.S. Copyright Office within 5 years of the work's initial publication. Works created after 1 January 1978 attain a copyright of either 70 years after the death of the creator, or 95 years from the date of publication for works published by corporate entities. 
 
-For a work published before 1 March 1989 to be considered under copyright, it would need to have been registered with the U.S. Copyright Office. To determine whether a copyright has been registered, please consult the New York Public Library's <a href="https://github.com/NYPL/catalog_of_copyright_entries_project">Catalog of Copyright Entities</a>. (As of 2021, copyright registration entries are digitally accessible through 1977).
-
-[caption id="attachment_27826" align="alignnone" width="1045"]<img src="https://opensiddur.org/wp-content/uploads/2019/11/A-Simplified-Summary-of-Public-Domain-Status-for-Creative-Works-in-US-Copyright-Law-excluding-audio-works-v2.1-Aharon-Varady-CC-BY-SA.png" alt="" width="1045" height="783" class="size-full wp-image-27826" /> “<a href="https://upload.wikimedia.org/wikipedia/commons/0/07/A_Simplified_Summary_of_Public_Domain_Status_for_Creative_Works_in_US_Copyright_Law_%28excluding_audio_works%29_-_SVG.svg">A Simplified Summary of the Public Domain Status of Creative Works under US Copyright Law (excluding audio works)</a>” – (credit: Aharon Varady, license: CC BY-SA)[/caption]
+For a work published before 1 March 1989 to be considered under copyright, it would need to have been registered with the U.S. Copyright Office. To determine whether a copyright has been registered for works through 1977, please consult the New York Public Library's <a href="https://github.com/NYPL/catalog_of_copyright_entries_project">Catalog of Copyright Entities</a>. After 1978, records are searchable via the <a href="https://cocatalog.loc.gov/cgi-bin/Pwebrecon.cgi?DB=local&PAGE=First">Copyright Office of the Library of Congress</a>.
 
 (As adapted from the summary of the relevant copyright law in the United States by the <a href="https://commons.wikimedia.org/wiki/Commons:Copyright_rules_by_territory#United_States">Wikimedia Commons</a>.)
 
@@ -4516,7 +4431,7 @@ For a work published before 1 March 1989 to be considered under copyright, it wo
 
 <h3>Status of Works Published Outside of the United States</h3>
 
-Works which were first published outside the United States (and not subsequently republished in the US within 30 days) 95 years ago may be copyrighted in the US by virtue of the URAA (Uruguay Round Agreements Act) even if the work's copyright in the US previously expired due to a failure to comply with US copyright formalities (i.e., the lack of a copyright renewal or the lack of a proper copyright notice.) In general, such works had their copyright in the US restored if the work was out of copyright in the US due to noncompliance with US formalities but still under copyright in its country of origin on the URAA date. (For most countries, the URAA date is 1 January 1996.) Works first published in the US are not affected by the URAA. For more detail, please refer to this chart by <a href="http://www.publicdomainsherpa.com/copyright-duration3.html">Public Domain Sherpa</a>.
+Works accessible in the US within 30 days of their initial publication abroad are in the Public Domain. All works published by foreign governments (including their agencies) also reside in the Public Domain in the US. Other than these two main exceptions, works published abroad less than 95 years ago are usually subject to copyright law in the US by virtue of the URAA (Uruguay Round Agreements Act) -- even if the work's copyright in the US previously expired due to a failure to comply with US copyright formalities (i.e., the lack of a copyright renewal or the lack of a proper copyright notice.) In general, such works had their copyright in the US restored if the work was out of copyright in the US due to noncompliance with US formalities but still under copyright in its country of origin on the URAA date. (For most countries, the URAA date is 1 January 1996.) To be absolutely clear, works first published in the US are not affected by the URAA. For additional details, please refer to this chart by <a href="http://www.publicdomainsherpa.com/copyright-duration3.html">Public Domain Sherpa</a>. 
 
 &nbsp;
 
@@ -4580,6 +4495,20 @@ In appropriate circumstances and at the discretion of our chief editor, we reser
 
 &nbsp;
 
+<h3>Creative Reuse, Cultural Appropriation, and Cultural Appreciation</h3>
+
+Our project welcomes the study, redistribution, and adaptive reuse of the resources it shares. We believe that the merit in making these resources accessible, openly through legal terms, ultimately benefits the vitality of Jewish culture specifically, and by extension, human society. Are there forms of legally acceptable reuse that are nonetheless, unacceptable and transgressive? Certainly. 
+
+Our project does not grant <em>cultural permission</em>.[foot]Find the article on "<a href="https://en.wikipedia.org/wiki/Cultural_rights">Cultural Rights</a>" on wikipedia.[/foot] Our project cannot imagine the infinity of personal and communal contexts that might call for some experiment in innovation. For any creative or adaptive reuse, we recommend consulting thoughtful scholars and studying Judaism on its own terms rather than as a resource for any project of <a href="https://en.wiktionary.org/wiki/syncretization">syncretization</a>.[foot]Also find the article on "<a href="https://en.wikipedia.org/wiki/Syncretism">Syncretism</a>" in Wikipedia.[/foot] To do so would certainly be regarded, at the very least as an audacious act -- one of <em><a href="https://en.wikipedia.org/wiki/Chutzpah">chutzpah</a></em>; it may be looked upon dimly by others and may trigger oppositional reactions regardless of any self-considered <em>good intentions</em>. Deepening your understanding of the use and historical context of any resource shared through our project should only aid your process. (If you are struggling to find scholars to consult, we welcome you to <a href="/contact/">contact us</a> or join our <a href="https://facebook.com/groups/opensiddur">discussion group</a>). 
+
+In general, we believe that sincere study and proper attribution lends itself to <em><a href="https://en.wikipedia.org/wiki/Xenophilia">cultural appreciation</a></em> and serves as a bulwark against <em><a href="https://en.wikipedia.org/wiki/Cultural_appropriation">cultural appropriation</a></em>. This is just as true for Jews accessing their cultural heritage and inheritance as it is for non-Jews curious about it. There have long existed non-Jewish sects of peoples who, inspired by Jewish beliefs and righteous people, have <em>in good faith</em> Judaized their practices without any official or otherwise authorized endorsement. The <a href="https://en.wikipedia.org/wiki/Subbotniks">Subbotniks</a> and the <a href="https://en.wikipedia.org/wiki/Szekler_Sabbatarians">Szekler Sabbatarians</a> are two such groups from early modern European history. (From these groups arose numerous so-called righteous Gentiles.) In our own days, there are also individuals and groups who seek to learn from Jewish practices in order to structure and supplement their earnest devotion. At the very least, we believe that the accessibility of non-prescriptive, non-denominational archives of sacred resources, helps to promote greater understanding of the diversity of voices in Jewish prayer. Fostering a pluralistic posture is beneficial to authentic and informed ecumenical sharing, deepening the experience of interfaith prayer and study. Endorsed or unendorsed, this type of use is one of <em>cultural appreciation</em>. 
+
+What is always objectionable is some form of misrepresentation -- a tactic aided by poor citation practices and outright misattribution. The obvious example are those zealots who, for their own reasons, will make certain amendations unidentifiable to the uneducated, and in this way take advantage of social conditions that exacerbate cultural assimilation, acculturation, and loss. And then there have also been those who, while seeking to validate and authenticate their own <a href="https://en.wikipedia.org/wiki/Supersessionism">supersessionist</a> religious beliefs and/or national identity, have sought to lay claim to Jewish and/or Israelite identities. Such ahistorical revisionism is a risky endeavor while a living Jewish culture and people exists. So, it's not entirely surprising that some groups, rather than looking to Jews as a fount of culture to learn from and appreciate, develop some rejectionist ideology that declares established Jewish communities (or Judaism itself) as false in favor of their revisionist claims. For such sects, the adoption of Jewish cultural resources occurs <em>in bad faith</em>. They mislead their adherents by adopting resources from outside their lineage, claiming them as their own, an intellectual dishonesty that moreover, is a crime against History. This unendorsed use is clearly one of <em>cultural appropriation</em>. 
+
+Understandably, some have applied copyright law in desperation, <em>lacking any other familiar mechanism</em> to set some legal restriction against the adaptation of our liturgy and prayer literature and thus foil, or at least threaten, any misbegotten effort in cultural appropriation. The problem though is that in applying vanilla copyright to this threat it inadvertently limits all beneficial redistribution and adaptive reuse, from within Jewish culture and beyond. What is important and necessary is to utilize just those aspects of copyright that work against misrepresentation -- the requirement for proper attribution fundamental to the Creative Commons Attribution and Attribution-ShareAlike licenses.
+
+&nbsp;
+
 <h3>Proper Attribution</h3>
 It is the policy of our project to correctly credit all contributors and to properly attribute all works, those under copyright and those in the Public Domain, indicating wherever possible where modifications have been made and who made them. 
 
@@ -4610,14 +4539,14 @@ Only DMCA notices and notices relating to complaints in connection with infringe
 		<wp:post_id>8016</wp:post_id>
 		<wp:post_date><![CDATA[2013-12-22 11:19:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2013-12-22 20:19:14]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-01-19 19:46:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-01-20 04:46:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-02-23 05:54:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-02-23 14:54:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[copyright-policy]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>11058</wp:post_parent>
-		<wp:menu_order>30</wp:menu_order>
+		<wp:menu_order>29</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -4636,7 +4565,7 @@ Only DMCA notices and notices relating to complaints in connection with infringe
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4120]]></wp:meta_value>
+		<wp:meta_value><![CDATA[48997]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[ao_post_optimize]]></wp:meta_key>
@@ -4694,6 +4623,14 @@ Only DMCA notices and notices relating to complaints in connection with infringe
 		<wp:meta_key><![CDATA[saswp_schema_type_product_pros_enable_cons]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_estimated-reading-time-minutes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[16]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_wordproof_timestamp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[פרויקט הסידור הפתוח &#x270d;︎ the Open Siddur Project]]></title>
@@ -4707,8 +4644,8 @@ Only DMCA notices and notices relating to complaints in connection with infringe
 		<wp:post_id>8358</wp:post_id>
 		<wp:post_date><![CDATA[2014-01-07 20:23:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2014-01-08 05:23:14]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-01-23 01:51:36]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-01-23 10:51:36]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-03-01 10:34:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-03-01 19:34:14]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -4823,6 +4760,14 @@ Only DMCA notices and notices relating to complaints in connection with infringe
 		<wp:meta_key><![CDATA[shortpixel_critical_css_override_css]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_wordproof_timestamp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_estimated-reading-time-minutes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Imaging (Scanning) Books, Manuscripts, and Ephemeral Works]]></title>
@@ -4902,7 +4847,7 @@ Imaging is critical in providing a source image by which collaborative transcrip
 		<wp:post_name><![CDATA[document-manuscript-imaging]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>29</wp:menu_order>
+		<wp:menu_order>28</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -5024,7 +4969,7 @@ Click here to download the <a href="https://opensiddur.org/help/fonts/">Open Sid
 		<wp:post_name><![CDATA[hebrew-support-in-your-web-browser]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>57</wp:menu_order>
+		<wp:menu_order>56</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -5100,7 +5045,7 @@ Click here to download the <a href="https://opensiddur.org/help/fonts/">Open Sid
 							</item>
 					<item>
 		<title><![CDATA[Contributors (A→Z)]]></title>
-		<link>https://opensiddur.org/contributing/contributors/</link>
+		<link>https://opensiddur.org/contributors/</link>
 		<pubDate>Fri, 20 Feb 2015 15:06:49 +0000</pubDate>
 		<dc:creator><![CDATA[hierophant]]></dc:creator>
 		<guid isPermaLink="false">http://opensiddur.org/?page_id=10402</guid>
@@ -5116,14 +5061,14 @@ To join this community of contributors, please <a href="/contribute/upload/">sha
 		<wp:post_id>10402</wp:post_id>
 		<wp:post_date><![CDATA[2015-02-20 06:06:49]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-02-20 15:06:49]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-08-01 17:58:55]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-08-02 01:58:55]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-02-24 22:40:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-02-25 07:40:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contributors]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>281</wp:post_parent>
-		<wp:menu_order>61</wp:menu_order>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>60</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -5145,8 +5090,8 @@ To join this community of contributors, please <a href="/contribute/upload/">sha
 		<wp:meta_value><![CDATA[2364]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
-		<wp:meta_value><![CDATA[30]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_yoast_wpseo_estimated-reading-time-minutes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -5177,16 +5122,20 @@ To join this community of contributors, please <a href="/contribute/upload/">sha
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_wordproof_timestamp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[saswp_schema_type_product_pros_enable_cons]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_focuskw]]></wp:meta_key>
 		<wp:meta_value><![CDATA[contributors]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
 		<wp:meta_value><![CDATA[A directory of all persons to whom content is attributed to in the Open Siddur Project database.]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_linkdex]]></wp:meta_key>
-		<wp:meta_value><![CDATA[67]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oh_add_script_header]]></wp:meta_key>
@@ -5228,7 +5177,7 @@ To join this community of contributors, please <a href="/contribute/upload/">sha
 		<wp:post_name><![CDATA[policies]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>17414</wp:post_parent>
-		<wp:menu_order>49</wp:menu_order>
+		<wp:menu_order>48</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -5347,19 +5296,19 @@ To join this community of contributors, please <a href="/contribute/upload/">sha
 
 <hr />
 
-Text on this page has been amended from <a href="http://creativecommons.org.il/index.php?option=com_content&view=article&id=5&Itemid=140">this page</a> maintained by Creative Commons Israel in order to remove information concerning the conflicting "non-commercial" and "no derivative" Creative Commons licenses. These additional licenses that conflict with the definition of "open" as maintained by the Open Knowledge Foundation and the definition of "free cultural works" as maintained by the Free Culture Foundation and are not applied to any content offered by copyright owners through the Open Siddur Project.]]></content:encoded>
+Text on this page has been adapted from the relevant text <a href="http://creativecommons.org.il/index.php?option=com_content&view=article&id=5&Itemid=140">on this page</a> maintained by Creative Commons Israel.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>11360</wp:post_id>
 		<wp:post_date><![CDATA[2015-04-30 07:33:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2015-04-30 15:33:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-12-05 20:12:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-12-06 05:12:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-02-14 09:59:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-02-14 18:59:49]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[%d7%97%d7%9c%d7%a7-%d7%9e%d7%94%d7%96%d7%9b%d7%95%d7%99%d7%95%d7%aa-%d7%a9%d7%9e%d7%95%d7%a8%d7%95%d7%aa]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>11058</wp:post_parent>
-		<wp:menu_order>46</wp:menu_order>
+		<wp:menu_order>45</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -5385,8 +5334,8 @@ Text on this page has been amended from <a href="http://creativecommons.org.il/i
 		<wp:meta_value><![CDATA[10855]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
-		<wp:meta_value><![CDATA[60]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_yoast_wpseo_estimated-reading-time-minutes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[4]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpghs_github_path]]></wp:meta_key>
@@ -5428,62 +5377,85 @@ Text on this page has been amended from <a href="http://creativecommons.org.il/i
 		<wp:meta_key><![CDATA[saswp_schema_type_product_pros_enable_cons]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
+		<wp:meta_value><![CDATA[classic-editor]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_wordproof_timestamp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Style Guide for Preparing Shared Work]]></title>
-		<link>https://opensiddur.org/contributing/style-guide/</link>
+		<link>https://opensiddur.org/style-guide/</link>
 		<pubDate>Sun, 07 Aug 2016 21:37:59 +0000</pubDate>
 		<dc:creator><![CDATA[hierophant]]></dc:creator>
 		<guid isPermaLink="false">http://opensiddur.org/?page_id=14234</guid>
 		<description></description>
 		<content:encoded><![CDATA[<div class="english-sans" lang="en" style="font-size: 1.2em;">
 
-In every case, we defer to the contributor's preferred style in contributing their work, whether it is an original work, or a translation or transcription of an existing work. However, we do suggest the following style as a baseline standard for all contributed works.
+In every case, we defer to the contributor's preferred style in contributing their work, whether it is an original work, or a translation or transcription of an existing work. However, we do suggest the following style as a baseline standard for all contributed works. (For understanding any possible issues concerning Copyright, libre Open Content licenses, and the Public Domain, please consult our <a href="https://opensiddur.org/copyright-policy/">copyright policy</a> page.)
 
 &nbsp;
 <h3>Sources</h3>
-<p style="padding-left: 40px;">Transcribers should endeavor to transcribe either the earliest textual witness of a particular textual unit, prayer, or prayer related work.</p>
-<p style="padding-left: 40px;">Lacking access to a manuscript image, transcribers should use a critical text whenever available.</p>
-<p style="padding-left: 40px;">If the Public Domain status of the work is in question, please consult <a href="https://opensiddur.org/wp-content/uploads/2019/11/A-Simplified-Summary-of-Public-Domain-Status-for-Creative-Works-in-US-Copyright-Law-excluding-audio-works-v2.1-Aharon-Varady-CC-BY-SA.png" rel="lightbox">this chart</a> or <a href="/contact/">contact us</a>.</p>
+<p style="padding-left: 40px;"><ul>
+<li>Transcribers should endeavor to transcribe the earliest textual witness of a particular textual unit, prayer, or prayer related work.</li>
+<li>Lacking access to a manuscript image, transcribers should use a critical text whenever available.</li>
+<li>If the Public Domain status of the work is in question, please consult <a href="https://upload.wikimedia.org/wikipedia/commons/0/07/A_Simplified_Summary_of_Public_Domain_Status_for_Creative_Works_in_US_Copyright_Law_%28excluding_audio_works%29_-_SVG.svg" rel="lightbox">this chart</a> or <a href="/contact/">contact us</a>.</li>
+</ul></p>
 
 &nbsp;
 <h3>Transcriptions of Hebrew text</h3>
-<p style="padding-left: 40px;">Please vocalize all text as it appears in the work being transcribed. Leave unvocalized text, as is.</p>
-<p style="padding-left: 40px;">For all unvocalized text (text without vocalization points -- <em>niqud</em>), please provide (or solicit) a separate edition of the text that is completely vocalized.</p>
-<p style="padding-left: 40px;">Provide citations for all quoted references within brackets or parentheses.</p>
-<p style="padding-left: 40px;">Please avoid using circumlocutions for <em>shemot </em>(Divine Names) in new works.</p>
-<p style="padding-left: 40px;">Transcribers should retain circumlocutions as they appear in historical works.</p>
+<p style="padding-left: 40px;"><ul>
+<li>Please vocalize all text as it appears in the work being transcribed. Leave unvocalized text, as is.</li>
+<li>For all unvocalized text (text without vocalization points -- <em>niqud</em>), please provide (or solicit) a separate edition of the text that is completely vocalized.</li>
+<li>Provide citations for all quoted references within brackets or parentheses.</li>
+<li>Please avoid using circumlocutions for <em>shemot </em>(Divine Names) in new works.</li>
+<li>Transcribers should retain circumlocutions as they appear in earliest attested manuscripts and printings. (For example, ײ [double yod] should not replace ׯ [triple yod].)</li>
+</ul></p>
 
 &nbsp;
 <h3>Translations and Complex Terms</h3>
-<p style="padding-left: 40px;">Please do not translate complex terms. Transliterate them and, if necessary, provide more expansive explanations in a footnote.</p>
-<p style="padding-left: 40px;">All complex terms should be romanized (transliterated with the Latin script alphabet) according to the transliteration schema set below. For example, <span class="hebrew" lang="he">ציצית</span> becomes tsisit (rather than tzizit).</p>
-<p style="padding-left: 40px;">Default male-gender language, where the gender is not significant, may be translated using gender-inclusive alternatives. For example: "<em>avot</em>/<em>avoteinu</em>" may be translated as "ancestors" rather than "forefathers."</p>
-<p style="padding-left: 40px;">Gendered language, where the gender is significant, should retain the gender in translation. For example: "<em>imahot</em>" may be translated as "foremothers."</p>
+<p style="padding-left: 40px;"><ul>
+<li>Please do not translate complex terms. Transliterate them and, if necessary, provide more expansive explanations in a footnote.</li>
+<li>All complex terms should be romanized (transliterated with the Latin script alphabet) according to the transliteration schema set below. For example, <span class="hebrew" lang="he">ציצית</span> becomes <em>tsisit</em> (rather than <em>tzizit</em>).</li>
+<li>Default male-gender language, where the gender is not significant, may be translated using gender-inclusive alternatives. For example: "<em>avot</em>/<em>avoteinu</em>" may be translated as "ancestors" rather than "forefathers."</li>
+<li>Gendered language, where the gender is significant, should retain the gender in translation. For example: "<em>imahot</em>" may be translated as "foremothers."</li>
+<li>If adopting an unconventional or innovative translation of a complex term, provide an explanatory note in a footnote. If it only appears once or twice, add the note inline with the first instance of its use.</li>
+</ul></p>
 
 &nbsp;
 <h3>Rendering Names, Divine Names and Circumlocutions, Divine Epithets and Pronouns, and Terms for generic divinities</h3>
-<p style="padding-left: 40px;">All names and place names should be romanized (transliterated with the Latin alphabet) according to the transliteration schema set below. For example, <span class="hebrew" lang="he">יעקב</span> becomes Ya'aqov (rather than Jacob).</p>
-<p style="padding-left: 40px;">Please do not translate divine names.</p>
-<p style="padding-left: 40px;">Transliterate all divine names with the first letter in Uppercase. For example, <span class="hebrew" lang="he">אלהים</span> becomes Elohim (rather than "God"), etc.</p>
-<p style="padding-left: 40px;">For the Tetragrammaton (the Four-Letter Name) in translations, we recommend it simply being rendered as "YHVH" (rather than "LORD" or "the LORD").</p> 
-<p style="padding-left: 40px;">For the Tetragrammation within sections of transliterated text, 'Adonai' or 'Yah' is acceptable.</p>
-<p style="padding-left: 40px;">Pronouns for divinity, where the assigned gender is significant, should retain the gender in translation. Otherwise, use gender-inclusive alternatives.</p>  
-<p style="padding-left: 40px;">When replacing he/him/his in a gender-inclusive grammatical reference to the Divine in a translation, you may either (in order of preference): 
+<p style="padding-left: 40px;"><ul>
+<li>Please do not translate names (divine names, place names, etc.). If you must, then provide translations, insights, and etymological background in notes.</li>
+<li>All names and place names should be romanized (transliterated with the Latin alphabet) according to the transliteration schema set below. For example, <span class="hebrew" lang="he">יעקב</span> becomes Ya'aqov (rather than Jacob).</li>
+<li>Transliterate all divine names with the first letter in Uppercase. For example, <span class="hebrew" lang="he">אלהים</span> becomes Elohim (rather than "God"), etc.</li>
+<li>For the Tetragrammaton (the Four-Letter Name) in translations, we recommend it simply being rendered as "YHVH" (rather than "LORD" or "the LORD").[foot]Less common but worthy of note is a convention adopted by Rabbi Aryeh Kaplan which we do not endorse and strongly advise against. In his translation of the Ḥumash in <em>The Living Torah</em> (Moznaim 1980), Rabbi Kaplan writes, "Another frequent area of difficulty involves the various names of God. The convention, following the Septuagint, is to translate the Tetragrammaton as “the Lord,” and Elohim as 'God.' This, however, often produces strained results, and somehow, referring to God as “the Lord” has a distinctly un-Jewish flavor. We have therefore consistently used 'God' as the favored name, since it is the most often used. 'Lord' has been used secondarily. This also reduces wordiness, since instead of 'the Lord our God,' we translate such a passage as 'God our Lord.'"[/foot]</li> 
+<li>As circumlocutions for the Tetragrammaton within sections of transliterated text intended for vocalization, Adonai or Yah is acceptable.</li>
+<li>Pronouns for divinity, <em>where the assigned gender is significant</em>, should retain the gender in translation. Otherwise, use gender-inclusive alternatives.</li>  
+<li>When replacing he/him/his in a gender-inclusive grammatical reference to the Divine in a translation, you may either (in order of preference): 
+
 <ol style="padding-left: 80px;">
 <li>replace the pronoun with singlular 'they/them/their,'</li> 
 <li>use a circumlocution for the most recent divine name mentioned (in cases where plural 'they' might be confusing), or else</li> 
-<li>choose a circumlocution such as "Hashem" for YHVH or "G♕d" for Elohim, if necessary. For example, "Praise YHVH for <span style="text-transform: uppercase;">THEY</span> are good. Hashem loves those with integrity."</li>
-</ol></p>
-<p style="padding-left: 40px;">Do not capitalize the first letter of divine pronouns. For example: "you" instead of "You." Exceptions may be made for distinguishing singular "They" or <span style="text-transform: uppercase;">THEY</span> from plural "they."</p>
-<p style="padding-left: 40px;">Divine epithets may remain gender-inclusive or gendered, based on the translator's preference. For example: "Melekh ha-Olam" may be translated as "Cosmic Majesty." "Avinu Malkeinu" may be translated as "My father, My king."</p>
-<p style="padding-left: 40px;">Any indirect reference to divinity may be treated as a generic. For example <span class="hebrew" lang="he">יהוה אלהיך</span> becomes "YHVH your <em>elo'ah</em> (rather than "YHVH your god") and <span class="hebrew" lang="he">אלהי יעקב</span> becomes "<em>elo'ah</em> of Ya'aqov" (rather than god of Ya'aqov").</p>
-<p style="padding-left: 40px;">Generic terms for divine entities should be identified in transliteration in lowercase. For example, <span class="hebrew" lang="he">אלים</span> becomes <em>elim</em>.</p>
-<p style="padding-left: 40px;">Circumlocutions found in contemporary works should be replaced with the divine names they signify in the manner described above.</p>
+<li>choose a circumlocution such as "Hashem" for YHVH or "G♕D" for Elohim, if necessary. For example, "Praise YHVH for <span style="text-transform: uppercase;">THEY</span> are good. Hashem loves those with integrity."</li>
+</ol></li>
+
+<li>Do not capitalize the first letter of divine pronouns. For example: "you" instead of "You." Exceptions may be made for distinguishing singular "They" or <span style="text-transform: uppercase;">THEY</span> from plural "they."</li>
+<li>Divine epithets may remain gender-inclusive or gendered, based on the translator's preference. For example: "Melekh ha-Olam" may be translated as "Cosmic Majesty." "Avinu Malkeinu" may be translated as "My father, My king."</li>
+<li>Any indirect reference to divinity may be treated as a generic. For example <span class="hebrew" lang="he">יהוה אלהיך</span> becomes "YHVH your <em>elo'ah</em> (rather than "YHVH your god") and <span class="hebrew" lang="he">אלהי יעקב</span> becomes "<em>elo'ah</em> of Ya'aqov" (rather than god of Ya'aqov").</li>
+<li>Generic terms for divine entities should be identified in transliteration in lowercase. For example, <span class="hebrew" lang="he">אלים</span> becomes <em>elim</em>.</li>
+<li>Circumlocutions found in contemporary works should be replaced with the divine names they signify in the manner described above.</li>
+<li>If adopting an unconventional or innovative translation of a divine name, append an explanatory note before your translation. If it only appears once or twice, add the note inline with the first instance of its use.</li>
+</ul></p>
+
 
 &nbsp;
 <h3>Annotations</h3>
-<p style="padding-left: 40px;">Provide all comments and citation references inline rather than as footnotes or endnotes. Begin and end references with reference tags, &lt;ref&gt; and &lt;/ref&gt;, respectively.</p>
+<p style="padding-left: 40px;"><ul>
+<li>Provide all comments and citation references inline rather than as footnotes or endnotes. Begin and end references with reference tags, &lt;ref&gt; and &lt;/ref&gt;, respectively.</li>
+</ul></p>
 
 &nbsp;
 <h3>Transliteration Schema</h3>
@@ -5518,10 +5490,10 @@ Find below, a chart for Hebrew consonants and vowels with their corresponding le
 מ = m
 נ = n
 ס = s
-ע = 'a (as for alef, above), Ŋ/ŋ
+ע = ’a or 'a (as for alef, above), Ŋ/ŋ
 פּ = p
 פ = f
-צ = ts (<em>tsitsit</em>, <em>mitsvah</em>)
+צ = ts (<em>tsitsit</em>, <em>mitsvah</em>), ẓ (<em>yahrẓeit</em>)
 ק = Q/q, Ḳ/ḳ (<em>ḳaddish</em>, <em>Qoraḥ</em>)
 ר = r
 שׁ = sh
@@ -5530,24 +5502,33 @@ Find below, a chart for Hebrew consonants and vowels with their corresponding le
 ת = t</span></p>
 
 </div>
-&nbsp;]]></content:encoded>
+&nbsp;
+]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>14234</wp:post_id>
 		<wp:post_date><![CDATA[2016-08-07 13:37:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2016-08-07 21:37:59]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-12-01 22:30:35]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-12-02 07:30:35]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-02-27 17:34:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-02-28 02:34:40]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[style-guide]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>281</wp:post_parent>
-		<wp:menu_order>56</wp:menu_order>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>55</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="author" nicename="cap-hierophant"><![CDATA[hierophant]]></category>
 						<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_estimated-reading-time-minutes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[5]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_wordproof_timestamp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[131]]></wp:meta_value>
 		</wp:postmeta>
@@ -6351,7 +6332,7 @@ English translation courtesy of Leonard Berkowitz. Section numbers outside the s
 		<wp:post_name><![CDATA[rules-for-niqqud]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>53</wp:menu_order>
+		<wp:menu_order>52</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -6444,7 +6425,7 @@ English translation courtesy of Leonard Berkowitz. Section numbers outside the s
 		<wp:post_name><![CDATA[about-this-project]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>48</wp:menu_order>
+		<wp:menu_order>47</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -6549,7 +6530,7 @@ In the summer of 2009, the Open Siddur was one of sixteen innovative projects ch
 		<wp:post_name><![CDATA[acknowledgements-2]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>316</wp:post_parent>
-		<wp:menu_order>62</wp:menu_order>
+		<wp:menu_order>61</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -6630,7 +6611,7 @@ In the summer of 2009, the Open Siddur was one of sixteen innovative projects ch
 		<wp:post_name><![CDATA[profile]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>63</wp:menu_order>
+		<wp:menu_order>62</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -6821,7 +6802,7 @@ In the summer of 2009, the Open Siddur was one of sixteen innovative projects ch
 		<wp:post_name><![CDATA[edit-account]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>26</wp:menu_order>
+		<wp:menu_order>25</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -7050,7 +7031,7 @@ Account registration is available to all project contributors. (To become a proj
 							</item>
 					<item>
 		<title><![CDATA[Donate]]></title>
-		<link>https://opensiddur.org/contributing/donations/</link>
+		<link>https://opensiddur.org/donations/</link>
 		<pubDate>Wed, 11 Dec 2019 08:30:05 +0000</pubDate>
 		<dc:creator><![CDATA[aharon.varady]]></dc:creator>
 		<guid isPermaLink="false">https://opensiddur.org/?page_id=28454</guid>
@@ -7060,11 +7041,11 @@ Account registration is available to all project contributors. (To become a proj
 
 Covering the operational cost of keeping our servers and websites online is up to people like you who deem this project worthy. The speed by which the project moves forward ultimately depends upon <a href="/contributing/upload/">contributions of content</a> and <a href="/contributing/volunteering/">volunteered labor</a>, or lacking these, financial donations to pay for additional specialized services. If you believe in our mission, want to see this project succeed, but cannot volunteer any labor or contribute any Jewish prayer-related content, then please donate some funds. -- <strong>and thank you!</strong>
 
-<a href="https://patreon.com/opensiddur"><img src="https://opensiddur.org/wp-content/uploads/2019/12/PatreonCircle-300x300.png" alt="" width="300" height="300" class="alignleft size-medium wp-image-28458" /></a>
+<a href="https://patreon.com/opensiddur"><img src="https://opensiddur.org/wp-content/uploads/2019/12/PatreonCircle-250x250.png" alt="" width="250" height="250" class="alignleft size-thumbnail wp-image-28458" /></a>
 Become a <strong>regular patron</strong> of this project for as little as $1 a month. Recurring monthly donations will be received through our account on <a href="https://patreon.com/opensiddur">Patreon</a>.[spacer]
 
-<a href="https://fundrazr.com/opensiddur"><img src="https://opensiddur.org/wp-content/uploads/2022/11/FundRazr-300x300.png" alt="" width="300" height="300" class="alignleft size-medium wp-image-47697" /></a>
-If you would rather make a <strong>one-time, tax-deductible donation</strong>, you may do so online through <a href="https://fundrazr.com/opensiddur">Fundrazr</a>.[spacer]
+<a href="https://fundrazr.com/opensiddur"><img src="https://opensiddur.org/wp-content/uploads/2022/11/FundRazr-250x250.png" alt="" width="250" height="250" class="alignleft size-thumbnail wp-image-47697" /></a>
+If you would rather make a <strong>non-recurring, tax-deductible donation</strong>, you may do so online through <a href="https://fundrazr.com/opensiddur">Fundrazr</a>.[spacer]
 
 <img src="https://opensiddur.org/wp-content/uploads/2022/11/kmail2.png" alt="" width="300" height="300" class="alignleft size-full wp-image-47701" />
 If you would prefer to make a <strong>donation by mail</strong>, please note that we can only accept checks for $250 or more. (This is a condition of Jewish Creativity International, the 501(3)c registered non-profit (EIN 95-4328467), which acts as our fiscal sponsor for just such donations.) <em>Please make your check out to</em> "<u>Jewish Creativity International</u>" indicating that your donation is for "the Open Siddur Project" (in the note field of the check opposite your signature). Then, mail your check to the following address: the Open Siddur Project, ℅ Jewish Creativity International, 2472 Broadway, Suite №331, New York, NY 10025-7449. [spacer]
@@ -7074,19 +7055,23 @@ If you would prefer to make a <strong>donation by mail</strong>, please note tha
 		<wp:post_id>28454</wp:post_id>
 		<wp:post_date><![CDATA[2019-12-10 23:30:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-12-11 08:30:05]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-01-11 17:21:04]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-01-12 02:21:04]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-02-27 17:46:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-02-28 02:46:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[donations]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>281</wp:post_parent>
+		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>24</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="author" nicename="cap-aharon-varady"><![CDATA[aharon.varady]]></category>
 						<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_wordproof_timestamp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpcom_is_markdown]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
@@ -7146,10 +7131,14 @@ If you would prefer to make a <strong>donation by mail</strong>, please note tha
 		<wp:meta_key><![CDATA[_yoast_wpseo_twitter-image-id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[47708]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_estimated-reading-time-minutes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Volunteer]]></title>
-		<link>https://opensiddur.org/contributing/volunteering/</link>
+		<link>https://opensiddur.org/volunteering/</link>
 		<pubDate>Wed, 11 Dec 2019 09:29:27 +0000</pubDate>
 		<dc:creator><![CDATA[aharon.varady]]></dc:creator>
 		<guid isPermaLink="false">https://opensiddur.org/?page_id=28473</guid>
@@ -7244,13 +7233,13 @@ The Open Siddur is a volunteer-driven, non-profit, non-denominational, and non-p
 		<wp:post_id>28473</wp:post_id>
 		<wp:post_date><![CDATA[2019-12-11 00:29:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-12-11 09:29:27]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-11-07 16:16:18]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-11-08 01:16:18]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-02-27 18:45:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-02-28 03:45:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[volunteering]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>281</wp:post_parent>
+		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>13</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
@@ -7263,6 +7252,14 @@ The Open Siddur is a volunteer-driven, non-profit, non-denominational, and non-p
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
 		<wp:meta_value><![CDATA[classic-editor]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_estimated-reading-time-minutes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[8]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_wordproof_timestamp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpcom_is_markdown]]></wp:meta_key>
@@ -7471,7 +7468,7 @@ The Open Siddur is a volunteer-driven, non-profit, non-denominational, and non-p
 		<wp:post_name><![CDATA[contributor]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>59</wp:menu_order>
+		<wp:menu_order>58</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -7534,7 +7531,7 @@ The Open Siddur is a volunteer-driven, non-profit, non-denominational, and non-p
 		<wp:post_name><![CDATA[translate]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
+		<wp:menu_order>2</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -7640,7 +7637,7 @@ The Open Siddur is a volunteer-driven, non-profit, non-denominational, and non-p
 		<wp:post_name><![CDATA[rss-to-email-subscriptions]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>7952</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
+		<wp:menu_order>1</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -7692,9 +7689,10 @@ The Open Siddur is a volunteer-driven, non-profit, non-denominational, and non-p
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
+Object Caching 1/35 objects using disk
 Page Caching using disk: enhanced{w3tc_pagecache_reject_reason}
 Lazy Loading (WP_ADMIN)
 Minified using disk (wp-admin)
 
-Served from: opensiddur.org @ 2023-02-01 04:27:25 by W3 Total Cache
+Served from: opensiddur.org @ 2023-03-01 13:49:00 by W3 Total Cache
 -->
