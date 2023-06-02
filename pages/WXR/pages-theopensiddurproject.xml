@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.2" created="2023-05-03 02:27" -->
+	<!-- generator="WordPress/6.2.2" created="2023-06-02 02:44" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,19 +29,23 @@
 	<title>the Open Siddur Project ✍ פְּרוֺיֶּקט הַסִּדּוּר הַפָּתוּחַ</title>
 	<link>https://opensiddur.org</link>
 	<description>an open-source, community-grown archive for those sharing prayers and crafting their own prayerbooks</description>
-	<pubDate>Wed, 03 May 2023 02:27:14 +0000</pubDate>
+	<pubDate>Fri, 02 Jun 2023 02:44:25 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://opensiddur.org</wp:base_site_url>
 	<wp:base_blog_url>https://opensiddur.org</wp:base_blog_url>
 
-		<wp:author><wp:author_id>310</wp:author_id><wp:author_login><![CDATA[hierophant]]></wp:author_login><wp:author_email>email redacted</wp:author_email><wp:author_display_name><![CDATA[the Hierophant]]></wp:author_display_name><wp:author_first_name><![CDATA[the]]></wp:author_first_name><wp:author_last_name><![CDATA[Hierophant]]></wp:author_last_name></wp:author>
-	<wp:author><wp:author_id>455</wp:author_id><wp:author_login><![CDATA[aharon-nissn.varady]]></wp:author_login><wp:author_email>email redacted</wp:author_email><wp:author_display_name><![CDATA[Aharon N. Varady]]></wp:author_display_name><wp:author_first_name><![CDATA[Aharon N.]]></wp:author_first_name><wp:author_last_name><![CDATA[Varady]]></wp:author_last_name></wp:author>
-	<wp:author><wp:author_id>131</wp:author_id><wp:author_login><![CDATA[aharon.varady]]></wp:author_login><wp:author_email>email redacted</wp:author_email><wp:author_display_name><![CDATA[Aharon N. Varady (transcription)]]></wp:author_display_name><wp:author_first_name><![CDATA[Aharon]]></wp:author_first_name><wp:author_last_name><![CDATA[Varady (transcription)]]></wp:author_last_name></wp:author>
-	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[hermit]]></wp:author_login><wp:author_email>email redacted</wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[The]]></wp:author_first_name><wp:author_last_name><![CDATA[Admin]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>310</wp:author_id><wp:author_login><![CDATA[hierophant]]></wp:author_login><wp:author_email>email redacted</wp:author_email>
+<wp:author_display_name><![CDATA[the Hierophant]]></wp:author_display_name><wp:author_first_name><![CDATA[the]]></wp:author_first_name><wp:author_last_name><![CDATA[Hierophant]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_id>455</wp:author_id><wp:author_login><![CDATA[aharon-nissn.varady]]></wp:author_login><wp:author_email>email redacted</wp:author_email>
+<wp:author_display_name><![CDATA[Aharon N. Varady]]></wp:author_display_name><wp:author_first_name><![CDATA[Aharon N.]]></wp:author_first_name><wp:author_last_name><![CDATA[Varady]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_id>131</wp:author_id><wp:author_login><![CDATA[aharon.varady]]></wp:author_login><wp:author_email>email redacted</wp:author_email>
+<wp:author_display_name><![CDATA[Aharon N. Varady (transcription)]]></wp:author_display_name><wp:author_first_name><![CDATA[Aharon]]></wp:author_first_name><wp:author_last_name><![CDATA[Varady (transcription)]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[hermit]]></wp:author_login><wp:author_email>email redacted</wp:author_email>
+<wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[The]]></wp:author_first_name><wp:author_last_name><![CDATA[Admin]]></wp:author_last_name></wp:author>
 
 				
-	<generator>https://wordpress.org/?v=6.2</generator>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
 
 <image>
 	<url>https://opensiddur.org/wp-content/uploads/2015/03/Open-Siddur-Project-Logo-2015-5509b4bdv1_site_icon-250x250.png</url>
@@ -7582,20 +7586,21 @@ The Open Siddur is a volunteer-driven, non-profit, non-denominational, and non-p
 		<description></description>
 		<content:encoded><![CDATA[<a href="https://en.wikipedia.org/wiki/RSS">RSS</a> is an open technological standard for summarizing and structuring the content of websites. This technology enables the syndication of website content as "feeds" to newsreader applications and email delivery services. A link to our RSS feed looks like this: <a href="https://opensiddur.org/feed/">https://opensiddur.org/feed/</a>. (Please utilize this link with your preferred RSS newsreader application.)
 
-Alas! our RSS-to-Email subscription service is <strong>currently down</strong>. We are currently exploring alternative means of getting it back up and running (without employing a service like Mailchimp or Mailerlite).
+<!-- Alas! our RSS-to-Email subscription service is <strong>currently down</strong>. We are exploring alternative means of getting it back up and running (without employing a commercial service like Mailchimp or Mailerlite). -->
 
-When it is functioning, new emails are relayed once a week, every Friday morning at 4AM (Eastern). These email contain excerpts (with links) to new resources shared through the Open Siddur by project contributors.  
+New emails are relayed once a week, every Friday morning at 4AM (Eastern). These email contain excerpts (with links) to new resources shared through the Open Siddur by project contributors.  
 
-<!--  
+If you would like to sponsor our weekly email, please <a href="/contact/">contact us</a>.
+
 <script type="text/javascript" src="https://zcvf-zcglf.maillist-manage.com/js/optin.min.js" onload="setupSF('sf3z0dfa703154414555307ec8608c36bfeae13d2250e35f1b52a08627eca14bc9a1','ZCFORMVIEW',false,'light',false,'0')"></script><script type="text/javascript">function runOnFormSubmit_sf3z0dfa703154414555307ec8608c36bfeae13d2250e35f1b52a08627eca14bc9a1(th){/*Before submit, if you want to trigger your event, "include your code here"*/};</script><style>#customForm p{display:inline;}.quick_form_9_css * {    -webkit-box-sizing: border-box !important;    -moz-box-sizing: border-box !important;    box-sizing: border-box !important;    overflow-wrap: break-word}@media only screen and (max-width: 600px) {.quick_form_9_css[name="SIGNUP_BODY"] { width: 100% !important; min-width: 100% !important; margin: 0px auto !important; padding: 0px !important } .SIGNUP_FLD { width: 90% !important; margin: 10px 5% !important; padding: 0px !important } .SIGNUP_FLD input { margin: 0 !important; border-radius: 25px !important } }</style><div id="sf3z0dfa703154414555307ec8608c36bfeae13d2250e35f1b52a08627eca14bc9a1" data-type="signupform" style="opacity: 1;"><div id="customForm"><div class="quick_form_9_css" style="background-color: rgb(255, 255, 255); width: 350px; z-index: 2; font-family: &quot;Arial&quot;; border-width: 1px; border-style: solid; border-color: rgb(235, 235, 235); overflow: hidden" name="SIGNUP_BODY"><div><div style="font-size: 14px; font-family: &quot;Arial&quot;; font-weight: bold; color: rgb(136, 136, 136); text-align: left; padding: 10px 15px 5px; width: 100%; display: block" id="SIGNUP_HEADING">Sign up for the latest</div><div style="position:relative;"><div id="Zc_SignupSuccess" style="display:none;position:absolute;margin-left:4%;width:90%;background-color: white; padding: 3px; border: 3px solid rgb(194, 225, 154);  margin-top: 10px;margin-bottom:10px;word-break:break-all"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td width="10%"><img class="successicon" src="https://zcvf-zcglf.maillist-manage.com/images/challangeiconenable.jpg" align="absmiddle"></td><td><span id="signupSuccessMsg" style="color: rgb(73, 140, 132); font-family: sans-serif; font-size: 14px;word-break:break-word">&nbsp;&nbsp;Thank you for Signing Up</span></td></tr></tbody></table></div></div><form method="POST" id="zcampaignOptinForm" style="margin: 0px; width: 100%; padding: 0px 15px" action="https://zcvf-zcglf.maillist-manage.com/weboptin.zc" target="_zcSignup"><div style="background-color: rgb(255, 235, 232); padding: 10px; color: rgb(210, 0, 0); font-size: 11px; margin: 20px 10px 0px; border: 1px solid rgb(255, 217, 211); opacity: 1; display: none" id="errorMsgDiv">Please correct the marked field(s) below.</div><div style="position: relative; margin: 10px 0 15px; width: 225px; height: 30px; display: inline-block" class="SIGNUP_FLD"><input type="text" style="font-size: 14px; border: 1px solid rgb(235, 235, 235); border-radius: 0; width: 100%; height: 100%; z-index: 4; outline: none; padding: 5px 10px; color: rgb(136, 136, 136); text-align: left; font-family: &quot;Arial&quot;; background-color: transparent; background-color: rgb(255, 255, 255); box-sizing: border-box" placeholder="Email" changeitem="SIGNUP_FORM_FIELD" name="CONTACT_EMAIL" id="EMBED_FORM_EMAIL_LABEL"></div><div style="position: relative; width: 90px; height: 30px; text-align: left; display: inline-block; margin: 0px 0px 10px" class="SIGNUP_FLD"><input type="button" style="text-align: center; width: 100%; height: 100%; z-index: 5; border: 0; color: rgb(255, 255, 255); cursor: pointer; outline: none; font-size: 14px; background-color: rgb(255, 121, 68); margin: 0; margin-left: -5px; border-radius: 0 3px 3px 0" name="SIGNUP_SUBMIT_BUTTON" id="zcWebOptin" value="Subscribe"></div><input type="hidden" id="fieldBorder" value=""><input type="hidden" id="submitType" name="submitType" value="optinCustomView"><input type="hidden" id="emailReportId" name="emailReportId" value=""><input type="hidden" id="formType" name="formType" value="QuickForm"><input type="hidden" name="zx" id="cmpZuid" value="13008d87e"><input type="hidden" name="zcvers" value="3.0"><input type="hidden" name="oldListIds" id="allCheckedListIds" value=""><input type="hidden" id="mode" name="mode" value="OptinCreateView"><input type="hidden" id="zcld" name="zcld" value="1f00e54624fed8dd"><input type="hidden" id="zctd" name="zctd" value="1f00e54624fe6fc9"><input type="hidden" id="document_domain" value=""><input type="hidden" id="zc_Url" value="zcvf-zcglf.maillist-manage.com"><input type="hidden" id="new_optin_response_in" value="0"><input type="hidden" id="duplicate_optin_response_in" value="0"><input type="hidden" name="zc_trackCode" id="zc_trackCode" value="ZCFORMVIEW"><input type="hidden" id="zc_formIx" name="zc_formIx" value="3z0dfa703154414555307ec8608c36bfeae13d2250e35f1b52a08627eca14bc9a1"><input type="hidden" id="viewFrom" value="URL_ACTION"><span style="display: none" id="dt_CONTACT_EMAIL">1,true,6,Contact Email,2</span></form></div></div></div><img src="https://zcvf-zcglf.maillist-manage.com/images/spacer.gif" id="refImage" onload="referenceSetter(this)" style="display:none;"></div><input type="hidden" id="signupFormType" value="QuickForm_Horizontal"><div id="zcOptinOverLay" oncontextmenu="return false" style="display:none;text-align: center; background-color: rgb(0, 0, 0); opacity: 0.5; z-index: 100; position: fixed; width: 100%; top: 0px; left: 0px; height: 988px;"></div><div id="zcOptinSuccessPopup" style="display:none;z-index: 9999;width: 800px; height: 40%;top: 84px;position: fixed; left: 26%;background-color: #FFFFFF;border-color: #E6E6E6; border-style: solid; border-width: 1px;  box-shadow: 0 1px 10px #424242;padding: 35px;"><span style="position: absolute;top: -16px;right:-14px;z-index:99999;cursor: pointer;" id="closeSuccess"><img src="https://zcvf-zcglf.maillist-manage.com/images/videoclose.png"></span><div id="zcOptinSuccessPanel"></div></div>
--->
+
 [spacer height="200px"]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>46129</wp:post_id>
 		<wp:post_date><![CDATA[2022-08-11 10:38:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-08-11 18:38:01]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-04-24 21:54:59]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-04-25 05:54:59]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-05-15 21:14:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-05-16 05:14:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[rss-to-email-subscriptions]]></wp:post_name>
@@ -7665,10 +7670,10 @@ When it is functioning, new emails are relayed once a week, every Friday morning
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
-Object Caching 0/35 objects using disk
+Object Caching 1/35 objects using disk
 Page Caching using disk: enhanced{w3tc_pagecache_reject_reason}
 Lazy Loading (WP_ADMIN)
 Minified using disk (wp-admin)
 
-Served from: opensiddur.org @ 2023-05-02 18:27:14 by W3 Total Cache
+Served from: opensiddur.org @ 2023-06-01 18:44:25 by W3 Total Cache
 -->
