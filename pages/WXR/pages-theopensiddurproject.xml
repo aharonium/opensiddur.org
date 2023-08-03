@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.2.2" created="2023-07-01 20:20" -->
+	<!-- generator="WordPress/6.2.2" created="2023-08-03 03:23" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>the Open Siddur Project ✍ פְּרוֺיֶּקט הַסִּדּוּר הַפָּתוּחַ</title>
 	<link>https://opensiddur.org</link>
 	<description>an open-source, community-grown archive for those sharing prayers and crafting their own prayerbooks</description>
-	<pubDate>Sat, 01 Jul 2023 20:20:43 +0000</pubDate>
+	<pubDate>Thu, 03 Aug 2023 03:23:44 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://opensiddur.org</wp:base_site_url>
@@ -367,7 +367,7 @@ Initially, development of the Open Siddur focused primarily on building core pro
 
 1) Polite feedback and corrections are <strong>always</strong> welcome. 
 2) If your correspondence concerns a particular webpage or resource, don't forget to provide a URL (link) to the material as a helpful reference for us.
-3) <strong>Note:</strong> If you have a support related question, then <strong>reciprocate</strong> by <a href="/contributing/donations/">making a donation</a> to support and sustain this project.
+3) <strong>Note:</strong> If you have a support related question, then <strong>reciprocate</strong> by <a href="/contributing/donations/">first making a donation</a> to support and sustain this project.
 
 [contact-form-7 id="3882" title="Default Contact form"]
 
@@ -377,8 +377,8 @@ If you'd like to connect with us over social media, join our discussion group on
 		<wp:post_id>76</wp:post_id>
 		<wp:post_date><![CDATA[2009-06-28 15:54:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2009-06-28 23:54:11]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-11-06 20:22:51]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-11-07 05:22:51]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-15 10:10:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-15 18:10:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
@@ -460,6 +460,14 @@ If you'd like to connect with us over social media, join our discussion group on
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[saswp_schema_type_product_pros_enable_cons]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_wordproof_timestamp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_estimated-reading-time-minutes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2531,6 +2539,18 @@ The tables below are organized according to font support for t'amim and/or niqqu
 </tr>
 
 
+<tr style="outline: thin solid;" height="250px">
+<td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=E_Yehoash_Esther" frameborder="0" width="100%" height="240px"]</td>
+<td style="vertical-align:top;"><h3><a href="/wp-content/uploads/fonts/display-font-charmap.php?fnt=E_Yehoash_Esther" rel="lightbox" data-lightbox-type="iframe">Evelyn Yehoash's Esther</a></h3></td>
+<td style="vertical-align:top;">does not support most diacritics</td>
+<td style="vertical-align:top;"></td>
+<td style="vertical-align:top;">Mashkit</td>
+<td style="vertical-align:top;"><a href="https://github.com/MarnieRM/The-Evelyn-Yehoash-s-Esther-Font">Marnie Manning</a></td>
+<td style="vertical-align:top;">margaritkelekh/MarnieRM</td>
+<td style="vertical-align:top;">001.000</td>
+<td style="vertical-align:top;"><a href="https://en.wikipedia.org/wiki/Open_Font_License">SIL OFL</a> 1.1</td>
+</tr>
+
 
 <tr style="outline: thin solid;" height="250px">
 <td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=Pfennig" frameborder="0" width="100%" height="240px"]</td>
@@ -2864,6 +2884,7 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;">1.001</td>
 <td style="vertical-align:top;"><a href="http://en.wikipedia.org/wiki/GNU_GPL_font_exception">GPL+FE</a></td>
 </tr>
+
 
 <tr style="outline: thin solid;" height="250px">
 <td style="vertical-align:top;">[includeme src="/wp-content/uploads/fonts/abgad.php?lat&heb=KtavYadCLM" frameborder="0" width="100%" height="240px"]</td>
@@ -3253,8 +3274,8 @@ If you or your company designed a Hebrew font which you never updated to Unicode
 		<wp:post_id>7951</wp:post_id>
 		<wp:post_date><![CDATA[2013-12-19 11:11:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2013-12-19 20:11:54]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-01-31 12:10:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-01-31 21:10:08]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-30 15:26:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-30 23:26:40]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[fonts]]></wp:post_name>
@@ -7666,10 +7687,10 @@ If you would like to sponsor our weekly email, please <a href="/contact/">contac
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
-Object Caching 1/34 objects using disk
+Object Caching 2/36 objects using disk
 Page Caching using disk: enhanced{w3tc_pagecache_reject_reason}
 Lazy Loading (WP_ADMIN)
 Minified using disk (wp-admin)
 
-Served from: opensiddur.org @ 2023-07-01 12:20:43 by W3 Total Cache
+Served from: opensiddur.org @ 2023-08-02 19:23:44 by W3 Total Cache
 -->
