@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.3.1" created="2023-09-04 04:27" -->
+	<!-- generator="WordPress/6.3.1" created="2023-10-01 21:17" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>the Open Siddur Project ✍ פְּרוֺיֶּקט הַסִּדּוּר הַפָּתוּחַ</title>
 	<link>https://opensiddur.org</link>
 	<description>an open-source, community-grown archive for those sharing prayers and crafting their own prayerbooks</description>
-	<pubDate>Mon, 04 Sep 2023 04:27:58 +0000</pubDate>
+	<pubDate>Sun, 01 Oct 2023 21:17:54 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://opensiddur.org</wp:base_site_url>
@@ -4665,8 +4665,8 @@ Only DMCA notices and notices relating to complaints in connection with infringe
 		<wp:post_id>8358</wp:post_id>
 		<wp:post_date><![CDATA[2014-01-07 20:23:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2014-01-08 05:23:14]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-08-27 10:40:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-08-27 18:40:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-09-20 19:25:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-09-21 03:25:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -7691,10 +7691,10 @@ If you would like to sponsor our weekly email, please <a href="/contact/">contac
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
-Object Caching 0/36 objects using disk
+Object Caching 1/36 objects using disk
 Page Caching using disk: enhanced{w3tc_pagecache_reject_reason}
 Lazy Loading (WP_ADMIN)
 Minified using disk (wp-admin)
 
-Served from: opensiddur.org @ 2023-09-03 20:27:58 by W3 Total Cache
+Served from: opensiddur.org @ 2023-10-01 13:17:54 by W3 Total Cache
 -->
