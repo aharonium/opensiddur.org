@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.3.2" created="2023-11-02 20:23" -->
+	<!-- generator="WordPress/6.4.1" created="2023-12-03 04:16" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>the Open Siddur Project ✍ פְּרוֺיֶּקט הַסִּדּוּר הַפָּתוּחַ</title>
 	<link>https://opensiddur.org</link>
 	<description>a community-grown, libre Open Access archive of Jewish prayer and liturgical resources</description>
-	<pubDate>Thu, 02 Nov 2023 20:23:26 +0000</pubDate>
+	<pubDate>Sun, 03 Dec 2023 04:16:51 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://opensiddur.org</wp:base_site_url>
@@ -41,7 +41,7 @@
 	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[hermit]]></wp:author_login><wp:author_email>email redacted</wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[The]]></wp:author_first_name><wp:author_last_name><![CDATA[Admin]]></wp:author_last_name></wp:author>
 
 				
-	<generator>https://wordpress.org/?v=6.3.2</generator>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
 
 <image>
 	<url>https://opensiddur.org/wp-content/uploads/2015/03/Open-Siddur-Project-Logo-2015-5509b4bdv1_site_icon-250x250.png</url>
@@ -5654,7 +5654,7 @@ From the abundance of rules and sub-rules and “exceptions to these rules” th
 <table style="margin-left: auto;margin-right: auto;" id="table1"><tr><td>
 <strong>Every open syllable that is not accented – its vowel is always long.</strong>[foot]That is not followed by a silent shəva or a dagesh forte.[/foot]
 
-<strong>Every closed syllable that is not accented – is vowel is always short.</strong>[foot]That is followed by a silent shəva or a dagesh forte.[/foot]
+<strong>Every closed syllable that is not accented – its vowel is always short.</strong>[foot]That is followed by a silent shəva or a dagesh forte.[/foot]
 </td></tr></table>
 
 <strong>Note:</strong> This basic rule, that we have called “The Rule of Syllables and Vowels” applies only, and without exception, in the case of an unaccented syllable!
@@ -5763,7 +5763,7 @@ The following are the four indicators of the type of shəva:
 <p style="padding-left: 30px;">b) In the case of two shəva`im in the middle of a word, the first is silent and the second is vocalized. For example: 
 <div style="text-align: left; padding-left: 50px;">
 <div class="hebrew" lang="he" style="display: inline-block; text-align: right; font-size: 1.5em;">
-יִקְרְאוּ = יִקֱ–רְאוּ, 
+יִקְרְאוּ = יִקְ–רְאוּ, 
 כַּסְפְּכֶם = כַּסְ–פְּכֶם
 </div></div>
 </p>
@@ -5781,8 +5781,8 @@ The following are the four indicators of the type of shəva:
 <p style="padding-left: 30px;">d) A shəva under a consonant with a dagesh forte is always vocalized. For example: 
 <div style="text-align: left; padding-left: 50px;">
 <div class="hebrew" lang="he" style="display: inline-block; text-align: right; font-size: 1.5em;">
-שַׁלְּמִי = שַׁ–לְמִי, 
-סִפְרוּ = סִ–פְּרוּ
+שַׁלְּמִי = שַׁ–לְּמִי,
+סִפְּרוּ = סִ–פְּרוּ
 </div></div>
 </p>
 
@@ -5795,48 +5795,48 @@ According to rule b) above, the consonant resh is pointed with a silent shəva a
 <hr />
 
 [spacer]
-<h3>(§17) The Rule of Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ"ד־כֶּפֶ"ת)</h3>
-The consonants Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ"ד־כֶּפֶ"ת) -- as this acronym is usually pronounced -- as is well-known, have two modes of pronunciation – soft and hard (in our pronunciation today, the distinction remains only for Bet-Kaph-Peh). When they occur with a dagesh (that is a dagesh lene!), they are hard consonants, without a dagesh, soft. When are they soft and when with a dagesh?
+<h3>(§17) The Rule of Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ״ד־כֶּפֶ״ת)</h3>
+The consonants Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ״ד־כֶּפֶ״ת) — as this acronym is usually pronounced — as is well-known, have two modes of pronunciation – soft and hard (in our pronunciation today, the distinction remains only for Bet-Kaph-Peh). When they occur with a dagesh (that is a dagesh lene!), they are hard consonants, without a dagesh, soft. When are they soft and when with a dagesh?
 
 The sages of pointing established a clear rule:
 
 <table style="margin-left: auto;margin-right: auto;" id="table1"><tr><td>
-<strong>The consonants Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ"ד־כֶּפֶ"ת) are pointed with a dagesh lene when they occur at the start of a word, and in the middle of a word only when following a silent shəva.</strong>
+<strong>The consonants Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ״ד־כֶּפֶ״ת) are pointed with a dagesh lene when they occur at the start of a word, and in the middle of a word only when following a silent shəva.</strong>
 </td></tr></table>
 
-The great importance of this rule that is called “The Rule of Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ"ד־כֶּפֶ"ת)” is that it can determine the type of the shəva that occurs before these letter, for it is clear that, if they are pronounced as hard, no doubt will remain that we have before us a silent shəva!
+The great importance of this rule that is called “The Rule of Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ״ד־כֶּפֶ״ת)” is that it can determine the type of the shəva that occurs before these letter, for it is clear that, if they are pronounced as hard, no doubt will remain that we have before us a silent shəva!
 
-Thus, for example: in the words <span class="hebrew" lang="he" style="font-size: 1.5em;">לִשְׁבֹּר, מַלְכָּה, קָרְבָּן, חֶרְפָּה</span>, the shəva that is in the middle of the words must be a silent shəva, according to the Rule of Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ"ד־כֶּפֶ"ת), for if this were not the case, we would be pronouncing the words words <span class="hebrew" lang="he" style="font-size: 1.5em;">לִשְׁבֹר, מַלְכָה, קָרְבָן, חֶרְפָה</span>! Since the shəva is silent, it is clear that the first syllables are closed words: <span class="hebrew" lang="he" style="font-size: 1.5em;">לִשְׁ–בֹּר, מַלְ–כָּה, קָרְ–בָּן, חֶרְ–פָּה</span>, and their vowels are, per the rule, short!
+Thus, for example: in the words <span class="hebrew" lang="he" style="font-size: 1.5em;">לִשְׁבֹּר, מַלְכָּה, קָרְבָּן, חֶרְפָּה</span>, the shəva that is in the middle of the words must be a silent shəva, according to the Rule of Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ״ד־כֶּפֶ״ת), for if this were not the case, we would be pronouncing the words words <span class="hebrew" lang="he" style="font-size: 1.5em;">לִשְׁבֹר, מַלְכָה, קָרְבָן, חֶרְפָה</span>! Since the shəva is silent, it is clear that the first syllables are closed words: <span class="hebrew" lang="he" style="font-size: 1.5em;">לִשְׁ–בֹּר, מַלְ–כָּה, קָרְ–בָּן, חֶרְ–פָּה</span>, and their vowels are, per the rule, short!
 
-In the verbs <span class="hebrew" lang="he" style="font-size: 1.5em;">הָלְכָה, כּוֹתְבִים</span>, the shəva in the middle is vocalized (the consonants Bet-Gimel-Dalet Kaph-Peh-Tav {בֶּגֶ"ד־כֶּפֶ"ת} are soft here!). The first syllables are open and, per the rule, the vowels are long:
+In the verbs <span class="hebrew" lang="he" style="font-size: 1.5em;">הָלְכָה, כּוֹתְבִים</span>, the shəva in the middle is vocalized (the consonants Bet-Gimel-Dalet Kaph-Peh-Tav {בֶּגֶ״ד־כֶּפֶ״ת} are soft here!). The first syllables are open and, per the rule, the vowels are long:
 
 <span class="hebrew" lang="he" style="font-size: 1.5em;">הָ–לְכָה, כּוֹ–תְבִים</span> [no dagesh in the lamed or the tav].
 
-The Rule of Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ"ד־כֶּפֶ"ת) is important, not only as an aid to determining the type of shəva in the middle of the word: it has great importance, primarily, for its own sake – by means of this rule a person who wishes to speak correct Hebrew will know when to pronounce the consonants Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ"ד־כֶּפֶ"ת) as soft; namely:
+The Rule of Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ״ד־כֶּפֶ״ת) is important, not only as an aid to determining the type of shəva in the middle of the word: it has great importance, primarily, for its own sake – by means of this rule a person who wishes to speak correct Hebrew will know when to pronounce the consonants Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ״ד־כֶּפֶ״ת) as soft; namely:
 
-<p style="padding-left: 30px;">a) The consonants Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ"ד־כֶּפֶ"ת) following a vocalized shəva are always soft, for example: <span class="hebrew" lang="he" style="font-size: 1.5em;">כֶּלֶב -- וְכֶּלֶב, פֶּתַע -- לְפֶּתַע</span> (a shəva at the start of a word is obviously vocalized!)</p>
+<p style="padding-left: 30px;">a) The consonants Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ״ד־כֶּפֶ״ת) following a vocalized shəva are always soft, for example: <span class="hebrew" lang="he" style="font-size: 1.5em;">כֶּלֶב — וְכֶלֶב, פֶּתַע — לְפֶתַע</span> (a shəva at the start of a word is obviously vocalized!)</p>
 
 
-<p style="padding-left: 30px;">b) The consonants Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ"ד־כֶּפֶ"ת) following an open syllable with a long vowel – are always soft, for example: <span class="hebrew" lang="he" style="font-size: 1.5em;">שָׁבַרְתִּי</span> (the bet is soft after a long qamats; the tav has a dagesh following the silent shəva!)</p>
+<p style="padding-left: 30px;">b) The consonants Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ״ד־כֶּפֶ״ת) following an open syllable with a long vowel – are always soft, for example: <span class="hebrew" lang="he" style="font-size: 1.5em;">שָׁבַרְתִּי</span> (the bet is soft after a long qamats; the tav has a dagesh following the silent shəva!)</p>
 
 <strong>Note:</strong>
 
-<p style="padding-left: 30px;">a. The consonants Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ"ד־כֶּפֶ"ת), apparently, as if they had a dagesh, not according to the rule (in the middle of a word, but not following a silent shəva!) as in the words <span class="hebrew" lang="he" style="font-size: 1.5em;">חִבָּה, סַפָּה, דִּבֵּר, סִפֵּר</span>. Take note, then: this dagesh is not a dagesh lene but a dagesh forte that closes, per the rule, the syllable following the short vowel, (<span class="hebrew" lang="he" style="font-size: 1.5em;">חַ-כָּה</span> similar to <span class="hebrew" lang="he" style="font-size: 1.5em;">חַ-לָּה</span>).</p>
+<p style="padding-left: 30px;">a. The consonants Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ״ד־כֶּפֶ״ת), apparently, as if they had a dagesh, not according to the rule (in the middle of a word, but not following a silent shəva!) as in the words <span class="hebrew" lang="he" style="font-size: 1.5em;">חִבָּה, סַפָּה, דִּבֵּר, סִפֵּר</span>. Take note, then: this dagesh is not a dagesh lene but a dagesh forte that closes, per the rule, the syllable following the short vowel, (<span class="hebrew" lang="he" style="font-size: 1.5em;">חַ-כָּה</span> similar to <span class="hebrew" lang="he" style="font-size: 1.5em;">חַ-לָּה</span>).</p>
 
 
 <p style="padding-left: 30px;">And despite this:</p>
 
 
-<p style="padding-left: 30px;">b. There are numerous other words where one should pronounced the consonants Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ"ד־כֶּפֶ"ת) as soft and, apparently, again not in accordance with the rule (in the middle of a word, following a silent shəva!), like the words, <span class="hebrew" lang="he" style="font-size: 1.5em;">מַלְ–כֵי, עַנְ–פֵי, עֶרְ–כֵי, עִזְ–בוּ, בִּדְ–פוּס, בִּזְ–כוּת</span>.</p>
+<p style="padding-left: 30px;">b. There are numerous other words where one should pronounced the consonants Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ״ד־כֶּפֶ״ת) as soft and, apparently, again not in accordance with the rule (in the middle of a word, following a silent shəva!), like the words, <span class="hebrew" lang="he" style="font-size: 1.5em;">מַלְ–כֵי, עַנְ–פֵי, עֶרְ–כֵי, עִזְ–בוּ, בִּדְ–פוּס, בִּזְ–כוּת</span>.</p>
 
 
-<p style="padding-left: 30px;">The accepted reason for this is that the shəva in all of these words is not a “real” silent shəva, but a “hovering shəva,” as, indeed, each of these words should have its original form: <span class="hebrew" lang="he" style="font-size: 1.5em;">מְלְכֵי</span> (from <span class="hebrew" lang="he" style="font-size: 1.5em;">מְלָכִים</span>), <span class="hebrew" lang="he" style="font-size: 1.5em;">עֲנְפֵי</span> (from <span class="hebrew" lang="he" style="font-size: 1.5em;">עֲנָפִים</span>), <span class="hebrew" lang="he" style="font-size: 1.5em;">עֲרְכֵי</span> (from <span class="hebrew" lang="he" style="font-size: 1.5em;">עְרָכִים</span>), <span class="hebrew" lang="he" style="font-size: 1.5em;">עֲזְבוּ</span> (from <span class="hebrew" lang="he" style="font-size: 1.5em;">עֲזוֹב</span>) <span class="hebrew" lang="he" style="font-size: 1.5em;">בְּדְפוּס, בְּזְכוּת,</span> and since two shəva`im may not come at the start of a word, the first shəva becomes a helping vowel (“a short vowel”) while the second shəva (“hovering”) does not result in a change of the consonants Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ"ד־כֶּפֶ"ת) that remain soft!</p>
+<p style="padding-left: 30px;">The accepted reason for this is that the shəva in all of these words is not a “real” silent shəva, but a “hovering shəva,” as, indeed, each of these words should have its original form: <span class="hebrew" lang="he" style="font-size: 1.5em;">מְלְכֵי</span> (from <span class="hebrew" lang="he" style="font-size: 1.5em;">מְלָכִים</span>), <span class="hebrew" lang="he" style="font-size: 1.5em;">עֲנְפֵי</span> (from <span class="hebrew" lang="he" style="font-size: 1.5em;">עֲנָפִים</span>), <span class="hebrew" lang="he" style="font-size: 1.5em;">עֲרְכֵי</span> (from <span class="hebrew" lang="he" style="font-size: 1.5em;">עְרָכִים</span>), <span class="hebrew" lang="he" style="font-size: 1.5em;">עֲזְבוּ</span> (from <span class="hebrew" lang="he" style="font-size: 1.5em;">עֲזוֹב</span>) <span class="hebrew" lang="he" style="font-size: 1.5em;">בְּדְפוּס, בְּזְכוּת,</span> and since two shəva`im may not come at the start of a word, the first shəva becomes a helping vowel (“a short vowel”) while the second shəva (“hovering”) does not result in a change of the consonants Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ״ד־כֶּפֶ״ת) that remain soft!</p>
 
 
-<p style="padding-left: 30px;">c. The consonants Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ"ד־כֶּפֶ"ת) can become soft also at the start of a word that is connected by means of a hyphen to another word and that does not end with a silent shəva but with one of the matres lectionis, `aleph hey, vav, yod, because the rule with respect to words connected by a hyphen is like the rule of a single word. Therefore, this is how to pronounce and point: <span class="hebrew" lang="he" style="font-size: 1.5em;">אַחֲרֵי־כֵן, אַף־עַל־פִּי־כֵן, לֹא־כַךְ</span>; we find the same condition in Scripture: <span class="hebrew" lang="he" style="font-size: 1.5em;">וַיְהִי־בֹקֶר, זַרְעוֹ־בוֹ</span>.</p>
+<p style="padding-left: 30px;">c. The consonants Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ״ד־כֶּפֶ״ת) can become soft also at the start of a word that is connected by means of a hyphen to another word and that does not end with a silent shəva but with one of the matres lectionis, `aleph hey, vav, yod, because the rule with respect to words connected by a hyphen is like the rule of a single word. Therefore, this is how to pronounce and point: <span class="hebrew" lang="he" style="font-size: 1.5em;">אַחֲרֵי־כֵן, אַף־עַל־פִּי־כֵן, לֹא־כַךְ</span>; we find the same condition in Scripture: <span class="hebrew" lang="he" style="font-size: 1.5em;">וַיְהִי־בֹקֶר, זַרְעוֹ־בוֹ</span>.</p>
 
 
-<p style="padding-left: 30px;">However, in the pointing in Scripture the dagesh is omitted from the consonants Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ"ד־כֶּפֶ"ת) in instances like these where there are two words not joined by a hyphen, but are only connected thematically to one another (for example: “<span class="hebrew" lang="he" style="font-size: 1.5em;">אֵלֶה תוֹלְדוֹת, הֵמָּה בַדֶּרֶךְ</span>”). However, in spoken language, even in contemporary pointed prose, there is a tendency to omit this detail and to place a dagesh in the consonants Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ"ד־כֶּפֶ"ת) at the start of a word following unpronounced `aleph, heh, vav, yod. We have followed this practice even in this dictionary (only in the cases of bet and dalet where the dagesh does not change the pronunciation in our day – have we omitted, for the most part the dagesh following `aleph, heh, vav, yod.</p>
+<p style="padding-left: 30px;">However, in the pointing in Scripture the dagesh is omitted from the consonants Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ״ד־כֶּפֶ״ת) in instances like these where there are two words not joined by a hyphen, but are only connected thematically to one another (for example: “<span class="hebrew" lang="he" style="font-size: 1.5em;">אֵלֶה תוֹלְדוֹת, הֵמָּה בַדֶּרֶךְ</span>”). However, in spoken language, even in contemporary pointed prose, there is a tendency to omit this detail and to place a dagesh in the consonants Bet-Gimel-Dalet Kaph-Peh-Tav (בֶּגֶ״ד־כֶּפֶ״ת) at the start of a word following unpronounced `aleph, heh, vav, yod. We have followed this practice even in this dictionary (only in the cases of bet and dalet where the dagesh does not change the pronunciation in our day – have we omitted, for the most part the dagesh following `aleph, heh, vav, yod.</p>
 
 
 
@@ -5849,7 +5849,7 @@ The guttural consonants, `aleph, heh, ḥet, 'ayin and also the consonant resh (
 <p style="padding-left: 30px;">a. The short vowel becomes a long vowel (pataḥ to qamats, ḥiriq to tsereh, etc.). The change is called “compensation for a dagesh.”</p>
 
 
-<p style="padding-left: 30px;">Thus, for example, parallel to the word <span class="hebrew" lang="he" style="font-size: 1.5em;">אִלֵּם</span> (mute) [with a dagesh lene in the lamed], we should say, for <span class="hebrew" lang="he" style="font-size: 1.5em;">חִרֵשׁ</span> “deaf,” but the correct word is <span class="hebrew" lang="he" style="font-size: 1.5em;">חֵרֵשׁ</span>, and, similarly, parallel to the verb <span class="hebrew" lang="he" style="font-size: 1.5em;">מְגַדַּל</span> (grows, v.t.) [with a dagesh lene in the gimmel] (in the pi-'el conjugation), we should point the verb as "<span class="hebrew" lang="he" style="font-size: 1.5em;">מְבַאֵר, מְבַרֵךְ</span>" both with a pataḥ under the vav]; however by virture of the fact that the consonants `aleph and resh may not have a dagesh, the pointing is <span class="hebrew" lang="he" style="font-size: 1.5em;">מְבָאֵר, מְבָרֵךְ</span> and in similar cases.</p>
+<p style="padding-left: 30px;">Thus, for example, parallel to the word <span class="hebrew" lang="he" style="font-size: 1.5em;">אִלֵּם</span> (mute) [with a dagesh lene in the lamed], we should say, for <span class="hebrew" lang="he" style="font-size: 1.5em;">חִרֵשׁ</span> “deaf,” but the correct word is <span class="hebrew" lang="he" style="font-size: 1.5em;">חֵרֵשׁ</span>, and, similarly, parallel to the verb <span class="hebrew" lang="he" style="font-size: 1.5em;">מְגַדַּל</span> (grows, v.t.) [with a dagesh forte in the dalet] (in the pi-'el conjugation), we should point the verb as "<span class="hebrew" lang="he" style="font-size: 1.5em;">מְבַאֵר, מְבַרֵךְ</span>" both with a pataḥ under the vav]; however by virture of the fact that the consonants `aleph and resh may not have a dagesh, the pointing is <span class="hebrew" lang="he" style="font-size: 1.5em;">מְבָאֵר, מְבָרֵךְ</span> and in similar cases.</p>
 
 
 <p style="padding-left: 30px;">b. Or the vowel remains as is with no closure (especially before heh, ḥet, 'ayin), <span class="hebrew" lang="he" style="font-size: 1.5em;">מַהֵר, מִחוֹט, בִּעֵר</span>.</p>
@@ -5866,7 +5866,7 @@ The auxiliary consonants are found frequently in Hebrew. There is hardly a word,
 
 [spacer]
 <h3>(§19) The Pointing of the Definite Article</h3>
-The basic pointing of the definite article is with a pataḥ (a short syllable!), and a dagesh forte occurs in the consonant that follows. For example: <span class="hebrew" lang="he" style="font-size: 1.5em;">הַסֵּפֶר, הַשֵּׁבֶט, הַגֶּשֶׁם</span>.
+The basic pointing of the definite article is with a pataḥ (a short vowel), and a dagesh forte occurs in the consonant that follows. For example: <span class="hebrew" lang="he" style="font-size: 1.5em;">הַסֵּפֶר, הַשֵּׁבֶט, הַגֶּשֶׁם</span>.
 
 Only five consonants are liable to cause departures from this basic rule: aleph, heh, ḥet, 'ayin, resh that cannot have a dagesh (§18). Therefore, the occurrence of the definite article before one of these consonants requires a change in its pointing, mainly, in accordance with the explanation in §18. These are the departures:
 
@@ -5892,14 +5892,14 @@ before a heh and an 'ayin that are qamats-pointed and accented</p>
 <p style="padding-left: 30px;">b) Before heh and ḥet that are not qamats-pointed – the definite article remains pointed with a pataḥ without “compensation for a” dagesh: <span class="hebrew" lang="he" style="font-size: 1.5em;">הַחוּט, הַהוֹלֵךְ, הַהוּא</span>. (Exception: <span class="hebrew" lang="he" style="font-size: 1.5em;">הָהֵם</span>).</p>
 
 
-<p style="padding-left: 30px;">c) Before a ḥet pointed with a strong qamats or a ḥataph-qamats, and similarly before qamats-pointed, unaccented hey and 'ayin, the definite article is pointed with a segol. For example 
+<p style="padding-left: 30px;">c) Before a ḥet pointed with a qamats gadol or a ḥataph-qamats, and similarly before qamats-pointed, unaccented hey and 'ayin, the definite article is pointed with a segol. For example 
 <div style="text-align: left; padding-left: 50px;">
 <div class="hebrew" lang="he" style="display: inline-block; text-align: right; font-size: 1.5em;">
 הֶחָכָם, 
 הֶחֳדָשִׁים, 
 הֶהָרִים, 
-הֶעָּשִׁיר; </div></div>
-however, <span class="hebrew" lang="he" style="font-size: 1.5em;">הַחָכְמָה, הֶהָערְמָה</span> (the ḥet and the 'ayin have a qamats qatan!)
+הֶעָשִׁיר; </div></div>
+however, <span class="hebrew" lang="he" style="font-size: 1.5em;">הַחָכְמָה, הֶהָעָרְמָה</span> (the ḥet and the 'ayin have a qamats qatan!)
 </p>
 
 
@@ -5919,11 +5919,11 @@ however, <span class="hebrew" lang="he" style="font-size: 1.5em;">הַחָכְמ
 <tr><th>Basic pointing</th>
 <th>Before `aleph, resh (heh, 'ayin)</th>
 <th>Before non-qamats-pointed heh, ḥet</th>
-<th>Before qamats and ḥataph-pataḥ-pointed ḥet</th>
-<th>Before unaccented, qamats-pointed heh, 'ayin</th>
+<th>Before qamats gadol and ḥataph-pataḥ-pointed ḥet; and before unaccented, qamats-pointed heh, 'ayin</th>
+<th>Before a yod that is pointed with a shəva or a mem</th>
 </tr></thead>
 <tbody>
-<tr><td style="text-align: left;"><span class="hebrew" style="font-size: 1.5em;">הַ</span></td>
+<tr><td style="text-align: left;"><span class="hebrew" style="font-size: 1.5em;">הַ&nbsp;ּ‏</span></td>
 
 <td style="text-align: left;"><span class="hebrew" style="font-size: 1.5em;">הָ</span></td>
 
@@ -5958,10 +5958,10 @@ for example:
 <div style="text-align: left; padding-left: 50px;">
 <div class="hebrew" lang="he" style="display: inline-block; text-align: right; font-size: 1.5em;">
 הַאִם?
- הַעוֹלִים הָאֲנָשִׁים?
- הַהוֹלֵךְ הוּא?
- </div></div>
- </p>
+הַעוֹלִים הָאֲנָשִׁים?
+הַהוֹלֵךְ הוּא?
+</div></div>
+</p>
 
 
 <p style="padding-left: 30px;">c) Before the consonants `aleph, hey, ḥet and 'ayin that are pointed with a qamats and are unaccented, the interrogative heh is pointed with a segol, for example: 
@@ -5980,7 +5980,7 @@ for example:
 <thead><tr>
 <th>Basic pointing</th>
 <th>Before `aleph, heh, ḥet, 'ayin<br />that are not qamats-pointed<br />and before a shəva</th>
-<th>Before `aleph, resh heh, 'ayin, not accented</th>
+<th>Before `aleph, heh, ḥet, 'ayin<br />that are qamats-pointed and not accented</th>
 </tr></thead>
 
 <tbody><tr>
@@ -5994,7 +5994,7 @@ for example:
 
 [spacer]
 <h3>(§21) The Pointing of the Conjunctive Vav</h3>
-The basic pointing of the conjunctive vav in with a shəva, for example: 
+The basic pointing of the conjunctive vav is with a shəva, for example: 
 <div style="text-align: left; padding-left: 50px;">
 <div class="hebrew" lang="he" style="display: inline-block; text-align: right; font-size: 1.5em;">
 אַבְרָהָם וְיִצְחָק וְיַעֲקֹב. 
@@ -6030,7 +6030,6 @@ Instances that require departures from the rule:
 לְשׁוֹנֵנוּ וּפִינוּ. 
 </div></div>
 [Of course, if the word itself starts with one of the consonants that takes a dagesh at the start of a syllable, the dagesh is omitted.]
-
 </p>
 
 
@@ -6087,7 +6086,7 @@ The pointing of the vav that converts the tense from the past tense to the futur
 וִישַׁבְתֶּם לָבֶטַח (departure b), 
 וּבָאתָ אֶל הַתֵּבָה (departure c), 
 וַעֲשִֹיתֶם כֵּן (departure d), 
-מְלָכִים יִרְאוּ וָקָמוּ.
+מְלָכִים יִרְאוּ וָקָמוּ (departure e).
 </div></div>
 
 <table style="margin-left: auto;margin-right: auto;" id="table1"><caption>Summary Table for the Pointing of the Vav That Converts from Past Tense to Future</caption>
@@ -6159,7 +6158,7 @@ Instances that require departures from the rule:
 כִשְׁלֹמֹה, 
 לִצְפָת, 
 בִּרְאוֹתִי, 
-כִּשְׁמוֹע, 
+כִּשְׁמוֹעַ, 
 לִשְׁמוֹעַ.
 </div></div>
 </p>
@@ -6172,7 +6171,6 @@ Instances that require departures from the rule:
 לִילָדִים, 
 כִּיהוּדָה </div></div>
 (but “<span class="hebrew" lang="he" style="font-size: 1.5em;">בְּיִשְֹרָאֵל</span>” – according to the rule as the yod is not pointed with a shəva!)
-
 </p>
 
 
@@ -6180,7 +6178,7 @@ Instances that require departures from the rule:
 <div style="text-align: left; padding-left: 50px;">
 <div class="hebrew" lang="he" style="display: inline-block; text-align: right; font-size: 1.5em;">
 בַּעֲשֹוֹתִי, 
-כְּהֲרִימִי, 
+כַּהֲרִימִי, 
 לֶאֱכֹל, 
 כָּל רֹאשׁ לָחֳלִי.
 </div></div>
@@ -6191,9 +6189,9 @@ Instances that require departures from the rule:
 <div style="text-align: left; padding-left: 50px;">
 <div class="hebrew" lang="he" style="display: inline-block; text-align: right; font-size: 1.5em;">
 בַּבַּיִת (in place of בְּהַבַּיִת), 
-בָּאָרֶץ (--בְּהָאָרֶץ), 
-לְרָחוֹק(--לְהָרָחוֹק),
-בֶהָרִים (--בְּהָהָרִים).
+בָּאָרֶץ (—בְּהָאָרֶץ), 
+לָרָחוֹק (—לְהָרָחוֹק),
+בֶּהָרִים (—בְּהֶהָרִים).
 </div></div>
 </p>
 
@@ -6221,7 +6219,7 @@ Instances that require departures from the rule:
 
 [spacer]
 <h3>(§24) The Pointing of the Auxiliary Consonant Mem</h3>
-The auxiliary consonant Mem is nothing but a contraction of the word “min; therefore, its basic pointing is with a ḥiriq, and the consonant that follows has a dagesh forte (a dagesh that follows a short vowel and to compensate for the missing nun!)
+The auxiliary consonant Mem is nothing but a contraction of the word <span class="hebrew">מִן</span>, therefore, its basic pointing is with a ḥiriq, and the consonant that follows has a dagesh forte (a dagesh that follows a short vowel and to compensate for the missing nun!)
 
 There are two departures for the pointing of the mem:
 
@@ -6242,9 +6240,8 @@ There are two departures for the pointing of the mem:
 מֵחֲדָרִים, 
 מֵעִיר, 
 מֵרֹאשׁ.</div></div>
- Only for the words <span class="hebrew" lang="he" style="font-size: 1.5em;">מִחוּט, מִחוּץ</span> does the ḥiriq remain.
- 
- </p>
+Only for the words <span class="hebrew" lang="he" style="font-size: 1.5em;">מִחוּט, מִחוּץ</span> does the ḥiriq remain.
+</p>
 
 
 
@@ -6269,10 +6266,10 @@ The pointing of the auxiliary shin is always with a segol, and in the consonant 
 <div style="text-align: left; padding-left: 50px;">
 <div class="hebrew" lang="he" style="display: inline-block; text-align: right; font-size: 1.5em;">
 שֶׁכֵּן, 
-שֶׁשָׁמַרְתִּי, 
+שֶׁשָּׁמַרְתִּי, 
 שֶׁיְּדַבֵּר
 </div></div>
-In the pointing of the auxiliary shin, there are no departures -- always a segol even before a guttural consonant that may not take a dagesh; in such a case, the consonant following will remain without a dagesh, for example: 
+In the pointing of the auxiliary shin, there are no departures — always a segol even before a guttural consonant that may not take a dagesh; in such a case, the consonant following will remain without a dagesh, for example: 
 <div style="text-align: left; padding-left: 50px;">
 <div class="hebrew" lang="he" style="display: inline-block; text-align: right; font-size: 1.5em;">
 שֶׁאֲנִי, 
@@ -6318,7 +6315,7 @@ Departures from the above are similar to the departures in the pointing of the d
 "עַד מָה?", 
 "בְּמִדַּת מָה?"  etc.
 </div></div>
- </p>
+</p>
 
 
 
@@ -6345,13 +6342,15 @@ English translation courtesy of Leonard Berkowitz. Section numbers outside the s
 
 <h3>Source(s)</h3>
 
-[gview file="https://opensiddur.org/wp-content/uploads/2017/08/Even-Shoshan-Diqduq.pdf"]]]></content:encoded>
+https://opensiddur.org/wp-content/uploads/2017/08/Even-Shoshan-Diqduq.pdf
+
+&nbsp;]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>16756</wp:post_id>
 		<wp:post_date><![CDATA[2017-08-30 15:47:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2017-08-30 23:47:37]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-07 19:24:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-08 04:24:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-11-26 10:34:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-11-26 19:34:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[rules-for-niqqud]]></wp:post_name>
@@ -6429,6 +6428,14 @@ English translation courtesy of Leonard Berkowitz. Section numbers outside the s
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[saswp_schema_type_product_pros_enable_cons]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_estimated-reading-time-minutes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[20]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_wordproof_timestamp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -7073,15 +7080,14 @@ Become a <strong>regular patron</strong> of this project for as little as $1 a m
 If you would rather make a <strong>non-recurring, tax-deductible donation</strong>, you may do so online through <a href="https://fundrazr.com/opensiddur">Fundrazr</a>.[spacer]
 
 <img src="https://opensiddur.org/wp-content/uploads/2022/11/kmail2.png" alt="" width="300" height="300" class="alignleft size-full wp-image-47701" />
-If you would prefer to make a <strong>donation by mail</strong>, please note that we can only accept checks for $250 or more. (This is a condition of Jewish Creativity International, the 501(3)c registered non-profit (EIN 95-4328467), which acts as our fiscal sponsor for just such donations.) <em>Please make your check out to</em> "<u>Jewish Creativity International</u>" indicating that your donation is for "the Open Siddur Project" (in the note field of the check opposite your signature). Then, mail your check to the following address: the Open Siddur Project, ℅ Jewish Creativity International, 2472 Broadway, Suite №331, New York, NY 10025-7449. [spacer]
-</div>
-]]></content:encoded>
+If you would prefer to make a <strong>donation by mail</strong>, please note that we can only accept checks for $250 or more. (This is a condition of Jewish Creativity International, the 501(3)c registered non-profit (EIN 95-4328467), which acts as our fiscal sponsor for just such donations.) <em>Please make your check out to</em> "<u>Jewish Creativity International</u>" indicating that your donation is for "the Open Siddur Project" (in the note field of the check opposite your signature). Then, mail your check to the following address: the Open Siddur Project, ℅ Jewish Creativity International, 2248 Broadway, №1559, New York, NY 10024. [spacer]
+</div>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>28454</wp:post_id>
 		<wp:post_date><![CDATA[2019-12-10 23:30:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-12-11 08:30:05]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-02-27 17:46:36]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-02-28 02:46:36]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-11-17 06:49:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-11-17 15:49:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[donations]]></wp:post_name>
@@ -7691,10 +7697,10 @@ If you would like to sponsor our weekly email, please <a href="/contact/">contac
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
-Object Caching 0/36 objects using disk
-Page Caching using disk: enhanced{w3tc_pagecache_reject_reason}
+Object Caching 4/35 objects using Disk
+Page Caching using Disk: Enhanced{w3tc_pagecache_reject_reason}
 Lazy Loading (WP_ADMIN)
-Minified using disk (wp-admin)
+Minified using Disk (wp-admin)
 
-Served from: opensiddur.org @ 2023-11-02 12:23:26 by W3 Total Cache
+Served from: opensiddur.org @ 2023-12-02 19:16:51 by W3 Total Cache
 -->
