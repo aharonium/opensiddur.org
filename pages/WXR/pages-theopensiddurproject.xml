@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.4.1" created="2023-12-03 04:16" -->
+	<!-- generator="WordPress/6.4.2" created="2024-01-13 04:23" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>the Open Siddur Project ✍ פְּרוֺיֶּקט הַסִּדּוּר הַפָּתוּחַ</title>
 	<link>https://opensiddur.org</link>
 	<description>a community-grown, libre Open Access archive of Jewish prayer and liturgical resources</description>
-	<pubDate>Sun, 03 Dec 2023 04:16:51 +0000</pubDate>
+	<pubDate>Sat, 13 Jan 2024 04:23:28 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://opensiddur.org</wp:base_site_url>
@@ -41,7 +41,7 @@
 	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[hermit]]></wp:author_login><wp:author_email>email redacted</wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[The]]></wp:author_first_name><wp:author_last_name><![CDATA[Admin]]></wp:author_last_name></wp:author>
 
 				
-	<generator>https://wordpress.org/?v=6.4.1</generator>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
 
 <image>
 	<url>https://opensiddur.org/wp-content/uploads/2015/03/Open-Siddur-Project-Logo-2015-5509b4bdv1_site_icon-250x250.png</url>
@@ -1583,7 +1583,7 @@ The source code for this romanizing transliterator is open source, LGPL licensed
 		<content:encoded><![CDATA[<div class="english-sans" lang="en" style="font-size: 1.2em;">
 <h3>Open-source Unicode Hebrew Fonts (sorted by diacritic support and style) • פונטים בעברית, יוניקוד וקוד פתוח</h3>
 
-Click on a font name below for a download link, and to review a summary of the font's diacritic positioning and character support. See bottom of page for a font comparison chart (<a href="https://archive.org/download/OpenSiddurProjectOpenSourceUnicodeHebrewFontPackCatalogue/Open-Siddur-Project-Hebrew-Font-Pack-comparison-v.1.18.8.pdf">PDF</a>). 
+Click on a font name below for a download link, and to review a summary of the font's diacritic positioning and character support. See bottom of page for a font comparison chart (<a href="https://archive.org/download/OpenSiddurProjectOpenSourceUnicodeHebrewFontPackCatalogue/Open-Siddur-Project-Hebrew-Font-Pack-comparison-v.1.18.9.pdf">PDF</a>). 
 
 The font pack is maintained by Aharon Varady, and all the fonts can be downloaded as ZIP file from his github account <a href="https://github.com/aharonium/fonts/archive/master.zip">here</a>. (If you'd like to support the maintenance of this font pack, please consider becoming a <a href="https://patreon.com/aharonium">patron</a>.)
 
@@ -2928,9 +2928,9 @@ The tables below are organized according to font support for t'amim and/or niqqu
 <td style="vertical-align:top;">does not support diacritics</td>
 <td style="vertical-align:top;">no niqqud/t'amim</td>
 <td style="vertical-align:top;">Cursive</td>
-<td style="vertical-align:top;"></td>
-<td style="vertical-align:top;">Isaac Gantwerk Mayer</td>
-<td style="vertical-align:top;">001.006</td>
+<td style="vertical-align:top;"><a href="https://documentingjudeospanish.com">Documenting Judeo-Spanish Project</a></td>
+<td style="vertical-align:top;"><a href="https://github.com/ladinoprojects/solitreo">Nathan Gross, Bryan Kirschen</a></td>
+<td style="vertical-align:top;">1.100</td>
 <td style="vertical-align:top;"><a href="https://en.wikipedia.org/wiki/Open_Font_License">SIL OFL</a> 1.1</td>
 </tr>
 
@@ -3232,12 +3232,12 @@ The tables below are organized according to font support for t'amim and/or niqqu
 
 <h3>FONT CATALOGUE</h3>
 
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/OpenSiddurProjectOpenSourceUnicodeHebrewFontPackCatalogue/Open-Siddur-Project-Hebrew-Font-Pack-comparison-v.1.18.7#page/n0/mode/1up"]
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" enable_external_height_workaround="true" src="https://archive.org/stream/OpenSiddurProjectOpenSourceUnicodeHebrewFontPackCatalogue/Open-Siddur-Project-Hebrew-Font-Pack-comparison-v.1.18.9#page/n0/mode/1up"]
 
 <hr />
 
 <div class="english" lang="en" style="font-size: 1.2em;">
-<h3>COMPLETE FONT PACK DOWNLOAD:</h3> <a href="https://github.com/aharonium/fonts/archive/master.zip">ZIP</a> (v.1.18.8) | <a href="https://archive.org/download/OpenSiddurProjectOpenSourceUnicodeHebrewFontPackCatalogue/Open-Siddur-Project-Hebrew-Font-Pack-comparison-v.1.18.8.pdf">PDF</a> (Open Source and Unicode Hebrew Font comparison chart. Note: contains <em>shemot</em>.)
+<h3>COMPLETE FONT PACK DOWNLOAD:</h3> <a href="https://github.com/aharonium/fonts/archive/master.zip">ZIP</a> (v.1.18.9) | <a href="https://archive.org/download/OpenSiddurProjectOpenSourceUnicodeHebrewFontPackCatalogue/Open-Siddur-Project-Hebrew-Font-Pack-comparison-v.1.18.9.pdf">PDF</a> (Open Source and Unicode Hebrew Font comparison chart. Note: contains <em>shemot</em>.)
 
 Our open-source Unicode Hebrew font pack is maintained on <a href="https://github.com/aharonium/fonts">Github</a> by Aharon N. Varady. If you value this service, please consider becoming a <a href="https://patreon.com/aharonium">patron</a>.
 
@@ -3274,8 +3274,8 @@ If you or your company designed a Hebrew font which you never updated to Unicode
 		<wp:post_id>7951</wp:post_id>
 		<wp:post_date><![CDATA[2013-12-19 11:11:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2013-12-19 20:11:54]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-07-30 15:26:40]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-07-30 23:26:40]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-12-27 13:17:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-12-27 22:17:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[fonts]]></wp:post_name>
@@ -7697,10 +7697,10 @@ If you would like to sponsor our weekly email, please <a href="/contact/">contac
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
-Object Caching 4/35 objects using Disk
+Object Caching 1/35 objects using Disk
 Page Caching using Disk: Enhanced{w3tc_pagecache_reject_reason}
 Lazy Loading (WP_ADMIN)
 Minified using Disk (wp-admin)
 
-Served from: opensiddur.org @ 2023-12-02 19:16:51 by W3 Total Cache
+Served from: opensiddur.org @ 2024-01-12 19:23:28 by W3 Total Cache
 -->
