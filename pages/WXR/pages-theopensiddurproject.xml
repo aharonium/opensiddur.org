@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.5" created="2024-04-05 00:54" -->
+	<!-- generator="WordPress/6.5.2" created="2024-05-04 05:07" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>the Open Siddur Project ✍ פְּרוֺיֶּקט הַסִּדּוּר הַפָּתוּחַ</title>
 	<link>https://opensiddur.org</link>
 	<description>a community-grown, libre Open Access archive of Jewish prayer and liturgical resources</description>
-	<pubDate>Fri, 05 Apr 2024 00:54:27 +0000</pubDate>
+	<pubDate>Sat, 04 May 2024 05:07:24 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://opensiddur.org</wp:base_site_url>
@@ -41,7 +41,7 @@
 	<wp:author><wp:author_id>131</wp:author_id><wp:author_login><![CDATA[aharon.varady]]></wp:author_login><wp:author_email>email redacted</wp:author_email><wp:author_display_name><![CDATA[Aharon N. Varady (transcription)]]></wp:author_display_name><wp:author_first_name><![CDATA[Aharon]]></wp:author_first_name><wp:author_last_name><![CDATA[Varady (transcription)]]></wp:author_last_name></wp:author>
 
 				
-	<generator>https://wordpress.org/?v=6.5</generator>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
 
 <image>
 	<url>https://opensiddur.org/wp-content/uploads/2015/03/Open-Siddur-Project-Logo-2015-5509b4bdv1_site_icon-250x250.png</url>
@@ -1440,19 +1440,17 @@ The <a href="http://tanach.us/">Westminster Leningrad Codex</a>: digital edition
 		<guid isPermaLink="false">http://opensiddur.org/?page_id=7944</guid>
 		<description></description>
 		<content:encoded><![CDATA[<div class="english-sans" lang="en" style="font-size: 1.2em;">
-Part of our project of digitizing Jewish liturgy is to provide a resource to convert the consonants and vowels of Hebrew into any other script. Ultimately this will be a standard feature in the web application we are building to help folk craft their own siddur, machzor, bentscher or other useful prayer book. Our lead developer, Efraim Feinstein, invented this transliteration engine, a milestone in the creation of our <a href="https://github.com/opensiddur/opensiddur">Open Siddur web application</a> (still in development).
+Part of our project of digitizing Jewish liturgy is to provide a resource to convert the consonants and vowels of Hebrew into any other script. Ultimately this will be a standard feature in the <a href="https://app.opensiddur.org">web application</a> we are building to help folk craft their own siddur, maḥzor, bentscher or other useful prayer book. Try the transliterator now with some pointed Hebrew text. If you don't have any handy, try transliterating this phrase from the opening of the Amidah: "<span class="hebrew" lang="he">דַּע לִפְנֵי מִי אַתָּה עוֹמֵד</span>".
 
-The form below provides a demonstration of this open source technology. Try it with some Hebrew now! If you don't have any handy, try transliterating this phrase from the opening of the Amidah:
+<hr />
 
 <blockquote>
-<div class="hebrew" lang="he" style="text-align:right; font-size: x-large;">אֲדֹנָי שְׂפָתַי תִּפְתָּח וּפִי יַגִּיד תְּהִלָּתֶךָ׃</span></div>
+
+[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://db-prod.jewishliturgy.org/exist/apps/opensiddur-demos/translit/index.html" width="100%" height="900"]
+
 </blockquote>
 
-
-[advanced_iframe securitykey="be1d939e6a1b36109171c7d5503b34cf9147aa7b" src="https://opensiddur.org/transliteration/" width="100%" height="900"]
-
-
-<a href="/transliteration/">Direct link to the Open Siddur Project's transliterator</a>
+Efraim Feinstein is the inventor (and maintainer) of this transliteration engine. Here is a <a href="https://db-prod.jewishliturgy.org/exist/apps/opensiddur-demos/translit/index.html">direct link to the Open Siddur Project's transliterator</a> (outside of the iframe in which it is embedded above).
 
 For an alternate tool, try Charles Loder's <a href="https://hebrewtransliteration.app">Hebrew Transliteration App</a>.
 
@@ -1475,17 +1473,17 @@ There is no single standard for Hebrew transliteration. In our demo you can tran
 
 Currently, the demonstration only provides <a href="http://en.wikipedia.org/wiki/Romanization_of_Hebrew">romanization</a> -- the transliteration of Hebrew to a Latin script. By incorporating additional transliteration standards for additional scripts, we will be able to convert Hebrew to Greek, Cyrillic, Amharic, etc. (and vice versa). The tables are not fixed, and we can change them if bugs are found or better ways are suggested.  Eventually, we will be implementing a table editor to allow editing the tables, creating, and of course, sharing new ones. For now, if you would like to add a transliteration standard to our database, take a look first at <a href="http://web.archive.org/web/20160504154729/http://jewishliturgy.googlecode.com:80/svn/branches/efraim/data/global/transliteration/">these examples</a>.
 
-<h3>Transliteration Tool</h3>
+<h3>License</h3>
 
-The source code for this romanizing transliterator is open source, LGPL licensed, so you are free to take this and use it in your web application or website as well. Join us, and help make this a spectacular resource for everyone.
+The source code for this romanizing transliterator is open-source, LGPL 3.0.
 
 </div>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>7944</wp:post_id>
 		<wp:post_date><![CDATA[2013-12-19 11:03:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2013-12-19 20:03:16]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-12-07 05:27:44]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-12-07 14:27:44]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-04-19 14:11:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-04-19 22:11:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[transliterate]]></wp:post_name>
@@ -1570,6 +1568,14 @@ The source code for this romanizing transliterator is open source, LGPL licensed
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[shortpixel_critical_css_cache]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_estimated-reading-time-minutes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_wordproof_timestamp]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
@@ -7618,7 +7624,7 @@ The Open Siddur is a volunteer-driven, non-profit, non-denominational, and non-p
 
 <!-- Alas! our RSS-to-Email subscription service is <strong>currently down</strong>. We are exploring alternative means of getting it back up and running (without employing a commercial service like Mailchimp or Mailerlite). -->
 
-New emails are relayed once a week, every Friday morning at 4AM (Eastern). These email contain excerpts (with links) to new resources shared through the Open Siddur by project contributors.  
+New emails are relayed once a week, every Friday morning at 11AM (Eastern). These email contain excerpts (with links) to new resources shared through the Open Siddur by project contributors.  
 
 If you would like to sponsor our weekly email, please <a href="/contact/">contact us</a>.
 
@@ -7629,8 +7635,8 @@ If you would like to sponsor our weekly email, please <a href="/contact/">contac
 		<wp:post_id>46129</wp:post_id>
 		<wp:post_date><![CDATA[2022-08-11 10:38:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-08-11 18:38:01]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-05-15 21:14:32]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-05-16 05:14:32]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-04-18 19:59:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-04-19 03:59:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[rss-to-email-subscriptions]]></wp:post_name>
@@ -8119,12 +8125,12 @@ If you would like to sponsor our weekly email, please <a href="/contact/">contac
 		<guid isPermaLink="false">http://opensiddur.org/wp-content/uploads/2013/12/Siddur_Torah_Ohr_Schulzinger_Bros._1940.pdf.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<excerpt:encoded><![CDATA[Siddur Torah Ohr (Schulzinger Bros. 1940) - title]]></excerpt:encoded>
 		<wp:post_id>7984</wp:post_id>
 		<wp:post_date><![CDATA[2013-12-20 15:08:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2013-12-20 23:08:07]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2013-12-20 15:08:07]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2013-12-20 23:08:07]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-04-13 19:40:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-04-14 03:40:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[siddur_torah_ohr_schulzinger_bros-_1940-pdf]]></wp:post_name>
@@ -10689,5 +10695,5 @@ Page Caching using Disk: Enhanced{w3tc_pagecache_reject_reason}
 Lazy Loading (WP_ADMIN)
 Minified using Disk (wp-admin)
 
-Served from: opensiddur.org @ 2024-04-04 16:54:27 by W3 Total Cache
+Served from: opensiddur.org @ 2024-05-03 21:07:24 by W3 Total Cache
 -->
