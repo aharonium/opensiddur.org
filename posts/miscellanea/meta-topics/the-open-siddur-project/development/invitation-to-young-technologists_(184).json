@@ -1,0 +1,33 @@
+{
+    "title": "Invitation to Young Technologists",
+    "author": "Efraim Feinstein",
+    "coauthors": [
+        {
+            "name": "Efraim Feinstein",
+            "bio": "Efraim Feinstein is the lead developer of the Open Siddur <a href=\"https://github.com/opensiddur\">web application</a>.",
+            "website": "",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2014/11/Keith-Evans-Green-Tree-Yellow-Field-CC-BY-SA-250x250.jpg",
+            "profile_link": "https://opensiddur.org/profile/efraim"
+        }
+    ],
+    "date": "2009-08-28",
+    "last_updated": "2024-06-01",
+    "excerpt": "",
+    "content": "<p>The Open Siddur Project is a free and open source software project founded around a community of folk passionate about the siddur. We are developing an online collaborative publishing platform for crafting custom siddurim, for preserving the diversity of Jewish prayer traditions, and for sharing translations, commentary, t&#8217;fillot, meditations, and art in the siddur.</p>\n<p>The Jewish Day School systems are filled with many talented students, and we would like to reach out to those interested in technology and computer science, particularly in high schools.  The Open Siddur Project offers an opportunity for these students to participate in a real free software and open source project that is also relevant to the entire Jewish community. We invite them to participate in development discussions, provide original research, learn and write programs in a number of computer languages, edit, proofread, and correct texts, and work with others of many different backgrounds, in a pluralistic Jewish context.</p>\n<div>Students who participate will be treated like adults and will be expected to interact with the same level of <em>dereḥ</em><em> eretz </em>(common courtesy) as all the other participants in the Open Siddur.</p>\n<p>If you are a teacher or school administrator interested in this project for your students, we would just like to ask that participation in the project never be compulsory, for example, that it never be used as a homework assignment or classroom exercise.</p></div>\n<p>We will be happy to recognize the participation of your school or project represented by its volunteer programmers. To participate, please invite your students to fill out our survey form available at <a href=\"../join-us/\">https://opensiddur.org/contribute/join-us/</a>.* To browse our websites please visit, <a href=\"../\">https://opensiddur.org</a> and <a href=\"https://github.com/opensiddur/\">http://wiki.jewishliturgy.org</a>. To join our discussion list directly, please visit <a href=\"http://groups.google.com/group/opensiddur-talk/\">http://groups.google.com/group/opensiddur-talk/</a>. Please feel free to <a href=\"https://opensiddur.org/contact/\" target=\"_self\" rel=\"noopener\">contact us</a> via our contact form or via email for more information.</p>\n<p>(*) While we are not a commercial entity, in case we ever do fall under the Children&#8217;s Online Privacy Protection Act of 1998, we avoid collecting personal information from students under the age of 13.</p>\n",
+    "categories": [
+        "Development"
+    ],
+    "tags": [
+        "education",
+        "open-source"
+    ],
+    "custom_fields": {
+        "open_content_license": [
+            "<a href='https://creativecommons.org/licenses/by-sa/4.0/'>Creative Commons Attribution-ShareAlike (CC BY-SA) 4.0 International</a> copyleft license"
+        ]
+    },
+    "featured_image": [],
+    "source_link": "https://opensiddur.org/?p=184",
+    "permalink": "https://opensiddur.org/miscellanea/meta-topics/the-open-siddur-project/development/invitation-to-young-technologists/",
+    "slug": "invitation-to-young-technologists"
+}

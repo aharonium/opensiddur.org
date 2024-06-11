@@ -1,0 +1,40 @@
+{
+    "title": "Architecture of the Open Siddur",
+    "author": "Efraim Feinstein",
+    "coauthors": [
+        {
+            "name": "Efraim Feinstein",
+            "bio": "Efraim Feinstein is the lead developer of the Open Siddur <a href=\"https://github.com/opensiddur\">web application</a>.",
+            "website": "",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2014/11/Keith-Evans-Green-Tree-Yellow-Field-CC-BY-SA-250x250.jpg",
+            "profile_link": "https://opensiddur.org/profile/efraim"
+        }
+    ],
+    "date": "2009-12-18",
+    "last_updated": "2024-06-01",
+    "excerpt": "Lead developer, Efraim Feinstein, recently contributed this helpful diagram of Open Siddur's architecture. . . .",
+    "content": "<p>Lead developer, Efraim Feinstein, recently contributed this helpful diagram of Open Siddur&#8217;s architecture on <a href=\"https://github.com/opensiddur/opensiddur/wiki/Architecture\">our wiki</a>.</p>\n<p><a href=\"https://github.com/opensiddur/opensiddur/wiki/Architecture\"><div id=\"attachment_48605\" style=\"width: 310px\" class=\"wp-caption alignnone\"><a href=\"https://opensiddur.org/wp-content/uploads/2009/12/An-Open-Siddur-Summary-Diagram-Efraim-Feinstein-2009.png\" rel=\"lightbox-0\"><img loading=\"lazy\" decoding=\"async\" aria-describedby=\"caption-attachment-48605\" src=\"https://opensiddur.org/wp-content/uploads/2009/12/An-Open-Siddur-Summary-Diagram-Efraim-Feinstein-2009.png\" alt=\"\" width=\"226\" height=\"300\" class=\"size-medium wp-image-48605\" srcset=\"https://opensiddur.org/wp-content/uploads/2009/12/An-Open-Siddur-Summary-Diagram-Efraim-Feinstein-2009.png 1562w, https://opensiddur.org/wp-content/uploads/2009/12/An-Open-Siddur-Summary-Diagram-Efraim-Feinstein-2009-226x300.png 226w\" sizes=\"(max-width: 226px) 100vw, 226px\" /></a><p id=\"caption-attachment-48605\" class=\"wp-caption-text\">An Open Siddur &#8211; Summary Diagram (Efraim Feinstein 2009)</p></div></a></p>\n",
+    "categories": [
+        "Development"
+    ],
+    "tags": [
+        "data flow",
+        "flowchart"
+    ],
+    "custom_fields": {
+        "open_content_license": [
+            "<a href='https://creativecommons.org/licenses/by-sa/4.0/'>Creative Commons Attribution-ShareAlike (CC BY-SA) 4.0 International</a> copyleft license"
+        ],
+        "_thumbnail_id": [
+            "48605"
+        ]
+    },
+    "featured_image": {
+        "url": "https://opensiddur.org/wp-content/uploads/2009/12/An-Open-Siddur-Summary-Diagram-Efraim-Feinstein-2009.png",
+        "title": "An Open Siddur &#8211; Summary Diagram (Efraim Feinstein 2009)",
+        "caption": "An Open Siddur - Summary Diagram (Efraim Feinstein 2009)"
+    },
+    "source_link": "https://opensiddur.org/?p=272",
+    "permalink": "https://opensiddur.org/miscellanea/meta-topics/the-open-siddur-project/development/architecture-of-the-open-siddur/",
+    "slug": "architecture-of-the-open-siddur"
+}

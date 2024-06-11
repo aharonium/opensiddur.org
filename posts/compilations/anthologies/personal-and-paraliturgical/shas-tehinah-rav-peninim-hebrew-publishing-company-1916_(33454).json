@@ -1,0 +1,42 @@
+{
+    "title": "&#128214; ש״ס תחנה רב פנינים | Shas Teḥinah Rav Peninim (Hebrew Publishing Company 1916)",
+    "author": "Hebrew Publishing Company",
+    "coauthors": [
+        {
+            "name": "Hebrew Publishing Company",
+            "bio": "The Hebrew Publishing Company was founded in 1900 by Joseph Werbelowsky (1884-1919). Occupying a former bank building on Delancey Street in Manhattan’s Lower East Side until the mid 1970s, the company remained owned by the Werbelowsky family (later shortened to Werbel) until 1980 when it was sold to Charles Lieber (1921-2016). During its first eighty years, the publishing house grew to become one of the most prominent publishing houses for Jewish books and sheet music.",
+            "website": "",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2019/08/hebrew-publishing-logo-1928-96x96.png",
+            "profile_link": "https://opensiddur.org/profile/hebrew-publishing-company"
+        }
+    ],
+    "date": "2020-09-06",
+    "last_updated": "2023-04-06",
+    "excerpt": "A popular collection of tkhines compiled from earlier collections by the Hebrew Publishing Company. . . .",
+    "content": "<style type=\"text/css\">\r\n       .errordiv { padding:10px; margin:10px; border: 1px solid #555555;color: #000000;background-color: #f8f8f8; width:500px; }#advanced_iframe {visibility:visible;opacity:1;vertical-align:top;}.ai-info-bottom-iframe { position: fixed; z-index: 10000; bottom:0; left: 0; margin: 0px; text-align: center; width: 100%; background-color: #ff9999; padding-left: 5px;padding-bottom: 5px; border-top: 1px solid #aaa } a.ai-bold {font-weight: bold;}#ai-layer-div-advanced_iframe p {height:100%;margin:0;padding:0}#ai-div-container-advanced_iframe\r\n       { \r\n           position: relative;\r\n           width: 100%; max-width: 100%;}\r\n       #ai-div-loader-advanced_iframe\r\n       {\r\n          position: absolute;\r\n          z-index:1000;\r\n          margin-left:-33px;\r\n          left: 50%;   top: 150px;\r\n         }} \r\n       #ai-div-loader-advanced_iframe img\r\n       {\r\n          border: none;\r\n       }</style><script type=\"text/javascript\">var ai_iframe_width_advanced_iframe = 0;var ai_iframe_height_advanced_iframe = 0;var aiIsIe8=false;var aiOnloadScrollTop=\"true\";var aiShowDebug=false;\r\n\t\tif (typeof aiReadyCallbacks === 'undefined') {\r\n\t\t\tvar aiReadyCallbacks = [];  \r\n\t\t} else if (!(aiReadyCallbacks instanceof Array)) {\r\n\t\t\tvar aiReadyCallbacks = [];\r\n\t\t}    function aiShowIframeId(id_iframe) { jQuery(\"#\"+id_iframe).css(\"visibility\", \"visible\");    }    function aiResizeIframeHeight(height) { aiResizeIframeHeight(height,advanced_iframe); }    function aiResizeIframeHeightId(height,width,id) {aiResizeIframeHeightById(id,height);}</script><div id=\"ai-div-container-advanced_iframe\"><div id=\"ai-div-loader-advanced_iframe\"><img decoding=\"async\" class=\"img-loader-icon\" src=\"https://opensiddur.org/wp-content/plugins/advanced-iframe/img/loader.gif\" title=\"Loading\" alt=\"Loading\"></img></div><iframe id=\"advanced_iframe\"  name=\"advanced_iframe\"  src=\"https://archive.org/stream/shastehinahravpeninimhebrewpublishingcompany1916#page/n2/mode/2up\"  width=\"100%\"  height=\"900\"  frameborder=\"0\"  allowtransparency=\"true\"  loading=\"lazy\"  style=\";width:100%;height:900px;;width:1px;min-width:100%;max-width:100%;\"  allowfullscreen  onload='jQuery(&quot;#ai-div-loader-advanced_iframe&quot;).hide();;jQuery(&quot;#ai-div-loader-global&quot;).hide()' ></iframe></div><script type=\"text/javascript\">var ifrm_advanced_iframe = document.getElementById(\"advanced_iframe\");var hiddenTabsDoneadvanced_iframe = false;\r\nfunction resizeCallbackadvanced_iframe() {}var recalculateIframeResizeadvanced_iframe = 0;\r\n        var recalculateIframeOrientationchangeadvanced_iframe = 0;\r\n        var aiWindowWidth = 0;\r\n\t\tfunction recalculateIframeadvanced_iframe() {\r\n          clearTimeout(recalculateIframeResizeadvanced_iframe);\r\n          clearTimeout(recalculateIframeOrientationchangeadvanced_iframe);}  \r\n        function initResponsiveIframeadvanced_iframe() {\r\n          jQuery(window).resize(function() {\r\n\t\t\t recalculateIframeResizeadvanced_iframe = window.setTimeout(\"recalculateIframeadvanced_iframe()\",100);\r\n          });\r\n          if (window.addEventListener) {\r\n            window.addEventListener(\"orientationchange\", function() {\r\n               recalculateIframeOrientationchangeadvanced_iframe = window.setTimeout(\"recalculateIframeadvanced_iframe()\",100);\r\n            }, false);\r\n          }\r\n        }\r\n        aiReadyCallbacks.push(initResponsiveIframeadvanced_iframe);</script><style>#advanced_iframe {width: 1px !important;min-width:100% !important;max-width:100% !important;}</style><script type=\"text/javascript\"></script>\n",
+    "categories": [
+        "Personal &amp; Paraliturgical collections of prayers"
+    ],
+    "tags": [
+        "20th century C.E.",
+        "57th century A.M.",
+        "Jewish Women's Prayers",
+        "Yiddish vernacular prayer"
+    ],
+    "custom_fields": {
+        "open_content_license": [
+            "<a href='https://creativecommons.org/publicdomain/zero/1.0/'>Creative Commons Zero (CC 0) Universal license</a> a Public Domain dedication"
+        ],
+        "_thumbnail_id": [
+            "33456"
+        ]
+    },
+    "featured_image": {
+        "url": "https://opensiddur.org/wp-content/uploads/2020/09/Shas-tkhine-rav-peninim-Hebrew-Publishing-Co.-1916-title-page.jpg",
+        "title": "Shas tkhine rav peninim (Hebrew Publishing Co. 1916) &#8211; title page",
+        "caption": ""
+    },
+    "source_link": "https://opensiddur.org/?p=33454",
+    "permalink": "https://opensiddur.org/compilations/anthologies/personal-and-paraliturgical/shas-tehinah-rav-peninim-hebrew-publishing-company-1916/",
+    "slug": "shas-tehinah-rav-peninim-hebrew-publishing-company-1916"
+}

@@ -1,0 +1,39 @@
+{
+    "title": "PresenTense Institute Summer Workshop (Aharon Varady 2009)",
+    "author": "Aharon N. Varady",
+    "coauthors": [
+        {
+            "name": "Aharon N. Varady",
+            "bio": "Aharon Varady is the founding director of the Open Siddur Project. A community planner (M.C.P, <a href=\"http://daap.uc.edu/\">DAAP</a>/University of Cincinnati.) and Jewish educator (M.A.J.Ed., the <a href=\"https://www.jtsa.edu/school/davidson-graduate-school-of-jewish-education/\">William Davidson School of Education</a>), his work in <a href=\"https://en.wikipedia.org/wiki/Open_Source_Judaism\">open-source Judaism</a> has been written about in the <a href=\"http://yiddish.forward.com/articles/214255/make-your-own-siddur/\">Yiddish Forverts</a>, the <a href=\"http://www.theatlantic.com/technology/archive/2012/06/the-potential-and-promise-of-open-source-judaism/258394/\">Atlantic Magazine</a>, <a href=\"http://www.tabletmag.com/jewish-life-and-religion/21498/prayer-unbound\">Tablet</a>, and <a href=\"http://www.haaretz.com/prayer-ala-carte-1.279328\">Haaretz</a>. If you find any egregious mistakes in his work, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady/\">transcribes</a> and <a href=\"/profile/aharon-n-varady/\">translates</a> prayers, besides serving as the primary <em>shammes</em> of the Open Siddur Project.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-nissen-varady"
+        }
+    ],
+    "date": "2009-06-16",
+    "last_updated": "2024-06-01",
+    "excerpt": "The inaugural first post here at the Open Siddur Project website. . . .",
+    "content": "<div class=\"english\" lang=\"en\" style=\"font-size: 1.2em;\">\nW00t! First post!</p>\n<p>Over the course of the summer I will be in Jerusalem attending the <a href=\"http://www.presentense.org/\">PresenTense Institute</a>&#8216;s <a href=\"http://web.archive.org/web/20160331171421/http://presentense.org/institute/about\">summer workshop</a>. Before I arrived I set in mind an intention, (or <em>kavvanah</em>, as it were) to achieve the following goals:</p>\n<ol>\n<li>gaining expert understanding of the licensing and technical challenges for developing partnerships between creative projects founded on works in the public domain</li>\n<li>learning about how to manage and sustain non-commercial open source projects, and</li>\n<li>cultivating relationships with future partners and users of the Open Siddur and its affiliate projects.</li>\n</ol>\n</div>\n<p>&nbsp;</p>\n",
+    "categories": [
+        "Development"
+    ],
+    "tags": [
+        "PresenTense"
+    ],
+    "custom_fields": {
+        "open_content_license": [
+            "<a href='https://creativecommons.org/licenses/by-sa/4.0/'>Creative Commons Attribution-ShareAlike (CC BY-SA) 4.0 International</a> copyleft license"
+        ],
+        "_thumbnail_id": [
+            "133"
+        ]
+    },
+    "featured_image": {
+        "url": "https://opensiddur.org/wp-content/uploads/2009/07/IgnitedbyPT.png",
+        "title": "Ignited by Presentense",
+        "caption": "\"Ignited by Presentense\" (Presentense 2009)"
+    },
+    "source_link": "https://opensiddur.org/?p=10",
+    "permalink": "https://opensiddur.org/miscellanea/meta-topics/the-open-siddur-project/development/presentense-institute-summer-workshop-2009/",
+    "slug": "presentense-institute-summer-workshop-2009"
+}
