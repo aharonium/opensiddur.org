@@ -15,7 +15,7 @@
         "display_name": "David Abernethy",
         "first_name": "David",
         "last_name": "Abernethy",
-        "post_count": 3,
+        "post_count": 4,
         "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2020\/12\/david-abernethy-96x96.jpg",
         "description": "David Abernethy practices law in the Philadelphia area and is a member of the Beth Am Israel community in Penn Valley, Pennsylvania.",
         "website": "",
@@ -363,7 +363,7 @@
         "display_name": "Moshe ben Maimon",
         "first_name": "Moshe",
         "last_name": "ben Maimon",
-        "post_count": 4,
+        "post_count": 5,
         "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2014\/04\/Moses-ben-Mamon-a.k.a-Maimonides-Córdoba-Jerzy-Kociatkiewicz-CC-BY-SA-96x96.jpg",
         "description": "Mosheh ben Maimon (משה בן מימון), called Moses Maimonides (\/maɪˈmɒnɪdiːz\/ my-mon-i-deez) and also known as Mūsā ibn Maymūn (Arabic: موسى بن ميمون‎), or RaMBaM (רמב\"ם – Hebrew acronym for \"Rabbeinu Mosheh Ben Maimon\" – English translation: \"Our Rabbi\/Teacher Moses Son [of] Maimon\"), was a preeminent medieval Spanish, Sephardic Jewish philosopher, astronomer and one of the most prolific and influential Torah scholars and physicians of the Middle Ages. He was born in Córdoba (present-day Spain), Almoravid Empire on Passover Eve, 1138, and died in Egypt on December 12, 1204. \r\n\r\nAlthough his writings on Jewish law and ethics were met with acclaim and gratitude from most Jews, even as far off as Iraq and Yemen, and he rose to be the revered head of the Jewish community in Egypt, there were also vociferous critics of some of his writings, particularly in Spain. Nevertheless, he was posthumously acknowledged to be one of the foremost rabbinical arbiters and philosophers in Jewish history, his copious work comprising a cornerstone of Jewish scholarship. His fourteen-volume Mishneh Torah still carries significant canonical authority as a codification of Talmudic law. In the Yeshiva world he is called sometimes \"haNesher haGadol\" (the great eagle) in recognition of his outstanding status as a bona fide exponent of the Oral Torah.\r\n\r\n(from \"<a href=\"http:\/\/en.wikipedia.org\/wiki\/Maimonides\">Maimonides<\/a>\" on wikipedia)",
         "website": "",
@@ -2847,7 +2847,7 @@
         "display_name": "Isaac Gantwerk Mayer (transcription &amp; naqdanut)",
         "first_name": "Isaac Gantwerk",
         "last_name": "Mayer (transcription &amp; naqdanut)",
-        "post_count": 145,
+        "post_count": 147,
         "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2021\/12\/isaac-gantwerk-mayer-2021-e1674561264977-96x96.jpg",
         "description": "From a family of musicians, Isaac Gantwerk Mayer believes that creative art is one of the most powerful ways to get in touch with the divine. He composes music and poetry in Hebrew and English. (He also <a href=\"\/profile\/isaac-gantwerk-mayer\/\">translates<\/a> and <a href=\"\/profile\/isaac-gantwerk-mayer-2\/\">authors<\/a> his own original works.) Isaac runs a Jewish music transcription service, which will transcribe and set any Jewish music in any language, recorded or written. Contact his service on <a href=\"https:\/\/www.facebook.com\/pg\/isaacgmayerjewishtranscription\/\">Facebook<\/a> or via <a href=\"https:\/\/igmjewishcreativeworks.com\/contact\">his music blog<\/a>.",
         "website": "https:\/\/igmjewishcreativeworks.com",
@@ -2859,7 +2859,7 @@
         "display_name": "Isaac Gantwerk Mayer (translation)",
         "first_name": "Isaac Gantwerk",
         "last_name": "Mayer (translation)",
-        "post_count": 195,
+        "post_count": 196,
         "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2021\/12\/isaac-gantwerk-mayer-2021-e1674561264977-96x96.jpg",
         "description": "From a family of musicians, Isaac Gantwerk Mayer believes that creative art is one of the most powerful ways to get in touch with the divine. He composes music and poetry in Hebrew and English.  (He also <a href=\"\/profile\/isaac-gantwerk-mayer-2\/\">authors<\/a> his own original works and <a href=\"\/profile\/isaac-gantwerk-mayer-3\/\">transcribes<\/a> Hebrew and Aramaic text, adding niqqud and t'amim as needed.) Isaac runs a Jewish music transcription service, which will transcribe and set any Jewish music in any language, recorded or written. Contact his service on <a href=\"https:\/\/www.facebook.com\/pg\/isaacgmayerjewishtranscription\/\">Facebook<\/a> or via <a href=\"https:\/\/igmjewishcreativeworks.com\/contact\">his music blog<\/a>.",
         "website": "https:\/\/igmjewishcreativeworks.com",
@@ -3780,18 +3780,6 @@
         "profile_page_link": "https:\/\/opensiddur.org\/profile\/hagit-sabag-israel"
     },
     {
-        "display_name": "Rabbi Ofer Sabath Beit-Halachmi",
-        "first_name": "Ofer",
-        "last_name": "Sabath Beit-Halachmi",
-        "post_count": 5,
-        "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2016\/03\/ofer-sabath-beit-halachmi-96x96.jpg",
-        "description": "Rabbi Ofer Sabath-Beit Halachmi directs AspaklariA (paths for renewing Jewish creativity) and edits the El Halev compendium of original prayers and blessings for lifecycle events.",
-        "website": "",
-        "author_slug": "ofer-sabath-beit-halachmi",
-        "author_id": 283,
-        "profile_page_link": "https:\/\/opensiddur.org\/profile\/ofer-sabath-beit-halachmi"
-    },
-    {
         "display_name": "Rabbi Rachel Sabath Beit-Halachmi, Ph.D.",
         "first_name": "Rachel",
         "last_name": "Sabath Beit-Halachmi",
@@ -3802,6 +3790,18 @@
         "author_slug": "rachel-sabath-beit-halachmi",
         "author_id": 284,
         "profile_page_link": "https:\/\/opensiddur.org\/profile\/rachel-sabath-beit-halachmi"
+    },
+    {
+        "display_name": "Rabbi Ofer Sabath Beit-Halachmi",
+        "first_name": "Ofer",
+        "last_name": "Sabath Beit-Halachmi",
+        "post_count": 5,
+        "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2016\/03\/ofer-sabath-beit-halachmi-96x96.jpg",
+        "description": "Rabbi Ofer Sabath-Beit Halachmi directs AspaklariA (paths for renewing Jewish creativity) and edits the El Halev compendium of original prayers and blessings for lifecycle events.",
+        "website": "",
+        "author_slug": "ofer-sabath-beit-halachmi",
+        "author_id": 283,
+        "profile_page_link": "https:\/\/opensiddur.org\/profile\/ofer-sabath-beit-halachmi"
     },
     {
         "display_name": "Jacob Sable",
@@ -3852,18 +3852,6 @@
         "profile_page_link": "https:\/\/opensiddur.org\/profile\/rachel-salston"
     },
     {
-        "display_name": "Honi Sanders (translation)",
-        "first_name": "Honi",
-        "last_name": "Sanders",
-        "post_count": 7,
-        "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2019\/07\/honi-sanders-96x96.png",
-        "description": "Honi Sanders is a neuroscience researcher in Massachusetts. His family birkon, <em><a href=\"\/?p=25938\">Siman l'Vanim<\/a><\/em>, was published by Dimus Parrhesia Press in 2019.",
-        "website": "https:\/\/cbmm.mit.edu\/about\/people\/sanders",
-        "author_slug": "honi-sanders",
-        "author_id": 662,
-        "profile_page_link": "https:\/\/opensiddur.org\/profile\/honi-sanders"
-    },
-    {
         "display_name": "Akiva Sanders (translation)",
         "first_name": "Akiva",
         "last_name": "Sanders",
@@ -3874,6 +3862,18 @@
         "author_slug": "akiva-sanders",
         "author_id": 810,
         "profile_page_link": "https:\/\/opensiddur.org\/profile\/akiva-sanders"
+    },
+    {
+        "display_name": "Honi Sanders (translation)",
+        "first_name": "Honi",
+        "last_name": "Sanders",
+        "post_count": 7,
+        "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2019\/07\/honi-sanders-96x96.png",
+        "description": "Honi Sanders is a neuroscience researcher in Massachusetts. His family birkon, <em><a href=\"\/?p=25938\">Siman l'Vanim<\/a><\/em>, was published by Dimus Parrhesia Press in 2019.",
+        "website": "https:\/\/cbmm.mit.edu\/about\/people\/sanders",
+        "author_slug": "honi-sanders",
+        "author_id": 662,
+        "profile_page_link": "https:\/\/opensiddur.org\/profile\/honi-sanders"
     },
     {
         "display_name": "Hyman Judah Schachtel",
@@ -4236,6 +4236,18 @@
         "profile_page_link": "https:\/\/opensiddur.org\/profile\/peri-sinclair"
     },
     {
+        "display_name": "Levi Slonim",
+        "first_name": "Levi",
+        "last_name": "Slonim",
+        "post_count": 1,
+        "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2024\/07\/levi-slonim-96x96.jpg",
+        "description": "Rabbi Levi Slonim is the codirector for Chabad Downtown in Binghamton, New York and the director of development at the Rohr Chabad Center for Jewish Student Life at Binghamton University. He grew up at the Chabad house of his parents in Vestal, New York (just outside Binghamton) and since returning to Binghamton in 2008, he has initiated impactful programs like the Binghamton Jewish Greek Council Shabbat, the Listen Up mental health fellowship, and has led over 800 students on birthright trips to the State of Israel.",
+        "website": "",
+        "author_slug": "levi-slonim",
+        "author_id": 2216,
+        "profile_page_link": "https:\/\/opensiddur.org\/profile\/levi-slonim"
+    },
+    {
         "display_name": "Eliran Sobel",
         "first_name": "Eliran",
         "last_name": "Sobel",
@@ -4491,7 +4503,7 @@
         "display_name": "the Congressional Record of the United States of America",
         "first_name": "United States of America",
         "last_name": "the Congressional Record",
-        "post_count": 344,
+        "post_count": 345,
         "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2024\/02\/Congressional-Record-96x96.png",
         "description": "The Congressional Record is the official record of the proceedings and debates of the United States Congress, published by the United States Government Printing Office and issued when Congress is in session. Indexes are issued approximately every two weeks. At the end of a session of Congress, the daily editions are compiled in bound volumes constituting the permanent edition. Statutory authorization for the Congressional Record is found in Chapter 9 of Title 44 of the United States Code. (<a href=\"https:\/\/en.wikipedia.org\/wiki\/Congressional_Record\">wikipedia<\/a>)",
         "website": "https:\/\/en.wikipedia.org\/wiki\/Congressional_Record",
@@ -4611,37 +4623,13 @@
         "display_name": "Unknown Author(s)",
         "first_name": "",
         "last_name": "Unknown Author(s)",
-        "post_count": 337,
+        "post_count": 339,
         "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2014\/11\/Keith-Evans-Green-Tree-Yellow-Field-CC-BY-SA-250x250.jpg",
         "description": "Sometimes the best we can do in attributing a historical work is to indicate the period and place it was written, the first prayer book it may have been printed in, or the archival collection in which the manuscript was found. We invite the public to help to attribute all works to their original composers. If you know something not mentioned in the commentary offered, please leave a comment or <a href=\"\/contact\/\">contact us<\/a>.",
         "website": "",
         "author_slug": "unknown",
         "author_id": 295,
         "profile_page_link": "https:\/\/opensiddur.org\/profile\/unknown"
-    },
-    {
-        "display_name": "Aharon N. Varady (translation)",
-        "first_name": "Aharon N.",
-        "last_name": "Varady",
-        "post_count": 316,
-        "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2013\/12\/Aharon-Varady-2002.jpg",
-        "description": "Aharon Varady (M.A.J.Ed.\/JTSA Davidson) is a volunteer translator for the Open Siddur Project. If you find any mistakes in his translations, please <a href=\"\/contact\/\">let him know<\/a>. <em>Shgiyot mi yavin; Ministarot Naqeni<\/em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי<\/span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https:\/\/www.patreon.com\/aharonium\">Patreon account<\/a>. (Varady also <a href=\"\/profile\/aharon-varady\/\">transcribes prayers<\/a> and <a href=\"\/profile\/aharon-nissen-varady\/\">contributes his own original work<\/a> besides serving as the primary <em>shammes<\/em> for the Open Siddur Project and its website, opensiddur.org.)",
-        "website": "https:\/\/opensiddur.org\/profile\/aharon-nissen-varady\/",
-        "author_slug": "aharon-n-varady",
-        "author_id": 347,
-        "profile_page_link": "https:\/\/opensiddur.org\/profile\/aharon-n-varady"
-    },
-    {
-        "display_name": "Aharon N. Varady (editing\/transcription)",
-        "first_name": "Aharon",
-        "last_name": "Varady",
-        "post_count": 1452,
-        "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2013\/12\/Aharon-Varady-2002.jpg",
-        "description": "Aharon Varady (M.A.J.Ed.\/JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"\/contact\/\">let him know<\/a>. <em>Shgiyot mi yavin; Ministarot naqeni<\/em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי<\/span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https:\/\/www.patreon.com\/aharonium\">Patreon account<\/a>. (Varady also <a href=\"\/profile\/aharon-n-varady\/\">translates prayers<\/a> and <a href=\"\/profile\/aharon-nissen-varady\/\">contributes his own original work<\/a> besides serving as the primary <em>shammes<\/em> of the Open Siddur Project and its website, opensiddur.org.)",
-        "website": "https:\/\/aharon.varady.net",
-        "author_slug": "aharon-varady",
-        "author_id": 131,
-        "profile_page_link": "https:\/\/opensiddur.org\/profile\/aharon-varady"
     },
     {
         "display_name": "Aharon N. Varady",
@@ -4654,6 +4642,30 @@
         "author_slug": "aharon-nissen-varady",
         "author_id": 455,
         "profile_page_link": "https:\/\/opensiddur.org\/profile\/aharon-nissen-varady"
+    },
+    {
+        "display_name": "Aharon N. Varady (translation)",
+        "first_name": "Aharon N.",
+        "last_name": "Varady",
+        "post_count": 317,
+        "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2013\/12\/Aharon-Varady-2002.jpg",
+        "description": "Aharon Varady (M.A.J.Ed.\/JTSA Davidson) is a volunteer translator for the Open Siddur Project. If you find any mistakes in his translations, please <a href=\"\/contact\/\">let him know<\/a>. <em>Shgiyot mi yavin; Ministarot Naqeni<\/em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי<\/span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https:\/\/www.patreon.com\/aharonium\">Patreon account<\/a>. (Varady also <a href=\"\/profile\/aharon-varady\/\">transcribes prayers<\/a> and <a href=\"\/profile\/aharon-nissen-varady\/\">contributes his own original work<\/a> besides serving as the primary <em>shammes<\/em> for the Open Siddur Project and its website, opensiddur.org.)",
+        "website": "https:\/\/opensiddur.org\/profile\/aharon-nissen-varady\/",
+        "author_slug": "aharon-n-varady",
+        "author_id": 347,
+        "profile_page_link": "https:\/\/opensiddur.org\/profile\/aharon-n-varady"
+    },
+    {
+        "display_name": "Aharon N. Varady (editing\/transcription)",
+        "first_name": "Aharon",
+        "last_name": "Varady",
+        "post_count": 1469,
+        "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2013\/12\/Aharon-Varady-2002.jpg",
+        "description": "Aharon Varady (M.A.J.Ed.\/JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"\/contact\/\">let him know<\/a>. <em>Shgiyot mi yavin; Ministarot naqeni<\/em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי<\/span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https:\/\/www.patreon.com\/aharonium\">Patreon account<\/a>. (Varady also <a href=\"\/profile\/aharon-n-varady\/\">translates prayers<\/a> and <a href=\"\/profile\/aharon-nissen-varady\/\">contributes his own original work<\/a> besides serving as the primary <em>shammes<\/em> of the Open Siddur Project and its website, opensiddur.org.)",
+        "website": "https:\/\/aharon.varady.net",
+        "author_slug": "aharon-varady",
+        "author_id": 131,
+        "profile_page_link": "https:\/\/opensiddur.org\/profile\/aharon-varady"
     },
     {
         "display_name": "Aharon N. Varady (digital imaging and document preparation)",
@@ -4836,18 +4848,6 @@
         "profile_page_link": "https:\/\/opensiddur.org\/profile\/lauren-weiss"
     },
     {
-        "display_name": "Avi Weiss",
-        "first_name": "Avi",
-        "last_name": "Weiss",
-        "post_count": 1,
-        "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2016\/09\/avi-weiss-96x96.jpg",
-        "description": "Avraham Haim Yosef (Avi) haCohen Weiss (Hebrew: אברהם חיים יוסף הכהן ווייס; born June 24, 1944) is an American Modern Orthodox ordained rabbi, author, teacher, lecturer, and activist.  He is the Founding Rabbi and served as Senior Rabbi of the Hebrew Institute of Riverdale (known as “the Bayit”) in New York.  Since his retirement in 2015, he has served as the Rabbi-in-Residence. Rabbi Weiss is also the founding president of Yeshivat Chovevei Torah, a rabbinical seminary for men that he refers to as \"Open Orthodox\", a term he coined to describe an offshoot of Modern Orthodoxy, and founder of Yeshivat Maharat for women; co-founder of the International Rabbinical Fellowship, an Open Orthodox rabbinical association founded as a liberal alternative to the Modern Orthodox Rabbinical Council of America, and founder of the grassroots organization, Coalition for Jewish Concerns,  AMCHA. In 2007, Rabbi Weiss was named by Newsweek magazine as one of the fifty most influential rabbis in America, describing him as “Orthodox’s leading activist and leader of the Modern Orthodox community.” He is the author of two books, <em>Women at Prayer: A Halakhic Analysis of Women’s Prayer Groups<\/em>, and <em>Principles of Spiritual Activism<\/em>.",
-        "website": "https:\/\/en.wikipedia.org\/wiki\/Avi_Weiss",
-        "author_slug": "avi-weiss",
-        "author_id": 318,
-        "profile_page_link": "https:\/\/opensiddur.org\/profile\/avi-weiss"
-    },
-    {
         "display_name": "Raysh Weiss",
         "first_name": "Raysh",
         "last_name": "Weiss",
@@ -4858,6 +4858,18 @@
         "author_slug": "raysh-weiss",
         "author_id": 164,
         "profile_page_link": "https:\/\/opensiddur.org\/profile\/raysh-weiss"
+    },
+    {
+        "display_name": "Avi Weiss",
+        "first_name": "Avi",
+        "last_name": "Weiss",
+        "post_count": 1,
+        "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2016\/09\/avi-weiss-96x96.jpg",
+        "description": "Avraham Haim Yosef (Avi) haCohen Weiss (Hebrew: אברהם חיים יוסף הכהן ווייס; born June 24, 1944) is an American Modern Orthodox ordained rabbi, author, teacher, lecturer, and activist.  He is the Founding Rabbi and served as Senior Rabbi of the Hebrew Institute of Riverdale (known as “the Bayit”) in New York.  Since his retirement in 2015, he has served as the Rabbi-in-Residence. Rabbi Weiss is also the founding president of Yeshivat Chovevei Torah, a rabbinical seminary for men that he refers to as \"Open Orthodox\", a term he coined to describe an offshoot of Modern Orthodoxy, and founder of Yeshivat Maharat for women; co-founder of the International Rabbinical Fellowship, an Open Orthodox rabbinical association founded as a liberal alternative to the Modern Orthodox Rabbinical Council of America, and founder of the grassroots organization, Coalition for Jewish Concerns,  AMCHA. In 2007, Rabbi Weiss was named by Newsweek magazine as one of the fifty most influential rabbis in America, describing him as “Orthodox’s leading activist and leader of the Modern Orthodox community.” He is the author of two books, <em>Women at Prayer: A Halakhic Analysis of Women’s Prayer Groups<\/em>, and <em>Principles of Spiritual Activism<\/em>.",
+        "website": "https:\/\/en.wikipedia.org\/wiki\/Avi_Weiss",
+        "author_slug": "avi-weiss",
+        "author_id": 318,
+        "profile_page_link": "https:\/\/opensiddur.org\/profile\/avi-weiss"
     },
     {
         "display_name": "Robert S. Widom",
@@ -4899,7 +4911,7 @@
         "display_name": "Isaac Mayer Wise",
         "first_name": "Isaac Mayer",
         "last_name": "Wise",
-        "post_count": 9,
+        "post_count": 14,
         "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2020\/08\/isaac-mayer-wise-96x96.jpg",
         "description": "Isaac Mayer Wise (29 March 1819, Steingrub (now Lomnička, Czech Republic), Austrian Empire – 26 March 1900, Cincinnati), was an American Reform rabbi, editor, and author. At his death he was called \"the foremost rabbi in America.\"",
         "website": "https:\/\/en.wikipedia.org\/wiki\/Isaac_Mayer_Wise",
