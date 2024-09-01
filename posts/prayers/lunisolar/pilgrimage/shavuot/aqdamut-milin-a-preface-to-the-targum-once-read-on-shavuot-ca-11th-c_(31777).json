@@ -3,13 +3,6 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Cantor Hinda Labovitz",
             "bio": "Cantor Hinda Labovitz is the cantor/educator of <a />Ohr Kodesh Congregation in Chevy Chase, MD</a>. She graduated with a masters degree in Judaic studies and cantorial ordination <a href=\"http://www.hebrewcollege.edu/\">Hebrew College</a> in Newton, MA in June of 2014. She has served as a part-time shlichat tsibbur at Congregation <a href=\"http://congki.org/\">Kehillath Israel</a> in Brookline, MA, the ritual director of Temple Emanu-El in Providence from 2009-2012, and and as the assistant to the conductor for the <a href=\"http://zamir.org/\">Zamir Chorale of Boston</a>, with whom she was a proud alto from 2006-2014. Hinda maintains <a href=\"http://tekhines.wordpress.com/\">http://tekhines.wordpress.com/</a>, where she publishes new and translated editions of tekhines texts.",
             "website": "http://hindatze.com/",
@@ -22,6 +15,13 @@
             "website": "http://www.jewishencyclopedia.com/articles/10573-meir-ben-isaac-of-orleans",
             "avatar": "https://opensiddur.org/wp-content/uploads/2014/11/Keith-Evans-Green-Tree-Yellow-Field-CC-BY-SA-250x250.jpg",
             "profile_link": "https://opensiddur.org/profile/meir-ben-isaac-of-orleans"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2020-05-27",

@@ -3,18 +3,18 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Norman Salit",
             "bio": "Rabbi Norman Salit (June 8, 1896 – July 21, 1960), born in Brooklyn, New York, was a lawyer, Conservative rabbi, and community leader who served as the president of the Synagogue Council of America. In 1916, he graduated with a B.A. from City College; in 1919, he graduated with a J.D. from New York University; in 1920, he received his rabbinic ordination from the Jewish Theological Seminary of America; and in 1922, he graduated with a M.A. from Columbia University. From 1919 to 1924, he served as the rabbi at Temple Adath Israel in the Bronx and from 1924 to 1929 as the rabbi at Congregation Shaaray Tefila in Far Rockaway, Queens. From 1933 to 1937, he was head of the Queens County Bar Association Committee on Legislation and Law Reform. In addition to being admitted to practice law in New York, in 1938 he was admitted to the bars of the U.S. Supreme Court and the U.S. Treasury Department. During World War II he was the executive director of the Wartime Emergency Commission for Conservative Judaism. In 1949, he received a Master of Hebrew Letters from the Jewish Theological Seminary and in 1956, an honorary Doctor of Letters from the same institution. From 1953 to 1955, he served as president of the Synagogue Council of America. In 1957, he received a Doctor of Humane Letters from the Philathea College in Canada. He later served on the board of overseers of the Jewish Theological Seminary of America, as president of the Long Island Council of the American Jewish Congress, on the executive council of the New York Board of Rabbis (1951-1958), as counsel for the Rabbinical Assembly of America, and as a member of the executive committee of the Zionist Organization of America.",
             "website": "https://en.wikipedia.org/wiki/Norman_Salit",
             "avatar": "https://opensiddur.org/wp-content/uploads/2020/11/norman-salit-96x96.png",
             "profile_link": "https://opensiddur.org/profile/norman-salit"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2023-04-08",

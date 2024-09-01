@@ -3,13 +3,6 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Gershon B. Chertoff",
             "bio": "Rabbi Gershon Baruch Chertoff (1915-1996) was a Conservative movement rabbi in the United States. He was ordained at the Jewish Theological Seminary and received a doctoral degree in philosophy and anthropology from Columbia University. During World War II, he served as an Army chaplain. In 1946, he came to Temple B’nai Israel (Elizabeth, New Jersey). After urban rioting erupted across the United States in the late 1960s, Rabbi Chertoff was named by President Lyndon Johnson to chair an advisory panel studying housing discrimination in New Jersey. Coming in the aftermath of the 1967 Newark riots, hearings by the New Jersey Advisory Committee to the U.S. Civil Rights Commission received widespread attention and Chertoff continued in the position for many years. In the late 1980s and early 1990s, he was named by the state Supreme Court as a non-attorney member of the Disciplinary Review Board, which hears appeals to attorney disciplinary actions.",
             "website": "",
@@ -22,6 +15,13 @@
             "website": "https://en.wikipedia.org/wiki/Congressional_Record",
             "avatar": "https://opensiddur.org/wp-content/uploads/2024/02/Congressional-Record-96x96.png",
             "profile_link": "https://opensiddur.org/profile/united-states-congressional-record"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2024-04-18",

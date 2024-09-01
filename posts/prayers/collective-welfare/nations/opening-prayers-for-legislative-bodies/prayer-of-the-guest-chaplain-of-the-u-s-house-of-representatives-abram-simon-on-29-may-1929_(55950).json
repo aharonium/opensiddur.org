@@ -3,13 +3,6 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Abram Simon",
             "bio": "Abram Simon (1872–1938), was a rabbi and leader in the Reform movement in the early 20th century. Born in Nashville, Tennessee, he was educated at the University of Cincinnati where he earned his B.A. in 1894, the same year he was ordained by Hebrew Union College. Upon ordination he served as rabbi of B'nai Israel Congregation in Sacramento and then as rabbi of Temple Israel in Omaha, Nebraska (1899–1904). In 1903 he was elected as the first rabbi of Washington Hebrew Congregation in Washington, D.C.. In Washington, Simon became a communal leader. In addition to the Board of Education he was a trustee and later president of the Columbia Hospital for Women and also president of the Public Library of Washington. Rabbi Simon was a member of the Red Cross during World War I, broadcast radio lectures, and was president of both the Board of Education in Washington as well as the Conference of Christians and Jews. He was a founding member of the Reform movement's Committee on Jewish Education.  Simon launched the National Committee on Religion, which boosted synagogue attendance and set up Hebrew schools. In 1917, Simon earned a Ph.D. from George Washington University, writing on the \"The Constructive Character and Function of Religious Progress.\" He was president of the Central Conference of American Rabbi from 1923 to 1925, a founder and later president of the Synagogue Council of America. He was an early enthusiast of women's participation in the synagogue. Fay Sonnenreich recalled that in 1920, with his permission, she and another young girl sat in the pulpit, held the Torah and read from it. \"I still remember the shocked expressions on the faces of the congregation,\" she recalled many years later. \"Dr. Simon told us afterwards that the board of trustees was angry with him for permitting girls to participate in what traditionally belonged to the men. But he believed in developing the potential of each individual, and his encouragement made a lasting impact upon our lives.\"",
             "website": "https://en.wikipedia.org/wiki/Abram_Simon",
@@ -22,6 +15,13 @@
             "website": "https://en.wikipedia.org/wiki/Congressional_Record",
             "avatar": "https://opensiddur.org/wp-content/uploads/2024/02/Congressional-Record-96x96.png",
             "profile_link": "https://opensiddur.org/profile/united-states-congressional-record"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2024-05-19",

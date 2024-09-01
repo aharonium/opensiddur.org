@@ -3,25 +3,18 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
-            "name": "Aharon N. Varady (translation)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer translator for the Open Siddur Project. If you find any mistakes in his translations, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot Naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady/\">transcribes prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> for the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://opensiddur.org/profile/aharon-nissen-varady/",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-n-varady"
-        },
-        {
             "name": "Joshua Seigel",
             "bio": "Rabbi Joshua Seigel (1846–1910), rabbi. Born in Kitzburg, Poland, Seigel began his career as a Talmud scholar under the direction of Rabbi Leibel Ḥarif of Plotsk and Rabbi Joshua of Kutna, who gave him semikhah. Seigel received a second semikhah from Rabbi Joseph Kara of Vlatzlovak. He inherited his father's pulpit as rabbi of Sierpc, Poland, but not with unanimous consent from the community. Seigel was not a ḥasid, so many of the ḥasidic members of Sierpc resisted his leadership, despite the intervention of Rabbi Joshua of Kutna. Later known as the \"Sherpser Rav,\" Seigel left Europe in 1884 and immigrated to the United States. In New York, he became rabbi of a poor congregation of families divided between ḥasidic and non-ḥasidic traditions. His Polish ancestry set him apart from the Lithuanian rabbis who came to the United States in the late 19th century. Due to this tension, Seigel declined to join the Agudat Harabbonim, a union of mostly Lithuanian-educated rabbis formed in 1902. Seigel negotiated a position as mashgi'aḥ for several New York slaughterhouses and butcher shops, a good way to earn supplementary income to his modest – inadequate – synagogue-pulpit salary. By 1890 almost twenty Galician congregations relied on Seigel for kashrut guidance, and many Galician butchers remained under his rabbinic supervision. Seigel is perhaps best known for his controversial halakhic treatise, Eruv ve-Hoẓa'ah, an interpretation of Jewish law that allowed Jews to carry things on the East Side of Manhattan on the Sabbath. He believed that the island of Manhattan was surrounded by a natural eruv, a stance rejected by most of his rabbinic peers. In 1908, Seigel went to Palestine in hopes of living in Jerusalem, but the harsh climate prevented him from taking up permanent residence there. A year later, he returned to New York. Seigel left a a posthumous work of responsa titled Oznal Yehoshua. (adapted from the Jewish Virtual Library/Encyclopedia Judaica 2008)",
             "website": "https://www.jewishvirtuallibrary.org/seigel-joshua",
             "avatar": "https://opensiddur.org/wp-content/uploads/2022/06/joshua-seigel-96x96.jpg",
             "profile_link": "https://opensiddur.org/profile/joshua-seigel"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2022-06-12",

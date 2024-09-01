@@ -3,18 +3,18 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Rosa Emma Salaman",
             "bio": "Rosa Emma Collins née Salaman (1815-1898), was a poet and translator of Hebrew and German. <em><a href=\"https://archive.org/details/poems-by-rosa-emma-salaman-1853\">Poems</a></em>, published in 1853, was reportedly the only book accepted by Queen Victoria in the year of mourning following Prince Albert's death in 1861. In the United States, her poetry appeared in Isaac Leeser's <a href=\"http://web.nli.org.il/sites/JPress/English/Pages/The-Occident-and-American-Jewish-Advocate.aspx\"><em>Occident</em> and <em>American Jewish Advocate</em></a>. The daughter of Simeon Kensington Salaman (b.1789) and Alice Cowan, Rosa Emma was one of fourteen siblings in a large and literary Jewish family in London, part of the Spanish and Portuguese Jewish community. Two sisters, Kate Salaman and Julia Goodman, were painters -- the former of miniatures and the latter, a prolific portraitist. Her brother, Charles Kensington Salaman, was a British composer and pianist. Her husband, Judah Julius Collins, was a warden of the Western Marble Arch Synagogue in London's West End, and purported to be a descendant of the <a href=\"https://en.wikipedia.org/wiki/Baal_Shem_of_London\">Baal Shem of London</a>. Their son, Edwin Collins, was a Jewish educator.",
             "website": "https://en.wikipedia.org/wiki/Rose_Emma_Salaman",
             "avatar": "https://opensiddur.org/wp-content/uploads/2014/11/Keith-Evans-Green-Tree-Yellow-Field-CC-BY-SA-250x250.jpg",
             "profile_link": "https://opensiddur.org/profile/rosa-emma-salaman"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2017-08-03",

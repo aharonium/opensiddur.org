@@ -1,14 +1,7 @@
 {
     "title": "אֵל שְׁמֹר הַמַּלְכָּה | God Save the Queen (adapted from the Hebrew translation of Hyman Hurwitz 1831)",
-    "author": "Aharon N. Varady (editing/transcription)",
+    "author": "Unknown Author(s)",
     "coauthors": [
-        {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
         {
             "name": "Hyman Hurwitz",
             "bio": "Hyman Hurwitz (1770–1844) was a learned Jew who became first professor of Hebrew at University College, London. He was born in Poznań, Poland in 1770, came to England about 1797 and conducted a private academy for Jews at Highgate, where he established a close friendship with Samuel Taylor Coleridge and corresponded with him. Coleridge once described Hurwitz as \"the first Hebrew and Rabbinical Scholar in the Kingdom.\" In 1828, on Coleridge's recommendation, he was elected professor of the Hebrew language and literature at University College, London. His inaugural lecture was published. He died on 18 July 1844. Hurwitz was buried in the Brady Street Cemetery near Whitechapel in London's East End.",
@@ -22,6 +15,13 @@
             "website": "",
             "avatar": "https://opensiddur.org/wp-content/uploads/2014/11/Keith-Evans-Green-Tree-Yellow-Field-CC-BY-SA-250x250.jpg",
             "profile_link": "https://opensiddur.org/profile/unknown"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2017-06-03",

@@ -3,13 +3,6 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Jessie Ethel Sampter",
             "bio": "Jessie Sampter (March 22, 1883 – 1938) was a Jewish educator, poet, and Zionist pioneer. Born in New York City to Rudolph Sampter, a New York attorney, and Virginia Kohlberg Sampter, she contracted polio at thirteen which prevented her from leaving home. Unable to attend school her family hired tutors. Later she audited courses at Columbia University. In her twenties she joined the Unitarian Church and began writing poetry. Her poems and short stories emphasized her primary concerns: pacifism, Zionism, and social justice. Around this time, she began spending time in the home of Henrietta Szold and began to appreciate the Eastern European Jews of New York City. She moved into a settlement house on the Lower East Side, then to a Young Women's Hebrew Association. Assuming the role of Hadassah's leading educator, she produced manuals and textbooks and organized lectures and classes, training speakers and leaders for both Hadassah and other Zionist organizations like the Federation of American Zionists (then the Zionist Organization of America). She composed educational manuals with Alice Seligsberg and edited a textbook on Zionism. In 1919 she settled in Palestine where she helped organize the country's first Jewish Scout camp. Sampter developed a strong commitment to assisting Yemenite Jews, founding classes and clubs especially for Yemenite girls and women. She adopted a Yemenite orphan. At the time of her death she had established a vegetarian convalescent home at Kibbutz Givat Brenner.",
             "website": "https://en.wikipedia.org/wiki/Jessie_Sampter",
@@ -22,6 +15,13 @@
             "website": "https://en.wikipedia.org/wiki/Solomon_ibn_Gabirol",
             "avatar": "https://opensiddur.org/wp-content/uploads/2014/11/Keith-Evans-Green-Tree-Yellow-Field-CC-BY-SA-250x250.jpg",
             "profile_link": "https://opensiddur.org/profile/shlomo-ibn-gabirol"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2023-06-11",

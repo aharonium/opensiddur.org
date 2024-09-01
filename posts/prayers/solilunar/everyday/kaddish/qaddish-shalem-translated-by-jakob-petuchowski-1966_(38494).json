@@ -3,18 +3,18 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Jakob Petuchowski (translation)",
             "bio": "Jakob Josef Petuchowski (1925, Berlin – 1991, Cincinnati) was an American research professor of Jewish Theology and Liturgy and professor of Judeo-Christian Studies at the Jewish Institute of Religion at Hebrew Union College, Cincinnati, Ohio. Petuchowski was brought up as an Orthodox Jew in Berlin and left Germany in May 1939 for Scotland on the Kindertransport. His father, Samuel Meir Sigmund Petuchowski, died in 1928 and his mother was murdered in the Holocaust. Aged just 16, and having had only a year's instruction in English before leaving Berlin, he became a rabbinical student at the Glasgow Rabbinical College. While studying for a Bachelor of Arts (Honours) degree in Psychology, which he received from the University of London in 1947, he continued Jewish studies privately, receiving tuition from Rabbis Leo Baeck and Arthur Löwenstamm among others. In 1948 he became a rabbinical student at Hebrew Union College, Cincinnati. He received a master's degree in 1952 and a PhD in 1956. He served as part-time rabbi in Welch, West Virginia between 1949 and 1955 and was full-time rabbi in Washington, Pennsylvania from 1955 to 1956. He returned to teach at Hebrew Union College in 1956. During the academic year 1963-64 he was rabbi and founding director of Judaic Studies at the college's newly established branch in Jerusalem. His works include <em>Ever Since Sinai</em> (1961), <em>Prayerbook Reform in Europe</em> (1968), <em>Understanding Jewish Prayer</em> (1972), <em>Theology and Poetry</em> (1978), <em>Es lehrten unsere Meister</em> (1979) and <em>When Jews and Christians Meet</em> (1986).",
             "website": "",
             "avatar": "https://opensiddur.org/wp-content/uploads/2013/07/jakob-petuchowski-96x96.jpg",
             "profile_link": "https://opensiddur.org/profile/sam-petuchowski"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2021-08-07",

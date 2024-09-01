@@ -3,13 +3,6 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Abraham Hecht",
             "bio": "Rabbi Avraham Berl Hecht (April 5, 1922 – January 5, 2013) was a ḤaBaD-affiliated Orthodox rabbi in the United States, president of the <a href=\"https://rabbinicalalliance.org/\">Rabbinical Alliance of America – Igud HaRabanim</a>. Hecht was a disciple of both the late Lubavitcher Rebbe, Menachem Mendel Schneerson, and the preceding \"sixth\" Rebbe, Rabbi Yosef Yitzchok Schneersohn. He was one of the first ten students of Yeshiva Tomchei Tmimim in America. Hecht served as a <em>shaliaḥ</em> (emissary) in Boston, Buffalo, Newark, and New Haven, establishing Yeshiva Achei T'mimim elementary schools for both boys and girls. He served as rabbi of Congregation Shaare Zion of Brooklyn, New York, the largest Syrian-Sephardic congregation in North America, comprising more than 3,500 families. Hecht served the congregation for more than fifty years. On June 19, 1995, Hecht told the gathered members of the International Rabbinical Coalition for Israel \"that by handing over Israeli land and property, Israeli leaders are betraying Jews to non-Jews\" and that, according to Maimonides, \"such people should be killed before they can perform the deed.\" An October 1995 article in New York Magazine referred to Hecht as the rabbi who \"sentenced\" Yitzḥak Rabin to death, and quoted Hecht as praising Israeli mass murderer and American expatriate Baruch Goldstein, as \"a great man, a holy man.\" Hecht also led protests against the film Monty Python's Life of Brian (1979), claiming that it \"was produced in hell.\"",
             "website": "https://en.wikipedia.org/wiki/Abraham_Hecht",
@@ -22,6 +15,13 @@
             "website": "https://en.wikipedia.org/wiki/Congressional_Record",
             "avatar": "https://opensiddur.org/wp-content/uploads/2024/02/Congressional-Record-96x96.png",
             "profile_link": "https://opensiddur.org/profile/united-states-congressional-record"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2024-04-23",

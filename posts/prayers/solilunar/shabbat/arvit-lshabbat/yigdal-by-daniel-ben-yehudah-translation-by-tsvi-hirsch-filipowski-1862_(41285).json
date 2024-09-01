@@ -3,13 +3,6 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Tsvi Hirsch Filipowski (translation)",
             "bio": "Tsvi Hirsch Filipowski (1816-13 July 1872), Hebraist and actuary, sometimes referred to as Herschell Phillips Filipowski. A maskil born in Virbalis, Lithuania, he arrived in London in 1839 and taught Jewish boys. In 1846 he published Mo’ed Mo’adim, a study of Jewish and other calendars, and in 1847 The Annual Hebrew Magazine (Hebrew title Ha-Asif, The Harvest’). His <em>A Table of Anti Logarithms</em> appeared in 1849, and his translation from Latin into English of Napier’s treatise on logarithms in 1857. In 1851, when he was listed in the Census as a London printer, he founded the Chevrat Me’orerei Yeshenim (Hebrew Antiquarian Society) in order to publish medieval Hebrew texts. Major works that he edited and printed for it included Menahem ibn Saruq’s <em>Mahberet Menahem</em> (1854) and Abraham Zacuto’s <em>Sefer Yuhasin ha-Shalem</em> (1857). During the late 1850s he worked in Edinburgh as an actuary, returning to London in about 1860. He compiled the Colonial Life Assurance Company’s 1861 Almanac and edited Baily’s <em>Doctrine of Life Annuities and Assurance</em> (1864-6). In 1862 he published, using a Hebrew type of his own design, <em>Tefilot Yisrael</em>, a pocket edition of the Ashkenazi prayer book with his own English translation. In 1867 he founded a short-lived periodical, <em>The Hebrew National</em>. His <em>Biblical Prophecies</em> (1870) dealt mainly with messianic passages in Isaiah.",
             "website": "",
@@ -22,6 +15,13 @@
             "website": "https://en.wikipedia.org/wiki/Daniel_ben_Judah",
             "avatar": "https://opensiddur.org/wp-content/uploads/2014/11/Keith-Evans-Green-Tree-Yellow-Field-CC-BY-SA-250x250.jpg",
             "profile_link": "https://opensiddur.org/profile/daniel-ben-judah"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2021-12-05",

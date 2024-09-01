@@ -3,18 +3,18 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Max Lilienthal",
             "bio": "Rabbi Max Lilienthal (November 6, 1815 – April 6, 1882) was a German-born adviser for the reform of Jewish schools in Russia and later a rabbi and proponent of Reform Judaism in the United States. Lilienthal served as a rabbi for several years after his arrival in New York City in 1845, including at the Anshe Chesed Synagogue. He opened a Jewish school in 1850. In 1855, he moved to Cincinnati to become an editor of <em>The American Israelite</em> and serve as rabbi of Congregation Bene Israel. As a rabbi in Cincinnati, he promoted Reform Judaism. He wrote for several publications and was an advocate for both Jewish and secular schools, teaching at Hebrew Union College and serving on the Cincinnati board of education. Lilienthal was later an active supporter of the movement to abolish slavery in the United States, though a minority of American Jews, primarily those in the South, were themselves slaveholders and disagreed strongly with his position.",
             "website": "https://en.wikipedia.org/wiki/Max_Lilienthal",
             "avatar": "https://opensiddur.org/wp-content/uploads/2022/04/max-lilienthal-96x96.jpg",
             "profile_link": "https://opensiddur.org/profile/max-lilienthal"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2024-06-18",

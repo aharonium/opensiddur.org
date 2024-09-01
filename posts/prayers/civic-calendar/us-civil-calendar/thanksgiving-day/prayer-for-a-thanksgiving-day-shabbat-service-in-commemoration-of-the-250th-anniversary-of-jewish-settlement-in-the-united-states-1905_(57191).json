@@ -3,13 +3,6 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Maurice Henry Harris",
             "bio": "Rabbi Dr. Maurice Henry Harris (1859-1930) was a prominent Reform movement rabbi and writer in the United States. At the time of his death, he was president of the Association of Reform Rabbis of New York City. He wrote, <em>People of the Book. A Bible history for school and home</em> (1893), <em>Jewish history and literature : a course of lessons from the rise of the Kabbala to the expulsion of the Jews by Spain</em> (1899), <em>History of the mediaeval Jews, from the Moslem conquest of Spain to the discovery of America</em> (1924), <em>A thousand years of Jewish history, from the days of Alexander the Great to the Moslem conquest of Spain</em> (1927), <em>Modern Jewish history from the Renaissance to the close of the World War</em> (1928), and posthumously, <em>Hebraic literature : translations from the Talmud, Midrashim and Kabbala</em> (1946). We know very little else about Rabbi Harris's life and career. If you can add a detail, please <a href=\"/contact/\">contact us</a>.",
             "website": "",
@@ -57,6 +50,13 @@
             "website": "https://en.wikipedia.org/wiki/Joseph_Silverman",
             "avatar": "https://opensiddur.org/wp-content/uploads/2024/07/joseph-silverman-96x96.png",
             "profile_link": "https://opensiddur.org/profile/joseph-silverman"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2024-07-06",

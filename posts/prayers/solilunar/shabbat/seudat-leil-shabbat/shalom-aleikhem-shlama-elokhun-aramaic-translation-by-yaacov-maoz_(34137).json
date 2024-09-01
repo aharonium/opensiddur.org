@@ -1,14 +1,7 @@
 {
     "title": "שָׁלוֹם עֲלֵיכֶם (שְׁלָמָא אֵילוֹכוּן)‏ | Shalom Aleikhem (Shlama Elokhun), Aramaic translation by Yaacov Maoz",
-    "author": "Aharon N. Varady (translation)",
+    "author": "Unknown Author(s)",
     "coauthors": [
-        {
-            "name": "Aharon N. Varady (translation)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer translator for the Open Siddur Project. If you find any mistakes in his translations, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot Naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady/\">transcribes prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> for the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://opensiddur.org/profile/aharon-nissen-varady/",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-n-varady"
-        },
         {
             "name": "Yaacov Maoz",
             "bio": "Dr. Yaacov Maoz, the son of Iraqi-Jewish immigrants to Israel, works at the Israel Association of Community Centers, where he is Director for Content Development and has published Festivals in the Community, a series of widely distributed booklets, the foremost of which is the <em>Haggadah of Identities</em>, a Passover Haggadah with an Israeli commentary. He is involved in strengthening Jewish pluralism, in promoting dialogue between different sectors in Judaism, in the connection between Israel and the Diaspora, and in developing understanding between Jews and Arabs in Israel. Dr. Maoz has led several conferences with his associates in the Tikun Movement, the most outstanding of which was the Matrouz International Conference, in which Arab colleagues from Morocco and France participated. He has established a public council of intellectuals and a committee of social activists for the revival of the Aramit (ארמית) language. He has opened study groups and created a Facebook group, held a preliminary conference on solidarity with the Assyrian nation, published journalistic articles, spoken on radio broadcasts, and appeared on television. He maintains contact with the Assyrian diaspora leadership the world over on a daily basis and seeks to increase awareness throughout the Israeli public of the Assyrian nation’s suffering, its cultural richness, and the wonderful opportunity strategic cooperation with the Assyrian nation offers.",
@@ -22,6 +15,13 @@
             "website": "",
             "avatar": "https://opensiddur.org/wp-content/uploads/2014/11/Keith-Evans-Green-Tree-Yellow-Field-CC-BY-SA-250x250.jpg",
             "profile_link": "https://opensiddur.org/profile/unknown"
+        },
+        {
+            "name": "Aharon N. Varady (translation)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer translator for the Open Siddur Project. If you find any mistakes in his translations, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot Naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-transcription/\">transcribes prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> for the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-translation"
         }
     ],
     "date": "2020-11-01",

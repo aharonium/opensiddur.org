@@ -1,14 +1,7 @@
 {
     "title": "Although the Vine Its Fruit Deny, a hymn by Abraham Moïse (Reformed Society of Israel ca. 1826)",
-    "author": "Aharon N. Varady (editing/transcription)",
+    "author": "Reformed Society of Israelites",
     "coauthors": [
-        {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
         {
             "name": "Abraham Moïse",
             "bio": "Abraham Moïse (1799-1869), the brother of <a href=\"/profile/penina-moise/\">Penina Moïse</a>, was a lawyer in Charleston, South Carolina born to the prominent family of his parents Abraham Moïse (c. 1736–1809) originally from Strasbourg in Alsace, France, and Sarah from the Jewish community on St. Eustace.. Along with Isaac Harby and <a href=\"/profile/david-nunes-carvalho/\">David Nunes Carvalho</a>, he helped in leading the <a href=\"/profile/reformed-society-of-israelites/\">Reformed Society of Israelites</a>.",
@@ -22,6 +15,13 @@
             "website": "",
             "avatar": "https://opensiddur.org/wp-content/uploads/2021/10/orobouros-from-isaac-harby-prayerbook-96x96.png",
             "profile_link": "https://opensiddur.org/profile/reformed-society-of-israelites"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2021-10-15",

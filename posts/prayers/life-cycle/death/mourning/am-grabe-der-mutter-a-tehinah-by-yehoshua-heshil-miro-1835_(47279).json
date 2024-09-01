@@ -10,18 +10,18 @@
             "profile_link": "https://opensiddur.org/profile/andreas-rusterholz"
         },
         {
-            "name": "Aharon N. Varady (translation)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer translator for the Open Siddur Project. If you find any mistakes in his translations, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot Naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady/\">transcribes prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> for the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://opensiddur.org/profile/aharon-nissen-varady/",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-n-varady"
-        },
-        {
             "name": "Yehoshua Heshil Miro",
             "bio": "Yehoshua Heshil ben Rabbi Binyamin Miro (fl. first-half 19th c.) was a writer and Jewish educator in Prussia, an early advocate and teacher of Jewish girls. He worked as a professor at a private school, and a teacher at the <a href=\"https://de.wikipedia.org/wiki/Königliche_Wilhelms-Schule\">Königliche Wilhelms-Schule</a> (and possibly also the <a href=\"https://de.wikipedia.org/wiki/Industrieschule_für_israelitische_Mädchen\">Industrial School for Israelite Girls</a>), in then Prussian Breslau. We know very little else about Miro aside from his publication of a popular anthology of teḥinot for German speaking women first published in 1829. If you know more about Miro, please <a href=\"/contact/\">contact us</a>.",
             "website": "",
             "avatar": "https://opensiddur.org/wp-content/uploads/2014/11/Keith-Evans-Green-Tree-Yellow-Field-CC-BY-SA-250x250.jpg",
             "profile_link": "https://opensiddur.org/profile/yehoshua-heshil-miro"
+        },
+        {
+            "name": "Aharon N. Varady (translation)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer translator for the Open Siddur Project. If you find any mistakes in his translations, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot Naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-transcription/\">transcribes prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> for the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-translation"
         }
     ],
     "date": "2022-10-23",

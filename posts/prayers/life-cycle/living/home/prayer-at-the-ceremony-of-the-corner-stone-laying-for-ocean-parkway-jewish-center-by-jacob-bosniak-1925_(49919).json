@@ -3,18 +3,18 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Jacob Bosniak",
             "bio": "Yitsḥaḳ Yaakov (Jacob) Bosniak (also Bosnyak, 1887–1963) was an American Conservative rabbi. Bosniak was born in Russia, immigrated to the U.S. in 1903, and completed his rabbinical studies at the Rabbi Isaac Elchanan Yeshivah, an Orthodox seminary, in 1907. In 1917, he was ordained at the Jewish Theological Seminary, where he earned a Doctor of Hebrew Letters in 1933. In 1921, after having served Congregation Shearith Israel in Dallas, Texas, he became rabbi of the Ocean Parkway Jewish Center in Brooklyn, n.y., a congregation he was to serve for 28 years. He was president of the Brooklyn Board of Rabbis (1938–40), chairman of the *Rabbinical Assembly's Rabbinic Ethics Committee (1945–48) and a judge (dayyan) and member of the Board of Directors of the Jewish Conciliation Board of America. Believing in the need for a uniform prayer book (siddur) with modern English translations, Bosniak published several prayer books that gained wide acceptance in Conservative synagogues. He edited <em>Prayers of Israel</em> (1925, 1937), <em>Likutei Tefilot: Public and Pulpit Prayers</em> (1927) and <em>Anthology of Prayer</em> (1958), prayer books that included English translations of Sabbath and Holiday prayers, English hymns, responsive readings, and instructions related to worship in English. In 1944, he published <em>Interpreting Jewish Life: The Sermons and Addresses of Jacob Bosniak</em>. Upon his retirement in 1949, Bosniak was elected rabbi emeritus and devoted his time to Jewish scholarship, publishing a critical edition of <em>The Commentary of David Kimhi on the Fifth Book of Psalms</em> (1954).",
             "website": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/bosniak-jacob",
             "avatar": "https://opensiddur.org/wp-content/uploads/2019/11/jacob-bosniak-96x96.jpg",
             "profile_link": "https://opensiddur.org/profile/jacob-bosniak"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2023-04-08",

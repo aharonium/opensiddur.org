@@ -3,13 +3,6 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Ralph Marcus (translation)",
             "bio": "Ralph Marcus (1900–1956), U.S. scholar of Hellenistic Judaism. Born in San Francisco the son of the talmudic scholar Moses Marcus, Marcus was educated at Columbia, where he wrote his doctoral dissertation on Law in the Apocrypha (1927), and at Harvard where he studied with Harry A. Wolfson (1925–27). He taught at the Jewish Institute of Religion, at Columbia (1927–43), and at the University of Chicago (1947–56). Marcus is best known for editing, translating, and annotating four volumes of Josephus and two of Philo in the Loeb Classical Library series. His notes show an unusual wealth of lexical and historical knowledge, and his translations are accurate and lucid. His invaluable appendixes on select points in Josephus are careful, critical monographs. His bibliographies in these volumes and in separate works (PAAJR, 16 (1946/47), 97–181; Jewish Studies in Memory of G.A. Kohut (1935), 463–91) show his mastery of the literature and his critical acumen. He successfully undertook the extraordinarily difficult task of translating Philo's Quaestiones et Solutiones from the Armenian and restored the Greek in numerous places.",
             "website": "https://dbcs.rutgers.edu/all-scholars/8909-marcus-ralph",
@@ -22,6 +15,13 @@
             "website": "https://en.wikipedia.org/wiki/Josephus",
             "avatar": "https://opensiddur.org/wp-content/uploads/2018/09/flavius-josephus-96x96.jpg",
             "profile_link": "https://opensiddur.org/profile/yosef-ben-matityahu"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2018-09-12",

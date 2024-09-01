@@ -3,13 +3,6 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Yaakov Yosef",
             "bio": "Yaaqov Yosef (also, Jacob Joseph, יעקב יוסף‎ 1840 –July 28, 1902) served as chief rabbi of New York City's Association of American Orthodox Hebrew Congregations, a federation of Eastern European Jewish synagogues. Born in Krozhe, a province of Kovno, he studied in the Nevyozer Kloiz under Rabbi Yisrael Salanter and in the Volozhin yeshiva under the Netziv. In Volozhin, he was known as \"Rav Yaakov Charif\" (Rabbi Jacob Sharp) because of his sharp mind. He became successively rabbi of Vilon in 1868, Yurburg in 1870, Zhagory and then Kovno. His fame as a preacher spread, so that in 1883 the community of Vilna selected him as its maggid.\r\n\r\nIn the 1880s, the mainly Orthodox and Eastern European Ashkenazi Jewish community of New York wanted to be united under a common religious authority and founded the Association of American Orthodox Hebrew Congregations—comprising 18 congregations and headed by Beth Hamedrash Hagadol. They sent a circular offering the post throughout Eastern Europe. Rabbi Yaaqov Yosef was among those offered the position and, in 1888, accepted it. The Association attempted to create one central rabbinic authority in America. Without the support of other factions of the Jewish community and hostility from anti-religious groups, their idea ultimately failed. Although Joseph fought a losing battle in the kosher meat and poultry industry, he managed to achieve some notable accomplishments, including the hiring of qualified shoḥtim, introducing irremovable seals (\"plumba\") to identify kosher birds, and setting up Mashgiḥim to oversee slaughter houses. He also took an active role in establishing the Etz Chaim Yeshiva—the first yeshiva on the Lower East Side, which was founded in 1886. (adapted from the article, \"<a href=\"https://en.wikipedia.org/wiki/Jacob_Joseph\">Jacob Joseph</a>\" on wikipedia.)",
             "website": "https://en.wikipedia.org/wiki/Jacob_Joseph",
@@ -22,6 +15,13 @@
             "website": "https://en.wikipedia.org/wiki/Julius_Eisenstein",
             "avatar": "https://opensiddur.org/wp-content/uploads/2017/12/Judah_David_Eisenstein-96x96.jpg",
             "profile_link": "https://opensiddur.org/profile/judah-david-eisenstein"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2017-12-25",

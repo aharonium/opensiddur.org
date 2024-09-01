@@ -3,18 +3,18 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Lilian Helen Montagu",
             "bio": "The Hon. Lilian Helen \"Lily\" Montagu, CBE (22 December 1873 – 22 January 1963) was the first woman to play a major role in Progressive Judaism. Until the age of 15, she was educated at Doreck College, and privately educated thereafter. In 1893 she founded with Emily Marion Harris the West Central Jewish Girls Club (which subsequently merged into the Jewish Girls' Brigade). She was active in social improvement, particularly in respect to unemployment, sweat shops and bad housing. In 1901 and 1902, Montagu laid the groundwork for the establishment of the Jewish Religious Union in London. In February 1902 she arranged the first meeting of the Jewish Religious Union for the Advancement of Liberal Judaism at her sister Henrietta Franklin's house. The Union set up the first synagogue in Liberal Judaism in the UK and helped found the World Union for Progressive Judaism. Montagu was a founding member with her sister of the Jewish League for Woman Suffrage. She sat on the executive committee and led the meetings in prayer. Following the retirement of Leo Baeck, Montagu served for a brief stint (1955–1959) in her 80s as president of the World Union for Progressive Judaism, before handing the reins over to Solomon Freehof.",
             "website": "https://en.wikipedia.org/wiki/Lily_Montagu",
             "avatar": "https://opensiddur.org/wp-content/uploads/2022/08/lily-montagu-portrait-cropped-96x96.jpg",
             "profile_link": "https://opensiddur.org/profile/lilian-helen-montagu"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2023-05-07",

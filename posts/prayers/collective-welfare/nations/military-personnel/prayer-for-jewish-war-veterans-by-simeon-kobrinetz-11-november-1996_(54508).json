@@ -1,14 +1,7 @@
 {
     "title": "Veterans Day Prayer for Jewish War Veterans, by Rabbi Simeon Kobrinetz, Chaplain, USAF (Ret.)",
-    "author": "Aharon N. Varady (editing/transcription)",
+    "author": "Jewish War Veterans of the United States of America",
     "coauthors": [
-        {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
         {
             "name": "Simeon Kobrinetz",
             "bio": "Rabbi Chaplain Simeon Kobrinetz (1928-2011), born in Brooklyn, New York, was the first rabbi to attain general officer rank in the United States military. He graduated from Columbia University, studied at Yeshiva University, and earned a Ph.D. from the Jewish Technological Seminary. In 1970, after serving as Hillel Director at the University of Florida and the University of Miami, he served as national chaplain of the Department of Veterans' Affairs, including rising to president from 1976-1978. At the time of his death, He was also president of the Jewish War Veterans. Rabbi Kobrinetz led the campaign to establish Chaplain's Hill as a memorial to fallen Jewish chaplains.",
@@ -22,6 +15,13 @@
             "website": "https://en.wikipedia.org/wiki/Jewish_War_Veterans_of_the_United_States_of_America",
             "avatar": "https://opensiddur.org/wp-content/uploads/2022/06/jwv-usa-96x96.jpg",
             "profile_link": "https://opensiddur.org/profile/jewish-war-veterans-usa"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2024-02-26",

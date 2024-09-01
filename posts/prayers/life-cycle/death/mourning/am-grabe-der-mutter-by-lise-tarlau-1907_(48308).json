@@ -3,25 +3,18 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
-            "name": "Aharon N. Varady (translation)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer translator for the Open Siddur Project. If you find any mistakes in his translations, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot Naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady/\">transcribes prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> for the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://opensiddur.org/profile/aharon-nissen-varady/",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-n-varady"
-        },
-        {
             "name": "Lise Tarlau",
             "bio": "Lise Tarlau (also known as L'Ysaye/Isaye/Ysaye/Ysale, Lisa, Lize, Elizabeth, Luise, and Louise Tarleau; 1879-1952), was a writer born to a prominent Viennese Bohemian Jewish family, the daughter of Rabbi Dr. Joseph Samuel Bloch and Laura Lachmann. In an essay published in 1906, \"The Religious Problem,\" she expressed enthusiasm for Zionism and a deep sympathy for East European, Yiddish speaking Jewry, praising them for having retained their own distinctive cultural identity and their own language. This posture was accompanied by harsh criticism of Western European Jewish cultural assimilation, writing that they have “lived as parasites on the creative possibilities of the dreams of beauty of other peoples” (as quoted in Peter Singer's <em>Pushing Time Away</em>, 2003). Before emigrating to the United States in 1908, nearly two dozen prayers she wrote were published in <em>Beruria</em> (1907), an anthology of teḥinot in German compiled by her sister's husband Rabbi Dr. Max Grunwald. A decade later in the US, Houghton Mifflin Company and Riverside Press published <em>The Inn of Disenchantment</em> (1917), a collection of her prose and several short stories. Tarlau's fiction also appeared in major magazines of the day, including <em>The Nation</em> (105:2725, September 20, 1917),  <em>The Atlantic Monthly</em> (in 1919), and <em>Harper's Magazine</em>. In 1924, her short story \"<a href=\"https://archive.org/details/sim_harpers-magazine_1924-09_149_892/page/436/mode/2up\">Loutré</a>\" was awarded second place in <em>Harper's</em> first ever short story contest. During World War II, she wrote a number of scripts for radio and film and worked as a translator for the US military. Several of her works were included in <em>The Fireside Book of Romance</em> (ed. C. Edward Wagenknecht, 1948). She died on October 9, 1952 in Kew Gardens, Queens, Long Island, New York.",
             "website": "https://www.geni.com/people/Louise-Tarlau/6000000039642814681",
             "avatar": "https://opensiddur.org/wp-content/uploads/2022/12/lise-tarlau-96x96.jpg",
             "profile_link": "https://opensiddur.org/profile/lise-tarlau"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2023-01-08",

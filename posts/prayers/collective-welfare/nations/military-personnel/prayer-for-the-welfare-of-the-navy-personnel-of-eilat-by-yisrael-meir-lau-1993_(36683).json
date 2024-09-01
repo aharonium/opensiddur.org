@@ -3,13 +3,6 @@
     "author": "Aharon N. Varady (translation)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (translation)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer translator for the Open Siddur Project. If you find any mistakes in his translations, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot Naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady/\">transcribes prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> for the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://opensiddur.org/profile/aharon-nissen-varady/",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-n-varady"
-        },
-        {
             "name": "Arnold E. Resnicoff",
             "bio": "Arnold E. Resnicoff (born 1946) is a Conservative rabbi who began his career serving as a military officer and then as a military chaplain. He served in Vietnam and Europe before attending rabbinical school after which he was a U.S. Navy Chaplain for almost 25 years. After the Vietnam War, he promoted the creation of the Vietnam Veterans Memorial and delivered the closing prayer at its 1982 dedication. Rabbi Resnicoff was present at the 1983 Beirut barracks bombing and the following year, President Ronald Reagan shared Rabbi Resnicoff's eyewitness account. After retiring from the military he became the National Director of Interreligious Affairs for the American Jewish Committee and served as Special Assistant (for Values and Vision) to the Secretary and Chief of Staff of the United States Air Force, serving at the equivalent military rank of Brigadier General. Resnicoff holds several degrees, including an honorary doctorate. His awards include the Defense Superior Service Medal, the Department of the Air Force Decoration for Exceptional Civilian Service, and the Chapel of Four Chaplains Hall of Heroes Gold Medallion.",
             "website": "https://en.wikipedia.org/wiki/Arnold_Resnicoff",
@@ -22,6 +15,13 @@
             "website": "https://en.wikipedia.org/wiki/Yisrael_Meir_Lau",
             "avatar": "https://opensiddur.org/wp-content/uploads/2021/04/yisrael-meir-lau-e1674564591346-96x96.jpg",
             "profile_link": "https://opensiddur.org/profile/yisrael-meir-lau"
+        },
+        {
+            "name": "Aharon N. Varady (translation)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer translator for the Open Siddur Project. If you find any mistakes in his translations, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot Naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-transcription/\">transcribes prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> for the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-translation"
         }
     ],
     "date": "2021-04-13",

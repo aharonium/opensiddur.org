@@ -3,13 +3,6 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Jay Kaufman",
             "bio": "Rabbi Jay Kaufman (1918-1971), born in Cleveland, Ohio, was a prominent Reform movement rabbi and community leader in the United States. After graduating from Western Reserve University, in 1946 he was ordained at Hebrew Union College‐Jewish Institute of Religion, where he received the Youngerman Prize for Preaching and the Henry Morgenthau Traveling Fellowship for two years of graduate rabbinic studies at the Hebrew University in Jerusalem. Rabbi Kaufman joined the staff of the Union of American Hebrew Congregations in 1948, and became a vice president in 1957. In 1961 he assisted in setting up institutions of liberal Judaism in Israel. In 1965, he began serving as executive vice president of the international Jewish organization, B'nai B'rith. Throughout his career Rabbi Kaufman sought to diminish the partisanship growing out of the diverse, often competing, secular and religious elements and ideologies in Jewish life. His concern, he once said, was for “the overriding unity of purpose and hope by which the Jewish people survives.” He was a strong advocate of greater community support for Jewish education and the advancement of “an authentic Jewish culture, rooted in our people's traditions, for contemporary Jews.” He served on the boards of the Synagogue Council of America, the National Jewish Welfare Board and the National Zionist Organization of America. He was also a member of the governing body of the World Union for Progressive Judaism, a founding member of the Conference of Presidents of Major American Jewish Organizations and chairman of the Jewish education committee of the World Conference of Jewish Organizations.",
             "website": "",
@@ -22,6 +15,13 @@
             "website": "https://en.wikipedia.org/wiki/Congressional_Record",
             "avatar": "https://opensiddur.org/wp-content/uploads/2024/02/Congressional-Record-96x96.png",
             "profile_link": "https://opensiddur.org/profile/united-states-congressional-record"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2024-04-14",

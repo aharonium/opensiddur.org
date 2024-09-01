@@ -3,18 +3,18 @@
     "author": "Aharon N. Varady (translation)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (translation)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer translator for the Open Siddur Project. If you find any mistakes in his translations, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot Naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady/\">transcribes prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> for the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://opensiddur.org/profile/aharon-nissen-varady/",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-n-varady"
-        },
-        {
             "name": "Shmuel Yosef Agnon",
             "bio": "Shmuel Yosef Agnon שמואל יוסף עגנון‎ (also, Shai Agnon or S. Y. Agnon ש\"י עגנון) (July 17, 1888 – February 17, 1970) was a Nobel Prize laureate writer and one of the central figures of modern Hebrew fiction. Agnon was born in Polish Galicia, then part of the Austro-Hungarian Empire, and later immigrated to Mandatory Palestine, and died in Jerusalem, Israel. His works deal with the conflict between the traditional Jewish life and language and the modern world. They also attempt to recapture the fading traditions of the Yiddish shtetl. In a wider context, he also contributed to broadening the characteristic conception of the narrator's role in literature. Agnon shared the Nobel Prize with the poet Nelly Sachs in 1966.",
             "website": "https://en.wikipedia.org/wiki/Shmuel_Yosef_Agnon",
             "avatar": "https://opensiddur.org/wp-content/uploads/2017/10/Shmuel-Yosef-Agnon-96x96.jpg",
             "profile_link": "https://opensiddur.org/profile/shmuel-yosef-agnon"
+        },
+        {
+            "name": "Aharon N. Varady (translation)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer translator for the Open Siddur Project. If you find any mistakes in his translations, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot Naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-transcription/\">transcribes prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> for the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-translation"
         }
     ],
     "date": "2017-10-09",

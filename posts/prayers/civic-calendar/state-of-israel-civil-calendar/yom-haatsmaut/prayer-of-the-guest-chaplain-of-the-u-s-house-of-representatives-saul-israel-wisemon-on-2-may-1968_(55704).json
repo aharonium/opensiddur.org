@@ -3,13 +3,6 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Saul Israel Wisemon",
             "bio": "Rabbi Saul Israel Wisemon (1934-?) was a rabbi who served pulpits in Connecticut, Massachusetts, Nova Scotia, Pennsylvania, and New Jersey. Unfortunately, we know very little about his life and career besides his arrest in 1983. “Police said a warehouse rented by a rabbi contained more than 10,000 allegedly stolen religious books and microfilms that had disappeared from schools, libraries and synagogues throughout the Northeast,” the Associated Press reported from Vineland, New Jersey on May 5, 1983. “The discovery was made in an investigation of Rabbi Saul Wisemon. . . . Authorities want to question Wisemon about the disappearance of a Torah—a valuable hand-written scroll of Jewish law—from a Bridgeton temple.” (as quoted by Howard Mortman in <em>When Rabbis Bless Congress: The Great American Story of Jewish Prayers on Capitol Hill</em> (2021), p. 253.) If you know more about the life and career of Rabbi Wisemon and would like to add to this short bio, please <a href=\"/contact/\">contact us</a>.",
             "website": "",
@@ -22,6 +15,13 @@
             "website": "https://en.wikipedia.org/wiki/Congressional_Record",
             "avatar": "https://opensiddur.org/wp-content/uploads/2024/02/Congressional-Record-96x96.png",
             "profile_link": "https://opensiddur.org/profile/united-states-congressional-record"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2024-04-29",

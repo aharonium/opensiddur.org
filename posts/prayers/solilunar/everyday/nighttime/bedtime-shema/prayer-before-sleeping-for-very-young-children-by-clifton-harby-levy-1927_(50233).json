@@ -3,18 +3,18 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Clifton Harby Levy",
             "bio": "Rabbi Clifton Harby Levy (1867–1962), was a Reform rabbi in the United States. Born in New Orleans, he was ordained at Hebrew Union College (1890), served as rabbi of Congregation Gates of Hope, New York City (1890–91), and as superintendent of classes for immigrant children established by the Baron de Hirsch Fund. Levy later served congregations in Lancaster, Pennsylvania (1892–94) and Baltimore, Maryland (1894–96), where he organized a Jewish kindergarten in a religious school and the first United Hebrew Charities. He founded Tremont Temple, Bronx, New York, and was its rabbi from 1906 to 1921. He left the pulpit rabbinate in 1921 and in 1924 organized the Centre of Jewish Science, New York City. As part of the Jewish Science movement, it sought to counter the influence of Christian Science among acculturated American Jews and to inject spirituality into the Reform Jewish synagogue. He was a founding member of the <a href=\"https://en.wikipedia.org/wiki/American_Council_for_Judaism\">American Council for Judaism</a>, which consisted primarily of anti-Zionist Reform rabbis and laymen. While still a student, Levy published a five-act Purim play, <em>Haman and Mordecai</em> (1886). During his stay in Baltimore he edited <em>Jewish Comment</em>. He edited <em>The Bible in Art</em> (1936) and <em>The Bible in Pictures</em> (1942), and served as art editor of the <em>Universal Jewish Encyclopedia</em>.",
             "website": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/levy-clifton-harby",
             "avatar": "https://opensiddur.org/wp-content/uploads/2023/04/clifton-harby-levy-96x96.jpg",
             "profile_link": "https://opensiddur.org/profile/clifton-harby-levy"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2023-04-19",

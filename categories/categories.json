@@ -78,7 +78,7 @@
         "stub": "addenda",
         "name": "Addenda",
         "subcategory_count": 0,
-        "post_count": 32,
+        "post_count": 33,
         "description": "",
         "featured_image": {
             "url": "",
@@ -123,7 +123,7 @@
         "stub": "after-aliyot",
         "name": "After the Aliyot",
         "subcategory_count": 0,
-        "post_count": 31,
+        "post_count": 32,
         "description": "<div class=\"english\" style=\"font-size: 1.2em;\">\r\n<blockquote>This is an archive of prayers for using during the Torah Reading service, after the Torah and Haftarah are read but before the scrolls are returned to the ark. This section contains many \"Mi sheberakh\" prayers offered on behalf of entities and concerns beyond the immediate reach of the praying congregation.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a prayer you have written, translated, or transcribed for this portion of the Torah Reading Service.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers offered for the well-being of one's congregation and community, <a href=\"\/index.php?cat=4588\">visit here<\/a>.\r\n\r\nFor prayers offered for the well-being of government and country, <a href=\"\/index.php?cat=2558\">visit here<\/a>.\r\n\r\nFor prayers offered for the well-being of the State of Israel, <a href=\"\/index.php?cat=2554\">visit here<\/a>.\r\n\r\nFor prayers offered for military personnel and veterans of armed forces, <a href=\"\/index.php?cat=1257\">visit here<\/a>.\r\n\r\nFor prayers offered during the aliyot, <a href=\"\/index.php?cat=2368\">visit here<\/a>.\r\n\r\nFor prayers offered at the beginning of the Torah Reading Service, before the aliyot, <a href=\"\/index.php?cat=5161\">visit here<\/a>.\r\n<\/blockquote>\r\n<\/div>",
         "featured_image": {
             "url": "",
@@ -213,7 +213,7 @@
         "stub": "amidah-weekday",
         "name": "Weekday Amidah",
         "subcategory_count": 0,
-        "post_count": 19,
+        "post_count": 20,
         "description": "",
         "featured_image": {
             "url": "",
@@ -693,7 +693,7 @@
         "stub": "birkhot-hatorah",
         "name": "Birkhot haTorah",
         "subcategory_count": 0,
-        "post_count": 4,
+        "post_count": 5,
         "description": "",
         "featured_image": {
             "url": "",
@@ -723,7 +723,7 @@
         "stub": "birthdays",
         "name": "Bnei (Bar\/Bat) Mitsvah &amp; Other Birthday Prayers",
         "subcategory_count": 0,
-        "post_count": 32,
+        "post_count": 33,
         "description": "",
         "featured_image": {
             "url": "",
@@ -903,7 +903,7 @@
         "stub": "captivity",
         "name": "Slavery &amp; Captivity",
         "subcategory_count": 0,
-        "post_count": 22,
+        "post_count": 24,
         "description": "",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2018\/06\/35927180_1389625684514687_8534401450841735168_n.jpg",
@@ -1037,13 +1037,13 @@
     {
         "stub": "compilations",
         "name": "&#x1F4DA; Compiled Prayer Books (Siddurim, Haggadot, &amp;c.)",
-        "subcategory_count": 40,
+        "subcategory_count": 39,
         "post_count": 0,
         "description": "",
         "featured_image": {
-            "url": "",
-            "title": "",
-            "caption": ""
+            "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2024\/08\/western-wall-20140817-img-0299.jpg",
+            "title": "Western_Wall_20140817-IMG_0299",
+            "caption": "<a href=\"https:\/\/commons.wikimedia.org\/wiki\/File:Western_Wall_20140817-IMG_0299.jpg\">Siddurim at rest in the Women's Section at the Western Wall<\/a> (credit: Ruby1619, license: CC BY-SA)"
         },
         "id": 2099,
         "permalink": "https:\/\/opensiddur.org\/shared\/compilations\/",
@@ -1068,7 +1068,7 @@
         "stub": "conflicts-over-sovereignty-and-dispossession",
         "name": "Conflicts over Sovereignty and Dispossession",
         "subcategory_count": 0,
-        "post_count": 37,
+        "post_count": 38,
         "description": "<div class=\"english\" style=\"font-size: 1.2em\">\r\n<blockquote>This is an archive of prayers composed for, or relevant to, conflicts over sovereignty and dispossession.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a prayer you have written, or a transcription and translation of a historical prayer.\r\n\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers offered in the event of war, <a href=\"\/index.php?cat=1001\">go here<\/a>.\r\n\r\nFor prayers offered in the event of terror, <a href=\"\/index.php?cat=777\">go here<\/a>.\r\n\r\nFor prayers offered in the event of pogroms and genocide, <a href=\"\/index.php?cat=4376\">go here<\/a>.\r\n\r\nFor prayers offered in the event of imminent communal danger and distress, <a href=\"\/index.php?cat=3466\">go here<\/a>.\r\n\r\nFor prayers offered in the event of hateful intolerance, prejudice, and bigotry, <a href=\"\/index.php?cat=3471\">go here<\/a>.\r\n\r\nFor prayers composed for social justice, peace, and liberty, <a href=\"\/index.php?cat=782\">go here<\/a>.\r\n\r\nFor prayers offered for military veterans and armed forces personnel, <a href=\"\/index.php?cat=1257\">go here<\/a>.\r\n\r\nFor prayers offered for the well-being of the State of Israel, <a href=\"\/index.php?cat=2554\">please visit here<\/a>.\r\n<\/blockquote>\r\n<\/div>",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2021\/06\/13886941_10154519518423534_3780966665237714829_n.jpg",
@@ -1533,7 +1533,7 @@
         "stub": "elections",
         "name": "Elections &amp; Voting",
         "subcategory_count": 0,
-        "post_count": 25,
+        "post_count": 26,
         "description": "",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2010\/11\/ballot.jpg",
@@ -1608,7 +1608,7 @@
         "stub": "erev-shabbat",
         "name": "Erev Shabbat",
         "subcategory_count": 0,
-        "post_count": 30,
+        "post_count": 31,
         "description": "",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2018\/11\/Challah_Braiding.jpg",
@@ -1968,7 +1968,7 @@
         "stub": "genocide",
         "name": "Pogroms &amp; Genocide",
         "subcategory_count": 0,
-        "post_count": 6,
+        "post_count": 9,
         "description": "<div class=\"english\" style=\"font-size: 1.2em\">\r\n<blockquote>This is an archive of prayers composed in response to, or anxious anticipation of, a pogrom or a genocidal atrocity.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a prayer you have written, or a transcription and translation of a historical prayer.\r\n\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers offered in the event of imminent communal danger and distress, <a href=\"\/index.php?cat=3466\">go here<\/a>.\r\n\r\nFor prayers offered in the event of hateful intolerance, prejudice, and bigotry, <a href=\"\/index.php?cat=3471\">go here<\/a>.\r\n\r\nFor prayers offered in the event of attack intended to invoke communal terror, <a href=\"\/index.php?cat=777\">go here<\/a>.\r\n\r\nFor prayers offered in response to conflicts over sovereignty and dispossession, <a href=\"\/index.php?cat=781\">go here<\/a>.\r\n\r\nFor prayers composed for social justice, peace, and liberty, <a href=\"\/index.php?cat=782\">go here<\/a>.\r\n<\/blockquote>\r\n<\/div>",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2023\/01\/Ukrainians-unearth-hiding-places-of-Jews-in-city-sewers-during-Nazi-Holocaust-Gleb-Garanich-Reuters.jpg",
@@ -2063,7 +2063,7 @@
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2019\/10\/Seder-haTefilot-vol.5-Tefilot-lPesah-ulShavuot-Moses-Gaster-1906-title..png",
             "title": "Seder haTefilot vol.5 Tefilot l&#8217;Pesah u&#8217;l&#8217;Shavuot (Moses Gaster 1906) &#8211; title.",
-            "caption": ""
+            "caption": "Seder haTefilot vol.5 Tefilot l'Pesah u'l'Shavuot (Moses Gaster 1906) - title."
         },
         "id": 4563,
         "permalink": "https:\/\/opensiddur.org\/shared\/compilations\/liturgical\/mahzorim\/regalim\/hag-hamatsot-vshavuot\/",
@@ -2078,7 +2078,7 @@
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2020\/10\/Siddur-Siftei-Tsadiqim-The-Form-of-Prayers-vol.-4-Seder-haTefilot-lHag-haSukkot-ed.-Isaac-Leeser-1837-title-page..png",
             "title": "Siddur Siftei Tsadiqim The Form of Prayers vol. 4 &#8211; Seder haTefilot l&#8217;Hag haSukkot (ed. Isaac Leeser 1837) &#8211; title page.",
-            "caption": ""
+            "caption": "Siddur Siftei Tsadiqim The Form of Prayers vol. 4 - Seder haTefilot l'Hag haSukkot (ed. Isaac Leeser 1837) - title page."
         },
         "id": 4562,
         "permalink": "https:\/\/opensiddur.org\/shared\/compilations\/liturgical\/mahzorim\/regalim\/hag-hasukkot-vshemini-atseret\/",
@@ -2478,7 +2478,7 @@
         "stub": "incantation",
         "name": "Incantations, Adjurations, &amp; Amulets",
         "subcategory_count": 0,
-        "post_count": 14,
+        "post_count": 15,
         "description": "",
         "featured_image": {
             "url": "",
@@ -2793,7 +2793,7 @@
         "stub": "kaddish",
         "name": "Ḳaddish",
         "subcategory_count": 0,
-        "post_count": 22,
+        "post_count": 23,
         "description": "",
         "featured_image": {
             "url": "",
@@ -2878,21 +2878,6 @@
         "id": 1414,
         "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/lunisolar\/roshei-hadashim\/kiddush-levanah\/",
         "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=1414"
-    },
-    {
-        "stub": "kinnot",
-        "name": "Kinnot",
-        "subcategory_count": 0,
-        "post_count": 2,
-        "description": "",
-        "featured_image": {
-            "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2020\/07\/Form-of-Prayers-vol.-6-Fasts-title-page.png",
-            "title": "Form of Prayers vol. 6 &#8211; Fasts (title page)",
-            "caption": "Form of Prayers vol. 6 - Fasts (title page)"
-        },
-        "id": 4464,
-        "permalink": "https:\/\/opensiddur.org\/shared\/compilations\/liturgical\/mahzorim\/kinnot\/",
-        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=4464"
     },
     {
         "stub": "kislev",
@@ -3077,7 +3062,7 @@
     {
         "stub": "liturgical",
         "name": "Liturgical Prayerbooks",
-        "subcategory_count": 18,
+        "subcategory_count": 17,
         "post_count": 0,
         "description": "",
         "featured_image": {
@@ -3137,13 +3122,13 @@
     {
         "stub": "mahzorim",
         "name": "Maḥzorim (Festival Prayerbooks)",
-        "subcategory_count": 7,
+        "subcategory_count": 5,
         "post_count": 1,
         "description": "",
         "featured_image": {
-            "url": "",
-            "title": "",
-            "caption": ""
+            "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2024\/08\/bokser-mahzor-title-detail.png",
+            "title": "bokser-mahzor-title-detail",
+            "caption": "bokser-mahzor-title-detail"
         },
         "id": 2104,
         "permalink": "https:\/\/opensiddur.org\/shared\/compilations\/liturgical\/mahzorim\/",
@@ -3228,7 +3213,7 @@
         "stub": "medinat-yisrael",
         "name": "Medinat Yisra'el (the State of Israel)",
         "subcategory_count": 0,
-        "post_count": 37,
+        "post_count": 40,
         "description": "<div class=\"english\" style=\"font-size: 1.2em\">\r\n<blockquote>\r\nThis is an archive of prayers composed for the welfare, well-being, or peace of the State of Israel.\r\n\r\nIf you have composed a prayer or prayer-poem for the welfare of the State of Israel, please <a href=\"\/contribute\/upload\">share it here<\/a>.\r\n\r\n<hr \/>\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers composed for the peace and wellbeing of one's country and its leaders, <a href=\"\/index.php?cat=2558\">go here<\/a>.\r\n\r\nFor prayers composed for, or relevant to Yom ha-Atsma'ut, <a href=\"\/index.php?cat=1239\">go here<\/a>.\r\n\r\nFor prayers offered for the well-being of Military Personnel &amp; Veterans, including the Israeli Defense Forces (צה״ל), <a href=\"\/index.php?cat=1257\">please visit here<\/a>.\r\n<\/blockquote>\r\n<\/div>",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2020\/02\/flag_of_israel_yale_blue-svg.png",
@@ -3306,9 +3291,9 @@
         "post_count": 0,
         "description": "",
         "featured_image": {
-            "url": "",
-            "title": "",
-            "caption": ""
+            "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2013\/12\/Open_Source_Judaism_Logo.png",
+            "title": "Open_Source_Judaism_Logo",
+            "caption": "Logo of the Jewish Free Culture Society for Open-source Judaism"
         },
         "id": 1,
         "permalink": "https:\/\/opensiddur.org\/shared\/miscellanea\/meta-topics\/",
@@ -3378,7 +3363,7 @@
         "stub": "military-personnel",
         "name": "Military Personnel &amp; Veterans",
         "subcategory_count": 0,
-        "post_count": 33,
+        "post_count": 34,
         "description": "<div class=\"english\" style=\"font-size: 1.2em\">\r\n<blockquote>\r\nThis is an archive of prayers composed for the well-being and safety of active and veteran military personnel.\r\n\r\nIf you have composed a prayer for military personnel, please <a href=\"\/contribute\/upload\">share it here<\/a>.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers composed for, or relevant to, Armistice\/Veterans Day in the United States, <a href=\"\/index.php?cat=3115\">go here<\/a>.\r\n\r\nFor an archive of special readings for the Armistice\/Veterans Day, <a href=\"\/index.php?cat=3723\">go here<\/a>.\r\n\r\nFor prayers composed for or relevant to Memorial Day in the United States, <a href=\"\/index.php?cat=3068\">please visit here<\/a>.\r\n\r\nFor public readings selected for Memorial Day in the United States, <a href=\"\/index.php?cat=3626\">please visit here<\/a>.\r\n<\/blockquote>\r\n<\/div>",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2014\/07\/14495159079_eb87521664_b.jpg",
@@ -3603,12 +3588,12 @@
         "stub": "mourning",
         "name": "Mourning",
         "subcategory_count": 0,
-        "post_count": 104,
-        "description": "",
+        "post_count": 103,
+        "description": "<div class=\"english\" style=\"font-size: 1.2em\">\r\n<blockquote>\r\nThis is an archive of prayers composed for mourning. Some are for personal or private use. Others are for public, communal, and ceremonial functions. Some follow the formula of a Mourner's Ḳaddish (Qaddish Yatom), others that of El Malé Raḥamim, and still others are adaptations or free-form with or without Hebrew, reflecting upon grief and interconnection and composed in a vernacular tongue.\r\n\r\n<a href=\"\/contribute\/upload\/\">Click here<\/a> to contribute your own prayers of mourning.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers composed for Tishah b'Av, <a href=\"\/index.php?cat=413\">visit here<\/a>.\r\n<\/blockquote>\r\n<\/div>\r\n\r\n",
         "featured_image": {
-            "url": "",
-            "title": "",
-            "caption": ""
+            "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2020\/07\/the-mourning-woman-Bekah-Starr-Art.png",
+            "title": "the mourning woman (Bekah Starr Art)",
+            "caption": "<a href=\"https:\/\/www.bekahstarrart.com\/illustrations--drawings.html\">the mourning woman<\/a> (Bekah Starr Art)"
         },
         "id": 326,
         "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/life-cycle\/death\/mourning\/",
@@ -3831,9 +3816,9 @@
         "post_count": 0,
         "description": "",
         "featured_image": {
-            "url": "",
-            "title": "",
-            "caption": ""
+            "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2017\/05\/herald.png",
+            "title": "Herald of the Shamesh of the Open Siddur Project",
+            "caption": "Herald of the Shamesh of the Open Siddur Project"
         },
         "id": 22,
         "permalink": "https:\/\/opensiddur.org\/shared\/miscellanea\/meta-topics\/open-source-judaism\/",
@@ -3843,7 +3828,7 @@
         "stub": "opening-prayers-for-legislative-bodies",
         "name": "Opening Prayers for Legislative Bodies",
         "subcategory_count": 0,
-        "post_count": 362,
+        "post_count": 363,
         "description": "",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2021\/11\/Boston-City-Council-Inauguration-January-2013-Meeting-72.jpg",
@@ -4896,9 +4881,9 @@
         "post_count": 0,
         "description": "",
         "featured_image": {
-            "url": "",
-            "title": "",
-            "caption": ""
+            "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2015\/12\/Aleph-Bass-by-Darshan-snapshot313.png",
+            "title": "Aleph Bass by Darshan snapshot313",
+            "caption": "A still frame showing an eye surrounded by Hebrew letters from the animated video for \"Aleph Bass\" by Darshan "
         },
         "id": 1132,
         "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/",
@@ -4938,7 +4923,7 @@
         "stub": "press-and-research-articles",
         "name": "Press &amp; Research Articles",
         "subcategory_count": 0,
-        "post_count": 9,
+        "post_count": 10,
         "description": "",
         "featured_image": {
             "url": "",
@@ -5211,9 +5196,9 @@
         "post_count": 0,
         "description": "",
         "featured_image": {
-            "url": "",
-            "title": "",
-            "caption": ""
+            "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2024\/08\/pikiwiki-israel-81843-torah-scroll-case.jpg",
+            "title": "PikiWiki_Israel_81843_torah_scroll_case",
+            "caption": "<a href=\"https:\/\/commons.wikimedia.org\/wiki\/File:PikiWiki_Israel_81843_torah_scroll_case.jpg\">PikiWiki Israel 81843 torah scroll case<\/a> (credit: Israel Preker, license: CC BY)"
         },
         "id": 230,
         "permalink": "https:\/\/opensiddur.org\/shared\/readings-and-sourcetexts\/",
@@ -5640,6 +5625,21 @@
         "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=1080"
     },
     {
+        "stub": "seder-selihot-and-ltaaniyot",
+        "name": "Seder Seliḥot and Tefilot l'Taaniyot",
+        "subcategory_count": 0,
+        "post_count": 5,
+        "description": "",
+        "featured_image": {
+            "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2019\/08\/selihot-title-cropped.jpg",
+            "title": "selihot &#8211; title (cropped)",
+            "caption": ""
+        },
+        "id": 3758,
+        "permalink": "https:\/\/opensiddur.org\/shared\/compilations\/liturgical\/seder-selihot-and-ltaaniyot\/",
+        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=3758"
+    },
+    {
         "stub": "seder-thanksgiving-united-states",
         "name": "Seder for Thanksgiving Day (United States)",
         "subcategory_count": 0,
@@ -5803,21 +5803,6 @@
         "id": 4880,
         "permalink": "https:\/\/opensiddur.org\/shared\/readings-and-sourcetexts\/festival-and-fast-day-readings\/jewish-readings\/sefirat-haomer-readings\/",
         "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=4880"
-    },
-    {
-        "stub": "selihot",
-        "name": "Seliḥot",
-        "subcategory_count": 0,
-        "post_count": 3,
-        "description": "",
-        "featured_image": {
-            "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2019\/08\/selihot-title-cropped.jpg",
-            "title": "selihot &#8211; title (cropped)",
-            "caption": ""
-        },
-        "id": 3758,
-        "permalink": "https:\/\/opensiddur.org\/shared\/compilations\/liturgical\/mahzorim\/selihot\/",
-        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=3758"
     },
     {
         "stub": "separation",
@@ -6093,7 +6078,7 @@
         "stub": "shema",
         "name": "Shema",
         "subcategory_count": 0,
-        "post_count": 12,
+        "post_count": 13,
         "description": "",
         "featured_image": {
             "url": "",
@@ -6321,9 +6306,9 @@
         "post_count": 0,
         "description": "",
         "featured_image": {
-            "url": "",
-            "title": "",
-            "caption": ""
+            "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2024\/08\/bokser-siddur-title-detail.png",
+            "title": "bokser-siddur-title-detail",
+            "caption": "bokser-siddur-title-detail"
         },
         "id": 3894,
         "permalink": "https:\/\/opensiddur.org\/shared\/compilations\/liturgical\/siddurim\/",
@@ -6738,7 +6723,7 @@
         "stub": "terror",
         "name": "Terror",
         "subcategory_count": 0,
-        "post_count": 23,
+        "post_count": 26,
         "description": "<div class=\"english\" style=\"font-size: 1.2em\">\r\n<blockquote>This is an archive of prayers composed in response to or in anxious anticipation of an attack intended to invoke communal terror and distress.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a prayer you have written, or a transcription and translation of a historical prayer.\r\n\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers offered in the event of imminent communal danger and distress, <a href=\"\/index.php?cat=3466\">go here<\/a>.\r\n\r\nFor prayers offered in the event of hateful intolerance, prejudice, and bigotry, <a href=\"\/index.php?cat=3471\">go here<\/a>.\r\n\r\nFor prayers offered in the event of pogroms and genocide, <a href=\"\/index.php?cat=4376\">go here<\/a>.\r\n\r\nFor prayers offered in response to conflicts over sovereignty and dispossession, <a href=\"\/index.php?cat=781\">go here<\/a>.\r\n\r\nFor prayers composed for social justice, peace, and liberty, <a href=\"\/index.php?cat=782\">go here<\/a>.\r\n<\/blockquote>\r\n<\/div>",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2014\/11\/1024px-Marche_hommage_Charlie_hebdo_et_aux_victimes_des_attentats_de_janvier_2015_31.jpg",
@@ -6801,8 +6786,8 @@
         "post_count": 0,
         "description": "",
         "featured_image": {
-            "url": "",
-            "title": "",
+            "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2010\/07\/Open-Siddur-Project-Application-Overview-3.01.png",
+            "title": "Open-Siddur-Project-Application-Overview-3.0",
             "caption": ""
         },
         "id": 41,
@@ -6888,7 +6873,7 @@
         "stub": "tishah-bav",
         "name": "Tishah b'Av",
         "subcategory_count": 0,
-        "post_count": 59,
+        "post_count": 61,
         "description": "<div class=\"english\" style=\"font-size: 1.2em\">\r\n<blockquote>This is an archive of prayers written for, or relevant to, the Fast of <span class=\"hebrew\" lang=\"he\">תִּשְׁעָה בְּאָב<\/span> (Tishah b'Av, the 9th of the month of Av) in the Jewish calendar, commemorating the destruction of the first and second Temple in Jerusalem, among other catastrophes.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a prayer you have written for Tishah b'Av.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor public readings selected for Tishah b'Av, <a href=\"\/index.php?cat=3020\">visit here<\/a>.\r\n<\/blockquote>\r\n<\/div>",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2018\/03\/black-and-white-space-moon-circle-earth-eclipse-643170-pxhere.com_.jpg",
@@ -6904,7 +6889,7 @@
         "name": "Tishah b'Av Readings",
         "subcategory_count": 0,
         "post_count": 11,
-        "description": "<div class=\"english\" style=\"font-size: 1.2em\">\r\n<blockquote>This is an archive of prayers public readings selected for the Fast of <span class=\"hebrew\" lang=\"he\">תִּשְׁעָה בְּאָב<\/span> (Tishah b'Av, the 9th of the month of Av) in the Jewish calendar, commemorating the destruction of the first and second Temple in Jerusalem, among other catastrophes.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a reading you have prepared for Tishah b'Av.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers written for, or relevant to, Tishah b'Av, <a href=\"\/index.php?cat=413\">visit here<\/a>.\r\n<\/blockquote>\r\n<\/div>",
+        "description": "<div class=\"english\" style=\"font-size: 1.2em\">\r\n<blockquote>This is an archive of public readings selected for the Fast of <span class=\"hebrew\" lang=\"he\">תִּשְׁעָה בְּאָב<\/span> (Tishah b'Av, the 9th of the month of Av) in the Jewish calendar, commemorating the destruction of the first and second Temple in Jerusalem, among other catastrophes.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a reading you have prepared for Tishah b'Av.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers written for, or relevant to, Tishah b'Av, <a href=\"\/index.php?cat=413\">visit here<\/a>.\r\n<\/blockquote>\r\n<\/div>",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2014\/07\/1200px-Dehio_10_Dome_of_the_Rock_Section.jpg",
             "title": "1200px-Dehio_10_Dome_of_the_Rock_Section",
@@ -7023,7 +7008,7 @@
         "stub": "travel",
         "name": "Travel",
         "subcategory_count": 0,
-        "post_count": 36,
+        "post_count": 37,
         "description": "",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2016\/03\/PikiWiki_Israel_12172_Sde-Wrburg_-_the_youth_on_his_bicycle.jpg",
@@ -7083,7 +7068,7 @@
         "stub": "tu-bav",
         "name": "Tu b'Av",
         "subcategory_count": 0,
-        "post_count": 5,
+        "post_count": 6,
         "description": "<div class=\"english\" style=\"font-size: 1.2em;\">\r\n<blockquote>This is an archive of prayers written for, or relevant to, Tu b'Av, the 15th day in the month of Av in the Jewish calendar, the last day for harvesting wood for the sacred fires of the Temple altars, also called the Day of the Breaking of the Axe. In the agricultural cycle, the festival occurs during the annual grape harvest and was a day when women went out in borrowed white clothing to dance in the field and choose spouses from among the men who came to dance with them.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a prayer you have written for Tu b'Av.\r\n<\/blockquote>\r\n<\/div>",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2011\/08\/See-by-Mark-and-Allegra-cc-by-2.0.jpg",
@@ -7203,7 +7188,7 @@
         "stub": "united-states-of-america",
         "name": "United States of America",
         "subcategory_count": 0,
-        "post_count": 429,
+        "post_count": 431,
         "description": "<div class=\"english\" style=\"font-size: 1.2em;\">\r\n<blockquote>This is an archive of prayers offered for the success of the democratically elected government of the United States of America and the well-being of its multicultural civil society.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a prayer you have written for the United States.\r\n\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers offered for the well-being of one's congregation and community, <a href=\"\/index.php?cat=4588\">visit here<\/a>.\r\n\r\nFor prayers offered on Inauguration Day in the United States, <a href=\"\/index.php?cat=1250\">please visit here<\/a>.\r\n\r\nFor prayers composed for Election Day (including early voting periods) in the United States, <a href=\"\/index.php?cat=1241\">go here<\/a>.\r\n\r\nFor opening prayers offered before legislative bodies, <a href=\"\/index.php?cat=2685\">go here<\/a>.\r\n\r\nFor prayers composed for social justice, peace, and liberty, <a href=\"\/index.php?cat=782\">go here<\/a>.\r\n\r\nFor prayers offered for the well-being of the State of Israel, <a href=\"\/index.php?cat=2554\">please visit here<\/a>.\r\n<\/blockquote>\r\n<\/div>",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2022\/12\/1024px-Flag_of_the_United_States.svg.png",
@@ -7323,7 +7308,7 @@
         "stub": "war",
         "name": "War",
         "subcategory_count": 0,
-        "post_count": 76,
+        "post_count": 78,
         "description": "<div class=\"english\" style=\"font-size: 1.2em;\">\r\n<blockquote>This is an archive of prayers composed in response to, or in anxious anticipation of, war.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a prayer you have written, or a transcription and translation of a historical prayer.\r\n\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers composed for United Nations Day (October 24), <a href=\"\/index.php?cat=3792\">go here<\/a>.\r\n\r\nFor prayers offered for military veterans and armed forces personnel, <a href=\"\/index.php?cat=1257\">go here<\/a>.\r\n\r\nFor prayers offered in response to conflicts over sovereignty and dispossession, <a href=\"\/index.php?cat=781\">go here<\/a>.\r\n\r\nFor prayers offered in the event of terror, <a href=\"\/index.php?cat=777\">go here<\/a>.\r\n\r\nFor prayers offered in the event of pogroms and genocide, <a href=\"\/index.php?cat=4376\">go here<\/a>.\r\n\r\nFor prayers offered in the event of imminent communal danger and distress, <a href=\"\/index.php?cat=3466\">go here<\/a>.\r\n\r\nFor prayers offered in the event of hateful intolerance, prejudice, and bigotry, <a href=\"\/index.php?cat=3471\">go here<\/a>.\r\n\r\nFor prayers composed for social justice, peace, and liberty, <a href=\"\/index.php?cat=782\">go here<\/a>.\r\n\r\nFor prayers offered for the well-being of the State of Israel, <a href=\"\/index.php?cat=2554\">please visit here<\/a>.\r\n<\/blockquote>\r\n<\/div>",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2022\/03\/Schwerter_zu_Pflugscharen_-_Jewgeni_Wutschetitsch_-_Geschenk_der_Sowjetunion_an_die_UNO_-_1959.jpg",

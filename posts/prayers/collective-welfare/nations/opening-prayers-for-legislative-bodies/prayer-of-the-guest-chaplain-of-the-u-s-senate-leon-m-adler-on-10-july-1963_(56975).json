@@ -3,13 +3,6 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Leon M. Adler",
             "bio": "Rabbi Leon M. Adler (1921-1988), born in New York, was a Reform movement rabbi and D.C. area community leader in the United States. He graduated  cum laude from City College of New York in 1941 and in 1945 was ordained at the Jewish Institute of Religion in New York City. He was an Army chaplain in the Far East and Austria from 1945 to 1948. After serving as an Army chaplain in China, Japan and Korea, he was assigned to Austria from 1947 to 1948. Adler worked with Jewish displaced persons there and occasionally accompanied Jewish refugees seeking to immigrate illegally to Italy. Afterward, he was an assistant to the Israeli consul general in New York City and worked in Israel for that country's trade and industry ministry. He then spent three years as rabbi of a temple on Long Island before coming to Temple Emanuel (Kensington, Maryland) in 1953. In 1956 and 1957, he chaired the United Jewish Appeal campaigns in Montgomery County. Between 1959 and 1973, he taught courses in Judaic studies at Howard University. He served on groups advising the U.S. Civil Rights Commission and the Montgomery County public schools, and on the board of a Montgomery County fair housing organization. He also was a member of the Jewish Community Council of Greater Washington's community relations committee. Rabbi Adler served as vice president of the Washington Board of Rabbis and in the early 1970s, was Washington representative of the Synagogue Council of America. He had been a member of the executive board of the United Jewish Appeal of Greater Washington, where he also chaired committees dealing with planning and Jewish education. He was a member of the national council of the American Israel Public Affairs Committee, and of the board of directors of the Jewish Institute for National Security Affairs. He also served on the executive and program committees of the World Gathering of Jewish Holocaust Survivors.",
             "website": "",
@@ -22,6 +15,13 @@
             "website": "https://en.wikipedia.org/wiki/Congressional_Record",
             "avatar": "https://opensiddur.org/wp-content/uploads/2024/02/Congressional-Record-96x96.png",
             "profile_link": "https://opensiddur.org/profile/united-states-congressional-record"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2024-06-19",

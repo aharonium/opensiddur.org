@@ -1,20 +1,20 @@
 {
     "title": "&#x1f4d6; סדור לימות החול (אשכנז) | Siddur Limot hê-Ḥol :: Weekday Prayer Book (Rabbinical Assembly of America 1961)",
-    "author": "Aharon N. Varady (editing/transcription)",
+    "author": "the Rabbinical Assembly of America",
     "coauthors": [
-        {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
         {
             "name": "the Rabbinical Assembly of America",
             "bio": "The Rabbinical Assembly (RA) is the international association of Conservative rabbis. The RA was founded in 1901 to shape the ideology, programs, and practices of the Conservative movement. It publishes prayerbooks and books of Jewish interest, and oversees the work of the Committee on Jewish Law and Standards for the Conservative movement. It organizes conferences and coordinates the Joint Placement Commission of the Conservative movement. Members of the RA serve as rabbis, educators, community workers and military and hospital chaplains around the world. Rabbis ordained by Jewish Theological Seminary of America, the Ziegler School of Rabbinic Studies at the American Jewish University (California), The Seminario Rabínico Latinoamericano (Buenos Aires, Argentina), The Zacharias Frankel College (Berlin, Germany) and The Schechter Rabbinical Seminary (Jerusalem, Israel) automatically become members of the RA upon their ordination. Rabbis whose ordination is from other seminaries and yeshivas may also be admitted to the RA. As of 2010, there were 1,648 members of the RA. The majority of RA members serve in the United States and Canada, while more than ten percent of its rabbis serve in Israel and many of its rabbis serve in Latin America, in the countries of Europe, Australia, and Africa.",
             "website": "https://en.wikipedia.org/wiki/Rabbinical_Assembly",
             "avatar": "https://opensiddur.org/wp-content/uploads/2019/09/rabbinical-assembly-twitter_400x400-96x96.png",
             "profile_link": "https://opensiddur.org/profile/rabbinical-assembly-of-america"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2022-04-27",

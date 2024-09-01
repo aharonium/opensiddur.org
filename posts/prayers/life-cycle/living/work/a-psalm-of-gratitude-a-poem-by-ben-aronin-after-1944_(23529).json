@@ -10,18 +10,18 @@
             "profile_link": "https://opensiddur.org/profile/the-aronin-family"
         },
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Ben Aronin",
             "bio": "Ben Aronin (1904-1980), Hebrew translator, US television performer, scriptwriter, poet and author. The Chicago Jewish Historical Society dubbed him \"the Chicago Jewish community’s quintessential Renaissance Man...a lawyer, scholar, teacher, writer, summer camp counselor, and for many years director of extension activities at Anshe Emet. He wrote Jewish-themed songs and plays which are still performed today.\" He appeared as Uncle Ben in the <em>Magic Door</em> series for children; as an author, he began publishing work of genre interest with \"The Doubt\" for Amazing in May 1932, and who wrote the Raphael Drale sequence of Lost Race tales about the Lost Tribes of Israel, comprising <em>The Lost Tribe: Being the Strange Adventures of Raphael Drale in Search of the Lost Tribes of Israel</em> (1934) and <em>Cavern of Destiny</em> (1943). In 1941, his <em>The Abramiad</em>, a book-length mythological poem on the emergence of the Jewish people, was published by Argus Books.",
             "website": "http://www.sf-encyclopedia.com/entry/aronin_ben",
             "avatar": "https://opensiddur.org/wp-content/uploads/2019/01/ben-aronin-96x96.jpg",
             "profile_link": "https://opensiddur.org/profile/ben-aronin"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2019-01-27",

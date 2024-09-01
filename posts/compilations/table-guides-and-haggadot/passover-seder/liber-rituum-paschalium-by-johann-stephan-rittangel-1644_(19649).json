@@ -1,20 +1,20 @@
 {
-    "title": "&#128214; סדר הגדה של פסח | Liber Rituum Paschalium, a haggadah in Latin translation by Johann Stephan Rittangel (1644)",
+    "title": "&#x1F4D6; סדר הגדה של פסח | Liber Rituum Paschalium, a haggadah in Latin translation by Johann Stephan Rittangel (1644)",
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
-        {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
         {
             "name": "Johann Stephan Rittangel (Latin translation)",
             "bio": "Johann Stephan Rittangel (Latin: Rittangelius) (b.1606 Forscheim near Bamberg – d. 1652 Königsberg ) was a Christian Hebraist. Born Jewish, he later converted to Catholicism, and later to Calvinism and Lutheranism. In 1640, Rittangel was  appointed professor of Oriental languages at the University of Königsberg (Prussia). In 1641, Rittangel visited a community of Karaite Jews in Trakai, before traveling to London and then to the Dutch Republic where, in Amsterdam, he taught Hebrew and possibly identified, for a time, as a Jew. In July 1642 he left the Low Countries to go to Königsberg, where he spent the rest of his life until his death in 1652. He obtained a Hebrew manuscript of the Sefer Yezirah through the Mennonite merchant Gerebrand Anslo, for a translation into Latin in 1642 (<em> Liber Jezirah qui Abrahamo Patriarchae adscribitur</em>). In 1644, he published his Latin translation of the Passover Haggadah. He made one of the earliest translations of Jewish prayers, under the title <em>Hochfeyerliche Sollennitaeten, Gebethe und Collecten Anstatt der Opfer, Nebst Andern Ceremonien so von der Jüdischen Kirchen am Ersten Neuen-Jahrs-Tag Gebetet und Abgehandelt Werden Müssen</em>, Königsberg, 1652. His posthumous work <em>Bilibra Veritatis</em> was written to substantiate the claim that the Targums prove the doctrine of the Trinity. This is also the subject of his <em>Veritas Religionis Christianæ</em> (Franeker, 1699).",
             "website": "https://en.wikipedia.org/wiki/Johann_Stephan_Rittangel",
             "avatar": "https://opensiddur.org/wp-content/uploads/2014/11/Keith-Evans-Green-Tree-Yellow-Field-CC-BY-SA-250x250.jpg",
             "profile_link": "https://opensiddur.org/profile/johann-stephan-rittangel"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2018-03-29",

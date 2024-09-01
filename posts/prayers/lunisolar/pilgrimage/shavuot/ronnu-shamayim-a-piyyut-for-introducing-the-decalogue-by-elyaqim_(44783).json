@@ -1,14 +1,7 @@
 {
     "title": "רָנּוּ שָׁמַֽיִם | Ronnu shamayim, a piyyut celebrating the Decalogue by Elyaqim",
-    "author": "Aharon N. Varady (editing/transcription)",
+    "author": "Anonymous (translation)",
     "coauthors": [
-        {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
         {
             "name": "Stephen Belsky",
             "bio": "A native of Brooklyn, New York, Stephen Belsky is a graduate of the Yeshiva of Flatbush, the State University of New York at Binghamton, and the Educators Program of the Pardes Institute of Jewish Studies in Jerusalem.  He received <em>semikha</em> at Yeshivat Chovevei Torah, and while studying there held internships at Beth David Synagogue in West Hartford, Connecticut, and the International Rabbinic Fellowship.  Before starting <em>semikha</em>, Stephen taught at the Schechter high school in Teaneck, New Jersey, and after ordination, he returned to education, teaching Jewish Studies in the middle and high school divisions of Yeshivat Akiva in Southfield, Michigan.  In addition to classroom teaching, Stephen has taught and lectured both in his local community and in synagogues across the eastern United States.",
@@ -36,6 +29,13 @@
             "website": "http://www.karaites.org",
             "avatar": "https://opensiddur.org/wp-content/uploads/2017/10/karaite-jews-of-america-logo-96x96.png",
             "profile_link": "https://opensiddur.org/profile/karaite-jews-of-america"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2022-06-03",

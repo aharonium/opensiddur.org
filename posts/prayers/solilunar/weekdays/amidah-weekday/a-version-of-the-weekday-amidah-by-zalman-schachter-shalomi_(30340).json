@@ -1,14 +1,7 @@
 {
     "title": "עמידה | Another version of the Weekday Amidah, by Rabbi Zalman Schachter-Shalomi",
-    "author": "Aharon N. Varady (editing/transcription)",
+    "author": "Unknown Author(s)",
     "coauthors": [
-        {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
         {
             "name": "Zalman Schachter-Shalomi",
             "bio": "Rabbi Dr. Zalman Meshullam Schachter-Shalomi, affectionately known as \"Reb Zalman\" (28 August 1924 – 3 July 2014) was one of the founders of the Jewish Renewal movement. Born in Żółkiew, Poland (now Ukraine) and raised in Vienna, he was interned in detention camps under the Vichy Regime but managed to flee the Nazi advance, emigrating to the United States in 1941. He was ordained as an Orthodox rabbi in 1947 within the ḤaBaD Hasidic movement while under the leadership of the sixth Lubavitcher Rebbe, Yosef Yitzchok Schneersohn, and served ḤaBaD communities in Massachusetts and Connecticut. He subsequently earned an M.A. in psychology of religion at Boston University, and a doctorate from the Hebrew Union College. He was initially sent out to speak on college campuses by the Lubavitcher Rebbe, but  in the early 1960s, after experimenting with \"the sacramental value of lysergic acid\", the main ingredient in LSD, leadership within ḤaBaD circles cut ties with him. He continued teaching the Torah of Ḥassidut until the end of his life to creative, free and open-minded Jewish thinkers with humility and kindness and established warm ecumenical ties as well. In September 2009, he became the first contributor of a siddur to the Open Siddur Project database of Jewish liturgy and related work. Reb Zalman supported the Open Siddur Project telling its founder, \"this is what I've been looking forward to!\" and sharing among many additional works of liturgy, an interview he had with Havurah magazine in the early to mid-1980s detailing his vision of \"<a href=\"http://opensiddur.org/development/press/database-davvenen-by-reb-zalman-schachter-shalomi-havurah/\">Database Davenen</a>.\" The Open Siddur Project is proud to be realizing one of Reb Zalman's long held dreams.",
@@ -22,6 +15,13 @@
             "website": "",
             "avatar": "https://opensiddur.org/wp-content/uploads/2014/11/Keith-Evans-Green-Tree-Yellow-Field-CC-BY-SA-250x250.jpg",
             "profile_link": "https://opensiddur.org/profile/unknown"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2020-02-16",

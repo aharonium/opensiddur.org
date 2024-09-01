@@ -3,13 +3,6 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Eugene Kohn",
             "bio": "Eugene Kohn (January 26, 1887 - April 1, 1977) was an American Reconstructionist rabbi, writer and editor. Born in Newark, New Jersey he attended the Jewish Theological Seminary of America and in 1912 received ordination. It was here that he met Rabbi Mordecai Kaplan who taught him homiletics. Between 1912 and 1939 he served as a congregational rabbi in Conservative synagogues in the U.S. states of Maryland, New Jersey, New York, Wisconsin and Ohio. He also served as the president of the Rabbinical Assembly 1936-1937. He played a central role in the Reconstructionist movement. He edited its journal <em>The Reconstructionist</em> and, alongside Kaplan and Ira Eisenstein, edited <em>The New Haggadah</em> (1941), <em>The Sabbath Prayer Book</em> (1945) and<em> The Reconstructionist Prayer Book</em> (1948). Alongside Jack Cohen, Eisenstein and Milton Steinberg he was one of Kaplan's main disciples.",
             "website": "https://en.wikipedia.org/wiki/Eugene_Kohn",
@@ -29,6 +22,13 @@
             "website": "https://en.wikipedia.org/wiki/Mordecai_Kaplan",
             "avatar": "https://opensiddur.org/wp-content/uploads/2017/09/mordecai-kaplan-96x96.jpg",
             "profile_link": "https://opensiddur.org/profile/mordecai-kaplan"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2020-12-22",

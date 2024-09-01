@@ -3,18 +3,18 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Miriam del Banco",
             "bio": "Miriam del Banco (27 June 1858 - 6 November 1931) was a writer, poet, translator, and educator. She was the daughter of Rabbi Max Del Banco (1825-1864), a reform rabbi with a congregation in Evansville, Indiana at the time of his death. Johanna (née Meyer), Miriam's mother, moved to St. Louis and there Miriam began her education in its public schools, displaying remarkable poetic talent. Later she was sent to her uncle at Cape Girardeau, Missouri, where she attended the State Normal School. After graduating with honors, she rejoined her mother, who in the mean time had moved to Chicago. There, in 1885, Ms. Del Banco began teaching in the public schools, and from 1889 onward, as the assistant principal at the Von Humboldt School. Later on she served as the principal of the McClellan and Motley schools in Chicago. In 1921, at the age of 63, she earned a PhD from DePaul University. She was a frequent contributor to both the Jewish and general press, having written a large number of poems, both Jewish and secular, and often under the pseudonym, \"the Pansy\" (after her favorite flower).",
             "website": "https://en.wikipedia.org/wiki/Miriam_Del_Banco",
             "avatar": "https://opensiddur.org/wp-content/uploads/2021/12/miriam-del-banco-e1674562613610-96x96.jpg",
             "profile_link": "https://opensiddur.org/profile/miriam-del-banco"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2022-06-01",

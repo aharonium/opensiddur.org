@@ -3,13 +3,6 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Morris Samuel Lazaron",
             "bio": "Morris Samuel Lazaron (1888–1979), was a Reform Jewish rabbi in the United States. Born in Savannah, Georgia, he was ordained by Hebrew Union College in 1914. He served as rabbi in Wheeling, West Virginia, for a year and in 1915 was appointed rabbi of the Baltimore Hebrew Congregation, the large and distinguished Reform synagogue in Baltimore where he served for 31 years as rabbi and rabbi emeritus. During World War I, he wrote <em>Side Arms: Readings and Meditations for Soldiers and Sailors</em> (1918). As rabbi he initiated youth-oriented programming, introduced innovative rituals, and was an early supporter of the interfaith movement, working with the National Conference of Catholics and Jews and traveling throughout the United States with a priest and a minister to represent the three faiths of America. Lazaron's retirement from this office in 1949 was linked to his active identification with the anti-Zionist American Council for Judaism, of which he was a founder and vice president. This position was not problematic with his congregation until after the Holocaust, and especially after the establishment of the State of Israel. This led to the severing of his relationship with Baltimore Hebrew, including his resignation as rabbi emeritus. He was also a member of the National Council of the American Friends of the Middle East. He wrote several works, including <em>Ask the Rabbi</em> (1928); <em>The Consolidation of Our Father</em> (1928); <em>Homeland or State: The Real Issue</em> (1940); <em>In the Shadow of Catastrophe</em> (1956); <em>Is This the Way?</em> (1942); and <em>Olive Trees in a Storm</em> (1955).",
             "website": "https://www.jewishvirtuallibrary.org/lazaron-morris-samuel",
@@ -22,6 +15,13 @@
             "website": "https://www.digital.janeaddams.ramapo.edu/items/show/2905",
             "avatar": "https://opensiddur.org/wp-content/uploads/2023/01/howard-allen-bridgman-96x96.jpg",
             "profile_link": "https://opensiddur.org/profile/howard-allen-bridgman"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2023-01-19",

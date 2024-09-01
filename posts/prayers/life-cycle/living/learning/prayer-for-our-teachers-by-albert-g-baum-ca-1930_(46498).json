@@ -1,20 +1,20 @@
 {
     "title": "A Prayer for Our Teachers, by Rabbi Albert G. Baum (ca. 1930s)",
-    "author": "Aharon N. Varady (editing/transcription)",
+    "author": "Albert G. Baum",
     "coauthors": [
-        {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
         {
             "name": "Albert G. Baum",
             "bio": "Rabbi Albert Gustavus Baum (1903-1996) was a Reform Jewish rabbi and organizer of new congregations for the New York Federation of Reform Synagogues. After graduating from City College in New York in 1923, he continued with graduate work at Columbia. At the Rabbi Stephen S. Wise Jewish Institute of Religion in New York, he was awarded the Philip Waldheim Prize in Social Service in 1927 and was the Free Synagogue Social Service Fellow in 1927-28. While a rabbinical student, he served as principal of the Park Avenue Synagogue Hebrew School and Temple Israel in Amsterdam, New York. After being ordained as a rabbi in 1930. he was appointed to Congregation Gemiluth Chassodim (a/k/a, The Temple) in Alexandria, Louisiana. He was the chosen delegate to the Rotary International Convention at Nice, France in 1937 and represented B'nai B'rith, District №7 as a delegate to their conventions. He also served as the Jewish Welfare Board representative for Central Louisiana, former vice-president of the Louisiana State Conference on Social Welfare, and as a member of the National Council of United Palestine Appeal. In 1942, he became a rabbi chaplain for the US Navy over the course of World War II. After workinf for the New York Federation of Reform Synagogues he joined the faculty of HUC in New York.",
             "website": "http://collections.americanjewisharchives.org/ms/ms0412/ms0412.html",
             "avatar": "https://opensiddur.org/wp-content/uploads/2022/09/albert-g-baum-96x96.png",
             "profile_link": "https://opensiddur.org/profile/albert-g-baum"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2022-09-02",

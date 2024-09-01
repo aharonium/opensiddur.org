@@ -10,18 +10,18 @@
             "profile_link": "https://opensiddur.org/profile/zalman-schachter-shalomi"
         },
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Abayyé ben Kaylil",
             "bio": "Oft-quoted in the Babylonian Talmud, Abayyé (also, Abaye, Hebrew: אַבַּיֵי‎‎) was an Amoraic rabbi born about the close of the 3rd century CE and who died 339 CE. His father, Kaylil, was the brother of Rabbah bar Naḥmani, a teacher at the Yeshiva (Rabbinic Academy) of Pumbedita. Abayyé's real name was Naḥmani, after his grandfather. Left an orphan at an early age, he was adopted by his uncle, Rabbah bar Naḥmani, who nicknamed him Abayyé (\"Little Father\"), to avoid confusion (perhaps out of respect for his father) with his grandfather of the same name; thenceforth he was known as Abayyé, without any other title. It is a curious fact that he perpetuated the memory of his foster-mother by mentioning her name in many popular recipes and dietetic precepts. He introduced each recipe with the phrase, \"My mother told me.\" Abayyé's teachers were his uncle Rabbah and Yosef bar Ḥama, both of whom successively became presidents of the Pumbedita Academy. When Yosef died (324 CE), this honor was conferred upon Abayyé, who retained it until his death some five years later. Rabbah trained him in the application of the dialectic method to halakhic problems, and Yosef, with his stores of traditional lore, taught him to appreciate the value of positive knowledge. (adapted from <a href=\"https://en.wikipedia.org/wiki/Abaye\">wikipedia</a>)",
             "website": "https://en.wikipedia.org/wiki/Abaye",
             "avatar": "https://opensiddur.org/wp-content/uploads/2014/11/Keith-Evans-Green-Tree-Yellow-Field-CC-BY-SA-250x250.jpg",
             "profile_link": "https://opensiddur.org/profile/abaye-ben-kaylil"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2017-09-02",

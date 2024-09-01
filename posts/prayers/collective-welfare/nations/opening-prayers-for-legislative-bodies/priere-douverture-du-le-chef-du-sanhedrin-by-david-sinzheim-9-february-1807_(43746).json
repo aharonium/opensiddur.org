@@ -1,14 +1,7 @@
 {
     "title": "Prière d'ouverture du le chef du Sanhédrin | Opening prayer of the head of the Grand Sanhedrin, by Rabbi David Sinẓheim (9 February 1807)",
-    "author": "Aharon N. Varady (editing/transcription)",
+    "author": "Assembly of Jewish Notables",
     "coauthors": [
-        {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
         {
             "name": "Joseph David Sinẓheim",
             "bio": "Joseph David Sinẓheim (also, Sintzheim and Zinsheimer, 1745 – November 11, 1812 in Paris) was the chief rabbi of Strasbourg. Sinẓheim was the most learned and prominent member of the Assembly of Notables convened by Napoleon I on May 30, 1806. The task of answering the questions laid before the assembly by the imperial commissioner was entrusted to Sinẓheim, who fulfilled his duties (July 30-August 3, 1806) to the satisfaction of the assembly as well as of the commissioner and even of Napoleon himself. The German sermon which he delivered in the synagogue of Paris in honor of the emperor's birthday, on August 15, also strengthened Napoleon's favorable opinion of the Jews, who received the imperial promise that their rights as French citizens should not be withdrawn. On February 9, 1807, four days after the Assembly of Notables was dissolved, the Grand Sanhedrin was convened; its chairman (<em>nasi</em>), appointed by the minister of the interior, was Sinẓheim, who had probably suggested the assembly, having been frequently consulted by the imperial commissioner. The consistorial constitution, provided by the decree of March 17, 1808, opened a new field of activity for Sinẓheim, who was elected chairman of the Central Consistory of France. He was regarded as the foremost French Talmudist of his time, and was the author of the <em>Yad David</em>. He was son of Rabbi Isaac Sinẓheim of Treves, and brother-in-law of Herz Cerfbeer.",
@@ -29,6 +22,13 @@
             "website": "",
             "avatar": "https://opensiddur.org/wp-content/uploads/2022/03/the-great-sanhedrin-high-court-mary-evans-picture-library-96x96.jpg",
             "profile_link": "https://opensiddur.org/profile/assembly-of-jewish-notables"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2022-04-07",

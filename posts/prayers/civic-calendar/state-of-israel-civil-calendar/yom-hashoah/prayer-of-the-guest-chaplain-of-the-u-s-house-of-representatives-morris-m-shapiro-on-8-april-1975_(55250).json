@@ -1,14 +1,7 @@
 {
     "title": "Prayer of the Guest Chaplain of the U.S. House of Representatives: Rabbi Morris M. Shapiro on 8 April 1975",
-    "author": "Aharon N. Varady (editing/transcription)",
+    "author": "Morris M. Shapiro",
     "coauthors": [
-        {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
         {
             "name": "Morris M. Shapiro",
             "bio": "Rabbi Morris Shapiro (1920-2010), born in Goraj, a village near Lublin, Poland, was a Conservative movement rabbi in the United States. He studied at the Yeshivat Chochmei Lublin and was ordained in Poland before World War II. Hidden for two years by Polish Christians and later hiding in the woods, he survived the Holocaust, but most of his family perished. In 1948, he came to the United States. In the 18 years that followed, he led congregations in Berlin, NH; Greenport, NY; Grand Forks, ND; Waco, TX; and Toms River, NJ. While in North Dakota, he also acquired two degrees -- a bachelor's in education and a master's in clinical psychology from the University of North Dakota. In 1966, he became the Rabbi of the South Huntington (New York) Jewish Center, a position he held for 23 years. Not long after his retirement, Rabbi Shapiro served as Interim Rabbi for two other Conservative synagogues in Suffolk County, Long Island -- the North Shore Jewish Center in East Setauket (1990-1991) and the Dix Hills Jewish Center (1992). He later held weekly Torah study sessions with members of the South Huntington/Dix Hills community, who lovingly referred to themselves as \"Rabbi Shapiro's groupies.\" Rabbi Shapiro was also Past President of the Rabbinical Assembly of Nassau-Suffolk, a former member of the Committee on Jewish Law and Standards (CJLS) of the Conservative movement, and a teacher and mentor to many students at the Bet Midrash at the Jewish Theological Seminary of America. He was the author of the influential paper, \"Cremation in the Jewish Tradition\" whose recommendations were adopted by the CJLS in 1986.",
@@ -22,6 +15,13 @@
             "website": "https://en.wikipedia.org/wiki/Congressional_Record",
             "avatar": "https://opensiddur.org/wp-content/uploads/2024/02/Congressional-Record-96x96.png",
             "profile_link": "https://opensiddur.org/profile/united-states-congressional-record"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2024-04-05",

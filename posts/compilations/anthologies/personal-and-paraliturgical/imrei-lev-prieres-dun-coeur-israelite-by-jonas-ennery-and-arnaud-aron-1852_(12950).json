@@ -1,14 +1,7 @@
 {
-    "title": "&#128214; אמרי לב (Imrei Lev) Prières D’un Cœur Israélite, a collection of paraliturgical prayers and teḥinot in French by Jonas Ennery & Rabbi Arnaud Aron (1848/53)",
-    "author": "Aharon N. Varady (translation)",
+    "title": "&#x1F4D6; אמרי לב (Imrei Lev) Prières D’un Cœur Israélite, a collection of paraliturgical prayers and teḥinot in French by Jonas Ennery & Rabbi Arnaud Aron (1848/53)",
+    "author": "Consistoire central israélite de France",
     "coauthors": [
-        {
-            "name": "Aharon N. Varady (translation)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer translator for the Open Siddur Project. If you find any mistakes in his translations, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot Naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady/\">transcribes prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> for the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://opensiddur.org/profile/aharon-nissen-varady/",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-n-varady"
-        },
         {
             "name": "Jonas Ennery",
             "bio": "Jonas Ennery (Jan. 2, 1801, Nancy - May 19, 1863, Brussels) was a French deputy. He was for twenty-six years attached to the Jewish school of Strasbourg, of which he became the head. In collaboration with Hirth, he compiled a Dictionnaire Général de Géographie Universelle (4 vols., Strasburg, 1839–41), for which Cuvier wrote a preface. Soon afterward he published Le Sentier d'Israël, ou Bible des Jeunes Israélites (Paris, Metz, and Strasburg, 1843). At the request of the Société des Bons Livres he took part in the editorship of Prières d'un Cœur Israélite, which appeared in 1848. In 1849, despite anti-Jewish rioting in Alsace, Ennery was elected representative for the department of the Lower Rhine, and sat among the members of the \"Mountain.\" He devoted his attention principally to scholastic questions. After the coup d'état he held to his socialist republican views and resisted the new order of things. For this, in 1852 he was exiled from France for life. He retired to Brussels, where he lived as a teacher until his death. Ennery's brother, Marchand Ennery, was the chief rabbi of Paris.",
@@ -29,6 +22,13 @@
             "website": "https://fr.wikipedia.org/wiki/Consistoire_central_israélite_de_France",
             "avatar": "https://opensiddur.org/wp-content/uploads/2022/03/Consistoire-central-israelite-de-France-96x96.png",
             "profile_link": "https://opensiddur.org/profile/consistoire-central-israelite-de-france"
+        },
+        {
+            "name": "Aharon N. Varady (translation)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer translator for the Open Siddur Project. If you find any mistakes in his translations, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot Naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-transcription/\">transcribes prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> for the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-translation"
         }
     ],
     "date": "2016-03-09",

@@ -3,13 +3,6 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Henry E. Kraus",
             "bio": "Rabbi Dr. Henry Emery (Imre) Kraus (August 27, 1914-March 4, 2008), born in Pápa, Hungary, was a the chief rabbi of western Hungary after World War II and, after fleeing Hungary in 1957, a Conservative movement rabbi in the United States. He was ordained at the Jewish Theological Seminary at Budapest, Hungary, and received his Ph.D. at the University of Budapest. While he was still a rabbinical student, the Siklós community elected him to be their rabbi. He served there as the chief rabbi of three and a half districts in Baranya County until the deportation. Along with his congregation, he was deported to Auschwitz and later, Buchenwald,  Magdeburg, and Flossenburg. The American 3d Army liberated him in 1945. He returned to Hungary where he was elected to be the chief rabbi of Kaposvár (town and district). Rabbi Kraus was one of the 5-member Executive Committee of the Rabbinical Seminary and one of the 12-member governing body of the Hungarian Jews. He was one of the 7 members of the board of governors of the Jewish Theological Seminary of Budapest, where he lectured on the “practical rabbinate.” He also lectured at the universities on philosophy and ancient history and was a frequent speaker on Radio Budapest. In the United States, he served as rabbi for the Beth Torah community of Gardena, Los Angeles and received an MA in Hebrew literature. In 1968, he began as rabbi for Temple Beth Ami, West Covina, California. A member of the Rabbinical Assembly, Rabbi Kraus served as one of the vice presidents of the assembly's western region and as president of the Los Angeles Eastern Area Board of Rabbis. In 1975 the State of Israel honored him with the Ben Gurion Award—he was the first recipient of this award in California—and in June 1976 the Jewish Theological Seminary of America awarded him a doctor of divinity, <em>honoris causa</em>.",
             "website": "",
@@ -22,6 +15,13 @@
             "website": "https://en.wikipedia.org/wiki/Congressional_Record",
             "avatar": "https://opensiddur.org/wp-content/uploads/2024/02/Congressional-Record-96x96.png",
             "profile_link": "https://opensiddur.org/profile/united-states-congressional-record"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2024-03-30",

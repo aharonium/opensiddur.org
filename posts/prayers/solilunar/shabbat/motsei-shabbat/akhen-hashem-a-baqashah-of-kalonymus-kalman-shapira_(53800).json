@@ -3,13 +3,6 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Yaakov Klein (translation)",
             "bio": "Rabbi Yaakov Klein is an author, musician, and lecturer devoted to sharing the inner light of Torah through his books, music and lectures. Over the last 10 years, R' Yaakov has shared his passion for the Chassidic wisdom and the inner light of Torah in a plethora of educational capacities including as teacher for the Illinois Center for Jewish Studies and Yeshivat Mevaseret Tzion, as the founding director of the Lost Princess Initiative (LPI), and as a freelance content creator and educator for many organizations including Chabad.org, the Breslov Research Center, Meaningful Minute, TYH Nation, and the Chizuk Mission. Along with his wife Shira and their two beautiful children, R' Yaakov has moved to the UK to join Jewish Futures as the founding director of Eilecha, a new organization focused on creating opportunities for spiritual growth and experiential education in the local community and beyond.",
             "website": "https://www.jfutures.org/heads/rabbi-yaakov-klein",
@@ -22,6 +15,13 @@
             "website": "https://en.wikipedia.org/wiki/Kalonymus_Kalman_Shapira",
             "avatar": "https://opensiddur.org/wp-content/uploads/2023/12/kalonymous-kalman-shapira-96x96.jpg",
             "profile_link": "https://opensiddur.org/profile/kalonymus-kalman-shapira"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2023-12-31",

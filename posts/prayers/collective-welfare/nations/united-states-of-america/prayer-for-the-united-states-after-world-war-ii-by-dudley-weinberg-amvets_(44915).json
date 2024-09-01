@@ -1,14 +1,7 @@
 {
     "title": "Prayer for the United States after World War Ⅱ, by Rabbi Dudley Weinberg (AMVETS, ca. 1947)",
-    "author": "Aharon N. Varady (editing/transcription)",
+    "author": "American Veterans (AMVETS)",
     "coauthors": [
-        {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
         {
             "name": "Dudley Weinberg",
             "bio": "Rabbi Dudley Weinberg (1915-1976) graduated from Carleton College in Northfield, Minnesota and was ordained by Hebrew Union College in 1941. He attended chaplain school at Harvard University and served in the Army for two years during WWII in New Guinea and the Philippines, receiving the Bronze Star and the rank of Major. Weinberg was instrumental in organizing one of the largest Passover Seders ever held in the Philippines shortly after the liberation of the country by United States armed forces. He was also involved in raising money for the rebuilding of the synagogue in Manila that had been demolished by the Japanese. Weinberg was senior rabbi at Temple Ohabei Shalom in Brookline, Massachusetts from 1946 to 1955, before becoming senior rabbi of Congregation Emanu-El B’ne Jeshurun in Milwaukee, Wisconsin from 1955 until his death in 1976. In 1949, Weinberg was chosen to give the prayer for the dedication of the carillon at the National Cathedral in Washington, D.C. with President Harry Truman in attendance. He served on the Executive Board of the Central Conference of American Rabbis, was a trustee of the Union of American Hebrew Congregations and was chairman of the CCAR-UAHC Joint Commission on Worship and chairman of the UAHC, HUC-JIR, and CCAR Platform Committee. Weinberg formed the Wisconsin Council of Rabbis, was lecturer in Judaic Studies at Marquette University in Milwaukee, and was chair of the Rabbinical Advisory Committee of the United Jewish Appeal. He also worked for the rights of Soviet Jews as well as for equal housing and racial equality in Milwaukee. (Adapted from the Jewish Museum of Milwaukee)",
@@ -22,6 +15,13 @@
             "website": "https://en.wikipedia.org/wiki/AMVETS",
             "avatar": "https://opensiddur.org/wp-content/uploads/2022/06/AMVETS-Logo.svg-96x96.png",
             "profile_link": "https://opensiddur.org/profile/american-veterans"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2022-06-08",

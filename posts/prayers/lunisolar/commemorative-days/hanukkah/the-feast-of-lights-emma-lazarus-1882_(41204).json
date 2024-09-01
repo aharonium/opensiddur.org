@@ -3,18 +3,18 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Emma Lazarus",
             "bio": "Emma Lazarus (July 22, 1849 – November 19, 1887) was a Sepharadi Jewish-American poet, writer, translator, and Georgist from New York City. Her sonnet \"The New Colossus\" (1883), was inscribed and installed in 1903 on a bronze plaque on the pedestal of the Statue of Liberty. Upon the proscriptive May Laws of 1881 Lazarus rose to the defense of Russian-Jewish immigrants in powerful articles contributed to The Century (May, 1882, and February 1883). Lazarus became more interested in her Jewish ancestry after reading the George Eliot novel <em>Daniel Deronda</em>, and as she heard of the Russian pogroms that followed the assassination of Tsar Alexander II in 1881. As a result of this anti-Semitic violence, thousands of destitute Ashkenazi Jews emigrated from the Russian Pale of Settlement to New York. Lazarus began to advocate on behalf of indigent Jewish refugees. She helped establish the Hebrew Technical Institute in New York to provide vocational training to assist destitute Jewish immigrants to become self-supporting. In 1883, she founded the <a href=\"https://en.wikipedia.org/wiki/Jewish_Colonization_Association\">Society for the Improvement and Colonization of East European Jews</a>. An important forerunner of the Zionist movement, Lazarus argued for the creation of a Jewish homeland thirteen years before Theodor Herzl began to use the term \"Zionism.\" Contact with the Jewish emigrés from Russia led her to study Hebrew, Torah, Judaism, and Jewish history. Her <em>Songs of a Semite</em> (1882) is considered to be the earliest volume of Jewish-American poetry.",
             "website": "https://en.wikipedia.org/wiki/Emma_Lazarus",
             "avatar": "https://opensiddur.org/wp-content/uploads/2018/07/emma-lazarus-96x96.jpg",
             "profile_link": "https://opensiddur.org/profile/emma-lazarus"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2021-11-30",

@@ -3,13 +3,6 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Shimon Halkin (translation)",
             "bio": "Shimon Halkin (Hebrew: שמעון הלקין) (born October 30, 1899; died 1987) was an Israeli poet, novelist, teacher, and translator. He was born in Dovsk near Rogachev (now in Belarus), then in the Russian Empire in 1899. Halkin emigrated to New York City with his family in 1914. He lived and studied in the United States from 1914 to 1932. He studied at the Hebrew Union College and Columbia University. In the US, he taught Hebrew Literature and Language. He worked as an English teacher in Tel Aviv from 1932 to 1939, but then returned to America, to become professor of Hebrew Literature at the Jewish Institute of Religion in New York. He made his final move to Israel in 1949, when he succeeded Joseph Klausner as Professor of Modern Hebrew Literature and became head of the department at the Hebrew University of Jerusalem.",
             "website": "https://en.wikipedia.org/wiki/Simon_Halkin",
@@ -22,6 +15,13 @@
             "website": "https://en.wikipedia.org/wiki/Walt_Whitman",
             "avatar": "https://opensiddur.org/wp-content/uploads/2020/02/walt-whitman-96x96.png",
             "profile_link": "https://opensiddur.org/profile/walt-whitman"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2020-02-12",

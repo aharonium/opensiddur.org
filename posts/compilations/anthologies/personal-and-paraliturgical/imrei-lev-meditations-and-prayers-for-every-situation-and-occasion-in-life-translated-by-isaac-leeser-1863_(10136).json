@@ -1,14 +1,7 @@
 {
-    "title": "&#128214; אמרי לב | Meditations and Prayers, an unendorsed revision by Isaac Leeser (1863) of an abridged translation by Hester Rothschild (1855) of a collection of teḥinot by Rabbi Arnaud Aron & Jonas Ennery (1852)",
+    "title": "&#x1F4D6; אמרי לב | Meditations and Prayers, an unendorsed revision by Isaac Leeser (1863) of an abridged translation by Hester Rothschild (1855) of a collection of teḥinot by Rabbi Arnaud Aron & Jonas Ennery (1852)",
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
-        {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
         {
             "name": "Isaac Leeser (translation)",
             "bio": "Isaac Leeser (December 12, 1806 – February 1, 1868) was an American, Ashkenazi Jewish lay minister of religion, author, translator, editor, and publisher; pioneer of the Jewish pulpit in the United States, and founder of the Jewish press of America. He produced the first Jewish translation of the Bible into English, as well as editions of the liturgy. He is considered one of the most important American Jewish personalities of nineteenth century America.",
@@ -29,6 +22,13 @@
             "website": "",
             "avatar": "https://opensiddur.org/wp-content/uploads/2015/02/Arnaud-Aron-e1424408737643-96x96.png",
             "profile_link": "https://opensiddur.org/profile/arnaud-aron"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2014-11-23",

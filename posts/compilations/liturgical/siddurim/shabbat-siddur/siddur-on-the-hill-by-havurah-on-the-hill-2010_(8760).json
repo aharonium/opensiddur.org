@@ -1,20 +1,20 @@
 {
-    "title": "&#128214; Siddur on the Hill for Friday Night, by Ḥavurah on the Hill at the Vilna Shul, Boston (trans. Rabbi Sam Seicol, 2010)",
+    "title": "&#x1F4D6; Siddur on the Hill for Friday Night, by Ḥavurah on the Hill at the Vilna Shul, Boston (trans. Rabbi Sam Seicol, 2010)",
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
-        {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
         {
             "name": "Rabbi Sam Seicol",
             "bio": "Rabbi Sam Seicol was ordained as a Reform rabbi in 1978 and is a volunteer at the Vilna Shul in Boston. There he offers classes and programs on a wide range of topics such as Understanding Judaism, Aging and Spirituality, Music and Humor as Pathways to Spiritual Well-being, and History and Development of American Jewish Humor.  He is part-time Interfaith Chaplain at Mass Eye and Ear in Boston and part-time Rabbi at Temple Israel of Dover, New Hampshire. Rabbi Seicol has served as MIT’s Hillel Community Education &amp; Engagement Director. He previously worked with congregations as an interim rabbi in Hyannis, Pittsfield, and Tampa. Before that he was the Chaplain/Director of Religious Services at the Hebrew Rehabilitation Center for the Aged in Boston from 1994 through 2003, and has worked in the field of Geriatric Chaplaincy since 1982.",
             "website": "",
             "avatar": "https://opensiddur.org/wp-content/uploads/2014/09/sam-seicol-96x96.jpg",
             "profile_link": "https://opensiddur.org/profile/sam-seicol"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2014-03-30",

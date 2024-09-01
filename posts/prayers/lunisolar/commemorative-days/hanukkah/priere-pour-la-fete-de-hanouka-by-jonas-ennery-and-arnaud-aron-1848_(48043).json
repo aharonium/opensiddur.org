@@ -1,14 +1,7 @@
 {
     "title": "Prière Pour la Fête de Hanouka | Prayer for the Festival of Ḥanukkah, by Jonas Ennery & Rabbi Arnaud Aron (1848)",
-    "author": "Aharon N. Varady (editing/transcription)",
+    "author": "Consistoire central israélite de France",
     "coauthors": [
-        {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
         {
             "name": "Arnaud Aron",
             "bio": "Arnaud Aron (March 11, 1807, in Sulz unterm Walde, Alsace – April 3, 1890), the Grand Rabbi of Strasbourg, began his Talmudic studies at an early age at Hagenau and continued them at Frankfort-on-the-Main. In 1830 he became rabbi of the small community of Hegenheim in Upper Alsace; and of Strasbourg in 1833. As he was under thirty, the age prescribed by law, he required a special dispensation to qualify for the office. In Strasbourg, Aron acquired the reputation of an eloquent and inspiring preacher and a zealous communal worker. He assisted in founding the School of Arts and Trades and took active interest in other useful institutions. In 1855 he convened an assembly of the rabbis of the department of the Lower Rhine for the consideration of religious questions. Aron was the author of the catechism used for confirmation as prescribed by the Consistory of Lower Alsace. In 1866 the French government acknowledged his services by appointing him a Knight of the Legion of Honor. In 1870, while Strasbourg was besieged, it was he, together with the archbishop, who raised the white flag on the cathedral. Subsequently he was decorated by the German emperor.",
@@ -29,6 +22,13 @@
             "website": "https://fr.wikipedia.org/wiki/Consistoire_central_israélite_de_France",
             "avatar": "https://opensiddur.org/wp-content/uploads/2022/03/Consistoire-central-israelite-de-France-96x96.png",
             "profile_link": "https://opensiddur.org/profile/consistoire-central-israelite-de-france"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2022-12-21",

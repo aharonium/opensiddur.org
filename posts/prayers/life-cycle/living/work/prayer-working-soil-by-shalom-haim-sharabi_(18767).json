@@ -3,18 +3,18 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Shalom Ḥayyim Sharabi",
             "bio": "Rabbi Shalom Ḥayyim Sharabi, (רבי שלום חיים שרעבי) was born 1872/1873 in the city of Kubir, in the Sharab district of Yemen to the family of the rabbi and kabbalist, Rabbi Ḥayyim U'ar Sharabi (חיים עואר שרעבי). At the age of 18, he received his smicha. For twenty-three years, he studied at the Beit Midrash of Rabbi Yosef Sa'adia Darhami Cohen. Together with his father, he emigrated to Erets Yisrael (then Ottoman Palestine) in 1912. According to his obituary in the newspaper HaTsefah on 20 Feb 1946, \"His exodus from Sharab made a tremendous impression, and consequently, the Jews of Sharab began to prepare for aliyah. For nearly ten years he worked in Israel in agriculture and construction and lived a life of poverty and sorrow. With all the difficult crises and the difficult physical work, he continued his holy work, and the words of Torah and Mystery did not escape his mouth even during the work of the hoe. When he was fifty years old, he left the physical work and continued on as a kosher slaughterer.\" He died on 9 Jan 1946 (7 Shvat 5706).",
             "website": "https://en.wikipedia.org/wiki/Shalom_Sharabi",
             "avatar": "https://opensiddur.org/wp-content/uploads/2014/11/Keith-Evans-Green-Tree-Yellow-Field-CC-BY-SA-250x250.jpg",
             "profile_link": "https://opensiddur.org/profile/shalom-hayyim-sharabi"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2018-01-28",

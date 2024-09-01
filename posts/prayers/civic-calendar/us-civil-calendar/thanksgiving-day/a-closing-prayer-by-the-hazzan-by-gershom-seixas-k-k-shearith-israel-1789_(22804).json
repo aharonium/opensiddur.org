@@ -3,18 +3,18 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Gershom Mendes Seixas",
             "bio": "Gershom Mendes Seixas (1745–1816) led the Sepharadi Congregation Shearith Israel in New York from 1768 to 1776 and again from 1784 to 1816. Although not an ordained Rabbi, he served as Ḥazzan and was among the first Jewish communal leaders who was born and educated in the United States. He was also the first American Jewish synagogue leader to give a d'var torah (sermon) in English. Seixas was an ardent patriot during the American Revolution. He moved the congregation to Philadelphia's Congregation Mikveh Israel and was the Ḥazzan there for the duration of the war. In 1783, he successfully sought revisions in a constitutional clause newly adopted by the Pennsylvania State Legislature, which required a religious examination for seekers of public office. Seixas was one of the fourteen recognized ministers in New York in 1789 who participated in George Washington's first inauguration at Federal Hall in New York City. He delivered the first Thanksgiving address in an American synagogue following the adoption of the United States Constitution. (via his <a href=\"https://en.wikipedia.org/wiki/Gershom_Mendes_Seixas\">article in wikipedia</a>)",
             "website": "https://en.wikipedia.org/wiki/Gershom_Mendes_Seixas",
             "avatar": "https://opensiddur.org/wp-content/uploads/2016/02/gershom-mendes-seixas-96x96.jpg",
             "profile_link": "https://opensiddur.org/profile/gershom-mendes-seixas"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2018-11-27",

@@ -3,13 +3,6 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Tim Bernard (translation)",
             "bio": "Tim Daniel Bernard is Director of Digital Learning and Engagement at <a href=\"http://www.jtsa.edu\">the Jewish Theological Seminary</a>. Previously, he was the Community Manager at <a href=\"http://www.seekingalpha.com\">Seeking Alpha</a> and Grants and Communications Manager at <a href=\"http://www.pelie.org/\">PELIE</a>, having taught Humash and Rabbinics at the <a href=\"http://www.hannahsenesh.org/\">Hannah Senesh Community Day School</a> in Brooklyn for two years. He was also Kollel Fellow for a year at <a href=\"http://www.mechonhadar.org/yeshivat-hadar1\">Yeshivat Hadar</a>. Tim was ordained at <a href=\"http://www.jtsa.edu/\">JTS</a> in 2009, where he also graduated from the Graduate School with an MA in Talmud &amp; Rabbinics. He grew up in London and earned an undergraduate degree in Philosophy from the <a href=\"http://www.bristol.ac.uk/philosophy/\">University of Bristol</a>, which he followed with a year of learning at the <a href=\"http://www.conservativeyeshiva.org/\">Conservative Yeshiva</a> in Jerusalem. While in Britain, he was involved for many years in the annual <a href=\"http://www.limmud.org/\">Limmud</a> Conference, as both participant and organizer. Tim is an active member of <a href=\"http://www.kehilathadar.org/\">Kehilat Hadar</a>, where he gives regular divrei Torah (many of which can be found on this site), and co-chaired the Shavuot Retreat in 2011. He is married to <a href=\"http://ashirakonigsburg.com\">Rabbi Ashira Konigsburg</a>, with whom he enjoys traveling, hiking and visiting modern art galleries.",
             "website": "http://timbernard.wordpress.com",
@@ -22,6 +15,13 @@
             "website": "https://en.wikipedia.org/wiki/Louis_Ginzberg",
             "avatar": "https://opensiddur.org/wp-content/uploads/2010/08/Louis_Ginzberg-96x96.jpg",
             "profile_link": "https://opensiddur.org/profile/louis-ginzberg"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2010-08-07",

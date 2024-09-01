@@ -3,13 +3,6 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Haim Asa",
             "bio": "Rabbi Haim Asa (1931-2014), born in Bulgaria, was a Reform movement rabbi in the United States. In 1944, he fled to Mandate Palestine and was educated at Aliyat Hanoar schools and at Mikve Israel Agricultural School. At the age of 15, he was admitted to the Gadna-Youth division of the underground Haganah, and he was sent to Platoon Commanders School in the summer of 1947. and served in the Israeli Defense Forces in the 1950s. After graduation from the Mikve Israel School, Rabbi Asa enlisted in the Israeli Defense Forces and graduated from the Israel Officers Academy. In 1950 he was one of the founders of the \"NACHAL” division of the Israeli Defense Force, and in 1952 he was the first \"NACHAL” officer to graduate from the paratroopers academy. Following his army career he served in the IDF intelligence branch until coming to the United States in 1954. He was ordained in 1963 by Hebrew Union College in Los Angeles. From 1963 and until 1966, Rabbi Asa was the Latin American Director of the World Union for Progressive Judaism in Buenos Aires, Argentina. Returning to California in 1966, he became rabbi at Temple Beth Tikvah. Rabbi Asa was a president of the Pacific Association of Reform Rabbis, a president of the Orange County Board of Rabbis and the Fullerton Interfaith Ministerial Association. He served several terms as a member of the Jewish Federation Board of Directors and was influential in the development of Federation in its early years.  During the early 1970s, Rabbi Asa was a member of the Department of Religious Studies at California State University, Fullerton, and while teaching there provided spiritual mentorship for Jewish students. In 1980-81, Rabbi Asa was instrumental in the efforts to acknowledge the role of Bulgaria and the Bulgarian people for saving of its entire Jewish population (50,000) residing in Bulgaria during the Holocaust.",
             "website": "",
@@ -22,6 +15,13 @@
             "website": "https://en.wikipedia.org/wiki/Congressional_Record",
             "avatar": "https://opensiddur.org/wp-content/uploads/2024/02/Congressional-Record-96x96.png",
             "profile_link": "https://opensiddur.org/profile/united-states-congressional-record"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2024-06-17",

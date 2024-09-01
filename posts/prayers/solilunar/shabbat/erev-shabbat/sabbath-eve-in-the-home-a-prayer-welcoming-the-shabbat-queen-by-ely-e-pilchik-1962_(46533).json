@@ -3,18 +3,18 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Ely Emanuel Pilchik",
             "bio": "Rabbi Ely Emanuel Pilchik (1913-2003) was an American Jewish Reform rabbi, Born in Baranowiz, Poland, he emigrated in 1920 to the United States. After graduating from the University of Cincinnati in 1935, he was ordained by HUC in 1939 and soon joined the faculty of the University of Maryland while serving as assistant rabbi at Har Sinai Temple in Baltimore until 1942. World War II interrupted his appointment as rabbi for Temple Israel in Tulsa, Oklahoma, when he became a rabbi chaplain for the US Navy. After the war, he became rabbi of temple B'nai Jeshurun on Newark, New Jersey until 1981. Through the 1950s, he served on the Essex County Synagogue Council and the NJ Board of Rabbis, the Association of Reform Rabbis of New York, the executive board of CCAR, and as president of the Jewish Book Council of America. He served on the Board of Governors of HUC-JIR, and from 1977-1979, as president of CCAR. A scholar, he authored a number of books including <em>Hillel</em> (1951), <em>Maimonides' Creed</em> (1952), and <em>Duties of the Heart</em> (1953).",
             "website": "",
             "avatar": "https://opensiddur.org/wp-content/uploads/2022/09/ely-e-pilchik-1947-cropped-96x96.jpg",
             "profile_link": "https://opensiddur.org/profile/ely-emanuel-pilchik"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2022-09-04",

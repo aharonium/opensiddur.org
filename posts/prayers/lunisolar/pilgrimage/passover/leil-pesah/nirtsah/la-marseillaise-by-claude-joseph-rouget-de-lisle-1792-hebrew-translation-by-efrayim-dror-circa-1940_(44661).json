@@ -3,13 +3,6 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Efrayim Dror (translation)",
             "bio": "Efrayim Dror (Troche) (Heb: <span class=\"hebrew\">אפרים דרור (טְרוֹכֶה)</span>; 1903-1981), born in Warsaw, was a Hebrew translator of musical texts and an Israeli music critic. In 1925, he immigrated to Mandate Palestine. During World War II he translated songs of warriors and anthems of the Allies, which were distributed to the soldiers of the Jewish Brigade. Beginning in the 1940s, he translated songs for the Erets Israel Opera (later the Israeli Opera). In the 1950s, he was also the regular translator of Eitan Lustig, conductor of the Tel Aviv Chamber Choir, translating many books and works performed in the concert hall in seven languages. He was a music critic and a member of the Committee for Musical Terms of the Academy of the Hebrew Language.",
             "website": "https://he.wikipedia.org/wiki/אפרים_דרור",
@@ -22,6 +15,13 @@
             "website": "https://en.wikipedia.org/wiki/Claude_Joseph_Rouget_de_Lisle",
             "avatar": "https://opensiddur.org/wp-content/uploads/2022/05/Claude_Joseph_Rouget_de_Lisle-96x96.jpg",
             "profile_link": "https://opensiddur.org/profile/claude-joseph-rouget-de-lisle"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2022-05-27",

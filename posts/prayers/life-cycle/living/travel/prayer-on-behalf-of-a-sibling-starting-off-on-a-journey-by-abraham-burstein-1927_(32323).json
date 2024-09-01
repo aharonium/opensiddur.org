@@ -3,18 +3,18 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Abraham Burstein",
             "bio": "Rabbi Abraham Burstein (1893–1966) was a rabbi, author, and editor in the United States. Born in Cleveland, Burstein was ordained at the Jewish Theological Seminary in 1917. After serving in graves registration for the Jewish Welfare Board in France, he held pulpits in New England and in New York (at Inwood Hebrew Congregation). He was chaplain for the New York Department of Correction from 1934 until his death, chaplain of the Jewish Theatrical Guild from 1924, and executive secretary of the Jewish Academy of Arts and Sciences. Burstein was editor of the Jewish Outlook, editor and researcher of many Jewish scholarly works, and a leading book reviewer for the Anglo-Jewish press for many years. Author of books for children, he wrote <em>Boy of Cordova</em> (1934) about Moses ben Maimon, <em>Adventure on Manhattan Island</em> (1957) about Peter Stuyvesant and the Jews, and <em>A Jewish Child's Garden of Verses</em> (1940). He also wrote <em>Religious Parties in Israel</em> (1936) and <em>Laws Concerning Religion in the United States</em> (1950). Among his other books are <em>Ghetto Messenger</em> (1928), <em>Unpastoral Lyrics</em> (1930), <em>A Boy Called Rashi</em> (1940), <em>Judah Halevi in Granada</em> (1941), <em>The Boy of Wilna</em> (1941), and <em>West of the Nile: A Story of Saadia Gaon</em> (1942).",
             "website": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/burstein-abraham",
             "avatar": "https://opensiddur.org/wp-content/uploads/2014/11/Keith-Evans-Green-Tree-Yellow-Field-CC-BY-SA-250x250.jpg",
             "profile_link": "https://opensiddur.org/profile/abraham-burstein"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2020-06-19",

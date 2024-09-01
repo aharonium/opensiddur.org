@@ -3,20 +3,6 @@
     "author": "Aharon N. Varady (translation)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (translation)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer translator for the Open Siddur Project. If you find any mistakes in his translations, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot Naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady/\">transcribes prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> for the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://opensiddur.org/profile/aharon-nissen-varady/",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-n-varady"
-        },
-        {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Ronald Schechter (translation)",
             "bio": "Ronald Schechter received his B.A. from the University of Michigan (1987), his M.A. from the University of Chicago (1988) and his Ph.D. from Harvard University (1993).  His book, <em>Obstinate Hebrews: Representations of Jews in France, 1715-1815</em> (Berkeley: University of California Press, 2003), won the American Historical Association’s Leo Gershoy Award and the Society for French Historical Studies’ David Pinkney Prize, and it was a finalist for the Koret Jewish Book Award in the category of History.  Schechter is also the author (with Liz Clarke, illustrator) of <em>Mendoza the Jew: Boxing, Manliness, and Nationalism. A Graphic History</em> (New York and Oxford: Oxford University Press, 2014). He is the editor of <em>The French Revolution: The Essential Readings</em> (Oxford: Blackwell, 2001), and the translator and editor of <em>Nathan the Wise by Gotthold Ephraim Lessing with Related Documents</em> (Boston and New York: St. Martin’s Press, 2004).  He is also the editor of <em>Shifting Boundaries, Rethinking Paradigms: The Significance of French Jewish History</em>, a special issue of <em>Historical Reflections/Réflexions Historiques</em> 32:1 (Spring 2006).  Among the venues of his journal articles have been <em>Past and Present, Representations and Eighteenth-Century Studies</em>.  His most recent book is <em>A Genealogy of Terror in Eighteenth-Century France</em> (Chicago and London: University of Chicago Press, 2018). Schechter has been a visiting fellow at Ruprecht-Karls-Universität Heidelberg, at the Shelby Cullom Davis Center for Historical Studies (Princeton University), and the Polonsky Fellow at the Oxford Centre for Hebrew and Jewish Studies. He is the recipient of a Guggenheim Fellowship (2019-2020) for his book project, “The Secret Library of Marie Antoinette.”",
             "website": "https://www.wm.edu/as/history/faculty/schechter_r.php",
@@ -36,6 +22,13 @@
             "website": "https://en.wikipedia.org/wiki/Moses_Ensheim",
             "avatar": "https://opensiddur.org/wp-content/uploads/2014/11/Keith-Evans-Green-Tree-Yellow-Field-CC-BY-SA-250x250.jpg",
             "profile_link": "https://opensiddur.org/profile/moyse-ensheim"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2022-11-06",

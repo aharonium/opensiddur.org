@@ -3,13 +3,6 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Stanley Rabinowitz",
             "bio": "Rabbi Stanley Rabinowitz (1917–2012), born in Duluth, Minnesota, was a prominent Conservative movement rabbi in the United States. After graduating from the State University of Iowa in 1939 he was ordained by the Jewish Theological Seminary in1943. He began as a rabbinic chaplain serving in the Armed Forces, and later as director of the Midwest office of the Jewish Theological Seminary, director of field services for the United Synagogue of America, and as as acting director of the United Synagogue. In 1947 Rabinowitz assumed the pulpit of B'nai Jacob Congregation in New Haven, Connecticut, where he served for five years, and then moved to Congregation Adath Jeshurun in Minneapolis (1953–60) before coming to Adas Israel Congregation in Washington, DC, where he served for 26 years. A champion of women's rights in Conservative Judaism, he initiated the bat mitzvah ceremony at his three congregations and counted women in the minyan at Adas Israel well before it was sanctioned by the Rabbinical Assembly. He was instrumental in pushing for the desegregation of Washington, DC, encouraging building owners in his congregation to desegregate their facilities. He allowed and encouraged Adas Israel to hold multiple services on Shabbat morning including a Ḥavurah service and an Orthodox minyan. Adas Israel also did not follow the lead of many other inner city synagogues that moved to the suburbs following the 1968 riots. He chaired the Committee on Synagogue Standards for the Rabbinical Assembly; and was later vice president of the Rabbinical Assembly in 1974–76 and then president in 1976–78. He represented the Conservative movement in its confrontations with Prime Minister Menaḥem Begin over an amendment to the Law of Return regarding non-Orthodox conversions. He also traveled to Egypt soon after Anwar Sadat's path-breaking trip to Jerusalem. He was the founding president of the Zionist Organization of the Conservative Movement (mercaz) (1977–1985) and chaired the Rabbinic Cabinet of United Jewish Appeal (1986).",
             "website": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/rabinowitz-stanley",
@@ -22,6 +15,13 @@
             "website": "https://en.wikipedia.org/wiki/Congressional_Record",
             "avatar": "https://opensiddur.org/wp-content/uploads/2024/02/Congressional-Record-96x96.png",
             "profile_link": "https://opensiddur.org/profile/united-states-congressional-record"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2024-04-23",

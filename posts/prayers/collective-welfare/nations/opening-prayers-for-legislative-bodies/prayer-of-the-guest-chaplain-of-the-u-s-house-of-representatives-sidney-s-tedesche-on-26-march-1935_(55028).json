@@ -3,13 +3,6 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Sidney Tedesche",
             "bio": "Rabbi Dr. Sidney Tedesche (1890-1962), born in Elmwood Place (a town inside Cincinnati), Ohio, was a Reform movement rabbi in the United States. A graduate of the University of Cincinnati, he was ordained at HUC in 1913. He served pulpits at Brith Sholom (Springfield, Illinois), Beth El (Providence, Rhode Island), Beth El (San Antonio, Texas), and Mishkan Israel (New Haven, Connecticut), before beginning at Union Temple in Brooklyn, New York in 1929. He earned his Ph.D. from Yale in 1928 and an LL.B. from St. John's University in 1938. He later received an honorary D.D. from HUC in 1954, the year he retired from serving Union Temple. He wrote, <em>Jewish Champions of Religious Liberty</em> (1926) and specialized in translating works of Jewish apocrypha, <em>The Book of Wisdom</em> (Thesis, 1913), <em>Prayers of the Apocrypha and their importance in the study of Jewish liturgy</em> (1916), <em>A Critical Edition of I Esdras</em> (Dissertation, 1929), <em>Ⅰ Maccabees</em> (1950), and <em>Ⅱ Maccabees</em> (1954).  He spoke 14 languages. A leader in Brooklyn interfaith activities, he was a former trustee of the Brooklyn Public Library and former grand chaplain of the New York Masonic Lodge. He was also a former president of the Association of Reform Rabbis and a member of Phi Beta Kappa.",
             "website": "",
@@ -22,6 +15,13 @@
             "website": "https://en.wikipedia.org/wiki/Congressional_Record",
             "avatar": "https://opensiddur.org/wp-content/uploads/2024/02/Congressional-Record-96x96.png",
             "profile_link": "https://opensiddur.org/profile/united-states-congressional-record"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2024-03-24",

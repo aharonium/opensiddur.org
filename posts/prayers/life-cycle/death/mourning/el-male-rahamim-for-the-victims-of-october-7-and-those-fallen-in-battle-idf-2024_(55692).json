@@ -1,14 +1,7 @@
 {
     "title": "תפילת אל מלא רחמים לנרצחי התקפות החמאס והנופלים בקרבות | El Malé Raḥamim prayer for the victims of the HAMA\"S attacks and those fallen in battle afterward (IDF 2024)",
-    "author": "Aharon N. Varady (editing/transcription)",
+    "author": "Ematai",
     "coauthors": [
-        {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
         {
             "name": "Ematai",
             "bio": "Initially founded in 2001 to educate about organ donation in Jewish communities, Ematai was relaunched in 2023 to enable Jewish families to navigate an increasingly complex healthcare journey, particularly in the dilemmas of aging and end-of-life treatment.",
@@ -22,6 +15,13 @@
             "website": "https://en.wikipedia.org/wiki/Israel_Defense_Forces",
             "avatar": "https://opensiddur.org/wp-content/uploads/2022/09/IDF_Symbol.svg-96x96.png",
             "profile_link": "https://opensiddur.org/profile/tsva-hahaganah-lyisrael"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2024-04-29",
@@ -32,7 +32,7 @@
         "Mourning"
     ],
     "tags": [
-        "2023 Israel–Hamas war",
+        "2023-2024 Israel–Hamas war",
         "21st century C.E.",
         "58th century A.M.",
         "אל מלא רחמים El Malé Raḥamim",

@@ -3,18 +3,18 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Martin Weiner",
             "bio": "Rabbi Martin Weiner is the rabbi emeritus of Sherith Israel, San Francisco, California. He undertook his rabbinic studies at Hebrew Union College in Cincinnati, where he earned his ordination and a master of arts in Hebrew letters in 1964. Following his ordination, Rabbi Weiner was assistant, associate and co-rabbi at Temple Oheb Shalom of Baltimore, Maryland. While there, he served as chair of the Baltimore chapter of the American Jewish Committee, was on the state board of the ACLU and taught Jewish Religious Thought at Goucher College. Rabbi Weiner joined Congregation Sherith Israel as senior rabbi in 1972. He energized the congregation during his 31-year tenure at Sherith Israel, attracting many new members. Known throughout the community for his quest for social justice, particularly in the areas of civil rights, human rights and Soviet Jewry, Rabbi Weiner was a member of the San Francisco Human Rights Commission for many years. Rabbi Weiner served as President of the Central Conference of American Rabbis (CCAR), Reform Judaism's professional rabbinical association.  Previously he had served as an officer and as a CCAR board member. He currently chairs the CCAR’s ethics process review committee and is a longstanding member of the Reform Pension Board. He also served on the editorial committee for the Reform movement’s new prayer book, <em>Mishkan T’filah</em>. In San Francisco, he has been on the boards of the Jewish Community Federation, the American Jewish Committee and Jewish Family and Children's Services. Rabbi Weiner has also served as president of the Pacific Association of Reform Rabbis and as chair of the San Francisco Interfaith Council. He has been honored by the American Jewish Committee and the American Jewish Congress.",
             "website": "https://www.sherithisrael.org/rabbi-weiner.html",
             "avatar": "https://opensiddur.org/wp-content/uploads/2021/01/Martin-Weiner-96x96.jpg",
             "profile_link": "https://opensiddur.org/profile/martin-weiner"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2021-01-04",

@@ -3,13 +3,6 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Irving J. Block",
             "bio": "Rabbi Irving J. Block (1923-2002), born in Bridgeport, Connecticut, was a Reform movement rabbi in the United States. (In a draft of his memoir he wrote, “I feel as though I am an Orthodox rabbi serving a Conservative congregation, most of whose members are Reform.”) After serving in Panama in the U.S. Army during WWII, he received his B.S. from the University of Connecticut in 1947, and then he studied at the Hebrew University in Jerusalem and served in Haganah 1947-1948. Returning to the United States, he received a Master of Hebrew Letters and was ordained at the Hebrew Union College-Jewish Institute of Religion in New York City in 1953. He was the founding rabbi of the Brotherhood Synagogue, Congregation Beth Achim, which he led from 1954 through his retirement in 1994. In 1978, the Hebrew Union College-Jewish Institute of Religion awarded him the Doctor of Divinity. He participated on the boards of the American Association for Ethiopian Jews, New York Board of Rabbis (NYBR), Joint Passover Association, New York Association for New Americans, Anti-Defamation League of B’nai B’rith, Open Congregation and Religion in American Life. Block served as chaplain for the 369th Veterans Association, the New York State Masonic Order and Jewish War Veterans, and as a prison chaplain for NYBR for one year in 1974. Block was also concerned with the issue of substance abuse in the Jewish community and served as Co-Chairman of the UJA-Federation Commission on Synagogue Relations’ Task Force on Addictions in the Jewish Community. Other organizations in which Rabbi Block was active include American Veterans of Israel, Jewish War Veterans and Life Services for the Handicapped. He lectured widely, appeared on numerous radio and television programs and received numerous awards for his work. Following his 1994 retirement, he worked on his memoir, which was published in 1999 as <em>A Rabbi and His Dream: Building the Brotherhood Synagogue</em>.",
             "website": "",
@@ -22,6 +15,13 @@
             "website": "https://en.wikipedia.org/wiki/Congressional_Record",
             "avatar": "https://opensiddur.org/wp-content/uploads/2024/02/Congressional-Record-96x96.png",
             "profile_link": "https://opensiddur.org/profile/united-states-congressional-record"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2024-05-25",

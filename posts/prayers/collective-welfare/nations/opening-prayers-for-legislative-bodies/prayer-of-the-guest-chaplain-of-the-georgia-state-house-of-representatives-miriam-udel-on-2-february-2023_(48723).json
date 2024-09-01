@@ -3,13 +3,6 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Miriam Udel",
             "bio": "Miriam Udel is Judith London Evans Director of the Tam Institute of Jewish Studies and associate professor of Yiddish language, literature, and culture at Emory University, where she studies the Jewish encounter with modernity. She holds an AB in Near Eastern Languages and Civilizations and a PhD in Comparative Literature, both from Harvard University. Udel was ordained in 2019 as part of the first cohort of the Executive Ordination Track at Yeshivat Maharat, a program designed to bring qualified mid-career women into the Orthodox rabbinate. In the Jewish community, she enjoys teaching about narrative midrash and medieval biblical interpretation as well as Yiddish culture. With grace and imagination, she stages meaningful textual encounters between classical and modern Jewish literary sources. She uses “darshanit” (interpreter) as her rabbinic title, both as a descriptor of her contribution and in recognition of such historical figures as Rivka bas Me’ir Tiktiner, the first woman known to have published a book in Yiddish, identified as <em>harabanit vehadarshanit</em>.",
             "website": "https://miriamudel.com",
@@ -22,6 +15,13 @@
             "website": "https://en.wikipedia.org/wiki/Georgia_House_of_Representatives",
             "avatar": "https://opensiddur.org/wp-content/uploads/2023/02/Seal-of-the-State-of-Georgia-House-of-Representatives-96x96.png",
             "profile_link": "https://opensiddur.org/profile/house-of-representatives-state-of-georgia"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2023-02-02",

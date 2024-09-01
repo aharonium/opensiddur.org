@@ -1,20 +1,20 @@
 {
-    "title": "&#128214; The Samaritan Liturgy in two volumes (transcribed by A.E. Cowley 1909)",
+    "title": "&#x1F4D6; The Samaritan Liturgy in two volumes (transcribed by A.E. Cowley 1909)",
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
-        {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
         {
             "name": "Benyamim Tsedaka",
             "bio": "Benyamim (Benny) Tsedaka is one of the elders of his people. As an historian, he has published over 100 books and over 2000 articles in Hebrew and English on Israelite Samaritan life, collated by the Internal University Computer in Israel under ‘Samaritans’. Benyamim Tsedaka is Head of the Israelite Samaritan Information Centre. Benny is the author of the ‘Samaritans’ entries in Encyclopedia Judaica; Encyclopedia of Zionism (in English); The Hebrew Encyclopedia, Jerusalem; and Encyclopedia Britannica for Youth (in Hebrew). Benny’s Israelite Samaritan Version of the Torah was published in May 2013. For the first time ever, English translations of the Samaritan Pentateuch and the Masoretic (Jewish) text are laid out in parallel columns with important differences noted.",
             "website": "http://israelite-samaritans.com",
             "avatar": "https://opensiddur.org/wp-content/uploads/2015/12/benjamin-sedaka-96x96.jpg",
             "profile_link": "https://opensiddur.org/profile/ben-sedaka"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2017-01-18",

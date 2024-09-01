@@ -3,13 +3,6 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Milton Balkany",
             "bio": "Milton Yehoshua Balkany (born 1946) is an American Orthodox Jewish rabbi, past director of the Jewish girls′ school Bais Yaakov of Midwood, conservative political activist and fundraiser from Brooklyn, New York, dubbed \"the Brooklyn Bundler.\" In September 1960, Balkany founded Bais Yaakov of Brooklyn, now Bais Yaakov of Midwood, a strictly orthodox girls′ school in Borough Park, and served as its dean. A conservative Republican, he has been active in political fundraising since the early 1980s, mainly for Republican politicians, and has also often acted as a lobbyist for various Jewish causes. Dubbed \"the Brooklyn Bundler,\" he had a reputation as someone who had access not only to elected officials but to several government agencies as well. For several years, he gave the invocation at an annual dinner honoring President Ronald Reagan, and was offered to become the rabbi chaplain of the Senate, an offer he declined. In 1994, Balkany tried to have David Luchins, an Orthodox Jew, official of the Orthodox Union, self-described liberal, and then aide to Senator Daniel Moynihan excommunicated by a Jewish religious court, blaming him for having \"caused yeshivas in the land of Israel to lose money.\" He became widely known for giving public religious benedictions (brakhot) to senior politicians at city council, state legislature, and Congress, where he served as guest chaplain in June 2003, opening the U.S. Senate and the U.S. House of Representatives with the prayer \"I stand here today among the jewels of our nation, men and women who are precious, who radiate dedication, and they have been selected as the leaders of our land.\" He is the son-in-law of Aaron Rubashkin.",
             "website": "https://en.wikipedia.org/wiki/Milton_Balkany",
@@ -22,6 +15,13 @@
             "website": "https://en.wikipedia.org/wiki/Congressional_Record",
             "avatar": "https://opensiddur.org/wp-content/uploads/2024/02/Congressional-Record-96x96.png",
             "profile_link": "https://opensiddur.org/profile/united-states-congressional-record"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2023-07-22",

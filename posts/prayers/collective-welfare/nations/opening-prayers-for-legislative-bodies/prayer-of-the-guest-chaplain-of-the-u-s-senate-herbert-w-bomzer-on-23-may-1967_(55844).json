@@ -3,13 +3,6 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Herbert Bomzer",
             "bio": "Rabbi Herbert W. (Chaim Zev) Bomzer (August 16, 1927 - February 8, 2013), born on the Lower East Side of Manhattan, New York, was a prominent Orthodox rabbi in the United States. Ordained at Yeshiva University, he received smikhah from Rabbi Joseph B. Soloveitchik and Rabbi Moshe Feinstein. As Rosh Yeshiva of Yeshiva University, he taught Talmud to over 3,000 students for over 50 years. He held a Doctorate in Jewish Education and Administration, as well as a Master of Arts in Jewish History and Philosophy. He was the President and Chairman of the Political Action Committee of the Vaad Harabonim of Flatbush and Assistant Professor of Judaic Studies at Yeshiva University, where he taught Talmud and Judaic Law. A recognized expert in Orthodox conversion to Judaism, Rabbi Bomzer was given approval to conduct conversion administration from the Lubavitcher Rebbe, Rav Dvorkin, the Kaizmarker Rav, Rabbi Moshe Feinstein, and Rabbi Aaron Soloveitchik. He published a book on conversion, <em>The Chosen Road</em> in 1996. Rabbi Bomzer also served as rabbi for Young Israel of Ocean Parkway and as a chaplain for the New York City Department of Corrections at Rikers Island. As a Rabbinical leader, he served twice as President of the Rabbinical Board of Flatbush, was Chairman and President of the Halakhic Committee of the Council of Young Israel Rabbis, was Chairman and an Officer of the Committee for Hizuk Hadat of the Rabbinical Council of America, was an Officer in the administration of the National Council of Young Israel, and a board member of various organizations including the Union of Orthodox Rabbis of the United States and Canada (Agudath Harabonim), and the Iggud HaRabbonim and Poale Agudat Yisroel.",
             "website": "https://en.wikipedia.org/wiki/Herbert_Bomzer",
@@ -22,6 +15,13 @@
             "website": "https://en.wikipedia.org/wiki/Congressional_Record",
             "avatar": "https://opensiddur.org/wp-content/uploads/2024/02/Congressional-Record-96x96.png",
             "profile_link": "https://opensiddur.org/profile/united-states-congressional-record"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2024-05-12",

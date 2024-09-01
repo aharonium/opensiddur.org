@@ -1,20 +1,20 @@
 {
     "title": "תחינה לימי נגיף הקורונה | Supplication for the Days of the Coronavirus (Masorti Movement in Israel 2020)",
-    "author": "Aharon N. Varady (translation)",
+    "author": "Masorti Movement in Israel",
     "coauthors": [
-        {
-            "name": "Aharon N. Varady (translation)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer translator for the Open Siddur Project. If you find any mistakes in his translations, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot Naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady/\">transcribes prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> for the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://opensiddur.org/profile/aharon-nissen-varady/",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-n-varady"
-        },
         {
             "name": "Masorti Movement in Israel",
             "bio": "HaTenu'ah haMasortit (התנועה המסורתית, the Masorti Movement in Israel) creates opportunities for all Jews to live Jewish lives in Israel unhindered, and on their own terms. It is a religious movement based on values of inclusion combined with traditional practice and Halakha (Jewish Law). Masorti represents a “third” way. Not secular Judaism. Not ultra-Orthodoxy. But a Jewish life that integrates secular beliefs. Halakhah with inclusion and egalitarianism. Tradition that recognizes the realities of today’s world. The Masorti Movement is committed to a pluralistic, egalitarian, and democratic vision of Zionism. Masorti engages tens of thousands of Israelis each year, young and old, native born as well as olim from around the globe.",
             "website": "http://www.masorti.org.il",
             "avatar": "https://opensiddur.org/wp-content/uploads/2016/11/Masorti_Movement_Israel_logo-144x109-96x96.png",
             "profile_link": "https://opensiddur.org/profile/masorti-foundation"
+        },
+        {
+            "name": "Aharon N. Varady (translation)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer translator for the Open Siddur Project. If you find any mistakes in his translations, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot Naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-transcription/\">transcribes prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> for the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-translation"
         }
     ],
     "date": "2020-09-09",

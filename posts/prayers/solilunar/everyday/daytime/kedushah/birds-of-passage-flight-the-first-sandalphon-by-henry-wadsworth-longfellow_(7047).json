@@ -3,18 +3,18 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Henry Wadsworth-Longfellow",
             "bio": "Henry Wadsworth Longfellow (February 27, 1807 – March 24, 1882) was an American poet and educator. Longfellow wrote predominantly lyric poems, known for their musicality and often presenting stories of mythology and legend. He became the most popular American poet of his day and also had success overseas. Longfellow was born in Portland, Maine, which was then a part of Massachusetts. He studied at Bowdoin College. After spending time in Europe he became a professor at Bowdoin and, later, at Harvard College. His first major poetry collections were <em>Voices of the Night</em> (1839) and <em>Ballads and Other Poems</em> (1841).  Longfellow retired from teaching in 1854 to focus on his writing, living the remainder of his life in Cambridge, Massachusetts, in a former headquarters of George Washington. His first wife Mary Potter died in 1835 after a miscarriage. His second wife Frances Appleton died in 1861 after sustaining burns when her dress caught fire. After her death, Longfellow had difficulty writing poetry for a time and focused on his translation. He was the first American to translate Dante Alighieri's <em>The Divine Comedy</em>. He died in 1882.",
             "website": "http://en.wikipedia.org/wiki/Henry_Wadsworth_Longfellow",
             "avatar": "https://opensiddur.org/wp-content/uploads/2014/12/Henry-Wadsworth-Longfellow-1-96x96.jpg",
             "profile_link": "https://opensiddur.org/profile/henry-wadsworth-longfellow"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2013-06-05",

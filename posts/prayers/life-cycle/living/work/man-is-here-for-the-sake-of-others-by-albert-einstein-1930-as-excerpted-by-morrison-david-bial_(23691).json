@@ -3,13 +3,6 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Morrison David Bial",
             "bio": "Born in New York in 1917, Morrison David Bial studied at Princeton Theological Seminary, served as a chaplain at Mitchell Field during World War II, and was ordained from the Jewish Institute of Religion in 1945. Rabbi Bial spoke from pulpits in the United States as well as in Dublin, Glasgow, and London. He led a number of tours to Israel, and published thirteen books, including <em>The Rabbi’s Bible: Torah</em> and <em>The Rabbi’s Bible: Prophets</em> (began in 1966, co-authored with Solomon Simon), <em>Liberal Judaism at Home: the Practices of Modern Reform Judaism</em> (1971), and <em>Your Jewish Child</em> (1978). Rabbi Bial spent over thirty years serving Temple Sinai in Summit, New Jersey, from 1953 until he became Rabbi Emeritus in 1985. From 1985–1995, Rabbi Bial joined Temple Beth Shalom in Ocala, Florida, revitalizing its interfaith movement, and served as Rabbi Emeritus until his death in 2004.",
             "website": "",
@@ -22,6 +15,13 @@
             "website": "https://en.wikipedia.org/wiki/Albert_Einstein",
             "avatar": "https://opensiddur.org/wp-content/uploads/2019/02/Albert-Einstein-1935-96x96.jpg",
             "profile_link": "https://opensiddur.org/profile/albert-einstein"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2019-02-12",

@@ -1,14 +1,7 @@
 {
     "title": "Though Sorrows May be Multiplied, a hymn on \"Obedience to the Will of God\" by Penina Moïse (Ḳ.Ḳ. Beth Elohim 1842)",
-    "author": "Aharon N. Varady (editing/transcription)",
+    "author": "Ḳahal Ḳadosh Beth Elohim (Charleston, South Carolina)",
     "coauthors": [
-        {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
         {
             "name": "Ḳahal Ḳadosh Beth Elohim (Charleston, South Carolina)",
             "bio": "Ḳahal Ḳadosh Beth Elohim (Hebrew: קהל קדוש בית אלהים‎, also known as Ḳ.Ḳ. Beth Elohim, or more simply Congregation Beth Elohim), founded in 1749 in Charleston, South Carolina, is one of the oldest Jewish congregations in the United States. The founding members of the synagogue were Jews of Spanish and Portuguese descent (Sepharadim), who arrived into Charleston via London, England. Before 1830 Ḳahal Ḳadosh Beth Elohim was a place of worship for Spanish and Portuguese Jews using Portuguese rituals as done in Portugal before the Spanish and Portuguese inquisitions. A splinter group animated by the European Reform movement, the <a href=\"/profile/reformed-society-of-israelites/\">Reformed Society of Israelites</a>, formed in 1824. While at first this group did not succeed in reforming Beth Elohim, by the mid 1830s Beth Elohim had reabsorbed its members and its ḥazzan, Gustavus Poznanski (1804–1879), joined the Reform camp in 1840. After the first synagogue building was destroyed by fire in 1838, it was rebuilt two years afterward (in a Greek Revival style designed by Cyrus L. Warner) with an organ to the chagrin of the traditionalists. Ḳahal Ḳadosh Beth Elohim is recognized as the oldest Reform Jewish congregation in the Americas.",
@@ -22,6 +15,13 @@
             "website": "https://jwa.org/encyclopedia/article/moise-penina",
             "avatar": "https://opensiddur.org/wp-content/uploads/2021/10/penina-moise-96x96.jpg",
             "profile_link": "https://opensiddur.org/profile/penina-moise"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2021-10-25",

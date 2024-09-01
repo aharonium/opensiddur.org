@@ -3,13 +3,6 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "David Seidenberg",
             "bio": "Rabbi David Seidenberg, founder of <a href=\"http://neohasid.org\">NeoHasid.org</a>, teaches text and music, Jewish thought and spirituality, in their own right and in relation to ecology and the environment. With <em>smikhah</em> (ordination) from the Jewish Theological Seminary and from <a href=\"/profile/zalman-schachter-shalomi/\">Rabbi Zalman Schachter-Shalomi</a>, he has taught at over 100 synagogues, communities, retreats and conferences across North America (and a few in Europe and Israel). Rabbi Seidenberg's teaching empowers learners to become creators of Judaism through deep study and communion with texts and tradition. Areas of specialty include Kabbalah and Ḥasidut, Talmud, davenning, evolution and cosmology, sustainability, Maimonides, Buber, and more. Rabbi Seidenberg has <a href=\"http://neohasid.org/about/pub\">published widely</a> on ecology and Judaism and is the author of <em>Kabbalah and Ecology: God's Image in the More-Than-Human World</em> (Cambridge University Press, 2015).",
             "website": "http://neohasid.org",
@@ -22,6 +15,13 @@
             "website": "http://neohasid.org",
             "avatar": "https://opensiddur.org/wp-content/uploads/2018/03/neohasid.org_-96x96.jpg",
             "profile_link": "https://opensiddur.org/profile/neohasid-org"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2019-01-16",

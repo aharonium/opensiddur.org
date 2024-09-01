@@ -1,14 +1,7 @@
 {
     "title": "תחנה אײדער אפרויא גײט אין טבילת מצוה | Tkhine for when a Woman Goes to Immerse in the Mikve (1910)",
-    "author": "Aharon N. Varady (editing/transcription)",
+    "author": "Unknown Author(s)",
     "coauthors": [
-        {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
         {
             "name": "Baruch Jean Thaler",
             "bio": "Baruch (B.J.) Thaler received his B.R.S. from United Lubavitch Yeshivah Tomchei Temimim (Morristown); Smichah (Rabbinical Ordination) from Central Yeshivah Tomchei Temimim Lubavitch (770); B.A. (Eng. Lit./Creative Writing) &amp; M.F.A. (Film) from Columbia University. Baruch grew up Chabad in Crown Heights, Brooklyn, speaking Yiddish. Later, he worked for the Folkbeine Yiddish Theater and the New Yiddish Repertory, translating and acting in stage classics. He also worked on Yiddish translation for the Milken American Jewish Music Archives and others, and was a writer-editor for the Yiddish “Algemeiner Journal” and film-editor for \"The Forward.\" His Hebrew translation projects include “The New American Haggadah,” the works of the late Lubavitcher Rebbe, and of other Hasidic-Kabbalistic masters. Film credits include: “Projecting Freedom,” “Romeo and Juliet in Yiddish,” “Punk Jews”; he also filmed Yiddish legends Mine Bern and Mike Burstyn. He has spent some time organic farming. Still a Shliach (outreach “rabbi”) in heart - Baruch coordinated a troubadouring tribe of kindred spirits, first called “Home of HoWL” (Holy Wow Love) and more recently as Nitzotzot, who are creating new exciting ways to reexperience the traditions and rituals of yore, bridging heimish hasidism with homie hipsterdom. When the spirit is right, Baruch comes up with a niggun or two -- especially if it will help enhance davvening with kavvanah...",
@@ -22,6 +15,13 @@
             "website": "",
             "avatar": "https://opensiddur.org/wp-content/uploads/2014/11/Keith-Evans-Green-Tree-Yellow-Field-CC-BY-SA-250x250.jpg",
             "profile_link": "https://opensiddur.org/profile/unknown"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2016-07-05",

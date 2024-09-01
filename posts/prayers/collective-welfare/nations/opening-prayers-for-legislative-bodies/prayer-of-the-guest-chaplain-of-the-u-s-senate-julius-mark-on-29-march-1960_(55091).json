@@ -3,13 +3,6 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Julius Mark",
             "bio": "Rabbi Dr. Julius Mark (1899-1977), from Cincinnati, Ohio, was a prominent Reform movement rabbi in the United States, leading Temple Emanu‐El in New York City. A graduate of the University of Cincinnati, he was ordained at HUC. He served two terms as president of the Synagogue Council of America, the national coordinating agency of the rabbinical and congregational bodies of Reform, Conservative and Orthodox Judaism. Before arriving at Temple Emanu-El, he served Temple Beth El (South Bend, Indiana, from 1922 to 1926), and the Vine Street Temple (Nashville, Tennessee, from 1926 to 1948). After Pearl Harbor in 1941, he volunteered as a military chaplain and served the US Navy. He became Jewish chaplain to the Pacific Fleet, rising to the rank of lieutenant commander on the staff of Fleet Adm. Chester W. Nimitz. During the war, Rabbi Mark wrote more than 10,000 letters to relatives of military personnel, both Jewish and non‐Jewish, whom he had met, reassuring those at home that their loved ones were fine. From 1949 to 1963, he was visiting professor of homiletics and practical theology at the New York School of the Hebrew Union College‐Jewish Institute of Religion. Five colleges and universities awarded Rabbi Mark honorary doctorates in law, divinity, humanities, sacred theology and humane letters. In addition, he received the Human Relations Award of the Methodist Church in 1963, the Gold Medallion for Courageous Leadership of the National Conference of Christians and Jews in 1966, the Clergyman of the Year award in 1969 from Religious Heritage of America and was awarded plaques by the Israel Bond organization in recognition of devoted support of Israel” in 1967, 1968 and 1970. Among his many posts through the years were life trustee of the Federation of Jewish Philanthropies, membership on the executive committee of the United States Commission for U.N.E.S.C.O., on the board of the National Conference of Christians and Jews, on the Eastern board of the Anti‐Defamation League, on the governing board of the World Union for Progressive Judaism, honorary vice chairman of the Lighthouse for the Blind, honorary president of the American Jewish Encyclopedia Society and member of the Council on Foreign Relations. His books included <em>Behaviorism and Religion</em>, <em>The Rabbi Faces Some Big Dilemmas</em>, <em>The Art of Preaching</em> and <em>Reaching for the Moon</em>.",
             "website": "",
@@ -22,6 +15,13 @@
             "website": "https://en.wikipedia.org/wiki/Congressional_Record",
             "avatar": "https://opensiddur.org/wp-content/uploads/2024/02/Congressional-Record-96x96.png",
             "profile_link": "https://opensiddur.org/profile/united-states-congressional-record"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2024-03-27",

@@ -1,14 +1,7 @@
 {
     "title": "הַנּוֹתֵן תְּשׁוּעָה | Prayer in honour of the 90th birthday of Queen Elizabeth Ⅱ, by Rabbi Ephraim Mirvis (Office of the Chief Rabbi of the UK & the Commonwealth 2016)",
-    "author": "Aharon N. Varady (editing/transcription)",
+    "author": "Office of the Chief Rabbi of the United Hebrew Congregations of the United Kingdom and the Commonwealth",
     "coauthors": [
-        {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
         {
             "name": "Ephraim Mirvis",
             "bio": "Ephraim Mirvis (born 1956) is an Orthodox rabbi who serves as the Chief Rabbi of the United Hebrew Congregations of the Commonwealth. Traditionally the post has entailed that he also serves as the head of all British Jews as the Chief Rabbi of the United Kingdom and Commonwealth. He served as the Chief Rabbi of Ireland between 1985 and 1992. (via his <a href=\"https://en.wikipedia.org/wiki/Ephraim_Mirvis\">Wikipedia article</a>)",
@@ -22,6 +15,13 @@
             "website": "https://chiefrabbi.org",
             "avatar": "https://opensiddur.org/wp-content/uploads/2018/06/OCR-logo-2-e1674565447497-96x96.jpg",
             "profile_link": "https://opensiddur.org/profile/office-of-the-chief-rabbi"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2022-06-04",

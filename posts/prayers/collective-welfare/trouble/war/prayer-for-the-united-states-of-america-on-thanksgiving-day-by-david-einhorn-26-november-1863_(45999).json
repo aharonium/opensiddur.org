@@ -3,18 +3,18 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "David Einhorn",
             "bio": "David Einhorn (November 10, 1809 – November 2, 1879) was a German-Jewish rabbi and leader of Reform Judaism in the United States. Einhorn was chosen in 1855 as the first rabbi of the Har Sinai Congregation in Baltimore, the oldest congregation in the United States that has been affiliated with the Reform movement since its inception. While there, he compiled a siddur in German and Hebrew, one of the early Reform Jewish prayerbooks in the United States. (The siddur, later translated to English, became one of the progenitors of the Reform Movement's Union Prayer Book.) In 1861, Einhorn's life was threatened by a mob angered by his strong abolitionist anti-slavery views, and was forced to flee to Philadelphia. There he became rabbi of Reform Congregation Keneseth Israel. He moved to New York City in 1866, where he became rabbi of Congregation Adath Israel. (from his <a href=\"https://en.wikipedia.org/wiki/David_Einhorn_(rabbi)\">wikipedia article</a>)",
             "website": "https://en.wikipedia.org/wiki/David_Einhorn_(rabbi)",
             "avatar": "https://opensiddur.org/wp-content/uploads/2018/03/David-Einhorn-crop.jpg",
             "profile_link": "https://opensiddur.org/profile/david-einhorn"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2022-08-05",

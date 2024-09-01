@@ -3,18 +3,18 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Ronne Friedman",
             "bio": "Rabbi Ronne Friedman (born October 6, 1947) is a native of Washington, D.C. Rabbi Friedman served as the Senior Rabbi of Temple Israel of Boston (1999-2016) and has served North Shore Congregation Israel in Glencoe, Illinois and Temple Beth Zion of Buffalo, NY. He graduated with a B.A. with distinction in English Literature from Lafayette College in 1969, and received his Masters of Arts in Hebrew Literature from Hebrew Union College-Jewish Institute of Religion from which he was ordained in 1975. He was awarded a Doctorate (honoris causa) from the same institution in 2000. Rabbi Friedman currently serves on the Joint Placement Commission of the Union of American Hebrew Congregations, the Central Conference of American Rabbis and Hebrew Union College-Jewish Institute of Religion, which he chaired for 15 years and as a member of the Reform Pension Board. He also served as a member of the Board of the CCAR for 18 years and chaired the Joint Rabbinic Placement Commission of the Reform Movement (URJ, CCAR and HUC-JIR) for 15 years and served for many years as a member of the UAHC’s (now URJ) Commission of Synagogue Affiliation. His service on national and regional boards has included the National Conference for Community and Justice (formerly the National Conference of Christians and Jews), the Central Conference of American Rabbis, the American Jewish Committee (N.E. Region), the Jewish Community Relations Council of Greater Boston and Meretz. He has also taught as Adjunct Clinical Faculty for the HUC-JIR. For the past fifteen years, he has been the host of a monthly television show, Jewish Perspective, which airs on Boston’s WHDH (Boston’s NBC affiliate). Rabbi Friedman has been actively engaged in the work of Jewish Education, the pursuit of Social Justice, the resettlement of Southeast Asian and Soviet Jewish immigrants, efforts to establish Equal Marriage in Massachusetts and to ensure the full inclusion of GLBTQ Jews and their families in the larger Jewish and secular community and the establishment of Interfaith Dialogue. His interest in the use of the Myers-Briggs Type Inventory has led him to create workshops and programs using the MBTI as a tool for teambuilding.",
             "website": "https://www.tisrael.org/our-rabbis-cantor/rabbi-ronne-friedman/",
             "avatar": "https://opensiddur.org/wp-content/uploads/2021/01/Ronne-Friedman-96x96.jpg",
             "profile_link": "https://opensiddur.org/profile/ronne-friedman"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2021-01-03",

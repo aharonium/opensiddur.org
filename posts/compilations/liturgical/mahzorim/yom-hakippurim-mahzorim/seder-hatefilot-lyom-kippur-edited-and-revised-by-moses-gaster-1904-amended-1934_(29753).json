@@ -1,14 +1,7 @@
 {
-    "title": "&#128214; סדר התפלות ליום כפור (מנהג הספרדים)‏ | Seder haTefilot l'Yom Kippur, edited and revised by Moses Gaster (1904, amended 1934)",
+    "title": "&#x1F4D6; סדר התפלות ליום כפור (מנהג הספרדים)‏ | Seder haTefilot l'Yom Kippur, edited and revised by Moses Gaster (1904, amended 1934)",
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
-        {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
         {
             "name": "David Bueno de Mesquita",
             "bio": "Rabbi David Bueno de Mesquita, B.A., trained by Moses Gaster, was a senior hazzan of the Bevis Marks Congregation. Unfortunately, we know little else. If you know more, please <a href=\"/contact/\">contact us</a>.",
@@ -29,6 +22,13 @@
             "website": "https://en.wikipedia.org/wiki/David_de_Aaron_de_Sola",
             "avatar": "https://opensiddur.org/wp-content/uploads/2019/10/david-aaron-de-sola-96x96.jpg",
             "profile_link": "https://opensiddur.org/profile/david-de-aaron-de-sola"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2020-01-29",

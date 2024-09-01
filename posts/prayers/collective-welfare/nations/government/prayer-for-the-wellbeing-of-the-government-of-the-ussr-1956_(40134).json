@@ -3,18 +3,18 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Solomon Schleifer",
             "bio": "Shloime Mikhelevich (Solomon Mikhailovich;  December 23, 1889-1957) born in Moscow, served as rabbi of the Choral Synagogue, the largest synagogue in Moscow, under the Soviet Union (1943-1957) after serving as its secretary and bookkeeper. He is best known for sustaining a synagogue in Moscow during the worst years of Stalinist repression against Jews. As a government appointee, he demonstrated loyalty to Stalin, and denied that there was anti-semitism in the USSR. (The Choral Synagogue's last rabbi, Shmarya Yehuda Leib Medalia was arrested and executed for alleged disloyalty in 1938. At the time, the synagogue was suspected of being a meeting place for Zionists, and was constantly under NKVD surveillance. A year before his appointment, Rabbi Shmuel Leib Levin was appointed. Due to his Chabad affiliation, he was viewed as too extreme, and was replaced with Shleifer.) Rabbi Shleifer died in 1957 while teaching a Torah class.",
             "website": "https://en.wikipedia.org/wiki/Shlomo_Shleifer",
             "avatar": "https://opensiddur.org/wp-content/uploads/2021/10/shlomo-shleifer-96x96.jpg",
             "profile_link": "https://opensiddur.org/profile/solomon-shleifer"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2021-10-27",

@@ -3,13 +3,6 @@
     "author": "Aharon N. Varady (translation)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (translation)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer translator for the Open Siddur Project. If you find any mistakes in his translations, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot Naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady/\">transcribes prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> for the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://opensiddur.org/profile/aharon-nissen-varady/",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-n-varady"
-        },
-        {
             "name": "Refoyl Finkl (translation)",
             "bio": "Refoyl Finkl (a/k/a Raphael Finkel) is an activist for the preservation of the Yiddish language, promoting its use and providing fonts, various texts, and tools for writing Yiddish in personal computers. At the University of Kentucky, Dr. Finkel teaches computer science. He earned his PhD in computer science at Stanford University under the supervision of Vinton Cerf.",
             "website": "http://www.cs.uky.edu/~raphael/",
@@ -17,18 +10,18 @@
             "profile_link": "https://opensiddur.org/profile/raphael-finkel"
         },
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Yitsḥok Leybush Peretz",
             "bio": "Yitsḥok Leybush Peretz (יצחק־לייבוש פרץ) (May 18, 1852 – 3 April 1915), or I. L. Peretz, was a Yiddish language author and playwright from Poland. Peretz rejected cultural universalism, seeing the world as composed of different nations, each with its own character. Liptzin comments that \"Every people is seen by him as a chosen people...\"; he saw his role as a Jewish writer to express \"Jewish ideals...grounded in Jewish tradition and Jewish history.\" Unlike many other Maskilim, he greatly respected the Hasidic Jews for their mode of being in the world; at the same time, he understood that there was a need to make allowances for human frailty. His short stories such as \"If Not Higher\", \"The Treasure\", and \"Beside the Dying\" emphasize the importance of sincere piety rather than empty religiosity. (via his article in <a href=\"https://en.wikipedia.org/wiki/I._L._Peretz\">wikipedia</a>",
             "website": "https://en.wikipedia.org/wiki/I._L._Peretz",
             "avatar": "https://opensiddur.org/wp-content/uploads/2016/02/I_L_Peretz_postcard-crop-96x96.jpg",
             "profile_link": "https://opensiddur.org/profile/yitshok-leybush-peretz"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2016-02-22",

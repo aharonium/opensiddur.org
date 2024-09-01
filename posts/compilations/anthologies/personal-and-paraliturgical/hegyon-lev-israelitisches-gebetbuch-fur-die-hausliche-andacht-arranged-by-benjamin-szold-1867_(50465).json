@@ -1,27 +1,20 @@
 {
-    "title": "&#128214; הֶגְיוֹן לֵב | Hegyon Lev (Meditations of the Heart): Israelitisches Gebetbuch für die häusliche Andacht, arranged by Rabbi Benjamin Szold (1867)",
+    "title": "&#x1F4D6; הֶגְיוֹן לֵב | Hegyon Lev (Meditations of the Heart): Israelitisches Gebetbuch für die häusliche Andacht, arranged by Rabbi Benjamin Szold (1867)",
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
-        {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
-            "name": "Aharon N. Varady (translation)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer translator for the Open Siddur Project. If you find any mistakes in his translations, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot Naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady/\">transcribes prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> for the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://opensiddur.org/profile/aharon-nissen-varady/",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-n-varady"
-        },
         {
             "name": "Benjamin Szold",
             "bio": "Benjamin Szold (November 15, 1829 in Nemeskürt, Nyitra County, Kingdom of Hungary, (today Slovakia) – July 31, 1902 in Berkeley Springs, West Virginia) was an American rabbi and scholar.  Szold studied under Rabbis Jacob Fischer of Shalgaw, Wolf Kollin of Werbau, and Benjamin Wolf at the Pressburg Yeshiva, and received the rabbinical authorization from Judah Assod of Bur and Simon Sidon of Tyrnau. In 1848, he studied in Vienna, but when the revolution of that year broke out he went to Pressburg. From 1849 to 1855 he tutored in private families in Hungary, and in the latter year entered the University of Breslau, where he remained until 1858. While a student he officiated during the holy days at Brieg, Silesia (1857), and at Stockholm, Sweden (1858). In 1859, he accepted a call from the Temple Oheb Shalom (Baltimore, Maryland) in whose service he remained until his death, first as rabbi and later (after 1892) as rabbi emeritus.  Under his guidance it grew rapidly, and, actuated by his example, it became widely known for its strict observance of Shabbat. Before Szold's arrival the congregation had adopted for use in its Shabbat service the Minhag America, (which was the new prayer-book written by Isaac Meyer Wise, a Reform rabbi) on the great fall holy days it reverted to the Minhag Ashkenaz; after much discussion with his congregation Szold introduced a new prayer-book, Abodat Yisrael, which closely followed traditional lines.",
             "website": "https://en.wikipedia.org/wiki/Benjamin_Szold",
             "avatar": "https://opensiddur.org/wp-content/uploads/2017/02/Benjamin-Szold-crop-96x96.jpg",
             "profile_link": "https://opensiddur.org/profile/benjamin-szold"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2023-05-02",

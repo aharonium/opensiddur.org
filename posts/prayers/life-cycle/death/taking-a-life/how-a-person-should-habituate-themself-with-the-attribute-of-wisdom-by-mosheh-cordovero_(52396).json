@@ -3,18 +3,18 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Mosheh ben Yaaqov Cordovero",
             "bio": "Moses ben Jacob Cordovero (<span class=\"hebrew\">משה קורדובירו</span> ‎; 1522–1570) was a central figure in the historical development of Kabbalah, leader of a mystical school in 16th-century Safed, Ottoman Syria (currently Tsfat, Israel). He is known by the acronym the Ramaḳ (<span class=\"hebrew\">רמ״ק</span>). After the Medieval flourishing of Ḳabbalah, centered on the Zohar, attempts were made to give a complete intellectual system to its theology, such as by Meir ibn Gabbai. Influenced by the earlier success of Jewish philosophy in articulating a rational study of Jewish thought, Moshe Cordovero produced the first full integration of the previous differing schools in Kabbalistic interpretation. While he was a mystic inspired by the imagery of the Zohar, Cordoverian Kabbalah utilized the conceptual framework of evolving cause and effect from the Infinite to the Finite in systemizing Kabbalah, the method of philosophical style discourse he held most effective in describing a process that reflects sequential logic and coherence. His encyclopedic works became a central stage in the development of Kabbalah. Immediately after him in Safed, Isaac Luria articulated a subsequent system of Ḳabbalistic theology, with new supra-rational doctrines recasting previous Ḳabbalistic thought. While Lurianism displaced the Cordoverian scheme and became predominant in Judaism, its followers read Cordoverian works in harmony with their teachings. Where to them, Lurianism described the \"World\" of Rectification, Cordovero described the pre-Rectification World. Both articulations of the 16th century mystical Renaissance in Safed gave Ḳabbalah an intellectual prominence to rival Medieval Rationalism, whose social influence on Judaism had waned after the Expulsion from Spain.",
             "website": "https://en.wikipedia.org/wiki/Moses_ben_Jacob_Cordovero",
             "avatar": "https://opensiddur.org/wp-content/uploads/2014/11/Keith-Evans-Green-Tree-Yellow-Field-CC-BY-SA-250x250.jpg",
             "profile_link": "https://opensiddur.org/profile/mosheh-cordovero"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2023-08-14",

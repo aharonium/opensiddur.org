@@ -1,14 +1,7 @@
 {
     "title": "תפילה לשלום המדינה בזמן מלחמה | Prayer for the Welfare of Israel in Wartime, by Rabbi Ron Aigen (2014)",
-    "author": "Aharon N. Varady (editing/transcription)",
+    "author": "Ron Aigen",
     "coauthors": [
-        {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
         {
             "name": "Ron Aigen",
             "bio": "Rabbi Ron Aigen, (d.2016) was the first full time rabbi of Congregation Dorshei Emet, Montreal.  He was spiritual leader of the community since 1976, and had a passion for promoting creative Jewish pathways for human fulfillment. His most recent interest was in the development of the Wise Heart Project: Jewish Wisdom for Everyday Living. Combining mindfulness meditation practice together with Jewish texts and rituals the Wise Heart Project offered two new programs this year: Parenting as a Spiritual Journey and Wise-Aging. Rabbi Ron was a Fellow of the Institute for Jewish Spirituality, and a Senior Rabbinic Fellow of the Shalom Hartman Institute in Jerusalem. He had served as President of the Montreal Board of Rabbis; President of the Reconstructionist Rabbinical Association; and Chair of the Montreal Federation’s Commission on Continuity and Culture. A native of Brooklyn, New York, he received his Bachelor of Science in Psychology from Harpur College, SUNY Binghamton and his Masters of Arts in Family Therapy and Community Psychology from Temple University. Rabbi Aigen was a graduate of the Reconstructionist Rabbinical College and was awarded a honourary Doctor of Divinity in 2001. Rabbi Ron’s publications included Siddur Hadesh Yameinu/ Renew Our Days: A Book of Jewish Prayer and Meditation, Mahzor Hadesh Yameinu: A Prayer-Cycle for Days of Awe, and Wellsprings of Freedom: The Renew Our Days Hagaddah; Community and the Individual Jew: A Festschrift in Honour of Lavy M. Becker; and chapters in Bar/Bat Mitzvah Education: A Source Book describing the Dorshei Emet Pre-B’nei Mitzvah and Family Education Program which he developed.",
@@ -22,6 +15,13 @@
             "website": "http://truah.org",
             "avatar": "https://opensiddur.org/wp-content/uploads/2013/07/Truah-96x96.png",
             "profile_link": "https://opensiddur.org/profile/truah"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2020-04-28",

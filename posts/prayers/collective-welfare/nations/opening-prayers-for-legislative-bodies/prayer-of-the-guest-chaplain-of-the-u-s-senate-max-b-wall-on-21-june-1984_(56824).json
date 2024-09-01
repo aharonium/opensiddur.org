@@ -3,13 +3,6 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Max B. Wall",
             "bio": "Rabbi Max B. (Meir) Wall (1915-2009), born in Poland, was a Conservative movement rabbi in the United States. His family emigrated to America in 1921 and lived in Denver, Colorado until 1927, when the family relocated to the Lower East Side of Manhattan in New York City. He received an AB from Yeshiva University, and his semikhah from the Jewish Theological Seminary. After taking a pulpit in Woodbury, New Jersey for a year, he enlisted in the Army Chaplain Corps and served with the Ninth Infantry Division during the Battle of the Bulge and took part in the liberation of the concentration camps. As the Jewish chaplain he was able to help thousands of displaced persons. Captain Wall was instrumental in the revival of Jewish worship in Munich and was the first to conduct a Jewish service there after the war. After returning from Europe in 1946, Rabbi Wall and his family moved to Burlington, Vermont where he served Ohavi Zedek Synagogue from 1946 until his retirement in 1987. He was one of the founders of the Burlington Ecumenical Action Ministry (BEAM) and joined the faculty of St. Michael's College where he taught Jewish related classes from 1964-1993. He also taught Religion and Ethics at Champlain College, and guest lectured at UVM and Norwich University. Rabbi Wall was a moral educator and activist with an enduring commitment to social justice, advocacy for human rights and a tireless effort to improve the social well being of all peoples. He served as the Jewish Chaplain for the State Institutions from 1946-1993, visiting the Brandon School, Waterbury State Hospital, and Vermont prisons. He served on the boards of the Medical Center Hospital of Vermont, Champlain College, and Howard Mental Health, where he was the chair of the Psychiatric Disabilities Committee. He served on the Governor's Advisory Committee on bio-medical ethics, the Governor's Committee on Youth, the Committee on Employment of the Handicapped, and the Vermont State Housing Authority. Rabbi Wall was awarded honorary doctorates from the Jewish Theological Seminary, University of Vermont and St. Michael's College. He received a Commissioner's Award from the Vermont Agency of Human Services in 1994, and many other honors. The Rabbi was a member of the Rotary Club and a Chaplain Emeritus of the Masons. He belonged to several Veterans' groups, and numerous Jewish organizations. He served on the Executive Board of the Rabbinical Assembly of America and the New York Board of Rabbis.",
             "website": "",
@@ -22,6 +15,13 @@
             "website": "https://en.wikipedia.org/wiki/Congressional_Record",
             "avatar": "https://opensiddur.org/wp-content/uploads/2024/02/Congressional-Record-96x96.png",
             "profile_link": "https://opensiddur.org/profile/united-states-congressional-record"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2024-06-15",

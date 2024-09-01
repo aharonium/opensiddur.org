@@ -3,18 +3,18 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Moritz Mayer",
             "bio": "Rabbi Moritz Mayer (originally Moses Maier, later Maurice Mayer; 1821-1867) born in Dürckheim-on-the-Haardt, Germany, fled to the United States and to New York as a political refugee of the <a href=\"https://secure.wikimedia.org/wikipedia/en/wiki/1848_revolution#German_states\">1848 revolution</a>. In 1859, after seven years as the rabbi of <a href=\"/profile/kehilat-kadosh-beth-elohim/\">Ḳ.Ḳ. Beth Elohim</a> in Charleston, South Carolina, he returned in poor health to New York where he contributed frequently to the Jewish press, and translated various German works into English: Rabbi Samuel Adler's catechism, Abraham Geiger's lectures on Jewish history, and Ludwig Philipson's pamphlet, <em>Haben die Juden Jesum Gekreuzigt?</em> (the Crucifixion from the Jewish Point of View), et al. In 1866, a number of his English translations of Fanny Neuda's teḥinot in German (from her <em>Stunden Der Andacht</em>, 1855/1858) were published in a volume he titled <em>Hours of Devotion</em>. The work also included a number of his own prayers as well as those of Marcus Heinrich Bresslau. The following year, Moritz Mayer passed away. He was 45 years old. \r\n\r\n(We are indebted to Anton Hieke for his research on Mayer, \"<a href=\"https://www.academia.edu/41728357/Anton_Hieke_Rabbi_Maurice_Mayer_German_Revolutionary_Charleston_Reformer_and_Anti-Abolitionist\">Rabbi Maurice Mayer: German Revolutionary, Charleston Reformer, and Anti-Abolitionist</a>\" published in <em>Southern Jewish Life</em>, 17 (2014), pp. 45-89.)\r\n\r\nFor Mayer's translations of prayers by other authors, please <a href=\"/profile/moritz-mayer-translation/\">visit here</a>.",
             "website": "",
             "avatar": "https://opensiddur.org/wp-content/uploads/2021/11/Moritz-Mayer-circa-1860s-96x96.png",
             "profile_link": "https://opensiddur.org/profile/moritz-mayer"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2020-06-19",

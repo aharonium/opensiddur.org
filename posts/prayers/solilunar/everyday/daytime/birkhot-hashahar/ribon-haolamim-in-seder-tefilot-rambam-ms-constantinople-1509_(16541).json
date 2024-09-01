@@ -1,14 +1,7 @@
 {
     "title": "רבון העולמים | Ribon HaOlamim from the Seder Tefilot of the RaMBaM in MS Constantinople 1509",
-    "author": "Aharon N. Varady (translation)",
+    "author": "Unknown Author(s)",
     "coauthors": [
-        {
-            "name": "Aharon N. Varady (translation)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer translator for the Open Siddur Project. If you find any mistakes in his translations, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot Naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady/\">transcribes prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> for the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://opensiddur.org/profile/aharon-nissen-varady/",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-n-varady"
-        },
         {
             "name": "Moshe ben Maimon",
             "bio": "Mosheh ben Maimon (משה בן מימון), called Moses Maimonides (/maɪˈmɒnɪdiːz/ my-mon-i-deez) and also known as Mūsā ibn Maymūn (Arabic: موسى بن ميمون‎), or RaMBaM (רמב\"ם – Hebrew acronym for \"Rabbeinu Mosheh Ben Maimon\" – English translation: \"Our Rabbi/Teacher Moses Son [of] Maimon\"), was a preeminent medieval Spanish, Sephardic Jewish philosopher, astronomer and one of the most prolific and influential Torah scholars and physicians of the Middle Ages. He was born in Córdoba (present-day Spain), Almoravid Empire on Passover Eve, 1138, and died in Egypt on December 12, 1204. \r\n\r\nAlthough his writings on Jewish law and ethics were met with acclaim and gratitude from most Jews, even as far off as Iraq and Yemen, and he rose to be the revered head of the Jewish community in Egypt, there were also vociferous critics of some of his writings, particularly in Spain. Nevertheless, he was posthumously acknowledged to be one of the foremost rabbinical arbiters and philosophers in Jewish history, his copious work comprising a cornerstone of Jewish scholarship. His fourteen-volume Mishneh Torah still carries significant canonical authority as a codification of Talmudic law. In the Yeshiva world he is called sometimes \"haNesher haGadol\" (the great eagle) in recognition of his outstanding status as a bona fide exponent of the Oral Torah.\r\n\r\n(from \"<a href=\"http://en.wikipedia.org/wiki/Maimonides\">Maimonides</a>\" on wikipedia)",
@@ -22,6 +15,13 @@
             "website": "",
             "avatar": "https://opensiddur.org/wp-content/uploads/2014/11/Keith-Evans-Green-Tree-Yellow-Field-CC-BY-SA-250x250.jpg",
             "profile_link": "https://opensiddur.org/profile/unknown"
+        },
+        {
+            "name": "Aharon N. Varady (translation)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer translator for the Open Siddur Project. If you find any mistakes in his translations, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot Naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-transcription/\">transcribes prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> for the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-translation"
         }
     ],
     "date": "2017-08-10",

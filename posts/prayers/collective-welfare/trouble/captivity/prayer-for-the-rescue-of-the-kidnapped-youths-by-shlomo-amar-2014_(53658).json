@@ -3,18 +3,18 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Shlomo Mosheh Amar",
             "bio": "Shlomo Moshe Amar (שלמה משה עמר; Arabic: سليمان موسى عمار; born April 1, 1948) is the former Sephardic Chief Rabbi of Israel. Amar was born in Casablanca, Morocco, to Eliyahu and Mima (Miriam) Amar. His family immigrated to Israel in 1962 when he was 14. He studied in the Ponovezh Yeshiva.[3] He transferred to a small Yeshiva in the northern town of Shlomi, where at age 19, was appointed the rabbi of the town. At age 20 he also served as the head of kashrut for the city of Nahariyya. Amar studied dayanut in Haifa under Rabbi Yaakov Nissan Rosenthal. Amar was a close associate and student of the spiritual leader of the Shas party and former Sephardi Chief Rabbi, Ovadia Yosef. Before his appointment as Sephardic Chief Rabbi of Israel, Amar had served as the head of the Petah Tikva Rabbinical Court. He was elected chief rabbi of Tel Aviv in 2002, the first sole Chief Rabbi of the city. He served in the position of Rishon LeZion from 2003 to 2013; his Ashkenazi counterpart during his tenure was Yona Metzger. In 2014 he became the Sephardic Chief Rabbi of Jerusalem.",
             "website": "https://en.wikipedia.org/wiki/Shlomo_Amar",
             "avatar": "https://opensiddur.org/wp-content/uploads/2023/12/shlomo-mosheh-amar-96x96.jpg",
             "profile_link": "https://opensiddur.org/profile/shlomo-mosheh-amar"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2023-12-14",

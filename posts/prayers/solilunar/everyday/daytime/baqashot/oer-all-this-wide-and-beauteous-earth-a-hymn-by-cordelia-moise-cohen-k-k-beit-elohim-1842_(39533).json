@@ -1,14 +1,7 @@
 {
     "title": "O'er All This Wide and Beauteous Earth, a hymn on Divine Mercy by Cordelia Moïse Cohen (Ḳ.Ḳ. Beth Elohim 1842)",
-    "author": "Aharon N. Varady (editing/transcription)",
+    "author": "Ḳahal Ḳadosh Beth Elohim (Charleston, South Carolina)",
     "coauthors": [
-        {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
         {
             "name": "Cordelia Moïse Cohen",
             "bio": "Cordelia Moïse Cohen (1810-1869) was born in Charleston, the younger daughter of Cherie (Cherry) Moïse and Esther Moses. She married Dr. Philip Melvin Cohen of Charleston in 1832 and with him had eleven children. In <em>The Moïse Family of South Caroline</em> (1961) Harold Moïse writes that \"she is remembered by her gift for poetry. She wrote a series of hymns for Congregation Beth Elohim which supplemented those of her aunt Penina Moïse. Cordelia, keen in wit and repartee, was the center of a brilliant circle of admirers. She suffered bitterly from poverty and anxiety during the Civil War, her physician husband in the service of the Confederacy, her family scattered. They were in Columbia when that city was burned by Sherman.\" She died in Charleston in 1869.",
@@ -22,6 +15,13 @@
             "website": "https://en.wikipedia.org/wiki/Kahal_Kadosh_Beth_Elohim",
             "avatar": "https://opensiddur.org/wp-content/uploads/2021/10/k-k-beth-elohim-96x96.jpg",
             "profile_link": "https://opensiddur.org/profile/kahal-kadosh-beth-elohim"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2021-10-11",

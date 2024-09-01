@@ -3,18 +3,18 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "David J. Wolpe",
             "bio": "David J. Wolpe (born 1958) is the Max Webb Senior Rabbi of Sinai Temple in Los Angeles, California. He previously taught at the Jewish Theological Seminary of America in New York, the American Jewish University in Los Angeles, Hunter College, and UCLA. Wolpe’s work has been profiled in the New York Times, and he is a columnist for Time.com, he regularly writes for many publications, including The LA Times, the Washington Post’s On Faith website, The Huffington Post, and the New York Jewish Week. He has been on television numerous times, including the Today Show, Face the Nation, ABC this Morning, and CBS This Morning. In addition, Wolpe has been featured in series on PBS, A&amp;E, the History channel, and the Discovery channel. Wolpe is the author of eight books, including the national bestseller <em>Making Loss Matter: Creating Meaning in Difficult Times</em> and <em>David: The Divided Heart</em>, a finalist for the National Jewish Book Award (2014).",
             "website": "https://en.wikipedia.org/wiki/David_Wolpe",
             "avatar": "https://opensiddur.org/wp-content/uploads/2021/01/david-wolpe-96x96.jpg",
             "profile_link": "https://opensiddur.org/profile/david-wolpe"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2021-01-03",

@@ -1,14 +1,7 @@
 {
     "title": "Prayer of the Guest Chaplain of the U.S. Senate: Rabbi Herman Eliot Snyder on 28 April 1948",
-    "author": "Aharon N. Varady (editing/transcription)",
+    "author": "Herman E. Snyder",
     "coauthors": [
-        {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
         {
             "name": "Herman E. Snyder",
             "bio": "Rabbi Herman Eliot Snyder (1901-1992), born in New Bedford, Massachusetts, was a Reform movement rabbi in the United States. He graduated from the University of Cincinnati and a degree in Hebrew Literature from Hebrew Union College (HUC) in 1926 after which he was ordained 1928. He served student and summer pulpits in Wausau, Wisconsin; Kalamazoo, Michigan;  Milwaukee, Wisconsin; Owensboro, Kentucky; Binghamton, New York; Harrisburg, Pennsylvania;  nd Dallas, Texas. In 1928, he accepted the pulpit of Congregation B'rith Sholom in Springfield, Illinois. During the 1930s Snyder was chairman of the local Joint Distribution Committee to raise relief funds. Snyder actively promoted Jewish-Christian relations;  he was the first Rabbi elected president of the Springfield Ministerial Association  His active interest in promoting equality in human relations led to his appointment to the Illinois State Committee on Naturalization and Americanization (a committee concerning race relations) by the Governor and to seeking equal employment practices for African Americans. In March of 1944, Snyder was commissioned a Chaplain (Lieutenant) in the US Naval eserve.  After completion of Chaplain's Training School in Virginia, he was assigned to the arine Corps at Camp Joseph Pendleton in Oceanside, California.  In addition to his regular duties as Chaplain, Snyder conducted services at San Diego area military bases and at Santa argarita Naval Hospital. Snyder was discharged from active duty in March of 1946, but continued to serve as an instructor at the Naval Reserve Training Center at Great Lakes, Illinois. After 1946, Rabbi Snyder came to Temple Sinai in Springfield, Massachusetts where he spent the remainder of his career. He was discharged from the Naval Reserve in 1954, but served as a parttime chaplain for the US Air Force from 1957-1967 at Westover Air Force Base, Massachusetts and led a Torah Convocation (sponsored by the National Jewish Welfare Board) in 1954 for Jewish airmen in the Azores. He was founder and first President of the New England Region group of the Central Conference of American Rabbis.  He traded or shared pulpits with Christian clergy in Springfield to promote better Jewish-Christian relations. During the 1950s and 1960s Sinai Temple and the Trinity United Methodist Church held joint \"Brotherhood Week\" services.",
@@ -22,6 +15,13 @@
             "website": "https://en.wikipedia.org/wiki/Congressional_Record",
             "avatar": "https://opensiddur.org/wp-content/uploads/2024/02/Congressional-Record-96x96.png",
             "profile_link": "https://opensiddur.org/profile/united-states-congressional-record"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2024-04-27",

@@ -1,14 +1,7 @@
 {
     "title": "Prayer on the 75th Anniversary of the Founding of the State of Israel for North American Jews, by Rabbi Ayelet Cohen (T'ruah 2023)",
-    "author": "Aharon N. Varady (editing/transcription)",
+    "author": "T'ruah: The Rabbinic Call for Human Rights",
     "coauthors": [
-        {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
         {
             "name": "Ayelet Cohen",
             "bio": "Rabbi Ayelet S. Cohen is Senior Director of the New Israel Fund’s New York/Tri-State Region. Previously, she was Director of The Center for Jewish Living and The David H. Sonabend Center for Israel at The Jewish Community Center in Manhattan. She served for 10 years at Congregation Beit Simchat Torah, the world’s largest LGBT synagogue serving people of all sexual orientations and gender identities. Passionately committed to progressive and feminist Judaism, she is an activist and an advocate for full inclusion and celebration of LGBT Jews in the Jewish world, and an advocate for LGBT civil rights. Rabbi Cohen has been profiled in the New York Times, was named one of the “Heeb 100,” Heeb Magazine’s “hundred people you need to know about,” and was honored at the 2005 Ma’yan Seder as a leading young Jewish feminist activist. She is a member of the Rabbinical Assembly and the New York Board of Rabbis.",
@@ -22,6 +15,13 @@
             "website": "http://truah.org",
             "avatar": "https://opensiddur.org/wp-content/uploads/2013/07/Truah-96x96.png",
             "profile_link": "https://opensiddur.org/profile/truah"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2023-04-21",

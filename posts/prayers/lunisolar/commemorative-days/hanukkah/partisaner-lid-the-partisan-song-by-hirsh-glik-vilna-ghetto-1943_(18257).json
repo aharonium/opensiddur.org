@@ -17,18 +17,18 @@
             "profile_link": "https://opensiddur.org/profile/noam-lerman"
         },
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Hirsh Glik",
             "bio": "Glick was born in Wilno in 1922 (at the time a part of inter-war Poland). He began to write Yiddish poetry in his teens and became co-founder of Yungvald (Young Forest), a group of young Jewish poets. After the German assault on Soviet Union in 1941, Hirsh Glick was imprisoned in the Weiße Wache concentration camp and later transferred to Vilna Ghetto. Glick involved himself in the ghetto's artistic community while simultaneously participating in the underground and took part in the 1942 ghetto uprising. In 1943 he wrote his most famous work, the song Zog nit keynmol, az du geyst dem letstn veg (זאג ניט קיינמאל, אז דו גייסט דעם לעצטן וועג) to the music of the soviet composer Dmitry Pokrass (1899-1978), which became the anthem of the Jewish partisan movement, and Shtil, di nakht iz oysgeshternt. He was inspired to write this work by news that arrived of the Warsaw Ghetto Uprising.Glick managed to flee when the ghetto was being liquidated in October 1943, but was re-captured. He was later deported to a concentration camp in Estonia. During his captivity he continued to compose songs and poems. In July 1944, with the Soviet Army approaching, Glick escaped. He was never heard from again, and was presumed captured and executed by the Germans (reportedly in August 1944). (via <a href=\"https://en.wikipedia.org/wiki/Hirsh_Glick\">his article</a> in wikipedia)",
             "website": "https://en.wikipedia.org/wiki/Hirsh_Glick",
             "avatar": "https://opensiddur.org/wp-content/uploads/2017/11/hirsh-glik-96x96.jpg",
             "profile_link": "https://opensiddur.org/profile/hirsh-glik"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2017-11-25",

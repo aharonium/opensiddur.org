@@ -1,14 +1,7 @@
 {
     "title": "תפלת מי שברך לעת מלחמה מרחשוון תשפ״ד | Mi sheBerakh prayer for Israel at a time of War (Marḥeshvan 5784), by the Masorti Movement in Israel (2023)",
-    "author": "Aharon N. Varady (editing/transcription)",
+    "author": "Masorti Movement in Israel",
     "coauthors": [
-        {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
         {
             "name": "Ze'ev Kainan",
             "bio": "Ze'ev Kainan is the CEO of Mosad Bialik Publishing House. Ze'ev was the CEO of Keren Malki - an Israeli nonprofit organization that assists families of children with special needs, and the director of education and special projects at Tikvatenu Centers network. Ze'ev worked for years with youth and was a delegate to the Ramah camps (California, Canada, Poconos, and the Ramah Seminar in Israel) as well as other JCC camps. From 1997 to 2000, he served as a central emissary for the USY movement in North America, on behalf of the Jewish Agency. He later served as the director of the youth movement of the Masorti Movement in Israel for seven years and is also the editor of the siddur <em>va'Ani Tefillati - Siddur Yisraeli</em> and the <em>Poteach Sha'ar</em> Machzor for the High Holidays of the Masorti Movement. Ze'ev was born and raised in the religious kibbutz of Sa'ad in the northern Negev, three kilometers east of Gaza City and now lives in Jerusalem with his wife, Dr. Lisa Kainan and their three children - all graduates of Noam.",
@@ -36,6 +29,13 @@
             "website": "https://www.facebook.com/pages/category/Religious-Organization/כנסת-הרבנים-בישראל-1446203438948577/",
             "avatar": "https://opensiddur.org/wp-content/uploads/2019/10/knesset-harabanim-byisrael-96x96.jpg",
             "profile_link": "https://opensiddur.org/profile/knesset-harabanim-byisrael"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2023-10-28",
@@ -47,7 +47,7 @@
         "War"
     ],
     "tags": [
-        "2023 Israel–Hamas war",
+        "2023-2024 Israel–Hamas war",
         "21st century C.E.",
         "58th century A.M.",
         "Israel",

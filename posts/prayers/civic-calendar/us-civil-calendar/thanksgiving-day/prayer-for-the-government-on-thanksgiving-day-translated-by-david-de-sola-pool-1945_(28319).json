@@ -3,18 +3,18 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "David de Sola Pool",
             "bio": "David de Sola Pool (דוד די סולה פול;‎ 1885–1970) was the leading 20th-century Sephardic rabbi in the United States. A scholar, author, and civic leader, he was a world leader of Judaism. Born in London, England, de Sola Pool was descended from an old and renowned family of rabbis and scholars, de Sola, which traces its origins to medieval Spain. His great grandparents were Rabbi (R.) David Aaron de Sola and Rebecca Meldola, his great-great grandfather was Haham Raphael Meldola, a prominent English Rabbi. He was also related to R. Abraham de Sola, R. Henry Pereira Mendes and Dr. Frederick de Sola Mendes. He studied at the University of London. He held a doctorate in ancient languages, summa cum laude, from the University of Heidelberg. In 1907, de Sola Pool was invited to become the rabbi of Congregation Shearith Israel — often called the Spanish and Portuguese Synagogue — located in New York City, the oldest Jewish congregation in the United States. He served as its rabbi for 63 years.",
             "website": "https://en.wikipedia.org/wiki/David_de_Sola_Pool",
             "avatar": "https://opensiddur.org/wp-content/uploads/2019/08/David_de_sola_pool_portrait-96x96.jpg",
             "profile_link": "https://opensiddur.org/profile/david-de-sola-pool"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2019-11-27",

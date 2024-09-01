@@ -3,18 +3,18 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Philip S. Bernstein",
             "bio": "Philip Sidney Bernstein (June 29, 1901 – December 3, 1985) was a Reform rabbi who served as the advisor to the U.S. Army during World War II. After the war he helped find homes for over 200,000 displaced Jews. Born in Rochester, New York he went on to study at Syracuse University and the Jewish Institute of Religion. At the age of 25, in 1926, Bernstein returned to Rochester to serve as assistant rabbi of Temple B'rith Kodesh. Within the year he was made rabbi and continued there until the late 1960s. As rabbi, Bernstein began fighting antisemitism; exemplified by his correspondence with his acquaintance Cardinal Edward Mooney. Bernstein requested the Cardinal join him in combating Father Charles Coughlin and his antisemitic National Union for Social Justice. During World War II Bernstein, acted as the official advisor on Jewish affairs to United States Army commanders in Europe, relating the stories of the Holocaust to the United States beginning in 1943. After the war, Bernstein assisted in resettling over 200,000 displaced European Jews. At the petition of Orthodox Jews living in displaced persons' camps, he adopted their proposition that copies of the Talmud should be printed to help support Jewish education in the refugee camps. In the 1950s and 60s, Bernstein served as the president of the Central Conference of American Rabbis and chairman of the American Israel Public Affairs Committee.",
             "website": "https://en.wikipedia.org/wiki/Philip_Sidney_Bernstein",
             "avatar": "https://opensiddur.org/wp-content/uploads/2022/06/philip-sidney-bernstein-96x96.jpg",
             "profile_link": "https://opensiddur.org/profile/philip-sidney-bernstein"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2022-06-08",

@@ -3,13 +3,6 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Louis Kaplan",
             "bio": "Rabbi Louis Kaplan, born in Philadelphia, is a Conservative movement rabbi in the United States. Graduating from the University of Pennsylvania in 1949 and Gratz College in 1950. After military service in the Korean War, he was ordained at JTS in 1956. Rabbi Kaplan occupied pulpits in Bloomfield, Connecticut and Daytona Beach, Florida before coming to Ohev Shalom (Chester, Pennsylvania) in 1961. He completed his Ph.D. at Dropsie in 1971. In addition to his work as rabbi at Ohev Shalom, and from 1983 to 1992 as school principal, Rabbi Kaplan held the positions of adjunct lecturer in English and Judaica at the Delaware County Campus of Pennsylvania State University (1973-1981) and of adjunct assistant professor of Judaica at Widener University (1989-1992, 1994). He was chaplain to Jewish students at Widener University and conducted a monthly prayer-study-song session at four area nursing homes. Rabbi Kaplan served as president of the Philadelphia Region of the Rabbinical Assembly. He held the office of president in the Ministerium of Chester and Vicinity, Interfaith Council of Nether Providence Clergy, and the Swarthmore-Wallingford Interfaith Ministerium. He originated \"Quest: An Experiment in Interfaith Understanding,\" which involves Ohev Shalom, St. John Chrysostom Roman Catholic Church, and Swarthmore Presbyterian Church, and was co-founder of the \"Covenant of Faith\" binding these three institutions. In 1972, Rabbi Kaplan, Monsignor Frederick Stevenson, and Reverend J. Barrie Shepherd were co-winners of the Sylvan K. Cohen Award from the Jewish Community Relations Council of Greater Philadelphia.",
             "website": "",
@@ -22,6 +15,13 @@
             "website": "https://en.wikipedia.org/wiki/Congressional_Record",
             "avatar": "https://opensiddur.org/wp-content/uploads/2024/02/Congressional-Record-96x96.png",
             "profile_link": "https://opensiddur.org/profile/united-states-congressional-record"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2024-06-23",

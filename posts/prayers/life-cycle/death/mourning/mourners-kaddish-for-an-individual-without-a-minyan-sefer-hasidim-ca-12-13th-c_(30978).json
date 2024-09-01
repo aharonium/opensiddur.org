@@ -3,18 +3,18 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Yehudah ben Shmuel of Regensburg",
             "bio": "Yehudah ben Shmuel of Regensburg (Judah b. Samuel, 1150 – 22 February 1217), also called Yehudah heḤasid in Hebrew, was a leader of the Ḥassidei Ashkenaz. Judah was born in the small town of Speyer in the modern day Rhineland-Palatinate state in Germany in 1150 but later settled in Regensburg in the modern day state of Bavaria in 1195. He wrote much of Sefer Hasidim (Book of the Pious), as well as a work about Gematria, and Sefer Hakavod (the latter mainly lost). Yehudah was descended from an old family of kabbalists from Northern Italy that had settled in Germany. His grandfather Kalonymus was a scholar and parnas in Speyer (died 1126). His father Shmuel, also called heḤasid, haKadosh, and haNavi, was president of a bet ha-midrash in Speyer, and from him Yehudah, together with his brother Abraham, received his early instruction. He founded a yeshiva in Regensburg and secured many pupils. Among those who became famous were Eleazar of Worms, author of the Roḳeaḥ; Isaac ben Moses of Vienna, author of Or Zarua; and Baruch ben Samuel of Mainz, author of Sefer ha-Ḥokmah. Eleazar applies to his teacher in several passages terms expressive of the highest esteem, such as \"father of wisdom\". He was also a student, of one of the authors of Tosafot, and was the teacher of the Maharam of Rothenburg. He composed liturgical songs, but the authenticity of those attributed to him is uncertain. As regards his Shir Hayichud (seven parts; the eighth is called Shir HaKavod), printed in Tiengen, 1560, there is very great divergence of opinion, and the question of its authorship is still undecided. According to Zunz, it seems to be genuine, as do also his prayer Yechabeh Dim`ati and his selicha Gadol Yichudcha Elohim Beyisrael. More probably, according to the sources, his father, or a certain Samuel Ḥazzan, who died as a martyr at Erfurt in 1121, composed the Shir ha-Yiḥud, and Judah himself wrote a commentary on it. Several prayers are erroneously attributed to Judah; e.g., Zunz wrongly ascribes to him the alphabetical teḥinnah Ezkera Yom Moti. He wrote also commentaries on several parts of the daily prayers and on the Maḥzor.",
             "website": "https://en.wikipedia.org/wiki/Judah_ben_Samuel_of_Regensburg",
             "avatar": "https://opensiddur.org/wp-content/uploads/2014/11/Keith-Evans-Green-Tree-Yellow-Field-CC-BY-SA-250x250.jpg",
             "profile_link": "https://opensiddur.org/profile/yehuda-ben-shmuel"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2020-04-07",

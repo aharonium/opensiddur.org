@@ -3,13 +3,6 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Angie Irma Cohon",
             "bio": "Angie Irma Cohon (née Reinhart, 1890-1991) was a Jewish author, poet, translator, and educator. Born to parents J.F. and Amelia (Marks) Reinhart in 1890, Cohon lived in Portland, Oregon until moving to Ohio at 19 to attend Hebrew Union College. She transferred to the University of Cincinnati, earning a bachelors degree in 1912. On June 12 of the same year she graduated, Cohon married Rabbi Samuel S. Cohon. In Chicago, they ran Temple Mizpah, with A. Irma Cohon organizing the sisterhood (Women of Mizpah) and the synagogue's religious school. A prayer pamphlet she prepared, <em>A Brief Jewish Ritual</em>, was published by Women of Mizpah in 1921. Cohon is best known for her contributions to the field of Jewish music in the English language. The National Council on Jewish Women published <em>Introduction to Jewish Music in Eight Illustrated Lectures</em>, with a second edition coming out in 1923. This work became a basis for the Council's study of music for nearly 30 years. She collaborated with Abraham Zevi Idelsohn on <em>Harvest Festivals, A Children’s Succoth Celebration</em> (1925).",
             "website": "https://en.wikipedia.org/wiki/Angie_Irma_Cohon",
@@ -22,6 +15,13 @@
             "website": "https://en.wikipedia.org/wiki/Shlomo_Halevi_Alkabetz",
             "avatar": "https://opensiddur.org/wp-content/uploads/2014/11/Keith-Evans-Green-Tree-Yellow-Field-CC-BY-SA-250x250.jpg",
             "profile_link": "https://opensiddur.org/profile/shlomo-halevi-al-qabets"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2022-06-24",

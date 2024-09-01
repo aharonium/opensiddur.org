@@ -3,18 +3,18 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Ben Tsiyon Meir Ḥai Uziel",
             "bio": "Ben-Tsiyon Meir Ḥai Uziel (Hebrew: בן ציון מאיר חי עוזיאל‬, born 23 May 1880, died 4 September 1953) was the Sephardi chief rabbi of Mandatory Palestine from 1939 to 1948, and of Israel from 1948 until his death in 1953. In 1911, Uziel was appointed Hakham Bashi of Jaffa and the district. There he worked closely Abraham Isaac Kook, who was the spiritual leader of the Ashkenazi community. Immediately upon his arrival in Jaffa he began to work vigorously to raise the status of the Sepharadi, Temani, and other non-Ashkenazi communities there. In spirit and ideas he was close to the Kook, and their affinity helped to bring about more harmonious relations than previously existed between the two communities. Uziel was an advocate for strong relationships between the indigenous Arab population of the new State of Israel and Jews. He spoke fluent Arabic, and believed in peace and harmony between the two parties.",
             "website": "https://en.wikipedia.org/wiki/Ben-Zion_Meir_Hai_Uziel",
             "avatar": "https://opensiddur.org/wp-content/uploads/2018/03/Ben-Zion-Meir-Hai-Uziel-96x96.png",
             "profile_link": "https://opensiddur.org/profile/ben-tsiyon-meir-hai-uziel"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2019-06-01",

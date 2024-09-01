@@ -1,14 +1,7 @@
 {
     "title": "Prayer for the Success of the Conference on Palestine Convened by His Majesty's Government (Office of the Chief Rabbi of the British Empire, 19 February 1939)",
-    "author": "Aharon N. Varady (editing/transcription)",
+    "author": "Office of the Chief Rabbi of the United Hebrew Congregations of the United Kingdom and the Commonwealth",
     "coauthors": [
-        {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
         {
             "name": "Joseph Herman Hertz",
             "bio": "Joseph Herman Hertz (25 September 1872 – 14 January 1946) was a Jewish Hungarian-born rabbi and biblical scholar. He is most notable for holding the position of Chief Rabbi of the United Kingdom from 1913 until his death in 1946, in a period encompassing both world wars and the Holocaust. Hertz edited a notable commentary on the Torah (1929–36, one volume edition 1937). Popularly known as the Hertz Chumash, this classic Hebrew-English edition of the Five Books of Moses, with corresponding Haftorahs, is used in synagogues and classrooms throughout the English-speaking world. He also edited a Hebrew-English edition of the Jewish Prayer Book or Siddur (1946), and contributed to the Jewish Encyclopedia and the Encyclopædia Britannica.",
@@ -22,6 +15,13 @@
             "website": "https://chiefrabbi.org",
             "avatar": "https://opensiddur.org/wp-content/uploads/2018/06/OCR-logo-2-e1674565447497-96x96.jpg",
             "profile_link": "https://opensiddur.org/profile/office-of-the-chief-rabbi"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2023-07-18",

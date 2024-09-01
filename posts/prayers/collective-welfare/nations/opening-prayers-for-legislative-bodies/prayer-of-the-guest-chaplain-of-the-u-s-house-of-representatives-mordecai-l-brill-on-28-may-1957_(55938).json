@@ -3,13 +3,6 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Mordecai L. Brill",
             "bio": "Rabbi Mordecai Louis Brill (1910-1994), born in Indianapolis, Indiana, was a Conservative movement rabbi in the United States. After attending the Hebrew Theological College in Chicago, he was ordained at the rabbinical school of the Jewish Theological Seminary in 1936. Rabbi Brill's first pulpit, in 1936, was at Rodeph Sholom Congregation in Johnstown, Pennsylvania. In 1940, he moved to Brith Sholom in Bethlehem, Pennsylvania where he was also director of B'nai B'rith youth organizations at nearby schools. In 1943, Rabbi Brill left Bethlehem to serve as an army chaplain. Brill returned to civilian life in 1946, and served as rabbi of the Beth El Synagogue in Waterbury, Connecticut until 1950. He pursued a doctorate at JTS; his dissertation was entitled <em>My Experiences and Observations as a Jewish Chaplain in World War II</em>. Rabbi Brill later served as the spiritual leader of the Greenburgh Hebrew Center, in Dobbs Ferry, New York, and as a hospital chaplain at the Holy Cross Hospital of Fort Lauderdale, Florida. Chairman of the Synagogue Council of America’s Committee on the Family, in 1967, he was chosen by the National Council of Churches to chair their Interfaith Commission on Marriage and Family Life. After this, he collaborated with William H. Genné in writing and editing two books: <em>Marriage: An Interfaith Guide for All Couples</em> (1970) and <em>Write your own wedding: A personal guide for couples of all faiths</em> (1973). He contributed a syndicated news column, \"Footnotes to History: It Happened to the Jews.\" In 1988, he was honored as Chaplain of the Year, by the National Association of Jewish Chaplains. (If you know more about Rabbi Brill, please <a href=\"/contact/\">contact us</a> and contribute additional details to this short bio.)",
             "website": "",
@@ -22,6 +15,13 @@
             "website": "https://en.wikipedia.org/wiki/Congressional_Record",
             "avatar": "https://opensiddur.org/wp-content/uploads/2024/02/Congressional-Record-96x96.png",
             "profile_link": "https://opensiddur.org/profile/united-states-congressional-record"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2024-05-19",

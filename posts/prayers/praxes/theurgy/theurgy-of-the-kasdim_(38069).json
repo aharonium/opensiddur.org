@@ -1,14 +1,7 @@
 {
     "title": "הספר ששמשו בו הכשדים | Theurgy of the Kasdim, an astral-magic treatise on the seven angels of the week",
-    "author": "Aharon N. Varady (editing/transcription)",
+    "author": "Unknown Author(s)",
     "coauthors": [
-        {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
         {
             "name": "Moses Gaster",
             "bio": "Moses Gaster (17 September 1856 – 5 March 1939) was a Romanian, later British scholar and rabbi, the Ḥakham of the Spanish and Portuguese Jewish congregation, London, a folklorist, and a Hebrew and Romanian linguist. In Leipzig, he received his PhD in 1878, followed in 1881 with his Hattarat Hora'ah (rabbinical diploma) from the  Jewish Seminary in Breslau. Before his expulsion from Romania in 1885 by the government of Ion Brătianu for his early Zionist organizing, he was lecturer on the Romanian language and literature at the University of Bucharest (1881–85), inspector-general of schools, and a member of the council for examining teachers in Romania. He also lectured on the Romanian apocrypha, the whole of which he had discovered in manuscript. His history of Romanian popular literature was published in Bucharest in 1883. Gaster was a central figure of Hibbat Zion in Romania and played a central role in the 1882 establishment by Jews from Moineşti of the Samarin (Zamarin) settlement, known since 1884 as Zichron Ya'akov. In England, in 1886 and 1891, he held a lectureship in Slavonic literature at the University of Oxford. In 1895, at the request of the Romanian government, he wrote a report on the British system of education, which was printed as a \"green book\" and accepted as a basis of education in Romania. In 1887 Gaster was appointed hakham of the Sephardic or Spanish and Portuguese Congregation in London, in which capacity he presided over the bicentenary of Bevis Marks Synagogue. He was a member of the councils of the Folklore, Biblical, Archaeological, and Royal Asiatic societies, writing many papers in their interest. He was the only ordained rabbi ever to become president of The Folklore Society, in 1907–1908. He became vice-president of the First Zionist Congress in Basel, and was a prominent figure in each succeeding congress. The first draft of the Balfour Declaration was written at the Gaster home on 7 February 1917 in the presence of Chaim Weizmann, Nahum Sokolow, Baron Rothschild, Sir Mark Sykes and Herbert Samuel. In 1925, Gaster was appointed one of the six members of the honorary board of trustees (Curatorium) of the Yiddish Scientific Institute (YIVO) in Wilna, alongside Simon Dubnow, Albert Einstein, Sigmund Freud, Edward Sapir, and Chaim Zhitlowsky.",
@@ -22,6 +15,13 @@
             "website": "",
             "avatar": "https://opensiddur.org/wp-content/uploads/2014/11/Keith-Evans-Green-Tree-Yellow-Field-CC-BY-SA-250x250.jpg",
             "profile_link": "https://opensiddur.org/profile/unknown"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2021-07-12",

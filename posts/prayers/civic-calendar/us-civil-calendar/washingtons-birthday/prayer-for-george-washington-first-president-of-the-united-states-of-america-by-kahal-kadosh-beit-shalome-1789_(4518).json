@@ -3,13 +3,6 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Abe Katz (translation)",
             "bio": "Abe Katz is the director of the <a href=\"http://www.beureihatefila.com/\">Burei HaTefila Institute</a>. \r\nThe Beurei Hatefila Institute was established in order to encourage the study of the words of the Siddur as a Jewish text in Jewish schools. To assist educators developing courses on Tefila, the Institute publishes a weekly e-mail newsletter in which it traces the sources for the words and structure of the prayers within the Siddur. These and other resources can be downloaded on PDF from the <a href=\"http://www.beureihatefila.com/\">Burei HaTefila Institute</a> website.\r\n<p />\r\nMr. Katz is also available to teach courses on Tefila at your synagogue or Jewish Community Center and as a scholar-in-residence. He is available to meet with school administrators to assist them in establishing a course in Beurei Hatefila at their schools and to train teachers on using Hebrew-English word processing and Judaic libraries on CD-ROM.",
             "website": "http://www.beureihatefila.com/",
@@ -22,6 +15,13 @@
             "website": "http://en.wikipedia.org/wiki/Congregation_Beth_Ahabah",
             "avatar": "https://opensiddur.org/wp-content/uploads/2015/04/beit-shalome-blueprint-exterior-via-aperture-cropped-150x150-96x96.jpg",
             "profile_link": "https://opensiddur.org/profile/k-k-beit-shalome"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2012-02-19",

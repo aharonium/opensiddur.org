@@ -3,13 +3,6 @@
     "author": "Aharon N. Varady (editing/transcription)",
     "coauthors": [
         {
-            "name": "Aharon N. Varady (editing/transcription)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-n-varady/\">translates prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://aharon.varady.net",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-varady"
-        },
-        {
             "name": "Noah Efron (translation)",
             "bio": "Noah Jonathan Efron (b. 1959) is a professor at Bar-Ilan University, where he was founding chair of the interdisciplinary program on Science, Technology, and Society. He has served as the President of the Israeli Society for History &amp; Philosophy of Science, on the Board of Directors and Scientific Committee of the Eretz Yisrael Museum, and on the Executive Committee of the International Society for Science and Religion. He is a standing member of Israel's National Committee for Transgenic Plants, and participated in Knesset deliberations on human cloning legislation. Efron has been a member of the Institute for Advanced Study in Princeton, a fellow of the Dibner Institute for History of Science and Technology at MIT, a fellow at Harvard University, and a visiting professor at Columbia University and the University of Pennsylvania. He is a former member of the Tel Aviv City Council, a published author, and since 2011, the host of the popular <em>The Promised Podcast</em>.",
             "website": "https://en.wikipedia.org/wiki/Noah_Efron",
@@ -29,6 +22,13 @@
             "website": "https://www.friendsofroots.net/hadassahs-bio-landing-page",
             "avatar": "https://opensiddur.org/wp-content/uploads/2023/02/hadassah-froman-96x96.jpg",
             "profile_link": "https://opensiddur.org/profile/hadassah-froman"
+        },
+        {
+            "name": "Aharon N. Varady (editing/transcription)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
         }
     ],
     "date": "2023-02-25",

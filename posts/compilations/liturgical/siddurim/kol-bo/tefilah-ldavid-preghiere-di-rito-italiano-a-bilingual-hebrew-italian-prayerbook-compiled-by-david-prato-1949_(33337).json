@@ -1,20 +1,20 @@
 {
-    "title": "&#128214; תפלה לדוד (נוסח איטלקי מנהג הרומית)‏ | Tefilah l'David: Preghiere di Rito Italiano, a bilingual Hebrew-Italian prayerbook compiled by the chief Rabbi of Rome, David Prato (1949)",
+    "title": "&#x1F4D6; תפלה לדוד (נוסח איטלקי מנהג הרומית)‏ | Tefilah l'David: Preghiere di Rito Italiano, a bilingual Hebrew-Italian prayerbook compiled by the chief Rabbi of Rome, David Prato (1949)",
     "author": "Aharon N. Varady (translation)",
     "coauthors": [
-        {
-            "name": "Aharon N. Varady (translation)",
-            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer translator for the Open Siddur Project. If you find any mistakes in his translations, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot Naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady/\">transcribes prayers</a> and <a href=\"/profile/aharon-nissen-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> for the Open Siddur Project and its website, opensiddur.org.)",
-            "website": "https://opensiddur.org/profile/aharon-nissen-varady/",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
-            "profile_link": "https://opensiddur.org/profile/aharon-n-varady"
-        },
         {
             "name": "David Prato (translation)",
             "bio": "David Prato (1882–1951) was an Italian rabbi and Jewish leader in the early days of the State of Israel. Born in Leghorn, Prato was chief cantor in Florence, rabbi of Alexandria (Egypt) from 1927 to 1936, and chief rabbi of Rome from 1936 to 1938. Conditions became impossible for him when the Fascist regime began its antisemitic policy, and Prato moved to Erets Yisrael. He resumed his post in Rome in 1945. Prato played a prominent part in the administration of the Jewish National Fund and Keren Hayesod in Italy. In 1929 he founded in Alexandria the French-Hebrew review <em>L'Illustration Juive</em>, which was followed by <em>Cahiers Juifs</em> in 1933. He published a prayerbook, <em>Tefilah l'David</em> (1949) and two collections of sermons, <em>Cinque anni di Rabbinato</em> (1933), and <em>Dal pergamo della Comunità di Roma</em> (1950), covering his activities in Rome.",
             "website": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/prato-david",
             "avatar": "https://opensiddur.org/wp-content/uploads/2020/08/david-prato-96x96.jpg",
             "profile_link": "https://opensiddur.org/profile/david-prato"
+        },
+        {
+            "name": "Aharon N. Varady (translation)",
+            "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer translator for the Open Siddur Project. If you find any mistakes in his translations, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot Naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-transcription/\">transcribes prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> for the Open Siddur Project and its website, opensiddur.org.)",
+            "website": "https://aharon.varady.net",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-translation"
         }
     ],
     "date": "2020-08-26",
