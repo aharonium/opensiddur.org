@@ -213,7 +213,7 @@
         "stub": "amidah-weekday",
         "name": "Weekday Amidah",
         "subcategory_count": 0,
-        "post_count": 20,
+        "post_count": 21,
         "description": "",
         "featured_image": {
             "url": "",
@@ -591,9 +591,9 @@
         "post_count": 2,
         "description": "",
         "featured_image": {
-            "url": "",
-            "title": "",
-            "caption": ""
+            "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2024\/10\/techno-viking-kneecam-2000-e1727912426797.jpg",
+            "title": "Techno Viking &#8211; Kneecam (2000)",
+            "caption": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/Techno_Viking\">Techno Viking<\/a> - Kneecam (2000)"
         },
         "id": 6457,
         "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/civic-calendar\/german-civil-calendar\/berlin-pride-celebration\/",
@@ -723,7 +723,7 @@
         "stub": "birthdays",
         "name": "Bnei (Bar\/Bat) Mitsvah &amp; Other Birthday Prayers",
         "subcategory_count": 0,
-        "post_count": 33,
+        "post_count": 34,
         "description": "",
         "featured_image": {
             "url": "",
@@ -903,7 +903,7 @@
         "stub": "captivity",
         "name": "Slavery &amp; Captivity",
         "subcategory_count": 0,
-        "post_count": 24,
+        "post_count": 25,
         "description": "",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2018\/06\/35927180_1389625684514687_8534401450841735168_n.jpg",
@@ -962,7 +962,7 @@
     {
         "stub": "civic-readings",
         "name": "Readings for Civic Days on Civil Calendars",
-        "subcategory_count": 15,
+        "subcategory_count": 16,
         "post_count": 0,
         "description": "<div class=\"english\" style=\"font-size: 1.2em\">\r\n<blockquote>\r\nThis is an archive of public readings prepared for, or relevant to, the meaning, commemoration, or celebration of civic days observed in civil calendars around the world.\r\n\r\nHave you prepared a public reading concerning, or in recognition of, a civic day on a civil calendar? Please <a href=\"\/contributing\/upload\/\">share it here<\/a>.\r\n\r\n<hr \/>\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers composed for civic days on civil calendars, <a href=\"\/index.php?cat=794\">go here<\/a>.\r\n<\/blockquote>\r\n<\/div>",
         "featured_image": {
@@ -977,7 +977,7 @@
     {
         "stub": "collective-welfare",
         "name": "&#127757;&#xFE0E; Collective Welfare",
-        "subcategory_count": 42,
+        "subcategory_count": 43,
         "post_count": 0,
         "description": "",
         "featured_image": {
@@ -1093,6 +1093,21 @@
         "id": 4588,
         "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/collective-welfare\/congregation-and-community\/",
         "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=4588"
+    },
+    {
+        "stub": "constitution-and-citizenship-day",
+        "name": "US Constitution &amp; Citizenship Day (September 17th)",
+        "subcategory_count": 0,
+        "post_count": 3,
+        "description": "<div class=\"english\" style=\"font-size: 1.2em\">\r\n\r\n<blockquote>This is an archive of public readings relevant to <a href=\"https:\/\/en.wikipedia.org\/wiki\/Constitution_Day_(United_States)\">Constitution &amp; Citizenship Day<\/a> in the United States, a federal observance that recognizes the adoption of the United States Constitution and those who have become U.S. citizens. It is normally observed on September 17, the day in 1787 that delegates to the Constitutional Convention signed the document in Philadelphia.\r\n\r\nIowa schools first recognized Constitution Day in 1911. In 1917, the Sons of the American Revolution formed a committee to promote Constitution Day. The committee included members such as Calvin Coolidge, John D. Rockefeller, and General John Pershing. The law establishing the present civic day was created in 2004 with the passage of an amendment by Senator Robert Byrd to the omnibus spending bill of 2004. Before this law was enacted, the day was known as \"Citizenship Day\" and celebrated on the third Sunday in May. In addition to renaming the day \"Constitution Day and Citizenship Day,\" the act mandates that all publicly funded educational institutions, and all federal agencies, provide educational programming on the history of the Constitution of the United States on that day.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a prayer you have written for Constitution &amp; Citizenship Day.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor public readings on US Thanksgiving Day, <a href=\"\/index.php?cat=3208\">visit here<\/a>.\r\n\r\nFor public readings on US Emancipation Day, <a href=\"\/index.php?cat=441\">go here<\/a>.\r\n<\/blockquote>\r\n\r\n<\/div>",
+        "featured_image": {
+            "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2024\/09\/constitution-we-the-people.jpg",
+            "title": "Constitution_We_the_People",
+            "caption": "<a href=\"https:\/\/commons.wikimedia.org\/wiki\/File:Constitution_We_the_People.jpg\">Detail of the Preamble to Constitution of the United States<\/a> (1787)"
+        },
+        "id": 6629,
+        "permalink": "https:\/\/opensiddur.org\/shared\/readings-and-sourcetexts\/festival-and-fast-day-readings\/civic-readings\/constitution-and-citizenship-day\/",
+        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=6629"
     },
     {
         "stub": "contemplation",
@@ -1516,10 +1531,10 @@
     },
     {
         "stub": "election-day",
-        "name": "Election Day",
+        "name": "US Election Day (1st Tuesday after 1 November)",
         "subcategory_count": 0,
-        "post_count": 7,
-        "description": "<div class=\"english\" style=\"font-size: 1.2em;\">\r\n<blockquote>This is an archive of prayers offered for the civic days dedicated for democratic elections in the United States. \r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a prayer you have written for Election Day.\r\n\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers offered for election day in the State of Israel, <a href=\"\/index.php?cat=3116\">please visit here<\/a>.\r\n\r\nFor prayers offered for the well-being of one's congregation and community, <a href=\"\/index.php?cat=4588\">visit here<\/a>.\r\n\r\nFor prayers offered on Inauguration Day in the United States, <a href=\"\/index.php?cat=1250\">please visit here<\/a>.\r\n\r\nFor prayers composed for the wellbeing of the United States of America, <a href=\"\/index.php?cat=2686\">go here<\/a>.\r\n\r\nFor opening prayers offered before legislative bodies, <a href=\"\/index.php?cat=2685\">go here<\/a>.\r\n\r\nFor prayers composed for social justice, peace, and liberty, <a href=\"\/index.php?cat=782\">go here<\/a>.\r\n<\/blockquote>\r\n<\/div>",
+        "post_count": 9,
+        "description": "<div class=\"english\" style=\"font-size: 1.2em\">\r\n<blockquote>This is an archive of prayers offered for the civic days dedicated for democratic elections in the United States. \r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a prayer you have written for Election Day.\r\n\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers offered for election day in the State of Israel, <a href=\"\/index.php?cat=3116\">please visit here<\/a>.\r\n\r\nFor prayers offered for the well-being of one's congregation and community, <a href=\"\/index.php?cat=4588\">visit here<\/a>.\r\n\r\nFor prayers offered on Inauguration Day in the United States, <a href=\"\/index.php?cat=1250\">please visit here<\/a>.\r\n\r\nFor prayers composed for the wellbeing of the United States of America, <a href=\"\/index.php?cat=2686\">go here<\/a>.\r\n\r\nFor opening prayers offered before legislative bodies, <a href=\"\/index.php?cat=2685\">go here<\/a>.\r\n\r\nFor prayers composed for social justice, peace, and liberty, <a href=\"\/index.php?cat=782\">go here<\/a>.\r\n<\/blockquote>\r\n<\/div>",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2020\/11\/afp_count-smol.png",
             "title": "afp_count &#8211; smol",
@@ -1549,7 +1564,7 @@
         "name": "Rosh Ḥodesh Elul (אֶלוּל)",
         "subcategory_count": 0,
         "post_count": 11,
-        "description": "<div class=\"english\" style=\"font-size: 1.2em;\">\r\n<blockquote>This is an archive of prayers and songs written for, or relevant to, Rosh Ḥodesh Elul, the sixth month in the Jewish calendar. \r\n\r\nRosh Ḥodesh Elul also coincides with Rosh Hashanah la'Behemah, the New Year's Day for Animals (specifically, domesticated animals) -- a birthday for animals conceived in the previous year. The day marks the beginning of a season of introspection and repentance in the late summer or early autumn in anticipation of the Yamim Nora'im (Rosh haShanah, Yom Kippur, and Hoshanah Rabbah), preparations for the prayer for rain on Shemini Atseret at the onset of the wet season.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a public reading you have written or selected for Rosh Ḥodesh Nisan.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers composed for Rosh Hashanah la'Behemah, <a href=\"\/index.php?cat=410\">visit here<\/a>.\r\n\r\nFor prayers composed for Rosh Ḥodesh in general, <a href=\"\/index.php?cat=401\">visit here<\/a>.\r\n\r\nFor public readings selected for Rosh Ḥodesh, <a href=\"\/index.php?cat=4313\">visit here<\/a>.\r\n<\/blockquote>\r\n<\/div>",
+        "description": "<div class=\"english\" style=\"font-size: 1.2em\">\r\n<blockquote>This is an archive of prayers and songs written for, or relevant to, Rosh Ḥodesh Elul, the sixth month in the Jewish calendar. \r\n\r\nRosh Ḥodesh Elul also coincides with Rosh Hashanah la-Behemah, the New Year's Day for Animals (specifically, domesticated animals) -- a birthday for animals conceived in the previous year. The day marks the beginning of a season of introspection and repentance in the late summer or early autumn in anticipation of the Yamim Nora'im (Rosh haShanah, Yom Kippur, and Hoshanah Rabbah), preparations for the prayer for rain on Shemini Atseret at the onset of the wet season.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a public reading you have written or selected for Rosh Ḥodesh Nisan.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers composed for Rosh Hashanah la-Behemah, <a href=\"\/index.php?cat=410\">visit here<\/a>.\r\n\r\nFor prayers composed for Rosh Ḥodesh in general, <a href=\"\/index.php?cat=401\">visit here<\/a>.\r\n\r\nFor public readings selected for Rosh Ḥodesh, <a href=\"\/index.php?cat=4313\">visit here<\/a>.\r\n<\/blockquote>\r\n<\/div>",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2017\/08\/Sefer-Evronot-p.-154-mazal-betulah-Pinchas-ben-Avraham-Halevi-1716.png",
             "title": "Sefer Evronot &#8211; p. 154 mazal betulah (Pinchas ben Avraham Halevi 1716)",
@@ -1802,7 +1817,7 @@
     {
         "stub": "festival-and-fast-day-readings",
         "name": "Festival &amp; Fast Day Readings",
-        "subcategory_count": 44,
+        "subcategory_count": 45,
         "post_count": 0,
         "description": "",
         "featured_image": {
@@ -1968,7 +1983,7 @@
         "stub": "genocide",
         "name": "Pogroms &amp; Genocide",
         "subcategory_count": 0,
-        "post_count": 9,
+        "post_count": 10,
         "description": "<div class=\"english\" style=\"font-size: 1.2em\">\r\n<blockquote>This is an archive of prayers composed in response to, or anxious anticipation of, a pogrom or a genocidal atrocity.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a prayer you have written, or a transcription and translation of a historical prayer.\r\n\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers offered in the event of imminent communal danger and distress, <a href=\"\/index.php?cat=3466\">go here<\/a>.\r\n\r\nFor prayers offered in the event of hateful intolerance, prejudice, and bigotry, <a href=\"\/index.php?cat=3471\">go here<\/a>.\r\n\r\nFor prayers offered in the event of attack intended to invoke communal terror, <a href=\"\/index.php?cat=777\">go here<\/a>.\r\n\r\nFor prayers offered in response to conflicts over sovereignty and dispossession, <a href=\"\/index.php?cat=781\">go here<\/a>.\r\n\r\nFor prayers composed for social justice, peace, and liberty, <a href=\"\/index.php?cat=782\">go here<\/a>.\r\n<\/blockquote>\r\n<\/div>",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2023\/01\/Ukrainians-unearth-hiding-places-of-Jews-in-city-sewers-during-Nazi-Holocaust-Gleb-Garanich-Reuters.jpg",
@@ -1986,9 +2001,9 @@
         "post_count": 0,
         "description": "",
         "featured_image": {
-            "url": "",
-            "title": "",
-            "caption": ""
+            "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2022\/12\/1024px-Flag_of_Germany.svg.png",
+            "title": "1024px-Flag_of_Germany.svg",
+            "caption": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/File:Flag_of_Germany.svg\">The official flag of the Federal Republic of Germany<\/a>"
         },
         "id": 6456,
         "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/civic-calendar\/german-civil-calendar\/",
@@ -2311,7 +2326,7 @@
     },
     {
         "stub": "holocaust-survivor-day",
-        "name": "Holocaust Survivor Day",
+        "name": "Holocaust Survivor Day (4 June)",
         "subcategory_count": 0,
         "post_count": 1,
         "description": "",
@@ -2389,7 +2404,7 @@
         "name": "International Human Rights Day (December 10th)",
         "subcategory_count": 0,
         "post_count": 4,
-        "description": "<div class=\"english\" style=\"font-size: 1.2em;\">\r\n<blockquote>This is an archive of prayers composed for, or relevant to, the <a href=\"https:\/\/en.wikipedia.org\/wiki\/International_Day_for_the_Elimination_of_Violence_against_Women\">International Human Rights Day<\/a>, honoring the United Nations General Assembly's adoption and proclamation, on 10 December 1948, of the Universal Declaration of Human Rights (UDHR), the first global enunciation of human rights and one of the first major achievements of the new United Nations. The formal establishment of Human Rights Day occurred at the 317th Plenary Meeting of the General Assembly on 4 December 1950, when the General Assembly declared resolution 423(V), inviting all member states and any other interested organizations to celebrate the day as they saw fit. The day is normally marked both by high-level political conferences and meetings and by cultural events and exhibitions dealing with human rights issues. Besides, it is traditionally on 10 December that the five-yearly United Nations Prize in the Field of Human Rights and Nobel Peace Prize are awarded. Many governmental and non-governmental organizations active in the human rights field also schedule special events to commemorate the day, as do many civil and social-cause organizations. \r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a prayer you have written for the International Human Rights Day.\r\n\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers on Social Justice, Peace, and Liberty, <a href=\"\/index.php?cat=782\">go here<\/a>.\r\n<\/blockquote>\r\n<\/div>",
+        "description": "<div class=\"english\" style=\"font-size: 1.2em\">\r\n<blockquote>This is an archive of prayers composed for, or relevant to, the <a href=\"https:\/\/en.wikipedia.org\/wiki\/International_Day_for_the_Elimination_of_Violence_against_Women\">International Human Rights Day<\/a>, honoring the United Nations General Assembly's adoption and proclamation, on 10 December 1948, of the Universal Declaration of Human Rights (UDHR), the first global enunciation of human rights and one of the first major achievements of the new United Nations. The formal establishment of Human Rights Day occurred at the 317th Plenary Meeting of the General Assembly on 4 December 1950, when the General Assembly declared resolution 423(V), inviting all member states and any other interested organizations to celebrate the day as they saw fit. The day is normally marked both by high-level political conferences and meetings and by cultural events and exhibitions dealing with human rights issues. Besides, it is traditionally on 10 December that the five-yearly United Nations Prize in the Field of Human Rights and Nobel Peace Prize are awarded. Many governmental and non-governmental organizations active in the human rights field also schedule special events to commemorate the day, as do many civil and social-cause organizations. \r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a prayer you have written for the International Human Rights Day.\r\n\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers composed for, or relevant to, International Day of Democracy, <a href=\"\/index.php?cat=3287\">visit here<\/a>.\r\n\r\nFor prayers on Social Justice, Peace, and Liberty, <a href=\"\/index.php?cat=782\">go here<\/a>.\r\n<\/blockquote>\r\n<\/div>",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2022\/12\/International-Human-Rights-Day-2019.jpg",
             "title": "International Human Rights Day 2019",
@@ -2506,14 +2521,14 @@
     },
     {
         "stub": "indigenous-peoples-day",
-        "name": "Indigenous Peoples' Day (2nd Monday of October)",
+        "name": "US Indigenous Peoples' Day (2nd Monday of October)",
         "subcategory_count": 0,
         "post_count": 1,
-        "description": "<div class=\"english\" style=\"font-size: 1.2em\">\r\n<blockquote>This is an archive of prayers composed for or relevant to <a href=\"https:\/\/en.wikipedia.org\/wiki\/Indigenous_Peoples%27_Day\">Indigenous People's Day<\/a>, a civic holiday in the United States that celebrates and honors Native American peoples and commemorates their histories and cultures. It is celebrated across the United States on the second Monday in October, and is an official city and state holiday in various localities. \r\n\r\nIndigenous Peoples' Day began as a counter-celebration to the U.S. federal holiday of Columbus Day honoring the 15th century Italian explorer Christopher Columbus. Many rejected the premise of Columbus Day arguing that it represents \"the violent history of the colonization in the Western Hemisphere\" and that it sanitizes Christopher Columbus' own actions such as enslaving the <a href=\"https:\/\/en.wikipedia.org\/wiki\/Taíno\">Taíno People<\/a> of the Caribbean. Indigenous Peoples' Day was instituted in Berkeley, California, in 1992, to coincide with the 500th anniversary of the arrival of Columbus in the Americas on October 12, 1492. Two years later, Santa Cruz, California, instituted the holiday. Starting in 2014, many other cities and states adopted the holiday.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a prayer you have written, or a translation of an existing prayer for Indigenous Peoples' Day.\r\n\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers composed for Thanksgiving Day in the United States, <a href=\"\/index.php?cat=1240\">go here<\/a>.\r\n\r\nFor special readings for Thanksgiving Day, <a href=\"\/index.php?cat=3208\">go here<\/a>.\r\n<\/blockquote>\r\n<\/div>",
+        "description": "<div class=\"english\" style=\"font-size: 1.2em\">\r\n<blockquote>This is an archive of prayers composed for or relevant to <a href=\"https:\/\/en.wikipedia.org\/wiki\/Indigenous_Peoples%27_Day\">Indigenous People's Day<\/a>, a civic holiday in the United States that celebrates and honors Native American peoples and commemorates their histories and cultures. It is celebrated across the United States on the second Monday in October, and is an official city and state holiday in various localities. \r\n\r\nIndigenous Peoples' Day began as a counter-celebration to the U.S. federal holiday of Columbus Day honoring the 15th century Italian explorer Christopher Columbus. Many rejected the premise of Columbus Day arguing that it represents \"the violent history of the colonization in the Western Hemisphere\" and that it sanitizes Christopher Columbus' own actions such as enslaving the <a href=\"https:\/\/en.wikipedia.org\/wiki\/Taíno\">Taíno People<\/a> of the Caribbean. Indigenous Peoples' Day was instituted in Berkeley, California, in 1992, to coincide with the 500th anniversary of the arrival of Columbus in the Americas on October 12, 1492. Two years later, Santa Cruz, California, instituted the holiday. Starting in 2014, many other cities and states adopted the holiday.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a prayer or reading you have prepared for Indigenous Peoples' Day.\r\n\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers composed for Thanksgiving Day in the United States, <a href=\"\/index.php?cat=1240\">go here<\/a>.\r\n\r\nFor special readings on US Thanksgiving Day, <a href=\"\/index.php?cat=3208\">go here<\/a>.\r\n\r\nFor special readings on US Emancipation Day, <a href=\"\/index.php?cat=441\">go here<\/a>.\r\n\r\nFor special readings on US Constitution &amp; Citizenship Day, <a href=\"\/index.php?cat=6629\">go here<\/a>.\r\n<\/blockquote>\r\n<\/div>",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2021\/06\/Turtle-Island-crop.jpg",
             "title": "Turtle Island &#8211; crop",
-            "caption": ""
+            "caption": "Artwork from the poster, \"<a href=\"https:\/\/indigenousreflections.com\/products\/nip-19?_pos=1&_sid=07d46808c&_ss=r\">The [Ojibwe] Legend of Turtle Island<\/a>\" (credit: KDesign@nativereflections.com, please <a href=\"\/contact\/\">contact us<\/a> if you know the name of the artist)"
         },
         "id": 5002,
         "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/civic-calendar\/us-civil-calendar\/indigenous-peoples-day\/",
@@ -2613,8 +2628,8 @@
         "stub": "international-day-of-democracy",
         "name": "International Day of Democracy (September 15th)",
         "subcategory_count": 0,
-        "post_count": 9,
-        "description": "",
+        "post_count": 11,
+        "description": "<div class=\"english\" style=\"font-size: 1.2em\">\r\n\r\n<blockquote>This is an archive of civic prayers composed for, or relevant to, the <a href=\"https:\/\/en.wikipedia.org\/wiki\/International_Day_of_Democracy\">International Day of Democracy<\/a>, commemorated by all UN member states for the sake of promoting and upholding democracy, a fundamental principle outlined under Article 21 of the <a href=\"\/?p=43774\">Universal Declaration of Human Rights<\/a>.\r\n\r\nFirst observed in 2008, the day was ratified through <a href=\"https:\/\/undocs.org\/en\/A\/RES\/62\/7\">United Nations General Assembly Resolution A\/RES\/62\/7<\/a>, \"Support by the United Nations system of the efforts of Governments to promote and consolidate new or restored democracies.\" The resolution was introduced after the sixth conference of the <a href=\"https:\/\/en.wikipedia.org\/wiki\/Inter-Parliamentary_Union\">Inter-Parliamentary Union<\/a> (IPU), an international organization of national parliaments established in 1889. Its primary purpose is to promote democratic governance, accountability, and cooperation among its members; other initiatives include advancing gender parity among legislatures, empowering youth participation in politics, and sustainable development.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a prayer you have written for the International Day of Democracy.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers composed for, or relevant to, International Human Rights Day, <a href=\"\/index.php?cat=5900\">visit here<\/a>.\r\n\r\nFor prayers on Social Justice, Peace, and Liberty, <a href=\"\/index.php?cat=782\">go here<\/a>.\r\n<\/blockquote>\r\n\r\n<\/div>",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2020\/11\/March-Ted-Eytan-CC-BY-SA.jpg",
             "title": "March for Our Lives 2018 &#8211; Ted Eytan (CC BY-SA)",
@@ -2653,6 +2668,21 @@
         "id": 3038,
         "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/civic-calendar\/international-civil-calendar\/international-workers-day\/",
         "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=3038"
+    },
+    {
+        "stub": "ireland",
+        "name": "Ireland",
+        "subcategory_count": 0,
+        "post_count": 1,
+        "description": "",
+        "featured_image": {
+            "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2024\/09\/flag-of-ireland-3-2-svg.png",
+            "title": "Flag_of_Ireland_(3-2).svg",
+            "caption": "<a href=\"https:\/\/commons.wikimedia.org\/wiki\/File:Flag_of_Ireland_(3-2).svg\">The Flag of the Republic of Ireland<\/a> in an unofficial 3:2 version of for when a 3:2 version looks better (e.g. beside a group of other 3:2 flags)"
+        },
+        "id": 6622,
+        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/collective-welfare\/nations\/ireland\/",
+        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=6622"
     },
     {
         "stub": "italy",
@@ -2763,7 +2793,7 @@
         "stub": "july-4th",
         "name": "Independence Day (July 4th)",
         "subcategory_count": 0,
-        "post_count": 9,
+        "post_count": 10,
         "description": "<div class=\"english\" style=\"font-size: 1.2em\">\r\n<blockquote>This is an archive of prayers composed for or relevant to <a href=\"https:\/\/en.wikipedia.org\/wiki\/Independence_Day_(United_States)\">Independence Day<\/a>, a civic day in the United States celebrated on July 4th.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a prayer you have written, or a transcription and translation of an existing prayer.\r\n\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers offered for military veterans and armed forces personnel, <a href=\"\/index.php?cat=1257\">go here<\/a>.\r\n\r\nFor prayers composed for social justice, peace, and liberty, <a href=\"\/index.php?cat=782\">go here<\/a>.\r\n\r\nFor prayers offered for the welfare and well-being of governments and country, <a href=\"\/index.php?cat=2558\">please visit here<\/a>.\r\n\r\nFor public readings selected for Independence Day in the United States, <a href=\"\/index.php?cat=3655\">please visit here<\/a>.\r\n<\/blockquote>\r\n<\/div>\r\n",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2013\/04\/still-frame-of-the-everyday-evening-Fourth-of-July-Parade-and-Picnic-in-Topeka-Downunder-from-A-Boy-and-His-Dog-1975.png",
@@ -2778,7 +2808,7 @@
         "stub": "juneteenth",
         "name": "Juneteenth (Emancipation Day) Readings",
         "subcategory_count": 0,
-        "post_count": 1,
+        "post_count": 3,
         "description": "<div class=\"english\" style=\"font-size: 1.2em;\">\r\n<blockquote>This is an archive of public readings selected for <a href=\"https:\/\/en.wikipedia.org\/wiki\/Juneteenth\">Juneteenth<\/a>, (a portmanteau of June and nineteenth) – officially Juneteenth National Independence Day (also known as Freedom Day, Jubilee Day, Liberation Day, and Emancipation Day). Juneteenth is a federal holiday in the United States celebrating the emancipation of enslaved African-Americans after the defeat of the pro-slavery Confederacy in the Civil War. Originating in Galveston, Texas, it is now celebrated annually on June 19 throughout the United States, and since 2021, as a federal holiday, when President Joe Biden signed the Juneteenth National Independence Day Act into law. It is commemorated on the anniversary date of the June 19, 1865 announcement of General Order No. 3 by Union Army general Gordon Granger, proclaiming freedom for slaves in Texas.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a public reading you have prepared for Juneteenth.\r\n<\/blockquote>\r\n<\/div>\r\n\r\n\r\n",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2020\/06\/Emancipation-proclamation-reading-Granger_0009233_HighRes.jpg",
@@ -3001,7 +3031,7 @@
     },
     {
         "stub": "lgbt-pride-day",
-        "name": "LGBT Pride Day",
+        "name": "LGBT Pride Day (June 28th)",
         "subcategory_count": 0,
         "post_count": 3,
         "description": "",
@@ -3213,7 +3243,7 @@
         "stub": "medinat-yisrael",
         "name": "Medinat Yisra'el (the State of Israel)",
         "subcategory_count": 0,
-        "post_count": 40,
+        "post_count": 41,
         "description": "<div class=\"english\" style=\"font-size: 1.2em\">\r\n<blockquote>\r\nThis is an archive of prayers composed for the welfare, well-being, or peace of the State of Israel.\r\n\r\nIf you have composed a prayer or prayer-poem for the welfare of the State of Israel, please <a href=\"\/contribute\/upload\">share it here<\/a>.\r\n\r\n<hr \/>\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers composed for the peace and wellbeing of one's country and its leaders, <a href=\"\/index.php?cat=2558\">go here<\/a>.\r\n\r\nFor prayers composed for, or relevant to Yom ha-Atsma'ut, <a href=\"\/index.php?cat=1239\">go here<\/a>.\r\n\r\nFor prayers offered for the well-being of Military Personnel &amp; Veterans, including the Israeli Defense Forces (צה״ל), <a href=\"\/index.php?cat=1257\">please visit here<\/a>.\r\n<\/blockquote>\r\n<\/div>",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2020\/02\/flag_of_israel_yale_blue-svg.png",
@@ -3363,7 +3393,7 @@
         "stub": "military-personnel",
         "name": "Military Personnel &amp; Veterans",
         "subcategory_count": 0,
-        "post_count": 34,
+        "post_count": 35,
         "description": "<div class=\"english\" style=\"font-size: 1.2em\">\r\n<blockquote>\r\nThis is an archive of prayers composed for the well-being and safety of active and veteran military personnel.\r\n\r\nIf you have composed a prayer for military personnel, please <a href=\"\/contribute\/upload\">share it here<\/a>.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers composed for, or relevant to, Armistice\/Veterans Day in the United States, <a href=\"\/index.php?cat=3115\">go here<\/a>.\r\n\r\nFor an archive of special readings for the Armistice\/Veterans Day, <a href=\"\/index.php?cat=3723\">go here<\/a>.\r\n\r\nFor prayers composed for or relevant to Memorial Day in the United States, <a href=\"\/index.php?cat=3068\">please visit here<\/a>.\r\n\r\nFor public readings selected for Memorial Day in the United States, <a href=\"\/index.php?cat=3626\">please visit here<\/a>.\r\n<\/blockquote>\r\n<\/div>",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2014\/07\/14495159079_eb87521664_b.jpg",
@@ -3483,7 +3513,7 @@
         "stub": "modern",
         "name": "Modern Miscellany",
         "subcategory_count": 0,
-        "post_count": 31,
+        "post_count": 32,
         "description": "",
         "featured_image": {
             "url": "",
@@ -3588,7 +3618,7 @@
         "stub": "mourning",
         "name": "Mourning",
         "subcategory_count": 0,
-        "post_count": 103,
+        "post_count": 104,
         "description": "<div class=\"english\" style=\"font-size: 1.2em\">\r\n<blockquote>\r\nThis is an archive of prayers composed for mourning. Some are for personal or private use. Others are for public, communal, and ceremonial functions. Some follow the formula of a Mourner's Ḳaddish (Qaddish Yatom), others that of El Malé Raḥamim, and still others are adaptations or free-form with or without Hebrew, reflecting upon grief and interconnection and composed in a vernacular tongue.\r\n\r\n<a href=\"\/contribute\/upload\/\">Click here<\/a> to contribute your own prayers of mourning.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers composed for Tishah b'Av, <a href=\"\/index.php?cat=413\">visit here<\/a>.\r\n<\/blockquote>\r\n<\/div>\r\n\r\n",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2020\/07\/the-mourning-woman-Bekah-Starr-Art.png",
@@ -3662,7 +3692,7 @@
     {
         "stub": "nations",
         "name": "Sovereign States &amp; Meta-national Organizations",
-        "subcategory_count": 22,
+        "subcategory_count": 23,
         "post_count": 0,
         "description": "",
         "featured_image": {
@@ -3798,7 +3828,7 @@
         "stub": "old-age",
         "name": "Old Age",
         "subcategory_count": 0,
-        "post_count": 4,
+        "post_count": 5,
         "description": "",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2018\/09\/timepiece_historical_horoscope_zodiac_venice-880934.jpg",
@@ -4877,7 +4907,7 @@
     {
         "stub": "prayers",
         "name": "&#128406;&#xFE0E; Prayers &amp; Praxes",
-        "subcategory_count": 291,
+        "subcategory_count": 292,
         "post_count": 0,
         "description": "",
         "featured_image": {
@@ -5073,7 +5103,7 @@
         "stub": "purim-sheni-readings",
         "name": "Purim Sheni Readings",
         "subcategory_count": 0,
-        "post_count": 6,
+        "post_count": 7,
         "description": "<div class=\"english\" style=\"font-size: 1.2em;\">\r\n<blockquote>This is an archive of megillot written for a Purim Sheni, a secondary Purim. In many Jewish communities around the world, “local Purims” celebrating the survival of specific communities are made which include the retelling of stories of their redemption under chilling circumstances.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a reading you have written, translated, or transcribed for a Purim Sheni.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor public readings selected for Purim, <a href=\"\/index.php?cat=3019\">visit here<\/a>.\r\n\r\nFor public readings selected for Taanit Esther, <a href=\"\/index.php?cat=3478\">go here<\/a>.\r\n<\/blockquote>\r\n<\/div>",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2020\/03\/PikiWiki_Israel_4963_Israeli_teachers_in_Egypt.jpg",
@@ -5163,7 +5193,7 @@
         "stub": "reading-schedules",
         "name": "Reading Schedules",
         "subcategory_count": 0,
-        "post_count": 6,
+        "post_count": 8,
         "description": "",
         "featured_image": {
             "url": "",
@@ -5192,7 +5222,7 @@
     {
         "stub": "readings-and-sourcetexts",
         "name": "&#128066;&#xFE0E; Public Readings, Sources, and Cantillation",
-        "subcategory_count": 173,
+        "subcategory_count": 174,
         "post_count": 0,
         "description": "",
         "featured_image": {
@@ -5343,7 +5373,7 @@
         "stub": "romania",
         "name": "Romania",
         "subcategory_count": 0,
-        "post_count": 2,
+        "post_count": 3,
         "description": "",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2022\/12\/1024px-Flag_of_Romania.svg.png",
@@ -5373,12 +5403,12 @@
         "stub": "rosh-hashanah",
         "name": "Rosh haShanah (l’Maaseh Bereshit)",
         "subcategory_count": 0,
-        "post_count": 66,
-        "description": "<div class=\"english\" style=\"font-size: 1.2em;\">\r\n<blockquote>This is an archive of prayers and songs written for, or relevant to, the New Year's Day for All of Creation -- marking the beginning of the seventh month and its ensemble of festival days leading towards the commencement of the rainy season. (Rosh haShanah l'Maaseh Bereshit coincides with Rosh Ḥodesh Tishrei.)\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a prayer you have written or selected for Rosh haShanah l'Maaseh Bereshit.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor maḥzorim (festival prayerbooks) for Rosh haShanah, <a href=\"\/index.php?cat=3868\">visit here<\/a>.\r\n\r\nFor the Seder Akhilat haSimanim (seder of symbolic foods) on Rosh haShanah, <a href=\"\/index.php?cat=4541\">visit here<\/a>.\r\n\r\nFor Tashlikh ritual prayers (that may be offered anytime between Rosh haShanah and Hoshana Rabbah), <a href=\"\/index.php?cat=3661\">visit here<\/a>.\r\n\r\nFor public readings on Rosh haShanah, <a href=\"\/index.php?cat=3016\">visit here<\/a>.\r\n\r\nFor prayers composed for Rosh Ḥodesh Tishrei, <a href=\"\/index.php?cat=308\">visit here<\/a>.\r\n\r\nFor prayers composed for Rosh haShanah la-Ilanot (a\/k\/a Tu biShvat), <a href=\"\/index.php?cat=408\">go here<\/a>.\r\n\r\nFor prayers composed for Rosh haShanah la-Melakhim, <a href=\"\/index.php?cat=409\">go here<\/a>.\r\n\r\nFor prayers composed for Rosh haShanah la'Behemah, <a href=\"\/index.php?cat=410\">go here<\/a>.\r\n<\/blockquote>\r\n<\/div>",
+        "post_count": 71,
+        "description": "<div class=\"english\" style=\"font-size: 1.2em\">\r\n<blockquote>This is an archive of prayers and songs written for, or relevant to, the New Year's Day for All of Creation -- marking the beginning of the seventh month and its ensemble of festival days leading towards the commencement of the rainy season in the Northern Hemisphere. (Rosh haShanah l'Maaseh Bereshit coincides with Rosh Ḥodesh Tishrei.)\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a prayer you have written or selected for Rosh haShanah l'Maaseh Bereshit.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor maḥzorim (festival prayerbooks) for Rosh haShanah, <a href=\"\/index.php?cat=3868\">visit here<\/a>.\r\n\r\nFor the Seder Akhilat haSimanim (seder of symbolic foods) on Rosh haShanah, <a href=\"\/index.php?cat=4541\">visit here<\/a>.\r\n\r\nFor Tashlikh ritual prayers (that may be offered anytime between Rosh haShanah and Hoshana Rabbah), <a href=\"\/index.php?cat=3661\">visit here<\/a>.\r\n\r\nFor public readings on Rosh haShanah, <a href=\"\/index.php?cat=3016\">visit here<\/a>.\r\n\r\nFor prayers composed for Rosh Ḥodesh Tishrei, <a href=\"\/index.php?cat=308\">visit here<\/a>.\r\n\r\nFor prayers composed for Rosh haShanah la-Ilanot (a\/k\/a Tu biShvat), <a href=\"\/index.php?cat=408\">go here<\/a>.\r\n\r\nFor prayers composed for Rosh haShanah la-Melakhim, <a href=\"\/index.php?cat=409\">go here<\/a>.\r\n\r\nFor prayers composed for Rosh haShanah la-Behemah, <a href=\"\/index.php?cat=410\">go here<\/a>.\r\n<\/blockquote>\r\n<\/div>",
         "featured_image": {
-            "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2022\/09\/Pomegranate_fruit_-_whole_and_piece_with_arils.jpg",
-            "title": "Pomegranate fruit &#8211; whole and piece with arils",
-            "caption": "<a href=\"https:\/\/commons.wikimedia.org\/wiki\/File:Pomegranate_fruit_-_whole_and_piece_with_arils.jpg\">Pomegranate fruit - whole and piece with arils<\/a> (credit: Ivar Leidus, license: CC BY-SA)"
+            "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2024\/10\/bronze-age-balance-dan-diffendale-cc-by-nc-sa.jpg",
+            "title": "Bronze Age Balance (Dan Diffendale, CC BY-NC-SA)",
+            "caption": "<a href=\"https:\/\/www.flickr.com\/photos\/dandiffendale\/3342770174\">Bronze Age Balance<\/a> (Dan Diffendale, CC BY-NC-SA). Bronze balance pans and lead weights, Vapheio tholos tomb, Laconia. Late Helladic (LH) II (15th c. BCE)"
         },
         "id": 5090,
         "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/lunisolar\/days-of-judgement-new-year-days\/rosh-hashanah\/",
@@ -5404,7 +5434,7 @@
         "name": "Maḥzorim for Rosh haShanah",
         "subcategory_count": 0,
         "post_count": 21,
-        "description": "<div class=\"english\" style=\"font-size: 1.2em\">\r\n<blockquote>This is an archive of downloadable PDFs of digital scans of maḥzorim for Rosh haShanah (l'Maaseh Bereshit). Some have entered the Public Domain due to their age or due to a lapsed copyright renewal. Some are maḥzorim that have been contributed with Open Content licenses by their creators or copyright stewards.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a maḥzor you have prepared for Rosh haShanah (l'Maaseh Bereshit).\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers and songs written for, or relevant to Rosh haShanah, <a href=\"\/index.php?cat=5090\">visit here<\/a>.\r\n\r\nFor the Seder Akhilat haSimanim (seder of symbolic foods) on Rosh haShanah, <a href=\"\/index.php?cat=4541\">visit here<\/a>.\r\n\r\nFor prayers composed for Rosh Ḥodesh Tishrei, <a href=\"\/index.php?cat=308\">visit here<\/a>.\r\n\r\nFor prayers composed for Rosh haShanah la-Ilanot (a\/k\/a Tu biShvat), <a href=\"\/index.php?cat=408\">go here<\/a>.\r\n\r\nFor prayers composed for Rosh haShanah la-Melakhim, <a href=\"\/index.php?cat=409\">go here<\/a>.\r\n\r\nFor prayers composed for Rosh haShanah la-Behemah, <a href=\"\/index.php?cat=410\">go here<\/a>.\r\n<\/blockquote>\r\n<\/div>\r\n\r\n",
+        "description": "<div class=\"english\" style=\"font-size: 1.2em\">\r\n<blockquote>This is an archive of digital scans of maḥzorim (festival prayer books) for Rosh haShanah (l'Maaseh Bereshit). Some have entered the Public Domain due to their age or due to a lapsed copyright renewal. Some are maḥzorim that have been contributed with Open Content licenses by their creators or copyright stewards. Volunteer contributors use these resources to transcribe prayers found within them. \r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a favorite prayer you have transcribed for Rosh haShanah (l'Maaseh Bereshit).\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers and songs written for, or relevant to Rosh haShanah, <a href=\"\/index.php?cat=5090\">visit here<\/a>.\r\n\r\nFor the Seder Akhilat haSimanim (seder of symbolic foods) on Rosh haShanah, <a href=\"\/index.php?cat=4541\">visit here<\/a>.\r\n\r\nFor prayers composed for Rosh Ḥodesh Tishrei, <a href=\"\/index.php?cat=308\">visit here<\/a>.\r\n\r\nFor prayers composed for Rosh haShanah la-Ilanot (a\/k\/a Tu biShvat), <a href=\"\/index.php?cat=408\">go here<\/a>.\r\n\r\nFor prayers composed for Rosh haShanah la-Melakhim, <a href=\"\/index.php?cat=409\">go here<\/a>.\r\n\r\nFor prayers composed for Rosh haShanah la-Behemah, <a href=\"\/index.php?cat=410\">go here<\/a>.\r\n<\/blockquote>\r\n<\/div>\r\n\r\n",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2019\/09\/Tefilot-lRosh-haShanah-David-de-Sola-Pool-1937-title-page.png",
             "title": "Tefilot l&#8217;Rosh haShanah (David de Sola Pool, 1937) &#8211; title page",
@@ -5554,11 +5584,11 @@
         "name": "Seder Akhilat haSimanim",
         "subcategory_count": 0,
         "post_count": 7,
-        "description": "<div class=\"english\" style=\"font-size: 1.2em;\">\r\n<blockquote>This is an archive of resources prepared for, or relevant to, the Feast of Portentous, Symbolic Foods -- Seder Akhilat haSimanim -- on the night of Rosh haShanah. \r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a resource you have prepared for Seder Akhilat haSimanim.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers composed for Rosh haShanah (l'Maasei Bereshit), <a href=\"\/index.php?cat=5090\">visit here<\/a>.\r\n\r\nFor prayers composed for Rosh Ḥodesh Tishrei, <a href=\"\/index.php?cat=308\">visit here<\/a>.\r\n\r\nFor prayers composed for Rosh haShanah la-Ilanot (a\/k\/a Tu biShvat), <a href=\"\/index.php?cat=408\">go here<\/a>.\r\n\r\nFor prayers composed for Rosh haShanah la-Melakhim, <a href=\"\/index.php?cat=409\">go here<\/a>.\r\n\r\nFor prayers composed for Rosh haShanah la'Behemah, <a href=\"\/index.php?cat=410\">go here<\/a>.\r\n<\/blockquote>\r\n<\/div>",
+        "description": "<div class=\"english\" style=\"font-size: 1.2em\">\r\n<blockquote>This is an archive of resources prepared for, or relevant to, the Feast of Portentous, Symbolic Foods -- Seder Akhilat haSimanim -- on the night of Rosh haShanah. \r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a resource you have prepared for Seder Akhilat haSimanim.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers composed for Rosh haShanah (l'Maasei Bereshit), <a href=\"\/index.php?cat=5090\">visit here<\/a>.\r\n\r\nFor prayers composed for Rosh Ḥodesh Tishrei, <a href=\"\/index.php?cat=308\">visit here<\/a>.\r\n\r\nFor prayers composed for Rosh haShanah la-Ilanot (a\/k\/a Tu biShvat), <a href=\"\/index.php?cat=408\">go here<\/a>.\r\n\r\nFor prayers composed for Rosh haShanah la-Melakhim, <a href=\"\/index.php?cat=409\">go here<\/a>.\r\n\r\nFor prayers composed for Rosh haShanah la'Behemah, <a href=\"\/index.php?cat=410\">go here<\/a>.\r\n<\/blockquote>\r\n<\/div>",
         "featured_image": {
-            "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2011\/09\/Pomegranite-in-Michal-and-Michaels-garden-by-davi55king-CC-BY-2.0.jpg",
-            "title": "Pomegranite in Michal and Michael&#8217;s garden by davi55king (CC-BY 2.0)",
-            "caption": "Image: Pomegranite in Michal and Michael's garden by davi55king (License: CC-BY 2.0)"
+            "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2022\/09\/Pomegranate_fruit_-_whole_and_piece_with_arils.jpg",
+            "title": "Pomegranate fruit &#8211; whole and piece with arils",
+            "caption": "<a href=\"https:\/\/commons.wikimedia.org\/wiki\/File:Pomegranate_fruit_-_whole_and_piece_with_arils.jpg\">Pomegranate fruit - whole and piece with arils<\/a> (credit: Ivar Leidus, license: CC BY-SA)"
         },
         "id": 4541,
         "permalink": "https:\/\/opensiddur.org\/shared\/compilations\/table-guides-and-haggadot\/seder-akhilat-hasimanim\/",
@@ -5625,18 +5655,18 @@
         "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=1080"
     },
     {
-        "stub": "seder-selihot-and-ltaaniyot",
+        "stub": "seder-selihot-and-tefilot-ltaaniyot",
         "name": "Seder Seliḥot and Tefilot l'Taaniyot",
         "subcategory_count": 0,
         "post_count": 5,
-        "description": "",
+        "description": "<div class=\"english\" style=\"font-size: 1.2em\">\r\n<blockquote>This is an archive of digital scans of resources for Seliḥōt services (from the month of Elul through Yom Kippur) and prayers for Fast Days including Tishah b'Av. These scans provide our contributing volunteers a digital source for collaborative transcription of individual seliḥot and qinot, in Hebrew or Aramaic with an accompanying translation. PDFs generated through our workflow are also available for your use. If you do make a transcription however, please share your work back through the project.\r\n\r\nA note on the Public Domain status of the resources listed here. Some have entered the Public Domain due to their age or due to their copyright renewal date having lapsed. Others resources may have been contributed under libre\/Open Content licenses by their creators or copyright stewards. For more information, please take into regard the license under which any particular work is shared.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a digital transcription of a seliḥah or qinah you have transcribed.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor individual səliḥot, <a href=\"\/index.php?tag_ID=328\">go here<\/a>.\r\n\r\nFor individual qinot, <a href=\"\/index.php?tag_ID=1297\">go here<\/a>.\r\n\r\nFor prayers composed for Rosh haShanah la-Behemah, <a href=\"\/index.php?cat=410\">go here<\/a>.\r\n\r\nFor prayers and songs written for, or relevant to Rosh haShanah (l-ma'aseh bereshit), <a href=\"\/index.php?cat=5090\">visit here<\/a>.\r\n\r\nFor prayers composed for Rosh Ḥodesh Tishrei, <a href=\"\/index.php?cat=308\">visit here<\/a>.\r\n<\/blockquote>\r\n<\/div>\r\n\r\n",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2019\/08\/selihot-title-cropped.jpg",
             "title": "selihot &#8211; title (cropped)",
             "caption": ""
         },
         "id": 3758,
-        "permalink": "https:\/\/opensiddur.org\/shared\/compilations\/liturgical\/seder-selihot-and-ltaaniyot\/",
+        "permalink": "https:\/\/opensiddur.org\/shared\/compilations\/liturgical\/seder-selihot-and-tefilot-ltaaniyot\/",
         "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=3758"
     },
     {
@@ -6093,7 +6123,7 @@
         "stub": "shemini-atseret",
         "name": "Shemini Atseret (and Simḥat Torah)",
         "subcategory_count": 0,
-        "post_count": 30,
+        "post_count": 33,
         "description": "<blockquote><div class=\"english\" style=\"font-size: 1.2em;\">\r\nThis is an archive of prayers, prayer-poems, and songs for the festival of Shemini Atseret and Simḥat Torah.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a prayer or transcription or translation of a historic prayer.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor maḥzorim (festival prayer books) for Sukkot & Shemini Atseret (including Simḥat Torah), <a href=\"\/index.php?cat=4562\">go here<\/a>.\r\n\r\nFor special readings on Shemini Atseret and Simḥat Torah, <a href=\"\/index.php?cat=3131\">go here<\/a>.\r\n\r\nFor prayers, prayer-poems, and songs for Sukkot, <a href=\"\/index.php?cat=399\">go here<\/a>.\r\n\r\nFor special readings for Sukkot, <a href=\"\/index.php?cat=3108\">go here<\/a>.\r\n<\/div><\/blockquote>",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2021\/06\/hippo-with-tongue-stuck-out-3803528_960_720.jpg",
@@ -6183,7 +6213,7 @@
         "stub": "shivah-badar",
         "name": "Shiv'ah b'Adar",
         "subcategory_count": 0,
-        "post_count": 4,
+        "post_count": 9,
         "description": "<div class=\"english\" style=\"font-size: 1.2em\">\r\n<blockquote>This is an archive of prayers composed for the fast of <span class=\"hebrew\">שִׁבְעָה בְּאַדָּר<\/span> (also, <span class=\"hebrew\">ז׳ באדר<\/span>) the seventh of Adar, a commemoration of the day of the birth and death of Mosheh Rabbeinu.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a prayer you have written, translated, or transcribed for Shiv'ah b'Adar.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor public readings selected for Shiv'ah b'Adar, <a href=\"\/index.php?cat=3997\">go here<\/a>.\r\n<\/blockquote>\r\n<\/div>",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2016\/03\/geograph-1680097-by-Nick-Lindsay.jpg",
@@ -6693,7 +6723,7 @@
         "stub": "tehilim",
         "name": "Tehilim (Psalms)",
         "subcategory_count": 5,
-        "post_count": 7,
+        "post_count": 9,
         "description": "",
         "featured_image": {
             "url": "",
@@ -6723,7 +6753,7 @@
         "stub": "terror",
         "name": "Terror",
         "subcategory_count": 0,
-        "post_count": 26,
+        "post_count": 27,
         "description": "<div class=\"english\" style=\"font-size: 1.2em\">\r\n<blockquote>This is an archive of prayers composed in response to or in anxious anticipation of an attack intended to invoke communal terror and distress.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a prayer you have written, or a transcription and translation of a historical prayer.\r\n\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers offered in the event of imminent communal danger and distress, <a href=\"\/index.php?cat=3466\">go here<\/a>.\r\n\r\nFor prayers offered in the event of hateful intolerance, prejudice, and bigotry, <a href=\"\/index.php?cat=3471\">go here<\/a>.\r\n\r\nFor prayers offered in the event of pogroms and genocide, <a href=\"\/index.php?cat=4376\">go here<\/a>.\r\n\r\nFor prayers offered in response to conflicts over sovereignty and dispossession, <a href=\"\/index.php?cat=781\">go here<\/a>.\r\n\r\nFor prayers composed for social justice, peace, and liberty, <a href=\"\/index.php?cat=782\">go here<\/a>.\r\n<\/blockquote>\r\n<\/div>",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2014\/11\/1024px-Marche_hommage_Charlie_hebdo_et_aux_victimes_des_attentats_de_janvier_2015_31.jpg",
@@ -7188,7 +7218,7 @@
         "stub": "united-states-of-america",
         "name": "United States of America",
         "subcategory_count": 0,
-        "post_count": 431,
+        "post_count": 433,
         "description": "<div class=\"english\" style=\"font-size: 1.2em;\">\r\n<blockquote>This is an archive of prayers offered for the success of the democratically elected government of the United States of America and the well-being of its multicultural civil society.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a prayer you have written for the United States.\r\n\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers offered for the well-being of one's congregation and community, <a href=\"\/index.php?cat=4588\">visit here<\/a>.\r\n\r\nFor prayers offered on Inauguration Day in the United States, <a href=\"\/index.php?cat=1250\">please visit here<\/a>.\r\n\r\nFor prayers composed for Election Day (including early voting periods) in the United States, <a href=\"\/index.php?cat=1241\">go here<\/a>.\r\n\r\nFor opening prayers offered before legislative bodies, <a href=\"\/index.php?cat=2685\">go here<\/a>.\r\n\r\nFor prayers composed for social justice, peace, and liberty, <a href=\"\/index.php?cat=782\">go here<\/a>.\r\n\r\nFor prayers offered for the well-being of the State of Israel, <a href=\"\/index.php?cat=2554\">please visit here<\/a>.\r\n<\/blockquote>\r\n<\/div>",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2022\/12\/1024px-Flag_of_the_United_States.svg.png",
@@ -7219,7 +7249,7 @@
         "name": "United States Civil Calendar",
         "subcategory_count": 19,
         "post_count": 0,
-        "description": "",
+        "description": "<div class=\"english\" style=\"font-size: 1.2em\">\r\n<blockquote>\r\nThis is an archive of prayers composed for, or relevant to, the meaning, commemoration, or celebration of civic days observed in the civil calendar of the United States of America.\r\n\r\nHave you composed a prayer concerning, or in recognition of, a civic day on the US civil calendar? Please <a href=\"\/contributing\/upload\/\">share it here<\/a>.\r\n\r\n<hr \/>\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers offered for civic days on international civil calendars, <a href=\"\/index.php?cat=3036\">go here<\/a>.\r\n\r\nFor public readings prepared for civic days on all civil calendars, <a href=\"\/index.php?cat=4035\">go here<\/a>.\r\n<\/blockquote>\r\n<\/div>\r\n",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2022\/12\/1024px-Flag_of_the_United_States.svg.png",
             "title": "1024px-Flag_of_the_United_States.svg",
@@ -7308,7 +7338,7 @@
         "stub": "war",
         "name": "War",
         "subcategory_count": 0,
-        "post_count": 78,
+        "post_count": 80,
         "description": "<div class=\"english\" style=\"font-size: 1.2em;\">\r\n<blockquote>This is an archive of prayers composed in response to, or in anxious anticipation of, war.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a prayer you have written, or a transcription and translation of a historical prayer.\r\n\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers composed for United Nations Day (October 24), <a href=\"\/index.php?cat=3792\">go here<\/a>.\r\n\r\nFor prayers offered for military veterans and armed forces personnel, <a href=\"\/index.php?cat=1257\">go here<\/a>.\r\n\r\nFor prayers offered in response to conflicts over sovereignty and dispossession, <a href=\"\/index.php?cat=781\">go here<\/a>.\r\n\r\nFor prayers offered in the event of terror, <a href=\"\/index.php?cat=777\">go here<\/a>.\r\n\r\nFor prayers offered in the event of pogroms and genocide, <a href=\"\/index.php?cat=4376\">go here<\/a>.\r\n\r\nFor prayers offered in the event of imminent communal danger and distress, <a href=\"\/index.php?cat=3466\">go here<\/a>.\r\n\r\nFor prayers offered in the event of hateful intolerance, prejudice, and bigotry, <a href=\"\/index.php?cat=3471\">go here<\/a>.\r\n\r\nFor prayers composed for social justice, peace, and liberty, <a href=\"\/index.php?cat=782\">go here<\/a>.\r\n\r\nFor prayers offered for the well-being of the State of Israel, <a href=\"\/index.php?cat=2554\">please visit here<\/a>.\r\n<\/blockquote>\r\n<\/div>",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2022\/03\/Schwerter_zu_Pflugscharen_-_Jewgeni_Wutschetitsch_-_Geschenk_der_Sowjetunion_an_die_UNO_-_1959.jpg",
@@ -7713,7 +7743,7 @@
         "stub": "yom-kippur",
         "name": "Yom Kippur",
         "subcategory_count": 0,
-        "post_count": 88,
+        "post_count": 91,
         "description": "<blockquote><div class=\"english\" style=\"font-size: 1.2em;\">\r\nThis is an archive of prayers, prayer-poems, and songs for Yom haKippurim.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a prayer you have written, or a transcription or translation of a historical work by someone else.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor maḥzorim (festival prayerbooks) for Yom haKippurim, <a href=\"\/index.php?cat=3893\">visit here<\/a>.\r\n\r\nFor special Yom Kippur readings, <a href=\"\/index.php?cat=3017\">go here<\/a>.\r\n<\/div><\/blockquote>",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2022\/10\/Eli-Wallach-in-The-Good-the-Bad-and-the-Ugly-cemetery-scene-dir.-Sergio-Leone-1966.jpg",
@@ -7816,10 +7846,10 @@
     },
     {
         "stub": "yom-tel-aviv",
-        "name": "Tel Aviv Day (20 Nissan)",
+        "name": "Yom Tel Aviv (20 Nissan)",
         "subcategory_count": 0,
         "post_count": 1,
-        "description": "<div class=\"english\" style=\"font-size: 1.2em;\">\r\n<blockquote>This is an archive of prayers composed for, or relevant to, the anniversary of the founding of the city of <a href=\"https:\/\/en.wikipedia.org\/wiki\/Tel_Aviv\">Tel Aviv-Jaffo<\/a>. The official date of 11 April 1909 (20 Nissan) was designated for the celebration of the city's centennial anniversary in 2009. On that date, the first lottery of plots for the settlement of Ahuzat Bayit (later renamed Tel Aviv) occurred. \r\n\r\nIf you have composed a prayer, or transcribed and translated a historic prayer for the city of Tel Aviv-Jaffo, please <a href=\"\/contribute\/upload\">share it here<\/a>.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers composed for other cities, <a href=\"\/tagged\/prayers-for-municipalities\/\">please visit here<\/a>.\r\n<\/blockquote>\r\n<\/div>\r\n",
+        "description": "<div class=\"english\" style=\"font-size: 1.2em\">\r\n<blockquote>This is an archive of prayers composed for, or relevant to, the anniversary of the founding of the city of <a href=\"https:\/\/en.wikipedia.org\/wiki\/Tel_Aviv\">Tel Aviv-Jaffo<\/a>. The official date of 11 April 1909 (20 Nissan) was designated for the celebration of the city's centennial anniversary in 2009. On that date, the first lottery of plots for the settlement of Ahuzat Bayit (later renamed Tel Aviv) occurred. \r\n\r\nIf you have composed a prayer, or transcribed and translated a historic prayer for the city of Tel Aviv-Jaffo, please <a href=\"\/contribute\/upload\">share it here<\/a>.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers composed for other cities, <a href=\"\/tagged\/prayers-for-municipalities\/\">please visit here<\/a>.\r\n<\/blockquote>\r\n<\/div>\r\n",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2012\/11\/Yaffo-seen-from-Tel-Aviv-by-Cédric-Boismain-CC-BY-2.0.jpg",
             "title": "Yaffo seen from Tel Aviv by Cédric Boismain (CC-BY 2.0)",

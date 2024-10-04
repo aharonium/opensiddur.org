@@ -15,7 +15,7 @@
         "display_name": "David Abernethy",
         "first_name": "David",
         "last_name": "Abernethy",
-        "post_count": 4,
+        "post_count": 5,
         "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2020\/12\/david-abernethy-96x96.jpg",
         "description": "David Abernethy practices law in the Philadelphia area and is a member of the Beth Am Israel community in Penn Valley, Pennsylvania.",
         "website": "",
@@ -291,7 +291,7 @@
         "display_name": "Lior Bar-Ami",
         "first_name": "Lior",
         "last_name": "Bar-Ami",
-        "post_count": 6,
+        "post_count": 7,
         "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2024\/05\/lior-bar-ami-96x96.jpg",
         "description": "Rabbi Lior Bar-Ami is a Reform\/Liberal movement rabbi in Europe. He was ordained at Abraham-Geiger-College in Berlin, Germany in 2016. Rabbi Bar-Ami has served as rabbi for The Liberal Synagogue in Toulouse, France and Or Chadash Synagogue in Vienna, Austria.",
         "website": "",
@@ -672,6 +672,18 @@
         "profile_page_link": "https:\/\/opensiddur.org\/profile\/joshua-boettiger"
     },
     {
+        "display_name": "Ben-Zion Bokser",
+        "first_name": "Ben-Zion",
+        "last_name": "Bokser",
+        "post_count": 5,
+        "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2017\/02\/Ben-Zion-Bokser-96x96.jpg",
+        "description": "Ben Zion-Bokser was born in Lubomi, Poland, and emigrated to the United States at the age of 13 in 1920. Bokser heard Rabbi Abraham Isaac Kook speak in New York in 1924 and became an avid student and great proponent of his teachings. Bokser attended City College of New York (BA, 1928) and Rabbi Isaac Elhanan Theological Seminary (Yeshiva University), followed by the Jewish Theological Seminary of America (ordained, 1931) and Columbia University (PhD, 1935). He taught for many years as an Adjunct Professor of Political Science, Queens College, City University of New York. His first pulpit was Congregation Beth Israel in Vancouver. He served as the rabbi of Forest Hills Jewish Center in Queens, New York starting in 1933 and remained in that position for the balance of his career, more than fifty years. He served a two-year period as a United States Army chaplain during World War Two, stationed at Camp Miles Standish in Massachusetts. During WWII, he organized aid for Jewish soldiers. Bokser was an advocate of social justice, taking a position in favor of the construction of a housing project for the poor in the middle class community of Forest Hills. He fought against the death penalty in NY state.",
+        "website": "https:\/\/en.wikipedia.org\/wiki\/Ben-Zion_Bokser",
+        "author_slug": "ben-zion-bokser",
+        "author_id": 337,
+        "profile_page_link": "https:\/\/opensiddur.org\/profile\/ben-zion-bokser"
+    },
+    {
         "display_name": "Daniel S. Brenner",
         "first_name": "Daniel S.",
         "last_name": "Brenner",
@@ -718,6 +730,18 @@
         "author_slug": "sharon-brous",
         "author_id": 2222,
         "profile_page_link": "https:\/\/opensiddur.org\/profile\/sharon-brous"
+    },
+    {
+        "display_name": "Devorah Brous",
+        "first_name": "Devorah",
+        "last_name": "Brous",
+        "post_count": 1,
+        "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2024\/09\/devorah-brous-96x96.jpg",
+        "description": "Devorah Brous (@Dev.Brous, she|her) is an urban homesteader and herbalist, ritual facilitator, and earth\/soul-care consultant, \"root down to rise up.\" She holds two Masters degrees in conflict resolution and development studies. A community organizer with systems-impacted and underinvested communities for 25 years (indigenous, houseless, and formerly incarcerated people), she is the former founding Executive Director of two mission-driven environmental nonprofits, BUSTAN, and Netiya. Her practice, FromSoil2Soul, is dedicated to tending people in time-tested earth-based traditions as well as emergent wellness exercises. Rooted in mystical Judaism and earth-based Torah, her nature-based healing practice is also grounded in soil science and the wise-woman tradition of folk herbalism woven together with poetry and prayer.",
+        "website": "https:\/\/fromsoil2soul.com\/about-dev",
+        "author_slug": "devorah-brous",
+        "author_id": 2228,
+        "profile_page_link": "https:\/\/opensiddur.org\/profile\/devorah-brous"
     },
     {
         "display_name": "Maia Brown",
@@ -876,30 +900,6 @@
         "profile_page_link": "https:\/\/opensiddur.org\/profile\/alex-cicelsky"
     },
     {
-        "display_name": "Emmy Cohen",
-        "first_name": "Emmy",
-        "last_name": "Cohen",
-        "post_count": 1,
-        "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2014\/09\/Emmy-Cohen-96x96.jpg",
-        "description": "Emmy Cohen studies Religion at American University and is interested in women's roles in religion.\r\nEmmy grapples with defining the word \"holy.\"",
-        "website": "",
-        "author_slug": "emmy-cohen",
-        "author_id": 186,
-        "profile_page_link": "https:\/\/opensiddur.org\/profile\/emmy-cohen"
-    },
-    {
-        "display_name": "Julia Matilda Waley Cohen",
-        "first_name": "Julia Matilda Waley",
-        "last_name": "Cohen",
-        "post_count": 2,
-        "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2014\/11\/Keith-Evans-Green-Tree-Yellow-Field-CC-BY-SA-250x250.jpg",
-        "description": "Julia Matilda Cohen née Waley (1853-1917) compiled a prayerbook for families  and children, <em>The children's Psalm-book, a selection of Psalms with explanatory comments, together with a prayer-book for home use in Jewish families<\/em> (1907). Her father, Jacob Waley (1818-1873), was a co-founder of the United Synagogue. If you know any more about Julia M. Cohen, please <a href=\"\/contact\/\">contact us<\/a>.",
-        "website": "https:\/\/www.wikitree.com\/wiki\/Waley-15",
-        "author_slug": "julia-matilda-waley-cohen",
-        "author_id": 1962,
-        "profile_page_link": "https:\/\/opensiddur.org\/profile\/julia-matilda-waley-cohen"
-    },
-    {
         "display_name": "Daniel Yoel Cohen",
         "first_name": "Daniel Yoel",
         "last_name": "Cohen",
@@ -912,16 +912,16 @@
         "profile_page_link": "https:\/\/opensiddur.org\/profile\/danny-cohen"
     },
     {
-        "display_name": "Ayelet Cohen",
-        "first_name": "Ayelet",
+        "display_name": "Emmy Cohen",
+        "first_name": "Emmy",
         "last_name": "Cohen",
-        "post_count": 2,
-        "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2023\/04\/ayelet-cohen-96x96.jpg",
-        "description": "Rabbi Ayelet S. Cohen is Senior Director of the New Israel Fund’s New York\/Tri-State Region. Previously, she was Director of The Center for Jewish Living and The David H. Sonabend Center for Israel at The Jewish Community Center in Manhattan. She served for 10 years at Congregation Beit Simchat Torah, the world’s largest LGBT synagogue serving people of all sexual orientations and gender identities. Passionately committed to progressive and feminist Judaism, she is an activist and an advocate for full inclusion and celebration of LGBT Jews in the Jewish world, and an advocate for LGBT civil rights. Rabbi Cohen has been profiled in the New York Times, was named one of the “Heeb 100,” Heeb Magazine’s “hundred people you need to know about,” and was honored at the 2005 Ma’yan Seder as a leading young Jewish feminist activist. She is a member of the Rabbinical Assembly and the New York Board of Rabbis.",
-        "website": "https:\/\/truah.org\/people\/rabbi-ayelet-cohen\/",
-        "author_slug": "ayelet-cohen",
-        "author_id": 1942,
-        "profile_page_link": "https:\/\/opensiddur.org\/profile\/ayelet-cohen"
+        "post_count": 1,
+        "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2014\/09\/Emmy-Cohen-96x96.jpg",
+        "description": "Emmy Cohen studies Religion at American University and is interested in women's roles in religion.\r\nEmmy grapples with defining the word \"holy.\"",
+        "website": "",
+        "author_slug": "emmy-cohen",
+        "author_id": 186,
+        "profile_page_link": "https:\/\/opensiddur.org\/profile\/emmy-cohen"
     },
     {
         "display_name": "Alfred Cohen",
@@ -936,16 +936,40 @@
         "profile_page_link": "https:\/\/opensiddur.org\/profile\/alfred-cohen"
     },
     {
+        "display_name": "Julia Matilda Waley Cohen",
+        "first_name": "Julia Matilda Waley",
+        "last_name": "Cohen",
+        "post_count": 2,
+        "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2014\/11\/Keith-Evans-Green-Tree-Yellow-Field-CC-BY-SA-250x250.jpg",
+        "description": "Julia Matilda Cohen née Waley (1853-1917) compiled a prayerbook for families  and children, <em>The children's Psalm-book, a selection of Psalms with explanatory comments, together with a prayer-book for home use in Jewish families<\/em> (1907). Her father, Jacob Waley (1818-1873), was a co-founder of the United Synagogue. If you know any more about Julia M. Cohen, please <a href=\"\/contact\/\">contact us<\/a>.",
+        "website": "https:\/\/www.wikitree.com\/wiki\/Waley-15",
+        "author_slug": "julia-matilda-waley-cohen",
+        "author_id": 1962,
+        "profile_page_link": "https:\/\/opensiddur.org\/profile\/julia-matilda-waley-cohen"
+    },
+    {
         "display_name": "Aryeh Cohen",
         "first_name": "Aryeh",
         "last_name": "Cohen",
-        "post_count": 6,
+        "post_count": 7,
         "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2015\/02\/aryeh-cohen-e1424370585127-96x96.jpg",
         "description": "Aryeh Cohen is a professor, a social justice activist, a rabbi, and a lecturer. He teaches all things Rabbinic Literature (Mishnah, Talmud, midrash) and social justice at the <a href=\"http:\/\/ziegler.aju.edu\/\">Ziegler School for Rabbinic Studies<\/a> of the American Jewish University. Prof. Cohen is a founder and member of the <a href=\"http:\/\/www.shtibl.com\">Shtibl Minyan<\/a>, a former chair of the Boards of the Progressive Jewish Alliance, and <a href=\"https:\/\/www.cluejustice.org\/\">CLUE<\/a>. He is the co-convener of the Black Jewish Justice Alliance and is the author of <em><a title=\"Justice in the City: The Book\" href=\"http:\/\/www.justice-in-the-city.com\/?page_id=9\">Justice in the City: An Argument from the Sources of Rabbinic Judaism<\/a><\/em> (2012).",
         "website": "http:\/\/www.justice-in-the-city.com\/",
         "author_slug": "aryeh-cohen",
         "author_id": 213,
         "profile_page_link": "https:\/\/opensiddur.org\/profile\/aryeh-cohen"
+    },
+    {
+        "display_name": "Ayelet Cohen",
+        "first_name": "Ayelet",
+        "last_name": "Cohen",
+        "post_count": 2,
+        "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2023\/04\/ayelet-cohen-96x96.jpg",
+        "description": "Rabbi Ayelet S. Cohen is Senior Director of the New Israel Fund’s New York\/Tri-State Region. Previously, she was Director of The Center for Jewish Living and The David H. Sonabend Center for Israel at The Jewish Community Center in Manhattan. She served for 10 years at Congregation Beit Simchat Torah, the world’s largest LGBT synagogue serving people of all sexual orientations and gender identities. Passionately committed to progressive and feminist Judaism, she is an activist and an advocate for full inclusion and celebration of LGBT Jews in the Jewish world, and an advocate for LGBT civil rights. Rabbi Cohen has been profiled in the New York Times, was named one of the “Heeb 100,” Heeb Magazine’s “hundred people you need to know about,” and was honored at the 2005 Ma’yan Seder as a leading young Jewish feminist activist. She is a member of the Rabbinical Assembly and the New York Board of Rabbis.",
+        "website": "https:\/\/truah.org\/people\/rabbi-ayelet-cohen\/",
+        "author_slug": "ayelet-cohen",
+        "author_id": 1942,
+        "profile_page_link": "https:\/\/opensiddur.org\/profile\/ayelet-cohen"
     },
     {
         "display_name": "Yehudah B. Cohn (translation)",
@@ -994,6 +1018,18 @@
         "author_slug": "consistoire-central-israelite-de-france",
         "author_id": 1788,
         "profile_page_link": "https:\/\/opensiddur.org\/profile\/consistoire-central-israelite-de-france"
+    },
+    {
+        "display_name": "Mosheh ben Yaaqov Cordovero",
+        "first_name": "Mosheh ben Yaaqov",
+        "last_name": "Cordovero",
+        "post_count": 1,
+        "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2014\/11\/Keith-Evans-Green-Tree-Yellow-Field-CC-BY-SA-250x250.jpg",
+        "description": "Moses ben Jacob Cordovero (<span class=\"hebrew\">משה קורדובירו<\/span> ‎; 1522–1570) was a central figure in the historical development of Kabbalah, leader of a mystical school in 16th-century Safed, Ottoman Syria (currently Tsfat, Israel). He is known by the acronym the Ramaḳ (<span class=\"hebrew\">רמ״ק<\/span>). After the Medieval flourishing of Ḳabbalah, centered on the Zohar, attempts were made to give a complete intellectual system to its theology, such as by Meir ibn Gabbai. Influenced by the earlier success of Jewish philosophy in articulating a rational study of Jewish thought, Moshe Cordovero produced the first full integration of the previous differing schools in Kabbalistic interpretation. While he was a mystic inspired by the imagery of the Zohar, Cordoverian Kabbalah utilized the conceptual framework of evolving cause and effect from the Infinite to the Finite in systemizing Kabbalah, the method of philosophical style discourse he held most effective in describing a process that reflects sequential logic and coherence. His encyclopedic works became a central stage in the development of Kabbalah. Immediately after him in Safed, Isaac Luria articulated a subsequent system of Ḳabbalistic theology, with new supra-rational doctrines recasting previous Ḳabbalistic thought. While Lurianism displaced the Cordoverian scheme and became predominant in Judaism, its followers read Cordoverian works in harmony with their teachings. Where to them, Lurianism described the \"World\" of Rectification, Cordovero described the pre-Rectification World. Both articulations of the 16th century mystical Renaissance in Safed gave Ḳabbalah an intellectual prominence to rival Medieval Rationalism, whose social influence on Judaism had waned after the Expulsion from Spain.",
+        "website": "https:\/\/en.wikipedia.org\/wiki\/Moses_ben_Jacob_Cordovero",
+        "author_slug": "mosheh-cordovero",
+        "author_id": 1985,
+        "profile_page_link": "https:\/\/opensiddur.org\/profile\/mosheh-cordovero"
     },
     {
         "display_name": "Menachem Creditor",
@@ -1188,6 +1224,18 @@
         "profile_page_link": "https:\/\/opensiddur.org\/profile\/david-einhorn"
     },
     {
+        "display_name": "Judah David Eisenstein (translation)",
+        "first_name": "Judah David",
+        "last_name": "Eisenstein",
+        "post_count": 4,
+        "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2017\/12\/Judah_David_Eisenstein-96x96.jpg",
+        "description": "Julius (Judah David) Eisenstein (November 12, 1854 – May 17, 1956) (יהודה דוד אייזנשטיין‎) was a Polish-Jewish-American anthologist, diarist, encyclopedist, Hebraist, historian, philanthropist, and Orthodox polemicist born in Międzyrzec Podlaski (known in Yiddish as Mezritch d'Lita), a town with a large Jewish majority in what was then Congress Poland. He died in New York City at the age of 101. Eisenstein was a lover of Hebrew, and established America's first society for the Hebrew language, Shoharei Sfat Ever. He was also the first to translate the Constitution of the United States into Hebrew and Yiddish (New York, 1891). Other early writings of his are Ma'amarei BaMasoret, ib. 1897, and The Classified Psalter (Pesukei dezimra), Hebrew text with a new translation (1899). He also made an attempt to translate and explain a modified text of the Shulchan Aruch. He was known by many colleagues as the Ba'al ha-Otzrot (\"Master of the Anthologies\"). His works remain standard reference books in yeshivot, batei midrash, synagogues, and Jewish libraries to this day. (adapted from the article, \"<a href=\"https:\/\/en.wikipedia.org\/wiki\/Julius_Eisenstein\">Julius Eisenstein<\/a>,\" in Wikipedia)",
+        "website": "https:\/\/en.wikipedia.org\/wiki\/Julius_Eisenstein",
+        "author_slug": "judah-david-eisenstein",
+        "author_id": 393,
+        "profile_page_link": "https:\/\/opensiddur.org\/profile\/judah-david-eisenstein"
+    },
+    {
         "display_name": "Tamar Elad-Appelbaum",
         "first_name": "Tamar",
         "last_name": "Elad-Appelbaum",
@@ -1344,18 +1392,6 @@
         "profile_page_link": "https:\/\/opensiddur.org\/profile\/elli-fischer"
     },
     {
-        "display_name": "Yehudis Fishman",
-        "first_name": "Yehudis",
-        "last_name": "Fishman",
-        "post_count": 4,
-        "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2013\/11\/yehudis-fishman2-96x96.jpg",
-        "description": "I have been teaching Torah and Chassidic writings for over forty years to students of all ages and backgrounds, both on the East Coast and the Midwest. I have been a director of several Jewish organizations in Santa Fe and Colorado. My articles and poetry on a wide variety of Jewish topics have been printed in many publications, and also are available online.",
-        "website": "http:\/\/boulderaishkodesh.org\/about\/leadership\/morah-yehudis-fishman-bio\/",
-        "author_slug": "yehudis-fishman",
-        "author_id": 113,
-        "profile_page_link": "https:\/\/opensiddur.org\/profile\/yehudis-fishman"
-    },
-    {
         "display_name": "Gabbai Seth Fishman (translation)",
         "first_name": "Seth",
         "last_name": "Fishman",
@@ -1366,6 +1402,18 @@
         "author_slug": "seth-fishman",
         "author_id": 79,
         "profile_page_link": "https:\/\/opensiddur.org\/profile\/seth-fishman"
+    },
+    {
+        "display_name": "Yehudis Fishman",
+        "first_name": "Yehudis",
+        "last_name": "Fishman",
+        "post_count": 4,
+        "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2013\/11\/yehudis-fishman2-96x96.jpg",
+        "description": "I have been teaching Torah and Chassidic writings for over forty years to students of all ages and backgrounds, both on the East Coast and the Midwest. I have been a director of several Jewish organizations in Santa Fe and Colorado. My articles and poetry on a wide variety of Jewish topics have been printed in many publications, and also are available online.",
+        "website": "http:\/\/boulderaishkodesh.org\/about\/leadership\/morah-yehudis-fishman-bio\/",
+        "author_slug": "yehudis-fishman",
+        "author_id": 113,
+        "profile_page_link": "https:\/\/opensiddur.org\/profile\/yehudis-fishman"
     },
     {
         "display_name": "Samuel Fleishacker",
@@ -1517,7 +1565,7 @@
         "last_name": "Gaster",
         "post_count": 17,
         "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2018\/12\/Moses-Gaster-96x96.jpg",
-        "description": "Moses Gaster (17 September 1856 – 5 March 1939) was a Romanian, later British scholar and rabbi, the Ḥakham of the Spanish and Portuguese Jewish congregation, London, a folklorist, and a Hebrew and Romanian linguist. In Leipzig, he received his PhD in 1878, followed in 1881 with his Hattarat Hora'ah (rabbinical diploma) from the  Jewish Seminary in Breslau. Before his expulsion from Romania in 1885 by the government of Ion Brătianu for his early Zionist organizing, he was lecturer on the Romanian language and literature at the University of Bucharest (1881–85), inspector-general of schools, and a member of the council for examining teachers in Romania. He also lectured on the Romanian apocrypha, the whole of which he had discovered in manuscript. His history of Romanian popular literature was published in Bucharest in 1883. Gaster was a central figure of Hibbat Zion in Romania and played a central role in the 1882 establishment by Jews from Moineşti of the Samarin (Zamarin) settlement, known since 1884 as Zichron Ya'akov. In England, in 1886 and 1891, he held a lectureship in Slavonic literature at the University of Oxford. In 1895, at the request of the Romanian government, he wrote a report on the British system of education, which was printed as a \"green book\" and accepted as a basis of education in Romania. In 1887 Gaster was appointed hakham of the Sephardic or Spanish and Portuguese Congregation in London, in which capacity he presided over the bicentenary of Bevis Marks Synagogue. He was a member of the councils of the Folklore, Biblical, Archaeological, and Royal Asiatic societies, writing many papers in their interest. He was the only ordained rabbi ever to become president of The Folklore Society, in 1907–1908. He became vice-president of the First Zionist Congress in Basel, and was a prominent figure in each succeeding congress. The first draft of the Balfour Declaration was written at the Gaster home on 7 February 1917 in the presence of Chaim Weizmann, Nahum Sokolow, Baron Rothschild, Sir Mark Sykes and Herbert Samuel. In 1925, Gaster was appointed one of the six members of the honorary board of trustees (Curatorium) of the Yiddish Scientific Institute (YIVO) in Wilna, alongside Simon Dubnow, Albert Einstein, Sigmund Freud, Edward Sapir, and Chaim Zhitlowsky.",
+        "description": "Rabbi Dr. Moses Gaster (17 September 1856 – 5 March 1939), born in Romania, was a Romanian and British scholar and rabbi, the Ḥakham of the Spanish and Portuguese Jewish congregation, London, a folklorist, and a Hebrew and Romanian linguist. He received his PhD in Leipzig in 1878, followed in 1881 with his Hattarat Hora'ah (rabbinical diploma) from the  Jewish Seminary in Breslau. Before his expulsion from Romania in 1885 by the government of Ion Brătianu for his early Zionist organizing, he was lecturer on the Romanian language and literature at the University of Bucharest (1881–85), inspector-general of schools, and a member of the council for examining teachers in Romania. He also lectured on the Romanian apocrypha, the whole of which he had discovered in manuscript. His history of Romanian popular literature was published in Bucharest in 1883. Gaster was a central figure of Hibbat Zion in Romania and played a central role in the 1882 establishment by Jews from Moineşti of the Samarin (Zamarin) settlement, known since 1884 as Zichron Ya'akov. In England, in 1886 and 1891, he held a lectureship in Slavonic literature at the University of Oxford. In 1895, at the request of the Romanian government, he wrote a report on the British system of education, which was printed as a \"green book\" and accepted as a basis of education in Romania. In 1887 Gaster was appointed hakham of the Sephardic or Spanish and Portuguese Congregation in London, in which capacity he presided over the bicentenary of Bevis Marks Synagogue. He was a member of the councils of the Folklore, Biblical, Archaeological, and Royal Asiatic societies, writing many papers in their interest. He was the only ordained rabbi ever to become president of The Folklore Society, in 1907–1908. He became vice-president of the First Zionist Congress in Basel, and was a prominent figure in each succeeding congress. The first draft of the Balfour Declaration was written at the Gaster home on 7 February 1917 in the presence of Chaim Weizmann, Nahum Sokolow, Baron Rothschild, Sir Mark Sykes and Herbert Samuel. In 1925, Gaster was appointed one of the six members of the honorary board of trustees (Curatorium) of the Yiddish Scientific Institute (YIVO) in Wilna, alongside Simon Dubnow, Albert Einstein, Sigmund Freud, Edward Sapir, and Chaim Zhitlowsky.",
         "website": "https:\/\/en.wikipedia.org\/wiki\/Moses_Gaster",
         "author_slug": "moses-gaster",
         "author_id": 522,
@@ -1740,18 +1788,6 @@
         "profile_page_link": "https:\/\/opensiddur.org\/profile\/yakov-green"
     },
     {
-        "display_name": "Todd Greenberg",
-        "first_name": "Todd",
-        "last_name": "Greenberg",
-        "post_count": 3,
-        "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2023\/07\/todd-greenberg-96x96.jpg",
-        "description": "Todd Greenberg is co-President\/owner of a Flooring Company here in Boulder County Colorado. He is a member of Congregation Har Hashem in Boulder, Colorado.",
-        "website": "",
-        "author_slug": "todd-greenberg",
-        "author_id": 1981,
-        "profile_page_link": "https:\/\/opensiddur.org\/profile\/todd-greenberg"
-    },
-    {
         "display_name": "Steven Greenberg",
         "first_name": "Steven",
         "last_name": "Greenberg",
@@ -1762,6 +1798,18 @@
         "author_slug": "steven-greenberg",
         "author_id": 452,
         "profile_page_link": "https:\/\/opensiddur.org\/profile\/steven-greenberg"
+    },
+    {
+        "display_name": "Todd Greenberg",
+        "first_name": "Todd",
+        "last_name": "Greenberg",
+        "post_count": 3,
+        "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2023\/07\/todd-greenberg-96x96.jpg",
+        "description": "Todd Greenberg is co-President\/owner of a Flooring Company here in Boulder County Colorado. He is a member of Congregation Har Hashem in Boulder, Colorado.",
+        "website": "",
+        "author_slug": "todd-greenberg",
+        "author_id": 1981,
+        "profile_page_link": "https:\/\/opensiddur.org\/profile\/todd-greenberg"
     },
     {
         "display_name": "Eli B. Greenwald",
@@ -1920,6 +1968,18 @@
         "profile_page_link": "https:\/\/opensiddur.org\/profile\/bonna-devora"
     },
     {
+        "display_name": "B. Hallel",
+        "first_name": "Britt",
+        "last_name": "Hallel",
+        "post_count": 1,
+        "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2024\/10\/b-hillel-96x96.jpg",
+        "description": "B. Hallel self-describes as the \"lead legume in the kitniyot gallery.\"",
+        "website": "https:\/\/lofidvar.substack.com",
+        "author_slug": "britt-hallel",
+        "author_id": 2229,
+        "profile_page_link": "https:\/\/opensiddur.org\/profile\/britt-hallel"
+    },
+    {
         "display_name": "חיים היימס-עזרא",
         "first_name": "Ḥaim",
         "last_name": "Hames",
@@ -1944,18 +2004,6 @@
         "profile_page_link": "https:\/\/opensiddur.org\/profile\/jill-hammer"
     },
     {
-        "display_name": "Shelby Handler",
-        "first_name": "Shelby",
-        "last_name": "Handler",
-        "post_count": 2,
-        "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2020\/09\/shelby-handler-96x96.png",
-        "description": "Shelby Handler (they\/them) is a writer and teaching artist living on Duwamish land\/Seattle, WA.  Currently, they are an MFA candidate at the University of Washington. While in school, Shelby is going to keep spending all their spare time teaching 4th grade Jewish weirdos and splintering white supremacy through organizing, study, ritual and pedagogy.",
-        "website": "http:\/\/shelbyhandler.com\/",
-        "author_slug": "shelby-handler",
-        "author_id": 379,
-        "profile_page_link": "https:\/\/opensiddur.org\/profile\/shelby-handler"
-    },
-    {
         "display_name": "Jacob Handler",
         "first_name": "Jacob",
         "last_name": "Handler",
@@ -1966,6 +2014,18 @@
         "author_slug": "jacob-handler",
         "author_id": 2037,
         "profile_page_link": "https:\/\/opensiddur.org\/profile\/jacob-handler"
+    },
+    {
+        "display_name": "Shelby Handler",
+        "first_name": "Shelby",
+        "last_name": "Handler",
+        "post_count": 2,
+        "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2020\/09\/shelby-handler-96x96.png",
+        "description": "Shelby Handler (they\/them) is a writer and teaching artist living on Duwamish land\/Seattle, WA.  Currently, they are an MFA candidate at the University of Washington. While in school, Shelby is going to keep spending all their spare time teaching 4th grade Jewish weirdos and splintering white supremacy through organizing, study, ritual and pedagogy.",
+        "website": "http:\/\/shelbyhandler.com\/",
+        "author_slug": "shelby-handler",
+        "author_id": 379,
+        "profile_page_link": "https:\/\/opensiddur.org\/profile\/shelby-handler"
     },
     {
         "display_name": "Sidney Harcsztark",
@@ -1990,6 +2050,18 @@
         "author_slug": "neria-haroeh",
         "author_id": 950,
         "profile_page_link": "https:\/\/opensiddur.org\/profile\/neria-haroeh"
+    },
+    {
+        "display_name": "Maurice Henry Harris",
+        "first_name": "Maurice Henry",
+        "last_name": "Harris",
+        "post_count": 1,
+        "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2024\/07\/maurice-henry-harris-96x96.jpg",
+        "description": "Rabbi Dr. Maurice Henry Harris (1859-1930) was a prominent Reform movement rabbi and writer in the United States. At the time of his death, he was president of the Association of Reform Rabbis of New York City. He wrote, <em>People of the Book. A Bible history for school and home<\/em> (1893), <em>Jewish history and literature : a course of lessons from the rise of the Kabbala to the expulsion of the Jews by Spain<\/em> (1899), <em>History of the mediaeval Jews, from the Moslem conquest of Spain to the discovery of America<\/em> (1924), <em>A thousand years of Jewish history, from the days of Alexander the Great to the Moslem conquest of Spain<\/em> (1927), <em>Modern Jewish history from the Renaissance to the close of the World War<\/em> (1928), and posthumously, <em>Hebraic literature : translations from the Talmud, Midrashim and Kabbala<\/em> (1946). We know very little else about Rabbi Harris's life and career. If you can add a detail, please <a href=\"\/contact\/\">contact us<\/a>.",
+        "website": "",
+        "author_slug": "maurice-henry-harris",
+        "author_id": 2206,
+        "profile_page_link": "https:\/\/opensiddur.org\/profile\/maurice-henry-harris"
     },
     {
         "display_name": "Hebrew Publishing Company",
@@ -2160,18 +2232,6 @@
         "profile_page_link": "https:\/\/opensiddur.org\/profile\/rocket"
     },
     {
-        "display_name": "Mark X. Jacobs",
-        "first_name": "Mark X.",
-        "last_name": "Jacobs",
-        "post_count": 1,
-        "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2013\/07\/mark-x-jacobs.jpg",
-        "description": "<a href=\"http:\/\/www.merid.org\/About\/Staff.aspx#MJacobs\">Mark X. Jacobs<\/a> was the Founding Executive Director of the <a href=\"http:\/\/www.coejl.org\/~coejlor\/about\/history.php\">Coalition on the Environment and Jewish Life<\/a> (COEJL, from 1994 to 2003). Under his leadership, COEJL grew from a short-term project of the National Religious Partnership for the Environment into a permanent coalition of 29 national Jewish agencies with affiliated institutions across North America. Mark X. Jacobs currently serves as a Senior Mediator and Program Manager at the Meridian Institute, where he designs and facilitates collaborative processes that help diverse parties identify critical issues, build relationships and trust, construct innovative solutions, and implement durable decisions. Mark is currently focused on multistakeholder efforts to address challenges at the intersection of agriculture, environment, and public policy.",
-        "website": "",
-        "author_slug": "mark-x-jacobs",
-        "author_id": 25,
-        "profile_page_link": "https:\/\/opensiddur.org\/profile\/mark-x-jacobs"
-    },
-    {
         "display_name": "Jill Jacobs",
         "first_name": "Jill",
         "last_name": "Jacobs",
@@ -2182,6 +2242,18 @@
         "author_slug": "jill-jacobs",
         "author_id": 652,
         "profile_page_link": "https:\/\/opensiddur.org\/profile\/jill-jacobs"
+    },
+    {
+        "display_name": "Mark X. Jacobs",
+        "first_name": "Mark X.",
+        "last_name": "Jacobs",
+        "post_count": 1,
+        "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2013\/07\/mark-x-jacobs.jpg",
+        "description": "<a href=\"http:\/\/www.merid.org\/About\/Staff.aspx#MJacobs\">Mark X. Jacobs<\/a> was the Founding Executive Director of the <a href=\"http:\/\/www.coejl.org\/~coejlor\/about\/history.php\">Coalition on the Environment and Jewish Life<\/a> (COEJL, from 1994 to 2003). Under his leadership, COEJL grew from a short-term project of the National Religious Partnership for the Environment into a permanent coalition of 29 national Jewish agencies with affiliated institutions across North America. Mark X. Jacobs currently serves as a Senior Mediator and Program Manager at the Meridian Institute, where he designs and facilitates collaborative processes that help diverse parties identify critical issues, build relationships and trust, construct innovative solutions, and implement durable decisions. Mark is currently focused on multistakeholder efforts to address challenges at the intersection of agriculture, environment, and public policy.",
+        "website": "",
+        "author_slug": "mark-x-jacobs",
+        "author_id": 25,
+        "profile_page_link": "https:\/\/opensiddur.org\/profile\/mark-x-jacobs"
     },
     {
         "display_name": "Abby Jacobson",
@@ -2283,7 +2355,7 @@
         "display_name": "Ze'ev Kainan",
         "first_name": "Ze'ev",
         "last_name": "Kainan",
-        "post_count": 5,
+        "post_count": 6,
         "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2017\/04\/ׅZeev-Keinan-96x96.jpg",
         "description": "Ze'ev Kainan is the CEO of Mosad Bialik Publishing House. Ze'ev was the CEO of Keren Malki - an Israeli nonprofit organization that assists families of children with special needs, and the director of education and special projects at Tikvatenu Centers network. Ze'ev worked for years with youth and was a delegate to the Ramah camps (California, Canada, Poconos, and the Ramah Seminar in Israel) as well as other JCC camps. From 1997 to 2000, he served as a central emissary for the USY movement in North America, on behalf of the Jewish Agency. He later served as the director of the youth movement of the Masorti Movement in Israel for seven years and is also the editor of the siddur <em>va'Ani Tefillati - Siddur Yisraeli<\/em> and the <em>Poteach Sha'ar<\/em> Machzor for the High Holidays of the Masorti Movement. Ze'ev was born and raised in the religious kibbutz of Sa'ad in the northern Negev, three kilometers east of Gaza City and now lives in Jerusalem with his wife, Dr. Lisa Kainan and their three children - all graduates of Noam.",
         "website": "http:\/\/www.echannaton.org\/he\/our-staff\/זאב-קינן\/",
@@ -2352,18 +2424,6 @@
         "profile_page_link": "https:\/\/opensiddur.org\/profile\/gabriel-kanter-webber"
     },
     {
-        "display_name": "Richard Kaplan",
-        "first_name": "Richard",
-        "last_name": "Kaplan",
-        "post_count": 1,
-        "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2023\/08\/richard-kaplan-96x96.jpg",
-        "description": "Richard Neil Kaplan (1948-2021) was a musician and synagogue cantor. He served for twenty-two years at the Oakland Conservative synagogue, retiring in 2018. An emeritus member of the Spiritual Advisory Council of Aleph, the Alliance for Jewish Renewal, Kaplan received his cantorial smikhah (ordination) from Rabbi Zalman Schachter-Shalomi. He studied Ḥasidic music extensively over many years with Reb Zalman who joked that he was “downloading” his own tremendous knowledge of Eastern European spiritual music into Kaplan. His bachelor’s degree from UCLA was in ethnomusicology, which he continued to pursue for a masters degree at UC Berkeley. After working as a jazz pianist in Manhattan, Kaplan returned to California and taught music history in numerous colleges.",
-        "website": "",
-        "author_slug": "richard-kaplan",
-        "author_id": 1986,
-        "profile_page_link": "https:\/\/opensiddur.org\/profile\/richard-kaplan"
-    },
-    {
         "display_name": "Mordecai Kaplan",
         "first_name": "Mordecai",
         "last_name": "Kaplan",
@@ -2374,6 +2434,18 @@
         "author_slug": "mordecai-kaplan",
         "author_id": 367,
         "profile_page_link": "https:\/\/opensiddur.org\/profile\/mordecai-kaplan"
+    },
+    {
+        "display_name": "Richard Kaplan",
+        "first_name": "Richard",
+        "last_name": "Kaplan",
+        "post_count": 1,
+        "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2023\/08\/richard-kaplan-96x96.jpg",
+        "description": "Richard Neil Kaplan (1948-2021) was a musician and synagogue cantor. He served for twenty-two years at the Oakland Conservative synagogue, retiring in 2018. An emeritus member of the Spiritual Advisory Council of Aleph, the Alliance for Jewish Renewal, Kaplan received his cantorial smikhah (ordination) from Rabbi Zalman Schachter-Shalomi. He studied Ḥasidic music extensively over many years with Reb Zalman who joked that he was “downloading” his own tremendous knowledge of Eastern European spiritual music into Kaplan. His bachelor’s degree from UCLA was in ethnomusicology, which he continued to pursue for a masters degree at UC Berkeley. After working as a jazz pianist in Manhattan, Kaplan returned to California and taught music history in numerous colleges.",
+        "website": "",
+        "author_slug": "richard-kaplan",
+        "author_id": 1986,
+        "profile_page_link": "https:\/\/opensiddur.org\/profile\/richard-kaplan"
     },
     {
         "display_name": "Chaya Kaplan-Lester",
@@ -2427,7 +2499,7 @@
         "display_name": "Abe Katz (translation)",
         "first_name": "Abe",
         "last_name": "Katz",
-        "post_count": 9,
+        "post_count": 10,
         "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2019\/08\/abe-katz-96x96.jpg",
         "description": "Abe Katz is the director of the <a href=\"http:\/\/www.beureihatefila.com\/\">Burei HaTefila Institute<\/a>. \r\nThe Beurei Hatefila Institute was established in order to encourage the study of the words of the Siddur as a Jewish text in Jewish schools. To assist educators developing courses on Tefila, the Institute publishes a weekly e-mail newsletter in which it traces the sources for the words and structure of the prayers within the Siddur. These and other resources can be downloaded on PDF from the <a href=\"http:\/\/www.beureihatefila.com\/\">Burei HaTefila Institute<\/a> website.\r\n<p \/>\r\nMr. Katz is also available to teach courses on Tefila at your synagogue or Jewish Community Center and as a scholar-in-residence. He is available to meet with school administrators to assist them in establishing a course in Beurei Hatefila at their schools and to train teachers on using Hebrew-English word processing and Judaic libraries on CD-ROM.",
         "website": "http:\/\/www.beureihatefila.com\/",
@@ -2501,7 +2573,7 @@
         "last_name": "Kessler",
         "post_count": 3,
         "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2018\/01\/jack-kessler-96x96.jpg",
-        "description": "Ḥazzan Jack Kessler is the dean of the Cantorial department of the professional training program of Aleph: Alliance for Jewish Renewal, and teaches a number of cantorial students. His current performance projects are directing, composing for, and being the vocal lead of the two touring ensembles Atzilut, a duet format of Arab and Jewish musicians performing together, and Klingon Klezmer, which does ‘Jewish music from other planets. \r\n\r\nḤazzan Kessler was ordained as a Cantor at the Jewish Theological Seminary of America, and went on to have a twenty-year career serving Conservative congregations. During that time he received a Master’s degree in voice from Boston Conservatory and pursued studies in composition in the graduate department of Brandeis University, where he worked with Arthur Berger and Harold Shapero, and Bethany Beardslee at Harvard. A lyric baritone, he has performed opera, oratorio, and premiered new works, in addition to his ongoing career as a singer of Ḥazzanut, the sacred cantorial art. Originally trained as an Ashkenazi Ḥazzan, his performance style and original compositions also embrace Sephardi and Mizrachi styles. Ḥazzan Kessler has lectured and taught master classes in Jewish music at New England Conservatory in Boston, the Academy for Jewish Religion in New York, and presented many concerts in an educational format.",
+        "description": "Ḥazzan Jack Kessler served as the dean of the Cantorial department of the professional training program of Aleph: Alliance for Jewish Renewal, and taught a good number of cantorial students. His performance projects included directing, composing for, and being the vocal lead of the two touring ensembles: Atzilut, a duet format of Arab and Jewish musicians performing together, and Klingon Klezmer, which does \"Jewish music from other planets.\" Ḥazzan Kessler was ordained as a Cantor at the Jewish Theological Seminary of America, and went on to have a twenty-year career serving Conservative congregations. During that time he received a Masters degree in voice from Boston Conservatory and pursued studies in composition in the graduate department of Brandeis University, where he worked with Arthur Berger and Harold Shapero, and Bethany Beardslee at Harvard. A lyric baritone, he performed opera, oratorio, and premiered new works, in addition to his Ḥazzanut. Originally trained as an Ashkenazi Ḥazzan, his performance style and original compositions also embrace Sephardi and Mizrachi styles. Ḥazzan Kessler lectured and taught master classes in Jewish music at New England Conservatory in Boston, the Academy for Jewish Religion in New York, and presented many concerts in an educational format. \r\nḤazzan Kessler was ordained as a Cantor at the Jewish Theological Seminary of America, and went on to have a twenty-year career serving Conservative congregations. During that time he received a Master’s degree in voice from Boston Conservatory and pursued studies in composition in the graduate department of Brandeis University, where he worked with Arthur Berger and Harold Shapero, and Bethany Beardslee at Harvard. A lyric baritone, he has performed opera, oratorio, and premiered new works, in addition to his ongoing career as a singer of Ḥazzanut, the sacred cantorial art. Originally trained as an Ashkenazi Ḥazzan, his performance style and original compositions also embrace Sephardi and Mizrachi styles. Ḥazzan Kessler has lectured and taught master classes in Jewish music at New England Conservatory in Boston, the Academy for Jewish Religion in New York, and presented many concerts in an educational format.",
         "website": "https:\/\/www.hazzanjackkessler.com",
         "author_slug": "yakov-kessler",
         "author_id": 397,
@@ -2919,7 +2991,7 @@
         "display_name": "Yael Levine",
         "first_name": "Yael",
         "last_name": "Levine",
-        "post_count": 5,
+        "post_count": 6,
         "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2014\/11\/Keith-Evans-Green-Tree-Yellow-Field-CC-BY-SA-250x250.jpg",
         "description": "Dr. Yael Levine (Heb: יעל לוין) holds a Ph.D. from the Talmud department of Bar-Ilan University. She has published numerous studies focusing on issues related to women and Judaism. She has also composed many prayers and midrashim.",
         "website": "",
@@ -2964,18 +3036,6 @@
         "profile_page_link": "https:\/\/opensiddur.org\/profile\/isidore-lewinthal"
     },
     {
-        "display_name": "Theodore Lewis",
-        "first_name": "Theodore",
-        "last_name": "Lewis",
-        "post_count": 1,
-        "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2024\/02\/theodore-lewis-96x96.png",
-        "description": "Theodore Lewis (1915-2010), born in Dublin, Ireland, led Congregation Jeshuat Israel (Touro Synagogue) in Newport, Rhode Island for 36 years, beginning in 1949. He studied in the Mir Yeshiva in Poland from from 1935 to 1939. On 30 June 1959, he appeared on the television program, <em>To Tell the Truth<\/em>. He published two works: <em>Sermons at Touro Synagogue<\/em> (1980) and a companion volume, <em>Bar Mitzvah Sermons at Touro Synagogue<\/em> (1989).",
-        "website": "",
-        "author_slug": "theodore-lewis",
-        "author_id": 2051,
-        "profile_page_link": "https:\/\/opensiddur.org\/profile\/theodore-lewis"
-    },
-    {
         "display_name": "Annie Lewis",
         "first_name": "Annie",
         "last_name": "Lewis",
@@ -2988,6 +3048,30 @@
         "profile_page_link": "https:\/\/opensiddur.org\/profile\/annie-lewis"
     },
     {
+        "display_name": "Theodore Lewis",
+        "first_name": "Theodore",
+        "last_name": "Lewis",
+        "post_count": 1,
+        "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2024\/02\/theodore-lewis-96x96.png",
+        "description": "Theodore Lewis (1915-2010), born in Dublin, Ireland, led Congregation Jeshuat Israel (Touro Synagogue) in Newport, Rhode Island for 36 years, beginning in 1949. He studied in the Mir Yeshiva in Poland from from 1935 to 1939. On 30 June 1959, he appeared on the television program, <em>To Tell the Truth<\/em>. He published two works: <em>Sermons at Touro Synagogue<\/em> (1980) and a companion volume, <em>Bar Mitzvah Sermons at Touro Synagogue<\/em> (1989).",
+        "website": "",
+        "author_slug": "theodore-lewis",
+        "author_id": 2051,
+        "profile_page_link": "https:\/\/opensiddur.org\/profile\/theodore-lewis"
+    },
+    {
+        "display_name": "Rachie Lewis",
+        "first_name": "Rachie",
+        "last_name": "Lewis",
+        "post_count": 1,
+        "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2024\/10\/rachie-lewis-96x96.jpg",
+        "description": "Rachie Lewis is the Senior Writer at Keshet: For LGBTQ equality in Jewish life.",
+        "website": "https:\/\/www.keshetonline.org\/rachie-lewis\/",
+        "author_slug": "rachie-lewis",
+        "author_id": 2230,
+        "profile_page_link": "https:\/\/opensiddur.org\/profile\/rachie-lewis"
+    },
+    {
         "display_name": "Liberal Jewish Synagogue of London",
         "first_name": "",
         "last_name": "Liberal Jewish Synagogue of London",
@@ -2998,6 +3082,18 @@
         "author_slug": "qehilat-qadosh-lev-hadash",
         "author_id": 1995,
         "profile_page_link": "https:\/\/opensiddur.org\/profile\/qehilat-qadosh-lev-hadash"
+    },
+    {
+        "display_name": "Morris Lichtenstein",
+        "first_name": "Morris",
+        "last_name": "Lichtenstein",
+        "post_count": 3,
+        "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2023\/05\/Morris-Lichtenstein-96x96.jpg",
+        "description": "Rabbi Morris Lichtenstein (1889–1938) was the founder of the Society of Jewish Science. Born in Lithuania, he later moved to Cincinnati, Ohio where he was ordained at Hebrew Union College in 1916, becoming the first Eastern European student to ever study at the institution. Lichtenstein served as a rabbi in Amsterdam, Troy, and New York City, where he received a masters degree in Psychology from Columbia University in 1919. He briefly served a congregation in Athens, Georgia before moving back to New York to marry Tehilla Hirshenson in 1920. Together they founded the Society of Jewish Science in the early 1920s.",
+        "website": "https:\/\/en.wikipedia.org\/wiki\/Morris_Lichtenstein",
+        "author_slug": "morris-lichtenstein",
+        "author_id": 1952,
+        "profile_page_link": "https:\/\/opensiddur.org\/profile\/morris-lichtenstein"
     },
     {
         "display_name": "Alona Lisitsa",
@@ -3135,7 +3231,7 @@
         "display_name": "Isaac Gantwerk Mayer",
         "first_name": "Isaac Gantwerk",
         "last_name": "Mayer",
-        "post_count": 82,
+        "post_count": 84,
         "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2021\/12\/isaac-gantwerk-mayer-2021-e1674561264977-96x96.jpg",
         "description": "From a family of musicians, Isaac Gantwerk Mayer believes that creative art is one of the most powerful ways to get in touch with the divine. He composes music and poetry in Hebrew and English. (He also <a href=\"\/profile\/isaac-gantwerk-mayer\/\">translates<\/a> and <a href=\"\/profile\/isaac-gantwerk-mayer-3\/\">transcribes<\/a> Hebrew and Aramaic texts, adding <em>niqqud<\/em> and <em>t'amim<\/em> as needed.) Isaac runs a Jewish music transcription service, which will transcribe and set any Jewish music in any language, recorded or written. Contact his service on <a href=\"https:\/\/www.facebook.com\/pg\/isaacgmayerjewishtranscription\/\">Facebook<\/a> or via <a href=\"https:\/\/igmjewishcreativeworks.com\/contact\">his music blog<\/a>.",
         "website": "https:\/\/igmjewishcreativeworks.com",
@@ -3147,7 +3243,7 @@
         "display_name": "Isaac Gantwerk Mayer (transcription &amp; naqdanut)",
         "first_name": "Isaac Gantwerk",
         "last_name": "Mayer (transcription &amp; naqdanut)",
-        "post_count": 116,
+        "post_count": 121,
         "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2021\/12\/isaac-gantwerk-mayer-2021-e1674561264977-96x96.jpg",
         "description": "From a family of musicians, Isaac Gantwerk Mayer believes that creative art is one of the most powerful ways to get in touch with the divine. He composes music and poetry in Hebrew and English. (He also <a href=\"\/profile\/isaac-gantwerk-mayer\/\">translates<\/a> and <a href=\"\/profile\/isaac-gantwerk-mayer-2\/\">authors<\/a> his own original works.) Isaac runs a Jewish music transcription service, which will transcribe and set any Jewish music in any language, recorded or written. Contact his service on <a href=\"https:\/\/www.facebook.com\/pg\/isaacgmayerjewishtranscription\/\">Facebook<\/a> or via <a href=\"https:\/\/igmjewishcreativeworks.com\/contact\">his music blog<\/a>.",
         "website": "https:\/\/igmjewishcreativeworks.com",
@@ -3159,25 +3255,13 @@
         "display_name": "Isaac Gantwerk Mayer (translation)",
         "first_name": "Isaac Gantwerk",
         "last_name": "Mayer (translation)",
-        "post_count": 235,
+        "post_count": 243,
         "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2021\/12\/isaac-gantwerk-mayer-2021-e1674561264977-96x96.jpg",
         "description": "From a family of musicians, Isaac Gantwerk Mayer believes that creative art is one of the most powerful ways to get in touch with the divine. He composes music and poetry in Hebrew and English.  (He also <a href=\"\/profile\/isaac-gantwerk-mayer-2\/\">authors<\/a> his own original works and <a href=\"\/profile\/isaac-gantwerk-mayer-3\/\">transcribes<\/a> Hebrew and Aramaic text, adding niqqud and t'amim as needed.) Isaac runs a Jewish music transcription service, which will transcribe and set any Jewish music in any language, recorded or written. Contact his service on <a href=\"https:\/\/www.facebook.com\/pg\/isaacgmayerjewishtranscription\/\">Facebook<\/a> or via <a href=\"https:\/\/igmjewishcreativeworks.com\/contact\">his music blog<\/a>.",
         "website": "https:\/\/igmjewishcreativeworks.com",
         "author_slug": "isaac-gantwerk-mayer",
         "author_id": 342,
         "profile_page_link": "https:\/\/opensiddur.org\/profile\/isaac-gantwerk-mayer"
-    },
-    {
-        "display_name": "Noa Mazor",
-        "first_name": "Noa",
-        "last_name": "Mazor",
-        "post_count": 5,
-        "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2014\/07\/noa-mazor-WoW-96x96.jpg",
-        "description": "Rabbi Noa Mazor (HUC Jer '16)\r\nEducator, inter-religious and peace activist.",
-        "website": "",
-        "author_slug": "noa-mazor",
-        "author_id": 167,
-        "profile_page_link": "https:\/\/opensiddur.org\/profile\/noa-mazor"
     },
     {
         "display_name": "Oded Mazor",
@@ -3190,6 +3274,18 @@
         "author_slug": "oded-mazor",
         "author_id": 440,
         "profile_page_link": "https:\/\/opensiddur.org\/profile\/oded-mazor"
+    },
+    {
+        "display_name": "Noa Mazor",
+        "first_name": "Noa",
+        "last_name": "Mazor",
+        "post_count": 5,
+        "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2014\/07\/noa-mazor-WoW-96x96.jpg",
+        "description": "Rabbi Noa Mazor (HUC Jer '16)\r\nEducator, inter-religious and peace activist.",
+        "website": "",
+        "author_slug": "noa-mazor",
+        "author_id": 167,
+        "profile_page_link": "https:\/\/opensiddur.org\/profile\/noa-mazor"
     },
     {
         "display_name": "Orna Meir-Stacey (translation)",
@@ -3276,18 +3372,6 @@
         "profile_page_link": "https:\/\/opensiddur.org\/profile\/joseph-meszler"
     },
     {
-        "display_name": "Sarah M.",
-        "first_name": "Sarah R.",
-        "last_name": "Meyers",
-        "post_count": 1,
-        "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2014\/11\/Keith-Evans-Green-Tree-Yellow-Field-CC-BY-SA-250x250.jpg",
-        "description": "Sarah M. is a third year medical student in Israel studying how to be a doctor, a friend, and an engaged citizen.",
-        "website": "http:\/\/baperipheriya.wordpress.com\/",
-        "author_slug": "sarah-m",
-        "author_id": 292,
-        "profile_page_link": "https:\/\/opensiddur.org\/profile\/sarah-m"
-    },
-    {
         "display_name": "Ron Lee Meyers",
         "first_name": "Ron Lee",
         "last_name": "Meyers",
@@ -3298,6 +3382,18 @@
         "author_slug": "ron-lee-meyers",
         "author_id": 1885,
         "profile_page_link": "https:\/\/opensiddur.org\/profile\/ron-lee-meyers"
+    },
+    {
+        "display_name": "Sarah M.",
+        "first_name": "Sarah R.",
+        "last_name": "Meyers",
+        "post_count": 1,
+        "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2014\/11\/Keith-Evans-Green-Tree-Yellow-Field-CC-BY-SA-250x250.jpg",
+        "description": "Sarah M. is a third year medical student in Israel studying how to be a doctor, a friend, and an engaged citizen.",
+        "website": "http:\/\/baperipheriya.wordpress.com\/",
+        "author_slug": "sarah-m",
+        "author_id": 292,
+        "profile_page_link": "https:\/\/opensiddur.org\/profile\/sarah-m"
     },
     {
         "display_name": "Netanel Miles-Yépez",
@@ -3370,6 +3466,18 @@
         "author_slug": "nina-jane-mizrahi",
         "author_id": 260,
         "profile_page_link": "https:\/\/opensiddur.org\/profile\/nina-jane-mizrahi"
+    },
+    {
+        "display_name": "Lilian Helen Montagu",
+        "first_name": "Lilian Helen",
+        "last_name": "Montagu",
+        "post_count": 44,
+        "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2022\/08\/lily-montagu-portrait-cropped-96x96.jpg",
+        "description": "The Hon. Lilian Helen \"Lily\" Montagu, CBE (22 December 1873 – 22 January 1963) was the first woman to play a major role in Progressive Judaism. Until the age of 15, she was educated at Doreck College, and privately educated thereafter. In 1893 she founded with Emily Marion Harris the West Central Jewish Girls Club (which subsequently merged into the Jewish Girls' Brigade). She was active in social improvement, particularly in respect to unemployment, sweat shops and bad housing. In 1901 and 1902, Montagu laid the groundwork for the establishment of the Jewish Religious Union in London. In February 1902 she arranged the first meeting of the Jewish Religious Union for the Advancement of Liberal Judaism at her sister Henrietta Franklin's house. The Union set up the first synagogue in Liberal Judaism in the UK and helped found the World Union for Progressive Judaism. Montagu was a founding member with her sister of the Jewish League for Woman Suffrage. She sat on the executive committee and led the meetings in prayer. Following the retirement of Leo Baeck, Montagu served for a brief stint (1955–1959) in her 80s as president of the World Union for Progressive Judaism, before handing the reins over to Solomon Freehof.",
+        "website": "https:\/\/en.wikipedia.org\/wiki\/Lily_Montagu",
+        "author_slug": "lilian-helen-montagu",
+        "author_id": 1863,
+        "profile_page_link": "https:\/\/opensiddur.org\/profile\/lilian-helen-montagu"
     },
     {
         "display_name": "Simon Montagu (translation)",
@@ -4308,6 +4416,18 @@
         "profile_page_link": "https:\/\/opensiddur.org\/profile\/jason-schapera"
     },
     {
+        "display_name": "Friedrich Schiller",
+        "first_name": "Friedrich",
+        "last_name": "Schiller",
+        "post_count": 1,
+        "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2016\/02\/Friedrich-Schiller-by-Gerhard_von_Kügelgen-crop-96x96.jpg",
+        "description": "Johann Christoph Friedrich von Schiller (10 November 1759 – 9 May 1805) was a German poet, philosopher, physician, historian, and playwright. Schiller grew up in a very religious family and spent much of his youth studying the Bible.  In 1789, he was appointed professor of History and Philosophy in Jena.  During the last seventeen years of his life (1788–1805), Schiller struck up a productive, if complicated, friendship with Johann Wolfgang von Goethe. They frequently discussed issues concerning aesthetics, and Schiller encouraged Goethe to finish works he left as sketches. This relationship and these discussions led to a period now referred to as Weimar Classicism.",
+        "website": "https:\/\/en.wikipedia.org\/wiki\/Friedrich_Schiller",
+        "author_slug": "friedrich-schiller",
+        "author_id": 281,
+        "profile_page_link": "https:\/\/opensiddur.org\/profile\/friedrich-schiller"
+    },
+    {
         "display_name": "Ḥanan Schlesinger",
         "first_name": "Ḥanan",
         "last_name": "Schlesinger",
@@ -4582,6 +4702,18 @@
         "author_slug": "abba-hillel-silver",
         "author_id": 229,
         "profile_page_link": "https:\/\/opensiddur.org\/profile\/abba-hillel-silver"
+    },
+    {
+        "display_name": "Joseph Silverman",
+        "first_name": "Joseph",
+        "last_name": "Silverman",
+        "post_count": 2,
+        "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2024\/07\/joseph-silverman-96x96.png",
+        "description": "Rabbi Joseph Silverman (1860 – 1930), born in Cincinnati, Ohio, was a prominent Reform movement rabbi and author in the United States. He attended the University of Cincinnati and received a Doctor of Divinity from the Hebrew Union College in 1887, from which he received his rabbinic ordination three years earlier. He was Rabbi of Temple Emanu-El, Dallas, Texas, September 1884 to June 1885; rabbi of Congregation B'nai Israel, Galveston, Texas July, 1885 to February 20, 1888. While in Texas he was a circuit preacher to the Jewish communities in the vicinity of Dallas and Galveston, and aided in organizing many Sabbath schools and congregations. At the beginning of 1888, Silverman received an offer from Temple Emanu-El in New York City to serve as a rabbi of the leading Reform congregation in America. Silverman started at Temple Emanu-El on March 1, 1888, succeeding rabbi Gustav Gottheil. He was the first American born rabbi to serve in New York City. During the years of his career in New York, 1888-1922 he was also president (1900–1903) of the Central Conference of American Rabbis, the Eastern Council 1918- and was founder and president of the Emanu-El Brotherhood. He helped organize the Religious Congress of the World's Fair in Chicago, 1893, where his address on this occasion was titled, \"The Popular Errors About the Jews.\" Silverman published many articles and books, including <em>A Catechism on Judaism<\/em> (1886) and <em>The Renaissance of Judaism<\/em> (1918). He was consulting editor of the Jewish Encyclopedia (Funk &amp; Wagnalls). An article from The New York Times on April 21, 1912, quoted Silverman at a memorial service for victims of the RMS Titanic disaster as saying \"Not God was responsible for this great disaster but the imperfection of human knowledge and judgment.\"",
+        "website": "https:\/\/en.wikipedia.org\/wiki\/Joseph_Silverman",
+        "author_slug": "joseph-silverman",
+        "author_id": 2201,
+        "profile_page_link": "https:\/\/opensiddur.org\/profile\/joseph-silverman"
     },
     {
         "display_name": "Morris Silverman",
@@ -5103,7 +5235,7 @@
         "display_name": "Unknown Author(s)",
         "first_name": "",
         "last_name": "Unknown Author(s)",
-        "post_count": 342,
+        "post_count": 350,
         "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2014\/11\/Keith-Evans-Green-Tree-Yellow-Field-CC-BY-SA-250x250.jpg",
         "description": "Sometimes the best we can do in attributing a historical work is to indicate the period and place it was written, the first prayer book it may have been printed in, or the archival collection in which the manuscript was found. We invite the public to help to attribute all works to their original composers. If you know something not mentioned in the commentary offered, please leave a comment or <a href=\"\/contact\/\">contact us<\/a>.",
         "website": "",
@@ -5124,16 +5256,16 @@
         "profile_page_link": "https:\/\/opensiddur.org\/profile\/unknown-translator"
     },
     {
-        "display_name": "Aharon N. Varady (digital imaging and document preparation)",
-        "first_name": "Aharon N.",
-        "last_name": "Varady",
-        "post_count": 0,
-        "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2019\/10\/aharon-n-varady-2012-96x96.jpg",
-        "description": "Aharon Varady, founding director of the Open Siddur Project, is a copyright researcher and amateur book scanner. He prepares digital images and new digital editions of prayer books and related works in the Public Domain in order to make their constituent parts (prayers, translations, annotations, etc.) publicly accessible for collaborative transcription by project volunteers. (In some cases, he finds existing digital editions prepared by others that require correction and  reformatting.) If you appreciate his efforts, <em>please<\/em> send him a kind note or contribute to his <a href=\"https:\/\/patreon.com\/aharonium\">patreon account<\/a>.",
-        "website": "",
-        "author_slug": "aharon-varady-imaging",
-        "author_id": 772,
-        "profile_page_link": "https:\/\/opensiddur.org\/profile\/aharon-varady-imaging"
+        "display_name": "Ben Tsiyon Meir Ḥai Uziel",
+        "first_name": "Ben Tsiyon Meir Ḥai",
+        "last_name": "Uziel",
+        "post_count": 2,
+        "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2018\/03\/Ben-Zion-Meir-Hai-Uziel-96x96.png",
+        "description": "Ben-Tsiyon Meir Ḥai Uziel (Hebrew: בן ציון מאיר חי עוזיאל‬, born 23 May 1880, died 4 September 1953) was the Sephardi chief rabbi of Mandatory Palestine from 1939 to 1948, and of Israel from 1948 until his death in 1953. In 1911, Uziel was appointed Hakham Bashi of Jaffa and the district. There he worked closely Abraham Isaac Kook, who was the spiritual leader of the Ashkenazi community. Immediately upon his arrival in Jaffa he began to work vigorously to raise the status of the Sepharadi, Temani, and other non-Ashkenazi communities there. In spirit and ideas he was close to the Kook, and their affinity helped to bring about more harmonious relations than previously existed between the two communities. Uziel was an advocate for strong relationships between the indigenous Arab population of the new State of Israel and Jews. He spoke fluent Arabic, and believed in peace and harmony between the two parties.",
+        "website": "https:\/\/en.wikipedia.org\/wiki\/Ben-Zion_Meir_Hai_Uziel",
+        "author_slug": "ben-tsiyon-meir-hai-uziel",
+        "author_id": 415,
+        "profile_page_link": "https:\/\/opensiddur.org\/profile\/ben-tsiyon-meir-hai-uziel"
     },
     {
         "display_name": "Aharon N. Varady",
@@ -5151,7 +5283,7 @@
         "display_name": "Aharon N. Varady (editing\/transcription)",
         "first_name": "Aharon",
         "last_name": "Varady",
-        "post_count": 1473,
+        "post_count": 1476,
         "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2013\/12\/Aharon-Varady-2002.jpg",
         "description": "Aharon Varady (M.A.J.Ed.\/JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"\/contact\/\">let him know<\/a>. <em>Shgiyot mi yavin; Ministarot naqeni<\/em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי<\/span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https:\/\/www.patreon.com\/aharonium\">Patreon account<\/a>. (Varady also <a href=\"\/profile\/aharon-varady-translation\/\">translates prayers<\/a> and <a href=\"\/profile\/aharon-varady\/\">contributes his own original work<\/a> besides serving as the primary <em>shammes<\/em> of the Open Siddur Project and its website, opensiddur.org.)",
         "website": "https:\/\/aharon.varady.net",
@@ -5160,10 +5292,22 @@
         "profile_page_link": "https:\/\/opensiddur.org\/profile\/aharon-varady-transcription"
     },
     {
+        "display_name": "Aharon N. Varady (digital imaging and document preparation)",
+        "first_name": "Aharon N.",
+        "last_name": "Varady",
+        "post_count": 0,
+        "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2019\/10\/aharon-n-varady-2012-96x96.jpg",
+        "description": "Aharon Varady, founding director of the Open Siddur Project, is a copyright researcher and amateur book scanner. He prepares digital images and new digital editions of prayer books and related works in the Public Domain in order to make their constituent parts (prayers, translations, annotations, etc.) publicly accessible for collaborative transcription by project volunteers. (In some cases, he finds existing digital editions prepared by others that require correction and  reformatting.) If you appreciate his efforts, <em>please<\/em> send him a kind note or contribute to his <a href=\"https:\/\/patreon.com\/aharonium\">patreon account<\/a>.",
+        "website": "",
+        "author_slug": "aharon-varady-imaging",
+        "author_id": 772,
+        "profile_page_link": "https:\/\/opensiddur.org\/profile\/aharon-varady-imaging"
+    },
+    {
         "display_name": "Aharon N. Varady (translation)",
         "first_name": "Aharon N.",
         "last_name": "Varady",
-        "post_count": 215,
+        "post_count": 216,
         "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2013\/12\/Aharon-Varady-2002.jpg",
         "description": "Aharon Varady (M.A.J.Ed.\/JTSA Davidson) is a volunteer translator for the Open Siddur Project. If you find any mistakes in his translations, please <a href=\"\/contact\/\">let him know<\/a>. <em>Shgiyot mi yavin; Ministarot Naqeni<\/em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי<\/span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https:\/\/www.patreon.com\/aharonium\">Patreon account<\/a>. (Varady also <a href=\"\/profile\/aharon-varady-transcription\/\">transcribes prayers<\/a> and <a href=\"\/profile\/aharon-varady\/\">contributes his own original work<\/a> besides serving as the primary <em>shammes<\/em> for the Open Siddur Project and its website, opensiddur.org.)",
         "website": "https:\/\/aharon.varady.net",
@@ -5256,16 +5400,16 @@
         "profile_page_link": "https:\/\/opensiddur.org\/profile\/levi-weiman-kelman"
     },
     {
-        "display_name": "Joseph P. Weinberg",
-        "first_name": "Joseph P.",
+        "display_name": "Ezra Weinberg",
+        "first_name": "Ezra",
         "last_name": "Weinberg",
         "post_count": 1,
-        "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2024\/02\/joseph-p-weinberg-96x96.jpg",
-        "description": "Rabbi Joseph P. Weinberg (1937-1999) was the fifth senior rabbi at Washington Hebrew Congregation (Washington, DC). Born in Chicago, Weinberg graduated from Northwestern University and immediately entered Hebrew Union College in Cincinnati. Following his ordination in 1963, he served as assistant rabbi at a San Francisco congregation before coming to Washington. He marched with Dr. Martin Luther King Jr. in Selma and was arrested twice, and in Washington, played a leading role in efforts to improve racial relations and fight poverty. He helped start Ya’chad, a Jewish organization promoting affordable city housing and Carrie Simon House, a transitional home for unmarried mothers in Northwest Washington. He was also a fervent supporter of Israel and campaigned for years to help Soviet Jews emigrate.",
-        "website": "",
-        "author_slug": "joseph-weinberg",
-        "author_id": 2063,
-        "profile_page_link": "https:\/\/opensiddur.org\/profile\/joseph-weinberg"
+        "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2019\/10\/ezra-weinberg-96x96.jpg",
+        "description": "Ezra Weinberg is Jewish life and enrichment manager at the YM &amp; YWHA of Washington Heights &amp; Inwood, New York. Rabbi Ezra received his BA from Hampshire College in 1999 and his MA in Conflict Transformation from the School for International Training in 2003. He also spent seven years in Israel, adding a strong Israeli flavor to his brand of Jewish education. Ezra is a trained facilitator in having difficult conversations on the topic of Israel. Having received rabbinic ordination from the Reconstructionist Rabbinical College in 2009, Ezra spent four years as a congregational Rabbi, including two years as the Marshall T. Meyer Rabbinic Fellow at Congregation B'nai Jeshurun in New York City. Since then he has pursued his passion for working with youth including two years as the Assistant Director at Eden Village Camp.",
+        "website": "http:\/\/www.ywashhts.org\/staff\/view\/26",
+        "author_slug": "ezra-weinberg",
+        "author_id": 758,
+        "profile_page_link": "https:\/\/opensiddur.org\/profile\/ezra-weinberg"
     },
     {
         "display_name": "Josh Weinberg",
@@ -5280,16 +5424,16 @@
         "profile_page_link": "https:\/\/opensiddur.org\/profile\/josh-weinberg"
     },
     {
-        "display_name": "Ezra Weinberg",
-        "first_name": "Ezra",
+        "display_name": "Joseph P. Weinberg",
+        "first_name": "Joseph P.",
         "last_name": "Weinberg",
         "post_count": 1,
-        "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2019\/10\/ezra-weinberg-96x96.jpg",
-        "description": "Ezra Weinberg is Jewish life and enrichment manager at the YM &amp; YWHA of Washington Heights &amp; Inwood, New York. Rabbi Ezra received his BA from Hampshire College in 1999 and his MA in Conflict Transformation from the School for International Training in 2003. He also spent seven years in Israel, adding a strong Israeli flavor to his brand of Jewish education. Ezra is a trained facilitator in having difficult conversations on the topic of Israel. Having received rabbinic ordination from the Reconstructionist Rabbinical College in 2009, Ezra spent four years as a congregational Rabbi, including two years as the Marshall T. Meyer Rabbinic Fellow at Congregation B'nai Jeshurun in New York City. Since then he has pursued his passion for working with youth including two years as the Assistant Director at Eden Village Camp.",
-        "website": "http:\/\/www.ywashhts.org\/staff\/view\/26",
-        "author_slug": "ezra-weinberg",
-        "author_id": 758,
-        "profile_page_link": "https:\/\/opensiddur.org\/profile\/ezra-weinberg"
+        "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2024\/02\/joseph-p-weinberg-96x96.jpg",
+        "description": "Rabbi Joseph P. Weinberg (1937-1999) was the fifth senior rabbi at Washington Hebrew Congregation (Washington, DC). Born in Chicago, Weinberg graduated from Northwestern University and immediately entered Hebrew Union College in Cincinnati. Following his ordination in 1963, he served as assistant rabbi at a San Francisco congregation before coming to Washington. He marched with Dr. Martin Luther King Jr. in Selma and was arrested twice, and in Washington, played a leading role in efforts to improve racial relations and fight poverty. He helped start Ya’chad, a Jewish organization promoting affordable city housing and Carrie Simon House, a transitional home for unmarried mothers in Northwest Washington. He was also a fervent supporter of Israel and campaigned for years to help Soviet Jews emigrate.",
+        "website": "",
+        "author_slug": "joseph-weinberg",
+        "author_id": 2063,
+        "profile_page_link": "https:\/\/opensiddur.org\/profile\/joseph-weinberg"
     },
     {
         "display_name": "Bernard Weinberger",
@@ -5340,18 +5484,6 @@
         "profile_page_link": "https:\/\/opensiddur.org\/profile\/avi-weiss"
     },
     {
-        "display_name": "Lauren Weiss",
-        "first_name": "Lauren",
-        "last_name": "Weiss",
-        "post_count": 1,
-        "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2018\/09\/lauren-weiss-96x96.jpg",
-        "description": "Lauren Weiss is a lobbyist for an association of family planning health centers.",
-        "website": "",
-        "author_slug": "lauren-weiss",
-        "author_id": 496,
-        "profile_page_link": "https:\/\/opensiddur.org\/profile\/lauren-weiss"
-    },
-    {
         "display_name": "Raysh Weiss",
         "first_name": "Raysh",
         "last_name": "Weiss",
@@ -5362,6 +5494,18 @@
         "author_slug": "raysh-weiss",
         "author_id": 164,
         "profile_page_link": "https:\/\/opensiddur.org\/profile\/raysh-weiss"
+    },
+    {
+        "display_name": "Lauren Weiss",
+        "first_name": "Lauren",
+        "last_name": "Weiss",
+        "post_count": 1,
+        "avatar_url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2018\/09\/lauren-weiss-96x96.jpg",
+        "description": "Lauren Weiss is a lobbyist for an association of family planning health centers.",
+        "website": "",
+        "author_slug": "lauren-weiss",
+        "author_id": 496,
+        "profile_page_link": "https:\/\/opensiddur.org\/profile\/lauren-weiss"
     },
     {
         "display_name": "Robert S. Widom",
