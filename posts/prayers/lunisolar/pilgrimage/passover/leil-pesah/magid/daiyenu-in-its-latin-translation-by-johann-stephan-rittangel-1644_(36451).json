@@ -1,14 +1,7 @@
 {
     "title": "דַּיֵּנוּ | Daiyenu, in its Latin translation by Johann Stephan Rittangel (1644)",
-    "author": "Isaac Gantwerk Mayer (translation)",
+    "author": "Unknown Author(s)",
     "coauthors": [
-        {
-            "name": "Isaac Gantwerk Mayer (translation)",
-            "bio": "From a family of musicians, Isaac Gantwerk Mayer believes that creative art is one of the most powerful ways to get in touch with the divine. He composes music and poetry in Hebrew and English.  (He also <a href=\"/profile/isaac-gantwerk-mayer-2/\">authors</a> his own original works and <a href=\"/profile/isaac-gantwerk-mayer-3/\">transcribes</a> Hebrew and Aramaic text, adding niqqud and t'amim as needed.) Isaac runs a Jewish music transcription service, which will transcribe and set any Jewish music in any language, recorded or written. Contact his service on <a href=\"https://www.facebook.com/pg/isaacgmayerjewishtranscription/\">Facebook</a> or via <a href=\"https://igmjewishcreativeworks.com/contact\">his music blog</a>.",
-            "website": "https://igmjewishcreativeworks.com",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2021/12/isaac-gantwerk-mayer-2021-e1674561264977-96x96.jpg",
-            "profile_link": "https://opensiddur.org/profile/isaac-gantwerk-mayer"
-        },
         {
             "name": "Johann Stephan Rittangel (Latin translation)",
             "bio": "Johann Stephan Rittangel (Latin: Rittangelius) (b.1606 Forscheim near Bamberg – d. 1652 Königsberg ) was a Christian Hebraist. Born Jewish, he later converted to Catholicism, and later to Calvinism and Lutheranism. In 1640, Rittangel was  appointed professor of Oriental languages at the University of Königsberg (Prussia). In 1641, Rittangel visited a community of Karaite Jews in Trakai, before traveling to London and then to the Dutch Republic where, in Amsterdam, he taught Hebrew and possibly identified, for a time, as a Jew. In July 1642 he left the Low Countries to go to Königsberg, where he spent the rest of his life until his death in 1652. He obtained a Hebrew manuscript of the Sefer Yezirah through the Mennonite merchant Gerebrand Anslo, for a translation into Latin in 1642 (<em> Liber Jezirah qui Abrahamo Patriarchae adscribitur</em>). In 1644, he published his Latin translation of the Passover Haggadah. He made one of the earliest translations of Jewish prayers, under the title <em>Hochfeyerliche Sollennitaeten, Gebethe und Collecten Anstatt der Opfer, Nebst Andern Ceremonien so von der Jüdischen Kirchen am Ersten Neuen-Jahrs-Tag Gebetet und Abgehandelt Werden Müssen</em>, Königsberg, 1652. His posthumous work <em>Bilibra Veritatis</em> was written to substantiate the claim that the Targums prove the doctrine of the Trinity. This is also the subject of his <em>Veritas Religionis Christianæ</em> (Franeker, 1699).",
@@ -24,11 +17,18 @@
             "profile_link": "https://opensiddur.org/profile/unknown"
         },
         {
-            "name": "Aharon N. Varady (editing/transcription)",
+            "name": "Aharon N. Varady (transcription)",
             "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
             "website": "https://aharon.varady.net",
             "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
             "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
+        },
+        {
+            "name": "Isaac Gantwerk Mayer (translation)",
+            "bio": "From a family of musicians, Isaac Gantwerk Mayer believes that creative art is one of the most powerful ways to get in touch with the divine. He composes music and poetry in Hebrew and English.  (He also <a href=\"/index.php?user_ID=2240\">authors</a> his own original works and <a href=\"/index.php?user_ID=820\">transcribes</a> Hebrew and Aramaic text, adding niqqud and t'amim as needed.) Isaac runs a Jewish music transcription service, which will transcribe and set any Jewish music in any language, recorded or written. Contact his service on <a href=\"https://www.facebook.com/pg/isaacgmayerjewishtranscription/\">Facebook</a> or via <a href=\"https://igmjewishcreativeworks.com/contact\">his music blog</a>.",
+            "website": "https://igmjewishcreativeworks.com",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2021/12/isaac-gantwerk-mayer-2021-e1674561264977-96x96.jpg",
+            "profile_link": "https://opensiddur.org/profile/isaac-gantwerk-mayer-translation"
         }
     ],
     "date": "2021-03-21",

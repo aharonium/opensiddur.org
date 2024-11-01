@@ -3,13 +3,6 @@
     "author": "Shoshana Michael Zucker (translation)",
     "coauthors": [
         {
-            "name": "Shoshana Michael Zucker (translation)",
-            "bio": "Shoshana Michael Zucker was first fascinated by the boundaries and history of Jewish liturgy as a teenager in NFTY in the early 1970s, the waning days of the Union Prayer Book. Since then, she has moved to Israel, raised a family and launched them into adulthood, while praying from varied siddurim with countless notes in the margin and extra notes stuck between the pages. A translator and editor by profession, she would rather study and teach Torah.",
-            "website": "http://kevakavanna.blogspot.com",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2021/02/shoshana-michael-zucker-96x96.jpg",
-            "profile_link": "https://opensiddur.org/profile/shoshana-zucker"
-        },
-        {
             "name": "Nurit Novis",
             "bio": "Nurit Novis-Deutsch is a senior lecturer at the department of Learning, Curriculum and Instruction at the University of Haifa. She is a psychologist of religion, values, morality and identity, and her research focuses on interactions between the personal and cultural domains. Her methods combine qualitative, quantitative and theoretical scholarship. Some of her topics of research and publication include the development of both/and reasoning and its relation to religiosity, domain-related pluralistic thinking, ultra-Orthodox Jews in higher education, contemporary religious subjectivities of young adults globally (the YARG project), God concepts among children and adults, Holocaust memory and education in relation to national social role heritage, and more.",
             "website": "",
@@ -17,11 +10,18 @@
             "profile_link": "https://opensiddur.org/profile/nurit-novis"
         },
         {
-            "name": "Aharon N. Varady (editing/transcription)",
+            "name": "Aharon N. Varady (transcription)",
             "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
             "website": "https://aharon.varady.net",
             "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
             "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
+        },
+        {
+            "name": "Shoshana Michael Zucker (translation)",
+            "bio": "Shoshana Michael Zucker was first fascinated by the boundaries and history of Jewish liturgy as a teenager in NFTY in the early 1970s, the waning days of the Union Prayer Book. Since then, she has moved to Israel, raised a family and launched them into adulthood, while praying from varied siddurim with countless notes in the margin and extra notes stuck between the pages. A translator and editor by profession, she would rather study and teach Torah.",
+            "website": "http://kevakavanna.blogspot.com",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2021/02/shoshana-michael-zucker-96x96.jpg",
+            "profile_link": "https://opensiddur.org/profile/shoshana-michael-zucker-translation"
         }
     ],
     "date": "2020-02-03",

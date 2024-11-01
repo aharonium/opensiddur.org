@@ -1,14 +1,7 @@
 {
     "title": "בְּרִיךְ שְׁמֵהּ דְּמָרֵא עָלְמָא | B'rikh Shmeih d'Marei Alma (Bendito sea Tu nombre, Senyor del Mundo), Ladino translation from the siddur El Nuevo Avodat haShanah (1904)",
-    "author": "Isaac Gantwerk Mayer (translation)",
+    "author": "Unknown Author(s)",
     "coauthors": [
-        {
-            "name": "Isaac Gantwerk Mayer (translation)",
-            "bio": "From a family of musicians, Isaac Gantwerk Mayer believes that creative art is one of the most powerful ways to get in touch with the divine. He composes music and poetry in Hebrew and English.  (He also <a href=\"/profile/isaac-gantwerk-mayer-2/\">authors</a> his own original works and <a href=\"/profile/isaac-gantwerk-mayer-3/\">transcribes</a> Hebrew and Aramaic text, adding niqqud and t'amim as needed.) Isaac runs a Jewish music transcription service, which will transcribe and set any Jewish music in any language, recorded or written. Contact his service on <a href=\"https://www.facebook.com/pg/isaacgmayerjewishtranscription/\">Facebook</a> or via <a href=\"https://igmjewishcreativeworks.com/contact\">his music blog</a>.",
-            "website": "https://igmjewishcreativeworks.com",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2021/12/isaac-gantwerk-mayer-2021-e1674561264977-96x96.jpg",
-            "profile_link": "https://opensiddur.org/profile/isaac-gantwerk-mayer"
-        },
         {
             "name": "Yaaqov Mosheh Ḥai Altarats (translation)",
             "bio": "Yaaqov Mosheh Ḥai Altarats (f. 19th century) was born in Sarajevo, Bosnia. He traveled to Jerusalem at age 13. In Jerusalem he learned ritual slaughter (sheḥitah) and remained in Palestine for an indeterminate length of time. He returned home by way of Beirut (where he worked as shoḥet for a few months), Rhodes, Izmir and Salonika. Unable to support himself in Sarajevo he eventually settled in Belgrade, the capital of independent Serbia, where he worked as a teacher and where he published his book <em>Zikhron Yerushalayim</em> (1887). Another work by Altarats, significantly more ambitious in scope, <em>El Trezoro de Yisrael</em>, was a history of the Jewish people published in four volumes in Belgrade in the 1890s. We know little about Yaaqov Mosheh Ḥai Altarats save what he wrote of himself in his work, <em>Zikhron Yerushalayim</em>. (This short bio was derived from the work of Matthias B. Lehmann in his article, \"Jewish Nationalism in Ladino: Jacob Moshe Hay Altarats' Zikhron Yerushalayim,\" Jewish Studies Quarterly, Volume 16 (2009).)",
@@ -22,6 +15,13 @@
             "website": "",
             "avatar": "https://opensiddur.org/wp-content/uploads/2014/11/Keith-Evans-Green-Tree-Yellow-Field-CC-BY-SA-250x250.jpg",
             "profile_link": "https://opensiddur.org/profile/unknown"
+        },
+        {
+            "name": "Isaac Gantwerk Mayer (translation)",
+            "bio": "From a family of musicians, Isaac Gantwerk Mayer believes that creative art is one of the most powerful ways to get in touch with the divine. He composes music and poetry in Hebrew and English.  (He also <a href=\"/index.php?user_ID=2240\">authors</a> his own original works and <a href=\"/index.php?user_ID=820\">transcribes</a> Hebrew and Aramaic text, adding niqqud and t'amim as needed.) Isaac runs a Jewish music transcription service, which will transcribe and set any Jewish music in any language, recorded or written. Contact his service on <a href=\"https://www.facebook.com/pg/isaacgmayerjewishtranscription/\">Facebook</a> or via <a href=\"https://igmjewishcreativeworks.com/contact\">his music blog</a>.",
+            "website": "https://igmjewishcreativeworks.com",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2021/12/isaac-gantwerk-mayer-2021-e1674561264977-96x96.jpg",
+            "profile_link": "https://opensiddur.org/profile/isaac-gantwerk-mayer-translation"
         }
     ],
     "date": "2021-03-11",

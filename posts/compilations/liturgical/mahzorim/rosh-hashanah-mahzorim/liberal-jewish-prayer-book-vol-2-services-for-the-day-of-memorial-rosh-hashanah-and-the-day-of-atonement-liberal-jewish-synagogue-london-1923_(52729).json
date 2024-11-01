@@ -1,6 +1,6 @@
 {
     "title": "&#x1f4d6; Liberal Jewish Prayer Book vol. Ⅱ: Services for the Day of Memorial (Rosh haShanah) and the Day of Atonement (Liberal Jewish Synagogue, London 1923)",
-    "author": "Aharon N. Varady (digital imaging and document preparation)",
+    "author": "Liberal Jewish Synagogue of London",
     "coauthors": [
         {
             "name": "Israel Mattuck",
@@ -15,6 +15,13 @@
             "website": "https://en.wikipedia.org/wiki/Liberal_Jewish_Synagogue",
             "avatar": "https://opensiddur.org/wp-content/uploads/2023/09/cropped-1280px-Liberal_Jewish_Synagogue_St_Johns_Wood_Road_2018-96x96.jpg",
             "profile_link": "https://opensiddur.org/profile/qehilat-qadosh-lev-hadash"
+        },
+        {
+            "name": "Aharon N. Varady (digital imaging and document preparation)",
+            "bio": "Aharon Varady, founding director of the Open Siddur Project, is a copyright researcher and amateur book scanner. He prepares digital images and new digital editions of prayer books and related works in the Public Domain in order to make their constituent parts (prayers, translations, annotations, etc.) publicly accessible for collaborative transcription by project volunteers. (In some cases, he finds existing digital editions prepared by others that require correction and  reformatting.) If you appreciate his efforts, <em>please</em> send him a kind note or contribute to his <a href=\"https://patreon.com/aharonium\">patreon account</a>.",
+            "website": "",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2019/10/aharon-n-varady-2012-96x96.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-digital-imaging"
         }
     ],
     "date": "2023-09-21",

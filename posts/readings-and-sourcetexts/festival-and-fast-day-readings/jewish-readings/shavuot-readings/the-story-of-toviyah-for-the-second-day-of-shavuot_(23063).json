@@ -1,14 +1,7 @@
 {
     "title": "&#x1f4ac; מעשה טוביה ליום שני של שבועות | The Story of Toḇiyah for the second day of Shavuot",
-    "author": "Isaac Gantwerk Mayer (translation)",
+    "author": "Unknown Author(s)",
     "coauthors": [
-        {
-            "name": "Isaac Gantwerk Mayer (translation)",
-            "bio": "From a family of musicians, Isaac Gantwerk Mayer believes that creative art is one of the most powerful ways to get in touch with the divine. He composes music and poetry in Hebrew and English.  (He also <a href=\"/profile/isaac-gantwerk-mayer-2/\">authors</a> his own original works and <a href=\"/profile/isaac-gantwerk-mayer-3/\">transcribes</a> Hebrew and Aramaic text, adding niqqud and t'amim as needed.) Isaac runs a Jewish music transcription service, which will transcribe and set any Jewish music in any language, recorded or written. Contact his service on <a href=\"https://www.facebook.com/pg/isaacgmayerjewishtranscription/\">Facebook</a> or via <a href=\"https://igmjewishcreativeworks.com/contact\">his music blog</a>.",
-            "website": "https://igmjewishcreativeworks.com",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2021/12/isaac-gantwerk-mayer-2021-e1674561264977-96x96.jpg",
-            "profile_link": "https://opensiddur.org/profile/isaac-gantwerk-mayer"
-        },
         {
             "name": "Moses Gaster",
             "bio": "Rabbi Dr. Moses Gaster (17 September 1856 – 5 March 1939), born in Romania, was a Romanian and British scholar and rabbi, the Ḥakham of the Spanish and Portuguese Jewish congregation, London, a folklorist, and a Hebrew and Romanian linguist. He received his PhD in Leipzig in 1878, followed in 1881 with his Hattarat Hora'ah (rabbinical diploma) from the  Jewish Seminary in Breslau. Before his expulsion from Romania in 1885 by the government of Ion Brătianu for his early Zionist organizing, he was lecturer on the Romanian language and literature at the University of Bucharest (1881–85), inspector-general of schools, and a member of the council for examining teachers in Romania. He also lectured on the Romanian apocrypha, the whole of which he had discovered in manuscript. His history of Romanian popular literature was published in Bucharest in 1883. Gaster was a central figure of Hibbat Zion in Romania and played a central role in the 1882 establishment by Jews from Moineşti of the Samarin (Zamarin) settlement, known since 1884 as Zichron Ya'akov. In England, in 1886 and 1891, he held a lectureship in Slavonic literature at the University of Oxford. In 1895, at the request of the Romanian government, he wrote a report on the British system of education, which was printed as a \"green book\" and accepted as a basis of education in Romania. In 1887 Gaster was appointed hakham of the Sephardic or Spanish and Portuguese Congregation in London, in which capacity he presided over the bicentenary of Bevis Marks Synagogue. He was a member of the councils of the Folklore, Biblical, Archaeological, and Royal Asiatic societies, writing many papers in their interest. He was the only ordained rabbi ever to become president of The Folklore Society, in 1907–1908. He became vice-president of the First Zionist Congress in Basel, and was a prominent figure in each succeeding congress. The first draft of the Balfour Declaration was written at the Gaster home on 7 February 1917 in the presence of Chaim Weizmann, Nahum Sokolow, Baron Rothschild, Sir Mark Sykes and Herbert Samuel. In 1925, Gaster was appointed one of the six members of the honorary board of trustees (Curatorium) of the Yiddish Scientific Institute (YIVO) in Wilna, alongside Simon Dubnow, Albert Einstein, Sigmund Freud, Edward Sapir, and Chaim Zhitlowsky.",
@@ -24,11 +17,18 @@
             "profile_link": "https://opensiddur.org/profile/unknown"
         },
         {
-            "name": "Aharon N. Varady (editing/transcription)",
+            "name": "Aharon N. Varady (transcription)",
             "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
             "website": "https://aharon.varady.net",
             "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
             "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
+        },
+        {
+            "name": "Isaac Gantwerk Mayer (translation)",
+            "bio": "From a family of musicians, Isaac Gantwerk Mayer believes that creative art is one of the most powerful ways to get in touch with the divine. He composes music and poetry in Hebrew and English.  (He also <a href=\"/index.php?user_ID=2240\">authors</a> his own original works and <a href=\"/index.php?user_ID=820\">transcribes</a> Hebrew and Aramaic text, adding niqqud and t'amim as needed.) Isaac runs a Jewish music transcription service, which will transcribe and set any Jewish music in any language, recorded or written. Contact his service on <a href=\"https://www.facebook.com/pg/isaacgmayerjewishtranscription/\">Facebook</a> or via <a href=\"https://igmjewishcreativeworks.com/contact\">his music blog</a>.",
+            "website": "https://igmjewishcreativeworks.com",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2021/12/isaac-gantwerk-mayer-2021-e1674561264977-96x96.jpg",
+            "profile_link": "https://opensiddur.org/profile/isaac-gantwerk-mayer-translation"
         }
     ],
     "date": "2018-12-25",

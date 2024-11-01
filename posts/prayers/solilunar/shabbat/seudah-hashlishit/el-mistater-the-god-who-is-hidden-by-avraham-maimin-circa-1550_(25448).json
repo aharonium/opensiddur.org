@@ -3,18 +3,18 @@
     "author": "Len Fellman (translation)",
     "coauthors": [
         {
-            "name": "Len Fellman (translation)",
-            "bio": "Len Fellman is a mathematician, educator, and innovator of \"transtropilation,\" the process of translating from cantillized Hebrew, as closely as possible, “word for word and <em>trōp</em> for <em>trōp</em>”, with the main purpose being to aid a person with minimal Hebrew training in following the Hebrew leyning of the Torah and Haftarah readings word for word.",
-            "website": "https://web.archive.org/web/20150926171914/http://toviar.home.comcast.net/~toviar/index.htm",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2024/03/len-fellman-96x96.jpg",
-            "profile_link": "https://opensiddur.org/profile/len-fellman"
-        },
-        {
             "name": "Avraham Maimin",
             "bio": "Avraham Maimin (fl. 16th c.) was a student of Rabbi Moshe Cordovero in his Safed School of Qabbalah. He is primarily known for his mystical piyyut, \"El Mistater.\"",
             "website": "",
             "avatar": "https://opensiddur.org/wp-content/uploads/2014/11/Keith-Evans-Green-Tree-Yellow-Field-CC-BY-SA-250x250.jpg",
             "profile_link": "https://opensiddur.org/profile/avraham-maimin"
+        },
+        {
+            "name": "Len Fellman (translation)",
+            "bio": "Len Fellman is a mathematician, educator, and innovator of \"transtropilation,\" the process of translating from cantillized Hebrew, as closely as possible, “word for word and <em>trōp</em> for <em>trōp</em>”, with the main purpose being to aid a person with minimal Hebrew training in following the Hebrew leyning of the Torah and Haftarah readings word for word.",
+            "website": "https://web.archive.org/web/20150926171914/http://toviar.home.comcast.net/~toviar/index.htm",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2024/03/len-fellman-96x96.jpg",
+            "profile_link": "https://opensiddur.org/profile/len-fellman-translation"
         }
     ],
     "date": "2019-05-30",

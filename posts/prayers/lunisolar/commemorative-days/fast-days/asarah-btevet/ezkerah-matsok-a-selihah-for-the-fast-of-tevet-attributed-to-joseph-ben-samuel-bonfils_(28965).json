@@ -3,13 +3,6 @@
     "author": "Isaac Gantwerk Mayer (translation)",
     "coauthors": [
         {
-            "name": "Isaac Gantwerk Mayer (translation)",
-            "bio": "From a family of musicians, Isaac Gantwerk Mayer believes that creative art is one of the most powerful ways to get in touch with the divine. He composes music and poetry in Hebrew and English.  (He also <a href=\"/profile/isaac-gantwerk-mayer-2/\">authors</a> his own original works and <a href=\"/profile/isaac-gantwerk-mayer-3/\">transcribes</a> Hebrew and Aramaic text, adding niqqud and t'amim as needed.) Isaac runs a Jewish music transcription service, which will transcribe and set any Jewish music in any language, recorded or written. Contact his service on <a href=\"https://www.facebook.com/pg/isaacgmayerjewishtranscription/\">Facebook</a> or via <a href=\"https://igmjewishcreativeworks.com/contact\">his music blog</a>.",
-            "website": "https://igmjewishcreativeworks.com",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2021/12/isaac-gantwerk-mayer-2021-e1674561264977-96x96.jpg",
-            "profile_link": "https://opensiddur.org/profile/isaac-gantwerk-mayer"
-        },
-        {
             "name": "David Asher (translation)",
             "bio": "David Asher (born at Dresden Dec. 8, 1818; died in Leipsic Dec. 2, 1890) was a German-Jewish scholar and educator. He received his early education at the Jewish school of his native city, and subsequently entered the gymnasium there, being one of the first Jews admitted to the institution. As his mother was unable to support him, his stay there was short. Asher then learned the trade of carving and gilding, thereby supporting himself as a journeyman artisan during his travels to various cities of Germany and Austria. On the invitation of a wealthy relative he went to London, where he learned English at a private school—subsequently becoming assistant teacher there—and at the same time assiduously studied philosophy, philology, Hebrew, and modern languages. Later, Asher held various offices in the Jewish congregation and was tutor to the children of the chief rabbi of England. Upon his return to Germany he obtained the degree of doctor of philosophy at the Berlin University. Settling in Leipsic, he soon acquired reputation as an English instructor, having among his pupils many persons of high rank. For seven years he held the post of English master at the Commercial School; and for eight years that of examiner of candidates for higher schools at the university. He was also a member of the Academy for Modern Languages, in Berlin, and official interpreter to the Royal Law Courts of Leipsic. A linguist of the first order, he was engaged in literary work of varied character, and diligently contributed to most of the leading German journals, as well as to the English periodicals the \"Times,\" \"Athenæum,\" \"Academy,\" and \"Jewish Chronicle.\" For the last he translated Dr. Döllinger's \"Address on the History of the Jews of Europe.\" Asher distinguished himself as an interpreter of the philosophy of Schopenhauer; and as an ardent champion of his own coreligionists, energetically combating antisemitic attacks. (lightly adapted from <a href=\"http://www.jewishencyclopedia.com/articles/1923-asher-david\">his entry</a> in the 1906 Jewish Encyclopedia)",
             "website": "http://www.jewishencyclopedia.com/articles/1923-asher-david",
@@ -24,11 +17,18 @@
             "profile_link": "https://opensiddur.org/profile/joseph-ben-samuel-bonfils"
         },
         {
-            "name": "Aharon N. Varady (editing/transcription)",
+            "name": "Aharon N. Varady (transcription)",
             "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
             "website": "https://aharon.varady.net",
             "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
             "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
+        },
+        {
+            "name": "Isaac Gantwerk Mayer (translation)",
+            "bio": "From a family of musicians, Isaac Gantwerk Mayer believes that creative art is one of the most powerful ways to get in touch with the divine. He composes music and poetry in Hebrew and English.  (He also <a href=\"/index.php?user_ID=2240\">authors</a> his own original works and <a href=\"/index.php?user_ID=820\">transcribes</a> Hebrew and Aramaic text, adding niqqud and t'amim as needed.) Isaac runs a Jewish music transcription service, which will transcribe and set any Jewish music in any language, recorded or written. Contact his service on <a href=\"https://www.facebook.com/pg/isaacgmayerjewishtranscription/\">Facebook</a> or via <a href=\"https://igmjewishcreativeworks.com/contact\">his music blog</a>.",
+            "website": "https://igmjewishcreativeworks.com",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2021/12/isaac-gantwerk-mayer-2021-e1674561264977-96x96.jpg",
+            "profile_link": "https://opensiddur.org/profile/isaac-gantwerk-mayer-translation"
         }
     ],
     "date": "2020-01-05",

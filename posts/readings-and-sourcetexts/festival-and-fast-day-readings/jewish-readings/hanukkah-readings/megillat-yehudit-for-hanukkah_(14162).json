@@ -1,14 +1,7 @@
 {
     "title": "&#x1f4ac; מְגִילַּת יְהוּדִית לְאָמְרָהּ בַּחֲנֻכָּה | Megillat Yehudit, the Medieval Scroll of Judith to be said on Ḥanukkah",
-    "author": "Isaac Gantwerk Mayer (translation)",
+    "author": "Unknown Author(s)",
     "coauthors": [
-        {
-            "name": "Isaac Gantwerk Mayer (translation)",
-            "bio": "From a family of musicians, Isaac Gantwerk Mayer believes that creative art is one of the most powerful ways to get in touch with the divine. He composes music and poetry in Hebrew and English.  (He also <a href=\"/profile/isaac-gantwerk-mayer-2/\">authors</a> his own original works and <a href=\"/profile/isaac-gantwerk-mayer-3/\">transcribes</a> Hebrew and Aramaic text, adding niqqud and t'amim as needed.) Isaac runs a Jewish music transcription service, which will transcribe and set any Jewish music in any language, recorded or written. Contact his service on <a href=\"https://www.facebook.com/pg/isaacgmayerjewishtranscription/\">Facebook</a> or via <a href=\"https://igmjewishcreativeworks.com/contact\">his music blog</a>.",
-            "website": "https://igmjewishcreativeworks.com",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2021/12/isaac-gantwerk-mayer-2021-e1674561264977-96x96.jpg",
-            "profile_link": "https://opensiddur.org/profile/isaac-gantwerk-mayer"
-        },
         {
             "name": "Susan Weingarten (translation)",
             "bio": "Dr. Susan Weingarten is an archaeologist and historian who was formerly in the research team of the Sir Isaac Wolfson Chair for Jewish Studies, Tel Aviv University, Israel. After publishing <em>The Saint’s Saints: Hagiography and Geography in Jerome</em> (2005), she decided to move from ascetic Christianity to Jewish food.",
@@ -31,11 +24,18 @@
             "profile_link": "https://opensiddur.org/profile/unknown"
         },
         {
-            "name": "Aharon N. Varady (editing/transcription)",
+            "name": "Aharon N. Varady (transcription)",
             "bio": "Aharon Varady (M.A.J.Ed./JTSA Davidson) is a volunteer transcriber for the Open Siddur Project. If you find any mistakes in his transcriptions, please <a href=\"/contact/\">let him know</a>. <em>Shgiyot mi yavin; Ministarot naqeni</em> <span lang=\"he\" class=\"scribe\">שְׁגִיאוֹת מִי־יָבִין; מִנִּסְתָּרוֹת נַקֵּנִי</span> \"Who can know all one's flaws? From hidden errors, correct me\" (Psalms 19:13). If you'd like to directly support his work, please consider donating via his <a href=\"https://www.patreon.com/aharonium\">Patreon account</a>. (Varady also <a href=\"/profile/aharon-varady-translation/\">translates prayers</a> and <a href=\"/profile/aharon-varady/\">contributes his own original work</a> besides serving as the primary <em>shammes</em> of the Open Siddur Project and its website, opensiddur.org.)",
             "website": "https://aharon.varady.net",
             "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
             "profile_link": "https://opensiddur.org/profile/aharon-varady-transcription"
+        },
+        {
+            "name": "Isaac Gantwerk Mayer (translation)",
+            "bio": "From a family of musicians, Isaac Gantwerk Mayer believes that creative art is one of the most powerful ways to get in touch with the divine. He composes music and poetry in Hebrew and English.  (He also <a href=\"/index.php?user_ID=2240\">authors</a> his own original works and <a href=\"/index.php?user_ID=820\">transcribes</a> Hebrew and Aramaic text, adding niqqud and t'amim as needed.) Isaac runs a Jewish music transcription service, which will transcribe and set any Jewish music in any language, recorded or written. Contact his service on <a href=\"https://www.facebook.com/pg/isaacgmayerjewishtranscription/\">Facebook</a> or via <a href=\"https://igmjewishcreativeworks.com/contact\">his music blog</a>.",
+            "website": "https://igmjewishcreativeworks.com",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2021/12/isaac-gantwerk-mayer-2021-e1674561264977-96x96.jpg",
+            "profile_link": "https://opensiddur.org/profile/isaac-gantwerk-mayer-translation"
         }
     ],
     "date": "2016-08-03",
@@ -45,7 +45,7 @@
     "categories": [
         "Extracanonical Megillot",
         "Ḥanukkah Readings",
-        "Ḥag haBanot (Eid el Benat)"
+        "Ḥag haBanot (Eid el Benat) Readings"
     ],
     "tags": [
         "14th century C.E.",

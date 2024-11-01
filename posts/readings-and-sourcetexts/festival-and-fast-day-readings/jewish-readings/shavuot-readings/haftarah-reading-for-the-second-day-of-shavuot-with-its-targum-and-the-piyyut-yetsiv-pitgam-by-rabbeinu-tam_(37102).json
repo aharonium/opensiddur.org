@@ -1,21 +1,7 @@
 {
     "title": "&#x1F4AC; הפטרה לחג השבועות ביום השני | Haftarah reading for the Second Day of Shavuot (Ḥabaquq 2:20-3:19) with its Targum and the piyyut Yetsiv Pitgam by Rabbeinu Tam (ca. 12th c.)",
-    "author": "Isaac Gantwerk Mayer (transcription &amp; naqdanut)",
+    "author": "the Masoretic Text",
     "coauthors": [
-        {
-            "name": "Isaac Gantwerk Mayer (transcription &amp; naqdanut)",
-            "bio": "From a family of musicians, Isaac Gantwerk Mayer believes that creative art is one of the most powerful ways to get in touch with the divine. He composes music and poetry in Hebrew and English. (He also <a href=\"/profile/isaac-gantwerk-mayer/\">translates</a> and <a href=\"/profile/isaac-gantwerk-mayer-2/\">authors</a> his own original works.) Isaac runs a Jewish music transcription service, which will transcribe and set any Jewish music in any language, recorded or written. Contact his service on <a href=\"https://www.facebook.com/pg/isaacgmayerjewishtranscription/\">Facebook</a> or via <a href=\"https://igmjewishcreativeworks.com/contact\">his music blog</a>.",
-            "website": "https://igmjewishcreativeworks.com",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2021/12/isaac-gantwerk-mayer-2021-e1674561264977-96x96.jpg",
-            "profile_link": "https://opensiddur.org/profile/isaac-gantwerk-mayer-3"
-        },
-        {
-            "name": "Isaac Gantwerk Mayer (translation)",
-            "bio": "From a family of musicians, Isaac Gantwerk Mayer believes that creative art is one of the most powerful ways to get in touch with the divine. He composes music and poetry in Hebrew and English.  (He also <a href=\"/profile/isaac-gantwerk-mayer-2/\">authors</a> his own original works and <a href=\"/profile/isaac-gantwerk-mayer-3/\">transcribes</a> Hebrew and Aramaic text, adding niqqud and t'amim as needed.) Isaac runs a Jewish music transcription service, which will transcribe and set any Jewish music in any language, recorded or written. Contact his service on <a href=\"https://www.facebook.com/pg/isaacgmayerjewishtranscription/\">Facebook</a> or via <a href=\"https://igmjewishcreativeworks.com/contact\">his music blog</a>.",
-            "website": "https://igmjewishcreativeworks.com",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2021/12/isaac-gantwerk-mayer-2021-e1674561264977-96x96.jpg",
-            "profile_link": "https://opensiddur.org/profile/isaac-gantwerk-mayer"
-        },
         {
             "name": "Yaaqov ben Meir",
             "bio": "Yaaqov ben Meir (1100 in Ramerupt – 9 June 1171 (4 Tammuz) in Troyes), best known as Rabbeinu Tam (Hebrew: רבינו תם‎), was one of the most renowned Ashkenazi Jewish rabbis and leading French Tosafists, a leading halakhic authority in his generation, and a grandson of Rashi. Known as \"Rabbeinu\" (our teacher), he acquired the Hebrew suffix \"Tam\" meaning straightforward; it was originally used in the Book of Genesis to describe his biblical namesake, Yaaqov (Jacob).",
@@ -43,6 +29,20 @@
             "website": "https://en.wikipedia.org/wiki/Habakkuk",
             "avatar": "https://opensiddur.org/wp-content/uploads/2014/11/Keith-Evans-Green-Tree-Yellow-Field-CC-BY-SA-250x250.jpg",
             "profile_link": "https://opensiddur.org/profile/habaquq"
+        },
+        {
+            "name": "Isaac Gantwerk Mayer (transcription &amp; naqdanut)",
+            "bio": "From a family of musicians, Isaac Gantwerk Mayer believes that creative art is one of the most powerful ways to get in touch with the divine. He composes music and poetry in Hebrew and English. (He also <a href=\"/index.php?user_ID=342\">translates</a> and <a href=\"/index.php?user_ID=2240\">authors</a> his own original works.) Isaac runs a Jewish music transcription service, which will transcribe and set any Jewish music in any language, recorded or written. Contact his service on <a href=\"https://www.facebook.com/pg/isaacgmayerjewishtranscription/\">Facebook</a> or via <a href=\"https://igmjewishcreativeworks.com/contact\">his music blog</a>.",
+            "website": "https://igmjewishcreativeworks.com",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2021/12/isaac-gantwerk-mayer-2021-e1674561264977-96x96.jpg",
+            "profile_link": "https://opensiddur.org/profile/isaac-gantwerk-mayer-transcription"
+        },
+        {
+            "name": "Isaac Gantwerk Mayer (translation)",
+            "bio": "From a family of musicians, Isaac Gantwerk Mayer believes that creative art is one of the most powerful ways to get in touch with the divine. He composes music and poetry in Hebrew and English.  (He also <a href=\"/index.php?user_ID=2240\">authors</a> his own original works and <a href=\"/index.php?user_ID=820\">transcribes</a> Hebrew and Aramaic text, adding niqqud and t'amim as needed.) Isaac runs a Jewish music transcription service, which will transcribe and set any Jewish music in any language, recorded or written. Contact his service on <a href=\"https://www.facebook.com/pg/isaacgmayerjewishtranscription/\">Facebook</a> or via <a href=\"https://igmjewishcreativeworks.com/contact\">his music blog</a>.",
+            "website": "https://igmjewishcreativeworks.com",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2021/12/isaac-gantwerk-mayer-2021-e1674561264977-96x96.jpg",
+            "profile_link": "https://opensiddur.org/profile/isaac-gantwerk-mayer-translation"
         }
     ],
     "date": "2021-05-15",

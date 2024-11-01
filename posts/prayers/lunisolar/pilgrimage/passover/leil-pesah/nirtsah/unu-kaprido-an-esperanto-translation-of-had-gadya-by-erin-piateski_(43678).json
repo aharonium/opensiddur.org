@@ -1,14 +1,7 @@
 {
     "title": "אונו קאַפּרידאָ | חַד גַּדְיָא | Unu Kaprido — an Esperanto translation of Ḥad Gadya by Erin Piateski (2010)",
-    "author": "Isaac Gantwerk Mayer (transcription &amp; naqdanut)",
+    "author": "Unknown Author(s)",
     "coauthors": [
-        {
-            "name": "Isaac Gantwerk Mayer (transcription &amp; naqdanut)",
-            "bio": "From a family of musicians, Isaac Gantwerk Mayer believes that creative art is one of the most powerful ways to get in touch with the divine. He composes music and poetry in Hebrew and English. (He also <a href=\"/profile/isaac-gantwerk-mayer/\">translates</a> and <a href=\"/profile/isaac-gantwerk-mayer-2/\">authors</a> his own original works.) Isaac runs a Jewish music transcription service, which will transcribe and set any Jewish music in any language, recorded or written. Contact his service on <a href=\"https://www.facebook.com/pg/isaacgmayerjewishtranscription/\">Facebook</a> or via <a href=\"https://igmjewishcreativeworks.com/contact\">his music blog</a>.",
-            "website": "https://igmjewishcreativeworks.com",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2021/12/isaac-gantwerk-mayer-2021-e1674561264977-96x96.jpg",
-            "profile_link": "https://opensiddur.org/profile/isaac-gantwerk-mayer-3"
-        },
         {
             "name": "Erin Piateski (translation)",
             "bio": "Erin Piateski is a patent examiner who holds a bachelor's degree from the University of Maryland and a master's degree from MIT, both in mechanical engineering. Piateski learned Esperanto in 1995 and when she is not working on Esperanto projects, her hobbies include reading science fiction, listening to radio dramas, and international cooking.",
@@ -22,6 +15,13 @@
             "website": "",
             "avatar": "https://opensiddur.org/wp-content/uploads/2014/11/Keith-Evans-Green-Tree-Yellow-Field-CC-BY-SA-250x250.jpg",
             "profile_link": "https://opensiddur.org/profile/unknown"
+        },
+        {
+            "name": "Isaac Gantwerk Mayer (transcription &amp; naqdanut)",
+            "bio": "From a family of musicians, Isaac Gantwerk Mayer believes that creative art is one of the most powerful ways to get in touch with the divine. He composes music and poetry in Hebrew and English. (He also <a href=\"/index.php?user_ID=342\">translates</a> and <a href=\"/index.php?user_ID=2240\">authors</a> his own original works.) Isaac runs a Jewish music transcription service, which will transcribe and set any Jewish music in any language, recorded or written. Contact his service on <a href=\"https://www.facebook.com/pg/isaacgmayerjewishtranscription/\">Facebook</a> or via <a href=\"https://igmjewishcreativeworks.com/contact\">his music blog</a>.",
+            "website": "https://igmjewishcreativeworks.com",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2021/12/isaac-gantwerk-mayer-2021-e1674561264977-96x96.jpg",
+            "profile_link": "https://opensiddur.org/profile/isaac-gantwerk-mayer-transcription"
         }
     ],
     "date": "2022-04-05",

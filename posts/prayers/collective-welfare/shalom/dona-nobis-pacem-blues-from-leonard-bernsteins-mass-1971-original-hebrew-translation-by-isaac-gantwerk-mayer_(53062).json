@@ -3,13 +3,6 @@
     "author": "Isaac Gantwerk Mayer (translation)",
     "coauthors": [
         {
-            "name": "Isaac Gantwerk Mayer (translation)",
-            "bio": "From a family of musicians, Isaac Gantwerk Mayer believes that creative art is one of the most powerful ways to get in touch with the divine. He composes music and poetry in Hebrew and English.  (He also <a href=\"/profile/isaac-gantwerk-mayer-2/\">authors</a> his own original works and <a href=\"/profile/isaac-gantwerk-mayer-3/\">transcribes</a> Hebrew and Aramaic text, adding niqqud and t'amim as needed.) Isaac runs a Jewish music transcription service, which will transcribe and set any Jewish music in any language, recorded or written. Contact his service on <a href=\"https://www.facebook.com/pg/isaacgmayerjewishtranscription/\">Facebook</a> or via <a href=\"https://igmjewishcreativeworks.com/contact\">his music blog</a>.",
-            "website": "https://igmjewishcreativeworks.com",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2021/12/isaac-gantwerk-mayer-2021-e1674561264977-96x96.jpg",
-            "profile_link": "https://opensiddur.org/profile/isaac-gantwerk-mayer"
-        },
-        {
             "name": "Leonard Bernstein",
             "bio": "Leonard Bernstein (August 25, 1918 – October 14, 1990) was a Jewish-American conductor, composer, pianist, music educator, author, and humanitarian. Considered to be one of the most important conductors of his time, he was the first American conductor to receive international acclaim. Bernstein was \"one of the most prodigiously talented and successful musicians in American history\" according to music critic Donal Henahan. Bernstein received numerous honors and accolades including seven Emmy Awards, two Tony Awards, and 16 Grammy Awards (including the Lifetime Achievement Award) as well as an Academy Award nomination. He received the Kennedy Center Honor in 1981.",
             "website": "https://en.wikipedia.org/wiki/Leonard_Bernstein",
@@ -22,6 +15,13 @@
             "website": "https://en.wikipedia.org/wiki/Stephen_Schwartz_(composer)",
             "avatar": "https://opensiddur.org/wp-content/uploads/2023/10/stephen-schwartz-96x96.jpg",
             "profile_link": "https://opensiddur.org/profile/stephen-schwartz"
+        },
+        {
+            "name": "Isaac Gantwerk Mayer (translation)",
+            "bio": "From a family of musicians, Isaac Gantwerk Mayer believes that creative art is one of the most powerful ways to get in touch with the divine. He composes music and poetry in Hebrew and English.  (He also <a href=\"/index.php?user_ID=2240\">authors</a> his own original works and <a href=\"/index.php?user_ID=820\">transcribes</a> Hebrew and Aramaic text, adding niqqud and t'amim as needed.) Isaac runs a Jewish music transcription service, which will transcribe and set any Jewish music in any language, recorded or written. Contact his service on <a href=\"https://www.facebook.com/pg/isaacgmayerjewishtranscription/\">Facebook</a> or via <a href=\"https://igmjewishcreativeworks.com/contact\">his music blog</a>.",
+            "website": "https://igmjewishcreativeworks.com",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2021/12/isaac-gantwerk-mayer-2021-e1674561264977-96x96.jpg",
+            "profile_link": "https://opensiddur.org/profile/isaac-gantwerk-mayer-translation"
         }
     ],
     "date": "2023-10-12",

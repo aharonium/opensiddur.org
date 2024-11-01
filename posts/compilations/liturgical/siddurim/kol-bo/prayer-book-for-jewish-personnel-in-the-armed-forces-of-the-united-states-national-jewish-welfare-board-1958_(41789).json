@@ -1,6 +1,6 @@
 {
     "title": "&#x1F4D6; Prayer Book for Jewish Personnel in the Armed Forces of the United States (National Jewish Welfare Board 1958)",
-    "author": "Aharon N. Varady (digital imaging and document preparation)",
+    "author": "the National Jewish Welfare Board",
     "coauthors": [
         {
             "name": "the National Jewish Welfare Board",
@@ -8,6 +8,13 @@
             "website": "https://en.wikipedia.org/wiki/National_Jewish_Welfare_Board",
             "avatar": "https://opensiddur.org/wp-content/uploads/2020/09/njwb-logo-scaled-e1674565193453-96x96.jpg",
             "profile_link": "https://opensiddur.org/profile/national-jewish-welfare-board"
+        },
+        {
+            "name": "Aharon N. Varady (digital imaging and document preparation)",
+            "bio": "Aharon Varady, founding director of the Open Siddur Project, is a copyright researcher and amateur book scanner. He prepares digital images and new digital editions of prayer books and related works in the Public Domain in order to make their constituent parts (prayers, translations, annotations, etc.) publicly accessible for collaborative transcription by project volunteers. (In some cases, he finds existing digital editions prepared by others that require correction and  reformatting.) If you appreciate his efforts, <em>please</em> send him a kind note or contribute to his <a href=\"https://patreon.com/aharonium\">patreon account</a>.",
+            "website": "",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2019/10/aharon-n-varady-2012-96x96.jpg",
+            "profile_link": "https://opensiddur.org/profile/aharon-varady-digital-imaging"
         }
     ],
     "date": "2022-01-07",

@@ -1,14 +1,7 @@
 {
     "title": "חַד גַּדְיָא | ერთი თიკანი | Erti tiḳani (ארתי תיקהני) — a Čveneburuli translation of Ḥad Gadya by Tamari Lomtadze & Reuven Enoch",
-    "author": "Isaac Gantwerk Mayer (transcription &amp; naqdanut)",
+    "author": "Unknown Author(s)",
     "coauthors": [
-        {
-            "name": "Isaac Gantwerk Mayer (transcription &amp; naqdanut)",
-            "bio": "From a family of musicians, Isaac Gantwerk Mayer believes that creative art is one of the most powerful ways to get in touch with the divine. He composes music and poetry in Hebrew and English. (He also <a href=\"/profile/isaac-gantwerk-mayer/\">translates</a> and <a href=\"/profile/isaac-gantwerk-mayer-2/\">authors</a> his own original works.) Isaac runs a Jewish music transcription service, which will transcribe and set any Jewish music in any language, recorded or written. Contact his service on <a href=\"https://www.facebook.com/pg/isaacgmayerjewishtranscription/\">Facebook</a> or via <a href=\"https://igmjewishcreativeworks.com/contact\">his music blog</a>.",
-            "website": "https://igmjewishcreativeworks.com",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2021/12/isaac-gantwerk-mayer-2021-e1674561264977-96x96.jpg",
-            "profile_link": "https://opensiddur.org/profile/isaac-gantwerk-mayer-3"
-        },
         {
             "name": "Reuven Enoch (translation)",
             "bio": "Reuven Enoch is full professor at Ariel University. He is a graduate from the Faculty of Philology of the State University of Tbilisi, having pursued a prolific academic career in this same University, reaching the rank of associate professor in the Department of Ancient Georgian Language Studies, and Dean of the philology department. A specialist in linguistics and modern history of the Caucasus, he is a former research fellow of the Truman Institute of the Hebrew University of Jerusalem, and has authored more than 50 scientific articles and 12 books. Since 1996, he has been in charge of “Kol Yisrael” broadcasts in the Georgian language. He is a former board member of the Israel Broadcasting Authority and Channel 2 Television, and editor of “Drosha” (Flag), the Israeli monthly magazine in Georgian language.",
@@ -29,6 +22,13 @@
             "website": "",
             "avatar": "https://opensiddur.org/wp-content/uploads/2014/11/Keith-Evans-Green-Tree-Yellow-Field-CC-BY-SA-250x250.jpg",
             "profile_link": "https://opensiddur.org/profile/unknown"
+        },
+        {
+            "name": "Isaac Gantwerk Mayer (transcription &amp; naqdanut)",
+            "bio": "From a family of musicians, Isaac Gantwerk Mayer believes that creative art is one of the most powerful ways to get in touch with the divine. He composes music and poetry in Hebrew and English. (He also <a href=\"/index.php?user_ID=342\">translates</a> and <a href=\"/index.php?user_ID=2240\">authors</a> his own original works.) Isaac runs a Jewish music transcription service, which will transcribe and set any Jewish music in any language, recorded or written. Contact his service on <a href=\"https://www.facebook.com/pg/isaacgmayerjewishtranscription/\">Facebook</a> or via <a href=\"https://igmjewishcreativeworks.com/contact\">his music blog</a>.",
+            "website": "https://igmjewishcreativeworks.com",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2021/12/isaac-gantwerk-mayer-2021-e1674561264977-96x96.jpg",
+            "profile_link": "https://opensiddur.org/profile/isaac-gantwerk-mayer-transcription"
         }
     ],
     "date": "2022-02-02",

@@ -1,14 +1,7 @@
 {
     "title": "ברכת המזון לחול ולשבת | Birkat haMazon for Weekdays and on Shabbat from the Cairo Genizah fragment Or.1080 15.4",
-    "author": "Shoshana Michael Zucker (translation)",
+    "author": "Unknown Author(s)",
     "coauthors": [
-        {
-            "name": "Shoshana Michael Zucker (translation)",
-            "bio": "Shoshana Michael Zucker was first fascinated by the boundaries and history of Jewish liturgy as a teenager in NFTY in the early 1970s, the waning days of the Union Prayer Book. Since then, she has moved to Israel, raised a family and launched them into adulthood, while praying from varied siddurim with countless notes in the margin and extra notes stuck between the pages. A translator and editor by profession, she would rather study and teach Torah.",
-            "website": "http://kevakavanna.blogspot.com",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2021/02/shoshana-michael-zucker-96x96.jpg",
-            "profile_link": "https://opensiddur.org/profile/shoshana-zucker"
-        },
         {
             "name": "Unknown Author(s)",
             "bio": "Sometimes the best we can do in attributing a historical work is to indicate the period and place it was written, the first prayer book it may have been printed in, or the archival collection in which the manuscript was found. We invite the public to help to attribute all works to their original composers. If you know something not mentioned in the commentary offered, please leave a comment or <a href=\"/contact/\">contact us</a>.",
@@ -22,6 +15,13 @@
             "website": "https://aharon.varady.net",
             "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/Aharon-Varady-2002.jpg",
             "profile_link": "https://opensiddur.org/profile/aharon-varady-translation"
+        },
+        {
+            "name": "Shoshana Michael Zucker (translation)",
+            "bio": "Shoshana Michael Zucker was first fascinated by the boundaries and history of Jewish liturgy as a teenager in NFTY in the early 1970s, the waning days of the Union Prayer Book. Since then, she has moved to Israel, raised a family and launched them into adulthood, while praying from varied siddurim with countless notes in the margin and extra notes stuck between the pages. A translator and editor by profession, she would rather study and teach Torah.",
+            "website": "http://kevakavanna.blogspot.com",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2021/02/shoshana-michael-zucker-96x96.jpg",
+            "profile_link": "https://opensiddur.org/profile/shoshana-michael-zucker-translation"
         }
     ],
     "date": "2021-02-01",

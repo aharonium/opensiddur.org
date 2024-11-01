@@ -1,21 +1,7 @@
 {
     "title": "תהלים פ״ה | Psalms 85 for Yom Simḥat Kohen — with translations into Marathi, Arabic, and English",
-    "author": "Isaac Gantwerk Mayer (transcription &amp; naqdanut)",
+    "author": "the Masoretic Text",
     "coauthors": [
-        {
-            "name": "Isaac Gantwerk Mayer (transcription &amp; naqdanut)",
-            "bio": "From a family of musicians, Isaac Gantwerk Mayer believes that creative art is one of the most powerful ways to get in touch with the divine. He composes music and poetry in Hebrew and English. (He also <a href=\"/profile/isaac-gantwerk-mayer/\">translates</a> and <a href=\"/profile/isaac-gantwerk-mayer-2/\">authors</a> his own original works.) Isaac runs a Jewish music transcription service, which will transcribe and set any Jewish music in any language, recorded or written. Contact his service on <a href=\"https://www.facebook.com/pg/isaacgmayerjewishtranscription/\">Facebook</a> or via <a href=\"https://igmjewishcreativeworks.com/contact\">his music blog</a>.",
-            "website": "https://igmjewishcreativeworks.com",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2021/12/isaac-gantwerk-mayer-2021-e1674561264977-96x96.jpg",
-            "profile_link": "https://opensiddur.org/profile/isaac-gantwerk-mayer-3"
-        },
-        {
-            "name": "Isaac Gantwerk Mayer (translation)",
-            "bio": "From a family of musicians, Isaac Gantwerk Mayer believes that creative art is one of the most powerful ways to get in touch with the divine. He composes music and poetry in Hebrew and English.  (He also <a href=\"/profile/isaac-gantwerk-mayer-2/\">authors</a> his own original works and <a href=\"/profile/isaac-gantwerk-mayer-3/\">transcribes</a> Hebrew and Aramaic text, adding niqqud and t'amim as needed.) Isaac runs a Jewish music transcription service, which will transcribe and set any Jewish music in any language, recorded or written. Contact his service on <a href=\"https://www.facebook.com/pg/isaacgmayerjewishtranscription/\">Facebook</a> or via <a href=\"https://igmjewishcreativeworks.com/contact\">his music blog</a>.",
-            "website": "https://igmjewishcreativeworks.com",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2021/12/isaac-gantwerk-mayer-2021-e1674561264977-96x96.jpg",
-            "profile_link": "https://opensiddur.org/profile/isaac-gantwerk-mayer"
-        },
         {
             "name": "Joseph Ezekiel Rajpurkar (translation)",
             "bio": "Joseph Ezekiel Rajpurkar (Marathi: जोसेफ यहेज्केल राजपूरकर, Hebrew: יוסף יחזקאל ראג׳פורכר‎; 1834–1905) was a Bene Israel writer and translator of Hebrew liturgical works into Marathi.",
@@ -43,6 +29,20 @@
             "website": "https://en.wikipedia.org/wiki/Korahites",
             "avatar": "https://opensiddur.org/wp-content/uploads/2014/11/Keith-Evans-Green-Tree-Yellow-Field-CC-BY-SA-250x250.jpg",
             "profile_link": "https://opensiddur.org/profile/bnei-korah"
+        },
+        {
+            "name": "Isaac Gantwerk Mayer (transcription &amp; naqdanut)",
+            "bio": "From a family of musicians, Isaac Gantwerk Mayer believes that creative art is one of the most powerful ways to get in touch with the divine. He composes music and poetry in Hebrew and English. (He also <a href=\"/index.php?user_ID=342\">translates</a> and <a href=\"/index.php?user_ID=2240\">authors</a> his own original works.) Isaac runs a Jewish music transcription service, which will transcribe and set any Jewish music in any language, recorded or written. Contact his service on <a href=\"https://www.facebook.com/pg/isaacgmayerjewishtranscription/\">Facebook</a> or via <a href=\"https://igmjewishcreativeworks.com/contact\">his music blog</a>.",
+            "website": "https://igmjewishcreativeworks.com",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2021/12/isaac-gantwerk-mayer-2021-e1674561264977-96x96.jpg",
+            "profile_link": "https://opensiddur.org/profile/isaac-gantwerk-mayer-transcription"
+        },
+        {
+            "name": "Isaac Gantwerk Mayer (translation)",
+            "bio": "From a family of musicians, Isaac Gantwerk Mayer believes that creative art is one of the most powerful ways to get in touch with the divine. He composes music and poetry in Hebrew and English.  (He also <a href=\"/index.php?user_ID=2240\">authors</a> his own original works and <a href=\"/index.php?user_ID=820\">transcribes</a> Hebrew and Aramaic text, adding niqqud and t'amim as needed.) Isaac runs a Jewish music transcription service, which will transcribe and set any Jewish music in any language, recorded or written. Contact his service on <a href=\"https://www.facebook.com/pg/isaacgmayerjewishtranscription/\">Facebook</a> or via <a href=\"https://igmjewishcreativeworks.com/contact\">his music blog</a>.",
+            "website": "https://igmjewishcreativeworks.com",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2021/12/isaac-gantwerk-mayer-2021-e1674561264977-96x96.jpg",
+            "profile_link": "https://opensiddur.org/profile/isaac-gantwerk-mayer-translation"
         }
     ],
     "date": "2022-10-05",
@@ -76,9 +76,9 @@
         ]
     },
     "featured_image": {
-        "url": "https://opensiddur.org/wp-content/uploads/2022/10/High_Priest-e1665058420926.jpg",
-        "title": "High_Priest",
-        "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:High_Priest.jpg\">Depiction of a high priest in biblical costume, end of the 17th century, orientalising representation with turban, in the collection of the Jewish Museum of Switzerland.</a>"
+        "url": "https://opensiddur.org/wp-content/uploads/2022/10/high-priest.png",
+        "title": "high-priest",
+        "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:High_Priest.jpg\">Depiction of a high priest in biblical costume, end of the 17th century, in the collection of the Jewish Museum of Switzerland.</a>"
     },
     "source_link": "https://opensiddur.org/?p=47110",
     "permalink": "https://opensiddur.org/readings-and-sourcetexts/mekorot/tanakh/ketuvim/sifrei-emet/tehilim/book-three/psalms-085-for-yom-simhat-kohen-with-translations-into-marathi-arabic-and-english/",
