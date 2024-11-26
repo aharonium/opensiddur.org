@@ -1,9 +1,9 @@
 # opensiddur.org
 
-Every post and page, category and contributor in the Open Siddur Project.
+This is the repository of the Open Siddur Project's website containing our modified theme files, custom plugins, and every post and page, category in and contributor to the Open Siddur Project.
 
-These JSON files are manually generated once a month at the start of the month.
+The JSON files are manually generated once a month at the start of the month. Plugin and modified theme files are updated here ever so often.
 
-Inspect the postmeta "open_content_license", to determine the specific license for any specific post. 
+Inspect the "open_content_license" to determine the specific license for the content of any specific post. Content in all other files (pages, authors, category) is shared under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</a> license.
 
-Content in all other files (pages, authors, category) is shared under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</a> license.
+The license of all the custom plugins is LGPL 3.0+. Note, most of these plugin files were created with the specific needs of our project site in mind. If you intend to adapt or reuse them, you will likely need to modify them to your specfic requirements.
