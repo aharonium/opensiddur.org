@@ -1,0 +1,121 @@
+.customsocialsharing {
+    box-sizing: border-box;
+    margin: 18px auto;
+}
+
+.customsocialsharing a.button {
+    border: none;
+    border-radius: 0;
+    box-shadow: none;
+    color: #fff;
+    line-height: 1;
+    text-align: center;
+    text-decoration: none;
+    padding: 8px 12px;
+    margin: 5px; /* Add margin for spacing between buttons */
+}
+
+.customsocialsharing a.button:hover {
+    color: #fff;
+}
+
+.customsocialsharing .screen-reader-text {
+    position: absolute;
+    clip: rect(1px, 1px, 1px, 1px);
+    height: 1px;
+    width: 1px;
+    border: 0;
+    overflow: hidden;
+}
+
+.customsocialsharing-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left; /* Align buttons to the left */
+}
+
+.customsocialsharing-buttons .button {
+    flex: 0 1 auto; /* Prevent buttons from stretching */
+    max-width: 150px; /* Limit button width if needed */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid; /* Adjust as desired */
+    margin: 0; /* Ensure no additional margin */
+    padding: 0; /* Remove padding around buttons */
+}
+
+.customsocialsharing-buttons .button + .button {
+    margin-left: 1px; /* Add minimal spacing between buttons */
+}
+
+/* Optional: Tweak border-collapse look for adjacent buttons */
+.customsocialsharing-buttons .button {
+    border-right: none; /* Remove right border on all but the last button */
+}
+.customsocialsharing-buttons .button:last-of-type {
+    border-right: 1px solid; /* Restore right border for the last button */
+}
+
+
+.customsocialsharing .button.Pocket {
+    background-color: rgba(239, 64, 86, 0.8);
+}
+.customsocialsharing .button.Pocket:hover {
+    background-color: #ef4056;
+}
+
+.customsocialsharing .button.Reddit {
+    background-color: rgba(255, 69, 0, 0.8);
+}
+.customsocialsharing .button.Reddit:hover {
+    background-color: #ff4500;
+}
+
+.customsocialsharing .button.Facebook {
+    background-color: rgba(59, 89, 152, 0.8);
+}
+.customsocialsharing .button.Facebook:hover {
+    background-color: #3b5998;
+}
+
+.customsocialsharing .button.Bluesky {
+    background-color: rgba(51, 51, 204, 0.8);
+}
+.customsocialsharing .button.Bluesky:hover {
+    background-color: #3333a0;
+}
+
+.customsocialsharing .button.Telegram {
+    background-color: rgba(0, 136, 204, 0.8);
+}
+.customsocialsharing .button.Telegram:hover {
+    background-color: #0088a0;
+}
+
+.customsocialsharing .button.WhatsApp {
+    background-color: rgba(37, 211, 102, 0.8);
+}
+.customsocialsharing .button.WhatsApp:hover {
+    background-color: #25d366;
+}
+
+.customsocialsharing .button.SMS {
+    background-color: rgba(0, 153, 51, 0.8);
+}
+.customsocialsharing .button.SMS:hover {
+    background-color: #093;
+}
+
+.customsocialsharing .button.Email {
+    background-color: rgba(51, 51, 51, 0.8);
+}
+.customsocialsharing .button.Email:hover {
+    background-color: #333;
+}
+
+@media print {
+    .customsocialsharing {
+        display: none;
+    }
+}

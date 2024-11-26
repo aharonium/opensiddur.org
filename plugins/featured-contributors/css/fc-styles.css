@@ -1,0 +1,28 @@
+.featured-contributors-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start; /* Change from center to flex-start */
+    gap: 20px;
+}
+
+.featured-contributor {
+    text-align: left;
+    width: 100px;
+}
+
+.featured-contributor img {
+    /* border-radius: 50%; // Makes avatars round */ 
+    width: 100px; /* Add 'px' for proper sizing */
+    height: 100px; /* Add 'px' for proper sizing */
+    object-fit: cover;
+}
+
+.featured-contributor a {
+    text-decoration: none;
+    color: #333;
+    font-size: 14px;
+}
+
+.featured-contributor a:hover {
+    text-decoration: underline;
+}

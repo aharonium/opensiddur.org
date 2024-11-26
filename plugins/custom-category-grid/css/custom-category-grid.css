@@ -1,0 +1,41 @@
+/* Grid container styling */
+.ccg-custom-category-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px; /* Adjust as needed */
+    justify-content: flex-start;
+}
+
+
+/* SVG background container */
+.ccg-category-box::before {
+    /* content: ""; */ /* Dragons be lurking here. Keep this commented out. */
+    display: block;
+    width: 100%;
+    padding-top: 77.38%; /* Maintain SVG aspect ratio */
+    background: url('https://opensiddur.org/wp-content/uploads/2023/08/folder_icon_gray-1.svg') no-repeat center center;
+    background-size: cover;
+    background-color: #ffffff; /* Neutral fallback color */    
+    box-sizing: border-box;
+}
+
+/* Category image styling */
+.ccg-custom-category-image {
+    position: absolute;
+    bottom: 15px; /* Align image 15px from bottom of the SVG */
+    left: 50%; /* Horizontally center the image */
+    transform: translateX(-50%); /* Adjust alignment to center */
+    width: 80%; /* Adjust based on image size percentage */
+    height: auto;
+    object-fit: contain;
+}
+
+/* Category title styling */
+.ccg-category-title {
+    text-align: center;
+    font-size: 1.2rem;
+    line-height: 1.4;
+    margin-top: 5px;
+    width: 100%; /* Fit within the SVG width */
+    word-wrap: break-word; /* Prevent overflow issues */
+}

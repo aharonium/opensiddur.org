@@ -1,0 +1,19 @@
+.enhanced-category-description {
+    margin-top: 20px;
+}
+
+.category-main-content {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+
+.related-links {
+    margin-top: 10px;
+}
+
+.related-links-separator {
+    border: none;
+    border-top: 1px solid #ccc;
+    margin: 20px 0;
+}
