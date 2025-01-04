@@ -72,14 +72,12 @@
         },
         "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/",
         "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=1109",
-        "subcategory_count": 7,
+        "subcategory_count": 5,
         "subcategories": [
-            4342,
+            387,
             3853,
-            1130,
             841,
             764,
-            387,
             389
         ],
         "parent_id": 2647,
@@ -87,173 +85,6 @@
         "post_ids": [],
         "term_order": 1,
         "hierarchical_id": "1.1.1",
-        "ancestor_set_id": null
-    },
-    {
-        "name": "Birkhot haTorah",
-        "id": 4342,
-        "stub": "birkhot-hatorah",
-        "description": "",
-        "featured_image": {
-            "url": "",
-            "title": "",
-            "caption": ""
-        },
-        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/birkhot-hatorah\/",
-        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=4342",
-        "subcategory_count": 0,
-        "subcategories": [],
-        "parent_id": 1109,
-        "post_count": 4,
-        "post_ids": [
-            31384,
-            17284,
-            50993,
-            57553
-        ],
-        "term_order": 1,
-        "hierarchical_id": "1.1.1.1",
-        "ancestor_set_id": null
-    },
-    {
-        "name": "Barkhu",
-        "id": 3853,
-        "stub": "barkhu",
-        "description": "",
-        "featured_image": {
-            "url": "",
-            "title": "",
-            "caption": ""
-        },
-        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/barkhu\/",
-        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=3853",
-        "subcategory_count": 0,
-        "subcategories": [],
-        "parent_id": 1109,
-        "post_count": 3,
-        "post_ids": [
-            27246,
-            30099,
-            53870
-        ],
-        "term_order": 3,
-        "hierarchical_id": "1.1.1.3",
-        "ancestor_set_id": null
-    },
-    {
-        "name": "Shema",
-        "id": 1130,
-        "stub": "shema",
-        "description": "",
-        "featured_image": {
-            "url": "",
-            "title": "",
-            "caption": ""
-        },
-        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/shema\/",
-        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=1130",
-        "subcategory_count": 0,
-        "subcategories": [],
-        "parent_id": 1109,
-        "post_count": 13,
-        "post_ids": [
-            57637,
-            52255,
-            51907,
-            31930,
-            35700,
-            54786,
-            5424,
-            20907,
-            3580,
-            51208,
-            16381,
-            10563,
-            2520
-        ],
-        "term_order": 4,
-        "hierarchical_id": "1.1.1.4",
-        "ancestor_set_id": null
-    },
-    {
-        "name": "Aleinu",
-        "id": 841,
-        "stub": "aleinu",
-        "description": "",
-        "featured_image": {
-            "url": "",
-            "title": "",
-            "caption": ""
-        },
-        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/aleinu\/",
-        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=841",
-        "subcategory_count": 0,
-        "subcategories": [],
-        "parent_id": 1109,
-        "post_count": 14,
-        "post_ids": [
-            46285,
-            35658,
-            8463,
-            7723,
-            7692,
-            20891,
-            53870,
-            35328,
-            38501,
-            28269,
-            48214,
-            40597,
-            44222,
-            35451
-        ],
-        "term_order": 5,
-        "hierarchical_id": "1.1.1.5",
-        "ancestor_set_id": null
-    },
-    {
-        "name": "Ḳaddish",
-        "id": 764,
-        "stub": "kaddish",
-        "description": "",
-        "featured_image": {
-            "url": "",
-            "title": "",
-            "caption": ""
-        },
-        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/kaddish\/",
-        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=764",
-        "subcategory_count": 0,
-        "subcategories": [],
-        "parent_id": 1109,
-        "post_count": 23,
-        "post_ids": [
-            51815,
-            51818,
-            38408,
-            38483,
-            27234,
-            26407,
-            21656,
-            35922,
-            6613,
-            3161,
-            3165,
-            261,
-            2557,
-            38494,
-            38428,
-            7547,
-            38383,
-            30274,
-            20304,
-            30978,
-            57526,
-            15634,
-            7680
-        ],
-        "term_order": 6,
-        "hierarchical_id": "1.1.1.6",
         "ancestor_set_id": null
     },
     {
@@ -268,18 +99,15 @@
         },
         "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/daytime\/",
         "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=387",
-        "subcategory_count": 17,
+        "subcategory_count": 14,
         "subcategories": [
             1630,
             4268,
-            3251,
+            4342,
             6683,
             3034,
-            4851,
-            2877,
-            4247,
-            4246,
-            4719,
+            6704,
+            1134,
             1461,
             3855,
             1655,
@@ -291,15 +119,15 @@
         "parent_id": 1109,
         "post_count": 0,
         "post_ids": [],
-        "term_order": 7,
-        "hierarchical_id": "1.1.1.7",
+        "term_order": 1,
+        "hierarchical_id": "1.1.1.1",
         "ancestor_set_id": null
     },
     {
         "name": "Birkhot haShaḥar",
         "id": 1630,
         "stub": "birkhot-hashahar",
-        "description": "",
+        "description": "The first order of prayers, the <span class=\"hebrew\">ברכות השחר<\/span> <em>birkhot hashaḥar<\/em> (\"morning blessings\"), is arranged for private or personal recital upon waking. These are all repeated in the public or communal <span class=\"hebrew\">שחרית<\/span> <em>shaḥarit<\/em> (morning) services in the synagogue, but they are clearly intended for private use in helping to structure one's morning routine as one attains greater degrees of wakefulness and preparedness to engage the wider world. The birkhot hashaḥar begin with a short prayer after becoming aware that one is awake, then a ritual washing of one's hands, appreciating how one's body manages crucial activities, eliminating waste and breathing, without much or any conscious effort, and then a litany of other very fundamental aspects of living one should never take for granted. The morning blessings end with the washing of one's face as instructed in the Talmud Berakhot 60b.6, where many of the other blessings here are derived. (We'll note that on one day of the year, Yom Kippur, face-washing is restricted to kings and queens who cannot otherwise abandon their role as diplomatic representatives of the people.)",
         "featured_image": {
             "url": "",
             "title": "",
@@ -307,53 +135,257 @@
         },
         "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/daytime\/birkhot-hashahar\/",
         "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=1630",
+        "subcategory_count": 7,
+        "subcategories": [
+            6685,
+            6692,
+            6686,
+            6687,
+            6706,
+            6691,
+            6690
+        ],
+        "parent_id": 387,
+        "post_count": 0,
+        "post_ids": [],
+        "term_order": 1,
+        "hierarchical_id": "1.1.1.1.1",
+        "ancestor_set_id": null
+    },
+    {
+        "name": "Attaining consciousness",
+        "id": 6685,
+        "stub": "self-awareness",
+        "description": "",
+        "featured_image": {
+            "url": "",
+            "title": "",
+            "caption": ""
+        },
+        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/daytime\/birkhot-hashahar\/self-awareness\/",
+        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=6685",
         "subcategory_count": 0,
         "subcategories": [],
-        "parent_id": 387,
-        "post_count": 39,
+        "parent_id": 1630,
+        "post_count": 5,
         "post_ids": [
-            51944,
-            41730,
-            32585,
-            31380,
-            31371,
-            31352,
-            31384,
-            31386,
-            10348,
-            3393,
             4211,
             4220,
-            20929,
+            50341,
+            5924,
+            29385
+        ],
+        "term_order": 1,
+        "hierarchical_id": "1.1.1.1.1.1",
+        "ancestor_set_id": null
+    },
+    {
+        "name": "Preparing one's hands",
+        "id": 6692,
+        "stub": "hand-washing",
+        "description": "",
+        "featured_image": {
+            "url": "",
+            "title": "",
+            "caption": ""
+        },
+        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/daytime\/birkhot-hashahar\/hand-washing\/",
+        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=6692",
+        "subcategory_count": 0,
+        "subcategories": [],
+        "parent_id": 1630,
+        "post_count": 2,
+        "post_ids": [
+            51597,
+            58975
+        ],
+        "term_order": 2,
+        "hierarchical_id": "1.1.1.1.1.2",
+        "ancestor_set_id": null
+    },
+    {
+        "name": "Asher Yatsar",
+        "id": 6686,
+        "stub": "asher-yatsar",
+        "description": "",
+        "featured_image": {
+            "url": "",
+            "title": "",
+            "caption": ""
+        },
+        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/daytime\/birkhot-hashahar\/asher-yatsar\/",
+        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=6686",
+        "subcategory_count": 0,
+        "subcategories": [],
+        "parent_id": 1630,
+        "post_count": 4,
+        "post_ids": [
+            41730,
+            31371,
+            10348,
+            17029
+        ],
+        "term_order": 3,
+        "hierarchical_id": "1.1.1.1.1.3",
+        "ancestor_set_id": null
+    },
+    {
+        "name": "Elohai Neshamah",
+        "id": 6687,
+        "stub": "elohai-neshamah",
+        "description": "",
+        "featured_image": {
+            "url": "",
+            "title": "",
+            "caption": ""
+        },
+        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/daytime\/birkhot-hashahar\/elohai-neshamah\/",
+        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=6687",
+        "subcategory_count": 0,
+        "subcategories": [],
+        "parent_id": 1630,
+        "post_count": 6,
+        "post_ids": [
+            31380,
             17309,
-            17029,
             33222,
+            36146,
+            38751,
+            59002
+        ],
+        "term_order": 4,
+        "hierarchical_id": "1.1.1.1.1.4",
+        "ancestor_set_id": null
+    },
+    {
+        "name": "Berakhot Havanah Atsmit",
+        "id": 6706,
+        "stub": "berakhot-havanah-atsmit",
+        "description": "This following litany of blessings combines two separate rabbinic traditions, one which is recorded in Berakhot 60b.5 and another found in the Tosefta Berakhot 6.23. In his siddur, <em>Tehillat Hashem Yedaber Pi<\/em>, Reb Zalman helpfully distinguished them as the Berakhot sheNatani (\"blessings you gave me\") and the Berakhot she'Asani (\"blessings that made me\"). Grouped together, they are often simply referred to under the same name as the entire arrangement of morning preparations -- the birkhot ha-shaḥar. I distinguish them from the earlier blessings (<em>netilat yadayim<\/em>, <em>asher yatsar<\/em>, and <em>elohai neshamah<\/em>) by referring to them as <span class=\"hebrew\">בְּרָכוֹת הֲבָנָה עַצְמִית<\/span> the Berakhot Haḇanah Atsmit (\"blessings of self-understanding\" or self-structuring), as each of the blessing reflects a gradual awareness of one's attendant state -- an appreciation of one's new status in contrast to one's prior status: unconscious\/conscious, unclothed\/clothed, etc. In the siddur, <em>Mishkan T'filah<\/em>, these blessings are collectively referred to under the title, <span class=\"hebrew\">ניסים בכל יום<\/span> <em>Nissim b-Khol Yom<\/em> (\"Daily Miracles\"). (If you refer to these blessings under another title, please <a href=\"\/contact\/\">let us know<\/a>.) --Aharon Varady",
+        "featured_image": {
+            "url": "",
+            "title": "",
+            "caption": ""
+        },
+        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/daytime\/birkhot-hashahar\/berakhot-havanah-atsmit\/",
+        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=6706",
+        "subcategory_count": 2,
+        "subcategories": [
+            6688,
+            6689
+        ],
+        "parent_id": 1630,
+        "post_count": 0,
+        "post_ids": [],
+        "term_order": 5,
+        "hierarchical_id": "1.1.1.1.1.5",
+        "ancestor_set_id": null
+    },
+    {
+        "name": "Berakhot sheNatani",
+        "id": 6688,
+        "stub": "berakhot-shenatani",
+        "description": "These blessings (except for one) all derive from Berakhot 60b.5. ",
+        "featured_image": {
+            "url": "",
+            "title": "",
+            "caption": ""
+        },
+        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/daytime\/birkhot-hashahar\/berakhot-havanah-atsmit\/berakhot-shenatani\/",
+        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=6688",
+        "subcategory_count": 0,
+        "subcategories": [],
+        "parent_id": 6706,
+        "post_count": 3,
+        "post_ids": [
+            32585,
+            31352,
+            20929
+        ],
+        "term_order": 1,
+        "hierarchical_id": "1.1.1.1.1.5.1",
+        "ancestor_set_id": null
+    },
+    {
+        "name": "Berakhot she'Asani",
+        "id": 6689,
+        "stub": "berakhot-sheasani",
+        "description": "These blessings all derive from Rebbe Yehudah’s statement in Tosefta Berakhot 6.23 and Rebbe Meir’s statement in Menachot 43b.17. ",
+        "featured_image": {
+            "url": "",
+            "title": "",
+            "caption": ""
+        },
+        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/daytime\/birkhot-hashahar\/berakhot-havanah-atsmit\/berakhot-sheasani\/",
+        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=6689",
+        "subcategory_count": 0,
+        "subcategories": [],
+        "parent_id": 6706,
+        "post_count": 2,
+        "post_ids": [
+            58965,
+            39363
+        ],
+        "term_order": 2,
+        "hierarchical_id": "1.1.1.1.1.5.2",
+        "ancestor_set_id": null
+    },
+    {
+        "name": "Preparing one's face",
+        "id": 6691,
+        "stub": "face-washing",
+        "description": "The Talmud Bavli (Berakhot 60b.6) provides a formula upon washing one's face. This prayer completes the arrangement of prayers and blessings offered for the private Birkhot haShaḥar. ",
+        "featured_image": {
+            "url": "",
+            "title": "",
+            "caption": ""
+        },
+        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/daytime\/birkhot-hashahar\/face-washing\/",
+        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=6691",
+        "subcategory_count": 0,
+        "subcategories": [],
+        "parent_id": 1630,
+        "post_count": 1,
+        "post_ids": [
+            58955
+        ],
+        "term_order": 6,
+        "hierarchical_id": "1.1.1.1.1.6",
+        "ancestor_set_id": null
+    },
+    {
+        "name": "Additional Morning Prayers",
+        "id": 6690,
+        "stub": "additional-morning-prayers",
+        "description": "This is an archive of additional prayers written for, or relevant to, the experience of waking up and preparing oneself for the rest of the day.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers and declarations added onto the Shaḥarit service, <a href=\"\/index.php?cat=5590\">go here<\/a>. \r\n\r\nFor the \"Baqashot\" -- piyyutim and hymns sung at the outset of the Shaḥarit service, <a href=\"\/index.php?cat=4268\">go here<\/a>. ",
+        "featured_image": {
+            "url": "",
+            "title": "",
+            "caption": ""
+        },
+        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/daytime\/birkhot-hashahar\/additional-morning-prayers\/",
+        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=6690",
+        "subcategory_count": 0,
+        "subcategories": [],
+        "parent_id": 1630,
+        "post_count": 13,
+        "post_ids": [
+            51944,
             31542,
             50236,
             50224,
             14126,
-            50341,
-            36146,
-            38751,
-            50678,
             31948,
             31987,
-            32707,
-            40176,
             50989,
             51075,
             44246,
             44264,
             44269,
-            44256,
-            18441,
-            5924,
-            29385,
-            39363,
-            10950
+            44256
         ],
-        "term_order": 1,
-        "hierarchical_id": "1.1.1.7.1",
+        "term_order": 7,
+        "hierarchical_id": "1.1.1.1.1.7",
         "ancestor_set_id": null
     },
     {
@@ -371,7 +403,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 387,
-        "post_count": 85,
+        "post_count": 87,
         "post_ids": [
             51825,
             52598,
@@ -388,6 +420,7 @@
             51229,
             39987,
             39542,
+            40176,
             39979,
             39684,
             39546,
@@ -457,35 +490,38 @@
             39123,
             41965,
             30676,
-            37697
+            37697,
+            10950
         ],
         "term_order": 2,
-        "hierarchical_id": "1.1.1.7.2",
+        "hierarchical_id": "1.1.1.1.2",
         "ancestor_set_id": null
     },
     {
-        "name": "Tefillin",
-        "id": 3251,
-        "stub": "tefillin",
+        "name": "Birkhot haTorah",
+        "id": 4342,
+        "stub": "birkhot-hatorah",
         "description": "",
         "featured_image": {
             "url": "",
             "title": "",
             "caption": ""
         },
-        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/daytime\/tefillin\/",
-        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=3251",
+        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/daytime\/birkhot-hatorah\/",
+        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=4342",
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 387,
-        "post_count": 3,
+        "post_count": 5,
         "post_ids": [
-            23477,
-            48785,
-            22870
+            31384,
+            3393,
+            17284,
+            50993,
+            57553
         ],
         "term_order": 3,
-        "hierarchical_id": "1.1.1.7.3",
+        "hierarchical_id": "1.1.1.1.3",
         "ancestor_set_id": null
     },
     {
@@ -494,31 +530,157 @@
         "stub": "qorbanot",
         "description": "A preliminary or prefatory introduction to the Morning Service is a section that underscores the rabbinic Jewish concept that prayer (the offering of our lips) is a valid and legitimate surrogate for the animal sacrifices and other offerings no longer possible in the age following the Temple's destruction. The section begins with the story of the offering by Avraham of his son, Yitsḥaq, emphasizing a lineage founded in self-sacrifice. That reading is followed by a prayer that further humbles anthropocentric self-regard as vain and fleeting, on par with the lives of the creatures slaughtered as surrogates in the Temple service. It then continues with readings of the offerings, first of incense and then of the animals offered daily. A further prayer clearly lays out the rabbinic Jewish case for substituting prayer for animal sacrifice based on Hosea 14:3. Perhaps highlighting this innovation, the entire section concludes with a review of the exegetical tools by which rabbinic Judaism derives normative Jewish law (<em>halakhah<\/em>) from Torah.\r\n\r\n<hr \/>",
         "featured_image": {
+            "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2024\/11\/red-cows-face-close-up-rawpixel.jpg",
+            "title": "Red cow&#8217;s face close-up (Rawpixel)",
+            "caption": "<a href=\"https:\/\/www.rawpixel.com\/image\/6038998\/photo-image-face-public-domain-nature\">The lips of a red cow<\/a> (credit: n\/a, license: CC 0)"
+        },
+        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/daytime\/qorbanot\/",
+        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=6683",
+        "subcategory_count": 5,
+        "subcategories": [
+            6708,
+            6709,
+            6710,
+            6711,
+            6712
+        ],
+        "parent_id": 387,
+        "post_count": 4,
+        "post_ids": [
+            32707,
+            40061,
+            16541,
+            58895
+        ],
+        "term_order": 4,
+        "hierarchical_id": "1.1.1.1.4",
+        "ancestor_set_id": null
+    },
+    {
+        "name": "Aqédat Yitsḥaq",
+        "id": 6708,
+        "stub": "aqedat-yitshaq",
+        "description": "The Qorbanot section of preparatory prayers begins the archetypal tale of an early more journey and sacrificial offering -- the <span class=\"hebrew\">עֲקֵדַת יִצְחָק<\/span> binding of Yitsḥaq (Isaac) by his father as attested in Genesis 22:1-19. The liturgical reading of the Aqedah is bookended by a couple of prayers. In the custom of Sefarad, a handful of biblical verses are offered in support of these prayers.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor the backstory of Isaac in Parashat Vayera, <a href=\"\/index.php?cat=3164\">go here<\/a>.",
+        "featured_image": {
+            "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2020\/09\/768px-Donkeys_ear.jpg",
+            "title": "768px-Donkey&#8217;s_ear",
+            "caption": "<a href=\"https:\/\/commons.wikimedia.org\/wiki\/File:Donkey%27s_ear.jpeg\">Donkey's Ear<\/a> (credit: Håkan Dahlström,  license: CC BY)"
+        },
+        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/daytime\/qorbanot\/aqedat-yitshaq\/",
+        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=6708",
+        "subcategory_count": 0,
+        "subcategories": [],
+        "parent_id": 6683,
+        "post_count": 4,
+        "post_ids": [
+            8452,
+            40411,
+            59022,
+            59041
+        ],
+        "term_order": 1,
+        "hierarchical_id": "1.1.1.1.4.1",
+        "ancestor_set_id": null
+    },
+    {
+        "name": "Mah anu",
+        "id": 6709,
+        "stub": "mah-anu",
+        "description": "",
+        "featured_image": {
             "url": "",
             "title": "",
             "caption": ""
         },
-        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/daytime\/qorbanot\/",
-        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=6683",
+        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/daytime\/qorbanot\/mah-anu\/",
+        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=6709",
         "subcategory_count": 0,
         "subcategories": [],
-        "parent_id": 387,
-        "post_count": 7,
+        "parent_id": 6683,
+        "post_count": 3,
         "post_ids": [
-            58895,
-            39790,
-            8452,
-            40411,
-            40061,
-            16541,
-            32573
+            31386,
+            32707,
+            16541
         ],
-        "term_order": 4,
-        "hierarchical_id": "1.1.1.7.4",
+        "term_order": 2,
+        "hierarchical_id": "1.1.1.1.4.2",
         "ancestor_set_id": null
     },
     {
-        "name": "Psukei D'zimrah\/Zemirot",
+        "name": "Incense and other Offerings",
+        "id": 6710,
+        "stub": "incense-offerings",
+        "description": "",
+        "featured_image": {
+            "url": "",
+            "title": "",
+            "caption": ""
+        },
+        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/daytime\/qorbanot\/incense-offerings\/",
+        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=6710",
+        "subcategory_count": 0,
+        "subcategories": [],
+        "parent_id": 6683,
+        "post_count": 2,
+        "post_ids": [
+            40061,
+            58895
+        ],
+        "term_order": 3,
+        "hierarchical_id": "1.1.1.1.4.3",
+        "ancestor_set_id": null
+    },
+    {
+        "name": "Exegetical Rules",
+        "id": 6711,
+        "stub": "exegetical-rules",
+        "description": "",
+        "featured_image": {
+            "url": "",
+            "title": "",
+            "caption": ""
+        },
+        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/daytime\/qorbanot\/exegetical-rules\/",
+        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=6711",
+        "subcategory_count": 0,
+        "subcategories": [],
+        "parent_id": 6683,
+        "post_count": 1,
+        "post_ids": [
+            32573
+        ],
+        "term_order": 4,
+        "hierarchical_id": "1.1.1.1.4.4",
+        "ancestor_set_id": null
+    },
+    {
+        "name": "Additional Preparatory Prayers",
+        "id": 6712,
+        "stub": "additional-preparatory-prayers",
+        "description": "",
+        "featured_image": {
+            "url": "",
+            "title": "",
+            "caption": ""
+        },
+        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/daytime\/qorbanot\/additional-preparatory-prayers\/",
+        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=6712",
+        "subcategory_count": 0,
+        "subcategories": [],
+        "parent_id": 6683,
+        "post_count": 3,
+        "post_ids": [
+            12374,
+            53418,
+            18441
+        ],
+        "term_order": 5,
+        "hierarchical_id": "1.1.1.1.4.5",
+        "ancestor_set_id": null
+    },
+    {
+        "name": "◆ Psukei D'zimrah\/Zemirot",
         "id": 3034,
         "stub": "psukei-dzimrah",
         "description": "",
@@ -529,40 +691,44 @@
         },
         "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/daytime\/psukei-dzimrah\/",
         "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=3034",
+        "subcategory_count": 5,
+        "subcategories": [
+            6693,
+            4851,
+            6721,
+            6702,
+            6701
+        ],
+        "parent_id": 387,
+        "post_count": 0,
+        "post_ids": [],
+        "term_order": 5,
+        "hierarchical_id": "1.1.1.1.5",
+        "ancestor_set_id": null
+    },
+    {
+        "name": "Barukh she’Amar",
+        "id": 6693,
+        "stub": "barukh-sheamar",
+        "description": "",
+        "featured_image": {
+            "url": "",
+            "title": "",
+            "caption": ""
+        },
+        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/daytime\/psukei-dzimrah\/barukh-sheamar\/",
+        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=6693",
         "subcategory_count": 0,
         "subcategories": [],
-        "parent_id": 387,
-        "post_count": 25,
+        "parent_id": 3034,
+        "post_count": 2,
         "post_ids": [
-            51810,
-            35674,
             35668,
-            18119,
-            17825,
-            21013,
-            21001,
-            21023,
-            36435,
-            25627,
-            28806,
-            30240,
-            16515,
-            20948,
-            20962,
-            20969,
-            38178,
-            20977,
-            25631,
-            20984,
-            20989,
-            23673,
-            25633,
-            21008,
-            6587
+            17825
         ],
-        "term_order": 5,
-        "hierarchical_id": "1.1.1.7.5",
-        "ancestor_set_id": null
+        "term_order": 1,
+        "hierarchical_id": "1.1.1.1.5.1",
+        "ancestor_set_id": 3034
     },
     {
         "name": "Daily Hallel",
@@ -574,32 +740,48 @@
             "title": "",
             "caption": ""
         },
-        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/daytime\/daily-hallel\/",
+        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/daytime\/psukei-dzimrah\/daily-hallel\/",
         "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=4851",
+        "subcategory_count": 8,
+        "subcategories": [
+            6694,
+            2877,
+            6695,
+            6696,
+            6697,
+            6698,
+            6699,
+            6703
+        ],
+        "parent_id": 3034,
+        "post_count": 0,
+        "post_ids": [],
+        "term_order": 2,
+        "hierarchical_id": "1.1.1.1.5.2",
+        "ancestor_set_id": null
+    },
+    {
+        "name": "Yehi Kh’vod",
+        "id": 6694,
+        "stub": "yehi-khvod",
+        "description": "",
+        "featured_image": {
+            "url": "",
+            "title": "",
+            "caption": ""
+        },
+        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/daytime\/psukei-dzimrah\/daily-hallel\/yehi-khvod\/",
+        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=6694",
         "subcategory_count": 0,
         "subcategories": [],
-        "parent_id": 387,
-        "post_count": 15,
+        "parent_id": 4851,
+        "post_count": 1,
         "post_ids": [
-            35674,
-            25627,
-            28806,
-            30240,
-            16515,
-            20948,
-            20962,
-            20969,
-            38178,
-            20977,
-            25631,
-            20984,
-            20989,
-            23673,
-            25633
+            18119
         ],
-        "term_order": 6,
-        "hierarchical_id": "1.1.1.7.6",
-        "ancestor_set_id": null
+        "term_order": 1,
+        "hierarchical_id": "1.1.1.1.5.2.1",
+        "ancestor_set_id": 3034
     },
     {
         "name": "Ashrei",
@@ -611,11 +793,11 @@
             "title": "",
             "caption": ""
         },
-        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/daytime\/ashrei\/",
+        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/daytime\/psukei-dzimrah\/daily-hallel\/ashrei\/",
         "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=2877",
         "subcategory_count": 0,
         "subcategories": [],
-        "parent_id": 387,
+        "parent_id": 4851,
         "post_count": 6,
         "post_ids": [
             35674,
@@ -625,8 +807,250 @@
             16515,
             20948
         ],
+        "term_order": 2,
+        "hierarchical_id": "1.1.1.1.5.2.2",
+        "ancestor_set_id": 3034
+    },
+    {
+        "name": "Psalms 146",
+        "id": 6695,
+        "stub": "psalms-146",
+        "description": "",
+        "featured_image": {
+            "url": "",
+            "title": "",
+            "caption": ""
+        },
+        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/daytime\/psukei-dzimrah\/daily-hallel\/psalms-146\/",
+        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=6695",
+        "subcategory_count": 0,
+        "subcategories": [],
+        "parent_id": 4851,
+        "post_count": 1,
+        "post_ids": [
+            20962
+        ],
+        "term_order": 3,
+        "hierarchical_id": "1.1.1.1.5.2.3",
+        "ancestor_set_id": 3034
+    },
+    {
+        "name": "Psalms 147",
+        "id": 6696,
+        "stub": "psalms-147",
+        "description": "",
+        "featured_image": {
+            "url": "",
+            "title": "",
+            "caption": ""
+        },
+        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/daytime\/psukei-dzimrah\/daily-hallel\/psalms-147\/",
+        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=6696",
+        "subcategory_count": 0,
+        "subcategories": [],
+        "parent_id": 4851,
+        "post_count": 1,
+        "post_ids": [
+            20969
+        ],
+        "term_order": 4,
+        "hierarchical_id": "1.1.1.1.5.2.4",
+        "ancestor_set_id": 3034
+    },
+    {
+        "name": "Psalms 148",
+        "id": 6697,
+        "stub": "psalms-148",
+        "description": "",
+        "featured_image": {
+            "url": "",
+            "title": "",
+            "caption": ""
+        },
+        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/daytime\/psukei-dzimrah\/daily-hallel\/psalms-148\/",
+        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=6697",
+        "subcategory_count": 0,
+        "subcategories": [],
+        "parent_id": 4851,
+        "post_count": 2,
+        "post_ids": [
+            38178,
+            20977
+        ],
+        "term_order": 5,
+        "hierarchical_id": "1.1.1.1.5.2.5",
+        "ancestor_set_id": 3034
+    },
+    {
+        "name": "Psalms 149",
+        "id": 6698,
+        "stub": "psalms-149",
+        "description": "",
+        "featured_image": {
+            "url": "",
+            "title": "",
+            "caption": ""
+        },
+        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/daytime\/psukei-dzimrah\/daily-hallel\/psalms-149\/",
+        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=6698",
+        "subcategory_count": 0,
+        "subcategories": [],
+        "parent_id": 4851,
+        "post_count": 2,
+        "post_ids": [
+            25631,
+            20984
+        ],
+        "term_order": 6,
+        "hierarchical_id": "1.1.1.1.5.2.6",
+        "ancestor_set_id": 3034
+    },
+    {
+        "name": "Psalms 150",
+        "id": 6699,
+        "stub": "psalms-150",
+        "description": "",
+        "featured_image": {
+            "url": "",
+            "title": "",
+            "caption": ""
+        },
+        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/daytime\/psukei-dzimrah\/daily-hallel\/psalms-150\/",
+        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=6699",
+        "subcategory_count": 0,
+        "subcategories": [],
+        "parent_id": 4851,
+        "post_count": 3,
+        "post_ids": [
+            20989,
+            23673,
+            25633
+        ],
         "term_order": 7,
-        "hierarchical_id": "1.1.1.7.7",
+        "hierarchical_id": "1.1.1.1.5.2.7",
+        "ancestor_set_id": 3034
+    },
+    {
+        "name": "Barukh Hashem l’Olam",
+        "id": 6703,
+        "stub": "barukh-yhvh-lolam",
+        "description": "",
+        "featured_image": {
+            "url": "",
+            "title": "",
+            "caption": ""
+        },
+        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/daytime\/psukei-dzimrah\/daily-hallel\/barukh-yhvh-lolam\/",
+        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=6703",
+        "subcategory_count": 0,
+        "subcategories": [],
+        "parent_id": 4851,
+        "post_count": 1,
+        "post_ids": [
+            21001
+        ],
+        "term_order": 8,
+        "hierarchical_id": "1.1.1.1.5.2.8",
+        "ancestor_set_id": 3034
+    },
+    {
+        "name": "Vayivarekh David",
+        "id": 6721,
+        "stub": "vayivarekh-david",
+        "description": "",
+        "featured_image": {
+            "url": "",
+            "title": "",
+            "caption": ""
+        },
+        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/daytime\/psukei-dzimrah\/vayivarekh-david\/",
+        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=6721",
+        "subcategory_count": 0,
+        "subcategories": [],
+        "parent_id": 3034,
+        "post_count": 1,
+        "post_ids": [
+            21008
+        ],
+        "term_order": 3,
+        "hierarchical_id": "1.1.1.1.5.3",
+        "ancestor_set_id": 3034
+    },
+    {
+        "name": "Shirat ha-Yam",
+        "id": 6702,
+        "stub": "shirat-hayam",
+        "description": "",
+        "featured_image": {
+            "url": "",
+            "title": "",
+            "caption": ""
+        },
+        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/daytime\/psukei-dzimrah\/shirat-hayam\/",
+        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=6702",
+        "subcategory_count": 0,
+        "subcategories": [],
+        "parent_id": 3034,
+        "post_count": 4,
+        "post_ids": [
+            59458,
+            21013,
+            57111,
+            6587
+        ],
+        "term_order": 4,
+        "hierarchical_id": "1.1.1.1.5.4",
+        "ancestor_set_id": 3034
+    },
+    {
+        "name": "Yishtabaḥ Shimkha",
+        "id": 6701,
+        "stub": "yishtabah-shimkha",
+        "description": "",
+        "featured_image": {
+            "url": "",
+            "title": "",
+            "caption": ""
+        },
+        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/daytime\/psukei-dzimrah\/yishtabah-shimkha\/",
+        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=6701",
+        "subcategory_count": 0,
+        "subcategories": [],
+        "parent_id": 3034,
+        "post_count": 3,
+        "post_ids": [
+            51810,
+            21023,
+            36435
+        ],
+        "term_order": 5,
+        "hierarchical_id": "1.1.1.1.5.5",
+        "ancestor_set_id": 3034
+    },
+    {
+        "name": "Morning Shema",
+        "id": 6704,
+        "stub": "morning-shema",
+        "description": "",
+        "featured_image": {
+            "url": "",
+            "title": "",
+            "caption": ""
+        },
+        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/daytime\/morning-shema\/",
+        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=6704",
+        "subcategory_count": 4,
+        "subcategories": [
+            4247,
+            4246,
+            1130,
+            4719
+        ],
+        "parent_id": 387,
+        "post_count": 0,
+        "post_ids": [],
+        "term_order": 6,
+        "hierarchical_id": "1.1.1.1.6",
         "ancestor_set_id": null
     },
     {
@@ -639,11 +1063,11 @@
             "title": "",
             "caption": ""
         },
-        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/daytime\/yotser-ohr\/",
+        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/daytime\/morning-shema\/yotser-ohr\/",
         "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=4247",
         "subcategory_count": 0,
         "subcategories": [],
-        "parent_id": 387,
+        "parent_id": 6704,
         "post_count": 16,
         "post_ids": [
             51865,
@@ -663,8 +1087,8 @@
             37708,
             38197
         ],
-        "term_order": 9,
-        "hierarchical_id": "1.1.1.7.9",
+        "term_order": 1,
+        "hierarchical_id": "1.1.1.1.6.1",
         "ancestor_set_id": null
     },
     {
@@ -677,11 +1101,11 @@
             "title": "",
             "caption": ""
         },
-        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/daytime\/birkat-ahavah\/",
+        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/daytime\/morning-shema\/birkat-ahavah\/",
         "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=4246",
         "subcategory_count": 0,
         "subcategories": [],
-        "parent_id": 387,
+        "parent_id": 6704,
         "post_count": 6,
         "post_ids": [
             51902,
@@ -691,8 +1115,43 @@
             53870,
             58250
         ],
-        "term_order": 10,
-        "hierarchical_id": "1.1.1.7.10",
+        "term_order": 2,
+        "hierarchical_id": "1.1.1.1.6.2",
+        "ancestor_set_id": null
+    },
+    {
+        "name": "the Shema",
+        "id": 1130,
+        "stub": "shema",
+        "description": "",
+        "featured_image": {
+            "url": "",
+            "title": "",
+            "caption": ""
+        },
+        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/daytime\/morning-shema\/shema\/",
+        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=1130",
+        "subcategory_count": 0,
+        "subcategories": [],
+        "parent_id": 6704,
+        "post_count": 13,
+        "post_ids": [
+            57637,
+            52255,
+            51907,
+            31930,
+            35700,
+            54786,
+            5424,
+            20907,
+            3580,
+            51208,
+            16381,
+            10563,
+            2520
+        ],
+        "term_order": 3,
+        "hierarchical_id": "1.1.1.1.6.3",
         "ancestor_set_id": null
     },
     {
@@ -705,32 +1164,75 @@
             "title": "",
             "caption": ""
         },
-        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/daytime\/birkat-gaal-yisrael-shaharit\/",
+        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/daytime\/morning-shema\/birkat-gaal-yisrael-shaharit\/",
         "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=4719",
         "subcategory_count": 0,
         "subcategories": [],
-        "parent_id": 387,
+        "parent_id": 6704,
         "post_count": 3,
         "post_ids": [
             51915,
             51919,
             35705
         ],
-        "term_order": 11,
-        "hierarchical_id": "1.1.1.7.11",
+        "term_order": 4,
+        "hierarchical_id": "1.1.1.1.6.4",
         "ancestor_set_id": null
     },
     {
-        "name": "Ḳedushah",
-        "id": 1461,
-        "stub": "kedushah",
+        "name": "Weekday Amidah",
+        "id": 1134,
+        "stub": "amidah-weekday",
         "description": "",
         "featured_image": {
             "url": "",
             "title": "",
             "caption": ""
         },
-        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/daytime\/kedushah\/",
+        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/daytime\/amidah-weekday\/",
+        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=1134",
+        "subcategory_count": 0,
+        "subcategories": [],
+        "parent_id": 387,
+        "post_count": 21,
+        "post_ids": [
+            57679,
+            51957,
+            32619,
+            32656,
+            32666,
+            35719,
+            13338,
+            5563,
+            5060,
+            21089,
+            30340,
+            21107,
+            859,
+            14361,
+            48756,
+            48761,
+            36210,
+            46044,
+            16303,
+            57869,
+            20304
+        ],
+        "term_order": 7,
+        "hierarchical_id": "1.1.1.1.7",
+        "ancestor_set_id": null
+    },
+    {
+        "name": "Qedushah",
+        "id": 1461,
+        "stub": "qedushah",
+        "description": "",
+        "featured_image": {
+            "url": "",
+            "title": "",
+            "caption": ""
+        },
+        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/daytime\/qedushah\/",
         "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=1461",
         "subcategory_count": 0,
         "subcategories": [],
@@ -740,8 +1242,8 @@
             41261,
             7047
         ],
-        "term_order": 12,
-        "hierarchical_id": "1.1.1.7.12",
+        "term_order": 8,
+        "hierarchical_id": "1.1.1.1.8",
         "ancestor_set_id": null
     },
     {
@@ -763,8 +1265,8 @@
         "post_ids": [
             27249
         ],
-        "term_order": 13,
-        "hierarchical_id": "1.1.1.7.13",
+        "term_order": 9,
+        "hierarchical_id": "1.1.1.1.9",
         "ancestor_set_id": null
     },
     {
@@ -788,8 +1290,8 @@
             5815,
             48242
         ],
-        "term_order": 14,
-        "hierarchical_id": "1.1.1.7.14",
+        "term_order": 10,
+        "hierarchical_id": "1.1.1.1.10",
         "ancestor_set_id": null
     },
     {
@@ -829,8 +1331,8 @@
             20866,
             20883
         ],
-        "term_order": 15,
-        "hierarchical_id": "1.1.1.7.15",
+        "term_order": 11,
+        "hierarchical_id": "1.1.1.1.11",
         "ancestor_set_id": null
     },
     {
@@ -850,7 +1352,6 @@
         "parent_id": 387,
         "post_count": 34,
         "post_ids": [
-            58873,
             53388,
             45494,
             44362,
@@ -883,10 +1384,11 @@
             22804,
             5258,
             51282,
-            35560
+            35560,
+            58873
         ],
-        "term_order": 16,
-        "hierarchical_id": "1.1.1.7.16",
+        "term_order": 12,
+        "hierarchical_id": "1.1.1.1.12",
         "ancestor_set_id": null
     },
     {
@@ -909,8 +1411,8 @@
             23440,
             29034
         ],
-        "term_order": 17,
-        "hierarchical_id": "1.1.1.7.17",
+        "term_order": 13,
+        "hierarchical_id": "1.1.1.1.13",
         "ancestor_set_id": null
     },
     {
@@ -938,8 +1440,114 @@
             16137,
             16119
         ],
-        "term_order": 18,
-        "hierarchical_id": "1.1.1.7.18",
+        "term_order": 14,
+        "hierarchical_id": "1.1.1.1.14",
+        "ancestor_set_id": null
+    },
+    {
+        "name": "Barkhu",
+        "id": 3853,
+        "stub": "barkhu",
+        "description": "",
+        "featured_image": {
+            "url": "",
+            "title": "",
+            "caption": ""
+        },
+        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/barkhu\/",
+        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=3853",
+        "subcategory_count": 0,
+        "subcategories": [],
+        "parent_id": 1109,
+        "post_count": 3,
+        "post_ids": [
+            27246,
+            30099,
+            53870
+        ],
+        "term_order": 2,
+        "hierarchical_id": "1.1.1.2",
+        "ancestor_set_id": null
+    },
+    {
+        "name": "Aleinu",
+        "id": 841,
+        "stub": "aleinu",
+        "description": "",
+        "featured_image": {
+            "url": "",
+            "title": "",
+            "caption": ""
+        },
+        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/aleinu\/",
+        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=841",
+        "subcategory_count": 0,
+        "subcategories": [],
+        "parent_id": 1109,
+        "post_count": 14,
+        "post_ids": [
+            46285,
+            35658,
+            8463,
+            7723,
+            7692,
+            20891,
+            53870,
+            35328,
+            38501,
+            28269,
+            48214,
+            40597,
+            44222,
+            35451
+        ],
+        "term_order": 3,
+        "hierarchical_id": "1.1.1.3",
+        "ancestor_set_id": null
+    },
+    {
+        "name": "Ḳaddish",
+        "id": 764,
+        "stub": "kaddish",
+        "description": "",
+        "featured_image": {
+            "url": "",
+            "title": "",
+            "caption": ""
+        },
+        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/kaddish\/",
+        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=764",
+        "subcategory_count": 0,
+        "subcategories": [],
+        "parent_id": 1109,
+        "post_count": 23,
+        "post_ids": [
+            51815,
+            51818,
+            38408,
+            38483,
+            27234,
+            26407,
+            21656,
+            35922,
+            6613,
+            3161,
+            3165,
+            261,
+            2557,
+            38494,
+            38428,
+            7547,
+            38383,
+            30274,
+            20304,
+            30978,
+            57526,
+            15634,
+            7680
+        ],
+        "term_order": 4,
+        "hierarchical_id": "1.1.1.4",
         "ancestor_set_id": null
     },
     {
@@ -954,20 +1562,43 @@
         },
         "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/nighttime\/",
         "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=389",
-        "subcategory_count": 6,
+        "subcategory_count": 3,
         "subcategories": [
-            390,
-            4234,
-            4235,
-            4236,
+            6705,
             1769,
             423
         ],
         "parent_id": 1109,
         "post_count": 0,
         "post_ids": [],
-        "term_order": 8,
-        "hierarchical_id": "1.1.1.8",
+        "term_order": 5,
+        "hierarchical_id": "1.1.1.5",
+        "ancestor_set_id": null
+    },
+    {
+        "name": "Evening Shema",
+        "id": 6705,
+        "stub": "evening-shema",
+        "description": "",
+        "featured_image": {
+            "url": "",
+            "title": "",
+            "caption": ""
+        },
+        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/nighttime\/evening-shema\/",
+        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=6705",
+        "subcategory_count": 4,
+        "subcategories": [
+            390,
+            4234,
+            4235,
+            4236
+        ],
+        "parent_id": 389,
+        "post_count": 0,
+        "post_ids": [],
+        "term_order": 1,
+        "hierarchical_id": "1.1.1.5.1",
         "ancestor_set_id": null
     },
     {
@@ -980,11 +1611,11 @@
             "title": "",
             "caption": ""
         },
-        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/nighttime\/evening\/",
+        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/nighttime\/evening-shema\/evening\/",
         "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=390",
         "subcategory_count": 0,
         "subcategories": [],
-        "parent_id": 389,
+        "parent_id": 6705,
         "post_count": 9,
         "post_ids": [
             7503,
@@ -998,7 +1629,7 @@
             51118
         ],
         "term_order": 1,
-        "hierarchical_id": "1.1.1.8.1",
+        "hierarchical_id": "1.1.1.5.1.1",
         "ancestor_set_id": null
     },
     {
@@ -1011,18 +1642,18 @@
             "title": "",
             "caption": ""
         },
-        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/nighttime\/birkat-ahavah-arvit\/",
+        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/nighttime\/evening-shema\/birkat-ahavah-arvit\/",
         "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=4234",
         "subcategory_count": 0,
         "subcategories": [],
-        "parent_id": 389,
+        "parent_id": 6705,
         "post_count": 2,
         "post_ids": [
             22073,
             30115
         ],
         "term_order": 2,
-        "hierarchical_id": "1.1.1.8.2",
+        "hierarchical_id": "1.1.1.5.1.2",
         "ancestor_set_id": null
     },
     {
@@ -1035,18 +1666,18 @@
             "title": "",
             "caption": ""
         },
-        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/nighttime\/gaal-yisrael-arvit\/",
+        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/nighttime\/evening-shema\/gaal-yisrael-arvit\/",
         "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=4235",
         "subcategory_count": 0,
         "subcategories": [],
-        "parent_id": 389,
+        "parent_id": 6705,
         "post_count": 2,
         "post_ids": [
             51919,
             29411
         ],
         "term_order": 3,
-        "hierarchical_id": "1.1.1.8.3",
+        "hierarchical_id": "1.1.1.5.1.3",
         "ancestor_set_id": null
     },
     {
@@ -1059,11 +1690,11 @@
             "title": "",
             "caption": ""
         },
-        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/nighttime\/hashkivenu\/",
+        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/nighttime\/evening-shema\/hashkivenu\/",
         "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=4236",
         "subcategory_count": 0,
         "subcategories": [],
-        "parent_id": 389,
+        "parent_id": 6705,
         "post_count": 4,
         "post_ids": [
             26812,
@@ -1072,7 +1703,7 @@
             36180
         ],
         "term_order": 4,
-        "hierarchical_id": "1.1.1.8.4",
+        "hierarchical_id": "1.1.1.5.1.4",
         "ancestor_set_id": null
     },
     {
@@ -1163,8 +1794,8 @@
             31502,
             31400
         ],
-        "term_order": 5,
-        "hierarchical_id": "1.1.1.8.5",
+        "term_order": 2,
+        "hierarchical_id": "1.1.1.5.2",
         "ancestor_set_id": null
     },
     {
@@ -1186,8 +1817,8 @@
         "post_ids": [
             1769
         ],
-        "term_order": 6,
-        "hierarchical_id": "1.1.1.8.6",
+        "term_order": 3,
+        "hierarchical_id": "1.1.1.5.3",
         "ancestor_set_id": null
     },
     {
@@ -1202,7 +1833,7 @@
         },
         "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/weekdays\/",
         "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=3662",
-        "subcategory_count": 8,
+        "subcategory_count": 7,
         "subcategories": [
             3028,
             3029,
@@ -1210,8 +1841,7 @@
             3031,
             3032,
             3033,
-            3040,
-            1134
+            3040
         ],
         "parent_id": 2647,
         "post_count": 0,
@@ -1421,57 +2051,14 @@
         "ancestor_set_id": null
     },
     {
-        "name": "Weekday Amidah",
-        "id": 1134,
-        "stub": "amidah-weekday",
-        "description": "",
-        "featured_image": {
-            "url": "",
-            "title": "",
-            "caption": ""
-        },
-        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/weekdays\/amidah-weekday\/",
-        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=1134",
-        "subcategory_count": 0,
-        "subcategories": [],
-        "parent_id": 3662,
-        "post_count": 21,
-        "post_ids": [
-            57679,
-            51957,
-            32619,
-            32656,
-            32666,
-            35719,
-            13338,
-            5563,
-            5060,
-            21089,
-            30340,
-            21107,
-            859,
-            14361,
-            48756,
-            48761,
-            36210,
-            46044,
-            16303,
-            57869,
-            20304
-        ],
-        "term_order": 8,
-        "hierarchical_id": "1.1.2.8",
-        "ancestor_set_id": null
-    },
-    {
         "name": "Shabbat",
         "id": 398,
         "stub": "shabbat",
         "description": "",
         "featured_image": {
-            "url": "",
-            "title": "",
-            "caption": ""
+            "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2025\/01\/eden-village-camp-welcome-shabbat-queen-erev-shabbat-20-july-2012.jpg",
+            "title": "Eden Village Camp -Welcome Shabbat Queen (Erev Shabbat 20 July 2012)",
+            "caption": "Eden Village Camp -Welcome Shabbat Queen, Erev Shabbat 20 July 2012 (photo credit: Aharon Varady, license: CC BY-SA)"
         },
         "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/shabbat\/",
         "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=398",
@@ -1715,9 +2302,9 @@
             43361,
             37737,
             36097,
+            36091,
             39054,
             41995,
-            36091,
             37664,
             25507,
             37648,
@@ -1746,7 +2333,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 398,
-        "post_count": 11,
+        "post_count": 18,
         "post_ids": [
             51793,
             51787,
@@ -1754,11 +2341,18 @@
             51807,
             7050,
             29301,
+            39672,
+            51113,
+            39417,
+            39609,
             36446,
             36430,
             36437,
             36440,
-            29196
+            29196,
+            24347,
+            30020,
+            25133
         ],
         "term_order": 5,
         "hierarchical_id": "1.1.3.5",
@@ -1779,7 +2373,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 398,
-        "post_count": 30,
+        "post_count": 23,
         "post_ids": [
             51865,
             51855,
@@ -1790,13 +2384,9 @@
             31954,
             29088,
             40202,
-            39672,
-            51113,
             50984,
-            39417,
             39407,
             39411,
-            39609,
             39409,
             39413,
             39603,
@@ -1807,10 +2397,7 @@
             53397,
             29274,
             37708,
-            11776,
-            24347,
-            30020,
-            25133
+            11776
         ],
         "term_order": 6,
         "hierarchical_id": "1.1.3.6",
@@ -1833,7 +2420,6 @@
         "parent_id": 398,
         "post_count": 32,
         "post_ids": [
-            58873,
             51825,
             46583,
             20239,
@@ -1864,7 +2450,8 @@
             51574,
             51563,
             52246,
-            52252
+            52252,
+            58873
         ],
         "term_order": 7,
         "hierarchical_id": "1.1.3.7",
@@ -1902,9 +2489,9 @@
             36173,
             37737,
             36097,
+            36091,
             39054,
             41995,
-            36091,
             37664,
             25524,
             37648,
@@ -2206,10 +2793,10 @@
         "ancestor_set_id": null
     },
     {
-        "name": "the Winter Solstice (21 December)",
+        "name": "the Winter Solstice in the Northern Hemisphere (21 December)",
         "id": 4024,
         "stub": "winter-solstice",
-        "description": "This is an archive of prayers, prayer-poems, and songs written for, or relevant to, Tequfat Tevet -- the Winter Solstice (<em>tequfat haḥoref<\/em>) in the Northern Hempisphere.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a prayer you have written for the Winter Solstice.\r\n\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers, songs, and blessings for Ḥanukkah, <a href=\"\/index.php?cat=183\">go here<\/a>.\r\n\r\nFor public readings prepared for Ḥanukkah, <a href=\"\/index.php?cat=3018\">go here<\/a>.\r\n\r\nFor Nittel Nacht, <a href=\"\/index.php?cat=4637\">go here<\/a>.\r\n\r\nFor prayers for Asarah b'Tevet, <a href=\"\/index.php?cat=691\">visit here<\/a>.",
+        "description": "This is an archive of prayers, prayer-poems, and songs written for, or relevant to, Tequfat heḤoref -- the Winter Solstice in the Northern Hemisphere. Most years, Tequfat heḤoref falls in the month of Tevet, although some years, due to a recent leap year, it falls in the month of Kislev.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a prayer you have written for the Winter Solstice.\r\n\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers, songs, and blessings for Ḥanukkah, <a href=\"\/index.php?cat=183\">go here<\/a>.\r\n\r\nFor public readings prepared for Ḥanukkah, <a href=\"\/index.php?cat=3018\">go here<\/a>.\r\n\r\nFor Nittel Nacht, <a href=\"\/index.php?cat=4637\">go here<\/a>.\r\n\r\nFor prayers for Asarah b'Tevet, <a href=\"\/index.php?cat=691\">visit here<\/a>.",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2010\/11\/tumblr-mxhcp9g15l1snfibxo1-1280.png",
             "title": "tumblr-mxhcp9g15l1snfibxo1-1280",
@@ -2492,10 +3079,14 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 3120,
-        "post_count": 2,
+        "post_count": 6,
         "post_ids": [
             2943,
-            19760
+            19760,
+            59258,
+            59269,
+            59274,
+            59287
         ],
         "term_order": 4,
         "hierarchical_id": "1.2.1.4",
@@ -4034,19 +4625,25 @@
         "name": "Ḥanukkah",
         "id": 183,
         "stub": "hanukkah",
-        "description": "This is an archive of prayers, prayer-poems, and songs for the festival of Ḥanukkah.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a prayer you have written, or a transcription and\/or translation of a historic Ḥanukkah prayer or song in any language, familiar or obscure.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor public readings prepared for Ḥanukkah, <a href=\"\/index.php?cat=3018\">go here<\/a>.",
+        "description": "This is an archive of prayers, prayer-poems, and songs for the festival of <span class=\"hebrew\">חֲנֻכָּה<\/span> (Ḥanukkah), commemorating the crucial victory of the Jewish people in retaining its culture, lifeways, and Temple vis-à-vis the oppressive hegemony of the Seleucid Greek kingdom around 164 BCE.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a prayer you have written, or a transcription and\/or translation of a historic Ḥanukkah prayer or song in any language, familiar or obscure.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor public readings prepared for Ḥanukkah, <a href=\"\/index.php?cat=3018\">go here<\/a>.",
         "featured_image": {
-            "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2022\/12\/Krasnoyarsk-Ice-Menorah-embiggened.jpg",
-            "title": "Krasnoyarsk Ice Menorah &#8211; embiggened",
-            "caption": ""
+            "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2019\/12\/Krasnoyarsk-Ice-Menorah.jpg",
+            "title": "Krasnoyarsk Ice Ḥanukkiah",
+            "caption": "<a href=\"https:\/\/fjc-fsu.org\/news\/newsArticle.asp?AID=234178\">Ice Ḥanukkiah<\/a> (Krasnoyarsk, Eastern Siberia)"
         },
         "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/lunisolar\/commemorative-days\/hanukkah\/",
         "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=183",
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 793,
-        "post_count": 59,
+        "post_count": 67,
         "post_ids": [
+            59427,
+            59422,
+            59374,
+            59400,
+            59384,
+            59347,
             53679,
             53636,
             53601,
@@ -4075,6 +4672,7 @@
             51689,
             41033,
             41217,
+            58924,
             41110,
             41204,
             41083,
@@ -4094,6 +4692,7 @@
             28713,
             48034,
             41025,
+            59104,
             34548,
             18267,
             48000,
@@ -4179,8 +4778,9 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 793,
-        "post_count": 31,
+        "post_count": 32,
         "post_ids": [
+            59347,
             55001,
             54997,
             54976,
@@ -4190,6 +4790,7 @@
             54761,
             51696,
             45592,
+            15453,
             32460,
             40603,
             54940,
@@ -4203,7 +4804,6 @@
             54936,
             40894,
             40434,
-            15453,
             30495,
             54632,
             35637,
@@ -5139,8 +5739,9 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 3036,
-        "post_count": 2,
+        "post_count": 3,
         "post_ids": [
+            59061,
             58589,
             21633
         ],
@@ -6777,8 +7378,9 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 2632,
-        "post_count": 16,
+        "post_count": 17,
         "post_ids": [
+            59458,
             41486,
             45375,
             15370,
@@ -7363,8 +7965,9 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 2633,
-        "post_count": 101,
+        "post_count": 102,
         "post_ids": [
+            59015,
             58542,
             58499,
             56603,
@@ -7697,8 +8300,9 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 2634,
-        "post_count": 108,
+        "post_count": 109,
         "post_ids": [
+            59061,
             58505,
             58194,
             58186,
@@ -7977,7 +8581,7 @@
         },
         "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/collective-welfare\/nations\/",
         "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=776",
-        "subcategory_count": 23,
+        "subcategory_count": 24,
         "subcategories": [
             2558,
             5903,
@@ -7995,6 +8599,7 @@
             6129,
             5366,
             5364,
+            6718,
             5513,
             5362,
             2686,
@@ -8331,8 +8936,10 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 776,
-        "post_count": 42,
+        "post_count": 45,
         "post_ids": [
+            59427,
+            59384,
             58282,
             57958,
             57463,
@@ -8340,6 +8947,7 @@
             53239,
             53211,
             53185,
+            59110,
             53034,
             52988,
             52929,
@@ -8503,6 +9111,31 @@
         "ancestor_set_id": null
     },
     {
+        "name": "&#x1F1F8;&#x1F1FE; Syria",
+        "id": 6718,
+        "stub": "syria",
+        "description": "This is an archive of prayers for the peoples of Syria, liberated from the tyranny of the Baathist regime as of December 2024.",
+        "featured_image": {
+            "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2024\/12\/flag-of-the-syrian-transitional-government-shahada-svg.png",
+            "title": "Flag_of_the_Syrian_Transitional_Government_(Shahada).svg",
+            "caption": "<a href=\"https:\/\/commons.wikimedia.org\/wiki\/File:Flag_of_the_Syrian_Transitional_Government_(Shahada).svg\">Secondary (albeit not national) flag used by the Syrian Transitional Government<\/a>"
+        },
+        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/collective-welfare\/nations\/syria\/",
+        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=6718",
+        "subcategory_count": 0,
+        "subcategories": [],
+        "parent_id": 776,
+        "post_count": 3,
+        "post_ids": [
+            27635,
+            15245,
+            15291
+        ],
+        "term_order": 17,
+        "hierarchical_id": "1.7.3.17",
+        "ancestor_set_id": null
+    },
+    {
         "name": "&#x1f1fa;&#x1f1e6; Ukraine",
         "id": 5513,
         "stub": "ukraine",
@@ -8531,8 +9164,8 @@
             43055,
             37331
         ],
-        "term_order": 17,
-        "hierarchical_id": "1.7.3.17",
+        "term_order": 18,
+        "hierarchical_id": "1.7.3.18",
         "ancestor_set_id": null
     },
     {
@@ -8569,17 +9202,17 @@
             45202,
             36802,
             51482,
+            15453,
             12722,
             51091,
-            15453,
             50438,
             12717,
             36717,
             12159,
             12692
         ],
-        "term_order": 18,
-        "hierarchical_id": "1.7.3.18",
+        "term_order": 19,
+        "hierarchical_id": "1.7.3.19",
         "ancestor_set_id": null
     },
     {
@@ -8769,8 +9402,8 @@
             52035,
             51848,
             51843,
-            51838,
             51831,
+            51838,
             47718,
             47678,
             47670,
@@ -8922,8 +9555,8 @@
             55091,
             54465,
             57020,
-            57016,
             54307,
+            57016,
             56997,
             57000,
             55588,
@@ -9034,8 +9667,8 @@
             22785,
             12657
         ],
-        "term_order": 19,
-        "hierarchical_id": "1.7.3.19",
+        "term_order": 20,
+        "hierarchical_id": "1.7.3.20",
         "ancestor_set_id": null
     },
     {
@@ -9084,8 +9717,8 @@
             56058,
             56044
         ],
-        "term_order": 20,
-        "hierarchical_id": "1.7.3.20",
+        "term_order": 21,
+        "hierarchical_id": "1.7.3.21",
         "ancestor_set_id": null
     },
     {
@@ -9252,8 +9885,8 @@
             52035,
             51848,
             51843,
-            51838,
             51831,
+            51838,
             47718,
             47678,
             47670,
@@ -9402,8 +10035,8 @@
             55091,
             54465,
             57020,
-            57016,
             54307,
+            57016,
             24213,
             56997,
             57000,
@@ -9470,8 +10103,8 @@
             43508,
             43746
         ],
-        "term_order": 21,
-        "hierarchical_id": "1.7.3.21",
+        "term_order": 22,
+        "hierarchical_id": "1.7.3.22",
         "ancestor_set_id": null
     },
     {
@@ -9508,8 +10141,8 @@
             51754,
             5960
         ],
-        "term_order": 22,
-        "hierarchical_id": "1.7.3.22",
+        "term_order": 23,
+        "hierarchical_id": "1.7.3.23",
         "ancestor_set_id": null
     },
     {
@@ -9565,8 +10198,8 @@
             42455,
             53898
         ],
-        "term_order": 23,
-        "hierarchical_id": "1.7.3.23",
+        "term_order": 24,
+        "hierarchical_id": "1.7.3.24",
         "ancestor_set_id": null
     },
     {
@@ -9647,8 +10280,9 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 778,
-        "post_count": 47,
+        "post_count": 48,
         "post_ids": [
+            59427,
             58523,
             53034,
             52991,
@@ -10054,8 +10688,9 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 778,
-        "post_count": 26,
+        "post_count": 27,
         "post_ids": [
+            59384,
             58739,
             58015,
             57566,
@@ -10322,11 +10957,12 @@
         },
         "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/praxes\/",
         "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=100",
-        "subcategory_count": 18,
+        "subcategory_count": 19,
         "subcategories": [
             5775,
-            4337,
             5829,
+            3251,
+            4337,
             5620,
             817,
             1475,
@@ -10375,6 +11011,54 @@
         "ancestor_set_id": null
     },
     {
+        "name": "Kaparōt",
+        "id": 5829,
+        "stub": "kaparot",
+        "description": "Kaparot is a lovely Ashkenazi Jewish custom when it is aligned with the mitsvah of <em>tsar baalei ḥayyim<\/em> (not causing unnecessary harm to a living creature). Why invite extra harsh judgement during the Aseret Yemei Teshuvah (Ten Days of Repentance) for being the cause of unnecessary stress or injury to an animal‽!? Use a bag of money dedicated for tsedaqah instead!",
+        "featured_image": {
+            "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2024\/10\/orthodox-kid-hanan-bar-assouline.jpg",
+            "title": "Orthodox Kid (Hanan Bar Assouline)",
+            "caption": "\"<a href=\"https:\/\/www.flickr.com\/photos\/68414961@N05\/6270145101\/\">Orthodox kid<\/a>\" (photo credit: Hanan Bar Assouline). A ḥaredi child holding a chicken in one hand and a cigarette in the other (likely taken in the context of the Kaparot-atonement ritual before Yom Kipur)"
+        },
+        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/praxes\/kaparot\/",
+        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=5829",
+        "subcategory_count": 0,
+        "subcategories": [],
+        "parent_id": 100,
+        "post_count": 1,
+        "post_ids": [
+            39019
+        ],
+        "term_order": 2,
+        "hierarchical_id": "1.8.2",
+        "ancestor_set_id": null
+    },
+    {
+        "name": "Tefillin",
+        "id": 3251,
+        "stub": "tefillin",
+        "description": "",
+        "featured_image": {
+            "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2024\/12\/tefillin-manufacturing-process--leather.jpeg",
+            "title": "Tefillin manufacturing process. Leather",
+            "caption": "Tefillin manufacturing process. Leather"
+        },
+        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/praxes\/tefillin\/",
+        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=3251",
+        "subcategory_count": 0,
+        "subcategories": [],
+        "parent_id": 100,
+        "post_count": 3,
+        "post_ids": [
+            23477,
+            48785,
+            22870
+        ],
+        "term_order": 3,
+        "hierarchical_id": "1.8.3",
+        "ancestor_set_id": null
+    },
+    {
         "name": "Entering Sacred Spaces",
         "id": 4337,
         "stub": "entering-sacred-spaces",
@@ -10401,31 +11085,8 @@
             42473,
             42480
         ],
-        "term_order": 2,
-        "hierarchical_id": "1.8.2",
-        "ancestor_set_id": null
-    },
-    {
-        "name": "Kaparōt",
-        "id": 5829,
-        "stub": "kaparot",
-        "description": "Kaparot is a lovely Ashkenazi Jewish custom when it is aligned with the mitsvah of <em>tsar baalei ḥayyim<\/em> (not causing unnecessary harm to a living creature). Why invite extra harsh judgement during the Aseret Yemei Teshuvah (Ten Days of Repentance) for being the cause of unnecessary stress or injury to an animal‽!? Use a bag of money dedicated for tsedaqah instead!",
-        "featured_image": {
-            "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2024\/10\/orthodox-kid-hanan-bar-assouline.jpg",
-            "title": "Orthodox Kid (Hanan Bar Assouline)",
-            "caption": "\"<a href=\"https:\/\/www.flickr.com\/photos\/68414961@N05\/6270145101\/\">Orthodox kid<\/a>\" (photo credit: Hanan Bar Assouline). A ḥaredi child holding a chicken in one hand and a cigarette in the other (likely taken in the context of the Kaparot-atonement ritual before Yom Kipur)"
-        },
-        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/praxes\/kaparot\/",
-        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=5829",
-        "subcategory_count": 0,
-        "subcategories": [],
-        "parent_id": 100,
-        "post_count": 1,
-        "post_ids": [
-            39019
-        ],
-        "term_order": 2,
-        "hierarchical_id": "1.8.2",
+        "term_order": 4,
+        "hierarchical_id": "1.8.4",
         "ancestor_set_id": null
     },
     {
@@ -10449,8 +11110,8 @@
             44841,
             6353
         ],
-        "term_order": 3,
-        "hierarchical_id": "1.8.3",
+        "term_order": 5,
+        "hierarchical_id": "1.8.5",
         "ancestor_set_id": null
     },
     {
@@ -10475,8 +11136,8 @@
             46607,
             20989
         ],
-        "term_order": 4,
-        "hierarchical_id": "1.8.4",
+        "term_order": 6,
+        "hierarchical_id": "1.8.6",
         "ancestor_set_id": null
     },
     {
@@ -10502,8 +11163,8 @@
             24076,
             24049
         ],
-        "term_order": 5,
-        "hierarchical_id": "1.8.5",
+        "term_order": 7,
+        "hierarchical_id": "1.8.7",
         "ancestor_set_id": null
     },
     {
@@ -10538,8 +11199,8 @@
             18441,
             9764
         ],
-        "term_order": 6,
-        "hierarchical_id": "1.8.6",
+        "term_order": 8,
+        "hierarchical_id": "1.8.8",
         "ancestor_set_id": null
     },
     {
@@ -10564,8 +11225,8 @@
             16479,
             7028
         ],
-        "term_order": 7,
-        "hierarchical_id": "1.8.7",
+        "term_order": 9,
+        "hierarchical_id": "1.8.9",
         "ancestor_set_id": null
     },
     {
@@ -10583,7 +11244,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 100,
-        "post_count": 8,
+        "post_count": 9,
         "post_ids": [
             23434,
             9223,
@@ -10592,10 +11253,11 @@
             48476,
             48794,
             14019,
-            51442
+            51442,
+            58975
         ],
-        "term_order": 8,
-        "hierarchical_id": "1.8.8",
+        "term_order": 10,
+        "hierarchical_id": "1.8.10",
         "ancestor_set_id": null
     },
     {
@@ -10625,8 +11287,8 @@
             18671,
             18767
         ],
-        "term_order": 9,
-        "hierarchical_id": "1.8.9",
+        "term_order": 11,
+        "hierarchical_id": "1.8.11",
         "ancestor_set_id": null
     },
     {
@@ -10654,8 +11316,8 @@
             20685,
             20670
         ],
-        "term_order": 10,
-        "hierarchical_id": "1.8.10",
+        "term_order": 12,
+        "hierarchical_id": "1.8.12",
         "ancestor_set_id": null
     },
     {
@@ -10690,8 +11352,8 @@
             39999,
             50962
         ],
-        "term_order": 11,
-        "hierarchical_id": "1.8.11",
+        "term_order": 13,
+        "hierarchical_id": "1.8.13",
         "ancestor_set_id": null
     },
     {
@@ -10715,8 +11377,8 @@
             3393,
             3425
         ],
-        "term_order": 12,
-        "hierarchical_id": "1.8.12",
+        "term_order": 14,
+        "hierarchical_id": "1.8.14",
         "ancestor_set_id": null
     },
     {
@@ -10741,8 +11403,8 @@
             2856,
             3797
         ],
-        "term_order": 13,
-        "hierarchical_id": "1.8.13",
+        "term_order": 15,
+        "hierarchical_id": "1.8.15",
         "ancestor_set_id": null
     },
     {
@@ -10768,8 +11430,8 @@
             3778,
             46935
         ],
-        "term_order": 14,
-        "hierarchical_id": "1.8.14",
+        "term_order": 16,
+        "hierarchical_id": "1.8.16",
         "ancestor_set_id": null
     },
     {
@@ -10800,8 +11462,8 @@
             38069,
             34370
         ],
-        "term_order": 15,
-        "hierarchical_id": "1.8.15",
+        "term_order": 17,
+        "hierarchical_id": "1.8.17",
         "ancestor_set_id": null
     },
     {
@@ -10834,8 +11496,8 @@
             43108,
             9508
         ],
-        "term_order": 16,
-        "hierarchical_id": "1.8.16",
+        "term_order": 18,
+        "hierarchical_id": "1.8.18",
         "ancestor_set_id": null
     },
     {
@@ -10860,8 +11522,8 @@
             43029,
             43035
         ],
-        "term_order": 17,
-        "hierarchical_id": "1.8.17",
+        "term_order": 19,
+        "hierarchical_id": "1.8.19",
         "ancestor_set_id": null
     },
     {
@@ -11095,8 +11757,9 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 3159,
-        "post_count": 3,
+        "post_count": 4,
         "post_ids": [
+            39790,
             22268,
             22241,
             28143
@@ -13027,9 +13690,8 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 4036,
-        "post_count": 19,
+        "post_count": 16,
         "post_ids": [
-            34358,
             19261,
             34541,
             14162,
@@ -13037,14 +13699,12 @@
             28643,
             12327,
             34599,
-            1548,
             10262,
             20767,
             7808,
             28666,
             34705,
             34512,
-            58641,
             34247,
             22772,
             22776
@@ -13057,7 +13717,7 @@
         "name": "Ḥag haBanot (Eid el Benat) Readings",
         "id": 4628,
         "stub": "hag-habanot",
-        "description": "This is an archive of special readings prepared for the <span class=\"hebrew\">חג הבנות<\/span> | Ḥag haBanot (عيد البنات | <span class=\"hebrew\">עיד אלבנאת<\/span>), for the days on which Rosh Ḥodesh Tevet coincide with Ḥanukkah.\r\n\r\nAs Dr. Lori Lefkowitz <a href=\"https:\/\/nujewishstudiesblog.org\/2020\/12\/15\/secrets-of-the-sixth-candle\/\">has written<\/a>, \"On this New Moon...girls are given gifts, sometimes jewelry that would be their inheritance, and special blessings. It is customary to read the story of Judith, and yes, to eat salty cheeses. And one custom that I especially like, girls who were quarreling used the occasion of the festival to kiss and make up.\"\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a special reading, prayer, or song that you have prepared for the Ḥag haBanot.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor all special readings for Ḥanukkah, <a href=\"\/index.php?cat=3018\">go here<\/a>.\r\n\r\nFor all prayers, prayer-poems, and songs for Ḥanukkah, <a href=\"\/index.php?cat=183\">go here<\/a>.\r\n\r\nFor prayers on International Day for the Elimination of Violence Against Women, <a href=\"\/index.php?cat=4608\">go here<\/a>.\r\n\r\nFor prayers on Rosh Ḥodesh Tevet, <a href=\"\/index.php?cat=579\">go here<\/a>.\r\n\r\nFor prayers on Agunah Day before Purim, <a href=\"\/index.php?cat=2482\">go here<\/a>.",
+        "description": "This is an archive of special readings prepared for the <span class=\"hebrew\">חג הבנות<\/span> | Ḥag haBanot (عيد البنات | <span class=\"hebrew\">עיד אלבנאת<\/span> | Eid el Benat), for the days on which Rosh Ḥodesh Tevet coincide with Ḥanukkah.\r\n\r\nAs Dr. Lori Lefkowitz <a href=\"https:\/\/nujewishstudiesblog.org\/2020\/12\/15\/secrets-of-the-sixth-candle\/\">has written<\/a>, \"On this New Moon...girls are given gifts, sometimes jewelry that would be their inheritance, and special blessings. It is customary to read the story of Judith, and yes, to eat salty cheeses. And one custom that I especially like, girls who were quarreling used the occasion of the festival to kiss and make up.\"\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a special reading, prayer, or song that you have prepared for the Ḥag haBanot.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor all special readings for Ḥanukkah, <a href=\"\/index.php?cat=3018\">go here<\/a>.\r\n\r\nFor all prayers, prayer-poems, and songs for Ḥanukkah, <a href=\"\/index.php?cat=183\">go here<\/a>.\r\n\r\nFor prayers on International Day for the Elimination of Violence Against Women, <a href=\"\/index.php?cat=4608\">go here<\/a>.\r\n\r\nFor prayers on Rosh Ḥodesh Tevet, <a href=\"\/index.php?cat=579\">go here<\/a>.\r\n\r\nFor prayers on Agunah Day before Purim, <a href=\"\/index.php?cat=2482\">go here<\/a>.",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2021\/12\/judith-1921-arthur-szyk.png",
             "title": "judith-1921-arthur-szyk",
@@ -13637,7 +14297,7 @@
         "name": "&#x1F310; Armistice Day Readings",
         "id": 3723,
         "stub": "armistice-day-readings",
-        "description": "This is an archive of special readings for Armistice Day.\r\n\r\nArmistice Day is a civic holiday in many nations observed annually on November 11, primarily for commemorating the end of World War I. Major hostilities of World War I were formally ended at the 11th hour of the 11th day of the 11th month of 1918, when the Armistice with Germany went into effect. \r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor an archive of prayers, prayer-poems, and songs for Armistice Day, <a href=\"\/index.php?cat=3115\">go here<\/a>.\r\n\r\nFor public readings selected for Veterans Day in the United States, <a href=\"\/index.php?cat=5850\">please visit here<\/a>.\r\n\r\nFor prayers offered for the well-being of Military Personnel &amp; Veterans, including the Israeli Defense Forces (<span class=\"hebrew\">צה״ל<\/span>), <a href=\"\/index.php?cat=1257\">please visit here<\/a>.\r\n\r\nFor prayers composed for or relevant to Memorial Day in the United States, <a href=\"\/index.php?cat=3068\">please visit here<\/a>.\r\n\r\nFor public readings selected for Memorial Day in the United States, <a href=\"\/index.php?cat=3626\">please visit here<\/a>.",
+        "description": "This is an archive of special readings for Armistice Day.\r\n\r\nArmistice Day is a civic day in many nations observed annually on November 11, primarily for commemorating the end of World War I. Major hostilities of World War I were formally ended at the 11th hour of the 11th day of the 11th month of 1918, when the Armistice with Germany went into effect. (In the Jewish\/Hebrew calendar, this date corresponded to 7 Kislev 5679.)\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor an archive of prayers, prayer-poems, and songs for Armistice Day, <a href=\"\/index.php?cat=3115\">go here<\/a>.\r\n\r\nFor public readings selected for Veterans Day in the United States, <a href=\"\/index.php?cat=5850\">please visit here<\/a>.\r\n\r\nFor prayers offered for the well-being of Military Personnel &amp; Veterans, including the Israeli Defense Forces (<span class=\"hebrew\">צה״ל<\/span>), <a href=\"\/index.php?cat=1257\">please visit here<\/a>.\r\n\r\nFor prayers composed for or relevant to Memorial Day in the United States, <a href=\"\/index.php?cat=3068\">please visit here<\/a>.\r\n\r\nFor public readings selected for Memorial Day in the United States, <a href=\"\/index.php?cat=3626\">please visit here<\/a>.",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2021\/06\/1280px-Megillah_Megillat-Hitler_Moroccan_Jewish_Museum_Casablanca-ANV-edit.png",
             "title": "1280px-Megillah,_Megillat-Hitler,_Moroccan_Jewish_Museum,_Casablanca &#8211; ANV edit",
@@ -13648,9 +14308,10 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 4035,
-        "post_count": 1,
+        "post_count": 2,
         "post_ids": [
-            37748
+            37748,
+            59318
         ],
         "term_order": 14,
         "hierarchical_id": "2.2.2.14",
@@ -13706,7 +14367,7 @@
         "name": "Nittel Nacht Readings",
         "id": 4637,
         "stub": "nittel-nacht-readings",
-        "description": "This is an archive of works composed for (or relevant to) Jewish customs for <span class=\"hebrew\" lang=\"yi\">ניטל נאַכט<\/span> (<a href=\"https:\/\/en.wikipedia.org\/wiki\/Nittel_Nacht\">Nittel Nacht<\/a> a\/k\/a Christmas Eve). The Yiddish word \"Nittel\" for Christmas is likely derived from the medieval Latin name for Christmas, <em><a href=\"https:\/\/en.wiktionary.org\/wiki\/natalis\">natalis<\/a><\/em>.\r\n\r\nThe origin of traditional folk customs (abstinence from sex and Torah study, consumption of garlic, card playing and other table games) observed in some Ashkenazi Jewish communities on Nittel Nacht is obscure. Often, some version of the following narrative of resistance is given: that in the Middle Ages under the hegemony of <a href=\"https:\/\/en.wikipedia.org\/wiki\/Christendom\">Christendom<\/a>, Jews were often forbidden from appearing in public during the Christmas holidays, and Christmas Eve frequently marked the beginning of attacks on the Jewish population by Christians under the thrall of their religious passions and prejudices. Many Jews observed Nittel Nacht by adhering to these prohibitions and staying as safe as possible from marauders. To avoid giving the appearance of celebrating the Christian holiday, many also sought to avoid experiencing any pleasure or joy on Christmas, ensuring that no glory would be given to the day. \r\n\r\nThat explanation, however, was largely discounted by Marc Shapiro in his 1999 article, \"<a href=\"https:\/\/opensiddur.org\/wp-content\/uploads\/2020\/12\/Torah-Study-on-Christmas-Eve-Marc-Shapiro-1999.pdf\">Torah Study on Christmas Eve<\/a>\" (<em>Journal of Jewish Thought &amp; Philosophy<\/em>, vol. 8, pp. 319-353). The origins of Nittel Nacht were further explored in Rebecca Scharbach's article \"<a href=\"https:\/\/www.academia.edu\/16775699\/The_Ghost_in_the_Privy_The_Origins_of_Nittel_Nacht_and_Modes_of_Cultural_Exchange\">The Ghost in the Privy: On the Origins of Nittel Nacht<\/a>\" (<em>Jewish Studies Quarterly<\/em>, vol. 20 (2013):4, pp. 340-373). Medieval Jews understood their Nittel Nacht customs as a form of ritual protection against some dark force abroad on Christmas Eve. From their European Christian peers, Jewish women and children heard tales of manifesting apparitions, such as <a href=\"https:\/\/en.wikipedia.org\/wiki\/Knecht_Ruprecht\">Knecht Ruprecht<\/a>, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Krampus\">Krampus<\/a>, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Perchta\">Frau Perchta<\/a>, and <a href=\"https:\/\/en.wikipedia.org\/wiki\/Companions_of_Saint_Nicholas\">others<\/a> (enacted by mummers at mid-winter pageants), sent to judge the relative goodliness of children, all ostensibly under the auspice of Jesus. The manifestation of demonic entities aligned with Jesus on the night of Christmas were then conflated in the form of a revenant Jesus, and framed within the lattice of enduring anti-Christian beliefs found in censored versions of the Talmud and <em>Toldot Yeshu<\/em>.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a work you have prepared for Nittel Nacht.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor public readings prepared for (or relevant to) Asarah b'Tevet, <a href=\"\/index.php?cat=3117\">visit here<\/a>.\r\n\r\nFor prayers for Asarah b'Tevet, <a href=\"\/index.php?cat=691\">visit here<\/a>.\r\n\r\nFor prayers relevant to Tequfat Tevet (the Solstice of the month of Tevet),  <a href=\"\/index.php?cat=4024\">visit here<\/a>.\r\n\r\nFor prayers offered for the well-being of one's congregation and community, <a href=\"\/index.php?cat=4588\">visit here<\/a>.\r\n\r\nFor prayers composed for social justice, peace, and liberty, <a href=\"\/index.php?cat=782\">go here<\/a>.",
+        "description": "This is an archive of works composed for (or relevant to) Jewish customs for <span class=\"hebrew\" lang=\"yi\">ניטל נאַכט<\/span> (<a href=\"https:\/\/en.wikipedia.org\/wiki\/Nittel_Nacht\">Nittel Nacht<\/a> a\/k\/a Christmas Eve). The Yiddish word \"Nittel\" for Christmas is likely derived from the medieval Latin name for Christmas, <em><a href=\"https:\/\/en.wiktionary.org\/wiki\/natalis\">natalis<\/a><\/em>.\r\n\r\nThe origin of traditional folk customs (abstinence from sex and Torah study, consumption of garlic, card playing and other table games) observed in some Ashkenazi Jewish communities on Nittel Nacht is obscure. Often, some version of the following narrative of resistance is given: that in the Middle Ages under the hegemony of <a href=\"https:\/\/en.wikipedia.org\/wiki\/Christendom\">Christendom<\/a>, Jews were often forbidden from appearing in public during the Christmas holidays, and Christmas Eve frequently marked the beginning of attacks on the Jewish population by Christians under the thrall of their religious passions and prejudices. Many Jews observed Nittel Nacht by adhering to these prohibitions and staying as safe as possible from marauders. To avoid giving the appearance of celebrating the Christian holiday, many also sought to avoid experiencing any pleasure or joy on Christmas, ensuring that no glory would be given to the day. \r\n\r\nThat explanation, however, was largely discounted by Marc Shapiro in his 1999 article, \"<a href=\"https:\/\/opensiddur.org\/wp-content\/uploads\/2020\/12\/Torah-Study-on-Christmas-Eve-Marc-Shapiro-1999.pdf\">Torah Study on Christmas Eve<\/a>\" (<em>Journal of Jewish Thought &amp; Philosophy<\/em>, vol. 8, pp. 319-353). The origins of Nittel Nacht were further explored in Rebecca Scharbach's article \"<a href=\"https:\/\/www.academia.edu\/16775699\/The_Ghost_in_the_Privy_The_Origins_of_Nittel_Nacht_and_Modes_of_Cultural_Exchange\">The Ghost in the Privy: On the Origins of Nittel Nacht<\/a>\" (<em>Jewish Studies Quarterly<\/em>, vol. 20 (2013):4, pp. 340-373). Medieval Jews understood their Nittel Nacht customs as a form of ritual protection against some dark force abroad on Christmas Eve. From their European Christian peers, Jews heard tales of manifesting apparitions, such as <a href=\"https:\/\/en.wikipedia.org\/wiki\/Knecht_Ruprecht\">Knecht Ruprecht<\/a>, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Krampus\">Krampus<\/a>, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Perchta\">Frau Perchta<\/a>, and <a href=\"https:\/\/en.wikipedia.org\/wiki\/Companions_of_Saint_Nicholas\">others<\/a> (enacted by mummers at mid-winter pageants), sent to judge the relative goodliness of children, all ostensibly under the auspice of Jesus. The manifestation of demonic entities aligned with Jesus on the night of Christmas were then conflated in the form of a revenant Jesus, and framed within the lattice of enduring counter-Christian beliefs found in censored tractates of the Talmud and <em>Toldot Yeshu<\/em>.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a work you have prepared for Nittel Nacht.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor public readings prepared for (or relevant to) Asarah b'Tevet, <a href=\"\/index.php?cat=3117\">visit here<\/a>.\r\n\r\nFor prayers for Asarah b'Tevet, <a href=\"\/index.php?cat=691\">visit here<\/a>.\r\n\r\nFor prayers relevant to Tequfat Tevet (the Solstice of the month of Tevet),  <a href=\"\/index.php?cat=4024\">visit here<\/a>.\r\n\r\nFor prayers offered for the well-being of one's congregation and community, <a href=\"\/index.php?cat=4588\">visit here<\/a>.\r\n\r\nFor prayers composed for social justice, peace, and liberty, <a href=\"\/index.php?cat=782\">go here<\/a>.",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2021\/12\/Der_Abtenauer_Perchtenlauf_2017-_13.jpg",
             "title": "Der_Abtenauer_Perchtenlauf_2017-_13",
@@ -15331,7 +15992,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 4045,
-        "post_count": 27,
+        "post_count": 31,
         "post_ids": [
             20773,
             35348,
@@ -15345,6 +16006,10 @@
             34512,
             13102,
             58641,
+            59258,
+            59269,
+            59274,
+            59287,
             34247,
             28303,
             12310,
