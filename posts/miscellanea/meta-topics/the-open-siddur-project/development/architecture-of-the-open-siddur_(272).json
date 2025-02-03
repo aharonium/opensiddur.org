@@ -1,17 +1,17 @@
 {
-    "title": "Architecture of the Open Siddur",
+    "title": "Software Architecture of the Open Siddur Web Application — by Efraim Feinstein (Open Siddur 2009)",
     "author": "Efraim Feinstein",
     "coauthors": [
         {
             "name": "Efraim Feinstein",
             "bio": "Efraim Feinstein is the lead developer of the Open Siddur <a href=\"https://github.com/opensiddur\">web application</a>.",
             "website": "",
-            "avatar": "https://opensiddur.org/wp-content/uploads/2014/11/Keith-Evans-Green-Tree-Yellow-Field-CC-BY-SA-250x250.jpg",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2015/05/efraim-feinstein-e1431205103997-96x96.jpg",
             "profile_link": "https://opensiddur.org/profile/efraim"
         }
     ],
     "date": "2009-12-18",
-    "last_updated": "2025-01-03",
+    "last_updated": "2025-02-02",
     "excerpt": "Lead developer, Efraim Feinstein, recently contributed this helpful diagram of Open Siddur's architecture. . . .",
     "content": "<p>Lead developer, Efraim Feinstein, recently contributed this helpful diagram of Open Siddur&#8217;s architecture on <a href=\"https://github.com/opensiddur/opensiddur/wiki/Architecture\">our wiki</a>.</p>\n<p><a href=\"https://github.com/opensiddur/opensiddur/wiki/Architecture\"><div id=\"attachment_48605\" style=\"width: 310px\" class=\"wp-caption alignnone\"><a href=\"https://opensiddur.org/wp-content/uploads/2009/12/An-Open-Siddur-Summary-Diagram-Efraim-Feinstein-2009.png\" rel=\"lightbox-0\"><img loading=\"lazy\" decoding=\"async\" aria-describedby=\"caption-attachment-48605\" src=\"https://opensiddur.org/wp-content/uploads/2009/12/An-Open-Siddur-Summary-Diagram-Efraim-Feinstein-2009.png\" alt=\"\" width=\"226\" height=\"300\" class=\"size-medium wp-image-48605\" srcset=\"https://opensiddur.org/wp-content/uploads/2009/12/An-Open-Siddur-Summary-Diagram-Efraim-Feinstein-2009.png 1562w, https://opensiddur.org/wp-content/uploads/2009/12/An-Open-Siddur-Summary-Diagram-Efraim-Feinstein-2009-226x300.png 226w\" sizes=\"auto, (max-width: 226px) 100vw, 226px\" /></a><p id=\"caption-attachment-48605\" class=\"wp-caption-text\">An Open Siddur &#8211; Summary Diagram (Efraim Feinstein 2009)</p></div></a></p>\n",
     "categories": [
@@ -24,6 +24,9 @@
     "custom_fields": {
         "open_content_license": [
             "<a href='https://creativecommons.org/licenses/by-sa/4.0/'>Creative Commons Attribution-ShareAlike (CC BY-SA) 4.0 International</a> copyleft license"
+        ],
+        "_yoast_wpseo_primary_category": [
+            ""
         ],
         "_thumbnail_id": [
             "48605"
