@@ -1,8 +1,8 @@
 <?php
 /*
  * Plugin Name: Author Contributions
- * Description: Displays the categories, tags, and names of users associated with any contributed post, along with filter links.
- * Version: 1.1
+ * Description: Displays the categories, tags, languages, and names of users associated with the content of any contributed post, along with filter links and a date range query form.
+ * Version: 1.5
  * Author: Aharon Varady
  * Author URI: https://github.com/aharonium/
  * Plugin URI: https://github.com/aharonium/opensiddur.org/plugins/author-contributions
@@ -18,58 +18,70 @@
  * Acknowledgment: Special thanks to ChatGPT by OpenAI for considerable assistance and technical guidance during this plugin's development process.
 */
 
+
 // Enqueue plugin styles and scripts
 function ac_enqueue_assets() {
     // Enqueue CSS
     wp_register_style('ac-styles', plugin_dir_url(__FILE__) . 'css/ac-styles.css');
     wp_enqueue_style('ac-styles');
     
-// Enqueue JavaScript for accordion
+    // Enqueue JavaScript for accordion
     wp_register_script('ac-accordion', plugin_dir_url(__FILE__) . 'js/ac-accordion.js', array('jquery'), '1.0', true);
     wp_enqueue_script('ac-accordion');
 }
 add_action('wp_enqueue_scripts', 'ac_enqueue_assets');
 
+
 // Fetch posts by users with specific roles (Contributor or Author)
 function ac_get_user_posts($user_id) {
-    // Use transient caching to avoid repeated queries
     $cache_key = "author_contributions_{$user_id}";
+    
+    // Use caching only if no daterange is applied
     $cached = get_transient($cache_key);
     if ($cached !== false) {
         return $cached;
     }
 
-    // Query all posts where the user has either "Contributor" or "Author" role
-    $args = array(
+    $args = [
         'post_type'      => 'any',
-        'posts_per_page' => -1, // Fetch all relevant posts
+        'posts_per_page' => -1,
         'author'         => $user_id,
-        'fields'         => 'ids', // Only retrieve post IDs to optimize performance
-    );
+        'fields'         => 'ids',
+    ];
+
+    // Run the query
     $query = new WP_Query($args);
 
-    // Store post IDs in cache for 12 hours
+    // Cache results only when not filtered
     set_transient($cache_key, $query->posts, 12 * HOUR_IN_SECONDS);
 
     return $query->posts;
 }
 
-// Get all categories, tags, and co-contributors for the user’s posts
+
+// Get all categories, tags, co-contributors, and languages for the user’s posts
 function ac_get_terms_for_user($user_id) {
-    $post_ids = ac_get_user_posts($user_id); // Get all posts for the user
+    $post_ids = ac_get_user_posts($user_id);
     $categories = [];
     $tags = [];
     $co_contributors = [];
+    $languages = [];
 
     foreach ($post_ids as $post_id) {
         $post_categories = wp_get_post_categories($post_id, ['fields' => 'all']);
         $post_tags = wp_get_post_tags($post_id, ['fields' => 'all']);
+        $post_languages = get_post_meta($post_id, 'languages_meta', true);
+        $post_languages = $post_languages ? json_decode($post_languages, true) : [];
 
-        // Get co-contributors for each post
+        foreach ($post_languages as $lang) {
+            $languages[$lang['code']] = $lang['name']; // Store by code → name
+        }
+
+        // Get co-contributors
         if (function_exists('get_coauthors')) {
             $post_coauthors = get_coauthors($post_id);
             foreach ($post_coauthors as $coauthor) {
-                if ($coauthor->ID !== $user_id) { // Exclude the current author
+                if ($coauthor->ID !== $user_id) {
                     $co_contributors[] = $coauthor;
                 }
             }
@@ -79,24 +91,18 @@ function ac_get_terms_for_user($user_id) {
         $tags = array_merge($tags, $post_tags);
     }
 
-    // Remove duplicates from co-contributors
+    // Remove duplicates
     $co_contributors = array_unique($co_contributors, SORT_REGULAR);
-    // $co_contributors = ac_deduplicate_and_sort($co_contributors, 'last_name');
-    
-    // Sort co-contributors by last name
-    usort($co_contributors, function($a, $b) {
-        $last_name_a = get_the_author_meta('last_name', $a->ID);
-        $last_name_b = get_the_author_meta('last_name', $b->ID);
-
-        return strcasecmp($last_name_a, $last_name_b);
-    });
-
-    // Sort categories and tags alphabetically
     $categories = ac_deduplicate_and_sort($categories);
     $tags = ac_deduplicate_and_sort($tags);
 
-    return [$categories, $tags, $co_contributors];
+    // Sort languages alphabetically & reset array keys
+    asort($languages);
+    $languages = array_values(array_map(fn($code, $name) => ['code' => $code, 'name' => $name], array_keys($languages), $languages));
+
+    return [$categories, $tags, $co_contributors, $languages];
 }
+
 
 // Helper function to deduplicate and sort terms by slug with era logic.
 function ac_deduplicate_and_sort($items) {
@@ -141,10 +147,11 @@ function ac_deduplicate_and_sort($items) {
     return $unique_items;
 }
 
-// Extract numeric and era components from slug (e.g., "10th-century-common-era" => [10, 'common-era']).
+
+// For tags, extract numeric and era components from slug (e.g., "10th-century-common-era" => [10, 'common-era']).
 function extract_numeric_and_era($slug) {
     // Match numbers followed by an optional era (before-common-era, common-era, or anno-mundi).
-    if (preg_match('/(\d+)(?:st|nd|rd|th)?-century-(before-common-era|common-era|anno-mundi)/i', $slug, $matches)) {
+    if (preg_match('/(\d+)(?:st|nd|rd|th)?(?:-century)?(?:-(before-common-era|common-era|anno-mundi))?/i', $slug, $matches)) {
         return [(int) $matches[1], strtolower($matches[2])];
     }
     return [null, '']; // No match found.
@@ -154,25 +161,25 @@ function extract_numeric_and_era($slug) {
 // Format terms as a single line separated by ' | '
 function ac_format_line($terms, $type, $user_id) {
     $formatted = array_map(function ($term) use ($type, $user_id) {
-        $link = add_query_arg($type, $term->slug, get_author_posts_url($user_id));
+        $link = esc_url(add_query_arg($type, $term->slug, get_author_posts_url($user_id)));
         return '<a href="' . esc_url($link) . '">' . esc_html($term->name) . '</a>';
     }, $terms);
 
     return implode(' | ', $formatted); // Join with ' | '
 }
 
+
 // Main shortcode function to display the accordion sections
 function ac_display_author_contributions($atts) {
     $user_id = get_query_var('author'); // Get the current author ID
     if (!$user_id) return '<p>No author found.</p>';
 
-    list($categories, $tags, $co_contributors) = ac_get_terms_for_user($user_id);
+    list($categories, $tags, $co_contributors, $languages) = ac_get_terms_for_user($user_id);
 
     $output = '<div class="author-contributions">';
-
+    
     // Display the categories
     if (!empty($categories)) {
-        // $output .= '<div class="accordion-section">';
         $output .= '<div class="accordion">Filter resources by Category</div>';
         $output .= '<div class="panel"><p>';
         $output .= ac_format_line($categories, 'cat', $user_id);
@@ -181,7 +188,6 @@ function ac_display_author_contributions($atts) {
 
     // Display the tags
     if (!empty($tags)) {
-        // $output .= '<div class="accordion-section">';
         $output .= '<div class="accordion">Filter resources by Tag</div>';
         $output .= '<div class="panel"><p>';
         $output .= ac_format_line($tags, 'tag', $user_id);
@@ -189,22 +195,68 @@ function ac_display_author_contributions($atts) {
     }
 
     // Display the co-contributors
-     if (!empty($co_contributors)) {
-        // $output .= '<div class="accordion-section">';
-        $output .= '<div class="accordion">Filter resources by Name</div>';
+    if (!empty($co_contributors)) {
+        $output .= '<div class="accordion">Filter resources by Collaborator Name</div>';
         $output .= '<div class="panel"><p>';
         
         foreach ($co_contributors as $contributor) {
-            // Generate the correct URL to the author page with the collaborator filter
-            $collab_url = esc_url(add_query_arg('collab', $contributor->ID, get_author_posts_url($curauth->ID)));
+            $collab_url = esc_url(add_query_arg('collab', $contributor->ID, get_author_posts_url($user_id)));
             $output .= '<a href="' . $collab_url . '">' . esc_html($contributor->display_name) . '</a> | ';
         }
 
-        $output = rtrim($output, ' | '); // Remove the last separator
+        $output = rtrim($output, ' | '); // Remove last separator
         $output .= '</p></div>';
+    }
+
+    // Display the languages
+    if (!empty($languages)) {
+        $output .= '<div class="accordion">Filter resources by Language</div>';
+        $output .= '<div class="panel"><p>';
+
+        foreach ($languages as $lang) { // Correct way to loop through languages
+            $link = esc_url(add_query_arg([
+                'language' => $lang['code'],
+                'language_name' => urlencode($lang['name'])
+            ], get_author_posts_url($user_id)));
+            $output .= '<a href="' . $link . '">' . esc_html($lang['name']) . '</a> | ';
+        }
+
+        $output = rtrim($output, ' | ') . '</p></div>';
+    }
+    
+    // Display date filter form inside the accordion
+    if (!$GLOBALS['date_filter_displayed']) {
+        $GLOBALS['date_filter_displayed'] = true;
+
+        $output .= '<div class="accordion">Filter resources by Date Range</div>';
+        $output .= '<div class="panel"><form method="get" action="' . esc_url(get_author_posts_url($user_id)) . '">';
+
+        // Preserve only date range parameters
+        $existing_params = $_GET;
+        foreach ($existing_params as $key => $value) {
+            if ($key !== 'daterange_start' && $key !== 'daterange_end') {
+                continue;
+            }
+            $output .= '<input type="hidden" name="' . esc_attr($key) . '" value="' . esc_attr($value) . '">';
+        }
+
+        // Date input fields
+        $output .= '<div class="date-range-fields">';
+        $output .= '<label for="daterange_start">From:</label>';
+        $output .= '<input type="number" id="daterange_start" name="daterange_start" placeholder="Start year" min="-5000" max="5000">';
+        $output .= ' <label for="daterange_end">to:</label>';
+        $output .= '<input type="number" id="daterange_end" name="daterange_end" placeholder="End year" min="-5000" max="5000">';
+        $output .= '<button type="submit" class="date-range-submit">Filter</button>';
+        $output .= '</div>';
+
+        // Instruction for BCE formatting
+        $output .= '<p style="font-size: 14px; color: #666;">Enter a start year and an end year. BCE years are preceded by a hyphen (e.g., -1000).</p>';
+
+        $output .= '</form></div>';
     }
 
     $output .= '</div>';
     return $output;
 }
+
 add_shortcode('author_contributions', 'ac_display_author_contributions');

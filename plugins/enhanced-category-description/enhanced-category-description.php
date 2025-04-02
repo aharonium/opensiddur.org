@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Enhanced Category Description
  * Description: Parse category descriptions and inject related links and solicitations.
- * Version: 1.1
+ * Version: 1.2
  * Author: Aharon Varady
  * Author URI: https://github.com/aharonium/
  * Plugin URI: https://github.com/aharonium/opensiddur.org/plugins/enhanced-category-description
@@ -45,9 +45,106 @@ function is_terminal_subcategory($category_id) {
     }
 }
 
-// Helper function to build filter links for categories, tags, and authors
+
+// Helper function to build filter links for categories, tags, languages, and authors
 function build_filter_link($base_url, $query_param, $value) {
     return add_query_arg($query_param, $value, $base_url);
+}
+
+
+// Helper function to get all categories, tags, authors, and languages for posts within a terminal category
+function ac_get_terms_for_category($category_id) {
+    $cache_key = "category_terms_{$category_id}";
+    $cached = get_transient($cache_key);
+    if ($cached !== false) {
+        return $cached;
+    }
+    
+    // Check if this is a terminal subcategory first
+    if (!is_terminal_subcategory($category_id)) {
+        return [[], [], []]; // Not a terminal subcategory, return empty arrays
+    }
+
+    $post_ids = get_posts([
+        'category' => $category_id,
+        'fields' => 'ids',
+        'post_type' => 'post',
+        'posts_per_page' => -1, // Retrieve all posts in this category
+    ]);
+
+    $categories = [];
+    $tags = [];
+    $authors = [];
+    $languages = [];
+    
+    foreach ($post_ids as $post_id) {
+        // Get associated categories and tags for each post
+        $post_categories = wp_get_post_categories($post_id, ['fields' => 'all']);
+        $post_tags = wp_get_post_tags($post_id, ['fields' => 'all']);
+        $post_languages = get_post_meta($post_id, 'languages_meta', true);
+        $post_languages = $post_languages ? json_decode($post_languages, true) : [];
+
+        foreach ($post_languages as $lang) {
+            $languages[$lang['code']] = $lang['name']; // Store by code → name
+        }
+
+        // Exclude the base category
+        $post_categories = array_filter($post_categories, function($cat) use ($category_id) {
+            return $cat->term_id != $category_id;
+        });
+
+        // Fetch co-authors using Co-Authors Plus, if available
+        if (function_exists('get_coauthors')) {
+            $post_authors = get_coauthors($post_id);
+            foreach ($post_authors as $author) {
+                $authors[$author->ID] = $author; // Use author ID as key to prevent duplicates
+            }
+        } else {
+            // Fallback to single author
+            $author_id = get_post_field('post_author', $post_id);
+            $authors[$author_id] = get_user_by('id', $author_id);
+        }
+
+        $categories = array_merge($categories, $post_categories);
+        $tags = array_merge($tags, $post_tags);
+    }
+
+    // Remove duplicates and sort terms
+    $categories = ac_deduplicate_and_sort($categories);
+    $tags = ac_deduplicate_and_sort($tags);
+    
+    asort($languages);
+    $languages = array_values(array_map(fn($code, $name) => ['code' => $code, 'name' => $name], array_keys($languages), $languages));
+
+    // Sort authors alphabetically by last name
+    $authors = array_values($authors); // Convert back to indexed array after removing duplicates
+    usort($authors, function($a, $b) {
+        $last_name_a = get_the_author_meta('last_name', $a->ID);
+        $last_name_b = get_the_author_meta('last_name', $b->ID);
+        return strcasecmp($last_name_a, $last_name_b);
+    });
+
+    $result = [$categories, $tags, $authors, $languages];
+    set_transient($cache_key, $result, 12 * HOUR_IN_SECONDS);
+    return $result;
+}
+
+
+/* // Helper function to remove <div> and <blockquote> tags from the description
+function strip_outer_wrappers($content) {
+    return preg_replace('/^<div[^>]*>|<\/div>$|^<blockquote[^>]*>|<\/blockquote>$/i', '', $content);
+} */
+
+
+// Helper function to split the description into main content and related links
+function split_description($description) {
+    // Use <hr> as a delimiter to split into two parts
+    $parts = preg_split('/<hr\s*\/?>/i', $description, 2);
+
+    $main_content = trim($parts[0]); // First part: main content and solicitation
+    $related_links = isset($parts[1]) ? trim($parts[1]) : ''; // Second part: related links (if any)
+
+    return [$main_content, $related_links];
 }
 
 // Main function to enhance the category description output
@@ -72,15 +169,15 @@ function enhance_category_description($content) {
 
     // Check if this is a terminal subcategory to display filters
     if (is_terminal_subcategory($category->term_id)) {
-        // Fetch categories, tags, and authors associated with this category
-        list($categories, $tags, $authors) = ac_get_terms_for_category($category->term_id);
+        // Fetch categories, tags, languages, and authors associated with this category
+        list($categories, $tags, $authors, $languages) = ac_get_terms_for_category($category->term_id);
 
         // Build filter section if any terms are found
         $filters = '<div class="category-filters">';
 
         // Display author filters
         if (!empty($authors)) {
-            $filters .= '<div class="accordion"><strong>Filter resources by Name</strong></div>';
+            $filters .= '<div class="accordion"><strong>Filter resources by Collaborator Name</strong></div>';
             $filters .= '<div class="panel">';
             $filters .= implode(' | ', array_map(function($author) use ($category_url) {
                 $link = build_filter_link($category_url, 'col', $author->ID);
@@ -112,7 +209,57 @@ function enhance_category_description($content) {
             }, $categories));
             $filters .= '</div>';
         } 
+        
+        // Display language filters
+        if (!empty($languages)) {
+            $filters .= '<div class="accordion"><strong>Filter resources by Language</strong></div>';
+            $filters .= '<div class="panel"><p>';
 
+            foreach ($languages as $lang) {
+                $link = esc_url(add_query_arg(['language' => $lang['code'], 'language_name' => urlencode($lang['name'])], $category_url));
+                $filters .= '<a href="' . esc_url($link) . '">' . esc_html($lang['name']) . '</a> | ';
+            }
+
+            $filters = rtrim($filters, ' | ') . '</p></div>';
+        }
+        
+        // Date range filter
+        $filters .= '<div class="accordion"><strong>Filter resources by Date Range</strong></div>';
+        $filters .= '<div class="panel">';
+        $filters .= '<form action="' . esc_url(remove_query_arg(['caat', 'taag', 'col', 'language', 'language_name'], $category_url)) . '" method="get" class="date-range-form">';
+
+        // Preserve existing query parameters (except for other filters)
+        $existing_params = $_GET;
+
+        foreach ($existing_params as $key => $value) {
+            if (!in_array($key, ['caat', 'taag', 'col', 'language', 'language_name', 'daterange_start', 'daterange_end'])) {
+                $filters .= '<input type="hidden" name="' . esc_attr($key) . '" value="' . esc_attr($value) . '">';
+            }
+        }
+
+        // Pre-fill current date range if set
+        $start_value = isset($_GET['daterange_start']) ? intval($_GET['daterange_start']) : '';
+        $end_value = isset($_GET['daterange_end']) ? intval($_GET['daterange_end']) : '';
+
+        $filters .= '<div class="date-range-fields">';
+        $filters .= '<label for="daterange_start">From:</label>';
+        $filters .= '<input type="number" id="daterange_start" name="daterange_start" value="' . esc_attr($start_value) . '" placeholder="Start year"> ';
+        $filters .= '<label for="daterange_end">to:</label>';
+        $filters .= '<input type="number" id="daterange_end" name="daterange_end" value="' . esc_attr($end_value) . '" placeholder="End year">';
+        $filters .= '<button type="submit" class="date-range-submit">Filter</button>';
+        $filters .= '</div>';
+
+        // Instruction for BCE formatting
+        $filters .= '<p style="font-size: 14px; color: #666;">Enter a start year and an end year. BCE years are preceded by a dash (e.g., -1000).</p>';
+
+        // Add a "Clear Filters" button
+        // $filters .= '<p><a href="' . esc_url(get_category_link($category->term_id)) . '" class="clear-filters">Clear Filters</a></p>';
+
+        $filters .= '</form>';
+
+        $filters .= '</div>';
+        // end date range filter
+        
         $filters .= '</div>'; // Close category-filters
         $enhanced_description .= $filters; // Append filters after main content
     }
@@ -128,85 +275,6 @@ function enhance_category_description($content) {
     $enhanced_description .= '</div>'; // Close enhanced-category-description
 
     return $enhanced_description;
-}
-
-
-
-// Helper function to get all categories, tags, and authors for posts within a terminal category
-function ac_get_terms_for_category($category_id) {
-    // Check if this is a terminal subcategory first
-    if (!is_terminal_subcategory($category_id)) {
-        return [[], [], []]; // Not a terminal subcategory, return empty arrays
-    }
-
-    $post_ids = get_posts([
-        'category' => $category_id,
-        'fields' => 'ids',
-        'post_type' => 'post',
-        'posts_per_page' => -1, // Retrieve all posts in this category
-    ]);
-
-    $categories = [];
-    $tags = [];
-    $authors = [];
-
-    foreach ($post_ids as $post_id) {
-        // Get associated categories and tags for each post
-        $post_categories = wp_get_post_categories($post_id, ['fields' => 'all']);
-        $post_tags = wp_get_post_tags($post_id, ['fields' => 'all']);
-
-        // Exclude the base category
-        $post_categories = array_filter($post_categories, function($cat) use ($category_id) {
-            return $cat->term_id != $category_id;
-        });
-
-        // Fetch co-authors using Co-Authors Plus, if available
-        if (function_exists('get_coauthors')) {
-            $post_authors = get_coauthors($post_id);
-            foreach ($post_authors as $author) {
-                $authors[$author->ID] = $author; // Use author ID as key to prevent duplicates
-            }
-        } else {
-            // Fallback to single author
-            $author_id = get_post_field('post_author', $post_id);
-            $authors[$author_id] = get_user_by('id', $author_id);
-        }
-
-        $categories = array_merge($categories, $post_categories);
-        $tags = array_merge($tags, $post_tags);
-    }
-
-    // Remove duplicates and sort terms
-    $categories = ac_deduplicate_and_sort($categories);
-    $tags = ac_deduplicate_and_sort($tags);
-    
-    // Sort authors alphabetically by last name
-    $authors = array_values($authors); // Convert back to indexed array after removing duplicates
-    usort($authors, function($a, $b) {
-        $last_name_a = get_the_author_meta('last_name', $a->ID);
-        $last_name_b = get_the_author_meta('last_name', $b->ID);
-        return strcasecmp($last_name_a, $last_name_b);
-    });
-
-    return [$categories, $tags, $authors];
-}
-
-
-
-/* // Helper function to remove <div> and <blockquote> tags from the description
-function strip_outer_wrappers($content) {
-    return preg_replace('/^<div[^>]*>|<\/div>$|^<blockquote[^>]*>|<\/blockquote>$/i', '', $content);
-} */
-
-// Helper function to split the description into main content and related links
-function split_description($description) {
-    // Use <hr> as a delimiter to split into two parts
-    $parts = preg_split('/<hr\s*\/?>/i', $description, 2);
-
-    $main_content = trim($parts[0]); // First part: main content and solicitation
-    $related_links = isset($parts[1]) ? trim($parts[1]) : ''; // Second part: related links (if any)
-
-    return [$main_content, $related_links];
 }
 
 // Enqueue plugin styles and scripts
