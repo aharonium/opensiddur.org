@@ -1,4 +1,5 @@
 {
+    "post_id": 8452,
     "title": "Meditation on the Aqedah, by Shim’on Menachem",
     "author": "Shim'on Menachem",
     "coauthors": [
@@ -11,9 +12,9 @@
         }
     ],
     "date": "2014-02-17",
-    "last_updated": "2025-03-29",
+    "last_updated": "2025-04-04",
     "excerpt": "I had an opening, with the help and support of some holy chevrei, to take on Binding of Isaac and accompanying meditations that occupy a conspicuous space during the morning blessings. This is what came out. . . .",
-    "content": "\n<table style=\"margin-left: auto; margin-right: auto;\" class=\"draggable toggleable-table\">\n<thead>\n<tr>\n<th id=\"x\" style=\"text-align: right;\"><a href=\"/translate/\" target=\"_blank\" rel=\"noopener\">Contribute a translation</a></th>\n<th style=\"text-align: left;\">Source (English)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"vertical-align:top;\">\n<div class=\"liturgy\" lang=\"heb\">\n<p></span></div>\n</td>\n<td style=\"vertical-align:top;\">\n<div class=\"english\" lang=\"eng\">\nMy God and the God of my ancestors,<br />\nMy limbs, my heart, the tips of my fingers buzz with creation.<br />\nThis body is Your instrument<br />\nReady to move<br />\nOn the knife’s edge of action.\n</div>\n</td>\n</tr>\n<tr>\n<td style=\"vertical-align:top;\">\n<div class=\"liturgy\" lang=\"heb\">\n<p></span></div>\n</td>\n<td style=\"vertical-align:top;\">\n<div class=\"english\" lang=\"eng\">\nMy God and the God of my ancestors calls out,<br />\nAvraham, Avraham<br />\nWhich one am I?<br />\nDo I put forth my hand?<br />\nDo I not?\n</div>\n</td>\n</tr>\n<tr>\n<td style=\"vertical-align:top;\">\n<div class=\"liturgy\" lang=\"heb\">\n<p></span></div>\n</td>\n<td style=\"vertical-align:top;\">\n<div class=\"english\" lang=\"eng\">\nRibbono shel olam,<br />\nIf I step beck, will I tip the balance of mercy?<br />\nIf I move, will I doom us all?<br />\nAnd if the angel calls, will I hear?\n</div>\n</td>\n</tr>\n<tr>\n<td style=\"vertical-align:top;\">\n<div class=\"liturgy\" lang=\"heb\">\n<p></span></div>\n</td>\n<td style=\"vertical-align:top;\">\n<div class=\"english\" lang=\"eng\">\nRibon kol haOlamim,<br />\nThis body, my breath, my vanities<br />\nI empty them before You<br />\nAll that is left is <em>hineini</em>\n</div>\n</td>\n</tr>\n</tbody>\n</table>\n<hr />\n<p>I had an opening, with the help and support of some holy chevrei, to take on Binding of Isaac and accompanying meditations that occupy a conspicuous space during the morning blessings. This is what came out.</p>\n",
+    "content": "\n<table style=\"margin-left: auto; margin-right: auto;\" class=\"draggable toggleable-table\">\n<thead>\n<tr>\n<th id=\"x\" style=\"text-align: right;\"><a href=\"/translate/\" target=\"_blank\" rel=\"noopener\">Contribute a translation</a></th>\n<th style=\"text-align: left;\">Source (English)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"vertical-align:top;\">\n<div class=\"liturgy\" lang=\"heb-Hebr\">\n<p></span></div>\n</td>\n<td style=\"vertical-align:top;\">\n<div class=\"english\" lang=\"eng-Latn\">\nMy God and the God of my ancestors,<br />\nMy limbs, my heart, the tips of my fingers buzz with creation.<br />\nThis body is Your instrument<br />\nReady to move<br />\nOn the knife’s edge of action.\n</div>\n</td>\n</tr>\n<tr>\n<td style=\"vertical-align:top;\">\n<div class=\"liturgy\" lang=\"heb-Hebr\">\n<p></span></div>\n</td>\n<td style=\"vertical-align:top;\">\n<div class=\"english\" lang=\"eng-Latn\">\nMy God and the God of my ancestors calls out,<br />\nAvraham, Avraham<br />\nWhich one am I?<br />\nDo I put forth my hand?<br />\nDo I not?\n</div>\n</td>\n</tr>\n<tr>\n<td style=\"vertical-align:top;\">\n<div class=\"liturgy\" lang=\"heb-Hebr\">\n<p></span></div>\n</td>\n<td style=\"vertical-align:top;\">\n<div class=\"english\" lang=\"eng-Latn\">\nRibbono shel olam,<br />\nIf I step beck, will I tip the balance of mercy?<br />\nIf I move, will I doom us all?<br />\nAnd if the angel calls, will I hear?\n</div>\n</td>\n</tr>\n<tr>\n<td style=\"vertical-align:top;\">\n<div class=\"liturgy\" lang=\"heb-Hebr\">\n<p></span></div>\n</td>\n<td style=\"vertical-align:top;\">\n<div class=\"english\" lang=\"eng-Latn\">\nRibon kol haOlamim,<br />\nThis body, my breath, my vanities<br />\nI empty them before You<br />\nAll that is left is <em>hineini</em>\n</div>\n</td>\n</tr>\n</tbody>\n</table>\n<hr />\n<p>I had an opening, with the help and support of some holy chevrei, to take on Binding of Isaac and accompanying meditations that occupy a conspicuous space during the morning blessings. This is what came out.</p>\n",
     "categories": [
         "Aqédat Yitsḥaq"
     ],
@@ -37,6 +38,18 @@
         ],
         "_thumbnail_id": [
             "8455"
+        ],
+        "date_src_start": [
+            "2014-02-17"
+        ],
+        "date_src_end": [
+            "2014-02-17"
+        ],
+        "languages_meta": [
+            "[{\"name\":\"English\",\"code\":\"eng\",\"standard\":\"ISO 639-3\"},{\"name\":\"Hebrew\",\"code\":\"heb\",\"standard\":\"ISO 639-3\"}]"
+        ],
+        "scripts_meta": [
+            "[{\"name\":\"Latin\",\"code\":\"Latn\",\"standard\":\"ISO 15924\"},{\"name\":\"Hebrew (Ktav Ashuri)\",\"code\":\"Hebr\",\"standard\":\"ISO 15924\"}]"
         ]
     },
     "featured_image": {

@@ -1,4 +1,5 @@
 {
+    "post_id": 10,
     "title": "PresenTense Institute Summer Workshop (Aharon Varady 2009)",
     "author": "Aharon N. Varady",
     "coauthors": [
@@ -11,9 +12,9 @@
         }
     ],
     "date": "2009-06-16",
-    "last_updated": "2025-03-29",
+    "last_updated": "2025-04-04",
     "excerpt": "The inaugural first post here at the Open Siddur Project website. . . .",
-    "content": "<div class=\"english\" lang=\"eng\" style=\"font-size: 1.2em;\">\nW00t! First post!</p>\n<p>Over the course of the summer I will be in Jerusalem attending the <a href=\"http://www.presentense.org/\">PresenTense Institute</a>&#8216;s <a href=\"http://web.archive.org/web/20160331171421/http://presentense.org/institute/about\">summer workshop</a>. Before I arrived I set in mind an intention, (or <em>kavvanah</em>, as it were) to achieve the following goals:</p>\n<ol>\n<li>gaining expert understanding of the licensing and technical challenges for developing partnerships between creative projects founded on works in the public domain</li>\n<li>learning about how to manage and sustain non-commercial open source projects, and</li>\n<li>cultivating relationships with future partners and users of the Open Siddur and its affiliate projects.</li>\n</ol>\n</div>\n<p>&nbsp;</p>\n",
+    "content": "<div class=\"english\" lang=\"eng-Latn\" style=\"font-size: 1.2em;\">\nW00t! First post!</p>\n<p>Over the course of the summer I will be in Jerusalem attending the <a href=\"http://www.presentense.org/\">PresenTense Institute</a>&#8216;s <a href=\"http://web.archive.org/web/20160331171421/http://presentense.org/institute/about\">summer workshop</a>. Before I arrived I set in mind an intention, (or <em>kavvanah</em>, as it were) to achieve the following goals:</p>\n<ol>\n<li>gaining expert understanding of the licensing and technical challenges for developing partnerships between creative projects founded on works in the public domain</li>\n<li>learning about how to manage and sustain non-commercial open source projects, and</li>\n<li>cultivating relationships with future partners and users of the Open Siddur and its affiliate projects.</li>\n</ol>\n</div>\n<p>&nbsp;</p>\n",
     "categories": [
         "Development"
     ],
@@ -26,6 +27,18 @@
         ],
         "_thumbnail_id": [
             "133"
+        ],
+        "date_src_start": [
+            "2009-06-16"
+        ],
+        "date_src_end": [
+            "2009-06-16"
+        ],
+        "languages_meta": [
+            "[{\"name\":\"English\",\"code\":\"eng\",\"standard\":\"ISO 639-3\"}]"
+        ],
+        "scripts_meta": [
+            "[{\"name\":\"Latin\",\"code\":\"Latn\",\"standard\":\"ISO 15924\"}]"
         ]
     },
     "featured_image": {

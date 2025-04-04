@@ -1,4 +1,5 @@
 {
+    "post_id": 25633,
     "title": "תהלים ק״נ | Psalms 150, translated by Isaac Gantwerk Mayer",
     "author": "the Masoretic Text",
     "coauthors": [
@@ -18,9 +19,9 @@
         }
     ],
     "date": "2019-06-09",
-    "last_updated": "2025-03-27",
+    "last_updated": "2025-04-04",
     "excerpt": "Psalms 150 in Hebrew with English translation. . . .",
-    "content": "\n<table style=\"margin-left: auto; margin-right: auto;\" class=\"draggable toggleable-table\">\n<thead>\n<tr>\n<th id=\"x\" style=\"text-align: right;\">Source (Hebrew)</th>\n<th style=\"text-align: left;\">Translation (English)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"vertical-align:top;\">\n<div class=\"liturgy\" lang=\"heb\">\nהַ֥לְלוּ יָ֨הּ ׀<br />\nהַֽלְלוּ־אֵ֥ל בְּקׇדְשׁ֑וֹ<br />\nהַֽ֝לְל֗וּהוּ בִּרְקִ֥יעַ עֻזּֽוֹ׃<br />\nהַלְל֥וּהוּ בִגְבוּרֹתָ֑יו<br />\nהַ֝לְל֗וּהוּ כְּרֹ֣ב גֻּדְלֽוֹ׃<br />\n</span></div>\n</td>\n<td style=\"vertical-align:top;\">\n<div class=\"english\" lang=\"eng\">\nPraise the SOURCE!<br />\nPraise the CAUSE in holiness,<br />\npraise God in the firmament.<br />\nPraise God in acts of glory,<br />\npraise God for manifold greatness.\n</div>\n</td>\n</tr>\n<tr>\n<td style=\"vertical-align:top;\">\n<div class=\"liturgy\" lang=\"heb\">\nהַ֭לְלוּהוּ בְּתֵ֣קַע שׁוֹפָ֑ר<br />\nהַ֝לְל֗וּהוּ בְּנֵ֣בֶל וְכִנּֽוֹר׃<br />\nהַ֭לְלוּהוּ בְּתֹ֣ף וּמָח֑וֹל<br />\nהַֽ֝לְל֗וּהוּ בְּמִנִּ֥ים וְעֻגָֽב׃<br />\nהַלְל֥וּהוּ בְצִלְצְלֵי־שָׁ֑מַע<br />\nהַֽ֝לְל֗וּהוּ בְּֽצִלְצְלֵ֥י תְרוּעָֽה׃<br />\n</span></div>\n</td>\n<td style=\"vertical-align:top;\">\n<div class=\"english\" lang=\"eng\">\nPraise God with blast of the shofar,<br />\npraise God with lute and lyre,<br />\nPraise God with drum and dance,<br />\npraise God with harp and pipe.<br />\nPraise God with cymbals sounding,<br />\npraise God with cymbals resounding.\n</div>\n</td>\n</tr>\n<tr>\n<td style=\"vertical-align:top;\">\n<div class=\"liturgy\" lang=\"heb\">\nכֹּ֣ל הַ֭נְּשָׁמָה תְּהַלֵּ֥ל יָ֗הּ<br />\nהַֽלְלוּ־יָֽהּ׃<br />\nכֹּ֣ל הַ֭נְּשָׁמָה תְּהַלֵּ֥ל יָ֗הּ<br />\nהַֽלְלוּ־יָֽהּ׃<br />\n</span></div>\n</td>\n<td style=\"vertical-align:top;\">\n<div class=\"english\" lang=\"eng\">\nLet all with breath praise the SOURCE,<br />\npraise the SOURCE!<br />\nLet all with breath praise the SOURCE,<br />\npraise the SOURCE!\n</div>\n</td>\n</tr>\n</tbody>\n</table>\n",
+    "content": "\n<table style=\"margin-left: auto; margin-right: auto;\" class=\"draggable toggleable-table\">\n<thead>\n<tr>\n<th id=\"x\" style=\"text-align: right;\">Source (Hebrew)</th>\n<th style=\"text-align: left;\">Translation (English)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"vertical-align:top;\">\n<div class=\"liturgy\" lang=\"heb-Hebr\">\nהַ֥לְלוּ יָ֨הּ ׀<br />\nהַֽלְלוּ־אֵ֥ל בְּקׇדְשׁ֑וֹ<br />\nהַֽ֝לְל֗וּהוּ בִּרְקִ֥יעַ עֻזּֽוֹ׃<br />\nהַלְל֥וּהוּ בִגְבוּרֹתָ֑יו<br />\nהַ֝לְל֗וּהוּ כְּרֹ֣ב גֻּדְלֽוֹ׃<br />\n</span></div>\n</td>\n<td style=\"vertical-align:top;\">\n<div class=\"english\" lang=\"eng-Latn\">\nPraise the SOURCE!<br />\nPraise the CAUSE in holiness,<br />\npraise God in the firmament.<br />\nPraise God in acts of glory,<br />\npraise God for manifold greatness.\n</div>\n</td>\n</tr>\n<tr>\n<td style=\"vertical-align:top;\">\n<div class=\"liturgy\" lang=\"heb-Hebr\">\nהַ֭לְלוּהוּ בְּתֵ֣קַע שׁוֹפָ֑ר<br />\nהַ֝לְל֗וּהוּ בְּנֵ֣בֶל וְכִנּֽוֹר׃<br />\nהַ֭לְלוּהוּ בְּתֹ֣ף וּמָח֑וֹל<br />\nהַֽ֝לְל֗וּהוּ בְּמִנִּ֥ים וְעֻגָֽב׃<br />\nהַלְל֥וּהוּ בְצִלְצְלֵי־שָׁ֑מַע<br />\nהַֽ֝לְל֗וּהוּ בְּֽצִלְצְלֵ֥י תְרוּעָֽה׃<br />\n</span></div>\n</td>\n<td style=\"vertical-align:top;\">\n<div class=\"english\" lang=\"eng-Latn\">\nPraise God with blast of the shofar,<br />\npraise God with lute and lyre,<br />\nPraise God with drum and dance,<br />\npraise God with harp and pipe.<br />\nPraise God with cymbals sounding,<br />\npraise God with cymbals resounding.\n</div>\n</td>\n</tr>\n<tr>\n<td style=\"vertical-align:top;\">\n<div class=\"liturgy\" lang=\"heb-Hebr\">\nכֹּ֣ל הַ֭נְּשָׁמָה תְּהַלֵּ֥ל יָ֗הּ<br />\nהַֽלְלוּ־יָֽהּ׃<br />\nכֹּ֣ל הַ֭נְּשָׁמָה תְּהַלֵּ֥ל יָ֗הּ<br />\nהַֽלְלוּ־יָֽהּ׃<br />\n</span></div>\n</td>\n<td style=\"vertical-align:top;\">\n<div class=\"english\" lang=\"eng-Latn\">\nLet all with breath praise the SOURCE,<br />\npraise the SOURCE!<br />\nLet all with breath praise the SOURCE,<br />\npraise the SOURCE!\n</div>\n</td>\n</tr>\n</tbody>\n</table>\n",
     "categories": [
         "Tehilim Book 5 (Psalms 107–150)",
         "Psalms 150"
@@ -36,6 +37,18 @@
         ],
         "_yoast_wpseo_primary_category": [
             "6699"
+        ],
+        "date_src_start": [
+            "-1000-00-00"
+        ],
+        "date_src_end": [
+            "-0400-00-00"
+        ],
+        "languages_meta": [
+            "[{\"name\":\"English\",\"code\":\"eng\",\"standard\":\"ISO 639-3\"},{\"name\":\"Hebrew\",\"code\":\"heb\",\"standard\":\"ISO 639-3\"}]"
+        ],
+        "scripts_meta": [
+            "[{\"name\":\"Latin\",\"code\":\"Latn\",\"standard\":\"ISO 15924\"},{\"name\":\"Hebrew (Ktav Ashuri)\",\"code\":\"Hebr\",\"standard\":\"ISO 15924\"}]"
         ]
     },
     "featured_image": [],
