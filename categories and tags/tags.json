@@ -10704,22 +10704,13 @@
     {
         "tag_id": 3216,
         "tag_name": "baking ḥallah",
-        "tag_slug": "baking-%e1%b8%a5allah",
+        "tag_slug": "baking-hallah",
         "post_ids": [
             "22626",
             "32696",
             "33466",
             "41513",
             "41522"
-        ]
-    },
-    {
-        "tag_id": 3799,
-        "tag_name": "bal tashḥit",
-        "tag_slug": "bal-tash%e1%b8%a5it",
-        "post_ids": [
-            "26845",
-            "38538"
         ]
     },
     {
@@ -11219,14 +11210,6 @@
         "tag_slug": "birkat-yeladim",
         "post_ids": [
             "34036"
-        ]
-    },
-    {
-        "tag_id": 2886,
-        "tag_name": "birkhot hashaḥar",
-        "tag_slug": "birkhot-hasha%e1%b8%a5ar",
-        "post_ids": [
-            "20962"
         ]
     },
     {
@@ -17662,15 +17645,6 @@
         ]
     },
     {
-        "tag_id": 2360,
-        "tag_name": "Even Boḥan",
-        "tag_slug": "even-bo%e1%b8%a5an",
-        "post_ids": [
-            "18267",
-            "21633"
-        ]
-    },
-    {
         "tag_id": 678,
         "tag_name": "evening",
         "tag_slug": "evening",
@@ -19850,7 +19824,7 @@
     {
         "tag_id": 3130,
         "tag_name": "hakhnasat orḥim",
-        "tag_slug": "hakhnasat-or%e1%b8%a5im",
+        "tag_slug": "hakhnasat-orhim",
         "post_ids": [
             "21865",
             "58585"
@@ -20865,7 +20839,7 @@
     {
         "tag_id": 2734,
         "tag_name": "in the merit of Raḥel",
-        "tag_slug": "in-the-merit-of-ra%e1%b8%a5el",
+        "tag_slug": "in-the-merit-of-rahel",
         "post_ids": [
             "14149"
         ]
@@ -22871,7 +22845,7 @@
     {
         "tag_id": 6015,
         "tag_name": "King George Ⅱ",
-        "tag_slug": "king-george-%e2%85%b1",
+        "tag_slug": "king-george-2nd",
         "post_ids": [
             "50438"
         ]
@@ -22896,7 +22870,7 @@
     {
         "tag_id": 6017,
         "tag_name": "King William Ⅳ",
-        "tag_slug": "king-william-%e2%85%b3",
+        "tag_slug": "king-william-4th",
         "post_ids": [
             "50438"
         ]
@@ -24118,8 +24092,8 @@
     },
     {
         "tag_id": 6168,
-        "tag_name": "Maḥzor Aram Tsoba (1560)",
-        "tag_slug": "ma%e1%b8%a5zor-aram-tsoba-1560",
+        "tag_name": "Maḥzor Aram Tsoba",
+        "tag_slug": "mahzor-aram-tsoba",
         "post_ids": [
             "53043"
         ]
@@ -25035,15 +25009,6 @@
         ]
     },
     {
-        "tag_id": 3157,
-        "tag_name": "Minḥah",
-        "tag_slug": "min%e1%b8%a5ah",
-        "post_ids": [
-            "20857",
-            "38509"
-        ]
-    },
-    {
         "tag_id": 382,
         "tag_name": "Miriam",
         "tag_slug": "miriam",
@@ -25562,7 +25527,7 @@
     {
         "tag_id": 2492,
         "tag_name": "naḥshon ben aminadav",
-        "tag_slug": "na%e1%b8%a5shon-ben-aminadav",
+        "tag_slug": "nahshon-ben-aminadav",
         "post_ids": [
             "18989"
         ]
@@ -25803,7 +25768,7 @@
     {
         "tag_id": 2898,
         "tag_name": "Neḥemyah",
-        "tag_slug": "ne%e1%b8%a5emyah",
+        "tag_slug": "nehemyah",
         "post_ids": [
             "21013",
             "27894"
@@ -25812,7 +25777,7 @@
     {
         "tag_id": 5575,
         "tag_name": "neḥilot",
-        "tag_slug": "ne%e1%b8%a5ilot",
+        "tag_slug": "nehilot",
         "post_ids": [
             "43958"
         ]
@@ -25860,7 +25825,7 @@
     {
         "tag_id": 2810,
         "tag_name": "neoḥasidic idealization",
-        "tag_slug": "neo%e1%b8%a5asidic-idealization",
+        "tag_slug": "neohasidic-idealization",
         "post_ids": [
             "20670"
         ]
@@ -26049,7 +26014,7 @@
     {
         "tag_id": 2860,
         "tag_name": "no Taḥanun days",
-        "tag_slug": "no-ta%e1%b8%a5anun-days",
+        "tag_slug": "no-tahanun-days",
         "post_ids": [
             "20851"
         ]
@@ -26500,7 +26465,7 @@
     {
         "tag_id": 4219,
         "tag_name": "Nusaḥ Cochin",
-        "tag_slug": "nusa%e1%b8%a5-cochin",
+        "tag_slug": "nusah-cochin",
         "post_ids": [
             "30274",
             "58825"
@@ -26577,7 +26542,7 @@
     {
         "tag_id": 4502,
         "tag_name": "Nusaḥ Italḳi",
-        "tag_slug": "nusa%e1%b8%a5-ital%e1%b8%b3i",
+        "tag_slug": "nusah-italki",
         "post_ids": [
             "33337",
             "46829",
@@ -26599,7 +26564,7 @@
     {
         "tag_id": 3856,
         "tag_name": "Nusaḥ Roma",
-        "tag_slug": "nusa%e1%b8%a5-roma",
+        "tag_slug": "nusah-roma",
         "post_ids": [
             "27254"
         ]
@@ -26668,7 +26633,7 @@
     {
         "tag_id": 4220,
         "tag_name": "Nusaḥ Šingli",
-        "tag_slug": "nusa%e1%b8%a5-singli",
+        "tag_slug": "nusah-singli",
         "post_ids": [
             "30274"
         ]
@@ -26685,7 +26650,7 @@
     {
         "tag_id": 4574,
         "tag_name": "Nusaḥ Yeb",
-        "tag_slug": "nusa%e1%b8%a5-yeb",
+        "tag_slug": "nusah-yeb",
         "post_ids": [
             "34083"
         ]
@@ -27291,7 +27256,7 @@
     {
         "tag_id": 3223,
         "tag_name": "paraliturgical Al Ḥet",
-        "tag_slug": "paraliturgical-al-%e1%b8%a5et",
+        "tag_slug": "paraliturgical-al-het",
         "post_ids": [
             "21742",
             "33768"
@@ -27437,7 +27402,7 @@
     {
         "tag_id": 4338,
         "tag_name": "paraliturgical birkhot hashaḥar",
-        "tag_slug": "paraliturgical-birkhot-hasha%e1%b8%a5ar",
+        "tag_slug": "paraliturgical-birkhot-hashahar",
         "post_ids": [
             "31352"
         ]
@@ -27669,7 +27634,7 @@
     {
         "tag_id": 2616,
         "tag_name": "paraliturgical nishmat kol ḥai",
-        "tag_slug": "paraliturgical-nishmat-kol-%e1%b8%a5ai",
+        "tag_slug": "paraliturgical-nishmat-kol-hai",
         "post_ids": [
             "7050",
             "33691",
@@ -28865,7 +28830,7 @@
     {
         "tag_id": 2215,
         "tag_name": "Post-Ḥag",
-        "tag_slug": "post-%e1%b8%a5ag",
+        "tag_slug": "post-hag",
         "post_ids": [
             "17783"
         ]
@@ -28929,7 +28894,7 @@
     {
         "tag_id": 2878,
         "tag_name": "Poteaḥ et Yodekha",
-        "tag_slug": "potea%e1%b8%a5-et-yodekha",
+        "tag_slug": "poteah-et-yodekha",
         "post_ids": [
             "20948",
             "25627",
@@ -30167,7 +30132,7 @@
     {
         "tag_id": 6717,
         "tag_name": "pre-Ḥanukkah",
-        "tag_slug": "pre-%e1%b8%a5anukkah",
+        "tag_slug": "pre-hanukkah",
         "post_ids": [
             "59347"
         ]
@@ -30175,7 +30140,7 @@
     {
         "tag_id": 4231,
         "tag_name": "pre-Pesaḥ",
-        "tag_slug": "pre-pesa%e1%b8%a5",
+        "tag_slug": "pre-pesah",
         "post_ids": [
             "30397",
             "30400",
@@ -31728,14 +31693,6 @@
         ]
     },
     {
-        "tag_id": 2243,
-        "tag_name": "Raḥel",
-        "tag_slug": "ra%e1%b8%a5el",
-        "post_ids": [
-            "17876"
-        ]
-    },
-    {
         "tag_id": 6626,
         "tag_name": "rahit",
         "tag_slug": "rahit",
@@ -32664,17 +32621,9 @@
         ]
     },
     {
-        "tag_id": 2564,
-        "tag_name": "rosh ḥodesh",
-        "tag_slug": "rosh-%e1%b8%a5odesh",
-        "post_ids": [
-            "23933"
-        ]
-    },
-    {
         "tag_id": 6615,
         "tag_name": "Rosh Ḥodesh Elul (אֶלוּל)",
-        "tag_slug": "rosh-%e1%b8%a5odesh-elul-%d7%90%d6%b6%d7%9c%d7%95%d6%bc%d7%9c",
+        "tag_slug": "rosh-hodesh-elul",
         "post_ids": [
             "57706"
         ]
@@ -33386,14 +33335,6 @@
         ]
     },
     {
-        "tag_id": 3359,
-        "tag_name": "Shamir שמיר",
-        "tag_slug": "shamir-%d7%a9%d7%9e%d7%99%d7%a8",
-        "post_ids": [
-            "23485"
-        ]
-    },
-    {
         "tag_id": 227,
         "tag_name": "sharealike",
         "tag_slug": "sharealike",
@@ -33412,28 +33353,11 @@
         ]
     },
     {
-        "tag_id": 3202,
-        "tag_name": "Shazur שזור",
-        "tag_slug": "shazur-%d7%a9%d7%96%d7%95%d7%a8",
-        "post_ids": [
-            "22554"
-        ]
-    },
-    {
         "tag_id": 1569,
         "tag_name": "shehakol",
         "tag_slug": "shehakol",
         "post_ids": [
             "14723"
-        ]
-    },
-    {
-        "tag_id": 2477,
-        "tag_name": "sheḥitah",
-        "tag_slug": "she%e1%b8%a5itah",
-        "post_ids": [
-            "18884",
-            "19927"
         ]
     },
     {
@@ -33504,7 +33428,7 @@
     {
         "tag_id": 4985,
         "tag_name": "shimon ben yoḥai",
-        "tag_slug": "shimon-ben-yo%e1%b8%a5ai",
+        "tag_slug": "shimon-ben-yohai",
         "post_ids": [
             "37664"
         ]
@@ -33545,14 +33469,6 @@
             "42699",
             "42731",
             "42736"
-        ]
-    },
-    {
-        "tag_id": 2668,
-        "tag_name": "shoḥtim",
-        "tag_slug": "sho%e1%b8%a5tim",
-        "post_ids": [
-            "19927"
         ]
     },
     {
@@ -35031,7 +34947,7 @@
     {
         "tag_id": 2132,
         "tag_name": "teḥinot during meals",
-        "tag_slug": "te%e1%b8%a5inot-during-meals",
+        "tag_slug": "tehinot-during-meals",
         "post_ids": [
             "3943",
             "33533"
@@ -35040,7 +34956,7 @@
     {
         "tag_id": 2421,
         "tag_name": "teḥinot in English",
-        "tag_slug": "te%e1%b8%a5inot-in-english",
+        "tag_slug": "tehinot-in-english",
         "post_ids": [
             "6916",
             "28006",
@@ -35175,7 +35091,7 @@
     {
         "tag_id": 5913,
         "tag_name": "teḥinot in French",
-        "tag_slug": "te%e1%b8%a5inot-in-french",
+        "tag_slug": "tehinot-in-french",
         "post_ids": [
             "48043"
         ]
@@ -35258,7 +35174,7 @@
     {
         "tag_id": 4327,
         "tag_name": "teḥinot in Magyar",
-        "tag_slug": "te%e1%b8%a5inot-in-magyar",
+        "tag_slug": "tehinot-in-magyar",
         "post_ids": [
             "31314",
             "32499",
@@ -37109,7 +37025,7 @@
     {
         "tag_id": 5937,
         "tag_name": "United States entry into World War Ⅰ",
-        "tag_slug": "united-states-entry-into-world-war-%e2%85%b0",
+        "tag_slug": "united-states-entry-into-world-war-1",
         "post_ids": [
             "48479",
             "53929",
@@ -37231,7 +37147,7 @@
     {
         "tag_id": 5940,
         "tag_name": "United States home front during World War Ⅰ",
-        "tag_slug": "united-states-home-front-during-world-war-%e2%85%b0",
+        "tag_slug": "united-states-home-front-during-world-war-1",
         "post_ids": [
             "48494",
             "52335"
@@ -37522,14 +37438,6 @@
             "22902",
             "31658",
             "37295"
-        ]
-    },
-    {
-        "tag_id": 3325,
-        "tag_name": "vilde ḥayye",
-        "tag_slug": "vilde-%e1%b8%a5ayye",
-        "post_ids": [
-            "23294"
         ]
     },
     {
@@ -38811,6 +38719,15 @@
         ]
     },
     {
+        "tag_id": 2360,
+        "tag_name": "אבן בוחן Even Boḥan",
+        "tag_slug": "even-bohan",
+        "post_ids": [
+            "18267",
+            "21633"
+        ]
+    },
+    {
         "tag_id": 2237,
         "tag_name": "אברא כדברא abra k'davra",
         "tag_slug": "abra-kdavra",
@@ -39054,7 +38971,7 @@
     {
         "tag_id": 6375,
         "tag_name": "אין אדיר Ayn Adir",
-        "tag_slug": "%d7%90%d7%99%d7%9f-%d7%90%d7%93%d7%99%d7%a8-ayn-adir",
+        "tag_slug": "ayn-adir",
         "post_ids": [
             "28390",
             "55294"
@@ -39293,7 +39210,7 @@
     {
         "tag_id": 6081,
         "tag_name": "ארבה מנים arba minim",
-        "tag_slug": "%d7%90%d7%a8%d7%91%d7%94-%d7%9e%d7%a0%d7%99%d7%9d-arba-minim",
+        "tag_slug": "arba-minim",
         "post_ids": [
             "51659"
         ]
@@ -39439,7 +39356,7 @@
     {
         "tag_id": 6109,
         "tag_name": "בונה ירושלים boneh yerushalayim",
-        "tag_slug": "%d7%91%d7%95%d7%a0%d7%94-%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d-boneh-yerushalayim",
+        "tag_slug": "boneh-yerushalayim",
         "post_ids": [
             "51957"
         ]
@@ -39458,6 +39375,15 @@
         "tag_slug": "biqur-holim",
         "post_ids": [
             "50136"
+        ]
+    },
+    {
+        "tag_id": 3799,
+        "tag_name": "בל תשחית bal tashḥit",
+        "tag_slug": "bal-tashhit",
+        "post_ids": [
+            "26845",
+            "38538"
         ]
     },
     {
@@ -39591,6 +39517,14 @@
         ]
     },
     {
+        "tag_id": 2886,
+        "tag_name": "ברכות השחר birkhot hashaḥar",
+        "tag_slug": "birkhot-hashahar",
+        "post_ids": [
+            "20962"
+        ]
+    },
+    {
         "tag_id": 4343,
         "tag_name": "ברכות התורה birkhot haTorah",
         "tag_slug": "birkhot-hatorah",
@@ -39620,7 +39554,7 @@
     {
         "tag_id": 6082,
         "tag_name": "ברכת הבנים blessing of the children",
-        "tag_slug": "%d7%91%d7%a8%d7%9b%d7%aa-%d7%94%d7%91%d7%a0%d7%99%d7%9d-blessing-of-the-children",
+        "tag_slug": "blessing-of-the-children",
         "post_ids": [
             "51674"
         ]
@@ -39926,7 +39860,7 @@
     {
         "tag_id": 6102,
         "tag_name": "הכל יודוך hakol yodukha",
-        "tag_slug": "%d7%94%d7%9b%d7%9c-%d7%99%d7%95%d7%93%d7%95%d7%9a-hakol-yodukha",
+        "tag_slug": "hakol-yodukha",
         "post_ids": [
             "51865"
         ]
@@ -40249,6 +40183,14 @@
         ]
     },
     {
+        "tag_id": 3325,
+        "tag_name": "װילדע חיה vilde ḥayye",
+        "tag_slug": "vilde-hayye",
+        "post_ids": [
+            "23294"
+        ]
+    },
+    {
         "tag_id": 6720,
         "tag_name": "ויברך דויד Vayivarekh David",
         "tag_slug": "vayivarekh-david",
@@ -40343,7 +40285,7 @@
     {
         "tag_id": 6197,
         "tag_name": "זאת חנוכה Zot Ḥanukkah",
-        "tag_slug": "%d7%96%d7%90%d7%aa-%d7%97%d7%a0%d7%95%d7%9b%d7%94-zot-%e1%b8%a5anukkah",
+        "tag_slug": "zot-hanukkah",
         "post_ids": [
             "28690",
             "53636"
@@ -40352,7 +40294,7 @@
     {
         "tag_id": 5992,
         "tag_name": "זכירות zekhirot",
-        "tag_slug": "%d7%96%d7%9b%d7%99%d7%a8%d7%95%d7%aa-zekhirot",
+        "tag_slug": "zekhirot",
         "post_ids": [
             "49332",
             "55410"
@@ -40814,7 +40756,7 @@
     {
         "tag_id": 6097,
         "tag_name": "חצי קדיש ḥatsi ḳaddish",
-        "tag_slug": "%d7%97%d7%a6%d7%99-%d7%a7%d7%93%d7%99%d7%a9-%e1%b8%a5atsi-%e1%b8%b3addish",
+        "tag_slug": "hatsi-qaddish",
         "post_ids": [
             "51815",
             "59803",
@@ -40915,7 +40857,7 @@
     {
         "tag_id": 5989,
         "tag_name": "טל tal",
-        "tag_slug": "%d7%98%d7%9c-tal",
+        "tag_slug": "tal",
         "post_ids": [
             "49294"
         ]
@@ -41048,7 +40990,7 @@
     {
         "tag_id": 6334,
         "tag_name": "יום זה מכובד yom zeh mekhubad",
-        "tag_slug": "%d7%99%d7%95%d7%9d-%d7%96%d7%94-%d7%9e%d7%9b%d7%95%d7%91%d7%93-yom-zeh-mekhubad",
+        "tag_slug": "yom-zeh-mekhubad",
         "post_ids": [
             "54940"
         ]
@@ -41064,7 +41006,7 @@
     {
         "tag_id": 6335,
         "tag_name": "יום שבתון yom shabbaton",
-        "tag_slug": "%d7%99%d7%95%d7%9d-%d7%a9%d7%91%d7%aa%d7%95%d7%9f-yom-shabbaton",
+        "tag_slug": "yom-shabbaton",
         "post_ids": [
             "54946"
         ]
@@ -41226,7 +41168,7 @@
     {
         "tag_id": 6389,
         "tag_name": "יקום פורקן yequm purqan",
-        "tag_slug": "%d7%99%d7%a7%d7%95%d7%9d-%d7%a4%d7%95%d7%a8%d7%a7%d7%9f-yequm-purqan",
+        "tag_slug": "yequm-purqan",
         "post_ids": [
             "55419"
         ]
@@ -41388,7 +41330,7 @@
     {
         "tag_id": 6462,
         "tag_name": "כיבוד אב ואם kibud av va-em",
-        "tag_slug": "%d7%9b%d7%99%d7%91%d7%95%d7%93-%d7%90%d7%91-%d7%95%d7%90%d7%9d-kibud-av-va-em",
+        "tag_slug": "kibud-av-va-em",
         "post_ids": [
             "56616"
         ]
@@ -41405,7 +41347,7 @@
     {
         "tag_id": 6333,
         "tag_name": "כל מקדש שביעי kol meqadesh shevi'i",
-        "tag_slug": "%d7%9b%d7%9c-%d7%9e%d7%a7%d7%93%d7%a9-%d7%a9%d7%91%d7%99%d7%a2%d7%99-kol-meqadesh-shevii",
+        "tag_slug": "kol-meqadesh-shevii",
         "post_ids": [
             "54936"
         ]
@@ -41720,7 +41662,7 @@
     {
         "tag_id": 6401,
         "tag_name": "מוריד הטל morid hatal",
-        "tag_slug": "%d7%9e%d7%95%d7%a8%d7%99%d7%93-%d7%94%d7%98%d7%9c-morid-hatal",
+        "tag_slug": "morid-hatal",
         "post_ids": [
             "55568"
         ]
@@ -41864,6 +41806,15 @@
         ]
     },
     {
+        "tag_id": 3157,
+        "tag_name": "מנחה Minḥah",
+        "tag_slug": "minhah",
+        "post_ids": [
+            "20857",
+            "38509"
+        ]
+    },
+    {
         "tag_id": 3739,
         "tag_name": "מסעי Masei",
         "tag_slug": "masei",
@@ -41936,7 +41887,7 @@
     {
         "tag_id": 6066,
         "tag_name": "מקווה miqveh",
-        "tag_slug": "%d7%9e%d7%a7%d7%95%d7%95%d7%94-miqveh",
+        "tag_slug": "miqveh",
         "post_ids": [
             "51442",
             "60936"
@@ -41961,7 +41912,7 @@
     {
         "tag_id": 6758,
         "tag_name": "משתה Mishteh",
-        "tag_slug": "%d7%9e%d7%a9%d7%aa%d7%94-mishteh",
+        "tag_slug": "mishteh",
         "post_ids": [
             "60273"
         ]
@@ -42215,7 +42166,7 @@
     {
         "tag_id": 6304,
         "tag_name": "סעודת פורים seudat purim",
-        "tag_slug": "%d7%a1%d7%a2%d7%95%d7%93%d7%aa-%d7%a4%d7%95%d7%a8%d7%99%d7%9d-seudat-purim",
+        "tag_slug": "seudat-purim",
         "post_ids": [
             "54592"
         ]
@@ -42271,7 +42222,7 @@
     {
         "tag_id": 6039,
         "tag_name": "עבודה זרה avodah zarah",
-        "tag_slug": "%d7%a2%d7%91%d7%95%d7%93%d7%94-%d7%96%d7%a8%d7%94-avodah-zarah",
+        "tag_slug": "avodah-zarah",
         "post_ids": [
             "50919",
             "51099"
@@ -42309,7 +42260,7 @@
     {
         "tag_id": 6105,
         "tag_name": "עזרת אבותנו ezrat avotenu",
-        "tag_slug": "%d7%a2%d7%96%d7%a8%d7%aa-%d7%90%d7%91%d7%95%d7%aa%d7%a0%d7%95-ezrat-avotenu",
+        "tag_slug": "ezrat-avotenu",
         "post_ids": [
             "51919"
         ]
@@ -42340,7 +42291,7 @@
     {
         "tag_id": 6742,
         "tag_name": "על אהבתך Al Ahavatekha",
-        "tag_slug": "%d7%a2%d7%9c-%d7%90%d7%94%d7%91%d7%aa%d7%9a-al-ahavatekha",
+        "tag_slug": "al-ahavatekha",
         "post_ids": [
             "38559",
             "59896"
@@ -42381,7 +42332,7 @@
     {
         "tag_id": 6104,
         "tag_name": "על הראשונים al harishonim",
-        "tag_slug": "%d7%a2%d7%9c-%d7%94%d7%a8%d7%90%d7%a9%d7%95%d7%a0%d7%99%d7%9d-al-harishonim",
+        "tag_slug": "al-harishonim",
         "post_ids": [
             "51915"
         ]
@@ -42527,14 +42478,6 @@
         ]
     },
     {
-        "tag_id": 6757,
-        "tag_name": "פורים Purim",
-        "tag_slug": "%d7%a4%d7%95%d7%a8%d7%99%d7%9d-purim",
-        "post_ids": [
-            "60273"
-        ]
-    },
-    {
         "tag_id": 2856,
         "tag_name": "פזמונים pizmonim",
         "tag_slug": "pizmonim",
@@ -42560,7 +42503,7 @@
     {
         "tag_id": 6761,
         "tag_name": "פיוטי אלהיכם piyyuṭei eloheikhem",
-        "tag_slug": "%d7%a4%d7%99%d7%95%d7%98%d7%99-%d7%90%d7%9c%d7%94%d7%99%d7%9b%d7%9d-piyyu%e1%b9%adei-eloheikhem",
+        "tag_slug": "piyyutei-eloheikhem",
         "post_ids": [
             "60305"
         ]
@@ -43536,7 +43479,7 @@
     {
         "tag_id": 6722,
         "tag_name": "קדושתאות ḳedushtaot",
-        "tag_slug": "%d7%a7%d7%93%d7%95%d7%a9%d7%aa%d7%90%d7%95%d7%aa-%e1%b8%b3edushtaot",
+        "tag_slug": "qedushtaot",
         "post_ids": [
             "59545"
         ]
@@ -43773,6 +43716,14 @@
         ]
     },
     {
+        "tag_id": 2564,
+        "tag_name": "ראש חודש rosh ḥodesh",
+        "tag_slug": "rosh-hodesh",
+        "post_ids": [
+            "23933"
+        ]
+    },
+    {
         "tag_id": 1919,
         "tag_name": "רבון העולמים Ribon haOlamim",
         "tag_slug": "ribon-haolamim",
@@ -43780,6 +43731,14 @@
             "16541",
             "31386",
             "32707"
+        ]
+    },
+    {
+        "tag_id": 2243,
+        "tag_name": "רחל Raḥel",
+        "tag_slug": "rahel",
+        "post_ids": [
+            "17876"
         ]
     },
     {
@@ -43855,7 +43814,7 @@
     {
         "tag_id": 6760,
         "tag_name": "שבעתא shiv'ata",
-        "tag_slug": "%d7%a9%d7%91%d7%a2%d7%aa%d7%90-shivata",
+        "tag_slug": "shivata",
         "post_ids": [
             "60305"
         ]
@@ -44030,6 +43989,14 @@
         ]
     },
     {
+        "tag_id": 2668,
+        "tag_name": "שוחטים shoḥtim",
+        "tag_slug": "shohtim",
+        "post_ids": [
+            "19927"
+        ]
+    },
+    {
         "tag_id": 285,
         "tag_name": "שויתי shiviti",
         "tag_slug": "shiviti",
@@ -44044,7 +44011,7 @@
     {
         "tag_id": 6096,
         "tag_name": "שוכן עד shokhen ad",
-        "tag_slug": "%d7%a9%d7%95%d7%9b%d7%9f-%d7%a2%d7%93-shokhen-ad",
+        "tag_slug": "shokhen-ad",
         "post_ids": [
             "36440",
             "51799"
@@ -44062,6 +44029,23 @@
             "42699",
             "42731",
             "42736"
+        ]
+    },
+    {
+        "tag_id": 3202,
+        "tag_name": "שזור Shazur",
+        "tag_slug": "shazur",
+        "post_ids": [
+            "22554"
+        ]
+    },
+    {
+        "tag_id": 2477,
+        "tag_name": "שחיטה sheḥitah",
+        "tag_slug": "shehitah",
+        "post_ids": [
+            "18884",
+            "19927"
         ]
     },
     {
@@ -44256,6 +44240,14 @@
         "tag_slug": "shemini",
         "post_ids": [
             "24291"
+        ]
+    },
+    {
+        "tag_id": 3359,
+        "tag_name": "שמיר Shamir",
+        "tag_slug": "shamir",
+        "post_ids": [
+            "23485"
         ]
     },
     {
@@ -45380,7 +45372,7 @@
     {
         "tag_id": 6756,
         "tag_name": "תענית אסתר Fast of Esther",
-        "tag_slug": "%d7%aa%d7%a2%d7%a0%d7%99%d7%aa-%d7%90%d7%a1%d7%aa%d7%a8-fast-of-esther",
+        "tag_slug": "fast-of-esther",
         "post_ids": [
             "60273"
         ]
