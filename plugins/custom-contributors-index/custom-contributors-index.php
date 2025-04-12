@@ -6,6 +6,7 @@ Version: 1.1
 Author: Aharon Varady 
 */
 
+
 function cci_enqueue_assets() {
     echo '<style>
         .tabs { display: flex; gap: 10px; margin-bottom: 20px; }
@@ -98,6 +99,13 @@ function cci_enqueue_assets() {
 add_action('wp_head', 'cci_enqueue_assets');
 
 function cci_render_contributors_index() {
+    // Transient check (early return if cached)
+    $cache_key = 'cci_rendered_index_html';
+    $cached_html = get_transient($cache_key);
+    if ($cached_html !== false) {
+        return $cached_html;
+    }
+    
     $json_path = wp_upload_dir()['basedir'] . '/contributors_by_id.json';
     if (!file_exists($json_path)) {
         return '<p>Error: contributors_by_id.json not found.</p>';
@@ -224,6 +232,9 @@ function cci_render_contributors_index() {
 
     echo '</div>'; // .contributors-index
 
-    return ob_get_clean();
+    // Save to transient cache
+    $output = ob_get_clean();
+    set_transient($cache_key, $output, 12 * HOUR_IN_SECONDS);
+    return $output;
 }
 add_shortcode('custom_contributors_index', 'cci_render_contributors_index');
