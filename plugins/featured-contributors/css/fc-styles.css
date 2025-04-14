@@ -26,3 +26,8 @@
 .featured-contributor a:hover {
     text-decoration: underline;
 }
+
+/* Prevent layout shift by reserving space */
+.featured-contributors-container {
+    min-height: auto; /* Adjust based on typical layout on phones */
+}
