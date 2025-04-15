@@ -63,12 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
             return '#ebedf0';
         };
 
-        // The following code is the bad, horrible, offending code.
-        /* const months = [...Array(12).keys()].map(i =>
-            new Date(Date.UTC(year, i)).toLocaleString('default', { month: 'short' })
-        ); */
-
-        const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']; // a very good line of code. huzzah!
+        const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
         const daySize = 12;
         const leftOffset = 40;
         const topOffset = 20;
@@ -76,28 +71,16 @@ document.addEventListener('DOMContentLoaded', () => {
         const monthStartWeeks = {};
 
         for (let month = 0; month < 12; month++) {
-            const firstOfMonth = new Date(Date.UTC(year, month, 1)); // First day of the current month
-            const startDate = new Date(Date.UTC(year, 0, 1)); // Always January 1st of the same year
-            const dayOfWeek = firstOfMonth.getUTCDay(); // Day of the week for the first day of the month
-            const daysFromYearStart = Math.floor((firstOfMonth - startDate) / (1000 * 60 * 60 * 24)); // Days from Jan 1st
-            const weekIndex = Math.floor((daysFromYearStart + dayOfWeek) / 7); // Week index for the month
-
-            /* if (months[month] !== undefined) {
-                console.log(`Month: ${months[month]} (Index: ${month}), daysFromYearStart: ${daysFromYearStart}, weekIndex: ${weekIndex}`);
-            } else {
-                console.log(`Month index ${month} is out of bounds for the months array.`);
-            } */
-
-            /* if (!Object.values(monthStartWeeks).includes(weekIndex)) {
-                 monthStartWeeks[month + 1] = weekIndex;
-            } */
-
+            const firstOfMonth = new Date(Date.UTC(year, month, 1));
+            const dayOfWeek = firstOfMonth.getUTCDay();
+            const daysFromYearStart = Math.floor((firstOfMonth - startDate) / (1000 * 60 * 60 * 24));
+            const weekIndex = Math.floor((daysFromYearStart + dayOfWeek) / 7);
             if (!Object.values(monthStartWeeks).includes(weekIndex)) {
-                monthStartWeeks[month] = weekIndex; // Use zero-indexed month as the key
+                monthStartWeeks[month] = weekIndex;
             }
         }
-        
-        for (let d = 0; d <= (endDate - startDate) / (1000 * 60 * 60 * 24); d++) {
+
+        for (let d = 0; d <= (endDate - startDate) / 86400000; d++) {
             const dateObj = new Date(startDate.getTime() + d * 86400000);
             const day = dateObj.getUTCDay();
             const dateStr = dateObj.toISOString().slice(0, 10);
@@ -114,8 +97,7 @@ document.addEventListener('DOMContentLoaded', () => {
             rect.classList.add('day-cell');
 
             rect.addEventListener('mouseenter', e => {
-                const date = e.target.dataset.date;
-                const count = e.target.dataset.count;
+                const { date, count } = e.target.dataset;
                 tooltip.innerHTML = `${count} post${count == 1 ? '' : 's'} on ${date}`;
                 tooltip.style.display = 'block';
                 tooltip.style.left = `${e.pageX + 10}px`;
@@ -127,10 +109,7 @@ document.addEventListener('DOMContentLoaded', () => {
             });
 
             svg.appendChild(rect);
-
-            if (day === 6) {
-                week++;
-            }
+            if (day === 6) week++;
         }
 
         months.forEach((month, i) => {
@@ -143,20 +122,14 @@ document.addEventListener('DOMContentLoaded', () => {
                 text.setAttribute('class', 'month-label');
 
                 const now = new Date();
-                const isFutureMonth = (year > now.getUTCFullYear()) ||
-                    (year === now.getUTCFullYear() && i > now.getUTCMonth());
+                const isFutureMonth = (year > now.getUTCFullYear()) || (year === now.getUTCFullYear() && i > now.getUTCMonth());
 
                 if (!isFutureMonth) {
                     text.style.cursor = 'pointer';
                     text.setAttribute('fill', '#0074D9');
-
-                    const postInMonth = yearData.find(p => {
-                        const d = new Date(p.post_date);
-                        return d.getUTCMonth() === i;
-                    });
-
+                    const postInMonth = yearData.find(p => new Date(p.post_date).getUTCMonth() === i);
                     const actualMonthYear = postInMonth ? new Date(postInMonth.post_date).getUTCFullYear() : year;
-                    const monthPath = `https://opensiddur.org/${actualMonthYear}/${String(i).padStart(2, '0')}/`;
+                    const monthPath = `https://opensiddur.org/${actualMonthYear}/${String(i + 1).padStart(2, '0')}/`;
 
                     text.addEventListener('mouseenter', e => {
                         tooltip.innerHTML = `${monthCounts[i]} post${monthCounts[i] == 1 ? '' : 's'} in ${month} ${year}`;
@@ -183,7 +156,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         yearLinkEl.innerHTML = `<a href="https://opensiddur.org/${year}/">${year}</a>`;
 
-        const totalWeeks = Math.ceil((endDate - startDate) / (1000 * 60 * 60 * 24 * 7));
+        const totalWeeks = Math.ceil((endDate - startDate) / (86400000 * 7));
         const svgWidth = leftOffset + totalWeeks * (daySize + 2) + 20;
         svg.setAttribute('width', svgWidth);
 
