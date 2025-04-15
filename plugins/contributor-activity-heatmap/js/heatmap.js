@@ -63,26 +63,40 @@ document.addEventListener('DOMContentLoaded', () => {
             return '#ebedf0';
         };
 
-        const months = [...Array(12).keys()].map(i =>
+        // The following code is the bad, horrible, offending code.
+        /* const months = [...Array(12).keys()].map(i =>
             new Date(Date.UTC(year, i)).toLocaleString('default', { month: 'short' })
-        );
+        ); */
+
+        const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']; // a very good line of code. huzzah!
         const daySize = 12;
         const leftOffset = 40;
         const topOffset = 20;
         let week = 0;
         const monthStartWeeks = {};
 
-        for (let month = 0; month < 13; month++) {
-            const firstOfMonth = new Date(Date.UTC(year, month, 1));
-            const dayOfWeek = firstOfMonth.getUTCDay();
-            const daysFromYearStart = Math.floor((firstOfMonth - startDate) / (1000 * 60 * 60 * 24));
-            const weekIndex = Math.floor((daysFromYearStart + dayOfWeek) / 7);
+        for (let month = 0; month < 12; month++) {
+            const firstOfMonth = new Date(Date.UTC(year, month, 1)); // First day of the current month
+            const startDate = new Date(Date.UTC(year, 0, 1)); // Always January 1st of the same year
+            const dayOfWeek = firstOfMonth.getUTCDay(); // Day of the week for the first day of the month
+            const daysFromYearStart = Math.floor((firstOfMonth - startDate) / (1000 * 60 * 60 * 24)); // Days from Jan 1st
+            const weekIndex = Math.floor((daysFromYearStart + dayOfWeek) / 7); // Week index for the month
+
+            /* if (months[month] !== undefined) {
+                console.log(`Month: ${months[month]} (Index: ${month}), daysFromYearStart: ${daysFromYearStart}, weekIndex: ${weekIndex}`);
+            } else {
+                console.log(`Month index ${month} is out of bounds for the months array.`);
+            } */
+
+            /* if (!Object.values(monthStartWeeks).includes(weekIndex)) {
+                 monthStartWeeks[month + 1] = weekIndex;
+            } */
 
             if (!Object.values(monthStartWeeks).includes(weekIndex)) {
-                monthStartWeeks[month + 1] = weekIndex;
+                monthStartWeeks[month] = weekIndex; // Use zero-indexed month as the key
             }
         }
-
+        
         for (let d = 0; d <= (endDate - startDate) / (1000 * 60 * 60 * 24); d++) {
             const dateObj = new Date(startDate.getTime() + d * 86400000);
             const day = dateObj.getUTCDay();
