@@ -1,10 +1,23 @@
 <?php
 /*
-Plugin Name: Contributor Activity Heatmap
-Description: Displays a GitHub-style SVG heatmap of post publishing activity.
-Version: 1.1
-Author: Aharon Varady
+ * Plugin Name: Contributor Activity Heatmap
+ * Description: Displays a GitHub-style SVG heatmap of post publishing activity.
+ * Version: 1.2
+ * Author: Aharon Varady
+ * Author URI: https://github.com/aharonium/
+ * Plugin URI: https://github.com/aharonium/opensiddur.org/plugins/contributor-activity-heatmap
+ * License: LGPL-3.0-or-later
+ * License URI: https://www.gnu.org/licenses/lgpl-3.0.html
+ * Requires PHP: 7.4
+ * Requires at least: 5.2
+ * Tested up to: 6.4
+ * Tags: front page, contributors, authors, user avatars, shortcode, WordPress plugin
+ * Text Domain: featured-contributors
+ *
+ * Note: This plugin relies on entries in a JSON file generated within our theme's functions.php. All the heavy lifting is done in vanilla javascript.
+ * Acknowledgment: Special thanks to ChatGPT by OpenAI for considerable assistance and technical guidance during this plugin's development process.
 */
+
 
 add_shortcode('contributor_activity_heatmap', 'contributor_activity_heatmap_shortcode');
 add_action('wp_enqueue_scripts', 'contributor_heatmap_enqueue_scripts');
