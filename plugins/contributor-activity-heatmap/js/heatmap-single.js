@@ -153,7 +153,7 @@ window.renderHeatmap = function () {
                 addedMonths.add(month);
 
                 const labelX = leftOffset + weekIndex * (daySize + cellGap);
-                const labelY = topOffset - 6;
+                const labelY = topOffset - 12; // higher number to increase space between labels and grid
 
                 const text = document.createElementNS(svgNS, 'text');
                 text.setAttribute('x', labelX);
@@ -167,20 +167,31 @@ window.renderHeatmap = function () {
                 const actualMonthYear = postInMonth ? new Date(postInMonth.post_date).getUTCFullYear() : year;
                 const monthPath = `https://opensiddur.org/${actualMonthYear}/${String(month + 1).padStart(2, '0')}/`;
 
-                text.addEventListener('mouseenter', e => {
-                    tooltip.innerHTML = `${monthCounts[month]} post${monthCounts[month] == 1 ? '' : 's'} in ${months[month]} ${year}`;
-                    tooltip.style.display = 'block';
-                    tooltip.style.left = `${e.pageX + 10}px`;
-                    tooltip.style.top = `${e.pageY - 20}px`;
-                });
+                const isFutureMonth = new Date(Date.UTC(year, month)) > new Date();
 
-                text.addEventListener('mouseleave', () => {
-                    tooltip.style.display = 'none';
-                });
+                if (!isFutureMonth) {
+                    text.style.cursor = 'pointer';
+                    text.setAttribute('fill', '#0074D9');
 
-                text.addEventListener('click', () => {
-                    window.location.href = monthPath;
-                });
+                    text.addEventListener('mouseenter', e => {
+                        tooltip.innerHTML = `${monthCounts[month]} post${monthCounts[month] == 1 ? '' : 's'} in ${months[month]} ${year}`;
+                        tooltip.style.display = 'block';
+                        tooltip.style.left = `${e.pageX + 10}px`;
+                        tooltip.style.top = `${e.pageY - 20}px`;
+                    });
+
+                    text.addEventListener('mouseleave', () => {
+                        tooltip.style.display = 'none';
+                    });
+
+                    text.addEventListener('click', () => {
+                        window.location.href = monthPath;
+                    });
+                } else {
+                    text.style.cursor = 'default';
+                    // text.setAttribute('fill', '#ccc');
+                    text.setAttribute('fill-opacity', '0.3');
+                }
 
                 svg.appendChild(text);
             }
