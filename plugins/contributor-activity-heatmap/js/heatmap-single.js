@@ -1,5 +1,7 @@
-document.addEventListener('DOMContentLoaded', () => {
+window.renderHeatmap = function () {
     const container = document.getElementById('contributor-activity-heatmap');
+    if (!container) return;
+
     const jsonUrl = container.dataset.jsonUrl;
     const loadingEl = container.querySelector('.heatmap-loading');
     const yearLinkEl = document.getElementById('heatmap-year-link');
@@ -44,9 +46,13 @@ document.addEventListener('DOMContentLoaded', () => {
         });
 
         const startDate = new Date(Date.UTC(year, 0, 1));
+        const startDay = startDate.getUTCDay();
+        const adjustedStartDate = new Date(Date.UTC(year, 0, 1 - startDay));
         const endDate = new Date(Date.UTC(year, 11, 31));
+        const endDay = endDate.getUTCDay();
+        const adjustedEndDate = new Date(Date.UTC(year, 11, 31 + (6 - endDay)));
+
         const svg = document.createElementNS(svgNS, 'svg');
-        svg.setAttribute('height', 140);
         svg.classList.add('heatmap-svg');
 
         const tooltip = document.createElement('div');
@@ -66,29 +72,44 @@ document.addEventListener('DOMContentLoaded', () => {
         const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
         const daySize = 12;
         const leftOffset = 40;
-        const topOffset = 20;
-        let week = 0;
-        const monthStartWeeks = {};
+        const topOffset = 40;
+        const daysInWeek = 7;
+        const cellGap = 2;
 
-        for (let month = 0; month < 12; month++) {
-            const firstOfMonth = new Date(Date.UTC(year, month, 1));
-            const dayOfWeek = firstOfMonth.getUTCDay();
-            const daysFromYearStart = Math.floor((firstOfMonth - startDate) / (1000 * 60 * 60 * 24));
-            const weekIndex = Math.floor((daysFromYearStart + dayOfWeek) / 7);
-            if (!Object.values(monthStartWeeks).includes(weekIndex)) {
-                monthStartWeeks[month] = weekIndex;
+        const todayStr = new Date().toISOString().slice(0, 10);
+
+        const style = document.createElement('style');
+        style.textContent = `
+            @keyframes pulse-border {
+                0% { stroke: black; }
+                50% { stroke: white; }
+                100% { stroke: black; }
             }
+            .today-cell {
+                stroke-width: 2;
+                animation: pulse-border 2s infinite;
+            }
+        `;
+        document.head.appendChild(style);
+
+        const dateToMonth = {};
+        for (let d = new Date(adjustedStartDate); d <= adjustedEndDate; d.setUTCDate(d.getUTCDate() + 1)) {
+            const dateStr = d.toISOString().slice(0, 10);
+            dateToMonth[dateStr] = d.getUTCMonth();
         }
 
-        for (let d = 0; d <= (endDate - startDate) / 86400000; d++) {
-            const dateObj = new Date(startDate.getTime() + d * 86400000);
-            const day = dateObj.getUTCDay();
-            const dateStr = dateObj.toISOString().slice(0, 10);
+        let weekIndex = 0;
+        for (let d = new Date(adjustedStartDate); d <= adjustedEndDate; d.setUTCDate(d.getUTCDate() + 1)) {
+            const day = d.getUTCDay();
+            const x = leftOffset + weekIndex * (daySize + cellGap);
+            const y = topOffset + day * (daySize + cellGap);
+
+            const dateStr = d.toISOString().slice(0, 10);
             const count = dayCounts[dateStr] || 0;
 
             const rect = document.createElementNS(svgNS, 'rect');
-            rect.setAttribute('x', leftOffset + week * (daySize + 2));
-            rect.setAttribute('y', topOffset + day * (daySize + 2));
+            rect.setAttribute('x', x);
+            rect.setAttribute('y', y);
             rect.setAttribute('width', daySize);
             rect.setAttribute('height', daySize);
             rect.setAttribute('fill', getColor(count));
@@ -96,10 +117,12 @@ document.addEventListener('DOMContentLoaded', () => {
             rect.setAttribute('data-count', count);
             rect.classList.add('day-cell');
 
-            if (count === 0) {
+            if (dateStr === todayStr) {
+                rect.classList.add('today-cell');
+            } else if (count === 0) {
                 rect.setAttribute('stroke', '#666');
-                rect.setAttribute('stroke-width', '0.25');
-            }            
+                rect.setAttribute('stroke-width', '0.20');
+            }
 
             rect.addEventListener('mouseenter', e => {
                 const { date, count } = e.target.dataset;
@@ -114,61 +137,65 @@ document.addEventListener('DOMContentLoaded', () => {
             });
 
             svg.appendChild(rect);
-            if (day === 6) week++;
+
+            if (day === 6) weekIndex++; // Advance week at end of Saturday
         }
 
-        months.forEach((month, i) => {
-            if (monthStartWeeks[i] !== undefined) {
-                const x = leftOffset + monthStartWeeks[i] * (daySize + 2);
+        // Draw month labels
+        const addedMonths = new Set();
+        weekIndex = 0;
+        for (let d = new Date(adjustedStartDate); d <= adjustedEndDate; d.setUTCDate(d.getUTCDate() + 1)) {
+            const dateStr = d.toISOString().slice(0, 10);
+            const month = d.getUTCMonth();
+            const isFirstDayOfMonth = d.getUTCDate() === 1;
+
+            if (isFirstDayOfMonth && !addedMonths.has(month)) {
+                addedMonths.add(month);
+
+                const labelX = leftOffset + weekIndex * (daySize + cellGap);
+                const labelY = topOffset - 6;
+
                 const text = document.createElementNS(svgNS, 'text');
-                text.setAttribute('x', x);
-                text.setAttribute('y', topOffset - 10);
-                text.textContent = month;
+                text.setAttribute('x', labelX);
+                text.setAttribute('y', labelY);
+                text.textContent = months[month];
                 text.setAttribute('class', 'month-label');
+                text.setAttribute('fill', '#0074D9');
+                text.style.cursor = 'pointer';
 
-                const now = new Date();
-                const isFutureMonth = (year > now.getUTCFullYear()) || (year === now.getUTCFullYear() && i > now.getUTCMonth());
+                const postInMonth = yearData.find(p => new Date(p.post_date).getUTCMonth() === month);
+                const actualMonthYear = postInMonth ? new Date(postInMonth.post_date).getUTCFullYear() : year;
+                const monthPath = `https://opensiddur.org/${actualMonthYear}/${String(month + 1).padStart(2, '0')}/`;
 
-                if (!isFutureMonth) {
-                    text.style.cursor = 'pointer';
-                    text.setAttribute('fill', '#0074D9');
-                    const postInMonth = yearData.find(p => new Date(p.post_date).getUTCMonth() === i);
-                    const actualMonthYear = postInMonth ? new Date(postInMonth.post_date).getUTCFullYear() : year;
-                    const monthPath = `https://opensiddur.org/${actualMonthYear}/${String(i + 1).padStart(2, '0')}/`;
+                text.addEventListener('mouseenter', e => {
+                    tooltip.innerHTML = `${monthCounts[month]} post${monthCounts[month] == 1 ? '' : 's'} in ${months[month]} ${year}`;
+                    tooltip.style.display = 'block';
+                    tooltip.style.left = `${e.pageX + 10}px`;
+                    tooltip.style.top = `${e.pageY - 20}px`;
+                });
 
-                    text.addEventListener('mouseenter', e => {
-                        tooltip.innerHTML = `${monthCounts[i]} post${monthCounts[i] == 1 ? '' : 's'} in ${month} ${year}`;
-                        tooltip.style.display = 'block';
-                        tooltip.style.left = `${e.pageX + 10}px`;
-                        tooltip.style.top = `${e.pageY - 20}px`;
-                    });
+                text.addEventListener('mouseleave', () => {
+                    tooltip.style.display = 'none';
+                });
 
-                    text.addEventListener('mouseleave', () => {
-                        tooltip.style.display = 'none';
-                    });
-
-                    text.addEventListener('click', () => {
-                        window.location.href = monthPath;
-                    });
-                } else {
-                    text.setAttribute('fill', '#ccc');
-                    text.style.cursor = 'default';
-                }
+                text.addEventListener('click', () => {
+                    window.location.href = monthPath;
+                });
 
                 svg.appendChild(text);
             }
-        });
+
+            if (d.getUTCDay() === 6) weekIndex++;
+        }
 
         yearLinkEl.innerHTML = `<a href="https://opensiddur.org/${year}/">${year}</a>`;
 
-        const totalWeeks = Math.ceil((endDate - startDate) / (86400000 * 7));
-        const svgWidth = leftOffset + totalWeeks * (daySize + 2) + 20;
+        const svgWidth = leftOffset + weekIndex * (daySize + cellGap) + 20;
+        const svgHeight = topOffset + daysInWeek * (daySize + cellGap) + 30;
         svg.setAttribute('width', svgWidth);
+        svg.setAttribute('height', svgHeight);
 
-        const leftArrowX = 20;
-        const rightArrowX = svgWidth - 30;
-        const yearTextX = svgWidth / 2;
-
+        // Navigation arrows and year
         const navGroup = document.createElementNS(svgNS, 'g');
         navGroup.setAttribute('class', 'heatmap-nav');
         svg.appendChild(navGroup);
@@ -178,8 +205,8 @@ document.addEventListener('DOMContentLoaded', () => {
         yearLink.setAttribute('target', '_blank');
 
         const yearText = document.createElementNS(svgNS, 'text');
-        yearText.setAttribute('x', yearTextX);
-        yearText.setAttribute('y', 135);
+        yearText.setAttribute('x', svgWidth / 2);
+        yearText.setAttribute('y', svgHeight - 5);
         yearText.setAttribute('text-anchor', 'middle');
         yearText.setAttribute('font-size', '14');
         yearText.setAttribute('font-weight', 'bold');
@@ -190,8 +217,8 @@ document.addEventListener('DOMContentLoaded', () => {
         navGroup.appendChild(yearLink);
 
         const leftArrow = document.createElementNS(svgNS, 'text');
-        leftArrow.setAttribute('x', leftArrowX);
-        leftArrow.setAttribute('y', 135);
+        leftArrow.setAttribute('x', 20);
+        leftArrow.setAttribute('y', svgHeight - 5);
         leftArrow.setAttribute('font-size', '16');
         leftArrow.setAttribute('fill', '#333');
         leftArrow.setAttribute('font-weight', 'bold');
@@ -207,8 +234,8 @@ document.addEventListener('DOMContentLoaded', () => {
         navGroup.appendChild(leftArrow);
 
         const rightArrow = document.createElementNS(svgNS, 'text');
-        rightArrow.setAttribute('x', rightArrowX);
-        rightArrow.setAttribute('y', 135);
+        rightArrow.setAttribute('x', svgWidth - 30);
+        rightArrow.setAttribute('y', svgHeight - 5);
         rightArrow.setAttribute('font-size', '16');
         rightArrow.setAttribute('fill', '#333');
         rightArrow.setAttribute('font-weight', 'bold');
@@ -227,4 +254,4 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     fetchData();
-});
+};

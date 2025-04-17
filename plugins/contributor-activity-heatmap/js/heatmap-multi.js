@@ -1,5 +1,12 @@
+window.renderHeatmap = function () {
+    const container = document.getElementById('contributor-activity-heatmap');
+    if (!container) return;
+
+/*    
 document.addEventListener('DOMContentLoaded', () => {
     const container = document.getElementById('contributor-activity-heatmap');
+*/
+
     const jsonUrl = container.dataset.jsonUrl;
     const loadingEl = container.querySelector('.heatmap-loading');
     const yearLinkEl = document.getElementById('heatmap-year-link');
@@ -252,4 +259,5 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     fetchData();
-});
+// });
+};
