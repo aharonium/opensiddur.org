@@ -2,7 +2,7 @@
 /*
  * Plugin Name: Author Contributions
  * Description: Displays the categories, tags, languages, and names of users associated with the content of any contributed post, along with filter links and a date range query form.
- * Version: 1.5
+ * Version: 1.6
  * Author: Aharon Varady
  * Author URI: https://github.com/aharonium/
  * Plugin URI: https://github.com/aharonium/opensiddur.org/plugins/author-contributions
@@ -18,7 +18,6 @@
  * Acknowledgment: Special thanks to ChatGPT by OpenAI for considerable assistance and technical guidance during this plugin's development process.
 */
 
-
 // Enqueue plugin styles and scripts
 function ac_enqueue_assets() {
     // Enqueue CSS
@@ -32,73 +31,153 @@ function ac_enqueue_assets() {
 add_action('wp_enqueue_scripts', 'ac_enqueue_assets');
 
 
-// Fetch posts by users with specific roles (Contributor or Author)
-function ac_get_user_posts($user_id) {
-    $cache_key = "author_contributions_{$user_id}";
-    
-    // Use caching only if no daterange is applied
-    $cached = get_transient($cache_key);
-    if ($cached !== false) {
-        return $cached;
+function ac_load_contributors_by_id($force_reload = false) {
+    static $cached_data = null;
+    if (!$force_reload && $cached_data !== null) {
+        return $cached_data;
     }
 
-    $args = [
-        'post_type'      => 'any',
-        'posts_per_page' => -1,
-        'author'         => $user_id,
-        'fields'         => 'ids',
-    ];
+    $path = WP_CONTENT_DIR . '/uploads/contributors_by_id.json';
+    if (file_exists($path)) {
+        $cached_data = json_decode(file_get_contents($path), true);
+        return $cached_data;
+    }
+    return [];
+}
 
-    // Run the query
-    $query = new WP_Query($args);
+// Fetch posts by users with specific roles (Contributor or Author)
+function ac_get_user_posts($user_id) {
+    $uploads_dir = wp_upload_dir()['basedir'];
+    $posts_path = $uploads_dir . '/posts.json';
+    $contributors_data = ac_load_contributors_by_id();
 
-    // Cache results only when not filtered
-    set_transient($cache_key, $query->posts, 12 * HOUR_IN_SECONDS);
+    $posts_data = json_decode(file_get_contents($posts_path), true);
+    if (!is_array($posts_data) || !is_array($contributors_data)) {
+        return [];
+    }
 
-    return $query->posts;
+    $user_id_str = (string) $user_id;
+    $user_posts = [];
+
+    foreach ($posts_data as $post_id => $post) {
+        if (empty($post['authors']) || !is_array($post['authors'])) continue;
+
+        foreach ($post['authors'] as $author_str) {
+            if (preg_match('/\((\d+)\)$/', $author_str, $matches)) {
+                $author_id = $matches[1];
+                if ($author_id === $user_id_str) {
+                    // Extract authors with last names
+                    $authors = array_map(function($author_entry) use ($contributors_data) {
+                        if (preg_match('/^(.*?) \((\d+)\)$/', $author_entry, $m)) {
+                            $name = trim($m[1]);
+                            $id = $m[2];
+                            $last_name = isset($contributors_data[$id]['last_name']) ? $contributors_data[$id]['last_name'] : '';
+                            return [
+                                'name' => $name,
+                                'id' => (int) $id,
+                                'last_name' => $last_name
+                            ];
+                        }
+                        return null;
+                    }, $post['authors']);
+
+                    $authors = array_filter($authors); // Remove nulls
+
+                    $user_posts[$post_id] = [
+                        'categories' => $post['categories'] ?? [],
+                        'tags'       => $post['tags'] ?? [],
+                        'languages'  => $post['languages'] ?? [],
+                        'authors'    => $authors,
+                    ];
+                    break;
+                }
+            }
+        }
+    }
+
+    return $user_posts;
+}
+
+function ac_parse_labeled_items($items) {
+    $parsed = [];
+
+    foreach ($items as $item) {
+        if (preg_match('/^(.*?)\s*\((\d+)\)$/', $item, $matches)) {
+            $term_id = (int) $matches[2];
+            $term = get_term($term_id); // This gets the term object from ID
+
+            if ($term && !is_wp_error($term)) {
+                $parsed[] = (object) [
+                    'name' => $term->name,
+                    'term_id' => $term_id,
+                    'slug' => $term->slug,
+                ];
+            }
+        }
+    }
+
+    return $parsed;
 }
 
 
 // Get all categories, tags, co-contributors, and languages for the user’s posts
 function ac_get_terms_for_user($user_id) {
-    $post_ids = ac_get_user_posts($user_id);
+    $user_posts = ac_get_user_posts($user_id);
+
     $categories = [];
     $tags = [];
-    $co_contributors = [];
     $languages = [];
+    $co_contributors = [];
 
-    foreach ($post_ids as $post_id) {
-        $post_categories = wp_get_post_categories($post_id, ['fields' => 'all']);
-        $post_tags = wp_get_post_tags($post_id, ['fields' => 'all']);
-        $post_languages = get_post_meta($post_id, 'languages_meta', true);
-        $post_languages = $post_languages ? json_decode($post_languages, true) : [];
+    // Load contributor data once
+    $contributors_by_id = ac_load_contributors_by_id();
 
-        foreach ($post_languages as $lang) {
-            $languages[$lang['code']] = $lang['name']; // Store by code → name
-        }
+    foreach ($user_posts as $post_data) {
+        // Merge categories and tags
+        $categories = array_merge($categories, ac_parse_labeled_items($post_data['categories'] ?? []));
+        $tags = array_merge($tags, ac_parse_labeled_items($post_data['tags'] ?? []));
 
-        // Get co-contributors
-        if (function_exists('get_coauthors')) {
-            $post_coauthors = get_coauthors($post_id);
-            foreach ($post_coauthors as $coauthor) {
-                if ($coauthor->ID !== $user_id) {
-                    $co_contributors[] = $coauthor;
-                }
+        // Parse languages
+        foreach ($post_data['languages'] ?? [] as $lang_str) {
+            if (preg_match('/^(.*?): ([\w\-]+) \((.+?)\)$/', $lang_str, $matches)) {
+                $languages[$matches[2]] = $matches[3]; // code => name
             }
         }
 
-        $categories = array_merge($categories, $post_categories);
-        $tags = array_merge($tags, $post_tags);
+        // Parse co-contributors
+        foreach ($post_data['authors'] ?? [] as $author) {
+            $id = (int) $author['id'];
+            if ($id !== $user_id && !empty($contributors_by_id[$id])) {
+                $author_data = $contributors_by_id[$id];
+                $co_contributors[$id] = [
+                    'id'         => $id,
+                    'name'       => $author_data['display_name'],
+                    'last_name'  => $author_data['last_name'],
+                    'first_name' => $author_data['first_name'],
+                ];
+            }
+        }
     }
 
-    // Remove duplicates
-    $co_contributors = array_unique($co_contributors, SORT_REGULAR);
+    // Sort and clean up co-contributors
+    $co_contributors = array_values($co_contributors); // Re-index
+    usort($co_contributors, function ($a, $b) {
+        $cmp = strcasecmp($a['last_name'], $b['last_name']);
+        return $cmp !== 0 ? $cmp : strcasecmp($a['first_name'], $b['first_name']);
+    });
+    $co_contributors = array_map(fn($c) => ['id' => $c['id'], 'name' => $c['name']], $co_contributors);
+
+    // Sort and deduplicate categories and tags
     $categories = ac_deduplicate_and_sort($categories);
     $tags = ac_deduplicate_and_sort($tags);
 
-    // Sort languages alphabetically & reset array keys
+    // Sort and format languages
     asort($languages);
-    $languages = array_values(array_map(fn($code, $name) => ['code' => $code, 'name' => $name], array_keys($languages), $languages));
+    $languages = array_values(array_map(
+        fn($code, $name) => ['code' => $code, 'name' => $name],
+        array_keys($languages),
+        $languages
+    ));
 
     return [$categories, $tags, $co_contributors, $languages];
 }
@@ -107,8 +186,16 @@ function ac_get_terms_for_user($user_id) {
 // Helper function to deduplicate and sort terms by slug with era logic.
 function ac_deduplicate_and_sort($items) {
     // Remove duplicates by unique property (e.g., 'ID' for authors, 'slug' for terms).
-    $unique_items = array_unique($items, SORT_REGULAR);
+    $seen = [];
+    $unique_items = [];
 
+    foreach ($items as $item) {
+      if (!in_array($item->slug, $seen)) {
+        $seen[] = $item->slug;
+        $unique_items[] = $item;
+      }
+    }
+  
     // Sort items by slug alpha-numerically with custom era logic.
     usort($unique_items, function($a, $b) {
         $slugA = $a->slug;
@@ -152,7 +239,9 @@ function ac_deduplicate_and_sort($items) {
 function extract_numeric_and_era($slug) {
     // Match numbers followed by an optional era (before-common-era, common-era, or anno-mundi).
     if (preg_match('/(\d+)(?:st|nd|rd|th)?(?:-century)?(?:-(before-common-era|common-era|anno-mundi))?/i', $slug, $matches)) {
-        return [(int) $matches[1], strtolower($matches[2])];
+        if (isset($matches[1], $matches[2])) { // Ensure both match groups exist
+            return [(int) $matches[1], strtolower($matches[2])];
+        }
     }
     return [null, '']; // No match found.
 }
@@ -200,8 +289,9 @@ function ac_display_author_contributions($atts) {
         $output .= '<div class="panel"><p>';
         
         foreach ($co_contributors as $contributor) {
-            $collab_url = esc_url(add_query_arg('collab', $contributor->ID, get_author_posts_url($user_id)));
-            $output .= '<a href="' . $collab_url . '">' . esc_html($contributor->display_name) . '</a> | ';
+            $collab_url = esc_url(add_query_arg('collab', $contributor['id'], get_author_posts_url($user_id)));
+            $output .= '<a href="' . $collab_url . '">' . esc_html($contributor['name']) . '</a> | ';
+
         }
 
         $output = rtrim($output, ' | '); // Remove last separator
@@ -225,6 +315,10 @@ function ac_display_author_contributions($atts) {
     }
     
     // Display date filter form inside the accordion
+    if (!isset($GLOBALS['date_filter_displayed'])) { // Ensure the global variable is set
+        $GLOBALS['date_filter_displayed'] = false;  // Initialize if not set
+    }
+    
     if (!$GLOBALS['date_filter_displayed']) {
         $GLOBALS['date_filter_displayed'] = true;
 

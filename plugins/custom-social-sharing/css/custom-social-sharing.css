@@ -45,6 +45,14 @@
     padding: 0; /* Remove padding around buttons */
 }
 
+
+/* this class fixes some 1 pixel screen artifact that only shows in dark mode */
+.customsocialsharing-buttons a.button {
+    border: none !important;
+    box-shadow: none !important;
+}
+
+
 .customsocialsharing-buttons .button + .button {
     margin-left: 1px; /* Add minimal spacing between buttons */
 }
@@ -56,7 +64,6 @@
 .customsocialsharing-buttons .button:last-of-type {
     border-right: 1px solid; /* Restore right border for the last button */
 }
-
 
 .customsocialsharing .button.Pocket {
     background-color: rgba(239, 64, 86, 0.8);

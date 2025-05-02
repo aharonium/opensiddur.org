@@ -6,22 +6,23 @@ Version: 1.1
 Author: Aharon N. Varady
 */
 
-// Add menu item in WP Admin
 function ls_add_admin_menu() {
-    add_menu_page(
-        'Languages & Scripts',
-        'Languages & Scripts',
-        'manage_options',
-        'languages-scripts',
-        'ls_render_admin_page',
-        'dashicons-translation',
-        20
+    // Add "Languages & Scripts" as a sub-menu item under "Posts"
+    add_submenu_page(
+        'edit.php', // Parent slug: "Posts"
+        'Languages & Scripts', // Page title
+        'Languages & Scripts', // Menu title
+        'manage_options', // Capability
+        'languages-scripts', // Menu slug
+        'ls_render_admin_page' // Callback function
     );
-    
+
+    // Keep hidden submenus for editing language/script entries
     add_submenu_page(null, 'Edit Language', 'Edit Language', 'manage_options', 'edit-language', 'ls_render_edit_language_page');
     add_submenu_page(null, 'Edit Script', 'Edit Script', 'manage_options', 'edit-script', 'ls_render_edit_script_page');
 }
 add_action('admin_menu', 'ls_add_admin_menu');
+
 
 // Retrieve all languages and scripts from post metadata and count associated posts
 function ls_get_languages_scripts() {

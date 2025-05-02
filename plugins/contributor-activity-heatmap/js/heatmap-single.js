@@ -126,7 +126,7 @@ window.renderHeatmap = function () {
 
             rect.addEventListener('mouseenter', e => {
                 const { date, count } = e.target.dataset;
-                tooltip.innerHTML = `${count} post${count == 1 ? '' : 's'} on ${date}`;
+                tooltip.innerHTML = `${count} resource${count == 1 ? '' : 's'} on ${date}`;
                 tooltip.style.display = 'block';
                 tooltip.style.left = `${e.pageX + 10}px`;
                 tooltip.style.top = `${e.pageY - 20}px`;
@@ -174,7 +174,7 @@ window.renderHeatmap = function () {
                     text.setAttribute('fill', '#0074D9');
 
                     text.addEventListener('mouseenter', e => {
-                        tooltip.innerHTML = `${monthCounts[month]} post${monthCounts[month] == 1 ? '' : 's'} in ${months[month]} ${year}`;
+                        tooltip.innerHTML = `${monthCounts[month]} resource${monthCounts[month] == 1 ? '' : 's'} in ${months[month]} ${year}`;
                         tooltip.style.display = 'block';
                         tooltip.style.left = `${e.pageX + 10}px`;
                         tooltip.style.top = `${e.pageY - 20}px`;

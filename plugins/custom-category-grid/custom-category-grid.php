@@ -81,6 +81,7 @@ function custom_category_grid_shortcode($atts) {
     $svg_height = ($atts['svg_width'] * 325) / 420;
 
     // Start generating the HTML output
+    // $output = '[spacer height="40px"]';
     $output = '<div class="ccg-custom-category-grid" style="display: flex; flex-wrap: wrap; gap: ' . esc_attr($atts['gap']) . 'px;">';
 
     foreach ($categories as $category) {
@@ -101,7 +102,7 @@ function custom_category_grid_shortcode($atts) {
             $output .= '<img class="ccg-custom-category-image" src="' . esc_url($image_url) . '" ';
             $output .= 'alt="' . esc_attr($category->name) . '" ';
             $output .= 'style="position: absolute; bottom: 10px; left: 50%; transform: translateX(-50%); ';
-            $output .= 'width: ' . $image_width . 'px; height: auto; object-fit: contain;">';
+            $output .= 'width: ' . $image_width . 'px; height: auto; object-fit: contain;" loading="lazy">';
         }
 
         $output .= '</a>'; // Close the anchor tag

@@ -101,8 +101,9 @@ function custom_social_sharing_buttons( $platforms = [] ) {
     $output = '<div class="customsocialsharing">';
     $output .= '<div class="customsocialsharing-buttons">';
     foreach ( $available_platforms as $platform => $link ) {
-        $output .= "<a href='$link' target='_blank' rel='noopener noreferrer' class='button {$platform}'><span class='screen-reader-text'>Share via $platform</span>$platform</a>";
+        $output .= "<a href='$link' target='_blank' rel='noopener noreferrer' class='button {$platform} wp-dark-mode-ignore'><span class='screen-reader-text'>Share via $platform</span>$platform</a>";
     }
+
     $output .= '</div></div>';
 
     return $output;

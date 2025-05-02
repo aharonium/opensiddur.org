@@ -26,7 +26,7 @@ function contributor_heatmap_enqueue_scripts() {
     if (!is_admin()) {
         wp_register_script(
             'contributor-heatmap',
-            plugin_dir_url(__FILE__) . 'js/heatmap.js',
+            plugin_dir_url(__FILE__) . 'js/heatmap-loader.js',
             [],
             '1.1', // Updated version number for cache busting
             true // Load in footer
@@ -52,7 +52,7 @@ function contributor_activity_heatmap_shortcode() {
     ?>
     <div id="contributor-activity-heatmap" class="contributor-activity-heatmap" data-json-url="<?php echo esc_url($json_url); ?>">
         <div class="heatmap-container">
-            <div class="heatmap-loading">Loading post activity…</div>
+            <div class="heatmap-loading"></div>
         </div>
         
         <!-- Footer with Year Link and Version Number -->
@@ -60,7 +60,7 @@ function contributor_activity_heatmap_shortcode() {
             <span id="heatmap-year-link">
                 <!-- Year link will be dynamically added by JS -->
             </span>
-            <span id="heatmap-version">Version 1.1</span> <!-- Version number displayed -->
+            <span id="heatmap-version"></span> <!-- Version number displayed -->
         </div>
     </div>
     <?php

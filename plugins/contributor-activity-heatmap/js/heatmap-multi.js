@@ -130,7 +130,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
             rect.addEventListener('mouseenter', e => {
                 const { date, count } = e.target.dataset;
-                tooltip.innerHTML = `${count} post${count == 1 ? '' : 's'} on ${date}`;
+                tooltip.innerHTML = `${count} resource${count == 1 ? '' : 's'} on ${date}`;
                 tooltip.style.display = 'block';
                 tooltip.style.left = `${e.pageX + 10}px`;
                 tooltip.style.top = `${e.pageY - 20}px`;
@@ -168,7 +168,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     const monthPath = `https://opensiddur.org/${actualMonthYear}/${String(monthIndex + 1).padStart(2, '0')}/`;
 
                     text.addEventListener('mouseenter', e => {
-                        tooltip.innerHTML = `${monthCounts[monthIndex]} post${monthCounts[monthIndex] == 1 ? '' : 's'} in ${months[monthIndex]} ${year}`;
+                        tooltip.innerHTML = `${monthCounts[monthIndex]} resource${monthCounts[monthIndex] == 1 ? '' : 's'} in ${months[monthIndex]} ${year}`;
                         tooltip.style.display = 'block';
                         tooltip.style.left = `${e.pageX + 10}px`;
                         tooltip.style.top = `${e.pageY - 20}px`;
