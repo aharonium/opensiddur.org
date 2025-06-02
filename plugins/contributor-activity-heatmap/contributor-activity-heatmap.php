@@ -52,7 +52,7 @@ function contributor_activity_heatmap_shortcode() {
     ?>
     <div id="contributor-activity-heatmap" class="contributor-activity-heatmap" data-json-url="<?php echo esc_url($json_url); ?>">
         <div class="heatmap-container">
-            <div class="heatmap-loading"></div>
+            <div class="heatmap-loading">Loading...</div>
         </div>
         
         <!-- Footer with Year Link and Version Number -->

@@ -4,7 +4,7 @@
 
     const script = document.createElement('script');
     script.type = 'text/javascript';
-    script.src = basePath + (width >= 768 ? 'heatmap-single.js' : 'heatmap-multi.js');
+    script.src = basePath + (width >= 768 ? 'heatmap-multi.js' : 'heatmap-multi.js');
     script.onload = function () {
         if (typeof renderHeatmap === 'function') {
             renderHeatmap(); // trigger once script is loaded

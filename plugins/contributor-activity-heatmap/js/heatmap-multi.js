@@ -64,13 +64,13 @@ document.addEventListener('DOMContentLoaded', () => {
         tooltip.className = 'heatmap-tooltip';
         document.body.appendChild(tooltip);
 
-        const colorScale = [0, 1, 3, 5, 8];
+        const colorScale = [0, 1, 2, 3, 4];
         const getColor = count => {
             if (count >= colorScale[4] + 1) return '#196127';
             if (count >= colorScale[3] + 1) return '#239a3b';
             if (count >= colorScale[2] + 1) return '#7bc96f';
             if (count >= colorScale[1] + 1) return '#c6e48b';
-            if (count >= 1) return '#c6e48b';
+            if (count >= 1) return '#fdda0d';
             return 'transparent';
         };
 

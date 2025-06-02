@@ -1,7 +1,8 @@
-document.addEventListener('DOMContentLoaded', function () {
-    var accordions = document.querySelectorAll('.accordion');
+function initializeAccordions(scope = document) {
+    var accordions = scope.querySelectorAll('.accordion');
     accordions.forEach(function (accordion) {
         accordion.addEventListener('click', function () {
+            console.log('Accordion clicked'); // Add this
             this.classList.toggle('active');
             var panel = this.nextElementSibling;
             if (panel.style.display === 'block') {
@@ -11,4 +12,9 @@ document.addEventListener('DOMContentLoaded', function () {
             }
         });
     });
+}
+
+// Automatically initialize accordions on page load
+document.addEventListener('DOMContentLoaded', function () {
+    initializeAccordions();
 });
