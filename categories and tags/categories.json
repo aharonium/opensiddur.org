@@ -2367,7 +2367,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 398,
-        "post_count": 37,
+        "post_count": 38,
         "post_ids": [
             40676,
             14599,
@@ -2395,6 +2395,7 @@
             39054,
             41995,
             37664,
+            62197,
             25507,
             37648,
             59896,
@@ -2693,8 +2694,9 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 398,
-        "post_count": 23,
+        "post_count": 24,
         "post_ids": [
+            62601,
             60243,
             38546,
             37932,
@@ -3734,7 +3736,6 @@
         "post_count": 91,
         "post_ids": [
             58029,
-            52603,
             47089,
             46970,
             46964,
@@ -3760,6 +3761,7 @@
             14447,
             14429,
             9453,
+            52603,
             6814,
             4265,
             37497,
@@ -4102,10 +4104,11 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 2497,
-        "post_count": 3,
+        "post_count": 4,
         "post_ids": [
             37439,
             30866,
+            62238,
             61058
         ],
         "term_order": 1,
@@ -4128,8 +4131,9 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 2497,
-        "post_count": 2,
+        "post_count": 3,
         "post_ids": [
+            62251,
             49276,
             36276
         ],
@@ -4179,7 +4183,6 @@
         "parent_id": 2497,
         "post_count": 27,
         "post_ids": [
-            61806,
             60366,
             55315,
             55309,
@@ -4196,6 +4199,7 @@
             8785,
             3089,
             36222,
+            61806,
             36300,
             36284,
             36476,
@@ -4284,9 +4288,10 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 2497,
-        "post_count": 21,
+        "post_count": 22,
         "post_ids": [
             55145,
+            62243,
             51793,
             29196,
             29301,
@@ -4328,12 +4333,13 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 2497,
-        "post_count": 57,
+        "post_count": 59,
         "post_ids": [
             24656,
             6353,
             43857,
             37814,
+            62233,
             44602,
             37153,
             44661,
@@ -4346,12 +4352,13 @@
             43004,
             36382,
             24948,
-            43750,
-            43998,
             55098,
             61272,
+            43998,
             43875,
             45885,
+            43750,
+            62205,
             54045,
             43678,
             61177,
@@ -4552,15 +4559,9 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 395,
-        "post_count": 48,
+        "post_count": 49,
         "post_ids": [
-            61910,
-            61906,
-            61889,
-            61885,
-            61893,
-            61873,
-            61865,
+            61947,
             61820,
             4265,
             20096,
@@ -4590,17 +4591,24 @@
             56740,
             36964,
             36975,
+            61889,
+            61910,
+            61906,
             31770,
+            61893,
             60052,
             56010,
             56051,
             31790,
             36917,
             31777,
+            61885,
+            61873,
             51179,
             31689,
             44783,
             61666,
+            61865,
             4957
         ],
         "term_order": 2,
@@ -4802,8 +4810,9 @@
         },
         "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/lunisolar\/commemorative-days\/",
         "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=793",
-        "subcategory_count": 8,
+        "subcategory_count": 9,
         "subcategories": [
+            6840,
             5596,
             3620,
             2650,
@@ -4820,6 +4829,37 @@
         "hierarchical_id": "1.2.4",
         "ancestor_set_id": null,
         "complementary_cat_id": []
+    },
+    {
+        "name": "Purim Sheni",
+        "id": 6840,
+        "stub": "purim-sheni",
+        "description": "This is an archive of al hanissim prayers and related piyyutim written for a Purim Sheni, i.e., a second or secondary Purim. In many Jewish communities around the world, “local Purims” celebrating the survival of specific communities are made which include the retelling of stories of their redemption under chilling circumstances.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a reading you have written, translated, or transcribed for a Purim Sheni.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers specific to the festival of Purim, <a href=\"\/index.php?cat=212\">visit here<\/a>.\r\n\r\nFor prayer specific to Taanit Esther, <a href=\"\/index.php?cat=2483\">go here<\/a>.",
+        "featured_image": {
+            "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2025\/06\/victim-of-fanaticism-mykola-pymonenko-ca--1899.jpg",
+            "title": "Victim of Fantaticism (Mykola Pymonenko, ca. 1899)",
+            "caption": "<a href=\"https:\/\/www.flickr.com\/photos\/gandalfsgallery\/22585369220\">Victim of Fantaticism<\/a> (Mykola Pymonenko, ca. 1899) in the collection of the Fine Arts Museum, Kharkiv"
+        },
+        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/lunisolar\/commemorative-days\/purim-sheni\/",
+        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=6840",
+        "subcategory_count": 0,
+        "subcategories": [],
+        "parent_id": 793,
+        "post_count": 6,
+        "post_ids": [
+            62626,
+            62608,
+            53844,
+            60116,
+            60995,
+            60220
+        ],
+        "term_order": 1,
+        "hierarchical_id": "1.2.4.1",
+        "ancestor_set_id": null,
+        "complementary_cat_id": [
+            3397
+        ]
     },
     {
         "name": "Yom haMabul (Day of the Flood, 17 Iyyar, Lev ba-Omer)",
@@ -4842,8 +4882,8 @@
             19721,
             20101
         ],
-        "term_order": 1,
-        "hierarchical_id": "1.2.4.1",
+        "term_order": 2,
+        "hierarchical_id": "1.2.4.2",
         "ancestor_set_id": null,
         "complementary_cat_id": []
     },
@@ -4869,8 +4909,8 @@
             19726,
             56639
         ],
-        "term_order": 2,
-        "hierarchical_id": "1.2.4.2",
+        "term_order": 3,
+        "hierarchical_id": "1.2.4.3",
         "ancestor_set_id": null,
         "complementary_cat_id": [
             3122
@@ -4900,8 +4940,8 @@
             3579,
             14317
         ],
-        "term_order": 3,
-        "hierarchical_id": "1.2.4.3",
+        "term_order": 4,
+        "hierarchical_id": "1.2.4.4",
         "ancestor_set_id": null,
         "complementary_cat_id": []
     },
@@ -4990,8 +5030,8 @@
             16071,
             4957
         ],
-        "term_order": 4,
-        "hierarchical_id": "1.2.4.4",
+        "term_order": 5,
+        "hierarchical_id": "1.2.4.5",
         "ancestor_set_id": null,
         "complementary_cat_id": [
             3018
@@ -5018,8 +5058,8 @@
             53696,
             35560
         ],
-        "term_order": 5,
-        "hierarchical_id": "1.2.4.5",
+        "term_order": 6,
+        "hierarchical_id": "1.2.4.6",
         "ancestor_set_id": null,
         "complementary_cat_id": []
     },
@@ -5048,8 +5088,8 @@
             31809,
             31868
         ],
-        "term_order": 6,
-        "hierarchical_id": "1.2.4.6",
+        "term_order": 7,
+        "hierarchical_id": "1.2.4.7",
         "ancestor_set_id": null,
         "complementary_cat_id": [
             5506
@@ -5059,7 +5099,7 @@
         "name": "Purim",
         "id": 212,
         "stub": "purim",
-        "description": "This is an archive of prayers and song written for the festival of Purim. \r\n\r\nPurim is named after the word <em>pur<\/em> in Megillat Esther, the method of divination by lot used to determine the proper date for the Jews under the dominion of the Persian empire (circa 5th century BCE) to be murdered en masse (<span class=\"citation\">Esther 3:7<\/span>). The lot is cast on the 13th of Nisan for the 13th of Adar and the decree to destroy the Jews is relayed posthaste (<span class=\"citation\">Esther 3:12<\/span>). (Significantly, the 13th of Nisan is the eve of Pesaḥ when, according to Leviticus 23:5-6, the slaughter and consumption of the paschal lamb is indicated -- a very auspicious date indeed.) Hijinx ensue.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a prayer you have written, translated, or transcribed for Purim.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor public readings selected for Purim, <a href=\"\/index.php?cat=3019\">visit here<\/a>.\r\n\r\nFor public readings selected for Purim Qatan, <a href=\"\/index.php?cat=5506\">go here<\/a>.\r\n\r\nFor prayers and songs composed for Purim Qatan, <a href=\"\/index.php?cat=3414\">visit here<\/a>.\r\n\r\nFor public readings selected for a Purim Sheni, <a href=\"\/index.php?cat=3397\">visit here<\/a>.\r\n\r\nFor prayers composed for Taanit Esther, <a href=\"\/index.php?cat=2483\">go here<\/a>.",
+        "description": "This is an archive of prayers and song written for the festival of Purim. \r\n\r\nPurim is named after the word <em>pur<\/em> in Megillat Esther, the method of divination by lot used to determine the proper date for the Jews under the dominion of the Persian empire (circa 5th century BCE) to be murdered en masse (<span class=\"citation\">Esther 3:7<\/span>). The lot is cast on the 13th of Nisan for the 13th of Adar and the decree to destroy the Jews is relayed posthaste (<span class=\"citation\">Esther 3:12<\/span>). (Significantly, the 13th of Nisan is the eve of Pesaḥ when, according to Leviticus 23:5-6, the slaughter and consumption of the paschal lamb is indicated -- a very auspicious date indeed.) Hijinx ensue.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a prayer you have written, translated, or transcribed for Purim.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor public readings selected for Purim Qatan, <a href=\"\/index.php?cat=5506\">go here<\/a>.\r\n\r\nFor prayers and songs composed for Purim Qatan, <a href=\"\/index.php?cat=3414\">visit here<\/a>.\r\n\r\nFor prayer composed for Purim Sheni commemorations, <a href=\"\/index.php?cat=6840\">visit here<\/a>.\r\n\r\nFor prayers composed for Taanit Esther, <a href=\"\/index.php?cat=2483\">go here<\/a>.",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2019\/05\/szyk-and-haman-1950.png",
             "title": "szyk-and-haman-1950",
@@ -5108,8 +5148,8 @@
             54642,
             23681
         ],
-        "term_order": 7,
-        "hierarchical_id": "1.2.4.7",
+        "term_order": 8,
+        "hierarchical_id": "1.2.4.8",
         "ancestor_set_id": null,
         "complementary_cat_id": [
             3019
@@ -5143,8 +5183,8 @@
         "parent_id": 793,
         "post_count": 0,
         "post_ids": [],
-        "term_order": 8,
-        "hierarchical_id": "1.2.4.8",
+        "term_order": 9,
+        "hierarchical_id": "1.2.4.9",
         "ancestor_set_id": null,
         "complementary_cat_id": []
     },
@@ -5171,7 +5211,7 @@
             42368
         ],
         "term_order": 1,
-        "hierarchical_id": "1.2.4.8.1",
+        "hierarchical_id": "1.2.4.9.1",
         "ancestor_set_id": null,
         "complementary_cat_id": []
     },
@@ -5200,7 +5240,7 @@
             37281
         ],
         "term_order": 2,
-        "hierarchical_id": "1.2.4.8.2",
+        "hierarchical_id": "1.2.4.9.2",
         "ancestor_set_id": null,
         "complementary_cat_id": []
     },
@@ -5219,7 +5259,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 396,
-        "post_count": 11,
+        "post_count": 12,
         "post_ids": [
             46065,
             20443,
@@ -5228,13 +5268,14 @@
             44945,
             42682,
             45672,
+            62128,
             37858,
             37802,
             45732,
             33643
         ],
         "term_order": 3,
-        "hierarchical_id": "1.2.4.8.3",
+        "hierarchical_id": "1.2.4.9.3",
         "ancestor_set_id": null,
         "complementary_cat_id": []
     },
@@ -5319,7 +5360,7 @@
             26340
         ],
         "term_order": 4,
-        "hierarchical_id": "1.2.4.8.4",
+        "hierarchical_id": "1.2.4.9.4",
         "ancestor_set_id": null,
         "complementary_cat_id": [
             3020
@@ -5350,7 +5391,7 @@
             26901
         ],
         "term_order": 5,
-        "hierarchical_id": "1.2.4.8.5",
+        "hierarchical_id": "1.2.4.9.5",
         "ancestor_set_id": null,
         "complementary_cat_id": [
             3102
@@ -5377,7 +5418,7 @@
             34790
         ],
         "term_order": 6,
-        "hierarchical_id": "1.2.4.8.6",
+        "hierarchical_id": "1.2.4.9.6",
         "ancestor_set_id": null,
         "complementary_cat_id": [
             4637
@@ -5408,7 +5449,7 @@
             28941
         ],
         "term_order": 7,
-        "hierarchical_id": "1.2.4.8.7",
+        "hierarchical_id": "1.2.4.9.7",
         "ancestor_set_id": null,
         "complementary_cat_id": [
             3117
@@ -5442,7 +5483,7 @@
             53057
         ],
         "term_order": 8,
-        "hierarchical_id": "1.2.4.8.8",
+        "hierarchical_id": "1.2.4.9.8",
         "ancestor_set_id": null,
         "complementary_cat_id": [
             3997
@@ -5476,7 +5517,7 @@
             23681
         ],
         "term_order": 9,
-        "hierarchical_id": "1.2.4.8.9",
+        "hierarchical_id": "1.2.4.9.9",
         "ancestor_set_id": null,
         "complementary_cat_id": [
             3478
@@ -5508,7 +5549,7 @@
             46829
         ],
         "term_order": 10,
-        "hierarchical_id": "1.2.4.8.10",
+        "hierarchical_id": "1.2.4.9.10",
         "ancestor_set_id": null,
         "complementary_cat_id": []
     },
@@ -5965,7 +6006,7 @@
         "name": "&#127760; LGBT Pride Day (June 28th)",
         "id": 6459,
         "stub": "lgbt-pride-day",
-        "description": "This is an archive of prayers and song composed for, or relevant to, the meaning, commemoration, and celebration of Pride Day, internationally. Originally, \"Christopher Street Liberation Day\", Pride Day commemorates the anniversary of the <a href=\"https:\/\/en.wikipedia.org\/wiki\/Stonewall_riots\">Stonewall riots<\/a> instigated on Saturday, June 28, 1969, following a police raid on the Stonewall Inn, a gay bar at 43 Christopher Street in Greenwich Village, Manhattan, New York City. In 1970, the first Gay Pride parades took place in Chicago and New York City and the event grew in concert with the LGBT rights movement. By 1972, Gay Pride marches spread nationally to Boston, Dallas, Milwaukee, Atlanta, Buffalo, Detroit, Washington DC, Miami, Philadelphia, ands San Francisco -- and internationally to Brighton, London, Paris, West Berlin, and Stockholm.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers composed for, or relevant to, the International Transgender Day of Visibility (March 31st), <a href=\"\/index.php?cat=3510\">go here<\/a>.\r\n\r\nFor prayers composed for, or relevant to, Non-Binary People's Day (July 14th), <a href=\"\/index.php?cat=6671\">go here<\/a>.\r\n\r\nFor prayers composed for, or relevant to, the Berlin Pride Celebration, <a href=\"\/index.php?cat=6457\">go here<\/a>.",
+        "description": "This is an archive of prayers and song composed for, or relevant to, the meaning, commemoration, and celebration of Pride Day, internationally. Originally called \"Christopher Street Liberation Day,\" Pride Day commemorates the anniversary of the <a href=\"https:\/\/en.wikipedia.org\/wiki\/Stonewall_riots\">Stonewall riots<\/a> instigated on Saturday, June 28, 1969, following a police raid early that morning on the Stonewall Inn, a gay bar at 43 Christopher Street in Greenwich Village, Manhattan, New York City. In 1970, the first Gay Pride parades took place in Chicago and New York City and the event grew in concert with the LGBT rights movement. By 1972, Gay Pride marches spread nationally to Boston, Dallas, Milwaukee, Atlanta, Buffalo, Detroit, Washington DC, Miami, Philadelphia, ands San Francisco -- and internationally to Brighton, London, Paris, West Berlin, and Stockholm.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers composed for, or relevant to, the International Transgender Day of Visibility (March 31st), <a href=\"\/index.php?cat=3510\">go here<\/a>.\r\n\r\nFor prayers composed for, or relevant to, Non-Binary People's Day (July 14th), <a href=\"\/index.php?cat=6671\">go here<\/a>.\r\n\r\nFor prayers composed for, or relevant to, the Berlin Pride Celebration, <a href=\"\/index.php?cat=6457\">go here<\/a>.",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2024\/06\/DHS-Deputy-Secretary-Tien-Joins-Pride-Flag-Raising.jpg",
             "title": "DHS Deputy Secretary Tien Joins Pride Flag Raising",
@@ -6397,7 +6438,7 @@
         },
         "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/civic-calendar\/us-civil-calendar\/",
         "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=3037",
-        "subcategory_count": 20,
+        "subcategory_count": 21,
         "subcategories": [
             1250,
             1576,
@@ -6412,6 +6453,7 @@
             5594,
             3068,
             3234,
+            6843,
             2796,
             1538,
             2073,
@@ -6852,7 +6894,7 @@
         "name": "&#x1f1fa;&#x1f1f8; Flag Day (June 14)",
         "id": 3234,
         "stub": "flag-day",
-        "description": "This is an archive of prayers composed for or relevant to <a href=\"https:\/\/en.wikipedia.org\/wiki\/Flag_Day_(United_States)\">Flag Day<\/a>, a civic day in the civil calendar in the United States, observed on June 14th. The \"Flag Resolution,\" passed by the <a href=\"https:\/\/en.wikipedia.org\/wiki\/Second_Continental_Congress\">Second Continental Congress<\/a> on 14 June 1777, stated: \"Resolved, That the flag of the thirteen United States be thirteen stripes, alternate red and white; that the union be thirteen stars, white in a blue field, representing a new constellation.\" In Hebrew, the word for flag is דֶגֶל (<em>degel<\/em>), which happens to also be an anagram for גדל -- a <em>shoresh<\/em> (root word) with a valence of \"size, enormity,\" \"growth,\" and \"advancement.\"\r\n\r\nI think the use of stellar symbolism in the Flag Resolution of the Second Continental Congress is powerfully suggestive in our Jewish context. In the diasporic political theology of esoteric Judaism in late Antiquity, each of the nations is represented by a <em>sar<\/em> or angelic prince, and in the astrological language of Antique angelology, the angels are the spirits of the planetary stars and constellations of the planisphere. The fortune of each <em>sar<\/em> is inextricably tied to their treatment of the Jewish peoples under their aegis -- the strangers in their midst, as it were. And this is explained by Menasseh ben Israel to Oliver Cromwell in his 17th century introduction to \"<a href=\"\/?p=12692\">Hanoten T'shuah<\/a>,\" the well-known prayer for the well-being of kingdoms, especially in its prayer to \"raise up and exalt the planetary star\" (יָרוּם וְיַגְבִּיהַ כּוֹכַב מַעֲרַכְתָּוֹ) of the king -- a reference to the potential promotion (or demotion) of the kingdom's representative angelic <em>sar<\/em> (Cf. Zohar vol.2 267b, § Pekudei). The treatment of Jews here are but a representative example of all vulnerable populations subject to the capricious justice of earthly sovereigns or republican governments. The escalation of each national constellation rises or falls according to the treatment of its most vulnerable. As Deuteronomy 16:20 exhorts, \"Justice, Justice shall you pursue that you may thrive and inherit the land Hashem has given you\" (<em>or else<\/em>. The threat of Leviticus 18:28 lingers specifically for those who dare to possess the Land of Kna'an.)\r\n\r\nGiven the temptation for those entranced by nationalist fervor to fixate on state symbols with patriotic passion, it is necessary to inoculate ourselves, and prove as an example for others, how a flag may be honored without it becoming yet another form of idol worship. To do so, we must determine for ourselves what civic values, if any, are represented by the flag and the gap, historically and currently, that remains for the broad realization of such values. If the flag only represents a nebulous constellation of identity markers by which one identifies themselves, and secure within this self-similar grouping cultivates some pride, then that pride must be grounded in some actual achievement, or at the very least committed and honest yearning, in for example, guaranteeing equity for all its citizenry, or assuring the basic needs are satisfied for all its residents. If a flag is a rallying point for collective pride in achieving certain ideals, then it must also be so for collective shame in representing failure in upholding them. Those who seek to secure themselves against the inevitability of such shame, claim for themselves only the mantle of chauvinism and fall into the maw of base idolatry. \r\n\r\nFor those of us with a passion for <a href=\"https:\/\/en.wikipedia.org\/wiki\/Vexillology\">vexillology<\/a>, a commitment to realizing humane civic and ecological values, and an <a href=\"https:\/\/www.sefaria.org\/Isaiah.11.9?lang=bi&amp;with=all&amp;lang2=en\">anti-predatory vision of the world<\/a> that embraces the diversity of cultural difference, we adopt the flag day of this and every other nation for that of the Sukkah of Peace, may it be spread over our planet and its cosmos, forever and always. --<a href=\"\/profile\/aharon-nissen-varady\/\">Aharon N. Varady<\/a>\r\n\r\nIf you have composed a prayer or prayer-poem for Flag Day, please <a href=\"\/contribute\/upload\">share it here<\/a>.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers offered for the welfare and well-being of governments and country, <a href=\"\/index.php?cat=2558\">please visit here<\/a>.\r\n\r\nFor prayers composed for social justice, peace, and liberty, <a href=\"\/index.php?cat=782\">go here<\/a>.\r\n\r\nFor prayers composed for or relevant to Independence Day in the United States, <a href=\"\/index.php?cat=2796\">please visit here<\/a>.\r\n\r\nFor public readings selected for Independence Day in the United States, <a href=\"\/index.php?cat=3655\">please visit here<\/a>.\r\n",
+        "description": "This is an archive of prayers composed for or relevant to <a href=\"https:\/\/en.wikipedia.org\/wiki\/Flag_Day_(United_States)\">Flag Day<\/a>, a civic day in the civil calendar in the United States, observed on June 14th. The \"Flag Resolution,\" passed by the <a href=\"https:\/\/en.wikipedia.org\/wiki\/Second_Continental_Congress\">Second Continental Congress<\/a> on 14 June 1777, stated: \"Resolved, That the flag of the thirteen United States be thirteen stripes, alternate red and white; that the union be thirteen stars, white in a blue field, representing a new constellation.\" In Hebrew, the word for flag is <span class=\"hebrew\">דֶגֶל<\/span> (<em>degel<\/em>), which happens to also be an anagram for <span class=\"hebrew\">גדל<\/span> -- a <em>shoresh<\/em> (root word) with a valence of \"size, enormity,\" \"growth,\" and \"advancement.\"\r\n\r\nI think the use of stellar symbolism in the Flag Resolution of the Second Continental Congress is powerfully suggestive in our Jewish context. In the diasporic political theology of esoteric Judaism in late Antiquity, each of the nations is represented by a <em>sar<\/em> or angelic prince, and in the astrological language of Antique angelology, the angels are the spirits of the planetary stars and constellations of the planisphere. The fortune of each <em>sar<\/em> is inextricably tied to their treatment of the Jewish peoples under their aegis -- the strangers in their midst, as it were. And this is explained by Menasseh ben Israel to Oliver Cromwell in his 17th century introduction to \"<a href=\"\/?p=12692\">Hanoten T'shuah<\/a>,\" the well-known prayer for the well-being of kingdoms, especially in its prayer to \"raise up and exalt the planetary star\" (<span class=\"hebrew\" lang=\"heb-Hebr\">יָרוּם וְיַגְבִּיהַ כּוֹכַב מַעֲרַכְתָּוֹ<\/span>) of the king -- a reference to the potential promotion (or demotion) of the kingdom's representative angelic <em>sar<\/em> (Cf. Zohar vol.2 267b, § Pekudei). The treatment of Jews here are but a representative example of all vulnerable populations subject to the capricious justice of earthly sovereigns or republican governments. The escalation of each national constellation rises or falls according to the treatment of its most vulnerable. As Deuteronomy 16:20 exhorts, \"Justice, Justice shall you pursue that you may thrive and inherit the land Hashem has given you\" (<em>or else<\/em>. The threat of Leviticus 18:28 lingers specifically for those who dare to possess the Land of Kna'an.)\r\n\r\nGiven the temptation for those entranced by nationalist fervor to fixate on state symbols with patriotic passion, it is necessary to inoculate ourselves, and prove as an example for others, how a flag may be honored without it becoming yet another form of idol worship. To do so, we must determine for ourselves what civic values, if any, are represented by the flag and the gap, historically and currently, that remains for the broad realization of such values. If the flag only represents a nebulous constellation of identity markers by which one identifies themselves, and secure within this self-similar grouping cultivates some pride, then that pride must be grounded in some actual achievement, or at the very least committed and honest yearning, in for example, guaranteeing equity for all its citizenry, or assuring the basic needs are satisfied for all its residents. If a flag is a rallying point for collective pride in achieving certain ideals, then it must also be so for collective shame in representing failure in upholding them. Those who seek to secure themselves against the inevitability of such shame, claim for themselves only the mantle of chauvinism and fall into the maw of base idolatry. \r\n\r\nFor those of us with a passion for <a href=\"https:\/\/en.wikipedia.org\/wiki\/Vexillology\">vexillology<\/a>, a commitment to realizing humane civic and ecological values, and an <a href=\"https:\/\/www.sefaria.org\/Isaiah.11.9?lang=bi&amp;with=all&amp;lang2=en\">anti-predatory vision of the world<\/a> that embraces the diversity of cultural difference, we exchange the flag of this and every other nation for that of <a href=\"https:\/\/opensiddur.org\/wp-content\/uploads\/2023\/09\/Sukkah-of-the-Leviathan-Adrienne-Varady-2023-photo-credit-Aharon-Varady-smol.jpg\">the Sukkah of Peace<\/a>, may it be spread over our planet and across our cosmos, forever and always. --<a href=\"\/profile\/aharon-nissen-varady\/\">Aharon N. Varady<\/a>\r\n\r\nIf you have composed a prayer or prayer-poem for Flag Day, please <a href=\"\/contribute\/upload\">share it here<\/a>.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers offered for the welfare and well-being of governments and country, <a href=\"\/index.php?cat=2558\">please visit here<\/a>.\r\n\r\nFor prayers composed for social justice, peace, and liberty, <a href=\"\/index.php?cat=782\">go here<\/a>.\r\n\r\nFor prayers composed for or relevant to Independence Day in the United States, <a href=\"\/index.php?cat=2796\">please visit here<\/a>.\r\n\r\nFor public readings selected for Independence Day in the United States, <a href=\"\/index.php?cat=3655\">please visit here<\/a>.\r\n",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2023\/05\/Flag-of-the-United-States-with-star-sizes-relative-to-population-OmarZlada-2021.jpg",
             "title": "Flag of the United States with star sizes relative to population (OmarZlada 2021)",
@@ -6881,10 +6923,36 @@
         "complementary_cat_id": []
     },
     {
+        "name": "&#x1f1fa;&#x1f1f8; Juneteenth",
+        "id": 6843,
+        "stub": "juneteenth",
+        "description": "",
+        "featured_image": {
+            "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2020\/06\/Emancipation-proclamation-reading-Granger_0009233_HighRes.jpg",
+            "title": "Emancipation-proclamation-reading-Granger_0009233_HighRes",
+            "caption": "\"Reading the Emancipation Proclamation.\" Engraving, 1864."
+        },
+        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/civic-calendar\/us-civil-calendar\/juneteenth\/",
+        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=6843",
+        "subcategory_count": 0,
+        "subcategories": [],
+        "parent_id": 3037,
+        "post_count": 1,
+        "post_ids": [
+            37153
+        ],
+        "term_order": 14,
+        "hierarchical_id": "1.3.4.14",
+        "ancestor_set_id": null,
+        "complementary_cat_id": [
+            4418
+        ]
+    },
+    {
         "name": "&#x1f1fa;&#x1f1f8; Independence Day (July 4th)",
         "id": 2796,
         "stub": "independence-day",
-        "description": "This is an archive of prayers composed for or relevant to <a href=\"https:\/\/en.wikipedia.org\/wiki\/Independence_Day_(United_States)\">Independence Day<\/a>, a civic day in the United States celebrated on July 4th.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a prayer you have written, or a transcription and translation of an existing prayer.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers offered for military veterans and armed forces personnel, <a href=\"\/index.php?cat=1257\">go here<\/a>.\r\n\r\nFor prayers composed for social justice, peace, and liberty, <a href=\"\/index.php?cat=782\">go here<\/a>.\r\n\r\nFor prayers offered for the welfare and well-being of governments and country, <a href=\"\/index.php?cat=2558\">please visit here<\/a>.\r\n\r\nFor public readings selected for Independence Day in the United States, <a href=\"\/index.php?cat=3655\">please visit here<\/a>.",
+        "description": "This is an archive of prayers composed for or relevant to <a href=\"https:\/\/en.wikipedia.org\/wiki\/Independence_Day_(United_States)\">Independence Day<\/a>, a civic day in the United States celebrated on July 4th.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a prayer you have written, or a transcription and translation of an existing prayer.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers offered for military veterans and armed forces personnel, <a href=\"\/index.php?cat=1257\">go here<\/a>.\r\n\r\nFor prayers composed for social justice, peace, and liberty, <a href=\"\/index.php?cat=782\">go here<\/a>.\r\n\r\nFor prayers offered for the welfare and well-being of governments and country, <a href=\"\/index.php?cat=2558\">please visit here<\/a>.",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2013\/04\/still-frame-of-the-everyday-evening-Fourth-of-July-Parade-and-Picnic-in-Topeka-Downunder-from-A-Boy-and-His-Dog-1975.png",
             "title": "still frame of the everyday evening Fourth of July Parade and Picnic in Topeka Downunder from A Boy and His Dog (1975)",
@@ -6908,8 +6976,8 @@
             57841,
             57205
         ],
-        "term_order": 14,
-        "hierarchical_id": "1.3.4.14",
+        "term_order": 15,
+        "hierarchical_id": "1.3.4.15",
         "ancestor_set_id": null,
         "complementary_cat_id": [
             3655
@@ -6944,8 +7012,8 @@
             45323,
             44602
         ],
-        "term_order": 15,
-        "hierarchical_id": "1.3.4.15",
+        "term_order": 16,
+        "hierarchical_id": "1.3.4.16",
         "ancestor_set_id": null,
         "complementary_cat_id": []
     },
@@ -6970,8 +7038,8 @@
             3568,
             29851
         ],
-        "term_order": 16,
-        "hierarchical_id": "1.3.4.16",
+        "term_order": 17,
+        "hierarchical_id": "1.3.4.17",
         "ancestor_set_id": null,
         "complementary_cat_id": []
     },
@@ -6994,8 +7062,8 @@
         "post_ids": [
             37439
         ],
-        "term_order": 17,
-        "hierarchical_id": "1.3.4.17",
+        "term_order": 18,
+        "hierarchical_id": "1.3.4.18",
         "ancestor_set_id": null,
         "complementary_cat_id": []
     },
@@ -7028,8 +7096,8 @@
             14653,
             14649
         ],
-        "term_order": 18,
-        "hierarchical_id": "1.3.4.18",
+        "term_order": 19,
+        "hierarchical_id": "1.3.4.19",
         "ancestor_set_id": null,
         "complementary_cat_id": []
     },
@@ -7057,8 +7125,8 @@
             49931,
             52335
         ],
-        "term_order": 19,
-        "hierarchical_id": "1.3.4.19",
+        "term_order": 20,
+        "hierarchical_id": "1.3.4.20",
         "ancestor_set_id": null,
         "complementary_cat_id": [
             5850
@@ -7117,8 +7185,8 @@
             58880,
             22785
         ],
-        "term_order": 20,
-        "hierarchical_id": "1.3.4.20",
+        "term_order": 21,
+        "hierarchical_id": "1.3.4.21",
         "ancestor_set_id": null,
         "complementary_cat_id": [
             3208
@@ -7625,7 +7693,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 5160,
-        "post_count": 32,
+        "post_count": 34,
         "post_ids": [
             57463,
             53388,
@@ -7654,6 +7722,8 @@
             33486,
             39388,
             53898,
+            62215,
+            62211,
             31790,
             53152,
             28247,
@@ -7738,7 +7808,6 @@
         "parent_id": 1095,
         "post_count": 32,
         "post_ids": [
-            61865,
             42063,
             43401,
             38595,
@@ -7765,6 +7834,7 @@
             41591,
             31689,
             41580,
+            61865,
             20454,
             10070,
             23948,
@@ -7945,7 +8015,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 2632,
-        "post_count": 34,
+        "post_count": 35,
         "post_ids": [
             44996,
             10755,
@@ -7968,6 +8038,7 @@
             50502,
             50513,
             50490,
+            62119,
             32395,
             32245,
             32255,
@@ -8214,8 +8285,9 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 2633,
-        "post_count": 43,
+        "post_count": 44,
         "post_ids": [
+            62601,
             59908,
             53115,
             35157,
@@ -8512,9 +8584,8 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 2633,
-        "post_count": 110,
+        "post_count": 111,
         "post_ids": [
-            61837,
             60959,
             60950,
             60954,
@@ -8618,6 +8689,8 @@
             47185,
             13963,
             30613,
+            61837,
+            61953,
             31882,
             55636,
             38110,
@@ -8864,7 +8937,6 @@
         "parent_id": 2634,
         "post_count": 113,
         "post_ids": [
-            61938,
             61511,
             60255,
             59061,
@@ -8873,6 +8945,7 @@
             58186,
             57958,
             55692,
+            61938,
             54072,
             53323,
             53095,
@@ -9052,7 +9125,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 524,
-        "post_count": 37,
+        "post_count": 38,
         "post_ids": [
             59890,
             59885,
@@ -9086,6 +9159,7 @@
             39849,
             39984,
             57295,
+            62215,
             53152,
             28247,
             37181,
@@ -11086,8 +11160,9 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 778,
-        "post_count": 43,
+        "post_count": 44,
         "post_ids": [
+            62626,
             58539,
             58535,
             44705,
@@ -11278,7 +11353,6 @@
         "parent_id": 778,
         "post_count": 15,
         "post_ids": [
-            61938,
             60165,
             58505,
             58204,
@@ -11287,6 +11361,7 @@
             57498,
             57562,
             55410,
+            61938,
             54072,
             53323,
             61544,
@@ -11314,8 +11389,9 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 778,
-        "post_count": 34,
+        "post_count": 35,
         "post_ids": [
+            61947,
             61252,
             60255,
             59676,
@@ -11373,7 +11449,6 @@
         "parent_id": 778,
         "post_count": 32,
         "post_ids": [
-            61938,
             58204,
             58015,
             57566,
@@ -11381,6 +11456,7 @@
             57562,
             55410,
             53372,
+            61938,
             53139,
             53095,
             53053,
@@ -11806,13 +11882,14 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 100,
-        "post_count": 5,
+        "post_count": 6,
         "post_ids": [
             35841,
             21031,
             50241,
             24076,
-            24049
+            24049,
+            62074
         ],
         "term_order": 7,
         "hierarchical_id": "1.8.7",
@@ -14138,8 +14215,8 @@
         "post_count": 3,
         "post_ids": [
             44362,
-            9567,
-            3270
+            3270,
+            9567
         ],
         "term_order": 5,
         "hierarchical_id": "2.2.1.5",
@@ -14751,7 +14828,7 @@
         "name": "Purim Sheni Readings",
         "id": 3397,
         "stub": "purim-sheni-readings",
-        "description": "This is an archive of megillot written for a Purim Sheni, a secondary Purim. In many Jewish communities around the world, “local Purims” celebrating the survival of specific communities are made which include the retelling of stories of their redemption under chilling circumstances.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a reading you have written, translated, or transcribed for a Purim Sheni.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor public readings selected for Purim, <a href=\"\/index.php?cat=3019\">visit here<\/a>.\r\n\r\nFor public readings selected for Taanit Esther, <a href=\"\/index.php?cat=3478\">go here<\/a>.",
+        "description": "This is an archive of megillot written for a Purim Sheni, a second or secondary Purim. In many Jewish communities around the world, “local Purims” celebrating the survival of specific communities are made which include the retelling of stories of their redemption under chilling circumstances.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a reading you have written, translated, or transcribed for a Purim Sheni.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor public readings selected for Purim, <a href=\"\/index.php?cat=3019\">visit here<\/a>.\r\n\r\nFor public readings selected for Taanit Esther, <a href=\"\/index.php?cat=3478\">go here<\/a>.",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2020\/03\/PikiWiki_Israel_4963_Israeli_teachers_in_Egypt.jpg",
             "title": "PikiWiki_Israel_4963_Israeli_teachers_in_Egypt",
@@ -14762,24 +14839,22 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 4036,
-        "post_count": 11,
+        "post_count": 7,
         "post_ids": [
             37748,
             59318,
             31723,
-            53844,
             22602,
-            60116,
-            60995,
             23767,
             57706,
-            30574,
-            60220
+            30574
         ],
         "term_order": 26,
         "hierarchical_id": "2.2.1.26",
         "ancestor_set_id": null,
-        "complementary_cat_id": []
+        "complementary_cat_id": [
+            6840
+        ]
     },
     {
         "name": "Readings for Civic Days on Civil Calendars",
@@ -15063,29 +15138,30 @@
     {
         "name": "&#x1f1fa;&#x1f1f8; Juneteenth (Emancipation Day) Readings",
         "id": 4418,
-        "stub": "juneteenth",
+        "stub": "juneteenth-readings",
         "description": "This is an archive of public readings selected for <a href=\"https:\/\/en.wikipedia.org\/wiki\/Juneteenth\">Juneteenth<\/a>, (a portmanteau of June and nineteenth) – officially Juneteenth National Independence Day (also known as Freedom Day, Jubilee Day, Liberation Day, and Emancipation Day). Juneteenth is a federal holiday in the United States celebrating the emancipation of enslaved African-Americans after the defeat of the pro-slavery Confederacy in the Civil War. Originating in Galveston, Texas, it is now celebrated annually on June 19 throughout the United States, and since 2021, as a federal holiday, when President Joe Biden signed the Juneteenth National Independence Day Act into law. It is commemorated on the anniversary date of the June 19, 1865 announcement of General Order No. 3 by Union Army general Gordon Granger, proclaiming freedom for slaves in Texas.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a public reading you have prepared for Juneteenth.\r\n\r\n",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2020\/06\/Emancipation-proclamation-reading-Granger_0009233_HighRes.jpg",
             "title": "Emancipation-proclamation-reading-Granger_0009233_HighRes",
             "caption": "\"Reading the Emancipation Proclamation.\" Engraving, 1864."
         },
-        "permalink": "https:\/\/opensiddur.org\/shared\/readings-and-sourcetexts\/readings\/civic-readings\/juneteenth\/",
+        "permalink": "https:\/\/opensiddur.org\/shared\/readings-and-sourcetexts\/readings\/civic-readings\/juneteenth-readings\/",
         "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=4418",
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 4035,
-        "post_count": 4,
+        "post_count": 3,
         "post_ids": [
             52463,
-            37153,
             32304,
             51960
         ],
         "term_order": 10,
         "hierarchical_id": "2.2.2.10",
         "ancestor_set_id": null,
-        "complementary_cat_id": []
+        "complementary_cat_id": [
+            6843
+        ]
     },
     {
         "name": "&#x1f1fa;&#x1f1f8; Independence Day Readings",
@@ -16555,8 +16631,9 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 1625,
-        "post_count": 6,
+        "post_count": 7,
         "post_ids": [
+            62671,
             42699,
             16235,
             26767,
@@ -16614,8 +16691,9 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 1625,
-        "post_count": 16,
+        "post_count": 17,
         "post_ids": [
+            62677,
             43344,
             43349,
             24347,
@@ -17341,11 +17419,11 @@
         "name": "Cantillation Systems",
         "id": 217,
         "stub": "cantillation",
-        "description": "",
+        "description": "This is an archive of cantillation tables and other essential resources for reading cantillated text in all of the established and developing traditions for the public reading of cantillated text. \r\n\r\nIf you have a helpful resource to offer, <a href=\"\/upload\/\">please share it<\/a>.\r\n\r\n<hr \/>",
         "featured_image": {
-            "url": "",
-            "title": "",
-            "caption": ""
+            "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2013\/08\/shemot-hateamim-leashkenazim.png",
+            "title": "shemot-hateamim-leashkenazim",
+            "caption": "<a href=\"https:\/\/books.google.com\/books?id=Ns43AQAAMAAJ&lpg=PA174&ots=-BW34s1AAo&dq=%D7%A9%D7%9E%D7%95%D7%AA%20%D7%94%D7%98%D7%A2%D7%9E%D7%99%D7%9D%20%D7%9C%D7%90%D7%A9%D7%9B%D7%A0%D7%96%D7%99%D7%9D&pg=PA174#v=onepage&q&f=false\">Miqraot Gedolot (1904 ed.), p.174<\/a>"
         },
         "permalink": "https:\/\/opensiddur.org\/shared\/readings-and-sourcetexts\/cantillation\/",
         "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=217",
@@ -17383,7 +17461,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 230,
-        "post_count": 14,
+        "post_count": 15,
         "post_ids": [
             58165,
             58155,
@@ -17396,6 +17474,7 @@
             20744,
             51051,
             58008,
+            62222,
             61744,
             61737,
             57995
@@ -17554,12 +17633,13 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 3894,
-        "post_count": 55,
+        "post_count": 57,
         "post_ids": [
             51192,
             19550,
             1450,
             27810,
+            61981,
             43315,
             28287,
             41789,
@@ -17582,6 +17662,7 @@
             12938,
             27775,
             26604,
+            62023,
             57326,
             27579,
             26253,
@@ -17632,8 +17713,10 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 3894,
-        "post_count": 39,
+        "post_count": 41,
         "post_ids": [
+            62683,
+            62167,
             45767,
             45757,
             45764,
@@ -17907,8 +17990,8 @@
         "parent_id": 2104,
         "post_count": 25,
         "post_ids": [
-            47900,
             46954,
+            47900,
             38896,
             31701,
             14388,
@@ -17925,8 +18008,8 @@
             48391,
             52729,
             59951,
-            29753,
             27446,
+            29753,
             33150,
             33175,
             33297,
@@ -17983,8 +18066,10 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 3867,
-        "post_count": 9,
+        "post_count": 11,
         "post_ids": [
+            62683,
+            62167,
             27686,
             15128,
             27993,
@@ -18018,8 +18103,10 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 3867,
-        "post_count": 9,
+        "post_count": 11,
         "post_ids": [
+            62683,
+            62167,
             27686,
             15128,
             27993,
@@ -18053,8 +18140,10 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 3867,
-        "post_count": 9,
+        "post_count": 11,
         "post_ids": [
+            62683,
+            62167,
             27686,
             15128,
             27993,
@@ -18088,8 +18177,10 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 3867,
-        "post_count": 9,
+        "post_count": 11,
         "post_ids": [
+            62683,
+            62167,
             27686,
             15128,
             27993,
@@ -18221,10 +18312,9 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 238,
-        "post_count": 2,
+        "post_count": 1,
         "post_ids": [
-            24426,
-            55294
+            24426
         ],
         "term_order": 2,
         "hierarchical_id": "3.2.2",
@@ -18246,7 +18336,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 238,
-        "post_count": 23,
+        "post_count": 24,
         "post_ids": [
             61266,
             24582,
@@ -18267,6 +18357,7 @@
             26259,
             28052,
             52004,
+            62228,
             61621,
             19649,
             4609,
@@ -18653,10 +18744,11 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 4432,
-        "post_count": 45,
+        "post_count": 46,
         "post_ids": [
             9556,
             32508,
+            62047,
             52739,
             27979,
             48734,
@@ -18852,10 +18944,10 @@
             3393,
             3294,
             43409,
-            55035,
             9169,
             5232,
             2910,
+            55035,
             3425,
             57111,
             56639
@@ -18889,9 +18981,9 @@
             612,
             2892,
             2614,
+            7827,
             4894,
             5480,
-            7827,
             3276,
             4609,
             10075
@@ -19161,11 +19253,11 @@
         "parent_id": 41,
         "post_count": 18,
         "post_ids": [
+            34690,
             58683,
             58679,
             58685,
             58687,
-            34690,
             1223,
             4262,
             1318,
