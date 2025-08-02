@@ -79,7 +79,7 @@ function lsi_render_index_page() {
         // $link = esc_url(add_query_arg('script', $code, home_url('/')));
         echo "<div class='langscript-listing' style='min-height:96px;'>
                 <div id='langscriptimg-size' style='position: absolute; width: 96px;'>
-                    <img alt='Scripts' src='https://opensiddur.org/wp-content/uploads/2025/03/script-quill-ink.png' class='langscriptimg' height='96' width='96' style='height:96px;width:100%;'>
+                    <img alt='Scripts' src='https://opensiddur.org/wp-content/uploads/2025/07/gratis-pluma.png' class='langscriptimg' height='96' width='96' style='height:96px;width:100%;'>
                 </div>
                 <div style='font-size:15px;padding-left: 120px;'>
                     <div><a href='{$link}'><b>{$scr['name']}</b></a></div><p />
