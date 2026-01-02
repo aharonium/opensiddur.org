@@ -82,7 +82,7 @@ function custom_social_sharing_buttons( $platforms = [] ) {
 
     // Default list of platforms
     $available_platforms = [
-        'Pocket' => "https://getpocket.com/save?url={$url}&title={$title}",
+        /* 'Pocket' => "https://getpocket.com/save?url={$url}&title={$title}", */
         'Reddit' => "https://www.reddit.com/submit?url={$url}&title={$title}",
         'Facebook' => "https://www.facebook.com/sharer/sharer.php?u={$url}",
         'Bluesky' => "https://bsky.app/intent/compose?text={$title}%20{$url}",
