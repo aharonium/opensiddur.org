@@ -73,18 +73,30 @@ function custom_social_sharing_get_context() {
 // Function to generate sharing buttons
 function custom_social_sharing_buttons( $platforms = [] ) {
     $context_data = custom_social_sharing_get_context();
-    $url = urlencode( $context_data['url'] );
-    
+    $url = urlencode( $context_data['url'] ); 
+
     // Combine message and title for sharing content
-    $title = isset( $context_data['message'] ) 
+    /* $title = isset( $context_data['message'] ) 
         ? urlencode( $context_data['message'] . $context_data['title'] ) 
-        : urlencode( $context_data['title'] );
+        : urlencode( $context_data['title'] ); */
+    
+    $raw_title = isset( $context_data['message'] )
+    ? $context_data['message'] . $context_data['title']
+    : $context_data['title'];
+    
+    // Convert HTML entities back to real Unicode characters
+    $decoded_title = html_entity_decode( $raw_title, ENT_QUOTES | ENT_HTML5, 'UTF-8' );
+
+    // Encode exactly once for URLs (encodeURIComponent equivalent)
+    $title = rawurlencode( $decoded_title );
 
     // Default list of platforms
     $available_platforms = [
         /* 'Pocket' => "https://getpocket.com/save?url={$url}&title={$title}", */
         'Reddit' => "https://www.reddit.com/submit?url={$url}&title={$title}",
         'Facebook' => "https://www.facebook.com/sharer/sharer.php?u={$url}",
+        /* 'Mastodon' => "https://share.mastodon.social/intent?text={$title}%20{$url}", */
+        'Mastodon' => "#",
         'Bluesky' => "https://bsky.app/intent/compose?text={$title}%20{$url}",
         'Telegram' => "https://telegram.me/share/url?url={$url}&text={$title}",
         'WhatsApp' => "https://api.whatsapp.com/send?text={$title}%20{$url}",
@@ -101,14 +113,32 @@ function custom_social_sharing_buttons( $platforms = [] ) {
     $output = '<div class="customsocialsharing">';
     $output .= '<div class="customsocialsharing-buttons">';
     foreach ( $available_platforms as $platform => $link ) {
+        if ( $platform === 'Mastodon' ) {
+            $output .= "<a href='#'
+                class='button Mastodon wp-dark-mode-ignore'
+                data-title='{$title}'
+                data-url='{$url}'
+                onclick='return customSocialShareMastodon(this);'>
+                <span class='screen-reader-text'>Share via Mastodon</span>Mastodon</a>";
+        } else {
+            $output .= "<a href='$link'
+                target='_blank'
+                rel='noopener noreferrer'
+                class='button {$platform} wp-dark-mode-ignore'>
+                <span class='screen-reader-text'>Share via $platform</span>$platform</a>";
+        }
+    }
+    
+    /* 
+    foreach ( $available_platforms as $platform => $link ) {
         $output .= "<a href='$link' target='_blank' rel='noopener noreferrer' class='button {$platform} wp-dark-mode-ignore'><span class='screen-reader-text'>Share via $platform</span>$platform</a>";
     }
-
+    */ 
+    
     $output .= '</div></div>';
 
     return $output;
 }
-
 
 
 // Shortcode for sharing buttons
@@ -123,6 +153,18 @@ add_shortcode( 'social_sharing', 'custom_social_sharing_shortcode' );
 function display_custom_social_buttons( $platforms = [] ) {
     echo custom_social_sharing_buttons( $platforms );
 }
+
+// Enqueue custom JS script for Mastodon
+function custom_social_sharing_enqueue_scripts() {
+    wp_enqueue_script(
+        'custom-social-sharing-mastodon',
+        plugin_dir_url( __FILE__ ) . 'js/mastodon-share.js',
+        [],
+        '1.0',
+        true
+    );
+}
+add_action( 'wp_enqueue_scripts', 'custom_social_sharing_enqueue_scripts' );
 
 // Enqueue custom CSS for the buttons
 function custom_social_sharing_enqueue_styles() {
