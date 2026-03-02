@@ -1036,12 +1036,14 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 3034,
-        "post_count": 6,
+        "post_count": 8,
         "post_ids": [
+            66173,
             57111,
             65735,
             65763,
             21013,
+            65814,
             59458,
             6587
         ],
@@ -1251,8 +1253,9 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 387,
-        "post_count": 26,
+        "post_count": 27,
         "post_ids": [
+            66227,
             64761,
             57679,
             51957,
@@ -1826,7 +1829,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 389,
-        "post_count": 73,
+        "post_count": 74,
         "post_ids": [
             45467,
             62892,
@@ -1845,6 +1848,7 @@
             50327,
             50323,
             50345,
+            66204,
             50684,
             23294,
             31951,
@@ -2523,7 +2527,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 398,
-        "post_count": 23,
+        "post_count": 25,
         "post_ids": [
             38339,
             29349,
@@ -2544,6 +2548,8 @@
             53397,
             29274,
             37708,
+            66184,
+            65919,
             11776,
             51865,
             51855,
@@ -2569,8 +2575,9 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 398,
-        "post_count": 35,
+        "post_count": 36,
         "post_ids": [
+            66322,
             46583,
             20239,
             29318,
@@ -3118,7 +3125,7 @@
         },
         "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/lunisolar\/new-moon\/",
         "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=3120",
-        "subcategory_count": 16,
+        "subcategory_count": 17,
         "subcategories": [
             3760,
             5647,
@@ -3135,7 +3142,8 @@
             579,
             580,
             213,
-            1414
+            1414,
+            3726
         ],
         "parent_id": 1415,
         "post_count": 0,
@@ -3195,22 +3203,23 @@
         "stub": "yom-kippur-qatan",
         "description": "",
         "featured_image": {
-            "url": "",
-            "title": "",
-            "caption": ""
+            "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2026\/02\/pexels-solyartphotos-14877923.jpg",
+            "title": "pexels-solyartphotos-14877923",
+            "caption": "<a href=\"https:\/\/www.pexels.com\/photo\/thin-crescent-moon-in-the-sky-14877923\/\">Thin crescent moon in the sky\" (credit: Soly Moses, license: CC0)"
         },
         "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/lunisolar\/new-moon\/yom-kippur-qatan\/",
         "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=5647",
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 3120,
-        "post_count": 5,
+        "post_count": 6,
         "post_ids": [
             65785,
             41452,
             41419,
             41433,
-            42368
+            42368,
+            66113
         ],
         "term_order": 2,
         "hierarchical_id": "1.2.1.2",
@@ -3299,8 +3308,9 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 3120,
-        "post_count": 6,
+        "post_count": 7,
         "post_ids": [
+            66020,
             2943,
             19760,
             59258,
@@ -3613,6 +3623,32 @@
         "complementary_cat_id": []
     },
     {
+        "name": "Ramadan",
+        "id": 3726,
+        "stub": "ramadan",
+        "description": "This is an archive of prayers composed for or relevant to the Muslim observance of the religious obligations and pious traditions of Ramadan, especially in the context of Jewish participation in interfaith <em><a href=\"https:\/\/en.wikipedia.org\/wiki\/Iftar\">iftar<\/a><\/em> (break fast) programs.\r\n\r\nRamadan (Arabic: رَمَضَان‎) is the ninth month of the Islamic calendar, observed by Muslims worldwide as a month of fasting (<em>sawm<\/em>), prayer, reflection and community. A commemoration of <a href=\"https:\/\/en.wikipedia.org\/wiki\/Muhammad%27s_first_revelation\">Muhammad's first revelation<\/a>, the annual observance of Ramadan is regarded as one of the <a href=\"https:\/\/en.wikipedia.org\/wiki\/Five_Pillars_of_Islam\">Five Pillars of Islam<\/a> and lasts twenty-nine to thirty days, from one sighting of the crescent moon to the next.\r\n\r\nFasting from sunrise to sunset is <em>fard<\/em> (obligatory) for all adult Muslims who are not acutely or chronically ill, travelling, elderly, breastfeeding, diabetic, or menstruating. The predawn meal is referred to as <em>suhur<\/em>, and the nightly feast that breaks the fast is called <em>iftar<\/em>. Although fatwas have been issued declaring that Muslims who live in regions with a midnight sun or polar night should follow the timetable of Mecca, it is common practice to follow the timetable of the closest country in which night can be distinguished from day.\r\n\r\nThe spiritual rewards (<em>thawab<\/em>) of fasting are believed to be multiplied during Ramadan. Accordingly, Muslims refrain not only from food and drink, but also tobacco products, sexual relations, and sinful behavior, devoting themselves instead to <em>salat<\/em> (prayer) and recitation of the Quran.\r\n\r\n(This summary was adapted from the <a href=\"https:\/\/en.wikipedia.org\/wiki\/Ramadan\">article on Ramadan<\/a> at Wikipedia.)\r\n\r\n☞ If you have composed a prayer for an interfaith program on Ramadan, please <a href=\"\/contribute\/upload\">share it<\/a>.",
+        "featured_image": {
+            "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2017\/06\/1280px-Jerusalem_muslim_quarter_during_Ramadan_Victor_Grigas_2011_-1-49.jpg",
+            "title": "1280px-Jerusalem_muslim_quarter_during_Ramadan_Victor_Grigas_2011_-1-49",
+            "caption": "\"<a href=\"https:\/\/commons.wikimedia.org\/wiki\/File:Jerusalem_muslim_quarter_during_Ramadan_Victor_Grigas_2011_-1-49.jpg\">Jerusalem, muslim quarter, Al-Qattanin street (Cotton Merchant's Market), during Ramadan<\/a>\" (credit: Victorgrigas, license: CC BY-SA)"
+        },
+        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/lunisolar\/new-moon\/ramadan\/",
+        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=3726",
+        "subcategory_count": 0,
+        "subcategories": [],
+        "parent_id": 3120,
+        "post_count": 3,
+        "post_ids": [
+            66012,
+            66020,
+            15582
+        ],
+        "term_order": 17,
+        "hierarchical_id": "1.2.1.17",
+        "ancestor_set_id": null,
+        "complementary_cat_id": []
+    },
+    {
         "name": "Days of Judgement &amp; New Year Days",
         "id": 5089,
         "stub": "days-of-judgement-new-year-days",
@@ -3734,7 +3770,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 5089,
-        "post_count": 74,
+        "post_count": 80,
         "post_ids": [
             63517,
             57943,
@@ -3773,6 +3809,8 @@
             46521,
             44775,
             44760,
+            65960,
+            65992,
             51654,
             48260,
             32480,
@@ -3804,9 +3842,13 @@
             27254,
             63570,
             38888,
+            66222,
+            66215,
             57927,
             57936,
             33743,
+            65983,
+            65966,
             57895,
             28269,
             5238
@@ -3834,9 +3876,8 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 5089,
-        "post_count": 103,
+        "post_count": 105,
         "post_ids": [
-            65785,
             58029,
             47089,
             46970,
@@ -3866,6 +3907,7 @@
             52603,
             6814,
             4265,
+            65785,
             37497,
             37491,
             4017,
@@ -3882,6 +3924,7 @@
             54126,
             44760,
             54908,
+            66122,
             45266,
             40071,
             48270,
@@ -3922,6 +3965,7 @@
             65665,
             39125,
             43244,
+            66113,
             64464,
             62956,
             17543,
@@ -4577,7 +4621,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 404,
-        "post_count": 31,
+        "post_count": 33,
         "post_ids": [
             59974,
             53168,
@@ -4585,6 +4629,7 @@
             52302,
             15189,
             49943,
+            66173,
             65279,
             32455,
             37153,
@@ -4609,6 +4654,7 @@
             49995,
             50008,
             55659,
+            65814,
             6587
         ],
         "term_order": 5,
@@ -4687,7 +4733,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 395,
-        "post_count": 51,
+        "post_count": 54,
         "post_ids": [
             61947,
             61820,
@@ -4731,6 +4777,7 @@
             56051,
             31790,
             36917,
+            65843,
             31777,
             61873,
             61885,
@@ -4738,6 +4785,8 @@
             31689,
             44783,
             61666,
+            65853,
+            65827,
             61865,
             4957
         ],
@@ -4973,7 +5022,7 @@
         "name": "Purim Sheni",
         "id": 6840,
         "stub": "purim-sheni",
-        "description": "This is an archive of al hanissim prayers and related piyyutim written for a Purim Sheni, i.e., a second or secondary Purim. In many Jewish communities around the world, “local Purims” celebrating the survival of specific communities are made which include the retelling of stories of their redemption under chilling circumstances.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a reading you have written, translated, or transcribed for a Purim Sheni.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers specific to the festival of Purim, <a href=\"\/index.php?cat=212\">visit here<\/a>.\r\n\r\nFor prayer specific to Taanit Esther, <a href=\"\/index.php?cat=2483\">go here<\/a>.",
+        "description": "This is an archive of al hanissim prayers and related piyyutim written for a Purim Sheni, i.e., a second or secondary Purim. In many Jewish communities around the world, “local Purims” celebrating the survival of specific communities are made which include the retelling of stories of their redemption under chilling circumstances.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a reading you have written, translated, or transcribed for a Purim Sheni.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers specific to the festival of Purim, <a href=\"\/index.php?cat=212\">visit here<\/a>.\r\n\r\nFor public readings selected for Purim, <a href=\"\/index.php?cat=3019\">visit here<\/a>.\r\n\r\nFor prayers and songs composed for Purim Qatan (for Adar Alef on leap years), <a href=\"\/index.php?cat=3414\">visit here<\/a>.\r\n\r\nFor public readings on Purim Qatan, <a href=\"\/index.php?cat=5506\">visit here<\/a>.",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2025\/06\/victim-of-fanaticism-mykola-pymonenko-ca--1899.jpg",
             "title": "Victim of Fantaticism (Mykola Pymonenko, ca. 1899)",
@@ -5221,7 +5270,7 @@
         "name": "Purim Qatan",
         "id": 3414,
         "stub": "purim-qatan",
-        "description": "This is an archive of prayers and song composed for (or relevant to) Purim Qatan. As Purim Qatan only occurs during Jewish leap years, the day is hidden in a way which adds emphasis to the theme of divinity hidden within creation, in our life's horrors and in its miracles. \r\n\r\nDuring leap years in the rabbinic Jewish calendar, Purim falls on the second month of Adar (otherwise known as Adar bet). The 14th of the first month of Adar (Adar Alef) is then called Purim Qatan (\"Little Purim\") and the 15th is Shushan Purim Qatan, for which there are no set observances. \r\n\r\nA leap year in the Jewish calendar occurs seven times in the 19-year <a href=\"https:\/\/en.wikipedia.org\/wiki\/Metonic_cycle\">Metonic cycle<\/a>, namely, in years 3, 6, 8, 11, 14, 17, and 19 of the cycle. This means that a leap month is added every two to three years. \r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a prayer you have written, translated, or transcribed for Purim Qatan.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor public readings selected for Purim Qatan, <a href=\"\/index.php?cat=5506\">go here<\/a>.\r\n\r\nFor public readings selected for Purim, <a href=\"\/index.php?cat=3019\">visit here<\/a>.\r\n\r\nFor prayers and songs composed for Purim Qatan, <a href=\"\/index.php?cat=3414\">visit here<\/a>.\r\n\r\nFor public readings selected for a Purim Sheni, <a href=\"\/index.php?cat=3397\">visit here<\/a>.\r\n\r\nFor prayers composed for Taanit Esther, <a href=\"\/index.php?cat=2483\">go here<\/a>.",
+        "description": "This is an archive of prayers and song composed for (or relevant to) Purim Qatan. As Purim Qatan only occurs during Jewish leap years, the day is hidden in a way which adds emphasis to the theme of divinity hidden within creation, in our life's horrors and in its miracles. \r\n\r\nDuring leap years in the rabbinic Jewish calendar, Purim falls on the second month of Adar (otherwise known as Adar bet). The 14th of the first month of Adar (Adar Alef) is then called Purim Qatan (\"Little Purim\") and the 15th is Shushan Purim Qatan, for which there are no set observances. \r\n\r\nA leap year in the Jewish calendar occurs seven times in the 19-year <a href=\"https:\/\/en.wikipedia.org\/wiki\/Metonic_cycle\">Metonic cycle<\/a>, namely, in years 3, 6, 8, 11, 14, 17, and 19 of the cycle. This means that a leap month is added every two to three years. \r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a prayer you have written, translated, or transcribed for Purim Qatan.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor public readings selected for Purim, <a href=\"\/index.php?cat=3019\">visit here<\/a>.\r\n\r\nFor prayers composed for Purim, <a href=\"\/index.php?cat=212\">go here<\/a>.\r\n\r\nFor public readings selected for a Purim Sheni, <a href=\"\/index.php?cat=3397\">visit here<\/a>.\r\n\r\nFor prayers composed for Purim Sheni commemorations, <a href=\"\/index.php?cat=6840\">visit here<\/a>.\r\n",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2013\/04\/moorish-synagogue-tile-atah-morocco-ca-18th-c.png",
             "title": "Moorish synagogue tile with Atah (Morocco, ca. 18th c.)",
@@ -5253,7 +5302,7 @@
         "name": "Purim",
         "id": 212,
         "stub": "purim",
-        "description": "This is an archive of prayers and song written for the festival of Purim. \r\n\r\nPurim is named after the word <em>pur<\/em> in Megillat Esther, the method of divination by lot used to determine the proper date for the Jews under the dominion of the Persian empire (circa 5th century BCE) to be murdered en masse (<span class=\"citation\">Esther 3:7<\/span>). The lot is cast on the 13th of Nisan for the 13th of Adar and the decree to destroy the Jews is relayed posthaste (<span class=\"citation\">Esther 3:12<\/span>). (Significantly, the 13th of Nisan is the eve of Pesaḥ when, according to Leviticus 23:5-6, the slaughter and consumption of the paschal lamb is indicated -- a very auspicious date indeed.) Hijinx ensue.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a prayer you have written, translated, or transcribed for Purim.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor public readings selected for Purim Qatan, <a href=\"\/index.php?cat=5506\">go here<\/a>.\r\n\r\nFor prayers and songs composed for Purim Qatan, <a href=\"\/index.php?cat=3414\">visit here<\/a>.\r\n\r\nFor prayer composed for Purim Sheni commemorations, <a href=\"\/index.php?cat=6840\">visit here<\/a>.\r\n\r\nFor prayers composed for Taanit Esther, <a href=\"\/index.php?cat=2483\">go here<\/a>.",
+        "description": "This is an archive of prayers and song written for the festival of Purim. \r\n\r\nPurim is named after the word <em>pur<\/em> in Megillat Esther, the method of divination by lot used to determine the proper date for the Jews under the dominion of the Persian empire (circa 5th century BCE) to be murdered en masse (<span class=\"citation\">Esther 3:7<\/span>). The lot is cast on the 13th of Nisan for the 13th of Adar and the decree to destroy the Jews is relayed posthaste (<span class=\"citation\">Esther 3:12<\/span>). (Significantly, the 13th of Nisan is the eve of Pesaḥ when, according to Leviticus 23:5-6, the slaughter and consumption of the paschal lamb is indicated -- a very auspicious date indeed.) Hijinx ensue.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a prayer you have written, translated, or transcribed for Purim.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor public readings selected for Purim Qatan (for Adar Alef on leap years), <a href=\"\/index.php?cat=5506\">go here<\/a>.\r\n\r\nFor prayers and songs composed for Purim Qatan, <a href=\"\/index.php?cat=3414\">visit here<\/a>.\r\n\r\nFor prayers composed for Taanit Esther, <a href=\"\/index.php?cat=2483\">go here<\/a>.\r\n\r\nFor public readings selected for Taanit Esther, <a href=\"\/index.php?cat=3478\">go here<\/a>.\r\n\r\nFor prayers composed for Purim Sheni (local\/family rescue celebration) commemorations, <a href=\"\/index.php?cat=6840\">visit here<\/a>.\r\n\r\nFor public readings selected for a Purim Sheni, <a href=\"\/index.php?cat=3397\">visit here<\/a>.",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2019\/05\/szyk-and-haman-1950.png",
             "title": "szyk-and-haman-1950",
@@ -5264,8 +5313,9 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 793,
-        "post_count": 36,
+        "post_count": 39,
         "post_ids": [
+            66314,
             60305,
             59347,
             60273,
@@ -5290,8 +5340,10 @@
             40894,
             40434,
             54592,
+            66244,
             65355,
             54976,
+            66210,
             54997,
             55001,
             54632,
@@ -5449,8 +5501,8 @@
             45687,
             20685,
             54816,
-            20201,
             7316,
+            20201,
             45323,
             32406,
             32100,
@@ -5478,11 +5530,11 @@
             20857,
             10454,
             46114,
+            52160,
+            42604,
             36614,
             11883,
-            42604,
             11870,
-            52160,
             26321,
             45732,
             37924,
@@ -5588,7 +5640,7 @@
         "name": "Shiv'ah b'Adar",
         "id": 1436,
         "stub": "shivah-badar",
-        "description": "This is an archive of prayers composed for the fast of <span class=\"hebrew\">שִׁבְעָה בְּאַדָּר<\/span> (also, <span class=\"hebrew\">ז׳ באדר<\/span>) the seventh of Adar, a commemoration of the day of the birth and death of Mosheh Rabbeinu.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a prayer you have written, translated, or transcribed for Shiv'ah b'Adar.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor public readings selected for Shiv'ah b'Adar, <a href=\"\/index.php?cat=3997\">go here<\/a>.",
+        "description": "This is an archive of prayers composed for the fast of <span class=\"hebrew\">שִׁבְעָה בְּאַדָּר<\/span> (also, <span class=\"hebrew\">ז׳ באדר<\/span>) the seventh of Adar, a commemoration of the day of the birth and death of Mosheh Rabbeinu.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a prayer you have written, translated, or transcribed for Shiv'ah b'Adar.\r\n\r\n<hr \/>",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2016\/03\/geograph-1680097-by-Nick-Lindsay.jpg",
             "title": "geograph-1680097-by-Nick-Lindsay",
@@ -5620,10 +5672,10 @@
         ]
     },
     {
-        "name": "Ta'anit Esther",
+        "name": "Taanit Esther",
         "id": 2483,
         "stub": "taanit-esther",
-        "description": "This is an archive of prayers written for, or relevant to, the Fast of Esther on the day preceding the festival of Purim.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a prayer you have written for Ta'anit Esther.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor public readings selected for Taanit Esther, <a href=\"\/index.php?cat=3478\">visit here<\/a>.",
+        "description": "This is an archive of prayers written for, or relevant to, <span class=\"hebrew\">תַּעֲנִית אֶסְתֵּר<\/span> Ta'anit Esther (the Fast of Esther) on the day preceding the festival of Purim.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a prayer you have written for Ta'anit Esther.\r\n\r\n<hr \/>",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2017\/06\/Salome_Alexandra.png",
             "title": "Salome_Alexandra",
@@ -6683,7 +6735,7 @@
         "name": "&#x1f1fa;&#x1f1f8; Four Chaplains Day (February 3rd)",
         "id": 3284,
         "stub": "four-chaplains-day",
-        "description": "This is an archive of prayers composed for, or relevant to, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Four_Chaplains#Four_Chaplains_Day\">Four Chaplains Day<\/a> in the United States. In 1998, February 3 was established by senate resolution 169-98 as \"Four Chaplains Day\" to commemorate the anniversary of the sinking of United States Army transport SS Dorchester and subsequent heroism of four World War II chaplains who died rescuing civilian and military personnel as the American troop ship sank on February 3, 1943.\r\n\r\nThe SS Dorchester was a civilian liner converted for military service in World War II as a War Shipping Administration troop transport. She was able to carry slightly more than 900 military passengers and crew. During the early morning hours of February 3 the vessel was torpedoed by the German submarine U-223 off Newfoundland in the North Atlantic. The chaplains helped the other soldiers board lifeboats and gave up their own life jackets when the supply ran out. The chaplains joined arms, said prayers, and sang hymns as they went down with the ship. The four chaplains who drowned were Rev. George L. Fox, Rabbi Alexander D. Goode (PhD), Father John P. Washington, and minister Rev. Clark V. Poling. \r\n\r\nThe impact of the chaplains' story was deep, with coverage in the media and many public memorials. FDR's administration had emphasized the value of \"interconnectedness\" throughout the 1930s. In that same time, \"brotherhood\" was promoted as a societal value by the National Conference for Christians &amp; Jews. The story of the Four Chaplains self-sacrifice inspired a sense of brotherhood and interconnectedness at a critical moment when Americans of diverse religious backgrounds, sympathies, and prejudices, needed to be unified in a patriotic common cause against Fascism.\r\n\r\nIf you have composed a prayer for Four Chaplains Day, please <a href=\"\/contribute\/upload\">share it here<\/a>.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor National Brotherhood Week in the United States, <a href=\"\/index.php?cat=3841\">go here<\/a>.\r\n\r\nFor prayers composed for, or relevant to, Armistice\/Veterans Day in the United States, <a href=\"\/index.php?cat=3115\">go here<\/a>.\r\n\r\nFor prayers composed for or relevant to Memorial Day in the United States, <a href=\"\/index.php?cat=3068\">please visit here<\/a>.\r\n\r\nFor United Nations Day in the United States, <a href=\"\/index.php?cat=3792\">go here<\/a>.",
+        "description": "This is an archive of prayers composed for, or relevant to, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Four_Chaplains#Four_Chaplains_Day\">Four Chaplains Day<\/a> in the United States. In 1998, February 3 was established by senate resolution 169-98 as \"Four Chaplains Day\" to commemorate the anniversary of the sinking of United States Army transport SS Dorchester and subsequent heroism of four World War Ⅱ chaplains who died rescuing civilian and military personnel as the American troop ship sank on February 3, 1943.\r\n\r\nThe SS Dorchester was a civilian liner converted for military service in World War Ⅱ as a War Shipping Administration troop transport. She was able to carry slightly more than 900 military passengers and crew. During the early morning hours of February 3 the vessel was torpedoed by the German submarine U-223 off Newfoundland in the North Atlantic. The chaplains helped the other soldiers board lifeboats and gave up their own life jackets when the supply ran out. The chaplains joined arms, said prayers, and sang hymns as they went down with the ship. The four chaplains who drowned were Rev. George L. Fox, Rabbi Alexander D. Goode (PhD), Father John P. Washington, and minister Rev. Clark V. Poling. \r\n\r\nThe impact of the chaplains' story was deep, with coverage in the media and many public memorials. FDR's administration had emphasized the value of \"interconnectedness\" throughout the 1930s. In that same time, \"brotherhood\" was promoted as a societal value by the National Conference for Christians &amp; Jews. The story of the Four Chaplains self-sacrifice inspired a sense of brotherhood and interconnectedness at a critical moment when Americans of diverse religious backgrounds, sympathies, and prejudices, needed to be unified in a patriotic common cause against Fascism.\r\n\r\nIf you have composed a prayer for Four Chaplains Day, please <a href=\"\/contribute\/upload\">share it here<\/a>.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor National Brotherhood Week in the United States, <a href=\"\/index.php?cat=3841\">go here<\/a>.\r\n\r\nFor prayers composed for, or relevant to, Armistice\/Veterans Day in the United States, <a href=\"\/index.php?cat=3115\">go here<\/a>.\r\n\r\nFor prayers composed for or relevant to Memorial Day in the United States, <a href=\"\/index.php?cat=3068\">please visit here<\/a>.\r\n\r\nFor United Nations Day in the United States, <a href=\"\/index.php?cat=3792\">go here<\/a>.",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2024\/02\/four-chaplains-stained-glass.png",
             "title": "four chaplains &#8211; stained glass (East Rutherford Memorial Library 1951)",
@@ -6708,11 +6760,11 @@
         "name": "&#x1f1fa;&#x1f1f8; Abraham Lincoln's Birthday (February 12th)",
         "id": 4201,
         "stub": "abraham-lincoln-birthday",
-        "description": "This is an archive of prayers, elegies, and other works composed in honor of President Abraham Lincoln (1809-1865), whose birthday on the 12th of February is celebrated as a civic day in the United States. (The corresponding birthdate in the Jewish calendar year would be commemorated on 26 Shəvat.)\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a prayer you have written in honor of Abraham Lincoln.\r\n\r\n\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor public readings selected in honor of President Abraham Lincoln, <a href=\"\/index.php?cat=4202\">go here<\/a>.\r\n\r\nFor prayers written for, or relevant to commemorating the achievements of President George Washington, <a href=\"\/index.php?cat=1243\">go here<\/a>.",
+        "description": "This is an archive of prayers, elegies, and other works composed in honor of President Abraham Lincoln (1809-1865), whose birthday on the 12th of February is celebrated as a civic day in the United States. (The corresponding birthdate in the Jewish calendar year would be commemorated on 26 Shəvat.)\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a prayer you have written in honor of Abraham Lincoln.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers written for, or relevant to commemorating the achievements of President George Washington, <a href=\"\/index.php?cat=1243\">go here<\/a>.",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2024\/11\/abraham-lincoln-o-77-matte-collodion-print-crop.jpg",
             "title": "Abraham_Lincoln_O-77_matte_collodion_print &#8211; crop",
-            "caption": ""
+            "caption": "<a href=\"https:\/\/commons.wikimedia.org\/wiki\/File:Abraham_Lincoln_O-77_matte_collodion_print.jpg\">Abraham Lincoln O-77 matte collodion print<\/a>, 1863 (credit: Alexander Gardner)  - crop"
         },
         "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/civic-calendar\/us-civil-calendar\/abraham-lincoln-birthday\/",
         "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=4201",
@@ -6787,7 +6839,7 @@
         "name": "&#x1f1fa;&#x1f1f8; National Brotherhood Week",
         "id": 3841,
         "stub": "brotherhood-week",
-        "description": "This is an archive of prayers written for or relevant to <a href=\"https:\/\/www.pri.org\/stories\/2018-02-21\/whatever-became-national-brotherhood-week\">National Brotherhood Week<\/a> in the United States.\r\n\r\nNational Brotherhood Week was established in 1934 by the <a href=\"https:\/\/en.wikipedia.org\/wiki\/National_Conference_for_Community_and_Justice\">National Conference for Christians &amp; Jews<\/a> (NCCJ) and dedicated to emphasizing the value of <strong>interdependence<\/strong> — for fostering interracial and interreligious tolerance, egalitarianism, and social welfare in a liberal democracy and multicultural civil society.\r\n\r\nIn 1943, during World War Ⅱ, President Roosevelt explained its purpose: \"We are fighting for the right of men to live together as members of one family rather than as masters and slaves. We are fighting that the spirit of brotherhood which we prize in this country may be practiced here and by free men everywhere. It is our promise to extend such brotherhood earthwide which gives hope to all the world. The war makes the appeal of Brotherhood Week stronger than ever.\" \r\n\r\nTo join the Brotherhood, one was invited to recite the following pledge written by director, <a href=\"https:\/\/en.wikipedia.org\/wiki\/David_O._Selznick\">David O. Selznick<\/a>: \"I pledge allegiance to this basic ideal of my country—fair play for all. I pledge myself to keep America free from the disease of hate that destroyed Europe. In good heart, I pledge unto my fellow Americans all the rights and the dignities I desire for myself. And to win support for these principles across the land, I join the American Brotherhood.\"\r\n\r\nThe pledge was disseminated in cinemas via a short film, <em>The American Creed<\/em> (1946), highlighting the approbations of many of Hollywood's luminaries:\r\n\r\n \r\n\r\n[youtube https:\/\/www.youtube.com\/watch?v=gXrImvLiYhg&amp;w=560&amp;h=315]\r\n\r\n \r\n\r\nOriginally set for the third week of February, in 1943 during World War Ⅱ, President Franklin Roosevelt called for its celebration for ten days, from February 19th till the 28th. After the war, the \"week\" was either marked as the third week in February, February 17th through the 24th, or as the period between the birthdays of President Abraham Lincoln (February 12th) and George Washington (February 22nd). \r\n\r\nWhile the spirit of National Brotherhood Week was diminished to the extent that by the mid-1960s it became a popular subject of satire (famously by Tom Lehrer), nevertheless, the civic values it upholds deserve to be maintained and sustained and strengthened, especially in our times when the multicultural civil society upon which our democracy depends is being weakened. —Aharon N. Varady\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a prayer you have written, translated, or transcribed for National Brotherhood Week.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers composed for, or relevant to, United Nations Day, <a href=\"\/index.php?cat=3792\">visit here<\/a>.",
+        "description": "This is an archive of prayers written for or relevant to <a href=\"https:\/\/www.pri.org\/stories\/2018-02-21\/whatever-became-national-brotherhood-week\">National Brotherhood Week<\/a> in the United States.\r\n\r\nNational Brotherhood Week was established in 1934 by the <a href=\"https:\/\/en.wikipedia.org\/wiki\/National_Conference_for_Community_and_Justice\">National Conference for Christians &amp; Jews<\/a> (NCCJ) and dedicated to emphasizing the value of <strong>interdependence<\/strong> — for fostering interracial and interreligious tolerance, egalitarianism, and social welfare in a liberal democracy and multicultural civil society.\r\n\r\nIn 1943, during World War Ⅱ, President Roosevelt explained its purpose: \"We are fighting for the right of men to live together as members of one family rather than as masters and slaves. We are fighting that the spirit of brotherhood which we prize in this country may be practiced here and by free men everywhere. It is our promise to extend such brotherhood earthwide which gives hope to all the world. The war makes the appeal of Brotherhood Week stronger than ever.\" \r\n\r\nTo join the Brotherhood, one was invited to recite the following pledge written by director, <a href=\"https:\/\/en.wikipedia.org\/wiki\/David_O._Selznick\">David O. Selznick<\/a>: \"I pledge allegiance to this basic ideal of my country—fair play for all. I pledge myself to keep America free from the disease of hate that destroyed Europe. In good heart, I pledge unto my fellow Americans all the rights and the dignities I desire for myself. And to win support for these principles across the land, I join the American Brotherhood.\"\r\n\r\nThe pledge was disseminated in cinemas via a short film, <em>The American Creed<\/em> (1946), highlighting the approbations of many of Hollywood's luminaries:\r\n\r\n \r\n\r\n[youtube https:\/\/www.youtube.com\/watch?v=gXrImvLiYhg&amp;w=560&amp;h=315]\r\n\r\n \r\n\r\nOriginally set for the third week of February, in 1943 during World War Ⅱ, President Franklin Roosevelt called for its celebration for ten days, from February 19th till the 28th. After the war, the \"week\" was either marked as the third week in February, February 17th through the 24th, or as the period between the birthdays of President Abraham Lincoln (February 12th) and George Washington (February 22nd). \r\n\r\nWhile the spirit of National Brotherhood Week was diminished to the extent that by the mid-1960s it became a popular subject of satire (famously by Tom Lehrer), nevertheless, the civic values it upholds deserve to be maintained and sustained and strengthened, especially in our times when the institutions supporting our liberal democracy and multicultural civil society are being actively weakened. —Aharon N. Varady\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a prayer you have written, translated, or transcribed for National Brotherhood Week.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers composed for, or relevant to, United Nations Day, <a href=\"\/index.php?cat=3792\">visit here<\/a>.",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2019\/09\/Brotherhood_Week__-_NARA_-_513813.jpg",
             "title": "_Brotherhood_Week__-_NARA_-_513813",
@@ -6798,10 +6850,9 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 3037,
-        "post_count": 32,
+        "post_count": 24,
         "post_ids": [
             55287,
-            44362,
             24151,
             24233,
             48167,
@@ -6812,31 +6863,26 @@
             54262,
             14974,
             27145,
-            43774,
             44915,
-            35764,
             54491,
             37089,
             35743,
             46341,
-            35418,
             34779,
             46396,
-            23691,
             31922,
-            25920,
             12784,
             28058,
             40156,
             12839,
-            47453,
-            25901,
             18441
         ],
         "term_order": 6,
         "hierarchical_id": "1.3.4.6",
         "ancestor_set_id": null,
-        "complementary_cat_id": []
+        "complementary_cat_id": [
+            7023
+        ]
     },
     {
         "name": "&#x1f1fa;&#x1f1f8; Education and Sharing Day",
@@ -7667,10 +7713,9 @@
         },
         "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/civic-calendar\/dawlat-filastin-civil-calendar\/",
         "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=3445",
-        "subcategory_count": 2,
+        "subcategory_count": 1,
         "subcategories": [
-            1249,
-            3726
+            1249
         ],
         "parent_id": 794,
         "post_count": 0,
@@ -7702,30 +7747,6 @@
         ],
         "term_order": 1,
         "hierarchical_id": "1.3.6.1",
-        "ancestor_set_id": null,
-        "complementary_cat_id": []
-    },
-    {
-        "name": "Ramadan",
-        "id": 3726,
-        "stub": "ramadan",
-        "description": "This is an archive of prayers composed for or relevant to the Muslim observance of the religious obligations and pious traditions of Ramadan, especially in the context of Jewish participation in interfaith <em><a href=\"https:\/\/en.wikipedia.org\/wiki\/Iftar\">iftar<\/a><\/em> (break fast) programs.\r\n\r\nRamadan (Arabic: رَمَضَان‎) is the ninth month of the Islamic calendar, observed by Muslims worldwide as a month of fasting (<em>sawm<\/em>), prayer, reflection and community. A commemoration of <a href=\"https:\/\/en.wikipedia.org\/wiki\/Muhammad%27s_first_revelation\">Muhammad's first revelation<\/a>, the annual observance of Ramadan is regarded as one of the <a href=\"https:\/\/en.wikipedia.org\/wiki\/Five_Pillars_of_Islam\">Five Pillars of Islam<\/a> and lasts twenty-nine to thirty days, from one sighting of the crescent moon to the next.\r\n\r\nFasting from sunrise to sunset is <em>fard<\/em> (obligatory) for all adult Muslims who are not acutely or chronically ill, travelling, elderly, breastfeeding, diabetic, or menstruating. The predawn meal is referred to as <em>suhur<\/em>, and the nightly feast that breaks the fast is called <em>iftar<\/em>. Although fatwas have been issued declaring that Muslims who live in regions with a midnight sun or polar night should follow the timetable of Mecca, it is common practice to follow the timetable of the closest country in which night can be distinguished from day.\r\n\r\nThe spiritual rewards (<em>thawab<\/em>) of fasting are believed to be multiplied during Ramadan. Accordingly, Muslims refrain not only from food and drink, but also tobacco products, sexual relations, and sinful behavior, devoting themselves instead to <em>salat<\/em> (prayer) and recitation of the Quran.\r\n\r\n(This summary was adapted from the <a href=\"https:\/\/en.wikipedia.org\/wiki\/Ramadan\">article on Ramadan<\/a> at Wikipedia.)\r\n\r\n☞ If you have composed a prayer for an interfaith program on Ramadan, please <a href=\"\/contribute\/upload\">share it<\/a>.",
-        "featured_image": {
-            "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2017\/06\/1280px-Jerusalem_muslim_quarter_during_Ramadan_Victor_Grigas_2011_-1-49.jpg",
-            "title": "1280px-Jerusalem_muslim_quarter_during_Ramadan_Victor_Grigas_2011_-1-49",
-            "caption": "\"<a href=\"https:\/\/commons.wikimedia.org\/wiki\/File:Jerusalem_muslim_quarter_during_Ramadan_Victor_Grigas_2011_-1-49.jpg\">Jerusalem, muslim quarter, Al-Qattanin street (Cotton Merchant's Market), during Ramadan<\/a>\" (credit: Victorgrigas, license: CC BY-SA)"
-        },
-        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/civic-calendar\/dawlat-filastin-civil-calendar\/ramadan\/",
-        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=3726",
-        "subcategory_count": 0,
-        "subcategories": [],
-        "parent_id": 3445,
-        "post_count": 1,
-        "post_ids": [
-            15582
-        ],
-        "term_order": 2,
-        "hierarchical_id": "1.3.6.2",
         "ancestor_set_id": null,
         "complementary_cat_id": []
     },
@@ -7770,12 +7791,13 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 5160,
-        "post_count": 15,
+        "post_count": 16,
         "post_ids": [
             20423,
             40919,
             53870,
             24168,
+            65973,
             39976,
             42621,
             42611,
@@ -8519,7 +8541,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 2633,
-        "post_count": 41,
+        "post_count": 42,
         "post_ids": [
             60204,
             58585,
@@ -8544,6 +8566,7 @@
             48494,
             65099,
             59561,
+            66173,
             41267,
             32391,
             32287,
@@ -8710,8 +8733,9 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 2633,
-        "post_count": 22,
+        "post_count": 23,
         "post_ids": [
+            65806,
             37412,
             40927,
             65240,
@@ -8755,9 +8779,8 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 2633,
-        "post_count": 114,
+        "post_count": 118,
         "post_ids": [
-            65785,
             65492,
             63536,
             60959,
@@ -8801,6 +8824,7 @@
             8734,
             4564,
             4279,
+            65785,
             3650,
             37601,
             14723,
@@ -8820,6 +8844,10 @@
             50136,
             50143,
             50130,
+            66122,
+            66000,
+            66006,
+            66040,
             49455,
             49449,
             49458,
@@ -9041,13 +9069,14 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 2634,
-        "post_count": 18,
+        "post_count": 19,
         "post_ids": [
             30926,
             26407,
             52834,
             50207,
             30664,
+            66196,
             45323,
             43041,
             32192,
@@ -11855,8 +11884,9 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 524,
-        "post_count": 46,
+        "post_count": 49,
         "post_ids": [
+            66314,
             63296,
             63257,
             57276,
@@ -11893,6 +11923,8 @@
             65303,
             64938,
             31922,
+            66063,
+            66046,
             57306,
             49954,
             49943,
@@ -12470,7 +12502,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 100,
-        "post_count": 13,
+        "post_count": 14,
         "post_ids": [
             43415,
             38483,
@@ -12479,6 +12511,7 @@
             11428,
             34306,
             38428,
+            65973,
             43093,
             43102,
             43108,
@@ -12705,8 +12738,9 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 3159,
-        "post_count": 3,
+        "post_count": 4,
         "post_ids": [
+            66149,
             22123,
             22085,
             22106
@@ -12759,9 +12793,10 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 3159,
-        "post_count": 4,
+        "post_count": 5,
         "post_ids": [
             39790,
+            66153,
             22241,
             22268,
             28143
@@ -12812,8 +12847,9 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 3159,
-        "post_count": 3,
+        "post_count": 4,
         "post_ids": [
+            66157,
             22479,
             22508,
             28346
@@ -12838,8 +12874,9 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 3159,
-        "post_count": 3,
+        "post_count": 4,
         "post_ids": [
+            66167,
             22662,
             22607,
             28445
@@ -13080,12 +13117,13 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 3160,
-        "post_count": 15,
+        "post_count": 17,
         "post_ids": [
             59974,
             53168,
             52302,
             15189,
+            66173,
             65752,
             65743,
             59994,
@@ -13093,6 +13131,7 @@
             65735,
             65763,
             35211,
+            65814,
             23314,
             23280,
             6587,
@@ -13174,8 +13213,9 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 3160,
-        "post_count": 4,
+        "post_count": 5,
         "post_ids": [
+            36210,
             23622,
             23580,
             30385,
@@ -13647,8 +13687,9 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 3162,
-        "post_count": 3,
+        "post_count": 4,
         "post_ids": [
+            66176,
             25359,
             25462,
             31577
@@ -13673,8 +13714,9 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 3162,
-        "post_count": 3,
+        "post_count": 4,
         "post_ids": [
+            66179,
             25364,
             25477,
             31716
@@ -13829,8 +13871,9 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 3162,
-        "post_count": 3,
+        "post_count": 4,
         "post_ids": [
+            66192,
             26136,
             26059,
             32770
@@ -13882,8 +13925,9 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 3162,
-        "post_count": 4,
+        "post_count": 5,
         "post_ids": [
+            66196,
             43324,
             26185,
             26231,
@@ -13997,8 +14041,9 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 3163,
-        "post_count": 3,
+        "post_count": 4,
         "post_ids": [
+            66200,
             26470,
             26509,
             26513
@@ -14075,8 +14120,9 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 3163,
-        "post_count": 3,
+        "post_count": 4,
         "post_ids": [
+            66204,
             26962,
             26996,
             27000
@@ -14520,8 +14566,9 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 4036,
-        "post_count": 13,
+        "post_count": 14,
         "post_ids": [
+            65861,
             37102,
             51282,
             12310,
@@ -14954,7 +15001,7 @@
         "name": "Shiv'ah b'Adar Readings",
         "id": 3997,
         "stub": "shivah-badar-readings",
-        "description": "This is an archive of public readings selected for the fast of <span class=\"hebrew\">שִׁבְעָה בְּאַדָּר<\/span> (also, <span class=\"hebrew\">ז׳ באדר<\/span>) the seventh of Adar, a commemoration of the day of the death of Mosheh Rabbeinu.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a reading you have written, translated, or transcribed for Shiv'ah b'Adar.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers composed for Shiv'ah b'Adar, <a href=\"\/index.php?cat=1436\">go here<\/a>.",
+        "description": "This is an archive of public readings selected for the fast of <span class=\"hebrew\">שִׁבְעָה בְּאַדָּר<\/span> (also, <span class=\"hebrew\">ז׳ באדר<\/span>) the seventh of Adar, a commemoration of the day of the death of Mosheh Rabbeinu.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a reading you have written, translated, or transcribed for Shiv'ah b'Adar.\r\n\r\n<hr \/>",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2024\/10\/death-and-life-gustav-klimt-1910-1915.png",
             "title": "Death and Life (Gustav Klimt 1910-1915)",
@@ -15004,7 +15051,7 @@
         "name": "Taanit Esther Readings",
         "id": 3478,
         "stub": "taanit-esther-readings",
-        "description": "This is an archive of prayers written for, or relevant to, the Fast of Esther on the day preceding the festival of Purim.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a prayer you have written for Ta'anit Esther.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers composed for Taanit Esther, <a href=\"\/index.php?cat=2483\">go here<\/a>.",
+        "description": "This is an archive of prayers written for, or relevant to, <span class=\"hebrew\">תַּעֲנִית אֶסְתֵּר<\/span> Ta'anit Esther (the Fast of Esther) on the day preceding the festival of Purim.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a prayer you have written for Ta'anit Esther.\r\n\r\n<hr \/>",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2019\/03\/090904-F-2907C-275.jpg",
             "title": "U.S. Air Force Chaplaincy",
@@ -15030,7 +15077,7 @@
         "name": "Purim Qaṭan Readings",
         "id": 5506,
         "stub": "purim-qatan-readings",
-        "description": "This is an archive of public readings prepared for Purim Qaṭan, the 14th of Adar alef (only occurring on leap years in the rabbinic Jewish calendar).\r\n\r\nDuring leap years in the rabbinic Jewish calendar, the festival of Purim actually falls on the <em>second<\/em> month of Adar (otherwise known as Adar bet). In the preceding month (Adar alef), the 14th day is called Purim Qaṭan (\"Little Purim\") and the 15th day is Shushan Purim Qaṭan, for which there are no set observances. \r\n\r\nA leap year in the Jewish calendar occurs seven times in the 19-year <a href=\"https:\/\/en.wikipedia.org\/wiki\/Metonic_cycle\">Metonic cycle<\/a>, namely, in years 3, 6, 8, 11, 14, 17, and 19 of the cycle. This means that a leap month is added every two to three years. \r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a public reading you have prepared for Purim Qaṭan.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor public readings selected for Purim (including Megilat Esther), <a href=\"\/index.php?cat=3019\">visit here<\/a>.\r\n\r\nFor prayers and songs composed for (or relevant to) Purim Qatan, <a href=\"\/index.php?cat=3414\">visit here<\/a>.\r\n\r\nFor prayers composed for Purim, <a href=\"\/index.php?cat=212\">go here<\/a>.",
+        "description": "This is an archive of public readings prepared for Purim Qaṭan, the 14th of Adar alef (only occurring on leap years in the rabbinic Jewish calendar).\r\n\r\nDuring leap years in the rabbinic Jewish calendar, the festival of Purim actually falls on the <em>second<\/em> month of Adar (otherwise known as Adar bet). In the preceding month (Adar alef), the 14th day is called Purim Qaṭan (\"Little Purim\") and the 15th day is Shushan Purim Qaṭan, for which there are no set observances. \r\n\r\nA leap year in the Jewish calendar occurs seven times in the 19-year <a href=\"https:\/\/en.wikipedia.org\/wiki\/Metonic_cycle\">Metonic cycle<\/a>, namely, in years 3, 6, 8, 11, 14, 17, and 19 of the cycle. This means that a leap month is added every two to three years. \r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a public reading you have prepared for Purim Qaṭan.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor public readings selected for Purim (including Megilat Esther), <a href=\"\/index.php?cat=3019\">visit here<\/a>.\r\n\r\nFor prayers composed for Purim, <a href=\"\/index.php?cat=212\">go here<\/a>.\r\n\r\nFor public readings selected for a Purim Sheni (local\/family rescue celebration), <a href=\"\/index.php?cat=3397\">visit here<\/a>.\r\n\r\nFor prayers composed for Purim Sheni commemorations, <a href=\"\/index.php?cat=6840\">visit here<\/a>.",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2022\/02\/Settlers-of-Catan-midiman-CC-BY.jpg",
             "title": "Settlers of Catan (midiman CC BY)",
@@ -15056,7 +15103,7 @@
         "name": "Purim Readings",
         "id": 3019,
         "stub": "purim-readings",
-        "description": "This is an archive of public readings for the festival of Purim: the megillat esther, derivative tales, and supplementary readings.\r\n\r\nThis is an archive of public readings for the festival of Purim: the megillat Esther, derivative tales, and supplementary readings. Purim is named after the word pur in megillat Esther, the method of divination by lot used to determine the proper date for the Jews under the dominion of the Persian empire (circa 5th century BCE) to be murdered en masse (<span class=\"citation\">Esther 3:7<\/span>). The lot is cast on the eve of Pesaḥ (the 13th of Nisan) for the 13th of Adar and the decree to destroy the Jews is relayed posthaste (<span class=\"citation\">Esther 3:12<\/span>). (Significantly, the 13th of Nisan is the eve of Pesaḥ when, according to Leviticus 23:5-6, the slaughter and consumption of the paschal lamb is indicated — a very auspicious date indeed.) Hijinx ensue. \r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a public reading you have selected for Purim.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers and songs composed for Purim, <a href=\"\/index.php?cat=212\">visit here<\/a>.\r\n\r\nFor public readings on Purim Qatan, <a href=\"\/index.php?cat=5506\">visit here<\/a>.\r\n\r\nFor public readings selected for Taanit Esther, <a href=\"\/index.php?cat=3478\">go here<\/a>.\r\n\r\nFor public readings selected for a Purim Sheni, <a href=\"\/index.php?cat=3397\">visit here<\/a>.",
+        "description": "This is an archive of public readings for the festival of Purim: the megillat esther, derivative tales, and supplementary readings.\r\n\r\nThis is an archive of public readings for the festival of Purim: the megillat Esther, derivative tales, and supplementary readings. Purim is named after the word pur in megillat Esther, the method of divination by lot used to determine the proper date for the Jews under the dominion of the Persian empire (circa 5th century BCE) to be murdered en masse (<span class=\"citation\">Esther 3:7<\/span>). The lot is cast on the eve of Pesaḥ (the 13th of Nisan) for the 13th of Adar and the decree to destroy the Jews is relayed posthaste (<span class=\"citation\">Esther 3:12<\/span>). (Significantly, the 13th of Nisan is the eve of Pesaḥ when, according to Leviticus 23:5-6, the slaughter and consumption of the paschal lamb is indicated — a very auspicious date indeed.) Hijinx ensue. \r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a public reading you have selected for Purim.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor public readings on Purim Qatan (for Adar Alef on leap years), <a href=\"\/index.php?cat=5506\">visit here<\/a>.\r\n\r\nFor prayers and songs composed for Purim Qatan, <a href=\"\/index.php?cat=3414\">visit here<\/a>.\r\n\r\nFor public readings selected for Taanit Esther, <a href=\"\/index.php?cat=3478\">go here<\/a>.\r\n\r\nFor prayers composed for Taanit Esther, <a href=\"\/index.php?cat=2483\">go here<\/a>.\r\n\r\nFor public readings selected for a Purim Sheni (local\/family rescue celebration), <a href=\"\/index.php?cat=3397\">visit here<\/a>.\r\n\r\nFor prayer composed for Purim Sheni commemorations, <a href=\"\/index.php?cat=6840\">visit here<\/a>.",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2020\/03\/round_plaque_with_two_fighting_dragons_limoges_1200-1250.jpg",
             "title": "Round plaque with two fighting dragons, Limoges, 1200-1250",
@@ -15067,8 +15114,9 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 4036,
-        "post_count": 8,
+        "post_count": 9,
         "post_ids": [
+            65952,
             35786,
             18946,
             10497,
@@ -15089,7 +15137,7 @@
         "name": "Purim Sheni Readings",
         "id": 3397,
         "stub": "purim-sheni-readings",
-        "description": "This is an archive of megillot written for a Purim Sheni, a second or secondary Purim. In many Jewish communities around the world, “local Purims” celebrating the survival of specific communities are made which include the retelling of stories of their redemption under chilling circumstances.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a reading you have written, translated, or transcribed for a Purim Sheni.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor public readings selected for Purim, <a href=\"\/index.php?cat=3019\">visit here<\/a>.\r\n\r\nFor public readings selected for Taanit Esther, <a href=\"\/index.php?cat=3478\">go here<\/a>.",
+        "description": "This is an archive of megillot written for a Purim Sheni, a second or secondary Purim. In many Jewish communities around the world, “local Purims” celebrating the survival of specific communities are made which include the retelling of stories of their redemption under chilling circumstances.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a reading you have written, translated, or transcribed for a Purim Sheni.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor public readings selected for Purim, <a href=\"\/index.php?cat=3019\">visit here<\/a>.\r\n\r\nFor prayers composed for Purim, <a href=\"\/index.php?cat=212\">go here<\/a>.\r\n\r\nFor public readings on Purim Qatan (for Adar Alef on leap years), <a href=\"\/index.php?cat=5506\">visit here<\/a>.\r\n\r\nFor prayers and songs composed for Purim Qatan, <a href=\"\/index.php?cat=3414\">visit here<\/a>.",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2020\/03\/PikiWiki_Israel_4963_Israeli_teachers_in_Egypt.jpg",
             "title": "PikiWiki_Israel_4963_Israeli_teachers_in_Egypt",
@@ -15131,11 +15179,12 @@
         },
         "permalink": "https:\/\/opensiddur.org\/shared\/readings-and-sourcetexts\/readings\/civic-readings\/",
         "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=4035",
-        "subcategory_count": 15,
+        "subcategory_count": 16,
         "subcategories": [
             4306,
             3023,
             4202,
+            7023,
             4213,
             3121,
             6014,
@@ -15239,6 +15288,39 @@
         ]
     },
     {
+        "name": "&#x1f1fa;&#x1f1f8; National Brotherhood Week Readings",
+        "id": 7023,
+        "stub": "brotherhood-week-readings",
+        "description": "This is an archive of prayers written for or relevant to <a href=\"https:\/\/www.pri.org\/stories\/2018-02-21\/whatever-became-national-brotherhood-week\">National Brotherhood Week<\/a> in the United States.\r\n\r\nNational Brotherhood Week was established in 1934 by the <a href=\"https:\/\/en.wikipedia.org\/wiki\/National_Conference_for_Community_and_Justice\">National Conference for Christians &amp; Jews<\/a> (NCCJ) and dedicated to emphasizing the value of <strong>interdependence<\/strong> — for fostering interracial and interreligious tolerance, egalitarianism, and social welfare in a liberal democracy and multicultural civil society.\r\n\r\nIn 1943, during World War Ⅱ, President Roosevelt explained its purpose: \"We are fighting for the right of men to live together as members of one family rather than as masters and slaves. We are fighting that the spirit of brotherhood which we prize in this country may be practiced here and by free men everywhere. It is our promise to extend such brotherhood earthwide which gives hope to all the world. The war makes the appeal of Brotherhood Week stronger than ever.\" \r\n\r\nTo join the Brotherhood, one was invited to recite the following pledge written by director, <a href=\"https:\/\/en.wikipedia.org\/wiki\/David_O._Selznick\">David O. Selznick<\/a>: \"I pledge allegiance to this basic ideal of my country—fair play for all. I pledge myself to keep America free from the disease of hate that destroyed Europe. In good heart, I pledge unto my fellow Americans all the rights and the dignities I desire for myself. And to win support for these principles across the land, I join the American Brotherhood.\"\r\n\r\nThe pledge was disseminated in cinemas via a short film, <em>The American Creed<\/em> (1946), highlighting the approbations of many of Hollywood's luminaries:\r\n\r\n \r\n\r\n[youtube https:\/\/www.youtube.com\/watch?v=gXrImvLiYhg&amp;w=560&amp;h=315]\r\n\r\n \r\n\r\nOriginally set for the third week of February, in 1943 during World War Ⅱ, President Franklin Roosevelt called for its celebration for ten days, from February 19th till the 28th. After the war, the \"week\" was either marked as the third week in February, February 17th through the 24th, or as the period between the birthdays of President Abraham Lincoln (February 12th) and George Washington (February 22nd). \r\n\r\nWhile the spirit of National Brotherhood Week was diminished to the extent that by the mid-1960s it became a popular subject of satire (famously by Tom Lehrer), nevertheless, the civic values it upholds deserve to be maintained and sustained and strengthened, especially in our times when the institutions supporting our liberal democracy and multicultural civil society are being actively weakened. —Aharon N. Varady\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a prayer you have written, translated, or transcribed for National Brotherhood Week.\r\n\r\n\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers composed for, or relevant to, United Nations Day, <a href=\"\/index.php?cat=3792\">visit here<\/a>.",
+        "featured_image": {
+            "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2019\/09\/Brotherhood_Week__-_NARA_-_513813.jpg",
+            "title": "_Brotherhood_Week__-_NARA_-_513813",
+            "caption": "<a href=\"https:\/\/commons.wikimedia.org\/wiki\/File:\"Brotherhood_Week\"_-_NARA_-_513813.jpg\">Brotherhood Week declaration by President Franklin D. Roosevelt<\/a>, in the context of the conflict of World War II. (February 19th to 28th, 1943, Office for Emergency Management. Office of War Information. Domestic Operations Branch. Bureau of Special Services.) "
+        },
+        "permalink": "https:\/\/opensiddur.org\/shared\/readings-and-sourcetexts\/readings\/civic-readings\/brotherhood-week-readings\/",
+        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=7023",
+        "subcategory_count": 0,
+        "subcategories": [],
+        "parent_id": 4035,
+        "post_count": 8,
+        "post_ids": [
+            44362,
+            43774,
+            35764,
+            35418,
+            23691,
+            25920,
+            47453,
+            25901
+        ],
+        "term_order": 4,
+        "hierarchical_id": "2.2.2.4",
+        "ancestor_set_id": null,
+        "complementary_cat_id": [
+            3841
+        ]
+    },
+    {
         "name": "&#x1f1fa;&#x1f1f8; George Washington's Birthday Readings",
         "id": 4213,
         "stub": "george-washington-birthday-readings",
@@ -15257,8 +15339,8 @@
         "post_ids": [
             22602
         ],
-        "term_order": 4,
-        "hierarchical_id": "2.2.2.4",
+        "term_order": 5,
+        "hierarchical_id": "2.2.2.5",
         "ancestor_set_id": null,
         "complementary_cat_id": [
             1243
@@ -15284,8 +15366,8 @@
             8684,
             39150
         ],
-        "term_order": 5,
-        "hierarchical_id": "2.2.2.5",
+        "term_order": 6,
+        "hierarchical_id": "2.2.2.6",
         "ancestor_set_id": null,
         "complementary_cat_id": []
     },
@@ -15308,8 +15390,8 @@
         "post_ids": [
             25245
         ],
-        "term_order": 6,
-        "hierarchical_id": "2.2.2.6",
+        "term_order": 7,
+        "hierarchical_id": "2.2.2.7",
         "ancestor_set_id": null,
         "complementary_cat_id": [
             6664
@@ -15335,8 +15417,8 @@
             50372,
             15325
         ],
-        "term_order": 7,
-        "hierarchical_id": "2.2.2.7",
+        "term_order": 8,
+        "hierarchical_id": "2.2.2.8",
         "ancestor_set_id": null,
         "complementary_cat_id": [
             1239
@@ -15364,8 +15446,8 @@
             52610,
             25920
         ],
-        "term_order": 8,
-        "hierarchical_id": "2.2.2.8",
+        "term_order": 9,
+        "hierarchical_id": "2.2.2.9",
         "ancestor_set_id": null,
         "complementary_cat_id": [
             3038
@@ -15391,8 +15473,8 @@
             35764,
             25245
         ],
-        "term_order": 9,
-        "hierarchical_id": "2.2.2.9",
+        "term_order": 10,
+        "hierarchical_id": "2.2.2.10",
         "ancestor_set_id": null,
         "complementary_cat_id": [
             3068
@@ -15419,8 +15501,8 @@
             32304,
             51960
         ],
-        "term_order": 10,
-        "hierarchical_id": "2.2.2.10",
+        "term_order": 11,
+        "hierarchical_id": "2.2.2.11",
         "ancestor_set_id": null,
         "complementary_cat_id": [
             6843
@@ -15451,8 +15533,8 @@
             25901,
             57205
         ],
-        "term_order": 11,
-        "hierarchical_id": "2.2.2.11",
+        "term_order": 12,
+        "hierarchical_id": "2.2.2.12",
         "ancestor_set_id": null,
         "complementary_cat_id": [
             2796
@@ -15479,8 +15561,8 @@
             51960,
             57841
         ],
-        "term_order": 12,
-        "hierarchical_id": "2.2.2.12",
+        "term_order": 13,
+        "hierarchical_id": "2.2.2.13",
         "ancestor_set_id": null,
         "complementary_cat_id": []
     },
@@ -15503,8 +15585,8 @@
         "post_ids": [
             26019
         ],
-        "term_order": 13,
-        "hierarchical_id": "2.2.2.13",
+        "term_order": 14,
+        "hierarchical_id": "2.2.2.14",
         "ancestor_set_id": null,
         "complementary_cat_id": [
             5849
@@ -15530,8 +15612,8 @@
             37748,
             59318
         ],
-        "term_order": 14,
-        "hierarchical_id": "2.2.2.14",
+        "term_order": 15,
+        "hierarchical_id": "2.2.2.15",
         "ancestor_set_id": null,
         "complementary_cat_id": [
             3115
@@ -15556,8 +15638,8 @@
         "post_ids": [
             22602
         ],
-        "term_order": 15,
-        "hierarchical_id": "2.2.2.15",
+        "term_order": 16,
+        "hierarchical_id": "2.2.2.16",
         "ancestor_set_id": null,
         "complementary_cat_id": [
             1240
@@ -17200,8 +17282,9 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 763,
-        "post_count": 3,
+        "post_count": 4,
         "post_ids": [
+            65952,
             18913,
             2710,
             23716
@@ -17269,11 +17352,11 @@
         "name": "Second Temple Period",
         "id": 3404,
         "stub": "second-temple-period",
-        "description": "",
+        "description": "This is an archive of extra-canonical (deuterocanonical) compositions from the period of the Second Temple.\r\n\r\n<hr \/>",
         "featured_image": {
-            "url": "",
-            "title": "",
-            "caption": ""
+            "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2026\/02\/dirk-van-santen-and-the-keur-bible-new-insights-into-jacob-judah-arye-leon-templos-model-temple-page-09-image-0002.jpg",
+            "title": "Dirk van Santen and the Keur Bible New Insights into Jacob Judah (Arye) Leon Templo&#8217;s Model Temple_Page_09_Image_0002",
+            "caption": "Dirk van Santen and the Keur Bible New Insights into Jacob Judah (Arye) Leon Templo's Model Temple, p. 9"
         },
         "permalink": "https:\/\/opensiddur.org\/shared\/readings-and-sourcetexts\/mekorot\/non-canonical\/exoteric\/second-temple-period\/",
         "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=3404",
@@ -17431,7 +17514,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 4045,
-        "post_count": 22,
+        "post_count": 23,
         "post_ids": [
             42592,
             9567,
@@ -17442,6 +17525,7 @@
             22602,
             65327,
             64919,
+            65861,
             63214,
             23767,
             57706,
@@ -19009,10 +19093,11 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 238,
-        "post_count": 2,
+        "post_count": 3,
         "post_ids": [
             54592,
-            65355
+            65355,
+            66210
         ],
         "term_order": 12,
         "hierarchical_id": "3.2.12",
@@ -19162,7 +19247,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 4432,
-        "post_count": 48,
+        "post_count": 50,
         "post_ids": [
             9556,
             32508,
@@ -19188,9 +19273,11 @@
             48061,
             32499,
             50251,
+            66079,
             26253,
             32503,
             50550,
+            66083,
             33458,
             50356,
             50403,
@@ -19531,12 +19618,12 @@
         "post_count": 17,
         "post_ids": [
             2962,
+            2707,
             1613,
             1161,
             895,
             484,
             420,
-            2707,
             1010,
             1500,
             359,

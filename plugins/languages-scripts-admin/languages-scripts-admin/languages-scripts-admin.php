@@ -6,7 +6,7 @@ Version: 1.1
 Author: Aharon N. Varady
 */
 
-function ls_add_admin_menu() {
+/* function ls_add_admin_menu() {
     // Add "Languages & Scripts" as a sub-menu item under "Posts"
     add_submenu_page(
         'edit.php', // Parent slug: "Posts"
@@ -22,6 +22,44 @@ function ls_add_admin_menu() {
     add_submenu_page(null, 'Edit Script', 'Edit Script', 'manage_options', 'edit-script', 'ls_render_edit_script_page');
 }
 add_action('admin_menu', 'ls_add_admin_menu');
+*/
+
+function ls_add_admin_menu() {
+    // Visible submenu under "Posts"
+    add_submenu_page(
+        'edit.php',
+        'Languages & Scripts',
+        'Languages & Scripts',
+        'manage_options',
+        'languages-scripts',
+        'ls_render_admin_page'
+    );
+
+    // Hidden submenus (must NOT use null parent in PHP 8+)
+    add_submenu_page(
+        'edit.php',
+        'Edit Language',
+        'Edit Language',
+        'manage_options',
+        'edit-language',
+        'ls_render_edit_language_page'
+    );
+
+    add_submenu_page(
+        'edit.php',
+        'Edit Script',
+        'Edit Script',
+        'manage_options',
+        'edit-script',
+        'ls_render_edit_script_page'
+    );
+
+    // Remove the hidden pages from the menu UI
+    remove_submenu_page('edit.php', 'edit-language');
+    remove_submenu_page('edit.php', 'edit-script');
+}
+add_action('admin_menu', 'ls_add_admin_menu');
+
 
 
 // Retrieve all languages and scripts from post metadata and count associated posts

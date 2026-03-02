@@ -177,7 +177,7 @@ function enhance_category_description($content) {
 
         // Display author filters
         if (!empty($authors)) {
-            $filters .= '<div class="accordion"><strong>Filter resources by Collaborator Name</strong></div>';
+            $filters .= '<div class="accordion"><strong>Filter resources by Name</strong></div>';
             $filters .= '<div class="panel">';
             $filters .= implode(' | ', array_map(function($author) use ($category_url) {
                 $link = build_filter_link($category_url, 'col', $author->ID);

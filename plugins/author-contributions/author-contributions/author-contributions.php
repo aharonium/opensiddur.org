@@ -251,7 +251,7 @@ function ac_render_filters_html($categories, $tags, $co_contributors, $languages
     }
 
     if (!empty($co_contributors)) {
-        $output .= '<div class="accordion">Filter resources by Collaborator Name</div>';
+        $output .= '<div class="accordion">Filter resources by Name</div>';
         $output .= '<div class="panel"><p>';
         foreach ($co_contributors as $contributor) {
             $link = esc_url(add_query_arg('collab', $contributor['id'], get_author_posts_url($user_id)));
