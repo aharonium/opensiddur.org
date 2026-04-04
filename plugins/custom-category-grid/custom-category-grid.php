@@ -10,13 +10,13 @@
  * License URI: https://www.gnu.org/licenses/lgpl-3.0.html
  * Requires PHP: 7.4
  * Requires at least: 5.2
- * Tested up to: 6.4
+ * Tested up to: 6.9
  * Tags: category pages, subcategories, co-authors, categories, tags, filters, WordPress plugin
  * Text Domain: custom-category-grid
  *
  * Note: This plugin relies on helper functions located in our theme's functions.php, as well as JSON files generated from functions there.
  * This plugin relies on the "Post Category Image with Grid and Slider" plugin by WPOnlineSupport/EssentialPlugin <https://wordpress.org/plugins/post-category-image-with-grid-and-slider/>. 
- * The plugin for providing a simple means of designating a category image. A non-commercial free version is available here <https://wordpress.org/plugins/post-category-image-with-grid-and-slider/> (although this code refers to the pro version).
+ * "Post Category Image with Grid and Slider" provides a simple means of designating a category image in category pages. 
  * 
  * Acknowledgment: Special thanks to ChatGPT by OpenAI for considerable assistance and technical guidance during this plugin's development process.
 */

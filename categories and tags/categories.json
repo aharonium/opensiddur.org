@@ -348,19 +348,20 @@
         "name": "Preparing one's face",
         "id": 6691,
         "stub": "face-washing",
-        "description": "The Talmud Bavli (Berakhot 60b.6) provides a formula upon washing one's face. This prayer completes the arrangement of prayers and blessings offered for the private Birkhot haShaḥar. ",
+        "description": "The Talmud Bavli (Berakhot 60b.6) provides a formula upon washing one's face. This prayer completes the arrangement of prayers and blessings offered for the private Birkhot haShaḥar. \r\n\r\n<hr \/>",
         "featured_image": {
-            "url": "",
-            "title": "",
-            "caption": ""
+            "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2026\/03\/fred-wilsons-reflections-at-brandeis-an-artists-racial-critique-rose-art-museum.png",
+            "title": "Fred Wilson&#8217;s Reflections at Brandeis- an Artist&#8217;s Racial Critique (Rose Art Museum)",
+            "caption": "Fred Wilson's Reflections at Brandeis- an Artist's Racial Critique (Rose Art Museum)"
         },
         "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/daytime\/birkhot-hashahar\/face-washing\/",
         "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=6691",
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 1630,
-        "post_count": 1,
+        "post_count": 2,
         "post_ids": [
+            66656,
             58955
         ],
         "term_order": 6,
@@ -536,12 +537,13 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 387,
-        "post_count": 5,
+        "post_count": 6,
         "post_ids": [
             31384,
             3393,
             50993,
             57553,
+            66676,
             17284
         ],
         "term_order": 3,
@@ -650,9 +652,10 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 6683,
-        "post_count": 2,
+        "post_count": 3,
         "post_ids": [
             40061,
+            66676,
             58895
         ],
         "term_order": 3,
@@ -675,8 +678,9 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 6683,
-        "post_count": 1,
+        "post_count": 2,
         "post_ids": [
+            66676,
             32573
         ],
         "term_order": 4,
@@ -2527,7 +2531,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 398,
-        "post_count": 25,
+        "post_count": 32,
         "post_ids": [
             38339,
             29349,
@@ -2545,10 +2549,17 @@
             39617,
             39706,
             17923,
+            66797,
+            66806,
+            66812,
+            66817,
+            66789,
             53397,
             29274,
             37708,
+            66588,
             66184,
+            66609,
             65919,
             11776,
             51865,
@@ -2575,9 +2586,8 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 398,
-        "post_count": 36,
+        "post_count": 37,
         "post_ids": [
-            66322,
             46583,
             20239,
             29318,
@@ -2610,9 +2620,11 @@
             52246,
             52252,
             43385,
+            66615,
             58873,
             35560,
-            55203
+            55203,
+            66322
         ],
         "term_order": 7,
         "hierarchical_id": "1.1.3.7",
@@ -2837,14 +2849,16 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 3391,
-        "post_count": 10,
+        "post_count": 12,
         "post_ids": [
             37171,
+            66913,
             19949,
             10867,
             2943,
             594,
             29581,
+            66877,
             48157,
             40184,
             61402,
@@ -2870,11 +2884,10 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 3391,
-        "post_count": 10,
+        "post_count": 9,
         "post_ids": [
             61899,
             55608,
-            32522,
             6353,
             36831,
             46396,
@@ -3212,9 +3225,10 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 3120,
-        "post_count": 6,
+        "post_count": 7,
         "post_ids": [
             65785,
+            66649,
             41452,
             41419,
             41433,
@@ -3241,9 +3255,11 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 3120,
-        "post_count": 13,
+        "post_count": 15,
         "post_ids": [
+            66958,
             44325,
+            66649,
             23144,
             65620,
             19377,
@@ -3280,11 +3296,13 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 3120,
-        "post_count": 5,
+        "post_count": 7,
         "post_ids": [
             30585,
             2943,
             18989,
+            66664,
+            66701,
             51105,
             55349
         ],
@@ -3386,9 +3404,10 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 3120,
-        "post_count": 2,
+        "post_count": 3,
         "post_ids": [
             32985,
+            66649,
             14152
         ],
         "term_order": 8,
@@ -3498,9 +3517,10 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 3120,
-        "post_count": 4,
+        "post_count": 5,
         "post_ids": [
             28204,
+            66426,
             18134,
             18267,
             18296
@@ -3525,9 +3545,10 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 3120,
-        "post_count": 3,
+        "post_count": 4,
         "post_ids": [
             10313,
+            66649,
             18455,
             65459
         ],
@@ -3685,32 +3706,33 @@
     {
         "name": "Rosh haShanah la-Melakhim",
         "id": 409,
-        "stub": "for-the-calendar-year",
-        "description": "This is an archive of prayers and songs written for, or relevant to, the New Year's Day for Sovereigns (Kings &amp; Queens) -- marking the beginning of the year of many historic secular calendars including the Jewish calendar, and commencing with the first of Nisan. (Rosh haShanah la-Melakhim coincides with Rosh Ḥodesh Nisan.)\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a public reading you have written or selected for Rosh haShanah la-Melakhim.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor the Seder al-Tawhid occurring on the evening of Rosh Ḥodesh Nisan, <a href=\"\/index.php?cat=3515\">go here<\/a>.\r\n\r\nFor prayers composed for Rosh Ḥodesh Nisan, <a href=\"\/index.php?cat=1216\">visit here<\/a>.\r\n\r\nFor prayers composed for Rosh haShanah la-Ilanot (a\/k\/a Tu biShvat), <a href=\"\/index.php?cat=408\">go here<\/a>.\r\n\r\nFor prayers composed for Rosh haShanah (l’Maaseh Bereshit), <a href=\"\/index.php?cat=5090\">go here<\/a>.\r\n\r\nFor prayers composed for Rosh haShanah la'Behemah, <a href=\"\/index.php?cat=410\">go here<\/a>.",
+        "stub": "rosh-hashanah-lamelakhim",
+        "description": "This is an archive of prayers and songs written for, or relevant to, <span class=\"hebrew\">רֹאשׁ הַשָּׁנָה לַמְּלָכִים<\/span> (Rosh haShanah la-Melakhim) -- the New Year's Day for Sovereigns (Kings &amp; Queens) -- marking the beginning of the year of many historic secular calendars including the Jewish calendar, and commencing with the first day of the month of Nisan. (Rosh haShanah la-Melakhim coincides with Rosh Ḥodesh Nisan.)\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a prayer you have written or transcribed and translated for Rosh haShanah la-Melakhim.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor the Seder al-Tawhid occurring on the evening of Rosh Ḥodesh Nisan, <a href=\"\/index.php?cat=3515\">go here<\/a>.\r\n\r\nFor prayers composed for Rosh Ḥodesh Nisan, <a href=\"\/index.php?cat=1216\">visit here<\/a>.\r\n\r\nFor prayers composed for Rosh haShanah la-Ilanot (a\/k\/a Tu biShvat), <a href=\"\/index.php?cat=408\">go here<\/a>.\r\n\r\nFor prayers composed for Rosh haShanah (l’Maaseh Bereshit), <a href=\"\/index.php?cat=5090\">go here<\/a>.\r\n\r\nFor prayers composed for Rosh haShanah la-Behemah, <a href=\"\/index.php?cat=410\">go here<\/a>.",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2018\/12\/mushrooms-1463235883gH3.jpg",
             "title": "mushrooms-1463235883gH3",
             "caption": "\"<a href=\"https:\/\/www.publicdomainpictures.net\/en\/view-image.php?image=168086&picture=mushrooms\">Mushrooms growing in grass<\/a>\" (credit: George Hodan, license: CC0)"
         },
-        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/lunisolar\/days-of-judgement-new-year-days\/for-the-calendar-year\/",
+        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/lunisolar\/days-of-judgement-new-year-days\/rosh-hashanah-lamelakhim\/",
         "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=409",
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 5089,
-        "post_count": 7,
+        "post_count": 6,
         "post_ids": [
             1488,
             23169,
             24426,
             51105,
             55294,
-            10950,
             43942
         ],
         "term_order": 1,
         "hierarchical_id": "1.2.2.1",
         "ancestor_set_id": null,
-        "complementary_cat_id": []
+        "complementary_cat_id": [
+            7034
+        ]
     },
     {
         "name": "Rosh haShanah la-Behemah",
@@ -3720,7 +3742,7 @@
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2025\/09\/ohne-worte--without-words--photo-by-ruben-gralki-canvas-resized.png",
             "title": "Ohne Worte. Without words. (photo by Ruben Gralki) &#8211; canvas resized",
-            "caption": ""
+            "caption": "\"<a href=\"https:\/\/twitter.com\/zooberlin\/status\/930435185069494272\">Ohne Worte<\/a>.\" without words (credit: Ruben Gralki)"
         },
         "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/lunisolar\/days-of-judgement-new-year-days\/rosh-hashanah-labehemah\/",
         "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=410",
@@ -3770,8 +3792,9 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 5089,
-        "post_count": 80,
+        "post_count": 83,
         "post_ids": [
+            66958,
             63517,
             57943,
             63581,
@@ -3807,6 +3830,8 @@
             46405,
             46617,
             46521,
+            66649,
+            66646,
             44775,
             44760,
             65960,
@@ -3876,7 +3901,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 5089,
-        "post_count": 105,
+        "post_count": 107,
         "post_ids": [
             58029,
             47089,
@@ -3918,6 +3943,7 @@
             46976,
             46393,
             46521,
+            66646,
             25489,
             46401,
             47067,
@@ -3925,6 +3951,7 @@
             44760,
             54908,
             66122,
+            66375,
             45266,
             40071,
             48270,
@@ -4032,7 +4059,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 5089,
-        "post_count": 23,
+        "post_count": 24,
         "post_ids": [
             63926,
             58282,
@@ -4043,6 +4070,7 @@
             27561,
             12143,
             46521,
+            66646,
             44760,
             46227,
             26937,
@@ -4054,8 +4082,8 @@
             41534,
             46875,
             52890,
-            64355,
             64319,
+            64355,
             12098
         ],
         "term_order": 6,
@@ -4067,7 +4095,7 @@
         "name": "Rosh haShanah la-Ilanot (Tu biShvat)",
         "id": 408,
         "stub": "rosh-hashanah-lailanot",
-        "description": "This is an archive of prayers, piyyutim, prayer-poems, and other related resources for the Jewish New Year's Day for Trees, Rosh haShanah la-Ilanot, popularly referred to by the day it falls on the Jewish religious calendar, <span class=\"hebrew\">ט״וּ בִּשְׁבָט<\/span> (Tu biShvat), the 15th day of the month of Shəvat. The day is perhaps best known as a demarcation for the tithe of budding first fruits during the Second Temple period, an event that reflects the seasonal agricultural significance of the approach of the Spring in the Northern Hemisphere, the warming of the soil, and the fertility of fruit-bearing trees. The significance of the date was also crucial to the determination of ancient calendars based on astronomical observations. From the display, \"Shabaṭu XV \/ Ṭu Bishvaṭ: Is Venus Visible?\" exhibited at the Bible Lands Museum in Jerusalem:\r\n\r\n<blockquote>\r\nIn the evening of the fifteenth day of the month of Shabatu, the priests went up to the roof of the temple to observe the planet Venus in the western evening sky. They set out their offerings of animal sacrifices and meal cakes on a table, intoned prayers and observed the movements of the heavenly bodies.\r\n\r\nThe Sumerians personified the planet Venus as Ninsianna, the daughter of the moon god. The name means “red lady of heaven,” perhaps referring to the hue of the evening sky over the western horizon. As she appeared in the sky, her worshippers imagined her looking down on mankind and judging the just and unjust; at the new moon, she was believed to hold a divine court to hear mortals’ petitions.\r\n\r\nIn the lunar calendar, the fifteenth day of the month was the day of the full moon — the turning point of the month and an important astronomical date. The fifteenth of Shabatu was the date of decision concerning the addition of an extra Adar — a thirteenth month — to the normal year of twelve months. If Venus was visible this evening, the priests knew that the lunar calendar was synchronized with the progression of the heavenly bodies; if Venus was not visible, the extra month had to be added! in order to realign the lunar year with the solar year. Since the barley harvest was two months away in Nisan, the decision was of crucial importance to the agricultural cycle. We are thus able to explain why all observations of Venus begin on the fifteenth of Shabatu.\r\n<\/blockquote>\r\n\r\nA note on the romanization of the Hebrew for <span class=\"hebrew\">ט״וּ בִּשְׁבָט<\/span>. In Hebrew grammar, a word cannot start with two shəvas in a row. When the prefix <span class=\"hebrew\">בְּ-<\/span> is added to a word that already starts with a shəva (as with the month of Shəvat), the shəva in the <span class=\"hebrew\">בּ-<\/span> prefix becomes a ḥiriq. So it's always <span class=\"hebrew\">בִּשְׁבָט<\/span> (Bishvat), and never <span class=\"hebrew\">בְּשְׁבָט<\/span> (B'Shvat or B'Shevat). (This, derived from a concise explanation offered by Ben Dreyfus.)\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a prayer you have written, or a transcription and\/or translation of a historic Tu biShvat prayer or song in any language.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers composed for Yom haNetiōt (Planting Day) in the State of Israel, <a href=\"\/index.php?cat=4686\">go here<\/a>.\r\n\r\nFor prayers composed for Arbor Day in the United States, <a href=\"\/index.php?cat=3791\">go here<\/a>.\r\n\r\nFor prayers composed for the praxis of planting vegetation anytime, <a href=\"\/index.php?cat=1371\">go here<\/a>.\r\n\r\nFor prayers composed for Rosh haShanah la'Behemah, <a href=\"\/index.php?cat=410\">go here<\/a>.\r\n\r\nFor prayers composed for Rosh haShanah l’Maaseh Bereshit (a\/k\/a Rosh Hashanah), <a href=\"\/index.php?cat=5090\">go here<\/a>.\r\n\r\nFor prayers composed for Rosh haShanah la-Melakhim, <a href=\"\/index.php?cat=409\">go here<\/a>.",
+        "description": "This is an archive of prayers, piyyutim, prayer-poems, and other related resources for <span class=\"hebrew\">רֹאשׁ הַשָּׁנָה לָאִילָנוֹת<\/span> (Rosh haShanah la-Ilanot) -- the New Year's Day for Trees -- popularly referred to by the day it falls on the Jewish religious calendar, <span class=\"hebrew\">ט״וּ בִּשְׁבָט<\/span> (Tu biShvat), the 15th day of the month of Shəvat. The day is perhaps best known as a demarcation for the tithe of budding first fruits during the Second Temple period, an event that reflects the seasonal agricultural significance of the approach of the Spring in the Northern Hemisphere, the warming of the soil, and the fertility of fruit-bearing trees. The significance of the date was also crucial to the determination of ancient calendars based on astronomical observations. From the display, \"Shabaṭu XV \/ Ṭu Bishvaṭ: Is Venus Visible?\" exhibited at the Bible Lands Museum in Jerusalem:\r\n\r\n<blockquote>\r\nIn the evening of the fifteenth day of the month of Shabatu, the priests went up to the roof of the temple to observe the planet Venus in the western evening sky. They set out their offerings of animal sacrifices and meal cakes on a table, intoned prayers and observed the movements of the heavenly bodies.\r\n\r\nThe Sumerians personified the planet Venus as Ninsianna, the daughter of the moon god. The name means “red lady of heaven,” perhaps referring to the hue of the evening sky over the western horizon. As she appeared in the sky, her worshippers imagined her looking down on mankind and judging the just and unjust; at the new moon, she was believed to hold a divine court to hear mortals’ petitions.\r\n\r\nIn the lunar calendar, the fifteenth day of the month was the day of the full moon — the turning point of the month and an important astronomical date. The fifteenth of Shabatu was the date of decision concerning the addition of an extra Adar — a thirteenth month — to the normal year of twelve months. If Venus was visible this evening, the priests knew that the lunar calendar was synchronized with the progression of the heavenly bodies; if Venus was not visible, the extra month had to be added! in order to realign the lunar year with the solar year. Since the barley harvest was two months away in Nisan, the decision was of crucial importance to the agricultural cycle. We are thus able to explain why all observations of Venus begin on the fifteenth of Shabatu.\r\n<\/blockquote>\r\n\r\nA note on the romanization of the Hebrew for <span class=\"hebrew\">ט״וּ בִּשְׁבָט<\/span>. In Hebrew grammar, a word cannot start with two shəvas in a row. When the prefix <span class=\"hebrew\">בְּ-<\/span> is added to a word that already starts with a shəva (as with the month of Shəvat), the shəva in the <span class=\"hebrew\">בּ-<\/span> prefix becomes a ḥiriq. So it's always <span class=\"hebrew\">בִּשְׁבָט<\/span> (Bishvat), and never <span class=\"hebrew\">בְּשְׁבָט<\/span> (B'Shvat or B'Shevat). (This, derived from a concise explanation offered by Ben Dreyfus.)\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a prayer you have written, or a transcription and\/or translation of a historic Tu biShvat prayer or song in any language.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers composed for Yom haNetiōt (Planting Day) in the State of Israel, <a href=\"\/index.php?cat=4686\">go here<\/a>.\r\n\r\nFor prayers composed for Arbor Day in the United States, <a href=\"\/index.php?cat=3791\">go here<\/a>.\r\n\r\nFor prayers composed for the praxis of planting vegetation anytime, <a href=\"\/index.php?cat=1371\">go here<\/a>.\r\n\r\nFor prayers composed for Rosh haShanah la'Behemah, <a href=\"\/index.php?cat=410\">go here<\/a>.\r\n\r\nFor prayers composed for Rosh haShanah l’Maaseh Bereshit (a\/k\/a Rosh Hashanah), <a href=\"\/index.php?cat=5090\">go here<\/a>.\r\n\r\nFor prayers composed for Rosh haShanah la-Melakhim, <a href=\"\/index.php?cat=409\">go here<\/a>.",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2023\/01\/tu-bishvat-yossi-rosenstein.png",
             "title": "tu-bishvat-yossi-rosenstein",
@@ -4169,19 +4197,24 @@
         "name": "Shabbat haGadol",
         "id": 6373,
         "stub": "shabbat-hagadol",
-        "description": "",
+        "description": "This is an archive of prayers and related resources offered for Shabbat haGadol, the shabbat preceding the festival of Pesaḥ in the month of Nissan. \r\n\r\n<hr \/>",
         "featured_image": {
-            "url": "",
-            "title": "",
-            "caption": ""
+            "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2026\/03\/flickr-don-macauley-ploughmans-spikenard.jpg",
+            "title": "Flickr_-_don_macauley_-_Ploughman&#8217;s_Spikenard",
+            "caption": "<a href=\"https:\/\/en.wikipedia.org\/wiki\/File:Flickr_-_don_macauley_-_Ploughman%27s_Spikenard.jpg\">Inula conyzae, Ploughman's Spikenard<\/a> (credit: Donald Macauley, license: CC BY-SA)"
         },
         "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/lunisolar\/pilgrimage\/pesah\/shabbat-hagadol\/",
         "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=6373",
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 404,
-        "post_count": 1,
+        "post_count": 6,
         "post_ids": [
+            66797,
+            66806,
+            66812,
+            66817,
+            66789,
             55265
         ],
         "term_order": 1,
@@ -4204,12 +4237,15 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 404,
-        "post_count": 5,
+        "post_count": 8,
         "post_ids": [
+            66767,
             24501,
             6335,
             4265,
             20096,
+            66531,
+            66498,
             34083
         ],
         "term_order": 2,
@@ -4265,13 +4301,14 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 2497,
-        "post_count": 5,
+        "post_count": 6,
         "post_ids": [
             37439,
             30866,
             65687,
             62238,
-            61058
+            61058,
+            66900
         ],
         "term_order": 1,
         "hierarchical_id": "1.2.3.1.3.1",
@@ -4319,8 +4356,9 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 2497,
-        "post_count": 1,
+        "post_count": 2,
         "post_ids": [
+            66541,
             55334
         ],
         "term_order": 3,
@@ -4343,8 +4381,9 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 2497,
-        "post_count": 27,
+        "post_count": 30,
         "post_ids": [
+            66886,
             60366,
             55315,
             55309,
@@ -4360,6 +4399,7 @@
             24501,
             8785,
             3089,
+            66541,
             36222,
             61806,
             36300,
@@ -4370,6 +4410,7 @@
             36238,
             36483,
             36451,
+            66891,
             49286,
             34083
         ],
@@ -4497,7 +4538,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 2497,
-        "post_count": 60,
+        "post_count": 65,
         "post_ids": [
             24656,
             6353,
@@ -4507,25 +4548,28 @@
             44602,
             37153,
             44661,
-            36267,
+            66858,
             24773,
-            54141,
             43684,
             64514,
+            54141,
             43870,
             24974,
             43004,
+            66580,
             36382,
             24948,
-            55098,
-            43998,
-            61272,
-            43875,
-            45885,
             43750,
+            45885,
+            43998,
+            43875,
+            43678,
+            55098,
+            66849,
+            66563,
+            61272,
             54045,
             62205,
-            43678,
             61177,
             61215,
             47033,
@@ -4557,6 +4601,8 @@
             36389,
             24791,
             36398,
+            36267,
+            66553,
             36369,
             36408
         ],
@@ -4813,7 +4859,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 395,
-        "post_count": 40,
+        "post_count": 43,
         "post_ids": [
             58282,
             58419,
@@ -4830,6 +4876,8 @@
             21822,
             4054,
             20096,
+            66407,
+            66384,
             45262,
             49954,
             51659,
@@ -4849,10 +4897,11 @@
             43296,
             43291,
             26201,
-            64319,
-            64405,
-            64384,
             63877,
+            64319,
+            64384,
+            64405,
+            66395,
             12098,
             4957
         ],
@@ -4879,7 +4928,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 395,
-        "post_count": 21,
+        "post_count": 22,
         "post_ids": [
             52874,
             33896,
@@ -4887,6 +4936,7 @@
             12438,
             52591,
             29552,
+            66415,
             48207,
             65295,
             45281,
@@ -4926,10 +4976,11 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 395,
-        "post_count": 16,
+        "post_count": 17,
         "post_ids": [
             63911,
             63396,
+            66415,
             29744,
             21914,
             40997,
@@ -5149,7 +5200,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 793,
-        "post_count": 80,
+        "post_count": 83,
         "post_ids": [
             59427,
             59374,
@@ -5177,10 +5228,13 @@
             18257,
             46388,
             54805,
+            66445,
+            66455,
             12347,
             51689,
             41033,
             41217,
+            66452,
             41110,
             41204,
             64990,
@@ -5304,16 +5358,16 @@
         "stub": "purim",
         "description": "This is an archive of prayers and song written for the festival of Purim. \r\n\r\nPurim is named after the word <em>pur<\/em> in Megillat Esther, the method of divination by lot used to determine the proper date for the Jews under the dominion of the Persian empire (circa 5th century BCE) to be murdered en masse (<span class=\"citation\">Esther 3:7<\/span>). The lot is cast on the 13th of Nisan for the 13th of Adar and the decree to destroy the Jews is relayed posthaste (<span class=\"citation\">Esther 3:12<\/span>). (Significantly, the 13th of Nisan is the eve of Pesaḥ when, according to Leviticus 23:5-6, the slaughter and consumption of the paschal lamb is indicated -- a very auspicious date indeed.) Hijinx ensue.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a prayer you have written, translated, or transcribed for Purim.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor public readings selected for Purim Qatan (for Adar Alef on leap years), <a href=\"\/index.php?cat=5506\">go here<\/a>.\r\n\r\nFor prayers and songs composed for Purim Qatan, <a href=\"\/index.php?cat=3414\">visit here<\/a>.\r\n\r\nFor prayers composed for Taanit Esther, <a href=\"\/index.php?cat=2483\">go here<\/a>.\r\n\r\nFor public readings selected for Taanit Esther, <a href=\"\/index.php?cat=3478\">go here<\/a>.\r\n\r\nFor prayers composed for Purim Sheni (local\/family rescue celebration) commemorations, <a href=\"\/index.php?cat=6840\">visit here<\/a>.\r\n\r\nFor public readings selected for a Purim Sheni, <a href=\"\/index.php?cat=3397\">visit here<\/a>.",
         "featured_image": {
-            "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2019\/05\/szyk-and-haman-1950.png",
-            "title": "szyk-and-haman-1950",
-            "caption": "Szyk and Haman (1950)"
+            "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2014\/01\/864px-Die_Elster_auf_dem_Galgen.jpg",
+            "title": "864px-Die_Elster_auf_dem_Galgen",
+            "caption": "The Magpie on the Gallows (1568) by Pieter Brueghel the Elder"
         },
         "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/lunisolar\/commemorative-days\/purim\/",
         "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=212",
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 793,
-        "post_count": 39,
+        "post_count": 40,
         "post_ids": [
             66314,
             60305,
@@ -5323,6 +5377,7 @@
             19992,
             24213,
             54761,
+            66483,
             51696,
             45592,
             15453,
@@ -5694,8 +5749,8 @@
             43253,
             48922,
             48935,
-            48953,
             48930,
+            48953,
             23681
         ],
         "term_order": 8,
@@ -6069,7 +6124,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 3036,
-        "post_count": 15,
+        "post_count": 16,
         "post_ids": [
             21205,
             14344,
@@ -6082,6 +6137,7 @@
             23691,
             52794,
             54841,
+            66877,
             55145,
             61621,
             45323,
@@ -6182,9 +6238,10 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 3036,
-        "post_count": 1,
+        "post_count": 2,
         "post_ids": [
-            52551
+            52551,
+            66640
         ],
         "term_order": 11,
         "hierarchical_id": "1.3.1.11",
@@ -6899,11 +6956,13 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 3037,
-        "post_count": 5,
+        "post_count": 7,
         "post_ids": [
             43605,
             27956,
             55383,
+            48167,
+            53418,
             65108,
             65103
         ],
@@ -6978,7 +7037,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 3037,
-        "post_count": 21,
+        "post_count": 22,
         "post_ids": [
             39819,
             13457,
@@ -6991,6 +7050,7 @@
             55518,
             24841,
             55250,
+            66640,
             49338,
             51296,
             18257,
@@ -7338,8 +7398,9 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 3037,
-        "post_count": 35,
+        "post_count": 36,
         "post_ids": [
+            66944,
             59885,
             37439,
             6661,
@@ -7482,7 +7543,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 3052,
-        "post_count": 22,
+        "post_count": 23,
         "post_ids": [
             39819,
             19662,
@@ -7496,6 +7557,7 @@
             55699,
             55250,
             55551,
+            66640,
             49338,
             51296,
             18257,
@@ -7983,7 +8045,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 1095,
-        "post_count": 33,
+        "post_count": 34,
         "post_ids": [
             63323,
             42063,
@@ -7997,6 +8059,7 @@
             26397,
             26392,
             6817,
+            66918,
             38452,
             51637,
             38770,
@@ -8193,8 +8256,9 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 2632,
-        "post_count": 37,
+        "post_count": 39,
         "post_ids": [
+            66952,
             63200,
             44996,
             10753,
@@ -8203,6 +8267,7 @@
             21695,
             51496,
             44753,
+            66498,
             45231,
             57591,
             51654,
@@ -8296,12 +8361,13 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 2632,
-        "post_count": 4,
+        "post_count": 5,
         "post_ids": [
             54220,
             54226,
             26483,
-            54231
+            54231,
+            66498
         ],
         "term_order": 4,
         "hierarchical_id": "1.6.1.4",
@@ -8396,8 +8462,9 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 2633,
-        "post_count": 50,
+        "post_count": 51,
         "post_ids": [
+            66935,
             60204,
             59908,
             33414,
@@ -8469,7 +8536,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 2633,
-        "post_count": 49,
+        "post_count": 51,
         "post_ids": [
             65492,
             59908,
@@ -8488,6 +8555,7 @@
             29596,
             27152,
             29603,
+            66829,
             23529,
             44921,
             20721,
@@ -8495,6 +8563,7 @@
             23691,
             52794,
             65402,
+            66877,
             48488,
             18767,
             65108,
@@ -8541,7 +8610,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 2633,
-        "post_count": 42,
+        "post_count": 44,
         "post_ids": [
             60204,
             58585,
@@ -8561,6 +8630,8 @@
             43456,
             43431,
             43451,
+            66762,
+            66756,
             32323,
             36949,
             48494,
@@ -8636,8 +8707,9 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 2633,
-        "post_count": 19,
+        "post_count": 20,
         "post_ids": [
+            66940,
             63103,
             58744,
             48791,
@@ -8779,7 +8851,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 2633,
-        "post_count": 118,
+        "post_count": 120,
         "post_ids": [
             65492,
             63536,
@@ -8796,12 +8868,14 @@
             51323,
             48826,
             55984,
+            66767,
             42251,
             41730,
             41747,
             41759,
             41753,
             42098,
+            46964,
             42111,
             45339,
             40560,
@@ -9069,12 +9143,13 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 2634,
-        "post_count": 19,
+        "post_count": 20,
         "post_ids": [
             30926,
             26407,
             52834,
             50207,
+            66877,
             30664,
             66196,
             45323,
@@ -9332,7 +9407,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 524,
-        "post_count": 42,
+        "post_count": 43,
         "post_ids": [
             59890,
             59885,
@@ -9351,6 +9426,7 @@
             46487,
             46409,
             45687,
+            66640,
             32327,
             49937,
             44035,
@@ -9817,8 +9893,11 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 776,
-        "post_count": 47,
+        "post_count": 50,
         "post_ids": [
+            66737,
+            66598,
+            66332,
             60165,
             59427,
             59384,
@@ -11474,7 +11553,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 778,
-        "post_count": 13,
+        "post_count": 14,
         "post_ids": [
             36865,
             33691,
@@ -11488,7 +11567,8 @@
             29586,
             61544,
             64938,
-            54745
+            54745,
+            66518
         ],
         "term_order": 8,
         "hierarchical_id": "1.7.4.8",
@@ -11510,8 +11590,9 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 778,
-        "post_count": 6,
+        "post_count": 7,
         "post_ids": [
+            66737,
             32749,
             34817,
             43072,
@@ -11763,8 +11844,10 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 778,
-        "post_count": 98,
+        "post_count": 100,
         "post_ids": [
+            66598,
+            66332,
             63941,
             63701,
             63672,
@@ -11884,7 +11967,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 524,
-        "post_count": 49,
+        "post_count": 51,
         "post_ids": [
             66314,
             63296,
@@ -11923,6 +12006,8 @@
             65303,
             64938,
             31922,
+            66504,
+            66512,
             66063,
             66046,
             57306,
@@ -12191,7 +12276,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 100,
-        "post_count": 14,
+        "post_count": 15,
         "post_ids": [
             2856,
             4140,
@@ -12202,6 +12287,7 @@
             46575,
             46414,
             50125,
+            66492,
             28058,
             5789,
             16095,
@@ -12349,7 +12435,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 100,
-        "post_count": 16,
+        "post_count": 20,
         "post_ids": [
             45513,
             45905,
@@ -12362,6 +12448,10 @@
             4146,
             50119,
             50125,
+            66463,
+            66471,
+            66466,
+            66518,
             65645,
             65620,
             39996,
@@ -12502,7 +12592,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 100,
-        "post_count": 14,
+        "post_count": 15,
         "post_ids": [
             43415,
             38483,
@@ -12517,6 +12607,7 @@
             43108,
             60729,
             9508,
+            66676,
             17284
         ],
         "term_order": 18,
@@ -14333,10 +14424,11 @@
         },
         "permalink": "https:\/\/opensiddur.org\/shared\/readings-and-sourcetexts\/readings\/jewish-readings\/",
         "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=4036",
-        "subcategory_count": 26,
+        "subcategory_count": 27,
         "subcategories": [
             3520,
             4313,
+            7034,
             3024,
             4880,
             3122,
@@ -14432,6 +14524,32 @@
         ]
     },
     {
+        "name": "Rosh haShanah la-Melakhim Readings",
+        "id": 7034,
+        "stub": "rosh-hashanah-lamelakhim-readings",
+        "description": "This is an archive of special readings written for, or relevant to, the New Year's Day for Sovereigns (Kings &amp; Queens) -- marking the beginning of the year of many historic secular calendars including the Jewish calendar, and commencing with the first of Nisan. (Rosh haShanah la-Melakhim coincides with Rosh Ḥodesh Nisan.)\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a public reading you have written or selected for Rosh haShanah la-Melakhim.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor the Seder al-Tawhid occurring on the evening of Rosh Ḥodesh Nisan, <a href=\"\/index.php?cat=3515\">go here<\/a>.\r\n\r\nFor prayers composed for Rosh Ḥodesh Nisan, <a href=\"\/index.php?cat=1216\">visit here<\/a>.",
+        "featured_image": {
+            "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2018\/12\/mushrooms-1463235883gH3.jpg",
+            "title": "mushrooms-1463235883gH3",
+            "caption": "\"<a href=\"https:\/\/www.publicdomainpictures.net\/en\/view-image.php?image=168086&picture=mushrooms\">Mushrooms growing in grass<\/a>\" (credit: George Hodan, license: CC0)"
+        },
+        "permalink": "https:\/\/opensiddur.org\/shared\/readings-and-sourcetexts\/readings\/jewish-readings\/rosh-hashanah-lamelakhim-readings\/",
+        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=7034",
+        "subcategory_count": 0,
+        "subcategories": [],
+        "parent_id": 4036,
+        "post_count": 1,
+        "post_ids": [
+            10950
+        ],
+        "term_order": 3,
+        "hierarchical_id": "2.2.1.3",
+        "ancestor_set_id": null,
+        "complementary_cat_id": [
+            409
+        ]
+    },
+    {
         "name": "Pesaḥ Readings",
         "id": 3024,
         "stub": "hag-haaviv-readings",
@@ -14459,8 +14577,8 @@
             31007,
             31004
         ],
-        "term_order": 3,
-        "hierarchical_id": "2.2.1.3",
+        "term_order": 4,
+        "hierarchical_id": "2.2.1.4",
         "ancestor_set_id": null,
         "complementary_cat_id": [
             3725,
@@ -14482,9 +14600,10 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 4036,
-        "post_count": 7,
+        "post_count": 8,
         "post_ids": [
             44362,
+            32522,
             23598,
             32539,
             32541,
@@ -14492,8 +14611,8 @@
             32553,
             32543
         ],
-        "term_order": 4,
-        "hierarchical_id": "2.2.1.4",
+        "term_order": 5,
+        "hierarchical_id": "2.2.1.5",
         "ancestor_set_id": null,
         "complementary_cat_id": [
             1237
@@ -14520,8 +14639,8 @@
             3270,
             9567
         ],
-        "term_order": 5,
-        "hierarchical_id": "2.2.1.5",
+        "term_order": 6,
+        "hierarchical_id": "2.2.1.6",
         "ancestor_set_id": null,
         "complementary_cat_id": [
             3620
@@ -14546,8 +14665,8 @@
         "post_ids": [
             32785
         ],
-        "term_order": 6,
-        "hierarchical_id": "2.2.1.6",
+        "term_order": 7,
+        "hierarchical_id": "2.2.1.7",
         "ancestor_set_id": null,
         "complementary_cat_id": []
     },
@@ -14583,8 +14702,8 @@
             31537,
             31533
         ],
-        "term_order": 7,
-        "hierarchical_id": "2.2.1.7",
+        "term_order": 8,
+        "hierarchical_id": "2.2.1.8",
         "ancestor_set_id": null,
         "complementary_cat_id": [
             400,
@@ -14620,8 +14739,8 @@
             20739,
             33032
         ],
-        "term_order": 8,
-        "hierarchical_id": "2.2.1.8",
+        "term_order": 9,
+        "hierarchical_id": "2.2.1.9",
         "ancestor_set_id": null,
         "complementary_cat_id": [
             413
@@ -14652,8 +14771,8 @@
             64802,
             10950
         ],
-        "term_order": 9,
-        "hierarchical_id": "2.2.1.9",
+        "term_order": 10,
+        "hierarchical_id": "2.2.1.10",
         "ancestor_set_id": null,
         "complementary_cat_id": [
             410
@@ -14682,8 +14801,8 @@
             21274,
             27396
         ],
-        "term_order": 10,
-        "hierarchical_id": "2.2.1.10",
+        "term_order": 11,
+        "hierarchical_id": "2.2.1.11",
         "ancestor_set_id": null,
         "complementary_cat_id": [
             5090,
@@ -14709,8 +14828,8 @@
         "post_ids": [
             21677
         ],
-        "term_order": 11,
-        "hierarchical_id": "2.2.1.11",
+        "term_order": 12,
+        "hierarchical_id": "2.2.1.12",
         "ancestor_set_id": null,
         "complementary_cat_id": [
             2273
@@ -14743,8 +14862,8 @@
             21440,
             21425
         ],
-        "term_order": 12,
-        "hierarchical_id": "2.2.1.12",
+        "term_order": 13,
+        "hierarchical_id": "2.2.1.13",
         "ancestor_set_id": null,
         "complementary_cat_id": [
             406,
@@ -14775,8 +14894,8 @@
             27553,
             30421
         ],
-        "term_order": 13,
-        "hierarchical_id": "2.2.1.13",
+        "term_order": 14,
+        "hierarchical_id": "2.2.1.14",
         "ancestor_set_id": null,
         "complementary_cat_id": [
             399,
@@ -14804,8 +14923,8 @@
             27628,
             39150
         ],
-        "term_order": 14,
-        "hierarchical_id": "2.2.1.14",
+        "term_order": 15,
+        "hierarchical_id": "2.2.1.15",
         "ancestor_set_id": null,
         "complementary_cat_id": [
             1359,
@@ -14835,8 +14954,8 @@
             27388,
             27650
         ],
-        "term_order": 15,
-        "hierarchical_id": "2.2.1.15",
+        "term_order": 16,
+        "hierarchical_id": "2.2.1.16",
         "ancestor_set_id": null,
         "complementary_cat_id": [
             6787
@@ -14864,8 +14983,8 @@
             28118,
             28109
         ],
-        "term_order": 16,
-        "hierarchical_id": "2.2.1.16",
+        "term_order": 17,
+        "hierarchical_id": "2.2.1.17",
         "ancestor_set_id": null,
         "complementary_cat_id": [
             420
@@ -14906,8 +15025,8 @@
             22772,
             22776
         ],
-        "term_order": 17,
-        "hierarchical_id": "2.2.1.17",
+        "term_order": 18,
+        "hierarchical_id": "2.2.1.18",
         "ancestor_set_id": null,
         "complementary_cat_id": [
             183
@@ -14937,8 +15056,8 @@
             12327,
             34599
         ],
-        "term_order": 18,
-        "hierarchical_id": "2.2.1.18",
+        "term_order": 19,
+        "hierarchical_id": "2.2.1.19",
         "ancestor_set_id": null,
         "complementary_cat_id": []
     },
@@ -14962,8 +15081,8 @@
             10272,
             53672
         ],
-        "term_order": 19,
-        "hierarchical_id": "2.2.1.19",
+        "term_order": 20,
+        "hierarchical_id": "2.2.1.20",
         "ancestor_set_id": null,
         "complementary_cat_id": [
             691
@@ -14989,8 +15108,8 @@
             35186,
             10950
         ],
-        "term_order": 20,
-        "hierarchical_id": "2.2.1.20",
+        "term_order": 21,
+        "hierarchical_id": "2.2.1.21",
         "ancestor_set_id": null,
         "complementary_cat_id": [
             408,
@@ -15016,8 +15135,8 @@
         "post_ids": [
             28303
         ],
-        "term_order": 21,
-        "hierarchical_id": "2.2.1.21",
+        "term_order": 22,
+        "hierarchical_id": "2.2.1.22",
         "ancestor_set_id": null,
         "complementary_cat_id": [
             1436
@@ -15042,8 +15161,8 @@
         "post_ids": [
             13102
         ],
-        "term_order": 22,
-        "hierarchical_id": "2.2.1.22",
+        "term_order": 23,
+        "hierarchical_id": "2.2.1.23",
         "ancestor_set_id": null,
         "complementary_cat_id": []
     },
@@ -15066,8 +15185,8 @@
         "post_ids": [
             24197
         ],
-        "term_order": 23,
-        "hierarchical_id": "2.2.1.23",
+        "term_order": 24,
+        "hierarchical_id": "2.2.1.24",
         "ancestor_set_id": null,
         "complementary_cat_id": [
             2483
@@ -15092,8 +15211,8 @@
         "post_ids": [
             42592
         ],
-        "term_order": 24,
-        "hierarchical_id": "2.2.1.24",
+        "term_order": 25,
+        "hierarchical_id": "2.2.1.25",
         "ancestor_set_id": null,
         "complementary_cat_id": [
             3414
@@ -15126,8 +15245,8 @@
             2710,
             23716
         ],
-        "term_order": 25,
-        "hierarchical_id": "2.2.1.25",
+        "term_order": 26,
+        "hierarchical_id": "2.2.1.26",
         "ancestor_set_id": null,
         "complementary_cat_id": [
             212
@@ -15160,8 +15279,8 @@
             57706,
             30574
         ],
-        "term_order": 26,
-        "hierarchical_id": "2.2.1.26",
+        "term_order": 27,
+        "hierarchical_id": "2.2.1.27",
         "ancestor_set_id": null,
         "complementary_cat_id": [
             6840
@@ -16855,7 +16974,7 @@
             3015
         ],
         "parent_id": 2968,
-        "post_count": 13,
+        "post_count": 14,
         "post_ids": [
             58165,
             58155,
@@ -16868,6 +16987,7 @@
             51051,
             2657,
             58008,
+            66622,
             57995,
             55401
         ],
@@ -17816,7 +17936,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 230,
-        "post_count": 16,
+        "post_count": 18,
         "post_ids": [
             58165,
             58155,
@@ -17831,6 +17951,8 @@
             51051,
             58008,
             62222,
+            66622,
+            66630,
             61744,
             61737,
             57995
@@ -18034,7 +18156,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 3894,
-        "post_count": 43,
+        "post_count": 44,
         "post_ids": [
             62167,
             45767,
@@ -18053,6 +18175,7 @@
             8760,
             29177,
             12061,
+            66780,
             63237,
             11764,
             1355,
@@ -18831,9 +18954,10 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 238,
-        "post_count": 25,
+        "post_count": 26,
         "post_ids": [
             61266,
+            66833,
             24582,
             24587,
             19204,
@@ -19137,7 +19261,7 @@
         "name": "Hymn-Books &amp; Religious poetry",
         "id": 3863,
         "stub": "hymn-books",
-        "description": "",
+        "description": "This is a collection of anthologies of hymns in the vernacular intended for public singing in the Synagogue by congregants or choirs. The hymns in these collections include original works by Jewish poets, rhymed verse adapted from earlier piyyutim, and Jewish adaptations and abridgements of hymns originally written for non-Jewish use. While the custom of hymn singing has waned in Jewish contexts, the genre of Jewish hymn books was largely replaced with songbooks or \"songsters\" used in informal contexts, or increasingly included as table-songs within birkonim (<em>bentshers<\/em>).\r\n\r\n<hr \/>",
         "featured_image": {
             "url": "",
             "title": "",
@@ -19177,7 +19301,7 @@
         "name": "Interfaith &amp; Ecumenical collections of prayers",
         "id": 3079,
         "stub": "interfaith-prayer",
-        "description": "",
+        "description": "This is a collection of anthologies of prayers that include both Jewish prayers and non-Jewish prayers, either intended for use within private worship or ecumenical services with pan-religious audiences, or to introduce to Jewish audiences prayer literature from adjacent religious communities that share universal themes. \r\n\r\n<hr \/>",
         "featured_image": {
             "url": "",
             "title": "",
@@ -19204,7 +19328,7 @@
         "name": "Memorial, Funeral, and Cemetery Prayer Guides",
         "id": 5866,
         "stub": "funeral-and-cemetery-guides",
-        "description": "",
+        "description": "This is a collection of prayer anthologies mainly, but not always exclusively, dedicated for use in private mourning, often while visiting a close relative or friend at the cemetery. \r\n\r\n<hr \/>",
         "featured_image": {
             "url": "",
             "title": "",
@@ -19236,7 +19360,7 @@
         "name": "Personal &amp; Paraliturgical collections of prayers",
         "id": 4433,
         "stub": "personal-and-paraliturgical",
-        "description": "",
+        "description": "This is a collection of seder teḥinot -- arrangements of vernacular supplicatory and paraliturgical prayers intended for private devotional use outside and supplementary to prayers offered publicly in the synagogue. \r\n\r\n<hr \/>",
         "featured_image": {
             "url": "",
             "title": "",
@@ -19309,7 +19433,7 @@
         "name": "Pulpit &amp; Ceremonial collections of prayers",
         "id": 640,
         "stub": "public-and-ceremonial",
-        "description": "",
+        "description": "This is a collection of anthologies of prayers composed by rabbis and offered inside and outside of the synagogue, often in the context of written or spoken sermons.\r\n\r\n<hr \/>",
         "featured_image": {
             "url": "",
             "title": "",
