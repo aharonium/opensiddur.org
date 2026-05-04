@@ -102,11 +102,10 @@
         },
         "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/daytime\/",
         "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=387",
-        "subcategory_count": 14,
+        "subcategory_count": 13,
         "subcategories": [
             1630,
             4268,
-            4342,
             6683,
             3034,
             6704,
@@ -172,11 +171,12 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 1630,
-        "post_count": 5,
+        "post_count": 6,
         "post_ids": [
             4211,
             4220,
             50341,
+            67397,
             5924,
             29385
         ],
@@ -480,6 +480,9 @@
             29727,
             37740,
             39125,
+            37697,
+            39123,
+            41965,
             37686,
             51825,
             29287,
@@ -509,45 +512,13 @@
             52246,
             52252,
             41951,
-            39123,
-            41965,
             30676,
-            37697,
             41970,
             41975,
             10950
         ],
         "term_order": 2,
         "hierarchical_id": "1.1.1.1.2",
-        "ancestor_set_id": null,
-        "complementary_cat_id": []
-    },
-    {
-        "name": "Birkhot haTorah",
-        "id": 4342,
-        "stub": "birkhot-hatorah",
-        "description": "",
-        "featured_image": {
-            "url": "",
-            "title": "",
-            "caption": ""
-        },
-        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/daytime\/birkhot-hatorah\/",
-        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=4342",
-        "subcategory_count": 0,
-        "subcategories": [],
-        "parent_id": 387,
-        "post_count": 6,
-        "post_ids": [
-            31384,
-            3393,
-            50993,
-            57553,
-            66676,
-            17284
-        ],
-        "term_order": 3,
-        "hierarchical_id": "1.1.1.1.3",
         "ancestor_set_id": null,
         "complementary_cat_id": []
     },
@@ -563,8 +534,9 @@
         },
         "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/daytime\/qorbanot\/",
         "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=6683",
-        "subcategory_count": 5,
+        "subcategory_count": 6,
         "subcategories": [
+            4342,
             6708,
             6709,
             6710,
@@ -579,8 +551,36 @@
             16541,
             58895
         ],
-        "term_order": 4,
-        "hierarchical_id": "1.1.1.1.4",
+        "term_order": 3,
+        "hierarchical_id": "1.1.1.1.3",
+        "ancestor_set_id": null,
+        "complementary_cat_id": []
+    },
+    {
+        "name": "Birkhot haTorah",
+        "id": 4342,
+        "stub": "birkhot-hatorah",
+        "description": "",
+        "featured_image": {
+            "url": "",
+            "title": "",
+            "caption": ""
+        },
+        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/solilunar\/everyday\/daytime\/qorbanot\/birkhot-hatorah\/",
+        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=4342",
+        "subcategory_count": 0,
+        "subcategories": [],
+        "parent_id": 6683,
+        "post_count": 5,
+        "post_ids": [
+            31384,
+            50993,
+            57553,
+            66676,
+            17284
+        ],
+        "term_order": 1,
+        "hierarchical_id": "1.1.1.1.3.1",
         "ancestor_set_id": null,
         "complementary_cat_id": []
     },
@@ -606,8 +606,8 @@
             59041,
             59022
         ],
-        "term_order": 1,
-        "hierarchical_id": "1.1.1.1.4.1",
+        "term_order": 2,
+        "hierarchical_id": "1.1.1.1.3.2",
         "ancestor_set_id": null,
         "complementary_cat_id": []
     },
@@ -632,8 +632,8 @@
             32707,
             16541
         ],
-        "term_order": 2,
-        "hierarchical_id": "1.1.1.1.4.2",
+        "term_order": 3,
+        "hierarchical_id": "1.1.1.1.3.3",
         "ancestor_set_id": null,
         "complementary_cat_id": []
     },
@@ -658,8 +658,8 @@
             66676,
             58895
         ],
-        "term_order": 3,
-        "hierarchical_id": "1.1.1.1.4.3",
+        "term_order": 4,
+        "hierarchical_id": "1.1.1.1.3.4",
         "ancestor_set_id": null,
         "complementary_cat_id": []
     },
@@ -683,8 +683,8 @@
             66676,
             32573
         ],
-        "term_order": 4,
-        "hierarchical_id": "1.1.1.1.4.4",
+        "term_order": 5,
+        "hierarchical_id": "1.1.1.1.3.5",
         "ancestor_set_id": null,
         "complementary_cat_id": []
     },
@@ -703,15 +703,18 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 6683,
-        "post_count": 4,
+        "post_count": 7,
         "post_ids": [
             65374,
             12374,
+            3393,
             53418,
+            67069,
+            67060,
             18441
         ],
-        "term_order": 5,
-        "hierarchical_id": "1.1.1.1.4.5",
+        "term_order": 6,
+        "hierarchical_id": "1.1.1.1.3.6",
         "ancestor_set_id": null,
         "complementary_cat_id": []
     },
@@ -738,8 +741,8 @@
         "parent_id": 387,
         "post_count": 0,
         "post_ids": [],
-        "term_order": 5,
-        "hierarchical_id": "1.1.1.1.5",
+        "term_order": 4,
+        "hierarchical_id": "1.1.1.1.4",
         "ancestor_set_id": null,
         "complementary_cat_id": []
     },
@@ -764,7 +767,7 @@
             17825
         ],
         "term_order": 1,
-        "hierarchical_id": "1.1.1.1.5.1",
+        "hierarchical_id": "1.1.1.1.4.1",
         "ancestor_set_id": 3034,
         "complementary_cat_id": []
     },
@@ -795,7 +798,7 @@
         "post_count": 0,
         "post_ids": [],
         "term_order": 2,
-        "hierarchical_id": "1.1.1.1.5.2",
+        "hierarchical_id": "1.1.1.1.4.2",
         "ancestor_set_id": null,
         "complementary_cat_id": []
     },
@@ -819,7 +822,7 @@
             18119
         ],
         "term_order": 1,
-        "hierarchical_id": "1.1.1.1.5.2.1",
+        "hierarchical_id": "1.1.1.1.4.2.1",
         "ancestor_set_id": 3034,
         "complementary_cat_id": []
     },
@@ -849,7 +852,7 @@
             20948
         ],
         "term_order": 2,
-        "hierarchical_id": "1.1.1.1.5.2.2",
+        "hierarchical_id": "1.1.1.1.4.2.2",
         "ancestor_set_id": 3034,
         "complementary_cat_id": []
     },
@@ -873,7 +876,7 @@
             20962
         ],
         "term_order": 3,
-        "hierarchical_id": "1.1.1.1.5.2.3",
+        "hierarchical_id": "1.1.1.1.4.2.3",
         "ancestor_set_id": 3034,
         "complementary_cat_id": []
     },
@@ -897,7 +900,7 @@
             20969
         ],
         "term_order": 4,
-        "hierarchical_id": "1.1.1.1.5.2.4",
+        "hierarchical_id": "1.1.1.1.4.2.4",
         "ancestor_set_id": 3034,
         "complementary_cat_id": []
     },
@@ -922,7 +925,7 @@
             20977
         ],
         "term_order": 5,
-        "hierarchical_id": "1.1.1.1.5.2.5",
+        "hierarchical_id": "1.1.1.1.4.2.5",
         "ancestor_set_id": 3034,
         "complementary_cat_id": []
     },
@@ -947,7 +950,7 @@
             25631
         ],
         "term_order": 6,
-        "hierarchical_id": "1.1.1.1.5.2.6",
+        "hierarchical_id": "1.1.1.1.4.2.6",
         "ancestor_set_id": 3034,
         "complementary_cat_id": []
     },
@@ -973,7 +976,7 @@
             25633
         ],
         "term_order": 7,
-        "hierarchical_id": "1.1.1.1.5.2.7",
+        "hierarchical_id": "1.1.1.1.4.2.7",
         "ancestor_set_id": 3034,
         "complementary_cat_id": []
     },
@@ -997,7 +1000,7 @@
             21001
         ],
         "term_order": 8,
-        "hierarchical_id": "1.1.1.1.5.2.8",
+        "hierarchical_id": "1.1.1.1.4.2.8",
         "ancestor_set_id": 3034,
         "complementary_cat_id": []
     },
@@ -1021,7 +1024,7 @@
             21008
         ],
         "term_order": 3,
-        "hierarchical_id": "1.1.1.1.5.3",
+        "hierarchical_id": "1.1.1.1.4.3",
         "ancestor_set_id": 3034,
         "complementary_cat_id": []
     },
@@ -1052,7 +1055,7 @@
             6587
         ],
         "term_order": 4,
-        "hierarchical_id": "1.1.1.1.5.4",
+        "hierarchical_id": "1.1.1.1.4.4",
         "ancestor_set_id": 3034,
         "complementary_cat_id": []
     },
@@ -1078,7 +1081,7 @@
             36435
         ],
         "term_order": 5,
-        "hierarchical_id": "1.1.1.1.5.5",
+        "hierarchical_id": "1.1.1.1.4.5",
         "ancestor_set_id": 3034,
         "complementary_cat_id": []
     },
@@ -1104,8 +1107,8 @@
         "parent_id": 387,
         "post_count": 0,
         "post_ids": [],
-        "term_order": 6,
-        "hierarchical_id": "1.1.1.1.6",
+        "term_order": 5,
+        "hierarchical_id": "1.1.1.1.5",
         "ancestor_set_id": null,
         "complementary_cat_id": []
     },
@@ -1146,7 +1149,7 @@
             51855
         ],
         "term_order": 1,
-        "hierarchical_id": "1.1.1.1.6.1",
+        "hierarchical_id": "1.1.1.1.5.1",
         "ancestor_set_id": null,
         "complementary_cat_id": []
     },
@@ -1175,7 +1178,7 @@
             58250
         ],
         "term_order": 2,
-        "hierarchical_id": "1.1.1.1.6.2",
+        "hierarchical_id": "1.1.1.1.5.2",
         "ancestor_set_id": null,
         "complementary_cat_id": []
     },
@@ -1212,7 +1215,7 @@
             2520
         ],
         "term_order": 3,
-        "hierarchical_id": "1.1.1.1.6.3",
+        "hierarchical_id": "1.1.1.1.5.3",
         "ancestor_set_id": null,
         "complementary_cat_id": []
     },
@@ -1238,7 +1241,7 @@
             51919
         ],
         "term_order": 4,
-        "hierarchical_id": "1.1.1.1.6.4",
+        "hierarchical_id": "1.1.1.1.5.4",
         "ancestor_set_id": null,
         "complementary_cat_id": []
     },
@@ -1257,7 +1260,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 387,
-        "post_count": 27,
+        "post_count": 28,
         "post_ids": [
             66227,
             64761,
@@ -1282,13 +1285,14 @@
             65299,
             46044,
             16303,
+            67406,
             57869,
             21089,
             20304,
             30340
         ],
-        "term_order": 7,
-        "hierarchical_id": "1.1.1.1.7",
+        "term_order": 6,
+        "hierarchical_id": "1.1.1.1.6",
         "ancestor_set_id": null,
         "complementary_cat_id": []
     },
@@ -1316,8 +1320,8 @@
             60048,
             60012
         ],
-        "term_order": 8,
-        "hierarchical_id": "1.1.1.1.8",
+        "term_order": 7,
+        "hierarchical_id": "1.1.1.1.7",
         "ancestor_set_id": null,
         "complementary_cat_id": []
     },
@@ -1340,8 +1344,8 @@
         "post_ids": [
             27249
         ],
-        "term_order": 9,
-        "hierarchical_id": "1.1.1.1.9",
+        "term_order": 8,
+        "hierarchical_id": "1.1.1.1.8",
         "ancestor_set_id": null,
         "complementary_cat_id": []
     },
@@ -1366,8 +1370,8 @@
             5815,
             48242
         ],
-        "term_order": 10,
-        "hierarchical_id": "1.1.1.1.10",
+        "term_order": 9,
+        "hierarchical_id": "1.1.1.1.9",
         "ancestor_set_id": null,
         "complementary_cat_id": []
     },
@@ -1410,8 +1414,8 @@
             20866,
             20883
         ],
-        "term_order": 11,
-        "hierarchical_id": "1.1.1.1.11",
+        "term_order": 10,
+        "hierarchical_id": "1.1.1.1.10",
         "ancestor_set_id": null,
         "complementary_cat_id": []
     },
@@ -1430,7 +1434,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 387,
-        "post_count": 36,
+        "post_count": 39,
         "post_ids": [
             53388,
             45494,
@@ -1444,6 +1448,9 @@
             46424,
             50214,
             54749,
+            67191,
+            67182,
+            67069,
             57591,
             48488,
             48769,
@@ -1469,8 +1476,8 @@
             35560,
             51282
         ],
-        "term_order": 12,
-        "hierarchical_id": "1.1.1.1.12",
+        "term_order": 11,
+        "hierarchical_id": "1.1.1.1.11",
         "ancestor_set_id": null,
         "complementary_cat_id": []
     },
@@ -1489,13 +1496,14 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 387,
-        "post_count": 2,
+        "post_count": 3,
         "post_ids": [
             23440,
+            66988,
             29034
         ],
-        "term_order": 13,
-        "hierarchical_id": "1.1.1.1.13",
+        "term_order": 12,
+        "hierarchical_id": "1.1.1.1.12",
         "ancestor_set_id": null,
         "complementary_cat_id": []
     },
@@ -1524,8 +1532,8 @@
             16137,
             16119
         ],
-        "term_order": 14,
-        "hierarchical_id": "1.1.1.1.14",
+        "term_order": 13,
+        "hierarchical_id": "1.1.1.1.13",
         "ancestor_set_id": null,
         "complementary_cat_id": []
     },
@@ -1833,7 +1841,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 389,
-        "post_count": 74,
+        "post_count": 75,
         "post_ids": [
             45467,
             62892,
@@ -1841,6 +1849,7 @@
             44757,
             50233,
             50229,
+            67216,
             51648,
             51692,
             48788,
@@ -2490,13 +2499,16 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 398,
-        "post_count": 18,
+        "post_count": 21,
         "post_ids": [
             7050,
             39672,
             51113,
             39417,
             39609,
+            66980,
+            67009,
+            67442,
             51793,
             29196,
             29301,
@@ -2771,7 +2783,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 398,
-        "post_count": 26,
+        "post_count": 27,
         "post_ids": [
             60243,
             38546,
@@ -2782,6 +2794,7 @@
             52302,
             48167,
             23777,
+            67042,
             53800,
             51699,
             31958,
@@ -2873,7 +2886,7 @@
         "name": "Sefirat ha-Omer",
         "id": 1237,
         "stub": "sefirat-haomer",
-        "description": "This is an archive of prayers composed for, or relevant to, the Sefirat ha-Omer, the forty-nine days of counting between the second day of Pesaḥ and Shavuot.\r\n\r\nIf you have composed or transcribed and translated a prayer for the Sefirat ha-Omer, please <a href=\"\/contribute\/upload\">share it here<\/a>.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor readings customarily read or studied over the course of the Sefirat ha-Omer, <a href=\"\/index.php?cat=4880\">please visit here<\/a>.",
+        "description": "This is an archive of prayers composed for, or relevant to, the Sefirat ha-Omer, the forty-nine days of counting between the second day of Pesaḥ and Shavuot.\r\n\r\nIf you have composed or transcribed and translated a prayer for the Sefirat ha-Omer, please <a href=\"\/contribute\/upload\">share it here<\/a>.\r\n\r\n<hr \/>",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2024\/11\/aharon-varady-sefirot-haomer-zalman-schachter-shalomi-color-correspondences1-landscape.png",
             "title": "Aharon-Varady-Sefirot-HaOmer-Zalman-Schachter-Shalomi-color-correspondences1- landscape",
@@ -2884,7 +2897,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 3391,
-        "post_count": 9,
+        "post_count": 11,
         "post_ids": [
             61899,
             55608,
@@ -2892,8 +2905,10 @@
             36831,
             46396,
             55739,
+            67047,
             36565,
             42388,
+            67272,
             4957
         ],
         "term_order": 2,
@@ -3257,7 +3272,6 @@
         "parent_id": 3120,
         "post_count": 15,
         "post_ids": [
-            66958,
             44325,
             66649,
             23144,
@@ -3268,6 +3282,7 @@
             51105,
             41665,
             41670,
+            66958,
             47747,
             22080,
             20696,
@@ -3326,11 +3341,12 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 3120,
-        "post_count": 7,
+        "post_count": 8,
         "post_ids": [
             66020,
             2943,
             19760,
+            67272,
             59258,
             59269,
             59274,
@@ -3465,11 +3481,12 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 3120,
-        "post_count": 3,
+        "post_count": 4,
         "post_ids": [
             33449,
             2943,
-            14045
+            14045,
+            67272
         ],
         "term_order": 10,
         "hierarchical_id": "1.2.1.10",
@@ -3749,7 +3766,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 5089,
-        "post_count": 18,
+        "post_count": 19,
         "post_ids": [
             63205,
             33312,
@@ -3761,6 +3778,7 @@
             3498,
             1488,
             23485,
+            67210,
             12347,
             57262,
             42694,
@@ -3792,13 +3810,13 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 5089,
-        "post_count": 83,
+        "post_count": 85,
         "post_ids": [
-            66958,
             63517,
             57943,
             63581,
             46305,
+            67297,
             33651,
             33372,
             33449,
@@ -3856,6 +3874,7 @@
             42736,
             46915,
             46911,
+            66958,
             14045,
             14042,
             31809,
@@ -3876,6 +3895,7 @@
             65966,
             57895,
             28269,
+            67366,
             5238
         ],
         "term_order": 3,
@@ -3901,7 +3921,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 5089,
-        "post_count": 107,
+        "post_count": 109,
         "post_ids": [
             58029,
             47089,
@@ -3910,6 +3930,7 @@
             46305,
             47057,
             39019,
+            67297,
             33807,
             33768,
             33526,
@@ -4008,6 +4029,7 @@
             33595,
             36059,
             57895,
+            67106,
             27506,
             31607
         ],
@@ -4059,11 +4081,12 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 5089,
-        "post_count": 24,
+        "post_count": 25,
         "post_ids": [
             63926,
             58282,
             39220,
+            67297,
             33879,
             27601,
             27609,
@@ -4615,7 +4638,7 @@
         "name": "Pesaḥ Yamei Ḥag",
         "id": 3725,
         "stub": "hag-haaviv",
-        "description": "This is an archive of prayers for the first day of Pesaḥ (Passover), extended to two days outside of Erets Yisrael.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a prayer you have composed for Pesaḥ.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers composed specifically for the 7th day of Pesaḥ, <a href=\"\/index.php?cat=2498\">go here<\/a>.\r\n\r\nFor a list of Maḥzorim for Pesaḥ, <a href=\"\/index.php?cat=4563\">go here<\/a>.\r\n\r\nFor a list of Haggadot for the Seder Pesaḥ, <a href=\"\/index.php?cat=1078\">go here<\/a>.\r\n\r\nFor an archive of prayers, songs, and other specific and related material for leil Pesaḥ, <a href=\"\/index.php?cat=2497\">go here<\/a>.",
+        "description": "This is an archive of prayers for the first day of Pesaḥ (Passover), extended to two days outside of Erets Yisrael.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a prayer you have composed for Pesaḥ.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers composed specifically for the 7th day of Pesaḥ, <a href=\"\/index.php?cat=2498\">go here<\/a>.\r\n\r\nFor a list of Haggadot for the Seder Pesaḥ, <a href=\"\/index.php?cat=1078\">go here<\/a>.",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2011\/04\/Monument_to_slaves_in_Zanzibar_.jpg",
             "title": "Memory for the Slaves",
@@ -4656,7 +4679,7 @@
         "name": "7th Day of Pesaḥ",
         "id": 2498,
         "stub": "pesah-day-7",
-        "description": "This is an archive of prayers and other works relevant to the 7th and final day of Passover (extended to two days outside of Erets Yisrael). The day commemorates the miraculous passage of the newly liberated Israelites through the Sea of Reeds, and the destruction of the Pharaonic army pursuing them. \r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a work that you have prepared for the 7th day of Pesaḥ.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor an archive of public readings for the 7th Day of Pesaḥ, <a href=\"\/index.php?cat=3024\">go here<\/a>.\r\n\r\nFor a list of Maḥzorim for Pesaḥ, <a href=\"\/index.php?cat=4563\">go here<\/a>.\r\n\r\n",
+        "description": "This is an archive of prayers and other works relevant to the 7th and final day of Passover (extended to two days outside of Erets Yisrael) also known as <span class=\"hebrew\">יוֹם וַיּוֹשַׁע<\/span> <em>Yom vaYoshah<\/em>. The day commemorates the miraculous passage of the newly liberated Israelites through the Sea of Reeds, and the destruction of the Pharaonic army pursuing them. \r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a work that you have prepared for the 7th day of Pesaḥ.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor an archive of public readings for the 7th Day of Pesaḥ, <a href=\"\/index.php?cat=3024\">go here<\/a>.\r\n\r\nFor a list of Maḥzorim for Pesaḥ, <a href=\"\/index.php?cat=4563\">go here<\/a>.\r\n\r\n",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2023\/10\/Sea_reeds_2_12695113484.jpg",
             "title": "Sea_reeds_2_(12695113484)",
@@ -4667,7 +4690,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 404,
-        "post_count": 33,
+        "post_count": 34,
         "post_ids": [
             59974,
             53168,
@@ -4687,6 +4710,7 @@
             65752,
             65743,
             59994,
+            67079,
             57111,
             65735,
             49974,
@@ -4738,7 +4762,7 @@
         "name": "Pesaḥ Sheni",
         "id": 1619,
         "stub": "pesah-sheni",
-        "description": "This is an archive of prayers composed for or relevant to the Pesaḥ Sheni (the \"Second\" Passover) on the 14th of Iyyar, as described in Numbers 9:6-13 and <a href=\"http:\/\/www.sefaria.org\/Mishnah_Pesachim.9.1-3?lang=bi&amp;with=all&amp;lang2=en\">Mishnah Pesaḥim 9:1-3<\/a>.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a work or a transcription and translation of a historical work that you have prepared for Pesaḥ Sheni.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor a list of Haggadot for the Seder Pesaḥ on the 14th of Nisan, <a href=\"\/index.php?cat=1078\">go here<\/a>.\r\n\r\nFor the courses of the seder on the first night of Passover, <a href=\"\/index.php?cat=2497\">go here<\/a>.",
+        "description": "This is an archive of prayers composed for or relevant to the Pesaḥ Sheni (the \"Second\" Passover) on the 14th of Iyyar, as described in Numbers 9:6-13 and <a href=\"http:\/\/www.sefaria.org\/Mishnah_Pesachim.9.1-3?lang=bi&amp;with=all&amp;lang2=en\">Mishnah Pesaḥim 9:1-3<\/a>.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a work or a transcription and translation of a historical work that you have prepared for Pesaḥ Sheni.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor haggadot compiled for a Sefer Pesaḥ Sheni, <a href=\"\/index.php?cat=3605\">go here<\/a>.\r\n\r\nFor a list of Haggadot for the Seder Pesaḥ on the 14th of Nisan, <a href=\"\/index.php?cat=1078\">go here<\/a>.\r\n\r\nFor the courses of the seder on the first night of Passover, <a href=\"\/index.php?cat=2497\">go here<\/a>.",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2017\/05\/Emerging-Lamb-A-of-Doom-CC-BY.jpg",
             "title": "Emerging Lamb (A of Doom, CC BY)",
@@ -4779,7 +4803,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 395,
-        "post_count": 54,
+        "post_count": 57,
         "post_ids": [
             61947,
             61820,
@@ -4787,6 +4811,7 @@
             20096,
             46551,
             44750,
+            67096,
             45231,
             12347,
             48249,
@@ -4802,6 +4827,7 @@
             44349,
             42639,
             42646,
+            67412,
             46655,
             14043,
             28390,
@@ -4827,6 +4853,7 @@
             31777,
             61873,
             61885,
+            67087,
             51179,
             31689,
             44783,
@@ -4928,9 +4955,10 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 395,
-        "post_count": 22,
+        "post_count": 23,
         "post_ids": [
             52874,
+            67280,
             33896,
             33886,
             12438,
@@ -5171,10 +5199,11 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 793,
-        "post_count": 6,
+        "post_count": 7,
         "post_ids": [
             57621,
             45929,
+            67226,
             26397,
             3572,
             3579,
@@ -5335,11 +5364,12 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 793,
-        "post_count": 7,
+        "post_count": 8,
         "post_ids": [
             48167,
             46575,
             23777,
+            67042,
             53800,
             23122,
             31809,
@@ -5528,7 +5558,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 396,
-        "post_count": 64,
+        "post_count": 65,
         "post_ids": [
             63016,
             60165,
@@ -5556,6 +5586,7 @@
             45687,
             20685,
             54816,
+            67174,
             7316,
             20201,
             45323,
@@ -6124,7 +6155,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 3036,
-        "post_count": 16,
+        "post_count": 17,
         "post_ids": [
             21205,
             14344,
@@ -6137,6 +6168,7 @@
             23691,
             52794,
             54841,
+            67201,
             66877,
             55145,
             61621,
@@ -6156,7 +6188,7 @@
         "stub": "may-the-fourth",
         "description": "May the Fourth (a\/k\/a \"Star Wars Day\") is an informal civic day observed annually on 4 May to celebrate the Force, a ubiquitous if nebulous manifestation of cosmic good central to Jedi thought in the legendarium of George Lucas. The date originated from the pun \"May the Fourth be with you,\" derived from the Jedi salutation\/blessing: \"May the Force be with you.\" Observance of the day spread quickly through media and grassroots celebrations since the first Star Wars film was shown in 1977. \r\n\r\n\"Be grateful to <span class=\"divine-referent\">Hashem<\/span> for goodness-sake, for in the Cosmos, <span class=\"divine-referent\">their<\/span> kindness is\" -- <span class=\"hebrew\" lang=\"heb-Hebr\">הוֹדוּ לַיהֹוָה כִּי־טוֹב כִּי לְעוֹלָם חַסְדּוֹ׃<\/span>\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers on, or related to, Life Day, <a href=\"\/index.php?cat=5090\">go here<\/a>.",
         "featured_image": {
-            "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2025\/05\/chewibaccaand-porg-the-last-jedi.jpg",
+            "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2025\/05\/chewibaccaand-porg-the-last-jedi-e1777838605133.jpg",
             "title": "chewibaccaand-porg-the-last-jedi",
             "caption": "Chewbacca and porg (The Last Jedi)"
         },
@@ -7023,10 +7055,10 @@
         "complementary_cat_id": []
     },
     {
-        "name": "&#x1f1fa;&#x1f1f8; Days of Remembrance of the Victims of the Holocaust",
+        "name": "&#x1f1fa;&#x1f1f8; Days of Remembrance of the Victims of the Holocaust (28-29 April)",
         "id": 3231,
         "stub": "remembrance-victims-holocaust",
-        "description": "This is an archive of prayers composed for, or relevant to, the Days of Remembrance of the Victims of the Holocaust in the United States.\r\n\r\nThe <a href=\"https:\/\/en.wikipedia.org\/wiki\/Days_of_Remembrance_of_the_Victims_of_the_Holocaust\">Days of Remembrance of the Victims of the Holocaust<\/a> (DRVH) is an annual 8-day period designated by the United States Congress for civic commemorations and special educational programs that help citizens remember and draw lessons from the Holocaust. The annual DRVH period normally begins on the Sunday before Yom HaShoah, Holocaust Memorial Day in the State of Israel on the 27th of Nisan, and continues through the following Sunday, usually in April or May. A National Civic Commemoration is held in Washington, D.C., with state, city, and local ceremonies and programs held in most of the fifty states, and on U.S. military ships and stations around the world. The United States Holocaust Memorial Museum designates a theme for each year's programs, and provides materials to help support remembrance efforts.\r\n\r\nA House Joint resolution 1014 designated April 28 and 29 of 1979 as \"Days of Remembrance of Victims of the Holocaust.\" Senator John Danforth of Missouri, who originated the resolution, chose April 28 and 29 because it was on these dates, in 1945, that American troops—including at least one ethnically segregated artillery battalion of the U.S. Army, many of whose own relatives were themselves interned during the war on American soil—liberated the Dachau concentration camp and a number of its satellite camps, as well as rescuing hundreds of Jewish-ethnicity camp inmates driven southwards from Dachau by the Nazis on a death march only days later. \r\n\r\nIf you have composed a prayer or prayer-poem for the Days of Remembrance of the Victims of the Holocaust, please <a href=\"\/contribute\/upload\">share it here<\/a>.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers composed for Kristallnacht (16 Marḥeshvan), <a href=\"\/index.php?cat=5225\">please visit here<\/a>.\r\n\r\nFor prayers composed for Yom haShoah in the State of Israel (27 Nisan), <a href=\"\/index.php?cat=2602\">please visit here<\/a>.\r\n\r\nFor prayers composed for the International Holocaust Remembrance Day, <a href=\"\/index.php?cat=3056\">please visit here<\/a>.\r\n\r\nFor public readings selected for Holocaust &amp; Genocide Memorial Days, <a href=\"\/index.php?cat=4306\">go here<\/a>.",
+        "description": "This is an archive of prayers composed for, or relevant to, the Days of Remembrance of the Victims of the Holocaust in the United States.\r\n\r\nThe <a href=\"https:\/\/en.wikipedia.org\/wiki\/Days_of_Remembrance_of_the_Victims_of_the_Holocaust\">Days of Remembrance of the Victims of the Holocaust<\/a> (DRVH) is an annual 8-day period designated by the United States Congress for civic commemorations and special educational programs that help citizens remember and draw lessons from the Holocaust. The annual DRVH period normally begins on the Sunday before Yom HaShoah, Holocaust Memorial Day in the State of Israel on the 27th of Nisan, and continues through the following Sunday, usually in April or May. A National Civic Commemoration is held in Washington, D.C., with state, city, and local ceremonies and programs held in most of the fifty states, and on U.S. military ships and stations around the world. The United States Holocaust Memorial Museum designates a theme for each year's programs, and provides materials to help support remembrance efforts.\r\n\r\nA House Joint resolution 1014 designated April 28 and 29 of 1979 as \"Days of Remembrance of Victims of the Holocaust.\" Senator John Danforth of Missouri, who originated the resolution, chose April 28 and 29 because it was on these dates, in 1945, that American troops—including at least one ethnically segregated artillery battalion of the U.S. Army, many of whose own relatives were themselves interned during the war on American soil—liberated the Dachau concentration camp and a number of its satellite camps, as well as rescuing hundreds of Jewish camp inmates driven southwards from Dachau by the Nazis on a death march only days later. \r\n\r\nIf you have composed a prayer or prayer-poem for the Days of Remembrance of the Victims of the Holocaust, please <a href=\"\/contribute\/upload\">share it here<\/a>.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers composed for Kristallnacht (16 Marḥeshvan), <a href=\"\/index.php?cat=5225\">please visit here<\/a>.\r\n\r\nFor prayers composed for Yom haShoah in the State of Israel (27 Nisan), <a href=\"\/index.php?cat=2602\">please visit here<\/a>.\r\n\r\nFor prayers composed for the International Holocaust Remembrance Day, <a href=\"\/index.php?cat=3056\">please visit here<\/a>.\r\n\r\nFor public readings selected for Holocaust &amp; Genocide Memorial Days, <a href=\"\/index.php?cat=4306\">go here<\/a>.",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2018\/12\/National-Civic-Commemoration-of-Holocaust-Days-of-Remembrance-Capitol-Rotunda-with-Navy-Chaplain-Rabbi-Arnold-E.-Resnicoff-offering-closing-prayer.jpg",
             "title": "National Civic Commemoration of Holocaust Days of Remembrance, Capitol Rotunda, with Navy Chaplain, Rabbi Arnold E. Resnicoff, offering closing prayer",
@@ -7400,7 +7432,6 @@
         "parent_id": 3037,
         "post_count": 36,
         "post_ids": [
-            66944,
             59885,
             37439,
             6661,
@@ -7412,6 +7443,7 @@
             31751,
             34719,
             34723,
+            66944,
             25379,
             25384,
             25392,
@@ -7458,9 +7490,9 @@
         "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=3052",
         "subcategory_count": 9,
         "subcategories": [
-            6664,
             5618,
             2602,
+            6664,
             1239,
             3735,
             4576,
@@ -7475,34 +7507,6 @@
         "hierarchical_id": "1.3.5",
         "ancestor_set_id": null,
         "complementary_cat_id": []
-    },
-    {
-        "name": "&#x1f1ee;&#x1f1f1; Yom haZikaron",
-        "id": 6664,
-        "stub": "yom-hazikaron",
-        "description": "This is an archive of prayers for, or relevant to, <span class=\"hebrew\">יוֹם הַזִּכָּרוֹן לְחַלְלֵי מַעַרְכוֹת יִשְׂרָאֵל וּלְנִפְגְעֵי<\/span>‎ (<em>Yom haZikarōn l'ḥalelei ma'arkhot Yisrael ul'nifge'ei pe'ulōt ha-eivah<\/em>, \"Remembrance Day for the Fallen Soldiers of the Wars of Israel and Victims of Actions of Terrorism\"), the State of Israel's official memorial day, enacted into law in 1963. While Yom HaZikaron has been traditionally dedicated to fallen soldiers, commemoration has also been extended to civilian victims of terrorism.\r\n\r\nIf you have composed or selected a public reading for Yom haZikarōn, please <a href=\"\/contribute\/upload\">share it here<\/a>.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor special readings prepared for Yom haZikaron, <a href=\"\/index.php?cat=6014\">go here<\/a>.\r\n\r\nFor prayers for, or relevant to, Yom ha-Shoah (and other Holocaust Days of Remembrance), <a href=\"\/index.php?cat=2602\">go here<\/a>.",
-        "featured_image": {
-            "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2024\/10\/pikiwiki-israel-12557-hatikva-park-tel-aviv.jpg",
-            "title": "Hatikva Park war memorial to the guard dogs",
-            "caption": "<a href=\"https:\/\/commons.wikimedia.org\/wiki\/File:PikiWiki_Israel_12557_hatikva_park_tel_aviv.jpg\">Hatiqvah Park, Tel Aviv<\/a>. War memorial dedicated to the guard employed in the defence of the front line between the Hatikva Quarter and the Arab village Shalame in the 1947-1948 War of Independence, the site of a decisive encounter with enemy forced in Decemenber 1947. (credit: Avishai Teicher, license: CC BY)"
-        },
-        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/civic-calendar\/state-of-israel-civil-calendar\/yom-hazikaron\/",
-        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=6664",
-        "subcategory_count": 0,
-        "subcategories": [],
-        "parent_id": 3052,
-        "post_count": 3,
-        "post_ids": [
-            61774,
-            55692,
-            53087
-        ],
-        "term_order": 1,
-        "hierarchical_id": "1.3.5.1",
-        "ancestor_set_id": null,
-        "complementary_cat_id": [
-            6014
-        ]
     },
     {
         "name": "&#x1f1ee;&#x1f1f1; Yom Tel Aviv (20 Nissan)",
@@ -7523,8 +7527,8 @@
         "post_ids": [
             5532
         ],
-        "term_order": 2,
-        "hierarchical_id": "1.3.5.2",
+        "term_order": 1,
+        "hierarchical_id": "1.3.5.1",
         "ancestor_set_id": null,
         "complementary_cat_id": []
     },
@@ -7532,7 +7536,7 @@
         "name": "&#x1f1ee;&#x1f1f1; Yom haShoah (27 Nisan)",
         "id": 2602,
         "stub": "yom-hashoah",
-        "description": "This is an archive of prayers composed for, or relevant to, <span class=\"hebrew\">יוֹם הַזִּכָּרוֹן לַשּׁוֹאָה וְלַגְּבוּרָה<\/span> (<em>Yom HaZikaron laShoah v'laG'vurah<\/em>, \"Holocaust and Heroism Remembrance Day\"), Holocaust Remembrance Day in the State of Israel (27 Nisan). (To avoid being adjacent to Shabbat, observance of the day is moved to 26 Nisan if 27 Nisan falls on a Friday. If 27 Nisan falls on a Sunday, the day is moved to 28 Nisan.) The civic memorial day commemorates the approximately six million Jews murdered in the Holocaust by Nazi Germany and its collaborators, and for the Jewish resistance in that period. The first official commemorations took place in 1951, and the observance of the day was anchored in a law passed by the Knesset in 1959. \r\n\r\nIf you have composed a prayer or prayer-poem for a Holocaust Remembrance Day, or specifically for Yom haShoah, please <a href=\"\/contribute\/upload\">share it here<\/a>.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers composed for the commemoration in the United States: Days of Remembrance of the Victims of the Holocaust, <a href=\"\/index.php?cat=3231\">please visit here<\/a>.\r\n\r\nFor prayers composed for Kristallnacht (16 Marḥeshvan), <a href=\"\/index.php?cat=5225\">please visit here<\/a>.\r\n\r\nFor prayers composed for the International Holocaust Remembrance Day, <a href=\"\/index.php?cat=3056\">please visit here<\/a>.\r\n\r\nFor public readings selected for Holocaust &amp; Genocide Memorial Days, <a href=\"\/index.php?cat=4306\">go here<\/a>.",
+        "description": "This is an archive of prayers composed for, or relevant to, <span class=\"hebrew\">יוֹם הַזִּכָּרוֹן לַשּׁוֹאָה וְלַגְּבוּרָה<\/span> (Yom HaZikaron laShoah v’laG’vurah, “Holocaust and Heroism Remembrance Day”), the civic day for Holocaust remembrance in the State of Israel. The memorial day commemorates the approximately six million Jews murdered in the Holocaust by Nazi Germany and its collaborators, and for the Jewish resistance in that period. The first official commemorations took place in 1951, and the observance of the day was anchored in a law passed by the Knesset in 1959.  In the civil calendar of the State of Israel, the day is officially set for the 27th of the month of Nisan (ten days before Yom ha-Atsma'ut). To avoid being adjacent to Shabbat, observance of the day is moved to 26 Nisan if 27 Nisan falls on a Friday. If 27 Nisan falls on a Sunday, the day is moved to 28 Nisan. \r\n\r\nIf you have composed a prayer or prayer-poem for a Holocaust Remembrance Day, or specifically for Yom haShoah, please <a href=\"\/contribute\/upload\">share it here<\/a>.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers composed for the commemoration in the United States: Days of Remembrance of the Victims of the Holocaust, <a href=\"\/index.php?cat=3231\">please visit here<\/a>.\r\n\r\nFor prayers composed for Kristallnacht (16 Marḥeshvan), <a href=\"\/index.php?cat=5225\">please visit here<\/a>.\r\n\r\nFor prayers composed for the International Holocaust Remembrance Day, <a href=\"\/index.php?cat=3056\">please visit here<\/a>.\r\n\r\nFor public readings selected for Holocaust &amp; Genocide Memorial Days, <a href=\"\/index.php?cat=4306\">go here<\/a>.",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2023\/01\/Jews-captured-by-the-SS-during-the-suppression-of-the-Warsaw-ghetto-uprising-Leszek-Grzywaczewski-1943-USHMM-pa13707.png",
             "title": "Jews captured by the SS during the suppression of the Warsaw ghetto uprising (Leszek Grzywaczewski, 1943 &#8211; USHMM pa13707",
@@ -7569,16 +7573,44 @@
             54126,
             51771
         ],
+        "term_order": 2,
+        "hierarchical_id": "1.3.5.2",
+        "ancestor_set_id": null,
+        "complementary_cat_id": []
+    },
+    {
+        "name": "&#x1f1ee;&#x1f1f1; Yom haZikaron (4 Iyyar)",
+        "id": 6664,
+        "stub": "yom-hazikaron",
+        "description": "This is an archive of prayers for, or relevant to, <span class=\"hebrew\">יוֹם הַזִּכָּרוֹן לְחַלְלֵי מַעַרְכוֹת יִשְׂרָאֵל וּלְנִפְגְעֵי<\/span>‎ (<em>Yom haZikarōn l'ḥalelei ma'arkhot Yisrael ul'nifge'ei pe'ulōt ha-eivah<\/em>, \"Remembrance Day for the Fallen Soldiers of the Wars of Israel and Victims of Actions of Terrorism\"), the State of Israel's official memorial day, enacted into law in 1963. While Yom HaZikaron has been traditionally dedicated to fallen soldiers, commemoration has also been extended to civilian victims of terrorism.\r\n\r\nIf you have composed or selected a public reading for Yom haZikarōn, please <a href=\"\/contribute\/upload\">share it here<\/a>.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers for, or relevant to, Yom ha-Shoah (and other Holocaust Days of Remembrance), <a href=\"\/index.php?cat=2602\">go here<\/a>.",
+        "featured_image": {
+            "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2024\/10\/pikiwiki-israel-12557-hatikva-park-tel-aviv.jpg",
+            "title": "Hatikva Park war memorial to the guard dogs",
+            "caption": "<a href=\"https:\/\/commons.wikimedia.org\/wiki\/File:PikiWiki_Israel_12557_hatikva_park_tel_aviv.jpg\">Hatiqvah Park, Tel Aviv<\/a>. War memorial dedicated to the guard employed in the defence of the front line between the Hatikva Quarter and the Arab village Shalame in the 1947-1948 War of Independence, the site of a decisive encounter with enemy forced in Decemenber 1947. (credit: Avishai Teicher, license: CC BY)"
+        },
+        "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/civic-calendar\/state-of-israel-civil-calendar\/yom-hazikaron\/",
+        "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=6664",
+        "subcategory_count": 0,
+        "subcategories": [],
+        "parent_id": 3052,
+        "post_count": 3,
+        "post_ids": [
+            61774,
+            55692,
+            53087
+        ],
         "term_order": 3,
         "hierarchical_id": "1.3.5.3",
         "ancestor_set_id": null,
-        "complementary_cat_id": []
+        "complementary_cat_id": [
+            6014
+        ]
     },
     {
         "name": "&#x1f1ee;&#x1f1f1; Yom ha-Atsma'ut (5 Iyyar)",
         "id": 1239,
         "stub": "yom-haatsmaut",
-        "description": "This is an archive of prayers composed for, or relevant to, Yom ha-Atsma’ut, a civic day in the State of Israel, celebrating the nation's declaration of independence on the 5th of Iyyar. The day is recognized on the 5th of Iyyar but it may be commemorated one or two days before or after the 5th of Iyar on years when it falls adjacent to Shabbat.\r\n\r\nIf you have composed a prayer or prayer-poem for Yom ha-Atsma'ut, please <a href=\"\/contribute\/upload\">share it here<\/a>.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor public readings selected for Yom ha-Atsma'ut, <a href=\"\/index.php?cat=3022\">go here<\/a>.\r\n\r\nFor prayers offered for the well-being of the State of Israel, <a href=\"\/index.php?cat=2554\">please visit here<\/a>.",
+        "description": "This is an archive of prayers composed for, or relevant to, Yom ha-Atsma’ut, a civic day in the State of Israel celebrating the nation's declaration of independence on the 5th of Iyyar. (The day may be commemorated one or two days before or after the 5th of Iyar on years when it, or Yom haZikaron, falls on or adjacent to Shabbat).\r\n\r\nIf you have composed a prayer or prayer-poem for Yom ha-Atsma'ut, please <a href=\"\/contribute\/upload\">share it here<\/a>.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers offered for the well-being of the State of Israel, <a href=\"\/index.php?cat=2554\">please visit here<\/a>.",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2021\/04\/ink-flag.png",
             "title": "ink-flag",
@@ -7589,8 +7621,9 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 3052,
-        "post_count": 26,
+        "post_count": 27,
         "post_ids": [
+            67262,
             61774,
             61676,
             55865,
@@ -8256,17 +8289,18 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 2632,
-        "post_count": 39,
+        "post_count": 40,
         "post_ids": [
-            66952,
             63200,
             44996,
             10753,
             10755,
             10389,
+            66952,
             21695,
             51496,
             44753,
+            67096,
             66498,
             45231,
             57591,
@@ -8464,7 +8498,6 @@
         "parent_id": 2633,
         "post_count": 51,
         "post_ids": [
-            66935,
             60204,
             59908,
             33414,
@@ -8486,6 +8519,7 @@
             46525,
             29603,
             34306,
+            66935,
             51779,
             55419,
             46498,
@@ -8536,7 +8570,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 2633,
-        "post_count": 51,
+        "post_count": 52,
         "post_ids": [
             65492,
             59908,
@@ -8563,6 +8597,7 @@
             23691,
             52794,
             65402,
+            67201,
             66877,
             48488,
             18767,
@@ -8599,7 +8634,7 @@
         "name": "Travel",
         "id": 799,
         "stub": "travel",
-        "description": "",
+        "description": "An archive of prayers for the wellbeing of travelers, or perhaps more broadly, on the theme of travel by different means between coordinates, states of awareness, and states of existence.\r\n\r\n<hr \/>",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2016\/03\/PikiWiki_Israel_12172_Sde-Wrburg_-_the_youth_on_his_bicycle.jpg",
             "title": "PikiWiki_Israel_12172_Sde-Wrburg_-_the_youth_on_his_bicycle",
@@ -8709,9 +8744,9 @@
         "parent_id": 2633,
         "post_count": 20,
         "post_ids": [
-            66940,
             63103,
             58744,
+            66940,
             48791,
             48096,
             38746,
@@ -8739,7 +8774,7 @@
         "name": "Conception, Pregnancy, and Childbirth",
         "id": 3584,
         "stub": "pregnancy",
-        "description": "",
+        "description": "This is an archive of prayers for the wellbeing of those striving to conceive and bear children, as well as to recover from childbirth.\r\n\r\n<hr \/>",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2019\/01\/hens-adopt-animals-5979afecd07a2--700.png",
             "title": "hens-adopt-animals-5979afecd07a2&#8211;700",
@@ -8794,7 +8829,7 @@
         "name": "Homes &amp; Community Centers",
         "id": 1278,
         "stub": "home",
-        "description": "",
+        "description": "This is an archive of prayers for the wellbeing of homes, community centers, and other spaces proving shelter, hospitality, and recreation.\r\n\r\n<hr \/>",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2015\/11\/Ḥamsa-qamea-with-birkat-habayit.png",
             "title": "amsa-qamea-with-birkat-habayit",
@@ -8805,7 +8840,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 2633,
-        "post_count": 23,
+        "post_count": 27,
         "post_ids": [
             65806,
             37412,
@@ -8813,9 +8848,13 @@
             65240,
             46336,
             46623,
+            66973,
+            67337,
             49922,
             49919,
             49915,
+            67158,
+            67037,
             48791,
             65183,
             57124,
@@ -8851,7 +8890,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 2633,
-        "post_count": 120,
+        "post_count": 124,
         "post_ids": [
             65492,
             63536,
@@ -8918,6 +8957,10 @@
             50136,
             50143,
             50130,
+            67158,
+            67141,
+            67037,
+            67024,
             66122,
             66000,
             66006,
@@ -9050,7 +9093,7 @@
         "name": "Separation",
         "id": 719,
         "stub": "separation",
-        "description": "",
+        "description": "This is an archive for havdalot (separations) in time, relationships, and other life journeys which mark a change in direction, place, and intention.",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2017\/11\/1280px-Curds_and_whey.jpg",
             "title": "Curds and whey (Cecelia, CC BY)",
@@ -9077,7 +9120,7 @@
         "name": "Old Age",
         "id": 5597,
         "stub": "old-age",
-        "description": "",
+        "description": "This is an archive of prayers for those marking their passage into the community of elders.\r\n\r\n<hr \/>",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2018\/09\/timepiece_historical_horoscope_zodiac_venice-880934.jpg",
             "title": "timepiece_historical_horoscope_zodiac_venice-880934",
@@ -9143,7 +9186,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 2634,
-        "post_count": 20,
+        "post_count": 23,
         "post_ids": [
             30926,
             26407,
@@ -9160,6 +9203,9 @@
             40199,
             50868,
             51109,
+            66996,
+            66970,
+            66991,
             22998,
             23800,
             24302,
@@ -9407,13 +9453,15 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 524,
-        "post_count": 43,
+        "post_count": 46,
         "post_ids": [
             59890,
             59885,
             53115,
             49332,
             49078,
+            67293,
+            67301,
             40649,
             22554,
             12252,
@@ -9427,6 +9475,7 @@
             46409,
             45687,
             66640,
+            67344,
             32327,
             49937,
             44035,
@@ -9473,10 +9522,11 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 524,
-        "post_count": 29,
+        "post_count": 31,
         "post_ids": [
             56616,
             37171,
+            67235,
             25863,
             17110,
             12613,
@@ -9502,6 +9552,7 @@
             64080,
             64075,
             55766,
+            67037,
             12098,
             3199
         ],
@@ -10201,15 +10252,18 @@
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2022\/12\/1024px-Flag_of_the_United_States.svg-e1729837028891.png",
             "title": "1024px-Flag_of_the_United_States.svg",
-            "caption": ""
+            "caption": "Flag of the United States, (since 4 July 1960)"
         },
         "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/collective-welfare\/nations\/united-states-of-america\/",
         "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=2686",
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 776,
-        "post_count": 448,
+        "post_count": 453,
         "post_ids": [
+            67456,
+            67449,
+            67437,
             63296,
             61704,
             59702,
@@ -10338,13 +10392,13 @@
             28018,
             28174,
             28178,
+            34958,
             28181,
             28183,
             28202,
             29041,
             29044,
             29054,
-            34958,
             29823,
             29829,
             29831,
@@ -10572,6 +10626,7 @@
             55526,
             55919,
             18072,
+            67124,
             62832,
             22583,
             55028,
@@ -10601,6 +10656,7 @@
             24415,
             56058,
             56019,
+            67427,
             44987,
             56044,
             33486,
@@ -10736,8 +10792,11 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 776,
-        "post_count": 364,
+        "post_count": 368,
         "post_ids": [
+            67456,
+            67449,
+            67437,
             58358,
             57664,
             57407,
@@ -11087,6 +11146,7 @@
             54302,
             24415,
             56019,
+            67427,
             41254,
             56756,
             57031,
@@ -11151,7 +11211,7 @@
         "name": "Military Personnel &amp; Veterans",
         "id": 1257,
         "stub": "military-personnel",
-        "description": "This is an archive of prayers composed for the well-being and safety of active and veteran military personnel.\r\n\r\nIf you have composed a prayer for military personnel, please <a href=\"\/contribute\/upload\">share it here<\/a>.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers composed for, or relevant to, US Veterans Day, <a href=\"\/index.php?cat=5849\">go here<\/a>.\r\n\r\nFor an archive of special readings for US Veterans Day, <a href=\"\/index.php?cat=5850\">go here<\/a>.\r\n\r\nFor prayers composed for or relevant to Memorial Day in the United States, <a href=\"\/index.php?cat=3068\">please visit here<\/a>.\r\n\r\nFor public readings selected for Memorial Day in the United States, <a href=\"\/index.php?cat=3626\">please visit here<\/a>.\r\n\r\nFor prayers composed for or relevant to Yom haZikaron in the State of Israel, <a href=\"\/index.php?cat=6014\">please visit here<\/a>.\r\n",
+        "description": "This is an archive of prayers composed for the well-being and safety of active and veteran military personnel.\r\n\r\nIf you have composed a prayer for military personnel, please <a href=\"\/contribute\/upload\">share it here<\/a>.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers composed for, or relevant to, US Veterans Day, <a href=\"\/index.php?cat=5849\">go here<\/a>.\r\n\r\nFor an archive of special readings for US Veterans Day, <a href=\"\/index.php?cat=5850\">go here<\/a>.\r\n\r\nFor prayers composed for or relevant to Memorial Day in the United States, <a href=\"\/index.php?cat=3068\">please visit here<\/a>.\r\n\r\nFor public readings selected for Memorial Day in the United States, <a href=\"\/index.php?cat=3626\">please visit here<\/a>.\r\n\r\nFor readings prepared for use on Yom haZikaron in the State of Israel, <a href=\"\/index.php?cat=6014\">please visit here<\/a>.\r\n\r\nFor siddurim compiled for use by active military personnel, <a href=\"\/index.php?cat=6938\">go here<\/a>.\r\n",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2014\/07\/14495159079_eb87521664_b.jpg",
             "title": "14495159079_eb87521664_b",
@@ -11967,7 +12027,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 524,
-        "post_count": 51,
+        "post_count": 54,
         "post_ids": [
             66314,
             63296,
@@ -12006,6 +12066,9 @@
             65303,
             64938,
             31922,
+            67201,
+            67191,
+            67119,
             66504,
             66512,
             66063,
@@ -13989,8 +14052,9 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 3162,
-        "post_count": 4,
+        "post_count": 5,
         "post_ids": [
+            67147,
             43324,
             26170,
             26162,
@@ -14553,7 +14617,7 @@
         "name": "Pesaḥ Readings",
         "id": 3024,
         "stub": "hag-haaviv-readings",
-        "description": "This is an archive of public readings for Pesaḥ (Passover).\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a work or a transcription and translation of a historical work that you have prepared for public reading on Pesaḥ.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor a list of Haggadot for the Seder Pesaḥ, <a href=\"\/index.php?cat=1078\">go here<\/a>.\r\n\r\nFor an archive of prayers, songs, and other specific and related material for leil Pesaḥ, <a href=\"\/index.php?cat=2497\">go here<\/a>.\r\n\r\nFor a list of Maḥzorim for Pesaḥ, <a href=\"\/index.php?cat=4563\">go here<\/a>.\r\n\r\nFor prayers composed specifically for the 7th day of Pesaḥ, <a href=\"\/index.php?cat=2498\">go here<\/a>.",
+        "description": "This is an archive of public readings for Pesaḥ (Passover).\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a work or a transcription and translation of a historical work that you have prepared for public reading on Pesaḥ.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor a list of Haggadot for the Seder Pesaḥ, <a href=\"\/index.php?cat=1078\">go here<\/a>.\r\n\r\nFor an archive of prayers, songs, and other specific and related material for leil Pesaḥ, <a href=\"\/index.php?cat=2497\">go here<\/a>.\r\n\r\nFor prayers composed specifically for the 7th day of Pesaḥ, <a href=\"\/index.php?cat=2498\">go here<\/a>.",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2017\/01\/arthur-szyk-1894-1951--piesn-nad-piesniami-song-of-songs-frontispiece-c-1924-lodz-poland.png",
             "title": "arthur-szyk-1894-1951&#8211;piesn-nad-piesniami-song-of-songs-frontispiece-c-1924-lodz-poland",
@@ -15340,11 +15404,13 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 4035,
-        "post_count": 3,
+        "post_count": 5,
         "post_ids": [
             31096,
+            67241,
             49133,
-            55551
+            55551,
+            37748
         ],
         "term_order": 1,
         "hierarchical_id": "2.2.2.1",
@@ -17634,9 +17700,10 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 4045,
-        "post_count": 23,
+        "post_count": 24,
         "post_ids": [
             42592,
+            67241,
             9567,
             15325,
             37748,
@@ -17680,7 +17747,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 4045,
-        "post_count": 33,
+        "post_count": 34,
         "post_ids": [
             35786,
             18946,
@@ -17689,6 +17756,7 @@
             8984,
             19261,
             9252,
+            67241,
             9567,
             52475,
             52610,
@@ -18055,7 +18123,7 @@
         "name": "Comprehensive (Kol Bo) Siddurim",
         "id": 3041,
         "stub": "kol-bo",
-        "description": "",
+        "description": "This is a library of siddurim containing the Jewish liturgy for most, if not all, days in the Jewish year, and are especially useful as everyday travel companions for regular weekdays, rosh ḥodesh, and intermediary days within the pilgrimage festivals. \r\n\r\n<hr \/>",
         "featured_image": {
             "url": "",
             "title": "",
@@ -18156,7 +18224,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 3894,
-        "post_count": 44,
+        "post_count": 45,
         "post_ids": [
             62167,
             45767,
@@ -18176,6 +18244,7 @@
             29177,
             12061,
             66780,
+            67311,
             63237,
             11764,
             1355,
@@ -18212,7 +18281,7 @@
         "name": "Morning siddurim",
         "id": 3048,
         "stub": "morning-siddur",
-        "description": "",
+        "description": "This is an archive of siddurim prepared specifically for weekday mornings. Note that while the morning liturgy is found in the \"Kol bo\" siddurim, these editions often contain unique content and translations not found anywhere else.\r\n\r\n<hr \/>",
         "featured_image": {
             "url": "",
             "title": "",
@@ -18241,7 +18310,7 @@
         "name": "Weekday siddurim",
         "id": 3049,
         "stub": "weekday-siddur",
-        "description": "",
+        "description": "This is an archive of siddurim prepared specifically for weekdays (excluding shabbat and festivals). Note that while the weekday liturgy is found in the \"Kol bo\" siddurim, these editions often contain unique content and translations not found anywhere else.\r\n\r\n<hr \/>",
         "featured_image": {
             "url": "",
             "title": "",
@@ -18269,7 +18338,7 @@
         "name": "Bedtime Siddurim",
         "id": 6084,
         "stub": "bedtime-siddurim",
-        "description": "",
+        "description": "This is an archive of siddurim prepared specifically for private\/personal use at bedtime. Note that while the bedtime liturgy is found in the \"Kol bo\" siddurim, these editions often contain unique content and translations not found anywhere else.\r\n\r\n<hr \/>",
         "featured_image": {
             "url": "",
             "title": "",
@@ -18290,10 +18359,10 @@
         "complementary_cat_id": []
     },
     {
-        "name": "Rosh Ḥodesh",
+        "name": "Rosh Ḥodesh Siddurim",
         "id": 6083,
         "stub": "rosh-hodesh-siddurim",
-        "description": "",
+        "description": "This is an archive of siddurim prepared specifically for Rosh Ḥodesh, containing Hallel and any special readings for the day of the new moon. Note that while the rosh ḥodesh liturgy is found in the \"Kol bo\" siddurim, these editions often contain unique content and translations not found anywhere else.\r\n\r\n<hr \/>",
         "featured_image": {
             "url": "",
             "title": "",
@@ -18320,7 +18389,7 @@
         "name": "Children's Prayerbooks",
         "id": 6962,
         "stub": "childrens-prayerbooks",
-        "description": "",
+        "description": "This is an archive of siddurim prepared just for children of all ages to accustom them to the practice of regular prayer and to some of the most familiar prayers and intentions prior to their initiation to the full matbéa of prayer sometime before their bnei mitsvah. These children's prayerbooks and services often markedly differ based on the religious ideology and pedagogical choices of their authors, and may content resources of interest to even adult practitioners. \r\n\r\n<hr \/>",
         "featured_image": {
             "url": "",
             "title": "",
@@ -18895,7 +18964,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 238,
-        "post_count": 12,
+        "post_count": 13,
         "post_ids": [
             25938,
             25960,
@@ -18904,6 +18973,7 @@
             49019,
             11528,
             8272,
+            67307,
             26294,
             51735,
             47487,
@@ -18992,7 +19062,7 @@
         "name": "Seder Leil Pesaḥ Sheni",
         "id": 3605,
         "stub": "seder-pesah-sheni",
-        "description": "",
+        "description": "This is a mostly aspirational archive for haggadot compiled for the celebration of the Pesaḥ Sheni on the evening of the 14th of Iyyar, as described in Numbers 9:6-13 and <a href=\"http:\/\/www.sefaria.org\/Mishnah_Pesachim.9.1-3?lang=bi&amp;with=all&amp;lang2=en\">Mishnah Pesaḥim 9:1-3<\/a>.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers composed for Pesaḥ Sheni, <a href=\"\/index.php?cat=1619\">go here<\/a>.",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2019\/05\/haggadah-pesah-sheni-featured-image.png",
             "title": "haggadah-pesah-sheni-featured-image",
