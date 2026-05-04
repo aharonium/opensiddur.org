@@ -118,7 +118,6 @@ function custom_category_grid_shortcode($atts) {
     }
 
     $output .= '</div>'; // End custom-category-grid
-
     return $output;
 }
 add_shortcode('custom_category_grid', 'custom_category_grid_shortcode');
