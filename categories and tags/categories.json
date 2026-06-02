@@ -333,8 +333,9 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 6706,
-        "post_count": 3,
+        "post_count": 4,
         "post_ids": [
+            21633,
             39363,
             58965,
             60972
@@ -1434,11 +1435,12 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 387,
-        "post_count": 39,
+        "post_count": 40,
         "post_ids": [
             53388,
             45494,
             44362,
+            66913,
             60058,
             16080,
             21390,
@@ -2862,10 +2864,9 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 3391,
-        "post_count": 12,
+        "post_count": 11,
         "post_ids": [
             37171,
-            66913,
             19949,
             10867,
             2943,
@@ -4379,8 +4380,9 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 2497,
-        "post_count": 2,
+        "post_count": 3,
         "post_ids": [
+            67468,
             66541,
             55334
         ],
@@ -4404,7 +4406,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 2497,
-        "post_count": 30,
+        "post_count": 31,
         "post_ids": [
             66886,
             60366,
@@ -4422,6 +4424,7 @@
             24501,
             8785,
             3089,
+            67468,
             66541,
             36222,
             61806,
@@ -4792,18 +4795,18 @@
         "name": "Shavuot",
         "id": 400,
         "stub": "shavuot",
-        "description": "This is an archive of prayers written for <a href=\"https:\/\/en.wikipedia.org\/wiki\/Shavuot\">Shavuot<\/a>, the festival of first fruit offerings.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a prayer you have written, or a historic prayer you have transcribed and translated for Shavuot.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor public readings on Shavuot, <a href=\"\/index.php?cat=3021\">visit here<\/a>.",
+        "description": "This is an archive of prayers written for <span class=\"hebrew\">שָׁבוּעוֹת<\/span> <a href=\"https:\/\/en.wikipedia.org\/wiki\/Shavuot\">Shavuōt<\/a> (a\/k\/a Pentecost), the festival upon which twin loaves of processed grain loaves were elevated\/waved as offerings in the Temple, expressing gratitude for the first produce of the barley\/wheat harvest of the spring season in the Land of Israel. \r\n\r\nThe first work to make the connection between the festival and the granting of the Torah is in the parabilblical work from the Second Temple Period, Sefer ha-Yovelim (the Book of Jubilees), chapter 6:15-22 —\r\n\"And [Hashem] gave a sign to Noaḥ and his children that there should not again be a flood upon the earth. [Hashem] set his [rain]bow in the clouds for a sign of the covenant which is forever, that the water of the Flood should therefore not be upon the earth to destroy it all of the days of the earth. Therefore, it is ordained and written in the heavenly tablets that [the children of Yisrael] should observe the feast of Shevuot in this month, once per year, in order to renew the covenant in all (respects), year by year. And all of this feast was celebrated in heaven from the day of creation until the days of Noaḥ, twenty-six jubilees and five weeks of years. And Noaḥ and his children kept it for seven jubilees and one week of years until the day of the death of Noaḥ. And from the day of the death of Noaḥ, his sons corrupted it until the days of Avraham, and they ate blood. But Avraham alone kept it. And Yitsḥaq and Yaaqov and his sons kept it until your days, but in your days the children of Yisrael forgot it until you renewed it for them on this mountain. And you, command the children of Israel so that they might keep this feast in all of their generations as a commandment to them. One day per year in this month they shall celebrate the feast, for it is the feast of Shevuot [oaths] and it is the feast of the first fruits. This feast is twofold and of two natures. Just as it is written and engraved concerning it, observe it. This is because I have written it in the book of the first law, which I wrote for you, so that you might observe it in each of its appointed times, one day per year. And I have told you its sacrificial offering so that the children of Israel might remember them and observe them in their generations in this month one day each year.\" (translation after the surviving Ge'ez text by O.S. Wintermute, from J. Charlesworth’s O.T. Pseudepigrapha)\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a prayer you have written, or a historic prayer you have transcribed and translated for Shavuot.\r\n\r\n<hr \/>",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2018\/09\/Sifrei-Torah-Yossi-Rosenstein.png",
             "title": "Sifrei Torah (Yossi Rosenstein)",
-            "caption": "Sifrei Torah (Yossi Rosenstein)"
+            "caption": "A symbolic representation of Har Sinai as a set of Ḥumashim by the artist Yossi Rosenstein"
         },
         "permalink": "https:\/\/opensiddur.org\/shared\/prayers\/lunisolar\/pilgrimage\/shavuot\/",
         "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=400",
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 395,
-        "post_count": 57,
+        "post_count": 61,
         "post_ids": [
             61947,
             61820,
@@ -4834,6 +4837,7 @@
             55294,
             60085,
             38002,
+            67585,
             50901,
             56740,
             64269,
@@ -4858,6 +4862,9 @@
             31689,
             44783,
             61666,
+            67560,
+            67552,
+            67565,
             65853,
             65827,
             61865,
@@ -7138,7 +7145,7 @@
         "name": "&#x1f1fa;&#x1f1f8; Memorial Day (last Monday of May)",
         "id": 3068,
         "stub": "memorial-day",
-        "description": "This is an archive of prayers composed for, or relevant to, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Memorial_Day\">Memorial Day<\/a> in the United States, commemorated on the last Monday of May. Memorial Day is the day previously known as Decoration Day. The first national observance of Decoration Day occurred on 30 May 1868 after having been proclaimed by Commander in Chief John A. Logan of the Grand Army of the Republic to honor the Union soldiers who had died in the Civil War. In 1971, Congress changed its observance to the last Monday in May and officially renamed the day \"Memorial Day,\" a day of remembrance for all members of the U.S. military who fought and died in service. \r\n\r\nIf you have composed a prayer or prayer-poem for Memorial Day, please <a href=\"\/contribute\/upload\">share it here<\/a>.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor public readings selected for Memorial Day in the United States, <a href=\"\/index.php?cat=3626\">please visit here<\/a>.\r\n\r\nFor prayers offered for the well-being of Military Personnel &amp; Veterans, including the Israeli Defense Forces (<span class=\"hebrew\">צה״ל<\/span>), <a href=\"\/index.php?cat=1257\">please visit here<\/a>.\r\n\r\nFor prayers composed for, or relevant to, Armistice\/Veterans Day in the United States, <a href=\"\/index.php?cat=3115\">go here<\/a>.\r\n\r\nFor an archive of special readings for the Armistice\/Veterans Day, <a href=\"\/index.php?cat=3723\">go here<\/a>.",
+        "description": "This is an archive of prayers composed for, or relevant to, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Memorial_Day\">Memorial Day<\/a> in the United States, commemorated on the last Monday of May. Memorial Day is the day previously known as Decoration Day. The first national observance of Decoration Day occurred on 30 May 1868 after having been proclaimed by Commander in Chief John A. Logan of the Grand Army of the Republic to honor the Union soldiers who had died in the Civil War. In 1971, Congress changed its observance to the last Monday in May and officially renamed the day \"Memorial Day,\" a day of remembrance for all members of the U.S. military who fought and died in service. \r\n\r\nIf you have composed a prayer or prayer-poem for Memorial Day, please <a href=\"\/contribute\/upload\">share it here<\/a>.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers offered for the well-being of Military Personnel &amp; Veterans, including the Israeli Defense Forces (<span class=\"hebrew\">צה״ל<\/span>), <a href=\"\/index.php?cat=1257\">please visit here<\/a>.\r\n\r\nFor prayers composed for, or relevant to, Armistice\/Veterans Day in the United States, <a href=\"\/index.php?cat=3115\">go here<\/a>.\r\n\r\nFor an archive of special readings for the Armistice\/Veterans Day, <a href=\"\/index.php?cat=3723\">go here<\/a>.",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2025\/04\/us-flags-line-arlington-national-cemetery.jpg",
             "title": "US flags line Arlington National Cemetery",
@@ -7149,7 +7156,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 3037,
-        "post_count": 13,
+        "post_count": 14,
         "post_ids": [
             37295,
             37138,
@@ -7163,7 +7170,8 @@
             37089,
             25329,
             23708,
-            55950
+            55950,
+            49931
         ],
         "term_order": 12,
         "hierarchical_id": "1.3.4.12",
@@ -7399,13 +7407,12 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 3037,
-        "post_count": 6,
+        "post_count": 5,
         "post_ids": [
             47267,
             34213,
             7478,
             54508,
-            49931,
             52335
         ],
         "term_order": 20,
@@ -7797,7 +7804,7 @@
         "complementary_cat_id": []
     },
     {
-        "name": "Dawlat Filasṭīn Civil Calendar",
+        "name": "&#x1f1f5;&#x1f1f8; Dawlat Filasṭīn Civil Calendar",
         "id": 3445,
         "stub": "dawlat-filastin-civil-calendar",
         "description": "This is an archive of prayers for, or relevant to, the meaning, commemoration, or celebration of civic days observed in the civil calendar of دولة فلسطين Dawlat Filasṭīn (the nascent self-governing regions of the Palestinian Authority under the aegis of the military authority of the State of Israel).\r\n\r\nHave you composed a prayer concerning, or in recognition of, a civic day on the civil calendar of the Palestinian Authority? Please <a href=\"\/contributing\/upload\/\">share it here<\/a>.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers offered for civic days on international civil calendars, <a href=\"\/index.php?cat=3036\">go here<\/a>.\r\n\r\nFor public readings prepared for civic days on all civil calendars, <a href=\"\/index.php?cat=4035\">go here<\/a>.\r\n\r\nFor prayers offered for civic days on the civil calendar of the State of Israel, <a href=\"\/index.php?cat=3052\">go here<\/a>.",
@@ -7821,7 +7828,7 @@
         "complementary_cat_id": []
     },
     {
-        "name": "Nakba Day (15 May)",
+        "name": "&#x1f1f5;&#x1f1f8; Nakba Day (15 May)",
         "id": 1249,
         "stub": "nakba-day",
         "description": "This is an archive of prayers composed for, or relevant to, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Nakba_Day\">Nakba Day<\/a> (Arabic: يوم النكبة Yawm an-Nakba, meaning \"Day of the Catastrophe\"), an annual day of mourning for the displacement of Palestinian Arabs following the Israeli Declaration of Independence in 1948. The day, inaugurated by Yasser Arafat in 1998, is generally commemorated annually on 15 May (the day after David ben Gurion officially read the Proclamation of the Establishment of the State of Israel).\r\n\r\n☞ If you have written a prayer for Nakba Day, please <a href=\"\/contribute\/upload\">share it<\/a>.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor prayers offered composed for, or relevant to, conflicts over sovereignty and dispossession, <a href=\"\/index.php?cat=781\">go here<\/a>.\r\n\r\nFor prayers composed for, or relevant to Yom ha-Atsma'ut in the civil calendar of the State of Israel, <a href=\"\/index.php?cat=1239\">go here<\/a>.",
@@ -7886,7 +7893,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 5160,
-        "post_count": 16,
+        "post_count": 17,
         "post_ids": [
             20423,
             40919,
@@ -7896,6 +7903,7 @@
             39976,
             42621,
             42611,
+            67585,
             50901,
             65752,
             65743,
@@ -8289,8 +8297,9 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 2632,
-        "post_count": 40,
+        "post_count": 41,
         "post_ids": [
+            67620,
             63200,
             44996,
             10753,
@@ -10259,13 +10268,13 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 776,
-        "post_count": 453,
+        "post_count": 454,
         "post_ids": [
-            67456,
-            67449,
             67437,
+            67449,
             63296,
             61704,
+            67456,
             59702,
             58387,
             58358,
@@ -10649,6 +10658,7 @@
             3502,
             64870,
             57163,
+            67475,
             24406,
             57191,
             54302,
@@ -10794,9 +10804,9 @@
         "parent_id": 776,
         "post_count": 368,
         "post_ids": [
-            67456,
-            67449,
             67437,
+            67449,
+            67456,
             58358,
             57664,
             57407,
@@ -11484,11 +11494,12 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 778,
-        "post_count": 4,
+        "post_count": 5,
         "post_ids": [
             18093,
             2788,
             51766,
+            67483,
             57395
         ],
         "term_order": 5,
@@ -13973,8 +13984,9 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 3162,
-        "post_count": 3,
+        "post_count": 4,
         "post_ids": [
+            67639,
             25831,
             25837,
             32654
@@ -14738,7 +14750,7 @@
         "name": "Shavuot Readings",
         "id": 3021,
         "stub": "shavuot-readings",
-        "description": "This is an archive of public readings on Shavuot, the festival of first fruit offerings.\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a reading you have prepared for Shavuot.\r\n\r\n<hr \/>",
+        "description": "This is an archive of prayers written for <span class=\"hebrew\">שָׁבוּעוֹת<\/span> <a href=\"https:\/\/en.wikipedia.org\/wiki\/Shavuot\">Shavuōt<\/a> (a\/k\/a Pentecost), the festival upon which twin loaves of processed grain loaves were elevated\/waved as offerings in the Temple, expressing gratitude for the first produce of the barley\/wheat harvest of the spring season in the Land of Israel. The theme of circumscribing predatory behavior and manifesting a just society through virtuous actions is expressed in the verse (Leviticus 23:22) concerning gleaning that immediately follows the agricultural rituals connected with observing the season and the Pesaḥ and Shavuot festivals.\r\n\r\nThe first work to make the connection between the festival and the granting of the Torah is in the parabilblical work from the Second Temple Period, Sefer ha-Yovelim (the Book of Jubilees), chapter 6:15-22 —\r\n\"And [Hashem] gave a sign to Noaḥ and his children that there should not again be a flood upon the earth. [Hashem] set his [rain]bow in the clouds for a sign of the covenant which is forever, that the water of the Flood should therefore not be upon the earth to destroy it all of the days of the earth. Therefore, it is ordained and written in the heavenly tablets that [the children of Yisrael] should observe the feast of Shevuot in this month, once per year, in order to renew the covenant in all (respects), year by year. And all of this feast was celebrated in heaven from the day of creation until the days of Noaḥ, twenty-six jubilees and five weeks of years. And Noaḥ and his children kept it for seven jubilees and one week of years until the day of the death of Noaḥ. And from the day of the death of Noaḥ, his sons corrupted it until the days of Avraham, and they ate blood. But Avraham alone kept it. And Yitsḥaq and Yaaqov and his sons kept it until your days, but in your days the children of Yisrael forgot it until you renewed it for them on this mountain. And you, command the children of Israel so that they might keep this feast in all of their generations as a commandment to them. One day per year in this month they shall celebrate the feast, for it is the feast of Shevuot [oaths] and it is the feast of the first fruits. This feast is twofold and of two natures. Just as it is written and engraved concerning it, observe it. This is because I have written it in the book of the first law, which I wrote for you, so that you might observe it in each of its appointed times, one day per year. And I have told you its sacrificial offering so that the children of Israel might remember them and observe them in their generations in this month one day each year.\" (translation after the surviving Ge'ez text by O.S. Wintermute, from J. Charlesworth’s O.T. Pseudepigrapha)\r\n\r\n<a href=\"\/contribute\/upload\">Click here<\/a> to contribute a reading you have prepared for Shavuot.\r\n\r\n<hr \/>",
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2016\/06\/Julius_Schnorr_von_Carolsfeld-_Ruth_im_Feld_des_Boaz.jpg",
             "title": "Julius_Schnorr_von_Carolsfeld-_Ruth_im_Feld_des_Boaz",
@@ -14749,7 +14761,7 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 4036,
-        "post_count": 14,
+        "post_count": 16,
         "post_ids": [
             65861,
             37102,
@@ -14761,7 +14773,9 @@
             56750,
             13605,
             23422,
+            67503,
             23383,
+            67513,
             26741,
             31537,
             31533
@@ -17549,8 +17563,9 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 4045,
-        "post_count": 31,
+        "post_count": 32,
         "post_ids": [
+            67639,
             29769,
             48146,
             29788,
@@ -18134,13 +18149,14 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 3894,
-        "post_count": 67,
+        "post_count": 68,
         "post_ids": [
             51192,
             19550,
             1450,
             64490,
             62979,
+            67569,
             27810,
             61981,
             62870,
@@ -18622,13 +18638,14 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 2104,
-        "post_count": 33,
+        "post_count": 34,
         "post_ids": [
             46954,
             47900,
             38896,
             31701,
             14388,
+            67527,
             62705,
             63243,
             17333,
@@ -18748,9 +18765,10 @@
         "subcategory_count": 0,
         "subcategories": [],
         "parent_id": 3867,
-        "post_count": 14,
+        "post_count": 15,
         "post_ids": [
             62167,
+            67608,
             62683,
             27686,
             15128,
@@ -18779,9 +18797,9 @@
         "stub": "sukkot-mahzorim",
         "description": "This is an archive of digital scans of maḥzorim (festival prayer books) for the pilgrimage festival of Sukkot. Most have entered the Public Domain due to the expiration of their term of copyright. Some more recent maḥzorim have been shared by their creators or copyright stewards.\r\n\r\nHave you prepared a maḥzor or other liturgical resource for Sukkot? Please <a href=\"\/contribute\/upload\">share it here<\/a>. \r\n\r\nIf you would like recommendations on how to scan\/image a work in the Public Domain, in order to make its contents available for digital transcription, <a href=\"https:\/\/opensiddur.org\/help\/document-manuscript-imaging\/\">go here<\/a>.\r\n\r\n<hr \/>\r\n\r\n<em>Looking for something else?<\/em>\r\n\r\nFor liturgical readings on Shemini Atseret and Simḥat Torah, <a href=\"\/index.php?cat=3131\">go here<\/a>.\r\n\r\nFor prayers offered on Shemini Atseret and Simḥat Torah, <a href=\"\/index.php?cat=1359\">go here<\/a>.",
         "featured_image": {
-            "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2020\/10\/Siddur-Siftei-Tsadiqim-The-Form-of-Prayers-vol.-4-Seder-haTefilot-lHag-haSukkot-ed.-Isaac-Leeser-1837-title-page..png",
-            "title": "Siddur Siftei Tsadiqim The Form of Prayers vol. 4 &#8211; Seder haTefilot l&#8217;Hag haSukkot (ed. Isaac Leeser 1837) &#8211; title page.",
-            "caption": "Siddur Siftei Tsadiqim The Form of Prayers vol. 4 - Seder haTefilot l'Hag haSukkot (ed. Isaac Leeser 1837) - title page."
+            "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2019\/10\/Mahzor-Avodat-Ohel-Moed-Avodat-Hag-haSukkot-Arthur-Davis-and-Herbert-Adler-1908-title..png",
+            "title": "Mahzor Avodat Ohel Moed &#8211; Avodat Hag haSukkot (Arthur Davis and Herbert Adler 1908) &#8211; title.",
+            "caption": "Mahzor Avodat Ohel Moed - Avodat Ḥag haSukkot (Arthur Davis and Herbert Adler 1908) - title."
         },
         "permalink": "https:\/\/opensiddur.org\/shared\/compilations\/liturgical\/mahzorim\/regalim\/sukkot-mahzorim\/",
         "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=4562",
@@ -19116,7 +19134,7 @@
         "featured_image": {
             "url": "https:\/\/opensiddur.org\/wp-content\/uploads\/2018\/09\/Sifrei-Torah-Yossi-Rosenstein.png",
             "title": "Sifrei Torah (Yossi Rosenstein)",
-            "caption": "Sifrei Torah (Yossi Rosenstein)"
+            "caption": "A symbolic representation of Har Sinai as a set of Ḥumashim by the artist Yossi Rosenstein"
         },
         "permalink": "https:\/\/opensiddur.org\/shared\/compilations\/table-guides-and-haggadot\/seder-leil-shavuot\/",
         "category_page_link": "https:\/\/opensiddur.org\/index.php?cat=5959",
