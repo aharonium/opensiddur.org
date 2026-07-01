@@ -8,12 +8,12 @@ from tqdm import tqdm
 import time
 from urllib.parse import unquote, urlparse
 
-# Constants. Replace the domain name for your context
-BASE_URL = 'https://[domain_name]/wp-admin/admin-post.php'
+# Constants
+BASE_URL = 'https://your-site/wp-admin/admin-post.php' #point this to your admin-post.php endpoint
 EXPORT_JSON_ACTION = 'export_json'
 EXPORT_ALL_IDS_ACTION = 'export_all_ids'
 HEADERS = {'User-Agent': 'Mozilla/5.0'}
-RETRY_LIMIT = 5  # Number of retry attempts
+RETRY_LIMIT = 100000  # Number of retry attempts
 RETRY_DELAY = 5  # Delay between retries in seconds
 REQUEST_DELAY = 1  # Delay between consecutive requests in seconds
 

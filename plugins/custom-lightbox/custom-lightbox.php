@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Custom Lightbox2 Integration
  * Description: Adds Lightbox2 support for linked images in posts, including optional captions from alt attributes.
- * Version: 1.1
+ * Version: 1.2
  * Author: Aharon Varady
  */
 
@@ -44,8 +44,9 @@ function custom_lightbox2_enqueue_scripts() {
                 if (captionNode) caption = captionNode.innerText.trim();
             }
 
-            if (!caption) {
-                var img = a.querySelector('img');
+            var img = a.querySelector('img');
+
+            if (!caption && img) {
                 var alt = img.getAttribute('alt');
                 if (alt) caption = alt.trim();
             }
@@ -55,9 +56,19 @@ function custom_lightbox2_enqueue_scripts() {
                 if (title) caption = title.trim();
             }
 
-            if (caption) a.setAttribute('data-title', caption);
+            if (!caption) {
+                var filename = a.href.split('/').pop().split('?')[0];
+
+                if (filename) {
+                    caption = filename;
+                }
+            }
+
+            if (caption) { 
+                a.setAttribute('data-title', caption);
+            }
         });
     });
-    JS
+JS
     );
 }

@@ -87,7 +87,13 @@ function cci_enqueue_assets() {
 
         // Update active state on alphabet filter buttons
         document.querySelectorAll("#" + tab + " .alphabet-filter button").forEach(btn => btn.classList.remove("active"));
-        document.querySelector(`#${tab} .alphabet-filter button[data-letter="${letter}"]`).classList.add("active");
+        const activeButton = document.querySelector(
+            `#${tab} .alphabet-filter button[data-letter="${letter}"]`
+        );
+
+        if (activeButton) {
+            activeButton.classList.add("active");
+        }
     }
     
     // Automatically filter "A" on Active tab on page load
@@ -96,9 +102,13 @@ function cci_enqueue_assets() {
     });
     </script>';
 }
-add_action('wp_head', 'cci_enqueue_assets');
+// add_action('wp_head', 'cci_enqueue_assets');
 
 function cci_render_contributors_index() {
+    
+    ob_start();
+    cci_enqueue_assets();
+    
     // Transient check (early return if cached)
     $cache_key = 'cci_rendered_index_html';
     $cached_html = get_transient($cache_key);
@@ -146,7 +156,6 @@ function cci_render_contributors_index() {
     // Alphabet array
     $alphabet = range('A', 'Z');
 
-    ob_start();
     echo '<div class="contributors-index">';
     
     // Tabs
