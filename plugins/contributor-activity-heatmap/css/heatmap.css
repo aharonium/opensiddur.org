@@ -23,11 +23,57 @@
     gap: 10px;
 }
 
+/* Year label + link inside the SVG nav row */
+.heatmap-year-nav-label {
+    font-weight: bold;
+    fill: var(--heatmap-year-color, #365DA0);
+}
+
+a:hover > .heatmap-year-nav-label {
+    fill: var(--heatmap-year-hover-color, #365DA0);
+    text-decoration: underline;
+}
+
+/* Prev/next year arrows inside the SVG nav row */
+.heatmap-nav-arrow {
+    font-weight: bold;
+    cursor: pointer;
+    fill: var(--heatmap-nav-color, #333333);
+}
+
+.heatmap-nav-arrow:hover {
+    fill: var(--heatmap-nav-hover-color, #0056b3);
+}
+
+.heatmap-nav-arrow--disabled {
+    fill: var(--heatmap-muted-color, #999999);
+    cursor: default;
+    pointer-events: none;
+}
+
 .month-label {
     font-size: 12px;
-    fill: #555;
-    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Clickable months (link to the month archive) */
+.month-label--active {
+    fill: var(--heatmap-link-color, #365DA0);
     cursor: pointer;
+    font-weight: bold;
+}
+
+.month-label--active:hover {
+    text-decoration: underline;
+    fill: var(--heatmap-link-hover-color, #365DA0);
+    font-weight: bold;
+}
+
+/* Future months (not yet clickable) */
+.month-label--future {
+    fill: var(--heatmap-muted-color, #999999);
+    text-decoration: none;
+    cursor: default;
 }
 
 .heatmap-year-label {
@@ -37,8 +83,8 @@
 }
 
 .heatmap-year-label a {
-    text-decoration: none;
-    color: #333;
+    /* text-decoration: none; */
+    /* color: #333; */
     font-weight: bold;
 }
 

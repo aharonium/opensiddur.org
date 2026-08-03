@@ -1,0 +1,527 @@
+<?php //Slider format functions
+//format=default
+function cf5_rps_wp_init_default() {
+    global $cf5_rps;
+
+    if ( ! is_array( $cf5_rps ) ) {
+        return;
+    }
+
+    if ( empty( $cf5_rps['stylesheet'] ) ) {
+        return;
+    }
+
+    $css = 'styles/' . $cf5_rps['stylesheet'] . '/style.css';
+
+    wp_enqueue_style(
+        'cf5_rps_css',
+        cf5_rps_url( $css ),
+        false,
+        CF5_RPS_VER,
+        'all'
+    );
+
+    wp_enqueue_script(
+        'cf5_easing',
+        cf5_rps_url( 'js/jquery.easing.1.3.js' ),
+        array( 'jquery' ),
+        CF5_RPS_VER,
+        true
+    );
+
+    wp_enqueue_script(
+        'cf5_rps',
+        cf5_rps_url( 'js/cf5.rps.js' ),
+        array( 'cf5_easing' ),
+        CF5_RPS_VER,
+        true
+    );
+}
+
+function cf5_rps_wp_head_default() {
+    global $cf5_rps;
+
+    if ( ! is_array( $cf5_rps ) ) {
+        return;
+    }
+
+    if ( empty( $cf5_rps['stylesheet'] ) || $cf5_rps['stylesheet'] !== 'default' ) {
+        return;
+    }
+
+    ?>
+    <style type="text/css">
+    .rps_sldrtitle{
+        font-family:<?php echo $cf5_rps['stitle_font'] ?? ''; ?>;
+        font-size:<?php echo (int) ($cf5_rps['stitle_size'] ?? 0); ?>px;
+        font-weight:<?php echo $cf5_rps['stitle_weight'] ?? ''; ?>;
+        font-style:<?php echo $cf5_rps['stitle_style'] ?? ''; ?>;
+        <?php if ( ! empty( $cf5_rps['stitle_color'] ) ) { ?>
+            color:<?php echo $cf5_rps['stitle_color']; ?>;
+        <?php } ?>
+    }
+
+    .rps_wrapper{
+        height:<?php echo (int) ($cf5_rps['height'] ?? 0); ?>px;
+        <?php if ( ! empty( $cf5_rps['bgcolor'] ) ) { ?>
+            background:<?php echo $cf5_rps['bgcolor']; ?>;
+        <?php } ?>
+        <?php if ( ! empty( $cf5_rps['pcontent_color'] ) ) { ?>
+            color:<?php echo $cf5_rps['pcontent_color']; ?>;
+        <?php } ?>
+        border:<?php echo (int) ($cf5_rps['obrwidth'] ?? 0); ?>px solid <?php echo $cf5_rps['obrcolor'] ?? 'transparent'; ?>;
+        font-family:<?php echo $cf5_rps['pcontent_font'] ?? ''; ?>;
+        font-size:<?php echo (int) ($cf5_rps['pcontent_size'] ?? 0); ?>px;
+        line-height:<?php echo (int) (($cf5_rps['pcontent_size'] ?? 0) + 4); ?>px;
+    }
+
+    img.rps_thumb{
+        width:<?php echo (int) ($cf5_rps['img_width'] ?? 100); ?>% !important;
+        max-height:<?php echo (int) ($cf5_rps['img_height'] ?? 0); ?>px !important;
+        <?php
+        if ( ($cf5_rps['img_align'] ?? '') === 'left' ) {
+            echo 'float:left;margin:0 5px 5px 0 !important;';
+        } elseif ( ($cf5_rps['img_align'] ?? '') === 'right' ) {
+            echo 'float:right;margin:0 0 5px 5px !important;';
+        }
+        ?>
+    }
+    </style>
+    <?php
+}
+
+function cf5_rps_wp_footer_default() {
+    global $cf5_rps;
+
+    if ( ! is_array( $cf5_rps ) ) {
+        return;
+    }
+
+    $height = isset( $cf5_rps['height'] ) ? (int) $cf5_rps['height'] : 0;
+    ?>
+    <script type="text/javascript">
+        var rps_ht = <?php echo $height; ?>;
+    </script>
+    <?php
+}
+
+function cf5_rps_default( $echo = true, $rps_posts = array() ) {
+    global $post, $cf5_rps, $rps_slider_shown, $wpdb, $table_prefix;
+
+    if ( empty( $rps_posts ) || $rps_slider_shown || ! is_array( $cf5_rps ) ) {
+        return;
+    }
+
+    $slider = '<div class="rps_wrapper"><div id="rps_preview" class="rps_preview">';
+
+    /* ---------- Image selection ---------- */
+    $img_pick = $cf5_rps['img_pick'] ?? array();
+
+    $custom_key = ( ! empty( $img_pick[0] ) && $img_pick[0] === '1' && ! empty( $img_pick[1] ) )
+        ? array( $img_pick[1] )
+        : '';
+
+    $the_post_thumbnail = ( ! empty( $img_pick[2] ) && $img_pick[2] === '1' );
+    $attachment         = ( ! empty( $img_pick[3] ) && $img_pick[3] === '1' );
+    $order_of_image     = $attachment && ! empty( $img_pick[4] ) ? $img_pick[4] : '1';
+    $image_scan         = ( ! empty( $img_pick[5] ) && $img_pick[5] === '1' );
+
+    /* ---------- Image size ---------- */
+    switch ( $cf5_rps['crop'] ?? '' ) {
+        case '0': $extract_size = 'full'; break;
+        case '1': $extract_size = 'large'; break;
+        case '2': $extract_size = 'medium'; break;
+        default:  $extract_size = 'thumbnail';
+    }
+
+    $gti_width = false;
+    $i = 0;
+
+    foreach ( $rps_posts as $post_id ) {
+        $topstyle = ( $i === 0 ) ? 'style="top:3px;"' : '';
+
+        $result = $wpdb->get_results(
+            $wpdb->prepare(
+                "SELECT * FROM {$table_prefix}posts WHERE ID = %d LIMIT 1",
+                $post_id
+            )
+        );
+
+        if ( empty( $result ) ) {
+            $i++;
+            continue;
+        }
+
+        $rps_post = $result[0];
+        $permalink = get_permalink( $post_id );
+
+        $img_args = array(
+            'custom_key'          => $custom_key,
+            'post_id'             => $post_id,
+            'attachment'          => $attachment,
+            'size'                => $extract_size,
+            'the_post_thumbnail'  => $the_post_thumbnail,
+            'default_image'       => false,
+            'order_of_image'      => $order_of_image,
+            'link_to_post'        => false,
+            'image_class'         => 'rps_thumb',
+            'image_scan'          => $image_scan,
+            'width'               => $gti_width,
+            'height'              => false,
+            'echo'                => false,
+            'permalink'           => ''
+        );
+
+        /* ---------- Content ---------- */
+        $pcontent = $rps_post->post_content ?? '';
+
+        if ( ( $cf5_rps['pcontent_from'] ?? '' ) === 'preview_content' ) {
+            $pcontent = get_post_meta( $post_id, 'preview_content', true );
+        } elseif ( ( $cf5_rps['pcontent_from'] ?? '' ) === 'excerpt' ) {
+            $pcontent = $rps_post->post_excerpt ?? '';
+        }
+
+        $pcontent = strip_shortcodes( $pcontent );
+        $pcontent = stripslashes( $pcontent );
+        $pcontent = str_replace( ']]>', ']]&gt;', $pcontent );
+        $pcontent = str_replace( "\n", '<br />', $pcontent );
+        $pcontent = strip_tags( $pcontent, $cf5_rps['allowable_tags'] ?? '' );
+
+        if ( ! empty( $cf5_rps['pcontent_words'] ) ) {
+            $pcontent = cf5_rps_word_limiter( $pcontent, (int) $cf5_rps['pcontent_words'] );
+        }
+
+        $more = ( empty( $cf5_rps['no_more'] ) )
+            ? '<a href="' . esc_url( $permalink ) . '" target="' . esc_attr( $cf5_rps['target'] ?? '_self' ) . '" class="rps_more">' . ( $cf5_rps['more'] ?? '' ) . '</a>'
+            : '';
+
+        $slider .= '
+        <div class="rps_content" ' . $topstyle . '>
+            ' . cf5_rps_get_the_image( $img_args ) . '
+            <div class="h1div"><a href="' . esc_url( $permalink ) . '">' . get_the_title( $post_id ) . '</a></div>
+            <div class="pdiv">' . $pcontent . '</div>
+            <div class="cf5_rps_cl"></div>
+            <div class="cf5_rps_cr"></div>
+            ' . $more . '
+        </div>';
+
+        $i++;
+    }
+
+    /* ---------- List / pager ---------- */
+    $slider .= '</div><div id="rps_list" class="rps_list">';
+    $i = 0;
+    $page_close = '';
+
+    foreach ( $rps_posts as $post_id ) {
+        $ltitle = get_the_title( $post_id );
+
+        if ( ! empty( $cf5_rps['ltitle_words'] ) ) {
+            $ltitle = cf5_rps_word_limiter( $ltitle, (int) $cf5_rps['ltitle_words'], false );
+        }
+
+        if ( $i % ( $cf5_rps['per_page'] ?? 1 ) === 0 ) {
+            $page_close = '</div>';
+            $slider .= '<div class="rps_page"' . ( $i === 0 ? ' style="display:block;"' : '' ) . '>';
+        }
+
+        $selected = ( $i === 0 ) ? 'selected' : '';
+
+        $slider .= '<div class="rps_item ' . $selected . '"><div class="h2div">' . $ltitle . '</div></div>';
+
+        if ( $i % ( $cf5_rps['per_page'] ?? 1 ) === ( ( $cf5_rps['per_page'] ?? 1 ) - 1 ) ) {
+            $slider .= '</div>';
+        }
+
+        $i++;
+    }
+
+    $slider .= '</div>
+        <div class="rps_nav">
+            <a id="rps_prev" class="rps_prev disabled"></a>
+            <a id="rps_next" class="rps_next"></a>
+        </div>
+    </div></div>';
+
+    $sldr_title = '<div class="rps_sldrtitle">' . ( $cf5_rps['sldr_title'] ?? '' ) . '</div>';
+    $rpsslider  = '<div class="cf5_rps">' . $sldr_title . $slider . '</div>';
+
+    $rps_slider_shown = true;
+
+    if ( $echo ) {
+        echo $rpsslider;
+        return true;
+    }
+
+    return $rpsslider;
+}
+
+//format = h_carousel
+
+function cf5_rps_wp_init_h_carousel() {
+    global $cf5_rps;
+
+    if ( ! is_array( $cf5_rps ) ) {
+        return;
+    }
+
+    $format_style = ! empty( $cf5_rps['format_style'] )
+        ? $cf5_rps['format_style']
+        : 'default';
+
+    $css = 'formats/h_carousel/styles/' . $format_style . '/style.css';
+    $js  = 'formats/h_carousel/js/rps.js';
+
+    wp_enqueue_style(
+        'cf5_rps_h_carousel_css',
+        cf5_rps_url( $css ),
+        array(),
+        CF5_RPS_VER,
+        'all'
+    );
+
+    wp_enqueue_script(
+        'cf5_rps_h_carousel_js',
+        cf5_rps_url( $js ),
+        array( 'jquery' ),
+        CF5_RPS_VER,
+        true
+    );
+}
+
+function cf5_rps_wp_head_h_carousel() {
+    global $cf5_rps;
+
+    if ( ! is_array( $cf5_rps ) ) {
+        return;
+    }
+
+    $per_page = isset( $cf5_rps['per_page'] ) ? (int) $cf5_rps['per_page'] : 1;
+    $scroll   = isset( $cf5_rps['scroll'] ) ? (int) $cf5_rps['scroll'] : 1;
+    ?>
+
+    <script type="text/javascript">
+    jQuery(document).ready(function($) {
+        var $carousel = $('#rps_hcarousel');
+        if ( ! $carousel.length || typeof $.fn.cf5Rps !== 'function' ) {
+            return;
+        }
+
+        $carousel.cf5Rps({
+            items: {
+                visible: <?php echo $per_page; ?>
+            },
+            scroll: {
+                items: <?php echo $scroll; ?>,
+                pauseOnHover: true
+            },
+            prev: {
+                button: "#rps_prev",
+                key: "left"
+            },
+            next: {
+                button: "#rps_next",
+                key: "right"
+            },
+            auto: 4000
+        });
+    });
+    </script>
+
+    <?php
+    if ( ( $cf5_rps['format_style'] ?? '' ) === 'default' ) :
+    ?>
+    <style type="text/css">
+    .rps_sldrtitle{
+        font-family:<?php echo $cf5_rps['stitle_font'] ?? ''; ?>;
+        font-size:<?php echo (int) ( $cf5_rps['stitle_size'] ?? 0 ); ?>px;
+        font-weight:<?php echo $cf5_rps['stitle_weight'] ?? ''; ?>;
+        font-style:<?php echo $cf5_rps['stitle_style'] ?? ''; ?>;
+        <?php if ( ! empty( $cf5_rps['stitle_color'] ) ) { ?>
+            color:<?php echo $cf5_rps['stitle_color']; ?>;
+        <?php } ?>
+    }
+
+    .rps_wrapper{
+        <?php if ( ! empty( $cf5_rps['bgcolor'] ) ) { ?>
+            background:<?php echo $cf5_rps['bgcolor']; ?>;
+        <?php } ?>
+        <?php if ( ! empty( $cf5_rps['ltitle_color'] ) ) { ?>
+            color:<?php echo $cf5_rps['ltitle_color']; ?>;
+        <?php } ?>
+        border:<?php echo (int) ( $cf5_rps['obrwidth'] ?? 0 ); ?>px solid <?php echo $cf5_rps['obrcolor'] ?? 'transparent'; ?>;
+        font-family:<?php echo $cf5_rps['ltitle_font'] ?? ''; ?>;
+        font-size:<?php echo (int) ( $cf5_rps['ltitle_size'] ?? 0 ); ?>px;
+        line-height:<?php echo (int) ( ( $cf5_rps['ltitle_size'] ?? 0 ) + 4 ); ?>px;
+    }
+
+    img.rps_thumb{
+        width:<?php echo (int) ( $cf5_rps['img_width'] ?? 0 ); ?>px !important;
+        height:<?php echo (int) ( $cf5_rps['img_height'] ?? 0 ); ?>px !important;
+        border:<?php echo (int) ( $cf5_rps['ibrwidth'] ?? 0 ); ?>px solid <?php echo $cf5_rps['ibrcolor'] ?? 'transparent'; ?>;
+        <?php
+        if ( ( $cf5_rps['img_align'] ?? '' ) === 'left' ) {
+            echo 'float:left;margin:0 5px 5px 0 !important;';
+        } elseif ( ( $cf5_rps['img_align'] ?? '' ) === 'right' ) {
+            echo 'float:right;margin:0 0 5px 5px !important;';
+        }
+        ?>
+    }
+
+    .rps_item{
+        <?php if ( ! empty( $cf5_rps['fgcolor'] ) ) { ?>
+            background:<?php echo $cf5_rps['fgcolor']; ?>;
+        <?php } ?>
+        width:<?php echo (int) ( $cf5_rps['hwidth'] ?? 0 ); ?>px;
+        height:<?php echo (int) ( $cf5_rps['height'] ?? 0 ); ?>px;
+    }
+
+    .rps_item a{
+        <?php if ( ! empty( $cf5_rps['ltitle_color'] ) ) { ?>
+            color:<?php echo $cf5_rps['ltitle_color']; ?> !important;
+        <?php } ?>
+    }
+
+    .rps_item a:hover,
+    .rps_item a:active{
+        <?php if ( ! empty( $cf5_rps['hvtext_color'] ) ) { ?>
+            color:<?php echo $cf5_rps['hvtext_color']; ?> !important;
+        <?php } ?>
+        <?php if ( ! empty( $cf5_rps['hvcolor'] ) ) { ?>
+            border-color:<?php echo $cf5_rps['hvcolor']; ?>;
+            background-color:<?php echo $cf5_rps['hvcolor']; ?>;
+        <?php } ?>
+    }
+    </style>
+    <?php endif;
+}
+
+
+/* function cf5_rps_wp_footer_h_carousel() {
+    // intentionally empty
+} */
+
+function cf5_rps_wp_footer_h_carousel() {
+    global $cf5_rps;
+
+    $base_url = plugin_dir_url( dirname( __FILE__ ) );
+    wp_enqueue_script(
+        'jquery-jcarousel',
+        $base_url . 'formats/h_carousel/js/jquery.jcarousel.min.js',
+        array('jquery'),
+        '0.3.9',
+        true
+    );
+
+    wp_enqueue_script(
+        'cf5-rps-h-carousel',
+        $base_url . 'formats/h_carousel/js/rps.js',
+        array('jquery', 'jquery-jcarousel'),
+        CF5_RPS_VER,
+        true
+    ); 
+}
+
+add_action( 'wp_footer', 'cf5_rps_wp_footer_h_carousel', 20 ); 
+
+
+
+function cf5_rps_h_carousel( $echo = true, $rps_posts = array() ) {
+    global $cf5_rps, $rps_slider_shown;
+
+    if ( empty( $rps_posts ) || $rps_slider_shown ) {
+        return;
+    }
+
+    $slider  = '<div class="rps_wrapper">';
+    $slider .= '<div id="rps_hcarousel" class="rps_instance">';
+
+    /* ---------- Image selection flags ---------- */
+
+    $custom_key         = ( ! empty( $cf5_rps['img_pick'][0] ) && $cf5_rps['img_pick'][0] === '1' )
+        ? array( $cf5_rps['img_pick'][1] )
+        : '';
+
+    $the_post_thumbnail = ! empty( $cf5_rps['img_pick'][2] ) && $cf5_rps['img_pick'][2] === '1';
+
+    $attachment         = ! empty( $cf5_rps['img_pick'][3] ) && $cf5_rps['img_pick'][3] === '1';
+    $order_of_image     = $attachment ? $cf5_rps['img_pick'][4] : '1';
+
+    $image_scan         = ! empty( $cf5_rps['img_pick'][5] ) && $cf5_rps['img_pick'][5] === '1';
+
+    /* ---------- Crop size ---------- */
+
+    switch ( (string) $cf5_rps['crop'] ) {
+        case '0': $extract_size = 'full';      break;
+        case '1': $extract_size = 'large';     break;
+        case '2': $extract_size = 'medium';    break;
+        default:  $extract_size = 'thumbnail'; break;
+    }
+
+    /* ---------- Loop posts ---------- */
+
+    foreach ( $rps_posts as $post_id ) {
+
+        $post_id = (int) $post_id;
+        if ( ! $post_id || ! get_post_status( $post_id ) ) {
+            continue;
+        }
+
+        $permalink = get_permalink( $post_id );
+        if ( ! $permalink ) {
+            continue;
+        }
+
+        $img_args = array(
+            'custom_key'        => $custom_key,
+            'post_id'           => $post_id,
+            'attachment'        => $attachment,
+            'size'              => $extract_size,
+            'the_post_thumbnail'=> $the_post_thumbnail,
+            'default_image'     => false,
+            'order_of_image'    => $order_of_image,
+            'link_to_post'      => false,
+            'image_class'       => 'rps_thumb',
+            'image_scan'        => $image_scan,
+            'width'             => (int) $cf5_rps['img_width'],
+            'height'            => (int) $cf5_rps['img_height'],
+            'echo'              => false,
+            'permalink'         => ''
+        );
+
+        $ltitle = get_the_title( $post_id );
+
+        $limit = (int) $cf5_rps['ltitle_words'];
+        if ( $limit > 0 ) {
+            $ltitle = cf5_rps_word_limiter( $ltitle, $limit, false );
+        }
+
+        $slider .=
+            '<div class="rps_item">' .
+                '<a href="' . esc_url( $permalink ) . '" target="' . esc_attr( $cf5_rps['target'] ) . '">' .
+                    cf5_rps_get_the_image( $img_args ) .
+                    '<br />' . esc_html( $ltitle ) .
+                '</a>' .
+            '</div>';
+    }
+
+    /* ---------- Controls ---------- */
+
+    $slider .= '</div>
+        <a class="rps_prev" id="rps_prev" href="#"><span>prev</span></a>
+        <a class="rps_next" id="rps_next" href="#"><span>next</span></a>
+    </div>';
+
+    $sldr_title = '<div class="rps_sldrtitle">' . esc_html( $cf5_rps['sldr_title'] ) . '</div>';
+    $rpsslider  = '<div class="cf5_rps">' . $sldr_title . $slider .
+                  '<div class="cf5_rps_cl"></div><div class="cf5_rps_cr"></div></div>';
+
+    $rps_slider_shown = true;
+
+    if ( $echo ) {
+        echo $rpsslider;
+        return true;
+    }
+
+    return $rpsslider;
+}

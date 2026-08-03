@@ -1,0 +1,61 @@
+.heatmap-tooltip {
+    position: absolute;
+    background: #222;
+    color: #fff;
+    padding: 5px 8px;
+    border-radius: 4px;
+    font-size: 12px;
+    z-index: 1000;
+    pointer-events: none;
+    white-space: nowrap;
+}
+
+.heatmap-version {
+    font-size: 10px;
+    color: #777;
+    margin-top: 6px;
+    text-align: right;
+}
+
+.heatmap-nav {
+    margin-top: 10px;
+    display: flex;
+    gap: 10px;
+}
+
+.month-label {
+    font-size: 12px;
+    fill: #555;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.month-label a {
+    /* text-decoration: none; */
+    /* color: #333; */
+    font-weight: bold;
+}
+
+.heatmap-year-label {
+    margin-top: 8px;
+    font-size: 13px;
+    text-align: center;
+}
+
+.heatmap-year-label a {
+    /* text-decoration: none; */
+    /* color: #333; */
+    font-weight: bold;
+}
+
+/*
+.heatmap-wrapper {
+    max-width: fit-content;
+    margin: 20px auto;
+    padding: 16px;
+    border: 1px solid #ccc;
+    border-radius: 12px;
+    background-color: #fafafa;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+}
+*/

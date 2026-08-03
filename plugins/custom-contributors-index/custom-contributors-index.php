@@ -132,6 +132,12 @@ function cci_render_contributors_index() {
         $role_label = $user['role_label'];
         $sibling_ids = $user['sibling_ids'] ?? [];
         $has_siblings = !empty($sibling_ids);
+        
+        // Skip users with no published posts
+        $post_count = (int) ($user['post_count'] ?? 0);
+        if ($post_count < 1) {
+            continue;
+        }
 
         // Only include one entry per sibling group
         if ($has_siblings && $role_label !== null) continue;

@@ -161,8 +161,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 const isFutureMonth = (year > now.getUTCFullYear()) || (year === now.getUTCFullYear() && monthIndex > now.getUTCMonth());
 
                 if (!isFutureMonth) {
-                    text.style.cursor = 'pointer';
-                    text.setAttribute('fill', '#0074D9');
+                    text.classList.add('month-label--active');
                     const postInMonth = yearData.find(p => new Date(p.post_date).getUTCMonth() === monthIndex);
                     const actualMonthYear = postInMonth ? new Date(postInMonth.post_date).getUTCFullYear() : year;
                     const monthPath = `https://opensiddur.org/${actualMonthYear}/${String(monthIndex + 1).padStart(2, '0')}/`;
@@ -182,8 +181,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         window.location.href = monthPath;
                     });
                 } else {
-                    text.setAttribute('fill', '#ccc');
-                    text.style.cursor = 'default';
+                    text.classList.add('month-label--future');
                 }
 
                 svg.appendChild(text);
@@ -214,45 +212,46 @@ document.addEventListener('DOMContentLoaded', () => {
         yearText.setAttribute('y', svgHeight - 5);
         yearText.setAttribute('text-anchor', 'middle');
         yearText.setAttribute('font-size', '14');
-        yearText.setAttribute('font-weight', 'bold');
-        yearText.setAttribute('fill', '#333');
+        yearText.classList.add('heatmap-year-nav-label');
         yearText.textContent = `${year} (${totalYearCount})`;
 
         yearLink.appendChild(yearText);
         navGroup.appendChild(yearLink);
 
+        const yearIndex = years.indexOf(currentYear);
+        const hasPrevYear = yearIndex - 1 >= 0;
+        const hasNextYear = yearIndex + 1 < years.length;
+
         const leftArrow = document.createElementNS(svgNS, 'text');
         leftArrow.setAttribute('x', leftArrowX);
         leftArrow.setAttribute('y', svgHeight - 5);
         leftArrow.setAttribute('font-size', '16');
-        leftArrow.setAttribute('fill', '#333');
-        leftArrow.setAttribute('font-weight', 'bold');
-        leftArrow.setAttribute('cursor', 'pointer');
+        leftArrow.classList.add('heatmap-nav-arrow');
         leftArrow.textContent = '←';
-        leftArrow.addEventListener('click', () => {
-            const prevIndex = years.indexOf(currentYear) - 1;
-            if (prevIndex >= 0) {
-                currentYear = years[prevIndex];
+        if (hasPrevYear) {
+            leftArrow.addEventListener('click', () => {
+                currentYear = years[yearIndex - 1];
                 renderHeatmap(currentYear);
-            }
-        });
+            });
+        } else {
+            leftArrow.classList.add('heatmap-nav-arrow--disabled');
+        }
         navGroup.appendChild(leftArrow);
 
         const rightArrow = document.createElementNS(svgNS, 'text');
         rightArrow.setAttribute('x', rightArrowX);
         rightArrow.setAttribute('y', svgHeight - 5);
         rightArrow.setAttribute('font-size', '16');
-        rightArrow.setAttribute('fill', '#333');
-        rightArrow.setAttribute('font-weight', 'bold');
-        rightArrow.setAttribute('cursor', 'pointer');
+        rightArrow.classList.add('heatmap-nav-arrow');
         rightArrow.textContent = '→';
-        rightArrow.addEventListener('click', () => {
-            const nextIndex = years.indexOf(currentYear) + 1;
-            if (nextIndex < years.length) {
-                currentYear = years[nextIndex];
+        if (hasNextYear) {
+            rightArrow.addEventListener('click', () => {
+                currentYear = years[yearIndex + 1];
                 renderHeatmap(currentYear);
-            }
-        });
+            });
+        } else {
+            rightArrow.classList.add('heatmap-nav-arrow--disabled');
+        }
         navGroup.appendChild(rightArrow);
 
         container.appendChild(svg);

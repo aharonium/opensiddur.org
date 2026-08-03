@@ -1,0 +1,478 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cf5_rps\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-04 14:52+0530\n"
+"PO-Revision-Date: 2011-02-04 14:52+0530\n"
+"Last-Translator: Tejaswini <tedeshpa@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../related-posts-slider.php:472
+msgid "Overall Slider Settings"
+msgstr ""
+
+#: ../related-posts-slider.php:476
+msgid "Related Posts Plugin to use"
+msgstr ""
+
+#: ../related-posts-slider.php:476
+msgid "(You need to install and activate the selected plugin in order to make RPS run.)"
+msgstr ""
+
+#: ../related-posts-slider.php:484
+msgid "Related Slider Format"
+msgstr ""
+
+#: ../related-posts-slider.php:484
+msgid "(If you select other than \"default\", click save to see correct options.)"
+msgstr ""
+
+#: ../related-posts-slider.php:488
+msgid "Save"
+msgstr ""
+
+#: ../related-posts-slider.php:493
+#: ../related-posts-slider.php:508
+msgid "Select the style for your Slider"
+msgstr ""
+
+#: ../related-posts-slider.php:505
+msgid "The CSS settings below are only applicable and visible in case you select \"default\" stylesheet."
+msgstr ""
+
+#: ../related-posts-slider.php:521
+msgid "The CSS settings below are only applicable and visible in case you select \"default\" style."
+msgstr ""
+
+#: ../related-posts-slider.php:524
+msgid "No. of Posts in one group of List Section/Visible Posts"
+msgstr ""
+
+#: ../related-posts-slider.php:529
+msgid "Slider Height"
+msgstr ""
+
+#: ../related-posts-slider.php:534
+msgid "Slider Background Color"
+msgstr ""
+
+#: ../related-posts-slider.php:535
+#: ../related-posts-slider.php:540
+#: ../related-posts-slider.php:545
+#: ../related-posts-slider.php:550
+#: ../related-posts-slider.php:560
+#: ../related-posts-slider.php:570
+#: ../related-posts-slider.php:602
+#: ../related-posts-slider.php:702
+#: ../related-posts-slider.php:757
+#: ../related-posts-slider.php:802
+msgid "Pick the color of your choice"
+msgstr ""
+
+#: ../related-posts-slider.php:535
+msgid "(If left empty, will pick inherited color)"
+msgstr ""
+
+#: ../related-posts-slider.php:539
+msgid "Slider Foregound Color"
+msgstr ""
+
+#: ../related-posts-slider.php:544
+msgid "Background Color for Hover Section"
+msgstr ""
+
+#: ../related-posts-slider.php:549
+msgid "Text Color For Hover Section"
+msgstr ""
+
+#: ../related-posts-slider.php:554
+msgid "Outer Border Thickness"
+msgstr ""
+
+#: ../related-posts-slider.php:559
+msgid "Outer Border Color"
+msgstr ""
+
+#: ../related-posts-slider.php:564
+msgid "Inner Border Thickness"
+msgstr ""
+
+#: ../related-posts-slider.php:569
+msgid "Inner Border Color"
+msgstr ""
+
+#: ../related-posts-slider.php:575
+msgid "Slider Title"
+msgstr ""
+
+#: ../related-posts-slider.php:579
+msgid "Slider Title Text"
+msgstr ""
+
+#: ../related-posts-slider.php:584
+#: ../related-posts-slider.php:739
+msgid "Title Font"
+msgstr ""
+
+#: ../related-posts-slider.php:601
+msgid "Slider Title Font Color"
+msgstr ""
+
+#: ../related-posts-slider.php:606
+msgid "Slider Title Font Size"
+msgstr ""
+
+#: ../related-posts-slider.php:611
+msgid "Slider Title Font Weight"
+msgstr ""
+
+#: ../related-posts-slider.php:620
+msgid "Slider Title Font Style"
+msgstr ""
+
+#: ../related-posts-slider.php:629
+msgid "Thumbnail Image"
+msgstr ""
+
+#: ../related-posts-slider.php:630
+msgid "Settings for the thumbnail image in Preview Section"
+msgstr ""
+
+#: ../related-posts-slider.php:634
+msgid "Image Pick Preferences"
+msgstr ""
+
+#: ../related-posts-slider.php:634
+msgid "(The first one is having priority over second, the second on third and so on. Atleast select one option!)"
+msgstr ""
+
+#: ../related-posts-slider.php:635
+msgid "Image Pick Sequence"
+msgstr ""
+
+#: ../related-posts-slider.php:635
+msgid "(The first one is having priority over second, the second having priority on third and so on)"
+msgstr ""
+
+#: ../related-posts-slider.php:636
+msgid "Use Custom Field/Key"
+msgstr ""
+
+#: ../related-posts-slider.php:637
+msgid "Name of the Custom Field/Key"
+msgstr ""
+
+#: ../related-posts-slider.php:639
+msgid "Use Featured Post/Thumbnail (Wordpress 3.0 +  feature)"
+msgstr ""
+
+#: ../related-posts-slider.php:640
+msgid "Consider Images attached to the post"
+msgstr ""
+
+#: ../related-posts-slider.php:641
+msgid "Order of the Image attachment to pick"
+msgstr ""
+
+#: ../related-posts-slider.php:642
+msgid "Scan images from the post, in case there is no attached image to the post"
+msgstr ""
+
+#: ../related-posts-slider.php:647
+msgid "Wordpress Image Extract Size"
+msgstr ""
+
+#: ../related-posts-slider.php:649
+msgid "Full"
+msgstr ""
+
+#: ../related-posts-slider.php:650
+msgid "Large"
+msgstr ""
+
+#: ../related-posts-slider.php:651
+msgid "Medium"
+msgstr ""
+
+#: ../related-posts-slider.php:652
+msgid "Thumbnail"
+msgstr ""
+
+#: ../related-posts-slider.php:654
+msgid "This is because, for every image upload to the media gallery WordPress creates four sizes of the same image. So you can choose which to load in the slider and then specify the actual size."
+msgstr ""
+
+#: ../related-posts-slider.php:659
+msgid "Align to"
+msgstr ""
+
+#: ../related-posts-slider.php:661
+msgid "Left"
+msgstr ""
+
+#: ../related-posts-slider.php:662
+msgid "Right"
+msgstr ""
+
+#: ../related-posts-slider.php:663
+msgid "Center"
+msgstr ""
+
+#: ../related-posts-slider.php:669
+msgid "Image Width"
+msgstr ""
+
+#: ../related-posts-slider.php:670
+#, php-format
+msgid "(% for \"default\" format and \"px\" for other formats of slider)"
+msgstr ""
+
+#: ../related-posts-slider.php:674
+msgid "Maximum Height/Height of the Image"
+msgstr ""
+
+#: ../related-posts-slider.php:675
+msgid "(This is necessary in order to keep the maximum image height in control)"
+msgstr ""
+
+#: ../related-posts-slider.php:680
+msgid "List Section"
+msgstr ""
+
+#: ../related-posts-slider.php:684
+msgid "Font"
+msgstr ""
+
+#: ../related-posts-slider.php:701
+msgid "Font Color"
+msgstr ""
+
+#: ../related-posts-slider.php:706
+msgid "Font Size"
+msgstr ""
+
+#: ../related-posts-slider.php:711
+msgid "Font Weight"
+msgstr ""
+
+#: ../related-posts-slider.php:713
+#: ../related-posts-slider.php:768
+msgid "Bold"
+msgstr ""
+
+#: ../related-posts-slider.php:714
+#: ../related-posts-slider.php:723
+#: ../related-posts-slider.php:769
+#: ../related-posts-slider.php:778
+msgid "Normal"
+msgstr ""
+
+#: ../related-posts-slider.php:720
+msgid "Font Style"
+msgstr ""
+
+#: ../related-posts-slider.php:722
+#: ../related-posts-slider.php:777
+msgid "Italic"
+msgstr ""
+
+#: ../related-posts-slider.php:729
+msgid "Max words in List Title"
+msgstr ""
+
+#: ../related-posts-slider.php:730
+#: ../related-posts-slider.php:822
+msgid "words"
+msgstr ""
+
+#: ../related-posts-slider.php:735
+msgid "Preview Section"
+msgstr ""
+
+#: ../related-posts-slider.php:756
+msgid "Title Font Color"
+msgstr ""
+
+#: ../related-posts-slider.php:761
+msgid "Title Font Size"
+msgstr ""
+
+#: ../related-posts-slider.php:766
+msgid "Title Font Weight"
+msgstr ""
+
+#: ../related-posts-slider.php:775
+msgid "Title Font Style"
+msgstr ""
+
+#: ../related-posts-slider.php:784
+msgid "Content Font"
+msgstr ""
+
+#: ../related-posts-slider.php:801
+msgid "Content Font Color"
+msgstr ""
+
+#: ../related-posts-slider.php:806
+msgid "Content Font Size"
+msgstr ""
+
+#: ../related-posts-slider.php:811
+msgid "Pick content From"
+msgstr ""
+
+#: ../related-posts-slider.php:813
+msgid "preview_content Custom field"
+msgstr ""
+
+#: ../related-posts-slider.php:814
+msgid "Post Excerpt"
+msgstr ""
+
+#: ../related-posts-slider.php:815
+msgid "From Content"
+msgstr ""
+
+#: ../related-posts-slider.php:821
+msgid "Max words in Preview Content"
+msgstr ""
+
+#: ../related-posts-slider.php:826
+msgid "Show read more (continue reading) section"
+msgstr ""
+
+#: ../related-posts-slider.php:828
+msgid "Show"
+msgstr ""
+
+#: ../related-posts-slider.php:829
+msgid "Do not show"
+msgstr ""
+
+#: ../related-posts-slider.php:835
+msgid "Continue Reading Text"
+msgstr ""
+
+#: ../related-posts-slider.php:840
+msgid "Retain these html tags"
+msgstr ""
+
+#: ../related-posts-slider.php:841
+msgid "(read"
+msgstr ""
+
+#: ../related-posts-slider.php:841
+msgid "how to retain html like line breaks and links in the Related Posts Slider"
+msgstr ""
+
+#: ../related-posts-slider.php:841
+msgid "Usage section of the plugin page"
+msgstr ""
+
+#: ../related-posts-slider.php:841
+msgid "to know more)"
+msgstr ""
+
+#: ../related-posts-slider.php:848
+msgid "Target attribute for the continue reading link/post permalink"
+msgstr ""
+
+#: ../related-posts-slider.php:857
+msgid "Manual/Automatic Insertion"
+msgstr ""
+
+#: ../related-posts-slider.php:858
+msgid "By default the related posts slider is inserted automatically below the content area of the post. But you can select manual insertion (either using templte tag or shortcode or widget) or can select to insert it automatically above the content area of the post."
+msgstr ""
+
+#: ../related-posts-slider.php:861
+msgid "Insert the slider"
+msgstr ""
+
+#: ../related-posts-slider.php:863
+msgid "Below the Content"
+msgstr ""
+
+#: ../related-posts-slider.php:864
+msgid "Above the Content"
+msgstr ""
+
+#: ../related-posts-slider.php:865
+msgid "Manually"
+msgstr ""
+
+#: ../related-posts-slider.php:871
+msgid "Support \"Related Posts Slider\""
+msgstr ""
+
+#: ../related-posts-slider.php:873
+msgid "Yes"
+msgstr ""
+
+#: ../related-posts-slider.php:874
+msgid "No"
+msgstr ""
+
+#: ../related-posts-slider.php:875
+msgid "Share the word, in case you select \"No\", please consider donating and help the development!"
+msgstr ""
+
+#: ../related-posts-slider.php:882
+msgid "Save Changes"
+msgstr ""
+
+#: ../related-posts-slider.php:892
+msgid "About this Plugin:"
+msgstr ""
+
+#: ../related-posts-slider.php:895
+msgid "Plugin Homepage"
+msgstr ""
+
+#: ../related-posts-slider.php:896
+msgid "Plugin Parent Site"
+msgstr ""
+
+#: ../related-posts-slider.php:897
+msgid "About the Author"
+msgstr ""
+
+#: ../related-posts-slider.php:898
+msgid "Donate if you liked the plugin and support in enhancing this plugin and creating new plugins"
+msgstr ""
+
+#: ../related-posts-slider.php:898
+msgid "Donate with Paypal"
+msgstr ""
+
+#: ../related-posts-slider.php:905
+msgid "Our Facebook Fan Page"
+msgstr ""
+
+#: ../related-posts-slider.php:914
+msgid "Latest on Internet Techies"
+msgstr ""
+
+#: ../related-posts-slider.php:920
+#: ../related-posts-slider.php:935
+msgid "Read more about"
+msgstr ""
+
+#: ../related-posts-slider.php:929
+msgid "Latest on SWS"
+msgstr ""
+
+#: ../related-posts-slider.php:946
+msgid "Credits:"
+msgstr ""
+
+#: ../related-posts-slider.php:989
+msgid "Settings"
+msgstr ""
+

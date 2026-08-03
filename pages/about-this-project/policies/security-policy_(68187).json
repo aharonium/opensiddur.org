@@ -1,0 +1,33 @@
+{
+    "post_id": 68187,
+    "title": "Security Policy",
+    "author": "the Hierophant",
+    "coauthors": [
+        {
+            "name": "the Hierophant",
+            "bio": "A <em>hierophant</em> is a person who invites participants in a sacred exercise into the presence of that which is deemed holy. The title, hierophant, originated in Ancient Greece and combines the words <span lang=\"el\">φαίνω</span> (<em>phainein</em>, \"to show\") and <span lang=\"el\">‏τα ειρα</span> (<em>ta hiera</em>, \"the holy\"); hierophants served as interpreters of sacred mysteries and arcane principles. For the Open Siddur Project, the Hierophant welcomes new contributors and explains <a href=\"http://opensiddur.org/development/mission\">our mission</a>: ensuring creatively inspired work intended for communal use is shared freely for creative reuse and redistribution.",
+            "website": "http://gravatar.com/opensiddur",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2013/12/be25ccf9c669f14f3bbf2c8b0b04cd8a-96x96.jpeg",
+            "profile_link": "https://opensiddur.org/profile/hierophant"
+        }
+    ],
+    "date": "2026-07-04",
+    "last_updated": "2026-07-04",
+    "excerpt": "Please report vulnerabilities privately via our contact form. Let us know whether you prefer public acknowledgment or whether you&#8217;d like to remain anonymous. Do not publicly disclose security issues until we have had a reasonable opportunity to investigate and remediate them. Thank you!",
+    "content": "<p>Please report vulnerabilities privately via our <a href=\"/contact/\">contact form</a>. Let us know whether you prefer public acknowledgment or whether you&#8217;d like to remain anonymous.</p>\n<p>Do not publicly disclose security issues until we have had a reasonable opportunity to investigate and remediate them. </p>\n<p>Thank you! </p>\n",
+    "categories": [],
+    "tags": [],
+    "custom_fields": {
+        "_thumbnail_id": [
+            "43410"
+        ]
+    },
+    "featured_image": {
+        "url": "https://opensiddur.org/wp-content/uploads/2022/03/open-siddur-project-logo.png",
+        "title": "open-siddur-project-logo",
+        "caption": "Organizational logo for the Open Siddur Project (Aharon Varady CC BY-SA 2009) after the color wheel (farbkeis) of Johannes Itten (1961)"
+    },
+    "source_link": "https://opensiddur.org/?p=68187",
+    "permalink": "https://opensiddur.org/about-this-project/policies/security-policy/",
+    "slug": "security-policy"
+}

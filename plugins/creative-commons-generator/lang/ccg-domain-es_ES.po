@@ -1,0 +1,278 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Creative Commons Generator 1.0\n"
+"POT-Creation-Date: 2012-11-27 09:57+0100\n"
+"PO-Revision-Date: 2012-11-27 11:03+0100\n"
+"Last-Translator: Alejandro Gálvez Sánchez y Andy Hernández Salazar\n"
+"Language-Team: OptimalDevs <info@optimaldevs.com>\n"
+"Language: Spanish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2;plural=n != 1;\n"
+"X-Poedit-SourceCharset: iso-8859-1\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ccg-admin.php:7
+msgid "Creative Commons Generator Options"
+msgstr "Opciones de Creative Commons Generator"
+
+#: ccg-admin.php:45
+msgid "Creative Commons Attribution"
+msgstr "Creative Commons Attribution"
+
+#: ccg-admin.php:49
+msgid "-NonCommercial"
+msgstr "-NonCommercial"
+
+#: ccg-admin.php:53
+msgid "-ShareAlike"
+msgstr "-ShareAlike"
+
+#: ccg-admin.php:57
+msgid "-NoDerivs"
+msgstr "-NoDerivs"
+
+#: ccg-admin.php:65
+msgid "Title"
+msgstr "Título"
+
+#: ccg-admin.php:66
+msgid "Author-Name"
+msgstr "Nombre-Autor"
+
+#: ccg-admin.php:87
+msgid "This work"
+msgstr "This work"
+
+#: ccg-admin.php:152
+msgid "Options"
+msgstr "Opciones"
+
+#: ccg-admin.php:153
+msgid "Description"
+msgstr "Descripción"
+
+#: ccg-admin.php:160
+msgid "Enable Creative Commons Generator"
+msgstr "Activar Creative Commons Generator"
+
+#: ccg-admin.php:164
+msgid ""
+"Creative Commons Generator display the banner below the post if you check "
+"this."
+msgstr ""
+"Creative Commons Generator colocará el banner CC al pie de la entrada si se "
+"marca esta opción."
+
+#: ccg-admin.php:170
+msgid "Allow modifications of your work"
+msgstr "Permitir modificaciones de la obra"
+
+#: ccg-admin.php:174
+msgid ""
+"The licensor permits others to copy, distribute, display and perform the "
+"work, as well as make derivative works based on it."
+msgstr ""
+"El licenciador permite la reproducción, distribución y comunicación pública "
+"de la obra así como la generación de obras derivadas."
+
+#: ccg-admin.php:180
+msgid "Allow modifications as long as others share alike"
+msgstr ""
+"Permitir modificaciones de la obra solo si se comparte de la misma manera"
+
+#: ccg-admin.php:184
+msgid ""
+"The licensor permits others to create and distribute derivative works but "
+"only under the same or a compatible license."
+msgstr ""
+"El licenciante permite a otros crear y distribuir obras derivadas pero "
+"solamente bajo la misma licencia o bajo una licencia compatible."
+
+#: ccg-admin.php:190
+msgid "Disallow modifications of the work."
+msgstr "No permitir modificaciones de la obra"
+
+#: ccg-admin.php:194
+msgid ""
+"The licensor permits others to copy, distribute, display and perform only "
+"unaltered copies of the work, but not create and distribute derivative works "
+"based on it."
+msgstr ""
+"El licenciante permite a otros copiar, distribuir, exhibir y ejecutar "
+"públicamente solamente copias inalteradas de la obra, pero no crear o "
+"distribuir obras derivadas basadas en ella."
+
+#: ccg-admin.php:200
+msgid "Disallow commercial uses of your work"
+msgstr "No permitir uso comercial de la obra"
+
+#: ccg-admin.php:204
+msgid ""
+"The licensor permits others to copy, distribute, display, and perform the "
+"work for non-commercial purposes only."
+msgstr ""
+"Esta obra no puede ser utilizada con finalidades comerciales, a menos que se "
+"obtenga el permiso del licenciador."
+
+#: ccg-admin.php:210
+msgid "Show title of work"
+msgstr "Mostrar título de la obra"
+
+#: ccg-admin.php:214 ccg-post-options.php:54
+msgid "The title of the work you are licensing."
+msgstr "El título de la obra que está licenciando."
+
+#: ccg-admin.php:220
+msgid "Show author of work"
+msgstr "Mostrar autor de la obra"
+
+#: ccg-admin.php:224 ccg-post-options.php:76
+msgid ""
+"The name of the person who should receive attribution for the work. Most "
+"often, this is the author."
+msgstr ""
+"El nombre de la persona a la que hay que reconocer la autoría de la obra. "
+"Generalmente, el autor."
+
+#: ccg-admin.php:230 ccg-admin.php:297 ccg-post-options.php:81
+msgid "Link to the author of the work"
+msgstr "Enlazar al autor de la obra"
+
+#: ccg-admin.php:234 ccg-post-options.php:87
+msgid ""
+"The URL to which the work should be attributed. For example, the work's page "
+"on the author's site."
+msgstr ""
+"La URL que debe utilizarse para reconocer la autoría de la obra. Por "
+"ejemplo, la página de la obra o el sitio del autor."
+
+#: ccg-admin.php:240
+msgid "More permissions URL:"
+msgstr "Más permisos URL:"
+
+#: ccg-admin.php:245
+msgid ""
+"A URL where a user can find information about obtaining rights that are not "
+"already permitted by the CC license."
+msgstr ""
+"Una URL donde el usuario pueda encontrar información para obtener derechos "
+"no otorgados por la licencia CC."
+
+#: ccg-admin.php:251
+msgid "Format of work"
+msgstr "Formato de la obra"
+
+#: ccg-admin.php:253
+msgid "Other / Multiple formats"
+msgstr "Otros / Múltiples formatos"
+
+#: ccg-admin.php:254
+msgid "Audio"
+msgstr "Audio"
+
+#: ccg-admin.php:255
+msgid "Video"
+msgstr "Vídeo"
+
+#: ccg-admin.php:256
+msgid "Image"
+msgstr "Imagen"
+
+#: ccg-admin.php:257
+msgid "Text"
+msgstr "Texto"
+
+#: ccg-admin.php:258
+msgid "Dataset"
+msgstr "Conjunto de datos"
+
+#: ccg-admin.php:259
+msgid "Interactive"
+msgstr "Interactivo"
+
+#: ccg-admin.php:264
+msgid ""
+"This describes what kind of work is being licensed. For example, a "
+"photograph would have the \"Image\" format. If unsure, choose \"Other / "
+"Multiple formats\"."
+msgstr ""
+"Esto describe la clase de obra que se licencia. Por ejemplo, una fotografía "
+"tendría el formato \"Imagen\". Si no estás seguro, escoge \"Otro / Formatos "
+"múltiples\"."
+
+#: ccg-admin.php:276
+msgid "Creative Commons Generator - Options Page"
+msgstr "Creative Commons Generator - Página de Opciones"
+
+#: ccg-admin.php:283
+msgid "Successfully saved configuration."
+msgstr "Configuración guardada con éxito."
+
+#: ccg-admin.php:286
+msgid "Preview"
+msgstr "Vista Previa"
+
+#: ccg-admin.php:289
+msgid "General Settings"
+msgstr "Configuración General"
+
+#: ccg-admin.php:290
+msgid ""
+"This setting is general and is used by default for all entries (old and "
+"new). However <strong>can be modified specifically for each entry</strong> "
+"from the Add/Edit section."
+msgstr ""
+"Esta configuración es general y se utilizará por defecto para todas las "
+"entradas (antiguas y nuevas). Sin embargo <strong>puede ser modificada "
+"especificamente para cada entrada</strong> desde el panel de publicación/"
+"edicíon."
+
+#: ccg-admin.php:293
+msgid "Save Changes"
+msgstr "Guardar Cambios"
+
+#: ccg-admin.php:296 ccg-post-options.php:70
+msgid "Author's Name:"
+msgstr "Nombre del Autor:"
+
+#: ccg-admin.php:296
+msgid "The author's Display Name will be used by default."
+msgstr ""
+"Se usará por defecto el Display Name del usuario que publicó la noticia."
+
+#: ccg-admin.php:297
+msgid "The author's link in WordPress will be used by default."
+msgstr "Se usará por defecto el enlace al autor en WordPress."
+
+#: ccg-admin.php:298 ccg-post-options.php:48
+msgid "Title of work:"
+msgstr "Título de la obra:"
+
+#: ccg-admin.php:298
+msgid ""
+"For entries created with disabled CCG will use the title of the post by "
+"default. For those that are published with the CCG enabled, the title must "
+"be entered manually."
+msgstr ""
+"Para las entradas creadas con CCG desactivado se usará el título de la "
+"entrada por defecto. Para las que se publiquen con CCG activado el título "
+"deberá ser introducido manualmente."
+
+#: ccg-post-options.php:8
+msgid "Creative Commons Generator"
+msgstr "Creative Commons Generator"
+
+#: ccg-post-options.php:59
+msgid "Source work URL:"
+msgstr "Fuenta de la obra URL:"
+
+#: ccg-post-options.php:65
+msgid "The URL of the work upon which this work is based or derived."
+msgstr ""
+"La URL de la obra original a partir de la cual se ha creado esta obra "
+"derivada."

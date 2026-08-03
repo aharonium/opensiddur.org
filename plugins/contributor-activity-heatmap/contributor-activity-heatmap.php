@@ -3,7 +3,7 @@
  * Plugin Name: Contributor Activity Heatmap
  * Description: Displays a GitHub-style SVG heatmap of post publishing activity.
  * Version: 1.2
- * Author: Aharon Varady
+ * Author: Aharon Varady (for the Open Siddur Project)
  * Author URI: https://github.com/aharonium/
  * Plugin URI: https://github.com/aharonium/opensiddur.org/plugins/contributor-activity-heatmap
  * License: LGPL-3.0-or-later
@@ -28,7 +28,7 @@ function contributor_heatmap_enqueue_scripts() {
             'contributor-heatmap',
             plugin_dir_url(__FILE__) . 'js/heatmap-loader.js',
             [],
-            '1.1', // Updated version number for cache busting
+            '1.1.3', // Updated version number for cache busting
             true // Load in footer
         );
 
@@ -36,7 +36,7 @@ function contributor_heatmap_enqueue_scripts() {
             'contributor-heatmap-style',
             plugin_dir_url(__FILE__) . 'css/heatmap.css',
             [],
-            '1.1' // Updated version number for cache busting
+            '1.1.3' // Updated version number for cache busting
         );
     }
 }

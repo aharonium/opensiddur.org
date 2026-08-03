@@ -1,0 +1,49 @@
+document.addEventListener('DOMContentLoaded', function () {
+    var container = document.querySelector('#rps_hcarousel');
+    if (!container) return;
+
+    // Ensure required structure
+    container.classList.add('swiper');
+
+    var wrapper = document.createElement('div');
+    wrapper.className = 'swiper-wrapper';
+
+    while (container.firstChild) {
+        var slide = document.createElement('div');
+        slide.className = 'swiper-slide';
+        slide.appendChild(container.firstChild);
+        wrapper.appendChild(slide);
+    }
+
+    container.appendChild(wrapper);
+
+    // Detect RTL from document
+    var isRTL = document.documentElement.dir === 'rtl';
+
+    new Swiper('#rps_hcarousel', {
+        direction: 'horizontal',
+        loop: true,
+        slidesPerView: 7,
+        spaceBetween: 10,
+        keyboard: {
+            enabled: true,
+            onlyInViewport: true
+        },
+        navigation: {
+            nextEl: '#rps_next',
+            prevEl: '#rps_prev'
+        },
+        autoplay: {
+            delay: 4000,
+            disableOnInteraction: false,
+            pauseOnMouseEnter: true
+        },
+        rtl: isRTL,
+        breakpoints: {
+            0:   { slidesPerView: 1 },
+            480: { slidesPerView: 2 },
+            768: { slidesPerView: 4 },
+            1024:{ slidesPerView: 7 }
+        }
+    });
+});

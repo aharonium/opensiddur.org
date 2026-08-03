@@ -1,0 +1,39 @@
+.os-archive-wrapper {
+    position: relative;
+    margin: 1em 0;
+}
+
+.os-archive-toolbar {
+    text-align: right;
+    margin-top: .5em;
+}
+
+.os-archive-button {
+
+    display: inline-block;
+
+    padding: .4em .8em;
+
+    font-size: .9rem;
+
+    line-height: 1;
+
+    border: 1px solid #b7b7b7;
+
+    border-radius: 4px;
+
+    background: #f7f7f7;
+
+    color: #333;
+
+    text-decoration: none;
+
+    transition: background .2s ease;
+}
+
+.os-archive-button:hover {
+
+    background: #ececec;
+
+    text-decoration: none;
+}
