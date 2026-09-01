@@ -13,7 +13,7 @@
  *                     sizing modes: inherited/text-matching (default), viewport-fluid
  *                     (CSS clamp()), or layout-relative (CSS Container Query units,
  *                     filling a percentage of the available horizontal space).
- * Version:           1.3.0
+ * Version:           1.4.0
  * Author:            Aharon Varady
  * Author URI:        https://aharonvarady.org/
  * License:           LGPL-3.0-or-later
@@ -39,6 +39,10 @@
  *                                             as of 2023+); older browsers fall back to
  *                                             normal inherited text size.
  *   [vulcan_salute min="1rem" preferred="5vw" max="3rem"]   Raw clamp() override
+ *   [vulcan_salute gap="-0.25em"]            Increase overlap further (thumbs closer,
+ *                                             or touching/crossing at larger negative
+ *                                             values). gap="0.2em" or a positive value
+ *                                             adds space between the hands instead.
  *   [vulcan_salute label="Priestly Blessing gesture"]       Custom accessible label
  *
  *   All output is a single inline <span> (or, in "both" mode, one inline-flex <span>
@@ -48,6 +52,12 @@
  *   room for it next to preceding text on the current line — the two hands will
  *   never split from each other, but the pair as a unit follows normal inline
  *   line-wrapping rules like any other wide inline element.
+ *
+ *   The default -0.15em overlap is a starting estimate, not a measured value —
+ *   different emoji fonts (Apple, Google/Noto, Twemoji, etc.) pad the glyph
+ *   differently within its own character cell, so the ideal gap value will
+ *   vary by which font renders on a given visitor's device. Adjust to taste
+ *   after checking on your actual target platforms.
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
@@ -119,8 +129,9 @@ function cvs_resolve_fluid_font_size( $atts ) {
  * layout-relative mode. This is a fixed ratio, NOT multiplied by the
  * requested percentage — the percentage already scales the container itself
  * (via its width), so cqi units on the glyph automatically scale right along
- * with it. Tuned assuming the default 0.2em gap; a heavily customized gap may
- * need a small manual adjustment to avoid the pair overflowing its container.
+ * with it. Tuned assuming the default -0.15em overlap; a substantially
+ * different gap value may need a small manual adjustment to avoid the pair
+ * overflowing its container.
  *
  * @param int $num_hands 1 for a single hand, 2 for the "both hands" pair.
  */
@@ -199,13 +210,19 @@ function cvs_build_glyph( $rendering, $skin_tone = 'none' ) {
  *                            "both hands" pair (gets aria-hidden so the outer
  *                            wrapper's label is what screen readers announce).
  * @param string $label      Accessible label to use when $standalone is true.
+ * @param string $margin_start  Optional CSS length for margin-inline-start (e.g. '-0.15em'
+ *                                to overlap into the preceding hand, compensating for the
+ *                                glyph's own internal padding). Empty string omits the property.
  */
-function cvs_render_hand_span( $mirrored, $rendering, $skin_tone, $font_size, $standalone, $label ) {
+function cvs_render_hand_span( $mirrored, $rendering, $skin_tone, $font_size, $standalone, $label, $margin_start = '' ) {
 	$styles = array(
 		'display'     => 'inline-block',
 		'line-height' => '1',
 		'font-size'   => $font_size,
 	);
+	if ( '' !== trim( $margin_start ) ) {
+		$styles['margin-inline-start'] = $margin_start;
+	}
 	if ( $mirrored ) {
 		$styles['transform'] = 'scaleX(-1)';
 	}
@@ -288,7 +305,8 @@ function cvs_vulcan_salute_shortcode( $atts ) {
 			'min'       => '',        // optional raw override for clamp() minimum (fluid mode only)
 			'preferred' => '',        // optional raw override for clamp() preferred value (fluid mode only)
 			'max'       => '',        // optional raw override for clamp() maximum (fluid mode only)
-			'gap'       => '0.2em',   // spacing between hands in "both" mode
+			'gap'       => '-0.15em', // spacing between hands; negative = overlap (compensates for
+			                          // each glyph's own internal padding). Positive adds space instead.
 			'label'     => '',        // optional custom aria-label
 		),
 		$atts,
@@ -331,25 +349,30 @@ function cvs_vulcan_salute_shortcode( $atts ) {
 	// --- Default: both hands, right before left, thumbs facing inward -------
 	$default_label = __( 'Priestly Blessing hand gesture', 'custom-vulcan-salute' );
 	$label         = ( '' !== trim( $atts['label'] ) ) ? sanitize_text_field( $atts['label'] ) : $default_label;
-	$gap           = esc_attr( $atts['gap'] );
+	$gap           = trim( $atts['gap'] );
 
 	// Unmirrored (right hand) renders first/leftmost, mirrored (left hand)
 	// second/rightmost. This is not arbitrary: the base glyph's thumb sits on
 	// its own right edge, so this specific ordering is what puts both thumbs
 	// toward the center gap (inward) rather than out toward the edges.
+	//
+	// Spacing between the two hands is applied via margin-inline-start on the
+	// left hand rather than flex `gap`, because `gap` cannot go negative. Most
+	// emoji glyphs carry noticeable internal padding within their own character
+	// cell (how much varies by platform/font), so a small negative value (an
+	// overlap) is usually what's needed to bring the thumbs close together —
+	// gap:0 alone only removes space *between* the spans, not padding baked
+	// into the glyphs themselves.
 	$glyph_font_size = cvs_determine_font_size( $atts, $percent, 2 );
 	$right_span      = cvs_render_hand_span( false, $rendering, $skin_tone, $glyph_font_size, false, '' );
-	$left_span       = cvs_render_hand_span( true, $rendering, $skin_tone, $glyph_font_size, false, '' );
+	$left_span       = cvs_render_hand_span( true, $rendering, $skin_tone, $glyph_font_size, false, '', $gap );
 
 	// direction:ltr + unicode-bidi:isolate lock the visual arrangement above
 	// regardless of the surrounding paragraph's text direction. This composition
 	// depicts a specific physical posture (the Kohen's actual right and left
 	// hands, as the congregation sees them) rather than flowing text, so it
 	// should not silently mirror itself inside RTL content.
-	$base_wrapper_style = sprintf(
-		'display:inline-flex;flex-wrap:nowrap;white-space:nowrap;align-items:center;vertical-align:middle;gap:%s;direction:ltr;unicode-bidi:isolate;',
-		$gap
-	);
+	$base_wrapper_style = 'display:inline-flex;flex-wrap:nowrap;white-space:nowrap;align-items:center;vertical-align:middle;direction:ltr;unicode-bidi:isolate;';
 	$wrapper_style = esc_attr(
 		$base_wrapper_style . ( ( null !== $percent ) ? cvs_percent_wrapper_styles( $percent ) : '' )
 	);
