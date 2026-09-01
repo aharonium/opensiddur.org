@@ -8,11 +8,12 @@
  *                     markup. Defaults to showing both hands side by side (right hand
  *                     before left hand, thumbs facing inward); either hand alone is
  *                     also selectable.
- *                     Supports full-color emoji vs. line-art ("vs15") rendering, and
- *                     two independent sizing modes: viewport-fluid (CSS clamp()) or
- *                     layout-relative (CSS Container Query units, filling a percentage
- *                     of the available horizontal space).
- * Version:           1.2.0
+ *                     Supports full-color emoji (with optional Unicode skin tone
+ *                     modifiers) vs. line-art ("vs15") rendering, and two independent
+ *                     sizing modes: inherited/text-matching (default), viewport-fluid
+ *                     (CSS clamp()), or layout-relative (CSS Container Query units,
+ *                     filling a percentage of the available horizontal space).
+ * Version:           1.3.0
  * Author:            Aharon Varady
  * Author URI:        https://aharonvarady.org/
  * License:           LGPL-3.0-or-later
@@ -20,11 +21,16 @@
  * Text Domain:       custom-vulcan-salute
  *
  * Usage:
- *   [vulcan_salute]                          Both hands, right before left (default)
+ *   [vulcan_salute]                          Both hands, right before left, sized to
+ *                                             match the surrounding text (default)
  *   [vulcan_salute hand="left"]              Left hand (mirrored) only
  *   [vulcan_salute hand="right"]             Right hand only
  *   [vulcan_salute rendering="vs15"]         Line-art / text-style presentation
- *   [vulcan_salute size="large"]             Named viewport-fluid preset
+ *   [vulcan_salute skin_tone="medium"]       Skin tone modifier (emoji rendering only;
+ *                                             'none' (default) | 'light' | 'medium-light' |
+ *                                             'medium' | 'medium-dark' | 'dark'. Silently
+ *                                             ignored when rendering="vs15".)
+ *   [vulcan_salute size="large"]             Named viewport-fluid preset (opt-in)
  *   [vulcan_salute size="100%"]              Layout-relative: pair fills 100% of the
  *                                             available horizontal layout width and
  *                                             scales to match, via CSS Container Query
@@ -133,19 +139,51 @@ function cvs_percent_wrapper_styles( $percent ) {
 }
 
 /**
+ * UTF-8 byte sequences for the standard Unicode Fitzpatrick skin tone modifiers.
+ * These attach to certain "Emoji_Modifier_Base" characters (U+1F596 is one)
+ * to form an "emoji modifier sequence" — the same mechanism behind skin-tone
+ * variants of emoji like a thumbs-up. Per the Unicode spec, the recommended
+ * sequence is simply base + modifier, with no variation selector — the
+ * modifier itself already implies emoji (color) presentation.
+ */
+function cvs_skin_tone_modifier_bytes( $skin_tone ) {
+	$map = array(
+		'light'        => "\xF0\x9F\x8F\xBB", // U+1F3FB EMOJI MODIFIER FITZPATRICK TYPE-1-2
+		'medium-light' => "\xF0\x9F\x8F\xBC", // U+1F3FC EMOJI MODIFIER FITZPATRICK TYPE-3
+		'medium'       => "\xF0\x9F\x8F\xBD", // U+1F3FD EMOJI MODIFIER FITZPATRICK TYPE-4
+		'medium-dark'  => "\xF0\x9F\x8F\xBE", // U+1F3FE EMOJI MODIFIER FITZPATRICK TYPE-5
+		'dark'         => "\xF0\x9F\x8F\xBF", // U+1F3FF EMOJI MODIFIER FITZPATRICK TYPE-6
+	);
+	return isset( $map[ $skin_tone ] ) ? $map[ $skin_tone ] : '';
+}
+
+/**
  * Build the raw glyph string for a given rendering style.
  *
  * U+1F596 VULCAN SALUTE, expressed as raw UTF-8 byte sequences so the
  * invisible variation selectors survive editing in any text editor.
+ *
+ * @param string $rendering  'emoji' | 'vs15'.
+ * @param string $skin_tone  'none' | 'light' | 'medium-light' | 'medium' | 'medium-dark' | 'dark'.
+ *                            Only applied when $rendering is 'emoji' — the vs15
+ *                            line-art presentation has no color to modify, so a
+ *                            skin tone request is silently ignored there.
  */
-function cvs_build_glyph( $rendering ) {
+function cvs_build_glyph( $rendering, $skin_tone = 'none' ) {
 	$glyph_base = "\xF0\x9F\x96\x96"; // U+1F596
 	$vs_emoji   = "\xEF\xB8\x8F";     // U+FE0F  VARIATION SELECTOR-16 (force emoji presentation)
 	$vs_text    = "\xEF\xB8\x8E";     // U+FE0E  VARIATION SELECTOR-15 (force text/line-art presentation, "vs15")
 
-	$variation_selector = ( 'vs15' === $rendering ) ? $vs_text : $vs_emoji;
+	if ( 'vs15' === $rendering ) {
+		return $glyph_base . $vs_text;
+	}
 
-	return $glyph_base . $variation_selector;
+	$modifier = cvs_skin_tone_modifier_bytes( $skin_tone );
+	if ( '' !== $modifier ) {
+		return $glyph_base . $modifier;
+	}
+
+	return $glyph_base . $vs_emoji;
 }
 
 /**
@@ -153,6 +191,8 @@ function cvs_build_glyph( $rendering ) {
  *
  * @param bool $mirrored     True for the left (mirrored) hand.
  * @param string $rendering  'emoji' | 'vs15'.
+ * @param string $skin_tone  'none' | 'light' | 'medium-light' | 'medium' | 'medium-dark' | 'dark'.
+ *                            Ignored when $rendering is 'vs15'.
  * @param string $font_size  Pre-built CSS font-size value (clamp(...) or an N cqi value).
  * @param bool $standalone   True if this span is used on its own (gets its own
  *                            role="img"/aria-label); false if it is one half of a
@@ -160,7 +200,7 @@ function cvs_build_glyph( $rendering ) {
  *                            wrapper's label is what screen readers announce).
  * @param string $label      Accessible label to use when $standalone is true.
  */
-function cvs_render_hand_span( $mirrored, $rendering, $font_size, $standalone, $label ) {
+function cvs_render_hand_span( $mirrored, $rendering, $skin_tone, $font_size, $standalone, $label ) {
 	$styles = array(
 		'display'     => 'inline-block',
 		'line-height' => '1',
@@ -175,25 +215,28 @@ function cvs_render_hand_span( $mirrored, $rendering, $font_size, $standalone, $
 		$style_pairs[] = $prop . ':' . $value;
 	}
 	$style_attr = esc_attr( implode( ';', $style_pairs ) );
-	$glyph      = cvs_build_glyph( $rendering );
+	$glyph      = cvs_build_glyph( $rendering, $skin_tone );
 	$hand_attr  = esc_attr( $mirrored ? 'left' : 'right' );
 	$rend_attr  = esc_attr( $rendering );
+	$skin_attr  = esc_attr( ( 'emoji' === $rendering ) ? $skin_tone : 'none' );
 
 	if ( $standalone ) {
 		return sprintf(
-			'<span class="cvs-vulcan-salute" role="img" aria-label="%1$s" data-hand="%2$s" data-rendering="%3$s" style="%4$s">%5$s</span>',
+			'<span class="cvs-vulcan-salute" role="img" aria-label="%1$s" data-hand="%2$s" data-rendering="%3$s" data-skin-tone="%4$s" style="%5$s">%6$s</span>',
 			esc_attr( $label ),
 			$hand_attr,
 			$rend_attr,
+			$skin_attr,
 			$style_attr,
 			$glyph
 		);
 	}
 
 	return sprintf(
-		'<span class="cvs-vulcan-salute" aria-hidden="true" data-hand="%1$s" data-rendering="%2$s" style="%3$s">%4$s</span>',
+		'<span class="cvs-vulcan-salute" aria-hidden="true" data-hand="%1$s" data-rendering="%2$s" data-skin-tone="%3$s" style="%4$s">%5$s</span>',
 		$hand_attr,
 		$rend_attr,
+		$skin_attr,
 		$style_attr,
 		$glyph
 	);
@@ -239,6 +282,8 @@ function cvs_vulcan_salute_shortcode( $atts ) {
 		array(
 			'hand'      => 'both',    // 'both' (default, right then left) | 'left' | 'right'
 			'rendering' => 'emoji',   // 'emoji' (full color) | 'vs15' (line-art/text style)
+			'skin_tone' => 'none',    // 'none' (default) | 'light' | 'medium-light' | 'medium' | 'medium-dark' | 'dark'
+			                          // Applies only when rendering="emoji"; ignored for vs15.
 			'size'      => 'inherit', // 'inherit' (default, matches surrounding text) | 'small' | 'medium' | 'large' | 'xl' | a percentage e.g. '100%'
 			'min'       => '',        // optional raw override for clamp() minimum (fluid mode only)
 			'preferred' => '',        // optional raw override for clamp() preferred value (fluid mode only)
@@ -254,6 +299,10 @@ function cvs_vulcan_salute_shortcode( $atts ) {
 	$rendering = strtolower( trim( $atts['rendering'] ) );
 	$percent   = cvs_parse_percent_size( $atts['size'] );
 
+	$valid_skin_tones = array( 'none', 'light', 'medium-light', 'medium', 'medium-dark', 'dark' );
+	$skin_tone_raw    = strtolower( trim( $atts['skin_tone'] ) );
+	$skin_tone        = in_array( $skin_tone_raw, $valid_skin_tones, true ) ? $skin_tone_raw : 'none';
+
 	// --- Single hand: 'left' or 'right' -------------------------------------
 	if ( 'left' === $hand || 'right' === $hand ) {
 		$mirrored      = ( 'left' === $hand );
@@ -263,7 +312,7 @@ function cvs_vulcan_salute_shortcode( $atts ) {
 		$label = ( '' !== trim( $atts['label'] ) ) ? sanitize_text_field( $atts['label'] ) : $default_label;
 
 		if ( null !== $percent ) {
-			$inner_span    = cvs_render_hand_span( $mirrored, $rendering, cvs_determine_font_size( $atts, $percent, 1 ), false, '' );
+			$inner_span    = cvs_render_hand_span( $mirrored, $rendering, $skin_tone, cvs_determine_font_size( $atts, $percent, 1 ), false, '' );
 			$wrapper_style = esc_attr(
 				'display:inline-flex;white-space:nowrap;vertical-align:middle;' . cvs_percent_wrapper_styles( $percent )
 			);
@@ -276,7 +325,7 @@ function cvs_vulcan_salute_shortcode( $atts ) {
 		}
 
 		$font_size = cvs_determine_font_size( $atts, null, 1 );
-		return cvs_render_hand_span( $mirrored, $rendering, $font_size, true, $label );
+		return cvs_render_hand_span( $mirrored, $rendering, $skin_tone, $font_size, true, $label );
 	}
 
 	// --- Default: both hands, right before left, thumbs facing inward -------
@@ -289,8 +338,8 @@ function cvs_vulcan_salute_shortcode( $atts ) {
 	// its own right edge, so this specific ordering is what puts both thumbs
 	// toward the center gap (inward) rather than out toward the edges.
 	$glyph_font_size = cvs_determine_font_size( $atts, $percent, 2 );
-	$right_span      = cvs_render_hand_span( false, $rendering, $glyph_font_size, false, '' );
-	$left_span       = cvs_render_hand_span( true, $rendering, $glyph_font_size, false, '' );
+	$right_span      = cvs_render_hand_span( false, $rendering, $skin_tone, $glyph_font_size, false, '' );
+	$left_span       = cvs_render_hand_span( true, $rendering, $skin_tone, $glyph_font_size, false, '' );
 
 	// direction:ltr + unicode-bidi:isolate lock the visual arrangement above
 	// regardless of the surrounding paragraph's text direction. This composition
