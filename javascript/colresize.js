@@ -1,6 +1,5 @@
 // colresize.js
-// Version: 2.0.0
-// by Aharon Varady (for the Open Siddur Project)
+// Version: 2.1.0
 //
 // Gives every column in a .toggleable-table an initial width based on its
 // natural (auto-layout) content width, then locks the table into
@@ -34,13 +33,25 @@
 // WIDTH MEASUREMENT: a column's initial preferred width is the widest
 // single LINE among its header cell and every body cell -- not just the
 // header -- measured with white-space temporarily forced to nowrap so an
-// already-wrapped line doesn't under-report its true natural width. Then,
-// if there's unused horizontal room next to the table at that moment, a
-// small per-column buffer is added on top of that, to absorb (1) general
-// wrap-safety margin, and (2) the width "Show Line Numbers" badges add to
-// the start of each line, which isn't present in the DOM at
-// initial-measurement time and would otherwise cause new wrapping the
-// moment line numbers are toggled on.
+// already-wrapped line doesn't under-report its true natural width. Any
+// single measured line is capped at MAX_MEASURED_LINE_WIDTH, so a column
+// with no phrase breaks at all (one long, continuous paragraph) can't
+// dominate the whole table's layout -- without the cap, that one outlier
+// line would inflate its column's preferred width so much that every
+// other column gets scaled down to compensate, which can collapse a
+// short column (e.g. a header-only "Contribute a translation" column
+// with an empty body) to the point its own header text wraps
+// letter-by-letter. Content phrased into short lines (via <br>) is
+// unaffected by this cap in practice. Separately, MIN_COLUMN_WIDTH is
+// enforced as an ABSOLUTE floor during scaling, not itself scaled down --
+// a column should never become too narrow to render its own header
+// legibly, even if that means the table slightly overflows in an extreme
+// case. Then, if there's unused horizontal room next to the table at
+// that moment, a small per-column buffer is added on top of the natural
+// width, to absorb (1) general wrap-safety margin, and (2) the width
+// "Show Line Numbers" badges add to the start of each line, which isn't
+// present in the DOM at initial-measurement time and would otherwise
+// cause new wrapping the moment line numbers are toggled on.
 //
 // Plays along with the other scripts:
 //   - dragtable.js: the resize handle stops the mousedown event from
@@ -56,7 +67,8 @@
 
 var MIN_COLUMN_WIDTH = 40; // px
 var MAX_COLUMN_BUFFER = 32; // px -- roughly enough for a "A12" line-number badge
-var colresizeVersion = "2.0.0";
+var MAX_MEASURED_LINE_WIDTH = 900; // px -- see measureNaturalColumnWidths below
+var colresizeVersion = "2.1.0";
 
 var trackedTables = []; // { table, colgroup } for every table this script manages
 
@@ -133,8 +145,17 @@ function measureNaturalColumnWidths(table, headerCells) {
     cell.style.whiteSpace = "nowrap";
   });
 
+  // Cap how much any single measured line can contribute. This matters
+  // for a column whose content has no phrase breaks (<br>) at all -- one
+  // long, continuous paragraph. Forcing nowrap on that measures the
+  // ENTIRE paragraph as if it were one line, which can be thousands of
+  // pixels wide; left uncapped, that single outlier would dominate the
+  // whole table's layout (every other column gets scaled down together
+  // to compensate, potentially collapsing a short column's header text
+  // to the point where it wraps letter-by-letter). Content phrased into
+  // short lines (via <br>) is never affected by this cap in practice.
   headerCells.forEach((th, i) => {
-    widths[i] = Math.max(widths[i], th.getBoundingClientRect().width);
+    widths[i] = Math.max(widths[i], Math.min(th.getBoundingClientRect().width, MAX_MEASURED_LINE_WIDTH));
   });
 
   const tbody = table.querySelector("tbody");
@@ -143,7 +164,10 @@ function measureNaturalColumnWidths(table, headerCells) {
       const rowCells = Array.from(row.children).filter((el) => el.tagName === "TD");
       rowCells.forEach((td, i) => {
         if (i < columnCount) {
-          widths[i] = Math.max(widths[i], td.getBoundingClientRect().width);
+          widths[i] = Math.max(
+            widths[i],
+            Math.min(td.getBoundingClientRect().width, MAX_MEASURED_LINE_WIDTH)
+          );
         }
       });
     });
@@ -189,7 +213,12 @@ function applyResponsiveWidths(table, colgroup) {
 
   visibleCols.forEach((col) => {
     const preferred = parseFloat(col.dataset.preferredWidth || 0);
-    col.style.width = Math.max(preferred * scale, MIN_COLUMN_WIDTH * scale) + "px";
+    // MIN_COLUMN_WIDTH is an absolute floor, not itself scaled down -- a
+    // column should never become too narrow to render its own header
+    // legibly, even if that means the table slightly exceeds its
+    // container in an extreme case (a legible overflow beats an
+    // unreadable, letter-by-letter-wrapped header).
+    col.style.width = Math.max(preferred * scale, MIN_COLUMN_WIDTH) + "px";
   });
 
   table.style.width = preferredTotal * scale + "px";

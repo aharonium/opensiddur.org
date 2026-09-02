@@ -1,0 +1,448 @@
+<?php
+/**
+ * File: ccg-migration.php
+ * Version: 1.1.1
+ *
+ * One-time migration: ACF `open_content_license` -> CCG's own fields.
+ *
+ * Per spec §6, this runs as a deliberate, one-time WP-CLI command — never
+ * automatically on page load. It does two distinct things, because the
+ * ACF field's 8 choices span both systems CCG now models separately:
+ *
+ *   - CC BY-SA / CC BY / CC0 choices map to Contributor License
+ *     (_ccg_contributor.license) — the same fact CCG's own meta box
+ *     already asks for.
+ *   - Govt-work / foreign-edict / §108 / §107 choices map to Source PD
+ *     Status category (_ccg_source_status.category).
+ *
+ * Per your instructions: the two systems *should* always agree; where
+ * they don't, that's an editor having set one field and not the other,
+ * not a genuine disagreement to adjudicate. On conflict, ACF's value
+ * (the "more nuanced" record) wins and gets written into CCG's meta —
+ * but every conflict is also logged to _ccg_migration_conflict on the
+ * post, and returned in the CLI summary, so nothing is silently
+ * overwritten without a trail. That per-post flag is designed to be
+ * picked up by the Stage 6 audit-table export.
+ *
+ * Usage (from the plugin directory, or anywhere WP-CLI can reach the site):
+ *   wp ccg migrate-license-category            # dry run, reports only
+ *   wp ccg migrate-license-category --commit    # actually writes changes
+ */
+
+if ( ! defined( 'ABSPATH' ) ) exit; // No direct access.
+
+require_once( plugin_dir_path( __FILE__ ) . 'ccg-fields.php' );
+
+// Maps the exact href values used in the ACF "Open Content License"
+// field's choices (as given) to a CCG field + value. 'target' tells the
+// migration which post-meta structure to reconcile against.
+//
+// 'badge' / 'badge_alt' additionally record the badge image filename and
+// a short display label for each choice, as given directly to us for the
+// ACF-fallback display feature (ccg-frontend.php's
+// ccg_get_acf_derived_mapping() / ccg_format_acf_badge_html()) — not used
+// by the migration itself, which only reads 'target' and 'value'.
+// Every one of the 7 choices has a badge: reproduction_right_108 and
+// fair_use_107 share the same C-FU badge (both are Fair Use/library-
+// exception categories under the same visual mark), matching the ACF
+// field's own choice list.
+function ccg_acf_license_url_map() {
+	return array(
+		'https://creativecommons.org/licenses/by-sa/4.0/' => array(
+			'target' => 'contributor_license', 'value' => 'by-sa',
+			'badge' => 'CC-BY-SA.svg.50x150.png',
+			'badge_alt' => __( 'Creative Commons Attribution-ShareAlike 4.0 International', 'ccg-domain' ),
+		),
+		'https://creativecommons.org/licenses/by/4.0/'    => array(
+			'target' => 'contributor_license', 'value' => 'by',
+			'badge' => 'CC-BY.svg.50x150.png',
+			'badge_alt' => __( 'Creative Commons Attribution 4.0 International', 'ccg-domain' ),
+		),
+		'https://creativecommons.org/publicdomain/zero/1.0/' => array(
+			'target' => 'contributor_license', 'value' => 'zero',
+			'badge' => 'CC-0-PD.svg.50x150.png',
+			'badge_alt' => __( 'Creative Commons Zero — Public Domain Dedication', 'ccg-domain' ),
+		),
+		'https://www.law.cornell.edu/uscode/text/17/105'  => array(
+			'target' => 'source_category', 'value' => 'public_domain_govt_work',
+			'badge' => 'CC-0-PD.svg.50x150.png',
+			'badge_alt' => __( 'Public Domain — U.S. Government Work (17 U.S. Code §105)', 'ccg-domain' ),
+		),
+		'https://web.archive.org/web/20110211214553/http://ipmall.info/hosted_resources/CopyrightCompendium/chapter_0200.asp' => array(
+			'target' => 'source_category', 'value' => 'public_domain_foreign_govt_edict',
+			'badge' => 'CC-0-PD.svg.50x150.png',
+			'badge_alt' => __( 'Public Domain — Government Edict', 'ccg-domain' ),
+		),
+		'https://www.law.cornell.edu/uscode/text/17/108'  => array(
+			'target' => 'source_category', 'value' => 'reproduction_right_108',
+			'badge' => 'C-FU.svg.50x150.png',
+			'badge_alt' => __( 'Reproduction Right (17 U.S. Code §108)', 'ccg-domain' ),
+		),
+		'https://www.law.cornell.edu/uscode/text/17/107'  => array(
+			'target' => 'source_category', 'value' => 'fair_use_107',
+			'badge' => 'C-FU.svg.50x150.png',
+			'badge_alt' => __( 'Fair Use Right (17 U.S. Code §107)', 'ccg-domain' ),
+		),
+	);
+}
+
+/**
+ * Look up the ACF "Open Content License" field's effective mapping for
+ * one post, for use by the display-time ACF-fallback feature (see
+ * ccg-frontend.php). Returns the matched map entry (with 'url' and
+ * 'raw_html' added) or null if the field is unset, unreadable, or
+ * doesn't match a known choice. Deliberately mirrors
+ * ccg_run_license_migration()'s own extract-and-lookup logic exactly,
+ * so the fallback display and the eventual migration always agree on
+ * what a given ACF value means.
+ *
+ * 'raw_html' is the field's own stored value verbatim — already a
+ * correctly formatted "<a href='...'>label</a> description" string —
+ * used directly by ccg-frontend.php as the "terms of sharing" clause
+ * for ANY of the 7 choices uniformly (open license or Fair Use/
+ * Reproduction Right exception alike; per your correction, a Fair Use
+ * claim describes the terms of sharing exactly as much as an open
+ * license does, and the two shouldn't be treated as different kinds
+ * of statement).
+ */
+function ccg_get_acf_derived_mapping( $post_id ) {
+
+	$acf_raw = function_exists( 'get_field' )
+		? get_field( 'open_content_license', $post_id )
+		: get_post_meta( $post_id, 'open_content_license', true );
+
+	$acf_url = ccg_extract_license_url_from_acf( $acf_raw );
+	if ( ! $acf_url ) return null;
+
+	$url_map = ccg_acf_license_url_map();
+	if ( ! isset( $url_map[ $acf_url ] ) ) return null;
+
+	return array_merge( $url_map[ $acf_url ], array( 'url' => $acf_url, 'raw_html' => $acf_raw ) );
+}
+
+/**
+ * Extract the href from the ACF field's HTML-anchor value. Mirrors the
+ * theme's existing extract_license_url() by design — same input shape,
+ * kept as a small local copy rather than a cross-file dependency on
+ * theme code from a plugin.
+ */
+function ccg_extract_license_url_from_acf( $html ) {
+	if ( preg_match( '/<a\s+href=[\'"]([^\'"]+)[\'"]/', (string) $html, $matches ) ) {
+		return $matches[1];
+	}
+	return false;
+}
+
+/**
+ * Snapshot the pre-migration value of one field on one post, into the
+ * in-progress backup array. Called once per post the migration is about
+ * to actually change (populate or conflict-resolve) — posts that are
+ * skipped or already agree never touch the backup, keeping it scoped to
+ * exactly what could need undoing.
+ *
+ * Records whether the field existed at all beforehand (vs. existed but
+ * was empty/null), so restore can tell "delete this key" apart from
+ * "set it back to null" — get_post_meta() alone can't distinguish those.
+ */
+function ccg_backup_field_state( &$backup, $post_id, $meta_key, $field ) {
+
+	if ( isset( $backup[ $post_id ][ $meta_key ][ $field ] ) ) return; // already captured this run
+
+	$raw = get_post_meta( $post_id, $meta_key, true );
+	if ( ! is_array( $raw ) ) $raw = array();
+
+	$backup[ $post_id ][ $meta_key ][ $field ] = array(
+		'existed' => array_key_exists( $field, $raw ),
+		'value'   => $raw[ $field ] ?? null,
+	);
+}
+
+/**
+ * Write the collected backup to a uniquely-named option and return its
+ * ID, so ccg_restore_migration_backup() can find it later. Options (not
+ * post meta) because the backup describes a batch operation across many
+ * posts, not a property of any single post.
+ */
+function ccg_store_migration_backup( array $backup ) {
+	$backup_id = 'ccg_migration_backup_' . current_time( 'mysql', true ) . '_' . wp_generate_password( 6, false );
+	$backup_id = str_replace( array( ' ', ':' ), '_', $backup_id );
+	update_option( $backup_id, $backup, false );
+	update_option( 'ccg_migration_backup_ids', array_merge(
+		get_option( 'ccg_migration_backup_ids', array() ),
+		array( $backup_id )
+	), false );
+	return $backup_id;
+}
+
+/**
+ * Restore a previously-stored backup: for every post/field it covers,
+ * either delete the field (if it didn't exist before migration) or set
+ * it back to its recorded prior value. Does NOT remove
+ * _ccg_migration_conflict flags the migration set — those remain as a
+ * historical record that a conflict was found and resolved, even after
+ * rollback, since the underlying ACF/CCG disagreement is still a fact
+ * worth an editor's attention.
+ */
+function ccg_restore_migration_backup( $backup_id ) {
+
+	$backup = get_option( $backup_id );
+	if ( ! is_array( $backup ) ) {
+		return new WP_Error( 'ccg_backup_not_found', "No backup found with ID: $backup_id" );
+	}
+
+	$restored = 0;
+	foreach ( $backup as $post_id => $meta_keys ) {
+		foreach ( $meta_keys as $meta_key => $fields ) {
+			$raw = get_post_meta( $post_id, $meta_key, true );
+			if ( ! is_array( $raw ) ) $raw = array();
+
+			foreach ( $fields as $field => $prior ) {
+				if ( $prior['existed'] ) {
+					$raw[ $field ] = $prior['value'];
+				} else {
+					unset( $raw[ $field ] );
+				}
+			}
+			update_post_meta( $post_id, $meta_key, $raw );
+			$restored++;
+		}
+	}
+
+	return $restored;
+}
+
+/**
+ * Run the migration across all posts that have the ACF open_content_license
+ * field set. Returns a summary array; only writes to the database when
+ * $commit is true. When $commit is true and at least one post is actually
+ * changed, also writes a pre-change backup and includes its ID in the
+ * summary as 'backup_id' — pass that ID to
+ * `wp ccg restore-migration-backup` to undo this specific run.
+ */
+function ccg_run_license_migration( $commit = false ) {
+
+	$summary = array(
+		'scanned'   => 0,
+		'populated' => array(), // posts where a previously-unset CCG field was filled in — no conflict
+		'conflicts' => array(), // posts where ACF and CCG disagreed
+		'skipped'   => array(), // ACF value present but unrecognized (doesn't match any known URL)
+		'backup_id' => null,
+	);
+
+	$backup = array();
+
+	$query = new WP_Query( array(
+		'post_type'      => 'any',
+		'post_status'    => 'any',
+		'posts_per_page' => -1,
+		'fields'         => 'ids',
+		'meta_query'     => array(
+			array(
+				'key'     => 'open_content_license',
+				'compare' => 'EXISTS',
+			),
+		),
+	) );
+
+	$url_map = ccg_acf_license_url_map();
+
+	foreach ( $query->posts as $post_id ) {
+		$summary['scanned']++;
+
+		$acf_raw = function_exists( 'get_field' )
+			? get_field( 'open_content_license', $post_id )
+			: get_post_meta( $post_id, 'open_content_license', true );
+
+		$acf_url = ccg_extract_license_url_from_acf( $acf_raw );
+		if ( ! $acf_url || ! isset( $url_map[ $acf_url ] ) ) {
+			$summary['skipped'][] = $post_id;
+			continue;
+		}
+
+		$mapping = $url_map[ $acf_url ];
+
+		if ( $mapping['target'] === 'contributor_license' ) {
+			ccg_migrate_one_field(
+				$post_id, '_ccg_contributor', 'license', $mapping['value'],
+				$commit, $summary, $backup
+			);
+		} else { // 'source_category'
+			ccg_migrate_one_field(
+				$post_id, '_ccg_source_status', 'category', $mapping['value'],
+				$commit, $summary, $backup
+			);
+		}
+	}
+
+	if ( $commit && ! empty( $backup ) ) {
+		$summary['backup_id'] = ccg_store_migration_backup( $backup );
+	}
+
+	return $summary;
+}
+
+/**
+ * Reconcile one field on one post: read the raw (un-defaulted) existing
+ * CCG meta, compare to the ACF-derived value, and either populate
+ * (no prior value), skip (already agrees), or flag + resolve toward the
+ * ACF value (disagreement). Reads raw meta rather than the *_get_*()
+ * getters in ccg-fields.php deliberately — those getters fill in
+ * defaults (e.g. 'by-sa', 'unknown'), which would make an unset field
+ * indistinguishable from an explicitly-set one and produce false
+ * conflict reports.
+ */
+function ccg_migrate_one_field( $post_id, $meta_key, $field, $acf_value, $commit, &$summary, &$backup ) {
+
+	$raw = get_post_meta( $post_id, $meta_key, true );
+	if ( ! is_array( $raw ) ) $raw = array();
+
+	$existing = isset( $raw[ $field ] ) ? $raw[ $field ] : null;
+
+	if ( $existing === null || $existing === '' ) {
+		// Nothing set yet — straightforward population, no conflict.
+		if ( $commit ) {
+			ccg_backup_field_state( $backup, $post_id, $meta_key, $field );
+			$raw[ $field ] = $acf_value;
+			update_post_meta( $post_id, $meta_key, $raw );
+		}
+		$summary['populated'][] = array(
+			'post_id' => $post_id,
+			'field'   => $field,
+			'value'   => $acf_value,
+		);
+		return;
+	}
+
+	if ( $existing === $acf_value ) {
+		return; // Already agrees — nothing to do, nothing to log.
+	}
+
+	// Disagreement: ACF's value wins per your instruction, but log both.
+	$conflict = array(
+		'post_id'        => $post_id,
+		'field'          => $field,
+		'acf_value'      => $acf_value,
+		'ccg_value'      => $existing,
+		'resolved_value' => $acf_value,
+		'resolved_at'    => current_time( 'mysql' ),
+	);
+	$summary['conflicts'][] = $conflict;
+
+	if ( $commit ) {
+		ccg_backup_field_state( $backup, $post_id, $meta_key, $field );
+		$raw[ $field ] = $acf_value;
+		update_post_meta( $post_id, $meta_key, $raw );
+		// Also flag on the post itself, so Stage 6's audit export can
+		// surface it without re-deriving the comparison.
+		update_post_meta( $post_id, '_ccg_migration_conflict', $conflict );
+	}
+}
+
+// --- WP-CLI command registration ---
+
+if ( defined( 'WP_CLI' ) && WP_CLI ) {
+
+	class CCG_CLI_Commands {
+
+		/**
+		 * Migrate ACF open_content_license values into CCG's own fields.
+		 *
+		 * ## OPTIONS
+		 *
+		 * [--commit]
+		 * : Actually write changes. Without this flag, runs as a dry run
+		 * and only reports what would happen.
+		 *
+		 * ## EXAMPLES
+		 *
+		 *     wp ccg migrate-license-category
+		 *     wp ccg migrate-license-category --commit
+		 *
+		 * @subcommand migrate-license-category
+		 */
+		public function migrate_license_category( $args, $assoc_args ) {
+
+			$commit  = isset( $assoc_args['commit'] );
+			$summary = ccg_run_license_migration( $commit );
+
+			WP_CLI::log( sprintf( 'Scanned %d post(s) with open_content_license set.', $summary['scanned'] ) );
+			WP_CLI::log( sprintf( '%d field(s) populated with no prior conflict.', count( $summary['populated'] ) ) );
+			WP_CLI::log( sprintf( '%d unrecognized open_content_license value(s) skipped.', count( $summary['skipped'] ) ) );
+
+			if ( ! empty( $summary['conflicts'] ) ) {
+				WP_CLI::warning( sprintf( '%d conflict(s) found between ACF and CCG data:', count( $summary['conflicts'] ) ) );
+				foreach ( $summary['conflicts'] as $c ) {
+					WP_CLI::log( sprintf(
+						'  Post #%d (%s): field "%s" — ACF says "%s", CCG had "%s". %s',
+						$c['post_id'],
+						get_the_title( $c['post_id'] ),
+						$c['field'],
+						$c['acf_value'],
+						$c['ccg_value'],
+						$commit ? 'Resolved to ACF value.' : '(dry run — not written)'
+					) );
+				}
+			}
+
+			if ( ! $commit ) {
+				WP_CLI::log( 'Dry run only — re-run with --commit to write these changes.' );
+			} else {
+				if ( $summary['backup_id'] ) {
+					WP_CLI::log( sprintf(
+						'Backup saved as "%s" — run `wp ccg restore-migration-backup %s` to undo this run.',
+						$summary['backup_id'], $summary['backup_id']
+					) );
+				} else {
+					WP_CLI::log( 'No fields were changed, so no backup was needed.' );
+				}
+				WP_CLI::success( 'Migration complete.' );
+			}
+		}
+
+		/**
+		 * List available migration backups, or restore one.
+		 *
+		 * ## OPTIONS
+		 *
+		 * [<backup-id>]
+		 * : The backup ID to restore, as reported by
+		 * `wp ccg migrate-license-category --commit`. Omit to list all
+		 * available backup IDs instead of restoring.
+		 *
+		 * ## EXAMPLES
+		 *
+		 *     wp ccg restore-migration-backup
+		 *     wp ccg restore-migration-backup ccg_migration_backup_2026-08-10_14-03-00_a1b2c3
+		 *
+		 * @subcommand restore-migration-backup
+		 */
+		public function restore_migration_backup( $args, $assoc_args ) {
+
+			$backup_ids = get_option( 'ccg_migration_backup_ids', array() );
+
+			if ( empty( $args[0] ) ) {
+				if ( empty( $backup_ids ) ) {
+					WP_CLI::log( 'No migration backups found.' );
+					return;
+				}
+				WP_CLI::log( "Available backups:\n" . implode( "\n", $backup_ids ) );
+				return;
+			}
+
+			$backup_id = $args[0];
+			if ( ! in_array( $backup_id, $backup_ids, true ) ) {
+				WP_CLI::warning( "\"$backup_id\" isn't in the known backup list — attempting to restore it anyway." );
+			}
+
+			$result = ccg_restore_migration_backup( $backup_id );
+
+			if ( is_wp_error( $result ) ) {
+				WP_CLI::error( $result->get_error_message() );
+			}
+
+			WP_CLI::success( sprintf( 'Restored %d field(s) from backup "%s".', $result, $backup_id ) );
+		}
+	}
+
+	WP_CLI::add_command( 'ccg', 'CCG_CLI_Commands' );
+}

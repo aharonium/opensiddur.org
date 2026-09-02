@@ -1,0 +1,86 @@
+<?php
+/**
+ * Run via: wp eval-file fix-sect-entities.php
+ *   Dry run (default):   wp eval-file fix-sect-entities.php
+ *   IDs only, no writes: wp eval-file fix-sect-entities.php ids-only
+ *   Actually write:      wp eval-file fix-sect-entities.php commit
+ *
+ * Note: eval-file only recognizes its own --skip-wordpress flag; any
+ * other "--something" gets rejected by WP-CLI itself before this
+ * script ever runs. Plain positional words (no leading dashes) are
+ * what eval-file actually passes through, as $args.
+ *
+ * Finds every post whose stored open_content_license postmeta
+ * contains the literal six-character text "&sect;" (as text, not as
+ * a rendered section-symbol), and replaces it with a real "§"
+ * character -- so the stored value byte-matches the (now-corrected)
+ * ACF Choices definition, closing the same display/save bug from the
+ * other side.
+ *
+ * Only ever touches open_content_license -- no other postmeta key is
+ * read or written. In dry-run mode, nothing is written at all; it
+ * only reports what WOULD change.
+ */
+
+$args     = $args ?? array();
+$commit   = in_array( 'commit', $args, true );
+$ids_only = in_array( 'ids-only', $args, true );
+
+$query = new WP_Query( array(
+	'post_type'      => 'any',
+	'post_status'    => 'any',
+	'posts_per_page' => -1,
+	'meta_query'     => array(
+		array(
+			'key'     => 'open_content_license',
+			'value'   => '&sect;',
+			'compare' => 'LIKE',
+		),
+	),
+	'fields'         => 'ids',
+) );
+
+if ( empty( $query->posts ) ) {
+	WP_CLI::log( 'No posts found with "&sect;" in open_content_license. Nothing to do.' );
+	return;
+}
+
+if ( $ids_only ) {
+	// Just the IDs, comma-separated -- same format as affected_post_ids.txt,
+	// for a quick diff against a posts.json-derived list. Ignores
+	// --commit entirely; this mode never writes anything.
+	echo implode( ',', $query->posts ) . "\n";
+	return;
+}
+
+WP_CLI::log( sprintf( 'Found %d post(s) with literal "&sect;" in open_content_license.', count( $query->posts ) ) );
+WP_CLI::log( '' );
+
+$fixed = 0;
+
+foreach ( $query->posts as $post_id ) {
+
+	$raw = get_post_meta( $post_id, 'open_content_license', true );
+
+	if ( strpos( $raw, '&sect;' ) === false ) continue; // shouldn't happen given the query, but stay defensive
+
+	$corrected = str_replace( '&sect;', '§', $raw );
+
+	WP_CLI::log( sprintf( 'Post #%d: %s', $post_id, get_the_title( $post_id ) ) );
+	WP_CLI::log( '  Before: ' . $raw );
+	WP_CLI::log( '  After:  ' . $corrected );
+
+	if ( $commit ) {
+		update_post_meta( $post_id, 'open_content_license', $corrected );
+		WP_CLI::log( '  -> written' );
+	}
+
+	WP_CLI::log( '' );
+	$fixed++;
+}
+
+if ( $commit ) {
+	WP_CLI::success( sprintf( 'Corrected %d post(s).', $fixed ) );
+} else {
+	WP_CLI::log( sprintf( 'Dry run only -- %d post(s) would be corrected. Re-run as: wp eval-file fix-sect-entities.php commit', $fixed ) );
+}

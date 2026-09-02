@@ -1,0 +1,235 @@
+/**
+ * UnicodeHexMono Font Family
+ * Version: 1.0
+ *
+ * A monospaced font covering all Unicode characters (U+0000 to U+10FFFD)
+ * Each glyph displays its hexadecimal codepoint in a rounded square
+ *
+ * Usage:
+ *   @import 'unicode-hex-mono/dist/font.css';
+ *   font-family: 'UnicodeHexMono', monospace;
+ *
+ * Total font ranges: 20
+ * Formats: WOFF2 (web optimized) + OTF (OpenType fallback)
+ * Browser optimization: Only needed files are loaded via unicode-range
+ */
+
+/* Unicode Range: U+00000 - U+000FF (256 codepoints) */
+@font-face {
+  font-family: 'UnicodeHexMono';
+  src: url('./UnicodeHexMono_00000_000FF.woff2') format('woff2'),
+       url('./UnicodeHexMono_00000_000FF.otf') format('opentype');
+  unicode-range: U+00000-000FF;
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Unicode Range: U+00100 - U+0F35F (62,048 codepoints) */
+@font-face {
+  font-family: 'UnicodeHexMono';
+  src: url('./UnicodeHexMono_00100_0F35F.woff2') format('woff2'),
+       url('./UnicodeHexMono_00100_0F35F.otf') format('opentype');
+  unicode-range: U+00100-0F35F;
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Unicode Range: U+0F360 - U+1DDE1 (60,034 codepoints) */
+@font-face {
+  font-family: 'UnicodeHexMono';
+  src: url('./UnicodeHexMono_0F360_1DDE1.woff2') format('woff2'),
+       url('./UnicodeHexMono_0F360_1DDE1.otf') format('opentype');
+  unicode-range: U+0F360-1DDE1;
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Unicode Range: U+1DDE2 - U+2C843 (60,002 codepoints) */
+@font-face {
+  font-family: 'UnicodeHexMono';
+  src: url('./UnicodeHexMono_1DDE2_2C843.woff2') format('woff2'),
+       url('./UnicodeHexMono_1DDE2_2C843.otf') format('opentype');
+  unicode-range: U+1DDE2-2C843;
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Unicode Range: U+2C844 - U+3B2A5 (60,002 codepoints) */
+@font-face {
+  font-family: 'UnicodeHexMono';
+  src: url('./UnicodeHexMono_2C844_3B2A5.woff2') format('woff2'),
+       url('./UnicodeHexMono_2C844_3B2A5.otf') format('opentype');
+  unicode-range: U+2C844-3B2A5;
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Unicode Range: U+3B2A6 - U+49D07 (60,002 codepoints) */
+@font-face {
+  font-family: 'UnicodeHexMono';
+  src: url('./UnicodeHexMono_3B2A6_49D07.woff2') format('woff2'),
+       url('./UnicodeHexMono_3B2A6_49D07.otf') format('opentype');
+  unicode-range: U+3B2A6-49D07;
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Unicode Range: U+49D08 - U+58769 (60,002 codepoints) */
+@font-face {
+  font-family: 'UnicodeHexMono';
+  src: url('./UnicodeHexMono_49D08_58769.woff2') format('woff2'),
+       url('./UnicodeHexMono_49D08_58769.otf') format('opentype');
+  unicode-range: U+49D08-58769;
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Unicode Range: U+5876A - U+671CB (60,002 codepoints) */
+@font-face {
+  font-family: 'UnicodeHexMono';
+  src: url('./UnicodeHexMono_5876A_671CB.woff2') format('woff2'),
+       url('./UnicodeHexMono_5876A_671CB.otf') format('opentype');
+  unicode-range: U+5876A-671CB;
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Unicode Range: U+671CC - U+75C2D (60,002 codepoints) */
+@font-face {
+  font-family: 'UnicodeHexMono';
+  src: url('./UnicodeHexMono_671CC_75C2D.woff2') format('woff2'),
+       url('./UnicodeHexMono_671CC_75C2D.otf') format('opentype');
+  unicode-range: U+671CC-75C2D;
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Unicode Range: U+75C2E - U+8468F (60,002 codepoints) */
+@font-face {
+  font-family: 'UnicodeHexMono';
+  src: url('./UnicodeHexMono_75C2E_8468F.woff2') format('woff2'),
+       url('./UnicodeHexMono_75C2E_8468F.otf') format('opentype');
+  unicode-range: U+75C2E-8468F;
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Unicode Range: U+84690 - U+930F1 (60,002 codepoints) */
+@font-face {
+  font-family: 'UnicodeHexMono';
+  src: url('./UnicodeHexMono_84690_930F1.woff2') format('woff2'),
+       url('./UnicodeHexMono_84690_930F1.otf') format('opentype');
+  unicode-range: U+84690-930F1;
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Unicode Range: U+930F2 - U+A1B53 (60,002 codepoints) */
+@font-face {
+  font-family: 'UnicodeHexMono';
+  src: url('./UnicodeHexMono_930F2_A1B53.woff2') format('woff2'),
+       url('./UnicodeHexMono_930F2_A1B53.otf') format('opentype');
+  unicode-range: U+930F2-A1B53;
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Unicode Range: U+A1B54 - U+B05B5 (60,002 codepoints) */
+@font-face {
+  font-family: 'UnicodeHexMono';
+  src: url('./UnicodeHexMono_A1B54_B05B5.woff2') format('woff2'),
+       url('./UnicodeHexMono_A1B54_B05B5.otf') format('opentype');
+  unicode-range: U+A1B54-B05B5;
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Unicode Range: U+B05B6 - U+BF015 (60,000 codepoints) */
+@font-face {
+  font-family: 'UnicodeHexMono';
+  src: url('./UnicodeHexMono_B05B6_BF015.woff2') format('woff2'),
+       url('./UnicodeHexMono_B05B6_BF015.otf') format('opentype');
+  unicode-range: U+B05B6-BF015;
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Unicode Range: U+BF016 - U+CDA77 (60,002 codepoints) */
+@font-face {
+  font-family: 'UnicodeHexMono';
+  src: url('./UnicodeHexMono_BF016_CDA77.woff2') format('woff2'),
+       url('./UnicodeHexMono_BF016_CDA77.otf') format('opentype');
+  unicode-range: U+BF016-CDA77;
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Unicode Range: U+CDA78 - U+DC4D9 (60,002 codepoints) */
+@font-face {
+  font-family: 'UnicodeHexMono';
+  src: url('./UnicodeHexMono_CDA78_DC4D9.woff2') format('woff2'),
+       url('./UnicodeHexMono_CDA78_DC4D9.otf') format('opentype');
+  unicode-range: U+CDA78-DC4D9;
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Unicode Range: U+DC4DA - U+EAF3B (60,002 codepoints) */
+@font-face {
+  font-family: 'UnicodeHexMono';
+  src: url('./UnicodeHexMono_DC4DA_EAF3B.woff2') format('woff2'),
+       url('./UnicodeHexMono_DC4DA_EAF3B.otf') format('opentype');
+  unicode-range: U+DC4DA-EAF3B;
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Unicode Range: U+EAF3C - U+F999D (60,002 codepoints) */
+@font-face {
+  font-family: 'UnicodeHexMono';
+  src: url('./UnicodeHexMono_EAF3C_F999D.woff2') format('woff2'),
+       url('./UnicodeHexMono_EAF3C_F999D.otf') format('opentype');
+  unicode-range: U+EAF3C-F999D;
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Unicode Range: U+F999E - U+1083FF (60,002 codepoints) */
+@font-face {
+  font-family: 'UnicodeHexMono';
+  src: url('./UnicodeHexMono_F999E_1083FF.woff2') format('woff2'),
+       url('./UnicodeHexMono_F999E_1083FF.otf') format('opentype');
+  unicode-range: U+F999E-1083FF;
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Unicode Range: U+108400 - U+10FFFD (31,742 codepoints) */
+@font-face {
+  font-family: 'UnicodeHexMono';
+  src: url('./UnicodeHexMono_108400_10FFFD.woff2') format('woff2'),
+       url('./UnicodeHexMono_108400_10FFFD.otf') format('opentype');
+  unicode-range: U+108400-10FFFD;
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
