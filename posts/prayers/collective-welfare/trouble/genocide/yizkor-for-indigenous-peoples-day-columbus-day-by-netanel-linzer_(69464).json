@@ -1,0 +1,59 @@
+{
+    "post_id": 69464,
+    "title": "Yizkor for Indigenous Peoples Day/Columbus Day, by Netanel Linzer (2016)",
+    "author": "Netanel Linzer",
+    "coauthors": [
+        {
+            "name": "Netanel Linzer",
+            "bio": "Netanel Linzer, from New York, is a graduate student in history. An Open Orthodox Jew, he grew up in Riverdale Bronx, and attends the HIR shul.",
+            "website": "",
+            "avatar": "https://opensiddur.org/wp-content/uploads/2026/10/netanel-linzer-96x96.jpg",
+            "profile_link": "https://opensiddur.org/profile/netanel-linzer"
+        }
+    ],
+    "date": "2026-10-10",
+    "last_updated": "2026-10-26",
+    "excerpt": "This tefillah is a Yizkor honoring the Taíno Nation and all other Indigenous Americans who were wiped out by Christopher Columbus. It is meant to be said on Indigenous People's day/Columbus Day. It talks about the suffering the people of America were subjected too and is a prayer asking H-shem to both care for them in death and to tell the whole world what happened.\r\n",
+    "content": "<div class=\"english\" lang=\"eng-Latn\" style=\"font-size: 1.2em;\">\nThis tefillah is a Yizkor honoring the Taíno Nation and all other Indigenous Americans who were wiped out by Christopher Columbus. It is meant to be said on Indigenous People&#8217;s day/Columbus Day. It talks about the suffering the people of America were subjected too and is a prayer asking H-shem to both care for them in death and to tell the whole world what happened.\n</div>\n<hr />\n<table style=\"margin-left: auto; margin-right: auto;\" class=\"draggable toggleable-table\">\n<thead>\n<tr>\n<th id=\"x\" style=\"text-align: right;\"><a href=\"/translate/\" target=\"_blank\">Contribute&nbsp;a&nbsp;translation</a></th>\n<th style=\"text-align: left;\">Source (English)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"vertical-align:top;\">\n<div class=\"liturgy\" lang=\"heb-Hebr\" style=\"text-align: right;\">\n</div>\n</td>\n<td style=\"vertical-align:top;\">\n<div class=\"english\" lang=\"eng-Latn\" style=\"text-align: left;\">\nMay <span class=\"divine-referent\">Hashem</span> remember the souls of the innocent<br />\nwho were killed, murdered, slaughtered, and enslaved,<br />\nwho had to watch their children eaten by animals,<br />\nand (who) as a people are no longer with us.\n</div>\n</td>\n</tr>\n<tr>\n<td style=\"vertical-align:top;\">\n<div class=\"liturgy\" lang=\"heb-Hebr\" style=\"text-align: right;\">\n</div>\n</td>\n<td style=\"vertical-align:top;\">\n<div class=\"english\" lang=\"eng-Latn\" style=\"text-align: left;\">\nI beg you <span class=\"divine-referent\">Hashem</span><br />\ndon’t let their suffering be their final moments.<br />\nLet them reside in Heaven<br />\nand come back in the time of the Mashiaḥ.<span class=\"footnote_referrer\"><a role=\"button\" tabindex=\"0\" onclick=\"footnote_moveToReference__1('footnote_plugin_reference__1_1');\" onkeypress=\"footnote_moveToReference__1('footnote_plugin_reference__1_1');\" ><sup id=\"footnote_plugin_tooltip__1_1\" class=\"footnote_plugin_tooltip_text\">[1]</sup></a><span id=\"footnote_plugin_tooltip_text__1_1\" class=\"footnote_tooltip\"> At the Resurrection of the Dead.&nbsp;</span></span><script type=\"text/javascript\"> jQuery('#footnote_plugin_tooltip__1_1').tooltip({ tip: '#footnote_plugin_tooltip_text__1_1', tipClass: 'footnote_tooltip', effect: 'fade', predelay: 0, fadeInSpeed: 200, delay: 400, fadeOutSpeed: 200, position: 'center right', relative: true, offset: [0, 0], });</script><br />\nDo not let the murderers and enslavers be celebrated,<br />\nand let the whole world know the events that occurred.<br />\nNow let us respond: <em>Amen</em>.\n</div>\n</td>\n</tr>\n</tbody>\n</table>\n<hr />\n<p>&#8220;Yizkor for Indigenous Peoples Day/Columbus Day&#8221; was written by Netanel Linzer &#8220;around 2016&#8221; and was originally published on <a href=\"https://ritualwell.org/ritual/yizkor-columbus-day/\">ritualwell.org</a>.</p>\n<p>&nbsp;</p>\n<div class=\"speaker-mute footnotes_reference_container\"> <div class=\"footnote_container_prepare\"><p><span role=\"button\" tabindex=\"0\" class=\"footnote_reference_container_label pointer\" onclick=\"footnote_expand_collapse_reference_container__1();\">Notes</span><span role=\"button\" tabindex=\"0\" class=\"footnote_reference_container_collapse_button\" style=\"display: none;; display: none;\" onclick=\"footnote_expand_collapse_reference_container__1();\"></span></p></div> <div id=\"footnote_references_container__1\" style=\"\"><table class=\"footnotes_table footnote-reference-container\"><caption class=\"accessibility\">Notes</caption> <tbody> \r\n\r\n<tr class=\"footnotes_plugin_reference_row\"> <th scope=\"row\" id=\"footnote_plugin_reference__1_1\" class=\"footnote_plugin_index pointer\" onclick=\"footnote_moveToAnchor__1('footnote_plugin_tooltip__1_1');\"><a role=\"button\" tabindex=\"0\" class=\"footnote_plugin_link\" >1</a></th> <td class=\"footnote_plugin_text\">At the Resurrection of the Dead.</td></tr>\r\n\r\n </tbody> </table> </div></div><script type=\"text/javascript\"> function footnote_expand_reference_container__1() { jQuery('#footnote_references_container__1').show(); jQuery('#footnote_reference_container_collapse_button__1').text('−'); } function footnote_collapse_reference_container__1() { jQuery('#footnote_references_container__1').hide(); jQuery('#footnote_reference_container_collapse_button__1').text('+'); } function footnote_expand_collapse_reference_container__1() { if (jQuery('#footnote_references_container__1').is(':hidden')) { footnote_expand_reference_container__1(); } else { footnote_collapse_reference_container__1(); } } function footnote_moveToReference__1(p_str_TargetID) { footnote_expand_reference_container__1(); var l_obj_Target = jQuery('#' + p_str_TargetID); if (l_obj_Target.length) { jQuery( 'html, body' ).delay( 0 ); jQuery('html, body').animate({ scrollTop: l_obj_Target.offset().top - window.innerHeight * 0.2 }, 380); } } function footnote_moveToAnchor__1(p_str_TargetID) { footnote_expand_reference_container__1(); var l_obj_Target = jQuery('#' + p_str_TargetID); if (l_obj_Target.length) { jQuery( 'html, body' ).delay( 0 ); jQuery('html, body').animate({ scrollTop: l_obj_Target.offset().top - window.innerHeight * 0.2 }, 380); } }</script>",
+    "categories": [
+        "Pogroms &amp; Genocide",
+        "&#x1f1fa;&#x1f1f8; Indigenous Peoples' Day (2nd Monday of October)"
+    ],
+    "tags": [
+        "English vernacular prayer",
+        "Indigenous Peoples",
+        "mourning",
+        "יזכור yizkor"
+    ],
+    "custom_fields": {
+        "open_content_license": [
+            "<a href='https://creativecommons.org/licenses/by-sa/4.0/'>Creative Commons Attribution-ShareAlike (CC BY-SA) 4.0 International</a> copyleft license"
+        ],
+        "_yoast_wpseo_primary_category": [
+            "5002"
+        ],
+        "_thumbnail_id": [
+            "69467"
+        ],
+        "date_src_start": [
+            "2016-00-00"
+        ],
+        "date_src_end": [
+            "2016-00-00"
+        ],
+        "languages_meta": [
+            "[{\"name\":\"English\",\"code\":\"eng\",\"standard\":\"ISO 639-3\"}]"
+        ],
+        "scripts_meta": [
+            "[{\"name\":\"Latin\",\"code\":\"Latn\",\"standard\":\"ISO 15924\"}]"
+        ]
+    },
+    "featured_image": {
+        "url": "https://opensiddur.org/wp-content/uploads/2026/10/bartolome-de-las-casas-regionum-355385740-mg-8829-a3-f1-tif.jpg",
+        "title": "Bartolomé_de_las_Casas_Regionum_355385740_MG_8829_A3-f1.tif",
+        "caption": "<a href=\"https://commons.wikimedia.org/wiki/File:Bartolom%C3%A9_de_las_Casas_Regionum_355385740_MG_8829_A3-f1.tif\">Hanging, burning and clubbing of Indians by Spanish soldiers</a> (Joos van Winghe). Folio 1 in Bartolomé de las Casas (1474-1566): Regionvm indicarum per Hispanos olim devastatarum accuratissima descriptio, insertis figuris æneis ad vivum fabrefactis"
+    },
+    "source_link": "https://opensiddur.org/?p=69464",
+    "permalink": "https://opensiddur.org/prayers/collective-welfare/trouble/genocide/yizkor-for-indigenous-peoples-day-columbus-day-by-netanel-linzer/",
+    "slug": "yizkor-for-indigenous-peoples-day-columbus-day-by-netanel-linzer"
+}
